@@ -665,3 +665,48 @@
   13:22 - 20:49 Gameplay
   ```
 
+##### #1293
+
+* Titel: `Let's Play ESO #1293 - Dämmerdorf [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 30 des Greymoor DLCs - Sitzung 5
+  
+  Warum man direkt ein Dorf mit allen Einrichtungen einrichten muss wenn man Bergbau in der Schwarzweite betreibt ist mir nicht ganz klar. Aber ich denke es hat damit zu tun das der Weg nach unten signifikant weiter in der "Realität" ist als wir es gesehen haben. Anders kann ich mir nicht erklären wie man so eine Operation unterhalten kann. Generell glaube ich das diese gesamte Schwarzweitebergbau Gesellschaft entweder einen geheimen Sponsor hat oder gewaltige Gewinne abwirft. Ich kann mir übrigens nicht vorstellen das man so tolle Sachen da unten findet. Grade im Vergleich zur gefundenen Gefahr kann es eigentlich gar nicht genug Schätze geben. Wie dem aber auch sei, Dämmerdorf ist ein schöner verschlafender Ort. Voller Frieden. Und bald mit exakt 0 Überlebenden wenn es nach den Plänen der Eiskaphexen geht.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  
+  0:00 - 3:55: Gameplay
+  3:56 - 5:55: Buch - Schwarzweite: Fiktion und Fakten
+  5:56 - 17:40: Gameplay
+  ```
+
+##### #1294
+
+* Titel: `Let's Play ESO #1294 - Schwester Tharda [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 31 des Greymoor DLCs - Sitzung 5
+  
+  Eine Ansammlung von Hexen heißt in der Regel Schwesternschaft. Das ist so wie mit Burschenschaften, da hat man dann wohl auch Kameraden oder halt Brüder. Auch im Militär kennt man seine Waffenbrüder. Und Hexenschwester scheint mir auch nicht all zu weit hergeholt zu sein. Magie verbindet, zumindest hat sie in den meisten Universen irgendwie eine Verbindung zum tiefsten Inneren des Seins. Manchmal sogar so roh das es ziemlich gefährlich ist irgendwas zu zaubern. Umso schmerzlicher muss es dann natürlich sein wenn man eine Schwester verliert. Da wir aber nicht auf so etwas Rücksicht nehmen können und uns die Bewohner von Dämmerdorf sowieso geistig näher sind (die Distanz zwischen Hochelfin Zauberin und einfachen Minenarbeitern, größtenteils keine Elfen ist allerdings auch nicht grade gering) tun wir heute was nötig ist um Leben zu retten.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1295
+
+* Titel: `Let's Play ESO #1295 - Ärger im Untergrund [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 32 des Greymoor DLCs - Sitzung 5
+  
+  Ich gebe an der Stelle mal ganz offen zu das ich Episoden öfter nach den Titeln der Missionen benenne anstatt nachdem was wirklich passiert ist. Das scheint mir irgendwie erfolgreicher zu sein und man möchte ja auch gesehen werden. Wir begegnen heute Claudina Ildene und Phoebe Peronard. Beide anscheinend Geisterjäger bzw. Geisterjäger und Assistentin. Ich sehe gewisse Parallelen zu einem gewissen Dunkelelfen. Da hört es dann aber auch schon auf. Die beiden meinen das wohl wirklich ernst mit der Aufklärung. Fakt ist auch, in Dämmerdorf verschwinden Menschen. In einer großen Höhle ist das nicht weiter überraschend aber dennoch alarmierend. Für alle Beteiligten. Deswegen möchte man gerne nachprüfen wie das den sein kann.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

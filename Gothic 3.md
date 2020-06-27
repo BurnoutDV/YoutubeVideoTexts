@@ -1552,3 +1552,31 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #165
+
+* Titel: `Gothic 3 - #165 - die Seuche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird mal wieder Zeit für den Community Liebling, die Community Quest. Klein Erinnerungen für die Leute die bis hier her alles durchgeskippt haben und netto ungefähr 5 Minuten geschaut haben: das Gothic 3 was ich spiele hat einige Lebensqualitätsflicken und auch ein paar zusätzliche Missionen die von den gleichen(?) Leuten gemacht wurden. Das Ganze ist sogar vertont, für einen Mod von vor einiger Zeit ist das gar nicht einmal wenig. Ärgerlicherweise ist der namenlose Held ein wenig sehr schlecht vertont, daher übernehme ich das selber. Zur Sache, es geht um irgendeine mysteriöse Seuche die hier in Mora Sul ihren Anfang nimmt, und mit einiger Aufwendung von Geld und Zeit können wir das ganze Problem sicherlich lösen. Das führt dann zu mehr und schon sind auf einmal ganz woanders.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #166
+
+* Titel: `Gothic 3 - #166 - die Spur des Wassers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir spielen immer noch eine Community Quest. Daher könnte dies den Ein oder Anderen ein wenig verwirren was wir hier eigentlich tun. Wir verfolgen Wasserlieferungen die anscheinend mit einer Krankheit verseucht war bzw. immer noch ist. Wir erfahren bei der guten Gelegenheit das es scheinbar einen ernsthaften Wassermangel in der Wüste gibt (ach?) und damit meine ich nicht das es halt Wüste ist. Viel mehr scheinen die örtlichen Wasserhändler enorm zu mauern wenn man ihr Produkt kaufen will. Außerdem scheint es als Aussage legitim zu sein das man das Wasser nicht auf Krankheiten prüfen kann selbst wenn die ganze Stadt in Gefahr sind weil "der Brunnen jetzt halt zu ist". Aber hey, immerhin können wir das Problem mit Geld lösen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

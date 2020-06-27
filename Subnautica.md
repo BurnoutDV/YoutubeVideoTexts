@@ -659,3 +659,42 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Subnautica auf dem Dienstags Slot.
   ```
+
+##### #64
+
+* Titel: `Subnautica - #64 - Heimbesuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein Wärmekraftwerk gefunden. Darin werden gewaltige Energien verwaltet. Viel wichtiger noch ist aber das es dort ein Portal direkt an die Oberfläche gibt. Das macht es uns leicht einmal kurz die heimische Basis zu besuchen. Einziger Wermutstropfen, wir müssen knapp 1200 Meter schwimmen. Selber, ohne technische Hilfsmittel. Aber dann können wir endlich einmal eine Nacht in unserem heimischen Bett schlafen. Obwohl der Nachtschlaf wahrscheinlich nicht so gut ist, schließlich müssen wir uns die ganze Zeit sorgen das es unserem Zyklopen schlecht ergehen könnte. Die Gefahr von einem zufällig vorbei schwimmenden Seedrachen verschlungen zu werden ist real. Nicht gut für die Erholung, es könnte nur noch besser sein wenn wir an Bord des Zyklopen schlafen würden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Subnautica auf dem Dienstags Slot.
+  ```
+
+##### #65
+
+* Titel: `Subnautica - #65 - in 1500 Meter Tiefe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir unser Schiff mitten im Einsatz auf die maximal mögliche Tiefe von 1700 Metern ausgerüstet haben ist jetzt der Zeitpunkt gekommen noch weiter vorzudringen und endlich die letzten Geheimnisse des Planeten 4546B zu ergründen. Aus den Unterlagen des Thermalkraftwerks wissen wir das es noch eine weitere Basis geben muss. Mir ist übrigens nicht ganz bewusst warum die wichtigste Anlage auch in der größten Tiefe sein muss wo man am schlechtesten heran kommt. Der Inhalt ist definitiv wichtig aber ich hätte den Eindruck das eine Basis in so großer Tiefe auch einem erheblichen Risiko durch den Wasserdruck ausgesetzt ist. Wie dem aber auch sei, unser Schiff kommt da jetzt hin und solche Gedanken kommen wahrscheinlich auch knapp 1000 Jahre zu spät.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Subnautica auf dem Dienstags Slot.
+  ```
+
+##### #66
+
+* Titel: `Subnautica - #66 - das Museum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Aliens die auf den Planeneten 4546B ihre Experimente gemacht haben haben sich offenbar auf einen längeren Aufenthalt eingerichtet. Das überrascht nicht, ihre Zivilisation wurde anscheinend durch eine Galaxie spannende Seuche ausgelöscht. Mir ist trotzdem ein Rätsel wie niemand von ihnen überleben konnte. Die Dringlichkeit der Gesamtoperation lässt aber immerhin erahnen warum so eine gewaltige Anlage gebaut werden konnte. Vieles sieht zwar aus wie das standardmäßige Vorgehen der Aliens, aber eventuell handelte es sich auch um den Höhepunkt ihrer Technik und Tonnen an experimenteller Technologie. Was mich aber ein wenig verwirrt ist der Mangel an Fortbewegungsmitteln. Nirgendwo haben wir angedockte Bote oder überhaupt Dockingstellen gefunden. Ausnahme ist das eine Becken in der Vollstreckungsplattform. Seltsam oder? Oder hatten sie persönliche Teleporter. Das Museum und die Aufbereitungsanlage die wir heute besuchen geben auf jeden Fall keinen Aufschluss darüber. Immerhin wissen wir jetzt das der Untergang der Aliens wohl die Existenz der Raumfahrenden Menschheit ermöglicht hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Subnautica auf dem Dienstags Slot.
+  ```

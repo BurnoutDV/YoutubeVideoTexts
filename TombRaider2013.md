@@ -209,3 +209,44 @@
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
 
+##### #16
+
+* Titel: `Tomb Raider [2013] - #16 - Paragleiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Ferienresort hat etwas zu bieten das ich noch gar nicht ausprobiert habe: Paragleiten. Glücklicherweise haben wir ja grade eine hohe Position eingenommen, daher können wir von dort hinunter durch den Wald und die örtlichen Flüssen gleiten. Das gibt eine Mordsaussicht! Außerdem kommen wir in die Siedlung der lokalen Eingeborenen landen in die wir sowieso wollten um von dort aus unseren Pilgerfahrt zu einer weiteren Kulturstätte zu beginnen. So kommt Eines zum Anderen und wir profitieren quasi von der guten Planung unseres Reiseveranstalters: Zufall.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```
+
+##### #17
+
+* Titel: `Tomb Raider [2013] - #17 - Nebelfunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Feuerpfeile! Lara erfindet immer wieder neue Sachen die antike Kulturen schon seit Jahrtausenden für sich entdeckt haben. Glücklicherweise hat die gute Frau Croft nie Zeit damit verbracht genau solche Kulturen zu untersuchen oder anderweitig zu erforschen so dass es wirklich eine enorme Innovationskraft erfordert hat dies nach zu erfinden. Mit diesem neuen Stück Ausrüstung können wir uns jetzt auch noch mal die Gegend angucken aus der wir gekommen sind. Das ist auch dringend notwendig, anscheinend habe ich immer noch Sachen vergessen und das kann ich nicht auf mich sitzen lassen. Am Ende spielen wir ein Spiel unter 100% durch. Im Reiseprospekt stand übrigens nichts davon das es auf der Insel soviel Nebel gibt, uns wurde Sonnenschein mit ausgedehnten Strandspaziergängen versprochen. Davon sind wir aktuell relativ weit entfernt. Aber immer bringt due ungewohnte Atmossphäre Kreativität zu Tage.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```
+
+##### #18
+
+* Titel: `Tomb Raider [2013] - #18 - Geschichtslesung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Bergdorf gibt es noch einige Stätten die wertvolle Informationen über die Vergangenheit unseres allerliebsten Ferienresorts enthalten. Diese möchten wir natürlich nicht brach liegen lassen und stattdessen in uns aufnehmen. Dazu müssen wir sie aber auch erst einmal finden. Der Reiseveranstalter hat in dieser Hinsicht nicht unbedingt für Komfort gesorgt. Allerdings finden wir bei der günstigen Gelegenheit außerdem heraus das es wohl in der Vergangenheit der Ferieninsel Yamatai auch Grund für Beschwerden gab. Ein hochrangiger Würdenträger eines anderen Landes hatte wohl Schwierigkeiten bei seinem Aufenthalt auf der Insel. Wie es letztendlich für ihn ausgegangen ist wissen wir allerdings nicht. Ich nehme an das er eine durch wachsene Bewertung auf den damals üblichen Bewertungsportalen hinterlassen hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

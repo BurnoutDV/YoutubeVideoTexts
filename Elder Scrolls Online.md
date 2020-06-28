@@ -710,3 +710,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1296
+
+* Titel: `Let's Play ESO #1296 - Hauptmann Ageran [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 33 des Greymoor DLCs - Sitzung 5
+  
+  Nicht immer sind wir die einzige Heldin die sich um ein Unrecht oder seltsamen Vorfall kümmert. Heute war bereits der örtliche Wachhauptmann lange vor uns an dem Fall dran. Der Mann hat nämlich ein gewissen und nimmt seine Aufgabe ernst. Etwas zu ernst wie man sagen muss. Es ist ein wenig befremdlich das die herrschende Authorität uns nichts über die Bemühungen des Hauptmanns erzählt hat. Ich habe das dringende Gefühl das Aufseher Urlvar etwas zu verbergen hat. Übrigens ist es auch bezeichnend für die Kulturen von Tamriel das es nur etwas Geld braucht und schon kann man zum lokalen Herrscher werden den sich alle unterwerfen. Bis die Revolution kommt zumindest...
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

@@ -1580,3 +1580,31 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #167
+
+* Titel: `Gothic 3 - #167 - Geschichte der untoten Priester [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben bereits einige viele von ihnen getroffen. Die untoten Priester in den Wüsten von Mora Sul. Den reinen anschein nach sehen sie aus wie Wassermagier die zu lange in der Sonne lagen. Allerdings sind die Priester irgendwie böse. Das könnte aber auch daran liegen das sie den Auftrag haben ein Artefakt zu beschützen und das ist nicht so ohne Gewalt möglich. Menschen oder Orks die in eine Grabstätte eindringen um nach Reichtümern zu suchen lassen sich selten mit einer freundlichen Erklärung dazu bringen wieder umzukehren. Insbesondere wenn man mit sehr viel Aufwand eine größere Anzahl an Schlüsseln zusammengerafft hat. Der Community Mod gibt dem hier noch einen Spin, angeblich können die untoten Priester aus dem Grab heraus "ihre" Magie manipulieren. Das ist interessant, wenn man bedenkt das "ihre" Magie bisher aus Feuerbällen, Eiszauber und Stabschwingen bestand.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #168
+
+* Titel: `Gothic 3 - #168 - die große Arena von Faring [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben in Mora Sul einen gewaltigen Erfolg erzielt. Daher eilen wir geschwinden Schrittes zurück nach Faring, da wo es die größte Arena der Orks gibt. Früher hat man uns hier abgewiesen mit der Erklärung das wir nicht würdig genug seien. Dies hat sich jetzt, nach unserem Sieg in der Wüste, wohl geändert und wir dürfen endlich antreten. Es ist schon irgendwie bezeichnend das die Assassinen richtige Räumlichkeiten für das Abhalten eines Duells haben während man im besetzten Orkgebiet auf eine Schlammgrube zurückgreifen muss. Aber vielleicht legen die Orks auch einfach überhaupt keinen Wert auf Oberflächlichkeiten und nur die Reinheit des Kampfes zählt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

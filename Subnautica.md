@@ -698,3 +698,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Subnautica auf dem Dienstags Slot.
   ```
+
+##### #67
+
+* Titel: `Subnautica - #67 - See-Imperator [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Aliens die einst auf den Planeten 4546B gelandet sind um das Khaara Virus zu heilen hatten einen Ansatz. Irgendwoher wussten sie das eine örtliche Spezies die hier wohnt die sie als "See-Imperator" bezeichnet haben Immun gegen das Virus ist. Das Wesen selbst muss noch leben, andernfalls ist die Wasserzirkulationsanlage die wir gefunden haben nicht zu erklären. Außerdem haben wir Glubscher mit einem seltsamen Enzym gefunden, dieses stammt anscheinend vom See-Imperator. Daher dürfte es heute niemanden überraschen das wir ein Wasserbecken tief im Inneren der letzten Anlage auf 1500 Meter Tiefe finden. Ein Wasserbeck mit einen komplett anderen Biom als das was wir von außen kannten. Keine Lava, kein See-Drachen. Stattdessen eine beruhigende Atmosphäre voller gesunder Fische..und eines großen Fisches der mit uns spricht...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Subnautica auf dem Dienstags Slot.
+  ```

@@ -250,3 +250,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #19
+
+* Titel: `Tomb Raider [2013] - #19 - einfache Behausungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vater Mathias hat eine Bande von Schiffbrüchigen mit maximaler Brutalität dazu gebracht ihm zu folgen. Ich kann dieser Art des Managements nicht wirklich etwas abgewinnen. Aber die Ergebnisse sprechen für sich. Es gibt eine strafe Organisation und bei der Reaktion auf Beschwerden gab es bisher keine Mängel zu finden. Man hat immer prompt und ohne Umschweifen reagiert und war gerne bereit uns mit Feuer und Flamme zur Hand zu sein. Allerdings scheint dieser Führungsstil auch zur Folge zu haben das man das eigene Heim vernachlässigt. Durch einen Zufall laufen wir heute durch die Behausungen der Angestellten und ich muss schon sagen das ich entsetzt bin. An der Stelle hätte ich definitiv mehr Luxus erwartet. Insbesondere wenn man bedenkt über welchen Ressourcenreichtum die Insel verfügt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

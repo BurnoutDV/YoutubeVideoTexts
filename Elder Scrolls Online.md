@@ -724,3 +724,31 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1297
+
+* Titel: `Let's Play ESO #1297 - Minenbeschützer Bruik [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 33 des Greymoor DLCs - Sitzung 5
+  
+  Es stellt sich heraus das wir es doch nicht mit Geistern zu tun haben. Generell erfahren wir das die Leute in der Mine unter deutlich gefährlicheren Umständen arbeiten als es bei normalen Minen der Fall ist. Das weiß aber auch Aufseher Urlvar und hat daher Vorkehrungen getroffen. Ich bin mir aber nicht ganz sicher ob sein Verhalten moralisch tragbar ist. Wahrscheinlich nicht, insbesondere weil er seine zweite Reihe an Sicherheitsdienstleister nicht unbedingt in Münze bezahlt. Außerdem finde ich seine Reaktion auf langsame und vielleicht nicht ganz so motivierte Arbeiter ein wenig übertrieben. Zu meiner Zeit hat man Leute noch einfach entlassen anstatt sie einem Vampir zum Frass vorzuwerfen. Aber anscheinend herrscht in den Minen wirklich so eine Art Feudalkultur und die Minenarbeiter haben jegliche Rechte an ihre Person mit dem Betreten der Mine abgesprochen.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1298
+
+* Titel: `Let's Play ESO #1298 - Heimkehr in die Gilde [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 34 des Greymoor DLCs - Sitzung 6
+  
+  Ich hätte gedacht das ich mich länger in den Tiefen der Schwarzweite aufhalte. Insbesondere weil meine magische Karte bereits ein riesiges Feld aufzeigt und wir offensichtlich noch viel weiter hätten rennen können. Aber unsere Pläne sehen offensichtlich anders aus. Stattdessen gehen wir wieder zurück nach Einsamkeit. Technisch gesehen sollen wir dort Prinzession Svana abholen und schauen wie es ihr geht. Wesentlich wichtiger ist es aber zurück zur Gilde der Antiquare zu kommen und dort eine andere Mission abzuschließen. Schließlich gibt es hier jemanden der ein Ritual erschaffen hat das dauerhaft die Nekromantie von Drachen unterbinden kann.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

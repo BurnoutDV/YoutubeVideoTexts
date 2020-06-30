@@ -711,3 +711,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Subnautica auf dem Dienstags Slot.
   ```
+
+##### #68
+
+* Titel: `Subnautica - #68 - Probenportale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Subnautica ist sehr fair zu uns. Wir brauchen eine größere Mengen Proben um das eine Enzym herzustellen das dafür sorgt das der See Imperator endlich Nachwuchs erhält. Bzw. so das der Nachwuchs endlich ausschlüpfen kann. So weit wir das bisher in Erfahrung bringen konnten kommen die entsprechenden Proben aus verschiedenste Teile des Kraters. Müssten wir den langen Weg an die Oberfläche und dann über die gesamte Fläche des Kraters laufen würde dabei bestimmt eine Menge Zeit vergehen. Glücklicherweise besitzen die Aliens eine Technologie die es uns erlaubt durch die Gegend zu teleportieren. Ich bin mir nicht sicher ob die Menschheit etwas Vergleichbares zur Verfügung hat. Wahrscheinlich nur in Groß in Form der Quantenportale mit denen die Weltraumfahrt funktioniert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Subnautica auf dem Dienstags Slot.
+  ```
+
+##### #69
+
+* Titel: `Subnautica - #69 - die seltene Seekrone [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben 4 Portale aber benötigen 5 Dinge um endlich das Enzym herzustellen auf das der See-Imperator ein Tausend Jahren gewartet hat herzustellen. Der fünfte Gegenstand liegt entweder ganz woanders oder wir müssen auftauchen und vielleicht sogar in Küstennahes Gewässer schauen. Um die Geschichte kurz zu machen, wir haben absolut keine Ahnung wo das sein könnte was wir suchen. Da uns dieser Ansatz fehlt habe ich heute eine mutige Idee wo eventuell auftauchen könnte was ich vermisse. Der letzte Gegenstand ist die sogenannte Seekrone. Ein Gras nehme ich an das irgendwo im Gebiet des Kraters wachsen muss. Generell ist das übrigens so ein Ding, was wenn die Seekrone irgendwo in der letzten Ecke auf 20 Meter Höhe liegt? Oder vielleicht sogar eine Festlandpflanze ist? Vielleicht ist es auch ausgestorben und wir sind 950 Jahre zu spät.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Subnautica auf dem Dienstags Slot.
+  ```

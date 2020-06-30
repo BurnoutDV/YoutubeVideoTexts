@@ -264,3 +264,31 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #20
+
+* Titel: `Tomb Raider [2013] - #20 - leises Vorantreten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir befinden uns in einem Bereich von dem die Inselleitung vielleicht nicht unbedingt möchte das wir ihn näher erkunden. Eventuell hat man Angst das Kritik über die Unterkünfte der hiesigen Arbeiter an die Außenwelt dringen würde. Als guter Gastgeber möchte man uns natürlich auch nicht allzu sehr verärgern. Als Kompromiss gehe auch ich ein wenig leiser vor. Man weiß ja nie welche schlafenden Hunde man wecken könnte. Generell ist Frau Croft aber mittlerweile ganz gut darin leisen Fußes vorran zu kommen. Schon alleine um nicht die Spielgefährten der letzten Nacht zu wecken die man an der Hotelbar getroffen hat. Es gab also Übung. Immerhin gibt es auch eine Belohnung dafür sehen wir auch einige Dinge.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```
+
+##### #21
+
+* Titel: `Tomb Raider [2013] - #21 - erneuerte Relikte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist erstaunlich, eigentlich leben die Gestrandeten schon seit vielen Jahren auf der Insel und so wie es aussieht haben sie jeden Meter bereits auseinander genommen. Ausnahmen bilden wohl die Orte an denen die Oni hausen, und doch hat man für Touristen wie Frau Croft etwas Kultur erhalten. So wurden alte Kulturgüter für die Nachwelt erhalten. Heute kommen wir erneut in den Genuss von guten Kulturgütern die wir uns ganz genau angucken können. Dies schmälert mein Entsetzen über den desolaten Zustand über die Behausungen der örtlichen Arbeiter ein wenig. Man begegnet uns immer noch mit einem gewissen Grad an Misstrauen. Dies missfällt mir schon ein wenig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

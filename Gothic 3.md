@@ -1608,3 +1608,31 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #169
+
+* Titel: `Gothic 3 - #169 - der lange Weg nach Ishtar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es steht noch eine Stadt (und der Tempel in Mora Sul) aus, da ich aktuell wenig Lust habe den letzten Schlüssel zu finden machen wir uns jetzt zur letzten Stadt auf. Mir ist natürlich absolut bewusst das wir höchstwahrscheinlich nicht durch die Tür kommen. Es hieß immer und immer wieder das man für den Eintritt in Ishtar über eine größere Menge an Ansehen bei den Assassinen verfügen müsste. Oder zumindest Einiges an Geld rüberwachsen sollte. Wir wissen ja mit Sicherheit das in der Wüste alles käuflich ist. Und da es zum Glück eine Einheitswährung gibt können wir ja alles kaufen, egal wo wir sind. Eigentlich eine große Errungenschaft. Ich warte immer noch auf das Spiel in dem man in jeder Stadt erst einmal zum Geldwechsel muss. Das wird bestimmt großartig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #170
+
+* Titel: `Gothic 3 - #170 - die alte Paladinrüstung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf unserem Weg nach Ishtar sind wir nur ein ganz klein wenig abgekommen. So etwas kommt immer wieder vor, heute lohnt sich das Ganze übrigens sehr. Wir finden eine legendäre Paladinrüstung, bestimmt vermisst sie irgendjemand, aber bis der Besitzer sich bei uns meldet können wir das gute Stück benutzen. Die Rüstung hat außerdem den Charm das sie bei keiner Fraktion verhasst ist und wir durch die Zivilisationen dieser Welt laufen können ohne das wir uns andauernd umziehen müssen. Das nenne ich mal wirklich praktisch. Es ist natürlich ein wenig befremdlich das eine Rüstung die seit Jahrzehnten in einem offenen Hügelgrab lag besser ist als alles was die Wirtschaft dieser Welt herstellen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

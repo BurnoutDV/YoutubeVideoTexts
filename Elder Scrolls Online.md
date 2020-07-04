@@ -752,3 +752,45 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1299
+
+* Titel: `Let's Play ESO #1299 - die zweite Audienz [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 35 des Greymoor DLCs - Sitzung 6
+  
+  Nachdem die örtliche Gemahlin des ebenfalls örtlichen Regenten unlängst verstorben ist fehlt uns ein wenig der Zugang zu den Machthabern dieser Region. Glücklicherweise waren wir im Vorfeld in der Lage uns bei der Tochter des Königs einzuschleimen, daher versuchen wir es heute erneut. Ärgerlicherweise ist Svana nicht die beste Tochter gewesen und macht es uns daher nicht ganz einfach bis zu König Svargrimm vorzudringen. Aber daran ist er wahrscheinlich auch selber schuld. Der gute Mann sieht immer noch überall Attentäter, das nervt ein wenig. Insbesondere weil er schon langer tot wäre wenn wir das gewollt hätten. Steht er vielleicht doch unter dem Einfluss einer fremden Macht?
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1300
+
+* Titel: `Let's Play ESO #1300 - Orchestrierung [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 36 des Greymoor DLCs - Sitzung 6
+  
+  Heute haben wir es geschafft. Ich präsentiere Stolz: Episode 1300. Nur noch 700 Stück und schon haben wir 2000 Videos zum Thema ESO. Schön. Und davon habe ich ich so gut wie nichts im PvP verbracht. Die ganze Zeit war wirklich alles irgendwie Geschichte. Unabhängig davon, ich erliege heute einer Fehleinschätzung. Besser gesagt, ich erlag einer Fehleinschätzung. Ich nahm doch glatt an das die ganze Ausgrabungsgeschichte die Sammelquest der Region ist. In der Tat ist dies aber nicht korrekt. Stattdessen können wir hier Musikinstrumente einsammeln. Ich freue mich ja sehr, wenn ich jetzt noch die Tafeln, Stofffetzen, Psychic Artefakte und Orkartefakte gesammelt hätte wären alle Sammelquest voll. Ganz einfach. Nur wann?
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1301
+
+* Titel: `Let's Play ESO #1301 - einsame Wege [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 37 des Greymoor DLCs - Sitzung 6
+  
+  Unser Aufenthalt in Einsamkeit war wieder einmal kurz. Nur selten kommen wir in das Vergnügen tatsächlich länger Vor Ort zu bleiben und die Annehmlichkeiten der einzigen Stadt im westlichen Himmelsrand zu genießen. Das ist sehr schade, auf der anderen Seite könnten wir kaum unseren Lebenstil finanzieren wenn wir immer nur in Städten wären. Es ist eine traurige Wahrheit das der Abenteurer nur wenige Wege hat sich wirklich zur Ruhe zu setzen. Wir haben es da noch relativ einfach. Mit unseren Verbindungen zur Magiergilde könnten wir bestimmt eine ruhigere Anstellung um Lehrkörper oder in einer forschenden Abteilung gewinnen. Mit etwas Glück auch im Forschungszentrum für Niedrigenergiemagie. Da wo es nicht ganz so gefährlich ist. Niemand möchte sich mit irgendwelchen Flüchen rumärgern, richtig?
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

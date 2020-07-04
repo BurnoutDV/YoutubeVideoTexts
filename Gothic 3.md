@@ -1636,3 +1636,45 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #171
+
+* Titel: `Gothic 3 - #171 - die Löwenhöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hätte diese Episode natürlich auch "die Höhle des Löwen" nennen können, aber nicht nur hätte ich damit eine Übereinstimmung mit irgendeinem drittklassigen Format von RTL (oder so?), es wäre außerdem auch noch inakkurat. In der Regel lebt vielleicht nur ein Löwe pro Höhle, hier aber definitiv nicht. Generell habe ich aber keinerlei Kenntnis darüber wieviele Löwen wirklich in Höhlen leben. Da es Berglöwen gibt nehme ich mal an das es da schon ein paar gibt, im Großen und Ganzen würde ich aber mal schätzen das die meisten Löwen, als Großjäger, eher auf offener Steppe schlafen. Wer soll da auch schon kommen und sie überfallen? Andere Löwen? Die schlafen nachts. Es wäre aber wie erwähnt eine Löwenhöhle, ist ja mehr als eine, politisch korrekt wäre es sogar eine Löwen und Löwinnenhöhle. Vielleicht auch eine Löwenkommune. Aber, nicht mehr lange, wir bringen nämlich alle um. Am Ende ist es dann nur noch eine Kadaverhöhle. Der Begriff ist erst einmal neu. Auch schön. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #172
+
+* Titel: `Gothic 3 - #172 - die drei Rudelführer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mittlerweile haben wir es dann doch in die Gegend von Ishtar geschafft. Jetzt gibt es eigentlich nicht mehr viel zu tun außer die Stadt zu betreten. Aber bevor wir das tun schauen wir uns doch noch einmal die Umgebung an. Man weiß ja nie ob es nicht vielleicht noch einen Geheimgang oder versteckte Schätze außerhalb der Mauern gibt. Insbesondere in der Wüste rechne ich durchaus mit solchen Chancen. Einfach weil nicht all zu viele Leute sich bei diesen Umweltbedigungen raus trauen sollten oder? Was wir finden sind übrigens weiter Schakale, diesmal sogar mit angeschlossenen Rudelführer. Das erhöht den Spaßfaktor noch einmal erheblich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #173
+
+* Titel: `Gothic 3 - #173 - Ishtar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute schaffen wir es! Wir kommen endlich in Ishtar an, wir gehen dann übrigens auch direkt wieder. Das liegt daran das die doofen Assassinen uns nicht rein lassen wollen. Nicht sehr überraschend. So richtig Vertrauen haben wir ja nicht bei ihnen erworben. Immerhin ist die Bande käuflich. Wir bräuchten also nur noch ein wenig Gold und schon könnte es los gehen. Leider handelt es um so lächerlich gewaltige Mengen an Finanzen das ich das nicht mal so einfach stemmen kann. Generell weiß ich nicht übrigens nicht warum einer meiner Zuschauer berichtet hat das man "später" im Spiel keinen Geldmangel mehr haben wird. Wir haben konstant und eigentlich nur Geldmangel und bisher habe ich noch nicht gesehen das wir dagegen irgendetwas tun können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

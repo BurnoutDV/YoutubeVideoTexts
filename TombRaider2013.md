@@ -292,3 +292,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #22
+
+* Titel: `Tomb Raider [2013] - #22 - Freudenfeuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Teil vieler Folklore ist ein großes Feuer zum Ende des Jahres, zur Ernte oder bei einem anderen kalendarischen Ereignis. Die Solaari machen da übrigens auch keine Ausnahme. Ihr Ansatz ist allerdings ein wenig anders. Sie zünden dann ein großes Feuer an wenn eine hübsche junge Frau die Insel betritt. Letztendlich will man aber nicht mit den Eingeborenen streiten, schließlich möchte man hier niemanden auf die Füße treten. Dennoch sehr interessant an welchen Ort dieses Frauenbegrüßungsritual stattfindet. Frau Croft ist allerdings ein wenig pikiert ob der Tatsache das für sie kein Feuer gemacht wurde. Ich kann verstehen warum man dies als Affront auffasst. Wie dem aber auch sei, wir stören daher die Party, es kann ja wohl nicht sein das man uns weniger Aufmerksamkeit zuteil werden lässt als irgendjemanden anders.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

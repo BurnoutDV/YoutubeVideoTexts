@@ -737,3 +737,42 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Subnautica auf dem Dienstags Slot.
   ```
+
+##### #70
+
+* Titel: `Subnautica - #70 - Enzym 42 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Aliens denen wir immer noch keinen Namen gegeben haben wussten das es eine potenzielle Heilung für das Khaara Bakterium gab. Sie nannten es Enzym 42. Warum unbedingt die 42 ist uns nicht bekannt, vielleicht weil es die Antwort auf alles war oder weil es das 42te Enzym war das sie im See-Imperator entdeckt haben oder aber die 42te Testreihe. Wir werden es nie erfahren, bisher haben wir nur allgemeine Informationen gefunden, nie persönliche Aufzeichnungen. Die Menge an Artefakten die wir an diversen Orten aufgetrieben haben spricht aber sehr dafür das die Aliens kein Schwarmbewusstsein war. Warum sollte eine Schwarm irgendwelche Artefakte ausstellen. Generell ist das Museum allerdings seltsam. Welchen Zweck hat das Ganze auf einem Quarantäneplaneten der dafür da war in Ruhe forschen zu können? Als Motivation für all das was gerettet werden kann? Wie dem aber auch sei, heute finden wir konzentriertes Enzym 42 und schaffen damit das was die Aliens nicht zu tun in der Lage waren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Subnautica auf dem Dienstags Slot.
+  ```
+
+##### #71
+
+* Titel: `Subnautica - #71 - Auftauchoperation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unter Wasser und in der großen geheimen Forschungsbasis der Aliens ist alles getan was zu tun war. Ärgerlicherweise können wir für unseren Rückweg nicht eines der vielen Portale der Aliens benutzen. Offensichtlich war nicht vorgesehen das man mit einem 62 Meter langen Schiff vor bei kommt. Ich hätte mich sehr über ein handlichen Portal gefreut, aber so haben wir immerhin die Möglichkeit noch einmal den langen Weg an die Oberfläche zu verfolgen den wir einst genutzt haben. Außerdem können wir noch ein zweites Mal unsere Basis besuchen die jetzt wohl einfach vereinsamen wird. Kaum genutzt, bis wieder jemand auf dem Planeten abstürzt. Ein Zuschauer meinte das es einen schnelleren Weg gegeben hätte. Den fand ich aber nicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Subnautica auf dem Dienstags Slot.
+  ```
+
+##### #72
+
+* Titel: `Subnautica - #72 - Startvorbereitung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Planet 4546B hat uns einige Zeit lang guten Obdach geboten. Klar, einige Male mussten wir vor sehr gefährlichen Fischen weg schwimmen aber im Großen und Ganzen war unser Aufenthalt doch eigentlich recht angenehm. Aber auch ein wenig einsam, es scheint so das niemand sonst von der Crew überlebt hat. Das ist nicht ganz so gut, aber wahrscheinlich waren die anderen Überlebenden eh infiziert und wären nicht mehr zu retten gewesen. Wir sind nicht mehr infiziert. Daher bauen wir jetzt ein Raumschiff und hauen dann ab. Zum Glück haben wir die Multi-Bots. Man stelle sich mal vor wir müssten das ganze Herstellen alles selber machen. Inklusive Schmelzen von Metallen und so. Das wäre auf Dauer ganz schön sehr anstrengend.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Subnautica auf dem Dienstags Slot.
+  ```

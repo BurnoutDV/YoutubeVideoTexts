@@ -306,3 +306,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #23
+
+* Titel: `Tomb Raider [2013] - #23 - die heißen Quellen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Touristenführer hat eigentlich gesagt das es sich um "geothermale Höhlen" handelt, aber wir wissen ja alle das es sich in Wirklichkeit um eine heiße Quelle Schrägstrich ein Wellness-Bad handelt. Richtig? Nur weil irgendein komischer Typ der wahrscheinlich eh keine Ahnung hat weil er seinen Master in Singen und Klatschen gemacht hat uns erzählt das es eine Höhle ist kann man eine Lara Croft nicht darüber hinweg täuschen das es sich um die heißen Quellen des Ferienresorts handelt. Bisher hat man uns die nämlich vorenthalten obwohl sie im Prospekt standen. Generell ist das Wetter schlechter als man es ursprünglich beschrieben hat. Immerhin können wir nun einige Möglichkeiten des Resorts in den heißen Quellen nutzen. Zeit für ein schön heißes Bad.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

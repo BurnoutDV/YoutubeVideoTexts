@@ -794,3 +794,59 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1302
+
+* Titel: `Let's Play ESO #1302 - Kulturelle Konzilianz [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 38 des Greymoor DLCs - Sitzung 6
+  
+  Es wird wieder Zeit für unseren besten Freund Rigurt der Ungestüme, seines Zeichens Chefdiplomat des östlichen Himmelsrand und Skaldenkönigs Jorunns. Der Gute hat natürlich bereits sein nächstes diplomatische Meisterwerk vorbereitet das darin besteht zwei ziemlich verfeindete Repräsentanten zu einem diplomatischen Gipfel einzuleiten. Ärgerlicherweise sind die beiden Repräsentanten verfeindet. Das ist jetzt überraschend und zum Glück keine redundanten Information. Auf der anderen Seite hat Chefdiplomat Rigurt natürlich einen Plan wie man die Affäre lösen kann: Durch seine langjährigen Erfahrungen auf dem internationalen Parkett weiß er genau was zu tun ist...
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1303
+
+* Titel: `Let's Play ESO #1303 - Svynes Mahl [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 39 des Greymoor DLCs - Sitzung 6
+  
+  Liebe geht durch den Magen, es spricht also Einiges dafür das auch höhere Diplomatie auch mit einer guten Mahlzeit erfüllt werden kann. Daher kümmern wir uns heute um Thane Svynes Mahl, etwas Fleisch. Wie es der Zufall will kennt Rigurt ja einen Waldelfen der ganz in der Nähe lagert und auch grade eine gewaltige Sau auf dem Feuer hat. Jetzt müssen wir nur noch ein paar kleine Arbeitsschritte vornehmen und schon haben wir alles was wir brauchen um einen hungrigen Thanen zufrieden zu stellen. Ich bin immer wieder erstaunt wie gut doch Rigurt in diesem ganzen Ding ist. Er hat einfach alles unter Kontrolle. Ein wahrer Meisterdiplomat.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1304
+
+* Titel: `Let's Play ESO #1304 - Thanes Hraldis Fisch [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 40 des Greymoor DLCs - Sitzung 6
+  
+  Liebe geht durch den Magen. Das haben wir bereits bei Thane Svyne gelernt. Manchmal geht es beim Fischen aber gar nicht darum den Fisch selbst zu fangen sondern um die Jagd und die Kunst das Tier überhaupt anzulocken. Manche Angler werfen den Fisch dann auch wieder herein. Ich kann mir nicht so recht eine Meinung dazu bilden was der Fisch darüber denkt. Der ist zwar dem Tod nochmal vom Haken abgesprungen aber schön war es bestimmt nicht. Auf der anderen Seite ist es wohl besser als wenn man das Tier nur aus Spaß fängt und dann verenden lässt. Letztendlich ist es aber doch irgendwie Tierquälerei aus Sportgründen. Fischen um zu morden und dann zu essen erscheint da fast schon moralisch vertretbarer. So falsch sich das auch anhört.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1305
+
+* Titel: `Let's Play ESO #1305 - erfolgreiche Diplomatie [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 41 des Greymoor DLCs - Sitzung 7
+  
+  Wenn man Menschen wirklich gut lesen kann ist es durchaus möglich da Erfolg zu haben wo Andere nur Schweigen oder Beleidigungen ernten. Selbstverständlich gibt es auch hier Grenzen, manche Fronten sind so verhärtet das ein Frontalangriff eher keine Lösung ist. Dann gibt es subversive Wege das Ganze einzuleiten. Dafür geht man nicht direkt an die Leute heran die sich eigentlich verstritten hatten sondern einige Etagen tiefer und arbeitet sich dann von dort vor ran. Dies scheint die Taktik des Tages zu sein, natürlich ist das nicht ganz so einfach. Alternativ kann man auch größere Mengen Met fließen lassen und auf das Beste hoffen. Eventuell geht das aber auch fatal schief. Wer weiß das schon.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

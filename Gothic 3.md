@@ -1678,3 +1678,59 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #174
+
+* Titel: `Gothic 3 - #174 - Masils Schuldscheine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Direkter Warentausch ist in den meisten Kulturen sehr schnell nicht mehr ganz so beliebt. Daher denkt man sich häufig andere Substitutionen aus. Geld ist ein klassisches Bespiel. Das Versprechen oder vielleicht auch die Illusion das die Münzen oder Scheine in meiner Tasche einen Gegenwert von X repräsentieren. Dieses Versprechen wird dann von einer Institution, meistens einer Bank bzw. dem Staat gehalten so dass das gesamte System hält. Ohne Glauben in dieses Versprechen würde alles zusammenbrechen. Mehr oder weniger. Mann kann diesen Gedanken dann auch noch etwas weiterführen und ein Versprechen für Geld machen das man später hat um dafür jetzt Dinge zu erhalten. Das nennt man dann einen Schuldschein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #175
+
+* Titel: `Gothic 3 - #175 - Lurkerklauen von Myrtana [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das wir in der Wüste Varant doch noch einige Dinge übersehen haben. Zum Beispiel eine Mission bei der wir Lurkerklauen sammeln müssen um heraus zu bekommen welcher Wassermagier sich in einem Gefängnis versteckt. Das Ärgerliche ist jetzt leider das wir quasi schon alle Lurker in ganz Myrtana erschlagen haben. Ich weiß das die Viecher gelegentlich neu auftauchen aber nicht mehr in den Mengen in der es früher einmal der Fall war. Es bleibt also nur Eines, wir müssen durch die Gegend laufen und versuchen so viele Lurker aufzutreiben wie es nur geht nur um am Ende eine einzige Information zu erhalten. Eine Information die ich theoretisch schon habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #176
+
+* Titel: `Gothic 3 - #176 - Überfall auf Lago [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir begeben uns erneut in die Alternativwelt in der der namenlose Held unüberlegt Städte überfällt so dass er am Ende bei den Völkern der Wüste ganz anders da steht. Eigentlich ist die Zeit noch nicht gekommen wahre Farbe zu bekennen. Das liegt unter Anderem daran das wir einfach noch nicht alles gesehen haben. Alle Wüstenstädte zu unterwerfen klingt übrigens nach einer Menge Arbeite. Ich weiß noch gar nicht wie ich das angehen soll. Das meiste Kämpfen muss ich ja wahrscheinlich selbst machen und da gibt es eine ganze Menge Wachen die ich da töten darf. Das klingt außerordentlich anstrengend. Heute proben wir das Ganze mal mit Lago durch, auch weil ich einen Wassermagier befreien will. Wir sind ja selbstlos.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #177
+
+* Titel: `Gothic 3 - #177 - der vierte Schlüssel von Mora Sul [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich war ja schon nahe daran die Wüste ins Chaos und einen 10 jährigen Bürgerkrieg zu stürzen. Dann viel mir aber auf das es noch Städte gibt die noch nicht vollständig erkundet sind. Daher gehen wir zurück nach Mora Sul, dort fehlt uns noch ein letzter Schlüssel für den örtlichen Tempel und das Artefakt des Adanos das dort angeblich lagert. Ich weiß noch nicht ob sich das Ganze überhaupt lohnt aber eines ist sicher: den Orks könne ich das Artefakt noch weniger. Auf der anderen Seite wäre es wahrscheinlich am einfachsten die Schlüssel einfach irgendwo tief unter den Sanddünen der Wüste oder in den Tiefen das Meeres verschwinden zu lassen. Jeden Einzelnen, bisher hat eigentlich niemand gesagt das ich die Schlüssel selber für irgendwas brauche oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

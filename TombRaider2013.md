@@ -320,3 +320,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #24
+
+* Titel: `Tomb Raider [2013] - #24 - die Gästezimmer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zwar haben wir bisher sehr viel von unserem Ferienparadies gesehen was wir aber nicht sahen bisher waren die Unterkünfte. Und nachdem die geheime heiße Quelle entdeckt wurden konnte es natürlich nicht lange dauern bis wir über den Standort der Gästezimmer fallen. Das wurde auch langsam Zeit, bisher war Laras Reise nicht unbedingt von sehr erholsamen Aufenthalten in den diversen Touristenfallen gezeichnet. Das kommt davon wenn man einen Abenteuerurlaub bucht und dann auch bekommt. Aber jetzt sieht es so aus als können wir uns endlich in der historischen Hauptstadt erholen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

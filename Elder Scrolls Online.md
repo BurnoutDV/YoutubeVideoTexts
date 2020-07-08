@@ -850,3 +850,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1306
+
+* Titel: `Let's Play ESO #1306 - Morthal Hügelgrab [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 42 des Greymoor DLCs - Sitzung 7
+  
+  Wir waren bereits in Morthal, wir wissen das es dort ein Hügelgrab gibt. Sogar in direkter Nähe zur Stadt selbst. Wir wissen das es darin Draugr gibt. Nun erfahren wir aber etwas Neues. Anscheinend ist die Bedrohung durch uralte Krieger der Drachenpriester für den Moment gebannt und stattdessen durch Eiskaphexen ersetzt worden. Das ist nicht unbedingt besser bietet aber immerhin ein wenig Abwechslung. Aus Erfahrungen von der Zukunft wissen wir aber bereits das der Besuch von Nord-Hügelgräbern eher keine großen Schätze hervorbringt. Die Vorstellung von wertvoll bei den Nords scheint sich doch ein wenig von unserer hochelfischen Ansicht davon zu unterscheiden. Also wird das wohl wieder eine Nullrunde. Vielleicht können wir ja ein paar Leben retten.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

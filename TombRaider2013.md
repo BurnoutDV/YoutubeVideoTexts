@@ -334,3 +334,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #25
+
+* Titel: `Tomb Raider [2013] - #25 - Kulturgut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht alles auf der Insel Yamatai ist einfach nur künstlich und von und für vorbeifahrenden Touristen hergestellt worden. Manche Dinge sind auch schon deutlich länger vor Ort. Von einer Zeit in der man noch wirkliche Werte auf der Insel geschaffen hat. Eine Zeit als schnöder und billiger Kommerz noch nicht im Hauptfokus der Inselleitung lagen. Echtes Kulturgut ist damals entstanden. Es ist wahrlich bedauerlich das von diesem Kulturgut nicht mehr allzuviel übrig ist. Heute findet sich eventuell Anlass zur Sorge, durch ein Überschwappen der heißen Quelle könnte weiteres Kulturgut beschädigt worden sein. Laras ausführliches Nutzen der Therme hat damit aber nichts zu tun. Ich bin mir da sicher. Wirklich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

@@ -864,3 +864,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1307
+
+* Titel: `Let's Play ESO #1307 - Ausgrabungsbeginn [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 41 des Greymoor DLCs - Sitzung 7
+  
+  Heute geht es los, wir wurden wieder auf eine lange Reise irgendwohin (nach Karthwacht) geschickt und das klingt aktuell nicht ganz so spannend. Wir nutzen also den Freigang um uns einer anderen Aufgabe zu widmen. Wir erkunden die Möglichkeiten der Ausübung des Archäologieberufes. Es ist so das wir im Hügelgrab von Morthal überraschenderweise doch noch etwas gefunden haben das unser Interesse geweckt hat. Daher wollen wir das nun auch nutzen. Leider fehlt uns dazu die nötige Erfahrung. Wir müssen also erst an einem einfacheren Artefakt üben um unsere Karriere zu starten. Hat ja auch nicht jeder gleich am ersten Tag das Tal der Könige entdeckt oder?
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

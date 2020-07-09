@@ -18,3 +18,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #2
+
+* Titel: `Control - #2 - die Direktorin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Warum wir hier sind ist nicht klar. Wie wir hierher gekommen sind ist auch nicht klar. Sie nennen es das "älteste Haus" und es wurde 1964 entdeckt. Die Behörde die hier wohnt wurde ebenfalls im selben Jahr gegründet. Die Behörde hat nicht das Haus gebaut, errichtet oder anderweitig erschaffen. Das Haus ist. Eventuell war es nicht immer ein Betonbunker, aber dies ist dann wohl das Konzept der Zeit. Ob das älteste Haus einmal eine sehr große Stammeshütte auf dem Feld war? Wie dem aber auch sei. Die Behörde hat Abteilungen, Mitarbeiter und auch Abteilungsleiteter. Über all dem steht der Direktor. Oder auch die Direktorin. Die Direktorin trägt die Amtswaffe. Wer die Amtswaffe trägt ist Direktor. Nicht jeder kann die Amtswaffe tragen. Das ist keine Frage der physischen Kraft. Vielleicht nicht einmal der psychischen. Die oder der Direktorin wird ernannt. Vom Rat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

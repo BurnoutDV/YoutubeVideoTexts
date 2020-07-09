@@ -1734,3 +1734,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #178
+
+* Titel: `Gothic 3 - #179 - die Tempelkeilerei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben was wir wollte, erhalten wofür wir gekommen sind. Ich erklärte bereits in der letzten Episode das die Orks dafür nur wenig Verständnis haben. Zumindest diese Orks. Wir wissen das die orkischen Stämme normalerweise eine starke Hierarchie haben die sich relativ universell übertragen lässt. Und doch scheint mir die Orkkultur für eine Operation von der Größe der Eroberung Myrtanas eher ungeeignet zu sein. Informationen scheinen nicht symmetrisch geteilt zu werden. Die meisten Orks hatten kein Problem mit unserem Besitzt der Adanos Artefakte, eine Gruppierung hat sie uns sogar aktiv verkauft. Und doch, hier finden wir jetzt welche die bereits das bloße Betreten des Tempels als Affront ansehen. Es folgt eine längere bewaffnete Diskussion über die Schönheit der Wahrheit. Es stellt sich heraus das das am ausdauernste geschwungene Schwert am wahrsten ist. Schön, nicht neu, aber immer noch schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

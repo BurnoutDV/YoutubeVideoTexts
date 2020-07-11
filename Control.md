@@ -31,3 +31,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #3
+
+* Titel: `Control - #3 - das Zischen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das das älteste Haus nicht ganz leer ist. Immerhin haben wir jetzt die Amtswaffe und mit der kommen wir auch gegen diese ekligen Glaswände vorran. Zwischendurch hat übrigens niemand erklärt warum wir telekinetische Fähigkeiten haben. Klar die Waffe ist ganz und sie funktioniert halt wie das Konzept einer Waffe. Oder zumindest so wie ihr Träger sich eine Waffe vorstellt. Ahti hat gesagt das es Arbeit für die Axt gibt, meinte er die Amtswaffe, und wenn ja, aus welcher Zeit stammt der Hausmeister das es eine Axt für ihn ist. Wahrnehmung ist alles. Nicht das was man sieht sondern das woran man glaubt ist wahr. Mehr oder weniger. Das Zischen scheint aber immer wahr zu sein, zumindest für sich selbst. Die Menschen die im Bureau arbeiten scheinen das etwas anders zu sein. Warum widerstehen wir? Immerhin lernen wir heute Leute kennen die mit technischen Mitteln widerstehen können. Das ist auch etwas.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #Nummer
+
+* Titel: `Control - #4 - die Postabteilung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jede gute Behörde hat eine Postabteilung. Ab einer gewissen Größe ist es ja auch unvermeidlich das es eine bestimmte Menge an Informationen gibt die in die Behörde kommen. Die Postabteilung selbst scheint aber auch viel mehr damit beschäftigt zu sein interne Memos hin und her zu schicken. Wir haben das doch relativ intensive und große Rohrpostsystem gesehen. ich bin mir nicht ganz sicher wie genau so etwas funktioniert aber die Anlagen die wir sehen sind gewaltig. Eventuell sind sie auch einfach nur ein Ausdruck für die Komplexität die moderne Kommunikation hat. Wir wissen es nicht, paradoxerweise ist die Technik innerhalb des ältesten Hauses ja sehr einfach. Ich frage mich ob es nicht das Problem ist denkende Maschinen zu haben sondern dem Haus selbst keine Möglichkeiten zu geben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

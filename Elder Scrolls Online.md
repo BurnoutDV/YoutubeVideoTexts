@@ -878,3 +878,45 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1308
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Folge 44 des Greymoor DLCs - Sitzung 7
+  
+  Heute geht es richtig los. Wir werden zum Archälogiprofi. Eine Meisterin ihres Faches. Bis es soweit ist bracht es natürlich ein wenig Praxis aber nicht viel. Wir finden einfach das gleiche Artefakt am immer gleichen Ort und schon sind wir Ruckzuck durch. Gar kein Problem. Das dem so ist finde ich übrigens ein wenig langweilig. Ich kann nicht wirklich einschätzen ob es Zufall oder tatsächlich so geplant war. Wie dem aber auch sei, wenn ich selber spielen würde würde ich dieses Archäologiesuchen durchaus öfter machen. Es ist eine schöne Nebenschäftigung und die verschiedenen Level an Schwierigkeit und Tätigkeit geben eine gewissen Ausgewogenheit. Gar nicht einmal so schlecht.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1309
+
+* Titel: `Let's Play ESO #1309 - die grauen Reliquare [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 45 des Greymoor DLCs - Sitzung 7
+  
+  Es stellt sich heraus das unsere Expedition nach Karthwacht doch nicht ganz umsonst war. Eigentlich waren wir schon vor Ort und haben Dinge getan, aber so wie es aussah war ich wohl ein wenig voreilig. Zusammen mit der guten und mittlerweile ziemlich nüchternden Prinzessin finden wir heraus das es wohl etwas das sich die "grauen Reliquare" nennt gibt. Das ist insbesondere dann interessant wenn man bedenkt das unsere Gegnergruppierung wohl "die graue Schar" heißt. Warum die Bande so grau ist, nicht ganz weiß, nicht ganz schwarz ist mir allerdings noch nicht klar. Vielleicht sollte es auch von Grauen kommen. Würde ich die englische Übersetzung spielen wäre das bestimmt klar. So oder so, die Artefakte haben Macht, daher machen wir sie kaputt. Ganz klar, das ist der Weg der (barbarischen) Heldin.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1310
+
+* Titel: `Let's Play ESO #1310 - Mor Khazgur [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 46 des Greymoor DLCs - Sitzung 7
+  
+  In der Regel sind es ja Zwerge die zu tief und gierig graben und dann irgendwelche Wesen wie zum Beispiel Ballroks und Orks aufwecken. Da die "Zwerge" sich im Elderscrolls Universum aber aus der Welt gewünscht haben (oder ihrer gebauter Gott das getan hat) ist uns diese Möglichkeit ärgerlicherweise sehr verschlossen. Stattdessen können wir aber heute eine Bergbausiedlung der Orks begutachtet. Die Orks gibt es hier schon länger was mich sehr an die Effektivität ihrer Methoden zweifeln lässt. Unabhängig davon hat man hier nicht aus Gier sondern aus Notwendigkeit ein wenig tiefer gegraben als es für einen gut gewesen wäre. Ich nehme mal stark an das man erfolgreich einen Seitenarm der Schwarzweite angebohrt hat, das passiert in Himmelsrand andauernd. Wie dem aber auch sei, erst einmal müssen wir die Dynamik im Dorf der Orks erschnubbern. Toll, die lieben Außenseiter!
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

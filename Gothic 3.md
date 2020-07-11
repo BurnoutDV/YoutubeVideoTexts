@@ -1737,12 +1737,69 @@
 
 ##### #178
 
+* Titel: `Gothic 3 - #178 - der Mora Sul Tempel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir öffnen heute mal wieder einen Tempel. Heute geht dabei aber nicht alles ganz so glatt wie ich mir das vorgestellt hätte. Die gute Nachricht ist aber das der eigentliche Tempel dann wesentlich entspannter gewesen sein wird als es beim Letzten der Fall war. Die schlechte Nachricht ist das hier die Orks direkt überwachen wie wir den Tempel überwachen und daher nicht akzeptieren das wir alleine reingehen. Das überrascht uns jetzt eigentlich relativ wenig. Man kann eigentlich von Glück sagen das uns nicht jeder zweite Ork anhält und auffällt das wir mehre der legendären Adanos Gegenstände dabei haben. Auf der anderen Seite hat einer der Orks uns sogar das Amulett von Adanos verkauft. Mir scheint also das es da durchaus ein Informationsgefälle gibt. Die lokalen Orks wissen zum Beispiel bald gar nichts mehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #179
+
 * Titel: `Gothic 3 - #179 - die Tempelkeilerei [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
   Wir haben was wir wollte, erhalten wofür wir gekommen sind. Ich erklärte bereits in der letzten Episode das die Orks dafür nur wenig Verständnis haben. Zumindest diese Orks. Wir wissen das die orkischen Stämme normalerweise eine starke Hierarchie haben die sich relativ universell übertragen lässt. Und doch scheint mir die Orkkultur für eine Operation von der Größe der Eroberung Myrtanas eher ungeeignet zu sein. Informationen scheinen nicht symmetrisch geteilt zu werden. Die meisten Orks hatten kein Problem mit unserem Besitzt der Adanos Artefakte, eine Gruppierung hat sie uns sogar aktiv verkauft. Und doch, hier finden wir jetzt welche die bereits das bloße Betreten des Tempels als Affront ansehen. Es folgt eine längere bewaffnete Diskussion über die Schönheit der Wahrheit. Es stellt sich heraus das das am ausdauernste geschwungene Schwert am wahrsten ist. Schön, nicht neu, aber immer noch schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #180
+
+* Titel: `Gothic 3 - #180 - Burg Montera [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir warne nie in der Burg von Monterra. Das überrascht mich ein wenig aber anscheinend habe ich zu viele Aufträge nicht erfüllt und nie Zugang in die Burg erlangt. Das hole ich heute nach, letztendlich war alles auch kein Problem und schon können wir das Gebäude betreten. Ein Gebäude mit neuen Reichtümern. Etwas seltsam ist aber das wir nie die fehlenden Säcke Weizen gefunden haben die uns eigentlich damals den Zugang hätte erkaufen sollen. Wie dem aber auch sei, man kann ja nicht alles haben. So oder so sind wir jetzt drin und können von hier aus unsere weiteren Pläne planen. Wie wir zum Beispiel die Verteidigung von Innen überwinden, den Häuptling als Erstes töten und damit die Eroberung der Stadt mehr oder weniger unnötig machen. So viele schöne Wege Myrtana zu befreien. Und alles was es brauchte war nur ein wenig Erschleichen von Vertrauen. Schön oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #181
+
+* Titel: `Gothic 3 - #181 - 1000 Gold für Gotha [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute befreien wir Gotha. Das ist übrigens überraschend einfach und endet nicht damit das wir uns stundenlang durch Horden von Orks hacken müssen. Ich habe fest damit gerechnet. In der Vergangenheit hatte ich versucht wilde Tiere in die Stellungen der Orks zu locken. Mit moderaten Erfolg aber ohne wirklich Todesopfer zu fordern. Wirklich sehr ärgerlich, ich hätte mir meine Arbeit so einfach machen können. Und jeder hätte gesehen das es unmöglich die Schuld eines Menschen oder einer Gruppierung gewesen sein können. Myrtananas Wildleben ist eben gefährlich, mit den ganzen Dinos und so...
+  Wie dem aber auch sei, wir bauen die Stadt heute wieder auf, ich weiß zwar nicht wieso ich das tue aber für lächerliche 1000 Gold erhalten die Rebellen ein weiteres Hauptquartier das auch noch gut befestigt ist. Wenn es jetzt noch irgendwelche Story um das Ganze geben würde...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #182
+
+* Titel: `Gothic 3 - #182 - Schneeknacken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in Nordmar angekommen. Die anderen Reiche des Landes bereits vollständig erkundet. Jetzt bleibt nur noch der eisige Norden. Bis wir dort aber richtig Fuß fassen können müssen wir uns bis zu irgendeiner Siedlung durchkämpfen. Zwar habe ich relativ genaue Karten die mir den Standort der diversen Clans anzeigen aber ganz einfach wird es dadurch auch nicht. Bis wir also mit einer Menschenseele reden gehen wir unseren Weg durch den eisigen und gefrorenen Wald. Irgendwann müsste es auch mal wärmer sein damit all diese Dinge wachsen können, aber ich frage mich wirklich wann das ist. Neben den Wölfen, Wollbisons und Nasshördern gibt es zwei ständige Begleiter auf unseren Weg durch das unwirtliche Nordmar: Der Tod und das Knacken des frischen Schnees.
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)

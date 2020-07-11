@@ -348,3 +348,45 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #26
+
+* Titel: `Tomb Raider [2013] - #26 - Rundflug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir jetzt einige Zeit auf der Insel verbracht haben und sogar am Anfang einen kleinen Ausflug in das Wasser rund um das Island genommen haben ist jetzt die Zeit einen kleinen Rundflug zu starten. Ist es doch so das wir die Insel auch mal von oben sehen wollen um richtig beurteilen zu können wo wir über all waren. Daher chartern wir heute einen Hubschrauber mit dem wir ein wenig durch die Landschaft fliegen. Unglücklicherweise ist das Wetter nicht ideal und wir müssen den Flug aufgrund des plötzlich eingesetzten starken Regens verkürzen. Das ist aber kein Problem. So etwas kommt halt auf Inseln mitten im Meer gelegentlich vor. Gar kein Problem. Denke ich. Kann jedem mal passieren, nur Pech. Auch eine Lara Croft kann schließlich nicht immer Glück haben oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```
+
+##### #27
+
+* Titel: `Tomb Raider [2013] - #27 - Waldspaziergang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es überrascht mich selbst ein wenig aber bis her habe ich keine Episode "Waldspaziergang" genannt. Das ist auch nicht schlimm, Gelegenheit hätte ich aber dazu gehabt. Wie dem aber auch sei, nach einem doch überraschend Kräfte zehrenden Rundflug wird es Zeit ein wenig zu entspannen. Daher begeben wir uns auf einen kleinen Entspannungsmarsch durch die örtlichen Wald. Schließlich gibt es auch abseits der Wege noch ziemlich viel zu entdecken. Außerdem verschafft die Ruhe des mitternächtlichen Waldes bestimmt auch ein wenig Seelenfrieden nach all der Aufregung die die ersten Tage mit sich gebracht haben. Schön.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```
+
+##### #28
+
+* Titel: `Tomb Raider [2013] - #28 - Gondelfahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir einen ziemlich ausgedehnten Spaziergang durch die diversen schönen aber auch unheimlichen Beugungen des Bergwaldes gemacht haben wird es doch langsam Zeit. So erholsam ist so ein Spaziergang, man braucht kaum Schlaf und fühlt sich dennoch am nächsten Morgen erfrischt. Dieser ist auch herangebrochen. Lara dürstet es nach etwas Entspannung am Meer. Wir waren schon seit einiger Zeit nicht mehr da und so ein wenig die Wellen rauschen zu hören wäre bestimmt auch mal ganz nett. Leider ist die Ferieninsel Yamatai nicht ganz klein (zum Glück, ansonsten würde es schnell langweilig werden) daher ist der Weg zum Strand ein relativ weiter. Aber wieder ist uns Fortuna hold! Es gibt einen gemütlichen Lift der uns an die Gestaden bringt...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

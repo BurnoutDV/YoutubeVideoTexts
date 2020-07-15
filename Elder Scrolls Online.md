@@ -920,3 +920,49 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1311
+
+* Titel: `Let's Play ESO #1311 - die Minen von Mor'Khazgur [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 47 des Greymoor DLCs - Sitzung 7
+  
+  Ich erwähnte es ja schon, wenn man keine Zwerge haben kann die tief graben dann müssen es halt Orks sein. Generell gibt es ja einige Bestrebungen von Rassezuweisungen in klassischer Fantasy weg zu kommen. Einfach weil es ja, Trommelwirbel, rassistisch ist. Also dürfen es nicht nur immer Zwerge sein die Bergbau betreiben. Weg von den Klischees, es dauert wahrscheinlich nicht mehr lange bis wir schneidernde und zaubernde Zwerge haben. Wie dem aber auch sei, Orks die Bergbau betreiben ist nicht völlig unmöglich und irgendwie müssen die ja auch an Metalle kommen, Zwerge werden ihnen ja wohl kaum helfen und besonders nicht im Elder Scrolls Universum in dem die Dwermer eigentlich auch nur Elfen waren die gerne unterirdisch buddelten.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1312
+
+* Titel: `Let's Play ESO #1312 - orkische Gerechtigkeit [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 48 des Greymoor DLCs - Sitzung 8
+  
+  Soweit ich das beurteilen kann haben die Orks im Allgemeinen nicht allzuviele Probleme damit das es Gesetzesbrecher gibt als das es nur Ersttäter aber nie Wiederholungstäter gibt. Das könnte etwas mit dem relativ archaischen Rechtssystem der Orks zu tun oder die Tatsache das ihre Gesetze nicht besonders Detailreich sind. Letztendlich kommt alles mehr oder weniger darauf an wie gewogen ein Häuptling ist. Das führt zu echten Probleme, wenn immer der stärkste Orks Anführer ist muss es nicht gleichzeitig heißen das auch der Beste Ork die Bande anführt. Generell ist das wohl eines der großen Problem von Orkgesellschaften. Strukturell. Daher lagen schlaue Orkanführer Gerechtigkeit aus, zum Beispiel an vorbeikommende Hochelfen. Bestimmt eine gute Idee.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1313
+
+* Titel: `Let's Play ESO #1313 - sprechende Puppen [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 49 des Greymoor DLCs - Sitzung 8
+  
+  Auf unseren Reisen durch Tamriel haben wir schon alles getroffen was irgendwie seltsam ist. Man erinnere sich nur an die Seele eines Mädchens das in einem gewaltigen Zenturio gefangen war oder der Typ der Unsterblichkeit mit einer Maschine erlangen wollte. Auch die Vase die Leute glauben lässt sie wären selber eine Vase ist unvergessen. Eine sprechende Puppe taucht daher nicht einmal auf den ersten 10 Plätzen der Besonderheit auf. Es ist recht wahrscheinlich das die Puppe verflucht ist, sonst würde sie ja auch kaum reden. Ob davon für uns jetzt eine Gefahr ausgeht ist nicht ganz klar, aber ich würde mal sagen da wir eh wieder auferstehen wenn wir sterben gibt es wenig das wir wirklich fürchten müssen. Also können wir auch genauso gut mit der Puppe reden und schauen was sie uns zu sagen hat. Vielleicht wird es ja interessant.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  
+  0:00 - 3:48: Gameplay
+  3:49 - 7:18: Die Käse von Himmelsrand: Hjaalmarsch, Haafingar
+  7:19 - 19:20: Gameplay
+  ```

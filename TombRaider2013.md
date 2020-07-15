@@ -390,3 +390,55 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #29
+
+* Titel: `Tomb Raider [2013] - #29 - Fundsachen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Ausrüstung die wir mit auf unseren Inselausflug mitgebracht haben sind in bestimmten Dingen ein wenig unpraktisch. Daher haben wir Stück für Stück ein paar Verbesserungen von den Bewohnern der Insel geborgt. Diese haben das zugegeben nicht unbedingt positiv aufgenommen aber daran war wohl auch nicht viel zu ändern. Manchmal müssen wir aber keine Dinge stehlen erm ich meinte Ausleihen. Manchmal kann man auch Dinge einfach so finden die ohne Besitzer sind. Klar, Fundsachen gehören auch irgendjemanden, aber aufgrund der doch recht abgelegenen Lage der Insel vermute ich einmal das der ursprüngliche Besitzer wohl eher nicht mehr zurückkehren wird. Und das ist die Geschichte wie Lara Croft einen feinen Sportbogen gefunden hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```
+
+##### #30
+
+* Titel: `Tomb Raider [2013] - #30 - portugiesische Schiffe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Insel Yamatai lockt schon seit ziemlich langer Zeit Schiffe an. Ich nehme mal nicht an das die Leute aus Gier auf der Insel landen sondern viel mehr abtreiben und dann nicht mehr weg kommen. Es hilft auch nicht unbedingt das die Küste vor der Insel ziemlich unfreundlich ist. Eigentlich komisch. Oben auf der Insel gibt es reiche Dörfer die wir ja im Rahmen unserer touristischen Tätigkeiten schon gesehen haben. Warum gibt es also keinen malerischen Hafen. Klar, die Insel ist auch so eine ganz schönes Touristenfalle aber eine schöne Hafenanlage würde das Gesamtbild noch einmal aufwerten. Warum also gibt es keinen. Stattdessen sehen wir einen wilden Strand, schon komisch.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```
+
+##### #31
+
+* Titel: `Tomb Raider [2013] - #31 - Strandleben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint als wären die Zeiten der Hotelnächste fürs erste einmal vorbei. Die Gruppe hat entscheiden die Annehmlichkeiten der Suiten fürs Erste nicht weiter zu genießen und stattdessen lieber ein wenig am Strand zu campieren. Dies stellt auf jeden Fall eine angenehme Abwechslung zu unserem restlichen Reiseplan da. Für Lara ist natürlich ärgerlich das sie selbst kein Lagerfeuer Mensch ist. Daher läuft sie unruhig den Strand entlang, immer auf der Suche ob sie vielleicht eine schöne Muschel oder vielleicht auch angespülte Schätze untersuchen kann. Wir haben bereits festgestellt das der Hafen relativ unbewohnt und auch naturbelassen ist. Demzufolge könnte man dort durchaus noch einige interessante Dinge finden. Man muss nur lange genug suchen, und das werden wir natürlich tun, was auch sonst. Man ist ja schließlich Entdeckerin.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```
+
+##### #32
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

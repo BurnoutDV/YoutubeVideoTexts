@@ -1805,3 +1805,45 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #183
+
+* Titel: `Gothic 3 - #183 - Ejnar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Männer (und Frauen?) von Nordmar hatten auch schon in der Vergangenheit große Helden die zu ebenso großen Taten fähig waren. Dazu zählt auch Ejnar, wir haben schon vor einiger Zeit von seiner Existenz gehört uns aber nicht getraut sein Grab zu erkunden. Jetzt sind wir ein weniger stärker und wagen einen neuen Versuch. Ich bin mir sicher wir wären auch schon vorher zu dieser Tat fähig gewesen. Aber es hätte länger gedauert. Jetzt bleibt nur noch die Frage ob es eine Heldentat ist das Grab eines gefallenen Heldens zu erobern oder sehen die Nordmänner (und Frauen?) das anders? Schließlich müssen wir selbst enorme Kraft beweisen um soweit zu kommen und die Tat zu vollbringen. Auf der anderen Seite, es ist ja schon ein Grab. Ein heiliger Ort. Es ist wahrscheinlich am sichersten wenn wir unsere Taten nicht all zu viel herum erzählen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #184
+
+* Titel: `Gothic 3 - #184 - Schneeserpetinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel lässt es bereits erahnen. Heute passiert nicht viel. Wir laufen durch den Schnee. Das ist in sich ziemlich anstrengend aber so richtig vor ran kommen wir damit nicht. Es gibt immer mehr Schnee, die globale Erwärmung ist definitiv noch nicht in Myrtana angekommen. Ein Mangel an industrieller Revolution könnte hier der Grund. Wir haben übrigens meiner Meinung nach einen Mangel an Steam-Punk spielen. Da müsste es noch viel mehr von geben. Einfach weil es so sein sollte. Zurück zum Thema, natürlich kommen wir irgendwo an. Wahrscheinlich im Dorf des Wolfsclans, wenn wir dann irgendwann mal die Steigung überwunden haben. Aber so eine Schneewanderung ist nicht leicht wenn es kalt ist, Wölfe in den Nacken atmen und Säbelzahntiger zwischen den Bäumen lauern. Zum Glück ist man ja Held von Beruf, da ist sowas ja kein Problem. Man stelle sich mal vor wir wären nur ein einsamer Bauer der hier lebt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #185
+
+* Titel: `Gothic 3 - #185 - der Wolfsclan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich sagte ja das der Schnee nicht ewig gehen kann und am Ende des Berges irgendwann mal was kommen muss. Und nicht nur die Gipfelspitze. Die Antwort auf die Frage auf das "Was?" ist übrigens: "richtig schlechte Dialoge". Wir haben einen neuen Tiefspunkt in den Communitymod Dialogen erreicht. Also wirklich tief. Freier Content hin oder her, aber irgendwann wäre es besser gewesen nicht zu vertonen und dafür 5 Minuten länger über das gesagte nachzudenken als das was wir heute hören. Ich habe mit 13 im WC3 Editor rumgespielt. Dabei herum kamen ähnliche Blüten wie das was wir heute erleben. In anderen Neuigkeiten finden wir heute das Dorf des Wolfsclans. Nicht ganz zufällig da wir ja schon der Karte dahin  gefolgt sind. Vielleicht hätten wir als erstes den Hammerclan besuchen sollen aber in der Hinsicht hat uns ja niemand Vorgaben gemacht. Und nun sind wir hier. Schön, dann können wir ja wieder gehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

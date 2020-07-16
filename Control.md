@@ -110,3 +110,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #9
+
+* Titel: `Control - #9 - das Karusselpferd [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erwecket Objekte können quasi alles sein, es scheint aber das es besonders Dinge sind die irgendwie das Konzept für irgendwas darstellen. Das Konzept des kalten Krieges war zum Beispiel ziemlich mächtig. Warum genau ein Karusselpferd aber jetzt das Konzept des durch die Gegend dashen ist? Weil es die Fantasie der Kinder beflügelt? Aber warum ist grade ein verlassener Jahrmarkt der Fokuspunkt. Es hätte ja auch jeder andere Ort sein können. Hat irgendwo ein Kind von genau diesem Ort besonders viel geträumt. Vielleicht so jemand der gar kein Kind mehr ist aber immer noch so stark daran glaubt? Das Gesamtkonzept ist in jedem Fall ziemlich seltsam. Für Jesse ist es aber auch nützlich, ermöglicht es ihr doch endlich effizient auszuweichen. Etwas seltsam ist das die Beschreibung behauptet das es aktuell an irgendjemanden gebunden ist. Der Bericht von 1998, die Information vielleicht nicht mehr aktuell, dennoch seltsam. Wen haben wir das Ding weggenommen und warum läuft es frei herum?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

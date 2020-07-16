@@ -966,3 +966,21 @@
   3:49 - 7:18: Die Käse von Himmelsrand: Hjaalmarsch, Haafingar
   7:19 - 19:20: Gameplay
   ```
+
+##### #1314
+
+* Titel: `Let's Play ESO #1314 - Heiruna die Gnadenlose [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 50 des Greymoor DLCs - Sitzung 8
+  
+  Es stellt sich heraus das diese Puppe die wir da gefunden haben anscheinend ein Mensch ist. Das hat sie behauptet, aber das tun ja verfluchte Puppen gerne. Später halten wir aber auch den Beweis in der Hand. Es könnte sich natürlich immer noch um eine verfluchte Puppe handeln die jetzt die Gestalt eines Menschen übernommen hat aber nehmen wir einfach mal an dem ist nicht so. Heiruna die Gnadenlose macht quasi was wir machen nur das wir bisher noch nicht das Pech hatten in eine Puppe verwandelt worden zu sein. Eigentlich ein echtes Glück, wenn man bedenkt das uns das echt aufhalten würde. Sterbe wäre kein Problem, aber in einer Art Halbform aus dem Spiel genommen? Ein echtes Problem, es könnte jahrtausende dauern bis uns jemand holen kommt.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  
+  0:00 - 2:38: Gameplay
+  2:39 - 3:48: Draugr und der Drachenkult
+  3:49 - 20:37: Gameplay
+  ```

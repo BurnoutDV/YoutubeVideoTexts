@@ -435,10 +435,14 @@
 
 ##### #32
 
-* Titel: ``
+* Titel: `Tomb Raider [2013] - #32 - das überflutete Gewölbe [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt auch Schattenseiten auf der Ferieninsel Yamatai. Zum Beispiel die alten Festungsanlagen aus dem zweiten Weltkriege die nicht wirklich in die Landschaft passen. Es handelt sich um einige Betonbunker die einfach nur die Landschaft verschandeln. Aber wie größere Stahlbetonbauten halt so sind geht das Zeug auch nicht so schnell kaputt. Im Rahmen einer kleinen Abenteuertour die uns temporär vom Strand wegführt finden wir heute das überflutete Gewölbe. Es handelt sich um die erwähnten Anlagen die ein wenig vom hereinfallenden Regen und Meerwasser getroffen wurden. Die Anlagen haben all das nicht ganz schadlos ausgehalten, allerdings scheinen einige der alten elektrischen Anlagen noch zu funktionieren. Ich frage mich wirklich wie das möglich sein kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```

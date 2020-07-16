@@ -1847,3 +1847,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #186
+
+* Titel: `Gothic 3 - #186 - die Jagdhütte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ziemlich offensichtlich das die Völker des Nordens auf jeden Fall nicht von Ackerbau und Viehzucht leben. Ich könnte mir auch nicht so recht erklären wie sie das zustande bringen wollten. Einfach weil es viel zu kalt ist. Das wir heute einen Jäger zu seiner Jagdhütte eskortieren überrascht daher wenig. Mir ist allerdings nicht ganz klar wie genau der Jäger eigentlich vor hat irgendetwas zu jagen wenn er nicht einmal in der Lage ist sich zu seiner eigenen Hütte durchzuschlagen. Wie dem aber auch sei, natürlich helfen wir bei sowas gerne wenn das bedeutet das uns die Dorfbewohner danach ein wenig mehr gewogen sind als vorher. Alles für die Reputation, da kann man auch einmal dämliche Eskortenaufträge machen. Vor denen habe ich übrigens Angst weil alte Spiele da häufig große Probleme mit der KI hatten. Und es brauchte erst einige Jahre bis das Problem halbwegs in den Griff zu bekommen war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

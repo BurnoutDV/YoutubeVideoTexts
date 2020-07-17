@@ -984,3 +984,17 @@
   2:39 - 3:48: Draugr und der Drachenkult
   3:49 - 20:37: Gameplay
   ```
+
+##### #1315
+
+* Titel: `Let's Play ESO #1315 - Ysmgar der Seeriese [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 51 des Greymoor DLCs - Sitzung 8
+  
+  Ich möchte an dieser Stelle noch einmal erneut feststellen das wir eigentlich auf dem Weg nach Einsamkeit sind um dort diverse Leute zu treffen. Schließlich gilt es ein Land und vielleicht sogar, wenn alles schief geht, die ganze Welt zu retten. Das ist immer so eine Sache mit den Bedrohungen denen wir uns aussetzen. Bei den Drachen war es relativ klar das es für mindestens ganz Tamriel nicht angenehm wird. Bei anderen Geschichten war das Problem mehr lokal. In Sommersend war relativ klar das es um die gesamte Existenz geht. Immer alles sehr episch und wir sind mitten drin. Ich frage mich ob ich mich mit der gleichen Hingabe investieren könnte wenn es nur um kleinere Dinge gehen würde. Vielleicht ein schrecklicher König oder einfach nur politische Ränkeschmiede in dir wir mitten rein gelangen? A pro pro Hingabe, wir finden heute irgendso einen Seeriesen am Strand und hauen den um. Weil wir können. Das rettet aber das Reich nicht so direkt.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

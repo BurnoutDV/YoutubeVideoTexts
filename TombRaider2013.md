@@ -446,3 +446,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #33
+
+* Titel: `Tomb Raider [2013] - #33 - der Bunker an der Klippe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte bereits das durch vorherige Operationen des japanischen Militärs einige Orte der Insel nicht mehr ganz so ansehlich sind wie sie vielleicht sein sollten. Warum genau man als Militär unbedingt hierher fahren muss um seinen Truppen so etwas wie Entspannung zu geben ist mir übrigens nicht ganz klar. Das Wetter in Yamatai ist eher instabil, gelegentlich ziehen sogar richtige Stürme auf. Das macht die Strandromantik schon ziemlich kaputt. Wie dem aber auch sei, es gibt diverse Bunkeranlagen. Mir ist auch nicht ganz bewusst gegen was und warum überhaupt dicke Verteidigungsstellungen aufgebaut wurden. Soweit ich das verstanden habe wollte das Militär die Kapazitäten der Feriensiedlung nutzen um die Welt zu unterdrücken. Die entsprechenden Fähigkeiten wären ja bereits eine Verteidigung an sich. Warum also konventionelle Mittel errichten die sowieso nur als letzte Notlinie dienen würden. Man sieht mich verwirrt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

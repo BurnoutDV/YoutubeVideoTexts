@@ -1861,3 +1861,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #187
+
+* Titel: `Gothic 3 - #187 - Grim der Anführer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendjemand muss ja Anführer sein. Insbesondere in einem doch relativ überschaubaren Dorf wie das des Wolfsclans. Generell glaube ich das in so kleinen Gemeinschaften ein Anführer am besten funktioniert. Vor mir aus auch die Dorfmatrone oder sonst eine Form von zentralisierter Person. Man kennt sich untereinander und solange das Machtgleichgewicht nicht gestört ist geht es quasi basisdemokratisch zu. Es wird dann sofort schwierig wenn Religion, Tradition oder sonst irgendetwas rein kommt das zusätzlichen Respekt erzeugen will und somit die Kontrollfunktion der Gemeinschaft untergräbt. Da gibt es ein empfindliches Gleichgewicht aus zu viele innere Streitereien und allgemeines Mitspracherecht. Grim nimmt diese Rolle ein, an sich hat er uns aber nicht viel zu sagen. Es scheint mir eher eine symbolische Position zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

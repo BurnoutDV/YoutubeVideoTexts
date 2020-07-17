@@ -123,3 +123,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #10
+
+* Titel: `Control - #10 - Arish [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint als wäre die Verteilung der HRV wesentlich weiter verbreitet als ich das ursprünglich annahm. Oder aber die Behörde hat wirklich viele Mitarbeiter. Aufgrund der Tatsache das ich wirklich schon ziemlich viele Zischer niedergerungen habe vermute ich das in der Behörde tausende wenn nicht sogar zehntausende arbeiten. Wie die alle ins Haus passen kann ich mir schon vorstellen, aber wie die da hinkommen nicht so direkt. In dieser Hinsicht wirkt es natürlich ein wenig beunruhigend das die Schutzräume immer nur 6 Betten haben. Das erscheint doch ein wenig wenig. So oder so haben ja doch einige überlebt, wird der Rest als Berufsrisiko gesehen? Als notwendige Verluste die man so wegsteckt? Einer der Überlebenden heißt übrigens Arish, seines Zeichens Chef der Wartungsabteilung. Beschäftigter Mann, viel zu viel zu tun und immer Druck von Oben. Hat es nicht leicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

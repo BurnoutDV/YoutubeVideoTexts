@@ -998,3 +998,20 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1316
+
+* Titel: `Let's Play ESO #1316 - das Schattengrün [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 52 des Greymoor DLCs - Sitzung 8
+  
+  Himmelsrand ist nicht unbedingt der Ort der mir als Erstes einfällt wenn es um Orte gibt an denen es viel grün gibt. Allerdings ist eine Höhle mit Zugang zu vulkanischer Wärme eine gute Erklärung warum es auch in Himmelsrand einmal gute, größere grüne Flächen gibt. Ich frage mich aber wie genau das mit den Zweiglingen funktioniert. Entstehen die einfach wenn irgendwo genug Wald ist? Sind sie eine direkte Folge des Waldes, sobald der eine bestimmte Größe erreicht hat kommen die Zweiglinge? Ganz magisch und einfach so. Oder war es irgendwann einmal deutlich wärmer in der Region und die Viecher sind ganz einfach migriert und als es dann doch kälter wurde haben sie sich zurückgezogen. In Morrowind konnte man auch Zweiglinge auf Solstheim treffen, und da ist es auch kalt. Es spricht also wohl einiges dafür das Zweiglinge nicht Temperatur gebunden sind, draußen trafen wir sie aber dennoch nicht. Rätsel über Rätsel.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  
+  0:00 - 15:12: Gameplay
+  15:13 - 19:15: Hydrik Grubengehers Witz und Weisheit
+  ```

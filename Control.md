@@ -136,3 +136,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #11
+
+* Titel: `Control - #11 - die Verstopfung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Je länger wir durch das älteste Haus laufen umso mehr habe ich das Gefühl das es ein Knotenpunkt für alle Arten von unangenehmen Dingen ist. Der Ort lockt einfach alles an was irgendwie nervig ist. Zum Beispiel die Verstopfung die das Kühlsystem der internen Stromquelle beinträchtigt. Woanders würde ich ja damit rechnen das das Haus einen eigenen kleinen Nuklearreaktor hat, aber hier gehe ich nicht davon aus. Generell beindruckend eigentlichj das das gesamte Gebäude eine eigene Energiequelle hat. Stellt sich nur die Frage ob das nur das Licht und andere elektrischen Geräte betreibt oder ob damit wirklich auch all die anderen Dinge bewegt werden. So oder so ist die Verstopfung laut Ahti schon ein älterer Feind, etwas das immer an irgendwelchen Ecken lauert und scheinbar sehr nervt. Ob es direkt mit dem Zischen verwandt ist oder sich nur opportunistisch ran gehangen hat wissen wir nicht. Hat es überhaupt eine Intelligenz? Absolut unbekannt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

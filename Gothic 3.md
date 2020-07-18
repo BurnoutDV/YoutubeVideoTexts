@@ -1875,3 +1875,18 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #188
+
+* Titel: `Gothic 3 - #188 - Säbelzahntigerjagt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben noch Aufträge im Wolfsclandorf übrig. Einer davon ist es gestandene Nordmarclanholzfäller (ein schönes Wort) davon abzuhalten von Säbelzahntigern gefressen zu werden. Das ist bestimmt auch nicht schön, andererseits haben die Nordmarer stolz davon erzählt das sie damit ja gar kein Problem haben und echt starke Kerle sind die sich quasi gegen alles behaupten können. Warum man überhaupt zugelassen hat das die Katzen dem Dorf so nahe kommen ist mir übrigens ein Rätsel. Jagen die umherziehenden Orktruppen alles andere Wild das sich die Großkatzen ansonsten schnappen? Das kann aber eigentlich auch nicht sagen, wir haben eine Menge Wollbisons, Hirschen und Wölfe gesehen. Selbst an Goblins gibt es keinen offensichtlichen Mangel. Oder sind Menschen einfach nur leckerer? Oder aber, man traut uns nichts zu und wollte uns einfach nur loswerden.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

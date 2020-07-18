@@ -460,3 +460,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #34
+
+* Titel: `Tomb Raider [2013] - #34 - die Endurance [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben was vergessen. Das immer wieder ziemlich peinlich aber so ist nun mal das Leben eines Menschen. Unsere Multitasking Fähigkeiten haben irgendwo ihre Grenzen und wenn wir zurückdenken sind wir schon ziemlich schnell von Bord gegangen. Es sollte daher nicht überraschen das wir das ein oder andere Stück an Bord gelassen haben. Das Schiff heißt Endurance, große Ausdauer wenn man auf Erkundungsfahrt geht. Heute gehen wir zurück zu unserer Kabine und schauen nochmal ob wir mit einem Landgang überhaupt alles mitgenommen bekommen was wir brauchen. Alex ist auch da und wollte irgendwas im Maschinenraum holen. Ich hoffe wirklich das er sich nicht verletzt, der Gute ist ja immer so tolpatischig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

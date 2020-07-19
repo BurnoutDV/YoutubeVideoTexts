@@ -474,3 +474,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #35
+
+* Titel: `Tomb Raider [2013] - #35 - Gespräche am Lagerfeuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind zurück vom Schiff. Die gesamte Ausfahrt hat ein wenig länger gedauert als ursprünglich gedacht und es ist schon wieder Nacht. Die anderen Reisegefährten sind dementsprechend erschöpft von ihrem langen Tag am Strand. Ist ja auch schon anstrengend für eine Weile rum zu sitzen und absolut nichts zu machen. Aber immerhin können wir noch ein wenig mit Sam flirten die sich sehr freut das wir wieder da sind. Davon abgesehen hat der Abend nicht viel zu bieten, auch keine neuen Wege den Schleimbolzen Whitman irgendwie los zu werden. Exekution via Kopfschuss ist anscheinend keine Option die uns im Feriendorf Yamatai offen steht. Das ist eigentlich sehr bedauerlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

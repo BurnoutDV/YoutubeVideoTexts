@@ -149,3 +149,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #12
+
+* Titel: `Control - #12 - der Tresor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bisher haben wir größtenteils offensive belebte Objekte gefunden, außerdem verleiht uns das Karusselpferd die Fähigkeit auszuweichen. Was noch fehlt ist die Fähigkeit Schaden tatsächlich auch weg zustecken und nicht mehr so einfach kaputt zu gehen. Etwas das nicht darauf basiert das es sehr viel Platz gibt zu dem wir springen können. Das ist nämlich nicht immer gegeben. Die Antwort auf dieses Problem findet sich heute in einem recht knappen Hinderniskurs und nennt sich der Tresor. Warum grade das Konzept eines Tresors sich selbst beschützen muss ist mir allerdings nicht ganz klar. Letztendlich beschützt der Tresor ja seinen Inhalt und nicht sich selbst. Wie dem aber auch sei, nützliche Fähigkeiten sollte man nicht liegen lassen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

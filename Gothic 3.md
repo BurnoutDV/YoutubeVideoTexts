@@ -1890,3 +1890,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #189
+
+* Titel: `Gothic 3 - #189 - die Horde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wussten bereits das in Nordmar noch Krieg herrscht. Das bedeutet das größere Kriegshorden der Orks durch das Land ziehen und nicht nur eine kleine Garnison in jeder Stadt lauert. Offener Widerstand wird dadurch wesentlich schwieriger. Wir verlaufen uns aber heute auf der Suche nach einer Brücke an der angeblich ein paar Orks auf uns gelauert hätten die den Zugang versperren. Dann finden wir eine Höhle mit einigen Orks hinter. Das verwirrende ist aber das die Höhle einfach nicht aufhört. Immerhin finden wir zeitgleich auch eine Taktik heraus die es uns ermöglicht die enorme Masse an Orks irgendwie zu überwältigen. Dennoch ist es nicht ganz einfach. Um genau zu sein ist es absolut lächerlich wie viele Orks wir heute überwältigen und zurück in das Schattenreich schicken. Immerhin lassen die Schamanen einen Stab fallen den wir auch im kaputten Zustand noch für gutes Geld an den Mann bringen können. Trotzdem, alles war wesentlich anstrengender als es hätte sein müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

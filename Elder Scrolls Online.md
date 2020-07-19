@@ -1015,3 +1015,21 @@
   0:00 - 15:12: Gameplay
   15:13 - 19:15: Hydrik Grubengehers Witz und Weisheit
   ```
+
+##### #1317
+
+* Titel: `Let's Play ESO #1317 - Mehr vom Käse [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 53 des Greymoor DLCs - Sitzung 8
+  
+  In der heutigen Episode passiert nicht besonders viel. Das kommt leider gelegentlich vor, manchmal reite ich einfach nur durch die Gegend und rede, das mögen ja einige Zuschauer. Aber ansonsten passiert halt wirklich gar nichts. Immerhin finden wir ein Buch über Käse. Hoffentlich dann auch das Letzte. Es geht auch nur 2 Minuten. Immerhin kommen wir am Ende in Einsamkeit an und sehen wie sich die örtliche Regierung darum bemüht die armen Gramvollen irgendwie zu behandeln. Das Ganze ist ein wenig seltsam weil wir davon ausgehen müssen das die Körper zwar leben aber an sich keine Seele mehr drin ist und man mit den Leuten nichts mehr kann. Außer man startet vielleicht eine Reise in eine Ebene von Oblivion in der die Seelen jetzt liegen, wahrscheinlich Kalthafen.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  
+  0:00 - 5:50: Gameplay
+  5:51 - 8:12: Die Käse von Himmelsrand: Das Reik, Fahl
+  8:13 - 16:11: Gameplay
+  ```

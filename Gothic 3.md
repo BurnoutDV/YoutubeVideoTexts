@@ -1904,3 +1904,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #190
+
+* Titel: `Gothic 3 - #190 - die Talorks [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen jetzt immerhin wie die Gruppierung an Orks heißt die wir heute erschlagen. Es ist ein nie enden wollender Schwall an Gegnern der mir höchst unsympathisch ist. Einfach weil es nicht aufhört und weil die Bande blocken kann. Da wir aber einen Typen umhauen der als Titel "Bla Anführer der Talorks" hat können wir wohl davon ausgehen das es sich um Talorks handelt die wir grade erschlagen. Sicher wissen können wir es aber nicht, die Erdspalte in der wir uns aufhalten qualifiziert sich nicht wirklich als Tal und so wie die Viecher ankommen könnte der entsprechende Anführer auch aus einer ganz anderen Ecke Myrtananas herran geeilt sein. Wir wissen nur das dies die zweite Episode ist in der ich quasi nichts Anderes als Kämpfen mache und wir haben noch nicht einmal angefangen die Städte der Menschen in Myrtana zu befreien. Großartige Aussichten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

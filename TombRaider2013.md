@@ -488,3 +488,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #36
+
+* Titel: `Tomb Raider [2013] - #36 - Forschungslabor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wirklich unfassbar mit welchen Affronten man sich als Besucher der Ferieninsel Yamatai herumärgern muss. So finden wir heute einen geheimen Forschungskomplex, eigentlich ist es mehr eine Unterkunft mit besonders tiefen Keller aber das Prinzip bleibt das Gleiche! Man hat uns einen Ort zum Erkunden einfach so vorenthalten. Einen Ort den wir im Detail schon hätten lange erkunden können und seine Wunder bewundern. Stattdessen hat man mit keinem Wort erwähnt das eine entsprechende Anlage überhaupt vorliegt. Kein Wunder das kaum Leute die Ferieninsel empfehlen, bei so schlechter Anpreisung der Vorzüge der Insel muss man sich ja nicht wundern das niemand von ihnen weiß. Es ist aber ein wenig stickig und feucht, das sollte man wohl nicht unerwähnt lassen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

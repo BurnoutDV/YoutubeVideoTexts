@@ -162,3 +162,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #13
+
+* Titel: `Control - #13 - der Kontrollraum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bei all den Raumverschiebung die man im ältesten Haus zu erwarten hat ist es ein wenig verwunderlich das es tatsächlich Orte gibt die mehr oder weniger gleich sind. Ich habe immer noch nicht herausgefunden ob bestimmte Büros und Einrichtungen da sind weil die Leute denken das sich ein Büroraum hier bieten würde oder weil tatsächlich jemand Tische geliefert hat und die dann aufstellte. Wirklich, das ist mir nicht ganz klar. Am Ofen war wohl ein Indiz dafür das ein Großteil der Einrichtung und Installation tatsächlich manuell von Menschen vorgenommen wurde. Ich bleibe aber weiter skeptisch inwiefern ein Kontrollraum der aussieht wie die NASA-Zentrale wirklich für irgendetwas notwendig ist. Selbst wenn es sich um einen Kernreaktor mit erweckten Materialien handelt erklärt das nicht Anzahl an einzelnen Pulte. Wahrscheinlich sah es einfach nur cool aus.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

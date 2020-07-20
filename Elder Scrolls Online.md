@@ -1033,3 +1033,17 @@
   5:51 - 8:12: Die Käse von Himmelsrand: Das Reik, Fahl
   8:13 - 16:11: Gameplay
   ```
+
+##### #1318
+
+* Titel: `Let's Play ESO #1318 - Audienz im Gemach [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 54 des Greymoor DLCs - Sitzung 8
+  
+  In der Regel empfangen einen hohe Würdenträger in einem dafür geschaffenen Raum. Meistens ein Audienzsaal, in besonderen Umständen kann es sich natürlich auch um ein Separé, ein Vorzelt oder vielleicht sogar eine Lichtung handeln. Das Schlafzimmer der jungen Prinzessin ist dagegen ein wenig ungewöhnlich. Es könnte immerhin noch ein wenig seltsamer sein wenn wir nicht Svana sondern Svargrim selber im Gemach seiner Tochter empfangen würden. Übrigens habe ich den guten Svargrimm schon seit einiger Zeit nicht mehr gesehen. Was wohl mit ihm passiert ist?
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

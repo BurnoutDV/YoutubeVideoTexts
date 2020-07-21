@@ -1918,3 +1918,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #191
+
+* Titel: `Gothic 3 - #191 - der Hammerclan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben gar keine größeren Mengen Orks besiegt und schon finden wir den nächsten Clan von Nordmar. Es handelt sich um den Hammerclan und wir erobern anscheinend ihre Schmiede zurück. Ziemlich unabsichtlich wie ich sagen möchte. Es hätte ja auch keiner ahnen können das das Tal das wir durchkämpft haben keine Sackgasse darstellt. Bedauerlich eigentlich. Wie dem aber auch sei, der Hammerclan ist uns schon ein wenig dankbar für das was wir getan haben. Er heißt übrigens so weil er viel mit dem Schmiedehammer macht. Es handelt sich also um einen Clan von Waffenschmieden. Es hätte ja auch sein können das es bei den benannten Hämmern auch um Kriegshämmer oder ihre besondere Härte geht. Der Clan scheint aber auch reich zu sein, der Verkauf bzw. Handel mit erzgeschmiedeten Waffen ist wohl lukrativ. Da fragt man sich doch warum der König es für notwendig gehalten hat den Ausflug nach Khorinis zu finanzieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

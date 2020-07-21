@@ -776,3 +776,17 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Subnautica auf dem Dienstags Slot.
   ```
+
+##### #73
+
+* Titel: `Tomb Raider [2013] - #37 - der große General [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara Croft ist Archäologin, das kam bis jetzt ein wenig kurz. Bisher haben wir uns kaum Zeit genommen in staubigen Gruben in mühevoller Kleinstarbeit wochenlang Tonscherben zu entstauben. So sieht nämlich eigentlich das Tun des Archäologen in der Regel aus. Indiana Jones artiges Ausweichen von (nach ihm benannte) Indi Fallen ist da eher die Ausnahme als die Regel. Die meisten Anti-Grabräuberfallen überleben die Jahrhunderte einfach nicht. Wie dem aber auch sei. Frau Croft ist auf einer Ferieninsel und auf der rechnet man eigentlich nicht mit weltbewegenen Kulturschätzen. So wie es aber aussieht ist genau das hier der Fall. Wir finden die, erstaunlich gut erhaltene, Leiche eines Generals. Das gibt unserem Urlaub einen gewissen morbiden Charm wirft aber auch einige Fragen auf. Wie zum Beispiel ob das Sauwetter dem wir konstant ausgesetzt sind vielleicht doch nicht völlig natürlich und eine Eigenart der Insel ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

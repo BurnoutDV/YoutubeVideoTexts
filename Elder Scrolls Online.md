@@ -1047,3 +1047,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1319
+
+* Titel: `Let's Play ESO #1319 - Fennorians Unordnung [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 55 des Greymoor DLCs - Sitzung 9
+  
+  Unser ursprünglicher Plan war das wir ganz schnell in die Schwarzweite laufen, dort Fennorian einpacken und wieder abhauen. Es hätte mich sehr überrascht wenn das tatsächlich so passiert wäre. Was wir stattdessen gefunden haben ist die Bude eines unverbesserlichen Junggesellen. Absolut keine Ordnung darin. Es sieht so aus als hätte eine Schlacht getobt. Die Geschichte ist damit aber noch nicht vorbei. In der Schwarzweite ist es bestimmt nicht sehr warm. Dennoch treffen wir heute einen edlen Herren der offensichtlich nichts davon hält ein Hemd anzuziehen. Außerdem redet er komisch daher. Es überrascht wirklich das wir nach all den Jahren so schlecht darin sind Werwölfe zu erkennne. Man müsste meinen das die Nase einer Hochelfe fein genug sind um die subtilen Zeichen zu erkennen.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

@@ -175,3 +175,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #14
+
+* Titel: `Control - #14 - Polaris [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jesse Faden muss nicht alleine darauf vertrauen das sie genügend geistige Stärke aufbringen kann um durch die Welt zu kommen. Stattdessen hat sie noch einen Begleiter der bisher wenig gesprochen hat. Ich bin mir nicht ganz sicher ob ich dieser Begleiter bin oder ob wir immer noch gewissermaßen ein Beobachter sind. Auch bin ich mir unsicher ob Jesse wirklich selber Parautilianer ist oder das mysteriöse Wesen das vielleicht wir sind dafür verantwortlich ist. Dann würde aber noch die Frage aufkommen wie das mit den anderen Leuten aussieht die es anscheinend auch gibt. Wie dem aber auch sei, das Wesen heißt Polaris. Eventuell heißen wir also Polaris. Das wäre doch eigentlich ein ganz witziger Name. Jetzt nicht so abgedroschen und es gibt schlimmere Namen. Wir könnten zum Beispiel Paris oder Australia heißen. Wenn wir so heißen. Eventuell sind wir auch einfach nur die Macht die Polaris steuert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

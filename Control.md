@@ -188,3 +188,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #15
+
+* Titel: `Control - #15 - Forschungsabteilung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Forschung ist irgendwie immer etwas Spannendes für mich. Das liegt wohl größtenteils daran das Neues zu erfahren immer eine interessante Erfahrung für jemanden wie mich ist. Und in der Forschungsabteilung liegen die Erkenntnisse noch pur herum. Keine destillierten Berichte sondern rohe Daten die man noch selber zusammenbauen kann um daraus eine eigene Meinung oder Schlussfolgerung zu ziehen. Aber auch das Werk anderer Forscher ist zu erkennen. Und das ist ermutigend. Etwas geht vor ran, es gibt Fortschritt, etwas Neues wartet an der nächsten Ecke. Was wäre schon das Leben wenn es nichts mehr gebe und alles bereits bekannt wäre. Kein Mysterium mehr zu lösen, keine Aufgabe zu lösen? Manchmal fragt man sich aber doch ob man sich nicht zusätzliche Mühe macht die man gar nicht gebraucht hätte.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

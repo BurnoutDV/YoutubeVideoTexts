@@ -1932,3 +1932,18 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #192
+
+* Titel: `Gothic 3 - #192 - die Männer vom Hammerclan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir uns durch eine tiefere Mine gegraben haben und jede Menge Orkwaffen aus rauen Fels gehauen stehen wir jetzt plötzlich vor dem Hammerclan. Das kommt ein wenig überraschend weil ich doch eigentlich damit gerechnet habe Orks zu hauen und nicht plötzlich in irgendeinem Dorf herauszukommen. Es ist schon bezeichnend für die Clans das sie sich immer noch im Krieg mit den Orks befinden wenn sich die Mine doch innerhalb von kürzester Zeit von Hunderten der Grünhäute ohne größere Probleme befreien lässt. Auf der anderen Seite aber auch für die Orks die sich als stolze Kriege sehen für die keine Bedrohung zu groß ist nicht in der Lage zu sein einen kleinen Menschenstamm zu unterwerfen. Insbesondere weil die einzelnen Clans scheinbar nicht in der Lage sind zusammen zu arbeiten. Konzentrierte Vorstöße mit aller Gewalt gegen die einzelnen Clans hätte doch hier wohl eine schnelle Wende bringen sollen oder?
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

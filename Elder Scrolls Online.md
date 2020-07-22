@@ -1061,3 +1061,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1320
+
+* Titel: `Let's Play ESO #1320 - Dwermerketten [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 56 des Greymoor DLCs - Sitzung 9
+  
+  Die Dwermer sind dafür bekannt das sie erstaunliche Werkzeuge gebaut haben. Mich überrascht das wir noch nicht von irgendwelchen Raumschiffen gehört haben mit denen die Tiefenelfen versucht haben den Planeten zu entkommen. Sie haben sich auf jeden Fall für Astronomie interessiert. Aber eventuell gibt es auch nichts da draußen wo man hinfliegen könnte. Soweit ich es verstehe wäre es auf jeden Fall nicht möglich in eine andere Ebene von Oblivion oder nach Atherium zu fliegen. Das heutige Hobbyprojekt ist auch etwas praktischerer Natur, es handelt sich um Ketten die scheinbar nur mit einem bestimmten Schlüssel geöffnet werden können. Ein romantisches Objekt, mir fehlen wirklich Beispiele vom Brechen von Magie mit nicht sanktionierten Mitteln wie purer Gewalt. 
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

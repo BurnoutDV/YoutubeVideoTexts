@@ -1075,3 +1075,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1321
+
+* Titel: `Let's Play ESO #1321 - Tzinghalis Laboratorium [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 57 des Greymoor DLCs - Sitzung 9
+  
+  Ich bin mir manchmal nicht so ganz sicher wie ich die einzelnen Episoden von ESO nenne. Die Hauptquest bzw. wie deren Titel ändert sich zu selten als das ich ihn als Vorlage nutzen könnte. Orte sind naheliegend, allerdings hört es sich manchmal irgendwie zu süß an. Wie zum Beispiel diese Episode hier. An sich könnte es auch Tzinghalis Folterkammer oder so heißen. Tut es aber nicht, das würde ja den Inhalt weg geben. Immerhin finden wir heute Fennorian wieder, auch wenn der sich nicht ganz so sehr darüber freut das er ist wo er ist. Ich persönlich liebe ja die Forschung. Die Welt hat soviel zu bieten und in einem Forschungslabor findet man immer ein paar gute Hinweise. Ärgerlicherweise ist dieses Laboratorium eher eines von der Frankenstein Varietät, man kann wohl nicht immer die Hochglanz Anlagen haben
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

@@ -530,3 +530,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #39
+
+* Titel: `Tomb Raider [2013] - #39 - Geisterjägerin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt de Zeitpunkt näher an dem wir alles auf der Insel ausprobiert haben was möglich ist und sein wird. Noch sind die Aktivitäten für Frau Croft allerdings noch nicht verbraucht. Daher widmen wir uns heute dem Hobby des Geisterjägers. Wir sind nicht die Ghost Busters also ist mir natürlich nicht wirklich bewusst was wir tun wenn wir die Geister erst einmal haben. Zum Glück ist das für den Moment auch nicht die Frage weil es nicht so aussieht als würden wir hier irgendetwas finden. Der Prospekt mit der Geisterjagt lag übriges schon seit Anfang an aus wir haben ihn bloß nicht für wahr genommen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

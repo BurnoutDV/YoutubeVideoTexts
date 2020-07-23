@@ -1947,3 +1947,18 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #193
+
+* Titel: `Gothic 3 - #193 - Winterwaldwunder [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Titel dieser Episode merken wir schon das ich mich ärgere. Je positiver ein Titel ist umso negativer waren meine Emotionen als ich die entsprechende Folge aufgenommen habe. Unabhängig davon kommen wir langsam aber sicher vom Hammerclandorf weg und versuchen uns an anderen Nebenmissionen die wir haben liegen lassen. Das ist auch relativ logisch da für mich das Spiel nur dann durchgespielt ist wenn wir wirklich alle Nebenquests gemacht haben die wir machen konnten. Ich werde Gothic 3 niemals wieder spielen und ich bezweifle das viele meiner Zuschauer das Gleiche tun werden. Es ist ein wenig seltsam, bei den meisten Spielen habe ich das Gefühl das die Leute vielleicht 5 Episoden Lets Play gucken, dann das Spiel selber spielen und vielleicht später wieder kommen um zu sehen wie ich Situationen gelöst habe, wenn meine Spielweise interessant war. Bei Gothic 3 glaube ich das Menschen zugucken um mich a.) Leiden zu sehen und b.) den Spaß nicht selber spielen zu müssen. Ich tue das hier also für euch. Bin ich nicht gütig. Schreibt doch was in die Kommentare wenn ihr/du das hier gelesen hast. Ich habe übrigens keine Ahnung worum es in dieser Episode geht. Der Name erinnert mich an nichts und ich bin nicht willens durch zu skippen.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

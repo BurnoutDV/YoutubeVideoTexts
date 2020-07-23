@@ -201,3 +201,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #16
+
+* Titel: `Control - #16 - Parapsychologie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mein absolutes Highlight in Control sind bisher die Erklärungsvideos von Dr. Darling. Der Gute glaubt jedes Mal das er ein Konzept erklären kann ohne dabei eine Geheimhaltungsstufe zu verletzen, und dann kommt der Zensor und entfernt entsprechende Stellen die irgendwie Sinn ergeben würden. Am Ende hat man ein Video von einem seltsam grinsenden Wissenschaftler der sich ein wenig sehr über seine Erkenntnisse freut ohne das man mehr erfährt. Ich finde aber diese Freude an der Wissenschaft höchst erfreulich. Ansonsten ist die Forschungsabteilung im ältesten Haus wahrscheinlich noch ein wenig mehr gefährlich als die restlichen Abteilungen. Einfach weil man mit den Versuchen wohl direkt die Objekte der Macht heranlockt oder bearbeitet. Immerhin haben sie eine Glücksabteilung, so etwas kann ich respektieren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

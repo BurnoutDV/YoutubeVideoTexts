@@ -1089,3 +1089,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1322
+
+* Titel: `Let's Play ESO #1322 - Bericht an Svana [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 58 des Greymoor DLCs - Sitzung 9
+  
+  Es gab einmal eine Zeit als ich mit diesem Youtube Ding relativ neu war das ich meine Episoden ziemlich dämlich benannt habe. Ich kann nicht sagen das ich darauf stolz bin. Aber es jetzt noch zu ändern wäre ein gewaltiger Aufwand und ich bin vor allen Dingen faul. Wie dem aber auch sei, ich erwähne das weil diese Episode ziemlich schwach benannt ist. Das erinnert mich an die alten Zeiten. Fakt ist, ja wir berichten Svana, ich habe mich aber schon beim letzten Mal darüber lustig gemacht das wir das in den Privatgemächern der Prinzessin tun. ESO blendet das zwar schön aus aber der klassische Königshof hat eine Menge Höfling und interne Politik wo es eine noch größere Menge an Gerede, Gerüchte und Intrigen gibt. Irgendwelche Abenteurer die sich heimlich in den Kammern der Thronerbin selbst treffen könnten da schon zu Gerede führen. Insbesondere wenn es sich um die Gesandte eines erklärten Feindes von König Svargrim handelt. Letztendlich berichten wir aber dennoch Svana. Egal was die Leute sagen.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

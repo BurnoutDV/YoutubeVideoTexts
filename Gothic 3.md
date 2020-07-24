@@ -1962,3 +1962,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #194
+
+* Titel: `Gothic 3 - #194 - Wo ist Larson? [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hätten gerne eine bessere Waffe. Im Idealfall eine die gewöhnliche Orks mit nur einem einzigen Schlag in die Hälfte teilt. Das ist ein frommer Wunsch und daher wird das wohl eher nicht passieren, aber man kann ja immer noch hoffen. Um einen weiteren Versuch auf so eine Waffe zu starten müssen wir aber zuerst die Schmiede der Clans von Nordmar davon überzeugen uns ihr Ja-Wort zu geben. Aktuell sieht es leider nicht so aus als würde das passieren. Und das liegt nicht daran das wir unqualifiziert sind oder irgendwie die Zorn der Clans auf uns gezogen haben. Es ist nur einfach so das wir die entsprechenden Schmiede einfach nicht finden können. Ich bin wirklich sehr bemüht, aber der Schmied des Wolfsclans, Larson, besteht darauf anstrengend zu sein. Wir laufen daher durch eine Menge Weiß, töten gelegentlich Rehe, Orks und Wölfe aber finden einfach keinen Schmied. Das nervt, dezent.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

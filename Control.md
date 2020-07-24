@@ -214,3 +214,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #17
+
+* Titel: `Control - #17 - Astralebenenausstellung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte erst vor Kurzem ein Gespräch mit einer engen Freundin in der wir auf das Thema Astralebene zu sprechen kamen. Komplett unabhängig von L.Ron Hubbart oder anderen Scientology Zeug. Für mich ist die Astralebene so ein Fantasyselement das in letzte Zeit ein wenig an Beliebtheit verloren hat bzw. einfach nicht da vorkommt wo ich meine literarischen Augen werfen. Ich kenne sie aber besonders aus Shadowrun. Mir ist dann zu Ohren gekommen das sie auch ein zentrales Element bei Scientologen ist. Ich habe die Lore nicht mehr ganz im Kopf und meine "Studien" waren sowieso oberflächlich. Die Astralebene in Control ähnelt aber sowieso keines der beiden Konzepte die ich im Kopf hatte. In Shadowrun ist die Astralebene kaum mehr als eine Art überlagerte Welt in der die Dinge ein wenig anders aussehen. Quasi kaum mehr als eine andere Art der Wahrnehmung. Ganz so einfach ist es natürlich auch dort nicht. In Control handelt es sich hier wohl um den "weißen Nicht-Raum", eine Art andere Welt, generell spielt Control sehr mit diesem Element, die physische Ebene und die Astralebene sind definitiv nicht die einzigen Dimensionen in denen Dinge passieren. Die Verschiebungen innerhalb des ältesten Hauses oder das Ocenview Motel weisen auf Ebenen bzw. Richtungen hin die wir einfach mit dem simplen Primatengehirn das wir da haben nicht korrekt interpretieren können. Das ist aber nicht schlimm, es scheint das die Control Realität freundlicherweise so etwas wie eine Übersetzung liefert. Ärgerlicherweise ist die Astralebene aber auch nicht direkt ein getrenntes Woanders das man nur ansehen kann sondern durchaus ein realer Ort. Theoretisch könnte man bestimmt auch Fotos dort machen. Was auch geht ist der Transport von Dingen aus der Astralebene in die Realität. Mit dem minimalen Nachteil das, dadurch das alles im Kopf eines Menschen anfängt das Objekt auch durch den Kopf geht. Das ist dann mehr als nur ein wenig bedauerlich für die entsprechende Person.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

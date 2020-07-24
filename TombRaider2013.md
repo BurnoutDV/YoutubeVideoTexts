@@ -544,3 +544,17 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #40
+
+* Titel: `Tomb Raider [2013] - #40 - die Sturmwache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ferieninsel Yamatai ist immer noch für Überraschungen gut. Da denkt man jetzt hat man wirklich alles gesehen und es wird langsam Zeit die Koffer zu packen, da kommt noch einmal eben eine Überraschung aus dem Kästchen. Heute lernen wir die Sturmwache kennen. Das ist so etwas Ähnliches wie die Elite-Klasse der Animateure. Es handelt sich um Männer die ihr ganzes Leben der Kunst gewidmet haben. Ihre Hingabe könnte schon fast als unmenschlich beschrieben werden. Wir wissen mit Sicherheit das ein jeder der Männer (keine Frauen anscheinend) sich ganz seiner Sache verschrieben hat. Unter den Sturmwächtlern gibt es auch noch verschiedene Klassen, anscheinend geht das sogar so weit das bestimmte Wachen mehr Nahrung als Andere erhalten, anders ist nicht zu erklären das sie auch deutlich fetter sind. Ich weiß nicht ob sich dies nicht am Ende negativ auf ihre Performance auswirkt. Das werden wir wohl noch abwarten müssen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

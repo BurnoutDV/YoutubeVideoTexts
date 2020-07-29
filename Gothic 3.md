@@ -1976,3 +1976,74 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #195
+
+* Titel: `Gothic 3 - #195 - Winterwaldwunder 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir töten heute einen schwarzen Troll. Das sind die ganz großen und Bösen. Ich würde das im Episodentitel erwähnen würde ich es für etwas erwähnenswertes halten. Leider sind Trolle die bisher dümmsten Gegner die wir getroffen haben. Es hat daher relativ wenig Sinn darüber zu reden. Das Vieh ist so schnell tot das man es kaum sieht. Stattdessen wandern wir die restlichen 22 Minuten und 20 Sekunden durch den Winterwald. Ich hoffe mal das es der Wald im Winter ist. Andernfalls mache ich mir wirklich sorgen um die Bewohner Nordmars. Kann ja nicht immer kalt sein da oder? Wie dem aber auch sei, diese Episode heißt des wegen Winterwaldwunder 2 weil wir in etwa genauso viel machen wie in der ersten Episode dieses Namens.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #196
+
+* Titel: `Gothic 3 - #196 - das Orklager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem ich wirklich lange durch die Eiswüste von Nordmar gestapft bin finden wir endlich das Orklager das wir letztens über den Luftweg nicht erreichen konnten. Und dabei war das gar nicht so schlimm. In dem Sinne ist Nordmar übrigens wesentlich schlimmer als die Wüste Varant. Die war an sich sehr zweidimensional und die kürzeste Route zwischen zwei Punkten war fast immer eine gerade Linie. Das hat das Abrastern der Landschaft wesentlich vereinfacht. So einfach können wir es uns leider nicht in Nordmar machen. Oft sehen wir Dinge bevor wir wirklich mit ihnen direkt interagieren können. Wie man auch in der heutigen Episode gesehen hat. Die große Hoffnung ist aber das Nordmar einfach kleiner ist und wir relativ bald mit Allem fertig sind und dann zum großen Finale ansetzen können. Gleich nachdem wir alle drei Biome unter unserer eisernen Herrschaft unterworfen haben. Aber das ist ja wirklich nur noch eine Formalität.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #197
+
+* Titel: `Gothic 3 - #197 - Angir Eisenfaust [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Nordmarer begraben ihre größten Helden. Bei solchen Geschichten frage ich mich immer was mit mir persönlich nicht stimmt. Meine erste Überlegung ist ob sowas nicht für den normalen Nordmarer total depremierend sein muss. Wir haben bisher 3 Heldengräber gefunden. Das Volk der Nordlinge lebt schon seit hunderten, wenn nicht sogar seit tausenden Jahren hier. In all der Zeit wurden grade einmal drei große Helden begraben. Alle anderen wurden vergessen. Wer erinnert sich noch an die Häuptlinge von vor 50 Jahren? Oder die vor 100 Jahren? Spätestens wenn das letzte Kind das damals grade so sprechen konnte alt und grau wird ist die Erinnerung verloren. Es gibt also eine Erinnerungskultur für die größten Helden aber der normale Nordmarer hat kaum eine Chance darin auf zu gehen. Irgendwie traurig.
+  "I will remember those that have been forgotten"
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #198
+
+* Titel: `Gothic 3 - #198 - Bak Arash [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bei der Benennung dieser Episode war ich ein wenig abenteuerlich. Ich weiß nicht einmal ob Bak Arash überhaupt der Name von irgendjemanden ist oder nur die Bezeichnung von einer bestimmten Art von Dämon. Wie dem aber auch sei, es gibt Indizien das es ein bestimmter Dämon ist der hier in den Nordlanden herum läuft. Jetzt aber das Problem: Der gute Dämon kommt wirklich erst ganz am Ende der Episode vor, nur ganz kurz. Der Titel ist also irreführend. Ein wenig. Andererseits hätte diese Episode ansonsten Winterwaldwunder Teil 3 gehießen und damit kann ja auch niemand zufrieden sein. Wie dem aber auch sei, wir kloppen heute Orkse,Trolle, Wildschweine, Wollnashörner und alles was noch so rumläuft. Für eine Eiswüste ist Nordmar echt ziemlich lebendig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #199
+
+* Titel: `Gothic 3 - #199 - Bereks Grabstätte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich in der vorletzten Episode erwähnte das wir drei Grabmäler entdeckt haben da war diese Information technisch gesehen falsch. Ich habe drei Grabstätten aufgeschaufelt, du bzw. ihr liebe Zuschauermenschen habt bis dahin nur zwei gesehen. Aber das spielt alles keine Rolle. Ob zwei oder drei macht auf tausend Jahre dann auch kein Unterschied mehr. Wenn es halt genau ein Grab gibt das einen gefallenen Helden feiert wäre das ja gut und schön, aber sobald es mehr als eines gibt wird die Lage kritisch. Natürlich könnte man an der Stelle auch ein wenig verwundert sein das eine Erinnerungskultur nicht ein wenig ausartet wenn man es übertreibt. Insbesondere bei einem Clan. Bisher sieht es so aus als wäre es nur der Feuerclan der sich um diese Gräber kümmert. Das schränkt die Anzahl potenzieller Helden immer schon ein wenig ein. Dennoch eher unschön, man kann nur hoffen das es keine Philosophen unter den Nordlingen gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

@@ -1103,3 +1103,73 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1323
+
+* Titel: `Let's Play ESO #1323 - Reise zum Küstenlager [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 59 des Greymoor DLCs - Sitzung 9
+  
+  Mittlerweile gibt es gar nicht mehr so viele Orte im westlichen Himmelsrand die wir noch nicht bereist haben. Jetzt wissen wir das es insgesamt 3 Lager des Eiskapzirkels bzw. der grauen Schar gibt an denen signifikante Operationen stattfinden. Eines davon ist an der nördlichen Küste des Eismeeres. Wir waren eigentlich schon einmal dort haben den Ort aber geflissentlich ignoriert weil mir schon klar war was es bedeutete. Hier finde ich übrigens ein großes Spielwelt Problem: Die Welt ist einfach zu klein. Selbst wenn wir uns mehre Tagesmärsche zwischen Einsamkeit und der nördlichen Küste vorstellen wäre das trotzdem einfach zu kurz, zu klein. Wie kann der König in Friedenszeiten nicht mitbekommen was passiert? Hat er keine lokalen Spione, Nachrichtenoffiziere. Wir sprechen hier nicht von einem CIA, Stasi oder FSB Apparat, einfache lokale Niederlassungen die eine Gegend überwachen. Regelmäßige Ausguckpunkte. Eine Operation feindlicher "Truppen" auf dem eigenen Gebiet ist inakzeptabel. Aber eventuell stellt ESO die Wildnis auch ein wenig zu wenig Wild da.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1324
+
+* Titel: `Let's Play ESO #1324 - Oberflächenlager [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 60 des Greymoor DLCs - Sitzung 9
+  
+  In der letzten Beschreibung erwähnte ich schon wie inakzeptabel die Operation feindlicher Truppen im eigenen Gebiet ist. Es könnte vielleicht sein das die Jarltümer deutlich kleiner sind als die Fläche des westlichen Himmelsrand und es in Wirklichkeit jede Menge weiße Flecken gibt die niemanden direkt zu gehören. Auf der anderen Seite scheint der Boden insgesamt nicht viel her zu geben. Daher braucht man wahrscheinlich jeden Meter den man kriegen kann. Wieso können also feindliche Invasoren innerhalb der Landesgrenzen agieren? Also nicht nur an der Grenze bzw. Küste sondern mitten drin. Das erscheint doch ein wenig fischig oder? Wie kann Svargrimm nur so blind sein? Ein echtes Rätsel, es sei den es gibt eine einfache Erklärung.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1325
+
+* Titel: `Let's Play ESO #1325 - Von Eis und Tod [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 61 des Greymoor DLCs - Sitzung 9
+  
+  Wir waren bereits in Morthal und haben von der geliebten von Freiwen, der hiesigen Tochter des Jarls gehört. Es handelte sich dabei um eine junge Totenbeschwörerin namens Maxten strebte vor allen nach Macht. Ihre Liebe zu Freiwen war aber nicht nur eine Illusion um besser an die Macht des Landes zu kommen. Heute erfahren wir die zweite Seite dieser Geschichte. Leider entgeht uns ein kleiner Teil weil es auch noch andere Helden in diesem Land gibt. Dennoch sehen wir viel. Ich persönlich finde Eismagie übrigens nicht so beeindruckend wenn sie in einem Land das sowieso schon aus Schnee und Eis besteht gewirkt wird. Was wäre so ein prächtiger Gletscher doch in Sommersend eindrucksvoll. Aber nicht hier. Die Schiffscrew die wir treffen sieht das ähnlich.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1326
+
+* Titel: `Let's Play ESO #1326 - Weg zu den Grottenfällen [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 62 des Greymoor DLCs - Sitzung 10
+  
+  Eigentlich erhalten wir heute Ausrüstung und das ist der ganze Kern dieser Episde. Klar machen wir uns dann auch noch zum Lager in der Schwarzweite wie ich das letztes Mal schon vor hatte auf. Die neue Ausrüstung bringt aber kleine subtile Änderungen in meinem Spielstil. Ich sprach ja bereites in der Vergangenheit darüber. Setgegenstände die nur Statistik bringen sind zwar nett und für den MinMaxer unter dem Spieler bestimmt sehr spannend. Für die breite Spielerschaft aber nicht. Ich bin daher SandraR sehr dankbar das sie ein paar Ausrüstungsgegestände gefunden hat die nicht nur mächtiger sind als das was ich zuvor hatte sondern außerdem noch ein wenig Abwechslung in mein Abenteuerinnenleben bringen.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1327
+
+* Titel: `Let's Play ESO #1327 - das Schwarzweitenlager [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 63 des Greymoor DLCs - Sitzung 10
+  
+  Ich habe ja viel über die Unfähigkeit König Svargrimms gemeckert und seine Untätigkeit beim Halten der Grenzen. Hier sieht die Lage jetzt anders aus. Wir sind in der Schwarzweite, ein Ort der nur aus Legenden bekannt ist und die einzigen normalen Leute hier sind eine Bergbaugesellschaft die hier auf wertvolle Ressourcen hoffen. Insgesamt finde ich es immer noch seltsam das es hier unten überhaupt irgendetwas gibt. Irgendwann müssen die Zwerge ja angefangen haben hier ihre Städte zu bauen, und das haben sie offensichtlich mit irgendwelchen Materialien getan, Stein und Metal. Warum also findet man hier unten immer noch soviel.Teilweise sogar so als wäre es nie angefasst wurden? Wächst Metal in der Elder Scrolls Welt einfach nach, oder haben die Zwerge ihre Metalle anders erzeugt und das wir finden sind die natürlichen Ressourcen die die High-Tech Zwerge (jaja, Tiefenelfen) einfach nicht gebraucht haben?
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

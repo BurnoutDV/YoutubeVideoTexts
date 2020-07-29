@@ -227,3 +227,68 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #18
+
+* Titel: `Control - #18 - die Röntgenlichtbox [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Idee mit den Objekten die das Konzept für irgendetwas sind scheint mir relativ seltsam je länger ich sie mir anschaue. Es könnte natürlich sein das ich eine Seite einfach nicht sehe und es nicht verstehe. Wie dem aber auch sei, unser heutiges Objekt ist eine Röntgenlichtbox. Der Name würde jetzt vielleicht vermuten das man damit Leute durchleuchtet, aber nein, es handelt sich viel mehr um das Ding wo man die Röntgenbilder dran hängt um sie besser zu sehen. Das Bild kann übrigens nicht ausgewechselt werden. Ob es dafür steht das man die Menschen durchschaut? Ihre innersten Gedanken kontrolliert weil man sie genau kennt? Ich weiß es nicht, ehrlich gesagt habe ich noch nie irgendjemanden Esotherik aus Röntgen machen sehn. Die Risiken sind klar umrissen, es ist nicht kostenlos, wie es funktioniert ist auch ziemlich straight forward. Warum also das erweckte Objekt in eben dieser Röntgenlichtbox? Das alles erscheint mir zufällig. Andererseits war das Karusselpferd auch nicht besonders. So viele Fragen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #19
+
+* Titel: `Control - #19 - die Pflicht des Direktors [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jesse Faden ist kein Charakter der normalerweise der Direktor bzw. wenn es wichtig ist zu gendern, die Direktorin, von irgendetwas zu werden. Es ist nicht so das ihr dafür die Motivation fehlt, sie würde es einfach nur nicht wollen, kein Wille zur Macht. Wir wissen aber das der vorherige Direktor Trench auch nicht unbedingt die Stelle aversiert hat sondern eher hineingerutscht ist. Der Rat sieht das aber anders, der sieht Jesse als sehr fähig an. Und jetzt hat sie ja den Job, da muss sie auch nicht mehr Direktorin werden. Damit einher gehen übrigens einige Pflichten. Wie zum Beispiel bestimmte Bereiche des ältesten Hauses sicher zu halten. Normalerweise wäre das wahrscheinlich eine eher seltene Pflicht. Da das Zischen aber anscheinend wirklich sicher einziehen will müssen wir hier ein wenig öfter etwas tun.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #20
+
+* Titel: `Control - #20 - Helen Marshall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Mitglieder des Managementteams die nicht völlig durchgedreht sind und angefangen haben durch die Luft zu fliegen. Eine dieser Personen ist Helen Marshall. Ihres Zeichens anscheinend Expertin für Außeneinsätze. Aktuell aber offensichtlich im Innendienst der auch eine Menge zu bieten hat. Zum Beispiel all die Gefahren die Wahrscheinlichkeit und Glücksbringer mit sich bringen können. Es erscheint eigentlich ziemlich logisch das insbesondere Dinge die den Leuten Glück bringen sollen erwachte Objekte sind. Menschen glauben sehr intensiv an ihre Glücksbringer, überrascht es da das einige mehr als nur stumpfe Objekte werden. Ich frage mich nur ob es vielleicht mehr als ein erwecktes Objekt pro Glaube gibt. Wenn genügend Leute an den kalten Krieg glauben, gibt es dann zwei identische Disketten?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #21
+
+* Titel: `Control - #21 - das HRV-Labor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das der gute Dr. Darling nicht nur witzige Videos aufgenommen hat in denen seine Mitarbeiter rumlaufen müssen aber nichts sagen dürfen sondern auch praktische Maßnahmen ergriffen hat. Wir wissen mittlerweile das HRV für Hedron Resonanz Verstärker steht. Was genau jetzt ein Hedron ist weiß ich aber leider nicht. Anscheinend hat es irgendetwas mit Schwarzstein zu tun. Generell scheint irgendwie viel im ältesten Haus auf Vibrationen aus zu sein. Die Frage die sich aufdrängt ist aber was für Vibrationen es sind. Ich habe die dunkle Ahnung das es sich hier nicht um Vibrationen der Luft und damit Geräusche handelt. Viel mehr etwas Anderes. Vielleicht Vibrationen der Raumzeit? Höchstwahrscheinlich nicht ganz so dramatisch aber wohl ähnlich spektakulär.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #22
+
+* Titel: `Control - #22 - Logistik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir fahren heute in die Logistik Abteilung. Dort liegt auch das Panoptikum, die riesige Halle mit all den gewandelten Objekten. Bevor wir aber da hin kommen müssen wir durch die Sicherheit. Und das wird wahrscheinlich nicht ganz einfach. An sich haben wir aber überhaupt keinen Auftrag dort hin zu gehen. Ich tue es weil ich es kann. Ich finde auch einen Mitarbeiter der sich scheinbar ein wenig verletzt hat. Und es geht einmal erneut durch das Ocean View Motel. Oder auch nicht weil ich zu doof bin Rätsel zu lösen. An und für sich ist die Logistik aber ein dunkler, ziemlich langweiliger Ort. Würde ich jetzt so behaupten. Wir bleiben auch nicht besonders lange dort, einfach zu riskant und unfreundlich. Und am Ende finden wir noch Dinge die wir gar nicht sehen wollen. Das wäre außerordentlich ärgerlich oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

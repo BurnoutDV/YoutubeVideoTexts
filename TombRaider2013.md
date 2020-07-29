@@ -558,3 +558,31 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
+
+##### #41
+
+* Titel: `Tomb Raider [2013] - #41 - Ritualvorbereitung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird spannend. So langsam aber sicher stellt sich heraus das wir auf unserer Ferieninsel die ganze Zeit hereingelegt wurden! Es stellt sich heraus das Yamatai gar nicht das Paradies ist von dem wir die ganze Zeit gehört haben. Die Wahrheit ist das das Wetter wesentlich schlechter ist als angegeben. Bisher habe ich auch noch keine von den oberkörperfreien Hulla-Mädchen gesehen die uns Getränke reichen, auch wenn ich nicht sicher weiß ob das für Lara überhaupt eine Priorität ist. Das könnte aber noch passieren. Yamatai scheint eher eine Art Kultururlaub zu sein, heute finden wir zum Beispiel die "Ritualkammer" dort werden wichtige heidnische Praktiken vorbereitet. Hoch interessant, aber nicht Sommer, Strand, heiße Girls (und Boys), Alkohol und Polonese. Aber man nimmt was man kriegt und Frau Croft ist ja immerhin Archäologin, da kann man schon mal ein wenig Arbeit mit in den Urlaub nehmen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```
+
+##### #42
+
+* Titel: `Tomb Raider [2013] - #42 - das Unsterblichkeitsritual [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Ferienausflug nimmt ein relativ jähes Ende, und zwar heute. Ich erwähnte ja bereits das die Ferieninsel in einigen ihrer Angebote gelogen hat. Verjüngung stand übrigens nicht im Prospekt. Das ist also tatsächlich eine positive Überraschung. Das möchte ich hervorheben. Es stellt sich aber heraus warum es nicht erwähnt wurde. Die Verjüngungskur wurde wohl nie fertig entwickelt und scheint auch insgesamt nur einer einzigen Person zu nutzen. Und zwar immer der gleichen Person. Die ist dafür aber schon ziemlich lange hier was dafür spricht das das Ritual sehr gut funktioniert, wenn man es korrekt anwendet. Ärgerlicherweise gab es da in der Vergangenheit ein paar Probleme und jetzt müssen wir unsere beste Freundin retten damit wir hier irgendwie weiter kommen. Und weg. Lara reicht es nämlich mit Yamatai. Wir sollten aber irgendwann wieder kommen und Dinge plündern, irgendwie muss ja die Kasse gefüllt werden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Tomb Raider auf dem Montag Slot.
+  Wallpaper von https://www.deviantart.com/eddy-shinjuku
+  ```

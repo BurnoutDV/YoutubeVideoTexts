@@ -1173,3 +1173,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1328
+
+* Titel: `Let's Play ESO #1328 - Hohepriester Ingurt [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 64 des Greymoor DLCs - Sitzung 10
+  
+  Der gute Fennorian hat ein Problem. Er ist ein Vampir und als solcher hängt er irgendwie mit Molag Bal im Bunde. Das ist besonders tragisch da er gelegentlich Zugriff auf Hilfsmittel aus der göttlichen Werkstatt braucht die aber ewiges Leben und das Saugen von Blut als eher unnatürlich ansieht. Heute braucht er zum Beispiel ein spezielles Leichenöl das er sehr fürchtet. Daher schickt er uns. Das ist insbesondere deswegen ironisch weil wir, schon seit echt langer Zeit, ein Vampir sind. Quasi seit tausenden Episoden. Das hat bisher kaum jemand mitgekriegt und selbst die Sonne von Elsweyr hat wenig getan um uns aufzuhalten. Ich nehme daher an das es für uns okay ist das Leichenöl abzuholen, trotzdem komisch. Nebenbei sprechen wir noch mit Hohepriester Ingurt. Der ist aber nicht besonders heilig so das hier keine Probleme entstehen. Immerhin.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

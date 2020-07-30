@@ -292,3 +292,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #23
+
+* Titel: `Control - #23 - Zurück in die Wartung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben etwas vergessen. Das ist jetzt wirklich keine Überraschung, Jesse ist nun wirklich keine Wartungsmechanikerin. Immerhin hat sie jetzt einen Direktorenposten. Ich bin übrigens wirklich gespannt ob die Behörde so etwas wie ein Gehalt bezahlt. Oder es gibt vielleicht Prämien für das Überwinden von Katastrophen. Wenn es die nicht gibt könnte es im ersten Monat ein wenig schwierig für Jesse werden. New York ist ein teures Pflaster. Ich frage mich ob man die Amtswaffe außerhalb der Behörde tragen darf. Und was wohl eine zufällige Polizeikontrolle von der Hotline halten würde. Unabhängig davon glaube ich nicht das Jesse dafür qualifiziert ist irgendwelche großartigen Wartungsarbeiten vorzunehmen. Dennoch müssen wir noch einmal in die Wartung und nach dem Rechten sehen. Das wird bestimmt großartig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

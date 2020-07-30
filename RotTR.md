@@ -41,3 +41,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #4
+
+* Titel: `Rise of the Tomb Raider - #4 - Knuddelbär [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt überraschend, aber Sibirien ist wirklich kalt. Glücklicherweise haben wir ja unsere mobile Garderobe dabei, daher kann ich erstmal die Weihnachtsmarktklamotten ausziehen und etwas Vernünftiges überstreifen. Damit ist es aber nicht getan, das kleine Feuerchen das sich Lara da angezündet hat reicht vielleicht für etwas Stockbrot, aber eine Wärmequelle sieht anders aus. Wir bräuchten etwas Pelz oder etwas warmes mit Pelz an das wir uns anlehnen können. Idealerweise wäre da so ein Bär in der Nähe, möglichst groß den wir ganz fest Umarmen können. Famos wäre das. Wie es der Zufall so will ist Fortuna uns auch Hold und liefert wie nicht bestellt. Großartig oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

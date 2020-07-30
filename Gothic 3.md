@@ -2047,3 +2047,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #200
+
+* Titel: `Gothic 3 - #200 - Kalans Torheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute spazieren wir wieder einmal durch den Wald von Nordmar. Eigentlich machen wir die ganze Zeit nichts Anderes. Heute wird aber alles anders. Oder zumindest ein bisschen. Wir "treffen" einen Kerl namens Kalan. Der ist scheinbar einer der NPCs die ich für die Schmiedequest brauche. In anderen Neuigkeiten habe ich mir vor einiger Zeit einen Audio Compressor gekauft. An sich ist das sogar ein Audio Processor weil es noch ein paar andere Dinge macht. Aber die Kompression ist heute das wichtigste Feature. Der Kompressor schränkt die Dynamik des Stimmumfanges ein (man korrigiere mich. Hauptsächlich brauchen tue ich das Feature wo es zu laute Geräusche auf ein gangbares Level reduziert und somit Spitzen abfängt. Zum Beispiel wenn ich schreie. Das passiert heute oft. Man darf sich selber angucken warum ich das tue. Ich sollte das übrigens nicht wieder tun. Beim letzten Mal war ich den ganzen nächsten Tag heiser. Das war gar nicht so toll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

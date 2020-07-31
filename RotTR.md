@@ -54,3 +54,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #5
+
+* Titel: `Rise of the Tomb Raider - #5 - nächtliche Ruhestörung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem der Knuddelbär von uns abgelassen hat, in Weigerung uns noch mehr Wärme zu geben, geht die Nacht nicht ruhig weiter. Wir werden schon wieder geweckt. Von irgendwelchen Leuten die hier durch die Nacht rennen. Es besteht allerdings die Vermutung das wir nicht ganz unschuldig an das Auftauchen dieser Fremden sind die scheinbar den "Ureinwohnern" hier das Leben zu Hölle machen. Besagte Ureinwohner sprechen übrigens eine für uns verständliche Sprache und sind ziemlich reich angezogen dafür das sie vom Wald leben. Da wir bereits die sagenumwobene Stadt gesehen haben die es hier irgendwo geben soll gehe ich einmal davon aus das es hier irgendwo eine Zone besseren Wetters gibt. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

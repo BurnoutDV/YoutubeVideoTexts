@@ -1187,3 +1187,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1329
+
+* Titel: `Let's Play ESO #1329 - das Gegenelixier [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 65 des Greymoor DLCs - Sitzung 10
+  
+  Heute versucht uns das Story schreiben für doof zu verkaufen. Generell bin ich übrigens, so möchte ich an dieser Stelle einmal feststellen, mit dem narrativ von Greymoore nicht besonders einverstanden. Der Aufbau der Handlung scheint mir sehr für Vorschüler ausgelegt zu sein. Klar, das Spiel ist technisch gesehen ab 12, aber ich fühle mich wirklich für dumm verkauft. Auf einmal soll gegen die magischen Gramstürme ein Trank helfen. Ein Trank der aus der Erkenntnis gewonnen wurde wie man die Gramstürme mit einem bestimmten Gebräu bzw. Pflanze verstärken kann. Wie genau das funktioniert hat bisher übrigens auch niemand erläutert und ich bezweifle das das noch passiert. Wir wissen das es Amulette gibt die gegen die Auswirkung der Stürme schützen. Warum es jetzt ein Trank sein soll ist mir nicht ganz klar. Ich frage mich dann übrigens wie die praktisch Durchführung nach der Erprobung aussehen soll. Später wird sich noch herausstellen das der Trank unmittelbar nach der Einnahme wirkt aber wohl nur für kurze Zeit. Er ist also keine Art Impfung. Wie genau stellt man sich vor hier jeden Einwohner Einsamkeits zu schützen? Oder erhalten nur die Reichen den Schutztrank? Wer sollte uns glauben das wir das Gegenmittel haben wenn wir nicht einmal den Rückhalt von Svargrim besitzen. Und weiter, wie wollen wir das Zeug in Masse herstellen?
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

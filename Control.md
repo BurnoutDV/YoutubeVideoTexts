@@ -305,3 +305,18 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+---------------
+
+##### #24
+
+* Titel: `Control - #24 - Schwarzsteinverarbeitung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das älteste Haus grenzt an mehre andere Grenzbereiche von denen ich mir ziemlich sicher bin das sie nicht in New York oder einem U-Bahn Tunnel von New York liegen. Stattdessen scheint es sich um einen Nicht-Ort direkt neben unserer Realität zu sein der relativ stabil ist. Einer dieser ziemlich stabilen Orte ist übrigens der Schwarzsteinbruch. Da kommen wir heute noch nicht an, das dauert noch ein wenig. Stattdessen betreten wir heute die Verarbeitung des Schwarzsteins. Es gibt ja dieses gewaltigen Wände die einen Bereich von anderem trennen. Man nennt sie die "Brandschneise". Die Wände sind mit einem schwarzen Stein bedeckt. Das ist der sogenannte Schwarzstein. Wenn man sich die Größe der Brandschneise anschaut habt man wohl ziemlich viel von dem Material gewonnen. Oder über sehr lange Zeit nicht ganz so große Mengen. So oder so gibt es auch mehr als eine Brandschneise. Man benutzt den Stein aber nicht weil er so witzig aussieht sondern weil er auch abweisende Eigenschaften für viele gewandelte Objekte hat. Das ist praktisch. Damit der Stein aber auch nutzbar ist muss er verarbeitet werden. Und das bringt uns zu dem Ort den wir heute betreten, die Schwarzsteinverarbeitung.. Ja.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

@@ -2061,3 +2061,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #201
+
+* Titel: `Gothic 3 - #201 - Das Feuerclandorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt drei Dörfer in Nordmar. Drei Clans von denen jeweils einer in einem dieser Dörfer wohnt. Heute treffen wir den letzten Klan. Der der anscheinend am meisten auf den Kampf gegen andere Leute ausgelegt ist. Warum es nicht nur einen Klan gibt wenn einer besonders fähig ist gibt ist mir übrigens nicht ganz klar. Theoretisch müsste der einsame Klan doch dann schon vor langer Zeit siegreich gewesen sein. War er aber nicht. Stattdessen gibt es immer noch drei sehr voneinander getrennte Stämme. Wie dem aber auch sei, auch der doch so siegreiche Clan des Feuers hat große Probleme mit vagabundierenden Kriegstrupps der Orks. Das ist aber alles kein Problem weil jetzt kommt ja der namenlose Held und räumt auf! Bestimmt. Und der Feuerklan heißt übrigens nicht so weil sie das Feuer erfunden haben sondern weil sie ganz dolle sehr an Innos glauben. Recht einfach oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

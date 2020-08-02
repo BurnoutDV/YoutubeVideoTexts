@@ -2075,3 +2075,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #202
+
+* Titel: `Gothic 3 - #202 - Keith der Anführer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer noch halten wir uns auf dem Gelände des Feuerclandorfes aus. Mittlerweile haben wir aber so gut wie alle Leute kennen gelernt. Es fehlt aber noch Keith der Anführer der ganzen Bande. Der erzählt uns tolle Dinge hat aber ansonsten nicht viel zu sagen. Leider auch keine Informationen die uns weiter helfen die Welt zu retten. Was er übrigens auch nicht weiß ist was eigentlich mit Xardas auf sich hat oder wo der genau residiert. Man möchte eigentlich meinen das wenn man mitten im Krieg mit den Orks steht man solche Informationen eigentlich bevorzugen würde. Zwar herrschen die Clans nicht explizit über das Land und ich denke man kann auch nicht von einem vereinigten Land reden, aber ein wenig Beachtung von Seiteninformationen wäre bestimmt nicht verkehrt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

@@ -67,3 +67,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #6
+
+* Titel: `Rise of the Tomb Raider - #6 - das Eissschiff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte mich schon gefragt wie genau das ganze Archäologiezeug in Sibirien eingeplant wird ohne das  wir direkt am Schauplatz der ganzen Geschichte sind. Heute finde ich die Antwort: Wir finden ein altes Schiff das anscheinend relativ reich bestückt war und die Waren liegen jetzt irgendwo auf dem Meeresgrund. Der ist glücklicherweise zugefroren. Das Schiff selber ist übrigens auch noch da, und sogar noch glücklicher, einige alte Dokumente die uns darüber aufklären was genau hier passiert ist. Welche Glück. Auch Glück ist das das Eis anscheinend seit einigen Jahrhunderten nicht aufgetaut ist obwohl die Story eigentlich erklärt das das Schiff nur stecken geblieben ist weil es zugeschneit ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

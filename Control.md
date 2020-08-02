@@ -320,3 +320,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #25
+
+* Titel: `Control - #25 - Steinbruch-Eingang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir sind immer noch nicht im Steinbruch. Ja es geht immer noch um den Schwarzstein, den brauchen wir um weitere HRVs herzustellen, davon hängt das Überleben der Mitarbeiter der Behörde ab. Zumindest der Mitarbeiter die bisher überlebt haben. Es sei den wir finden noch Wege die Zischer wieder in normale Menschen zurückzuverwandeln. Die Tatsache das die Zischer aber einfach wegpuffen wenn man sie erschießt spricht jetzt aber nicht unbedingt dafür das es einen Körper gibt zu dem man wirklich zurückkehren könnte. Oder das die Persönlichkeit der Person noch da ist. Wahrscheinlich bleibt nicht mehr viel von den Leute außer ihre Fähigkeiten zurück wenn das Zischen kommt. Habe ich schon erwähnt das das HRV sehr wichtig für die Leute ist? Und deswegen wollen wir in den Schwarzsteinsteinbruch.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

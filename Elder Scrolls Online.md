@@ -1201,3 +1201,31 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1330
+
+* Titel: `Let's Play ESO #1330 - der Weg zur Mittnacht [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 66 des Greymoor DLCs - Sitzung 10
+  
+  Die Mittnacht ist übrigens keine Zeit sondern tatsächlich ein Ort. Aus den Namen dieser Episode kann man schon erkennen das die Reise ein wenig länger ist. Eventuell aber auch weil ich ziemlich langsam bin. Die Mittnacht selbst ist dann quasi ein Hügelgrab das irgendwann einmal bis in die Schwarzweite abgesunken ist und dabei kaum Schäden davon getragen hat. Das ist eigentlich ziemlich beeindruckend wenn man darüber nachdenkt oder? Nichts beschädigt, alles noch in einem Stück, kaum tote Gänge. Man muss den kreativen Sinn der Erbauer bei der Verhärtung gegen plötzliche Erdbeben wirklich bewundern. Insbesondere weil Himmelsrand so weit es aussieht kein Ort ist an dem man oft mit Erdbeben rechnen muss.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1331
+
+* Titel: `Let's Play ESO #1330 - der Weg zur Mittnacht [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 66 des Greymoor DLCs - Sitzung 10
+  
+  Die Mittnacht ist übrigens keine Zeit sondern tatsächlich ein Ort. Aus den Namen dieser Episode kann man schon erkennen das die Reise ein wenig länger ist. Eventuell aber auch weil ich ziemlich langsam bin. Die Mittnacht selbst ist dann quasi ein Hügelgrab das irgendwann einmal bis in die Schwarzweite abgesunken ist und dabei kaum Schäden davon getragen hat. Das ist eigentlich ziemlich beeindruckend wenn man darüber nachdenkt oder? Nichts beschädigt, alles noch in einem Stück, kaum tote Gänge. Man muss den kreativen Sinn der Erbauer bei der Verhärtung gegen plötzliche Erdbeben wirklich bewundern. Insbesondere weil Himmelsrand so weit es aussieht kein Ort ist an dem man oft mit Erdbeben rechnen muss.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

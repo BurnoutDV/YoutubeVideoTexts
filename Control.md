@@ -333,3 +333,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #26
+
+* Titel: `Control - #26 - der Schwarzstein-Steinbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es jetzt lange genug angekündigt, heute ist es soweit, wir sind endlich am Schwarzsteinbruch und tun dort Dinge. Größtenteils suchen wir anscheinend einen speziellen Schwarzstein den wir für die Inbetriebnahme des besonders großen HRV brauchen. Leider ist der Steinbruch nicht unbedingt ein befriedigter Ort des ältesten Hauses. Stattdessen gibt es, so scheint es zumindest, direkt mehre Fraktionen die uns hier im Wege stehen. Obwohl bei den Wesen des Astralraums nicht so ganz sicher ob sie überhaupt aktiv agieren oder eher nur begrenzt auf äußere Einflüsse reagieren und wir ihr Verhalten einfach nur als feindlichen Verhalten interpretieren. So oder so sind die Wesen die irgendwie aus der Astralebene kamen aber nicht gut für unsere Gesundheit. Ich frage mich ob all diese Wesen durch das Gehirn eines Astralnauten kamen oder ob andere einfach so im Steinbruch aufgetaucht sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

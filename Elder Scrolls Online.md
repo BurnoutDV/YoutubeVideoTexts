@@ -1229,3 +1229,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1332
+
+* Titel: `Let's Play ESO #1331 - Gärtnerei Niederhain [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 67 des Greymoor DLCs - Sitzung 10
+  
+  Eigentlich betreten wir heute gar keine Gärtnerei, viel mehr handelt es sich um einen Ort an dem ein bestimmtes Gewächs besonders gut wächst. Und wenn ich ehrlich bin sind wir auch nur exakt 5 Minuten dort, hauen einen Boss um und dann war es das auch. Was mich aber eigentlich am meisten überrascht ist das wir einen spontanen Feldtest für das Anti-Gramsturm Elixier machen. Dabei wollten wir das doch in einer kontrollierten Umgebung verwirklichen. Nun gut, man kann wohl nicht alles haben. Nebenbei helfen wir übrigens noch einer zufälligen Erkunderin die Schuld ihres Ahnen nach zu verfolgen. Recht ereignisreich also unser Besuch der Tiefen könnte man sagen.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

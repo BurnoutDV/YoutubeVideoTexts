@@ -2089,3 +2089,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #203
+
+* Titel: `Gothic 3 - #203 - Regizid [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+   Wir bringen heute einen König um. Mir scheint übrigens nicht das das so geplant war und eher eine Möglichkeit ist die als Scherz gemeint war. Ich weiß auch nicht wie genau Lee sich das ganze Vorhaben vorgestellt hat. Aufgrund der massiven Masse (heh) an Wachen und Bauern ist es eine echte Herausforderung hier etwas zu gewinnen. Und selbst die Feuermagier schlagen sich auf die Seite des Regenten. Dabei wissen wir das die Herrschaft von Rhobar dem Zweiten nicht unbedingt fair war. Viele Leute wurden in die Minen von Khorinis geschickt deren Schuld sehr umstritten war. Und dann haben die Opfer der Justiz nicht einmal den Sieg bringen können. Die Fähigkeiten zum Regieren sind also sehr anzuzweifeln
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

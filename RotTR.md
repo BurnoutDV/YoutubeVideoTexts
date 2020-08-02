@@ -80,3 +80,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #7
+
+* Titel: `Rise of the Tomb Raider - #7 - Sovietruinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das wir uns nicht alleine darauf verlassen müssen uralte Ruinen des Propheten zu finden um dort ein wenig Geschichte aufzudecken. Stattdessen gibt es wieder einmal Industrieromantik in Form von wunderschönen Betonbauten. Dieses Mal waren es sovietische Sklavenarbeiter die mitten in Sibirien größere Anlagen gebaut haben. Die armen Kerle tun mir ziemlich leid aber von ihnen finden wir, zumindest vor erst, keine Spuren. Stattdessen gibt es wohl Leute die hier in der Landschaft wohnen und weder zu den Truppen von Trinity noch zu versprengten Resten der alten Soviets gehört. Es gibt übrigens im echten Russland Menschen die sehr isoliert wohnen und bestimmte historische Ereignisse einfach verschlafen haben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

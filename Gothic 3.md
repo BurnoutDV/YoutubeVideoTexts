@@ -2103,3 +2103,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #204
+
+* Titel: `Gothic 3 - #204 - versprengte Reste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube ich komme mit Nordmar langsam aber sich zum Ende. Heute räumen wir dann noch die letzten Reste der Eiswüste auf um uns dann auf dem Weg zum Kloster des ewigen Feuer zu begeben. Das müssen wir zwar erst einmal finden aber ich bin mir sicher es kann nicht weit sein. Die benannten versprengten Reste sind übrigens deswegen so versprengt weil sie gar nicht wissen das es sie die Reste sind. Es handelt sich eher um lose Reste die halt noch übrig sind als wir wie ein Besen durch das Land gezogen sind und hier und dort Dinge kaputt gehauen haben. Viel übrig geblieben ist aber auch nicht, daher ist es eher lästig als alles andere hier und dort noch Feinden zu begegnen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

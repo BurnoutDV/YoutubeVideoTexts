@@ -93,3 +93,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #8
+
+* Titel: `Rise of the Tomb Raider - #8 - Augenblick [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute gibt es für Lara ein Wiedersehen. Wir haben die Freude unseren Erzfeind Constantin erneut zu begegnen. Die Freude ist allerdings einseitig da eigentlich nur wir beziehungsweise Lara den Mann sieht während er uns wahrnimmt. Offensichtlich ist er zu sehr damit beschäftigt seinen Untergebenen tief in die Auge zu blicken. Ich finde das als Führungsstil eher suboptimal, aber was weiß ich schon vom Führen einer religiösen paramilitärischen Vereinigung. Vielleicht macht man das ja genau so und ich kritisiere den guten Constantin völlig zu Unrecht. Bis ich mich mehr zu dem Thema belesen habe sollte ich daher Zurückhaltung üben. Zum Glück sollten die entsprechenden Fähigkeiten für Lara recht schnell erlernt sein, ihr alt-griechisch und russisch haben sich ja auch recht schnell verbessert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

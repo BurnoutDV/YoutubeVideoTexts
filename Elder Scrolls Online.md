@@ -1243,3 +1243,17 @@
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1333
+
+* Titel: `Let's Play ESO #1332 - die gefrorene Küste [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 68 des Greymoor DLCs - Sitzung 10
+  
+  Heute erkunden wir erneut ein Verlies. Das passiert in letzter Zeit ziemlich häufig. Erklärt ist das leicht, auch Verliese enthalten Geschichten und das westliche Himmelsrand besteht ärgerlicherweise aus sehr viel Eiswüste und ansonsten nicht besonders viel von besonderem Interesse. Daher müssen wir alle Nebenmissionen mitnehmen die wir noch so finden können. Eine davon finden wir heute in der gefrorenen Küste, einen Ort mit einem recht häufigen Thema in der Gegend hier: Eis. Im Hintergrund geht es um die Liebesgeschichte zweier Frauen in einer Banditenbande von der eine aussteigen wollte und die andere eine Pflicht gegenüber den anderen verspürt. Ich stehe der ganzen Frau liebt Frau in Banditenhorde Trophe mittlerweile ziemlich stumpf gegenüber. Außerhalb der normalen Gesellschaft kann man seine lesbische Beziehung bestimmt gut ausleben, allerdings haben wir bisher noch an keiner Stelle Informationen darüber gesehen das Mensch oder Mer homosexuellen Beziehungen gegenüber feindlich stehen. Allerdings fällt mir spontan grade kein schwules Paar ein dem wir begegnet sind. Wie dem auch sei, falls die lesbische Beziehung hier schockieren sollte tut sie das für mich nicht. Ich denke mal das könnte man als Fortschritt sehen, wenn man Beziehungen jeder Art als normal ansieht und keine Augenbraue mehr hebt.
+  
+  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

@@ -346,3 +346,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #27
+
+* Titel: `Control - #27 - Haftnotizen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute kehren wir in die zentrale Geschäftsführung zurück und bemerken das die von uns geretteten Kräfte anscheinend ihre Zeit gut darauf verwendet haben für Ordnung zu sorgen. Daher können wir jetzt auch ein paar aufgeräumte Gespräche mit unseren Mitarbeiter führen. Schließlich sind wir ja Direktor, da gibt es ja niemanden der vor uns Geheimnisse hat oder? Leider sind die Mitarbeiter die wir haben nicht unbedingt von hohen Rang und besitzen daher nur begrenzt Informationen. Zumindest in dieser Hinsicht muss man sich doch sehr über die Geheimhaltung der Behörde freuen. Die Protokolle scheinen hervorragend umgesetzt worden zu sein. Ärgerlicherweise ist das auch zu unserem Nachteil. Wir bemerken außerdem das ein Büro mit Haftnotizen "verflucht" ist. Irgendwie witzig. Ob jede einzelne Kopie der Haftnotiz ein erwecktes Objekt ist oder nur der eine der sich repliziert. Was passiert wenn wir einen beschreiben?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

@@ -2117,3 +2117,31 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #205
+
+* Titel: `Gothic 3 - #205 - Baldars Grabmal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die alten Helden von Nordmar sind noch nicht richtig tot, das bringt uns an sich nichts aber es gab anscheinend eine jetzt verlorene Kunst das Wissen und die Fähigkeiten einer Person zu konservieren. Ich gehe einmal davon aus das im Prozess die Fähigkeiten der Person verloren gingen und auf den Stein übertragen wurden. Zumindest stelle ich mir das vor, anders ist auch kaum zu erklären das die Leichen die wir noch in den Gräbern treffen zwar kampffähig und vor allen Dingen kampffähig sind aber nicht besonders große Hürden darstellen. Heute betreten wir explizit das Grab von Baldar. Ich weiß nicht was der Mensch geleistet hat, eigentlich weiß ich absolut nichts über ihn außer das er ein Er war und vom Feuerclan stammt. Ende des Wissens. Immerhin ist er genauso nervig wie die anderen seiner Art.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #206
+
+* Titel: `Gothic 3 - #206 - Von Orklagern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein wir sind noch nicht fertig Orklager zu räumen. Aber bald, wirklich sehr bald. Heute geht es um die Lager die sich in der Nähe des Feuerclans aufhalten. Das es da überhaupt Orks gibt sollte eigentlich zu denken geben. Schließlich hat der Clan von sich selbst oft genug berichtet das er sehr mächtig ist und über die besten Krieger Nordmars verfügt. Warum genau er also die Hilfe eines Außenseiters benötigt um ein doch eher geringeres Problem zu lösen ist mir nicht ganz klar. Das die Rebellen sich in den tiefen Wäldern verstecken konnten fand ich irgendwie noch glaubhaft, aber das die Clans deren Aufenthaltsort eigentlich gut bekannt sein sollte immer noch frei leben oder Orks um sich herum dulden ist ein wahres Rätsel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

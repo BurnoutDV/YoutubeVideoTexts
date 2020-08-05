@@ -106,3 +106,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #9
+
+* Titel: `Rise of the Tomb Raider - #9 - Wolfshöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind irgendwie tief in Sibieren, wo genau wir sind kann ich übrigens gar nicht sagen aber wir können wohl davon ausgehen das die Zivilisation wie auch immer man sie definieren will wirklich weit weg von hier ist. Es wäre auch sehr schwierig hier hochtechnologisch zu wohnen. Ich bezweifle das es hier jemals richtig warm wird so dass mann eine klassische Agrargesellschaft etablieren kann. Wie dem aber auch sei, es gibt auch Höhlen die anderen nicht-Menschen als Unterschlupf dient. Zum Beispiel Wölfe. In Yamatai hatte ich übrigens noch erhebliche Zweifel wo eigentlich die Wölfe auf einer Insel herkommen, ich weiß leider zu wenig über die Verteilung von den Viecher um es aber richtig anzufechten. In Sibirien sind Wölfe aber wesentlich realistischer. Und damit ist auch die Gefahr für Lara viel größer, oder zumindest gleichbleibend. Zum Glück haben wir Giftpfeile.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #10
+
+* Titel: `Rise of the Tomb Raider - #10 - der Dietrich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben auf unseren Reisen durch die Sovietruinen eine Reihe von Schlüsseln gefunden. Warum wir die nicht einfach mit unserem Multitool dem Steigeisen zerschlagen können ist mir nicht ganz klar. Eventuell erkennt eine geübt und geschulte Archäologin wie Lara aber einfach das die Schlössel aus Stalinium gefertigt sind und daher unserem Zugriff sowieso wider stehen würden und wir keine wirkliche Chance hätten es mit Gewalt zu tun. Wir müssen es daher mit einer List versuchen. Jedes Schloss hat eine Schwäche und wenn es nicht die Gewalt ist dann die Fingerfertigkeit einer Mitt-Zwanziger Frau in Sibirien ohne Handschuhe. Grabräuberin Lara Croft schlägt also erneut zu, im Bestreben die ganze Welt um alle Kulturschätze die es gibt ärmer zu machen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

@@ -359,3 +359,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #28
+
+* Titel: `Control - #28 - Glücksspiel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zuschauer die schon länger dabei sind wissen das ich gelegentlich eine Kerze für die Göttin des Glücks anzünde. Fortuna hat da meine ganze Hingabe, oder auch Tyche, manche Leute beten auch zu RNGesus aber das finde ich blashphemisch. Die heutige Episode ist quasi genau mein Ding. Wenn man davon ausgeht das man das Glück beeinflussen kann indem man eine Kerze für eine nicht sichtbare Gottheit anzünden kann und dann eine (teilweise auch etwas seltsame) Verkettung von Zufällen als Glück definiert dann kann man auch direkt alles tun was geht und gucken wie weit man mit dem kombinierten Effekt kommt. Noch interessanter wird es wenn man im ältesten Haus ist wo sich die Dinge anscheinend auf sehr konkrete Art und Weise manifestieren. Allerdings fürchte ich das hier keine höheren Wesen eingreifen sondern die Seltsamkeit der Welt selbst ohne das dahinter ein spezielles Bewusstsein steht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #29
+
+* Titel: `Control - #29 - Raya Underhill [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Behörde besteht nicht nur aus gesichtslosen Bürokraten die nur ihre Schicht abarbeiten. Stattdessen gibt es auch Persönlichkeiten die hier ihre Arbeit verrichten. echte experten die an mehr Interesse haben als in den Rängen der Behörde zum obersten Verwaltungsbeamten aufzusteigen. Allerdings muss ich sagen das ich das Gefühl habe das die Behörde, neben ihrer Starrheit auch einen gewissen Faktor hat der mich glauben lässt das sie das ganze Leben einnimmt. Auf der anderen Seite, wenn man mal rauskommt hat man den großen Vorteil das der Arbeitsort quasi mitten in einer Stadt ist und doch eigentlich über all hin reicht. Andere Geheimbehörden müssen irgendwo raus nach Nevada fahren. Das macht bestimmt weniger Spaß.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

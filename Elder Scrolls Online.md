@@ -1218,20 +1218,6 @@
 
 ##### #1331
 
-* Titel: `Let's Play ESO #1330 - der Weg zur Mittnacht [Greymoor]`
-
-* Beschreibung:
-
-  ```markdown
-  Folge 66 des Greymoor DLCs - Sitzung 10
-  
-  Die Mittnacht ist übrigens keine Zeit sondern tatsächlich ein Ort. Aus den Namen dieser Episode kann man schon erkennen das die Reise ein wenig länger ist. Eventuell aber auch weil ich ziemlich langsam bin. Die Mittnacht selbst ist dann quasi ein Hügelgrab das irgendwann einmal bis in die Schwarzweite abgesunken ist und dabei kaum Schäden davon getragen hat. Das ist eigentlich ziemlich beeindruckend wenn man darüber nachdenkt oder? Nichts beschädigt, alles noch in einem Stück, kaum tote Gänge. Man muss den kreativen Sinn der Erbauer bei der Verhärtung gegen plötzliche Erdbeben wirklich bewundern. Insbesondere weil Himmelsrand so weit es aussieht kein Ort ist an dem man oft mit Erdbeben rechnen muss.
-  
-  Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
-  ```
-
-##### #1332
-
 * Titel: `Let's Play ESO #1331 - Gärtnerei Niederhain [Greymoor]`
 
 * Beschreibung:
@@ -1244,7 +1230,7 @@
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
-##### #1333
+##### #1332
 
 * Titel: `Let's Play ESO #1332 - die gefrorene Küste [Greymoor]`
 
@@ -1256,4 +1242,32 @@
   Heute erkunden wir erneut ein Verlies. Das passiert in letzter Zeit ziemlich häufig. Erklärt ist das leicht, auch Verliese enthalten Geschichten und das westliche Himmelsrand besteht ärgerlicherweise aus sehr viel Eiswüste und ansonsten nicht besonders viel von besonderem Interesse. Daher müssen wir alle Nebenmissionen mitnehmen die wir noch so finden können. Eine davon finden wir heute in der gefrorenen Küste, einen Ort mit einem recht häufigen Thema in der Gegend hier: Eis. Im Hintergrund geht es um die Liebesgeschichte zweier Frauen in einer Banditenbande von der eine aussteigen wollte und die andere eine Pflicht gegenüber den anderen verspürt. Ich stehe der ganzen Frau liebt Frau in Banditenhorde Trophe mittlerweile ziemlich stumpf gegenüber. Außerhalb der normalen Gesellschaft kann man seine lesbische Beziehung bestimmt gut ausleben, allerdings haben wir bisher noch an keiner Stelle Informationen darüber gesehen das Mensch oder Mer homosexuellen Beziehungen gegenüber feindlich stehen. Allerdings fällt mir spontan grade kein schwules Paar ein dem wir begegnet sind. Wie dem auch sei, falls die lesbische Beziehung hier schockieren sollte tut sie das für mich nicht. Ich denke mal das könnte man als Fortschritt sehen, wenn man Beziehungen jeder Art als normal ansieht und keine Augenbraue mehr hebt.
   
   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1333
+
+* Titel: `Let's Play ESO #1333 - Labyrinthion [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 69 des Greymoor DLCs - Sitzung 11
+  
+  Ich habe ein wenig Angst das wir uns dem Ende des Greymoor DLCs nähern ohne alles gesehen zu haben. Da ich es gerne habe wen die Hauptquest quasi das Letzte ist was ich gemacht habe und die Nebenmissionen quasi reingestreut sind machen wir heute einen kleinen Abstecher nach Labyrinthion. Der Ort ist eigentlich gar kein Labyrinth sondern mehr ein größerer Tempel den bisher niemand geplündert hat weil da wirklich viele Draugr und Trolle rumrennen. Generell ist das mit den Trollen überhaupt so eine Sache. Ich würde erwarten das es entweder Draugr oder Trolle gibt, aber anscheinend hat man da nach langer Diplomatie ein Einverständnis erreicht und lässt sich in Ruhe. Gut für uns, mehr Feind, mehr Ehre. Oder so.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1334
+
+* Titel: `Let's Play ESO #1334 - der Tempel von Labyrinthion [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 70 des Greymoor DLCs - Sitzung 11
+  
+  Wir sind immer noch in Labyrinthion, daher musste ich ein wenig kreativ mit der Benennung der Episoden werden. Wie dem aber auch sei, heute befinden wir uns in einem Tempel der tiefer in der Anlage liegt. Früher handelte es sich wahrscheinlich um einen Ort der nicht jedem zugänglich war, eventuell nur speziellen Akolythen oder nur an hohen Festtagen zu Ehren der Drachen. Wie dem aber auch sei, heute ist der Ort ein Gefängnis für einen magischen Feind der nicht sterben kann. Dieses Problem sieht mir übrigens wie eine dieser Sachen aus die man hervorragend mit dem Tamriel Weltraumprogram lösen könnte. An sich bin ich aber nicht davon überzeugt das irgendein Drachenpriester eine langfristige Gefahr für die Welt darstellen könnten. Insbesondere nicht in der Zeit der Helden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```

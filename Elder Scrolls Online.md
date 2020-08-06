@@ -1271,3 +1271,17 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1335
+
+* Titel: `Let's Play ESO #1335 - Labyrinthions Wagnisse [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 71 des Greymoor DLCs - Sitzung 11
+  
+  Ich verspreche das wir nach dieser Episode mit dem "geheimnissvollen" und vor allen Dingen aber Sagen umwobenden Ort Labyrinthion am Ende sind. Heute töten wir eigentlich auch nur noch ein paar Monster die hier rumlaufen. Diese sind zwar ein wenig spezieller als der Rest den wir auf dem Weg in den Keller umgehauen haben aber ansonsten ist da auch nicht viel bei. Das ist ein wenig schade, so wie ich das verstanden habe handelt es sich um so genannte Wagnisse. Spezielle Monster bzw. Untote die einen mutigen Helden und seine Freunde vor einer Herausforderung stellen soll. Tatsächlich habe ich sogar ein bisschen Hilfe dabei aber ich bin mir fast sicher das wenn ich meine Karten richtig gespielt hätte ich durchaus auch alleine eine Chance gehabt hätte. Da die Gegner aber nicht weiter erklärt werden ist diese Episode was das angucken angeht eher so Hintergrundunterhaltung. Passieren tut nichts.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

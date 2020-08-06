@@ -385,3 +385,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #30
+
+* Titel: `Control - #30 - Sicherheitsbüro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da moderne Technik eher schwer im Einsatz der Behörde sein kann und dazu neigt zu explodieren wird im ältesten Haus noch Vieles auf eine sehr manuelle Art und Weise gemacht. Mittlerweile wissen wir ja auch warum dem so ist: neuere Technik wirkt auf die Menschen wie Magie und da die Menschheit im Großen und Ganzen nichts versteht was moderner als sagen wir mal 1960 ist kann es im ältesten Haus auch nicht existieren. Disketten ja, analoge Telefone und Rohrpost auch. Sogar einige primitive Computer mit denen man die Mondlandung durchführen kann. Aber nichts was darüber hinaus geht. Das deckt sich übrigens mit meiner privaten Erfahrung in der echten Welt, Menschen halten moderne Computer wirklich für Magie. Das ist echt anstrengend, besonders wenn man die Leute beneidet das sie Technik mit soviel Mystizismus begegnen. Ich kann das nicht. Warum bringe ich das auf? Weil natürlich auch die Überwachung alte Technik benutzen muss. Daher finden wir heute ein Sicherheitsbüro mit Leuten darin vor. Weil das muss alles noch manuell gemacht werden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

@@ -2145,3 +2145,18 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #207
+
+* Titel: `Gothic 3 - #207 - Kaeln & Leif [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Mitglieder des Feuerclans sind größtenteils Männer und gesichtlose Schläger. Aber einige von ihnen sind immer noch Männer aber haben immerhin einen Namen. Ich würde diese Geschlechtergeschichte übrigens nicht so aufbringen wenn es irgendeine halbseidene Erklärung gäbe. Aber so bricht es meine Immersion immens, es gibt offensichtlich auch Schildmaiden die den Männern nicht nachstehen, aber weder ist das erklärt noch gibt es irgendwelche Hinweise darauf das man Frauen und Kinder in Sicherheit gebracht hat. Noch gibt es junge Männer soweit ich das sehen kann. Kaeln und Leif sind auch schon ein wenig älter und haben Arbeit für uns. Die machen wir natürlich gerne, gibt ja schließlich alles Erfahrung. Aber während man so durch das Eis läuft fragt man sich schon wie die Männer dieser Welt ihre Art erhalten, Zellteilung?
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

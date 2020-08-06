@@ -132,3 +132,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #11
+
+* Titel: `Rise of the Tomb Raider - #11 - Alte Zisterne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gut das ich meine Notizen habe. Ansonsten hätte ich fast schon wieder vergessen das wir in einem Brunnen noch eine geheime Höhle finden können. Etwas verwunderlich ist übrigens auch das wir dort unten nicht nur uralte Bauten finden die nicht so aussehen als wären sie aus den Materialien der Region gebaut sondern auch etwas guten alten Stahlbeton auftreiben. Die Russen waren also hier unten, haben Dinge getan aber dabei leider nie die gewaltige kulturelle Anlage gefunden die alleine schon auf eine tiefere historische Bedeutung auf ihrem Heimatland hinweißt. Ich kann mir nicht vorstellen das die kommunistische Partei einen historischen Fund den man mit ordentlich Propaganda ausschlachten kann so einfach hätte vorbei ziehen lassen. Und das man im Hinterland von Sibirien Bodenschätze abgebaut hat war jetzt auch kein Geheimnis. Alles seltsam hier.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

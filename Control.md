@@ -398,3 +398,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #31
+
+* Titel: `Control - #31 - Fred Langston [Let's Play; ger; Blind] `
+
+* Beschreibung:
+
+  ```markdown
+  Im ältesten Haus arbeiten größtenteils ziemlich gesichtslose Bürokraten die sich vor allen Dingen damit beschäftigen das die Bude irgendwie läuft und das man ein möglichst kleines Rädchen im großen Uhrweg ist, und vielleicht wird man dann schon nach 5 kurzen Jahren zum Assistenten des unteren Bleistiftträgern befördert. Das nennt man mal Ambitionen. Wie dem aber auch sei, heute treffen wir Frederick Langston. Der gute Mann scheint mir nicht ganz so grau wie der Rest zu sein, es könnte aber auch einfach nur sein Schlips sein und das Jacket das er sich locker übergeworfen hat. Ob es im Panoptikum kälter als in der restlichen Behörde ist?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #32
+
+* Titel: `Control - #32 - der Benicoff-TV [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fassen wir noch einmal zusammen. Im ältesten Haus kann es nur Dinge geben die irgendwie von Menschen vorgestellt werden können. Der alte Benicoff Fernseher ist da auch noch drin. Warum genau jetzt aber ein Fernseher den Menschen das Gefühl gibt fliegen zu können ist mir ein Rätsel. Die meisten Kräfte bei den gewandelten Objekten waren mir irgendwie noch ganz gut klar. Aber warum kann ein Fernseher fliegen? Wegen der Mondlandung? Vielleicht bin ich ja auch einfach doof und verstehe die Referenz nicht. Man möge mich erleuchten wie das zusammen kommt. Aber hey, wir können jetzt fliegen, und der wilde Fernseher ist gebändigt. Auf zu Dylan, der wartet bestimmt schon auf uns.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

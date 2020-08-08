@@ -2160,3 +2160,31 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #208
+
+* Titel: `Gothic 3 - #208 - das Schweigen der Trommel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute bringen wir eine Trommel zum Schweigen. Das machen wir auf eine, wie ich sagen möchte, sehr geschickte Art und Weise. Normalerweise stürzen wir ja schreiend auf eine Horde von Orks und hauen dann alle um. Obwohl..nicht ganz korrekt, wir rennen erst auf die Orks und fangen dann an zu schreien wenn die Saubande anfängt jeden einzelnen meiner Schläge zu parieren obwohl sie nur eine Einhandwaffe haben die nicht einmal aus Metal ist. Dann wird es ein wenig lächerlich wenn sie mich umzingeln und uns alle umhauen. Es wird zum Glück ein wenig besser wenn man eine Klippe zur Verfügung hat und die idiotischen Orks einfach von oben attackieren kann. Leider gibt es so etwas wie Schleichangriffe nicht, das würde die Orklager vielleicht sogar noch etwas leichter machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #209
+
+* Titel: `Gothic 3 - #209 - das Kloster [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe zu ich habe es wirklich viel zu lange gesucht. Das Kloster der ewigen Flammen. Dort soll es angeblich die große Erlösung für die Magie des Feuers und vor allen Dingen den Paladinen geben. Aber nur wenn wir alle Feuerkelche gesammelt haben.Wir haben aber leider nur 11 anstatt der vollen 12 die man eigentlich von erwartet hat. Ansonsten hat das Kloster außerdem noch eine ziemlich große Bibliothek in der wir vielleicht noch einige Dinge über die göttlichen Artefakte erfahren können. Der letzt Tempel ist uns ja leider irgendwie entwischt und daher fehlt auch noch ein Artefakt für die absolute Macht. Hier werden wir wohl endlich Antworten erhalten
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

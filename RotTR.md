@@ -145,3 +145,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #12
+
+* Titel: `Rise of the Tomb Raider - #12 - Versorgungslager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Genügend Vorräte für was auch immer da auf uns zukommt zu haben ist außerordentlich wichtig. Daher ist es bestimmt auch nicht falsch diverse Versorgungslager auszuheben die Leute die vorher hier in der Gegend gewohnt haben uns hinterlassen haben. Das Meiste davon war die Natur in Form von Büschen, ich bin aber teilweise wirklich überraschend wie wenig Holz führende Pflanzen wir tatsächlich finden. Winter hin oder mehr, man sollte doch eigentlich meinen das man in einem quasi überwachsenden Sägewerk mehr als genug Holz finden würde, stattdessen rollen wir die meiste Zeit am Limit. Das ist nicht so schön.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #13
+
+* Titel: `Rise of the Tomb Raider - #13 - Schatzsuche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Trotz all den christlichen Fanatikern die uns andauernd umbringen wollen und den Leuten die irgendwo im Busch wohnen und uns potenziell alle umbringen wollen dürfen wir nicht vergessen das es auch noch Wildtiere gibt. Die uns auch umbringen wollen. Neben den Wildtieren gibt es aber tatsächlich auch noch Dinge die wir entdecken können. Schätze mit denen wir dann später andere wertvolle Dinge kaufen können. Also gehen wir heute auf Schatzsuche und schauen was wir noch so alles Schönes im Schnee auftreiben können. Wir sind da auch sehr dankbar das Lara einen siebten Sinn für Goldmünzen hat, ansonsten würden wir stundenlang im Schnee rumbuddeln und trotzdem nichts finden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

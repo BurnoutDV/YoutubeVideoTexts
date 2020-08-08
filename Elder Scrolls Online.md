@@ -1285,3 +1285,31 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1336
+
+* Titel: `Let's Play ESO #1336 - Svargrims Torheit [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 72 des Greymoor DLCs - Sitzung 11
+  
+  Gelegentlich wache ich nachts auf und frage mich warum die Leute so dumm sind. Der nächste Gedanke ist die Logik die anmerkt das es nicht Nachts ist und einfach irgendwann, und dann das ich wahrscheinlich selbst auch saumäßig doof bin. Ohne Dummheit hätten wir aber keine Geschichten. Man stelle sich einmal vor alle Leute denen man begegnet wären unendlich kompetent. Ich glaube das es ist auch die heimliche Angst die man vor Fremden hat. Diese anderen Leute die man nicht kennt vielleicht weil sie aus einem anderen Land kommen, eine andere Sprache sprechen oder vielleicht sogar nur aus einem anderen sozialen Kreis stammen sind nicht einschätzbar. Man kann sie natürlich als "dumme Spießer" bezeichnen oder ungebildete Fremde aber die Angst bleibt. Was ist wenn diese Person von weit entfernt unheimlich gut in Allem ist und die  eigene Unfähigkeit aufzeigt. Die gute Nachricht ist, meistens ist das nicht der Fall. Die schlechte Nachricht, die anderen Leute auf die man sich verlässt sind im durchschnitt ähnlich kompetent. Lange Geschichte kurz, Svargrimm ist außerordentlich inkompetent, selbst für den Durchschnitt und deshalb stehen wir jetzt wo wir stehen. Toll.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1337
+
+* Titel: `Let's Play ESO #1337 - der Aufstieg Graumoors [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 73 des Greymoor DLCs - Sitzung 11
+  
+  Es stellt sich heraus das wir getäuscht wurden. Svargrim war in Wirklichkeit gar nicht an dem Wohle seines Volkes interessiert. Das war aber auch überhaupt nicht absehbar. Die feindlichen Wachen, die unterlassenen Versorgungszüge für Kastelle und weiter entfernte Jarltümer. Die inexistente militärische Unterstützung. Die komplette Ablehnung unserer Hilfe mit vorgeschobenen Gründen und dann auch das Ignorieren offensichtlicher Beweise. Das einzige was überhaupt irgendwie glaubhaft war war die Ermordung der Königin. Ich gehe an der Stelle davon aus das er das willentlich geplant und durchführen hat lassen. Was ist dem Mann wohl passiert das er sich so entschieden hat? Aber wir wissen auch nicht wie er früher war, vielleicht war das auch schon genau so immer sein Charakter und die graue Schar hat ihn nur ein Vehikel gegeben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

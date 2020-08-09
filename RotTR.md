@@ -171,3 +171,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #14
+
+* Titel: `Rise of the Tomb Raider - #14 - Gefangenschaft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da ist sie, die generische Gefangenenszene in der uns die Bösen TM erklären was genau sie vorhaben oder wir zumindest eine mittlere Storywendung erfahren und in irgendeiner Weise überrascht sind. Heute ist es übrigens der zweite Fall. Ich wäre echt mal überrascht wenn es keine Gefängnisszene geben würde sondern wir uns irgendwie auf halben Weg befreien könnten oder die Wache mit Leichtigkeit überwinden weil wir so badass sind. Alles nur nicht dieses Folter, Blau prügeln, Knast sitzen, Ausbrechen. Ich weiß nicht warum aber auf Dauer wird das irgendwie repetitiv. Man könnte fast schon sagen langweilig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

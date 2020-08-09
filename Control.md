@@ -424,3 +424,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #33
+
+* Titel: `Control - #33 - P6 Zellen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bisher haben wir vor allen Dingen von Gegenständen und von Leuten gelesen die durch gewandelte Welteignisse betroffen waren. Dabei sind zwar auch Leute umgekommen und teilweise nicht einmal besonders wenige aber im Großen und Ganze konnte man die Arbeit der Behörde neben der Bevölkerungstäuschung als eigentlich allgemeinverträglich ansehen. Problematischer wird es jetzt bei den P6 Zellen. Hier bewahrt man anscheinend Leute auf die über Fähigkeiten verfügen. Anscheinend nicht direkt Parautilitariar weil die müssen ja tatsächlich Objekte binden sondern Leute mit angebohren psyichischen Fähigkeiten. Oder erworbenen? Der Psy-Stoß kommt auf jeden Fall von keinem Artefakt. Dylan steckt zum Beispiel in einer solchen Zelle. Hier ist das Handeln der Behörde schon ein wenig fragwürdiger. Aber das war es ja schon als wir dann doch mal herausbekommen haben wofür NSC steht...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

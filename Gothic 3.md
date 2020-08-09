@@ -2188,3 +2188,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #210
+
+* Titel: `Gothic 3 - #210 - die Chroniken der Herrscher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute begeben wir uns in die Bibliothek, ich hatte es ja schon angekündigt das wir in das Kloster von Nordmar gekommen sind um Weisheit zu suchen und eventuell auch eine mächtiges Artefakt mit denne wir unsere Feinde erschlagen können. Es stellt sich heraus das wir definitiv keine Weisheit bei den seltsamen Männern finden werden die hier rumlaufen. Also müssen wir uns totes Papier anschauen. An sich ist es übrigens erschreckend wie wenig Wissen wir tatsächlich aus der Einrichtung herausholen. Immerhin funktioniert das Sicherheitssystem wie erwartet. Es hat bloß nicht mit den namenlosen Helden gerechnet. Achja, und wir lesen heute die Chronik der Herrscher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

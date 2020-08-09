@@ -1313,3 +1313,17 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1338
+
+* Titel: `Let's Play ESO #1338 - Schwarzweite Immobilien [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 74 des Greymoor DLCs - Sitzung 11
+  
+  Ja ich weiß das westliche Himmelsrand ist in Gefahr und wir müssen dringend Einsamkeit retten ansonsten sind alle Seelen in der  Stadt verdammt. Allerdings gibt es vorher noch ein wenig dringendere Dinge die wir tun müssen.  Zum Beispiel die Immobilien die die Schwarzweite für uns zu bieten hat anzuschauen. Daher machen wir heute einen Termin mit unserem Makler und schauen uns einen Ort an. Ich kann es hier kurz fassen. Der Ort ist ziemlich grauenhaft, in positiven wie negativen Sinne. Aber final würde ich den Ort niemals kaufen. Zu hässlich. Gut das wir die Zeit für diesen Ausflug aufgebracht haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

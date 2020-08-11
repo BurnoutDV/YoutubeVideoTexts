@@ -437,3 +437,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #34
+
+* Titel: `Control - #34 - Dylan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich ist es soweit, wir treffen unseren Bruder. Der war ja doch schon seit einiger Zeit verschollen. Jetzt meldet er sich sogar freiwillig. Das ist doch auch eine gute Nachricht. Leider scheint es so als hätte sich der gute Bruder in letzter Zeit ein wenig verändert. Man könnte fast behaupten das das aufwachsen in einer Zelle nicht gut für die Psyche ist. Wie genau sich die Behörde vorstellt so Kandidaten für ihr Primärprogramm zu rekrutieren ist mir übrigens absolut nicht klar. Das System erscheint mir in seiner Grundkonzeption enorm fehlerhaft zu sein. Oder aber es ist auf dem Schreibtisch eines Bürokraten entstanden der sich um die praktische Durchführung keine Gedanken gemacht hat. Oder aber man hat nie damit gerechnet tatsächlich entsprechende Personen in jüngeren Alter zu finden. Alles in Allem ist das Verhalten der FBC sehr unmenschlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #35
+
+* Titel: `Control - #35 - die Formation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In vielen von den neueren Spielen gibt es so etwas wie Challenge Dungeons. Das sind spezielle Orte innerhalb des Spiels in denen man sein Spielzeug mal komplett ausprobieren kann. Das ist auch nötig weil man die besten Dinge und schönsten Werkzeuge erst relativ gegen Ende erhält und dann eventuell durch eine bestimmte Verkettung von Fähigkeiten eigentlich schon viel zu mächtig ist. Daher gibt es dann an anderer Stelle einen Ort an dem man sich mal so richtig austoben kann. Einer dieser Orte ist die Formation. Man erreicht sie mit der Jukebox und es ist ein weiterer Ort der in der Steinbruchwelt vorzufinden ist. Dort gibt es erst einmal nicht viel zu tun, aber der Ort scheint instabiler zu sein als der Steinbruch selbst. Auch interessant, der Ort sieht zwar genauso aus und hat auch die selben Landmarker, für Menschen ist es aber nicht möglich von einem zum anderen Ort zu Reisen. Kurios.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

@@ -184,3 +184,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #15
+
+* Titel: `Rise of the Tomb Raider - #15 - Ausbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da die letzte Episode Gefangenschaft hieß war es ja ziemlich klar das jetzt der Ausbruch kommt. Ich möchte nicht zu sehr über die Trophe des Gefängnisses reden. In diesem Spiel hat es übrigens länger als erwartet gedauert zu entkommen. Insgesamt hätte ich gedacht das wir vielleicht leiser entkommen. Oder lauter, die Mischung die wir hier bekommen ist nicht optimal aber ich möchte mich nicht zu laut beschweren. Was Gefängnisausbrüche angeht ging dieses Szenario ganz gut von der Zunge und war mehr oder weniger okay. Immerhin müssen wir nicht mehr mit plötzlichen Enthüllungen in den nächsten paar Episoden rechnen. Nur noch Entdeckungen ohne direkt verraten zu werden. Ich möchte übrigens nicht behaupten das ich den Verrat vorher hab kommen sehen, insbesondere weil es ja eigentlich gar kein Verrat war. Viel mehr ein längerer Undercovereinsatz.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #16
+
+* Titel: `Rise of the Tomb Raider - #16 - Hubschrauber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In dem Film "the Day after Tommorow" sehen wir als Zuschauer wie ein Flugzeug vom Himmel fällt weil der Treibstoff einfriert. Ich denke nicht das das ein wahrscheinliches Szenario ist. Allerdings gibt es bei extremen Wetterlagen einiges zu beachten wenn um Technik geht. Ich bin mir nicht ganz sicher wie gut ein Hubschrauber tatsächlich in der eisigen Kälte von Sibirien zu fliegen ist. Wahrscheinlich noch ganz gut solange kein Sturm aufkommt. Die Schäden durch die Kälte könnten eher auf Dauer auftreten, zum Beispiel das die Schmierung nicht mehr perfekt funktioniert oder das Hydraulikleitungen eher behaglich ihren Dienst tun. Genauer kann ich da aber auch nichts ins Detail gehen, ich habe absolut keine Ahnung woran es liegen könnte. Wir werden auf jeden Fall heute von einem Hubschrauber verfolgt, und das ist gar nicht einmal so schön. Eher nervig, da wünscht man sich doch fast das es noch etwas kälter ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

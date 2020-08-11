@@ -2202,3 +2202,31 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #211
+
+* Titel: `Gothic 3 - #211 - heilige Feuerkelche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das das Geraffel das wir über die ganze bewohnte Welt verteilt eingesammelt haben in Wirklichkeit Artefakte der Macht gewesen sind. Wer hätte das gedacht? Es ist ja fast so als hätte das vorher jemand erwähnt. Auch witzig ist eigentlich auch das uns nur ein einziger Kelch hätte fehlen müssen und schon wäre alles vorbei gewesen. Einige Kelche haben wir ja aus den Händen der Orks gerissen bzw. gestohlen. Hätte nur einer von denen daran gedacht das Artefakt stattdessen zu verstecken wären die Paladine noch immer ohne Macht und die Welt würde wesentlich schlechter dastehen. Eigentlich aber auch nur in der Theorie weil dieses ganze Welt befreien Ding mache ich ja alleine, der Rest der Bande ist nur Statisten die an sich recht nutzlos sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #212
+
+* Titel: `Gothic 3 - #212 - die Macht der Paladine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir reisen heute viel umher, das haben wir schon in der letzten Episode getan, aber heute noch einmal ein wenig mehr. Zwischenzeitlich beleben wir sogar die Toten wieder weil wir sonst nicht mit allen Paladinen reden könnten die ihre Macht verloren haben. Das alles wirkt mir irgendwie wie leicht übertriebene Arbeit. Nach all der Mühe haben wir genau 12 Kelche erhalten die den Paladinen ihre Macht wiedergeben kann. Wir erinnern uns das damals in Gothic 2 bereits auf dem Schiff der Paladine eine Menge mehr als nur 12 anzutreffen waren. Wieso also reichen jetzt sowenige aus. Auch bevor die Macht versagt hat war es ja nicht so das die Menschen siegreich waren. Was also genau stellt man sich vor ändert sich jetzt mit 12 Paladinen die wieder so kämpfen können wie früher? Ich finde die Wichtigkeit der Feuerkelche wurde bei Weitem übertrieben. Ich dachte sie stellt alle Macht wieder her und repariert was auch immer in der Runenmagie kaputt war. Im Großen und Ganzen war die Suche also ein totaler Fehlschlag. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

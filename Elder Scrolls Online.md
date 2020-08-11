@@ -1327,3 +1327,31 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1339
+
+* Titel: `Let's Play ESO #1339 - Kastell Graumoor [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 75 des Greymoor DLCs - Sitzung 11
+  
+  Nun ist es endlich soweit, wir betreten das legendäre Kastell Graumoor, einem Ort um den sich Mythen und Legenden ranken. Insbesondere weil es an einem Ort steht der gar nicht so zu erreichen ist. Generell ist die Schwarzweite ein wenig zu zugänglich wenn man darüber nachdenkt. Eigentlich gibt es nur Gerüchte das ein Ort wie die Schwarzweite existiert, und jetzt gibt es hier auf einmal Bergbaukomglomerate die hier abbauen. Menschen die ein und ausgehen und Expeditionen betreiben. Bestimmte oberirdische Regionen von Tamriel sind weniger zugänglich als die Schwarzweite. Das Kastell selbst ist übrigens nicht von den Vampiren der grauen Schar erbaut worden. Es besteht wohl schon länger und nur an den örtlichen Vampirlord geliehen worden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1340
+
+* Titel: `Let's Play ESO #1340 - Riesenhexendorn [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 76 des Greymoor DLCs - Sitzung 12
+  
+  Der heutige Titel enthält einen leichten Spoiler für den Inhalt der Episode. Mich ärgert der Inhalt der Episode, zumindest im Nachhinein nachdem ich ein wenig darüber nachgedacht habe. Das ganze Kastell Graumoor ist auf einmal ein Hexendorn. Wie genau soll das funktionieren? Wir haben sowieso vorher nicht erfahren wie die Hexendornen funktionieren sollen oder welche Macht dem Kastell angeblich inne wohnt. Und dennoch soll es jetzt auf einmal möglich sein mit einem Gebäude irgendeine Art von Ritual durchzuführen? Das erscheint irgendwie ein wenig unwahrscheinlich. Daher wundere ich mich schon wie das alles hier zusammenhängt und wie man vom Spieler erwarten kann das man die Ereignisse einfach so schluckt. Auch die eigentliche Besitzerin bzw. Herrscherin über das Kastell wird auch mit keinem Wort mehr erwähnt. Hier hätte ich mir mehr Erklärungen gewünscht. Allerdings könnte es hier Inhalte in einem der Dungeons geben die ich ja nicht spiele.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

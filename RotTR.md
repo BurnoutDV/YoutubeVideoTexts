@@ -210,3 +210,26 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #17
+
+* Titel: `Rise of the Tomb Raider - #17 - Kupfermine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Soviets sind ursprünglich nach Sibirien gekommen weil sie ein paar Bodenschätze ausbeuten wollten. Das sie dabei noch einige Menschen  gefunden haben die direkt als billige Arbeitssklaven brauchbar waren war da wahrscheinlich mehr ein Nachgedanke als alles Andere. So eine Kupfermine ist jetzt nicht unbedingt einzigartig und ich frage mich was die wirtschaftlichen Überlegungen sind bis man entscheidet das man mit in einer Landschaft die die meiste Zeit wirklich kalt und auf jeden Fall sehr unerreichbar ist Bodenschätze abbauen will. Man muss ja auch bedenken, die Ware muss am Ende auch wieder zurück. Aber da das ganze einen gewissen historischen Kern hat kann ich mir durchaus vorstellen das es wohl gute Gründe für solche Maßnahmen gab. Wie dem auch sei, wir rennen heute ziemlich sinnlos in einer Mine rum.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #18
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

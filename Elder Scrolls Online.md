@@ -1355,3 +1355,17 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1341
+
+* Titel: `Let's Play ESO #1341 - Treppen des Kastells [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 77 des Greymoor DLCs - Sitzung 12
+  
+  Wir kommen langsam zum Ende, aber es scheint so als müssten wir zuerst etwas für unsere Waden tun. Als Vampir-Hochelfe bin ich mir nicht ganz sicher wie es um unserer physischen Stärke steht. Auf der einen Seite sind wir irgendwie untot, wir sollten also nicht wirklich erschöpfen können solange genügend Blut da ist. Die elfischen Wurzeln sollten das Alter sowieso etwas weniger bedeutsam machen. Und doch gibt es bestimmt Grenzen für die Stärke von Aaliya. So oder so geht es aber anscheinend ganz nach oben. Bisher haben wir magische Wege und Fahrstühle der alten Tiefenzwerge genutzt um in die Schwarzweite zu gelangen. Dieses Mal gehen wir anscheinend zu Fuß. Wirklich erstaunlich das niemand eine solche gewaltige Treppe bemerkt hat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

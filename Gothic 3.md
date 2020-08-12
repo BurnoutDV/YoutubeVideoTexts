@@ -2230,3 +2230,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #213
+
+* Titel: `Gothic 3 - #213 - Pedars Sünden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach einer kurzen Rundreise durch die ganze Welt sind wir jetzt endlich wieder zurück in Nordmar. Dort gibt es noch unerledigte Geschäfte und um die kümmern wir uns heute. Zum Beispiel müssten wir noch Meister des Erzschmelzens werden, ich kann mir zwar nicht vorstellen das das irgendwann in nächster Zeit passiere wird aber zumindest versuchen kann man es einmal. Außerdem gibt es da noch ein paar Ahnengräber die ich säubern möchte. Jetzt scheitert es nur noch daran das wir die entsprechenden Personen und Orte noch finden müssen. Das Grab finden wir zwar nicht, dafür finden wir aber auf magischer Weise Pedar der seine vergangenen Taten ein wenig bereut.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

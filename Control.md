@@ -463,3 +463,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #36
+
+* Titel: `Control - #36 - Expeditionen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte schon erwähnt das jedes Spiel irgendeine Art von Challenge Dungeon hat und das es jetzt wohl soweit ist das wir uns der Formation stellen. Die Zeit für einen Run ist schon vorher bekannt. Daher versuchen wir das Ganze heute einmal. Ich möchte an der Stelle erwähnen das in dieser Episode absolut nichts für die Geschichte passiert und man sie guten Gewissens überspringen kann wenn man sich nicht für sinnloses Rumgeballer interessiert. Ich ärgere mich auch die meiste Zeit weil ich nicht verstehe was ich tun soll und da ich nicht gut damit klar komme wenn Dinge verwirrend sind fahre ich ein wenig aus der Haut. Nicht sehr, und doch ärgere ich mich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

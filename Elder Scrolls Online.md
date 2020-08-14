@@ -1369,3 +1369,59 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1342
+
+* Titel: `Let's Play ESO #1342 - Kastell Trutz [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 78 des Greymoor DLCs - Sitzung 12
+  
+  Der gute König Svargrim baut seit einiger Zeit bereits an der Erweiterung der Festung von Einsamkeit. Kastell Trutz heißt das gute Stück und der neue Wolfsturm soll da ein weiteres Stück der exellenten Verteidigung der Stadt sein. Da wir aber wissen das Svargrim schon vor einiger Zeit seine Mitbürger verraten hat steht jetzt ein wenig im Zweifel inwiefern er wirklich das Beste für seine Untergebenen im Sinne hatte. Generell ist es eigentlich ein wenig komisch einen König zu persönlichen Reichtümern fallen zu sehen. Eigentlich sollte doch grade ein Mann von hoher Geburt zumindest ein wenig etwas über Selbstaufopferung wissen. Das er all das weg wirft, seine Pflicht, seine Verantwortung spricht nicht für ihn.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1343
+
+* Titel: `Let's Play ESO #1343 - Tochter des Wolfes [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 79 des Greymoor DLCs - Sitzung 12
+  
+  Die große Mission ist geschafft, der üble Vampir Svargrim ist besiegt und es ist jetzt endlich an der Zeit für Svana zu leveln und ihren rechtmäßigen Platz als Königin zu ergreifen. Soweit ich das verstanden habe ist es aber nicht ganz so einfach für die Nord. Man wird nicht einfach nur Königin weil man erbt, in der Regel scheint dies der Weg zu sein aber es gibt wohl ein paar Sicherheitsvorkehrungen damit nicht jeder Idiot den Thron besteigt. Ich finde das übrigens großartig. Ein häufiges Element in diversen Fantasy aber auch realen Welten ist das der Monarch von einem idiotischen Sohn gefolgt wird der dann von Synkopanten soweit manipuliert wird bis das gesamte Königreich unter geht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1344
+
+* Titel: `Let's Play ESO #1344 - Trauerfeier [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 80 des Greymoor DLCs - Sitzung 12
+  
+  In der Regel haben wir immer noch eine Freudenfeier wenn ein Kapitel beendet ist. Heute sieht das aber anders aus, wir betrauern tatsächlich einmal die Gefallenen. Vielleicht auch weil dieses Mal die Zahlen auch aus unserer Perspektive gewaltig waren. In Elsweyr sind eine Menge Bauern und andere Leute durch Drachen und den andauernden Krieg gestorben, die haben wir aber nicht gesehen, daher wurde gefeiert. Generell weiß ich nicht welcher Weg hier der beste Ansatz ist. Den Erfolg des beendeten Konfliktes zu feiern und die zu erheben die überlebt haben oder die Minute zu nutzen diejenigen zu bedenken die nicht mehr leben. Schwierig. In dieser Hinsicht kann ich die Story übrigens einmal loben, es wurde nach den ganzen Festivitäten am Ende der Kapitel auch ein wenig langweilig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1345
+
+* Titel: `Let's Play ESO #1345 - Thaddeus Cosmo [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 81 des Greymoor DLCs - Sitzung 12
+  
+  Das westliche Himmelsrand ist gerettet. Das bedeutet aber nicht das wir am Ende unseres Pfades durch diese Landschaft sind. Zum Beispiel gibt es in der Schwarzweite noch einige Dinge die wir tun wollen. Außerdem treffen wir alte Bekannte wieder. Alte Bekannte von denen ich schon dachte das sie in einem Gefängnis feststecken aus dem sie nie wieder ausbrechen können einfach weil der Ort so geschaffen ist wie er ist. Daher freuen wir uns heute auf eine etwas abgedrehte Mission mit alter Dwermertechnik. Und einem Menschen der wohl nicht aus unserer Zeit zu stammen scheint. Er trägt den Namen Thaddeus Cosmo und trägt doch arg komische Kleidung.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

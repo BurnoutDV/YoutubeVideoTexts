@@ -476,3 +476,56 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #37
+
+* Titel: `Control - #37 - alte Freunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man hat es zwar schon wieder vergessen aber technisch gesehen sind wir immer noch die Gehilfin des Hausmeisters. Daher teilen wir auch seine Freuden und Freunde. Und eine dieser Freuden ist es die Verstopfung zu bekämpfen wo auch immer sie auch auftaucht. Es erstaunt übrigens das wir Ahti noch nicht an anderen Orten gesehen haben. Klar, er hat in der Wartung sein Büro in dem er bestimmt auch sehr wichtige Dinge tut aber dennoch hätte ich erwartet den Mann auch an anderen Stellen zu treffen. Wer weiß welche Bedrohungen er bekämpft während wir damit beschäftigt sind die Aushilfsjobs zu machen. Vielleicht begegnet er Schrecken die sich ein normaler Mensch gar nicht vorstellen kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #38
+
+* Titel: `Control - #38 - eine Frage der Zeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in einem Grenzbereich, man könnte ihn auch in den Uhrensektor umbenennen. Ich frage mich ob es eine kluge Idee wäre die Uhren zu verkaufen, zumindest ihr Holz könnte man ja verbrennen oder irgendwie anderweitig verwenden. Letztendlich kann doch nicht jede Instanz der Uhr ein gewandeltes Objekt sein oder? Andererseits warnen die Warnungen im Bürotrakt davor das selbst triviale Dinge auf einmal sehr gewandelt sein können. Eventuell ist das auch mehr ein Spektrum und der Effekt ist eher gering bei Dingen wie den Uhren, aber halt nicht null. Auf jeden Fall müssen wir noch einen Sanitäter retten, es kann ja auch nicht sein das wir unsere Pflichten als Direktorin vernachlässigen. Jeder Mensch den wir retten können muss auch gerettet werden, so die Pflicht der Direktorin. Habe ich mir grade ausgedacht, was das älteste Haus genau von uns erwartet ist unbekannt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #39
+
+* Titel: `Control - #39 - Anker sehen und sterben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir Wells gerettet haben da haben wir erfahren das es sein ursprünglicher Auftrag gewesen war ein Objekt der Macht sicherzustellen das "der Anker" genannt wurde. In der Akte des Objektes selber steht dann noch etwas von einem Schiff und einer Sphäre. Mir ist übrigens aber nicht ganz klar wie das genau funktioniert das insbesondere der Anker das Objekt der Macht geworden ist. Übrigens, an der Stelle angemerkt, ich habe irgendwann vor einiger Zeit ein Stück Audioausrüstung gekauft das sich Kompressor nennt. Technisch gesehen tut das Gerät auf meinem Tisch noch ein wenig mehr aber die Kompression interessiert dich als Zuschauer am meisten. Zwar schreie ich heute und rege mich auf, aber es übersteuert nicht, man sieht den Ausdruck meines Zorns aber es ist gut verständlich. Kann man das in Software lösen? Ja könnte man, aber das hier funktioniert, ich bin sehr glücklich. Unglücklich bin ich darüber die Fassung zu verlieren, aber besser hier als woanders denke ich mir immer.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #40
+
+* Titel: `Control - #40 - der Anker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem ich mich dann in der letzten und auch dieser Episode gut aufgeregt habe habe ich dann auch noch Erfolg. So ist es eigentlich immer, mit einer Ausnahme übrigens wie ich feststellen möchte. Ich bin relativ ausdauernd was solche Dinge angeht, schließlich habe ich die Soulsborne spiele auch irgendwie durchgespielt, ich kann euch sagen das der Knabe Kos nicht einfach war. Wie dem aber auch sei, am Ende noch ein Stück Trivia das ich neulich erfahren habe: 
+  Anker funktionieren nicht indem sie sich irgendwie auf dem Meeresgrund festhaken, das würde auch nicht klappen wenn man sich Meeresboden so anschaut. Klar das Ding hakt sich irgendwie ein und vergräbt sich auch, aber das ist nicht was Schiff hält. In Wahrheit ist es die schwere Kette die mit ihrem Gewicht ein Stoßdämpfer für Wellen bietet, ein geankertes Schiff steht auch nicht völlig still sondern treibt ein wenig umher. Toll oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

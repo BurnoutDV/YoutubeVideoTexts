@@ -226,10 +226,52 @@
 
 ##### #18
 
-* Titel: ``
+* Titel: `Rise of the Tomb Raider - #18 - Sackgasse [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Lieber Zuschauer, manchmal muss man beim Zuschauen sehr stark sein. Manchmal ist der Streamer oder Youtuber nicht die hellste Kerze auf der Torte. Und manchmal ist man einfach nur verwirrt. Heute kommt mein Tag. Ich glaube nicht das besonders viele Menschen diese Beschreibung hier lesen. Falls du das doch tust bevor du diese Episode schaust, überspringe sie. Ich werden 20 Minuten herumrennen und nicht herausfinden wie man weiter kommt weil ich einfach zu doof bin. In der nächsten Episode löse ich dann das Rätsel, aber heute, heute bin ich zu doof dafür. Daher stehen wir heute in einer Sackgasse, ich werde vor und zurück rennen. Etwas suchen von dem ich annahm das es da war aber das war es dann gar nicht. Und so endet diese Episode genau da wo sie aufgehört hat. In der Kupfermine ohne das ich nennenswerte Erfolge erzielt habe.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #19
+
+* Titel: `Rise of the Tomb Raider - #19 - die rote Mine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem ich mich dann lange genug angestellt habe wie der letzte Idiot bin ich dann doch in der Lage das schwierige Rätsel zu enthüllen das mir den Zugang in die anscheinend als "rote Mine" bekannte Ausgrabungsstätte verwehrt hat. Dort angekommen bemerke ich aber schnell das der Zugang zur Mine nicht das einzige Rätsel war das sich geboten hat. Viel mehr geht es hier noch weiter. Ich möchte an der Stelle aber Kritik erheben, darüber das des Rätsels Lösung in meinen Augen ein wenig sehr unlogisch war. Hier hätte ich mir einen besseren Weg gewünscht. Ein Weg der vielleicht ein wenig offensichtlicher gewesen wäre. Die Art und Weise wie diese Lore lang fährt und die Dinge tut die sie tut erscheint mir nicht besonders transparent.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.Hier
+  ```
+
+##### #20
+
+* Titel: `Rise of the Tomb Raider - #20 - gute  Samariterin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara hilft gerne Menschen in Not. zum Beispiel Menschen die große Kopfschmerzen haben, ein Pfeil im Kopf kann da erheblich helfen das Problem für alle Zeit zu lösen. Aber auch in anderen Situationen ist eine Lara Croft sehr hilfreich, und damit meine ich nicht nur die Fälle wenn es wieder einmal uralte Kulturen gibt die sowieso viel zu vieles intaktes Kulturgut ihr Eigen nennen. Nein auch wenn Unschuldige Menschen in Not sind, oder ihre Schuld zumindest geringer ist als der der Aggressoren. Oder aber wir uns einen handfesten vorteil davon erhoffen eben solchen Leute zu helfen. Heute helfen wir zum Beispiel ein paar Eingeborenen die anscheinend in die Hände der bösen, kirchlichen Invasoren gefallen sind. SO richtig viel von der Religion der Trinity Söldner merkt man übrigens nicht, ich hätte erwartet ein wenig mehr "Kreuzritter" zu sehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #21
+
+* Titel: `Rise of the Tomb Raider - #21 - Krypta des Astronomen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist es wieder so weit, ich übe mich im Backtracking, ihr wisst schon, diese Tätigkeit bei der ich das ganze schon erkundete Level noch einmal ablaufe weil ich glaube das unser erster Trip nicht genug Beute mit sich gebracht hat. Heute finden wir zum Beispiel die Krypta des Astronomen.  So wie es aussieht hatte jeder der Anhänger des Propheten der irgendwie eine besondere Bedeutung gehabt hat ein eigenes Grab erhalten. Das spricht aber auch dafür das der Prophet und seine Anhänger wohl eher nicht unsterblich gewesen waren. Oder aber die Sterblichkeit nach getaner Arbeit bevorzugt haben. Letztendlich ist aber vor allen Dingen interessant wie viele Ressourcen anscheinend für das Aufbauen von dedizierten Kryptas übrig waren. Wo kam dieser Reichtum mitten in Sibirien her?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
   ```

@@ -2244,3 +2244,55 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #214
+
+* Titel: `Gothic 3 - #214 - Grabsucher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt immer noch Gräber der alten Champions des Feuerclans die wir nicht gefunden haben. Und das trotz all unserer Mühen. Ich gebe dem schlechten Kartenmaterial die Schuld das die Nordlinge über das Land ihrer Ahnen angefertigt haben. Wahrlich, man findet kaum einen Ort mit dem was man hier als Karte verkauft hat. Wie dem aber auch sei, wir stapfen wieder durch eine Menge weiße Landschaft ohne Dinge drin. Das Einzige das mich aufrecht hält ist die Tatsache das es bald vorbei sein wird und dann können wir uns anderen Dingen zu wenden und gleichzeitig behaupten das wir Gothic 3 durchgespielt haben. Ein Spiel das sich wirklich sehr viel Kritik gefallen lassen muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #215
+
+* Titel: `Gothic 3 - #215 - Grauhaars Hirsche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind auf der Suche nach Xardas, das hat sich eventuell schon herumgesprochen. Um ihn zu finden haben wir das Land von Süd bis Nord durchsucht, sind jeden Meter den wir konnte abgelaufen. Eventuell hätten wir uns ein wenig Mühe sparen können und einfach direkt auf den gewaltigen Turm am Horizont laufen können...Jetzt sind wir aber auf dem richtigen Weg glaube ich. Bevor wir aber dort ankommen finden wir noch einen Jäger am Fuße des Berges. Der Name des Mannes ist egal, er hat aber einen Wolf als Begleiter, ein Tier das auf den Namen Grauhaar hört. Der Jäger erzählt uns auch von den Hirschen in der Nähe. Ich gehe davon aus das alles Hirsche mehr oder weniger rechtmäßig Grauhaar gehören. Es muss sie nur noch abholen...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #216
+
+* Titel: `Gothic 3 - #216 - Bergpfade [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam winden wir uns den unendlich hoch erscheinenden Berg hinauf. So ist das oft mit Bergen, von unten und weiter weg sehen sie doch recht klein aus. Aber wenn man dann endlich am Fuße des Berges steht dann sieht man erst die Waren Ausmaße des gewaltigen Stück Landschafts. Um die ganze Geschichte ein wenig abzukürzen. Unser Weg zieht sich ganz schön in die Länge. Es wird vielleicht nicht unbedingt besser das ich darauf bestehe jedes Orkcamp mit zunehmen das wir noch irgendwie auftreiben können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

@@ -1425,3 +1425,17 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1346
+
+* Titel: `Let's Play ESO #1346 - Nchuthnkarst [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 82 des Greymoor DLCs - Sitzung 12
+  
+  Willkommen zurück in der Liste der unausprechlichen Dwermer Orte. Wir sind bereits seit einiger Zeit in Nchuthnkarst aber in der letzten Episode lag der Fokus auf Taddeus Cosmo, diesmal aber gilt unsere Aufmerksamkeit ganz dem Ort. Generell und überhaupt bin ich immer ein wenig enttäuscht das man die alten Bauwerke der Dwermer nicht im Stile von Bioshock erkunden kann. Mit Audio-Tagebücher der ehemaligen Bewohner. Aber wahrscheinlich wäre das dem Mysterium der Tiefenelfen wahrscheinlich auch eher abträglich. Es würde sie zu sehr ver"menschlichen" und dem Beobachter näher bringen. Wie dem auch sei, wir wissen über den Ort absolut gar nichts außer das es scheinbar eine Art künstliche Sonne hier gibt. Die künstliche Sonne ist etwas von dem ich vorher dachte das es einzigartig ist. Anscheinend ist dies aber nicht der Fall.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

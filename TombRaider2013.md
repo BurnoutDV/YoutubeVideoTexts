@@ -586,16 +586,3 @@
   Tomb Raider auf dem Montag Slot.
   Wallpaper von https://www.deviantart.com/eddy-shinjuku
   ```
-
-##### #43
-
-* Titel: `Rise of the Tomb Raider - #18 - Sackgasse [Let's Play; ger; Blind]`
-
-* Beschreibung:
-
-  ```markdown
-  Lieber Zuschauer, manchmal muss man beim Zuschauen sehr stark sein. Manchmal ist der Streamer oder Youtuber nicht die hellste Kerze auf der Torte. Und manchmal ist man einfach nur verwirrt. Heute kommt mein Tag. Ich glaube nicht das besonders viele Menschen diese Beschreibung hier lesen. Falls du das doch tust bevor du diese Episode schaust, überspringe sie. Ich werden 20 Minuten herumrennen und nicht herausfinden wie man weiter kommt weil ich einfach zu doof bin. In der nächsten Episode löse ich dann das Rätsel, aber heute, heute bin ich zu doof dafür. Daher stehen wir heute in einer Sackgasse, ich werde vor und zurück rennen. Etwas suchen von dem ich annahm das es da war aber das war es dann gar nicht. Und so endet diese Episode genau da wo sie aufgehört hat. In der Kupfermine ohne das ich nennenswerte Erfolge erzielt habe.
-  
-  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
-  Rise of the Tomb Raider auf dem Montag Slot.
-  ```

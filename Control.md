@@ -529,3 +529,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #41
+
+* Titel: `Control - #41 - Primärkandidatenprogramm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das das älteste Haus ein Nachfolgeproblem hat. Anscheinend ist es nicht einfach möglich neues Personal für den Direktorposten zu finden. Sonstige Leute wie Wissenschaftler oder staatstreue Geheimdienstmitarbeiter lassen sich in Masse finden. Menschen die in der Lage sind den Sessel des obersten Anführer zu füllen sind allerdings knapp. Das ist außerordentlich bedauerlich. Aber zumindest war man sich des Problemes bewusst und hat das sogenannte Primärkandidatenprogramm geschaffen. Eine Institution dies sich nur damit beschäftigt neue Direktoren heranzuzüchten. Offensichtlich ist es aber deutlich schwieriger selbst mit solch einer fokussierten Maßnahme jemanden zu finden der den Stuhl füllen kann. Da fragt man sich doch wirklich wie es zu der bisherigen Linie an anderen Direktoren gekommen ist. Wenn man sich die Bildergalerie im Konferenzraum anguckt gibt es da ja schon einige Bilder.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

@@ -275,3 +275,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #22
+
+* Titel: `Rise of the Tomb Raider - #22 - Kupferminenaufstieg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt, nachdem ich unsäglich lange Zeit damit verbracht habe in den Tiefen umherzuschwirren ist es an der Zeit auch einmal in die Höhe zu gehen. Am Ende sind wir wahrscheinlich wieder in einer Mine, aber bis es soweit ist steigen wir in luftige Höhen und erschießen weitere Männer der gegenerischen Schergenarmee. Immerhin gibt es dieses Mal keinen wirklichen Grund das uns die Gegner ausgehen könnten. Im Falle von Yamatai wurde es irgendwann ziemlich unwahrscheinlich das Vater Mathias überhaupt noch Diener übrig haben konnte. Das Lara das Blutbad in der japanischen See so gut weggesteckt hat ist übrigens gut, das bringt uns jetzt in die schöne Situation auch die örtlichen Scherge links und rechts nieder zu schießen. Großartig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

@@ -2287,12 +2287,30 @@
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
 
-##### #Nummer
+##### #217
 
-* Titel: ``
+* Titel: `Gothic 3 - #217 - der höchste Berg [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir sind immer noch nicht am Ziel und ein gewisser Schwarzmagier lässt immer noch auf sich warten. Dafür finden wir heraus das es sich bei dem Berg den sich Xardas anscheinend als sein Hauptquartier ausgesucht hat wohl um das höchste Objekt seiner Art weit und breit handelt. Zumindest kann ich mir nicht anders erklären wie lange wir brauchen um dort hoch zu kommen. Heute habe ich aber eine innovative Taktik für mich gefunden. Mit genügend Mühe ist bekanntermaßen kein Berg zu hoch, daher wird es nun Zeit für meine Bergsteigertechniken wie ich sie damals in Skyrim gelernt habe. Dieses Mal nur ohne Pferd.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #218
+
+* Titel: `Gothic 3 - #218 - Xardas! [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich nach ewiger Zeit finden wir ihn endlich! Unseren Erzfeind, Xardas der Schwarzmagier. Einst war er ein angesehener Feuermagier, der Oberste in seinen Rängen, jetzt hat er sich ganz dem dunklen Fürsten verschrieben. Wir haben zwar bisher wenig von seinem Handeln gesehen aber man kann sich wohl sicher sein das er in Wirklichkeit hinter all dem Schlechtem in der Welt steht. Mit seinem Tod können wir vielleicht endlich das Land Myrtana und alle anderen Orte retten. Am Ende hält es vielleicht sogar die Invasion der Orks auf. Wir werden es nie erfahren, den umbringen werden wir Xardas heute nicht, stattdessen hat er wohl ein Angebot das wir nicht ablehnen können. Ein Meisterdiplomat dieser Typ in seinem Turm.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```

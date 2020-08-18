@@ -542,3 +542,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #42
+
+* Titel: `Control - #42 - Kommunikation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt in der Geschäftsführung eine Kommunikationsabteilung. Wo genau die ist könnte ich spontan nicht sagen. Klar es gibt eine Poststelle und eine Abteilung für verlorene Briefe, aber eine direkte Kommunikationsabteilung ist mir nicht bekannt. Das ist erstaunlich wenn man davon ausgeht das ich durch die entsprechenden Abteilungen in letzter Zeit schon einmal durchgegangen bin und der gesamte Laden ja irgendwie zu "mir" gehört. Als Direktorin sollte man doch irgendwie den Anspruch an sich selbst stellen das man alle Abteilungen kennt oder? Nun, es stellt sich heraus das wir nicht alle Abteilungen bisher gesehen haben. Ist es nicht schön einmal etwas Neues kennen zu lernen? Ich darf präsentieren, das Kommunikationsdepartment.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

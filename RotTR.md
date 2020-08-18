@@ -288,3 +288,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #23
+
+* Titel: `Rise of the Tomb Raider - #23 - Mineneinsturz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es war abzusehen. Niemand, absolut niemand ist überrascht. Die Mine die wir in der letzten Episode noch betreten haben stürzt heute total überraschend ein. Ich bin ehrlich gesagt nicht einmal ein ganz kleines bisschen überrascht. Anders wäre es gewesen wenn aus irgendwelchen total nicht nachvollziehbaren Gründen alles ruhig geblieben wäre, wir nur ein paar "Bösewichte" erschossen hätten und dann am anderen Ende der Mine wieder herausgekommen wären. Das war aber wohl nicht zu erwarten. Auf der anderen Seite ist eine 50 Jahre alte Mine eventuell wirklich nicht der stabilste Ort den man sich vorstellen kann. Ich bin trotzdem kein Fan davon wenn meine Erwartungen genau erfüllt werden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

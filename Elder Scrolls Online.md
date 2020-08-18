@@ -1439,3 +1439,17 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1347
+
+* Titel: `Let's Play ESO #1347 - Zurück in die Dunkelmondgrotte [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 83 des Greymoor DLCs - Sitzung 13
+  
+  Wir haben Dinge vergessen. Und da wir ja nicht umsonst für Dinge bezahlt haben wollen holen wir uns jetzt noch die letzte Dinge die es zu holen gibt und wir laufen zurück in die Dunkelmondgrotte. Beim letzten Mal gab es da noch nur ein altes Nordgrab in dem wohl die nicht ganz so ehrenvollen Nords verstorben sind. Heute wollen wir aber mehr. Noch zu finden gibt es ein paar entlaufende Werwölfe die unter einer seltsamen Krankheit leiden..und eine Dwermerstätte. Dazu aber später mehr, kümmern wir uns erst einmal um die Werwölfe. Die scheinen auch das dringendere Problem zu haben. Die Dwermer sind schon länger tot.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

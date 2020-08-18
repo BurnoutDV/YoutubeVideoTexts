@@ -2314,3 +2314,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #219
+
+* Titel: `Gothic 3 - #219 - Akaschas Grab [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das ist es! Wir finden das letzte Grab der Nordlinge. Eigentlich stimmt das gar nicht, wenn ich mich nicht verzählt habe fehlt sogar noch ein anderes Grab aber das ist wohl alles nicht mehr wichtig weil wir ja nur noch dieses eine Grab brauchen um den Plan von Xardas durchzuführen. Alles Andere wäre dann also vergebens und so wie es ausschaut brauchen wir die paar läppischen Erfahrungspunkte auch nicht die wir mit dem letzten Grab kriegen würden. Das Besondere an Akaschas Grab ist das darin das letzte der göttlichen Artefakte liegt. Der gute (war ein Mann oder?) war nämlich eigentlich ein Fremdländer und hat das letzte Artefakt mitgebracht das eigentlich in der Wüste hätte liegen müssen. Aber da wir alle Tempel durchsucht haben und außer sehr vieler Zombies nichts gefunden liegt wohl die Vermutung nahe das das letzte der Artefakte eher hier zu finden ist. Eigentlich komisch, würde es nicht das eine Artefakt geben hätten wir uns den kompletten Weg in den Norden sparen können. So im Großen und Ganzen meine ich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

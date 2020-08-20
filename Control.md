@@ -555,3 +555,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #43
+
+* Titel: `Control - #43 - Untersuchungsflügel Ordinary [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist irgendwie ironisch. Für Jesse passieren jetzt die richtig spannenden Dinge, wir erfahren was das Federal Bureau of Control tatsächlich von den Vorfällen in Ordinary wusste. Jesse interessiert das bestimmt brennend insbesondere weil sie vermutet das irgendwo der Diaprojektor rumliegt der ihr damals soviel "Spaß" bescherrt hat. Ich finde das Ganze tatsächliche weniger wichtig. Klar, Ordinary war schon irgendwie bedeutend und eine Menge Menschen sind verschwunden aber das ist anscheinend auch schon bei anderen AWEs passiert. Viel mehr würde mich interessieren was zur Hölle Dr. Darling gemacht hat und wie genau das Zischen in die Behörde gekommen ist. Wir wissen bereits das es einen Verräter gegeben hat. Darling wäre offensichtlich aber ich bin nicht ganz sicher das es so enfach ist. Vielleicht ist es jemand der oder die weiter im Hintergrund steht. Pope vielleicht? Mein Geld ist auf Pope. Nicht das ich nach Hinweisen geschickt habe, aber wenn ich raten müsste würde ich sagen Pope. Aus der zweiten Reihe verrät es sich besser.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #44
+
+* Titel: `Control - #44 - Mülldeponia Ordinary [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die gesamte Akte Ordinary war dann doch schneller durchgearbeitet als man meinen möchte. Interessanter scheint sowieso eher die gewaltige Mülldeponie zu sein. In Deutschland gibt es, soweit ich weiß, nur sehr wenige klassische Mülldeponien. Es gibt zwar noch Müllberge und davon nicht grade wenig aber so richtige offene Mülldeponien sind mir keine bekannt. Ich habe an der Stelle übrigens auch nicht gegoogelt. Eventuell gibt es sie bloß in den blühenden Landschaften meiner Heimat nicht und das ganze Land ist voll von den Dingern irgendwo in der Provinz. In meiner Jugend musste ich auf jeden Fall im Wald recht lange Suchen um irgendetwas zu finden. Jesse und ihrer jüngerer Bruder Dylan hatten es da erheblich einfacher. Tatsächlich war der Vorfall so bedeutsam das die Behörde es für notwendig befand die Gegend um Ordinary von all den Dreck zu befreien und stattdessen alles innerhalb der Behörde aufzuschichten. Generell frage ich mich wieviel Platz das älteste Haus eigentlich hat. Atommüllendlager wann?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

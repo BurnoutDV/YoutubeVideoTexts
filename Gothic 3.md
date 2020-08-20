@@ -2328,3 +2328,31 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #220
+
+* Titel: `Gothic 3 - #220 - Streiter Innos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben seit sehr langer Zeit eigentlich immer im Sinne Innos gehandelt. Klar, hier und dort haben wir vielleicht aus Versehen und wenn es unserer Agenda gedient hat auch die ein oder andere Mission für Beliar erledigt, aber im großen und Ganzen kann ich mich wohl eher auf der Seite des Feuergottes sehen. Generell ist es ein wenig seltsam das wir überhaupt die Wahl haben. In den ersten beiden Spielen war der Fall doch eigentlich ziemlic klar das der namenlose Held der Auserwählte Streiter Innos war. Insofern erklärt sich mir ehrlich gesagt kein Stück warum wir überhaupt die Auswahl hatten. Wie dem auch sei, heute treffe ich die Kanonwahl einfach nur damit wir diesen Weg auch einmal bestritten haben. Das dauert aber nicht lange an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```
+
+##### #221
+
+* Titel: `Gothic 3 - #221 - Zuben der Erwählte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist Zeit. All die Dinge sind getan die wir tun wollten, wir machen den Sack zu. Dafür müssen aber leider noch ein paar Leute sterben. Leute sind in diesem Fall "Assassinen", ärgerlicherweise findet sich dafür keine Unterstützung, ich bin mir nicht ganz sicher ob ich mir eventuell noch zusätzliche Verbündete besorgen hätte können aber wir machen das einfach alleine. Kann ja auch nicht sein das uns ein lächerlicher Champion von Beliar jetzt noch aufhalten wird. Eventuell benutze ich ein paar Cheats um hier besser durch zu kommen. Meine Geduld hat sich in den letzten Kämpfen gegen die Orkhorden von Nordmar sehr erschöpft daher sinkt mein Wille es jetzt noch mit lauteren Mitteln weiter zu machen. Der Kampf gegen Zuben wird übrigens trotz allem ein wenig episch, das liegt auch ein wenig an ein paar Glitchen. Witzige Geschichte im Großen und Ganzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

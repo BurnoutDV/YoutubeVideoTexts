@@ -301,3 +301,30 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #24
+
+* Titel: `Rise of the Tomb Raider - #24 - Torbrecher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das in der Kupfermine die wir von den Russen übernommen haben nicht nur etwas Kupfer rum liegt sondern eine gewaltige, verzierte Grabstätte oder zumindest tempelartige
+  Anlagen die Fragen aufwerfen wir wann das alles gebaut wurde. Und mit welchen Ressourcen. Es ist ja nicht so das die Leute im Allgemeinen nicht gerne schöne Dinge bauen wollen aber leider ist es halt so das Bauen nicht so einfach ist wenn man Hunger hat oder wenn man eigentlich voll damit beschäftigt ist auf dem Feld zu stehen oder die eigene Hütte  auszubessern. In vorindustriellen Gesellschaften gab es natürlich auch irgendwie freie Spitzen was das anging andernfalls wäre es wohl kaum möglich gewesen Kriege zu führen und doch braucht es ja nicht nur freie Arbeitskraft sondern auch Material und das Wissen mit dieser Arbeitskraft Dinge zu tun. Wie dem aber auch sei, wir machen heute eh alles kaputt. Dann müssen sich zukünftige Generationen von Archäologen keine Fragen mehr stellen. Das macht alles einfacher denke ich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #25
+
+* Titel: `Rise of the Tomb Raider - #25 - geothermales Tal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir in der letzten Episode alles kaputt gemacht haben finden wir uns jetzt an einem anderen Ort wieder, das war aber auch nur logisch, an dem Ort an dem wir unfassbar wertvolle kulturelle Schätze vernichtet haben können wir auch nicht mehr sein, da liegen jetzt ja viele Tonnen an Geröll rum. Wir sind stattdessen jetzt durch den Berg durch und finden ein "geothermales Tal". Das ist eigentlich ganz interessant da eine Fläche von der Größe eigentlich aus dem Weltall sichtbar sein müsste. Die Ruinen der Maya und Inka wurden ja nur nicht gefunden weil da eine Menge Dschungel drüber war aber das gleiche Problem haben wir in Sibieren nicht. Man möchte doch meinne das irgendjemanden eine auffällige Hitzesignatur mitten in Sibirien aufgefallen ist. Auf der anderen Seite sind Satellitenminuten recht teuer habe ich gehört und es wird deutlich weniger beobachtet als man so meinen könnte. Gibt da eine Menge Trivia zu dem Thema.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

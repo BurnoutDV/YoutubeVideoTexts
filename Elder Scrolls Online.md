@@ -1453,3 +1453,31 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1348
+
+* Titel: `Let's Play ESO #1348 - Rasirs Forschung [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 84 des Greymoor DLCs - Sitzung 13
+  
+  Es ist erstaunlich, immer wenn im Elder Scrolls Universum eine Krankheit auftaucht findet sich innerhalb von Minuten ein findiger Alchemist, Magus oder Sonstiges der oder die die Lösung durch Zufall auch schon fast in der Hand gehabt hat. Dann gibt es da natürlich auch Ausnahmen wie die thrassische Pest wo das Problem ein weniger länger hält. Aber wenn ich mich recht erinnere war es in dem Falle eher biologische Kriegsführung. Wie dem aber auch sei, der Alchemist der Stunde heißt Rasir, er ist selber kein Werwolf, in einer Gruppe von Werwolfflüchtlingen hat aber anscheinend innerhalb von geringer Zeit die Ursache für das Leiden der Werwölfe gefunden. Und ein Heilmittel erdacht. Außerdem hält der gute Mann minitiöse Notizen vor die wir im E-Fall finden können. Das tun wir dann auch...
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1349
+
+* Titel: `Let's Play ESO #1349 - die Hunde von Hircine [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 85 des Greymoor DLCs - Sitzung 13
+  
+  Für Vampire gibt es, soweit ich das verstanden habe eine Menge verschiedener Quellen. Das läuft irgendwie darauf hinaus das zwar alle Vampire irgendwie mit Molag Bal zusammenhängen er aber verschiedene Deals mit den jeweiligen Vampiren ausgemacht hat bzw. mit deren Matriachen oder Patriarchen. Irgendwie sind Vampire immer familiär organisiert, das könnte vielleicht daran liegen das die Verwandlung ein wenig wie eine neue Geburt ist. Wie dem aber auch sei, bei den Werwölfen gibt es genau eine Geschmacksrichtung und die sieht immer gleich aus. Abweichungen finden wir allerdings in der Art und Weise wie beherrschbar der Fluch ist. Meistens haben Werwölfe aber größere Probleme sich in einer festen Gesellschaft zu verstecken. Immerhin sind sie aber ganz vorne mit dabei wenn es dann am Ende zu der großen Jagt von Hircine im Reich des Vergessens kommt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

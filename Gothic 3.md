@@ -2356,3 +2356,17 @@
   Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
   Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
   ```
+
+##### #222
+
+* Titel: `Gothic 3 - #222 - das unbekannte Land [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dies ist das Finale! Wir hauen Zwischenzeitlich noch König Rhobar volles Pfund aufs Maul und dann sind die Mächte von Beliar und Innos endlich aus dieser Welt gebannt. Das finden viele Leute bestimmt nicht so großartig, insbesondere jene die ihre Legitimation aus Innos gezogen haben. Aber ich fand die Feuerpriester schon immer sehr suspekt. Vielleicht wird es jetzt endlich Zeit für eine Bauern und Räterepublik in der ein jeder freie Chancen hat und nicht unter der Knute des Königs leben muss. Wenn ich mir allerdings anschaue wie das wohl in Arcania weiter geht ist die Hoffnung für ein freie Myrtana wohl eher relativ gering. Letztendlich haben wir ja auch wenig dafür getan die Welt zu befreien. Nur den Kopf abzuschlagen wird wahrscheinlich nicht das System lösen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Gothic 3 bzw. Nostalgiespiele in der Regel Donnerstags (diese Info wird nicht gut altern)
+  Installierte Mods/wie ich es getan habe: https://www.twitch.tv/videos/534259896
+  ```

@@ -328,3 +328,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #26
+
+* Titel: `Rise of the Tomb Raider - #26 - das Dorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ganz überraschend finden wir heraus das die Verbliebenden nicht nur 10 Leute sind sondern quasi eine eigene Armee darstellen. Allerdings gab es wohl schon personelle Verluste als man in den 70er Jahren die Russen abwehren musste. Zwischendurch reden verschiedene Leute davon das man ja damit rechnen musste das eine weitere Partei früher oder später in der geheimen Stadt auftaucht. Das man sich erst jetzt anfängt richtig vorzubereiten trifft mich daher ein wenig mit Verwunderung. Aber eventuell war man auch nur viel zu beschäftigt damit erst einmal das eigene Volk in den letzten 40 Jahren aufzubauen. So wie es scheint erlitt man erhebliche Verluste bei der Besatzung durch die Soviets und ich könnte mir vorstellen das vieles Wissen in den Minen gestorben ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

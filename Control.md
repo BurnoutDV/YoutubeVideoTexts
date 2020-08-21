@@ -581,3 +581,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #45
+
+* Titel: `Control - #45 - Pilzforschung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Behörde hat eine Menge Probleme. Das es das Zischen gibt ist zwar außerordentlich ärgerlich und das hat bestimmt auch das Ende sehr vieler Mitarbeiterkarrieren bedeutet, dennoch ist es nicht das Einzige Problem. Neben dem Einsickern von Astralwesen durch die Astralebene und Gehirne von Australnauten gibt es da noch den Pilz. Der Pilz ist eigentlich gar kein Pilz sondern nur eine Art von außerirdischen Wesen die von Außen größtenteils aussieht wie ein Pilz. Die Verbreitung erfolgt allerdings nicht so richtig über Sporen wofür man wohl dankbar sein darf. Stattdessen ist der Pilz außerordentlich lecker und möchte gegessen werden. Das passiert anscheinend auch oder ist schon passiert. Manchmal frage ich mich wirklich in was die Ranger eigentlich ausgebildet werden wenn es nicht Willensstärke ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

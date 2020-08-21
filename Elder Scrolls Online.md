@@ -1481,3 +1481,17 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1350
+
+* Titel: `Let's Play ESO #1350 - die Bruchhalde [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 86 des Greymoor DLCs - Sitzung 13
+  
+  Wir sind noch nicht ganz fertig mit Graumoor. Heute finden wir eine Schrotthalde der Dwermer, eigentlich finden wir sie auch gar nicht sondern unser alter Freund Neramo hat den Ort aufgetrieben. Ich weiß übrigens nicht wieso die Schwarzweite auf einmal ein Ort ist der einfach jedem bekannt ist. Bis vor Kurzem war es noch ein verwunschener Platz von dem man nur in Legenden hört. Und jetzt laufen wir plötzlich mitten in der Legend umher. Wären wir noch alleine würde ich sogar argumentieren das uns niemand glauben würde das wir hier sind. Aber so wie es aussieht hat jede Familie in Himmelsrand einen Verwandeten der schon einmal in der Schwarzweite war.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

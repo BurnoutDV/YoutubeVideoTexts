@@ -341,3 +341,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #27
+
+* Titel: `Rise of the Tomb Raider - #27 - Krankenstation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint mir wir finden eigentlich die Spuren von zwei Völkern. Auf der einen Seite haben wir die enorm technologisierten Byzantiner die seiner Zeit mit dem Propheten das Land verlassen haben und dann haben wir die Verbliebenen. Die zweite Gruppe weiß noch Einiges von der ersten hat aber seit jenen glorreichen Tagen nichts Neues mehr erschaffen. Anders kann ich mir nicht erklären das all die Dinge immer noch existieren. Ein wenig wie Höhlenmenschen die auf den Ruinen der Apokalypse leben. Irgendetwas muss passiert sein das die Leute vom Tal in ihrer Entwicklung zurückgeworfen hat. Es könnte sich um ein Zerwürfnis interner Natur handelt, wir wissen bereits das es eine externe Bedrohung durch die Mongolen gab. Es stellt sich bloß die Frage warum die Verbliebenen sind wie sie sind. Wurden alle vollen Bürger der Stadt ausgelöscht und wir haben es mit den Nachfahren der Bauern zu tun? Die Antworten werden sich hoffentlich bald offenbaren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

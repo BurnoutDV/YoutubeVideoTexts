@@ -594,3 +594,17 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #46
+
+* Titel: `Control - #46 - der Gestalter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir jagen immer noch Artefakte die der gute Freddy verloren hat. Das ist außerordentlich ärgerlich aber man kann von einem normalen Beamten wahrscheinlich auch keine Wunder erwarten. Unser Hauptaugenmerk liegt auf dem Kühlschrank. Es handelt sich um ein Artefakt das anscheinend besonders unliebsam ist. Es muss immer jemanden geben der Kühlschrankdienst hat und das Objekt der Macht zu jedem Zeitpunkt beobachtet. Ansonsten tut es Dinge. Es gab jemanden der Kühlschrankdienst hatte während des Angriffes des Zischens. Zum Glück hatte die enstprechende Person ein HRV. Nicht ganz so glücklich ist allerdings das diese Person quasi vergessen wurde. Nicht überraschend aber für die Person nicht gut. Der Kühlschrank tut dann auch Dinge. Allerdings wird er anscheinend von einem Ausgestoßenen verwaltet. Das wirft interessante Fragen auf. Wie zum Beispiel aus welchen Wesen der Rat besteht. Und wie es überhaupt passieren konnte das sich ein Mitglied los sagen konnte.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+

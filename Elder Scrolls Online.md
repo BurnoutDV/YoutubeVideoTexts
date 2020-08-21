@@ -1495,3 +1495,17 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1351
+
+* Titel: `Let's Play ESO #1351 - Gwendis Infiltration [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 87 des Greymoor DLCs - Sitzung 13
+  
+  Es ist mal wieder Zeit für eine dieser etwas unangenehmen Situationen in denen ich zugegeben muss das ich mich an viele Dinge aus den Kampagnen der einzelnen Reiche nicht mehr erinnern kann. Ein Beispiel ist zum Beispiel Gwendis. Ich finde die Stimme irgendwie sympathisch und es deutet wohl viel darauf hin das wir mit dem Haus Rabenwacht schon intensive Bekanntschaft gemacht haben, aber ich konnte mich schon bei Fennorian nicht daran erinnern. Hier ist es nicht anders, immerhin kriegen wir aber heute auf den letzte Drücker noch ein paar Informationen mitgeteilt was es mit Rada Al-Saran auf sich hat und warum sich die anderen Vampire so überraschend bedeckt halten. Wie dem aber auch sei, wir müssen erst einmal der Waldelfin bei einer kleinen Infiltration helfen bevor wir mehr erfahren. Glücklicherweise haben wir aber ja schon Erfahrung beim Infiltrieren von Festung Graumoor
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

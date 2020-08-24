@@ -354,3 +354,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #28
+
+* Titel: `Rise of the Tomb Raider - #28 - fehlende Ausrüstung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das geothermale Tal hat uns viel zu bieten. Und auch den Menschen die dort wohnen, es ist eine Oase in einer ansonsten unerbittlichen Landschaft. Ein solcher Ort lädt zum flanieren ein, das tue ich heute dann auch. Wir finden eine Menge Seitengänge aber leider stellt sich heraus das wir wohl später noch einmal zu diesen Orten zurückkehren sollen, weil hier und heute können wir nicht all zu viel tun. Das ist aber kein Problem, zum Glück habe ich immer mein Notizbuch dabei um mir solche Dinge zu notieren. Jetzt muss ich nur noch daran denken auch zum richtigen Zeitpunkt hineinzuschauen. Es ist aber schon ein wenig frustrierend wenn man sich erst durchkämpft und dann am Ende des Weges erfährt das leider wegen Forstarbeiten gesperrt ist. Unzufriedenstellend.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #29
+
+* Titel: `Rise of the Tomb Raider - #29 - Talüberwachung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als die Soviets damals in den 70gern die armen Verbliebenen zur Zwangsarbeit in den Minen gezwungen hatten gab es die meiste Technik die man so braucht um unterentwickelte Eingeborene zu unterjochen schon. Namentlich sind das Feuerwaffen. In der Regel sind kleine Geräte die die physische Stärke ihrer Besitzer ignoriert großartig. Aber auch etwas modernere Technik war den Leuten durchaus bekannt, namentlich sind das Wahrscheinlich Züge und scheinbar keine Hubschrauber, hätten die Soviets Hubschrauber auf eine Bergbaumission entsandt wäre ja zumindest etwas an Informationen hinausgegangen. Wie dem aber auch sei, die Technik der Soviets haben jetzt die Verbliebenen, oder zumindest Teile davon. Trinity ist allerdings 50 Jahre weiter und hat auch das modernere Spielzeug mitgebracht. Und das bedeutet ein Schwarm von Hobbydrohnen. Mir ist übrigens nicht ganz klar wie man als jemand der keinen Kontakt zur Außenwelt hat überhaupt erkennen kann das die Drohnen der Spionage dient. Funk sollte ja irgendwie bekannt sein aber von Sprache über Funk verteilen bis zu fernsteuerbaren Robotern die ein Livebild übertragen ist es doch recht weit. Die ersten Satelliten haben übrigens noch Fotos mit echtem Film gemacht die dann von Flugzeugen eingesammelt wurden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

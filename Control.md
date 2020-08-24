@@ -608,3 +608,28 @@
   Control auf dem Dienstags Slot.
   ```
 
+##### #47
+
+* Titel: `Control - #47 - Pilzpille [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mich in Bezug auf die Pilzverseuchung nicht so ganz schlau angestellt. Dewegen müssen wir noch einmal ran. Ich habe das Rätsel bisher irgendwie so verstanden das ich in der ganzen Behörden nach den Hinweisen suchen soll und war daher ein wenig enttäuscht das ich gar nichts auftreiben konnte. Es gab zwar hier und dort Pilzverseuchungen, aber gefunden habe ich nichts das Dr. Unterhills Forschung irgendwie vorran treiben könnte. Stellt sich heraus das wir alles was wir brauchen im aktiven Grenzbereich finden, es liegt nur ein wenig so versteckt das ich nicht sofort darüber gefallen bin. Das kommt nicht sonderlich überraschend, schließlich hatte ich ja schon Teile gefunden und einfach nicht die Verbindung aufgebaut. Peinlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #48
+
+* Titel: `Control - #48 - Fungus-1 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir gehen heute Dinge auf die Spur. In der letzten Episode haben wir die Pilzpille erhalten die es uns ermöglicht die Verseuchung durch Pilze besser weg zu stecken. Ich bin übrigens ein wenig erschüttert wie schnell die gute Frau Unterberg in der Lage war eine passende Pille herzustellen und wie das Ding gegen den physischen Schaden hilft denen uns das Pilzzeug vorher ausgesetzt hat. Unabhängig davon, treffen wir heute Fungus-1. Das Ding wurde anscheinend von der Behörde bereits als Möglichkeit vorhergesehen und dementsprechend benannt. Ich kann mir nicht vorstellen das Jesse einen entsprechenden Namen vergeben würde. Das scheint mir übrigens ein Problem am Horizont zu sein. Was passiert wenn wir die Behörde dann vom Zischen befreit haben und die Behörde wieder in ruhigere Phasen eingeht? Kann Jesse das Tagesgeschäft überhaupt leiten und administrative Entscheidungen fällen? An sich scheint sie mir mehr die Person zu sein die Dinge kaputt macht und ist eher die Frau fürs Grobe.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

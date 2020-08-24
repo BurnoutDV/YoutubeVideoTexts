@@ -1509,3 +1509,17 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1352
+
+* Titel: `Let's Play ESO #1352 - Essinias Durchbruch [Greymoor]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 88 des Greymoor DLCs - Sitzung 13
+  
+  Heute erfahren wir was es mit den Forschungen von Essinia auf sich hat. Die "Gute" hat in den letzten 500 Jahren nicht all zu viel gemacht außer doof rum zu liegen. Allerdings gibt es jetzt wohl eine neues Management und daher ändern sich jetzt die Bedingungen für die alte Intrigantin. Jetzt geht es in die Forschung, und laut ihrer eigenen Aussage wollte sie das sowieso schon immer einmal machen. Dafür das sie da in letzter Zeit wenig Fortschritt zu melden gehabt hat geht es jetzt überraschend gut vor ran. Es ist übrigens selten das die wichtigen Personen auch wirklich den Durchbruch machen. Forschung ist Teamarbeit, ich vermute stark das eine Mischung aus sauberer Arbeit und etwas Glück im Normalfall zum Erfolg führt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```

@@ -633,3 +633,31 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #49
+
+* Titel: `Control - #49 - Langston Ausreisser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute gehen wir auf die Jagd. Wir finden all die vielen Gegenstände die Langston irgendwie verloren hat. Mir ist nicht ganz bewusst wie das überhaupt passieren kann. Letztendlich macht das Zischen die gewandelten Objekte ja nur aktiver und anscheinend auch stärker. Wie also verlassen sie eine Kammer die aus Schwarzstein besteht ohne das irgendjemand die Tür geöffnet hat? Ich stelle mich heute übrigens auch nicht besonders schlau an. Das liegt auch daran das ich nicht verstehe wie eine Ampel funktioniert. Das sollte aber niemanden überraschen, ich gehe nicht mehr so oft raus, da vergisst man sowas schon mal. Immerhin rege ich mich aber köstlich auf.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #50
+
+* Titel: `Control - #50 - die Briefe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir suchen immer noch nach Langstons Ausreisser, ein harmloser Begriff für eine Reihe von kriminellen Gegenständen die alles dafür tun werden uns zu töten. Wie dem aber auch sei, ich dachte ich kriege das alles ganz schnell über die Bühne aber er stellt sich wohl heraus das ich dank meiner Doofheit doch nicht ganz so schnell vor ran komme wie ich das gerne gehabt hätte. Heute suchen wir daher die Briefe die sich in der Poststelle finden sollen. Es ist eigentlich ganz interessant, die anderen Gegenstände wie Anker, Ampel oder Lampe scheinen ohne direkten Einfluss des Zischens aus zu kommen, zumindest war es nicht so ersichtlich. Die Briefe sind offensichtlich vom Zischen betroffen. Das fällt daran auf das sie rot umherwischen. Was nicht so auffällt ist der Standort der anderen Briefe.
+  
+  Zukunftsaussicht: ich werden noch einmal wieder kommen und dann die Briefe finden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

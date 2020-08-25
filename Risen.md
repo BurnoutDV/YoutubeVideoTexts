@@ -45,22 +45,28 @@
   
 ##### #4
 
-* Titel: ``
+* Titel: `Risen - #4 - das Sumpflager [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir sind wieder da! Manchmal kommt es mir so vor als würden wir gar nicht so recht vorwärts kommen sondern uns nur im Kreis bewegen. Alles scheint zyklisch, egal was wir machen, gestern ist wie heute nur leicht anders aber die Grundstruktur hat sich nicht geändert. Wir sind wieder im Sumpflager. Es ist zwar eigentliche das alte Lager aber im Großen und Ganzen ist es auch das Sumpflager. Man erkennt es daran das es im Sumpf liegt und ein Lager ist. Darin finden wir Banditen die die örtlichen Schätze ausbeuten. Die gibt es noch gar nicht so lange was den örtlichen Boss, Don Esteban, aber nicht davon abhält hier ordentlich aus dem vollen zu schlagen. Lernen wir also Land und Leute kennen, im Sumpflager.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
   
 ##### #5
 
-* Titel: ``
+* Titel: `Risen - #5 - Banditensorgen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Man wird ja nicht kriminell weil das zivile Leben so wunderbar war. Wenn Menschen mit Führungsgewalt entscheiden das sie was gegen Banditen machen wollen meinen sie in der Regel das sie mit harter Hand durchgreifen wollen und die Symptome bekämpfen wollen. An den Ursachen tut selten irgendjemand etwas. Die ursächlichen Probleme sind meistens komplex und schwierig in kurzer Zeit anzugehen. Und wahrscheinlich stehen sie auch im Kontrast zu den eigenen Interessen. Aber man kann so nicht alle Dieberei, Mord oder Kombination erklären. Manche Menschen haben einfach nur eine niedere Hemmschwelle zur Gewalt und haben das auch eingesehen. Wieder andere wollen einfach nur mehr Dings, was auch immer es ist. Gier ist ein starker Antrieb. Nicht jeder hat das geistige Zeug eine Bank aufzumachen oder einen Hedgefund zu gründen, daher gibt es immer wieder Leute die sich simpleren Probleme zuwenden. Und natürlich Leute die einfach kein Platz in der Gesellschaft haben, das sind dann die Leute von weiter oben, größtenteils. Aber all das führt nicht zu einer anderen Sache: die Entscheidung Bandit zu werden löst nicht magisch alle Probleme die man hat. Daher haben unsere Banditen die wir heute interviewen immer noch Sorgen. Und dafür braucht es einen (noch?) namenlosen Helden der die Dinge angeht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
 ##### #6

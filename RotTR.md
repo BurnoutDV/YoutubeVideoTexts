@@ -380,3 +380,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #30
+
+* Titel: `Rise of the Tomb Raider - #30 - auf den Krieg vorbereiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint so das die Verbliebenen schon immer damit gerechnet haben das sie eines Tages wegen der  Schätze ihrer Vorväter noch einmal besucht werden. Bisher hat noch niemand festgestellt das das Erscheinen von Lara und Trinity sehr zeitlich beieinander liegt. Aber das kann nicht mehr lange dauern. Daher müssen wir alles tun um uns irgendwie bei der Bande einzuschmeicheln bevor die Spitzkriegen das wir zu 100% an deren Elend Schuld sind. Daher helfen wir uns heute auf den "Krieg" vorzubereiten. Das halte ich persönlich übrigens für eine leichte Übertreibung. Ich glaube nicht das Trinity oder die Verbliebenen genügend Ressourcne zur Verfügung haben um einen längeren Konflikt aus zu tragen der über ein paar Gefechte hinaus geht. Wie dem aber auch sei, wir sammeln Rohstoffe und schießen Drohnen ab. Und dann werden wir uns wohl noch in den eigentlich Kämpfen beteiligen. Das sollte dann ja wohl reichen oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #31
+
+* Titel: `Rise of the Tomb Raider - #31 - Schrein des Spähers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir begeben uns heute auf Abwegen. Das passiert in dem Wissen das wir wahrscheinlich schon bereit für unsere Aufgabe sind. Dann fällt mir aber dann noch wieder ein das ich vielleicht zumindest den Angriff auf das Dorf der Verbliebenen abwarten sollte damit ich genügend Vertrauen bei den Leuten aufbauen kann. Es wird sich übrigens später herausstellen das mein Handeln prinzipiell richtig war wenn auch aus den falschen Gründen. Wir lösen daher heute nur ein paar Sprung und Kletterrätsel, finden den Schrein des Spähers und begeben uns dann wieder woanders hin damit wir hier einen reinen Abschluss erhalten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

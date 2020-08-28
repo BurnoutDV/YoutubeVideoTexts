@@ -71,22 +71,28 @@
 
 ##### #6
 
-* Titel: ``
+* Titel: `Risen - #6 - Machtgefüge [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Eine sehr menschliche Eigenschaft ist es sehr unterschiedlich zu sein. Menschen sind ziemlich weit weg vom großen Schwarmbewusstsein wie man es nur sein kann. Dennoch gibt es eine unterliegende "Programmierung" die gewisse wiederholende Muster hat. Wenn man dann die Gruppe filtert, zum Beispiel "Neigung zur kriminellen Handlungen", findet man schon mehr Gleichheit. Die Individuen sind aber immer noch getrennte Entitäten. Logischerweise kämpft also jeder für sich und macht Allianzen wo es vorteilhaft erscheint mit Leuten die ebenfalls denken das es für sie vorteilhaft ist. Letztendlich arbeitet aber doch jeder für sich alleine. Oder vielleicht auch nicht. Aber wer weiß schon wen man trauen kann. Je höher die Ambitionen umso weniger das Vertrauen in Andere. Behaupte ich jetzt. Was hat das mit der Episode hier zu tun? Es gibt einen Typen namens Brogar der versucht mehr Macht zu erlangen aber nur begrenze Möglichkeiten hat. Und da kommt die innere Machtdynamik der Banditen zum Tragen. Einige sind daran interessiert, andere nicht. Technisch gesehen hat Brogar aber gar keinen Gegenspieler. Und doch..greifen wir ein. Einfach weil wir können und ein bisschen Chaos immer gut ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
 ##### #7
 
-* Titel: ``
+* Titel: `Risen - #7 - Überzeugungsarbeit [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt neben den Kämpfern und Jäger der Banditen auch noch die Arbeiter. An sich könnten das auch ganz normale Kerle sein und ich nehme mal stark an das sie den organisierten Verbrechen mit keiner besonderen Meinung gegenüber stehen. Ob man jetzt vom König, Chefpriester oder Filialleiter geknechtet wird macht am Ende des Tages relativ wenig Unterschied. Manche davon geben einen noch irgendwelche Illusionen aber wenn man ehrlich ist glaubt daran auch niemand so richtig oder? Damit die normalen Leute arbeiten muss man natürlich ein wenig Bedingungen schaffen und die Lage nicht vollkommen verkommen lassen. Und ein paar Schläge helfen auch, und deshalb geben wir heute volles Pfund aufs Maul. Um zu überzeugen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.xxxxxxxxxx Es gibt neben den Kämpfern und Jäger der Banditen auch noch die Arbeiter. An sich könnten das auch ganz normale Kerle sein und ich nehme mal stark an das sie den organisierten Verbrechen mit keiner besonderen Meinung gegenüber stehen. Ob man jetzt vom König, Chefpriester oder Filialleiter geknechtet wird macht am Ende des Tages relativ wenig Unterschied. Manche davon geben einen noch irgendwelche Illusionen aber wenn man ehrlich ist glaubt daran auch niemand so richtig oder? Damit die normalen Leute arbeiten muss man natürlich ein wenig Bedingungen schaffen und die Lage nicht vollkommen verkommen lassen. Und ein paar Schläge helfen auch, und deshalb geben wir heute volles Pfund aufs Maul. Um zu überzeugen.Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 UhrRisen bzw. Nostalgiespiele sind auf Donnerstags geplant.Hiermarkdown
   ```
 
 

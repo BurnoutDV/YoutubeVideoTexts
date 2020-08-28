@@ -661,3 +661,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #51
+
+* Titel: `Control - #51 - Fungus Entfernung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur weil wir den großen Oberfungus erschossen haben heißt das ja nicht das es jetzt vorbei mit der Invasion der Killerpilze ist. Stattdessen geht es an anderer Stelle weiter. Jesse wurde einfach zu spät zur Direktorin ernannt um hier wirklich noch einen Unterschied zu machen. Der Bereich der Behörde ist definitiv verloren. Allerdings scheint es mir so als wäre der Pilzbereich im Gegensatz zum versiegelten Grenzbereich nie so richtig Büroraum gewesen. Die Strukturen sehen einfach nicht besonders geeignet aus. Man kann immer schlecht sagen welche Räume tatsächlich von Menschen eingeräumt wurden und welche vom ältesten Haus einfach so erschaffen wurden. So wie es aussieht scheinen sich ja nicht nur die Wände sondern auch das Interior zu verändern. Bilder und Wandvertäfelung mindestens. Die Pflanzen in der Forschung und überall sonst wurden auch nie angepflanzt. Warum nicht also auch der Rest?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #52
+
+* Titel: `Control - #52 - Pilzspuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist natürlich noch nicht vorbei mit den Pilzen. Wir waren zwar in der letzten Episode sehr bemüht aber so eine veritable Pilzinfektion ist nicht so einfach bekämpft. Generell fehlt uns wahrscheinlich der Flammenwerfermodus der Amtswaffe wenn wir hier wirklich was machen wollen. Wie dem aber auch sei, wir machen Fortschritte. Ich frage mich übrigens ob die Behörde so etwas wie ein Belüftungssystem hat das untereinander verbunden ist. Offensichtlich stehen in der Wartung ziemlich große Ventilatoren rum und es scheint so als gebe es so etwas wie Luftumwälzpumpen. Und doch...der Fungus scheint auf Wirte zu vertrauen anstatt auf Sporen. Aber das könnte auch daran liegen das er eigentlich gar kein richtiger Pilz ist. Zumindest wenn man Dr. Underhill vertrauen darf.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

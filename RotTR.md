@@ -406,3 +406,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #32
+
+* Titel: `Rise of the Tomb Raider - #32 - Dorfverteidigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das wir dann am Ende doch noch praktisch was machen müssen damit die armen Dorfbewohner nicht alle sterben. So wie es aussieht haben wir es bisher vor allen Dingen mit dem kriegerischen Arm der Verbliebenen zu tun gehabt und die restlichen Leute sind eher nicht auf Krieg getrimmt. Das überrascht mich ehrlich gesagt nicht besonders. Eine gesamte Gesellschaft auf einen hypothetischen Feind auszulegen scheint mir auch ein wenig schwierig zu sein. Es gibt historische und sogar aktuelle Fälle wo es einen permanenten Feind bzw. ein Feindbild gibt das man benutzt/e um die Leute in Hab-Acht-Stellung zu halten. Aber ein Gegner der sich nicht manifestiert verlangt eine Menge Glaube. Das ist auf die Masse bestimmt nicht ganz einfach.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #33
+
+* Titel: `Rise of the Tomb Raider - #33 - Hühnerjagd [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir gehen heute backtracken, ihr wisst das ich das liebe, einfach noch mal zurücklaufen und gucken was man übersehen hat. Für den Zuschauer der nur die Story sehen will ist das natürlich ein wenig langweilig, aber so bin ich nun mal. Letztendlich finde ich das aber immer noch besser als die Leute die dann mal eben 5 Stunden offscreen irgendwelche Sachen spiele und dann die neue Episode damit anfangen vorzustellen was für tolle Dinge sie doch jetzt alle haben. Wie dem auch sei, heute finden wir heraus das wir Hühner einsammeln können. Es ist zwar noch nicht ganz klar welchen Zweck das Ganze hat aber wir können das tun und das ist großartig. Ich glaube die Hühner schätzen die Aufmerksamkeit aber nicht wirklich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

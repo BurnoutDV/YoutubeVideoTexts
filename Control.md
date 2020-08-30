@@ -687,3 +687,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #53
+
+* Titel: `Control - #53 - Ahtis Spur [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Hausmeister ist weg. Das ist außerordentlich schlecht weil wir bräuchten ihn mal eben. Anscheinend ist es ja auch so das Ahti sich nicht an die Regeln des ältesten Hauses halten muss. Auch schön finde ich das er anscheinend in der Lage ist Urlaub zu machen. Urlaub ist auch wichtig. Dennoch müssen wir wegen einer dringenden Angelegenheit einmal bei ihm durchklingeln und Fragen stellen. Aus gutem Grund hat der Hausmeister aber keine Informationen hinterlassen. Das überrascht nicht. Niemand hat großartig Lust im Urlaub gestört zu werden, insbesondere weil der Effekt des Urlaubs dann auch sofort verloren geht. Das möchte man doch eher vermeiden. Wir müssen daher mühsam Spuren folgen um herauszufinden wo der Mann hin ist. Wie weit kann so ein Finne schon weg fahren?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #54
+
+* Titel: `Control - #54 - das Aschenbecherlabyrinth [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute tun wir viele Dinge. Das liegt unter Anderem auch daran das diese Episode fast 39 Minuten lang ist. Das ist doppelt so viel wie in einer Normalen. In der Regel passiert das wenn ich "nur noch mal eben schnell" etwas fertig machen möchte und es dann nicht so schnell fertig wird. Wir verfolgen als Erstes Ahti und finden ihn dann wahrscheinlich dann auch. Das würde ich jetzt aus dem Titel schlussfolgern. Dann gehen wir nämlich in den oben genannten Ort und da wären wir wohl nicht wenn wir nicht vorher Erfolg gehabt hätte. Aber das Ziel ist auch überhaupt nicht wichtig, viel Interessanter ist der Weg dahin, die Reise. Immer die Reise. An so langen Episoden finde ich auch den Nachteil das man aufgegessen hat bevor sie vorbei ist. Außerdem ist es schwierig einen zusammenhängenden Text zu schreiben wenn viele Dinge auf einmal passieren. Nur soviel, wir hören heute Musik.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

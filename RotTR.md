@@ -432,3 +432,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #34
+
+* Titel: `Rise of the Tomb Raider - #34 - Brunnenkaverne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute habe ich gar nicht soviel zu sagen. Wir erkunden ein weiteres Grabmal. Davon gibt es echt viele im Tal vor Kitesch. Die eigentlich Stadt haben wir, soweit ich das erkannt habe, noch nicht betreten. Für den Moment haben wir aber auch erst einmal die Aktion verlassen und wir müssen nicht mehr damit rechnen das tonnenweise Handlanger sich uns entgegenstellen. Man muss auch über das Trauma für Lara nachdenken. Nachdem wir auf der Ferieninsel Yamatai wirklich viele Verrückte erschossen haben geht es jetzt gegen Söldner. Alleine die Verantwortung zu wissen das man wahrscheinlich mehr Leute getötet hat als die größten "Helden" diversere Kriege sollte beim Einschlafen ein wenig Schwierigkeiten machen. Insbesondere weile jene Helden meistens auf größerer Entfernung geschossen haben, Lara hat fast jeden einzelnen Soldaten und Kultisten persönlich erwürgt, in den Kopf geschossen oder mit Granaten aus nächster Nähe zerfetzt. Da ist so ein beruhigendes Grab doch auch mal ganz schön, hier sind die Leute immerhin schon tot.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #35
+
+* Titel: `Rise of the Tomb Raider - #35 - der Marktplatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es geht wieder lose, Laras PTSD kann jetzt weiter vertieft werden. ich bin mir übrigens nicht ganz sicher wie so Trauma vom Selbstmord ihres Vaters da rein spielt aber das wir quasi gezwungen werden uns durch Armeen von Leuten durchzuschießen hilft der Psyche bestimmt nicht wirklich. Immerhin weiß Lara das es soetwas wie ein Leben nach dem Tot geben muss. Die Tatsache das die göttliche Quelle durchaus existieren kann und die Dinge die in Yamatai passiert sind sprechen sehr dafür das es mehr als nur die reine physische Existenz gibt. Inwiefern das jetzt hilft zu verarbeiten das man eigenhändig Hunderten wenn nicht sogar tausenden den Tot gebracht zu haben kann ich nicht sagen. Auf jeden Fall würde ich erwarten das sie mittlerweile ziemlich stoisch geworden ist. Das zeigt sich in den Zwischensequenzen eher nicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

@@ -95,9 +95,28 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.xxxxxxxxxx Es gibt neben den Kämpfern und Jäger der Banditen auch noch die Arbeiter. An sich könnten das auch ganz normale Kerle sein und ich nehme mal stark an das sie den organisierten Verbrechen mit keiner besonderen Meinung gegenüber stehen. Ob man jetzt vom König, Chefpriester oder Filialleiter geknechtet wird macht am Ende des Tages relativ wenig Unterschied. Manche davon geben einen noch irgendwelche Illusionen aber wenn man ehrlich ist glaubt daran auch niemand so richtig oder? Damit die normalen Leute arbeiten muss man natürlich ein wenig Bedingungen schaffen und die Lage nicht vollkommen verkommen lassen. Und ein paar Schläge helfen auch, und deshalb geben wir heute volles Pfund aufs Maul. Um zu überzeugen.Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 UhrRisen bzw. Nostalgiespiele sind auf Donnerstags geplant.Hiermarkdown
   ```
 
+##### #8
 
+* Titel: `Risen - #8 - Machtgehabe [Let's Play; ger; Blind]`
 
+* Beschreibung:
 
+  ```markdown
+  Die Art von Mensch die in der Lage ist Macht zu erlangen ist genau die Art von Mensch die auf keinen Fall Macht haben sollte. Da die Leute die Macht haben aber wohl kaum ihre Position denen überlassen die damit besser umgehen können haben wir hier ein Dilemma. Oder nicht wirklich. Die Dinge passieren halt genauso und wir kriegen anstatt einer optimalen Regierung/Teamleitung/Firma halt das absolute Minimum was die Person oben denkt leisten zu müssen ohne die eigene Position zu gefährden. Vielleicht ist das auch zu negativ gedacht aber von allem was ich so an Menschen gesehen habe gibt es nur wenige Situationen in denen die Leute die wirklich Macht wollen sie auch erhalten sollen. Insbesondere wenn man dann die anderen Idioten sieht und denkt das mache ich besser. Im Falle des Banditenlagers hat aber niemand daran Interesse es besser zu machen. Stattdessen geht es hier wirklich nur um das Gefühl wichtig zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
 
+##### #9
 
+* Titel: `Risen - #9 - Arenakampf [Let's Play; ger; Blind]`
 
+* Beschreibung:
+
+  ```markdown
+  Ein stable in den Vorgängerspielen war das Kämpfen in der Arena um am Anfang Geld zu verdienen. Das gestaltete sich aber teilweise ziemlich schwierig weil man am Anfang auch recht schwach ist und daher in den simplen Kampfmodellen der Vorgänger wenig Chancen hatte. Jetzt in Risen ist das alles ein wenig besser geworden. Wir können tatsächlich Einiges erreichen in dem wir einfach ein wenig um herspringen und zum richtigen Zeitpunkt blocken. Das ist außerordentlich beruhigend. Daher verdienen wir heute ein wenig Extrageld damit die Schnellspeichertaste ordentlich durchzudrücken. Ärgerlicherweise ist es auch wirklich nur ein wenig Kleingeld, die Wetteinsätze sind nicht hoch und die Gewinne natürlich auch nicht. Das würde Verlieren zwar zu einer Option werden lassen aber das passiert ja eh nicht in unserer Welt...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

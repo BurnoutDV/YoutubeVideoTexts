@@ -120,3 +120,29 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #10
+
+* Titel: `Risen - #10 - Freibier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Oft mache ich mir im Leben Sorgen über die eher komplexeren Probleme im Leben. Es ist nicht so das ich da irgendwelche Lösungen habe oder auch nur Ansätze wie man anfängt aber ich bin in der glücklichen Lage das die meisten trivialen Sorgen mich eher weniger tangieren. Einige nervige Dinge kann man auch einfach wegautomatisieren. Manchmal beneide ich Leute die simple Probleme haben die auch nur eine simple Lösung benötigen. Wie zum Beispiel das Herankarren von ausreichenden Mengen Bier um besoffen zu werden. Das Problem hat auch ein örtlicher Jäger hier, zum Glück kommt sobald ein namenloser Held daher der bereit ist für einige wenige Informationen seinen Biervorräten lebewohl zu sagen. Und der namenlose Held freut sich das er so billig weg kommt. Schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #11
+
+* Titel: `Risen - #11 - Rhobart der Sumpfbauer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht alle Leute die im Sumpf wohnen sind finstere Halsabschneider die nur unser Geld wollen. Einige von ihnen sind auch aufrechte Leute die uns nur Gutes tun wollen. So zum Beispiel Rhobart der Sumpfbauer. Der gute Mann scheint mir aufrichtig und fair zu sein, klar er macht Geschäfte mit den Banditen aber letztendlich arrangiert er sich auch nur so wie der Wind weht. Wenn man einen Hof hat muss man halt aufpassen was man tut oder? Wie dem aber auch sei, der gute Rhobart gibt uns auch sonst noch einige Tips. Auch wichtig ist das er die örtliche Kontaktstelle für die Novizen der Inquisition ist die mit uns ja sonst nicht reden wollen, einfach weil die uns einziehen wollen. Das können wir aber unmöglich zulassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

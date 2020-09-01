@@ -713,3 +713,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #55
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Als ich das letzte Mal in der Abteilung für verlorene Briefe war habe ich mich sehr darüber gewundert das es noch ganz schon hoch hinaus geht und mit welchen Details der gesamte Ort dargestellt ist. Jetzt wissen wir das wir auch nach oben schweben können. Das bedeutet das all die interessanten Orte die wir vorher gesehen haben doch noch betreten können. Daher finden wir heute zwei weitere Briefe in der Postabteilung. Und technisch gesehen finden wir sogar noch mehr Dinge, Dinge die wir sonst komplett verpasst hätten. Wie gut das wir von Langston die Mission erhalten haben hier für Ordnung zu sorgen und die Brief und anderen Artefakte wieder einzufangen. Außerdem finden wir heraus das es doch deutlich mehr Brief gibt als ich ursprünglich annahm. Die meisten liegen aber noch im Fahrstuhl.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.   
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #56
+
+* Titel: `Control - #56 - der Flamingo [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere Suche nach seltenen und vor allen verlorenen Gegangenen Artefakten hat noch kein Ende gefunden. Heute suchen wir nach dem Flamingo der anscheinend spontan entschieden hat gehen zu wollen. Das Witzige am Flamingo ist auch das wir von ihm bereits gelesen haben und daher wissen das Dr. Darling persönlich das Artefakt einen Straßenbewohner abgenommen hat. Damals konnte man keine paranatürlichen Eigenschaften nachweisen, aber jetzt scheint sich das Ganze ein wenig geändert zu haben. Das ist recht beeindruckend wenn man darüber nachdenkt. Bisher war alle Objekte der Macht schon vorher irgendwie da und wurden dann erst entdeckt. Ob es hier eine Quelle gibt die ein bisher herrenloses Objekt zur Macht verholfen hat?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

@@ -458,3 +458,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #36
+
+* Titel: `Rise of the Tomb Raider - #36 - die Nekropolis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir betreten heute einen Ort der seinen Namen nicht ganz zu recht hat. Am Schild steht zwar das es sich um eine Nekropolis handelt aber so wie es aussieht gibt es für den Moment auch noch lebende Menschen an diesem Ort. Das wird wahrscheinlich nicht mehr so lange so bleiben wenn man sich anschaut wie die Dinge stehen aber für den Moment können wir noch jemanden retten. Natürlich nicht alle, dafür sind wir zu wenige und außerdem sind einige der Lebenden unsere expliziten Feinde. Bis her war Lara Croft nicht für ihre Gnade bekannt, ich nehme also nicht an das Madame Archäologin jetzt auf einmal ihr Gewisse entdeckt. Immerhin gibt es wieder einmal einige Beispiele einzigartiger kultureller Schätze zu sehen. Großartig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #37
+
+* Titel: `Rise of the Tomb Raider - #37 - Baba Yaga [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute begegnen wir einer Hexe, nur kurz, aber wir tun es. Ist es doch so das wir noch irgendwelche DLCs dazu gekauft haben als wir die Komplettedition von Rise of the Tomb Raider erstanden haben. Den Bonusinhalt möchte ich natürlich auch nutzen, und das tun wir dann auch heute. Im finsteren verlassenen Tal waren wir ja bereits zuvor aber dann habe ich mich doch entschieden das ich noch andere Dinge tun möchte. Jetzt ist es aber soweit das wir uns die dunkle Hexe wirklich mal angucken können, daher tauchen wir heute tief ab um zu sehen wohin uns unsere Reise führt. Ich bin übrigens vom psychedelischen Effekt der Pflanze sehr beeindruckt. Ich sehe hier industrielle Verwendung wenn das Pflänzchen so stark ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.   
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

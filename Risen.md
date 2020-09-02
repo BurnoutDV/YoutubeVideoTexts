@@ -146,3 +146,16 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #12
+
+* Titel: `Risen - #12 - Danny das Arbeitswunder [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich irgendjemanden als Arbeitswunder bezeichne kann man davon ausgehen das die entsprechende Person garantiert kein Wunder der Arbeit ist. Das ist Fakt. Bei Danny handelt es sich übrigens um den letzten Typen der noch fehlt damit ich endlich die Arbeiterkleidung kaufen kann. Ihn zu finden war nicht besonders einfach und ich gebe zu ich hatte dabei Hilfe. Aber jetzt ist es endlich so weit und wir können die Früchte unserer Arbeit abgreifen. Aber immerhin haben die Arbeiter halbwegs gute Gründe dafür nicht arbeiten zu müssen. Faul sind sie aber dennoch, weil die Arbeitsmoral war vorher schon eher im Keller.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

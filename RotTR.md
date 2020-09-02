@@ -484,3 +484,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.   
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #38
+
+* Titel: `Rise of the Tomb Raider - #38 - Seilwinde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin immer noch genau da wo ich das letzte Mal aufgehört habe. Das sollte jetzt niemanden überraschen weil ich in der Regel ja nicht vorspiele während ich offline bin. Die Pause habe ich allerdings genutzt um tief in Gedanken darüber zu philosophieren was ich noch tun muss um das Seilwinden Rätsel hier zu lösen. Am Ende stellt es sich übrigens als ziemlich einfach heraus. Aber bis es dann endlich mal so weit ist vergeht ehrlich gesagt viel zu viel Zeit. Das ist mir auch ein wenig unangenehm. Ich hätte mehr von mir erwartet aber manchmal will der Gehirnkasten einfach nicht richtig funktionieren. Am Ende stellt sich heraus das meine erste Lösung eigentlich schon die richtige war ich bloß zu doof war es richtig zu machen und meine Durchführung etwas ungenau. Das ärgert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

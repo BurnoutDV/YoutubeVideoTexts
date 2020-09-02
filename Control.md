@@ -739,3 +739,21 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #57
+
+* Titel: `Control - #57 - Essej [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  .nnak neroh saw tug nam timad neztesrebu uz snoT sed elieT eginie thcameg ehuM eid ragos rim ebah hci dnu jessE riw neffert etueh ,ies hcua reba med eiW .tmmok netleW eredna ni hcon nam eiw nessiw uz tnasseretni eraw sE .tenffo netleW eredna ni elatroP rotkejorpaiD red sad tiereb nessiw riW .nednif etieS neredna red fua riw saw sgnidrella tsi rednegihurnueb sawtE .nednif sawte lamnie hcon hcod reih riw sad rednegihureb osmu rehaD .nebah ethcihcseG nehciltser ruz gnudnibreV eretiew eniek dnu neneid pordkcaB sla run hcilkriw eid tbig etrO hcilhcastat se sad ebah thcameg negroS ginew nie nohcs gnafnA ma rim hci sad uz ebeg hcI .tbig tsnosmu gillov thcin robaL enorhcnysa sad se sad hcod etssuw hcI .tlewlegeipS enie etueh neterteb riW
+  
+    .rhU 32 - 02 vdtuonrub/vt.hctiwt.www//:sptth :hctiwT fua eviL gatnehcoW nedeJ
+  .tolS sgatsneiD med fua lortnoC
+  
+  Wir betreten heute eine Spiegelwelt. Ich wusste doch das es das asynchrone Labor nicht völlig umsonst gibt. Ich gebe zu das ich mir am Anfang schon ein wenig Sorgen gemacht habe das es tatsächlich Orte gibt die wirklich nur als Backdrop dienen und keine weitere Verbindung zur restlichen Geschichte haben. Daher umso beruhigender das wir hier doch noch einmal etwas finden. Etwas beunruhigender ist allerdings was wir auf der anderen Seite finden. Wir wissen bereit das der Diaprojektor Portale in andere Welten öffnet. Es wäre interessant zu wissen wie man noch in andere Welten kommt. Wie dem aber auch sei, heute treffen wir Essej und ich habe mir sogar die Mühe gemacht einige Teile des Tons zu übersetzen damit man gut was hören kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

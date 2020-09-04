@@ -159,3 +159,29 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #13
+
+* Titel: `Risen - #13 - Brogar der Starke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Physische Stärke ist in einer Gesellschaft ohne große etablierte Strukturen von großen Vorteil. Es wird gerne von Personen in mehr oder weniger weiterentwickelten Gesellschaften öfter moniert das Bürokraten und Personen ohne Fähigkeiten das höchste Amt übernehmen. Ich würde das eher als Wechsel auf eine weniger muskelbasierten Gesellschaft sehen. Alle Überlegungen in dieser Richtung sind in diesem Fall aber irrelevant, so weit sind wir noch nicht. Stattdessen regiert die Macht die eine einzelne Person projezieren kann, es gibt schon Andeutungen daran das Don Estebans Macht über die seines eigenen Körpers hinaus geht aber auch er muss sich wahrscheinlich gelegentlich beweisen und legt bestimmt viel wert darauf sich dabei nicht zu blamieren. Genau das ist übrigens unser Plan mit Brogar. So groß seine Stärke auch ist, stärker ist der Eindruck den andere von ihm haben. Wenn wir das überwunden kriegen hat sich all das erledigt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #14
+
+* Titel: `Risen - #14 - Schatzhöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir wird, während ich das hier schreibe, bewusst das ich wahrscheinlich noch sehr viele Schatzhöhlen betreten werde. Die gesamte Prämisse des Spiels ist ja das Ruinen aus den Boden steigen in denen unermessliche Goldschätze liegen. Da kann man wohl vermuten das wir in nächster Zeit noch öfter Orte betreten werden in den wir wahre Reichtümer finden werden oder? Heute finden wir übrigens eher weniger Reichtümer dafür aber Leichen und ein paar finstere Wesen die anscheinend darin bestrebt sind unser Leben möglichst schnell zu beenden. Das finde ich inakzeptabel. Einige wenige Schätze fallen aber für uns ab, insofern ist nicht alles schlecht und ich will leiser Jammern. Die Bezeichnung Schatzhöhle war im Nachhinein aber vielleicht ein wenig Voreilig. Aber vielleicht war der wahre Schatz ja die Erfahrung die wir auf dem Weg dorthin gemacht haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

@@ -497,3 +497,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #39
+
+* Titel: `Rise of the Tomb Raider - #39 - die böse Hexe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute geht es in den Bosskampf, ich habe leider den guten Titel schon verbrannt deshalb muss es dann einen anderen geben. Ich könnte auch alles umbenennen aber das tue ich nicht. Erwähnte Hexe ist übrigens nicht so böse. Sie geht uns zwar auf die Nerven aber an sich waren wir nie wirklich in Gefahr. Etwas schlechter ist es den Resten vom Bravo-Team ergangen. Das Ende was ihnen zu Teil geworden ist hat nun wirklich niemand verdient. Ansonsten erleben wir an sich eigentlich eine ganz schöne Sequenz in der es einiges zu sehen gibt. Ich war tatsächlich gespannt wie man am Ende erklären möchte das das funktioniert was wir erlebt haben. Unabhängig davon was wir sehen, irgendwie muss ja dennoch der physische Teil funktionieren, weil so wie die Blüten funktionieren liegt Lara ja nicht bewusstlos irgendwo am Boden und träumt alles.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.Hier
+  ```
+
+##### #40
+
+* Titel: `Rise of the Tomb Raider - #40 - Hexenschätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die böse Hexe ist tot, das ist fast wie in England damals, nur anders. Und die Hexe ist gar nicht tot. Aber doch irgendwie schon tot, zumindest nicht mehr da, hat aufgehört zu existieren, nicht mehr verfügbar. Wie dem auch sei, sie hält uns auf jeden Fall nicht mehr davon ab ihre Sachen zu durchsuchen und nach Schätzen abzuklopfen. Das das Durchgehen ihrer Taschen gleich so lange dauern würde hätte ich übrigens nicht gedacht. Daher verbringen wir heute den Großteil der Episode damit hier durchzulaufen und mit klarem Blick die Mechaniken zu analysieren. Ich hatte mich ja in der Vergangenheit gefragt wie genau die Dinge physisch zusammen passen, weil nur weil wir uns vorstellen gibt uns ja nicht die Fähigkeit plötzlich zu fliegen oder? Am Ende ist doch alles ganz mundan, an sich bin ich recht zufrieden mit der Ausführung dieses Addons, auch wenn es technisch ein wenig schwach war mit dem Fauxpas am Anfang des Bosskampfes. Und die Story war von tausend Meter gegen den Wind erkennbar. Das war ein wenig nervig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

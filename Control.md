@@ -757,3 +757,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #58
+
+* Titel: `Control - #58 - Vergessenes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hier ist sie! Die Episode die es immer gibt. Die Folge in der mir einfällt was ich alles vergessen habe und ich die ganze Strecke zurücklaufe und noch einmal die losen Enden aufnehme um sicherzustellen das nichts liegen geblieben ist. Zum Glück habe ich in diesem Fall einen Notizzettel und ich laufe nicht komplett planlos durch alle Räume um vielleicht irgendetwas zu finden. Stattdessen habe ich einen echten Plan. Das macht es wesentlich einfacher durch zu kommen. Nebenbei unterhalte ich mich auch noch einmal mit Jesses Bruder, Dylon hat bestimmt gute Erkenntnisse für uns zu bieten. Träume sind ja immer wieder spannend, auch wenn man wohl keine großartigen Rückschlüsse auf die Psyche von Leuten schließen kann so bieten sie doch ein völlig ungefiltertes Bild auf eine Gedankenwelt die dann wieder rum zu neuen echten Ideen verhelfen kann. Je nach dem wie man das Ganze interpretiert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #59
+
+* Titel: `Control - #59 - das Archiv [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt noch mehr vergessene Räume an denen ich nicht wahr weil mir in der Vergangenheit einfach die Berechtigung gefehlt hat. Aber dann gibt es da auch noch Plätze an denen ich nicht war weil mir einfach die Fähigkeit gefehlt hat zu fliegen und dann das Wissen damit richtig umzugehen. Wir betreten heute übrigens das Archiv, ein Ort an dem ich eigentlich mehr erwartet hätte. Aus irgendwelchen Gründen neigen Konstruktionen im ältesten Haus aber dazu sehr platzverschwenderisch aufgebaut zu sein. Vielleicht auch weil Platz eigentlich nicht das Problem ist..oder weil enge Räume sich in einem Spiel in dem man fliegen kann eher schwierig zu navigieren sind. So oder so, das Archiv besteht aus einigen Schränken und das war es dann im Großen und Ganzen. Ich darf das verdächtig finden oder? Wo ist das echte Archiv, das wo die wirklich interessanten Dinge drin stehen? Die paar Regale werden ja wohl eher nicht das gesamte Wissen der Behörde sein oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

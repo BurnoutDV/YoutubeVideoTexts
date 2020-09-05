@@ -523,3 +523,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #41
+
+* Titel: `Rise of the Tomb Raider - #41 - das Oberdorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht nur gibt es unten im Dorf ein Tal sondern auch Oben. Ich bin übrigens ein wenig überrascht wie dick doch die Personaldecke von Trinity ist. Klar, viele der Leute vor Ort sind angeheuerte Söldner und viele von ihnen sind eher nicht so gut ausgerüstet aber trotzdem handelt es sich um eine veritable Armee. Eine  Armee die zu großen Teilen schon ihr Ende gefunden hat. Und doch..Trinity hat noch weitere Truppen. Das Oberdorf wurde allerdings überrannt weil sie keine Göttin des Krieges hatten die dafür gesorgt hat das hunderte von ausgebildeten Soldaten ihr Ende fanden. Generell ist die Performance der Verbliebenen beeindruckend schlecht wenn man darüber nach denkt. Moderne Kriegswaffen sind in offenen Konflikten natürlich irgendwie vorteilhaft aber die örtlichen Wälder sollten doch eigentlich eine gute Menge an Gorilla-Taktik erlauben. Ja Gorilla Taktik, wie der Affe. Ganz recht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

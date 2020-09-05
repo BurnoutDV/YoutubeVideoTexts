@@ -783,3 +783,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #60
+
+* Titel: `Control - #60 - Neues von Tomasi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute bietet uns Control eine leichte Enttäuschung wenn man so will. Es gab da mal einen Zischer namens Tomasi, also die Person die mal Tomasi war. Relativ mächtig, war in der Lage durch die Gegend zu fliegen und Steine nach uns zu werfen. Er selbst war, wenn ich mich halbwegs richtig erinnere, Leiter der Postabteilung. Das Zischen befand ihn anscheinend für wichtig genug das sich das Tomasi-Ding noch einmal zurückgezogen hat und jetzt erst wieder aufgetaucht ist. Das spricht übrigens ein wenig dafür das das Zischen durchaus die Erinnerungen der befallenen Wirte durchsuchen kann dabei aber nicht unendlich schnell ist. Andernfalls wäre alles relevante Wissen wohl schon lange erbeutet worden. Allerdings ist mir ein Rätsel wie Tomasi von einem Sektor zum Anderen gekommen ist. Wie dem aber auch sei, Tomasi selbst bewacht keine besonderen Geheimnisse. Das ist eine leichte Enttäuschung.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

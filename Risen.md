@@ -185,3 +185,29 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #15
+
+* Titel: `Risen - #15 - Schmiedemeister [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Normalerweise ist es so das man fehlendes Talent durch Taler ersetzen kann und am Ende kann man mit genügend Kleingeld all das ausgleichen was einem im Leben fehlt. Da gibt es auch Grenzen, die fangen aber eigentlich nicht so an das man nicht einmal eine passende Waffe findet wenn man Geld hat. Gut, wir sind jetzt kein Krösus und unsere Finanzmittel mögen vielleicht ein wenig eingeschränkt sein aber völlig arm sind wir nun auch nicht. Dennoch bringt unser Reichtum so gut wie gar nichts. Es stellt sich doch glatt heraus das es niemanden gibt der sich im Stande sieht uns ein ordentliches Schwert zu verkaufen. Wir müssen Selbiges also selber herstellen. Daher hauen wir heute den örtlichen Schmid an uns doch noch ein wenig etwas über die hohe Kunst des Metall in Form hauens zu erzählen. Selbst ist der Mann heißt wohl die Devise.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #16
+
+* Titel: `Risen - #16 - Brogars Ruin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Schöne daran das wir ein Reisender sind ist das wir Dinge tun können die sich niemand sonst traut und dennoch damit davon kommen. Wenn man einige mächtige Person wie Brogar verärgert ohne die Person zu töten kann sich diese Person später noch rächen. Das erscheint mir wie ein unnötiges Risiko, allerdings kann ich mir nicht vorstellen das die Banditen es zu schätzen wüssten wenn der Anführer der Kämpfer ein plötzliches Ende findet. Dennoch, die Aussicht im Schlaf erdolcht zu werden erscheint mir weniger schön. Daher ziehen wir bald weiter und verlassen das Lager der Banditen um, die große Stadt zu erkunden. Das ist wahrscheinlich auch wesentlich besser für meine Gesundheit. Dennoch ruinieren wir Brogar heute. Weil wir es können und weil eine gewisse Hoffnung besteht das wir es nicht bereuen werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

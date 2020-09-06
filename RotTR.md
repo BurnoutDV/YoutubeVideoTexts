@@ -536,3 +536,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #42
+
+* Titel: `Rise of the Tomb Raider - #42 - die Nachhut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man genügend Truppen hat kann man es sich leisten die einmal eingenommenen Positionen gegen entwaiige Verfolger zu sichern. Man spricht in diesem Fall von einer Nachhut. Quasi wie die Vorhut die nach vorne guckt um sicher zu gehen das die Haupttruppe nicht in eine Falle läuft sicher zu stellen das keine Falle von hinten aufkommt. Es ist natürlich nicht  ganz so gut wenn jene Nachhut nur aus einer sehr begrenzten, schlecht vernetzten Truppen besteht die eine einzelne Ein-Frau Armee mit Leichtigkeit besiegen kann. Und so kommt es heute das wir die gesamte Nachhut auslöschen. Darauf waren die Männer bestimmt nicht eingestellt als sie sich für diesen Auftrag eingeschrieben haben. Ärgerlich. Aber die Dorfbewohner haben sich nicht einmal freiwillig gemeldet und sind trotzdem gestorben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

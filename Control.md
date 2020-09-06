@@ -796,3 +796,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #61
+
+* Titel: `Control - #61 - der Diaraum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Früher hat man für bestimmte Zwecke keinen bestimmten Raum erbaut. Das liegt auch daran das es echt viele Menschen gibt und es meistens gar nicht so einfach ist die ganze Bande irgendwo unter zu bringen. Wenn man sich aber die Büros der Mitarbeiter des Federal Bureau of Controll anguckt weiß man schnell warum es an anderer Stelle genügend Platz gegeben hat um einen eigenen Diaraum zu bauen. Der hat all den Platz den die normalen Mitarbeiter des Büros vermissen. Oder es könnte aber auch daran liegen das das älteste Haus nicht unbedingt an normale physische Dinge wie "Innen so groß wie Außen" gebunden ist. Ich frage mich übrigens wie das Bureau neue Abteilungen gründet. Kann man das Haus irgendwie dazu bringen bestimmte Abschnitte und Abteilungen auszubilden und dann stabilisiert man die Räumlichkeiten oder kann man einfach Löcher bohren? Wird neuer Zement aufgegossen. Soviele Fragen. Schrecklich. Immer kriegen wir auch ein paar Antworten von unserem Lieblingswissenschafter Dr. Darling.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

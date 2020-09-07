@@ -549,3 +549,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #43
+
+* Titel: `Rise of the Tomb Raider - #43 - das überflutete Archive [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht in jeder Episode kann man sich darum kümmern die Welt oder in diesem Fall, ein kleines Tal zu retten. Manchmal muss man sich lokaler verhalten. Heute erkunden wir zum Beispiel das überflutete Archiv das in seinem Inneren den Atlas enthält mit dem wir eventuell das Ding finden können das dann wiederum die Welt rettet. Aber an sich suchen wir nach Wissen und den Gebräuchen der Vergangenheit weil wir ja als Lara Croft Archäologin sind...Wem erzähle ich das eigentlich? Selbstverständlich ist uns alles egal, wir sprengen die gesamte Anlage nach dem ewigen Streben für Unsterblichkeit und Ruhm, alles andere ist sekundär und jeder der im Weg steht wird wohl eines schrecklichen Todes sterben. Unter Umständen sogar mehrfach. Lara Croft ist quasi die Inkarnation des schlechten Karmas, immer da um den Tag zu verregnen ohne Hoffnung auf Besserung machen zu können. Und was die Kulturschätze angeht, dieses Mal wird es ein ganz großes Feuer. Die unersetzbaren Aufzeichnungen einer uralten Kultur spielen keine Rolle. Warum auch. Nicht einmal ein Kommentar über den Verlust macht die "Archäologin".
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

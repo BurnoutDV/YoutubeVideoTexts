@@ -211,3 +211,16 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #17
+
+* Titel: `Risen - #17 - Abstecher zur Westküste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist relativ klar das, wenn wir die Stadt betreten wir da so schnell nicht mehr herauskommen. Die Aussage der Inquisition hat uns ja bis in das ferne Banditencamp erreicht. Niemand darf die Stadt verlassen, wer außerhalb der Stadt angetroffen wird ist vogelfrei. Das bedeutet aber auch das wir mit der wenigen Ausrüstung die wir außerhalb der Stadt finden uns so gut wie es nur geht durchschlagen müssen. Daher erkunden wir heute einige Orte bevor wir uns Richtung Stadt aufmachen. Einer dieser Abschnitte ist die Westküste. Von der Beschreibung an den Wegweisern her hätte ich übrigens angenommen das es eine flache, nette Küste ist wie die an der wir angelandet sind. Es stellt sich aber heraus das es viel mehr eine Steilküste ist die wir auf keinen Fall hoch kommen. Daher müssen wir hier ein wenig aufpassen. Insbesondere wenn das Loot runter fällt. Außerdem scheinen unsere Gegner ein wenig sehr mächtig zu sein, zum Glück bietet uns Risen hier ein faires System bei dem wir quasi jeden Gegner besiegen können solange er alleine kommt. Leider kommt nicht jeder Gegner allein. Ärgerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

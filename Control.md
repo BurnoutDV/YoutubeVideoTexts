@@ -809,3 +809,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #62
+
+* Titel: `Control - #62 - Hedron [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jesse Faden hat eine unsichtbare Verbündete, sie nennt das Wesen das sich irgendwie in ihrem Kopf eingenistet hat Polaris. Ein mächtiges Wesen das uns bisher sehr gut vor den Auswirkungen des Zischens geschützt hat. Eine andere Instanz dieses Wesen muss aber irgendwo anders in der Behörde liegen, dieses Wesen heißt Hedron. Daher auch die Hedron Resonanz Verstärker, sie verstärken einen Effekt, erschaffen ihn nicht, noch nicht. Vielleicht wäre es gar nicht möglich einen solchen Effekt mit einem kleinen Gerät zu erzeugen. Die Quelle für das Hedron liegt in der Abteilung für Dimensionsforschung. Hier liegt Hedron, und Hedron ist irgendwie das Wesen das Jesse und ihr Bruder in der Vergangenheit getroffen haben und das ihnen geholfen hat das Problem damals zu lösen. Das Portal war für viele Jahre zu, dennoch hat Dr. Darling Hedron gefunden. Aber Jesse hatte Polaris die ganze Zeit bei sich. Und der befallene Dylan hat Polaris als eine Kopie dritten Grades bezeichnet. Wie pflanzen sich Hedron-Wesen fort?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

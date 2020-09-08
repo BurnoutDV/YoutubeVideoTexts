@@ -822,3 +822,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #63
+
+* Titel: `Control - #63 - Bürokraft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles war nur ein großer Traum. Das ist übrigens ein wirklich beliebte Trophe. Das kommt gerne mal vor. Oder eigentlich nie weil jeder die Trophe kennt aber jetzt so spontan habe ich gar keine Bespiele dafür. Uno Momento por favor...Nachdem ich mich mal eben durch die TV-Trophes durchgelesen habe stelle ich fest das ich es mit traumwandlerischer Sicherheit geschafft habe all die Dinge nicht zu spielen und zu gucken in denen es sich am Ende so her rausstellt. Wie dem auch sei, was ist schon Traum und Realität wenn man den Unterschied eh nicht messen kann? Ärgerlicherweise kann man ihn hier messen und ich frage mich ob das wirklich ein normaler Arbeitstag in der Behörde gewesen wäre. Sieht ziemlich langweilig aus, auf der anderen Seite braucht man auch viel meh "(Wo)Man-Power" wenn man keine Computer und Roboter für den langweiligen Mist benutzen darf. Wie dem aber auch sei, ich finde das Outfit auch schrecklich, es wird Zeit das wir die Ketten der Realität abwerfen und Dinge tun.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

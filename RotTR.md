@@ -562,3 +562,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #44
+
+* Titel: `Rise of the Tomb Raider - #44 - Strudelzuflucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als Archäologin kommen wir technisch gesehen um nichts herum was auch nur im Ansatz so aussieht als könnte es eventuell irgendwelche Kulturschätze enthalten. Als Experte für Vergessenes weiß Lara Croft genau wie man die Dinge so kaputt macht das zukünftige Spezialisten absolut nichts verwertbares finden werden. Heute  besuchen wir die Strudelzuflucht, ein Ort der einst wohl mal ein Badehaus war. Alles was unterhalb der Wasserkante lag wurde durch das Wasser ein wenig konserviert, das weiß auch Mrs. Croft und deshalb lassen wir das Wasser jetzt möglichst schnell ab um möglichst viel Bewegung in die ganze Geschichte rein zu bringen. Maximale Zerstörung in möglichst geringer Zeit. Die gute Nachricht ist auch das alle Hilfsmittel dafür bereits lokal verfügbar sind. Wir müssen also nicht einmal den Nathan Drake Spezial-Sprengstoff mitbringen. Günstig. Auch für die dünne Brieftasche der Crofts.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

@@ -224,3 +224,16 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #18
+
+* Titel: `Risen - #18 - die Novizen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir treffen nicht nur Banditen außerhalb der Stadt, und natürlich auch nicht nur Ordenskrieger, oder Skelette und Untote, nein, auch Novizen des örtlichen Magieordens. Wie wir jetzt gelernt haben ist das nicht die gleiche Veranstaltung. Ich dachte bisher das die Magie fest in den Händen der Inquisition hängt weil das halt so etwas ist was man sich unter den Nagel reißt wenn man religiöse Souveränität für sich selbst beansprucht. Die Magier sind also quasi frei, nur das sie halt freiwillig genau das machen was sich die Inquisition vorstellt. Wir haben übrigens noch nicht herausgefunden von was die Inquisition eigentlich da ist, nur das sie so Dinge tun um die Welt zu retten, vielleicht. So genau geht das nicht so ganz aus dem hervor was die Leute so tun. Es könnte immer noch sein das die Inquisition einfach der bewaffnete Arm der Religion ist die an den Magiern mit dran hängt. So oder so treffen wir heute nur die Novizen, auch einen relativ alten Novizen darunter. Und alle glauben sie das wenn sie nur einen guten Job machen bestimmt bald befördert werden. Das wird sicherlich genau so passieren. Bestimmt. Deswegen arbeiten die da auch schon seit Ewigkeiten auf dem Hof. Weil bald die Beförderung kommt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

@@ -575,3 +575,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #45
+
+* Titel: `Rise of the Tomb Raider - #45 - Kleinigkeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man durch die Story schreitet bleiben leider Dinge liegen. Mir ist das immer ein wenig unangenehm. Auf der einen Seite möchte ich das Spiel möglichst vollständig kommentieren und durchgehen und meinen eigenen Senf dazu abgeben während ich die Story sehe. Auf der anderen Seite möchte man ja auch ein wenig vollständig sein und nicht zu viel auslassen. Bei einem Spiel wie Tomb Raider gehört dazu dann aber leider auch das man sich Artefakte, Schätze und geheime Höhlen anschaut die mit dem eigentlich Hauptspiel eigentlich nicht allzu viel zu tun haben. Und das sammelt sich an wenn man das eine Weile lang ignoriert und erst einmal im Namen der Hauptstory andere Dinge abfrühstückt. Und dann kommt eine Episode wie diese hier, in der man sich um all die kleinen Dinge kümmert damit der Berg auch mal kleiner wird.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

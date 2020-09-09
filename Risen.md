@@ -237,3 +237,16 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #19
+
+* Titel: `Risen - #19 - Tristans Hof [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man bei den Magier zu Rang und Namen kommen will muss man zuerst seine Karriere auf einen Bauernhof starten. Wahrscheinlich um zu zeigen das man die Erdung zu einer Gesellschaft besitzt. Ich habe allerdings den Verdacht das nicht alle Novizen der Magier wirklich am Ende die volle Ausbildung erhalten. Aktueller Vorsteher des Hofes ist ein Typ namens Tristan. Der sieht schon ein wenig älter aus und irgendwie drängt sich mir der Verdacht auf das er ziemlich gut in der Verwaltung eines solchen Agrargewerbes ist. Warum also sollte man einen fähigen Mann abziehen der höchstwahrscheinlich dafür sorgt das die örtliche Ausbildungsstätte wesentlich kostengünstiger funktioniert als sie es tun würde wenn man Nahrungsmittel einkaufen würde. Generell scheint mir der Weg über den Bauernhof ein gutes Mittel zu sein um die Novizen auszusortieren auf die man keine Lust hat. Man kann so nach Eigenschaften filtern, wie zum Beispiel Reichtum, die Gründe um die Beförderung bzw. das Auslassen einer eben Solchen durchzuführen finden sich bestimmt reichlich. Niemand ist perfekt, man muss nur genau genug hinschauen. Gelegentlich gibt es bestimmt jemanden der den absolut perfekten Bauern mimt. Dann wird es schwierig, aber die absolute Jokerkarte wäre immer noch das die Person "anscheinend ihre Berufung auf dem Hof gefunden hat". Ausraster kann man ja quasi ausschließen weil darum ging es ja die ganze Zeit, die Ruhe in den Leuten zu fördern. Oder ich habe das ganze Prinzip einfach komplett falsch verstanden und in Wirklichkeit sind die Magier absolut ehrlich damit das sie halt einfach eine Grundversorgung brauchen und die Anzahlung für die Ausbildung wird dann von den Novizen geleistet. Dann stellt sich aber die Frage wo der stetige Strom an Novizen eigentlich her kommt. Die Insel sieht nicht so aus als hätte sie genügend Personal für alles.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

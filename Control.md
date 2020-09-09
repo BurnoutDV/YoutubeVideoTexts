@@ -835,3 +835,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #64
+
+* Titel: `Control - #64 - der Diaprojektor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dies ist die Episode die eigentlich auch Finale heißen könnte. Aber der aktuelle Name "Diaprojektor" passt auch sehr schön. Letztendlich passt es doch auch ganz schön zum restlichen Spiel. Alles hat sich um das Bild, das Poster an der Wand gedreht. Der Diaprojektor der ein Tor zu einer anderen Welt in die Welt lässt. Jesse die vielleicht nicht mehr in der Realität ist in der sie einst war (das würde zumindest das verschwinden der Erwachsenen erklären). Dylan der auf der anderen Seite steht, Dylan der seine eigene Polariskopie abgelehnt hat und dann dem Zwischen verfallen ist. Alles geht auf den Projektor zurück, dem wahrscheinlich stärksten Objekt der Macht bisher wenn man darüber nachdenkt. Die anderen Orte die der Projektor anzeigt gibt es ja irgendwie, sie sind unter Umständen nur sehr weit weg bzw. auch sehr nahe dran aber nicht erreichbar, hinter dem Schleier. Wenn man das Oceanview besser beherrschen würde könnte man da vielleicht etwas tun. Der Diaprojektor beherrscht Raum und Zeit. Und jetzt ist es an der Zeit ihn abzuschalten. Es ist eigentlich sehr schade das es die Nostalgieabteilung komplett zerstört hat. Ich hätte sie gerne gesehen. Was man so alles darin verwahrt hat. Wenn die Gedanken der Menschen gewandelte Objekte erschaffen dann sollten nostalgische Gedanken ja einen ähnlichen Effekt haben solange die Gegenstände alt genug sind oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

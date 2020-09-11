@@ -250,3 +250,29 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #20
+
+* Titel: `Risen - #20 - Tellurs Reise [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute gehen wir auf die Reise. Also quasi eine Rise, wir folgen einen Kerl namens Tellur. Theoretisch führt er uns nur und sorgt dafür das wir nicht aus Versehen in unser Verderben rennen, praktisch sorgt er aber auch dafür das wir zu einer gewissen Menge an Erfahrungspunkten kommen ohne das wir dafür Lebenstränke verbrauchen. Als Begleiter der ersten Stunde obliegt es dem guten Tellur nämlich für uns den Tank zu spielen. Das ist keine Aufgabe die sich der Mann freiwillig überlegt hat. Am Ende hätte er sich aber genau das auch denken können. Ich meine, wofür haben wir den Mann den sonst? Den Weg hätte ich zur Not auch noch selber gefunden, der einzige Grund überhaupt irgendetwas mit NPCs in alten Spielen zu machen ist es sie als Tank zu missbrauchen. Insbesondere wenn sie anscheinend auf eine unendliche Menge Heiltränke Zugriff haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #21
+
+* Titel: `Risen - #21 - der Weg zur Hafenstadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ganz am Anfang des Spiels wäre es ja schon möglich gewesen zur Hafenstadt zu laufen. Wir habens uns dagegen entschieden, größtenteils weil schon vorher klar war das wir dort eine Menge Regeln befolgen müssten und das es wahrscheinlich auch nicht ganz leicht für uns geworden wäre. Eine Stadt ist eine starre Struktur mit Regeln. Sie erlaubt eine Menge Dinge die die Wildnis nicht erlaubt, allerdings ist der Wald freier was das angeht. Natürlich steht es uns auch frei durch ein wildes Tier getötet zu haben, so sieht Freiheit nun mal aus. Allerdings gibt es auch Möglichkeiten die wir in der Stadt nicht haben, wie zum Beispiel Schätze zu finden. In der Stadt würde es uns gut gehen wenn wir Startkapital hätten das wir benutzen könnten um die richtigen Leute zu manipulieren, haben wir aber nicht. Daher gingen wir ins Banditenlager, aber jetzt, nachdem wir dort waren zieht es uns natürlich in die Stadt, insbesondere weil wir jetzt Startkapital haben. Das wird uns bestimmt helfen..wenn wir erst einmal dort ankommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

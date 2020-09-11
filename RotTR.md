@@ -588,3 +588,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #46
+
+* Titel: `Rise of the Tomb Raider - #46 - Grube des Urteils [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manche Orte hören sich schlimmer an als sie es eigentlich sind. Heute betreten wir die Grube des Urteils. Das ist ein Ort an dem Leute die sich nicht direkt an die Gesetze ihrer Gesellschaft gehalten haben Büsse tun dürfen. Außerdem handelt es sich um eine Kupfermine. Wir finden weiter lustige Holzkonstrukte in denen wir eingespannte Leichen finden. Man hat die Menschen also wohl dort vergessen. Irgendetwas sagt mir das die Leute nicht so richtig an Reform geglaubt haben und die Büßenden halt einfach versauern lassen als es zur ersten Katastrophe kam. Sehr freundlich, und das sagt auch viel über die Kultur der Anhänger des Propheten aus. Ich bin mir sicher das man beim Arbeit in der Mine auch viel Gelegenheit findet sich zu bessern. Wie praktisch das auch sonst niemand in der Mine arbeiten wollte.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #47
+
+* Titel: `Rise of the Tomb Raider - #47 - Grabflüsterin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An sich schalten wir heute nur eine Waffe frei die die "Grabflüsterin" heißt. Es handelt sich um einen Bogen, warum genau das gute Stück flüstert ist mir nicht ganz klar weil eigentlich alle Bögen aufgrund ihrer Bauweise und Natur für sich ziemlich lautlos sind. Sie sind zumindest nicht besonders laut. Die gute Nachricht ist aber das die "Grabflüsterin" besser ist als einige andere Bögen die ich habe, das ist eine gute Nachricht. Rise of the Tomb Raider hat einige Vorbestellerboni und Weiteres die ich anscheinend mit dem Kauf der Komplettedition abgeräumt habe die mir sinnlos das Inventar voll liegen. Theoretisch hätte ich auch weniger Outfits. Wäre ich nicht so daran interessiert sowieso Nebenmissionen zu machen wären Outfits eine meiner großen Antriebe eben jene zu erledigen. Aber so wie die Dinge stehen steht mir einfach jeder erdenkliche Bonus mindestens einmal zur Verfügung.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

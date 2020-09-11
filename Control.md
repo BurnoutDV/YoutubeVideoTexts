@@ -848,3 +848,32 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #65
+
+* Titel: `Control - #65 - Formation: höchste Schwierigkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bevor wir uns den DLCs zuwenden bleibt noch eine Sache. Und das ist die Formation, dort gibt es eine weitere Ausrüstung bzw. eigentlich nur etwas zum anziehen zu verdienen. Dafür muss man den höchsten Schwierigkeitsgrad schaffen, selbstverständlich schaffe ich das auch direkt beim "ersten" Versuch. Heute kann man sich aber noch anschauen wie genau ich das gemacht habe. Man will ja so transparent wie möglich bleiben. Den Anzug trage ich dann aber in den nächsten Episoden nicht weil Baum. Letztendlich hat das alles nur ein wenig mehr Zeit gebraucht als ich gedachte habe und ich gebe zu viel gute Zeit geht auch daran drauf das ich noch versuche meine Waffen feinzutunen, einfach weil ich ein großer Freund vom Min-Maxing bin, und das kostet nun mal leider Zeit.
+  
+  
+  Die B-Folge: https://www.youtube.com/watch?v=vXtA0xIeuws
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #66
+
+* Titel: `Control - #66 - das Fundament [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem ich es mir erlaubt habe eine einzelne Episode damit zuzubringen einfach nur ein wenig rumzuschießen und eine neue Verkleidung zu erwerben ist es jetzt an der Zeit das erste DLC anzufangen. Es heißt "the Foundation" und spielt auf einen Ort an an dem wir bereits in der Vergangenheit sehr kurz waren. Das Fundament, der Ort auf dem das älteste Haus steht, man kommt nur sehr schlecht hin oder wieder zurück, aber wenn man erst einmal dort ist kann man dort bestimmt Einiges über das Älteste Haus selbst lernen. Es gibt übrigens auch einen gleichnamigen Roman von Isaac Asimov. Auf den wird hier wahrscheinlich nichts anspielen aber ich gehe fest davon aus das der Name dieses Ortes in irgendeiner Hinsicht doppeldeutig sein wird. Aber wir fangen erst einmal an, der Rat ruft an und wir haben eine neue Aufgabe, mitten in einer Kriese. Direktorin Jesse hat es nicht einfach.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

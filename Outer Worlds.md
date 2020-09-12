@@ -155,3 +155,29 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
+
+##### #118
+
+* Titel: `Outer Worlds - #118 - [DLC1-#2] - Wilhelmina Ambrose [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jede Geschichte braucht jemanden der am Ende eine Menge Geld in Aussicht stellt. In der Regel ist das einfach die Natur der Sache und es ist von vornerein klar das es etwas zu holen gibt. Im Falle von Gorgon können wir das aber leider überhaupt nicht absehen. Alles was wir wissen ist das es da einen Felsbrocken gibt auf dem Spacers Choice irgendwann mal Experimente gemacht hat und seit dem das passiert ist gab es nie eine echte Lösung und die Öffentlichkeit weiß nicht was letztendlich passiert ist. Wie dem aber auch sei, Wilhelmina Ambrose ist die Tochter der Chefwissenschaftlerin des großen Experiments. Jetzt gilt es nur noch herauszufinden was es damit eigentlich auf sich. Bisher wissen wir nicht einmal woran geforscht wurde. Das macht die Aussichten da runter zu steigen natürlich wesentlich rosiger oder?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #119
+
+* Titel: `Outer Worlds - #119 - [DLC1-#3] - Landung auf Gorgon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So, jetzt nach nur 50 Minuten bin ich endlich einmal so weit das ich tatsächlich den Ort besuche dessen Name oben im Titel des DLCs steht. Ich gebe zu das hat etwas gedauert aber ich brauchte ja auch erst einmal ein wenig Zeit um in die Dinge herein zu kommen. Gorgon ist natürlich kein richtiger Planet. Davon gibt es im gesamten System ziemlich wenige wenn man sich mal genauer anguckt. Auf der anderen Seite sind Dinge im Weltraum wirklich gewaltig, und auch ein kleiner Felsbrocken wie Gorgon kann, wenn man sich denn ein wenig Mühe gibt, richtig viele Dinge verstecken. Das ist höchstwahrscheinlich auch der Fall, aber vielleicht stellt sich am Ende aber auch heraus das es gar nicht soviel zu holen gibt und alles nur eine große Lüge war. Ich bin für den Moment aber ein wenig entsetzt das wir vorher noch nichts von Gorgon gehört haben, offensichtlich gibt es ziemlich viele Leute die dort waren.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```

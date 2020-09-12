@@ -614,3 +614,26 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #48
+
+* Titel: `Rise of the Tomb Raider - #48 - rote Laptops [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die roten Laptops stehen im Gulag rum in dem wir uns zwischendurch haben gefangen nehmen. Das war aber eher unschön und in der all der Verwirrung habe ich aber leider vergessen die gesamte Kommunikation des Gegners richtig zu stören. Klar ich habe mir da schon an anderer Stelle viel Mühe gegeben. Die roten Laptops bzw. Computereinrichtungen haben wir aber leider ein wenig ignoriert. Einige konnten im Kugelhagel noch zerstört werden aber halt nicht alle. Das holen wir heute nach. Generell bin ich aber ein wenig verwirrt bei der Menge an Ausrüstung die man hier her rausgetragen hat. Hat Trinity mit einem langen Einsatz gerechnet? Warum schleppt man soviel Zeug mit sich rum wenn alles was man vor hat ein schnelles Smash & Grab war. Aber wahrscheinlich konnte ja niemand ahnen das man direkt Leute befragen kann. Anderseits bringt man nicht tausende Söldner mit wenn man damit rechnet das man eine Forschungsexpedition startet. Irgendwie passt das hier alles nicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #49
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

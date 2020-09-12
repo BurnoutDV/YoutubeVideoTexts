@@ -877,3 +877,31 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #67
+
+* Titel: `Control - #67 - der Nagel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sicher kommen wir im Keller des ältesten Hauses an, hier ist es aber nicht so das hier die Leichen liegen (oder wenn sie es taten sind sie wohl in den Astralraum aufgegangen) sonder stattdessen hat es hier eine Menge Sand. Und den Nagel. Was genau der Nagel eigentlich ist ist nicht so richtig klar, der Rat erwähnt nur das es irgendwie das älteste Haus und vielleicht sogar die ganze Welt stabilisiert. Vielleicht ist es auch so etwas wie ein Korken der auf dem Astralraum steckt und die Welt wie wir sie kennen überhaupt erst ermöglicht. Wenn dem so sein sollte dann ist der Nagel schon wirklich lange da. Vielleicht aber ist die Bedrohung wie sie der Rat ausdrückt gar nicht so real und der Astralraum war eigentlich einmal Teil dieser Welt und stellt viel mehr ein Kontrollinstrument für den Rat da. Oder aber der Nagel ist eine Art Nexus, ein Ort des Zugangs für den Rat und alles was dahinter liegt. Wir können wohl davon ausgehen das das was wir sehen nicht wirklich das ist was der Nagel ist, eine Felssäule.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #68
+
+* Titel: `Control - #68 - Zerbrechliches [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - The Foundation
+  
+  Das Fundament des ältesten Hauses besteht aus einer Menge Sand, kleinen Brüchen direkt in den Astralraum und auch Steinen die unseren Weg blockieren. Technisch gesehen handelt es sich wohl um eine Höhle die bloß nicht so wirkt weil aus den unmöglichsten Stellen Licht ausbricht. Ich muss mich mittlerweile fragen ob das Licht das wir auch überall im ältesten Haus sehen nicht am Ende direkt Zugänge zum Astralraum sind oder zumindest Fenster dorthin. Wenn dem so ist so wissen wir immerhin das Bäume ziemlich gut unter dem Licht des Astralraumes gedeihen, wenn die Forschungsabteilung irgendein Indiz ist. Heute lernen wir wie man Teile des Fundaments kaputt macht, das meiste aber nur temporär, es stellt sich heraus das das älteste Haus dazu neigt fehlende Teile wieder nach zu bauen. Was es wohl zu bedeuten hat das das Fundament wesentlich organischer als das strukturierte Haus ist?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

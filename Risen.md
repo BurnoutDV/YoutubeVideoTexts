@@ -276,3 +276,29 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #22
+
+* Titel: `Risen - #22 - Leto die Stadtwache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen heute in die Stadt, dafür müssen wir nur noch an der Stadtwache vorbei. Es ist übrigens beeindruckend das die Wache draußen vor dem Tor steht. So wie es aussieht ist die Stadt aktuell mehr oder weniger ein Gefängnis für alle Menschen die darin sind. Eine gewisse Ökonomie hat sich scheinbar schon gebildet. Ich hätte also eher damit gerechnet das die Wachen nach innen gucken und eher nicht nach außen. Das wir tagelang vor dem Tor campieren müssen. Tatsächlich ist es aber so das eine Wache namens Leto einfach draußen vor dem Tor hockt und quasi auf uns wartet. Für nur einen geringen Obolus ist man sogar bereit uns rein zu lassen. Sehr beeindruckend. Nun ist die große Frage, wollen wir wirklich in die Stadt und uns auf wahrscheinlich sehr langer Zeit in Gefangenschaft begeben oder doch lieber noch noch eine Weile in der Wildnis bleiben? So oder so ist es eine Insel und wir werden wohl ohne fremde Hilfe eher schwierig davon kommen. Was ist eigentlich überhaupt unser Ziel? Was wollen wir? Einfach nur genügend Alkohol?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #23
+
+* Titel: `Risen - #23 - Stadtschnuppern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So, es ist soweit, wir sind in der Stadt und kommen so schnell auch nicht mehr heraus. So eine Stadt ist ein Ort der sich komplett von der Wildnis unterscheidet. Dort leben andere Wesen als die die wir in der Welt dort draußen getroffen haben.  Die meisten dieser Wesen sind übrigens Menschen was sie wahrscheinlich ein wenig unfreundlicher macht als es die restliche Wildnis gewesen wäre. Die Stadt funktioniert außerdem nach anderen Regen. Ohne größere Probleme könne wir uns nicht mehr einfach nehmen was wir wollen. Stattdessen müssen wir vorsichtiger sein, Ein Raubtier im Dschungel der Menschen. Übrigens weiß ich nicht so richtig welchen Namen die Hafenstadt eigentlich hat. Ich vermute niemand hat sich die Mühe gemacht ihn uns zu nennen. Seltsam oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

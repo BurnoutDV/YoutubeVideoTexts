@@ -630,10 +630,26 @@
 
 ##### #49
 
-* Titel: ``
+* Titel: `Rise of the Tomb Raider - #49 - der Atlas [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Nachdem ich eine Menge Zeit damit verbracht habe sinnlos durch die Gegend zu laufen geht es jetzt endlich mal mit der richtigen Geschichte weiter. Vorbei die Zeiten in denen ich irgendwelche Laptops zerschieße oder Hasen jagen gehe. Jetzt geht es ans eingemacht. Wir haben schließlich den Atlas erworben und mit dem können wir endlich schauen wo genau Kitesch eigentlich ist. Irgendwie habe ich vergessen das wir die Stadt zwischen durch schon mal gesehen haben. Wie auch immer das möglich war. Im Nachgang stellt sich dann übrigens die Frage warum wir uns es doch überhaupt so schwer gemacht haben. Anscheinend war der Atlas nie das Ziel, zumindest für uns. Offensichtlich hätten wir auch einfach die "Locals" fragen können und wir hätten die gleiche Antwort erhalten ohne unser Leben in irgendwelche lebensgefährlichen Ruinen zu gefährden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #50
+
+* Titel: `Rise of the Tomb Raider - #50 - Jonahs Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Grade haben wir unseren alten Kumpel Jonah gefunden da war er auch schon wieder weg, es ist fast so als wäre er uns davon geflogen. Das war ein wenig sehr ärgerlich, da wir aber sehr an Jonah hängen machen wir uns auf und suchen den Burschen. Schon wieder. Aber eigentlich ist ja auch ziemlich klar wo er rumhängt, schließlich haben wir aktuell nur einen einzelnen Erzfeind also kann man wohl annehmen das die Leute genau da gesammelt werden. Ich frage mich aber noch immer warum auf einmal die Truppen der Gegenseite auf die Idee kommen irgendwelche Leute zu entführen wenn man doch auch wesentlich einfach handeln könnte. Wie dem aber auch sei, dank seiner fülligen Größe fällt es uns leicht Jonahs Spuren im Unterholz auszumachen. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
   ```

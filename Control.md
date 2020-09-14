@@ -905,3 +905,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #69
+
+* Titel: `Control - #69 - Verstärkung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jesse ist ziemlich alleine da unten im Keller, nur sie und einige Vorräte die man wohl vergessen hat. Das ist übrigens ziemlich üblich für Keller. Der Sand den wir finden könnte man auch in anderen Häusern vermuten. Die großen luftigen Weiten und die scheinbar endlose Decke sind hingegen wohl nicht so ganz üblich für einen Keller. Aber davon muss man sich ja nicht aufhalten lassen. Dennoch wäre es schön wenn wir ein wenig Verstärkung erhalten würden, und das passiert dann natürlich auch. Wir haben Pope auf den Plan gerufen. Unsere Forschungsleiterin, ziemlich neu sogar. Irgendwie hat sie uns gehört, oder zumindest vermutet das wir sie brauchen. Und hier ist sie auch schon, Telepathie ist schon was Feines.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

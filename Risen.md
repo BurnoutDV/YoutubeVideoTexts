@@ -302,3 +302,16 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #24
+
+* Titel: `Risen - #24 - Stadtschätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So, wir sind jetzt in der Stadt und einen kurzen Rundgang haben wir dann auch hinter uns gebracht. Die übliche Taktik sieht jetzt vor alles mit zunehmen was offensichtlich keinen Besitzer hat und leicht zu stehlen ist. Daher machen wir das dann, die Stadt ist schließlich voller Schätze für einen skrupellosen Opportunisten mit Quicksavetaste. Im wahren Leben wäre es natürlich wesentlich schwieriger alles mit zunehmen was nicht niet- & nagelfest ist aber ich stehe dazu. Das Spiel ist tendenziell auch schon schwierig genug, und da es kein Karma gibt das wir verlieren können sehe ich auch wenig Grund nicht zu stehlen. Für weitere moralische Begründungen warum wir klauen können wie die Elster würde ich auch anführen das wir ja der designierte Held der Geschichte sind. Als solcher können wir natürlich alles mitnehmen, schließlich gilt es eine Welt zu retten. Und das geht nun mal nicht in Lumpen und ohne Schwert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

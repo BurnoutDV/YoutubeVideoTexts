@@ -181,3 +181,16 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
+
+##### #120
+
+* Titel: `Outer Worlds - #120 - [DLC1-#4] - der Sprat Verschlag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich übersetze gerne Namen. Das hat auch noch einen zusätzlichen Sinn, weil wenn ich die englischen Titel direkt übernehme kommen hier Angelsachsen an und meckern das sie nichts verstehen. Ich teile zwar gerne Kultur aber ich glaube nicht das das Ganze im Großen zielführend ist, und die Werbeeinnahmen von irgendwelchen Fehlklicken sind mir relativ egal. Im Gegenteil, die kurze Zuschauerzeit wäre eher abträglich. Das Sprat Shack wie es im Original heißt ist übrigens eine Bar Schrägstrich Warenhaus. Interessanterweise gab es wohl von Anfang an so etwas wie rudimentäre Sanitäranlagen. Außerdem wird das Gebäude von einem Sprat auf der Groundbreaker besessen. Dieser könnte schon lange gegessen worden sein. Es gibt keine Möglichkeit herauszufinden ob das nicht schon passiert ist. Toll oder?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```

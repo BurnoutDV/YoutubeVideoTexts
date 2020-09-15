@@ -918,3 +918,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #70
+
+* Titel: `Control - #70 - astrale Zwischenzone [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das der Keller des ältesten Hauses nicht immer so aussah wie er jetzt grade aussieht. Insbesondere die offensichtlichen Löcher in der Infrastruktur sind eher nachteilig und so nicht gedacht. Generell fragt man sich doch was passiert wenn man im freien Fall in die Astralebene fällt. Jesse stirbt einfach und wir laden neu, aber was würden einen anderen Menschen passieren? Endloser Fall bis man verhungert, ist das der Grund warum die meisten Astralwesen fliegen können? Gibt es da einen Trick, Menschen sind hier offensichtlich nicht heimisch aber andere Wesen sind es. Können Menschen sich hier anpassen? Irgendwie? Wahrscheinlich aber nicht im freien Fall, daher wäre es wohl ganz klug den Verfall des ältesten Hauses für den Moment ein wenig zu verlangsamen und sich stattdessen anderen Dingen zu widmen. Wie zum Beispiel dem Zischen oben, sobald das hier alles stabilisiert ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

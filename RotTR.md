@@ -653,3 +653,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #51
+
+* Titel: `Rise of the Tomb Raider - #51 - Wetterstation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen vorran, so wie wir es immer tun wenn wir ein Ziel haben. Unser Ziel ist Jonah, der wird immer noch vermisst, zumindest von uns und wir wollen ihn wieder haben. Ärgerlicherweise oder vielleicht auch glücklicherweise haben sich die bösen Buden in einer örtlichen Wetterstation festgesetzt. Die sieht zwar eigentlich mehr aus wie eine Radarstation aber was weiß ich schon über russische Militäreinrichtungen. Generell wäre wohl eine Wetterstation in Sibirien angebrachter als eine Radarstation, weil wenn man feindliche Fahrzeuge mitten im Inland erst findet sollte man sich wahrscheinlich eher fragen was genau an der Küste und der eigentlichen Grenze los war. Immerhin sieht die Anlage ziemlich beeindruckend aus. Mich wundert übrigens das die Verbliebenen nicht versucht haben alle Spuren der Soviets Stück für Stück zu beseitigen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

@@ -315,3 +315,16 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #25
+
+* Titel: `Risen - #25 - Stadtbewohner [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja wir sind immer noch in der Stadt und ja ich habe auch diese Episode nach Stadt-irgendwas benannt. Das liegt einfach daran das wir halt in der Stadt sind und das wird auch noch eine Weile so andauern. Heute liegen die Bewohner im Fokus, nicht viel mehr als in den letzten Episoden aber vorher habe ich mir halt eher ihren Reichtum und die Architektur angeschaut. Jetzt ist es an der Zeit das wir uns auch mal mit den Menschen selbst auseinander setzten. Und da gibt es Einiges zu sehen. Es fällt vor allen Dingen auf das es nicht besonders viele reiche oder ansonsten gut gestellte Leute gibt, zumindest habe ich keine gefunden. Dafür gibt es eine wahrlich gewaltige Anzahl an reichen Menschen. Aber wohl nicht genügend um heute schon die Revolution zu proben. Nun gut, versuchen wir den armen Leuten erst einmal ein wenig zu helfen und dann sehen wir weiter, ich hoffe das können die auch ohne ihre Habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

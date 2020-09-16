@@ -931,3 +931,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #71
+
+* Titel: `Control - #71 - externe Hilfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Rat ist nicht allwissend, er hat tatsächlich einfach nur einen Informationsvorsprung den er auch nicht füllen möchte. Die gesamte Art der Regierung des Rates ist von oben herab, das wird auch durch die schwebende Pyramide deutlich die auf uns herunterschaut. Wir erhalten daher auch nicht immer alle Ausrüstung die wir benötigen um ein leichtes Leben zu haben, stattdessen gibt man uns nur das was man denkt was gebraucht wird. Interessant wäre jetzt also die Frage ob der Rat etwas aufgeben muss wenn er uns etwas gibt oder ob es wirklich nur um stumpfen Machterhalt geht. Wie dem aber auch sei, es gibt auch noch andere Fraktionen die bereit sind uns Macht zu geben. Namentlich ist das der Gestalter, warum der uns auf einmal helfen möchte und uns sogar scheinbar freundlich gegenüber steht ist mir ehrlich gesagt ein Rätsel. Neulich war er noch ziemlich unerfreut über unsere Anwesenheit, war das nur ein Test im Kühlschrank?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```

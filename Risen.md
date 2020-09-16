@@ -328,3 +328,16 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #26
+
+* Titel: `Risen - #26 - Belschwurs Milde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht alle Leute in der Hafenstadt sind arm, offensichtlich gibt es da auch noch die Stadtwache und die anwesenden "Weißen" die dafür sorgen das alle anderen Leute arm bleiben. Was mir nicht so ganz klar ist wem genau die Wachen beschützen. Klar es gibt da ein paar Händler die wohl ein paar Moneten haben, aber nach Reichtum sieht das auch nicht direkt aus. Neben den ganzen Armen, dem Mittelstand und den Wachen gibt es aber noch jemanden. Den Vertreter der Magier in der Stadt, namentlich Meister Belschwur. Der kümmert sich um die Armen und Schwachen und sorgt dafür das es den Menschen ein wenig besser geht, aber nicht viel. Da er aber der Einzige ist der sich den Probleme der ärmeren Bevölkerung annimmt müssen wir ihm das wohl hoch anrechnen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

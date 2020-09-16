@@ -666,3 +666,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #52
+
+* Titel: `Rise of the Tomb Raider - #52 - Münzschätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bis her fand ich die Preisen im Schwarzmarkt immer ziemlich hoch, der gute Mann verlangt ein halbes Vermögen für irgendwelche Dinge die er bestimmt nur schnell beim vorbei gehen geklaut hat. Einige seiner Ausrüstungsgegenstände, wie zum Beispiel der Laserpointer hat er wahrscheinlich sogar hochoffiziell erhalten. Und doch verlangt er dafür ein ziemliches Vermögen. Zum Glück finden wir heute einige unwahrscheinlich wertvolle Münzen die wir in der Erde finden. Jede einzelne wahrscheinlich ein Kulturschatz von außerordentlicher Wichtigkeit die weit über die bloßen Materialwert hinausgeht. Lara gibt sie einer Person die sie mit hoher Wahrscheinlichkeit einfach einschmelzen wird und so ein Stück Geschichte für alle Zeit vernichten wird. Großartige Archäologie von Frau Croft an der Stelle.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

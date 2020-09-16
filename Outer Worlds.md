@@ -194,3 +194,16 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
+
+##### #121
+
+* Titel: `Outer Worlds - #121 - [DLC1-#5] - augenscheinliche Hinweise [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere investigative Ermittlung trägt nun endlich Früchte. Die Unterhaltung an der bar war zwar nett hat uns aber letztendlich nur wenig weitergebracht. So wie es aber aussieht ist das gar nicht so schlimm weil die Plünderer und Wrackwiederverwerter von Sublight anscheinend Zurückhaltung bei der Durchsuchung von Zimmern gelernt haben. Daher finden wir heute eine erstaunliche Menge an Hinweisen im Zimmer des verstorbenen Lucky. Das ist praktisch für uns, man stelle sich vor wir hätten hier die Laufarbeit machen müssen und erst einmal die Grundlagen erforschen müssen. Das hätte uns ziemlich viel Zeit gekostet und eigentlich wollen wir doch Aktion sehen, und nicht stundenlang in irgendwelchen Archiven graben. Obwohl ich mich schon frage ob es nicht einfacher gewesen wäre einfach die Spacers Choice Zentrale zu überfallen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```

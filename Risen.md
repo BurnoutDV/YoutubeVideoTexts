@@ -341,3 +341,29 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #27
+
+* Titel: `Risen - #27 - Stadtecken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sich gehen mir die Kombinationen mit dem Wort Stadt aus. Wir erkunden jetzt die  Ecken. Ein Wort das mich als Kind immer ein wenig verwirrt hat. Weil eigentlich geht es gar nicht um die eigentlichen Ecken, diesen spitzen Dingern an oder außerhalb von Gebäuden. Viel mehr sind damit ganze Regionen die nicht einmal spitz sind gemeint. Also gar keine echten Ecken. Warum man sie dann so nennt ergibt sich mir einfach nicht. Sprache ist sehr komisch. Vielleicht bin ich aber auch einfach nur ein Alien und weiß es nicht. Wie dem aber auch sei, wir gucken uns heute jene Ecken an. Ansonsten passiert aber nicht all zuviel. Wir tun Dinge, reden mit Leuten und so weiter und so fort. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #28
+
+* Titel: `Risen - #28 - Lukors Lagerhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gleich vorneweg, das Lagerhaus gehört gar nicht Lukor, viel mehr steht es eigentlich den Weißen zu, weil die sind die rechtmäßigen Herren der Stadt. Aber das wissen wir ja eigentlich schon, dennoch ist nicht von der Hand zu weißen das wir uns mit Kriminellen an jeder Ecke einlassen. Wir reden zwar auch mit den sogenannten Gerechten und Gesetzeshüter der Stadt aber von allem was ich so gesehen habe sind sich beide Gruppe was ihre Moral angeht sehr ähnlich. Die ganze Erpressungsschiene sieht zwar auf den ersten Blick ziemlich übel aus und auf einer globalen Sicht ist es moralisch wahrscheinlich relativ schwer zu verteidigen. Aber im Vergleich zu den Weißen ist es nicht besser. Die Konfeszieren dann halt einfach die Ware und behaupten es sei für etwas Gutes ohne irgendwelche Beweise bringen zu können oder der Gesellschaft  einen Nutzen. Im Großen und Ganzen halte ich beide Gruppierungen für Verbrecher, die einen bemühen sich nur um bessere Publicity. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

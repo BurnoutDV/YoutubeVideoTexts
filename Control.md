@@ -944,3 +944,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot.
   ```
+
+##### #72
+
+* Titel: `Control - #72 - eingestürzte Abteilung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im ältesten Haus zu arbeiten ist definitiv nicht ganz ungefährlich, heute landen wir zum Beispiel in der eingestürzten Abteilung. Es handelt sich um einen Teil der Sicherheit der jetzt weit unter dem ältesten Haus ist. Dieser Teil des Hauses war bereits vorher relativ nahe am "Boden" zumindest erkläre ich mir so das die "unteren" Abteilungen wesentlich mehr Platz haben als die oberen. Zwar ist die Forschung immer noch relativ groß aber dennoch kleiner als die gewaltigen Räume die wir woanders sehen. Die Geschäftsleitung ist sogar noch kleiner, ein paar Flure, ein wenig Poststelle und das war es dann auch schon. Wenn man weiter unten lebt läuft man aber anscheinend auch in die Gefahr sich plötzlich im Keller zu befinden bzw. unter dem ältesten Haus. Das wirkt außerordentlich unschön wenn man darüber nachdenkt, insbesondere wenn man nicht so leicht mehr raus kommt. Jetzt frage ich mich wie die andere Seite aussieht, da wo die Zugänge waren zu dieser Abteilung, ist da jetzt einfach nur noch eine Wand?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot.
+  ```
+
+##### #73
+
+* Titel: `Control - #73 [DLC1-#8] - vertikales Büro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Büros sehen im Großen und Ganzen ziemlich ähnlich aus, wenn man genügend hohen Rang besitzt hat man das Büro immerhin für sich alleine, alle anderen müssen sich den Platz teilen. Manchmal kann man aber zumindest am Arrangement der Tische ein wenig etwas ändern. Mein persönliches Büro ist ein wenig chaotisch und von mir selten besucht, allerdings haben ich einen Treppenaufgang im Nebenzimmer den ich gerne nutze um ein wenig spazieren zu gehen und auf andere Gedanken zu kommen. Anscheinend hat man hier ähnliche Gedanken gehabt und ein Büro quasi vertikal gebaut. Das ist auf jeden Fall eine innovative Idee aber ich ahne das es endet wie ein Hochbett. Am Anfang ist es noch ganz witzig, wenn man dann aber nachts wach liegt und auf Toilette möchte ist es echt anstrengend noch einmal runter zu klettern nur für diese eine kleine Reise. Und dann nervt es. Im Büro wahrscheinlich erst recht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```

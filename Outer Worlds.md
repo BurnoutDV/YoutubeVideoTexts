@@ -207,3 +207,26 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
+
+##### #122
+
+* Titel: `Outer Worlds - #122 - [DLC1-#6] - Gorgons Plünderer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt haben wir wirklich viel Zeit damit verbracht mit den vernüftigen Leute auf Gorgon zu reden, es wird also notwendig auch mal den Rest zu beleuchten. Einfach schon für die Fairness der ganzen Geschichte. Prinzipiell ist es auch ziemlich einfach das zu tun, wir müssen nur die Bar verlassen und quasi jeder andere Ort ist voll mit Irren. Fast schon zu einfach, die erste Reaktion auf die Irren ist dann auch natürlich sie über den Haufen zu schießen. Es ist aber auch nicht wirklich so das wir eine Wahl hätten. Wir könnten ja stattdessen vorbeischleichen aber soviele Fauna hat der Asteroid leider nicht zu bieten. Von daher bleibt dann wohl nur wieder die Waffengewalt. Verspüren wir dabei Reue? Wahrscheinlich nicht.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #123
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

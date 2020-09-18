@@ -679,3 +679,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #53
+
+* Titel: `Rise of the Tomb Raider - #53 - das Orrery [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Orrery ist so ein Planetenmodel, das sehen wir heute auch noch, übrigens ist es auch der einzige Weg der uns scheinbar nach Kitesh führt. Wirklich beeindruckend wenn man bedenkt das die Stadt irgendwann mal offen rumlag. Wie dem aber auch sei, bevor wir dort ankommen müssen wir wohl ein paar Rätsel lösen, das kann gar nicht so einfach sein, wäre es leicht wäre ja gar keine Herausforderung dabei. Ich frage mich aber immer wieder ob Lara irgendwo in Japan ihren Sinn für Höhenangst komplett verloren hat. Ob es all der Schrecken war der jeden Sinn für Gefahr in ihr ausgelöscht hat und sie jetzt einfach nur noch reagiert? Wenn man davon ausgeht das alle Episoden in denen sie nicht stirbt Kanon sind hat sie viel Glück. Heute alleine hat sie richtig dolle viel Glück. Quasi unfassbar viel.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #54
+
+* Titel: `Rise of the Tomb Raider - #54 - Kiteshs Zugang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist soweit wir haben uns weit genug vorgeschlagen das wir jetzt endlich an der Tür zu Kitesh stehen, der legendären Stadt der Jünger des Propheten. wir wissen übrigens immer noch nicht welche Prophezeiungen der Prophet eigentlich von sich gelassen hat. Er wird zwar immer so genannt und die Leute meinen sie sind ihm gefolgt weil er so ein großer Mann ist, aber ansonsten haben wir wenig davon gesehen das es da tatsächlich etwas von Substanz gab. Interessant ist übrigens auch wie ein gewaltiger komplex wie Kitesh unter einem Gletscher aufbewahrt werden konnte. Alleine die Decke ist gewaltig, das erklärt aber immerhin warum die Stadt nicht schon früher von Satelliten gefunden wurde. Ich habe dann spontan auch noch die Theorie das der Prophet vielleicht nur angedeutet hat das er Prophezeiungen zu einem späteren Zeitpunkt hat und das ist nur einfach nicht passiert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

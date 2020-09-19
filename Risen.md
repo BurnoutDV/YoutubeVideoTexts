@@ -367,3 +367,16 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #29
+
+* Titel: `Risen - #29 - Fleischhandel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine kleine Insel kann durchaus in ein Versorgungsproblem laufen. Ich würde vermuten das auf der Insel Faranga nur die wenigsten Sachen selbst hergestellt werden können. Metall ist wahrscheinlich Mangelware, obwohl wir bisher schon Erzadern gefunden haben. Aber klassischerweise gibt es nur wenig Eisen. Selbst wenn es davon genug gibt könnte simples Holz oder andere Baumaterialen nicht in der Qualität zur Verfügung stehen wie man sie für eine Moderne Siedlung braucht. Und dann ist da noch die Versorgungsfrage. Menschen müssen dauerhaft essen, eine ganze Menge. Da kommt Einiges zusammen, wer das Fleisch hat hat die Macht. Das weiß auch Flavio der Fleischhändler. Wir steigen heute in das Fleischgeschäft ein und schauen welche Profite hier auf uns lauern. Es wird gewiss großartig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

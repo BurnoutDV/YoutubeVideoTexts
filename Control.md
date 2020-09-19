@@ -970,3 +970,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot. The Foundation DLC
   ```
+
+##### #74
+
+* Titel: `Control - #74 [DLC1-#9] - Swift Camera [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist etwas Besonderes. Wir fangen ein weiteres Objekt der Macht das scheinbar einen gewissen Effekt auf Jesse hat. Die meisten anderen Objekte ziehen sie zwar in den Astralraum scheinen aber nicht besonders gut darin zu sein das zu tun was mit normalen Menschen passiert. Manche Objekte sorgen dafür das Leute erstarren oder vergessen was sie tun. Hier ist es nun endlich genau so, Jesse "leidet" unter dem Effekt der Filmkamera. Die hat übrigens tatsächlich praktischen Wert, sie dreht die Filme die die Personen in ihrem Einfluss sehen und die Filme sind dann keine gewandelten Objekte, können also für den normalen Gebrauch benutzt werden. Das Gerücht geht um das dies bereits passiert ist. Das würde auch die schlechte Filmmusik erklären. Groovy.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```

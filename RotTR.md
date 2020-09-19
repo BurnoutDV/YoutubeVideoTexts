@@ -705,3 +705,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #55
+
+* Titel: `Rise of the Tomb Raider - #55 - Kitesh [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben es geschafft, wir haben die legendäre Stadt Kitesh gefunden. Leider ist von der einstigen Glorie nicht mehr all zu viel übrig. Viel mehr wurde die gesamte Stadt von einer gewaltigen Eisscholle überrollt und hat dann aber irgendwie eine Eisdecke erhalten. Mir ist aber ehrlich gesagt ein Rätsel wie genau sich diese gewaltige Dachkonstruktion erhalten hat. Wie dem aber auch sei, das was erhalten ist sieht noch ziemlich gut aus, eine gute Archäologin könnte hier also eine Menge Informationen herausholen. Ich bin mir sicher sobald Lara wieder in die Empfangsreichweite von Sam oder irgendeinen anderen Kollegen kommt könnten die her kommen und hier ernsthafte Ausgrabungen betreiben. Ich ahne aber das am Ende unserer Reise von Kitesh absolut nichts mehr übrigen sein wird.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

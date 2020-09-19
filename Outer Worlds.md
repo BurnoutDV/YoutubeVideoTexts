@@ -223,10 +223,26 @@
 
 ##### #123
 
-* Titel: ``
+* Titel: `Outer Worlds - #123 - [DLC1-#7] - Büro für kreative Inkubation [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  All das Morden von wahrscheinlich ziemlich schuldigen Plünderern war übrigens nicht umsonst, wir erreichen heute das Büro für kreative Inkubation, dank eines Augapfels von Clarence Mostly. Wer er genau war kann ich nicht sagen, nur das der Mann nicht direkt bei Spacers Choice gearbeitet hat, das würde auch erklären warum er in den Memos die wir heute finden vernüftiger wirkt als der Rest. Ich bin mir übrigens immer noch unsicher ob alle Mitarbeiter von Spacers Choice einfach dauerhaft mit Adrenatime zugedröhnt sind oder ob das Aufwachsen in der Kolonie dazu führt das die Leute werden wie sie geworden sind. So oder so, der Firmenslogan wird sein übrigens getan haben. Letztendlich sind die anderen Konzerne aber auch nicht besser, manchmal frage ich mich warum Halcyon überhaupt noch existiert.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #124
+
+* Titel: `Outer Worlds - #124 - [DLC1-#8] - kreatives Trinken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach meiner Erfahrung ist Alkohol nicht das beste Mittel wenn es um kreative Ideen geht. Es ist natürlich gesellschaftlich angesehener aber unter dem Einfluss von Alkohol wirft man halt weniger schnell schlechte Idee weg und erkundet den Weg weiter. Dabei kommt dann auch eine Menge Unsinn herum der nicht unbedingt produktiv ist. Die gute Nachricht ist aber das das BKI bereits eine absolute Iditotenversammlung war und man wahrscheinlich eh nur eine gute Ausrede gesucht hat während der Arbeitszeit zu trinken. Ich bin mir nicht sicher wie andere Drogen bei der Findung von neuen Ideen helfen aber ich würde extrapolieren das Alkohol relativ weit unten in der Rangliste der helfenden Mittel rangiert.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
   ```

@@ -983,3 +983,42 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot. The Foundation DLC
   ```
+
+##### #75
+
+* Titel: `Control - #75 [DLC1-#10] - Baumform [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir finden im Keller des ältesten Hauses eine Menge Hinweise darauf wo das Haus selbst eigentlich her kommt. Wie es in die Existenz geglaubt wurde. Zumindest ist das meine aktuelle Theorie, das erscheint mir zumindest am Schlüssigsten. Genügend Leute glauben an etwas und schon entsteht ein gewandeltes Objekt oder ein AWE. Warum nicht auch ein gewandeltes Haus das eine direkten Rat an Persönlichkeit hat, vielleicht ist der Rat auch ein parasitäres Lebewesen das ein örtlich begrenztes AWE als Wirt benutzt und wir merken es noch nicht einmal. Wie dem auch sei, früher war es wahrscheinlich einmal ein wirklich großer Baum.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #76
+
+* Titel: `Control - #76 [DLC1-#11] - Popes Sammlung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Emilie Pope ist eine etwas seltsame Person. Das wissen wir bereits. Wie sonst hätte sie die rechte Hand von Dr. Darling werden können. Ich bin mir übrigens nicht ganz sicher ob die Gute nicht noch andere finstere Motive hat die wir einfach noch nicht gesehen haben weil die aktuelle Kriese nicht zulässt das sie so agiert wie sie es gerne hätte. Wie dem aber auch sei, heute sammelt Pope Dinge. Ausweise um genau zu sein. Die Ausweise ehemaliger Mitarbeiter, nicht ehemalig weil sie sich etwas verbrochen haben sondern einfach weil es schon so lange her ist das sie entweder einen Arbeitsunfall hatten oder schon vor langer Zeit in Rente gegangen sind und all die Ereignisse vom ältesten Haus unter einer dicken Schicht Vergessen begraben haben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #77
+
+* Titel: `Control - #77 [DLC1-#12] - Kellerlabor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Enden sind immer schwierig im Leben. Das trifft nicht nur auf Konzepte, Ideen oder Projekte zu, sondern auch auf physische Manifestationen. Zum Beispiel von Gegenständen, insbesondere die Ecken sind immer ein Angriffspunkt für Korrosion oder Abnutzung. Wenn man weiter gehen will findet man die Schlimmsten Dinge am Anfang und Ende von Gebäuden. Oben werden die moralfreien Dinge entschieden, im Keller die Leichen aufbewahrt, Experimente durchgeführt oder einfach nur der Abfall abgestellt. Wahrscheinlich gibt es dann auch noch jede Menge mundane Verbrechen auf den Zwischenetagen, Sachbearbeiter die einfach Dinge übersehen weil sie sich keine Arbeit machen wollen. Wissenschaftler die nicht komplett nach allen Regeln arbeiten, aber wenn man die großen Missetaten sucht, dann hat man im Keller oder in der oberen Etage am meisten "Glück". Die Zwischenstufen wahllos abarbeiten kann man immer noch. Da wir bereits im Keller sind liegt es nahe noch mehr den Keller zu erkunden. Wir finden dort ein Labor mit Dingen die wir nicht interpretieren können. Nicht der größte Erfolg, aber immerhin haben wir dunkle Dinge gefunden. Zum Beispiel das mentale Überbleibseil von Gibbs, der Agentin die im versunkenen Sektor verloren ging. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```

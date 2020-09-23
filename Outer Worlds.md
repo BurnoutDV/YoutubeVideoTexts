@@ -246,3 +246,42 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
+
+##### #125
+
+* Titel: `Outer Worlds - #125 - [DLC1-#9] - Kartographien der Hoffnung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute lernen wir ein neues Fachwort des Euphemismus: Kartographie der Hoffnung. Wir werden von Spacers Choice eher nicht hören was direkt existiert oder was genau Phase ist. Generell und überhaupt habe ich das Gefühl das im BKI eher selten über Dinge gesprochen werden die mit der Realität überhaupt etwas zu tun haben. Ich frage mich übrigens wirklich wie eine Firma wie Spacers Choice überhaupt länger als nur ein paar Jahre existieren konnte. Das ganze Wirtschaftsprinzip der Firma scheint ja darin zu bestehen billige Dinge herzustellen, warum also genau erforscht man dann also auch Dinge? Neue Dinge zu  erfinden erscheint mir doch ein wenig sinnlos wenn man keine Kapazitäten dafür hat überhaupt billige Dinge gut herzustellen. 
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #126
+
+* Titel: `Outer Worlds - #126 - [DLC1-#10] - Spaziergang auf Gorgon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind raus aus dem BKI und das war wirklich harte Arbeit. Daher beginnen wir heute einen kleine Spaziergang auf der Oberfläche des Asteroiden um zu erkunden und zu schauen was es noch so schönes gibt. Zuerst müssen wir aber eine Art Sendezentrale finden weil wir ja auch in das nächste Gebäude hinein wollen, und das geht halt nur wenn wir das Entschlüsselungssignal schicken. Dafür das die gesamte Spacers Choice Forschung anscheinend den Bach runtergegangen ist funktioniert der Teil der verhindert das wir auch nur ein Gebäude betreten können noch ziemlich gut. Diese Stufe an Desasterfortsetzungserfolg ist eigentlich ziemlich ungewöhnlich für irgendwas das in Halcyon gebaut wurde. Ich weiß nicht ob ich das gut finde.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #127
+
+* Titel: `Outer Worlds - #127 - [DLC1-#11] - Jeromes Tagebuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen vorran. Irgendwie, allerdings nicht in unserer eigentlich Aufgabe die darin besteht das Tagebuch der Chefwissenschaftlerin zu finden. Immerhin finden wir aber das Tagebuch eines Kerls namens Jerome. Der gute hat anscheinend relativ lange überlebt und hätte das vielleicht sogar noch länger getan wenn wir ihn nicht erschossen haben. Sicher sagen kann man das nicht, wir erschießen oft eine Menge von Leute, es ist nicht sicher ob dabei eine bestimmte Person war. Die meisten Marauder sind für uns gesichtslose Schläger die viel zu viele Kugel aushalten bis sie umkippen. So oder so haben wir aber immerhin was wir suchen wollte, den Flachmann mit Gravur, ein Wunder das er all die Zeit so einfach überstanden hat.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```

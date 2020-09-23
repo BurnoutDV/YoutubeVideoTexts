@@ -380,3 +380,52 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #30
+
+* Titel: `Risen - #30 - Bordellschläger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich normalerweise im Bordell schlägt ist das keine gute Idee. Soweit ich das  verstanden habe besitzen die meisten Freudenhäuser eine größere Anzahl an kräftigen Wächtern. Wenn ich das richtig verstanden habe ist das auch der Grund warum man als Hure in einem Bordell arbeitet. Das Haus bietet eine gewisse Menge an Sicherheit vor über griffigen Freiern und das kostet dann halt einen Teil der Einnahmen. Außerdem hat man wohl so etwas wie einen Rückzugsort der für alle beteiligten Fraktionen vorteilhaft ist. Der Nachteil besteht dann wohl darin das so ein Ort auch schnell ein Gefängnis werden kann. Aber letztendlich vermute ich das alles nur. Heute schlägt sich der unbekannte Held auf jeden Fall in einem Bordell, und dafür erhalten wir sogar noch Applaus. Das ist doch schon ein mal was oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #31
+
+* Titel: `Risen - #31 - Händlerviertel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ihn doch! Den Abschnitt in der Stadt wo die reichen Säcke leben und wegen denen die Stadt eigentlich existiert. In so einer Stadt leben in der Regel Menschen die nicht mehr direkt an der Erstellung von Rohstoffen beteiligt sind. Natürlich gibt es da auch Handwerker wie den Fleischer aber auch eine Klasse von Verwaltern ist anwesend. Inwiefern diese Verwalter gebraucht werden gibt es eigentlich keine Frage, ab einer bestimmten Größe benötigt jedes System ein paar Leute die sich um solche Dinge kümmern, und das nicht nur nebenbei sondern als einzigen Lebensinhalt. Interessant wird es aber wenn es um die Frage geht wie viele dieser Personen eine Gesellschaft wirklich braucht und warum man ihre Position schützen sollte. Verwaltung ist kein exaktes Geschäft, die genaue Leistung ist nicht mehr direkt messbar, und was ist mit den Verwaltern der Verwaltung? Wie viele Zwischenetagen braucht es, wann hat ein System einen so gewaltigen Wasserkopf das man ernsthaft darüber nachdenken muss Leute aus der Verwaltung zu entfernen? Soweit sind wir noch nicht, aber dennoch Dinge die man im Hinterkopf haben sollte. Und Dinge die mir spontan einfallen wenn ich ein Händlerviertel sehe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #32
+
+* Titel: `Risen - #32 - Schmiedearbeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist scheinbar nicht möglich Waffen zu kaufen die der geforderten Qualität für einen herumreisenden Helden entsprechen. Das ist wahrlich bedauerlich, zum Einen weiß unser "Held" noch gar nicht das er der Held dieser Geschichte ist und zum Anderen widerspricht das sehr meiner Vorstellung. Eigentlich sollte es so laufen: Mit genügend Geldmitteln ist es uns möglich Fähigkeiten die langwierig zu erlernen sind zu substitiuieren und stattdessen bezahlen wir halt eine Fachperson die die Arbeiten für uns erledigt. Stichwort: Handwerker. Ich habe keine Ahnung von Sanitär und verfüge dennoch über ein Bad. Weil findige Handwerker ihre Fähigkeiten feil bieten. In der Welt von Risen und insbesondere auf der Insel Faranga scheint das aber noch nicht an gekommen zu sein. Außerdem scheinen die Schmiedeerzeugnisse die Walter herstellt von so hohem Wert zu sein das eine weitere Person davon gut leben kann. Mir ist absolut schleierhaft wie es soweit kommen konnte. Soviel Durchsatz kann ein Schmied unmöglich haben das eine weitere Person zum Verkauf der Waren notwendig ist. Ich wittere hier einen Parasiten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #33
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

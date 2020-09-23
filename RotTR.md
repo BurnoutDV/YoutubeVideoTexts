@@ -718,3 +718,42 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #56
+
+* Titel: `Rise of the Tomb Raider - #56 - Exorxismuskammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Den Teufel aus jemanden heraus zu treiben ist nicht ganz so einfach, insbesondere wenn man sich ziemlich sicher sein kann das so etwas wie Besessenheit eher nichts reales ist sondern nur Symptome eines ganz anderen Problems darstellt. Das ist problematisch, die Nichtexistenz des großen Widersachers ist keine Option und die naheliegendste Erklärung für das seltsame Verhalten einiger Menschen. Das Verändern dieser Interpretation ist aber ohne größeren Aufwand quasi nicht möglich. Feuer hat die Schönheit das es das Problem für eine überwiegende Mehrheit der Leute löst, quasi sogar für alle Leute, außer der betroffenen Person selbst. Die ist aber eine Minderheit, in sofern ist die Reinigung mit Feuer quasi eine Basisdemokratische Lösung. Das ist echter Fortschritt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #57
+
+* Titel: `Rise of the Tomb Raider - #57 - das Katapult [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Stadt Kitesh wurde ziemlich vollständig von Eis überrollt. Übrig geblieben sind einige Gebäude die noch hinreichend gut erhalten sind und eine gewaltige Kuppel die die ganze Stadt bedeckt so das man sie auf keine Fall von oben, wie zum Beispiel aus dem Weltall sehen kann. Außerdem erhalten sind mehre Mittelalterliche Katapulte die offenbar dafür gedient haben etwaige Angreifer abzuwehren. Glücklicherweise waren die Baumeister ein wenig übereifrig und mann kann die Gerät vollständig drehen so das auch die eigenen Mauern damit eingerissen werden können. Das ist sehr praktisch für uns, dadurch kriegen wir die Tore auf die uns ansonsten bis auf alle Zeiten den Eingang versperrt hätten. Das wäre sehr tragisch gewesen, besonders weil Trinity sich sicherlich durchgesprengt hätte. Dennoch, als Archäologin hat Lara wieder einmal versagt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #58
+
+* Titel: `Rise of the Tomb Raider - #58 - das zweite Tor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir das erste Tor überwunden haben überrascht es wahrscheinlich niemanden das es auch ein zweites Tor gibt. Daher überwinden wir jetzt natürlich auch das Zweite. Oder würden wir wenn wir Zugriff auf ein weiteres Katapult hätten. Das haben wir natürlich nicht, aber in der Entfernung ist eines zu erkennen. Und wie es der Zufall will so ist auch dieses auf die Tore der Stadt ausrichtbar. Das ist doch schon einmal praktisch oder? So kommen wir definitiv weiter, ich frage mich nur ob das aus einer Verteidigungsstrategie entwachsen ist oder einfach nur das Ergebnis eines universellen Design gewesen ist? Wie dem aber auch, erst einmal müssen wir bis zu den Katapulten auch kommen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

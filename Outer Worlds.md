@@ -285,3 +285,29 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
+
+##### #128
+
+* Titel: `Outer Worlds - #128 - [DLC1-#12] - Mustgrave Sammlung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Byzantinium ist eine Parallelwelt, das ist klar. Aber der Grad wie die Bewohner der Stadt von der Realität losgelöst sind ist erstaunlich. Ich frage mich übrigens wann genau die Stadtbewohner echte Arbeit leisten. Sie gehen zu Messen, Ausstellungen und tun reiche Leute Dinge. Und diese Messen werden von anderen reichen Leuten geleitet, das heißt das irgendjemand doch echte Arbeit leisten muss. Klar, bestimmte Tätigkeiten werden von Robotern erledigt und ein paar niedere Schreiberlinge gibt es auch in der Verwaltung, und doch...Höflinge am Hofe eines Königs spielen die Spiele der Macht auf Bällen, Festessen und so weiter, und doch ist dies in sich selbst eine Arbeit. Die eigene Repräsentation muss gehalten werden, Gerüchte gestreut, Informanten geschmiert werden. Das alles ist gewissermaßen Arbeit, zwar mehr in einem Meta-Sinn aber dennoch eine Tätigkeit die ich beobachten könnten. Aber alles was die Leute von Byzantium tun scheint mir herumstehen zu sein. Manchmal wünschte ich, wir wären nie an diesem verfluchten Ort angekommen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #129
+
+* Titel: `Outer Worlds - #129 - [DLC1-#13] - Clarence Mostly [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal ist es besser wenn man nicht seine Helden trifft. Wenn ich so darüber nachdenke dann ist es eigentlich immer besser nicht seine Helden zu treffen. Das Ideal einer Person ist nicht zu erreichen. Als entfernte Person die der Jugend als Führung dient kann ein Held gut daher halten. Aber der Held bzw. die Heldin ist nie ein Mensch. Es handelt sich um ein Konzept, ein Traum, eine Parallelwelt in der die Menschen aufrecht und gerecht sind. Clarence Mostly war nie ein Held, dennoch hielt ich ihn, basierend auf seine Nachrichten für einen anständigen Menschen im Kontext der Halcyon Kolonie. Ich lag falsch, natürlich ist er kein netter Mensch, und natürlich kann man ihm nicht wirklich trauen. Clarence Mostly ist ein ein-äugiger Bastard der genauso schlimm wie alle anderen Leute in Byzantinium ist, er ist bloß nicht so schlimm wie Spacers Choice.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```

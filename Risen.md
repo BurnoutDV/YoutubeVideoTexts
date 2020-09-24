@@ -422,10 +422,26 @@
 
 ##### #33
 
-* Titel: ``
+* Titel: `Risen - #33 - das Haus des Don [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Heute betreten wir, ein wenig überraschend für mich, das Haus des Dons. Wirklich, das überrascht mich sehr. Ich hätte nicht gedacht das wir in so ein wichtiges Gebäude ohne  größere Probleme kommen. Wie dem aber auch sei wir sind drin und treffen auch den örtlichen Gefangenen. Einen Mann namens Olf, wir haben bereits von ihm gehört, er ist Schatzsucher und besitzt scheinbar eine unersetzlich wertvolle Goldschale die die Inquisition unbedingt haben will. Deswegen sind wir aber eigentlich nicht da, stattdessen führen wir über Proxy einen Auftrag für den Don durch. Wir sollen sein Haus ausräumen und alles mitnehmen was nicht niet und nagelfest ist. Das hat er zwar nicht so gesagt und wir haben auch nicht direkt mit ihm gesprochen aber das ist was ich verstanden habe. Daher tun wir das, wenn später Fragen aufkommen kann ich immer noch alles auf die Weißen schieben die sich einfach die Tapete gekrallt haben. Das Leben kann so einfach sein!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #34
+
+* Titel: `Risen - #34 - dunkle Geschäfte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir driften immer mehr in das Verbrechen ab. Aber das war auch so einfach. Es wurde uns nicht wirklich eine Alternative geboten. Das Recht in der Stadt ist irgendwie nicht so richtig existent. Das was die Weißen anbieten ist keine Gerechtigkeit und warum sollten wir uns an irgendwelche Regeln halten die scheinbar nur den Mächtigen dienen. Natürlich weiß ich das der Inquisitor eigentlich größeres vor hat. Aber das wird absolut nicht kommuniziert. Und dieses von Oben herab behandeln ist es was mir nicht schmeckt. Da mache ich nicht mehr lange mit. Daher kommt es das wir nach und nach den Verlockungen des Unerlaubten nachkommen. Wie sollte es auch anders sein bei unseren Fähigkeiten. Diebstahl war schon immer meines. Auch wenn mir der Don immer noch sehr unsympathisch ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

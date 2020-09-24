@@ -1022,3 +1022,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot. The Foundation DLC
   ```
+
+##### #78
+
+* Titel: `Control - #78 [DLC1-#13] - der Lagerturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Lager im Keller des ältesten Hauses ist in Wirklichkeit das größte Bauwerk das wir überhaupt finden. Es enthält einen Fahrstuhl den wir heute intensiv testen dürfen. Ich warte übrigens immer noch auf eine Erklärung wie genau die Energiekerne funktionieren die wir überall finden. Sie sind ziemlich widerstandsfähig und scheinen enorme Mengen an Energie zu enthalten. Ärgerlicherweise scheinen sie aber auch eine maximale Lagerdauer zu haben, die meisten die wir heute finden sind bereits erschöpft. Außerordentlich ärgerlich. Wie dem aber auch sei, das Lagerhaus birgt einige Geheimnisse und die werden wir natürlich ohne größere Probleme lüften, weil wir sind Jesse Faden, Direktorin. Und als solche haben wir absolute Autorität im ältesten Haus. Das sollte hier alles kein Problem sein. Nicht für uns.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #79
+
+* Titel: `Control - #79 [DLC1-#14] - am Fuße des Nagels [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das wir nicht nur nach oben gehen können sondern auch nach unten. Der Nagel durchsticht den Keller des ältesten Hauses in mehr als nur einer Dimension. Interessant ist das wir ihn physisch zerstören können und das überhaupt einen Effekt hat. Bisher sah es mehr so aus als alles was wir tun keine echte Konsequenz auf die Astralebene hat und stattdessen Dinge die in der Astralebene passieren sich auf die echte Welt auswirken. Eigentlich also sogar eine schöne Überraschung das man wohl etwas dagegen tun kann was aus der Astralebene kommt. Jetzt brauchen wir nur noch genügend Sprengstoff gegen die Astralstachel und schauen dann mal was da passiert. Andererseits haben wir bisher wenig Indizien das die Astralebene eine überlappene Dimension ist, eher ein anderer Ort. Die Dinge haben als gar keine zwei Repräsentanten in den jeweiligen Ebene sondern fangen an einen Ort an und enden in einem anderen. Die Astralstachel sind vollständig hier. Also ein wenig anders als der Nagel
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```

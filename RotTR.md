@@ -757,3 +757,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #59
+
+* Titel: `Rise of the Tomb Raider - #59 - das letzte Tor von Kitesh [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für eine Stadt die bereits belagert wurde und von der eigentlich ansonsten nicht mehr all zu viel steht haben die Tore den Test der Zeit ziemlich gut überlebt. Eigentlich aber auch keine Überraschung, Tore sind darauf ausgelegt bewegt zu werden, Wände nicht. Da Beides aber sowieso nicht benutzt wurde steht auch noch das Mauerwerk und das Tor darum. Ein wenig ärgerlich, ein einzeln stehendes Tor wäre definitiv leichter überwindbar gewesen. Wie dem aber auch sei, heute bringen wir es nieder. Für eine Lara Croft ist kein Turm zu hoch, kein Tor zu schwer und keine Mauer zu dick. Zerstörungsspezialistin Croft kommt überall durch. So eine Mauer ist nur eine kurze Pause im Zuge unser "Ermittlung".
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #60
+
+* Titel: `Rise of the Tomb Raider - #60 - Turmerklimmung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gehört quasi zum guten Ton für Lara Croft am Ende jeder Geschichte mit großer Geschwindigkeit ein hohes Bauwerk zu erklimmen während alles um sie herum auseinander fällt. Fairerweise muss man aber sagen das immer alles um sie herum auseinander fällt. Es ist selten das nach einem Besuch des Erben der Croft Familie irgendetwas noch in einem Stück ist. Ich frage mich wirklich warum sie sich überhaupt die Mühe macht irgendwelche Artefakte näher zu untersuchen. Letztendlich zerbricht doch eh alles was sie berührt. Bei den Eskapaden die sie täglich mitmacht kann ich mir auch nicht vorstellen das am Ende der Reise noch irgendetwas intakt ist was sie in ihren Taschen gehalten hat. So oder so, wir erklimmen heute den Turm der die göttliche Quelle enthält, niemand hat sie in den letzten hundert Jahren bewegt. Ein wahres Wunder.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

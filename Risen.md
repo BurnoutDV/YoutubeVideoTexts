@@ -511,3 +511,16 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #40
+
+* Titel: `Risen - #40 - Fluchttunnel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da eine Stadtmauer, über die kommen wir zwar des Nachts gut drüber aber dann würden wir auch Nachts im Wald stehen. Das wäre weniger schön. Daher suchten wir nach einen anderen Weg der uns irgendwie raus in den Wald führen würde. Bei Skordo haben wir ziemlich schnell erfahren das dieser Weg wohl ein Tunnel sei der direkt im Lagerraum des Hurenhauses und hinter der Stadtmauer endet. Wie praktisch. Es ist irgendwie klar das Don Esteban einen solchen Weg hat anlegen lassen, insbesondere wenn man bedenkt das dieser auch einen Zugang zu seinem Haus hat. So oder so ist das alles jetzt sehr praktisch für uns da wir jetzt quasi ein und ausgehen können wir es uns beliebt. Jetzt müsste mir nur noch klar sein was ich mit der ganzen Freiheit eigentlich anstellen möchte. Was der namenlose Held will ist ja immer noch nicht so ganz klar. Bestimmt viele tolle Dinge. Irgendwie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

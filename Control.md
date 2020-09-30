@@ -1113,3 +1113,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot. The Foundation DLC
   ```
+
+##### #85
+
+* Titel: `Control - #85 [DLC2-#5] - Shüm 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für Freunde der Geschichte passiert heute absolut nichts. Ich kämpfe mich nur durch Shüm 2 durch. Das ist ein gewandeltes Objekt das es erlaubt Spiele zu erleben. Das ist eigentlich ganz praktisch weil es virtuelle Realität++ ist und das ist schon ziemlich cool. Außerdem kann man dabei nicht sterben. Die meisten anderen gewandelten Objekte bringen einen ja irgendwie immer um. Das Ding hier anscheinend nicht. Insofern ist es, zumindest den Anschein nach, das erste wirkliche ungefährliche gewandelte Objekt. Man ist zwar für den Moment in einer Art virtuellen Realität gefangen aber man kommt dort auch mit Leichtigkeit wieder heraus. Die Mitarbeiter der Untersuchungsabteilung haben das Gerät anscheinend auch viel genutzt..bis sie alle gestorben sind. Das Beste ist auch, ich darf noch einmal gegen den Anker kämpfen. Welche Freude!
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```

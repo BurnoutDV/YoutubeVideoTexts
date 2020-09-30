@@ -27,3 +27,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #3
+
+* Titel: `Shadow of the Tomb Raider - #3 - der Dolch von Chak Chel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir finden heute heraus das die Maya (?) auch innerhalb von Höhle Pyramiden gebaut haben. Das ist auch wesentlich praktischer, da kann sie nicht gleich jeder Hobbyarchäologe finden. Ärgerlicherweise heißt das aber auch das Lara Croft diesen Ort als Erstes entdecken wird und die ist nicht grade dafür bekannt besonderes Feingefühl bei der Behandlung von alten Artefakten walten zu lassen. Nebenher bin ich immer noch ziemlich beeindruckt das uralte Fallen quasi wie am ersten Tag funktionieren. Woanders gibt der Boden aus Altersschwäche nach und hier funktioniert nach wie vor jede einzelne Speerfalle. Ärgerlicherweise spielen wir übrigens immer noch auf dem höchsten Schwierigkeitsgrad. Damit höre ich dann heute auf. Im Nachhinein hätte ich mich aber eventuell doch noch ein Stück durchbeissen können. Irgendwie.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```

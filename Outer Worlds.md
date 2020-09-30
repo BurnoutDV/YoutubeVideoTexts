@@ -8,18 +8,18 @@
 
 * Beschreibung:
 
-  > Tourismus in Halcyon ist ein wenig eingeschrдnkt. Das liegt wohl daran das nicht besonders viele Orte zu besichtigen sind. Aber es gibt auch nicht besonders viele Leute die jemals in das System kommen. Oder es verlassen. Aufgrund der vorhandenen Technologie ist das jetzt aber nicht so unendlich ьberraschend. Schlafschiffe scheinen jetzt nicht das ideale Mittel fьr Menschen zu sein die groяe interstellare Entfernung als Urlaub verbringen wollen. Man ist also auf sein Sonnensystem beschrдnkt. Und das ist ja nicht schlimm. Wir bereisen heute die schцnste Orte Halcyons und finden nichts Schlechtes daran. Auяer vielleicht einige Todesfallen, aber das macht ja nichts.
+  > Tourismus in Halcyon ist ein wenig eingeschränkt. Das liegt wohl daran das nicht besonders viele Orte zu besichtigen sind. Aber es gibt auch nicht besonders viele Leute die jemals in das System kommen. Oder es verlassen. Aufgrund der vorhandenen Technologie ist das jetzt aber nicht so unendlichüberraschend. Schlafschiffe scheinen jetzt nicht das ideale Mittel für Menschen zu sein die große interstellare Entfernung als Urlaub verbringen wollen. Man ist also auf sein Sonnensystem beschränkt. Und das ist ja nicht schlimm. Wir bereisen heute die schönste Orte Halcyons und finden nichts Schlechtes daran. Außer vielleicht einige Todesfallen, aber das macht ja nichts.
   >
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #103
 
-- Titel: `Outer Worlds - #103 - die Ruhestдndler [Let's Play; ger; Blind]`
+- Titel: `Outer Worlds - #103 - die Ruheständler [Let's Play; ger; Blind]`
 
 - Beschreibung:
 
-  > Wir haben ganz am Anfang von einer Lotterie gehцrt die es den weniger privilegierten Bьrgern der Kolonie erlaubt zu Reichtum aufzusteigen. Es stellt sich heraus das diese Ruhestдndler nicht in das normale Byzantinium gebracht werden. Stattdessen lagert man sie in einem exklusiven Ruhestandsbezirk aus, seltsam ist das dieser eher nicht mit dem restlichen Byzantinium interagiert. Sehr seltsam sogar wьrde ich sagen wollen. Heute prьfen wir dies etwas nach, auяerdem reden wir zusдtzlich noch mit einer leicht betrunkenen Wache, aber das hat nichts damit zu tun. Wir machen das ьbrigens nicht weil uns so danach ist, sondern weil uns jemand darauf angesetzt hat. Ich habe die entsprechenden Leute ьbrigens schon gesehen aber mir gar nichts weiter dabei gedacht.
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Wir haben ganz am Anfang von einer Lotterie gehört die es den weniger privilegierten Bürgern der Kolonie erlaubt zu Reichtum aufzusteigen. Es stellt sich heraus das diese Ruheständler nicht in das normale Byzantinium gebracht werden. Stattdessen lagert man sie in einem exklusiven Ruhestandsbezirk aus, seltsam ist das dieser eher nicht mit dem restlichen Byzantinium interagiert. Sehr seltsam sogar würde ich sagen wollen. Heute prüfen wir dies etwas nach, außerdem reden wir zusätzlich noch mit einer leicht betrunkenen Wache, aber das hat nichts damit zu tun. Wir machen das übrigens nicht weil uns so danach ist, sondern weil uns jemand darauf angesetzt hat. Ich habe die entsprechenden Leute übrigens schon gesehen aber mir gar nichts weiter dabei gedacht.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #104
 
@@ -27,8 +27,8 @@
 
 - Beschreibung:
 
-  > Wir wissen mittlerweile Einiges ьber die Misere die Halcyon erlitten hat. Eines davon ist das die Menschen demnдchst verhungern werden. Einfach so, der Grund erscheint mir wissenschaftlich ein wenig an den Haaren herbeigezogen aber als Geschichtenerzдhl Grundlage reicht es. Wir wissen weiter das man daher nach allen mцglichen Mitteln sucht irgendwie die Leute zu ernдhern. Auяerdem gibt es das Ruhestandsviertel in dem man Arbeitern aus den ьblichen Kolonien zu einen vorzeitigen Urlaub verhilft. Das Ganze klingt natьrlich ein wenig fischig, insbesondere weil die bisherige Konzernfьhrung sich nicht unbedingt durch ihre Groяzьgigkeit ausgezeichnet hat. Wie es der Zufall so will haben wir heute die Gelegenheit das Viertel in dem sich diese Ruhestдndler aufhalten mal ein wenig nдher zu beleuchten. Und das tun wir dann auch. Interessante Entdeckungen folgen.
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Wir wissen mittlerweile Einiges über die Misere die Halcyon erlitten hat. Eines davon ist das die Menschen demnächst verhungern werden. Einfach so, der Grund erscheint mir wissenschaftlich ein wenig an den Haaren herbeigezogen aber als Geschichtenerzähl Grundlage reicht es. Wir wissen weiter das man daher nach allen möglichen Mitteln sucht irgendwie die Leute zu ernähren. Außerdem gibt es das Ruhestandsviertel in dem man Arbeitern aus den üblichen Kolonien zu einen vorzeitigen Urlaub verhilft. Das Ganze klingt natürlich ein wenig fischig, insbesondere weil die bisherige Konzernführung sich nicht unbedingt durch ihre Großzügigkeit ausgezeichnet hat. Wie es der Zufall so will haben wir heute die Gelegenheit das Viertel in dem sich diese Ruheständler aufhalten mal ein wenig näher zu beleuchten. Und das tun wir dann auch. Interessante Entdeckungen folgen.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #105
 
@@ -36,8 +36,8 @@
 
 - Beschreibung:
 
-  > Es gibt immer noch einen Reprдsentanten der Erde auf Halcyon. Seine Name ist Clark und man kцnnte sich schon wundern warum dieser noch nichts gesagt hat zu all den Dingen die offensichtlich falsch laufen im System. Auf der anderen Seite haben wir immer noch nicht so ganz geklдrt ob die Konzerne eine spezifische Sache fьr Halcyon sind oder ob es sie auch woanders gibt. Eventuell ist auch die gesamte Menschheit so wie die Leute in Halcyon sind. Nur etwas weniger extrem, in ihren Grundfesten aber genau so. Dann wдre der Traum von mental aufgestiegenen Weltraumzeitalter natьrlich irgendwie ein wenig gescheitert. Das sieht ьbrigens auch der Minister so, der scheint mit der Gesamtsituation seltsam unzufrieden zu sein.
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Es gibt immer noch einen Repräsentanten der Erde auf Halcyon. Seine Name ist Clark und man könnte sich schon wundern warum dieser noch nichts gesagt hat zu all den Dingen die offensichtlich falsch laufen im System. Auf der anderen Seite haben wir immer noch nicht so ganz geklärt ob die Konzerne eine spezifische Sache für Halcyon sind oder ob es sie auch woanders gibt. Eventuell ist auch die gesamte Menschheit so wie die Leute in Halcyon sind. Nur etwas weniger extrem, in ihren Grundfesten aber genau so. Dann wäre der Traum von mental aufgestiegenen Weltraumzeitalter natürlich irgendwie ein wenig gescheitert. Das sieht übrigens auch der Minister so, der scheint mit der Gesamtsituation seltsam unzufrieden zu sein.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #106
 
@@ -45,9 +45,9 @@
 
 - Beschreibung:
 
-  > Wir reden heute mit wichtigen Personen. Das sind Menschen die ganz oben oder zumindest im Vorzimmer der Wichtigkeit sitzen. Zum Beispiel der Hauptsekretдr der dafьr sorgt das sein Chef nicht gestцrt wird. Der Mann hдlt sich selbstverstдndlich fьr ziemlich wichtig. Natьrlich ist er das nicht. Es scheint mir das das so gut wie jeder seine Aufgabe erfьllen kцnnte. Was wir ьbrigens auch erfahren ist wie es der Kolonie geht. Dank Dr. Chatrandt waren wir ja bereits ьber die meisten Dinge aufgeklдrt. Die Situation scheint aber im Groяen und Ganzen ziemlich katastrophal zu sein. Der Plan der Konzernleitung ist im besten Fall egoistisch und technisch auch auяerordentlich fragwьrdig. Es stellt sich mir eigentlich die Frage warum Halcyon eigentlich ьberhaupt noch steht.
+  > Wir reden heute mit wichtigen Personen. Das sind Menschen die ganz oben oder zumindest im Vorzimmer der Wichtigkeit sitzen. Zum Beispiel der Hauptsekretär der dafür sorgt das sein Chef nicht gestört wird. Der Mann hält sich selbstverständlich für ziemlich wichtig. Natürlich ist er das nicht. Es scheint mir das das so gut wie jeder seine Aufgabe erfüllen könnte. Was wir übrigens auch erfahren ist wie es der Kolonie geht. Dank Dr. Chatrandt waren wir ja bereits über die meisten Dinge aufgeklärt. Die Situation scheint aber im Großen und Ganzen ziemlich katastrophal zu sein. Der Plan der Konzernleitung ist im besten Fall egoistisch und technisch auch außerordentlich fragwürdig. Es stellt sich mir eigentlich die Frage warum Halcyon eigentlich überhaupt noch steht.
   >
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #107
 
@@ -55,8 +55,8 @@
 
 - Beschreibung:
 
-  > Ein Meilenstein vieler Dytopien ist es das man schlechte Dinge nach harmlosen oder sogar erstrebenswerten Dingen benennt. Das Forschungsinstitut der HHC heiяt zum Beispiel Ministerium fьr Korrektheit und Ordnung. Generell ist es ьbrigens komisch das eine Firma so etwas wie ein Ministerium hat. Private Firmen mьssten doch eigentlich jeden staatlichen bzw. Anschein von stattlichen Eingriff von Grundauf ablehnen. Aber offensichtlich habe ich mich, zumindest was das angeht, getдuscht. Die Anlage ist wie erwдhnt ein Forschungsinstitut mitten in Byzantinium und eventuell der einzige Ort an dem echte Arbeit geleistet wird. Oder aber auch nicht, zumindest wenn man sich die Qualitдt der anwesenden Wissenschaftler anschaut. So oder so wird jetzt Kapitдt Alex Hawthorne fьr Ordnung sorgen. Das wird gut.
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Ein Meilenstein vieler Dytopien ist es das man schlechte Dinge nach harmlosen oder sogar erstrebenswerten Dingen benennt. Das Forschungsinstitut der HHC heißt zum Beispiel Ministerium für Korrektheit und Ordnung. Generell ist es übrigens komisch das eine Firma so etwas wie ein Ministerium hat. Private Firmen müssten doch eigentlich jeden staatlichen bzw. Anschein von stattlichen Eingriff von Grundauf ablehnen. Aber offensichtlich habe ich mich, zumindest was das angeht, getäuscht. Die Anlage ist wie erwähnt ein Forschungsinstitut mitten in Byzantinium und eventuell der einzige Ort an dem echte Arbeit geleistet wird. Oder aber auch nicht, zumindest wenn man sich die Qualität der anwesenden Wissenschaftler anschaut. So oder so wird jetzt Kapität Alex Hawthorne für Ordnung sorgen. Das wird gut.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #108
 
@@ -64,9 +64,9 @@
 
 - Beschreibung:
 
-  > Wir haben irgendwelche Testsubjekte grausam sterben lassen. Das haben wir natьrlich fьr das hцhere Wohl getan. Und weil wir mehr Vertrauen in die Fдhigkeiten eines anderen Wissenschaftlers haben. Es scheint mir das die Hдlfte der Stellenbeschreibung eines Firmenwissenschaftlers daraus besteht seinen Vorgesetzten vor zu machen das echte Erfolge erzielt werden. Da wir auch ein wenig von Wissenschaft verstehen ist aber ziemlich transparent das dem nicht so ist. Mein Vertrauen in die Fдhigkeit der HHC Eierkцpfer ist also gelinde gesagt inexistent. Ich fьhle mich daher total auf der moralisch guten Seite. Nebenbei hцren wir uns dann noch an was genau Phineas eigentlich vorhat. Es sieht ьbrigens nicht so aus als hдtten wir besonders viel Zeit fьr diese Operation.
+  > Wir haben irgendwelche Testsubjekte grausam sterben lassen. Das haben wir natürlich für das höhere Wohl getan. Und weil wir mehr Vertrauen in die Fähigkeiten eines anderen Wissenschaftlers haben. Es scheint mir das die Hälfte der Stellenbeschreibung eines Firmenwissenschaftlers daraus besteht seinen Vorgesetzten vor zu machen das echte Erfolge erzielt werden. Da wir auch ein wenig von Wissenschaft verstehen ist aber ziemlich transparent das dem nicht so ist. Mein Vertrauen in die Fähigkeit der HHC Eierköpfer ist also gelinde gesagt inexistent. Ich fühle mich daher total auf der moralisch guten Seite. Nebenbei hören wir uns dann noch an was genau Phineas eigentlich vorhat. Es sieht übrigens nicht so aus als hätten wir besonders viel Zeit für diese Operation.
   >
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #109
 
@@ -74,9 +74,9 @@
 
 * Beschreibung:
 
-  > Es ist mal wieder der Punkt in einem Spiel gekommen an dem wir nicht mehr wirklich viel tun. Schlieяlich haben wir auch alle Nebenmissionen beendet und generell kann man Storymдяig quasi von einem 100% Run reden. Wir sind jetzt also soweit das wir endlich zur Hope stoяen kцnnen. Jenem legendдren Schiff voller Wissenschaftler und Groяkцpfen die irgendwie Halcyon retten soll. Mir ist ьbrigens nicht so ganz klar warum grade auf der Hope die ganzen klugen Leute sind. War auf der Groundbreaker kein Platz oder war der Plan mehrstaffelig sodass die Wissenschaftler sofort zum Zug kommen sollten nachdem das Fundament gelegt war? Niemand hat uns je den genauen Plan erzдhlt. Schade eigentlich. 
+  > Es ist mal wieder der Punkt in einem Spiel gekommen an dem wir nicht mehr wirklich viel tun. Schließlich haben wir auch alle Nebenmissionen beendet und generell kann man Storymäßig quasi von einem 100% Run reden. Wir sind jetzt also soweit das wir endlich zur Hope stoßen können. Jenem legendären Schiff voller Wissenschaftler und Großköpfen die irgendwie Halcyon retten soll. Mir ist übrigens nicht so ganz klar warum grade auf der Hope die ganzen klugen Leute sind. War auf der Groundbreaker kein Platz oder war der Plan mehrstaffelig sodass die Wissenschaftler sofort zum Zug kommen sollten nachdem das Fundament gelegt war? Niemand hat uns je den genauen Plan erzählt. Schade eigentlich. 
   >
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. 
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. 
   >
   > Outer Worlds immer Dienstags.
 
@@ -86,18 +86,18 @@
 
 - Beschreibung:
 
-  > Endlich sind wir wieder zuhause. Dem Ort an dem wir fast 80 Jahre verbracht haben, die Hope. Das Ganze ist ein quasi totes Schiff. Wenn man es von der Besatzung einmal absieht. Das Schiff kam, so sieht es zumindest erst einmal aus, nicht absichtlich zu spдt an. Das ist doch schon einmal etwas. Am Anfang hatte ich schon befьrchtet das die Konzerne die Telefondesinfizierer Route gelaufen sind. Ich mag es ja so Sci-Fi Archдologie zu betreiben, oder besser gesagt, betreiben gelassen zu kriegen. Ich lese dann nur die Log Files vor. Das mochte ich schon in Dead Space 3, das war echt spaяig. Da gibt es immer soviel Raum fьr die Fantasie. Wir kommen ьbrigens komplett ohne Nekromorphs aus. Wenn das mal nichts Gutes ist dann weiя ich auch nicht.
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Endlich sind wir wieder zuhause. Dem Ort an dem wir fast 80 Jahre verbracht haben, die Hope. Das Ganze ist ein quasi totes Schiff. Wenn man es von der Besatzung einmal absieht. Das Schiff kam, so sieht es zumindest erst einmal aus, nicht absichtlich zu spät an. Das ist doch schon einmal etwas. Am Anfang hatte ich schon befürchtet das die Konzerne die Telefondesinfizierer Route gelaufen sind. Ich mag es ja so Sci-Fi Archäologie zu betreiben, oder besser gesagt, betreiben gelassen zu kriegen. Ich lese dann nur die Log Files vor. Das mochte ich schon in Dead Space 3, das war echt spaßig. Da gibt es immer soviel Raum für die Fantasie. Wir kommen übrigens komplett ohne Nekromorphs aus. Wenn das mal nichts Gutes ist dann weiß ich auch nicht.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #111
 
-- Titel: `Outer Worlds - #111 - die Brьcke [Let's Play; ger; Blind]`
+- Titel: `Outer Worlds - #111 - die Brücke [Let's Play; ger; Blind]`
 
 - Beschreibung:
 
-  > Gemeint ist heute nicht das Hilfsmittel um Schluchten oder Flьsse zu ьberqueren sondern den vorderne Teil eines Schiffs bzw. in diesem Fall sogar eines Raumschiffes. Von dort steuert der Kapitдt das Schiff durch die unendlichen Weiten des Weltraums. Oder steuerte. Sind ja alle tot. Wie haben wir mittlerweile eigentlich auch ganz gut rekonstruieren kцnnen, das erklдrt ьbrigens auch die Bissspuren an den aufgetauten Kolonisten. Die Brьcke bietet aber auch sonst Kontrolle ьber integrale Bestandteile des Schiffes. №brigens ist auch interessant das der Kommandostand ganz vorne bzw. oben ist. Ein Raumschiff braucht das nicht wirklich. Im Weltraum gibt es in der Regel sowieso nichts zu sehen, man fliegt in der Regel wohl also mit Instrumenten. Daher kцnnte man einen Kommandoraum wahrscheinlich auch eher in der Mitte eines Schiffes unterbringen. Das wдre auch sicherer.
+  > Gemeint ist heute nicht das Hilfsmittel um Schluchten oder Flüsse zu überqueren sondern den vorderne Teil eines Schiffs bzw. in diesem Fall sogar eines Raumschiffes. Von dort steuert der Kapität das Schiff durch die unendlichen Weiten des Weltraums. Oder steuerte. Sind ja alle tot. Wie haben wir mittlerweile eigentlich auch ganz gut rekonstruieren können, das erklärt übrigens auch die Bissspuren an den aufgetauten Kolonisten. Die Brücke bietet aber auch sonst Kontrolle über integrale Bestandteile des Schiffes. №brigens ist auch interessant das der Kommandostand ganz vorne bzw. oben ist. Ein Raumschiff braucht das nicht wirklich. Im Weltraum gibt es in der Regel sowieso nichts zu sehen, man fliegt in der Regel wohl also mit Instrumenten. Daher könnte man einen Kommandoraum wahrscheinlich auch eher in der Mitte eines Schiffes unterbringen. Das wäre auch sicherer.
   >
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #112
 
@@ -105,8 +105,8 @@
 
 - Beschreibung:
 
-  > Leere Orte kцnnen eine seltsame Atmosphдre ausstrahlen. Manche waren nie bewohnt und man sieht nur die Geschichte eines Platzes der nie richtig gebraucht wurde. Andere wurden sehr lange benutzt, sind verwohnt, voller kleiner Details die quasi noch ein Stьck der "Seele" des vorherigen Bewohners enthalten. An manchen Leuten geht so etwas einfach verloren. Fьr andere ist es ein Stьck Archiv, ein kleines Museum einer Person. Das Labor von Phineas Welles geht definitiv mehr in die zweite als in die erste Richtung. An sich ist alles bewohnt, alles verlebt. Wie als hдtte ein verrьckter Wissenschaftler Jahrzehnte damit verbracht hier zu forschen und zu leben.
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Leere Orte können eine seltsame Atmosphäre ausstrahlen. Manche waren nie bewohnt und man sieht nur die Geschichte eines Platzes der nie richtig gebraucht wurde. Andere wurden sehr lange benutzt, sind verwohnt, voller kleiner Details die quasi noch ein Stück der "Seele" des vorherigen Bewohners enthalten. An manchen Leuten geht so etwas einfach verloren. Für andere ist es ein Stück Archiv, ein kleines Museum einer Person. Das Labor von Phineas Welles geht definitiv mehr in die zweite als in die erste Richtung. An sich ist alles bewohnt, alles verlebt. Wie als hätte ein verrückter Wissenschaftler Jahrzehnte damit verbracht hier zu forschen und zu leben.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #113
 
@@ -114,7 +114,7 @@
 
 * Beschreibung:
 
-  > Eigentlich dachte ich das Tartarus kein Ort ist den wir noch bereisen. Einfach weil der Vikar von dem Ort geredet hat und ich ja schon wusste das es irgendwie ein DLC geben wird und da hдtte ich mir gedacht das Tartarus bestimmt ein guter Schauplatz fьr solcherlei Aktivitдten darstellen wьrde. Ich habe mich getдuscht. Es ist schon jetzt klar das wir den Planeten anfliegen werden. Phineas hatte glьcklicherweise einen Navigationskey fьr den Ort. Was mich ьbrigens immer wieder erstaunt ist wie die ursprьnglichen Planetenentdecker ьberhaupt irgendwas geschafft haben. Oder ist selbst navigierende Ausrьstung einfach zu teuer und unsere "Consumer" Tech kann das bloя einfach nicht ohne Nav Key. Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Eigentlich dachte ich das Tartarus kein Ort ist den wir noch bereisen. Einfach weil der Vikar von dem Ort geredet hat und ich ja schon wusste das es irgendwie ein DLC geben wird und da hätte ich mir gedacht das Tartarus bestimmt ein guter Schauplatz für solcherlei Aktivitäten darstellen würde. Ich habe mich getäuscht. Es ist schon jetzt klar das wir den Planeten anfliegen werden. Phineas hatte glücklicherweise einen Navigationskey für den Ort. Was mich übrigens immer wieder erstaunt ist wie die ursprünglichen Planetenentdecker überhaupt irgendwas geschafft haben. Oder ist selbst navigierende Ausrüstung einfach zu teuer und unsere "Consumer" Tech kann das bloß einfach nicht ohne Nav Key. Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #114
 
@@ -122,7 +122,7 @@
 
 * Beschreibung:
 
-  > Willkommen in der Hцlle. Oder auf Tartarus. Es handelt sich um ein Gefдngnisplanet. Eine hдufige Trophe. Menschen bzw. Wesen auf einen eigenen Planeten nur fьr Verwahrungszwecke festzusetzen erscheint mir etwas teuer. Wenn es um die Sicherheit geht dann kцnnte man das billiger haben in dem man die Leute direkt exekutiert. Wenn es um Besserung gehen wьrde ist so ein Planet definitiv der falsche Schritt. Generell sind diese Gefдngnisplaneten ja auch Orte die kein normales Leben erlauben. Also kein Australien oder Amerika (siehe die franzцsischen Einwanderer in New Orleans) wo man irgendwie ein neues Leben aufbauen kann. Das alles klingt halt irgendwie alles unnцtig teuer und sieht mir mehr nach Sadismus aus als alles andere. Und so scheint es auch auf Tartarus zu sein. An Reintegration in die Gesellschaft glaubt hier auf jeden Fall niemand so richtig. Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Willkommen in der Hölle. Oder auf Tartarus. Es handelt sich um ein Gefängnisplanet. Eine häufige Trophe. Menschen bzw. Wesen auf einen eigenen Planeten nur für Verwahrungszwecke festzusetzen erscheint mir etwas teuer. Wenn es um die Sicherheit geht dann könnte man das billiger haben in dem man die Leute direkt exekutiert. Wenn es um Besserung gehen würde ist so ein Planet definitiv der falsche Schritt. Generell sind diese Gefängnisplaneten ja auch Orte die kein normales Leben erlauben. Also kein Australien oder Amerika (siehe die französischen Einwanderer in New Orleans) wo man irgendwie ein neues Leben aufbauen kann. Das alles klingt halt irgendwie alles unnötig teuer und sieht mir mehr nach Sadismus aus als alles andere. Und so scheint es auch auf Tartarus zu sein. An Reintegration in die Gesellschaft glaubt hier auf jeden Fall niemand so richtig. Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #115
 
@@ -130,9 +130,9 @@
 
 - Beschreibung:
 
-  > Jetzt kommen die Einschlдge nдher. Wir merken das wir uns dem Ende nдhern weil uns die Personen die wir vorher nur im Fernsehen gesehen haben auf einmal in Echt begegnen. Ich bin mir ьbrigens nicht so ganz sicher warum Vorsitzender Rockwell unbedingt auf Tartarus agieren mцchte. Nur wegen Phineas Welles? Wenn man den wirklich gebrochen kriegt wдre es doch viele einfacher den nach Byzantinium zu schicken anstatt anders herum vorzugehen. Nun gut, fьr uns einfacher weil wir dadurch in den Genuss kommen mit dem Mann persцnlich zu reden und uns von unserer ьberzeugenden Seite zeigen kцnnen. Groяartig oder? Rockwell ist ьbrigens ein kleingeistiger Arsch.
+  > Jetzt kommen die Einschläge näher. Wir merken das wir uns dem Ende nähern weil uns die Personen die wir vorher nur im Fernsehen gesehen haben auf einmal in Echt begegnen. Ich bin mir übrigens nicht so ganz sicher warum Vorsitzender Rockwell unbedingt auf Tartarus agieren möchte. Nur wegen Phineas Welles? Wenn man den wirklich gebrochen kriegt wäre es doch viele einfacher den nach Byzantinium zu schicken anstatt anders herum vorzugehen. Nun gut, für uns einfacher weil wir dadurch in den Genuss kommen mit dem Mann persönlich zu reden und uns von unserer überzeugenden Seite zeigen können. Großartig oder? Rockwell ist übrigens ein kleingeistiger Arsch.
   >
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #116 Finale
 
@@ -140,8 +140,8 @@
 
 - Beschreibung:
 
-  > Es ist mal wieder soweit, wir haben ein Spiel durchgespielt und die Welt gerettet.Es gibt noch den kleinen aber feinen Unterschied das die Situation ziemlich mies aussieht und die multigalaktische Zivilisation anscheinend schlechter da steht als gedacht. So ist es zum Beispiel so das die Erde wohl wirklich seit mindestens 3 Jahren nicht mehr verfьgbar ist. Das ist eher schlecht, aus der Richtung ist also keine Hilfe zu erwarten. Insbesondere weil die №berfahrt anscheinend sowieso 10 Jahre dauert. Man muss sich also selbst helfen. Irgendwie. Damit all dies geschehen kann greifen wir heute ein. Massiv, und manipulativ. Was wohl aus uns geworden ist nachdem all dies vorbei ist?
-  > Wцchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
+  > Es ist mal wieder soweit, wir haben ein Spiel durchgespielt und die Welt gerettet.Es gibt noch den kleinen aber feinen Unterschied das die Situation ziemlich mies aussieht und die multigalaktische Zivilisation anscheinend schlechter da steht als gedacht. So ist es zum Beispiel so das die Erde wohl wirklich seit mindestens 3 Jahren nicht mehr verfügbar ist. Das ist eher schlecht, aus der Richtung ist also keine Hilfe zu erwarten. Insbesondere weil die №berfahrt anscheinend sowieso 10 Jahre dauert. Man muss sich also selbst helfen. Irgendwie. Damit all dies geschehen kann greifen wir heute ein. Massiv, und manipulativ. Was wohl aus uns geworden ist nachdem all dies vorbei ist?
+  > Wöchentlich auch Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr. Outer Worlds immer Dienstags.
 
 ##### #117 - Peril on Gorgon
 
@@ -375,4 +375,27 @@
   
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #135
+
+* Titel: `Outer Worlds - #135 - [DLC1-#19] - CHEM Labore [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Chemische Anlagen haben immer einen Haufen Sicherheitsvorkehrung die bitterlich notwendig sind. menschen sind zwar ziemlich gut sich in der breiten Masse an neue Umgebungen anzupassen aber sind nicht so gut darin individuell Nervengiften zu widerstehen. Generell gibt es dort Draußen viele Dinge die schon in geringen Dosen außerordentlich fatal sind. Da Chemiker aber gleichzeitig irgendwie auch ausgebildetes Fachpersonal sind und somit einen gewissen Beschaffungspreis haben möchte man an der Stelle eigentlich nicht zu viele von ihnen verlieren. Diese Überlegungen sind auch Spacers Choice bekannt, theoretisch. Nicht bekannt war das aber Lawrence Goodfellow und seine Bande von Managern die fernab von jeglicher Realität Dinge entschieden haben. Wie dem aber auch sei, von der einstigen Anlage steht sowieso nicht mehr viel. Das Meiste haben die Troglos zerlegt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #136
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```

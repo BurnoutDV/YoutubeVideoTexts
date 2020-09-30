@@ -1048,3 +1048,68 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot. The Foundation DLC
   ```
+
+##### #80
+
+* Titel: `Control - #80 [DLC1-#15] - Marshall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles hat ein Ende, manche DLCs haben relativ schnell Eines. Heute findet sich das Ende in dem wir erneut Helen Marshall treffen. Wir hatten bereits eine gleichnamige Episode. Ärgerlicherweise ist die Helen Marshall die wir heute am Fuße des Nagels antreffen nicht mehr die Person die wir einst in der Glücksabteilung aus den Fängen der Zischer gerettet haben. Schade eigentlich, auch schade im Hinblick auf die Perspektive im ältesten Haus. Mir scheint nur wenige Leute erreichen wirklich den Ruhestand wenn man im Dienste des Federal Bureau of Control steht. Auf der anderen Seite kann ich mir einen Ruhestand nachdem man Einiges im ältesten Haus erlebt hat ziemlich schwer vorstellen. Insbesondere wenn man mit niemanden darüber reden kann was man gesehen hat. So oder so, Helen Marshall geht nicht in den Ruhestand, im Dienst bis zum letzten Tag.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #81
+
+* Titel: `Control - #81 [DLC2-#1] - Untersuchungssektor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jesse Fadens Abenteuer ist noch nicht abgeschlossen. Es bleibt noch mehr im ältesten Haus zu tun. Nicht nur das das Zischen immer noch nicht beseitigt ist, nein, es gibt eine neue Bedrohung im Keller des ältesten Hauses. Ich fürchte übrigens das Control an der Stelle harte Spoiler für Alan Wake enthält. Ich habe das Spiel selber nie gespielt kann aber intelligent raten wo Dinge aus dem ursprünglichen Spiel erwähnt werden die dort große Twists waren. Wie dem aber auch sei, wir versuchen heute in den Untersuchungssektor einzudringen. Das ist gar nicht so einfach, schon deswegen weil es eine geschlossene Brandschneise gibt. Zum Glück steht uns der treue Benikoff Fernseher zur Verfügung, und mit dem schweben wir einfach unseren Problemen davon. Bis es aber so weit ist gibt es noch die ein oder andere Akte zu lesen. Storytelling bei Vorlesen und so.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #82
+
+* Titel: `Control - #82 [DLC2-#2] - Geschichtsschreibung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben bereits gelernt das die Wahrnehmung der Menschen ,insbesondere der breiten Masse einen gewaltigen Einfluss auf die Realität hat. Die Frage die noch im Raum steht ist inwieweit sich das ändern würde wenn es Allgemeinwissen wäre das dem so ist. Ich ahne aber das da gar nicht einmal so viel passieren würde. Aber solange es die Menschen nicht wissen können wir dazu keine sichere Aussage machen. Was wir aber aussagen können ist was ein Author auf die Welt auswirkt. Jemand der seine Gedanken auf viele Menschen gleichzeitig repliziert. Viele Bewusstseine die unterbewusst eine wenig an eine Sache glauben oder zumindest daran denken. Eine solche Person kann nach der Control-Theorie die Realität ändern. Ein Author könnte sich seinen eigenen Entführer schreiben. Er könnte sich selbst aus der Geschichte schreiben, dafür sorgen das sich niemand mehr an ihm erinnert. Manche Leute sagen dies ist bereits geschehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #83
+
+* Titel: `Control - #83 [DLC2-#3] - Einsatzzentrum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sicher kommen wir im Untersuchungssektor vor ran. Das Einzige was mich so richtig aufhalten würde wären aber eh Akten, und davon gab es zwar am Anfang  eine Menge aber jetzt wird es langsam weniger. Das überrascht übrigens auch nicht, der vordere Bereich ist ja anscheinend alles was vom Untersuchungssektor noch übrig ist. Der Rest ist einer kontinuirlichen Verschiebung zum Opfer gefallen. Allerdings frage ich mich inwiefern das älteste Haus stabile Wände bildet. Könnte man mit genug Gewalt und einen Tunnelbohrer das gesamte Problem ignorieren. Oder ist das so wie mit dem Hubschrauber in der Formation? Theoretisch möglich aber man würde wohl nicht weit kommen. Der Astralraum hat anscheinend Luft, aber irgendwie auch nicht, man kann wohl darin atmen aber irgendwie habe ich das Gefühl das die Luft im Astralraum nicht wirklich da ist. Alles ein bisschen mystisch. Was wohl wäre wenn die gesamte Menschheit wüsste das man im Astralraum nicht atmen kann?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #84
+
+* Titel: `Control - #84 [DLC2-#4] - Finsternis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe in der Vergangenheit das Gesamtkonzept der Behörde gelobt, also nicht das was sie tut, das ist ziemlich unmenschlich und könnte wahrscheinlich auch einen weniger bürokratischen Touch erhalten, nein, ich meine das Aussehen. Große offene Räume mit grünen Pflanzen. Der ganze Sichtbeton wird durch das viele Licht irgendwie abgeschwächt. Für ein Gebäude das keinerlei Fenster hat ist es im ältesten Haus erstaunlich hell. Das liegt auch an den astralraumfarbenen Lampen die irgendwie an jeder Ecke indirektes Licht ausstrahlen. In der Realität würde der Beton wahrscheinlich recht schnell dreckig werden und dann sieht alles doof aus. Oder aber die Lampen würden nicht ansatzweise genügend Licht machen. Stellt euch eine Stromausfall im ältesten Haus vor. Müssen wir aber auch gar nicht mehr, heute können wir das Ganze live erleben, das schont die eigenen Vorstellung, toll oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```

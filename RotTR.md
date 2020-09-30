@@ -783,3 +783,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #61
+
+* Titel: `Rise of the Tomb Raider - #61 - Finale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist soweit, wir erreichen heute die Spitze des Turmes. Vorher müssen wir noch den Endboss besiegen. Aber das gehört sich einfach so, ein spannender Endkampf, eine letzte Schlacht bevor die Abspannsequenz kommt. Was passieren wird ist relativ klar, Lara wird auf keinen Fall die göttliche Quelle an sich nehmen, zum Überwesen aufsteigen und von da an die Welt regieren. Das war vielleicht am Anfang ihr Plan aber selbstverständlich ändert sich diese Ansicht auf der Reise des Helden. Wie dem aber auch sei, das Spiel stürzte mir genau im entscheidenden Moment ab als ich die letzten Sequenz gesehen habe, das war recht interessant. Hier auf Youtube sehr ihr das natürlich nicht mehr, in dem Moment war es aber wirklich sehr beeindruckend. Insbesondere weil mein gesamter PC abgestürzt ist, auf einmal war alles schwarz. Außerdem übrigens sehr besorgniserregend. Ich habe keine Ahnung welche Komponente versagt hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Rise of the Tomb Raider auf dem Montag Slot.
+  ```

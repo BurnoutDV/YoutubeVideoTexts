@@ -311,3 +311,68 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
+
+##### #130
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal glaubt man wir haben eine Tournee gebucht: die 50 seltsamsten Menschen im Halcyon System. Das wir die 50 bereits abgearbeitet haben bevor wir überhaupt unser eigenes Raumschiff hatten sei mal dahingestellt. Letztendlich erscheinen mir alle Leute im System ziemlich wahnsinnig aber es könnte auch daran liegen das die eigentlichen Wissenschaftler alle auf dem anderen Schiff waren. Oder aber es war von vorne rein ein großer Reinfall, wer sonst würde sich freiwillig für eine Mission wie dieser hier melden. Die einzigen halbwegs vernünftigen Menschen leben auf der Groundbreaker. A pro pro Groundbreaker übrigens, die besuchen wir heute. Nicht den richtigen Hauptabschnitt wo wir schon früher einmal waren, sonder einen neue Abteilung. Es stellt sich heraus das interstellare Raumschiffe wirklich groß sind. Da gibt es viel Platz um sich zu verstecken. Das hat anscheinend auch Dr. Marion Blakeslee getan, jetzt Botanikerin. Wir finden sie trotzdem, weil wir, wir sind super.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #131
+
+* Titel: `Outer Worlds - #131 - [DLC1-#15] - Firefly Freibeuter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind technisch gesehen ein Pirat. Zumindest sieht uns so bestimmt der Aufsichtsrat von Halcyon, die Tatsache das wir so genannt Freischaffend sind macht die Leute komplett fertig. Ich möchte an der Stelle feststellen das "freischaffend" in dem Fall auch nur heißt das man nicht sein Leben einer Firma überschrieben hat. Generell lebt das ganze System in einem Feudalsystem. Außerdem fällt mir auf das Deutsch hier grade nicht ausreichend ist um differenziert genug den Sachverhalt zu beschreiben. Nochmal: In diesem Sternensystem (eigentlich nur die Sonne plus Planeten) leben die Leute in einem Gesellschaftssystem das dem Feudalismus ähnelt. Die Menschen sind auf Lebenszeit ihren Dienstherren unterstellst und selbst ihre Kinder werden direkt in die Sklaverei geboren. Witzigerweise gehören selbst die wohlhabenden Familien dazu, auch wenn es praktisch natürlich keinen Unterschied für sie macht. Freiheit ist ein gut das man erst zu schätzen lernt wenn man den Kontrast sieht. Worauf ich eigentlich hinaus wollte, gelegentlich kommt es vor das man als Firmensklave trotzdem entlassen wird. Das führt zu einer ärgerlichen Zwischenphase. Und dann muss man Jobs annehmen für die man definitiv nicht geeignet ist. Für weitere Frage könnt ihr euch vertrauensvoll an Couch Stilley wenden.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #132
+
+* Titel: `Outer Worlds - #132 - [DLC1-#16] - Olympusorbit Station [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir bereits einen ehemaligen Spacers Choice Wissenschaftler auftreiben konnte, einen kleinen Abstecher mit ein paar über motivierten Wurfballspielern hinter uns gebracht haben ist es jetzt an der Zeit die Station Olympus anzufliegen. Dort hält sich der zweite Wissenschaftler auf dessen Zugangsdaten wir brauchen. Wie genau das übrigens funktioniert ist mir nicht klar. Die Schlösser sind definitiv nicht biometrisch, auch wenn Clarence Mostly das so genutzt hat. Und das man die Leute einfach mit ihrer Zugangskarte gehen lässt erscheint mir auch ein wenig seltsam. Wie dem aber auch sei, Jasper Low ist irgendwo auf der Anlage die über Olympus schwebt und dort werden wir ihn auch finden, das oder seine Leiche. Es gibt wohl etwas namens "Pink slip protocol". Für die weniger mit amerikanischen Slangwörtern Vertrauten, das ist das Kündigungsschreiben. Auntie Cleo scheint aber das mit den Kündigen ein wenig ernster zu nehmen, oder aber die besondere Struktur der Halcyon Lebenszeitverträge kommt hier zum tragen. Das ist schwer zu definieren.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #133
+
+* Titel: `Outer Worlds - #133 - [DLC1-#17] - Dr. Jasper Low [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir treffen nicht jeden Tag einen Top Wissenschaftler. Dr. Jasper Low ist zum Beispiel keiner, er ist definitiv besser als die meisten anderen die man so in Halcyon finden kann aber ich habe ein wenig Probleme den guten Mann einzuschätzen. Spacers Choice hat seinen wert auf jeden Fall nicht besonders hoch angesehen und ihn zu einem günstigen Preis gegen 5 andere Wissenschaftler eingetauscht. Mir ist übrigens ein wenig ein Rätsel warum sich Auntie Cleo erst die Mühe macht irgendwelche Wissenschaftler anzuheuern nur dann so etwas wie das Pinkslip Protokoll zu besitzen. Eventuell wurde es aber auch einfach durchgeführt weil es gar keine Möglichkeiten mehr gibt irgendwelche Waren mit Raumschiffen durch die Gegend zu schicken und deswegen das Einsacken der Wissenschaftler sowieso unmöglich gewesen wäre. Und bevor man das zu gibt geht man lieber andere Wege.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #134
+
+* Titel: `Outer Worlds - #134 - [DLC1-#18] - Himmelblau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit der richtigen Droge kriegt man eine Menge bewerkstelligt was vorher unmöglich ist. In der Regel betreibt man dabei aber Raubbau am eigenen Körper da man irgendwelche Ressourcen nutzt die eigentlich für Notfälle gedacht waren. Die biologische "Konstruktion" von Menschen ist natürlich nicht so simpel das es direkt dezidierte Notfallressourcen gibt aber definitiv gibt es einige Sicherheits"einstellungen", wie zum Beispiel die das die Muskeln theoretisch mehr könnten als die Knochen darunter aushalten. Das führt dazu das mit mit bestimmten Stoffen diese Sicherheit übergehen kann. Gut für den Körper ist das nicht, genau wie keinen Schmerz zu spüren. Für die geistigen Drogen gilt höchstwahrscheinlich das gleiche, irgendwann ist der Dopamin Vorrat dann halt auch einfach leer. Es sei den man baut etwas in die Droge das dafür etwas tut, aber dann muss man an anderer Stelle auch noch etwas tun. Wie dem aber auch sei, Japser Low ist der  festen Meinung das er mit Himmelblau einiges erreichen kann. Das sehen wir heute in Aktion.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```

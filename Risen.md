@@ -445,3 +445,69 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #35
+
+* Titel: `Risen - #35 - Kapitän Romanov [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Kapitän ist in der Regel jemand, es ist ja nicht so das man einfach das Steuer und die Verantwortung über eine größere Anzahl an Leuten kriegt, meistens Männer übrigens. Frauen und Männer auf hoher See würde bestimmt zusätzliche Logistik erschaffen die ich mir problematisch vorstellen könnte. Menschen sind primitiv. Kapitän Romanov übrigens auf einem gewissen Niveau auch. Der Mann gibt sich halt als starker Seebär und erzählt ein paar lustige Geschichten darüber das die Welt gefährlich ist aber das war es dann aber auch im großen und Ganzen. Wie dem aber auch sei, wir haben mal mit ihm gesprochen, er beschwert sich das die Gefängniswaschmaschine kaputt ist und das war es im großen und Ganzen dann wirklich. Toller Kapitän. Und die Welt geht anscheinend demnächst unter wenn ich das richtig verstanden habe. Das ist eher ärgerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #36
+
+* Titel: `Risen - #36 - anständige Bürger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich möchte direkt hier und jetzt feststellen das wir wohl kein anständiger Bürger sind. Egal was passiert, bisher sieht es nicht so aus als wäre der Pfad der Rechtschaffenheit irgendetwas das wir anstreben können. Wir werden wohl ziemlich wahrscheinlich ein dunkler Held, egal was passiert. Dafür mache ich die Gesellschaft verantwortlich die mir nicht wirklich eine andere Möglichkeit gelassen hat. Die Bauern nimmt man aus, jeder Möglichkeit beraubt sich nützlich in die Gesellschaft einzubringen. Die Stadtbewohner sind gierig und die Weißen scheinen kein moralisches Konzept anzubieten das in irgendeiner Weise attraktiv ist. Man spricht zwar viel darüber die Banditen für ihre Sühnen zu bestrafen aber die Gesellschaft die ihre Philosophie anbietet ist nicht akzeptabel. Und doch, und doch gibt es dort draußen noch aufrechte Bürger. Menschen die daran interessiert das Gesetzt zu wahren und sich so zu verhalten wie man es humanistisch für gut befindet würde. Nur wir tun das nicht. Und dann gibt es da noch die raffgierigen Waffenhändler die ihren Schmied zu Tode arbeiten obwohl sie selber keinen Mehrwert für die Gesellschaft erbringen. Verdammte Blutsauger.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #37
+
+* Titel: `Risen - #37 - Carlos Ermahnung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gut und böse gibt es in relativ und absolut. Oder nur in relativ aber meine humanistische Werte halten mich davon ab das zu behaupten. So oder so agieren wir hier definitiv im relativen Bereich. Schutzgelderpressung ist objektiv ziemlich böse, das Arbeiten für die Banditen im Allgemeinen aber nicht.  Finde ich zumindest. Wie dem aber auch sei, Kommandant Carlos sieht das anders, das überrascht überhaupt nicht, er "arbeitet" schließlich für die Inquisition die ihre eigenen Werte hat. Diese Werte kann ich übrigens nicht wirklich teilen und daher habe ich eine logische Entscheidung getroffen. Die dritte Alternative wäre es gewesen in der Gosse zu verhungern und das wäre nun wirklich nicht spannend. Außerdem wäre es keine Reise, jeder braucht eine Reise, wer will schon irgendwo ankommen? Wie dem aber auch sei, der gute Kommandant beschwert sich bei uns das wir uns nicht früher bei ihm gemeldet haben. Das ist absolut lächerlich, seine Speichellecker haben uns ja nicht einmal vorgelassen! So volksnah ist die Inquisition. Lächerlicher Verein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #38
+
+* Titel: `Risen - #38 - milde Gaben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind milde. Manchmal, wenn es uns etwas nützt. Das ist das Schöne am Böse sein. Letztendlich kann man viel mit Egoismus erklären. Viele Leute sind dadurch auch leicht zu täuschen. Wenn man zum Beispiel hier und da mal Großherz zeigt denken die Leute gleich wieder "so ein schlechter Kerl kann er doch gar nicht sein weil xyz". In Wirklichkeit ging es halt nur genau darum. Große seelenlose Konzerne machen das auch gerne, dann wird hier und dort mal ein Kinderdorf gefördert. Oder man setzt sich für irgendwas ein das quasi keine echte Konsequenz hat. Sport ist auch sehr beliebt. Was wir als namenloser Held wollen weiß ich noch gar nicht so recht. Aber reich werden wäre schon mal ein Anfang. So wie die Dinge aber aktuell stehen sind wir davon noch weit entfernt. Es sich also sofort mit allen möglichen Leuten zu verscherzen wäre also eine schlechte Idee. Rückhalt im einfachen Volk könnte uns in einer Fluchtsituation helfen. Daher lassen wir uns heute zu ein paar milden Gaben herab. Einfach so. Nur als Investition in die Zukunft, aber nicht mit einer konkreten Absicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #39
+
+* Titel: `Risen - #39 - Scordo [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In Elder Scrolls Online, einem anderen Lets Play das ich schon seit vielen Jahren mache, immer mal wieder, gibt es einen Ork der Skordo die Klinge (oder das Messer) heißt. Risen ist technisch gesehen ein paar Jahre jünger als ESO aber dennoch muss ich an Skordo das Messer denken immer wenn ich den Namen Skordo höre. Das führt zu seltsamen mentalen Wegen. Das passiert öfter wenn man bestimmte Namen mit einer Person verbindet. Alle Daniels werden für mich immer ein wenig wie mein Jugendfreund Daniel sein. So funktionieren die Dinge wohl. Wie dem aber auch sei, Skordo ist der lokale Kontaktmann zum Ton. Also direkter Kontaktmann, andere Leute in der Stadt arbeiten auch für ihn aber nicht so wie Skordo. Quasi ist er der Anführer des lokalen Untergrunds. Als solcher ist er übrigens auch ein gesuchter Mann. Skordo hat es nicht leicht, die meisten Zeit des Tages verbringt er anscheinend in seinem Kellerloch. Auch nicht unbedingt schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

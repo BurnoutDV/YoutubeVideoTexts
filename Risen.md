@@ -524,3 +524,39 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #41
+
+* Titel: `Risen - #41 - Gnomqualen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder draußen, und das bedeutet das wir die neue Freiheit nutzen um uns wieder verprügeln zu lassen. Das ist doch eigentlich relativ klar, lustigerweise sind unsere größten Feinde hier nicht andere Menschen oder herumtreibende Räuber sondern stattdessen Gnome. Die machen erstaunliche Mengen an Schaden und erweisen sich als hinreichend nervig um mir auch den letzten Faden meiner Geduld zu rauben. Wie dem aber auch sei, am Ende lauern die Gnome im Gebüsch und wir hauen sie um, von all den vielen Fehlversuchen die ich davor hatte können sie ja nichts wissen. Aus ihrer Sicht kam ich an, haute sie alle um und zog mit ihren Schätze von dannen. So einfach kann das sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #42
+
+* Titel: `Risen - #42 - Wildschätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt wieder in der Wildnis, weil wir haben ja einen Geheimgang der es uns erlaubt die Stadt zu verlassen. Den haben wir auch genutzt, in der festen Gewissheit jederzeit wieder zurückkehren zu können. Dort draußen erwarten uns jede Menge Reichtümer, unter Anderem auch tonnenweise Gnome die uns alle töten wollen aber wenn wir nicht grade sterben heben wir auch unermessliche Schätze. Das ist in unserem Interesse, wir wissen zwar ansonsten nicht wirklich was wir eigentlich tun wollen, aber reich werden wäre auf jeden Fall schon einmal ein Anfang. Daher finden wir heute Schätze in der Wildnis, ein wenig zumindest. Ob das jetzt wohl der große Reichtum ist mit dem wir uns die Welt kaufen können bezweifle ich allerdings stark. Wir müssen also weiter suchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #43
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

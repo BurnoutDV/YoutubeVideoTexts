@@ -392,6 +392,42 @@
 
 ##### #136
 
+* Titel: `Outer Worlds - #136 - [DLC1-#20] - Forschungsnotizen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt nichts Schöneres als wenn wir die Notizen von Forschern finden die vor uns da waren. Ärgerlicherweise gab es da auf Gorgon wohl einige Zwischenfälle die bereits während der Projektlaufzeit dafür gesorgt haben das man später nicht mehr viel finden kann. Ärgerlich aber nichts Neues in dem Sinne. Die meisten Organisationen haben wenig Interesse daran das man ihre Firmengeheimnisse leicht finden kann. An sich wollen wir die aber auch nicht wirklich finden und lesen, das wäre viel zu viel Arbeit. Eine gute Zusammenfassungen der Missestände ist eigentlich auch vollkommen ausreichend für einen guten Überblick über die Dinge. Leider findet sich auch das nicht, nur das es wohl so ist das von Anfang an klar war das Adrena Time keine gute Idee ist. Die Manager von Spacers Choice hat das natürlich nicht aufgehalten. Ich frage mich übrigens immer noch wer das eigentlich genau ist.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #137
+
+* Titel: `Outer Worlds - #137 - [DLC1-#21] - vergessene Notizen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode haben wir über die Forschungsnotizen geredet die irgendwie verschwunden sind, oder anders, die leider zerstört wurden. Saboteure sind überall. Heute haben wir es mit vergessenen Notizen zu tun. Die haben die großen Vorteil das sie zwar von irgendjemanden vergessen wurden aber wir sie offensichtlich gefunden haben. Ansonsten könnten wir ja auch nicht darüber reden. Wie dem auch sei, wir finden außerdem ein paar interessante Audiologs die die Frage aufwerfen wie diese überhaupt entstehen konnten. Wie dem aber auch sei, nach und nach lichtet sich der Nebel rund um die Erforschung von Adrena-Time. Zusammenfassend kann man sagen das wirklich jeder, absolut jeder gewusst hatte das das Zeug hochgradig suchterzeugend und außerordentlich schlecht für alle ist. Ich wusste ja das man in Quartalszahlen denkt, aber die Langzeitfolgen von Adrena Time sind schon ein wenig krass.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #138
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  
+  ```
+
+##### #139
+
 * Titel: ``
 
 * Beschreibung:

@@ -40,3 +40,39 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #4
+
+* Titel: `Shadow of the Tomb Raider - #4 - Blackout Protokoll [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man möchte das die Bösen klar zu erkennen sind gibt man ihnen markige Verhaltnsweisen. Wie zum Beispiel die alle Zivilisten zu erschießen. Warum und ob das überhaupt sinnvoll ist ist dabei völlig egal, es sind ja schließlich die Bösen. In diesem Fall geht es wohl damit mit der Macht irgendwelcher uralten Artefakte die gesamte Welt zu verändern. Und das anscheinend sogar ziemlich bald. Mir ist daher absolut nicht klar warum man sich überhaupt noch die Mühe macht irgendwelche Leute zu erschießen. Wenn man die ganze Welt verändern kann, wer interessiert sich da noch darüber das irgendwelche Geheimnisse oder Informationen raus kommen. Stattdessen senkt man die Moral der eigenen Leute die eventuell anfangen könnten die Mission in Frage zu stellen. Trinity besteht zwar aus Fanatikern aber auch die Müssen die größere Ökonomie bedenken. Das Schlimmste ist, auch wenn comichaft böse und hier bestimmt auch als Werkzeug genutzt, ich halte dieses Verhalten für durchaus realistisch. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #5
+
+* Titel: `Shadow of the Tomb Raider - #5 - Landung in Peru [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird endlich Zeit für einen Ortswechsel, wir sind jetzt in Peru. Natürlich kommen wir da per Flugzeug hin. Es wäre ja auch ein wenig lächerlich wenn wir den ganzen Weg laufen würden, eventuell hätten wir den Tsunami vor ein paar Tagen reiten können aber dann hätten wir auf Jonah verzichten müssen. Wie dem aber auch sei, wir sind jetzt im Dschungel, das war nicht ganz geplant aber eine Lara Croft würde ja nicht aufgegeben nur weil sie plötzlich an einem lebensfeindlichen Ort ist. Wir kämpfen uns einfach durch und finden unseren Piloten und danach unseren alten Kumpel Jonah. Kann ja alles nicht so schwer sein, das wird wahrscheinlich auch einen Tag dauern, aber morgen halten wir dann Trinity auf und retten die Welt. Schon morgen, kann ja auch nicht so schwer sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #6
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

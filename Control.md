@@ -1126,3 +1126,39 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Control auf dem Dienstags Slot. The Foundation DLC
   ```
+
+##### #86
+
+* Titel: `Control - #86 [DLC2-#6] - Langston am Apparat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute hören wir die liebliche Stimme von Fred Langston, der gute scheint dem Namen Panoptikum alle Ehre zu machen. Ich hatte mir ja schon gedacht das der Ort auch der Überwachung dient. Aber so richtig habe ich noch nicht die gewaltigen Monitorwände gesehen die man erwartet würde wenn man sich die Anzahl an Kameras im ältesten Haus anguckt. Wie dem aber auch sei, trotz der Tatsache das er eigentlich nicht alleine auf seinem Posten ist hat er anscheinend nicht oft Gelegenheit mit irgendjemanden zu sprechen. Langston ist einsam, und wir wollen das älteste Haus auch nicht weiter beschädigen. Daher hören wir uns heute eine Reihe von Monologen an die uns Langston anbietet. Toll.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLCHier
+  ```
+
+##### #87
+
+* Titel: `Control - #87 [DLC2-#7] - Fra Mauro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Untersuchungssektor sind die eigentlichen AWEs, also zumindest die die man nach draußen transportieren kann..und dann wieder rein. Warum genau die Ordinary AWE im Isolationssektor war ist mir übrigens nicht so ganz klar. Wie dem aber auch sei, Fra Mauro ist für uns jetzt erst einmal etwas Unbekanntes weil wir nicht so recht wissen was es damit auf sich hat. So oder so müssten wir für so eine Aussagen aber auch erstmal bis zur eigentlichen Untersuchungsstätte kommen. Das älteste Haus scheint bei längerer Abwesenheit von Personal ein wenig instabil zu werden, oder es war das Wesen das mal Hartman war. Die wenigsten Wände sind noch grade, außerdem ist es echt dunkel. Das nervt ein wenig, schauen wir doch ob Jesse Faden ein wenig Licht ins Dunkel bringen kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #88
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

@@ -553,6 +553,71 @@
 
 ##### #43
 
+* Titel: `Risen - #43 - schwarze Wölfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen heute weit raus, das geschieht manchmal wenn ich ein wenig Erkunde. Und dann steht man plötzlich vor unfreundlichen schwarzen Wölfen die mir volles Pfund aufs Maul hauen. Das macht dann nicht mehr ganz so viel Spaß. Mit ein wenig Taktik kriegt man aber auch die schrecklichsten Wölfe nieder. Man muss nur sehr taktisch und bedacht spielen. Dann ist auch das möglich. Leider sind im offenen Gelände die schrecklichen Wölfe immer noch ein größeres Problem für uns. Woran es uns wirklich fehlt ist eine gute Rüstung. Der Unterschied der ein Rüstungswert in Piranha Bytes Spielen macht ist wirklich gewaltig. Ich finde es übrigens auch beeindruckend das sich diese Mechanik des Gatekeepings wirklich durch alle Teile gezogen hat. Selbst in Elex wird die Rüstung noch das eine Parameter sein das aussagt ob man eine Chance hat oder nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #44
+
+* Titel: `Risen - #44 - das Bastardschwert [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Beschreibung der letzten Episode erwähnte ich das meine Rüstung das größte Problem bei der Erkundung der Welt ist. Das ist immer noch richtig aber mein zweites Problem hat mit der Menge an Schaden zu tun die ich so normal verteilen kann. Die ist auch einfach zu gering. Um dagegen etwas zu tun brauchen wir eine neue Waffe und höchstwahrscheinlich auch noch neue Fähigkeiten um diese Waffe vernünftig zu führen. Außerdem braucht es wohl eine erhebliche Menge an Stärke. Das alles können wir nicht sofort zu Verfügung stellen aber es wäre bestimmt schlau das schon rechtzeitig vorzubereiten. Daher haben wir Eisenerz gesucht, sind Freunde mit einem lokalen Schmied geworden und jetzt stellen wir sogar die Waffe her. Wollen wir doch schließlich sicher gehen das am Ende alles klappt. Ich darf also heute stolz mein Bastardschwert präsentieren. Wenn nicht nur immer alle Leute die Schleifsteine benutzen würden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #45
+
+* Titel: `Risen - #45 - Romanovs Truhe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen das der gute Kapitän Romanov eine Truhe versteckt. Darin liegt eine größere Menge an Gold die er vom Don erhalten hat. Dennoch liefern wir das Gold an den Kapitän aus, so wie es aussieht schlagen wir uns ja auf die Seite des organisierten Verbrechens. Und solange uns da niemand bedrohlich wird können wir erst einmal die Seite der Ehre spielen. Bisher bezahlen uns die Leute ja auch pünktlich und ausreichend. Insofern kann ich mich jetzt echt nicht beschweren. Und da sagt man immer das sich Verbrechen nicht lohne. Das die Truhe ein wenig woander ist überrascht mich ein wenig aber das hält den namenlosesten aller Helden ja nicht auf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #46
+
+* Titel: `Risen - #46 - finstere Gräber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere Reise durch die Tiefen der namenlosen Insel führt uns ja nicht immer an lichtbeschienene Lichtungen auf der dann böse Feinde warten, manchmal begeben wir uns auch in Höhlen. Dort lauern dann ebenfalls böse Gegner die uns ganz schön weh tun. Das ist nicht unbedingt schön und schätze das definitiv nicht. Allerdings handelt es sich bei diesen Höhlen auch um Grabstätten. Bisher war es zwar nicht ganz möglich zu ergründen wer genau eigentlich begraben wurde, hier fehlt leider Frau Croft die uns in dieser Hinsicht aufklären würde, aber immerhin finden wir die Goldschätze. Das ist auch irgendwie beruhigend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #47
+
+* Titel: `Risen - #47 - Heilsparsamkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin geizig in Spielen. Auch im echten Leben ist das übrigens einer meiner Laster. Es wird alles nicht besser das mir das natürlich bewusst ist. Übermäßige Sparsamkeit hat auf jeden Fall noch niemanden genutzt, Verschwendersucht natürlich auch nicht. Problematisch wird es auch wenn man nur partiell sparsam ist aber dann für egoistische Zwecke alles raus haut. Der namenlose Held ohne Ziel bin ich aber nicht also ist mir sein Leben nicht wichtig genug um dafür Geld auszugeben. Oder Heiltränke, man weiß ja nie an welche Engstelle man noch geraten könnte an der man die Heiltränke viel dringender bräuchte als hier. Daher sterben wir heute eventuell ein paar Mal weil ich einfach zu geizig bin Geld für Heilung auszugeben. Und selbst wenn ich das tun würde, das Zeug zu trinken ist ja einfach unverantwortlich. Wir drehen uns im Kreis. Aber man könnte es wohl als Sünde sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #48
+
 * Titel: ``
 
 * Beschreibung:

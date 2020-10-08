@@ -69,6 +69,71 @@
 
 ##### #6
 
+* Titel: `Shadow of the Tomb Raider - #6 - Großkatzen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Überall wo Menschen leben haben es andere Raubtiere schwer. Das liegt nicht daran das Menschen besonders stark, schnell oder sogar fähig wären. Aber sie haben eine überraschend hohe Reproduktionsrate und die Fähigkeit sich über Sachverhalte aus zu tauschen. Informationen werden weitergegeben, da wo einige scheitern kommen Neue und probieren es erneut. Warum erzähle ich das? Weil große Jäger wie zum Beispiel die Großkatzen des Dschungels nur beschränkte Chancen gegen Menschen haben. Das einzelne Exemplar ist leichte Beute, aber wenn dann immer neue Menschen kommen und den Lebensraum einschränken kann es schnell gefährlich werden. Alternativ läuft man auch Lara Croft über den Weg. Dann reicht schon ein Mensch und 50 Kilo Muskelmasse ändern einfach überhaupt nichts am eigenen Schicksal.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #7
+
+* Titel: `Shadow of the Tomb Raider - #7 - Prinzessin Abendstern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eines Tages werde ich mich einmal über die Sprache der Inka und Maya informieren. Immerhin weiß ich jetzt aber sicher das die Maya in Mexiko gelebt haben während die Inka die Peru-Fraktion sind. Das sollte zumindest das schon einmal für uns klären. Das mit der Sprache ist wichtig weil sich Konzepte nicht so einfach aufschreiben lassen. Schrift transportiert nicht immer Bedeutung, und Verständnis ergibt sich nicht aus dem Lesen. Eine antike Sprache wie die der Maya oder Inka zu lesen ist nicht vergleichbar mit moderner Schrift in sagen wir einmal Kyrilisch. Man liest nicht einfach den Text, weiß dann die Worte und schon ist die perfekte Bedeutung bekannt. Insbesondere bei einer Sprache von der ich annehmen muss das nur die höchste Kaste sie überhaupt gesprochen hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #8
+
+* Titel: `Shadow of the Tomb Raider - #8 - Hydraulikbrücke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das ich die Fähigkeiten der Inka anscheinend großartig unterschätzt habe. Nicht nur waren sie in der Lage komplexe Gerätschaften zu erstellen sondern, und das ist eigentlich noch viel bedeutsamer, dieser für hunderte Jahre konservieren. Das große Problem an technischen Errungenschaften ist ja immer das das die Dinge in der Regel nicht so lange halten. Wenn man dann auch noch irgendwo in einem Dschungel wohnt dann ist das eher unpraktisch. Und doch, heute gibt es ein wahres Meisterwerk der Brückentechnik das es uns ermöglicht einen Fluß zu überqueren. Warum genau das Bauwerk da steht ist mir übrigens nicht klar, weil eigentlich hätte es eine normale Brücke auch getan, meiner Meinung nach.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #9
+
+* Titel: `Shadow of the Tomb Raider - #9 - tapfere Abenteuerin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir reisen heute nicht in dem Sinne in die Vergangenheit, aber wir erinnern uns an etwas aus der Kindheit Laras. Wir sehen das große Kinderhaus ihrer Jugend, ich muss sagen, die Crofts sind wirklich ziemlich sehr reich. Also wirklich reich reich, manche Leute verfügen ja über ein größeres Haus, eventuell sogar einer Putzfrau die zweimal wöchentlich kommt. Schaut man sich das Anwesen von Lord Croft an sehe ich aber mehr als nur einen einfachen Millionär. Offensichtlich habe ich keine Ahnung solchen Dingen aber ich würde mal so über den Daumen peilen das ein Anwesen der Größe selbst auf dem Land Einiges allein an Unterhalt kostet. Witzigerweise interessiert das Lara Croft der Gegenwart aber weniger, wir wissen das das Anwesen noch existiert und sie Zugang hat, also finanziert jemand zumindest den grundlegenden Unterhalt. Auf der anderen Seite hatte Lara in der ersten Installation Geldsorgen. Warum? Weil das Einkommen der Länderein exakt für den Erhalt des Anwesens und ein kleines Stipendium reicht? Das erscheint mir unlogisch.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #10
+
+* Titel: `Shadow of the Tomb Raider - #10 - Dschungelhöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind zurück im Dschungel. Wie auch schon in den Vorgängern gibt es auch in Peru eine Reihe von Höhlen die bisher anscheinend noch kein Mensch betreten hat. In Yamatai und Sibirien war das gar nicht einmal so unwahrscheinlich, aber ich meine einmal gelesen zu haben das selbst die unzugänglichsten Dschungel schon gelegentlich betreten werden und das Menschen wirklich gut darin sind wirklich jeden Ort der Welt zu erkunden. Auch wenn eventuell Rückschläge zu verzeichnen sind. Der Hunger nach Reichtum und Möglichkeit sich zu etablieren scheint wahrlich unersättlich zu sein. Wenn man sich das in einem größeren Maßstab zu Ende denkt stellt sich hier natürlich die Frage wie das ausgehen soll. Wie dem aber auch sei, wir erkunden eines der erwähnten Grabstätten mit perfekt funktionierenden Fallen und erfreuen uns unserer Schätze. Das ist doch mal etwas oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #11
+
 * Titel: ``
 
 * Beschreibung:

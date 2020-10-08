@@ -418,15 +418,46 @@
 
 ##### #138
 
-* Titel: ``
+* Titel: `Outer Worlds - #138 - [DLC1-#22] - Verbraucherforschung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Nachdem wir zuletzt die Labore betreten haben in denen die tödliche Medikamente zusammengebraut wurden die man in ganz Halcyon verkaufen wollte und von denen man wusste das ihre Entwicklung auf keinen Fall abgeschlossen war betreten wir heute den Ort an dem man die Medikamente ausprobiert hat. Ich würde mich ja für Tierversuche stark machen, aber die einzigen verfügbaren Tiere scheinen Troglos und Boarstschweine zu sein, das wäre also keine gute Idee. Also nimmt man Menschen, von denen hat man anscheinend eine größere Menge. Natürlich nimmt man nicht die "wertvollen" Angestellten sondern irgendwelche Häftlinge. Ich bin allerdings ein wenig verwirrt warum man sich überhaupt die Mühe mit den Häftlingen gemacht hat, von den eigenen angestellten hat man ja scheinbar auch keine hohe Meinung. 
   
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
 
 ##### #139
+
+* Titel: `Outer Worlds - #139 - [DLC1-#23] - freiwillige Testsubjekte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man stelle sich vor man hockt auf einen Planeten auf dem man ohne Weiteres nie wieder weg kommt. Man wird dort festgehalten weil man die Regeln eine Gesellschaft verletzt hat die absolut nichts mit Humanität und gesunden Menschenverstand zu tun. Dann verspricht eine Firma das man für die Zusicherung der Teilnahme an ein paar "harmlose" Tests die Freiheit zurückerlangen kann. Natürlich iust diese Firma Spacers Choice und ich kann mir den ungefähren Wortlaut ziemlich gut vorstellen. Definitiv hat dabei niemand erwähnt das man seine anderen Mitgefangenen mit einem Bleirohr schlägt bis sie zusammenbrechen. Die Einnahme von permanent verändernden Drogen wurde bestimmt auch nur in einem Nebensatz erwähnt.
+  
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #140
+
+* Titel: `Outer Worlds - #140 - [DLC1-#24] - kompaktierte Abfälle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich möchte mir einbilden das man Menschen nicht einfach in Würfel pressen kann. Die Zusammensetzung von Gewebe und Knochen erscheint mir einfach nicht geeignet zu sein dauerhaft in Würfelform zu bleiben. Vielleicht ganz kurz und dann wird alles eher zu einer Pfütze. Das hält uns heute nicht davon ab herauszufinden warum Spacers Choice die Kompaktiermaschienen in rauen Massen gekauft hat. Umso überraschter bin ich dann auch eine solche Maschine in der Abteilung für Verbraucherforschung zu finden. Wenn wir vorher noch Zweifel an den Verfehlungen der Firma haben dann sollte jetzt damit Schluss sein. Und das war nicht die Tat einer einzelnen Person und einer größeren Reihe von Robotern, die meisten Schlüsselstellen waren von Menschen besetzt die ihr Tun für richtig hielten, oder zumindest für richtig genug um nicht aktiv dagegen vorzugehen.
+  
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #141
 
 * Titel: ``
 

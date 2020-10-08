@@ -1155,6 +1155,71 @@
 
 ##### #88
 
+* Titel: `Control - #88 [DLC2-#8] - Verladebereich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Untersuchungssektor beschäftigt sich damit Vorfälle der realen Welt zu untersuchen. Die sind unter Umständen ein wenig sperrig. Die Behörde verfügt aber definitiv über genügend Platz um solche Probleme zu umschiffen. Dennoch müssen die Gegenstände heran gefahren werden. Zu diesem Zweck gibt es den Verladebereich. Wir haben im Isolationssektor bereits eine ähnliche Abteilung gesehen. Alles in Allem verfügt die Behörde über eine erstaunliche Anzahl an industriell anmutenden Anlagen, und das direkt in New York. Müsste das älteste Haus Miete bezahlen oder wäre der real genutzte Platz ein echtes Problem wäre es bestimmt ziemlich schwierig den Standort zu verteidigen. Stattdessen würde sich die Behörde wahrscheinlich in Montana oder irgendeinen anderen Fly-Over State befinden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #89
+
+* Titel: `Control - #89 [DLC2-#9] - Rennmaus hat Huthalter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Fra Mauro AWE ist ein wenig seltsam. Am Anfang war mir ehrlich gesagt nicht so ganz klar worum es eigentlich ging. Es stellt sich heraus das die Landekapsel die in der Mitte des Untersuchungsbereichs nicht etwa ein Filmset für eventuelle weitere Perspektiven der Mondlandung ist sondern ein ernst gemeinter Untersuchungsansatz. Mir ist nicht ganz klar warum man überhaupt die Umgebung nachbauen wollte aber man hat es getan. Ich kann nur davon ausgehen das es sich auch um echten Mondstaub handelt der um die Landungskapsel herum verteilt ist. Mondsand hat übrigens die unangenehme Eigenschaft das er ziemlich scharf ist. Sand auf der Erde hat wirklich viel Erosion hinter sich, nicht so das Zeug das auf dem Mond liegt, das ist da ziemlich statisch und hadert der Dinge aus.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #90
+
+* Titel: `Control - #90 [DLC2-#10] - Langstons Monologe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe über Fred Langston bereits öfter geredet. Der  Mann ist offensichtlich nervig, aber das macht ihn auch ziemlich wertvoll in der richtigen Rolle. Als Teamleiter oder Kommunikationsbeauftragter wäre er offensichtlich in der falschen Rolle. Auch als Ranger könnte ich ihn mir nur kurz vorstellen. Wahrscheinlich hätten ihn seine Mit-Ranger irgendwann unauffällig in der Formation entsorgt. Oder sonstewo. Bei den Wissenschaftlern könnte er sich bestimmt wohlfühlen allerdings scheint er dafür nicht den richtigen forschenden Geist zu haben. In der Isolationsabteilung kann ein Mensch wie Fred Langston aufblühen, mittlere Verantwortung, größtenteils ein langweiliger Job aber trotzdem muss ihn irgendjemand tun. Und da kommt ein guter Mann wie er ins Spiel. Warum er dann irgendwelche creepy Monologe aufnehmen muss ist mir allerdings nicht ganz klar.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #91
+
+* Titel: `Control - #91 [DLC2-#11] - Eagle Limited [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eagle Limited ist ein Zug. Ich hätte von Namen daraus geschlossen  das es sich um eine Firma handelt, daher das "Limited", so wie als hätte sie nur eine beschränkte Haftbarkeit, quasi eine GmbH. Ist es aber nicht, stattdessen handelt es sich um einen einzelnen Wagon der scheinbar das gewandelte Objekt darstellt. In seiner Größe auf jeden Fall einzigartig. Mir drängt sich immer mehr der Eindruck auf das es sich bei gewandelten Objekten größtenteils um Dinge handelt die ein Trauma haben. Hier haben wir zum Beispiel einen Zug der Leute durch die Gegend gebracht hat und der nun traumatisiert ist weil Leute in ihm gestorben sind. Andere Wagons sind vielleicht stoischer und hätten das einfach weggesteckt. Wären einfach kaputt gegangen und hätten eine neue Existenz als Altmetall oder andere Gegenstände angefangen. Vielleicht als Teile einer Karroserie eines Autos. Nicht Eagle Limited, dieser Zug hat soviel erlebt das er eine eigenständige Wesenheit gebildet hat. Und so wie es aussieht war das nicht ganz Zufall...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLCxxxxxxxxxx Eagle Limited ist ein Zug. Ich hätte von Namen daraus geschlossen  das es sich um eine Firma handelt, daher das "Limited", so wie als hätte sie nur eine beschränkte Haftbarkeit, quasi eine GmbH. Ist es aber nicht, stattdessen handelt es sich um einen einzelnen Wagon der scheinbar das gewandelte Objekt darstellt. In seiner Größe auf jeden Fall einzigartig. Mir drängt sich immer mehr der Eindruck auf das es sich bei gewandelten Objekten größtenteils um Dinge handelt die ein Trauma haben. Hier haben wir zum Beispiel einen Zug der Leute durch die Gegend gebracht hat und der nun traumatisiert ist weil Leute in ihm gestorben sind. Andere Wagons sind vielleicht stoischer und hätten das einfach weggesteckt. Wären einfach kaputt gegangen und hätten eine neue Existenz als Altmetall oder andere Gegenstände angefangen. Vielleicht als Teile einer Karroserie eines Autos. Nicht Eagle Limited, dieser Zug hat soviel erlebt das er eine eigenständige Wesenheit gebildet hat. Und so wie es aussieht war das nicht ganz Zufall...Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  Control auf dem Dienstags Slot. The Foundation DLCHiermarkdown
+  ```
+
+##### #92
+
+* Titel: `Control - #92 [DLC2-#12] - Transitbereich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich sind große Teile der Behörde Transitbereich. Unzählige Flure und Gängen haben wir bereits passiert, in den meisten lief allerdings kein Westen-das-einmal-Hartman-war umher. Das ist tatsächlich neu, die sogenannte dritte Form. Das Zischen scheint auch nicht richtig Zugriff darauf zu haben und doch...alles ein wenig seltsam. So wie es aussieht ist die Finsternis ja ein eigenes Wesen und funktioniert eigentlich nicht so wie das Zischen sondern auf einer anderen aber ebenso verstörenden Weise. Ich denke wir können uns glücklich schätzen das die ganzen Menschen bereits alle vom Zischen befallen sind und das die Finternis dementsprechend keinen Zugriff auf das restliche Personal hat. Und das die Behörde praktisch im Astralraum grenzt den man nun wirklich nicht als dunkel bezeichnen kann. Da hat es ein Wesen der Finsternis nicht ganz so einfach. Und das wir Jesse Faden sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #93
+
 * Titel: ``
 
 * Beschreibung:

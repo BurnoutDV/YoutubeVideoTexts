@@ -134,6 +134,19 @@
 
 ##### #11
 
+* Titel: `Shadow of the Tomb Raider - #11 - Waldspaziergang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dies ist eine Episode mit generischen Titel. So etwas, so fürchte ich, wird noch öfter vorkommen. Spiele wie Tomb Raider laden zum Backtracken ein, und das tue ich dann natürlich auch in ziemlich großem Umfang, einfach um sicher zu gehen das wir die Welt auch richtig in uns aufzusaugen. Der Nebeneffekt ist aber auch das es ganze Videos gibt in denen nicht wirklich irgendetwas passiert. Das tut mir ein wenig Leid, aber auch nur ein wenig. "Wir" spielen dieses Spiel um es gemeinsam zu erleben, und zu diesem Erlebnis gehört es halt auch ein paar Geheimnisse und Schätze zu heben. Und irgendwelche Herausforderungen im Wald zu erledigen, einfach nur weil ich kann. Leider zieht sich das Ganze mittweilen, einfach weil ich nicht immer sofort sehe wo ich hin muss oder was ich tun soll. An der Stelle biete ich einfach um ein wenig Geduld.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #12
+
 * Titel: ``
 
 * Beschreibung:

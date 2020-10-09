@@ -1220,6 +1220,19 @@
 
 ##### #93
 
+* Titel: `Control - #93 [DLC2-#13] - Bright Falls AWE [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns einem sehr relevanten Ort. Ich habe zu diesem Zeitpunkt noch nicht das Vergnügen gehabt Alan Wake zu spielen, aber so wie es aussieht wird es hier relativ relevant. Viele Zusammenhängen werden für mich wahrscheinlich erst im Nachhinein wirklich Sinn ergeben. Wie dem auch sei, dieser Abschnitt des Untersuchungssektors ist anscheinend abgeschlossen. Der Grund dafür ist wohl das Hartmann-Wesen das seit einiger Zeit den Sektor ziemlich unsicher macht. Ich bin übrigens schon die ganze Zeit überrascht das die Behörde eigentlich relativ unbewaffnet gegen wirklich bedrohliche gewandelte Weltereignisse ist. Außer Schwarzstein hat man anscheinend nicht viel zu bieten. Es gibt wohl einige Parautiliarier aber die scheinen nicht wirklich mächtig zu sein..und dann kam Jesse Faden auf die einfach easy alles weg haut was sich ihr in den Weg stellt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

@@ -459,6 +459,19 @@
 
 ##### #141
 
+* Titel: `Outer Worlds - #141 - [DLC1-#25] - gelöschte Nachrichten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ziemlich viel mit Nachrichten zu tun. Im Hauptspiel haben wir die Geschichte wie sie grade passiert ist gelebt. Klar gab es da auch einen gewissen Anteil an Dingen die bereits geschehen waren und einige Details des Niedergangs der Kolonie haben wir dann doch aus den Aufzeichnungen der Siedler zusammenbauen müssen. Hier auf Gorgon müssen wir aber alles zusammenbauen. Mir scheint nicht das noch irgendjemand am Leben ist der bereit ist mit uns zu reden und mir die Details zu erklären. Ärgerlicherweise funktionieren zwar die Terminals der Firma noch aber nicht alle Nachrichten sind noch da. Wir haben bereits die Spuren von Sabotage gesehen, heute haben wir auch das Problem ganz ordinär gelöschter Nachrichten. Wie gut das wir dafür einen Spezialisten dabei haben, jemanden der sich auskennt mit Computern...
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #142
+
 * Titel: ``
 
 * Beschreibung:

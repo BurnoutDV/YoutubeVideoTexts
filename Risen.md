@@ -1,6 +1,6 @@
 ## Risen
 
-* tags = `risen,lets play,ingame,unbekannte insel,tortuga,sara,tutorial,gothic,gothic 2,playthrough,walkthrough,tricks,modding,german,deutsch,speedrun,story,dialoge,dialogue,story driven,narrative,reading,tactical,speaking,Inquisitor,Vulkanfestung,Don Esteban,RISEN_SORT_TAG`
+* tags = `RISEN_SORT_TAG,risen,lets play,ingame,unbekannte insel,tortuga,tutorial,gothic,gothic 2,playthrough,walkthrough,tricks,modding,german,deutsch,speedrun,story,dialoge,dialogue,story driven,narrative,reading,tactical,speaking,Inquisitor,Vulkanfestung,Don Esteban,Faranga,hafenstadt,Ignatius,Sumpf,magier,inquisition,banditen,dieb,schleichen,sneaky,anwesen,vulkanfestung,bibliothek,schriftrolle,Stahlbart,patty,gregorius emanuel,Drillinge,gyrger,carasco,Skordo,arena,schmieden,duel,blocken`
 
 ##### #1
 
@@ -617,6 +617,19 @@
   ```
 
 ##### #48
+
+* Titel: `Risen - #48 - Weg zur Vulkanfestung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ja in der Vergangenheit bereits häufiger von meinen Plänen erzählt. Meinen Plänen kurz die Vulkanfestung zu infiltrieren und dann wieder zu laden um mich ganz dem Don hinzugeben der meine Arbeit bestimmt sehr zu schätzen weiß. Bis es aber so weit ist müssen wir erst einmal an der Festung ankommen. Das ist nicht ganz so einfach wie man vielleicht meinen möchte. Im Prinzip hätte ich mir die Mühe übrigens auch sparen können. Hätte ich doch einfach in eine Gruppe Novizen laufen können um mich umhauen zu lassen. Da hätte ich viele Meter nicht machen müssen. Andererseits werden wir die Gegend um die Feste hinterher nicht mehr betreten haben wenn wir wieder laden und dann hätte ich ja wertvolle Erfahrung verschwendet. Das können wir auf keinen Fall zulassen. Daher quälen wir uns heute den Berg hoch der wahrscheinlich eigentlich ein Vulkan ist, andernfalls würde der Name wenig Sinn ergeben. Und dann am Ende stehen wir vor Meister Pallas.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #49
 
 * Titel: ``
 

@@ -1231,12 +1231,18 @@
   Control auf dem Dienstags Slot. The Foundation DLC
   ```
 
-##### #Nummer
+##### #94
 
-* Titel: ``
+* Titel: `Control - #94 [DLC2-#14] - Signale aus der Zukunft [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Das Wesen das einst Hartmann war zu besiegen sollte für eine Jesse Faden keine Rolle spielen. Interessanter ist aber ob die Dunkelheit wirklich vollständig von Hartmann besitzt ergriffen hat oder ob es sich hier eher um einen Ableger handelt wie es bei verschiedenen Agenten des Zischens der Fall ist die ja auch ohne direkte Portalverbindung zum Ursprung agieren können. So oder so schaffen wir das heute und befreien damit anscheinend einen Mann namens Alan Wake der in der Lodge sitzt und darauf wartet gerettet zu werden. Wie genau das jetzt physisch passiert weiß ich nicht, aber wir sollten wahrscheinlich demnächst mal nach Bright Falls, Washington fahren, dort könnte es etwas geben das uns interessiert. Irgendwann einmal, wie wohl ein Treffen zwischen Jesse Faden und Alan Wake aussieht? Verlässt ein Direktor überhaupt das älteste Haus für Außeneinsätze? Ist das nicht eine Gefahr wegen der ganzen gewandelten Objekte?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Control auf dem Dienstags Slot. The Foundation DLC
   ```
+
+## Ende des AWE DLCS und damit des Lets Plays
+

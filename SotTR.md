@@ -147,6 +147,46 @@
 
 ##### #12
 
+* Titel: `Shadow of the Tomb Raider - #12 - Dschungelpatroille [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute kommen wir übrigens in einem Dorf an, bevor das aber passiert laufen wir ein wenig durch den Dschungel und begegnen natürlich Trinity. Ich gehe also davon aus das Lara auf den richtigen Weg ist und nicht weit von hier der nächste Hinweis sein wird, vielleicht sogar schon in dem Dorf. Der Dschungel hat hier aber auch die unangenehme Eigenschaft erstaunlich eng zu sein was es uns nicht ermöglicht ohne Weiteres den Truppen von Trinity auszuweichen. Also bringen wir sie kaltblütig um. Ich frage mich übrigens immer wie Lara Croft vor dem Gesetz weg kommt. Wenn es wirklich darauf ankommt könnte Trinity Lara ziemlich leicht legal angreifen. Bei einigen vielen der getöteten Söldner kann man nun wirklich nicht von Notwehr reden.  Da würden dann zwar andere Fragen auf kommen  aber das Verhalten einer Frau Croft ist moralisch auf jeden Fall auch fragwürdig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #13
+
+* Titel: `Shadow of the Tomb Raider - #13 - Kuwaq Yaku [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich Zivilisation, es wird Zeit für eine warme Dusche und einer ordentlich Nacht in einem warmen Bett. Oder auch nicht, anscheinend wurde das Dorf verwüstet. Den Zustand der Hütten nach zu urteilen wäre aber auch schon vorher eine warme Dusche in sauberen Wasser eher unwahrscheinlich gewesen. Mir ist übrigens nicht ganz klar warum die Leute die Häuser so verfallen lassen. Oder wie sich eine relativ große Siedlung eigentlich überhaupt hält. Ich nehme an hier kommen regelmäßig Versorgungslieferungen durch, nur jetzt grade nicht. Zumindest scheint Kuwaq Yaku ziemlich lebendig zu sein, es gibt Kinder und Familien, das spricht ja irgendwie für blühendes Leben oder? Früher gab es hier wohl einmal eine Ölgesellschaft die Wohlstand versprach, das blieb aber dann wohl nicht so. Aber immerhin ein paar Leute mit denen wir reden können.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #14
+
+* Titel: `Shadow of the Tomb Raider - #14 - Befreiung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara spielt sich heute als Heldin auf, übrigens das erste Mal an einem Ort der tatsächlich irgendwie mit der restlichen Welt verbunden ist. Jetzt kann ich nur hoffen das die Kommunikation im Dschungel eher schlecht ist und das niemand eine Filmaufnahmen davon gemacht hat. Es mag vielleicht heldenhaft klingen mehre Frauen und Kinder (und vielleicht auch ein paar Männer) aus den Händen von skrupellosen Banditen zu retten, wenn dann aber heraus kommt das die Rettung so aussah das ich eben jenen Banditen ohne Vorwarnung mit einer schweren Pistole in den Kopf geschossen habe und das gleich 10 Mal hintereinander ohne dabei langsamer zu werden könnte man einen Hauch von Empathielosigkeit in den Handlungen einer Lara Croft finden. Wenn man sich aber so anschaut was sie alles so schon erlebt hat wäre wahrscheinlich Empathie auch ein wenig schwierig. Ich frage mich was Lara macht wenn sie Trinity aufgehalten hat? In ein Kloster gehen und meditieren?
+  
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #15
+
 * Titel: ``
 
 * Beschreibung:

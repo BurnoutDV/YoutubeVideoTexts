@@ -472,10 +472,39 @@
 
 ##### #142
 
-* Titel: ``
+* Titel: `Outer Worlds - #142 - [DLC1-#26] - Excelsiors Spuren [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Mir scheint unser erweiterter Aufenthalt in Halcyon findet bald ein Ende. Daher bin ich bemüht die Zeit die wir noch haben so weit wie möglich zu strecken ohne das dabei einfach nichts passiert. Wir erinnern uns daran das ich die Mission hatte die Spuren eines Comicbuchhelden nachzuvollziehen. Das ist zwar so nicht ganz richtig weil eigentlich hat niemand mir diese Mission indem Sinne gegeben aber es stellt sich heraus das es so etwas wie eine sichere Tür gibt und wir uns wirklich den Wünschen der ehemaligen Bewohner beugen müssen um jene Pforte zu öffnen. Wir wissen nicht einmal welche Belohnung uns erwartet. Und ob es überhaupt eine Belohnung gibt oder ob das was wir tun nicht völliger Unsinn ist. Wir tun es trotzdem, als Cpt. Alex Hawthorne haben wir sonst einen Ruf zu verlieren.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #143
+
+* Titel: `Outer Worlds - #143 - [DLC1-#27] - der P.B.K. [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus es war keine völlige Idiotie den Spuren von Excelsior und seinen Verehrer zu folgen. Jetzt sind wir im Besitz des P.B.K. jener legendären Waffe die der Typ mit sich geführt hat. Zwar nicht direkt das Original, eher eine Replik, die macht aber anscheinend eine Menge Unsinn, ich frage mich was die Konzernleitung von einer solchen Waffe gehalten hätte? Wahrscheinlich gar nichts nehme ich an, bestimmt zu teuer, zu effektiv und verstößt gegen 20 Vorschriften. So oder so, wir benutzen das Ding mal, da wir allerdings überhaupt keine Nahkampffähigkeiten haben wir das definitiv ein kurzer Ausflug. Aber cool sieht es aus.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #144
+
+* Titel: `Outer Worlds - #144 - [DLC1-#28] - technischer Support [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist soweit, wir machen die letzten Schritte, die Schritte die es uns wahrscheinlich erlauben Gorgon zu verlassen. Zumindest gehe ich davon aus, schade das wir nicht alle Geheimnisse aufgedeckt haben, aber eine letzte Hoffnung gibt es ja noch, um Olivias Tagebuch zu erlangen betreten wir heute das Zentrum für Synthese & Manufaktur. Ich kann mir nicht vorstellen das in der Anlage irgendetwas synthetisiert oder hergestellt wird. Der Name existier bestimmt nur um die Leute einzuschüchtern und sich wichtig zu machen. Tatsächlich finden wir im ersten Stock den technischen Support. Der ist übrigens wesentlich interessanter als all die anderen Sachen die wir sonst in dem Gebäude aufstöbern konnten. Der obszöne Reichtum in einem Forschungsstandort sei mal dahingestellt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
   ```

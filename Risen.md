@@ -631,6 +631,45 @@
 
 ##### #49
 
+* Titel: `Risen - #49 - Ordensbrüder [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt sind wir dabei, beim Orden des Feuers. Oder des Vulkans? Irgendwie gibt es in Risen einen gewissen Mangel an Namen bei verschiedenen Dingen, aber das fing ja schon beim Protagonisten an. So oder so kommen wir aus der Nummer wohl so schnell nicht mehr heraus. An sich sind die Barrieren des Klosters relativ leicht überwindbar, es braucht zwar etwas Aufwand aber wenn man wirklich möchte wäre es wohl möglich zu fliehen. Auch kommen Rekruten ja irgendwann raus und werden auch nicht weiter bewacht. Die richtigen Probleme beginnen aber dann damit das Faranga eine Insel ist, eine Insel die nicht besonders groß ist. Das fällt auf wenn man sich wieder versucht unter die Zivilbevölkerung zu mischen. Die Schifffahrt scheint sowieso still zu liegen, einmal in der Inquisition heißt wohl Augen zu und durch, anders kann ich mir kein gutes Überleben feststellen, insbesonderen bei den vielen Gefahren die die Wildnis zu bieten hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #50
+
+* Titel: `Risen - #50 - Rekrutenleben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind dabei, und man fängt natürlich niedrig an, etwas ärgerlich wenn man erst in Zeiten des Konflikts zum Dienst herangezogen wird. Meisten läuft es dann darauf hinaus das man an vorderster Frontlinie verbrannt wird. Wenn wir jetzt relevante Fähigkeiten wie die eines Koches hätten könnten wir uns wahrscheinlich um den eigentlich Militärdienst drücken, aber die Dinge stehen ärgerlicherweise nicht so rosig. Man hat uns übrigens nichts abgenommen als wir die Feste betreten haben, das ist wieder rum sogar sehr praktisch, dadurch verfügen wir über einige Finanzmittel mit denen wir uns den ein oder anderen Gefallen leisten können. Das Leben als Rekrut ist nicht unbedingt von Abwechslung geprägt, immerhin müssen wir nicht viel nachdenken, hier mal jemanden umhauen, da ein wenig Stabkampf. Relativ simpel und an sich auch ein ganz gutes Leben solange das Essen kommt. Sorgen mache ich mir aber um das danach wenn die Ausbildung abgeschlossen ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #51
+
+* Titel: `Risen - #51 - Broncos Übermut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als Rekrut müssen wir uns ja beweisen um irgendwie in der Organisation weiter zu kommen und irgendwann zum Novizen aufzusteigen. Einer dieser Beweise ist es vom Kampftrainer akzeptiert zu werden. Der heißt Bronco und war früher einmal bei der Stadtwache, ein ziemlich harter Kerl, ich hätte trotzdem gerne einmal seine ehemaligen Kameraden zu ihm befragt. Bronco ist ein wenig ärgerlich, der Charakter erinnert mich an den anderen Typen mit dem wir uns im Banditenlager geprügelt haben. Sehr ärgerlicher Menschenschlag. Aber damit müssen wir wohl jetzt leben. Bronco möchte uns auf jeden Fall nicht weiter aufsteigen lassen solange wir ihn nicht besiegen. Das steht so nicht im Protokoll und wir könnten bestimmt auch Beschwerde dagegen einreichen. Ich ahne nur das das nicht unbedingt von Erfolg geprägt sein wird. Daher übernehmen wir das selber und hauen den Typen um, was kann der schon das wir nicht können? Außer eine Rüstung zu haben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

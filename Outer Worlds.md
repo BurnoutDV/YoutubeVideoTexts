@@ -508,3 +508,65 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
+
+##### #145
+
+* Titel: `Outer Worlds - #145 - [DLC1-#29] - Olivias Tagebuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns dem Büro von Olivia Ambrose, anscheinend der Leiterin der Anlage. Ich vermute ja immer noch das es immer noch der Fall ist. Zumindest wäre ich sehr überrascht wenn unser Gegenspieler jemande Geringes als Olivia Ambrose sein sollte. Es wäre auch logisch. Wer sonst hat soviel Zugriff auf die System von Gorgon und die notwendigen Zugriffe? Es scheint zwar als wäre Sicherheit in Halcyon eher sekundär aber komplett durchlässig können die Computer des Systems ja auch nicht sein. Wenn man sich aber realweltige System anguckt könnte man glatt annehmen das Outer Worlds fast noch zu großzügig ist. Sicherheit ist in der Regel immer nur ein Nachgedanke, etwas das man anschafft falls überraschenderweise noch Geld über ist. Oder weil jemand nervt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #146
+
+* Titel: `Outer Worlds - #146 - [DLC1-#30] - Übergabe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist endlich Zahltag, wir haben das Tagebuch, wir haben den Kontakt. Jetzt geht es nur noch darum die Kohle die unser Auftrag angeblich bringen einzusacken. Ich frage mich übrigens wie reich die Eliten von Halcyon wirklich sind. Wie groß ist der Unterschied zwischen Arm und reich? Sind für einfache Arbeiter 10 Bits ein Menge Geld? Sind 10000 Bits Reichtum. Wahrscheinlich eher nicht, aber immerhin stehe ich, egal wieviel es am Ende gibt reicher da als vorher. Die moralischen Implikationen sind natürlich gewaltig und es ist wahrlich ärgerlich das wir keine offensiven Waffen zur Verfügung haben. Andernfalls könnten wir Gorgon einfach in die Luft sprengen und würden uns jede Menge Arbeit ersparen. Aber so wie es aussieht übergeben wir einfach die Ware und lassen uns bezahlen. Auch einfach.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #147
+
+* Titel: `Outer Worlds - #147 - [DLC1-#31] - moralischer Kompass [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn es um moralische Fragen geht kann man sich oft nicht so richtig gut orientieren. Insbesondere die eigene Ansicht ist ziemlich anfällig dafür in irgendeiner Richtung beeinflusst zu sein. Der beste Weg andere Perspektiven zu erhalten ist indem man andere Leute fragt. Die reden vielleicht nicht immer von sich aus darüber aber gelegentlich tun sie es dann doch. Oder man widmet sich den alten Meistern zu und liest irgendwelche philosophischen Bücher. Ich gehe aber mal davon aus das solche Dokumente auf Halcyon eher nicht zur Verfügung stehen. Daher fragen wir die Crew, obwohl eigentlich meine Entscheidung schon feststeht. Mehr oder weniger.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #148
+
+* Titel: `Outer Worlds - #148 - [DLC1-#32] - Täuschung & Verrat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich sehr überraschend heraus das man zu uns nicht ganz ehrlich war. Das kommt für mich ehrlich gesagt weniger als Überraschung. Schließlich wurden wir von einer ziemlich reichen Person angeheuert Dinge zu tun. Da entsteht eine schönes "Wir-gegen-Die" Perspektive. Wir sind offensichtlich Avatar der Arbeiterschaft und sind keine reichen Schnösel. Wir haben das Weltall gesehen. Wir kennen die Welt, aber man respektiert uns nicht bei dem was wir tun. Schließlich sind wir für die der Pöbel. Das geht dann natürlich auch in die andere Richtung. So oder so gibt es da kein wirkliches Vertrauen und es ist eigentlich ein Wunder das ich ohne Vorrauszahlung arbeite. Oder überhaupt. Aber wahrscheinlich ist da einfach meine Neugier mit mir durchgegangen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
+  ```
+
+##### #149
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

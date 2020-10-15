@@ -668,7 +668,59 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #52
+
+* Titel: `Risen - #52 - Cyrus Ungeduld [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Magier und Inquisitoren geben mir ein wenig Rätsel auf. Auf der einen Seite haben wir da die "Weißen" die scheinbar den Großteil der Leute darstellt, harte Krieger die für irgendein nicht näher definiertes Ziel fanatisch brennen und dessen Erreichung alles geben. Auf der anderen Seite stehen da die Magier die die Magie anwenden und die magischen Artefakte die mit solcher Eile aus den Ruinen geborgen werden untersuchen. Einer dieser Magier ist Cyrus, der ist ziemlich ungeduldig und möchte am Liebsten alles schon gestern haben. Es ist recht beeindruckend wie komplett abgekoppelt er von der restlichen Lebensrealität der Menschen ist, fast so als wüssten die meisten Magier gar nicht das die jungen Krieger und Novizen nicht freiwillig hier sind. All das ist Cyrus vielleicht auch einfach egal, er will nur seine Artefakte so schnell wie möglich haben, daher springen wir heute noch einmal über die Mauer, der Meister soll nicht warten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #53
+
+* Titel: `Risen - #53 - Schreiberlinge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir steigen langsam aber sicher in den Rängen der Rekruten bzw. jetzt wohl Novizen auf, das liegt unter Anderem daran das wir das Kämpfen nicht wirklich lernen müssen. Mir ist allerdings nicht so ganz klar warum man uns mit dem Schwert davon kommen lässt. Letztendlich spielt es aber wohl keine Rolle, nachdem wir Bronco volles Pfund aufs Maul gegeben haben hält uns nichts mehr davon ab weiter in den Rängen emporzuklettern. Jetzt sind wir bei den Schreiberlingen, das sieht nach guter, leichter Arbeit in einer warmen Kammer aus bei der nicht viel passieren kann. Wenn es mein Ziel wäre Magier zu werden würde ich wahrscheinlich genau hier mit Absicht stagnieren um die drohende Katrastrophe die auf die Welt zu kommt auszuwarten. Da wir aber anscheinend der designierte Held sind ist das wohl keine Option.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #54
+
+* Titel: `Risen - #54 - Studierkeller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das es eine Keller gibt in dem wir weitere Informationen erfahren können die bei unserer Reise im Bildungssystem weiterführen. Es ist wirklich erstaunlich welche enormen Mengen an Informationen hier in den Tiefen unter der eigentliche Bibliothek versteckt sind. Das es nicht so richtig angesprochen wird ergibt natürlich keinen Sinn. Ich gehe aber mal davon aus das irgendjemand diesen Ort speziell für uns eingerichtet hat, weil wer sonst hat die Kerzen angezündet? Ich nehme einmal an das die Magier wesentlich mehr Kontrolle über die ganze Einrichtung haben als sie uns Glauben machen wollen und jeden unserer Schritte mit Argus Augen überwachen. So oder so, wir lernen Dinge und ich denke das ist eine gute Sache. Es kann nur eine gute Sache sein nicht wahr?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #55
+
+* Titel: `Risen - #55 - Prüfungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem man lange gelernt hat bleibt auch nur noch das Gelernte auch tatsächlich anzuwenden. Oder man legt irgendwelche Prüfungen ab und vergisst sofort wieder alles was man gelernt hat. Hier passiert heute das Zweitere. Was ich so richtig mit magischen Fähigkeiten will ist mir auch nicht klar aber jetzt haben wir zumindest schon einmal die Grundlagen erlernt. Darauf können wir bestimmt aufbauen. Wir legen heute bei den strengen Meistern einige Prüfungen ab. Das ist nicht so einfach wie es vielleicht aussieht, auch wenn wir uns so gut wie es nur geht vorbereitet haben sind nicht alle Aufgaben einfach zu bewältigen. Die Meister kennen die Magie in und auswendig und erwarten von uns ebensolche Leistungen. Ein Anspruch der, wie ich finde, manchmal ein wenig hochgestochen ist. Was noch soll ein einfacher Novize den alles leisten können?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #56
 
 * Titel: ``
 

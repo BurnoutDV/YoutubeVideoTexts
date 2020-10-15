@@ -187,10 +187,53 @@
 
 ##### #15
 
-* Titel: ``
+* Titel: `Shadow of the Tomb Raider - #15 - Tauchschätze [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Tauchen ist eine Funktion die in früheren Spielen eher spärlich genutzt wurde. Das lag unter anderem daran das es Unterwasser einfach nicht gut aussah. Wenn man einfach nur einen Blaufilter drüber legt dann sieht das Gesamtergebnis irgendwie unbefriedigend aus. Mittlerweile ist die Technik besser geworden. Das nächste limitierende Feature ist dann das Menschen normalerweise nach kurzer Zeit die Luft ausgeht. Lara Croft hat anscheinend ein gewaltiges Lungenvolumen und kann das alles locker wegstecken. Auch ihr geht die Puste aus, keine Frage, aber es dauert ziemlich lange. Und während wir noch so hindümpeln entdecken wir einige wertvolle Dinge in den Seen rund um Kuvaq. Ich frage mich allerdings ob es so klug ist in dem Brackwasser zu schwimmen. Entweder ist die Brühe so giftig das das Wasser eine Gefahr für sich ist oder es leben tonnenweise Parasiten in es. In beiden Fällen eigentlich weniger erfreulich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #16
+
+* Titel: `Shadow of the Tomb Raider - #16 - Restaurierung des Originals [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir zerstören heute mal wieder eine Menge Kulturschätze. Danach finden wir weitere Fusstruppen von Trinity. Eigentlich handelt es sich um lokale B und C-Klassen Söldner die mit Trinity überhaupt nichts zu tun haben außer das sie halt bezahlt werden in Gegend x Patroille zu laufen. An sich sind so Söldner bestimmt keine netten Leute und ich habe auch nicht das Gefühl das diese hier besonders gut ausgerüstet sind aber dennoch fühle ich mich ein wenig schuldig. Lara offensichtlich nicht, aber mir scheint das die Typen die wir hier im Busch auflauern diesen Lebensweg vielleicht eher aus ökonomischen Zwängen eingegangen sind als weil sie die große Wahl hatten. Ich habe zugegeben kaum Ahnung wie das so läuft, aber ich dachte immer Söldner sind größtenteils Ex-Militärs die halt anstatt in den Ruhezustand zu gehen (anscheinend in vielen Ländern auch nicht so einfach) stattdessen einen zweiten Einkommensweg einschlagen. Oder Ex-Soldaten die wegen Disziplinargeschichten vorzeitig aufhören mussten. Die Typen im T-Shirt sehen mir auf jeden Fall nicht wie die Elite aus.
+  
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #17
+
+* Titel: `Shadow of the Tomb Raider - #17 - Daten des Mondes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit Daten meine ich in diesem Fall übrigens keine Ansammlung von Einsen und Nullen sondern die Mehrzahl von Datum. Da kommt es, soweit glaube ich, es auch ursprünglich her. Alles nicht so einfach. Wie dem aber auch sei, wir brauchen diese Daten um eine Tür zu öffnen, das ist besonders interessant weil besagt Tür schon ziemlich lange existiert. Ich habe ja den heimlichen Verdacht das es irgendwo ein Volk von Inka-Nachkommen gibt die sich um die Pflege der Falle kümmert denene es aber verboten ist direkt in die Geschehnisse  einzugreifen. Stattdessen müssen es entweder die Fallen erledigen oder gar nichts. Daher funktionieren die uralten Konstruktionen auch noch tadellos und auch die Schlangen sind noch in größeren Mengen vorhanden. Weil die jemand nachfüllt. Keine andere Erklärung kann ich mir vorstellen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #18
+
+* Titel: `Shadow of the Tomb Raider - #18 - Assassine Croft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara Croft hat definitiv eine Menge traumawürdige Dinge in ihrem Leben erfahren. Ich vermute das das den Eindruck den man von der Welt und die eigene Moral nachhaltig kaputt haut. Wahrscheinlich kann man sich da mit vielen Jahrzehnten Therapie irgendwie wieder raus bewegen. Aber das ist offensichtlich nicht geschehen. Es ist nicht so das Lara empathielos ist, aber die Art und Weise wie sie kaltblütig Agenten von Trinity umbringt erinnert mich an einen gewissen glatzköpfigen Agenten im Dienste der ICA. Viel erstaunlicher finde ich übrigens das auch Jonah nicht besonders viel Mitleid für die Agenten bei der Straßensperrung ein wenig früher  gezeigt hat. Auch er hat ohne lange zu überlegen mehre Männer in kalten Blut ermordet. Ich kann mir persönlich nicht vorstellen jemals so abgebrüht zu sein. Auf der anderen Seite ist Lara in Zwischensequenzen wieder weich und ein verängstigtes Mädchen. Schon irgendwie komisch. Ich finde dieser Gegensatz hätte besser verkauft werden können.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
   ```

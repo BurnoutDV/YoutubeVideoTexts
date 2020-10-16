@@ -237,3 +237,26 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #19
+
+* Titel: `Shadow of the Tomb Raider - #19 - Prüfung der Spinne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wahrlich erstaunlich, überall im Dschungel gibt es tonnenweise Prüfungen. Klar, ich hab ja schon erwähnt das wirklich niemand einfach so in den Dschungel rennt, aber trotzdem, es  gibt hier Kinder. Und Kinder erkunden Dinge. Ich kann nur annehmen das es im Dschungel ziemlich viele Leichen von Leuten gibt die ein wenig zu neugierig und nicht Lara Croft waren. So oder so, die meisten Fallen sind noch aktiv, zumindest die die keine Leichen von Konquistadores enthalten. Heute absolvieren wir die Prüfung der Spinne, das läuft auf kleinere Tauchausflüge hinaus. Insbesondere Tauchausflüge in erstaunlich gut beleuchteten, aber dennoch sehr dunklen, Höhlen. Ich erwähne es gerne zum 20ten Mal. Aber so Höhlentauchen wäre mir ja wirklich nichts. Das ist irgendwie in jeder Hinsicht gruselig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #20
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

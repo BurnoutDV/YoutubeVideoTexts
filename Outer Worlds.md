@@ -563,10 +563,13 @@
 
 ##### #149
 
-* Titel: ``
+* Titel: `Outer Worlds - #149 - [DLC1-#33] - Kompromisse [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Das Leben als Solches ist vor allen Dingen zu kurz, davon abgesehen ist es voller Kompromisse. Im jugendlichen Übermut sucht man gerne nach idealen Lösungen. Nach einer Wahrheit die auf alles zutrifft und einer ultimativen Moral mit der jede Entscheidung begründet werden kann. Beobachtet man dann weiter fällt auf das es entweder eine Menge grau ist oder die perfekte Moral unerreichbar weit draußen ist und keiner praktische Relevanz hat. In Spielen gibt es aber oft ein ideales Ende. Heute finden wir das ideale Ende. Die Anlage zu zerstören wäre auf jeden Fall der sichere Erfolg gewesen. Die Variante die wir jetzt anstreben hat zwar Potenzial aber eine Restchance für Disaster. Aber zumindest ist auch eine große Chance da das einfach gar nichts passiert, und das wäre auch praktisch, spart uns die Reaktorsprengung.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Peril on Gorgon als Offline Projekt
   ```

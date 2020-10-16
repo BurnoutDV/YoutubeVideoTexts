@@ -69,6 +69,19 @@
 
 ##### #6
 
+* Titel: `Alan Wake - #6 - der Entführer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute begegnen wir Dr. Emil Hardtman. Unsere Frau, also eigentlich die von Alan Wake aber wir sind ja quasi er, ist ja immer noch weg. Oder erst seit Kurzem. Wir wissen ehrlich gesagt gar nicht so richtig seit wann die gute Alice weg ist. Nur das sie Angst im Dunkeln hat und es in der Provinz ziemlich oft dunkel ist. Meistens wenn es Nacht ist. So oder so, Dr. Hardtmann ist höchstwahrscheinlich nicht der Entführer. Vielleicht, so genau wissen tun wir es auf jeden Fall nicht. Ob er jetzt ein Verbrecher ist oder einfach nur ein älterer Mann ist nicht klar, was klar ist, der Mann ist unsympathisch. Ich kann mich persönlich auch nicht direkt mit Wake identifizieren aber so eine gewisse Abneigung verspüre ich schon gegen den guten Doktor.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #7
+
 * Titel: ``
 
 * Beschreibung:

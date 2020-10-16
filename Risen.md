@@ -722,6 +722,19 @@
 
 ##### #56
 
+* Titel: `Risen - #56 - blindes Umherstapfen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin immer wieder und erneut und erneut sehr unkreativ wenn es darum geht mir gute Titel für diese Füllerfolgen auszudenken. Also ja, wir sind immer noch im Kloster, aber Stück für Stück erfüllen wir dort unsere Aufgaben. Die Aufgaben die noch ausstehen sind leider nicht ganz so einfach zu erledigen wie die Anderen. Wir müssen etwas Suchen, eine Erkenntnis die uns eigentlich ein Lehrer beibringen sollte. Eine Information die wir aber stattdessen irgendwie so zusammenfinden sollen. Wie man Schriftrollen herstellt. Das ist außerordentlich frustrierend. Insbesondere wenn man bedenkt das die Ausbildung doch eine der Grundsäulen einer jeder Lehreinrichtung ist. Auf der anderen Seite sehen das die Magier vielleicht anders und nur die Erkenntnis die man selbst aus den Klauen lange toter Männer (? ich nehme mal an das Zauberinnen selten sind) in Form von Büchern reißen muss zählt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #57
+
 * Titel: ``
 
 * Beschreibung:

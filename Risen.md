@@ -735,10 +735,39 @@
 
 ##### #57
 
-* Titel: ``
+* Titel: `Risen - #57 - Braukegeschäft [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es ist schon komisch, die Menschen suchen andauernd einen Weg aus ihrer unmittelbaren Situation. Meistens sind wir in der Situation weil irgendwelche externen Gründe uns dazu zwingen da und nicht dort zu sein. Eine Flucht ist dann nur geistig aber nicht körperlich möglich. Und doch akzeptieren Menschen diese Realität anstatt sich zu bemühen diese zu ändern. Seltsam ist dann auch das in diesen Situationen die Machthaber oder Verwalter der Situation oft geneigt sind den Menschen eben diese Flucht so schwer wie möglich zu machen. Anstatt den Ursprung der Probleme anzugehen oder zumindest etwas für eine moderate Mitte zu tun wird hart verboten. Das erscheint mir seltsam und lässt mich schlussfolgern das die "Macher" sich des Problems bewusst sind aber es aus egoistischen Gründen in Kauf nehmen weil es für sie so angenehmer ist und demzufolge in ihrer Rolle als Anführer partiell versagen. Die Illegalität von Brauke scheint mir aber gar kein richtig geschriebenes Gesetzt zu sein, das Zeug ist einfach nur nicht so gut verfügbar. Das befeuert natürlich den Schwarzmarkt,  und da kommen wir ins Spiel, ist das nicht schön? Profite Profite!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #58
+
+* Titel: `Risen - #58 - der Schwur [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schwüre und Worte sind ein wenig schwierig für mich. Also jetzt mich als Person, nicht als namenloser Held. Der erscheint mir wie ein Kerl der sein Wort  gerne bricht und generell ein unehrlicher Kerl zu sein, die Menschen glauben nur das er ehrlich ist. Es gibt, soweit ich weiß, keine Instanz die irgendetwas tut wenn ich mein Wort breche. Je weniger Glaube ich in Rechtsstaatlichkeit, Moral oder Integrität habe desto weniger zählt mein Wort weil ich mich weniger daran gebunden fühle. Daher ist meine Aufgabe als unehrliche Aufgabe möglichst vielen Menschen glaubhaft zu machen das mir Worte und Schwüre sehr viel zählen. Am Besten beweise ich das in dem ich manisch versuche kleine Schwüre einzuhalten um dann bei den Großen maximal den Leuten in den Rücken zu fallen. Eine gewisse religiöse Komponente kann man auch nicht abstreiten, wenn ich glaube das der große Dings im Himmel sich für mich interessiert und was ich so tue dann habe ich auch mehr Interesse daran. Man kann aber auch ganz ohne konkrete Entität glauben, zum Beispiel wenn man ein Ideal folgt, ein moralisches Grundprinzip. Ich denke das tue ich, daher habe ich es mit Schwüren ein wenig schwierig. Aber ich glaube nicht das ich bin zum Äußersten für meine Schwüre  gehen würde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #59
+
+* Titel: `Risen - #59 - Don Esteban [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder zurück! All das Ganze Zeug das wir als Rekrut/Novize der Magier bzw. Inquisition erlebt haben ist jetzt nicht mehr gewesen. Quasi ein böser Traum der gewesen ist. Nun sind wir zurück an den Toren der Vulkanfestung und entscheiden uns einfach das es nicht mehr so eine gute Idee ist an der Pforte zu klopfen. Stattdessen gehen wir zu Don Esteban. Mir fällt dann auch auf das ich hätte viel früher zu dem guten Mann gehen können wenn ich gewollt hätte. Für nur 200 Gold wäre mir der Zutritt zum Don gelungen. Schade das ich das ein wenig spät erfahre und wir quasi ohne offizielles Mandat in die Stadt eingeritten sind. Letztendlich bin ich aber nicht unzufrieden mit dem Lauf der Dinge und ich bin froh all die Dinge gesehen zu haben die ich gesehen habe. Wir haben viel gelernt, der namenlose Held nicht aber nicht jeder kann alles kriegen wenn ich alles haben will. Logisch. Der Don ist übrigens nicht beeindruckt. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

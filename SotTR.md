@@ -253,6 +253,45 @@
 
 ##### #20
 
+* Titel: `Shadow of the Tomb Raider - #20 - Prüfung des Adlers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Prüfung der Spinne haben wir ja bereits ohne Probleme gemeistert, ich weiß ehrlich gesagt gar nicht warum es die Prüfung der Spinne war, zumindest habe ich auf Anhieb keinen direkten Zusammenhang zu irgendeiner Spinne gesehen. Die gute Nachricht ist das wir mit der nächsten Prüfung, der Prüfung des Adlers, auf jeden Fall einen Zusammenhang sehen. Ich frage mich aber immer noch wer sich eigentlich um die Pflege der ganzen Anlage kümmert. Klar, die hier sieht nicht mehr ganz so aus, aber für etwas das seit hunderten Jahren dreht scheint mir das alles doch ein wenig zu sehr intakt zu sein. Wie dem auch sei, wir sterben heute einige Male, wie es halt immer bei solchen Kletterpassagen ist. Auf dem höchsten Schwierigkeitsgrad würde das hier bestimmt weniger viel Spaß machen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #21
+
+* Titel: `Shadow of the Tomb Raider - #21 - Paititi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara Croft hat ihre Berufung als Archäologin irgendwie verfehlt. Wir laufen zwar andauernd in unschätzbar wertvolle Kunstschätze aber die sind dann meistens auch kaputt. Wahrscheinlich weil wir eben in sie hinein laufen anstatt sie sorgsam zu heben. Als Anthropologin hätte Lara aber einen wesentlich besseren Job gemacht. Mindestens drei, anscheinend vorher nicht kontaktiert Völker hat sie mittlerweile entdeckt. Und auch wenn die Irren von Yamatai irgendwie nicht so richtig zählen weil das ja größtenteils schiffbrüchige waren so ist das trotzdem eine ganz schöne Leistung. Heute finden wir die Leute von Paititi und auch die entsprechende Stadt dazu. Mir ist übrigens ein echtes Rätsel wie eine größere Menge Leute komplett unkontaktiert bleiben kann. Klar, wenn man auf einer Insel wohnt, jedes Flugzeug abschießt, dann geht das. Aber so? Mitten im Dschungel, in Peru? Erscheint mir unwahrscheinlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #22
+
+* Titel: `Shadow of the Tomb Raider - #22 - Marktplatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir uns von unserem ersten Schock erholt haben eine komplett neue Zivilisation entdeckt zu haben treiben wir auch recht schnell Handel. Es scheint das die internationale Währung "Goldmünzen" auch von Händlern akzeptiert wird die mit der Außenwelt überhaupt nichts zu tun haben. Außerdem haben besagt Händler Schießpulber im Angebot. Man lebt anscheinend nicht ganz so isoliert wie gedacht. Wie dem aber auch sei, man weiß wohl das die Welt da draußen existiert, aber Interaktion scheint sich ein wenig zu beschränken. Auch sonst ist mir immer noch nicht ganz bewusst wie genau das alles hier funktioniert. Die Leute leben ja scheinbar in den Ruinen der Inka, sind aber selbst nicht das Volk. Andernfalls würden die Gebäude doch alle ein wenig besser aussehen oder? Ich denke wir haben es hier mit einer technische Regression zu tun.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #23
+
 * Titel: ``
 
 * Beschreibung:

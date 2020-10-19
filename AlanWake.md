@@ -82,6 +82,45 @@
 
 ##### #7
 
+* Titel: `Alan Wake - #7 - Elderwood Lodge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man viele schreckliche Dinge erlebt sollte man zwischendurch auch mal eine Pause machen. Im Falle von Alan Wake ist das alles nicht so einfach, er kann ja nicht einfach die Gegend verlassen und sich irgendwo in Kalifornien zurückziehen. Allerdings ist die Gegend, von einer gewissen Naturperspektive eigentlich auch recht schön. Heute mieten wir uns zusammen mit Barry in die Elderwood Lodge ein. Ich glaube es ist grade nicht die richtige Saison dafür aber ansonsten ist es sehr schön hier. Die Wanderpfade und Hütten laden auf jeden Fall zu schönen Spaziergängen durch den lokalen Wald ein. Ich könnte mir vorstellen das es recht langweilig für Kinder hier werden könnten. Auf der anderen Seite sehe ich vor meinem geistigen Auge Schulklassen die hier viel über die lokale Fauna und Flora lernen. Leider ist es die meiste Zeit irgendwie dunkel und gruselig. Nicht unbedingt entspannend.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #8
+
+* Titel: `Alan Wake - #8 - Wildpfad [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß absolut nichts über Natur und Draußen überleben. Das macht mir ein wenig Sorgen wenn man eine gewisser "Doomer" Restangst hat das die Welt untergeht. Ich wüsste nicht wie Kräuter aussehen mit denen man Fleisch würzen könnte, selbst wenn ich irgendwie einen hoffentlich nicht ausgestorbenen Hirsch erlegen könnte mit...err, ja Irgendwas. Was ich aber weiß ist das in dichten Wäldern Wildpfade existieren die meistens zu Wasserstellen oder zumindest interessanten Orten weisen. Wenn diese Pfade von Bären oder anderen nicht ganz so netten Tieren stammen sollte man wohl eher nicht den Wildpfaden folgen. Bisher haben wir keinen Bären gesehen und in der Regel sind wir gut bewaffnet. Trotzdem habe ich ein wenig Sorge das alle Munition grade verbraucht ist wenn ich einen Bär beim Aufwachen treffe. Das wäre unerfreulich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.Hier
+  ```
+
+##### #9
+
+* Titel: `Alan Wake - #9 - der Entführer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alice Wake ist verschwunden, wir haben absolut keine Ahnung wo sie hin ist aber jemand scheint anzudeuten das er oder seine Gruppe ihn entführt hat. Ob das wirklich so ist wissen wir nicht, bisher haben wir keinen einzigen Beweis dafür gesehen. Das ist ein Gedanke der Alan Wake bisher nicht gekommen ist möchte ich feststellen. Wir haben nur das Wort einer Person die uns genau im richtigen Moment angerufen hat aber weiter haben wir keinerlei Erkundigungen, Indizien oder Sonstiges eingezogen.  Ich darf also davon ausgehen, und hier bin ich jetzt der Beobachter von Außen, das es eine ziemlich gute Chance gibt das der Entführer sehr genau weiß was passiert, sein Druckmittel aber eventuell gar nicht existiert. Unter diesen Umständen steht natürlich dann die nächste Frage im Raum: Was nun?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #10
+
 * Titel: ``
 
 * Beschreibung:

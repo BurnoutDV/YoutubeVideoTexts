@@ -292,6 +292,32 @@
 
 ##### #23
 
+* Titel: `Shadow of the Tomb Raider - #23 - Geschichtsstunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara Croft ist Archäologin, das muss ich immer wieder betonen wenn sie irgendwelche uralten Dinge zerstört. Nicht weil sie der Meinung ist man könne die Vergangenheit auslöschen sondern weil es ihr einfach egal ist. Oder ihr Menschen wichtiger sind. Wie dem aber auch sei, als Archäologin versucht sie soviel wie möglich über alte Kulturen und Dinge herauszufinden. Praktischerweise müssen wir uns heute überhaupt nicht bemühen irgendwelche kryptischen Hinweise zu verfolgen oder anderweitig von einem Rätsel zum Nächsten zu Laufen. Viel mehr können wir die Nachfahren der Inka direkt fragen. Das macht es wesentlich einfacher um alles genau ins richtige Licht zu rücken. Ich denke aber nicht das das Lara Zerstörungswahn in irgendeiner Hinsicht einschränken wird.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #24
+
+* Titel: `Alan Wake - #10 - Trampelpfade [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode hatte ich über Wildpfade gesprochen. Man erkennt sie wohl daran das das Pflanzenwerk nicht komplett zerstört sondern nur ein wenig zur Seite gebogen ist. Wenn Menschen zu Gange waren sieht es hingegen ein wenig sehr anders aus, dann ist da nichts mehr. Das kommt meistens dann wenn Menschen sehr viel Zeit damit zugebracht haben den gleichen Weg wieder und wieder zu betreten. In unserem Fall ist das aber auch sehr praktisch weil wir ja eigentlich so schnell wie möglich wieder zurück in die Zivilisation kommen wollen. Unser Treffen mit dem Entführer war ja eher weniger erfolgreich, daher müssen wir jetzt zurück zu Barry, nicht das dem noch irgendwas passiert. Das wäre ja unschön.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #25
+
 * Titel: ``
 
 * Beschreibung:

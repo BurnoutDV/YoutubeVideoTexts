@@ -771,3 +771,27 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #60
+
+* Titel: `Risen - #60 - Jägerschlag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir werden heute zum Jäger geschlagen. Das ist anscheinend der nächste Rang den man nach dem einfachen Arbeiter erhalten kann. Ich muss sagen das ich ziemlich enttäuscht bin. Wir haben uns draußen in der Wildnis durchgeschlagen, haben die komplette Hafenstadt einmal auf den Kopf gestellt und jede Menge Dinge getan. Und alles was Don Esteban tut ist uns zum Jäger zu ernennen? Das erscheint mir ziemlich schwach. Ich würde sogar behaupten es fühlt sich absolut lächerlich an. Fast schon beleidigend, aber ich fürchte es ist einfach zu später jetzt noch schnell die Seiten zu wechseln. Zumindest kann ich mir nicht vorstellen das man uns in der Hafenstadt noch nehmen würde nachdem was wir getan haben. Wie dem aber auch sei, wir haben jetzt Anrecht auf eine neue Rüstung. Witzigerweise kauft man die direkt beim Don UND man kauft sie eben. Nicht erhalten, der Don geht anscheinend davon aus das sein wichtigster Mitarbeiter Dinge von ihm kauft. Ein bisschen Großzügigkeit hätte ich schon erwartet.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #61
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

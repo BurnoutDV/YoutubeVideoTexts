@@ -121,6 +121,58 @@
 
 ##### #10
 
+* Titel: `Alan Wake - #10 - Trampelpfade [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode hatte ich über Wildpfade gesprochen. Man erkennt sie wohl daran das das Pflanzenwerk nicht komplett zerstört sondern nur ein wenig zur Seite gebogen ist. Wenn Menschen zu Gange waren sieht es hingegen ein wenig sehr anders aus, dann ist da nichts mehr. Das kommt meistens dann wenn Menschen sehr viel Zeit damit zugebracht haben den gleichen Weg wieder und wieder zu betreten. In unserem Fall ist das aber auch sehr praktisch weil wir ja eigentlich so schnell wie möglich wieder zurück in die Zivilisation kommen wollen. Unser Treffen mit dem Entführer war ja eher weniger erfolgreich, daher müssen wir jetzt zurück zu Barry, nicht das dem noch irgendwas passiert. Das wäre ja unschön.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #11
+
+* Titel: `Alan Wake - #11 - Leihwagen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser erstes Auto, das mit dem wir überhaupt nach Bright Falls gekommen sind hatte irgendwie einen Unfall. Zum Glück gibt es für solche Fälle Leihwagen. Mir ist übrigens nicht so ganz klar wie genau das hier in der Provinz funktioniert. Ob entsprechende Fahrzeuge von der nächst größeren Stadt einfach her gefahren werden. Gibt es für einen Ort wie Bright Falls ein nennenswertes Kontingent an Leihwägen. Gibt es vielleicht sogar relativ viel weil man mit normalen Autos eher Schwierigkeiten hat und daher auch Besucher sich dann und wann ein Auto ausleihen um besser durch das Gelände zu kommen? So oder so fahren wir heute ein wenig Auto, in einem großen Land wie Amerika ist das auch dringend notwendig. Ich frage mich ja immer  gerne ob, wenn das Automobil weniger Durchbruch gehabt hätte, eine andere Form der Mobilität in Betracht gezogen worden wäre. Züge durch das ganze Land. Die Entwicklung wäre bestimmt wesentlich weiter in diesem Sektor wenn ein gewaltiges Land wie Amerika mit Zügen verbunden wäre. Wir treffen heute außerdem einen Typen mit Kettensäge, das ist weniger schön.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #12
+
+* Titel: `Alan Wake - #12 - die Vögel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Meine klassische Bildung ist ziemlich gering, ich erwähne das öfter, insbesondere dann wenn das Thema des Spiels ein Author ist. Aber auch davon ab kann ich mit Popkultur nicht viel anfangen. Es sei den es geht um Spiele. Da bin ich immerhin ganz gut dabei. "Die Vögel" ist ein Film von Alfred Hitchcock, das weiß ich nur weil ich neulich ein Rätselspiel gespielt habe wo das die Antwort gewesen wäre und ich es natürlich nicht gewusst habe. Dafür weiß ich es jetzt und werde es wohl nie vergessen. Wie dem aber auch sei, eine ähnliche Handlung haben wir auch heute zu verzeichnen, nur das die Vögel hier wohl eher vom Dunkeln manipuliert werden. Ich frage mich jetzt ob all diese Vögel einmal echte Viecher waren oder größtenteils Kopien durch das Dunkle sind. Wenn es echte Vögel sind wäre die Folgefrage ob hier ein echter Effekt auf die Population ausgeübt wird. Es sind schon ziemlich viele.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #13
+
+* Titel: `Alan Wake - #13 - Agent Nightingale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf uns wird heute schon wieder geschossen. Das ist nicht in Ordnung. In der Regel kommen uns alle Gegner im Nahkampf entgegen oder werfen Dinge. Aber Kugeln hat bisher noch niemand auf uns abgefeuert. Eventuell weil kleine schnelle Objekte nichts für das Dunkle sind. Oder aber weil die exotherme Reaktion in einer Feuerwaffe eher nichts für die Dunkelheit ist, ist ja schon recht hell, auch wenn nur für einen kurzen Moment. Was wenn unser Revolver in Wirklichkeit gar keine Kugeln verschießt bzw. das schon aber die Kugeln gar nicht sind was die Schatten aufhält. Viel mehr ist es der kurze Lichtblitz den wir gezielt auf unser Ziel ausrichten. Wahrscheinlich eher nicht. Es gibt ein paar wunderschöne Standbilder in dieser Episode. Immerhin trifft uns dieser Agent Nightingale nicht. Ich frage mich allerdings ob sein Name irgendeine Relevanz hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

@@ -305,18 +305,46 @@
 
 ##### #24
 
-* Titel: `Alan Wake - #10 - Trampelpfade [Let's Play; ger; Blind]`
+* Titel: `Shadow of the Tomb Raider - #24 - Amaru [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  In der letzten Episode hatte ich über Wildpfade gesprochen. Man erkennt sie wohl daran das das Pflanzenwerk nicht komplett zerstört sondern nur ein wenig zur Seite gebogen ist. Wenn Menschen zu Gange waren sieht es hingegen ein wenig sehr anders aus, dann ist da nichts mehr. Das kommt meistens dann wenn Menschen sehr viel Zeit damit zugebracht haben den gleichen Weg wieder und wieder zu betreten. In unserem Fall ist das aber auch sehr praktisch weil wir ja eigentlich so schnell wie möglich wieder zurück in die Zivilisation kommen wollen. Unser Treffen mit dem Entführer war ja eher weniger erfolgreich, daher müssen wir jetzt zurück zu Barry, nicht das dem noch irgendwas passiert. Das wäre ja unschön.
+  Heute finden wir heraus wie unser Erzfeind heißt. Gut, das wissen wir bereits, sein Name ist Dominquez und anscheinend führt er den Trinity Verein im Großen und Ganzen an. Ich kann mir das ehrlich gesagt nicht so richtig vorstellen. Hinweise dafür das es eigentlich zeitlich eher nicht so hinhaut finden wir übrigens heute darin das unser guter Doktor anscheinend noch einen anderen Namen hat: Amaru. Bruder eines gewissen Sayri, anscheinend ehemaliger König von Paititi. Über den Tod seines Bruders ist er auf jeden Fall nie so richtig hinwe gekommen. Eine Rolle scheint das für uns  in diesem Moment aber nicht zu spielen. Kanonmäßig sind wir übrigens aktuell unbewaffnet, oder sollten es zumindest sein. Unseren Bogen haben wir nur..irgendwie noch bei. Daher ist ein Attentat grade leider nicht möglich, obwohl das eigentlich nicht außerhalb der Moral von Lara liegen sollte.
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
-  Alan Wake auf dem Dienstags Slot.
+  Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
 ##### #25
+
+* Titel: `Shadow of the Tomb Raider - #25 - die Verstoßenen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  "I will remember those that have been forgotten" - Edgedancer
+  
+  Lara Croft macht zwar ziemlich viele Kunstschätze von den Leuten kaputt die gestorben sind aber in der Regel hört sie zumindest denen zu die noch leben. Das sieht mir immer noch nach einer klaren Verfehlung der Berufung aus aber wer bin ich schon um sowas zu beurteilen. Wie dem aber auch sei, heute hören wir uns nicht nur irgendwelche Leute an sondern die die von der Gesellschaft von Paititi verstoßen wurde. Das kann anscheinend ziemlich schnell passieren, unter anderem auch deswegen weil die Leute die hier regieren, die Priester eines Kultes, nicht besonders durchdachte Regeln durchführen. Es kommt einen fast so vor als hätte sich nie jemand Gedanken über die tiefere Philosophie der ganzen Rechtsordnung gemacht. Aber wer tut das schon, das wäre ja Arbeit. Wir wollen doch hier regieren!
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #26
+
+* Titel: `Shadow of the Tomb Raider - #26 - Kriegerprüfung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara Croft ist laut Personalausweise (oder was auch immer die Briten haben) eine weibliche Person irgendwas in die 20 und eventuell auch noch Archäologin falls sie wirklich darin einen Abschluss hat. Ich vermute übrigens das bei so einem Studium von Altertum nicht besonders viel Praxis bei ist. Generell glaube ich nicht das allzu viele Archäologen überhaupt auf Ausgrabung fahren. Meistens spezialisiert man sich da ja auf ein kleines Gebiet, mittleres frühes Mittelalter oder so. In Europa übrigens ziemlich gefragt weil man bei Bauarbeiten öfter mal über irgendwelche Tonscherben fällt. Innerlich ist Frau Croft auf jeden Fall eine Kriegerin. Die Anzahl an toten Leuten spricht da Bände. Trotzdem leisten wir heute noch einmal eine Prüfung ab, es guckt uns auch niemand zu aber immerhin kann ich mich am Ende über die Logik des Ganzen beschweren. Das macht mir Freude.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #Nummer
 
 * Titel: ``
 

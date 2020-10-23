@@ -788,6 +788,45 @@
 
 ##### #61
 
+* Titel: `Risen - #61 - Friedensmission [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Don Esteban, selbsternannter Lord über die Insel Faranga (den Namen den wir übrigens noch gar nicht kennen) hat uns auf eine Mission geschickt. Er hätte es sich einfach machen können. Er hätte uns eine gute Rüstung geben und dann den Auftrag alle Weißen auszulöschen. Natürlich hätten wir das getan und das wäre auch kein Problem für uns gewesen. Stattdessen hat er aber den humanistischen Weg gewählt. Er verlangte von uns zur Vulkanfestung zu laufen um dort auf Friedensmission zu gehen. Einen Auftrag den wir natürlich gerne erfüllen. Dennoch wäre es wahrscheinlich leichter gewesen das Schwert sprechen zu lassen. Insofern uns irgendjemand noch ein wenig Stärke gibt. So oder so, das heißt wir werden jetzt nicht mehr von den komischen Leuten in den Kleidern angegriffen. Das ist auch etwas.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #62
+
+* Titel: `Risen - #62 - Diplomatengebiet [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute betreten wir die Vulkanfestung. Zum allerersten Mal wie ich feststellen möchte. Wir waren noch nie hier und kennen uns auch überhaupt nicht aus. Und nein selbstverständlich leeren wir auch nicht jede Truhe von der wir bereits wissen wo sie ist. Wir sind zwar Bandit aber auch Diplomat und als solcher sehen wir unsere Mission als ein heiliges Gut an das wir nicht verletzen. Generell ist so ein heiliges Gut etwas das man hochhalten sollte wenn man bei den Magiern ist, die sind schließlich auch ein wenig religiös. Etwas Vertrauen wurde uns ja entgegengebracht obwohl wir eigentlich keines Verdienen. Es kann ja wohl nicht sein das wir das jetzt enttäuschen oder? Nebenbei reden wir noch mit einigen Leuten aber gar nicht sovielen wie ich erwartet hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #63
+
+* Titel: `Risen - #63 - Klosterschätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Okay, ich habe gelogen. Den namenloser Helden in meiner Interpretation ist absolut nichts heilig, weder unsere Mission noch der Besitz anderer Leute. Immerhin können wir das auch damit erklären das unser Leben sonst ziemlich langweilig wäre. Wenn man viel in kurzer Zeit erreichen will braucht man ziemlich große finanzielle Mittel und das funktioniert einfach nicht das wir versuchen monatelang zu arbeiten bis wir uns Schwertkampf Stufe 2 von einem Lehrer leisten können. Das muss schneller gehen, ein Weg ist es alle Schätze die irgendwo im Kloster herumliegen zu plündern. Übrigens überraschend einfach. Es ist fast so als hätte man nicht schnell alles weggeschlossen als klar  wurde das ein Bandit das Kloster betritt und fest vorhat es auch wieder zu verlassen. Wie dem auch sei, wir wissen aus einer alternativen Realität ja bereits das einiges zu holen gibt, daher tun wir das auch noch einmal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #64
+
 * Titel: ``
 
 * Beschreibung:

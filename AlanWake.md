@@ -171,6 +171,32 @@
   Alan Wake auf dem Dienstags Slot.
   ```
 
+##### #14
+
+* Titel: `Alan Wake - #14 - Radio KBF-FM [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der lokale Radiosender ist eine der wenigen modernen Dinge die wir in Bright Falls vorfinden. Der restliche Orte scheint mir was die Realität angeht quasi seit 50 Jahren statisch zu sein. Kleine Dinge haben sich über die Jahre bestimmt verändert, aber nichts ist wirklich revolutionär anders. Alles in Allem ist Bright Falls ein kleines verschlafenes Nest das scheinbar vom Holz und eventuell Fischfang lebt. Früher gab es auch mal eine Mine wenn ich das recht verstanden habe. Ich habe davon gehört das es in Murica auch viele lokale Fernsehsender gibt aber wahrscheinlich ist Bright Falls selbst dafür zu klein. Der Mann der im Lokalradio arbeitet scheint aber wie ein netter Kerl, und er wohnt in der Nähe, also gehen wir zu ihm.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #15
+
+* Titel: `Alan Wake - #15 - der Bagger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Doom Marine kämpft gegen die Dämonen aus der Hölle und kann sich in der Ausübung dieser Tätigkeit über eine gewisse Monotonie aufregen. Wenn er nicht eh schon komplett aufgeregt wäre. Die Hölle hat immer die gleichen Dämonen in unterschiedlichen Mengen, die Variation ist aber überschaubar. Würde es die UAC nicht geben wäre sein Job sogar einfacher über die Jahre geworden. Alan Wake hat es da nicht so repetitiv. Bei ihm denkt sich das Dunkel ständig neue Dinge aus um ihn zu ärgern. Heute zum Beispiel ein Bagger. Das ist neu, innovativ. Man könnte schon fast dankbar sein, keine Wiederholung, immer etwas zum Denken. Kein Schema F für unseren Author, ich bin mir sicher das ist auch etwas das er sehr genießt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

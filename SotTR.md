@@ -344,12 +344,28 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
-##### #Nummer
+##### #27
 
-* Titel: ``
+* Titel: `Shadow of the Tomb Raider - #27 - Köcher der Wespe [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich möchte es ja eigentlich gar nicht vorher sagen aber es könnte eventuell sein das wir heute einen neuen Gegenstand erhalten. Es ist nur ein Köcher, aber das ist doch auch schon mal etwas. Das Artefakt erhalten wir aber erst nachdem wir eine ziemlich lebensgefährliche Prüfung absolviert haben. Außerdem stellen wir in unserem üblichen tun sicher das niemand sonst diese Prüfung noch einmal absolviert. Obwohl mir sowieso ein Rätsel ist welche Kultur eine solche Mutprüfung für akzeptabel hält. Ich kann mir nur vorstellen das man ein leichtes Überbevölkerungsproblem hatte und man sich immer lächerlichere und gefährlichere Methoden ausgedacht hat um zumindest die jungen Männer zu reduzieren. Wahrscheinlich war grade kein Krieg in Aussicht. Da musste man kreativ werden. Anders kann ich mir diese Fallen wirklich nicht erklären.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #28
+
+* Titel: `Shadow of the Tomb Raider - #28 - verlorene Schätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir tauchen heute wieder, wie schon rund um Kuvaq finden wir da Einiges an Reichtum. Es ist wirklich erstaunlich wie ein Volk das zwischendurch einige Probleme hatte noch nicht diese Möglichkeiten ausgelotet hat. Man wohnt ja wirklich schon ziemlich in Paititi, ich hätte also erwartet das insbesondere spielende Kinder bereits alles entdeckt haben was man so entdecken kann. Auf der anderen Seite handelt man wohl nicht mit der Außenwelt oder spricht überhaupt darüber das die Außenwelt existiert. Insofern könnte es auch sein das unsere Schätze einfach nur wertvoll sind für eine gewisse Lara Croft aber für die Einwohner der Stadt die einfach nur Hunger haben eher wertlos sind. Alles eine Frage der Perspektive.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
   ```

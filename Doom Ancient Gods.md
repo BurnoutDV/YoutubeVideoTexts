@@ -40,3 +40,28 @@
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
+
+##### #4
+
+* Titel: `DOOM Ancient Gods - #4 - der Schlüssel des Seraphim [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute finden wir ganz überraschend heraus das das Ding das uns als Schlüssel des Seraphen beschrieben wurde eher eine Art Bewusstseinssphäre ist. Darin sind die persönlichen Erinnerungen und alles andere was eine Person ausmacht gespeichert. Mir ist nicht ganz klar ob dazu auch eine Seele gehört oder ob es sich nur um eine Kopie handelt. Da aber die Dämonen irgendetwas das man wohl als Seele bezeichnen könnte ernten gehe ich mal spontan davon aus das die Makyr eine Möglichkeit gefunden haben eine Person vollständig und ohne Lücken zu preservieren. Das wirft zwar weitere Fragen auf, wie zum Beispiel was passiert wenn die Sphäre verloren geht, aber das interessiert uns für den Moment nicht. Der Schlüssel des Seraphen ist ja nur Teil eins unserer Odyssee.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #5
+
+* Titel: `DOOM Ancient Gods - #5 - Tiefsee [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Die ganze Zeit auf einer Meeresplattform rumzuhängen ist auf Dauer ja auch nichts. Ich bin mir nicht sicher inwiefern Salzwasser in der Zukunft noch ein Problem ist und ob die Rüstung eines Doom Marines irgendwelchen Schaden davon nehmen könnte, aber das Risiko wollen wir ja wohl nicht eingehen. Oder grade? Wie dem aber auch sei, wir haben eine Menge Staub aufgewühlt, im metaphorischen Sinne natürlich, jetzt wir es Zeit für uns abzutauchen, an einen Ort wo es still ist und wir in Ruhe über unsere Taten nachdenken können. 20000 Fuß unter dem Meer. Vielleicht auch etwas weniger, aber auf jeden Fall in der Tiefsee unterhalb der Station. Leider habe ich immer noch absolut keine Ahnung was genau die Station eigentlich ursprünglich getan hat und ob die Unterwassereinrichtungen eine Erweiterung der UAC waren.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```

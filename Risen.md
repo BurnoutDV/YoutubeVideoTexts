@@ -827,6 +827,32 @@
 
 ##### #64
 
+* Titel: `Risen - #64 - Inquisitor Mendoza [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben viel von ihm gehört und ihn auch schon im Intro gesehen. Der finstere Inquisitor Mendoza. Was genau die Inquisition eigentlich macht wissen wir übrigens immer noch nicht. Eventuell wurde der Titel auch nur gewählt weil es ominös klingt. Wie dem aber auch sei, wir treffen ihn heute zum zweiten Mal wenn man es ehrlich sieht. Aber das Erste Mal zählt nicht wirklich weil das war technisch gesehen auch eine andere Realität. Wie dem aber auch sei, der Mann hat uns wichtiger Dinge zu erzählen. Da haben wir beim letzten Mal auch einfach nicht zugehört. War bestimmt auch nicht so wichtig. Heute kommen wir um die Worte aber nicht herum. Anscheinend ist die Welt bedroht. Das ist nicht so gut wenn man sich die Dinge auf lange Sicht anguckt. Und anscheinend müssen wir was tun. Soviel zum Thema persönlicher Reichtum.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #65
+
+* Titel: `Risen - #65 - gnomische Diebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt mag vielleicht bedroht sein, die Existenz der Menschheit am seidenen Faden hängen, Menschen verlieren ihre Lebensgrundlage, aber eine Sache bleibt konstant. Und das ist die Gier der Gnome. Ich frage mich ob Gnome irgendwo isoliert auf einer Insel eine richtige Gesellschaft haben die auch irgendwie darauf aufbaut Dinge zu erschaffen und Kultur aufzubauen. Ganz dumm sind die Viecher ja nicht, sie tragen Kleidung, machen Feuer und wissen wie man mit Waffen umgeht. Wahrscheinlich sind solche Überlegungen für uns aber von wenig praktischen Wert. Wir sind ein Mann der Tat und überdenken nicht ob das was wir tun gut und gerecht ist. Ich als Beobachter von außen  vermute jetzt mal in den Raum das die Menschen auf Faranga irgendwas getan haben was die natürliche Lebensgrundlage der Gnome genommen hat. Oder aber Menschen zu überfallen ist einfach wesentlich besser als das was sie vorher getan haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

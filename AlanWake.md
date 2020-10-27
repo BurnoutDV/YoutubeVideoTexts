@@ -197,7 +197,33 @@
   Alan Wake auf dem Dienstags Slot.
   ```
 
-##### #Nummer
+##### #16
+
+* Titel: `Alan Wake - #16 - Fahrt zur Kohlemine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir fahren heute in ein Museum. Und es ist hellichter Tag, daher gehe ich nicht davon aus uns irgendetwas passieren wird. Die große Dunkelheit scheint am Tag eher keine Chance zu haben. Wir wissen das unser Entführer auf jeden Fall auch irgendwie beteiligt ist und daher eigentlich wissen müsste das es tausendmal gefährlicher ist in der Dunkelheit eine Übergabe zu machen. Warum er dennoch darauf besteht ist mir absolut nicht klar. Wie dem auch sei, wir warten brav ab, wie sich das für einen guten Lösegeldzahler gehört. Was mir übrigens noch nicht ganz klar ist ob es am Ende nicht tragikkomisch wird wenn sich herausstellt das der Entführer zwar Alice nicht hat wir aber auch kein Manuskript das wir irgendjemanden geben können.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #17
+
+* Titel: `Alan Wake - #17 - Raymond Chandler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Raymond Chandler ist ein amerikanischer Author, bestens für seinen Privatdetektiv Philip Marlowe bekannt. Warum schreibe ich das? Weil ich das natürlich nicht wusste, wenn Agent Nightingale ruft "stehen bleiben Hemmingway" dann bin ich dabei aber bei Raymond Chandler musste ich leider erst einmal überlegen. So ist das wenn man keine klassische Bildung hat. Aber dank mir seid ihr jetzt bestens informiert und wisst mehr. Das Ganze ist auch deswegen relevant weil Alan Wake ja auch Charaktere hat die Privatdetektiv bzw. FBI-Agent sind. Das ist doch eine gewisse Parallel die wir nicht ganz von der Hand weisen wollen. Wenn man sich übrigens so einen klassischen Detektiv Film Noir vorstellt, die Chancen sind groß das Humphrey Bogart den Typen gespielt hat und das die Vorlage von Raymond Chandler geschrieben wurde.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #18
 
 * Titel: ``
 

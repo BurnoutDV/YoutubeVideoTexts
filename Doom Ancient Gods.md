@@ -65,3 +65,39 @@
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
+
+##### #6
+
+* Titel: `DOOM Ancient Gods - #6 - Dämonenhorden [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Dieser Episodentitel ist ein wenig generisch, das kommt aber auch weil wir uns eigentlich gar nicht mehr darum kümmern um das was uns eigentlich interessiert, der Seraph, sondern wir stattdessen schauen was noch alles in den Level rumliegt und was man noch erkunden kann. Wir finden einen lila Schlüssel. Im Grundkonzept ist das auch schon bekannt allerdings haben wir den Unmakyr ja bereits. Was bringt uns also der mysteriöse Schlüssel den wir heute finden. Auf jeden Fall eine interessante Kulisse von der wir leider nicht all zu viel sehen während wir durch die Gegend fliegen. Oder springen. Oder Zerfetzen und Reißen. Soviel Arbeit, so wenig Zeit. Manchmal ist es auch ein einfach der Doom Marine zu sein.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #7
+
+* Titel: `DOOM Ancient Gods - #7 - die Blutsümpfe [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein neues Reiseziel. Als Erstes erfahren wir aber das unser bester Freund Samur Makyr anscheinend eher nicht in der Lage ist sofort unsere Probleme zu lösen. Das ist sehr bedauerlich aber irgendwie war das ja vorher schon klar, wäre ja auch zu einfach. Dann erfahren wir außerdem noch das wir wohl auch so auf unseren Reisen auf ihn verzichten müssen weil er als Makyr anscheinend die sieben Kreise der Hölle nicht betreten kann. Immerhin wissen wir jetzt aber woher die Dämonen und ihr anscheinend ziemlich ausuferndes Reich kommt. Generell beantwortet das DLC viele Frage die ich im Laufe der beiden Hauptspiele schon gestellt habe. Leider kann ich mich nicht mehr an alles vollkommen sattelfest erinnern. Aber ich fürchte das ist halt einfach der Lauf der Dinge. Immerhin ordentlich Informationen, nicht nur Dämonen erschießen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #8
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

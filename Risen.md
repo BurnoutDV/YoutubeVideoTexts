@@ -851,12 +851,28 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #66
 
-* Titel: ``
+* Titel: `Risen - #66 - Befehle des Don [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir sind zu einem Befehlsempfänger geworden. Das waren wir nicht immer aber wenn wir ehrlich sind haben wir auch nicht die Macht oder Moneten um ohne Gönner irgendetwas auf die Beine zu stellen. Unsere persönliche Macht ist definitiv noch nicht ausreichend um einen Unterschied in der Welt zu machen. Also buckeln wir schön brav vor dem Don der Insel und versuchen soviele Vorteile wie möglich heraus zu holen. Ärgerlicherweise glaube ich das der Don am Ende kein guter Anführer ist, seine Ansichten haben Probleme und werden uns wahrscheinlich etwas weiter in der Zukunft noch in eine missliche Lage führen. Für den Moment scheint er aber einmal vergessen zu haben warum wir überhaupt auf Verhandlung mit Inquisitor Mendoza gegangen sein. Er agiert als hätte er eine Position der Stärke. Die hat er aber definitiv nicht. Schon komisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.xxxxxxxxxx Wir sind zu einem Befehlsempfänger geworden. Das waren wir nicht immer aber wenn wir ehrlich sind haben wir auch nicht die Macht oder Moneten um ohne Gönner irgendetwas auf die Beine zu stellen. Unsere persönliche Macht ist definitiv noch nicht ausreichend um einen Unterschied in der Welt zu machen. Also buckeln wir schön brav vor dem Don der Insel und versuchen soviele Vorteile wie möglich heraus zu holen. Ärgerlicherweise glaube ich das der Don am Ende kein guter Anführer ist, seine Ansichten haben Probleme und werden uns wahrscheinlich etwas weiter in der Zukunft noch in eine missliche Lage führen. Für den Moment scheint er aber einmal vergessen zu haben warum wir überhaupt auf Verhandlung mit Inquisitor Mendoza gegangen sein. Er agiert als hätte er eine Position der Stärke. Die hat er aber definitiv nicht. Schon komisch.Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 UhrRisen bzw. Nostalgiespiele sind auf Donnerstags geplant.Hiermarkdown
+  ```
+
+##### #66
+
+* Titel: `Risen - #67 - feurige Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bevor wir uns auf unsere Reise in den Osten aufmachen, einen Ort von dem wir gehört haben das wir dort zumindest eine weitere der goldenen Scheiben finden erkunden wir noch die nähere Gegend. Es ist nämlich so das wir auf jeden Fall noch ein paar Erfahrungspunkte brauchen um stärker zu werden. Das geht natürlich nicht so ohne Weiteres, also töten wir auch noch diverses Getiert. Beim Abbiegen am Sumpflager fällt uns plötzlich auf das es noch einen Weg gibt den wir noch gar nicht betreten haben. Und ganz unverhofft, da finden wir Lava und Feuer. Wer hätte das gedacht. Außerdem noch eine Höhle mit enormen Schätzen darin. Erfahrungsmäßig jetzt. Reichtümer sind eher rar gesäht. Witzig übrigens auch das ich eigentlich an dieser Stelle jetzt hart tryharden könnte. Aber ich bin zu faul, und der Grund dafür seid ihr meine lieben Zuschauer. Einfach weil ich keine Lust habe euch mit stundenlangen Min-Maxing zu langweiligen. Und vielleicht auch weil ich Skorpione schon jetzt als Gegner verachte! Wie dem auch sei, viel passieren tut heute nicht, außer Laden und Speichern. Ein wenig nervig wie ich finde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

@@ -369,3 +369,29 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #29
+
+* Titel: `Shadow of the Tomb Raider - #29 - Prüfung der Schlange [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es hört einfach nicht auf, wir leisten eine Prüfung nach der Anderen. Das wird auf Dauer zugegeben ein wenig anstrengend. Insbesondere wenn man anfängt Fragen zu stellen. Warum tun wir das. Für wen tun wir das? Unsere Grundannahme ist ja anscheinend das die Welt untergehen wird wenn wir nichts tun, alles was wir bis jetzt aber an harten Informationen haben ist das die Welt in seiner Gesamtheit eher nicht untergehen wird. Wenn wir also alles richtig machen können wir eigentlich mit erstaunlich wenig Arbeit verhindern das unsere Gegenspieler von Trinity irgendetwas erreichen. Warum wir uns dann dennoch so viel Mühe machen um mehr als notwendig zu schaffen ist dann wohl ein Fall von Ehrgeiz. Immerhin sehen wir jetzt das der Kult der Paititi kontrolliert in jeder Hinsicht grausam ist und wir daher jede moralische Begründung haben deren Anhänger links und rechts umzubringen. Schön den moralischen Hochgrund zu haben. Eine wahre Plateauleistung.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #30
+
+* Titel: `Shadow of the Tomb Raider - #30 - temporäre Amnesie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute kommt wieder einer der TVTrophes Momente zum tragen. Um genauer zu sein der wo Lara spontan ein Gewissen entwickelt und keine Leute umbringen kann. Mir ist im Nachhinein aufgefallen das wir eventuell kanonmäßig grade keine Waffe haben sollten aber das halte ich ehrlich gesagt für ganz schön weit hergeholt. Auf jeden Fall lässt sich Fräulein Croft diesmal von einigen wenigen Kriegern in ihrem Handeln beeinflussen und kommt dazu das sie nicht in der Lage ist ihre mentalen Leichenberg ein wenig aufzuhäufen. Stattdessen rennen wir voller Angst vor den Kriegern des Kultes weg und lassen uns dabei einige Male fangen. Es ist fast so als hätte sie einfach alles vergessen was sie bisher erlebt hat. All das Morden, all das Trauma. Da sie bis jetzt noch nicht im Kampf erstarrt ist gehe ich mal davon aus das da auch nichts mehr kommt. Oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```

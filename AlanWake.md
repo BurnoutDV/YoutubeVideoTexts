@@ -225,6 +225,58 @@
 
 ##### #18
 
+* Titel: `Alan Wake - #18 - Silbermine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Letztes Mal habe ich erzählt das ich eine Kohlemine besuchen möchte und darin erkunden will bzw. den Entführer treffen. Der hat sich dann aber als wenig verlässlich herausgestellt und uns zu einem komplett anderen Ort beordert. Das ist wirklich ärgerlich weil wir jetzt ziemlich weit laufen müssen um bis zu den Ort zu kommen der von uns verlangt wird. Wie dem aber auch sei, dabei betreten wir gar nicht die Kohlemine von der ich eigentlich gehört habe sondern eine Silbermine. Silber ist anscheinend auch ziemlich wertvoll und war in der Vergangenheit bestimmt auch ein wichtiger Wirtschaftsfaktor für die Gegend um Bright Falls. Heutzutage bleiben nur Erinnerungen, witzigerweise erleben wir sogar ein wenig mehr als nur ein paar Erinnerungen die sich in irgendwelchen Niederschriften finden lassen. Trotzdem auch ein wenig gruselig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #19
+
+* Titel: `Alan Wake - #19 - Hängebrücke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich zurückdenke kann ich mich nicht erinnern das ich jemals große Probleme mit einer Hängebrücke gehabt hätte. Klar die Dinger sind irgendwie ein wenig nervig weil sie schwingen aber im Großen und Ganzen sind es halt Brücken die weniger Steif sind. Marschieren sollte man vielleicht nicht darüber, alles andere geht schon irgendwie. Andererseits habe ich bis jetzt auch noch nie eine so richtig dolle durchhängende Brücke gesehen die über einen bodenlosen Abstand spannt. Meistens waren die Dinger ja doch eher überschaubar. Wenn ihr aber schon mal im nördlichen Sachsen-Anhalt ward wird euch bestimmt schnell auffallen das da auch wirklich wenig Platz für solche Dinge ist, einfach weil es viel zu viel plattes Land gibt das solche Brücken nicht hergeben. Zumindest nicht ohne das man sich vorher ein künstliches Tal oder so baut.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #20
+
+* Titel: `Alan Wake - #20 - Dr. Emil Hartmann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben den guten Dr. bereits kennen gelernt, da ich Control bereits gespielt habe und dann erst Alan Wake habe ich ihn eigentlich sogar schon zweimal getroffen. Ich bin mir übrigens nicht ganz sicher ob der gute Mann wirklich ein Doktor ist. Seine Methoden sind auf jeden zweifelhaft. Aber das haben wir am Anfang schon geahnt. Ich frage mich auch wenn wir am Ende Alice Wake retten ob sie darüber informiert wird über das was wir getan haben und was der gute Dr. getan hat. Für den Moment ist unsere Lage aber wohl ein wenig kritisch. Ich frage mich übrigens inwiefern es rechts ist irgendjemanden festzuhalten ohne das es dafür eine richterliche Anordnung gibt. Um das Thema herum gibt es bestimmt eine Menge Crime Podcasts...Grundannahme ist allerdings für mich für den Moment das Dr. Hartmann nach dem Prinzip _Wo kein Kläger da kein Richter_ agiert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #21
+
+* Titel: `Alan Wake - #21 - Cauldron Lake Lodge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der verrückte Dr. Hartmann hat uns mehr oder weniger gefangen genommen. Die Methodik haben wir ja schon festgestellt. Einfach als verrückt bezeichnen, mit mächtigen Schmerzmitteln versetzen und schon stellt keiner mehr Fragen. Ich frage mich aber dennoch. Zum Beispiel wo genau der gute Herr Doktor eigentlich die Handlanger her hat. Die müssen ja eigentlich wissen das das was er hier tut nicht so ganz legal oder moralisch einwandfrei sein kann. Und auch wenn viele Menschen flexible Moral haben und erst einmal Essen auf dem Tisch haben wollen kann ich mir nicht vorstellen das von all den Mitarbeitern des Doktors niemand auch nur einen Hinweis aufgegeben hat. Insbesondere weil Alan Wake eine berühmte Person ist und die Sheriff wahrscheinlich einige Fragen hat. Alles ein wenig rätselhaft. Aber immerhin ist die Cauldron Lage Lodge halbwegs angenehm, wenn auch ein wenig dunkel in meiner Empfindung.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

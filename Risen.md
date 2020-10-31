@@ -864,7 +864,7 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.xxxxxxxxxx Wir sind zu einem Befehlsempfänger geworden. Das waren wir nicht immer aber wenn wir ehrlich sind haben wir auch nicht die Macht oder Moneten um ohne Gönner irgendetwas auf die Beine zu stellen. Unsere persönliche Macht ist definitiv noch nicht ausreichend um einen Unterschied in der Welt zu machen. Also buckeln wir schön brav vor dem Don der Insel und versuchen soviele Vorteile wie möglich heraus zu holen. Ärgerlicherweise glaube ich das der Don am Ende kein guter Anführer ist, seine Ansichten haben Probleme und werden uns wahrscheinlich etwas weiter in der Zukunft noch in eine missliche Lage führen. Für den Moment scheint er aber einmal vergessen zu haben warum wir überhaupt auf Verhandlung mit Inquisitor Mendoza gegangen sein. Er agiert als hätte er eine Position der Stärke. Die hat er aber definitiv nicht. Schon komisch.Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 UhrRisen bzw. Nostalgiespiele sind auf Donnerstags geplant.Hiermarkdown
   ```
 
-##### #66
+##### #67
 
 * Titel: `Risen - #67 - feurige Spuren [Let's Play; ger; Blind]`
 
@@ -875,4 +875,66 @@
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #68
+
+* Titel: `Risen - #68 - hohe Alchemie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal fällt mir ziemlich spät auf das ich viel früher etwas hätte leveln sollen umso schnell wie möglich einen Vorteil zu erhalten. In Gothic 3 waren die dauerhaften Attributetränke eher schlecht und ich habe nie auch nur den Versuch unternommen einen zu brauen. In Risen kosten Attribute immer Skillpunkte und davon nicht unbedingt wenig. Skillpunkte für die wir auch neue Fähigkeiten erlernen könnte. Eine solche Fähigkeit wäre die Alchemie, für nur 15 Punkte insgesamt erhalten wir hier die Fähigkeit Stärketränke herzustellen die pro Stück unsere Kraft dauerhaft um 5 Punkte erhöhen. Nach dem dritten Trank machen wir also quasi plus. Das hätte mir viel früher auffallen müssen, Stärke hat mir schon seit einiger Zeit gefehlt. Aber hinter weiß man ja immer alles besser.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #69
+
+* Titel: `Risen - #69 - Dschungelpfade [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da isse wieder, eine von den Episoden mit nichtssagenden Titeln die bestimmt nie irgendjemand über die Youtube Suche finden wird. Sowas kommt in letzter Zeit bei mir recht oft vor. Grade die Piranha Bytes Spiele haben öfter mal so Phasen in denen wirklich nicht viel passiert. Man könnte es wohl Spielzeitstreckung oder aber Probleme mit dem "Pacing" nennen. Das Spiel hat Leerlaufstellen in denen der Spannungsbogen ein wenig nach lässt. Oder man soll halt die Mechaniken ein wenig mehr verwenden. Wie dem aber auch sei, ich erkunde heute ein wenig die Gegend hinter dem Sumpflager und rede dabei über Gott und die Welt. Alternativ könnte ich diese Episode auch "Just Chatting: Risen Edition" nennen. Meistens erzähle ich dann ziemlich unfundierte Dinge die ich irgendwann mal gelesen haben. Es hilft bei sowas einen Chat zu haben der mir als Wegweise dient.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #70
+
+* Titel: `Risen - #70 - Pattys Spur [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir haben nicht Patty verlegt. Wir wissen genau wo sie ist und haben sogar mehre Interessenkreise gefunden die an ihrer Mission reges Interesse zeigen. Ihre Spur ist viel mehr das Auftreiben von den Schatz ihres Vaters bzw. die Hinweise die uns dann zu den Schatz führen. Einer dieser Spuren sind anscheinend die sogenannten Meuterer, verschiedene Leute mit denen Kapitän Stahlbart Zeit seines Lebens zu tun gehabt hatte die aber wichtig genug waren begraben zu werden. Ich möchte übrigens noch einmal feststellen das Piraten nicht besonders viele Gründe haben ihre Schätze zu verbuddeln. Das ist wie bei Testpiloten. Jeder "Einsatz" ist ein Spiel mit dem Feuer und da gibt es nicht viel morgen an das man denken kann für das man einen Schatz braucht den man später heben will.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #71
+
+* Titel: `Risen - #71 - Vasili der Spion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich ist Vasili einfach nur Bootsmann oder Enterkamerad oder was auch immer er auf dem Schiff von Kapitän Romanov getan hat. Definitiv ist er aber kein Spion, dafür hat er einfach nicht die physische Statue. Salopp gesagt ist er einfach zu fett und erweckt auch nicht den Eindruck als könne er sich erfolgreich durchs Unterholz an unseren Fersen heften. Gesehen habe ich ihn bis dato aber tatsächlich nicht aber gefunden. Einfach weil der Typ es nicht schafft sich wenigstens in einen Busch zu stellen. Und vielleicht weil ich ärgerlicherweise genau in die Richtung gelaufen bin in der er sich eh verstecken wollte. Etwas unglücklich gelaufen für den guten Vasili. Aber manchmal spielt das Leben halt so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```

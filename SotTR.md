@@ -395,3 +395,68 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
+
+##### #31
+
+* Titel: `Shadow of the Tomb Raider - #31 - das Königshorn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird wieder einmal Zeit für die Episode in der ich erzähle das die Kultur die wir treffen nicht besonders viel Sinn ergibt weil sie inkonsistent ist. Das ist an sich ja eigentlich kein Argument weil Menschen ja wirklich alles sind aber nicht konsistent. Es stellt sich aber heraus das eine Geschichte wie die heutige ziemlich wenig Sinn ergibt. Anscheinend werden Kinder unter 12 Jahren einfach mal so eben wegen Diebstahl zum Tode verurteilt. Ich hatte mich eventuell bereits in der Vergangenheit darüber aufgeregt das Todesstrafe für alles überhaupt keinen Sinn ergibt, aber Kinder zu verurteilen die grade die Welt entdecken erscheint mir eine gute Methode zu sein um als Kultur vollständig aus zu sterben. Aber was weiß ich schon, Anthropologe bin ich nun wirklich nicht, Lara Croft aber auch nicht, die sich aber an den Methoden weniger zu stören scheint.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #32
+
+* Titel: `Shadow of the Tomb Raider - #32 - Kopfschutz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara Croft ist überraschend gut im Schleichen. Das hat sie alles in der Praxis gelernt wie ich anmerken möchte. Keine besonders gute Lernmethode, einfach weil wenn man einmal kein Glück hat oder zu unerfahren ist man dabei stirbt. Zumindest wenn es wirklich um etwas geht. Aber das ist alles gar kein Problem wenn man eventuell zu aufmerksame Wächter danach eine 45er Kopfschmerztablette verpassen kann und man dann doch ganz gut aus der Situation rauskommt. Das funktioniert aber nur dann wen man genügend Kaliber mit sich rumträgt und wenn die Feinde nicht zu gut gepanzert sind. Heute stellt sich heraus das ein primitiver Metallhelm anscheinend ausreicht um eine Pistolenkugel aufzuhalten. Wie genau das funktioniert verstehe ich zwar nicht aber vielleicht möchte ich es auch gar nicht wissen. Auf jeden Fall ist dieser Umstand außerordentlich ärgerlich. Für mich, und meinen mangelhaften Schleichkünsten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #33
+
+* Titel: `Shadow of the Tomb Raider - #33 - Cenote [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich nutze den Eingang dieser Episodenbeschreibung um großzügig aus Wikipedia zu zitieren:
+  
+  Eine Cenote ist eine Karsthöhle mit Grundwasserzugang, die oft durch Einsturz der Höhlendecke dolinenartig als großes Kalksteinloch vorliegt, das mit Süßwasser gefüllt ist und als Brunnen dienen kann. 
+  Jetzt weiß ich nicht so recht was eigentlich eine Karsthöhle ist, also googlen wir auch das mal eben. Ahja, es handelt sich um eine Höhle die halt in Kalkstein entstanden ist, damit haben wir also einen guten Zirkelschluss erreicht. Wie dem auch sei, ich dachte erst das es sich um den Namen eines Ortes handelt. Tut es nicht. Es ist die Bezeichnung für etwas, eine Bezeichnung die Lara als geübte Geologin natürlich kennt. Mich wundert allerdings das niemand bisher in der Lage war den Ort zu finden. Man möchte doch eigentlich meinen das man einen nicht überwachsenen Bereich mitten im Dschungel an dem Ruinen herausragen leicht finden könnte wenn man etwas Technologie über Karten rüberjagt. Allerdings sind so Bilder aus dem Orbit nicht ganz billig wenn man Auflösung haben will, also vielleicht eventuell logisch? Andererseits weiß Trinity ja wo sie suchen müssen und Geld haben die auch.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #34
+
+* Titel: `Shadow of the Tomb Raider - #34 - spanische Leichen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kenne als Einrichtungsgegenstand spanisch Wände. Das sind so kleine Zwischenwände die nicht bis nach oben gehen. Glaube ich. Wie dem auch sei, heute geht es um spanische Leiche. Das sind auch Einrichtungsgegenstände. Es handelt sich um die verstorbenen Körper von spanischen Konquistadore die hier in der Cenote "Einrichtung" recht massenweise herumliegen. Wir wissen nicht genau wie sie da hingekommen sind, aber die Tatsache das sie nach all der Zeit noch vorzufinden sind sagt mir doch das sie irgendjemand als wichtigen Teil der Einrichtung empfindet. Also ja, spanische Leichen ist anscheinend eine Sonderform der spanischen Wand. Etwas geschmacklos in meiner bescheidene Empfindung aber so richtig scharf bin ich auch nicht darauf mich mit den lokalen Einwohnern zu streiten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #35
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

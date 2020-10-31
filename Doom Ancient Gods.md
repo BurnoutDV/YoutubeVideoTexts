@@ -94,10 +94,67 @@
 
 ##### #8
 
-* Titel: ``
+* Titel: `DOOM Ancient Gods - #8 - Geisterjagt [Let's Play; ger; DLC#1]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Mit so einem DLC muss es natürlich auch neue Gegner geben die irgendwie ansprechend sind. Oder anstrengend. Eine neue Herausforderung darstellen, irgendwie sowas halt. Nun, heute habe ich die Antwort auf die Frage was das wohl in diesem DLC sein könnte. Es handelt sich um Geister von mächtigen Dämonen. Und es wäre natürlich zu einfach wenn die uns einfach direkt angreifen würden. Nein, es muss natürlich kompliziert sein. Viel schlimmer ist aber auch das der Einzige Weg die Viecher zu bekämpfen eine Waffenmodifikation ist die ich zuvor noch nie  genutzt habe. Das macht das Ganze ein wenig nervig für mich, vor allen Dingen weil die Alternative zu meiner Hauptkombination gehört die ich eigentlich gegen jeden Wald und Wiesenfeind einsetze. Davon abgesehen das Dämonen nur selten auf Wiesen zu finden sind. Oder Wälder. Dafür aber jetzt wohl in Sümpfen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #9
+
+* Titel: `DOOM Ancient Gods - #9 - Sümpfe des Grauens [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in den Blutsümpfen, das schon seit einer ganzen Stunde es sollte also niemanden mehr überraschend das wir einen leichten Sumpffuß kriegen. Ich bin mir allerdings fast sicher das der Anzug des Doom-Marine zumindest teilweise wasserdicht ist und wir eigentlich keine Probleme mit solchen Dingen bekommen sollten. Generell frage ich mich wie lebensfähig dieser Ort der Hölle ist. Klar, es ist ein Sumpf bzw. Moor aber hier  wachsen tatsächlich Dinge, mehr schlecht als recht, aber irgendwelches Wachstum ist wesentlich mehr als die Marsoberfläche bzw. die anderen wüstenartigen Gegenden aus Doom 2016 geboten haben. Ich würde das also als großen Fortschritt sehen. Es könnte natürlich auch sein das dieser Ort der Hölle einst der fruchtbarste aller Orte in der Vor-Hölle war und das hier nur noch die traurigen Reste sind.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #10
+
+* Titel: `DOOM Ancient Gods - #10 - die erste Prüfung [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in Episode 10 und wir leisten dann mal die erste Prüfung ab. Technisch gesehen ist Doom eine ständige Serie von Prüfungen bzw. Arenas. Wäre dem nicht so hätten wir wahrscheinlich ein echtes Problem. Die meisten Level sind ja große Schläuche aber wenn es keine Arenen bzw. Dinge gäbe die uns aufhalten würden würden wir echt schnell vorran kommen. Ich muss aber sagen das die immer gleiche Formel gewissermaßen schon ein wenig frustrierend ist. Insbesondere diese Prüfung die ich hier abliefern muss und die Tatsache das einige Dämonen einen direkten Treffer mit der BFG aushalten. Auch das Konzept der Geister finde ich nach wie vor ziemlich störend. Wie dem aber auch sei, am Ende des Tages kann ich leisten was von mir verlangt wird. Und das ist doch schon einmal was oder?
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #11
+
+* Titel: `Shadow of the Tomb Raider - #33 - Cenote [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich nutze den Eingang dieser Episodenbeschreibung um großzügig aus Wikipedia zu zitieren:
+  
+  Eine Cenote ist eine Karsthöhle mit Grundwasserzugang, die oft durch Einsturz der Höhlendecke dolinenartig als großes Kalksteinloch vorliegt, das mit Süßwasser gefüllt ist und als Brunnen dienen kann. 
+  Jetzt weiß ich nicht so recht was eigentlich eine Karsthöhle ist, also googlen wir auch das mal eben. Ahja, es handelt sich um eine Höhle die halt in Kalkstein entstanden ist, damit haben wir also einen guten Zirkelschluss erreicht. Wie dem auch sei, ich dachte erst das es sich um den Namen eines Ortes handelt. Tut es nicht. Es ist die Bezeichnung für etwas, eine Bezeichnung die Lara als geübte Geologin natürlich kennt. Mich wundert allerdings das niemand bisher in der Lage war den Ort zu finden. Man möchte doch eigentlich meinen das man einen nicht überwachsenen Bereich mitten im Dschungel an dem Ruinen herausragen leicht finden könnte wenn man etwas Technologie über Karten rüberjagt. Allerdings sind so Bilder aus dem Orbit nicht ganz billig wenn man Auflösung haben will, also vielleicht eventuell logisch? Andererseits weiß Trinity ja wo sie suchen müssen und Geld haben die auch.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #12
+
+* Titel: `DOOM Ancient Gods - #11 - tödlicher Nebel [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Sümpfe des Grauens haben uns bis jetzt sehr viel geboten, da waren Geister, explodierende Gase aber jetzt kommt es ganz dicke. Wir finden tödlichen Nebel. Das ist insofern beeindruckend als das ich mich erinnern kann das wir zwischendurch mitten im Weltraum durch die Gegend marschiert sind. Oder auf der Marsoberfläche. Ich bin mir also ziemlich sicher das die Rüstung des Doom Marines weltraumfähig und damit luftdicht ist. Anders kann ich mir nicht erklären das er das getan hat was er tat, Inkarnation des Hasses hin oder her. Umso seltsamer ist es jetzt das uns einfacher giftiger  Nebel den Rest gibt. Aber vielleicht gibt es hier auch eine magische Komponente und ich denke zu einfach.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```

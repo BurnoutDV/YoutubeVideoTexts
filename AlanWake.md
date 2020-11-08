@@ -275,6 +275,97 @@
   Alan Wake auf dem Dienstags Slot.
   ```
 
+##### #22
+
+* Titel: `Alan Wake - #22 - Flucht aus dem Irrenhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Klinik von Dr. Hartmann ist nicht wirklich eine Klinik, ich würde es eher als Irrenhaus bezeichnen, habe ich auch gemacht, gleich da oben, im Titel, damit es jeder sehen kann. Wie dem auch sei, wir fliehen, insbesondere vor der Dunkelheit die uns hier ganz schön zuzusetzen scheint. Ich bin übrigens ein wenig verwirrt warum die Finsternis nicht schon lange Barry geschnappt hat. Der rennt meistens irgendwo bei uns rum und steht auch öfter mal im Dunkeln. Und im Gegensatz zu allen anderen Leute wird er nicht übernommen. Klar, bei Alan Wake geht das nicht weil das Dunkel die Fähigkeiten des Author braucht, aber davon kann doch Barry nun wirklich nicht berichten. Der Mann ist Agent, und keiner von der geheimen Sorte. Der kann nun wirklich nichts was man jetzt erhalten müsste in der Situation. Insbesondere so fernab der großen Stadt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #23
+
+* Titel: `Alan Wake - #23 - Steinschlag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wäre ja auch zu einfach wenn wir einfach so dem Dunkeln entkommen wären. Stattdessen laufen die Dinge wie so oft nicht wie man sich das vorgestellt hat. Obwohl man in diesem speziellen Fall auch sagen muss das das Dunkle zwar beteiligt war aber nicht müsste. Es hätte  uns auch genauso gut so geschehen können. Die Gegend hier ist ein wenig unsicher und bergig. Da kann es leicht mal vorkommen das man von einem vorbeirollenden Stein erschlagen wird. Das macht dann auch ganz ohne Dunkelheit keinen Spaß. Aber wir haben Glück und überleben. Wieder einmal, obwohl man sich da in einer ruhigen Minute durchaus einmal fragen darf wie viel Glück da wirklich dabei war und ob das Dunkle auch beteiligt war.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #24
+
+* Titel: `Alan Wake - #24 - das große Konzert [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind auf der Farm der Anderson angekommen. Es war schon lange niemand mehr da, teilweise sieht es tatsächlich so aus als wäre seit den 70er nicht mehr all zu viel passiert. Damals gaben die Brüder ein großes Konzert das anscheinend die Dunkelheit vertrieben hat. Außerdem hat es anscheinend nachhaltig ihre Karriere ruiniert. Wie dem aber auch sei, eventuell rege ich mich ein wenig auf weil ständig Gegner hinter mir erscheinen die eigentlich gar keine Zeit gehabt hätte irgendwie an mich ranzuschleichen. Die gute Nachricht ist aber das wir jetzt eine richtig mächtige Taschenlampe haben und damit den diversen Gegner auch ordentlich heimleuchten können. Die sind eh ein wenig unterbeleuchtet.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.xxxxxxxxxx Wir sind auf der Farm der Anderson angekommen. Es war schon lange niemand mehr da, teilweise sieht es tatsächlich so aus als wäre seit den 70er nicht mehr all zu viel passiert. Damals gaben die Brüder ein großes Konzert das anscheinend die Dunkelheit vertrieben hat. Außerdem hat es anscheinend nachhaltig ihre Karriere ruiniert. Wie dem aber auch sei, eventuell rege ich mich ein wenig auf weil ständig Gegner hinter mir erscheinen die eigentlich gar keine Zeit gehabt hätte irgendwie an mich ranzuschleichen. Die gute Nachricht ist aber das wir jetzt eine richtig mächtige Taschenlampe haben und damit den diversen Gegner auch ordentlich heimleuchten können. Die sind eh ein wenig unterbeleuchtet.Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  Alan Wake auf dem Dienstags Slot.Hiermarkdown
+  ```
+
+##### #25
+
+* Titel: `Alan Wake - #25 - die Anderson Farm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe geschrieben das wir bereits in der letzten Episode auf der Farm waren, so richtig sicher ist das aber auch nicht weil das Gelände doch schon ziemlich weitläufig ist. Ich möchte aber behaupten das wir wohl die ganze Zeit auf der eigentlichen Farm waren. Ich bin übrigens beeindruckt wie grade eigentlich noch die meisten Pflanzen auf den Feldern aussehen. Ein wenig verschwenderisch sind die verschiedenen Gerätschaften die hier rum stehen und offensichtlich nicht genutzt werden. Ansonsten handelt es sich um anscheinend excellenten Boden in einer Gegend in der man sonst wahrscheinlich nicht so einfach an ebener Erde kommt, direkt am See. Ich frage mich warum die Andersons niemals verkauft haben?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #26
+
+* Titel: `Alan Wake - #26 - das Lied der Götter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Titel ist ein wenig übertrieben. Eigentlich ist es das Lieder der alten Götter, um genauer zu sein, der Old Gods of Asgard, einer Band aus den frühen 70er Jahren, anscheinend größtenteils bestehend aus Tor und Odin Anderson. Ich habe dann im Nachhinein erfahren das die Gebrüder nicht immer so hießen. Es gibt eine Band die sehr ähnlich klingt und Poets of the Fall heißt, die sind aber deutlich jüngeren Datums. Wie dem aber auch sei, wir hören heute Musik, trinken Met und sprechen über Gott und die Welt während draußen das Dunkle wütet. Oder halt auch nicht, es ist wirklich komisch, manchmal zerstört es alles um uns herum und kommt in gewaltigen Stürmen, aber kaum sind wir in einem Gebäude in dem es ein wenig Licht gibt kann es kaum noch etwas tun und lässt uns Ruhepausen. Da gibt es wohl Grenzen die wir noch nicht genau kennne.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #27
+
+* Titel: `Alan Wake - #27 - Sklave des Skripts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das wir eigentlich gar nicht mehr besonders viel machen können was nicht geschrieben steht. Das Witzige daran ist eigentlich das wir gar nicht wissen was geschrieben ist. Das bedeutet also das wir uns zwar dagegen wehren können was geschrieben ist aber am Ende hat das vielleicht überhaupt keinen Einfluss weil es so geschrieben ist. Für den täglichen Einsatz im Leben macht es also gar keinen Unterschied solange wir nicht wissen was geschrieben ist. Klar ist es irgendwie beunruhigend zu wissen das bereits alles ausgeschrieben ist, aber am Ende ändert sich nichts solange man es nicht weiß. Außer vielleicht die drängenden Fragen über den freien Willen die sich aufdrängen und wie genau sich das Geschriebene manifestiert. Die Flucht liegt übrigens scheinbar im Detail, Wake kann unmöglich jede kleine Interaktion und Tat aufgeschrieben haben, hier kann man sich also weiterhin frei vom Skript entfalten. Toll oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #28
+
+* Titel: `Alan Wake - #28 - Vor-Fest [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bald ist das Hirschfest, wenn ich das richtig in Erinnerung habe ist es quasi schon morgen so weit. Ich weiß übrigens nicht so recht was da genau gefeiert wird. Die Festwägen die wir gesehen haben haben recht viele Hirsche gezeigt, ich gehe aber mal davon aus das es allgemein ein Jagtfest ist. Würde ich jetzt mal so annehmen. Auf der anderen Seite gibt es in den Wäldern rund um Brightfalls ziemlich wahrscheinlich noch Bären und auch andere Räuber, eine Bejagung der Hirsche ist daher wahrscheinlich eher nicht notwendig. Generell hatten wir bisher irgendwie Glück das uns noch kein Hirsch angefallen hat oder? So oder so, das wird uns heute auf jeden Fall nicht passieren weil wir direkt in der Stadt sind und ich gehe nicht davon aus das hier viele Bären rumlaufen, stattdessen aber gibt es Schattenwesen, das macht es auch nicht unbedingt besser.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

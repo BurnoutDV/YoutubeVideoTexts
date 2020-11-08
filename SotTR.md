@@ -453,6 +453,97 @@
 
 ##### #35
 
+* Titel: `Shadow of the Tomb Raider - #35 - San Cordoba [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Cordoba ist laut meiner Zuschauer eine Stadt in Spanien. Generell stellen wir heute fest das es einen Grund gibt warum ich Geografie damals in der 9ten Klasse abgewählt habe. Ich habe keinerlei Vorstellung von Orten und wo diese sind. Muss ich ja zum Glück auch nicht. Wie dem auch sei, ich erzähle euch das weil wir heute ein Schiff durchsuchen das San Cordoba heißt. Der Name ist also Nonsens und hat keinerlei historische Bedeutung. Die Dimensionen sind laut eines anderen Zuschauers aber irgendwie passend. Nicht ganz in der Länge aber so Galeonen sind angeblich wirklich ziemlich groß. Ich habe mir auf meine persönliche Eimer-Liste gesetzt das ich irgendein Museum betreten möchte in dem man sich eine Galeone in Lebensgröße angucken kann. Ansonsten ärger ich mich heute viel weil die Rätsel nicht ganz offensichtlich für mich aussehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #36
+
+* Titel: `Shadow of the Tomb Raider - #36 - Cenote-Tempelruinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ja erwähnt das ich mittlerweile weiß das eine Cenote eine Art Landschaft ist. Die Tempelruinen die wir heute besuchen wurden daher nicht von den Cenoten oder Ähnlichem erbaut sondern sind einfach nur in dieser Senke vulkanische Ursprungs. Generell und überhaupt die Tempeldichte wirklich erstaunlich. Da fragt man sich doch wirklich wann die Leute neben den harten Lebensbedingungen im Dschungel eigentlich noch Zeit gefunden haben irgendwelche gewaltigen Steinbauten mit Handwerkskunst zu versehen. So eine Steinplatte bewegt sich ja nicht von alleine, und selbst mit ziemlich viel Personal ist das alles nicht so einfach und doch eher schweißtreibend. Wir sind übrigens nicht die Erste hier, aber das sollte ja nun wirklich niemand mehr überraschen. Hier sieht es aber fast so aus als wäre der Ort aktiv bewohnt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #37
+
+* Titel: `Shadow of the Tomb Raider - #37 - das Auge der Schlange [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir sind nicht plötzlich wieder im Dschungel, stattdessen ist das Auge der Schlange jetzt eher metaphorisch zu verstehen, es handelt sich um ein Artefakt aber auch an Etwas an das die alten Inka wirklich geglaubt haben. Übrigens ist dieses Mal noch nicht so richtig raus ob wir es wirklich mit der geheimnisvollen Macht zu tun haben die wir an anderen Orten gesehen haben. Bis auf ein paar Naturkatastrophen ist kaum etwas geschehen, und auch wenn es ein ziemlich seltsamer Zufall sein würde habe ich bisher noch keine herumlaufenden Zombies gesehen, ich halte mir also die Chance offen das es sich um gar nichts handelt und in Wirklichkeit alles ganz natürliche Erklärungen hat und die Welt nie in Gefahr war. Außer die von Paititi vielleicht, aber das kann uns dann auch egal sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #38
+
+* Titel: `Shadow of the Tomb Raider - #38 - die Pforte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns dem großen Tor, dem hinter dem das Artefakt sein soll, die Schachtel der Schlange, oder des Mondes, ich habe es ehrlich gesagt vergessen und während ich das hier schreibe bin ich auch ein wenig faul es nachzugucken. Generell sind diese Texte meistens was mir spontan einfällt und was ich noch zu der Episode kommentieren kann. Quasi ein Kommentar zum Kommentar. So oder so macht es mir Tomb Raider ziemlich schwierig irgendwie alles für glaubhaft zu halten, insbesondere weil die meisten Rätsel die wir so über den Tag verteilt lösen alle ein wenig sehr an den Haaren vorbeigezogen sind und es bisher keinen Hinweis darauf gab das Magie im größeren Maßstab für solche Dinge bereitsteht. Und selbst wenn stellt sich die plausible Frage warum die Dinge so eingerichtet sind wie sie sind, manchmal kommt es mir wirklich so vor als wären die Türöffner nur für uns eingerichtet worden...was ja irgendwie auch stimmt, danke lieber Leveldesigner.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #39
+
+* Titel: `Shadow of the Tomb Raider - #39 - Überhang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß ein wenig über Kletter. Nicht viel, aber ich habe Free Solo geguckt und gelegentlich gehe ich auch mal in eine Boulderhalle, wenn nicht grade Pandemie ist meine ich. Ich war auch schon gelegentlich Seilkletter. Daher kann ich euch sagen das es ohne richtigen Halt extrem schwer ist sich irgendwie im Überhang zu halten. Die Füße sind dabei enorm wichtig. Das weiß auch Lara Croft, wir finden heute ein paar Eiskletterschuhdinger, und mit denen können wir dann quasi alles erklettern. Ich möchte an der Stelle noch einmal anmerken das es meine Fantasie schon enorm unter die Probe stellt. Ihre normalen Kletteraktionen sind schon ziemlich unmöglich, egal wie fit Lara ist. Aber das Überkopfzeug ist einfach völlig unmöglich, Frau Croft klettert hier wie ein Geko. Das ist einfach nicht möglich. Wirklich nicht, gar nicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #40
+
+* Titel: `Shadow of the Tomb Raider - #40 - Tempel der Sonne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben bereits einen Tempel des Mondes betreten, wenn ich so recht überlege haben wir sogar schon mehr als einen Tempel des Mondes erkundet. Ich könnte mich aber auch täuschen, technisch gesehen war es wohl ein Tempel des Mondgottes dessen Namen ich spontan vergessen habe. Heute sind war aber stattdessen im Tempel der Sonne. Die Sonne anzubeten (oder irgendwelche anderen goßen Himmelsgestirne) ist eine ziemlich normale Reaktion. Was diesen Tempel so besonders macht ist die Tatsache das hier irgendwelche Konstruktionen existieren die auf den Einfall von Sonne reagieren. Und zwar in einer ziemlich physisch ausgeprägten Art. Wenn man Dinge perfekt austariert kann man mit der Einwirkung von etwas Wärme erstaunliches bewirken. Dafür muss man aber ziemlich genau kalibrieren, hier sieht es so als wäre das Zeug Jahrhundertelang in Ruhe gelassen worden. Sehr unglaubwürdig. Ich fürchte ich werde mich noch des Öfteren wiederholen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #41
+
+* Titel: `Shadow of the Tomb Raider - #41 - Sonnenstrahlen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal schaffe ich Rätsel nicht unbedingt beim ersten Versuch, dann brauche ich eine weitere Episode um die Dinge zu lösen. Das fällt mir dann nicht ganz so einfach, ist mir ja schließlich auch peinlich auf dem Schlauch zu stehen. Außerdem schwierig wird es wenn ich das Ganze dann noch irgendwie kommentieren soll. Prinzipiell kann ich nur sagen, hier habe ich 26 Minuten gebraucht um etwas auf die Kette zu kriegen das eigentlich wesentlich einfacher sein sollte. Aber es hat halt gedauert was es gedauert hat. Immerhin wissen wir jetzt das die Inka es meisterhaft verstanden die Energie der Sonne für ihre Zwecke zu nutzen. Mich wundert wirklich warum ihre Kultur so untergegangen ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

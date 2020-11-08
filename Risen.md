@@ -929,6 +929,97 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #72
+
+* Titel: `Risen - #72 - Westküste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So, da sind wir jetzt auch schon. An der Westküste. Dort gibt es Fischgestank, diverse Wesen die uns Böses wollen und moderate Mengen an Schätzen. Ich weiß manchmal wirklich nicht was mich so durch die Welt treibt. Man erkundet eine Ecke oder fängt irgendwo an Gegner umzuhauen und ehe man sich versieht landet man irgendwie auf der anderen Seite der Insel. Aber immerhin ist man dann in der Regel wesentlich reicher als man es noch war bevor man diese Reise angetreten hat. Davon abgesehen finden wir auch noch ein paar Burgherren die es sich hier an der Küste gemütlich gemacht haben. Ich würde das mal als gute Sache werten auch wenn das gar nicht meine Intention war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #73
+
+* Titel: `Risen - #73 - Burgherren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte ja in der Beschreibung der letzten Episode (nach einer gewissen Zeit hat eigentlich jedes Lets Play Video von mir eine Beschreibung) das ich mehr oder weniger zufällig in die ganze Geschichte hier hineingeraten bin und mir beim Erkunden nicht wirklich aktive Mühe gebe. Es passiert halt einfach, ich laufe vor und zurück, Kreuz und Quer und zack findet man wieder einen Burgherren. Heute ist das besonders spannend weil wir eine Burg von hinten betreten und damit einen wesentlich leichteren Weg finden als wenn wir einfach durch die Vordertür gegangen wären. Das empfinde ich als großen Glücksfall, und das alles nur weil ich über soviel Neugier verfüge.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #74
+
+* Titel: `Risen - #74 - Taler oder Talent? [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir können Skillpunkte einfach bei Trainern kaufen, Vorraussetzung ist natürlich das wir genügend Skillpunkte haben. Die Alternative besteht darin das wir einfach ein paar teure und auch seltene Ingredizien kaufen und magische Tränke der dauerhaften Veränderungen Zusammenbrauen. Das ermöglicht dann einen  gewaltigen Stärkerzuwachs ohne das wir Skillpunkte für irgendetwas verbrennen müssen. Praktisch. In dieser Hinsicht ersetzt also Taler tatsächlich Talent, wir müssen gar nicht lernen stärker zu werden, stattdessen können wir unseren Weg einfach freikaufen. Klar, die meisten Kräuter die wir wirklich brauchen werden gar nicht von Händlern angeboten aber die Grundbausteine bekommen wir von denen, und die Erwartung alles auf dem Silbertablett zu erhalten war ja doch recht gering. Als fleißiger Kräutersammler haben wir aber auch so schon ziemlich viel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #75
+
+* Titel: `Risen - #75 - die Meuterer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kapitän Gregorius Stahlbart hatte anscheinend ein recht großes Piratenschiff. Eventuell hat er das gute Stück auch immer noch. Wir wissen quasi nichts über den Mann außer das Patty ihn sucht. Unsere Spuren sind ein wenig dürftig, zum Glück nicht weiter schlimm da wir immer wieder eine weitere Truhe finden. Darin finden sich dann kurze Briefe die anscheinend einen von 5 Meuterer beschreiben. Jedesmal wird ein Name erwähnt, ich gehe stark davon aus das die Namen am Ende irgendwie ein Passwort ergeben werden. Welches oder wie wird sich erst zeigen wenn wir alle 5 haben, und vielleicht hat dann Patty noch eine kreative Idee. So oder so buddeln wir die Typen erst einmal aus. Auffällig ist das wir zwar Gräber mit Truhen aus den Boden ziehen aber bisher noch kein Skelett entdeckt haben. Schon komisch oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #76
+
+* Titel: `Risen - #76 - der vierte Burgherr[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt fünf Burgherren die der dunkle Lord Pastroscon verflucht hat. Zumindest glauben wir das, insgesamt gibt es aber 6 Ringe. Ich gehe also mal davon aus das ursprünglich 6 Herrscher angedacht waren und der sechste keine Lust auf den Trick hatte oder irgendetwas Anderes schief gegangen ist. Wie viel Zeit seit dem vergangen ist können wir schlecht abschätzen, aber da die meisten Burgen nur noch Ruinen sind würde ich spontan von einigen hunderten Jahren ausgehen. Es sei den die Erdbeben waren auf der Insel Faranga auch schon in der Vergangenheit präsent, nur halt seltener. Bei einer Vulkaninsel vielleicht nicht völlig unwahrscheinlich. Heute finden wir den vierten Burgherr, damit verbleibt noch nur ein Einziger.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #77
+
+* Titel: `Risen - #77 - Rupert der Jäger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Wildnis außerhalb der Stadt gibt es nicht viele Leute. Das liegt auch daran das die Inquisition sehr darum bemüht ist die "armen" Menschen von den Wesen die jetzt auf der Insel umherlaufen zu schützen. Ein paar Novizen mit einigen Wochen Speerkampfsausbildung sind aber anscheinend gut genug dafür geeignet die Farmproduktion weiter zu betreiben. Wie dem auch sei, nicht alle Leute sind den Ruf der Inquisition gefolgt und haben sich auch nicht fangen lassen. Waldläufer und Jäger zum Beispiel. Heute treffen wir Rupert, der gute Mann ist Jäger und hat einen alten Erzfeind: den Gyrger. Es scheint an dem Gerücht ist mehr dran als ich ursprünglich annahm, Rupert glaubt er habe handfeste Beweise für eine physische Existenz eines Wesens namens Gyrger  gefunden. Was existiert können wir töten. Was wir töten können können wir auch ausrauben. Interessant.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #78
+
+* Titel: `Risen - #78 - Burgherr Patroscon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben bereits viel von ihm gehört, heute treffen wir ihn, Patroscon. Ich bin mir übrigens nicht sicher ob der gute Mann(?) überhaupt ein Burgherr ist oder einfach ein mächtiger Magier oder anderweitig befähigte Person. So oder so haben wir mittlerweile herausgefunden das es eine Person gibt von denen die magischen Ringe ausgehen die wir bei diversen anderen Burgherren gefunden haben die über die Insel verteilt sind. Wer diese Herren waren vermag uns heutzutage niemand mehr sagen, es ist übrigens ein wenig schade das wir über keine Informationen in der Richtung verfügen. Selbst Dark Souls war bei solchen Sachen freigiebiger, auch wenn es nur die Beschreibungen auf den Waffen und Rüstungen waren die die Leute fallen ließen. Patroscon redet auch nicht mit uns, wäre aber auch schwierig so ohne Zunge. Ich behaupte jetzt als Schlußwort einfach das der Mann Nekromant ist und Hauptverursacher für die Zombies auf der Insel ist. Bestimmt. Wer auch sonst. Kann ja gar nicht sein das es irgendetwas mit den Göttern oder den uralten Tempeln zu tun hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

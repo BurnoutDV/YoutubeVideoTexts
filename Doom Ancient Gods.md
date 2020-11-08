@@ -158,3 +158,91 @@
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
+
+##### #13
+
+* Titel: `DOOM Ancient Gods - #13 - Maligogs Prüfung [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Jeder liebt Prüfungen, insbesondere der Doom Slayer. Ich möchte für diese Episode übrigens eine leichte Schreiwarnung aussprechen. Das liegt unter Anderem daran das mich hier irgendwelche Dinge verlangsamen und das mag ich überhaupt nicht. Doom ist für mich ein Spiel in dem ich mich schnell bewege, und wenn mich dann irgendetwas das ich nicht sehen kann oder nicht in meinem Blickfeld auf einmal in meiner Bewegungsgeschwindigkeit einschränkt ist das außerordentlich ärgerlich. Das mag ich nicht. Wie dem aber auch sei, ich frage mich was für harte Kerle die anderen Ritter gewesen waren die hier die Prüfungen versucht haben. Klar, geschafft hat es niemand, aber dennoch, alleine der Versuch ist für einen sterblichen doch der absolute Tod oder?
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #14
+
+* Titel: `DOOM Ancient Gods - #14 - Reiterhain [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Praktikant ist unser bester Freund, ich weiß zwar nicht warum grade er uns hilft ich ahne aber das am Ende herauskommt das er Stimmen oder so gehört hat. Wie dem auch sei, nachdem wir beim letzten Mal wirklich eine Menge Mühen auf uns genommen haben um bis nach Urdak zu kommen und wir uns dafür praktisch durch die gesamte Hölle und einer gewaltigen Lebendfabrik kämpfen muss ist es jetzt wesentlich einfacher. Wir teleportieren uns einfach vor Ort ohne uns großartig Sorgen machen zu müssen. Das Ganze hängt irgendwie mit der Lebenssphäre zusammen die wir unlängst erbeutet haben. In Urdak wurde seit unserem letzten Besuch ein wenig umdekoriert, aber das wusste wir ja schon. Immerhin beruhigen ist das wir wissen das wir nicht an dem Zustand des himmlischen Reiches schuld sind, das waren ganz alleine die Makyrs die unbedingt die Ikone der Sühne wieder auferstehen lassen wollten. Frei von jeder Schuld jaha!
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #15
+
+* Titel: `DOOM Ancient Gods - #15 - Purpurroter Wald [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen über die Kultur der Makyr absolut gar nichts. Auch nicht was diese den ganzen Tag getrieben haben wenn sie grade nicht damit beschäftigt waren das pure Böse wieder zu erwecken. Generell und überhaupt gehe ich aber nicht davon aus das sie besonders viele Leute hatten die mit trivialen Dingen beschäftigt waren, dafür gibt es doch ein wenig sehr viel Technik. Wie dem aber auch sei, der blutrote Reiterhain ist gewissermaßen auch schön. Das ist insbesondere deswegen hervorhebenswert weil es nach menschlichen Maßstäben ja irgendwie nach Himmelsreich aber in Alien aussieht. Aber dennoch, so ein paar wichtige Dinge sind da, Dämonen zum Beispiel, in Hülle und Fülle. Das ist doch eigentlich schon mal schön, sonst würde uns als Doom Slayer ja auch langweilig werden und wir würden nur durch die Kulisse fliegen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #16
+
+* Titel: `DOOM Ancient Gods - #16 - Makyr-Säulen [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe kurz überlegt wie ich diese Episoden nenne in denen ich eigentlich nur gegen Horden von Dämonen antrete aber sonst nicht besonders viel auf die Kette kriege. Dann ist mir aber wieder eingefallen das ich am Ende eines jeden Levels ja die Schnellreisefunktion habe und dort die Orte benannt sind an denen ich war. Die heutige Episode heißt daher Makyr-Säulen. Ich habe die Namen aber im Nachhinein vergeben, weiß also gar nicht ob wir heute wirklich genau dort sind. Aber solange das niemand nachprüft ist es bestimmt auch genau so. Ich bin auf jeden Fall recht glücklich mit dieser Lösung und freue mich das damit jetzt auch alle glücklich sind. So sollte es ja auch sein.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #17
+
+* Titel: `DOOM Ancient Gods - #17 - Elfenbein-Pfad [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eigentlich fast schon ironisch wie die einzelnen Abschnitte desReiterhain irgendwie einen gewissen göttlichen Bezug haben aber das Einzige was wir sehen sind Dämonen an jeder Ecke. Und eventuell die ein oder andere Makyr Drohne hier und dort, aber ich gehe mal davon aus das die eher von der dämonischen Macht und dem stillen Einfluss des Herrn der Hölle beeinflusst wurde. So oder so steht der Titel im krassen Gegensatz zu dem was heute passiert. Immerhin schießen wir uns relativ flüssig durch die ganze Geschichte durch. Ich stelle bedauernd fest das die Gesamtheit nicht ganz so gut läuft wie ich das gerne haben würde. Ich könnte noch ein wenig besser sein, aber Stück für Stück nähern wir uns dem Luminarium, dem Ort an dem jede  Seele die hierher gebracht wird wiederbelebt werden kann. Ein heiliger Ort. 
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #18
+
+* Titel: `DOOM Ancient Gods - #18 - Pantheon der Khans [Let's Play; ger; DLC#1]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir könnten diese Episode auch "Vorzimmer des Luminariums" nennen, und das würde ich auch tun wenn ich nicht am Ende die Automap hätte die mir sagt wie die Orte richtig heißen. Ich kann mir übrigens unter den "Khans" nicht so viel vorstellen. Es gab die Khan Makyr von der wir wussten aber wenn ich mich richtig an die Texte von damals erinnere gibt es genau eine Khan Makyr und die wurde regelmäßig gewechselt, zumindest für eine Zeit bis die jetzige Version der Khan Makyr an die Macht kam und das mit der Machtübergabe nicht so einfach hin genommen hat. Jetzt hält niemand die Macht soweit ich das weiß, aber vielleicht ist auch einfach nicht genügend Zeit für eine neue basisdemokratische Wahl passiert.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #19
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  W
+  ```

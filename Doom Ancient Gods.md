@@ -239,10 +239,13 @@
 
 ##### #19
 
-* Titel: ``
+* Titel: `DOOM Ancient Gods - #19 - Samur Makyr [Let's Play; ger; DLC#1]`
 
 * Beschreibung:
 
   ```markdown
-  W
+  Eventuell vielleicht haben wir uns ein wenig gegen Samual Hayden, auch bekannt als Samur Makyr gewandt als wir die Lebensphäre des Vaters ein wenig zerdrückt haben. es ist übrigens auffällig wie die Lebenssphären genauso aussehen wie die Power-Ups aus dem Vorgänger auf der Mars Basis. Wie dem auch sei, der gute Mann (?) zerfällt jetzt langsam, warum genau er das tut weiß ich übrigens gar nicht, es stand nur irgendetwas von Transfiguration aber warum das jetzt mit ihm passiert möchte hier niemand erklären. Vielleicht weil er seinen Körper zu lange verlassen hat und den Körper der UAC benutzt hat um die Hölle zu betreten die er laut göttlichem Mandat eigentlich nicht betreten sollte? Wie dem aber auch sei, Samuel Hayden hat uns am Ende von DOOM auch verraten, es ist nur fair das wir Revanche üben. Seine etwas erboste Reaktion auf unser Verhalten kann ich also gar nicht verstehen. Insbesondere nachdem wir ihn bereits mehrfach vor dem sicheren Tod gerettet haben, etwas Nachsicht wäre ja wirklich mal schön. Es kommt aber alles ein wenig anders, der gute Dr. stellt sich uns einfach entgegen, zum Glück hat uns bisher noch nie irgendetwas aufgehalten, warum sollte das jetzt also anfangen?
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```

@@ -1020,6 +1020,19 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+#79
+
+* Titel: `Risen - #79 - Gnomenfeste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wollen den Gyrger töten, oder besiegen oder alternativ für kurze Zeit in die Schattendimension bannen. Je nachdem was zur Option steht. Das wissen wir leider noch nicht, als Erstes müssen wir uns nämlich durch ziemlich große Mengen an Gnomen schlagen. Das kommt wenig überraschend weil der Gyrger angeblich die Gnome anführt. Sicher wissen tun wir es auch nicht, das Vieh heißt ziemlich sicher auch gar nicht so oder würde sich anders nennen. Je nachdem wie alt die Legende von Gyrger ist könnte es sich auch einfach nur um das Geräusch handeln das bestimmte Gnome von sich geben. Oder aber es ist ein kompletter Fantasiename der irgendeinen Kindermärchen entstammt das alte, gelangweilte Frauen Kindern erzählen. Oder alte gelangweilte Männer. Oder gelangweilte Kinder anderen Kindern. Wie dem aber auch sei, heute hauen wir erst einmal jede Menge Gnome um, nebenbei verteilen wir auch noch ein paar Schellen an Rupert der nicht aufhören kann zur jammern. Das macht es mir wirklich nicht leicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

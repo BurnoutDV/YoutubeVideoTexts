@@ -366,6 +366,19 @@
   Alan Wake auf dem Dienstags Slot.
   ```
 
+##### #29
+
+* Titel: `Alan Wake - #29 - Feuerwache Brightfalls [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir müssen nicht immer alle Strecken laufen, meistens fahren wir ja sogar Auto. Die Tatsache das in der Gegend von Brightfalls anscheinend selten Autos gestohlen werden macht sich für uns sehr nützlich. Ich meine einmal gelesen zu haben das bestimmte Gegenden sogar per Gesetz vorschreiben das man sein Auto nicht abschließen darf damit Menschen sich vor Bären in eben solchen in Sicherheit bringen können. Wie dem aber auch sei, wir fahren heute nicht. Stattdessen fliegen wir heute, oder haben das zumindest vor, wir müssen nur noch bis zum Helikopter kommen, aber das kann ja eigentlich nicht so schwer sein, das gute Stück steht ja an der Feuerwache und die ist ja nur ein paar Meter entfernt. Und Sheriff Breaker ist auch ein hervorragender Pilot. Was soll also schief gehen?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

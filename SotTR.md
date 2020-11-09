@@ -542,6 +542,19 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
+##### #42
+
+* Titel: `Shadow of the Tomb Raider - #42 - Neue Pläne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich möchte nicht behaupten das die Lage jetzt verfahrener ist als sie vor Laras Ankunft war, aber so richtig gut sieht es für den Moment nicht aus. Die Revolution in Paititi sieht jetzt nicht mehr allzu gut aus, insbesondere weil die Anführer der ganzen Geschichte gefangen genommen wurden. Immerhin könnne wir davon ausgehen das Unurathu nicht direkt umgebracht weil sich Amaru noch irgendwelchen Nutzen von ihr erhofft. Wie der genau aussieht vermag ich nicht zu sagen aber es wurde zumindest angedeutet. Dennoch brauchen wir jetzt einen neuen Ansatz, der Letzte war definitiv nicht ausreichend die Tempelwache und ihre Priester zu stürzen. Wir machen aber auf jeden Fall einen guten Anfang in dem wir uns in einer anderen Höhle treffen, einer mit nur einem Ausgang und an einem anderen, reichlich belebten Eingang. Das wird die Tempelwache nie merken, die sind ja schließlich nicht helle.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

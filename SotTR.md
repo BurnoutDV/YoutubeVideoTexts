@@ -555,6 +555,81 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
+##### #43
+
+* Titel: `Shadow of the Tomb Raider - #43 - Großmutters Karte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir könnte jetzt sofort aufbrechen, uns als Schlangenwache ausgeben und die gefallenen und gefangenen Rebellen aus ihrer misslichen Lage retten. Oder wir tun das nicht und kümmern uns stattdessen um die vielen liegen gebliebenen Nebenmissionen. Zum Beispiel die hier, die Großmutter von Abigail (die uns am Anfang im ersten Dorf geholfen hat) ist ein wenig zu früh verstorben und konnte ein wichtiges Geheimnis nicht mehr weiter geben. Stattdessen hat sie aber eine Karte hinterlassen mit dessen Hilfe eine neugierige Abenteurerin bestimmt noch so Einiges herausfinden kann. Natürlich hilft Lara der jungen Abigail in Not die Geheimnisse ihrer Vorfahren aufzudecken. Aber zu erst gehen wir wieder in den Dschungel und rätsel ein wenig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #44
+
+* Titel: `Shadow of the Tomb Raider - #44 - Chakana [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das die Steine die wir gefunden haben und die niemand anders durch Zufall in den letzten 20 Jahren ausgebuddelt hat alle drei zu einem Artefakt gehört. Insbesondere der dritte Teil hätte Abigail wahrscheinlich umgebracht und ich frage mich ernsthaft was sich Oma Abigail bei der Geschichte gedacht hat. Aber eventuell gab es ja vor ein paar Jahren die Wildkatzen und die Kletterdinger nicht. Wer weiß das schon. Vielleicht war auch die Lava deutlich weniger ausgeprägt. Oder Lara ist einfach nur zu doof den richtigen Weg zu sehen und macht es sich unnötig schwer. Wie dem auch sei, die drei Bruchstücke ergeben das Auge der Götter, das sogenannte Chakana, das Ding kann anscheinend Vieles bedeuten, in diesem Fall zeugt es uns einen Ort. Zum Glück grenzt es unsere Suche auf einen Bereich um die 2 km² ein. Da wissen wir ja sofort wo wir hin müssen. Einfach.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #45
+
+* Titel: `Shadow of the Tomb Raider - #45 - Schlangenturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir befinden uns immer noch in einer Nebenmission eines DLCs das ich anscheinend mit dem Hauptspiel dazu erhalten habe. Hier geht es offensichtlich darum das wir möglichst unlogische Konstruktionen besteigen. Der absolute Höhepunkt ist heute der sogenannte Schlangenturm. Der wird übrigens von mir so genannt. Technisch gesehen sind wir immer noch in der Schmiede und so wie es aussieht bin ich an der Hälfte der Exponate in dieser Ausstellung vorbei gelaufen. Das tut mir leid. Aber manchmal hat man einfach einen Tunnelblick und sieht nur das was vor einem liegt. Immerhin ist die Konstruktion schön anzuschauen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #46
+
+* Titel: `Shadow of the Tomb Raider - #46 - Schmiede des Schicksal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist nach einem Ort benannt den wir eigentlich schon in der Letzten betreten haben. Das spielt aber eigentlich auch keine großartige Rolle, viel wichtiger ist das der Platz einen unfassbar dramatischen Namen hat "Schmiede des Schicksal", tatsächlich passiert hier eine Menge nichts. Zumindest wäre mir nicht bekannt das es hier irgendetwas gibt das das Schicksal auch nur ein wenig tangiert. Stattdessen finden wir eine Menge Lava und unmögliche Konstruktionen. Ein geplündertes Grab rundet dann das gesamte Erlebnis ab. Allerdings gibt es hier ein paar Informationen für Abigail, das ist vielleicht interessant würde ich jetzt spontan aber nicht als "Schmiede des Schicksals" bezeichnen. Immerhin sind wir wieder etwas reicher geworden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #47
+
+* Titel: `Shadow of the Tomb Raider - #47 - die Säulen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal bereue ich es ja ein wenig das ich den Schwierigkeitsgrad gewählt habe in dem nicht sofort absolut offensichtlich ist wo der nächste Kletterpfad ist und wo Lara rangreifen kann und wo nicht. Heute haben wir zum Beispiel wieder einmal so ein Erlebnis wo ich einfach nicht weiter komme weil ich nicht so richtig weiß was ich eigentlich tun soll. Der Weg ist klar aber Fräulein Lara Croft tut in ihrer unmöglichen Form des Kletters einfach nicht was ich von ihr erwartet habe und dann bin ich verwirrt. Am Ende stellt sich heraus das ich von Anfang an die richtige Idee hatte, die Umsetzung war bloß ein wenig weniger erfolgreich als ursprünglich gedacht. Es mangelte an Präzision, das ist schon deswegen ein wenig verwirrend weil ich ansonsten ja mächtig dabei assistiert werde richtig zu klettern. Ich weiß übrigens nicht mehr warum ich diese Episode "Die Säulen" genannt habe, die Benennung erfolgt ja immer in meinem Notizbuch während ich spiele, und das kann ich hier einfach nicht benennen. Es tut mir fast ein wenig leid.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #48
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

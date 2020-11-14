@@ -379,7 +379,72 @@
   Alan Wake auf dem Dienstags Slot.
   ```
 
-##### #Nummer
+##### #30
+
+* Titel: `Alan Wake - #30 - das Umspannwerk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wer viel Licht braucht um vor der Dunkelheit sicher sein zu wollen der braucht eine Menge Energie, jede Menge Energie die zum Beispiel ein Hydrokraftwerk bieten könnte. Ein sogenannter Staudamm. Damit der Strom aber irgendwie nutzbar sein kann braucht es außerdem ein Umspannwerk. In der Regel baut man die Bude auch irgendwo in der Nähe der Stromerzeugung, andernfalls hat man viel zu viele Verluste. In dieser Einrichtung gedenken wir auch Cynthia Weaver zu finden, einen Ort an dem viel Licht ist damit sie vor der Dunkelheit sicher ist. Anscheinend auf Geheiß einer Person die ihr einst sehr nahe stand. Ein gewisser Thomas Zane, ein Mensch von dem noch nie irgendjemand etwas gehört hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #31
+
+* Titel: `Alan Wake - #31 - Nachtschwärmerei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hey, es ist Alan Wake und er rennt mal wieder durch die Nacht. Das ist nicht weiter besonders aber heute haben wir dabei eine Menge Spaß, unter Anderem weil wir es nicht alleine tun müssen sondern gute Freunde in Form von Barry und Sheriff Breaker mit uns rumschleppen. Beide haben Einiges an Licht dabei und sind außerdem bewaffnet. Ich finde es übrigens schön wie Sheriff Breaker von den Schußkünsten von Wake beeindruckt ist. Als externer Zuschauer fragt man sich aber schon wo diese Fähigkeit eigentlich her kommt. Ist es die viele Praxis die er bei seinen vorherigen Nachtwanderungen genossen hat oder ist es weil es sich selbst verändert hat als er Dinge geschrieben hat. Wir wissen es nicht, aber dennoch ist es ein bemerkenswerter Punkt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #32
+
+* Titel: `Alan Wake - #32 - der Klicker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere aktuelle Situation sah ja ziemlich verfahren aus und wir waren mehr in der Defensive als alles Anderes, bis wir den Andersons begegnet sind die uns gesagt haben das sie das Lied mit der Lösung für all unsere Probleme haben. Das wieder rum hat uns zu Cynthia Weaver geführt die die Erinnerung von Thomas Zane bewahrt hat der anscheinend dafür verantwortlich ist das das Dunkel überhaupt hier so weit manifestiert ist wie es es dann am Ende getan hat. Wie dem aber auch sei, jetzt haben wir die letzte Waffe von Thomas Zane. Einen kleinen Klicker, ein abgeschnittener Schalter einer Taschenlampe um die Finsternis zu vertreiben. Und eine Seite. Eine Seite eines Manuskripts die beschreibt wie vor vielen Jahren ein junger Alan Wake von seiner Mutter den Klicker erhalten hat. Dies wirft mehr Fragen auf. Wurde Alan Wake durch Thomas Zane in die Existenz geschrieben und alles bis hier her war quasi vorbestimmt?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #33
+
+* Titel: `Alan Wake - #33 - im Tageslicht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Context dieser Geschichte und der Dunkelheit ist der Klicker wohl das mächtigeste Artefakt das wir finden konnten. Der Klicker allein sorgt dafür das die Dunkelheit verschwindet. Und so nahe am Cauldron Lake ist diese Macht ziemlich gewaltig. Insbesondere wenn man bedenkt das die Sonne ein brennender Feuerball im All ist der ziemlich weit weg von der Erde schwebt, und doch, und doch beeinflusst der Klicker auch das. Oder erzeugt er nur die Illusion von Licht und in Wirklichkeit ist es weiterhin Nacht? Gibt es irgendwo eine Grenze wo das Tageslicht wieder verschwindet und es immer Nacht war. Hat irgendjemand bemerkt das sich die Tageszeit verändert hat. Der Verkehr auf der Straße lässt auf Nacht schließen, aber sicher wissen können wir es nicht. Man hinterlässt uns mit vielen Fragen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #34
+
+* Titel: `Alan Wake - #34 - Poltergeist [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Tageslicht konnte nicht lange halten, und so kam es das die Nacht wieder über uns hereinbrach. Und mit ihr die Dunkelheit. Oder die Dunkelheit ist die Nacht. Wir wissen es nicht genau, können es auch nicht genau sagen. Keiner der Protagonisten hat sich zwischenzeitlich die Zeit genommen solche Dinge zu erforschen. Niemand hat Messungen veranstaltet oder sonst irgendwelche Dinge niedergeschrieben. Aufgrund der Veränderlichkeit der Geschichte ist es aber wohl auch unwahrscheinlich das wir irgendetwas mit herkömmlichen Mitteln aufzeichnen könnten. Alleine die Idee irgendetwas persistent auf zu zeichnen scheint bereits schwierig genug zu sein. Mit etwas Hintergrundwissen über das Remedy-Universum würde ich behaupten das intelligente Bewusstseine der beste Ort für Wissen sein könnten, die sind natürlich nicht besonders zugänglich aber Papier oder digitales wird wahrscheinlich noch weniger passieren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #35
 
 * Titel: ``
 

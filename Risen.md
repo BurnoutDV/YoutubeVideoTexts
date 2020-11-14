@@ -1033,12 +1033,67 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #80
 
-* Titel: ``
+* Titel: `Risen - #80 - der Gyrger [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Legendär soll er sein. Eine Plage die das Land bereits seit vielen Jahr überzieht. Manche flüstern das er die Horden der gemeinen Gnomen anführt die die Insel Faranga schon seit einiger Zeit überfallen. Es stellt sich heraus, das tief in die Tiefen einer uralten Burg, heimgesucht von Zombies und Skeletten, bewacht von Horden und Armeen von Gnomen, da wartet auf uns, eine Enttäuschung. Es stellt sich heraus das der Gyrger scheinbar so eine Art besserer Oger ist und der kann einfach gar nichts. An sich ist er schon stark aber auch nicht stärker als jeder andere Oger den wir bisher gefunden haben. Und das ist dann doch ein wenig schwach. Ich hätte mit einer Art Riesengnommutter oder so gerechnet. Oder irgendetwas mit vielen Tentakeln. Die letztendliche Ausführung erscheint mir ein wenig trivial.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #81
+
+* Titel: `Risen - #81 - das Schwert Sturmwind [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir finden schon wieder Waffenteile, das ist keine Absicht, wirklich nicht, es ergibt sich einfach so. Und eventuell passiert es einfach auch weil ich ein wenig neugierig die Welt erkunde und jeden Stein umdrehe. Wenn man etwas blinder durchrennen würde, seine Augen vielleicht nur am Horizont und dem großen Bösen hätte, dann, vielleicht würde man all die kleinen wertvollen Dinge übersehen. Aus Erfahrung weiß ich aber das alle Piranha Byte Spiele einen Umschwungpunkt haben ab dem das Spiel wesentlich einfacher wird. Und je früher das passiert umso besser wäre das für mich. In der Regel wird dieser Punkt aber nicht durch die Hauptgeschichte ausgelöst sondern dadurch das man einen bestimmten Punkt im Skilltree erreicht. Und das ist bisher noch nicht geschehen. Daher müssen wir weitersuchen und Ausrüstung und Fähigkeit auftürmen bis die Welt unsere Auster wird. Oder so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #82
+
+* Titel: `Risen - #82 -  Zurück an die Ostküste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein Einziges hin und her, es scheint fast so das ich gar nicht weiß wo ich überhaupt hin will. Eben waren wir noch an der Ostküste, jetzt laufen wir wieder zurück an die Ostküste. Das ist auch deswegen ein wenig ärgerlich weil wir uns zwar in das Banditenlager oder die Vulkanfeste teleportieren können aber nicht in der Lage sind wieder zurück an die Ostküste mit magischen Wegen zu kommen. Wir müssen also wenn wir irgendwo Bericht erstatten wollen immer sofort und gleich die ganze Strecke ablaufen. Eventuell wird sich das noch ändern, aber bis es soweit ist liegt noch Einiges vor uns. Es gibt da übrigens noch so einen Druiden den wir finden müssen. Der wurde ja entführt und unsere bisherigen Spurensucherfahrungen waren jetzt eher nicht so gewaltig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #83
+
+* Titel: `Risen - #83 - Echsengefängnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf einmal gab es Echsenmenschen! Bis eben haben wir noch nie irgendetwas von ihnen gehört und plötzlich sind sie da. Ich finde sowas immer ziemlich ärgerlich muss ich sagen, wenn komplett ohne Vorwarnung oder irgendwelche Andeutungen Dinge passieren. Klar, im echten Leben kommt sowas auch vor, eine dritte Macht die einfach aus dem Nichts kommt, aber selbst dann erkennt man im Nachhinein meistens Zeichen das jemand im Hintergrund agiert hat und man das einfach nur als Rauschen abgetan hat. Selten hat man einen versteckten Gegenspieler der komplett und sicher im Dunkeln bleibt bis er zuschlägt (und es dann auch zu spät ist noch irgendetwas zu tun). Die Echsenmenschen haben aber sowieso nicht gegen uns geschlagen sondern Eldric den Druiden. Den haben sie, im Gegensatz zu allen anderen Leuten, aber nicht umgebracht sondern nur entführt. Dafür stand ihnen anscheinend bereits eine Gefängnisanlage zur Verfügung. Diese ist zwar nicht unbedingt im besten Zustand aber dafür reicht es noch. Außerdem finden wir einen freundlichen Oger.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #84
+
+* Titel: `Risen - #84 - Eldric der Druide [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Magier, es gibt die Weißen die scheinbar sowas wie der bewaffnete Arm der Kirche sind und auch die Inquisition stellen aber nicht exakt personalgleich sind. Weiter gibt es noch die Stadtwache und natürlich die Banditen die sich wiederum in mehre Unterklassen teilen, für Außenstehende ist da aber auch nur der bewaffnete Arm in Form der Krieger wirklich relevant. Als Letztes wissen wir dann noch von den Piraten bzw. Seefahrer von denen es mindestens zwei Fraktionen gibt. Die Crew von Kapitän Schwarzbart und die von Romanov. Beides keine wirklich netten Zeitgenossen. Heute treffen wir eine weitere, menschliche Fraktion: Die Druiden. Sie hat zwar nur ein Mitglied aber wenn es einen gibt dann gibt es da bestimmt auch noch mehr. Die Druiden können ebenfalls Magie wirken aber wohl anders als es die Magier der Vulkanfeste tun. Nachhaltiger so scheint mir. Der gute Eldric wurde von einer nicht-menschlichen Partei gefangenengenommen. Ist es aber nicht eigentlich erstaunlich wie Menschen in tausend verschiedene Gruppen unterteilt sind die Echsen aber eine vereinigte Front darstellen. Erstaunlich oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

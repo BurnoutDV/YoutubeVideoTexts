@@ -446,10 +446,26 @@
 
 ##### #35
 
-* Titel: ``
+* Titel: `Alan Wake - #35 - der dunkelste Wald [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  So schön auch der Tag war den wir vor noch wenigen Minuten verursacht haben, jetzt ist es wieder dunkel. Dunkler als es jemals zuvor war. Es scheint auch fast so zu sein als das das Dunkel auch nur über eine begrenzte Menge an Macht verfügt. Und diese Macht wir jetzt mit allem was geht nach Außen getragen. Und deswegen fliegen jetzt hier Gegenstände durch die Gegend. Und Schiffe. Und Flugzeuge. Wenn man sich den Cauldron Lake anschaut dann sieht man auch das der nicht wirklich so gewaltig ist und das man da auch nicht anders hin kommt. Warum also liegen am Grund des Cauldron Lake soviele Schiffe und andere Gegenstände. Wir reden hier nicht grade über kleine Schiffe. Auch keine gewaltigen Tanker, aber dennoch, wir können wirklich von Glück reden das das Dunkel anscheinend genauso wenig sieht wie wir. Immerhin ein kleiner Trost.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #36
+
+* Titel: `Risen - #85 - das magische Ritual [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute reparieren wir ein magisches Artefakt. Das ist hervorhebenswert weil, wenn ich mich recht erinnere. Niemand so richtig darüber Bescheid weiß wie eigentlich die Magie funktioniert. Die Leute in der Vulkanfeste wissen das übrigens auch nicht. Die Magie ist etwas uraltes, etwas das von den Göttern stammte. Man zaubert mit irgendwelchen Kristallen oder Spruchrollen die mit Runen hergestellt werden. Runen die nicht besonders verfügbar sind und soweit ich das verstanden habe auch endlich. Die Magiekristalle können auch nicht hergestellt werden, die Macht in ihnen scheint aber erst einmal konstant zu sein. Und einen solchen Kristall brauchen wir heute auch um die Scheibe zu reparieren. Was wohl die Magier aus der Festung dazu sagen würden das wir ein unbezahlbares Artefakt einfach so zerstört haben. Dem Inquisitor interessiert es wahrscheinlich nicht, für ihn zählt nur das Ergebnis.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

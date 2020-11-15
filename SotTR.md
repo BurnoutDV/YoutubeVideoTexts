@@ -622,12 +622,15 @@
 
 ##### #48
 
-* Titel: ``
+* Titel: `Shadow of the Tomb Raider - #48 - tausend Winde [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Damals als wir in Yamatai waren hatten wir zwischendurch immer wieder das Problem das es sehr windig war. Das kam irgendwie durch die Stürme die verhindert haben das irgendjemand die Insel verlässt oder betritt. Seit dem ist die Windgeschichte nicht wieder aufgetaucht und wir hatten eigentlich immer einen guten Stand auf dem Boden. Jetzt hat sich das auf einmal wieder geändert. Plötzlich gibt es sowas wie Wind und das Wetter ist spontan umgeschlagen. Das verwirrt mich übrigens auch ein wenig. Ich hätte eigentlich erwartet das es im Jungle irgendwann und gelegentlich auch mal regnen würde. Bisher ist das noch nicht passiert, zum Glück möchte man auch sagen, andernfalls wäre das Klettern auch enorm schwieriger. Nasser Fels ist nicht unbedingt für seinen gewaltigen Grip bekannt. Oder nasses Kletterwerkzeuge.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
 ##### #Nummer

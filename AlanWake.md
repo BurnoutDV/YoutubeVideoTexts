@@ -459,13 +459,23 @@
 
 ##### #36
 
-* Titel: `Risen - #85 - das magische Ritual [Let's Play; ger; Blind]`
+* Titel: `Alan Wake - #36 - das Herz der Finsternis [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Heute reparieren wir ein magisches Artefakt. Das ist hervorhebenswert weil, wenn ich mich recht erinnere. Niemand so richtig darüber Bescheid weiß wie eigentlich die Magie funktioniert. Die Leute in der Vulkanfeste wissen das übrigens auch nicht. Die Magie ist etwas uraltes, etwas das von den Göttern stammte. Man zaubert mit irgendwelchen Kristallen oder Spruchrollen die mit Runen hergestellt werden. Runen die nicht besonders verfügbar sind und soweit ich das verstanden habe auch endlich. Die Magiekristalle können auch nicht hergestellt werden, die Macht in ihnen scheint aber erst einmal konstant zu sein. Und einen solchen Kristall brauchen wir heute auch um die Scheibe zu reparieren. Was wohl die Magier aus der Festung dazu sagen würden das wir ein unbezahlbares Artefakt einfach so zerstört haben. Dem Inquisitor interessiert es wahrscheinlich nicht, für ihn zählt nur das Ergebnis.
+  Heute beenden wir das Hauptspiel von Alan Wake. Ich werde dann irgendwelche Dinge vom nächsten Spiel im Remedy Universum sagen, aber so wie die Dinge stehen gibt es anscheinend noch zwei DLC Kapitel die ich irgendwie übersehen habe. Die spielen wir selbstverständlich dann auch noch alle. Das würde dann vielleicht auch erklären wo meine fehlenden Thermoskannen sind, ich war mir doch eigentlich sicher das ich jeden Meter der Map erkundet habe. Unabhängig davon versuchen wir heute Licht in die Finsternis zu bringen. Licht ins Dunkel der Welt. Den Cauldron Lake zu erleuchten. Das ist aber leider nicht ganz so einfach. Ich bin mir eigentlich ziemlich sicher das Barabara Jagger nur ein Avatar des Dunklen ist. Die Macht ist zwar für den Moment auf einen Ort fokussiert aber nicht wirklich dort platziert. Wenn wir den Avatar zerstören wird die Macht nur unkonzentriert wird aber nicht vergehen.
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
-  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```

@@ -1097,3 +1097,39 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #85
+
+* Titel: `Risen - #85 - das magische Ritual [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute reparieren wir ein magisches Artefakt. Das ist hervorhebenswert weil, wenn ich mich recht erinnere. Niemand so richtig darüber Bescheid weiß wie eigentlich die Magie funktioniert. Die Leute in der Vulkanfeste wissen das übrigens auch nicht. Die Magie ist etwas uraltes, etwas das von den Göttern stammte. Man zaubert mit irgendwelchen Kristallen oder Spruchrollen die mit Runen hergestellt werden. Runen die nicht besonders verfügbar sind und soweit ich das verstanden habe auch endlich. Die Magiekristalle können auch nicht hergestellt werden, die Macht in ihnen scheint aber erst einmal konstant zu sein. Und einen solchen Kristall brauchen wir heute auch um die Scheibe zu reparieren. Was wohl die Magier aus der Festung dazu sagen würden das wir ein unbezahlbares Artefakt einfach so zerstört haben. Dem Inquisitor interessiert es wahrscheinlich nicht, für ihn zählt nur das Ergebnis.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #86
+
+* Titel: `Risen - #86 - magische Barrieren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das die magischen Barrieren die die "Alten" oder wie auch immer die Vorgänger Zivilisation die die Ruinen erschaffen hat doch nicht ganz so unüberwindbar ist wie man ursprünglich annahm. Wahrscheinlich war es mein Fehler das ich vorher nicht gefragt habe ob es dafür keinen Zauber gibt. Auf jeden Fall nutze ich jetzt die Mittel die man mir gegeben hat um einige offene Rechnungen zu begleichen. Oder anders gesagt, ich öffne heute eine von den zwei magischen Barrieren von denen ich weiß. Ich vermute übrigens mal hier eben in den Raum das die Ruinen bzw. Tempeleinrichtungen von den Echsenmenschen stammen. Fragt sich bloß was die die ganze Zeit über getan haben? Das Fortgehen der Götter abzuwarten? Waren die Götter überhaupt Götter. Oder waren sie Invasoren von einer anderen Welt und die Echsen, die rechtmäßigen Herrscher über die Welt haben sich nur versteckt. Wie dem aber auch sei, zu erst gilt es die leichteren Orte zu erkunden. Eine Bibliothek, dort kann nicht all zu viel Schlechtes auf uns Warten oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

@@ -551,3 +551,27 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
   ```
+
+##### #33
+
+* Titel: `Frostpunk - #53 [OTE#2] - Lieferstopp [Let's Play; blind; de]`
+
+* Beschreibung:
+
+  ```markdown
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [2/11]
+  
+  Ich erwähnte ja schon im Vorfeld das wir irgendwie von London abhängig sind. Übrigens ist Nahrungskontrolle ein sehr effizientes Mittel Menschen zu kontrollieren. Wenn die Welt dann letztendlich untergeht ist der Schlüssel zur Speisekammer das mächtigste Mittel die Söldner zu kontrollieren mit denen man den Pöbel unterdrückt. Dann muss man natürlich sicher gehen das die unterdrückten Menschen nicht anfangen sich andere Quellen für das Essen zu suchen und am Ende dabei sogar noch Erfolg zu haben. New London ist sich aber ziemlich sicher das wir nichts tun können weil das Frostland einfach nur eine leere Wüste ist und wir keine andere Chance haben. Also setzt man uns unter Druck um noch mehr zu liefern obwohl wir eigentlich Zeit für den Aufbau zu benötigen. Die moralischen Entscheidungen wären schwieriger wenn London weniger Druck machen würde.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

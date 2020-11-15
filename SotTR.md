@@ -633,6 +633,19 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
+##### #49
+
+* Titel: `Shadow of the Tomb Raider - #49 - der Schild des Ärenschöpfers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Symbole sind wichtig für Menschen. Nur ein Symbol kann wirklich zeigen das etwas recht ist, das etwas wirklich ist. Wenn man Dinge einfach nur behauptet werden die meisten Menschen anfangen zu Zweifeln. Die die es nicht tun haben meistens ein anderes Zeichen gesehen das ihnen sagt das es diesmal auch ohne geht. Das vorherige Zeichen dient also quasi als Ersatzstoff für das echte Zeichen bzw. den Beweis. So kann eine Krone und das rechtmäßige Halten eben dieser die Königswürde festlegen, Kleidung zeigt Stellung in einen sozialen Gefüge auf. Ein Amtsstab als Szepter der Macht. Das Szepter der Macht als Symbol der tatsächlichen Macht die eigentlich darin besteht das genügend starke Männer bereit sind Dinge zu tun und die Gegenseite weniger viele starke Männer hat (oder auch Frauen, Kinder und Haustiere, aber das ist nicht der Punkt). Das Schild des Ärenschöpfers ist scheinbar ein Zeichen der korrekten Erbfolge in Paititi. Für Lara Croft ist es nur ein weiteres Artefakt das sie zerstören können. Praktischerweise ist das gute Stück aus Holz, das macht es für uns leichter.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

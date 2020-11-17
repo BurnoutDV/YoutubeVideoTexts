@@ -646,6 +646,19 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
+##### #50
+
+* Titel: `Shadow of the Tomb Raider - #50 - die Gefangenen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einem kurzem Moment der Unaufmerksamkeit hat es sich ergeben das ich plötzlich eine Rüstung der Schlangewache erhalten habe. Ich werde jetzt ungefähr 10 Episoden damit verbringen mich zu wundern um was es sich bei der Schlangenwache eigentlich handelt und warum die eigentlich Frauen aufnehmen wo es sonst anscheinend nur Männer mit Waffen gibt und man von Frauen eine eher zurückgezogene Haltung erwartet. Wie dem aber auch sei, mit dieser Rüstung die uns scheinbar als eine Art Priesterin ausweist können wir wohl Dinge tun die wir ansonsten nicht tun könnten. Wie zum Beispiel Gefangene befreien. Ich bin mir ziemlich sicher das unsere Tarnung damit nicht auffliegen wird. Weil das wäre ja lächerlich wenn wir für Priester total unübliche Dinge tun würden. Immerhin redet man uns jetzt mit mehr Respekt an, dennoch mache ich mir ernsthaft Sorgen um die Qualität der Augen der Bürger Paititis.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

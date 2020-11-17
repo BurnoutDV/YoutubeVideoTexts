@@ -538,7 +538,7 @@
   > Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   > Frostpunk auf dem Dienstags Slot.
 
-##### #32
+##### #52
 
 * Titel: `Frostpunk - #52 - Auf Messers Schneide [Let's Play; blind; de]`
 
@@ -552,7 +552,7 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
   ```
 
-##### #33
+##### #53
 
 * Titel: `Frostpunk - #53 [OTE#2] - Lieferstopp [Let's Play; blind; de]`
 
@@ -566,7 +566,35 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
   ```
 
-##### #Nummer
+##### #54
+
+* Titel: `Frostpunk - #54 [OTE#3] - Expeditionsrückstand [Let's Play; blind; de]`
+
+* Beschreibung:
+
+  ```markdown
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [3/11]
+  
+  Zwischen dieser Sitzung mit dem DLC und meinen Hauptdurchlauf von Frostpunk ist Einiges an Zeit vergangen. Das sieht man leider auch an meiner Erfahrung die ich mit Expeditionen habe. In der Vergangenheit wusste ich wann es richtig ist Expeditionen los zu schicken und wie wertvoll externe Ressourcen in solchen Situationen sind. Heute merken wir das ich quasi schon weit hinten liege wenn es um Expeditionen geht. Viel früher hätte ich handeln müssen. Viel früher hätte ich Männer und Frauen in die Frostlande schicken müssen um Ressourcen abzubauen, neue Freundschaften zu knüpfen und vergessene Vorratslager zu finden. Nun hat sich ein Rückstand im Expeditionswesen angehäuft den ich nur mit viel Mühe umspielen kann, richtig loswerden werde ich ihn wohl nie, es sei den das Wetter wird besser. Davon gehe ich allerdings nicht aus.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
+  ```
+
+##### #55
+
+* Titel: `Frostpunk - #55 [OTE#4] - Zentralregierung [Let's Play; blind; de]`
+
+* Beschreibung:
+
+  ```markdown
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [4/11]
+  
+  Wir sind nur ein Außenposten. Das hat man uns oft genug zu verstehen gegeben. Das schmeckt mir persönlich übrigens gar nicht, insbesondere wenn die Beziehung zu Neu London doch eher so wirkt als sei sie sehr einseitig. Neu London nimmt größtenteils während man uns ein paar Brocken hinwirft. Auch scheint der allgemeine Umgang mit unserer Kolonie eher stiefmütterlich zu sein. Über wichtige Entscheidungen in der Heimat lässt man uns im Unklaren. Ungefragt tut man Dinge und generell und überhaupt erscheint mir die Zentralregierung doch eher volksfern. ob das Überbleibsel der guten alten englischen Art ist. Übrigens auch so ein Ding, je mehr ich über englische Geschichte lese desto mehr wundere ich mich wie Sprichwörter "die feine englische Art" überhaupt entstehen konnten. Neben einen warzenartigen Geschwür das aus der Oberschicht besteht scheint die Gesellschaft so aus der moralischen Hochgrund-Perspektive ziemlich verdorben zu sein. Das fängt in alten Zeite an in denen einfach Leute von der Straße entführt wurden um sie in der Navy einzusetzen, es geht über die Boulevardzeitungen der heutigen Zeit und der Konstanten des ständigen Machtgeklüngels über. Wenn man nicht auf einer Privatschule früh Kontakte geknüpft hat passiert anscheinend nicht sehr viel. Das alles erscheint mir doch sehr suspekt. Aber vielleicht muss man erst in England gelebt haben um wirklich den englischen Volksgeist zu begreifen. Anderseits scheinen auch andere Subfraktionen den "englischen Way of Life" eher als abstoßend zu empfinden. Frag doch einer mal die Schotten zu dem Thema...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
+  ```
+
+##### #56
 
 * Titel: ``
 

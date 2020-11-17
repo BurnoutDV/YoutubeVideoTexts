@@ -1124,6 +1124,19 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #87
+
+* Titel: `Risen - #87 - Ogerhöhlen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir werden immer stärker, bezogen auf unseren Schaden pro Sekunde. Größtenteils kam das dadurch zustande das ich in der Welt da draußen Waffen gefunden haben und genügend Erfahrungspunkte gesammelt haben um uns von fähigen Lehrer die hohe Kunst des Schwertkampfes erklären zu lassen. Unsere Fähigkeit schwere Schläger auszuhalten ist dem leider nicht nachgezogen und so sind wir jetzt eine wahre Glaskanonne. Das ist enorm ärgerlich, aber es ermöglicht uns Oger ohne größere Probleme zu erschlagen, die dürfen bloß nicht ihrerseits zum Zug kommen, andernfalls ist es sehr bitter für uns. Parrieren können wir die ja leider eher nicht, einfach zu viel Kraft hinter den Schlägen. Ärgerlich. Das sorgt dafür das ich einmal öfter laden muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1131,5 +1144,5 @@
 * Beschreibung:
 
   ```markdown
-  Hier
+  Hie
   ```

@@ -1137,12 +1137,64 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #88
+
+* Titel: `Risen - #88 - der letzte Verräter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist witzigerweise ein Verräter-Tag bei mir. Nicht das ich verraten wurde, aber meinen Spielcharakteren ist es in drei Spielen passiert. Kapitän Schwarzbart hat seine Verräter bzw. Meuterer vergraben und wir buddeln deren Gräber aus. Agent Bell wurde durch einen Überläufer verraten und in Tomb Raider gab es ebenfalls einen Verrat. Alles in den Episoden die am heutigen Tag heraus kamen. Erstaunlich. Wie dem aber auch sei, mit der letzten Truhe haben wir dann auch den letzten Namen mit denen wir das Rätsel für den großen Schatz des Kapitäns knacken können. Ich hoffe hier kommen noch einige Stufen mehr. Bisher war die Reise ja doch  erstaunlich unkompliziert möchte ich sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #89
+
+* Titel: `Risen - #89 - der Entführer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das man einen Piraten wie Kapitän Romanov nicht trauen kann. Ich kann nicht sagen das ich auch nur einen Moment überrascht war. Um genau zu sein habe ich diesen Moment tatsächlich antizipiert. Vorkehrungen habe ich ja auch schon getroffen. Romanov ist ein Idiot wenn er glaubt das ich zu lasse das seine Piratencrew frei herumlaufen kann. Selbstverständlich habe ich sie schon lange alle ermordet. Ihre Nützlichkeit haben sie mir ja bewiesen und für mehr brauche ich sie nicht. Ein kalter Gedanke aber durchaus logisch in einer kalten Welt auf einer warmen Insel. Warum einen Piraten verschonen der mich ziemlich sicher verraten will. Warum seine Männer die mir höchstwahrscheinlich in den Rücken fallen werden verschonen? Besser lose Enden durchschneiden bevor es so weit ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #90
+
+* Titel: `Risen - #90 - Stahlbarts Schatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute heben wir einen Piratenschatz. Ich will hier noch einmal feststellen das es für Piraten wie Testpiloten sehr unlogisch wäre irgendwelche Schätze zu verstecken. Ich meine, warum? Welcher Pirat hat irgendwelche realistischen Chancen zu einem Ort wieder zu kehren? Welcher Pirat kann garantieren das er noch am Leben ist wenn er nächstes Mal in die Gegend kommt in der sein Schatz liegt. Wer kann garantieren das er zu dem Zeitpunkt nicht schon überfallen wird? Besser wäre es ja wohl alles sofort zu versaufen und mit den Rest nützliche Dinge zu erwerben. Dinge die die nächste Überfahrt irgendwie leichter machen, wenn so eine logische Überlegung überhaupt von Piraten getätigt wird. Wie dem auch sei, das Leben ist kurz, insbesondere auf hoher See. Schätze verstecken klingt doch ein wenig unwahrscheinlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #91
+
+* Titel: `Risen - #91 - die große Sümpfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mich verlaufen. Nicht mit Absicht, auch wenn das Wort Anderes impliziert passiert mir das ziemlich oft. Ich biege falsch ab und schon bin ich irgendwo wo ich gar nicht hinwollte aber das ist dann eigentlich gar nicht so schlecht und ich bin eigentlich ganz glücklich darüber wie die Dinge gelaufen sind. Nicht so heute, ich suche wirklich den Osttempel und die Tatsache das ich jetzt irgendwie Sümpfe gefunden habe erfüllt mich nicht unbedingt mit Freude. Aber manchmal kann man nicht alles haben, also hauen wir trotzdem alles um was darin rum läuft, schließlich sind das alle Erfahrungspunkte die wir nicht so einfach stehen lassen können. Man ist ja kein Kostverächter. Leider behindert das ein wenig unseren Fortschritt, ich fürchte außer Sümpfe gibt es heute nicht viel zu sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #92
 
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
-  Hie
+  Hier
   ```

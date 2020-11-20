@@ -596,6 +596,48 @@
 
 ##### #56
 
+* Titel: `Frostpunk - #56 [OTE#5] - Handelsbeziehungen [Let's Play; blind; de]`
+
+* Beschreibung:
+
+  ```markdown
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [5/11]
+  
+  Ich habe ja bereits festgestellt das wir tödlich abhängig von New London sind. Ohne Nahrung ist im übertragenen Sinne ganz schnell der Ofen aus. Ironischerweise steht uns Kohle sogar in ausreichenden Mengen zur Verfügung. Die können wir aber leider nicht essen noch sind wir in der Lage die Dampfkerne die wir aus dem Armeelager bergen für Farmoperationen zu nutzen. Seltsam eigentlich das New London nicht mit unseren Lieferungen in der Lage ist dieses Problem zu lösen. Aber Neu London möchte ja nicht mehr wirklich Hilfe schicken. Stattdessen müssen wir andere Quelle öffnen. Anderer Parteien finden die willens sind mit uns zu handeln.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
+  ```
+
+##### #57
+
+* Titel: `Frostpunk - #57 [OTE#6] - eises Kälte [Let's Play; blind; de]`
+
+* Beschreibung:
+
+  ```markdown
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [6/11]
+  
+  Ich erwähnte ja das wir zwar kein Essen haben dafür eine Menge Kohle. Das wird noch nützlich. Wenn wir mehr frieren verbrauchen wir auch mehr Nahrung weil die Leute von sich aus mehr Hitze geben müssen. Da wäre es doch viel praktischer wenn wir mit technischen Fortschritt dafür sorgen können das die Leute eben nicht frieren müssen. Ärgerlichweise haben wir keine Möglichkeiten Automatone zu bauen oder richtige Wärmequellen wie sie Neu-London hat. Immerhin haben wir Feuerkessel aber diese sind ein schwacher Ersatz für eine wahre Wärmequelle die ein Generator darstellt. Eigentlich auch witzig, all diese Szenarien die ich spiele haben irgendwie nicht eine gute Wärmequelle, immer nur Ersatzstoffe. Da fragt man sich wie die Leute in anderen Ecken der Welt überlebt haben. Oder ob überhaupt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
+  ```
+
+##### #58
+
+* Titel: `Frostpunk - #58 [OTE#7] - Keine Könige, nur Menschen [Let's Play; blind; de]`
+
+* Beschreibung:
+
+  ```markdown
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [7/11]
+  
+  Wir streben nach Freiheit. Irgendwie. Um Freiheit zu haben muss man unabhängig von Ketten sein wie sie die Abhängigkeit von den Nahrungslieferungen aus London darstellen. Aber wenn unsere Kette sowie nicht ziehen kann weil wir wissen das London nicht einmal willens ist uns zu beliefern. Fraglich ist natürlich warum? Ist man selbstherrlich geworden? Hat man beschlossen sich wie die Lord aus alter Zeit zu benehmen. Uns am langen Arm verhungern zu lassen? Dabei sollte das Leben in den Frostlanden ein neuer Anfang sein. Eine neue Möglichkeit von den Wegen von einst abzulassen. Und doch brachten uns die Mitarbeiter von Neu-London in der Telegrafenstationen vor allen Dingen Feindseligkeit entgegen. Taten so als wären sie etwas Besseres. Seltsam oder nicht?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

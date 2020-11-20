@@ -659,7 +659,59 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
-##### #Nummer
+##### #51
+
+* Titel: `Shadow of the Tomb Raider - #51 - Colquis Rettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint mir das die Verkleidung als Priesterin das Mächtigste Werkzeug ist das man sich vorstellen kann. Zumindest sieht es so aus als wir heute ohne größere Probleme eigentlich durch so ziemlich jede Wache kommen die sich uns bietet. Generell und überhaupt können wir den Rest der Schwierigkeit dann mit ein wenig Waffengewalt lösen. Generell und überhaupt bin ich übrigens überrascht das der Verräter den wir heute enttarnen der Einzige ist der sich hat finden lassen. Es kann natürlich auch sein das es noch eine Menge mehr Verräter gibt die aber alle beim Sturm auf die Oberstadt neulich zu Tode gekommen sind. Wie dem aber auch sei, wir retten heute einen Typen namens Colqui, oder versuchen es zumindest. Stellt sich doch glatt heraus das die Tempelwache es nicht leiden kann wenn man Leute rettet. Überraschend.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #52
+
+* Titel: `Shadow of the Tomb Raider - #52 - Sayris Grabs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt vor, das selbst in Zeiten von Krieg, Konflikt und allgemeiner Verunsicherung Momente geschehen die nichts mit den eigentlichen Abgründen zu tun haben und über die sich alle Fraktionen einig sind. Hier kommt es natürlich ein wenig auf die Persönlichkeit an. Wir wissen das unser direkter Antagonist in Form von Amaru durch den Tod seines Bruders zu dem getrieben wurde was er tut. Er selbst wiederum handelt dabei auch nur als verlängerter Arm von Trinity und doch auch für sich selbst. Die genaue Beziehung ist mir nicht bekannt. Was mir allerdings Sorgen macht ist das die Gegenseite bereit ist alles zu nutzen um Lara zu vernichten während Lara Emotionen zeigt. Ein großes Problem mit Moral, zumindest wenn man die ganze Ludonarrative Dissonanz weglässt. Um als "die Guten" zu gewinnen muss man eigentlich zu jedem Zeitpunkt die absolute Übermacht haben und dennoch gewinnen. Andernfalls verschwendet man zuviele Ressourcen darauf die eigenen Werte zu bewahren. Andererseits, wenn man seine  Werte und Moral nicht bewahrt, kann man überhaupt gewinnen, als "Kraft des Guten"? Und wenn nicht, gibt es etwas das man wahrlich als Gut und Gerecht bezeichnen kann auf der Welt weil es logischerweise keine Chance hatte? Moral. Schwierig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #53
+
+* Titel: `Shadow of the Tomb Raider - #53 - Nahrungslieferung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich darüber gesprochen das es schwierig ist gleichzeitig die moralische Überlegenheit zu bewahren und einen Konflikt zu gewinnen bei denen beide Seiten gleichstark sind. Imperativ ist es eigentlich jeden Trick, jeden Hebel zu benutzen den man haben kann um einen übermächtigen Gegner zu überkommen. Wie dem aber auch sei, nachdem wir das Grab von Amarus Bruder gefunden haben finden wir jetzt weitere Hinweise darauf was genau geschehen ist das ein einfacher Paititianer zu dem Monster geworden ist was er heutzutage ist. Eigentlich ist er gar kein Monster in dem Sinne, aus seiner Sicht tut er bestimmt das Richtige für sein Erfolg und hat irgendwie auch eine Hungersnot vermeiden können. Aus Laras Sicht ist der Mann offensichtlich böse, und auch die Methoden machen das Handeln von Trinity nur unter großen Schwierigkeiten irgendwie moralisch oder gerecht. An der Stelle können wir wohl einen Fehler im narrativ angeben, die meisten Menschen versuchen eigentlich nicht übertrieben böse zu sein. Andererseits kann man auch einfach böses tun ohne nachzudenken weil man einen ganz anderen Fokus hat. Neben den tausendfachen Mord versucht Lara Croft übrigens immer sehr moralisch und gerecht zu handeln.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #54
+
+* Titel: `Shadow of the Tomb Raider - #54 - Verlassenes Dorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere Reise auf den Spuren von Amaru bevor er die rechte Hand von Trinity wurde ist noch nicht vorbei. Aber bald, unsere letzte Etappe führt uns in das verlassene Dorf. Einen eigentlich ziemlich abgeschiedenen Ort. Ich weiß ehrlich gesagt nicht besonders viel über den tieferen Dschungel von Südamerika, soweit im Süden und an der Küste war ich nicht. Aber soweit ich es verstanden habe gibt es da eine Menge Insekten. Ich bin mir also nicht sicher wie gut eine Siedlung mitten im Dschungel wirklich ist. Neben den Mangel an Boden der für sich für klassischen Ackerbau eignet habe ich auch die Befürchtung das dort Einiges an Insekten rumläuft die nicht nur nervig sondern auch  gefährlich sind. Unter solchen Umständen erscheint mir ein längeres Leben eher unwahrscheinlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #54
 
 * Titel: ``
 

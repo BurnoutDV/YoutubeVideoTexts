@@ -56,7 +56,45 @@ Wir sind in der Vergangenheit. Nicht besonders weit in der Vergangenheit aber do
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
-##### #Nummer
+##### #5
+
+* Titel: `CoD Black Ops Cold War - #5 - Riss in der Mauer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für die Bürger der DDR war es teilweise Volkssport die DDR zu verlassen. Kein einfacher Sport. Nicht nur das man quasi nur alleine gehen konnte und jeder Ausreiseantrag eigentlich sofort einen längeren Aufenthalt in Bautzen nach sich zog (oder woanders, aber auf jeden Fall im Knast), auch war der illegale Grenzübertritt ziemlich gefährlich. Die Bürger der DDR waren außerordentlich kreativ was das erfinden von verschiedenen Fluchtmethoden anging. Vom selbstgebauten Heißluftballon, kleinen U-Booten oder direkten Schwimmen in der Berlinergrenze. Der Todesstreifen in Berlin stellte dabei quasi einen sichtbaren Übergang da. Übrigens hat die Stasi gerne alles getan um eventuellen Flüchtlingen das Leben im Nachhinein schwer zu machen. Mir ist nicht ganz klar was das bringen soll da ich mir irgendwie nicht vorstellen kann das besonders viele Nachrichten aus dem Westen die Leute aus dem Osten erreicht haben, insbesondere nicht über solche Details. Wieder eine der Dinge bei denen Menschen für mich keinen Sinn ergeben. Ich bin mir übrigens ziemlich sicher das die U-Bahn Tunnel in Berlin zugemauert waren. Aber ich könnte mich täuschen und möchte es jetzt auch nicht spontan nachschlagen. Ich freue mich über Kommentare die mich erleuchten.
+  
+  --- 
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #6
+
+* Titel: `CoD Black Ops Cold War - #6 - Volkspolizei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch in Ostberlin und dürfen jetzt das Regime ein wenig näher kennen lernen. Ich bin mir übrigens nicht so ganz sicher wo eigentlich der Übergang zwischen Staatspolizei, Volkspolizei und allgemeine Geheimdienste ist. Klar, man hört immer viel von der Staatssicherheit und ihre inoffiziellen Mitarbeiter. Aber wie viele offizielle Mitarbeiter hat der Verein am Ende? Ich meine alles was irgendwo draußen und sichtbar umgesetzt wird passiert durch die Volkspolizei. Übrigens ein toller Name um genau das Gegenteil von dem zu beschreiben was ist. Generell tue ich mich schwer mit Gewaltenteilung und ihre korrekte Einhaltung. Es scheint doch ziemlich viel Raum für Machtmissbrauch zu geben. Wo ist die vierte bzw. zweite Gewalt die der eigentlichen Gewalt ordentlich auf die Finger haut. Quasi eine Polizei für die Polizei? In diesem Fall aber wohl egal, wir können davon ausgehen das jeder Machtmissbruch seitens der Volkspolizei geplant ist.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #7
+
+* Titel: `CoD Black Ops Cold War - #7 - Oblast [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ja gedacht das ich irgendwann in nächster Zeit mit den Informationen die ich in Berlin gefunden habe irgendetwas anfangen kann, aber so wie es aussieht muss ich noch eine Weile warten. Heute begeben wir uns auf jeden Fall erst einmal nach Oblast, richtig dolle weit draußen, weit außerhalb des Einflusses von amerikanischen Militärs. Für den Geheimdienst scheint es keine solche Grenzen zu geben und unsere kleine Truppe von Agenten scheint wirklich jeden Ort erreichen zu können. Ich gehe einfach mal davon aus das darin irgendwie ein Brocken Wahrheit liegt. Völlig unbetretbar kann kein Land sein, es sei den es ist wirklich winzig. Sibirien ist gigantisch, selbst mit gewaltigen Radars würde ich es nicht zutrauen den gesamten Luftraum zu überwachen. Nicht zu vergessen das eine sehr motivierte Gruppe von Wanderern wohl auch ziemlich weit kommen könnte.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #8
 
 * Titel: ``
 

@@ -1191,6 +1191,45 @@
 
 ##### #92
 
+* Titel: `Risen - #92 - der Osttempel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben mittlerweile einige Tempel gesehen, dieser hier steht im Osten und da hat er auch seinen Namen her. Ich frage mich übrigens immer noch wie wir eigentlich die Runen unterscheiden die wir bei haben. Die Symbole sollten ja nicht besonders aussagekräftig für uns aussehen oder? Wie dem aber auch sei, ich bin mir übrigens nicht so ganz sicher das wir wirklich Tempel erkunden. Vielleicht wäre die Bezeichnung als Grabstätte irgendwie besser? Der gesamte Aufbau ist doch recht linear und man könnte quasi von einer Krypta sprechen wenn man sich die Konstruktion ansieht. Auch die Anwesenheit von Fallen und Rätseln um weiter zu kommen könnte so wesentlich besser erklärt werden. Aber was weiß ich schon von solchen Dingen? Sehe ich aus wie Indiana Jones?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #93
+
+* Titel: `Risen - #93 - goldene Büsten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es zeigt sich mal wieder das der namenlose Held ein Genie ist. Auf jeden Fall  wesentlicher schlauer als die restlichen Menschen die hier noch so rumlaufen. Und auch stärker als lang trainierte Banditen die anscheinend bis jetzt nichts Anderes gemacht haben als kleine Leute zu überfallen und um ihre Ersparnisse zu bringen. Anders kann ich mir nicht erklären wie man dermaßen darin versagen kann ein paar Ghule und die wenigen anderen Bedrohungen nieder zu ringen die der Osttempel für uns bereithält. Das örtliche Rätsel besteht darin bestimmte Gegenstände auf eine Reihe von Altären zu stellen. Jetzt ist nur noch die Frage wie das Ganze eigentlich funktioniert. Geht es nach Gewicht oder kommt es tatsächlich auch auf die Form des Gegenstandes an? Und wenn die Form entscheiden ist, hätten wir das Verhalten nicht auch irgendwie nachstellen können. Warum müssen es genau diese Büsten? Hätte wir auch von woanders andere Büsten herholen können?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #94
+
+* Titel: `Risen - #94 - 4 Kristallscheiben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Niemand hat wirklich erwartet das ich wirklich lange dafür brauche das Rätsel um die goldenen Büsten zu lösen oder? Ich bin übrigens ein wenig traurig das wir die Büsten nicht wieder mitnehmen können. Der Tempel ist jetzt geplündert, die Tore könnte man also guten Gewissens wieder schließen, aber der Materialwert der Büsten ist ja nicht gleich null, oder sind da spezielle Gewichte aus weniger wertvollen Material drin die wir so nicht einfach trennen können. Ich muss daher meine Aussage über die Intelligenz des namenlosen Helden wieder zurücknehmen, es scheint das der Mann doch nicht ganz so schlau ist wie ich ursprünglich annahm. Er erkennt nicht wenn er quasi Geld liegen lässt, und das wo Don Esteban es uns doch direkt wieder abknüpft kaum das wir eine kleine Erfolgsmeldung haben. Wir haben jetzt vier Kristallscheiben, es fehlt nur noch eine und schon können wir loslegen, und diese letzte Scheibe hat der Don. Unser nächster Schritt ist klar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #95
+
 * Titel: ``
 
 * Beschreibung:

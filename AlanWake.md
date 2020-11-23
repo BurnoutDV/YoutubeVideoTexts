@@ -470,6 +470,32 @@
   Alan Wake auf dem Dienstags Slot.
   ```
 
+##### #37
+
+* Titel: `Alan Wake - #37 - Episode 7: das Signal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Reise von Alan Wake ist noch nicht vorbei. Ja, wir haben Alice Wake irgendwie gerettet und das Dunkel hat sie nicht mehr in ihren Fängen. Das heißt aber nicht das die Finsternis wirklich besiegt ist. Irgendwo da draußen gibt es immer noch etwas das alles versucht um den Tiefen des Cauldron Lake zu entkommen. An diesem Ort ist jetzt Alan Wake. Aber er befindet sich nicht in Gefangenschaft. Nicht direkt, aber auch nicht in Freiheit. Ein seltsamer Halbzustand, zwischen den Welten, unfähig sich zu befreien. Wir werden wohl Hilfe brauchen um von hier aus fortzufahren. Ein Signal, einen Wegweise der uns ins Licht treiben kann. Irgendwie.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #38
+
+* Titel: `Alan Wake - #38 - Nichts ist echt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Astralraum, so werden wir eines Tages lernen ist der weiße Nicht-Raum. Ein Ort der nicht wirklich existiert und doch irgendwie exstiert. Ein Platz an dem Gedanken mehr Wirklichkeit haben. Die Realität hat auch Wirklichkeit für Gedanken, manchmal mehr, meistens weniger. Auch das Dunkel ist ein Nicht-Raum. Wenn man physisch in die Tiefen des Cauldron Lake tauchen würde dann würden wir keinen Alan Wake finden. Und doch, und doch ist er dort. In den Tiefen. Da und nicht da. Alles was er sieht ist aber nicht dort. Seine Welt existiert nicht und nimmt doch die Realität rund um den See als seine Realität an. Eine Art verzerrter Spiegel. Das unvollständige Spiegelbild einer gestörten Wasseroberfläche. Reflexion aber mit Wellen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

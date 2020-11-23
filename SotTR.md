@@ -711,7 +711,46 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
-##### #54
+##### #55
+
+* Titel: `Shadow of the Tomb Raider - #55 - Tempel der Loyalität [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird wieder ein wenig seltsam, aber vielleicht habe ich ja auch Dinge nur falsch  verstanden. Wir haben hier einen Tempel mit dessen Durchquerung man seine Loyalität beweisen kann. Dies ist eine Funktion die sich auch Trinity bei einem jungen Amaru zu nutzen gemacht hat. Eine Prüfung die er irgendwie abgeleistet hat. Oder zumindest war dieser Ort der Katalysator für seine Treue gegenüber dem Geheimbund. Die gesamte Anlage funktioniert übrigens noch wirklich hervorragend. Da kann man sich nicht wirklich beschweren, ich beschwere mich aber trotzdem. Warum funktioniert der Mist noch. Oder anders gesagt, funktioniert größtenteils noch so das wir ihn partiell reparieren müssen damit wir überhaupt durchkommen. Diese DLC Inhalte sind auf jeden Fall immer ziemlich abgedreht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #56
+
+* Titel: `Shadow of the Tomb Raider - #56 - Blutopfer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Opfer bringen eine Menge Mana. Das haben wir schon damals in Black & White gelernt. Ich gebe zu das ist schon ganz schön lange für mich her. Aber es erscheint mir bis heute unfair das es kaum etwas bringt einen Baum zu opfern während die bösen Götter tonnenweise Mana dafür bekommen wenn sie ein paar Jünglinge die Kehle aufschlitzen. Insofern können wir aber auch verstehen das so ein Kinderopfer die ökonomische Wahl ist wenn es darum geht dafür zu sorgen das morgen wieder die Sonne aufgeht. An anderen Stellen auf der Welt hat man natürlich andere Ansätze aber man kann nie ganz sicher sein nicht wahr? Generell stellen sich hier interessante Fragen sobald man sieht das die Welt größer ist. Muss man wirklich in Paititi Opfer über den Altar führen wenn irgendwo in Russland jemand das gleiche tut? Wie viele Opfer braucht man wirklich? Die gute Nachricht ist aber das Lara heute genügend Blut vergießt um für die nächsten Wochen wenn nicht sogar Monate sicher zu sein. Ein wenig unorthodox aber ich bin mir sicher der  Gott der Sonne wird darüber hinweg sehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #57
+
+* Titel: `Shadow of the Tomb Raider - #57 - CSI: Paititi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara Croft ist in ziemlich vielen Dingen gut. Zum Beispiel darin Kulturgüter zu zerstören. Oder uralte Sprachen zu lesen und dann mit der Erkenntnis aus diesen Schriften Kulturgüter zu vernichten. Fast schon eine Gabe ist ihr Talent schwierige, uralte Rätsel zu lösen die antike Erbauer erdacht haben um dann noch mehr Kulturgüter endgültig und unwiederbringlich in Staub zu verwandeln. Heute benutzen wir das weniger oft genutzte Talent Mordfälle aufzuklären. Bei dem Opfer handelt es sich um einen lokal bekannten Kaufmann und Mitglied der Oberschicht das anscheinend nicht wie alle anderen Leute in der reichen Oberstadt wohnt. Da wir immer noch die Rolle einer Priesterin angenommen haben scheint man unserem Urteil blind zu vertrauen und wir dürfen völlig frei agieren. Großartig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #58
 
 * Titel: ``
 

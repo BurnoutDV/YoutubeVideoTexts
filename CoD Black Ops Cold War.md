@@ -96,6 +96,44 @@ Wir sind in der Vergangenheit. Nicht besonders weit in der Vergangenheit aber do
 
 ##### #8
 
+* Titel: `CoD Black Ops Cold War - #8 - selektive Fakten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Je weniger wir wissen desto weniger können wir auch verraten. Das ist übrigens nicht wirklich zu unserem Vorteil. Falls wir in Gefangenschaft geraten sollten ist es eher unpraktisch wenn wir irgendetwas wissen und ich darf wohl davon ausgehen das wir entweder alle Geheimnisse oder keine verraten aber auf jeden Fall sterben. Wenn wir überlaufen wollen und uns für die Gegenseite nützlich machen dann währen viele Informationen ja irgendwie nützlicher weil es mehr Ware bedeutet die wir anbieten können. Für unseren "Arbeitgeber" ist es also immer vom Vorteil uns nur die Informationen zukommen zu lassen die wir wirklich brauchen. Für unser Verständnis aber nicht. Schlimmer noch, ein feindlicher Akteur könnte unsere Gruppe von Agenten übernehmen ohne das es auffällt und dadurch das wir selektive Daten erwarten verschleiern das wir in Wirklichkeit für den bösen bösen Feind arbeiten. Ach wie schön.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #9
+
+* Titel: `CoD Black Ops Cold War - #9 - Jamantau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind schon weider im Ausland, und diesmal ist es sogar kalt. Technisch gesehen sind wir übrigens die ganze Zeit im Ausland, wenn man bedenkt das man als Black Ops Einheit zwar durchaus im Inland arbeiten kann aber das überlässt man wahrscheinlich anderen Spezialisten die wesentlich motivierter und treuer sind. Und insbesondere keinen verkappten Mi6 Agenten der definitiv nicht all zu sehr am Mutterland der CIA interessiert sind. Wir sind heute in Jamantau, anscheinend einen sehr kalten Ort an dem die Russen früher dachten das es sich um einen idealen Ort für eine Militärbasis handelt. Ich weiß nicht ob es dort immer so kalt ist aber die Anlage passt quasi überhaupt nicht in die Gegend. Sieht unnatürlich aus. Vielleicht war es mal besseres Wetter als man die Anlage erbaute, das Wetter hat auf jeden Fall einen Teil der Anlage zurück geholt. Und jetzt will man die Anlage zurück, sehr seltsam.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #10
+
+* Titel: `CoD Black Ops Cold War - #10 - das Team 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein Team, jetzt sogar noch mit zwei zusätzlichen Leuten. Lazar und Hudson. Zweiterer mag uns zwar nicht besonders aber dafür scheint zumindest Lazar irgendwie doch gesprächsbereit zu sein. Der Einzige der fehlt ist Woods, aber ich weiß nicht so recht wo der eigentlich hin ist. Wahrscheinlich sich ein wenig abkühlen nachdem er über die Untaten nachgedacht hat die Hudson einbrockt hat. Diese selektiven Informationen gefallen natürlich nicht jedem. Wie dem aber auch sei, wir erfahren auch so Einiges über die Beziehungen der einzelnen Charaktere untereinander. Ich frage mich an der Stelle wie viel Beziehung sich so Agenten tatsächlich leisten können. Eigentlich ist jede engere Bindung eine zusätzliche Gefahr, ein Angriffspunkt den man sich nicht leisten kann. Und doch sind Agenten wahrscheinlich auch nur Menschen. Irgendwie. Menschlichkeit, ein seltsames Konzept.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #11
+
 * Titel: ``
 
 * Beschreibung:

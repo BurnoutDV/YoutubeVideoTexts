@@ -636,7 +636,49 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
   ```
 
-##### #Nummer
+##### #59
+
+* Titel: `Frostpunk - #59 [OTE#8] - Kolonien [Let's Play; blind; de]`
+
+* Beschreibung:
+
+  ```markdown
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [8/11]
+  
+  Wir waren eigentlich schon immer eine Kolonie, aber jetzt ist es Zeit weitere Außenstellen zu haben. Klar ist, die Leute die wir jetzt als Kolonie bezeichnen sind technisch gesehen bereits vorher da gewesen und wir haben da nicht nur einfach gesiedelt. Übrigens können wir von Glück reden das es sich um nur englische Auswanderer handelt die unsere Sprache sprechen, was wäre gewesen wenn es Menschen gewesen wären die von ganz woanders stammen aber auch ihr Glück in den Frostlanden gesucht hätten? Wie dem auch sei, die Varianz ist wahrscheinlich das was uns Stärke gibt. Jetzt müssen nur noch die Entfernungen vernüftig überwunden werden, und dafür braucht es dann wohl mehr Handelsrouten. Es ist eigentlich interessant wie aus einer einzelnen Siedlung ein Zusammenschluss von vielen Siedlungen wird und am Ende bilden wir noch so etwas wie einen Staat. Oder zumindest eine gemeinsame Regierung. Was ich nur problematisch sehe ist das sich die Technik nicht wirklich weiter entwickelt und die aktuelle Dampftechnologie wahrscheinlich schon regressiv ist, mit der nächsten Generation vielleicht sogar verloren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
+  ```
+
+##### #60
+
+* Titel: `Frostpunk - #60 [OTE#9] - Vertrauen [Let's Play; blind; de]`
+
+* Beschreibung:
+
+  ```markdown
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [9/11]
+  
+  Unsere gesamte Wirtschaft baut auf Vertrauen auf. Vertrauen das wir unsere Seite des Handels einhalten. Vertrauen das London uns nicht auf große Art und Weise auf einmal zu uns kommt und uns all das weg nimmt. Moralisch scheinen wir besser als Neu London zu sein. Irgendwie ist das auch interessant oder? Immer wenn ein Spieler in Kontrolle einer Stadt ist werden die Entscheidungen auf einmal menschlicher. Das könnte aber auch daran liegen das ich nicht auf dem höchsten Schwierigkeitsgrad spiele und alles was ich tue dadurch etwas Platz für das moralisch höhere zulässt. Würde ich die höchste Schwierigkeit wählen gebe es bestimmt mehr Tote und meine Entscheidungen wären wesentlich härter, unmenschlicher, alles nur mit dem Ziel zu überleben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
+  ```
+
+##### #61
+
+* Titel: `Frostpunk - #61 [OTE#10] - Hunger [Let's Play; blind; de]`
+
+* Beschreibung:
+
+  ```markdown
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [10/11]
+  
+  Unsere Abhängigkeit von Neu London haben wir ja irgendwie überwunden. Was wir nicht überwunden haben ist aber unser Hunger. Hunger nach Fleisch oder zumindest ein paar Kartoffeln. Irgendwelches Gemüse. Dinge die wir verspeisen können. Unsere einsame Armeestation hat keine einzige Konserve, ich finde das übrigens sehr komisch. Man möchte doch eigentlich meinen das ein riesiges Lager so voller Dampfkerne auch über einige andere Ressourcen verfügen sollte. Aber anscheinend ist dem nicht so. Wir sind also wieder abhängig. Bloß nicht von Neu London sondern von unseren Handelspartner die auch nicht direkt bereit sind uns ohne Gegenleistung durchzufüttern. Ein echtes Problem.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
+  ```
+
+##### #62
 
 * Titel: ``
 

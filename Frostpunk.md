@@ -680,10 +680,14 @@
 
 ##### #62
 
-* Titel: ``
+* Titel: `Frostpunk - #62 [OTE#11] - Rettung [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Frostpunk DLC "On the Edge" (auf Messers Schneide) [11/11]
+  
+  Gelegentlich habe ich Freude daran möglichst doppeldeutige Titel für meine Episoden zu wählen. Das wäre noch wesentlich interessanter wenn ich eine gewaltige Fan-Base hätte die sich um solche Dinge Gedanken macht. Tatsächlich ist es aber so das, wenn du diesen Text hier liest, also die Beschreibung des Videos und sogar umständlich ausklappst, du eine Ausnahme bist. Es gibt eine gute Chance das du sogar die einzige Person sein wirst die das hier jemals liest. Und doch schreibe ich. Einfach weil ich kann. Wahrscheinlich therapeutisch für mich. Auf irgendeiner Weise. Die Frage heute ist auch, wer wird hier gerettet? Werden wir gerettet. Die Zeichen sind ja klar, Neu London hat Probleme. Aber werden wir vielleicht errettet? Vollziehen wir selbst die Rettung mit unserer dünnen Personaldecke? Fragen über Fragen. Antworten kommen aber auch. Schon in dieser Episode. Dies ist dann auch die letzte für Frostpunk. Insgesamt muss ich übrigens eher schlechte Noten für das DLC "On The Edge" vergeben. Ich habe mehr erwartet als es ursprünglich angekündigt wurde. Im Großen und Ganzen war es doch ein ziemlich schwaches Addon. Was denkst du dazu? Hast du bis hier her gelesen? Wenn ja, schreib doch mal was. Ich würde mich freuen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
   ```

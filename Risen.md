@@ -1230,6 +1230,84 @@
 
 ##### #95
 
+* Titel: `Risen - #95 - die Pforte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist es soweit, mit allen Scheiben in der Tasche sind wir gewappnet und gerüstet die letzte Pforte zu öffnen. Jene Pforte die uns verschlossen blieb und von der der Inquisitor behauptet hatte das sie die Rettung der Menschheit enthält. Aktuell sieht es übrigens eher nicht danach aus. Viel mehr finden sich noch viel mehr Echsen in den Tiefen hinter dem Tor. Es stellt sich außerdem die Frage warum die Tür so gut abgeschlossen war wenn darin nur Echsen sind die anscheinend schon in der Außenwelt drin waren. Wer hat die Tür gebaut? Waren es am Ende die Echsen selbst. Oder vielleicht sogar andere Echsen die diese Art von Echsen drin halten wollten? So oder so waren sie scheinbar höher technologisiert als die Menschen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #96
+
+* Titel: `Risen - #96 - Zwei Winden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben gut 20 Stunden damit zugebracht die notwendige Stärke anzusammeln alle 5 Scheiben die das große Tor öffnen können zu finden. Und auch die Stärke zu erlangen die es uns ermöglichen die Scheiben überhaupt in Besitzt zu nehmen. Jetzt ist es endlich so weit, wir betreten die Tiefen des Tempels nur um noch eine Tür vorzufinden. Die größere Ironie ist aber das wir dieses Mal kein magisches Artefakt oder besondere Fähigkeiten brauchen. Stattdessen gibt es einfach zwei Seilwinden die das Tor öffnen das weiter in die Unterwelt hineinführt. Das ist fast schön enttäuschend wenn man die viele Mühe und die schwere der Tat für das erste Tor sieht. Andererseits sind die heiligen Seilwinden der Öffnung auch nicht unbedingt unbewacht. Durchaus gibt es es hier Wächter die uns die Hand zur Winde nicht ohne Weiteres überlassen wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #97
+
+* Titel: `Risen - #97 - die Tunnel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das die Gänge unter dem Vulkan ziemlich weitläufig sind, und es ist keine Option den Tunnelbohrer herauszuholen um neue Wege zu schaffen. Allerdings stellt sich mir dann sofort die Frage wie genau das dann eigentlich die Echsen gemacht haben als diese Anlage ausgehoben wurde. Letztendlich ist nicht mehr viel von der einstigen Pracht der mächtigen Tempelanlage übrig. Insofern es sich wirklich um einen Tempel handelt. Wenn man bedenkt das die meisten anderen Tempel aus den Boden kamen muss man davon ausgehen das auch diese Einrichtung einmal auf der Oberfläche war. Ich frage mich nur wie das dann aussah. Der Vulkan wird ja nicht grade erst seit gestern hier sein oder? Ob sich die Entwickler dabei genau was gedacht haben damit es im Detail alles stimmt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #98
+
+* Titel: `Risen - #98 - Sumpf und Pilze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe den Verdacht das Piranha Bytes eine ungesunde Beziehung zu Sümpfen und Kraut hat. Das überrascht eigentlich, von regelmäßigen Drogenbenutzern hätte ich eigentlich mehr Kreativität erwartet. Aber so wie es scheint hat man sich schon wieder dazu durch gerungen einen Sumpf zu erfinden. Das ist jetzt übrigens der Dritte seiner Art. Ein Sumpf, und dieses Mal liegt der nicht einfach so in der Landschaft rum wo wir ihn hätten kommen sehen sondern er befindet sich in einer Höhle. Ich denke mal wir können den leuchtenden Pilzen dafür danken das wir hier überhaupt irgendetwas sehen. Die Pilze sollte man aber anscheinend nicht essen. Soweit ich das verstanden haben macht das Verrückt. So wir Jorgenson, der ist verrückt geworden weil er die Pilze gegessen hat. Oder es lag einfach an der isolierten Dunkelheit, was weiß ich schon?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #99
+
+* Titel: `Risen - #99 - Jägerechsen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und erneut habe ich es getan. Der Titel impliziert es handelt sich um besonder aggressive Echsen die gnadenlos Jagt auf uns machen und as wäre auch wirklich unerfreulich wenn dem so wäre. Tatsächlich handelt es sich aber um Echsen die in der Außenwelt sind und Jagt auf Vieh und ..naja menschliches Vieh machen das in ihren Minen arbeiten kann. Die Einrichtungen der Echsen die wir bisher gesehen haben scheinen eine enorme Handwerkskunst aufzuzeigen aber die Frage wie all das gebaut wurde ist noch nicht geklärt. Ein Teil der Antwort ist wahrscheinlich Sklavenarbeit obwohl mir das alles ein wenig komisch erscheint. Die Echsen sind offensichtlich stark und zahlreich, warum nicht einfach die Arbeit selber machen? Mir scheint das es ziemlich aufwendig wäre extra Leute zu finden die für einen Arbeiten die man auch noch überwachen muss. Andererseits denke ich mir das bei der meisten Sklavenarbeit. Vielleicht sind die Echsen auch einfach sadistisch. Ziemlich wahrscheinlich sogar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #100
+
+* Titel: `Risen - #100 - Vulkangrotte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es ist schon wieder passiert. Nein, nicht das mit den irreführenden Titel der etwas andeutet was gar nicht ist. Viel mehr ist es so das ich mich habe ablenken lassen. Kaum gehe ich mal ein wenig in die Richtung einer Höhle weil ich wissen will was diese Oger da vorne noch bewachen und schon bin ich wieder in einer Grotte die wir schon von woanders kenne. Es handelt sich, so zumindest sagt es die Aufschrift auf dem Teleportstein, um die Vulkangrotte. Wir waren bereits einmal dort, damals hatten wir uns in eine Aschebestie verwandelt nur um dann gegen die bösen Skorpione zu versagen die dort wohnen. Das war gar nicht so richtig mit Absicht und eigentlich hatten wir alle Chancen, allerdings sind diese nervigen Skorpione Meister im Ausweichen. Meinem Großschwert können sie aber nicht so einfach entkommen, und so ist es heute Zeit für Revange.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

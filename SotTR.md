@@ -752,6 +752,84 @@
 
 ##### #58
 
+* Titel: `Shadow of the Tomb Raider - #58 - die Oberstadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie habe ich am Anfang wo Paititi erklärt wurde nicht so ganz aufgepasst. Nahm ich doch glatt an das das was wir vorher gesehen haben, das mit den Feldern und den Häusern an dem Berghang sei die ganze Stadt. Klar, da oben ist noch ein Tempel aber irgendwie war da die Annahme das da nicht viel mehr ist. Scheinbar habe ich mich ein wenig getäuscht. Unuratu und ihre Königsfamilie haben doch ein wenig mehr. Es gibt mehr von der Oberschicht als die paar Händler die wir zwischenzeitlich gesehen haben. Es gibt noch die gesamte Oberstadt wo sich die Reichen Leute versammeln. Irgendwo dazwischen gibt es auch arme Leute, irgendwer muss ja schließlich die unangenehme Arbeit leisten nicht war? Ich bin trotzdem ein wenig erstaunt wie ich all das verpassen konnte. Aber so wie es aussieht kommt eine Priesterin überall hin, das ist praktisch.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #59
+
+* Titel: `Shadow of the Tomb Raider - #59 - Hakan der Fleischer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal gebe ich mir der Wahl der Titel Mühe besonders irreführend zu sein. Heute zum Beispiel, ursprünglich hieß die Episode sogar "Hakan der Metzger", aber dann habe ich heraus gefunden das der gute Mann eigentlich gar keiner ist sondern als Fleischer bezeichnet wird. Da gibt es bestimmt einen Unterschied. Wo auch immer der liegen mag. Normalerweise wird bei eine solchen Namen eine besonders blutrünstige Person impliziert, aber das stimmt in diesen Fall überhaupt nicht. Stattdessen ist der Mann einfach von Beruf Fleischer und würde das auch gerne bleiben. Ärgerlicherweise hat er sich den Rebellen angeschlossen und eigentlich noch viel ärgerlicher, er wurde dabei erwischt. Soweit ich das verstanden habe ist er Bewohner der Oberstadt, aber er flieht jetzt. Wie genau das eigentlich aussehen soll ist mir übrigens nicht ganz klar, weil die Schlangenwachen werden ihn doch nicht einfach so vergessen oder? Alles ein wenig unklar für mich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #60
+
+* Titel: `Shadow of the Tomb Raider - #60 - archäologische Entdeckungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Regel ist Lara Croft damit beschäftigt Dinge zu zerstören und  wenn das nicht möglich ist sie so zu begraben das absolut sicher ist das sie die letzte Person gewesen ist die Kulturstätten gesehen hat. Heute finden wir etwas und zerstören es nicht sofort. Das dürfte größtenteils an den vorhandenen Wachen liegen und nicht daran das Lara so sehr darum bemüht ist die Kultur der Paititianer zu erhalten. Aber zumindest finden wir einige Texte die uns über das exakte Verhältnis von Paititi und Trinity aufklärt. So wie es aussieht wurden die Priester und andere wichtige Positionen schon frühzeitig verdorben. Das einfache Volk hat davon nichts mitbekommen. Wahrscheinlich auch mit der Hilfe von Trinity blieb die Stadt über Jahrhunderte von anderen westlichen Einfluss unentdeckt. Das ist ziemlich beeindruckend. Ich ahne aber das für die Leute sich bald alles ändern wird, spätestens wenn der Staat Peru Steuern von seinen Bürgern erhalten möchte.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #61
+
+* Titel: `Shadow of the Tomb Raider - #61 - Reihe & Eklipse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Von den ein wenig seltsamen Erdbeben einmal abgesehen hat sich dieser Tomb Raider Teil bisher mit dem mystischen ziemlich zurückgehalten. Es gibt da einige Dinge die ziemlich hanebüchen sind und nicht wirklich Sinn ergeben aber die gesamte Prämisse ist, wenn man eine Menge Dinge jetzt mal so hinnimmt und unwahrscheinliche Erklärungen akzeptiert irgendwie noch möglich. Klar, die Firma Povenier kann ihre Ölausgrabungen gemacht haben und ist da nie über auch nur eine Person aus Paititi gefallen und die Bewohner haben auch nie ein Flugzeug gesehen und sich dabei etwas gedacht. Und nie ist ein Kind der Stadt in die Welt hinaus gegangen und hat jemanden gefunden. Keine Kartelle die im Dschungel durch Zufall über die Ureinwohner gefallen ist und dann alle umgebracht hat. Eine Menge Glück, aber bis her nichts was so an sich magisch ist. Das ändert sich dann heute, wir erfahren einige subtile Details die sich für mich so anhören als wäre hier doch ein wenig Magie im Spiel. (Die total unlogischen Fallen und Rätselgänge übersehe ich mal eben, die würden nur Sinn ergeben wenn Lara immer noch high auf irgendwelche Früchte ist)
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #62
+
+* Titel: `Shadow of the Tomb Raider - #62 - Schädelkrypta [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollten wir ja Unurato retten aber dann sind Dinge passiert und schon war ich auf einmal in einer Krypta mit ziemlich vielen Knochen. Knochen sind ja nicht wirklich ein Indiz dafür das es hier besonders viele Tote gegeben haben muss, es könnte sich ja auch um ein Verwahrungsort für die Leichen all jener handeln die über viele Jahrhunderte gestorben sind. Wenn man dann aber Schädel verschiedener Größen findet und noch halberhaltene Körper die so aussehen als wären sie in genau der Haltung gestorben kommen irgendwie Zweifel über die Herkunft der Leichen her. Ich bin mir nicht sicher inwiefern das alles in der Realität einen Bezug hat und wieweit die Übertreibung geht. Aus dem Gedächtnis würde ich behaupten das es wohl bestimmt Menschenopfer gegeben hat, der Umfang aber höchstwahrscheinlich übertrieben war. Auf jeden Fall hätten die spanischen Konquistadoren vitales Interesse daran die Höhe der Barbarei der Heiden zu übertreiben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #63
+
+* Titel: `Shadow of the Tomb Raider - #63 - das Grab des letzten Herrschers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die genaue Regierungsform von Paititi ist mir immer noch nicht bekannt. Offensichtlich gibt es sowas wie eine Monarchie, andernfalls könnte Unuratu nicht "rechtmäßige" Königin sein allerdings scheint der Kult von Kulkulkan mehr Macht zu halten oder zumindest die tatsächlich weltliche Macht durchzusetzen. Wie dem aber auch sei, es gab wohl einmal eine Zeit als es einen echten Herrscher gab. Dessen Grab besuchen wir heute weil wir hoffen dort einen Hinweis auf den Verbleib der silbernen Schatulle zu finden. Die ist wie wir ja bereits  wissen, weg, und ohne die wird wohl die Welt untergehen. Oder Paititi, ich bezweifle das ein einzelnes Artefakt genügend Macht besitzt. Die Artefakte die wir bisher gefunden haben waren alle relativ lokal begrenzt was ihre Ausdehnung angeht. Die Schatulle mit Dolch könnte etwas mehr sein, schließlich haben wir Auswirkungen in Mexiko gespürt. Aber da war der Dolch auch vor Ort.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

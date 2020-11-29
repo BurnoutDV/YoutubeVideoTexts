@@ -134,6 +134,89 @@ Wir sind in der Vergangenheit. Nicht besonders weit in der Vergangenheit aber do
 
 ##### #11
 
+* Titel: `CoD Black Ops Cold War - #11 - Codeknacker Operation Chaos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mein Notizzettel: https://i.imgur.com/SKYpNGA.jpg
+  
+  Heute versuchen wir einen Code zu knacken, ich sage gleich mal, ich bin nicht sehr erfolgreich dabei. Das enttäuscht mich vor allen Dingen persönlich. Ich halte mich eigentlich für eine halbwegs intelligente Person die in der Lage ist mit den meisten Rätseln gut umgehen zu können und in der Lage ist sich einen Weg quer durch einen Korkenzieher zu denken, aber erst wenn man wirklich die eigenen Grenzen testet merkt man wie beschränkt man eigentlich wirklich ist. Heute lerne ich eine dieser Grenzen kennen. Im Nachhinein muss ich aber sagen das mein Fehler größtenteils war das ich einen Hinweis falsch gesehen und daher nicht weiterverfolgt habe. Ein dummer Fehler, Flüchtigkeit vielleicht, und doch ist es ein Versagen. Das Rätsel würde ohne Rätsel ungelöst bleiben.
+  
+  00:00 - 18:37 fruchtloses Herumraten.
+  18:38 - 20:43 Die Lösung für das Operation Chaos Rätsel
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #12
+
+* Titel: `CoD Black Ops Cold War - #12 - Operation Chaos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mich als exzellenter Codeknacker bewiesen. Und jetzt heißt es die Früchte meines Erfolges einzufahren. Es ist mir erlaubt auf Operation zu gehen und als Woods irgendwo in Neu Mexiko einen Verräter namens Aldrich zur Strecke zu bringen. Ich möchte an der Stelle direkt anmerken das ich ein wenig verwirrt ob der mangelnden Verstärkung bin. Einen Verräter zu kapern und zu jagen ist ja eine Sache, aber wir sind hier nicht irgendwo in Osteuropa sondern quasi zuhause. Da sollte es doch eigentlich möglich sein perfekte Luftaufklärung zu haben und genügend Männer auf dem Boden um jeden Gedanken an Widerstand direkt im Anflug zu brechen. Und ich kann mir auch nicht vorstellen das hier irgendjemand auf Heimlichkeit bedacht sein kann. Die wilde Schießerei die wir uns heute leisten würde mit 200 Leuten mehr auch nicht auffälliger sein. Oder 5 Hubschrauber und drei gepanzerte Panzer mehr.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #13
+
+* Titel: `CoD Black Ops Cold War - #13 - Verzweifelte Maßnahmen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend brauchen wir Zugriff auf eine Liste von Agenten die man nirgendwo finden kann außer im KGB Hauptquartier. Dort einzusteigen wird wohl kaum in einer Nacht und Nebelaktion möglich sein. Ich stelle mir fest das wir irgendwie gefälschte Daten erhalten und uns dann irgendwie absetzen können indem wir möglichst leise und absolut unauffällig einmarschieren. So ungefähr stelle ich mir das vor. Wir starten unsere Reise interessanterweise als Belikow, dem Sicherheitschef des Hauptquartiers, wir kennen den Mann ja bereits von seinem Überflug irgendwo in Sibirien, jetzt sind wir sogar er. Ist das nicht schön, wie schnell wir die Person wechseln? Wahrlich eine wahre Freude.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #14
+
+* Titel: `CoD Black Ops Cold War - #14 - Doppelagent [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Belikow, Rang unbekannt ist vor allen Dingen KGB Agent. In seiner Position sollte er es eigentlich nicht besonders schwer haben. Soweit ich es sehen kann hat der Mann keine Familie die er besonders mag oder sonst irgendwelche Hebel. Das ist für seine Position ziemlich fatal wenn man darüber nachdenkt. Andere Leute kann man relativ leicht erpressen oder zumindest unter Kontrolle halten ohne das man um ihre Loyalität fürchte muss. Oder man könnte sie genau damit erpressen. Je länger ich darüber nachdenke desto weniger fällt mir ein das wirklich einen Doppelagenten verhindern kann. Agenten haben durch die Natur ihrer Sache Kontakt zum Feind und  wenn die Bereitschaft die eigene Sache zu verraten dann passiert das auch. Es würde vielleicht helfen wenn man objektiv auf der "guten" Seite ist. Aber selbst das wäre schwierig zu definieren. Was ist schon objektiv gut? Von den aktuellen Weltmächten fällt mir niemand ein der auch nur in die Nähe von "Gut" kommt. Und selbst wenn, Menschen sind immer noch gierig. Eigentlich kann man niemanden so richtig vertrauen. Das denken sich wahrscheinlich auch die Typen die Doppelagenten im KGB suchen. Traue niemanden.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #15
+
+* Titel: `CoD Black Ops Cold War - #15 - der Bunker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wurde am Anfang betont das wir in einen KGB Bunker eindringen müssen um dort eine Reihe von Schläferagenten zu enttarnen. Ich möchte kurz den Umfang unserer Mission feststellen. Wir dringen in das Herz eines Geheimdienstes ein der sich fest vorgenommen hat seine Geheimnisse zu bewahren. Dann versuchen wir Daten in einem uns völlig unbekannten System zu finden. Diese Daten wollen wir dann noch irgendwie extrahieren, davon ausgehend das die nötigen technischen Mittel zur Verfügung stehen. Und das alles soll noch möglichst schnell passieren ohne das irgendetwas auffällt. Würden wir unter Beschuss stehen oder irgendwelche gegnerischen Agenten unser Handeln bemerken wären wir ja mitten in Moskau gefangen, quasi dem Machtzentrum des Warschauer Pakt. Einen Ort an dem die Soviets wortwörtlich Millionen von Soldaten mobilisieren können um jeden Fluchtversuch unsererseits zu verhindern. Und deswegen ziehen wir auch als Erstes die Waffe als wir unten ankommen. Logisch.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #16
+
+* Titel: `CoD Black Ops Cold War - #16 - das Team #3 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich verspreche dies ist die letzte Episode in der es um das Team geht. Das letzte Mal das ich mit allen möglichen Leuten rede und ganz viel davon ablenke was wir eigentlich vorhaben. Operation Greenlight kann aber für einen Moment warten, schließlich wollen wir doch unsere treuen Gefährten besser kennen lernen. Wer weiß, vielleicht sterben wir schon morgen oder sie kommen um, und dann wollen wir nicht sagen das wir das menschliche vernachlässigt haben. Obwohl man irgendwie bedenken muss das es wahrscheinlich keine gute Eigenschaft für Spione ist zu neugierig zu sein. Letztendlich sollten wir uns idealerweise nur wirklich für das interessieren was wir vorgesetzt bekommen und unseren Arbeitgeber blind bei der ganzen Auswahl unserer Gefährten glauben. Andererseits kann man niemals sicher genug sein. Daher sprechen wir heute mit unseren Leute, aber wirklich zum letzten Mal.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

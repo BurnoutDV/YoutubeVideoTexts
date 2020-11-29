@@ -496,12 +496,82 @@
   Alan Wake auf dem Dienstags Slot.
   ```
 
-##### #Nummer
+##### #39
+
+* Titel: `Alan Wake - #39 - Freund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in einem Alptraum, an einem dunklen Ort. Egal was auch immer draußen passiert ist, hier drinne ist das Dunkel immer noch mächtig. Das Ganze ist auch sonst irgendwie interessant, das Dunkle in Form von Barabara Jagger ist ein denkender Organismus. Ein Etwas mit einer Agenda, etwas das wir als Gegenspieler bezeichnen können. Barabara ist wahrscheinlich nicht viel mehr als ein Avatar oder eine Marionette, aber dennoch ist es etwas das wir als Fokuspunkt des Bösen sehen können. Die Frage ist bloß, können wir uns einen Freund erschaffen? Etwas das uns nicht in jedem Moment töten will sondern etwas das uns vielleicht am Leben halten will. Etwas das uns moralisch durch die Reise durch das Dunkle bringen kann? Das wäre schön. Unser eigener persönlicher Freund.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #40
+
+* Titel: `Alan Wake - #40 - das andere Ich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint so das wir nicht alleine im Dunkeln sind. Das ist jetzt nicht besonders erstaunlich, haben wir doch schon etabliert das das Dunkel unser stetiger Begleiter ist, aber hier drin scheint es eigentlich ziemlich ohne Agenda zu sein. Viel mehr gibt es nur quasi gedankenlose Außenstellen des Dunklen die uns zwar immer noch gewissermaßen töten würden wenn es soweit kommt aber so richtig sind sie nicht da. Ein wenig später sehen wir aber das es doch eine Art intelligenten Gegenspieler gibt. Und das sind wir selber! Das kommt als ziemliche Überraschung und ist auch recht unangenehm, aber was will man machen? Wir können nur weitergehen und dagegen ankämpfe. Immerhin haben wir jetzt eine Bestätigung das wir etwas haben das wir bekämpfen können. Eine der größeren Ängste im Leben ist das man etwas versucht und im Geheimen gibt es eine Fraktion oder Person die dagegen ist und man erfährt es einfach nie. Stattdessen gibt es diesen Druck aus dem Dunkeln der unseren Aktionen gegenüber steht ohne sich selber zu zeigen. Und am Ende denkt man alles war nur Pech, aber in Wahrheit war alles eine große Verschwörung. Oder war es doch nur eine unglückliche Verkettung der Umstände. Diese Unsicherheit ist enorm nervig. Alan Wake muss sich nicht mehr damit herumschlagen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #41
+
+* Titel: `Alan Wake - #41 - Folge 8: der Schriftsteller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Martyrium für Alan Wake ist noch nicht vorbei. Vielleicht wird es nie vorbei sein, ist er doch an einem Ort der Alpträume wahr macht. Wenn man es positiv sieht ist es auch ein Ort der Träume  wahr machen kann. Das Ganze ist ein wenig seltsam. Ich frage mich ob das Dunkel wirklich per se böse ist oder einfach nur egoistisch. Oder ist es einfach nur eine Interpretation des christlichen Satans. Eigentlich tut er gar nichts außer die Seiten den Menschen zu betonen die finster sind? Das Dunkel zeigt uns nur auf welches finstere Potential wir haben könnte? Oder pervertiert es einfach jeden Wunsch wie es ein Djinn tun würde (oder halt wieder der Teufel). Egal was man sich wünscht, es kann nur die finsterste, bösestes Variante sein die möglich ist? In diesem Fall kann man sich mit dem Dunkel wohl nur die langweiligsten aller Dinge wünschen. Irgendetwas das selbst in seiner schrecklichsten Form eher mundan ist. Ob Essen darunter zählt?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #42
+
+* Titel: `Alan Wake - #42 - das Rad des Lebens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute betreten wir das Rad des Lebens. Im wortwörtlichen Sinne. In Alan Wakes Fall ist das übrigens ziemlich spannend. Eigentlich ist jeder Raum anders und eigentlich handelt es sich mehr um eine Abfolge von Dingen als ein Rad das sich immer wieder wiederholt. Wenn man das Leben als Rad sieht muss man übrigens auch darauf achten die Details zu sehen. Wenn man genügend verallgemeinert erscheint jeder Tag gleich. Aufstehen, Essen, Schlafen gehen. Wenn man das dann als sein Leben definiert fällt es leicht das Leben für austauschbar, langweilig und repetetiv zu halten. Was viel mehr zählt ist das was man tut. Die kleinen Dinge, die Interaktion mit anderen Agenten des Lebens. Es ist wichtig sich das vor Augen zu halten, andernfalls könnte es leicht fallen zu verzweifeln und dann hat man nur noch wenig Spaß an der ganzen Geschichte. Es wäre dann schnell gedacht das das Leben quasi sinnlos ist. Dabei liegt der Sinn direkt vor einem, es sind die Schritte die man täglich tut.
+  
+  Ich sollte wohl eher kein Motivationsbuch schreiben...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #43
 
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir sind in einer Scheinwelt, das kommt jetzt überraschend. Und so eine Welt muss sich nicht an das Halten was glaubhaft ist. Übrigens ist ein großer Nachteil von Fiktion das sie glaubwürdig sein muss. Ernsthaft, das ist ein größeres Problem als man meinen möchte. In der Realität können Menschen ein absolut unwahrscheinliches Leben führen, Dinge überleben die niemand überleben sollte. Klar sind das dann einer in einer Millionen Fällen. Kriegshelden die einsame Stellungen alleine gegen erdrückende Übermachten verteidigen. Stürze aus Flugzeugen werden mit minimalen Schaden überlebt oder einfach das gesamte Leben von Hunter S. Thompson. Geschichten müssen sicherstellen das der Leser bzw. Konsument nicht das Gefühl hat das grade unfassbare Dinge geschehen. Unsere Scheinwelt hat aber den Nachteil das hier Dinge passieren die der Leser nicht glaubt. Oder glauben will. Ärgerlicherweise sind wir mitten drin und erleben die Dinge trotzdem. Das ist wirklich nervig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
+  ```
+
+##### #44
+
+* Titel: `Alan Wake - #44 - der Leuchtturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist Zeit für die letzte Episode. Interessanterweise enden wir so wie wir damals angefangen haben. Alles hat einen Leuchtturm. Liebhaber von Bioshock könnten sich jetzt eventuell irgendwie erinnert fühlen. Es gibt sogar einen Mann aber ich bin mir nicht sicher ob man Bright Falls wirklich als Stadt bezeichnen kann. Damit enden die Gemeinsamkeiten aber wieder . Fakt ist aber das der Leuchtturm hier ein Symbol ist. Ein Zeichen für die Rettung. Ein Zeichen für den sicheren Hafen an dem das Schiff unseres Geistes anlaufen kann. Was wir leider nicht können ist den dunklen Ort verlassen. Aber immerhin können wir an diesem Platz irgendwo in den Tiefen des Cauldron Lake für den Moment existieren. Wir können weiter machen, auf ein Ziel das wir für den Moment noch nicht ganz sehen können. Letztendlich ist es aber vielleicht besser als einfach aufzugeben. Besser als einfach in die Vergessenheit zu gehen. Insbesondere weil wir wissen das Mr. Scratch noch irgendwo da draußen rumläuft und Dinge tut. Das sollten wir vielleicht unterbinden. Irgendwie. Aber als Erstes müssen wir noch unseren Freund erschießen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Alan Wake auf dem Dienstags Slot.
   ```

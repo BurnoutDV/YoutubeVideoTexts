@@ -249,3 +249,8 @@
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
+
+## Fazit
+
+> Fazit - Ancient Gods Teil 1
+> Ancient Gods hat vieles richtig gemacht im Sinne des Hauptspieles, eine große Schwäche hatte es aber für mich: Geister. Es handelt sich um einen Gegner der einen anderen Dämonen befällt und diesen schneller und wesentlich stärker macht. Die Waffe der Wahl ist ein Upgrade der Plasmakanone das ich im Hauptspiel nicht einmal eingesetzt habe. Eine Waffe die es notwendig macht mitten im Gefecht stillzustehen und Ghostbustersartig auf den Geist einzustrahlen. Das nimmt einen schnellen Shooter wie Doom enorm die Dynamik raus und ist sehr sehr nervig, insbesondere weil man quasi gezwungen ist die gesamte Arena zu klären bevor man die Geister angehen kann. Ansonsten gibt es neue Orte zu bereisen, insbesondere der Markyr Wald hat es mir sehr angetan.

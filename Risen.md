@@ -1306,6 +1306,71 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #101
+
+* Titel: `Risen - #101 - Mauerdurchbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sollten eigentlich ein Tor öffnen und ich dachte wirklich das ich irgendwo einen Schalter ziehen kann aber so wie es aussieht ist da nichts zu machen. Zum Glück haben die Echsen anscheinend nie daran gedacht das irgendjemand ihre Verteidigung so intensiv testet und einfach eine massive Wand durchbricht. Generell ist es aber ein wenig verwunderlich das ein einfacher Krieger der Inquisition ohne Weiteres eine Wand zerstören kann dann aber auf halben Weg meint das mehr unmöglich sei und das er leider nicht weiter machen könne so das leider nicht  die gesamte Armee durchpasse. Stattdessen soll ein einzelner Held daher gehen und die Tür öffnen. Ich muss mich wirklich wundern wie genau Mendoza sich eigentlich vorgestellt hat das diese Operation laufen sollen wenn nicht mit der Hilfe externer Leiharbeiter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #102
+
+* Titel: `Risen - #102 - Ursegor der Titanenlord [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir treffen heute einen neuen Bekannten. Es handelt sich um Ursegor der Titanenlord. Die Berufsbezeichnung des Titanenlords ist uns eher neu, aber es scheint das dies früher einmal eine wichtige Aufgabe war. Oder ein Amt. Wie dem aber auch sei, neue Titanenlords gibt es jetzt schon seit einiger Zeit nicht mehr. Aber anscheinend geht es dabei darum einen Titanen so zu beherrschend das man seine Macht nutzen kann. Was genau ein Titan ist wurde übrigens noch nicht wirklich weiter erklärt, nur das es sie gibt, ihre Anwesenheit für die Welt als solche ein großes Problem ist und das früher die Götter da waren um sie von den Menschen fernzuhalten. Götter  gab es, soweit ich das erkennen kann auch in verschiedenen Geschmacksrichtungen. Der anwesende Feuertitan wurde zum Beispiel auf Geheiß des dunklen Gottes in Gefangenschaft genommen, was auch erklärt warum seine Fessel noch funktionieren, die anderen Titanen wurde anscheinend direkt von den Göttern eingesperrt, und deren Gefängnisse existieren nun nicht mehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #103
+
+* Titel: `Risen - #103 - Kapitel 4: der Titan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein neues Kapitel beginnt. Allen Anschein nach geht es bei Allem was wir tun um den Titan des Feuers der unter der Insel Faranga gefangen gehalten wird. Was genau der Titan eigentlich macht, was ein Titan konkret ist oder ob Titanen überhaupt selbstdenkend sind ist unbekannt. Generell ist unser Unwissen eigentlich ziemlich gewaltig wenn man bedenkt das wir wahrscheinlich die Hilfe eines solchen brauchen um die Welt oder zumindest die Insel zu retten. Ich gehe übrigens mal davon aus das die Taten des Inquisitors nicht vollständig verschwendet sind, weil irgendwas müssen wir ja tun, nur die Insel vor dem Übel der Welt zu beschützen wird wohl langfristig relativ wenig für die restliche Menschheit tun. Wir wissen aber auch nichts über die Welt da draußen, das ist eigentlich ziemlich interessant wenn man darüber nachdenkt das wir eben jene Welt zum Untergang verurteilen sollte der Plan des Inquisitors eigentlich funktionieren und wir ihn verhindern. Generell bin ich sehr unzufrieden was die Menge an unbekannten Variablen angeht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #104
+
+* Titel: `Risen - #104 - Machtwechsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt ein bisschen spät aber heute übernimmt der Don dann auch endlich einmal die Macht in der Hafenstadt. Ich habe den finsteren Verdacht das ich das schon im letzten Kapitel hätte machen können. Habe ich aber nicht weil leider Kommandant Carlos nicht aufzutreiben war. Das ist besonders ärgerlich weil Don Esteban uns jetzt weiter befördert und damit Zugang zu einer weiteren Rüstung gewährt die ich gerne schon früher gehabt hätte. Aber die Dinge sind wie die Dinge sind und daran können wir jetzt leider auch nichts mehr ändern. Immerhin kennen uns in der Stadt jetzt alle möglichen Leute und wissen das wir ein hohes Tier in der Hierarchie sind. Auch interessant ist übrigens welche Händler uns jetzt feindlich gesinnt sind. Viele scheint es gar nicht zu stören, aber die die vorher ihre Arbeiter am meisten ausgenommen haben und sich auf die technische Auslegung des Gesetztes verlassen haben sind uns sauer. Eine gewisse Moral findet sich wohl darin, obwohl ich nicht davon ausgehe das Don Esteban und seine Männer besonders gesetzestreu sind wenn es etwas gibt das sie wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #105
+
+* Titel: `Risen - #105 - Sturm auf die Vulkanfestung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir greifen heute die Vulkanfestung an die im Vorfeld anscheinend von den Echsen überrannt wurde. Von der allgemeinen Architektur würde ich vermuten das die Festung selbst von den Menschen gebaut wurde und die Echsen eher nicht ihr Gebiet zurückerobern. Das ist wahrscheinlich auch unser Glück weil sich herausstellt das wir bereits in der Burg sind und die Echsen eigentlich so gut wie niemanden umgebracht haben, wir sind im exakt richtigen Moment wieder aufgetaucht. Auch generell und überhaupt kann man von einem großen Glück reden das hier nicht die Verteidigungsanlagen benutzt wurden. Ein Sturm auf das Tor ohne entsprechendes Belagerungsgerät stelle ich mir außerordentlich schwer vor. Die taktische Lage der Vulkanfestung ist nicht von der Hand zu weisen und wenn es darum gehen würde die Feste zu belagern würde ich mich wahrscheinlich auf eine Aushungerungsstrategie verlassen und hoffen das kein Entsatz für die gekesselten Truppen kommt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

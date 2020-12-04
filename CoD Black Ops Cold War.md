@@ -215,12 +215,72 @@ Wir sind in der Vergangenheit. Nicht besonders weit in der Vergangenheit aber do
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
-##### #Nummer
+##### #17
 
-* Titel: ``
+* Titel: `CoD Black Ops Cold War - #17 - Operation Roter Circus [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt da draußen noch mehr als nur eine eventuelle atomare Bedrohung. Da sind außerdem noch die Agenten von denen wir wissen das sie mit Perseus zusammenarbeiten. Und das können wir ja nicht weiter riskieren. Daher setzten wir heute ein paar Hinweise zusammen und machen uns dann als Mason auf die Jagt nach dem Anführer bzw. Verwalter der Schläferagenten. Ich muss an der Stelle übrigens direkt feststellen das ich irgendeinen Schusselfehler gemacht habe und am Ende nur 2 von den 3 Agenten gefunde habe. ich weiß nicht genau wie das passieren konnte aber es tut mir irgendwie Leid. Ich möchte behaupten das ich schlau genug sein sollte um das nicht zu tun. Wahrscheinlich können wir hier ein Stück Selbstfindung rein interpretieren, wenn man nicht auf die Details achtet und Dinge nur mal so eben schnell nebenher macht dann ist es sehr schwierig ohne großes Glück 100% Erfolg zu erreichen. Auch als Mason rennen wir etwas kopflos rum.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
+
+##### #18
+
+* Titel: `CoD Black Ops Cold War - #18 - Cuba [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird Zeit für einen kleinen Szenenwechsel, Berlin und Deutschland im Allgemeinen ist ziemlich verregnet und das schlägt aufs Gemüt. Ich weiß übrigens das es auch Leute an sonnigen Orten gibt die das ständige Sonnenwetter leid sind, nicht weiter verwunderlich, schließlich ist es immer warm und das kann auf Dauer auch ziemlich anstrengend sein. Wie dem aber auch sei, wir sind nicht zum Vergnügen in Cuba, stattdessen wollen wir dort ein Labor auseinander nehmen. Oder eine Einrichtung? Wie dem aber auch sei, wir wissen das unsere vermisste Atombombe dort ist, und die brauchen wir doch so dringend wieder. Außerdem wurde Perseus gesichtet, oder zumindest einer seiner Komplizen, die Chance ist also ziemlich groß das wir ihn dort finden. Also gibt es kaum etwas Anderes als sofort nach Cuba zu fahren, dies könnte das Ende unseres großen Einsatzes sein.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #19
+
+* Titel: `CoD Black Ops Cold War - #19 - die rote Tür [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Einsatz in Cuba war ein Fiasko. Oder auch nicht, wir sind irgendwie weiter gekommen aber trotzdem fehlen uns noch ein paar wichtige Spuren. Außerdem ist Lazar ziemlich sicher tot wenn er nicht grade durch ein Wunder gerettet wurde. Das ist außerordentlich ärgerlich, immerhin konnten wir Park retten. Ich bin mir übrigens nicht ganz sicher ob es wirklich so eine großartige Idee war Park zu retten. Das Ergebnis unserer noblen Tat sehen wir ja jetzt vor uns. Es scheint das nicht alles was wir geglaubt haben wirklich so wahr ist wie angenommen. Stattdessen durchleben wir heute eine Menge von Erinnerungen. Erinnerungen von denen ich irgendwie annehme das sie gar nicht einmal so echt sind. Erinnerungen die uns jemand gegeben hat um Nähe zu schaffen, jemand der uns eigentlich  gar nicht nah steht. Immer wieder schön wenn man Dinge über sich selbst heraus findet oder?
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDVHier
+  ```
+
+##### #20
+
+* Titel: `CoD Black Ops Cold War - #20 - der letzte Countdown [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns dem Ende. Es scheint so als konnte nur unsere Ehrlichkeit die freie Welt vor der sowjetischen Aggression retten, jetzt müssen wir nur noch einen letzten Vorstoß auf Solowezki und schon ist alles gerettet. Dabei spielen wir aber ein Spiel gegen die Zeit, Perseus weiß spätestens wenn er Helikopter hört das wir auf dem Weg sind. Mir ist ehrlich gesagt nicht ganz klar wie wir überhaupt etwas tun können. Wenn bereits klar ist das Perseus den Code hat den er nur noch in sein Radararray einspeisen muss dann frage ich mich worauf er noch gewartet hat? Das all seine anderen Bausteine bereit stehen? Aber selbst wenn könnte er doch auslösen lange bevor unsere EMP Geheimwaffe überhaupt aktiv wird. Was ich übrigens auch nicht verstehe warum sofort nachdem klar wurde das Perseus die Codes hat Techniker angefangen haben das Greenlight Arsenal zu entschärfen, es wird doch wohl um jede Bombe herum eine Menge von Agenten geben oder? Anscheinend braucht man übrigens genau eine Stunde von Cuba nach Berlin, ich finde das ziemlich beeindruckend. Oder war das nur bis Hudson und der Präsident telefoniert haben? Am Ende  retten wir auf jeden Fall die Welt und erhalten die Belohnung die uns als aufrechter Agent beider Seiten zu steht.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #21
+
+* Titel: `CoD Black Ops Cold War - #21 - Asche zu Asche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der ersten Variante haben wir die Welt gerettet, aber am Ende wurden wir von Adler erschossen. Eventuell haben wir ihn auch noch mitgenommen aber so richtig befriedigend war das nicht. Schließlich kommt am Ende heraus das wir die ganze Zeit ein KGB Agent waren und eigentlich gegen die Amerikaner arbeiten. Für mich ist übrigens nicht so ganz klar das wir wirklich ein Agent des KGB sind/waren. Aber aufgrund der Tatsache das wir an der Kopfseite des großen Besprechungstisches der Perseus Operation saßen würde ich jetzt einmal spontan annehmen das wir eigentlich doch recht wichtig für die gesamte Operation waren. Der Typ den wir bisher immer als Perseus bezeichnet haben ist auf jeden Fall relativ stolz auf uns, so ganz am Ende. Aber um bis zu dem Ende zu kommen müssen wir zu erst einige Entscheidungen anders fällen, einen anderen Weg im Traum gehen und letztendlich ein kleines Zahlenschloss knacken um dann dahinter einen Raum zu finden, einen Raum in dem wir alte Spiele spielen können, Akten lesen, und viel wichtiger, ein Funkgerät finden. Und dann nehmen die Dinge ihren Lauf.
+  An der Stelle könnte ich übrigens noch ein wenig weiterspinnen. Ich bin ein wenig unsicher wie weit der interne Zerfall der Sowjetunion 1981 bereits vorangeschritten war, aber eventuell war es eigentlich schon zu spät. Nach meinen Geschichtsverständnis sind die Russen nicht untergegangen weil der Druck von Außen so  groß war und andere System so mächtig, sondern weil man intern kollabiert ist. Das passiert mit großen Imperien übrigens ziemlich oft. Andauernd quasi. Ich wünsche mir das große Reiche länger leben wenn sie moralisch aufrichtig und "rechtens" sind, aber irgendwie habe ich das Gefühl das das nur Wunschdenken ist und die Realität anders aussieht. Wie dem aber auch sei, selbst wenn sich die Partner der USA abgewandt hätten und halb Europa ihrer wichtigsten Institutionen beraubt wäre, ich glaube irgendwie nicht das die Sowjetunion daraus wirklich einen positiven Gewinn hätte ziehen können. Von allem was ich so aus den DDR-Erzählungen meiner Eltern gehört habe war man in vielen Dingen einfach Rückschrittlich und hätte den Westen nicht aus eigener Kraft aufholen können
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+## Fazit
+
+> Call of Duty Black Ops Cold War ist ein Ruf der Pflicht Spiel das zur Zeit des kalten Krieges spielt. Insgesamt kann ich sagen, jetzt wo ich die Handlung durchgespielt habe, das die Kampagne nicht schlecht war. Es gab eine Menge kleine Entscheidungen die am Ende Bethesda-artig Dinge ändern und einen gewissen Einfluss auf den Lauf der  Dinge simulieren. Die Kampagne war kurz und bestimmt eine Enttäuschung wenn man sich ein CoD Spiel nur für die Kampagne kauft, als zusätzliche Dreingabe war sie aber eine willkommende Abwechselung die eine spannende Story in einem kurzweiligen Format erzählt. Die Schwierigkeit war bis auf eine Stelle ebenfalls in gleichmäßigen Maßen für mich genießbar. Die Stimmung und insbesondere das erdrückende Gefühl ein Geheimagent weiter hinter feindlichen Linien zu sein kam ziemlich gut rüber. 

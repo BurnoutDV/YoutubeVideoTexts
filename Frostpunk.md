@@ -691,3 +691,13 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.
   ```
+
+## Fazit & Playlist 
+
+> Frostpunk ist ein Survival Spiel das in einer kalten Welt spielt. Ausgangslage ist die Technik von 1870 oder so plus ein wenig SciFi, man denke an Wild Wild West oder die Liga der außergewöhnlichen Gentleman. Irgendwelche Vulkane machen kalt, die Leute haben Angst und fliehen, etwas unverständlich für mich, nach Norden um dort eine letzte Bastion aufzubauen.
+>
+> Da es sich um ein Survivalspiel handelt und ich durchaus scheitern kann werde ich höchstwahrscheinlich mehre Durchläufe brauchen.
+>
+> Fazit:
+> Ganz allgemein waren die ersten Addons und die Hauptkampagne von Frostpunk ein interessantes Erlebnis. Da ich nur auf dem mittleren Schwierigkeitsgrad gespielt habe konnte ich die meisten harten Entscheidungen umschiffen, ich bezweifle aber das man großartig Chancen hat bestimmte Ereignisse in den entsprechenden Kampagnen zu überleben wenn man nicht schon vorher weiß auf was man sich vorbereiten muss. Das reaktive Gameplay war eher beschränkt. Einzig das letzte Szenario hat mich enttäuscht, *On the Edge* hat ziemlich wenig neue Inhalt gebracht und die Inhalte die da waren waren wenig kreativ, der letzte Herbst war wesentlichc interessanter in der Hinsicht.
+

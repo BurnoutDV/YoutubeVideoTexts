@@ -828,6 +828,71 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
+##### #64
+
+* Titel: `Shadow of the Tomb Raider - #64 - Laras Schatten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dieses Spiel heißt "Shadow of the Tomb Raider", der Name hat bisher relativ wenig Sinn ergeben, das Cover Bild stellt aber eine Lara Croft da die anscheinend bereit ist über Leichen zu  gehen. Bisher war, dank Ludonarrativer Dissonanz, Fräulein Croft eigentlich immer recht zart beisaite, die paar hundert Söldner die wir bereits im Vorgänger getötet haben zählen nicht wirklich. Das war alles Notwehr und hat zum Glück überhaupt kein Trauma hinterlassen. Viel mehr ist es aber jetzt so diesmal wirklich was mit Lara passiert ist, jemand der ihr wirklich nahe stand ist gestorben und jetzt ist sie alleine im Wald. Nicht ganz alleine, es gibt immer noch Armeen von Söldnern die sich auf einmal im Dschungel Perus eingefunden haben die sie jagen. Oder aber wir jagen die. Es ist schließlich dunkel und wir haben ein Messer. Das kann man auch einsetzen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #65
+
+* Titel: `Shadow of the Tomb Raider - #65 - Blutrausch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lara Croft ist eine Killerin. Wir wissen das schon lange aber das Spiel möchte uns seit drei Ausführungen etwas Anderes erzählen. Ich weiß nicht wirklich viel über die Spiele die vor 2013 herauskamen aber die Lara von damals war wohl anscheinend ziemlich tough und hatte eher keiner seichten Seiten. Die jetzige Lara könnte man durchaus als schwach bezeichnen. Vielleicht aber auch als menschlich, auch wenn das ein wenig unglaubwürdig ist. DAs sie noch menschlich ist könnte aber damit zusammenhängen das sie noch etwas hat an dem sie hängt im Leben. In diesen Fall ist das scheinbar Jonah der heute für Tod gehalten wird. Das bricht dann auch das letzte Stück Selbsterhaltung in Fräulein Croft was wiederum dazu führt das die gute Frau zum Berserker wird. Da wir bereits vorher quasi kugelsicher waren wird das jetzt auch nicht besser. Nur das wir noch mehr zurückschießen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #66
+
+* Titel: `Shadow of the Tomb Raider - #66 - Mission des heiligen Johannes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach der Aufregung in der letzten Mission geht es jetzt wesentlich ruhiger zu, anstatt wild um uns zu ballern schleichen wir jetzt durch den Dschungel, unter Anderem aber auch weil die Aufregung beim letzten Mal schon ziemlich viel war und wir uns ja nicht direkt wieder in Gefahr bringen müssen oder? Das wir heute von diversen Wölfen und Leoparden angefallen werden ist nur ein kleines Ding, das zählt nicht als Vorfall denke ich. Wir finden heute übrigens das Kloster des heiligen Johannes. Oder besser gesagt dessen Überreste, es scheint so als wäre die christliche Mission relativ aktiv gewesen bevor man entweder aufgegeben hat oder der Meinung war das man genug getan hat und die Arbeit einstellen kann, soweit ich das verstehe sind große Teile von Südamerika recht christlich. Ich sollte mir dringend dazu mal etwas durchlesen. Warum waren die Missionare hier so erfolgreich? Es ist ja nicht so das die Leute nicht vorher schon eine Religion hatten. Seltsam.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #67
+
+* Titel: `Shadow of the Tomb Raider - #67 - Baum des Lebens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute rege ich mich auf, das kommt daher das wir eine Höhle erkunden die am Ende "Baum des Lebens" bzw. Lebensbaum heißt. Wir laufen wirklich über ziemlich viele Äste und komischen Wippen rüber, die eigentlich Höhle ist aber keine wirkliche Herausforderung, ich komme ziemlich schnell an ihr Ende. Was ich allerdings nicht schaffe ist aus der Höhle wieder heraus zu kommen. Wenn diese Episode endet sind noch weitere 20 Minuten  vergangen in denen ich wahllos im Kreis gelaufen bin um einen Ausweg zu finden und es nie tue. In der nächsten Folge werde ich ihn dann gefunden haben, und es war auch gar nicht so schwer, aber dennoch finde ich den gesamten Ausweg schlechtes Design und die Tatsache das es kein Leuchtfeuer gibt mit dem ich mich einfach herausteleportieren kann ist auch sehr schade. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #68
+
+* Titel: `Shadow of the Tomb Raider - #68 - der Pfad der Angst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem die letzte Höhle so ein wenig schwer war widmen wir uns dann heute direkt der Nächsten. Eigentlich wissen wir noch gar nicht ob es sich wirklich um eine Höhle oder eher um eine Prüfung handelt. Vielleicht findet es auch in lichten Höhen statt wo starker Wind weht. Was wir aber wissen ist das es sich Pfad der Angst nennt und das Uchu einst auch versucht hat ihn zu betreten, damals aber nicht erfolgreich war und stattdessen eine sehr unschöne Narbe davongetragen hat. Seit dem ist er nicht mehr derselbe und er möchte auch nicht über das Erlebte sprechen. Zumindest sehen wir heute aber mit Lara was ihr Pfad der Angst ist. Ich frage mich aber dennoch was Uchu eigentlich gesehen hat, weil sein Leben kann auf keinen Fall so spannend gewesen sein wie die adrenalintriefende Existenz von Lara Croft die sich als Lebensziel gesetzt hat soviel Kulturgüter wie nur irgend möglich vor ihren 30ten Geburtstag zu vernichten. Und wenn man dabei die Bevölkerung eines kleine Stadtstaates auslöscht ist das auch okay.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

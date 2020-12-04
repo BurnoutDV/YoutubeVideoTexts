@@ -575,3 +575,8 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Alan Wake auf dem Dienstags Slot.
   ```
+
+## Fazit
+
+> Fazit,
+> Alan Wake war ein mittellanges Spiel aus den frühen 2010er Jahren. Technisch und grafisch zum Zeitpunkt meines Playthroughs im Herbst 2020 nicht mehr ein Überflieger. Die Story ist linear und ohne Entscheidungen. Dennoch ist Alan Wake dadurch kein schlechtes Spiel! Die Geschichte und die einzelnen Puzzlestücke nach und nach durch die gefundenen Manuskriptseiten zusammenzupuzzeln und anhand der gefundenen Seiten die Zukunft vorherzusagen oder Ereignisse einzuordnen war ein großer Spaß. Noch interessanter wird das Ganze wenn man weiß das das Studio hinter Alan Wake, Remedy, ihre anderen Spiele (Control, Quantum Break) in das gleiche Universum eingebaut hat und bereits Alan Wake Anzeichen für die folgenden Spiele zeigt. Einige wenige Stellen waren aber aufgrund der Munitionsknappheit ein wenig frustrierend insbesondere weil der Hauptheld Wake die Ausdauer eines 70jährigen hat.

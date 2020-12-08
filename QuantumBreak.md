@@ -67,6 +67,58 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
+##### #6
+
+* Titel: `Quantum Break - #6 - Amy Ferrero [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir ganz kurz Paul Serene waren haben wir eine menschliche Entscheidung gefällt, wohl wissend das es darauf hinausläuft das Amy Ferreror nicht lange in Gefangenschaft bleiben wird. Es ist eigentlich seltsam das er nicht einmal versucht hat zu verhindert das sie entkommen kann. Zum Beispiel in dem er seine Leute über die Möglichkeit informiert, Amy besser bewachen lässt oder oder oder. Das spricht irgendwie dafür das Paul Serene bereits eine Menge Zukünfte gesehen hat und weiß das er nichts verändern kann. Oder aber sein Wille erschöpft ist weil jede Veränderung am Ende wieder genau so darauf hinausläuft das alles wie vorher ist. So oder so haben wir immerhin eine junge Frau verschont, und ihre Mitdemonstranten. Das ist immerhin etwas wert. Die menschliche Entscheidung, ich bin schon sehr gespannt wie hinterher mein Leben schwerer wird weil mich die Bewohner der Stadt hassen werden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #7
+
+* Titel: `Quantum Break - #7 - Lagerhäuser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht immer kann man sich als internationale Mega-Corp aussuchen wo man seine Zentrale der Macht hinstellt. Klar, die Verwaltung von Monarch Solutions steht ganz woanders, aber das geistige Zentrum ist hier genau in Riverport, deswegen wird hier auch die hiesige Universität gefördert. Das Epizentrum aller Bemühungen der Firma scheint sich auf die Nähe eines Trockendocks zu beziehen. hier werden enorme Geldmittel dazu eingesetzt einen bestimmten Bereich zu sichern. Das ist interessant weil ansonsten eigentlich nur ein paar leere Lagerhäuser zu finden sind. Wirklich, wir rennen heute mit Jack Joyce durch ziemlich viele von denen durch, und außer ein paar Schläger von Monarch finden wir echt wenig Inhalt. Was es dafür aber gibt sind komische Anomalien, fast so als wäre die Landschaft hier ein wenig kaputt und irgendwas würde mit der Realität passieren. Aber damit beschäftigen wir uns wenn wir weiter vorran kommen, für den Moment schauen wir uns einfach die Spuren einer einst reichen Logistik an.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #8
+
+* Titel: `Quantum Break - #8 - Chronopartikel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das das Phänomen das wir grade seit einiger Zeit beobachten der Wissenschaft schon länger bekannt ist. Das ist ein wenig seltsam, die Zeitmaschine die wir im Labor gesehen hat hat ja auch irgendwie Chronopartikel benutzt um ihre Funktion aufzunehmen. Jetzt stellt sich heraus das Monarch auffällig viel über die Chronopartikel weiß obwohl die Dinger doch eigentlich eine sehr neue Entdeckung sind und nicht erst seit Gestern bekannt sind. Sogar so bekannt das sie bereits zu Waffenzwecken genutzt werden. Das alles hat schon so einen gewissen Geschmack, gut wir wissen bereits das Paul Serene anscheinend in die Vergangenheit gegangen ist um dort dann Dinge zu tun und daher eine Menge Wissen durch die Zeit gebracht hat. Dennoch, das Informationsgefälle ist irgendwie ein wenig unfair. Wird Zeit das wir dagegen etwas tun.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #9
+
+* Titel: `Quantum Break - #9 - Williams Labor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erleben diese Geschichte größtenteils aus der Perspektive von Jack Joyce, Bruder des anscheinend toten aber auf jeden Fall genialen Wissenschaftlers William Joyce. Der hat irgendwas mit Zeit erforscht und so wie es scheint war seine Sicherheit das die Zeit enden wird daher begründet das er Forschungen in der Richtung unabhängig von Monarch betrieben hat. Scheinbar sogar lange bevor er überhaupt zu dem Monarch Projekt hinzugezogen wurde. Wie dem aber auch sei, mir scheint immer mehr das die ganze Geschichte hier zyklisch ist. Die Zeitforschung ist nur möglich weil jemand aus der Zukunft in die Vergangenheit kam um diese Bemühungen anzutreiben und damit erst die Reise in die Vergangenheit ermöglicht hat. Das wirft Fragen auf die wir unmöglich aus dieser Realität heraus beantworten können. Das nervt ein wenig. Aber so wie es scheint ist die Forschung von William daran schuld das Monarch hier am Trockendock Chronopartikel einsammeln kann. Interessanterweise nimmt die Generation von Partikeln aber ab je näher wir uns dem Ende der Zeit nähern. Was genau hat William also in seinem Labor anders gemacht als wir in der Anlage von Monarch. Fragen die ein Besuch seines Labors leider nicht beantwortet. Wahrscheinlich weil wir zur falschen Zeit dort sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1371,6 +1371,58 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #106
+
+* Titel: `Risen - #106 - Banditenlagerbarriere [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns langsam aber sicher dem Ende von Risen. Beziehungsweise diesem Teil von Risen, es kommen ja noch zwei Teile in denen wir dann irgendwie den Konflikt lösen wollen den wir in diesem Fall angefangen haben. Ich hoffe inständig das es dieses Mal nicht ganz so katastrophal laufen wird wie es bei Gothic 3 geschehen ist, am Ende die Serie so verwässert das quasi nichts mehr übrig geblieben ist. Ich bin mir übrigens nicht sicher was ich nach Risen 3 mache, vielleicht gibt es ja bis dahin schon Elex 2 und ich habe einen weiteren Schritt den ich gehen kann. Wollen wir aber nicht übermütig werden, noch ist gar nichts passiert,  wir haben noch nicht einmal den ersten Teil der Titanenlordrüstung die wir aber dringend für alle weiteren Operationen brauchen. Daher machen wir uns heute zur ersten Barriere auf. Die liegt unter dem Banditenlager, ich darf übrigens davon ausgehen das die Barrieren nicht in beide Seiten blocken, oder das die Echsen einen Mechanismus haben die Barriere temporär zu überwinden, Fincher berichtet von Echsenangriffen und bei einer genaueren Sicherheitsinspektion des Lagers habe ich keine Anzeichen dafür finden können das es noch einen anderen Eingang in die Tiefen des alten Echsentempels gibt. Sehr seltsam. Ich wittere hier ein Handlungsloch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #107
+
+* Titel: `Risen - #107 - Meister des Axtkampfes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich finde heute eine Axt. Das ist an sich noch nichts Besonderes, ich ahbe bestimmt schon viele Äxte gefunden, obwohl ich, wenn ich zurück denke, nicht sagen kann ob ich zwischenzeitlich auch nur eine Axt dabei hatte die irgendwie gut war. Klar, wir haben eine Menge (zwei) zerbrochene legendäre Waffen gefunden und zwischendurch sogar intakte Schwerter. Aber das waren eben Schwerter, das das irgendwann einmal Äxte dabei gewesen wären kann ich nicht sagen. Auch bei der lokalen Schmiedeausbildung ging es eigentlich immer nur darum Schwerter herzustellen. Daher ist es jetzt doch ein wenig überraschend vor einer Axt zu stehen. Aber endlich habe ich eine Verwendung für all die vielen Fähigkeitspunkte die vorher über waren. Und wir dürfen uns weitere Dialoge anhören, daher werden wir, logischerweise, heute Meister im Axtkampf. Weil wir es können, und weil die Titanenaxt besser ist als mein Schwert, zumindest vom Schaden her.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #108
+
+* Titel: `Risen - #108 - Seitentunnel des Feuers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute spreche ich über die Wichtigkeit sich die richtigen Wörter für die Benennung von Dingen vorzuhalten. Zum Beispiel wenn man einzigartige Dinge benennen will. Gutes Beispiel heute zum Beispiel: Episodentitel. Wir machen heute eigentlich nicht viel mehr als durch irgendwelche nicht näher benannten Echsenruinen zu springen. Viel übrig geblieben ist ja nicht von der einstigen Glorie der Echsen. Was wir wissen ist das es sich auch nicht wirklich um Einrichtungen oder Behausungen gehandelt hat sondern viel mehr um Gräber für die Ehrenhaftesten der Echsen. Ansonsten erfahren wir ziemlich wenig über die Hierarchie oder auch nur die Kultur der Echsenmenschen. Darüber hatte ich mich aber schon in der Vergangenheit beschwert. Wie dem aber auch sei, heute sehen wir ein wenig mehr Lava als mir eigentlich lieb ist, übrigens kann man das berechnen wie viel Wärmeenergie glühende Lava pro Sekunde abgibt. sagen wir so, es ist wirklich viel. Unser kleiner Held sollte eigentlich nicht mehr wirklich leben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #109
+
+* Titel: `Risen - #109 - Titanenschild [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das die Titatenrüstung die wir angeblich zusammensuchen sollen eigentlich gar keine Rüstung ist sondern eine komplette Ausrüstung- das ist dezent irreführend möchte ich anmerken. Außerdem lässt es vermuten was für eine Art von Endkampf sich uns jetzt bald bieten wird. Man sichert uns eine Waffe und die zusätzliche Ausrüstung diesen auch zu beschreiten zu. Interessanterweise ist das Einzige was wir bisher nicht gefunden haben übrigens die Rüstung. Heute finden wir zum Beispiel einen Titanenschild, ob wir den dann am Ende brauchen steht auf einen ganz anderen Blatt. Bisher sieht es ja eher so aus als könnte ich mich nicht wirklich mit den Kampf mit schweren Äxten abfinden. Ich freue mich schon gewaltig auf den großen Kampf gegen entweder Medoza oder den Feuertitanen oder Beiden. Wird bestimmt großartig mit einer Waffe die ich gar nicht will.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1380,3 +1432,4 @@
   ```markdown
   Hier
   ```
+

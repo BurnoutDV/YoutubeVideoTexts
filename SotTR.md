@@ -893,7 +893,59 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
-##### #Nummer
+##### #69
+
+* Titel: `Shadow of the Tomb Raider - #69 - Tal der Affengötter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich könnte diese Episode auch "Das Tal der Musik" heißen, oder ich habe irgendeinen Teil der Mythologie der Inka verpasst der mir erklärt das die Affen sehr musikalisch sind und ganz viele Trommeln haben. Wie dem aber auch sei, am Ende der ganzen Geschichte gibt es übrigens wirklich einen Schatz, aber es ist offensichtlich das dieser Ort nicht dafür geschaffen wurde irgendwelche Geheimnisse zu verwahren. Stattdessen wird hier Musik gemacht, leider ist beim besten Willen nicht ersichtlich um was für eine Art Musik es sich handelt. Erneut bin ich aber schwer beeindruckt das alle Konstruktionen so funktionieren wie sie es  tun. Auch finde ich übrigens sehr erfreulich das Lara nie in Frage stellt wie die Dinge überhaupt funktionieren. So ist das doch sonst immer die erste Frage die die Leute stellen: Wie kann das hier noch so gut erhalten sein?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #70
+
+* Titel: `Shadow of the Tomb Raider - #70 - Heulen der Affengötter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja wir sind immer noch im Tal der Affengötter, das Ganze hat sich ein wenig gezogen, ich hätte ja auch gedacht das wir irgendwie schneller unterwegs sind, aber dann kam Eines zum Anderen und dann hier noch und zack dauert das alles halt ne Stunde. An sich sollte ich mich eigentlich nicht beschweren, wir handeln immer noch im Rahmen einer Nebenmission die man wohl damals vor einiger Zeit hätte für gutes Geld kaufen müssen. Das habe ich aber nicht getan sondern stattdessen alles in einem Bundle erhalten. Bisher waren die kaufbaren Missionen auch immer klar daran zu erkennen das man am Ende heraustelelportiert wurde, größtenteils auch weil ein herausgehen sich als sehr schwierig erwiesen hätte. Dieses Mal könnten wir wohl theoretisch wirklich den Ort verlassen, wir müssten uns nur ein wenig Mühe geben und es würde einige Zeit dauern. Am Ende erfahren wir übrigens das Geheimnis eines starken Mittels um Feinde zu verwirren, wahrscheinlich kommt das für die Revolution aber ein wenig spät.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #71
+
+* Titel: `Shadow of the Tomb Raider - #71 - A'aron der Spion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auch in technologisch weniger hoch entwickelten Kulturen sind Informationen enorm wertvoll, man könnte vielleicht sogar sagen das sie sogar noch wertvoller sind. Wenn die Gegenseite keinen großen Wert auf Spionage oder Kundschafter legt, dann kann jede Information einen  gewaltigen Vorteil bedeuten. Heute versuchen wir einen jungen Mann namens A'aron zu retten, der spioniert für unseren unlängst befreiten Fleischfachverkäufer Hakan der sich ja nicht mehr in der Stadt sehen lassen kann. A'aron ist ein wesentlich besserer Spion als Lara es je sein wird, er lässt sich zum Beispiel nicht erwischen, das ist schon einmal ein großes Plus. Lara bringt einfach viel zu viele Menschen um, wenn die Leute schon wissen das eine Information weg ist ist ja auch nichts gewonnen..obwohl A'aron hier auch nicht ganz unschuldig ist, einen Mann hat er kaltblütig getötet. Vielleicht hatte er Familie.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #72
+
+* Titel: `Shadow of the Tomb Raider - #72 - der Gottesmörder [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Artefakte in der Welt denen man besondere Bedeutung zuschreibt, das ist auch im Tomb Raider Universum, oder sogar besonders im Tomb Raider Universum der Fall. Das Besondere ist das diese Artefakte scheinbar ziemlich selten sind, es also sehr unwahrscheinlich ist eines davon zu finden, und doch gründen sich darin Legenden. Generell und überhaupt sind die meisten Dinge die wir überall finden ziemlich gewöhnlich. Die Feuerwaffen die Trinity verwendet sind zum Beispiel ziemlich langweilig, haben aber immerhin spannende Namen. Das spricht übrigens nicht grade für den klaren Blick auf die Realität der Anhänger von Trinity wenn man nicht einmal seine Gerätschaften mit den richtigen Namen bezeichnen kann. Immerhin bei den Einwohnern von Paititi habe ich da mehr Nachsicht. Wir finden heute einen Bogen der da "Gottesmörder" heißt, das gute Stück ist erstmal ein normaler Bogen aber er scheint wenigstens in der lokalen Kultur eine gewisse Bedeutung zu genießen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #73
 
 * Titel: ``
 

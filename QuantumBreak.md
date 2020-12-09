@@ -119,6 +119,19 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
+##### #10
+
+* Titel: `Quantum Break - #10 - Trockendock [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen laufen wir schon die ganze Zeit im Trockendock umher und haben dort unseren Spaß. Spaß ist in diesen Fall ziemlich subjektiv aber wir können wohl davon ausgehen das viele Mitarbeiter von Monarch das Auftreten von Jack Joyce eher negativ sehen. Wie dem aber auch sei, heute sehen wir das gute Trockendock ein wenig näher als uns das lieb ist, oder besser gesagt dem Inhalt des Trockendocks, aktuell ein zerfallendes Schiff das hier wahrscheinlich in seine Bestandteile aufgelöst werden sollte. Das ist offensichtlich noch nicht passiert und wie es aktuell läuft wird es wohl nicht mehr passieren. Und wenn man bedenkt das bald die Zeit stehen bleiben wird und alles was ist einfach verschwinden wird dann kann ich auch nicht sehen das irgendjemanden noch einmal die Ruinen von dem was Jack Jocye ausgelöst hat zu beheben. Wie dem aber auch sei, wir überleben das Unterfangen natürlich, kann ja auch nicht anders sein oder? Wir sind schließlich der Held, das macht es übrigens viel einfacher Risiken einzugehen, es können vielleicht Dinge passieren die für die Allgemeinheit eher unerfreulich sind und auch unsere nächsten Vertrauten angeht, aber uns selbst kann eigentlich nichts Ernstes zustoßen. Das nimmt mir einen gewissen Stress weg.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

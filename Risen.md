@@ -1423,8 +1423,21 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #101
 
+* Titel: `Risen - #110 - Wiedersehen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir suchen immer noch irgendwelche Ruinen der alten Echsen in denen wir hoffen dann später Spuren der Titanenwaffen oder aber auch Rüstung zu finden. Bisher haben wir ja vor allen Dingen offensives Potenzial gefunden, das bringt uns aber wenig wenn wir tot sind bevor wir irgendetwas machen können um dem Zorn des Titanen standzuhalten. Daher suchen wir weiter, für einen kurzen Moment hatte ich übrigens wirklich befürchtet das wir die keine weitere Höhle finden werden und auf ewig auf Faranga im Kreis rennen. Wir können übrigens auch von Glück reden das die Echsen nie auf die Idee gekommen sind ihre Ahnen auf einer anderen Insel zu begraben. Unter diesen Umständen können wir wahrscheinlich heute auch von Glück sprechen das wir Patty wiedergefunden haben, die ist nämlich immer noch dankbar und möchte ihren kleinen Helden helfen. Süß oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+  
+  ##### #102 \
+  
 * Titel: ``
 
 * Beschreibung:
@@ -1432,4 +1445,3 @@
   ```markdown
   Hier
   ```
-

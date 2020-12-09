@@ -947,6 +947,19 @@
 
 ##### #73
 
+* Titel: `Shadow of the Tomb Raider - #73 - das Kloster San Juan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist Zeit, wir beschäftigen uns endlich mal mit den Dingen wegen denen wir wirklich hier in die Region gekommen sind. Es handelt sich um das Kloster San Juan, dort soll sich irgendwie die silberne Schatulle verstecken die ein Konquistador damals versteckt hat. Er selbst hat es irgendwie geschafft den letzten Herrscher davon zu überzeugen das er die beste Wahl für das Verstecken dieses wertvollen und unbezahlbaren Artefaktes ist. Inwiefern die silberne Schatulle überhaupt irgendwelche Macht hat ist nach wie vor unklar. Da das Finde des Dolches aber mit einigen Ereignissen zusammenhängt können wir wohl davon ausgehen das eine gewisse mystische Bedeutung nicht von der Hand zu weisen ist. Andererseits könnte es sich auch um ein Phänomen hier in der Landschaft handeln. Schließlich scheint die Region öfter Probleme mit Erdbeben und allgemeinen Unsicherheiten was die Tektonik angeht zu haben. Ich möchte also nicht völlig ausschließen das der Dolch einfach wirklich nur ein Dolch ist und sein Effekt auf die Realität ist quasi null. Das wäre ein starker Kontrast zu den magischen bzw. machtvollen Artefakten die wir bisher gefunden haben. Andererseits hält sich die Anzahl an Untoten die wir bisher gesehen haben auch ziemlich gegen Null.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #74
+
 * Titel: ``
 
 * Beschreibung:

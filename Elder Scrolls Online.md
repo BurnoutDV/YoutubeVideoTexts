@@ -1523,3 +1523,29 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+## MARKARTH
+
+##### #1353
+
+* Titel: `Let's Play ESO #1353 - Gwendis auf der Spur [Markarth Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 1 des Markarth DLCs - Sitzung 0 (Prolog)
+  
+  Es geht mal wieder los. Also eigentlich auch nicht, ich habe den Anfang bzw. den Release von Markarth verschlafen. Das kann man so sagen, schlimmer noch, ich habe sogar den Prolog verschlafen den ich hätte früher spielen können. Daher fangen wir heute erst  einmal mit dem Prolog an damit es einen ordentlich Übergang zum "Hauptspiel" gibt. Das kann sich wieder ein wenig hinziehen. Erfahrungsgemäß dauern diese Prologe ungefähr 2 Stunden und erklären uns noch ein paar Dinge. Für freien Inhalt gar nicht einmal so schlecht würde ich sagen. Im Großen und Ganzen kann man wohl kaum meckern wenn man umsonst zusätzliche Geschichte erhält. Geschichte die wir leben und erleben können. Alles fängt  damit an das wir Gwendis treffen...sobald wir sie gefunden haben...
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

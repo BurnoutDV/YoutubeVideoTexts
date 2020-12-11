@@ -132,6 +132,32 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
+##### #11
+
+* Titel: `Quantum Break - #11 - die Schwimmhalle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben einen Schlüssel zu einer Schwimmhalle gefunden. Das bringt uns nicht wirklich weiter, Jack sieht nicht so aus wie jemand der unbedingt in nächster Zeit ein paar Bahnen ziehen will. Da wir aber keine weiteren Spuren haben hilft wohl alles nichts und wir machen uns auf. Leider ist der Weg nicht besonders klar und der Schlüssel den wir gefunden haben scheint auch nicht für die Fronttür zu passen. Wir wären aber nicht Jack Joyce, legendärer Nichtstuer wenn wir nicht einen anderen Weg in die Halle finden würden. Und das tun wir auch, und nach nur einem kurzen Ausflug über den Dachboden finden wir dann auch den Weg in die eigentliche Anlage. Dort stellt sich dann total überraschend heraus das unser lieber Bruder William anscheinend einige Dinge getan hat um sich auf das Ende der Zeit vor zu bereiten. Etwas tragisch das er selbst nicht mehr erleben kann was jetzt alles passiert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #12
+
+* Titel: `Quantum Break - #12 - Zeitstränge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir schalten heute unsere gefundene Zeitmaschine an, da passiert auch erst mal überhaupt nichts, aber das wäre nicht zu erwarten, wir haben ja erfahren das man mit der Zeitmaschine nichts in der Vergangenheit verändern kann weil alles was geschehen ist bereits geschehen ist, das Einzige was man erreicht ist das man die gleiche Geschichte aus zwei verschiedenen Blickwinkeln zu sehen bekommt. Das ist übrigens auch irgendwie ganz nett, man könnte zum Beispiel das Jahr 2013 immer wieder und wieder erleben, einziger Wermutstropfen wäre allerdings das man selbst immer älter bei der ganzen Geschichte wird. Machen wir aber heute eh nicht, die Maschine hat wohl seit 1999 größtenteils ungewartet rumgestanden, die direkte Folge ist das wir sie nicht benutzen können. Dafür sind wir aber noch jemand Anderes heute und treffen die wichtigen Entscheidungen die die Zukunft verändert. Das wird bestimmt noch zu interessanten Verwerfungen führen. Spannend wäre zu wissen ob die gefällten Entscheidungen irgendwie ersichtlich auf unser Tun zurückzuführen sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

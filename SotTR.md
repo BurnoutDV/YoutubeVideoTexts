@@ -960,6 +960,32 @@
 
 ##### #74
 
+* Titel: `Shadow of the Tomb Raider - #74 - entdeckte Geheimnisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt immer ein weiteres Geheimnis, davon kann man schon mal ausgehen. Was jetzt aber nicht so überraschend ist das wir alle paar Meter irgendetwas finden, schließlich war hier noch nie auch nur ein Mensch. Das Ausgraben von Tierfellen, unbezahlbaren Artefakten und anderen Kleinoden ist damit also quasi garantiert. Immerhin hat es uns heute ziemlich lange im Kloster von San Juan gehalten, immerhin solange das wir dann auch sofort wieder rausgelaufen sind um die Sache mit den Geheimnissen doch ganz schnell wieder anzugehen. In diesem Fall handelt es sich dabei aber wirklich nur um irgendwelche Dinge die irgendwer irgendwann mal vergraben haben muss. Man fragt sich ja nach einiger Zeit schon ein wenig wie sich die Leute das leisten konnten. Wenn man so viele wertvolle Gegenstände vergräbt geht das ja irgendwann auch in die Finanzen. Und die Tatsache das das ganze Zeug noch da ist spricht ja irgendwie dafür das es nie geholt wurde. Offensichtlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #75
+
+* Titel: `Shadow of the Tomb Raider - #75 - Flutbecken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt immer eine weitere Höhle, mittlerweile bin ich überzeugt das antike Kulturen das mit Absicht machen. Sie haben ihre Spione in der ganzen Welt und sobald sich herausstellt das eine Lara Croft oder ein Nathan Drake in die Gegend kommt werden alle alten Anlange wiederhergestellt und wieder einsatzbereit gemacht. Klar hier und dort gibt es ein wenig Zerfall, nicht alles kann man in kürzester Zeit schaffen, aber ein benutzbares Niveau erreicht man eigentlich immer. Wer weiß wieviele Kulturen da draußen vergeblich auf den Besuch eines Abenteuerarchäologen warten der ihre tödlichen Fallen mit einer Mischung aus Glück, Draufgängertum, Finesse und tonnenweise Glück überwindet. Wahrscheinlich sind sie auch ziemlich traurig, schlimmer noch, wahrscheinlich kennt man sich untereinander und man hat interne Rankings welcher Archäologie wie lange für welche Anlage gebraucht hat. Ganze Wettwirtschaften leben von den Erfolgen und Misserfolgen von Lara und Kollegen. Das ist meine wesentlich rationalere Erklärung dafür das die Konstruktionen die wir andauernd finden noch funktionieren. Besser auf jeden Fall als "dieses Dings aus Holz hat eine nass-warme Umgebung ohne Probleme überstanden".
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

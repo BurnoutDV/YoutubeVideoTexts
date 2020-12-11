@@ -1540,6 +1540,34 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1354
+
+* Titel: `Let's Play ESO #1354 - Gelehrte der Bangkorei [Markarth Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 2 des Markarth DLCs - Sitzung 0 (Prolog)
+  
+  Nachdem wir dann Gwendis in Auridon gefunden haben geht es auch direkt weiter in die Bangkorei, dort hat die graue Schar vor ziemlich langer Zeit einmal gewirkt, wenn wir also Glück haben gibt es irgendwo noch einen Krieger der sich noch an die Dinge erinnert. Oder ein paar Gelehrte die auf Aufzeichnungen aus dritter Hand zugreifen können. Einmal vor Ort erfahren wir dann auch das dem durchaus so ist. Leider sind die Gelehrten unlängst verschütt gegangen. Das ist wiederum nicht ganz so toll, aber man kann wohl nicht alles im Leben haben. Wir gehen heute Gelehrte suchen, solche Eierköpfe sind ja dafür bekannt das sie sich selbst in Probleme bringen und gerettet werden müssen. Fast wie Prinzessinnen nur ohne das Königreich das man mit der Heirat eben dieser erhalten kann. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1355
+
+* Titel: `Let's Play ESO #1355 - Shelaria [Markarth Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 3 des Markarth DLCs - Sitzung 0 (Prolog)
+  
+  Nach einer Zeit die mir wie eine Ewigkeit vorkommt haben wir es dann doch endlich einmal geschafft die Kriegerin der Schürwacht zu finden. Die hat sich in eine eher ungünstige Position manövriert und ich bin auch sehr gespannt ob wir sie vielleicht später noch einmal treffen werden. Wie dem aber auch sei, ihr Name ist Shelaria und sie weiß immer etwas über den Verbleib der grauen Schar und was damals passiert ist. Unglücklicherweise sind die Informationen die wir letztendlich erfahren haben irgendwie nicht ganz so ergiebig wie ich gehofft habe. Es wäre eventuell leichter und Zeitsparender gewesen wenn ich mich so gleich in das Kloster der Schürwacht begeben hätte. Dort hätte man mir aber wahrscheinlich auch nur gesagt das man am Besten die Vergangenheit ruhen lassen wolle und das man ja gar keinen Grund hat in den alten Dinge zu graben. Warum auch, am Ende erfährt man noch wichtige Dinge für die Gegenwart, das will ja wohl keiner oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

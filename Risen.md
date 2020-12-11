@@ -1423,7 +1423,7 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #101
+##### #110
 
 * Titel: `Risen - #110 - Wiedersehen [Let's Play; ger; Blind]`
 
@@ -1436,8 +1436,34 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
   
-  ##### #102 \
+  ##### #111
   
+* Titel: `Risen - #111 - Wasserfallgrab [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir ziemlich sicher das ich an den Wasserfall den wir heute "betreten" schon einmal vorbei kam und irgendwas in der Richtung sagte das ich ganz glücklich bin das nicht hinter dem jeden Wasserfall eine Höhle ist. Es stellt sich heraus ich habe beim letzten Mal wohl nicht genau genug hingeschaut. Es stellt sich heraus, ja doch, hier ist eine Höhle. Wie hätte es auch anders sein können. Natürlich ist da eine Höhle. Was sonst? Und es ist selbstverständlich auch nicht nur eine kleine Kavität mit vielleicht ein paar Ratten drin, nein, der Gang geht wesentlich weiter bis in die tiefsten Tiefen wo dann bestimmt irgendein Teil der legendären Titanenrüstung zu finden ist. Ärgerlich, sehr ärgerlich sogar. Ich bin übrigens sehr fasziniert wie in all den Jahrhunderten die Einrichtung eigentlich größtenteils intakt überlebt hat und wir uns jetzt an einer wieder aufgetauchten Einrichtung erfreuen können deren Zugang hinter einem Wasserfall direkt ans Tageslicht führt. Es hätte ja auch sein können das die tektonische Bewegung den Wasserfall zum Einbruch in die Anlage geführt hätte, oder gar keine direkte Verbindung zur Oberfläche entstanden wäre. Ich denke mal wir können hier von echtem Glück reden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #112
+
+* Titel: `Risen - #112 - Wechselschalter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute habe ich eine wichtige Erkenntnis. Die Erkenntnis ist fundamental und nie da gewesen. Das Spiel entwickelt die Funktion von bestimmten bekannten Features ständig weiter. So wussten wir bereits das Druckschalter und Hebel Türen öffnen und bei weiterer Aktivierung diese auch wieder verschließen. Was wir aber nicht wussten war das wir den gleichen Schalter mehrfach drücken können um verschiedene Türen zu öffnen. Ich frage mich übrigens wirklich wie genau das eigentlich mechanisch funktioniert, insbesondere weil die Wände und Decken sowie Böden eigentlich ziemlich dünn und gleichzeitig massiv aussehen und scheinbar wenig Spielraum für mechanisch komplexe Seilzüge zulassen. Und das Beste, all diese Konstruktionen haben scheinbar auch noch die Jahrhunderte, wenn nicht sogar Jahrtausende überdauert ohne dabei an Funktionsfähigkeit einzubüßen. Das oder eine kürzliche Wartung der Echsen wurde vom namenlosen Helden nur knapp verpasst. Sei es wie es sei, das bedeutet aber auch das ich endlich weiter komme nachdem ich mich solange an diesem Ort geärgert habe. Das finde ich sehr erfreulich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

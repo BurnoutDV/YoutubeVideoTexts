@@ -1462,7 +1462,30 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #113
+
+* Titel: `Risen - #113 - Titanenarmbrust [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich finden wir heute mehr als die Titanenarmbrust, stattdesen finden wir auch noch Teil einer Rüstung, ein Teil der für sich stehen aber absolut wertlos ist. Viel wichtiger ist aber das wir noch gleichzeitig eine Fernkampfwaffe auftreiben. Ein Werkzeug das wir leider nicht gelevelt haben. Das kommst uns jetzt auch ein wenig ungelegen. Generell finde ich es nicht fair das ein Titanenlord anscheinend verpflichtet ist mit einer Axt zu kämpfen. Klar gibt es all die Titanenwaffen auch noch einmal irgendwie anders, aber nur die Axt wird hier richtig hervorgehoben. Das ist schade, aber es wäre ja noch tragischer wenn sich am Ende heraus stellt das wir all diese Waffen eigentlich gar nicht brauchen und der Endkampf gegen den Feuertitan eigentlich ziemlich lame ist. Aber ich möchte dem nicht vorgreifen, stattdessen tun wir heute erst einmal Eines nach dem Anderen. Zum Beispiel mit Patty reden, die will uns nämlich noch ein paar gute Hinweise auf den Weg geben. Eine nette Geste oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #114
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #115
 
 * Titel: ``
 

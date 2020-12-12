@@ -41,12 +41,28 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
-##### #Nummer
+##### #3
 
-* Titel: ``
+* Titel: `Cyberpunk 2077 - #3 - Rettungsaktion [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und hier ist sie, unsere erste Mission. Ein wenig abrupt vom Übergang, aber vielleicht kommt mir das auch nur so vor. Ich habe mir zwischenzeitlich angesehen wie die Origin-Story als Streetkid aussieht und dort ist die Erklärung wie wir zu Jackie gekommen sind ein wenig anders. Wie dem auch sei, wir sind scheinbar auf dem aufsteigenden Ast und haben heute die Mission jemanden zu retten. Das erscheint vielleicht ein wenig paradox, aber die Polizei von Night City hält sich immer noch an Gesetze, irgendwie. Das bedeutet aber auch das sie nicht einfach Leute umbringen kann, zumindest nicht auf Geheiß von kleinen Lichtern. Und auch wenn sie eventuell alles tut, sie sind definitiv teuer, einfacher ist es doch ein paar Runner zu engagieren. Zwar sind wir gar kein Runner sondern stattdessen eine bessere Art von Straßensöldner aber das ist im Context hier wahrscheinlich das Gleiche. Die Mission selbst kennen wir ja bereits aus der Gamescom Demo von vor zwei Jahren, bisher bin ich sehr neugierig wie endlich einmal der neue Content aussieht.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #4
+
+* Titel: `Cyberpunk 2077 - #4 - das Apartment [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  V hat eine Heimat. Das Apartment das wir bewohnen gab es übrigens zwischenzeitlich sogar kurz zu sehen. In der Anfangsequenz, ich gebe zu das ich das total ignoriert habe. Wie dem aber auch sei, heute gehen wir da mal hin und entspannen uns. Der Tag war nicht leicht und wir haben Dinge gesehen die nicht ganz so schön für den Magen waren. Leute komplett auseinandergerissen zu sehen wie sie um ihre Bauteile beraubt werden ist schon ziemlich harter Toback. Auf der anderen Seite eigentlich eine total logische Entscheidung, die Welt erscheint mir außerordentlich verroht zu sein, natürlich sehen die Leute die Ressourcen die sich ihnen bieten. Und Bauteile lassen sich besser ausbauen als richtige Organe die man irgendwie kühl halten muss. Genug davon, unser Apartment liegt in einem ziemlich generischen Wohnblock, davor lungern anscheinend ziemlich viele Leute rum und ich bin mir fast sicher das es nicht alle Leute so gut haben das sie eine richtige Wohnung besitzen. Vom Platz her ist unsere Bude eigentlich sogar ziemlich großzügig und es gibt anscheinend einige Verbesserungen die den vorhandenen Platz maximal ausnutzen. Was wir leider nicht machen könne ist unser Makeup verändern, das ist echt schade.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```

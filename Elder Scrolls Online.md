@@ -1568,12 +1568,26 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
-##### #Nummer
+##### #1356
+
+* Titel: `Let's Play ESO #1356 - die immergrüne Wacht [Markarth Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 4 des Markarth DLCs - Sitzung 0 (Prolog)
+  
+  Bei "immergrün" muss ich an den grünen Pakt denken. Um den geht es heute übrigens nicht. Stattdessen ist die erwähnt Wacht eigentlich nur ein sehr geräumiges Loch im Boden in den sich scheinbar die lokale Niederlassung von Robin Hood niedergelassen hat. Nebenbei gibt es hier noch ein uraltes Vampirversteck aber das kann man nicht sehen wenn man nicht selbst ein Vampir ist. Zum Glück haben wir Gwendis dabei, die sieht alles..und wir sehen natürlich auch den Weg, zwar sind wir vielleicht nicht so lange Blutsauger wie es Gwendis ist aber doch schon seit einiger Zeit, haben wir doch mit aktiven Vampirismus die Welt gerettet und sind zu Akatoshs Avatar aufgestiegen. Manchmal frage ich mich was passieren würde wenn die Leute erfahren würden was ich eigentlich bin. Aber scheinbar scheint Vampirismus wesentlich weniger auffällig zu sein als es das Spiel im ersten Moment suggeriert.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1357
 
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  
   ```

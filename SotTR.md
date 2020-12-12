@@ -984,6 +984,19 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
+##### #76
+
+* Titel: `Shadow of the Tomb Raider - #76 - Schwimmkurs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, Lara lernt heute nicht grade schwimmen. Tatsächlich schwimmen wir heute wie ein Otter durchs Wasser aber das ist ja auch nichts Neues. Stattdessen rede ich über das Schwimmen und das Schwimmenlernen. Alles nicht so einfach, es gibt da draußen ziemlich viele Leute die nicht schwimmen können und das ist ein echter Wettbewerbsnachteil wenn man in irgendwelche Gewässer fällt und elendig ertrinkt anstatt einfach aus der Geschichte raus zu kommen. Am meisten ist es aber wohl der Umgang mit dem Wasser. Wie dem auch genauer sei, ich rede heute darüber wie es ist Schwimmen zu lernen und mein Chat hat dann auch noch etwas dazu zu berichten. Daher ist das eine der seltenen Episoden bei denen der Titel tatsächlich davon abhängt was ich selber spreche anstatt was Lara macht. Das ist heute nämlich nicht besonders spannend. Im Großen und Ganzen leeren wir das Flutbecken, reden ein wenig mit Leute und dann war es das.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

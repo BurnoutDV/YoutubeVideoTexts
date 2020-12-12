@@ -158,6 +158,19 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
+##### #13
+
+* Titel: `Quantum Break - #13 - Serie, Episode 2  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist gar keine Episode, es ist viel mehr ein Stück Serie. Also ein Live-Action Movie. Ich sage so gut wie gar nichts, ganz am Ende kommt eine Einschätzung der Serie durch meine Wenigkeit. Ansonsten gucken wir uns einfach nur an wie der klischeehafte IT Typ keine Ahnung hat das er grade von der einen Frau da angegraben wird die ihn nach allen Regeln der Kunst um den Finger wickelt..oder eher nicht nach allen Regeln, ihr Versuch sieht ziemlich plump und offensichtlich aus, so offensichtlich das ich glauben würde das der gute Mann das auch erkennen sollte wenn er noch nie mit einer Frau geredet hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

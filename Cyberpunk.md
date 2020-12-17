@@ -66,3 +66,171 @@
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
+
+##### #5
+
+* Titel: `Cyberpunk 2077 - #5 - Doc Victor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jeder Straßenrunner der was auf sich hält hat natürlich auch einen Straßendoc der sich um den Einbau von Implantaten und anderer Cyberware kümmert. In diesem Falle sage ich übrigens Runner und meine gar keinen Shadowrunner sondern Netrunner. Die Namensgeschichte wird wahrscheinlich minimal verwirrend sein. Doctor Viktor Vector ist anscheinend eine echte Vertrauensperson für uns, Jackie hat den Kontakt für uns etabliert, ohne Jackie würden wir generell und überhaupt wesentlich schlechter da stehen. Der gute Doc scheint sich aber nicht nur um den Umbau und Erweiterung zu kümmern sondern auch um die Bereinigung der vorhandenen Probleme. Quasi wie ein richtiger Arzt. Interessanterweise wurde die Erhaltung und Wartung von Cyberware bis her noch gar nicht so recht thematisiert. Größtenteils scheinen die Leute ja alle irgendwelche Cyberware in sich zu tragen, aber niemand spricht darüber wie schwer es ist das Zeug in Schuss zu halten. Wenn es in ganz Heywood nur einen einzigen Straßendoc gibt muss es für all die Leute doch quasi ein Ding der Unmöglichkeit sein alles in bester Ordnung zu halten. Aber wahrscheinlich ist das so wie Leute mit Autos umgehen. Einfach aufbrauchen und solange Fahren wie es halt geht.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #6
+
+* Titel: `Cyberpunk 2077 - #6 - Dexter DeShawn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  El Gordito, der kleine Dicke, das ist Dexter DeShawn, seines Zeichens ein sogenannter Fixer, jemand der für uns die Verbindung von Leuten mit Geld zu Leuten mit Problem herstellt. Oder besser gesagt, mit Leuten die bald ein Problem mit uns haben werden. Sie wissen es nur noch nicht. Wir persönlich kennen Dexter nicht, allerdings hat T-Bug bereits einmal vor zwei Jahren für ihn gearbeitet, anscheinend um ihm zu helfen unterzutauchen. Jetzt ist er wieder da und scheint ein ziemlich großes Licht zu sein. Im Gegensatz zu Shadowrun scheinen die Fixer hier allerdings mehr sowas wie Bosse oder Spinnen im Netzt zu sein. Personen die man kennt. Wohingegen die Leute mit den Jobs in Shadowrun eher unauffällig waren und der Allgemeinheit eher nicht bekannt. Wie man es sich leisten kann in Night City allgemein als Kontaktperson für Söldner bekannt zu sein kann ich mir nicht erklären. Ich traue Dex auf jeden Fall nicht.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #7
+
+* Titel: `Cyberpunk 2077 - #7 - offene Straßen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Okay es ist soweit, jetzt kommt die erste von ungefähr 200 Episoden in denen ich einfach nur wild in der Landschaft rumrenne ohne dabei große Dinge zu erreichen. Stattdessen fahre ich einfach mit meinem mächtigen Gefährt durch die Welt und schaue mir Dinge an. Die Straßen sind übrigens nicht wirklich offen, unsere Möglichkeiten sind technisch gesehen sogar ziemlich begrenzt. Die ganze Stadt steht uns gar nicht zur Verfügung, auch wenn ich das an der Stelle vielleicht behaupte. Dennoch laufe ich ein wenig umher und schaue mir einfach mal an welche Informationen ich noch so aus der Welt ziehen kann ohne mit einen meiner Kontaktpersonen zu sprechen. Dafür finden wir aber andere lustige Leute, vor allen Dingen Solche die der kriminellen Seite der Welt angehören. Und dann entfernen wir sie von der Welt, einfach weil sie gute Ausrüstung bei haben die wir haben wollen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #8
+
+* Titel: `Cyberpunk 2077 - #8 - die Übergabe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zurück zu den wichtigen Dingen im Leben, wir kaufen einen Flathead Roboter, den holen wir uns von den Maelstrom Boys, die sind ziemlich bekannt dafür das sie ehrliche Geschäftsleute sind. Leider müssen wir uns vorher mit einer Frau von Militech auseinandersetzen die anscheinend auch ein wenig an den Roboter interessiert ist, oder eher, wie es passieren konnte das der Konvoy in denen der Flathead war überhaupt erst überfallen werden konnte. Alles in allem haben wir heute eine inhaltsvolle Episode, also ganz anders als die Letzte. Die Übergabe bietet übrigens ziemlich viele Varianten, ich bin sehr gespannt ob zukünftige Ereignisse ebenfalls so viele Möglichkeiten für mich bereithalten. Ansonsten bin ich übrigens sehr zufrieden damit wie das gesamte Ereignis über die Bühne gegangen ist, beim nächsten Mal wäre ich aber gerne besser ausgerüstet. Höchstwahrscheinlich ist es aber die Natur der Sache das man immer irgendwie nicht vorbereitet ist und spontan improvisieren muss.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #9
+
+* Titel: `Cyberpunk 2077 - #9 - der Weg nach Draußen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dies ist eine von den Episoden die ein wenig anstrengend sind für mich. Einfach weil der Titel für mich nichtssagend ist, und für euch auch. Zur Einordnung, wir sind noch am Anfang, wir haben grade einen kleinen Handel mit Maelstrom abgeschlossen und befinden uns jetzt auf den Weg nach Draußen um unsere Ware zurück zum Fixer zu bringen. Leider gibt es da noch einen kleinen Einsatz von Militech die anscheinend nicht mehr ganz so geduldig sind und jetzt sehr darauf erpicht sind doch noch ein paar Spuren über den Überfall auf ihren Transporter zu finden. Oder aber um ihre Spuren zu verdecken, so ganz klar ist das jetzt nicht. Wichtig ist nur, die schießen auf uns und anscheinend ist es ihnen ziemlich egal ob wir jetzt zu Maelstrom oder nicht gehören. Schon ein wenig unpraktisch das sich private Söldner nicht an korrekt Feindeinordnung halten.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #10
+
+* Titel: `Cyberpunk 2077 - #10 - Ortskontrollfahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zitat Wikipedia: 
+  "Ortskontrollfahrt, jugendsprachliche Bezeichnung für zielloses Umherfahren innerhalb geschlossener Ortschaften, siehe Cruisen"
+  
+  Der Name ist Programm, ich fahre heute ziemlich sinnlose durch die Pampa oder eher um das lokale Industriegebiet in dem Maelstrom wohnt und tun dort Dinge. Es sind nicht wirklich viele Dinge, es gibt da so ein paar Shootouts mit der Polizei, ein paar kleinere Geschichten mit den hier ansässigen Maelstrom Gangern und natürlich meinen phänomenalen Fahrkünsten. Insbesondere auf Letztere bin ich ziemlich stolz, aber im Vergleich zu meinen Reitkünsten mit Plötze können wir hier wohl von einer gewaltigen Verbesserung sprechen. Aber vielleicht liegt es auch einfach daran das Night City trotz aller Umstände immer noch flache Straßen hat durch die man ganz gut durchkommt.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #11
+
+* Titel: `Cyberpunk 2077 - #11 - Evelyn Parker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir treffen heute unseren Johnson, oder Mrs Smith. Frau Schmitt, wie auch immer. Nur das Frau Schmitt tatsächlich einen Namen hat. Sie heißt Evelyn Parker und ist, soweit ihr Äußeres diese Schlussfolgerung zulässt Edelnutte. Das ist in dem Sinne nicht einmal abwertend, jeder muss irgendwie durchs Leben kommen, und Frau Parker scheint eine Mischung aus Escort Plus und dubiosen Zielen sein. Aufgrund der Natur unseres Auftrages ist natürlich klar das Evelyn ein wenig mehr ist als es auf den ersten Blick den Anschein hat, für den Moment spielt das aber keine große Rolle. Wir treffen außerdem Mateo, der gute Mann ist Barkeeper im Lizzies was uns irgendwie zu denken geben sollte. Also mir gibt es zumindest zu denken, die meisten anderen Kassenpersonen haben keine Namen. Also, warum hat der Barkeeper im Lizzies einen Namen? Schenkt er vielleicht mehr als nur Getränke aus? Hat er weitere Informationen die wir noch nicht kennen? Wir werden sehen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #12
+
+* Titel: `Cyberpunk 2077 - #12 - der Gehirntanz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mir heute die Frechheit erlaubt das Wort Braindance einfach mal einzudeutschen. Die Bezeichnung ist nicht ganz korrekt aber in der Praxis ist es ein Erlebnis aller Sinne, es ist fast schon schade das wir nur den visuellen Teil sehen, insbesondere die Emotionen wären ziemlich interessant. Ich kann verstehen warum Leute gutes Geld für Braindance Episoden bezahlen wenn jemand stirbt. Sterben klingt nach einer interessanten Erfahrung wenn man danach noch davon erzählen kann ohne wirkliche Folgen zu tragen. Unabhängig davon, wir haben auch noch eine andere Erfahrung zu verzeichnen, eine Erfahrung die eher praktischer Natur ist. Viel interessanter dürfte übrigens alles werden wenn wir irgendwo weitere Braindance Ritte an anderen Orten finden und das Ganze frei verwenden dürfen. Ich bin übrigens ziemlich gespannt ob es das Feature noch häufig gibt oder ob es eher so ein Fahrenheit Ding ist und wir noch zwei Stück sehen und dann war es das. Der Altar der Enttäuschung bleibt weiterhin gedeckt.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #13
+
+* Titel: `Cyberpunk 2077 - #13 - Cyberschulden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir wurde in jungen Jahren beigebracht das es nicht gut ist Schulden zu haben. Die Realität sieht ein wenig komplexer in dieser Hinsicht aus. Eigentlich hat es sogar Vorteile Schulden zu haben wenn es die richtigen Leute sind bei denen die Schulden vorliegen. Mafia wäre zum Beispiel eher schlecht, wenn ich aber ein Land bin und irgendeine Bank Schulden bei von mir hat dann ist das ziemlich gut. Schulden bei Doc Victor zu haben ist eigentlich ziemlich gut für uns, er hat uns die Ware bereits gegeben, unser Lebensstil ist ziemlich gefährlich und soweit ich das sehen kann haben wir keine Angehörigen. Insofern würden die Schulden mit unserem Tod erlischen, der gute Doc hat also vitales Interesse uns daran zu helfen und solange wir die Illusion des Zurückzahlens aufrecht erhalten hat er alle Motivation dafür zu sorgen das wir am Leben bleiben. Von einer politaktischen Sicht her ist es also ein großer Fehler in zu bezahlen. Das und das ich vermute das wir in Zukunft bestimmt reicher sein werden.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #14
+
+* Titel: `Cyberpunk 2077 - #14 - das Afterlife [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich gibt es einen besonderen Nachtclub. Warum sollte es auch anders sein, übrigens eine wichtige Information die uns klar macht das die Konzerne mehr als oft auf die Hilfe von externen Fachkräften zugreift. Vielleicht um außerhalb der normalen Befehlskette etwas zu tun, oder weil bestimmte Dinge nicht so einfach den Kollegen, Vorgesetzten und Anderen zu erklären wäre. Wie dem aber auch sei, auch wenn die Geschäfte der Leute die man in einem Club wie dem Afterlife anheuern kann technisch gesehen illegal sind so werden sie offensichtlich nicht vermieden. Klar ist also, zumindest einige Leute in solchen Clubs kooperieren mit den großen Konzernen und diese Konzerne tun absichtlich nichts gegen Einrichtungen wie das Afterlife weil allen Parteien klar ist das die Dienste von Söldner und besonderen Profis früher oder später notwendig sein wird. Wahrscheinlich eher früher als später, reguläre Konzerntruppen wäre auch zu sehr eine offizielle Kriegserklärung als das sich das irgendjemand leisten könnte.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #15
+
+* Titel: `Cyberpunk 2077 - #15 - Konpeki Plaza [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es geht los, wir starten unseren ganz großen Coup, ich weiß bereits das alles was schief gehen kann schief gehen wird. Wir wissen bloß noch nicht wie genaue es geschehen wird, aber eigentlich wäre es nicht einmal die Frage gewesen wenn ich absolut nichts über das Spiel im Vorfeld gewusst hätte. Andererseits wäre es eine wirklich interessante Überraschung gewesen wenn wider erwarten doch wirklich alles funktioniert hätte und wir glatt durch kämen einfach weil wir die notwendigen Fähigkeiten haben. Da ich aber die Previews kenne weiß ich schon das es nichts gibt was wir tun können um die Operation zu retten. Schade eigentlich. Aber ich möchte den Dingen noch nicht so weit vorgreifen. Für den Moment ist noch nichts geschehen und wir können uns noch ein wenig dem Ambiente erfreuen, zum Beispiel der örtlichen Hotelbar, alles natürlich im besten Luxus. Allerdings muss ich sagen das mich persönlich die besonderen Angestellten des Ortes ein wenig verstören. Soweit ich das sehen kann ist die goldene Haut eine Art von Cyberware die auch an anderer Stelle eingesetzt wird, bestimmt irgendein Äquivalent zu Götterdiener in der japanischen Mythologie oder so. Aber, wenn man einmal da arbeitet ist es wahrscheinlich ziemlich schwer wider aufzuhören oder? Im schlimmsten Fall reißt einen Arasaka die Hautchips wieder raus, im Besten landet man genau mit dem Aussehen auf der Straßen, dagegen sind ein paar Tatoos irgendwie nichts oder?
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #16
+
+* Titel: `Cyberpunk 2077 - #16 - der Coup [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ihn immer, der eine Moment den man später als den Wichtigsten erkennt, diese eine Sekunde, dieses Umschlagen des Sekundenzeigers in der klar wird das sich die Dinge gewendet haben und das es jetzt wichtig ist vorsichtig zu sein. Manchmal erkennt man diesen Moment bereits bevor es überhaupt richtig losgeht. Oder bevor die wirklich schlimmen Dinge eigentlich passieren, man sieht vorher was sein wird. Man sieht vorher was kommen wird und das die Dinge keinen guten Verlauf haben werden. Etwas in der Art passiert uns heute. Unser Überfall geht los, wir brechen ein, fahren einfach nur Fahrstuhl und schon sind wir in der Suit in der unser Ziel liegt. Wir schnappen uns den Koffer und dann passieren Dinge. Man könnte übrigens sagen das wir einfach gewaltiges Pech hatten, wären wir nur einen Tag früher dagewesen wäre alles gut gewesen. Ein Tag später hätten wir zwar keinen Erfolg gehabt aber immerhin müssten wir auch nicht die Dinge sehen die wir gesehen haben. Aber es wäre keine Geschichte wenn alles klappen würde?
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

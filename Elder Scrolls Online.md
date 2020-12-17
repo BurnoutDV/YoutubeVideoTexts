@@ -1584,10 +1584,90 @@
 
 ##### #1357
 
+* Titel: `Let's Play ESO #1357 - Verandis Geheimnisse [Markarth Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 5 des Markarth DLCs - Sitzung 0 (Prolog)
+  
+  Wir hatten im Verlauf der gesamten Graumoor Geschichte irgendwie auch mit dem Haus Rabenwacht zu tun, eine Vereinigung von Vampiren die eine friedliche und zivile Lösung der Mensch-Vampir Beziehung anvisiert. Bisher waren die internen Motivationen des Hauses aber relativ egal für unsere Operationen. Auf unserer Reise mit Gwendis haben wir jetzt aber herausgefunden das es hier aber doch eine tiefere Verbindung zwischen dem ehemaligen Hausherren des Hauses und der grauen Schar gibt. Ich habe übrigens leider irgendwie vergessen das der gute Graf Verandis sich für Kluftspitze geopfert hat. Es ist einfach zu lange her, ich dachte eigentlich das der Mann noch lebt, bzw. "lebt". Das ganze Thema ist bei den örtlichen Vampiren immer ein wenig relativ. Wie dem aber auch sei, der gute Verandis hatte anscheinend Geheimnisse, die finden wir dann heute heraus.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1358
+
+* Titel: `Let's Play ESO #1358 - Grauheim [Markarth Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 6 des Markarth DLCs - Sitzung 0 (Prolog)
+  
+  Vampire sind anscheinend unfassbar unkreativ. Wirklich, es ist unglaublich, aber jede einzelne Festung der Vampires sieht exakt so aus wie die Anderen die wir schon gesehen haben. Das finde ich echt ziemlich schlecht, und auch wenn man als quasi unsterblicher Blutsauger nicht ganz so viele Emotionen hat finde ich es doch erstaunlich das alle von ihnen denken das grau-schwarz das beste Farbschema ist. Wirklich, das nervt, die Festung heißt Grauheim und sieht genauso aus, anscheinend war das Ding auch weniger als militärische Anlage geplant und mehr als Lustschloss Schrägstrich Forschungslabor für die restliche Vampir Baggage, und doch sieht es absolut unansprechend aus. Gibt es denn wirklich niemanden von den Vampir gewordenen Rassen und Völker der ein wenig Ahnung von Ästhetik hat. Oder war es einfach nur wichtig das die unschuldigen Opfer die ihres Blutes beraubt werden wahren Schrecken durch dem was sich den Augen bietet erleben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1359
+
+* Titel: `Let's Play ESO #1359 - Traumreise mit Verandis [Markarth Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 7 des Markarth DLCs - Sitzung 0 (Prolog)
+  
+  Wir reisen mal wieder in die Vergangenheit, und erneut erhebe ich die Kritik das ich immer noch auf das Spiel warte das Reisen in die Vergangenheit glaubhaft über die Bühne bringt ohne das es ein Kernbestandteil des Spieles ist. Passiert ist es bisher noch nicht und ich werde wohl noch einige Zeit darauf warten müssen, einfach weil es logistisch schwierig ist, müsste man doch all die Texturen und Modelle in Heile einfügen. Storytechnisch sind wir an irgendeinen Zeitpunkt in der weiteren Vergangenheit, wahrscheinlich in der ersten Era. Als Graf Verandis von der Rabenwacht ziehen wir grade ins Hotel Grauheim ein um unsere Experimente vorran zu bringen, aber zuerst reden wir einfach mit jedem der sich so findet.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1360
+
+* Titel: `Let's Play ESO #1360 - Steinhüllenritual [Markarth Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 8 des Markarth DLCs - Sitzung 0 (Prolog)
+  
+  Wir erleben auch heute wieder nichts Neues. Wir wissen bereits das man Vampire und anscheinend auch Werwölfe mit der richtigen Menge an Macht wieder zurückholen kann. So wie das Sterben im Elder Scrolls Universum aussieht gehen die meisten Seelen wieder zurück in den Ursprung, werden quasi gelöscht und dann wieder verwendet. Ob es dabei eine Unterscheidung zwischen Tier und höheren Seelen gibt ist mir nicht bekannt. Wenn man sich aber einem Daedra nähert weil man zum Beispiel ein Vampir ist landet man am Ende in Kalthafen, je nach dem wie man gedient hat geht es von da an dann irgendwie weiter. Im Großen und Ganzen können die Daedra nicht direkt in Nirn eingreifen, man kann also als Vampir seinen Herren mächtig ärgern aber nach dem Tod landet man dann wahrscheinlich in der örtlichen Folterkammer. Man kann dann die Person mit einer direkten Reise in das Reich des entsprechenden Daedra irgendwie retten. Oder auch nicht, wir selbst haben zwischenzeitlich unsere Seele verloren und konnten dennoch umher laufen. Das Ganze ist ein wenig komisch und ich bin da ehrlich gesagt nicht auf dem höchsten Informationsstand. Das Besondere am Steinhüllenritual ist jetzt aber anscheinend das man die Leute ohne das große Risiko einer Reise nach Kalthafen retten kann. Das macht es ziemlich praktisch, effektiv ist es aber höhere Wiederbelebung da man den Körper und die Seele zurückerhält anstatt das man einen vorhandenen Körper mit der Seele wieder vereint und dann vielleicht noch ein wenig Bandage ran klebt damit der Körper auch hält. Es gibt da noch einen Preis der scheinbar recht hoch ist, aber wenn man nur ein paar Sterbliche opfern muss ist das ja fast okay nicht wahr?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1361
+
+* Titel: `Let's Play ESO #1361 - Ankunft im Reik [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 9 des Markarth DLCs - Sitzung 1
+  
+  Und da sind wir schon, nach nur einem kurzen Prolog sind wir auch schon da und sehen uns im Reik um. Ich muss zugeben das mein Geschichstswissen was Elder Scrolls angeht ein wenig angestaubt ist, daher weiß ich anscheinend nicht das das Gebiet rund um Markarth anscheinend zu dieser Zeit nicht im Besitzt des Königs von Himmelsrand ist. Das wird sich aber in absehbarer Zeit dann wohl ändern, aber sagen wie es dazu gekommen sein wird kann ich auch nicht. Wahrscheinlich hat eine Vampirinvasion einen Großteil der Reikmannen ausgelöscht und dann konnten die nordischen Truppen sich einfach das Land greifen. So oder so ähnlich. Wie dem aber auch sei, im Reik Treffen wir dann auch Graf Verandis von der Rabenwacht, der war ursprünglich tot, aber wie wir jetzt wissen lebt er wieder. Oder wandelt, so richtig sterben kann ein Untoter ja wohl kaum.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #3162
+
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
   
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```

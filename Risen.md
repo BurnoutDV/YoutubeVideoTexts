@@ -1477,20 +1477,30 @@
 
 ##### #114
 
-* Titel: ``
+* Titel: `Risen - #114 - Titanenlordrüstung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und jetzt gehen die Dinge schneller als ich mir das ursprünglich vorgestellt hatte. Eigentlich wollte ich diese Episode nach dem Priestergrab benennen das wir heute erkunden. Es stellt sich aber heraus das die gesamte Anlage außerordentlich klein ist. Man kann es mir aber auch nicht so richtig recht machen, erst beschwere ich mich das die Horden von Echsen die plötzlich aufgetaucht sind eher lästig sind und für mich nichts als eine Spielzeitstreckung sind, wie damals die Ork-Horden in Gothic 3, und jetzt meckere ich das das Spiel zu schnell vorbei ist. Es ist so, wir machen heute das Grab auf, haben die Rüstung innerhalb von 5 Minuten in der Hand, latschen zu Eldric der mal wieder seine Zusammensetzungsmagie zaubert und besitzen dann die Titanenlordrüstung, ein mächtiges Artefakt das es uns ermöglichen wird einen Titanen gegenüber zu treten. Ein wenig sehr enttäuschend das wir mit der mächtigen Rüstung absolut gar nichts machen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
 ##### #115
 
-* Titel: ``
+* Titel: `Risen - #115 - der Feuertitan [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die Zeit ist gekommen, dies ist die letzte Episode Risen, heute besiegen wir den bösen Inquisitor Medoza und direkt danach den Feuertitan. Das fällt uns übrigens ziemlich einfach weil wir halt auch sehr mächtig sind. Zum Glück waren wir bis hier hin auch immer sparsam mit den Heiltränken und haben nun über 400 Stück verschiedener Sorten zur Auswahl damit wir auf keinen Fall in die Gefahr laufen das uns der Saft ausgeht. Ich muss übrigens sagen das ich den Endkampf gegen den Titanen des Feuers ziemlich unspektakulär finde, allerdings wäre es auch eine Verschwendung von Spielmechaniken gewesen wenn dieser Endkampf jetzt komplett anders gewesen wäre als die bisherigen Kämpfe die wir gesehen haben. Daher ist es eigentlich auch nicht verwunderlich das alles ein wenig langweiliger ist als sonst. Es könnte aber auch schlimmer sein, wir erinnern uns an den "Endkampf" von Gothic 3 oder das gloriose Ende des Schläfers. Obwohl, der war tatsächlich noch anspruchsvoller als das was wir heute hier erlebt haben. Alles in Allem bin ich aber vom Ende ein wenig enttäuscht. Immerhin endet das Spiel exakt so wie es quasi die ganze Zeit war, mit einem Fehler. Das ist beruhigend oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+## Fazit
+
+> hier könnte auch ihr Text stehen

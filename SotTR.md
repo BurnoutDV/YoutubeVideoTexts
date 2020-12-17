@@ -997,6 +997,71 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
+##### #77
+
+* Titel: `Shadow of the Tomb Raider - #77 - der Weg des Kreuzes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja wir gehen heute auf Kreuzzug und bekehren die Heiden. Mit der guten alten getesteten Methode "erst töten, dann bekehren". Oder aber wir lösen ein Rätsel was wortwörtlich das ist. Wir folgen einen Weg der mit Kreuzen markiert ist, ziemlich vielen auffälligen Kreuzen. Wir haben auch Kinder in der Nähe des Klosters San Juan gesehen, entweder die wurden alle außerhalb des Klosters von Raubtieren gefressen oder aber die Sicherung der geheimen Höhle die wir dann später finden ist wesentlich besser als ich gedacht habe. Generell ist das so ein Ding, alles was Lara findet ist ein Klassiker für "von Joggern gefunden" oder aber auch "spielende Kinder entdeckten". Wer auch sonst rennt rum und guckt sich die Welt an. Eigentlich komisch oder, wir Menschen belasten die Erde seit Jahrtausenden und die Leute die tatsächlich regelmäßig die Welt richtig angucken sind Leute die einfach nur rumlaufen während alle andere damit beschäftigt sind an einem Ort zu bleiben und ihre täglichen Routinen abzufahren. Die und natürlich Lara Croft.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #78
+
+* Titel: `Shadow of the Tomb Raider - #78 - Mysterien der Mission [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich ganz überraschend heraus das wenn man eine christliche Mission mitten im Dschungel hat dann kann man da allerlei interessante Dinge tun, dieses Mal hat es ausnahmsweise nichts mit kleinen Knaben zu tun. Stattdessen finden wir heraus das man anscheinend Jahre damit zu gebracht hat ein Versteck für die silberne Schatulle herzurichten. Eine Großtat von dem was wir so hören, die eigentliche Stätte haben wir ja noch nicht gefunden aber Hinweise auf den Aufenthaltsort und den damit verbundenen Mühen finden wir überall. Der Plan war anscheinend das gute Stück für einen Auserwählten zu verstecken. Dieser Auserwählte sollte wahrscheinlich durch eine Reihe von Rätseln ermittelt werden, höchstwahrscheinlich tödlich. Bisher hat es anscheinend noch niemand geschafft. Wir haben dennoch gute Chancen über all jene Leute von vorher, wir haben Quicksave, damit sollte es möglich sein alle Fallen mit Try&Error durch zu probieren. Dafür müssen wir den Ort aber erst einmal finden. Die Höhle die wir heute hoch nehmen ist nämlich nicht dieser Ort. Und wir können nicht einmal behaupten das Lara diesen Ort wieder entdeckt hat, jemand Anderes ist uns zuvorgekommen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #79
+
+* Titel: `Shadow of the Tomb Raider - #79 - Via Veritas [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute begeben wir uns auf den Wahrheit, endlich ist all das Lügen vorbei, keine Geheimnisse mehr. Oder auch nicht, es scheint so als hätte man in vergangenen Tagen so Einiges getan um die Welt zu täuschen, auch wenn die gar nicht wirklich hingesehen hat. Ich bin übrigens immer wieder beeindruckt von der Anzahl an Mumien die wir in diversen Gräbern finden. Bei den Inka Schrägstrich Maya Einrichtungen könnte man ja auch noch meinen das sich das halt über die Generationen angesammelt hat, hier und da mal ein Opfer damit die Sonne wieder aufgeht, da kommt ganz schön was zusammen. Aber jetzt finden wir eben so viele, wenn nicht sogar sehr viel mehr Mumien in einer christlichen Mission, da wird es irgendwie schon wieder schwierig oder? Das alles war eine Generation, eine Fuhre von Leuten. Danach kam keine weitere Generation von Schwergläubigen mehr die noch einmal ihr Leben gegeben haben damit die Krypta besser aussieht. Ob sie auch alle die Wahrheit kannten?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #80
+
+* Titel: `Shadow of the Tomb Raider - #80 - Eingemauert [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man nicht möchte das irgendwelche komischen Leute davon erfahren das man einen unermesslichen Schatz versteckt hat ist es wohl am besten das es weit und breit niemanden gibt der weiß das es eben diesen Schatz gibt. Wenn man sich richtig hingeben will muss man aber nicht nur alle Zeugen die eventuell involviert sein könnten entsorgen sondern auch sich selbst. Mir erscheint das die örtlichen Missionare bzw. Conquistadore eben diese Philosophie ein wenig übertrieben habe. Letztendlich finden wir die silberne Schatulle dann doch endlich, ein wenig eingemauert, zusammen mit der Leiche von dem Typen der das Ding versteckt hat. Ich persönlich halte diese Taktik für etwas extrem aber ich schätze es ist zu spät gegen diese Vorgehensweise etwas zu sagen, schließlich ist der Mann schon tot. Andererseits müssen wir uns nicht mit Zombies rumschlagen, das war sonst immer ein ziemlich wiederkehrendes Thema.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #81
+
+* Titel: `Shadow of the Tomb Raider - #81 - Erdrutsch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man abergläubisch sein möchte dann würde ich jetzt dem großen Stapel an beweisen hinzufügen wollen das es hier schon wieder einen Erdrutsch gibt. Eigentlich öffnet sich gleich der gesamte Boden und ziemlich viele Leute kommen dabei um aber vor allen Dingen rutscht die ganze Landschaft. Übrigens auch interessant das die heutige Episode in einem Dorf stattfindet von dem wir vorher noch absolut nichts gehört haben. Bald wird man wohl auch so nichts mehr vom diesem Dorf gehört haben, einfach weil es aufgehört hat zu existieren. Das Ganze ist, zumindest soweit ich das erkennen kann nicht unsere Schuld. Auch wenn der gute Dr. Dominguez uns das versucht hat weis zu machen. Das Finden des Dolches löst absolut gar nichts aus und es ist eher die Tatsache das das Ende eines Zeitalters an der Zeit ist und daher passieren halt die Dinge die passieren. Oder so, trotzdem sind wir mitten drin, das empfinde ich als eher unpraktisch. So ein Erdrutsch würde bestimmt epischer aussehen wenn man nicht drin wäre.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -171,12 +171,54 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
-##### #Nummer
+##### #14
 
-* Titel: ``
+* Titel: `Quantum Break - #14 - Ausbruchsflash  [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Diese Episode hat einen leicht merkwürdigen Namen. Ich habe ehrlich gesagt nicht damit gerechnet das ich noch eine weitere Fähigkeit erhalte anstatt die Weiterentwicklung der Fähigkeiten die ich schon hatte. Tatsächlich lernen wir heute aber das "Flashen". Quasi eine Art Bullet Time, nur das wir sie nicht anwenden können während wir stillstehen. Das nervt ein wenig. Immerhin sind automatische Geschütztürrme jetzt leicht überwindbar. Von allen verfügbaren Fähigkeiten die mit Zeit zu tun haben war die Variante in der man die Zeit nur Anhalten kann während man selber in Bewegung ist nicht unbedingt das was ich mir vorgestellt hätte. Letztendlich kann ich mir aber wohl nicht aussuchen was ich kriege. Und, wir sind immer noch auf der Flucht, und wenn wir irgendwelchen Erfolg gegen die zahlenmäßige Überlegenheit der geballten Macht von Monarch erzielen wollen brauchen wir wohl jeden Vorteil den wir irgendwie finden können. Teuflisch gutes Aussehen haben wir auch schon. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #114
+
+* Titel: `Quantum Break - #15 - Juggernaut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Superkräfte. Die normalen Soldaten von Monarch haben relativ wenig Chancen gegen Jack Joyce, ihre Ausbildung hat sie einfach nicht auf jemanden Vorbereitet der mit unmenschlicher Geschwindigkeit durch die Luft springen und wuschen kann. Monarch hat sich aber auf andere Dinge vorbereitet, wie zum Beispiel das Ende aller Dinge oder zumindest der Zeit. Daher gibt es anscheinend nicht nur Truppen die durch die Zeit laufen können während selbige stillsteht sondern auch Truppen die extra für den Kampf gegen Wesen am Ende der Zeit ausgerüstet sind. So wie es aussieht gibt es da nämlich Einiges das man tatsächlich bekämpfen kann. Ich finde es übrigens erstaunlich das das Ende von Allem nicht einfach ausreicht um den Leuten Angst zu machen. Nein, natürlich nicht, wenn das Ende Zeit stattfindet muss es natürlich Wesen geben die sich dennoch noch weiter bewegen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #16
+
+* Titel: `Quantum Break - #16 - TSP Berichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt einen Film der im Englischen "The Office Space" heißt, darin geht es um eine Firma die von Beratern besucht wird die dort einige Prozesse verschlanken sollen. Einer der Hauptcharaktere erzählt dabei den "Bobs", so heißt das Unternehme, wie er sogenannte TSP Berichte ausfüllen muss und 7 verschiedenen Leuten meldet was er tut. Das ist offensichtlich ineffizient, 8 Leute werden dafür bezahlt das eine einzige Person die Arbeit macht. Das ist übrigens ein ziemlich reales Problem, sogenannte Bullshitjobs sind ziemlich weit in der Welt verbreitet. Es gibt sie echt oft, all diese Leute die keine eigenen Arbeitsleistung vollbringen aber den ganzen Tag damit beschäftigt sind andere Leute zu überwachen und zu verwalten. Und das obwohl diese Leute eigentlich gar keine weitere Anleitung brauchen weil sie eigentlich wissen was sie tun. Ansonsten passiert heute nicht viel, Quantum Break verkommt zum Vorlesespiel.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #17
+
+* Titel: `Quantum Break - #17 - Tiefgarage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe zu, mir ist kein wirklich besserer Titel eingefallen. Wir kämpfen uns mehr oder weniger durch eine unterirdische Garage die sich nach aktuellem Stand als Tiefgarager herausstellt. Davor lagen zwar noch hier und da ein paar Labore aber im großen und Ganzen stimmt meine Feststellung aber auch. Innen drinnen finden wir eine erstaunlich Menge an Monarch Personal. Ich finde das übrigens ziemlich erstaunlich. Eigentlich ist das ja immer noch ein international agierendes Unternehmen das irgendwie irgendwo Gewinne einfahren muss um das zu tun was sie tun. Klar es gibt anscheinend Investoren aber dennoch, die Exzessive Größe des Monarch Militärs würde kleinere Länder wie zum Beispiel Lichtenstein in ernsthafte Gefahr bringen. Man könnte fast schon von einer Schattenarmee sprechen die außerhalb der Rechtsstaatlichkeit des Landes agiert. Oder auch nicht mehr, Stück für Stück verstirbt diese Armee nämlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
   ```

@@ -30,12 +30,15 @@
 
 ##### #3
 
-* Titel: ``
+* Titel: `Risen 2 - #3 - Puerto Sacarico [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und schon sind wir auf der ersten Insel die nicht das Festland ist, das ging doch alles schneller als ich gedacht hätte. Ankommen tun wir in Puerto Sacarico und wenn ich dachte das ich bis jetzt ziemlich nackt und nicht ausreichend ausgerüstet war so ist das jetzt erst recht der Fall. Es scheint nämlich das Patty in vorauseilenden Gehorsam unsere Sachen über Bord geschmissen hat. Ich frage mich wie sie reagiert hätte wenn ich das mit ihrer Kleidung gemacht hätte. Da wir jetzt ziemlich nackt dastehen müssen wir uns erst einmal an die örtliche Umgebung gewöhnen. Immerhin ist die gute Nachricht das es wohl ziemlich warm auf der Insel ist und wir uns daher zumindest keinen Schnupfen holen. Also zumindest ein Pluspunkt in meinen Augen. Dennoch, die alte Rüstung hätten wir auch für gutes Geld an den Mann bringen können und stattdessen sitzen wir jetzt ohne da. Ich finde Patty ist kein guter Begleiter auf unseren Reisen. Als Piratentochter hat sie einfach viel zu wenig Geschäftssinn.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
 ##### #Nummer

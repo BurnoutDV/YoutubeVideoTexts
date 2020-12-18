@@ -1652,14 +1652,18 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
-##### #3162
+##### #1362
 
-* Titel: ``
+* Titel: `Let's Play ESO #1362 - Informationsfetzen [Markarth]`
 
 * Beschreibung:
 
   ```markdown
+  Folge 10 des Markarth DLCs - Sitzung 1
   
+  Irgendwie habe ich das Gefühl das ich das hier schon alles einmal gemacht habe, das Erkunden der Welt auf der Suche nach Hinweisen um irgendetwas mit diesen Informationen zu erreichen. In diesem Fall ist die ganze Geschichte aber etwas interessanter als sonst. Ironischerweise weil wir eigentlich gar nicht an den Informationen interessiert sind die wir zusammen sammeln. Tatsächlich ist es so das wir als externe Elfe ziemlich außerhalb des inneren Konflikts des Reiks stehen. Irgendwelche Rebellen tun Dinge gegen den Typen auf dem Thron von Markarth. Das wäre uns absolut egal wenn wir nicht mit eben jenen Typen reden wollten. Also sammeln wir Informationen über seine Feinde. Was er damit dann macht oder wie es den Rebellen ergeht spielt für mich keine Rolle. Hauptsache wir erhalten das Gespräch bzw. die Audienz um unseren Fall der das Große und Ganze betrifft darlegen zu können. Alles andere ist sekundär.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
 ##### #Nummer

@@ -225,6 +225,31 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #17
+
+* Titel: `Cyberpunk 2077 - #17 - Verfolgungsjagt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen langsam aber sicher vorran, ich gebe zu das ich mir nicht besonders viel Mühe gebe aber dennoch versucht habe irgendwie heimlich unterwegs zu sein, am Ende war es aber einfach nicht genug vermute ich. Was uns jetzt nur noch bleibt ist so schnell wie möglich zum Delamain zu kommen, irgendwie weg zu fahren und dann wird hoffentlich alles wieder irgendwie gut. Auch Sorgen mache ich mir um Jackie der scheinbar seinen Sturz von der 100sten zur 98sten Etage nicht so gut überlebt hat wie ich mir das ursprünglich vorgestellt hatte. Überraschend ist eigentlich das wir noch so gut beisammen sind. Jetzt gibt es nur noch ein Ziel, das No-Tell Motel das Dexter zwischenzeitlich erwähnt hatte und von dem er so sicher war das es niemals aufkommt und wir uns absolut keine Sorgen machen müssen. Man kann echt von schlechtem Timing reden.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #18
+
+* Titel: `Cyberpunk 2077 - #18 - Spiel auf Zeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zeit ist immer ziemlich limitiert, und meistens besonders für die Dinge die man am liebsten macht. Die Illusion von Endlichkeit ist ziemlich wichtig damit überhaupt irgendetwas fertig wird, andernfalls braucht es eine Menge Disziplin, Menschen haben in der Regel das Gefühl das sie nicht genügend Zeit für alles haben, oder wenn sie doch genug Zeit zur Verfügung haben wird alles auf später verschoben. Das ist eine wirklich seltsame Balance die man da erreicht. Aber letztendlich ist alles irgendwie ein Spiel auf Zeit, alles was man tut verbraucht in gewisser Weise Zeit, manche Dinge verkürzen die eigene Zeit erheblich, andere verlängern sie. Revolutionärer Rocker zu sein und dann den Arasaka Turm zu sprengen ist definitiv eine von diesen Taten die das Leben nicht unbedingt verlängt. Aber das ist ein anderes Leben und nicht das Leben von V. wenn das aber so weiter geht ist es am Ende unser Leben. Und eigentlich hatte ich mich doch grade als V. eingefunden oder?
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

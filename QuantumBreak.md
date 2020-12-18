@@ -222,3 +222,16 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Quantum Break auf dem Dienstags Slot.
   ```
+
+##### #18
+
+* Titel: `Quantum Break - #18 - die Party [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich gibt es eine Party. Die Welt geht unter, alles geht dem Bach runter, die Menschheit ist am Arsch, aber natürlich gibt es eine Party. Wie sollte es auch anders sein, wäre ja auch undenkbar wenn man sich stattdessen darauf konzentrieren würde die wichtigen Dinge zu tun und mit aller Macht die Welt zu retten. Aber eventuell ist es dafür auch einfach schon zu spät. Die Leute die die Welt retten können tun das und die Leute die es nicht können gehen halt auf die Party um den Untergang zu feiern. Oder um den Leuten die die Chance haben etwas zu bewirken Geld zu geben und sonst nicht im Weg zu stehen. In diesem Fall hat es übrigens wirklich was mit den Investoren zu tun, allerdings habe ich das Gefühl das mit den neuen Daten die wir gefunden haben das mit der Zeit für Parties doch ziemlich optimistisch war. Das Ende der Zeit ist scheinbar nicht ein paar Wochen oder Monate entfernt sondern wird stattdessen morgen geschehen. Binnen 24 Stunden. Das rückt die Wichtigkeit einer Feierlichkeit am Abend des Untergangs eigentlich in ein ganz neues Licht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```

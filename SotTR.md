@@ -1062,7 +1062,20 @@
   Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
-##### #Nummer
+##### #82
+
+* Titel: `Shadow of the Tomb Raider - #82 - der Meisterbogen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wirklich erstaunlich was man alles in Paititi tun muss um irgendwann einmal König zu werden. Die normale Erbfolge reicht einfach nicht aus, eventuell kommt in diesem Fall aber erschwerend hinzu das es eine starke Gegenmacht gibt die unter Umständen den Herrschaftsanspruch in Frage stellen würde. Und das wäre nun wirklich ziemlich anstrengend. Also für uns, weil am Ende muss Lara Croft mit dem Zerstören von irgendwelchen Artefakten den Konflikt beilegen und das wäre dann noch mehr Mühe als wir bisher hatten. Also machen wir uns auf und finden den Meisterbogen. Der wird, soweit habe ich das verstanden, von einem legendären Biest bewacht. Das ist aber eigentlich noch ziemlich gut, es hätte ja auch sein können das der Gegenstand einfach spurlos verschollen ist, in dem Falle hätte ich nichts in der Hand und Etzli müsste es so versuchen, wie er es auch tun würde wenn sich Lara nicht aufmacht. Dennoch eigentlich ein echter Glücksfall das Amaru uns nicht zuvorgekommen ist und sich das Stück geschnappt hat. Und wenn er die Gelegenheit dazu hatte könnten man wohl von Fairplay reden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #83
 
 * Titel: ``
 

@@ -249,6 +249,19 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
+##### #20
+
+* Titel: `Quantum Break - #20 - Port Donnerly [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen sind wir immer noch auf einer Insel, von der müssen wir irgendwie runter kommen. Dazu würde sich ein Boot anbieten, leider ist das Boot das wir zusammen mit Beth Wilder gechartert haben aktuell nicht in Reichweite. Wir brauchen daher einen alternativen Weg um irgendwie von der Insel weg zukommen. Unsere erste Station ist Port Donnerly, anscheinend ein Hafen der im zweiten Weltkrieg eventuell noch einmal richtig relevant geworden wäre wenn der Krieg jemals an den Heimatstrand getragen worden wäre. Wurde er aber nicht, daher ist das Ding ein eher zweiklassiger Handelshafen der doch recht verschlafen ist. Ärgerlich ist das es anscheinend auch nur eine richtige Brücke gibt, die wird natürlich von Monarch überwacht, und auch nicht der örtlichen Polizei, generell und überhaupt ist es wirklich erstaunlich wie es die Firma geschafft hat quasi das Gewaltmonopol in ganz Riverport zu sichern. Später würden bestimmt Fragen aufkommen, aber es wird kein später geben. Das weiß auch die Firma, man lebt für den Moment.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

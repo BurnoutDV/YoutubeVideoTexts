@@ -276,6 +276,32 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #21
+
+* Titel: `Cyberpunk 2077 - #21 - Judy Álvarez [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir lernen heute wieder Leute kenne. Immer noch, eigentlich hört es gar nicht auf. Technisch gesehen kennen wir Judy bereits, aber bisher wurde sie uns nur als Dienstleistungsperson vorgestellt. Der Mensch hinter den Braindance ist uns aber noch unbekannt. Leider sind wir ein wenig auf den Mund gefallen und kriegen nicht so unendlich viel heraus. Ich fürchte aber leider das die gute Judy am ende noch als Love Interest herhalten muss. Das finde ich übrigens nicht so gut, auf der der anderen Seite bietet sich das natürlich für Personen an die wir im Rahmen der Hauptquest kennen gelernt haben. Für den Moment sind wir aber noch nicht soweit, zu erst versuchen wir Informationen zu erhalten. Informationen über den Aufenthalt von Evelyn und unseren Job als Solchen. Außerdem können wir uns noch ein wenig mit den örtlichem Mox unterhalten. Matteo zum Beispiel, der Mann ist Barkeeper spricht aber leider nichts wichtiges an. Aber wir werden weider kommen, und dann gibt es vielleicht Informationen über die internen Vorgänge der Mox selbst.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #22
+
+* Titel: `Cyberpunk 2077 - #22 - Ofrenda [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hatten einen Verlust. Der gute Jackie fehlt mir schon jetzt ein wenig. Ich bin übrigens immer noch ziemlich verärgert das ich keine Möglichkeit gehabt hätte ihn zu retten. Wirklich, oder war da doch was? Wie dem aber jetzt sei, Mama Wells möchte sich von ihren Sohn verabschieden und was für ein Freund wären wir wenn wir da nicht dabei wären? Das Ganze nennt sich scheinbar Ofrenda, ich weiß nicht inwiefern das an der realen Tradition die man irgendwo in Mexiko finden kann dran ist aber ich nehme mal an das es nicht so weit weg ist. Die ganze Zerenomie ist eigentlich ziemlich geschmackvoll. Bevor es allerdings losgeht dürfen wir noch ein wenig in der Werkstatt unseres alten Kompagnion herumwühlen, um etwas zu finden mit dem wir uns stilvoll verabschieden können. Interessant auch sind die anderen Personen die anwesend sind. Hier finden wir einige Vertreter der lokalen Mafia bzw. Straßengangs die wir später bestimmt wieder treffen werden. Alles in Allem ist das hier eine echt schwere Episode. Dafür das wir Jackie nur knapp 15 Episoden gekannt haben kommen die Emotionen eigentlich ganz gut rüber.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

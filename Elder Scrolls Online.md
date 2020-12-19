@@ -1682,6 +1682,20 @@
 
 ##### #1364
 
+* Titel: `Let's Play ESO #1364 - Lyris Spuren [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 12 des Markarth DLCs - Sitzung 1
+  
+  Heute finden wir heraus das Lyris ebenfalls im Reik ist. Ich hatte mich ehrlich gesagt schon ein wenig gewundert warum wir für den Blutsauger aus dem Hause Rabenwacht arbeiten aber nicht mehr mit unseren alten Gefährten aus Einsamkeit und dem östlichen Himmelsrand. Wir waren ausnahmsweise zu schnell für unsere Begleiter, aber das ist zum Glück kein Grund die Halbriesin nicht zu treffen, sie ist sogar in Begleitung ihres Langzeitliebhabers Sai Zahan unterwegs. Von Sai dachte ich eigentlich das er sich um die Drachengarde kümmert, aber die Aufgabe hat er anscheinend an andere Leute abgegeben. Da kommt echt die Frage auf wie er so schnell eine funktionierende Gesellschaft von Drachengardisten aufbauen konnte. Wie dem aber auch sei, weder ihn noch Lyris treffen wir heute. Stattdessen laufen wir in lauter Leute die von den beiden gerettet wurde. Das ist wirklich erstaunlich, mächtige Vampire in der Außenwelt sind einfach nicht in der Lage einen Schwertsänger und eine Halbriesin aufzuhalten. Wie stark genau ist die graue Schar nun?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1365
+
 * Titel: ``
 
 * Beschreibung:

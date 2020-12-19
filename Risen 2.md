@@ -67,12 +67,15 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #6
 
-* Titel: ``
+* Titel: `Risen 2 - #6 - der Dschungel [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich habe es ja mit dem urbanen Lebensstil versucht, aber anscheinend kann man nicht alles im Leben machen was man will. Da ein Großteil des Festlandes komplett vernichtet ist haben wir dort auf jeden Fall keine Chance. Porto Sacarico ist leider auch ziemlich klein und bietet einfach nicht die Möglichkeiten die wir brauchen um unseren Lebensstil weiter aufrecht zu erhalten. Auch scheint es kein nennenswertes Nachtleben zu geben, die gesamte weibliche Bevölkerung haben mit Patty selber mit gebracht, alles in allem hilft da nur eins: Wir gehen in den Dschungel und schauen einmal welche Fürchte der Dschungel für uns hat. Letztendlich sind wir doch in jedem Piranha Bytes Spiel mit dem Jagen von Wild reich geworden, ich habe keinen Zweifel das es in Risen 2 nicht auch so sein wird. Wir gehen also in den Busch und machen einfach alles tot was sich so finden lässt. Nebenbei habe ich für dieses Video direkt zwei Beschwerden wegen Urheberrechtsverletzung erhalten, der generische Jungle Soundtrack ist anscheinend irgendwo registriert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

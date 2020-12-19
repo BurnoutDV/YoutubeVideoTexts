@@ -1090,12 +1090,15 @@
 
 ##### #84
 
-* Titel: ``
+* Titel: `Shadow of the Tomb Raider - #84 - der zornige Gott [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Wir sind noch damit beschäftigt eine Nebenmission zu erledigen. Zu erst sah es nur so aus als würden wir eine kleine Truppe von Trinity verfolgen. Jetzt stellt sich heraus das die Truppe doch ein wenig mehr gemacht hat als es die üblichen Truppen von Trinity tun, normalerweise stehen die ja nur rum, schießen gelegentlich auf uns und sterben dann einen irgendwie heldenhaften oder langweiligen Tod. Diese hier haben aber irgendwie die letzte Umweltkatastrophe überlebt, hatten sich versteckt und bei der guten Gelegenheit auch noch das Artefakt einer lokalen Gottheit gestohlen. Die entsprechende Gottheit scheint einen realen Einfluss auf die Welt zu haben, wie immer ist die Magie der Welt nicht wirklich sichtbar, der Tempel den wir heute betreten kann ohne den Einsatz von Magie aber kaum erklärt werden. Die Gottheit selbst wird durch einen gewaltigen Steinkaiman symbolisiert. Diese absolut gigantische Statue bewegt sich, ich kann mir nicht vorstellen das irgendeine menschengebaute Konstruktion in der Lage wäre dies zu bewerkstelligen, insbesondere weil das Ding mitten in der Lava steht. Immerhin sieht es ganz schön episch aus, auch wenn total unglaubwürdig.
   
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
   ```
 
 ##### #85

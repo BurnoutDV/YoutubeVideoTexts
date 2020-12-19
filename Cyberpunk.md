@@ -250,6 +250,32 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #19
+
+* Titel: `Cyberpunk 2077 - #19 - Post-Trauma [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hatten eine echt harte Zeit. Und jetzt die Gelegenheit gekommen das alles zu verarbeiten. Irgendwie, das wird wahrscheinlich länger als 25 Minuten dauern, aber wir müssen ja irgendwie weiter machen. Das "Gute" ist das wir uns eigentlich gar keine Mühe geben müssen falls wir unser Leben vorzeitig beenden wollen. Das ist eigentlich sehr praktisch wenn man unter einer tickenden Zeitbombe leidet, man muss em E-Falls nichts selber tun. Obwohl, technisch gesehen würden wir wahrscheinlich nicht einmal richtig sterben sondern nur unser selbst hört auf zu existieren. Das ist irgendwie schlimmer, im Zweifel gibt es auch nicht einen Moment wo wir nicht mehr sind sondern wir gleiten langsam in das andere Selbst über. Wie stellen wir fest ob unsere Persönlichkeit die von Johnny oder unsere ist? So gut kenne ich mich doch gar nicht selbst.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #20
+
+* Titel: `Cyberpunk 2077 - #20 - Takemura [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es folgen weitere Episoden die nach Charakteren benannt sind, eigentlich sprechen wir nicht die gesamte Episode mit der Person aber irgendwie muss ich die Dinger ja benennen. Interessanterweise ist der Ort an dem das Treffen stattfindet ein Benchmarkplatz stelle ich fest. Toms Dinner ist ein Ort mit enorm hoher NPC Bewegung, und das bringt meinen armen Prozessor an die Grenzen, die übermächtige GPU kann daran auch nichts ändern. Ich bin sehr gespannt ob hier mit zukünftigen Patches noch irgendwas kommt. Zum Protokoll falls das hier jemals jemand liest, es war zum Zeitpunkt der Aufnahme Patchversion 1.04. Zurück zum Thema, Takemura ist der ehemalige Bodyguard des verstorbenen Araska Chefs. Betonung liegt auf "war". Der neue Geschäftsführer hat anscheinend ziemlich schnell realisiert das er lose Enden abschneiden muss und Takemura hingegen ist nicht mehr davon überzeugt das wir seinen Boss kalt gemacht haben. Das ist eigentlich ganz gut wenn man so will, heißt es doch das eine Person weniger gibt die uns umbringen will. Aufgrund der Tatsache das Takemura das mit der Ehre und Pflicht ziemlich ernst nimmt hätten wir uns sonst wohl ziemlich Mühe machen müssen von ihm zu entkommen. Außerdem hat er Dexter DeShawn entsorgt, das ist auch ziemlich praktisch, der wäre sonst ein loses Ende für uns.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

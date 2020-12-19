@@ -1077,6 +1077,29 @@
 
 ##### #83
 
+* Titel: `Shadow of the Tomb Raider - #83 - verlorene Gräber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles was Lara Croft tut hat irgendwie mit verlorenen Gräbern zu tun, ich warte eigentlich darauf das wir eine Touristenführung eines bekannten und gut erkundeten Grabes machen und dann in den abgesperrten Bereich abbiegen. Das wird aber wohl nie passieren, stattdessen erkunden wir natürlich all jene Orte die schon seit langer Zeit nicht mehr betreten wurden. In diesem Fall ist es aber ein wenig anders, es scheint als das uns Soldaten von Trinity zuvorgekommen sind. Und nicht nur das, die Soldaten haben sich hier anscheinend richtig häuslich eingerichtet. Anders ist nicht zu erklären das es nicht nur mehre elektrische Tore die solide mit der Wand verbaut sind gibt, nein, es gibt außerdem noch Stromgeneratoren und ausreichend Sprit um diese auch zu betreiben. Das wirft wirklich Fragen auf. Wie zum Beispiel wie viele Ressourcen Trinity wirklich auf diesen Einsatz verwendet. Ich meine, an sich waren die doch nur kurz hier um sich die Schatulle zu schnappen, und nicht um eine Basis zu errichten, dennoch ist genau das passiert. Mein Sinn für Logik wird wieder einmal verletzt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #84
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  
+  ```
+
+##### #85
+
 * Titel: ``
 
 * Beschreibung:

@@ -1666,7 +1666,21 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
-##### #Nummer
+##### #1363
+
+* Titel: `Let's Play ESO #1363 - Ard Caddach [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 11 des Markarth DLCs - Sitzung 1
+  
+  Lokale Despoten, Regenten, Könige und sogar Kaiser zu treffen steht irgendwie für uns an der Tagesordnung. Klar, wir haben die Welt auch schon mehrfach gerettet und darauf bin ich auch ein wenig stolz. Dennoch wissen die meisten Herrscher dieser Welt nicht von unseren Tätigkeiten auf der anderen Seite Tamriels. Daher kann man ein wenig verstehen das diese nicht allzu sehr daran interessiert sind sich mit uns zu treffen. Umso erstaunlicher ist es eigentlich das wir dann am Ende doch vorgelassen werden. Bei jedem Herrscher, meistens nachdem wir irgendwelche Großtaten vollbracht haben. Aber dieses Mal schaffen wir es eigentlich nur mit einem Versprechen von Informationen. Tatsächlich haben wir die Informationen wirklich aber das kann ja eigentlich niemand nachprüfen. Das Versprechen von Gewalt im Falle von Untererfüllung könnte vielleicht andere Abenteurer abhalten aber da wir praktisch unsterblich sind wäre das auch nur ein kleineres Ärgernis, auf der anderen Seite brauchen wir Kooperation. Die uns Ard Caddach übrigens zu Teil werden lässt. Damit ist er wesentlich kooperativer als damals Svargrim, also entweder kann Zenimax jetzt gute Verräter schreiben oder der Mann meint es ernst mit seinen Absichten. Die Zeit wird es zeigen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1364
 
 * Titel: ``
 

@@ -235,3 +235,26 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Quantum Break auf dem Dienstags Slot.
   ```
+
+##### #19
+
+* Titel: `Quantum Break - #19 - Episode 3 - Serie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wieder eine Episode in der ich nicht rede. Das liegt daran das es eine Liveepisode ist und ich daher nicht andauernd reinquatschen möchte. Das wäre auch irgendwie unhöflich oder? Einfach so in einen Film rein zu reden. Ich kenne allerdings Leute die das tun. Generell gibt es hier wohl zwei Philosophien, die Einen besprechen den Film quasi während er läuft, die Anderen stellen Fragen und Theorien nachdem der Film vorbei ist. Am Besten ist es wenn man Fragen stellt die der Film 5 Minuten später beantwortet und die anderen Zuschauer nicht darauf klar kommen das die Handlung neue Charaktere einführt die wir für den Moment noch nicht kennen. Das nervt. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

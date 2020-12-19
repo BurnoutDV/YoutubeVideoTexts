@@ -41,6 +41,32 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #4
+
+* Titel: `Risen 2 - #4 - Gouverneur Di Fuego [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben jetzt Kleidung und schon werden wir beim lokalen Governeur vorgelassen, der ist überraschenderweise ein Zivilist und scheint mir ein korrupter Arsch zu sein. Allerdings muss man ihn zu Gute halten das er bis auf die Verteilung der Wachen ein ehrbarer Mann gewesen ist. Wirklich, er sagt uns in einem nasalen Unterton das die Dinge die er im Angebot hat zu teuer sind aber letztendlich hat er recht und es ist eine realistische Meinung. Auch hat er uns den Zugriff verweigert und auch sonst hat er sich bis jetzt an sein Wort gehalten. Ich weiß nicht so recht was ich von dem Mann halten soll. Ein militärischer Kommandant würde sich wahrscheinlich strikter an die Regeln halten. Für mich ist aber wahrscheinlich Di Fuego der bessere Mann, ich persönlich halte seine Methoden aber für außerordentlich fragwürdig. Andererseits scheint die gesamte Inquisition nur aus fragwürdigen Methoden zu bestehen. Das lässt die ernsthafte Frage aufkommen wie wir überhaupt in diese Situation gekommen und jemals der Inquisition angehört haben. Weil technisch gesehen arbeiten wir ja immer noch für die, zwar undercover aber dennoch in ihrem Sinne. Alles sehr seltsam.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #5
+
+* Titel: ``Risen 2 - #5 - Zuckerrohrfelder [Let's Play; ger; Blind]``
+
+* Beschreibung:
+
+  ```markdown
+  Rum scheint eine wichtige Rolle in der Wirtschaft der Länder bzw. Inseln zu sein. Mir ist übrigens nicht ganz klar wie man größere Mengen hochprozentigen Alkohol jeden Tag trinken kann. Insbesondere wenn man an einem ziemlich warmen Ort wohnt. Vorstellen könnte ich mir halt das man gebrannten Alkohol bevorzugt weil man relativ wenig davon mit sich tragen muss und trotzdem einen ordentlich Rausch hat. So wie die Dinge hier aber stehen scheint dem nicht so zu sein. Die Grundsubstanz für Rum bzw. Grok ist Zuckerrohr, der wächst praktischerweise auf der Insel und das auch noch reichlich, ein Umstand den sich auch die Piraten zu nutze machen. Ich müsste jetzt nachschlagen wie effizient das Ganze ist, also wieviel Zucker man braucht um einen Liter Rum herzustellen, ich könnte mir aber vorstellen das das Verhältnis ziemlich gut ist, einfach weil ziemlich viel Zucker drin ist, im Gegensatz zu Kartoffeln oder Weizen. Aber wissen tue ich es nicht, und eigentlich interessiert es mich auch nur während ich das hier schreibe. Wenn du das hier liest darfst du mich in den Kommentaren erleuchten, oder einfach nur so was schreiben, da freue ich mich auch drüber.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -48,5 +74,5 @@
 * Beschreibung:
 
   ```markdown
-  Hier	
+  Hier
   ```

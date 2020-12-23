@@ -302,6 +302,83 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #23
+
+* Titel: `Cyberpunk 2077 - #23 - Nachbarschaftshilfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben eine Wohnung, die liegt nicht etwa irgendwo auf dem Land fernab von aller Zivilisation sondern in einem Wohnblock, das ganze Objekt ist nur gemietet und anscheinend gibt es sogar sowas wie eine Hausverwaltung, einen Hausmeister und natürlich auch Nachbarn. Einer meiner erweiterten Nachbarn ist ein Waffendealer mit einer Schießbahn, da wir immer noch in Ami-Land sind ist das mit dem Waffendealer auch nicht ganz so kritisch, soweit ich das verstanden habe verkauft der Mann seine Ausrüstung hochoffiziell und niemand wird ihn deswegen hochnehmen. Das wäre sonst auch schon lange passiert, mein anderer Nachbar, zumindest der von dem ich weiß, ist ein Ex-Bulle. Der Ex Teil ist nicht besonders alt, anscheinend gab es da einen Vorfall der den guten Mann durcheinander gebracht hat und jetzt hat er seinen Hut an den Nagel gehangen. Seine ehemaligen Kollegen machen sich trotzdem Sorgen um ihn. Da er die aber nicht reinlassen will sind wir jetzt als guter Nachbar dran ein klärendes Gespräch abzuhalten.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #24
+
+* Titel: `Cyberpunk 2077 - #24 - Delamain [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Delamain ist quasi ein Taxiunternehmen, es geht aber noch ein wenig weiter. In der Vergangenheit, wir wissen nicht wie lange früher, war es wirklich ein ganz normales Unternehmen. Heutzutage ist es ein automatisiertes Unternehmen, komplett. Ich dachte zu erst das es irgendwo Menschen in der Verwaltung gibt und das der Teil mit der Computerstimme bzw. dem selbstfahrenden Autos eher so eine Marketinggeschichte ist. Es stellt sich aber heraus, insbesondere nachdem ein wildgewordener Delamain mein Auto angefahren hat, das es wohl eine 100% KI Firma ist. Das findet Netwatch anscheinend irgendwie besorgniserregend aber für den Moment darf Delamain agieren. Die Firma ist, soweit ich das erkennen kann unter Anderem deswegen so profitable weil sie geringe Ausfall bzw. Reparaturzahlen hat. Alles in allem scheint uns die KI sogar freundlich gesonnen zu sein, aber vielleicht weiß das Programm auch einfach nur wie man uns am besten manipuliert und fährt daher ein bestimmtes Verhalten um uns in die richtige Richtung zu lenken.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #25
+
+* Titel: `Cyberpunk 2077 - #25 - Straßenpatrouille [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  V. sucht eine Nebenmission. Obwohl, das ist nicht ganz richtig, eigentlich suche ich einfache Gelegenheiten um meinen "Wert" zu beweisen und auch Wert zu erhalten. Auf gut deutsch, ich bin pleite und daran will ich etwas ändern. Daher hilft nur eines: wir fahren auf die Straßen und nehmen irgendwelche Ganger hoch. Das sagt sich jetzt leichter als es tatsächlich ist, es stellt sich leider ebenfalls heraus das wir ziemlich schwach auf der Brust sind und unsere Kampffähigkeiten sehr limitiert sind. Daher müssen wir uns heranschleichen, oder Operationen annehmen die eventuell weniger Schießereien mit sich bringen und mehr unseren Grips beanspruchen. Wie dem aber auch sei, es läuft darauf hinaus das wir einen weiteren Cyberpsycho bewusstlos schießen, wie auch immer wir das immer machen. Zumindest erzählt das eine Geschichte, wir erleben auch noch eine andere Story, aber für die brauchen wir leider ein Auto, ein Auto das wir nicht haben.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #26
+
+* Titel: `Cyberpunk 2077 - #26 - Megagebäude H8 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich suche ich immer noch Nebenmissionen die uns irgendwie vorran bringen, leider stellt sich immer noch heraus das wir eigentlich absolut nichts tun können was irgendwie reife Früchte trägt. Daher mache ich es jetzt doch so wie ich es eigentlich nicht machen wollte, ich mache die Mission die ich tun soll: ich versuche herauszufinden wo Evelyn Parker abgeblieben ist und was sie über den Relic Chip weiß. Daher führt uns unsere erste Reise ins Clouds, das ist der Puppenschuppen von dem wir bereits in der Vergangenheit gehört habe. Die Quintessenz ist das ein Computer quasi einen Menschen übernimmt und der dann mit uns interagiert. Das kann auf hardcore SM Sessions hinauslaufen aber wohl auch auf tiegründige Gespräche mit jemanden der uns scheinbar sehr zu kennen scheint. Die Menschen dahinter erinnern sich am Ende an nichts. Das wirft übrigens bei mir die Frage auf warum man sich überhaupt die Mühe macht Menschen mit Chips und nicht gleich vollständige Roboter zu benutzen? Warum ist es so wichtig das jemand dafür benutzt wird?
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #27
+
+* Titel: `Cyberpunk 2077 - #27 - das Clouds [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die ganze Geschichte mit den Puppen hatte ich ja schon in der letzten Beschreibung kurz thematisiert, wir sind jetzt offiziell, also laut Titel im Clouds. Vorher waren wir ja größtenteils draußen, hatten ein kleines Pläuschchen mit Johnny aber jetzt gehts ans eingemacht. Natürlich gehen wir nicht einfach so rein, lassen uns von einer Puppe bespaßen und verlassen dann wieder die Anlage. Stattdessen erkunde ich einfach alle Möglichkeiten und schaue mal welche Informationen wir aus dieser Einrichtung herausholen können. Das Konzept des Puppenhauses finde ich immer noch ziemlich widerwertig aber wahrscheinlich ist das eine logische Konsequenz wenn man die Möglichkeiten hat die diese Welt bietet. Generell ist das doch einer der großen Trophen hier oder? Wenn es möglich ist wird es gemacht, Moral ist nur ein Wort im Wörterbuch und hat ansonsten keine Bedeutung.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #28
+
+* Titel: `Cyberpunk 2077 - #28 - Chip Probleme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Einsatz im Clouds findet heute ein Einsatz, mehr als eine Stunde Aufenthalt wäre auch etwas obszön wenn man bedenkt das die durchschnittliche Aufenthaltszeit für Kunden dieses Ladens bei irgendwas um die 30 Minuten liegt. Zwischendurch sprechen wir noch mit dem lokalen Verwalter, es ist ja nicht so das die Einrichtung einen Chef hat, die Entscheidungen fällt wahrscheinlich irgend ein Ältester des Tiger Claw Clans, aber immerhin gibt es so etwas wie einen Verwalter der zumindest kleinere Entscheidungen fällen kann. Darunter zählt zum Beispiel auch wohin man kaputte Puppen bringt. Und in diesen Fall ist das Evelyn die wir noch brauchen, schon weil es Fragen gibt die noch nicht beantwortet wurden. Evelyn ist allen anscheinbar nach kaputt, irgendwelche Hacker haben versucht Dinge mit ihr zu tun, so wie es aussieht war es auch ein sehr spezifischer Zugriff. Ihre Chips funktionieren jetzt nicht mehr richtig, und so ist es übrigens auch mit unserem Chips. Es scheint das der Relic nicht ganz so funktioniert wie er eigentlich sollte.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

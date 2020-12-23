@@ -1696,6 +1696,48 @@
 
 ##### #1365
 
+* Titel: `Let's Play ESO #1365 - Düsterweite [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 13 des Markarth DLCs - Sitzung 1
+  
+  Es kommt erstaunlich oft vor das wir uns an ziemlich dunklen Orten wiederfinden. Meistens haben diese Plätze dann so Namen wie "Keller der Abgeschiedenheit" oder "Verließ der verlorenen Hoffnung". Die Düsterweite ist in der Hinsicht sogar etwas lebensbejahender, wirklich! Es ist quasi wie die Schwarzweite nur nicht ganz so tief unter der Erde aber der Rest ist da. Wir finden Falmer, Chauri und jede Menge leuchtende Pilze. Quasi alles was man braucht wenn man seine eigene kleine Schwarzweite erschaffen will. Darin sollen wir irgendwo den letzten Vampir finden der einen Teil einer Botschaft bei sich trägt das uns auf die Spuren eines Reikhelden führt, dem roten Adler. Mit dem möchte Sai Zahan seine Geisterklinge beschwören. Er vermutet das das funktionieren wird weil Rada al-Saran dies vor ewiger Zeit getan hat. Außerdem gibt es uns vielleicht einen Einblick in das Wirken unseres Gegenspielers. Während wir schon einmal in der düsteren Weite sind forschen wir auch noch dem Tun eines Psijik Magiers nach, dazu aber später mehr.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1366
+
+* Titel: `Let's Play ESO #1366 - Klangstörung [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 14 des Markarth DLCs - Sitzung 1
+  
+  Die Dwermer hatten irgendwie, zumindest bevor sie sich selbst aus der Ebene des Seins herausopertiert haben, irgendetwas mit dem Klang und Schwingungen der Harmonie bzw. der Welt zu tun. Mit Klängen kann man irgendwie eine Menge machen, wenn man sich damit beschäftigen würde. Der einzige Grund warum Tamriel noch nicht in Schutt und Asche liegt scheint zu sein das alle beteiligten Fraktionen viel zu sehr damit beschäftigt sind sich gegenseitig die Köpfe einzuschlagen und daher nicht sehen welches gewaltiges Potenzial die Welt vor ihnen bietet. Oder was es mit den Artefakten die bereits da sind auf sich hat. Ärgerlicherweise trifft das wohl nicht auf die Psijik zu, wenn dort ein Meister zu motiviert ist könnte es schnell vorkommen das ein motivierter Meisters des Arkanen sein Wissen ausnutzt um der Welt einen großen Nicht-Gefallen zu leisten. Zum Glück gibt es auch andere Mönche des Ordens die hier als Gegengewichte wirken.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1367
+
+* Titel: `Let's Play ESO #1367 - das Lied des roten Adlers [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 15 des Markarth DLCs - Sitzung 1
+  
+  Die größte Herausforderung für die Ansei, die Schwertsänger aus dem alten Yokuda ist es eine Geistklinge zu beschwören. Wir können das definitiv nicht und Sai Zahan würde es gerne können ist dazu aber auch nicht in der Lage. Angeblich erfordert es großen Fokus und eine Gedankenwelt die auf eine einzige Sache fokussiert ist. Wir wissen außerdem das Rada al-Saran ein solcher Meister des Geisterschwertes war. Diese Fähigkeit verlor er aber als er ein Vampir wurde. Wir wissen nicht ob es daran lag das ein Vampir zu sein und damit eine Verbindung zu Molag Bal zu besitzen den Wegen der Ansei entgegensteht oder ob es einfach nur das Verlangen nach Blut ist das sich als hinderlich herausgestellt hat. Was wir wissen ist das ein mythische Figur aus dem Reik es war die al-Saran diese Fähigkeit zurückbrachte. Roter Adler ist nicht unsterblich und schon lange den Weg aller Sterblichen gegangen, was bleibt ist sein Lied und seine Geschichte. Und sein Lied ist es das wir heute suchen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

@@ -79,3 +79,42 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #7
+
+* Titel: `Risen 2 - #7 - Jacks Leuchtturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da einen Mann, ein Leuchtturm und irgendwo vielleicht auch eine Stadt. Wichtiger ist aber der Mann und der Leuchtturm, sein Name wird Jack sein, höchstwahrscheinlich fuhr er einst, als er noch jung war, noch zur See. Vielleicht ist er die gleiche Person, vielleicht kennt er die Anderen nicht, hat noch nie von ihnen gehört, aber Jack wird da sein. Vielleicht nicht direkt am Leuchtturm, vielleicht wird es andere am Turm geben, aber der Turm gehört Jack. Die Menschen werden Jack kennen, wissen das er der Leuchtturmwärter ist. Sie wissen nicht wie lange er diese Arbeit schon macht, sie berichten das Jack freundlich ist. Und so wird es auch sein, es wird einen Mann mit Leuchtturm geben. Wir werden nicht dieser Mann sein, aber wir werden ihn treffen. Vielleicht existiert er nur für uns, vielleicht existiert er für die Welt. Er ist immer vor uns da, wer weiß wie lange er noch da ist nachdem wir gehen, aber für den Moment treffen wir Jack, und natürlich hat er eine Aufgabe für uns, nicht zu einfach, nicht zu schwer, grade so im Rahmen unserer Fähigkeiten. Das ist  Jack der Leuchtturmwärter. Ein wenig mystisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #8
+
+* Titel: `Risen 2 - #8 - das große Tor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir auf der Insel ankamen haben wir die dortige Niederlassung  der Inquisition bzw. den Außenposten gesehen. Dieser besteht aus einem Gouveneur der scheinbar alle Wachen für sein Anwesen abgezogen hat, davon abgesehen scheint es aber auch kaum andere Gebäude von Bedeutung zu geben, was es auch nicht gibt ist übrigens eine Mauer die den Ort irgendwie beschützt. Bei den Piraten sieht das irgendwie anders aus, die haben beschlossen das ihre örtliche Schnapsbrennerei durchaus schützenswert ist und haben einen mächtigen Palisadenwall aufgezogen. Der wäre im Zweifel wahrscheinlich auch nicht vor Kanonenbeschuss geschützt, aber er sieht zumindest erst einmal ganz eindrucksvoll aus. Uns stellt er vor allen Dingen vor das Problem da auch durch zu kommen. Immerhin gibt es ein ebenso großes Tor. Mit ein wenig Einsatz unserer Silberzunge kommen wir also leicht durch...man muss nur mit den richtigen Leuten reden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #9
+
+* Titel: `Risen 2 - #9 - das Piratennest [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich von dem großen Tor sprach und den Methoden mit  denen wir es überwinden war eigentlich schon klar das wir unsere Tat auch vollbringen können und das es eigentlich nichts gibt was uns so richtig aufhalten kann. Daher sind wir jetzt im örtlichen Piratennest. Die Bezeichnung ist vielleicht etwas irreführend. Die Zivilbevölkerung ist, soweit ich das sehen kann, unter 10. Die meisten Leute hier sind von einem Schiff, in diesem Fall dem von Kapitän Stahlbart, also schon einmal gut, weil genau diesen Kapitän haben wir ja gesucht. Man begegnet uns nicht unbedingt mit Misstrauen aber so richtig freuen tut man sich über unsere Anwesenheit auch nicht. Immerhin geht es hier aber weiter, und die Leute sind nicht einmal ansatzweise so arrogant wie es beim Gouverneur von Puerto Secarico der Fall war. Das ist für mich schon einmal ein großes Plus, nicht mit selbstherrlichen fetten Typen quatschen zu müssen ist in meinen Augen ein großer Vorteil. Leider müssen wir früher oder später noch einmal zurück zu Di Fuego..aber Eines nach dem Anderen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```

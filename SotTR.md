@@ -1103,6 +1103,45 @@
 
 ##### #85
 
+* Titel: `Shadow of the Tomb Raider - #85 - Purpurfeuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In den letzten Momenten ihres Lebens hat uns Unurato noch einige Dinge darüber erzählt wie das Ritual der Sonennfinsternis stattzufinden hat. Dazu gehörte auch das uns das Purpurfeuer leiten sollte. Wie genau das aussieht hat sie leider nicht mitgeteilt aber es  gab den mysteriösen Hinweis das wir es schon erkennen werden wenn wir es sehen. Es stellt sich heraus das Lara in der Tat etwas erkennt wenn es vor ihr steht. Das bringt uns dann heute in die Position mit unserem Plan fortzufahren. Wir danken an der Stelle übrigens auch den absoluten taktischen Versagen von Commander Roque der es nicht auf die Kette kriegt Luftüberlegenheit vernünftig auszunutzen und auch nur ein MG Nest aufzustellen. Alles in allem ist der gesamte Verlauf der Dinge nicht Laras Verdienst sondern das Ergebnis eines flächendeckenden Versagens unserer Feinde. Und eventuell der das unsere Verbündeten nicht unbedingt auf ihr Leben acht geben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #86
+
+* Titel: `Shadow of the Tomb Raider - #86 - Sonnenfinsternis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Zeit ist gekommen, das Ende der Welt ist  gekommen, und nun muss das Ritual vollzogen werden damit eine neue Welt erschaffen werden kann. Dafür braucht es aber den heiligen Dolch und die Schatulle, nur dann kann der Gott geopfert werden um die Welt wieder herzustellen. So oder so ähnlich geht die Legende deren Spuren wir jetzt verfolgen. Das bedeutet auch das wir heute das Finale sehen, die letzten Anstrengungen und schon ist es geschafft, wir müssen es nur irgendwie vollbringen einen Gott zu töten und schon ist die Tat getan. Ganz einfach oder? Nachteil ist leider nur das uns scheinbar niemand helfen wird, das ist ein Kampf nur für Lara. Ich weiß nicht so recht was sie eigentlich danach vorhat, das ganze Abenteuer hat damit angefangen das sie Trinity vernichten wollte und von denen wissen wir bereits das der hohe Rat gefallen ist. Insofern ist unser Ziel bereits erreicht, etwas enttäuschend übrigens das wir den Rat nie zu Gesicht bekommen haben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #87
+
+* Titel: `Shadow of the Tomb Raider - #87 - Marianas Traum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt ist gerettet und die Sonnenfinsternis wurde abgewandt, die Welt neugeschaffen oder zumindest genauso erhalten wie sie einst war. Das bedeutet aber auch das die Yaaxil, die uralten Wächter der Schatulle und des Dolches ihre Aufgabe erfüllt haben. Es wird berichtet das sie aus den Tiefen von Paititi verschwunden sind und niemand sie mehr gesehen hat. Um diesen Umstand machen sich einige Leute Sorgen, daher erkundet Lara Croft einen neuen Tunnel um sich über den Verbleib der seltsamen Fastmenschen zu informieren. Leider sind wir nicht die Erste die diesen Weg beschreitet. Dieses Abenteuer wird dann hoffentlich die letzten losen Enden die wir nach der Geschichte von Schatten von Lara Croft noch haben lösen und uns hoffentlich noch mit einigen Erkenntnissen segnen die uns bisher nicht ergeben haben. Ich habe große Hoffnung in dieses DLCs das wir Einsichten erhalten. Wirklich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
+  ```
+
+##### #88
+
 * Titel: ``
 
 * Beschreibung:

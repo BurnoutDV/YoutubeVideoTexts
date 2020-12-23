@@ -262,6 +262,45 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
+##### #21
+
+* Titel: `Quantum Break - #21 - Schiffskarambolage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch auf dieser Insel und von der wollen wir eigentlich auch recht schnell wieder runter, dabei steht uns aber leider im Weg das es immer noch Absperrungen gibt. Glücklicherweise fällt grade die Zeit auseinander und das Ende der Welt rückt näher. Interessant ist übrigens auch das das Ende der Zeit nicht gleichzeitig passiert, für bestimmte Objekte oder Orte geht die Zeit weiter, das führt zu fiesen Asynchronitäten mit den Objekten der Welt. Wie genau das funktioniert würde mich auch interessieren aber das wäre bestimmt nicht ganz einfach zu erklären, schon weil die Erde als Planet sich ja bewegt, wenn jetzt die Zeit aber nur an bestimmten Orten, oder für alle Orte außer einen stehen bleibt, dann müssten sich diese Orte ja relativ zum Universum weiter bewegen, offensichtlich geschieht das aber nicht. Effekte wie Gravitation und irgendwie auch Licht funktionieren ja weiter. Obwohl Einiges wohl auch darauf hindeutet das die Zeit nicht wirklich steht sondern nur sehr langsam vergeht, andernfalls dürfte Jack Joyce absolut nichts sehen wenn die Zeit steht. Wahrscheinlich sollte ich mir nicht so viele Gedanken um Physik machen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #22
+
+* Titel: `Quantum Break - #22 - alte Fakten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder zurück in der Werkstatt unseres Bruders, unser Bruder der anscheinend basierend auf Erkenntnisse die er durch Leute hat die er in der Vergangenheit getroffen hat erhielt. Leute die wir auch gut kennen. Eine davon ist zum Beispiel Beth Wilder. Irgendwie wird sie durch die Zeitmaschine treten und ihre Leben von 1999, dem Moment als William seine eigene Maschine anwarf noch einmal leben und dabei ein kleines Mädchen einweisen wie sie zu einer ausgezeichneten Agentin für ein noch gegründetes Unternehmen namens Monarch wird. Wir wissen auch das sie sehr wütend auf Paul Serene in dem Moment als sie in die Vergangenheit sprang war, das lässt mich schlussfolgern das unser guter Jack Joyce diese Reise am Ende nicht überleben wird. Oder wir aber in der Zeitbubble enden. Wie genau die Dinge passieren werden wissen wir noch nicht, aber für den Moment erfahren wir immerhin wie die Dinge waren. Das ist schon einmal eine Seite der Dinge.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #23
+
+* Titel: `Quantum Break - #23 - Reise in die Vergangenheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen das wir die Vergangenheit nicht ändern können. Alles was wir tun und tun könnten ist auf Schienen. Wie ein Zug fahren wir von einem Ort zu einem Anderen. Ob wir dabei durch die Zeit fahren spielt keine Rolle. Unser Schicksal ist geschrieben, die Welt bereits gelebt, alles Streben ist eine Illusion, nur die Ausführung eines Plans. Das Ende der Zeit ist eine Gewissheit, nichts was wir tun hat irgendeine Bedeutung weil es nur die Fußstapfen des Unausweichlichen ist. Unsere Reise in die Vergangenheit folgt also einem Schema. Alles was geschieht ist geschehen, und daher weiß ich nicht warum wir überhaupt tun was wir tun. Was wir wissen ist das Beth Wilder ihren früheren Ich ein Tagebuch gibt, sie daraufhin ihr ganzes Leben trainiert um die Beth Wilder zu werden die wir kennen lernen. Und doch, und doch tun wir was wir tun. Anscheinend nur um die Geschichte zu sehen. Sie selbst zu erleben. Aber vielleicht liegt darin ja auch eine Philosophie in sich selbst, wir sind hier nicht um die Geschichte zu formen sondern um sie zu erleben. Wie ein Film, nur sehr viel interaktiver. Ich fange an Zeitreisegeschichten zu verachten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

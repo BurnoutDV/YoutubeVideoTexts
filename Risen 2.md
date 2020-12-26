@@ -118,3 +118,39 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #10
+
+* Titel: `Risen 2 - #10 - Dinge aus dem Meer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die allgemeine Handlung geht anscheinend in die Richtung Fluch der Karabik nur anders. Wie genau die Entwickler genau auf diese Story gekommen sind ist mir natürlich nicht klar, aber so wie es aussieht läuft es wohl darauf hinaus das das Meer unser Feind ist und ich keine Ahnung habe wie Stahlbart überhaupt übers Meer kommt. Heute merken wir auch das die Bedrohung aus den Meer sich nicht nur auf Kraken und das ein oder andere Vieh mit Lampe auf dem Kopf begrenzt ist. Viel mehr gibt es anscheinend wohl auch noch humanoide Viecher die sich uns entgegenstellen können. Das beinhaltet aber nicht nur Menschen die sich mit den falschen Leuten (zumindest aus unserer) Perspektive Verbündet haben sondern auch Ungeheuren die nur noch entfernt an Menschen erinnern. Mir ist nicht klar ob es sich hierbei wirklich um ehemalige Menschen handelt oder ob Mara diese Wesen einfach aus den Nichts erschaffen hat, so wie die Echsenmenschen auch nur das Produkt eines großen Titanen gewesen sind der unbedingt ein paar Diener brauchte. Übrigens kommt an der Stelle ein wenig die Frage auf ob die Menschen nicht nur die Abkömmlinge irgendeines anderen Titanen gewesen sind und nur durch Zufall sich so weit verbreitet haben. Wahrscheinlich hat man sich zwischenzeitlich sogar von seinem Gott/Titan losgesagt weil die Menschen eine komische religiöse Vorstellung haben die, zumindest so sieht es nach eingängiger Beratung mit Experten aus, nicht viel mit der gelebten Wirklichkeit gemein hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #11
+
+* Titel: `Risen 2 - #11 - Verhandlungsmeister [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kleider machen Leute, wenn man die richtige Kleidung trägt kann man bei den Menschen einen bestimmten Eindruck erwecken und sie dazu bringen etwas zu sein was man eigentlich gar nicht ist. Oder selbst wenn man ist was man ist glauben einen die Leute es nicht wenn man die falschen Klamotten am Leib hat. Menschen sind sehr anfällig für den Eindruck, insbesondere den Ersten. Und man kann ihnen nicht einmal einen Vorwurf machen, zu oft war es schon der erste Eindruck der sich im Nachhinein als korrekt herausgestellt hat. Wie dem aber auch sei, wenn man die Wahrnehmung der Menschen richtig manipuliert und weiß was man im richtigen Moment zu sagen hat kann man wirklich viel erreichen. Wir haben außerdem noch Quicksave zur Verfügung, kombiniert mit dem natürlichen Überzeugungstalent des namenlosen Helden ist es uns ein Leichtes die richtigen Fäden zu ziehen um die Dinge zu erreichen die wir wollen. Nichts einfacher als das.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

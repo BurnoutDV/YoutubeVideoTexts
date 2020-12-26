@@ -379,6 +379,71 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #29
+
+* Titel: `Cyberpunk 2077 - #29 - Doc Fingers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir lernen jeden Tag neue nette Leute kennen, wirklich. Teilweise sind die Leute gar nicht so schlimm wie sie aussehen. Heute zum Beispiel lernen wir Doc Fingers kennen. Der arbeitet anscheinend ausschließlich für Nutten bzw. Prostituierte aller Geschlechter. ABER er nimmt auch Naturalien, wenn man sich den guten Doc anschaut könnte man meinen das das was er tut ziemlich abscheulich ist. Andererseits ist die Welt da draußen ziemlich hart, und allen Umständen zum Trotz tut Doc Fingers gute Arbeit für Leute die sonst nichts tun können. Leute die ansonsten ohne Beine oder Arme Enden würden. Insbesondere bei der Menge an Cyberware Implantaten die die Leute sich überall einbauen kann Doc Fingers über Leben und Tot entscheiden, und das für nur einen geringen Preis. Er kann aber nicht allen Leuten helfen. Übrigens ein gutes Beispiel dafür das Aussehen manchmal täuschen kann. Selbstverständlich kann der gute Doc auch noch durchaus seine Schattenseiten haben über die wir nichts wissen. Für den Moment hat er aber noch gutes Karma bei uns. Judy sieht das etwas kritischer, aber mit etwas Abstand, doch, ein guter Kerl der Doc. Ich bezweifle das er eine richtige formale Ausbildung hatte, braucht man ja auch nicht immer.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #30
+
+* Titel: `Cyberpunk 2077 - #30 - illegale Filmchen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich nach Doc Fingers gesucht habe fand ich auch einen Händler für ziemlich schattige Braindance Filmchen. Filmchen ist nicht ganz richtig, Erlebnisse vielleicht? Generell stelle ich mir diese ganzen Braindance Geschichte ziemlich creepy vor. Weil, um das Abzuspielen musst du ja genau die Emotionen und Gefühle simulieren die die Person gespürt hat, was wiederum heißt das du bereits Cyberware in deinem Kopf hast die genau das machen kann, völlig unabhängig von dem Film der abgespielt wird. Das stellt die Restgefahr auf das dein ganzes Leben eigentlich nur eine Simulation in deinem Kopf ist und du in Wirklichkeit auf einer Liege in irgendeiner Zelle liegst. Oder vielleicht 90 Jahre alt bist und dein ganzes Leben ist eine Illusion. Wahrscheinlich aber in diesem Fall nicht unser größtes Problem. Die Snufffilmchen die wir heute finden haben viel mehr das Problem das die Leute deren Erfahrungen wir nacherleben tatsächlich für die Aufnahme gestorben sind. Da fragt man sich doch ob es nicht einfacher gewesen wäre das Ganze zu simulieren, aber wahrscheinlich ginge das wirklich, wäre aber auch teurer.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #31
+
+* Titel: `Cyberpunk 2077 - #31 - Scav Fabrik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Scav scheinen eine Fraktion zu sein die ein wenig mit Ratten zu vergleichen sind, im Gegensatz zu allen anderen Straßengangs scheinen sie absolut keinen Wert darauf zu legen irgendwie eindrucksvoll oder zumindest furchteinflößend auszusehen. Stattdessen handelt es sich um eine Ansammlung von Typen die sich für keinen Job zu schade sind. Auch wenn der Episodentitel eine Fabrik nahelegt in der die Scavs hergestellt werden so ist die Realität doch ein wenig anders. Das Gebäude das wir betreten ist technisch gesehen nicht einmal eine Fabrik sondern eher ein Kraftwerk. So wie es aussieht ist es aber schon seit einiger Zeit außer Betrieb und es bleibt nur noch wenig Strom. Dafür gibt es eine ziemlich enorme und beeindruckende Menge an Kameras die wir an jeder Ecke finden. Und es gibt einige Etagen Keller. Sich dort durchzuschleichen dauert eine Weile, zumindest wenn wir nicht jeden Scav der Anlage auf unsere Anwesenheit aufmerksam machen wollen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #32
+
+* Titel: `Cyberpunk 2077 - #32 - Aufnahmestudio [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manche Dinge die man eigentlich als alltäglich oder zumindest gewöhnlich wahrnimmt können sehr verstörend sein wenn man sie irgendwie pervertiert. Heute zum Beispiel das Wort Aufnahmestudio. Die Scavs verdienen sich gutes Geld damit in dem sie Videos drehen in denen Leute sterben und man die Gefühle genau dieser Tode aufzeichnet. Das tun auch andere Leute und das ist auch nicht schön, in der Regel ist es aber für die Opfer, zumindest soweit wir es sehen konnten nicht unendlich dramatisch. Abgesehen vom Sterben Teil. Die Scavs erfüllen aber bestimmte Wünsche, statt hier also auf Schauspieler zuzugreifen benutzt man echte Menschen deren Gefühle auch dementsprechend echt sind, dann inszeniert man die Situation die man aufzeichnen will und verkauft dieses Material dann. So gesehen ist das ganze Kraftwerk ein Aufnahmestudio, besonders wichtig sind aber ein paar finstere Kellerräume die wirklich unerfreulich aussehen. 
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #33
+
+* Titel: `Cyberpunk 2077 - #33 - versteckte Erinnerungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal begräbt man Erinnerungen ganz tief einfach weil man sie selbst nicht mehr sehen will. Dann muss man nur noch vorsichtig sein das man nicht irgendwie dennoch daran erinnert wird. Evelyn Parker hat nicht dieses Problem, ihre versteckten Erinnerungen sind viel mehr vor anderen Augen versteckt. Ein wahres Problem wenn man soviel Chips im Kopf hat das das Gehirn nur noch einen kleinen Teil ausmacht. Ein geübter Handwerker kann solange am Gehirn herumschrauben bis auch die geheimste Erinnerung offen liegt. Zumindest so lange diese Erinnerungen irgendwie aufgenommen werden. Welche Glück das unsere gute Evelyn sich anscheinend eine Gewohnheit daraus gemacht hat bei jeder Gelegenheit Braindance Aufnahmen zu machen. Nützlich für Leute die sich das später anschauen wollen. Menschen nehmen auch komplett ohne Implantate eine Menge mehr wahr als sie dann verarbeiten. Wenn man jetzt noch zusätzliche Sinne einbaut wird das Ganze total überwältigend, es sei denn man filter alles die meiste Zeit weg. Was eine Verschwendung guter Sensordaten, wie günstig wenn man sich hinterher noch einmal eine Zeitlupenaufnahme anschauen kann.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

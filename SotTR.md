@@ -1142,10 +1142,13 @@
 
 ##### #88
 
-* Titel: ``
+* Titel: `Shadow of the Tomb Raider - #88 - Xquic, die Blutjungfer [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und hier sind wir in der letzten Episode der Abenteuer von Lara Croft in Südamerika. Mir wurde gesagt das andere Tomb Raider Teile in der Vergangenheit viel öfter das Reiseelement hatte. Dieser Teil hatte das ja tatsächlich auch, allerdings sind wir von nordamerikanischen Jungle zu südamerikanischen Jungle gereist. Ich habe ehrlich keine Ahnung inwiefern sich das Zeug von einander unterscheidet. Ich würde es nicht erkennen. Dennoch nimmt unsere Reise hier ein Ende, trotz der geringen überwundenen physischen Entfernung. Wir forschen noch ein letztes Mal nach was eigentlich aus den Yaaxil geworden ist, die komischen wilden Zwergen die uns bis zuletzt Steine in den Weg geworfen haben und dann geholfen haben. Die sind nämlich auf einmal verschwunden und sind einfach nicht mehr da. Es stellt sich heraus das es einen langen Tunnel gibt der vorher nicht ersichtlich war. Außerdem kriegen wir anscheinend heraus das alles was wir erleben auf das Wirken eines alten Gottes zurückgeht. Das lässt uns wohl schlussfolgern das auch die Dinge in Sibirien und Japan das Tun von anderen Gottheiten oder alles des gleichen Gottes war der nur unterschiedliche Namen hatte. Es lässt uns aber auch schlussfolgern das die Welt der Götter wohl vorbei ist, vielleicht liegt es an der Entwicklung der Menschen. Vielleicht an fehlender Anbetung. Waren die Dinge die wir gesehen haben überhaupt nur lose Enden die über waren von dem Zeitalter der Götter und Lara Croft hat quasi geholfen diese Enden abzuschneiden. Tut Lara Croft den Willen der Götter/Gottes? Das wäre auch noch ein großer Twist. All die Zerstörung wurde von ganz oben angewiesen. Göttliche Intervention würde zumindest das unfassbare Glück das wir im Kanon haben erklären oder? Und die schnelle Heilung.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Shadow of the Tomb Raider auf dem Montag Slot.
   ```

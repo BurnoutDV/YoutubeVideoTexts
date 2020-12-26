@@ -301,7 +301,46 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
-##### #Nummer
+##### #24
+
+* Titel: `Quantum Break - #24 - Beths Tagebuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in 2010, das ist keine besonders weite Reise in die Vergangenheit, tatsächlich sind 6 Jahre durchaus ein Zeitrahmen den man noch ziemlich gut überspringen kann finde ich. Selbst wenn die Zeitreise absolut schief geht sind 6 Jahre noch genügend Zeit das man einfach abwarten kann ohne das die Konsequenzen allzu gewaltig sind. Anders sieht es für Beth Wilder aus, die war am Ende der Zeit und konnte dort nur mit dem Gerät überleben das sie durch Zufall trug. Aber sie war nicht alleine. Beth Wilder hat eine Menge durchgemacht, und so wie es aussieht nimmt ihre Geschichte jetzt eine Kreisreise an. Alles was wir über Beth wissen ist das sie 2010 verschwand, ich habe ein ziemlich schlechtes Gefühl was ihr Überleben bzw. weitere Existenz angeht. Zuerst lesen wir aber ihr Tagebuch, das ist sehr informativ für uns und auch ein wenig deprimierend. Die Worte einer Person die jeder Illusion beraubt ist das sie irgendetwas tun kann. Alles passiert obwohl sie es verhindern wollte, oder schlimmer noch, es passiert WEIL sie es verhindern wollte. Das nimmt den eigenen Leben ein wenig die Agenda nicht wahr?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #25
+
+* Titel: `Quantum Break - #25 - Wills Labor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren bereits schon einmal in Williams Labor, damals war er uns irgendwie noch weniger vertraut und auch weit weg. Es ist schon komisch wenn man sich mit seinem eigenen Bruder verfremdet. Das Leben der Joyces war nicht immer einfach, die Eltern starben jung 1999, der eine Bruder ein genialer Wissenschaftler der sich ganz in seiner Arbeit verloren hat während der Andere sein Leben einfach nur im Trotz zu Allem gelebt hat. Als wir damals am Anfang, am 9ten Oktober 2016 ankamen haben wir unseren Bruder nur kurz getroffen. Seit dem haben wir Einiges von dem was er getan hat gesehen, durch Beth Wilder und das Nachlesen seiner Arbeit ist er uns näher gekommen, selbst sein Labor ist für uns irgendwie wirklicher geworden. Jetzt wieder im Labor zu sein ist so wie William noch einmal zu treffen, aber William ist nicht da. Er wird wohl nie wieder da sein während wir da sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #26
+
+* Titel: `Quantum Break - #26 - Wieder 2016 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das mit den Zeitreisen fängt an wirklich verwirrend zu werden. Wir waren kurz im Jahr 2010, dort blieben wir aber wegen einer Verkettung unglücklicher Umstände nicht lange. Generell ist es übrigens ein wenig seltsam das die Gegenmaßnahme in der Lage war uns zurück in die Zeit zu bringen aus wir ursprünglich gekommen sind. Und zwar genau den richtigen Moment, so als hätten wir eine Art Anker in uns den normale Zeitreisende nicht haben, Paul Serene der eigentlich genauso wie wir funktionieren wurde zum Beispiel nicht in die Zukunft geworfen, vielleicht weil seine Zukunft plus der Jahre die er bereits verbracht hat an einem Ort liegt der gar nicht mehr existiert bzw. existieren wird so wie die Dinge stehen. Aber was bedeutet das für alle anderen Leute die es nicht zurück wirft. Tut die Gegenmaßnahme Dinge damit alles wieder in seiner Zeit landet. Warum war dann Beth Wilder nicht wieder wo sie herkam? Oder war sie schon zu lange ohne eine natürliche Zeitreisefähigkeit zu haben in dieser Zeit so dass sie sich gewöhnt hat, an das wo und wann wir sind. Die Frage ist aber auch, wir haben Beth sterben sehen, William wusste nicht von den Waffen, Serene hat die Zeitmaschine nie gefunden, wer hat eigentlich das Labor aufgeräumt? Seltsam oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #27
 
 * Titel: ``
 

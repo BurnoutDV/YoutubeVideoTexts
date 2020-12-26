@@ -1664,6 +1664,13 @@
   Irgendwie habe ich das Gefühl das ich das hier schon alles einmal gemacht habe, das Erkunden der Welt auf der Suche nach Hinweisen um irgendetwas mit diesen Informationen zu erreichen. In diesem Fall ist die ganze Geschichte aber etwas interessanter als sonst. Ironischerweise weil wir eigentlich gar nicht an den Informationen interessiert sind die wir zusammen sammeln. Tatsächlich ist es so das wir als externe Elfe ziemlich außerhalb des inneren Konflikts des Reiks stehen. Irgendwelche Rebellen tun Dinge gegen den Typen auf dem Thron von Markarth. Das wäre uns absolut egal wenn wir nicht mit eben jenen Typen reden wollten. Also sammeln wir Informationen über seine Feinde. Was er damit dann macht oder wie es den Rebellen ergeht spielt für mich keine Rolle. Hauptsache wir erhalten das Gespräch bzw. die Audienz um unseren Fall der das Große und Ganze betrifft darlegen zu können. Alles andere ist sekundär.
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  
+  Bücher:
+  0:00 - 2:58: Gameplay
+  2:58 - 5:49: Gruselgeschichten über das Tiefenvolk, Buch 2
+  5:50 - 7:56: Gameplay
+  7:57 - 13:18:Gruselgeschichten aus Druadach, Buch 1
+  13:19 - 18:41: Gameplay
   ```
 
 ##### #1363
@@ -1732,6 +1739,48 @@
   Folge 15 des Markarth DLCs - Sitzung 1
   
   Die größte Herausforderung für die Ansei, die Schwertsänger aus dem alten Yokuda ist es eine Geistklinge zu beschwören. Wir können das definitiv nicht und Sai Zahan würde es gerne können ist dazu aber auch nicht in der Lage. Angeblich erfordert es großen Fokus und eine Gedankenwelt die auf eine einzige Sache fokussiert ist. Wir wissen außerdem das Rada al-Saran ein solcher Meister des Geisterschwertes war. Diese Fähigkeit verlor er aber als er ein Vampir wurde. Wir wissen nicht ob es daran lag das ein Vampir zu sein und damit eine Verbindung zu Molag Bal zu besitzen den Wegen der Ansei entgegensteht oder ob es einfach nur das Verlangen nach Blut ist das sich als hinderlich herausgestellt hat. Was wir wissen ist das ein mythische Figur aus dem Reik es war die al-Saran diese Fähigkeit zurückbrachte. Roter Adler ist nicht unsterblich und schon lange den Weg aller Sterblichen gegangen, was bleibt ist sein Lied und seine Geschichte. Und sein Lied ist es das wir heute suchen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1368
+
+* Titel: `Let's Play ESO #1368 - Vorratslager [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 16 des Markarth DLCs - Sitzung 2
+  
+  Wir haben die Welt gerettet. Vor Drachen, Daedra, dann wieder Daedra, irren Totenbeschwörer, anderen Daedra und dann auch noch ganz allgemeine und überhaupt. Nebenbei haben wir mehre Königreiche vor dem Untergang bewahrt. Und was machen wir mit all dem Ruhm? Laufburschenarbeit. Oder Laufmädchen? Wie dem aber auch sei, das Erste was den Hexenrebellen die diesen Namen eigentlich eher nicht tragen wollen einfällt wenn sie die mysteriöse Hochelfe mit der Masken aus dem Haus der Kunst sehen, das ist, Laufarbeit. Schön, wir nehmen also irgendwelche Vorratslager der grauen Schar hoch in denen wir total überraschend weitere Vorräte finden die man zur Durchführung eines Gramsturmes braucht. Anscheinend sind die Eiskaphexen immer noch im Geschäft, erstaunlicherweise haben wir aber bisher keine gesehen. Nur Vampire, vielleicht ist die Personaldecke der grauen Schare mittlerweile groß genug das man die wertvollen Hexen besser beschützen kann.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1369
+
+* Titel: `Let's Play ESO #1369 - Arana [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 17 des Markarth DLCs - Sitzung 2
+  
+  Im Titel könnte auch stehen "Hexenrebellin Arana" oder auch "Anführerin Arana". Sie selber bevorzugt es aber auf jeden Fall nicht als Hexenrebellin bezeichnet zu werden. Stattdessen war sie anscheinend bis vor Kurzem eine ziemlich normale Stammeshexe die sich halt um die spirituellen Belange eines Reikklanes gekümmert hat, dann sind Dinge geschehen und man sah sich gezwungen einzugreifen. Namentlich ist das Ard Caddach und seine Beraterin Belain, gegen den Ard scheint sie nicht direkt negative Gefühle zu haben auch wenn sie impliziert das sie durchaus gewillt wäre sein Leben ein Ende zu setzen wenn es keine anderen Möglichkeiten gibt. Aber, sie räumt ein das dies nicht die erste Option ist die sie erkunden will. Und das ist doch eigentlich ziemlich gut für den Ard, bedeutet es doch das man hier einen diplomatischen Kompromiss finden kann. Auch sonst erscheint mir die gute Arana eigentlich ein ziemlich vernünftiger Mensch zu sein, gewissermaßen ist das für mich recht enttäuschend weil es bedeuted das die Dinge ein wenig schwierig werden und wir harte Entscheidungen treffen müssen wenn es am Ende dazu kommt. Alles wäre wesentlich einfacher wenn einer der beiden Fraktionen objektiv im Unrecht ist und wir einfach den Weg der Gerechtigkeit bzw. des größten Reichtums gehen. Das ist meistens eh der Gleiche.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1370
+
+* Titel: `Let's Play ESO #1370 - Innenschau [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 18 des Markarth DLCs - Sitzung 2
+  
+  Gelegentlich respektiert uns ein Feind so sehr das er bereit ist mit uns über die Dinge zu sprechen die wir tun. Meistens kommt das aber nur vor wenn sich dieser Feind uns sehr überlegen fühlt. Und ja, wir sind nicht die alessianische Armee die ihrer Zeit die graue Schaue das erste Mal besiegt hat, dennoch halte ich mich doch eigentlich für ziemlich komponent in den meisten Dingen. Und doch meint ein gewisser  Rada al-Saran das er in absoluter Sicherheit mit uns reden kann ohne irgendetwas befürchten zu müssen. Ich würde ihm ja gerne zeigen wie falsch er liegt leider beschreiten wir beide den Pfad des Schicksal und jetzt ist noch nicht der Moment gekommen als das wir den seinen überkreuzen können. In irgendeiner sinnvollen Art und Weise zumindest. Und so belassen wir es heute sogar bei einem normalen Gespräch in dem wir einige Ansichten der Gegenseite erfahren. Eigentlich ist das auch einmal ganz schön, wenn auch ein wenig befremdlich, insbesondere wenn unser Gegenüber uns implizieren will das wir absolut keine Chance haben.
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```

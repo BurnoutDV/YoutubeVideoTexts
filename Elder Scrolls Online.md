@@ -1785,6 +1785,20 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1371
+
+* Titel: `Let's Play ESO #1371 - die zweite Audienz [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 19 des Markarth DLCs - Sitzung 2
+  
+  Ard Caddach ist ein vielbeschäftigter Mann, oder zumindest diesen Eindruck möchte er uns vermitteln. Da der Einflussbereich von Markarth aber ziemlich klein ist hat so ein Ard schon noch Einiges an Zeit über um internationale Gäste zu empfangen. Uns zum Beispiel, oder einen Grafen aus dem fernen Kluftspitze. Daher gewährt er uns heute auch eine zweite Audienz, vielleicht aber auch weil er glaubte das wir seine Konkurrenz bereist für ihn niedergerungen haben. Was das angeht haben wir überraschend wenig vorzuweisen. Normalerweise ringen wir die feindlichen Anführer nieder bevor es Mittag ist, aber hier haben wir nur mit Arana gesprochen, ein kleines Vorratslager Unternehmen angefangen und dann einen kleinen Plausch mit unseren Erzfeind angefangen. Nicht unbedingt das was der Ard hören wollte. Das Schlimmste ist aber das selbst unsere Information die Fürstin Belain angeht ihn nicht wirklich überrascht. Anscheinend ist Ard Caddach ein Mann der seine Feinde gerne nahe hat. Ein sehr riskanter Plan.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

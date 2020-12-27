@@ -342,6 +342,19 @@
 
 ##### #27
 
+* Titel: `Quantum Break - #27 - Episode 4 - Rettungsboot Protokoll [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es folgt die nächste TV-Show Episode. Von mir gibt es da nicht viel zu sagen, wir schauen zu wie unsere Helden sich durch die Geschichte schlagen und Dinge tun. Dabei stellt sich heraus das Leute von denen wir dachten das man sie schon gar nicht mehr in der Geschichte hat doch noch wieder vorkommen. Allerdings muss ich die Urteilsfähigkeit von Paul Serene anzweifeln der denkt das ein extrem angeschlagener Kerl in der Lage ist die enorm wertvolle Gegenmaßnahme zu beschützen. Mir ist übrigens nicht so ganz klar warum das Gerät eigentlich genau da liegen muss wo es liegt. Hat da niemand Angst das das Gebäude nicht im letzten Moment von irgendwas erwischt wird?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

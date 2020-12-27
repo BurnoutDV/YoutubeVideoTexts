@@ -145,12 +145,15 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #12
 
-* Titel: ``
+* Titel: `Risen 2 - #12 - Kapitän Stahlbart [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Er existiert wirklich! Das war nicht von Anfang an klar, bis hier hin hätte es wirklich sein können das Patty einfach nur ein Mädchen aus zweifelhaften Hause ist die keine Huren werden wollte (der einzige ehrbare Beruf für eine Frau in dieser Zeit außer Magd und Leibeigene) und daher eine Geschichte erfunden hat um besser klar zu kommen. Vielleicht gab es ja irgendeinen Piraten namens Stahlbart und sie baute auf dessen Reputation auf. Ein Typ wie Stahlbart der in seiner Jugend wahrscheinlich in jeder Hafenkneipe der Welt abgehangen hat und dort die Nutten besuchte hat bestimmt mehr als nur eine Tochter und auf jeden Fall eine Menge Söhne. Wir wissen fairerweise übrigens nicht ob es vielleicht wirklich eine Mutter Stahlbart gibt die eine engere und längere Geschichte mit Vater Stahlbart hat. Wie dem aber auch sei, der Mann ist ein bärtiger Typ (wer hätte das wohl erwartet)  der ein Piratenschiff anführt und der weiß wo die Waffe liegt mit der wir den Kraken besiegen können der hier die Meere unsicher macht. Jetzt müssen wir ihm nur noch klar machen das wir ein aufrechter Pirate sein können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

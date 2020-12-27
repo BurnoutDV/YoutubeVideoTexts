@@ -26,6 +26,18 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
   ```
 
+##### #3
+
+* Titel: `Uncharted - #3 - U-Boot im Urwald [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nathan Drake ist auch so ein Typ der Dinge im Dschungel findet die vorher noch niemand gefunden hat. Heute ist das ein U-Boot der Kriegsmarine das irgendwie auf Land gelaufen ist. Ich würde ja spontan eine ziemlich gewaltige Flutwelle vermuten. Da an Bord nicht grade besonders viele Leute sind nehme ich auch einmal an das sich die restliche Crew irgendwie verziehen konnte. Das das Boot auf Land gelaufen war weil das Wasser zurückgelaufen ist glaube ich eher nicht. Wie dem aber auch sei, es stellt sich doch glatt heraus das diese Zeugnisse deutscher Geschichte die noch ziemlich gut erhalten sind uns einen weiteren Hinweis auf den großen Schatz liefern dem wir im Tagebuch von Sir Francis Drake vermutet haben. Eigentlich ist es sogar ziemlich erstaunlich das wir genau diese Hinweise an genau diesen Ort gefunden haben, aber das Glück ist wohl mit den Tüchtigen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

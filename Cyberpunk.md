@@ -444,6 +444,32 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #34
+
+* Titel: `Cyberpunk 2077 - #34 - Auftragskiller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In Shadowrun ist Wetwork, also das zielgerichtete Töten von Zielpersonen und nicht nur Entführen oder Sabotieren eine heikle Sache. Etwas das selbst in der moralfreien Gesellschaft des Jahres 2077 noch eine schwierige Geschichte ist. Allerdings gibt es hier soweit ich weiß Einschränkungen, wenn man das Töten moralisch irgendwie erklären kann dann geht das wohl irgendwie in Ordnung. Relevant werden die moralischen Fragen erst wenn man unschuldige Zivilisten oder Unbeteiligte Forscher tötet. Irgendwelche Ganger würden wahrscheinlich von jeden Runner der sich finden lässt abgeknallt ohne das irgendwelche Fragen aufkommen. Die Art der Morde die wir heute auf dem Plan stehen haben sind daher weniger moralisch angreifbar sondern zielen auf eiskalte Berufsverbrecher, wir können uns also quasi als eine Art weißen Ritter sehen der die Schwachen und Unterdrückten verteidigt und in ihren Namen tötet. Je nach dem wie weit man gehen will ist es aber wohl nie in Ordnung im Namen von Irgendjemanden zu töten. Die ganze Leute die zufälligerweise aus Versehen während unserer Einsätze den Tod finden zählen übrigens nicht. Die passieren einfach.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #35
+
+* Titel: `Cyberpunk 2077 - #35 - Ripperschwund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um unsere Finanzen aufzubessern nehmen wir diverse Nebenmissionen an die uns irgendwie durch die Unterwelt leiten, technisch gesehen sind wir übrigens auf Watson mit unseren Aufträgen beschränkt, aber dennoch gibt es auch anderen Orten Dinge für uns zu tun. Manchmal kombinieren sich sogar mehre Aufträge an einem Ort. Das ist dann besonders praktisch, das macht aus einer einfache Infiltration einen doppelt nützlichen Job. Hier geht es um den Datenspeicher von Sandra Dorsett, die die wir am Anfang gerettet haben und einen anderen Typen dessen Namen ich bereits vergessen habe. Da hier der Datenspeicher von Dorsett liegt ist die Wahrscheinlichkeit auch ziemlich groß das das hier die gleichen Scavs wie die sind die wir damals mit Jackie hochgenommen haben. Wir finden aber außerdem noch heraus wer eigentlich für die Scavs die Operationen durchführt, Ripperdocs in der Stadt sind rar, und dennoch wird es heute einer weniger.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

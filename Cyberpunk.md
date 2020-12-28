@@ -470,6 +470,32 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #36
+
+* Titel: `Cyberpunk 2077 - #36 - Pressefreiheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich machen wir heute mehr als nur um einen Typen zu kümmern dem die Pressefreiheit enorm wichtig ist. Wir haben nämlich, bevor wir im Fernsehstudio ankommen um unseren guten neuen Freund Jesse gekümmert. Der hat sich nämlich einen Mr. Studd Modell XCV/19 installiert, es stellt sich heraus das das Modell wieder aus dem Verkehrt gezogen wurde, es war wohl für den Endverbraucher nicht zu gebrauchen. Wirklich erstaunlich eigentlich das in dieser Gesellschaft überhaupt irgendjemand etwas zurückfordert, der Schaden für die Reputation war wohl doch zu groß. Das hat Jesse aber nichts gebracht, der kaufte nämlich auf dem Schwarzmarkt. Aber all das ist natürlich gar kein Problem wenn man eine freundliche Person wie V. kennt. Und als wir dann in der Nähe des entsprechenden Ripperdocs waren hat sich Regina Jones gemeldet und uns gebeten einen alten Kollegen zu retten. Jemand der noch wesentlich mehr Moral und Werte hochhält als sie. Ich habe nebenbei bemerkt den Verdacht Regina uns auf der Kurzwahl hat. So oft wie sie uns anruft.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #37
+
+* Titel: `Cyberpunk 2077 - #37 - Selbstverbesserung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dadurch das wir quasi eine Standleitung zu Regina Jones haben kommt auch Einiges an Geld ran. Es ist ja nicht nur so das wir für die Aufträge bezahlt werden die wir erledigt haben sondern auch das die Leute die wir umlegen bzw. in die Bewusstlosigkeit würgen ebenfalls Geld dabei haben. So oder so, unser Lebensstill ist zwar ziemlich riskant aber man kann nicht sagen das es nicht auch lukrativ ist, im Vergleich zu einer Konzernratte die irgendwas tut und wahrscheinlich noch wesentlich mehr Menschen gefährdet ist das aber wohl nichts. Man muss das wohl alles relativ sehen, was es aber an der Stelle bringt ist neue Cyberware für uns. Bis her sind wir ja ganz gut durchgekommen, aber unsere Ausrüstung lässt dennoch sehr zu wünschen übrig. Es folgt also eine wilde Fahrt durch die Stadt auf der Suche nach einem Ripperdoc der tatsächlich bereit ist mir gute Cyberware einzubauen, und nicht nur so mittelprächtige Ausrüstung.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

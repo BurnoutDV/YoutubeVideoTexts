@@ -353,6 +353,19 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
+##### #28
+
+* Titel: `Quantum Break - #28 - Monarch HQ [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind ja wieder in der Jetztzeit, oder zumindest in der relativen Jetztzeit von Jack Joyce. Der hat ja bis jetzt keine Zeit in der Vergangenheit verbracht, soweit ich das sehen kann haben wir aber jetzt ein wenig Lebenszeit verloren weil wir unseren halben Tag in 2010 anscheinend verbracht haben aber uns die Gegenmaßnahme wieder genau in den Moment gebracht hat in dem wir gestartet sind. Oder ist relativ die Stunde oder zwei vergangen die wir wirklich verpasst haben? So oder so, es ist jetzt Abend, bis zum Monarch HQ sind es ja schon ein paar Meter. Wann genau wir jetzt sind und wie genau das mit der Zeit zusammen passt weiß ich nicht. Was ich aber weiß ist das wir eine Verbündete verloren haben und dafür eine neue Gewinnen. Die Zeiteinbrüche werden auf jeden Fall immer häufiger, ob die Zeit um Mitternacht stehen bleibt? Das wäre wunderschön dramatisch. Offensichtlich ist aber auch das der Effekt der Zeit an verschiedenen Stellen unterschiedlich stark ist. Das stellt übrigens die Frage für mich inwieweit der Einfluss auf das gesamte Universum aussieht oder ob der Zusammenbruch der Zeit nur ein Ereignis ist das zwar die Milchstraße mitnimmt oder vielleicht sogar nur das sich bewegende Sonnensystem aber in großen Maßstab relativ wenig tut. Für die Menschen ändert das natürlich nichts.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

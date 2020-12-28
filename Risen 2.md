@@ -157,3 +157,26 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #13
+
+* Titel: `Risen 2 - #13 - der Weg des Verbrechens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das große Problem an Verbrechen und Videospielen ist das es enorme Belohnungen gibt und quasi absolut kein Risiko. Klar wir könnten erwischt werden aber man muss sich schon ziemlich dem Spiel hingeben wenn ich dann nicht laden würde. Ja ich gebe zu, ich savescumme soviel ich nur kann, das liegt aber auch daran das ich das Schicksal einen bestimmten Kurs nehmen lassen will. Und wenn das nicht beim ersten Versuch klappt dann muss ich halt noch einmal kurz in die Vergangenheit gehen und es noch einmal versuchen. Was das angeht ist Risen übrigens ziemlich gemächlich. Bis hier hat mich noch niemand direkt angegriffen nur weil ich in irgendeiner Hütte war. Taschendiebstahl ist ziemlich risikofrei und heute lernen wir dann noch das Schlösserknacken. Normalerweise fragt man sich ja warum man vom Pfad der Rechtschaffenheit abweichen sollte, aber hier stellt sich eher die Frage: Warum sollte ich ehrlich bleiben? Da entgehen mir Profite. Obwohl...bis her waren die Funde eher mittelmäßig, die Kosten sind noch nicht raus. Das ging auch schon einmal schneller.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

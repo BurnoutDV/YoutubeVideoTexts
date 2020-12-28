@@ -38,6 +38,18 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
   ```
 
+##### #4
+
+* Titel: `Uncharted - #4 - Bruchlandung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich stelle gewisse Übereinstimmungen zwischen Lara Crofts Abenteuer irgendwo und den Wirken von Nathan Drake fest. Fräulein Croft stürzt auch gerne mit Flugzeugen ab aber in der Regel gab es da keine Luftabwehrkanonen. Ich weiß übrigens nicht ob zivile Propellermaschinen soviele Schuss überhaupt aushalten. Aber soweit ich das verstanden habe trifft eine FLAK in der Regel auch nicht das Gefährt selbst sondern schießt irgendwo grob in den Himmel und explodiert dann in der ungefähren Höhe des Flugzeuges und die Splitter tun dann Dinge, wie zum Beispiel den Flieger runter zu holen. Auf der andere Seite stürzen wir bei Tomb Raider meistens durch irgendwelche komischen Wetterphänomene ab die vorher nicht zu sehen waren. Insofern finde ich die Nathan Drake Variante fast schon besser. Das Endergebnis ist aber das Gleiche, wir verlieren unseren Begleiter, wir stehen irgendwo in der Pampa rum und die bösen Buben kommen natürlich alle sofort zu uns. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

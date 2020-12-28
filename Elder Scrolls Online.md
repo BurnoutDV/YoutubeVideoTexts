@@ -1799,6 +1799,20 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1372
+
+* Titel: `Let's Play ESO #1372 - Reikherausforderungen [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 20 des Markarth DLCs - Sitzung 2
+  
+  Und hier fängt jetzt ein mehr als einstündige Odysse an die damit enden wird das ich mich ganz doll aufrege. Inhalt ist das wir den Geisterblut-Klan auftreiben der anscheinend seine Jugend durch eine etwas schwierige Reihe von Herausforderungen treibt. In anderen Worten, die Frauen dieses Klans müssen ziemlich gebärfähig sein, aufgrund der Schwierigkeit kann ich mir nicht vorstellen das besonders viele junge Krieger des Clans zum Erwachsenen werden. Eventuell ist es auch ein Klan von Kindern und nur die größten Kämpfer werden zu richtigen Erwachsenen. Anders kann ich mir übrigens nicht erklären wie man auf die Schnapsidee kommt seine Kinder massenhaft in Daedra rein zu schicken. Oder aber das eigentliche Jagtgebiet des Klans ist winzig klein und man hat nur sehr begrenzte Nahrungsvorräte. Irgendwas erscheint mir auf jeden Fall fischig an der ganzen Geschichte hier, oder die Herausforderungen waren in der Vergangenheit leichter. Wer weiß das schon.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

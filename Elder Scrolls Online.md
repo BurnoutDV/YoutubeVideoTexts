@@ -1813,12 +1813,16 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
-##### #Nummer
+##### #1373
 
-* Titel: ``
+* Titel: `Let's Play ESO #1373 - die Riten des Vateshran: die Wunde [Markarth]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 21 des Markarth DLCs - Sitzung 2
+  
+  Ich habe ja bereits in der letzten Episode erwähnt das die ganze Angelegenheit hier in den Abgründen des Vateshran nicht so direkt das sind was ich in der Regel mache. Dennoch bin ich eigentlich auch ziemlich begeistert das der Versuch unternommen wurde die einzelnen, an sich ziemlich stumpfen Gefecht mit Geschichte aufzuwerten, außerdem sind die einzelnen Kämpfe auch ziemlich anspruchsvoll. Auf jeden Fall wesentlich schwieriger als Alles was ich sonst so tue. Die große Gefahr die ich jetzt nur sehe ist das ich mich bei allen anderen Kämpfen die ich jetzt noch so mache am Ende noch langweilen werde weil sie nicht die Qualität erreichen die ich hier gesehen habe. Meine Reise beginnt mit der Wunde, ein Ort an dem kalte Feuer brennen und der sehr wie eine Erweiterung von Kalthafen aussieht, ein Ort an dem wir schon wirklich lange nicht mehr waren, und darüber bin ich nicht einmal traurig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```

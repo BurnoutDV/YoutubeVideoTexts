@@ -171,12 +171,15 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #14
 
-* Titel: ``
+* Titel: `Risen 2 - #14 - Diebeshandwerk [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Jetzt wird es ein wenig dupliziert in der Wahrnehmung der Episodentitel, es handelt sich aber um die Fortsetzung von dem was wir vorher getan haben. War es vorher so das wir seicht des Weg des gewöhnlichen Diebes eingeschlagen haben so möchte ich jetzt sagen das ich natürlich Ambitionen entwickle, ein mittelmäßiger Dieb würde vielleicht gut genug sein wenn ich irgendwo dauerhaft wäre und nur mein tägliches Auskommen bezahlen müsste, dem ist aber nicht so. Im Gegenteil, unsere Kosten für Ausbildung und Ausrüstung sind gewaltig, wir müssen also ein ebenso gewaltiger Dieb werden. Problematisch ist aber der Preis dieser Operation der nicht grade gering ist. Daher lernen wir heute was wir können, es ist aber klar das es nicht reichen wird, immerhin sind wir jetzt ein etwas besserer Dieb, wenn auch bei Weitem noch nicht perfekt. Immer noch habe ich aber Zweifel ob unsere Fähigkeiten überhaupt am Ende mehr Geld einspielen als die Ausbildung gekostet hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

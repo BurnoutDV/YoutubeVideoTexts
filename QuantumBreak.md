@@ -366,7 +366,20 @@
   Quantum Break auf dem Dienstags Slot.
   ```
 
-##### #Nummer
+##### #29
+
+* Titel: `Quantum Break - #29 - Pauls Büro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man wertvolle Gegenstände haben will dann kann man mit Sicherheit die Höhle des Löwen besuchen und wird dort Einiges finden, selbst wenn besagter Bösewicht grade nicht verfügbar ist weil er eine Zeitmaschine besuchen möchte mit der er irgendetwas vorhat was wir uns noch nicht vorstellen können. Finden tun wir vor allen Dingen eine Menge Informationen die uns zeigen wie es ein einzelner Mann geschafft hat an die Macht eines anscheinend global agierenden Konzerns zu kommen der vorher nicht existiert hat. Außerdem finden wir ein paar Memorabilien, was wir außerdem finden ist ein sehr kryptisches Stück Information das ich spontan nicht einordnen kann aber mein Verdacht erhärtet sich das es sich um einen Brief von Martin Hatch bzw. den Wesen das im Moment Hatch ist handelt. So richtig sicher kann ich es aber nicht sagen, muss ich aber nicht, ich kann auch einfach abwarten und schon weiß ich mehr. Ich gebe aber zu das ich eine enorme Befriedigung davon erfahre wenn ich aus wenigen Hinweisen etwas schlussfolgern kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #30
 
 * Titel: ``
 

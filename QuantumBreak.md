@@ -381,6 +381,19 @@
 
 ##### #30
 
+* Titel: `Quantum Break - #30 - die Gegenmaßnahme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist soweit, lange haben wir gejagt, ewig haben wir sie gesucht und nie gefunden. Jetzt wissen wir ja das Monarch das Gerät die ganze Zeit besessen hat. Schlimmer noch, wir wissen das das Gerät seit 2010 eigentlich fertig, William Joyce war in der Lager das Ende der Zeit bereits vor 6 Jahren aufzuhalten wenn man ihn hätte einfach machen lassen. Aber dann ist irgendetwas passiert. Das Gerät endete bei Monarch die aber anscheinen nicht in der Lage waren das Gerät richtig zu verstehen. Das ist übrigens eigentlich ziemlich beeindruckend, ein Unternehmen das seinen Fokus auf die Erforschung der Zeit gelegt hat ist nicht in der Lage etwas zu verstehen das von einer einzelnen Person in einem Labor gebaut wurde.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.xxxxxxxxxx Es ist soweit, lange haben wir gejagt, ewig haben wir sie gesucht und nie gefunden. Jetzt wissen wir ja das Monarch das Gerät die ganze Zeit besessen hat. Schlimmer noch, wir wissen das das Gerät seit 2010 eigentlich fertig, William Joyce war in der Lager das Ende der Zeit bereits vor 6 Jahren aufzuhalten wenn man ihn hätte einfach machen lassen. Aber dann ist irgendetwas passiert. Das Gerät endete bei Monarch die aber anscheinen nicht in der Lage waren das Gerät richtig zu verstehen. Das ist übrigens eigentlich ziemlich beeindruckend, ein Unternehmen das seinen Fokus auf die Erforschung der Zeit gelegt hat ist nicht in der Lage etwas zu verstehen das von einer einzelnen Person in einem Labor gebaut wurde.Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  Quantum Break auf dem Dienstags Slot.Hier
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

@@ -183,3 +183,26 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #15
+
+* Titel: `Risen 2 - #15 - Takarigua, Südosten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir fehlen noch ein paar Goldstücke, und ein wenig XP. Daher begebe ich mich in den unerkundeten Süden der Insel. Dort scheint es noch ein paar Artefakte und andere wertvolle Dinge zu geben die sich zu stehlen lohnen. Oder aber jede Menge von diesen Seeviechern die uns hauen wollen. Und wir haben noch nicht einmal Patty dabei die uns mit ihren weiblichen Fußtritten zur Hilfe kommen könnte. Stattdessen besitzen wir nur eine Muskete die wahrscheinlich schon einem Urgroßvater gehört hat und ungefähr 150 Kugeln. Am Ende des Tages werden wir wohl nicht mehr so viele Kugeln haben. Aber hoffentlich eine Menge Erfahrungspunkte und noch viel mehr Gold damit wir uns einen Handspiegel leisten können der es uns erlaubt Leute besser einzuschüchtern. Wenn es nicht in dieser Ecke der Insel genügend Gold gibt habe ich kaum noch Optionen. Hoffen wir also das ich mich nicht zu sehr aufrege.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

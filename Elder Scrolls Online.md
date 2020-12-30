@@ -1826,3 +1826,27 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1374
+
+* Titel: `Let's Play ESO #1374 - die Riten des Vateshran: Jägergrotte [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 22 des Markarth DLCs - Sitzung 2
+  
+  Es geht weiter mit den Herausforderungen des Vateshrans, etwas spät ist mir aufgefallen das die Herausforderung auch immer schwerer werden. Die Jägergrotte erfordert schon ein wenig mehr Geschick als wir für die Wunde benötigt haben. Es geht sogar so weit das ich die Aufnahme abbrechen musste um ein wenig unabhängig von euren wachen Blick alles zu schaffen. Am Ende gelang es mir natürlich, schließlich bin ich doch ein guter Spieler. Bilde ich mir ein, allerdings hat es mich schon sehr gefordert und ich stelle ein wenig in Frage warum ich das Ganze überhaupt angefangen habe.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

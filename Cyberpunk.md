@@ -496,6 +496,58 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #38
+
+* Titel: `Cyberpunk 2077 - #38 - kleine Geschäfte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese Episode könnte auch "die vielen Jobs von Regina Jones" heißen. Ich muss übrigens anmerken das, auch wenn die Nebenaufträge die wir andauernd per Telefon von unserer Lieblingsfixerin erhalten ziemlich generisch wirken, sie sind es oft nicht. Zumindest nicht von einer Erzählung. Und auch die Orte sind bisher immer irgendwie unterschiedlich gewesen. Klar, du hast dann die üblichen Schläger aber, die Landschaft bzw. das Gelände ist dann doch wieder anders. Heute erleben wir sogar ein wenig Variation in Sachen Gegner, auch wenn ich letztendlich nicht gegen irgendjemanden kämpfe, das wäre ja auffällig. Also mache ich das auch nicht. Der andere Fall den ich eigentlich als Erstes mache findet in einem Bruchgebäude statt. Übrigens möchte ich hier noch einmal unterstreichen das das Durchschießen von Wänden wie wir es in der Tutorial Mission gesehen haben noch nicht wieder vorkam und ich auch nicht glaube das die Engine das überhaupt kann. Falsche Versprechungen und so.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #39
+
+* Titel: `Cyberpunk 2077 - #39 - Rogues Preis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da ist sie mal wieder, die Hauptqwest. Genau so geschrieben. Wir erinnern uns, wir haben so einen mysteriösen Relic Chip in unserem Kopf der uns Stück für Stück tötet und uns unserer Persönlichkeit beraubt. Dagegen müssen wir dringend etwas tun, neben unser Spur mit Takemura gibt es da noch die Identität eines gewissen Anders Hellmann, anscheinend Erfinder der ganzen Geschichte. Natürlich ist der untergetaucht und wir müssen ihm irgendwie hinterher. Jetzt ist aber nicht die Zeit um jahrelang ein Netzwerk aufzubauen, daher brauchen wir das von jemanden anders. Zum Glück scheint es noch Leute aus der Zeit von Johnny Silverhand zu geben die bereit sind mit uns zu reden. Auch wenn sie gar nicht wissen wem wir in unserem Kopf mit uns rum tragen. Ärgerlicherweise ist die Besitzerin des Afterlife vor allen Dingen an Geld interessiert, und das bedeutet das wir eben jenes Geld heranschaffen müssen. Wir sprechen hier über immerhin 150 Eurodollar die noch gefehlt haben.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #40
+
+* Titel: `Cyberpunk 2077 - #40 - Harayoshi Nishikata [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir brauchen Geld. Wiederhole ich mich etwa? Night City hat anscheinend die höchste Verbrechensrate von ganz America bzw. dem was von dem Land halt so über ist. Das überrascht dann auch nicht weiter wenn man danach erfährt das in Night City auch die absolut höchste Arbeitslosenquote gibt. Insofern man bei den restlichen Leuten die irgendwo außerhalb von Night City überhaupt noch so etwas wie Arbeit zählt. Daher nehmen wir gerne auch einmal Aufträge an die nicht so direkt ehrlich oder aufrecht erscheinen. Aber Aufrichtigkeit scheint eher nicht für neue Cyberimplante zu bezahlen und die brauchen wir halt um Dinge zu tun. Daher haben wir einen Auftrag von Mr. Dennis angenommen ein Paket abzuholen. Selbstverständlich handelt es sich nicht nur um einen Schlüsselanhänger den wir einfach mitnehmen. Außerdem fallen wir heute über ein Easter Egg. Das Erste was ich so richtig mitbekommen habe.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #41
+
+* Titel: `Cyberpunk 2077 - #41 - diese feine Lederjacke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kleidung ist mir enorm wichtig. So eine schicke Lederjacke suche ich tatsächlich immer noch, eventuell ist mein Verständnis von Kleidung und aussehen auch ein wenig langweilig für die grelle Welt des Cyberpunks. Das würde auch erklären warum es mir gelingt einen schönen Mantel zu finden und stattdessen über lauter grelle Dinge stolpere. Da hilft nur eines, wir müssen jemanden finden der die Klamotten hat die wir haben wollen und die stehlen wir dann einfach. Schön mit dem Spruch "schicken Mantel haste da...". Hört man immer wieder gerne in dunklen Gassen um halb 4 am Morgen. Als ordentlicher Gauner von größeren Kaliber klaut V. natürlich nicht nur eine Jacke sondern gleich einen ganzen LKW. Die Story dahinter heute ist aber leider das es sich nicht um normale Jacken handelt sondern um Schmuggelwaren in Gestalt von Jacken. Wieder nichts zum Anziehen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

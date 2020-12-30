@@ -1,4 +1,4 @@
-## Spiel Titel
+## Uncharted 1 - Drakes Fortune [Remake]
 
 * tags = `UNCHARTED1_SORT_TAG,nathan drake,drake,nathan,gameplay,ingame,playthrough,piraten,story,sully,elena fisher,tagebuch,el doroda,goldene stadt,gabrial roman,navarro,kriegsmarine,historics,schätze,u-boot,urwald,bruchlandung,flugzeug,spanisch,kastell,insel,truhe,ausgrabung,kulturgut,gold,wertvoll,kamera,söldner `
 
@@ -60,4 +60,26 @@
   Wenn ein Flugzeug abstürzt desintegriert es in der Regel in kleinste Staubkörnchen und man wird nie wieder auch nur eine Spur des Vehikels finden. Oder aber es hinterlässt ein Wrack das bis zu einem gewissen Punkt noch relativ intakt ist und das man dann irgendwo im Dschungel finden kann.  Eines dieser beiden Ereignisse ist wesentlich wahrscheinlicher als das Andere. Da es auch jede Menge böse Buben auf der Insel gibt und die es sich nicht nehmen lassen unsere ehemaligen Besitztümer zu plündern finden wir an der Unfallstelle selbstverständlich eine größere Menge von ihnen. Nicht das es irgendwie einen Unterschied zum restlichen Gegnerreichtum macht aber heute rege ich mich doch ein wenig darüber auf wo überall die Söldner von Ramon kommen. Zumindest denke ich mal das es seine Söldner sind, bisher hat sich ja niemand direkt gezeigt der uns als Gegenspieler dienen könnte.
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #6
+
+* Titel: `Uncharted - #6 - Kastellwand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da ist sie, die erste größere Kletterzszene. Lara Croft konnte mit ihrem Kampfgewicht von circa 35 Kilo auch mit relativ wenigen Muskeln eigentlich so gut wie jede Wand erklimmen. Nathan Drake sieht jetzt auch nicht unbedingt aus wie ein Profikletterer aber auch er kommt die Wand hoch. An der Stelle sei aber auch erwähnt das die besten Kletterer auch nicht unbedingt Muskelprotze sind, man möge sich bei der Gelegenheit einen Alexander Honold anschauen, der Mann hat ohne Sicherung tausende Meter überwunden, hat also nie abgesetzt oder konnte sich einmal ins Geschür hängen lassen. Insofern bewundern wir doch einfach mal das Free Solo unseres neuen Helden Nathan Drake der mit Einfachheit eine künstliche Wand erklimmen kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```

@@ -74,6 +74,18 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
   ```
 
+##### #7
+
+* Titel: `Uncharted - #7 - Innenhöfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben das Kastell erobert. Oder zumindest haben wir die Mauern erklommen und sind jetzt innen drin. Es stellt sich heraus das die Zentrale hier nicht nur einen Innenhof sondern gleich eine ganze Sammlung von Innenhöfen hat. Das ist wirklich erstaunlich, liefert uns aber auch eine Bühne für eine Reihe von kleineren Gefechten die wir nach und nach abhalten. Mich wundert aber trotzdem wo die ganzen Söldner herkommen. Weil nehmen wir einmal an das wir nicht aufgetaucht wären, die ganzen schwer bezahlten Berufsverbrecher nichts zu tun gehabt hätten, dann würden all diese Leute Bezahlung verlangen. Der Schatz den sich unser Gegenspieler vorstellt muss schon ziemlich gewaltig sein um diese Anzahl von bezahlten Schlägern in Lohn & Brot zu halten. Andererseits lösen wir so ein Problem für unseren Erzfeind, wir helfen ihm sogar regelrecht. Jetzt muss nur noch ein wenig Leichenentsorgung bezahlt werden. Und der Sold ziemlich vieler Männer kann gespart werden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

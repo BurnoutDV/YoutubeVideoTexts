@@ -197,6 +197,19 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #16
+
+* Titel: `Risen 2 - #16 - Höhlenschätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt noch richtig wertvolle Dinge da draußen. Ich hatte ja eher im Südosten mit den Schätzen der Insel gerechnet, also da wo wir noch nicht waren aber es stellt sich heraus das es bei unserer ersten Besichtigung Orte gegeben hat die wir noch nicht vollständig erkunden konnten. Jetzt sind wir ja besser bewaffnet und haben neue Möglichkeiten das Alles anzugehen. Mit unserer Waffe die uns bis her gute Dienste, insbesondere gegen große Gegner, geleistet hat sollten wir nun in der Lage sein auch die restlichen Bedrohungen auf der Insel auszuschalten und ihrer Schätze zu berauben. Ich hoffe übrigens inständig das ich mich niemals in die Lage begeben muss das ich den Einheimischen hier einen Gefallen abspenstig machen muss. Andernfalls könnte ich in ein massives Problem laufe weil ich die Stätten ihrer Ahnen geplündert habe und man mir das bestimmt nicht verzeiht das ich so gierig war wie ich war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

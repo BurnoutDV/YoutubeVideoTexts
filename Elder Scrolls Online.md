@@ -1841,6 +1841,20 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1375
+
+* Titel: `Let's Play ESO #1375 - die Riten des Vateshran: Schwefelbau [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 23 des Markarth DLCs - Sitzung 3
+  
+  Und hier ist sie, die letzte Herausforderung bei der Überwindung der Riten des Vateshran, es geht in den Schwefelbau, einer Art Domäne von Mehrunes Dagon, bzw. eigentlich eine Verlängerung des Reiches. Ich nehme mal an es wäre ziemlich schwierig die Landschaft exakt zu vermessen. In der Regel beschwere ich mich ja darüber das die Orte innen oft größer sind als sie von Außen aussehen oder das die Architektur unmöglich ist weil es auf keinen Fall sein kann das es große Lichtlöcher von Außen geben wenn man auf der Oberfläche nichts in der Richtung sehen konnte. In diesem Fall ist es aber irgendwie eine Überlagerung der Realität. A pro pro Realität, es scheint das es keine Realität gibt in dem ich irgendwie in der Lage bin dieses Dings hier zu schaffen. Das ist wirklich deprimierend, ich habe es wirklich versucht und mich angestrengt. Aber ich sehe einfach nicht was ich noch ändern soll damit ich Erfolg habe. Ich wäre für Hinweise für meinen Char offen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

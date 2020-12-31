@@ -392,7 +392,40 @@
   Quantum Break auf dem Dienstags Slot.xxxxxxxxxx Es ist soweit, lange haben wir gejagt, ewig haben wir sie gesucht und nie gefunden. Jetzt wissen wir ja das Monarch das Gerät die ganze Zeit besessen hat. Schlimmer noch, wir wissen das das Gerät seit 2010 eigentlich fertig, William Joyce war in der Lager das Ende der Zeit bereits vor 6 Jahren aufzuhalten wenn man ihn hätte einfach machen lassen. Aber dann ist irgendetwas passiert. Das Gerät endete bei Monarch die aber anscheinen nicht in der Lage waren das Gerät richtig zu verstehen. Das ist übrigens eigentlich ziemlich beeindruckend, ein Unternehmen das seinen Fokus auf die Erforschung der Zeit gelegt hat ist nicht in der Lage etwas zu verstehen das von einer einzelnen Person in einem Labor gebaut wurde.Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  Quantum Break auf dem Dienstags Slot.Hier
   ```
 
-##### #Nummer
+##### #31
+
+* Titel: `Quantum Break - #31 - Tiefgarage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder zurück. Oder wieder da. Je nachdem, da wo alles angefangen hat, da wo die Dinge ihren Lauf genommen haben. Wir können nicht mehr verhindern das die Dinge laufen wie sie laufen, die Zeitmaschine erlaubt nur eine Reise bis zu ihrer ersten Aktivierung, allerdings könnte man wohl argumentieren das wir quasi zu dem Zeitpunkt reisen könnten an dem die Zeit noch nicht zerstört war aber die Maschine schon aktiv war. Andererseits ist es auch so das das nicht beim ersten Mal passiert ist und angeblich kann man die Zeit nicht ändern. Andererseits scheint das was wir tun darauf hinaus zu laufen das wir etwas ändern. Ultimativ kann man die Frage wohl nicht abschließend beantworten. Zumindest nicht für den Moment. Vielleicht wissen wir später mehr, später wenn wir wieder hier sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
+  ```
+
+##### #32
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #33
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #34
 
 * Titel: ``
 

@@ -548,6 +548,32 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #42
+
+* Titel: `Cyberpunk 2077 - #42 - die Bestie in mir [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, heute geht es nicht darum unsere Implantate auf einmal aus uns herausbrechen und wir zu einer Cybermonstrosität werden und dann die ganze Stadt in Schutt und Asche legen. Viel mehr ist es so das wir ein Autorennen fahren. Das ist irgendwie komisch. Theoretisch könnten wir das ganze Rennen eigentlich virtuell fahren inklusive aller Gefühle die man dabei verspürt, aber natürlich muss man das noch in der Realität machen, weil ansonsten wäre es ja kein echtes Risiko zu sterben. Andererseits findet das Rennen mitten in der Stadt statt. Vielleicht geht es auch einfach um die reale Gefahr das andere Leute sterben könnten. Der Nervenkitzel entsteht also nicht durch unser eigenes potenzielles Ableben sondern anderer Leute. Dazu kommt das wir die Leute nicht nur überfahren sondern auch durch schlechtes Zielen einfach niederballern könnten. Spannend. Letztendlich fahren wir aber nur ein Rennen mit einer Fahrphysik die mich nicht unendlich zufriedenstellt.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #43
+
+* Titel: `Cyberpunk 2077 - #43 - Oda, der Leibwächter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser neuer bester Freund Goro Takemura hat uns vom örtlichen Schrottplatz gezehrt und irgendwie dafür gesorgt das wir einen eigentlich ziemlich tödlichen Kopfschuss überlebt haben. Das hat er natürlich nicht aus Altruismus getan sondern weil er mit der Leibwache des ehemaligen Chefs von Arasaka beschäftigt war, der wurde dann von seinem Sohn erwürgt und irgendwie hat er das auch rausgefunden. Wie solche Dinge aber so laufen glaubt uns natürlich absolut niemand und Takemura auch nicht. Da er aber ein guter Samurai ist und seinem Herrn auch über den Tod hinaus noch treu ist möchte er die Dinge auch richtig stellen. Interessant ist eigentlich nur das er wirklich daran glaubt das er das irgendwie mit Recht und vor allen Dingen Gerechtigkeit geregelt kriegt. Ich sehe das ja irgendwie leicht anders, also nicht V. sondern ich. In einer Welt wie der von Cyberpunk tue ich mich sehr schwer an Gerechtigkeit in irgendeinem Sinn zu glauben. Es sei den es gibt da zufällig eine Übereinstimmung mit Konzerninteressen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -574,6 +574,32 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #44
+
+* Titel: `Cyberpunk 2077 - #44 - keine Fragen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die weniger spannenden Nebenmissionen gehen weiter. Die Missionen selbst haben sogar jedes für sich eine Handlung, das Problem ist bloß das es dazu noch eine längere Schleich bzw. Schießphase gibt in der ich mich ein wenig konzentrieren muss und nicht wirklich über wichtige Themen reden kann. Schlimmer noch, unter Umständen lade ich sehr oft weil ich entdeckt wurde. Heute gibt es aber einen einfacheren Auftrag. Es sieht so aus als müssten wir nur ein Paket von einem Ort zum Anderen fahren. Da wir Profi sind stellen wir natürlich keine Fragen wenn es um die Details, das warum oder wieso geht. Wir führen einfach nur aus. Unter Umständen kann das aber auch gefährlich sein. Der wichtige Mittelweg ist wahrscheinlich das man zwar Fragen stellt, aber nur so viele das man das Risiko beurteilen kann, und eventuell eine bewusste Entscheidung fällt. Ach ja, und keine Moral zu haben hilft auch enorm.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #45
+
+* Titel: `Cyberpunk 2077 - #45 - Bootleg Aufnahmen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch damit beschäftigt irgendwelche Dinge zu tun die zugegeben nicht ganz zusammenhängen, größtenteils weil ich quasi jede Nebenquest auf der Karte abarbeite. Das hat ein wenig damit zu tun das ich mich zu schwach fühle um echten Bedrohungen entgegen zutreten. Da hilft also nur eine Sache, wir brauchen mehr Erfahrungspunkte, Geld und Ausrüstung damit wir bei zukünftigen Begegnungen nicht mehr den Kürzeren ziehen oder uns mühevoll rausschießen müssen. Aber während all dies passiert gibt es auch Stellen an denen es doch ein wenig mehr ins Detail geht, heute erinnert sich zum Beispiel der Geist in unserem Kopf an Orte von Night City die sich scheinbar in den letzten 50 Jahren nicht geändert haben. Ein Geister der an seine Jugend denkt. Ob Geister verschwinden wenn nichts mehr aus der Zeit aus der sie stammen übrig ist? Bootleg Aufnahmen sind übrigens Mitschnitte die Fans gemacht haben, also die Leute die Kameras hochhalten während andere sich im Kreis drehen, heutzutage gibt es davon tausende, früher war es aber noch eine Seltenheit und etwas das man wohl vorbereiten musste. Ich könnte mir vorstellen das Aufnahmen von Johnny Silverhands Konzerten aus dem Jahre 2022 eigentlich noch zu Hauf übrig sein sollten.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

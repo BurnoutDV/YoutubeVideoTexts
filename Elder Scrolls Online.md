@@ -1855,6 +1855,20 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1376
+
+* Titel: `Let's Play ESO #1376 - Reikwindtiefen [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 24 des Markarth DLCs - Sitzung 3
+  
+  Es gibt Personen denen wir immer wieder über den Weg laufen, so zum Beispiel den Mitgliedern des Hauses Rabenwacht sobald es irgendeine Gefahr gibt das irgendwo in der Nähe Vampire herumlaufen. Die Arbeit des Hauses ist nicht ganz einfach und eventuell sterben gelegentlich auch Mitglieder auch wenn sich Verandis wahrscheinlich wünscht das dem nicht so ist. Mir ist übrigens nicht ganz klar warum die einzelnen Rabenwacht Mitglieder alleine reisen, da sie keine erkennbaren Merkmale außer Vampirismus haben sollte es doch eigentlich möglich sein ihnen eine Art Partner Programm aufzuhelfen. Aber eventuell ist das Problem einfach das sie nur so wenige sind. Daher finden wir heute Adusa-Daro von benannten Haus auf der Rekrutierungsjagt. Interessant ist übrigens auch das jemand erwähnt hat das Adusa den Weg einer Adeligen eingeschlagen hat. Mir war bis hier hin gar nicht bewusst das die einzelnen Mitglieder des Hauses als Adel bekannt sind. Auf der anderen Seite macht es bestimmte Interaktionen mit lokalen Machthabern bestimmt einfacher.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

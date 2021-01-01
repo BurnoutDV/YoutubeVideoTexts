@@ -407,12 +407,15 @@
 
 ##### #32
 
-* Titel: ``
+* Titel: `Quantum Break - #32 - Rettungsversuch [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Das Wissen das die Vergangenheit fest ist und so bestehen bleibt wie sie ist ist irgendwie schmerzlich, außerdem aber ein akzeptierter Bereich des allgemeinen Lebens. Die Vergangenheit ist ein Ort den man nur sehen kann aber nicht Bereisen. Etwas das bereits geschehen ist bleibt geschehen, umso bitterer wird das Alles wenn man doch die Vergangenheit bereisen kann aber alles was bleibt ist der gleiche Fakte, die Vergangenheit ist geschehen und es gibt Nichts das wir tun können um die Dinge zu ändern die geschehen sind. Und doch...es scheint das die Regeln bzw. das Prinzip das William aufgestellt hat nicht genauso zu gelten scheint wie es ursprünglich postoliert wurde, die Zukunft kann zum Beispiel verändert werden...von Personen die genau aus der Zeit sind. Irgendwie alles ein wenig seltsam, soweit ich das verstanden habe gibt es irgendwie eine Messlatte, eine überspannende Konstante die vorsieht das die Zeit doch linear ist. Alles was passiert passiert, aber die ganze Zeitreisegeschichte ist nur von Innen eine Zeitreise, scheinbar gibt es einen äußeren Standpunkt für den alle Zeit linear ist und das ist die Zeit unseres Spielers, alles was wir erleben passiert in Reihenfolge also können wir auch die Zukunft verändern. Die mächtigste aller Kräfte.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
   ```
 
 ##### #33

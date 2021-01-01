@@ -1,6 +1,6 @@
 ## Risen 2 - Dark Waters
 
-* tags = `Aktuell keine` `RISEN2_SORT_TAG`
+* tags = `RISEN2_SORT_TAG,stahlbart,patty,ingame,playthrough,lets,gameplay,play,mara,kraken,garcia,crow,kapitän,seefahrt,schiffe,titanenharpune,seeschlacht,puerto isabella,Shaganumbi,Arborea,Piratenschwur,Piraten,Rum,Grog,Takarigua,Puerto Sacarico,Faranga,Black Betty,Caldera,Ursegor,Ismael,hoher Rat,Inquisition,neue Welt,Okular,Mendoza,Wassertitan,Schwertküste,Molukken,DiFuego,Stahlbart,Jack,Leuchtturm,Schätze,Dschungel,Totem,Voodoo,Flinten,Steinschloss,Gouverneur,Götze`
 
 ##### #1
 
@@ -210,12 +210,15 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #17
 
-* Titel: ``
+* Titel: `Risen 2 - #17 - Piratenschwur [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir wollen langsam aber sicher mal weiter, und das bedeutet das wir uns auf ein Schiff setzen müssen und dann irgendwie das Vertrauen von Kapitän Stahlbart erringen müssen. An sich haben wir seine Tochter bereits um unseren Finger gewickelt aber so ganz final ist das alles noch nicht. Der alte Knacker möchte von uns noch einen Schwur haben, ich bin mir nicht sicher ob ich den wirklich leisten will. Bis her sieht es zwar so aus als wäre das Leben der Piraten ziemlich unmagisch und alles was wir sehen ist genau so wie wir es wahrnehmen aber eine gewisse Angst habe ich doch noch das das hier auf eine Davey Jones Situation hinausläuft und wir am Ende gebunden sind und nicht mehr frei in unseren Möglichkeiten bis der Kapitän uns wieder frei lässt. Das könnte nämlich, wenn es schlecht läuft, echt lange dauern da wir irgendwie auch vor haben ihn zu hintergehen. Gewissermaßen, arbeiten wir doch schließlich immer noch für die Inquisition.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

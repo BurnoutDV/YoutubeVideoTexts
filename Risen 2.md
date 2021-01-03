@@ -222,3 +222,39 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #18
+
+* Titel: `Risen 2 - #18 - Turmwilde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind erfolgreich an der Schwertküste gelandet, in der Nähe gibt es eine Stadt die wir uns bald näher ansehen wollen, fürs Erste schauen wir aber beim lokalen Aussichtsturm vorbei um zu sehen ob nicht vielleicht freundliche Einheimische uns dabei helfen können eine erste Orientierung an den neuen Gestaden aufzubauen. Generell ist das übrigens ein Element das man in modernen Zeiten eher nicht hat, mit Telekommunikation würde es nie eine Überraschung wie das hier geben. Wir kommen nämlich an besagten Turm an und es stellt sich dann heraus das wir nicht die Ersten sind die in diesen Landen versucht haben Fuß zu fassen. Natürlich wissen wir über die Inquisition und ihren Bemühungen ein ganzes Land überzusiedeln, aber das ist nicht alles, es scheint das unser Gegenspieler, Kapitän Crow auch schon hier war, und so wie es sich zusammensetzen lässt hat man die örtlichen Eingeborenen rekrutiert um die Reihen der Piraten zu verstärken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #19
+
+* Titel: `Risen 2 - #19 - Puerto Isabella, Tor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich würde ja behaupten das wir heute in Puerto Isabella ankommen, den nächsten Außenposten der Inquisition, dem ist aber nicht so. Stattdessen verbringen wir viel Zeit damit durch den Dschungel zu stapfen und ich versuche alles um meine Begleiter auszunutzen um noch kurz vor den Stadttoren soviel Erfahrungspunkte wie nur irgend möglich zu erhalten. Immerhin erleben wir noch ein paar witzige Momente in denen wir herausfinden das der mächtige Kapitän Stahlbart anscheinend eine ausgeprägt Arachnophobie hat. Wahrscheinlich auch nicht ganz unbegründet wenn man sich überlebt was für Viecher sich hier überall im Dschungel herumtreiben. Es ist ja nicht so das irgendwelche Viecher hier nur Handteller groß sind. Am Ende erreichen wir endlich das Tor und werden selbstverständlich ohne Probleme eingelassen. Es wäre ja auch noch schöner wenn man uns gleich am Tor ausnehmen würde. Die Inquisition besteht schließlich aus aufrechten Männern (und Frauen?) die nach Idealen leben und das geht bis in die untersten Ränge herunter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

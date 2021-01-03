@@ -420,20 +420,30 @@
 
 ##### #33
 
-* Titel: ``
+* Titel: `Quantum Break - #33 - letztes Gefecht (Finale) [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es war ja klar das eine enge Geschichte wie die von Quantum Break irgendwann ihr Ende finden muss. Und das ist jetzt, ich hatte mir schon fast gedacht das es wohl keinen längeren Bruder-Bruder Bonding Moment gibt. Und so reisen wir heute in die absolute Gegenwart in dem wir anscheinend noch irgendwas tun können. Mir ist übrigens nicht so richtig bewusst warum das grade hier möglich sein sollte. Warum ist der Zeitpunkt der für Jack Joyce noch am Ehesten dem Jetzt entspricht so wichtig. Warum zählt zum Beispiel nicht der Zeitpunkt den Paul Serene erlebt hat, er war im Jahre 2021 am Ende der Zeit. Generell ist das alles ein wenig seltsam, offensichtlich werden wir natürlich Erfolg haben und das Ende der Zeit verhindern, allerdings kommt dann die Frage auf inwiefern das Ende der Zeit 2021 geschehen ist, kann es vielleicht sein das die Ereignisse die wir erleben überhaupt nichts mit dem Ende der Zeit zu tun haben wie es Paul Serene und Beth Wilder gesehen haben? Weil an sich hat sich ja der Zerfall der Zeit weitaus schneller ergeben als wir es ursprünglich postuliert haben. Bzw. es Paul Serene getan hat. Ich fürchte das ist übrigens ein wichtiges Element des "new weird", es wird niemals definitive Antworten geben und das Mysterium macht Teil der Geschichte aus.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
   ```
 
 ##### #34
 
-* Titel: ``
+* Titel: `Quantum Break - #34 - Bonus: Tagebücher [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir haben das Spiel durchgespielt, aber es gibt noch eine letzte Sache die ich bisher ignoriert habe. Und das sind die Tagebücher unser einzelnen Protagonisten. Ich hätte mir diese schon immer zwischenzeitlich anhören können, im Idealfall sogar immer wenn ich sie freigeschalten habe, das ist aber nicht passiert. Einige dieser Mitschnitte hatte ich auch während des Spieles gehört, wenn zum Beispiel Jack interviewt wurde. Aber die restlichen Dinge enthalten noch zusätzliche Informationen die ich noch nicht weiter beachtet habe. Daher hören wir uns nun zum Abschluss noch einmal die restlichen Einträge an und ich kommentiere kurz was ich noch zusätzlich dazu sehe.
+  Übrigens interessant, in Control meint Dylon das er einen "Mr. Door" getroffen hat der zwischen den Dimensionen reist. Unser lieber Martin Hatch ist quasi auch eine Tür, nur im vertikalen Sinne. Das aber nur als Nebengedanke. Im Großen und Ganzen ist Quantum Break nicht mit dem Remedy Universum verbunden..für den Moment.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
+  Quantum Break auf dem Dienstags Slot.
   ```
+
+## Fazit & Playlist
+

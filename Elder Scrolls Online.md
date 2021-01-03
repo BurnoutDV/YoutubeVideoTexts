@@ -1869,6 +1869,34 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1377
+
+* Titel: `Let's Play ESO #1377 - Freyleths Plan [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 25 des Markarth DLCs - Sitzung 3
+  
+  Freyleth ist ein Vampir. Generell erleben wir aktuell eine Menge Vampirgeschichten, umso schlimmer finde ich das das Spiel kaum erwähnt das wir selbst zu den Reihen der Blutsauger gehören. Das Ganze hat für mich ein wenig etwas von einer "Coming-of-Age" Story. Die Protagonistin nimmt die Wege des Vampirseins an und lernt dabei eine Menge über sich selbst und die Welt da draußen aus der Perspektive eines Anhängers der Nacht. So richtig an die Nacht gebunden sind wir nicht, aber den Klan den wir heute sehen scheint sich dennoch nicht sehr um das Licht zu scheren. Wie es aber auch sei, Freyleth ist auch eine Person in meiner Geschichte, sie ist der ältere, erfahrene Vampir der den Jungen den Weg zeigt. Sie ist vielleicht nicht der Beste Lehrmeister auf das Beste was wir für den Moment bekommen könne. Freyleth selbst lehnt sich gegen einen Typen namens "Anführer Trenlor" auf, aus irgendeinen Grund ist dieser Vampir mächtiger als der Rest, daher brauchen wir eine List um ihn vom Thron abzusetzen. Angeblich hat hier unsere erfahrene Hexe einen Plan. Es bleibt spannend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1378
+
+* Titel: `Let's Play ESO #1378 - Verraten von der Liebe [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 26 des Markarth DLCs - Sitzung 3
+  
+  Zu Lieben heißt zu Vertrauen, den Partner oder den Partnern einen Teil seiner selbst zu verantworten. Das birgt Gefahren die man von Innen eher schwierig sehen kann. In der Praxis führt das dann zu so Dingen wie Fremdgehen, Ehebruch oder aber einfachen Verrat durch den Partner den man geglaubt hat. In diesem Fall können wir aber kaum von einer formalen Beziehung reden, daher wiegt der Verrat für meine Außensicht eher weniger schwer, einfach weil Freyleth weder uns noch Kathad wirklich sehr nahe stand. Kathad der junge Narr glaubte vielleicht das er der deutlich älteren Freyleth etwas bedeutet aber sie selbst scheint ziemlich ignorant zu sein was den jungen Vampir angeht. Das Freyleth uns verraten wird bzw. hintergeht war übrigens keine Überraschung, es stand ja von Anfang an in der Beschreibung der Mission bzw. Quest. Aber immerhin, wir sind mit minimalen Blutzoll aus der ganzen Geschichte rausgegangen. Insofern kann man sich wahrscheinlich nicht beschweren, bis auf die toten Menschen im Keller die keine Hoffnung auf Freilassung haben, denen geht es immer noch schlecht. Ich sehe irgendwie nicht das Freyleth hier irgendetwas ändern wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

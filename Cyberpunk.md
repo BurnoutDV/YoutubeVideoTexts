@@ -600,6 +600,57 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #46
+
+* Titel: `Cyberpunk 2077 - #46 - vernetzte Träume [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An sich heißt die Mission die ich heute eigentlich immer noch mache "Habgier zahlt sich nicht aus", da ich aber nicht jede Episode nach irgendeiner Nebenmission benennen wollte und auch nicht auf Englisch fahren möchte (macht es schwierig die ganze Geschichte als deutsches Lets Play zu erkennen) heißt diese Folge nun "vernetzte Träume", eine freie unlizenzierte Übersetzung von "wired Dreams". So heißt die Tyger Claws Bude die wir heute hoch nehmen, mit aller Waffengewalt übrigens, es handelt sich um eine Kellereinrichtung was unser Schleichpotenzial enorm einschränkt. Klar, ich hätte bestimmt auch jeden einzelnen Ganger anlocken können und dann bewusstlos würgen, aber das hätte ewig gedauert. Im Gegensatz zum zwanzigfachen Laden des Spielstandes jedes Mall wenn etwas nicht klappt. Generell stellt sich mir aber die Frage warum es sowas wie ein Braindance Studio überhaupt gibt. Ich hatte den Eindruck das wir uns das Zeug ziemlich gut im Kopf angucken können. Zusammen mit Judy ging das ja auch, in der Vergangenheit hat sogar T-Bug über Entfernung mit zugesehen, der Sinn eines dezidierten Ortes ergibt sich mir also nicht ganz. Aber vielleicht klärt sich das ja noch auf.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #47
+
+* Titel: `Cyberpunk 2077 - #47 - Panam Palmer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, wir lernen eine weitere Person kennen die so aussieht als wäre sie eine potenzielle romantische Option. Ich bin mir bei Panam aber noch nicht ganz sicher was ich von ihr halten soll. An sich ist sie auf jeden Fall eine Person die ein gewisses Feuer hinter den Augen hat. Das sollte aber eigentlich niemanden überraschen wenn man sich den Hintergrund der Nomaden ansieht. Die haben es nicht leicht, leben meistens in der Bewegung und die Welt als Ganzes mag sie eher nicht. Als permanenter Außenseiter muss man sich schon ein wenig vorsehen. Panam ist auch irgendwie Außenseiter unter ihren Leuten, das liegt aber auch daran das sie sich mit dem derzeitigen Anführer ihrer Leute überworfen hat. Verbannt ist sie, soweit ich das sehen kann, aber nicht. Wir besuchen bei der guten Gelegenheit auch direkt ihren Klan der scheinbar im Moment in der Nähe von Night City kampiert. Das ist eigentlich unser Glück, man stelle sich einmal vor die wären unfassbar weit draußen und unerreichbar. So wie die Dinge stehen können wir sogar noch einen Gefallen einfordern. Das ist angenehm.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #48
+
+* Titel: `Cyberpunk 2077 - #48 - Rocky Ridge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Orte die nicht Night City heißen. Diese Orte sind nicht relevant für die Dinge die tun. Aber es gibt sie dennoch. Ich habe nicht vor diese Orte besonders oft zu bereisen, aber ich muss schon sagen das der Gegensatz von der enorm lebendige Stadt Night City mit seinen tausenden Leuten und dann die völlig verlassene Wüste schon ein Gegensatz ist. Hier draußen gibt es nur selten Polizei die irgendetwas kontrolliert oder Konzerntruppen die Regularien durchsetzen. Es ist irgendwie eine wilde Wild. Natürlich heißt es auch nicht das es hier niemanden gibt. Nomaden kommen vor, aber auch die Raffen Shiv, anscheinend verstoßene Nomaden und gewöhnliche Banditen die nicht in die Gruppe der Nomaden passen. Die und verlassene Orte die aber immer noch über Strom verfügen. Im Rahmen einer mehrtägigen Operation versuchen wir heute Panams Auto zurückzuerhalten. Und die Ware für die 6th Street, das ist aber eher ein Nachgedanke.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #49
+
+* Titel: `Cyberpunk 2077 - #49 - Nash der Raffen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mag enge Umgebungen nicht. Einfach schon weil ich nicht dafür ausgerüstet bin auf eben jenen Räumen in irgendeiner guten Art zu kämpfen. Panam ist scheinbar sehr von Rache getrieben, daher läuft es jetzt wohl darauf hinaus das wir mitkommen bis wir von ihr haben was wir wollen. Leider bedeutet das aber auch rachegetriebene Höhlenkämpfe mit absolut nicht adäquater Ausrüstung zu überwinden. Ich brauche schon einige Versuche bis ich das richtige Maß finde, immerhin hilft mir die Tatsache das ich Waffen haben die durch Deckung schießen können, das alles gibt mir aber zu denken wenn es um Waffen geht die meine Gegner haben, auch ich verlasse mich viel auf Deckung. Am Ende sind wir aber natürlich erfolgreich und es gibt ein Bier. Das ist wichtig, einen Ausgleich zu haben, ich bin mir sicher unser alter Kumpel Jackie würde das verstehen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

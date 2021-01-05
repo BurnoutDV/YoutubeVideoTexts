@@ -86,6 +86,18 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
   ```
 
+##### #8
+
+* Titel: `Uncharted - #8 - Kurzeitknast [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jedes Spiel hat diese eine Szene, manchmal sogar mehrfach aber meistens nur einmal, wo sich der Held in Gefangenschaft befindet. In der Regel bleibt er da unter 20 Minuten und kommt dann irgendwie frei. Selten sitzt er dann dort mehre Jahre, das passiert aber auch gelegentlich, zum Beispiel wenn das Spiel vergangene Zeit braucht die ohne Zutun des Helden geschieht. Wie dem auch sei, Nathan Drake ist ein eher junger Kerl der seine Jugend auch gerne weiter irgendwie verbringen möchte. Daher endet das heute damit das wir nicht besonders lange im Knast sitzen, um genau zu sein weiß ich ja nicht einmal wie wir überhaupt hinter schwedischen Gardinen gelandet sind, das ist ganz plötzlich so geschehen. Immerhin konnten wir unseren filmenden Sidekick retten, das ist doch auch schon mal viel wert, und die Gute revanchiert sich immerhin sogar. Ich finde das alles in Allem eigentlich ganz schön, auch wenn sie manchmal etwas aufdringlich ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -249,6 +249,32 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #20
+
+* Titel: `Risen 2 - #20 - Puerto Isabella [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode waren wir nur am Tor der Stadt, heute schauen wir uns auch den Rest an. Das alles schaffen wir aber auch in einer Episode. Konkret handelt es sich um: Den Schmied, der Lagerhalle, dem Schweinehirt, quasi dem Hafen, dem Büchsenmacher und das Anwesen. Mehr gibt es echt nicht. Aber ich bin ehrlich gesagt nicht wirklich überrascht, der Ort ist ein kleiner Außenposten der halt ein Brückenkopf für weitere Expeditionen der Inquisition dient. Was mich aber ehrlich gesagt überrascht ist die völlige Abwesenheit von irgendwelcher Zivilbevölkerung die nicht Handel treiben. Klar, die Inquisition hat auch nicht das größte Interesse daran irgendwelche Leute mit rüber zu bringen aber ich hätte gedacht das man so schnell wie möglich Flüchtlinge exportieren möchte, insbesondere weil es doch gewiss Bedarf an helfenden Händen bei dem Aufbau von Siedlungen, Abbau von Holz und täglichen Arbeiten wie das Schleppen von Kisten aufkommt. Bei der Frage stellt sich mir dann auch das Rätsel wie genau eigentlich diese riesigen Anwesen und Mauern erbaut wurden, das schmächliche Militär das die Inquisition mit sich bringt wird als Arbeitskraft dafür kaum ausgereicht haben oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #21
+
+* Titel: `Risen 2 - #21 - Sebastiano und Hawkins [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen jetzt die Infrastruktur von Puerto Isabella, jetzt müssen wir nur noch die Leute kennen lernen. Interessanterweise ist ein gewisser Sebastiano über unsere Mission informiert und hier vor Ort der Kommandant. Wir haben also ausnahmsweise einen Vorteil wenn es darum geht mit der örtlichen Autorität irgendetwas zu verhandeln. Ich bin mir allerdings nicht sicher wie sehr Sebastiano persönlich unsere Mission als irgendetwas ansieht das man tun sollte oder ob er es eher zähneknirschend akzeptiert das es uns gibt. Ich befürchte leider das ihm durchaus bewusst ist das der hohe Rat weit weg ist und sein Wort hier quasi Gesetz ist. Wenn er uns Steine in den Weg stellen will so kann er das machen ohne sich großartig schuldig zu fühlen. Oder sich irgendjemanden zu verantworten. Immerhin erfahren wir außerdem das es hier jemanden aus Kapitäns Crows Crew gibt, es ist der Smutje, ein Schiffskoch namens Hawkins der hier in einer Zelle sitzt. Dem können wir auch Fragen stellen und sind am Ende vielleicht sogar schlauer, ist es nicht großartig?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

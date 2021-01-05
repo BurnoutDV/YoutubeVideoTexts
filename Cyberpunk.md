@@ -651,7 +651,32 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
-##### #Nummer
+##### #50
+
+* Titel: `Cyberpunk 2077 - #50 - Mordsplan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Sicherheit von Dingen ist im Jahre 2077 eigentlich  ziemlich niedrig. Soweit ich das sehen kann funktionieren die meisten Implantate makellos selbst wenn sie schon alt und beschädigt sind. Alles andere erweckt in mir den Eindruck das es grade so billig ist wie es nur sein kann. Insbesondere meine Waffen. Wir haben jetzt folgende Aufgabe: ein VIP benutzt ein flugzeugartiges Fahrzeug und wir wollen den VIP haben. Dazu müssen wir also das Fahrzeug zum Absturz bringen und den VIP bergen. Aufgabe 1: der VIP muss den Absturz auch überleben. Aufgabe 2: wir brauchen genügend Gewalt das das auch alles klappt. Die Logik in mir sagt das wir das ein paar Mal testen müssen und wahrscheinlich so 2 bis 10 AVs zum Absturz bringen müssen um die Methodik zu testen. So wie die Dinge stehen machen wir das aber nicht und stattdessen testen wir die eine Methode die sich Panam ausgedacht hat Live. Wird schon schief gehen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #51
+
+* Titel: `Cyberpunk 2077 - #51 - Ölspuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Damals an einem komplett anderen Ort hatte Geralt extra Sinne um auch kleinste Spuren zu verfolgen. Für V. ist das nicht unbedingt eine Option und extra Sinne in dem Sinne (ha!) haben wir auch nicht. Übrigens auch ganz interessant, bestimmte Implantate erhöhen zwar die visuelle und auch auditive Wahrnehmung, aber so richtig praktisch dauerhaft nutzbar ist das eben auch nicht. In Braindance Sitzungen kann das zwar verwendet werden aber die eigene Wahrnehmung kann nicht so ohne Weiteres nahtlose mit Thermalsicht überlagert werden, oder besonderem Gehör. Dazu braucht es dann auch noch eine gedankliche Komponente die Informationen ausfiltert. Einfach weil das zugrunde liegende Gehirn nicht auf mehr Informationen ausgelegt ist. Ölspuren können wir aber zum Glück einfach über unsere normale Wahrnehmung legen. Daher verfolgen wir die heute auch und es klappt einach.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #52
 
 * Titel: ``
 

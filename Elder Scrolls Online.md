@@ -1897,6 +1897,34 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1379
+
+* Titel: `Let's Play ESO #1379 - Hrobbegs Totem [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 27 des Markarth DLCs - Sitzung 3
+  
+  Allgemein und generell und quasi auch in den meisten Fällen die wir so finden mögen uns Daedra nicht besonders. Das trifft so weit ich das sehen kann nicht zwingend auf Azura zu und Meridia steht uns nur kritisch gegenüber aber all die anderen haben etwas gegen uns, größtenteils weil wir uns irgendwie einmal in ihre Angelegenheiten eingemischt haben. Wahrscheinlicht ist Sheogorath ziemlich egal was genau wie eigentlich tun und ich bin mir nicht sicher inwiefern er überhaupt einen Groll hegen kann. Das bringt uns zurück zu den Daedra die uns nicht mögen. Ich kann mich spontan nicht daran erinnern Hircine besonders auf die Hufe getreten zu haben allerdings haben Dinge in Grünschatten getan und hatten auch schon die ein oder andere Begegnung mit den Werwölfen der Welt, ich kann mir ehrlich gesagt nicht vorstellen das ich bei der "Anbeter des Monats" Tabelle irgendwo auftauche. Warum erzähle ich das? Weil die Reikmannen scheinbar auch Hircine anbeten aber leider  aktuell keinen schönen Altar haben, es mangelt an Totems, die liegen irgendwo in der Landschaft rum, wir fanden durch Zufall einen, und einen toten Lehrling.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1380
+
+* Titel: `Let's Play ESO #1380 - Nolovans Schrottladen [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 28 des Markarth DLCs - Sitzung 3
+  
+  Es geht wieder los, wir widmen uns unserer Hauptmission, ich persönlich finde es ja sehr spannend das Rada al-Saran an einem Dwermer Artefakt interessiert ist. Bisher haben wir ja Einiges an Dwermer Anlagen bzw. Städte unterhalb der bekannten Teile von Himmelsrand gesehen, aber sie wurden alle ignoriert. Jetzt auf einmal ist das ganze Thema hochrelevant, zwar ist noch unbekannt warum aber ich denke das wir das noch herausfinden werden. Für uns aber wichtig wäre es vorher zu wissen warum al-Saran sich so sehr bemüht, am Besten noch bevor er das Artefakt gefunden hat und welcher Natur es ist um entsprechende Gegenmaßnahmen zu ergreifen. Daher fragen wir heute einen Experten, nein, keinen Forscher von Dwermer Ruinen welche wir wahrscheinlich zu Hauf im Reik und generell in Himmelsrand aufgrund der hohen Dichte an Dwermer Städte hier finden würde. Stattdessen fragen wir einen besseren Schrotthändler, ich bin übrigens sehr beeindruckt das die Nord quasi seit Jahrtausende das Metall der "Zwerge" benutzen um sich Rüstung zu bauen und zu verkaufen und die tiefen Einrichtungen der Dwermer immer noch was hergeben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

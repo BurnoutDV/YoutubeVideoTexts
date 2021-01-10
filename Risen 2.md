@@ -275,6 +275,71 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #22
+
+* Titel: `Risen 2 - #22 - Isabellas Taschen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir rauben heute nicht die Tochter von Kommandant Sebastiano aus, also nicht nur. Wir rauben stattdessen die ganze Siedlung leer. Oder so viel wie wir nur können ohne das wir erwischt werden. Da wir natürlich ein guter Dieb sind ist keine Truhe in Puerto Isabella vor uns sicher. Naja, außer die Truhen die einfach viel zu schwer sind und von denen ich keine Ahnung habe wie man sie jemals hätte knacken können. Weil Eines ist sicher, ich habe nun wirklich so gut wie alle Ressourcen die ich hatte darin investiert ein guter Dieb zu werden und es reicht dennoch bei Weitem nicht aus um die Truhen zu öffnen die jetzt noch übrig sind. Einige sind zwar knapp aber wie ich jetzt schon auf 90 Diebeskunst kommen soll ist mir ein Rätsel. Ich denke aber wohl mal das ich zu einem späteren Zeitpunkt noch einmal an die verschiedenen Orte reisen kann um mir meine offenen Rechnungen ausbezahlen zu lassen. Bis dahin nehmen wir den Reichtum mit den wir kriegen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #23
+
+* Titel: `Risen 2 - #23 - Tal des Jaguar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Raubkatzen zu jagen ist entweder sehr mutig oder absolut feige. Je nachdem über welche Art der Bewaffnung man verfügt. Da die Flinten die aktuell in der Welt von Risen 2 zur Verfügung stehen aber noch relativ unterentwickelt sind könnte man durchaus von einem fairen Match reden. Jaguare sind große Raubkatzen die sich an uns heranschleichen können ohne das wir viel dagegen tun können wenn sie uns aus dem Gebüsch angreifen. Bei dem Gewicht der Katze sind die Chancen das ganze Elend zu überleben auch ziemlich gering. Sollten wir aber zu erst schießen hat die Großkatze wenig zu bieten und wir sind am Ende, sollten wir korrekt getroffen haben, ein Fell reicher. Alles also eine Sache der Herangehensweise. Das Tal des Jaguars enthält übrigens exakt einen Jaguar, wäre ja auch komisch wenn es mehre wären.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #24
+
+* Titel: `Risen 2 - #24 - Runter ins Tal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach dem wir in der letzten Episode im Tal des Jaguar waren gehen wir jetzt runter ins Tal. Das ist offensichtlich nicht das gleiche Tal und eigentlich ist das auch nur der Name der "Quest" die wir zwischendurch erledigen. Es ist schon eine große Überraschung das ein Platz wie die Schwertküste doch tatsächlich mehr als nur ein Tal hat. Kann man sich gar nicht vorstellen. Mit dabei ist übrigens wieder der mutige Kapitän Stahlbart der uns furchtlos durch den Dschungel führt und dabei von gemeinen Viecher redet. Es könnte aber auch sein das der Mann einfach nicht in seinem Element ist und eher die hohe See anstatt einen tiefen Dschungel bevorzugen würde. Dennoch bin ich im Großen und Ganzen doch recht enttäusch von der Leistung die ein Mann wie Stahlbart an den Tisch bringt. Seine Tochter hat ihn irgendwie als einen größeren Mann bezeichnet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #25
+
+* Titel: `Risen 2 - #25 - das Shaganumbi Dorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem uns unser furchtloser Kapitän uns durch den tiefen Dschungel geführt hat sind wir nun endlich da. Im Dorf der Shaganumbi, die reden aber eher nicht mit uns, immerhin greifen sie uns aber auch nicht sofort an. Freundlich eigentlich. Da die Männer nicht mit uns sprechen wollen verweist man uns an die Frauen. Die Frauen tragen eine interessante Kleidungsauswahl die man wohl durchaus als sexy bezeichnen kann. Übrigens interessant, selbst die erfahrene Voodopriesterin sieht noch so aus als wäre sie keine 25 und noch in der Blüte ihrer Jugend, bei den Männern kann ich das nicht so genau beurteilen aber spontan würde ich sagen das es da auch keine Alten gibt. Das wirft Fragen auf, lässt uns aber immerhin ein bisschen gucken. Jetzt bin ich kein Anthropologe aber ich glaube die Kleidung der Eingeborenen ist entweder zu viel oder zu wenig. Von der Kleidung einmal abgesehen reden die Frauen zwar mit uns sind aber auch nicht besonders aufgeschlossen. Trotz alle dem habe ich einen besseren Eindruck von den Shaganumbi als von der Inquisition.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #26
+
+* Titel: `Risen 2 - #26 - Besorgungsgänge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Kultur der Shaganumbi unterscheidet sich sehr von dem was auch immer die Inquisition und die alte Welt darstellt. Die einen sind gewissermaßen expansionistisch und die anderen sind irgendwie Eins mit der Natur, so stellt es sich mir zumindest da. Übrigens fällt mir auf das ich die Wege der Eingeborenen irgendwie fast mehr verstehen kann. Allerdings sehen sie nicht aus wie Leute die irgendwann noch einmal Fortschritt machen werden, einfach weil das gegen ihre Wege gehen würde. Die großen Tempel wurden von ihren Vorfahren errichtet und soweit ich das sehen kann haben sie auch keine Ambitionen das noch einmal zu ändern. Eine herausragende Sache haben sie aber gemeinsam mit den restlichen Bewohnern der Welt: sie geben den namenlosen Helden irgendwelche sinnlose Besorgungsaufträge die eigentlich schon lange fertig sein können wenn die Leute nicht einfach nur in irgendeiner Ecke rumstehen würden und abwarten das etwas passiert und jemand sie rettet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

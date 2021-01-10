@@ -98,12 +98,72 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
   ```
 
-##### #Nummer
+##### #9
+
+* Titel: `Uncharted - #9 - Mini-Venedig [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja mir ist absolut bewusst das die überflutete Stadt die wir heute mit einem zufällig gefundenen Schnellboot eigentlich absolut nichts mit Venedig zu tun hat. Die Stadt ist irgendwie durch ein Einbrechen des Meeres überschwemmt worden und ist dann komplett zerfallen während eine Stadt wie sie Venedig ist eher darauf ausgelegt ist das sie im Wasser stattfindet. Da wir uns aber gut fortbewegen können und ich mich ein wenig wie ein Gondelier mit einem Raketenwerfer fühle kommt trotzdem irgendwie die Assoziation hoch. Wir fahren heute also durch Mini-Venedig, singen irgendwelche italienischen Lieder und ignorieren einfach vollständig das es sich wohl eher um eine spanische Siedlung handelt bzw. Stadt. Interessant ist aber auch das wir bisher noch nicht einmal einen Namen für diesen Ort gefunden haben. Die Wahrscheinlichkeit das noch nie irgendjemand von diesen Ort gehört hat ist irgendwie bei quasi null. Die Stadt ist riesig, wirklich riesig für mittelalterliche Verhältnisse, viel zu viele das niemand weg gekommen ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #10
+
+* Titel: `Uncharted - #10 - alte Gemäuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich höre ehrlich gesagt nicht so richtig auf beeindruckt davon zu sein inwieweit die Entwickler dieser Entdeckerspiele gegangen sind absolut alles dafür zu tun ein Indiana Jones Gefühl in einer Welt zu erwecken in der eigentlich jeder Meter der Welt theoretisch von Satelliten vermessen wurde. Klar, praktisch gesehen gibt es immer noch eine Menge Orte die noch nie von irgendjemanden näher angeguckt wurden, größtenteils weil sie auf irgendwelche Bergen liegen oder generell schwierig zu erreichen sind. Aber man kann sich wohl ziemlich sicher sein das eine ganze Insel mit einer antiken spanischen Stadt aus dem 16ten Jahrhundert wohl doch im Allgemeinen aufgefallen wäre während man eine ziemlich groben Überblick über die Welt gewinnt. Von daher kann ich mir eher nicht vorstellten das eine Entdeckung wie sie unser Nathan hier macht nach 1970 überhaupt möglich sein könnte. Zum Glück interessiert sich Nathan Drake auch nicht wirklich für Entdeckungen sondern eher für Geld und Reichtum. Das macht ihn irgendwie ehrlicher.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #11
+
+* Titel: `Uncharted - #11 - das Zollhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sicher kämpfen wir uns durch die versunkene Stadt und entdecken dabei einige Wunder. Insbesondere der Reichtum an anscheinend noch bestens erhaltenden, nicht geschimmelten Büchern ist wahrlich erstaunlich, besonders wenn man die feuchte Umgebung bedenkt. Heute treffen wir uns dann mit Elena am Zollhaus, die Gute scheint es irgendwie leichter als wir gehabt zu haben und musste sich nicht durch Horden von Gegnern durchschießen müssen. Schön für sie. Das Zollhaus sieht in Etwa so aus wie die höchste Ausbaustufe des Kontors in Anno 1602 oder irgendeinen anderen Fall. Nur halt von Innen. Insgesamt übrigens ein ziemlich beeindruckender Ort aber das versteht sich irgendwie auch von selbst. Die Leute haben schließlich hier ihren Reichtum von A nach B geschoben, da kann man eine gewisse Einrichtung schon erwarten oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #12
+
+* Titel: `Uncharted - #12 - Flussaufwärts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist schon wieder Wasser. Wir fahren diesmal aber nicht im Mini-Venedig der untergegangenen Stadt sondern den Fluss hoch. Anscheinend haben wir übrigens auch den gesamten Fuhrpark unseres Gegners vernichtet das er es sich leisten kann hunderte Fässer von brennbaren und leicht explodierbaren Benzin in den Fluss zu kippen. Ich hoffe übrigens auch inständig das die Natur der Insel noch vollkommen intakt ist und daher die ganze Geschichte irgendwie überwinden kann. Immerhin gibt es noch an Einiges an Essen für die lokale Fauna, ich hoffe an der Stelle also auf Raubtiere die etwas mit den ganzen Leichen anfangen kann die jetzt an jeder Ecke rumliegen. Es ist ja auch nicht so das man uns nur Fässer entgegenwirft. Ich bin übrigens sehr beeindruckt wie gut Elena mit dem Granatwerfer der wie ein Raketenwerfer funktioniert umgehen kann ohne sich die Schulter auszurenken.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #13
+
+* Titel: `Uncharted - #13 - die Zuflucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wechselt sich enorm ab. Erst sind wir mitten im Dschungel, dann auf irgendeinen Fluss aber in letzter Zeit haben sich stabile Gebäude mit einem intakten Dach eher rar gemacht. Das gibt uns ein Gefühl der Schutzlosigkeit das gar nicht so lustig ist. Heute ändert sich das endlich, stellt es sich doch heraus das weiter oben in den Bergen die Einrichtungen der Spanier anscheinend besser den Naturgewalten widerstanden haben. Hier findet sich ein altes Kloster das wir betreten können und uns dann geborgen fühlen. Geborgen von den Naturgewalten zumindest. Andere Gewalt wird uns immer noch angetan, die Söldner bzw. Verbrecherrate ist leider auch hier ziemlich hoch. Eine konstante im Leben des Nathan Drake, überall gibt es böse Buben die uns bereits zuvorgekommen sind und die Orte die wir betreten wollen schon auf dem Kopf gestellt haben. Unangenehm. Auch unangenehm ist übrigens wenn Begleiter nicht wissen wie man richtig Deckung sucht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #14
 
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  
   ```

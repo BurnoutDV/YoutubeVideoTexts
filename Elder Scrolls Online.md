@@ -1925,6 +1925,76 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1381
+
+* Titel: `Let's Play ESO #1381 - der Reikpakt [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 29 des Markarth DLCs - Sitzung 3
+  
+  Wir gehen heute einen Pakt ein. Wirklich, nur wir und anscheinend auch das Haus Rabenwacht. Das ist ganz interessant, ansonsten sind ja solche Abkommen immer Dinge die wir zwar einfädeln aber eigentlich nicht selbst daran beteiligt. Heute ist alles ein wenig anders, wir schwören uns ein und falls wir den Pakt brechen sollten fällt uns wohl jedes Tier im Reik wenn nicht sogar in jeder Wildnis an. Die Bedrohung dadurch ist irgendwie limitiert wenn man bedenkt das wir eh die ganze Zeit von allem was in der Wildnis rumläuft angegriffen werden. Außerdem gibt es Städte in denen wir wahrscheinlich sicher sind. Und ich denke irgendwann lässt der Fluch bestimmt auch nach, kann ja nicht ewig halten sowas. Müssen wir als Vampir schlafen? Wenn nicht hat das Haus Rabenwacht und wir eigentlich nichts zu fürchten, ansonsten wären mit gebrochenen Pakt Übernachtungen in der Wildnis eher unerfreulich, und dazu kommt es bestimmt öfter wenn man auf Reisen ist. Oder aber wir brechen den Pakt einfach nicht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1382
+
+* Titel: `Let's Play ESO #1382 - die Hexe in den Sternen [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 30 des Markarth DLCs - Sitzung 4
+  
+  Heute wird es poetisch, auf der Suche nach dem legendären Bthar-Zel finden wir von den Dwermern hinterlassene Sternenbilder die anscheinend schon vor ziemlich langer Zeit genau so aussahen wir es heute der Fall ist. Arana macht übrigens einen guten Punkt, für eine Zivilisation die soviel unter der Erde gewohnt hat haben sie sich sehr für die Sterne interessiert. Was aber für mich eigentlich viel interessanter ist das die Reikmannen zwar die selben Sternbilder kennen wie das restliche Tamriel aber sie anders nennen. Das sagt uns zwei Dinge, erstens, die Reikmannen haben die ursprünglichen Namen bzw. Strukturen der Sternenbilder offensichtlich importiert, andernfalls hätten sie andere Linien gezogen, ist ja nicht so das Sternenbilder absolut gleich zu erkennen sind. Und zweitens, irgendwann dachte man das man die Bilder umbenennen will. Und so wurde aus der Magierin die Hexe in den Sternen. Was irgendwie in die Kultur der Reikmannen passt und auch auf gewisser Weise schöner klingt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhrxxxxxxxxxx Folge 30 des Markarth DLCs - Sitzung 4Heute wird es poetisch, auf der Suche nach dem legendären Bthar-Zel finden wir von den Dwermern hinterlassene Sternenbilder die anscheinend schon vor ziemlich langer Zeit genau so aussahen wir es heute der Fall ist. Arana macht übrigens einen guten Punkt, für eine Zivilisation die soviel unter der Erde gewohnt hat haben sie sich sehr für die Sterne interessiert. Was aber für mich eigentlich viel interessanter ist das die Reikmannen zwar die selben Sternbilder kennen wie das restliche Tamriel aber sie anders nennen. Das sagt uns zwei Dinge, erstens, die Reikmannen haben die ursprünglichen Namen bzw. Strukturen der Sternenbilder offensichtlich importiert, andernfalls hätten sie andere Linien gezogen, ist ja nicht so das Sternenbilder absolut gleich zu erkennen sind. Und zweitens, irgendwann dachte man das man die Bilder umbenennen will. Und so wurde aus der Magierin die Hexe in den Sternen. Was irgendwie in die Kultur der Reikmannen passt und auch auf gewisser Weise schöner klingt.Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 UhrHier
+  ```
+
+##### #1383
+
+* Titel: `Let's Play ESO #1383 - Lobt Flocke [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 32 des Markarth DLCs - Sitzung 4
+  
+  Die heutige Episode ist, wie ich leider zugegeben muss, eine ziemlich  Füllerepisode. An sich passiert absolut gar nichts, da ich zwischendurch irgendwelche Kämpfe mit der grauen Schar habe kriege ich die Zeit zwar rum, aber inhaltlich tun wir nicht viel mehr als einem Kaninchen hinter her zu laufen. Außerdem erfahren wir das nordische Bergleute durchaus das Reik als Ressourcenquelle entdeckt haben. Später erfahren wir interessanterweise das unsere beiden Nord hier nicht die ersten waren die diese Idee hatte. Die grundlegende Prämisse scheint sogar korrekt zu sein, der Reik hat noch Einiges an Bodenschätzen zu bieten, leider aber auch Reikmannen die anscheinend eine Kultur haben die Bergbau eher nicht als edles Tun ansieht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1384
+
+* Titel: `Let's Play ESO #1384 - Schamanenlehrling Fialyn [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 32 des Markarth DLCs - Sitzung 4
+  
+  Nachdem wir in der letzten Episode ein Schaf namens Flocke gepflegt haben geht es jetzt wieder an die wichtigen Dinge im Reik. Anscheinend gibt es einen Ort namens Karthwasten, eventuell haben wir von dem Ort schon einmal gehört. Und zwar als es darum ging das sich der Jarl Stück für Stück vom Reik erobert. Das hat offensichtlich eher nicht so gut geklappt aber die Reikmannen die jetzt an dem Ort leben haben es scheinbar auch nicht ganz einfach. Zum Glück scheint man uns relativ aufgeschlossen gegenüber zu stehen. Insbesondere Fast-Schamanin Fialyn scheint bemüht zu sein in uns einen Boten der Geister die sich später als die Daedra herausstellen. Gewissermaßen stimmt da auch, in der Vergangenheit haben wir bereits in Auftrag jener "Geister" gehandelt aber heute sind wir eigentlich für uns selbst hier. Ich mag Fialyn trotzdem, sie glaubt an uns, das mag ich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1385
+
+* Titel: `Let's Play ESO #1385 - Geisterrituale [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 33 des Markarth DLCs - Sitzung 4
+  
+  Wir wissen ja bereits das die Geister eigentlich die Daedra sind. Mir wirft das jetzt ein paar Fragen auf, die Daedra dürfen dank des Drachenpakts eigentlich nicht in die Welt direkt eingreifen und brauchen stattdessen Agenten die sie irgendwie beeinflussen können. So oder so ähnlich, ehrlich gesagt müsste ich mich darin eigentlich einmal erneut belesen. Oder irgendwer verrät es mir, die paar Jahre kann ich dann auch warten. Wie dem aber auch sei, um die Geister anzurufen die dann irgendwie helfen sollen brauchen wir bestimmte Ritualkomponenten die mit dem Ort verbunden sind. Das ist übrigens eine gewisse Erklärung wie das alles funktioniert, es wird eine Verbindung zum Ort hergestellt die den Daedra dann ermöglicht einzugreifen. Das führt uns dann aber zu der nächsten Frage: wie genau bringe ich aggressive Daedra dazu meinen lokalen Ort zu beschützen? Letztendlich ist es aber wohl auch egal, anscheinend funktioniert das schon seit vielen Jahren, die Spätfolgen scheinen also überschaubar zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

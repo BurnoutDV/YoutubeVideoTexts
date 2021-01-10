@@ -678,6 +678,70 @@
 
 ##### #52
 
+* Titel: `Cyberpunk 2077 - #52 - Anders Hellmann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute treffen wir einen Experten. Anders als all die anderen Leute treffen wir ihn aber nicht zwischen den Augen oder zumindest auf der Stirn sondern tatsächlich im Traditionellen Sinne. Der gute Dr. Hellmann ist anscheinend Experte für Relic Chips, also genau das Ding das wir im Kopf haben. Es stellt sich aber heraus das wir offensichtlich einen Prototypen im Kopf haben der Dinge tut die die normale Relic Chips nicht tun. Und schlimmer noch, das Ding ist nicht auf kommerzielle Benutzung ausgelegt. Interessant ist übrigens auch das die Forschung auf speziellen Anraten des Firmengründers von Arasaka geschah. Ich frage mich jetzt wirklich warum wir das Engramm von Johnny Silverhand auf dem Chip gefunden haben. Es wird sich ja kaum um die einzige Persönlichkeit handeln die Arasaka getötet und aufbewahrt hat. Wollte er Johnny wiederbeleben aus Reue? Aus Rache, oder war es der Hass auf Johnny der ihn dazu gebracht hat genau dieses Engramm als Versuchskaninchen zu nutzen. Gibt es den ursprünglichen Körper von Johnny Silverhand noch irgendwo? War das der Plan? Oder war es nur ein Unsterblichkeitsprogramm. 
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #53
+
+* Titel: `Cyberpunk 2077 - #53 - Elizabeth & Jef Peralez [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt beliebter als wir es in der Vergangenheit waren. Das sorgt dafür das Leute die wir noch gar nicht kennen von uns wissen. Das ist aus vielen Gründen schlecht und aus wenigen Gründen gut. Es sorgt dafür das man uns sucht wenn man einen speziellen Auftrag hat. V. ist die Person die man kontaktiert wenn es einen Auftrag mit Fingerspitzengefühl braucht. Oder einfach nur einen Spezialisten für eine besondere Aufgabe. In diesem Fall kontaktiert uns eine Person namens Elizabeth Peralez die anscheinend eine so wichtige Sache hat das sie nicht am Telefon darüber sprechen kann. Ärgerlich, aber natürlich treffen wir uns mit der Person, wir erinnern uns, Finanzen sind knapp und auf uns kommt eventuell noch eine sehr teure medizinische Rechnung zu. Da müssen wir noch was tun damit das auch in unserem Budget bleibt. Trotz Risiko können wir also einen potenziell lukrativen Einsatz nicht ablehnen. Und das tun wir natürlich auch nicht. Die Angst das es ein Attentat aus Rache für einen vorherigen Gig ist bleibt aber bestehen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #54
+
+* Titel: `Cyberpunk 2077 - #54 - Mein bester Kumpel River [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ja immer wieder so lustige Geschichte wo zwei Kerle gemeinsam auf Erkundungstour gehen und sich die Welt anschauen. Oder gemeinsam ein Verbrechen aufklären. In diesem Falle wäre das Detektiv River Ward und sein Kollege. Besagter Kollege scheint aber nicht besonders daran interessiert zu sein den Todesfall des ehemaligen Bürgermeister zu untersuchen. Aber wir sind es. So werden wir also heute quasi zum Kollegen einer Bulette. Das ist eigentlich ganz interessant weil sich River anscheinend an irgendwelche Gesetze hält von denen ich noch nie irgendetwas gehört habe. Und das ist auch irgendwie gut für ihn, weil wir uns halt nicht an diese Gesetzte halten müssen und daher Dinge tun können die einen gestandenen Detektiv des NCPD nicht gestattet sind. In dem Sinne ergänzen wir uns eigentlich ganz gut. Solange wie unser ehrenwerter Detektiv nicht zu genau hinschaut und wir es bei kleineren Gesetzesüberschreitungen lassen. Und solange wir es nicht zu sehr übertreiben.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #55
+
+* Titel: `Cyberpunk 2077 - #55 - Red Queens Race [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode erwähnte ich das River Ward nicht überall hin kann wo wir hinkommen. Zum Beispiel in den berühmten und sehr exklusiven Club "Red Queens Race", anscheinend eine echte Untergrundattraktion, wer nicht weiß wo es ist kommt auch nicht rein. Oder schleicht solange in der Lagerhalle umher wo die Adresse hinführt und findet dann den geheimen Fahrstuhl der in den heiligen Hallen führt. Es geht also runter. Im Club selbst finden wir übrigens eine Menge Zerstörung. Und einige Mietmuskeln, nichts womit ich nicht fertig werde aber dennoch ein wenig seltsam das alles hier. Man könnte fast von einer Verschwörung reden. Was übrigens den guten River angeht, ihm zu Liebe würge ich diverse Leute anstatt sie einfach zu meucheln..das und weil ich mit dem Scharfschützengewehr in engen Räumlichkeiten nur beschränkt Erfolg haben werde. Das wird bestimmt eine interessante Überraschung wenn die Typen wieder aufwachen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #56
+
+* Titel: `Cyberpunk 2077 - #56 - Fixer, Söldner, Soldier, Spy [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute geht es alleine um eine Nebenmissionen. Die ist aber spannend weil sie quasi die Fortsetzung einer anderen Geschichte ist die wir in der Vergangenheit gemacht haben. Es geht um einen russischen Fixer, ich finde das sehr interessant etwas über andere Länder und Orte zu erfahren, obwohl ich mir nicht sicher bin ob die Nähe bzw. die Dichte genau so in Russland wie in Night City ist. Auch ist es eine Fortsetzung der Mission in der wir heimlich einen Peilsender verstaut haben. Interessant ist übrigens auch das unser "Opfer" immer noch keine Ahnung hat das wir an seinen Fersen hängen. Schließlich sind wir Profi und schleichen uns rein ohne das es auch nur einen Zeugen gibt..außer vielleicht eine Menge gehackter Geräte. Das ich mich zwischendurch ein wenig anstelle ist ja erst einmal egal, dafür haben wir ja eine Quickloadteste die dafür sorgt das wir in den richtigen Situationen alles weider bereinigen können.
+  
+  ---
+  Dies ist ein YouTube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

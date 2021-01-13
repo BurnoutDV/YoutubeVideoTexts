@@ -160,10 +160,46 @@
 
 ##### #14
 
+* Titel: `Uncharted - #14 - die Bibliothek [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen immer noch nicht was passiert ist, aber irgendetwas hat dafür gesorgt das die gewaltige Stadt die wir vorher gesehen haben und auch dieses Kloster vollkommen verlassen sind. Immerhin gibt es eine größere Menge Aufzeichnungen, fraglich ist allerdings auch wo die ganzen Leute hin sind. Es scheint nicht so das irgendjemand die Insel verlassen hat, andernfalls würde es wohl mehr historische Aufzeichnungen dieses Ortes geben, auf der anderen Seite scheint es aber auch nicht so zu sein das wir irgendwo Leichen oder Massengräber gesehen haben. Immerhin entdecken wir heute ein paar Krypten. Die sehen zwar nicht so aus als würde hier die gesamte Bevölkerung begraben liegen aber immerhin ist das schon mal ein Ansatz wo einige der Bürger hin sind. Vielleicht gab es eine schreckliche Seuche und es musste eine Quarantäne verhängt werden?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #15
+
+* Titel: `Uncharted - #15 - der Schlüssel im Herz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neben dem Rätsel der verschwundenen Koloniebewohner das uns eigentlich gar nicht so sehr interessiert weil sie eh alle Tod sind nach 400 Jahren gibt es übrigens außerdem noch das Rätsel des verschwundenen Schatzes. Also das wegen dem wir eigentlich hier sind. Anscheinend wurde dafür auch eine größere Menge an Arbeit verwendet. Generell übrigens ziemlich beeindruckend das alle Leute die hier weit und breit irgendwo gewesen sein könnten verschwunden sind, gleichzeitig aber genügend Arbeitskraft vorhanden war um noch schnell ein kompliziertes Versteck für den ultimativen Schatz zu erschaffen. Ich würde da gerne das Making Of der Stadt sehen. Wann wurde was erbaut. Welches gewaltige Gebäude wurde wann errichtet. Auch extra interessant ist die Größe der ganzen Angelegenheit, selbst wenn hier tausende von Leuten waren, Gebäude wie eine größere Kirche brauchen einfach lange mit altertümlichen Mitteln. Alles sehr mysteriös hier.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #16
+
+* Titel: `Uncharted - #16 - die Katakomben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein immer wiederkehrendes Element sind die großen Erbauer die wir an jeder Ecke der Welt finden. Diese Erbauer waren in der Lage gewaltige Höhlenkonstruktionen mit garantiert tödlichen Stürzen und atemberaubenden Höhen zu konstruieren. Man muss das wirklich respektieren, anderswo dauerte es hunderte Jahre einen Dom zu bauen und hier basteln irgendwelche spanischen Siedler ohne die Hilfe von Meisterhandwerkern und höchstwahrscheinlich mit begrenzten Möglichkeiten gewaltige Bauwerke sowohl Über- als auch Unterirdisch auf. Ich bin wahrlich beeindruckt, heute finden wir beispielsweise die Katakomben, tiefe Höhlen mit ziemlich vielen Leichen darin, und mitten drin natürlich ein paar obligatorische Rätsel. Jetzt fehlen nur noch ein paar wandelnde Mumien und schon ist das Gesamtbild komplett.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
-  
+  Hier
   ```

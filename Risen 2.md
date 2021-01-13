@@ -340,6 +340,45 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #27
+
+* Titel: `Risen 2 - #27 - Ranapiri der Jagdgeselle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die meisten großen Männer der Shaganumbi sind aktuell damit beschäftigt den Tempel der Erde zu beschützen weil dort Kapitän Crow Dinge tut die wir herausfinden wollen. An eben jene Krieger müssen wir wohl früher oder später vorbei kommen. Bis es aber soweit ist müssen wir uns auch noch mit den wenigen Kriegern auseinander setzen die verblieben sind. Manche mögen uns nicht, andere sind zumindest bereit das Gespräch zu beginnen. Einer davon ist Ranapiri der uns heute auf einen Jagdausflug begleitet, einen Ausflug den wir dazu nutzen alle Viecher die wir irgendwie auftreiben können zu bejagen, eigentlich wollte uns der gute Mann ja auch nur den Aufenthaltsort bzw. den Ort des Verschwindens eines jungen Kriegers zeigen, aber es gibt natürlich keine Waldwanderung ohne das wir das nutzen, klar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #28
+
+* Titel: `Risen 2 - #28 - Tahana der große Krieger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir in der letzten Episoden den großen Meister der Jagd und Krieger der Shaganumbi begleitet haben begegnen wir heute einem geringeren Krieger, Tahana. Der hat es irgendwie geschafft im lokalen Knast zu landen, nicht weil er irgendetwas verbrochen hat sondern weil die Inquisition einfach generell definiert hat das alle Leute die aus dem Busch kommen und die falsche Hautfarbe haben keine Rechte verdienen. Ehrlich gesagt überrascht mich das ein wenig, man kann die Leute ja noch soviel als Wilde bezeichnen, aber sich komplett die Arbeit zu ersparen die Leute mit irgendeiner Art von legalen Gitterwerk einzusparen erscheint mir sehr fraglich. Wäre das Reich in einem besseren Zustand könnte ich mir hier einige Reiberein vorstellen. Für den Moment sieht es aber nicht so aus als könnten wir da viel für Wildenrechte tun. Zumindest nicht auf judikativen Weg, daher greifen wir zur Selbstjustiz, wie bedauerlich das ich nicht den letzten Zeugen beseitigen kann. Das würde viel einfacher machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #29
+
+* Titel: `Risen 2 - #29 - Jagdgebiete [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jeder Ort hat irgendwo ein designiertes Jagdgebiet. Meistens handelt es sich um eine Wasserstelle oder der Weg zu einer Wasserstelle. An und für sich ziemlich gemein den Tieren so aufzulauern, auf der anderen Seite hat es wohl keinen Sinn irgendwo im Wald rumzulungern und abzuwarten bis das kapitale Großwild vorbeigetrappt kommt. Wie dem aber auch sei, das Fleisch ist das was uns eigentlich am Wenigstens interessiert. Viel mehr liegt der Fokus darauf bestimmte Teile zu erhalten die wir dann an lokale Händler mit ausreichenden Profit verkaufen können. Dafür leben wir und andere Sterben dafür. Um wirklich alle Tiere zu ernten brauchen wir aber auch entsprechendes Werkzeug, und nicht jeder ist bereit uns eben dieses zur Verfügung zu stellen solange wir ein Fremder sind. In solchen Situationen hilft dann wohl nichts Anderes als sich zu beweisen, mit Jagdbeute..aber ohne die entsprechende Beute, welch Verschwendung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

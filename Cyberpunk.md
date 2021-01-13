@@ -740,6 +740,45 @@
   Dies ist ein YouTube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #57
+
+* Titel: `Cyberpunk 2077 - #57 - Vigilant [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal nehme ich das Gesetz selbst in die Hand. Größtenteils aber auch nur weil es ziemlich lukrativ ist drei oder fünf Punks ihrer Ersparnisse, ihrer Waffen und unter Umständen auch ihres Lebens zu berauben. Im normalen Leben wäre das genauso aber es gibt da so Dinge wie noch nicht eingetretenen moralischen Verfall, Anstand und dem Respekt vor dem Leben der dabei hilft nicht wild mordend durch die Welt zu ziehen. Das heißt aber nicht das es andere Leute nicht doch tun. V. zum Beispiel sieht die Dinge relativ entspannt was das angeht, auch Auftragsmord ist ihr nicht zu dreckig, deswegen gehen wir heute auch auf einen entsprechenden Auftrag, die einzige Besonderheit ist das unser Auftraggeber unbedingt zusehen will wie wir unser Ziel kalt machen. Das ist ein wenig ungewöhnlich, da fragt man sich doch wo es hängt? Möchte man sicherstellen das wir nicht in letzter Sekunde Milde zeigen? Ist der Auftrag fragwürdig? Wir werden es sehen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #58
+
+* Titel: `Cyberpunk 2077 - #58 - immerwährende Flamme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein nicht ganz so prominentes Thema im Cyberpunk ist die Religion. Zumindest kommt es mir so vor. Die Grundprämisse ist ja das es sich um eine gottlose Welt handelt in der große Firmen einfach tun was immer ihnen gefällt ohne das es irgendwelche Grenzen für die Megacorps gibt, sei es Moral, Gesetzt oder gar Gott. Insofern ist es eine Überraschung jemanden zu finden der einen tiefen Glauben hat. Er steht übrigens immer noch auf meiner Auftragsliste und nicht als Auftraggeber sondern als Ziel. Ich spreche von Joshua Stephenson, anscheinend zukünftiger Braindance Star wenn es nach "Rachel" geht. So oder so scheint der Mann tief im Glauben zu stehen. Interessant ist aber das er scheinbar mit niemanden gesprochen hat seit er im Knast ist, seine Religiosität scheint also ein großer Turm zu sein der leicht umfallen kann. Es wäre ja wirklich tragisch wenn ich in dieser Richtung etwas tun würde...
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #59
+
+* Titel: `Cyberpunk 2077 - #59 - Wüstenentführung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich kann man schon von einer besonderen Gnade reden wenn man in Night City und Umgebung nicht direkt umgebracht wird. Dann besteht immerhin Hoffnung auf Rettung, aber auch nur solange wie es jemanden gibt der sich um die Rettung kümmert. Und das bin dann wohl ich, ich und Panam. Andererseits ist es natürlich auch irgendwie nachteilig wenn man professionell verhört wird, die modernen Möglichkeiten sind ziemlich reichhaltig und bestimmt langwierig. So oder so, die Raffen kennen scheinbar den Wert von Saul, das ist erst einmal etwas Gutes wenn einem etwas daran liegt den Mann im Nachgang zu retten. Jetzt fehlt nur noch die Infiltrationsexpertin V. im Einsatz.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

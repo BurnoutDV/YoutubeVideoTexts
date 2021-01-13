@@ -1995,6 +1995,48 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1386
+
+* Titel: `Let's Play ESO #1386 - die Mine von Sanuarach [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 34 des Markarth DLCs - Sitzung 4
+  
+  Die Reikmannen betreiben, soweit ich das beurteilen kann, in der Breite keinen Bergbau. Klar, sie besitzen Metallwaffen und auch generell Einiges an Werkzeug das scheinbar aus Metall besteht, aber sie selber benutzen nur das was sie finden. Letztendlich ist ihr Lebenstil also gewissermaßen parasitisch. Nur wenn es um die Natur geht sind sie halt zurückhaltend. Ob sich irgendeine der Hexen einmal darum Gedanken gemacht hat das ihr Verhalten inkonsequent ist und die Weigerung nicht die Schätze des Landes zu ernten nicht logisch ist? Wahrscheinlich schon und es gab bestimmt eine gute Erklärung das man durchaus von anderen Leuten nehmen kann aber selber das Land unberührt lässt und die Pfoten in Unschuld wiegt. Wie dem auch sei, die Minen sind von den Nord die hier vor einiger Zeit einmal gelebt haben und bieten damit einen Angriffspunkt für einen Gegner der von unten kommt. So richtig geklärt wurde aber trotzdem noch nicht wie die Vampire die unterirdischen Gänge überhaupt initial eingerichtet haben. Die Bergleute werden ja wohl kaum bis in die Schwarzweite gegraben haben nur um jetzt zu merken das es nicht weiter geht. Und das ohne jemanden davon zu erzählen, wäre ja ein ziemlicher Zufall wenn die Reikmannen entweder genau in dem Moment vorbeikamen und niemand davon erzählt hat oder sie selbst nie geprüft haben was in der Mine vor sich geht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhrxxxxxxxxxx Folge 34 des Markarth DLCs - Sitzung 4Die Reikmannen betreiben, soweit ich das beurteilen kann, in der Breite keinen Bergbau. Klar, sie besitzen Metallwaffen und auch generell Einiges an Werkzeug das scheinbar aus Metall besteht, aber sie selber benutzen nur das was sie finden. Letztendlich ist ihr Lebenstil also gewissermaßen parasitisch. Nur wenn es um die Natur geht sind sie halt zurückhaltend. Ob sich irgendeine der Hexen einmal darum Gedanken gemacht hat das ihr Verhalten inkonsequent ist und die Weigerung nicht die Schätze des Landes zu ernten nicht logisch ist? Wahrscheinlich schon und es gab bestimmt eine gute Erklärung das man durchaus von anderen Leuten nehmen kann aber selber das Land unberührt lässt und die Pfoten in Unschuld wiegt. Wie dem auch sei, die Minen sind von den Nord die hier vor einiger Zeit einmal gelebt haben und bieten damit einen Angriffspunkt für einen Gegner der von unten kommt. So richtig geklärt wurde aber trotzdem noch nicht wie die Vampire die unterirdischen Gänge überhaupt initial eingerichtet haben. Die Bergleute werden ja wohl kaum bis in die Schwarzweite gegraben haben nur um jetzt zu merken das es nicht weiter geht. Und das ohne jemanden davon zu erzählen, wäre ja ein ziemlicher Zufall wenn die Reikmannen entweder genau in dem Moment vorbeikamen und niemand davon erzählt hat oder sie selbst nie geprüft haben was in der Mine vor sich geht.Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 UhrHier
+  ```
+
+##### #1387
+
+* Titel: `Let's Play ESO #1387 - Dwermer-Rätselstein [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 35 des Markarth DLCs - Sitzung 4
+  
+  Es muss irgendwann in der ewigen Zeit bevor die bekannte Geschichtsschreibung los ging eine Zeit gegeben haben in der alle Zivilisation einfach alles erreicht hatten, die täglichen Nöte einfach nicht mehr wichtig waren und man sich anderen Dingen hingeben konnte. Eine dieser Hingaben ist anscheinend an jeder Ecke verschiedene Rätsel einzubauen, Rätsel die natürlich nicht zu schwer oder zu leicht sein dürfen. Rätsel die keinen genialen Verstand benötigen aber auch nicht von jedem Dummbatz geöffnet werden können. Aber wenn man ehrlich ist fehlt hier irgendwie die Fallenkomponenten die uns dafür bestraft die falschen Dinge einzustellen. Ich muss sagen das dieses Rätsel eher auf der sehr leichten Seite steht, eventuell waren die Dwermer in Himmelsrand aber auch einfach nur unkreativ, ein Verhalten das sich später die Nord abgeguckt haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1388
+
+* Titel: `Let's Play ESO #1388 - Bthar-Zel [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 36 des Markarth DLCs - Sitzung 4
+  
+  Dwermer Ruinen bzw. ehemaligen Stätten der Tiefenelfen zu erkunden war mir schon immer eine Freude. Ich muss dazu übrigens sagen das mir ESO da ein wenig die Freude genommen hat. Während hier eigentlich alles da ist, schließlich rennen eine Menge Roboter und Viecher herum um Abwechslung zu bieten, im Großen und Ganzen handelt es sich um leere Orte die uns leider außer nackte Wände nicht viel zeigen. Die Anordnung der ganzen Dampfleitungen scheint relativ wenig Sinn zu ergeben und  versperrte Gänge machen außerhalb des MMO Kontexts einfach wenig Sinn. Nie erfahren wir mehr über den Ort den wir durchwandern, er ist nicht viel mehr als eine Kulisse. Als Kulisse zum Anschauen ist Bthar-Zel übrigens ganz schön anzuschauen, aber auch hier fehlt es mir wieder an Tiefe und auch ein gewisses Etwas das die Dinge besser erklärt. Immerhin enden wir am Ende wie in Skyrim üblich in der Schwarzweite. Darüber sollte aber niemand mehr überrascht sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

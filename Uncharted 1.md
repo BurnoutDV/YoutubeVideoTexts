@@ -194,7 +194,55 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
   ```
 
-##### #Nummer
+##### #17
+
+* Titel: `Uncharted - #17 - Eddy & die Ghule [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da diesen Piratenkapitän, ich nehme mal das er irgendwo aus dem ostasiatischen Raum kommt, einfach nur anhand der seltsamen Sprache die er spricht, ich kann das Pidgin nicht so richtig einordnen aber das muss ich ja auch nicht. Drake nennt den Typen Eddy und er scheint eine relativ intensive Vorgeschichte mit dem Kerl zu haben. Eddy hasst Nathan, das wissen wir bereits und war uns eigentlich auch bekannt bevor er uns das so explizit gesagt. Welche Geschichte zwischen den beiden genau vorgefallen ist werden wir wohl nie erfahren aber ich denke es soll dem verruchten Bild das wir von Nathan Drake und seiner Suche nach Schätzen haben noch weiter Feuer geben. Er ist halt einfach ein harter Kerl, und natürlich hat er Vergangenheit mit irgendwelchen Piraten. Seltsamerweise scheint Nathan auch irgendwie an dem Kerl gelegen zu sein. Liegt es einfach nur an seiner Liebe dem Leben gegenüber, der Angst einen nützlichen Verbündeten zu verlieren oder ganz allgemein Freundschaft die es einmal in der Vergangenheit zwischen den beiden gab.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #18
+
+* Titel: `Uncharted - #18 - ungebetene Gäste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Episodentitel ist ein wenig ambitioniert weil es erlaubt doppeldeutig zu sein. Leider kann ich diese kreative Leistung nicht wirklich mir selbst zu schreiben, der Titel stammt direkt aus dem Spiel. Allzuviel darüber nachdenken sollte man allerdings auch nicht weil der Ursprung der Monster denen wir später begegnen relativ schnell klar macht das auch die "Ghule", wie ich sie nenne, eigentlich Eindringlinge auf der Insel sind und nicht wirklich hier heimisch sind. Nach dem sie aber ziemlich lange in den Höhle unterhalb des Klosters residieren könnte man aber wohl sagen das sie hier schon ein wenig heimisch sind und Nathan Drake und seine Freunde die Eindringlinge sind. Es stellt sich aber glücklicherweise heraus das die Wesen nicht kugelsicher sind. Außerdem scheinen sie die berühmt Wellentaktik zu betreiben. Wenn alle gleichzeitig kommen würden hätte ich ein ernsthaftes Problem. Allerdings frage ich mich wie es die Deutschen geschafft haben eine riesige U-Boot Basis aufzubauen ohne dabei Probleme zu bekommen. Verrückt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #19
+
+* Titel: `Uncharted - #19 - Kirchengang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bezweifle irgendwie das Nathan Drake ein besonders religiöser Mensch ist. Eine hohe Spiritualität würde wahrscheinlich auch ziemlich kritisch dabei stören irgendwelche Schätze zu heben und für sich zu behalten. Erneut muss ganz klar gesagt werden, es geht unserem Protagonisten wirklich nur um Selbstbereicherung, alles Andere ist sekundär. Entdeckungen sind nur dann relevant wenn sie eine Spur zu anderen Schätzen darstellen. Insofern ist der heutige Kirchengang auch nur an einem Zweck gebunden, es sind nicht die Schrecken die dafür gesorgt haben das Nathan auf einmal die Nähe zu Gott gesucht hat. Wie dem aber auch sei, bevor wir das Gebäude betreten können müssen wir noch einige andere Kirchengänger abwehren, stellt sich doch glatt heraus das die Gier von Herrn Drake noch durch die seiner Gegenspieler übertroffen wird. Interessant ist auch das wir uns eigentlich schon lange mit anderen Goldschätzen davonschleichen hätten können. Aber nein, natürlich verfolgen wir den großen Schatz bis zum Ende.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #20
+
+* Titel: `Uncharted - #20 - Gold & Knochen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns dem Ende, und, es stel sich heraus das wir die ganze Zeit einen Gegenspieler hatten. Natürlich war es die rechte Hand des Typen von dem wir dachten das er der Bösewicht ist. Natürlich hat er all die Söldner bezahlt, und natürlich wusste er schon genau was wir eigentlich finden. Es kommen jetzt eine Menge Fragen auf. Wie zum Beispiel warum Navarro wusste das es sich um einen waffenfähigen Fluch handelt. Wie konnte es dazu kommen das Roman den Typen soweit vertraut hatte das er verraten werden konnte. Wer genau ist dieser Kerl, und viel wichtiger eigentlich noch, wie genau hat der Mann eigentlich vor die gesamte Operation hier zu überleben wenn der Hauptheld des Spieles hinter ihm her ist. Die Antwort auf die letzte Frage ist übrigens relativ klar, indem er die lasergeschützte One-Shot Pistole besitzt die mir schon vorher eine Menge Ärger gemacht hat. Mechanisch verstehe ich was ich tun muss, begeistert bin ich allerdings nicht. Unsere gerechte Rache und die Rettung der holden Maid muss eine Episode warten. Ich bin übrigens ein wenig enttäuscht von der guten Elena, die hat bis hier hin einen guten Eindruck gemacht aber letztendlich wird sie dann doch zur "Damsel in Distress" die wir retten dürfen ohne das wir irgendwelche Andeutungen sehen das die Gute selber irgendetwas tun kann. Fairerweise wäre ein Mann aber wahrscheinlich schon lange tot, so richtig klar warum Navarro sie verschont hat wissen wir allerdings auch nicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
+  ```
+
+##### #21
 
 * Titel: ``
 

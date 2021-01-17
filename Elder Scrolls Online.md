@@ -2037,6 +2037,62 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1389
+
+* Titel: `Let's Play ESO #1389 - eindringende Leere [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 37 des Markarth DLCs - Sitzung 5
+  
+  Nachdem wir die Kulissen von Bthar-Zel besichtigt haben sind wir ja nun in der Schwarzweite. Ich habe ja bereits erzählt das das eine reale Chance ist. Wenn man zu tief hinabsteigt, egal wo man eigentlich in Himmelsrand und aktuell auch noch im Reik ist, die Chance das man irgendwie im Keller der Dwermer landet ist scheinbar ziemlich hoch. Ich sage das nicht mit bedauern, es ist nur einfach so. Irgendwie landet man immer in der Schwarzweite, an manchen Orten kann man sich sogar hin graben, das ist aber nicht überall der Fall. Hier hat es zum Beispiel Einiges an Fahrstühlen gebraucht bis wir überhaupt auch nur in die Nähe kamen, Auch sieht die lokale Kaverne ein wenig kleiner aus als die die wir unter Himmelsrand gefunden haben. Ich halte es durchaus für möglich das am Ende unserer Mission alles einstürzen wird. Und damit all die Finsternis die wir heute  gefunden haben begraben wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1390
+
+* Titel: `Let's Play ESO #1390 - Bibliothek Arkthzand [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 38 des Markarth DLCs - Sitzung 5
+  
+  Die Dwermer waren offensichtlich große Forscher und haben einen ganzen Park an mächtigen Maschinen errichtet. Wir wissen nicht wie viele dieser Gerätschaften dem Krieg gegen andere Dwermer gedient haben, wie viele davon Diener waren um die komplexe Maschinerie zu erhalten und wie viele einfach nur Experimente in der stetigen Suche nach der ultimativen Wahrheit waren. Die Tiefenelfen haben sicherlich eine Menge Wissen angehäuft aber das Meiste davon ist entweder verloren, zerfallen oder einfach nicht mehr lesbar, aber doch gibt es noch einige Informationen die erhalten geblieben sind. Heute entdecken wir eine Bibliothek, natürlich hatten die Dwermer eine solche Einrichtung, ein Ort der Wissen bewahrt. Mich überrascht aber dennoch das es so eine Menge an Büchern gibt, noch dazu erhalten, auf dem ersten Blick. Hätte ich doch damit gerechnet das durch die Feuchtigkeit in der Schwarzweite mittlerweile alles zersetzt wurde. Oder aber auch das die Dwermer andere, effizientere Mittel zur Informationsaufbewahrung erdacht hätten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1391
+
+* Titel: `Let's Play ESO #1391 - unter Sternen & Sphären [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 39 des Markarth DLCs - Sitzung 5
+  
+  Nein, wir betreten heute nicht ganz spontan ein Anderes Reich in dem es ganz viele Sterne gibt, aber wir sehen eine weitere Anlage die beweist das die Dwermer ziemlich viel Fokus auf die Sterne bzw. Göttlichkeit in den Wolken gelegt haben. Wie es an der Stelle dann weiter geht kann ich für den Moment nicht sagen weil sich recht schnell herausstellt das wir unseren Weg durch unlautere Mittel geschlagen haben und deswegen nicht weiter voranschreiten können. Sechs Meter hinab zu klettern ist für einen Vampir und Magier vollkommen unmöglich und auch ich bin natürlich nicht einmal in der Lage über das Geländer zu steigen. Es wird wohl ein Geheimnis für die Zukunft bleiben. Immerhin haben wir ein paar Puzzlestücke aus den Tiefen der Einrichtung bergen können. Damit bewaffnet kann ich sicherlich bei Zeiten noch einige Theorien entwerfen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhrxxxxxxxxxx Folge 39 des Markarth DLCs - Sitzung 5Nein, wir betreten heute nicht ganz spontan ein Anderes Reich in dem es ganz viele Sterne gibt, aber wir sehen eine weitere Anlage die beweist das die Dwermer ziemlich viel Fokus auf die Sterne bzw. Göttlichkeit in den Wolken gelegt haben. Wie es an der Stelle dann weiter geht kann ich für den Moment nicht sagen weil sich recht schnell herausstellt das wir unseren Weg durch unlautere Mittel geschlagen haben und deswegen nicht weiter voranschreiten können. Sechs Meter hinab zu klettern ist für einen Vampir und Magier vollkommen unmöglich und auch ich bin natürlich nicht einmal in der Lage über das Geländer zu steigen. Es wird wohl ein Geheimnis für die Zukunft bleiben. Immerhin haben wir ein paar Puzzlestücke aus den Tiefen der Einrichtung bergen können. Damit bewaffnet kann ich sicherlich bei Zeiten noch einige Theorien entwerfen.Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 UhrHier
+  ```
+
+##### #1392
+
+* Titel: `Let's Play ESO #1392 - seltene Geschichten [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 40 des Markarth DLCs - Sitzung 5
+  
+  Wir sind wieder zurück bei Arana die uns vermittelt das die weisen Frauen vom Clan der Geistersänger bereits gewusst haben um was es sich bei dem schwarzen Herz von Skyrim handeln können. Es gibt da nämlich Geschichten darüber, ärgerlicherweise hat sie selbst damals nicht so genau zugehört und jetzt bleibt uns eigentlich nur noch ihre Schwester Nathari zu befragen, ärgerlicherweise gab es da wohl einen leichten Bruch mit ihrer Schwester als diese die Macht über den Clan übernommen hat. Daher bleibt uns wohl nichts Anderes über als die Kluften zu überbrücken und irgendwie die Hand des Friedens auszuwerfen. Wie genau das im Detail geschehen soll kann ich übrigens nicht sagen aber ich bin mir sicher das mir da noch etwas einfallen wird. Bis es aber soweit ist ärgere ich mich im Stillen darüber das die einzelnen Clans des Reik keine zentrale Bibliothek der Geschichten haben. Und das sie ineffizient nur Einzelnen die Geschichten der Alten beibringen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

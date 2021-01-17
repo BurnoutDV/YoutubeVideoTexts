@@ -671,7 +671,6 @@
 
   ```markdown
   Damals an einem komplett anderen Ort hatte Geralt extra Sinne um auch kleinste Spuren zu verfolgen. Für V. ist das nicht unbedingt eine Option und extra Sinne in dem Sinne (ha!) haben wir auch nicht. Übrigens auch ganz interessant, bestimmte Implantate erhöhen zwar die visuelle und auch auditive Wahrnehmung, aber so richtig praktisch dauerhaft nutzbar ist das eben auch nicht. In Braindance Sitzungen kann das zwar verwendet werden aber die eigene Wahrnehmung kann nicht so ohne Weiteres nahtlose mit Thermalsicht überlagert werden, oder besonderem Gehör. Dazu braucht es dann auch noch eine gedankliche Komponente die Informationen ausfiltert. Einfach weil das zugrunde liegende Gehirn nicht auf mehr Informationen ausgelegt ist. Ölspuren können wir aber zum Glück einfach über unsere normale Wahrnehmung legen. Daher verfolgen wir die heute auch und es klappt einach.
-  
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
@@ -696,7 +695,6 @@
 
   ```markdown
   Wir sind jetzt beliebter als wir es in der Vergangenheit waren. Das sorgt dafür das Leute die wir noch gar nicht kennen von uns wissen. Das ist aus vielen Gründen schlecht und aus wenigen Gründen gut. Es sorgt dafür das man uns sucht wenn man einen speziellen Auftrag hat. V. ist die Person die man kontaktiert wenn es einen Auftrag mit Fingerspitzengefühl braucht. Oder einfach nur einen Spezialisten für eine besondere Aufgabe. In diesem Fall kontaktiert uns eine Person namens Elizabeth Peralez die anscheinend eine so wichtige Sache hat das sie nicht am Telefon darüber sprechen kann. Ärgerlich, aber natürlich treffen wir uns mit der Person, wir erinnern uns, Finanzen sind knapp und auf uns kommt eventuell noch eine sehr teure medizinische Rechnung zu. Da müssen wir noch was tun damit das auch in unserem Budget bleibt. Trotz Risiko können wir also einen potenziell lukrativen Einsatz nicht ablehnen. Und das tun wir natürlich auch nicht. Die Angst das es ein Attentat aus Rache für einen vorherigen Gig ist bleibt aber bestehen.
-  
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
@@ -709,7 +707,6 @@
 
   ```markdown
   Es gibt ja immer wieder so lustige Geschichte wo zwei Kerle gemeinsam auf Erkundungstour gehen und sich die Welt anschauen. Oder gemeinsam ein Verbrechen aufklären. In diesem Falle wäre das Detektiv River Ward und sein Kollege. Besagter Kollege scheint aber nicht besonders daran interessiert zu sein den Todesfall des ehemaligen Bürgermeister zu untersuchen. Aber wir sind es. So werden wir also heute quasi zum Kollegen einer Bulette. Das ist eigentlich ganz interessant weil sich River anscheinend an irgendwelche Gesetze hält von denen ich noch nie irgendetwas gehört habe. Und das ist auch irgendwie gut für ihn, weil wir uns halt nicht an diese Gesetzte halten müssen und daher Dinge tun können die einen gestandenen Detektiv des NCPD nicht gestattet sind. In dem Sinne ergänzen wir uns eigentlich ganz gut. Solange wie unser ehrenwerter Detektiv nicht zu genau hinschaut und wir es bei kleineren Gesetzesüberschreitungen lassen. Und solange wir es nicht zu sehr übertreiben.
-  
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
@@ -722,7 +719,6 @@
 
   ```markdown
   In der letzten Episode erwähnte ich das River Ward nicht überall hin kann wo wir hinkommen. Zum Beispiel in den berühmten und sehr exklusiven Club "Red Queens Race", anscheinend eine echte Untergrundattraktion, wer nicht weiß wo es ist kommt auch nicht rein. Oder schleicht solange in der Lagerhalle umher wo die Adresse hinführt und findet dann den geheimen Fahrstuhl der in den heiligen Hallen führt. Es geht also runter. Im Club selbst finden wir übrigens eine Menge Zerstörung. Und einige Mietmuskeln, nichts womit ich nicht fertig werde aber dennoch ein wenig seltsam das alles hier. Man könnte fast von einer Verschwörung reden. Was übrigens den guten River angeht, ihm zu Liebe würge ich diverse Leute anstatt sie einfach zu meucheln..das und weil ich mit dem Scharfschützengewehr in engen Räumlichkeiten nur beschränkt Erfolg haben werde. Das wird bestimmt eine interessante Überraschung wenn die Typen wieder aufwachen.
-  
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
@@ -735,7 +731,6 @@
 
   ```markdown
   Heute geht es alleine um eine Nebenmissionen. Die ist aber spannend weil sie quasi die Fortsetzung einer anderen Geschichte ist die wir in der Vergangenheit gemacht haben. Es geht um einen russischen Fixer, ich finde das sehr interessant etwas über andere Länder und Orte zu erfahren, obwohl ich mir nicht sicher bin ob die Nähe bzw. die Dichte genau so in Russland wie in Night City ist. Auch ist es eine Fortsetzung der Mission in der wir heimlich einen Peilsender verstaut haben. Interessant ist übrigens auch das unser "Opfer" immer noch keine Ahnung hat das wir an seinen Fersen hängen. Schließlich sind wir Profi und schleichen uns rein ohne das es auch nur einen Zeugen gibt..außer vielleicht eine Menge gehackter Geräte. Das ich mich zwischendurch ein wenig anstelle ist ja erst einmal egal, dafür haben wir ja eine Quickloadteste die dafür sorgt das wir in den richtigen Situationen alles weider bereinigen können.
-  
   ---
   Dies ist ein YouTube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
@@ -748,7 +743,6 @@
 
   ```markdown
   Manchmal nehme ich das Gesetz selbst in die Hand. Größtenteils aber auch nur weil es ziemlich lukrativ ist drei oder fünf Punks ihrer Ersparnisse, ihrer Waffen und unter Umständen auch ihres Lebens zu berauben. Im normalen Leben wäre das genauso aber es gibt da so Dinge wie noch nicht eingetretenen moralischen Verfall, Anstand und dem Respekt vor dem Leben der dabei hilft nicht wild mordend durch die Welt zu ziehen. Das heißt aber nicht das es andere Leute nicht doch tun. V. zum Beispiel sieht die Dinge relativ entspannt was das angeht, auch Auftragsmord ist ihr nicht zu dreckig, deswegen gehen wir heute auch auf einen entsprechenden Auftrag, die einzige Besonderheit ist das unser Auftraggeber unbedingt zusehen will wie wir unser Ziel kalt machen. Das ist ein wenig ungewöhnlich, da fragt man sich doch wo es hängt? Möchte man sicherstellen das wir nicht in letzter Sekunde Milde zeigen? Ist der Auftrag fragwürdig? Wir werden es sehen.
-  
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
@@ -761,7 +755,6 @@
 
   ```markdown
   Ein nicht ganz so prominentes Thema im Cyberpunk ist die Religion. Zumindest kommt es mir so vor. Die Grundprämisse ist ja das es sich um eine gottlose Welt handelt in der große Firmen einfach tun was immer ihnen gefällt ohne das es irgendwelche Grenzen für die Megacorps gibt, sei es Moral, Gesetzt oder gar Gott. Insofern ist es eine Überraschung jemanden zu finden der einen tiefen Glauben hat. Er steht übrigens immer noch auf meiner Auftragsliste und nicht als Auftraggeber sondern als Ziel. Ich spreche von Joshua Stephenson, anscheinend zukünftiger Braindance Star wenn es nach "Rachel" geht. So oder so scheint der Mann tief im Glauben zu stehen. Interessant ist aber das er scheinbar mit niemanden gesprochen hat seit er im Knast ist, seine Religiosität scheint also ein großer Turm zu sein der leicht umfallen kann. Es wäre ja wirklich tragisch wenn ich in dieser Richtung etwas tun würde...
-  
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
@@ -774,12 +767,59 @@
 
   ```markdown
   Eigentlich kann man schon von einer besonderen Gnade reden wenn man in Night City und Umgebung nicht direkt umgebracht wird. Dann besteht immerhin Hoffnung auf Rettung, aber auch nur solange wie es jemanden gibt der sich um die Rettung kümmert. Und das bin dann wohl ich, ich und Panam. Andererseits ist es natürlich auch irgendwie nachteilig wenn man professionell verhört wird, die modernen Möglichkeiten sind ziemlich reichhaltig und bestimmt langwierig. So oder so, die Raffen kennen scheinbar den Wert von Saul, das ist erst einmal etwas Gutes wenn einem etwas daran liegt den Mann im Nachgang zu retten. Jetzt fehlt nur noch die Infiltrationsexpertin V. im Einsatz.
-  
   ---
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
-##### #Nummer
+##### #60
+
+* Titel: `Cyberpunk 2077 - #60 - Haboob voller Träume [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Wüste ist voller Dinge. Vor allen Dingen aber Sand. Ich frage mich jetzt übrigens ob Ereignisse wie der Sandsturm den wir heute sehen noch einmal im normalen Umfang der Missionen auftauchen oder ob es sich um ein einmaliges Ereignis gehandelt hat das uns einfach zeigen soll das die Leere der Wüste noch andere Gefahren als Sonne und Wasserarmut zu bieten hat. Wir erfahren übrigens das Haboob ein Sandsturm in Afrika ist, Wikipedia berichtet dann übrigens noch weiter das es nicht ganz so einfach ist. Die Stürme stammen auch noch von bestimmten Umgebungsvarianten und sind im Allgemeinen ziemlich heftig. Nebenbei versuche ich übrigens auch noch einen Sturm bei Panam auszulösen, aber wahrscheinlich war ich hier mal wieder etwas zu gierig. Das hat man davon wenn man keine Ahnung vom Flirten hat.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #61
+
+* Titel: `Cyberpunk 2077 - #61 - Schützenfest [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich habe ich ja tausend andere Dinge zu tun, beispielsweise gibt es da diesen Chip in meinem Kopf der ziemlich sicher meinen Untergang bedeutet wenn ich nicht bald etwas dagegen tue. Den Prozess zu verlangsamen scheint auch keine echte Lösung zu sein weil wir ja bereits wissen das wir damit nur einige Tage herausschlagen können. Das ist bei weitem nicht genug. Aber das alles ist auch erst einmal nicht so wichtig wen man von einem Moment in den anderen lebt. Von einer Sekunde zur nächsten Atmet, genau das tun wir doch! Heute haben wir zum Beispiel vor einiger Zeit seltsame Geräusche in irgendeiner Straße gehört. Es stellt sich heraus das es sich um das tun der 6th Street handelt. Übrigens ganz interessant eigentlich, ich halte die 6th für eine der gefährlichsten und gleichzeitig unspannensten Straßengangs. Einfach weil ihre Identität so sehr auf eine einfach zu widerlegende Lüge aufbaut. Die Valentinos glauben an Gott, Maelstrom an Selbstverbesserung und so weiter, aber die NUSA ist ziemlich klar ein gescheiterter Staat. Darauf stolz zu sein und all seine Verantwortung in diese Richtung abzugeben erscheint mir so falsch zu sein, so angreifbar, so fragil. Bedeutet es doch auch das alle Mitglieder irgendein Maß an Wahnsinn verfallen sein müssen, oder saudumm sind.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #62
+
+* Titel: `Cyberpunk 2077 - #62 - NCPD-Labor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Forschung ist wichtig. Forschung ist die einzige Hoffnung der Menschheit irgendwie aus den gegen den Baum gefahren Fehlern der Vergangenheit irgendwie noch partiel raus zu kommen. Bisher ist das nicht passiert, vielleicht auch weil man einfach an den falschen Sachen forscht. Im NCPD Labor wird aber tatsächlich etwas in den Fokus gelegt das für den ersten Moment recht sinnvoll erscheint. Übrigens wäre der Einsatz im Labor ungefähr 5 Minuten lang wenn ich direkt zu der Materie gegangen wäre die relevant ist. Bin ich aber nicht, stattdessen habe ich ergründet was man noch so alles erfahren kann. Und es stellt sich heraus das hier durchaus interessante Dinge erforscht werden. Auch wenn auch hier nicht alles gut ist, soweit es aussieht wird auch Einiges nur getan weil es profitabel ist, nicht weil es gute Ergebnisse erzielt die die Menschheit weiter bringt. Dennoch, von allen Laboren die wir bisher gesehen haben, das Positivste.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #63
+
+* Titel: `Cyberpunk 2077 - #63 - Randys Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Leben als Söldner Schrägstrich Shadowrunner ohne Shadowrun ist ziemlich variationsreich wenn man so will. Gestern noch haben wir irgendwelchen Bürgermeistern geholfen, heute suchen wir schon nach einem verschwundenen Kind. Alles deutet übrigens für den Moment darauf hin das das Kind das wir am Ende finden werden eventuell tot sein wird. Oder extrem verstümmelt. Oder schlimmer. Das klingt schon einmal nicht so gut, auf der anderen Seite gibt es auch Hoffnung das es etwas zu retten gibt, eine kleine Hoffnung das Randy überlebt hat. So heißt der Neffe, der Jugendliche den wir heute mit unserem besten Kumpel dem suspendierten Detektiv Ward suchen. Generell finde ich diese Mission ziemlich interessant, hat etwas von einer CSI Episode, nur das wir nicht offiziell die Polizei sind. Generell übrigens ein Lichtblick in dieser kaputten Welt, wenn es nicht grade die mächtigen sind die einen Verbrecher decken haben wir relativ freies Geleit was unser tun angeht. Nur Unterstützung erhalten wir auch nicht. Aber auf jeden Fall schon einmal besser abgesichert als die Untersuchung des Todesfalls  des ehemaligen Bürgermeisters.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #64
 
 * Titel: ``
 

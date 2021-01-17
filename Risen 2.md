@@ -379,12 +379,54 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #30
 
-* Titel: ``
+* Titel: `Risen 2 - #30 - Jadesteine [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich bin mir nicht sicher wie häufig oder selten Jade so in der Natur vorkommt, aber es scheint so das fremde Kulturen immer eine Menge mit Jade machen. Heute zum Beispiel Götzen bauen, was sie aber nicht tun ist größere Mengen an Jaden vor halten. Das ist ein wenig nervig wie ich sagen möchte weil ich jetzt das Zeug holen muss und dafür selbstverständlich wieder veritable Armeen an Viecher besiegen darf. Kann ja auch nicht sein das es noch irgendwie Jade gibt wo man gut heran kommen würde. Andererseits kann auch sein das die Jade grade jetzt ausgegangen ist und man noch die letzten Vorräte angreifen will um sicherzustellen das die bösen Piraten nicht auf einmal auf andere Gedanken kommen. Das es letztendlich wieder am namenlosen Helden hängen bleibt ist natürlich auch ganz recht, wie sollen wir auch sonst zu Ruhm und Ehre kommen, das wäre unter anderen Umständen auch  gar nicht möglich. Man stelle sich mal vor die Leute würden alles selber schaffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #31
+
+* Titel: `Risen 2 - #31 - Spionagemeister [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute erfahren wir alle. Das liegt einfach nur an unseren unfassbaren kompetenten Fähigkeiten einfach jede Anlage, Einrichtung und Zivilisation in quasi keiner Zeit zu infiltrieren. Menschen vertrauen uns einfach, selbst solche die uns eigentlich für das was wir sind misstrauen sollten. So kommt es das wir heute die letzten Informationen erfahren die wir für den Sturm auf den Tempel benötigen. Aber auch in die andere Richtung sind wir höchst effektiv, keines unserer Geheimnisse kommt an andere Ohren oder wird sonst irgendwie aufgedeckt. Alles was wir tun ist absolut geheim, sicher und niemand wird je wissen was passiert ist. Außer Sebastiano, der es anscheinend geschafft hat uns die ganze Zeit zu beschatten. Wie kann er das gemacht hat ist mir nicht klar, eigentlich kennen wir alle Personen die im Auftrag der Inquisition hier arbeiten und ich bin mir ziemlich sicher das mir was aufgefallen wäre. Aber, anscheinend wurden wir beschattet. Hoch interessant.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #32
+
+* Titel: `Risen 2 - #32 - 4 Musketiere auf Abwegen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man hat uns eine Armee für den Tempel der Erde versprochen. Eine Armee aus fleißigen und gut ausgebildeten Musketieren. Es stellt sich heraus das das eventuell nicht ganz so wahr war. Eine Armee besteht aus disziplinierten Soldaten, die möchte Alcazar uns aber eher nicht zugestehen, stattdessen erhalten wir die vier Männer die am wenigstens von dieser Disziplin besitzen. Das ist schon einmal ein guter Anfang. Aber es kommt noch besser, die meisten Männern wissen nicht einmal was sie erwartet geschweige denn das sie überhaupt etwas erwartet. Die nächste Steigerung ist dann auch noch das einer von ihnen sogar seine Waffe verlegt hat. Das klingt doch schon einmal nach einer stabilen Horde tapferer Krieger mit denen wir in allen Gefahren arbeiten können. Bevor wir also unsere vier tapferen Musketiere in die Schlacht reiten müssen wir sie wohl erst einmal aufbauen. Es war natürlich klar das Nichts einfach ist. Für einen kurzen Moment dachte ich aber wirklich das alles so funktionieren Könnte. Ich unterlag einer Fehleinschätzung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #33
+
+* Titel: `Risen 2 - #33 - Bartolos Flinte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich wusste ich von dem Moment an an dem es hieß das ich vier nicht ganz so disziplinierte Typen unterstellt bekomme das es Probleme gibt. Natürlich wusste ich das als es hieß das ich Bartolo erhalte es noch mehr Probleme geben wird, der Mann hat schließlich davon geredet das seine Knifte weg ist. Oder etwas weg ist aber das es sein Flinte ist war ja nicht so schwer zu erraten. Wie dem aber auch sei, was ich nicht wusste ist das das Ganze auf einen Krimi hinaus läuft. Ich hätte  geahnt das wir die Waffe ziemlich schnell auftreiben können, aber so wie es scheint sind die Dinge im Leben des unbenannten Helden nie einfach und so suchen wir natürlich richtig dolle lange bis wir überhaupt irgendetwas finden. Letztendlich werden wir die Kanone natürlich auftreiben aber bis es endlich soweit ist vergeht Einiges an Zeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

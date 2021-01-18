@@ -2093,6 +2093,20 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
+##### #1393
+
+* Titel: `Let's Play ESO #1393 - das vergessene Tal [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 41 des Markarth DLCs - Sitzung 5
+  
+  Heute betreten wir das vergessene Tal. Ich finde es übrigens schön das sofort klar gemacht wird das es nicht wirklich vergessen ist und das es sich viel mehr um einen mystischen Namen handelt den selbst die Reikmannen als eben solchen anerkennen. Das ist schon fast beruhigend oder? Der Aberglaube der wilden aus dem Reik hat eine Grenze, irgendwo ist ein Punkt wo man sich hinstellt und sagt "ja, das klingt jetzt wild, und das ist uns bewusst aber es klang halt witzig". Das nicht ganz so vergessene Tal beinhaltet anscheinend ein altes Nordgrab und noch tiefer unten ein großes Loch das scheinbar in die Tiefen unter den Bergen führt. Was genau das bedeutet kann ich zu diesem Zeitpunkt noch nicht sagen, aber es stehet wohl fest das es dann doch recht schnell wieder mystisch wird. Großartig, noch viel schöner ist aber auch das die graue Schar auch wieder da ist und uns selbstverständlich freudig willkommen heißt. Ich persönlich kann mir ja Nichts Besseres vorstellen. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

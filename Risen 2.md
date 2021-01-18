@@ -430,3 +430,26 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #34
+
+* Titel: `Risen 2 - #34 - Vorwärts Marsch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Musketiere sind gesammelt, die Waffen geflickt, Ausrüstung gegriffen und Proviant sicher verpackt. Es wird Zeit den langen und beschwerlichen Marsch auf den Tempel der Erde zu unternehmen. Theoretisch werden uns dort nur einige Piraten und ein paar mehr gestärkte Krieger der Shaganumbi erwarten. Mann kann aber nie sicher genug wissen um was für große Kämpfer es sich am Ende handelt. Daher  gehe ich natürlich auch taktisch vor anstatt mich einfach wild ins Getümmel zu werfen, schließlich habe ich doch mit Absicht die Seite der Inquisition gewählt. Jetzt plötzlich in Panik zu verfallen und allen erspielten Vorteil einfach weg zu geben wäre ja auch töricht. Kapitän Crow sieht übrigens ein wenig seltsam aus, aber ich nehme an das kommt dadurch das er grade ein mächtiges Voodoo Ritual vollzogen hat und das seine normale Kleidung eigentlich anders aussieht. In diesem Sinne, euch ein fröhliches Curio Hoodoo! (eigentlich was komplett Anderes aber das passte grade)
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

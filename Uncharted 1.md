@@ -244,10 +244,15 @@
 
 ##### #21
 
-* Titel: ``
+* Titel: `Uncharted - #21 - Showdown [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und da ist sie, die letzte Episode von Uncharted 1, Drakes Fortune. An sich handelt es sich übrigens eigentlich mehr um eine Halbepisode da der eigentliche Endkampf nicht ganz so lange dauert. Nebenbei erfahren wir das Nathan und Elena sich anscheinend physisch anziehend finden. Das kam jetzt nicht völlig überraschend aber für einen kurzen Moment hatte ich einfach gehofft das die einzige Frau in dieser Geschichte ein wenig mehrschichtig ist und nicht gleich dem Helden verfällt. Oder nur die ganze Zeit kokettiert aber kein ernsthaftes Interesse verspürt. Wie dem aber auch meine Wünsche sind, die Geschichte ist wie sie ist und hat bestimmt nicht das Schlechteste Ende, auch wenn die Szene vor dem Ende sehr nervenaufreibend war. Um die Zeit noch ein wenig durchzubringen gucken wir uns gegen Ende der ganzen Geschichten noch ein wenig Fanart an, einfach um ein Gefühl für die Entwickler und ihr Werk zu bekommen. Muss ja schließlich auch gewürdigt werden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. Uncharted auf dem Montags Slot.
   ```
+
+## Fazit
+

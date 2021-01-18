@@ -821,6 +821,19 @@
 
 ##### #64
 
+* Titel: `Cyberpunk 2077 - #64 - Träume eines Toten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Grenze zwischen lebendig und tot verschwimmt immer mehr. Wir sehen es an Johnny Silverhand, der Geist der in unserem Kopf lebt und seit 50 Jahren das zeitliche gesegnet hat, und doch überdauert sein Verstand. Da könnte man schon fast spirituell werden. Ein anderer Fall ist unser guter Freund "Peter Pan", seines Zeichens langsamer Serienmörder. Wir wissen nicht wo er seine Opfer aufbewahrt allerdings haben wir seine Träume, die müssen wir nur richtig stimulieren. Und in den Träumen von jemanden der 1,5% Chance hat jemals wieder zu erwachen sehen wir die Welt wie sie war, sehen die Welt wie sie in den Augen eines Psychopathen geschieht. Der nächste logische Schritt wäre dann übrigens ob man bei weniger physisch beeinträchtigten Leuten genau diese Information positiv zur Genesung des Patienten einsetzen könnte. Aber ich vermute einmal das es nicht ganz so einfach ist. Oder es wäre einfach zu teuer, und wer sagt den nicht das man den Verstand der Menschen nicht schon manipulieren kann.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

@@ -832,6 +832,18 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #65
+
+* Titel: `Cyberpunk 2077 - #65 - Kreuzigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Geschichte unseres großen Sünders Joshua Stephenson ist noch nicht vorbei, aber es scheint das wir anwesend sein müssen um die Geschichte für ihn zu beenden. Es überrascht mich ehrlich gesagt ein wenig wie persönlich wir involviert werden obwohl wir den Mann nur sehr kurz getroffen haben. Auf der anderen Seite muss man auch bedenken das Josh selbst sagt das er so  gut wie niemanden gesprochen hat als er in Haft saß. Und jetzt ist die Gelegenheit gekommen irgendwie noch etwas "Gutes" zu tun. Ich bin da übrigens ziemlich unsicher, der Mann will sich aus religiösen Gründen genau so hinrichten, eine meiner Meinung nach ziemlich unnötige Geschichte, interessant ist auch das irgendwelche Scavs ziemlich viel Aufwand betreiben um genau solche BDs herzustellen wie es hier ein professionelles Filmstudio tut. Generell ist mir das übrigens ein kleines Rätsel. Anscheinend ist es nicht illegal Videos bzw. BDs davon herzustellen wie jemand stirbt. Es gibt bei Weitem ausreichend Leute in schlechter sozialer Lage die man davon überzeugen konnte für einen guten Preis vorzeitig zu sterben. Erinnert mich ein wenig an Soylent Green. Aber da kann man doch bestimmt einige Leute dazu "motivieren" für ihre Familie ihr Leben möglichst grausam auszuhauchen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

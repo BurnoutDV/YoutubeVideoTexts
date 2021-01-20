@@ -444,6 +444,19 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #35
+
+* Titel: `Risen 2 - #35 - Begegnung mit  Mara [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles was wir bis her von den Titanen gesehen haben deutet irgendwie darauf hinaus das es sich mehr um Urgewalten handelt die man irgendwie lenken kann um Dinge zu tun. Zum Beispiel eine Welt erschaffen oder den Willen eines Gottes zu erfüllen. Sowohl Feuertitan als auch Erdtitan waren irgendwelche golemartigen Strukturen die wir mit einigen Schwierigkeiten tatsächlich auch besiegen konnten. Aber Nichts von dem was die Viecher getan haben deutete darauf hinaus das es eine höhere Intelligenz gibt die Pläne verfolgt. Und genau so scheint es auch mit den Titanen zu sein die das Festland verunstalten. Es handelt sich um einen Krieg zwischen zwei Titanenlords die hier den Ton angeben, aber die Titanen selbst sind nur Mittel zum Zweck. Wir begegnen heute Mara und irgendwie erscheint es mir so das Mara nicht direkt frei von eigenen Gedanken ist. Außerdem zeigt es uns das wir auf jeden Fall ein besseres Mittel brauchen um gegen sie vorzugehen.  Die heutige Begegnung ist eher unzufriedenstellend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

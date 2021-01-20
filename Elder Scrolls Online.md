@@ -2107,12 +2107,16 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
-##### #Nummer
+##### #1394
 
-* Titel: ``
+* Titel: `Let's Play ESO #1394 - Natharis Wille [Markarth]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 42 des Markarth DLCs - Sitzung 5
+  
+  Wir wissen das Arana eine Schwester namens Nathari hat, anscheinend tut man als Frau in einem Reikstamm auch nicht viel mehr als entweder Mutter von ziemlich vielen Kindern zu werden oder weise Frau aka Stammeshexe. Das Leben als Schamanin bzw. Hexe scheint mir übrigens das wesentlich angenehmere zu sein, es klingt nach mehr Respekt im Allgemeinen. Wahrscheinlich gibt es da auch dunkle Seiten wie die das man Nachts lange aufbleiben muss oder sich die ewigen Sorgen von allen möglichen Leuten anhören darf und wahrscheinlich kommt man um diesen ganzen Teil mit der Jagdausbildung nie herum, dafür erscheinen die Reikstämme nicht ausgelegt. Was man aber auch als ordentliche Reikhexe erlangt ist scheinbar Macht, nicht besonders viel weil eigentlich erwartet wird das man eben diese Macht zum Wohle des Stammes einsetzt aber schon einmal einen guten Vorgeschmacke darauf was sein kann. Die Macht kommt, soweit ich das jetzt einmal schlussfolgere, im Großen und Ganzen aus der Anbetung von irgendwelchen Daedra. Die mögen bestimmte Dinge mehr als Andere. Manchmal sind Hexen aber besonders Machthungrig, und dann reichen die paar Brocken die die Daedra bereit oder fähig sind aufzugeben nicht. Und dann kommen wir zu Charakteren wie Nathari. Ich fürchte übrigens das sie mir nichts über das dunkle Herz in den Tiefen erzählen will.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```

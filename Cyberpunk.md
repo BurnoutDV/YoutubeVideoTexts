@@ -844,6 +844,55 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #66
+
+* Titel: `Cyberpunk 2077 - #66 - schwache Blutspuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Normalerweise würde ich nicht einmal erwähnen wenn es irgendwelche Blutspuren  gibt, egal wo wir sind gibt es eigentlich immer eimerweise Blut, meistens ist es sogar für einige Zeit in den Leuten, das bleibt in der Regel aber nicht lange so. Heute ist der Fall aber anders, unser Kunde erinnert sich daran das er jemanden angeschossen hat aber es gibt keine Hinweise darauf. Übrigens wirft die heutige Episode einige Fragen für mich auf. Am Anfang haben wir anscheinend von Doc Victor diese tolle Kiroshi Optik erhalten. Wir sehen auch überall Werbung dafür, aber anscheinend ist diese besondere Sicht auf die Dinge nicht besonders verbreitet. Wie sonst erkläre ich mir das wir in der Lage sind Dinge zu erkennen die andere Leute nicht sehen können. Insbesondere bei so reichen Leuten wie unseren Kunden ist es aber doch ein wenig verwunderlich das sie nicht eben solche Optiken haben. Oder mangelt es ihnen einfach an die Fähigkeiten die Optik auch auf die richtigen Dinge zu richten?
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #67
+
+* Titel: `Cyberpunk 2077 - #67 - das blaue Team [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das die Leute die uns beauftragt haben herauszufinden wer sie überfallen hat gar nicht überfallen wurden. Stattdessen scheint es so als das man sie viel mehr überwacht hat und es nur einen kleinen Unfall gegeben hat. Die Macht dieser Akteure scheint ziemlich  gewaltig zu sein. Generell steht natürlich die Frage im Raum welche Absicht die Unbekannten hinter den Kulissen haben. Auch wissen wir nicht ob die Leute die wir getroffen haben von der Sicherheitsfirma wirklich wissen was sie da tun oder ob sie nur einen kleinen Teil der Aufgabe erledigen und einfach nicht in Frage stellen was sie tun weil sie dafür bezahlt werden. So oder so, selbst wenn wir das blaue Team erwischen würden könnte sie uns wahrscheinlich nicht besonders viel erzählen. Aber die Identität der Hintermänner ist sowieso eine klassische Trophe. Ich vermute aber mal das die Tatsache das die Peralez überhaupt in diese Situation gekommen sind spricht für sich das nicht über die Mittel verfügen irgendetwas zu tun.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #68
+
+* Titel: `Cyberpunk 2077 - #68 - Süße Träume [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal tue ich Dinge von denen ich genau weiß das sie keine gute Idee sind. Zum Beispiel heute. Eigentlich tue ich sogar viele Dinge, aber das kommt halt davon wenn man praktisch unsterblich ist, man kann Risiken eingehen die jeder Sterbliche nicht einmal in Erwägung gezogen hat. Außerdem könnte man auch argumentieren das V. aufgrund ihres sowieso verkürzten Lebens es sich durchaus leisten kann Risiken einzugehen ohne groß über die Zukunft nach zu denken, was wir bis her von Hellmann erfahren haben lässt es nicht aussehen als das wir noch irgendetwas tun können. Wie dem aber auch sei, die heutige Entscheidung ist, so gebe ich doch eigentlich ganz gerne zu war besonders idiotisch. Sogar doppelt idiotisch, den Kampf gegen eine unbekannte, anscheinend allmächtige Macht zu starten und dann noch irgendwelche Dinge auf der Straße rein zu pfeifen war bestimmt eine besonders erwachsene Entscheidung.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #69
+
+* Titel: `Cyberpunk 2077 - #69 - Herstellungskunst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was wir heute übrigens auch noch tun ist eine Mission namens "Follow the River", es sieht ein wenig so aus als würden wir eine romantische Beziehung mit River Ward in Betracht ziehen dürfen. Der Gute hat sich anscheinend aus seinem Polizeileben ein wenig zurückgezogen und tut jetzt andere Dinge, wie zum Beispiel Essen kochen. Ich kann mir nicht vorstellen das das auf Dauer ein lukratives Geschäft ist und schon bald wird die Familie in ernsthafte Geldprobleme laufen. A pro pro Geldprobleme, auch ich bin von diesen Sorgen nicht vollständig frei. Auch wenn es in meinem Fall eher darauf hinaus läuft das ich Herstellungskomponenten brauche um meinen Traum von perfekter Ausrüstung zu erfüllen.  Auch dafür reicht mein aktueller Job kaum aus, ironischerweise ist das Einzige was ich tun kann um mir weitere Komponenten zu finanzieren weiter Aufträge zu erfüllen, Aufträge die sehr gefährlich sind aber bestimmt weniger gefährlich wären wenn ich besser ausgerüstet wäre. Ausrüstung die ich mir ironischerweise nicht leisten kann weil ich einfach nicht genügend Herstellungskomponenten habe.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

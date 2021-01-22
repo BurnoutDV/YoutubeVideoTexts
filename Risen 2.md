@@ -457,6 +457,45 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #36
+
+* Titel: `Risen 2 - #36 - Reiseangelegenheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Uns gefällt es hier auf einmal nicht mehr. Generell sind Inseln so eine Sache. Vor einigen Jahren war ich einmal auf Teneriffa, und an sich merkt man ja nicht wirklich das man auf einer Insel ist, so im ersten Moment, im Nahbereich sieht man nur eine Küste, die Stadt oder sonst irgendwas, das die Landschaft endlich ist fällt so schnell nicht auf. Allerdings sind wir nicht einmal auf einer Insel und doch sind unsere Möglichkeiten ähnlich begrenzt als wären wir auf einer. Hauptgrund dafür sind die tiefen Dschungel und die Inquisition, vielleicht in 100 Jahren gibt es hier große Straßen die uns mit der restlichen Welt verbinden, bis es aber soweit ist kommen wir hier nur per Schiff weg. Wir haben allerdings kein Schiff mehr, dafür hat eine Krake gesorgt. Das  wiederum bedeutet das die mächtige Waffe die wir unlängst erbeutet haben leider ziemlich nutzlos herumliegt. Immerhin möchte die Inquisition auch Ansprach auf diese erheben. Generell habe ich das Gefühl das wir grade in Bürokratie zerquetscht werden. Ich persönlich bin ja ein Fan von unbürokratischen Lösungen, was liegt da also näher als die Dinge selbst in die Hand zu legen, jetzt brauchen wir nur noch Unterstützer und schon können wir ablegen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #37
+
+* Titel: `Risen 2 - #37 - Black Betty [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute holen wir uns ein Schiff, ich erwähnte es ja schon. Um zur See zu fahren braucht man schließlich irgendein Gefährt und das U-Boot wurde einfach noch nicht erfunden. Es stellt sich heraus das die Inquisition genau das hat was wir brauchen. Das Gerät heißt Black Betty und wir werden es nutzen. Natürlich ist nicht immer gleich alles einfach was einfach aussieht. Zum Beispiel ein Schiff stehlen, in der Theorie geht man an Bord, setzt Segel und schon ist man davon. Alles wird wesentlich schwieriger wenn man über nur begrenztes Personal verfügt und ganz schön damit haushalten muss. Dann kann man nicht einfach so losfahren und Dinge tun. Oder wenn es Wachen gibt die entschieden etwas dagegen haben das man einfach so in See sticht, aus irgendwelchen Gründen. Besitzverhältnisse oder so, zum Glück gilt für uns sowas nicht, wir sind schließlich Pirat, und als Solcher ist uns alles andere egal. Eigentlich ein glücklicher Umstand.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #38
+
+* Titel: `Risen 2 - #38 - Segel setzen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben jetzt unser eigenes Schiff und natürlich benutzen wir das auch um damit jetzt einmal durch die Welt zu fahren. So wie die Dinge laufen haben wir nun also die gesamte freie Welt zur Auswahl, wir können praktisch überall hin. Zugegeben, wir haben nur begrenzt Wasser an Bord und soweit ich das sehen kann haben wir exakt nichts zu Essen mitgenommen aber das alles ist ja überhaupt kein Problem weil die Schwertküste und grade zu winzig. Wir sollten also innerhalb eines einzigen Tages weiter gezogen sein und irgendwo anlanden, überhaupt gar kein Problem. Daher fahre ich zu erst zu Orten an denen ich schon gewesen bin einfach nur weil ich das tun kann. Ein eigenes Schiff zu besitzen bringt auf jeden Fall eine Menge Vorteile mit sich, zum Beispiel den das wir auch eine eigene Crew haben, eine Crew die wir immer auf Abenteuer dabei haben, treue Begleiter die uns zur Seite stehen und dafür sorgen das wir Gefahren nicht alleine besiegen müssen. Ist das nicht praktisch? Unser erster halt ist übrigens Antigua, technisch gesehen war ich auch ganz kurz noch einmal auf Takarigua, aber das zählt natürlich nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

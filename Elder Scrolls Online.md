@@ -2120,3 +2120,55 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
+
+##### #1395
+
+* Titel: `Let's Play ESO #1395 - der Schwarzstieg [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 43 des Markarth DLCs - Sitzung 5
+  
+  So richtig ist das namensgebende schwarze Herz von Himmelsrand immer noch nicht aufgetaucht, aber eventuell ist das gar nicht einmal so schlimm. So wie es scheint ist das schwarze Herz nichts das man sich mal eben auf die Schnelle antun möchte. Eigentlich sogar nie, Nathari sieht das naturgemäß ein wenig anders aber ich habe ja bereits über die Machtgier der jungen Hexe gesprochen. "Jung" sollte ich hier wohl in Anführungsstriche stellen, schließlich haben wir gar keine Aussage über das Alter der beiden Schwestern, nur das Arana die Ältere von den beiden ist. Aber Reikhexen könnten durchaus über Mittel verfügen ihr Antlitz zu verjüngen um besser da zu stehen. Wahrscheinlich aber nicht, als Hexe steht man wahrscheinlich besser da wenn man eine gehörige Menge an Falten und Narben besitzt. Aber was kann ich schon über das Schönheitsideal der Reikmannen sagen. Wahrscheinlich ist es kompliziert. Oder etwas um das man sich wenig Sorgen macht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  ```
+
+##### #1396
+
+* Titel: `Let's Play ESO #1396 - Oberhäuptling Cannear [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 44 des Markarth DLCs - Sitzung 6
+  
+  In der letzten Episode waren wir bereits an Hroldans Grund um uns dort mit einem Mitglied des Geistersangclans zu treffen. Der Ort selbst ist ein Ort an dem es keine Gewalt gibt. Ein Ort der allen Clans heilig ist und hier kann man miteinander handeln ohne die Waffen eines anderen Clans fürchten zu müssen. Ein Ort für Diplomatie und Absprachen. Soweit ich das mitbekommen habe haben sich viele Clans des Reik in den Haaren, das können uralte Fehden sein, es kann sich aber auch einfach nur um generell Streitereien um Wild und Gebiet handeln. Wie dem aber auch sei, auf den Adlerseherclan und den Sechsfuhrten trifft das allerdings nicht zu. Wir treffen heute ihre jeweiligen Häuptlinge und noch zwei weitere Mitglieder, namentlich wichtig ist davon nur Drisene die scheinbar ein wenig interessiert an den Ausgang der Geschichte hier gelegen ist. Auch anwesend ist Häuptling Cannear, anscheinend sogar ein Oberhäuptling, also jemand der zwischen Clans vermittelt. Sowas ist immer irgendwie interessant. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1397
+
+* Titel: `Let's Play ESO #1397 - Schwüre & Eide [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 45 des Markarth DLCs - Sitzung 6
+  
+  Sein Wort zu halten ist eine ehrenvolle Sache, ich bin mir eigentlich sicher in der Jugend eines jeden Einwohners des Reik ein Vater zu seinem Sohn, eine Mutter zu ihrer Tochter und Eltern zu ihren Kindern immer wieder betonen werden wie wichtig ist es ehrenvoll zu handeln. Sein Wort zu halten, Eide zu schwören und diese auch zu halten. Eide nicht leichtfertig zu geben. Eine solche Kultur hat gewisse Schwächen, Stärken in bestimmten Situationen, große Nachteile in Anderen. Die Schwachstellen des Systems fallen meist erst dann auf wenn es externen Einfluss gibt oder etwas Unerwartetes passiert. Eine nicht erwartete Ereigniskette einfach so zieht. Heute sehen wir beispielsweise den Fall einer anscheinend arrangierten Hochzeit die den Frieden zwischen zwei Klanen bringen soll. Stellt sich doch glatt heraus das man anscheinend in der Erziehung den Teil mit der Ehre nicht so ernst genommen hat, oder aber das Ding mit der Häuptlingstochter zu großzügig ausgelegt wurde. So oder so, die zu Verheiratenen wollen nicht, und da kommt dann ein Oberhäuptling nicht mehr weiter weil die alten Prinzipien nicht mehr greifen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

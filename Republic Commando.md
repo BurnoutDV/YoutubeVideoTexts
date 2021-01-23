@@ -64,6 +64,19 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #17
+
+* Titel: `Republic Commando  - #17 - die Brücke von Kachirho [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Brücken haben in klassischen Zeiten einen hohen Wert. Ich habe ja schon angemerkt das ich den taktischen Wert der Mission noch nicht so richtig sehe. Diesen Tarful zu befreien erschien halt irgendwie noch sinnvoll, da gab es nicht viel zu diskutieren. Der Wookie lebt halt an einer Stelle und ist in Gefangenschaft, den müssen wir irgendwie freikämpfen damit er Dinge tun kann. Es ist offensichtlich warum man dafür ein Kommandotrupp braucht und warum das an einer bestimmten Stelle passiert. Jetzt aber sollen wir eine Brücke sprengen. Das ist nicht mehr ganz so offensichtlich. Klar, wenn es 1935 wäre würde ich durchaus sehen warum so eine gesprengte Brücke ein echtes Problem darstellt. Wir haben allerdings Raumschiffe, jeder zweite Roboter kann sowieso irgendwie schweben und generell gibt es nicht besonders viele Gründe auf den Boden lang zu laufen, klar, die Wookies haben wirklich eine Menge Bäume auf ihren Planeten und von der Landezone aus muss man ja irgendwie absetzen, allerdings gibt es ja wahrscheinlich ungefähr 100 Landezonen nur in diesem Bereich des Planeten. Ich frage mich also erneut: warum?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -2163,6 +2163,20 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
 
+##### #1398
+
+* Titel: `Let's Play ESO #1398 - Vateshran Barth [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 46 des Markarth DLCs - Sitzung 6
+  
+  Schon in der Vergangenheit haben wir uns mit den Geschichtenerzählern des Reik getroffen. Bis eben dachte ich aber noch das das Amt des Vateshran eher so eine Frauengeschichte ist, so wie man als Mann nur Schamane aber offensichtlich nicht Hexe werden kann. Es sieht aber so aus das die Profession des Bardens a.) hoch angesehen ist und b.) beiden Geschlechtern offen steht. Ich kann mir aber vorstellen das es irgendwo einen enttäuschten Vater gibt das sein Sohn nicht ein großer Krieger oder Jäger geworden ist. Vielleicht täusche ich mich aber auch und schätze die Seele des Reiks vollkommen falsch ein und in Wirklichkeit ist es die größte Ehre für die Position des Erzählers erwählt zu werden. Wie dem aber auch sei, der gute Vateshran den wir heute aufsuchen heißt Barth, er weiß etwas über den Zwist der Adlerseher und Sechsfuhrten und kann uns wahrscheinlich irgendwie weiterhelfen. Wir müssen ihn nur noch finden. Irgendwie.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

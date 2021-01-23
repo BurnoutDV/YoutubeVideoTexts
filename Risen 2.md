@@ -496,6 +496,19 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #39
+
+* Titel: `Risen 2 - #39 - der Hexenkessel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind erfolgreich auf Tortuga errr, ich meine Antigua gelandet. Es handelt sich um ein Geheimnis, zumindest soweit ich das verstanden habe. Nicht viele Leute wissen wo das Piratennest ist und insbesondere die Inquisition hat keine Ahnung wo die legendäre Siedlung der Piraten ist. Die meisten Leute die hier leben sind aber eigentlich gar keine Piraten mehr weil sie sich um die anderen Dinge kümmern die halt am Festland wichtig sind. Es gibt auch einen Admiral der die einzelnen Kapitäne irgendwie verwaltet, sein Name ist Alvarez und ich bin mir ziemlich sicher das wir ihn noch ein wenig mehr kennen lernen werden. Für den Moment betreten wir aber erst einmal die örtliche Kneipe, den sogenannten Hexenkessel. Wir marschieren dort Mittags ein, die üblichen Gestalten kattern also noch aus oder sind noch gar nicht wieder aufgestanden. Es ist ruhig, allerdings ist das in letzter Zeit wohl generell der Fall. Insgesamt gab es aber eh nur vier Kapitäne, man kann also nicht wirklich sagen das es hier jemals besonders hoch her ging. Kann ich mir zumindest nicht vorstellen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

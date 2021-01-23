@@ -893,6 +893,18 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #70
+
+* Titel: `Cyberpunk 2077 - #70 - Folge dem Fluss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da einen Typen namens River Ward, wir sehen bereits am Episodentitel das irgendwas mit Fluss und River zusammenhängt. Anscheinend haben wir mit dem guten River einige Dinge erlebt, eigentlich gar nicht soviel, wir haben seinen Neffen gerettet und zwischenzeitlich nachgewiesen das der letzte Bürgermeister in einen zweifelhaften Club umgebracht wurde. Keine große Sache also eigentlich. Trotzdem glaubt der gute Mr. Ward jetzt auf einmal das er irgendwie so eine Art Vertrauensbasis aufgebaut hat. Generell ist das übrigens alles ein wenig komisch. Durch den Filter des Spiels ist es ja relativ einfach alles ein wenig mit Abstand zu beurteilen. Zum Beispiel das da plötzlich jemand Gefallen an uns gefunden hat. So richtig kommt halt einfach nicht die Frage auf ob überhaupt oder halt auch eben nicht. Wir wissen wie die Dinge stehen. Mehr oder weniger, viel zu raten gibt es da nicht. Leider finde ich das Auge von  River ein wenig abturnend, außerdem ist es aktuell ja nicht grade so als könnten wir uns eine längere Beziehung leisten.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

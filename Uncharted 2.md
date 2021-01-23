@@ -67,6 +67,19 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #6
+
+* Titel: `Uncharted 2 - #6 - Nepal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Plötzlicher Ortswechsel. Liegt aber auch wahrscheinlich daran das der Dschungel von Borneo einfach nicht besonders spannend ist. Auf Dauer gibt es da einfach nichts zu sehen, nur grün, irgendwelche missgelaunten Söldner und alles was man noch irgendwie ausgraben könnte ist mit ziemlicher Sicherheit schon begraben. Und damit meine ich nicht flach sondern unter mehren Metern Wurzeln und Humus. Hier noch irgendwas zu finden erscheint mir eher unwahrscheinlich. In Nepal sollte es etwas ordentlicher zugehen auch wenn hier tausende von Tempeln errichtet wurden die uns die korrekte Suche auch ein wenig schwierig machen. Welch Glück das unser Gegenspieler zwischenzeitlich einen kleine Bürgerkrieg ausgelöst hat. Die Straßen sind ausgebrannt, die Zivilisten von dannen gezogen und es bleibt nicht mehr viel übrig außer eine verbrannte Stadt die die Bühne unserer weiteren Taten darstellt. Nun werden wir sehen ob wir hier vielleicht mehr Glück haben und wann und wie uns Chloe dann endlich einmal verraten wird, ich warte immer noch darauf.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

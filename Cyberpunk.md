@@ -905,6 +905,18 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #71
+
+* Titel: `Cyberpunk 2077 - #71 - Wüstentiefsinn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute gehen wir wieder in die Wüste. Rein organisatorisch sind solche Episoden übrigens für mich sehr schwer. Dunklere Folgen die irgendwo in Night City aber halt in der Nacht spielen sind für mich wesentlich leichter zu handeln als solche die am hell-lichten Tag spielen. Videokompression. Wie dem aber auch sei, das Leben außerhalb der Stadt ist auch für V. nicht ganz einfach. Das liegt einfach daran das es hier draußen nicht halb so viele Fixer und Ripperdocs gibt denen man sein gutes Geld anvertrauen kann. Generell sind die Möglichkeiten hier wesentlich dünner gesät als es in der Stadt der Fall ist. Kein Wunder also das die Leute in der Stadt wohnen, draußen in der Wüste gibt es nur den Tot, und die Nomaden, und die Raffen. Aber ansonsten nichts. Und vielleicht noch ein paar Konzerne. Und ein neues Auto für uns in den Tunneln irgendwo versteckt. Die Erkunde ich heute ebenfalls, aber eigentlich spreche ich mehr mit den einzelnen Mitgliedern der Aldecaldos.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

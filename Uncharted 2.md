@@ -80,6 +80,19 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #7
+
+* Titel: `Uncharted 2 - #7 - Wunschkonzerte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Leben läuft es ja nicht immer so wie man sich das vorstellt. Je nach dem wie pessimistisch man Dinge angeht klappen die Dinge schon mal exakt so wie man das vorplant. Aber wenn man davon ausgeht das alles irgendwie zusammenläuft und man dann hofft das es auch so geschieht sind die Chancen eher inexistent. Wie dem aber auch sei, heute erleben wir direkt zwei Instanzen von "ich wünschte es wäre so", das Spiel gibt den Namen quasi schon vor, ich kann mich also eher nicht der kreativen Blüte rühmen, dennoch passt der Titel schon ziemlich gut auf das was heute geschieht, bzw. halt eben nicht. Ich möchte aber die Gelegenheit nutzen und anmerken das mich die Steuerung des Spieles immer noch ziemlich fertig macht und die Menge an Leuten die unser Gegenspieler aufbringen kann absolut lächerlich ist. Es kann mir doch keiner erklären das irgendein Krimineller egal wie groß so viele Söldner finanzieren kann. Es handelt sich ja offensichtlich nicht um Profis sondern um ziemliche Wegwerfware. Die Qualität gibt es ja wahrscheinlich eher nicht organisiert, aber vielleicht unterschätze ich auch einfach das internationale Söldnergeschäft. Wer weiß das schon?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.xxxxxxxxxx Im Leben läuft es ja nicht immer so wie man sich das vorstellt. Je nach dem wie pessimistisch man Dinge angeht klappen die Dinge schon mal exakt so wie man das vorplant. Aber wenn man davon ausgeht das alles irgendwie zusammenläuft und man dann hofft das es auch so geschieht sind die Chancen eher inexistent. Wie dem aber auch sei, heute erleben wir direkt zwei Instanzen von "ich wünschte es wäre so", das Spiel gibt den Namen quasi schon vor, ich kann mich also eher nicht der kreativen Blüte rühmen, dennoch passt der Titel schon ziemlich gut auf das was heute geschieht, bzw. halt eben nicht. Ich möchte aber die Gelegenheit nutzen und anmerken das mich die Steuerung des Spieles immer noch ziemlich fertig macht und die Menge an Leuten die unser Gegenspieler aufbringen kann absolut lächerlich ist. Es kann mir doch keiner erklären das irgendein Krimineller egal wie groß so viele Söldner finanzieren kann. Es handelt sich ja offensichtlich nicht um Profis sondern um ziemliche Wegwerfware. Die Qualität gibt es ja wahrscheinlich eher nicht organisiert, aber vielleicht unterschätze ich auch einfach das internationale Söldnergeschäft. Wer weiß das schon?Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. Uncharted 2 - Among Thieves auf dem Montags Slot.Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

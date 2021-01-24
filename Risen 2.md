@@ -509,6 +509,19 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #40
+
+* Titel: `Risen 2 - #40 - Donovan der Knarrenschmied [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt kein Frankreich in Risen. Zumindest bin ich mir da recht sicher. Es könnte aber durchaus sein das das Festland und das Königreich das irgendwie da irgendwo sein soll vielleicht doch eine Grafschaft oder irgendwas in der Art hat was als Frankreich durchgeht. Die Region kann so oder so nicht besonders groß sein da der einzige Typ den wir heute kennen lernen den Dialekt von dort spricht, einen Dialekt den aber sonst niemand kennt und über den sich alle lustig machen. Ich vermute also einfach mal das es nicht sehr viele Leute von dort gibt. Jetzt sowieso nicht weil der gute Mann bestimmt auf zerstörte Landschaften blicken würde würde er jemals nach Hause kommen. Das kann er aber eh nicht weil er ein Pirat ist. Als Pirat hat man es nicht besonders leicht wenn man nicht regelmäßig irgendwo anheuert, und das geht aktuell ja nicht. Aber auch als Zulieferer für Piraten hat man es momentan nicht leicht, und so wie es aussieht ist Donovan ein eben solcher Zulieferer. Immerhin lädt er uns zu einem freundlichen Schießwettbewerb ein, Schießpulver scheint es noch genügend zu geben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

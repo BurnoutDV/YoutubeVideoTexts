@@ -2177,6 +2177,20 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
 
+##### #1399
+
+* Titel: `Let's Play ESO #1399 - Windungen der Liebenden [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 47 des Markarth DLCs - Sitzung 6
+  
+  Ich spreche es in der heutigen Episode einmal kurz an und es ist an sich auch kein Thema das ich noch nie erwähnt habe: Die Spielfelder der meisten Spiele die man so spielt sind irgendwie geschrumpft. Insbesondere wenn es Open World ist. Die Alternative ist das man von "Karte" zu "Karte" reist und nur zwischenzeitlich irgendeine Art von Begegnung haben kann. Dazu muss man aber sagen das ich über die Jahre diese Variante fast immersiver finde weil es eine vernünftige Distanz zwischen Orten definiert. Wir Suchen und selbstverständlich Finden heute die Windungen der Liebenden. Ein uraltes, nicht-magisches Reikartefakt das vor vielen hundert wenn nicht sogar tausend Jahren irgendwann einmal auf dem Schlachtfeld verloren wurde. Interessant hier ist das eines der Schlachtfelder absolut lächerlich klein ist, wir reden hier von "dreckiger Hinterhof" klein. Natürlich müsste das Feld gewaltig sein, schließlich war es ein Schlachtfeld. Aber damit es in die restliche Landschaft rein passt ist es halt skaliert. Dennoch fällt bei besonders solchen Geschichten die Unzulänglichkeit von skalierten Welten besonders auf. Ich habe leider keine echte Lösung für realistisch große Orte.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

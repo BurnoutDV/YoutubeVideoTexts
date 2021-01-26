@@ -2191,6 +2191,34 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
 
+##### #1400
+
+* Titel: `Let's Play ESO #1400 - Dornenfels [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 48 des Markarth DLCs - Sitzung 6
+  
+  Immer wieder merken wir wie sich die Landschaft des Reik und eigentlich die von ganz Tamriel bereits seit sehr langer langer Zeit in einer Art Stase befindet. Klar, hier und dort entstehen neue Orte aber immer wieder sehen wir auch andere Plätze die quasi nie verändert wurden, zumindest scheint es so. Zum Beispiel Dornenfels. Es handelt sich um ein Grab der alten Nord das jetzt, tausende Jahre später, immer noch in genau der Form existiert. Die Steine sind etwas  verwitterter und die Höhlen in denen die Draugr hausen sind zur Zeit nicht ganz so zugänglich aber im großen und Ganzen ist das ein alter Ort der von den Bewohnern des Jetzt genutzt wird. Das ist seltsam, niemand scheint mehr Wille zu haben neu zu erschaffen. Neu zu bauen und für sich selbst ein Denkmal zu erschaffen. Ein Schild das sagt, wir waren hier. In Dornenfels selbst hausen aktuell die Rabenvetteln und ihr Baum, aber das wird sich bald ändern, was bleibt ist der Ort. Ein Ort der sich quasi kaum verändert.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1401
+
+* Titel: `Let's Play ESO #1401 - der Dornenherzbaum [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 49 des Markarth DLCs - Sitzung 6
+  
+  Eigentlich spielt der namensgebende Baum heute kaum eine Rolle. Wir setzen das Ding innerhalb der ersten 5 Minuten in Brand und dann war es das eigentlich auch gewesen. Allerdings spreche ich zwischenzeitlich noch mit diversen  Leuten die knapp der Opferung durch die Klauen der Rabenvetteln entkommen sind und wir erfahren einige Dinge über die Dornenherzkrieger als Solche. Interessant ist übrigens auch das nie irgendjemand erwähnt wie lange eigentlich so ein Dornenherz lebt. Leiden sie konstante Schmerzen? Werden sie in Vorbereitung für eine Schlacht "hergestellt" und erwarten dann in eben dieser zu sterben oder kurz danach? Sind es normale Krieger die einfach ein normales Leben leben bis es Zeit für die Schlacht ist und ihr magisches Herz ihnen besondere Kraft gibt. Auch habe ich ehrlich gesagt nicht ganz mitbekommen welchen Daedra genau man eigentlich die Treue für das Herz der Dornen schwören muss.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

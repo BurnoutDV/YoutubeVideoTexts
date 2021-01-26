@@ -917,6 +917,30 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #72
+
+* Titel: `Cyberpunk 2077 - #72 - Lagerfeuer-Romantik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Problem unserer modernen Welt ist das es an vielen Orten nur noch um den Job geht, oder aber das sich Freizeit und Arbeit zwei exklusive Teile des Lebens teilen. Das führt zu interessanten Dingen. Zum Einen ist es irgendwie schlecht wenn man solange Arbeitet das man quasi keine Freizeit mehr hat, auf der anderen Seite ist es auch ein wenig komisch das das was man zum Leben tut komplett anders ist als das was man eigentlich tun möchte. In anderen Kulturen gibt es da eine leicht andere Trennung von Leben und arbeiten. Technisch gesehen arbeitet V. nur, wir erschießen Leute, dann schleichen wir uns irgendwo durch nur um dann wieder Leute zu erschießen. So oder so sind wir eigentlich immer irgendwie auf Achse im Name der Eurodollar. Die Nomaden haben hier einen Gegenentwurf, da wird schon mal während des Jobs ein Lagerfeuer errichtet und gesungen. Allerdings bleibt da auch nicht viel Zeit für die private Entfaltung an anderen Stellen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #73
+
+* Titel: `Cyberpunk 2077 - #73 - der letzte Flug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind bei den Nomaden der Aldecaldos schon ziemlich weit aufgestiegen, haben ja auch ziemlich viel für die umherziehenden Völker getan, oder zumindest für das Eine. Das bedeutet aber auch das man uns ins Vertrauen zieht, man gedenkt mir Dinge an die man normalen Außenseitern niemals sagen würde. Das ist auf der einen Seite ganz schön auf der Anderen aber auch irgendwie traurig, weil das was wir heute tun ist eine große Ehre für jemanden der eigentlich gar nicht so richtig zur Familie gehört. Wie dem aber auch sei, heute geht es darum einen letzten Flug zu absolvieren. Außerdem fahren wir ein wenig durch die Wüste, einfach um die negativen Emotionen wieder los zu werden. Generell und überhaupt ist heute ein sehr erfolgreicher Wüstentag, wird also Zeit wieder in die Stadt zu kommen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

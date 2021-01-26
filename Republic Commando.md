@@ -206,6 +206,42 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #19
+
+* Titel: `Republic Commando  - #19 - Very important Wookie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine wichtige Person zu eskortieren und an einen designierten Ort zu bringen gehört definitiv auch zu den Aufgaben eines Kommandosoldaten. An sich wäre es wahrscheinlich aber wesentlich leichter wenn unser VIP nicht ein riesengroßer Wookie wäre. So ein Babyyoda, das wäre doch was oder? Leicht zu transportieren, zu verstecken und niemand wüsste überhaupt das wir ihn dabei haben. Wie dem aber auch sei, unsere Mission ist was unsere Mission ist, da beißt die Maus keinen Faden ab. Wir kümmern uns also darum einen gewaltigen, haarigen Wookie von A nach B zu bringen ohne das er dabei ins Gras oder den Boden ganz allgemein beißt. Wie genau ich das gedenke zu machen? Ich habe absolut keine Ahnung. Aber als Kommandotrupp fällt uns bestimmt noch etwas ein, und wenn nicht mir dann bestimmt einen meiner tapferen Männer die mit mir sind. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #20
+
+* Titel: `Republic Commando  - #20 - Suchen & Zerstören [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein wir spielen jetzt kein offlabel Counterstrike auch wenn der Name der heutigen Episode vielleicht genau das implizieren würde. Oder das wir das übliche Verhalten für Kommandos an den Tag legen die nicht direkt einen Auftrag haben irgendwas Bestimmtes zu tun. Wir legen also los, steigen einfach ein und verbrauchen Kübelweise Bakta um uns irgendwie einen Weg durch die die Horden der Roboter, Trandosöldner und Türen zu schleifen die sich uns in den Weg stellen. Aber für einen echten Kommando der Republik gibt es ja eigentlich keinerlei Schwierigkeiten. Wir werden uns schon irgendwie durch kämpfen, das Team ist mit mir und ich bin mit dem Team, an sich kann da einfach gar nichts passieren. Die Kameradschaft wird obsiegen!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

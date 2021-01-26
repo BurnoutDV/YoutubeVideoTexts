@@ -522,6 +522,32 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #41
+
+* Titel: `Risen 2 - #41 - Hafenschnack [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute passieren wieder einmal viele Dinge, viele verschiedene Dinge die ich jetzt nicht alle aufzählen werde. Man kann sie aber wunderbar zusammenfassen: Hafenschnack. Wir reden halt mit Leuten und das am Hafen. Ich glaube die Nordlichter sprechen in diesem Zusammenhang von "Schnacken". Erfahren tun wir auch so Einiges, nichts wirklich Neues, unfassbar komplex ist die Stadt ja nun auch nicht. Wir reden mit diversen Leuten, die erzählen uns diverse Dinge und dann wissen wir diverse Dinge. Wir drehen uns hier im Kreis nicht wahr? Das kommt davon das so Hafenschnack auch größtenteils leeres Gerede ist. Ist das nicht erhebend?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #42
+
+* Titel: `Risen 2 - #42 - Admiral Alvarez [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und hier kommen wir dann quasi zum Schluss der Erkundung von Antigua, wir sprechen mit Admiral Alvarez, anders als der Name vielleicht impliziert kommandiert der Mann keine Flotte von Kapitänen sondern ist mehr so etwas wie ein Ohr an das man sich wenden kann sollte es mal Probleme geben. Der Mann scheint, soweit ich das sehen kann keine echte Macht zu besitzen die über die Wache an der Tür und ein paar Händler hinaus geht. Für ein Schiff ohne Vorräte und in Not ist das natürlich ausreichend, alle anderen Leute könnten sich aber leicht über ihn hinweg setzen, insbesondere jetzt wo die alten Kapitäne die seine Position unterstüzt hätten nicht mehr da sind. Der einzige Grund warum der Mann noch an der Macht ist ist wohl weil es noch niemand versucht hat. Antigua hat nicht besonders viel zu bieten, daher überrascht es wenig das es noch keinen ambitionierten Aufsteiger gab der versucht hat dem alten Mann das Brot weg zu nehmen. Das und vielleicht weil er auch eine gewisse Stabilität verspricht. Stabilität findet man selten diese Tage.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

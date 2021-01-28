@@ -548,6 +548,32 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #43
+
+* Titel: `Risen 2 - #43 - Piratentriathlon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend erfreuen sich auch Piraten an sportlicher Ertüchtigung, namentlich nehmen wir heute am Piratentriathlon teil der aus drei Wettbewerben besteht. Einer davon ist übrigens ein Schießwettberwerb, glücklicherweise gewinnt derjenige der die meisten Punkte erhält und die einzelnen Wettbewerbe sind gleichwertig. Es ist eigentlich also ziemlich klar wie das hier endet, schließlich sind wir Kapitän und der Typ mit dem wir uns ein Gefecht liefern ist nur ein Steuermann. Was soll der Mensch also realistisch gegen unsere Fähigkeiten tun. Dennoch feiere ich selbstverständlich den Erfolg auch wenn der Ausgang von Anfang fest stand. Kein Sieg ist zu gering als das man sich nicht ein wenig erlauben kann darüber glücklich zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #44
+
+* Titel: `Risen 2 - #44 - Diebstahl in Antigua [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der namenlose Held ist ein professioneller Dieb, eigentlich ist er auch ein berufstätiger Räuber und Bandit aber meistens kommt es dazu nicht, einfach weil es kein Rauben ist wenn die beraubten tot sind. Raub definiere ich übrigens als Diebstahl mit Waffengewalt wohingegen normaler Diebstahl auf Waffen vollständig verzichtet und die Tat ungesehen vollzieht. Außerdem ist mir nicht ganz klar inwiefern man Leute ausraubt die mich zu erst angreifen. Unabhängig davon sehe ich heute aber eher zu niemanden zu verletzen, vielleicht brauchen wir noch irgendjemanden, da wären Todesfälle außerordentlich ärgerlich. Stattdessen haben wir ja im Vorfeld mit allen möglichen Leuten geredet um herauszufinden wo es eventuell etwas zu holen gibt und was man noch alles tun kann um wirklich das letzte bisschen Geld aus der Geschichte hier rauszuholen. Und damit mache ich mich dann auf, nicht auf Kaperfahrt aber auf großen Diebstahl.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

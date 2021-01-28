@@ -106,6 +106,32 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #9
+
+* Titel: `Uncharted 2 - #9 - Vorjahresmodell [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein wenig erstaunt. Heute begegnen wir in der Stadt in der eigentlich kein Zivilist mehr lebt einen weiteren Zivilisten. Es handelt sich um eine Person die wir eigentlich gar nicht so gut kennen. Eine Person mit einer menge Kampfgeist. Dennoch habe ich das Gefühl das sie sich hier vielleicht zu viel aufgenommen hat. Es handelt sich um das Vorjahresmodell, wie es bei solchen Sachen übrigens ist tut sich das Verhältnis zwischen Chloe und dem Vorjahresmodell eher schwer im Anfang. Das könnte eventuell daran liegen das Chloe wirklich etwas an uns liegt oder aber das es noch andere Faktoren gibt die irgendwie auf sie eindringen. Wie dem aber auch sei, anscheinend entscheidet unser guter Nathan das er beide Frauen (und einen Kameramann namens Jeff der bestimmt bald einen grausamen Tot finden wird) mitnehmen will damit er weniger Probleme haben wird. Irgendwie. Oder weil er ein echter Kavalier ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #10
+
+* Titel: `Uncharted 2 - #10 - die richtige Gestik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dafür das Nathan Drake nach äußerden Anschein eigentlich nur ein grober Schläger ist der irgendwie zu Geld kommen will und dabei immer den Spuren des großen Reichtums hinterher jagt kommt er relativ in den Genuss von irgendwelchen Rätseln in deren Verlauf er durchaus Zeigen muss das er auch in der Lage ist gradeaus oder sogar in Kurven zu denken. Die meisten Dinge die wir bisher getan haben waren nicht so unendlich schwer ich staune aber auch immer noch über die Kulturen die sich die Mühe gemacht haben solche Rätsel zu entwerfen. Irgendwo muss es auch eine geheime Priestersekte geben die sich um die Instandhaltung solcher Anlagen kümmert. Es könnte natürlich sein das die entsprechende Sekte in den letzten Jahrzehnten ausgestorben ist, anders kann ich mir zumindest den desolaten Zustand der Anlage nicht erklären. Die ganze Einrichtung ist ja nicht vollständig zerstört und dafür das draußen Bürgerkrieg ist scheint noch überraschend viel vom Tempel intakt zu sein, quasi alles. Mein Tipp ist also das bis vor wenigen Jahrzehnten noch regelmäßig Reparaturen vorgenommen wurden, was wohl passiert wenn der würdige Pilger grade zwischen den Wartungszyklen vorbeischneit? Abweisen kann man den ja wohl kaum oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

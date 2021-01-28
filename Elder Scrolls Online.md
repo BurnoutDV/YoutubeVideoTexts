@@ -2219,6 +2219,34 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
 
+##### #1402
+
+* Titel: `Let's Play ESO #1402 - Kraft der Leere [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 50 des Markarth DLCs - Sitzung 6
+  
+  Es scheint das wir die Mächte mit denen wir es zu tun haben ein wenig unterschätzt haben, oder zumindest falsch eingeschätzt hatten. Das Ganze ist irgendwie interessant weil wir bisher eine relativ einfache Gruppe von Dingen hatten die wir mittlerweile ziemlich  gut einschätzen können. Es gibt natürlich die Daedra die irgendwie das Reich des Vergessenes oder welche Ebene auch immer in das Reich der Sterblichen ziehen wollen. Dann gibt es da die Drachen die irgendwie immer das Ende der Welt aber auch den Beginn einer neuen Welt einleiten wollen. Oben drauf kommen dann noch diverse Menschen die eventuell die Macht irgendeiner der genannten Parteien einsetzen wollen. Die Leerenenergie die wir jetzt bemerken scheint aber tatsächlich etwas Neues zu sein. Ehrenhafte Erwähnung finden übrigens noch die See-Kreken die auch irgendwie Dinge tun aber bis her nicht durch ihre absolute Macht aufgefallen sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1403
+
+* Titel: `Let's Play ESO #1403 - Symbol von Uricabeg [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 51 des Markarth DLCs - Sitzung 7
+  
+  Ich bin ziemlich häufig doch erstaunt wie wir über irgendwelche Nebenmissionen fallen die eigentlich nicht so wirklich nach irgendwas aussehen. An der Stelle möchte ich aber auch noch anmerken das die ganze Reihe rund um den Schrein von Hircine meiner Meinung nach ziemlich verwerflich ist. Davon abgesehen das die Verwandlung in einen Werwolf echte Nachteile hat so ist das Anbeten von Hircine dem "Gott" der Jagt im Großen und Ganzen nie eine gute Idee. Die vier toten Lehrlinge können das bestimmt bezeugen, immerhin der letzte Lehrling hat überlebt. Ob das völlig normal ist? Prinzipiell entscheidet quasi Hircine darüber wer von den angehenden Schamanen fähig genug ist im Dienste des Daedra zu stehen, allerdings scheint mir der 80% Ausschuss Ansatz ein wenig wenig robust gegen andere Einflüsse. Für die allgemeine Bevölkerung ist das aber wahrscheinlich gut, wenn das so weiter  geht gibt es wohl bald keinen Kult von Hircine mehr. Die Tatsache das es das doch noch nach tausenden Jahren tut lässt mich vermuten das der Deadra in irgendeiner Form interveniert wenn die Herde zu sehr ausgedünnt wird. Dieses "Überleben des Stärkeren" Ding scheint mir keine absolute Größe zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

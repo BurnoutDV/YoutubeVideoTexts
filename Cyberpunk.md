@@ -941,6 +941,42 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #74
+
+* Titel: `Cyberpunk 2077 - #74 - Epistrophy [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es geht um den Abschluss der Delamain Quest, der wird übrigens noch einmal ziemlich interessant. Irgendwie, auf seiner gewissen Weise. Auch wenn ich es bis jetzt vermieden habe, eine Epistophe bzw. im Deutschen Epiphora ist die Wiederholung eines bzw. mehrer Worte am Ende eines Satzes. Wie zum Beispiel: V. geht es eher nicht gut. Night City geht es eher nicht gut. Und auch den Bewohnern der steht geht es eher nicht gut. Besonders nicht wenn die Quicksave ladende Halbgöttin es solange versucht bis sie jemanden erfolgreich aus der Hüfte in den Kopf schießen kann ohne vorher selbst zu sterben. Das macht Vieles leichter für mich. Wie dem aber auch sei, wir bändigen heute einige Fahrzeuge, zeigen ihnen das es auch einen anderen Weg als sich vom Netzwerk loszusagen und fahren ein wenig durch die Gegend. Alles in Allem eigentlich keine große Sache. Aber auch irgendwie witzig.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #75
+
+* Titel: `Cyberpunk 2077 - #75 - Kabuki Reste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es tut mir fast schon ein wenig Leid, aber die heutige Episode scheint mir ein wenig Restverwertung zu sein, ich bin notorisch pleite und möchte etwas gegen den Umstand tun. Daher hilft es mir enorm kleinere Aufträge zu erledigen. Das ist aber nicht ganz einfach weil die natürlich auch nicht immer so leicht zu erledigen sind. Aber es gibt da ja zum Glück noch einen Stadtteil namens Kabuki in dem wir ohne große Probleme noch ein paar kleinere Gangster hochnehmen könne und uns dabei nicht einmal anstrengen müssen. Das tun wir heute, unter Anderem aber auch weil ich die kleinen Geschichten die die Nebenaufträge erzählen für mich interessant sind. Das mag der Ein oder Andere vielleicht anders sehen und die Natur der  eigentlichen Aufträge ist schon ein wenig generisch, aber ich lebe für Geschichten und Geschichten zu erfahren macht mich glücklich. Und so erleben wir heute Geschichte..und beenden auch welche. Ein Schlusstrich. Ein Punkt in der Biografie der Menschen in meinem Weg.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #76
+
+* Titel: `Cyberpunk 2077 - #76 - Autobahnkönigin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute wird es ein wenig spannender als sonst. Wir verbinden uns nämlich mit einem Panzer, das ist schon deswegen irgendwie spannend weil so ein Panzer jetzt kein normales Auto ist und das Größte mit dem wir uns bisher verbunden haben war ein einzelner Geschützturm. In Shadowrun gibt es direkt eine Klasse die sich nur mit solchen Dingen auseinander setzt. Die sogenannten Rigger, ich erzählte davon. Der entsprechende Mensch (bzw. wahrscheinlich Meta-Mensch) verbindet sich direkt mit den System und fühlt sie so als wären sie sein Körper. Das Ganze geht übrigens auch für Gebäude, soll sich aber ziemlich komisch anfühlen. Mit dem Basilisk, den Panzer den wir unlängst geklaut haben sieht die Sache noch ein wenig anders aus. Anscheinend handelt es sich um ein Vehikel für zwei Leute und beide Personen verbinden ihr Bewusstsein miteinander um das Fahrzeug gemeinsam zu steuern. Das ist auf einer gewissen Art und Weise schon ziemlich intensiv und man fragt sich schon warum Panam grade uns dafür haben will. Interessant wäre auch ob sie jetzt theoretisch Johnny hören bzw. sehen könnte. Der ist ja eigentlich auch in unserem Kopf, da sollte das doch eigentlich möglich sein oder? Wie dem aber auch sei, mit dem Panzer sind wir auf jeden Fall der dickste Fisch in der Wüste solange Militech nicht auftaucht.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

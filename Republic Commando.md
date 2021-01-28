@@ -69,22 +69,28 @@
 
 ##### #6
 
-* Titel: ``
+* Titel: `Republic Commando  - #6 - Kommandobrücke [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Aus irgendwelchen Gründen sind die Brücken in Raumschiffen von Star Wars scheinbar immer mit großen Sichtfenstern (keine Bildschirme) ausgestattet die es erlauben den Weltraum dort draußen zu sehen. Ärgerlicherweise ist Weltraum wirklich ziemlich dolle groß und man würde einfach gar nichts sehen wenn man nicht zufällig grade im Orbit eines Planeten umherschwebt. Die Kommandobrücke, wo auch immer sie auch positioniert sein sollte ist aber auch ein wichtiger strategischer Punkt von dem aus wir einige Dinge tun können die von anderen Orten nicht möglich sind. Das ist übrigens ein wenig komisch, man stelle sich einmal vor das die Kommandobrücke einen Treffer wegsteckt, warum gibt es keinen zweit Kommandozentrale die der Ersten quasi gleich ist. Grade bei besonders großen Schiffen erscheint das wie eine sehr logische Idee. Andererseits weiß ich viel zu wenig über größere Star Wars Schiffe, meistens sind sie ja nur Kulisse.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
 ##### #7
 
-* Titel: ``
+* Titel: `Republic Commando  - #7 - Trando-Sklavenhändler [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Nachdem wir unlängst die Kommandobrücke eines Raumschiffs gesprengt haben geht es jetzt ein wenig in die Zukunft, anscheinend gab es in zwei Jahren nicht wirklich Verwendung für die Kommandos oder es ist einfach nichts Wichtiges passiert was uns das Spiel erzählen möchte. Wie dem aber auch sei, wir befinden uns auf dem Weg zu einem größeren Kreuzer der Klonarmee mit den schönen Namen "the Prosecutor", anscheinend haben wir auch ein wenig Geschichte mit dem Schiff. Das gute Stück meldet sich seit einiger Zeit nicht mehr und das ist bekannterweise die Saat für einen soliden Horrorfilm, ein ganzes großes Raumschiff das sich nicht mehr meldet, das klingt Nach Nekromorphs. Jetzt müssen wir nur noch Isaac Clark und den Marker finden und schon sollte wieder alles im Lot sein. Jetzt dürfen wir nur nicht sterben bis es soweit ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
 ##### #8
@@ -232,22 +238,28 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
-##### #Nummer
+##### #21
 
-* Titel: ``
+* Titel: `Republic Commando  - #21 - Notstromaggregate [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die übliche Trophe das einfach nicht genügend Energie für die gesamte Anlage zur Verfügung steht lasse ich irgendwie in Raumschiffen noch gelten, obwohl die die wir bisher gesehen haben über eine gewaltige Menge aus leeren Gängen verfügt haben die es eigentlich leicht machen sollten die notwendige Anzahl an Generatoren aufzustellen, aber vielleicht hat es auch einfach etwas damit zu tun das dies besonders auf kleine Schiffe zutrifft. Wie dem aber auch sei, anscheinend habe auch stationäre Anlagen einen erheblichen Energiemangel bzw. vertrauen auf externe Kraftwerke, das ist nicht sonderlich verwunderlich wenn man Zivilisationen im Allgemeinen bedenkt. Heute müssen wir irgendwelche Notstromaggregate aktivieren die sich anscheinend nicht im Keller sondern irgendwo mitten drin aktivieren. Das ist auch insofern interessant das wir die Aggregate überhaupt manuell aktivieren müssen. Und das es ebene jene Kraftwerke sind die für den Betrieb der Verteidigungstechnik gebraucht wird. Man würde doch irgendwie erwarten das derartige Technik über eine autarke Energieversorgung verfügt. Hier habe ich mich dann aber wohl getäuscht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
-##### #Nummer
+##### #22
 
-* Titel: ``
+* Titel: `Republic Commando  - #22 - der letzte Schlag [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und hier sind wir, am Ende unserer Bemühungen den separatistischen Vordringens Einhalt zu gebieten, so wie es aussieht scheint es sich übrigens auch um eine größere Mission zu handeln deren Ausmaß wir nicht sehen können. Allerdings wissen wir darüber so gut wie nichts, ich frage mich schon wie üblich das ist seine Kommandotruppen unwissend über die Rahmenbedingungen der Mission zu halten. Man sollte doch erwarten das ein Kommandosoldate, selbst wenn er geschnappt und gefoltert wird, eher nichts erzählen wird oder erste nach langer Zeit wenn die Daten bereits nicht mehr aktuell sind. Wie dem auch sei, das entgegenbrachte Misstrauen sticht schon ein wenig, auf der anderen Seite ist es aber so das die Klontruppen immer noch Massenware sind, der vertraut man dann wohl doch nicht soviel. Heute schießen wir dann übrigens noch ein Raumschiff ab und schon sind wir fertig. Toll oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```

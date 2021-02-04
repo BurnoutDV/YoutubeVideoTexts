@@ -1684,6 +1684,9 @@
   
   Lokale Despoten, Regenten, Könige und sogar Kaiser zu treffen steht irgendwie für uns an der Tagesordnung. Klar, wir haben die Welt auch schon mehrfach gerettet und darauf bin ich auch ein wenig stolz. Dennoch wissen die meisten Herrscher dieser Welt nicht von unseren Tätigkeiten auf der anderen Seite Tamriels. Daher kann man ein wenig verstehen das diese nicht allzu sehr daran interessiert sind sich mit uns zu treffen. Umso erstaunlicher ist es eigentlich das wir dann am Ende doch vorgelassen werden. Bei jedem Herrscher, meistens nachdem wir irgendwelche Großtaten vollbracht haben. Aber dieses Mal schaffen wir es eigentlich nur mit einem Versprechen von Informationen. Tatsächlich haben wir die Informationen wirklich aber das kann ja eigentlich niemand nachprüfen. Das Versprechen von Gewalt im Falle von Untererfüllung könnte vielleicht andere Abenteurer abhalten aber da wir praktisch unsterblich sind wäre das auch nur ein kleineres Ärgernis, auf der anderen Seite brauchen wir Kooperation. Die uns Ard Caddach übrigens zu Teil werden lässt. Damit ist er wesentlich kooperativer als damals Svargrim, also entweder kann Zenimax jetzt gute Verräter schreiben oder der Mann meint es ernst mit seinen Absichten. Die Zeit wird es zeigen.
   
+  0:00 - 19:15: Gameplay
+  19:16 - 22:58: Politik des Reik
+  
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
@@ -1753,6 +1756,10 @@
   Folge 16 des Markarth DLCs - Sitzung 2
   
   Wir haben die Welt gerettet. Vor Drachen, Daedra, dann wieder Daedra, irren Totenbeschwörer, anderen Daedra und dann auch noch ganz allgemeine und überhaupt. Nebenbei haben wir mehre Königreiche vor dem Untergang bewahrt. Und was machen wir mit all dem Ruhm? Laufburschenarbeit. Oder Laufmädchen? Wie dem aber auch sei, das Erste was den Hexenrebellen die diesen Namen eigentlich eher nicht tragen wollen einfällt wenn sie die mysteriöse Hochelfe mit der Masken aus dem Haus der Kunst sehen, das ist, Laufarbeit. Schön, wir nehmen also irgendwelche Vorratslager der grauen Schar hoch in denen wir total überraschend weitere Vorräte finden die man zur Durchführung eines Gramsturmes braucht. Anscheinend sind die Eiskaphexen immer noch im Geschäft, erstaunlicherweise haben wir aber bisher keine gesehen. Nur Vampire, vielleicht ist die Personaldecke der grauen Schare mittlerweile groß genug das man die wertvollen Hexen besser beschützen kann.
+  
+  0:00 - 7:24: Gameplay
+  7:25 - 11:39: Die Graue Schar: Geschichtlicher Überblick, Teil 1
+  11:40 - 18:26 Gameplay
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
@@ -1992,6 +1999,12 @@
   
   Wir wissen ja bereits das die Geister eigentlich die Daedra sind. Mir wirft das jetzt ein paar Fragen auf, die Daedra dürfen dank des Drachenpakts eigentlich nicht in die Welt direkt eingreifen und brauchen stattdessen Agenten die sie irgendwie beeinflussen können. So oder so ähnlich, ehrlich gesagt müsste ich mich darin eigentlich einmal erneut belesen. Oder irgendwer verrät es mir, die paar Jahre kann ich dann auch warten. Wie dem aber auch sei, um die Geister anzurufen die dann irgendwie helfen sollen brauchen wir bestimmte Ritualkomponenten die mit dem Ort verbunden sind. Das ist übrigens eine gewisse Erklärung wie das alles funktioniert, es wird eine Verbindung zum Ort hergestellt die den Daedra dann ermöglicht einzugreifen. Das führt uns dann aber zu der nächsten Frage: wie genau bringe ich aggressive Daedra dazu meinen lokalen Ort zu beschützen? Letztendlich ist es aber wohl auch egal, anscheinend funktioniert das schon seit vielen Jahren, die Spätfolgen scheinen also überschaubar zu sein.
   
+  0:00 - 3:12: Gameplay
+  3:13 - 4:00: Tagebuch eines Nordkinds
+  4:01 - 9:20: Gameplay
+  9:21 - 10:36: Die großen Geister des Reik, Band 4
+  10:37 - 20:52: Gameplay
+  
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
@@ -2006,7 +2019,7 @@
   
   Die Reikmannen betreiben, soweit ich das beurteilen kann, in der Breite keinen Bergbau. Klar, sie besitzen Metallwaffen und auch generell Einiges an Werkzeug das scheinbar aus Metall besteht, aber sie selber benutzen nur das was sie finden. Letztendlich ist ihr Lebenstil also gewissermaßen parasitisch. Nur wenn es um die Natur geht sind sie halt zurückhaltend. Ob sich irgendeine der Hexen einmal darum Gedanken gemacht hat das ihr Verhalten inkonsequent ist und die Weigerung nicht die Schätze des Landes zu ernten nicht logisch ist? Wahrscheinlich schon und es gab bestimmt eine gute Erklärung das man durchaus von anderen Leuten nehmen kann aber selber das Land unberührt lässt und die Pfoten in Unschuld wiegt. Wie dem auch sei, die Minen sind von den Nord die hier vor einiger Zeit einmal gelebt haben und bieten damit einen Angriffspunkt für einen Gegner der von unten kommt. So richtig geklärt wurde aber trotzdem noch nicht wie die Vampire die unterirdischen Gänge überhaupt initial eingerichtet haben. Die Bergleute werden ja wohl kaum bis in die Schwarzweite gegraben haben nur um jetzt zu merken das es nicht weiter geht. Und das ohne jemanden davon zu erzählen, wäre ja ein ziemlicher Zufall wenn die Reikmannen entweder genau in dem Moment vorbeikamen und niemand davon erzählt hat oder sie selbst nie geprüft haben was in der Mine vor sich geht.
   
-  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhrxxxxxxxxxx Folge 34 des Markarth DLCs - Sitzung 4Die Reikmannen betreiben, soweit ich das beurteilen kann, in der Breite keinen Bergbau. Klar, sie besitzen Metallwaffen und auch generell Einiges an Werkzeug das scheinbar aus Metall besteht, aber sie selber benutzen nur das was sie finden. Letztendlich ist ihr Lebenstil also gewissermaßen parasitisch. Nur wenn es um die Natur geht sind sie halt zurückhaltend. Ob sich irgendeine der Hexen einmal darum Gedanken gemacht hat das ihr Verhalten inkonsequent ist und die Weigerung nicht die Schätze des Landes zu ernten nicht logisch ist? Wahrscheinlich schon und es gab bestimmt eine gute Erklärung das man durchaus von anderen Leuten nehmen kann aber selber das Land unberührt lässt und die Pfoten in Unschuld wiegt. Wie dem auch sei, die Minen sind von den Nord die hier vor einiger Zeit einmal gelebt haben und bieten damit einen Angriffspunkt für einen Gegner der von unten kommt. So richtig geklärt wurde aber trotzdem noch nicht wie die Vampire die unterirdischen Gänge überhaupt initial eingerichtet haben. Die Bergleute werden ja wohl kaum bis in die Schwarzweite gegraben haben nur um jetzt zu merken das es nicht weiter geht. Und das ohne jemanden davon zu erzählen, wäre ja ein ziemlicher Zufall wenn die Reikmannen entweder genau in dem Moment vorbeikamen und niemand davon erzählt hat oder sie selbst nie geprüft haben was in der Mine vor sich geht.Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 UhrHier
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
 ##### #1387
@@ -2104,6 +2117,10 @@
   
   Heute betreten wir das vergessene Tal. Ich finde es übrigens schön das sofort klar gemacht wird das es nicht wirklich vergessen ist und das es sich viel mehr um einen mystischen Namen handelt den selbst die Reikmannen als eben solchen anerkennen. Das ist schon fast beruhigend oder? Der Aberglaube der wilden aus dem Reik hat eine Grenze, irgendwo ist ein Punkt wo man sich hinstellt und sagt "ja, das klingt jetzt wild, und das ist uns bewusst aber es klang halt witzig". Das nicht ganz so vergessene Tal beinhaltet anscheinend ein altes Nordgrab und noch tiefer unten ein großes Loch das scheinbar in die Tiefen unter den Bergen führt. Was genau das bedeutet kann ich zu diesem Zeitpunkt noch nicht sagen, aber es stehet wohl fest das es dann doch recht schnell wieder mystisch wird. Großartig, noch viel schöner ist aber auch das die graue Schar auch wieder da ist und uns selbstverständlich freudig willkommen heißt. Ich persönlich kann mir ja Nichts Besseres vorstellen. 
   
+  0:00 - 9:32: Gameplay
+  9:33 - 11:35: Werwölfe: Leidgeprüfte Wächter
+  11:36 - 20:05: Gameplay
+  
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   ```
 
@@ -2174,6 +2191,10 @@
   
   Schon in der Vergangenheit haben wir uns mit den Geschichtenerzählern des Reik getroffen. Bis eben dachte ich aber noch das das Amt des Vateshran eher so eine Frauengeschichte ist, so wie man als Mann nur Schamane aber offensichtlich nicht Hexe werden kann. Es sieht aber so aus das die Profession des Bardens a.) hoch angesehen ist und b.) beiden Geschlechtern offen steht. Ich kann mir aber vorstellen das es irgendwo einen enttäuschten Vater gibt das sein Sohn nicht ein großer Krieger oder Jäger geworden ist. Vielleicht täusche ich mich aber auch und schätze die Seele des Reiks vollkommen falsch ein und in Wirklichkeit ist es die größte Ehre für die Position des Erzählers erwählt zu werden. Wie dem aber auch sei, der gute Vateshran den wir heute aufsuchen heißt Barth, er weiß etwas über den Zwist der Adlerseher und Sechsfuhrten und kann uns wahrscheinlich irgendwie weiterhelfen. Wir müssen ihn nur noch finden. Irgendwie.
   
+  0:00 - 0:15: Gameplay
+  0:16 - 2:44: Ein Reiseführer durch das Reik
+  2:44 - 24:39: Gameplay
+  
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
 
@@ -2243,6 +2264,112 @@
   Folge 51 des Markarth DLCs - Sitzung 7
   
   Ich bin ziemlich häufig doch erstaunt wie wir über irgendwelche Nebenmissionen fallen die eigentlich nicht so wirklich nach irgendwas aussehen. An der Stelle möchte ich aber auch noch anmerken das die ganze Reihe rund um den Schrein von Hircine meiner Meinung nach ziemlich verwerflich ist. Davon abgesehen das die Verwandlung in einen Werwolf echte Nachteile hat so ist das Anbeten von Hircine dem "Gott" der Jagt im Großen und Ganzen nie eine gute Idee. Die vier toten Lehrlinge können das bestimmt bezeugen, immerhin der letzte Lehrling hat überlebt. Ob das völlig normal ist? Prinzipiell entscheidet quasi Hircine darüber wer von den angehenden Schamanen fähig genug ist im Dienste des Daedra zu stehen, allerdings scheint mir der 80% Ausschuss Ansatz ein wenig wenig robust gegen andere Einflüsse. Für die allgemeine Bevölkerung ist das aber wahrscheinlich gut, wenn das so weiter  geht gibt es wohl bald keinen Kult von Hircine mehr. Die Tatsache das es das doch noch nach tausenden Jahren tut lässt mich vermuten das der Deadra in irgendeiner Form interveniert wenn die Herde zu sehr ausgedünnt wird. Dieses "Überleben des Stärkeren" Ding scheint mir keine absolute Größe zu sein.
+  
+  0:00 - 13:32: Gameplay
+  13:33 - 15:32: Ein Kaiserlicher in Markarth
+  15:33 - 20:30: Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1404
+
+* Titel: `Let's Play ESO #1404 - Spähbericht aus Irgendwo [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 52 des Markarth DLCs - Sitzung 7
+  
+  Eigentlich wollte ich mich so schnell wie möglich in die Tiefen unter dem Reik begeben um nach dem schwarzen Herz zu suchen, aber es stellt sich heraus das noch andere Aufgaben meine Aufmerksamkeit verlangen. Daher folgen wir heute den Spuren von Falkfyr Schneemetz, seines Zeichens Späher des Jarl von Einsamkeit. Vor sehr langer Zeit, ich habe ehrlich gesagt keine Ahnung wann genau er im Dienste stand aber ich bin mir ziemlich sicher wir am Ende seine Leiche finden. Oder irgendetwas Anderes das dafür gesorgt hat das niemand seine Geschichte gehört oder geglaubt hat. Der erste Schritt für eine erfolgreiche Geschichte ist auf jeden Fall nicht die Pilze zu essen die überall in der Schwarzweite wachsen. Dinge die leuchten sind nur selten gesund.
+  
+  0:00 - 4:16: Gameplay
+  4:17 - 8:03: Gruselgeschichten über das Tiefenvolk, Buch 3
+  8:04 - 17:34: Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1405
+
+* Titel: `Let's Play ESO #1405 - die Nachttiefen-Feste [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 53 des Markarth DLCs - Sitzung 7
+  
+  Es geschehen noch Zeichen und Wunder, zum Beispiel das wir heute endlich an der Nachttiefenfeste ankommen, dem Ort an dem der uralte Vampirclan von Fürstin Belain ihren Ursprung gefunden hat. Das ist für alle Beteiligten, insbesondere mir, sehr überraschend. In der Regel schaffe ich es ja mich so ausreichend abzulenken das ich nicht zur Hauptmission komme. Ich befürchte allerdings das ich es jetzt geschafft habe wirklich alle Nebenmissionen zu erledigen die ich hätte machen können. Wir sehen also die große Festung..die eigentlich nur ein Loch im Boden ist. Darin finden wir selbstverständlich keine lebende Seele, das überrascht nicht, handelt es sich doch um eine Vampirfestung. Die anwesenden Vampire sind allerdings nicht mehr so ganz beisammen, warum das so ist wissen wir aber nicht. Noch nicht, es stellt sich heraus das unser guter Freund Verandis über eine weitere Fähigkeit verfügt die uns bei diesem Rätsel weiter helfen kann.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1406
+
+* Titel: `Let's Play ESO #1406 - das schwarze Herz [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 54 des Markarth DLCs - Sitzung 7
+  
+  Es stellt sich heraus das das schwarze Herz etwas ist das man tatsächlich anfassen kann. Ich hatte für einige Zeit damit gerechnet das es sich mehr um eine Art Loch in der Welt handelt das man nicht wirklich bewegen kann. Diese Annahme war falsch soweit ich das verstanden habe, es ist eine, so werden wir heute erfahren, Dwermerentwicklung. Wie das Ganze genau funktioniert vermag aber niemand genau zu sagen, wir sehen nur die äußere Hülle von der gesamten Konstruktion, fraglich ist zum Beispiel auch wie genau die Dwermer das Herz ursprünglich angeworfen haben. War dafür auch ein Blutopfer notwendig? Ist es eine zufällige Erscheinung die sie nur kanalisiert haben. War es eine notwendige Energiequelle für eines ihrer Experimente? Wir werden es nie erfahren.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1407
+
+* Titel: `Let's Play ESO #1407 - die alten Götter [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 55 des Markarth DLCs - Sitzung 7
+  
+  Die heutige Episode erhält von mir den Preis "ambitioniertester Folgentitel überhaupt". Nicht weil der Titel so besonders ist aber weil wir inhaltlich eigentlich überhaupt nichts mit den alten Göttern zu tun haben. Viel mehr realisiere ich wie man verschiedene Lager als entdeckt markieren kann: man muss an ihnen beten. Das machen wir dann heute auch, ich glaube das Ganze geht auch ein wenig in Richtung Daedraverehrung und ich bin mir nicht völlig sicher ob das so eine gute Idee ist. Nicht weil irgendwelche ultrareligiösen Anhänger von anderen Religionen mich eventuell köpfen wollen (das wollen sie eh, schon wegen der Vampirgeschichte) sondern weil ich eventuell irgendwelche Daedra auf mich aufmerksam mache. Das erscheint mir nicht die allerbeste Idee zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhrxxxxxxxxxx Folge 55 des Markarth DLCs - Sitzung 7Die heutige Episode erhält von mir den Preis "ambitioniertester Folgentitel überhaupt". Nicht weil der Titel so besonders ist aber weil wir inhaltlich eigentlich überhaupt nichts mit den alten Göttern zu tun haben. Viel mehr realisiere ich wie man verschiedene Lager als entdeckt markieren kann: man muss an ihnen beten. Das machen wir dann heute auch, ich glaube das Ganze geht auch ein wenig in Richtung Daedraverehrung und ich bin mir nicht völlig sicher ob das so eine gute Idee ist. Nicht weil irgendwelche ultrareligiösen Anhänger von anderen Religionen mich eventuell köpfen wollen (das wollen sie eh, schon wegen der Vampirgeschichte) sondern weil ich eventuell irgendwelche Daedra auf mich aufmerksam mache. Das erscheint mir nicht die allerbeste Idee zu sein.Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 UhrHier
+  ```
+
+##### #1408
+
+* Titel: `Let's Play ESO #1408 - Angriff auf Markarth [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 56 des Markarth DLCs - Sitzung 7
+  
+  Es ist so weit, die Zeit der Abrechnung ist gekommen. Vampire greifen Markarth an und ich komme ja nicht davon weg anzumerken das man die Ganze Geschichte wesentlich abfedern können wenn man im Vorfeld die Ruinen unterhalb der Stadt vernünftig erkundet hätte. Es handelt sich um einen Angriffswinkel der jeden militärischen Taktiker Schwitzen lässt und Ard Caddach hat das einfach völlig vernachlässigt. Die kulturellen Gewinne die man hier erhalten könnten wären natürlich ein Teil meiner Überlegung, spielen hier aber erst einmal keine Rolle. Weiter möchte ich noch feststellen das es auch generell gut wäre auf Arana und ihre Berater zu hören, aber ich nehme an das der Zug nun auch abgefahren ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhrxxxxxxxxxx Folge 56 des Markarth DLCs - Sitzung 7Es ist so weit, die Zeit der Abrechnung ist gekommen. Vampire greifen Markarth an und ich komme ja nicht davon weg anzumerken das man die Ganze Geschichte wesentlich abfedern können wenn man im Vorfeld die Ruinen unterhalb der Stadt vernünftig erkundet hätte. Es handelt sich um einen Angriffswinkel der jeden militärischen Taktiker Schwitzen lässt und Ard Caddach hat das einfach völlig vernachlässigt. Die kulturellen Gewinne die man hier erhalten könnten wären natürlich ein Teil meiner Überlegung, spielen hier aber erst einmal keine Rolle. Weiter möchte ich noch feststellen das es auch generell gut wäre auf Arana und ihre Berater zu hören, aber ich nehme an das der Zug nun auch abgefahren ist.Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 UhrHier
+  ```
+
+##### #1409
+
+* Titel: `Let's Play ESO #1409 - Nchuand-Zel [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 57 des Markarth DLCs - Sitzung 7
+  
+  Ich erwähnte ja das Ard Caddach bereits einen gewaltigen Fehler begangen hat aber das ist jetzt ja auch Schnee von Gestern. Der Angriff der grauen Schar ist für den Moment zurückgeschlagen, jetzt geht es daran Rada al-Saran zu verfolgen und Fürstin Belain natürlich auch. Beide müssen wir irgendwie aufhalten und eventuell, falls möglich, unsere Gefährten davon abhalten sich selbst umzubringen bis die echte Heldin auftaucht um den Tag zu retten. Es wäre übrigens ziemlich interessant wenn eine Geschichte damit enden würde das wir den Tag nicht retten müssen weil jemand Anderes das für uns tut und wir nur in einen kleinen Nebenkampf festgehalten werden oder es vielleicht sogar gar keinen richtigen Kampf gibt. Wie dem aber auch sei, Nchuand-Zel biete nebenbei noch so Einiges zum Schauen. Auch übrigens einen zweiten Schlüssel zur Sternenwarte aber das nur nebenher, die Gold- und Silberschätze stellen weiter in Frage warum Ard Caddach nicht doch mal gucken gegangen ist. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhrxxxxxxxxxx Folge 57 des Markarth DLCs - Sitzung 7Ich erwähnte ja das Ard Caddach bereits einen gewaltigen Fehler begangen hat aber das ist jetzt ja auch Schnee von Gestern. Der Angriff der grauen Schar ist für den Moment zurückgeschlagen, jetzt geht es daran Rada al-Saran zu verfolgen und Fürstin Belain natürlich auch. Beide müssen wir irgendwie aufhalten und eventuell, falls möglich, unsere Gefährten davon abhalten sich selbst umzubringen bis die echte Heldin auftaucht um den Tag zu retten. Es wäre übrigens ziemlich interessant wenn eine Geschichte damit enden würde das wir den Tag nicht retten müssen weil jemand Anderes das für uns tut und wir nur in einen kleinen Nebenkampf festgehalten werden oder es vielleicht sogar gar keinen richtigen Kampf gibt. Wie dem aber auch sei, Nchuand-Zel biete nebenbei noch so Einiges zum Schauen. Auch übrigens einen zweiten Schlüssel zur Sternenwarte aber das nur nebenher, die Gold- und Silberschätze stellen weiter in Frage warum Ard Caddach nicht doch mal gucken gegangen ist. Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 UhrHier
+  ```
+
+##### #1410
+
+* Titel: `Let's Play ESO #1410 - Fürstin Belain [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 58 des Markarth DLCs - Sitzung 8
+  
+  Es ist so weit, das große Finale kann nun nicht mehr lange auf sich warten, heute treffen wir wieder einmal Fürstin Belain die sich endlich ihren Existenztraum erfüllt hat wieder vom schwarzen Herzen zu kosten. Das hat natürlich einen gewissen Powerup zur Folge, wir erinnern uns übrigens nebenbei an irgendwelche Drachen die wir zwischenzeitlich besiegt haben und die hatten wesentlich mehr Lebenspunkte, und ich will ehrlich sein, die hätte ich auch  geschafft wenn ich keine Hilfe gehabt hätte. Es hätte nur länger gedauert. Wenn Rada al-Saran drei Tage und Nächte mit Leki duellieren kann dann kann ich auch 15 Millionen Lebenspunkte leer machen. Gar kein Problem. Theoretisch sollten wir eh kein Schlaf benötigen und das Mana regeneriert sich ja schon ziemlich schnell. Wie dem aber auch sei, die kleine zarte Vampirfrau wird plötzlich zum großen Vampirmonster, der Ausgang der Schlacht ist aber eigentlich schon ziemlich klar, auch wenn wir wieder ein wenig Hilfe hatten damit alles ein wenig spannender wird.
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```

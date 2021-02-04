@@ -574,6 +574,97 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #45
+
+* Titel: `Risen 2 - #45 - Wasserlieferung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man zur See  fährt, ich erwähnte es bereits, dann ist Wasser absolut kritisch für das Gelingen der Operation. Einfach weil Menschen nun einmal frischen Wasser brauchen. Da die meisten Schiffe eher über keine effektiven Wiederverwertungsanlagen verfügen ist es allerdings auch unwahrscheinlich das man mit einer geringeren Menge auskommt. Dementsprechend größere Mengen müssen besorgt und auch transportiert werden damit die Crew nicht auf halber Strecke verdurstet. Wassermangel ist ein ernsthaftes Problem, besonders ironisch wenn man bedenkt das Schiffe von gewaltigen Mengen an Wasser umgeben sind es aber nicht nutzen können. Das Leben spielt schon witzige Streiche wenn es um solche Dinge geht. Wie dem aber auch sei, wir kümmern uns heute darum das das Schiff beladen wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #46
+
+* Titel: `Risen 2 - #46 - der Galgenstrick [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt immer noch ein weiteres Stockwerk, ein weiterer Schatz, ein weiteres Gespräch, ein weiteres Geheimnis. Man muss nur Mühsam genug Suchen und schon findet man noch etwas. Ich gebe zu das ich heute nicht selber auf die Idee gekommen bin das oberste Stockwerk des Lagerhauses weiter zu erkunden aber ich bin über den Hinweis nicht unglücklich, hilft er mir doch heute sehr den rechten Pfad zu finden und ein Artefakt von quasi unermesslichen Maßen zu erringen. Es handelt sich um den Galgenstrick, ein ehrbarer Händler würde bestimmt 2000 Gold dafür nehmen. Wie dem aber auch sei, davon abgesehen such ich heute auch ein Bett und finde heraus das der gewöhnliche Wald & Wiesenpirat anscheinend nicht schläft und daher die verfügbaren Betten sehr beschränkt sind. Die gute Nachricht ist aber das Nutten prellen zwar verboten ist verprügeln aber anscheinend ohne Probleme über die Bühne geht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #47
+
+* Titel: `Risen 2 - #47 - der Klabautermann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Klabautermann ist ein Konzept das mir als Bewohner des Flachlandes eher nichts sagt. Natürlich habe ich den Begriff irgendwie schon einmal gehört aber so richtig verbinden tue ich damit nichts. Wie dem aber auch sei, heute erschlagen wir den Klabautermann. Eigentlich handelt es sich aber nicht um DEN Klabautermann sondern halt nur um irgendeinen. Das Wesen das wir heute in einer Höhle finden scheint nur eine Instanz von vielen zu sein und wenn es so weiter geht bin ich mir sicher das wir noch eine Menge anderer Klabautermänner  finden werden. Hoffentlich habe ich bis dahin eine besseres Waffe die mir erlauben wird an den Schwierigkeiten ohne größere Probleme vorbei zu kommen. So oder so müssen wir auch noch einen Fischer retten damit wir hinterher genügend Fisch auf unserem Schiff haben, es wäre also gut wenn eben jener Fischer auch überlebt hat. Ich sehe da aber eher schwarz, sein Kumpel hat ihn als letztes gesehen als er auch den Klabautermann gesehen hat. Ich ahne das Schlimmste für den armen Mann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #48
+
+* Titel: `Risen 2 - #48 - Gargoyls am Strand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heute heraus das die Wahl meiner Waffe doch noch ein glücklicher Glücksgriff gewesen ist. Deswegen läuft es dann heute auch so das wir letztendlich gegen Feinde kämpfen die eigentlich viel zu stark für uns werden weil wir einfach kein Panzer sind, aber da wir es nie soweit kommen lassen wird das gar kein Problem. Ich spreche übrigens über Gargoyls die sind zwar meiner Meinung nach aus Stein und sind irgendwelche grotesken Statuen die als Wasserspeier an gothischen Kathedralen stehen aber das scheint nicht immer ganz richtig zu sein. Letztendlich spielt es dann ja auch keine Rolle oder vielleicht sogar doch. Ich bin mir ziemlich sicher das man für Wesen aus Stein ein wesentlich größeres Kaliber gebraucht hätte als das was mir heute zur Verfügung steht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #49
+
+* Titel: `Risen 2 - #49 - Eldric und die Eier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben immer noch Freunde da draußen. Und damit meine ich nicht nur unsere kleine Heldin Patty die uns letztendlich eh nicht so richtig ranlässt und ziemlich gemischte Signale was die eigene Beziehung angeht sendet. Unabhängig von den Hosen diverser Leute gibt es aber auch noch Menschen die bereit sind uns bei unserer Mission auf andere Arten zu unterstützen. Weise Gefährten die viel von der Welt gesehen haben und die uns bereit sind mit Rat und Tat zur Seite zu stehen wo andere noch unwissend ob der drohenden Konsequenzen sind. Natürlich rede ich von Eldric, ältlicher Druide der bereits die ganze Welt gesehen hat, oder zumindest seine eine Insel sehr gut kennt und daher im Einklang mit der Natur steht. Einen solchen Mann können wir auf unserer Seereise gewiss gut gebrauchen. Wie dem auch sei, Eldric will außerdem das wir irgendwelche Eier zerstören, irgendwas von einer Plage hat er erwähnt, aber ich bin ehrlich, da habe ich schon nicht mehr zugehört.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #50
+
+* Titel: `Risen 2 - #50 - der alte Mac [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ihn immer, diesen einen Typen der viel zu lange alleine gelassen wurde der aber eigentlich ein gewaltiges Redebedürfnis hat. Ich wäre auch so jemand, mich auf einen Beobachtungsposten zu lassen wäre definitiv nicht gut für meine geistige Gesundheit. Seltsamerweise scheint der alte Mac ziemlich zufrieden mit seinem Posten zu sein, vielleicht weiß er aber auch das es keine andere Aufgabe gibt die er erledigen kann, einfach weil er alt ist. Insofern ist so ein Ruhestand auf dem Aussichtsturm vielleicht gar nicht so schlecht. Wie dem auch sei, der Mann hat offensichtlich Einiges zu erzählen und es wäre bestimmt schön seinen Geschichten zu lauschen aber leider regnet und gewittert es ununterbrochen und ich habe scheinbar nicht wirklich die Möglichkeit dagegen irgendetwas zu tun. Und auch die Unterkunft des alten Mannes ist jetzt nicht direkt das Zelt das mich vor den Einfluss der Elemente, insbesondere der hörbaren Variante, schützt. Außerordentlich bedauerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #51
+
+* Titel: `Risen 2 - #51 - Quinn der Krämer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt noch eine letzte Person, eine letzte Richtung die wir bisher noch nicht erkundet haben, und das ist seeseitige links, da scheint es noch ein Lagerfeuer und eine Art Höhle zu geben wo sich jemand aufhalten könnte. Natürlich ist dem auch so, daher gehen wir da auch einmal und reden mit der Person. Es handelt sich übrigens um Quinn der scheinbar eine Art Gelegenheitshändler ist. Er verkauft uns Dinge die man normalerweise so nicht bei einem Händler findet. Außerdem hat er noch ein paar Klamotten im Angebot und ich bin mir fast sicher das er diese irgendwelchen Leuten abgenommen hat die sich nicht mehr beschweren können. Wenn wir genau hinschauen finden wir bestimmt noch irgendwelche Löcher innerhalb der Kleidung die mit guter Hand geflickt wurden. Ich will mich aber nicht beschweren weil uns der gute Quinn zu Geld verhelfen wird, vielleicht weiß er es sogar nicht einmal und denkt er verkauft uns wirklich nur einen Traum.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -132,6 +132,98 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #11
+
+* Titel: `Uncharted 2 - #11 - der Weg des Lichts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein relativ gleiches Thema das sich immer wieder wiederholt in Uncharted. Eigentlich sogar zwei, aber das eine ist eher meine persönliche Schwierigkeit einen Controller besser zu bedienen als das es tatsächlich ein richtiges Thema des Spiels ist. Wie dem aber auch sei, das zweite Thema ist das das Licht uns den Weg zu dem Ort weißt an dem die Dinge liegen, das passiert auch wieder heute, wir müssen dafür nur ein kleineres Rätsel lösen. Interessant ist aber das der Lichteinfall den wir hier nutzen auch von irgendwo kommen muss. Ein Lichteinfall der bestimmt an der Oberfläche schön längst verdeckt geworden wäre. Oder es ist eine Konstruktion die von oben angestrahlt wird. So oder so erscheint es mir unwahrscheinlich das irgendwie Licht von Draußen tief unter die Erde geleitet werden kann und das nach mindestens 600 Jahren immer noch funktioniert. Was mich wieder zurück zu der Priesterkaste von Ingenieuren bringt die sich regelmäßig darum kümmert das Zeug zu reparieren.
+  
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #12
+
+* Titel: `Uncharted 2 - #12 - Jeff der Quotenkameramann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere aktuelle Reisegruppe Sonnenschein besteht aus 4 Personen. Das wäre Nathan selbst (der Esel und so), dann haben wir natürlich die tapfere Chloe, die bezaubernde Elena und dann noch den Kameramann Jeff. Zusammengefasst also die Hauptperson, den weiblichen Hauptcast und die weibliche Hauptdarstellerin vom letzte Teil sowie eine vierte Person. Wir sehen wohin die Reise geht. Ich würde es Jeff wirklich wünschen aber so wie die Dinge stehen muss jemand aus Dramaturgiegründen sterben und es ist ziemlich klar das es nicht einer der beiden Frauen sein wird und besonders nicht Nathan. Schon weil wir wissen das das Spiel damit anfängt das wir in irgendeinen Zug sitzen. Jeff ist also dran. Man darf gespannt sein wie es ihm erwischt, vielleicht ist ihm noch ein großer Tod vergönnt, irgendwas mit ein wenig Ansehen oder oder. Ich ahne aber das Jeff einfach nur für billige Moral geopfert wird und um zu zeigen das die Bösen halt böse sind ohne das Jeff irgendein Mitspracherecht hat. Ketzerisch könnten wir uns jetzt fragen ob Jeff bessere Chancen gehabt hätte wenn er eine Frau gewesen wäre, aber ich würde an der Stelle behaupten das er auch das letzte Einhorn hätte sein können und ihn nichts gerettet hätte. Im Falle das doch Elena Erschossen, Erdrosselt oder Erschlagen wird wäre ich allerdings auch nicht überrascht. In dem Falle sehe ich aber auch nicht das Jeff überlebt. Natürlich weiß ich schon wie es ausgeht, den Gedanken hatte ich aber schon vorher.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #13
+
+* Titel: `Uncharted 2 - #13 - es kommt ein Zug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Geehrter Leser, ich habe ja mehr als ein Lets Play und in der Regel mache ich keine Werbung für die anderen weil die Geschmäcker ja auch verschieden sind. Witzigerweise kommt historisch gesehen diese Episode einen Tag nach der zweiten Folge von Jedi Fallen Order heraus, aufgenommen habe ich aber diese hier zu erst. Warum ich das erzähle? Ganz einfach, beide haben einen Zug als Kernthema, das wird in der nächsten Episode noch viel mehr ersichtlich, ich würde mich an der Stelle auch kurz dafür entschuldigen wollen das ich hier leicht aus der Haut fahre. Eventuell frustriert mich die Steuerung des jungen Nathan doch ein wenig und meine Lust mit Controller irgendwelche Spiele zu spielen in denen ich relativ genau zielen muss schwindet ein wenig. Insbesondere wenn ich dieses Zielen auch noch in ziemlich geringer Zeit vollbringen muss. Am Ende schaffe ich es aber.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #14
+
+* Titel: `Uncharted 2 - #14 - hoch in den Bergen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Zugfahrt die wir uns vorgenommen haben ist übrigens ziemlich lang. Wirklich sehr lang, fast genauso lang wie der Zug auf den wir heute herumtanzen. Beides ist übrigens ziemlich beeindruckend wenn man sich ausdenkt welche gewaltige Zugkraft diese Eisenbahn einfach nur besitzen muss. Es ist ja nicht so das nur weil das Ganze auf Schienen stattfindet die Masse der Wagons auf einmal egal ist, insbesondere wenn es sowas wie eine Steigung gibt. Dann kann es durchaus sein das die Bude ganz schnell rückwärts rollt. Aber das passiert einfach nicht, stattdessen fahren wir mit Vollgas den Berg hinauf und sehen eine gewaltige Veränderung der Landschaft, fast schon so als wäre das hier ein Spiel das sich um tatsächliche Entfernungen und physikalische Grenzen kaum Gedanken macht und einfach nur eine Geschichte erzählen will.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #15
+
+* Titel: `Uncharted 2 - #15 - Schrottflintenbartmann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere Zugreise hat heute ein jenes Ende genommen. Der Zug entgleist aber dennoch überleben viel zu viele Diener des Bösen. Oder auch Söldner. Ich bin mir übrigens nicht sicher woher genau Lazerevic eigentlich die ganzen Leute kriegt die seine Befehle ohne Zögern ausführen. Spätestens wenn ich hören würde das der Mann den man töten soll bereits hunderte Kameraden umgebracht hat würde ich langsam aber sich sehr vorsichtig vorgehen. Aber dem ist nicht so, jeder neue Soldat scheint alles vergessen zu haben was vorher geschehen ist. Wenn man sich anguckt wo die einzelnen Soldaten bzw. Söldner herkommen, aka aus der dünnen Luft zu erscheinen ist das aber wohl gar nicht so unwahrscheinlich. Am Ende gibt es nur 5 Söldner und alle Typen die wir töten sind Klone dieser Person. Mein absoluter Hassklon für diesen Abschnitt ist allerdings Schrottflintenbartmann. Der Mann hat Rüstung, eine Schrottflinte und einen Bart. Außerdem verlangt seine KI von ihm das er stumpf auf mich zu rennt und dann entweder töten oder stirbt. Meistens aber Erstes, manchmal leider aber auch Zweiteres. Dann rege ich mich auf.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #16
+
+* Titel: `Uncharted 2 - #16 - Karl Schäfer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt einen Witz das man, egal wo man hin geht auf der Welt, Deutsche finden wird. Und zwar schneller als man denkt. Mir persönlich ist das in Brasilien passiert, dort war ich für ein paar Monate, 800 Kilometer im Inland in einer kleinen Stadt namens Ilha Solteira, also die einsame Insel. Der Ort hat einen Staudamm und eine Universität. Neben mir waren da natürlich auch andere Studenten, ein paar aus Deutschland. Aber als ich eines Tages mit meinem Fahrrad im Kreisverkehr fuhr hörte ich plötzlich deutsche Stimmen, eine Mutter die zu ihren Kindern rief, keine Studenten. Hier bin ich also, 10000 Kilometer von zuhause weg, irgendwelche deutschprachigen Leute laufen rum. Oder, ich im Hostel in Rio, Unterkunft in einer "befriedeten" Faveila, Gastgeber sind natürlich deutsch, was auch sonst. In dem Fall war die Frau zwar Schweizerin aber trotzdem. Meine Überraschung das unser guter Nathan Drake also mitten in Tibet einen Deutschen trifft ist bei unter Null. Eigentlich war damit zu rechnen. Das das Vorjahresmodell auch dort ist kommt ein wenig überraschender, aber die hat uns wahrscheinlich schon lange einen Peilsender verpasst.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #17
+
+* Titel: `Uncharted 2 - #17 - das kalte Herz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in Tibet, hier gibt es ziemlich viel Schnee. Und anscheinend außerdem den Schlüssel zur ultimativen Macht was genau das ist was unser Gegenspieler Lazerevic anscheinend möchte. Um das zu verhindern müssen wir Dinge tun. Nathan Drake hat aber grade eine kleine Glaubenskriese, daher stellt man uns einen neuen Gefährten zur Seite der uns zu einem Ort führen soll an dem die Beweise dafür liegen das alles wahr ist und das unsere Mission einen Zweck hat. Mit dabei ist übrigens nicht Elena auch wenn das Thumbnail das vielleicht impliziert, sicher ist das sie wieder auftauchen wird aber für den Moment wurden wir in die Hände von Tenzin gegeben der zwar kein Wort Englisch spricht aber da unsere Mission ziemlich klar ist macht er sich dennoch nützlich. Ich möchte an der Stelle übrigens Tenzins Mut hervorheben. Der Mann stürzt sich ohne Not in gewaltige Gefahren nur damit irgendein Fremder etwas glaubt was er ja eigentlich auch einfach so tun könnte.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

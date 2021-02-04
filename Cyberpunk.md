@@ -977,7 +977,94 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
-##### #Nummer
+##### #77
+
+* Titel: `Cyberpunk 2077 - #77 - glücklicher Sohn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Lied von dem ich spreche ist übrigens "Creedence Clearwater Revival - Fortunate Son".
+  Wir schmeicheln uns weiter in den Reihen der Nomaden ein für den Fall das wir sie noch irgendwann für irgendetwas brauchen. Wie dem aber  auch sei, dazu müssen wir übrigens nach Nicht City fahren und ich stelle an der Stelle fest das es doch wieder einmal nützlich ist das wir von Technik eine tiefe Ahnung haben, das macht bestimmte Dinge sehr viel einfacher. Was nicht ganz so einfach ist wenn uns massive Mengen an Gegnern auf einmal ins Gesicht springen und ich nicht diejenige bin die das Feuer eröffnet. Übrigens ein großes Problem was ich immer wieder in Spielen sehe in denen man einen schleichenden Charakter spielt. Ein wenig nervig ist das dann schon. Zum Glück habe ich zwischendurch gutes Geld in diese mechanischen Beine investiert die mir erlauben schnell eine andere Position einzunehmen. Diese Fähigkeit ermöglicht uns zumindest etwas Abstand von allen möglichen Gegnern zu kriegen. Für den Moment. Davon abgesehen erhalten wir heute auch eine tolle Niere. Ein bisschen seltsam ist es übrigens schon das die Organe relativ preiswert sind, ich erinnere mich da gerne an den Film Repo Men in denen die künstlichen Organe quasi unfinanzierbar waren.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #78
+
+* Titel: `Cyberpunk 2077 - #78 - Pacifica [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich fahren wir heute nicht direkt nach Pacifica (das ist der Stadtteil der offiziell nicht mehr zu Night City gehört was technisch gesehen die Kriminalitätsrate senkt). Außerdem ist der Stadtteil anscheinend ein nicht ganz so erfolgreiches Projekt, wenn ich das recht verstanden habe sollte es eine Wohngegend für die Reichen werden. Irgendwie klappte das Projekt aber nicht und jetzt sind wir wo wir sind. Interessanterweise sehen die meisten Sache noch so aus als wurden die gestern verlassen, der Luxus ist noch klar erkennbar, oder die Voodooboys sind sehr darum bemüht den Eindruck zu erhalten. Wie dem auch sei, vorher nehmen wir noch ein paar Räuber und Banditen hoch in der Hoffnung irgendwo eine Blauplause für den sogenannten Armadilo Mod zu finden, der der uns signifikant mehr Rüstung geben sollte.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #79
+
+* Titel: `Cyberpunk 2077 - #79 - das GIM [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  G.I.M steht für Grand Imperial Mall und ist eigentlich ein Einkaufszentrum mit relativ großen angeschlossenen Fitnessstudio. Zufälligerweise halten sich darin die Animals auf. Das ist insofern ziemlich ungewöhnlich als das es sich nicht unbedingt um den Heimatgrund der Straßengang handelt. Die Voodooboys finden das aus verschiedenen Gründen seltsam, wie zum Beispiel das ein Überwachungsvan der es anscheinend irgendwie geschafft hat sich zu tarnen zwischenzeitlich reingefahren ist. Viel mehr wissen wir allerdings nicht, es steht aber zu Vermuten das uns der gute Placide nicht alles verraten hat was es über diese Geschichte zu wissen gibt. Zum Beispiel warum ihm so wichtig ist das die Dinge sofort geschehen, tatsächlich ist ja schon eine gewisse Eile zu bemerken. Unabhängig davon schleichen wir uns da natürlich rein und werden keinerlei Aufmerksamkeit erregen, dafür bin ich auch einfach zu begabt. Generell stelle ich es mir aber schwer vor irgendwelche Animals zu erwürgen, einfach weil die Typen gebaut sind wie Panzer. Zum Glück benutzen sie aber auch jede Menge Cyberware, das ist ein einfacher Angriffspunkt für unsere Fähigkeiten.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #80
+
+* Titel: `Cyberpunk 2077 - #80 - Verschlinger des Lichts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen ja bereits was passiert wenn wir uns dem Netwatch Agenten ein wenig zu sehr nähern und uns einstöpseln, dennoch habe ich noch rausgefunden das es noch ein oder zwei Dinge gibt die da zu tun sind. Wie dem aber auch sei, ich entscheide mich ja dafür genau die Dinge beizubehalten die ich schon entschieden haben. Immerhin erfahren wir heute das der Virus den wir im Kopf mit uns rumgetragen haben anscheinend "Verschlinge des Lichts" heißt. Das Licht wurde dann auch in der Tat verschlungen und ich bereue es vielleicht doch ein wenig das ich den Voodoo Boys soviel Vertrauen gegenüber gebracht habe. Wie dem aber auch sei, die Dinge sind wie sie sind und wir leben sogar noch. Das ist eine gute Nachricht, wieder einmal. Genießen wir also den Duft des Abends und laufen ein wenig durch die Welt.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #81
+
+* Titel: `Cyberpunk 2077 - #81 - Unvergesssen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute droht eine kleine Reise in die Vergangenheit, das Ganze ist natürlich ein wenig bitter weil wir ja eigentlich schon wissen worauf alles hinauslaufen wird. Wir werden übrigens zurück ins Jahr 2013 transportiert, an der Stelle merken wir dann wohl auch das die Cyberpunk Welt nicht die unsere ist weil offensichtlich hatte ich 2013 noch keinen Cyberarm und so richtig weit verbreitet ist die Tech irgendwie immer noch nicht. Auch interessant ist übrigens auch das scheinbar in den letzten 50 Jahren in der Cyberpunkt Welt relativ wenig technologischer Fortschritt geschehen ist. Klar, da waren die Konzernkriege und abgesehen von ein paar Konzernenklaven gibt es auch generell nicht mehr so unendlich viel Welt in der die freie Entwicklung hätte weitergehen können, aber dennoch ist hier überraschend wenig passiert. Übrigens, in der Ansicht in der wir nur Brigittes Gesicht sehen und gar nichts passiert hätte eigentlich so eine Art Suche durch die Erinnerungen von Johnny Silverhand passieren sollen. Ist aber irgendwie nicht passiert. Wirklich schade das es hier solche Bugs in der Hauptquest gibt. Da bin ich tatsächlich ziemlich enttäuscht.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #82
+
+* Titel: `Cyberpunk 2077 - #82 - Alt Cunningham [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir eigentlich fast sicher das der Name Alt Cunningham so gewählt wurde das er möglichst wenig aussagt als ihn Johnny das erste Mal erwähnt hat. Das es sich hierbei um eine Frau handelt war wirklich absolut nicht ersichtlich. Eventuell ist es auch gar nicht ihr richtiger Name sondern nur so etwas wie ein Künstlername, eine Bezeichnung die sie sich selbst im Netz gegeben hat. Irgendetwas um nicht daran erinnert zu werden das man eigentlich Maria-fürchte-Gott Schmidt oder so heißt. Wie dem auch sei, heute lernen wir ein wenig etwas über die gute Alt kennen. Zum Beispiel wie sie so gelebt hat, was sie war und was sie tat. Das allerdings nicht aus der ersten Hand sondern von einem Typen namens Thompson der uns eventuell irgendwie ein wenig das Leben gerettet hat. Schon auch ironisch wie all der Ärger den wir heute erleben eigentlich nur das direkte Ergebnis daraus ist das 2013 ein von Arasaka angeheuerter Schläger sich zu fein war den Job zu Ende zu bringen. Ob der Typ mit den ersten Mantisarme daran erinnert wurde von seinen Vorgesetzten? Oder ob niemand die Verbindung gesehen hat? Fraglich und wahrscheinlich in den Wirbeln der Zeit verschwunden.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #83
+
+* Titel: `Cyberpunk 2077 - #83 - Pacificas Pier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute genießen wir das Wetter. Nein wirklich, heute wird es regnen, ich weiß auch nicht so recht wie es dazu gekommen ist aber die Dinge sind nun einmal wie sie sind und auf einmal gibt es Regen. Es regnet sehr selten in Night City, das könnte natürlich daran liegen das es sehr warm ist aber eigentlich ist nebenan auch eine Menge Wasser. Ich kann mir übrigens nicht vorstellen das von den Meeren noch allzu viel übrig ist und das man wirklich freiwillig ins Wasser springen will. Aber irgendwie ernähren sich die Leute ja noch. So oder so betreten wir aber heute den einzigen Pier von Night City als grade die Nacht hereinbricht. Das Bild das sich uns bietet ist ziemlich großartig und ich empfehle dieses Video in der höchsten Auflösung zu schauen in der Hoffnung das durch die Kompression noch etwas übrig bleibt.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #84
 
 * Titel: ``
 

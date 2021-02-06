@@ -665,6 +665,19 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #52
+
+* Titel: `Risen 2 - #52 - Lieferfahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind quasi fertig damit unseren neuen Freund Kapitän Slayne mit Vorräten zu versorgen. Ich möchte an der Stelle übrigens feststellen das ich dem Mann kein Stück traue aber ich schaue einfach mal wohin die Reise geht und lasse mich dann von dem Überraschen was sich uns darbietet. Bevor wir aber mit Slayne irgendwohin fahren müssen wir noch ein paar andere Besorgungen machen. Zum Beispiel scheint die örtliche Taverne ziemlich auf dem Trockenen zu sitzen. Glücklicherweise wissen wir ja genau wo es etwas zu holen gibt. Außerdem wissen wir auch das der Ort an dem es etwas zu holen gibt auch über reichlich Vorrat verfügt. Schließlich haben wir selbst dafür gesorgt das die Kessel von Booze auf Hochtouren laufen. Es ist wirklich erstaunlich wieviel Eigenarbeit man als Pirat an den Tag legen muss wenn man nur ein wenig Rum haben will. Ich hatte wirklich gedacht das man das Alles ein wenig einfacher haben kann ohne das man sich dermaßen verbiegen muss. Lange Geschichte kurz, wir fahren heute ein wenig durch die Meere um Botengänge zu erledigen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1066,6 +1066,31 @@
 
 ##### #84
 
+* Titel: `Cyberpunk 2077 - #84 - Verlier nicht den Verstand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Frage des selbst und was wirklich eine Person ausmacht ist anscheinend eine zentrale Frage die uns Cyberpunk stellt. Zum Beispiel wenn unser Bewusstsein langsam von einem anderen Bewusstsein überschrieben wird. Sind wir dann immer noch die selbe Person, werden wir wirklich zu Johnny Silverhand? Oder sind wir nur eine billige Kopie? Kann man das Bewusstsein vollständig kopieren und wenn man es löscht und dann wieder herstellt ist es dann wirklich die gleiche Person? Und selbst wenn aus irgendwelchen Gründen das menschliche Bewusstsein nicht kopierbar ist und man einen Unterschied feststellen kann, wie schaut es bei KIs aus? Kann eine künstliche Intelligenz als Äquivalent zu einer biologischen Intelligenz gesehen werden? Gibt es Grenzen? Was passiert wenn man eine solche Intelligenz kopiert? Kann sie überhaupt kopiert werden oder kommt am Ende etwas Anderes heraus? Heute finden wir ein paar Antworten, natürlich keine echten Antworten aber zumindest ein paar Gedanken in diese Richtung.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #85
+
+* Titel: `Cyberpunk 2077 - #85 - Ozob der Clown [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Seltsame Charaktere entstehen in einer Welt wie Cyberpunk sie uns zeigt wahrscheinlich jeden Tag zu Hauf. Es ist einfach so das die technischen Möglichkeiten die sich uns bieten auch dafür sorgen das die Menschen unerhörte Dinge mit ihrem Körper tun können. Nie waren die Möglichkeiten gewaltiger, nie das Potenzial höher. Heute treffen wir daher Ozob, der gute Mann ist übrigens kein Clown aber hat irgendetwas mit den Tyger Claws zu schaffen. Generell und überhaupt handelt es sich um eine wirklich seltsame Gestalt. Die gute Nachricht ist aber das er ein ehrlicher Arbeitgeber ist und wir uns scheinbar auf ihn verlassen können. Neben Ozob treffen wir heute übrigens auch noch einen alten Arbeitskollegen, wir quatschen ein wenig über die alte Zeit. Trotz das es ein wenig stressig bei Arasaka war ist es doch eigentlich schön sich wieder an alte Zeiten zu erinnern.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

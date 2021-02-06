@@ -93,12 +93,28 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.xxxxxxxxxx und jetzt habe ich es dann doch endlich einmal geschafft das Ganze Zeug auf Bogano zu Ende zu bringen. So wie die Dinge aktuell stehen bin ich wirklich langsam unterwegs und ich befürchte das ich es nie schaffen werde den Planeten zu verlassen. Aber dann, sehr überraschend mache ich doch Fortschritte und wir erfahren endlich warum wir überhaupt auf diesen Planeten sind. Warum man unbedingt einen Jedi braucht und warum wir tun was wir tun. Naja, zumindest so ein wenig, die genaue Natur unserer Mission ist erst einmal nicht ganz klar ersichtlich. Aber hey, selbst wenn wir am Ende scheitern sollten oder sich herausstellt das unser Ziel zu hoch gesteckt war und auf halben Weg versagen ist nicht gesagt das nicht jemand Anderes kommt und übernimmt. Und selbst wenn, wahrscheinlich ist Scheitern der Arbeit für das Imperium vorzuziehen. Nur ein wenig schade für Prauf, wäre er uns nie begegnet hätte er vielleicht Leben können. Je nachdem wie langlebig seine Spezies ist wäre da durchaus noch etwas drin gewesen.Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 UhrDer Dienstagsslot, kein besonderes Thema, neue und alte Spiele.Hier
   ```
 
-##### #Nummer
+##### #8
 
-* Titel: ``
+* Titel: `Fallen Order - #8 - Landung auf Zeffo [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Abwechslung ist eine ziemlich wichtige Sache. Der Geist möchte stimuliert werden, und das machen wir natürlich zum Einen mit irgendwelchen billigen Glückshormon Quellen wie die Bestätigung das wir etwas getroffen haben, Achivement uns zusätzliche Erfahrungspunkte wenn wir bestimmte Kombinationen erreichen. Aber das reicht ja nicht um uns wirklich dauerhaft an der Stange zu halten. Die Suchtspirale will sorgsam kuratiert werden, und deswegen braucht es gelegentlich einen Szenenwechsel. Erstes Beispiel übrigens heute, wir verlassen den friedlichen aber ziemlich langweiligen Planeten Bogano und begeben uns nach Zeffo. Hier handelt es sich um einen eher rauen und ebenfalls scheinbar recht unterbewohnten Fleck in der Galaxie. Soweit ich das erkennen kann gab es hier einmal Siedler aber das hat sich auch erledigt. In direkter Nachbarschaft wohnten die Zeffo aber die sind nicht mehr. Wir haben übrigens noch nicht herausgefunden was eigentlich aus den Zeffo geworden ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #9
+
+* Titel: `Fallen Order - #9 - das verlassene Dorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da uns das Imperium im Nacken hängt und besagtes Imperium wahrscheinlich auf jeden Planeten existiert der auch nur ein wenig mehr Bevölkerung hat sehe ich nicht das wir im Rahmen des Spieles irgendwelche dicht bevölkerten Planeten zu Gesicht bekommen werden. Auf der anderen Seite weiß ich gar nicht ob es überhaupt noch andere Stadtplaneten gibt oder Orte die so halb besiedelt sind. Bis her gab es eigentlich immer nur die Extreme. Entweder es war extrem wenig Bevölkerung da oder es wird gleich 20 Stockwerke in die Höhe gebaut. Wie dem aber auch sei, heute sind wir definitiv bei dem Extrem das keine Sau hier herumläuft, niemand mit dem wir reden können. Schuld ist übrigens mal wieder das Imperium das hier anscheinend seine Interessen verfolgt. Wie dem aber auch sei, ich bin immer wieder aufs Neue verwirrt was genau die Siedler eigentlich hier machen. Sie breiten sich scheinbar nicht aus und so richtig Landwirtschaft oder überhaupt Industrie habe ich bisher auch noch nicht gesehen. Ich bin verwirrt. Was machen die Leute überhaupt hier?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```

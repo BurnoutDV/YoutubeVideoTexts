@@ -2374,6 +2374,34 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
 
+##### #1411
+
+* Titel: `Let's Play ESO #1411 - das Planetarium [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 59 des Markarth DLCs - Sitzung 8
+  
+  Es scheint das wir uns ziemlich schnell dem Ende nähern, aber noch is es nicht so weit, wir haben zwar Rada al-Sarans rechte oder vielleicht auch linke Hand besiegt, der alte Schwertmeister selbst ist aber nach wie vor am Leben und tut Dinge. Und wir wissen nicht einmal was er tut, wo er es tut oder wie er es tut. Er ist einfach weg, das schwarze Herz immer noch aktiv, das Ende allen Seins vielleicht immer noch am Horizont. Wir wissen es nicht, im ersten Moment sah es zwar so aus als wäre das Herz zu aktivieren Hauptplan gewesen aber es deutet alles daraufhin das da noch etwas kommt. Zum Glück gibt es eine Art Spur der wir nachgehen können. Die Riese ist noch nicht vorbei, auch wenn alles so aussieht. Die Zeit für Freude und Feiern ist noch nicht gekommen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1412
+
+* Titel: `Let's Play ESO #1412 - das Ende der Ewigkeit [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 60 des Markarth DLCs - Sitzung 8
+  
+  Vampire leben potenziell ewig, dafür haben sie das reale Risiko das ihre Seele nach ihrem Tot im Vollen und Ganzen Molag Bal gehört. Was der dann genau mit der Seele macht ist übrigens nicht so ganz klar. So wie es aussieht quält er die entsprechenden Existenzen aber ich verstehe ehrlich gesagt nicht so recht warum er das tun sollte. Letztendlich hat er doch investiert, oder aber er hat sich nur Diener zugesichert. Wie dem aber auch sei, Vampirismus ist in irgendeiner Hinsicht auch heilbar, zumindest so weit ich das verstanden habe. Ging in den anderen Spielen immer, aber das lag vielleicht auch daran das wir nie direkt mit Molag Bal verhandelt haben sondern implizit mit eingestiegen sind basierend auf den Handel eines Anderen. Da kommt man dann wohl leichter raus. Die Ewigkeit die den Vampiren droht ist auf jeden Fall weniger Erfreulich. Ich nehme mal an das es diese Ewigkeit ist auf die sich der Titel dieser Quest bezieht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

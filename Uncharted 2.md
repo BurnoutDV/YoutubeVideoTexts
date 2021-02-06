@@ -224,12 +224,28 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
-##### #Nummer
+##### #18
 
-* Titel: ``
+* Titel: `Uncharted 2 - #18 - Ahnenerbe Verlag [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir finden heute Dinge. Vor allen Dingen finden wir heraus das total überraschend unser guter Kumpel Schäfer Deutscher ist und anscheinend vor 80 Jahren mit der Waffel-SS hier erschienen ist. Wahrscheinlich auch mit dem In-World Äquivalent der Thule-Gemeinschaft, Riege, Orden oder wie auch immer. Irgendeine halb-okkulte Vereinigung wird es schon gewesen sein. Gesucht wurde wie immer die absolute Waffe, der Schlüssel zur Unsterblichkeit und natürlich die Abkürzung zum Endsieg. Was genau es diesmal sein darf ist nicht ganz klar aber alles was wir bisher gesehen haben deutet irgendwie daraufhin das es etwas in der Art tatsächlich gibt, zumindest wenn man den Erklärungen Schäfers glaubt. Dieser ist aber meiner Meinung nach kein vertrauenswürdiger Erzähler, letztendlich wissen wir ja woher er seine Informationen hat. Allerdings haben wir weiter noch die Berichte von Marco Polo und die zeichnen ein gewisses Bild das vermuten lässt das es vielleicht doch Gründe gibt zu verhindern das Lazerevic an den großen Edelstein kommt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #19
+
+* Titel: `Uncharted 2 - #19 - Angriffs aufs Dorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jeder beteiligten Person außer Nathan Drake selber war absolut klar das es nicht lange dauern konnte bis die Bösen aufgeholt haben und wieder auftauchen. Insbesondere aus Storygründen konnte es eigentlich gar nicht anders geschehen. Ich hätte mir natürlich gewünscht das es letztendlich ein wenig anders läuft aber natürlich geht es jetzt wieder los. Die endlosen Armeen eines ehemaligen Armeegenerals stürmen wieder auf uns zu und branden an der eisenharten Verteidigung die da Mr. Drake ist. Das und meine lauter werdenen Frustrationsschreie über das schlechte Spieldesign das dieses Spiel offensichtlich verfolgt. Wie dem aber auch sei, es blieben ein paar Fragen offen: Logistik, wie genau kriegt es der Mann hin soviele Einheiten irgendwie hier hoch zu mobilisieren, es ist ja nicht grade so das hier alle Straßen perfekt ausgebaut sind oder das es sich um super wegsames Gelände handelt. Zweitens: Wissen, woher wusste er das er genau in dieses Dorf gucken muss. Es ist ja nicht grade so das er gewusst haben kann wo Nathan Drake ist oder das se lange Spuren gegeben haben kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```

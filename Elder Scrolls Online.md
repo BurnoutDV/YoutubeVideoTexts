@@ -2402,6 +2402,20 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
 
+##### #1413
+
+* Titel: `Let's Play ESO #1413 - Spuren der Leere [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 61 des Markarth DLCs - Sitzung 8
+  
+  Wir wissen nicht viel über die Leere aber so langsam verdichten sich die Hinweise das sich im Gefilde zwischen Ätherius, den Ebenen von Oblivion und dem All dazwischen noch etwas passiert. Zwar nicht viel aber es ist scheinbar auch ein Ort an dem die Leere existiert. Wenn Molag Bal in der Lage ist Mundus in seine Welt zu ziehen dann müsste es logischerweise auch möglich sein den umgekehrten Prozess zu starten. Generell scheinen wir übrigens ein kleines Problem mit der Sprache zu haben. Weil eigentlich ist es ja nicht wirklich die Leere aus der Energie gezogen wird. Es handelt sich, zumindest so weit ich das sehen kann eher um ein nicht weiter beanspruchtes Reich das über ebenso freie Energie verfügt. Nur das diese Energie in der bekannten Welt halt als schwarzer Brocken wahrgenommen wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

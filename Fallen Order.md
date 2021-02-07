@@ -118,3 +118,26 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
+
+##### #10
+
+* Titel: `Fallen Order - #10 - Eisrutsche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zeffo scheint ein sehr kalter Planet zu sein, oder aber der Ort an dem wir uns grade befinden ist einfach nur für den Moment kalt, vielleicht sogar weil irgendwelche Stürme das Sonnenlicht blockieren. Es gibt Pflanzen auf dem Planeten, und da ich mal davon ausgehe das auch diese flüssiges Wasser als die Basis ihrer Existenz ansehen scheinen mir negative Temperaturen eher unpraktisch zu sein. Wie dem aber auch sei, wir rutschen heute mit Eis. Das macht Spaß, ist eine Form der körperlichen Ertüchtigung und allgemein recht spaßig. Weiter sehen wir mehr Spuren der Imperialen die sich hier schon seit einiger Zeit niedergelassen haben. Von den ursprünglichen Dorfbewohnern haben wir bisher nur Erinnerungen gesehen und ich bin wirklich unsicher ob die einfach alle in einem flachen Grab erschossen wurden oder ob das Imperium sie wirklich umgesiedelt hat. Da sie aber die Bösen sind ist es wohl eher Ersteres.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

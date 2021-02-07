@@ -249,3 +249,26 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
+
+##### #20
+
+* Titel: `Uncharted 2 - #20 - der Panzer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird endlich Zeit für die größte Frustration die ich bis jetzt in Uncharted 2 hatte. Rein von der Lautstärke war die Szene im Zugdepot wahrscheinlich schlimmer, aber von der Logik, Plausibilität und genereller Logik ist es hier noch wesentlich schlimmer. Wir kämpfen heute gegen einen Panzer. Ein Panzer! Wir befinden uns, das nur zur Erinnerung, immer noch in Nepal auf einem sehr hohen Berg, wahrscheinlich um die 4000 Meter, die Pfade die hierher führen sind allesamt schlecht, sehr eng und eine richtige, stabile Straßen finden wir hier vergebens. Und doch hat es Lazerevic irgendwie geschafft einen Panzer hoch zu karren. Nicht nur das, das Ding ist auch noch gewartet und verfügt über ausreichend Treibstoff. All das ist sehr erstaunlich wenn man bedenkt das er bis vor Kurzem noch gar nicht wusste das er soviel Ausrüstung auf einem Zug laden muss. Und selbst wenn der Panzer per Zug kam, der letzte Meter musste per Kette passiert sein. Und da es im gesamten Dorf nichts gibt das größer als eine Handkarre gibt..ich sehe nicht das das Dorf irgendwelche Zugänge hat die schweres Gerät zulassen. Der gesamte Panzereinsatz ist unendlich unplausibel. Und deswegen regt es mich auf.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

@@ -1089,6 +1089,30 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #86
+
+* Titel: `Cyberpunk 2077 - #86 - des Narrens Reise [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute tun wir irgendwelche Dinge, also eigentlich habe ich tatsächlich Off-Screen die verschiedenen Tarotkarten zusammengesucht. Eine etwas anstrengende Geschichte die ich euch an der Stelle einmal erspart habe weil sie wirklich nicht besonders spannend war. Und dann laufen wir halt noch so herum, reden mit Misty und tun sonstige Dinge. Alles in Allem passiert heute also leider nicht ganz soviel. Aber immerhin erleben wir kleinere Missionen für Fixer die wir eigentlich noch gar nicht so richtig kennen gelernt haben. Und für die erledigen wir irgendwelche Raffen, nicht weil ich das unbedingt wollte aber das Geld hat halt gestimmt. Und so macht sich die Närrin weiter auf und erkundet die Welt um ihre geringer Restzeit noch ausreichend zu nutzen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #87
+
+* Titel: `Cyberpunk 2077 - #87 - Besprechung im 19ten Stock [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ging nicht mehr  so richtig vorran im Leben der V., daher tun wir mal ein wenig etwas das uns am Ende der Chip nicht doch noch auffrisst. Das Leben ist zu kurz als das wir es uns wirklich leisten könnten einfach abzuwarten bis sich eine Gelegenheit zu neuen Reichtum ergibt. Daher treffen wir uns heute endlich einmal mit Takemura, der hat anscheinend einen Plan mit dessen Hilfe er es schaffen will weitere Hilfe für uns zu erhalten. Er selbst ist mehr an Rache interessiert aber nützlicherweise inkludiert das mehr oder weniger das gleiche Ziel, für den Moment. Ich bin mir übrigens immer noch nicht ganz sicher warum mir Hanako eigentlich helfen sollte. Klar, ich habe Beweise für das Tun ihres Bruders, aber so richtig überzeugt bin ich nicht das sie am Ende irgendetwas für mich tut. Weil letztendlich bin ich nur nützlich, die ganze Geschichte mit dem Relic klingt aber ziemlich anstrengend.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

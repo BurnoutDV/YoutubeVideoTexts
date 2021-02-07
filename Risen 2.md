@@ -678,6 +678,32 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #53
+
+* Titel: `Risen 2 - #53 - neue alte Schätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bevor es nun endlich mit dem guten Slayne losgeht erkunden wir noch ein bisschen das Gelände. Das heißt aber auch das wir wieder ordentlich viel Schnellreisen müssen. In Risen 2 bedeutet das aber leider das Ruck Zuck der Speicher überläuft und das Spiel mit ziemlicher Sicherheit abstürzen wird. Vielleicht sogar mehrfach. Mir ist übrigens nicht ganz klar ob das an meiner modernen Hardware liegt oder ob das Spiel schon damals diese Schwäche hatte. Wie dem aber auch sei, wir fahren ein wenig die verschiedenen Kisten ab die ich noch so im Gedächtnis habe. Einige von denen konnte ich bei meinem letzten Besuch nicht öffnen, aber jetzt sind wir ja zum Glück ein Meisterdieb und dadurch gibt es keine Truhe, keine Tür und keine Tasche die vor unserem Zugriff sicher ist. Es wird Zeit diesen großen Worte Taten folgen zu lassen und deswegen klappern wir jetzt noch die verschiedensten Orte ab. Für die Beute!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #54
+
+* Titel: `Risen 2 - #54 - Insel der Diebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich ist es Zeit, ich fühle mich, durch Erledigung aller Nebenaufgaben, endlich bereit den nächsten Schritt in meiner Beziehung mit Slayne zu machen, wir fahren gemeinsam auf die Insel der Diebe um dort großartige Dinge zu erleben. Es wird bestimmt spannend, einen Ehrenmann wie Slayne kann ich auf jeden Fall mein leben anvertrauen und ich kann mir nicht vorstellen das hier noch irgendetwas schief gehen mag. Wir fahren also zur Insel der Diebe, mein Steuermann weiß zum Glück auch wo diese Insel ist und hat absolut kein Problem damit den Ort zu finden. Jetzt müssen wir nur noch den Dolch finden und können mit diesem Bewaffnet dann ein Stück mehr Mara entgegen treten. Vorrausgesetzt wir finden die anderen beiden legendären Artefakte auch noch. Aber das wird ja wohl ein Leichtes sobald wir zwei Artefakte haben, die Macht darin sollte es uns ermöglichen. Wir müssen nur noch überlegen wie wir eigentlich Slayne los werden. Vielleicht ein kleiner Hinterhalt mit Sprengstoff und ein Messer in den Rücken?...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

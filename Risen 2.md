@@ -704,12 +704,28 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
-##### #Nummer
+##### #55
 
-* Titel: ``
+* Titel: `Risen 2 - #55 - gestrandet [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ganz überraschend stellt sich auf einmal heraus das unser bester Freund Slayne den wir eigentlich auch erst vor 5 Minuten kennen gelernt haben sich als nicht besonders vetrauenswürdig herausgestellt hat. Der Mann hat uns nämlich verraten. Das ist natürlich ziemlich ärgerlich, insbesondere weil der Verrat überhaupt nicht vorhersehbar war. Niemals hätte ich geahnt das Slayne der Pirat mit Mara im Bunde steht. Nun sind die Dinge aber wie sie sind und wir scheinen ziemlich alleine auf der Insel zu sein. Zum Glück habe ich ausreichend Pulver und Kugeln mitgenommen um zumindest das örtliche Wildleben in ausreichenden Maße zu dezimieren. Das sollte uns zumindest eine ruhige Nacht garantieren während wir darüber nachdenke wie es jetzt weiter geht. Außerdem hoffe ich das es irgendwo auf der Insel eine Frischwasserquelle gibt. Wenn nicht sieht es eher schlecht aus. Nächster Schritt wäre dann wohl ein Floß zu bauen, irgendwie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #56
+
+* Titel: `Risen 2 - #56 - Gnomendorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hurray. Es stellt sich doch glatt heraus das die  einsame Insel auf der wir gestrandet sind gar nicht so einsam ist. Stattdessen gibt es hier ein intelligentes Volk von Gnomen. Die waren ja schon auf Faranga mein absoluter Lieblingsgegner aber mit fällt so auf das es sich um ziemlich wenig Gnome handelt. Würde ich wirklich aufräumen wollen wäre das wahrscheinlich ein Leichtes für mich. Will ich aber gar nicht, stattdessen sieht es so aus als könnte ich hier eine gewisse Menge Karma ausüben und endlich einmal die Gnome bestehlen die mir in der Vergangenheit das Leben so schwer gemacht haben und mir meine Dinge weggenommen haben. Außerdem ist sogar einer der Gnome willens mir bei einer wichtigen Sache zu helfen, man möchte mir ein Floß bauen. Alles was ich dafür noch tun muss ist quasi alle Bestandteile des Floßes zu sammeln und eventuell auch den Ein oder Anderen Gegenstand eintauschen. Aber alles zu seiner Zeit. Wir schaffen das schon, immerhin gastfreundlich sind se ja die Gnome.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```

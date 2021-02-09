@@ -2416,6 +2416,34 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
 
+##### #1414
+
+* Titel: `Let's Play ESO #1414 - das Repositorium [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 62 des Markarth DLCs - Sitzung 8
+  
+  Ich bin ein wenig überrascht aber anscheinend sieht es so aus als würden wir auf eine Art Schatzsuche gehen. So wie es für mich aussieht will die Story sich jetzt noch schnell über wenige Minuten selber lösen. Das ist ein wenig irritierend wenn ich ehrlich bin. Die ganze Geschichte mit dem schwarzen Herzen und Rada al-Saran sieht mir eigentlich ziemlich solide aus um es zu ermöglichen einen Gegner zu einem späteren Zeitpunkt wieder herauszuholen ohne das wir diesen direkt besiegen müssen. Der Plan von Rada sollte ja eigentlich vereitelt sein aber so wie es jetzt scheint kommt da ja noch was. Wir begeben uns also zur ersten Haltestelle auf der Schnitzeljagt die eigentlich für Verandis gebaut wurde. Ich bin jetzt schon gespannt was wir alles sehen werden. Oder vielleicht habe ich doch Angst? Wir werden sehen, eventuell bestätigen sich auch einige meiner Theorien.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1415
+
+* Titel: `Let's Play ESO #1415 - Nachttiefen Archiv [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 63 des Markarth DLCs - Sitzung 8
+  
+  Und hier haben wir den zweiten Teil der Schnitzeljagt. Wir sollen immer noch heraus finden was es eigentlich mit den Plänen von Rada al-Saran auf sich hat und nach und nach sieht es hier so aus als würden wir viel zu viel erfahren. Vielleicht ist es gut das Verandis nicht diese Reise macht, auf der anderen Seite sehen die Indizien irgendwie so aus als das gar nicht der Plan von Rada war. Zumindest gibt es eine große Anzahl an Erinnerungen die Verandis eigentlich selber haben sollte ohne das es dazu direkt die Benutzung eines Erinnerungssteines braucht, aber vielleicht dient es auch nur das den guten Verandis entsprechenden zu manipulieren. Erfahren werde ich es wohl so schnell nicht weil der ist halt hier. Auf der anderen Seite ist es scheinbar möglich mit den Informationen die wir erhalten haben die Schritte nach zu vollziehen. Sollte der gute Herr al-Saran in seinem letzten Versuch Graf Verandis Rabenwacht zu überzeugen einen solchen Fehler begangen haben? Warum überhaupt Verandis unbedingt überzeugen? Rätselhaft.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -263,6 +263,32 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #21
+
+* Titel: `Uncharted 2 - #21 - das Kloster [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir auch schon wieder, die Verfolgungsjagt die zwischendurch stattgefunden hat war gar nicht einmal so depremierend und anstrengend wie ich gedacht habe und deshalb stehen wir jetzt vor einem Kloster. Ich bin mir nicht ganz sicher aber ich denke mal das ist der Ort den wir unten in der Tempelstadt gesehen haben. Der Ort an dem der geheime Zugang zu Shangri-La existieren soll. Wie auch immer das eigentlich funktionieren soll. Für den Moment rechne ich aber mit einem unterirdischen Tal das irgendwie Sonnenlicht durch eine Menge Edelsteine bekommt. Auffällig übrigens an diesen ganzen Orten ist das sie in einem Zustand des Zerfalls anzutreffen sind. Nicht vollkommen vernichtet, keine Ruinen oder nur noch Schutt sondern Dingen die durchaus noch rettbar sind. Wäre Nathan Drake Archäologe würde jetzt die Frage aufkommen wann genau die Bewohner diesen Ortes aufgegeben haben. Wann ist die Zivilisation untergegangen? Wir wissen es nicht und Nathan stellt sich diese Frage auch nicht. Wir müssen nur Lazerevic aufhalten, warum auch immer.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #22
+
+* Titel: `Uncharted 2 - #22 - morsche Türme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder. Ich rege mich auf. Ich würde das Ganze wirklich ruhig angehen und ich kann verstehen wenn man irgendwann einfach abschaltet. Warum ich mir das weiter antue weiß ich nicht so  recht. Aber ich glaube das Hauptproblem was ich bisher identifiziert habe ist das die meisten Gegner die wir treffen keinerlei Finesse besitzen. Neben der Tatsache das sie stumpf hinter mir spawnen ohne das es dafür irgendeinen guten Grund gibt halten sie auch unendlich viel aus. Das ist einfach nicht glaubwürdig. Aber das Verhalten aller Gegner ist sowieso gleich, sie rennen stumpf auf uns zu und können sich dabei auf ihre unsterbliche Rüstung verlassen. Ich würde behaupten das neben der Steuerung die mir die Fähigkeit nimmt schnelle Handlungen präzise durchzuführen setzt mich insbesondere die Mechanik der One-Shot Gegner unter Druck aber auch das das Spiel Schwierigkeit durch Masse kompensiert anstatt weniger viele Feinde aber dafür Bessere zu bieten. Nicht nur ist es absolut unglaublich wie viele Männer Lazerevic hat, auch die Tatsache das in der Truppe nach all den Toten überhaupt noch wer freiwillig kämpfen will ist absolut unglaubwürdig. Und dann noch natürlich die Logistik. Wo zur Hölle sollen all die Leute bitte her kommen? Luxembourg wäre bereits entvölkert. Und noch viel wichtiger, wie?! Enge Bergstraßen, eiskalte Winde, dünne Luft.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

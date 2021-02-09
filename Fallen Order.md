@@ -132,6 +132,33 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #11
+
+* Titel: `Fallen Order - #11 - Projekt Bohrer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fallen Order ist so ein Spiel das großartige Bilder produziert. Ich wünschte mir es gebe ein Modus mit dem ich eine Momentaufnahme in fünfacher Auflösung oder so speichern könnte um die entsprechenden Screenshots später zu verwenden. Oder ein Fotomodus, obwohl ich den natürlich nicht wirklich einsetzen kann weil ich ja aufnehme. Aber dennoch, wenn ich diese Beschreibungen hier schreibe sehe ich immer die Standardthumbnails die mir Youtube vorschlägt und hier sehen diese teilweise fantastisch aus. Wenn man dann heran zoomen würde würde die ganze Geschichte vielleicht noch einmal anders aussehen, aber so für den Moment sind die Bilder die ich sehe gute Grundlage für irgendwelche Wallpaper, auch wenn die Komposition vielleicht nicht immer ganz korrekt ist. Ach so, und wir erfahren heute über Projekt Bohrer, warum das so heißt weiß ich nicht aber anscheinend ist das der Name für die Ausgrabungen des Imperiums, soweit ich das sehen kann hat das aber nur so halb geklappt und deswegen gibt es jetzt hier nur noch eine kleine Garnison, darüber kann ich mich dann wohl glücklich schätzen nehme ich an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #12
+
+* Titel: `Fallen Order - #12 - starke Winde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich mit Unendlichkeit oder zumindest sehr langer Zeit was für Menschen wahrscheinlich das Gleiche ist, beschäftigt kommt es zu Sinnkrisen. Problem Nummer 1: Was wenn mir die Dinge ausgehen die ich tun kann? Wenn ich keine Nachfahren habe denen ich etwas beibringe und selbst ewig andauere, was mache ich die ganze Zeit? Als Individuum sind solche Fragen noch relativ leicht zu beantworten, für die ersten paar Millionen Jahren gibt es bestimmt etwas zu tun. Aber was ist mit Zivilisationen. Nehmen wir an man zähmt die Sonne, baut seine Dyson Sphäre und dann? Oder man kommt gar nicht soweit erreicht aber trotzdem irgendwie ein Gleichgewicht das nicht dafür sorgt das man einfach so zu Grunde geht. Was macht ein Volk das alles erreicht hat? Solche Fragen kommen auch gerne beim Stellaris spielen auf. Da gibt es dann Völker die seit Jahrmillionen existieren. Oder man findet die Spuren von Aliens die seit hundertausenden Jahren einen Orbit umkreisen, konservierte Leichen einer lange vergangenen Zivilisation. Außer den Überresten aber keine Spuren. Was geschah damals? Gibt es irgendwo eine andere Alienwelt die Aufzeichnungen über die Aliens hat die Aufzeichnung zu den Aliens hat die wir gefunden haben? 
+  Und das bringt uns zurück zu den Zeffo. Es gibt sie nicht mehr, ihre Hauptwelt sieht ziemlich unberührt aus. Sie haben gewaltige Anlagen und Roboter geschaffen die heute noch funktionieren. Wir dürfen also davon ausgehen das ihre Technik gut war, warum existieren sie nicht mehr? Sind sie fortgegangen? Hat sie jemand ausgelöscht aber nicht alle Spuren mitgenommen? Sie kannten die Macht, sind sie alle zu Geistern geworden und haben sich von der materiellen Welt getrennt? Wir werden es wohl nicht erfahren und Karl interessiert es auch nicht, und doch, und doch macht es mich neugierig. Was wir aber wissen, die Zeffo hatten ein Ding mit den Winden bzw. mit starken Luftströmen. Erstaunlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

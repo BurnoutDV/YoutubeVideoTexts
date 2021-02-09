@@ -1113,6 +1113,42 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #88
+
+* Titel: `Cyberpunk 2077 - #88 - Bakeneko [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe meine V. mehr und mehr zu einer Expertin für Infiltration und geheime Einsätze werden lassen. Ein Geld in der Welt der Söldner und Konzerne. Rein logisch gesehen scheint das die beste Möglichkeit zu sein lange seinen Job auszuüben, wenn man direkte Konfrontationen vermeidet und niemand weiß das man überhaupt da war. Das bringt allerdings zwei Probleme mit sich: wenn es plötzlich nicht mehr ganz so still verläuft und es heißt die Waffen zu ziehen könnten man ein wenig nackt und unvorbereitet da stehen. Alternativ gibt es dann auch noch Probleme mit der Akquirierung neuer Aufträge, wenn niemand weiß das man Dinge getan hat könnte es eventuell ein wenig schwer sein sich eine Reputation aufzubauen. Oder auch nur langsamer. Irgendwann wird man dann auch zur Legende, jeder weiß das man große Dinger durchgezogen hat aber niemand weiß WAS man getan hat. Was das erste Problem angeht, wahrscheinlich müssen wir einfach nur zwei Schritte vor raus sein, dann werden wir auch nicht überrascht. Das setzt aber weiträumige Beobachtung vor raus. Und damit sind wir beim Thema der heutigen Episode. Beobachtung, das und eine Katze. Was auch immer die zu bedeuten haben.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #89
+
+* Titel: `Cyberpunk 2077 - #89 - sicheres Einklinken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte ja bereits das V. absolute Expertin im Handwerk der Infiltration ist. Mir fällt aber grade ein kleiner Fehler in meinem Kunsthandwerk auf. Irgendwann werden die Leute wieder aufwachen. Das ist spielerisch für mein Fortkommen ziemlich egal und wenn ich so an Agent 47 denke ist es auch nicht so wichtig. Aber für meinen konkreten Auftrag ist das doch schon wieder ziemlich relevant. Unser Ziel ist Hanako Arasaka, die wahrscheinlich zweitwichtigste Person die wir überhaupt in Night City wenn nicht sogar auf der ganzen Welt finden können. Problematisch ist jetzt also das, selbst wenn wir nur eine Kamera gehackt, nur eine Wache gewürgt haben, das fällt doch auf? Klar, Goro will für eine Abwechslung sorgen aber ich bin doch ziemlich besorgt was die Gesamtoperation angeht. Weil eigentlich müsste ich wie ein Geist in die Halle eindringen, mich einklinken, meinen Hack dort lassen und dann wieder verschwinden. Ohne gesehen zu werden, wie ein Geist, ohne das jemals jemand weiß das ich dort war. Tatsache ist aber das ich schon ziemlich viele Leute gewürgt habe. Das ist doch eher unschön oder? Unsauber fast. Soviel zum Thema Expertin der Infiltration.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #90
+
+* Titel: `Cyberpunk 2077 - #90 - Dashi-Parade [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir nicht ganz sicher wie es dazu kam das im Genre des Cyberpunk Japan immer die große Wirtschaftsmacht ist aber ich glaube, und das ist ein großes GLAUBE, das es daran lag das es ursprünglich aus den 80er kam und das damals vor der relativ großen Wirtschaftskrise war die Japan später traf. Weiter war in den frühen 80er Jahren noch nicht absehbar das China eine gewaltige Wirtschaftsmacht wird die prinzipiell das Produktionszentrum der gesamten Welt darstellt. Vielleicht wird Japan auch als besonders stabil angesehen oder aber es gab damals schon Leute die den asiatischen Einfluss mit Geschmacksrichtung Japan besser fanden als die thailändische, vietnamesische oder chinesische Interpretation. Wie dem aber auch sei, in Cyberpunk 2077 werden die Chinesen zumindest etwas berücksichtig allerdings geht es heute um Japan. Arasak ist eine japanische Firma, die mögen andere Kulturen traditionell nicht so aber für den Moment ist das auch egal, heute geht es eh um die Dashi Parade, anscheinend ein großes Event. Die Sicherheit für ein Event dieser Qualität scheint übrigens ziemlich mies zu sein möchte ich feststellen. Immerhin kommen wir ein wenig rum.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

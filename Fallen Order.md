@@ -159,6 +159,84 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #13
+
+* Titel: `Fallen Order - #13 - Eigenleben von Bällen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neue Kräfte bedeuten auch neue Rätsel die wir mit der Macht eben dieser Kraft bewältigen können. Die gute Nachricht ist das wir außerhalb von Kämpfen unsere Macht so oft nutzen können wie wir wollen. Es gibt andere Spiele die die normalen Limitierungen nicht aufheben bzw. halt so Mana-Brunnen aufstellen. Das wäre aber in diesem Fall extrem nervig weil wir schon ziemlich viele Versuche brauchen bis alles klappt. Das Schöne und auch Schlechte hier ist aber auch das die Rätsel unscharf funktionieren. Die Kugeln um die es geht rasten zwar ein wenn sie erst einmal am Zielort sind aber es ist nicht so das wir sie nur auf engen Bahnen bewegen können. Viel mehr ist es so das sie sich frei bewegen. Das bedeuten das wir auch eine Menge Schabernack damit anstellen können, unter Umständen läuft es aber auch so das wir Dinge unternehmen können die vom Spiel vielleicht gar nicht vorgesehen waren. Die Hoffnung besteht jedenfalls. Und ich mag es solche Lösungen zu verwenden, solche die die normale Logik überbrücken. Oder wenn sie sich nur so anfühlen. Das ist quasi das Gleiche.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #14
+
+* Titel: `Fallen Order - #14 - Zeffos Statuen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich gibt es nur eine Statue auf Zeffo und die wurde schon ziemlich ausgehöhlt. Ich bin mir übrigens nicht so ganz sicher was die ganze Geschichte eigentlich sollte. Wenn es darum ging irgendetwas unter der Statue oder darin zu finden hätte man sie auch gleich platt machen können. Wenn man etwas verstecken wollte dann hat man sich nicht besonders viel Mühe gegeben. Wenn man billige Deckung gewollt hätte dann hätte man wohl weniger Material gebraucht. Wie dem aber auch sei, freuen wir uns einfach das dieses Stück Kultur noch da ist und nicht der Gier des Imperiums zum Opfer gefallen ist. Man stelle sich vor dem wäre so, wir hätte die Statue nie gesehen und damit eines der letzten Spuren der Zeffo. ich bin übrigens wirklich gespannt ob wir am Ende herausfinden was passiert ist. Aktuell würde ich sagen die dümmste Erklärung wäre eine Seuche oder ein plötzlicher Krieg der keine Spuren zu ließ, die wahrscheinlichste Erklärung das das gesamte Volk zu Macht-Geistern geworden ist und in der "nächsten" Welt weiter gemacht hat. Wo auch immer das ist. Oder sie haben alle rituellen Selbstmord begangen weil ihnen die Macht gesagt hat das nur im Tod Frieden zu finden ist, das wäre aber ein wenig depremierend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #15
+
+* Titel: `Fallen Order - #15 - Abwracksee [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind soweit es aussieht wohl durch mit allen Orten die wir auf Zeffo erreichen können, zumindest möchte ich das darauf basierend behaupten als das wir eigentlich haben was wir wollten, den nächsten Hinweis bzw. unser nächstes Reiseziel kennen und uns jetzt so fühlen als könnten wir einen weiteren Planeten anschauen. Offensichtlich sind wir aber noch nicht bereit weil es da noch eine imperiale Basis gibt die ich zumindest gerne einmal erkunden möchte. Übrigens bin ich immer wieder beeindruckt wie das Imperium nicht einmal den Versuch startet ihre Basen so aussehen zu lassen als wären sie die Guten. Gäbe es hier weniger schwarze Wände und wäre alles ein wenig freundlicher könnte man glatt glauben es handle sich zwar immer noch um eine Militärbasis aber das hier die Guten sitzen. Naja, zumindest ist die Absicht so ganz klar. Besagt Basis hat übrigens auch einen Hinterausgang und dort finden wir den lokalen Schrottplatz. Ich denke mal das war was die ursprünglichen Bewohner des Dorfes unten die ganze Zeit gemacht haben, Schiffe zerlegt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #16
+
+* Titel: `Fallen Order - #16 - Sackgasse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erleben heute einen Übergang. Mit Episode 15 endete die letzte Sitzung und jetzt ist es mental für mich eine Woche später. Logischerweise habe ich natürlich alles vergessen was ich beim letzten Mal gemacht habe, erinnere mich nur noch grob an die Tastenbelegung und welche Fähigkeiten ich besitze weiß ich selbstverständlich auch nicht mehr. Perfekte Vorraussetzungen also um in einer Sackgasse zu enden. Und genau in die renne ich heute. Insbesondere praktisch ist dann auch wenn man nicht vollständig vergessen hat was man tat und die Erinnerung die man hatte schön ungenau ist und einen daher in die Irre führt. Ich klappere heute also jede Richtung ab die mir so einfällt nur um dann zu bemerken das jede Richtung falsch ist die ich vor habe und dann festzustellen das es noch eine Richtung mehr gibt die ich gehen kann. Die gute Nachricht ist aber das ich in der Lage bin die Karte zu lesen und daher den Weg in nur kurzer Zeit finde. Schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #17
+
+* Titel: `Fallen Order - #17 - Eishöhlen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das es auf einen Planeten mit ziemlich kalten Winden, kaum vorhandener Vegetation und allgemeiner Abwesenheit von Zivilisation auch noch eine Menge Eis gibt. Irgendwo muss es übrigens auch noch einige Pflanzen geben die die ganzen Pflanzenfresser versorgen kann die die großen Raubtiere die wir andauernd treffen versorgen, es ist schließlich alles ein Kreis des Lebens. Wie dem aber auch sei, unser Protagonist Karl hat die Eishöhlen unter Zeffo nicht selbst entdeckt sondern das Imperium war zu erst da. Die haben auch hier unten gebohrt, wahrscheinlich auf der Suche nach irgendetwas. So richtig wissen wir das eigentlich auch nicht, bis her haben wir ja selbst außer dem Zeffo Tempel nicht wirklich etwas entdeckt. Und eigentlich sollte es für die Sith die das Imperium anführen keine echten Hinweise in den Höhlen geben die sie auf den Pfad geführt hätte den wir beschreiten. An sich ist das was wir tun ja auch vö llig anders als was der Imperator sucht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #18
+
+* Titel: `Fallen Order - #18 - Startschwierigkeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte es ja bereits in der Vergangenheit aber da das ja schon wieder ein Stück her ist möchte ich gerne noch einmal daran erinnern, wir wollen Zeffo eigentlich verlassen weil alles was wir hier vorhatten schon getan ist. Wir haben die Spuren die wir gesucht haben gefunden und sogar einige Geheimnisse der alten Zeffo konnten wir auf dem Weg nach Draußen mitnehmen. Wenn man so will haben wir eine krasse Planübererfüllung von 300%. Nicht nur das wir Tagebucheinträge freigeschalten haben, nein, auch war es uns möglich eine Verbindung zur Macht aufzubauen und gleichzeitig Machtquellen innerhalb des Zeffo Tempels aufzutreiben. So oder so, heute scheitert es nicht mehr daran das ich bzw. Karl den Weg nicht findet sondern das das Imperium seinen einzigen AT-ST gegen uns einsetzt, und ein unbewaffnetes Transportschiff am Boden kann da nicht viel tun. Gut das wir ein Laserschwert haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

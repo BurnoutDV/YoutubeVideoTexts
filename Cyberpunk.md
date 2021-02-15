@@ -1149,6 +1149,78 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #91
+
+* Titel: `Cyberpunk 2077 - #91 - Sandayu Oda [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich finde es ja immer wieder schön wenn man seine Feinde mit Namen kennt und bereits weiß was auf einen zukommt. In diesen Fall handelt es sich um Oda. Wir wussten das wir gegen Oda kämpfen werden, der Mann hat sich ja praktisch schon angekündigt und meine Hoffnung das ich irgendwelche Scharfschützen ausschalten kann ohne das es irgendwer merkt war eigentlich von Anfang an null. Etwas dreist finde ich aber das ich eigentlich keine Möglichkeiten habe außer auf den Mann zu schießen. Ich hätte es sehr bevorzugt wenn es hier eine andere Herangehensweise gegeben hätte. So wie die Dinge also steht bleibt nichts Anderes übrigen als mit ungeeigneten Waffen auf den Feind einzugehen. Das wird noch einmal ärgerlicher weil wir keine vollautomatische Waffe haben die einfach grade aus schießt. Smart-Waffen ohne Smart zu verwendet ist scheinbar nicht möglich. Sehr bedauerlich.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #92
+
+* Titel: `Cyberpunk 2077 - #92 - Vine Street, Zimmer 303 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Schicksalsmoment und es gibt Schicksalsorte. Die Vine Street ist ein solcher Ort. Wir sollen hier Takemura treffe der unlängst die Tochter des verstorbenen Arasaka Imperators entführte hat. Dort will er sie wahrscheinlich über die Machenschaften ihres Bruders aufklären. Ich persönlich bin mir übrigens noch unsicher ob das überhaupt etwas bringen soll. Hanako selbst hat ihren Bruder schließlich in der Vergangenheit mehrfach vor ihrem Vater gerettet, daher bin ich mir gar nicht so sicher ob die Gute nicht einfach mitspielt und ihren Bruder machen lässt solange sie selbst schön außerhalb des Rampenlichts steht. Wie dem aber auch sei, wir treffen uns hier im Zimmer 303 und es wird bestimmt absolut berauschend. Ich nehme übrigens mal an das es sich um die Bude von Takemura handelt, den Ort den er benutzt hat während wir auf Tour waren. Wie dem aber auch sei, das eine so wichtige Person wie Hanako ungesehen eintreten konnte und über keinerlei Trackinghardware verfügt erscheint mir unwahrscheinlich. Wir sind ziemlich sicher am Arsch.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #93
+
+* Titel: `Cyberpunk 2077 - #93 - Wakakos Liebling [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt eine ganze Reihe von Fixern deren Dienste wir von Zeit zu Zeit immer wieder annehmen, eine der wir aktuell am meisten zugearbeitet haben ist Wakako, aber es stellt sich heraus das die Gute auch noch anderes Personal hat das ihr ein wenig persönlicher geht, Leute die nicht nur in einer Art Freelancerposition sind sondern dauerhaft für die Fixerin aus Japantown arbeiten. Interessant ist übrigens auch das viele Aufträge von ihr gegen die Tyger Claws gehen obwohl doch eigentlich ihr Hintergrund darin bestand diverse Claws Bosse bzw. mittleres Management als Mann gehabt zu haben. Aber eventuell ist das auch der  Grund warum sie die Claws nicht so sehr mag. Wie dem aber auch sei, der benannte Liebling ist in Gefahr und deswegen retten wir ihn heute. Ach, und wir treffen Brendan, eine wirklich sehr nette nicht-Person.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #94
+
+* Titel: `Cyberpunk 2077 - #94 - die Exfreundin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Leben ist ziemlich begrenzt, bald werden wir wohl sterben, das liegt übrigens nicht nur an dem Chip in unserem Kopf der zwar ein hartes Zeitlimit auf all die Dinge setzt, aber wenn man so will war unsere Zeit schon immer ziemlich begrenzt, soweit ich das verstanden habe haben Solos bzw. Söldner im Allgemeinen nicht die längste Lebensdauer, es überrascht mich daher ein wenig das über die ganze Krankheitsgeschichte eigentlich so ein riesen Ding gemacht wird. Wie dem aber auch sei, die restliche Zeit die wir noch haben verbringen wir auch damit Leute kennen zu lernen und den Kurs der Welt vielleicht um ein paar Bruchteile eines Grades zu ändern, je nachdem wie erfolgreich wir wirklich sind. In der Praxis lernen wir dann heute Judys Exfreundin kennen, da gab es wohl ein Karrierebasierten Konflikt zwischen Judy und ihr. Wir sind natürlich nicht einfach nur so da sondern weil wir einen konkreten Grund haben, namentlich weil wir das Clouds stürmen, alle Tyger Claws erschießen und unter Umständen auch noch den Holzmann um die Ecke bringen wollen. Das kann man natürlich nicht machen wenn man keine Exit Strategie hat, Maiko ist diese Strategie.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #95
+
+* Titel: `Cyberpunk 2077 - #95 - 8ug8ear [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich freue mich übrigens wirklich darüber Charaktere zu treffen von denen wir vorher nur gelesen haben. Zum Beispiel Bugbear bzw. 8ug8ear was eine sehr anstrengende Art und Weise ist einen Namen nieder zu schreiben. Stellt sich heraus das die Person eine Frau mit blonden Haaren, Mitte Zwanzig ist. Ich weiß nicht warum mich das Ganze so enttäuscht aber ich hätte irgendwie eine ältere Person erwartet. Auf der anderen Seite werden die meisten Söldner ja nicht wirklich alt, warum sollte es bei Netrunnern anders sein. Daher hätte ich wohl erwarten sollen das die Legenden dieser Tage doch eher jung sind. Alle Leute die alt sind liegen entweder im Grab oder haben es nie zu irgendetwas gebracht..oder aber hatten unfassbares Glück. Gehen wir einfach einmal davon aus das die ständige Anwesenheit von Netwatch und anderen Aktoren es eher unwahrscheinlich macht das man als Netrunner alt wird.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #96
+
+* Titel: `Cyberpunk 2077 - #96 - Elisabeth Wissenfurth [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode erwähnte ich ja wie interessant es doch eigentlich ist wenn man Personen kennen lernt die man eigentlich nur aus dem Fernsehen oder irgendwelchen Aufzeichnungen kennt. Cyberpunk simuliert das übrigens ganz gut, streng genommen ist es aber auch nicht überraschend das V. irgendwelche Leute kennen lernt. Schließlich sind wir wer. Im Gegensatz zum häufigen Alter Ego in der Realität (ist es dann noch ein Alter Ego? Eher das Original Ego.) Ich persönlich treibe mich auch selten irgendwo rum wo mir irgendwelche A bis F Promis über den Weg laufen könnten und selbst wenn würde ich sie wahrscheinlich nicht erkennen. Mein Personengedächtnis ist unfassbar schlecht, die Chance sind also gut das ich einfach an Berühmtheiten vorbei laufen würde. Das passiert mir dann übrigens auch heute mit unserem Auftragsgeber, durchaus eine sehr bekannte Person aber leider entgeht mir beim ersten Blick leider um wen es sich handelt. Bedauerlich.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -729,3 +729,78 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
+
+##### #57
+
+* Titel: `Risen 2 - #58 - Floßbau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man von einer Insel weg möchte und keine Lust hat tausende von Bäume zu fällen, ein Trockendock zu errichten (oder das nervige Zeug mit den runden Baumstämmen zum Rollen) und zum Zimmermann Level 100 währenddessen will gibt es eigentlich nur noch eine andere Lösung: ein Floß bauen. Es stellt sich aber heraus das wir unsere Zimmermann und Floßbau Fähigkeiten gar nicht gelevelt haben und deswegen können wir nicht einmal einen Baumstamm zu Wasser lassen. Zum Glück kann man mit Geld Dienste und Waren Einkaufen und dieses Problem umgehen. In diesem Fall bezahlen wir zwar Dienste mit anderen Diensten und die Ware bringen wir selbst aber das grundlegende Prinzip ist irgendwie das Gleiche oder? Wie dem aber auch sei, unser neuer bester Freund Jafar führt uns anscheinend über die Meere. Mir ist übrigens nicht ganz klar ob sein Volk das immer so macht oder ob die Gnome sonst irgendwie mit fahren wenn mal wieder Schmuggler auf der Insel sind. Wie dem auch sei, wir setzen heute Hemden, zurück nach Takarigua.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #58
+
+* Titel: `Risen 2 - #59 - Zivilisation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder zurück auf Takarigua. Es kann doch manchmal so leicht sein wieder zurück in die Zivilisation zu finden. Helfen tut hier auf jeden Fall die Tatsache das es keinen Mangel an bewohnten Inseln gibt. Generell frage ich mich aber wirklich was die ehemalige Regierung und die Inquisition in den letzten Jahrtausenden gemacht hat. Offensichtlich gab es Piraten die Orte wie Antigua bereits mit großem Materialaufwand besiedelt haben, sogar ein herrschaftliches Haus wurde dort errichtet. Und doch hat man quasi nur eine kleine Außenstelle auf Takarigua und sein neuster Zeit auch einen weiteren Brückenkopf an der Schwertküste. Arborea scheint ansonsten all die Jahre komplett ignoriert worden zu sein. Wenn ich mich recht erinnere ist die historische Zeit der Piraten eigentlich auch recht kurz gewesen, eventuell befinden wir uns grade in einer Zeit des Aufbruchs und ich schätze die Geschichte hier falsch ein, und doch bin ich sehr verwundert das ein Ort wie die Insel der Diebe nicht schon einen imperialen Wachturm oder so hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #59
+
+* Titel: `Risen 2 - #60 - Duell mit Slayne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kapitän Slayne hat uns betrogen, verraten und benutzt. Das fühlt sich schon ein wenig dreckig an, aber ich muss sagen das es nicht das Schlimmste was ich mir vorstellen kann. Alles ist irgendwie eine Sache der Perspektive. Slayne mag vielleicht denken wir sind sein Nemesis, sein Erzfeind und großer Verfolger, für mich, den namenlosen Helden der bestimmt ein Name hat. Dem kleinen Helden. Für mich ist Slayne nur ein kleines Licht, es ist bereits vorher klar wie das Duell ausgehen wird, schon weil ich die quasi göttliche Fähigkeit des Quicksaves habe aber dennoch möchte ich anmerken das Slayne selbst wenn er ein kompetenter Gegner anstatt nur "komponent" zu sein nie eine Chance gehabt hätte . So wie die Dinge aber stehen kann ich den Mann nicht einmal als Feind respektieren, seine Falle war idiotisch, seine Lügen durchschaubar und sein magischer Dolch ist nun mein. Immerhin bleiben wir damit wohl dem Piratenkodex treu, jeder der versucht mich zu betrügen kriegt die Spitze meines Säbels zu spüren, oder meiner Flinte, quasi das Gleiche. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #61
+
+* Titel: `Risen 2 - #61 - namenloser Anwerber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der namenlose Held ist ein beliebter Typ. Generell ist er aufgrund seiner Injektion in der Geschichte ein wenig eine Mary Sue. Ein Typ der alles kann, die Frauen fliegen auf ihn, andere Kerle finden ihn schon ziemlich cool und generell kommt er eigentlich aus jeder Situation als Gewinner heraus. Wer sonst kann von sich behaupten das er ein ganzes Schiff unter dem Hinter der Inquisition gestohlen hat. Oder den Feuertitan und den bösen Inquisitor Mendoza alleine besiegt zu haben. Ja unser namenloser Held ist schon ein ziemlicher Pfundskerl und für sich bereits eine Armee. Alles in Allem also quasi ein goldenes Vorbild für die Anwerbung bei der Inquisition. Da gibt es vielleicht diese kleine Geschichte mit der unehrenhaften Entlassung aber davon einmal abgesehen stehen wir doch eigentlich ziemlich gut da. Das und das verlorene Auge, das war in der Tat ein wenig unpraktisch, erhöht in der Praxis unseren Sexappeal aber nur noch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #62
+
+* Titel: `Risen 2 - #62 - das Hotel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich Caldera ein wenig näher anschaut dann erkennt man das eigentlich absolut nichts mehr von der Stadt oder dem Land übrig geblieben ist. Es ist schon ein wenig seltsam das der Schutz des Kristalls der Kristallfestung so trennscharf den Rest der Landschaft dem Verfall anheim fallen lässt. Wie dem aber auch sei, überlebt haben offensichtlich zwei Häuser von ziemlich reichen Leuten, der hohe Rat und ein Hotel. Das ist an und für sich ein enormer Glücksfall für all die Leute die tatsächlich noch ein Dach über dem Kopf haben, ich frage mich aber wie es überhaupt sein kann das die adeligen Herren überhaupt noch in ihren Hütten schlafen wenn alle anderen draußen rumliegen. Wie dem aber auch sei, heute beschäftigen wir uns dann auch nur mit dem Hotel, das hat übrigens ganze 4 Einzelzimmer und ansonsten scheinbar gar nichts. Irgendwo unten liegen noch ein paar Leute der Inquisition aber ich hätte eigentlich angenommen das in einer mittelalterlichen Welt Hotels bzw. Herbergen auch Gemeinschaftszimmer haben. Übrigens treffen wir heute einen Experten für das Voodoo. Hochinteressant. Leider hat er keine Rezepte im Angebot.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

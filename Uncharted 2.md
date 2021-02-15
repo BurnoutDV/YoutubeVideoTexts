@@ -289,6 +289,84 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #23
+
+* Titel: `Uncharted 2 - #23 - die letzten Meter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kann nicht mehr weit sein. Vor uns ist schon das große Kloster und darin findet sich dann wahrscheinlich der Zugang zum Shintamani Stein und damit anscheinend auch die Möglichkeit die ganze Welt zu beherrschen. An sich müssen wir aber nicht viel machen außer zu verhindern das es soweit kommt. Dafür reicht es bereits wenn wir den heiligen Dolch der scheinbar der Schlüssel für alles ist an uns bringen. Das kann ja eigentlich nicht so schwer sein, wenn es dann soweit ist müssen wir nur noch abdrehen und die Welt hinter uns lassen. Bzw. Tibet, es ist absolut nicht notwendig Lazerevic oder irgendwelche seiner Handlanger zu belästigen sobald wir erst einmal so weit sind. Das würde nämlich auch die Möglichkeit mit sich bringen das wir böse verletzt werden oder andere doofe Dinge passieren. Und generell, unser Ziel ist es zu verhindern das Lazerevic erreicht was er will, nicht das wir die legendäre Stadt entdecken, insbesondere weil wir das auch einfach nächstes Jahr oder wann auch immer machen können. Irgendwann gibt der Mann auf, insbesondere wenn der Schlüssel fehlt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #24
+
+* Titel: `Uncharted 2 - #24 - Nathans Glaube [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nathan Drake ist ein Dieb, Bandit, Räuber vielleicht sogar Mörder, auch wenn es aktuell so aussieht als wären die ganzen Leute die wir zwischenzeitlich umgebracht und erschossen haben gar nicht wirklich gestorben. Zumindest wenn man sich die Worte des jungen Nathan genauer anhört klingt es nicht so als würde er denken das Menschen sterben wenn man ihnen ins Gesicht schießt. Wie dem aber auch sei, wichtiger ist aber auch das er als Dieb nicht wirklich an irgendetwas glaubt. Das wäre auch ziemlich unglücklich, es könnte ziemlich schwer sein den geheimen Schatz der Maya zu stehlen oder ägyptische Gräber zu plündern wenn man einen tiefen Glauben hat. Das Gleiche ist quasi wahr wenn man bedenkt das wir am Anfang ein Museum geplündert, Exponate zerstört und dann weiter Kulturschätze zerstört haben. Würden wir an Karma oder Sonstiges glauben würde das zu echten Problemen führen. Das will doch niemand.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #25
+
+* Titel: `Uncharted 2 - #25 - der Turm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor wenigen Episoden habe ich darüber gemeckert das die feindlichen Truppen in den baufälligen Gebäuden die hier überall rumstehen mit Leichtigkeit ein und ausgehen können ohne das irgendetwas zusammen klappt und eventuell habe ich einige dieser Bauwerke auch als Turm bezeichnet. An dieser stelle möchte ich das quasi zurücknehmen. Es handelte sich zwar um irgendwelche Türme aber kein Turm ist so wichtig wie der den wir heute betreten. Es handelt sich nämlich um DEN Turm. Der Ort wo wir endlich mal den Dolch wieder zum Einsatz bringen können. Oder könnten wir zumindest wenn wir den Dolch tatsächlich dabei hätten. Den müssen wir immer noch zurück stehlen. Aber eigentlich ist das alles gar kein Problem weil wir ja nichts öffnen wollen sondern nur den Dolch nehmen und dann von Dannen ziehen wollen. Theoretisch, dachte ich zumindest. Klar wir haben da noch ein Versprechen dem guten Herrn Schäfer gegenüber aber so wichtig ist das doch nicht oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #26
+
+* Titel: `Uncharted 2 - #26 - Feuer, Erde, Wasser, Luft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich rege mich viel zu sehr beim Uncharted 2 Spielen auf, oder beim Uncharted 1 Spielen. Ich bin übrigens wirklich gespannt was die dritte Installation mit sich bringt. Wie dem aber auch sei, heute gibt es eine Episode in der ich mich wesentlich weniger aufrege weil ich Rätsel lösen darf. Das macht mir in der Regel Spaß. Jetzt, mit ein wenig Abstand und Selbstreflektierend muss ich aber auch zugeben das ich solche Rätsel immer ein wenig als Möglichkeit sehe mich selbst zu profilieren. Der Welt zu zeigen wie schlau ich bin und wie gut ich einfachste Zusammenhänge erkennen kann. Die geistige Leistung für die meisten Rätsel ist allerdings relativ gering fürchte ich. Um ehrlich zu sein bin ich wahrscheinlich sogar eher durchschnittlich bei der Bewältigung dieser Aufgaben. Ein wenig kann ich mich natürlich damit rausreden das ich alles kommentiere aber ich fürchte auf Dauer wird mir das dann auch nicht gelingen. Man muss auch bedenken das die Rätsel auch nicht zu schwer sein dürfen, das wäre dann ja frustrierend, allerdings frage ich mich ob das wirklich eine Überlegung war nachdem ich bis hier hin die Kämpfe gesehen habe.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #27
+
+* Titel: `Uncharted 2 - #27 - der geheime Zugang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja es kommt jetzt sehr überrachend aber mit dem Lösen eines Rätsels haben wir tatsächlich den geheimsten aller Zugänge nach Shambhala gefunden, oder zumindest erst einmal zu einem Vorraum der uns dann in die geheime, uralte Stadt führen wird. Ich gehe fest davon aus das wir nur noch wenige Meter hinter uns bringen müssen und schon sind wir an einem vollständig anderen Ort. Wie dem aber auch sei, für den Moment kommt uns jetzt erst einmal negative Plot-Armor entgegen und es ist plötzlich vollkommen unmöglich einen Feind zu besiegen den wir vorher in Massen erschossen haben. Auch ist eine Engstelle auf einmal ein gewaltiges Problem das wir nicht einfach so überwältigen können. Wenn ich mich auch immer aufrege wie oft Nathan bei solchen Situationen stirbt und wie sehr es mir Schmerz bereitet, die Tatsache das wir hier jetzt einfach bei Cutscene besiegt werden schmerzt mich umso mehr.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #28
+
+* Titel: `Uncharted 2 - #28 - Shambhala [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir suchen eine legendäre Stadt mit einem legendären Artefakt darin, dreimal dürft ihr raten was wir dann doch finden. Selbstverständlich finden wir die Stadt und natürlich auch später den großen Edelstein der anscheinend unsterbliche Macht verleihen soll. Insbesondere zweiter Teil scheint mir übrigens ziemlich zweifelhaft zu sein aber man kann ja nie wissen. Die Zombies aus dem Vorgänger waren auch eher schwierig mit Logik zu erklären. Ärgerlicherweise sind wir aber auch nicht völlig alleine hier angekommen sondern dieser komische Kerl namens Lazerevic ist auch noch nicht in den Tod gestürzt. Überraschend ist übrigens das er noch keine der beiden Geiseln umgebracht hat, das würde dem Mann eigentlich ähnlich sehen aber er scheint dann wohl doch weicher zu sein als er bis hier hin behauptet. Ich würde allerdings niemals glauben das er irgendjemanden länger als notwendig am Leben lässt, der Fall ist schon ziemlich klar das jede Geisel rechtzeitig erschossen wird. Jetzt kann uns nur noch ein Wunder retten...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

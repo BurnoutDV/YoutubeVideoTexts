@@ -2444,12 +2444,58 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
 
-##### #Nummer
+##### #1416
+
+* Titel: `Let's Play ESO #1416 - Vergessensscherbe [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 64 des Markarth DLCs - Sitzung 8
+  
+  Ich mag den heutigen Episodentitel. Er impliziert so vieles ohne dabei wirklich klar zu werden. Wir begeben uns heute nämlich ins Reich des Vergessens oder besser gesagt einen Teil der Welt der scheinbar irgendwie leicht zum Reich von Oblivion gehört. Wie genau das funktioniert kann ich übrigens nicht sagen. Wir kommen über einen Fahrstuhl dahin aber ich glaube auch nicht das die gewöhnlichen Fahrstühle der Dwermer so konstruiert wurden das sie einen Übergang in eine andere Ebene ermöglichen. Rein theoretisch müsste es also auch möglich sein den Ort per Luftweg zu erreichen, wie genau dann aber die Grenze verläuft vermag ich nicht sagen. Eventuell sind die Instrumente bzw. Sinne die der Körper von Aliya bietet auch einfach unzureichend. Oder der Versuch es zu begreifen würde wahnsinnig machen. Generell übrigens eine komische Vorstellung, das der Geist daran bricht über etwas nach zu denken. Wie dem aber auch sei, die Vergessensscherbe ist nicht der Ort sondern etwas was wir dort finden. Man warte ab.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1417
 
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 65 des Markarth DLCs - Sitzung 8
+  
+  In der Beschreibung vorheriger Episoden hatte ich bereits darüber philosophiert wie man Zeit verbringen kann und was es bedeutet wenn man Jahrtausende zur Verfügung hat. Alles in Allem vermute ich das es eine Menge Disziplin braucht überhaupt irgendwas fertig zu bekommen. Ich gehe übrigens nicht davon aus das man sich tatsächlich langweilt. Die Welt da draußen ist wirklich groß und das tägliche Zeug nimmt ja auch Zeit weg. Aber man hat mehr Zeit sich auszuprobieren. Wir wissen das Rada al-Saran das Forschen und Experimentieren eigentlich Anderen überlassen hat aber er selbst hat soviel zeit das es unwahrscheinlich erscheint das er nicht selbst einmal probiert hat ein wenig Wissenschaft zu betreiben und zumindest rudimentäre Kenntnisse in einfach allem besitzt. Heute finden wir dann die Bestätigung dieser These, stellt sich doch glatt heraus das er sein eigenes Labor besitzt. Übrigens ganz interessant das Ganze, diese Forschung hier hat er alleine gemacht, warum? Hat er plötzlich Angst das jemand auf seinen Spuren war, oder war er zu dem Zeitpunkt einfach noch allein?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1418
+
+* Titel: `Let's Play ESO #1418 - der Schwarzsturm [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 66 des Markarth DLCs - Sitzung 8
+  
+  Es wird Zeit für das große Finale. Heute retten wir die Welt, oder zumindest erst einmal das Reik aber technisch gesehen auch die Welt bzw. Nirn. Würde der Plan unseres Lieblingsvampirs am Ende klappen gäbe es eine Armee die zwischen den Welten steht, nicht sterben kann und immer wieder kommt. Die Daedra sind bereits nervig genug und die haben noch einige Regeln die die zurückhalten. Die neue graue Schar wie sie Rada al-Saran plant hätte nicht  diese Regeln. Ich würde allerdings vermuten das irgendein größerer Daedra relativ schnell bemerken würde das es da ein neues Reich in der Leere gibt und würde dann versuchen dieses für sich zu beanspruchen oder zumindest zu erobern. Das alles bringt den Toten des Reik dann aber auch alles nicht. Daher verhindern wir heute lieber das Äußerste und werfen uns in die Bresche, erneut, wie schon so viele Male.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  ```
+
+##### #1419
+
+* Titel: `Let's Play ESO #1419 - Hand der Freundschaft [Markarth]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 67 des Markarth DLCs - Sitzung 8
+  
+  Und wir haben es wieder einmal geschafft, die Welt ist sowohl im Großen als auch im Kleinen gerettet. Es gibt nichts mehr das die Menschheit, Orkheit und generelle Elfheit bedroht (technisch gesehen sind Orks auch Elfen). Damit sollte der Tag auch wirklich sicher sein und die Leute können sich wieder gegenseitig den Schädel einschlagen und müssen nicht mehr darauf vertrauen das es einen externen Grund gibt sich zu verbünden. Generell sind externe, dumme Bedrohungen eigentlich ideal um ein Volk, Land oder Organisation zu einen. Eventuell fallen da Interesse von Randgruppen unter dem Tisch aber für die Allgemeinheit scheint es vom Vorteil zu sein sich zusammen zu schließen. Ärgerlich ist es natürlich wenn die feindliche Fraktion nicht so trennscharf ist und im eigenen Land bzw. hinter den eigenen Linien bereits dafür sorgt das man nicht mit geeinter Front entgegentreten kann. Zum Beispiel durch die Unterstützung von Separatisten, Verschwörungen oder Anwerben von mittleren Management das gegen die Interesse der größeren Gruppen handelt. Während man sich von Innen zerfleischt haben dann die externen Kräfte dann ihre Chance. In diesem Falle erschien es aber so das außer der Geschichte mit Svargrim niemand so richtig daran Interesse hat Chaos zu sehen. Ob das an der Gier der Vampire lag schnelle Ergebnis zu erreichen oder einfach der Arroganz gegenüber den Sterblichen die eh keine Chance haben ist unbekannt. Wie dem aber auch sei, letztendlich hat die gemeinsame Bedrohung genügt um Völker näher zu bringen. Wie haltbar das Ganze sein wird ist für den Moment allerdings unbekannt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```

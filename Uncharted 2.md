@@ -367,6 +367,19 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #29
+
+* Titel: `Uncharted 2 - #29 - blaues Harz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mittlerweile, zum Zeitpunkt zu dem ich das hier spiele weiß ich mehr weil ich das Spiel beendet habe. Ich dachte ursprünglich das hier noch Einiges kommt aber eigentlich steht das Spiel kurz vor der Fertigstellung, ich hätte halt nur etwas geduldiger sein sollen. Wahrscheinlich ist die Gruppe an Leuten die sich Beschreibungen durchliest und eher abgestoßen wird durch meine Frustration ziemlich getrennt. Generell erwarte ich nicht das irgendjemand die Beschreibungen liest, ich schreibe sie trotzdem gerne, irgendwie. Vielleicht brennt mich das auch kreativ aus und es wäre besser wenn ich stattdessen einen Blog schreiben würde. Aber weiß sowas schon. Wie dem aber auch sei, heute rege ich mich wieder fürstlich auf. Schuld ist, wie schon die vorherigen Male eine Mischung aus idiotischen Gegnerverhalten und meinen eigenen Schwierigkeiten mit Controllersteuerung umzugehen. Ich tat was ich konnte aber am Ende reichte es einfach nicht. Wie dem aber auch sei, das blaue Harz steht dennoch im Mittelpunkt, wir wissen das es brennt und das es scheinbar alle wichtigen Orte unserer Reise erleuchtet hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

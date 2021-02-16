@@ -237,6 +237,19 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #19
+
+* Titel: `Fallen Order - #19 - Zurück auf Bogano [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Backtracking ist einer meiner Lieblingsbeschäftigungen und ironischerweise das was ich versuche soviel wie nur irgendmöglich zu vermeiden. Das liegt ein wenig daran das es für den Zuschauer, zumindest meiner Meinung nach langweilig ist. Das ist jetzt ein wenig akademisch und aber vor allen Dingen steril. Ich sehe das es grundlegend verschiedene Zuschauer gibt, irgendjemand hört sich vielleicht sogar mein Kommentar gerne an, aber das sind dann wohl die Wenigstens. Es gibt Leute die nur kurz reinschauen um bestimmte Dinge zu sehen, für solche Leute sind die Beschreibungen das Wichtigste, damit man schnell den Inhalt visuell findet den man sucht. Ich persönlich hoffe eigentlich das mein Fokus irgendwie auf der Handlung des Spiels liegt ahne aber das ich darin ein wenig versage weil ich mich immer wieder von Spielspaß ablenken lasse. Wie dem aber auch sei, beim Backtracking macht es mir tatsächlich Spaß Dinge zu finden die ich vorher übersehen oder nicht erreichen konnte. Im konkreten Fall sind das heute übrigens zwei Stimpacks, zwei Stims die mir auf der nächsten Haltestelle noch enorm weiter helfen werden. Ich bin also nicht traurig das ich noch mal kurz in Bogano Halt gemacht habe, und da ich noch nicht überall hin konnte war es auch nicht das letzte Mal...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

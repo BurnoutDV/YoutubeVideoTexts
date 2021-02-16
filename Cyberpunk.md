@@ -1221,6 +1221,18 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #97
+
+* Titel: `Cyberpunk 2077 - #97 - das vorletzte Rennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe das Gefühl das mir und damit V. die Zeit davon läuft. Daher beeile ich mich jetzt noch schnell die Dinge fertig zu kriegen von denen ich weiß das es durchaus möglich ist sie zu schaffen. Eines dieser Dinge ist übrigens das Fahren von Autorennen. Das regt mich zwar immer ein wenig auf aber es könnte wesentlich schlimmer sein, und außerdem gibt es ja auch noch eine Geschichte die die ganze Geschichte beschreit. Es gibt andere Welten in denen die Rennen einfach nur stattfinden, es einen kleinen Preis am Ende gibt und das war es dann. Allerdings möchte ich zu bedenken geben das es hier, zumindest soweit ich das sehen kann auch keine Preise für die anderen Rennen gibt. Das ist alles ein wenig komisch, klar der Sieger qualifiziert sich für das große Finalrennen aber das es nichts für die Zwischenstufen gibt irritiert mich schon ein wenig.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -795,6 +795,19 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #63
+
+* Titel: `Risen 2 - #63 - der hohe Rat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine meiner größten Kritikpunkte für Risen 2 bzw. eigentlich der ganzen Risen Serie bis hier hin ist das alles so klein ist. Und nicht einmal die Illusion von Größe wird angedeutet. Wir wissen das Caldera eigentlich kaum mehr als die Gebäude ist die wir sehen. Das schrumpft das ganze Imperium der Menschheit auf eine Bevölkerung von unter 100 Leuten zusammen. Alles ist irgendwie so winzig, auf der anderen Seite unterhält sich die Inquisition gewaltige Flotten und jede Menge Männer die irgendwo in der Südsee Dinge tun. Das erscheint doch enorm unwahrscheinlich oder? Es gibt ja kaum genügend Leute alle Kisten zu schleppen. Und auch von der Regierung hätte ich irgendwie mehr erwartet. Es gibt da den sogenannte hohen Rat. In meiner Erwartung ist das halt eine Kammer mit einigen wichtigen Personen die wir natürlich auch kennen lernen aber selbstverständlich auch einige Funktionäre, Untergegebene und quasi eigene Fraktionen für jeden Vorsitzenden im Rat. Was wir vorfinden sind ein paar staubige Kammern und quasi nichts das irgendwie nach Größe, Verwaltung oder Glorie aussieht. Auch interessant ist übrigens der Vertreter der Bauern, ein einzelner Mann der sich natürlich manipulieren lässt weil er selbstverständlich ein Idiot ist. Kennt man ja, alle Bauern sind unintelligente Vollidioten die sich vom erstbesten schlauen Händler manipulieren lassen. Nuancen vermisst man hier doch stark. Aber es geht weiter, angeblich steht er den Bauern vor die noch hier sind, ein kleiner Blick auf die Karte wirft aber die ernsthafte Frage auf welches Land er eigentlich meint. Von dem was ich so sehen kann ist absolut nichts mehr übrig von der alten Welt. Die paar Gebäude die wir sehen und dahinter kommt nur noch apokalyptisches Ascheland. Wen genau vertritt der Mann? Die Toten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

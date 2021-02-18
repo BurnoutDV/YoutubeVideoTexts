@@ -1233,6 +1233,30 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #98
+
+* Titel: `Cyberpunk 2077 - #98 - ein Tag in meinem Leben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben von V. ist kurz, egal ob wir Viktor oder Valerie heißen. Es spielt absolut keine Rolle ob wir wir sind oder irgendjemand Anderes, unser Leben wäre in jeden Fall kurz, einfach weil das Leben in Nightcity nicht ungefährlich ist. Selbst wenn wir nicht die Söldnerdienste erledigen würden die wir erledigen könnten wir jeden Tag sterben. Tun wir aber nicht, nicht heute. Stattdessen erleben wir heute einen weiteren Tag. Auch andere Leute erleben heute einen Tag. Auch Brendan und Theo erleben einen Tag. Niemand von beiden stirbt, einer hat vielleicht nie gelebt. Es verdichtet sich übrigens das das Konzept einer Seele in Cyberpunk real ist, vielleicht denke ich aber auch zu viel darüber nach. Eine Persönlichkeit zu simulieren braucht gewaltige Mengen an Rechenkraft, aber das was Brendan tut ist quasi genau so, und doch ist es anders? Warum braucht es soviel Rechenkraft für eine wahre KI? Das ist doch irgendwie seltsam oder?
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #99
+
+* Titel: `Cyberpunk 2077 - #99 - Pizzaparty [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man in guter Gesellschaft ist machen die meisten Sachen wesentlich mehr Spaß als wenn man sie in schlechter Gemeinschaft erledigt. Das ist jetzt keine Überraschung. Aber selbst wenn die Gesellschaft die man sich selbst aussetzt nicht die Beste ist kann man den Zustand ein wenig verbessern wenn man dabei etwas zu Essen hat. Der Klassiker ist die Pizza, sie kann mit vorsichtigen Händen quasi ohne Besteck gegessen und auch sehr gut geteilt werden. Pizzaparties oder Pizza zu Arbeitsmeetings ist daher durchaus eine Möglichkeit. Im Jahre 2077 ist richtiges Fleisch, frisches Gemüse oder generell alles das irgendwie essbar ist ziemliche Mangelware aber anscheinend hat uns Judy heute etwas Besonderes gegönnt. Eine Pizza. Für die versammelte Mannschaft. Wir sind ein wenig der Gegenentwurf zu den Vorstandschefs die sinistre Geschäft im höchsten Stockwerk eines Wolkenkratzers planen. Quasi eine Grassroot Verschwörung.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

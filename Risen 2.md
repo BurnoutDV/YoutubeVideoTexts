@@ -808,6 +808,52 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #64
+
+* Titel: `Risen 2 - #64 - das Archiv [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vom alten Reich ist scheinbar absolut nichts mehr übrig. Alles was bleibt ist die Erinnerung das hier irgendwo einmal einen König gab der sein Volk irgendwie verwaltet hat. Wenn man sich die Kultur der Inquisition und der Händler anschaut kann ich mir aber ehrlich gesagt nicht wirklich vorstellen das die Regierung des Königs eine besonders fähige gewesen ist. Oder aber der Mann war einfach nur nicht besonders mächtig, kann ja auch sein, das er einfach von allen möglichen Leuten manipuliert wurde und seine praktische Macht quasi inexistent war. Wie dem aber auch sei, was außerdem bleibt ist das Archiv von Caldera, wo all die Dinge niedergeschrieben sind die einst das Reich ausgemacht haben. Hier hat man uns natürlich nicht sofort hineingelassen, aber am Ende sind wir natürlich dennoch drin. Informativ!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #65
+
+* Titel: `Risen 2 - #65 - Stahlbarts Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kapitän Stahlbart ist tot, wir selbst waren da als er fiel, hingerichtet durch Maras Hand. Ein grausames Schicksal an dem wir leider nichts mehr ändern können. Wie dem aber auch sei, was noch bleibt sind seine Taten in der Welt, und dazu gehören die Spuren die er in den Menschen und in der Landschaft hinterlassen hat. Diesen Folgen wir jetzt, weil wir wollen noch was von dem Toten, seinen Schatz! Technisch gesehen wissen wir auch schon wo der eigentlich ist allerdings scheint es da die Komplikation zu geben das es eventuell die ein oder andere Falle gibt. Das Spiel weiß natürlich das wir Laden und Speichern können und somit eigentlich jede Falle nur ein Geschicklichkeitsspiel ist bzw. eine Frage der Geduld. Die Geschichte sieht aber vor das wir ein paar Hinweise einsammeln so das es alles ein wenig einfacher wird und wir vielleicht nicht beim Versuch die Welt zu retten umkommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #66
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  
+  ```
+
+##### #67
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

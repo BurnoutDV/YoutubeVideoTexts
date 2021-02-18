@@ -250,6 +250,32 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #20
+
+* Titel: `Fallen Order - #20 - doppelte Freude [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein einfaches Lichtschwer ist eine ziemlich praktische Waffe mit der man sich ziemlich leicht den eigenen Arm abschneiden kann. Ein doppeltes Lichtschwert ist eine ziemlich unpraktische Waffe mit der man sich gleichzeitig den Fuß und den Arm abschneiden kann. Aber wir haben ja glücklicherweise die Macht und mit der können wir dann bestimmt irgendwelche Dinge tun. Übrigens auch interessant, mit der Macht kann man offensichtlich heilen, außerdem kann Bakta und anderes Zeug Heilungsprozesse beschleunigen. Und doch können keine abgeschlagenen Gliedmaße ersetzt werden. Das ist doch irgendwie komisch oder? Wie dem auch sei, humanoide Gegner verlieren eh keine Gliedmaßen, das wäre ja brutal und würde sich sehr negativ auf das Rating dieses Spieles auswirken. Die gute Nachricht ist aber das wir jetzt eine Waffe haben die Crowdcontrol zu lässt. Komisch ist aber..sie macht im Doppelschwert Modus weniger Schaden. Echt komisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #21
+
+* Titel: `Fallen Order - #21 - Dathomir [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fremde Welten bereisen, die Galaxie sehen, damit wirbt das galaktische Imperium in seinen Rekrutierungsschreiben. Tatsache ist aber das die Galaxie da draußen ein ziemlich rauer Ort ist. Für jede Welt die irgendwie paradiesisch ist und einladend kommen tausende die einfach nur Felsbrocken mit angeschlossener Wüste sind. Welten voller tödlicher Insekten und giftigen Gasen. Dathomir hat den wunderschönen Scharm das es anscheinend alles von oben ineinander kombiniert. Mir ist nicht wirklich bewusst warum irgendjemand jemals dachte das es eine gute Idee sei sich auf den Planeten nieder zu lassen. Es gibt definitiv genügend Planeten da draußen, warum grade Dathomir? Es kann mir doch keiner erzählen das in einer gewaltigen Galaxie alle gute Planeten bereits weg war und man sich gezwungen sah sich hier nieder zu lassen. Die Bewohner haben aber anscheinend das Beste dadrauß gemacht. Wir sind hingegen eher nicht willkommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

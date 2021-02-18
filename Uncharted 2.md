@@ -380,6 +380,32 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #31
+
+* Titel: `Uncharted 2 - #30 - zerbrochenes Paradies [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die legendäre Stadt Shambhala ist kaum noch mehr da, wir sehen zwar noch die einzelnen Gebäude aber offensichtlich ist es Jahrhunderte her das das letzte Mal sich irgendjemand darum gekümmert hat irgendetwas zu reparieren. Es ist sehr schade das wir nichts darüber erfahren. Keine Hinweise, warum, wann oder wie es passiert ist. Gab es eine Priesterkaste die alle fähigen Leute dem Baum des Lebens geopfert hat? War es Korruption? Eine Strafte ihres Gottes, war es eine externe Kraft die dafür gesorgt hat das eine gewaltige stolze Stadt so zerfällt. Die Ruinen werden offensichtlich noch besucht und die ehemaligen Einwohner scheinen Nachfahren gehabt zu haben die bis heute den Ort noch bewachen. Sie beweisen das sie in der Lage sind zu planen aber ansonsten sehen wir kaum etwas von ihnen. Direkte Aktionen um zu verhindern das jemand den Ort betritt aber darüber hinaus keinerlei Informationen. Keine Aufzeichnungen, keine Leichen. Das ist irgendwie enttäuschend, wir betreten ein Paradies das zerfallen ist, aber wir wissen nicht warum. Ob sich das Harry Flynn auch gedacht hat?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
+##### #31
+
+* Titel: `Uncharted 2 - #31 - Zoran Lazarevic [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Er hat uns die ganze Zeit eigentlich verfolgt, seit der ersten Minute sind wir in seinem Auftrag unterwegs und seit der ersten Sekunde ist er unser Feind. Generell frage ich mich aber ob es nicht für den guten Zoran einfach viel leichter gewesen wäre wenn er uns direkt bezahlt hätte anstatt uns antagonistisch gegenüber zu stehen. Immerhin muss man ihm zu Gute halten das jede andere Person die nicht durch zwanzig Meter Plotrüstung geschützt ist durch seine Methoden umgekommen wäre. Andererseits wäre er dann vielleicht nie dann dort angekommen wo wir jetzt sind. Das Rätsel das den Standort aufgezeigt hat hätte seine Methodik auf keinen Fall gelöst. Generell fragt man sich doch wie ein einzelner Dolch der irgendwo auf Borneo lag und der hätte leicht eingeschmolzen oder zerstört werden können all diese Orte öffnen konnte. Wahrlich erstaunlich. Aber hier stehen wir, am Ende von Allem. Vor Zoran Lazarevic.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

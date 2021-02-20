@@ -836,22 +836,28 @@
 
 ##### #66
 
-* Titel: ``
+* Titel: `Risen 2 - #66 - Rick alleine im Dschungel [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Man kann nicht behaupten das wir uns nicht um die Leute kümmern die wir so treffen. Heute erfahren wir zum Beispiel das ein Typ namens Rick tatsächlich nach dem Schatz sucht von dem wir ihn erzählt haben. Wir erinnern uns, Rick, der wahrscheinlich einzige Typ der eine wichtige Position in Antigua hat ohne dabei Wirt zu sein oder Pirat gewesen zu sein träumt vom großen Leben auf See. Ich frage mich übrigens was er gemacht hätte selbst wenn er einen Schatz gefunden hätte. Geld braucht auch eine Infrastruktur dahinter die es ermöglich das Geld irgendwie umzusetzen, Reichtum zu materialisieren. So oder so, Rick wird den Schatz nicht finden. Das machen wir, nachdem wir Rick natürlich gerettet haben. Die gute Nachricht ist aber übrigens das dem guten Rick eigentlich nichts passieren kann, schließlich haben wir erst unlängst eigentlich alles was man so an feindlicher Fauna finden kann ausgelöscht.
   
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
 ##### #67
 
-* Titel: ``
+* Titel: `Risen 2 - #67 - das Holzbein [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wenn ich nicht damit beschäftigt bin die Welt oder einzelne Personen zu retten dann suchen wir wertvolle legendäre Artefakte. Dazu gehört zum Beispiel das Holzbein. Was es genau macht spielt eigentlich keine Rolle, ich will es haben weil es eine Quest dafür gibt und die machen wir dann auch. Problem ist das die meisten Artefakte eine ziemlich konkrete Beschreibung ihrer Ursachen haben und wir auch wissen was der letzte Besitzer damit gemacht hat, dementsprechend leicht fällt es die Gegenstände zu lokalisieren. Beim Holzbein heißt es einfach nur das es auf einem Plateau auf Takarigua liegt, jetzt überlegt wir kurz wie viele Tafelberge wir bis her gesehen haben. Meiner Erinnerung kein Einziges, das macht die Suche nach dem Holzbein etwas kniffelig. Aber ich habe mir da zum Glück etwas von Space Balls abgeguckt, ich durchkämme einfach die Wüste und dann finden wir schon etwas. Fragt sich jetzt nur noch wo ich so einen großen Kamm her finde. Einen Kamm habe ich sogar schon aber leider hat der keine Zinken mehr, das würde das durchkämmen eher erschweren, na mir wird schon noch was einfallen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
 ##### #Nummer

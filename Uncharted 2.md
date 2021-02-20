@@ -406,12 +406,15 @@
   Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```
 
-##### #Nummer
+##### #32
 
-* Titel: ``
+* Titel: `Uncharted 2 - #32 - Bonusmaterial [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  An sich ist Uncharted 2 jetzt durchgespielt aber ich mache die Dinge gerne vollständig. Ich gebe zu das ich mir tatsächlich so Dinge wie Artbooks durchaus kaufe oder zumindest anschaue. Das liegt einfach daran das ich den Entstehungsprozess von Spielen bzw. Medien sehr interessant finde. Oft gab es irgendwann einmal eine kreative Maximalausführung die weit über das Hinaus gegangen ist was das letztendliche Spiel am Ende leistet, einfach weil es finanzielle Grenzen gab. Daher genieße ich es sehr zu sehen was hätte sein können oder was sich die Entwickler vorgestellt haben. Daher schauen wir uns heute eine Menge Konzeptions Zeichnungen an. Die wecken übrigens immer wieder in mir den Wunsch doch noch einmal Zeichnen zu lernen, weil letztendlich ist es ja die grobe Zeichnung die ausreicht um eine Idee zu transportieren. Es wird dann zum Kunstwerk wenn man weitere Zeit darin steckt die Methoden zu verfeinern, aber dieser Transport einer Idee ist eigentlich das was mich so sehr anzieht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 2 - Among Thieves auf dem Montags Slot.
   ```

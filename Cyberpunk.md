@@ -1257,6 +1257,30 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #100
+
+* Titel: `Cyberpunk 2077 - #100 - Sternzeichen Fische [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute geht es dann ans eingemachte, zusammen mit Judy werden wir das Clouds stürzen. Natürlich sind wir nicht völlig alleine, schließlich braucht man für solche Operationen schon einmal mehr als zwei Leute, aber technisch gesehen bin ich schon der Meinung das V. hier den Löwenanteil des ganzen Jobs erledigt haben wird. Das liegt aber wahrscheinlich einfach an der Natur der Sache, das und weil ich nicht sehen kann was andere Leute tun. Eventuell ist die Arbeit die Leute im Clouds machen auch viel größer, da gibt es eine Menge Personen die man zusammentreiben muss um die Oberhand zu gewinnen. Und wenn man so will ist es sogar schwieriger als das was ich tue. Meistens töte oder würge ich nur Leute in die Bewusstlosigkeit. Aber andere Leute schüchtern tatsächlich ein und treiben zusammen, etwas das ich gar nicht tun könnte.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #101
+
+* Titel: `Cyberpunk 2077 - #101 - an der kurzen Leine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und nun sind wir fertig, bekannte Personen helfen wir nicht mehr.  Stattdessen setzen wir uns jetzt für die kleinen Leute ein, die Geknechteten, die Menschen die täglich in Night City unter der Willkür der Konzerne leiden müssen. Wir machen den Anfang mit einem Auftrag den ich schon sehr sehr sehr lange vor mir hatte. Auf einem Busbahnhof ist ein Valentino der anscheinend nicht verhaftet wurde und einfach so mit seinen Verbrechen davon kam. Warum das der Fall ist wissen wir nicht aber es entspricht Einiges dafür das es eine "höhere" Macht gibt die sich für unser Ziel eingesetzt hat. Das Herauszufinden ist wesentlich spannender als der eigentliche Kill. Mal davon abgesehen das ich es gar nicht auf Mord anlege.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

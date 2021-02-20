@@ -276,6 +276,32 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #22
+
+* Titel: `Fallen Order - #22 - dunkler Wanderer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind auf Dathomir, das ist jetzt nicht so überraschend habe ich doch die letzte Episode so genannt. Wir erkunden den Ort und finden nicht unbedingt viel Gastfreundschaft, was ich aber stattdessen finde ist eine Schwester der Nacht. Die kann uns aus irgendwelchen Gründen übrigens nicht leiden, nicht so direkt persönlich gegenüber Karl sondern gegen alle Jedi als solche. Ich habe ja ein wenig die Theorie das es mehr darin liegt das wir als Machtbenutzer in direkter Konkurrenz zu ihnen steht. Ich hätte mich übrigens sehr gefragt was sie wohl über Darth Maul gesagt hätten der ja sogar von der gleichen Rasse wie die örtlichen Einwohner ist. Wie dem aber auch sei, wir treffen nicht nur Schwestern und Brüder der Nacht sondern auch einen dunklen Wanderer. Er selbst nennt sich nicht so und das ist vor allen Dingen meine Wortschöpfung. Wir wissen aber nichts über die Person, und das macht ihn besonders. Wir werden sehen was noch dabei heraus kommt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #23
+
+* Titel: `Fallen Order - #23 - Dathomirs Sackgasse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und heute finde ich dann heraus das ich auf Dathomir nicht weiter komme. Oder zumindest glaube nicht weiter zu kommen. Es könnte natürlich durchaus sein das es noch einen weiteren Weg gibt und ich ihn einfach nicht sehe. Das wäre dann natürlich ein wenig peinlich weil ich heute quasi 20 Minuten im Kreis laufe um einen weiteren Pfad zu finden den es eventuell nicht gibt. Zwischenzeitlich habe ich dann sogar die brillante Idee einmal auf die Karte zu sehen um zu ergründen was ich vielleicht noch tun könnte nur um dann festzustellen das es da wohl nichts gibt was Karl möglich ist. Wir brauchen wohl erst den Jetpack-Sprung. Oder Machtsprung. Ich weiß natürlich noch nicht was ich tun muss aber ich werde es bestimmt bald erfahren, und dann kommen wir wieder zurück nach Dathormir und finden heraus was es mit dem dunklen Wanderer und den Schwestern der Nacht auf sich hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -302,6 +302,84 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #24
+
+* Titel: `Fallen Order - #24 - Kampfläuferklettern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unter Jedi gibt es eine breite Palette an körperlichen und sportlichen Aktivitäten. Die meisten Jedi sind neben ihren Kräften auch so relativ fit, auch wenn sie auf dem ersten Blick nicht so erscheinen. Letztendlich kann man sich auch nicht immer auf die Macht verlassen, die hilft zwar irgendwie dabei besonders hoch zu springen und gewissermaßen die Zukunft zu kennen aber das alles bringt ja auch nichts wenn alles was man braucht Muskelkraft ist um sich irgendwo anzuhängen. Karl ist in der Hinsicht aber besonders fit, schließlich hat er über ein Jahr auf dem Schrottplatz gearbeitet und da in teilweise schwindelerregenden Höhen gearbeitet. Wer sich da nicht auf seine Fähigkeit an nur einem Arm zu hängen verlassen kann braucht entweder einen Sicherheitsgurt oder ein gerütteltes Maß an körperlicher Stärke. Heute beweisen wir das erneut in dem wir mal so eben an einem AT-AT hochklettern. Einer der leichtesten Übungen wie ich anmerken möchte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #25
+
+* Titel: `Fallen Order - #25 - Kondensator [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine Mechanik die ich sehr an Fallen Order mag ist das man nicht nur sich selbst verbessert sondern auch seine Begleiter, namentlich eigentlich nur BD-1 aber dennoch. Das führt natürlich irgendwie zu Problemen falls wir doch noch eines Tages den kleinen, aktuell gelben, Roboter verlieren sollten. Aber ich nehme mal nicht an das uns das so schnell passieren wird. Der Gute kann ziemlich gut auf sich selbst aufpassen und scheint ein Talent darin zu sein immer Karl als Deckung zu nutzen. Solange wir also nicht selber fallen besteht keine Gefahr für den kleine Roboter. Heute erhält der Kleine übrigens eine Verbesserung seiner Kondensator Leistung. Damit können wir dann auch endlich imperiale Geräte überlasten die scheinbar nahe am Leistungslimit gebaut zu sein scheinen, anders wäre das alles wohl nicht möglich. Generell habe ich ja den Verdacht das die Star Wars Technik irgendwo auf einen uralten Planeten hergestellt wird von dem niemand etwas weiß und die Technik die dabei herauskommt kann dann von Jedem benutzt werden ist aber eigentlich hochkomplex.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #26
+
+* Titel: `Fallen Order - #26 - imperiale Raffinerie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Universum ist ein wirklich gewaltiger Platz. Die meisten Elemente entstehen durch Kernfusion in Sonnen und werden, so weit wir wissen dann nach Außen getragen wenn besagte Sonnen implodieren und all die Elemente weit verteilt werden, sich dann via Gravitation ansammeln und Planeten und Sternensystem bilden. Das alles klingt ein wenig unwahrscheinlich aber kommt anscheinend noch oft genug vor. Dann gibt es da noch Leben, das baut dann irgendwann Raumschiffe und betreibt Terraforming um die ganzen Planeten die vorher nicht bewohnbar waren zu besiedeln. Eventuell gibt es dann noch etwas Gentechnik um sich besser anzupassen, dann vergehen ein paar Millionen Jahre, die ursprüngliche galaktische Zivilisation ist schon dreimal zerfallen und schon sind wir wo wir sind. All das nur damit das Imperium auf den einen Planeten der scheinbar von alleine Leben hat Raffinerien baut. Mir ist beim besten Willen nicht bewusst warum. Ressourcen sollten im Weltraum wirklich in jeder Form einfacher und billiger zu bekommen sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #27
+
+* Titel: `Fallen Order - #27 - Gefangenenbefreiung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einen Wesen die Freiheit zu rauben ist ziemlich schwierig wenn man auf der moralisch sicheren Seite bleiben will. Da braucht es schon ziemlich hohe Argumentationen das man wirklich erklären kann warum man die schrecklichen Dinge getan hat die man tat. Und selbst wenn man sie dann tut muss man sich ziemlich anstrengen das die Bedingungen so erträglich sind wie es halt nur geht. Die Wookies heute haben Glück, schließlich sind wir in einem Film, hier gibt es Leute die sich um die Gefangenen kümmern. Man könnte aber argumentieren das das Interesse der Rebellen an den Wookies nicht ganz uneigennützig ist. Wie dem aber auch sei, das Imperium macht sich sowieso keine Sorge um die korrekten Bedingungen, was so gesehen auch wieder ineffizient ist aber generell scheint das selten die Sorge von irgendwelchen tyranischen Organisationen zu sein, dabei könnte man das alles noch wesentlich leichter ermöglichen. Meine Sorge gilt übrigens mehr all denen die in Gefangenschaft sind und niemand weiß überhaupt das sie existieren. Niemand der wissen kann das es dort draußen jemanden gibt der befreit werden muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #28
+
+* Titel: `Fallen Order - #28 - zurück nach Zeffo [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, Zeffo der tote Planet. Eigentlich ist er voller Leben aber wenn man sich einen Platz wie Bogano anguckt wirkt der Ort einfach weniger freundlich was das allgemeine Leben angeht. Wie dem aber auch sei, wir sind wieder hier und nicht einmal um irgendwelche Kisten zu finden die uns vorher nicht zur Verfügung standen, viel mehr ist das hier tatsächlich unser nächster Suchort. Selbstverständlich lasse ich mir aber auch nicht die Kisten entgehen die hier noch an anderer Stelle herumstanden, das versteht sich natürlich von selbst. Wie sollte es auch anders sein. Außerdem finden wir bei der guten Gelegenheit dann auch gleich heraus das es nicht nur Kisten auf Zeffo gibt. Immer wieder schön einen bereits bekannten Ort noch einmal zu besuchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #29
+
+* Titel: `Fallen Order - #29 - hungrige Jotaz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zu meinem großen Bedauern sind wir wieder zurück auf Zeffo und es sieht nicht so aus als würden wir hier so schnell wieder wegkommen. Daher erkunden wir alles noch einmal ganz genau um sicher zu gehen das mir keine großen Schätze einfach so entkommen. Eines dieser Dinge wehrt sich aber ziemlich verzweifelt gegen meine Inbesitznahme. Es handelt sich um einen besonders großen Jotaz der mir die Gelegenheit für "git gud" gibt. Ich kenne das bereits aus den Soulsborne Spielen aber ich gebe zu das es schon wieder ganz schön lange her ist das ich eines davon in letzter Zeit gespielt habe. Wie dem aber auch sei, eventuell probiere ich mich heute einmal öfter daran aber selbstverständlich werde ich am Ende Erfolg haben, scheitern ist einfach nicht möglich für Karl. Karl ist schließlich ein Jedi und Held und wird erst dann ruhen wenn alles erreicht ist was zu erreichen ist. Leider befürchte ich das der gute Karl am Ende sterben wird damit die Geschichte in sich geschlossen bleibt. Aber nicht an diesem Jotaz.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

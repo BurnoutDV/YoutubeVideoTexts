@@ -860,6 +860,84 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #68
+
+* Titel: `Risen 2 - #68 - vergrabener Reichtum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um reich zu werden überfallt man entweder die Lebenden oder bestiehlt die Toten. Kombinationen sind natürlich auch möglich, aber die Fälle in denen es  tatsächlich eine Option ist die Toten zu überfallen hat man meistens große Probleme. Alternativ kann man natürlich auch eine Bank gründen aber das setzt bestimmte Vorrausetzungen vor raus. Zum Beispiel das man genügend Zeit hat Profit zu schlagen bevor irgendwelche Titanen vorbei kommen und alles kaputt machen. Zugegeben, das ist nicht lange aber dennoch. Idealerweise hat man auch noch die Politik, lies, den König, in der Tasche. Das braucht Startkapital, und einen König zum in die Tasche stecken. Beides ist jetzt nicht vorhanden und die Chancen das wir unser Schiff für gutes Geld los werden sind auch gering. Irgendwie schon witzig das, unser Schiff, die Black Betty ist quasi unbezahlbar, andererseits könnte es ziemlich schwer werden einen Käufer zu finden. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #69
+
+* Titel: `Risen 2 - #69 - die Sturminsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt haben wir aber wirklich alles was man so machen kann und sind aufgebrochen um andere Dinge zu sehen. Zum Beispiel die Sturminsel. Dort gibt es eine Menge Gargoyls und wenn man den umzusammenhängenden Gerumpel von Eldric glauben schenken darf ist es sogar die Quelle allen Übels. Der Hauptgrund warum wir übrigens hier sind. Außerdem finden wir noch einen Typen namens Crouse der anscheinend vor einiger Zeit auf der Insel ausgesetzt wurde und nicht so richtig glücklich mit dieser Situation ist. Aber das ist alles gar kein Problem, wir versprechen natürlich sofort den Mann zu retten. Wäre ja auch noch schöner wenn wir irgendjemanden in Not einfach so ausgesetzt lassen. Übrigens verdient sich die Sturminsel ihren Namen mit Recht, es ist in der Tat ein wenig windig hier. Unschön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.xxxxxxxxxx Jetzt haben wir aber wirklich alles was man so machen kann und sind aufgebrochen um andere Dinge zu sehen. Zum Beispiel die Sturminsel. Dort gibt es eine Menge Gargoyls und wenn man den umzusammenhängenden Gerumpel von Eldric glauben schenken darf ist es sogar die Quelle allen Übels. Der Hauptgrund warum wir übrigens hier sind. Außerdem finden wir noch einen Typen namens Crouse der anscheinend vor einiger Zeit auf der Insel ausgesetzt wurde und nicht so richtig glücklich mit dieser Situation ist. Aber das ist alles gar kein Problem, wir versprechen natürlich sofort den Mann zu retten. Wäre ja auch noch schöner wenn wir irgendjemanden in Not einfach so ausgesetzt lassen. Übrigens verdient sich die Sturminsel ihren Namen mit Recht, es ist in der Tat ein wenig windig hier. Unschön.Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 UhrRisen bzw. Nostalgiespiele sind auf Donnerstags geplant.Hier
+  ```
+
+##### #70
+
+* Titel: `Risen 2 - #70 - Gargoyl Geysire [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gargoyls sind fiese und gemeine Wesen und ich bin mir ziemlich sicher das sie wirklich niemand auf irgendein Kirchendach stellen möchte. Zumindest nicht die Variante von Risen 2. Allerdings erzählt uns Eldric auch das die Wesen nicht immer so waren wie sie jetzt sind sondern sich irgendwann einmal verändert haben. Früher waren sie wohl weniger aggressiv und mehr an der Natur gebunden. Nun, diese Zeiten sind jetzt vorbei und dafür vermehren sich die Viechers wie wild und drohen die gesamte Welt zu erobern. Das brachte uns ja auf die Sturminsel auf der wir nun sind und die Bruttstätten der Wesen vernichten. Es handelt sich dabei um magische Geysire aus denen die Macht strömt die die elenden Geschöpfe brauchen um ihre hohe Reproduktionsrate aufrecht zu erhalten. De Plan ist also klar, wir holen uns einen großen Korken und dann ist das Problem offensichtlich gelöst.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #71
+
+* Titel: `Risen 2 - #71 - Diebesinselschwarm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt offiziell zum Gargoyle-Jäger ernannt worden. Es ist leider so das die fliegenden Unwesen wohl leider keine dauerhafte Bedrohung für die Welt darstellen werden da wir ihre Quelle vernichtet haben. Ansonsten wäre das hier ein schöner Ansatz um  eine ständige Bedrohung zu schaffen für die man schon einmal einen Orden von religiös gefärbten Kriegern aufmachen könnte. Sowas schafft Arbeitsplätze insbesondere wenn wir einen Herrscher finden der sich um die wirtschaftliche Seite kümmert, nach ein paar Generationen ist dann die gesamte Geschichte ein Selbstläufer. Nun, wie dem auch sei, da das alles eine Einmalgeschichte ist klappern wir jetzt einfach jedes Festland ab und töten da alles was entfernt nach Gargoyle aussieht, zum Glück hat Eldric ein genaues Gespür dafür wann Schluss ist so das wir nicht ewig suchen müssen. Schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #72
+
+* Titel: `Risen 2 - #72 - die hohe Kunst der Feuerwaffen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als namenloser Held haben wir zwar keinen Namen aber dafür alles Andere was dazu gehört ein erfolgreicher Held zu sein. In vergangenen Tagen kam die Frage auf ob wir uns lieber auf den Nahkampf konzentrieren wollen oder den Weg der Flinte zu wählen. Selbstverständlich habe ich mich für den Fernkampf entschieden, schließlich hat der Held auf dem Cover Bild ja auch schon eine in der Hand. Es wäre doch sehr dumm diese Möglichkeiten nicht zu nutzen oder? Dennoch habe ich manchmal das Gefühl das ich eine Entscheidung für Feuerwaffen gefällt habe die ich eigentlich nicht hätte fällen müssen weil mir sowieso jeder Mann irgendwelche Waffen verkauft. Nur Sebastiano hatte sich ein wenig schwer damit, und so versagten wir den Weg des Voodoo der bestimmt auch hätte interessant sein können. Heute lernen wir noch ein wenig mehr über den Weg des Donnerstockes.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #73
+
+* Titel: `Risen 2 - #73 - Schwarmsterben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der große Gargoyl Schwarm bedroht die Welt und wir tun dagegen natürlich etwas. Da ich nicht möchte das mir solche Aufgaben lange auf die Nerven gehen kümmere ich mich darum natürlich sofort. Daher segeln wir heute verschiedene Inseln an und schauen uns um. Interessant ist hier übrigens auch das wir überhaupt nicht mit der Inquisition interagieren die scheinbar komplett desinteressiert an den Problemen um sie herum ist. Klar haben die schon einmal etwas davon gehört aber sich selbst sieht man nicht in der Verantwortung. Am Ende fällt das noch auf einen Zurück und man müsste mehr Verantwortung übernehmen als man will. Das geht natürlich gar nichts. Da bleibt nur einen Freischaffenden wie dem namenlosen Held es übrig diese Aufgabe zu erledigen, das und weil er einen Helferkomplex hat und nicht zulassen kann das irgendjemand Probleme hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

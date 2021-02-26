@@ -1281,6 +1281,78 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #102
+
+* Titel: `Cyberpunk 2077 - #102 - 30 Minuten, 3 Aufträge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mag die Nebenmissionen in Cyberpunk, es ist ein wenig dünner Spaß weil man quasi die ganze Geschichte etwas destillieren muss um die interessanten Geschichten zu bekommen. So wie es erzählt wird ist es natürlich ein wenig dünn, je nach dem wie schnell man durch kommt sind die einzelnen Hintergrundinformationen die wir erfahre in 30 Sekunden erzählt aber ich brauche halt 10 Minuten pro Auftrag. Dennoch haucht es meiner Meinung nach Night City mehr Leben ein als es so manche große Missionen tun können, einfach weil es so eine Art Slice of Life Geschichte ist. Ich mag solche kleinen Unterhaltungen aus dem Leben. Das ist irgendwie sympathisch. Daher haben wir heute gleich drei Mal Sympathie. Präzise handelt es sich übrigens um zwei Cyberpsychos, aber einer davon ist irgendwie nicht so richtig durchgedreht wie man ursprünglich annahm, der Mann hatte ja durchaus legitime Gründe wie ich finde. Ansonsten gibt es doch nichts über das Beschaffen von ein wenig Kompromat um Politiker in die richtige Richtung zu lenken.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #103
+
+* Titel: `Cyberpunk 2077 - #103 - Red Ocher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nebenmissionen erzählen mir die Geschichte von kleineren Orten und Menschen. Das hatte ich ja schon beschrieben, mehr als einmal wenn ich so will. Heute erfahren wir zum Beispiel etwas über einen Nomadenstamm der sich da Red Ocher nennt und scheinbar einer Medikamentenstudie einer Firma namens Biotechnica. Wir haben von ihnen bereits in der Vergangenheit schon gehört. Auch erinnern uns wir daran das das der gute Saul seinen Wüstenstamm ebenfalls an diesen Konzern verkaufen wollte. Später erhalten wir dann noch einen Attentäterauftrag. Bekannterweise bin ich da meistens ziemlich human und lasse die Opfer vorerst überleben und liefere sie stattdessen dem Auftraggeber aus. Das belastet aber eigentlich mein Gewissen nur noch mehr. Wir werden sehen ob ich da nicht heute eine Ausnahme mache und die Schuld freiwillig auf mich lade.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #104
+
+* Titel: `Cyberpunk 2077 - #104 - Zenmeister [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich mache ich heute auch noch andere Sachen wie zum Beispiel das ich irgendwelche Valentinos im Park überfalle. Es ist doch überraschend einfach per Fernbedienung irgendwelchen Gangern ihre Cyberware neu zustarten, sich dann ihre Ausrüstung zu schnappen und unblutig davon zu kommen. Letztendlich macht es mich nicht unbedingt zu einem besseren Menschen aber dafür minimal reicher. Allerdings gebe ich zu bedenken das die Cyberware die ich dafür brauche wesentlich teuerer ist als alles was ich bis hier hin mit der Methode erbeutet habe. Aber eigentlich spielt das alles ja keine Rolle. Es geht doch darum reich zu werden und dabei auch noch Spaß zu haben. Eventuell ist unsere Existenz aber dennoch ein wenig leer, daher trifft es sich ganz gut das wir heute einen Zenmeister treffen der uns etwas über die Tiefe des Lebens erzählt.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #105
+
+* Titel: `Cyberpunk 2077 - #105 - Laguna Bend [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Laguna Bend ist ein Ort der nicht mehr existiert. Zumindest nicht mehr so richtig, alles was einmal war ist jetzt unter Wasser. Das hätten wir übrigens schon wissen können bzw. wissen wir bereits da wir ja alle Texte in Judys Apartment gelesen haben ich dann aber mich doch dafür entschieden habe das alles wieder zu vergessen. Es sind so kleine Details die hinter her wieder zurückkommen. Wie dem aber auch sei, heute gehen wir Tauchen. Das ist ziemlich sicher eine einmalige Erfahrung in dem Sinne das wir so schnell nicht wieder einen Taucheranzug und etwas zu sehen unter Wasser erhalten. Letztendlich sind die Seen in der Welt von Cyberpunk eher tote Mülldeponien in denen bereits alles Leben ein Ende gefunden hat. Die gute Nachricht, insofern man das als gut ansehen kann, das meiste Zeug das unter Wasser liegt ist tatsächlich noch sichtbar und nicht komplett überwachsen. Weil wenn hier was wächst, dann richtig dolle langsam. Eine sehr feuchte Episode das heute auf jeden Fall.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #106
+
+* Titel: `Cyberpunk 2077 - #106 - Familienerbstück [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wieder erledigen wir Aufträge für Leute die gar nicht einmal so unbekannt sind. Wir erinnern uns zum Beispiel an unsere Operationen für den Bürgermeister oder die Geschichte mit Lizzy Whizzy. Wie dem aber auch sei, heute treffen wir eine Berühmtheit zweiten Grades. Es handelt sich anscheinend um den Sohn von Bes Isis, ihr wisst schon die, bei der wir noch auf einen Anruf warten. Früher hieß sie Nancy, ihr Sohn ist anscheinend ein Promikind und hat es deswegen sehr schwer in der Welt. Zumindest habe ich das so verstanden. Der Gute hat wohl ein Glücksspielproblem und hat sowohl sein Auto als auch eine unersetzbare Bootleg Aufnahme eines Samurai Konzertes verwettet. Da wir uns gerne um unschätzbare Werte kümmern nehmen wir den Auftrag doch an, und weil ich eine kleine Hoffnung habe das die gute Bes Isis uns doch endlich einmal anruft, ihr Auftrag klingt interessant aber bisher hat sich nichts ergeben. Großer Ärger.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #107
+
+* Titel: `Cyberpunk 2077 - #107 - Hacke den Hacker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin fasziniert von der Welt von Cyberpunk in dem Sinne das aus wahrscheinlich ursprünglich spielerischen Gründen quasi alles hackbar ist. Es gibt nichts wovor eine geübter Decker erm, pardon, Netrunner nicht zurückschreckt. Informationen sind eigentlich quasi nie sicher und alles ist nur eine Frage der Mühe, ein wenig wie diese Zierzäune in Parks, man übertritt sie aus Höflichkeit nicht aber an sich könnten sie auch nicht da sein. Und dann kommt die erschreckende Erkenntnis das die Technik in der 2021 Realwelt auch nicht viel besser aussieht. Der IoT Kühlschrank, Toaste und Staubsauger ist für den Moment vielleicht grade so noch sicher aber das Ding telefoniert andauernd nach Hause und spätestens in zwei Jahren ist die Kiste sperrangelweit offen und quasi jeder kann rein. Oder jemand macht den Hersteller auf. Wenn man das ein wenig weiter denkt dann ist es nur noch eine Frage der Zeit bis quasi alles eine Lücke hat. Und wenn die Technik jetzt noch in den Menschen anstatt nur um sie herum stecken würde. Quasi die gleiche Situationen. Es wundert eigentlich das es nicht mehr Netrunner gibt die einfach komplett auf Chaos aus sind. Oder Netwatch macht einen guten Job. Wer weiß das schon.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

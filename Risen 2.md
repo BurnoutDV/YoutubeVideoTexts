@@ -938,6 +938,32 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #74
+
+* Titel: `Risen 2 - #74 - die Bucht von Maracai [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Viel zu lange ist es her das wir neue Gestade gesehen haben. Da ist man schon Pirat mit eigenem Schiff und treuer Crew und dann ist quasi der einzige Ort den wir überhaupt zu Gesicht bekommen haben eine Insel voller überdimensionierter Wasserspeier und eine voller Diebe. Beides kein Anblick den ich mir gewünscht hätte. Heute sieht die Geschichte anders aus, wir fahren an die Küste von Maracai und dort in eine Bucht die passenderweise die Bucht von Maracai genannt wird. Dort suchen wir einen Inquisitor namens Corrientes der anscheinend das Sagen in Caldera gehabt hätte wäre er nicht grade unterwegs. Vor allen Dingen soll es dort aber auch irgendwo Hinweise auf den Schatz von Schwarzbart geben. Ein ehemaliger Smutje namens Harlok hat wohl einen Hinweis und dem werden wir wohl nachgehen müssen. Auch treffen wir natürlich wieder Eingeborene diesmal aber nicht vom Stamm der Shaganumbi sondern einen Anderen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #75
+
+* Titel: `Risen 2 - #75 - Harloks Crew [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben eine Reihe bzw. eine Liste von Gründen warum wir an die Bucht von Maracai gekommen sind. Die Liste ist wenn ich ehrlich bin, und das bin ich nicht oft, sehr kurz. Reichtum, Schätze und die Welt retten damit der ganze Reichtum nicht völlig umsonst ist. Ein Puzzlestein für die Rettung der Welt liegt im Schatz von Garcia der scheinbar auch der Schatz von Stahlbart ist. Ich erwähnte bereits das ein Mann der uns gut aus der Vulkanfeste bekannt ist hier weitere Hinweise besitzen könnte. Sein Name ist Harlok, einst Koch den wir des Mordes verdächtigt haben. Er soll dereinst das Tagebuch des großen Piratenkapitäns besessen haben und hält es vielleicht noch heute. Die Informationen da drauß benötigen wir um weiter suchen zu können. Welch Glück das wir heute Harloks Crew finden, die möchte nur nicht freiwillig sterben, eine kleine Überraschung wie ich meinen möchte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

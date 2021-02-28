@@ -1353,6 +1353,30 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #108
+
+* Titel: `Cyberpunk 2077 - #108 - im eigenen Körper [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein ziemliches Stable wenn es um so Geschichte geht bei denen man auf einmal Erfahrungen im anderen Körper macht passieren wenn man plötzlich jemand Anderes ist. Heute liegt der Fall ein wenig anders. Als wir damals mit Pannam zusammen im Panzer eingeklingt waren dachte ich ja das wir vielleicht eine ähnliche Erfahrung erleben. Fakt ist aber  das das nicht passiert ist und wir bisher noch nicht irgendjemanden Anders gesteuert haben. Es überrascht mich eigentlich das das noch kein Element der Geschichte war. Irgendwelche Körperzombies werden von der bösen Regierung bzw. Konzern übernommen und agieren dann ohne das jemand nachweisen kann das sie es gewesen sind. Immerhin erleben wir davon heute eine Variante, nur das ein weltweit bekannter Terrorist Besitz von unserem Körper nimmt. Auch irgendwie unschön.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #109
+
+* Titel: `Cyberpunk 2077 - #109 - der Honden der Verhandlung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder im eigenen Körper und kümmern uns nun um die Dinge die wir tun müssen damit die Welt irgendwie ein besserer Ort wird. Oder zumindest die Taschen von Wakako sich aufbessern. Was weiß ich schon. Ich bilde mir ja ein das wir wirklich etwas für die Menschen tun, größtenteils arbeiten wir aber wohl für unseren eigenen Geldbeutel und nicht für das Erreichen irgendeines nebulösen Ziels. Heute zum Beispiel sind wir im Namen der Spionage unterwegs und verstecken ein Abhörgerät an einem eigentlich heiligen Ort. Wie oft wohl die Corps auf die Hilfe von Freelancern zurückgreifen und wie viele Orte es wirklich noch gibt die nicht von irgendjemanden überwacht werden. Davon abgesehen tun wir halt so Söldnerdinge, Stück für Stück klären wir die Welt bis nichts mehr übrig bleibt das zu tun ist. An sich sollte ich mir eigentlich Dinge aufheben, einfach damit mir die Illusion erhalten bleibt das die Welt noch lebendig ist und lebt.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

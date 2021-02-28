@@ -380,6 +380,32 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #30
+
+* Titel: `Fallen Order - #30 - Fahrt aufwärts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein großer Klassiker in so Spielen ist ja irgendwie das man sich eher immer weiter in die Finsternis hinablässt und irgendwann dann wirklich tief im Untergrund ist. Wenn man dann wieder raus will muss man ziemlich viele Treppen steigen. Das ist nicht nur anstrengend sondern dauert auch ziemlich lange. Da ist es doch eigentlich recht angenehm das wir heute mal mit dem Fahrstuhl zu erst nach oben fahren. Dann aber wieder runter, an einem Seil. Zu schade aber auch das wir nicht einfach an den Seilen wieder hoch fahren können. All das ändert sich dann aber heute, wir erweitern BD-1 wieder einmal ein Stück und nun ist es uns möglich Seile nach oben zu fahren. Es gibt da noch ein paar Stellen auf anderen Welten wo ich mit dieser neuen Fähigkeit Einiges erreichen kann. Das werde ich dann auch tun, später, zuerst müssen wir wohl dann doch leider wieder tiefer...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #31
+
+* Titel: `Fallen Order - #31 - die zweite Schwester [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit der neunten Schwester hatten wir bereits das Vergnügen und wenn man so will haben wir auch schon die zweite Schwester für einige kurze Sekunden getroffen. Heute ist uns aber eine etwas längere Audienz zugestanden. Ich bin übrigens auch ein wenig traurig das der Kampf so endet wie er endet, ich hätte tatsächlich gedacht das Fallen Order an der Stelle sein inneres Soulsborne channelt und der Boss halt einfach so schwer ist wie er schwer ist. Heißt wir sterben halt schon einige viele Male an ihm bzw. an ihr bis wir es schaffen. Das wäre ja auch keine Schaden, der Speicherpunkt ist nahe und wenn ich mich an den großen schwarzen Drachen Midir erinnere ist zwei Mal sterben ja quasi gar nichts. Perfektion kann nur auf dem Amboss des Scheiterns geschmiedet werden. Jeder Rückschlag eine neue Lektion in Bewegung. Immerhin scheint unsere Gegnerin relativ sympathisch zu sein auch wenn ich das Gefühl habe das mir ein Teil der Geschichte noch fehlt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

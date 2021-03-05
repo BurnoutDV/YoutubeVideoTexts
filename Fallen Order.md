@@ -406,6 +406,84 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #32
+
+* Titel: `Fallen Order - #32 - das Grab von Miktrull [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Zeffo hatten anscheinend verschiedene Epochen und heute finden wir ein Grab von einer Epoche die ein wenig weiter in der Vergangenheit liegt. Begraben ist hier ein gewisser Mitrull, der war, soweit wir das beurteilen können keine nette Person. Zumindest hat er ziemlich viele Sklavenarbeiter eingesetzt um sein Grab zu bauen, oder wenn er es nicht selbst tat so dachten zumindest seine Unterlinge das es eine gute Idee wäre das zu tun und daraus schlussfolgere ich einmal eiskalt das Miktrull das Verhalten Zeit seines Lebens auch gut zu heißen wusste. Weiter wissen wir aber wirklich nicht viel über den schon lange toten Zeffo. Nur das Cordova auch dieses Grab irgendwie entdeckt hat und hier Erkenntnisse errungen. Wie genau er dieses Grab gefunden hat ist mir übrigens nicht bewusst, es sieht aktuell nicht danach aus als hätte es hier vor dem Imperium irgendwelche Aktivität gegeben. Rätselhaft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #33
+
+* Titel: `Fallen Order - #33 - Grabstein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Miktrull ist tot und sein toter Körper sollte uns eigentlich keine besonderen Erkenntnisse liefern, die Erinnerungen von BD-1 werden schließlich durch bestimmte Örtlichkeiten ausgelöst und nicht durch das Finden irgendwelcher Artefakte, aber wenig später stellt sich sowieso heraus das das Artefakt eher von geringeren Interesse war, für alle Beteiligten. Wie dem aber auch sei, im Vorschaubild auf Youtube sind immer so drei Bilder die man als Thumbnail einsetzen könnte, ich nutzer natürlich immer meine eigenen Bilder, aber theoretisch möglich wäre es. Eines davon sieht wirklich klasse aus und wäre das Thumbnail des Tages wenn ich mir die Mühe machen würde für individuelle Episoden Bilder einzubauen. Mache ich aber nicht. Wie dem aber auch sei, der Grabstein ist in diesem Fall weniger ein Marker sondern tatsächlich das ganze Grab mit dem Toten in Stein gefasst. Für uns also völlig unwichtig, finde ich zumindest.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #34
+
+* Titel: `Fallen Order - #34 - der Turm von Miktrull [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wurde bereits festgestellt das Miktrull nicht unbedingt eine nette Person war, aber generell können wir über die Zeffo auch absolut nichts aussagen. An sich bleiben uns nur die Artefakte ihrer Zeit und ein paar automatische Wächter die aber technologisch ziemlich hochwertig zu sein scheinen, schon alleine weil sie noch funktionieren. Wie dem auch sei, der Turm von Miktrull heißt definitiv nicht so weil er das Teil erbaut hat (das waren immer noch Sklavenarbeiter) sondern weil es der Turm von Miktrulls Grab ist. Für uns übrigens tatsächlich ein wichtiger Ort weil alles darauf hinausläuft das wir dort hoch müssen um dann auf eine weitere Erinnerung von Cordova zurückzugreifen. Der Gute ist so eine Art Mentor für uns. Witzig ist übrigens auch das wir ja eigentlich nur für das Holocron hier sind aber Cordova so spricht als würden wir uns wirklich für das Schaffen der Zeffo interessieren. Man darf gespannt sein was wir am Ende wirklich erreichen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #35
+
+* Titel: `Fallen Order - #35 - Votivkerzenweitwurf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man besonders viel Andacht zeigen will verwendet man Votivkerzen für die verstorbenen um zu zeigen das man da war. Oder so. Ich habe ehrlich gesagt keine Ahnung warum man solche Dinge wie Grabkerzen herrichtet. Vielleicht hat es irgendetwas damit zu tun das man sich um ein Grab kümmert. Vielleicht auch um zu zeigen das man noch an die physisch verstorbenen zu gedenken und zu zeigen das sie im Geister weiterleben. Falls die Zeffo ähnliche Gedanken gehabt haben wurde das Ziel klar verfehlt. Ihre Kerzen brennen immer noch aber die Zeffo selbst sind nicht mehr da und damit auch niemand der ihnen gedenken kann. Das macht es ein wenig schwierig die Kerzen als ernsthaftes Symbol wahr zu nehmen. Allerdings sind sie immer noch ganz praktisch um widerspenstige Wurzeln zu verbrennen. Ein Trick auf dem das Imperium anscheinend nicht gekommen ist. Oder auch doch und dann hat man Dünger verwendet um die Wurzeln wieder wachsen zu lassen? Weil es sind ja auch Kisten eingewachsen, wie konnte das passieren?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #36
+
+* Titel: `Fallen Order - #36 - der Kompaktor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wie immer wenn wir auf dem Rückweg sind geht irgendetwas schief. Heute begegnen wir zum Beispiel dem Kompaktor. Ich habe ehrlich gesagt keine Ahnung um was für ein Wesen es sich dabei eigentlich handelt aber auf dem ersten Blick würde ich sagen es handelt sich um irgendeine Art von Androide der durch die Gegend wackelt und Dinge tut. In diesem Fall uns anscheinend gefangen nehmen. Das ist spoilert jetzt zwar ein wenig die Handlung aber andererseits liest das hier nie jemand. Vielleicht irgendwann später einmal wenn ich total berühmt bin und mich die Leute auf die Rechtschreibfehler in meinen Beschreibungen hinweisen werden. Das wird gewiss großartig. Das Spiel erklärt jetzt erst einmal ziemlich wenig, nur das wir plötzlich in einer Zelle aufwachen. Das ist übrigens irgendwie der Klassiker. Ziemlich viele Spiele haben eine Gefängnisszene in der man zwischendurch alles verliert und sich dann irgendwie mit minimaler Ausrüstung rauswuseln muss. Dark Souls 1 hat das beispielsweise gleich ganz am Anfang abfrühstückt und dann niemals die Ausrüstung rausgerückt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
+##### #37
+
+* Titel: `Fallen Order - #37 - die Arena [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute erfahren wir dann immerhin warum Karl überhaupt von irgendwelchen Kopfgeldjägern gefangenen genommen wurde. Schuld hat natürlich Greez und seine überbordenden Spielschulden die uns in diese Situation gebracht haben. Die Kopfgeldjäger haben halt bloß uns anstatt Greez erwischt. So ein Jedi ist natürlich auch wesentlich wertvoller als eine vierarmiger Pilot. Wie dem aber auch sei, ich rege mich über den Arenakampf am Anfang ein wenig auf und an sich mag ich solche Mechaniken auch nicht, man muss aber zu Gute halten das die Mechaniken hier ziemlich fair sind und es eigentlich nur frustrierend für mich war weil ich annahm wie die Dinge sein werden und am Ende waren sie es dann doch nicht. Es handelt sich offensichtlich nicht um ein Dark Souls oder Sekiro. Die Entwickler erlauben uns schon Einiges an Versagen bevor es ernst wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

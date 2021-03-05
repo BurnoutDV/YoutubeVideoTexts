@@ -1377,6 +1377,66 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #110
+
+* Titel: `Cyberpunk 2077 - #110 - Maßgeschneidert [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Johnny Silverhand hatte einige Gegestände die viel über seine Persönlichkeit ausgesagt haben, einer davon war seine Jacke auch wenn die Repräsentation die wir immer vor uns sehen halt die Form war mit der er starb, ohne Jacke aber dafür mit Schutzweste. Dennoch ist eine richtige Rockerboy Jacke genau das was uns noch für unser Johnny Silverhand Cosplay fehlt, das und der silberne Cyberarm vermute ich einmal, aber es gibt Dinge die sind nicht verhandelbar möchte ich meinen. Insbesondere weil die Technik eigentlich weiter ist und man scheinbar auch durchaus in der Lage ist minimalinvasive Cyberware herzustellen. Bestimmte Leute wie die Arasakas oder die Maelstroms haben das zwar noch nicht realisiert, aber ich finde weniger Cyberware ist oft mehr. Wie dem aber auch sei, wir erhalten heute eine Jacke geschenkt, jetzt fehlt uns eigentlich nur noch das Auto, die Hose und eventuell sogar die Pistole obwohl uns Letztere wahrscheinlich exakt null bringt weil wir einfach nie nicht schallgedämpfte Waffen einsetzen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #111
+
+* Titel: `Cyberpunk 2077 - #111 - Autokino [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich persönlich war noch nie in einem Autokino, habe aber gehört das in Pandemiezeiten das ganze Konzept auf einmal zusätzliche Beliebtheit genießt. Generell ist mir so als würde das Grundkonzept aus den amerikanischen 60er Jahren kommen als die Automotorisierung erst richtig los ging und quasi jeder ein Auto hatte und das auch ordentlich nutzen wollte. Wie dem aber auch sei, in Zeiten von Braindances und virtuellen Freuden hat platte Unterhaltung etwas an Reiz verloren. Es könnte natürlich auch sein das es beim Autokino nie darum ging das es einen Film gibt, ich kann mir eh nicht vorstellen das die Akustik besonders gut ist. Entweder das Ganze geht über das eigene Autoradio oder über  großen Boxen, und dann könnte es schwierig sein entsprechende Flächen ausreichend gut auszuleuchten. Wie dem aber auch sei, wir sind wirklich nicht für den Film da sondern weil wir einen Gefallen an Silverhand einlösen, auf Kosten unserer Seele. Toll.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #112
+
+* Titel: `Cyberpunk 2077 - #112 - Kerry Eurodyne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episodenbeschreibung habe ich ja erwähnt das sich unser Johnny Silverhand Cosplay Stück für Stück vervollständigt, aber noch haben wir noch nicht alles was wir wirklich brauchen. Und eine der Dinge die wir benötigen sind auf jeden Fall noch seine Freunde oder zumindest die Leute die er gekannt hat. Es ist ein wahres Glück das anscheinend wirklich niemand von den Leuten die er vor über 50 Jahre zu seinem Bekanntenkreis gehört haben verstorben ist. Das ist echt ein Wunder, schließlich ist wahnsinnig viel Zeit vergangen seit er das erste Mal gestorben ist. Wie dem aber auch sei, wir fangen mit einem Typen namens Kerry an. Der verzichtet freundlicherweise übrigens auch auf menschliche Wachen und ist angeblich ein ziemliches Wrack weil sich seine Musik nicht mehr so gut verkauft. Andererseits hat er ein ziemlich großes Anwesen das so aussieht als hätte er in letzter Zeit einigen Spaß gehabt. Wie dem aber auch sei, wir werden wohl wieder Johnny die Kontrolle überlassen, wieder Prozente mit denen unser Verstand und damit V. verschwindet. Ob wir überhaupt am Ende noch irgendetwas von uns retten können?
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #113
+
+* Titel: `Cyberpunk 2077 - #113 - Impala Inc. [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute passieren mir gleich zwei Dinge die mich ärgern, zum Einen verbrenne ich viel zu viel Zeit auf dem Grundstück der ehemaligen Impala Inc. Soweit ich die Geschichte verstanden habe ist das Ganze eigentlich ziemlich interessant. Die Leute haben ihre Fabrik geschlossen bekommen aber niemand hat tatsächlich irgendetwas getan um das auch durchzusetzen. Also hat man einfach weiter gearbeitet. Glaube ich zumindest. Irgendwie so. Das Geld hat dann wohl auch für private Sicherheitskräfte gereicht. Irgendwie so. Das Problem ist das ich den Ort nie so richtig bereinigen konnte weil egal was ich gemacht habe anscheinend der Ort nicht als sauber gilt. Wie dem aber auch sei, zwischendurch versuche ich auch noch mein Inventar von übermäßigen Ballast zu befreien und es stellt sich heraus das ich dabei leider auch die einzigartige Pistole von Johnny Silverhand zerlegt habe. Das ist wirklich ziemlich bedauerlich, weil das gute Stück kriege ich wohl ohne Cheats nicht mehr heran. Schade.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #114
+
+* Titel: `Cyberpunk 2077 - #114 - Totentanz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich liebe doppeldeutige Namen. Nein, wir tanzen heute nicht und vermeiden es generell und überhaupt durch die Gegend zu wackeln. Das kann nur schief gehen und das möchte ich ja schließlich nicht. Wie dem aber auch sei, das Totentanz ist eine ziemlich exklusive Disco der Maelstromer. ich weiß nicht ob man als Konzerner überhaupt da rein kommt und wie die allgemeinen Überlebenschancen da stehen wenn man von außerhalb kommt. Auflegen tut auch eine ziemlich exklusive Djane namens Tinnitus. Alles Weitere können wir uns dann wahrscheinlich im N54 News Report von Bes Isis abholen. Wegen der sind wir nämlich hier, die gute Nancy Hartley hat früher für Samurai gespielt und wir hätten gerne das sie das einmal wieder tut. Das Totentanz gefällt mir thematisch übrigens sehr gut, gut das wir uns nicht rausschießen mussten.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

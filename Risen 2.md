@@ -964,6 +964,84 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #76
+
+* Titel: `Risen 2 - #76 - die Bestie im See [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Wort See bzw. im Englischen Sea ist ein wenig verräterisch. Aber eigentlich nur wenn man aus dem Deutschen kommt. Im Englischen ist der Fall ziemlich klar, wenn man Sea meint dann ist auf jeden Fall der Ozean bzw. einfach große Wasserflächen gemeint. Das ist nicht ganz so wahr wenn man im Deutschen von "der" oder "dem" See spricht. Das eine ist eine ziemlich beängstigend gewaltige Fläche an Wasser das Andere ist relativ überschaubar. Wenn wir uns nach der Bestie der See umschauen würden  fänden wir bestimmt einen Leviathan oder vielleicht auch einen Kraken unter Maras Kontrolle den man wohl durchaus als Bestie bezeichnen kann. Heute sprechen wir aber von "dem" See, das Ding in dem die Maracai angeln, dort haust ebenfalls eine Bestie. Da das Wasser aber weniger ist ist auch die Bestie von geringerer Natur. Um die Geschichte kurz zu machen, wir töten heute ein Krokodil und schenken Patty die nächste Handtasche.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #77
+
+* Titel: `Risen 2 - #77 - verwinkelte Höhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe nicht wirklich viel Orientierungssinn, was ich aber dafür kann ist ziemlich gut Karte und das was ich sehe übereinbringen. Zumindest in Spielen, in der Realität fällt mir das auch ziemlich schwer, ich würde das aber spontan auf mangelnde Erfahrung schieben und nicht auf generelle Unfähigkeit. Wie dem aber auch sei, ich habe leider keine Karten für diverse Höhlen, bisher war das auch kaum notwendig da wir eigentlich nur sehr kleine Höhlen betreten haben oder aber unterirdische Tempel die aber einer bestimmten Struktur folgen. Jetzt ist es endlich soweit, ich verlaufe mich in einer Höhle. Das tut mir übrigens auch schrecklich leid und war gar nicht so geplant. Insbesondere weil ich mir ziemlich sicher bin das die Höhle eigentlich ziemlich überschaubar ist und man sich eigentlich kaum verlaufen kann. Aber es sieht nun mal wieder alles so gleich aus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #78
+
+* Titel: `Risen 2 - #78 - das Dorf der Maracai [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es irgendwie geschafft das Dorf der Maracai ziemlich weitläufig zu umlaufen. So was kommt vor wenn man versucht nichts zu verpassen und jeden Pfad mitzunehmen der sich irgendwie ergibt. Einige der Einwohner sind wir aber schon begegnet, zum Beispiel den Fischern oder dem einsamen Jäger. Wie dem aber auch sei, heute finden wir eine leicht umgedrehte Situation vor, die Maracai scheinen die Inquisition besser als die Piraten zu finden weil die sich hier scheinbar aggressiv gegenüber den Eingeborenen verhalten haben während die Männer von Corrientes vorsichtig und weniger übergriffig gezeigt haben. Das wird in Zukunft noch besonders lustig wenn die Shaganumbi und die Maracai miteinander reden, wir wissen das es dazu bereits in der Vergangenheit kam. Allerdings frage ich mich jetzt wieso Corrientes hier so zurückhaltend war. Ist Sebastiano ein Einzelfall und die einzelnen Kommandeure der Inquisition machen sehr unterschiedliche Dinge oder war es hier reine Notwendigkeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #79
+
+* Titel: `Risen 2 - #79 - Corrientes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich haben wir ihn gefunden, Ratsmitglied, Inquisitor und hohes Tier im Allgemeinen. So hoch sogar das der gute Mann sogar eine Perücke mit in den Dschungel geschleppt hat. Alles eine Frage des Standes. Seine Männer hatten wir ja schon vorher getroffen aber jetzt sprechen wir endlich mit dem Mann selbst, und es stellt sich heraus das er anscheinend eine wichtige Mission hat. Selbstverständlich helfen wir ihn dabei auch, schließlich sind wir doch ein Mann von Ehre und das Schicksal der Welt hängt uns doch ziemlich am Herzen. Wir sollen für ihn irgendeine Höhle finden, das ist tatsächlich nicht so schwierig da ich mich neulich verlaufen habe und bereits jede Höhle kenne die man kennen kann und daher auch schon weiß wo die Feuerwand ist die Corrientes sucht. Leider kann man dort nicht so einfach durch, der örtliche Schamane sollte aber Abhilfe schaffen können. Jetzt müssen wir ihn nur noch finden, den Schamanen meine ich, Corrientes steht offensichtlich vor uns.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #80
+
+* Titel: `Risen 2 - #80 - der Gezeichnete [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Dorf der Maracai sind die Anwesenden Protektoren nicht  das Einzige was ein wenig seltsam wirkt. Auch die taktisch platzierten Schattenstellen der ziemlich knappen Lendenschürzen der Frauen vervollständigen die Liste noch nicht, es fehlt noch Bones. Der Mann ist offensichtlich nicht hier aus dem Dschungel sondern von irgendwoher wo weniger viel Sonne scheint. Der gute Mann ist blass wie ein Laken, und das obwohl er anscheinend schon länger hier ist. Ich bin mir übrigens nicht ganz sicher ob diese weißen Markierungen jetzt Tatoos oder nur Farbe sind. Die Art und Weise wie sie aufgetragen sind spricht sehr dafür das es nur gepinselt wurde, aber anscheinend hat jeder diese weißen Zeichnungen und ich gehe mal davon aus das die Leute wissen was Hygiene ist, fließenden Wasser ist ja doch vorhanden. Malen die also alle das Zeug andauernd neu? Wie dem aber auch sei, Bones hat ein wenig eine am Schädel, aber es scheint so das ihm ein Teil seiner Seele fehlt, das erklärt Vieles sage ich mal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #81
+
+* Titel: `Risen 2 - #81 - goldene Masken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben nun schon wirklich viele Gräber ausgeraubt und bis her hat sich nie irgendjemand beschwert, das lag größtenteils auch daran das wir die entsprechenden Leute die sich beschweren wollte umgebracht haben bevor sie mit ihrer Petition fertig waren. Das tut aber nichts zur Sache. Plötzlich macht das ganze Grabräubertum aber doch Probleme und wir müssen etwas dagegen tun. Ich bin auch sehr gegen Grabräuber, schon deswegen weil diese Leute nicht ich sind und den Reichtum am Ende noch einstecken und wir leer ausgehen. Die weitere Vorgehensweise ist also ganz einfach, wir klären das Problem, am besten mit Hilfe der Eingeborenen, beseitigen die Räuber und die Fallen die offensichtlich im Grab liegen (mit den leblosen Körpern besagter Räuber). Holen uns eine eventuell anfallende Belohnung der Eingeborenen ab und besuchen später die Gräber erneut um alles abzugreifen. Der Plan war gut. Leider gibt es außerdem noch einen Geist der uns scheinbar überwacht. Sehr ärgerliche Geschichte. Hoffentlich lohnt sich das Alles am Ende irgendwie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

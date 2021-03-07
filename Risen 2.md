@@ -1042,6 +1042,19 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #82
+
+* Titel: `Risen 2 - #82 - Ahnenbesänftiger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein bisschen unfreiwillig ist der namenlose Held zum Seelenhirten der Maracai geworden. Es ist nun so das die Geister der alten Toten ein wenig miesgelaunt sind weil irgendwelche Piraten ihre Gräber plündern. Mir ist übrigens immer noch nicht ganz bewusst was das ganze Gold eigentlich bringen soll. Soweit ich das sehen kann ist die Welt als solches am Ende und wir fahren eigentlich nur noch auf Artefakten um die Welt. Es gibt Nichts da draußen das es ermöglichen kann neue Dinge zu kaufen, keine neuen Schiffe mehr, die Schiffswerften der Welt sind weg und damit wahrscheinlich auch die Handwerker die wissen wie man ein großes Schiff baut. Jedes Boot das untergeht beraubt die Welt also um weitere Möglichkeiten sich zu bewegen. Andererseits gibt es kaum Orte an denen man hinfahren kann. Was also machen die Piraten mit dem Gold? Außer von mir im Namen der Geister bestraft zu werden? Wie dem aber auch sei, auch wenn der Geist was Anderes behauptet hat gibt es am Ende doch noch eine Belohnung, jetzt müssen wir nur noch den Oberschamanen finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

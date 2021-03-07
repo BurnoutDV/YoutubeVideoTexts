@@ -1437,6 +1437,31 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #115
+
+* Titel: `Cyberpunk 2077 - #115 - Denny & Henry [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere kleine Band ist schon fast vollständig, jetzt fehlt nur noch ein wenig Personal und schon kann es so gut wie los gehen. Eine der Personen ist Henry der anscheinend grade aus einer Entzugsklinik entlassen werden musste bzw. sich selber durch das Fenster entlassen hat. Klingt ein wenig nach Rockstar, ich bin an der Stelle dann umso mehr beeindruckt das mit als harter Drogenjunkie nach 50 Jahren immer noch lebt, die Wahrscheinlich stapelt sich ja schon irgendwie das man gelegentlich dabei zu Tode kommt. Die andere Person ist übrigens Denny, die scheint sich wesentlich besser organisiert zu haben und besitzt ein etwas Größeres Anwesen, quasi nur ein Steinwurf von Kerrys entfernt. Trotzdem haben sich die beiden noch nie getroffen seit sie hier wohnen. Das liegt wahrscheinlich ein wenig daran das unser Freund Kerry ein wenig Selbstmordabsichten nachhängt und deswegen zu beschäftigt war die Nachbarschaft zu besichtigen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDVHier
+  ```
+
+##### #116
+
+* Titel: `Cyberpunk 2077 - #116 - der Auftritt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie und ohne irgendwelche Mitschuld meinerseits sind wir auf die Spuren von Johnny Silverhand geraten. Das geht sogar so weit das wir mit seiner alten Band spielen. Ich selbst bin kein besonders musikalischer Mensch. Ich hatte mal eine Freundin die es war und mein eigenes fehlendes Verständnis für Musik hat manchmal gefehlt. Wie dem aber auch sei, selbst wenn ich Musik spielen könnte würde mir das Selbstbewusstsein fehlen auf einer Bühne zu stehen und zu spielen. Zuviel Zweifel das irgendetwas schief gehen könnte oder das es den Leuten nicht gefällt. Ich muss übrigens sagen das das Konzert das wir heute erleben in mir eine gewisse Aufregung erschaffen hat und sogar den Puls erhöht hat. Ich war tatsächlich nervös für ein Konzert auf Schienen bei dem eigentlich alles geskriptet war. Das ist schon eine beeindruckende Menge an Lampenfieber, ich frage mich ob all die Jahre Livestreaming mich eigentlich überhaupt nicht darauf vorbereitet haben vor Mengen zu sprechen. Ich dachte eigentlich das ich das mittlerweile besser kann. Also hey, das war mal eine gute Szene in CP77, starke Emotionen ausgelöst, in Erinnerung geblieben und zum Nachdenken angeregt. Die restlichen 20 Minuten dieser Episode tun wir irgendwelchen Unsinn.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -132,6 +132,19 @@
   Uncharted 3 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #11
+
+* Titel: `Uncharted 3 - #11 - Licht & Arachnophobie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach der kurzen Episode mit Cutter sieht jetzt ja alles eigentlich wieder ganz gut aus, wir haben zwar unser Notizbuch verloren aber das ist ja nicht weiter schlimm, es geht auch ganz gut ohne weiter, mal davon abgesehen das es sowieso Eddies Notizbuch war und nicht das von Drake wo wesentlich wichtigere Dinge drin stehen. Vermute ich mal. Wie dem aber auch sei, heute begegnen wir wieder Spinnen. Und davon übrigens eine ganze Menge. Das ist deswegen so auffällig weil es anscheinend die gleichen Spinnen sind wie die die wir in Frankreich getroffen haben, große außerordentlich aggressive Spinnen die es scheinbar nirgendwo sonst gibt und die eine Rolle als Wächter von Gräbern einnehmen. Fast schon wie eine gezielte Züchtung für einen bestimmten Zweck. Auffällig. Aber da wir es wohl mit eher alten und verlorenen Schätzen zu tun haben denke ich einmal das wir Aliens ausschließen können. Dennoch, schon seltsam das alles, das sich die Viecher hier in der Wüste nicht ausbreiten können erscheint mir noch recht logisch, aber der Wald in Frankreich war ja doch recht feucht....
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

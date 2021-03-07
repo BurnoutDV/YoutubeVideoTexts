@@ -484,6 +484,19 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #38
+
+* Titel: `Fallen Order - #38 - drei Boggdos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder auf Bogano! Wie sollte es auch anders sein, schließlich haben wir eine neue Fähigkeit und mit der können wir bestimmt wieder einen neuen Ort erkunden. Also tun wir das natürlich auch. Im Nachhinein frage ich mich aber schon ob es nicht eine gute Idee gewesen wäre einfach abzuwarten bis wir alle Fähigkeiten haben die man so haben kann. Andererseits kann ich unmöglich ohne Spoiler wissen wann es soweit ist. Aber mindestens ein besonders hoher Sprung steht noch aus, oder ein besonders weiter. So oder so haben wir das Ding noch nicht, unsere Reise nach Bogano kann also gar nicht vollständig glücklich und erfolgreich werden. Wir werden also noch mindestens einmal hier her kommen, vielleicht sogar zweimal wenn wir die letzten Geheimnisse nicht kurz vor Ende des Spiels aufdecken werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

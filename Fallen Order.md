@@ -497,6 +497,34 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   ```
 
+##### #39
+
+* Titel: `Fallen Order - #39 - Wandrennen für Fortgeschrittene [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch auf Bogano und wenn ich ehrlich bin hätten wir auch schon längst wieder weg sein können, es begab sich aber die Gelegenheit das es da noch ein paar Dinge gab die ich finden wollte und das obwohl mir absolut bewusst war das ich nicht noch nicht höher springen kann. Dennoch versuche ich dennoch Orte zu erreichen die mit unseren neuen Fähigkeiten jetzt bestimmt in greifbarer Nähe sind. Es gibt da diesen einen Raum in dem wir zum aller ersten Mal gelernt haben wie man an einer Wand hoch rennt. Da gehen wir jetzt noch einmal hin und schauen ob wir jetzt nicht an ein paar Schnüre ziehen können um unseren Weg zu erweitern. Leider ist das Ganze nicht ganz sauber und die Dinge die ich tun muss um höher zu kommen sehen, soweit ich das beurteilen kann, nicht ganz so geplant aus. Aber es funktioniert, man muss nur oft genug gegen die Wände laufen. Dann geht alles, und am Ende habe ich bestimmt auch Erfolg. Ihr werdet schon noch sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPZRJs3-GwBY-qow9niuOdP
+  ```
+
+##### #40
+
+* Titel: `Fallen Order - #40 - Dunyan und Pango [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend ist das ganze Geschäft mit den Kopfgeldjägern noch nicht vorbei. Klar, wir bewegen uns vor allen Dingen im Outer Rim umher und es gibt nur soviele Welten auf denen wir enden könnten aber das man uns ausgerechnet hier findet gibt mir schon ziemlich zu denken. So Kopfgeldjäger haben ja auch einen Ruf zu verlieren und dennoch frage ich mich doch sehr wie man Karl und seine Gang so schnell schon wieder gefunden hat. Insbesondere weil auf Kashyyyk immer noch das Imperium regiert und wahrscheinlich irgendwo sowas wie eine Flotte im Orbit rumfliegen hat. Beim ersten Mal mussten wir uns mit der ja auch rumärgern, warum also haben wir jetzt beim zweiten Mal überhaupt kein Problem damit obwohl man doch eigentlich schon ob unseres letzten Besuches informiert war. Wie dem aber auch sei, die Kopfgeldjäger sind ja auch irgendwie durchgekommen und haben uns erwartet. Wie ärgerlich eigentlich das sie ihr Leben lassen mussten. Aber wenn man gefährliche Beute jagt muss man halt bereit sein den größten Preis zu zahlen. Dennoch nervig die Beiden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPZRJs3-GwBY-qow9niuOdP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

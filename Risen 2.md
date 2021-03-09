@@ -1055,6 +1055,34 @@
   Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
   ```
 
+##### #83
+
+* Titel: `Risen 2 - #83 - Detektivarbeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute finden wir alles heraus. Größtenteils weil uns jemand die entscheidenen Hinweise gibt und wir dann nur noch zwei und zwei zusammenzählen müssen und mit etwas Hilfe sogar nicht auf fünf kommen. Am Ende finden heraus das wir reingelegt wurden, wie schon so oft. Langsam zweifel ich wirklich an der Qualifikation des namenlosen Helden als Pirat. Er scheint einfach nicht gerissen genug zu sein um in diesem Geschäft besonders weit zu kommen. An jeder Stelle werden wir von eigentlich geringeren Männern als uns hereingelegt. Das ist außerordentlich übel und gefällt mir gar nicht. Was passiert wenn uns irgendwann jemand hinters Licht führt der mörderische Absichten hat. Dann wäre doch der Ofen ziemlich schnell aus und es gäbe nichts was wir dagegen tun könnten. So möchte ich ehrlich gesagt auch nicht enden. Für den Moment leben wir aber noch und schauen uns Indizien an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
+##### #84
+
+* Titel: `Risen 2 - #84 - Garcias Schiff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neben der Chance endlich ein neues Schiff sein Eigene zu nenne haben wir auch andere Gründe den Khan von Garcia zu entern. Es kann durchaus sein das sich an Bord ein Tagebuch findet das uns verrät wie man an den Schatz des alten Piraten kommt. Und das würden wir ja schon gerne tun, wer möchte nicht reicht werden? Und Stahlbarts Amulett müsste da auch noch irgendwo liegen, das lassen wir uns selbstverständlich nicht entgehen. So viele Piraten wie wir sie im Dschungel getroffen haben sollte es aber auf dem Schiff selbst keine Besatzung mehr geben. Generell macht mir das alles ein wenig Sorgen. Wenn ich bedenke wie viele Leute Garcia um sich gescharrt hat und wie wenig Personal wie wir haben, da denkt man schon ein wenig darüber nach wie gut wir eigentlich für den Ernstfall ausgerüstet sind. Könnten wir eine Seeschlacht gewinnen? Einen Enterversuch abwehren? Garcias Schiff kann auf jeden Fall nicht einmal ein Ruderboot abwehren, soviel ist nach der heutigen Episode auf jeden Fall sicher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
 ##### #Nummer
 
 * Titel: ``

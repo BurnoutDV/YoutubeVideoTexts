@@ -145,6 +145,34 @@
   Uncharted 3 - Among Thieves auf dem Montags Slot.
   ```
 
+##### #12
+
+* Titel: `Uncharted 3 - #12 - (k)ein Beinbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben schon einige Fluchten hinter uns und es bleibt auch weiterhin absolut klar das unserem Haupthelden Nathan natürlich nichts passieren darf. Allerdings haben wir ja immer ein paar Begleiter dabei die wir im Fall der Fälle für die Dramatik opfern können. Der Weg eines Helden ist voller Entbehrungen und wenn wir schon nicht selbst unter den Konsequenzen unserer Taten leiden können dann können es wenigstens andere tun. Zum Beispiel bricht sich Nathan Drake auch nie etwas, zwar stürzt er öfter mal irgendwo herunter und holt sich auch einige blaue Flecke aber wenn er tatsächlich länger außer Gefecht wäre könnten wir ja nicht weiter machen und unsere Feinde schlafen ja nicht. Daher bricht sich heute jemand Anderes das Bein, das ist fast genauso gut und zeigt uns den Ernst der Lage, nur Nathan selbst scheint von solchen Ereignissen eher unberührt zu sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #13
+
+* Titel: `Uncharted 3 - #13 - Faustkampf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind eigentlich kaum korrekt im Jemen einmarschiert und schon finden wir unseren Erzfeind wieder. Entweder der verfolgt uns tatsächlich oder wir haben einfach nur unfassbares Glück. Oder aber wir folgen alle den gleichen Hinweisen. So genau kann man das ja niemals wissen. Wie dem aber auch sei, Talbot ist scheinbar hier, er und sein selbstgerechtes Grinsen und selbstverständlich lässt der gute Mann sich nicht so einfach fassen wie ich das gerne gehabt hätte. Also rennen wir hinterher und finden all seine Handlanger. In der Innenstadt scheint es aber ein striktes Verbot von Handfeuerwaffen zu geben, das kommt uns zu Gute. Nathan Drake ist ja weltweit bekannt für seinen miesen linken Haken. Der macht es auch für uns möglich aus der Situation die sich uns grade bietet gut heraus zu kommen. Und so prügeln wir uns heute anstatt wild rumzuballern. Das ist mir ehrlich gesagt wesentlich lieber, es spart mir auch viel Arbeit. Schön.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

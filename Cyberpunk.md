@@ -1462,7 +1462,19 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
-##### #Nummer
+##### #117
+
+* Titel: `Cyberpunk 2077 - #117 - Musikkritik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Durch die stattliche Mithilfe von Johnny Silverhand sind wir jetzt Best Buddies mit einer legendären Musikantenperson, sein Name ist Kerry Eurodyne und er ist mindestens um die 70 Jahre, wahrscheinlich eher um die 80 alt. Aber anscheinend kann man mit modernen Mitteln Einiges dafür tun nicht älter zu werden. Bei Kerry waren diese Mittelchen aber eigentlich gar nicht notwendig weil der gute Mann im Kopf immer noch fast 12 ist und daher nicht großartig gealtert ist. Warum sage ich das? Weil wir uns heute als direkter Musikkritiker üben und  Dinge  tun die ich von einem gestandenen Rockstar eigentlich nicht gedacht habe. Andererseits muss man sich wohl ab und zu bei seinen Fans als harter Junge profilieren. Ich frage mich nur ob der Überfall der Ausrüstung einer japanischen Pop-Band hier wirklich das Mittel der Wahl ist. Wie dem aber auch sei, genau das machen wir heute, immerhin stirbt niemand, schließlich sind wir ja ein sauberer Verbrecher.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  ```
+
+##### #118
 
 * Titel: ``
 

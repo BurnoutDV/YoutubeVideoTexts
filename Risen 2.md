@@ -1083,6 +1083,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
   ```
 
+##### #85
+
+* Titel: `Risen 2 - #85 - drei Prüfungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um ein echter Krieger der Maracai zu werden muss man sich beweisen. Um ein großer Häuptling der Maracai zu werden muss man sich ebenso beweisen, aber irgendwie anders. Man muss einen Champignon (ja genau das Wort!) finden der sich dann an der eigenen Stelle beweist und zeigt wie gut man als Anführer einer kleineren Gruppe ist. Wir haben uns zwischendurch eingeschmuggelt um exakt diese Rolle zu übernehmen. Das haben wir übrigens getan weil wir an der Fundwaffe eines der Eingeborenen scharf sind. Das Schicksal des Volkes ist uns total egal und spielt eigentlich absolut keine Rolle für uns. Aber natürlich geben wir uns trotzdem richtig viel Mühe, kann ja auch nicht sein das es irgendwelche Menschen gibt denen der namenlose Held noch nicht geholfen hat. Daher werfen wir uns voll rein und zeigen jetzt allen Leuten auf diesen Kontinent das wir einfach alles wesentlich besser können als die restliche Bevölkerung  der Welt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
 ##### #Nummer
 
 * Titel: ``

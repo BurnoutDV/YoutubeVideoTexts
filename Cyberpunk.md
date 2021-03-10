@@ -1476,6 +1476,20 @@
 
 ##### #118
 
+* Titel: `Cyberpunk 2077 - #118 - Rock ist tot [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich stehe ja immer wieder kurz davor ins Embers zu Hanako zu gehen und dann irgendwelche Dinge zu erledigen. Aber immer kommt mir irgendetwas dazwischen. Heute zum Beispiel ist es ein Anruf von Kerry der sich gegen die Invasion japanischer Pop-Mädels stellen will. Wie genau er das anstellen will ist mir übrigens nicht ganz klar. Wenn es nicht direkt zur Schießerei kommt kann ich mir irgendwie nicht vorstellen wie die Operation klappen soll. Der Plan ist relativ klar, wir rücken in einem Club ein und tun irgendwie Dinge mit den eigentlichen Protagonistinnen der Show und gucken dann mal was passiert. Das reinkommen ist eine klassische Aufgabe für einen Söldner wie V. Einfache Geschichte, Tür aufbrechen, an etwaigen Türwächtern vorbeischleichen und schon sind wir in der Umkleidekabine der Mädels. Das was danach kommt ist das was mir Sorgen macht. Ich bin wirklich gespannt wie wir diesen Fall lösen.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

@@ -525,6 +525,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPZRJs3-GwBY-qow9niuOdP
   ```
 
+##### #41
+
+* Titel: `Fallen Order - #41 - der Ursprungssee [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Erkundungstour auf den wilden Planeten Kashyyyk geht immer weiter, heute kommen wir im Ursprungssee an. Der stellt ein gewisses Problem für uns da, schon weil er ein See ist. Seen bestehen aus einer Menge Wasser. Größere Menge Wasser können nicht so ohne Weiteres von uns beschritten werden. Ansonsten ist Kashyyyk eigentlich ein schöner Ort den man durchaus erkunden kann. Das Einzige was ein wenig stört ist die große Menge an Insekten, tödlichen Tieren und Pflanzen den Leben eines unachtsamen Besuchers nachtrachten. Ebenfalls stört ein wenig das es überall Dschungel und gewaltige Bäume gibt die uns im Weg stehen. Aber hey, Fortschritt machen wir.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPZRJs3-GwBY-qow9niuOdP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

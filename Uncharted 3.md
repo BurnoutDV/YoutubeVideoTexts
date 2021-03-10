@@ -173,6 +173,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
+##### #12
+
+* Titel: `Uncharted 3 - #14 - drehende Mechanik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin immer wieder und jedes Mal aufs neue erstaunt. Wirklich tief erstaunt. Egal wo wir hingehen überall finden wir Maschinen und Mechaniken vor die nicht nur auf ihre Nullstellung gebracht wurden so das der nächste Abenteurer sie lösen kann, nein sie sind auch noch in perfekt funktionierenden Zustand. Andere Welten versuchen zumindest irgendwie eine Erklärung dafür zu liefern warum die Dinge noch funktionieren. Uncharted macht sich diese Mühe nicht, wir sind jetzt in der dritten Installation und ich warte immer noch darauf das der geheime Orden aufgeklärt wird der dafür sorgt das all diese schönen drehenden Zahnräder noch funktionieren. Wie dem aber auch sei, heute treffen wir wieder eine solche Konstruktion. Es kommt übrigens noch oben drauf das auch noch jemand dafür sorgen muss das die Viecher die den Ort hier bewachen immer ausreichend gefüttert werden und sich nicht außerhalb der Anlage ausbreiten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

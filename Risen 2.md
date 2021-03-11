@@ -1097,6 +1097,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
   ```
 
+##### #86
+
+* Titel: `Risen 2 - #86 - die Feuerwand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wieder einmal der Punkt gekommen an dem wir durch eine Tür gehen. Eine Tür die zu einem Ort führt der schon seit langer Zeit vergessen ist. Wir wissen übrigens gar nicht warum Garcia eigentlich überhaupt hier ist. Wir haben nie gefragt, alles was wir tun ist dem Artefakt nachgieren das der Kapitän hält, völlig ignorant für den Zweck. Wir wissen das Mara verschiedene Pläne hat die an verschiedensten Orten ausgeführt werden. Die Kapitäne sind dabei wie Marionetten, Figuren die auf dem Feld hin und her geschoben werden um Dinge zu tun. Aber der große Plan ist für uns immer noch  genauso unverständlich wie er es am Anfang war. Aber wir haben auch nicht wirklich irgendwelche neue Informationen erhalten die uns auch nur in irgendeiner Hinsicht weiterhelfen können. Oder anders gesagt, wir haben uns auch keine Mühe gegeben die Informationen zusammen zu fassen, zu analysieren. Lange Geschichte kurz, wir laufen blind in eine Menge Probleme. Ich kann mir nicht vorstellen wie das schief gehen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -173,7 +173,7 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
-##### #12
+##### #14
 
 * Titel: `Uncharted 3 - #14 - drehende Mechanik [Let's Play; ger; Blind]`
 
@@ -181,6 +181,20 @@
 
   ```markdown
   Ich bin immer wieder und jedes Mal aufs neue erstaunt. Wirklich tief erstaunt. Egal wo wir hingehen überall finden wir Maschinen und Mechaniken vor die nicht nur auf ihre Nullstellung gebracht wurden so das der nächste Abenteurer sie lösen kann, nein sie sind auch noch in perfekt funktionierenden Zustand. Andere Welten versuchen zumindest irgendwie eine Erklärung dafür zu liefern warum die Dinge noch funktionieren. Uncharted macht sich diese Mühe nicht, wir sind jetzt in der dritten Installation und ich warte immer noch darauf das der geheime Orden aufgeklärt wird der dafür sorgt das all diese schönen drehenden Zahnräder noch funktionieren. Wie dem aber auch sei, heute treffen wir wieder eine solche Konstruktion. Es kommt übrigens noch oben drauf das auch noch jemand dafür sorgen muss das die Viecher die den Ort hier bewachen immer ausreichend gefüttert werden und sich nicht außerhalb der Anlage ausbreiten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #15
+
+* Titel: `Uncharted 3 - #15 - psychotischer Anfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nathan Drake ist quasi unbesiegbar, wir haben uns mittlerweile durch wortwörtliche Armeen von Feinden, Söldnern und Mietschwertern gekämpft und waren doch bis her immer erfolgreich. Niemand war in der Lage kaum mehr zu tun als uns zu verlangsamen. Aber jetzt ist es anscheinend soweit, Nathan selbst wird zum Ziel seiner Feinde. Körperlich ist der Mann natürlich immer noch unbesiegbar, das Gleiche kann man aber nicht über seine Psyche sagen. Wir waren zwischendurch ja immer wieder in irgendwelchen Gefängnissen aber selbst das war ja weniger schlimm. Interessant ist also das es heute von unseren Widersachern versucht wird uns so festzuhalten das wir nicht weg kommen aber ohne dabei irgendwelche physischen Fesseln zu nutzen. Stattdessen vertraut man darauf das der gute Nathan nicht handelt weil andere bedroht sind, letztendlich halte ich Nathan Drake aber immer noch für einen opportunistischen Egoisten der im Zweifel immer sich selbst retten wird.
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Uncharted 3 - Among Thieves auf dem Montags Slot.

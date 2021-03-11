@@ -1488,6 +1488,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
   ```
 
+##### #119
+
+* Titel: `Cyberpunk 2077 - #119 - Swedenborgs Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einer Welt in der niemand wirklich sicher vor dem Zugriff von Netrunnern, Konzernen und Leuten mit mächtigen Interessen ist es leicht unter die Räde zu kommen. Wie auch immer aber die Dinge laufen alles ist relativ. Zum Beispiel kann man ziemlich lange Dinge in relativer Sicherheit tun solange man niemanden auf die Nerven geht der die Mittel hat gegen einen zu Agieren. Heute forschen wir zum Beispiel einer Entität namens Swedenborg Rivierra hinterher. Wir wissen absolut nichts über das Phantom, nur das es eine Stimme ist die antikapitalistische Sprüche in den Äther haut. Es gibt da ein paar Spuren denen wir nachforschen können aber ich bezweifle das wir überhaupt irgendetwas am Ende finden. Wie dem aber auch sei, für das Erste haben wir eine Art Schnitzeljagt und da wir quasi im Auftrag der Presse unterwegs sind hält uns ja auch nichts auf einmal ordentlich nachzuforschen was da noch alles in der Finsternis liegt. Eventuell müssen wir uns auch ein wenig den Weg freischießen, aber das wird sich zeigen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
 ##### #Nummer
 
 * Titel: ``

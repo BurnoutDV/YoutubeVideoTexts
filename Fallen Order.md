@@ -539,6 +539,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPZRJs3-GwBY-qow9niuOdP
   ```
 
+##### #42
+
+* Titel: `Fallen Order - #42 - Häuptling Tarful [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist er wieder. Häuptling Tarful. Man könnte fast meinen das wir aus Versehen immer die Spiele spielen in denen der gute Tarful vorkommt. Dieses Mal müssen wir ihn aber nicht retten, der Wookie kann offensichtlich ziemlich gut auf sich selber aufpassen. Das Einzige was wir überhaupt tun müssen bzw. mussten war ihn zu finden und das haben wir dann heute auch geschafft. Nebenbei treffen wir auch noch die Reste des lokalen Widerstandes der aber größtenteils abgezogen ist. Das kann ich eigentlich gar nicht verstehen, die dichten Bäumen des Planeten Kashyyyk scheinen mir doch ideal zu sein um richtigen Gorilla Kampf auszuüben. Aber vielleicht liegt es auch an meinen mangelnden Fähigkeiten das Wort Guerilla zu schreiben das ich die Lage hier falsch einschätze. Tarful kennt natürlich Cordova und kann uns einige Dinge erzählen. Gut das Wookies so langlebig sind, das macht sie als lebendige Informationsspeicher nützlich, wenn sie jetzt noch vernünftige Zungen sprechen würden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPZRJs3-GwBY-qow9niuOdP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

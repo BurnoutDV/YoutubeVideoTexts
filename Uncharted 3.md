@@ -201,6 +201,158 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
+##### #16
+
+* Titel: `Uncharted 3 - #16 - Schrottwerft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt viele Plätze auf der Welt wo die Dinge landen die keiner mehr möchte. Bei Müll und kleineren Haushaltsgegenständen ist das dann ein großer Berg von diversen Dingen. Aber oft vergisst man das auch die großen Dinge irgendwann alt werden und es nicht immer sinnvoll ist sie bis auf alle Ewigkeit zu erhalten. Wenn man wollte könnte man wohl eine Schiff des Theseus Geschichte daraus machen aber diese Möglichkeit besteht nicht immer. Zum Beispiel bei Schifffen oder Flugzeugen. Flugzeuge bestehen aus relativ teuren Aluminium, das möchte man in der Regel wieder haben aber auch nicht immer. Oder sofort. Dann lagert man die Flieger ausgeschlachtet in der Wüste oder irgendwo anders wo es gut trocken ist. Also Wüste. Bei Schiffen steht der Fall ein wenig anders, die haben wesentlich mehr Masse, das ist anstrengend. Und man kann sie auch nicht ohne Weiteres an Land bringen. Schiffe enden, soweit ich das gelesen habe, selten in reichen westlichen Nationen sondern viel mehr irgendwo in dritte Welt Ländern, Indien zum Beispiel wo sie dann eventuell zerlegt werden, aber auch nicht immer. Solche Orte eignen sich hervorragend als Niederlassung von kriminellen Vereinigungen. Man kriegt das Schiff vielleicht nicht mehr seetüchtig, aber die restlichen Dinge sind noch da um mit der Infrastruktur eines Schiffes eine Menge Schabernack zu treiben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #17
+
+* Titel: `Uncharted 3 - #17 - raue See [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend sind wir nicht nur auf einem Schrottplatz sondern sogar auf einem schwimmenden Schrottplatz. Mir ist ehrlich gesagt ein Rätsel wie sich das alles zusammen tut weil an sich sollten die kaputten Schiffe nicht mehr so gut schwimmen bzw. in sich ja manövrierunfähig sein und daher eher nicht dafür geeignet sein einen größeren Klotz darzustellen. Und selbst wenn man die Dinge irgendwie zusammengebracht hat, bei dem Seegang den man auf hoher See zu erwarten hat kann das Ganze doch nicht lange halten oder? Und es stellt sich heraus dem ist auch so. Heute flaut es ein wenig auf und schon sieht die Sache ziemlich unsicher aus, und Nathan ist natürlich mitten drin beim Versuch seinen Freund und Mentor zu retten. Wie dem aber auch sei, mir ist auch ein wenig schlecht, das ist eher ungünstig und führt dazu das ich den hohen Wellengang quasi am eigenen Körper mit anfühle.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #18
+
+* Titel: `Uncharted 3 - #18 - auf Kreuzfahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode waren wir noch auf einem Schrottplatz für alte Schiffe und theoretisch hat sich das auch nicht geändert seit wir das letzte Mal hingeguckt haben, aber es stellt sich doch glatt heraus das nicht alle Schiffe die wir bisher gesehen haben komplett kaputt sind. Einige von ihnen sind durchaus noch funktionsfähig, zum Beispiel ein Kreuzfahrtschiff das wir heute auffinden und das das mutmaßliche Hauptquartier des lokalen Bösewichts sind der anscheinend Sully gefangen genommen hat. Das bedeutet aber auch das Marlow nicht mehr allzu weit entfernt sein kann. Da müssen wir natürlich hinterher. Die Piraten werden noch den Tag verfluchen als sie den Entdecker Nathan Drake begegnet sind. Zumindest diejenigen von ihnen die am Ende überleben. Nach unserem üblichen Vorgehen werden das nicht besonders viele Leute sein. Aber hey, weniger Leute die auf zukünftige Kreuzfahrten gehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #19
+
+* Titel: `Uncharted 3 - #19 - gefährliche Seitenlage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist aufgefallen das im Jahr 2021 alle Leute Podcasts machen. Das bietet sich irgendwie an wenn man nicht mehr soviel rausgehen kann. Ich mache das schon seit Jahren. Ich verkaufe das zwar immer als Lets Play und ich spiele parallel auch Spiele, aber an sich erzähle ich ja über Gott und die Welt und mir geht auch irgendwie nie der Stoff aus. Heute erzähle ich zum Beispiel etwas von Schiffen und wie sie versinken können. Wir erinnern uns sogar noch an Impromptu Unglücke die wir referenzieren können. Und warum tue ich das? Eventuell weil sich Nathan Drake ebenfalls auf einem Schiff befindet und besagtes Schiff am absaufen ist. Ich habe einen Kumpel mit dem ich mal so einen Freefall Tower im Heidepark besucht hat. Als wir oben waren hat er mir von mechanischen Bremsen erzählt und die Versagensraten von solchen Dingen. Sicherheitsfaktoren und kaskadierendes Versagen hat er bei der Gelegenheit auch noch erwähnt. Das fand ich klasse. Wenig später in der Zentrifuge haben wir dann auch noch über Motoren gesprochen. Ich merke das ich auch so ein Typ bin, wie gut das Mister Drake uns nicht hören kann. Am Ende würde ihn das noch beunruhigen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #20
+
+* Titel: `Uncharted 3 - #20 - der Flughafen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Flughäfen sind Orte des Wiedersehens und der Verabschiedung. Heute werden wir uns wohl verabschieden. Von Elena, und ziemlich viele nicht weiter benannte Typen von der Flughafensicherheit verabschieden sich auch. Von ihrem Leben. Klar, die Typen standen irgendwie im Weg aber ich weiß nicht ob es ein Gericht der Welt gibt vor dem Nathan Drake seine gier gelenkten Massenmorde irgendwie verteidigen kann. An sich hat er sich ja auf verbotenes Gelände begeben mit den Vorsatz eine Straftat zu begehen. Und letztendlich spielt es überhaupt keine Rolle was die Wachen tun oder getan haben. Das alles wäre ja nicht passiert hätte es Drake auf dem Flughafen nicht gegeben. Ich frage mich übrigens auch wie gut Elena alleine auf dem Gelände gewesen wäre. Wahrscheinlich aber eher nicht so gut. Oder sogar viel besser, ohne unnötiges Blutvergießen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #21
+
+* Titel: `Uncharted 3 - #21 - die Wüste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir in der Wüste gestrandet. Das war mir von vornerein schon klar. Mit Nathan Drake kann es auch gar nicht anders laufen. Nur ein Herr Drake schafft es aus einem einzelnen Typen der ihn gefunden hat direkt eine ganze Katastrophe hervor zu rufen. Nur Nathan VerdammteAxt Drake bringt den Vogel zum Absturz, überlebt das ganze Elend als Einziger und wandert dann auch noch völlig ziellos durch die Wüste und vergisst dabei sogar noch seinen Kopf zu bedecken. Und ich kann euch jetzt schon sagen das der Mann am Ende sogar überlebt und höchstwahrscheinlich sogar noch durch irgendwelche Eingeborene gerettet wird. Das passiert ihm immer. Jedes Mal, verlässlich wie ein Uhrwerk. Weil es halt Nathan Drake ist, jeder Andere wäre einfach verdurstet, oder direkt abgestürzt. Oder ganz am Anfang übel gestürzt und hätte sich das Bein gebrochen und dann von Spinnen gegegessen worden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #22
+
+* Titel: `Uncharted 3 - #22 - die Siedlung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einer der Gründe warum Nathan Drake noch lebt ist unverschämtes Glück in fast allen Lebenslagen. Und die Tatsache das er nicht wirklich von mir gesteuert wird oder nur in den Fällen in denen ich es durch Zufall schaffe tatsächlich zu überleben und alle Feinde zu überwinden. Kein leichtes Unterfangen. Nach nur drei Tagen in der Wüste geht uns langsam aber sicher das Wasser aus und wir überlegen ernsthaft ob wir vielleicht doch verdursten. Glücklicherweise ist das der Moment in dem wir ein Dorf mitten in der Wüste finden. Es wäre wahrscheinlich zu viel zu hoffen das dieser Ort irgendwie oder irgendwo verzeichnet ist. Wie es aber auch sein mag, jemand hat die Ortschaft vor uns gefunden und möchte uns jetzt nichts von dem Wasser abgeben das sich hier eventuell irgendwo finden lässt. Da gibt es nur eine Lösung, wir schießen uns den Weg frei. Eine Sprache die eigentlich immer verstanden wird.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #23
+
+* Titel: `Uncharted 3 - #23 - Verfolgungsjagt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In jeder Instanz von Nathan Drakes Abenteuern auf der Suche nach Reichtum muss es eine geben. Eine Verfolgungsjagt, meistens sind wir es der verfolgt wird und dann gibt es diese dämliche Perspektive bei der wir Nathan von Vorne sehen damit wir die Gefahr die sich hinter uns entwickelt besser sehen können. Damit kann ich mich aber überhaupt nicht anfreunden einfach weil ich die Gefahr doch eigentlich gar nicht sehen will sondern stattdessen das was vor mir liegt um davon weg zu kommen. Aber so sind die Dinge nun mal, wir kommen nicht weg und sterben dann. Heute sterben allerdings die Anderen, weil, wie erwähnt, wir nicht Derjenige sind der verfolgt wird. Stattdessen suchen wir Sully, der muss irgendwo sein, wir wissen nicht genau wo aber wir werden ihn bestimmt noch finden, und sobald es soweit retten wir ihn. Die anderen Leute die bei ihm sind retten wir auch..vor einem erfüllten und langen Leben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

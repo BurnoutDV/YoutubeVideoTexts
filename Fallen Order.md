@@ -553,6 +553,118 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPZRJs3-GwBY-qow9niuOdP
   ```
 
+##### #43
+
+* Titel: `Fallen Order - #43 - Schattenlande [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Quasi sind wir jetzt bei World of Warcraft, ist aber Starwars und immer noch finsteres Wookie Hinterland. Mittlerweile können wir ja tauchen und das bedeutet das wir eben genau diese Fähigkeit nutzen um nicht zu tauchen sondern stattdessen in die Höhen gehen damit wir von irgendeinen Baum abstürzen können. Selbstverständlich ist das Imperium auch hier obwohl ich mich insbesondere da frage wie genau die Truppen es schaffen länger als ein paar Minuten unterwegs zu sein ohne der Fauna, der Flora oder Beidem zum Opfer zu fallen. Wir sind auf jeden Fall in einem ständige Überlebenskampf verwickelt und es sieht nicht so aus als wäre dieser Ort für Menschen gemacht. Jetzt wüsste ich gerne wie die Kultur der Wookies funktioniert, wie rastet man unter den gewaltigen Bäumen von Kashyyyk und wie schafft man es nicht von irgendwelchen Viecher gefressen zu werden. Wie dem aber auch sei, heute lernen wir dann endlich eine Fähigkeit auf die ich schon lange gewartet habe, auch wenn diese ein wenig anders ist als ich gedacht habe. An sich ist das aber etwas Gutes möchte ich sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #44
+
+* Titel: `Fallen Order - #44 - Überflug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Karl ist ziemlich Boden gebunden. Jedi und andere Machtbenutzer können zwar in beschränkten Maße sich in die Luft erheben aber so richtiges Fliegen ist mit der Macht eher nicht drin. Das liegt größtenteils daran das sich die Macht anscheinend in Impulsen ausdrückt. Zwar kann man auch Dinge schweben lassen aber jede Anwendung dieser Fähigkeit die ich bisher gesehen habe war ziemlich langsam und unpraktisch. Karl will aber richtiges Fliegen, so in die Lüfte. Und den großen Lebensbaum hoch weil dort anscheinend ein Artefakt auf uns wartet das es uns ermöglicht das große Archiv zu öffnen in dem sich das Holocron befindet hinter dem wir her sind. Da wir selber nicht fliegen können und die Macht keine Hilfe ist müssen wir also auf Hilfe zurückgreifen. In diesem Fall mit einem gewaltigen Vogel der uns scheinbar dankbar für irgendetwas ist. Genaue Gründe interessiert dann auch niemand mehr oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #45
+
+* Titel: `Fallen Order - #45 - heilige Orte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren ganz oben auf dem "Weltenbaum" bzw. Baum des Lebens der Wookie und haben dort eine Menge Nichts gefunden. Aber eigentlich wussten wir bereits das wir hier nichts finden werden weil ja Cordova vor uns hier war und wir wohl davon ausgehen müssen das er vor uns erfolgreich war. Insofern überrascht mich gar nichts mehr. Aber wenn wir schon auf dem Rückweg sind können wir ja unsere neuen Fähigkeiten dazu einsetzen fehlende Schätze und Geheimnisse aufzudecken, wäre ja auch gedacht wenn wir hier am Ende ohne richtiges Loot raus gehen würden. Nur ein paar Erkenntnisse sind zwar auch ganz nett aber eigentlich wäre ich auch ohne den Hinweis von Cordova als Nächstes wieder nach Dathomir geflogen. Schon weil ich weiß das ich dort mit dem mächtigen Sprung jetzt endlich über die Kante kommen würde die mir vorher im Weg war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #46
+
+* Titel: `Fallen Order - #46 - Wieder einmal Bogano [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir schon wieder, erneut auf Bogano. Dieses Mal können wir schwimmen und gleichzeitig Doppelspringen. Direkt zwei neue Fähigkeiten mit denen wir Dinge tun können. Ich garantiere euch dann bei der Gelegenheit auch direkt das dies nicht der letzte Besuch auf Bogano war. Mindestens einmal müssen wir noch her um uns das Holocron zu holen. Allerdings bin ich mir mittlerweile sicher das es keine Geheimnisse gibt die ich übersehen habe. Was übrig bleibt sind Geheimnisse die ich nicht erreicht habe weil ich nicht stundenlang rumprobieren will. Im Großen und Ganzen kann ich also stolz behaupten das wir Bogano erfolgreich durchgespielt haben. Ich finde das schon einmal erfreulich. Man verzeihe mir übrigens mein chaotisches Vorgehen, am Anfang dachte ich noch das es mehr signifikante Vorteile hier gibt. Jetzt weiß ich das jeder erneute Besuch bis auf mein Erster  eigentlich ziemlich unnötig war und nur Kosmetik gebracht hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #47
+
+* Titel: `Fallen Order - #47 - Zeffos Wege [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder auf Zeffo, der Ausflug nach Bogano hat zwar noch eine schnelle Verlängerung erfahren aber die war trotz ihres Namens eigentlich ziemlich kurz. Die gesparte Zeit muss ich irgendwie wieder reinholen. Ich habe da auch eine fantastische Idee. Ich verlaufe mich! Auf Zeffo, nichts ist quasi einfacher als das und ich werde gewaltigen Erfolg damit haben. Das weiß ich schon weil es schon geschehen ist. Ich muss sagen das ich so Short-Cut System sehr mag, ich erinnere mich da immer noch sehr gerne an das erste Dark Souls zurück das ein paar interessante Wege mit nur wenigen Türen und Fahrstühlen eröffnet hat. Allerdings muss ich auch sagen das selbst dort nach einiger Zeit die Fähigkeit zu teleportieren eingeführt wurde und das hat ziemlich vieles wesentlich einfacher gemacht. Genau diese Fähigkeit fehlt mir jetzt auch, ab einer bestimmten Größe sind Abkürzungen auch nicht mehr das Wahre, insbesondere wenn man sich heillos verirrt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #48
+
+* Titel: `Fallen Order - #48 - Venator-Wrack [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Raumschiffe sind wirklich gewaltig. Wenn man sich die kleine X-Fighter oder die anderen schnellen Jäger anschaut könnte man meinen alles was im Star Wars Universum rumfliegt ist relativ überschaubar. Hinzu kommen dann noch so Schiffe wie das den Mandalorian oder das von Han Solo. Beide größer aber nicht grade gewaltig. Und dann sind wir bei Sternenzerstörer des Imperiums. Die sind irgendwie doch ein Stück größer. Außerhalb ihrer militärischen Anwendung gibt es aber wahrscheinlich wenig Verwendungszweck für diese Art von Raumschiff. Alternativ bleiben eigentlich nur noch die Venator-Klasse Schiffe der alten Republik. Ich weiß nicht ob es diese Schiffe schon vor den Klonkriegen gab oder ob es erst später aufkam, so oder so sind diese aber auch wirklich gewaltig. Selbst abgestürzt erzeugen sie noch eine Menge Ehrfurcht. Karl kennt sich bestens mit dem Inhalt solcher Schiffe aus, hat er sie doch selbst jahrelang zerlegt, heute begehen wir wieder ein Schiff, aber wir sind nicht auf Bracca sondern woanders.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #49
+
+* Titel: `Fallen Order - #49 - ein flaches Grab [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Schlachtschiff der Venator-Klasse stürzt nicht einfach so ab. Klar, es könnte unter Beschuss stehen dann würde ich aber bestimmte Anzeichen erwarten. Insgesamt bin ich übrigens immer noch ziemlich beeindruckt wieviel von einem Raumschiff das sich im Orbit befand noch am Ende wiederfindet. Ich hätte erwartet das kein einziges System, kein einziges Stück Metall mehr grade ist oder funktioniert. Aber so wie es aussieht scheinen zumindest einige wenige System bis zum bitteren Ende durchgehalten zu haben. Vielleicht Trägheitsdämpfer die unabhängig von der zentralen Energieversorgung arbeiten? Möglich wäre es, andernfalls könnte ich mir vorstellen wäre große Raumschiffe ziemlich Todesfallen  wenn es nur zu geringsten Problemen damit kommt. Wie dem aber auch sei, wir finden den mutmaßlichen Grund  für das Abstürzen des Raumschiffes, begraben in einem flachen Grab unter ein paar Steinen auf einen kalten Planeten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #50
+
+* Titel: `Fallen Order - #50 - Rückkehr nach Dathomir [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder. Man fragt sich wirklich ob wir Greeze nicht vielleicht ein Vielfliegerprogram vorschlagen sollten. Schließlich sind wir quasi nur damit beschäftigt durch das Weltall zu fliegen. Vor und zurück. Ein wenig schade ist es schon das wir so wenig neue Orte sehen, meistens auch Plätze die nicht wirklich einladen sind. Aber ich wäre auch richtig überrascht um nicht zu sagen komplett von den Socken wenn es auf einmal mitten im Spiel oder im letzten Drittel, wo auch immer wir stehen, auf einmal einen bewohnten Planeten geben würde auf dem wir Dinge kaufen können und der dann fortan als Hub für weiter Geschäfte dient. So eine Art Spiel ist Fallen Order allerdings nicht. Stattdessen gehen wir zurück auf dieses Höllenloch von Planeten und versuchen in den lokalen Zeffo Tempel einzureiten, der wurde zwischenzeitlich zu einem anderen Ort umfunktioniert und ich kriege subtile Schwingungen das ich hier nicht willkommen bin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

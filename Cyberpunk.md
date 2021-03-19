@@ -1501,6 +1501,110 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
   ```
 
+##### #120
+
+* Titel: `Cyberpunk 2077 - #120 - Rock im Wandel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Letztes Mal als wir Kerry getroffen haben sah es noch so aus als wäre Rock jetzt doch endgültig tot, und dabei wissen wir eigentlich gar nicht was für Musik Kerry eigentlich macht. Das hat uns nämlich auch irgendwie niemand gesagt. Aber es ist bestimmt Musik die viel besser klingt als das was die Us Cracks aktuell so fabrizieren. Wie dem aber auch sei, heute schauen wir uns dann endlich das Ende der Karriere eines Rockstars an, oder den Anfang? So genau kann man das nicht sagen, wie auch immer die Dinge laufen werden, es sieht so aus als wäre Kerrys Reise noch nicht zu Ende. Nebenbei decken wir übrigens noch auf was es mit Swedenborg Rivierra auf sich hat, aber das ist eine eher enttäuschende Geschichte oder?
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #121
+
+* Titel: `Cyberpunk 2077 - #121 - das große Rennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es bleibt nicht mehr viel übrig das wir erledigen können bevor wir Hanako im Embers treffen. Eine der Sachen die noch ausstehen ist ein Boxduell das ich niemals machen werde weil ich nicht fit genug ist und das Andere ist ein Autorennen. Das kann ich machen. Daher fahren wir heute los, sogar mit der Intention zu gewinnen, aber wir wissen das wir nicht gewinnen werden. Der Zweck der ganzen Veranstaltung war schon immer Rache. Nicht einmal unsere Rache. Letztendlich werden wir nur benutzt und haben das auch zugelassen. Wenn man aber so will habe ich mich nie besonders um das Gewinnen von Autorennen gekümmert, insbesondere wenn man bedenkt das mir das Auto fahren eigentlich nie besonderen Spaß gemacht hat. Wie dem aber auch sei, Rasen wir los und schauen wohin uns die Reise führt.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #122
+
+* Titel: `Cyberpunk 2077 - #122 - Treffen im Embers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist soweit, wir treffen Hanako Arasaka, erneut. Unser erstes Treffen stand unter einem eher schlechten Stern, nicht nur weil wir eventuell zu diesem Zeitpunkt ihr Entführer waren sondern auch weil man uns zu dem Zeitpunkt eher nicht geglaubt hat. Jetzt sieht die Geschichte anders aus. Wir sind anscheinend auf Einladung hier. Ich bin mir nicht ganz so sicher ob ich es gut finde das wir eingeladen wurden. Auch bin ich mir nicht sicher ob ich am Ende überhaupt noch wegkomme oder ob das quasi meine letzte Fahrstuhlfahrt wird. Auf jeden Fall ist aber klar das Hanako uns nur als eine Art Spielstein sieht, ich bin mir also nicht ganz sicher was genau wir uns von ihr erhoffen. Sie wird uns ja wahrscheinlich kaum aus einem Ehrgefühl heraus helfen, schließen sind wir in ihren Augen eher keine Person die Ehre verdienen oder Teil der Familie. Wie dem aber auch sei, es überrascht wahrscheinlich niemanden das Hanako bereits weiß das ihr Bruder der wahre Mörder ist.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #123
+
+* Titel: `Cyberpunk 2077 - #123 - Planungsphase [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mich für ein Schicksal entschieden. Zumindest für den Moment bis meine Neugier mich dazu bringt andere Varianten auszuprobieren. Bis es allerdings dazu kommt rette ich erst einmal meine Seele und meinen Körper. Dafür brauche ich nur ein wenig Hilfe von den Nomaden denen wir ja bereits in der Vergangenheit reichhaltig geholfen haben. Zuerst lassen wir uns die Karten legen und schauen einmal wie unsere Möglichkeiten aussehen. Danach geht es dann in das Camp, ein kleines Gespräch mit Panam und Saul und schon sollte der Arasaka Turm so gut wie eingenommen sein. Wie genau wir reinkommen steht zwar auf einem ganz anderen Blatt aber wer braucht schon eine genaue Vorstellung wie man vorgeht. Wir haben schließlich Freunde, nein, nicht Freunde, eine Familie. Quasi. Die wird uns schon raushauen. Alles was fehlt sind noch ein paar letzte Details..und die Hoffnung das uns vorher nicht der Kopf platzt.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #124
+
+* Titel: `Cyberpunk 2077 - #124 - die Jacke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Symbole sind wichtig. Symbole kommunizieren Bedeutung, Symbole machen manchmal den Unterschied zwischen einem Gegenstand und etwas das einen tieferen Sinn hat. Heute erhalten wir eine Jacke. Eine Jacke die natürlich ein Symbol ist. Mir war das ehrlich gesagt gar nicht so bewusst das die Aldecaldos in dieser Hinsicht quasi schon religiös sind aber so wie es aussieht ist die Jacke das große Symbol das man sich hier ausgesucht hat. Das ergibt ja irgendwie auch Sinn, schnelle Autos, die Freiheit der Piste und all das scheint ja ein zentrales Motiv für die Nomadenstämme zu sein. Warum da nicht auch eine eigene Jacke ausgeben. Allerdings muss ich sagen das das Jäckchen das wir dann heute erhalten nicht unbedingt praktisch aussieht. Eher sexy aber halt nicht unbedingt sinnvoll. Ich denke aber das es eher nicht angebracht wäre daran zu meckern oder?
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #125
+
+* Titel: `Cyberpunk 2077 - #125 - Sturmangriff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben einen ganzen Nomadenclan hinter uns, das ermöglicht Dinge die für V. alleine definitiv nicht möglich gewesen wären. Und das bringt uns wieder zurück zu unseren Plan irgendwie den Arasaka Turm zu stürmen. Die Variante mit Johnny hätte bestimmt einen ähnlichen Ansatz beinhaltet aber wahrscheinlich ohne verlässliche Leute die sich wirklich für uns opfern und nicht nur für ein wenig Geld. Daher ziehen wir heute in den Krieg, ich frage mich allerdings ein wenig wie man am Ende auf die ganze Geschichte reagieren wird. Ein ganzer Nomadenclan der sich anmacht die befestigte Stellung eines Konzerns anzugreifen? Ob das nicht Konsequenzen hat die darauf beharren die Macht der einzelnen Clans einzuschränken. Zuviel Macht kann gefährlich sein wenn die Leute die noch mächtiger sind das rechtzeitig kommen sehen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #126
+
+* Titel: `Cyberpunk 2077 - #126 - Arasaka Tower [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder hier. Eigentlich sollten wir uns schon einmal eine Abkürzung anschauen für unseren nächsten Besuch. So wie es aussieht kommen wir ja öfter hier vorbei. Der Arasak Turm. Wir haben hier übrigens einmal gearbeitet aber dann sind Dinge geschehen und dann waren wir plötzlich auf der Straße. So können die Dinge laufen, man weiß nie wie einen das Leben so spielt. Uns auf jeden Fall nicht mehr lange so gut weil es Stück für Stück mit uns zu Ende geht. Die Anfälle werden häufiger und heftiger. Die Uhr tickt, aber Mikoshi kann nicht mehr fern sein und das Schießen sollte langsam aber sicher ein Ende haben. Jetzt nur noch einige wenige Gänge, eine letzte Anwendung unserer Infiltrationsfähigkeiten und schon sind wir im Seelenknast. Mit uns Alt Cunningham und damit wahrscheinlich auch das Ende von Allem was Arasak als Namen trägt. Bleibt nur zu hoffen das sich Alt an den Deal halt und uns wirklich rettet...
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #127
+
+* Titel: `Cyberpunk 2077 - #127 - die andere Seite [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal sagt man wenn jemand stirbt das sie oder er jetzt an einem besseren Ort ist. Man ist auf der anderen Seite, auf der Farm weit draußen oder Ähnliches. Wir sterben heute. In mehr als nur einer Bedeutung und in einem sehr absoluten Sinn auch wenn man mehr darüber nachdenkt. Auf der anderen Seite ist der Tot nichts das wirklich eine Bedeutung in der Welt von Cyberpunk hat. Insbesondere wenn man sich die verschiedenen Ansichten und die Art und Weise wie KIs funktionieren anschaut. Wie dem aber auch sei, da unsere Perspektive immer noch die gleiche ist nehme ich einmal an, wir als Zuschauer sind die Seele von V. und schauen uns weiter an was geschieht. An sich werden wir heute vor einer Wahl gestellt, nur eine Variante ist zu sehen aber die Alternative halte ich mir auf jeden Fall noch offen. Am Ende geschieht etwas und V. überlebt, vorerst. Was genau passiert will ich nicht sagen, ich muss aber sagen das ich nach diesem Ende ein wenig unzufrieden war..bis ich das nächste Ende gespielt habe. Für meinen aktuellen Stand, 3 von 5 möglichen Enden gespielt, halte ich das hier noch für die beste Variante auch wenn die mögliche Zukunft eher nicht so rosig aussieht. Letztendlich war es aber irgendwie klar das ein Cyberpunk Spiel kein echtes Happy End erlaubt. Andererseits, für manche Leute gibt es ein Happy End, nur für mich halt nicht. Ärgerlich sowas.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
 ##### #Nummer
 
 * Titel: ``

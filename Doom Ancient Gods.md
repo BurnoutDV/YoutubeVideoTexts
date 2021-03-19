@@ -250,6 +250,19 @@
   Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
   ```
 
+##### #20
+
+* Titel: `DOOM Ancient Gods - #20 - die Straßen von Immora [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Die Reise des Doom Slayers ist noch nicht abgeschlossen aber so wie es aussieht befinden wir uns langsam aber sicher auf der Zielgraden. Diese Grade hat auch einen Namen und sie ist alles andere als Grade. Es nennt sich die Straße von Immora, an dessen Ende wartet anscheinend unser größter Feind auf uns, der große dunkle Lord der Hölle. Ein Wesen von enormer Macht das quasi wir sind, bzw. der Slayer. Nur halt aus einer anderen Dimension, obwohl man wahrscheinlich zugeben muss das wir eigentlich der Eindringling sind und aus einer anderen Dimension stammen, schließlich war der große Widersacher schon immer hier und wir waren es der hier einfach so aufgetaucht ist. Allerdings ist bei den ganzen Dimensionsgeschichten mit der Hölle auch nicht mehr vollkommen klar welche Realität jetzt Vorrechte hat. Spieler aber auch keine Rolle, überall wo es Dämonen gibt kann man auch zerreißen und zerfetzen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
 ## Fazit
 
 > Fazit - Ancient Gods Teil 1

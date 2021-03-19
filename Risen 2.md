@@ -1111,7 +1111,118 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
   ```
 
-##### #Nummer
+##### #87
+
+* Titel: `Risen 2 - #87 - Garcia der Pirat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da ist er, der letzte der vier mächtigen Kapitäne die einst die südliche See überquert haben. Einen hat Mara auf dem gewissen, die anderen beiden haben wir selbst zur Strecke gebracht. Und auch bei Garcia wird die Geschichte nicht anders laufen. Es könnte aber sein das der gute Garcia nicht ganz so einfach sein wird wie seine beiden Kollegen. Immerhin hatten bis her alle drei die freundlichkeit quasi keine Adds mit sich rumzuschleppen. Garcia hat da zwar im minimalen Maßstab ein wenig etwas aber das ist eigentlich keiner Rede wert. Ich hätte jetzt viel mehr mit richtigen, hartgesottenen Piraten gerechnet die mir das Leben schwer machen. Ein großer Vorteil ist auch das wir bisher keinen einzigen Gegner von größeren Kaliber hatten der des Fernkampfes mächtig war oder eine Donnerbüchse sein eigen genannt hat. Auch Garcia besteht darauf unbedingt mit dem Säbel gegen uns vorzu gehen. Und wir wissen alle wie gut solche Dinge ausgehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  ```
+
+##### #88
+
+* Titel: `Risen 2 - #88 - Alvarez Plan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich entscheide mich mittlerweile seit mehr als einem Jahr bereits beim Spielen dafür wie die Episoden heißen. Das ist ganz praktisch weil ich in der Vergangenheit das Problem hatte das ich nicht so recht wusste was vor 7 Tagen passiert ist wenn es länger her war. Ich weiß aber meistens noch um was es ging wenn ich einen Stichpunkt habe, also halt den Titel der Episode. Nun ist es aber so das die heutige Folge einen besonders schwachen Titel hat. Alvarez hat eigentlich überhaupt keinen Plan. Der Mann ist absolut ahnungslos möchte ich einmal behauptet. Letztendlich sagt er uns das was wir sowieso schon vorhatten und ich zweifle wirklich die Weisheit des alten Admirals an. Immerhin erzählt er uns noch ein paar Geschichten. Es zeichnet sich aber auf jeden Fall ab das sich das Spiel dem Ende zu neigt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
+##### #89
+
+* Titel: `Risen 2 - #89 - die Schatzinsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Soweit ich das beurteilen kann handelt es sich bei diesem Inhalt um ein DLC. Ich habe das natürlich nicht mitbekommen weil ich das Spiel viele Jahre später in einer Art Komplettedition gekauft habe und daher nicht mehr weiß was was ist. Beziehungsweise, ich wusste es einfach nie. Wie dem aber auch sei, auf dieser Schatzinsel von der noch nie irgendjemand etwas gehört hat befindet sich der eigentliche Schatz von Stahlbart. Das wichtigste Element seines Schatzes hat er ja offensichtlich in Garcias Schatz abgelegt aber selbstverständlich hat er auch noch einen eigenen Hort an Gold versteckt. Darin befinden sich anscheinend auch Gegenstände an die auch Patty interessiert ist. Übrigens hat uns Harlok hierher geführt, wenig überraschend wird der uns innerhalb weniger Minuten verraten. Ich verstehe seine Motivation ehrlich gesagt nicht so wirklich. Weil alles was passiert ist das er am  Ende auf der Insel sitzen bleibt und ich kann mir ehrlich gesagt keine Variante der Realität vorstellen in der er nicht gestrandet wäre. Oder stirbt. Seltsamer Kerl.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
+##### #90
+
+* Titel: `Risen 2 - #90 - Stahlbarts Schatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir schon, wir haben ihn, den großen Schatz von Stahlbart. Der bringt uns übrigens absolut gar nichts. Von den Erfahrungspunkten die wir auf dem Weg gemacht haben einmal abgesehen. Das liegt einfach daran das wir das Geld eh nirgendwo ausgeben können oder selbst wenn wir es könnten ich das eh nicht mehr vorhabe, unser nächstes Ziel ist definitiv die Insel der Toten. Wie dem aber auch sei, ich habe auch schon in der  Vergangenheit argumentiert das Geld technisch gesehen sowieso wertlos ist weil es eigentlich keine Zivilisation mehr gibt in der man Gold oder Waren eintauschen kann. Die Leute scheinen das noch nicht so zu empfinden aber wenn man sich den Zustand des Festlandes und der alten Welt einmal ansieht scheint es mir da keinen großen Anlass zur Hoffnung zu geben. Die paar Leute die noch in Caldera leben werden auch die neue Welt nicht wieder bevölkern. Und letztendlich sind auch nur alle eine schlechte Ernte oder Katastrophe vom finalen Untergang entfernt. Von dem was ich so sehe sind die Chancen der alten Welt rund um die Inquisition quasi bei null. Insbesondere wenn man sich die korrupte Verwaltung anschaut. Der letzte aufrechte Inquisitor ist auch verstorben, ich kann mir nicht vorstellen das hier noch viel passiert. Geld ist also wertlos. Gut das Stahlbart die Kohle aufgehoben hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
+##### #91
+
+* Titel: `Risen 2 - #91 - die Insel der Toten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir dort, an der Schwelle des Schattenreichs. Der Tot in der Welt von Risen ist scheinbar so eine Art Reise an einen anderen Ort. Man stirbt und dann geht man woanders hin, je länger man tot ist desto länger ist wohl auch die erfolgte Strecke. Manche Tote stecken fest. Das wirft natürlich Fragen auf, wie zum Beispiel wo das was die Person ausmacht ursprünglich ausmacht. Wird man geboren wenn die Reise zu Ende ist? Wie funktioniert die Mathematik dahinter, früher gab es offenbar wesentlich mehr Leute als jetzt. Müssen die Toten die mit ihrer Reise fertig sind neu anfangen. Bleibt irgendetwas über nach dem Reset. Gibt es den überhaupt. Wo gehen die Toten wirklich hin? Gibt es das nächste Reich in dem die Toten dieser Welt das nächste Leben leben? Wieviel wissen die Leute noch davon? Faszinierend. Oder auch nicht, weil wir natürlich keine Antworten erhalten und nur irgendwie mit den Toten quatschen können um Informationen für diese Welt herauszufinden. Als Plot-Gegenstand eher so mittelmäßig wie ich finde. Genau wie Zeitreisen sind diese ganzen "mit den Toten sprechen" Geschichte immer schwierig. Das wirft ziemlich viele Fragen auf und schafft langfristig Probleme in der Geschichte. Wenn man einen Anspruch hat eine kohärente Geschichte zu erzählen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
+##### #92
+
+* Titel: `Risen 2 - #92 - die Gräber der Toten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Titel wird geliefert von Kapitän Offensichtlich, seines Zeichens kein Pirat sondern ein ganz normaler Frachterkapitän. Der transportiert eine Menge Dinge vor allen aber Fakten die wir schon alle wussten. Wie zum Beispiel das in Gräbern normalerweise Tote liegen obwohl ich die Möglichkeit einräumen möchte das es durchaus sein könnte das man ein Grab für Leute errichtet die noch nicht gestorben sind. Wie dem auch sei, hier sind sie es, das ist aber gut für uns weil dadurch gibt es auch Grabbeilagen die wir plündern können. Dadurch sind wir wieder an der Stelle wo wir absolut nichts mit dem Reichtum anfangen können aber haben ist besser als brauchen nehme ich einmal an? Vielleicht gibt es ja noch Dinge für die wir eine Menge Geld brauchen und wir wissen es nur noch nicht. Daher durchsuchen wir heute einfach alle Gräber die wir finden können. Aus Prinzip.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
+##### #93
+
+* Titel: `Risen 2 - #93 - das Reich der Toten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder ein Titel mit dem Wort "Toten" darin. Heute sind wir dann auch tatsächlich da wo die Toten sind. Es gibt aber anscheinend so etwas wie ein Nachleben für diejenigen die sterben. Das Reich der Toten ist mehr eine Art Vorkammer wo jene Geister umherlaufen die aus irgendwelchen Gründen kein richtiges Ende gefunden haben. Alle anderen wandern hier einfach durch und finden sich dann entweder als Geister wie die Hike in der normalen Welt wieder oder sind einfach weg. Das ist aber auch nicht vollständig richtig da wir die Hoffnung haben Stahlbart zu beschwören, es scheint also noch ein weiteres Vorzimmer vor dem finalen Ende oder Absprung zu geben in dem sich Seelen noch eine Zeit aufbewahren. Alles ein wenig schwer. Die Toten die wir heute treffen meinen auf jeden Fall das sie sich an uns erinnern werden, das spricht irgendwie dafür das es einen anderen Ort gibt an den man sich an irgendwas erinnern kann. Das alles wirft so viele Fragen auf ohne eine einzige zu beantworten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
+##### #94
+
+* Titel: `Risen 2 - #94 - das Schädelszepter der Toten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und heute finden wir dann einen weiteren Gegenstand der Toten. Es handelt sich um das Szepter und eigentlich haben wir das auch nicht gefunden sondern verdient, damit das wir denjenigen die hier auf der Türschwelle zum Schattenreich standen geholfen haben und ihnen ermöglicht hatten weiter zu reisen. Damit können wir dann einen Piraten rufen, das ist in unseren Falle der alte Stahlbart. Eine Seele die noch nicht so lange tot ist, ich nehme einmal an das das der Grund ist das wir überhaupt Erfolg haben. Sobald die Seele verstanden hat das sie tot ist bewegt sie sich bestimmt weiter und ich ahne dann gibt es nichts mehr das wir zurück holen können. Entweder weil die Information Stahlbart nicht mehr existiert oder weil das nächste Reich unerreichbar aus unserer Perspektive ist und der einzige Weg wäre zu sterben, dann rein zu reichen, jemand Anderem im Vorzimmer davon zu erzählen und dann zu hoffen das Nekromantie erfunden wird. Alles in Allem klingt das nicht nach einem guten Plan, und wer außer wir soll am Ende die Welt retten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
+  ```
+
+##### #95
 
 * Titel: ``
 

@@ -1605,6 +1605,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
   ```
 
+##### #128
+
+* Titel: `Cyberpunk 2077 - #128 - Geister [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird Zeit eine andere Richtung einzuschlagen, wir stellen uns den Geistern der Vergangenheit die darin bestehen unseren alten Streit mit Arasaka beizulegen und stattdessen uns ganz dem Bösen hinzugeben. Dafür helfen wir Hanako irgendwie ihren Bruder zu stürzen, bis es aber soweit ist müssen wir noch einmal mehr unsere Fähigkeiten beweisen und die gute retten. Allgemein und überhaupt ist übrigens absolut niemand den wir kennen davon begeistert das wir es mit Arasaka versuchen, Johnny sowieso nicht und Misty scheint auch nicht besonders angetan von unserer Entscheidung zu sein. Wie dem aber auch sei, jetzt gibt es kein zurück mehr, ich ahne aber schon jetzt das ich die Entscheidung am Ende sehr bereuen werden. Wie alles was mit Arasaka zu tun hat.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
 ##### #Nummer
 
 * Titel: ``

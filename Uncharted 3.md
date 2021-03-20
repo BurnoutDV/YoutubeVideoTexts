@@ -313,14 +313,18 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
-##### #Nummer
+##### #24
 
-* Titel: ``
+* Titel: `Uncharted 3 - #24 - Sandsturm [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  In der Wüste zu sein ist enorm anstrengend wenn man sich darauf nicht ordentlich vorbereitet hat. Wir können davon ausgehen das sich Nathan Drake überhaupt nicht vorbereitet hat, andererseits bin ich der Meinung das bis auf den gut geplanten Überfall am Anfang absolut nichts im Leben von Nathan Drake geplant war. Wie dem auch sei, das große Problem an der Wüste ist das es viel zu viel Sonne und viel zu wenig Deckung gibt. Nun, die gute Nachricht ist das wir heute in einem Sandsturm stehen, das dämmt das Sonnenproblem ein wenig ein. Das mit der mangelnden Deckung hat sich leider immer noch nicht erledigt und die Tatsache das irgendwelche Leute anfangen auf mich zu schießen und anscheinend überhaupt kein Problem damit haben das sie Sand im Gesicht haben und mich dennoch treffen erhebt meine Lauen nicht unbedingt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
 ##### #Nummer

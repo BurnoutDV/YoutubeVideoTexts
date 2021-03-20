@@ -263,6 +263,29 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
   ```
 
+##### #21
+
+* Titel: `DOOM Ancient Gods - #21 - der Wächterhammer [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Es geht Schlag auf Schlag heute zu, wir erhalten ein neues Spielzeug, den Wächterhammer. Das ist kein großer Spoiler, das Ding war ja schon absehbar weil das Ding auf den Promobildern drauf war. Der Hammer bringt mich dazu mehr als einmal "Stopp Hammerzeit" zu sagen, ehrlich gesagt nicht einmal meine Idee aber wenn mir das Spiel eine solche Vorlage liefert dann sage ich nicht ein. Ich will aber ehrlich sein, wie mit allen Superwaffen oder anderen Dingen die ich nur selten einsetzen kann vergesse ich sie wieder. Fairerweise muss man aber bemerken das der Hammer wesentlich besser gelöst ist als es noch bei dem Schwert der Fall war. Das Ding läd sich zumindest im normalen Spielverlauf gelegentlich auf und ich brauche dafür keine besonderen, sehr seltenen Pickups.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ## Fazit
 
 > Fazit - Ancient Gods Teil 1

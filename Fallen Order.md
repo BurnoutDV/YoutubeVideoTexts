@@ -665,6 +665,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
+##### #51
+
+* Titel: `Fallen Order - #51 - rollende Steine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte bestimmt einen total guten Grund diese Episode "rollende Steine" zu nennen, soweit ich weiß hatte ich keine Rolling Stones Referenz vorgesehen aber zwischen durch gibt es bestimmt einige Steine die uns im Wege liegen und ein paar davon rollen bestimmt auch durch die Gegend. Zusammengefasst sind wir immer noch auf Dathomir und versuchen diesen Zeffo Tempel zu betreten in der Hoffnung dort ein Artefakt zu erhalten mit dessen Hilfe wir dann letztendlich das von Cordova versteckte Holocron finden können. So zumindest der grobe Plan. Ärgerlicherweise gibt es noch einige Leute die uns da im Wege stehen, ganz vorne steht die letzte verbleibende Schwester der Nacht die scheinbar nicht wirklich über unsere Anwesenheit erfreut ist. Aber auch die Brüder der Nacht können sich etwas Besseres vorstellen als unsere Anwesenheit. Toll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1618,6 +1618,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
   ```
 
+##### #129
+
+* Titel: `Cyberpunk 2077 - #129 - Arasaka Dschungel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute geht es in die tiefen Wälder. Wir wissen das Night City selbst ziemlich tot ist, im Stadtzentrum gibt es einen kleinen Park aber davon abgesehen  gibt es eigentlich nur Wüste und einen großen Mangel an diversen Tieren. Umso überraschender ist es eigentlich das es tief im inneren des Arasaka Towers anscheinend einmal einen kompletten Querschnitt lang so etwas wie einen künstlichen Dschungel gibt in denen sich die hohen Tiere treffen um Dinge zu vereinbaren. Die heutige Vereinbarung ist anscheinen das unser bester Kumpel Saburo sich zum mächtigeren Alleinherrscher aufschwingen will. Interessant ist natürlich auch das er das in Night City und nicht etwas in Tokyo macht. Wie dem aber auch sei, immerhin ein interessantes Set, ein Ort den man bereisen kann und anschauen. Wie dem aber auch sei, irgendwann wird es zum Kampf kommen und dann sind diese grünen Pflanzen nicht mehr lange ein unberührter Dschungel. Wie vielen Leuten man wohl ein besseres Leben verschaffen könnte wenn man auf diesen Dschungel verzichten würde?
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
 ##### #Nummer
 
 * Titel: ``

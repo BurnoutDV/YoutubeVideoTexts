@@ -1224,10 +1224,14 @@
 
 ##### #95
 
-* Titel: ``
+* Titel: `Risen 2 - #95 - der Wassertempel [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und da sind wir, am Ende der Reise. Die Reise des unbekannten Helden findet heute ein Ende. Ja wir werden natürlich noch Mara besiegen und damit irgendwie ein wenig die Welt retten obwohl ich sagen muss das sich im Großen und Ganzen eigentlich Nichts verbessert hat. Die Titanen laufen immer noch frei auf der Welt umher und legen die Siedlungen der Menschen in Schutt und Asche. Nirgendwo gibt es einen Ort der sicher ist und soweit ich das sehen kann ist die Zivilisation die wir kennen quasi am Ende. Ich habe keine Ahnung wie gut die eingeborenen Stämme aufgestellt sind denen wir begegnet sind aber die Kultur der Menschen rund um die Reste bei Caldera ist quasi tot. Ich sehe da eigentlich keine große Chancen. Was haben wir also gerettet? Mara hätte zumindest über die Menschen geherrscht soweit ich das sehen kann und damit einen gewissen Schutz für die Reste der Menschheit in dieser Region geboten. Aber vielleicht sehe ich das auch zu positiv. Wie dem aber auch sei, wir sind am Ende, weiter geht es mit der Fahrt in den Horizont.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMgLJgDw9QYt5gP0_DoQtby
   ```

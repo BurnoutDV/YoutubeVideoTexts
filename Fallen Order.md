@@ -679,12 +679,16 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
-##### #Nummer
+##### #52
 
-* Titel: ``
+* Titel: `Fallen Order - #52 - Burgtore [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ein Laserschwert kann sich eigentlich durch so gut wie jedes Material schneiden. Bei manchen Materialien dauert es einfach nur ein wenig länger aber wenn niemand weiß das man da ist stellt das auch kein Problem da. Heute scheitern wir an einem einfachen Burgtor, so richtig erklären kann ich mir das auch nicht. Davor gab es eine Brücke und hätten wir die nicht runtergelassen hätte ich mir durchaus vorstellen können das Karl nicht so direkt weiter kommt weil Abgründe kann man nicht schneiden und Springen war noch nie seine Stärke. Aber Mauern, Wände und Türen? Für einen Jedi, selbst einen Lehrling sollte das eigentlich kein Problem darstellen. Tut es aber dann doch und unser Abstieg in die Tiefen geht immer weiter. Alles in Allem bin ich nicht wirklich beeindruckt von den Erfolgen des Karl. Letztendlich hat er seine Zeit als Padawan aber nie abgeschlossen. Ob Karl ein guter Jedi geworden wäre wenn er noch mehr Zeit gehabt hätte sich richtig ausbilden zu lassen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```

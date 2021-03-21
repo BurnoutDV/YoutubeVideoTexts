@@ -327,14 +327,18 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
-##### #Nummer
+##### #25
 
-* Titel: ``
+* Titel: `Uncharted 3 - #25 - das Atlantis der Wüste [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und wir sind da! Nach so langer Suche, zahllosen Verlusten (auf der Gegnerseite) und ewigen Entbehrungen haben wir es geschafft. Nathan Drake hat die Messingstadt erreicht. Ich weiß auch schon genau wie es enden wird, die Stadt wir zusammenbrechen und nie wieder gesehen weil alles zerstört wird was als Beweise dienen könnte. Ich weiß nicht wie es geschehen wird, nur das es passiert. Das ist sicher. Alles was mit Nathan Drake zu tun hat endet in Zerstörung, noch viel mehr als die Eskapaden von Lara Croft. Bis es aber soweit ist müssen wir vielleicht dennoch ein paar weitere Entbehrungen hinnehmen und einige Feinde besiegen die sich unweigerlich in unseren Weg stellen werden. Aber bald, bald sind wir am Zentrum von allen und dann wir die Stadt zerstört. Bewundern wir die Schönheit der restlichen Stadt solange wie sie sehen können.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
 ##### #Nummer

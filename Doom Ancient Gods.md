@@ -276,6 +276,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
   ```
 
+##### #22
+
+* Titel: `DOOM Ancient Gods - #22 - die Fackel der König [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Wir machen gute Fortschritte finde ich, langsam aber sich nähern uns wir der Fackel der Könige und bis jetzt sieht es nicht so aus als würde uns irgendetwas aufhalten. Die Dämonen in unseren Weg sind zwar zahlreich, letztendlich aber auch keine Herausforderung. Wie dem aber auch sei, wir entzünden die Fackel um den geknechteten Volk von Argent D'nur zu zeigen das es noch jemanden gibt der Widerstand leistet. Im Großen und Ganzen ist mir die Machtstruktur der Welt hier noch nicht so richtig bewusst. Die Kultur selbst hat gewisse Kamelot Schwingungen aber so richtig benennen kann ich es auch nicht. Ein seltsamer Mix aus Mittelalter und Hightech in jeden Fall, auch wenn vieles davon scheinbar Absicht zu sein scheint. Es wird sich zeigen ob das entzünden der Fackel dazu führt das wir neue Verbündete finden. Immerhin fliegen wir heute ein paar Meter, auch wenn ich gerne gewusst hätte was das für ein Drachenvieh war. Argent D'nur ist auf jeden Fall die Welt der Magie, nicht halb so langweilig wie die Erde.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1632,6 +1632,29 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
   ```
 
+##### #130
+
+* Titel: `Cyberpunk 2077 - #130 - Lila schmecken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir haben ein weiteres Ende erreicht. Ich gebe zu das sich die ganze Sache ein wenig in die Länge zieht und hätte ich vorher gewusst was vor mir liegt und wie lange sich das alles zieht hätte ich es bestimmt ein wenig anders geschnitten. Wir sehen einen weiteren Epilog, dieser hier führt uns in den Orbit und könnte vielleicht ein Besseres Ende als das Nomadenende darstellen. Schließlich besitzt Arasaka offensichtlich alle Mittel um uns ausreichend zu operieren und verfügt über eine weite Reichweite an Wissen über die Funktionsweise des Relic und seiner Mechanismen. Man darf also davon ausgehen das man hier unseren Körper vollständig wiederherstellen kann. Außerdem finden wir dann heraus das der ursprüngliche Plan von Arasaka am Ende doch ein wenig anders war als ich ursprünglich annahm. Letztendlich gefällt mir aber wirklich nicht wie die Dinge gelaufen sind, letztendlich ist dieses wahrscheinlich das schlimmste Ende von allen. Arasaka stärker den je, der alte Knacker wieder hergestellt und wir immer noch ziemlich am Arsch ohne hilfreichen Geist. Jetzt kann es eigentlich nur noch besser werden mit den Enden.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

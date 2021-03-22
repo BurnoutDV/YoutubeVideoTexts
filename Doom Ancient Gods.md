@@ -289,6 +289,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
   ```
 
+##### #23
+
+* Titel: `DOOM Ancient Gods - #23 - der Totensee [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich laufen wir heute gar nicht auf dem Totensee umher, der ist nämlich ein Ort den wir erreichen, dann mit einer Zwischensequenz drüber latschen und schon war es das. Aber es würde wesentlich weniger spannender klingen wenn ich nur darüber schreiben würde das wir uns auf dem Weg zu irgend so einen See machen wäre das noch langweiliger als diese Beschreibung von Doom Eternal. Das liegt eventuell das der Weg durch diesen Prolog ein wenig arm an Geschichte ist. Ich töte einige Dämonen, löse einen längeren Kampf mit einem Blutnest und führe viel zu viele Gloriekills aus weil ich meinen Hammer aufladen will. Das Geschenk von Commander Vale muss ja auch ausgiebig genutzt werden, und das der Doom Slayer ist nun wirklich niemand der ein gutes Geschenk einfach so verkommen lässt.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -692,3 +692,27 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
+
+##### #53
+
+* Titel: `Fallen Order - #53 - Gorgara [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Titel ist ein wenig unklar, das ist Absicht. Dafür ist ja die Beschreibung da, damit die jemand liest. Man kann sie allerdings nicht auf allen mobilen Geräten lesen. Das finde ich wirklich nervig. Ich gebe mir soviel Mühe diese Dinge hier zu schreiben nur um dann zu merken das man sich das alles gar nicht überall anschauen kann. Das macht das ganze Schreiben ein wenig sinnlos. Wie dem aber auch sei, Gorgara. Das ist quasi eine gewaltige Fledermaus aber da es im Star Wars Universum nie irgendwie einfach ist handelt es sich hier nicht nur um eine Fledermaus sondern stattdessen um irgendeinen komischen Hybriden aus mindestens zwei Tieren. Ich bin mir fast sicher das man ein solches Wesen auch als Chimäre bezeichnet. Wie es anscheinend bei allen Viecher im Star Wars Universum ist ist das Vieh natürlich, natürlich, resistent gegen Laserschwerter. Es wäre aber auch zu einfach wenn dem nicht so wäre nicht wahr?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

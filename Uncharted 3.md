@@ -341,14 +341,18 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
-##### #Nummer
+##### #26
 
-* Titel: ``
+* Titel: `Uncharted 3 - #26 - Tagträumer [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Okay, eigentlich ist es weniger ein Tagtraum als ein weiterer psychotischer Anfall, immerhin erkennen wir das dann irgendwann einmal und uns wird klar das es wohl doch kein übernatürliches Element in der Messingstadt gibt. Letztendlich scheint es sich hier also um eine völlig normale Begebenheit zu handeln, davon abgesehen das es scheinbar eine gewaltige grüne Oase mitten in der Wüste gibt die auf keiner Sattelitenaufnahme aufgetaucht ist und die niemand irgendwie finden konnte. Die kulturelle Relevanz dieses Ortes ist quasi gewaltig und steigt eigentlich mit jeder Minute. Es wäre wahrscheinlich wesentlich besser wenn wir von Zeit zu Zeit einmal ein paar Bilder machen würden. Ich kann aber verstehen das wir nach einer mehrtägigen Wanderung durch die Wüste eventuell keine Kamera mehr bei uns tragen, aber zumindest damals in Shambala wäre es wirklich schön gewesen das wir etwas als Beweis mitgebracht hätten. Wie dem aber auch sei, heute träumen wir erst einmal von einer Welt die hätte sein können.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
 ##### #Nummer

@@ -355,22 +355,30 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
-##### #Nummer
+##### #27
 
-* Titel: ``
+* Titel: `Uncharted 3 - #27 - die Wasserquelle [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich hatte es ja schon erwähnt aber jetzt ist es endgültig. Anscheinend stellt sich dann doch heraus das alles was wir in dieser Instanz von Uncharted erlebt haben natürlich Ursachen hatte. Alles was ein wenig komisch aussah war das Ergebnis von starken Psychopharmaka und absolut nicht Übernatürlich. Das erklärt das andere Zeug natürlich nicht weg aber in diesen Fall scheint alles ziemlich normal zu sein. Auch wenn wahrscheinlich niemand spontan erklären kann wie es überhaupt dazu kommen konnte das eine gewaltige Stadt wie Iram mitten in der Wüste erbaut werden konnte. Der Ressourcenaufwand muss gewaltig gewesen sein. Oder waren doch Djinns an der Erbauung beteiligt? Wir werden es wohl nie erfahren. Aber immerhin besuchen wir heute die Wasserstelle, dort wo der Lebenszweig der gesamten Stadt seinen Anfang nahm.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
-##### #Nummer
+##### #28
 
-* Titel: ``
+* Titel: `Uncharted 3 - #28 - Bonusmaterial [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Technisch gesehen ist Uncharted 3 eigentlich schon durchgespielt aber da ich es in den letzten beiden Teilen auch getan habe gucke ich mir noch einmal das Bonusmaterial diesen Teiles an. Das Ganze ist etwas enttäuschend, ich habe das Gefühl das es tendenziell weniger zu sehen gibt als in den Vorgängern. Letztendlich will ich hiermit aber auch nur das Spiel vervollständigen. Betrachten wir diese Aufgabe hiermit als erledigt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 3 - Among Thieves auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```

@@ -707,6 +707,104 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
+##### #54
+
+* Titel: `Fallen Order - #54 - das Nachtbruder Dorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Bewohner von Dathomir betreiben eine ziemlich strikte Geschlechtertrennung. Ich habe eben noch einmal kurz im Wiki nachgelesen und kann daher jetzt Informationen aus nur zweiter Hand geben. Die eigentlichen Bewohner von Dathomir sind Humanoid bzw. direkte Menschen. Das waren die Schwestern der Nacht, zwischenzeitlich sind dann einige männliche Zabrak auf dem Planeten gelandet die von den Schwestern zur Fortpflanzung genutzt wurden. Die Schwestern haben dabei anscheinend ihr menschliches Aussehen behalten. Das erklärt dann wohl auch die strikte Segregation nach Geschlechtern obwohl es mir unwahrscheinlich erscheint das nur die Frauen zu Machtanwendern wurden. Darth Maul kann nicht die einzige Ausnahme gewesen sein. Wie dem aber auch sei, ich erzähle das weil wir heute das Dorf der Zabrak besuchen, also den Brüdern der Nacht. Wo die einzige verbleibende Schwester der Nacht wohnt kann ich unmöglich sagen. Die meisten Zabrak sehen aber ziemlich jung aus und ihr Lebenstil scheint jetzt nicht unbedingt ein langes Leben zu befürworten. Ist Merrin wirklich die einzige Quelle für Nachkommen oder gibt es irgendwo noch weibliche Zabrak die wir nur nie zu Gesicht bekommen weil die Schwestern der Nacht nicht-Machtanwender weiblichen Geschlechts verdammt haben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #55
+
+* Titel: `Fallen Order - #55 - Aufstieg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und nein, wir werden nicht zu einer höheren Daseinsform oder werden plötzlich zu einem mächtigen Jedimeister. Stattdessen steigen wir einfach nur wieder an die Oberfläche von dem was wohl vorher die Oberfläche bzw. die richtige Etage war. Das heißt wir sind wieder auf Kurs. Oder wäre ich zumindest wenn ich nicht 5 Meter vor dem eigentlichen Tor das anscheinend in den uralten Zeffo Tempel führt der hier steht abbiege und woanders hin gehe. Schließlich gibt es ja noch sowas wie Boss Mobs zu besiegen die eventuell wertvolle Schätze bewachen. Natürlich bewachen sie wertvolle Schätze. Was sonst sollen Bosse auch tun wenn nicht wertvolle Schätze bewachen. Aber immerhin sind wir jetzt wieder oben. Ich finde das ist schon mal eine Menge wert..vor allen Dingen bessere Luft zum atmen dafür aber mehr heißes Sonnenlicht. Gleich sich alles aus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #56
+
+* Titel: `Fallen Order - #56 - Order 66 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig schade das das hier nicht Episode 66 ist aber so ist die Welt nun mal. Wir begeben uns dann heute doch endlich einmal in den uralten Tempel der Zeffo der auf einen Planeten steht der anscheinend der dunklen Seite der Macht ziemlich nahe steht. Obwohl ich das übrigens langsam aber sich mal ein wenig in Zweifel ziehen würde weil so richtig Hell und Dunkel gibt es ja auch nicht, das ist zwar eine Erzählung die die Jedi gerne erzählen wenn der Tag lang ist aber an der Realität ist das nicht dran. Wie dem aber auch sei, wir dürfen ein Stück Geschichte quasi aus der Ich-Perspektive miterleben, den legendären Fall der Jedi und die Ausführung der Order 66. Schon sehr interessant wie gut man die ganzen Klone programmieren konnte damit genau im richtigen Moment die richtigen Dinge passieren, und letztendlich waren alle Machtbenutzer in der Galaxie nicht in der Lage das Ereignis auch nur ein wenig vorherzusehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #57
+
+* Titel: `Fallen Order - #57 - tote Hexen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An bestimmten Orten gibt es massive Zombieprobleme weil die Toten einfach nicht in ihren Gräbern liegen wolle. Orte an denen nekromantische Energie einfach in der Luft liegt. Und dann gibt es da noch Orte an denen die Umgebung zwar an sich ziemlich tödlich ist aber eigentlich alles normal stirbt wenn man es nur lange genug mit einem Laserschwert piekt. Und dann gibt es noch ganz schreckliche Orte wo die Toten aufgrund externer Kontrolle aus ihren Gräbern kommen. Das ist zwar ein wenig wie Fall Nummer 1 aber wenn das auf Kommando geschieht haben wir meistens ein Problem damit das es sich um einen gezielten Aufstand der Toten handelt und das ist sehr sehr selten zu unseren Vorteil. Wie dem aber auch sei, die einfache Lösung für solche Probleme ist das man einfach los rennt und nicht zurückschaut. Dann kommt man ohne größere Probleme durch. Ärgerlich ist die Angelegenheit schon, insbesondere wenn Kämpfen keine Option war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #58
+
+* Titel: `Fallen Order - #58 - Ilum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin höchst erfreut! Ich dachte wir haben bereits alle Planeten gesehen die man in Fallen Order bereisen kann ich lag allerdings falsch. Viel mehr können wir uns noch an einem Eisplaneten erfreuen, wenn wir jetzt noch irgendwo eine Sandwelt auftreiben können haben wir alles gesehen. An der Stelle aber der übliche Disclaimer das ganze Sandwelten und Eiswelten vielleicht noch halbwegs wahrscheinlich sind, die Tatsache das es aber Planeten gibt die scheinbar nur aus Wald bestehen scheint mir ein wenig unwahrscheinlich zu sein, einfach weil es sowas wie Klimazonen gibt und ich mir irgendwie nicht vorstellen kann das eine Planete genau so liegt das es überall die gleichen Bedingungen gibt oder nur zum Beispiel die Pole sehr klein und mit Frost bedeckt sind. Das passt einfach nicht. Wie dem auch sei, Ilum ist anscheinend für die Jedi ein heiliger Ort gewesen. Ein Planaaet auf dem die heiligen Kyberkristalle wachsen bzw. entstehen die für  die Laserschwerter der Jedi  ja doch so wichtig sind. Das Ganze ist ein wenig mystisch aber letztendlich müssen wir wohl hier hin, unser altes Schwert ist ja offensichtlich kaputt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #59
+
+* Titel: `Fallen Order - #59 - imperialer Bergbau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben jetzt wieder ein Laserschwert, für den Moment ist es gelb aber ich kann jetzt schon sagen das das eher nicht so bleiben wird. Wie dem aber auch sei, plötzlich wird uns ziemlich schmerzhaft bewusst das der eigentlich verlassene Planet Ilum doch eine recht reichhaltige Präsenz an imperialen Truppen besitzt. Das ist außerordentlich ärgerlich. Aufgefallen ist uns das aber wegen des eben noch herrschenden Schneesturms nicht. Anscheinend ist es so das das Imperium absichtlich Planeten die früher den Jedi wichtig waren schleift. Also komplett. Das ist schon eine ziemlich monumentale Aufgabe wenn man darüber nachdenkt. Einen ganzen Planeten mit Bergbau Werkzeugen abzubauen um an seine Ressourcen zu kommen ist keine einfache Aufgabe. Ich bezweifle aber sehr die Sinnhaftigkeit der ganzen Operation an, schließlich gibt es da eine Menge technische Probleme die man nicht hat wenn man sich auf Asteroiden beschränkt. Oder nur nach dem gräbt was man eigentlich haben will. In diesem Falle wären das dann wohl Kyberkristalle. Wofür man die wohl noch nutzen könnte...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #60
+
+* Titel: `Fallen Order - #60 - die Truhe im Eis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute rennen wir einfach im Kreis. Immer und immer wieder. Das liegt daran das Fallen Order eine große Schwäche hat. Fallen Order und ich um genau zu sein. Ich kann mich nicht konkret erinnern wo ein Gang war aber ich kann es auch nicht lassen nicht alles entdeckt zu haben. Also laufen wir ziemlich sinnfrei einen lange Weg zurück weil ich eine einzige Truhe suche in der dann wahrscheinlich irgendein komischer Skin ist den ich nicht einmal brauche. Und dann kommt wieder die Schwäche von Fallen Order zum tragen: die Wege sind nicht besonders gut markiert und die Karte ist kein besonders eindeutiger Hinweis der uns auf die richtige Spur führt. Also laufen wir im Kreis. Und verirren uns. Und erledigen jede Menge imperiale Truppen. Das aber nur nebenbei. Immerhin, die Spannung bleibt bestehen, werde ich nach 19 Minuten aufgeben oder finde ich dann doch noch die Truhe in letzter Minuten? Das wird sich zeigen müssen. Bleibt dran!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

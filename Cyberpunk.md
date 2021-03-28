@@ -1645,22 +1645,68 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
   ```
 
-##### #Nummer
+##### #131
 
-* Titel: ``
+* Titel: `Cyberpunk 2077 - #131 - die alte Crew [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Der heutige Episodentitel ist eine ziemliche Lüge weil eigentlich sammeln wir gar nicht die alte Crew zusammen sondern halt nur Rogue. Ich würde es wohl darauf schieben das hier Dinge verkürzt werden mussten aber an sich finde ich es schon ein wenig schade das wir nie mehr über die anderen Leute aus Johnnies ehemaliger Gang erfahren. Klar, seine Band hat offensichtlich überlebt aber seine Waffengefährten? Gerne hätte ich mehr über den Piloten, Spider Lilly und die Anderen erfahren. Welche Motivation hatten sie die Dinge zu tun die sie taten. War Johhny Silverhand der große Antrieb oder hatten sie ihre eigenen Gründe? Waren sie nur für das Geld dabei oder gab es bei jedem irgendetwas Persönliches? War es wirklich nur Rache auf das Monsieur Silverhand abgezielt hat. Wenig erfahren wir, letztendlich entscheiden seine Taten aber über das Schicksal von V. Und wir sind V. irgendwie. Es ist seltsam wenn man sich das anschaut, es gibt wohl eine gewisse Trennung von V. und uns als Geist hinter den Augen. Alles ein wenig seltsam.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
   ```
 
-##### #Nummer
+##### #132
 
-* Titel: ``
+* Titel: `Cyberpunk 2077 - #132 - Eillieferung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wenn man ganz dringend eine Ware oder eine Dienstleistung braucht dann bezahlt man extra für eine Eillieferung. Araska kann sich ziemlich glücklich schätzen, die haben gar nichts bestellt und dennoch erhalten sie eine Lieferung in der aller schnellsten Liefergeschwindigkeit die man sich nur vorstellen kann. Letztendlich ist das was wir tun ein wenig riskant aber es wird schon nichts schief gehen, und wenn doch sind wir immerhin mit einem Knall gegangen. Ich bin allerdings ein wenig beeindruckt das Arasaka tatsächlich über eine mehr als nur kompetente Luftabwehr verfügt. Aber eventuell war der Vorfall beim ersten Mal genug, man möchte ja keinen zweiten Johnny Silverhand erleben. Damals war die Luftabwehr definitiv nicht adäquat. Und doch..dieses Mal haben wir auch mehr Mittel um zu tun was wir wollen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #133
+
+* Titel: `Cyberpunk 2077 - #133 - Königin der Stadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Persönlich bin ich immer noch ein großer Fan von Ende 1, zusammen mit den Nomaden rein zu gehen, die ganze Mikoshi Geschichte gegen den Baum fahren und dann das letzte halbe Jahr zusammen mit Judy irgendwo in den Badlands verleben. Immerhin ein schöner Abschied, das Leben der Nomaden ist, wenn man es mit den meisten Leuten auf den Straßen von Night City vergleicht gar nicht einmal so schlecht. Dieses Ende hier ist aber wahrscheinlich das was eher für V. sprechen würde. Das was sich Jackie immer gewünscht hat. Nur ein Problem gibt es, unsere Existenz ist nicht wirklich dauerhaft haltbar, allerdings scheint es so als wäre dieses Ende das was einen echte Hoffnung gibt. Kein Vertrauen in Arasaka das man uns eines Tages Altered Carbon artig einen anderen Körper gibt sondern echte Hoffnung. Eine mächtige Fraktion mit der wir jetzt verhandeln können die uns eine Alternative bietet, einen Weg uns weiter raus zu kämpfen. Eine Lösung. Und wieder sind wir im Weltall.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #134
+
+* Titel: `Cyberpunk 2077 - #134 - ein echtes Rockergirl [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und hier sind wir beim vierten Ende von Cyberpunk. An sich ist es eigentlich gar kein richtiges Ende sondern mehr ein Epilog. Ein melancholisches Ende von V. Silverhand wie Sie/Es/Er in den Sonnenuntergang fährt. Eine Art letzter Salut an die verschwundene V. Interessant finde ich allerdings auch das Alt Cunningham verschiedene Dinge erzählt. Einmal erzählt sie das V. in ihr aufgeht und Teil ihrer Persönlichkeiten wird, aber wenn man selber V. ist beschreibt sie es eher so das V. zu einer selbstständige Persönlichkeit wird. Ich kann mir ehrlich gesagt nicht so richtig ein Sequel vorstellen. Die Welt von Cyberpunk ist an sich ziemlich cool aber ich glaube immer noch das die ganze Story viel zu hohe Einsätze hat. Die Cyberpunk-Welt als Bühne aber mehr die Angelegenheit der kleinen Leuten im Fokus und eher ein persönlicherer Konflikt der nicht so absolut ist hätte mir besser gefallen. Die Konzerne sind für mich etwas das halt weit oben, wortwörtlich im All stattfindet und das normale Sterbliche kaum betrifft. Wie dem aber auch sei, die Geschichte von V. ist so oder so abgeschlossen. Letztendlich wäre für ein Sequel aber wohl das Nomaden oder Afterlife Ende am denkbarsten. Ein Ende in dem V. irgendwie eventuell überlebt und ein Hintergrund Charakter wird. Eine Legende ohne Gleichen. Zumindest im Afterlife Ende scheint es ja auch so zu sein das sie noch echte Chancen hat länger als 6 Monate zu leben. Im Nomadenende sieht die Hoffnung eher gering aus.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
+  ```
+
+##### #135
+
+* Titel: `Cyberpunk 2077 - #135 - das einfache Ende [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt noch eine Möglichkeit alles zu beenden und unsere großen Probleme mit der Welt ein für alle Mal zu erledigne. Am Ende muss doch niemand sterben, keiner unser Freunde kommt in die Schusslinie und so gesehen beenden wir das Leben wahrscheinlich sogar mit einem Plus. Problematisch ist nur das wir die Entscheidung so gesehen ohne ausreichende Informationen fällen. Es ist ja nicht so das wir irgendwie abwägen und uns dann bewusst für das entscheiden das wir tun. Außerdem ist der emotionale Schaden an denen die uns nahe sind dennoch gewaltig. Letztendlich kann ich diesem Ende nicht wirklich zustimmen, es erscheint auch für alle Entscheidungen die wir zuvor getan haben sehr untypisch. Komplett anders, nach dem wir uns so lange durch gekämpft haben will mir nicht in den Kopf das wir einfach aufgeben würden. Unsinnig. Aber doch ist es eine Entscheidung, und ich bin sogar froh das einen das Spiel genau diese Entscheidung über lässt und uns sogar über die Konsequenzen aufklärt. Letztendlich wahrscheinlich sogar besser als die Entscheidung nicht zu haben und nicht zu sehen was es mit der Welt macht.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOfI8m56wuq06lspI4f0a7I
   ```

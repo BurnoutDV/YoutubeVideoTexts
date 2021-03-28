@@ -302,6 +302,71 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
   ```
 
+##### #24
+
+* Titel: `DOOM Ancient Gods - #24 - der Weltenspeer [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Entweder der Weltenspeer ist wesentlich mehr als nur ein großer Brocken oder die strukturelle Integrität von Argent d'Nur ist gewaltig höher als man allgemein so annehmen könnte. Insbesondere wenn der Speer mitten durch die Kern des Planeten geht habe ich irgendwie zweifel was die Atmosphäre angeht. Andererseits sollte man vielleicht solche Überlegungen nicht unbedingt auf die Goldwaage packen. Oder aber der Speer, als Objekt gewaltigen Ausmaßes besitzt interne Anlagen die die zerstören Eigenschaften des Planeten ersetzen und vielleicht sogar verbessern. So genau kann man das wahrscheinlich auch nicht sagen. Für den Slayer spielt all das aber wohl weniger eine Rolle. Sicher ist nur das es im Speer etwas  gibt das für uns von Interesse ist und deswegen gehen wir dort hin um es zu holen. Alles Andere sind nur Dämonen die uns im Weg stehen und genauso gut entsorgt werden können.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
+##### #25
+
+* Titel: `DOOM Ancient Gods - #25 - zurück auf der Erde [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Vor einiger Zeit habe ich ein Spiel namens Darksiders gespielt. Davon gibt es sogar 4 Installationen aber der erste Teil ist der auf dem ich mich spontan beziehen möchte. Dort geht die Erde in einem spontanen Anfall von Apokalypse unter und am Ende kommen wir 100 Jahre später vorbei und gucken ob wir den Fehler irgendwie korrigieren können. Bis dahin sind alle Erdenbewohner natürlich schon lange tot und alles ist überwachsen oder zerstört. Das wäre keine Überraschung nach der Zeit. Die Invasion der Erde ist jetzt aber schon ein wenig weniger lange vorbei und dennoch sieht der Planet aus wie er aussieht. So als wären viele Jahren vergangen seit das letzte mal eine menschliche Seele irgendwelche Dinge getan hat. Davon einmal abgesehen das die Invasion der Hölle jetzt auch nicht unbedingt für Pflanzenwachstum sorgt. Oder aber die Seelen der vielen Toten haben dafür gesorgt das das was noch wächst viel wächst. Ich habe absolut keine Ahnung. Vielleicht gibt es ja eine gute Erklärung und sie ging nur an mir vorbei.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
+##### #26
+
+* Titel: `DOOM Ancient Gods - #26 - überwucherte Büros [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Den Pflanzenreichtum habe ich ja bereits in der letzten Episode lang und breit breigetreten insofern muss ich das Thema wohl nicht weiter vertiefen. Wir können nicht erklären wo das Zeug her kommt und gut ist. Davon einmal abgesehen hat erstaunlich viel von der menschlichen Infrastruktur aber überlebt. Man kann durchaus erkennen wo es einmal Büros und Läden gab, selbst Teile der Energieversorgung scheinen immer noch zuverlässig zu funktionieren. Sogar die Warnungen der UAC  geben noch sorgsam Laut ob der Ankunft des Doom Slayer im entsprechenden Quadranten. Wahrscheinlich haben viele Anlagen aber auch eine autarke Energieversorgung, wenn die Technik besser wird ist das wahrscheinlich die logische Folge. Denke ich einmal. All die leuchtenden Dinge funktionieren besser wenn sie von sich aus laufen.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
+##### #27
+
+* Titel: `DOOM Ancient Gods - #27 - das Tor von Divum [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen Gründen befindet sich auf der Erde eine ganze Menge von Anlagen die irgendwelche Dinge tun die mit der Höhle zusammenhängen. Und wir reden hier nicht einmal davon das die UAC Einiges an Höllenforschung betrieben hat und regelmäßig Trips in die Ebenen der Hölle gemacht hat. Es ist viel mehr so das es scheinbar noch mehr Kräfte gab die sich aktiv darum bemüht haben das es wirklich an jeder Ecke irgendwie ein Stück Infrastruktur gibt. Das meiste davon sind technische Neuentwicklungen aber so wie es aussieht wurde auch teilweise sehr alte Technolgie eingelagert. Zum Beispiel das Tor von Divum, den anscheinend einzigen Ort mit dem man in die tiefsten Ebenen der Hölle kommt. So wie es aber aussieht ist das eher ein Schlüssel. Einmal aufgestoßen kommt wohl jeder an diesen speziellen Platz in der Höhle. Sehr beachtlich. Oder Inkonsistent. 
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
+##### #28
+
+* Titel: `DOOM Ancient Gods - #28 - Invasion [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Neulich hat die Hölle entschieden zusammen mit den Makyrs die Erde zu invasieren, davor wurden viele andere Welten mit der Hilfe der Nachtwächter und Verbündeten invasiert, das haben wir aber weniger persönlich genommen, ging ja schließlich nicht um Dämonen oder der Erde. Heute sieht die Lage aber ein wenig anders aus, wir starten quasi eine Gegeninvasion, mit dabei sind natürlich wieder die treuen Ritter aus Argent d'Nur die überraschend personalreich unterwegs sind, ich hätte ja nicht gedacht das es noch so viele von ihnen gibt. Bisher sah es immer so aus als wären nur noch sehr wenige der einst stolzen Ritter übrig geblieben, insbesondere nach dem großen Verrat. Ich habe mich offensichtlich getäuscht. Die Hölle selbst scheint in ihren inneren Grenzen aber eher aus roter Makyrtech als aus allem anderen zu bestehen. Aber vielleicht handelt es sich auch um die ursprüngliche Technik und die Makyr haben alles nachgebaut, inklusive dem Design.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
 ##### #Nummer
 
 * Titel: ``

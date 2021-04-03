@@ -805,6 +805,62 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
+##### #61
+
+* Titel: `Fallen Order - #61 - eisige Flucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hängen immer noch auf diesen Eisplaneten fest und wenn wir es nicht schnell zu unserem Raumschiff schaffen haben wir ein ernsthaftes Problem. Das ist aber eigentlich universal, generell und überhaupt kommt man ja ohne entsprechende Technik eher schlecht von einem Planeten runtern. Ein Problem so alt wie die Zeit. Allerdings sind die Chancen von einem Planeten der scheinbar vollständig von Eis überzogen ist ziemlich gering. Auch wenn der Aufbau einer Zivilisation und Warenkette die interstellar fähige Raumschiffe hervorbringt wahrscheinlich den Zeitrahmen unserer Expedition überfordern. Oder aber wir klauen einfach ein Schiff des Imperiums..oder aber wir töten einfach alle Verfolger und fliehen einfach mit dem Schiff das wir auch für den Hinweg genutzt haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #62
+
+* Titel: `Fallen Order - #62 - der Angst stellen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Weg eines jungen Jedi ist nicht einfach, und wenn ich das mal so in den Raum stellen darf, ich glaube auch das der Weg eines fertigen Jedis nicht immer einfach ist. Ziemlich viele Meister bzw. ausgebildete Jedi fallen am Ende irgendwie der dunklen Seite oder der Verzweiflung anheim. Ich gehe daher davon aus das die Ausbildung der Machtbenutzer nicht besonders aussortierend ist und das auch jene mit einem eher weniger reinen Geist alles schaffen können. Generell und überhaupt habe ich Zweifel in der Qualität der Ausbildung die die Jedi jungen Aspiranten geboten haben. Andernfalls wäre wohl niemand der dunklen Seite verfallen. Wie dem aber auch sei, ich glaube Karl macht heute einen wichtigen Schritt in Richtung Transzedenz und mentaler Stärke. Heute stellt er sich seiner Angst und den inneren Dämonen die ihn viel zu lange zurückgehalten haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #63
+
+* Titel: `Fallen Order - #63 - Taron Malicos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist immer gut wenn Feinde einen Namen haben, noch besser wenn es nur der Name einer Einzelperson und nicht einer großen Organisation ist. Das Imperium ist als Name ziemlich beeindruckend aber wenn man dann noch bedenkt was alles dahinter steht wird es eigentlich nur noch schlimmer. Das Imperium steht für eine gewaltige Menge an Personal. Armeen von Sturmtrupplern, extrem  guter Ausbildung und quasi unbegrenzten Materialien die gegen uns in die Schlacht  geworfen werden können. Die Niederlage ist eine Gewissheit und die Dauer bis dahin nur eine kurze Frage der Zeit. Taron Malicos ist auch ein großer Name, aber nur eben das, ein Name einer Person. Ein gefallener Jedi, eine Person die wir besiegen können. Fällt er gibt es Nichts das danach kommt, ist er einmal besiegt war es das. Eine Wesenheit wie das Imperium ist quasi unbesiegbar, egal was wir tun würden nichts würde sich verändern, töten wir einen gefallenen Jedi gibt es das Problem nicht mehr. Leider ist anscheinend das schon zu viel für Karl. Zu seinem Glück gibt es einen weiteren Namen, Merrin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #64
+
+* Titel: `Fallen Order - #64 - Reisebegleiter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist die Strandepisode. In Animes kommt die irgendwie immer vor. Eine Episode in der die eigentliche Handlung kein Stück weiter kommt und man nur mehr über die einzelnen Charaktere erfährt. Meistens ist dann irgendein Feiertag oder so etwas in der Art. Heute sieht das Ganze ein wenig anders aus, ich habe einfach nur meine Crew vervollständig und möchte die noch ein wenig kennen lernen bevor wir uns den letzten Schatz holen und dann unweigerlich verraten oder verkauft werden. Oder einfach nur überfallen, dann noch irgendwelche Dinge tun und uns dem Endkampf widmen. All diese Dinge geschehen in der Regel in sehr schneller Abfolge und wir können dann nicht mehr viel tun außer zu zusehen. Daher widmen wir uns für einen kurzen Moment ganz unserer Crew und fliegen zu verschiedenen Orten um Dialoge zu finden. Gespräche die uns unsere Leute besser kennen lernen lassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

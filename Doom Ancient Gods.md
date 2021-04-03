@@ -367,6 +367,59 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
   ```
 
+##### #29
+
+* Titel: `DOOM Ancient Gods - #29 - doppelter Spaß [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Heute habe ich eine Menge Spaß. Sogar soviel Spaß das ich zwischenzeitlich ein wenig die Tonspur dieser Episode verändern muss. Ja richtig gelesen, es gibt in dieser Episode einige Stellen die Stille haben wo es vorher ein wenig laute Kommentare gab. Letztendlich verpasst man aber nicht viel, letztendlich sage ich nur das alles total unfair ist und bin ein wenig salzig das ich einige viele Extraleben verloren habe die ich bis dahin aufbewahrt habe. Das hat mich schon ein wenig geärgert. Interessant ist aber auch das der Kampf am Ende besser geworden ist als ich von mir aus weniger geredet habe.
+  
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
+##### #30
+
+* Titel: `DOOM Ancient Gods - #30 - Immora [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich sind wir schon die ganze Zeit in Immora. Die Stadt selbst ist eher eine Festung als eine Stadt. Ich bin mir, jetzt wo ich länger darüber nachdenke auch nicht ganz sicher ob überhaupt irgendjemand davon geredet hat das es sich tatsächlich um eine Stadt handelt oder ob es einfach nur der Ort ist an dem sich der dunkle Fürst traditionell zurückgezogen hat. Der entsprechende Fürst hat sich ein wenig versteckt und zeigt sich jetzt eher nicht mehr. Man könnte fast meinen er ist sich seiner Position nicht ganz sicher und glaubt nicht daran das er uns besiegen kann. Würde er das glauben würde er den Kampf auch direkt hier und jetzt starten. Das tut er aber nicht. Schon ein wenig seltsam. Sollte der oberste Widersacher etwa Angst vor dem Doom Slayer haben. Der Person die eigentlich nur er selbst ist?
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
+##### #31
+
+* Titel: `DOOM Ancient Gods - #31 - der dunkle Fürst [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir da, da ist er, der dunkelte aller Fürsten. Der dunkle Fürst. Früher hatten wir irgendwie Gegenspieler in Form der großen Dämonen. Irgendwie sind die alle vergessen und niemand kann sich so recht daran erinnern wer sie überhaupt waren. Irgendwelche finsteren Wesen die anderen Menschen Deals angeboten haben und den Verrat der Wächter nach Nacht vorangetrieben haben. Alle jene Dämonen die wir in der Hölle ausgeschalten haben, all das spielt irgendwie keine Rolle mehr weil alles was relevant ist scheint der eine dunkle Fürst zu sein den wir überhaupt erst wieder in die Existenz gewoben haben. Und heute treten wir gegen ihn an. All das dauert ein wenig länger, letztendlich braucht man für den Kampf aber nur 10 Minuten..wenn man weiß wie es geht, was ich aber noch nicht weiß. Aber ich werde es heraus finden.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
+##### #32
+
+* Titel: `DOOM Ancient Gods - #32 - dunkler Fürst, Phase 2 - 4 [Let's Play; ger; DLC#2] (1440P@60fps)`
+
+* Beschreibung:
+
+  ```markdown
+  Und der epische Endkampf gegen den dunklen Fürsten  geht weiter. Eigentlich ist es auch ziemlich gut das ich so lange brauche bis ich ihn besiegt habe. Wäre dem nicht zu würde ich der epischen Qualität dieses Kampfes auch sehr abträglich bleiben. Letztendlich mag ich es sehr diesen Kampf mit den eines typischen Dark Souls Kampfes zu vergleichen. Wir tanzen eine Weile um unseren Gegner herum bis wir rausgefunden habe wie die einzelnen Mechaniken funktionieren und auf welche Movesets wir achten müssen. Sobald ich das alles entschlüsselt habe ist der Kampf selbst ziemlich einfach. Aber heute ist nicht der Tag an dem ich das Rätsel knacke.
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
+  ```
+
 ##### #Nummer
 
 * Titel: ``

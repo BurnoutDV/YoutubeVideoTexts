@@ -86,6 +86,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #7
+
+* Titel: `Uncharted 4 - #7 - Aus & Einbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute erfahren wir wie es dazu kommen konnte das das jetzt doch sehr ruhige Leben von Nathan auf einmal noch einmal turbulent geworden ist. Das hat auf jeden Fall mit dem plötzlichen Auftauchen von Samuel zu tun der ja eigentlich tot sein sollte. Daher verfolgen wir heute den Ausbruch aus einem Knast im Panama, ich gebe aber zu das Sam sich diesen Spaß eher nicht selber ausgedacht hat. Übrigens auch irgendwie seltsam, man möchte ja eigentlich meinen das ein Gefängnis in einer Bananenrepublik relativ leicht zu entkommen sein sollte. Und doch scheint der Aufwand den man braucht um einen Mafia Boss zu befreien ziemlich gewaltig zu sein, oder aber man wollte eine Botschaft schicken. Die Frage ist bloß...welche Botschaft. Wie dem aber auch sei, am Ende ist Sam frei und wir müssen irgendwo einbrechen um Informationen zu erhalten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #8
+
+* Titel: `Uncharted 4 - #8 - feiner Anlass [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wollen Einbrechen. Im Leben des Nathan Drake ist das ein normaler Dienstag es könnte allerdings auch Donnerstag sein. So genau weiß ich das nicht. Allerdings ist es durchaus möglich das sich auch Verbrecher so Anlässe wie eine große Auktion eher auf ein Wochenende legen weil ihre semi-legalen Geschäfte immer noch an die normale Arbeitswoche der legaleren Geschäfte gebunden sind. Letztendlich spielt es auch keine Rolle, wir sind fein gekleidet und brechen ein. Und sobald wird drin sind weiß niemand das wir überhaupt hier sind weil wir ja so aussehen wie alle anderen Leute auch. Insbesondere Samuel sieht auch kriminell genug aus um sich perfekt in das Bild einzupassen. Nathans Bruder, der ideale Agent. Mehr oder weniger. Außerdem treffen wir einen alten Bekannten. Auch ganz schön. Sully haben wir ja schon so lange nicht  gesehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #9
+
+* Titel: `Uncharted 4 - #9 - der Weinkeller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Samuel hat ziemlich horrende Schulden und müsste wohl viele viele Jahre arbeiten um sich bei Mafia aus Panama frei zu kaufen. Heute stelle ich mir aber ernsthaft die Frage ob es überhaupt notwendig ist irgendeinen Piratenschatz zu stehlen oder ob wir uns nicht mit einer Reihe von kleineren Diebstählen zufrieden geben könnten. Die Fähigkeiten als Einbrecher und die Grenzen der Risiken die von uns heute und auch zuvor schon eingegangen wurden sind ziemlich weit draußen. Für den gleichen Aufwand könnte man doch bestimmt weniger brisante Schätze stehlen die zudem transportabler sind. Es gibt doch bestimmt einige Dinge die ein paar Millionen hier und ein paar Millionen dort wert sind. Unsere Jagt nach dem einen großen Schatz erscheint mir ziemlich unsinnig. Heute betreten wir zum Beispiel den örtlichen Weinkeller. Die Getränke hier alleine schauen schon ziemlich wertvoll aus.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

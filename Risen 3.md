@@ -128,6 +128,62 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #10
+
+* Titel: `Risen 3 - #10 - Magierwächter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das die Magier nicht besonders zahlreich sind aber dafür jetzt eine Reihe von Schlägern aufgestellt haben die ebenfalls mit Magie umgehen können ohne dabei selber Magier sein zu müssen. Das ist interessant und stellt anscheinend einen schnellen Weg zur Magie da. So weit sind wir aber auch noch nicht, anscheinend ist die Benutzung dieser Macht an besondere Gegenstände gebunden die wir aktuell nicht haben. Und auch die Wächter scheinen nicht besonders freigiebig mit ihrer Ausrüstung zu sein. Höchste bedauerlich aber wir kommen bestimmt noch da hin, bis es aber soweit ist reden wir erst einmal mit allen Leuten die jetzt schon zum Kader gehören. Wir wollen ja schließlich auch ein Gefühl für die Gemeinschaft bekommen der ich mich eventuell anschließen möchte. Es folgen viele Gespräche...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #11
+
+* Titel: `Risen 3 - #11 - Lagerbevölkerung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe jetzt mit den Leuten am Tor, allen Frauen und auch den Wächtern der Magier geredet. Es stellt sich aber heraus das das noch nicht alle Leute waren die sich im Lager aufhalten. Ich bin wirklich erstaunt wie viele Leute sich dann am Ende doch hier aufhalten. Noch mehr gespannt bin ich aber wie es in den anderen Lagern aussieht, hat sich hier etwas entwickelt oder bin ich durch Zufall in das eine Lager gelaufen das tatsächlich einiges an Leuten hat. Oder Taranis ist einfach eine sehr gefährliche Insel und man ist nur in dem Lager und am Hafen vor den vielen Gefahren der Insel sicher. So oder so, die anderen Menschen im Lager haben auch Geschichten zu erzählen, und die hören wir uns heute an. Es kann nur gut werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #12
+
+* Titel: `Risen 3 - #12 - Besuchsrecht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein wir betreten heute kein Altenheim oder ein Gefängnis, stattdessen wollen wir einfach nur mit den örtlichen Magiern reden die anscheinend nicht so bereit sind mit irgendjemanden zu kommunizieren. Zum Glück haben wir uns bereits, und das sogar unabsichtlich, ziemlich nützlich gemacht sodass wir das entsprechende Recht relativ früh erworben haben. Das bedeutet aber auch das wir heute mit irgendwelchen Magier reden die uns eigentlich noch nicht allzu sehr interessieren. An sich wollen wir nur ihre Macht, nicht ihre Geschichte hören. Irgendwie. Ich interessiere mich natürlich brennend für die Geschichten, aber mein namenloser Held interessiert sich für all das kein Stück. Und dennoch hören wir uns all die vielen Worte an die uns die Leute sagen, einfach weil ich die Kontrolle habe und Geschichten hören möchte. Geschichten mit denen man träumen kann, von einer weiten, großen Welt. Von Leben die waren, sind und werden. Quasi Poesie, nur in schlecht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #13
+
+* Titel: `Risen 3 - #13 - der Reaktor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bei einem Reaktor denke ich an etwas in dem Dinge reagieren, meistens Chemikalien wenn ich raten müsste. Was hier aber tatsächlich passiert ist das die Magier irgendwie ihre Magie zusammen werfen und dann passieren Dinge. Was genau kommt dabei gar nicht so richtig raus. Halt so Macht die mit den Kristallen konzentriert wird um irgendwelche Titanen fern zu halten. Titanen die wir übrigens noch nie gesehen haben. Es könnte sie genauso gut nicht geben. Bei allem was wir wissen und gesehen haben könnte es sich genauso gut um eine gute Nachtgeschichte handeln die sich irgendjemand ausgedacht hat um uns alle reinzulegen. Wie dem aber auch sei, der Reaktor soll irgendwas gegen die Titanen tun indem es Magie von drei Ecken der Insel konzentriert. Dafür braucht es aber noch eine Komponente die noch nicht fertig ist. All das ist aber für den Moment wenig interessant, der Reaktor könnte genauso gut gegen rosa Elefanten helfen. Die Wirkung für uns wäre exakt die selbe. Ich bleibe für den Moment skeptisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEjxxxxxxxxxx Bei einem Reaktor denke ich an etwas in dem Dinge reagieren, meistens Chemikalien wenn ich raten müsste. Was hier aber tatsächlich passiert ist das die Magier irgendwie ihre Magie zusammen werfen und dann passieren Dinge. Was genau kommt dabei gar nicht so richtig raus. Halt so Macht die mit den Kristallen konzentriert wird um irgendwelche Titanen fern zu halten. Titanen die wir übrigens noch nie gesehen haben. Es könnte sie genauso gut nicht geben. Bei allem was wir wissen und gesehen haben könnte es sich genauso gut um eine gute Nachtgeschichte handeln die sich irgendjemand ausgedacht hat um uns alle reinzulegen. Wie dem aber auch sei, der Reaktor soll irgendwas gegen die Titanen tun indem es Magie von drei Ecken der Insel konzentriert. Dafür braucht es aber noch eine Komponente die noch nicht fertig ist. All das ist aber für den Moment wenig interessant, der Reaktor könnte genauso gut gegen rosa Elefanten helfen. Die Wirkung für uns wäre exakt die selbe. Ich bleibe für den Moment skeptisch.Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 UhrRisen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEjHier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

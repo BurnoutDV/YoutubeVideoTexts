@@ -420,14 +420,17 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
   ```
 
-##### #Nummer
+##### #33
 
-* Titel: ``
+* Titel: `DOOM Ancient Gods - #33 - dunkler Fürst, Finale [Let's Play; ger; DLC#2] (1440P@60fps)`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich rücke zum letzten Gefecht an, der letzte Kampf, die letzte Runde und das sichere Ende des dunklen Fürsten. Wir sind der Doom Slayer und der Slayer hört nicht eher auf zu kämpfen ehe es nichts mehr gibt das es sich zu bekämpfen lohnt. Mit dem Ende des dunklen Fürsten könnte sich hier aber tatsächlich eine Lücke in der weiteren Freizeitplanung ergeben. Letztendlich ist der Kampf aber mehr ein Tanz, wir müssen die richtigen Schritte gehen um ein bestimmtes Ergebnis zu erreichen, man könnte sogar soweit gehen und von einem Gimmick-Kampf reden weil es ja ein definierendes Element gibt das, sobald herausgefunden, den Kampf ziemlich einfach macht. Das epische Gefecht zwischen Gut und weniger Gut nimmt auf jeden Fall heute seine letzte Inkarnation an..und dann bleibt uns eigentlich nur noch der Abspann. Die Geschichte des Slayers ist aber noch nicht zu Ende erzählt, es gibt da noch eine Menge Lücken zu füllen. Man weiß nie was noch kommt...
+  ---
+  Dies ist ein Youtube Lets Play. Es kam also nie live. Ich saß in meinem stillen Kämmerchen und habe das Spiel ganz ohne Chat aufgenommen. Wenn ich was übersehe ist das also allein meine Schuld. Ich habe trotzdem einen Twitch Kanal, guckt doch mal vorbei: https://www.twitch.tv/BurnoutDV
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6Ty6XWlAsC_8wUs0hcPcH
   ```
 
 ## Fazit

@@ -861,12 +861,86 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
 
-##### #Nummer
+##### #65
 
-* Titel: ``
+* Titel: `Fallen Order - #65 - das Gewölbe [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die Zeit ist gekommen, uns bleibt nichts mehr um die Mission noch weiter zu strecken, daher begeben wir uns heute endlich in das Gewölbe in dem sich anscheinend das große Holocron aufhält. Der Gegenstand der all die Aufenthaltsorte der vielen Machtbenutzer enthält die eventuell eines Tages ein Jedi geworden wären. Warum man überhaupt so eine Kartei anlegen muss ist mir übrigens ein Rätsel. Offensichtlich ist es großen Jedimeistern auch möglich die Macht zu benutzen um den Aufenthaltsort von vielversprechenden Kindern auch so herauszufinden. Warum also eine große Karteikarte erschaffen die jeder nutzen kann, auch die Leute die es besser nicht tun sollen. Zugegeben, es gibt ein paar Sicherheitsmechanismen aber die sind auch nicht unmöglich zu überwunden. Immerhin gibt es ein paar schöne Visionen aus Karls Zukunft wenn er tatsächlich seinen ursprünglichen Plan durchführt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #66
+
+* Titel: `Fallen Order - #66 - Bogano vervollständigt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben zwar das Holocron verloren das ist aber auch kein Grund sofort in Panik zu verfallen. Stattdessen gibt es da noch eine letzte Sache die ich auf jeden Fall vervollständigen will. Und das ist Bogano, es gibt da sogar noch mehr als eine Sache die ich finden muss bis ich wirklich sagen kann das ich alles gesehen habe. Allerdings ist eine Sache es die mir am wichtigsten ist. Und das werde ich auch schaffen, schon sehr bald. Jetzt brauche ich nur noch ein paar Versuche, gute Haltung in der Luft und schon habe ich alles was ich jemals gebraucht habe um wahrhaft glücklich zu sein. Das wir noch dieses doofe Holocron holen müssen ist dabei nur sekundär, die Hälfte der Kinder auf der Liste ist wahrscheinlich bereits so durch die Kriegsmaschinerie des Imperiums gestorben. Wie dem aber auch sei, heute schaffe ich es, ganz sicher, ein kleiner Sprung und schon werde ich die Erinnerung finden die ich vermisst habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #67
+
+* Titel: `Fallen Order - #67 - amphibische Landung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Standort des Hauptquartiers der imperialen Inquisition ist anscheinend ein gut gehütetes Geheimnis. Da wir hier von einer ganzen Galaxie mit vielen vielen Sternensystem reden reicht das eigentlich schon aus um es völlig unmöglich zu machen den Ort zu infiltrieren bzw. zu finden. Dennoch scheint man sich besondere Mühe gemacht zu haben ein Großteil des Gebäudes unter Wasser zu verstecken, vielleicht auch um die Flucht zu verhindern. Da wir uns aber auf einem lebensfeindlichen Planeten befinden und es sonst absolut nichts zu finden gibt es mir ehrlich Rätsel auf warum man sich für so ein kompliziertes Design entschieden hat. Wie dem aber auch sei, die gute Nachricht ist das wir eine schöne und vor allen spektakuläre Landung hinlegen können, und das obwohl wir ja eigentlich einen Luxuskreuzer fliegen und nicht unbedingt ein militärisches Landefahrzeug.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #68
+
+* Titel: `Fallen Order - #68 - Verhörzimmer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Existenz der imperialen Inquisition ist etwas das jeden Machtbenutzer zumindest in irgendeinen Umfang bekannt sein sollte. Besonders tragisch muss es für diejenigen sein die nicht einmal wissen das sie die Macht haben und dann landet eines Tages ein Schiff der Inquisition und nimmt einen mit. Letztendlich endet man dann wohl im Verhörzimmer. Oder vielleicht auch nicht wenn es nichts zu verhören gibt. In Anbetracht der gewaltigen Menge an Jedi die scheinbar im Universum rumrennen hat man offensichtlich nicht alle rekrutiert, wahrscheinlich sogar nur die wenigstens, nur diejenigen die wirklich geeignet waren. Jetzt stellt sich die Frage ob sich die die widerstehen konnten und einfach nur unter der Folter gestorben sind glücklich schätzen können oder das Ende letztendlich schlimmer war als der Dienst als gefallender Jedi unter dem Imperium. So oder so gibt es wahrscheinlich eine Menge Alpträume. Mir ist übrigens noch nicht ganz klar was genau geboten wird, abgesehen vom Ende der Folter. Weil letztendlich wäre es dann doch ein leichtes für die neuen Inquisitoren einen Schlussstrich zu ziehen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #69
+
+* Titel: `Fallen Order - #69 - Trilla Suduri [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist sie, Trilla. Ich habe mich ja ein wenig verliebt in die Gute. Sie hat uns so schön ins Ohr gesäuselt als wir auf Zeffo ein Grab erkundet haben und auch sonst hat sie bis her eine gute Figur gemacht. Letztendlich war sie aber eine wieder verwendbare Gegnerin die wir eigentlich schon viel früher hätten besiegen können wenn man uns denn gelassen hätte. Letztendlich wundert es eigentlich das sie nie richtig gegen uns gekämpft hat. So wichtig kann das Holocron ja nun wirklich nicht sein. Wie dem aber auch sei, dieses Mal bleibt ihr nichts Anderes übrig als bis zum Ende vorzugehen. Schon seit einiger Zeit habe ich aber damit gerechnet das irgendjemand auftaucht der ihr vorgesetzt ist. Es sieht aber wohl so aus das die Struktur der imperialen Inquisition ziemlich flach ist. Ich persönlich hätte ja noch mit einer Riege von Bürokraten gerechnet aber so wie es aussieht kommt direkt nach Trilla der Typ mit der schlechten Atmung. Ihr Tod war übrigens vorher zu sehen, ich bin in keiner Weise überrascht. Merrin hatte bereits die Rolle der reuigen dunklen Macht Benutzerin eingenommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
+  ```
+
+##### #70
+
+* Titel: `Fallen Order - #70 - Neues Spiel Plus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fallen Order ist durchgespielt. An sich ist dieses Video nicht mehr Teil des eigentlichen Lets Plays und die Story ist abgeschlossen. An sich wollte ich mir nur anschauen was wir nach dem Durchspielen alles freigeschaltet haben. Die Erkenntnis ist: ein Kostüm und ein rotes Lichtschwert. Das sieht ziemlich witzig aus weil der erste Kampf gegen Trilla darauf hinaus läuft das wir quasi rot gegen rot kämpfen und wir dabei sogar in der gleichen Uniform stecken. Fairerweise muss man aber wohl sagen das Trillas Kostüm wesentlich hübscher aussieht als Unseres. Letztendlich sind die einzelnen Inquisitoren wohl doch gewissermaßen Individualisten die jeder ihr eigenes Kostüm tragen. Wer das entworfen hat kann ich aber nicht sagen, wahrscheinlich das imperiale Äquivalent von Hugo Boss (Seitenreferenz das Boss im dritten Reich Uniformen entworfen hat, stimmt übrigens gar nicht, die haben nur hergestellt aber die eigentlichen Schnitte bzw. Designs kamen von anderswo. Aber das Imperium ist definitiv daran nachmodelliert).
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```

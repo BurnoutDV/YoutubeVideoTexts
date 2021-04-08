@@ -128,6 +128,90 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #10
+
+* Titel: `Uncharted 4 - #10 - Licht aus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon tun wir etwas Illegales. Technisch gesehen war das Einbrechen bereits ein Verbrechen für sich allerdings war das ja irgendwie unkritisch insbesondere weil wir ja nicht so recht irgendetwas kaputt gemacht haben. Das ändert sich jetzt aber, wir würgen irgendwelche armen zivilen Köche und und sabotieren die Infrastruktur des Anwesens. Ach ja, und unser Bruder stiehlt einen wichtigen Gegenstand. Das ist aber alles weniger relevant. Wie dem aber auch sei, wir begegnen auch zum ersten Mal Nadine. Ihres Zeichens anscheinend Anführerin einer Söldnerfirma namens Shoreline oder Coastline, so genau weiß das keiner. Wie dem aber auch sei. Die gute ist ziemlich kampfstark und ich muss wohl in den Rant verfallen wie ärgerlich körperlich unterlegen Frauen sind. Allerdings muss man zu Gute halten das die gute Nadine in der bisherigen Sequenz ihre Stärken ausgespielt hat und vermieden hat ihre eigenen Schwächen offen zu zeigen. Kurzum, Nathan hat sich ganz schön vorführen lassen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #11
+
+* Titel: `Uncharted 4 - #11 - Schottland [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon gibt es einen Ortswechsel. Grade waren wir noch in Italien und schon finden wir uns in Schottland wieder. Interessant eigentlich, diese Ausführung von Nathan Drakes Abenteuer scheinen uns mehr in die europäischen Lande zu führen. Ich muss zugeben das ich hier große Probleme sehe, einfach weil Europa so dicht besiedelt ist das es unwahrscheinlich erscheint das es irgendwelche großen Geheimnisse oder Schätze hier zu finden gibt. Einfach weil irgendwelche spielenden Kinder schon lange über eventuelle versteckte Dinge gefallen sein könnten. Wie dem aber auch sei, die Ecke von Schottland die wir heute bereisen wollen scheint ziemlich leer und damit höchstwahrscheinlich ziemlich wertlos zu sein. Wir können also wohl ziemlich unbesorgt sein das uns hier andere Menschen begegnen. Mit Ausnahme natürlich der Söldner die Rafe anscheinend als ganze Armee angeheuert haben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #12
+
+* Titel: `Uncharted 4 - #12 - Grabschändung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht warum ich mir überhaupt die Mühe machen irgendwelche Episoden überhaupt noch Grabschändung zu nennen wenn Lara Croft oder Nathan Drake beteiligt ist. Letztendlich ist genau dieser Begriff doch mit den Namen der Person assoziiert. Fräulein Croft hat aber in der Regel immer noch die freundliche Angewohnheit Fotos von den Sachen zu machen die sie zerstört. Meistens jedenfalls, wenn sie nicht grade damit beschäftigt ist durchzurennen und alles hinter ihr zu zerstören. Wie dem aber auch sei. Wir sind heute auf einem Friedhof in Schottland und es könnte durchaus sein das wir nicht die ersten sind die sich an den Gräbern der Leute die hier liegen zu schaffen machen. Über die Art wie es die Söldner von Shoreline getan haben kann ich natürlich kein Urteil erheben, aber da die meisten Söldner wahrscheinlich nicht unbedingt darauf ausgebildet sind Dinge zu erhalten nehme ich einmal stark an sogar Nathan Drake sanfter vorgeht. Sanfter aber lange nicht nicht zurückhaltend, es will ja schließlich ein Schatz gefunden werden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #13
+
+* Titel: `Uncharted 4 - #13 - der Kreuzweg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder einmal habe ich einen Titel gewählt der absichtlich irreführend ist. Das Wort Kreuzweg impliziert irgendwie auch Scheideweg, zumindest für mich, stattdessen ist aber die Interpretation das wir einen Kreuz folgen die Richtige. Das Ganze habe ich mir überraschenderweise gar nicht selber ausgedacht obwohl es nicht so schwer gewesen wäre, stattdessen kommt die Inspiration aus Shadow of the Tomb Raider. Da gibt es eine Nebenmission die sich einer ähnlichen Täuschung zu nutze macht. Dort folgt man auch einen Weg der wortwörtlich aus Kreuzen besteht. Übrigens fällt es mir irgendwie schwer vorzustellen das Piraten irgendwie religiös sind, all ihr tun widerspricht doch sehr den Lehren Christi. Auf der anderen Seite..das Handeln der katholischen Kirche tut das auch und die fühlen sich dadurch auch nie aufgehalten, insofern, wenn eh niemand den Lehren folgt, warum sollte es dann nicht streng christliche Piraten geben?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #14
+
+* Titel: `Uncharted 4 - #14 - Küstenhöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt eine Höhle an der Küste. Mir ist ein absolutes Rätsel wie Rafe in der Lage einfach alles zu übersehen was mit dem Schatz zusammenhängt der sich hier befindet. Ich meine, wenn es eine tiefe Grabkammer gewesen wäre, okay, aber so wie die Dinge stehen handelte es sich ja um Anlagen die man durchaus hätte finden können indem man einfach nur die Küste mit einem Helikopter abgesucht hätte. In all den Jahren wäre es ja wohl ein Leichtes gewesen die gesamte Operation preisgünstig über die Bühne zu bekommen oder? Wie dem auch sei, wir sind auch noch nicht und müssen noch ein wenig wandern bis wir dort sind, aber dank einer relativ genauen Karte ist eigentlich völlig klar wo wir hinmüssen. Jetzt heißt es nur noch Eile, so wie es aussieht ist man uns dicht auf den Fersen. Welche Zufall aber auch das die Dinge immer so knapp laufen, bei all der Zeit die war und ist könnte man quasi von einem Wunder reden wie alles zusammenläuft.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #15
+
+* Titel: `Uncharted 4 - #15 - Schleichgang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hatten ja eigentlich vor uns weit von der Kirche fern zu halten weil da rennt Rafe und seine Söldnerarmee rum, aber es stellt sich schnell heraus das das ist wo wir hin müssen. Ärgerlich übrigens auch das man so viele Sprengungen vorgenommen hat, das destabilisierte den Unterbau auf jeden Fall noch weiter. Davon abgesehen hat aber auch der Zahn der Zeit sein Übliches getan. Die tiefen Schleichgänge mit ihren Prüfungen sind nur noch teilweise vorhanden, viel schmerzhafter ist aber die Abwesenheit von Brücken. Immer wieder aufs Neue muss ich übrigens den Mut von Nathan Drake, aber auch seinem Bruder bewundert. Samuel hat ja kaum eine Wahl, aber Nathan könnte sich jederzeit hinstellen und sagen das er so nicht weiter macht. Wie dem aber auch sei, nachdem wir unser Leben ziemlich oft in arge Gefahr begeben dürfen wir auch noch ein wenig lauschen, das ist ja schon mal Etwas. Stellt sich heraus, wir sind immer noch ziemlich gut in der Zeit wenn man bedenkt das ein weiterer Tag bereits kritisch gewesen wäre.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

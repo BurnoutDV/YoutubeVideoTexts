@@ -181,7 +181,63 @@
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
-  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEjxxxxxxxxxx Bei einem Reaktor denke ich an etwas in dem Dinge reagieren, meistens Chemikalien wenn ich raten müsste. Was hier aber tatsächlich passiert ist das die Magier irgendwie ihre Magie zusammen werfen und dann passieren Dinge. Was genau kommt dabei gar nicht so richtig raus. Halt so Macht die mit den Kristallen konzentriert wird um irgendwelche Titanen fern zu halten. Titanen die wir übrigens noch nie gesehen haben. Es könnte sie genauso gut nicht geben. Bei allem was wir wissen und gesehen haben könnte es sich genauso gut um eine gute Nachtgeschichte handeln die sich irgendjemand ausgedacht hat um uns alle reinzulegen. Wie dem aber auch sei, der Reaktor soll irgendwas gegen die Titanen tun indem es Magie von drei Ecken der Insel konzentriert. Dafür braucht es aber noch eine Komponente die noch nicht fertig ist. All das ist aber für den Moment wenig interessant, der Reaktor könnte genauso gut gegen rosa Elefanten helfen. Die Wirkung für uns wäre exakt die selbe. Ich bleibe für den Moment skeptisch.Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 UhrRisen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEjHier
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #14
+
+* Titel: `Risen 3 - #14 - ein kleines Schauspiel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir heuern heute einen Gnom an, dafür müssen wir aber zuerst beweisen wie gut wir darin sind anderen Leuten etwas vorzuspielen. Ich muss zugeben das ich diesen Aspekt von Spielen sehr genieße, Protagonisten die in einer Sache wesentlich kompetenter sind als ich im echten Leben. Oder anders gesagt, eine Spielwelt in der die Leute zumindest so tun als wäre mein Held so gut wie er auch selber behauptet. Wenn ich versuchen würde ein entsprechendes Schauspiel abzuziehen würde ich ziemlich nervös werden. Kommunikation von irgendwelchen Lügen würde eher überhaupt nicht klappen. Liegt aber auch daran das ich eine ehrliche Haut bin. Im Gegensatz zu den Gnomen. Die sehen die Wahrheit als eine optionale Komponente für die Welt. Insofern scheint wenigstens einer von uns das Schauspiel zu genießen. Andererseits, ich sprach zwar davon das mir die anderen Leute das Gefühl geben erfolgreich zu sein, aber irgendwie könnte es durchaus sein das man alles durchschaut hat und dennoch tut was ich mir wünsche. Einfach durch Zufall.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #15
+
+* Titel: `Risen 3 - #15 - die Schattenmine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und heute betreten wir eine weitere Mine, zur Erinnerung, davon gibt es drei auf der Insel plus eine weitere Mine in der wir bereits einen Fuß gesetzt haben aber dann schnell wieder raus waren weil ich doch ein wenig sehr vom Weg abgekommen bin. Technisch gesehen bin ich auch heute wieder sehr von Weg abgekommen allerdings mehr oder weniger beabsichtig. Schließlich ist es mein erklärtes Ziel bei den Magier aufgenommen zu werden, das möchte ich nicht unbedingt jetzt sofort erreichen aber langfristig ist das durchaus mein Ziel. Wie dem aber auch sei und was ich noch so tue, interessant ist vorerst erst einmal das es eine Quelle von üblen Einfluss an jeder Ecke der Insel gibt, da kann es nicht sehr überraschend sein das auch eine Mine erwischt. Die Schattenmine erträgt keine Kristalle mehr, es scheint das eine dunkle Macht hier zugeschlagen hat und alle ehrlichen Arbeiter getötet hat. Eine wahre Tragik, aber Nichts das wir ändern können, wir können sie nur noch rächen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #16
+
+* Titel: `Risen 3 - #16 - die gute Mine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man merkt es zwar nicht unbedingt, aber gelegentlich ist mir sehr daran gelegen meine Lets Play irgendwie thematisch zusammenhängen zu machen. Das merkt man bei linearen Spielen nicht unbedingt oder es fällt gar nicht auf, einfach weil es keine Möglichkeit für mich gegeben hat überhaupt etwas in der falschen Reihenfolge zu machen. Aber wenn ich die Wahl habe tue ich es dennoch so das das Narrativ irgendwie einen Sinn ergibt. Meistens sind es viele Nebenmissionen die sonst dafür sorgen das die Geschichte ein wenig sehr verwirrend erzählt wird. Beispiel zum Beispiel: Wir kommen an einem neuen Quest-Hub an und nehmen erst einmal alle Missionen an und arbeiten die dann so ab wie wir außerhalb der Stadt bzw. Lagers halt die Dinge finden um möglichst wenig Laufwege zu haben. Das ist zwar effizient und geht wahrscheinlich auch meistens am Schnellsten, es hat aber den Nachteil das ein nicht ganz aufmerksamer Zuschauer am Ende gar nicht mehr weiß worum es geht. Und ich weiß wie Lets Plays geguckt werden, so gut wie niemand guckt die ganze Zeit zu, viel mehr werden Dinge nebenher getan. Daher bemühe ich mich für EUCH das Narrativ möglichst linear zu halten. Daher gehen wir heute in die nächste Mine nachdem wir in der letzten Episoden in einer anderen waren. Heute dauert es aber ein wenig länger, eine Mine mit lebenden Leuten drin frisst mehr Zeit, wer hätte das gedacht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #17
+
+* Titel: `Risen 3 - #17 - die Fischersfrau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bisher haben wir festgestellt das die gesamte weibliche Bevölkerung auf Taranis sich auf exakt eins beläuft, es scheint die Frau eines Wachmannes zu geben und damit hat sich das erledigt. Das hat ein wenig Tradition bei Piranha Bytes, wenige weibliche Charaktere und noch weniger Charaktere die irgendwie relevant sind. Das mag man irgendwie entschuldigen wenn man sich die historische Sicht anguckt. Als starke Frau im Mittelalter gibt es nicht all zu viele Rollen zu füllen die nicht auf dem Scheiterhaufen enden. Dennoch erklärt es nicht wo all die Frauen hin sind, all die vielen Männern die wir treffen werden ja wohl auch Mütter haben. Selbst wenn die aktuelle Generation exakt null weibliche Nachfahren hätte. Was wieder rum wesentlich besorgniserregender als irgendwelche ungesehenen Titanen wäre. Warum erzähle ich das alles? Weil ich nicht so recht weiß wie ich mich dabei fühlen soll. Letztendlich stelle ich mir wohl vor das eine imaginäre Tochter in den Risen/Gothic Spielen wohl eher schwierig ein Rollenmodell finden wird. Aber das wäre ja auch nicht so schlimm, man könnte die relative Unwichtigkeit von Frauen mit der künstlerischen Vision erklären, vielleicht ist die Welt nur sehr krass patriarchalisch. Vor mir aus, aber selbst dann müsste es hier und da ein paar Frauen zu sehen geben. Dennoch existieren sie nur wo sie für ein Klischee benötigt werden. Zum Beispiel die hübsche Gouverneurstochter. Zweites Klischee heute, die Frau des Fischers. Die weibliche Bevölkerung steigt damit übrigens nicht, zumindest nicht wenn man die Toten nicht mitzählt. Anzahl der lebenden Frauen auf Taranis: nach wie vor eins.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
 ##### #Nummer

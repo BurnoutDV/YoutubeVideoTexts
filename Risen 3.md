@@ -240,6 +240,62 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #18
+
+* Titel: `Risen 3 - #18 - Walker der Jäger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist er ja! Der wichtige Jagtlehrer, der Schlüssel zu grenzenlosen Reichtum, oder zumindest zu einigen Vermögen das wir direkt aus dem Fleisch der Tiere ziehen. Oder aus ihren Beinen, Mündern oder wo auch immer, unter Umständen ist es sogar ein ganzer Kopf den wir mitnehmen. Wie dem aber auch sei, einen Jäger zu treffen ist immer ein gutes Zeichen. Ich mag Jäger, freundliche Zeitgenossen die noch nicht von der Menschheit genervt sind oder vielleicht auch das aber meistens mit Menschen in geringen Mengen durchaus vertragen können. Und wir sind ja quasi nur alleine unterwegs. Bones zählt nicht, der ist Gepäck und Schläger. Und wir lernen heute eine Menge, insbesondere nachdem wir dem guten Jäger bei einer Sache helfen, bzw. eigentlich helfen lassen. Ich bin immer noch nicht der Meinung das ich irgendetwas selber machen muss. Dafür bin ich auch viel zu kampfschwach.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #19
+
+* Titel: `Risen 3 - #19 - Brownies Pilze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir gestern einen Jäger getroffen haben ist heute ein verängstigter Magierwächter dran. Der gute hat anscheinend zu lange an den örtlichen Pilzen geschnuppert. Das Ganze ist übrigens ziemlich beeindruckend, wir hatten ja schon einmal jemanden der zu viel mit Pilzen hatte, aber hier wurden die Pilze nicht einmal gegessen und der Effekt scheint dennoch der gleiche zu sein. Das sieht man einmal mal wieder wie gefährlich lokale Flora sein kann. Die Fauna übrigens auch aber die scheint pilzsüchtige in Ruhe zu lassen, anders kann ich mir nicht erklären wie es der Mann geschafft hat zu überleben ohne in Stücke gerissen zu werden. Ich kann mir nicht vorstellen das man besonders gute Chancen hat wenn man nicht  einmal weiß was real und was nur in der Fantasie existiert. Wie dem aber auch sei, wir retten den guten Brownie natürlich, sind doch schließlich ein Gutmensch, für den Moment auf jeden Fall, bis sich herausstellt was hier mehr Punkte bringen könnten. Keine Entscheidung zu früh treffen. Man weiß ja nie was noch so schief gehen könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #20
+
+* Titel: `Risen 3 - #20 - die neue Mine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon wieder finden wir eine Mine, ich habe ja erzählt das ich diese Dinge immer schön hintereinander machen möchte, allerdings habe ich jetzt doch nicht alle Minen hintereinander gemacht und streng genommen hatte ich ursprünglich gar nicht vor in diese Mine überhaupt zu gehen, in der großen Angst damit die Handlung zu weit zu treiben und mich damit quasi aus Versehen einer Gemeinschaft anzuschließen bevor es eigentlich überhaupt soweit ist. Es stellt sich heraus, ich habe mir umsonst Sorgen gemacht. Aber immerhin dürfen wir heute gegen angenehme Gegner kämpfen die scheinbar doch relativ leicht niederzuringen sind, namentlich sind das die Kobolde, soweit ich das sehen kann sind die nicht all zu mobil und halten auch nicht unendlich viel aus. Insofern gibt es heute eine entspannte Episode. Also wie immer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #21
+
+* Titel: `Risen 3 - #21 - Caladors Fischer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind woanders, um genau zu sein sind wir nach Calador gefahren, eventuell spreche ich es gelegentlich Kalimdor aus, das ist aber ganz woanders. Wie dem auch sei, der Ort der sich hier Calador nennt ist scheinbar die uralte Heimat der Dämonenjäger die viele Generationen lang über die ganze Welt verteilt waren. Jetzt hat sich das geändert und die alten Familien sammeln sich wieder, deswegen wurden die grünen Flammen entzündet, um all jene zu rufen die dem alten Geschlecht angehören. Wir sind nicht dabei. All das erfahren wir auch erst etwas später aber ich dachte die Information wäre schon mal jetzt ganz gut. Alle Leute auf der Insel ernähren sich anscheinend von den Produkten von 3 Fischern. Das ist ziemlich beeindruckend wenn man darüber nachdenkt wie viele Menschen scheinbar auf dieser Insel ihr Unwesen treiben. Die Fischer haben selbstverständlich Probleme und wir werden diese Probleme selbstverständlich lösen. Bringt ja schließlich alles Ruhm, und manchmal sogar Gold. Das können wir uns nicht entgehen lassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

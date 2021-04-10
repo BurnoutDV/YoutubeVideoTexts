@@ -212,6 +212,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #16
+
+* Titel: `Uncharted 4 - #16 - Karte nach Afrika [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird mal wieder Zeit für einen Ortswechsel, Schottland kann schon ziemlich schön sein aber auf Dauer würden wir uns hier doch ziemlich langweilen. Insbesondere weil die Landschaft nur soviel hergeben kann, hexagonale Basaltstrukturen hin oder her. Hinzu kommt aber auch das Problem das es ziemlich schnell unglaubwürdig werden kann wenn man bedenkt das Großbritannien doch recht dicht besiedelt ist. Irgendwelche noch nie durch Zufall gefundenen Piratenruinen/Schätze sind wirklich schwer zu verkaufen. Man sollte niemals die Kraft von Joggern und spielenden Kinder unterschätzen, tote Menschen werden schließlich auch recht schnell gefunden wenn sie in der Nähe bevölkerter Gebiete rumliegen. Alternativ gibt es natürlich noch Jäger. Um es kurz zu machen, wir müssen woanders hin. Und das am besten schnell. Wie schön das uns die Shoreline Chefin persönlich zur Eile antreibt, insofern sind wir schon quasi in der nächste Episode ganz woanders.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #17
+
+* Titel: `Uncharted 4 - #17 - amphibischer Ortswechsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich fliegen wir auch noch. Ich habe aber leider keine Ahnung wie ein Transport heißt der sowohl an Luft, Land und Wasser stattfindet. Kurzum, wir benutzen ein Wasserflugzeug und fliegen damit damit einmal quer durch die Welt von Großbritannien an die Küste von Afrika, genauer gesagt auf die Insel Madagaskar. Da ist es schön mollig warm. Ich frage mich übrigens immer noch wie das die gesammelten Diebe eigentlich mit der rechtlichen Seite machen. Wahrscheinlich muss man sich da ja schon mit irgendwelchen Überflugrechten und Tankpausen rumärgern oder? Und generell und überhaupt, wenn man da ist muss man ja schon aussteigen, kann ja schon sein das die örtlichen Behörden da etwas laxer sind, aber in Schottland hätte ich da mit Problemen gerechnet. Kann natürlich auch sein das, wenn man ein eigenes Flugzeug hat, das Alles ein wenig einfacher ist, weil wer ein eigenes Flugzeug hat kann ja kein schlechter Mensch sein, richtig?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

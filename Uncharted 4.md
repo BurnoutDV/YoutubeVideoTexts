@@ -240,6 +240,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #18
+
+* Titel: `Uncharted 4 - #18 - Ausfahrt in Madagaskar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Madagaskar ist eine Insel an der Küste von Afrika umringt vom pazifischen Ozean. Es ist Heimat von einigen einzigartigen Tierarten und generell und überhaupt ziemlich arm. Das ist alles was ich über Madagaskar weiß. Ich hätte mich eventuell vorher darüber belesen sollen aber sicher ist das die Insel in diesem Spiel landschaftlich so Einiges her macht. Heute erkunden wir ziemlich große Flächen was im Kontext der Uncharted Spiele ein ziemlich Novum ist. Man könnte schon fast von einer Open World reden, letztendlich ist es immer noch ein Level nur halt etwas größer aber es gibt zumindest einen Anschein von Freiheit. Insbesondere die Freiheit etwas zu übersehen, etwas das ich ziemlich sicher heute getan habe. Das ist mir unangenehm. Ich über sehe nur sehr ungern etwas aber wenn man soviele Möglichkeiten hat irgendwo zu halten übersieht man definitiv irgendwas.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #19
+
+* Titel: `Uncharted 4 - #19 - Safarizone [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein wir fangen heute keine seltenen Pokemon und am Ende enden wir auch nicht damit das wir in einer Höhle die von Zubats versucht ist nicht mehr so richtig rausfinden. Generell und überhaupt ist es trotzdem gar nicht einmal so schlimm in der Zone in der wir uns aufhalten. Da es anscheinend keine größeren Tiere bis auf irgendwelche Büffel-Viechers am Horizon gibt kann man aber wahrscheinlich nicht so richtig von einer Safari sprechen. Jetzt wo ich so darüber nachdenke habe ich aber auch keine Ahnung was eine Safari überhaupt ausmacht. 
+  Ich habs nachgelesen, an sich ist es nur das Wort für eine Jagt in Süd- bzw- Ostafrika. Technisch gesehen sind wir im Osten von Afrika, dann ist das bestimmt okay. Letztendlich müssten wir eigentlich darauf aus sein eines der fünf großen Tiere zu jagen, aber unser Ziel sind Menschen bzw. eigentlich die Hinterlassenschaften von Menschen. Jetzt bin ich mir nicht ganz sicher aber wir jagen ja doch, also, doch ja, wir sind auf einer Safari. Eine Safari für Reichtum. Und das machen wir in einem Gebiet das ich hiermit als "Zone" definiere. Schön. Hätten wir das geklärt.
+  Technisch gesehen heißt das Shahili Wort Safari übrigens nur Reise, kommt wohl aus den arabischen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -296,6 +296,34 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #22
+
+* Titel: `Risen 3 - #22 - Strandfrüchte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen neigen aus Gründen die sich mir nicht immer erschließen dazu verschiedene Dinge irgendwie zu benennen ohne das es unbedingt einen Sinn ergeben muss. Zum Beispiel wenn man von Meeresfrüchten spricht gibt es da keine Äpfel unter Wasser. Stattdessen findet man dann Fische oder Tintenfische auf der Platte. Und noch diverses anderes Zeug. Aber auf jeden Fall keinen Meeresapfel. Wie dem aber auch sei. Heute gehen wir ja gar nichts ins Meer. Stattdessen patrollieren wir einfach am Stand entlang und schauen einmal was es hier alles zu fangen gibt. Wir finden übrigens auch einen Magier der scheinbar grade  eine Dirne für seine dunklen Rituale verwenden will. Anscheinend greife ich da den Dingen schon wieder ein wenig vor, besagte Dirne stammt wohl von der örtlichen Schenke, einen Ort den wir noch gar nicht besucht haben. Ärgerlicherweise müssen wir an den Mann  vorbei weil er auf dem Schatz wohnt den wir sowieso heben wollten. Daher machen wir das dann auch. Bloß doof wenn das Loch mit Blut vollläuft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #23
+
+* Titel: `Risen 3 - #23 - Weg zur Zitadelle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann nicht den ganzen Tag damit verbringen einfach nichts zu tun oder irgendwelche holden Maiden zu retten. Stattdessen muss man auch mal proaktiv werden. Zum Beispiel wenn man sich zur Zitadelle der Dämonenjäger führen lässt. Die war zwar schon von Anfang an sichtbar und ich bin mir ziemlich sicher das ich sie auch ohne Hilfe gefunden hätte aber ein Begleiter mehr ist nie verkehrt. Seltsamerweise finden wir außerdem einen Magier aus Taranis der scheinbar auf dieser Insel ein seltenes Artefakt sucht. Ich bin sehr gespannt ob ich über diesen Vorfall später mehr erfahre. So wie es scheint ist dies aber nichts das unseren Jäger der Dämonen im Geringsten stört. Der interessiert sich nur dafür die richtige Sache zu machen. Der Pfad zum Lager bzw. der Zitadelle ist übrigens echt kurz und irgendwie auch ziemlich ungefährlich. Ich hätte da mehr Widerstand erwartet. Wir sind seit Anfang des Spieles nicht wirklich stärker geworden und dennoch war der Weg irgendwie machbar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

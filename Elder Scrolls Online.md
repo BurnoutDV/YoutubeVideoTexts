@@ -2499,3 +2499,30 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   ```
+
+## Blackwood Prolog 
+
+##### #1420
+
+* Titel: `Let's Play ESO #1420 - die Ruinen von Shael [Blackwood Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 1 des Blackwood Prologs - Sitzung 1
+  
+  Ich habe offensichtlich vergessen das es eine Prolog Mission für die einzelnen DLCs gibt die so rauskommen. Das schließt aus logischen Gründen natürlich auch die Dungeon Addons ein die ich ja nicht spiele weil ich über keine Gruppe verfüge bzw. der Storygehalt der einzelnen PVE Dungeons doch eher gering ist(man möge mich hier korrigieren aber von dem was ich bisher gesehen habe verpasst man nicht all zu viel). Wie dem aber auch sei, ich kann mir natürlich die Singleplayer Prologe nicht entgehen lassen, und sobald ich darüber informiert bin das es einen gibt beschäftige ich mich auch damit, also geht es heute los. Alles beginnt mit einer mysteriösen Nachrichten eines Dremora mit Namen Lyranth. Ich habe nachgeschaut, wir kennen den Namen, ist aber alles schon eine Weile her.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

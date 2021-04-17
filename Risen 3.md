@@ -324,6 +324,74 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #24
+
+* Titel: `Risen 3 - #24 - die Zitadelle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine Zitadelle ist eine kleine, abgeschlossene Festung die innerhalb einer größeren Anlage liegt. Das ist Fakt. Über das Wort Zitadelle falle ich übrigens öfter und daher weiß ich das mittlerweile. Es ist nun aber so das die Anlage die wir heute vorfinden nicht wirklich eine Zitadelle IST aber eventuell einmal eine wahr. Das ist dann aber schon ziemlich lange her und von den Außenwällen ist aller höchstens noch die Taverne über, die aber auch ein anderes Gebäude sein könnte. Wie dem aber auch sei, das Gebäude selbst ist in desolaten Zustand. Die neu an ge kommenden Dämonenjäger scheinen sich nur auf einen Teilaspekt ihrer ehemaligen Tugenden zu konzentrieren, und das ist das Kämpfen. Jeder kämpfende Orden sollte aber auch wissen das der Bau von Verteidigungsanlagen, das Ausheben von Gräben, selbst das Anlegen von Sanitäranlagen ebenso dazu gehört wie mit dem Schwert in der Hand Feinde nieder zu ringen. Der Zustand der inneren Einrichtung sagt mir aber das man sich nicht wirklich bemüht hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #25
+
+* Titel: `Risen 3 - #25 - Meister Eldric [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute treffen wir (unter Anderem) den großen, ehrwürdigen Meister der Dämonenjäger. Ein gewisser Druide mit den Namen Eldric. Kenner des Vorgängers wissen bereits das es auch auf Faranga und später in der Gefolgschaft von "Jack0" einen Druiden namens Eldric gegeben hat. Ich nehme aber an das der Name Eldric einfach nur dafür sorgt das die entsprechende Person Druide wird und nicht das es sich um die selbe Person handelt. Wie sehen es ja auch heute, die Person die vor uns steht ist definitiv nicht Eldric aus den Vorgängern, insofern ist das hier jemand Neues. Von der Personalie des Hauptanführers einmal abgesehen finde ich so länger stehende Organisationen immer ziemlich kritisch, es scheint fast das die Halbwertszeit für jede Art von Gemeinschaft ungefähr zwei Generationen ist und danach kommt irgendeine Korruption und verzerrt die einstigen Ideale der einst so großen Krieger. Hier haben wir zum Beispiel die Dämonenjäger, so wie es uns dargestellt wird bestehend aus verschiedenen großen Familien, was ich aber nicht sehe sind Ideale oder große Moralvorstellungen. Klar, es gibt da die Queste Dämonen zu erschlagen, das steht auf der Fahne und wird auch gemacht aber das ganze drumherum scheint doch ein wenig leer zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #26
+
+* Titel: `Risen 3 - #26 - Burkes Körper [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt einen Film names "Jennifers Body", unterhaltsam. Das hat absolut nichts mit der aktuellen Episode zu tun, wirklich, gar nichts, nicht einmal entfernt. Es ist nur der Name der Episode und der Titel des Filmes. Und doch, daran musste ich grade denken. Wie dem aber auch sei, heute geht es um den Körper von Burke. Burke ist ein Dämonenjäger der oben in der Zitadelle steht und nicht so recht mit uns reden möchte. Die anderen Leute sagen das er wohl einen auf den Kopf gekriegt hat und scheinen das Verhalten des Mannes für nicht besonders auffällig zu halten. Die Kameraderie innerhalb der Organisation ist auf jeden Fall hervorragend. Aber auch das Vertrauen, anscheinend hat Burke Dinge getan von denen die Anderen nichts wissen und jetzt hat er ein Problem. In dieser Heimlichtuerei sehe ich übrigens schon wieder die Wege des Chaos und die Verführung der schnellen Macht, und dafür sind wir definitiv im falschen Universum. (Allerdings ist das Konzept des "verführenden neutralen Bösen" ziemlich universal anwendbar, siehe auch meine Überlegungen zum Zerfall von Organisationen). Da Burke keine Hilfe von innerhalb seiner Organisation erhalten kann müssen wir wohl den Job übernehmen, da kann er übrigens wirklich von Glück reden das wir grade jetzt vorbei kamen und nicht durch erst auf Taranis noch ein paar Cocktails geschlürft haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #27
+
+* Titel: `Risen 3 - #27 - Ernestos Hof [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es am Anfang anscheinend falsch verstanden und dachte die Dämonenjäger hätten den Kontakt zu allen Höfen verloren. Dies ist anscheinend nicht richtig und ich behaupte das in dieser Episode anders. Tatsache ist das nur zu einem Großteil aller Höfe der Kontakt verloren wurde. Da es drei Stück sind können wir ziemlich sicher davon ausgehen das man also nur noch zu einem Hof Kontakt halten konnte. Wahrscheinlich der von Ernesto. Hier bahnt sich ein Erbdrama an. Ernesto hat keine eigenen Kinder und möchte den Hof wohl eines Tages seinem Knecht vermachen. Es gibt da aber noch die Magd die glaubt diesen Job besser zu machen. Wir investigieren.
+  ---
+  Und jetzt kommt das Ding, die eigentliche Geschichte sei jetzt mal wie sie ist. Die Magd ist ein Arsch und kriegt den Hof nicht, basta. Das ist jetzt aber wegen ihres Verhaltens. Interessant ist aber das riesengroße Loch das Piranha Bytes hier hinterlässt. Ich nehme einmal an das wir die gesamte Welt als "skaliert" wahrnehmen müssen. Wo wir ein Fischerdorf mit 3 Leuten sehen sind in Wirklichkeit 30 oder 50 Menschen, natürlich auch Kinder und Frauen, die werden nur weggefiltert. Dadurch sehen wir aber ziemlich wenig von der Dynamik der Gesellschaft in sich. Ich lehne mich einmal aus den Fenster und behaupte das Gleichbehandlung der Geschlechter eine Kurve ist, sehr arme Gesellschaft können  sich den Luxus von Geschlechtertrennung nicht leisten, sehr fortschrittliche Gesellschaften lehne sie aus moralischen Gründen ab. Alles dazwischen ist dann kritisch und wahrscheinlich an sich auch die häufigste Form mit natürlich fließenden Übergängen. Die ganze Erbgeschichte mit Ernesto wird jetzt so dargestellt das die Magd den Hof nicht kriegt weil sie eine Frau ist. Tatsächlich wissen wir aber nichts von der Gesellschaft von Calador. Können Frauen erben. Wie sind ihre Rechte? Gibt es eine Kirche, König oder sonstige Instanz die sowas formell regelt? Gibt es ein gelebtes Gesetz das Töchter von Bauern vorschreibt zu heiraten und außer einer Mitgift nicht viel zu sagen zu haben? Kurzum, wir haben keine Ahnung wie die Chancen der Magd im Vakuum aussahen. Von ihrer kleinen Intrige einmal abgesehen scheint sie ja die kompetentere Person zu sein, der Knecht ist offensichtlich nicht die hellste Kerze. Anderseits weiß ich aber auch nicht wie groß der Hof "sein soll". Auch er ist ja skaliert. Die angebrochene Geschlechterdebatte hier stört mich also ein wenig sehr, schon weil wir das Verhalten der Magd nicht beurteilen können. Handelt es sich um eine sehr asymmetrische Gesellschaft und hier sieht ein verzweifeltes Mädchen eine Chance endlich als Frau einmal einen Unterschied zu machen. Oder ist es eine junge Frau mit großen Visionen die Macht um jeden Preis will? Wir haben keine Möglichkeit das zu beurteilen. Das stört mich, meine Entscheidung basiert also auf das Verhalten des Individuums, und das war arschig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1,6 +1,6 @@
 ## Uncharted 4
 
-* tags = `nathan drake,uncharted 4,a thiefs end,playstation 4,lets play,gameplay,playthrough,tutorial,walkthrough,1984,Ryan Duffy,Rafe,Henry Avery,Hector Alvarez,Panama,Elena,Chloe,Cutter,Sully,Samuel,Pirat,Schatz,Suche,Digni Factis Receptimus,Juwelen,atlantis,el dorado,lara croft,tomb raider,England,New Orleans`
+* tags = `playstation 4,lets play,uncharted 4,atlantis,playthrough,Elena,nathan drake,el dorado,Suche,Schatz,gameplay,Panama,Pirat,tomb raider,England,Digni Factis Receptimus,Juwelen,Sully,a thiefs end,Henry Avery,Hector Alvarez,Rafe,lara croft,Samuel,walkthrough,libertalia,anne bonny,dragon,zwölf türme,bridgeman,thomas tew,shoreline,dauntless,nadine,ross,rafe,hector alcazar,kruzifix,joseph farell,dismas,jesus,hindu-gang-i-sawai,reuiger dieb,Madagaskar,Schottland,Afrika`
 
 ##### #1
 
@@ -264,6 +264,62 @@
   Nein wir fangen heute keine seltenen Pokemon und am Ende enden wir auch nicht damit das wir in einer Höhle die von Zubats versucht ist nicht mehr so richtig rausfinden. Generell und überhaupt ist es trotzdem gar nicht einmal so schlimm in der Zone in der wir uns aufhalten. Da es anscheinend keine größeren Tiere bis auf irgendwelche Büffel-Viechers am Horizon gibt kann man aber wahrscheinlich nicht so richtig von einer Safari sprechen. Jetzt wo ich so darüber nachdenke habe ich aber auch keine Ahnung was eine Safari überhaupt ausmacht. 
   Ich habs nachgelesen, an sich ist es nur das Wort für eine Jagt in Süd- bzw- Ostafrika. Technisch gesehen sind wir im Osten von Afrika, dann ist das bestimmt okay. Letztendlich müssten wir eigentlich darauf aus sein eines der fünf großen Tiere zu jagen, aber unser Ziel sind Menschen bzw. eigentlich die Hinterlassenschaften von Menschen. Jetzt bin ich mir nicht ganz sicher aber wir jagen ja doch, also, doch ja, wir sind auf einer Safari. Eine Safari für Reichtum. Und das machen wir in einem Gebiet das ich hiermit als "Zone" definiere. Schön. Hätten wir das geklärt.
   Technisch gesehen heißt das Shahili Wort Safari übrigens nur Reise, kommt wohl aus den arabischen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #20
+
+* Titel: `Uncharted 4 - #20 - Außenlager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt anscheinend eine größere angelegte Operation von Shoreline in Madagaskar, das liegt unter Anderem daran das es wohl auch in vor einigen Jahrhunderten hier eine größere Operation durch die Piratenkapitäne der Zeit gegeben hat. Insgesamt 12 Türme, wie wir später erfahren werden, stehe auf der Insel verteilt rum und bilden damit die Grundstruktur des Piratenreiches das es hier anscheinend vor einiger Zeit gegeben hat. Es verwundert ein wenig das niemand vorher über all das gefallen ist und einige Schlussfolgerungen gezogen hat. Wie dem aber auch sei, technisch gesehen wissen wir genau wo wir hin müssen aber bevor es soweit ist schauen wir uns natürlich noch einmal alle Optionen an, man möchte ja keinen Inhalt verpassen. Immerhin erfahren wir das auch Rafe scheinbar ein wenig an dem Erhalt der kulturellen Werte hier gelegen ist. Interessant.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #21
+
+* Titel: `Uncharted 4 - #21 - der große Turm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wussten von Anfang an zu welchen Turm wir eigentlich fahren wollten, trotzdem wurde natürlich vorher jeder andere Standort erkundet, es kann ja auch nicht sein das wir uns irgendwelche Schätze oder Wissen entgehen lassen. Wäre es eine wahre offene Welt hätte es auch eine gewisse Chance gegeben das wir tatsächlich irgendwelche optionalen Quest oder Belohnungen an den anderen Orten erhalten hätten. Haben wir aber nicht, stattdessen geht alles seinen geordneten Gang als wir dann den zentralen Turm erreiche. Oder anders, als wir uns grade auf den Turm hinbewegen wollte. Es klingt unglaublich aber unsere Gegenspieler von Shoreline scheinen ein exaktes Gefühl dafür zu haben wann es ideal ist zu stürmen und uns das Leben schwer zu machen. Das ist echt ein wenig bedauerlich, wären wir nur ein wenig schneller gewesen hätten wir den Hinweg vortrefflich abschneiden können. Immerhin erfahren wir  dann am Turm endlich wieder etwas über die Hinweise von Avery.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #22
+
+* Titel: `Uncharted 4 - #22 - die zwölf Türme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erfahren dann das es doch noch ein paar mehr von diesen Piratentürmen gibt als wir ursprünglich dachten, mindestens zwölf wenn wir die Zeichnungen richtig interpretieren. Das ist eine ganze Menge und ich frage mich langsam aber sicher wirklich wofür die anderen 11 erschaffen wurden wenn nur einer die Geheimnisse enthält die wir haben wollen. Generell und überhaupt frage ich mich wirklich wie man in der Lage war all die Leute dazu zu motivieren zu tun was sie getan haben. Vielleicht mit ausreichender Verpflegung aber dann stellen sich wieder logistische Fragen. Wir sind immer noch in Madagaskar und die Zeit der Piraten war lange bevor es irgendwelche Automatisierungen gegeben hat die die arbeitende Bevölkerung soweit entlastet hat das es vorstellbar war das sich eine Horde von Piraten dazu überzeugen lässt irgendwelche Türme mitten im Land zu bewachen und zu bewohnen. Und dann frage ich mich auch noch wozu. Kaum verlassen wir einen Turm betreten wir übrigens den Nächsten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #23
+
+* Titel: `Uncharted 4 - #23 - die große Glocke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, es überrascht mich immer wieder aus Neue, wirklich, jedes Mal, das all die Dinge die Nathan Drake anfässt kaputt  gehen. Nicht weil er sie zerstört oder weil er im Großen und Ganzen einfach ein destruktiver Charakter ist sondern weil die Dinge vorher noch intakt sind. Das Meiste was er so anfasst ist schon ziemlich alt und man würde eigentlich erwarten das entweder irgendwelche Archäologen da schon drüber  gekrochen sind oder aber spielende Kinder bereits alle Geheimnisse gefunden hätten. Wie dem aber auch sei, es scheint so das wir einen der legendären Türme von Avery mitten in einer Stadt finden und da das entsprechende Gebäude abgeschlossen hat niemand es in den letzten Jahrhunderten betreten oder näher erforscht hat. Das ist sehr gut für uns, heißt es doch das die dort versteckten Geheimnisse noch nicht entdeckt worden. Ich bleibe dennoch bei meiner Theorie das es ein geheimes Kabal gibt das sich um genau solche Dinge sorgt - den Erhalt von Rätseln.
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Uncharted 4 - A Thiefs End auf dem Montags Slot.

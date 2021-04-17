@@ -326,6 +326,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #24
+
+* Titel: `Uncharted 4 - #24 - Piratenschloss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eines der größten Probleme mit Spielen wie Uncharted oder Tomb Raider ist..das der Hauptcharakter nicht so heißt wie das Spiel. Oder aber das es zwar immer wieder coole Rätsel zu lösen gibt aber es quasi keinerlei Erklärung warum es diese Rätsel überhaupt gibt, wer diese komplexen mechanischen Konstruktionen gebaut hat, warum das geschah und ob es überhaupt möglich gewesen wäre. Das heutige Rätsel ist noch relativ leicht zu erklären, die drehende Statue die mitten in einem Lavasee stand war bis jetzt aber auch die absolute Krönung, obwohl vieler der Tomb Raider Konstruktionen wesentlich unwahrscheinlich sind als das was wir bis her in Uncharted gesehen haben. Die meisten waren nur sehr implausibel anstatt total unmöglich. Immerhin wird gelegentlich ein mystisches Element erwähnt. Ich nehme einmal stark an das Problem fußt auf den Spielen der Vergangenheit, früher gab es einfach weniger Story in solchen Abenteuerspielen und die typischen Rätsel wurden einfach hingenommen. Das hat sich im Laufe der Jahre natürlich geändert und jetzt haben wir ein Spiel mit schwerer Geschichte das leider nicht die Anwesenheit der Rätselmechaniken erklären kann. Entweder muss man jetzt also richtig dolle was im Lore Department tun..oder aber man hat nur ganz simple Rätsel die irgendwie erklärbar wären. Beides ist nicht wirklich der goldene Weg und schränkt die kreative Freiheit ziemlich ein. Wir Enden also wo wir sind und stehen vor einer komplexe Maschine die in ihrem Aufbau ganz schöne Hightech ist. Und sehr teuer aussieht, wo genau hat Avery 1700 Menschen gefunden die so etwas aufbauen konnten? Wo waren diese Leute sonst? Kann am Ende überhaupt noch Gold über seien?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

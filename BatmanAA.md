@@ -113,3 +113,27 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
+
+##### #9
+
+* Titel: `Batman Arkham Asylum - #9 - das Kellergeschoss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die schiere Größe der Arkhamer Irrenanstalt geht weiter. Anscheinend gibt es auch einen Keller. Einen großen Keller, ein Keller mit einer Leichenhalle. Ich frage mich jetzt ernsthaft warum ein Anwesen eine Leichenhalle hat. Oder die Irrenanstalt die es später geworden ist. So oder so müsste man doch erwarten das nicht so viele Leute hier sterben. Andererseits gibt es es draußen auch einem Friedhof. Beim allem was wir wissen könnte es durchaus sein das die gesamte Anlage eine kleine Stadt ist und kaum Verbindung zur Außenwelt braucht. Das erinnert mich jetzt übrigens ein wenig an Shutter Island. Etwas unheimlich, und vor allen Dingen ein Ort ohne großartige Überwachung. Ein Ort ohne richtige Kontrolle. Weil die Außenwelt nur selten zu Besuch kommt und wenn doch dann kann man sie leicht kontrollieren. Wie dem aber auch sei, eventuell ist es alles noch viel morbider, was wenn man die Leichenhalle braucht weil die fragwürdigen Methoden dafür sorgen das andauernd irgendwelche Leute sterben die man sich auch noch näher angucken muss. So oder so, meine Zweifel an der ethischen und moralischen Integrität von Arkham haben sich schon lange gelegt, ersetzt durch Gewissheit das Moral und Ethik nur Wörter im Wörterbuch aber nicht gelebte Praxis sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

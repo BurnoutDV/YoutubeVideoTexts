@@ -2517,12 +2517,17 @@
   Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1421
 
-* Titel: ``
+* Titel: `Let's Play ESO #1421 - Lyranths Spur [Blackwood Prolog]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 2 des Blackwood Prologs - Sitzung 1
+  
+  In diesen DLCs kommt es immer wieder vor das wir irgendwelche Charaktere aus vorherigen Geschichten und Zusatzinhalten treffen. In der Regel ist das aber alles für mich solange her das ich mich nicht daran erinnern kann bei wem es sich hier eigentlich handelt. Heute treffen wir zum Beispiel Evelin Scharfpfeil, angeblich traf ich sie in Orsinium, ich meine da war irgendeine Geschichte mit einem Ork in Not der Freunde hatte. Aber ich könnte mich auch falsch erinnern. Wie dem aber auch sei, sie erinnert sich anscheinend noch an uns so das wir gar nicht viel erklären müssen. Es gibt also eine Art Vertrauensverhältnis. Das ist übrigens ein beliebter Trick um ältere Mitbürger zu täuschen, man verlässt sich auf das schlechte Gedächtnis des Gegenüber und fügt sich einfach in die Lebensgeschichte des Opfers ein. Entweder die (meist) alte Person ist sehr paranoid und vertraut grundsätzlich Niemanden oder aber ist offen für Betrügereien und Tricks, schließlich würde man ja einer vertrauten Person nichts abschlagen, und zugeben das das eigene Gedächtnis nachlässt ist auch irgendwie schwierig. Keine schöne Situation. Nebenbei verfolgen wir noch die Spur von Lyranth die scheinbar ein weiteres Lager des alten Langhauskaisers Leovic gefunden hat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```

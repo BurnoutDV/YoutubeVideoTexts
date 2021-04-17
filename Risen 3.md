@@ -382,14 +382,18 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
-##### #Nummer
+##### #28
 
-* Titel: ``
+* Titel: `Risen 3 - #28 - die Taverne [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Heute betreten wir die Taverne. Eigentlich sogar nur den Vorhof und ich nehme einmal an das es sich hier in der Vergangenheit nicht wirklich um eine Taverne gehandelt sondern um eine Art Lager bzw. Freizeitvertreib-Ort. Würde ich zumindest einmal annehmen. Die Zisterne in der Mitte und die allgemeine Anordnung der restlichen Dinge lassen das irgendwie vermuten. In der Taverne treffen wir übrigens einen weiteren Dämonenjäger (eigentlich sogar zwei) der ein Problem mit einem verfluchten Amulett hat das ihn nicht richtig schlafen lässt. Das Amulett hat natürlich seine Liebschaft die übrigens ein weiterer excellenter Punkt in Sachen Frauenbild von Piranha Bytes ist. Ich glaube aber das ich hier ein wenig viel reininterpretiere. Wie dem auch sei, diese Instanz einer Tavernennutte ist ein ziemliches Miststück und es gibt anscheinend keinen Weg ihr das Amulett abzunehmen ohne ihr volles Pfund aufs Maul zu hauen. Die gute Nachricht ist aber, die KI von Risen 3 ist nicht so sehr stark, wir kommen also damit durch den gewalttätigen Weg zu gehen und danach so zu tuen als wäre nichts gewesen. Schön oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
 ##### #Nummer

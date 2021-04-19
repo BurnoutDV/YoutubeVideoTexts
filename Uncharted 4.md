@@ -340,6 +340,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #25
+
+* Titel: `Uncharted 4 - #25 - Verfolgungsjagt Nr. 4 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wenn sich Elemente wiederholen muss ich an das Bioshock Motto denken: Konstanten und Variable. Es gibt immer einen Mann und einen Leuchtturm. Immer eine Stadt. So ähnlich ist das bei Nathan Drake. Es gibt immer einen Schatzsucher, einen Schatz, einen Ort an dem das Ding liegt der legendär ist und natürlich einen Begleiter. Eine weitere Konstante ist das Vorkommen einer Verfolgungsjagd. In irgendeiner Form gibt es immer wieder eine. Vielleicht sehr am Anfang, vielleicht erst später aber es wird sie geben. Immerhin können sich die Uncharted Spiele damit brüsten das diese Jagden mit jedem Mal ein klein wenig epischer, wenn auch unglaubwürdiger werden. Diese hier ist übrigens von Munitionsknappheit geplagt. Die gute Nachricht ist aber auch das die Fronten in dieser Wiederholung nicht so ganz klar sind. Wir werden verfolgt aber irgendwie verfolgen wir auch die bösen Buben. Es ist alles nicht so ganz klar wer hier wem hinter her jagt. Das gibt der ganzen Geschichte zumindest etwas Dynamik. Am Ende ist auf jeden Fall alles ziemlich turbulent und ein normaler Mensch wäre mindestens hundert Mal gestorben, aber Nathan Drake steht das alles locker durch.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

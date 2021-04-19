@@ -2531,3 +2531,28 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
+
+##### #1422
+
+* Titel: `Let's Play ESO #1422 - Leovics Siegelring [Blackwood Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 3 des Blackwood Prologs - Sitzung 1
+  
+  Die Elder Scrolls Welt wird eigentlich von ziemlich vielen Abenteurern bevölkert. Daher bin ich etwas verwundert das irgendwelche geheimen Lager einer hochkarätigen Figur der Geschichte nicht schon wenige Jahre nach dessen Tot gefunden wurden. Andererseits ist die Zeit von König Leovic auch noch gar nicht so weit in der Vergangenheit. Vielleicht sind wir genau dieser Held der Dungeons der halt dafür sorgt das die Geheimnisse nicht weiter geheim bleiben. Letztendlich finden wir auch endlich die ersten Spuren der Konkurrenz. Anscheinend irgendeine Art von Kult der böse Dinge vorhat. Ich kann auch genau an der Stelle schon einmal enttäuschen, letztendlich werden wir nie das Ende dieser Geschichte sehen weil ich die entsprechenden PvE Schlachten niemals schlagen werde. Immerhin treffen wir heute einen Gelehrten namens Beragon, jemand der seiner Zeit für den verschiedenen Kaiser direkt gearbeitet hat. Praktisch wenn man etwas entschlüsseln muss.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

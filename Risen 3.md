@@ -396,6 +396,21 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #29
+
+* Titel: `Risen 3 - #29 - Trinkleistung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja natürlich, wir sind in einer Taverne und das Erste was wir selbstverständlich tun ist zu zeigen wie unfassbar männlich wir sind in dem wir größere Mengen Alkohol in einem Zug konsumieren. Das recht interessant aus verschiedenen Winkeln. (Und ja, mir ist bewusst das "das recht interessant" technisch gesehen kein gutes Deutsch ist ^^). Zum Einen weil ich persönlich eher damit abgeschlossen habe irgendjemanden mit erhöhten Zug beeindrucken zu wollen, ich hab einfach nicht was es dafür braucht und am Ende ist mir nur schlecht und der restliche Tag und meistens auch der nächste Tag macht mir dann keinen Spaß. Dabei will ich doch Spaß haben. Zweitens, mir kam da eine Idee beim nächtlichen Meditieren am Wasserfall. In der Vergangenheit habe ich das Frauenbild von Piranha Bytes bereits kritisiert. Das ist alles ein wenig komisch für mich. Ich selbst sehe die meisten Alltagsprobleme einfach nicht weil es nichts ist was mir so begegnet. Natürlich höre ich davon aber dennoch gehört es nicht zu meinem ersten Erfahrungskreis. Und doch, und doch habe ich das Gefühl das Risen 3 eine sehr problematische Welt kommuniziert. Historisch gesehen waren weibliche Personen in vergangenen Tage eher wenig relevant, zumindest in den Kreisen in denen wir uns als unbenannter Pirat herumtreiben, einfache Leute. Dennoch, alles ein wenig seltsam. Der Gedanke der mir kam das wir es mit einer Welt von Männern zu tun haben. Das ganze Universum in dem Risen spielt ist halt die Welt der harten Männern. Wo noch ordentlich gesoffen wird und jedes Klischee erfüllt wird. Wenn man das durch die Brille sieht ist auch klar warum es quasi keine Frauen gibt. Oder Bauern. Oder viele andere Leute. Sie sind einfach nicht relevant in der Sicht der harten Männer die jeden Tag Rum saufen und sich in Armdrücken messen. Was wir also im Spiel sehen ist eine selektive Sicht auf die Welt. Das würde alles sehr schön erklären, unser Pirat ist einfach nur mit einem enormen Tunnelblick ausgestattet. Andere Leute sehen vielleicht eine total andere Welt. 
+  Wenn DU das hier viele Jahre später liest, zum Zeitpunkt zu dem ich das hier schreibe war grade Pandemie, da hatte man viel Zeit Dinge überzuinterpretieren und nachzudenken. Das hier kam dabei heraus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

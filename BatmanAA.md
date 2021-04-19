@@ -128,6 +128,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #10
+
+* Titel: `Batman Arkham Asylum - #10 - Gordons Rettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser bester Freund Gordon ist ein relativ hochleveliger Polizist und sollte damit eigentlich in der Lage sein sich selber zu retten. Aber anscheinend fehlt ihm einfach die teure Ausbildung die ein Überlebenskünstler wie Batman genossen hat. Daher müssen wir den Mann auch befreien anstatt das wir unsere Feinde verfolgen. Das Alles kostet Zeit die wir eigentlich gar nicht haben, Zeit die wir nicht verlieren würden wenn irgendjemand außer Batman überhaupt in der Lage wäre den Joker oder auch nur einen seiner Gehilfen aufzuhalten. Es ist wirklich beeindruckend wenn man so darüber nachdenkt, ohne die Fledermaus würde Gotham innerhalb von wenigen Wochen wahrscheinlich in Schutt und Asche liegen. Würde er nicht wieder und wieder den Tag retten, hätten die Kräfte des Bösen kein Gegengewicht und würden einfach alles überrennen. Es ist aber wahrscheinlich so das Batman selbst irgendwie dafür sorgt das es überhaupt so eine große Menge an Superverbrechern gibt. Das und der völlige Mangel an sozialen Maßnahmen in der Politik der Stadt würde ich einmal behaupten. Wenn der Joaquim Phoenix Joker Film partiell als Kanon gesehen werden kann würde ich auch behaupten das bereits eine Verwaltungsreform der Stadt enorm helfen würde. So wie die Dinge aber stehen müssen wir unseren einzigen Freund mit Schnauzbart retten und das am besten schnell. Natürlich schaffen wir das, wäre ja auch doof wenn der gute Commissioner sterben würde oder? Das fänden selbst unsere Feinde schlecht, weil dann gäbe es ja eine Gegenspieler weniger. Batman hat ja auch nicht immer Zeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

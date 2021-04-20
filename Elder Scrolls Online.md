@@ -2547,6 +2547,31 @@
   Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1423
+
+* Titel: `Let's Play ESO #1423 - eine ständige Bürde [Blackwood Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 4 des Blackwood Prologs - Sitzung 1
+  
+  Verfluchte Gegenstände haben in der Regel irgendwelche Eigenschaften die es unangenehm machen das Ding mit sich rum zu tragen. Meistens sieht man mächtige Artefakte aus der Perspektive von Leuten die richtig viel Ahnung von der Materie haben und damit umgehen können. Für die einfachen Leute in einer beliebigen Welt ist es aber mehr so wie radioktives Material aus einem Krankenhaus zu finden, am besten auch noch wenn es schön aussieht oder wertvoll ist. Der Klassiker wäre radioaktives Gold. Die Leute haltet das Zeug irgendwo in ihrer Nähe und werden dann langsam krank. Mit Magie kann man das Gesamtkonzept sogar noch ein wenig ausweiten. Das Objekt kann dann noch ganz andere Auswirkungen außer Übelkeit, Krankheit und Tod auslösen. Schlafmangel zum Beispiel, oder Alpträume. Oder einfach nur lebhafte Träume. Oder das völlige Aufweichen des Geistes so das das Opfer Wesen des Chaos in seinen Kopf hinein lässt. Viele witzige Dinge sind da möglich. Das daedrische Buch das Evelin bei sich trägt scheint aber nicht in dem Sinne verflucht zu sein, es ist einfach nur verdammt mächtig. Das läuft aber für den unbedarften Abenteurer eigentlich auf das Gleiche hinaus.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

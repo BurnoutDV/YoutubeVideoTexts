@@ -142,6 +142,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #11
+
+* Titel: `Batman Arkham Asylum - #11 - Banes Schwimmübungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute besiegen wir Bane. Prinzipiell besiegen wir letztendlich alles. Klar es kommt gelegentlich vor das wir in irgendwelche Fallen gelockt werden oder andere Probleme haben und dann nicht so recht vorran kommen und noch einmal neu anrennen müssen, aber letztendlich wird Batman gewinnen. Nachdem wir bereits die tolle Lehre für Kinder erhalten haben das man mit Reichtum jede Art von Gewalt einfach kaufen kann und die Einführung sozialer Maßnahmen definitiv nicht möglich ist weil Vigilantismus wesentlich besser ist...lernen wir heute das Batman immer gewinnt. Übrigens habe ich beim Nachschlagen der richtigen Schreibweise von "Vigilantismus" erfahren das es als "Systemstabilisierende Selbstjustiz" definiert wird. Das ist höchstinteressant. Ich würde allerdings argumentieren das es nur eine temporär stabilisierende Maßnahme ist, das Grundproblem löst sich ja nicht auf. Im Falle von Gotham ist das dann wohl ein inexistentes Gesundheitssystem, Versäumnisse in der Behandlung von psychologischen Problemen und wahrscheinlich ein enormes Ungleichgewicht in der Verteilung von Gütern. Aber hey, alles gut weil am Ende gewinnt ja der Gute. Also Batman in diesem Falle. Etwas eindimensional aber selbst mir fällt es schwer dagegen jetzt irgendetwas zu sagen, von den Spannungsbogen Argument einmal abgesehen, aber das wäre doch sehr bemüht. Also yeah, Bane geht Baden, praktischerweise übrigens außer Sicht, wenn er elendig ertrinkt kriegen wir das gar nicht mit, von Christian Bale geht man das ja bereits. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #12
+
+* Titel: `Batman Arkham Asylum - #12 - Dr. Youngs Geheimnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In den vergangenen Beschreibungen haben wir bereits etabliert das Batman bestenfalls einen Bärendienst und alles was er letztendlich tut ziemlich sinnlos ist weil es nichts tut außer den Status Quo beizubehalten weil alles was er parallel tut offensichtlich nicht ausreicht. Arkham selbst ist eine verdorbene Stadt die in den Grundfesten ihrer Institutionen verdorben ist. Zu der Überraschung von absolut niemanden finden wir dann heute heraus das die Star-Wissenschaftlerin der Anstalt, Dr. Young, ein kleines Geschäft nebenher betreibt. Ob aus Gier oder einfach nur weil der Joker nach ihren Interessen investiert wissen wir nicht. So oder so hat sie dann wohl auf halben Meter ein Gewissen entwickelt, oder besser gesagt das was in Arkham als Gewissen durchgeht. Letztendlich hätte sie schon lange das Gesehene an irgendeine Bundesbehörde oder wer auch immer zuständig ist berichten sollen. Es wäre noch nicht zu spät Arkham aus dem Orbit zu nuken. Die Bathöhle unter dem Asylum würde aber wahrscheinlich überleben, all das Geld das nicht in soziale Maßnahmen geflossen ist muss ja irgendwo hin und es ist definitiv nicht in Sicherheitsabsperrungen oder unnötigen Leitern geflossen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

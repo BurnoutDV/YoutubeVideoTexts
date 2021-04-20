@@ -354,6 +354,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #26
+
+* Titel: `Uncharted 4 - #26 - Zwischenstopp [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode hat quasi alles, Emotionen, Bruderschaft (tatsächlich mal im wortwörtlichen Sinne) und das Gefühl einer neuen Reise. Heute leihen wir uns ein Boot aus und fahren in die Südsee. Zumindest sieht die Landschaft so aus. Ich wäre übrigens nicht in der Lage eine tropische Insel bei Madagaskar von einer tropischen Insel in der Karibik zu unterscheiden. Ich nehme aber sehr an das es dort einen Unterschied gibt, ziemlich sicher sogar. Ich sehe ihn aber, den Unterschied den ich sehe ist zwischen glücklicher Elena und nicht ganz so glücklicher Elena. Heute sehen wir definitiv den zweiten Teil. Die Gesamtaffäre wird übrigens recht interessant wenn man bedenkt das sie sich scheinbar die bisherigen Forschungsergebnisse bereits intensiv angeschaut hat. Anscheinend verschweigt mir Uncharted übrigens auch viele Stunden der anstrengenden Recherchearbeit. Anders kann ich mir nicht erklären wo die Massen an Aufzeichnungen herkommen die Elena anscheinend entdeckt hat. Oder sie hat unsere Schritte nachvollzogen. Beides ist nicht ganz unmöglich. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #27
+
+* Titel: `Uncharted 4 - #27 - Inselturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Früher als ich noch Minecraft gespielt habe, also in einer Welt in der auch andere Menschen umherliefen, da habe ich gerne irgendwie im Nirgendwo Türme gebaut. Relativ simple Bauwerke die einfach irgendwo an der Ecke von Nirgendwo stehen und schon aus einiger Entfernung sichtbar sind. Das mochte ich immer sehr, wahrscheinlich einer der Gründe warum ich Valheim sehr genieße. Einfach irgendwelche Hinterlassenschaften von früheren Völkern bzw. Wesen zu finden ist irgendwie seltsam interessant. In der Realität ist alles irgendwie ein wenig langweiliger bzw. die Dichte an zu entdeckenden Objekten doch wesentlich geringer. Aber immerhin in Spielen können wir auch Dinge entdecken. Heute beispielsweise weitere Türme von Avery. Es ist für mich ein wenig unverständlich das in den letzten 300 Jahren niemand irgendetwas gesehen hat. Andererseits scheinen die Strände und Inseln die wir heute betreten ziemlich weit ab von alles zu sein. Die Welt ist zwar irgendwie klein aber andererseits auch ziemlich groß. Da kann einen schon Mal was entgehen. Zum Beispiel Hinweise auf das Piratenparadies.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

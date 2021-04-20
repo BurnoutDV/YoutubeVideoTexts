@@ -721,12 +721,12 @@
 
 ##### #56
 
-* Titel: `Rise of the Tomb Raider - #56 - Exorxismuskammer [Let's Play; ger; Blind]`
+* Titel: `Rise of the Tomb Raider - #56 - Exorzismuskammer [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Den Teufel aus jemanden heraus zu treiben ist nicht ganz so einfach, insbesondere wenn man sich ziemlich sicher sein kann das so etwas wie Besessenheit eher nichts reales ist sondern nur Symptome eines ganz anderen Problems darstellt. Das ist problematisch, die Nichtexistenz des großen Widersachers ist keine Option und die naheliegendste Erklärung für das seltsame Verhalten einiger Menschen. Das Verändern dieser Interpretation ist aber ohne größeren Aufwand quasi nicht möglich. Feuer hat die Schönheit das es das Problem für eine überwiegende Mehrheit der Leute löst, quasi sogar für alle Leute, außer der betroffenen Person selbst. Die ist aber eine Minderheit, in sofern ist die Reinigung mit Feuer quasi eine Basisdemokratische Lösung. Das ist echter Fortschritt.
+  Den Teufel aus jemanden heraus zu treiben ist nicht ganz so einfach, insbesondere wenn man sich ziemlich sicher sein kann das so etwas wie Besessenheit eher nichts reales ist sondern nur Symptome eines ganz anderen Problems darstellt. Das ist problematisch, die Nichtexistenz des großen Widersachers ist keine Option und die naheliegendste Erklärung für das seltsame Verhalten einiger Menschen. Das Verändern dieser Interpretation ist aber ohne größeren Aufwand quasi nicht möglich. Feuer hat die Schönheit das es das Problem für eine überwiegende Mehrheit der Leute löst, quasi sogar für alle Leute, außer der betroffenen Person selbst. Die ist aber eine Minderheit, in sofern ist die Reinigung mit Feuer quasi eine basisdemokratische Lösung. Das ist echter Fortschritt.
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr.  
   Rise of the Tomb Raider auf dem Montag Slot.

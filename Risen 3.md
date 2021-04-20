@@ -411,6 +411,34 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #30
+
+* Titel: `Risen 3 - #30 - Nachtpatrouille [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute gehen wir einmal Nachts raus. Das mache ich eigentlich ziemlich ungern, nicht nur weil es Nachts irgendwelche bösen Viecher gibt die zu besiegen mir doch ein wenig schwer fallen könnte sondern auch weil es da echt dunkeln ist. Man sieht dann nichts, und wenn man nichts sieht könnte es sehr schwer fallen richtig wegzulaufen. Weglaufen setzt nämlich vorraus das man weiß wohin und viel wichtiger sogar noch, wo das ist vor dem man davon läuft. Es gibt da große Gefahren. Weiß man nur grob wo die Gefahr ist kann es leicht passieren das man irgendwie im Kreis läuft und dann plötzlich genau vor den Füßen eines großen, schleimigen mit Tentakeln bewehrten Schrecken steht. Das möchte ich schon gerne vermeiden. Immerhin sind wir heute nicht alleine unterwegs, so richtig klar warum ich den Dämonenjäger begleite ist mir übrigens nicht, letztendlich kann er auch alles alleine erledigen und ich muss zugeben das ich seine Fähigkeiten wesentlich mehr ausnutze als er die Meinen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #31
+
+* Titel: `Risen 3 - #31 - Schrecken des Nordens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gestern waren wir noch auf einer kleinen Patrouille und haben dabei irgendwelche kleineren Dämonen gefunden. Heute traue ich mich ein wenig weiter in den Norden und treffen den Schrecken des Nordens. Mir ist nicht ganz klar um was für ein Wesen es sich dabei eigentlich handelt aber soweit ich das sehen kann ist ein mittlerer Dämon. Kein kleines Wesen wie die Schergen die wir zu Hauf links und Rechts umhauen aber auch kein gewaltig mächtiges Wesen das das Leben aller Sterblichen im Umkreis schnell beenden kann. Letztendlich war damit aber auch nicht zu rechnen. Wenn ein großer Dämonenlord auf der Insel leben würde würde es keine Dämonenjäger geben. Die Anwesenheit des Einen schließt die des anderen aus. Dennoch, das Vieh sieht doch sehr den Gegnern aus meinen Träumen ähnlich, ich frage mich ob die Viecher nur auf dieser Seite so schwach sind und im Schattenreich wesentlich mächtiger. Sowas kommt vor, das zwischen Realität und Dämonenreich eine Art Schleier liegt der nicht vollständig durchtreten wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

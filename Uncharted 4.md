@@ -382,6 +382,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #28
+
+* Titel: `Uncharted 4 - #28 - das Architekturbüro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erwarten immer noch irgendwo die legendäre Stadt der Piraten, quasi deren Paradies, Libertalia zu finden. Der Ort müsste relativ groß sein und eine ebenso große Menge an Menschen Behausung geben. Ein solcher Ort ist nicht einfach und ohne Probleme erbaut. Dafür braucht es intensive Planung und wahrscheinlich einige gute Experten die das alles auch durchführen können. Mir ist übrigens ein absolutes Rätsel wie das irgendwie auch nur mit einem Ansatz von Geheimhaltung passiert sein sollte. Baumeister gibt es nicht an jeder Ecke, Arbeiter fahren nicht einfach so um die halbe Welt und die notwendigen Fähigkeiten die Bauwerke deren Pläne wir heute sehen zu erbauen findet man auch nicht überall. Das Architekturbüro das wir heute auffinden scheint aber eine wahrlich gewaltige Anlage anzukündigen, ich bin sehr gespannt auf das was wir dann finden werden, aber ich gehe davon aus das die Anlage wahrlich gewaltig sein wird. Und damit unglaubwürdiger den je, alles Gold der Welt kann dir kein völliges Schweigen erkaufen, selbst wenn alle Leute da bleiben würden. Das Fehlen so vieler Experten fällt auf. Definitiv.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #29
+
+* Titel: `Uncharted 4 - #29 - Fernglas [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sehen den Horizont, oder unser nächstes Ziel. Ich finde es übrigens sehr interessant das wir uns überhaupt die Mühe gemacht haben umherzugurken und die richtige Insel nicht gleich sofort gefunden haben. Generell wäre das auch doch mal ganz interessant wenn wir all die kleinen Hinweise komplett ignorieren könnten weil schon völlig klar ist wo die große Stadt ist. Libertalia müsste laut der Aufzeichnungen die wir gefunden haben einige viele Bewohner gehabt haben, es kann also nicht sein das es wirklich keine Anzeichen für ihre Anwesenheit in der Nähe der Insel gibt die wir dann heute finden. Ganz interessant ist auch die mechanische Konstruktion die scheinbar über größte Entfernung Objekte bewegt, hier würde ich gerne einmal die Mechaniken sehen die all das durchs Wasser und generell und überhaupt ermöglichen. Immerhin finden wir dann die Insel die gesucht ist, das sie nur höchstens 10 Kilometer von unserem aktuell Standort entfernt sein kann sei mal dahingestellt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #30
+
+* Titel: `Uncharted 4 - #30 - Schiffbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wussten bereits das passieren wird was passiert sein wird. Wir fahren auf Land und dann ist auf einmal Schiffbruch. Das passiert viel zu oft. Aber es war ja schon am Anfang klar das es stürmisch ist, wir eine kleine Nussschale fahren und alle Zeichen eher so aussehen als würde es nicht so gut laufen. Letztendlich finden wir uns dann heute also auf Land wieder, nicht ertrunken aber doch am Ende ziemlich alleine. Im Großen und Ganzen ist also wieder alles wie es immer im Leben von Nathan Drake war und wahrscheinlich auch sein wird wenn die Dinge so weiter gehen. Aber der Überlebensinstinkt von Nathaniel Drache lässt so schnell nicht nach und klettert direkt weiter. Ich frage mich übrigens echt ob der Mann eigentlich gelegentlich etwas isst oder ob er irgendwann wenn ich nicht hingucke sich ein paar Wanderkekse in den Rachen schiebt um fit zu bleiben. Die Muskelmassen braucht ne Menge Energie, die muss irgendwoher kommen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

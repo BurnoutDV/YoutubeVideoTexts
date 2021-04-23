@@ -439,6 +439,48 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #32
+
+* Titel: `Risen 3 - #32 - alter Steinkreis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich müsste es hier noch irgendwo eine Zivilistin geben die irgendwie verschütt gegangen ist aber ich glaube ich habe sie leider verpasst. Fakt ist das wir heute einen Ritualplatz finden den ich aber einfach mal als unschuldigen Steinkreis bezeichne weil hier bestimmt nie irgendjemand irgendwelche Menschenopfer vollzogen hat. Es handelt sich schließlich um die Insel der Dämonenjäger und die sind natürlich dafür bekannt die "Guten" zu sein, es steht also außer Frage das hier nur nach höchsten moralischen Prinzipien gehandelt wird. Ansonsten bietet uns die alte Stelle leider überhaupt nichts, ein paar Truhen mit keinen echten Schätze darin, man kann also nicht einmal von Reichtümern der Vorväter  reden. Alles in Allem also eine eher unrentable Geschichte. Immerhin haben wir wieder irgendeinen Dämonenjäger gefunden der bestimmt nicht die lokale Bauernfamilie für mehr Macht geopfert hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #33
+
+* Titel: `Risen 3 - #33 - Fauna sehen & Töten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir brauchen Erfahrungspunkte, ich weiß zwar noch nicht so recht wofür eigentlich aber ich bin mir ziemlich sicher das ich sie für irgendetwas brauche. Also töten wir alles was wir finden damit wir eines Tages wieder ruhmreiche Pirat sein können der wir einst waren. Oder Magier. Oder Dämonenjäger. Was genau wir werden ist eigentlich überhaupt nicht klar. Sicher ist nur das unser aktuelles Machtniveau absolut nicht ausreicht um irgendwelche Dinge zu tun. Abgesehen vom massenhaften Auslöschen von jeder Art von Tier natürlich. Immerhin beruhigend das wir schon stark genug sind um nicht im dunklen Wald plötzlich verloren zu gehen. Davon einmal abgesehen fürchte ich aber das uns niemand damit beauftragt hat irgendwelche Tier zu jagen, daher kriegen wir auch keine Story davon ohne Ende den Wald mit Blut zu tränken. Immerhin gibt es keine Dryaden oder Ähnliches die sich daran stören würden das wir uns durch den Wald morden. Glück auf!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #34
+
+* Titel: `Risen 3 - #34 - Jagd mit Bronach [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich noch behauptet das uns niemand dafür bezahlt irgendwelche Tiere zu töten und es leider auch absolut keine Geschichte dazu gibt. Nun, ich hatte Unrecht. In der Wirklichkeit sieht es so aus das es sogar einige Jäger gibt die sich sehr darum bemühen das Geziefer auf Calador wesentlich zu reduzieren. Anscheinend scheinen sie aber ihren Job nicht besonders angestrengt nach zu kommen. Ich habe definitiv in drei Tagen mehr erreicht als die Jäger in vielen Jahren. So kommt es mir zumindest vor. Immerhin hält uns aber auch nichts davon ab einem Jäger in Not bei der Jagd zu helfen und dann noch ein wenig zusätzliche Erfahrungspunkte abzugreifen. Ich frage mich ab wann es einfach zu langweilig wird weitere Viecher zu jagen und wir uns einfach hinlegen und gar nichts mehr tun bis die Welt von irgendeinen Helden gerettet wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

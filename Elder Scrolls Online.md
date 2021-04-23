@@ -2562,22 +2562,32 @@
   Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1424
 
-* Titel: ``
+* Titel: `Let's Play ESO #1424 - ein totes Ende [Blackwood Prolog]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 5 des Blackwood Prologs - Sitzung 1
+  
+  Heute erlaube ich mir einen kleinen linguistischen Witz. Ein sogenanntes totes Ende erreicht man im Englischen wenn es nicht weitergeht, das kann ein verstopftes Rohr, eine Sackgasse oder Ähnliches sein. Die Definition ist klar, ein "dead end" führt nicht weiter. Interessant ist hier die doppelte Bedeutung, offensichtlich. Heute erreichen wir eine Sackgasse weil jemand tot ist, das ist außerordentlich bedauerlich war aber zu erwarten, ansonsten würde die ganze Geschichte hier auch zu viel Fahrt aufnehmen und dann wäre der Prolog am Ende sehr sehr lang. Ein ähnliches Wortspiel hatte übrigens schon das Spiel "Dead Space", eigentlich meint man damit toten Raum, also Platz der nicht weiter genutzt werden kann weil er konstruktiv irgendwie doof liegt. Sowas halt. Im Spiel ist man aber im Weltraum und es gibt da auch so Zombies und generell Tote. Ich mag Wortspiele, leider ergibt das im Deutschen nicht alles soviel Sinn. Wenn du dich also  gefragt hast was das hier für ein beknackter Titel ist, das ist die Erklärung. Toll oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1425
 
-* Titel: ``
+* Titel: `Let's Play ESO #1425 - Unheilsbringer Eshil [Blackwood Prolog]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 6 des Blackwood Prologs - Sitzung 1
+  
+  Und schon haben wir das Ende gefunden. Das sollte keine Überraschung sein, in der Regel sind meine Youtube Videos immer um die 20 Minuten lang, das halte ich persönlich für eine gute Zeit. Wenn man etwas isst reicht das knapp aus um fertig zu werden und vielleicht noch ein wenig weiter zu gucken. Ich mag auch Serien am meisten die eher kurze Episode hat, zumindest wenn man nebenher guckt und ich gehe davon aus das man Lets Plays vor allen Dingen nebenher guckt. Insbesondere so lange wie die Meinen. Wie dem auch sei, die Episodenlänge von 28 Minuten ist daher ein Ausreißer und macht jeden sofort klar: dies ist keine normale Episode. Alles hört heute mit einem großen Cliffhänger auf, es gibt ein paar Andeutungen um was es eigentlich gehen soll aber wenig Konkretes erfährt man, und so endet unser Abenteuer in Elder Scrolls Online vorerst erneut. Man findet mich weiter in Markarth wie ich jeden Tag einen NPC meuchle.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```

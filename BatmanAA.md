@@ -170,6 +170,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #13
+
+* Titel: `Batman Arkham Asylum - #13 - Scharfschützen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einem Amerika das seine Waffen liebt und in der die Waffenlobby seit Jahrzehnten eine mächtige Kraft in der Politik ist überrascht mich der waffenlose Batman ein wenig. Andererseits ist es immer noch eine Superheld und seine Kraft ist definitiv das Geld, da kann man nicht alle Probleme mit Waffen lösen. Ich würde aber dennoch behaupten das Bruce Wayne Gotham mit einer kleinen Söldnerarmee wesentlich effizienter aufräumen könnte. Ein paar skrupellose hochausgebildete Ex-Militärs die sich einfach durch die Mafie durchschießen, eventuell noch etwas Support bei den Bullen einkaufen und schon sollte das klappen. Besonders teuer kann es auch nicht sein Politiker dafür zu schmieren, der Straßenpreis ist immerhin niedrig genug das sowieso alle korrupt sind. Der Joker sieht das ähnlich und hat seine Truppen mit Scharfschützen ausgestattet. Die Wären allerdings wesentlich effizienter wenn Batman nicht immer in den Schatten rumlungern würde. Beim nächsten Mal empfehle ich die Investition in ordentliche Scheinwerfer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #14
+
+* Titel: `Batman Arkham Asylum - #14 - Arkham-Villa [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Früher einmal gab es auf der Arkham Insel das Anwesen der Familie Arkham, anscheinend eine uralte Familie mit viel zu viel Geld die schon damals nicht wusste wie man soziale Probleme am besten lösen konnte und auch nicht die tolle Idee hatte sich Experten ins Haus zu holen. Wie dem aber auch sei, die Zeiten des Reichtums sind vorbei, heutzutage und anscheinend auch schon ein wenig länger wird die Villa als Verwaltungstrakt der Irrenanstalt genutzt. Hier haben die wichtigen Wissenschaftler ihre Büros, hier werden die Erkenntnisse der definitiv unethischen Experimente notiert und Leichen unauffällig entsorgt. Außerdem scheint man hier eine Menge Sicherheit verbaut zu haben. Das ist außerordentlich ärgerlich. Was ich übrigens auch ärgerlich finde ist wie dieser komische Sharp Typ überhaupt auf die Idee kommen kann das Amt des Bürgermeisters überhaupt in Betracht zu ziehen, jemand mit seinem Selbstgeltungsdrang sollte auf keinen Fall in die Nähe eines hohen Amtes gelassen werden. Aber so wie die Dinge in Gotham stehen ist eigentlich schon klar was passieren wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #15
+
+* Titel: `Batman Arkham Asylum - #15 - das Archiv [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das in einem Irrenhaus in dem jede Menge unethische Experimente gemacht werden doch eine Menge Papierkram heraus kommt. Ich hätte jetzt eigentlich vermutet das man die Art von Experimenten eher spärlich dokumentiert oder lieber nur die Ergebnisse niederschreibt und die einzelnen Patientengeschichte doch eher aus lässt. So wie es aber aktuell den Anschein macht finden wir doch ziemlich viele Informationen über alles Mögliche. Nicht das uns irgendetwas davon interessiert. Ich möchte eigentlich nur wissen wo die nächste Tür ist und wie ich dann in Dr. Youngs Büro komme. Diese Antwort findet sich aber leider überhaupt nicht. Das ist außerordentlich bedauerlich und man wird mich auch in kommenden Jahren wohl noch fluchend durch die Gänge laufen sehen während der Joker die Welt erobert. So spielt das Leben. Unfair.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -424,6 +424,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #31
+
+* Titel: `Uncharted 4 - #31 - Libertalia [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir da, die legendäre Stadt, oder besser gesagt was davon noch übrig geblieben ist. Wir finden bei der guten Gelegenheit aber auch eine Menge Unstimmigkeiten. Zum Beispiel sieht es so aus als hätte die Bewohner eines Tages entschieden einfach fort zu gehen. Es wurden keine Leichen hinterlassen. Essen wurde nicht umgeworfen, man kann also nicht von einer besonderen Hast ausgehen. Generell und überhaupt besorgt mich das ziemlich. Wenn die Stadt langsam gestorben wäre, die Bewohner verhungert oder aus Unzufriedenheit weg gezogen hätte ich es verstanden. Aber was sorgt dafür das eine Bevölkerung einfach aufsteht und geht? Ohne erkennbaren Grund. Weiter sind all die Dinge die wir da heute finden in einen beneidenswert guten Zustand. Wir dürfen wohl davon ausgehen das die Errichtung der Stadt einige Jahre in Anspruch genommen hat und dann noch ein wenig bewohnt war. Demnach sollte die Stadt also seit mindestens 250 Jahren leer stehen..und doch, alles ist zwar ein wenig zerfallen aber in einem wesentlich besseren Zustand als ich von einer tropischen Insel erwartet hätte. Interessant. Oder doch etwas Mystisches?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #32
+
+* Titel: `Uncharted 4 - #32 - Untergrundversteck [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben es also geschafft Libertalie zu finden. Die geheime Stadt, Siedlung oder als was auch immer man es bezeichnen will ist zu großen Teilen noch vorhanden. Das besorgt mich natürlich auch ein wenig sehr, Nathan Drake scheint die ganze Geschichte wesentlich entspannter zu sein, er wundert sich vielleicht ein wenig aber davon einmal abgesehen wird das hier auffällig non-chalant hingenommen. Gefunden haben wir bisher irgendwelche Gaststätten bei den noch das Essen auf dem Tisch standen, Kinderzimmer in denen alles so aussieht als würde man das örtliche Kind bald zu Bett bringen. Wenn ich raten müsste würde ich vermuten das irgendetwas in den Abendstunden eines Tages passiert ist. Was genau wissen wir nicht, heute finden wir aber geheime Tunnel und scheinbar das Untergrundversteck einer anderen Fraktion innerhalb der Piraten. Fürs Erste wissen wir allerdings noch nicht was es mit dieser Fraktion auf sich hat, nur das sie wohl einige Zeit nach dem Bau der Siedlung entstanden ist und eine religiöse Unterschwingung hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

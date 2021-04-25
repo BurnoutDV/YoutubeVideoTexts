@@ -212,6 +212,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #16
+
+* Titel: `Batman Arkham Asylum - #16 - Dr. Youngs Büro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ja bereits festgestellt das das ehemalige Herrenhaus heutzutage der Bürotragt der Anstalt ist. Wahrscheinlich fällt auch eine Menge Papierkram an, die Verwaltung von Gotham ist wahrscheinlich komplett überladen und ineffektiv ich kann mir aber vorstellen das sie dennoch ein paar Fragen stellt. Diese Fragen müssen ja irgendwie beantwortet werden und die kreativen Ausreden muss man dann ja irgendwie zu Papier geben damit sie beim nächsten Mal auch konsistent erneut ausgegeben werden können. Uns darf also nicht überraschen das Dr. Youngs Büro quasi direkt neben einer kleineren Leichenhalle liegt. Generell und überhaupt gibt mir der Aufbau des Anwesens Rätsel auf. Wenn ich es nicht besser wüsste würde ich behaupten das wir immer noch unter dem Einfluss des Scarecrow Gases leiden und die groteske Architektur herbeihalluzinieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #17
+
+* Titel: `Batman Arkham Asylum - #17 - die Bibliothek [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich hat ein altes Herrenhaus auch eine Bibliothek, es wäre völlig unmöglich gewesen das man diese im Zuge des Umbaus in eine Irrenanstalt abgezogen hätte. Selbstverständlich sind wohl nicht mehr all die Bücher da die ursprünglich dort waren aber im Großen und Ganzen sind wahrscheinlich seid 100 Jahren die gleichen Bücher hier. Neuerdings gibt es aber wohl ein zusätzliches Stück Einrichtung. Namentlich handelt es sich hierbei um eine Bombe des Jokers. Warum der Irre unbedingt eine Bibliothek in die Luft jagen will ist mir nicht ganz klar, aber dadurch wird er die Formel von Dr. Young auch nicht besser finden. Das Verhalten des Jokers ist aber wahrscheinlich nichts das irgendjemand als logisch oder nachvollziehbar bezeichnen würde oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

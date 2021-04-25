@@ -481,6 +481,34 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #35
+
+* Titel: `Risen 3 - #35 - Winters Labyrinth [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich gehört das Labyrinth gar nicht den Typen namens Winter den wir heute treffen. Viel mehr gehörte es wohl irgendwelchen uralten Dämonenjägern die vor langer Zeit auf der Insel Calador ihre Zentrale hatten. All das ist aber schon lange vorbei und wenn man ehrlich ist handelt es sich auch überhaupt gar nicht um ein Labyrinth, die einzelnen Gänge sind ziemlich übersichtlicher. So wie es aber aussieht hat sich wohl ein Schattenlord auf der Insel niedergelassen und seine Machtzentrale ist genau dieses "Labyrinth". Ein verzweifelter Dämonenjäger ist der Meinung das er hier verzweifelt weil er und seine Männer es anscheinend nicht vollbracht haben eben diesen Herrn der Schatten zu besiegen. Zum Glück ist jetzt unser unbenannter Held und sein treuer Sidekick Bones da, gemeinsam werden wir sicherlich den Tag retten. Außerdem treffen wir einen weiteren Magier der hier scheinbar auf der Suche nach dem Ursprung der Schatten und deren Struktur ist und ebenfalls unsere Hilfe erhofft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #36
+
+* Titel: `Risen 3 - #36 - Schattenlord der Feigheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich sprach davon das es hier einen Schattenlord gibt. Ich habe mich auf Taranis dagegen entschieden die gesamte Insel zu erkunden weil ich an einer Ecke eben einen solchen Schattenlord erwartet hatte und mir ziemlich sicher war das ich einen solchen Kampf unmöglich gewinnen könne. Es stellt sich heraus das es mir doch möglich sein wird. Das liegt aber unter Anderem aber eigentlich hauptsächlich daran das ich unlängst eine Waffe fand die mir enorm dabei hilft Gegner einfach mit einer Hit & Run Taktik auszuschalten. Solange wir also nicht signifikanten Mengen an Gegnern begegnen die mit ihren eigenen Fernkampfattacken kontern können oder über potenten Lückenschließer verfügen sind wir immer einen Schritt vor raus. Kurzum, alles was näher kommen muss um signifikanten Schaden zu verursachen hat absolut keine Chance gegen uns. Daher besiegen wir heute den Schattenlord der Feigheit. ich wüsste übrigens wirklich gerne was es mit dem Titel auf sich hat. Induziert er das Gefühl in seine Opfer, ist es das was den Dämonenjäger erwischt hat oder ist er selber feige was seine Anwesenheit hinter diesen dicken Mauern und hinter den vielen Schergen erklären würde. Später erfahren wir bestimmt mehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

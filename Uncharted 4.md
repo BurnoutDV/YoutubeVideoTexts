@@ -452,6 +452,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #33
+
+* Titel: `Uncharted 4 - #33 - die Schlucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen mittlerweile eine richtige große Menge über Libertalia. Die Stadt hat aufgehört zu existieren. Irgendwann. Was genau die Leute zum Verschwinden gebracht hat wissen wir allerdings immer noch nicht. Was wir allerdings vorfinden ist eine Katastrophe, anscheinend hat sich irgendwann später eine Schlucht gebildet. Ich bin mir allerdings nicht so ganz sicher ob die Schlucht schon vorher da war oder erst später kam. Einige der Gebäude sehen so aus als wären sie mit Absicht über die Schlucht gebaut worden. Auf der anderen Seite scheint es aber so als wäre die zerstörende Katastrophe erst später geschehen. Wenn man sich den Zustand der Einrichtung anschaut sieht es aber irgendwie so aus als wäre all das wesentlich später geschehen. Alles in Allem ist wahrscheinlich nur dann relevant das wir durch einige Untiefen durchklettern müssen, eine minimal lebensgefährliche Angelegenheit.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

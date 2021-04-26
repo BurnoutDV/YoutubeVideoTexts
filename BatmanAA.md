@@ -240,6 +240,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #18
+
+* Titel: `Batman Arkham Asylum - #18 - kleinere Alpträume [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir an der Stelle vor der ich auf vor so vielen Jahren gestanden habe. Wir sind in einem Alptraum. Generell frage ich mich aber wo sich die Fledermaus in der Zwischenzeit aufhält. Offensichtlich rennen wir ja innerhalb der Wirrungen umher und weichen den Schrecken darin aus. Wo genau sich die physische Form von Scarecrow aufhält ist mir übrigens auch ein Rätsel. Interessant ist aber auch wo wir am Ende auftauchen. An einem Ort den wir quasi nicht zu Fuß erreichen können und der scheinbar über keinerlei Zugang verfügt. Die andere gute Nachricht ist aber auch das wir nun endlich Inhalt erreichen den ich überhaupt nicht kenne. Also nicht einmal ein wenig nebulös. Alles ist für mich vollkommen unbekannt und neu. Nicht wirklich ein gewaltiger Unterschied zu Vorher weil ich mich streng genommen an sich nichts erinnern kann was davor kam.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

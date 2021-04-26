@@ -509,6 +509,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #37
+
+* Titel: `Risen 3 - #37 - Der Preis des Lebens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute beschwören wir den dunklen Schattenlord. Oder irgendetwas in der Richtung. Was genau ist mir eigentlich gar nicht klar aber ein Magier weiß es anscheinend besser als wir und wir helfen nur dabei irgendwelche Leute umzuhauen. Und mit Leute meine ich natürliche Schergen und Viecher die wir wellenweise abwehren bis sich der dunkle Lord der anscheinend eine Art großer Höllenhund ist zeigt. Mir ist übrigens nicht so richtig bewusst warum die Quest die dazu gehört "der Preis des Lebens" heißt. Letztendlich stirbt eigentlich niemand von dem wir wissen oder der uns wichtig ist. Oder jemand der in der engeren Definition des Lebens tatsächlich lebendig ist. Wie dem aber auch sei, am Ende sind wir selbstverständlich erfolgreich und wir gehen siegreich und reicher an Erfahrungspunkte aus der ganzen Angelegenheit heraus. Wie sollte es auch anders sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

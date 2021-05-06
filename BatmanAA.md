@@ -254,6 +254,146 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #19
+
+* Titel: `Batman Arkham Asylum - #19 - Blutspuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie verfolgen wir immer irgendwelche Spuren. Das unterscheidet Batman wahrscheinlich von Sherlock Holmes. Anstatt seinen Verstand und die vor liegenden Fakten zu benutzen kombiniert er technische Errungenschaften die nicht dem Volk zu Gute kommen mit seinem Reichtum um auch mit wenigen Daten Dinge zu erreichen die Normalsterblichen nicht zur Verfügung stehen. Wir schaffen uns also zusätzliche Informationen. Heute sind das übrigens Blutspuren die man wahrscheinlich auch so irgendwie hätte verfolgen können. Egal. Ich habe mich zwischenzeitlich übrigens ein wenig belesen. Anscheinend war das mit den sozialen Themen ja das was die Wayne Fondation früher gemacht hat und das klappte nur so mittelmäßig. Anscheinend gibt es wohl auch eine Kabale die dafür sorgt das Gotham weiter in einem Zustand ständiger Kriminalität kommt ohne das die Menschen das von alleine auslösen. Damit steht aber übrigens immer noch meine Theorie das die Fledermaus eine Verschwendung von Geldmitteln ist. Eine Gruppierung ebenso verdeckt operierender Einsatzkräfte mit gleichem Budget und weniger Zurückhaltung bei der Gewalt könnten definitiv mehr bewirken. Daran glaube ich fest. DAs ist aber nicht die Realität die unser Gotham bietet, also machen wir mit der Fledermaus weiter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #20
+
+* Titel: `Batman Arkham Asylum - #20 - Zuchthaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das das Arkham Asylum auf jeden Fall und unter der strengen Definition des Wortes einfach nur ein Gefängnis ist. Die ganze Fassade mit der psychatrischen Behandlung scheint mir doch sehr vorgeschoben zu sein um verteidigen zu können warum Patienten behandelt werden wie sie behandelt werden. Wir sehen winzige Zellen die jeden Anschein von Menschenrechte auflösen. Wir sehen Unterbringen die jeder Beschreibung spotten und das alles wird von einem Schocksystem sanktioniert das definitiv in mindestens 150 Ländern verboten ist. Dann finden wir eine Zelle vor in der eine Frau allein ohne jede Privatsphäre unter Glas einsperrt ist, wie ein wildes Tier im Zoo. Der Ort heißt Zuchthaus und zumindest der Name lässt nicht mehr viel Platz für die Phantasie. Die bloße Existenz dieses Ortes ist eine gigantische Petition dafür Gotham ein für alle mal dem nuklearen Feuer zu übergeben. Oder aus dem Orbit zu bombardieren. Hauptsache man kommt nicht zu nahe heran.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #21
+
+* Titel: `Batman Arkham Asylum - #21 - Schallgerät [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist es endlich soweit, wir laufen in die bedrängliche Lage das die ganzen Barrieren die wir überall in der Irrenanstalt finden doch ein wenig sehr lästig werden und wir dagegen etwas machen müssen. Zum Glück haben wir mittlerweile den Anstaltsleiter gefunden. Der hat leider noch einen Rest Nützlichkeit in sich, also verzichten wir darauf den guten Mann einfach auf der Stelle mit einem Baterang in den Rücken hinzurichten und geben uns stattdessen damit zufrieden ein wenig von seiner DNA zu ziehen um daraus ein handliche Codeknacker Gerät zu erstellen das uns fortan ermöglichen wird all die vielen, viel zu lästigen Türen zu überwinden die bisher unsere Existenz geplagt haben. Das Gerät dazu hatten wir anscheinend die ganze Zeit bei uns nur der genetische Fingerabdruck des Direktors hat uns gefehlt. Mir ist übrigens immer noch nicht ganz klar warum man in solche fancy Türen investiert wenn es offensichtlich in allen anderen Bereichen mangelt. Andererseits sollte ich wohl froh sein das nicht das Geld auch noch in Quincy Sharp Figuren geflossen ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #22
+
+* Titel: `Batman Arkham Asylum - #22 - Harley Quinn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist irgendwie auch beruhigend wenn man einen richtige Feind hat. Batman weiß das all das Chaos das wir aktuell sehen vom Joker ausgeht. Irgendwie hat er die aktuelle Situation erschaffen und kontrolliert sie aktiv. Das bedeutet auch das seine Agenten, in diesem Fall Harley Quinn offensichtlich Angriffspunkte darstellen. Klar hält der Joker keine großen Stücke auf irgendjemanden und man kann wohl davon ausgehen das er Harley nur benutzt. Trotz aller gespielter Gleichgültigkeit gehe ich doch sehr davon aus das seine Pläne irgendwie aber doch auf das aktive Mitarbeiten seiner Leute basiert. Und das kann halt nicht mehr geschehen wenn wir die Irren rausnehmen. Harley Quinn ist übrigens im 1 gegen 1 nicht besonders kampfstark. Es könnte aber auch sein das Batman einfach keine Frauen schlägt oder sich da eher sehr zurückhält und das Spiel den Kampf deswegen sehr kurz hält. Die ehemalige Turnerin hat auf jeden Fall nicht besonders viel physische Stärke die es ihr erlaubt in einem direkten Kampf Chancen zu haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #23
+
+* Titel: `Batman Arkham Asylum - #23 - Isolationszelle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht viel über psychiatrische Behandlung, hege aber den Verdacht das das einsperren in einen dunkeln Raum mit einer 5 oder 7 Punkt Fixierung sich eventuell nicht unbedingt positiv auf die geistige Gesundheit des Patienten auswirken könnte. Generell ist das Entziehen von externen Stimuli wohl eine Folter für sich. Ich könnte mir aber auch vorstellen das es durchaus Patienten gibt die so fertig sind das man sie tatsächlich irgendwie anbinden muss damit sie sich nicht selber etwas tun. Irgendwie kann ich mir aber nicht vorstellen das Arkham nur aus solchen Patienten besteht. Das erscheint statistisch ziemlich unwahrscheinlich. Alternative Theorie ist also das es irgendwas die Insassen zu dem gemacht hat was sie jetzt sind und das wahrscheinlich viele von ihnen vorher sehr gut therapierbare Patienten gewesen sind. Was auch immer die Wahrheit ist, Menschen in 2 qm Meter Räume gefesselt einzusperren scheint mir definitiv nicht die Lösung zu sein. Es sei den man möchte als Gesellschaft die Augen vor den Problemen verschließen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #24
+
+* Titel: `Batman Arkham Asylum - #24 - Zurück Spurensuchen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was ich heute eigentlich verkaufen will ist "Backtracking". Ja natürlich, ich hätte auch "Zurückverfolgung" als Titel nehmen können und das wäre selbstverständlich wesentlich akkurater gewesen als das was wir heute sehen, aber irgendwie haben ich manchmal Spaß an Zangendeutsch. Wie dem aber auch sei und wie es heißen möge, das ist was wir heute tatsächlich tun. Ich laufe noch einmal den Weg zurück weil ich weiß das ich einige Dinge übersehen habe bzw. in der Vergangenheit einfach nicht anschauen konnte weil es mir an Ausrüstung gefehlt hat. Jetzt haben wir endlich die Ausrüstung und damit will ich sagen das magische Türschlossknackgerät. Ja das ist der korrekte Fachbegriff. Damit können wir dann einige Türen öffnen die wir in der Vergangenheit nur doof angucken konnten. Das bedeutet aber auch das uns unsere Reise zurück in die medizinische Einrichtung führt. Immerhin gibt es dort quasi keine Gegner mehr und wir können wahrscheinlich einfach durchlaufen. Wenn es bloß nicht so verwirrend aufgebaut wäre...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #25
+
+* Titel: `Batman Arkham Asylum - #25 - Invasion der Irren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Joker ist kein wahnsinniger. Oder auch doch. Aber seine Pläne haben eine ärgerliche Menge an Logik und Berechnheit hinter sich. So befreite er zum Beispiel die total Irren aus dem Zuchthaus. Wir haben bereits diskutiert das das bloße Vorhandensein eines ganzen Gebäudes voller gefährlicher Irrer eigentlich ein gutes Argument gegen die Existenz von Gotham als Stadt und dem Arkham Asylum als Anstalt ist. Da Batman aber immer noch mit dem nuklearen Feuer zögert müssen wir wohl die Angelegenheit einstweil auf die manuelle Weise lösen. Ich halte mir aber noch vor nicht doch am Ende einfach alles den Flammen zu übergeben. Wenn es so weiter geht gibt es eh kaum Zivilbevölkerung die unter den kollateral Schäden leiden muss. Letztendlich definiert sich Menschlichkeit aber wohl durch das Ehren jedes Lebens, insofern ist bereits ein Zivilist schon ein Opfer zu viel für jemanden wie Batman. Mal davon abgesehen das er seine Feinde ja auch nicht tötet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #26
+
+* Titel: `Batman Arkham Asylum - #26 - botanischer Garten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen waren wir bereits im botanischen Garten bevor der Ort wirklich relevant geworden ist aber jetzt sind wir wirklich da. Es handelt sich gewissermaßen um den einzelnen Lichtfleck in der gesamten Anlage und ich kann nicht so richtig verstehen wie man das hier gegen den Baum fahren kann. An sich handelt es sich einfach nur einen gewaltigen botanischen Garten (wie der Name bereits sagt) der ziemlich groß ist. Wirklich, so altes Geld groß. Vielleicht war es früher auch einfach einen Garten von so einer Größe zu erhalten. Ich lehne mich jetzt einmal aus den Fenster und behauptet das so ein Garten auch therapeutisch wirken kann. Für das Klientel aus Gotham ist ein sanfter Garten vielleicht ein wenig spät aber irgendwie könnte ich es mir auch durchaus vorstellen das genau das die Lösung für einige der weniger durchgeknallten darstellen könnte. All meine Hoffnung ist aber vergeben, die Leiter der Anstalt haben den Garten anscheinend schon vor vielen Jahren dem Zerfall übergeben und lieber Geld in Quincy Sharp Figuren investiert. Money well spend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #27
+
+* Titel: `Batman Arkham Asylum - #27 - neue Mischung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Soweit ich das verstanden habe hat Dr. Young versucht mit dem Venom das sie aus Bane gewonnen hat irgendwie die wahnsinnigen Patienten das Asylums magisch zu heilen. Quasi das bekämpfen von geistigen Krankheiten mit Medikamenten. Das das nicht auf Dauer gut klappen kann wissen wir eigentlich schon, Venom ist aber, so gebe ich zu, immerhin innovativ. Innovativ heißt aber jetzt nicht unbedingt das es sich um eine gute Methode handelt. Der Joker denkt ähnlich und stellt daher eine neue Mischung an die er zur Herstellung seiner Supersoldaten verwenden will. Ich weiß übrigens nicht so recht was genau der Joker zusammenmischt, weil soweit ich das verstanden habe hat er ja fertiges Venom aus den Beständen von Dr. Young geplündert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #28
+
+* Titel: `Batman Arkham Asylum - #28 - doppelter Spaß [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wäre auch viel zu einfach wenn sich Batman nur mit einem Gegner rum ärgern müsste oder wenn der Joker die Freundlichkeit besitzen würde sich uns direkt gegenüber zu stellen. Man muss dem Mann also eine gewisse Menge Vernunft vorwerfen und das obwohl er doch eigentlich als verrückt gilt. Warum tut der Joker eigentlich nie irgendetwas das einfach nur dumm bzw. das Resultat von Wahnsinn wäre. Stattdessen sind alle seine Aktionen vielleicht komplett unvorhersehbar und nicht mit einem gesunden Verstand zu erklären aber mit jeder Tat scheint er immer nur seine Ziele vor ran zu treiben ohne dabei die eigene Position zu gefährden. Wenn man sich anschaut wie oft uns der Trickster bereits entkommen ist ohne sich dabei in relevante Gefahr zu begeben ist das schon ziemlich beeindruckend oder? Immer wieder erstaunt mich der Clown, und auch heute sieht es wieder zu aus als wäre er uns haushoch überlegen und hätte jede Eventualität vorgeplant.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

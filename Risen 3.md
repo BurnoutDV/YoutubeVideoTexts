@@ -516,7 +516,133 @@
 * Beschreibung:
 
   ```markdown
-  Heute beschwören wir den dunklen Schattenlord. Oder irgendetwas in der Richtung. Was genau ist mir eigentlich gar nicht klar aber ein Magier weiß es anscheinend besser als wir und wir helfen nur dabei irgendwelche Leute umzuhauen. Und mit Leute meine ich natürliche Schergen und Viecher die wir wellenweise abwehren bis sich der dunkle Lord der anscheinend eine Art großer Höllenhund ist zeigt. Mir ist übrigens nicht so richtig bewusst warum die Quest die dazu gehört "der Preis des Lebens" heißt. Letztendlich stirbt eigentlich niemand von dem wir wissen oder der uns wichtig ist. Oder jemand der in der engeren Definition des Lebens tatsächlich lebendig ist. Wie dem aber auch sei, am Ende sind wir selbstverständlich erfolgreich und wir gehen siegreich und reicher an Erfahrungspunkte aus der ganzen Angelegenheit heraus. Wie sollte es auch anders sein.
+  Heute beschwören wir den dunklen Schattenlord. Oder irgendetwas in der Richtung. Was genau ist mir eigentlich gar nicht klar aber ein Magier weiß es anscheinend besser als wir und wir helfen nur dabei irgendwelche Leute umzuhauen. Und mit Leute meine ich natürliche Schergen und Viecher die wir wellenweise abwehren bis sich der dunkle Lord der anscheinend eine Art großer Höllenhund mit Namen Razaxs ist, zeigt. Mir ist übrigens nicht so richtig bewusst warum die Quest die dazu gehört "der Preis des Lebens" heißt. Letztendlich stirbt eigentlich niemand von dem wir wissen oder der uns wichtig ist. Oder jemand der in der engeren Definition des Lebens tatsächlich lebendig ist. Wie dem aber auch sei, am Ende sind wir selbstverständlich erfolgreich und wir gehen siegreich und reicher an Erfahrungspunkte aus der ganzen Angelegenheit heraus. Wie sollte es auch anders sein. Schließlich sind wir der Held dieser Geschichte und die Möglichkeit das wir scheitern hat nie bestanden. Oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #38
+
+* Titel: `Risen 3 - #38 - die westliche Küste Caladors [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nun haben wir es bald geschafft. Ich gebe zu das ich einige Stellen der Insel übersehen habe aber mit dem Versteck des Schattenlords der Feigheit und der moralischen Befreiung des dortigen Dämonenjägers habe ich es quasi geschafft die gesamte Insel von den Schrecken die Schatten darstellen zu befreien. Ich bin mir absolut sicher das die Schatten zurückkehren werden. Zwar haben wir einige lokale Vertreter der Dunkelheit besiegt aber da der ursprüngliche Grund immer noch existiert und wir eigentlich nicht einmal so richtig wissen um was es sich eigentlich handelt. Aber immerhin haben wir jede Menge Fleisch gejagt und damit unsere eigenen Vorräte mächtig aufgefüllt. Weiter haben wir auch noch ziemlich  viel Ruhm erworben und stehen damit jetzt eigentlich schon ziemlich gut da und das bevor wir uns irgendeiner Fraktion angeschlossen haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #39
+
+* Titel: `Risen 3 - #39 - Alvito der Schmiedelehrling [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Uns fehlt immer noch eine Person auf unserer endlosen Suche nach den fehlenden Dämonenjägern die sich scheinbar ziemlich sinnlos auf der ganzen Insel verteilt haben. Einer davon ist Alvito, der Lehrling des Schmiedes. Eigentlich handelt es sich auch gar nicht um einen richtigen Dämonenjäger sondern mehr um einen Handwerker. Auch solche Leute sind enorm wichtig wenn man die Kampfkraft der Truppe erhalten will. Der beste Mann kann nichts ausrichten wenn seine Ausrüstung nicht vernünftig gewartet wird. Und das kann der normale Frontsoldat auch nur bis zu einem gewissen Grad tun. Klar, etwas ölen und schärfen ist vielleicht durchaus möglich, aber wenn etwas bricht oder richtig ausgebessert werden muss braucht es einen Fachmann mit ordentlichen Werkzeug. Hier kommt der Schmied ins Spiel. Der kann aber auch nicht alles alleine machen sondern braucht Hilfe. Zum Beispiel bei der Beschaffung von Roheisen, und jetzt sind wir bei Alvito. Etwas ärgerlich das das Schicksal des Burschen schon vorher im Wind geflüstert wurde. Wer so lange nicht zurückkehrt hat in der Regel ein Problem. Ein Entgültiges.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #40
+
+* Titel: `Risen 3 - #40 - Landung auf Kila [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin der Meinung das ich Calador bereits ordentlich durchgespielt habe. Klar, irgendetwas habe ich offensichtlich übersehen habe weil ich noch nicht alle Dämonenjäger zusammengebracht habe. Wie dem aber auch sei, ich entscheide trotzdem das ich mal einen anderen Ort sehen will. Diese ganzen grünen Flammen machen auf Dauer ziemlich depressiv und unser Problem mit der Seele und dem langsamen Fortschritt der Verderbnis löst das ganze Zeug auch nicht. Es sieht ja doch irgendwie so aus als würden die Dämonenjäger eher den physischen Teil der Arbeit betrachte. Die Repräsentanten des Bösen zwar zurückschlagen abe spirituell sehe ich hier einfach keine Fortschitt. Wir müssen uns also an jemand Anderes wenden. Dafür bieten sich die Eingeborenen auf Kila an. Die haben bestimmt eine bessere Verbindung zu den Geistern dieser Welt. Wir setzen also Segel und finden..Piraten. Ein wenig überraschend das.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #41
+
+* Titel: `Risen 3 - #41 - Kilas Piraten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte ja das wir auf Kila ziemlich überraschend Piraten gefunden habe. Die sind übrigens anscheinend selber ziemlich unvorbereitet auf der Gesamtsituation. Es geht aber noch weiter, ich hatte ja nur mit den hier eigentlich anwesenden Urvölkern gerechnet dir mir wahrscheinlich einen eher frostigen aber zumindest nicht feindseligen Empfang bieten würden. So wie es aber aussieht mögen die Kila (so der Name des hier ansässigen Volkes) die gelandeten Piraten nicht. Daran sind diese, insofern ich das jetzt erkennen kann, aber auch selber schuld. Ich nehme aber auch an das es schon vorher ein gewisses Ressentiment gegen Fremde gab. Die Freibeuter die wir heute treffen sind insgesamt ein ziemlich bunter Haufen, man könnte schon fast sagen, divers. Keine Frauen, die einzige die sie hatten ist wohl von Bord gesprungen. Aber immerhin von der Meinung her doch relativ verschieden. Einige von ihnen scheinen aber von einer seltsamen Art von Irrsinn getroffen zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #42
+
+* Titel: `Risen 3 - #42 - Spinnenhöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kaum sind wir irgendwo gelandet schon finden wir neue Herausforderungen die wir für andere Leute lösen dürfen. Auf Kila ist das im ersten Moment aber nur das Leben der Piraten. So wie es scheint gibt es hier einen gewissen Wahnsinn der von einigen Leuten Besitz ergriffen hat und dann noch ein wenig mundane Probleme. Zum Beispiel die mit den ziemlich aggressiv vorgehenden Spinnen. Wir wissen bereits von anderen Inseln das Spinnen generell und überhaupt ein Problem sind und die ganze Geschichte mit den Wildleben nicht auf Kila beschränkt ist. Später werden wir auch erfahren das das Vorgehen der örtlichen Spinnen nicht der Norm entspricht und die Viecher normalerweise wesentlich vorsichtiger vorgehen und auch nicht einfach irgendwelche Passanten in ihre Höhle ziehen. Die Anzahl an Leichen die wir eingewoben heute vorfinden sprechen da aber irgendwie eine andere Sprache. Da hilft nur Feuer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #43
+
+* Titel: `Risen 3 - #43 - die Podcast Episode [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal habe ich Episoden eines Lets Plays in denen das Gameplay weit in den Hintergrund verschwindet und ich mich eigentlich nur über Gott und die Welt als Solche aufrege. Dies hier ist eine solche Episode. Eigentlich erzähle ich euch vor allen Dingen von technischen Problemen und heule ein bisschen rum aber wenn ich das grade nicht tue rede ich auch von anderen Dingen. Ein großes Vergnügen, und wenn ich so zurückschaue tue ich eigentlich nichts Anderes in den meisten meiner Lets Plays. Das Spiel hat natürlich visuell eine sehr prominente Bühne aber letztendlich bin da immer noch ich mit meiner Geschichte. Sicherlich interessieren sich auch nicht alle Leute für das was ich sage und doch bin halt ich da und nicht jemand Anderes. Gibt ja wohl genügend Auswahl wenn es darauf ankommen würde. Wie dem aber auch auch sei, wenn du dich für den Inhalt der Episode interessierst und insbesondere Risen 3 und diese Beschreibung bis zum Ende hier liest. Die hier kannst du getrost überspringen. Wir sprechen nur mit zwei Wasserträgern und der einen Frau die das Wasser bewacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #44
+
+* Titel: `Risen 3 - #44 - das erlaubte Tal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode wurde mit einem gewissen Sinn von Zukunftswissen benannt. Wir sind in einem Tal unterwegs und später erfahren wir das es auch noch ein Anderes Tal gibt das aber anscheinend für alle außerhalb des Volkes der Kila streng verboten ist. Wie dem aber auch sei, das erlaubte Tal ist halt erlaubt und wir dürfen Dinge darin tun. Vor allen Dingen die endlosen Mobs umhauen die uns hier an jeder Ecke erwarten. Ein weiterer Blick in die Zukunft verrät uns aber immerhin warum wir so viele aggressive Tiere finden die sich uns scheinbar in den Weg stellen. Es ist nicht so das Kilas Fauna einfach nur sehr feindlich gegenüber Eindringlingen eingestellt ist. Das wahrscheinlich auch, Fangzähne und Giftdrüsen wachsen ja auch nicht von heute auf Morgen. Aber es ist so das alles hier ein wenig durcheinander ist, so gesehen sorgen wir sogar für Ordnung wenn wir mit unserer Büchse durch die Reihen fegen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #45
+
+* Titel: `Risen 3 - #45 - Kabuki [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein Fremdwort im Titel, spontan würde ich behaupte das es sich um ein japanisches Wort handelt aber ich kenne viele Sprachen nicht und die Anzahl der möglichen Klänge für kurze Wörter sind ja relativ begrenzt. In diesem Fall heißt es übrigens "Feind", bzw. vielleicht sogar Erzfeind. Es beschreibt hier die Tiere die wir jagen müssen um als wahrer Jäger zu gelten und von den Eingeborenen in die hohe Kunst eingewiesen zu werden. Leider stellt sich am Ende heraus das wir eigentlich schon die ganze Zeit in allen Künsten die man über die Jagd wissen kann eingewiesen wurden. Insofern erfahren wir also gar nichts Neues aber haben immerhin so eine Art Respekt von den Eingeborenen erhalten...oder von einer Person zumindest. Aber ich bin mir sicher das es sich in kürzester Zeit rumspricht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #46
+
+* Titel: `Risen 3 - #46 - Mud, wie Schlamm am Stiefel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist er wieder, ich spoilere natürlich ein wenig das was in der heutigen Episode passieren wird aber ich finde es ist wichtig genug um zu bemerken das wir ab heute einen neuen Begleiter haben werden. Sein Name ist Mud und er wird uns unendlich nerven. Ich frage mich immer wieder warum Piranha Bytes immer wieder die gleichen Ideen ausgräbt. Ich kann verstehen das man so Dinge wie den Leuchtturmwärter öfter dabei hat. Das ergibt für mich Sinn, irgendwie ist er ja ganz sympathisch. Aber Mud? Das Konzept war in Gothic 1 ja irgendwie ganz witzig aber warum man diesen speziellen Witz unbedingt erneut hervor holen muss ist mir ehrlich gesagt nicht so ganz klar. Wie dem aber auch sei, der Typ geht nicht weg es sei den wir geben ihm eine Menge Gold. Mir ist übrigens nicht so ganz klar warum die Piraten überhaupt Mud verschont habe. Das raue Volk das sie normalerweise sind sollte doch eigentlich dafür sorgen das man sich solchen Leute eher ziemlich permanent entledigt. So oder so, der Typ folgt uns jetzt wohl und es gibt wenig das ich da tun kann. Die gute Nachricht ist immerhin das er anscheinend auch nicht aus Versehen sterben kann. Unser Mud wird uns also noch lange erhalten bleiben. Ist das nicht toll?
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
   Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.

@@ -445,7 +445,7 @@
 * Beschreibung:
 
   ```markdown
-  Wir haben es also geschafft Libertalie zu finden. Die geheime Stadt, Siedlung oder als was auch immer man es bezeichnen will ist zu großen Teilen noch vorhanden. Das besorgt mich natürlich auch ein wenig sehr, Nathan Drake scheint die ganze Geschichte wesentlich entspannter zu sein, er wundert sich vielleicht ein wenig aber davon einmal abgesehen wird das hier auffällig non-chalant hingenommen. Gefunden haben wir bisher irgendwelche Gaststätten bei den noch das Essen auf dem Tisch standen, Kinderzimmer in denen alles so aussieht als würde man das örtliche Kind bald zu Bett bringen. Wenn ich raten müsste würde ich vermuten das irgendetwas in den Abendstunden eines Tages passiert ist. Was genau wissen wir nicht, heute finden wir aber geheime Tunnel und scheinbar das Untergrundversteck einer anderen Fraktion innerhalb der Piraten. Fürs Erste wissen wir allerdings noch nicht was es mit dieser Fraktion auf sich hat, nur das sie wohl einige Zeit nach dem Bau der Siedlung entstanden ist und eine religiöse Unterschwingung hat.
+  Wir wissen mittlerweile eine richtige große Menge über Libertalia. Die Stadt hat aufgehört zu existieren. Irgendwann. Was genau die Leute zum Verschwinden gebracht hat wissen wir allerdings immer noch nicht. Was wir vorfinden ist das Nachbeben einer Katastrophe, anscheinend hat sich irgendwann später eine Schlucht gebildet. Ich bin mir allerdings nicht so ganz sicher ob die Schlucht schon vorher da war oder erst später kam als schon alle Menschen weg waren. Einige der Gebäude sehen so aus als wären sie mit Absicht über die Schlucht gebaut worden. Auf der anderen Seite scheint es aber so als wäre die zerstörende Katastrophe erst später geschehen. Wenn man sich den Zustand der Einrichtung anschaut sieht es aber irgendwie so aus als wäre all das wesentlich später geschehen. Alles in Allem ist wahrscheinlich nur dann relevant das wir durch einige Untiefen durchklettern müssen, eine minimal lebensgefährliche Angelegenheit. Oder aber die Welt ist wieder herrlich inkonsistent und alles existiert in einer Doppelstellung aus "über der Schlucht gebaut" und gleichzeitig durch den Riss zerstört.
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Uncharted 4 - A Thiefs End auf dem Montags Slot.
@@ -460,6 +460,78 @@
 
   ```markdown
   Wir wissen mittlerweile eine richtige große Menge über Libertalia. Die Stadt hat aufgehört zu existieren. Irgendwann. Was genau die Leute zum Verschwinden gebracht hat wissen wir allerdings immer noch nicht. Was wir allerdings vorfinden ist eine Katastrophe, anscheinend hat sich irgendwann später eine Schlucht gebildet. Ich bin mir allerdings nicht so ganz sicher ob die Schlucht schon vorher da war oder erst später kam. Einige der Gebäude sehen so aus als wären sie mit Absicht über die Schlucht gebaut worden. Auf der anderen Seite scheint es aber so als wäre die zerstörende Katastrophe erst später geschehen. Wenn man sich den Zustand der Einrichtung anschaut sieht es aber irgendwie so aus als wäre all das wesentlich später geschehen. Alles in Allem ist wahrscheinlich nur dann relevant das wir durch einige Untiefen durchklettern müssen, eine minimal lebensgefährliche Angelegenheit.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #34
+
+* Titel: `Uncharted 4 - #34 - das Schatzhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon haben wir es geschafft uns erfolgreich durch zu kämpfen und das Schatzhaus zu sichern. Ich bin übrigens beeindruckt. Die normalen Gebäude die wir bisher gesehen haben scheinen mir auch ein gewisses baumeisterliches Niveau zu genießen sehen aber durchaus wie etwas aus was man mit wenigen bzw. adäquaten Geldmitteln auch irgendwo erbauen kann. Uncharted erinnert mich übrigens schmerzhaft daran das es heutzutage wesentlich schwerer wäre etwas Vergleichbares zu schaffen einfach weil die Kosten für die grundlegende Infrastruktur wesentlich teurer wären. Einfach eine Hütte auf einen Stand zu setzen geht einfach nicht als gute Siedlung durch. Wie dem aber auch sei, heute wird es dann auch gleich wieder unwahrscheinlich. Wir finden etwas das so eine Mischung aus Verwaltungsgebäude und Herrschaftspalast ist. Alles ist unendlich reich. Wahrscheinlich wesentlicher reicher als es ein größerer Staat zu der Zeit in der Mitte Europas hätte finanzieren können. Quasi also unmöglich. Ich kann mir nicht vorstellen das irgendjemand all diese Ressourcen und Handwerker heimlich hätte transportieren können.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #35
+
+* Titel: `Uncharted 4 - #35 - die Drake-Brüder [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich kennen wir die Drake Brüder bereits ziemlich gut. Dachte ich zumindest, wir haben einige Interaktion zwischen den Beiden in den vergangenen Episoden gesehen und haben schon vorher geahnt das es anscheinend etwas gibt das uns der gute Samuel nicht mitgeteilt hat. Und genau so scheint es nicht nur, so ist es dann auch. Am Ende finden wir uns zurück in der  Vergangenheit, da wo wir am Anfang aufgehört haben. Ich kann mir nicht vorstellen das jetzt noch besser viel Handlung kommt. Das alles sieht so aus als würden wir gleich etwas erfahren das Nathan Drake seit vielen Jahren mit sich rumgetragen hat und was er seinen Bruder irgendwie anlastet. Man darf gespannt sein während wir den ersten Kunstraub in der Geschichte der Drake Brüder durchführen..wenn das überhaupt unser Plan ist. Würde sich allerdings anbieten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #36
+
+* Titel: `Uncharted 4 - #36 - Kunsthistorie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch in der Vergangenheit, aber heute passiert in der Hinsicht nicht besonders viel weil ich mich eher darüber aufrege was es alles mit einem Haus voller Kunstschätze auf sich hat. Es findet sich immer mehr wissenschaftlich nicht ganz unwichtige Gegenstände in dem Haus das wir heute durchsuchen. Ich bin eigentlich der Meinung das Kunst generell und überhaupt ab einer bestimmten Bedeutung nicht mehr in irgendwelchen privaten Besitztümern stehen sollte. Andererseits fragt sich natürlich ab wann etwas "bedeutend" genug ist, es gibt Museen die ihre "Ware" gar nicht mehr ausstellen können. Und wenn man den dritten ägyptischen Sarg gesehen hat wird es langsam aber sicher wiederholend. Klar ein Historiker kann sich damit sicher noch lange beschäftigen, der gewöhnliche Mensch aber wahrscheinlich eher nicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+
+
+##### #37
+
+* Titel: `Uncharted 4 - #37 - Cassandra Morghan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder einmal erfahren wir ein wenig mehr über die Geschichte der Drakes. Es trug sich doch tatsächlich zu das wir dann doch endlich erfahren warum Nathan Drake eigentlich Nathan Drake heißt. Als diese Rückblende los ging war ich mir nicht ganz sicher wie das Ganze ausgehen würde. Ob wir eine große Überraschung finden würden. Sich herausstellt das die Mutter der Drakes vielleicht nicht das ist was Nathan immer dachte oder irgendetwas Anderes passiert ist das diesen Tag irgendwie verändert hat. Wie dem aber auch sei, zu erst sehen wir dann das es Computerspielen auffällig schwierig fällt irgendwie alte Leute darzustellen. In der Regel sehen die nämlich irgendwie nie so alt und zerbrechlich aus wie sie eigentlich aussehen müssten. Und das ist auch hier der Fall. Am Ende wissen wir aber das Nathan eigentlich Morghan mit Nachname heißt und er einst ein Sohn einer fähigen Historikerin war, die aber wohl zu schnell verstorben ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #38
+
+* Titel: `Uncharted 4 - #38 - Klettern mit Elena [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Überraschung Elena ist wieder da. Und das wo es doch fast so aus sah als würde sie uns endgültig verlassen. Aber so wie die Dinge stehen ist es auch wirklich praktisch das sie genau jetzt auftauchen. Unser eigener Bruder hat und offensichtlich grade verraten bzw. hat das eigentlich schon vor einiger Zeit getan ohne uns Bescheid zu sagen. An sich also die schlimmste Art jemanden zu verraten, wenn man nicht einmal die Freundlichkeit besitzt der verratenen Person Bescheid zu sagen. Wie dem aber auch sei, wir haben jetzt Elena die Lebensgeschichte von Nathan Morghan erzählt und wie dieser in jener schicksalhaften Nacht verstorben ist. Jetzt können wir endlich wieder unbeschwerte Zeit mit unserer Frau verbringen und eventuell einen neuen Tot sterben wenn wir uns wieder einmal verschätzen wie weit ein erwachsener Mann eigentlich springen kann. Das ist wahrscheinlich das was man ein Relationship Goal nennen könnte, gemeinsam ohne Sicherung durch die Berge einer komplett unerforschten Insel zu klettern.
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Uncharted 4 - A Thiefs End auf dem Montags Slot.

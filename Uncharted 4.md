@@ -538,6 +538,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #39
+
+* Titel: `Uncharted 4 - #39 - der Aufzug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Logistik muss für die alten Piraten ein echtes Problem gewesen sein. Ich habe ähnliche Gedanken ja bereits in vergangenen Episoden erwähnt. Es ist nicht einfach genügend Vorräte und Ausrüstung auf eine Insel irgendwo weit draußen vor der Küste Afrikas zu bringen. Am einfachsten wäre es wahrscheinlich noch eine Art von Versorgungslinie aus Indien zu haben. Das liegt aber größtenteils daran das ich mir nicht sicher bin ob es um 1700 herum überhaupt irgendwelche nennenswerte Produzenten in Afrika selber gab. Auch die Tatsache das wir eigentlich keinerlei Landwirtschaft gesehen haben noch das es mir so scheint als wäre die Insel dafür geeignet lässt mich glauben das Libertalia sehr von externen Quellen abhängig war. Um diese Vorräte dann ins Land zu bekommen braucht es Logistik. Einen Teil dieser Logistik sehen wir heute, es handelt sich um einen großen Aufzug.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -649,6 +649,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #47
+
+* Titel: `Risen 3 - #47 - Diebesausbildung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß ich weiß, eigentlich brauchen wir gar keine Ausbildung als Dieb. Unser namenloser Held hat vielleicht viele Fähigkeiten verloren aber den Skrupel Leute einfach auszurauben hat er nicht plötzlich entwickelt. Generell wirft das interessante Fragen auf. Wie zum Beispiel welche Fähigkeiten nun wirklich verloren wurden und wieviel der Persönlichkeit wirklich Fähigkeiten sind. Wie dem aber auch sei, vielleicht hatten wir vorher auch gar keine Fähigkeiten in Sachen Schlussknacken und alles was wir jetzt lernen ist so oder so Neuland für uns und wir haben gar keine vorherige Erfahrung in Sachen Schlösser knacken. Heute leisten wir aber quasi unser Meisterstück als wir endlich lernen richtig schwere Schlösser zu öffnen, alle Schlösser kriegen wir damit zwar immer noch nicht auf aber es wird definitiv besser. Daher heißt die heutige Episode auch so. Wir lernen natürlich noch ein paar andere Dinge und erledigen natürlich ein paar Quests, aber damit will ich jetzt nicht ablenken das uns gewaltige Schätze erwarten. Das taten sie schon immer, aber jetzt gibt es einen Stein weniger der auf unserem Weg stören könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

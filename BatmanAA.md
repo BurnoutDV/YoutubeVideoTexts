@@ -394,6 +394,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #29
+
+* Titel: `Batman Arkham Asylum - #29 - Poison Ivy [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kenne mich mit den einzelnen Gegner von Batman nicht besonders gut aus, das liegt aber auch daran das ich die Comics nie gelesen habe und ich glaube das für die Filme lieber die Gegner genutzt wurden die nicht ganz so abgedreht sind und ein wenig besser den Mainstream zu verkaufen sind. Poison Ivy ist definitiv einer von den Charakteren die vielleicht nicht ganz so leicht in das Gotham von Christian Bale Batman zu setzen sind. Die Frau hat scheinbar ein wenig viel mit Pflanzen gemacht und anstatt einfach zu sterben wie man das im Leben halt so tut ist sie halt selber zur Pflanze geworden. Daher ist sie offensichtlich Expertin über alles was mit Pflanzen zu tun hat und das machen wir uns heute zu Nutze. Ich hätte übrigens gedacht das es schwerer sein würde sie zu finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

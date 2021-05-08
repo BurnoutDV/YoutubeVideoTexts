@@ -663,6 +663,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #48
+
+* Titel: Risen 3 - #48 - Kila, Dorf [Let's Play; ger; Blind]``
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin kein großer Freund davon wenn Dinge genauso heißen wie ihre Obergruppe. Zum Beispiel hieß in Gothic 1/2 die Insel Khorinis genauso wie die entsprechende Stadt darauf. An sich ist das aber auch logisch, warum genau sollte eine Stadt auch anders heißen als die Insel selber wenn es halt nur eine Stadt gibt. Eventuell um jemand zu Ehren aber soweit waren wir offensichtlich nicht. Wie dem aber auch sei. Das Volk der Kila hat sich unkreativ nach ihrer Insel benannt oder andersherum. Hervorzuheben ist aber das der Name der Insel in den Aufzeichnungen der anderen Menschen auch den Namen Kila vergibt. Insofern könnte man wohl von einem Erfolg in der Hinsicht sprechen. Heute betreten wir auf jeden Fall das Dorf der Kila. Diese begegnen uns nicht unbedingt mit Gastfreundschaft, was aber wohl daran liegt das die Piraten bereits einen bleibenden Eindruck hinterlassen haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

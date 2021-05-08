@@ -408,6 +408,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #30
+
+* Titel: `Batman Arkham Asylum - #30 - Überwucherung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bis eben dachte ich ja eigentlich das Poison Ivy ihre eigenen Gründe hat Dinge zu tun und ihre Befreiung eher ein Nebengedanke des Jokers bzw. sogar Harley war, aber so wie es ausschaut war das Ganze wesentlich bedeutsamer als ursprünglich angenommen. Wie auch immer es Joker geschafft hat aber die Pflanzen und damit wohl Ivy selbst haben jetzt eine Titan Dosis erhalten und damit meine ich nicht das duktile Metall. Das resultierende Pflanzenwachstum ist ein wenig ärgerlich und hält uns minimal auf. Immerhin beendet es die Plage der Irren die überall auf dem Gelände herumgelaufen sind. Es bleibt abzuwarten ob das an sich die bessere Variante für uns ist. Für Batman aber auf jeden Fall. Menschen umbringen kann er aus idiologischen Gründen ja nicht, Pflanzen verbrennen, vernichten und zertreten kostet ihn aber keine schlaflosen Tage. Ein klarer Gewinn, jetzt muss nur noch Albert mit dem Flammenwerfer angewackelt kommen und schon kann es losgehen. Oder wir befragen noch einmal unseren besten Kumpel in der Anstalt wo es das Gegengift für die Pflanzen gibt. Oder überhaupt das Gift? Schwierig schwierig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -537,6 +537,8 @@
   Uncharted 4 - A Thiefs End auf dem Montags Slot.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
+  
+  
 
 ##### #39
 
@@ -546,6 +548,20 @@
 
   ```markdown
   Logistik muss für die alten Piraten ein echtes Problem gewesen sein. Ich habe ähnliche Gedanken ja bereits in vergangenen Episoden erwähnt. Es ist nicht einfach genügend Vorräte und Ausrüstung auf eine Insel irgendwo weit draußen vor der Küste Afrikas zu bringen. Am einfachsten wäre es wahrscheinlich noch eine Art von Versorgungslinie aus Indien zu haben. Das liegt aber größtenteils daran das ich mir nicht sicher bin ob es um 1700 herum überhaupt irgendwelche nennenswerte Produzenten in Afrika selber gab. Auch die Tatsache das wir eigentlich keinerlei Landwirtschaft gesehen haben noch das es mir so scheint als wäre die Insel dafür geeignet lässt mich glauben das Libertalia sehr von externen Quellen abhängig war. Um diese Vorräte dann ins Land zu bekommen braucht es Logistik. Einen Teil dieser Logistik sehen wir heute, es handelt sich um einen großen Aufzug.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #40
+
+* Titel: `Uncharted 4 - #40 - den Fluss hinauf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in ständiger Bewegung. Erst bewegen wir uns näher zur Küste bzw. in Richtung des vermuteten Ortes von Libertalia, dann fallen wir ganz überraschend runter und jetzt fahren wir den örtlichen Fluß wieder hinauf. Ich bin ehrlich gesagt ein wenig überrascht das Shoreline soviele Autos auf die Insel mit gebracht hat. Ich kann mir ehrlich gesagt nicht vorstellen das es all zu viele Wege auf der Insel gibt die es erlauben größere Laster von A nach B zu bewegen. Und doch war Elena sogar in der Lage einen Jeep zu stehlen mit dem wir uns jetzt den Berg hoch nach New Devon bewegen. Insgesamt darf man wohl ebenso von den Fähigkeiten von Elena als auch von Shoreline beeindruckt sein. Elena für ihr Geschick ein Auto einer schwer bewaffneten Söldnerarmee abzuluchsen und besagte Söldnerarmee dafür das sie logistisch enorme Mengen an Material auf die Insel gebracht haben. Wenn man bedenkt das wir bisher eigentlich so gut wie Nichts von Großem wert gefunden haben. Die Kunstschätze über die wir gefallen sind sind zwar irgendwie wertvoll aber ich sehe irgendwie Probleme daran dieses tatsächlich auch zu Geld zu machen.
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Uncharted 4 - A Thiefs End auf dem Montags Slot.

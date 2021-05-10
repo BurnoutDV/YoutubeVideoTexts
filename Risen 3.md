@@ -677,6 +677,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #49
+
+* Titel: `Risen 3 - #49 - Kilas Regeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stell sich doch glatt heraus das Kila kein rechtsfreier Raum ist und man nicht einfach tun kann was einem so in den Kopf kommt. Die Eingeborenen nehmen dabei auch nicht wirklich Rücksicht darauf wenn man unter dem Einfluss von Substanzen gestanden hat. Zum Glück erfahren wir von diesem Umstand bevor es zu irgendwelche Schwierigkeiten persönlicher Natur kommt. Ein Hoch auf das vorherige Reden mit diversen Leuten. Das und die Tatsache das scheinbar alle Leute die wir so treffen unsere Sprache sprechen und wir auch irgendwie die ihre. Viele Probleme entstehen ja einfach weil man sich nicht vernünftig unterhalten kann oder irgendwelche Informationen auf halber Strecke hängen bleiben. Wie dem aber auch sei, die Regeln sind manigfaltig und trotz das wir eigentlich gegen keine verstoßen haben nimmt man uns ein wenig in die Kollektivschuld. Das schmerzt schon sehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

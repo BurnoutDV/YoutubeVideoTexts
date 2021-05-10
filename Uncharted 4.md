@@ -568,6 +568,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #41
+
+* Titel: `Uncharted 4 - #41 - New Devon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir in der nächsten Ortschaft. Nachdem wir bereits Libertalia gesehen haben und feststellten das die Piraten offensichtlich gutes Geld darin investiert haben feinste Handwerkskunst an jeder Ecke zu erschaffen und so viele Kulturschätze wie nur irgend möglich hinzustellen finden wir nur wenig später heraus das es sich gar nicht um den edelsten aller Orte handelt sondern das es viel mehr noch einen weiteren Platz gibt an dem die eigentlich Reichtümer gestapelt sind. Mir ist übrigens immer noch nicht ganz klar welchen Sinn es gehabt hat eine unfassbar reiche Schatzkammer zu errichten nur damit diese dann am Ende komplett leer ist. Was sie überhaupt irgendwann einmal gefüllt? War das nur einmal und dann wurden die Schätze nach und nach weg gefahren? War der Unterhalte der Siedlung so teuer das die restlichen Finanzmittel innerhalb weniger Jahre verbraucht waren? Ich kann mir nach all dem Prunk ehrlich gesagt nur schwer vorstellen das der eigentlich Betrieb so teuer war. Klar, die Lage ist nicht ideal aber dennoch..all der Marmor und die aufwendigen Konstruktionen. Das kann nicht günstig gewesen sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #42
+
+* Titel: `Uncharted 4 - #42 - Gründerstreit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute finden wir mehr Dinge darüber raus was eigentlich damals passiert ist. Zur Zusammenfassung. Die Bürger die anscheinend nicht direkt zu den einzelnen Piratencrews gehört haben hatten sich irgendwie vorgeführt gefühlt und daher den Aufstand geprobt. Als sie dann in ihrer Stadt bemerkt haben das es all die Schätze von denen immer geredet wurde gar nicht gegeben hat sind sie in die Herrenhäuser gelaufen um dort ihr Vermögen einzufordern. Das Vermögen das sie technisch gesehen gar nicht wirklich verdient haben, oder erbeutet. Aber auch die Piraten untereinander haben sich ja sehr gehasst so wie es aussieht. Später hörte man nie wieder von ihnen, wir dürfen also davon ausgehen das die meisten oder sogar alle von ihnen am Ende ein fatales Ende gefunden haben. Heute finden sich dafür durchaus Beweise. Gegen Ende war es wohl nicht mehr schön auf Libertalia oder sogar New Devon zu wohnen. Was ich nur nicht verstehe, warum dachte irgendeiner der Piraten überhaupt das es einen Schatz gegeben hat den man für sich beanspruchen konnte..und gab es überhaupt noch einen Schatz nach dem man all das erbaut hat?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

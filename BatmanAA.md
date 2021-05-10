@@ -422,6 +422,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #31
+
+* Titel: `Batman Arkham Asylum - #31 - Abriegelung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eines muss man den Joker eigentlich lassen. Er greift hart durch und sorgt dafür das die Anlage auf der Insel endlich einmal richtig gesichert ist. Ich habe das Gefühl das all die Insassen und alles drumherum von Quincy Sharp eher sehr korrupt geleitet wurde und man nicht wirklich bemüht war insgesamt eine gute Arbeit zu erledigen. Klar, es gab tolle technische Türen und alles war auf einem sehr modernen Stand, aber ich hatte nie das Gefühl das vor der Übernahme des Jokers irgendjemand das wirklich ernst genommen hat. Wie sonst ist zu erklären das die Wächter die die Anstalt ja offensichtlich hatte so leicht überwältigt werden konnten. Wo sind die Pläne die dafür sorgen das selbst im Falle eines weit gehenden Aufstandes eine zweite Linie dasteht um das Schlimmste zu verhindern. Wo sind die Eingreiftrupps auf Bereitschaft. Und mir kann keiner erklären das der Plan war die normale Polizei dafür zu verwenden. Die gleiche Polizei die man anscheinend für einen Appel und nen Ei ziemlich leicht bezahlen kann. Jetzt wird auf jeden Fall richtig abgeriegelt und der Joker macht da keine halben Sachen. Jetzt ist Sense und richtig dicht die Bude.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

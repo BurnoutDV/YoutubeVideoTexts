@@ -596,6 +596,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #43
+
+* Titel: `Uncharted 4 - #43 - Averys Abstieg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir nicht ganz sicher ob Henry Avery, der große Pirat mit dem die ganze Geschichte hier irgendwie angefangen hat jemals eine vernünftige Person gewesen war. Eventuell hatte er all dies von Anfang an geplant und die vielen Schritte die dazwischen lagen, all die handwerklichen Meisterwerke, Hinweise und Spuren waren nur Teile eines sehr vielschichtigen Planes Leute dazu zu bringen ihre Schätze auf eine Insel zu schaffen. An sich glaube ich das aber nicht, die Beweise sprechen dagegen, auf der anderen Seite erzählt Uncharted natürlich eine Geschichte und je nachdem wie gestresst die Plotschreiber waren ist es durchaus möglich das man sich einige Ungenauigkeiten erlaubt hat und die "Rule of Cool" auch Einiges zu sagen hatte. Wie dem aber auch sei, das heutige Kapitel und der Titel der Episode ermöglichen uns heute ein halbwegs schönes Wortspiel: "Averys Abstieg". Zum Einen ist damit sein Geheimgang gemeint, zum Anderen aber auch der anscheinende geistige Verfall des einst so großen Piraten. Toll.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #44
+
+* Titel: `Uncharted 4 - #44 - Schiffsfriedhof [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wenn wir uns länger an einem Ort aufhalten fragt man sich ja schon was am Ende aus all den Leuten geworden ist deren Hinterlassenschaften wir auf den Weg zu diesem Ort finden. In diesem Fall kann man wohl ziemlich sicher sein das es niemand überlebt hat. Nach dem Gang mit den Mumien und den diversen anderen Leichen die von Avery anscheinend ziemlich überflüssig an jedem Ort drapiert worden gehe ich sehr davon aus das wir defacto die gesamte Bevölkerung von Libertalia und New Devon gesehen haben. Wie dem aber auch sei, diejenigen die nicht in den finsteren Gängen gestorben sind oder schon vorher massakriert wurden konnten auch nicht wirklich weg. Heute finden wir eine Reihe von Schiffen die scheinbar vollständig zerstört wurden. Es könnte natürlich sein das die einst stolzen Segler einfach so dem Zahn der Zeit anheim gefallen sind, aber ich würde mal stark behaupten das hier jemand den Fluchtweg manipuliert hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #45
+
+* Titel: `Uncharted 4 - #45 - Sams Rettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben uns aufgemacht einen Bruder zu retten und so wie es aussieht wird uns dann heute gelingen. Einfach auch deswegen weil Henry Avery die ganze Insel mit Fallen gespickt hat und sich Rafe anscheinend nicht gedacht hat das man als aller Erstes den Typen opfert der sowieso sein Nützlichkeit erfüllt hat. Mir ist übrigens ein wenig ein Rätsel wie es sein kann das die Shoreline Söldner noch so treu sind. Die Verluste müssen astronomisch sein, das Gelände ist quasi unbekannt und generell ist die ganze Situation ein Alptraum. Mir ist übrigens auch nicht ganz klar warum die Söldner eigentlich überhaupt in irgendwelche Fallen laufen. Der Schatz, insofern er überhaupt noch da ist und all das Gold nicht verbraucht wurde, liegt hier seit hunderten von Jahren und es gibt keinen externen Einfluss der irgendwie darauf hindeutet das er morgen  nicht mehr da ist. Warum also die Eile? Warum immer weiter vorran gehen. Klar, wenn man Männer im Kampf gegen Nathan Drake verliert ist das eine Sache, aber all der Rest? Die Häuser und anderen Anwesen haben immer noch eine Menge Schätze und Kunstgegenstände in sich die man ebenfalls plündern könnte während man langsam aber sich die einzelnen Gänge von Avery erkundet und Fallen entschärft. Warum also so schnell? Ist Rafe so verzweifelt? All das wirkt sehr fischig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

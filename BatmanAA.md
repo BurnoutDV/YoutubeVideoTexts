@@ -436,6 +436,62 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #32
+
+* Titel: `Batman Arkham Asylum - #32 - ein neuer Alptraum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird ärgerlich wenn man gegen den gleichen Gegner wieder und wieder kämpfen muss. Noch schlimmer, wenn der Gegner auch noch Chance hat sich dabei zu verbessern. In diesem Fall müssen wir wohl Scarecrow dankbar sein das der Mann nicht grade für seine Innovation bekannt ist. Er benutzt immer die gleiche Substanz um Leute in Angst und Schrecken zu versetzten. Dagegen können wir ankämpfen ohne uns großartig anstrengen zu müssen. Mehr oder weniger. Aber dennoch. Viren und Bakterien (grade ein wenig Tagesaktuell für mich) sind deswegen so ärgerlich weil die quasi mit reiner Masse dafür sorgen können das man irgendwann durch die normalen Immunantworten durch kommt und man mittels iterativen Testen eine Kombination findet die gut ist. Bei großen Gegnern ist das eher eine Frage der Intelligenz des Gegners. Sehr klug wäre es dann aber auch dem bösen bösen Feind keine Gelegenheit zu lassen sich neue Pläne zu überlegen. Batmans nicht-tödlicher Ansatz läuft hier quasi genau entgegen dem gesunden Menschenverstand. Und deswegen hat die Fledermaus immer so viele Probleme. Heute zum Beispiel mit Alpträumen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #33
+
+* Titel: `Batman Arkham Asylum - #33 - Pfad des Wahnsinns [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Tiefen der geistigen Psyche machen mir manchmal ziemlich Angst. Alltäglich hört man eigentlich von irgendwelchen Leuten die durchdrehen und nicht mehr mit der Realität klar kommen. Leute die in wahnsinnigen Anfällen auf andere Leute losgehen, sich selbst verletzen oder sich einfach verlieren. Eines Tages beschließen nicht mehr mit der Außenwelt zu kommunizieren, quasi aufgeben. Aber warum tun die Leute das? Wie kommt das, sind das externe Einflüsse? Kann man sich quasi in eine Falle denken aus der man geistig nicht mehr rauskommt oder gibt es dazu mehr. Hatten die Leute eine schlechte Erfahrung mit irgendwelchen Drogen, war es das Leben oder einfach nur ein Gespräch das über Jahre gegärt hat und dann eines Tages dazu geführt hat das eine Person dem Wahnsinn anheim gefallen ist? Im Falle von Scarecrow ist die Ursachenforschung immerhin ziemlich einfach aber dennoch, was passiert da nach mit den Leuten? Wie fühlt es sich an sich zu verlieren, einfach nicht mehr da zu sein, merkt man das noch? Sind die Leute quasi schon tot, bzw. halt die Person die der bzw. diejenige einst war? Und was kann man dagegen tun? Kann man sich dafür wappnen sich in eine Ecke zu denken? All das scheint mir ziemlich angsteinflößend. Was wahrscheinlich ein wenig das Thema bei Scarecrow ist nehme ich an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #34
+
+* Titel: `Batman Arkham Asylum - #34 - Grotte des Grauens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es geht weiter mit den Schrecken des Scarecrow. Ich bin mir mittlerweile übrigens ziemlich sicher das die ganze Geschichte eigentlich gar nicht in sich tödlich ist. Für geringere Menschen als Batman würde das Gas vielleicht zu permanenten Wahnsinn führen aber das Problem hier ist das einige der Visionen und Schreckensgestalten die wir sehen halt durchaus echte Menschen und damit auch eine reale physische Bedrohung darstellen. Wie dem aber auch sei, selbstverständlich gewinnen wir diesen Kampf. Ich mag die Alptraumszenen übrigens sehr, sie sind eine angenehme Abwechslung auf das übliche Ambiente und geben uns einen schönen Blick auf eine Was-wäre-wenn-Welt. Wirklich prächtig. Vom Leveldesign her genieße ich Batman Arkham Asylum doch mehr als ich das ursprünglich gedacht hätte. Insbesondere weil der Anfang halt schon ziemlich generisch aussieht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #35
+
+* Titel: `Batman Arkham Asylum - #35 - Killer Croc [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir machen uns heute eine schöne Krokodillederhandtasche. Oder wir besorgen uns ein paar schöne Blumen und die lustige Handtasche steht uns im Weg. Eines davon wird schon wahr sein, da wir aber eine fähige Fledermaus sind sorgen wir selbstverständlich dafür das das böse Krokodil keine Bedrohung für uns darstellt. Ich muss auch sagen das ich durchaus schon stärkere Gegner gesehen habe die mehr Angst gemacht habe. Scarecrow fällt da spontan zum Beispiel ein. Das Krokodil hätte aber eine Menge Potenzial gehabt, aber ich nehme an das sein großes Problem einfach mangelnde Kompetenz ist. Oder Intelligenz. Zum Glück haben alle Gegner des Batmans eigentlich immer eine Art von Schwäche die man irgendwie ausnutzen kann. Man stelle sich vor unser Feind wäre Anti-Batman mit allen Spielzeug und geistigen Willen die Dinge so anzugehen wie er. Wir würden haushoch verlieren in so einer Ausgangslage. Immerhin kann sich Batman am Ende des Tages als großer Held präsentieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

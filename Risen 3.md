@@ -691,6 +691,62 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #50
+
+* Titel: `Risen 3 - #50 - Psittacus callidus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Titel ist kryptisch. Das ist Absicht. Einfach weil ich mal ein wenig besonders sein wollte. Die stumpfe und eigentlich auch ziemlich langweilige Antwort auf die Frage was es eigentlich bedeuten soll ist übrigens das es der Name einer Pflanze ist die wir heute auflesen. Es handelt sich zwar um eine seltene Pflanze die scheinbar nur auf Kila wächst und es grenzt an einem Wunder das wir sie überhaupt gefunden haben aber letztendlich ist sie für uns nicht wirklich bedeutend. Immerhin gibt es aber Leute die uns dafür bezahlen besagte, bedeutende Pflanze einzusacken. Zumindest hoffe ich das die Pflanze für Cunningham irgendwie bedeutend ist und er sich darüber freut das wir ihm das gute Stück bringen. Nicht das sein Interesse für Botanik am Ende nur sehr oberflächlich ist und er die zwar dankend annimmt aber dann auch völlig ignoriert. Wäre das nicht ein trauriges Ende für die Pflanze. Außerdem heilen wir heute einen Irren. Das muss doch auch was wert sein oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #51
+
+* Titel: `Risen 3 - #51 - Unerwartete Wirkung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich ist es doch eine ziemlich bekannte Trophe das irgendwelche Indianer und oder Eingeborene von Alkohol abhängig werden und die Kultur des entsprechenden Volkes dann relativ schnell untergeht weil die Menschen in ihren natürlich Gleichgewicht nicht mit den neuen Suchtmitteln klar kommen. Ich frage mich jetzt aber spontan ob die Sucht nach dem Feuerwasser eigentlich auf ein vorheriges Problem im Lebensstil der Menschen hinweist oder ob es wirklich das komplett ungewohnte Vorhandensein von Suchtmitteln ist das die Probleme verursacht. Ich habe exakt null Sekunden darin investiert herauszufinden inwiefern mein gefährliches Halbwissen auf irgendwelche Fakten basiert aber rein vom Bauchgefühl kann ich mir irgendwie nicht vorstellen das eine funktionierende Kultur einfach ein wenig Whiskey erliegt. Weil so richtig gut fühlen tut man sich danach ja nun auch nicht. Übrigens sehen wir heute eben diesen Effekt und warum man vielleicht nicht auf nüchternen Magen mehre Liter Rum trinken sollte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #52
+
+* Titel: `Risen 3 - #52 - Geschichten aus der Welt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bis her waren die Leute von Kila ein wenig feindlich uns gegenüber und waren nicht wirklich bereit länger mit uns zu sprechen. Das ist sehr schade und heute hoffe ich das wir endlich langsam aber sich zu ihnen durchdringen. Das geschieht am Besten in dem man nach Geschichte fragt. Die Leute haben ja viel zu erzählen und normalerweise werden wohl all die großen Geschichten des Volkes der Kila an unzähligen Lagerfeuersitzungen mitgeteilt. Dafür haben wir natürlich keine Zeit, also müssen wir am hellichten Tag fragen und die Leute vom Arbeiten abhalten. Immerhin erzählt man uns ein wenig etwas, es ist vielleicht auch bezeichnend das wir eine Frau fragen müssen weil uns alle Männer ziemlich feindlich gegenüber stehen. Bis auf vielleicht den einen Kerl den wir nach Hause gebracht haben. Das ist ein wenig ein Klischee oder? Die Männer abweisend, die Frauen freundlich. Das Spiel ist ab 12, außerdem ist es Piranha Bytes, ich nehme also nicht an das wir besonders viel über die sexuellen Dynamiken der Kultur erfahren. Interessant wäre es aber trotzdem. Ich meine mich zu erinnern das bei einigen Inselvölkern Sex wesentlich freier war und für Frauen durchaus auch als befreien wahrgenommen wird. Oder den Leuten auf einer Insel im Pazifik ist vollkommen klar das neues Blut reinzubringen und damit eine Menge genetische Diversität eine gute Idee sein könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #53
+
+* Titel: `Risen 3 - #53 - drei Argumente [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal ist es gar nicht schwer Frieden zu spenden. Man muss nur zum Körperfresser werden und einem Eingeborenen seinen Geist berauben und mittels seines Körpers dann den Häuptling bequatschen. Der lässt sich natürlich nicht sofort darauf ein sondern möchte noch das wir drei Argumente von anderen respektablen Mitgliedern des Stammes einsammeln und dann aber findet sich die Entscheidung alle nicht-Eingeborenen auszulöschen ganz schnell im Abseits. Am Ende erhalten wir sogar zwei Mal Gold vom Häuptling, das zweite Mal in unserem eigenen Körper und irgendwie war dann die ganze Angelegenheit komisch, es ist ja fast so als wüsste der alte Knacker was wir getan haben und belohnt uns dafür das wir ihn getäuscht haben. Ich kann mir aber nicht vorstellen das er umgestimmt werden wollte, war er doch eigentlich ziemlich vehement dagegen. Das Alles ist irgendwie sie inkonsistent.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -638,6 +638,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
+##### #46
+
+* Titel: `Uncharted 4 - #46 - freies Solo [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nathan Drake ist ein unfassbar guter Kletterer. Zu schade das es anscheinend nie irgendwelche Beweise oder andere Aufzeichnungen für genau diese Fähigkeiten gibt. Eventuell hat er auch den Vorteil das immer wenn er klettern geht in Situationen kommt bei denen er besonders motiviert ist. Eigentlich ist das was er tut sogar noch anstrengender, meistens klettert er in Situationen in denen er das Gelände im Vorfeld nicht kennt und dennoch ist er in der Lage Berge zu überwinden. Andere Kletterer gucken sich das vorher alles sehr langsam an. Nicht so Nathan Drake. Heute passieren auch noch andere Dinge, wie zum Beispiel das wir uns entscheiden Sam doch noch ein letztes Mal zu retten aber um das zu erreichen müssen wir wieder Wagnisse eingehen. Aus eigener Erfahrung kann ich übrigens sagen das das Schlimmste nicht ist sich an irgendwelchen möglicherweisen scharfen Felsen hochzuziehen sondern das immer wieder zu machen. Es ist echt erstaunlich wie schnell man ermüden kann wenn man nicht aufpasst, und irgendwann geht es dann einfach nicht mehr weiter. Andererseits wäre es wahrscheinlich auch ein wenig schwierig vom Spieldesign her wenn es einen dauerhaften Ausdauerbalken gebe der beim Klettern dauerhaft runtergeht und sich kaum regeneriert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
+##### #47
+
+* Titel: `Uncharted 4 - #47 - Henry Averys Schatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir da, bei der Episode die doppelt so lange ist wie eine normale Episode. Theoretisch hätte sie also auch zwei Folgen sein können und keiner hätte den Unterschied gemerkt. Aber das hätte dann wohl den Spannungsbogen gebrochen und das möchte man da ja irgendwie auch nicht. Der Titel spoilert es ja schon ein wenig, es scheint so das der Schatz von Henry Avery noch vollständig da ist. Das wieder rum stellt ein wenig die Frage wessen Geld/Gold jetzt eigentlich dafür verwendet wurde Libertalia und die ganzen Anlagen aufzubauen die wir an den anderen Orten gesehen haben. Generell und überhaupt scheint es mir so als hätte Avery seine ganze Kohle zusammengehalten. Außerdem frage ich mich wann er sein Schiff hat so ausstatten lassen wie es jetzt aussieht. Und was ist mit den Handwerkern passiert die das ausgeführt haben. So viele offene Fragen die Uncharted leider einfach nicht beantwortet. Ich hätte mir wirklich mehr Briefe gewünscht. Auf der anderen Seite sind Piraten nicht dafür bekannt viele Aufzeichnungen ihrer Taten und Gedanken zu verfassen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
+  ```
+
 ##### #Nummer
 
 * Titel: ``

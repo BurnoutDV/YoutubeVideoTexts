@@ -492,6 +492,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
+##### #36
+
+* Titel: `Batman Arkham Asylum - #36 - Super Batclaw [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bei Super irgendwas muss ich aus irgendwelchen Gründen an die Super-Shotgun des Doomslayers denken, eigentlich ist das Gerät ja auch nur eine normale doppelläufige Schrotflinte mit abgesägten Lauf..allerdings scheint mir das die Batclaw auch in ihrer "Super" Form einfach nicht die selbe Begeisterung aufruft als es eine simple Schrotflinte tut die wir diversen Dämonen in das Gesicht halten können. Die Klaue kann zwar Wände zerstören und scheint auch sonst ganz praktisch zu sein, technisch bestimmt auch der Realität um Jahrzehnte vor raus und doch..naja, es ist halt ein Gerät mit dem wir irgendwelche Wände ein reißen können. Ich finde das irgendwie nicht spektakulär, außerdem stellt sich mir ein wenig die Frage warum wir das Gerät nicht gleich von Anfang an mitgenommen haben? Anscheinend lag das Werkzeug schon die ganze Zeit in der alternativen Bathöhle rum und wir haben es dennoch nicht abgeholt als wir das letzte Mal nicht hier waren. Da fragt man sich doch ernsthaft warum. Ist Bruce Wayne ein Idiot? Wird der Mann vergesslich?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #37
+
+* Titel: `Batman Arkham Asylum - #37 - Druckregelanschluss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mich bereits ausgiebig über all die Probleme die das Arkham Asylum hat ausgelassen, ich warte bereits darauf das wir endlich nach Gotham kommen und ich mich dann über die Infrastruktur der Stadt aufregen kann weil da auch alles total am Arsch ist. Bis es aber soweit ist kümmern wir uns um die Schnittstelle zwischen den beiden Dingen. Namentlich ist das übrigens der direkte Zufluss der Asylums in die Wasserversorgung der Stadt. Ich bin mir nicht so ganz sicher warum das überhaupt ein Ding ist aber wir haben ja bereits die Krähenscheuche davon abgehalten in dieser Hinsicht tätig zu werden, heute stellen wir dieses wandelnde Sicherheitsrisiko einfach komplett ab, dafür müssen wir nur drei Pumpen abstellen. Drei Pumpen, soviel hat das Asylum, drei Stück. Drei zuviel. Ich verstehe nicht warum, wieso und wie es überhaupt jemals dazu kommen konnte. Aber hey, wofür hat man den schlechtbezahlte Multimillionäre die nächtlich im Kostüm rumspringen um eben jene Missestände zu beseitigen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -747,6 +747,34 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #54
+
+* Titel: `Risen 3 - #54 - Gegenrevolution [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das ein Dorf mit einer Bevölkerung von unter 10 anscheinend dennoch unterschiedliche Fraktionen hat. Ich hätte ja gedacht das man in so kleinen Gruppen noch jeden kennt und das alles noch irgendwie funktioniert, aber Piranha Bytes sieht das irgendwie anders. Wie dem aber auch sei, es gibt da einen Typen namens Ixil. Der scheint die Piraten auch nicht zu mögen, ist für uns also eher weniger relevant aber möchte wohl an die Macht. Das möchten wir wiederum verhindern, kann ja wohl nicht sein das wir uns hier mit andauernd neuen Machthabern rumärgern müssen, insbesondere wenn man bedenkt das Ixil uns eiskalt ausnutzen wollte um seine eigenen Ziele vorwärts zu bringen. Das kann ich schon aus Ego Gründen nicht akzeptieren, also sorgen wir dafür das seine Pläne ein jähes Ende finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #55
+
+* Titel: `Risen 3 - #55 - Patty am Strand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist sie wieder, wir haben Patty die mit den Melonenbrüsten wiedergefunden. Ich freue mich ja so sehr meine lange verlorene Schwester endlich wieder aufgelesen zu haben, mitkommen möchte sie natürlich nicht weil ihr unsere aktuelle Nussschale einfach zu klein ist aber rein vom Prinzip her wäre sie schon bereit uns zu helfen. Ganz interessant ist übrigens auch das ihre erste Reaktion ist uns eine zu verpassen. Sehr freundlich, da hat man ja auch direkt wieder Lust sich mit Schwesterchen auf weitere Abenteuer einzulassen. Eine offene Frage die ich noch habe: ist eine Piratenbraut tatsächlich selber Pirat oder bezeichnet das traditionsgemäß eigentlich nur die etwas festere Freundin eines Piraten obwohl die ja eigentlich in jedem Hafen irgendeine haben. Alles sehr verwirrend mit diesen Beziehungen bei den Piraten hier.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

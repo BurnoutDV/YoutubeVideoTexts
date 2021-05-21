@@ -775,6 +775,100 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #56
+
+* Titel: `Risen 3 - #56 - Cole der Auftraggeber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist immer wichtig Aufträge zu haben. Damals als ich noch ganz jung war und Diablo 1 spielte viel mir schon auf das man in Spielen irgendwie viel mehr Dinge erhält, irgendwelche Monster lassen immer nützliche Gegenstände fallen während im echten Leben das nur sehr selten passiert. Damals habe ich eventuell noch nicht realisiert welchen Gefahren sich der gewöhnliche Abenteurer in Sanctuario aussetzt aber dennoch, irgendwie gab es immer etwas lohnenswertes zu tun. Ein ebenfalls wichtiger Bestandteil des Abenteurerlebens scheint es aber auch zu sein immer ein volles Auftragsbuch zu besitzen. Die Fähigkeiten des Helden sind immer irgendwie gefragt. Das steht ein wenig im Kontrast zur Realität wo Leute nur sehr ungern irgendwelche Arbeit abgeben, weil das ist ja teuer. Insofern mag ich die Witcher Welt, hier hat Geralt unter Umständen durchaus Probleme Arbeit zu finden, in den Spielen zwar weniger aber ansonsten generell. Davon einmal abgesehen hat auch der namenlose Held das Problem nicht, heute treffen wir zum Beispiel Cole, der hat einen grundsoliden Auftrag für uns, den erledigen wir natürlich, Böses vertreiben können wir doch!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #57
+
+* Titel: `Risen 3 - #57 - das Szepter der Ahnen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der namenlose Held ist ein multitalent aller Richtungen, heute verstehen wir uns zum Beispiel als angehender Voodopriester, als Lehrling sammelt man da nämlich viele Materialien und selbstverständlich sind wir in der Lage das ohne Probleme zu vollziehen. Und so kommt es das wir heute der Anfertigung eines legendären Artefakts beiwohnen dürfen. Wenn ich mich recht entsinne durfte der letzte namenlose Held auch schon bei der Anfertigung eines Ahnenszepters mit helfen. Bei den verschiedenen alten Stämmen der südlichen Länder scheint dies auch eine relativ normale Sache zu sein wenn das Volk grade im Not ist. Da die Toten und Geister der anderen Seite sich momentan weigern Kontakt aufzunehmen kann man ja auch durchaus von einem Notfall reden. Andererseits wäre die Gelegenheit auch günstig sich endlich von den alten Gebräuchen los zu sagen und etwas Neues zu probieren. Aber diese Idee haben die Leute wohl eher nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #58
+
+* Titel: `Risen 3 - #58 - Rum am Feuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Piraten sind allgemein dafür bekannt das sie wirklich viele Dinge verzeihen und insgesamt wahrscheinlich eine eher egalitäre Gesellschaft sind die nur wenige Regeln bzw. Authoritätspersonen haben. Und doch mag man sich ein wenig wundern wie man so relaxed darauf reagieren kann das ein Typ versucht alle mit seinen Rum zu vergiften und wenn das Giftattentat am Ende nicht funktioniert das Ganze quasi als kleinen dummen Jungen Streich abzutun ohne sich darüber großartig zu ärgern. Wie dem aber auch sei, was wir nicht erfahren haben war übrigens was genau Booze jetzt eigentlich besessen hat, immerhin heilen wir den Guten von seiner scheinbaren Besessenheit, ein wenig seltsam ist aber auch das er sich scheinbar an nichts erinnern kann obwohl er ja nicht direkt ferngesteuert sondern eher vernebelt gewirkt hat. Alles ein wenig seltsam das Ganze hier. Vielleicht erfahren wir ja später noch mehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #59
+
+* Titel: `Risen 3 - #59 - verbotene Früchte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn es um die Moluken (wie sie nicht mehr genannt) werden geht und insbesondere hier bei den Kila führe ich immer wieder gerne Inselvölker im Pazifik an. Der Vergleich ist ein wenig falsch, das Archipel sieht wesentlich übersichtlicher aus und die einzelnen Stämme haben offensichtlich gelegentlich Kontakt miteinander. Es verbindet sie sogar eine gemeinsam Sprache, das schiebe ich aber einfach mal spontan auf die Ahnen die wahrscheinlich in einer Art Standardsprache kommunizieren. Wie dem aber auch sei, bei den Inselstämmen führe ich dann immer wieder gerne fehlende genetische Diversität als großes Problem an die ein solches Volk durchaus treffen kann. Die Frauen des entsprechenden Volkes hätten insofern durchaus nachvollziehbares Interesse an neuen Material, je unterschiedlicher desto besser. Wenn ich mich recht erinnere haben einige Häuptlinge zum Beispiel auch ihre Töchter angeboten. Nur mitnehmen war nicht. Ich bin mir nicht ganz sicher wie das die restlichen Männer das so gesehen haben, viele Menschen neigen zu Monogamie in irgend einer Hinsicht (Quelle benötigt) und was die Töchter selbst darüber dachten weiß ich auch nicht. Das alles spielt aber wenig eine Rolle, in diesem Fall heute ist sowieso alles ein wenig anders Miamiti will sogar zu den Piraten und bei den Piraten gibt es auch Interessenten, ich bin mir nur nicht ganz sicher das die allgemeine Erwartungshaltung bei allen Fraktionen genau gleich ist. Alles ein wenig schwierig hier.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #60
+
+* Titel: `Risen 3 - #60 - Iona die Überlebende [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind zurück auf Calador, größtenteils weil ich hier etwas übersehen habe und es natürlich nicht haben kann wenn man irgendwelche Dinge liegen lässt. So ein Held sind wir nicht, Einer der Dinge anfängt und die Taten beenden die sich gut in einem Epos machen aber das kleine Volk vergisst. Nein nein, daher retten wir heute Iona, die hat nämlich den nächtlichen Angriff der Schatten überlebt. Warum wir sie retten müssen während wesentlich mächtigere Dämonenjäger die Insel durchstreifen ist mir übrigens nicht ganz klar. Natürlich, man hatte personelle Verluste aber grade das Ausheben kleinerer Unholdsnester sollten den Profis doch ziemlich einfach fallen. Warum aber verschwendet man dann seine ganze Zeit damit irgendwo sinnlos rumzustehen und lieber darauf zu warten das ein Fremder vorbei kommt und die Arbeit erledigt? Ich verstehe es nicht und werde es wahrscheinlich auch nie verstehen. Ich schiebe es aber auf ein schlechtes "Drehbuch".
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #61
+
+* Titel: `Risen 3 - #61 - Landung in Takarigua [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir auf einer weiteren Insel die wir bereits aus der Vergangenheit kennen, das legendäre Takarigua, vor unbekannter Zeit gab es hier einmal einen Stützpunkt der Inquisition den wir damals in der zweiten Installation von Risen 2 besucht haben. Mittlerweile sind aber die Piraten die hier einmal gelebt haben weg. Das nimmt der ganzen Insel auch ein wenig den Charm. Generell und überhaupt hat sich aber an der der Insel auch noch was Anderes geändert, irgendwie ist jetzt alles ein wenig kaputt und Jack ist scheinbar nicht mehr der Leuchtturmwärter. Das ist irgendwie ein Novum bzw. eigentlich auch etwas Altes. Weil der Verlust des Leuchtturms ist ja quasi schon eine konstante. Immerhin die Inquisition ist noch da, ob das jetzt ein Gewinn ist sei einmal dahingestellt. Und jede Menge Viecher die die Jahre des Friedens anscheinend ausgenutzt haben um sich zu regenerieren, ein Ärger.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

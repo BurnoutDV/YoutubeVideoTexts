@@ -520,12 +520,58 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```
 
-##### #Nummer
+##### #38
 
-* Titel: ``
+* Titel: `Batman Arkham Asylum - #38 - Missfallensbekundung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es steht irgendwie zu vermuten das uns der Joker eigentlich gar nicht so sehr mag wie er immer behauptet. Klar, er spielt und kokettiert generell und überhaupt ziemlich oft mit seinen besten Kumpel "Bats" aber ich glaube das ist eine gewisse Spitze in dem Lachen. Man könnte sogar sagen ein Wahnsinn. Fast so als wäre der Joker ein wahrlich chaotisch böser Charakter der niemals seinen Gegner wissen lässt was er von uns hält. Wie dem aber auch sei, der Charakter des Mannes interessiert Bruce Wayne ja auch nicht, verrückt ist verrückt. Was dann mit ihm gemacht wird sobald er eingefangen ist scheint ja auch irrelevant zu sein. Daher sind die Beweggründe eher von geringen Belang. Was aber relevant sind sind die Schläger die uns der lustige Typ mit den grünen Haaren uns heute vorbeischickt. Die verheißen nichts Gutes und das Ganze sieht ein wenig mehr aus wie nur spielerisches Aufhalten unserer Bemühungen wie am Anfang. Ich glaube dieses Mal meint er es ernst.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #39
+
+* Titel: `Batman Arkham Asylum - #39 - Pflanzenbewusstsein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht alle Gegner des Batman sind einfach so zu erklären, es gibt da immer wieder ein fantastisches Element. Und oft frage ich mich wieso noch niemand auf die Idee gekommen ist die entsprechenden Superbösewichte zu fangen und für Experimente zu nutzen. Ich kann mir zum Beispiel durchaus vorstellen das man militärische Verwendung für die Fähigkeit von Poison Ivy hat. Und doch lässt man zu das ein potenzieller Schatz von Wissen in irgendeinen vierklassigen Irrenheim rumhängt und all die potenziellen Erkenntnisse einfach so ins Nichts aufgehen. Wir reden hier nicht einmal von Experimente am lebenden Exemplar, obwohl ich mir sicher bin das man sich dafür nicht zu fein ist, aber von dem Nachvollziehen der Dinge die Ivy getan hat bevor sie zu dem geworden ist was sie jetzt ist. Die direkte Kommunikation mit Pflanzen zum Beispiel scheint mir eine Menge Potenzial zu bergen, sogar für zivile Zwecke, aber anscheinend gibt es in Gotham dafür keine Notwendigkeit. Komische Stadt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #40
+
+* Titel: `Batman Arkham Asylum - #40 - Elizabeth-Arkham-Glashaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, wir treten Poison Ivy gegenüber, die Gute will eigentlich nur ihre Pflanzen in Ruhe pflegen, ärgerlicherweise muss sie dabei gleich extrem werden und alle Menschen auslöschen. Außerdem hat sie scheinbar einen Hang zum Gift. Das ist nicht gut für breite Teile der Bevölkerung und deshalb müssen wir eingreifen. Interessant ist übrigens mit welcher Zurückhaltung der sich beim letzten Mal gezeigt hat. Ich frage mich jetzt ob Batman einfach ein Problem damit hat Frauen zu schlagen oder ob das ein generelles Ding von ihm ist niemanden anzugreifen der nicht zu erst ein gewisses Maß an Aggression zeigte. Welch Glück das Ivy jetzt diese Voraussetzung erfüllt und wir endlich aktiv werden können. Zu Ivys Verteidigung muss man aber auch feststellen das sie scheinbar ziemlich high auf Titan ist und eventuell nicht mehr ganz so reagiert wie sie es normalerweise tun würde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
+  ```
+
+##### #41
+
+* Titel: `Batman Arkham Asylum - #41 - die Party [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schon ziemlich lange hat der Joker uns eine Party angekündigt. Langsam scheint die Sonne am Horizont langsam durch und die Party ist immer noch nicht da. Batman ist enttäuscht, und wenn er es nicht dann bin immerhin ich es. Da wird eine große Party und vielleicht sogar noch wichtiger, Kuchen versprochen und dann ist da einfach keine Party. Aber jetzt ist alles anders! Die Party ist hier, die Einladung wurde zugestellt und endlich hat das Besucherzentrum auch einen Sinn. Stellt sich also heraus das alles von langer Hand geplant war und wir uns jetzt auf eine Unterhaltungsqualität der Extraklasse freuen können. Etwas bedauerlich ist das noch andere Leute von denen wir eigentlich dachten das sie gerettet wurden mit reingezogen wurden. Man darf übrigens erwarten das ich einige Male versage, das liegt größtenteils daran das ich einfach nicht gut in solchen Dingen bin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPxlHpmM1VPoyQr39IXKJop
   ```

@@ -666,12 +666,16 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```
 
-##### #Nummer
+##### #48
 
-* Titel: ``
+* Titel: `Uncharted 4 - #48 - Epilog [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die Uncharted Reihe endet ziemlich sicher mit Uncharted 4, die Geschichte von Nathan Drake ist irgendwann einmal erzählt. Alle Abenteuer erlebt und alle Dinge geschehen. Das stimmt übrigens nicht, aber dennoch hören wir jetzt auf Nathans Leben zu verfolgen. Das liegt einfach daran das er jetzt aufhört immer illegale Dinge zu tun und stattdessen in ein ehrliches Leben einsteigt. Ein Leben bei dem er nicht mehr eben dieses riskieren muss. Das erlaubt ein gewisses Maß an Stabilität  und mit dieser Stabilität ist es dann auch möglich Dinge wie ein Haus und Kinder zu bekommen. Und das bringt uns zu Cass. Ich gehe mal sehr davon aus das sie in Wirklichkeit Cassandra oder vielleicht auch Cassidy heißt. Aber Cassandra nach der Mutter von Nathan Morghan ist irgendwie wahrscheinlicher. Jetzt bin ich gespannt ob es irgendwann ein Uncharted 5 mit Cassandra Drake in einer eher Tomb Raider artigen Form gibt. Das wäre aber auch irgendwie ein wenig zu nahe an Lara Croft dran oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted 4 - A Thiefs End auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY-gjX-8ZClSHzaGlagKS0
   ```

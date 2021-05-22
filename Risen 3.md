@@ -859,14 +859,18 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
-##### #Nummer
+##### #62
 
-* Titel: ``
+* Titel: `Risen 3 - #62 - Überraschungshöhle [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Eigentlich wollte ich nur dafür sorgen das Jack der Strandwächter seinen alten Job als Leuchtturmwächter zurückerhält, gleichzeitig frage ich mich natürlich auch warum er das überhaupt möchte. Die Insel ist anscheinend dem Untergang geweiht, die Schatten sind überall und es gibt quasi keine menschliche Zivilisation auf der Insel mehr. Davon einmal abgesehen sollte ich mir eine kleine Truhe unter dem Leuchtturm anschauen in dem ein korrupter Protektor anscheinend  etwas versteckt hat. Es stellt sich heraus das die angekündigte Höhle ein wenig größer als gedacht ist und mich generell und überhaupt ein wenig überrascht hat. Jetzt frage ich mich aber auch wie lange man überlebt hätte wenn man gleich am Anfang schön nach Takarigua der alten Zeiten Willen gefahren wäre. Wahrscheinlich wäre man einfach nur gestorben und die Reise hätte ein schnelles Ende gefunden. So dauert es nur ein wenig länger, außerdem gibt es hier auch außerhalb der Höhlen erstaunlich viele Meeresbiester. Wirklich viele!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
 ##### #Nummer

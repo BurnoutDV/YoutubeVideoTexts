@@ -30,6 +30,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #3
+
+* Titel: `Subnautica Below Zero - #3 - Spurensuche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach der Landung waren wir ja kurz ein wenig orientierungslos, das hat sich schnell wieder gelegt und wir haben erfahren das Robin nicht zum ersten Mal auf einen Planeten um ihr Überleben kämpft. Insofern ist das wesentlich schnellere Reinkommen im Vergleich zur überhaupt ersten menschlichen Landung auf 4546B ziemlich realistisch. Ich würde selber sagen das ich gute Fortschritte mache und ich bald den lästigsten Teil der Survivalphase abgeschlossen habe. Es könnte noch einmal ein wenig nervig werden wenn ich dann doch beschließe das ich meine Basis woanders hin verlegen muss, bis es aber soweit ist sollte es jetzt Schlag auf Schlag gehen. Heute finden wir übrigens auch die ersten Spuren von Alterra die über nur ein paar Wrackteile die wir ausschlachten hinaus gehen. Auch nicht ganz unpraktisch. Wenn ich jetzt noch wüsste was genau sich die Firma bei diesen komischen Käfigen gedacht hat wo doch wesentlich bessere Ausrüstung zur Verfügung steht. Aber ich nehme mal an das der Überlebensschwimmanzug den Robin hat nicht zur Standardausrüstung für jede Person gehört und viele Leute einfach nicht so gut ausgerüstet sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

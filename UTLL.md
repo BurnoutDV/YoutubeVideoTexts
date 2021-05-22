@@ -72,6 +72,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
   ```
 
+##### #6
+
+* Titel: `Uncharted Lost Legacy - #6 - Westghats [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir betreten eine neue Region. Anscheinend heißt sie Westghats aber ich könnte mich täuschen. Ein wahrlich erstaunlicher Ort, er ist ziemlich weit weg von allen Anderem. Ich bin mir übrigens nicht so ganz sicher wie wahrscheinlich ein komplett unberührtes blühendes Tal ist wenn es nicht zwingende Gründe gibt die menschliche Besiedlung quasi unmöglich macht. Unabhängig davon frage ich mich grade in welchen Teil der Welt Mogli spielt, klar, ich könnte es googlen aber ich möchte nicht. Lieber wundere ich noch ein wenig rum. Chloe kann übrigens tauchen, das konnte Nathan Drake auch schon aber wir nutzen diese Fähigkeit doch recht reichhaltig aus. Ich finde es übrigens interessant wie viele Parallelen es zwischen Uncharted 4 und Lost Legacy gibt, es ist fast so als kämen beide Teile vom gleichen Entwickler. Ich muss mich allerdings noch entscheiden ob das etwas Schlechtes ist weil es quasi noch einmal das Gleiche ist oder etwas Gutes weil mir dieses "Pick your own Adventure" ganz gut gefällt. Realistisch macht es für mich das Erkunden aber nur schwerer weil ich natürlich den maximalen Spaß für mein Geld haben will, und dafür muss ich natürlich jeden Ort erkunden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
 ##### #Nummer
 
 * Titel: ``

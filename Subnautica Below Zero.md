@@ -44,6 +44,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #4
+
+* Titel: `Subnautica Below Zero - #4 - Anlieger Delta [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit rasender Geschwindigkeit (dank unseres treuen Seegleiters) geht es heute auch weiter, wir finden Anleger Delta und damit auch die Station Delta. Letztere betreten wir übrigens noch nicht aber wir finden dafür diverse andere Dinge und das ist ein riesiger Schritt nach Vorne, insbesondere wenn man bedenkt das hier eine Menge Gerät versteckt ist das wir mit unserem Analysetool näher untersuchen können um dann die Baupläne zu duplizieren. Ich bin mir sicher das Alles wird ein großes Fest sobald wir einmal zurückgekehrt sind. Ich bin mir übrigens nicht ganz sicher ob die Survivalelemente im Moment nicht so gar ein wenig einfach sind. Bis auf die relativ knappe Luft hatten wir noch keine Probleme am Leben zu bleiben und dabei habe ich mir eigentlich gar keine Mühe gemacht irgendwelches Essen bereits zu stellen oder Fische zu kochen. Es könnte aber auch sein das mir mein Vorwissen aus dem Vorgänger hier enorm weiter hilft und mein Überleben maßgeblich beschleunigt. Wie dem aber auch sei, ich bin bereit für die ersten Geheimnisse die hier vielleicht an der Oberfläche schlummern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -873,6 +873,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #63
+
+* Titel: `Risen 3 - #63 - Sumpf der Deserteure [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die letzten Reste der Inquisition auf Takarigua sind auch nicht mehr das was sie einmal waren, früher war die Moral in der Truppe zwar auch nicht die Höchste aber es schien so das die Leute die sich tatsächlich beteiligt haben und im Gelände vorzufinden waren treu ergeben zu ihrer Pflicht waren und dieser dementsprechend auch nachkamen. Das hat sich jetzt scheinbar geändert, wir finden heute nicht nur ein sondern direkt zwei Deserteure, einer davon ist sogar ziemlich hochkarätig, ein ehemaliger Offizier der immer noch um seine Mission bedacht ist. Der Andere ist ein wenig weniger wichtig aber das spielt für uns auch keine Rolle, es ist ja nicht so das wir der Inquisition irgendwelche Geschenke machen wollen oder sogar Gefälligkeiten erweisen. Letztendlich mögen wir die Blauröcke auch nicht, allein schon ihr Umgang mit den Eingeborenen macht sie zu nicht besonders liebenswerten Menschen. Allerdings würde mich schon interessieren wie der aktuelle Stand in der Verwaltung und Politik der Truppen des Festlandes ist. Das letzte Mal das ich von ihnen gehört habe wurden sie ja von den letzte Resten des ehemaligen Königreiches verwaltet die quasi inexistent und doch nutzlos waren. Das könnte sich ja mittlerweile geändert haben, zumindest kann ich mir kaum vorstellen das die Kristallfeste in dem Zustand und umrundet von zerstörten Land auf Dauer haltbar war. Da wir uns in einem Sumpf befinden und wir mehr als einen Deserteur treffen benenne ich den Ort jetzt übrigens auch um. Das erscheint mir nur sinnvoll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

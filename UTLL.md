@@ -86,6 +86,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
   ```
 
+##### #7
+
+* Titel: `Uncharted Lost Legacy - #7 - Shivas Axt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt anscheinend eine Reihe von Artefakten bzw. Waffen die als Symbol für die einzelnen Gottheiten stehen und irgendwie im Zusammenhang mit Hoysala zu sehen sind. Mir sind die Einzelheiten noch nicht ganz bewusst aber ich bin mir sicher das wir alle notwendigen Informationen früher oder später noch erfahren werden. Wie dem aber auch sei, heute geht es vor allen Dingen um Shivas Axt..und allen anderen Äxten die wir noch so finden können. Chloe kriegt sie allesamt auf den Kopf, da wir aber glücklicherweise auf einem niedrigen Schwierigkeitsgrade spielen überleben wir das Ganze jedes Mal ziemlich knapp und müssen nicht immer wieder von Vorne bzw. Unten anrennen. Das wäre auch ziemlich dämlich. Am Ende belohnt uns die Reise übrigens mit einem großartigen Ausblick über das Tal und einem neuen Wasserfall. Außerdem erfahren wir ein wenig Randinformation zu Chloes Familie, sie scheint nicht vollständig in einem guten Verhältnis zu ihrem Vater zu stehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
 ##### #Nummer
 
 * Titel: ``

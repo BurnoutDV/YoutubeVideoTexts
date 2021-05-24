@@ -100,6 +100,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
   ```
 
+##### #8
+
+* Titel: `Uncharted Lost Legacy - #8 - Zentralturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Spiele neigen dazu mir mit irgendwelchen Hinweisen helfen zu wollen. Wie zum Beispiel der das ich mich zum zentralen Turm begeben soll um dort dann alle Orte im Blick zu haben und mit dieser Aussicht dann über meine weiteren Fortschritte informiert zu werden. Das war mir alles schon vorher klar, da ich bereits wusste was auf mich zu kommt und was ich vor habe bin ich natürlich überhaupt nicht überrascht welche Orte wir heute zu Gesicht bekommen. Allerdings ist es trotzdem irgendwie schön zu sehen was es alles von oben zu sehen gibt. Doch noch einmal eine andere Perspektive als wenn wir jeden einzelnen Ort manuell angefahren wären wie wir es eh vorgehabt zu haben. Der zusätzliche Blickwinkel gibt auch Optionen auf, auf das was man tun kann. Das läuft zwar grundsätzlich irgendwie auf Kunstschatzdiebstahl hinaus aber das ist nun Mal was Chloe tut.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -58,6 +58,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #5
+
+* Titel: `Subnautica Below Zero - #5 - Station Delta [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie kommen wir wesentlich schneller vorran als ich eigentlich dachte das es passiert. Ich nahm irrigerweise an das es in etwa so schleppend vorran geht wie es im letzten Teil der Fall war. Damals war ich aber noch absolut ahnungslos und alles war irgendwie nicht so schön. Dieses Mal ist alles ein wenig glatter und man könnte mir sogar vorwerfen, geplanter. Manchmal habe ich sogar selbst das Gefühl das es ein wenig den Eindruck erweckt als wüsste ich sogar was ich da genau tue. Als hätte ich einen Plan vom Überleben. An sich passt das aber auch wunderbar zur Geschichte, schließlich hat Robin ja in der Tat bereits Expertise wenn es um das Überleben auf fremden Planeten geht. Ich frage mich aber wie genau das eigentlich funktioniert wenn man auf einen Planeten landet auf dem sich das notwendige Titan oder andere Metalle nicht gleich massenhaft an jeder Ecke findet. 4546b ist nun ein Planet der genau für diese Vorkommen bekannt ist, auch wenn ich mir denken könnte das die Existenz als Unterwasserplanet die Ausbeute eher unattraktiv macht. Wie dem aber auch sei, heute betreten wir Station Delta und finden zumindest einige Hinweise für unsere weitere Erkundung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

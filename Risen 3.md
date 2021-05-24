@@ -887,6 +887,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #64
+
+* Titel: `Risen 3 - #64 - Koboldhöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wieder finden wir Höhlen die von diversen Monstern bewohnt sind. Oder Wesen die eigentlich einfach nur ihre Existenz fristen wollen. Und dann komme ich daher und töte sie alle. Nicht weil ich ein böser Mensch bin, nicht weil ich Schätze besitzen will, obwohl das auch okay ist, ich mag Schätze. Nein, ich tue es weil es süße Erfahrungspunkte gibt, Erfahrungspunkte die ich am Ende dann doch horte und für mich beanspruche ohne sie jemals wieder abzugeben oder auszugeben, man weiß ja nie wann man die Dinger nicht einmal braucht. Daher muss heute ein ganzer Koboldschwarm dran glauben. Für die Kobolde schlimm, für mich ein normaler Donnerstag. Ansonsten träumen wir heute ein wenig von Garcia, der redet zwar nicht wirklich viel mit uns und an sich erfahren wir nie das es Garcia war, ich sollte wirklich öfter die Geister in meinen Träumen fragen wie sie heißen damit ich hinter her auch andere Leute danach fragen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

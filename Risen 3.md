@@ -901,6 +901,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #65
+
+* Titel: `Risen 3 - #65 - Kristallportalschreck [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um es kurz zu machen, wir haben auf Calador von Eldric die Fähigkeit erhalten diese Kristallportale durch die die Schatten kommen zu zerstören. Das nutzen wir heute aus um genau das zu tun. Wahrscheinlich sind wir bereits ein wenig spät dran und das Portal hat schon den Kommandanten der hiesigen Kolonie verdorben, das wissen wir aber noch nicht sicher. Ein Offizier namens Severin ist sich aber sicher das wir die Gefahr hier bannen können wenn wir nur bis zum Portal vordringen und dort Dinge tun. Ich bin mir nicht ganz sicher was genau Severins Plan gewesen wäre wenn wir nicht über die Fähigkeit verfügt hätten es zu zerstören. Wahrscheinlich hätte er einfach nur bis in alle Ewigkeit dafür patrolliert und alles erschossen das heraus gekrochen käme. Auf Dauer klingt das allerdings nicht nach einen Plan den man unbedingt alleine ausführen möchte, insbesondere wenn man weiß das sich hinter dem Portal anscheinend dunkle Mächte aufhalten die uns nichts Gutes wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

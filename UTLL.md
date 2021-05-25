@@ -114,6 +114,25 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
   ```
 
+##### #9
+
+* Titel: `Uncharted Lost Legacy - #9 - Rubin der Königin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man eines der neuen Uncharted Spiele durchgespielt hat kann man am Ende zusätzliche Inhalte freischalten in dem man dafür Punkte ausgibt. Diese Punkte erhält man wenn man Artefakte findet oder irgendwelche anderen Bedingungen erfüllt. Es stellte sich heraus das ich im letzten Teil einige Artefakte übersehen habe. Man könnte fast sagen mehr als die Hälfte. Da ich dies inakzeptabel fand hat sich auch Naughty Dog in der Vergangenheit gedacht das dies nicht sein muss und ein neues Feature hinzugefügt: Der Rubin der Königin. Das gute Stück blinkt und vibriert immer wenn wir in die Nähe eines Schatzes kommen, für eine Glückssucherin wie Chloe ist das natürlich genau das richtige Artefakt. Wenn man ehrlich ist wäre das Artefakt übrigens auch nichts für Nathan Drake gewesen, der hätte damit wahrscheinlich eher doof aus gesehen und es wäre einfach nicht kleidsam gewesen. Jetzt haben wir ein neues Armband und es wird uns bestimmt um Einiges reicher machen. Toll!
+  
+  0:00 - 20:55: Gameplay
+  20:56 - 21:30: das letzte Artefakt
+  21:31 - 25:40: Gameplay
+  25:41 - 2757: Rubin in Aktion
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
 ##### #Nummer
 
 * Titel: ``

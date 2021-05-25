@@ -72,6 +72,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #6
+
+* Titel: `Subnautica Below Zero - #6 - Goldsucher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, ich habe nicht plötzlich "meine" Schwester vergessen, aber es stellt sich heraus das man für die Konstruktion einer Basis zuerst ein Konstruktionswerkzeug braucht. Dafür braucht man allerdings spezielle Schaltkreise die Teile eines Pilzes benötigen, Kupferkabel und halt auch Gold. Den Pilz finden wir recht schnell, insbesondere weil ich im Vorfeld bereits gesichtet habe an welcher Kante eben jener Pilz wächst. Nicht ganz so einfach habe ich es allerdings mit dem Gold. Das findet sich zwar auch in Steineinschlüssen aber die sind nicht besonders häufig, insbesondere weil ich einen ganz besonderen Einschluss brauche. Daher schwimmen wir heute ziemlich viel im Kreis beim Versuch eben jenen Einschluss ausfindig zu machen, am Ende sind wir aber erfolgreich und können nun endlich mit dem lästigsten Teil des Spiels beginnen: wir bauen eine Basis. Selbstverständlich werde ich mich versuchen kurz zu fassen, aber wir müssen irgendwo Batterien aufladen und das können wir halt nicht in unserer Überlebenskapsel machen. Daher bleibt uns kaum ein anderer Weg als ein Infrastruktur zu schaffen. Aber alles wird gut, und danach können wir in die Wildnis schwimmen und rausfinden was unserer Schwester passiert ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

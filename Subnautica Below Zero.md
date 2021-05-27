@@ -86,6 +86,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #7
+
+* Titel: `Subnautica Below Zero - #7 - Basisbau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, diese Episode musste ja kommen. Ich hatte quasi keine andere Wahl. Später werde ich noch viel Spaß mit der Seebahn haben aber letztendlich brauchen wir halt irgendwo eine zentrale Stelle an der wir unsere Gegenstände aufbewahren. Und diese zentrale Stelle muss irgendwann einmal erbaut werden. Das passiert heute, viele Leute, zumindest so weit ich das mitbekommen habe, sehe den Basisbau als integralen Bestandteil von Subnautica und am Ende kommen durchaus interessante Anlagen heraus, aber dadurch das wir ja nicht wirklich in der Station leben oder da Dinge tun habe ich das Gefühl das ich nicht zu viel Zeit damit verbringen will diesen Ort zu errichten. Anders wäre das übrigens wenn ich das Spiel in VR spielen würde oder das Ganze eine Multiplayersitzung wäre. Und doch, heute baue ich ein wenig. Übrigens nur um am Ende dann nicht besonders weit zu kommen weil mir für viele Dinge noch die Bauteile fehlen und für Andere quasi alle Ressourcen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #8
+
+* Titel: `Subnautica Below Zero - #8 - Station Null [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich war ich schon in der letzten Episode in der Nullstation, ich hatte auch nicht damit gerechnet heute hier zu sein aber irgendwie hat sich das so ergeben. Generell und überhaupt versuche ich doch sehr die Hinweise des Spieles zu ignorieren und lieber andere Dinge wie freies Erkunden zu tun, die große Sauerstoffflasche ist zum Beispiel immer noch abwesend. Davon einmal abgesehen findet man doch recht häufig einfach etwas wenn man irgendwelchen Hinweisen oder Spuren folgt. Für den Moment auf jeden Fall, ich nehme an hinterher in der dunklen Tiefsee könnte sich das durchaus ändern. Ich erinnere mich wie das damals im ersten Teil war. An der Oberfläche konnte man mit Leichtigkeit erkunden, aber spätestens wenn es in die Tiefe geht kann man nicht mehr so einfach frei umherschwimmen. Dann braucht es schon ein wenig mehr als nur Glück um jede Menge Tagebucheinträge über die eigene Schwester und all ihrer Arbeitskollegen zu finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

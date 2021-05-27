@@ -915,6 +915,34 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #66
+
+* Titel: `Risen 3 - #66 - Plantagenreste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Von der alten Plantage auf Takarigua ist irgendwie nicht mehr viel üblich. Irgendwie dachte ich ja das die Insel alles ein wenig besser überstanden hat aber so wie die Dinge stehen wurde hier wohl der Einfluss der Schatten am meisten zu spüren gewesen sein. Ich bin mir allerdings nicht ganz sicher ob es wirklich die Schatten waren die letztendlich dafür gesorgt haben das die reichhaltigen Plantagen und Quelle des Zuckerrohrs auf der Insel wirklich durch die Schatten vernichtet wurden. Es gibt auf so gut wie jeder tropischen Insel die Feuervögel, wenn der Name nicht nur daher rührt das die Vögel rote Federn haben und sie wirklich die Fähigkeit besitzen Dingen zu verbrennen habe ich eine ziemlich gute Vorstellung was genau hier passiert ist und warum nicht mehr viel von der Zuckerrohrquelle übrig ist. Aber so schlimm ist es auch nicht, es gibt eh niemanden der das Zeug noch hätte verarbeiten können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #67
+
+* Titel: `Risen 3 - #67 - Hawke der Raubvogel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute erwartet uns ein kleines amüsantes Detail. Wir treffen einen Typen namens Hawke, außerdem lernen wir das es anscheinend eine Spielmechanik gibt die ich vorher erfolgreich ignoriert habe. An bestimmten Lianen kann man einfach so hochklettern. Dazu gibt es natürlich keine Animation und man ist dann einfach oben wie in einen sehr alten Spiel aber an und für sich funktioniert das halt. Das führt dazu das wir uns auf einmal auf einen ziemlich hohen Berg befinden auf dem wir einen Adler treffen. Warum sind wir überhaupt da? Weil ein Typ anscheinend den Ex-Koch bestohlen hat. Der behauptet zwar es war nur ein sich seltsam verhaltener Vogel aber der Papagaienflugzauber ist ja nun wirklich kein Geheimnis. Auch wenn mir ein wenig schleierhaft ist das wirklich Hinz und Kuns den Benutzen können. Man möchte doch meinen das auch die Anwendung "fertigen" Voodoos ein wenig Handwerkskunst benötigt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -133,7 +133,35 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
   ```
 
-##### #Nummer
+##### #10
+
+* Titel: `Uncharted Lost Legacy - #10 - Parashumaras Bogen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe eine kleines Buch das die Mythen der Welt behandelt. Ziemlich oberflächlich und wenn ich ehrlich bin ist es auch nicht besonders auf indische Mythologie fokussiert aber es ist recht leicht zu lesen weil es viele bunte Bilder hat und es erzählt die Dinge ganz schön. Die diversen Waffen die wir hier finden haben alle irgendwie einen mythologischen Hintergrund. Der Bogen ist dabei wahrscheinlich nicht einmal die Waffe die man am wenigsten erwarten würde. Was ich mit dem Namen des Gegenstandes auf jeden Fall sagen will ist das wir einen weiteren Tempel erobern und leerräumen der am Ende dann das große Tor öffnet. Für den Moment kann ich aber noch nicht so richtig sagen was das alles bringen wird. Nur das wir dieses Mal ein wenig weniger Rätsel lösen müssen und stattdessen mehr klettern müssen. Aber darin sind wir ja Experte nicht wahr?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #11
+
+* Titel: `Uncharted Lost Legacy - #11 - Ganeshas Dreizack [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist die nächste Waffe, übrigens ein sicheres Anzeichen dafür das wir jetzt nicht mehr soviel Zeit damit verbringen sinnlos durch die Gegend zu springen und irgendwelche Touristengegenstände an zu sammeln. Stattdessen wird sich jetzt auf harten Fortschritt fokussiert damit es auch endlich mal richtig vor ran geht. Der letzte Tempel hat weder ein Kletterrätsel noch eines mit Kombination, stattdessen müssen wir den Boden mit einer Reihe böser Buben tränken. Ich bin mir nicht sicher wie sehr die Rebellen stattdessen in der ganzen Geschichte drin stecken, könnte mir aber durchaus vorstellen das viele von ihnen Familie und enge Freunde haben die glauben das sie für eine gerechte Sache kämpfen. Wir erinnern uns an das Kind vom Anfang das uns erzählt hat das ihr Vater in der Armee kämpft und etwas für das Land tun. Was ist mit den Kindern von den Leuten die wir umbringen? Schon komisch wie man sich um solche Dinge mehr Gedanken macht wenn man älter wird. Ich habe jetzt übrigens kein Wort darüber verloren wie es sich um einen Dreizack als Waffe der Wahl handelt, ich habe das überprüft, das gute Stück ist anscheinend wirklich historisch. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #12
 
 * Titel: ``
 

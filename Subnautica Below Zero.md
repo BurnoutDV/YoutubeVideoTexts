@@ -114,6 +114,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #9
+
+* Titel: `Subnautica Below Zero - #9 - Tauchgänge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder in der Welt generischer Episodentitel. Heute im Peto: Tauchgänge. In einem Spiel das sich da Subnautica nennt ist das jetzt alles andere als überraschend. In einem Spiel das Tauchen als Hauptbeschäftigung hat machen wir Tauchgänge. Aber immerhin scheint die Welt voller wasserdichter Technik zu sein. Das macht es auch möglich für uns eben jene Technik zu finden und wissen daraus zu extrahieren. Zum Beispiel finden wir heute weitere Aufzeichnungen von Fred der scheinbar die große Entdeckung gemacht hat die letztendlich dazu geführt hat das unsere Schwester verstorben ist. Das Verhalten von Alterra scheint interessanterweise Fred nicht besonders aufgeschreckt zu haben. An sich macht das den guten Fred zu einen guten Mitarbeiter, ein Typ der keine Fragen stellt und einfach nur tut. Besonders ambitioniert und intelligent wird er wahrscheinlich generell nicht vorgehen und sich eher an den kleinen Freuden des Lebens freuen. Un-Kreative Mitarbeiter sind hoch im Kurs kann ich mir vorstellen. Sam war weniger un-kreativ, und das hat bestimmt zu Problemen geführt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #10
+
+* Titel: `Subnautica Below Zero - #10 - Seebahn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist sie endlich. Lange Zeit habe ich mich nur mit eigener Muskelkraft und der Macht des Seegleiters fortbewegt, jetzt ist es aber an der Zeit sich einer anderen Macht zu übergeben. Der Macht der Seebahn. Das gute Stück ist, soweit ich das sehen kann, ein wenig anders aufgebaut als es die Seemotte im Vorgänger war. Statt einer eigentlich ziemlich fertigen Einheit haben wir hier ein modulares Konzept das uns ermöglicht unser Schiff wachsen zu lassen und ganz abhängig von unseren Ansprüchen zu erweitern. Das klingt für das Erste interessant aber ich bin ehrlich gesagt ein wenig besorgt das mir das Prinzip nicht soviel Freude bereiten wird. Die Seebahn scheint mir ziemlich anfällig gegen alle möglichen Arten von Raubfischen zu sein und ich kann mir nicht vorstellen das wir irgendwann ein Raketenwerfermodul erhalten werden. Auch nervig ist das die Seebahn scheinbar nur eine Art von Energiequelle hat und die ist vorne im Antriebswagen, dadurch das wir hinten anbauen sind wir am Ende eine ziemlich lange Schlange und das Ding hat nicht einmal ein Rückspiegel!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

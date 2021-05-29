@@ -163,6 +163,34 @@
 
 ##### #12
 
+* Titel: `Uncharted Lost Legacy - #12 - das Tor nach Halebid [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir machen endlich Fortschritte. Das erzähle ich schon die ganze Zeit aber jetzt ist es auch endlich greifbar. Wir stehen kurz vor der Tür die uns in das legendäre Halebid führt, jene Stadt die scheinbar durch die Hybris des letzten Herrschers untergegangen ist. Die Perser waren aber der Sage nach nicht so erfolgreich und es soll bis heute dort das große Horn geben. Dieses verspricht uns aus irgendwelchen Gründen grenzenlosen Reichtum. Mir ist übrigens nicht so ganz bewusst wie genau wie wir einen Gegenstand so gewinnbringend verkaufen wollen das es am Ende für zwei Personen reicht. Und eigentlich viel wichtiger, an wen wir das gute Stück am Ende auch verkaufen. Weil letztendlich müssen wir ja auch jemanden finden der über das notwendige Kleingeld verfügt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #13
+
+* Titel: `Uncharted Lost Legacy - #13 - die "Krypta" [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir mitten in Halebid, wir wissen das die Perser hier gewütet haben und die Stadt erfolgreich vernichtet hatten. Was wir finden sind dementsprechend eine Menge Leichen, es spricht übrigens einiges dafür das es sich nicht um einen entscheidenden Sieg handelte, andernfalls kann ich mir nicht vorstellen das wir irgendwelche Leichen mit Waffen und Rüstungen finden. Solche Dinge kosten schließlich Geld und Zeit, kann man ja nicht einfach verschwinden lassen. Und je nachdem wie die Perser drauf waren lag ihnen vielleicht auch daran die Zeugnisse ihrer Widersacher zu beseitigen. Stattdessen finden wir eine unterirdische Krypte in der ziemlich viele Leute "begraben" wurden. An sich hat man aber anscheinend damals nicht direkt Leute begraben, es handelt sich also nicht absichtlich um eine echte Krypta,  die Leute sind halt nur einfach tot und liegen in einer Kammer die überraschenderweise aussehen wie eine Krypta. Purer Zufall.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

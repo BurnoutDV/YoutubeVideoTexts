@@ -943,6 +943,34 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #68
+
+* Titel: `Risen 3 - #68 - Puerto Sacarico [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder haben wir ein Stück Tradtion vor uns. Ganz Takarigua ist ja ein wenig so eine Art Gedächtnisveranstaltung für uns aber Puerto Sacarico ist ein ganz besonderer Ort. Hier war es das wir damals als unbekannter Held der ersten Stunde von der Inquisition als Agent ausgesetzt wurden um dann später ein richtiger Pirat zu werden. Hier hat damals alles angefangen als die große Quest gegen Mara ihren Lauf nahm, hier wurde ein großer Pirat unter der Hand von Kommandant Sebastiano geboren der uns hier absetzte. Wir werden natürlich später auch mit ihm sprechen aber für den Moment huldigen wir vor allen Dinge dem Ort. An sich ist alles auch so da wie vorher, einige Unterschiede fallen aber schon auf. Zum Beispiel fehlt der gute Gouverneur de Fuego, wir wissen aber bereits das der Mann tot ist, meine Verwunderung hält sich dementsprechend in Grenzen. Leider sind die Protektoren leider mehr geworden, das macht lukrative Raubzüge ein wenig schwieriger als erwartet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #69
+
+* Titel: `Risen 3 - #69 - Kommandant Sebastiano [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da treffen wir ihn endlich, den großen Kommandant Sebastiano, den Mann den wir schon früher kennen gelernt haben als wir noch jemand anders waren. Sebastiano war schon immer ein strikter Mann der die Prinzipien der Inquisition wortwörtlich verfolgt hat. Ein Mensch dem es enorm wichtig war das alle Regeln eingehalten wurden, egal wie wichtig tatsächlich die Realität war und wie wenig die Regeln eigentlich die praktischen Probleme behandelt haben. Mittlerweile hat sich der Mann sogar dazu aufgeschwungen die Reste von dem was die Inquisition noch ausmacht anzuführen und auch die Herrschaft über Porto Sacarico zu übernehmen. Wir wissen das hier eigentlich ein Gouverneur namens Di Fuego stehen sollte aber wir wissen eben auch das der gute Mann ziemlich tot ist und das in seinem Körper ein Schwert steckte das man wohl in das Besitztum unseres oben erwähnten Kommandanten zuordnen kann. Lange Geschichte kurz, ich glaube der Mann ist korrupt. Vielleicht sogar schon immer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

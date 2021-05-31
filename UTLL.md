@@ -189,6 +189,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
   ```
 
+##### #14
+
+* Titel: `Uncharted Lost Legacy - #14 - das Aquädukt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich musste für den Titel dieser Episode nachschauen ob es das oder der Aquädukt ist, außerdem wir man Aquädukt schreibt, meine erste Idee war nämlich "Aquadukt", das ist zwar fast richtig und der Wasserwortstamm passt auch ist aber trotzdem falsch. Man kann übrigens beides sagen. Zum Inhalt, wir finden heute heraus das anscheinend die ganze große Stadt nur ein riesengroßer roter Hering war der eventuell herannahende Perser in die Irre führen sollte. Warum das Ganze und warum so aufwendig ist mir übrigens noch nicht ganz klar. Mir würde doch so scheinen das man das Alles wesentlich einfach hätte haben können. Aber was weiß ich schon von früh indischer Täuschungstaktik? Das führt aber auch dazu das wir natürlich irgendwie auch am völlig falschen Ort gewesen sind und unsere Reise weiter geht. Wie schön.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #15
+
+* Titel: `Uncharted Lost Legacy - #15 - Nandi die Regenkuh [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ein Buch das ziemlich grob die Sagen und Fabelwesen verschiedener Kulturkreise zusammenfasst. Das ist sehr populärwissenschaftlich und oberflächlich, aber Nandi der Stier kommt darin tatsächlich vor. Zu lesen ist darin das Shiva auf dem weißen Stier Nandi reitet. Er ist ein Symbol für Pflicht, Stärke und Fruchtbarkeit. Weiter berichtet er das man quasi an jedem Tempel eine Nandi Statue finden kann. Dementsprechend müssen wir jetzt die Augen nach einem Tempel offen halten. Sollte nicht so schwer sein, technisch gesehen steht hier an jeder Ecke eine Statue rum. Erstaunlich finde ich aber das schon wieder soviel Mechanik verbaut wurde. Soviel Zeug das Leute auf die richtige Spur lenken soll obwohl doch die andere Stadt, Halebid, eigentlich doch eine Ablenkung sein sollte. Alles ist ein wenig rätselhaft für mich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
 ##### #Nummer
 
 * Titel: ``

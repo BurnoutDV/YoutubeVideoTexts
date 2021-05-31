@@ -142,6 +142,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #11
+
+* Titel: `Subnautica Below Zero - #11 - Diamanttiefen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein ich finde nicht auf einmal eine sehr hochqualitative Höhle. Allerdings finde ich eine Höhle in deren Tiefen sich tatsächlich Diamanten finden lassen. Das ist ziemlich praktisch für mich weil meine weitere Forschung und Erkundung definitiv Diamanten braucht. Wie erfreulich es aber auch ist das auf einer Welt die scheinbar keine wirklichen Ansammlung von Kohlenstoff besitzt Diamanten direkt an der Oberfläche zu finden sind. Ich nehme stark an das dies mit irgendwelcher vulkanischen Aktivitäten zu tun hat. Ich gebe gerne zu das ich in der ersten Reihe stehe wenn es darum geht keine Ahnung von der Geologie und Prozessen zu haben die dafür sorgen das Diamanten irgendwo auftauchen. Alles was ich weiß ist das die Dinger brennen und hohen Druck zur Herstellung brauchen. Umso ärgerlicher das wir zur Herstellung erweiterter Basiskomponenten eben jene brauchen. A pro pro Basis, heute erweitern wir sogar ein wenig und probieren uns mit Farben. Aufregend oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #12
+
+* Titel: `Subnautica Below Zero - #12 - geothermales Lithium [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich in der letzten Beschreibung darüber geredet habe wie wir unbedingt Diamanten brauchen um weiter zu kommen habe ich anderen Materialien noch nicht erwähnt die ebenfalls fehlen, es wäre aber auch zu einfach wenn wir einfach so alles finden würden. Ein Elefant im Raum ist allerdings Lithium, hier von brauchen wir nicht nur ein paar Brocken wie es beispielsweise bei Gold der Fall ist sondern raue Mengen. Schon um unsere Basis stabiler zu machen brauchen wir eine Menge davon. Eine Menge Ressourcen die wir nicht ohne Weiteres stemmen können wenn man nur hier und dort ein paar Brocken findet. Und dann fahre ich aus Versehen über eine geothermale Quelle und alle Lithium-Sorgen haben sich erledigt. Schön wie die Dinge manchmal laufen. Das bedeutet aber auch das wir jetzt noch viel mehr bauen können. Großartig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

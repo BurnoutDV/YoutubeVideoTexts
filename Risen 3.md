@@ -971,6 +971,34 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #70
+
+* Titel: `Risen 3 - #70 - der Schatz in den toten Landen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Takarigua ist nun wirklich zu Ende erkundet, wir haben die Leute die Sebastiano tot sehen wollen nicht verraten sie aber darüber informiert, das Gold ihres Todes dennoch kassiert und generell und überhaupt alles getan was man auf diesem letzten Posten der Inquisition wohl noch tun kann. Die Dinge stehen wie sie stehen und alles was bleibt ist nur noch ein letzter Schatz den wir heben können, ein Schatz mit einem legendären Gegenstand. Ich rechne fest damit das damals als der Schatz vergraben wurde es hier noch wesentlich besser aussah. Eine unbekannte Zeit in der Vergangenheit als wir das letzte Mal hier waren sah es ja auch noch besser aus. Damals waren wir aber noch jemand anderes. Manchmal frage ich mich ja doch sehr was aus dieser Person geworden ist. Warum erwähnt sie niemand? Müsste der Typ mit der Augenklappe nicht berühmt sein oder so?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #71
+
+* Titel: `Risen 3 - #71 - Rosco der Träumer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich muss die Aussage das wir Takarigua durchgespielt haben noch einmal zurücknehmen. So wie es aussieht gibt es hier doch noch etwas zu entdecken. Einer dieser Sachen ist Rosco, anscheinend ein jüngerer Pirat der seltsame Träume von Reichtümern hat, inmitten der Schattenland campiert und auch ansonsten seltsam losgelöst von der Realität scheint. Außerdem gibt es hier wohl noch einen Schattenlord des Wahnsinns, letzterer ist aber ein kleineres Problem für uns und von geringer Bedeutung. Dennoch stimmte meine Aussage das es nur noch eine kleine Sache gibt nicht. Von den vielen Tonnen an Erfahrung die wir uns beinahe hätten entgehen lassen einmal abgesehen. Leider ist das ansammeln von Erfahrungspunkten eine ziemliche Sisyphusarbeit.  Aber irgendwie muss man ja die Spielzeit strecken, wäre auch zu viel verlangt wenn wir stattdessen Story erleben würden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

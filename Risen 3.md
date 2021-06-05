@@ -999,6 +999,72 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #72
+
+* Titel: `Risen 3 - #72 - Unermesslicher Reichtum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt jetzt vielleicht überraschend aber der heutige Titel ist ein wenig irreführend, wir werden nicht reich. Das liegt schon daran das man für Reichtum arbeiten muss. Niemand gibt einen einfach so irgendwelches Geld ohne das man dafür eine Gegenleistung leisten muss. Zumindest nicht in der Realität in der ich lebe. In Risen ist das auch nicht anders nur das hier unsere Auftragsgeber in der Regel schon ein wenig Geld springen lassen nur sind unsere Einnahmen durch die Veräußerung von Diebesgut einfach wesentlich höher. Auch das Verkaufen von Waffen und Ausrüstung gefallener Gegner hat sich überraschenderweise als ziemlich profitable erwiesen. Diesen Tipp sollten wir aber wohl lieber nicht einfach jeden daher gelaufenen Piraten geben. Die könnten sonst noch auf kreative Ideen kommen, das möchte ich doch eher vermeiden. Die Ausgrabung heute ist aber besonders unerfolgreich. Immer lernen wir eine wichtige Lebenslektion obwohl das Gesehene andere Fragen aufwirft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #73
+
+* Titel: `Risen 3 - #73 - Admiral Alvarez [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es lange herausgezögert aber jetzt ist es soweit, wir begeben uns nach Antigua um dort mit Admiral Alvarez zu reden. Ich nehme stark an das er mir dann die Erlaubnis gibt uns irgendeiner Gemeinschaft anzuschließen, dann müssen wir nur noch die individuellen Herausforderungen der Fraktionen abschließen und dann wird es wohl bald zum Endkampf geben. Ich kann mir zumindest nicht vorstellen das jetzt noch allzu viel kommt, schließlich haben wir doch schon mächtig vorgearbeitet. Der alte Admiral ohne eigenes Schiff oder Flotte oder Armee hat sich seit dem letzten Teil nur wenig verändert, man könnte sogar sagen das er immer noch genauso aussieht. Das wirft dann aber Fragen auf wieviel Zeit nun wirklich seit der Katastrophe mit Mara vergangen ist. Scheinbar ja nicht viel, Alvarez ist nicht mehr der Jüngste und doch wirkt er noch ziemlich fit, wären Jahrzehnte seit der letzte Installation vergangen wäre der Mann schon im Rollstuhl oder bettlägerig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #74
+
+* Titel: `Risen 3 - #74 - Befreiung Antiguas [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint so als wäre die Ausfahrt nach Antigua nicht ganz so einfach wie ich mir das vorgestellt hatte. In meiner Vorstellung hätte das so ausgesehen das wir da hin fahren, kurz mit Alvarez sprechen und dann wieder auf unserem Weg sind, einfach weil ich gedacht hätte das diverse Piraten eigentlich ziemlich gut darin sein sollten sich zu wehren, sind ja keine Waschweiber. Stellt sich aber heraus das die Zeit der großen Piratenkapitäne anscheinend vorbei ist und die einzigen Leute die noch in Antigua rum hängen eine Bande von Trunkenbolden ist die offensichtlich nicht in der Lage sind ein paar lächerliche Schatten-Hunde ab zu wehren. Was jetzt kommt ist ziemlich offensichtlich, wir als namenloser Held der zweiten Stunde müssen die Arbeit machen die alle anderen Leute nicht machen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #75
+
+* Titel: `Risen 3 - #75 - namenloser Bote [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein großes Problem das ich bisher mit allen Piranha Bytes Spielen außer vielleicht Gothic 1 hatte war das sich die Welten irgendwie nie lebendig anfühlen. Das liegt unter Anderem daran das sich nichts verändert, klar wir sind nur wenige Tage vor Ort aber irgendwas müsste sich doch tun oder? Irgendwer müsste doch Handel treiben, irgendwer auf Bootenfahren raus gehen. Klar es ist die Endzeit aber es kann ja nicht sein das wir der Einzige Kapitän sind der überhaupt irgendwo hin raus fährt. Generell und überhaupt kommt es mir so vor als wäre die Welt eingefroren. Es wird nicht einmal erwähnt das es vielleicht andere Leute gibt die irgendetwas tun. Alles was wir sehen sind Leute die nicht einmal ihrer Arbeit nachgehen sondern nur sinnlos irgendwo in irgendwelchen Ecken rumstehen. Das ist insofern schon witzig wenn man bedenkt das Gothic 1 damals dafür gelobt wurde das die Leute einen Tagesablauf hatten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

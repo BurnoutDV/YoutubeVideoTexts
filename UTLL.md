@@ -217,6 +217,76 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
   ```
 
+##### #16
+
+* Titel: `Uncharted Lost Legacy - #16 - Elefantenritt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ehrlich gesagt sogar ein wenig beeindruckt wie uns The Lost Legacy tatsächlich ziemlich viele coole neue Dinge gibt die es in Uncharted 4 nicht gab. Effekte die man so nicht gesehen hat bzw. Mechaniken von denen ich nicht glaube das es sie im Vorgänger gegeben hat. Wie dem aber auch sei, heute reiten wir auf einen Elefanten. Ich weiß, ein Elefant, kein Stier und schon gar keine Regenkuh wie es Nandi eigentlich gewesen wäre. Das ist ein klein wenig enttäuschend aber wir alle haben unser Päckchen zu tragen und daran kann ich jetzt auch nichts mehr ändern. In mir steigt grade der Drang auf nachzuschlagen wie gut Elefanten tatsächlich Menschen auf ihren Rücken tragen können, aber im Gegensatz zu Pferden sollte es wohl ganz gut gehen nehme ich an. Solange man nicht auf die Idee kommt irgendwelche sinnlosen Aufbauten drauf zu stellen würde ich mal behaupten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #17
+
+* Titel: `Uncharted Lost Legacy - #17 - Kunst & Kultur [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach einer kurzen Phase der Verwirrung sind wir jetzt wieder auf Kurs. Und das Ganze hat uns nur einen minimalen Blutzoll und den tot einiger vieler Freiheitskämpfer gekostet. Ich weiß immer noch nicht um welche Sache die Männer von Asav kämpfen. Es muss irgendwas sein das nicht total abwegig ist, anders kann ich mir nicht erklären das es doch recht viele Menschen gibt die sich hinter seinen Plänen stellen. Asav selber wirkt wie ein Wahnsinniger den es vor allen Dingen um die Macht geht aber seine Leute müssen ja an irgendwas glauben. Unser Gegenspieler ist ja kein Gangsterkartell oder Söldnerarmee die nur aus persönlichen Bereicherungsgründen hinter der ganzen Geschichte stehen. Wie dem aber auch sei, wir bringen die Typen trotzdem um, sie stehen im Weg. Als Dank dafür entdecken wir das was vom alten Belur übrig geblieben ist, eine Menge Kultur. Die alte Hauptstadt hat doch einiges zu bieten, wenn auch nur in den inneren Kammern. Der Zyniker in mir sagt das die einfachen Leute trotzdem hungern mussten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #18
+
+* Titel: `Uncharted Lost Legacy - #18 - das Schwimmbad [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir scheinen uns tatsächlich weniger durch eine Stadt als durch eine Art Palast zu bewegen. Das ist ein wenig enttäuschend wo es doch am Anfang hieß das es sich bei der Stadt Belur halt um eine Stadt handelt. Dafür müssten wir jetzt aber auch andere Dinge finden oder? Botenquartiere, Unterkünfte für die einfach Leute, weniger reich verzierte Gänge und Lagerräume für all die Vorräte die so eine Stadt unweigerlich verbraucht. Stattdessen finden wir einfach nichts davon und latschen durch einen reichverzierten Gang nach dem Anderen. Immerhin finden wir das örtliche Schwimmbad aber darin auch wieder Reichtümer. Mir drängt sich auch irgendwie der Verdacht auf das vom einfachen Volk Belurs niemand dieses Schwimmbad jemals benutzen durfte. Wäre ja auch zu schön wenn der dreckige Pöbel das Badegemach einer Königin benutzt. Alles in Allem habe ich Zweifel ob der Herrlichkeit des alten Königreiches. Andererseits hat auch niemand behauptet das es gute Menschen waren, nur das sie reich waren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #19
+
+* Titel: `Uncharted Lost Legacy - #19 - das dritte Auge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sicher laufen alle Fäden zusammen und wir finden die letzten Hinweise auf den großen Stoßzahn von Ganesha. Leider stellt sich dabei auch noch ein gewisser Mangel heraus. Wir haben zwischendurch die Scheibe an Asav verloren und es sieht irgendwie alles so aus als bräuchten wir die gute Scheibe noch für etwas. Aber zu erst müssen wir sowieso das dritte Auge von Shiva öffnen. Das steht entweder für Weißheit bzw. Erleuchtung oder Zerstörung. So wie ich die Uncharted Spiele kenne kann ich mir irgendwie jetzt gut vorstellen wie verhindert wird das noch irgendjemand Anderes die legendäre Stadt Belur findet.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #20
+
+* Titel: `Uncharted Lost Legacy - #20 - Ganeshas Horn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir am Ziel, an sich sollte das ja keine Überraschung sein schließlich machen "wir" das ja nicht zum ersten Mal. Und damit sind sowohl wir als Zuschauer als auch Chloe Frazer gemeint. Eventuell hilft es auch das wir quasi keine Fehler machen können die sich am Ende als fatal herausstellen weil wir dann einfach zurück in die Zeit gehen bevor wir den Fehler gemacht haben und dann mit unserer Erfahrung aus der Zukunft einen neuen Versuch wagen können. Lange Geschichte kurz, wir finden dann endlich das große Artefakt das wir vor haben für gutes Geld zu verkaufen, oder ans Kulturministerium zu vergeben. Ich bin mir übrigens nicht so sicher ob man Nationalstaaten überhaupt dazu bringen kann irgendeine Art von Finderlohn abzuholen. Weil so richtig Haushalt werden die dafür wahrscheinlich nicht haben, und am Ende könnte ein Staat ja immer behaupten das sie kein Finderlohn erhalten für etwas das ihnen schon immer gehört hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
 ##### #Nummer
 
 * Titel: ``

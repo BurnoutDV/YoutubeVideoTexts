@@ -2591,3 +2591,79 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
   Die GROßE Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
+
+## Blackwood - Dunkelforst - Finsterforst - Schwarzwald
+
+##### #1426
+
+* Titel: `Let's Play ESO #1426 - Ankunft im Dunkelforst [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 1 des Blackwood DLCs - Sitzung 1
+  
+  Und schon geht es wieder los. Wir sind erneut Aaliya die Vampir-Hochelfenelementarmagierin, Retterin der Welt, Nirns, der Realität und generell und überhaupt von Allem. Außerdem chronisch pleite und das ohne irgendein Suchthobby zu haben. Es ist wahrlich erstaunlich. Unsere neueste Expedition sieht auch nicht besonders profitabel aus so weit ich das von hier aus absehen kann. Es geht um Mehrunes Dagon und etwas das man die vier Ambitionen nennt. Darüber hinaus haben wir keine weiteren Informationen aber wir wissen immerhin das uns unser Weg nach Dunkelforst in die freie Stadt Leyawiin führt. Dort gibt es Menschen die eins unter dem letzten Langhaus-Kaiser gedient haben und eventuell weitere Informationen für uns haben. Wir treten also die lange Reise auf der Suche nach Blut, Reichtum und Anerkennung an. Erneut.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1427
+
+* Titel: `Let's Play ESO #1427 - Leyawiins Bevölkerung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 2 des Blackwood DLCs - Sitzung 1
+  
+  Ich habe ja schon angekündigt das ich alles ein wenig langsam angehen möchte, daher sprechen wir heute eine ganze Episode nur mit irgendwelchen NPCs um die Welt ein wenig aufzusagen. Ich kenne mich ja mittlerweile ein wenig aus wie das Storytelling von ESO DLCs abläuft und ich bin mir ziemlich sicher das wenn ich nicht aktiv nach Wissen such am Ende ziemlich viel einfach im obskuren Nebel des Unwissens verloren geht. Heute erfahren wir dann zum Beispiel eine Menge Dinge über den Rat der Legaten und stellen uns die offene Frage warum man in Leyawiin eigentlich überhaupt noch einen Rest-Monarchie behält. Wirklich, die Frage stellt sich doch oder? Die örtliche Gräfin scheint ja absolut nutzlos zu sein. Oder kann sich einfach niemand ein anderes System vorstellen und die Leute sind alle zu verkrustet in ihrem Weltbild? Antworten auf diese Frage werden wir wohl nie bekommen. Es ist Fantasy also muss es auch einen König geben.
+  
+  0:00 - 8:44: Gameplay
+  8:45 - 11:25: Über die Kammer der Legaten
+  11:26 - 21:48: Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1428
+
+* Titel: `Let's Play ESO #1428 - Ratsherrin Jirich [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 3 des Blackwood DLCs - Sitzung 1
+  
+  Wir sind grade einmal frisch im Dunkelforst angekommen und schon sterben die Leute links und rechts. Das ist übrigens auch gar nicht unsere Schuld. Als Mitglied der dunklen Bruderschaft und Diebesgilde kommt es ja in der Regel schon gelegentlich vor das wir unliebsame Zeugen entfernen müssen. Heute auf der Sterbesliste steht zum Beispiel Ratsherrin Jirich, wir wissen natürlich noch nicht das die gute tot ist aber ich gehe mal schwer davon aus das sie am Ende der Episode gestorben sein wird. Zwischendurch machen wir übrigens unseren ersten Ausflug in die Totenlande, anscheinend dem Reich von Mehrunes Dagon. Ich gebe übrigens sehr gerne zu das ich den Namen von Objekte und Orten sehr leicht vergessen. Es gibt einfach viel zu viele Dinge.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1429
+
+* Titel: `Let's Play ESO #1429 - ein tödliches Geheimnis [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 4 des Blackwood DLCs - Sitzung 1
+  
+  Eigentlich heißt unsere große Mission schon die ganze Zeit "ein tödliches Geheimnis". Besagtes Geheimnis ist die genaue Tätigkeit von Ex-Kaiser Leovic der anscheinend irgendeinen Deal mit Mehrunes Dagon gemacht hat, dabei geht es anscheinend um die 5 Ambitionen. Nein, ich habe keine Ahnung was das sein soll aber irgendjemand scheint daran interessiert zu sein den Deal zu erfüllen und das wollen "die" dann natürlich auch ohne weitere Störung erfüllen. Etwas fraglich ist warum man unbedingt Aufmerksamkeit mit irgendwelchen Morden darauf lenken will. Es könnte aber auch sein das erst die Recherche durch Eveli alles ins Rollen gebracht hat. Ärgerlicherweise scheinen die entsprechenden Leute nicht selber zu meucheln sondern haben die dunkle Bruderschaft beauftragt. Die ist eigentlich für ihre Verlässlichkeit bekannt und ich kann mir irgendwie kein Weg vorstellen der dabei helfen könnte die Bande davon abzubringen ihre Taten durchzuführen. Der Mord ist bezahlt/beauftragt, die dunkle Bruderschaft führt aus. Das sind religiöse Fanatiker, ich weiß das, ich bin selbst bei dem Verein. Scheitern ist keine Option, Sithis verlangt die Tat und das wird dann auch getan. Ich sehe also nicht besonders viele Optionen für die ehemaligen Ratsherren. Unter normalen Umständen könnte man das ja alles abwarten bis die Krise vorbei ist und die Mordlust abnimmt. Hier nicht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1430
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

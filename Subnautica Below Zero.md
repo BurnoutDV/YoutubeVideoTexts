@@ -170,6 +170,86 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #13
+
+* Titel: `Subnautica Below Zero - #13 - Fumarole [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute lernen wir das Fumarole eine Sache sind die es auch in der Realität sind, in der Regel bloß nicht so erreichbar wie es in Subnautica der Fall ist. Andererseits ist unsere Ausrüstung ziemlich fantastisch, das wirkt innerhalb des Spielkontexts zwar nicht so aber dem ist ziemlich sicher so. Und damit meine ich nicht unseren Fabrikator der quasi magisch aus einigen Grundmaterialien Dinge herstellen kann. Viel mehr spreche ich von unserer Sauerstoffflasche die sich so einfach wieder auffüllt, unser Beatmungsgerät das Tieftauchgänge zulässt und der Anzug der uns von den meisten Gefahren ziemlich sicher schützt. Kleiner Funfact übrigens, es gibt Fumarole in Wyoming (Murica) und dort gibt es die sogenannten "Roaring Mountains", der Name kommt von dem Geräusch das besagte Fumarole von sich geben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #14
+
+* Titel: `Subnautica Below Zero - #14 - Lithiumverstärkt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Lithium gefunden. Das heißt aber auch das wir wieder irgendwelche Dinge bauen, namentlich sind das heute Lithiumverstärkte Wände. Die brauchen wir damit unsere Basis den enormen Wasserdrücken standhält die sich ansonsten als außerordentlich kritisch für unsere Infrastruktur auswirken würden. Generell und überhaupt wäre es übrigens ziemlich schwierig irgendetwas unter Wasser zu bauen weil bereits die "kleine" Wassersäule von 10 Metern Tiefe ziemlich viel Gewicht auf einen Hohlraum wirkt. Um die Geschichte kurz zu machen, es hat einen Grund warum wir alles aus Titan bauen und nicht versuchen irgendwie Kupfer in Bronze zu schmelzen oder ähnliche Späße. Wir verwenden hier Weltraumtechnik weil wir es brauchen, nicht weil es auch anders gehen würde und wir uns besonders fancy fühlen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #15
+
+* Titel: `Subnautica Below Zero - #15 - AL-AN [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen vor ran. Ja ich weiß ich habe viel Zeit damit verbracht meine Basis auszubauen und mir so eine Art schönen Heimplatz zu errichten. Aber wir können ja nicht den ganzen Tag zuhause rumhängen auch wenn es wahrscheinlich gar nicht so schlecht wäre, dann könnten wir wenigstens das Haus genießen. Aber es gibt halt auch noch Markierungen auf der Karte die wir definitiv noch anschauen werden, und heute ist der richtige Tag um endlich nachzuforschen. Zum Beispiel haben wir erfahren das die Erbauer nicht so ausgestorben sind wie wir ursprünglich angenommen habe. Letztendlich erscheint mir das alles ein wenig wie eine Veränderung des ursprünglichen Kanons, schon deswegen weil der Karra Virus doch alle Erbauer umgebracht haben soll, jetzt erfahren wir das ihre Form eh nicht vollständig physische Körper waren, also Dinge enthalten haben die gar nicht sterben können durch irgendeine Art von Bedrohung in der normalen Welt, insbesondere nicht ein Virus oder ein Bakterium. Wenn also wirklich noch ein Erbauer rumliegt, warum ist er überhaupt noch da? Warum wurde er abgespeichert die Anderen aber nicht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #16
+
+* Titel: `Subnautica Below Zero - #16 - Aussichtspunkt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, ich baue schon schon wieder an meiner Basis herum. Ich fürchte das werde ich noch eine Weile öfter tun, eine Tätigkeit die, soweit ich das erkennen kann gar keinen wirklich Sinn ergibt. Niemand wird uns besuchen, wir sind alleine auf dem Planeten abgesehen von der einen anderen Frau. Es gibt niemand der uns in einer Multiplayer Session besuchen wird oder unsere Niederlassung beurteilt. Aber doch, ich habe einen gewissen Drang ein wenig mehr Glas auszubauen. Außerdem fällt mir auf das wir ja theoretisch an die Oberfläche mit unserer Basis gehen könnten. Es gibt dort draußen ja durchaus mehr zu sehen als nur das brennende Wrack der Aurora. Stattdessen gibt es da draußen große Eisschollen und einen Turm am Horizont. Diese Dinge sind es schon einmal wert eine Aussichtskuppel zu bauen. Witzigerweise kann man eine Sache an der Oberfläche nicht bauen...Solarzellen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #17
+
+* Titel: `Subnautica Below Zero - #17 - Glasausstattung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir bauen Unterwasser, anscheinend müssen wir uns nicht darum sorgen das das Glas aus dem unsere Basis besteht dreckig wird oder das wir es regelmäßig putzen müssen. Außerdem besitzen wir anscheinend Glas das den Druck in 17 Meter Tiefe ohne große Problem aushält. Weiter besitzen wir jetzt einige Diamanten die wir nutzen können um unsere Konstruktion die nötige Härte zu verpassen. Um es kurz zu machen..ich baue Dinge aus Glas einfach weil es mir Spaß macht und irgendwie auch ein wenig Freude bereitet diese Dinge anzuschauen. Meine letzte Basis in Subnautica war ein wenig langweilig, das lag aber auch daran das sie in einem Gebiet stand in dem es nicht besonders viel Tiefe gab. Diesen Fehler habe ich irgendwie auch wiederholt. Ein wenig ärgerlich, da muss ich gucken ob ich die Basis noch irgendwie umbauen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

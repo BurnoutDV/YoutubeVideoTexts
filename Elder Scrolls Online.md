@@ -2660,6 +2660,170 @@
 
 ##### #1430
 
+* Titel: `Let's Play ESO #1430 - Ratsherr Velan Sophus [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 4 des Blackwood DLCs - Sitzung 1
+  
+  Manchmal sind Dinge einfach vorhersehbar, es ist ein wenig schade aber letztendlich wüsste ich auch nicht wie man das Problem einfach umgehen kann. Wir haben eine Geschichte in der irgendwelche Leute in Lebensgefahr schweben und wir ein Rennen gegen die Zeit und die dunkle Bruderschaft starten. Das wir das Rennen schon aus dramaturgischen Gründen nicht komplett gewinnen können ist klar, und wenn wir bereits eine Person lebendig gefunden haben scheint es mir irgendwie ziemlich logisch zu sein das wir die zweite Person nicht mehr atmend antreffen. Wenn man dann auf dem Weg zur Haus des mutmaßlichen Opfers bereits den herrenlosen Hund antrifft ist der restliche Fall eigentlich schon. Lange Geschichte kurz, der gute Ratsherr Sophus ist natürlich schon tot und hat auch keine sachdienlichen Hinweise hinterlassen obwohl er viel mehr gewusst hätte als die noch lebenden Ratsherren.
+  
+  0:00 - 5:43: Gameplay
+  5:44 - 8:50: Buch: Ein Gespräch mit Gräfin Caro
+  8:51 - 18:38: Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1431
+
+* Titel: `Let's Play ESO #1431 - Kanzler Lovidicus [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 5 des Blackwood DLCs - Sitzung 1
+  
+  Technisch gesehen haben wir von Anfang an, schon als wir den Prolog gespielt haben, einen Auftraggeber, das war zwar ebenso technisch gesehen Evelin Scharfpfeil aber dahinter standen andere ehemaligen Größen des alten Kaiserreichs unter Kaiser Leovic der dank seines Kuschelkurses gegenüber den Daedra am Ende ein unangenehmes Schicksal erfuhr. Übrig blieben seine treuen Gefolgsleute, einer davon war Lovidicus, damals und heute Kanzler, anscheinend auch ein Titel den man behält selbst wenn man eigentlich gar keinen Reich bzw. Herrscher als Kanzler vorsteht. Staatenpolitik ist aber auch komplex, unabhängig davon ist der Mann nun irgendwie so was wir unser Auftraggeber weil er sich noch am meisten dafür interessiert was hier passiert. Ich frage mich übrigens wann Lyranth mal wieder auftaucht, aber wahrscheinlich erst nach dem wir alle Ratsherren gefunden haben.
+  
+  0:00 - 0:22: Einführung
+  0:23 - 1:46: Leovics große Geisterverlautbaurung
+  1:47 - 23:01: Gameplay
+  
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1432
+
+* Titel: `Let's Play ESO #1432 - Leyawiins Infrastruktur [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 6 des Blackwood DLCs - Sitzung 2
+  
+  Mit der Zeit erkenne ich immer wieder Muster an mir selbst. Teil meines Versuches besser in Dingen zu werden besteht darin eben jene Muster zu durchbrechen und alternative Wege zu finden etwas anzugehen. Ein Muster das ich bisher noch nicht brechen konnte ist das es mir in Lets Plays ziemlich oft passiert das ich mich beim erkunden ein wenig hinreißen lasse und dann aber eigentlich gar nichts erlebe. Heute zum Beispiel, wir laufen ein wenig umher, geben sogar die eine Quest ab von der Leiche die wir in den Totenländern gefunden haben aber so richtig was daraus ergeben hat sich für uns nicht. Dann sehen wir noch den Unterschlupf der Diebesgilde in der Stadt aber außer das ich mein Inventar leer kriege ergibt sich daraus auch nicht unbedingt ein Vorteil. es ist eigentlich schade das solche Orte nicht mehr Geschichte bergen. Nicht einmal ein Buch habe ich gelesen. Und das lieben ja nun alle.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1433
+
+* Titel: `Let's Play ESO #1433 - Festung Blaublut [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 7 des Blackwood DLCs - Sitzung 2
+  
+  Das Land besteht mehr als nur aus einer Hauptstadt, in der Regel gibt es eine wilde Ansammlung von Siedlungen und militärischen Einrichtungen die dafür sorgen das ein Gebiet gehalten werden kann. Und das trifft nicht nur auf die Grenzregionen zu, auch im inneren Land braucht es gelegentlich einige Stationen an denen man Soldaten aufbewahrt, ausbildet oder einfach nur zurückzieht. Nicht nur für das Ereignis eines Grenzbruches. Wie dem aber auch sei, der Zweck einer Festung ist also relativ klar. Jetzt kommt aber diese komische Komponente hinzu das Dinge in der Spielwelt von Elder Scrolls nicht immer so groß sind wie sie sein müssten. Ich finde allerdings das die Festung Blaublut das dümmste Exemplar seit langem ist. Wo schlafen die Soldaten, wie kommt man auf die Mauern. Gibt es noch andere Lagerräume? Wo sind all die Dinge die eine Festung ausmachen. Müsste es nicht eine Waffenkammer geben? Stattdessen finden wir einen Mord und hohe Mauern vor. Sehr seltsam. Hohe Mauern die dann gefühlt einen Tennisplatz einrahmen, mehr nicht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1434
+
+* Titel: `Let's Play ESO #1434 - Dienstbotin Talaise [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 9 des Blackwood DLCs - Sitzung 2
+  
+  Heute haben wir einen schönen Fall von "True Crime Investigation" im Elder Scrolls Universum. Wenn ich mich recht erinnere hat Eveli eine Menge von den den Detektivin Valla Büchern gelesen die sich in eine gewisse Geisteshaltung was plötzliche Tode und Morde angeht. Ich persönlich bin wesentlich zynischer, wenn jemand ermordet wurde und die Dienstbotin reingegangen ist und dann nicht wieder rauskam gehe ich davon aus das mein Gegner ein gewisses magisches Talent hat und sich unter der Maske der ebenfalls verschwundenen Dienstbotin versteckt. So eine Art von Magie braucht in der Regel ein Opfer und endet damit das das übernommene Gesicht nicht überlebt. Oder irgendwas vom Körper der Person. Natürlich prüfen wir dennoch alle Spuren pflichtbewusst nach um dann am Ende in irgendeinen dunklen Keller in ein Fass gestopft ziemlich sicher die Leiche zu finden.
+  
+  0:00 - 6:28: Gameplay
+  6:29 - 9:46: Buch: Der Orden der erwachenden Flamme
+  9:47 - 13:11: Dialoge
+  13:12 - 14:20: Buch: Delikatessen der Trans-Niben-Region
+  14:21 - 23:34: Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1435
+
+* Titel: `Let's Play ESO #1435 - die Gezeitenhöhle [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 10 des Blackwood DLCs - Sitzung 2
+  
+  Irgendwie klang das Wort Gezeitenhöhle wesentlich epischer als es dann am Ende war. Um ehrlich zu sein ist die Gezeitenhöhle sogar genau das womit man rechnet. Es ist eine Höhle die nur bei bestimmten Gezeiten zugänglich ist. Ich denke mal schuld ist die mystische Aufladung allermöglichen Begriffe mit einer tieferen Bedeutung die mich hat vermuten lassen das sich in der Gezeitenhöhle noch irgendetwas Anderes aufhält als nur Wasser und anscheinend einige verstaubte Akten. Oder verschimmelt. Es ist schließlich ziemlich feucht. Irgendwie hatte ich mit etwas epischen gerechnet, etwas Magischen. Wie dem aber auch sei, an Stelle von Wunder und Zauberei treten andere Fragen in den Vordergrund. Zum Beispiel: Wie genau bewahrt man in einer mittelalterlichen Welt Dokumente für lange Zeit in einer feuchten Höhle auf. So ein Salzstock ist ja eine Sache aber eine feuchte Meereshöhle? Schwierig. Wahrscheinlich kann man hier viel mit Magie erklären, aber trotzdem irgendwie nicht so leicht. Klar, Fässer sind schon ziemlich dicht und Wachspapier ist ein Ding..und doch...
+  
+  0:00 - 4:52: Gameplay
+  4:53 - 7:52: Buch: Vor den Toren Gideons
+  7:53 - 12:11: Dialoge mit Ratsherrin Faleria
+  12:12 - 13:51: Buch: Der Schrecken des Todesspringers
+  13:52 - 18:47: Gameplay 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1436
+
+* Titel: `Let's Play ESO #1436 - Ratsherr Vandacia [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 11 des Blackwood DLCs - Sitzung 2
+  
+  Eigentlich hieß diese Episode erst "Gideon", also einfach nur wie die Stadt die wir heute besuchen. Irgendetwas weiß ich auch über die Stadt, irgendwann habe ich bestimmt auch ein Buch darüber gelesen. Und damit meine ich nicht das aus der letzten Episode wo es darum ging das jemand das Tor aufgemacht hat. Wie dem aber auch sei, in Gideon gibt es einige Dinge die recht interessant sind, zum Beispiel Nebenmissionen die ich für den Moment aber erst einmal ignoriere. Das interessanteste ist aber definitiv Ratsherr Vandacia, wegen ihm sind wir eigentlich nach Gideon gekommen, um ihn vor einen Mordanschlag zu warnen, und das ist anscheinend auch geschehen. Wir kamen also zu spät. Die gute Nachricht ist aber das der Mann noch am Leben ist. Erfolg!
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1437
+
+* Titel: `Let's Play ESO #1437 - flüchtige Assassinen [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 12 des Blackwood DLCs - Sitzung 2
+  
+  Die heutige Episode könnte auch die Cross-Over Episode heißen. Wir sehen heute Inhalt von sowohl Blackmoor als auch des dunklen Bruderschaft DLCs. Stellt sich übrigens heraus das der Assassine den wir verfolgen tatsächlich von der dunkeln Bruderschaft stammt. Das ist eine große Überraschung nachdem wir doch eigentlich herausgefunden haben das die bisherigen Morde gar nicht von der Bruderschaft sondern einer bisher nicht weiter bekannten Organisation begangen wurden. Ich vermute einmal schnell das es sich um Agenten des Ordens der erwachenden Flamme handelt aber sichere Beweise habe ich bis her noch nicht auftreiben können. Ich bin mir aber sicher das wir schon bald weitere sachdienliche Hinweise aufstöbern werden. Warum die dunkle Bruderschaft jetzt doch anwesend ist verwirrt mich ein wenig, ich fürchte hier müssen wir wohl abwarten. Es ist ja auch nicht so das ich irgendetwas tun könnte um die Informationen zu einer neuen Entscheidung umzumünzen.
+  
+  Außerdem treffen wir Keshu Schwarzflosse, ich habe die Bücher um ihre Geschichte bereits vor einiger Zeit vorgelesen, das entsprechende Video findet sich hier: https://www.youtube.com/watch?v=nyxsal5P8yA
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1438
+
+* Titel: `Let's Play ESO #1438 - Gideons Umgebung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 12 des Blackwood DLCs - Sitzung 2
+  
+  An sich sind wir schon wieder fertig in Gideon und könnten quasi sofort weiterreiten, es stellt sich übrigens heraus das Ratsherr Vandacia ziemlich vehement weiter behauptet das er von der dunklen Bruderschaft gejagt wird. Das Problem ist bloß...Elams Argument ist ziemlich stichhaltig, etwas das ich auch bereits im Vorfeld angesprochen hatte, wäre der Ratsherr das Ziel eines Kontraktes wäre er bereits tot. Außerdem kennen wir ihn und eigentlich ist die Bruderschaft nicht für ihre Lügen bekannt, insbesondere nicht anderen Mitgliedern gegenüber. Das lässt mich schlussfolgern das ein gewisser Ex-Ratsherr dem aus irgendwelchen Gründen noch erlaubt wird seinen Titel zu halten lügt. Warum er das tun sollte ist mir nicht ganz klar aber das macht das alles ein wenig verdächtig. Insbesondere weil ich mich wirklich frage wofür. Wir wussten bereits das er ein Ziel sein könnte, warum also noch einmal den Fall weiter anheizen? Mit einer Geschichte die eventuell Zweifel an seiner Position sähen könnte? Irgendetwas passt hier überhaupt nicht zusammen und all das nur weil ein unnötiges Risiko eingegangen ist. Sich selbst als Opfer zu deklarieren ist eine klassische Taktik unschuldig zu erscheinen. Leider kann ich immer noch nicht auf diese Information hin handeln also spielt es eigentlich auch keine Rolle. Als wir Gideon verlassen treffen wir übrigens noch einmal den Magier an der Kreuzung.
+  
+  0:00 - 9:58: Rumspringen
+  7:30 - 9:59: Buch: Silberne Glocken
+  10:00 - 18:36: Rumlaufen
+  
+  https://www.youtube.com/watch?v=nyxsal5P8yA
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

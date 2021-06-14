@@ -287,12 +287,62 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
   ```
 
-##### #Nummer
+##### #21
 
-* Titel: ``
+* Titel: `Uncharted Lost Legacy - #21 - alte Bahnschienen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Nicht jeder Uncharted Teil ist damit beendet das wir die geheime Stadt und darin dann irgendeine Art von Schatz gefunden haben. Heute geht es zum Beispiel wesentlich weiter. Das Horn von Ganesha ist schon lange geplündert und doch ist unsere große Mission noch nicht erledigt. Interessanterweise gibt es sogar noch einige Interessante Dinge zu tun. Stellt sich doch glatt heraus das der gute Asav einen direkten und unmittelbaren Plan hat das Horn weiter zu verkaufen. Selbst der Preis ist bereits bestätigt worden. Das ist insofern interessant als das niemand im Vorfeld hätte wissen können aus welchen Materialien und Bestandteilen das Horn eigentlich besteht. Vielleicht wäre es nur von kulturellen Wert aber wertlosen Materialien gewesen, hätten dann irgendwelche Söldner einem Handel zugestimmt? Wie dem aber auch sei, Indien ist bekanntermaßen einst von den Briten beherrscht worden. Deren Herrschaft war größtenteils eher unschön für das britische Volk, aber einige der alten Bauwerke gibt es noch heute, Bahnschienen zum Beispiel.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
   ```
+
+##### #22
+
+* Titel: `Uncharted Lost Legacy - #22 - Shoreline [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aktuell haben wir ja Nadine Ross mit im Team. Veteranen der Uncharted Reihe ist die gute Frau bereits aus dem direkten Vorgänger Uncharted 4 bekannt, damals führte sie eine Söldnerfirma namens Shoreline an und versuchte diese mit neuen Divisen aus einem Piratenschatz wieder zum laufen zu bringen. Dann geschahen die Ereignisse des Vorgängers und anscheinend verlor sie dabei auch die Kontrolle über die Firma. Wie genau man eine Söldnerfirma besitzen kann ist mir übrigens nicht ganz bewusst. Ich stelle es mir auf jeden Fall nicht so vor das es da eine staatlich Besitzurkunde gibt oder eine Art Kapitänspatent. Wahrscheinlich ist es eine eher lose Organisation mit einem harten Kern, und wenn der innere Kern geschwächt ist fällt schnell alles auseinander. Es scheint aber so als konnte sich zumindest das Konstrukt Shoreline für den Moment halten und weiter existieren. Nur halt unter neuer Führung. So sehen zur zur großen Überraschung von Nadine ihre eigene Söldnerfirma heute als unsere Gegner, ist das nicht schön?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #23
+
+* Titel: `Uncharted Lost Legacy - #23 - Zugfahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Uncharted-Reihe hat bis jetzt durch einen relativen Reichtum an Zugfahrten geglänzt. Es ist nicht so das Nathan Drake jemals freiwillig irgendwohin per Zug gefahren wäre. Das wäre zwar irgendwie auch romantisch gewesen aber nie seine Intention. Stattdessen hatten wir den endlosen Zug der Endlosigkeit im zweiten Teil, ich erinnere mich noch ziemlich gut an dieses Abenteuer und die Erinnerungen sind nicht unbedingt positiv. Dann gab es da eine Verfolgungsjagt im dritten Teil die mich sehr an diese Zuggeschichte erinnert hat, aber stattdessen ist man von Auto zu Auto gesprungen. Eine ähnliche Szene findet sich dann auch im vierten Teil erneute. Man kommt nicht umhin hier ein Muster zu erkennen. Naughty Dog mag Verfolgungsszenen. Jetzt nach 5 Spielen scheint es aber so als hätten sie rausgefunden wie man das am besten macht und ich muss sagen das diese Variation der Zug-Verfolgungs-Mission durchaus etwas spannendes hat und einen guten Abschluss darstellt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+##### #24 - Bonus
+
+* Titel: `Uncharted Lost Legacy - #24 - Bonusmaterial [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur weil wir ein Spiel durchgespielt haben heißt das ja noch nicht das es sich jetzt um das Ende der Reise handelt. Aber für den Moment gibt es nicht mehr viel für mich zu tun. Andere Leute würden vielleicht noch versuchen 100% zu erreichen, alle Schätze auszugraben und generell und überhaupt das Maximum heraus zu holen. Die traurige Wahrheit ist aber das es viel zu viele Spiele gibt und ich es mir nicht leisten kann so etwas zu tun, daher gucke ich mir nur eben schnell das digitale Artbook an und dann war es das wieder.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Uncharted - The Lost Legacy auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVtHzHayy7zvrXrQ0UEMc8
+  ```
+
+## Fazit
+
+> Hier könnte ihr Fazit stehen

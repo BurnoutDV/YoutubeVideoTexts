@@ -240,14 +240,130 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
-##### #Nummer
+##### #18
 
-* Titel: ``
+* Titel: `Subnautica Below Zero - #18 - Seebahnverlängerung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Unser Seebahn ist zu kurz um all die komplizierten Aufgaben zu erfüllen die ich in der Zukunft noch vor mir sehe. Um dem Herr zu werden müssen also weitere Teile angeschraubt werden, Teile die wir natürlich nicht einfach so bauen können sondern eine gewisse Mühe brauchen bis wir sie überhaupt haben. Nebenbei schweißen wir natürlich erneut an der Basis herum, es wäre ja auch zu einfach wenn die einfach fertig werden würde oder? Stattdessen bauen wir noch einmal mehr mit Glas nur um dann zu merken das die Quarzquellen dieser Welt durchaus beschränkt sind wenn man nur im flachen Wasser fischt. Und überall woanders kann ich mich mit meinem sehr beschränkten Sauerstoffvorrat auch gar nicht hinwagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #19
+
+* Titel: `Subnautica Below Zero - #19 - Unterwasserschweißer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man richtig viel Lust hat verschiedene Berufe zu kombinieren macht man irgendwas mit Klettern oder Tauchen und dann aber dabei irgendein Handwerk. Schweißen fällt einen da schnell ein. Das braucht eine besondere Ausbildung, ist ziemlich anstrengend, in der Regel ist die Sicht außerordentlich schlecht und Firmen sind bereit dafür horrende Summen zu zahlen. Wir machen das heute alles ziemlich kostenlos, größtenteils weil ich sehr daran interessiert bin zu erfahren welche Schätze es tief in den Konstruktionen unter Wasser gibt. Namentlich ist das scheinbar das Stück eines abgestürzten Raumschiffes. Leider weiß ich noch nicht wie das Schiff hier her gekommen ist. Der Planet 4546B sollte eigentlich über keine Geschütze auf seiner Oberfläche mehr verfügen die verhindern könnten das sich ein Raumschiff einfach so nähert. Aber vielleicht ist es ja auch einfach so das es gefährliche Luftströmungen oder Magnetfelder gibt die es nicht ganz so einfach machen überhaupt ein Landemanöver durchzuführen. Oder das Raumschiff ist älter. Wie dem aber auch sei, Schätze wollen gesammelt werden, also schweißen wir, auch ohne großzügige Bezahlung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #20
+
+* Titel: `Subnautica Below Zero - #20 - Marguerit Maida [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind nicht alleine im Gebiet. Das wissen wir bereits, das forschende Personal von Alterra ist komplett geflohen und irgendetwas ist geschehen das dafür gesorgt hat das so schnell auch niemand nachgekommen ist. Irgendetwas das anscheinend mit dem Karra Virus zu tun hat. Näheres wissen wir für den Moment aber nicht. Wo genau die zweite Person her kommt ist uns auch nicht klar, aber heute erfahren wir es. Die zweite Person ist eine Frau namens Marguerit Maida die sich scheinbar unter ziemlich widrigen Bedienungen und ohne die Hilfe eines Überlebensmodules durchgeschlagen hat. Wir wissen ja, die eine Sache die all unseren Erfolg bisher ermöglicht hat war das Konstruktionswerkzeug und die Überlebenskapsel mit der wir alles bauen konnten was das Herz begehrt. Ohne diesen magischen Universalkonstruktor würde die Sachlage wesentlich finsterer aussehen. Wie das Leben einen spielt wenn man das Gerät nicht hat sehen wir ja an der Basis von Marguerit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #21
+
+* Titel: `Subnautica Below Zero - #21 - Bergwerk Kappa [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen von den verschiedenen Standorten der Alterra Forschung von der Karte die wir auf der Station Delta gefunden haben. Alle Orte waren dort verzeichnet und wir erhalten sogar eine gewisse Menge an Orientierung dadurch. Da sich die Karte aber nicht mit unserer aktuellen Position synchronisiert ist die Hilfe gar nicht so gewaltig wie man das erwarten würde. In der Folge bin ich dann durchaus überrascht die Station Kappa zu entdecken, anscheinen das örtliche Bergwerk das Alterra benutzt hat um all die Ressourcen abzubauen die es gebraucht hat um eine planetare Operation am Laufen zu halten. Ein wenig ärgerlich ist das wir immer noch eine sehr schlechte Sauerstoffflasche haben und daher nicht so richtig erkunden können ohne auf halben Weg zu ersticken. Außerdem finden wir heute eine riesengroße Qualle die ziemlich episch aussieht. Schön oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #22
+
+* Titel: `Subnautica Below Zero - #22 - Umbaumaßnahmen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine neue Woche ein neuer Umbau. So ist das bei Subnautica, Schuld bin ich übrigens selber weil ich meine Basis natürlich nicht irgendwo gebaut habe wo es eine Menge Platz gibt und ich in allen Richtungen Platz habe. Tatsächlich ist es so das wir eigentlich ziemlich eingeengt sind, und damit auch ziemlich geschützt. Ein wichtiger Fakt den man nicht vergessen darf, wenn irgendwelche großen Leviathane auf die tolle Ideen kommen uns zu besuchen könnte es ihnen sehr schwer fallen durch das flache Wasser zu schwimmen. Jetzt bleibt nur zu hoffen das es auf 4546B keine Fische gibt die irgendwie auf dem Wasser laufen können. Davon abgesehen ist es dennoch ein wenig anstrengend mit jedem neuen Modul meine Basis umzuordnen, insbesondere wenn ich Inhalte von Kisten von A nach B tragen muss, glücklicherweise habe ich das Offline gemacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #23
+
+* Titel: `Subnautica Below Zero - #23 - freie Atmung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  22 Episoden habe ich mich darüber aufgeregt das wir viel zu wenig Sauerstoff haben. Heute aber kommt alles anders! Ich mache mich auf auf die Suche nach dem Schema für die besser Sauerstoffflasche, kann ja nicht so schwer sein. Zwischenzeitlich habe ich ja schon Blaupausen für die Flasche mit ultrahoher Kapazität und einer Erweiterung der großen Flasche gefunden. Mein Spielsinn sagt mir also das ich die vorherige Entwicklungsstufe schon lange hätte gefunden haben müsste. Wäre dem nicht so gibt es nur zwei Gründe, entweder ich habe etwas übersehen oder aber das Spiel ist schlecht designt. Da das Entdeckungsdesign im Vorgänger eigentlich ziemlich logisch war gehe ich jetzt irgendwie davon aus das ich etwas übersehen habe. Das logistische wären die Koboldnester...jetzt muss ich nur noch eine Menge Höhlen mit einer ziemlich schlechten Sauerstoffflasche abtauchen. Welch ein Spaß.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #24
+
+* Titel: `Subnautica Below Zero - #24 - gläserner Ausblick [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und ja, ich baue schon wieder um. Einfach nur weil ich kann und weil ich eventuell vielleicht weil ich ein wenig Glas gefunden habe und es sehr mag einfach die Außenwelt zu beobachten. Vielleicht gibt es irgendwo einen Ort der noch wesentlich epischer und voller Licht ist aber für den Moment gefällt mir der Ausblick aus meiner Basis noch ziemlich gut. Davon abgesehen bauen wir heute noch weitere Fahrzeugteile, man weiß ja nie wo man noch überall hin muss und will. Und wenn wir kein ordentliches Werkzeug haben um die Tiefsee zu erkunden könnte sich das alles noch als schwierig herausstellen. Und eigentlich sind wir ja nur hier um Dinge zu erkunden, Nichts Anderes ist wichtig. Wenn man sich das im Hinterkopf hält ist es aber schon irgendwie komisch das wir überhaupt irgendwelche Bauwerke errichten, an sich haben wir ja nicht vor länger als ein paar Tage auf dem Planeten zu bleiben. Manchmal frage ich mich was genau eigentlich Robins Plan war als sie abgesprungen ist. Gehörte das Bauen einer Basis dazu?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #25
+
+* Titel: `Subnautica Below Zero - #25 - Artefakt PK8 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So wie es scheint müssen wir verschiedene Artefakte der Erbauer sammeln um letztendlich für AL-AN einen neuen Körper zu erschaffen. Wenn das alles so klappt sehe ich kaum Probleme am Horizont, zumindest was diesen Teil der Geschichte angeht. An sich auch ein optionales Ziel. Für den Moment scheint es ja kein Nachteil zu sein ein ganzes zusätzliches Bewusstsein zu besitzen. In der Regel gibt es da immer Probleme mit dem Gehirn aber Robin hatte da wohl Kapazitäten frei. Wie dem aber auch sei, die Artefakte sind eigentlich nur ziemlich normale Geräte. Interessant eigentlich wenn man bedenkt das alles was wir beim letzten Mal gesehen hatten doch schon mehr in Richtung Erforschung des See-Imperators ging. Eventuell sind die Erbauerbauwerke die wir hier finden aber auch das Ergebnis einer vorherigen Expedition bevor die Karra Geschichte akut wurde. Das würde auch erklären warum AL-AN ein wenig unwissend ist was das Schicksal seines Volkes angeht. Wahrscheinlich hat das Alles am Ende noch ein dickes Ende. Außerdem ist unsere See-Bahn jetzt innen grün. Das war nicht die Farbe die ich eigentlich wollte aber jetzt ist es halt so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #26
+
+* Titel: `Subnautica Below Zero - #26 - Merkur II KA-208 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich heißt das Schiff nur Merkur 2 aber ich habe das Gefühl das in einer Galaxie in der tausende von Raumschiffen umherschwirren Namen wie "Merkur" eigentlich ziemlich austauschbar sind und als Bezeichnung einfach nicht mehr hinhauen. Die Bezeichnung an der Seite sagt "KA-208" was wahrscheinlich eher der Name des Raumschiffes ist. Wir wissen nicht warum es hier ist, wie lange es schon liegt und wie es abstürzte. Die Logs an Bord scheinen auch nicht wirklich darüber zu sprechen, die Tatsache das ein Teil abgebrochen ist das restliche Schiff aber noch ziemlich intakt ist spricht aber dafür das es wohl im niedrigen Orbit oder beim Landen eine kleine Katastrophe hatte. Außerdem spricht eine Datei darüber das irgendein kritisches Teil regelmäßig gewartet werden muss und ansonsten explodiert. Ein weiteres Indiz das es wohl keine Fremdeinwirkung war die das kleine Raumschiff hat abstürzen lassen. Dennoch ein wenig seltsam das wir keinerlei Leichen vorfinden. Ist Subnautica einfach nicht makaber genug oder haben die Schwerkraftdämpfer bis zum Ende funktioniert und die Crew konnte erfolgreich gerettet werden?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
 ##### #Nummer

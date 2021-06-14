@@ -1055,14 +1055,144 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
-##### #Nummer
+##### #76
 
-* Titel: ``
+* Titel: `Risen 3 - #76 - gesammelte Schätze [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich habe mir fest vorgenommen alle legendären Gegenstände ein zu sacken, schon deswegen weil uns das permanent Statuseffekte gibt die immer positiv sind, bisher haben wir noch keine verfluchten Gegenstände gefunden und scheinen das auch nicht vor zu haben. Generell und überhaupt scheint das übrigens kein Ding mehr in Computerspielen zu sein. Das letzte Spiel das verfluchte Items hatte an das ich mich erinnern kann ist Diablo 1, ich bin mir sicher davor und danach waren noch andere Spiele, aber generell würden die meisten Leuten wahrscheinlich einfach Laden um sich nicht mit irgendwelchen Mali rum zu ärgern. Wie dem aber auch sei, wir fahren heute ein wenig in der Gegend umher um hier und dort ein paar schnelle Aufträge zu erledigen. Ich erwähnte ja bereits das wir quasi ein Bote für die Leute dieser Welt sind, wie gut das unsere Bootsfahrten nicht in irgendeiner Weise geplant werden müssen und Entfernungen eine Rolle spielen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #77
+
+* Titel: `Risen 3 - #77 - der große Plan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind ja zu Admiral Alvarez gefahren um uns von ihm Hilfe und vielleicht sogar ein wenig Führung abzuholen. Am Ende haben wir aber auch nur unseren Bericht erstattet um dann zu erfahren das wir es auch hätten lassen können. Alvarez ist vielleicht bei den paar Säufern unten in der Taverne gut respektiert aber ansonsten besitzt er keinerlei praktische Macht. Keine Schiffe die unter seinen Kommando segeln, keine Kapitäne die ihm Tribut zollen oder überhaupt auf Antigua anlegen. Man könnte fast meinen die Zeiten der großen Piraten ist vorbei und alles was wir sehen ist ausklingender Ruhm aus einer längst vergangenen Zeit. Das Alles hält ihn natürlich nicht davon ab tollkühne Pläne zu schmieden die damit beginnen das wir die gesamte Arbeit machen dürfen und er am Ende partielle Lorbeeren für das "erdenken" seines "Plans" einsackt. So richtig dolle fair finde ich das nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #78
+
+* Titel: `Risen 3 - #78 - Schattenlord der Gier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Soweit ich das verstanden haben sind die großen Schattenlords eigentlich das was die Welt tatsächlich bedroht. Die große Gefahr die sich auf der Welt manifestiert hat und die Stück für Stück die Welt verdirbt. Was genau die Schattenlords eigentlich machen ist dabei nicht klar, immer wenn wir einen Sehen schweben die auf und ab und scheinen sich eher wie ein beliebiger Mob aus einem MMO zu verhalten anstatt wie ein General einer mächtigen Armee. Generell und überhaupt scheint das Böse eher passiver Natur zu sein, auch eine Zunahme an Verderbnis in den Herzen der Menschen konnte ich bisher nicht beobachten. Klar, einige Leute hat es schon ein wenig verändert, einschließlich unseres namenlosen Helden, aber die waren dann immer in direkter Nähe eines Kristallportals. Insofern eher kein Problem für die Menschheit. Wirklich bedauerlich das man hier keinen Verlauf sehen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #79
+
+* Titel: `Risen 3 - #79 - vergessene Möglichkeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel der heutigen Episode war für mich gar nicht so leicht, die Alternativen waren "Diebesschuld auf Taranis" und "die Truppenmotivation". Der Erste bezieht sich darauf worauf die Auswahl dann auch hinaus will, wir waren zu erst auf Taranis und konnten vor Ort logischerweise einige viele Kisten nicht öffnen. Um das Problem zu lösen hätten wir entweder mehr Diebestränke kaufen müssen oder Magie benutzen können. Stattdessen habe ich mich für die dritte Möglichkeit entschieden, Abwarten und dann wieder kommen. Da ja klar war das ich auf Magie spiele wusste ich ja auch das ich auf Taranis noch Einiges zu erkunden hatte. Da ich natürlich die ganze Zeit schön Buch geführt habe kann ich jetzt auch noch sicher stellen das uns nichts entgeht. Der zweite mögliche Titel bezieht sich dann wieder darauf das wir kurz nochmal bei der Inquisition vorbeischauen weil ich gucken wollte wie es jetzt Sebastiano geht. Die Antwort ist enttäuschend aber immerhin kann ich ein paar warme Worte verlieren. Auch schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #80
+
+* Titel: `Risen 3 - #80 - die Vereidigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich persönlich war auch schon einmal auf einer Vereidigung. Es handelte sich um eine Massenveranstaltung die sich zwar irgendwie zeremoniell angefühlt hat aber eigentlich war sie nichts Besonderes und am Ende war man nur einer von Vielen. Ich schlussfolgere daraus das eine solche Geschichte sich nur dann besonders anfühlt wenn sie persönlich ist. Und damit kommen wir dann zur heutigen Veranstaltung bei der ziemlich persönlich in den Bund der Magier eingeschworen werden. Die Organisation selbst ist aber auch nicht besonders groß, insofern ist es durchaus glaubwürdig das wir das Ganze als Einzelsitzung erhalten und generell immer von Person zu Person vereidigt wird. Unabhängig davon kommen damit bestimmte eine Menge Pflichten auf uns zu..und hoffentlich auch eine Menge Macht. Mal sehen ob es all das am Ende wert war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #81
+
+* Titel: `Risen 3 - #81 - Prismasicht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe jetzt echt viele Episoden damit zugebracht meinen Zuschauer zu erzählen wie absolut nutzlos ich die Geistersicht ist und das ich am Ende eigentlich gar nichts davon hätte wenn ich das leveln würde. Stellt sich heraus es gibt doch einen gewissen Nutzen und die Magier können mir dabei helfen besser meine Geistersicht zu nutzen. Interessant ist das die Sicht anscheinend überhaupt nichts mit unserem besonderen Zustand zu tun hat und stattdessen einfach so möglich ist. Zumindest für die Kadetten der Magier die ein besonderes Auge das auf Kristallen basiert haben. Letztendlich sehen wir übrigens jetzt ein wenig aus wie der Inquisitor Mendoza aus dem ersten Teil. Nur das unser Kristallauge anscheinend ein wenig anders funktioniert und halt nicht darauf eingestimmt ist unsichtbare Titanen zu sehen. Ich frage mich übrigens ob es an sich die gleiche Technologie wie das Artefakt aus Risen 1 ist. Vielleicht hat es sogar den gleichen Ursprung. Ob sich Piranha Bytes darüber je Gedanken gemacht hat?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #82
+
+* Titel: `Risen 3 - #82 - die erste Prüfung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt bei den Magiern und jederzeit in der Lage uns bei Bedarf auch noch einer anderen Fraktion anzuschließen, wir müssten uns halt nur noch einigen anderen Prüfungen unterziehen und schon wären wir dabei. Aber ich weiß ja bereits das die Angebote der anderen Fraktionen eher unliebsam aussehen. Vielleicht gucke ich mir aber noch an was es bei den Dämonenjägern und Ureinwohnern zu finden gibt. Bis dahin kümmere ich mich erst einmal um meine erste Beförderung bei den Magier. Ein wenig dreist das ich eigentlich überhaupt noch etwas tun muss wenn man bedenkt welcher Heldentaten ich mich bereits verdient gemacht habe. Es ist fast ein Schlag ins Gesicht! Ich habe Schattenlords auf gefühlt jeder Insel der Südsee besiegt und doch scheint das niemand an zu erkennen und mich wie einen Lehrling zu bezeichnen. Ich hätte mich vielleicht früher einer Fraktion anschließen müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #83
+
+* Titel: `Risen 3 - #83 - Schattenlord des Verrats [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir treffen heute jemanden der gerne an Pilzen nascht. Und dann finden wir jemanden der gerne am Geist von Menschen nagt. Wir wissen übrigens eigentlich gar nicht ob die Schattenlords eigentlich direkt die Menschen beeinflussen oder ob sie einfach passiv das Totenland und damit eine Brücke in das Reich der Toten öffnen bzw. erweitern. Ich vermute aber mal stark das sie auch irgendetwas mit den Leuten machen, die große Preisfrage wäre aber jetzt wie weit und in welchen Umfang diese Macht geht. Darauf folgt dann übrigens auch direkt die Frage was passiert wenn wir einen Schattenlord besiegen? Ist er wirklich tot oder haben wir nur seine physische Form besiegt und am Ende war unser Sieg eigentlich nur von kurzer Dauer weil der jeweilige Meister der Schatten an anderer Stelle wieder die Ebene der Sterblichen betritt und sein dunkles Werk dann dort halt vor ran treibt. Die Idee dazu habe ich natürlich aus beliebigen anderen Fantasiewelten gezogen, aber das Prinzip ist ja auch nicht unfassbar neu im Allgemeinen. Aber für den Moment ist der Schattenlord des Verrats am Ende der heutigen Episode besiegt. Schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #84
+
+* Titel: `Risen 3 - #84 - das Geisterschiff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So ganz unterbewusst war mir bereits bewusst (ha!) das es das Geisterschiff an der Küste von Taranis gibt. Wie es dahin gekommen ist bleibt wohl ein Mysterium, es sei den das ist wie die Schatten abgesetzt wurden. Unabhängig davon ist mir bereits aus einer Quest bewusst was uns dort erwartet. Das Schiff gehörte vielleicht oder vielleicht auch nicht einst Inquisitor Mendoza, wir erinnern uns, der Typ mit der Augenklappe aus Teil 1 den der namenlose Held auch letztendlich getötet hat. Das Monokel hat er nicht mehr dafür jetzt eine ziemlich stattliche Narbe. Das Geisterschiff ist übrigens ansonsten ziemlich unspektakulär, ich sehe hier ein Menge verschwendetes Potenzial und hätte hier einen etwas mystischeren Ansatz wesentlich besser gefunden als das was sich uns heute dann bietet. Mendoza ist übrigens anscheinend eine böse Persönlichkeit, in Hinblick auf unserer aktuellen Gesinnung also eher nicht kompatibel zu uns, da wir für den Moment aber sowieso kein großes Schiff besitzen spielt das wohl Alles keine Rolle mehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #85
+
+* Titel: `Risen 3 - #85 - der Wasserfels [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Taranis ist ironischerweise die Insel die wir am wenigstens erkundet haben. Das hatte einfache Gründe. Der Logik nach sollten die hinteren Teile wesentlich schwieriger sein als die Vorderen, da bereits klar war das ich mich später bestimmt besser gewappnet fühlen würde habe ich hier also relativ schnell abgedreht. Jetzt hole ich all diese Dinge nach. Einige Orte hätte ich aber wohl schon viel früher erkunden können wenn ich mir das hier so anschaue. Heute betreten wir den Wasserfels und das Größte was hier auf uns lauert sind nur einige Vögel. Um den Magiestein hier zu benutzen hätte ich zwar zuerst den Fokusstein abholen müssen aber ansonsten gibt es hier nicht wirklich irgendetwas das mich aufhält. Aber schön ist es hier, es überrascht eigentlich ein wenig das hier niemand eine kleine Hütte gebaut hat um die Szene zu überschauen. Die natürlichen Stufen die das Wasser herunterlaufen lassen sind wirklich schön und die paar Viechers sollten doch eigentlich niemanden aufhalten oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
 ##### #Nummer

@@ -86,6 +86,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #7
+
+* Titel: `Yakuza 3 Remastered - #7  das Ryudo Familienbüro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Japaner scheinen, so möchten mir zumindest die Yakuza Spiele glaubhaft machen, Büros zu lieben. Egal wo auf der Welt man ist, man braucht unbedingt ein Büro, ein Ort an dem man Dinge verwaltet. Physisch ausgeführt sieht das Ganze dann so aus das man erst einige dreckige Räume vorfindet die irgendwie überfüllt erscheinen und jeden persönlichen Anstrich vermissen lassen bis man dann an einem Ort kommt der eher einen Sanktum ähnelt. Meistens reich verziert und an Japans Vergangenheit erinnern. Dort findet sich dann der örtliche Gangsterchef der durchaus ein "guter" Mensch sein kann. Zumindest im Rahmen seiner Tätigkeit. In diesem Fall ist das direkt der Anführer der Ryudo Familie. Ein etwas älterer Mann Mitte 50 wie ich schätzen würde, also kaum älter als Kiryu der sich offensichtlich besser gehalten hat. Eventuell bin ich aber auch schlecht darin das Alter von Spielfiguren einzuschätzen. Wer weiß das schon.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

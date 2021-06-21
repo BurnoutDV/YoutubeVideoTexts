@@ -1195,6 +1195,104 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #86
+
+* Titel: `Risen 3 - #86 - von den Kristallen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kristalle spielen in irgendeiner Weise eine sehr große Rolle in der Welt von Risen. Bereits im zweiten Teil haben wir ja herausgefunden das die Kristalle irgendwie die Titanen abwehren und wir wir darüber nachdenken gab es auch schon in der ersten Installation Kristalle die damals unsere magischen Fähigkeiten unterdrückt haben. So richtig erklärt wird das aber leider nicht. Das ist eigentlich ziemlich schade, klar, nicht jeder möchte die genauen Mechaniken erfahren wie die Magie funktioniert und meine häufige Kritik an Piranha Bytes ist ja genau das, das sie sich keine Sorgen machen wie solche Dinge funktionieren. An sich sind Kristalle ja auch nur irgendwelche Silikate die hier noch gelegentlich irgendwelche Erze enthalten. Warum also haben die einen Effekt? Wie funktioniert Kristallmagie jetzt genau? Was unterscheidet die Kristalle von der Runenmagie die die Dämonenjäger nutzen. Und warum wollen alle Leute unbedingt  diese Kristalle haben, kann man die nicht irgendwie herstellen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #87
+
+* Titel: `Risen 3 - #87 - das Magierschiff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir mussten uns jetzt viele viele Episoden lang anhören das wir erst einmal ein richtiges Schiff brauchen und wir dann vielleicht darauf hoffen können das irgendjemand auf unserem Schiff anheuert und bis dahin wir absolut nichts machen können. Aber jetzt ist es ja soweit, wir holen uns endlich einen großen Kahn. Als es hieß das ich mich beim Kapitän melden soll dachte ich übrigens das ich mich vielleicht irgendwie hochdienen muss oder irgend etwas tun muss bevor ich wirklich ablegen kann. Stellt sich heraus das ich mir das Schiff von Anfang an unter den Nagel hätte reißen können. Alles was ich hätte tun müssen wäre in die örtliche Wäscherei einzubrechen, eine Uniform greifen und dann den leichtgläubigen Kapitän anlügen müssen. Etwas das einem gestandenen Piraten wie unserem zweiten namenlosen Held ja eigentlich nicht schwer fallen sollte. Kurios. Warum haben wir so lange gekämpft nur um jetzt zu erfahren das die Magier keinerlei Siegel oder Verifikation im Allgemeinen verwenden. Entäuschtend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #88
+
+* Titel: `Risen 3 - #88 - Laufwege [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe Dinge übersehen. Natürlich bin primär ich schuld weil ich zwischendurch ja auch mit Ansage gemeint habe das ich auf keinen Fall Missionen machen möchte während ich andere erledige. Also kein großes Netz auswerfen und sich dann um 20 Sachen gleichzeitig zu kümmern. Da Risen 3 ein Hub-basiertes Spiel ist kommt man da manchmal aber nicht ganz drum herum. Dennoch erledige ich die meisten Aufgabe sequentiell. Nachteil ist dann so Episoden wie heute in denen ich eigentlich nur noch ziemlich sinnlos umherlaufe weil ich nicht so recht weiß wo ich noch alles was vergessen habe, dann an einen Ort hinlaufe, dann wieder zurückkehre um etwas zu holen, wieder etwas vergesse und dann noch einmal zurückkehren musss. Die gute Nachricht ist aber immerhin das es relativ schnell auch ein Ende hat und wir uns dann neuen Dingen widmen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #89
+
+* Titel: `Risen 3 - #89 -  Gnom im Loch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hatten vor ziemlich langer Zeit einmal den Auftrag einen Gnom zu finden und ich dachte ich hatte den kleinen Kerl schon lokalisiert und die Mission einfach nur nicht abgegeben. Es stellt sich heraus, Gnome gehen andauern verloren und das war tatsächlich ein Anderer. Sowas kann schon einmal vorkommen, sehe ja auch alle ziemlich gleich aus die kleinen Kerlchen für mich. Heute finden wir aber den richtigen Gnom, nicht aber bevor wir nicht mit diversen Leute geredet haben um weitere Informationen über die Welt zu erfahren, außerdem üben wir uns in weitere Handwerk. Auch interessant ist übrigens das in dem Loch in dem wir den Gnom dann finden eine gewaltige Kristalldiode ist. Aus Risen 2 wissen wir das eine ähnliche Struktur in der Lage war die Kristallfestung vor den Titanen zu beschützen. Ob es klug ist genau an dieser Diode strukturschwächende Maßnahmen zu betreiben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #90
+
+* Titel: `Risen 3 - #90 - Angriff auf dem Meer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte es irgendwie nicht vorhergesehen aber natürlich gibt es eine Spielmechanik die das Schnellreisen nach dem ersten Akt extra anstrengend macht. Ich hatte mir darüber wirklich überhaupt keine Platte gemacht weil ich solche eingestreuten Minispiele immer sehr nervig fand und nicht daran gedacht hatte das das etwas ist das Piranha Bytes einfach lieben würde. Immerhin haben wir die meisten Reisen bereits abgeschlossen so dass die entsprechenden Ereignisse sich vielleicht auf ein Minimum beschränken werden. Dennoch ein wenig sehr lästig das es überhaupt einmal geschieht. Heute fahren wir dann 15 Minuten im Kreis während ich versuche einen Kraken zu erschießen. Das macht der ganzen Familie eine Menge Spaß. Und vor allen Dinge mir der am Steuerrad steht und sich fragt wann das Elend vorbei ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #91
+
+* Titel: `Risen 3 - #91 - Bereicherung der Crew [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben jetzt ja ein richtiges Schiff und damit sind die Leute die darauf rum stehen und den ganzen Tag gar nichts machen also quasi meine Crew. Eine solche Crew hat Bedürfnisse und Wünsche. Das Ganze hat ein wenig Mass Effect Schwingungen aber halt auch nicht so richtig. Außerdem haben wir ziemlich schwierige Dialoge mit Patty, aber auch die anderen Mitglieder meiner großartigen Jagdtruppe sind nicht weniger kritisch mit meinem Führungsstil. Es kommt aber immer noch die Frage auf wer eigentlich die Crew bezahlt, weil ich bin es nicht, Landgang ist nicht so häufig und dennoch schafft es unser Quoten-Gnom den Leuten regelmäßig neue Reichtümer aus den Taschen zu ziehen und unser Trankbrauer ist auch jedes Mal mit neuem Alk am Start. Irgendwie müssen die sich heimlich zwischendurch absetzen um auf ihr eigenes Abenteuer zu gehen. Anders kann ich mir das nicht erklären.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #92
+
+* Titel: `Risen 3 - #92 - weibliche Reize [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gelegentlich hat Piranha Bytes was den Umgang mit bestimmten Themen angeht ein wenig seltsame Entscheidungen gefällt. Ich hatte das bereits in einer anderen Beschreibung/Kommentar zur "Sendung" kommentiert. Die Eingeborenen als Molukken zu bezeichnen kann man kritisch sehen war aber eigentlich im Setting quasi in Ordnung. Ohne es nachzuschlagen habe ich aber das Gefühl das es dafür Gegenwind gab, weil im dritten Teil "vermissen" wir die Bezeichnung bei allen Fraktionen. Ich bilde mir ein das viel des Charms der Gothic/Risen/Elex Welt daher kommt das es eine Welt von echten Kerlen ist, alles ist rau, es wird sich beleidigt und Frauen spielen bei sowas einfach keine Rolle. Das wird nicht wirklich klar kommuniziert und irgendwie fehlt zumindest die Andeutung das es dort draußen noch mehr Leute gibt. Auch eine Menge Bauern sind ja für die Geschichte nicht wichtig, und dennoch sehen wir nur die Leute die wir sehen. In Gothic 1 konnte die Geschichte mit den Frauen noch gut erklärt werden und das wir, lose historisch basierend, wenig Frauen in der Seefahrt oder in kriegerischen Konflikten haben ist auch nicht überraschend. Allerdings sind einige Dialoge und das Aussehen von Patty aus meiner 2021 Sicht schon ein wenig sehr kritisch, oder zumindest irgendwie nicht besonders solide geschrieben. Patty los zu schicken um ihren Körper zum Vorteil zu nutzen könnte man durchaus gut argumentiert drin lassen, aber die Wortwahl mit der ihr eigener Bruder das Ganze angeht scheint mir ein wenig sehr flach zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

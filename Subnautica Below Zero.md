@@ -366,6 +366,105 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #27
+
+* Titel: `Subnautica Below Zero - #27 - die Kappa Tiefen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ausnahmsweise hat der Twitch Chat nichts mit dem zu tun was wir heute erleben. Es ist nur so das Kappa auch ein griechischer Buchstabe ist der gelegentlich benutzt wird um Dinge zu benennen so wie Alpha oder Gamma. In diesem Fall handelt es sich um eine Bergbaustation, wir waren schon einmal hier aber wir hatten nur wenig Sauerstoff und konnten so nicht alles sehen. Dieses Mal sieht es anders aus, außerdem wissen wir jetzt das es hier noch irgendwo ein wertvolles Artefakt gibt, das möchten wir uns auf keinen Fall entgehen lassen. Also tauchen wir noch einmal ab, leider erneut ohne die praktische Hilfe meiner Seebahn. Aber ich fürchte man kann einfach nicht immer alles haben. Dennoch entdecken wir wahre Wunder, vor allen Dingen aber eine Möglichkeit endlich größere Mengen an Ressourcen abzubauen. Das wird uns bestimmt noch sehr helfen. Wenn wir jetzt noch mehr Platz in unseren Taschen hätte oder irgendeine effiziente Methode Ressourcen von A nach B zu transpoertieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #28
+
+* Titel: `Subnautica Below Zero - #28 - Griechische Buchstaben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen das es noch andere Basen außer Kappa gibt. Da wäre die Omega Basis die anscheinend das Gebäude ist in dem sich Marguerit aufhält und dann noch die Phi-Robotik, der Ort an dem unsere Schwester ihr Ende gefunden hat. Bisher haben wir nur die Delta Station noch besucht die den großen Funkturm beinhaltet und der Ort von dem ich dachte das es die Phi-Robotik war aber anscheinend handelte es sich um Außenposten Null. Die Verwirrung kam weil ich griechische Buchstaben nicht richtig identifizieren kann und eigentlich keine Ahnung habe wie diese in Schreibschrift aussehen. Die nachfolgende Verwirrung hat zu großen Problemen geführt, aber nachdem ich darüber hinweg gekommen bin sind wir nun endlich auf Kurs.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #29
+
+* Titel: `Subnautica Below Zero - #29 - Chilli-Schotten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erfolgreich und ohne die geringste Ablenkung war ich in der Lage die Landungsports der Phi-Robotik zu finden. Keinerlei Probleme gab es bei der korrekten Identifizierung des richtigen Ortes oder dem Verlangen weiter nach zu forschen. Das Erste was wir vor Ort dann auch finden ist eine Chilli-Schote. Die spendet Wärme und ist zu dem auch noch ein wertvolles Essen, es gibt sowohl Wasser als auch Nahrung. Das ist ziemlich beeindruckend, außerdem verbraucht es auch noch ziemlich wenig Platz im Inventar. Kurzum eigentlich die ideale Nahrung und wesentlich besser dafür geeignet als es unsere lustigen Laternenfrüchte sind die wir zuvor immer gegessen haben. Das stellt natürlich ein wenig meine bisherigen Anbauten in Frage. Außerdem aber erhöht es unsere Reisereichweite ziemlich erheblich. Ich mag übrigens die Beschreibungen mit denen die Spielentwickler beschreiben das die Pflanzen funktionieren trotz der Kälte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #30
+
+* Titel: `Subnautica Below Zero - #30 - Ionen Energie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe darüber geredet das ich andauernd nur am Akku laden bin und wie meine Seebahn gelegentlich schon ziemlich viel Strom verbraucht. Anscheinend wird dieses Problem für mich gelöst bevor es überhaupt erst akut wird. Das ist ein wenig kurios. Eigentlich habe ich noch gar keinen echten Bedarf an lang an haltenden Gerät insbesondere weil wir noch gar keinen Zugang zu tiefen Höhlen oder guten Tiefenmodulen gefunden haben. Aber ich möchte mich nicht beschweren, unsere Taschenlampe hält jetzt halt länger und das ist bestimmt auch zu irgendetwas gut. Leider brauchen wir dafür eine ziemlich endlich Ressource, die Ionen-Würfel der Erbauer. Auch interessant, jeden Würfel den wir verbauen hat ja eigentlich eine wesentlich größere Menge an Energie in sich als das was wir am Ende mit einer Batterie bzw. Akku heraus bekommen. Jetzt frage ich mich ob wir irgendwie unsere Vehikel auf Erbauer-Tech updaten können so das wir direkt Würfel einführen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #31
+
+* Titel: `Subnautica Below Zero - #31 - Eiswürmer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Subnautica ist, wie der Name schon impliziert, ein Spiel das sich sehr mit den Schrecken und Erkunden unter Wasser außer einander setzt. Da wir uns quasi am Nordpol (oder Südpol) befinden gibt es aber auch ein wenig Festland bzw. Eis das quasi Festland ist. Daher treffen wir natürlich auch ein paar Wesen die nicht nur unter Wasser beheimatet sind sondern tatsächliche Landlebewesen. Wie alles auf 4546B handelt es sich hier natürlich auch wieder um extrem spezialisierte Lebewesen, namentlich sind das die Eiswürmer die eventuelle Abbau-Operationen empfindlich stören können. Sie erinnern mich ein wenig an die Sandwürmer aus Dune nur das sich halt durchs Eis graben und wir eigentlich kein echtes Problem mit Spice-Mangel habe. Die Würmer selbst sind aber ziemlich unberechenbar und tödlich, wir finden heute sogar ein Gerät das gegen sie helfen würde, leider haben wir aber kein Magnetit so das es uns verschlossen bleibt das entsprechende Gerät herzustellen. Ärgerlich. Und wir haben keine mobile Basis dabei, das ist auch ein großes Problem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #32
+
+* Titel: `Subnautica Below Zero - #32 - Schneepirscher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Kommentar der letzten Episode habe ich darüber referenziert das es ein wenig überraschend ist das wir in einem Spiel das sich da Subnautica nennt plötzlich Landlebewesen treffen, insbesondere wenn man sich anschaut wie lebensfeindlich die Umgebung oberhalb des Wassers eigentlich ist. Mich wundert übrigens das es überhaupt soviel Eis in der Region gibt. Das Wasser hat oft eine Temperatur oberhalb von 15 Grad Celsius, müsste sich das nicht auf die großen Eisschollen auswirken die hier überall rumtreiben? Oder ist die vulkanische Aktivität eine neue Entwicklung? Die Schneepirscher scheinen das übrigens nicht zu sein, in der Vergangenheit haben wir bereits einen seiner Art kennen gelernt, auch wenn mir nicht ganz klar ist wie genau Marguerit es geschafft hat das Tier in 300 Meter Tiefe zu bringen, letztendlich steht ihr ja nur ein Krebs zu Verfügung, und der hat nicht unbedingt das größte Platzangebot.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #31
+
+* Titel: `Subnautica Below Zero - #33 - Leviathankühlhalle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die deutsche Sprache hat einige mächtige aber auch leicht ungenaue Hilfsmittel, Eines davon ist die Fähigkeit quasi beliebig Wörter aneinander zu reihen und am Ende kommt ein vollkommen syntaktische korrektes Substantiv heraus. Ich präsentiere also heute den Ort an dem man einen Leviathan kühl lagert. Im Vorgänger wurde in irgendeinen Log zwischenzeitlich erwähnt das sich durch das Karra Bakterium die einzelnen Spezies auf dem Planeten extrem schnell angepasst haben. Das könnte eventuell erklären warum das Exemplar das wir heute finden keinen Leviathan ähnlich sieht den wir bereits kennen. Wir finden außerdem die mutmaßliche Todesstelle unserer Schwester. Es könnte aber auch sein das der Tiefsee-Leviathan einfach nur noch nicht in unser Leben getreten ist. Wir kämpfen zudem noch gegen Horden von Schneepirschern aber das ist nicht weiter interessant, haben wir doch ein sehr effektives Messer für solche Angelegenheiten. Jetzt stellt sich nur noch eine Frage: Was können wir noch über Samantha Ayou herausfinden? Alterra wird uns ja nicht unbedingt  tonnenweise Logs hinterlassen haben die alles unzensiert erklären oder?
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

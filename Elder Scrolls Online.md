@@ -2665,7 +2665,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 4 des Blackwood DLCs - Sitzung 1
+  Folge 5 des Blackwood DLCs - Sitzung 1
   
   Manchmal sind Dinge einfach vorhersehbar, es ist ein wenig schade aber letztendlich wüsste ich auch nicht wie man das Problem einfach umgehen kann. Wir haben eine Geschichte in der irgendwelche Leute in Lebensgefahr schweben und wir ein Rennen gegen die Zeit und die dunkle Bruderschaft starten. Das wir das Rennen schon aus dramaturgischen Gründen nicht komplett gewinnen können ist klar, und wenn wir bereits eine Person lebendig gefunden haben scheint es mir irgendwie ziemlich logisch zu sein das wir die zweite Person nicht mehr atmend antreffen. Wenn man dann auf dem Weg zur Haus des mutmaßlichen Opfers bereits den herrenlosen Hund antrifft ist der restliche Fall eigentlich schon. Lange Geschichte kurz, der gute Ratsherr Sophus ist natürlich schon tot und hat auch keine sachdienlichen Hinweise hinterlassen obwohl er viel mehr gewusst hätte als die noch lebenden Ratsherren.
   
@@ -2684,7 +2684,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 5 des Blackwood DLCs - Sitzung 1
+  Folge 6 des Blackwood DLCs - Sitzung 1
   
   Technisch gesehen haben wir von Anfang an, schon als wir den Prolog gespielt haben, einen Auftraggeber, das war zwar ebenso technisch gesehen Evelin Scharfpfeil aber dahinter standen andere ehemaligen Größen des alten Kaiserreichs unter Kaiser Leovic der dank seines Kuschelkurses gegenüber den Daedra am Ende ein unangenehmes Schicksal erfuhr. Übrig blieben seine treuen Gefolgsleute, einer davon war Lovidicus, damals und heute Kanzler, anscheinend auch ein Titel den man behält selbst wenn man eigentlich gar keinen Reich bzw. Herrscher als Kanzler vorsteht. Staatenpolitik ist aber auch komplex, unabhängig davon ist der Mann nun irgendwie so was wir unser Auftraggeber weil er sich noch am meisten dafür interessiert was hier passiert. Ich frage mich übrigens wann Lyranth mal wieder auftaucht, aber wahrscheinlich erst nach dem wir alle Ratsherren gefunden haben.
   
@@ -2704,7 +2704,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 6 des Blackwood DLCs - Sitzung 2
+  Folge 7 des Blackwood DLCs - Sitzung 2
   
   Mit der Zeit erkenne ich immer wieder Muster an mir selbst. Teil meines Versuches besser in Dingen zu werden besteht darin eben jene Muster zu durchbrechen und alternative Wege zu finden etwas anzugehen. Ein Muster das ich bisher noch nicht brechen konnte ist das es mir in Lets Plays ziemlich oft passiert das ich mich beim erkunden ein wenig hinreißen lasse und dann aber eigentlich gar nichts erlebe. Heute zum Beispiel, wir laufen ein wenig umher, geben sogar die eine Quest ab von der Leiche die wir in den Totenländern gefunden haben aber so richtig was daraus ergeben hat sich für uns nicht. Dann sehen wir noch den Unterschlupf der Diebesgilde in der Stadt aber außer das ich mein Inventar leer kriege ergibt sich daraus auch nicht unbedingt ein Vorteil. es ist eigentlich schade das solche Orte nicht mehr Geschichte bergen. Nicht einmal ein Buch habe ich gelesen. Und das lieben ja nun alle.
   
@@ -2719,7 +2719,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 7 des Blackwood DLCs - Sitzung 2
+  Folge 8 des Blackwood DLCs - Sitzung 2
   
   Das Land besteht mehr als nur aus einer Hauptstadt, in der Regel gibt es eine wilde Ansammlung von Siedlungen und militärischen Einrichtungen die dafür sorgen das ein Gebiet gehalten werden kann. Und das trifft nicht nur auf die Grenzregionen zu, auch im inneren Land braucht es gelegentlich einige Stationen an denen man Soldaten aufbewahrt, ausbildet oder einfach nur zurückzieht. Nicht nur für das Ereignis eines Grenzbruches. Wie dem aber auch sei, der Zweck einer Festung ist also relativ klar. Jetzt kommt aber diese komische Komponente hinzu das Dinge in der Spielwelt von Elder Scrolls nicht immer so groß sind wie sie sein müssten. Ich finde allerdings das die Festung Blaublut das dümmste Exemplar seit langem ist. Wo schlafen die Soldaten, wie kommt man auf die Mauern. Gibt es noch andere Lagerräume? Wo sind all die Dinge die eine Festung ausmachen. Müsste es nicht eine Waffenkammer geben? Stattdessen finden wir einen Mord und hohe Mauern vor. Sehr seltsam. Hohe Mauern die dann gefühlt einen Tennisplatz einrahmen, mehr nicht.
   
@@ -2808,7 +2808,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 12 des Blackwood DLCs - Sitzung 2
+  Folge 13 des Blackwood DLCs - Sitzung 2
   
   An sich sind wir schon wieder fertig in Gideon und könnten quasi sofort weiterreiten, es stellt sich übrigens heraus das Ratsherr Vandacia ziemlich vehement weiter behauptet das er von der dunklen Bruderschaft gejagt wird. Das Problem ist bloß...Elams Argument ist ziemlich stichhaltig, etwas das ich auch bereits im Vorfeld angesprochen hatte, wäre der Ratsherr das Ziel eines Kontraktes wäre er bereits tot. Außerdem kennen wir ihn und eigentlich ist die Bruderschaft nicht für ihre Lügen bekannt, insbesondere nicht anderen Mitgliedern gegenüber. Das lässt mich schlussfolgern das ein gewisser Ex-Ratsherr dem aus irgendwelchen Gründen noch erlaubt wird seinen Titel zu halten lügt. Warum er das tun sollte ist mir nicht ganz klar aber das macht das alles ein wenig verdächtig. Insbesondere weil ich mich wirklich frage wofür. Wir wussten bereits das er ein Ziel sein könnte, warum also noch einmal den Fall weiter anheizen? Mit einer Geschichte die eventuell Zweifel an seiner Position sähen könnte? Irgendetwas passt hier überhaupt nicht zusammen und all das nur weil ein unnötiges Risiko eingegangen ist. Sich selbst als Opfer zu deklarieren ist eine klassische Taktik unschuldig zu erscheinen. Leider kann ich immer noch nicht auf diese Information hin handeln also spielt es eigentlich auch keine Rolle. Als wir Gideon verlassen treffen wir übrigens noch einmal den Magier an der Kreuzung.
   
@@ -2816,7 +2816,112 @@
   7:30 - 9:59: Buch: Silberne Glocken
   10:00 - 18:36: Rumlaufen
   
-  https://www.youtube.com/watch?v=nyxsal5P8yA
+  Lesung Bücher Keshus Schwarzflosse: https://www.youtube.com/watch?v=nyxsal5P8yA
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1439
+
+* Titel: `Let's Play ESO #1439 - Ratsherren Versammlung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 14 des Blackwood DLCs - Sitzung 3
+  
+  Eigentlich muss man sich in jeder Geschichte die wir so erleben vor Augen halten das wir eigentlich nur jemand sind der durch Zufall da ist. Eine Soldklinge. Eine angeheuerte Schlägerin die für Geld die Geschicke der Welt ein wenig unterstützt. Im Großteil haben wir keinerlei Eigeninitiative und handeln strikt im Auftrag anderer. Für die Welt als solche sind wir quasi ohne Konsequenz. Wenn wir nicht währen käme da jemand anders. Eventuell ist es aber auch so das ohne unser Eingreifen die Welt ein wesentlich dunklerer Ort wäre weil viele Pläne des "Bösen" einfach so geschehen würden und sich niemand da gegenstellt. Bei Ereignissen wie heute, einer Ratsversammlung, in der wir einfach nur Zuschauen ohne irgendwie eingreifen zu können wird aber mal wieder bewusst das wir nicht mehr als ein Zahnrad im Lauf der Zeit sind. Manchmal ein wenig ärgerlich wenn man parallel nachdenkt und Dinge seltsam erscheinen aber man leider keinerlei Gewicht hat die Ereignisse zu beeinflussen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1440
+
+* Titel: `Let's Play ESO #1440 - seriöse Angebote [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 15 des Blackwood DLCs - Sitzung 3
+  
+  Es ist geschafft. Wir haben die erste große Mission und damit unsere Ankunft im Dunkelforst tatsächlich erfolgreich hinter uns gebracht. Der Erfolg besteht aus dem Tod diverser Leute an denen wir kein Anteil hatten, Schlimmer, wir konnten ihren Tod auch nicht verhindern. Unsere nächsten Schritte führen uns jetzt scheinbar hinter die Spuren der dunklen Bruderschaft die aber, soweit wir das sehen können, keinerlei Schuld trifft. Alle Zeichen deuten aber auch darauf hin das sie es nicht gewesen waren. Beweisstück A, es haben Leute überlebt, und ich habe noch keinen Kontrakt erhalten. Es ist ja nicht so das die Bruderschaft aufgibt wenn der erste Agent keinen Erfolg hatte. Bis wir uns damit aber weiter auseinandersetzten machen wir uns erst einmal auf dem einfachen Volk von Leyawiin und Umgebung zu helfen. Also auf zum Beauftrager täglicher Aufgaben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1441
+
+* Titel: `Let's Play ESO #1441 - die Tiefenstrom-Kaverne [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 16 des Blackwood DLCs - Sitzung 3
+  
+  Eigentlich sind wir an diesen Ort gekommen weil ein komischer Kerl der anscheinend diverse kleinere Abenteureraufträge für Elfen wie mich beauftragt uns gesagt hat das wir hier irgendwelche Käfer sammeln sollen. Die Dinge kamen aber dann doch ein wenig anders als ursprünglich gedacht. Stellt sich doch glatt heraus das hier wohl einst ein Mausoleum stand das einem großen Held geweiht war. Anscheinend einen Jäger von Minotauren, was die ihm getan haben erfahren wir auch recht schnell, das schmälert dann aber ein wenig den Heldenepos. Phalevon hat, so möchte es uns ein Buch erzählen, den Tod eines Verwandten rächen wollen. Auffällig ist aber das er bereits ein Horn besaß das von Minotauren stammte, es spricht also wohl Einiges dafür das er schon vorher einige viele Minotauren angegriffen hat. Das wieder rum stellt die Frage was es überhaupt mit den Minotauren auf sich hat. Sie sind, wie wir schon oft festgestellt haben, der Kultur fähig, und doch scheint niemand zu versuchen mit ihnen zu sprechen. Das alles erscheint doch sehr fischig oder? Letztendlich war unserer großer Held wohl einfach nur ein gedrungener Mörder mit guter Presse. Oder auch nicht, außer seiner Nachfahrin scheint sich niemand mehr an ihm zu erinnern. Auch ein wenig traurig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1442
+
+* Titel: `Let's Play ESO #1442 - Ankunft in Felsehain [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 17 des Blackwood DLCs - Sitzung 3
+  
+  Felshain ist ein Ort an dem man eigentlich als Gruppe hingeht. Wie ziemlich schnell offensichtlich wird wenn man mich durch zählt bin ich genau eine Vampir Hochelfe. Ich kann mich auch nicht verdoppeln noch habe ich irgendwelche Begleiter  dabei. Ich bezweifle aber auch das es irgendetwas bringen würde wenn ich einen persönlichen Begleiter mit dabei hätte. Einen Begleiter den übrigens alle anderen Spieler zu haben scheinen. Ich warte immer noch auf diese Mission. Wir sind in Felshain größtenteils um uns anzuhören welche Inhalte ich dieses Mal verpasse. Anscheinend haben irgendwelche Argonier andere Argonier überfallen. Soweit so uninteressant, bessere Details finden sich dann aber bei Erklärung was die überfallenden Argonier tun. Anscheinen ist die lokale Tempelstruktur instabil und weißt besondere Eigenschaften auf. Darüber würde ich gerne mehr erfahren, werde ich aber wohl nie, weil ich alleine bin. Ich und meine Stimmen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1443
+
+* Titel: `Let's Play ESO #1443 - Flugblatt Autorenassistentin [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 18 des Blackwood DLCs - Sitzung 3
+  
+  Wir beginnen die heutige Episode immer noch in Felshain, merken dann aber relativ schnell das der Ort wohl doch weniger etwas für eine einsame Hochelfe ist. Manchmal kann man die Welt einfach nicht alleine retten. Da Felshain aber wesentlich weniger als die Welt ist mache ich mir gar nicht erst die Mühe weitere Weggefährten zu finden sondern setzte Segel auf den nächsten Ort. Das wäre dann auch Gideon, dort weiß ich das es mindestens noch zwei Nebenmissionen für mich gibt und die gedenke ich auch anzunehmen. Die erste "Mission" ist eine Art Handlangertätigkeit für eine angehende Autorin von Liebesromanen. Ihr Name ist Ysara und es ist fast schon romantisch wie verdreht ihre Ansichten für Romantik sind. Ein Umstand der ihr in ihrer Tätigkeit als unpublizierte Autorin sicherlich sehr hilft. Ich frage mich übrigens ernsthaft wie das funktioniert, soweit ich weiß gibt es keine Druckerpresssen in der Elder Scrolls Welt und doch gibt es Autoren? Wer kopiert die Bücher? Wer kann alles wirklich lesen? Ist das Bildungsniveau weitaus größer als man immer vermutet und wie läuft das alles zusammen? Hat sich da wirklich jemand Gedanken um das Worldbuilding gemacht oder wird das einfach nur so rein geworfen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1444
+
+* Titel: `Let's Play ESO #1444 - die Geisterlaterne [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 19 des Blackwood DLCs - Sitzung 3
+  
+  Leben und Sterben in der Elder Scrolls Welt ist, soweit ich das verstanden habe ein relativ komplizierter Prozess der sich ziemlich ziehen kann. Es kann schon mal vorkommen das man als Geist einige Jahrhunderte oder vielleicht sogar Jahrtausende an einem Ort gebunden bleibt. Das große Problem hier ist wohl auch das es nicht immer nur die eigene Bindung ist sondern externe Kräfte die dann andauern. Wir hätten da zum Beispiel Nekromantie die Verstorbene für sehr lange Zeit an einem Platz festmacht. Magie scheint, einmal gewirkt, nicht mehr richtig abzunehmen, kein natürlicher Verfall. Das führt zu Einigen interessanten Problemen. Zum Beispiel laufen irgendwo irgendwelche Ayleiden Geister durch die Gegend mit denen absolut keiner mehr irgendwelche Berührungspunkte hat. Auch nervig ist das das die meisten Geister den gleichen Tag immer wieder und wieder erleben und nicht wirklich entwicklungsfähig sind, das hält sie auch davon ab weiter zu ziehen. Mit einem solchen Geist haben wir es heute aber nicht zu tun, stattdessen treffen wir heute Geister die anscheinend noch ziemlich gut geistig dabei sind aber leider nicht normal gesehen werden können. Und bisher hat sich wohl niemand die Mühe gemacht nach zu forschen. Ich habe übrigens keine Ahnung wer diese Laterne verkauft haben soll, bestimmt  eine Referenz zu irgendetwas.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARec
+  ```
+
+##### #1445
+
+* Titel: `Let's Play ESO #1445 - Leidenschaft & Nekromantie [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 20 des Blackwood DLCs - Sitzung 3
+  
+  Gelegentlich bin ich ziemlich stolz auf die Art und Weise wie ich eine Episode benenne. Wenn es mir nur darum gehen würde möglichst viele Klicks zu generieren würde ich übrigens Andere wählen. Manchmal benenne ich aus Versehen Episoden nach Rätseln oder wichtigen Gegenständen und dann kommen ganz viele Leute an und meckern das ich ja ein 20 Minuten langes Video für 20 Sekunden Erklärung gemacht habe. Das schmerzt mich immer ein wenig. Heute ist das anders, Leidenschaft und Nekromantie tauchen heute beide auf und spielen letztendlich eine zentrale Rolle werden aber nicht in dem Zusammenhang als Paar erwähnt. Ich bin mir übrigens nicht 100% sicher ob ich die Entscheidung am Ende mag, oder anders, ob die Art wie die Entscheidung als endgültig dargestellt wird zu meiner vollsten Zufriedenheit ist. Hier wäre dann wohl wieder die Stelle wo ein klassisches Pen&Paper Erlebnis mit einem Gamemaster der eine nuancierte Entscheidung ermöglichen würde wesentlich schöner wäre. Ich sollte niemals intensiv Stift&Papier spielen, am Ende meckere ich noch mehr das ESO Entscheidungen flach sind. Mehr als jetzt schon
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe

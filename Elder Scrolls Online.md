@@ -2927,6 +2927,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1446
+
+* Titel: `Let's Play ESO #1446 - das heimgesuchte Vermächtnis [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 21 des Blackwood DLCs - Sitzung 4
+  
+  Ja, es gibt da irgendwo eine große Bedrohung durch die Daedra und ich bin mir sicher das auch in dieser Sekunde der Orden der erwachenden Flamme daran arbeitet die Welt zu einem besseren Ort zu machen und wir sie eigentlich aufhalten müssen aber für den Moment gibt es ganz andere Dinge die uns interessieren. Zum Beispiel das Vermächtnis der Familie Gemain. Wir treffen einen gewissen Faric aus besagter Familie, er hat das Problem das der Orden der Dibella anscheinend ein persönliches Problem mit ihm und all seinen Verwandten hat. Das beruht auf ein, so wie er beteuert, Missverständnis in der Vergangenheit mit seiner Großmutter. Um das richtig zu rücken helfen wir den guten Mann und lernen dabei sogar ein wenig etwas über die verschiedenen Religion Tamriels und was diese in ihrer Ausübung eigentlich tun.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

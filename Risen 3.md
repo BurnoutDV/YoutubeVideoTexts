@@ -1293,12 +1293,16 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
-##### #Nummer
+##### #93
 
-* Titel: ``
+* Titel: `Risen 3 - #93 - Kapitel 3 [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Heute kommen wir richtig vor ran. Eigentlich habe ich erst vor ziemlich kurzer Zeit das zweite Kapitel angefangen, aber das scheint generell und überhaupt eine Tradition in Piranha Bytes Spielen zu sein. Die einzelnen Kapitel gehen fließend in einander über und es ist nicht wirklich klar zu erkennen wann eine Veränderung eintritt, davon abgesehen das es einen riesigen Pop-Up gibt. Heute wechselt zum Beispiel das Kapitel weil wir mit Eldric darüber reden das wir den Lavateil der Insel kurz erkunden wollen. Das löst dann scheinbar die Ereignisse aus die uns ins nächste Kapitel treiben. Ich sehe nicht wirklich das sich irgendetwas verändert hat aber wenn das Spiel sagt es jetzt das dritte Kapitel ist, wer bin ich schon dem zu widersprechen. Wie dem aber auch sei, große Taten erwarten uns in jedem Fall und ich bin mir eigentlich ziemlich sicher das ich diese auch alleine durchführen werde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```

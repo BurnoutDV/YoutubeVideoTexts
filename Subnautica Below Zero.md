@@ -465,6 +465,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #34
+
+* Titel: `Subnautica Below Zero - #34 - Heimkehr in die Wärme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren jetzt wirklich lange auf dem "Festland" unterwegs, zwischenzeitlich haben wir uns ziemlichen Gefahren in der Form von Schneepirschern und Eiswürmern gestellt. Außerdem haben wir den mutmaßlichen Todesort unserer Schwester entdeckt. Natürlich gab es vor Ort keine Leiche, das wäre doch ein wenig makaber gewesen. Warum der Ort evakuiert wurde ist uns nebenbei bemerkt immer noch nicht bekannt. Technisch gesehen gab es aber doch eine Leiche, ein gewaltiger Leviathan von Karra Pocken überseht. Ärgerlicherweise hilft uns das nicht wirklich weiter, allerdings haben wir auch andere Dinge gelernt. Wie zum Beispiel das wir dringend so einen von diesen Späherpinguinen für das Erkunden von irgendwelchen Höhlen brauchen und das es wohl an der Zeit ist das wir einen bauen. Also nutzen wir einmal den kurzen Moment des Friedens um in unserer Heimatbasis konstruktiven Tätigkeiten nach zu kommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

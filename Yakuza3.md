@@ -100,6 +100,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #8
+
+* Titel: `Yakuza 3 Remastered - #8 - Shiros Probleme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Yakuza 3 scheint ziemlich langsam anzufangen, das hier ist der Anfang der zweiten Sitzung nachdem ich eine Woche Pause gemacht habe und so wie die Dinge im Moment stehen passiert hier nicht besonders viel. Wir sind noch mit unserem Waisenhaus Marke "Morgenruhm" beschäftigt und mit den 9 Kindern die sich darin aufhalten. Das ganze Mafiazeug scheint wirklich hinter Kazuma Kiryu zu liegen und es gibt einen Moment der Ruhe. Die Probleme die Kiryu jetzt erlebt sind wesentlich kleiner als alles andere was er in der Vergangenheit gesehen hat. Und es bietet eine Gelegenheit das Kiryu zeigen kann das er ein weiser Mann über die Jahre geworden ist. Man könnte sogar sagen, in Würde gealtert. Quasi schon vorzeitig wenn man sich anschaut wie jung Kiryu eigentlich noch ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

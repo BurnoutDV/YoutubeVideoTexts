@@ -1306,3 +1306,55 @@
   Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
+
+##### #94
+
+* Titel: `Risen 3 - #94 - Großonkel Randolph von Dreel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Meine Crew ist mir enorm wichtig. Man möchte das übrigens gar nicht meinen wo ich doch eigentlich immer nur Bones bei mir habe und das auch nur weil er ein willentlicher Heil-Bot ist. Aber doch, ein wenig interessiere ich mich schon darüber was meine Leute denken. Als wir in Calador angelegt haben hat zum Beispiel unser Aushilfsdämonenjäger nicht damit aufgehört über das Vermächtnis seines Großvaters zu reden. Das war in der Tat ein wenig nervig und ich möchte auf keinen Fall behaupten das ich nur deswegen der Suche zugestimmt habe aber genau so war es. Die beste Methode etwas aus mir raus zu kriegen ist solange ein wenig zu nerven bis ich nachgebe und Dinge tue. Im Nachhinein war die Suche noch den alten Familiengrundstück der Von Dreels sogar ziemlich witzig weil sich etwas herausgestellt hat das Edwards arroganten Gehabe ein wenig die Luft nehmen sollte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #95
+
+* Titel: `Risen 3 - #95 - Schattenlord des Zweifels [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf Calador gibt es, bzw. bald gab es anscheinend sowohl zwei Kristallportale als auch zwei Schattenlords. Ich bin mir nicht ganz sicher wie die beiden mit einander korrelieren weil manchmal die entsprechenden Lords ziemlich weit weg von den Portalen sind aber anscheinend auf jeden Fall das tote Land verursachen. Generell und überhaupt ist die Wechselwirkung von Schatten und eigentlich allem nicht immer ganz transparent dargestellt. So wie es aussieht müsste aber jeder Tot bzw. Verbannung der Schattenlords dafür sorgen das die Welt ein besserer Ort wird. Davon einmal abgesehen wollten die Dämonenjäger sich um den zweiten Lord selber kümmern, und das obwohl der Kreuzzug gegen den Ersten bereits ziemlich fatal war. Daher übernehme ich das einmal, schon um den armen Dämonenjäger das Jagen von Dämonen zu ersparen. Mir scheint nämlich das sie darin nicht besonders kompetent sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #96
+
+* Titel: `Risen 3 - #96 - der kosmische Glückslöffel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf Calador gibt es relativ viel Zivilbevölkerung, insbesondere wenn man bedenkt das die Dämonenjäger es so darstellen als gebe es an jeder Ecke tonnenweise Monster. Das Problem haben wir ja mittlerweile gelöst aber im Sumpf, da wo niemand mehr hinkommt weil die Brücke zerstört wurde noch Überlebende vorzufinden erscheint mir doch ein wenig unwahrscheinlich. Insbesondere wenn man bedenkt das sie bereits angegriffen wurden und überlebt haben. Ich dachte eigentlich das die Schatten alles töten bis nichts mehr da ist. Warum sollten sie auch von ihren Opfern ablassen. Es ist ja nicht so das sie das Fleisch der Menschen tatsächlich bräuchten. Das muss also am komischen Glückslöffel liegen. Das Ding hat von mir übrigens eine Aufstufung zum "kosmischen" Glückslevel erhalten weil ich mich verlesen habe und weil die Macht des Gegenstandes doch eigentlich evident ist. Es handelt sich ja wie jeder sehen kann um ein Objekt großer Macht. Völlig klar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

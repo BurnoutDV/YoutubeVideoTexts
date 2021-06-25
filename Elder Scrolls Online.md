@@ -2942,6 +2942,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1447
+
+* Titel: `Let's Play ESO #1447 - drei schwarze Seelensteine [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 22 des Blackwood DLCs - Sitzung 4
+  
+  Im Gegensatz zu anderen Elder Scrolls Spielen können wir in ESO nur "gut" sein, selbst als Vampir der bei der ersten Gelegenheit die eigene Großmutter an einen Riesen verkaufen würde scheint es nicht wirklich Kanon zu sein das wir etwas Anderes als die Inkarnation eines guten, weißen Helden sind. Graustufen sind uns kaum erlaubt, daher wissen wir auch nicht was ein schwarzer Seelenstein genau ist, wie man ihn verwendet und sind natürlich auch davon abgeschreckt auch nur in der Nähe eines solchen "Gerätes" angetroffen zu werden. Die große Frage die sich mir hier aber stellt: Könnte man die Personen wieder herstellen die darin gefangen sind? Klar, die physischen Körper sind schon ziemlich lange tot und wir wissen das die Dwermer zumindest Personen in Maschinen getan haben aber das müsste doch eigentlich noch anders gehen. Einen funktionierenden Körper aus dem Nichts zu erschaffen ist bestimmt nicht ganz einfach, aber andererseits haben Geister immer das Aussehen ihres ehemaligen Körpers, also eine Art Erinnerung wie sie früher einmal waren. Zu Schade das wir jetzt keine Zeit für lange Experimente haben. Aber zerstören tun wir die Seelensteine auch nicht, seltsam.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1448
+
+* Titel: `Let's Play ESO #1448 - Geisterhafte Entdeckungen [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 23 des Blackwood DLCs - Sitzung 4
+  
+  Heute gehen wir unter die Geisterjäger. Lustigerweise tun wir das sogar mit einem alten Bekannten den ich persönlich schon wieder total vergessen hatte. Es handelt sich um Revus Demnevanni, ich hatte natürlich alles vergessen aber anscheinend ist er Mitglied des Hauses Telvanni ist und dort nicht allzu hoch angesehen ist. Das könnte damit zusammenhängen das er sich in der Regel mit sehr nischigen Themen zu beschäftigen wie Kwama Eiern oder Dwermer Ton-Resonatoren. Ich frage mich ob ich den guten Mann irgendwie an die Psyjic Mönche verweisen kann. Davon einmal abgesehen hat man also ausgerechnet einen Dunkelelfen dazu abgestellt Geister zu jagen, wenn man sich anschaut welches Verhältnis diese zu ihren Ahnen haben wir das ganze Projekt noch seltsamer. Warum man unbedingt soweit reisen musste um Geister zu jagen ist mir übrigens nicht klar, gefühlt gibt es alle 5 Meter Geister, und Ayleiden sind vielleicht das beste Ziel wenn man bedenkt das deren magische Kunst das Verständnis der aktuellen Generation bei Weitem übersteigt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1449
+
+* Titel: `Let's Play ESO #1449 - das Veyond Rauchfaß Experiment [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 24 des Blackwood DLCs - Sitzung 4
+  
+  Wir sind in der Veyond Ayleiden Ruine. Ich frage mich jedes Mal aufs Neue woher wir eigentlich wissen wie diese Orte heißen, ansonsten ist anscheinend absolut nichts von den alten Elfen über außer das man sich ihrer mit einer gewissen Abneigung erinnert nur wenig. Irgendwann herrschten sie über das Herzland von Cyrodil aber darüber hinaus wissen wir nur wenig über ihre Kultur. Ihre alten Städte die irgendwie alle im Boden versunken sind werden ausnahmslos von Untoten und oder Banditen heimgesucht und stehen der Allgemeinheit nicht zur Verfügung. Ich hätte gedacht das daher auch der Name in Vergessenheit gerät. Wie bereits in der letzten Episode erwähnt tun wir aber heute etwas gegen den Geisterbefall. Mit wahrlich magischen Mitteln. Jetzt bin ich nur gespannt ob diese großartige Konstruktion aus dem Hause Demnevanni tatsächlich auch effektiv ist. Ich habe da zum Beispiel einige Zweifel was das Design angeht. Warum ein Rauchfaß, wie praktisch einsetzbar ist das Ganze wenn man dafür tief in das Gewölbe muss? Und generell und überhaupt. Immer gute Gründe.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

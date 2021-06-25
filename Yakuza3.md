@@ -114,6 +114,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #9
+
+* Titel: `Yakuza 3 Remastered - #9 - Probleme in der Stadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen ja schon das die Dinge die da kommen werden ziemlich fatal und von großer Spannweite sein werden, aber für den Moment gönnen wir Kazuma Kiryu ein wenig Ruhe und laufen durch die Stadt. Erstaunlicherweise gibt es ziemlich viele Schläger in der Stadt, ich hätte eigentlich gedacht das ein ziemlich großer Japaner wie Kiryu die meisten niederen Schläger schon beim Anblick davon abbringen würde irgendetwas zu versuchen aber anscheinend verfolgen die niederen Banditen hier die gleiche Logik wie ihr Gegenpart in Elder Scrolls Spielen: "Hey der Typ da vorne hat ein volles Set hergestellt aus den Knochen von Drachen, der hat bestimmt eine Menge Geld". Das Ergebnis ist in Kiryus Fall nicht ganz so fatal, auffällig übrigens, Yakuza 3 scheint ein wenig blutiger zu sein als die Vorgänger, zumindest ist mir in den anderen Spielen nie so aufgefallen das die Leute nach einer Schlägerei lädiert aussehen. Außerdem entdecken wir heute aus Versehen einen Host Club. Was das bedeutet sollte jeden klar sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #10
+
+* Titel: `Yakuza 3 Remastered - #10 - Hostess Dinge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich gibt es in Yakuza 3 wieder Minispiele. Es gab absolut keinen Grund anzunehmen das es irgendwie anders sein sollte aber irgendwie hatte ich diese ganze Geschichte mit den Hostessen komplett verdrängt. Bei Gelegenheit muss ich übrigens mal nachgucken wie verbreitet das Ganze wirklich noch in Japan ist. Ich kann mir halt vorstellen das es in den 80er Jahren sehr beliebt war aber mittlerweile sollte es doch mehr Wege geben sich irgendwie zu unterhalten oder? Davon einmal abgesehen scheint mir das ganze Spiel mit den Hostessen jedes Mal aufs Neue immer stumpfer zu werden. Heute verstehe ich es übrigens gar nicht, aber irgendetwas mache ich offensichtlich falsch. Vielleicht ist aber das Mädel Schuld das ich ausgesucht habe. Wer sonst hängt tagsüber in einer Bar ab?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #11
+
+* Titel: `Yakuza 3 Remastered - #11 - Erzählungen aus der Stadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf die Nebenmissionen in Yakuza Spielen freue ich mich immer am Meisten, und auch wenn wenn wir noch ziemlich am Anfang sind und der große Konflikt noch gar nicht angefangen hat gibt es schon einmal einen kleinen Vorgeschmack auf das Ganze. Ich bin mir übrigens mittlerweile nicht ganz sicher ob das nicht bereits ein großer Teil des Spieles ist, das man sich mit den Kindern herumärgert und ein guter Ziehvater für 9 Waisen wird. Die ganze größere Geschichte kommt dann halt später ist für den Moment aber dann vielleicht gar nicht so wichtig und das alles hier ist gar nicht der quasi Prolog sondern ein großer Teil des Spieles. Davon einmal abgesehen erzählen wir heute irgendwelchen Landeiern wie schrecklich die große Stadt ist. Wahrscheinlich ist aber auch das man ein kleines Paradies wie die Insel auf der Kiryu sich niedergelassen hat gar nicht genießen kann wenn man den Unterschied nicht kennt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

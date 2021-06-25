@@ -479,6 +479,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #35
+
+* Titel: `Subnautica Below Zero - #35 - Körperlager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich tun wir heute direkt zwei Dinge. Zum Einen besuchen wir das Delta-Lager noch einmal, dort gibt es einen gewaltigen Turm der scheinbar in den Himmel sendet und mit Hilfe eines Spionage Satelliten unseren genauen Aufenthaltsort an Alterra sendet. Davon einmal abgesehen gehen wir heute außerdem zurück zu Maguerits Lager, wir wissen das dort noch eine weitere Höhle, wenn nicht sogar zwei Höhlen weiter gehen und das möchte ich mir schon noch einmal genauer anschauen. Nebenbei bemerkt habe ich aber völlig vergessen das die gute Frau mir sagt das sie ganz woanders wohnt und ich ein wenig den falschen Ort angepeilt habe. Aber wir finden ihr Lager sowieso nicht weil ich mich durch einen Hinweis von AL-AN ablenken lässt der mich darauf hinweist das es den Aufenthaltsort einer wichtigen Städte seines Volkes in der Nähe gibt. Das schauen wir uns doch gerne einmal an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #36
+
+* Titel: `Subnautica Below Zero - #36 - Rückkehr mit Musik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind schon wieder in unserer Basis, zu dieser Entscheidung kam es weil ich bemerkt habe das meine Lager bereits schon wieder sehr gefüllt waren und ich nicht mit einer quasi vollen Seemotte durch die Welt fahren wollte, und mit Seemotte meine ich eigentlich die Seebahn. Daher kommen wir heute in der Heimatbasis an und benutzen unsere neu erbeuteten Ressourcen um wichtige Dinge zu tun. Beispielsweise das Aufstellen einer Musikbox. Wir erinnern uns das wir mittlerweile einige Lieder gefunden haben und die möchte ich mir natürlich auch zu Gemüte führen. Ein wenig Hintergrundgedudel kann meiner Basis auch gar nicht so schlecht tun. Vielleicht locke ich sogar noch irgendwelche seltenen Fische an. Dann wüsste ich zwar immer noch nicht was ich mit denen eigentlich will aber ich hätte sie erst einmal. Weitere Pläne kann man dann ja immer noch machen. Im schlimmsten Fall entspanne ich mich ein wenig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #37
+
+* Titel: `Subnautica Below Zero - #37 - thermale Energie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man seine Basis tiefer unter Wasser bauen würde bräuchte man eine andere Energiequelle als das Sonnenlicht. Da 4546B an den Stellen die wir bisher besucht haben über ein ziemlich reichhaltiges Reservoir an Energie durch Vulkane verfügt würde sich wahrscheinlich irgendeine Art von thermaler Generator lohnen. Bis es aber soweit ist müssen wir noch Einiges an Magnetit finden, der Ressource an der es uns momentan noch ein wenig mangelt. Immerhin finden wir aber schon einmal ziemlich viele Bauteile die dabei helfen könnten. Das ich immer noch Marguerit suche weil ich zu doof bin in mein Tagebuch zu gucken sollte jetzt aber wirklich niemanden mehr stören oder? Immerhin finden wir trotz meiner absoluten Planlosigkeit immer noch Dinge die entdeckenswert sind. ich finde das in einer verqueren Art und Weise auch positiv.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1349,6 +1349,39 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #97
+
+* Titel: `Risen 3 - #97 - der Turm im Schatten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht immer denke ich mir selbstständig die Titel aus. Aus SEO Gründen ist es natürlich viel klüger einfach die Namen von Missionen, Charakteren und Orten zu benutzen. Weiter wäre es dann noch ziemlich klug irgendwelche Emoji Gesichter in das Thumbnail zu malen oder mein eigenes Gesicht weil anscheinend irgendwelche Untersuchungen bei den Fokusgruppe herausgefunden haben das die Leute eher Videos klicken würden auf denen man ein Gesicht sehen kann. Menschen sind wohl ziemlich einfach zu manipulieren. All das tue ich natürlich nicht, man kann mir also quasi vorwerfen das ich am Erfolg überhaupt nicht interessiert bin. Davon einmal abgesehen entzünden wir heute ein Leuchtfeuer und viel wichtiger eigentlich noch, treffen den Namenlosen. Das er nicht einmal im Nachhinein einen Namen erhalten hat ist irgendwie witzig aber auch ein wenig traurig. Immerhin kennen ihn schon alle, es ist aber trotzdem seltsam das niemand über ihn redet und das obwohl er sich doch ziemlich um die Welt verdient gemacht hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #98
+
+* Titel: `Risen 3 - #98 - Schwertgriffe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich machen wir heute noch andere Dinge und am Ende werde ich nicht einmal damit fertig die beiden Schwertgriffe zu sammeln die ich sammeln wollte. Stattdessen laufen wir wirklich viel herum. Aber immerhin fülle ich den Anfang mit Dialogen mit dem Namenlosen. Danach durchsuche ich noch ein Gebäude und finde sogar die wichtigen Zeilen eines Rituals. Aber dann geht alles schief weil ich mir in den Kopf setze gleich noch schnell die beiden Schwerter zu Ende zu schmieden. Aber das führt leider dazu das ich mich dann einer Tür aufhänge die mit einem Rätselschloss gesichert ist. Das Schlimmste ist das ich an dem Tag ein wenig brässig im Kopf war und daher es geistig einfach nicht auf die Kette bekommen habe die Mechanik vernünftig aufzuschreiben. Hätte ich das gleich am Anfang getan wäre die Tür wahrscheinlich nach einer Minute offen gewesen. So habe ich 7 Minuten lang rum gedreht, immer in der Hoffnung das die Tür von alleine auf geht.
+  
+  0:00 - Dialoge mit dem Namenlosen
+  4:34 - Erkundung
+  11:27 - Griff des Krönungschwertes
+  18:54 - Drehrätsel / Ende der Episode
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

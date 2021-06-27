@@ -521,6 +521,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #38
+
+* Titel: `Subnautica Below Zero - #38 - Kristalltiefen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer weiter tauche ich ab, grabe gierig nach immer Ressourcen und und finde immer größere Leviathane die mir das Leben zur Hölle machen wollen. Da anscheinend immer noch die Charter von Alterra gilt und die größte Waffe die ich erschaffen kann ein scharfes Messer ist gibt es durchaus einige Probleme mit den größeren Meereswesen. Die gute Nachricht ist aber das wir in den Kristalltiefen all die Dinge finden die wir eigentlich immer gesucht haben um die letzten Upgrades zu erschaffen die uns noch gefehlt haben. In dieser Hinsicht war der Erkundungsgang auf der Suche nach Marguerit sehr erfolgreich. Insbesondere wenn man bedenkt das wir die ganze Zeit schon wissen das sie auf keinen Fall bei sich zu hause sein wird. Und sogar abgeschlossen hat. Mir war übrigens im Vorfeld nicht so ganz bewusst das es überhaupt eine Option war die Schotte abzuschließen. Wie funktioniert das? Gibt es irgendwo ein Schlüsselloch oder braucht man eine Magnetstreifenkarte?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #39
+
+* Titel: `Subnautica Below Zero - #39 - Orientierungsschwierigkeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich suche immer noch Marguerit. Theoretisch weiß ich das sie ein Kilometer östlich von der Delta Station in einem Gewächshaus auf uns wartet. Praktisch gesehen fahre ich aber heute irgendwohin einfach weil ich kein Tagebuch lesen kann. Ich muss zugeben in Sachen Verwirrung ist dies nicht unbedingt meine beste Episode und bestimmt auch nicht die Schlimmste. Dennoch hätte ich wohl ein wenig schneller sein können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

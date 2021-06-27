@@ -156,6 +156,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #12
+
+* Titel: `Yakuza 3 Remastered - #12 - Familienerbstück [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendetwas stimmt mit meiner Familie nicht. Sie hat nämlich keine Familienerbstücke. Es gibt sie einfach nicht, die Uhr die mir mein Vater vermacht hat oder die Urne mit der Asche meiner Urgroßmutter. Stattdessen ist da einfach nichts und vielleicht ein paar nebulöse Erinnerungen an irgendwelche Urlaube vor ziemlich langer Zeit. Alle anderen Leute und insbesondere die die sich in Spielen herumtreiben haben dagegen quasi immer irgendwelche wertvollen Gegenstände die von ihren Vorfahren hinterlassen wurden. Eventuell liegt es auch daran das irgendwann mal Krieg war und einfach nichts mit genommen wurde oder ich zum Pöbel gehöre, aber irgendwie so muss es ja sein. Davon einmal abgesehen sprechen wir heute mit einem Alkoholhändler, um genau zu sein ein Destellierer von so genannten Awamori. Für den Moment reicht wohl zu wissen das es sich um Alkohol handelt. Der gute Mann hat Probleme und selbstverständlich kommt Kiryu vorbei gehoppelt und löst diese Probleme, er ist ja schließlich ein Ehrenmann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #13
+
+* Titel: `Yakuza 3 Remastered - #13 - das Golfspiel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Viele ziemlich schlechte Entscheidungen werden bei Goldspielen entschieden. Es ist ein altes Klischee aber aufgrund der Häufig von Vorfällen muss ich davon ausgehen das es hier eine valide Grundlage gibt. Wenn der Chef bei der IT-Abteilung vor bei kommt und erzählt das er eine tolle neue Software gekauft hat ohne vorher irgendjemanden zu fragen gab es entweder ein teures Essen oder ein Golfspiel davor. Golf ist der Sport der Reichen, der Rasen muss perfekt gepflegt sein, die Fläche gewaltig. Nicht umsonst ist die Wortnähe zu Gold vorhanden (purer Zufall). Kiryu macht sich diese Schwäche des Systems zu Nutze und versucht mit dem lokalen Stadtrat hier einige Absprachen zu treffen. Wie es so der Zufall will klappt das wesentlich besser als gedacht. Nachdem ich dann endlich einmal die Steuerung heraus habe. Ich hoffe ich muss nie wieder in Yakuza 3 golfen. Ich bin mir ziemlich sicher das ich beim zweiten Mal habe ich bestimmt keine Restfunktion.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -2987,6 +2987,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1450
+
+* Titel: `Let's Play ESO #1450 - in der Geisterfalle[Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 25 des Blackwood DLCs - Sitzung 4
+  
+  Wenn man Geister jagen geht sollte man sich vorher im Klaren sein was genau Geister eigentlich sind. In manchen Welten sind das eigene Wesenheiten die nur aus historischen Gründen als Geister betitelt werden aber technisch gesehen eigentlich quasi Aliens bzw. andere Intelligenzen sind. Im Elder Scrolls Universum sind wir uns in der Regel eigentlich ziemlich sicher das die meisten Geister die wir so treffen das Ergebnis von menschen und Mer sind die noch unerledigte Dinge haben oder durch irgendeine Art von Magie an einem Ort oder der Welt als Ganzes gebunden sind. Das wiederum aber stellt in Frage was genau eine Geisterfalle eigentlich macht. Wenn sie tatsächlich den Geist aus der Welt zieht müssen wir uns Sorgen machen das wenn das gute Stück zu mächtig ist könnte das Gerät doch theoretisch die Seele von einer lebenden Person raus ziehen. Das wäre dann echt problematisch.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1451
+
+* Titel: `Let's Play ESO #1451 - uralte Xanmeer Flüche [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 26 des Blackwood DLCs - Sitzung 4
+  
+  Ich dachte das wir bereits alle Nebenmissionen durch haben die wir so machen konnten im ersten Abschnitt von Finsterwalde. Offensichtlich ist dem nicht so, und der einfache Trick war einfach nur dem Weg zu folgen. Ich hätte natürlich auch direkt zu meinem Questmarker laufen können und hätte eventuell einfach alles verpasst. Lustig ist übrigens auch das ich erst vor Kurzem von dem Charakter geredet habe den wir heute treffen. Es handelt sich hier nämlich um eine alte Bekannte und irgendwie hatte ich ihre quirlige Art schon ein wenig vermisst. Aber auch nur ein wenig. Leider weiß ich auch gar nicht wann wir sie das letzte Mal getroffen haben. Dieses Mal hat sie es aber geschafft in komische Schwierigkeiten zu kommen. Für den Moment ist gar nicht abzuschätzen wie schlimm es eigentlich ist. Interessant ist aber das sie bereits in Schwierigkeiten ist, wenn ich ich mich recht entsinne waren die letzten Fälle immer so das sie erst in Schwierigkeiten geraten ist und nur vor der Tat da stand. Xanmeer sind übrigens diese alten Steinbauten der Argonier die sie anscheinend heute verdammen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1382,6 +1382,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #99
+
+* Titel: `Risen 3 - #99 - Seeschlacht gegen Morgan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wurde uns ja bereits angekündigt weil es Bones über seine Verbindung in das Reich der Toten schon vorhergesagt hat. Heute gibt es eine Seeschlacht. Der freie Pirat Morgan möchte uns anscheinend überfallen. Offensichtlich weiß er genau wo wir sind, wo wir hinfahren wollen und wie man uns am besten überfällt. Generell stelle ich es mir ziemlich schwer vor ein Schiff zu entern das nicht geentert werden will. Die meisten Schiff sollten ziemlich gleich schnell fahren, selbst wenn Morgans Schiff leichter geladen ist oder mehr Segel hat sollte es dennoch ziemlich lange dauern bis er uns eingeholt hat. Am Ende haben wir uns aber umsonst gefürchtet. Der gute Morgan hat nämlich einfach nichts drauf und auch seine Männer haben einen sehr uninspirierten Plan. Aber die gute Nachricht ist, anscheinend kann man unser Schiff nicht einfach so mit Kanonen zerstören, stattdessen muss es Sprengstoff auf der Oberfläche bzw. auf Deck sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

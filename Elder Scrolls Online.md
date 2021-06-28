@@ -3017,6 +3017,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1452
+
+* Titel: `Let's Play ESO #1452 - Schleimstibbons [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 27 des Blackwood DLCs - Sitzung 4
+  
+  Wir haben immerhin schon einmal herausgefunden das die vielen Kopien von Stibbons nicht wirklich er sind oder besondere Kopien seine Psyche sind wie ich ursprünglich annahm. Stattdessen handelt es sich um die Konstrukte erstellt durch einen mächtigen Magier. Das ist doch schon einmal beruhigend. Wie genau die Magie funktioniert kann ich aktuell noch nicht sagen aber es sieht so aus als würde man Schleim Intelligenz einflößen. Stellt sich eigentlich nur noch die Frage ob der Schleim von sich aus eine gewisse Affinität besitzt oder ob es sich um ein vollständiges Konstrukt durch Magie handelt. Auf jeden Fall borgt sich aber der erstellte Charakter ein wenig von der Vorlage, anders ist die Beziehung zu Fürstin Laurent nicht zu erklären. Dennoch ziemlich faszinierende Magie.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

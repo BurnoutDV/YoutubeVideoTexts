@@ -184,6 +184,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #14
+
+* Titel: `Yakuza 3 Remastered - #14 - ein Dieb im Haus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere Geschichte von Alltagssituation die Kazuma Kiryu mit seiner Weisheit löst geht weiter. Heute haben wir einen Dieb im Haus. Eines der Kinder steht zu vermuten weil der entsprechende Dieb tieferes Wissen über den genauen Aufenthaltsort des Geldes eines der Kinder gehabt haben müsste. Das führt natürlich zu einer Menge Spannung innerhalb der Familie. Niemand möchte mit einem Dieb zusammenleben und der Zusammenhalt der Familie wird dadurch auch gefährdet. Ich bin mir nicht sicher wie lange die Kinder zu diesem Zeitpunkt schon zusammenleben aber ich würde vermuten das die gesamte Familie in ihrer Konstruktion noch ziemlich jung ist. Generell weiß ich nicht so genau wie so Waisenhäuser in der Funktion funktionieren. Ich kann mir ehrlich gesagt nicht vorstellen das man das sequenziell macht und immer 5-9 Kinder in einem Zug durchzieht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

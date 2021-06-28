@@ -549,6 +549,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #40
+
+* Titel: `Subnautica Below Zero - #40 - große Erweiterung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder einmal bin ich ziemlich ungenau was meinen Titel angeht. Das ist natürlich Absicht um möglichst viele Leute mit Clickbait Titeln heranzulocken. Als nächstes tue ich noch Emojis in das Thumbnail und schreibe Dinge wie "was dann geschah sollte ihn für immer verfolgen". Die Wahrheit ist das mich tatsächlich etwas verfolgt, und zwar der Krebs den wir heute an unserem frisch erforschten Andockmodul angebracht haben. Weil die Gelegenheit so günstig war habe ich natürlich auch gleich noch das Schlafmodul gebaut und erstellt obwohl ich absolut keine Ahnung habe was ich damit eigentlich tun soll. Die gute Nachricht ist aber auch das die Seebahn jetzt ziemlich lang ist und bald wohl eher eine Seeschlange ist. Sehr schade übrigens auch das die einzelnen Element nicht mit einem flexiblen Verbinder zusammenhängen. Am Besten wäre noch eine Option das ich quasi wirklich wie eine Seeschlange durchgleiten könnte aber ansonsten das Schiff starr wäre.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

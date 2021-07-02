@@ -1396,12 +1396,86 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
-##### #Nummer
+##### #100
 
-* Titel: ``
+* Titel: `Risen 3 - #100 - Nebelinsellandung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt noch einen Ort den wir noch gar nicht erkundet haben. Die Nebelinsel und die Insel der Diebe. Beide Orte hätten wir schon lange anfahren können und ich dachte wir kommen da schon irgendwie hin aber aktuell sieht es eher nicht so aus daher gehe ich da mal lieber selber hin. In der letzten Episode hatte ich ja bereits den Kurs gesetzt, dann kamen Dinge dazu aber jetzt sind wir endlich da und können uns das alles auch ein wenig näher anschauen. Hier treffen wir auch einen weiteren Bekannten und es wird wahrscheinlich langsam Zeit wirklich einmal darüber zu reden wie wichtig es ist das man konstante oder zumindest ziemlich ähnlich klingende Synchronsprecher hat. Und wenn das nicht funktioniert sollten die entsprechenden Sprecher wenigstens die gleichen Anweisungen haben, dann kommen Charaktere am Ende nicht völlig anders rüber als in der letzten Installation
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #101
+
+* Titel: `Risen 3 - #101 - Seelenfressergeschichten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Gegnertyp der uns heute erwartet ist uns eigentlich bereits sehr bekannt. Mir drängt sich aber dennoch der Verdacht auf das wir schon viel früher auf der Insel hätten sein sollen. Waren wir aber nicht. Die Seelenfresser sind eigentlich diese Hundeartigen Dämonen die wir schon woanders getroffen haben. Im Gegensatz zu den Schattenlords scheinen sie aber niederträchtiger und nicht so direkt zu sein. Vielleicht sind sie auch weniger mächtiger was sie dazu treibt ihre Macht auf eine eher subtile Art zur Anwendung zu bringen. Konkret bedeutet das das sie in der Lage sind Menschen in den Wahnsinn und Verzweiflung zu treiben. Die lokalen Inquisitoren bzw. Protektoren nennen sie wohl "Seelenfresser". Ob sie wirklich genau das tun und sich die Seelen der Verstorbenen schmecken lassen können wir nicht abschließend sagen aber es gibt einige Argumente die dafür sprechen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #102
+
+* Titel: `Risen 3 - #102 - verdächtige Enten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was so Tiere im Allgemeinen angeht sind Enten schon ziemlich verdächtig. Klar, es gibt da einige Hunderassen und eigentliche alle Katzen im Allgemeinen die wesentlich verdächtiger aussehen. Aber Enten sind da auch nicht besonders weit hinterher. Mittlerweise wissen wir ja bereits das sich auf der Insel seltsame Wesen herumtreiben und der Einfluss der Schatten hier wesentlich subtiler stattfindet. Prinzipiell findet hier genau das statt von dem ich dachte das es eigentlich auch in Takarigua Geschichte. Dort ist Kommandant Sebastiano anscheinend durchgedreht, so wie es aussieht unter den Einfluss eines Schattenlords. Leider hat es absolut nichts gebracht den dort ansässigen Schattenlord des Wahnsinns und das dazugehörige Kristallportal zu zerschlagen. Insofern muss ich davon ausgehen das sein Wahnsinn ganz natürlich ist oder die Quelle noch jemand Anderes ist. Schließlich können die Dämonen jede Gestalt annehmen, auch die einer Ente...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #103
+
+* Titel: `Risen 3 - #103 - Balthasar und Mortimer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute treffen wir zwei sehr unterschiedliche Charaktere. Der Eine ist zum Beispiel seit ziemlich langer Zeit tot, dennoch können wir ihn nicht so einfach entsorgen, es scheint so das die Form eines Geistes ziemlich resistent gegen alles ist. Wir können ihn zwar für den Moment kurz schwächen aber das ändert dann letztendlich Nichts. Andererseits ist der Geist mit dem Namen Balthasar durchaus nicht feindlich. Er existiert zwar und erzählt uns Dinge möchte uns aber auch nichts antun. Zumindest für den Moment. Dennoch kann man sich des Anscheins nicht entledigen das er etwas zu verbergen hat. Weiter finden wir einen alten Piraten namens Mortimer, der wollte nie Pirat werden wurde aber zu dem Leben gezwungen. Die Geschichte kommt mir wage bekannt vor aber ich kann sie nicht direkt verorten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #104
+
+* Titel: `Risen 3 - #104 - Zrak Xakom [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mittlerweile eigentlich fast sicher das die einzelnen Kapitel der Inquisition mit ihren Soldaten den Protektoren einfach nur unfähig sind. Egal welche Operation wir sehen immer geht quasi alles schief, ihr Kommandant ist ein selbstsicherer Typ der der Meinung ist er wüsste alles besser und generell ist er ja unfehlbar. Dann finden wir die diversen Spuren für die vielen Verfehlungen der Entscheidungen. Oder wir finden einfach nur noch Leichen was im Prinzip ja das Gleiche ist. Eine Leiche mit Befehlen die entweder hirnrissig oder schlichtweg unmöglich waren. Am Ende sind es aber die einfachen Männer die den Preis für die mangelnde Vorsicht ihrer Vorgesetzten zahlen müssen, mit Blut. Wir finden heute außerdem Zrak Xakom, einen der Seelenfresser, in diesem Fall ist er aber nicht besonders subtil und er fällt uns quasi direkt ins Auge, nachdem wir unseren Blick von den zerfleischten Protektoren abgewendet haben...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #105
+
+* Titel: `Risen 3 - #105 - das vergessene Tal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Während ich von einem unglücklichen und möglicherweise toten Protektor zum Nächste laufe fällt mir übrigens so auf das es so scheint als wären die einzelnen Geschichten die ich so erlebe irgendwo geklaut worden. Das ist ein wenig hart formuliert könnte man jetzt sagen, daher benutzen wir lieber die Begrifflichkeit der Hommage. Ich denke spontan an die Odyssee, ein wenig später, bzw. in der nächsten Episode wird dann auch noch klarer was ich meine. Heute finden wir das vergessene Tal in dem sich einige mechanische Einrichtungen befinden die irgendwie darauf schließen lassen das der Ort eigentlich gar nicht so sehr vergessen wurde. Oder aber ich habe die Fähigkeiten der Inquisition mobile Schmieden aufzustellen bei Weitem unterschätzt. Ich möchte dieser Möglichkeit ein wenig Raum einräumen. Das bringt uns dann in die nächste Schwierigkeit. Von den Protektoren finden wir vor Ort nur noch Einen. Das ist eher schlecht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```

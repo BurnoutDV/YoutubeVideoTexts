@@ -563,6 +563,90 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #41
+
+* Titel: `Subnautica Below Zero - #41 - zu den Eisbergen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sicher habe ich dann doch endlich einmal begriffen das wir nicht sinnlos in irgendwelchen Tiefen umherschwirren müssen sondern stattdessen beim Gewächshaus auf dem Eisberg ein Treffen mit Marguerit anberaumen können. Also machen wir uns auf um die Eisberge zu finden. Irgendwo dort gibt es jemanden mit Informationen und die wollen wir natürlich auf keinen Fall entgehen lassen. Ganz davon abgesehen sind die Eisberge eine etwas seltsame Gegend. Unterwasser gibt es quasi kaum etwas zu sehen auch weil es quasi kein Licht gibt, über Wasser können wir die meisten der Berge nicht betreten. Immerhin gibt es aber nicht nur Pseudo-Pinguine sondern auch noch andere Dinge zu entdecken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #42
+
+* Titel: `Subnautica Below Zero - #42 - das Gewächshaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und endlich schaffe ich es dann doch endlich einmal, heute finden wir Marguerit und damit auch das Gewächshaus in dem so viele Antworten auf uns warten. Außerdem stoßen wir eher ziemlich zufällig auf einen Satelliten der Erbauer. Aber diese Entdeckung scheint irgendwie niemanden besonders zu interessieren. Das faszinierendste an Erbauer-Technologie ist immer noch mit welcher Leichtigkeit sie eigentlich den Zahn der Zeit und im Falle des Satelliten auch den orbitalen Eintritt überleben. Man hätte ja meinen können das Robin ja ein wenig mehr Interesse dafür zeigen würde, aber es ist scheinbar anders. Übrigens macht mir das mit am meisten Spaß an Subnautica, dieses phantasieren über die Dinge die sein könnten oder die diese doch irgendwie dystopische Welt da draußen aus machen. Irgendwann kommen wir zu unserer Basis zurück und haben nun die Notwendigkeit ein Gewächshaus zu bauen. Toll oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #43
+
+* Titel: `Subnautica Below Zero - #43 - das versprochene Glasdach [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Ende der letzten Episode habe ich mir vorgenommen zwischen dieser und der Vorherigen einige wichtige Arbeiten vorzunehmen um einfach dem Zuschauer die langweiligen Vorbereitungsdinge zu ersparen. Es stellt sich heraus das ich ein wenig faul war. Daher machen wir das heute, tatsächlich hatte ich sogar vergessen überhaupt ein Dach einzubauen obwohl sich das bei unserer aktuellen Position enorm anbietet. Hätte ich eine Basis irgendwo tief im Vulkan wäre es wahrscheinlich keine gute Idee überall Glas zu haben, insbesondere wenn irgendwelche große Viecher andauernd durch die Scheibe gucken würden. Das wäre echt anstrengend. Und auch ein wenig beunruhigend. Ich bin mir ziemlich sicher das man nur wenige durchgeschlafene Nächte hat wenn man andauernd von gewaltigen Viechern angeguckt wird oder die sogar versuchen an der Scheibe zu lecken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #44
+
+* Titel: `Subnautica Below Zero - #44 - Krebsbergbau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben vor ewiger Zeit in den Kappa Minen genügend Bauteile gefunden um unseren Krebs um einen Bergbauarm zu erweitern. Den haben wir dann auch erschaffen und sogar eingebaut. Dann haben entscheiden das wir eigentlich überhaupt gar keine Lust haben den Krebs immer mit zu nehmen und haben das gute Stück einfach stumpf da stehen lassen wo er gebaut wurde: in unserer Basis. Zu dem Zeitpunkt wussten wir bereits das es sowas wie das Krebstragemodul für die Seebahn gibt, leider haben wir nie alle Teile gefunden und daher haben wir es auch nicht bauen können. Dies hat sich in letzter Zeit geändert und ich kann nun endlich meinen Krebs ausfahren und tatsächlich praktisch einsetzen. Ich gebe allerdings zu das mein Einsatz eventuell nicht der Wichtigste aller Krebseinsätze ist aber das Prinzip ist hiermit dann erfolgreich getestet. Jetzt müssten wir nur noch die Seebahn um ungefähr 20 Tragemodule erweitern oder bräuchten ein richtiges Cargomodul...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #45
+
+* Titel: `Subnautica Below Zero - #45 - N6M Diamanten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist gut das wir den Krebs dabei haben. Heute finden wir die anscheinend einzige Quelle für größere Mengen Diamanten an einer Stelle. So wie es aussieht haben die Erbauer im Zuge ihrer Untersuchungen des Planeten auch weitere Orte gefunden die sehr besonders waren. Interessant ist übrigens auch das man überhaupt so viele Phänomene beobachtet hat, letztendlich sollten die Erbauer doch bereits alles gekannt haben was es zu kennen gibt. Handelte es sich bei den "Forschungsprojekten" vielleicht viel mehr um eine Art Hobby um sich die Zeit zwischen den einzelnen Seeimperator Projekt Schritten zu vertreiben. Auffällig auch wie quasi alle Konstruktionen der Erbauer immer noch an Ort und Stelle sind und so aussehen als würden sie noch funktionieren. Der Ort N6M ist übrigens auch der Letzte an dem ich noch nicht gewesen bin. Ab jetzt liegt die ganze AL-AN Geschichte ein wenig in der Luft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #46
+
+* Titel: `Subnautica Below Zero - #46 - der Schneefuchs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Zeichen die uns Alan gesetzt hat sind für das Erste erschöpft. Jetzt haben wir nur noch wenige Richtungen in denen wir unsere Reise fortsetzen können. Eine davon besteht definitiv darin sich einen ferngesteuerten Pinguin zu schnappen und mit diesem dann aufs Festland zu gehen und einige Höhlen zu durchsuchen. Vielleicht finden wir darin noch die Hinweise die es braucht um das Schicksal von Robins Schwester endgültig zu klären. Angeblich kam Sam bei den Versuch um irgendetwas mit Sprengstoff zu tun, aber von allem was wir so gelesen haben hatte sie ein anti-bakterielles Mittel um das Problem zu beseitigen. War es am Ende doch nur ein Unfall aufgrund eines erregten Geisteszustandes? Was auch immer passiert, wir können in Ruhe ihr Werk beenden und damit wahrscheinlich zumindest ein kleines Stück Seelenfrieden erreichen. Aber bevor es soweit ist müssen wir uns fortbewegen. Und dafür bauen wir den Schneefuchs.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

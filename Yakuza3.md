@@ -198,6 +198,90 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #15
+
+* Titel: `Yakuza 3 Remastered - #15 - Vermisstenmeldung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kazuma Kiryu hat eine ziemlich weiche Stelle für Kinder. Das ist unter Anderem eine schlechte Übersetzung und die Wahrheit. Er kümmert sich wirklich um die armen und Schwachen. Quasi ein Held wie er im Buche steht. Wie genau das damit zusammen steht das der gute Kiryu früher irgendwelche Typen in Gassen zusammengeschlagen hat um sie um Geld zu erleichtern ist mir allerdings ein wenig rätselhaft. An sich habe ich die komplette Geschichte und alles was er getan hat gesehen, und doch, irgendwie ist nicht so richtig klar wie Kiryu die Person geworden ist die er ist. Klar, es gab hier und dort ein paar traumatische Ereignisse und dann saß er auch ruhige 10 Jahre im Gefängnis. Übrigens ein Stück Hintergrundgeschichte das mir so vorkommt das nicht ganz so geplant war und sich eher so ergab. In den nun folgenden Teilen ist das fortgeschrittene Alter von Kiryu durchaus ein Probleme finde ich. Immerhin ist er immer noch fit genug um kleine Mädchen zu retten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #16
+
+* Titel: `Yakuza 3 Remastered - #16 - Tamashiro Gebiet [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich (deutsche) Menschen am Strand anguckt dann sieht man schnell das sie sich irgendwelche Gebiete abstecken und diese dann quasi für ihr Territorium erklären. In der Realität sieht dies nicht anders aus und in der Vergangenheit gab es lange Perioden in denen irgendwelche Warlords und später Könige Gebiete für sich erklärt haben und jene die dort leben als ihre Leibeigenen. Diese Phase der Menschheit ist größtenteils vorbei nachdem sich die einzelnen Stämme zu größeren Einheiten zusammengeschlossen haben. Dennoch gibt es immer wieder Bestrebungen bestimmte Gebiete in einer anderen Art zu beanspruchen. Zum Beispiel Gangs die bestimmte Straßen als ihr Gebiet erklären. Yakuza sind quasi auch nur Straßengangs, nur mit mehr Organisation und ein wenig mehr Reichweite. Heute gehen wir in das Gebiet einer anderen Familie.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #17
+
+* Titel: `Yakuza 3 Remastered - #17 - Tamashiro Familienbüro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich ja schon dargelegt das Menschen dazu neigen ziemlich territorial zu sein. Sie werden aber richtig aggressiv wenn man direkt in ihre Brutstätte eindringt. Genau das tut Kiryu heute indem er das Familienbüro der Tamashiros besucht. Wir haben zwischendurch erfahren das es wohl eine Verbindung nach Tokio mit dieser Familie gibt. Ich bin mir eigentlich ziemlich sicher das es sich dabei um den Tojo Clan handelt, das würde auch später die Verbindung zu der uns bekannten Yakuza Welt erklären. Bis wir davon aber mehr erfahren müssen wir uns durch die armen Trottel durchkämpfen die glauben das sie den Drachen von Dojima aufhalten können. Ich nehme einmal stark an das es nicht allzu viel Konkurrenz auf der Insel gibt, anders kann ich mir nicht erklären warum die örtlichen Yakuza so kampfschwach sind. Das Meiste was sie tun scheint herumtanzen zu sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #18
+
+* Titel: `Yakuza 3 Remastered - #18 - wiedervereint [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute sehen wir eine längere Zwischensequenz, selbstverständlich übersetze ich diese dann am Ende auch bzw. fasse sie zusammen. Simultan zu übersetzen würde doch meine Fähigkeiten ein wenig übersteigen und in all zu viele Ähs ausarten. Es sei aber gesagt das wir an sich heute wieder einmal eine typische Geschichte die Yakuza-Spiele erzählen erleben. Es geht um Liebe, Egoismus und letztendlich das Umkehren von falschen Annahmen die sich dann als besser als gedacht herausstellen. Wir hauen außerdem noch einen Yakuza Boss um was bestimmt keine Konsequenzen hat. Generell und überhaupt frage ich mich aber auch wie das dann laufen wird. Letztendlich haben wir ja "fair" gewonnen und den Gegner bezwungen. Das Ganze war aber natürlich nicht tödlich, müssen wir mit einem nächtlichen Überfall rechnen sobald man sich im Büro die Wunden geleckt hat oder ist das unter der Ehre eines Yakuza? An sich halte ich das ganze Ehrgebahren nur für eben das, Gehabe das sofort fallen gelassen wird sobald es um etwas geht. Ich bezweifle das es Rules of Engagement gibt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #19
+
+* Titel: `Yakuza 3 Remastered - #19 - Zurück in die Gegenwart [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es hat lange gedauert aber wir sind jetzt endlich bei den Ereignissen mit denen wir in das Spiel eingestiegen sind und damit auch in der Realität in der wir nicht mehr raten können um was es geht. Wir verstehen jetzt allerdings besser wer die Leute sind mit denen sich Kiryu umgibt und warum uns irgendein komischer Typ im Hawaii-Hemd als großen Bruder anspricht. Besagten Typen müssen wir übrigens noch los werden. Kiryu hat die Qualität seiner potenziellen Mitstreiter gesehen und entschieden das er die Angelegenheit eigentlich nur selber lösen kann weil es außer ihm niemanden gibt der die notwendige mentale und körperliche Stärke aufbringt. Man muss schon sehr erstaunt sein über die Selbstsicherheit mit der Kiryu an solchen Situationen auch heran geht. Man möchte meinen das ein Mann, egal wie stark, keine Berge versetzen kann. Aber Kiryu sieht das offensichtlich anders..vielleicht spielt er diese Selbstsicherheit aber auch einfach nur.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #20
+
+* Titel: `Yakuza 3 Remastered - #20 - Sprachkurse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir reisen noch nicht nach Toyko ab. Das kann man auch später noch tun und die Nacht ist schließlich jung. Das wollen wir nutzen. Zum Beispiel um in einer lokalen Bar richtig einen zu heben. Eigentlich haben wir Spaß an Trinkspielen und letztendlich ging es nur darum den Typen aus der Bar raus zu kriegen. Ich hätte trotzdem gerne verstanden ob man das Spiel austricksen kann oder ob es reiner Zufall war der uns in die Situation geführt hat in der wir jetzt sind. Immerhin lernen wir heute ein wenig Englisch. Das kann nicht das Schlechteste sein, ich bin wirklich gespannt ob das nur Teil eines größeren Scams ist oder ob wir am Ende tatsächlich noch Missionen haben die auf Kiryus neu erworbene Sprachfähigkeiten irgendwie ausbauen. Ich rechne nicht damit das es irgendetwas an der Hauptgeschichte ändert aber ich habe wirklich ein wenig Hoffnung das wir hinterher in Toyko noch eine Folgemission dafür finden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

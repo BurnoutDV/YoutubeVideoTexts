@@ -3032,6 +3032,96 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1453
+
+* Titel: `Let's Play ESO #1453 - Stibbo folgt [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 28 des Blackwood DLCs - Sitzung 5
+  
+  Während ich dies hier schreibe kenne ich bereits die genaue Natur der Stibbonskopien die mich die ganze Zeit verfolgen und die anscheinend Gräfin Laurent einfach nicht in Ruhe lassen können. Immerhin sind sie ziemlich nützlich und tun uns einen großen Gefallen in dem sie sinnlos auf Platten stehen bleiben. Ich weiß nicht so richtig was man eigentlich ohne eine Horde von Kopien hätte machen müssen. Aber wir haben ja die Kopien. Interessant ist übrigens auch das, wenn die Stibbonse tatsächlich aus Schleim bestehen warum können sie dann nicht durch Wasser laufen. Ich nehme einmal stark an das sie sich zersetzen würden. Andererseits haben wir schon genügend Schleime so gesehen die überhaupt gar kein Problem damit hatten durch Wasser oder Sümpfe zu rennen. Tatsächlich treffen wir diese Art von Gegnern sehr häufig in Sümpfen, also Orte in denen es echt schwierig ist trockenen Fußes zu bleiben. Kurios.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1454
+
+* Titel: `Let's Play ESO #1454 - Großschleimm Rectavius [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 29 des Blackwood DLCs - Sitzung 5
+  
+  Es gibt viele Wege zur Unsterblichkeit. Die Künstler aus dem Haus der Träumereien erreichen dies zum Beispiel durch ihre Werke über die noch in hunderten Jahren gesprochen wird. Nekromanten werden zu Lichen auch wenn das in der Regel das Opfern von ziemlich vielen Unschuldigen voraus setzt. Besonders mächtige Magier müssen anscheinend gar nichts tun, oder besitzen unbekannte Wege die aber nicht den meisten Leute zur Verfügung stehen, hier denke ich vor allen Dingen an Divayth Fyr. Gewisse Handel mit Daedra sind natürlich auch ziemlich beliebt, praktisch ein Vampir oder Werwolf zu werden oder eventuell sogar ein individueller Deal. Oder aber man transferiert seine eigene Essenz in ein Gerät bzw. alternativen Körper. Wir haben gesehen das die Dwermer durchaus geschafft haben lebende Wesen quasi als Geistpiloten für ihre Maschinen zu benutzen. Oder aber man verwandelt sich in einen Schleim. Nicht die Variante die ich als Erstes gewählt hätte.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1455
+
+* Titel: `Let's Play ESO #1455 - Untergangsgewölbe Prcixid [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 30 des Blackwood DLCs - Sitzung 5
+  
+  Es ist uns bereits bekannt das der einstige Kaiser Leovic im Zuge seines Daedra Freundesprogrammes verschiedene Gewölbe hat erbauen lassen in denen er die vier Ambitionen eingelagert hat. Oder das nehmen wir zumindest für den Moment da. Der Bau der Gewölbe ist auf jeden Fall gesicherte Tatsache. Danach wurden sie irgendwie von Magiern behandelt die sich am Ende eines finsteren Schicksals gegenüber saßen. Welche Art von Magie gewirkt wurde ist uns nicht bekannt. Ich hätte gedacht es handelte sich um Zauber die den Ort verstecken und beschützen sollten. Aber es könnte, jetzt nach neusten Erkenntnissen, durchaus sein das man stattdessen den Schleier zwischen den Realitäten versucht hat zu schwächen. Das was wir heute finden ist kein Ort mehr der wirklich in der physikalischen Realität Tamriels besteht. Es ist wahrscheinlich erstaunlich wie viele Plätze bereits solide Portale in eine andere Realität bieten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1456
+
+* Titel: `Let's Play ESO #1456 - mysteriöse Daedramaschine [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 31 des Blackwood DLCs - Sitzung 5
+  
+  Wir haben das Untergangsgewölbe nicht nur wegen der Architektur betreten. Es stimmt schon das es hier eine Menge zu entdecken gab und wir in der Tat einige neue Dinge gelernt haben. Zum Beispiel das sich Dremora anscheinend ein Bett auf glühender Kohle machen und das die Kohle in einer Zwischenebene des Vergessens gar nicht wirklich heiß ist und daher besagtes Bett nicht verbrennt. Außerdem deaktivieren wir heute eine Daedra Maschine die irgendeinen sinisteren Zweck diente. Wir wissen beim besten Willen nicht was genau das Gerät eigentlich macht und doch konnte wir es anscheinend mit einem einzigen Hammerschlag auf den zentralen Pult deaktivieren. Es ist bloß wirklich bedauerlich das uns das Narrativ nicht einmal den geringsten Ansatz von Erklärung zugesteht. Zu gerne hätte ich gewusst wie genau die Maschine funktioniert, was treibt sie an, welchen Sinn hat sie, wer hat sich das Design ausgedacht und kann sie einfach so an anderer Stelle neu entstehen? Wen müssen wir töten damit es keine Weiteren mehr gibt?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1457
+
+* Titel: `Let's Play ESO #1457 - Schatten im Sumpf [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 32 des Blackwood DLCs - Sitzung 5
+  
+  Kaum haben wir einen müden Helden zur Ruhe gebetet und die Ebene des Vergessens erneut vom Überschwappen aufgehalten widmen wir uns heute weltlicheren Problemen. Die Argonier von Hutan-Tzel sind scheinbar ein Stamm ohne Hist, auch wenn sie noch viel davon reden. Sie haben das Problem das sich die nahen Kaiserlichen immer näher an ihr Gebiet bzw. auch Dorf bewegen. Angeblich nur um Handelsrouten zu etablieren, aber die Geschichte zeigt das man den Kaiserlichen nur sehr bedingt trauen kann. Auch die Kaiserlichen sehen sich nicht unbedingt in der Offenherzigsten Situation. Das liegt aber auch daran das neuerdings eine größere Anzahl von Mitgliedern beider Gruppen verschwunden sind. Zum Glück sind wir jetzt hier um die Spannungen zu lösen und die Welt erneute zu einen besseren Ort zu machen. Zumindest für diejenigen die noch am Leben sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1458
+
+* Titel: `Let's Play ESO #1458 - Sumpftotem [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 33 des Blackwood DLCs - Sitzung 5
+  
+  Und heute präsentiere ich einen weiteren absolut generischen Episodentitel. Es geht aber, um etwas spezifischer zu sein, um Sumpftotems der Argonier die anscheinend dafür gemacht wurden um wilde Tiere in größeren Massen anzulocken. Wir wissen das die alten Argonier gerne Jagdprüfungen gemacht haben und ich nehme einmal an das dies ein Teil davon ist. Das ist auch viel leichter als die Viecher mühsam im Sumpf auf zu stöbern. Eventuell aber auch zur schnellen Fleischversorgung. So genau weiß man das aber auch nicht mehr. Interessanterweise weiß man aber noch wie man die Dinger aktiviert. Jetzt stellt sich noch die Frage ob magisch so stark aufgeladene Totems auch noch zu irgendetwas Anderem gut sind oder ob Tiere anlocken all die Arbeit wert war. Davon einmal abgesehen bin ich ein wenig überrascht das die gewöhnlichen Wald & Wiesen Argonier nicht in der Lage sind etwas gegen die Viecher zu tun, die wohnen da schließlich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

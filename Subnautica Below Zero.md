@@ -647,6 +647,62 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #47
+
+* Titel: `Subnautica Below Zero - #47 - Karte & Kompass [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe irgendwo eine Karte herumliegen, und irgendwie habe ich mir zwischendurch auch einen Kompass erschaffen. Das bedeutet in der Praxis das ich eigentlich alles habe um mich zu orientieren. Viel wichtiger eigentlich sogar, ich habe zusätzlich noch die Möglichkeit an beliebigen Orte eine Art Wegweiser auszuwerfen und mich damit zu orientieren. An sich sollte es also absolut gar kein Problem für mich sein irgendwelche Dinge zu finden. In der Praxis sieht das dann übrigens so aus das ich gewaltige Probleme habe Dinge zu finden. Heute zum Beispiel, ich habe all die Dinge um einen Weg zu navigieren aber irgendwie weiß ich dann doch nicht wo ich lang muss um dort anzukommen wo mir die Karte sagt das ich sein sollte. Eventuell mangelt es mir aber auch einfach nur an guten Maßstäben mit denen ich mich orientieren könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #48
+
+* Titel: `Subnautica Below Zero - #48 - Pinguinhöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere verlorene Schwester hat versucht etwas zu verhindern. Letztendlich gibt es anscheinend irgendwie eine Art Heilmittel gegen das Karra-Bakterium und die Menschheit hat weitgehend Zugriff darauf. Wie genau das alles funktioniert ist mir übrigens nicht bewusst. Die Erbauer erscheinen mir doch wesentlich fähiger was diese Dinge angeht und sind doch gescheitert. Aber vielleicht spielen hier doch noch Komponenten mit die ich nicht verstehe. Wie dem aber auch sei, irgendwo in den Höhlen die Sam mit den Pinguinen erkundet hat versteckt sich etwas, und das suchen wir. Ich bin mir sicher das sich dort ein Schatz versteckt und mit diesem Schatz können wir dann bestimmt sehr interessante Dinge tun. Wir haben schon ihren Anhänger und ich bin mir nicht ganz sicher um was es sich bei diesem Schatz handeln könnte, würde ich richtig in den Logs nachschauen könnte ich dieses Rätsel bestimmt vorzeitig lösen...oder aber wir finden einfach die Höhle.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #49
+
+* Titel: `Subnautica Below Zero - #49 - das Heilmittel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen haben wir in Sams Höhle kein Heilmittel gefunden. In unserem Fall heilt es gewissermaßen die Welt aber wenn man sich die genau Zusammensetzung einmal anschaut kann man wahrscheinlich nur bei einem toten Organismus sprechen. Wenn man sagt das irgendetwas gegen Bakterien oder Viren hilft darf man nicht vergessen das dies auch für einen Flammenwerfer oder eine Pistole wahr ist. Was wir eigentlich brauchen wäre ein scharfes Messer das nur den Teil töten und herausschneidet der uns wichtig ist und alles Andere am Leben lässt. Insofern ist der Titel ein wenig irreführend. Aber immerhin haben wir heute eine Art Abschluss gefunden. Wir vollenden das Werk das Samantha nicht erfüllen konnte. Ob wir uns jetzt besser fühlen? Kann man kaum sagen aber mit der Zeit kann vielleicht diese Wunde heilen und wir erleben eine neue Welt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #50
+
+* Titel: `Subnautica Below Zero - #50 - Krebslandgang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine kleine Sache fehlt uns noch. Und das ist ein unendlicher Vorrat an Energie und damit auch Energiewürfel die wir dann in unsere Fahrzeuge bauen können. Alle bekannten Orte die eventuell noch Würfel enthalten könnten haben wir bereits geplündert. Es ist übrigens ein wenig seltsam das nicht Alterra schon vor uns die Ionenwürfel an sich genommen hat. Generell und überhaupt mag ich auch nicht wie das Spiel immer mehr Story-Lücken hat bei denen ich eigentlich nicht mehr damit rechne das sie irgendwie gut erklärt werden. So wie es aktuell aussieht hat sich Alterra relativ lange auf dem Planeten aufgehalten und doch haben sie nichts von den Dingen die ich gefunden habe auftreiben können? Aber ihr Funkturm ist in der Lage festzustellen das sich in mehren hundert Metern Tiefen eine einzelne Person aufhält? Das erscheint mir doch ziemlich unwahrscheinlich. Auf jeden Fall brauchen wir zum Würfelabbau aber auch den Krebs daher müssen wir heute irgendwie mit dem Ding an Land gehen, den Weg den ich das letzte Mal genutzt habe kann ich leider nicht einschlagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

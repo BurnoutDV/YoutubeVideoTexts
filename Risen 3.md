@@ -1479,3 +1479,69 @@
   Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
+
+##### #106
+
+* Titel: `Risen 3 - #106 - die wunderbare Circe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir kommt es immer wieder so vor als hätten die Leute bei Piranha Bytes ein sehr seltsames Frauengefühl. Ich frage mich langsam aber sich ob das an einer bestimmten Person liegt die schon seit Gothic 1 Zeiten die Geschichten schreibt oder ob es sich mehr um ein Firmenkulturding handelt. Es wir irgendwie immer eine Zeit der harten Männer und schwachen Frauen beschreiben. Okay, so weit so gut, das dem so ist wird natürlich auch nie so wirklich klar kommuniziert, aber wenn dann doch einmal Frauen vorkommen ist das Bild das diese abgegeben sehr seltsam. Man muss sich ja nur Busenwunder Patty ansehen. Die ist vielleicht irgendwie eine starke Frau aber irgendwie auch nicht. Und jetzt kommt Circe, klar, es ist von vornerein klar das es sich um einen Succubus und damit um unseren letzten Seelenfresser handelt aber im Gesamtwerk hat das Alles hier ein wenig Geschmäckle.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #107
+
+* Titel: `Risen 3 - #107 - der Seelenhändler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alle Seelenfresser sind besiegt. Wir erinnern uns das es eigentlich sogar zwei Leute gab die uns auf die Spure derer gesetzt haben. Beiden haben wir unterschiedliche Dinge versprochen und technisch gesehen hat niemand davon gesprochen die Viecher dann am Ende auch zu erschlagen. Dem Ersten hatten wir nur gesagt das wir uns das mal angucken und dann dementsprechend gehandelt was uns für sinnvoll erschien. Dem Zweiten hatten wir eigentlich nur philosophische Fragen gestellt und er schickte uns dann auf die Suche nach bestimmten Artefakten. Gefunden haben wir dann am Ende doch wieder die Seelenfresser mit dem gleichen Ergebnis wie zuvor. Die zweite Person ist  eigentlich gar kein richtiger Mensch sondern ein schon seit langem toter Magier. Wieso grade er ein Geist der anscheinend mit der physischen Welt interagieren kann geblieben ist wird nicht erklärt. Allerdings stellt sich heraus das seine vielleicht doch so hilfsbereite Art nicht von ungefähr kommt. Der Mann hat doch tatsächlich sinistere Ziele. So ein Ärger aber auch!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #108
+
+* Titel: `Risen 3 - #108 - die erste Beförderung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Schattenlords, Seelenfresser und alle Schatten die wir irgendwo finden konnten mit großen Mut und noch viel größerer Kraft an jeder Stelle der Welt erschlagen. Am Ende werden wir belohnt. Dessen bin ich mir sicher. Leider haben große Taten es so an sich das sie nur von den wenigstens bemerkt werden. Und so kehren wir heute nach langer Ausfahrt nach Taranis zurück und bitten um eine Beförderung in den Rängen der Magier. Bereits in der Vergangenheit habe ich nach einer solchen gefragt. Damals hat man mir einen Aufstieg verweigert, trotzt meiner großen Taten. Es scheint fast so das alles was ich mache kaum etwas wert ist und nur das was man sieht wirklich zählt. Zu meinen Glück sind die Taten die selbst die klein geistigen Magier von Taranis sehen können immer noch groß genug, und so passiert heute was schon lange hätte passiert sein müssen. Ich werden befördert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #109
+
+* Titel: `Risen 3 - #109 - Reaktorstart [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben die Energie. Eigentlich haben die Magier die Energie aber so wie es aussieht kriegen die ohne unsere Hilfe sowieso nichts auf die Kette insofern spielt es wohl auch keine Rolle wer jetzt genau den Besitz anmelden möchte. Heute fangen wir endlich damit an den großen Kristallreaktor zu starten der anscheinend auf Taranis steht. Es handelt sich, soweit ich das sehen kann um die Nutzung einer natürlich Macht die hier aus irgendwelchen Gründen in gewaltigen Maßen vorliegt. Wenn man sich die Welt von Risen 3 anschaut ist es irgendwie ziemlich beeindruckend das noch niemand all diese Orte gefunden hat bevor die Götter die Welt verlassen haben. Wir treffen heute zudem Zacharias, dem Chefmagier der bisher zu beschäftigt war um mit uns zu sprechen. Das war im Nachhinein aber auch gar nicht schlimm, im Vergleich zu seinen restlichen Kollegen erscheint er mir auch nur wesentlich verwirrter als der Rest. Wir haben also nichts verpasst.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

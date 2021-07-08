@@ -124,6 +124,97 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #6
+
+* Titel: `Dark Souls Koop - #6 - Vorgärten des Abgrundes [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Untote sind rastlos, die meisten sind nur ziemlich hohl, haben ihre Aufgabe erfüllt oder aufgegeben. Diese Untoten machen nicht mehr weiter und scheinen auf ewig an einem Ort festzustehen. Nicht so wir. Wir setzen unseren Weg endlos fort bis auch der letzte Meister des Feuers überwunden ist. Unser nächstes Ziel sind die Diakone des Abgrundes, aber bevor wir bei der Diakonie des Abgrundes ankommen müssen wir zur großen Kathedrale und uns Zugang verschaffen. Und das tun wir auch, bzw. im Vorfeld latschen wir erst einmal den weiten Weg bis zur Kathedrale selbst. Beschwerlich.
+  
+  0:00 - Vorbereitung
+  3:08 - Kathedralen Weg
+  11:20 - Kathedrale des Abgrundes
+  14:40 - Friedhof
+  30:00 - Balustraden
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #7
+
+* Titel: `Dark Souls Koop - #7 - Schlafzimmerleiter [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Die Kathedrale des Abgrundes ist ein relativ großes Gebäude. Manchmal frage ich mich wie man die Riesen dazu überzeugt hat das Gebäude zu betreten oder ob die gewaltigen Wesen einfach mit eingemauert wurden. Wie dem aber auch sei, es gibt viel zu sehen. Zum Beispiel kann man über das Dach das Schlafgemach von Rosaria erreichen. Die Gute liefert die Fähigkeit Skillpunkte zurückzusetzen. Eine sehr praktische Geschichte die bestimmte Leute die spontan ihren Build umgebaut haben sehr erfreut. Aber es geht ja noch weiter, unter dem Dach laufen ebenfalls noch Leute rum, generell und überhaupt kann man durchaus von einem reichhaltigen Ort reden. Schön
+  
+  0:00 - Vorbereitung
+  3:50 - Diakonieräume
+  27:11 - Kathedralendach
+  40:00 - Diakonieräume
+  1:04:00 - Rosarias Gemach
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #8
+
+* Titel: `Dark Souls Koop - #8 - Diakonie des Abgrundes [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Bereits in den vorherigen Episoden haben wir uns darüber lustig gemacht. All die Dinge die wir hier tun zielen ja nur auf die Diakonie des Abgrundes ab. Es ist ja nicht so das es hier einen Erben oder Lord des Feuers gibt. Tatsächlich ist es so das wir wirklich nur da sind um irgendwelchen Leuten richtig dolle auf die Nerven zu gehen. Davon ausgehend das sie überhaupt noch soetwas wie Nerven haben. Heute ist es dann endlich soweit, wir treffen sie wirklich, die Diakone des Abgrundes. Die haben irgendwie mit der Menschlichkeit geflirtet und irgendwie sind auch schlimme Dinge geschehen. Aber was genau passiert ist vermag natürlich wieder niemand genau zu sagen. Wichtig ist aber auf jeden Fall das wir am Ende eine kleine Puppe erhalten. Die werden wir noch woanders gut gebrauchen können.
+  
+  0:00 - Rosarias Gemach
+  8:02 - Boss: Diakone des Abgrundes
+  11:00 - Riesenschlächter
+  18:20 - Boss: Diakone des Abgrundes
+  20:40 - Nachbereitung
+  29:00 - Feuerbandschrein
+  49:38 - Farron-Feste
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #9
+
+* Titel: `Dark Souls Koop - #9 - Farron Sumpf [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Kaum ist die Diakonie des Abgrundes besiegt brechen wir unseren Exkurs in die Kathedrale ab. Es gibt ja an sich auch nichts mehr zu holen. Der Ort ist an sich ziemlich tot wie auch jeder andere Ort in der Welt von Dark Souls. Bzw. unsere Version der Welt ist ziemlich tot, andere Realitäten haben vielleicht ein wenig mehr zu bieten. Leider können wir diese Orte aber auch nicht anschauen. Unser nächstes Ziel sind die Wächter von Farron. Die sind aber ein wenig beschützt und wir können nicht einfach so dort hinlaufen. Die alten Farron-Wächter haben sich dem Kampf gegen die Finsternis verschrieben aber so wie es aussieht haben sie ein ähnliches Schicksal erlitten wie einst der große Ritter Artorias. Bis wir uns das aber näher angucken können und ein wenig Flamme einsammeln können müssen wir uns noch durch einen Sumpf durchschlagen. Eventuell hat man hier als Veteran leichte Schandstadt Erinnerungen, andere Leute haben vielleicht sogar Schlimmeres als Erinnerungen. An sich handelt es sich aber um einen freundlichen Sumpf. Ein wenig Gift hier und da, davon einmal abgesehen könnte es aber wesentlich schlimmer sein.
+  
+  0:00 - Farron-Feste
+  20:46 - Gelbfinger Heysel
+  22:01 - Farron-Feste
+  28:59 - Wölfe von Farron
+  31:26 - umherstreifender Dämon
+  34:45 - Farron-Feste
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

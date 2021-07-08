@@ -3122,6 +3122,72 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1459
+
+* Titel: `Let's Play ESO #1459 - Xal Irasotl [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 34 des Blackwood DLCs - Sitzung 5
+  
+  Ich erfreue mich immer wieder daran wenn ich Episoden nach Orten oder Personen benenne die absolut nichts aussagen. Also zur Aufklärung, Xal Irasotl ist der Ort in dem die alten Argoniert eine Reihe von Totemgegenstücke aufgebaut haben. So wie es sich mir darstellt funktionieren die Tiere anlockenden Totems aus der letzten Episode im Tandem. Wahrscheinlich auch um es extra schwer zu machen den Mechanismus wieder auszuschalten. Mir ist übrigens ein wenig ein Rätsel welchen Zweck das Alles haben sollte. Alles was wir bisher von den uralten Argoniern gesehen haben die Xanmeer errichtet haben war eigentlich das die kulturell recht weit waren. Die ganze Pyramidengeschichte soll aber wahrscheinlich einen seichten Maya und Inka Bezug nehmen würde ich mal annehmen. Also "Menschen"opfer, blutige Rituale und generell harte Prüfungen um sich zu beweisen. So genau weiß ich das aber auch nicht. Lange Geschichte kurz, Xal Irasotl ist diese Xanmeer, alles unnötig kompliziert.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1460
+
+* Titel: `Let's Play ESO #1460 - Orte von Interesse [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 35 des Blackwood DLCs - Sitzung 6
+  
+  Und wieder einmal haben wir eine Episode in der nicht wirklich viel passiert. Aber dafür lese ich Bücher vor. Manchmal habe ich Tage an denen es mir wirklich schwer fällt grade Sätze herauszukriegen und manchmal geht es wesentlich besser. Vom reinen Gefühl her ging es am Tag der Aufnahme ziemlich gut und daher lesen wir heute gleich zwei Bücher vor. Eines davon ist sogar ein Buch das ich lange versprochen habe. Nebenbei fällt mir aber auch auf das ich im Trübmoor anscheinend Dinge vergessen habe. Ich bin mir nicht ganz sicher wie ich das jetzt eigentlich lösen soll. Schiebe ich einfach ein paar Episoden an die Stelle in der sie eigentlich stehen sollten in die Playlist oder packe ich die Dinge in der korrekten Reihenfolge nach einem großen Block und hole sie im Rahmen der "vergessene Nebenquests" nach? Alles irgendwie schwierig. Ansonsten passiert hier aber irgendwie nicht so richtig was, dafür sehen wir viel Sumpf. Das ist zu Etwas gut oder?
+  
+  0:00 - Zurück in Trübmoor
+  1:32 - Buch: Über Voriplasma
+  4:16 - Sumpfherumlaufen
+  14:24 - Pamphlet: Kommt zum Orden der Erwachenden Flamme
+  14:58 - Herumlaufen
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1461
+
+* Titel: `Let's Play ESO #1461 - Tintengestalten [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 36 des Blackwood DLCs - Sitzung 6
+  
+  Mein Charakter Aliya die Hochelfe verändert sich im Laufe der Geschichte sehr langsam. Irgendwann sind wir ein Vampir geworden weil ich mir gedacht habe das eventuell ein Pakt mit Molag Bal im Großen und Ganzen gar nicht so schlecht ist und wir so ein wenig Unsterblichkeit für uns erwerben können. Später irgendwann haben wir verschiedene Kleidungsstile durchprobiert. Dann irgendwann in Sommersend habe ich das Haus der Träumerein, quasi die Luxusvarianten von fahrenden Volk, gesehen. Seit dem trägt Aliya eine Maske. Das verbirgt auch die blutroten Augen die man als Vampir nun einmal hat. Heute treffen wir die Schausteller erneut. Ich bin ehrlich gesagt etwas überrascht sie zu treffen aber eigentlich wussten wir ja das sie die Welt bereisen. Mit dabei ist auch Alchemie, eine alte Bekannte. Allerdings ist nicht alles gut, das kleine Dorf Bauerseck hat wohl ein paar Probleme, und das Haus der Träumerei ist eigentlich nicht schuld, wir aber verantwortlich gemacht. Eine Ungerechtigkeit die wir so nicht in der Welt stehen lassen können. Wir schreiten also zur Tat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1462
+
+* Titel: `Let's Play ESO #1462 - das Antlitz des Wandels [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 37 des Blackwood DLCs - Sitzung 6
+  
+  Diese Nebenquestreihe an Episoden zieht sich eine ganze Weile, ich muss auch sagen das ich persönlich ziemlich überrascht war wieviel Inhalt wir im kleinen verschlafenden Dorf Bauerseck am Ende zu finden war. Ich möchte das jetzt nicht großartig vorher verderben, aber wir werden noch einige Zeit an diesen kleinen lauschigen Plätzchen verbringen. Die heutige Episode ist allerdings nach dem Namen der Nebenmission benannt die wir heute spielen und jetzt nachdem ich fertig bin ist mir immer noch nicht so ganz klar warum das Ding eigentlich so heißt wie es heißt. Was wir bisher wissen gibt erst recht nicht wirklich eine Bedeutung her. Diverse Leute sind verschwunden und dann kamen sie wieder um dann aber auch wieder irgendwie zu "sterben". Gleich ist dabei immer die Art und Weise. Die Person hat sich in Tinte aufgelöst und war danach nicht mehr zu sehen. Keine Schreie, kein Nichts. Es ist stark davon auszugehen das wir es mit einem Doppelgänger zu tun haben. Ein Doppelgänger der scheinbar keine sinisteren Beweggründe hat, zumindest nicht in der Rolle. Stellt sich doch sehr die Frage was mit den ursprünglichen Personen geschehen ist, leben sie noch?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

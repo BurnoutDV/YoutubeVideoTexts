@@ -282,6 +282,62 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #21
+
+* Titel: `Yakuza 3 Remastered - #21 - Markttag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kleinstädte haben eine ganz andere Dynamik als es an großen Orten der Fall ist. Ich persönlich mag große Orte mehr. Schon einfach deswegen weil ich noch nirgendwo so zuhause war das man mich an kleinen Orten wiedererkannt hätte. Wenn dann auch nur als Begleitung von XY. Quasi der Fluch des Wanderers. Kiryu hat es ein wenig anders, er ist schon seit einiger Zeit in der Stadt und eigentlich sollten die Leute ihn kennen aber ganz so klein ist die Stadt nun dann doch nicht und meistens hält er sich ja an seinem Waisenhaus auf und nicht in den tieferen Tiefen der Stadt. Wie die Dinge aber auch für ihn vorher ausgesehen haben mögen, alles hat sich jetzt geändert, nun da ihn die Yakuza quasi mit Vornamen kennen. Heute patrouillieren wir einmal über den kleinen Markt in der Einkaufsstraße und schauen uns an wie die Dinge in der Provinz angegangen werden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #22
+
+* Titel: `Yakuza 3 Remastered - #22 - Fischhändler Kiryu [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist immer irgendwie Markttag in der Stadt aber es ist nicht immer Fischtag. Bestimmte seltene Fische sind nur dann verfügbar wenn sie jemand tatsächlich fängt, und bestimmte Fische werden mit bestimmten Eigenschaften verbunden. Manche Leute sehen auch einfach nur eine Symbolik in dem Fisch. So oder so ist der Fischfang aber für eine Zivilisation die am Meer wohnt ziemlich wichtig. Daher überrascht es auch nicht das die Ursache des heutigen Streites sich tatsächlich in einem Fisch findet. Oder besser gesagt in der Abwesenheit eines Fisches. Ich bin übrigens am Ende ein wenig überrascht wie diese Geschichte ausgeht. Ich hätte gedacht das wir den Kiryu Weg einschlagen aber es sieht viel mehr so aus als würde die Geschichte ein wenig sehr anders laufen. Anders und irgendwie auch ein wenig lästiger. Und teuerer.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #23
+
+* Titel: `Yakuza 3 Remastered - #23 - Schlüssel Nr. 44 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schließfächer anzumieten und dann den Schlüssel zu verlieren scheint eine Art Volkssport bei den Einwohner Okinawas zu sein, oder zumindest der der Stadt Ryukyu. Anders wäre es unmöglich zu erklären warum wir andauernd, an jeder Ecke und quasi überall entsprechende Schlüssel finden. Es fragt sich dann aber auch was das die Leute darin verwahren. Eine alternative Erklärung könnte natürlich auch sein das es sich um tote Briefkästen handelt und die Schlüssel eigentlich jemand Anderes hätte abholen sollen und wir nur zufällig zur richtigen Zeit am richtigen Ort  gewesen waren und genauso zufällig die Lieferung von einer zweilichten Gestalt an einer Anderen abgefangen haben. Was es auch ist, es soll unser Schaden nicht sein..außer wenn es sich dabei um die Schließfachnummer 44 handelt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #24
+
+* Titel: `Yakuza 3 Remastered - #24 - Im Auftrag der Liebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kazuma Kiryu ist quasi die Inkarnation des Guten in einer Welt die scheinbar nicht viel  Gutes hat. Andere Länder können zu Recht die Existenz von Kiryu beneiden. Er kümmert sich sowohl um die Kleinen als auch die Großen Dinge. Heute sind es eher die kleineren Dinge des täglichen Lebens. Man kennt es, man sieht auf den ersten Blick das man das Mädchen der Träume gefunden hat. Aber leider ist man einfach nicht mutig genug sie anzusprechen oder schlimmer noch weiß überhaupt nicht wie die Situation überhaupt anzugehen ist. Dann gibt es eine Menge herumgetrete und letztendlich tut man es dann endlich oder halt auch eben nicht und wenn man dann 60 Jahre später noch einmal an die Situation denkt fragt man sich was für ein Trottel man eigentlich gewesen ist. Welch Glück wenn in einem solchen Fall ein Mann und Wohltäter wie Kazuma Kiryu in der Nähe herumspringt. Dann wird alles gut, oder auch eben nicht. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

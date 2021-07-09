@@ -3188,6 +3188,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1463
+
+* Titel: `Let's Play ESO #1463 - die Ausreißerin [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 38 des Blackwood DLCs - Sitzung 6
+  
+  Wir haben eine Spur. Dank dem breiten Lächeln welcher Göttin auch immer für Glück zuständig ist hat es sich ergeben das wieder jemand verschwunden ist. Aber zum ersten Mal. Das bedeutet wir haben noch die Gelegenheit einen der Klone zu sehen von denen wir mittlerweile sicher sind das es sich nur um Kopien der Person handelt die ursprünglich verschwunden ist. Es besteht außerdem eine gewisse Hoffnung das die ursprünglichen Personen noch am Leben sind, Leichen haben wir bisher keine gefunden und da es sich bei den Wiederkehrern nicht um die ursprünglichen Körpern handelte könnten immerhin diese noch intakt sein. Aber es wird noch besser mit der Hoffnung, wir wissen ungefähr in welche Richtung  die Ausreißerin gelaufen ist, wir haben also eine Spure und eine Palette von Optionen. Informationen sind immer gut wenn es am Ende nicht viel zu viele sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

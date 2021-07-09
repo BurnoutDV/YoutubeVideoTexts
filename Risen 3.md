@@ -1536,6 +1536,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #110
+
+* Titel: `Risen 3 - #110 - Grenzgänger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das wir etwas Besonderes sind. Das kommt ziemlich überraschend nachdem wir nur einige wenige Schattenlords erschlagen und quasi alle Schatten an jedem Ort den wir jemals betreten haben ausgelöscht haben. Außerdem sind wir wohl die Person die auch ohne Geist noch ziemlich gut im Körper agieren kann und kaum Seele dabei verliert. Man fragt sich übrigens wirklich wie wir es als Pirat überhaupt geschafft haben mit 50 Seelenpunkten unsere Reise zu beginnen. Ich hätte ja gedacht das wir von Anfang an nicht unbedingt die Netteste Person gewesen waren aber das Spiel sieht das halt anders. Oder aber die Finsternis der Schattenlords ist wesentlich gewaltiger als ich gedacht hätte. Wie es aber auch sei, warum fallen alle anderen Leute soviel schneller als wir es tun? Wahrscheinlich irgendetwas das Bones mit uns getan hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

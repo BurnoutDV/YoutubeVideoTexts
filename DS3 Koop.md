@@ -215,6 +215,32 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #10
+
+* Titel: `Dark Souls Koop - #10 - Wächter des Abgrundes [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und schon haben wir den ersten Meister des Feuers  gefunden. Oder Halter der Flamme? Wie dem aber auch sei, als Aschenwesen das in einer anderen Zeit verbrannt ist ist es unsere Aufgabe die ehemaligen Wächter des Abgrundes zu besiegen. Die quasi Nachfolger von Artorias sind ein wenig der Finsternis anheimgefallen. Das wussten wir bereits aber die genaue Natur ihres Falles war uns nicht bekannt. Ziemlich interessant ist auch das es sich ja um geschworene Ritter gegen den Abgrund handelt und offensichtlich ist es eben jener Abgrund der sie am Ende heimgesucht hat. Logischerweise jagen sie sich also selber..bis es jemanden anders gibt der ihnen als Ziel dienen kann. Als Gegner sind sie recht schnell unterwegs aber nichts ist so schnell wie ein veritabler Dolch.
+  
+  0:00 - Farron-Feste
+  1:30 - Wolf von Farron
+  2:28 - umherstreifender Dämon
+  6:30 - Farron-Feste
+  29:45 - Boss: Wächter des Abgrundes
+  33:00 - Farron-Feste
+  37:42 - Boss: Wächter des Abgrundes
+  42:30 - Nachbereitung
+  49:00 - Boss: Wächter des Abgrundes
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

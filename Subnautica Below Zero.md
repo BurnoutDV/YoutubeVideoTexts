@@ -703,6 +703,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #51
+
+* Titel: `Subnautica Below Zero - #51 - Sortierwahn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wenn ich so Aufbauspiele mit anderen Leuten spiele bin ich enorm genervt wenn meine Mitspieler nicht das Gleiche Ordnungssystem einhalten können wie ich. Aber auch wenn ich alleine spiele und es eigentlich keinen Unterschied macht kann ich nicht davon ablassen andauernd alles irgendwie einzusortieren. Und so kommt es das ich heute wieder einmal Dinge sortiere. Das ist sogar noch viel dümmer wenn man bedenkt das ich vielleicht noch zwei oder vielleicht sogar nur einmal überhaupt noch einmal an meiner Basis vorbeikomme. Viel dümmer wird es dann auch noch wenn man bedenkt das ich auf dem Schiff das ich größtenteils von Innen sehe nicht halb soviel Ordnung walten lassen kann. Letztendlich ist all unser Streben wahrscheinlich sinnlos aber in diesem Fall ist es besonders und absehbar sinnlos. Die Zeit die ich durch das Sortieren verloren habe kriege ich nie wieder und steht in keine Verhältnis zum Suchen. Und doch..doch hat es irgendwie Spaß gemacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

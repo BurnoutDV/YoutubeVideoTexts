@@ -338,6 +338,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #25
+
+* Titel: `Yakuza 3 Remastered - #25 - Schwarze Katzen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir nicht sicher ob Asiaten im Allgemeinen, nur Japaner oder sagen wir Koreaner abergläubischer sind als der durchschnittliche Deutsche oder sogar Europäer. Generell kann man aber wohl sagen das manche Leute einen gewissen Hang dazu haben Gerüchte, Sagen, Mythen und natürlich auch Legend über die Welt als Ganzes zu verbreiten. Die lokale Niederlassung dieser Mythen-Presse finden wir in Form eines Schulmädchens das wir seltsamerweise immer wieder treffen obwohl es doch eigentlich schon ziemlich spät ist. Heute geht es um eine schwarze Katze und wie eines dieser Wesen in Wirklichkeit ein finsterer Dämon ist der Menschen frisst und generell und überhaupt schon beim Anblick für Unglück sorgt. Wieviel daran ist prüfen wir heute nach, weil wir wissen ja, Kiryu hat eine Menge Zeit für solche Dinge.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

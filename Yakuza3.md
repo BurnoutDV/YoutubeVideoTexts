@@ -352,6 +352,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #26
+
+* Titel: `Yakuza 3 Remastered - #26 - Nebenquestmassaker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Hauptstory sind wir grade an einem wichtigen Scheidepunkt. Ich sprach es bereits mehrfach an, Kiryu ist kurz davor Okinawa zu verlassen, Haruka hat das Waisenhaus übernommen und generell und überhaupt geht alles drunter und drüber. Wir verbringen unseren letzten Abend in der Stadt und machen tausend Dinge. Man fragt sich auch wie lange die Nacht eigentlich ist wenn man bedenkt das wir zwischendurch schon ziemlich betrunken waren und generell und überhaupt einige Dinge getan haben. Nebenbei wurden wir auch von quasi allen Punks die die Stadt zu bieten hatte angegriffen, weil man das halt tut wenn man einen Kazuma Kiryu sieht. Mir ist echt ein Rätsel wie die normalen Leute die nicht so kampfstark wie er sind überhaupt vor ran kommen. Oder sind die Krankenhäuser einfach dauerhaft voll?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #27
+
+* Titel: `Yakuza 3 Remastered - #27 - der Phantomreiseführer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal klingen Missionen in Yakuza Spielen eher harmlos sind dann am Ende aber doch ziemlich ernst. Heute zum Beispiel die Geschichte mit dem Phantomreiseführer. Anscheinend eine Person die fremd aussieht und Touristen verschiedene Orte zeigt und diese dann verschwinden. Klar, jetzt könnte man sich denken das es sich nur um einen urbanen Mythos handelt und eigentlich alles gut ist. Und dann finden wir das Körnchen Wahrheit heraus und alles ist ziemlich dolle schrecklich und wenn man genauer darüber nachdenkt will man gar nichts damit zu tun haben. Diese Geschichte ist so eine und manchmal bin ich ein wenig schockiert wenn die doch recht leichten Nebenmissionen auf einmal in ernste Themen umschlagen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

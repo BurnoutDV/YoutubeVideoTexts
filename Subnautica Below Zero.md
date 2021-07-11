@@ -717,6 +717,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #52
+
+* Titel: `Subnautica Below Zero - #52 - Expeditionsvorbereitung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich bereite ich mich auf eine Expedition vor. Wenn es nicht grade darum geht die Basis zu erweitern oder irgendwelche Ressourcen für die Basiserweiterung zu suchen bleibt uns ja kaum etwas Anderes übrig. Was mir übrigens in Subnautica Below Zero sehr fehlt ist irgend etwas das uns zur Eile antreibt. Klar, unsere Investigation mit unserer Schwester war der ursprüngliche Grund her zu kommen aber bisher haben wir in der Richtung mehr oder weniger selbstbestimmt rangeklotzt und soweit ich das sehen kann ist die Aufgabe auch soweit erfüllt und das ohne das wir jemals auch nur eine Nachricht hatten die uns zur Eile getrieben hat. Auch die Anwesenheit von AL-AN in unserem Kopf scheint kein größeres Problem zu sein. Er bzw. es ist halt einfach da und das ist überhaupt gar kein Problem. Wenn wir so etwas wie neuralen Zerfall oder irgendwas mit dem Gehirn hätten (wie es die klassische Sci-Fi Trophe ist) würde ich das voll verstehen, dann hätten wir auch die Eile die Körperteile zu suchen, aber so? Wir machen immer schön hin, bauen hier ein wenig an der Basis und machen dort irgendwelche Dinge. Irgendwie fehlt der rote Pfaden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #53
+
+* Titel: `Subnautica Below Zero - #53 - Höflichkeitsbesuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wissen wir das Marguerit uns gar nichts mehr zu sagen hat dennoch besuche ich sie noch einmal in der dunklen Hoffnung das ich irgendetwas erfahren kann das mir weiter hilft. Dem wird übrigens nicht so sein, immerhin erfahre ich von neuen Bauplänen die es eventuell notwendig machen würde meine Basis ein weiteres Mal zu erweitern. Oder vielleicht auch nicht weil ich jetzt auch nicht mehr damit anfangen muss sanitäre Anlagen zu bauen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

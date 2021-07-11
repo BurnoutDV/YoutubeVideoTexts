@@ -1550,12 +1550,30 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
-##### #Nummer
+##### #111
 
-* Titel: ``
+* Titel: `Risen 3 - #111 - Schätze am Land [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir verfügen über keinerlei Tauchausrüstung, deswegen ist auch nicht zu erwarten das wir in nächster Zukunft irgendwelche Schätze auf hoher See bergen werden. Vielleicht wenn Magie involviert ist, oder ein anderes Schiff, aber das wäre dann auch nur normales Business as usual. Wie dem aber auch sei, es gibt da noch ein paar Orte von denen wir wissen das sich dort diverse alte Piratenschätze aufhalten. Mir erschließt sich übrigens nicht so ganz warum irgendwelche Piraten jemals und überhaupt ihre Schätze vergraben würden? Das würde ja irgendwie vor raus setzten das man daran glauben würde nicht bei der nächsten Kaperfahrt um zu kommen. Und das kann wohl kein Pirate garantieren, also warum überhaupt versuchen irgendetwas zu verstecken? Höchstwahrscheinlich wird man eh nie wieder an dem Ort zurückkommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #112
+
+* Titel: `Risen 3 - #112 - Glimmbjekte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da noch ein paar offene Aufträge die wir auf jeden Fall noch erledigen werden bevor wir dann endlich einmal die Welt retten. An sich ist es übrigens auch ziemlich egositisch. Letztendlich sterben wahrscheinlich jeden Tag Menschen an den Schatten. Und wenn nicht direkt durch das Einwirken der finsteren Wesen dann durch den Mangel an Nahrung oder anderen Handelsgütern die die Seeblockade zur Folge hat. Wenn es etwas wie global Handel in dieser Welt überhaupt gibt. Und doch..alles muss seine Ordnung haben und ich werde jetzt bestimmt nicht so einfach losziehen und alles beenden. Am Ende verpassen wir noch gute Inhalte. Mittlerweile sind wir aber so weit das ich wahrscheinlich auf jede Erfahrung die ich durch die verbliebenden Aufträge noch komme gut verzichten kann. Aber..die Geschichte, die Reise. Die Reise ist immer wichtiger als das Ziel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```

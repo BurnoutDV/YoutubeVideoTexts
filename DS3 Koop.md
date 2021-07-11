@@ -241,6 +241,26 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #11
+
+* Titel: `Dark Souls Koop - #11 - Katakomben von Carthus [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und es geht in den Keller. Immerhin haben wir es sicher geschafft die schrecklichen Wächter des Abgrundes zu besiegen und mit ihrer Seele unsere Kampfeskraft zu verbessern. Die nächste Reise geht in eine Stadt aus Eis, aber bevor wir dort hinkommen müssen wir wohl durch die Katakomben von Carthus, es wäre ja auch zu einfach die Flugwesen vom Anfang zu benutzen.
+  
+  0:00 - Vorbereitung
+  3:25 - Katakomben von Carthus
+  *Nicht immer machen so Sprung Punkte viel Sinn..viel mir dann so auf...*
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

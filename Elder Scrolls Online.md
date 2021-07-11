@@ -3203,6 +3203,58 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1464
+
+* Titel: `Let's Play ESO #1464 - Piratengeschichten [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 39 des Blackwood DLCs - Sitzung 6
+  
+  Geschichten sind das was das Leben erst so richtig lebenswert machen. Wenn man etwas erlebt passiert gleichzeitig auch eine Geschichte. Dinge geschehen und dann sind sie vorbei, aber wenn es dann später eine Geschichte gibt wird das Ereignis größer als es jemals war. Interessant wenn dann Geschichten aus dem Nichts erschaffen werden. Geschichten auf Dinge beruhen die gar nicht in der Realität stattfinden. Irgendwann hat jemand die Geschichte von einem bestimmten Piratenschiff mit einer bestimmte Crew mit ganz besonderen Charakteren geschrieben. Vielleicht gab es die entsprechenden Piraten wirklich, und vielleicht hießen manche sogar so wie in der Geschichte. Aber die Geschichte zu erleben macht es erst richtig lebendig. Besonders interessant wird es dann natürlich wenn man sich gar nicht für Piratengeschichten interessiert aber die Manifestation der Fantasie trotzdem im Weg steht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1465
+
+* Titel: `Let's Play ESO #1465 - das Leid des Beobachters [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 40 des Blackwood DLCs - Sitzung 6
+  
+  Heute erleben wir dann die letzte Episode der fantastischen Nebenmissionen in Bauerseck. Jetzt da wir uns dem Ende nähern muss ich auch noch einmal feststellen das ich ziemlich angetan war von der gesamten Präsentation der Mission. Der Aufbau mit dem Haus der Träumerei und der doch recht spärlichen Beschreibung der Menschen. Keiner von ihnen gibt sofort konkrete Hinweise was passiert sein könnte. Klar, der ein oder Andere würde bestimmt schon beim Wort Tinte aufhorchen aber ich habe es ehrlich gesagt nicht direkt kommen sehen. Die Hinweise waren alle da, es gab eine gute Menge an "Vorschattierung". Das Ende war eigentlich schon am Anfang erratbar aber die Qualität war für mich, gut genug damit dies nicht passiert aber man sich am Ende denkt: "ja, das ist eine runde Geschichte". So etwas würde ich mir öfter wünschen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #12
+
+* Titel: `Dark Souls Koop - #12 - Keller von Carthus [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Bei den Katakomben von Carthus handelt es sich, wie der Name eventuell vermuten lässt, um Katakomben, es sollte also niemanden überraschen das es immer noch eine weitere Etage unter den aktuellen Katakomben gibt. Technisch gesehen kommen wir dann auch bald im schwelenden See an aber zu erst gehen wir einfach nur nach unten nachdem wir einen Bereich "gefunden" haben den man hätte auch ignorieren können. Aber hätten wir das getan hätten wir auch viele interessante Dinge verpasst. Und das wollen wir ja nicht, nicht war? Manchmal frage ich mich ob es sich lohnen würde in Dark Souls Lore zu schauen, gibt es irgendwo Beschreibungen und Erklärungen wie die Welt aussah bevor alles irgendwie postapokalyptisch geworden ist? Gab es einmal hohe Ritter, edle Priester und all die Dinge die wir korrumpiert und zerfallen sehen auch in sauber und aufrecht?
+  
+  0:00 - Katakomben von Carthus
+  8:09 - Boss: Hochfürst Wolnir
+  18:34 - Nachbereitung
+  24:12 - Schwelender See
+  45:00 - Dämonenruinen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

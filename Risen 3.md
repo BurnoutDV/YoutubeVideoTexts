@@ -1577,3 +1577,41 @@
   Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
+
+##### #113
+
+* Titel: `Risen 3 - #113 - Insel der Diebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Früher  einmal, in einer anderen Zeit waren wir schon einmal auf der Insel der Diebe um dort die örtlichen Gnome zu treffen und eventuell das legendäre Artefakt zu heben das helfen sollte Mara zu besiegen. Damals war ich in Begleitung eines anderen Piraten was prompt dazu geführt hat das dieser uns verraten hat. Damals sah die Welt irgendwie besser aus, oder auch nicht. Immerhin eine Sache hat sich nicht so richtig verändert: die Gnome sind immer noch grundlegend gut gelaunt. Und deswegen sind wir zu dieser Insel gefahren. Um mal wieder richtig viel gute Laune zu tanken. Allerdings gibt es da kleine Details die uns stören, zum Beispiel das es scheinbar jetzt auch Kobolde auf der Insel gibt, ebenfalls räuberische Wesen aber irgendwie auch mieser gelaunt. Für mich hat es früher eigentlich keinen Unterschied gemacht, aber Gnome sind jetzt scheinbar Freunde und deswegen ist die Seite die wir ergreifen klar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #114
+
+* Titel: `Risen 3 - #114 - Diebesehre [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Egal welches Spiel ich auch spiele, am Ende läuft es bei mir immer darauf hinaus das ich ein ziemlicher Kleptomane werde. Und das sogar im medizinischen Sinne, was eigentlich nehme ich die meisten Dinge nur mit weil ich kann und nicht weil ich sie unbedingt brauche. Selten sehe ich irgendwelche Waffen oder Ausrüstungen und denke mir "das brauche ich". Viel mehr ist es so das ich irgendetwas sehe und mir denke das man es eventuell vielleicht später noch einmal brauchen könnte. Und dann klaue ich das Ding. Oder haue die Person um die den Gegenstand aktuell hat. Wahrscheinlich würde ich auch töten, aber das Spiel lässt mir die Möglichkeit nicht und wenn ich es kann dann waren die Anderen sowieso die Bösen und alles was ich getan habe war gerechtfertigt. Und wenn ich von einem gefangenen Gegner Schätze befreie ist das mein gutes Recht als Held und daher auch das was mir jeder zugesteht. Nicht einmal ein legales Problem. Die Gnome sehen das alles recht ähnlich. Nur das sie nie ein Problem mit dem Gesetzt sehen wenn etwas gestohlen wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

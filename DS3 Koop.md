@@ -261,6 +261,78 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #12
+
+* Titel: `Dark Souls Koop - #12 - Keller von Carthus [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Bei den Katakomben von Carthus handelt es sich, wie der Name eventuell vermuten lässt, um Katakomben, es sollte also niemanden überraschen das es immer noch eine weitere Etage unter den aktuellen Katakomben gibt. Technisch gesehen kommen wir dann auch bald im schwelenden See an aber zu erst gehen wir einfach nur nach unten nachdem wir einen Bereich "gefunden" haben den man hätte auch ignorieren können. Aber hätten wir das getan hätten wir auch viele interessante Dinge verpasst. Und das wollen wir ja nicht, nicht war? Manchmal frage ich mich ob es sich lohnen würde in Dark Souls Lore zu schauen, gibt es irgendwo Beschreibungen und Erklärungen wie die Welt aussah bevor alles irgendwie postapokalyptisch geworden ist? Gab es einmal hohe Ritter, edle Priester und all die Dinge die wir korrumpiert und zerfallen sehen auch in sauber und aufrecht?
+  
+  0:00 - Katakomben von Carthus
+  8:09 - Boss: Hochfürst Wolnir
+  18:34 - Nachbereitung
+  24:12 - Schwelender See
+  45:00 - Dämonenruinen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #13
+
+* Titel: `Dark Souls Koop - #13 - das alte Izalith [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Ich bin mir übrigens nicht so ganz sicher ob der Ort den wir heute betreten wirklich das alte Izalith bzw. Reste davon sind wie wir sie aus Dark Souls 1 kennen. Letztendlich sehen die Dinge doch schon ein wenig anders aus und schon "damals" war Izalith ziemlich verfallen und so richtig konnte man da schon nicht von einer Stadt sprechen. Und doch, irgendwie sind so ein paar Dinge da. Klar, hier und dort hast du auch normale Dämonenruinen aber es gibt da leichte, subtile Hinweise das vielleicht ein wenig der alten Welt hier geendet hat. Letztendlich ist Zeit in Dark Souls eh sehr verwirrend und ich gehe davon aus das bei der Reise von einer Welt zur nächsten eine Ewigkeit vergeht. Denken wir doch nur an Anri. Einmal Aldrich besiegt, in der nächsten Realität ist sie bereits Hollow. Wie lange dauert es wirklich bis das passiert? Hat Anri jahrelang die Welt bewandert und philosophiert, ist es sofort geschehen? Ich weiß es nicht. Wir werden es nie wissen. Die Realität von Dark Souls ist kein Ort in dem man Freunde haben will, jede Reise mit dem Leuchtfeuer ist eine neue Paralleldimension. Nichts persistiert. Die  einzige Konstante ist man selbst. Wer kann da schon sagen wie all das funktioniert.
+  
+  0:00 - Dämonenruinen
+  12:45 - altes Izalith
+  28:05 - die Balliste
+  43:32 - der Wurm
+  45:27 - Heimaturlaub
+  51:40 - altes Izalith
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #14
+
+* Titel: `Dark Souls Koop - #14 - der alte Dämonenkönig [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Eigentlich ist das Schicksal der Dämonen schon fast traurig. Klar, sie theorisieren die restlichen Leute ziemlich sehr und offensichtlich war ihre Menge ein so großes Probleme das sich verschiedene Ritterorden direkt aufgemacht haben etwas gegen die Pest zu tun und doch sind sie eine eigene Zivilisation. Geboren aus der künstlichen Flamme von Izalith und quasi ein erfolgreicher Versuch eine eigene Flamme zu erschaffen. Am Ende hat es natürlich nicht für ewig gehalten aber das ist wahrscheinlich die große Lektion die sich aus allem was Dark Souls ist ergibt. Nichts wärt ewig. Der einzige Ausweg scheint zu sein etwas Neues zu schaffen wenn das alte vergeht. Der Prozess ist aber alles andere als klar und der alte Dämonenkönig hat offensichtlich nicht den weg gefunden. Spätestens ab hier sollte aber klar sein das die Zeit des Feuers ein Ende gefunden hat.
+  
+  0:00 - altes Izalith
+  16:50 - das Katapult
+  21:21 - Krebse
+  31:32 - alter Dämonenkönig
+  37:00 - sonstige Schätze
+  41:20 - der Wurm
+  42:50 - Restschätze
+  49:48 - BOSS: alter Dämonenkönig
+  51:40 - Nachbereitung
+  53:02 - Irithyll Brücke
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -745,6 +745,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #54
+
+* Titel: `Subnautica Below Zero - #54 - Erbauerorgane [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann nicht sagen das ich gar keine Fortschritte mache aber ich habe halt das Gefühl das das was ich tue einfach zu langsam und nicht das notwendige Tempo hat als das ich mit dem zufrieden wäre das ich erreiche. Und so ergibt es sich heute das wir die Pläne für eine weitere Komponente für die Wiederherstellung von AL-ANs Körper finden. Aber immer noch fehlt der Mittelteil sowas unsere Aufgabe immer noch ein wenig unsinnig erscheint solange wir nicht alles haben. Alles was wir bis dahin tun läuft auf Nichts hinaus. Auch in Frage stellt sich übrigens immer noch warum AL-AN die einzige KI/Erbauer ist die so gelagert wurde. Generell und überhaupt habe ich das Gefühl das Robin hier ein wenig zu vertrauensselig war. Dem Alien ist nicht zu trauen und sie sollte sich dringend an den nächsten Stützpunkt der Inquisition wenden. Obwohl die wahrscheinlich eher unerfreuliche Maßnahmen im Angebot hätte...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #55
+
+* Titel: `Subnautica Below Zero - #55 - Schöpfungsstelle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir finden immer wieder neue Dinge in den Tiefen des Planeten 4546B. Ich bin nebenbei bemerkt enorm enttäuscht. Ich sehe absolut keine Erklärung warum die Erbauer sich die Mühe gemacht haben sollten irgendetwas von dem was wir bisher gefunden haben zu errichten. Im Vorgänger hatten wir gewaltige Stationen die wir betreten konnten die zwar Alien waren und nicht immer ganz zugänglich oder teilweise zerstört. Und doch war erkennbar was genau die Erbauer getrieben haben. Was ihr Ziel war, was ihre Motivation hinter dem Bau einer Anlage an genau diesem Ort war. Hier, am anscheinend schon immer kalten Ende des Planeten an dem es keine See-Imperatoren gibt, hier wurden offenbar ein paar Anlagen errichtet. Einfach so, zwischendurch wurden ein paar Grabungen durchgeführt. Aber das war es dann auch schon? Warum völlig verteilt Anlagen errichten? War dies Teil der ersten Erforschung des Planeten lange bevor das Karra-Bakterium den Planeten verseuchen konnte? Es gibt kaum Hinweise, eigentlich sogar nichts das uns hier zum Hinweis dient. Das ist unbefriedigend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

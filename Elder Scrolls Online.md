@@ -3255,6 +3255,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #1466
+
+* Titel: `Let's Play ESO #1466 - sinnloses Welke [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 41 des Blackwood DLCs - Sitzung 7
+  
+  Ich drifte heute ein wenig ab. Eigentlich hatte ich die Blutstormhöhle fest im Visier, aber dann bog ich auf einmal ab weil ich Dinge am Horizont gesehen habe und befürchtet habe das ich in diese Gegend nicht noch einmal komme. Wir wissen ja, wir sind ziemlich weit draußen. Es ist also eher unwahrscheinlich das wir noch einmal so weit raus reiten. Also schaue ich mir alles ganz genau an was ich noch so tun kann bevor ich diese Region der Welt wieder verlasse. Leider kommt es bei solchen Aktionen unweigerlich dazu das man ein wenig vorgreift. Oder den Zenimax Geschichtenerzähler in die Saiten greift und damit das Bühnenspiel ein wenig vermasselt. So zum Beispiel geschehen als wir nach Welke abgebogen sind. Ich habe für diesen Fall praktische Sprungmarken eingefügt.
+  
+  0:00 - Besichtigung Pantherzahnkapelle
+  9:35 - Dunkelforst
+  12:35 - Welke
+  
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1467
+
+* Titel: `Let's Play ESO #1467 - Freistatt Blutstromhöhle [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 42 des Blackwood DLCs - Sitzung 7
+  
+  Es hat nicht lange gedauert, grade einmal 10 Stunden und schon sind wir wieder unser großen Hauptmission auf der Spur. Man muss aber auch wissen das es gefühlt keinen Unterschied macht ob wir die Nebenmissionen erst jetzt erledigen oder dann geballt später. Obwohl das wohl auch eine Frage ist von dem was man so erwartet. Nebenmissionen können die große Hauptmission mit weiteren Kontext füllen oder komplett fernab von dem stehen was eigentlich passiert. So wie es aussieht scheint es in Blackwood eher eine Trennung zwischen Nebenmissionen Inhalt und Hauptmission zu geben. Ich hätte also sehr gut erst alle Orte der Hauptmission bereiten können und dann alles ignorieren können. Habe ich aber nicht, weil das jetzt scheinbar die Art zu spielen ist die ich verfolge. Manchmal bereue ich diesen Stil ein wenig. Aber ich hätte halt unmöglich vorher wissen können wie sich die Dinge entwickeln.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

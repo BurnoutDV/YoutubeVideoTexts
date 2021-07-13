@@ -380,6 +380,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #28
+
+* Titel: `Yakuza 3 Remastered - #28 - mystischer Goya Saft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Ein oder Andere hat schon einmal etwas vom Placebo Effekt gehört. Wenn man nur stark genug an etwas glaubt kann es funktionieren. Das hat ärgerlicherweise in unserer Realität Grenzen. Harte, ekelhafte Grenzen. An der Stelle erinnere ich gerne an das Warhammer Universum wo es diese Grenze nicht gibt. Natürlich nicht die einzige Welt in der es so ist. In der Yakuza Welt, so fürchte ich, da hat die Realität auch harte Grenzen. Grenzen die es unmöglich machen das ein noch so gut gemachter Goya Saft irgendwelche Krankheiten heilt. Allerdings kann es  eine positive Grundstimmung verschaffen die den Menschen vielleicht genügend Hoffnung gibt um weiter zu machen. Jetzt stellt sich nur noch die Frage warum es den legendären Sanft nicht mehr in diesen Tagen gibt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #29
+
+* Titel: `Yakuza 3 Remastered - #29 - Korallen-Liebes-Anhänger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig schwierig Kazuma Kiryu zu sein der von mir gesteuert wird. Auf der einen Seite will man sich ja nicht von jeden daher gelaufenen Straßenschläger überfallen lassen, von jedem Betrüger ausnehmen und generell erwartet man ja nicht das sich Kiryu übertölpeln lässt. Und doch...manchmal ist man einfach nur neugierig was irgendetwas bringt. Ob sich irgendetwas ändert oder ob generell und überhaupt etwas passiert. Die langweilige Realität ist dann natürlich das man einfach nur betrogen wurde, weniger Geld als vorher hat und sonst überhaupt nichts passiert ist. Einfach gar nichts, nichts das irgendwie erklärt das in der Welt sich etwas verändert hat das eventuell die Kosten erklären würde. Etwas an das wir unsere Unkosten als Erlebnis festmachen können. Die Korallen-Anhänger heute sind genauso ein Ding. Aber immerhin scheinen sie am Anfang einen Effekt gehabt zu haben, wenn auch ein wenig den Falschen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

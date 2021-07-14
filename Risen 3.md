@@ -1606,6 +1606,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #115
+
+* Titel: `Risen 3 - #115 - Auri Culcis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mich zwischendurch schon gefragt was eigentlich mit den zahllosen Artefakten passiert die die Gnome im Laufe der Jahrhunderte gesammelt haben. Werden sie wieder zurück in die Welt gebracht oder mit den Gnomen begraben? Letzteres scheint wahrscheinlich weil wir ja wissen das die Gnome ohne ihr Auri Culci nicht in die nächste Welt gehen können. So wie es aber aussieht gehen die Gnome nie fort von dieser Welt und hängen sich ziemlich lange an die Artefakte die sie zu Lebzeiten gesammelt haben. Das würde auch erklären warum die Geister immer noch umherlaufen. Und dann kommt die Frage auf ob die Gegenstände die wir als Auri Culci vorgestellt bekommen wirklich so wertvoll sind oder ob die Beschreibung völlig übertrieben ist und alles einfach nur ein Teil der Geschichte ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -3290,14 +3290,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1468
 
-* Titel: ``
+* Titel: `Let's Play ESO #1468 - sinnvolles Welke [Blackwood]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 42 des Blackwood DLCs - Sitzung 7
+  
+  Und wir sind zurück in Welke. Dieses Mal auch mit einer richtigen Mission. Außerdem erfahren wir mehr über die Hintergründe des Ordens der erwachenden Flamme. Das wurde auch langsam Zeit, schließlich kämpfen wir jetzt schon eine ganze Weile gegen den Orden und wissen eigentlich so gut wie nichts über sie. Das ändert sich heute weil wir einige Notizen finden die uns auch Aufschluss über die zivilen Hintermänner der Organisation gewähren. Ein wenig langweilig ist das uns quasi alles vorgekaut wird. Prinzipiell finden wir heute den Schlüssel zum Königreich wenn man das so sagen will. Weil in den Dokumenten die wir finden erfahren wir einfach einmal alles was es zu wissen gibt und es bleibt keinerlei Mysterium übrig. Die Verschwörung von der wir bereits wissen wurde quasi einfach aufgelöst und wir sehen einfach die Dinge klar dargelegt. Hier hätte ich mich auf jeden Fall über weniger tiefe Hinweise gefreut.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #Nummer

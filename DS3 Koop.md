@@ -333,12 +333,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
-##### #Nummer
+##### #15
 
-* Titel: ``
+* Titel: `Dark Souls Koop - #15 - invasiertes Irithyll [Koop Lets Play]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Eigentlich ist der heutige Titel ziemlich redundant, jeder Ort den wir bisher betreten haben ist in irgendeiner Form invasiert. Es gehört zum Spiel dazu und soviel ich darüber auch zu schimpfen mag, letztendlich ist es einfach nicht zu ändern. Dennoch habe ich das Gefühl das die meisten Invader ziemlich Arschkrampen sind. Anderseits sind sie in der Regel im Nachteil. Allerdings sind das wahrscheinlich die gleichen Leute die auch Solo-Spieler invasiveren würden (aber dann hätte man wohl die Option einfach offline zu gehen). Wie dem aber auch sei, bei unserer Ankunft in der kalten Stadt war es besonders schlimm. Wir kommen daher eher nicht so gut vor ran.
+  
+  0:00 - Irithyll des Nordwindtals
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```

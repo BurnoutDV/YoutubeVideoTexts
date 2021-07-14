@@ -408,6 +408,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #30
+
+* Titel: `Yakuza 3 Remastered - #30 - goldener Agu [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwelche Alltagsgegenstände besonders toll zu bezeichnen und damit einen Sinn für das Wertvolle in seine Kunden zu etablieren ist ein uralter Trick den man schon seit uralter Zeit anwendet um Leute dazu zu bringen etwas zu kaufen. Unter Umständen kann es sogar ehrlichen Händlern mit einem guten Produkt passieren das sie durch die wesentliche lautere Konkurrenz übertölpelt werden. Dann leiden alle darunter, Kunden wie ehrliche Produzenten. Man könnte wohl von einer Art unregulierten Markt sprechen wenn es Betrügern einfach fallen kann ein Produkt mit falschen Versprechungen zu vertreiben und dabei etablierte oder objektiv bessere Produkte zu vertreiben weil die Lüge einfach süßer ist. Heute wird sich zeigen ob der goldene Agu der echte Handel (Achtung Zangendeutsch) ist oder auch nur eine süße Lüge.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

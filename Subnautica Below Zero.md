@@ -773,6 +773,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #56
+
+* Titel: `Subnautica Below Zero - #56 - dünne Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Subnautica ist in seiner Natur ein offenes Spiel. Durch die Abwesenheit einer Karte ist alles auch ein wenig wundersamer. Orte sind nicht leicht zu überschauen und wenn man etwas entdeckt dann ist es wirklich eine Entdeckung und nicht nur das Nachschauen an einem der grauen Flecke auf der Karte. Allerdings wird es, wenn es keine Mechaniken gibt die das Fehlen von Karten ausreichend ausgleichen und den Spieler irgendwie auf die Anwesenheit von weiteren Gegenständen hinweisen ziemlich schnell ziemlich dolle nervig. Und so kommt es das ich heute eigentlich überhaupt keine Ahnung habe wo ich als Nächstes hin muss und daher ziemlich sinnlos im Kreis fahre. Immerhin weiß ich das es irgendwo noch die Omega-Basis geben muss weil anscheinend ist die Bude die Marguerit bewohnt nicht der Ort von dem ich erst dachte das es die Basis ist. Schon deswegen nicht weil es sich nicht um ein Labor zur Erforschung von Bakterien handelt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

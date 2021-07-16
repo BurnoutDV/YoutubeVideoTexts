@@ -1620,6 +1620,34 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #116
+
+* Titel: `Risen 3 - #116 - Koboldsterben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin der gnadenloser Zerstörer von Welten, Schlächter von kleinen wie großen Wesen, Bändiger der Magie und Schrecken der Schatten, ich bin der namenlose Held. Oder irgendwie, eigentlich bin ich sogar schon der zweite namenlose Held, weil der erste sitzt irgendwo rum und kümmert sich um eine wichtigere Mission. Wie dem aber auch sei, heute sterben Kobolde. Und zwar alle. Allen Anschein nach machen Kobolde Feuer, sind in der Lage in größeren Horden zu leben, Waffen zu benutzen und koordinierte Operationen auszuführen. Dazu braucht es zwar einen Anführer aber allen Anschein nach handelt es sich um intelligente Wesen, vergleichsweise mit Gnomen. Nur das die Gnome mit uns reden, eventuell sollten die Kobolde auch damit anfangen, dann würden wir sie auch nicht alle töten. Aber vielleicht ist das Problem auch das sie von den Schatten besessen werden, aber bisher konnte ich keinen Schattenlord finden. Mysteriös. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #117
+
+* Titel: `Risen 3 - #117 - der Koboldkönig [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte es schon in der Beschreibung der letzten Episode angegekündigt, die Kobolde haben einen Anführer. Der kam zusammen mit all den anderen Bolden über das Meer um dann von einem Stützpunkt aus die "Operation" zu leiten. Was ich nicht verstehe ist die völlige Abwesenheit von jedweder Verhandlung. Klar, die Schatten sind eine böse Macht die sich nicht um Verluste scherrt und nur die Eroberung der Welt durch ihre transdimensionalen Portale anstrebt. Allerdings sollten die Kobolde doch nach dem Verlust von ungefähr 80% ihrer Gesamtpopulation auf der Insel langsam aber sich nach anderen Möglichkeiten Ausschau halten. Sie sehen das die Gnome einen Menschen angeheuert haben, sie sind offensichtlich intelligent genug koordiniert vor zu gehen. Warum also nicht reden. Zu Verlieren haben sie auf jeden Fall nichts, im schlimmsten Fall werden sie alle ausgelöscht, kein Stück anders von dem was passiert wenn sie nichts tun. Ihre Hoffnungen im Kampf zu gewinnen sind sowieso null, ich habe Magie, Quicksave und eine Wagenlandung Healpots.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

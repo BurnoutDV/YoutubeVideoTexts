@@ -9,7 +9,7 @@
   
   Dark Souls Koop - #999 - Ä [Koop Lets Play]
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -34,7 +34,7 @@
   20:58 - hohe Mauern von Lothric
   51:2 - Turm auf der Mauer
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -56,7 +56,7 @@
   43:11 - Boss: Vordt vom Nordwindtal
   50:12 - die Verliese
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -76,7 +76,7 @@
   25:10 - abbruchreife Brücke
   33:55 - Untoten Siedlung
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -97,7 +97,7 @@
   14:06 - Solo-Abenteuer: Riese & Dämon
   40:31 - Pfad der Opferung
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -119,7 +119,7 @@
   54:52 - Krabben-Sumpf
   1:04:08 - Boss: Kristallweiser
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -141,7 +141,7 @@
   14:40 - Friedhof
   30:00 - Balustraden
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -163,7 +163,7 @@
   40:00 - Diakonieräume
   1:04:00 - Rosarias Gemach
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -187,7 +187,7 @@
   29:00 - Feuerbandschrein
   49:38 - Farron-Feste
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -210,7 +210,7 @@
   31:26 - umherstreifender Dämon
   34:45 - Farron-Feste
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -236,7 +236,7 @@
   42:30 - Nachbereitung
   49:00 - Boss: Wächter des Abgrundes
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -256,7 +256,7 @@
   3:25 - Katakomben von Carthus
   *Nicht immer machen so Sprung Punkte viel Sinn..viel mir dann so auf...*
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -278,7 +278,7 @@
   24:12 - Schwelender See
   45:00 - Dämonenruinen
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -301,7 +301,7 @@
   45:27 - Heimaturlaub
   51:40 - altes Izalith
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -328,7 +328,7 @@
   51:40 - Nachbereitung
   53:02 - Irithyll Brücke
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
@@ -346,7 +346,63 @@
   
   0:00 - Irithyll des Nordwindtals
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #16
+
+* Titel: `Dark Souls Koop - #16 - Hohepriester Sulyvahn [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Ich weiß wie immer absolut nichts über die Hintergrundgeschichte der einzelnen Charaktere die wir besiegen. Die Beschreibungen der Gegenstände lassen hier aber meist ein paar Erkenntnisse und Spekulationen zu. Und ich kann auch einfach ins Wiki gucken, habe ich auch grade gemacht. Um es kurz zu machen, Sulyvahn kommt aus Ariandel, anstatt als "Kind" der komischen Eisbäume da. Er hat irgendwie Irithyll gegründet, sich selber zum Hohepriester ernannt und ist auch dafür verantwortlich das die Ritter von Irithyll in der Welt umherlaufen. Denen hat er anscheinend auch einen Ring mitgegeben der dafür sorgt das die Ritter früher oder später wahnsinnig werden. Das ist mir zum Beispiel auch neu. Schön das ich das jetzt auch weiß. Das würde eventuell das leicht eratische Verhalten der gefrorenen Ritter erklären. Die Tänzerin aus dem Nordwindtal hat irgendwie etwas mit der örtlichen Königsfamilie zu tun.
+  
+  0:00 - Irithyll des Nordwindtals
+  07:11 - BOSS: Hohepriester Sulyvahn
+  13:20 Kirche von Yors
+  30:13 - Hohepriester Sulyvahn
+  31:48 - Nachbereitung
+  47:50 - entferntes Anwesen
+  56:14 - Kerke von Irithyll
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #17
+
+* Titel: `Dark Souls Koop - #17 - Kerker von Irithyll [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Als ich damals das erste Mal den Kerker von Irithyll betreten habe war das eine ziemlich unangenehme Geschichte. Wenn ich mich recht erinnere habe ich den Ort ziemlich gehasst, schon deswegen weil es echt anstrengend ist durchzulaufen, an jeder Stelle wird man seiner Ausdauer und Lebens beraubt und dann von irgendwelchen Brandeisen von der Seite getötet. Zu zweit läuft das alles wesentlich einfach und man kommt eigentlich ziemlich schnell durch, selbst wenn man zwischenzeitlich alles darauf anlegt soviel Loot wie nur möglich mit zunehmen.
+  
+  0:00 - Kerker von Irithyll
+  14:35 - unterer Keller
+  35:56 - Feuerband-Schrein
+  41:28 - Kerker von Irithyll
+  49:30 - gottlose Hauptstadt
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```

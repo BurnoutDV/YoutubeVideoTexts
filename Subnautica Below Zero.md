@@ -787,6 +787,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
+##### #57
+
+* Titel: `Subnautica Below Zero - #57 - Omega Station [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt da ich weiß das ich etwas übersehen habe weiß ich natürlich auch das die Omega-Station irgendwo da draußen ist. Sie ist, wie ich zugeben muss ziemlich gut versteckt. Mich überrascht ehrlich gesagt das Alterra keine einzige Forschungsstation in irgendwelchen tiefen Höhlen hat. Die Crew der Degasi hat sich durchaus im Stande gefühlt solche Anlagen zu errichten und der Forschungsnutzen sollte in ausreichenden Tiefen doch recht gewaltig sein. Warum also hat Alterra auf dieser Mission der ursprünglich der Erkundung des Planeten dient kaum eine Anlage in größerer Tiefe errichtet. Die alten Erbauen haben dies offensichtlich anders gesehen. Wie dem aber auch sei, von der Station ist eh so gut wie Nichts mehr übrig, es gab da wohl eine Reaktorschmelze.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #58
+
+* Titel: `Subnautica Below Zero - #58 - Spurenlos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Omega Station war nicht der heilige Gral von dem ich gehofft habe das sie es ist. Sie war auch wesentlich kleiner als alle anderen Forschungsstationen. Nicht der gewaltige Komplex von der bösen Alterra-Corperation wie ich erwartet habe. Kein Umbrella Bunker und auch nicht einmal im Ansatz ein Black Mesa. Ich möchte feststellen das ich außerordentlich enttäuscht bin. Das Ganze bringt uns aber nun auf ein Anderes Problem. Wir haben keine weitere Spur mehr. Wir waren an jedem Ort der irgendwie einen Hinweis hat, wir haben Sams Werk vollbracht. Wir haben alles getan was wir konnten. Offensichtlich haben wir irgendetwas übersehen aber was genau? Wir wissen es nicht. Jetzt bin ich wahrlich orientierunglos.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -3305,6 +3305,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1459
+
+* Titel: `Let's Play ESO #1469 - die Vernichtung dessen, was geblieben ist [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 44 des Blackwood DLCs - Sitzung 7
+  
+  Wir sind schon wieder in der Blutstromhöhle und heute ist ein ganz besonderer Moment. Das liegt unter Anderem daran das ich mich am Ende doch dafür entschieden habe den Namen der kleinen Quest die wir heute erledigen als Episodentitel zu benutzen obwohl dieser ziemlich an der Grenze des Zeichenlimits kratzt und wahrscheinlich auf mobilen Endgeräten kaum zu lesen ist. Die heutige Episode teilt uns eigentlich nichts Neues mit, wirft aber ein wenig Zweifel an dem Charakter auf dem wir heute begegnen. Mim-Jasa hat aus irgendwelchen Gründen ein Problem damit das sich ein daher gelaufender Nekromant an Leichen erfreut. Soweit ich das sehen kann ist dieses Land außerhalb der beiden großen Städte ziemlich frei von Gesetzen und ich sehe weit und breit niemanden der sich um die Durchsetzung von kaiserlichen Gesetzt bemüht. Von seinem kriegerischen Zweck einmal abgesehen tut der Nekromant doch kaum etwas verwerfliches. Er lässt die Leichen der Toten für sich arbeiten? Wie Mim-Jasa selbst feststellt sind die entsprechenden Seelen, also quasi die Piloten der ganzen Angelegenheit schon längst wieder im Hist und eventuell sogar wieder recycelt. Warum also  die Aufregung? Metaphysik ist wirklich schwierig an manchen Tagen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1470
+
+* Titel: `Let's Play ESO #1470 - ein unerwarteter Gegner [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 44 des Blackwood DLCs - Sitzung 7
+  
+  Eigentlich ist unser Gegner gar nicht einmal so unerwartet. Von Anfang an hatte ich Vandacia in Verdacht. Sein gesamter Aufbau war nicht besonders glaubwürdig und uns auf die Spuren der dunklem Bruderschaft zu schicken erschien ebenfalls wie ein offensichtlicher Versuch den Helden abzulenken. Fraglich ist allerdings warum er das überhaupt versucht hat. Letztendlich hätte er auch den Trick der er heute ausführt direkt zur Anwendung bringen können und alles wäre wesentlich einfacher gewesen. Es ist ja nicht so das der Hohepriester unsere Kompetenz fürchtet. Tatsache ist das wir im Kanon einfach nur ein Abenteurer sind und die meisten Begegnungen durch schieres Glück überleben. Das wir der auserwählte Held sind spielt absolut keine Rolle. Es weisen auch keine Dokumente darauf hin das man irgendwie Angst vor uns hatte. Also warum das alles?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

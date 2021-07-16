@@ -422,6 +422,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #31
+
+* Titel: `Yakuza 3 Remastered - #31 - Yonashiros Training [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In den vergangenen Installationen dieser Spielserie gab es immer wieder irgendwelche uralten Meister die uns die hohe Kunst für irgendwelche Waffen beibringen wollten. Das war am Ende aber immer ziemlich sinnlos weil Waffen einfach nicht so lange gehalten hatten und der bunte Schirm der Wunder einfach stärker als jede richtige Waffe war die wir noch irgendwo finden konnten. Lange Geschichte kurz, die Kampftrainer waren ziemlich sinnlos. Heute treffen wir die neuste Installation dieser Trainer, der Typ heißt Yonashiro, ich mag ihn nicht, und besonders Respekt einflößend ist der Mann auch nicht. Es könnte aber auch daran liegen das Kiryu mittlerweile selber beinahe Sensei Alter erreicht hat und nicht mehr wie die Art Mensch wirkt der man irgendetwas beibringen kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #32
+
+* Titel: `Yakuza 3 Remastered - #32 - Hundeverfolgung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder auf den Spuren der großen Hauptmission. Wir suchen einen Hund. Bzw. eigentlich finden wir zuerst einen Hund, dann läuft der Hund weg und dann suchen wir das Tier wieder. Wie das Leben, ein ständiger Kreislauf. Dinge passieren, andere Dinge passieren, es passieren wieder Dinge. Quasi das Rezept für jede Geschichte. Oder vielleicht auch nicht. Wie dem aber auch sei, ich glaube das diese Geschichte uns eines der Kinder näher bringen soll. Wir haben bereits in den vorherigen Episoden als wir mit den Bewohnern des Waisenhauses zu tun gehabt haben erlebt wie die Kinder irgendwelche Dinge tun und Kiryu in ihr Leben eingreift. Generell und überhaupt weiß ich nicht wie so ein Waisenhaus funktioniert aber ich habe irgendwie den Verdacht das die Einrichtung die Kiryu leitet eine ziemlich Ausnahme in den Dingen ist und die anderen Anstalten wesentlich harscher sind und dort keine Hunde verfolgt werden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

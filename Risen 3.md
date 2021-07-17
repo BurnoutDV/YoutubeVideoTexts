@@ -1648,6 +1648,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #118
+
+* Titel: `Risen 3 - #118 - der Sklavenhändler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute treffen wir auf der Insel der Gnome einen anderen Menschen, technisch gesehen sogar zwei. Und hier habe ich wieder Fragen die die gesamte logistische Operation in Frage stellen. Wir waren in der Lage die See mit unserer Schaluppe zu überqueren aber Bones hat erwähnt das wir faktisch gesehen unfassbares Glück haben und hatten und das wir jederzeit hätten untergehen, überfallen oder von einem Seewesen verschlungen werden können. Wir finden heute zwar zwei Menschen aber was wir nicht finden ist ein Schiff. Außerdem frage ich mich wirklich an wen der Sklavenhändler eigentlich verkauft, weil die alte Welt in der sowas funktioniert hätte gibt es halt irgendwie nicht mehr, und in der neuen Welt setzen eigentlich nur noch die Magier Gnome als Arbeitskräfte ein. Und die haben in dem Sinne keine Sklaven wenn ich das richtig verstanden habe. Es fehlt also massiv an Kultur für das Verhalten, und Logistik. Hat der Mann einfach die Zeit verschlafen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

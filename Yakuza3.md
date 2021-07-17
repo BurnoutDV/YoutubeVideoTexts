@@ -450,6 +450,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #33
+
+* Titel: `Yakuza 3 Remastered - #33 - Hundeverfolgung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einen Hund zu verfolgen, zumindest im offenen Gelände sollte für Menschen absolut kein Problem darstellen. Menschen sind Ausdauerjäger, die meisten anderen Tiere sind darauf ausgelegt schnell irgendwohin zu sprinten und dann weg zu sein. Aber Menschen können kontinuirlich weitermachen. Im Falle von Hunden kann es aber trotzdem ziemlich lange dauern bis man irgendetwas erjagt hat. Aber hier kommt ein weiterer Vorteil von Menschen ins Spiel, wir sind viele. Und können kommunizieren, den besagten Hund zu fangen fällt uns heute also ziemlich einfach. Nicht so einfach fällt uns aber dann den entsprechenden Hund tatsächlich auch von unserer redlichen Absicht zu überzeugen. Aber es war ja eigentlich klar das nichts im Leben des Kazuma Kiryu jemals einfach sein wird.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

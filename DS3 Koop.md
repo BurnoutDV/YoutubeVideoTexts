@@ -397,6 +397,27 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #18
+
+* Titel: `Dark Souls Koop - #18 - Karla im Keller [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Wenn ich mir diese (kurze) Episode im Nachhinein angucke haben wir eigentlich nicht besonders viel geschafft. Aber es ist halt auch so das der Keller von Irithyll und der anliegende Kerker inklusive Hauptstadt auch ziemlich schwieriges Gelände ist. Insbesondere die versammelten Einwohner, Wärter und Viechers machen es zu einer zeitaufwendigen Geschichte hier von einem Ort zum Anderen zu kommen. Daher ist es nicht verwunderlich das es heute relativ lange dauert eine einzelne Hexe zu retten und ein paar wenige Gegenstände aus diversen Ecken zu bergen. Am Ende waren wir aber erfolgreich, und ich finde das ist ein Erfolg in sich selbst.
+  
+  1:40 - gottlose Hauptstadt
+  21:10 - Suche nach Karla
+  31:35 - gottlose Hauptstadt
+  50:40 - Nachbereitung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

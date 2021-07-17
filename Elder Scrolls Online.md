@@ -3335,6 +3335,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1471
+
+* Titel: `Let's Play ESO #1471 - erneute Ratsherren-Rettung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 46 des Blackwood DLCs - Sitzung 7
+  
+  Und schon wieder retten wir Leute. Ich warte immer noch auf die Geschichte in der wir nicht der große Held im Mittelpunkt sind sondern eher irgendjemanden begleiten und kleine Dinge nebenher tun. An sich hatten wir eine solche Situation ja in Elsweyr mit der werdenden Prinzessin aber letztendlich haben wir dennoch den Tag selbst gerettet. Heute sind wir aber definitiv im Mittelpunkt der Dinge, die Herren und Damen Ratsherren sind offensichtlich nicht in der Lage sich selbst zu retten. So weit ich es sehen kann haben wir auch unseren Gegnern schön in die Hände gespielt, Vadancia wusste scheinbar selbst kaum etwas über das Vermächtnis seines ehemaligen Herren, hätte wir also einfach nur alle Unterlagen vernichtet die wir gefunden haben wäre der Orden auf aufstrebenden Flamme ziemlich schnell am Ende gewesen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -815,12 +815,16 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
-##### #Nummer
+##### #59
 
-* Titel: ``
+* Titel: `Subnautica Below Zero - #59 - Heimdekoration [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir sind dann doch noch einmal zuhause weil ich in der Omega-Basis auch private Quartiere gefunden habe und darin waren selbstverständlich wieder mehre Gegenstände die wir jetzt in unsere menschliche Trophäen-Kammer aufhängen können. Daher verbringen wir überraschenderweise doch noch einmal ein wenig Zeit in der Zentrale des Schreckens die als meine Unterwasserbasis bekannt ist. Mir kam auch grade die Idee das AL-AN am Ende meinen (also Robins) Körper übernimmt und sie in den Erbauerkörper geht oder die ganze Geschichte mit dem gebauten Körper  eigentlich gar nicht stimmt und nur ein geplantes Experiment gewesen ist das niemals funktioniert hat. Und wenn er dann die Kontrolle übernimmt kommt er in den Raum in dem wir immer gewohnt haben, nimmt die Halskette von Sam in die Hand und dann passieren total magische Dinge. Oder so. Wahrscheinlich eher nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```

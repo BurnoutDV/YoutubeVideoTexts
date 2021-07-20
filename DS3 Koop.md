@@ -408,10 +408,84 @@
   
   Wenn ich mir diese (kurze) Episode im Nachhinein angucke haben wir eigentlich nicht besonders viel geschafft. Aber es ist halt auch so das der Keller von Irithyll und der anliegende Kerker inklusive Hauptstadt auch ziemlich schwieriges Gelände ist. Insbesondere die versammelten Einwohner, Wärter und Viechers machen es zu einer zeitaufwendigen Geschichte hier von einem Ort zum Anderen zu kommen. Daher ist es nicht verwunderlich das es heute relativ lange dauert eine einzelne Hexe zu retten und ein paar wenige Gegenstände aus diversen Ecken zu bergen. Am Ende waren wir aber erfolgreich, und ich finde das ist ein Erfolg in sich selbst.
   
+  0:00 - Feuerband Schrein
   1:40 - gottlose Hauptstadt
   21:10 - Suche nach Karla
   31:35 - gottlose Hauptstadt
   50:40 - Nachbereitung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #19
+
+* Titel: `Dark Souls Koop - #19 - Yhorm und die Invader [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Die heutige Episode ist zweigeteilt. Auf der einen Seite begegnen wir heute in der gottlosen Hauptstadt diversen Leuten die uns überhaupt nicht mögen und auch anderen Leuten die definitiv nichts mit der Stadt an sich zu tun haben. Am Ende treffen wir aber den großen Riesen und sorgen auch dafür das der Riese sehr klein bleibt. Irgendwann einmal ist Yhorm besiegt und dann geht erst der Spaß los, weil es geht zurück nach Irithyll und dort gibt es ein Gebiet das bei allen Leute enorm beliebt ist wenn es darum geht PVP zu betreiben.
+  
+  0:00 - gottlose Hauptstadt
+  14:47 - BOSS: Yhorm der Riese
+  31:21 - Nachbereitung
+  34:30 - Duellgrund
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #20
+
+* Titel: `Dark Souls Koop - #20 - Dachbesteigung [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Wir sind auf dem Weg nach Anor Londor, ich hoffe damit teile ich niemanden irgendwelche neuen Informationen mit. Ich habe nie behauptet das dies ein blinder Playthrough ist aber beim ersten Mal als da plötzlich Anor Londor stand war ich wirklich ein wenig überrascht. Obwohl ich, wenn ich mich recht erinnere, tatsächlich sogar wusste was auf mich zu kommt. Immerhin wird der Geister der alten Stadt der Götter damit eingefangen das es immer noch die nervigen Bogenschützen auf den Dächern gibt. Das wurde in der Vergangenheit ja auch nicht anders gehandhabt. Jetzt fragt sich nur wie es die ganzen Silberritter eigentlich auf dieses Dach geschafft haben. Die waren jetzt nun wirklich ganz woanders zu einer anderen Zeit.
+  
+  0:00 - gottlose Hauptstadt
+  7:00 - Mac Donnel
+  10:15 - Dächer von Anor Londor
+  18:31 - Kathedrale Irithyl
+  32:50 - Mac Donnel
+  38:15 - Dächer von Anor Londor
+  51:24 - Anor Londor
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #21
+
+* Titel: `Dark Souls Koop - #21 - Aldrich, Tänzerin & Oceiros [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Heute legen wir einen wahren Marathon hin und besiegen sehr viele Bosse in einer Episode. Drei davon sind Aldrich weil es sich einfach anbietet. Ich kann noch nicht direkt einschätzen ob Dark Souls im Coop wirklich soviel leichter wird oder ob es einfach die Folge von viel zu vielen vorhergehenden Versuchen ist und wir beide halbwegs passable Spieler sind und deswegen mit einem geringen Risiko Build ziemlich gut durchkommen ohne uns großartig zu verausgaben. Wie dem aber auch sei, die Sterne standen halt günstig und daher legen wir heute eine Menge Bosse, einfach weil es sowieso anstand.
+  
+  0:50 - BOSS: Aldrich der Götterfresser
+  3:45 - Nachbereitung
+  5:40 - Anor Londor
+  12:21 - BOSS: Aldrich der Götterfresser
+  15:00 - Anor Londor
+  20:00 - BOSS mit Anri: Aldrich der Götterfresser
+  25:00 - Anris Schicksal
+  35:40 - BOSS: Tänzerin des Nordwindtals
+  42:35 - Burg Lothric
+  45:35 - Garten des verzehrten Königs
+  53:48 - BOSS: Oceiros der verzehrte König
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..

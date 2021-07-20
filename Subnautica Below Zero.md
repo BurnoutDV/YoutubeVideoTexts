@@ -828,3 +828,45 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
+
+##### #60
+
+* Titel: `Subnautica Below Zero - #60 - Aquariummodul [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein letztes Modul hat uns noch für die Seebahn gefehlt. Soweit ich das sehen kann handelt es sich um die mobile Variante des Kühlschranks über Umwege. Es ist das Aquariummodul und darin kann man wohl Fische aufbewahren um sie später zu untersuchen oder einfach nur zu essen. Ich bin mir nicht sicher wie sinnvoll das wirklich sein kann weil wir eigentlich schon genügend Essen für eine sehr lange Reise haben aber ich nehme mal an das jetzt ein zusätzliches Modul auch keinen Unterschied mehr macht. Immerhin hat uns das eine weitere Aufgabe gegeben und damit wieder etwas worauf wir hinarbeiten können. Das Universum mag unendlich sein aber die Möglichkeiten in Subnautica sind beschränkt und ich freue mich wenn ich neue Dinge finde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #61
+
+* Titel: `Subnautica Below Zero - #61 - Pinguinrettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor einiger Zeit habe ich es geschafft mit ein wenig Trickserein meinen Pinguinroboter Pinga in einer Höhle zu verstauen um dort nach Schätze Ausschau zu halten. Ich habe damals leider nicht bedacht das ich den Pinguin ja auch irgendwie wieder rausholen müsste. Meine entsprechenden Versuche waren leider nicht besonders erfolgreich, daher brauchen wir  eine Gravitationskanone um dies zu bewerkstelligen, es stellte sich aber leider heraus das wir keine entsprechenden Baupläne für ein handliches Gerät besitzen. Es wäre aber möglich gewesen an meinem Krebsanzug eine entsprechende Erweiterung zu montieren. Also habe ich dies getan und bin erneut auf das Festland mit dem Roboter gestapft. Einziger Nachteil, beim ständigen Schaukeln des Roboters wird mir schlecht und ich kann die Reise nicht lange mitmachen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #62
+
+* Titel: `Subnautica Below Zero - #62 - Klopfereinsatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwann in grauer Vorzeit, als ich das erste Mal auf dem Eis aufgesessen bin habe ich einen Bauplan für ein Gerät das sich da Klopfer nennt gefunden. Das gute Stück war mir bisher eher nicht zu Nutzen. Allerdings wusste ich da auch noch nicht das ich anscheinend doch noch einmal zu den Würmern muss. Ich hätte mir aber auch gleich denken können das das ganze Wurmgebiet bisher von mir einfach nicht ausreichend erkundet wurde. Ich muss aber zugeben das ich die ganze Geschichte wohl minimal unterschätzt habe. So etwas kommt vor und passiert bestimmt auch den Besten. Wie dem aber auch sei, heute wird alles besser und wir gehen zurück in das Gebiet der Tiefenwürmer und geben uns Mühe eine alte Basis der Erbauer zu finden, weil dort soll der letzte, noch fehlende Bauplan, auf uns warten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```

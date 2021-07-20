@@ -464,6 +464,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #34
+
+* Titel: `Yakuza 3 Remastered - #34 - Mame, der Hund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte nie selber einen Hund aber Menschen erzählen oft wie das mit solchen Tieren ist. Das größte Problem ist das Hunde nicht ewig sind, quasi nur ein Geschenk auf Zeit. Das würde es mir ein wenig schwer machen. Ich habe ja so schon Probleme mit Enden und dann auch noch zu wissen das mein potenziell bester Freund nicht mehr so lange macht bricht einen schon irgendwie das Herz. Davon einmal abgesehen haben solche Tiere aber auch für Kinder eine große Rolle in ihrem Leben. Wir füttern heute also ein Tier damit sich eines von Kiryus Kindern an die Zeit vor dem Waisenhaus erinnern kann und alles ein wenig besser wird.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #35
+
+* Titel: `Yakuza 3 Remastered - #35 - Trainiere meine Hostess [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich bin ich willens überall wo ich nur kann Geschichte herauszuholen, zum Beispiel auch bei dem Versuch die Hostess-Geschichte irgendwie zum Laufen zu bringen. Es stellt sich aber heraus das ich das einfach nicht hinkriege. Egal was ich tue, irgendwie wird das einfach nicht. Ich kann es einfach nicht hinkriegen das meine Hostess die notwendigen Eigenschaften hat, da hilft auch kein Training. Hauptproblem ist das ich blind irgendwelche Einstellungen treffen muss die dann zu irgendeinem Gesamtergebnis führt das für mich beim besten  Willen nicht transparent oder vorhersehbar ist. Ich wäre wahrscheinlich am besten gefahren wenn ich einfach nichts getan hätte, aber sowas sagt einen natürlich vorher keiner.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #36
+
+* Titel: `Yakuza 3 Remastered - #36 - die Welt der Mode [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend möchte das Spiel wirklich das ich so schnell wir nur irgendwie möglich alle möglichen Kinder kennen lernen. Inklusive Haruka sind das dann wohl 9 Stück, immer kenne ich meine eigene Ziehtochter schon ziemlich gut und muss mir wohl keine Sorgen machen das ich mit ihr noch irgendwelche spannenden Vertrauensmission habe. Davon einmal abgesehen fürchte ich um das Schlimmste für die Kinder des Waisenhauses. Wir bauen eine ganz schön intensive Beziehung mit den Kids auf, da kann eigentlich nur etwas Schlimmes passieren. Die Welt von Yakuza ist keine Gütige, ich fürchte daher sehr um das Wohlbefinden der kleinen Racker. Für den Moment ist aber noch alles harmlos und es gibt keine klar erkennbare Bedrohung.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

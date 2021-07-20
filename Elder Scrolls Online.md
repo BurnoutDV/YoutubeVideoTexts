@@ -3350,6 +3350,55 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1472
+
+* Titel: `Let's Play ESO #1472 - Konkurrenz und Kontrakte [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 47 des Blackwood DLCs - Sitzung 7
+  
+  Es gibt mit dem neuen DLC zwei Begleiter die man mitnehmen kann. Das wusste ich schon aus der Ankündigung, bisher habe ich mich aber wenig damit beschäftigt. Jetzt ist es soweit, es tut mir eigentlich fast ein wenig Leid wie ich die Mission dazwischen reingeschoben habe und meine Hauptquest und damit das Schicksal der Welt wieder einmal auf die lange Bank geschoben habe. Wir treffen heute einen Bretonen namens Bastian Hallix, der verfolgt anscheinend ein Kind aus einer anderen Adelsfamilie das sich irgendwie bei irgendwelchen Schmugglern angebiedert hat. Die gesamte Geschichte ist ein wenig fischig, aber das könnte auch zur unmittelbaren Nähe zum Meer liegen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1473
+
+* Titel: `Let's Play ESO #1473 - die Ätzhohnsenke [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 47 des Blackwood DLCs - Sitzung 7
+  
+  Einen Begleiter zu erlangen ist nicht immer ganz einfach, aber an sich bin ich ja hier nicht weil ich daran interessiert bin irgendwelche Begleiter einzusacken sondern weil ich interessante Geschichten hören will. Und in dieser Hinsicht hat die Geschichte der Ätzhohnsenke bereits Einiges für mich getan. Wir haben da auf der einen Seite das Drama mit Bastian Hallix, auf der Anderen natürlich auch das die Schmugglerhöhle die wir hier gefunden haben, so wie es aussieht, keine wirklich Schmugglerhöhle ist. Das ist natürlich enttäuschend, weil der Ersatz wird durch eine Höhle voller Daedraanbeter  geboten, die haben in der Regel weniger weltlichen Besitz als es bei Betreibern von illegalen Aktivitäten der Fall wäre.
+  
+  0:00 - Ätzhohnsenke
+  2:23 - Aufzeichnungen von Lovirithel dem Weisen
+  5:36 - Ätzhohnsenke
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1474
+
+* Titel: `Let's Play ESO #1474 - der Kult des Entschaffers [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 49 des Blackwood DLCs - Sitzung 7
+  
+  Mittlerweile wissen wir sogar mehr darüber was hier genau angebetet wird. Generell und überhaupt erfahren wir heute aber seltsame Dinge. Und mit erfahren meine ich auch erleben. Wir treffen heute einen Vampir, einen Vampir den wir am Ende übrigens freilassen. Der Gute ist scheinbar noch nicht lange ein Vampir aber warum und wie er dazu geworden ist wissen wir nicht. Nur das er eher unzufrieden mit seiner untoten Existenz ist. Das erklärt auch wie er hier gelandet ist. Interessant ist übrigens auch das anscheinend mein eigenes Vampir-Sein für alle Beteiligten sofort zu erkennen ist. ich dachte eigentlich das ich mich ein wenig besser maskiert habe. Davon einmal abgesehen handelt es sich bei dem Kult des Entschaffers anscheinend um eine Plattform zur Anbetung von Sithis, also nicht im dem Sinne einem Daedra sondern einem Wesen der Leere. (Bzw. nach kurzer Konsultation des Wikis, DAS Wesen der Leere schlechthin)
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

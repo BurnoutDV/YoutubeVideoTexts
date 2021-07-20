@@ -1662,6 +1662,48 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #119
+
+* Titel: `Risen 3 - #119 - Zugang zum Tal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe Ewigkeiten damit verbracht irgendwie in das verbotene Tal der Kila zu gelangen und irgendwie hatte ich die ganze Zeit im Hinterkopf das mir noch eine Sache fehlt damit ich wirklich Zugriff erhalten kann. Es stellt sich heraus das ich von Anfang an bereits alles besaß um hinein zu gelangen. Aber jetzt als Magier ist es natürlich wesentlich einfacher für mich die Gegnerhorden zu überwinden die hinter der Tür auf uns warten. Insofern betreten wir heute dann endlich das Tal und finden die vielen Schätze von denen uns Mud doch so lange und so oft erzählt hat. Ich bin mir sicher jetzt ist es nur noch eine Frage von wenigen Minuten bis wir alle sehr sehr reich sind. Interessant ist aber auch das der Torwächter mich durchlässt und dann auch noch die Begleiter, obwohl die offensichtlich das Rätsel nicht gelöst haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #120
+
+* Titel: `Risen 3 - #120 - Chani [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen Chani bereits, der neue namenlose Held allerdings nicht. Anscheinend handelt es sich um die mächtigeste Schamanin in der Südsee. Man fragt sich doch wirklich wieviel Zeit eigentlich nun wirklich vergangen ist. Als wir Chani das letzte Mal gesehen haben war sie die junge Tochter eines Häuptlings und hat ehrlich gesagt nicht so gewirkt als wäre sie in der Lage einen Stamm alleine zu führen oder hätte die feinsten Künste des Voodoo bereits gemeistert. Heute sehen wir dann das all dies zwischenzeitlich wohl geschehen ist. Oder es ist Kanon das sich der alte namenlose Held mit Chani zusammengetan hat und deswegen Einiges an Charakterentwicklung irgendwie an uns vorbeigegangen ist das aber eigentlich passiert ist. Das würde zumindest ihre Macht erklären.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #121
+
+* Titel: `Risen 3 - #121 - Soldaten des Orakels [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das vorgeschlagene Thumbnail der heutigen Episode auf Youtube sieht in der Miniatur ziemlich episch aus. Ich bin mir eigentlich sicher das man dies alles nicht mehr sehen würde wenn man ranzoomt und die anderen beiden Alternativen sind wesentlich langweiliger. Immerhin retten wir aber heute einen alten Piraten namens Crouse, es ist fast so als wäre das schon einmal geschehen. Wie dem aber auch sei, das epische Vorschaubild zeigt Bones zur Rechten, den Helden und Links und das ganze Bild ist voller Flammen die ich anscheinend grade auf irgendwelche Spinnen geworfen habe. Dies sind übrigens auch unsere Gegner des Tages. Anscheinend ist das örtliche Orakel ziemlich sauer auf alles und wirft den Menschen eine Armee von Spinnen entgegen. Die Krieger der Kila waren offensichtlich nicht fähig dagegen zu bestehen, daher müssen wir jetzt ran.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

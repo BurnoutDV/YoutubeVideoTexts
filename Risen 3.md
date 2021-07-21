@@ -1704,6 +1704,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #122
+
+* Titel: `Risen 3 - #122 - der Tempel von Margoloth [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich handelt es sich um einen normalen Tempel und wir wissen gar nicht ob es der persönliche Tempel von Margoloth ist oder ob es sich eher um eine Einrichtung handelt die ursprünglich einen anderen Sinn ergeben sollte aber dann umgewandelt wurde. Generell scheinen mir die meisten Tempel der ursprünglichen Bewohner der Südsee als Tempel auch eher ungeeignet zu sein. Ihre Inneneinrichtung bestehen aus einer Menge enger Gänge mit einigen wenigen breiteren Räumen. Offensichtlich sind die Orte auch Gräber aber alle Leute referenzieren sie eher als Tempel und nicht altes Grabmal was irgendwie auch interessant ist. Davon einmal abgesehen treffen wir heute übrigens Margoloth, ich liebe es ja neue Leute zu treffen, aber manche Wesen scheinen ein wenig älter als der Rest zu sein. Und ein wenig sonderbarer aus zu sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

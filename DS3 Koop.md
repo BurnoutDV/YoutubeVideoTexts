@@ -492,6 +492,33 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #22
+
+* Titel: `Dark Souls Koop - #22 - Unbehütete Gräber [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Es gibt einen Feuerbandschrein, und es gibt einen anderen Feuerbandschrein. Wir kennen bereits unsere Variante, dann haben wir ein Feuer entzündet und sind irgendwo anders hingegangen, anscheinend ein andere Welt, ein anderes Lothric. Von unseren Feuerbandschrein aus können wir aber auch ein Lothric sehen, manchmal frage ich mich wie dieses Lothric eigentlich aussieht. Lebt dort niemand mehr? Ist der verzehrte König dort nach am Leben, liegt er dort nur noch vertrocknet herum? Und wer sind eigentlich wir, unser Weg fing an als wir in unserer Variante eines unbehüteten Grabes erwacht sind. Wo kommen wir her? Wer sind wir? Wer waren wir? Sind wir erwacht? Sind wir vorhanden? Was ist schon Leben. Was ist noch Real? Soviele viele viele Fragen.
+  
+  0:00 - Garten des verzehrten Königs
+  9:30 - Oceiros, der verzehrte König
+  11:58 - Nachbereitung
+  15:38 - Sonnenloses Reich
+  17:18 - Feuerband-Schrein
+  26:50 - Unbehütete Gräber
+  33:45 - BOSS: Meister Gundyr
+  35:19 - Unbehütete Gräber
+  48:12 - BOSS: Meister Gundyr
+  51:25 - dunkler Feuerbandschrein
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

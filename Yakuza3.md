@@ -506,6 +506,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #37
+
+* Titel: `Yakuza 3 Remastered - #37 - täglicher Rassismus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig komisch ein Urteil über eine Gesellschaft abzugeben die man noch nie selber erlebt hat. Andererseits wäre die Grenze um die japanische Gesellschaft wirklich richtig und vollständig zu erleben ziemlich hoch. Man müsste die Sprache lernen, sich irgendwie tarnen und dann untertauchen, und letztendlich hätte man doch nicht den Lebenszyklus richtig durchprobiert. Also Urteile ich einfach so, ohne die richtige Expertise und Mittel zu haben. Soweit ich das verstanden habe sind Japaner ziemlich rassistisch, sie mögen Touristen sehr gerne und wenn man nur zu Besuch vorbei kommt ist alles gut. Aber wenn dann die Leute anfangen Wurzeln zu schlagen ist man eher weniger begeistert. Die schwere Sprache macht diesen Umstand auch nicht unbedingt leichter. Es ist interessant das Yakuza ein solches Thema anspricht, auf der anderen Seite hatten wir schon einige schwierige Themen in diesem Spiel. Irgendwie finde ich das tatsächlich sogar gut. Eine willkommene kritische Auseinandersetzung, auch wenn die Diskussion natürlich an uns als westliche Zuschauer ein wenig verloren geht, wenn auch nicht völlig ohne Parallelen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -3399,6 +3399,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1475
+
+* Titel: `Let's Play ESO #1475 - die Tochter von Sithis [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 50 des Blackwood DLCs - Sitzung 7
+  
+  Wahrscheinlich sollte ich eine Warnmeldung anbringen wenn sich Personen selbst einen wichtigen Titel benutzen um anzuzeigen das sie irgendwelche Wesen anbeten und in Wirklichkeit nichts dergleichen geschieht. Die selbst erklärte Tochter von Sithis hat aber in der Tat irgendwelche Macht, ich nehme allerdings an das sie magische Energien schon immer kanalisieren konnte. Ich habe nämlich ein wenig über die Sithis Geschichte nachgedacht. Sithis ist eines der fundamentalen Kräfte dieser Welt, es scheint mir doch ziemlich unwahrscheinlich das  eine solche Wesenheit überhaupt in die Geschicke der Welt eingreift oder überhaupt willens ist einzugreifen. So richtig bin ich allerdings auch nicht in der Mythologie drin.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

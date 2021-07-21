@@ -870,3 +870,37 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
+
+##### #63
+
+* Titel: `Subnautica Below Zero - #63 - Erbauer-Gewebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen der Sache näher. Es ist nur noch eine kleine Expedition entfernt und schon können wir endlich den vollständigen Erbauerkörper erschaffen. Ärgerlicherweise müssen wir dafür immer noch einen Höhle finden die ich bisher immer übersehen habe. Aber ich weiß das sie da ist, und sobald ich die Höhle betrete kann ich daraus irgendwie den Bauplan für das Gewebe aus dem die Erbauer erschaffen wurden bauen. Mir ist ehrlich gesagt ein Rätsel was ich nach all der Zeit noch finden will. Wie es aber auch am Ende aussieht, die große Erbauermaschine wird wahrscheinlich den komplizierten Arbeitsanteil für mich übernehmen. Immerhin eine Erleichterung. Fraglich ist übrigens ob die Maschine nicht sowieso einfach alles gebaut hätte wenn ich einfach eine Schubkarre voller Materialien gebracht hätte?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

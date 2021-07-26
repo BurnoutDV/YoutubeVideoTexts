@@ -1718,6 +1718,76 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #123
+
+* Titel: `Risen 3 - #123 - Schattenlord der Zwietracht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwann möchte man ja meinen das wir einem Schattenlord doppelt begegnen, aber so wie die Dinge stehen passiert das einfach nicht. Heute treffen wir (tödlich, mit Feuerball), den Schattenlord der Zwietracht, der hat es anscheinend zu Stande gebracht ein relativ mächtiges Wesen wie das Orakel von Kila zu beeinflussen. Generell und überhaupt scheint die Welt aber auch so sehr schlecht  gegen den subtilen Einfluss des Bösen vorbereitet zu sein. Überall finden wir Leute die leicht Dingen nachgegeben die sie eigentlich nicht tun würden und ich hätte wirklich gedacht das ein uraltes Wesen das quasi den Anbeginn der Zeit gesehen hat wissen würde was ihre wahren Gefühle sind und was nicht. Ich habe aber wohl unterschätzt wie niederträchtig das Böse wirklich ist. Oder wie schlecht das Writing. Das macht es auch ein wenig schwierig das zu beurteilen, was ist jetzt übermächtiger Einfluss, und was ist nur "weil wir es so sagen".
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #124
+
+* Titel: `Risen 3 - #124 - Abschluss in Kila & Taranis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So langsam aber sich nähern sich die Ereignisse wirklich dem Ende. Missionen und persönliche Aufträge scheinen sich langsam aber sich zu ergeben und nichts Neues kommt mehr hinter her. Es scheint fast so als würde die Zeit langsamer werden. Endlich können wir also auf eine fertige Welt zurückblicken. Ich kann nicht unbedingt sagen das ich die Reise bis hierher sehr genossen habe aber immerhin kristallisiert sich jetzt endlich ein guter Abschluss heraus. Das beruhigt mich sehr. Also geben wir noch unsere letzten Aufträge auf Taranis und Kila ab und schon können wir in See stechen um das große Übel irgendwo anders niederzuringen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #125
+
+* Titel: `Risen 3 - #125 - Finale Vorbereitung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe das Gefühl das ich in den Spielen die ich so Spiele andauernd irgendwelche finalen Vorbereitungen habe. Immer bereite ich mich ein letztes Mal auf das große Ende vor nur um dann doch wieder irgendwelche Dinge zu finden die mich noch einmal aufhalten und das echte Ende wieder einmal verzögern. Heute ist ein Moment in dem ich mir aber sicher bin das es das jetzt wirklich gewesen ist. Und daher sprechen wir noch einmal mit unseren Gefährten, tuen diverse Dinge, schauen was es noch zu tun gibt und hören dann rechtzeitig auf bevor es auf die große Reise in das Unbekannte aber auf jeden Fall gegen das Böse geht. Endlich, langsam aber sich wird es aber auch Zeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #126
+
+* Titel: `Risen 3 - #126 - Piratenallianz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um die Flotte des Bösen zu vernichten brauchen wir auf jeden Fall auch eine Flotte. Seit einiger Zeit arbeiten wir bereits daran, interessant ist übrigens auch das wir zwei der Schiffe die uns jetzt helfen auf hoher See gekapert haben und teilweise aus einer Crew besteht die uns bis vor Kurzem noch feindlich gegenüber stand. Aber anscheinend sollen wir glauben das die Leute nur blind ihrem Kapitän gefolgt sind oder ein so hohes Verständnis von Pflicht und Ehre haben das sie tun was auch immer die höchste Person auf dem Gefährt will. So oder so haben wir jetzt auch eine Flotte die anscheinend offiziell unter der Führung der Piraten läuft. Auch interessant ist das wir überhaupt nicht auf die Idee kamen die Schiffe einmal zu reparieren, es hätte Takarigua wahrscheinlich eine Menge mehr Leben eingehaucht wenn es so etwas wie eine Werft auf der Insel gegeben hätte. Aber das hätte dann wieder die Frage aufgeworfen wo eigentlich das Holz her kam.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+##### #127
+
+* Titel: `Risen 3 - #127 - das große Ritual [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die große Schlacht gegen Crow und seiner Geisterflotte kann bestimmt bald beginnen, wir haben bereits alle notwendigen Allianz-mitglieder gesammelt, nur eine Sache fehlt noch: wir müssen uns selbst sammeln. So wie die Dinge aussehen haben wir immer noch keinen Geist und wie auch immer das funktioniert macht uns das irgendwie unvollständig auch wenn unser Geist anscheinend ganz gut ohne aus kommt und wir offensichtlich auch ohne ihn. Das Spiel will es aber so, ich sehe zwar keinen Grund warum wir nicht auf Seelenkonserven leben können und das Böse in der Welt einfach stumpf auf den normalen Weg besiegen aber wenn wir unbedingt unseren Geist wieder gewinnen müssen weil uns das irgendwie aufhält, dann sei es so. Wenn man es großzügig sieht haben wir ja auch schon eine Menge Vorbereitung für das große Ritual getroffen und die wollen wir jetzt ja auch nicht völlig verfallen lassen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

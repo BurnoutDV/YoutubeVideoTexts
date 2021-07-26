@@ -520,6 +520,76 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #38
+
+* Titel: `Yakuza 3 Remastered - #38 - Jugendliebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man jung ist ist alles noch irgendwie neu und man erlebt die ganzen Dinge zum ersten Mal. Es ist komisch wenn man darüber nachdenkt. Auf der  einen Seite würde man vielleicht einige diese unbeschwerten Kindheitstage gerne wieder erleben, auf der anderen Seite kann es schon ziemlich belastend sein wenn man sich alles neu erarbeiten müsste, noch schlimmer wäre es wohl wenn man zurückgehen würde, die Details vergisst aber sich erinnert das alles sehr verwirrend und ohne großartige Struktur war. So in etwa erleben heute unseren beiden Waisen die Härte der Gesellschaft und Zuneigung für einander. Wirklich eine herzerwärmende Geschichte aus Liebe, Hass und Vorurteile.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #39
+
+* Titel: `Yakuza 3 Remastered - #39 - Helikoptereltern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit jeder Episode in der wir nicht nach Tokio fliegen erhärtet sich mein Verdacht das mit den Kindern des Waisenshauses noch irgendetwas Schreckliches passieren wird. Yakuza ist ein hartes und erwachsenes Spiel, nur weil es Kinder sind heißt es nicht das am Ende alle oder überhaupt irgendwelche überleben. Ich genieße diese Ungewissheit auch ein wenig, es erinnert mich an das frühe Game of Thrones bevor es von der Buchvorlage abwich. Alles war offen, niemand war sicher. Aber die Tatsache das wir immer mehr kleine Alltagssituationen mit den diversen Kindern erleben erscheint mir doch ziemlich verdächtig wenn man das so sagen kann. Irgendetwas scheint wirklich zwanghaft zu wollen das ich die Kinder liebe. Dem traue ich nicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #30
+
+* Titel: `Yakuza 3 Remastered - #40 - Stadtausflug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Okay, zugegeben, wir sind nicht zum ersten Mal in der Stadt. Nicht einmal das erste Mal mit Haruka. Aber heute gehen wir wirklich in die Karaoke-Bar. An sich bin ich nicht besonders begeistert von diesen Mini-Spielen aber wenn es bedeutet das Verhältnis mit Haruka zu verbessern dann gucke ich mir das natürlich an. Und so laufen wir heute mit einem kleinen Mädchen das viel zu erwachsen für ihr Alter ist am Arm durch die Stadt. Immerhin ist es ein gutes Tochter-Vater Erlebnis mit dem wir verbindende Momente für die Zukunft aufbauen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #41
+
+* Titel: `Yakuza 3 Remastered - #41 - Großeinkauf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir treffen heute zum Einen alte Bekannte wieder und zum Anderen gehen wir mit Haruka in die Stadt einkaufen. Irgendwie machen wir das auch andauernd. Mit irgendjemanden in die Stadt gehen und Dinge tun. So oder erleben wir mehr von diesen verrückten Anime-Geschichten die für mich Yakuza-Spiele ausmachen. Ich fürchte mich bereits vor dem Moment wenn wir uns wirklich ins Flugzeug setzen und dann nach Tokyo reisen und dort wieder der ernst des Lebens los geht. Oder aber alternativ wenn, während Kiryu auf der Hauptinsel ist, in Okinawa böse Dinge passieren und all die Leute die wir kennen irgendetwas Schlimmes erleben und kein Kazuma Kiryu anwesend ist um den Tag zu retten. Ich habe da insbesondere die Yakuza-Clans im Auge die wir vorher erfolgreich zurückgeschlagen haben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #42
+
+* Titel: `Yakuza 3 Remastered - #42 - Liebesdrama [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschliche Beziehungen sind irgendwie kompliziert, und wenn man ziemlich unromantisch darüber nachdenkt ist es alles nur ein ziemlich komplizierter Plan um irgendwie nachkommen zu erstellen. So zu denken ist aber a.) ein wenig deprimierend und b.) wahrscheinlich unabhängig von der Depression nicht unbedingt gut für die geistige Gesundheit. Davon einmal abgesehen gibt es da aber auch noch eine Menge Komplexität. Kleine subtile Hinweise und solcherlei Dinge die es wirklich schwierig machen sich zu orientieren. Oder aber man hat einfach einen Betrüger als Partner der einen nur ausnutzen will. Aber das würde man ja doch recht schnell erkennen wenn es sich nicht unbedingt um einen absoluten Profi handelt, und dafür müsste man ja alt werden um die nötige Erfahrung zu besitzen. Welches junge Mädchen wäre also schlau genug für so etwas? Oder gibt es da noch die Komponente des dummen Partners?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

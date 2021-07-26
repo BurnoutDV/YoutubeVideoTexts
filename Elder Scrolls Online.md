@@ -3372,7 +3372,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 47 des Blackwood DLCs - Sitzung 7
+  Folge 47 des Blackwood DLCs - Sitzung 8
   
   Einen Begleiter zu erlangen ist nicht immer ganz einfach, aber an sich bin ich ja hier nicht weil ich daran interessiert bin irgendwelche Begleiter einzusacken sondern weil ich interessante Geschichten hören will. Und in dieser Hinsicht hat die Geschichte der Ätzhohnsenke bereits Einiges für mich getan. Wir haben da auf der einen Seite das Drama mit Bastian Hallix, auf der Anderen natürlich auch das die Schmugglerhöhle die wir hier gefunden haben, so wie es aussieht, keine wirklich Schmugglerhöhle ist. Das ist natürlich enttäuschend, weil der Ersatz wird durch eine Höhle voller Daedraanbeter  geboten, die haben in der Regel weniger weltlichen Besitz als es bei Betreibern von illegalen Aktivitäten der Fall wäre.
   
@@ -3391,7 +3391,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 49 des Blackwood DLCs - Sitzung 7
+  Folge 49 des Blackwood DLCs - Sitzung 8
   
   Mittlerweile wissen wir sogar mehr darüber was hier genau angebetet wird. Generell und überhaupt erfahren wir heute aber seltsame Dinge. Und mit erfahren meine ich auch erleben. Wir treffen heute einen Vampir, einen Vampir den wir am Ende übrigens freilassen. Der Gute ist scheinbar noch nicht lange ein Vampir aber warum und wie er dazu geworden ist wissen wir nicht. Nur das er eher unzufrieden mit seiner untoten Existenz ist. Das erklärt auch wie er hier gelandet ist. Interessant ist übrigens auch das anscheinend mein eigenes Vampir-Sein für alle Beteiligten sofort zu erkennen ist. ich dachte eigentlich das ich mich ein wenig besser maskiert habe. Davon einmal abgesehen handelt es sich bei dem Kult des Entschaffers anscheinend um eine Plattform zur Anbetung von Sithis, also nicht im dem Sinne einem Daedra sondern einem Wesen der Leere. (Bzw. nach kurzer Konsultation des Wikis, DAS Wesen der Leere schlechthin)
   
@@ -3406,9 +3406,84 @@
 * Beschreibung:
 
   ```markdown
-  Folge 50 des Blackwood DLCs - Sitzung 7
+  Folge 50 des Blackwood DLCs - Sitzung 8
   
   Wahrscheinlich sollte ich eine Warnmeldung anbringen wenn sich Personen selbst einen wichtigen Titel benutzen um anzuzeigen das sie irgendwelche Wesen anbeten und in Wirklichkeit nichts dergleichen geschieht. Die selbst erklärte Tochter von Sithis hat aber in der Tat irgendwelche Macht, ich nehme allerdings an das sie magische Energien schon immer kanalisieren konnte. Ich habe nämlich ein wenig über die Sithis Geschichte nachgedacht. Sithis ist eines der fundamentalen Kräfte dieser Welt, es scheint mir doch ziemlich unwahrscheinlich das  eine solche Wesenheit überhaupt in die Geschicke der Welt eingreift oder überhaupt willens ist einzugreifen. So richtig bin ich allerdings auch nicht in der Mythologie drin.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1476
+
+* Titel: `Let's Play ESO #1476 - der Turm des Chaosblutes [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 51 des Blackwood DLCs - Sitzung 8
+  
+  Und wir sind schon wieder im Reich des Vergessens, um genauer zu sein, in den Totenlanden, ihr wisst schon, das Land von Fürst Dagon wie wir ihn wohl ehrenvoll ansprechen sollten während wir in seiner Domäne rumlaufen. Generell glaube ich nicht das es besonders viel bringt bei Daedra um irgendwelche Gnade zu winseln aber ein wenig Respekt entgegen zu bringen kostet uns quasi nichts erhöht aber unsere Chancen erheblich das wir uns nur durch endlose Horden von Daedroth durchkämpfen müssen anstatt das der Chef persönlich eingreift um die Sache schnell hinter sich zu bringen. Persönliche Einmischung eines Fürsten wäre auch ein wenig sehr viel. Wir sind dort nicht weil es eine Mission gibt sondern nur weil ich neugierig war und durch ein Portal gelaufen bin. Und weil ich eventuell Bastian ein wenig trainieren möchte. Beim Kampf gegen Daedra gibt es wenigstens keine großen moralischen Bremsklötze die ihn abhalten könnten Dinge zu tun.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1477
+
+* Titel: `Let's Play ESO #1477 - Keshus Wissen [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 52 des Blackwood DLCs - Sitzung 8
+  
+  "Ojel-Bak", mehr haben wir aktuell nicht. Es klingt nach argonischer Sprache aber so richtig wissen können wir das nicht. Wir wissen das es eventuell einen Ort gibt der so heißt. Oder aber vielleicht auch eine Person, ein Ding, irgendwas? Der Punkt ist das wir kein konkretes Wissen haben und daher unsere nächsten Schritte ein wenig in der Luft hängen. Aber die gute Nachricht ist das wir nicht alles wissen müssen. Wie guter Abenteurer fragen wir einfach jemanden der sein bzw. ihr ganzes Leben auf diesen Moment hintrainiert hat. Irgendso ein Bücherwurm der Nichts Besseres zu  tun hatte als arkanes Wissen auswendig zu lernen damit irgendwann einmal irgendwelche blutverschmierten, ungeduschten Möchtegern-Helden in die gute Stube vorbei kommen um kaum artikuliert ein paar Fragen zu stellen. Oder wir fragen einfach Keshu die Schwarzflosse. Die hat auch Erfahrung und ist schon viel rumgekommen. Wir lasen einmal ihre Biografie.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1478
+
+* Titel: `Let's Play ESO #1478 - die stillen Hallen [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 53 des Blackwood DLCs - Sitzung 8
+  
+  Und schon wieder finde ich einen Ort. Ich mag es Orte zu finden. Irgendwie, aber sie lenken mich irgendwie auch von meiner großen Mission ab. Meiner Mission die Welt zu retten. Aber wir lernen einen Baumflüsterer kennen, der wirkt zwar ein wenig komisch aber ansonsten ist Adrahawn ein ziemlich netter Typ. Er interessiert sich für etwas das sich Harradaranke nennt, anscheinend eine Art Pflanze aus den Totenländern mit besonderen Eigenschaften. Als Gärtner ist er natürlich sehr daran interessiert. Eine quasi daedrische Pflanze findet man natürlich normalerweise nicht direkt auf Nirn weil sie ja hier nicht heimisch ist. Daher muss man besondere Orte betreten. Anscheinend sind die stillen Hallen ein solcher besonderer Ort. Das wissen aber auch die örtlichen Naga, das macht es ein wenig anstrengend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1479
+
+* Titel: `Let's Play ESO #1479 - Rankengewirr [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 54 des Blackwood DLCs - Sitzung 8
+  
+  Wir sind immer noch in den stillen Hallen und wir sind immer noch hinter dem Harradasamen in Begleiter eines Baumsprechers hinterher. Stellt sich doch glatt heraus das wir quasi auf einer Goldquelle stehen..nur das es eine Harradaquelle ist. So wie es aussieht wurde kurz vor unser Ankunft Schritte in Betracht gezogen die dafür gesorgt haben das es jetzt eine Menge Harradaranken in den stillen Hallen gibt. Vielleicht ein wenig sehr viele weil anscheinend die Bäume um Hilfe schreien und die Sul-Xan die Harradasamen für irgendwelche ziemlich kranken Experimente benutzen. Alles im Allem müssen wir hier wohl eingreifen und verhindern das hier mehr Experimente ausgeführt werden, obwohl es sogar so aussieht als wäre die Experimentalphase bereits abgeschlossen und die Armee der Sul-Xan mit jedem Tag stärker wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1480
+
+* Titel: `Let's Play ESO #1480 - Harradavergiftung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 55 des Blackwood DLCs - Sitzung 9
+  
+  Der Harrada ist eine Pflanze die ein wenig mehr Eigenständigkeit hat als man das bei gewöhnlichen Pflanzen erwarten würde. Das hat gewiss mit dem Ursprung als Daedra zu tun, normale Pflanzen scheinen laut Adrahawn auch zu reden aber wohl nicht ganz so viel Aktion zu zeigen wie es bei dem Gewächs aus den Totenländern der Fall ist. So oder so hilft da nur eines: Unkrautvernichter. Ich finde es übrigens auch sehr schön das der Waldelf uns bei der Gelegenheit direkt logisch erklärt warum es absolut kein Problem mit seinem Pakt mit dem Grün ist das er einfach irgendwelche Bäume vergiftet. Ansonsten wäre das natürlich völlig unmöglich aber er ist hier ja quasi im fremden Land und der Harrada kommt ja sowieso nicht von hier, da ist es schon okay wenn man das Ding als zugehörig zu den üblichen Gesetzen zählt. 
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe

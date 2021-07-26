@@ -519,6 +519,114 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #23
+
+* Titel: `Dark Souls Koop - #23 - Erzdrachengipfel [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Wenn es heißt das wir Dark Souls 3 durchspielen wollen dann bedeutet das natürlich auch das wir jeden Aspekt des Spieles durchspielen wollen. Und dazu gehören auch die optionalen Gebiete. Zum Beispiel der Erzdrachengipfel, ein Gebiet das vollständig optional ist und am Ende wartet sogar noch ein starker Boss auf uns. Wie dem aber auch sei, wir schaffen das natürlich, irgendwie. Allerdings sind die alten Drachen bzw. eigentlich Lindwürmer schon ziemlich mächtige Wesen die es uns nicht unbedingt einfach machen Dinge zu tun. Aber letztendlich haben wir ja ein scharfes Schwert das auch benutzt werden will nicht wahr?
+  
+  0:00 - Kerker von Irithyll
+  4:06 - Erzdrachengipfel
+  12:10 - BOSS: alter Lindwurm
+  16:17 - Erzdrachengipfel
+  24:50 - BOSS: alter Lindwurm
+  31:31 - Drachen-Mausoleum
+  34:22 - BOSS: alter Lindwurm
+  43:01 - Nachbereitung
+  45:42 - Drachen-Mausoleum
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #24
+
+* Titel: `Dark Souls Koop - #24 - fliegende Echsen [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Es stellt sich heraus nicht alles was fliegt und Feuer speit ist in der Tat ein Drache. Mein Wissen in dieser Hinsicht ist kaum besser als eine Geschichte die ein betrunkener Fremder an einem Lagerfeuer erzählt hat. Soweit ich das verstanden habe sind die ganzen richtigen Drachen im Zeitalter der Götter durch Gwynn und seine Kumpels erfolgreich gejagt und erlegt worden. Von daher sind alle anderen Viecher die wir sehen irgendwelche Varianten von Echsen oder Lindwürmer. Irgendwie gibt es da einen großen Unterschied. Die richtigen Drachen sind rar gesät und eventuell gibt es auch einfach keine mehr, das würde eventuell auch den Mangel an Feuer in der Welt erklären und warum die Welt Stück für Stück untergeht. Wie dem aber auch sei, verbrennen können die verbleibenden Viecher uns trotzdem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #25
+
+* Titel: `Dark Souls Koop - #25 - der namenlose König [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Heute treten wir einen besonders schweren Brocken gegenüber. Dem namenlosen König bzw. dem Herrscher der Stürme. Man muss wohl davon ausgehen das es sich um einen entfernten Verwandten von unserem alten Freund Gwynn handelt. In meiner Version der Realität hat sich das ganze Unterfangen als ziemlich einfach herausgestellt, in der von Wild war aber alles ein wenig schwieriger und wir brauchen doch einige Versuche. Eingerahmt wird diese Episode übrigens von meinem Versuch einen gewissen Hawkwood zu töten der anscheinend gerne ein Drache wäre aber wir das natürlich verhindern.
+  
+  0:00 - Hawkwood der Deserteuer
+  7:20 - BOSS: der namenlose König
+  48:20 - Hawkwood der Deserteuer
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #26
+
+* Titel: `Dark Souls Koop - #26 - Burg Lothric [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Als Duo sind wir quasi unaufhaltsam, es könnte aber auch irgendwie etwas damit zu tun haben das wir immer wieder kommen sollten wir doch einmal scheitern. Man kann in unserem Fall auch nicht direkt von einem "no-death" run sprechen, aber wir sterben wirklich ziemlich selten und das ist auch eigentlich ganz gut. Und so laufen wir heute noch einmal gegen den namenlosen König an, einem Boss der uns tatsächlich ein wenig Zeit abringt..nur um dann durch Burg Lothric im Sturmschritt zu schreiten. Hätte die Burg mal ein paar namenlose Könige abgestellt um die Bude zu bewachen, es wäre alles wesentlich schwieriger für uns geworden.
+  
+  0:00 - BOSS: der namenlose König
+  7:20 - Nachbereitung
+  11:08 - Hawkwood der Deserteuer
+  19:10 - Burg Lothric
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #27
+
+* Titel: `Dark Souls Koop - #27 - Drachentöter-Rüstung [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Die Anzahl der sterblichen Gegner in Dark Souls ist außerordentlich überschaubar, wenn ich darüber nachdenke fällt mir eigentlich nur eine einzige Person ein die eventuell nicht untot sein könnte. Davon einmal abgesehen haben wir mittlerweile eine Menge gesehen. Der Kernpunkt der heutigen Episode ist natürlich der Boss des Tages, aber dieser ist natürlich nicht der einzige Fokuspunkt, schließlich entdecken wir heute auch den Sonnenlicht-Schrein, ein offensichtlich so wichtiger Ort das auch die Könige von Lothric einen besonderen Platz für ihn eingeräumt haben. Aber das wir im Anschluss gegen eine nur leere Rüstung kämpfen ist irgendwie auch eine Beleidigung, nicht einmal ein richtiger Drachentöter stellt sich uns entgegen.
+  
+  0:00 - Burg Lothric
+  6:40 - Drachen
+  21:35 - Sonnenlicht Schrein
+  26:02 - BOSS: die Drachentöter-Rüstung
+  27:30 - Burg Lothric
+  32:25 - Sonnenlicht Schrein
+  41:48 - BOSS: die Drachentöter Rüstung
+  44:30 - Nachbereitung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -885,22 +885,41 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
 
-##### #Nummer
+##### #64
 
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
-
-##### #Nummer
-
-* Titel: ``
+* Titel: `Subnautica Below Zero - #64 - Zugkraft [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und jetzt, jetzt da wir kurz vor dem Ende sind, finden wir auch das Seebahn Zugkraft Modul, es wird das letzte sein das wir überhaupt finden. Allen Anschein nach gibt es noch einige andere Dinge die ich hätte irgendwo finden können aber nie so wirklich gebraucht hätte. Dadurch das wir bereits früh eine effektive Methode zum Verteidigen gegen diverse Jäger der Meere gehabt hatten gab es nie ein großes Interesse an verschiedenen Methoden oder Ansätzen um um ein Problem herum zu kommen. Die erste Taktik hat in der Regel hervorragend funktioniert und es brauchte einfach keinen zweiten Ansatz. Das ist ein wenig schade, hier hätte ich mir wesentlich mehr Varianz vorgestellt. Und warum machen wir uns überhaupt auf den weiten Weg in den Abgrund mit allen Bauteilen? Weil ich mir vorstellen könnte das ich tief in den Tiefen noch irgendetwas gebrauchen könnte. Daher nehme ich lieber alles mit um im Notfall gewappnet zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
   ```
+
+##### #65
+
+* Titel: `Subnautica Below Zero - #65 - Körperwiederherstellung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dies ist die letzte Episode von Subnautica Below Zero, ich steige in die Tiefen und werde einen Körper erschaffen. Einen Körper und dann wird der Geist von jemanden irgendwie meinen Körper verlassen und dann erhalten wir irgendwelche Antworten. Du lieber Zuschauer weißt jetzt schon das ich von den Antworten enttäuscht sein werde. Die Episode ist nur 29 Minuten lang, es kann also nicht mehr all zu viel kommen, und selbst wenn ich ausgiebig über die Credits rüber rede kann es nicht viel zu reden geben. Eventuell habe ich Anlass zur Kritik, vielleicht habe ich noch ein abschließendes Wort. So oder so, hier endet die Reise von Robin..oder sie fängt grade an, aber eventuell möchte ich auch gar nicht Teil dieser Reise sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM3IpW2v4v9iq5hgimkmjrj
+  ```
+
+## Fazit
+
+> Nach dem fantastischen ersten Teil von Subnautica waren meine Erwartungen an den zweiten Teil relativ hoch gesteckt. Wir dürfen nicht vergessen das es sich immer noch um ein kleineres Studio handelt das kein Triple-A Ressourcen zur Verfügung hat. Die Grafik war wie im ersten Teil adäquat und hat ihre Welt solide rüber gebraucht, auch wenn ich feststellen muss das viele Orte wesentlich weniger interessant aussahen oder einfach sogar langweiliger als im ersten Teil. Das besondere Element, das Eis war vor allen Dingen nervig. Die großen Eisberge waren fantastisch aber der gesamte Abschnitt des Spieles der über Wasser und damit entgegen des "Subnautica" Gedanken gespielt hat empfand ich eher als störend. Hier bot uns das Spiel große, leere Flächen die mit zwei Gegnertypen gefühlt waren von den einer enorm uninspiriert war und der Zweite an der technischen Umsetzung erkrankte. So oder so war das Gebiet und das gesamte Temperaturelement eher leicht störend als wirklich lebensbedrohlich. Zu einem Zeitpunkt habe ich aus Versehen meinen Thermoanzug vergessen und konnte mich dennoch beinahe problemlos durchschlagen. Von dem langgezogenen Eisgebiet aber einmal abgesehen waren viele Orte aber tatsächlich interessant und luden zum Erkunden ein, auch wenn die meisten Höhlen wesentlich winkliger als im ersten Teil waren, die Weitläufigkeit und das Gefühl der unendlichen Tiefsee kam nicht so gut auf wie im Vorgänger.
+>
+> Die größte Kritik muss sich Below Zero aber in der Story gefallen lassen. Wir waren auf dem Planeten um herauszufinden was mit unserer Schwester passiert ist, das passiert auch recht schnell im Spiel und wenn wir die Logs in der richtigen Reihenfolge finden ergibt sich sogar ein stimmiges Bild. Das Problem ist nur..all dies passiert in der ersten Station die wir finden und alles danach sind nur noch Puzzlesteine die aber keine bahnbrechend neuen Informationen liefern. Das generell vor ran Schreiten der Geschichte ist eine einzige Katastrophe, im ersten Teil gab es Funknachrichten die auf wichtige Orte hinweisen, die Geschichte vor ran getrieben und eine Krankheit die eine Simulation von Eile bot. Below Zero hat nichts dergleichen, wir finden dann irgendwann einmal raus was mit der Schwester passiert ist. Wir schauen dann irgendwann einmal bei der Omega-Station vorbei. Selbst das Vollenden des Werkes der Schwester passiert nebenher und kann ziemlich leicht übersehen werden. Dann gibt es noch den zweiten und sogar dritten Subplot die aber alle völlig irrelevant wirken.
+>
+> Während die Story keine soliden Meilensteine setzt tut es der technische Fortschritt auch nicht, irgendwann hat man dann halt alle Tiefenmodule und Bauteile des neuen Fahrzeuges und dann ist das eben so. Gute Gründe die tieferen Höhlen zu erkunden gibt es kaum und einige Orte sind zwar groß aber auch gewaltig leer ohne echte Landmarken oder besondere Orientierungspunkte die einen erneuten Besuch oder sogar einen Bau einer Basis verlangen wird. 
+>
+> Alles in Allem bin ich ziemlich enttäuscht und bereue es überhaupt soviel Zeit in Below Zero verbracht zu haben anstatt einfach nur schnell die Hauptstory mit der Hilfe eines Wikis zu beenden. Keine Spielempfehlung.
+

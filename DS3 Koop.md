@@ -627,6 +627,26 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #28
+
+* Titel: `Dark Souls Koop - #28 - das große Archiv [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Heute geschehen im Prinzip zwei Dinge: wir besiegen die große Rüstung noch einmal weil uns beim letzten Mal ja eventuell ein wenig das Estus ausgegangen ist und der Versuch den wir gestartet hatten gar kein richtiger Versuch war und dann gehen wir in das große Archiv. Darin gibt es außer verfluchten Büchern eigentlich nicht besonders viel. Ein Kristallweiser gehört aber auch dazu, der nervt am Anfang und eigentlich auch bis ganz zum Ende, einfach weil er sinnlos Magie durch die Gegend wirft. Ich denke mal er kann sich glücklich schätzen das Kristallmagie anscheinend Büchern und Regalen absolut nichts antun kann. Gebe es keine Invader wären wir übrigens viel schneller durch das Archiv gekommen, aber so wie die Dinge stehen war es nicht so einfach.
+  
+  0:00 - Vorbereitung
+  2:41 - BOSS: Drachentöter-Rüstung
+  5:38 - das große Archiv
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

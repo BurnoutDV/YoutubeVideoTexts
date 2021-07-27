@@ -1788,6 +1788,21 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #128
+
+* Titel: `Risen 3 - #128 - Crows Geisterflotte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ganz am Anfang wurde uns erzählt das der untote Piratenkapitän Crow eine Geisterflotte anführt. Interessant ist hier auch das er keine sonstigen Geisterpiraten anführt sondern eine Reihe von Schatten. Er selbst ist aber scheinbar noch bei vollen Bewusstsein. Das ist außerordentlich interessant und die genauen Beweggründe unseres Gegenspielers sind mir immer noch nicht so bewusst. Davon einmal abgesehen frage ich mich eigentlich immer noch warum ich eine eigene Flotte zusammenbringen musste wenn alles was ich am Ende tue darauf hinaus läuft das ich mich mit einem Geist solange duelliere bis seine Essenz auseinander fällt. Ich frage mich außerdem übrigens ob Crow der Geist eigentlich meinen Körper übernehmen will und wie genau er das bewerkstelligen will falls dem wirklich so ist. Es sieht nämlich eher so aus als würde er den Körper vernichten wollen. Und das erscheint doch ein wenig seltsam.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -590,6 +590,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #43
+
+* Titel: `Yakuza 3 Remastered - #43 - Reiseverzögerung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wollen unbedingt bald und zwar eigentlich sogar sehr bald nach Toyko. Es stellt sich aber heraus das es in Okinawa noch eine Menge Probleme gibt und wir daher nicht so ohne Weiteres einfach so los können. Daher tun wir noch einige Dinge, schon um die Kinder des Waisenhauses besser kennen zu lernen, erneut die Erinnerung das ich das für kein gutes Zeichen für die Zukunft der Kids halte. Wie dem aber auch sei, etwas das ich auch halb vorher sehe ist das wir uns so lange mit Nebenmissionen verzögern das irgendwann die tanzende Viper doch mit kommt und wir dann die nächsten Wochen damit verbringen irgendwelchen Leuten zu erklären wer der komische Typ ist der die ganze Zeit hinter uns her rennt und uns als großen Bruder bezeichnet. Zu erst aber kümmern wir uns lieber um die kleinen Dinge des Lebens, die sind auch wichtig und machen eigentlich alles aus.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

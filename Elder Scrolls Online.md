@@ -3489,6 +3489,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1481
+
+* Titel: `Let's Play ESO #1481 - Xi-Tsei [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 56 des Blackwood DLCs - Sitzung 9
+  
+  Ich liebe es ja argonische Ruinen zu erkunden. Und mit Ruinen meine ich eigentlich ehemalige Tempeleinrichtungen. Soweit wir wissen gab es auch Steinbauten in denen die Argoniern auch ihr tägliches Leben verbracht haben, aber von denen gibt es scheinbar nur noch die Grundmauern. Irgendwann haben sie dann entschieden das die Steine einfach zu weit weg vom Hist sind und das man alles umwerfen muss. Irgendwann, vor langer langer Zeit, haben wir Argonier in Kalthafen getroffen die sich scheinbar noch den alten Wegen gewidmet haben. Was genau den Wechsel gebracht hat ist mir übrigens nicht ganz klar, aber ich stelle fest das insbesondere diese Weigerung in irgendeiner Weise Modernität anzufangen zu erheblichen Problemen führt immer wenn irgendwelche anderen Kulturuen Ansprüche erheben. Teilweise führt es sogar zu Problemen wenn andere Argonier aufbegehren. Das gesamte Naga Problem wäre definitiv kleiner wenn man moderne Taktiken hätte um die eigentlich ziemlich primitiven Sul Xan in die Schranken zu weisen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

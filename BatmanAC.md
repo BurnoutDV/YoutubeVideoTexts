@@ -56,6 +56,24 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #4
+
+* Titel: `Batman Arkham City - #4 - Gerichtsverhandlung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In Arkham City herrscht das Gesetz, und natürlich auch in Gotham. Überall eigentlich. Es kann ja gar nicht sein das es so etwas wie rechtsfreie Räume gibt. Dafür sorgt der Anstaltsleiter Hugo Strange selbstverständlich mit der dafür notwendigen Sorgfalt und einem gehörigen Maß an Fingerspitzengefühl. Es ist daher also nicht überraschen das wir einer Gerichtsverhandlung beiwohnen, es geht um die gefährliche Diebin, Attentäterin und Einbrecherin Sylena Kyle, von Manchen auch als Catwoman bekannt. Die Angeklagte hat sich des mehrfachen Gesetzesbruches schuldig gemacht und nun wird nach geltenden Gesetz über die geurteilt. Per Münzwurf, die Strafe ist ein Säurebecken.
+  
+  An der Stelle kann man jetzt wunderschön ausholen. Es ist so, das Gesetz ist ziemlich biegsam und stellt idealerweise die Quintessenz des kollektiven Rechtsbewusstseins da. Normalerweise versucht man also quasi unendlich komplexe Sachverhalte in endlich komplexe Gesetze abzubilden. Da dies nicht klappt führt man eine intelligente Komponente namens Richter ein. So weit so bekannt. Interessant wird es wenn sich Leute hinstellen und sagen "das ist nicht erlaubt weil es gegen das Gesetzt ist" oder "es ist Verboten weil es nicht erlaubt ist". Aus praktischen Gründen ist das in-Frage-stellen des Gesetzes bei jeder sich bietenden Gelegenheit natürlich unpraktisch. Dennoch habe ich den Eindruck das eventuell die Hürden des systemischen Zweifels ein wenig sehr hoch angelegt sind. Oder anders gesagt, der Erhalt des Systems hat einen zu hohen Stellenwert im Vergleich zum Geist des Rechts.
+  
+  Aber an sich, TwoFace hat eine größere Anzahl von Gefolgschaft die auch von der Konkurrenz anerkannt wird, verfügt über die Macht seine Geschmacksrichtung von Recht durchzusetzen und die finale Kodifizierung ist vielleicht noch nicht abgeschlossen, aber an sich ist alles was er tut absolut rechtens und Batman ist hier der Böse weil er eine offensichtlich sanktionierte Verhandlung mit Gewalt unterbricht. Die Gesetze der Stadt Gotham gelten in Arkham City offensichtlich nicht. Was erlaubt sich diese Fledermaus eigentlich anstatt den Rechtsweg einzuschlagen? Das Wort Vigilant kommt einem da in den Sinn. Schrecklich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

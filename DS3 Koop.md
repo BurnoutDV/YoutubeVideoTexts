@@ -647,6 +647,27 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #29
+
+* Titel: `Dark Souls Koop - #29 - Gargoyl-Dächer [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Das große Archiv ist wirklich gewaltig und es hat tatsächlich relativ lange gedauert es zu durchqueren, das ist insbesondere dann hervorhebenswert wenn man bedenkt das es sich am Ende doch nur um ein Gebäude handelt. Und heute dauert dann auch alles ein wenig. Eventuell auch weil es den ein oder anderen Invader gibt, aber auch weil uns noch andere Leute nerven, namentlich sind das die doch recht zahlreichen Weisen aber auch die Gargoyls. Die springen zwar nicht im Archiv selber rum aber dafür auf dem Dach. Und da alle anderen Türen anscheinend schon seit ewiger Zeit geschlossen sind gibt es halt auch nur diesen Weg um zum letzten Fürsten des Feuers zu kommen. Daher machen wir uns auf den Weg und bekämpfen die geflügelte Pest.
+  
+  0:00 - Vorbereitung
+  7:45 - Archiv, obere Ebene
+  8:41 - Dächer
+  53:07 - Königswächter
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

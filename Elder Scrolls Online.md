@@ -3504,6 +3504,31 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1482
+
+* Titel: `Let's Play ESO #1482 - der Götze von Xulunaht [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 57 des Blackwood DLCs - Sitzung 9
+  
+  Wir haben wirklich Glück. Anscheinend leben wir im Zeitalter der Helden. Oder aber die Verschleißrate von anderen Helden ist wesentlich höher als man das aus unserer Perspektive sieht. Anders kann ich mir nicht erklären wie wir immer und immer wieder in irgendwelche Götzenanbetungen laufen die wahrscheinlich das Ende der Zivilisation in weiten Landesteilen zur Folge hätte. Generell und überhaupt haben wir mittlerweile so viele Rituale verhindert und das Treiben von Daedraanbetern unterbunden das man sich fragt ob die ganze Welt von reisenden Helden durchzogen wird die das gleiche machen, die Anhänger durch unsere Präsenz stimuliert werden oder ob wir der stärkste Pech-Magnet auf Nirn sind. Anders kann ich mir diese endlose Kette an Vorfällen nicht erklären. Man hätte praktisch gesehen hunderte von Jahren Zeit gehabt den Götzen von Xulunaht anzubeten und zu erwecken, aber es passiert natürlich genau in der Woche bzw. an dem Montag an dem wir uns entscheiden vor bei zu schneien. Man stelle sich vor was mit der Region geschehen wäre wenn wir noch ein paar Wein in Layawiin gekippt hätten. Was ich damit sagen will, wir kommen selten an Orte vorbei an dem das Böse bereits den ersten Sieg errungen hat und jetzt herrscht. Wir befreien selten von dunklen Einflüssen sondern agieren eher präventiv. Das fühlt sich zwar gut an weil die Opferquote wesentlich geringer ist, macht mir aber dennoch irgendwie Sorgen. Irgendwas stimmt doch mit uns nicht. Oder aber die anderen Helden sind gut darin sich zu verstecken.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

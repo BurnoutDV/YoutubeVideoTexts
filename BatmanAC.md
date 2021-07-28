@@ -74,6 +74,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #5
+
+* Titel: `Batman Arkham City - #5 - Sanitätskirche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  "Alle Insassen erfahren regelmäßige, adäquate, medizinische Versorgung", so plärren die Lautsprecher innerhalb von Arkham City. Man muss übrigens für einen kurzen Moment auch einmal die Akustik und die Qualität der Lautsprecher hier bewundern. In anderen Anstalten hätte man vielleicht eine Menge Echo und andere Nebengeräusche gehabt, aber hier, man hört Dr. Strange glasklar. Die Botschaft übrigens auch. Die praktische Ausführung ist dann aber wieder ein wenig komisch, weil anscheinend liegt die sanitäre Versorgung mitten in Arkham City anstatt an einer der Außenwände oder der zentralen Turmstruktur. Das macht die entsprechenden Ärzte natürlich ziemlich angreifbar und ich frage mich ernsthaft wie es eigentlich überhaupt dazu kommen konnte. Oder wie sich überhaupt Personal fand das bereit war nach Arkham City zu gehen, die gute Nachricht ist aber das wir einen alten Bekannten treffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

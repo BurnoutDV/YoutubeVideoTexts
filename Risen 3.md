@@ -1803,6 +1803,21 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #129
+
+* Titel: `Risen 3 - #129 - die Totenkopfinsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Flotte des Bösen ist besiegt, unser Geist immer noch auf freien Fuß aber ansonsten sieht die Lage eigentlich ganz gut aus, die Portale des Bösen geschlossen, die diversen Schattenlords auf den Inseln besiegt. Jetzt bleibt eigentlich nur noch die Höhle des Bösen und eventuell könnten wir es sogar schaffen unsere verlorenen Magier zu retten. Das ist aber eher eine optionale Aufgabe soweit ich das im Moment sehen kann. Immerhin haben wir unsere Flotte jetzt doch zu etwas nutzen können. Wir haben einen Brückenkopf auf der Totenkopfinsel errichtet.Was das hier für ein Ort ist ist mir aber nicht so ganz klar. Deutlich sehen wir die Zeugnisse ehemaliger Kulturen, gewaltige Ruinen und Reste von Bauwerke die ein großes Volk andeuten. Es handelt sich aber nicht um die Erzeugnisse der Kila oder anderer Südseevölker. Ich stehe ein wenig vor einem Rätsel, vermute aber einmal das es sich um Reste der Titanenlords oder der Völker von der Zeit der Titanenlords handelt.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -604,6 +604,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #44
+
+* Titel: `Yakuza 3 Remastered - #44 - Hundertrainer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode hat einen etwas seltsamen Twist der für ein Yakuza Spiel aber ziemlich normal ist. Alles fängt damit an das wir ziemlich stumpf unseren neuen Hund Mame erziehen. Das Vieh das sich unsere eine Ziehtochter unbedingt in die Bude geholt hat weil es an ihren alten Familienhund erinnert. Die Töle kann natürlich nichts von alleine aber ein Elitehundetrainer wie Kazuma Kiryu kann hier schnell etwas ändern. Dann ist das aber vorbei und wir gehen kurz zum Strand und wir finden eine Flaschenpost, darin finden wir eine Nachricht und damit einige unangenehme Informationen die den Ton der ganzen restlichen Episode ein wenig sehr unsubtil verändern und das nicht unbedingt zum Besseren. Dann laufen wir in die Stadt und verfolgen ein paar Spuren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #44
+
+* Titel: `Yakuza 3 Remastered - #45 - Flug nach Toyko [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es klingt unglaublich aber es ist endlich soweit, wir fliegen nach Toyko und damit auch in die weitere Hauptquest, ein Moment der viel zu lange gedauert hat, endlich ist es soweit. Das alles wird übrigens ziemlich durcheinander danach, wir sehen eine große Sequenz in der wir, das erfahre ich eigentlich viel später, die einzelnen Kapitäne des Tojo-Clans kennen lerne die für uns später relevant werden könnten. Wir erleben die guten Herren bei ihre alltäglichen Beschäftigung und lernen schon einmal ihre normalen Gepflogenheiten kennen. Da es sich um Yakuza handelt sind alle drei natürlich keine netten Zeitgenossen aber davon einmal abgesehen ergibt sich ein relativ klares Ranking wer der größte Haufen menschlichen Abschaums ist. Das Spiel gibt sich auf jeden Fall keine Mühe irgendjemanden als sympathisch oder guten Menschen bezeichnen zu wollen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

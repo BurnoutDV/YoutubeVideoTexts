@@ -1,4 +1,4 @@
-## daDoom Eternal - Ancient Gods Part 1 & Part 2
+## Doom Eternal - Ancient Gods Part 1 & Part 2
 
 * tags = `walkthrough,hölle,ultra,lets play,spielen,hardocre,seraph,indepth,schrotflinte,marine,ingame,kettensäge,DOOM_ANCIENTGODS_SORT_TAG,ultra violence,gunplay,geheimnisse,guide,verstecke,einträge,doom,codex,playthrough,story,durchlesen,hard,easy,chainsaw,lore,geschichte,schlüssel,sekrets,anweisung,ancient gods,hardcore,difficulty,tutorial,speedrun,jekkad,vorlesen,vega`
 

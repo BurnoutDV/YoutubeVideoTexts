@@ -668,6 +668,28 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #30
+
+* Titel: `Dark Souls Koop - #30 - Lothric & Lorian [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und da sind wir quasi auch schon am Ende. Unsere Reise fing ganz unten in der Burg Lothric an und jetzt sind wir ganz oben. Das bedeutet aber auch das nur noch ein Gegner bleibt und schon können wir das Feuer selbst in Flammen setzen und die ewige Kette des Feuers weiter fortsetzen. Das werden wir bestimmt dann auch bald tun. Bevor es aber soweit ist müssen wir noch die Gebrüder des örtlichen Königshauses umbringen. Soweit ich das mit bekommen habe ist der König tot (gestorben durch unsere Hand), es gab zwar noch keine offizielle Krönung, aber soweit ich das sehen kann sollte einer der beiden Brüder der Thronfolger sein, wahrscheinlich der Ältere. Wir begehen heute also Regizid, wieder einmal. Sogar doppelt, wenn man davon ausgeht das der eine Bruder den Titel des Anderen erbt wenn wir ihn töten. Da es sich aber bei allen um Untote handelt bin ich mir nicht ganz sicher inwiefern man überhaupt von Königsmord sprechen kann.
+  
+  0:00 - Lothric-Dächer
+  20:10 - Archiv-Dächer
+  35:50 - BOSS: Lothric, junger Prinz
+  41:12 - BOSS: Lothric & Lorian
+  43:15 - Nachbereitung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

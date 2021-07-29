@@ -88,6 +88,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #6
+
+* Titel: `Batman Arkham City - #6 - bei Anruf Mord [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich freue mich jedes Mal wenn ich eine Referenz mit bekomme. Heute bezieht sich der Titel der Mission die ich heute mache auf einen alten Film von Alfred Hitchcock. Anscheinend droht uns ein alter Bekannter damit jemanden umzubringen wenn wir nicht schnell genug ein anderes Telefon finden. Generell wundere ich mich übrigens sehr wen genau Szasz eigentlich anwerben konnte der für ihn die Technik macht. Generell tut der gute Mann doch eigentlich jeden umbringen den er sieht. Für uns ist die Gelegenheit also günstig uns mal richtig mit der Steuerung des Spiels auseinander zu setzen. Das ist eigentlich auch mal ganz schön, wenn ich jetzt noch erfolgreicher darin wäre wäre es natürlich noch schöner.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

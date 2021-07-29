@@ -1818,6 +1818,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #130
+
+* Titel: `Risen 3 - #130 - Waffenlager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend gibt es irgendwo weitere Waffenlager der Schatten. Bisher ging ich davon aus das die Armeen der Finsternis einfach mit ihren Waffen erscheinen. Offensichtlich habe ich den Logistikaufwand der Armeen der Finsternis bei Weitem unterschätzt. Die Sachlage ist jetzt also so: unsere Leute brauchen Waffen, die Armeen des Bösen haben Waffen. Wir können hier also eine einfache Transaktion durchführen. Das Ganze wird dann aber recht interessant weil mich nicht so richtig klar ist was wir dann mit den Waffen machen. In dem Moment in dem wir die entsprechenden Waffenlager überfallen haben sollte eigentlich nicht mehr besonders viel von den bösen Buben übrig sein. Also warum genau bemühen wir uns jetzt darum hier irgendetwas zu reißen. Es stellen sich mir eine Menge Rätsel auf. Wie zum Beispiel warum wir nicht gleich am Anfang mit der Muskete losgezogen sind um das Böse zu besiegen, das hätte uns auf jeden Fall eine gewaltige Portion Zeit gespart und so richtig schwerer hätte das auch nichts gemacht für uns.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

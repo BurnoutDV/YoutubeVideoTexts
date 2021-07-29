@@ -3519,14 +3519,23 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1483
 
-* Titel: ``
+* Titel: `Let's Play ESO #1483 - Steinod [Blackwood]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 58 des Blackwood DLCs - Sitzung 9
+  
+  Die heutige Episode ist ein wenig geviertelt. Und zwei Viertel davon sind das was im Titel geschieht. Wir wissen ja das ich die letzte Episode damit beendet habe das ich neben einem Boss stand. Das kann ich nicht auf mich sitzen lasse und versuche es heute noch einmal, insbesondere weil ein zweiter Spieler in der Nähe stand den ich nutzen kann falls ich überraschenderweise sterben sollte. Daher versuche ich mich heute noch einmal an Ghemvas. Ob das klappt oder nicht schreibe ich hier nicht aber irgendwann sind wir damit fertig und ich mache mich fast auf zu Eveli bis mir auffällt das es noch einen Questhub in der Gegend gibt und ich dann natürlich auch dort noch wirken muss. Wir betreten also Steinod und reden dann zwei Episoden lang mit einem NPC. Da das technisch gesehen zwei Viertel der Episode sind heißt sie jetzt auch wie der Ort: Steinod. Ein verschlafendes Dorf irgendwo im Sumpf.
+  
+  0:00 - BOSS: Ghemvas der Verbote
+  5:16 - Erkundung
+  10:21 - Steinod
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #Nummer

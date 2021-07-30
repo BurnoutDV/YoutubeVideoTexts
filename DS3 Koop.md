@@ -690,6 +690,22 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #31
+
+* Titel: `Dark Souls Koop - #31 - die gemalte Welt von Ariandel [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Im Dark Souls Universum sind die gemalten Welten ein großes Ding. Letztendlich müssen wir uns doch ernsthaft fragen ob nicht Lothric und alles darin in einer gemalten Welt stattfindet und wir uns eigentlich nur vorstellen echt zu sein. Wer kann schon sagen was Realität und was Vorstellung ist wenn es offenbar keinen Unterschied in den verschiedenen Ebenen gibt. Interessant ist auch das man scheinbar beliebig weit raus gehen kann, die gemalten Welten scheinen keine echte Größenbegrenzung zu haben und auch der Zustand des Gemäldes in der übergeordneten Realität scheint wenig unterschied zu machen. Und doch frage ich mich jetzt wie es wohl aussah als das Gemälde noch vollständig war. Oder anders, ist es in gemalten Welten immer kalt oder hat dies mit der Abwesenheit einer Flamme zu tun? Bestimmt kann man dazu einiges recherchieren, aber so neugierig bin ich dann doch nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

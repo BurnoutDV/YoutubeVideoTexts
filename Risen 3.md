@@ -1832,6 +1832,20 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
+##### #131
+
+* Titel: `Risen 3 - #131 - Schattenbucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die doch so passend benannte Totenkopfinsel hat auch noch weitere Orte die ebenso mit großartigen Namen vor sich hinglänzen können. Es handelt sich bei dem heute entdeckten Ort nämlich um die Schattenbucht. Da fragt man sich ja doch ein wenig wer die Muße hatte diese Orte zu benennen und ob wir noch im Zeitalter sind bevor man angefangen hat Orte "Hügel 923" zu nennen. Tatsache ist nämlich das wir technisch gesehen ein größeres militärisches Kommando führen und damit auch eine solche Operation. Insbesondere den anwesenden Piraten ist das wahrscheinlich weniger bewusst aber alles was wir hier tun braucht einen gewaltigen organisatorischen Aufwand, und jetzt damit anzufangen irgendwelche Orte möglichst poetisch zu benennen scheint mir doch ziemlich abträglich zu sein. Ansonsten finden wir heute tonnenweise Schatten (Hallo Spielzeitstreckung), einen Berg und einen unverwundbaren Geist vor.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
 ##### #Nummer
 
 * Titel: ``

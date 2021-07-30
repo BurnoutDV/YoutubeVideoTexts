@@ -618,7 +618,7 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
-##### #44
+##### #45
 
 * Titel: `Yakuza 3 Remastered - #45 - Flug nach Toyko [Let's Play; ger; Blind]`
 
@@ -626,6 +626,20 @@
 
   ```markdown
   Es klingt unglaublich aber es ist endlich soweit, wir fliegen nach Toyko und damit auch in die weitere Hauptquest, ein Moment der viel zu lange gedauert hat, endlich ist es soweit. Das alles wird übrigens ziemlich durcheinander danach, wir sehen eine große Sequenz in der wir, das erfahre ich eigentlich viel später, die einzelnen Kapitäne des Tojo-Clans kennen lerne die für uns später relevant werden könnten. Wir erleben die guten Herren bei ihre alltäglichen Beschäftigung und lernen schon einmal ihre normalen Gepflogenheiten kennen. Da es sich um Yakuza handelt sind alle drei natürlich keine netten Zeitgenossen aber davon einmal abgesehen ergibt sich ein relativ klares Ranking wer der größte Haufen menschlichen Abschaums ist. Das Spiel gibt sich auf jeden Fall keine Mühe irgendjemanden als sympathisch oder guten Menschen bezeichnen zu wollen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #46
+
+* Titel: `Yakuza 3 Remastered - #46 - Hasebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kaum sind wir in Kamurocho lernen wir jede Menge neuer Leute kennen. Die meisten nur ziemlich kurz und auch nicht wirklich mit Namen aber manche scheinen etwas höflicher zu sein und nennen uns immerhin ihren Namen. Und so kommt es das sich heute ein netter Kollege namens Hasabe vorstellt. Für einen Yakuza ist er auf jeden Fall ziemlich seltsam, das fängt schon damit an das er keine Geschäftsfrisur wie die restlichen Typen hat. Dies erklärt sich mit dem hohen Status den der gute Hasabe inne hat, anscheinend handelt es sich um eine der rechte Hände der derzeitigen Familienanführer im Tojo Clan. Das ändert natürlich nichts an seinem Ende. Das Ende war bereits bekannt, das war es immer, im Leben geht es schließlich auch um den Weg, nicht das Ziel. Wie beim Puzzlen.
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.

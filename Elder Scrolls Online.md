@@ -3538,6 +3538,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1484
+
+* Titel: `Let's Play ESO #1484 - Elossi, die plötzliche Bö [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  HierFolge 59 des Blackwood DLCs - Sitzung 9
+  
+  Wir haben mit illustren Gestalten namens die vier Winde zu tun, die legendären Beschützer von einem kleinen argonischen Dorf namens Steinod. Einer der Winde hat es dahin gerafft und generell hatten sich die vier Kampfgefährten bereits in der Vergangenheit verstritten und standen damit nicht mehr der Verteidigung der Stadt zur Verfügung. Den Begriff Stadt verwende ich übrigens sehr großzügig da der Ort doch ziemlich klein ist. Heute treffen wir die erste der verbleibenden Winde, es handelt sich wohl um Elossi, die plötzliche Bö. Sie ist scheinbar der Dieb bzw. die Assassine in dieser Heldengruppe.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

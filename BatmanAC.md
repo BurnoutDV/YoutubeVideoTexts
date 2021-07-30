@@ -102,6 +102,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #7
+
+* Titel: `Batman Arkham City - #7 - erweitertes Realitätstraining [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend können wir mit dem Batcape noch viel mehr Dinge tun als im letzten Teil. Generell und überhaupt ist die bedingte Flugfähigkeit von Batman ein unsagbar praktisches Stück Technologie. Wir merken hinterher mit Catwoman wie unpraktisch es eigentlich ist wenn man an Straßenverläufen oder so Dingen wie Höhe gebunden ist. Das liegt aber auch daran das sie kein praktisches Multi-Tool hat um sich in die Lüfte zu schwingen. Wo wir grade davon reden, um richtig mit unserer Ausrüstung umzugehen hat der Bordcomputer der Batcave (oder welcher auch immer) sich anscheinend ein Trainingsprogramm erdacht das wir direkt vor Ort stattfinden lassen können. Ich möchte kurz feststellen das ich nicht sehr gut in solchen Dingen bin. Aber das liegt wirklich an mir. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

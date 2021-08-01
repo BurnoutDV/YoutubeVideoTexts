@@ -116,12 +116,32 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
-##### #Nummer
+##### #8
 
-* Titel: ``
+* Titel: `Batman Arkham City - #8 - Industriehafen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Der Schauplatz von Arkham City, also quasi ein Stück von Gotham ist mir irgendwie ein wenig suspekt. Tatsächlich ist es ja so das wir aktuell dem Joker hinterher jagen, ich kann an der Stelle schon einmal feststellen das der Mann in einem Stahlwerk zu finden ist. Ersteinmal frage ich mich ernsthaft ob so ein Stahlwerk am Wasser die beste aller Idee ist, einfach weil so Stahlwerke doch recht groß sind, und zweitens weil wir gleichzeitig sehen das es an jeder Ecke Vergnügungsparks sehen bzw. Hafenpromenaden die ein wenig so aussehen als wären sie frisch aus den 20er Jahren importiert worden. Letztendlich stammt ja Batman ursprünglich aus den 30ern, insofern würden die zerfallenen Hafenpromenaden und Vergnügungsmeilen durchaus rein passen. Ärgerlicherweise sind wir in der Zukunft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #9
+
+* Titel: `Batman Arkham City - #9 - Sionis-Stahlwerke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gelegentlich erhebe ich ja Kritik in Batman Spielen. Ich bin mir nicht so ganz sicher warum ich das grade hier soviel tue. Eventuell ist es das Szenario das mir so absurd unlogisch erscheint während es gleichzeitig versucht irgendwie logisch zu sein. Die Welt von Batman verkauft immer wieder eine Stadt die ja irgendwie funktionieren soll und das es ein Ort ist an dem Batman und all die Superschurken existieren können. Ein Mann der nur unter 0-Grad existieren kann, eine Frau die halb Pflanze ist. Alles irgendwie okay. Allerdings hört es auf wenn man versucht Orte zu verkaufen die so quasi in der Realität existieren können. In meinem ESO Lets Play Episode 1484 spreche ich am Anfang über "Suspension of Disbelieve". Genau das passiert hier auch wieder. Warum zur Hölle betreten wir heute eine Kombination aus Stahlwerk und Vergnügungspark und wie kann es sein das es hier noch flüssiges Eisen gibt. Wer genau kümmert sich darum das all das flüssig bleibt. Und Warum?
+  
+  Cross-Reference ESO#1484
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```

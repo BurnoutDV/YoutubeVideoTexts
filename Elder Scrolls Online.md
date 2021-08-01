@@ -3553,6 +3553,42 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1485
+
+* Titel: `Let's Play ESO #1485 - die aufziehenden Winde [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 60 des Blackwood DLCs - Sitzung 9
+  
+  Eigentlich geht es schon seit zwei Episoden um die aufziehenden Winde, in der ersten wurden sie nur kurz erwähnt und gestern haben wir quasi nur Elossi getroffen, aber heute treffen wir auch die anderen beiden. Zu diesem Zeitpunkt hoffe ich ja immer noch das die Winde irgendwie ihre Macht aus einer legendären Linie ziehen oder irgendetwas besonders an ihnen ist was es ermöglicht erklären wie es sein kann das solche Krieger hier irgendwo im Wald wohnen. Aber so weit ich das verstanden habe haben die vier Winde nicht immer in Steinod gelebt sondern sind quasi die Helden einer anderen Zeit und sind jetzt nur in der neueren Zeit vor Ort. Wie dem aber auch sei, es bleibt nach wie vor ein Rätsel wie der erste Wind so leicht besiegt werden konnte.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1486
+
+* Titel: `Let's Play ESO #1486 - Otami-Ras Getränke [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 61 des Blackwood DLCs - Sitzung 9
+  
+  Heute ist wieder eine dieser Episoden in der wir ein leichtes Rätsel zu lösen haben. Es ist recht interessant das zu beobachten übrigens. Immer wenn wir irgendwelche Schlösser oder Türen in der Hauptquest lösen sollen sind diese lächerlich einfach oder scheinen von den Spielmechaniken des Spiels zurückgehalten zu werden. Und dann haben wir Nebenmissionen in denen durchaus anspruchsvollere Rätsel auftauchen. Ich will das hier jetzt nicht über den grünen Klee loben aber immerhin gab es für diese Art von Prüfung immerhin sogar Hinweise und eine gewisse Logik die man sich herleiten musste. Ansonsten ist der große Krieger anscheinend nicht unbedingt ein Säufer sondern eher ein Experte für alkoholische Getränke. Immerhin.
+  
+  Otami-Ra, aufziehende Winde, Getränke, Rätsel
+  
+  0:00 - Otami-Ras Hütte
+  08:58 - Getränkerätsel: Beerenbier (blau), Rotabsinth, Goldwurzelwein, Honigmet (grün)
+  9:35 - Rest der Episode
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -646,6 +646,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #47
+
+* Titel: `Yakuza 3 Remastered - #47 - der Weg zum Turm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren grade kurz im Stardust und jetzt wollen wir zum Millenium Turm, eigentlich sind das zwei Querstraßen und ein kurzer Lauf und schon wären wir da. Aber so wie die Dinge stehen ist das alles natürlich nicht so einfach. So weit ich das verstanden habe ist Kazuma Kiryu vor den Augen des Gesetz ein unbescholtener Bürger. Dennoch hat er wenig Lust in irgendwelche Polizisten zu laufen, die halten ihn nämlich immer für einen fiesen Yakuza Schläger, einfach weil er so aussieht. Man könnte tatsächlich von einer Art vorurteilsbehafteten Ermittlungsmethodik seitens der Staatsorgane reden. Und sie hätten sogar recht! So richtig gute Sachen hat der gute Kiryu ja nicht vor, und so oft wie er Leute verprügelt wäre es wirklich schwierig zu erklären das es immer Fälle von Notwehr waren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #48
+
+* Titel: `Yakuza 3 Remastered - #48 - Kashiwagis Information [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kiryus Ankunft in Kamurocho ist ein sehr neues Ereignis. Offensichtlich wissen unsere Gegenspieler bereits das wir jetzt da sind. Leider sind wir dadurch in einem empfindlichen Nachteil, weil wir wissen ziemlich wenig über die aktuelle Lage im Tojo Clan und den Machtgefügen. Um diesen Nachteil auszugleichen sprechen wir mit einem alten Bekannten. Wir kennen ihn als Kashiwagi, wahrscheinlich weil dies auch sein Name ist. Damit ist er übrigens einer der letzten Leute aus der alten Riege die wir noch kennen und die noch am Leben sind. Viele andere Gefährten aus vergangenen Tagen haben bereits ihr Leben gelassen. Von Kashiwagi abgesehen bleiben da eigentlich nur noch der junge Dojima und Majima. Alle Anderen starben irgendwann einmal. Dann haben wir da noch Leute wie Date oder Sayama. Irgendwann wird Haruka bestimmt einmal erwachsen sein und auch eine Rolle spielen, aber bis es so weit ist braucht es wohl noch ein wenig Zeit, und man kann nur hoffen das das Mädchen niemals in die Yakuza Dinge hineingezogen wird.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

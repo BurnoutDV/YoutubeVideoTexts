@@ -701,6 +701,54 @@
   
   Im Dark Souls Universum sind die gemalten Welten ein großes Ding. Letztendlich müssen wir uns doch ernsthaft fragen ob nicht Lothric und alles darin in einer gemalten Welt stattfindet und wir uns eigentlich nur vorstellen echt zu sein. Wer kann schon sagen was Realität und was Vorstellung ist wenn es offenbar keinen Unterschied in den verschiedenen Ebenen gibt. Interessant ist auch das man scheinbar beliebig weit raus gehen kann, die gemalten Welten scheinen keine echte Größenbegrenzung zu haben und auch der Zustand des Gemäldes in der übergeordneten Realität scheint wenig unterschied zu machen. Und doch frage ich mich jetzt wie es wohl aussah als das Gemälde noch vollständig war. Oder anders, ist es in gemalten Welten immer kalt oder hat dies mit der Abwesenheit einer Flamme zu tun? Bestimmt kann man dazu einiges recherchieren, aber so neugierig bin ich dann doch nicht.
   
+  0:00 - Vorbereitung
+  14:20 - Zugang nach Ariandel
+  22:30 - Großer Wolf
+  42:30 - Mühlenforst
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #32
+
+* Titel: `Dark Souls Koop - #32 - der Mühlenforst [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Ich kann mich, wenn ich mal ganz ehrlich zu mir selbst bin, an gar nicht mehr soviel aus der gemalten Welt von Ariandel erinnern. Dadurch das es technisch gesehen nur zwei Bosse gibt rennt man ja doch recht schnell durch und sieht dann am Ende so gut wie nichts von Allem. Es sei denn man hat natürlich den Anspruch das man wirklich alle Items die irgendwo rumliegen einsacken will, anscheinend machen wir auch einen 100% Run, demzufolge erkunden wir natürlich auch die letzte Ecke, und das beinhaltet leider auch den Mühlenforst. Einen Ort den ich nicht so sehr mag, das liegt unter Anderem auch an den zahlreichen Ritter die hier umherstreifen. Die halten verdammt viel aus was wiederum meinen Spaß als Dieb sehr senkt.
+  
+  0:00 - Phototermin
+  7:00 - verschneiter Wald
+  12:50 - Mühlenforst
+  36:20 - Kirche von Ariandel
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #33
+
+* Titel: `Dark Souls Koop - #33 - Meister-Grabhüter [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Die gemalte Welt von Ariandel ist eigentlich nicht besonders groß, man möchte meinen das wir sehr schnell mit allem fertig sind, so wie die Dinge stehen sind wir aber heute erst beim Meister-Grabhüter. Der Gute stellt den Zugang zu den PVP Herausforderungen da. Ich muss zugeben, und das tue ich sehr freimütig, das ich nicht sehr gut in solchen Konfrontationen bin. Ich kann jetzt natürlich auch ein wenig Schuld für meine schlechte Performance auf den nicht-optimalen Netzcode von Dark Souls schieben. Witzigerweise ist das Schwierigste an dem Grabhüter aber der große Wolf der mit ihm läuft. Das Biest ist ziemlich mobil und auch minimal stark.
+  
+  0:00 - Kirche von Ariandel
+  3:10 - Weg der Äste
+  39:44 - BOSS: Meister-Grabhüter
+  41:55 - Eis-See
+  56:50 - BOSS: Grabhüter-Großwolf
+  
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW

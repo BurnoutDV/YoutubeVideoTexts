@@ -1846,12 +1846,34 @@
   https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
 
-##### #Nummer
+##### #132
 
-* Titel: ``
+* Titel: `Risen 3 - #132 - Geisterbegegnung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ja, wir haben immer noch unseren Geist verloren. Ungeklärt seit 131 Episoden ist übrigens wie das überhaupt funktionieren soll. Weil der Geist ist scheinbar nicht das Gleiche wie unsere Seele oder wie auch immer wir unser gesammeltes Bewusstsein nennen wollen. Wir können immer noch ganz normal herumlaufen. Und dann gibt es da aber noch eine Entität die quasi unseren Geist darstellen soll die unabhängig von uns handelt und auch anscheinend eine eigene Agenda hat. Dieser Geist hat offensichtlich eigene Ziele aber dennoch immer noch eine Verbindung zu dem Körperteil. Wir haben die ganze Zeit offensichtlich nur den Körper gespielt, das erklärt zwar den Prolog nicht aber stellt immer noch irgendwie einen Weg da wie der Spieler funktioniert. Heute treffen wir sogar unseren Geist, und irgendwie sieht es so aus als wäre das nicht unserer Freund. Ärgerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
   ```
+
+##### #133
+
+* Titel: `Risen 3 - #133 - der Hort des Bösen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der alternative Name für diese Episode ist "Finale". Heute vereinen wir uns endlich mit unserem Geist, und das war ja eigentlich das was für schon immer wollten. Aber anscheinend reicht das nicht und wir drehen nicht einfach auf der Schwelle der Zentrale des Böse um sondern gehen direkt rein. Übrigens bin ich minimal von der Geschichte von Risen 3 verwirrt und mir nicht ganz sicher ob ich nicht richtig aufgepasst habe oder ob die Erklärung einfach nicht gut rüber kam. Unser großer Gegenspieler ist anscheinend ein oder vielleicht sogar der Titan des Todes. Außerdem hat er die meiste Zeit eine menschliche Gestalt gehabt. Soweit ich das in den Vorgängern verstanden habe gab es einmal die Titanenlords die die Titanen beherrscht haben und damit auch die Welt. Die Titanen selbst scheinen, wie an Mara im Vorgänger gesehen, auch eine gewisse Menge Eigendynamik zu haben, aber der Feuertitan im ersten Teil war wiederum ziemlich geistlos. Was genau ist Nekroloth jetzt eigentlich? Titanenlord oder doch Titan, weil so richtig klar ergeht sich mir das nicht. Kurzum, ich beende dieses Spiel leicht enttäuscht und verwirrt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Risen 3 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPjh2-zIkrMyGOlxR-4fBEj
+  ```
+
+## Fazit
+
+> hier könnte auch dein Text stehen

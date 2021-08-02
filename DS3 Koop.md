@@ -754,6 +754,26 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #34
+
+* Titel: `Dark Souls Koop - #34 - Narutodämonen [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Die heutige Episode habe ich gar nicht selber benannt. Stattdessen haben das andere Leute für mich getan. Um es kurz zu fassen, unsere heutige Reise führt in das Dorf der Krähendämonen. Da gibt es nicht mehr besonders viele von den Viechern aber was es dort noch gibt sind ziemlich fiese mobile Viecher die anscheinend von einigen wenigen Leuten als Narutodämonen bezeichnet werden weil sie diese Handklinge als Waffe führen. Ich weiß zu wenig über Naruto um dagegen tatsächlich zu diskutieren aber ich würde das für den Moment einfach mal so hinnehmen. Die Viecher sind auf jeden Fall ziemlich nervig und gebe es da nicht diese Invader würde ich diese Gegner auch zu unseren großen Stopper erklären, obwohl sie zu zweit wesentlich leichter zu besiegen sind, zum Glück.
+  
+  0:00 - Vorplanung
+  2:30 - große Rampe
+  17:39 - Krähendämonen-Siedlung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

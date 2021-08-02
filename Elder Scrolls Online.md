@@ -3589,6 +3589,24 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1487
+
+* Titel: `Let's Play ESO #1487 - Kriegsfürst Naxhosa [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 62 des Blackwood DLCs - Sitzung 9
+  
+  Es ist wahrlich erstaunlich wie viele Warlords, Kriegsfürsten und Banditenanführer wir mittlerweile nieder gerungen haben. Erstaunlich ist aber auch das bisher quasi alle ihrer Art immer nach dem Recht des Stärkeren agieren. Selten treffen wir Stämme die als ihren Anführer das Gehirn wählen und der Boss am Ende gar nicht der Anführer ist sondern ein ausgesuchter Champion. Das würde uns unsere Mission übrigens wesentlich schwieriger machen. Man stelle sich vor das wir einen großen Kriegsherren hätten der selbst aber überhaupt nicht an den Kämpfen teilnimmt weil er im Rollstuhl sitzt oder einfach nur so ein halbes Hemd ist. Eben das Gehirn der Veranstaltung. Wir würden dann wie immer rein gehen, alles kurz und klein schlagen, den Champion niederringen aber dann? Das grundlegende Problem ist natürlich der Anführer. An sich ist es ziemlich einfach, der wehrlose Anführer wird einfach zerstückelt und gut ist. Auf der anderen Seite, ESO legt gerne einmal moderne Moralansprüche an die "Guten" an, das bedeutet das wir unter Umständen gar nicht handeln dürften. Welch Glück das wir nicht in diese moralischen Probleme laufen.
+  
+  0:00 - Gameplay
+  14:36 - BUCH: bla
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

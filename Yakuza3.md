@@ -674,6 +674,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #49
+
+* Titel: `Yakuza 3 Remastered - #49 - Fluchtlauf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Selbstverständlich war nichts einfach im Leben von Kazuma Kiryu und es sieht im Moment nicht so aus als würde sich das jetzt spontan ändern. Heute verbringen wir also wieder einmal Zeit damit vor der Polizei weg zu rennen. Interessant ist übrigens auch das wir technisch gesehen gar nichts getan haben. Wir waren zwar anwesend als Kashiwagi erschossen wurde aber mit der Tat selbst hatten wir nichts zu tun. Natürlich ist die Polizei wahrscheinlich unter Zugzwang und die Tatsache das ein Helikopter an der Tat beteiligt war lässt mich glauben das niemand daran interessiert ist die wahren Täter zu ergründen, insofern könnte Kiryu in der Tat ein praktischer Sündenvogel sein. Insofern halten wir uns also eher verdeckt, in der Hoffnung das man uns nicht nervt und außerdem tickt ja auch die Uhr. Das klappt selbstverständlich nicht so gut und daher müssen wir heute rennen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

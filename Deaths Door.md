@@ -44,6 +44,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
   ```
 
+##### #4
+
+* Titel: `Death's Door - #4 - Villa Ceramica [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich sind wir schon seit der letzten Episode in der großen Villa aber wie die Dinge nun einmal laufen zieht sich so eine Reise halt ein wenig und an sich steht der Ort heute noch einmal im besonderen Fokus. Allen Anschein nach ist der Ort von größeren Lebewesen bewohnt, es könnte aber auch einfach daran liegen das unsere kleine Krähe nicht die größte ist. Und außerdem sieht es aber so aus als wären die meisten Türen verschlossen, die Bewohner andere Wege der Fortbewegung nutzend. Es stellt sich auch ein wenig die Frage ob es überhaupt andere Bewohner gibt. Offensichtlich haben wir es mit einer größeren Menge an Porzellanwesen zu tun aber die scheinen mir keine echte eigene Agenda zu haben, man könnte durchaus von einem unbehaglichen Ort sprechen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
 ##### #Nummer
 
 * Titel: ``

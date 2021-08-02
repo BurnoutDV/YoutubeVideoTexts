@@ -145,3 +145,17 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
+
+##### #10
+
+* Titel: `Batman Arkham City - #10 - Mr. Hammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Truppen des Jokers sind schon ein wenig speziell, wahrscheinlich aber auch nicht mehr als alle Anderen der übrigen "Superverbrecher". Interessant ist vielleicht viel mehr das man scheinbar bei Joker Armies (tm) tatsächlich auch mit einer Behinderung noch einen Job kriegt. Heute treffen wir Mr. Hammer, eigentlich haben wir ihn bereits zuvor gesehen aber heute lernen wir ihn näher kennen, ist es doch so das es sich bei dem Mann um einen einarmigen Clown mit großen Dimensionen handelt. Schön, sehr inklusiv der Laden, generell und überhaupt hat Jokers Stahlarbeitertrupp auch mit die höchste Frauenquote..dank Harley. Und trotz des eher rauen Umfeldes scheint sich die Belästigung von Frauen am Arbeitsplatz auf ein absolutes Minimum zu beschränken, vom Chef einmal abgesehen. Das ist fast schon...erfreulich. Dennoch habe ich Schwierigkeiten zu glauben das die Kriminalitätsrate bei Frauen so niedrig ist. Klar, Männer neigen mehr zu gewalttätigen Lösungen, aber bei der wirtschaftlichen Lage von Gotham und der schieren Massen männlicher Verbrecher kann ich mir einfach nicht vorstellen das wir nur auf ungefähr drei kriminelle Frauen kommen. Und Ivys Ziele sind eigentlich von hohen moralischen Standards geprägt und nur ihre Ziele ein wenig in der legalen Grauzone.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```

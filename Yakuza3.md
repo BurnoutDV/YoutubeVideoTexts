@@ -688,6 +688,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #50
+
+* Titel: `Yakuza 3 Remastered - #50 - Fotostrecke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere bisherige Einleitung sah so aus das uns Kashiwagi uns etwas von Leuten erzählt hat und wir dazu eine Zwischensequenz angesehen haben. Allerdings hatte Kiryu nicht die gleichen Bilder vor Augen. Es sei den es gab irgendwo einen Miniprojektor den ich leider übersehen habe und mir daher entgangen ist. Kurzum, unser Held hat gar kein Bild vor Augen. Er weiß gar nicht was passiert ist und wie die Leute aussehen die passiert sind. Zum Glück kommt jetzt Date-san ins Spiel, der hat offenbar sein Journalistenspiel genauso gedrippelt wie er es zuvor als Polizist getan hat. Nicht immer ganz sauber und gemäß den Regeln aber doch irgendwie verlässlich. Deshalb gibt es heute etwas zu sehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #51
+
+* Titel: `Yakuza 3 Remastered - #51 - Spuren der Friedensfinanz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ganz am Anfang, als ich damals mit den Yakuza Teilen angefangen habe habe ich Yakuza Zero gespielt. Ich bin mir nicht ganz sicher inwiefern diese Quest die wir heute finden so auch in der nicht remasterten Variante stattgefunden hat aber in dieser Version in der ich sie spiele findet sie statt. Quasi eine Rückschau an den nullten Teil. Damals waren die 80er Jahre und ein junger Kazuma Kiryu der noch nicht einmal ein vollständiges Tattoo hatte trieb Schulden für diverse Dienstleister an. Und so kam es das wir auch einst für die Friedensfinanz gearbeitet haben. Ich kann mich sogar daran noch erinnern, weil ich den Namen möglichst schlecht übersetzt habe, und der Name blieb mir irgendwie in Erinnerung, es stellt sich heraus, das so viele Jahre später unsere Handlungen Konsequenzen tragen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

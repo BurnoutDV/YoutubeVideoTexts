@@ -58,6 +58,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
   ```
 
+##### #5
+
+* Titel: `Death's Door - #5 - Macht des Feuers [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus, wir können mehr als nur mit Pfeilen schießen, das müssen wir auch, so wie es aussieht gibt es einige Wände und Türen die sich nicht öffnen lassen wenn wir uns nur auf die Umgebung und den zur Verfügung stehenden Mitteln verlassen. Daher erweitern wir unsere Fähigkeiten heute in dem wir die Truhe der Habgier öffnen. Diese ist leicht versteckt aber am Ende finden wir sie, überleben eine kleine aber nicht ganz so einfache Prüfung und wandern dann weitern. Mit der neuen Macht des Feuers sind wir bestimmt auch in der Lage gewaltige Dinge zu tun. Dinge anzünden zum Beispiel. Beispielsweise Spinnenweben, die stehen da ganz vorne mit dabei. Oder halt so Weihrauchbehälter, wie auch immer die mit den Türen zusammenhängen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #6
+
+* Titel: `Death's Door - #6 - Zentraler Brennofen [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie enden erstaunliche viele Reisen die man als Held gegen das "Böse" tut in den Keller. Übrigens ist in dieser Geschichte nicht so wirklich klar ob wir wirklich zu den Guten gehören. Anscheinend scheint irgendetwas mit der Welt nicht zu stimmen. Die Kommission ist nur noch selten unterwegs und irgendwie scheint auch das Leben selbst in Stase zu sein. Das hat wahrscheinlich irgendetwas damit zu tun was vor vielen vielen Jahren passiert ist. Es erlaubt aber auch Leuten wie der Urnenhexe dauerhaft am Leben zu leben bleibe. Ihr Trick ist anscheinend ein wenig Ton auf dem Topf, die Existenz der Brennkammer ist daher vollkommen logisch, schließlich müssen all diese Töpfe ja irgendwo her kommen. Interessant ist aber auch das Oma scheinbar auch neues Leben erschaffen hat. überall in den verschiedenen Behältern sehen wir die Rohform der Topfwesen die wir bisher getroffen haben. Ich gehe jetzt einfach mal davon aus das diese Geschöpfe entweder das Seitenprodukt oder die direkte Schöpfung von ihr sind. Hoch interessant. Am Ende treffen wir sogar Oma, aber heute ist nicht der Tag an der wir sie besiegen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
 ##### #Nummer
 
 * Titel: ``

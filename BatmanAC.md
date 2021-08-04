@@ -159,3 +159,41 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
+
+##### #11
+
+* Titel: `Batman Arkham City - #11 - katzenhaft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder Selina Kyle, auch bekannt als Catwoman. Mir ist übrigens nicht so ganz klar wie das genau ablaufen wird hier. Weil so wie es aktuell aussieht gibt es Riddler Rätsel für Catwoman aber auch für Batman. Insofern müssen wir wohl noch öfter beide wechselseitig spielen. Ich habe aber das Gefühl das ich einen Fehler begangen habe als ich mich dazu entschied ziemlich schnell der Hauptquest entgegegen zu laufen anstatt mit der athletischen Frau weiter die Dächer zu erkunden. Generell und überhaupt nervt mich übrigens schon jetzt das die gute Dame nicht fliegen kann. Batgirl wäre mir dann doch lieber gewesen. Oder fliegende Catwoman. Birdgirl oder so. Weil Arkham City scheint doch sehr auf fliegende Fortbewegung ausgelegt zu sein. An sich ist das übrigens super, der Perspektivwechsel zeigt erst wie auswegslos die Lage für die politischen Gefangenen ist. Klar, unser Hauptheld kann einfach über die Dächer springen aber Selina hat es da schon schwerer und im Notfall hat sie durchaus gute Chancen gegen eine Horde von Kerls. Etwas deprimierend ist übrigens das sie letztendlich nur einen einzigen Fehler machen darf und schon ist es aus mit ihr. Ein starker Kerl der sie richtig zu fassen kriegt und sie sollte kaum Chancen haben sich zu befreien. Aber Mobilität ist halt der Name des Spiels.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #12
+
+* Titel: `Batman Arkham City - #12 - Blutvergiftung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Ausflug mit Catwoman war ziemlich kurz, am Ende bin ich aber auch selber Schuld das ich mir nicht mehr Zeit mit der leicht übersexualisierten Selina Kyle genommen habe. Wir sind also wieder Batman und finden heraus das wir wohl ein neues Problem haben. Der Joker hat uns wieder einmal übertölpelt, das ist eine ganz schöne Leistung für den angeblich besten Detektiv der Welt. Außerdem haben wir wohl eine Blutinfusion erhalten. Ich frage mich jetzt wirklich ob es in Gotham einfach keine Blutgruppen und die anderen lustigen Parameter gibt die Blut ein wenig schwierig transferierbar machen oder ob Batman und der Joker sich einfach die gleiche Blutgruppe teilen. Immerhin muss man dem Clown zu Gute halten das er nicht einmal versucht hat die Identität der Fledermaus heraus zu finden. Das ist generell so ein Ding mit dem Joker nicht wahr, letztendlich nimmt er nichts ernst, nicht einmal dem Kampf gegen Batman. Obwohl man wohl annehmen muss das er zumindest seine eigene Schwäche durchaus als Problem sieht das gelöst werden muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

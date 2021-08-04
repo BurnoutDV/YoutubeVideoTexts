@@ -774,6 +774,54 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #35
+
+* Titel: `Dark Souls Koop - #35 - Sir Vilhelm [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Neben den Invadern gibt es auch noch andere Dinge an denen man das vor ran kommen in der gemalten Welt von Ariandel fest machen kann. Dazu zählt zum Beispiel der gute alte Sir Vilhelm. Der verteidigt die gemalte Welt. Übrigens frage ich mich wo die verschiedenen Ritter alle herkommen. Offensichtlich gibt es ind er Dark Souls Welt quasi keine Kinder und nur erwachsene Ex-Menschen die anscheinend irgendwie ein Leben gelebt haben und dies teilweise auch immer noch tun. Und mit Leben meine ich natürlich Dasein. Dennoch müssen die Leute die jetzt Ritter und Diebe sind ja irgendwann einmal gelernt haben. Soweit ich das verstanden habe lernen Untote nicht wirklich etwas neues. Ist Sir Vilhelm also quasi das letzte Glied einer lange Kette von Rittern? Der letzte Knappe der zum Ritter geschlagen wurde und dann ging die Welt unter? Wurde er in der gemalten Welt geboren? Wo leben die restlichen Leute in dieser Welt. Hat sich irgendetwas verändert? War es ein apokalyptisches Ereignis? Oder geschah es allmählich und die Leute haben gar nichts gemerkt für eine lange Zeit?
+  
+  0:00 - Krähendämonen-Siedlung
+  7:35 - Sir Vilhelm
+  9:55 - Verschneiter Gebirgspass
+  17:32 - Krähendämonen-Siedlung
+  28:12 - Sir Vilhelm
+  29:30 - verschneiter Gebirgspass
+  1:07:20 - Kirchenkeller
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #36
+
+* Titel: `Dark Souls Koop - #36 - Schwarzflamme Friede [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und schon sind wir wieder einmal am Ende unserer langen Reise. Oder zumindest am Ende eines Reiseabschnittes. Es ist irgendwie komisch. Wenn man auf eine Reise geht erscheint es meistens so das das Ziel eigentlich ziemlich sekundär ist. Ich bin in diesem Falle recht glücklich das unsere Reise durch Ariandel zwar beendet ist aber unser Weg noch an einem anderen Ort führt. Es stellt sich übrigens heraus das Friede gar nicht schwer ist wie ich sie in Erinnerung hat wenn man massiv überlevelt ist und über 10 Kilo Lebenspunkte verfügt mit denen man einfach alles wegstecken kann.
+  
+  0:00 - Kirchenkeller
+  10:05 - andere Charaktere
+  14:30 - verschneiter Gebirgspass
+  27:01 - Kirchenkeller
+  34:20 - BOSS: Schwester Friede
+  53:35 - Nachbereitung
+  56:30 - Pyromant Donnel
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -3607,6 +3607,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1488
+
+* Titel: `Let's Play ESO #1488 - Ojek-Bak [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 63 des Blackwood DLCs - Sitzung 10
+  
+  Irgendwann kommen wir immer irgendwo an. Ich erinnere mich, das vor langer Zeit als das Spiel Stalker noch nicht fertig war das die Entwickler davon sprachen Mechaniken einzuführen das man bestimmte Missionen einfach verpassen kann. Das sollte den Wiederspielwert erhöhen weil man ja jedes Mal ein anderes Abenteuer erleben würde. Wie so viele ambitionierte Ideen wurde dies allerdings nie umgesetzt. Wenn ich mir das so im Vakuum angucke kann ich mir auch denken wieso. Wenn man nicht aufpasst gibt es ziemlich viele Aufträge die man so verpassen würde und man hätte die ganze Zeit das Gefühl etwas zu verpassen. Logistisch gesehen bräuchte es auch dann eine schiere Menge an Quests und Missionen damit der Mangel nicht auffällt, es wäre ein wenig so als würde man in einem MMO bestimmte Aufgaben nur einer einzelnen Person zuweisen und niemand sonst kann die dann machen. Das wäre doch ein wenig schwierig. Daher ist die normale Vorgehensweise in Spielen das man nichts verpassen kann, egal wie viel Zeit man mit Nebenmissionen verbringt, die Hauptquest wartet gemütlich. Dieser Logik folgend tut Eveli heute so als wäre nichts passiert. Wie ich von ihr erwartet habe.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1489
+
+* Titel: `Let's Play ESO #1489 - Untergangsgewölbe Capraxus [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 64 des Blackwood DLCs - Sitzung 10
+  
+  Wir waren bereits einmal in einem Untergangsgewölbe, und ich nehmen an das dieses hier so ähnlich sein wird wie auch schon das Letzte. Ein Ort der leicht und zumindest ein bisschen in das Reich des Vergessens hineinreicht. Ein Ort an dem die Ebenen verschmelzen. Im Großen und Ganzen hat sich daraus bisher kaum etwas Schlechtes ergeben, ich befürchte aber das es dennoch kein Ort ist an dem man länger leben möchte. Ich vermute Alpträume und die geringfügige Angst das man morgens als ein anderes Wesen aufwachen könnte als das man Abends eingeschlafen ist. Davon abgesehen ist die Bude hier wesentlich besser beschützt als die letzte Anlage. Ein wenig sind die Untergangsgewölbe wohl auch wie die Vaults aus Fallout. Hermetisch abgeriegelte Anlagen in denen irgendetwas lagert. Ob es sich auch um Überlebende einer anderen Zeit handelt?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -86,6 +86,62 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
   ```
 
+##### #7
+
+* Titel: `Death's Door - #7 - Seilbahn in den Wald [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die große Oma ist tot, jetzt geht es an den nächsten Ort. Natürlich ist der Titel auch ein kleiner Spoiler weil es impliziert das ich es schaffe die Urnenhexe zu besiegen, aber ich hoffe davon ist niemand so richtig überrascht weil am Ende sterben sie doch alle, auch jene die die Unsterblichkeit gesucht haben. Es bleibt nur zu hoffen das sie die Zeit bis es soweit war mit Dingen gefüllt haben die ihnen Spaß gemacht haben. Je älter ich werde desto öfter denke ich auch darüber nach, man sieht das es allen Menschen so geht, in jeder Literatur und Geschichte ist das ein zentrales Thema, das oder Jugend. Manchmal vermisse ich die unschuldigen Tage in denen man sich nur über das Heute  Gedanken gemacht hat. Der Wald ist übrigens nicht wirklich ein Wald sondern mehr ein Sumpf, es gibt echt viel Wasser dort.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #8
+
+* Titel: `Death's Door - #8 - Pilzverlies [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein neuer Ort, ich freue mich immer wieder über neue Orte. Heute handelt es sich um das Pilzverlies, ein Ort voller Gefahrne und vor allen Dingen Wasser. Außerdem gibt es hier anscheinend wieder irgendwelche Geister die wir befreien und dann direkt in die Tür der Seelen opfern können. Da fragt sich doch eigentlich was die Seelen all die Zeit hier gehalten hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #9
+
+* Titel: `Death's Door - #9 - Bombenstimmung [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute passieren zwei Dinge. Erstens scheitere ich ziemlich sehr das erste Mal. Vorher bin ich auch schon öfter gestorben, auch zu einem Gegner immer und immer wieder. Aber jetzt fühlt es sich ein wenig so an als würde ich gegen eine Wand laufen. Das liegt daran das ich mich heute damit beschäftige auch die letzte Seele für die große Tür im Pilzverlies zu erhalten, aber es stellt sich leider heraus das nicht alle Geister gleich gut bewacht sind..manche von ihnen haben ein wenig bessere Wachen abbekommen. Und dann schaffen wir es doch, aber es war ziemlich knapp.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #10
+
+* Titel: `Death's Door - #10 - morsche Wände [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und jetzt haben wir eine weitere Fähigkeit die ich benutzen kann. Das bedeutet aber auch das ich noch einmal große Wege laufen werde um geheime Verstecke zu finden und eventuelle Schätze zu heben. Außerdem gibt es wohl jetzt den ein oder anderen Tempel zu entdecken. Kurzum, wir können jetzt Wände zerstören und diese Fähigkeit werden wir natürlich auch nutzen. Leider läuft das alles jetzt aber auch auf eine Menge Backtracking hinaus. Aber ich  fürchte ein wenig das dies ein wichtiger Bestandteil des Spiels ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
 ##### #Nummer
 
 * Titel: ``

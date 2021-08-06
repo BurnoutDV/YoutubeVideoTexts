@@ -188,6 +188,62 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #13
+
+* Titel: `Batman Arkham City - #13 - das erste Titan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Batman Arkham City hat ein wenig ein Problem wie mir so auffällt: es hat eine offene Welt ohne Inhalt. Es ist wirklich komisch, aber heute versuche ich mich ein wenig mehr auf die offene Welt einzulassen weil mir aufgefallen ist das ich bisher immer ganz schön durchgerannt bin, daher erkunde ich ein wenig und laufe umher. Außer ein paar vergessene Behälter mit Titan finde ich aber echt nicht viel, nicht einmal einen richtigen Zugang zum Stahlwerk in dem wir eigentlich schon waren. Auch meine sonstigen Suchen sind eher von wenig Erfolg gekrönt, sieht man es einmal von den klingelnden Telefonen ab passiert nun echt nicht viel in der "Stadt". Erstaunlich eigentlich wenn man bedenkt das hier alles voller Verbrecher ist. Oder halt auch nicht so erstaunlich. Ich nehme mal stark an das ein großes Battle Royal der eigentliche große Plan war und das man so oft das die Verbrechensrate empfindlich gesenkt wird. Und ein paar politische Gefangene wird man auch los.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #14
+
+* Titel: `Batman Arkham City - #14 - die Wehrlosen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und ja, auch heute ist wieder so eine Episode in der eigentlich nicht so richtig viel passiert und ich mehr damit beschäftigt bin mit der Steuerung klar zu kommen anstatt die Welt zu retten. Was wir allerdings retten sind unschuldige, politische Gefangene die hier in einer echt schwierigen Lage gekommen sind. Es ist eigentlich ein Ding das sich niemand um diese Leute so richtig zu kümmern scheint. Immerhin können wir als großer famoser Rächer auftauchen und die Leute direkt aus einer schlimmen Lage befreien. Für Batman aber auch durchaus möglich wäre es über seinen Kontakt zu Bruce Wayne dafür zu sorgen das es den Leuten in baldiger Zukunft besser gehen würde. Dazu gehört meiner Meinung nach eine Extraktion und vielleicht sogar ein wenig wirtschaftliche Unterstützung, aber ich habe irgendwie das Gefühl das das nicht die Art ist wie Batman operiert, ihr wisst schon, echte, nachhaltige Hilfe die etwas verändert. Unterstützung von Außen politischen Druck aufzubauen wäre ebenfalls eine Lösung, aber das ist natürlich keine Option, ein Irrer namens Hugo Strange behauptet ja das Geheimnis zu kennen. Das ist umso interessanter als das sich ein Bruce Wayne doch bestimmt Schweigen erkaufen kann, und damit meine ich nicht Bestechung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #15
+
+* Titel: `Batman Arkham City - #15 - die Spur der Kälte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir suchen Mister Freeze, und wie wir mittlerweile wissen ist es anscheinend nicht so als hätte der Gute tatsächlich den Joker hintergangen aber der Penguin hatte halt andere Pläne. So ist das mit den empfindlichen Machtgefüge in der Arkham City, generell und überhaupt scheint mir übrigens eine Menge Machtspielchen zwischen den einzelnen Superverbrechern stattzufinden. An sich sind die einfachen Schläger hier in der Anstalt ungefähr so schlecht dran wie draußen. Oder anders gesagt, es ist doch eigentlich egal welcher Spielball der Mächtigen man am Ende ist. Draußen scheinen die Bürgermeister und Anstaltsleiter ihre Macht beliebig auszuüben und in der Anstalt sind es halt die Gangsterbosse. Von weit genug unten sieht das doch alles genau gleich aus oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #16
+
+* Titel: `Batman Arkham City - #16 - Gotham City Police Department  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Erschaffung von Arkham City war anscheinend ziemlich einfach, es wurde einfach ein Stück Stadt am Hafen genommen und dann eine riesengroße Mauer darum herum gebaut. Ich bin mir übrigens immer noch ziemlich unsicher wie genau es eigentlich möglich war eine so gewaltige Anlage zu bauen und dann noch in Betrieb zu nehmen. Eigentlich muss ja allen Leuten bewusst gewesen sein um was es sich da handelt und in den vielen Monaten die es gedauert hat den Ort zu errichten hat sich niemand in der Lage gefühlt politisch dagegen zu operieren. Ich rufe Bullshit! Oder aber Batman ist einfach nur unfassbar unfähig, bzw. unwillens Dinge zu tun für die er am Ende kein Lob erhält. Weil man kann ziemlich schlecht Leute verprügeln wenn politische Macht ausübt. Oder um es kurz zu machen, ich glaube immer noch nicht das es Bruce Wayne wirklich darum geht das Verbrechen in Gotham zu bekämpfen. Alles was er tut ist Symptome zu bekämpfen ohne auch nur ein wenig vor raus schauend zu agieren. Bei dem Ausmaß das wir sehen kann ich nicht glauben das er sich damit herausreden kann das er machtlos gegen die Armeen der Finsternis ist. Damit ist er übrigens genauso effektiv wie das Gotham Police Department das wir heute betreten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

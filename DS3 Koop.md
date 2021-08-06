@@ -822,6 +822,89 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
+##### #37
+
+* Titel: `Dark Souls Koop - #37 - der Trümmerhaufen [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und schon geht eine "neue" Reise los. Wir haben Ariandel und alle Schwierigkeiten die damit zusammenhängen erfolgreich hinter uns gebracht. Ein wenig später wird mir dann übrigens einfallen das man durchaus noch eine Titanitscholle im Dorf der Krähendämonen hätte abholen können, das haben wir aber nicht getan und so richtig haben wir es auch nicht gebraucht. Die nächste Haltestelle ist der Trümmerhaufen und damit auch ein wenig die Zukunft, es handelt sich um einen Ort der technisch gesehen jenseits der Zeit liegt. Ein Ort weit weg von allen Dingen die da waren und sind. Interessant ist übrigens immer wieder das wir in den verfallenen Orten der "Zukunft" oder der Zeit vor dem letzten Feuer Pflanzen finden. Alles ist irgendwie untot aber doch lebt etwas. Das Land mag verflucht sein und die Bewohner irgendwie untot, aber doch lebt etwas. Ist das nicht irgendwie ein  kleiner Trost? Wir fangen unsere Reise übrigens damit an das wir doof umherlaufen. Alleine, einfach so, um vergessene Dinge auf zu lesen.
+  
+  0:00 - altes Izalith
+  16:10 - Fotospot Suche
+  21:30 - Trümmerhaufen
+  55:35 - Irdenspitze
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #38
+
+* Titel: `Dark Souls Koop - #38 - die Irdenspitze [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Wenn ich mich an meinen letzten Run versuche zu erinnern erinnere ich mich in Wirklichkeit an den ersten Besuch der Ringed City, oder besser, den ersten Versuch bis dahin zu kommen, und in dieser Erinnerung ist der Trümmerhaufen wesentlich länger und aufwendiger. Daher bin ich ein wenig überraschend wie schnell wir eigentlich heute in der Irdenspitze ankommen, ein Ort der eigentlich auch nicht besonders lang ist aber durch die fliegenden "Engel"viecher dauert es doch ein wenig länger. Immerhin gibt es hier einen kleinen Sumpf der für mutige Entdecker Einiges zu bieten hat. Da Wild das hier alles blind spielt haben wir sogar ein wenig Freude des Neuen, eine Freude die ich ein wenig teilen kann.
+  
+  0:00 - Irdenspitze
+  5:30 - der Trümmerhaufen
+  17:25 - Irdenspitze
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #39
+
+* Titel: `Dark Souls Koop - #39 - Abstieg in die Stadt [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Die Stadt ist nun wirklich nahe, eigentlich auch eine interessante Designentscheidung, wir haben hier ein Spiel bzw. DLC das heißt "Ringed City", aber die erste Hälfte sind wir überhaupt nicht in besagter Stadt. Heute geht es aber runter, tief tief hinunter in die Tiefen in der die umringte Stadt sitzt. Manchmal frage ich mich ob die Macher bzw. die Künstler Artworks oder Skizzen haben wie die Stadt vorher aussah. Also als es noch eine richtige Stadt war, als es noch echte Leute gab und noch wirkliches Lebens stattgefunden hat. Aber wahrscheinlich würde dann Nichts einen Sinn ergeben. Oder vielleicht doch? Ich weiß es wirklich nicht.
+  
+  0:00 - Irdenspitze
+  7:09 - Dämonenprinz
+  32:00 - Zwischenphase
+  34:42 - Mausoleumswacht
+  57:12 - Innerer Ringwall
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #40
+
+* Titel: `Dark Souls Koop - #40 - Haraldslegion [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Eigentlich sind wir den Haraldsritter bereits vorher begegnet aber heute ist der Tag gekommen an dem sie uns wirklich nerven. Das Problem ist auch einfach das die dicken, aufgeblähten Viecher einfach viel zu viel aushalten. Der Abyss scheint eine ziemlich ausdunstende Wirkung auf alle möglichen Wesen zu haben. Und das wiederum führt dazu das wir heute ganz schön geblockt werden, das und die doch recht zahlreichen Invader verhindern das wir heute echten Fortschritt machen können.
+  
+  0:00 - Mausoleumswacht
+  14:30 - innerer Ringwall
+  20:00 - Haraldstreppen & Invader
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -3637,6 +3637,66 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1490
+
+* Titel: `Let's Play ESO #1490 - die Steinbock Zwillinge [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 65 des Blackwood DLCs - Sitzung 10
+  
+  Nachdem wir die einfachsten Rätsel der Welt überwunden haben geht unsere Reise ins Glück auch tiefer in die Höhlen in diesem Untergangsgewölbe weiter..und wir treffen die Zwillinge. Es handelt sich, so scheint es zumindest, um zwei normale Kaiserliche die sich selbst als die Zwillinge bezeichnen. Allen Anschein nach ist so ein Untergangsgewölbe ein wenig wie eine Vault. Kleine Anekdote dazu, vor langer langer Zeit hat ein Artikel in der Gamestar beschreiben das das Wort Vault nicht so richtig ins Deutsche übersetzten werden kann. Technisch gesehen ist es so etwas wie ein Tresorraum, aber irgendwie auch nicht. Die Zwillinge bezeichnen ihre Lage als Klausur, das ist ziemlich zutreffend in der ursprünglichen Bedeutung des Wortes..die dann irgendwie von Schulen ad absurdum geführt wurde. Das Wort "Bunker" beschreibt aber auch nicht so richtig was wir sehen. Wie es aber auch sei, die Einrichtung ist enorm reich gestaltet und wir finden eine Reihe von ziemlich alten Dienern. So wie es aussieht war die ganze Einrichtung nur auf diese beiden Personen ausgelegt. Das ist ziemlich interessant, wir haben es wohl mit zwei der Ambitionen zu tun. Nicht direkt das mit dem ich gerechnet hätte.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1491
+
+* Titel: `Let's Play ESO #1491 - die Macht der Ambitionen [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 66 des Blackwood DLCs - Sitzung 10
+  
+  Wir und unsere Gegenspieler jagen gleichermaßen hinter den vier Ambitionen her, in den Glauben das es sich um eine passive Waffe handelt die einfach irgendwo herumliegt, eine Waffe die von Jedermensch und elf einfach so genommen werden kann ohne das es irgendwelche Probleme gibt sobald man erst einmal im Bunker ist. Die Realität sieht dann aber so aus das keine der Ambitionen so einfach zu schnappen ist. Ich bin mir allerdings immer noch nicht ganz sicher ob es sich bei den vier Ambitionen wirklich um Personen handelt oder nur etwas in den Leuten die wir bis her gefunden haben die Macht der Ambition begründet. Oder um was es sich überhaupt handelt. Die ganze Geschichte könnte auch immer noch ein Codename sein, so wie die ersten Panzer Projekt "Fishtank" waren..und schon war ein Nam geprägt. Vielleicht haben die Ambitionen überhaupt nichts mit ambitioniert zu tun. So oder so, die Zwillinge scheine sich wehren zu können.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1492
+
+* Titel: `Let's Play ESO #1492 - Deet-Loh das Schwein [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 67 des Blackwood DLCs - Sitzung 10
+  
+  Und schon ist die große Spannung rund um die vier Ambitionen auch wieder vorbei, als nächstes müssten wir uns mit Keshu Schwarzflosse, Destro und Calia in Gideon treffen, die gute Schwarzflosse weiß noch überhaupt nichts von ihrem Glück, aber es wird bestimmt großartig und ich bin mir sicher das der Orden der erwachenden Flamme auf keinen Fall mit aller Gewalt versuchen wird die Ambitionen zu erreichen. Es scheint ja fast so als hätten die irren Daedraanbeter absolut endlose Vorräte in Personen und Material. Sehr erstaunlich wenn man bedenkt das "unsere" Seite eine größere Anzahl an Soldaten haben sollte wirklich seltsam, allein der Aufwand für viele Jahre zu verdecken das so viele Leute heimlich auf diesen Tag hingearbeitet haben. Aber davon einmal abgesehen, heute treffen wir Deet-Loh der angehende Künstler und Schweinedarsteller und seine Schwester Kokatsei.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1493
+
+* Titel: `Let's Play ESO #1493 - die Nereïde von Vunalk [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 68 des Blackwood DLCs - Sitzung 10
+  
+  Wir kennen Nereïden bereits aus anderen Orten, zum Beispiel sehr trockenen Orten weil der örtliche Wassergeist verschwunden ist, oder weil der örtliche Geist einfach wahnsinnig geworden ist, warum auch immer. Ich persönlich halte von den Viecher eh nichts, sie scheinen mir ein wenig viel zu mächtig zu sein für das was sie sind: kleine nervige Störenfriede. Wie genau jetzt die Verwandlung in ein Schwein funktioniert hat wissen wir immer noch nicht, aber wir haben immerhin die Erkenntnis das diese Wassernymphe in der Lage ist Wesen ohne Übergänge zu verwandeln. Deet-Loh war in einem Moment ein Schwein und im nächsten ein Huhn. Würde die Magie als zusätzliche Eigenschaft geschehen würde ich davon ausgehen das er kurz wieder seine ursprüngliche Form hat wenn sich die Magie wechselt..oder aber all diese Dinge geschehen einfach nicht so mechanisch wie ich das beschreibe und ist stattdessen magisch.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

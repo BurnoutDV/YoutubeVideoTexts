@@ -716,6 +716,62 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #52
+
+* Titel: `Yakuza 3 Remastered - #52 - Obdachlosenjäger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man sagt das einen die ersten Jahre des Lebens deswegen so lang vorkommen weil man immer wieder neue Dinge kennen gelernt hat. Wenn man älter wird sieht man auch einfach mehr vom Gleichen. So geschieht es zum Beispiel das man immer wieder das gleiche Verhalten in den Menschen sieht. Zum Beispiel den Drang nach Unten zu treten um seine eigene Lage besser erscheinen zu lassen. Heute wieder schön am Beispiel der Obdachlosenjäger zu sehen. Ich kann nicht sagen das dies für mich eine neue Beobachtung ist. Auch für Kiryu ist dies kaum der Fall, in diesem Fall haben wir sogar eine direkte Instanz die dieser vorhergeht. Genau das gleiche Vorgehen, nur zu einer anderen Zeit. Die Leute sind auch immer noch mehr oder weniger die Gleichen. Davon abgesehen sehen wir aber doch etwas Neues, Kazuma Kiryu weist eine erhebliche und überraschende Menge an Lokal Patriotismus auf.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #53
+
+* Titel: `Yakuza 3 Remastered - #53 - Drachenpalast [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode steht im Namen der täuschenden Namen. Nein wir betreten keinen Palast aber es ist eventuell ein japanisches Ding den Orten größere Namen zu geben als sie eigentlich alt sind. Wie dem aber auch sei, es handelt sich eigentlich um eine Spielhalle die von ein paar jugendlichen übernommen worden die den Ort auch für ein gutes Versteck halten. Wir kennen das Loch eigentlich sogar schon, bereits in der Vergangenheit war hier ein halb fertigstelltes Gebäude in dessen Eingeweide sich die Obdachlosen zurückgezogen haben. Die Obdachlosen die jetzt übrigens gar nicht so ohne Obdach sind. Interessant ist übrigens auch die Sicht auf die Leute ohne Wohnung in den Yakuza Spielen. Hier handelt es sich größtenteils um Leute die anscheinend geistig noch gut bei samen sind, zumindest die die wir treffen, ein leichtes Suchtproblem könnte dabei sein, aber wir sehen doch auffällig wenig geistig behinderte Menschen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #54
+
+* Titel: `Yakuza 3 Remastered - #54 - Wasserfilter & Hobbyninjas [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt von Yakuza sagt mir immer wieder das es an jeder Ecke tonnenweise Scamartists, Betrüger und andere üble Genossen gibt die anscheinend alles dafür tun unschuldige Bürger in irgendwelche schlecht eingerichteten Büros zu locken um sie dort zu verprügeln. Das scheint mir übrigens generell so eine Geschichte zu sein, immer wird uns sofort Gewalt angedroht und meistens sogar ausgeführt. Ich frage mich übrigens was passieren würde wenn Kiryu nicht so aussehen würde als könnte er ein paar Schläge aushalten. Oder was genau passiert wenn wir eine Frau wären? Einmal haben wir schon gesehen das irgendwelche Mädchen entführt und verkauft werden, aber das setzt ja auch vor raus das es irgendwo einen Käufer gibt der damit auch etwas anfangen kann. Der Gedanke lässt mich da schon ein wenig erschauern. Würden die Wasserfilterscammer dazu auch kommen wenn man keine 1 Million Yen dabei hat? Und was ich mich jetzt auch frage, hätte ich damals den Typen der mein Jade-Amulett besungen hat nicht bezahlen sollen?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #55
+
+* Titel: `Yakuza 3 Remastered - #55 - Instant Kyosho Nr. 1 Stern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen das Nudelrestaurant Kyosho Nummer 1 Stern bereits. In der Vergangenheit hat Kiryu dem Besitzer irgendwie geholfen. Ich kann mich aber beim besten Willen nicht mehr daran erinnern was wir damals eigentlich getan haben. Die gute Nachricht ist das man sich anscheinend auch nicht auf der Besitzerseite erinnern kann das wir jemals da gewesen waren. Das ist aber auch irgendwie eine gute Nachricht, ist ja schon wieder zwei Jahre her und das sagt mir doch das der Inhaber in der letzten Zeit genug erlebt hat das er sich an so kleine Dinge wie Kiryu nicht mehr erinnern kann. Ich finde das ist eine gute Nachricht. Oder? Mögest du in interessante Zeiten leben ist doch eine Glückslosung oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

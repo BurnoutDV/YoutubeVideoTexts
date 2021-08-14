@@ -905,12 +905,163 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```
 
-##### #Nummer
+##### #41
 
-* Titel: ``
+* Titel: `Dark Souls Koop - #41 - invasive Stopmaßnahmen [Koop Lets Play]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Eigentlich wären wir deutlich schneller. Und eigentlich sollte ich mich aufhören zu wiederholen. Und eigentlich gehören Invaders fest zum Spiel dazu und sind irgendwie auch Teil des Koop Erlebnisses. Die bittere Realität ist aber das anscheinend die gesamte umringte Stadt vollständig überlaufen ist und es wirklich ziemlich nervt. Oder anders gesagt, wir werden tonnenweise invasiert weil wahrscheinlich niemand sonst hier in der Gegend normal spielt oder nach der ersten Invasion aufgibt. Ein solches Glück haben wir leider nicht, und so kommt es das wir heute ziemlich sehr auf den Kopf bekommen und nicht vor ran.
+  
+  0:00 - Haraldstreppen
+  1:25 - Stadtsumpf/Ballustraden
+  15:45 - Zwischenphase
+  19:00 - Haraldstreppen
+  38:25 - Stadtsumpf
+  48:10 - Haraldstreppen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #42
+
+* Titel: `Dark Souls Koop - #42 - Zeichen der Menschlichkeit [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Es gibt da ein Rätsel das ich selber nie gelöst habe. Aber da wir andauernd invasiert wurden weiß ich jetzt viel besser welche Orte betreten werden können und welche Orte nicht. Und ich weiß das es einen Ort gibt den ich noch nicht betreten habe, in allen Spieldurchläufen, obwohl ich das eigentlich schon getan haben sollte. Es stellt sich heraus das man dafür ein kleines Rätsel lösen muss. Ein wenig fraglich ist aber wie ich eigentlich das vorherige Mal die Quest von Lapp beenden konnte obwohl man dafür eigentlich Zugriff auf das Monument braucht das wir heute finden. Mysteriös.
+  
+  0:00 - Vorbereitung
+  1:22 - Stadtsumpf
+  43:40 - Menschlichkeit
+  44:30 - Speer der Kirche
+  49:50 - Stadtsumpf
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #43
+
+* Titel: `Dark Souls Koop - #43 - Brücke des Feuers [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Es gibt da eine Brücke. Eine Brücke die den Zugang zu einem Ort liefert. Dieser Zugang ist uns extrem wichtig. Leider ist diese Brücke irgendwie auch bewacht. Es gibt da so einen Drachen. Der kundige Dark Souls Kenner weiß bereits um wem es sich dabei handelt. Die Brücke ist jedes Mal wenn man versucht darüber zu laufen mit Feuer eingedeckt. Das ist außerordentlich unpraktisch weil Untote dazu neigen zu brennen. Egal wieviel Feuerresistenz man hat, am Ende ist es immer noch Feuer und nichts hilft.
+  
+  0:00 - Stadtsumpf
+  8:00 - Zeichen der Menschlichkeit
+  9:05 - oberere Ballustraden
+  15:25 - Feuerband-Schrein
+  20:12 - obere Ballustraden
+  27:42 - Stadtsumpf
+  33:20 - Brücke des Feuers
+  35:50 - wehklagender Ritter
+  39:30 - gemeinsames Grab
+  51:40 - Brückemidir
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #44
+
+* Titel: `Dark Souls Koop - #44 - Brückemidir [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Auf der Brücke sitzt ein Midir. Generell und überhaupt scheint der große schwarze Drache ein Ding zu sein das sich durch die ganze Handlung zu ziehen scheint. Man fragt sich doch ernsthaft ob es das Vieh eigentlich daran legt das endlich jemand kommt der dafür sorgt das der große und von der Dunkelheit verfluchte Drache endlich Ruhe findet. So weit ich das verstanden habe ist Midir nicht ganz freiwillig hier und würde bestimmt gerne irgendwo anders weitermachen. Heute ist allerdings nicht der Tag an dem wir ihn ein Ende setzten.
+  
+  0:00 - Haraldstreppen
+  9:43 - gemeinsames Grab
+  22:16 - sitzender Midir
+  25:00 - obere Stadt
+  31:30 - Feuerband Schrein
+  36:30 - sitzender Midir
+  41:10 - obere Stadt
+  48:49 - BOSS: Schwarzfraß Midir
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #45
+
+* Titel: `Dark Souls Koop - #45 - Schwarzfraß Midir [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Ich habe ziemlich lange auf diese Stelle gewartet. Um genau zu sein ungefähr 45 Episoden lang, aber jetzt dürfen wir endlich den guten alten Midir in seiner vollen Pracht erleben. Und das sogar ziemlich lange, das liegt aber auch einfach daran das man den riesigen Drachen quasi nie hauen kann, er die ganze Zeit Feuer speit und generell und überhaupt eine gewaltige Menge Schmerz bedeutet. Dennoch bleibt es spannend.
+  
+  0:00 - Feuerband-Schrein
+  3:34 - BOSS: Schwarzfraß Midir
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #46
+
+* Titel: `Dark Souls Koop - #46 - Speer der Kirche [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Wir sind auf der Zielgraden. Midir wird heute besiegt, soviel kann ich schon mal verraten und dann fehlt nicht mehr viel. Dachte ich zumindest, stellt sich heraus das der Sperr der Kirche für mich ein wenig der Brecher hier wird. Bei Midir kann ich mir einhundert Prozent selber die Schuld für jeden Fehler und jeden Tod geben. Aber hier ist es anders, der Gegner ist ein Spieler und irgendetwas war komisch. Ich bin mir nicht sicher ob einfach ich falsch gehandelt habe oder ob es tatsächlich am Gegner lag, auf jeden Fall habe ich hier viel mehr Probleme als ich das eigentlich zugegeben möchte. Halflight hat auf jeden Fall nicht so viele Probleme gemacht.
+  
+  0:00 - Vorbereitungen
+  1:10 - BOSS: Schwarzfraß Midir
+  22:25 - Nachbereitungen
+  32:52 - BOSS: Speer der Kirche
+  56:11 - Filianore
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
+  ```
+
+##### #47
+
+* Titel: `Dark Souls Koop - #47 - Gael und Asche [Koop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und schon sind wir da. Ich persönlich habe den guten Gael ein wenig schwerer in Erinnerung, aber es kann auch einfach sein das es zu zweit halt natürlich einfacher ist. Midir hat das Problem halt nicht weil er ein großer fieser Drache ist der durchaus auch mehre Leute gleichzeitig bekämpfen kann bzw. es eigentlich überhaupt kein Unterschied macht wo man steht wenn man die Hälfte der Zeit an das Vieh eh nicht ran kommt weil man keine Reichweite hat. Dennoch ist Gael nicht zu einfach. Ein wenig zu sehr einfach ist dann aber leider doch die Seele der Asche. Es könnte sein das wir eventuell ein wenig wenig überlevelt für die sind und daher ohne Probleme vorgehen können und nicht wirklich aufgehalten werden. Und damit endet dann auch dieser Spieldurchlauf.
+  
+  0:00 - Vorbereitungen
+  1:45 - BOSS: Sklavenritter Gael
+  17:35 - Abgabe der Seele
+  29:13 - BOSS: Seele der Asche
+  41:13 - das vierte Ende
+  50:00 - letzte Schätze, Verabschiedung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
   ```

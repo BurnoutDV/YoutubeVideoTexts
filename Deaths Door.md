@@ -142,6 +142,104 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
   ```
 
+##### #11
+
+* Titel: `Death's Door - #11 - überflutete Festung [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist nicht ganz so einfach einen Frosch zur Strecke zu bringen der sich nicht fangen lässt. Zum Beispiel wenn das Vieh irgendwo im Wasser steht und wir par tout nicht hinterher kommen weil unsere kleine Dohle einfach nicht schwimmen kann. Daher kämpfen wir uns heute durch die engen Wege der überfluteten Festung. Es stellt sich ein wenig eine Frage zum World Building von Deaths Door, was ist mit den Leuten passiert die all das ursprünglich erbaut haben. Was für Wesen waren und zu welchen Zweck. Aber ich nehme einmal stark an das es nicht wirklich so tiefe Hintergrundgeschichten gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #12
+
+* Titel: `Death's Door - #12 - König der Sümpfe [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe erfahren das der Froschkönig eigentlich ein ziemlich schwieriger Feind ist. Ich muss leider zugeben das es mir nicht besonders schwer gefallen ist, eventuell hatte ich aber einfach nur Glück bei dem ganzen Unterfangen und ich konnte mit ein wenig Geschick die große Kröte ziemlich schnell aus dem Leben nehmen. Immerhin war der Weg dahin angenehm anstrengend und ich kann nicht unbedingt davon reden das ich durchspaziert bin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #13
+
+* Titel: `Death's Door - #13 - Jeffersons Geschichten [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder ein Stück weiter, der Froschkönig hat es hinter sich und es fehlt nur noch eine Seele aber auch eine Fähigkeit bis wir wirklich richtig weitermachen können. Bis es aber soweit ist hören wir uns noch an was uns Jefferson der menschlichste aller Menschen zu sagen hat. Ein absolut unverdächtiger Zweibeiner mit zwei völlig normalen Landgängerarmen. Außerdem erklärt er uns wo überall in der Welt ich diverse Tempel übersehen habe. Ich kann jetzt schon einmal sagen das ich am Ende alle gefunden werden habe. Einfach weil ich solche Dinge kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #14
+
+* Titel: `Death's Door - #14 - Burg Schlüsselstein [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir machen eigentlich ziemlich gute Fortschritte. Nur 7 Stunden und schon sind wir in Burg Schlüsselstein, wenn ich die Mechaniken des Spiels richtig einschätze werden wir hier die letzte Fähigkeit finden und dann beginnt das große Backtracking. Jetzt müssen wir aber erst einmal Burg Schlüsselstein erkunden, anscheinend der Ort an dem die ehemaligen Herren der Türen begraben sind. Man findet dort auch ihre Seelen bzw. Geister was das Ganze ein wenig komisch sein lässt, bisher nahm ich immer an es ginge nur darum Leute in das Nachleben zu begleiten damit neues Leben entstehen kann, aber die Herren der Türen bleiben wohl irgendwie zurück.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #15
+
+* Titel: `Death's Door - #15 - der Hakenschuss [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es war ja klar, irgendwo würde eine weitere Kiste auf uns lauern und mit dieser Kiste können wir dann die restlichen Orte betreten die uns bisher entgangen sind. Das bedeutet aber auch das ab Heute das große Backtracking los geht und wir für das Erste leider nicht mehr so richtig vor ran kommen um die verbleibenden Seelen einzusammeln. Dafür bin ich ziemlich gut vorbereitet sobald ich dann auch mal alle Tempel und Seelen habe die es so in der Welt gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #16
+
+* Titel: `Death's Door - #16 - drei Herausforderungen [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir können jetzt jeden Ort bereisen. Oder zumindest, wir kommen jetzt an jeder Stelle in den Gebieten in denen wir derzeit sein können. Daher laufen wir heute ganz viel durch die Gegend und tun Dinge. Es stellt sich heraus das er für jede der Fähigkeiten einen Übungsdungeon gibt, und wenn man den gemacht hat dann werden die Fähigkeiten besser. Nach einer gewissen Logik zu folgen scheint es jeweils einen dieser Dungeons auf dem Weg zum Gebiet zu geben in dem wir die Fähigkeit erhalten haben. Meine Theorie stellt sich als akkurat heraus. Die stillen Wächter sind leider ziemliche Brocken, aber ich schaffe es dennoch sie zu überwinden, vielleicht, finden wir es heraus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #17
+
+* Titel: `Death's Door - #17 - neue Wege [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte ja schon das uns noch ganz neue Wege offen stehen, das heißt neben den Fähigkeiten gibt es auch noch eine Menge Schreine die wir jetzt finden können. Selbstverständlich lasse ich es nicht zu das mir noch irgendwelche Schreine entgehen. Daher erkunden wir heute ganz neue Varianten um auch die letzten Schreine und damit Boni zu finden die uns am Ende das Leben leichter machen werden. Leider bedeutet das auch das ich ziemlich viel umher laufen muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
 ##### #Nummer
 
 * Titel: ``

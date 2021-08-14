@@ -3697,6 +3697,96 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1494
+
+* Titel: `Let's Play ESO #1495 - Nesh-Teis letzter Wunsch [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 69 des Blackwood DLCs - Sitzung 11
+  
+  Es stellt sich heraus das wir immer wieder aufs Neue über Lore stolpern können von der ich noch nie etwas gehört habe..und Spiele von denen ich noch nie etwas hörte. Es gab anscheinend einmal einen Kerl namens Azra Nachtbeherrscher, der taucht hier übrigens das aller erste Mal auf Deutsch auf, vorher kannte man ihn nur unter den Namen "Azra Nightwielder". Von dem was ich so sammeln konnte ist er maßgeblich für die Entwicklung der Dunkelmagie verantwortlich. Was das genau ist? Ich habe absolut keine Ahnung. Wir treffen heute einen angehenden Nisswo namens Schreitet-im-Schatten der anscheinend seinen einstigen Meister den letzten Willen erfüllen will und dafür die sogenannte Nachtbeherrscher Foliante bergen will. Uns bringt die auf jeden Fall nichts, einfach schon weil wir sie gar nicht lesen können. Eine sehr unpraktische Eigenschaft für ein Buch.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1496
+
+* Titel: `Let's Play ESO #1496 - adeliger Unterstützer [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 71 des Blackwood DLCs - Sitzung 11
+  
+  Eine Operation wie die von Ex-Ratsherr Vandacia kann man nicht einfach so durchführen nur weil man ein großes Versprechen hat. Klar, einige Fanatiker kann man bestimmt immer mit leeren aber vielversprechenden Worten motivieren, aber für die breite Masse wird das nur sehr schlecht klappen. Und selbst wenn es funktionieren sollte gibt es immer noch eine größere Anzahl an logistischen Problemen die nicht alle mit Versprechungen bezahlt werden kann. Sollte man doch soviel Macht haben das alle Mittel die gebraucht werden durch Unterstützer zur Verfügung stehen ist man quasi sowieso ein staatlicher Akteur. Vandacia ist dies nicht, allerdings verfügt er offenbar über reiche Freunde und mit Geld ist es ziemlich einfach die Lücken zu füllen die in der Logistik aufgetaucht sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1497
+
+* Titel: `Let's Play ESO #1497 - formelle Gewandung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 72 des Blackwood DLCs - Sitzung 11
+  
+  Anscheinend sind wir zu einem gesellschaftlichen Anlass eingeladen. Außerdem können wir uns ziemlich glücklich schätzen das trotz der Anwesenheit von Magie breit in der Welt anscheinend für die breite Masse und auch privilegierteren Leuten die gleichen Bedingungen gelten,  Kommunikation ist nur so schnell wie ein Bote mit Pferd halt sein kann. Das bringt uns in die schöne Situation das wir zwar einen Adeligen brutal überfallen haben aber bevor der irgendjemanden warnen können sind wir in der Lage seine Kontakte zu nutzen um an seiner Stelle auf ein Schiff zu kommen. Eigentlich übrigens auch ziemlich interessant. Der Orden der erwachenden Flamme hat anscheinend genügend Unterstützer das wir  einfach so untertauchen können. Ich frage mich nur ob eine Hochelfe da nicht etwas auffällt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1498
+
+* Titel: `Let's Play ESO #1498 - Gäste der Unheil [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 73 des Blackwood DLCs - Sitzung 11
+  
+  Wir sind fein angezogen, haben mental auch einen schönen Hut auf und wenn Uhren erfunden wären hätten wir auch eine goldene dabei. Allerdings bin ich mir nicht sicher ob man als feine Dame von Welt eine gute Uhr zu einem Kleid trägt. Ich kann es mir eigentlich nicht vorstellen. Auch Hüte sind wohl eher ein Ding wenn man flanieren will und seine weiße Haut bewahren will. Wir brauchen also quasi einen, ich bin mir ziemlich sicher das ich als Vampir nicht besonders sonnenfest bin. Davon einmal abgesehen gehen wir heute auf die Unheil, ein Schiff das in Leyawin vor Anker liegt. Man könnte durchaus in Frage stellen warum eine Operation von Vandacia direkt unter der Nase der Leute stattfindet die wir bezahlen. Immerhin unterhalten wir uns schön
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1499
+
+* Titel: `Let's Play ESO #1499 - Vandacias Festung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 74 des Blackwood DLCs - Sitzung 11
+  
+  Und schon sind wir wieder im Reich des Vergessens. Wir sollten wirklich mehr Sonnencreme oder was auch immer man braucht wenn man öfter dort ist, bevorraten. Spezifisch sind wir wieder in den Totenländern. Das ist absolut keine Überraschung da dies das Heimat die von unseren ärgsten Widersacher ist. Sein Handlanger Vandacia hat sich hier anscheinend ein schönes Schloss eingerichtet mit dem er irgendwelche Adeligen beindrucken kann die ihm Geld geben. So traurig es mich stimmt, all das legitimiert irgendwie die Existenz eines Geheimdienstes oder? Weil so wie sich die Dinge darstellen wären der ehemalige Ratsherr niemals damit durchgekommen wenn es irgendwo Spione gegeben hätte die den Adel überwachen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1500
+
+* Titel: `Let's Play ESO #1500 - Sombren [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 75 des Blackwood DLCs - Sitzung 11
+  
+  Und schon finden wir die nächst Ambition. Ich bin übrigens unendlich enttäuscht das es uns nicht möglich ist irgendwelche Ketten zu zerschlagen. Egal wie stark die Dinger doch sein mögen, es muss doch wohl möglich sein die Teile ohne den richtigen Schlüssel aufzuschließen, insbesondere wenn man bedenkt das es sich ja doch um eine ziemlich grobe Kette handelt. Wie dem aber auch sei, wir besorgen also einen Schlüssel hauen Daedra um und am Ende haben wir die Ambition die anscheinend ein jüngerer Mann namens Sombren ist. Ist er die Ambition des Schlafes oder der Nacht? Ich kann die Namen ehrlich gesagt nicht deuten noch ist mir klar ob sie überhaupt etwas bedeuten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

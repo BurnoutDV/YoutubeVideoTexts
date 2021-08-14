@@ -772,6 +772,100 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #56
+
+* Titel: `Yakuza 3 Remastered - #56 - absolute Freiheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich präsentiere eine weitere Nebenmissionen Episode. Das alles ist ein wenig nervig. Mit Übersetzung bzw. Vertonung dauert es ungefähr 15 Minuten eine längere Nebenquest durchzuspielen, gelegentlich handelt es sich nur um kurze Situationen die sich schneller lösen lassen. Aber das weiß ich nicht vorher. Heute erleben wir drei schnelle Situationen die den Ankauf einer zweifelhaften Ware, eine Taxi und gelegentliche Überfülle durch übermotivierte junge Erwachsene beinhaltet. Also alles vollkommen normal im Leben des Kazuma Kiryu.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #57
+
+* Titel: `Yakuza 3 Remastered - #57 - verdächtige Passanten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man es genau sieht gibt es in Kamurocho eigentlich nur verdächtige Passanten. Alle Leute die sich in den umtriebigen Stadtteil herumtreiben sind in der Regel hier weil sie irgendetwas wollen, Vergnügen, Geld, einen warmen Arm oder irgendetwas anderes umtriebiges. Letztendlich spielt es aber keine Rolle was man will. Am Ende laufen die Leute so oder so Kiryu in die Arme und kriegen volles Pfund aufs Maul. Wirklich, das passiert andauernd und irgendwie ist es wirklich nervig. Man errät es bereits, wir machen heute noch mehr Nebenmissionen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #58
+
+* Titel: `Yakuza 3 Remastered - #58 - basierend auf einer wahren Geschichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kam in der Vergangenheit bereits öfter vor das Kiryu in Filmen auftragt. Eigentlich sogar ziemlich regelmäßig. Es gibt anscheinend in Hollywood relativ starke Vereinigungen die auf bestimmte Regelungen bestehen wenn es um das Filmemachen geht. Und es natürlich auch neuen Schauspielern unendlich schwierig macht überhaupt zu gelassen zu werden. Ich hatte einmal von dem Fall gelesen das irgendeine Passantin aufgenommen werden musste weil sie mehr als 5 Sekunden in einer Szene mit Redeanteil war. Das ist wie immer gefährliches Halbwissen, aber ich dachte ich probiere mal etwas Neues, Halbwissen nicht nur reden sondern im Nachhinein hinschreiben wo ich das sogar googlen könnte. Inhatlich mache ich heute übrigens nicht alles richtig,  anscheinend habe ich mir den Filmskript nicht perfekt durchgelesen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #60
+
+* Titel: `Yakuza 3 Remastered - #60 - angehender Comiczeichner [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird einmal mehr Zeit für gefährliches Halbwissen. Die Fakten legen sich wie folgt da. Viele Menschen, insbesondere in Japan üben sich darin irgenwelche Comics zu zeichnen und einige von ihnen sind sogar ziemlich talentiert. Das Manga-Geschäft als Solches ist eine ziemliche Kostenfrage und mit Merch kann man gute Kohle machen. Als Zeichner, wenn man nicht unbedingt ein Superstart ist, wird man aber nicht ziemlich berühmt. Daher ist eine Karriere als Manga-Zeichner nichts was ich den normalen Jugendlichen empfehlen würde. Der Fall heute scheint aber ein wenig anders zu sein. Der Kerl den wir treffen scheint ein gewaltiges Talent für das Zeichnen zu haben möchte aber aus familiären Gründen nicht in der Richtung weiter machen. Diese freie Entscheidung können wir natürlich nicht zulassen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #61
+
+* Titel: `Yakuza 3 Remastered - #61 - Familienzusammenführung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Regel ist Yakuza ein anscheinend ziemlich gesellschaftskritisches Spiel. Wirklich, ich gehe stark davon aus das hier eine echte kulturelle Nachricht drin ist. Sowas geht natürlich immer ein wenig verloren wenn man gar nicht aus dem Kulturkreis ist, aber das ist okay, zumindest weiß man etwas über Japan das man grob weiß um was es geht. Irritierend wird es aber dann wenn ein Gesellschaftsbild unterstützt wird mit dem man selber eher orthogonal steht. Heute zum Beispiel Familienbild. Wir haben den Fall das eine junge Frau weggelaufen ist, Grund dafür war ihr Vater. Der kündigt auch an das er Nami jede Menge zu erzählen hat sobald sie wieder zuhause sind, es klingt für mich ein wenig nach Schlägen. Und trotz das eindeutig dargestellt wird das sie aus guten Gründen davon gelaufen wird verkauft uns das Spiel das die beste Taktik ist wieder zurück nach Hause zu gehen. Sehr befremdlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #62
+
+* Titel: `Yakuza 3 Remastered - #62 - Neu in Tokio [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Damals in Okinawa haben wir eine neue Frau getroffen die ihr Glück in der großen Stadt versuchen wollte. Und man kann das auch irgendwie verstehen oder? Das Leben in einem kleinen Dorf kann ziemlich anstrengend sein, insbesondere wenn man einfach nicht mit der Art oder der allgemeinen Bedingung von eher ländlichen Gebieten klar kommt. Insbesondere das jeder jeden kennt kann manchmal ziemlich nervig sein, wenn dann die Dorfbevölkerung Nichts Besseres zu tun hat als andauernd zu lästern kann man vollkommen nachvollziehen warum es die Leute doch ein wenig aus der Provinz zieht. Das Stadtleben ist natürlich auch nicht so einfach, es gibt da doch schon einige Probleme zu überwinden, wie zum Beispiel die Miete...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

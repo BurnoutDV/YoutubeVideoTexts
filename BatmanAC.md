@@ -244,6 +244,104 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #17
+
+* Titel: `Batman Arkham City - #17 - Riddlers Geiseln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das uns der guten Edwar Nygma doch ein wenig mehr auf die Nerven gehen möchte als man ursprünglich angenommen hat. Übrigens fundamentiert sich da für mich auch die Erkenntnis das Arkham City eher eine Hölle für die kleineren Verbrecher ist, alle anderen Leute haben anscheinend alle Möglichkeiten der Welt hier drin und ich bin mir ziemlich sicher das die hier auch einfach heraus kommen könnten. Oder aber man hat all das vorbereitet als die Anlage noch erbaut wurde, aber so gesehen war die Anwesenheit von Batman in einer solchen Anlage auch eine absolut garantierte Geschichte. Etwas unschön ist das quasi unschuldige Menschen nur wegen Batman leiden müssen. Aber anders gesehen ist das auch nicht wirklich etwas Neues. Jeden Tag sterben Menschen weil Bruce Wayne nicht willens ist richtig die Kontrolle zu übernehmen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #18
+
+* Titel: `Batman Arkham City - #18 - Weg ins Museum  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach einer kurzen Ablenkung durch den Riddler hält uns jetzt nichts mehr auf den bösen bösen Pinguin zu bestrafen..außer vielleicht die Vordertür die anscheinend verschlossen ist. Das und die diversen Leute die überall woanders herumlaufen. Das und natürlich die diversen Störsender die der Pinguin anscheinend mit seinen vielen Geld gekauft hat. Eine Geschichte die nicht mit Geld alleine zu lösen ist. Man fragt sich doch ernsthaft wie er all die Mittel haben kann aber alle Ärzte die er bezahlt erklären ihm das er die Bierflasche nicht mehr aus dem Gesicht kriegt. Insgesamt halte ich den Pinguin für  einen der unrealistischsten Gegnern von Batman, klar, Scarecrow, Bane, Joker und Two-Face machen alle in irgendeinen Aspekt keinen Sinn, aber der gute Herr Cobblepot ist selbst in der seltsamen Batman Logic irgendwie komisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #19
+
+* Titel: `Batman Arkham City - #19 - U-Bahn Station [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich sind nicht alle Störsender einfach in hoher luftiger Höhe wo sie total logisch die Verbindung zum Hauptserver von Batman stören kann. Eigentlich übrigens recht interessant das die Spielzeuge der Fledermause ortsgebunden sind. Bisher nahm ich immer an das alles was er mit schleppt so hochtechnologisiert ist das es in sich und ohne weitere Unterstützung funktioniert, aber anscheinend ist eine Operation außerhalb von Gotham City nicht vorgesehen. Das hat direkt mehre Nachteile, wenn Batman zum Beispiel einen ebenfalls hochtechnologisierten Gegner vor sich hat der den Uplink zum Batcave überwacht gibt er damit a.) seinen eigenen Standort weg und b.) kompromittiert immerhin einen Teil seiner Infrastruktur. Ich bin selbst immer wieder überrascht wie wenige Dinge heutzutage noch Offline funktionieren, alles braucht irgendwie die Cloud oder funktioniert "as-a-Service". So wie Batman. Und dann geht die Logik komplett aus dem Fenster wenn man argumentiert das man einen Störsender in die ehemaliger U-Bahn stellt, weil das so viel Sinn ergibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #20
+
+* Titel: `Batman Arkham City - #20 - der Identitätsdieb [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich fange heute wieder einmal eine Mission an die irgendwie später dann weitergeht. Von einer Präsentationssicht gefällt mir das Alles übrigens überhaupt nicht. Andauernd mache ich irgendwelche Quests bzw. Anfänge ohne das es danach vernünftig weiter geht. Das stört vor allem deswegen weil ich ja eigentlich immer sehr bemüht bin Dinge in guter Reihenfolge und zusammenhängend zu erledigen. Leider ist mir das aktuell nicht möglich und wir müssen uns wohl weiter mit relativ gestückelten Informationen abfinden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #21
+
+* Titel: `Batman Arkham City - #21 - Museums-Foyer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder im Museum. Es hat uns wirklich nur einige Zeit und einen Abstecher in die Kanalisation gekostet. Davon abgesehen das wir scheinbar in Lebensgefahr schweben weil wir schwer vergiftet wurden geht es uns ja eigentlich noch ziemlich gut. Dieses Mal kommen wir aber weiter als nur die Eingangstür, die lächerlichen Sicherheitsvorkehrungen der Stadt können uns auf jeden Fall nicht mehr halten. Und da wir jetzt gut weiter kommen finden wir heraus das es scheinbar doch noch Recht und Gesetz in Gotham gibt. So wie es aussieht hat der gute Gordon (welchen Rang auch immer er grade hat) ein paar Leute in die Anstalt geschickt. Was genau die da machen sollen ist mir übrigens nicht klar aber wir können sie immerhin retten. Das ist ja was wert oder? Gibt Heldenpunkte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #22
+
+* Titel: `Batman Arkham City - #22 - Pinguins Arena [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen Gründen haben Bösewichte in Batman immer ausreichend Mittel um sowohl ihren Leuten ein gutes Gehalt, Ausrüstung und Unterkunft zu bieten aber auch um gewaltige Arenen mit einer Menge Rätsel zu erbauen. Währenddessen auf der anderen Seite der Wand verhungern die Bürger Gothams und allgemein scheint es der Gesellschaft nicht besonders gut zu gehen. Insbesondere die Bildungsausgaben erscheinen mir doch ein wenig gering. Man könnte durchaus sagen das es hier ein gutes Argument dafür gibt sich den "Bösen" anzuschließen. Die haben scheinbar alles und es lohnt sich. Natürlich ist die Rekrutierung des Pinguins auch ein bisschen grausam, dennoch frage ich mich wirklich warum man sich grade Cobblepot anschließen sollte, von allen Bossen scheint er mir einer der unangenehmsten zu sein, und dann auch noch diese ganze Battle Royal Geschichte, ich weiß ja nicht...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #23
+
+* Titel: `Batman Arkham City - #23 - leichte Erfrierungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Pinguin hat Mr. Freeze entführt, irgendwie passt das ja ziemlich gut zusammen oder? Beide haben irgendwie ein arktisches Thema und das muss man natürlich auch irgendwie bewahren. Allerdings ist Mr. Cobblepot in der Regel nicht besonders gut daran experimentelle Technik zu erhalten einfach weil er sie nicht selber bauen kann und nicht alles steht zum Verkauf. Allerdings kann man günstig Muskelkraft erstehen und mit der kann man dann Wissenschaftler entführen die besagte Technik bauen. Leider braucht es dafür immer noch Zeit und Geduld, irgendwie habe ich aber das Gefühl das Geduld ein echtes Problem ist. Um die Geschichte kurz zu machen, der Pinguin hat die "Freeze Gun", die hat er natürlich geklaut und das stellt jetzt ein Problem für uns da. Ich bin aber ehrlich gesagt ziemlich überrascht das er das Gerät überhaupt selber benutzt. Von einem Mann wie dem Pinguin hätte ich eigentlich nicht erwartet das er sich überhaupt die Hände schmutzig macht, aber wahrscheinlich hat er ein Vertrauensproblem gegenüber seinen Männern. Überraschend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

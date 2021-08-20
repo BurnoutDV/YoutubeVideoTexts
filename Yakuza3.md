@@ -814,14 +814,18 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
-##### #Nummer
+##### #59
 
-* Titel: ``
+* Titel: `Yakuza 3 Remastered - #59 - Laufen für Geld [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Nach dem großen Kassenschlager, Schlagen für Geld und Ausweichen für Geld kommt jetzt die neuste Ausgabe im Geld auf der Straße machen, sie nennt sich "Laufen für Geld". Das Prinzip ist ziemlich einfach, wir müssen solange weg rennen bis unseren Verfolger die Puste ausgeht. Das ist eigentlich recht witzig weil wir die gleiche Mechanik erst neulich genutzt haben als wir vor den Bullen weg rannten. In einer dicht bevölkerten und  vor Allem belaufenen Stadt vor irgendjemanden weg zu laufen ist aber alles Andere als leicht, und so handelt es sich hier um eine echte Herausforderung, ärgerlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
 ##### #60
@@ -866,12 +870,72 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
-##### #Nummer
+##### #63
 
-* Titel: ``
+* Titel: `Yakuza 3 Remastered - #63 - Photo Erkenntnis [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Das was uns heute droht und das auch direkt mehrfach wird uns in Zukunft noch einige Male passieren. Wir wollen schließlich neue Fähigkeiten erlangen, dafür müssen wir aber auch Fotos von besonderen Ereignissen machen. Interessant ist eigentlich für mich das sich die Entwickler tatsächlich eine irgendwie ziemlich kreative Methode ausgedacht haben wie man sowas lustig und gleichzeitig auch ein wenig spannend verstecken kann. Allerdings kann ich mir vorstellen das es auf Dauer schon ziemlich anstrengend sein könnte all die Bilder zu machen und die richtige Beschreibung zu finden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #64
+
+* Titel: `Yakuza 3 Remastered - #64 - der Geldbeutel der Fremden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ursprünglich hieß diese Episode in meinem Notizbuch ein wenig anders und dann habe ich es mir doch noch einmal anders überlegt. Alternativen waren "die Straße des Scams" und "das fremde Portmonee". Beide Varianten hatten etwas aber diese Variante klingt mysteriöser auch wenn sie ein wenig die Realität biegt. Natürlich versucht man den guten Kazuma mal wieder abzuziehen. Das passiert andauernd. Irgendwie sieht er viel zu sehr nach einem guten Ziel aus. Das Ganze endet übrigens mit einer komischen Lebenslektion. Ich bin mir nicht so richtig sicher was ich davon halten soll, aber letztendlich spricht der gute Kiryu wohl der Frau in der Bande die Fähigkeit ab selber zu entscheiden obwohl man wohl durchaus von einem Abhängigkeitsverhältnis reden könnte. Wie dem aber auch sei, es kann durchaus sein das ich da zu viel rein interpretiere, wir behalten auf jeden Fall unser Geld heute dicht am Mann. Man weiß ja nie wie viele Taschendiebe hier noch rumrennen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #65
+
+* Titel: `Yakuza 3 Remastered - #65 - Ladendetektiv Kiryu [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist immer wieder beachtliche welche Rollen im Leben ein Kazuma Kiryu annimmt. Heute sind wir zum Beispiel Ladendektiv und könnten diese Aufgabe anscheinend immer wieder übernehmen. Allerdings stellt sich heraus das ehrliche, harte Arbeit leider nicht so gut bezahlt wird wie nicht ganz so ehrliche aber dafür lohnenswerte Arbeit. Kurzum, irgendwelche Punks auf der Straße zu verprügeln und um ihr Essensgeld zu bringen ist wesentlich effektive als stundenlang in einem Supermarkt rumzustehen und zu versuchen irgendwelche Ladendiebe zu erkennen die sich am Ende als unbescholtene Bürger herausstellen. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #66
+
+* Titel: `Yakuza 3 Remastered - #66 - Kavalier Rikiya [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist es endlich soweit, wir treffen unseren besten Kumpel Rikiya ans Okinawa endlich einmal wieder. Zur Erinnerung, eigentlich wollten wir dafür sorgen das er zurückbleibt weil Kiryu entschieden hat das die große Stadt nicht direkt ein Ort für jemanden der nur das kleinstätische Leben gewöhnt ist ist. An sich ist das auch ganz witzig, Rikiya bildet hier also quasi den Gegensatz, das Kontra zu Kiryu der schon alles gesehen hat und in der Regel mehr als nur ein wenig abgeklärt ist. Rikiya ist zwar auch schon ein wenig älter aber dennoch immer noch irgendwie unerfahren was die Welt angeht, und gleichzeitig stolz auf seine Herkunft. In der großen Stadt kann er natürlich nicht anders als irgendwelche Frauen in Not zu retten. Also auch nicht viel anders als Kiryu die Situation angehen würde.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #67
+
+* Titel: `Yakuza 3 Remastered - #67 - rote Ziegel Hotel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt eine kleine Meta-Information über diese Episode. Es ist die Erste die ein richtiges Thumbnail hat, im Nachhinein merkt man das natürlich nicht mehr weil ich die vorherigen Episoden auch ausgerüstet habe, aber dies ist die Erste die direkt mit einer "released". Weitere Meta-Information, ich bin immer noch sehr bemüht Orte möglichst wortwörtlich anstatt sinngetreu zu übersetzen, das spare ich mir für die Dialoge auf. Ich habe schon damals in Englisch eiskalt die "Hole Road" mit Lochstraße übersetzt. Klar, das war ein kleiner Meta-Joke des Schulbuchschreibers aber ich wollte das trotzdem übersetzen. Fand das Englischlehrerwesen nicht gut. Macht man ja auch nicht. Beim roten Ziegelstein Hotel handelt es sich übrigens um ein Stundenhotel für kurze Aufenthalte ohne richtige Übernachtungen, ihr wisst schon, die Art von Einrichtung in der man seine Liebschaft trifft und sich intensiv küsst. (Jetzt frage ich mich ob Youtube Beschreibungen für bestimmte Wörter scannt, wahrscheinlich, schon komisch das mit der Selbstzensur.)
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```

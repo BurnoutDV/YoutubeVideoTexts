@@ -3787,6 +3787,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1501
+
+* Titel: `Let's Play ESO #1501 - Bericht des Meisterspions [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 76 des Blackwood DLCs - Sitzung 12
+  
+  Eigentlich ist heute fast schon eine Füllerepisode. Als Erstes reden wir mit diversen NPCs die bei anderen Missionen halt irgendwie so übergeblieben sind. Sie haben überlebt und können jetzt noch von ihren Abenteurer erzählen, etwas traurig ist zu hören das das große Minotaurenhorn leider zurückgelassen werden musste, damit geht ein gutes Stück Familienvermächtnis verloren, hätte die gute Frau mal vorher ein wenig Kampfmagie erlernt. Außerdem erfahren wir was aus der Beziehung mit dem Geist geworden ist, hier fürchte ich könnte es eher ziemlich schwer werden einen Körper zu finden, obwohl das auch nicht völlig unmöglich sein sollte. Nur für den Fall das das mal aufkommt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1502
+
+* Titel: `Let's Play ESO #1502 - Tee-Wan, Meisterspion [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 77 des Blackwood DLCs - Sitzung 12
+  
+  In der letzten Episode gab es noch ein großes Herumraten wer eigentlich der Meisterspion von Keshu sei, das Wesen bei dem all die Informationen zusammenlaufen die man so braucht wenn man seine Macht für irgendeine Dauer von Zeit halten will. Das muss nicht einmal besonders sinister sein, es wäre einfach nur blauäugig zu glauben das man als "Kraft des Guten", mit scheinender Rüstung einfach so regieren kann und das Leben der Menschen verbessern kann ohne das sich irgendwo eine Opposition bildet. Letztendlich gibt es wohl gute legitime Gründe eine Geheimdienst am Leben zu halten, allerdings muss man irgendwie sicherstellen das nicht eben genau dieser Geheimdienst am Ende die Macht ist die sich als Problem heraus stellt. Man muss hier sogar extra vorsichtig sein, was wenn das Frühwarnsystem infiltriert wird? Besser niemand weiß wer dafür überhaupt verantwortlich ist. Heute erfahren wir dann aber doch wer das alles verwaltet, anscheinend ein ehemaliger Weggefährte von Keshu, ein Argonier mit Namen Tee-Wan.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1503
+
+* Titel: `Let's Play ESO #1503 - feurige Liebe [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 78 des Blackwood DLCs - Sitzung 12
+  
+  Manchmal bin ich ein wenig erstaunt wenn uns das Spiel Geschichten erzählt die eigentlich gar nicht so schlecht klingen. Auffällig ist natürlich das wieder einmal Liebe ein zentrales Element ist. Ich frage mich aber ernsthaft ob Daedra wirklich in der Lage sind Emotionen zurück zu fühlen, weil letztendlich haben sie dazu ja eigentlich keinen Grund, so weit ich das verstanden haben reproduzieren sich Wesen aus den Ebenen von Oblivion nicht so wie es Menschen tun. Allerdings kann man das wohl damit weg erklären das die menschliche Wahrnehmung die Realität verändert, das ist generell und überhaupt übrigens ein schönes Mittel um dafür zu sorgen das Dinge die eigentlich nichts mit Menschen zu tun haben am Ende doch von ihnen beeinflusst werden, einfach weil es so viele von ihnen gibt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1504
+
+* Titel: `Let's Play ESO #1504 - Xocin, der Magier [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 79 des Blackwood DLCs - Sitzung 12
+  
+  Heute erfahren wir mehr wie es dazu kommen konnte das ein argonischer Magier sich in irgendwelchen Random-Daedra verlieben kann. Ich weiß übrigens nicht wie lange genau Argonier eigentlich so im Durchschnitt leben aber diese Diskussion kommt ja öfter auf wenn es um die Beziehung mit potenziell Unsterblichen geht. Letztendlich könnte sich Xocin aber wahrscheinlich nach dem Ableben seines argonischen Körpers wohl anderweitig umsehen sofern genügend Wille dazu besteht. Generell übrigens sehr interessant wie ich nach und nach Körper und Verstand als separierte Entitäten sehe, ich bin mir ziemlich sicher das Altered Carbon daran schuld ist. In den meisten Fantasiewelten ist das aber durchaus nahe dran wie es wirklich funktioniert, und wahrscheinlich auch der innige Wunsch der Menschen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1505
+
+* Titel: `Let's Play ESO #1505 - Xyrias Beschwörung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 80 des Blackwood DLCs - Sitzung 12
+  
+  Wir haben uns jetzt all die Mühe gemacht den Argonier Xocie zu finden der sich anscheinend in eine Daedra namens Xyria verliebt hat. Und sie auch in ihn? Hat sie zumindest behauptet, Tatsache ist aber wohl das die gute Xyria es nicht ganz so einfach in ihrer Heimatebene hat,  verfolgt vom eigenen Clan, generell und überhaupt verachtet und irgendwie andersartig. Allerdings frage ich mich wie genau sie eigentlich anders als die Anderen ist. Bisher haben wir relativ wenig von der Individualität von Daedra gehört, aber es gibt da wohl Unterschiede. Der Zyniker in mir sagt auch das Xyria uns verkaufen könnte um wieder ins Reine mit ihren alten Clan zu kommen. Sie könnte damit ihre Existenz wesentlich einfacher machen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

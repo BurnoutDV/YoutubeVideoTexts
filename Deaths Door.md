@@ -240,12 +240,72 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
   ```
 
-##### #Nummer
+##### #18
 
-* Titel: ``
+* Titel: `Death's Door - #18 - die alte Lords [Lets Play, blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Einen der alten Lords haben wir bereits getroffen als wir das letzte Mal in Festung Schlüsselstein waren, aber dieses Mal wollen wir den Weg weiter fortsetzen, und dafür müssen wir irgendwelche Feuerkessel anzünden. Daher benutzen wir unser neusten Werkzeug um uns zu schwingen und gleiten zu lassen. Auch interessant ist das die Feste durchaus noch ein paar schöne Rätsel für uns zu bieten hat. Das ist irgendwie auch erfreulich, so im großen Schema der Dinge.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #19
+
+* Titel: `Death's Door - #19 - Lager  der freien Krähen [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie war es ja schon klar das es noch eine Oppositionspartei zu der alten Kommission der Schnitter gibt. Letztendlich erfahren wir ziemlich wenig über die Welt von Death's Door aber das wäre auch nicht wichtig. Am Ende spielt eh alles auf der alten Insel statt wo auch die Tür des Todes steht. Daher ist es von eher geringer Konsequenz das es scheinbar ein Lager der alten Krähen gibt, kaufen können wir dort nichts aber schön das es immerhin eine Art zweiten Rückzugsort gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #20
+
+* Titel: `Death's Door - #20 - die letzten Schreine [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein wenig anfällig dafür Dinge vollständig machen zu wollen. Zum Glück ist Death's Door in dieser Hinsicht ziemlich hilfreich. Andere Spiele lassen einen am langen Arm verhungern wenn es um das Auffinden von irgendwelchen Geheimnissen geht, hier ist der Fall ein wenig anders gelagert. Es gibt da einen hilfreichen Fischer der uns all die Informationen mitteilt die wir schon immer wissen wollte. Das weiß ich sehr zu schätzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #21
+
+* Titel: `Death's Door - #21 - Betty [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt drei große Seelen da draußen die darauf warten von uns geerntet zu werden. Zwei haben wir bereits, ihre ehemaligen Halter hatten ein langes und anscheinend auch ziemlich erfülltes Leben, ihre Zeit haben sie, soweit würde ich jetzt mal mit einer Behauptung gehen, sehr intensiv genutzt und zu schätzen gewusst. Und dann kam halt diese Krähe an und hat all dem ein Ende gesetzt. Heute kümmert sich unsere kleine Dohle dann auch um die Letzte der großen Seelen. Es handelt sich anscheinend um ein  Wesen namens Betty, eine andere Krähe hat sich in sie verliebt, eine größere Anzahl anderer Krähen hat sie wohl nicht überlebt. Es handelt sich scheinbar um einen Yeti..und bald bald auch einen Plüschteppich. Aber Eines nach dem Anderen. Nicht immer sind die Dinge so einfach.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #22
+
+* Titel: `Death's Door - #22 - die andere Seite der Tür [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir quasi beim großen Finale angekommen. Anhand der länge der Episode kann man schon sehen das hier eine Menge passiert. Wir haben Betty besiegt und damit sind wir dann endlich bereit die große Tür zu öffnen. Man sagt das es sich um die Tür des Todes handelt. Allerdings ist eigentlich gar nicht so richtig klar wie das gute Stück zu seinem Namen gekommen ist. Es ist schon mal sicher anzunehmen das wir das Ding natürlich auch aufkriegen. Alle anderen Türen die wir bisher gesehen haben hatten uns irgendwo anders hingebracht, meistens zurück in die Kommission, einige Wenige in kleine Taschendimensionen in denen wir stumme Wächter besiegt haben..aber wohin wird uns diese Tür führen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
   ```

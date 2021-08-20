@@ -342,6 +342,77 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #24
+
+* Titel: `Batman Arkham City - #24 - Monsieur Frost [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich heißt er Mister Freeze aber ich habe mir überlegt wie wir ihn am besten eindeutschen und diese Variante gefällt mir bis jetzt ziemlich gut. Also, wie dem aber auch sei, Frosty ist eigentlich gar nicht so richtig unser Ziel. Klar, der hat wichtige Informationen für uns aber an sich handelt es sich wieder nur um einen Stein in der großen Mauer unserer Geschichte. Solange der Pinguin aktiv ist bringt uns aber der gute Mr. Freeze sowieso nichts, auch wenn er ein Monsieur oder Señor ist. Einfach nutzlos der Typ, und selbst dann, wer weiß ob er dann wirklich erledigen kann was Joker von ihm wollte, das hat ja auch niemand behauptet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #25
+
+* Titel: `Batman Arkham City - #25 - der unsterbliche Grundy [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist keine große Überraschung das ein Typ wie der Pinguin keinen großen Bosskampf selber führt. Klar, der Mann ist eher dafür bekannt bezahlte Schläger zu haben die dann das tun was er möchte. Ob er wirklich gut darin ist irgendetwas zu organisieren? Ich kann es ehrlich gesagt nicht sagen, so richtig viel vom Genie des Pinguin haben wir noch nicht gesehen. Bei Joker sieht man ja immer wieder gerne das der ganze Wahnsinn irgendwie System hat und am Ende laufen all die Stränge die nach erratischen Verhalten aussehen zusammen und ergeben einen erschreckend geplanten Plan. Beim Pinguin drängt sich mir eher der Eindruck auf das er halt Geld auf das Problem wirft und auf das Beste hofft. Nicht immer mit größten Erfolg.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #26
+
+* Titel: `Batman Arkham City - #26 - Blutspur [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen das es jemanden gibt der genau das hat was wir brauchen. Ich kann jetzt schon einmal sagen das es noch mindestens 7 Episoden dauert bis wir tatsächlich am Ort der Tatsache ankommen. Das liegt aber auch daran das ich mich leicht ablenken lassen. Immerhin schön wie leicht sich die Assassinen der League of Assasins aufbringen lassen. Man würde doch eigentlich erwarten das Attentäter durchaus ein wenig Selbstbeherrschung kennen. Das könnte durchaus helfen Dinge zu tun wenn es darauf an kommt. Auf der anderen Seite weiß ich überhaupt nicht was die League of Assassins eigentlich den ganzen Tag macht.  Agent 47-artige Attentate scheinen es eher nicht zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #27
+
+* Titel: `Batman Arkham City - #27 - Dachrätsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Riddler weiß genau, hätte er kein Druckmittel um Batman dazu zu bringen irgendwelche seiner Rätsel zu lösen würde der maskierte Rächer einfach gar nichts tun. Aber unser Stand ist das irgendwelche armen Seelen darauf warten von der Fledermaus gerettet zu werden, und es kann einfach nicht sein das irgendjemand stirbt nur weil Batman zu langsam oder zu dumm war. Schließlich handelt es sich um den besten Detektiv der Welt, nicht wahr? Ich frage mich übrigens mittlerweile wo das her kommt, dieses "beste Detektiv der Welt". Ist das etwas das die Comic Zeichner einfach so definiert haben, behauptet das irgendjemand der Batman kennt, Gordon vielleicht. Weil die Aussage wirkt schon ein wenig überspitzt. Menschen neigen dazu multi-facettierte Eigenschaften eher linear zu bewerten, siehe auch Personalgespräche. Wenn irgendetwas durch viele Eigenschaften beschrieben werden kann macht man ganz schnell ein Punktesystem und hat dann nur noch eine Skala, die Realität sieht natürlich anders aus. Wie dem aber auch sei, unser mittemäßig begabter Detektiv steht heute trotzdem viel auf Dächern und löst Rätsel. Weil er neugierig ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+
+##### #28
+
+* Titel: `Batman Arkham City - #28 - die Spur des Assassinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach der kurzen Ablenkung die da die letzte Episode gewesen ist sind wir jetzt wieder auf Kurs. Wir erinnern uns schnell, nachdem wir Dr. Gefroren befreit haben der ursprünglich das Heilmittel für die Titanvergiftung des Jokers heilen sollte mit der er auch uns infiziert hat eröffnete Frosty uns das er die Krankheit nicht heilen könne ohne ein bestimmte Enzym. Monsieur Fledermaus hat dann sofort die Struktur des Proteins/Enzym/WasAuchImmer erkannt und wusste das eine alte Person wie Ras al-Ghul genau das Richtige wäre. Der ist anscheinend auch in diesem Teil der Stadt und wir müssen ihn nur noch finden. Dafür verfolgen wir einen Assassinen der Liga der Attentäter den wir vorher dazu gebracht haben sich selbst zu verletzen. Und das machen wir jetzt wieder. Wir treffen außerdem Robin, kurz. Aber der Junge kann eh nichts, also lassen wir ihn zurück.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

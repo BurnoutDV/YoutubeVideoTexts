@@ -413,6 +413,90 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #29
+
+* Titel: `Batman Arkham City - #29 - Geiselhüttchenspiel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Riddler ist immer nur so schlau wie ihn seine Schreiber machen. Hier sehe ich ernsthaftes, gewaltiges Potenzial nach oben. Einfach schon weil es so scheint als wäre der Riddler heute betrunken gewesen als er das Rätsel des Tages aufgestellt hat. Wir sollen raten wo eine Geisel hin ist nachdem sie verschwindet, natürlich schaffen wir das auch. Aber mit so einer Leichtigkeit das ich mich ernsthaft fragen muss wer jemals dachte das es sich hier um eine Herausforderung handelt. Insbesondere wenn man bedenkt das der Weg hier her wesentlich schwerer war. Schon ein wenig seltsam das Alles. Aber hey, am Ende ist eine weitere, größtenteils unschuldige Person frei.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #30
+
+* Titel: `Batman Arkham City - #30 - Kanalarbeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Arkham City ist ein Bereich von Gotham der scheinbar komplett von der Außenwelt abgeschlossen ist. Das ist gar nicht so weit zu bewerkstelligen wenn man bedenkt das es so etwas wie die Luft aber auch die Kanalisation gibt. In Letzterer halten wir uns dann heute auch auf und finden dann irgendwelche lustigen Dinge, größtenteils aber auch das Blut von Ras al-Ghul, es sieht nämlich so aus als würde uns ziemlich schnell die Zeit davon laufen und das ist wirklich unangenehm. Sterben meine ich. Auch wenn ich noch nicht ganz verstanden habe warum Batman jetzt so schnell umkippt obwohl der Joker wohl in der Lage war damit einige Monate umher zu laufen. Mysterien über Mysterien.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #31
+
+* Titel: `Batman Arkham City - #31 - Wonder Tower Fundament [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe in einem Kommentar spekuliert wie man den Grafikstil eigentlich nennt den wir im Keller von Arkham City finden und hatte gesagt es könne sich um "Art Decó Retrofuture" handeln. Das war nahe dran. Wenn ich spontan google finde ich Dinge wie "Retro Futurism" und und einfach nur Art Decó also würde ich einfach mal vermuten das das schon passt. Die gesamte Batman Welt ist ja irgendwie nach einer wilden Mischung aus New York der 20er, 30er, 50er und 70er Jahre. Eventuell gibt es auch ein wenig 80er Jahre darin. Sicher ist das wir kein Internet in der Welt finden. Generell funktioniert wahrscheinlich Vieles auch einfach nicht so gut in der Welt des Internets. Wahrscheinlich einer der Gründe warum viele Katastrophenfilme erst einmal mit einem Stromausfall anfangen. Man muss ja irgendwie die Bühne vorbereiten nicht wahr? Ich mochte zum Beispiel auch die seltsame 50/60er Jahre Moderne von Archer die auch die Technik ziemlich wild gemischt hat. Irgendwie hat die Vergangenheit in ihrer kruden Ausführung auch etwas Interessantes. Auf der anderen Seite hat man dann auch meistens die neuste Technik aus der Era im Blick, die restliche Bevölkerung hat sich noch mit Pferdekarren auseinander gesetzt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #32
+
+* Titel: `Batman Arkham City - #32 - Wonder City [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine Stadt voller Wunder. Man wird mit dem Alter zynischer. Wenn einem als Kind jemand von einem wunderbaren Ort an dem alles besser ist erzählt wird dann glaubt man das oder man wird unfassbar gehyped. Klappt übrigens auch mit vielen anderen Dingen, nicht nur Orte. Wenn mir jemand erzählt das es einen Ort namens "Wonder City" gibt fühle ich mich bereits verarscht bevor ich auch nur eine Sache über die Gesamtveranstaltung weiß. Daher ist es wohl nicht verwunderlich das ich heute extra zynisch bin. Wonder City hat sich total überraschend natürlich als eher negative Geschichte herausgestellt. Was mich aber eher verwundert ist das ich glauben soll das sich irgendeine Regierung bzw. Verwaltung darum gekümmert hat irgendwelche Leute zu retten. Auch hier bin ich zynisch, so funktioniert die Welt in meiner Erfahrung nicht. Wenn es um die Fürsorge Dritter geht gibt es da entweder harte gesetzliche Vorgaben auf die man handeln muss weil es Druck von oben gibt oder irgendjemand hat persönliche Motivation etwas zu tun. Aus Gutherzigkeit rettet nur Batman die Leute, und selbst der will ja eigentlich nur sein Ego streicheln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #33
+
+* Titel: `Batman Arkham City - #33 - Prüfung des Dämonen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend nennt man Ras al-Ghul auch den Dämonen. Ich nehme mal an das sein Ursprung irgendwo fernöstlich liegt aber da der Typ von einem Zeug namens Lazarus abhängig ist lebt er jetzt wohl ziemlich dauerhaft in Gotham. Ich weiß nicht viel über die Gotham Schurken außer dem was in den drei Nolan Filmen und der Spieleserie bis her vorkam, aber ich dachte eigentlich das der gute Ras eigentlich ein wenig heimlicher ist und man ihn nur in absoluten Ausnahmesituationen gegenübertritt. Vor allen Dingen hätte ich ihn auch eher für eine Art Strategen gehalten der nur sehr selten, um nicht zu sagen, nie selber physisch aktiv wird. Leute in Schlangengruben oder lichtlose Löcher werfen _lassen_, sofort. Aber das selber übernehmen? Eher nicht. Und doch scheint es so als würde der alte Mann heute selber aktiv werden..sobald er wieder von den Toten auferstanden ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #34
+
+* Titel: `Batman Arkham City - #34 - die Blutprobe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An der heutigen Episode habe ich relativ wenig auszusetzen. Wirklich. Wir holen uns eine Blutprobe von Ras al-Ghul, klar, das hat beim ersten Mal nicht so gut geklappt aber der dritte Versuch wird bestimmt eher klappen. Das Blut enthält eine bestimmte Komponente die Freeze braucht um das Gegenmittel herzustellen. Hinterher werden Dinge geschehen die das alles ein wenig wieder ins Lächerliche ziehen und das was ich hier noch annehme invalidierter. An sich stelle ich mir das halt so vor das das Blut halt eine gewisse Kombination hat die Freeze ansonsten mittels Try & Error herausfinden müsste. Das würde echt lange dauern, insbesondere wenn er keinen echten Testaufbau hat um das Problem anzugehen. So weit so gut, ich stimme also tatsächlich mal der Geschichte zu. Schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

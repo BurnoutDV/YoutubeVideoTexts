@@ -309,3 +309,62 @@
   Death's Door hat keinen festen Streamtermin
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
   ```
+
+##### #23
+
+* Titel: `Death's Door - #23 - Mitternacht [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Betty, die graue Krähe und auch der Herr der Türen sind besiegt. Aber nur weil alle wichtigen Bosse überwunden sind heißt das für uns ja noch lange nicht das wir jetzt aufhören. Nein, es fehlt noch Einiges. Und ein wichtiger Schlüssel für unser weiteres Vorgehen ist der Zugang zum Glockenturm. Zeit funktioniert anscheinend ein wenig seltsam in der Welt in der wir uns befinden, vielleicht auch nur auf dieser Insel. Aber auf jeden Fall ist es jetzt Mitternacht und nicht mehr Tag. Das bedeutet das die Dinge jetzt auch ein wenig anders sind als vorher, insbesondere weil es jetzt Orte gibt die wir vorher nicht betreten konnten. Es zeigt sich eine ganz neue Welt..irgendwie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #24
+
+* Titel: `Death's Door - #24 - die großen Türen [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stellt sich doch glatt heraus das es drei große Türen in der Welt gibt, bzw. auf der Insel. Das wusste ich natürlich schon und daher müssen wir jetzt nur noch herausfinden was zu tun ist um diese Türen zu öffnen. Eigentlich ist es gar nicht so schwer es ist nur so das wir die Türen vorher nicht öffnen konnten weil es Tag war. Jetzt ist es ein wenig anders und die großen Türen sind nicht mehr unmöglich zu öffnen. Jetzt nur noch ein wenig umherlaufen...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #25
+
+* Titel: `Death's Door - #25 - ein letztes Begräbnis [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da eine Person die wir in der Vergangenheit versucht haben zu töten und es hat einfach nicht funktioniert. Sterben in der Welt von Death's Door ist ein wenig komisch. Auf der einen Seite erzählt uns der Tod das man wohl seine Arbeit zu schätzen wusste und das die Schnitter quasi eine ähnliche Aufgabe übernommen haben und die Seelen eingesammelt haben, auf der anderen Seite scheint es Individuen die nicht mit der Welt abgeschlossen haben weiter zu persistieren. Quasi wie eine Art Geist der nur anstatt rumzuspuken einfach nicht stirbt. Besser noch, die Wesen die sich geweigert haben zu gehen bleiben auch in ihrer fleischlichen Gestallt UND werden stärker in ihrer Form. Eigentlich ganz praktisch so wie es aussieht. Wenn ich so darüber nachdenke, bei Allem was wir so wissen. Kann es sein das die Mühen der Urnenhexe eigentlich nur durch Zufall nicht funktioniert haben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+##### #26
+
+* Titel: `Death's Door - #26 - das 100% Ende [Lets Play, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt echt selten vor das ich ein Spiel vollständig durchspiele, also mit quasi Platintrophäe, obwohl das technisch gesehen bei Death's Door nicht der Fall ist, dafür müsste ich alle Gegner mit dem Schirm besiegen ohne jemals eine andere Waffe zu nehmen, und das könnte auf Dauer ganz schön hart werden. Ich sehe mich noch nicht einen derartigen Run zu vollziehen. Aber alles was man im Spiel so einsammeln kann, das habe ich. Und damit kann ich dieses Spiel auch beenden, der Spielspaß für das aufbrachte Geld steht in jedem Fall in einem guten Verhältnis. Ich fühlte mich gut unterhalten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Death's Door hat keinen festen Streamtermin
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wP30FSOnH8_2ppUqi9a9QzJ
+  ```
+
+## Fazit
+

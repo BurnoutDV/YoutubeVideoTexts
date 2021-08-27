@@ -136,3 +136,103 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
+
+##### #10
+
+* Titel: `KotoR - #10 - Tanz und Musik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind immer noch in der Cantina, keine Überraschung, ein solcher Ort ist voller interessanter Menschen und anderer Wesen, die Gespräche mit solchen Wesen dauern natürlich an und so kommt es das wir heute wieder einmal einige Dialoge führen. Es hat übrigens ziemlich lange gedauert bis ich die Genialität der Fremdsprachen zu würdigen gewusst habe, nämlich mindestens noch bis Episode 15. Für all die Leute denen es auch nicht sofort klar ist: Normalerweise, wenn man ein Spiel vertont schränkt das die Tiefe und Anzahl von Erklärungen und sonstiger Inhalte erheblich ein, auch müssten spätere Ideen verworfen werden wenn das Voice Acting schon bestimmt ist. Wenn man allerdings nur die wichtigsten Charaktere Basic sprechen lässt und der Rest mumpelt irgendwas rum kommt man mit wenigen Minuten Twilek_Female_A, Hutte_B und Rhodianer_Male_C perfekt durch, am Ende hat man pro Rasse und Geschlecht vielleicht zwei oder drei Sprecher und kein Schwein merkt da sich das Zeug wiederholt wenn man irgendwelche Teile eines 10 Minuten Geblubber Teil hat. Großartig! Damit wird ein logistisches Problem ein Technisches, ein technisches Problem das man genau einmal lösen muss damit sich nichts zu repetitiv klingt und schon steht die Laube.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #11
+
+* Titel: `KotoR - #11 - Zax der Hutte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die untere Cantina ist übrigens eine genaue Kopie der oberen Cantina, das werden wir dann später noch sehen. Für den Moment treffen wir aber einen Hutten, für die uninformierten, das ist so ein Vieh wie "Jabba the Hutt", ihr wisst schon, Jabba der Hutte. Mir war das auch nicht so ganz bewusst und ich bin mir für den Moment auch grade nicht einmal sicher ob man das so schreibt. Interessant ist an den Viechern übrigens das sie scheinbar immer in irgendwelchen Machtpositionen sind. Immer. Wo sind bitte schön die anderen Hutten? Weil die ganze Spezies kann ja nicht aus fetten Würmern bestehen die in irgendwelchen Palästen rumliegen und Befehle erteilen. Ich nehme mal an das es dünnere Viecher davon gibt die eher gewöhnlicheren Jobs nachgehen. Weiter stelle ich mal die Vermutung in den Raum das Hutten ziemlich schlau sein müssen, anders kann ich mir nicht erklären wie sie andauernd in Positionen landen bei denen sie nur doof rumliegen müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #12
+
+* Titel: `KotoR - #12 - Carth's Offenbarung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute zeigt sich mal wieder das man nur lange genug freundlich aber bestimmt vorgehen muss und schon erreicht man alles was man will. Das klappt heute übrigens tatsächlich, ich habe Carth jetzt so lange bearbeitet das er uns heute tatsächlich einige Dinge erzählt die er vorher nicht erwähnt hat. Das ist irgendwie schön. Auf der anderen Seite nervt mich genau dieses Verhalten ziemlich sehr, man trifft es gerne auch bei alten Leuten an weil sie zu der Generation gehören wo viele Entscheidungen wirklich noch an Menschen hingen. Wenn ich eine Entscheidung treffe und die Antwort nein lautet gibt es natürlich immer eine Chance das es nur eine Laune war, aber viel öfter macht langweilige Physik nicht mit oder es ist finanziell so haarsträubend das es sich nicht einmal lohnt darüber nach zu denken. Wie dem aber auch sei, Carth erzählt uns heute außerdem noch Dinge die wir eigentlich wissen sollten aber anscheinend sind wir ein wenig hart aufgekommen und können uns daher nicht mehr erinnern. Ziemlich praktische Erklärung eigentlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #13
+
+* Titel: `KotoR - #13 - Cantina der Oberstadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnt bereits das es sie gibt, heute besuchen wir sie auch, die Cantina in der Oberstadt, hier gibt es ebenfalls Kartenspieler, das exakte Layout wie im Keller und schnöselige Adelige. Leider erlaubt es die Grenze meiner Mission wohl nicht den Adel auszulöschen. Es mutet ein wenig seltsam an das der, ich nehme einfach mal an, Geldadel sich einfach so zwischen den einfacheren Volk rumtreibt. Weil die Grenze der Oberstadt ist ja Rasse und nicht Geld. Oder zumindest nicht zu viel Geld. Wenn ich also noch mal Gelegenheit habe her zu kommen werde ich wohl ein kleines Exempel am lokalen Adel statuieren müssen. Kann ja wohl nicht sein das draußen Raumschiffe zu fernen Sternen aufbrechen und hier unten noch Feudalherrschaft herrscht. Da muss man doch mal was tun. Die großen Verbrecherlords sind ja quasi nicht anders, aber die haben in der Regel nicht den Hang ihren hochnäsigen Nachwuchs rumlaufen zu lassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #14
+
+* Titel: `KotoR - #14 - Duellkammern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Reinigung des Adels von Taris muss ja leider ein wenig warten, aber immerhin können wir unsere Zeit mit anderen Dingen verbringen, wie zum Beispiel den blutigen Kämpfen im Duellring. Mir wurde versichert das niemand dabei stirbt aber die technischen Einrichtungen die das sicherstellen sollen hören sich ehrlich gesagt nicht unbedingt sicher an. Generell scheint es nur 4 Gladiatoren zu geben, für einen Planeten der wahrscheinlich Milliarden an Bewohner hat hätte ich jetzt eher mit einer Duellliga und tausenden kleineren Arenen gerechnet. Aber nein, so wie es aussieht gibt es genau diese eine Arena in genau dieser Cantina und sonst nirgendwo. Interessant.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #15
+
+* Titel: `KotoR - #15 - die Mitte des Duellrings [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie musste ich diese Episode dramatisch nennen. Und hier sind wir. In der Mitte des Duellringes. So wie es aussieht bin ich nicht besser gut darin irgendwelche Leute alleine über den Haufen zu schießen. Mein Kampftaktik bisher sah so aus das ich meine Leute gut verteilt hinstelle und wenn dann ein Gegner auf die Idee kommt auf eine Person zu gehen laufe ich weg. Unter Experten nennt man das "kiten", also wie der Flugdrache. Man zieht die Leute schön hinter sich her und nutzt die günstige Gelegenheit nach Hinten zu schießen. Das klappt bei Nahkampfgegnern natürlich irgendwie schöner, geht aber auch mit Fernkämpfer. Man braucht dazu nur eine Ecke. Dann sorgt man dafür das die einen hinterher laufen und man die schön einzeln raus fokussen kann während die nicht alle gleichzeitig kämpfen können. Die Arena hat keine Ecken und anscheinend habe ich auch keine Gefährten bei mir. Meine Chancen sind dementsprechend gesunken. Traurig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

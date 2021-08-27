@@ -3862,6 +3862,96 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1506
+
+* Titel: `Let's Play ESO #1506 - exponentielle Macht [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 81 des Blackwood DLCs - Sitzung 12
+  
+  Es scheint das zumindest ein Teil meiner Vermutung nicht ganz falsch ist. Die unterschiedlichen Ambitionen sind, soweit ich das sehen kann, mit Macht gesegnet die weit über das Potenzial von Sterblichen hinaus geht. Das ist interessant weil man sich ja schon ein wenig fragt warum überhaupt. Es ist nicht ganz unmöglich das der Plan des guten Leovic und der seines Hohepriesters nicht ganz deckungsgleich sind, weil, warum überhaupt die Ambitionen ausbilden wenn man sie am Ende sowieso opfert? Das ergibt noch nicht all zu viel Sinn. Aber es scheint auf jeden Fall eine Idee zu sein die von ganz open stammt. Eventuell geht es auf Vandancias Herren zurück der das Opfern für einen guten Plan B hält. Meine zweite Theorie ist das die Ambitionen einen Teil der Macht von Mehrunes Dagon enthalten, die ist irgendwie endlich und er hätte sie gerne zurück weil so wie sie an die Sterblichen gebunden ist kann er sie nicht haben. Der ursprüngliche Deal mit Leovic sah dann aber eigentlich vor das man die Ambitionen als mächtige Anführer der Armeen benutzt aber dann sind halt Dinge geschehen. So genau wissen wir das aber noch nicht, ich bin gespannt was sich noch ergibt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1507
+
+* Titel: `Let's Play ESO #1507 - Sombrens Mentorin [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 82 des Blackwood DLCs - Sitzung 12
+  
+  Heute erwartet uns eine Überraschung. Es stellt sich doch glatt heraus das der gute Sombren es nicht aus eigener Kraft geschafft hat irgendwie aus seinen Schwierigkeiten heraus zu kommen. Stattdessen hatte er Hilfe von einer Mentorin die sich anscheinend exzellent mit den Kräften von Mehrunes Dagon aus kennt. Ich würde an der Stelle auch schlussfolgern das die Ambitionen irgendwie die Macht von Dagon mit sich herumtragen. Nun kann man eigentlich quasi schon schlussfolgern um wen es sich handeln könnte, und wenn man die Person nicht genau benannt kriegt, dann weiß man wohl grob welcher "Spezies" der Mentor angehören könnte.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1508
+
+* Titel: `Let's Play ESO #1508 - der Aschwald [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 83 des Blackwood DLCs - Sitzung 13
+  
+  Ich finde es immer wieder schön wenn wir neue Orte kennen lernen. Heute betreten wir zum Beispiel den Aschwald, klingt ein wenig Valenwald oder so aber ist ganz woanders. Nicht einmal auf dieser Ebene der Realität. Es handelt sich um eine weitere Taschendimension von Mehrunes Dagon, also ein Abschnitt der Totenländer. Wie genau die ganzen Regionen zusammenhängen ist mir übrigens nicht klar. Normale Physik sollte eigentlich nicht gelten, aber es könnte durchaus sein das es dennoch möglich ist von einem Ort zum Anderen zu laufen nur das es dann darauf hinaus läuft das man dann durch den Wald läuft und man kommt am Ende immer an der gleichen Stelle raus. Aber wenn man den richtigen Kompass hätte wäre es möglich. Oder aber die einzelnen Abschnitte sind eher wie Inseln und man hat kein Boot.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1509
+
+* Titel: `Let's Play ESO #1509 - drei Visionen [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 84 des Blackwood DLCs - Sitzung 13
+  
+  "Wer die Vergangenheit studiert braucht die Zukunft nicht zu fürchten." Es sei den es gibt Faktoren die so extern sind das sie in der Vergangenheit nicht abzusehen waren oder Mächte mitmachen die vorher gar nicht relevant waren. Dennoch ist es in der Regel ganz schön zu wissen was war. Das fühlt sich fast wie eine universelle Wahrheit an, manche Sachen will man vergessen und manche Dinge sind so unaussprechlich das sie langfristig alles irgendwie schlechter machen. Davon aber einmal abgesehen haben wir hier einen konkreten Einsatzfall. Sieht es doch so aus als würden wir heute mehr über die Vergangenheit der Ambitionen erfahren, außerdem wird uns schon eine Vision der Zukunft angekündigt. Das wird bestimmt auch ziemlich spannend, insofern das "Orakel" tatsächlich neutral agiert. Eine Annahme die ich in den Totenländern eigentlich nicht treffen will.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1510
+
+* Titel: `Let's Play ESO #1510 - das Unausweichliche [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 85 des Blackwood DLCs - Sitzung 13
+  
+  Es gibt viele Dinge von denen wir einfach wissen das sie passieren werden. Zum Beispiel weil wir uns in einer Geschichte befinden, es gibt da einfach Dinge die in einer Geschichte geschehen müssen damit ein Spannungsbogen erhalten bleibt, und dazu gehört halt auch ein neuer Konflikt nachdem es kurz so aussieht als hätten die Helden bereits den Tag gerettet. Ich kann also schon einmal sagen das heute Dinge passieren werden. Dinge die nicht schön sind, Dinge die nervig sind und außerdem Dinge die mich absolut nicht überraschen. Außerdem muss ich mich nochmal dafür entschuldigen das ich im entscheidenden Moment nicht hingeguckt habe weil ich mit Looten beschäftigt war. Das ist sehr bezeichnend für mich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1511
+
+* Titel: `Let's Play ESO #1511 - Krieg am Horizont [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 86 des Blackwood DLCs - Sitzung 13
+  
+  Nach dem letzten Verrat stehen jetzt die Zeichen gar nicht mehr so rosig, die Aussicht eine Verbündete zu haben die sich mit den Mächten der Daedra auskennt wärre natürlich ziemlich gut gewesen, aber natürlich ist Nichts was mit den Daedra zu tun hat so einfach. Wie dem aber auch sei. Es stellt sich doch glatt heraus das Vandancia noch gar nicht besiegt ist und jetzt gegen uns mobil macht. Anscheinend möchte er sich die Ambitionen mit aller Macht hohlen. Ich frage mich übrigens wirklich wie er gedenkt das zu bewerkstellige. Weil mit krasser militärischer Macht gegen eine andere Armee folgt doch nur der Selbstmord der Ambitionen die bereits gesehen haben was ihre Ergreifung zur Folge hat? Kommandooperationen könnte ich verstehen, aber in welchen Szenario soll bitteschön eine Armee irgendetwas ausrichten? Mal davon abgesehen das ich nicht verstehe wo die ganzen Leute für eine Solche auch herkommen. Größtenteils Daedra? Können die in Masse einfach so nach Nirn?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -939,3 +939,97 @@
   Yakuza 3 Remastered auf dem Montags Slot.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
+
+##### #68
+
+* Titel: `Yakuza 3 Remastered - #68 - Meister Utabori [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In dem Moment in dem Rikiya erwähnt hat das sein Tatoo noch nicht fertig ist habe ich sofort an den alten Meister gedacht der damals den Rücken von Kiryu gemalt hat. Ein Mann der schon sehr früh das Potenzial sehen konnte, ein Mann der in der Lage war mit seiner Tinte den Drachen von Dojima erst zu dem zu machen was er wirklich ist. Oder aber das ist alles Aberglaube und Kiryu wäre auch ohne jede Farbe die Person geworden die er ist. Die Hingabe, die Durchhaltekraft und innere Stärke. Sei es wie es sei, ein gewisser Placebo Effekt kann hier unmöglich abgesprochen werden. Und Rikiya will das auch, also schleifen wir den jungen Burschen zum alten Meister und gucken mal was dabei herum kommt. Es könnte aber durchaus sein das es Rikiya ein wenig an Respekt mangelt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #69
+
+* Titel: `Yakuza 3 Remastered - #69 - die Berührung des Meisters [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zuerst einmal, Episode 69, nice. Dann zur Sache. Der Schnitt zwischen dieser und der letzten Episode ist etwas ungünstig gelaufen und würde ich immer noch so aufnehmen wie vor 10 Jahren wäre das alles gar nicht so ein großes Problem. Damals habe ich einfach 4 Stunden am Stück Skyrim gespielt und erst am Ende alles in Teile geteilt. Seinerzeit habe ich sogar so Gimmicks gemacht wie die Stimme hallig klingen zu lassen wenn ich in großen Höhlen war, vor einiger Zeit hat man mich dafür sogar einmal gelobt. Heutzutage habe ich für solche Spielereien keine Zeit mehr. So kommt es das wir heute den zweiten Teil der großen Quest um Rikiyas Tatoo bzw. Schlange sehen. Quasi ein Epos.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #70
+
+* Titel: `Yakuza 3 Remastered - #70 - Gedenken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal fällt es mir nicht besonders leicht einen richtigen Titel für eine Episode zu finden. Neben der doch recht leichten und lockeren Herangehensweise von Nebenmissionen haben wir gelegentlich auch ziemlich ernste Brocken. Und dann haben wir auch noch die Hauptgeschichte. Die ist in der Regel ziemlich schwer und es wäre eventuell nicht so ganz angebracht darüber all zu leichtherzig zu reden. Ich hatte es bereits einmal angesprochen, aber abzüglich von Haruka sind quasi alle Freunde und Leute die Kiryu aus seiner frühen Zeit kannte mittlerweile tot oder verschwunden. Im Verlauf von Y1 und Y2 hat er ja neue Leute kennen gelernt aber an sich gibt es nur noch Majima der damals in den 80ern dabei war. Da kann man sich mal eine Minute Zeit nehmen und den Leuten der Vergangenheit gedenken.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #71
+
+* Titel: `Yakuza 3 Remastered - #71 - Eskortservice [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich liebe ja Missionen die uns in seltsame Situationen bringen, man muss aber anmerken das Kiryu mittlerweile doch ziemlich alt ist. Generell und überhaupt finde ich die Wahrnehmung von Kiryu durch andere irgendwie ein wenig komisch. Auf der einen Seite finden ihn bestimmte Frauen absolut unwiderstehlich und kommentieren seine perfekte physische Gestalt und dann bezeichnen ihn alle Punks auf den Straßen als Opa. Klar, aus der Perspektive eines 16jährigen sieht Kiryu gewiss ziemlich alt aus aber dennoch ist das ein ziemlich wiederkehrendes Thema. Entweder der Mann ist uralt oder ein Sexsymbol. So langsam aber sich müsste man sich doch mal da entscheiden. Da er aber doch ein wenig älter ist sind seltsame Situationen recht schnell entschärft, einfach weil er nicht so awkward ist es einfach geschehen zu lassen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #72
+
+* Titel: `Yakuza 3 Remastered - #72 - Unterling Schausteller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erfolg ist schwer zu definieren. Manchmal nimmt man dafür absolute Zahlen wie Geld oder Anzahl der Schädel unter den Stiefeln. Solche Sachen halt, aber nicht jeder ist ein mächtiger Barbarenkrieger oder Finanzhai. Außerdem sind beide "Berufe" moralisch eigentlich unhaltbar und die bloße Anhäufung von sinnlosen Zahlen scheint vielen Menschen eher leer zu sein, nicht nur als Erklärung für ihre eigenen, kleineren Zahlen, sondern auch aus einer moralischen Sicht. Oder sogar Lebensphilosophie. Die japanische Gesellschaft hilft uns da ein wenig aus und weiß uns mit hilfreichen Metriken wie "wie viele Untergebene habe ich" zu unterhalten. Wenn man jetzt aber seiner Oma erzählt das man ziemlich erfolgreich ist aber keinen einzigen Untergebenden hat dann ist alles irgendwie doof, es sei den man trifft Kazuma Kiryu der bereit ist jeden Unsinn mit zu machen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #73
+
+* Titel: `Yakuza 3 Remastered - #73 - das Arbeitsamt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich tun wir heute verschiedene Dinge wie zum Beispiel mit unseren Kumpels vom Club Stardurst zu reden, aber die Dinge dort kommen nicht so schnell in Wallung wie ich das gerne gehabt hätte. Stattdessen retten wir einen zufälligen Typen der in irgendeiner Gasse von einem anderen ebenfalls ziemlich zufälligen Typen bedroht wird. So weit so ominös. Stellt sich doch glatt heraus das der Typ ein ehemaliger Yakuza ist und scheinbar beim Arbeitsamt arbeitet. Das stimmt so natürlich nicht, stattdessen arbeitet der gute Mann bei der "Honest Living Association" aber an sich ist das quasi das Arbeitsamt für Yakuza. Die Sorgen dafür das man irgendwie wieder auf die Füße kommt. Übrigens ein gutes Mittel um gegen organisiertes Verbrechen vor zu gehen. Man gibt den Leuten die in der Regel die Fußsoldaten für eine kriminelle Organisation darstellen eine echte Lebensperspektive.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

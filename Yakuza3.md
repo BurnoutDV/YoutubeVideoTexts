@@ -1024,6 +1024,77 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #74
+
+* Titel: `Yakuza 3 Remastered - #74 - die ersten Schnitter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode waren wir ja auf dem Arbeitsamt, dort haben wir erfahren welche Möglichkeiten heutzutage einem Aussteiger bei den Yakuza eigentlich zur Verfügung stehen. Das ist wesentlich reichhaltiger geworden aber jetzt sieht es so aus als seinen die Bemühungen des Arbeitsamt bedroht. Kiryu kann quasi nicht anders als einzugreifen und da etwas für die armen geknechteten Leute zu tun. Daher jagen wir heute den "Reapern" hinterher, ich habe sie jetzt einmal frei als Schnitter übersetzt. Ernter würde zwar auch passen, aber da muss ich an LKWs in Command & Conquer denken und ich bin mir eigentlich fast sicher das Schnitter der offiziell anerkannte Begriff ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #75
+
+* Titel: `Yakuza 3 Remastered - #75 - Batsu der Hammertyp [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach nur zwei Schnittern mache ich natürlich nicht halt, es geht immer weiter und das Arbeitsamt zahlt ziemlich gut, da ist man doch gerne bereit irgendwelchen Typen aufs Maul zu hauen. Ein wenig fragwürdig finde ich allerdings auch das das "Amt" soviel Geld zur Verfügung hat, klar, es gibt da großzügige Spenden durch Kashiwagi und bestimmt auch einigen Anderen, aber dennoch sind das doch recht große Mengen an Finanzmittel die da in den Umlauf gebracht werden um den gesamten Laden am Laufen zu lassen. Als nächstes auf der Liste steht ein Typ von dem ich dachte das er ein Problem ist. Der Typ hat einen großen Hammer, und der macht auch mächtig aua, aber zum Glück ist das Ding auch langsam...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #76
+
+* Titel: `Yakuza 3 Remastered - #76 - Ärger im Star Dust [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich gibt es Ärger im Stardust, es handelt sich um einen Host Club mitten im Vergnügungsbezirk, der hat nur eine begrenzte Menge an Platz und alle Leute wollen da irgendetwas starten. Menschen die hier nicht zu Besuch kommen wollen hier meistens irgendwie reich werden, und das geht am Besten in dem man irgendwelche illegale Sachen tut. Ein eigenes Geschäftskonzept aufzubauen wäre ja doch ziemlich anstrengend. Und so gibt es dann heute mal wieder Ärger im beliebtesten Host Club der Stadt. Um was es genau geht erfahren wir allerdings erst später.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #77
+
+* Titel: `Yakuza 3 Remastered - #77 - feindliche Übernahme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und erneut benutze ich etablierte Begriffe leicht falsch. Wenn ich mich nicht sehr irre spricht man von einer feindlichen Übernahme wenn man genügend Aktien einer Firma besitzt um quasi auf alle Entscheidungen einwirken zu können und mit dieser Entscheidungsmacht dann auch in der Lage ist den aktuellen Vorstand bzw. Vorsitzenden zu ersetzen. Glaube ich zumindest, wie immer wenn ich diese Texte schreibe google ich Nichts. Das wäre ja auch langweilig. Wie dem aber auch sei, die Yakuza die das Star Dust übernehmen wollen gehen ein wenig anders vor, ein wenig mehr feindlich als es normalerweise der Fall ist. Liegt aber auch daran das es keine Aktien gibt die man mit Strohpersonen kaufen könnte.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #78
+
+* Titel: `Yakuza 3 Remastered - #78 - Orte mit Geschichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man durch die Welt läuft und dann eines fernen Tages wieder da ist wo man einst war, dann erinnert man sich. Das ist übrigens nicht für alle Menschen wahr. Ich bin lange durch die Landschaft gewandelt und habe mich gefragt welche Erinnerungen irgendwelche Passanten mit einem Ort verbinden. Es stellt sich heraus das viel zu oft sich Menschen einfach überhaupt nicht für Plätze interessieren. Jeder Ort ist austauschbar, keine Erinnerung die mit irgendetwas verbunden ist. Egal welcher Art der Ort ist, alte Schule? Egal. Platz des ersten Kusses, egal. Dann gibt es aber Leute die sich nach 20 Jahren noch einmal daran erfreuen einen alten Platz zu sehen, bitter ist es dann natürlich wenn sich seit dem die Landschaft um Einiges verändert hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 30.08.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

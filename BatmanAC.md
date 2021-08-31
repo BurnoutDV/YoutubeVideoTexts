@@ -497,6 +497,76 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #35
+
+* Titel: `Batman Arkham City - #35 - U-Bahn Rätsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie haben wir jede Menge Rätsel vor uns. Wenn der Riddler mal auf die Idee kommen würde anstatt irgendwelche dummen Rätsel zu stellen und stattdessen etwas Praktisches mit seinem Netzwerk und Fähigkeiten anzustellen könnte er wahrscheinlich innerhalb kürzester Zeit die Welt beherrschen. Aber so wie es im Moment aussieht stellt uns lieber Rätsel. Uns und der Welt im Allgemeinen. Auch interessant ist das wir das heutige Rätsel mit purer brutaler Gewalt lösen und das eigentlich gar nicht der Plan war. Stellt sich heraus das Rüstung zu leveln eine gute Idee war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #36
+
+* Titel: `Batman Arkham City - #36 - Bürgermeister Sharp [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen ihn schon ziemlich gut, den alten Sharpie wie er von den anderen Insassen gerne genannt wird. Er hält sich nun übrigens auch in der Anstalt auf, dort erwartet ihn auf jeden Fall kein gnädiges Schicksal, aber so kommt es halt wenn man sich mit den falschen Leuten verbündet. Immerhin gibt uns das einen guten Zugriff auf den Herrn Bürgermeister und wir erfahren einige Dinge die dazu geführt haben das es Arkham City überhaupt gibt. Direkter Zugriff in einer Notlage kann schon praktisch sein. So erfahren wir dann auch das Arkham City dann doch gar nicht so unmoralisch entstanden ist wie gedacht sondern nur das übliche Ergebnis von normaler Korruption war. Das ist doch irgendwie beruhigend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #37
+
+* Titel: `Batman Arkham City - #37 - Schätze der Eisberg-Lounge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Pinguin ist anscheinend besiegt und irgendwo ist er jetzt auch hin, irgendwo wo er uns nicht mehr nerven kann und wo seine Leute keine Anweisungen mehr erhalten. Das ist relativ interessant, weil so wie es aussieht scheint keiner der großen Superschurken eine rechte Hand zu haben, klar, das wäre auch gefährlich wenn die die macht ergreift, aber dennoch. Die einzige Ausnahme scheint Joker zu sein der mit Harley Quinn durchaus jemanden hat dem er vertrauen kann seine Geschäfte zu führen, wie praktisch. Ach muss diese Art von Liebe schön sein. Wie dem aber auch sei, die Eisberg Loung als Ort existiert natürlich weiter, und so können wir auch auf die Schätze des Pinguin hoffen, weil dort wohnen jetzt unsere Verbündete, toll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #38
+
+* Titel: `Batman Arkham City - #38 - das letzte Gespräch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute habe ich mir einen extra dramatischen Titel ausgesucht, das letzte Gespräch impliziert doch sehr einen Abschied, da wir es aber mit Batman zu tun haben ist der bloße Gedanke an einen Abschied ziemlich unwahrscheinlich. Batman beendet Nichts, klar er lässt irgendwelche Schläger in der Kälte bewusstlos liegen, andere gefesselt in irgendwelchen kleinen Kammern die von Außen verschlossen sind oder mit Knochenbrüchen auf Hausdächern, diese Leute sind natürlich nicht tot aber bestimmt ziemlich bald. Batman tötet, keine große Überraschung, er vermeidet es nur die Leute direkt vor Ort umzubringen. Und auch die ganzen Faustkämpfe, es erscheint mir doch recht unwahrscheinlich das er niemanden so ungünstig trifft das die Person dann liegen bleibt, für immer. Davon jetzt aber einmal weg geht es natürlich um Zsasz, die einzige Person die uns wirklich anruft diese Tage.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #39
+
+* Titel: `Batman Arkham City - #39 - Zsasz's Versteck [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wurden in letzter Zeit ziemlich oft angerufen. Das ist erstaunlich wenn man bedenkt das die meisten Gefängnisse dieser Welt ihren Insassen verbieten unkontrollierten Kontakt nach Draußen zu haben. Telefone sind da ganz vorne mit dabei. Andernfalls könnten ja irgendwelche Verbrecher ihre Organisationen von Drinnen weiter führen. Gut, ich würde jetzt einmal vermuten das exakt das auch passiert und das die Leute die am wenigstens kommunizieren sollten in der Lage sind dies auch zu tun. Unabhängig davon hat Arkham City ein anscheinend immer noch funktionierendes System aus Telefonen. Dies hat unser bester Freund Zsasz ausgiebig genutzt um Leute anzurufen. Vor allen Batman, dann hat er uns irgendwelche Schwänke aus seiner Jugend interessiert, so genau weiß ich nicht, ich habe nicht genau zugehört, viel wichtiger war aber das ich ihn dabei geortet habe und jetzt kommt ähnlich die Belohnung für das erfolgreicher Orten, wir schnappen uns den Burschen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -506,3 +576,4 @@
   ```markdown
   Hier
   ```
+

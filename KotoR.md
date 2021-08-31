@@ -227,6 +227,81 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
+##### #16
+
+* Titel: `KotoR - #16 - Unterstadt Apartments [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stell sich doch glatt heraus das in einer Stadt die den gesamten Planeten umfasst noch mehr Apartments gibt. Am Anfang hat uns ja Carth erklärt das unsere Quartiere die wir uns mal eben geschnappt haben nicht so hochwertig sind und größtenteils von irgendwelchen Aliens bewohnt werden. Und natürlich Menschen die irgendwie nicht ganz so beliebt sind. Und dann kommen wir in die Unterstadt Apartment und müssen ziemlich schnell erkennen das es immer noch ein Stück schlechter geht. Natürlich kommen wir irgendwann noch in den Slums an, dort sieht dann alles noch mal ein Stück schlechter aus. Und doch, meine Operationsbasis scheint mir doch ziemlich luxuriös, zu Mal wir uns das ja eigentlich nur mit einer Person teilen müssen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #17
+
+* Titel: `KotoR - #17 - Gadon von den geheimen Bek [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben bereits von den geheimen Bek gehört, was wir noch nicht gehört haben warum sie so heißen wie sie heißen. Wahrscheinlich handelt es sich einfach nur um eine spaßigen Namen den sich eine Straßengang ausgedacht hat. Wie dem aber auch sei, ihr Anführer heißt Gadon und der ist wohl unlängst vom Motorrad gefallen und seit dem hat er ein paar Probleme, dann hat er seiner rechten Hand nicht die Nachfolge gegeben und dann gab es diverse Probleme und auf einmal hat man einen Gangkrieg an der Backe. Oben drauf kamen dann auch noch die Sith und schon war die Katastrophe komplett. Aber, der gute Gadon kann uns helfen und hat ein paar gute Hinweise für uns. Das ist eigentlich ziemlich positiv. Und er war leicht zu finden, gar nicht so geheim wie angenommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #18
+
+* Titel: `KotoR - #18 - die Slums [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir ganz unten. Oder besser gesagt, wir kommen da an. Das gesamte Slum System und wie es dazu kam wird uns übrigens später noch einmal erklärt. Was mir allerdings nicht so ganz klar ist das durchgesetzt wird. Offensichtlich gibt es ziemlich viele kriminelle Organisationen auf den Planeten, und wenn man späteren NPCs glauben darf involviert das wohl auch die "Regierung" des Planeten. Wenn man also davon ausgeht das die Leute in den Slums offiziell von der Oberstadt verbannt wurden und damit auch ihre Nachfahren frage ich mich doch sehr was die Leute davon abhält a.) die großen Stützen der Oberstadt zu vernichten und damit Chaos aus Rache zu sähen, und b.) irgendeiner Organisation beizutreten denen es einfach total egal ist ob man jetzt von "den da Oben" (wortwörtlich hier) verbannt wurde. Lange Geschichte kurz, die gesamte Situation ergibt nicht besonders viel Sinn für mich. Wieder einmal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #19
+
+* Titel: `KotoR - #19 - Gendar der Anführer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute erfahren wir dann offiziell auch was es angeblich mit den Slums auf sich hat und warum sie existieren. So ganz klar ist mir das übrigens immer noch nicht. Die gesamte Gegend sieht ziemlich lebensfeindlich aus und wenn man bedenkt was Menschen so pro Woche essen habe ich wirklich Schwierigkeiten mir vorzustellen wie genau die Leute da durchkommen. Dadurch das es außerdem ziemlich dunkel ist kann ich mir auch nicht vorstellen das hier irgendeine Art von "Ackerbau" betreiben wird. Pflanzen sehe ich auch keine. Es würden also nur noch ein paar Pilze übrig  bleiben. Damit könnte man zumindest erklären warum die Leute hier unten ein wenig verrückt sind, übermäßiger Pilzmissbrauch ist in solchen Situationen immer eine gute Erklärung. Aber wir erhalten einfach gar keine Problem. Die Leute haben stattdessen ein eher weitschweifendes Mutantenproblem das aber noch nicht so richtig in seinen Ursprüngen erklärt wurde. Vielleicht erfahren wir aber noch wo die Rakghoule her kommen..oder aber auch nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #20
+
+* Titel: `KotoR - #20 - Slum Patroille [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt viele Fragen die ich mir täglich stelle während ich KotOR spiele, aber was genau die Sith in den Slums machen frage ich mich zum Glück nicht. Sie suchen die anderen Landungskapseln der Republik die hier runter gegangen sind. Ich frage mich übrigens ernsthaft wie das funktioniert haben solle. Es heißt doch immer das die Slums ein sonnenloser Ort sind, wie genau also haben die Droppods es geschafft bis da runter zu kommen. Wir dürfen ja wohl davon ausgehen das die Landungs- Schrägstrich Rettungskapseln irgendeine Art Mechanismus haben der dafür sorgt das die Dinger vernünftig aufkommen oder? Also wie konnte das passieren? Außerdem sind die Slums offenbar ein ziemlich unsicherer Ort, warum schickt man also normale Bodentruppen anstatt besser ausgebildete Kommandotruppen oder Ähnliches, Experten die mit unbekannten und potenziell feindlichen Terrain besser umgehen kann? Ich habe ziemlich viele Fragen..und einige davon betreffen die Militärdoktorin der Sith.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

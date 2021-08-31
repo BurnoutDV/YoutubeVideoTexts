@@ -3952,6 +3952,95 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1512
+
+* Titel: `Let's Play ESO #1512 - Mobilmachung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 87 des Blackwood DLCs - Sitzung 13
+  
+  Anscheinend besteht das Spiel weiterhin darauf das es eine große Endschlacht am Horizont geben soll. Mir ist nicht ganz bewusst wie das dann praktisch ablaufen soll weil ich mir ehrlich gesagt technisch nicht vorstellen kann das irgendwas in der Richtung möglich sein könnte. Außerdem fehlt es mir auch sehr am Glauben das es irgendeinen logischen Grund gibt die Ambitionen mit so offensichtlicher Gewalt an sich zu bringen. Wenn da nicht noch ein Trumpf kommt der das logisch erklärt weiß ich auch nicht. Aus irgendwelchen Gründen glaubt Vandacia ja auch daran das jeder der Ambitionen einen überhöhten Selbsterhaltungstrieb hat. Dabei läuft alles darauf hinaus das sie sich selbst einfach ausbrennen beim Versuch sich zu verteidigen. Also, was will er bitte erreichen? Die große Armee als Ablenkung. Und wo kommen die überhaupt her. Ich möchte daran erinnern das es immer noch den Krieg der drei Banner gibt. Sollte nicht jeder Herrscher einige Spione überall haben und die Berichte von einer vierten Armee sind doch ein wenig sehr beunruhigend.
+  
+  0:00 - Gameplay a.k.a Rumgelabber
+  6:09 - BUCH: Seps Kuss
+  7:53 - mehr von diesen "Gameplay"
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1513
+
+* Titel: `Let's Play ESO #1513 - Forderung des gemalten Auges [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 88 des Blackwood DLCs - Sitzung 13
+  
+  Und schon beschäftigten wir uns dann doch mit einem ganz anderen Konflikt als dem der die Welt beenden könnte. Das ist alles auch ziemlich interessant wenn man bedenkt das die Langhauskaiser und unser bester Kumpel Vandacia auch unfassbares Pech haben. Warum muss es eigentlich überhaupt irgendein König sein der eine ziemlich große Zielscheibe auf den Rücken hat. Hätte Mehrunes Dagon nicht einfach einen Pakt mit irgendeinen Random Sterblichen Abschließen können? Anscheinend braucht man ja nur vier Kinder und etwas Zeit. Das kann ja wohl nicht so schwer sein. Dann wartet man die Zeit auf irgendeiner Insel aus und gut ist. Weltherrschaft. Alternativ kann man natürlich auch in irgendeiner Feste ein paar Geißeln nehmen und ein Königreich erschaffen. Alles so einfach. So geschehen übrigens heute beim gemalten Auge, anscheinend einer autonomen Vereinigung. Ihre Ziele sind irgendwie, im Grundgedanken, ehrbar, aber ihre Methoden sind nicht ausreichend, zu klein gedacht und die meisten ihrer Forderungen gehen hart an der Lebensrealität vorbei. Alles im Allem müssen wir sie wohl alle Töten und hoffen das die nächste Revolutionäre ein wenig organisierter sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1514
+
+* Titel: `Let's Play ESO #1514 - Keller der Grenzburg [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 89 des Blackwood DLCs - Sitzung 13
+  
+  Heute treffen wir eine alte Bekannte wieder. Nein, anders, eine alte Bekannte trifft uns wieder. Ich habe absolut gar keine Erinnerung daran das ich diese Person schon mal gesehen habe. Sie ist offensichtlich inkompetent, das sollte bei mir doch einige Erinnerungen wecken. Etwas schade ist das das Format eines Spiels natürlich keine echten Nuancen in kürzester Zeit erlaubt. Die Bandbreite für Informationen ist recht gering. Daher kommuniziert das Spiel für mich nur das die gute Erilthel bzw. die "Zwielichtige Schönheit" absolut von Tuten und Blasen keine Ahnung hat. Und unter Arachnophobie leidet, nachvollziehbar wenn man sich die Größe der normalen Spinnen anschaut, aber dennoch eher unpraktisch wenn der eigene Beruf erwartet das man in diversen Kellern umherkriecht. Vielleicht hat die gute noch irgendwelche anderen Talente, Schlossknacken gehört auf jeden Fall nicht dazu, und auch gesunder Elfenverstand ist definitiv nicht ihr Feld.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1515
+
+* Titel: `Let's Play ESO #1515 - Grenzburg Geiselbefreiung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 90 des Blackwood DLCs - Sitzung 14
+  
+  Wir sind an einem Punkt wo ich eine Episode nicht mehr einfach nur "Geiselbefreiung" nennen kann. Das nervt irgendwie ein wenig, auf der anderen Seite zeigt es aber auch die Größe des Projekts. Nun, wir befreien also wieder einmal Geiseln. Das kommt, glücklicherweise, eigentlich ziemlich oft vor, also das Geißeln genommen werden. Die Alternative wäre das alle zivilen Personen innerhalb einer Anlage geopfert werden. Gelegentlich kommt das auch vor, in der Regel muss man sich dann aber mit ihren Überresten herumärgern. Das mag ich nicht besonders. Insofern sind mir lebendige Zivilisten auch von einem pragmatischen Standpunkt lieber. Großes Problem stellt aber da das uns die Geißeln verraten das das gemalte Auge gar nicht so nobel und freiheitlich unterwegs ist wie anfangs gedacht. Die Forderungen sind wohl absichtlich unerreichbar. Jetzt frage ich mich natürlich was ihr eigentlich Fluchtplan war wenn das mit den Schiffen nicht klappt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1516
+
+* Titel: `Let's Play ESO #1516 - Axius's Amtsstube [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 91 des Blackwood DLCs - Sitzung 14
+  
+  Heute philosophieren wir warum ich das Wort Stube mag. Besagte Kammer ist dann übrigens nicht wirklich eine Stube sondern eher eine Festhalle, man könnte in der Anlage ohne Probleme 40 Nordkrieger unterbringen und, genügend Met vor raus gesetzt, eine gute Feier dort abhalten, wie zum Beispiel die Feier über den Sieg über das gemalte Auge, eine Gruppierung über die wir bisher übrigens noch gar nichts wissen. Ich bin immer noch unendlich enttäuscht das es sich nicht um die Groß-Autonomen handelt wie sie sich am Anfang gegeben haben. Alleine für diese Enttäuschung müssen wir sie wohl ausschalten. Am Ende wird mich ein NPC fragen ob noch irgendjemand am Leben ist, aber eigentlich wäre es ja besser wenn ich keine Überlebenden übrig gelassen hätte oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

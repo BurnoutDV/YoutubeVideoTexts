@@ -4031,14 +4031,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1517
 
-* Titel: ``
+* Titel: `Let's Play ESO #1517 - Ayleidisches Fundament [Blackwood]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 92 des Blackwood DLCs - Sitzung 14
+  
+  Tamriel ist auf den Fundament der Vergangenheit erbaut. Klar, irgendwo findet man noch frischen Baugrund, irgendwo in der Wüste. Fläche wo noch kein alter Argonierstamm ihren Friedhof errichtet haben oder antike Elfen irgendeine Realitätsverändernde Experimentenreihe haben stattfinden ließen. Aber wenn man nicht direkt einen solchen Ort sucht und stattdessen Plätze aussucht die von irgendeiner Relevanz für die Welt als Ganzes sind, zum Beispiel weil sie einen praktischen, taktisch wertvollen Platz in der Verteidigung eines Landes darstellen, nun, dann sind Dinge zu erwarten. Heute handelt es sich nur um ein paar alte ayleidische Ruinen, die findet man wirklich an jeder Ecke und die Meisten sind sogar vergleichsweise harmlos. Eine aktive Dwermerfabrik wäre auf jeden Fall wesentlich schlimmer. Jetzt müssen wir nur noch die Bombe im Keller entschärfen und schon ist alles wieder gut...
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1518
+
+* Titel: `Let's Play ESO #1518 - Nocturnals Schrein [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 93 des Blackwood DLCs - Sitzung 14
+  
+  Dafür das wir ziemlich oft mit irgendwelchen Daedra direkt interagieren besuchen wir doch ziemlich selten den Schrein von eben jenen. Was auch selten ist das die entsprechende Schreine gut erreichbar irgendwo in der Öffentlichkeit rumstehen. Man würde ja eher vermuten das in einer Gesellschaft in der die Anbetung von Daedra nicht so gerne gesehen ist die entsprechenden Schreine auch eher Seltenheitswert haben. Ich könnte mir aber durchaus vorstellen das man zwar gegen die Anbetung von Daedra sein kann aber dann sich doch nicht an die Schreine herantraut, an und für sich stellen die ja einen direkten Kontakt nach, in diesem Fall, Immergrau da. Da sollte man schon ein wenig vorsichtig sein, insbesondere wenn man sich nicht sicher sein kann wieviele Anhänger sich eventuell in der Nähe aufhalten und finstere Rache nehmen wollen. Übrigens schön das die ganze Sachlage heute so unstrittig ist, man stelle sich vor es wären Ritter auf Kreuzzug gewesen die den Schrein geplündert hätte. Das hätte noch echte Dilemma heraufbeschworen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #Nummer

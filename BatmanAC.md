@@ -567,6 +567,20 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #40
+
+* Titel: `Batman Arkham City - #40 - das Heilmittel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon haben wir das Heilmittel um die gefährliche Krankheit die sich der Joker, und über Proxy auch Batman zugezogen hat sofort zu heilen. Und alles was wir gebraucht haben war das Blut eines Unsterblichen. Wahrscheinlich hat die Technik vom guten Monsieur Frost sehr geholfen aber im Großen und Ganzen hätte das auch der Bat-Computer berechnen können. Hat er aber leider nicht. Wie es aber auch sei, stellt sich doch glatt heraus das unser guter Wissenschaftler aus irgendwelchen Gründen ein gewisses Ressentiment gegenüber Bruces Wayne Alter Ego verspürt. Das ist mir völlig unerklärlich und von einem Wissenschaftler hätte ich eine objektivere Behandlung der gesamten Problematik erwartet. Aber andererseits ist die ganze Geschichte mit Nora wohl nicht unbedingt ein scheinendes Beispiel für den rationalen Umgang mit einem Problem. Andererseits, die Frau auf Eis zu legen und später aufzutauen wenn eine Heilung gefunden ist erscheint mir doch recht logisch. Insbesondere wenn man bedenkt das das große Problem mit der Kryonik ja eigentlich das Auftauen ist, Freeze hat das ja schon irgendwie gelöst.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -576,4 +590,3 @@
   ```markdown
   Hier
   ```
-

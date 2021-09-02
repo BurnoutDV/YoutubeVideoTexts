@@ -302,6 +302,21 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
+##### #21
+
+* Titel: `KotoR - #21 - Missions Geschichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Name Mission ist ein wenig irreführend finde ich. Auf der anderen Seite hat er ja irgendwie auch eine Bedeutung. Immer zu Gute halten muss man hier das auch im Englischen der Name genau die gleiche Bedeutung hat, es also kein Fall von fehlerhafte Synchronisation ist, alles hier ist Absicht. Nun, so wie es aussieht haben wir jetzt eine Twilek im Team, eventuell können wir sie ja später günstig verkaufen oder irgendwie anders zu Geld machen. Ärgerlicherweise fühlt sie nämlich keine echte Nische in meinem Team, dafür bräuchte ich eher ihren Partner Big Z. Noch ärgerlicher ist aber das sie definitiv die gesprächigere ist die uns bestimmt noch einige andere interessante Dinge erzählen könnte, wir hätten also gute Gründe sie weiter mit zu nehmen. Manchmal sind die Dinge nicht so einfach. Aber für den Moment muss ich ja eh keine Entscheidung fällen, das macht mir immerhin ein wenig das Leben leichter..für den Moment, aber wenn wir den Moment nicht hätten hätten wir gar nichts oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

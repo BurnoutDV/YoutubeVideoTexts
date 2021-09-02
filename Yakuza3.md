@@ -1095,6 +1095,65 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #79
+
+* Titel: `Yakuza 3 Remastered - #79 - alte Schulfreunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich treffe nie irgendwelche Leute wieder. Es ist wirklich verrückt. So verrückt das ich darüber reden muss. Heute trifft Rikiya anscheinend einen alten Schulfreund wieder oder zumindest die "Schwester" einer alten Schulfreundin. Das alles spielt überhaupt keine Rolle, die Gute arbeitet in einem Stripclub und verdient halt da ihr Geld, der viel zu ehrenvolle Rikiya will sofort helfen. Ende der Geschichte. Allerdings ist der Punkt das ich die Geschichte für absolut glaubhaft halte, andauernd treffen Leute andere Leute die sie von ganz dolle früher kennen. Mir persönlich passiert das einfach nicht. Selbst meiner Freundin passiert das wenn ich daneben stehe, trifft auf einmal hunderte Kilometer von ihrem Heimatort Leute aus der Schulzeit oder es stellt sich heraus das die beste Freundin von einer Bekannte eine direkte Verbindung zum Heimatort hat. Mir nicht, passiert einfach nicht. Irgendwas mache ich doch falsch oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 30.08.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #80
+
+* Titel: `Yakuza 3 Remastered - #80 - Kindheitsfreunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte mir neulich Gedanken um das Freund "akquirieren" nach dem erwachsen werden gemacht. Die Quintessenz war das es echt schwierig wird gute und wahre Freunde zu erhalten. Es mangelt einfach an Zeit in solche Dinge zu investieren und wenn man sich richtig anfreunden will braucht das ja eigentlich Jahre. Mit den alten Freunden aus Schultagen hatte man halt viele Jahre und dann auch noch fast täglich Zeit irgendetwas zu unternehmen weil man in einer sehr ähnlichen Situation war und man so auch viele verbindende Erlebnisse hatte. All diese Dinge haben sich natürlich geändert und jetzt ist es sehr schwierig. Immer wenn man jemanden trifft haben die auch ihre eigene Agenda und generell und überhaupt ist es schwierig lange einen gemeinsamen Nenner zu halten. Vielleicht haben alte Freunde deshalb so einen hohen Stellenwert. Umso ärgerlicher natürlich wenn man mit denen eigentlich nichts mehr zu tun haben will...Neue sind schwierig zu bekommen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 30.08.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #41
+
+* Titel: `Batman Arkham City - #41 - Reporterrettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  HierDie Journalisten in Batman oder generell in amerikanischen Filmen nerven mich immer. Es scheint ihnen in erster Linie darum zu gehen selbst im Mittelpunkt zu stehen während sie so tun als würden sie über irgendetwas berichten. Das führt zu völlig rücksichtslosen Verhalten das jeder Logik entbehrt. Das unsere gute Reporterin Vicky hier einfach mit den Hubschrauber irgendwohin fliegt und sich dann abschießen lässt ist ja noch eine Sache. Das sie aber nicht eine Sekunde aufhört zu Senden nervt mich viel mehr. Es gibt da keinerlei Augenmaß, keine Berücksichtigung von Risiken oder ob das was sie tut auch tatsächlich gut ist. Da wird einfach ein ungefilterter "die Öffentlichkeit" muss alles erfahren Ansatz verfolgt ohne auch nur einmal darüber nach zu denken ob es vielleicht durchaus legitime Gründen geben könnte etwas nicht direkt auszustrahlen. Und damit meine ich nicht nur das Arkham City Ding. Lange Geschichte kurz, ich kann die Reporterin nicht leiden für das für was sie steht. Aber wahrscheinlich muss man in Gotham nervig sein um überhaupt irgendwie weiter zu kommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #22
+
+* Titel: `KotoR - #22 - das Rakghoul Serum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dieser technologische Gegensatz innerhalb des Star Wars Universums macht mich immer wieder und wieder völlig fertig. Wirklich, es ist realitätsbrechend unmöglich das eine Welt wie die die wir vorgelebt kriegen auch nur eine Sekunde existieren kann. Oder selbst wenn man den Zustand für länger als eine Minute aufrecht erhalten will bräuchte es ein paar ziemlich gute Erklärungen. Und die kommen nicht, das weiß ich! Einfach weil es bisher noch in keinen Starwars Film oder Spiel passiert ist. Das große Problem was ich habe ist auch ein RPG natürlich irgendwie tiefer in die Welt geht und diverse Probleme erläutert. Aber diese Probleme müssen ja irgendwie in das Gerüst der Welt passen, und das tun sie einfach nicht. Egal was wir tun, es klappt einfach gar nichts. Zum Beispiel die Geschichte mit den Rakghoul Serum, angeblich haben die Wissenschaftler der Republik das langwierig erforscht und die Sith haben das einfach in einem Stück übernommen. Anscheinend gab es bereits Massenproduktion dafür und es ist trivial einfach das fertige Zeug zu benutzen. Und doch hilft es gegen eine super komplexe Krankheit. Argh.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfreeHier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

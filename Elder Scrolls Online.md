@@ -4061,6 +4061,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1519
+
+* Titel: `Let's Play ESO #1519 - die Schattensichel [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 94 des Blackwood DLCs - Sitzung 14
+  
+  Heute philosophieren wir darüber wie genau das mit der magischen Macht in Elder Scrolls eigentlich funktioniert. Das tue ich schon ziemlich lange und immer mal wieder in den Episoden. Es sei durchaus erlaubt alle Schuld dafür bei Brandon Sanderson zu suchen, der hat mich dazu gebracht überhaupt über solche Dinge nach zu denken. Fakt ist halt, wenn man einmal ein gut etabliertes System gesehen hat wie es Sanderson anzubieten weiß man sowas halt zu schätzen. Der erklärt mir halt wann Magie genutzt werden kann und wie einfach der Zugriff ist. In den meisten Fantasy Spielen ist das immer ein wenig nebulös. Mein Mana-Vorrat wird halt klar aus blauen Flaschen aufgefüllt, aber wenn ein Nekromant ein Ritual ausführt wird gerne von nekromantischer Energie usw. gesprochen. Aber anscheinend gibt es da einen gewissen Fluß der es ermöglicht Macht anzuzuapfen. Zum Beispiel haben sich die Daedra nicht an der Erschaffung Nirns beteiligt und doch kann man ihre Macht nutzen um etwas in Nirn zu bewegen. Interessant.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1520
+
+* Titel: `Let's Play ESO #1520 - Glitzerdinge in Arpenia [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 95 des Blackwood DLCs - Sitzung 14
+  
+  Es gibt immer mal wieder neue Charaktere, ich bin dann immer ein wenig überrascht das es sie überhaupt gibt weil ich ja eigentlich damit rechne das es wieder jemand ist den wir bereits kennen. In der Episode mit der Daedra die uns "helfen" wollte war ich ja minimal überrascht jemanden zu treffen den wir noch nicht kannten. Aber so wie es scheint haben Hauptmissionen eine wesentlich höhere Wahrscheinlichkeit uns neue Leute vorzustellen. Und das ist eigentlich gar nicht so schlimm, es gibt da eine ziemlich große Anzahl an Nebencharaktere die wir noch nicht besonders ausgiebig erlebt haben die aber trotzdem großartig sind, und nicht alle von ihnen sind Mensch oder Mer.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1521
+
+* Titel: `Let's Play ESO #1521 - Rückkehr des Schwarzfederhofes [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 96 des Blackwood DLCs - Sitzung 14
+  
+  Technisch gesehen stehen wir heute auch für einige Zeit vor Zenithars Abtei rum aber das kommt dann auch erst später. Zu erst retten wir den Schwarzfederhof. Wir erinnern uns an die lustigen Krähen noch aus der Stadt der Uhrwerke, auch wenn ich mir nicht ganz sicher bin ob man die Bande nicht schon vorher irgendwo einmal getroffen hat und ich es bloß verdrängt habe. Es ist trotzdem ein wenig auffällig das wir jetzt zweimal hintereinander irgendwelche Geschäfte mit Nocturnal haben. Einmal ist normal, zweimal Zufall, aber wenn ich jetzt noch das Treiben der Immergrau-Herrscherin woanders sehe ahne ich wieder das Schlimmste. Sommersend ist gar nicht so lange her...
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

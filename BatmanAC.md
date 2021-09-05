@@ -581,6 +581,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #42
+
+* Titel: `Batman Arkham City - #42 - Teeparty [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eventuell kann es heute vorkommen das ich mit absoluter Absicht in eine Falle gelaufen bin. Ok, ich gebe gleich mal zu das ich mich zwar kurz gewundert habe warum es auf einmal diese Art von Mission gibt und warum der gute Lucius Fuchs so schnell ein Heilmittel gefunden hat wenn es vorher quasi überhaupt keinen Fortschritt in der Richtung gab. Einfach gemacht habe ich dann natürlich trotzdem und schon waren wir bei Alice im Wunderland. Ich fühle mich aber auch genötigt zuzugeben das ich diese Traumsequenzen in den Batmanspielen immer noch für das Beste halte. Die machen mir einfach Spaß. Da hat man auf einmal eine völlig andere Grafikumgebung die man sonst schwer in ein Spiel einbauen kann und die halt so keinen Sinn ergibt. Ein völliger Tapetenwechsel der sogar logisch erklärt wird. Sowas mag ich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #43
+
+* Titel: `Batman Arkham City - #43 - Crime Alley [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der heutigen Episode passiert eigentlich überhaupt nicht viel, das Einzige was ich tue ist das ich in einer kleinen Straße um her laufe und irgendwelche Dinge tue. Nebenher rede ich noch über Dinge aus dem echten Leben die an diesem späten August Tag im Jahre 2021 relevant sind. Das sind namentlich der Bahnstreik, Leerdenker in meiner Stadt und meine generell Frustration mit  dem was man wohl Rechtsstaat nennen könnte. Der im Großen und Ganzen immer noch wesentlich besser funktioniert als das was man in Batman sieht, aber mir persönlich immer noch ziemlich weit von dem entfernt ist was eine menschliche Zivilisation mittlerweile erreicht haben sollte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #44
+
+* Titel: `Batman Arkham City - #44 - Ballistik die Zweite [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erneut jagen wir Deadshot hinterher, einen Schurken der bisher, zumindest was seine Taten angeht eigentlich ziemlich realistisch daher kommt. Der Gute verwendet ein größeres Scharfschützengewehr und macht damit Leute tot. Dann benutzt er dafür aber natürlich spezielle Munition die man nicht so einfach im Handel bekommt und ich nehme mal an das auch die ganzen anderen Dinge die er so tut nicht Fabrikstandard sind. Das wiederum lässt mich doch sehr an der gesitigen Gesundheit des Attentäters zweifeln. Nicht die Tatsache das er Leute umbringt. Ich kann mir viele gute Gründe vorstellen wie es dazu kommen konnte, aber dann irgendwelche Sonderanfertigungen zu benutzen erscheint mir wieder rum nicht sehr gesund. Und dann wäre da noch die Tatsache das er eine Lafette für einen Schuss von weniger als 200 Meter gebraucht hat. Das spricht jetzt auch nicht unbedingt für Fähigkeiten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

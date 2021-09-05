@@ -1154,6 +1154,51 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfreeHier
   ```
 
+##### #23
+
+* Titel: `Yakuza 3 Remastered - #81 - Neues von Majima [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist mal wieder so weit, wir klicken die Hauptgeschichte um eine kleine Erzählung weiter. Ich möchte noch einmal anmerken das ich solche Dinge außerordentlich selten tue. Man weiß ja nie wann das Spiel vorbei ist und bis das soweit ist will ich ja auch alle Nebenmissionen die mir die Welt zeigen beendet haben. So ist es klar das ich mich vor allen Dingen mit den wichtigeren Dingen beschäftige die da eben die Nebenmissionen sind. Und dann haben wir aber doch irgendwann den Punkt erreicht wo es nicht mehr weiter geht. Wir erinnern uns übrigens aus dem Epilog noch daran das Kiryu Majima abgestellt hat um für ihn nach dem Rechten zu sehen und dafür zu sorgen das Daigo nicht unter die Räder kommt. Nun, es stellt sich heraus das der gute Majima wohl nicht ganz in seinem Sinne gehandelt hat..oder? Bis jetzt wirkte Majima immer sehr, nun, man könnte sagen, passiv.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 30.08.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #82
+
+* Titel: `Yakuza 3 Remastered - #82 - Massagesalon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendeinen mir völlig unerklärlichen Grund ist diese Episode nicht vollständig monetarisiert. Ich kann mir beim besten Willen nicht erklären warum, und das Witzige ist, es ist ja eine automatische Einstufung die dafür sorgt das das Video nicht als kinderfreundlich eingestuft wird. Und da wird es noch interessanter, weil an sich passiert nichts. Alles was wir heute sehen ist quasi FSK12, nichts jugendverderbliches, keine Pornografie, kein gar nichts. Kazuma Kiryu geht in einen Massagesalon und lässt sich einmal richtig durchkneten. Den Rücken meine ich. Es scheint mir aber so als würde hier etwas angedeutet. Das ist übrigens so eine Sache mit der ich nicht so richtig Sympathie aufbauen kann. Dieses Massagesalons, die Hostess-Clubs, das ist alles, fremd für mich. Alles daran erscheint mir falsch. Und mit Massagesalon meine ich jetzt nicht den Rückenteil. Das..warum ergibt sich mir einfach nicht. Wie dem aber auch sei, nach einer halben Stunde Buttonsmashing kriege ich es dann übrigens auch hin nicht bei der Massage einzuschlafen. Warum auch immer das etwas Schlechtes ist. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 30.08.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #83
+
+* Titel: `Yakuza 3 Remastered - #83 - die Handtaschendiebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einer Fra die Handtasche zu klauen ist aus offensichtlichen Gründen ein attraktives Ziel. Mann kann davon ausgehen das 98% von ihnen schwächer sind als sie, unter Umständen für Verfolgungen ungeeignetes Schuhwerk tragen und schon im Vorfeld leicht zu erkennen sind. Ärgerlicherweise ist das Geld mit dem man rechnen kann auch nur so groß wie ihr Mann ihr zugestanden hat. Zumindest wenn man sich nicht auskennt. Alternativ kann man natürlich den Inhalt der Tasche vollständig ignorieren und stattdessen die Tasche selbst stehlen, einige Designergegenstände sind durchaus gutes Geld wert. Hier sollte die Ware aber möglichst neu sein, und da kommt dann Kiryu ins Spiel. Da er selbst ja sehr oft Hostess-Clubs besucht und dort den Hostessen auch große Geschenke macht kauft er gelegentlich auch Luxusgegenstände ein. Ich frage mich nur warum ein Handtaschendieb bei Kiryu die gleiche Risikoabschätzung wie bei einer Frau aus den 50er Jahren macht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 30.08.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

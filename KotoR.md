@@ -317,6 +317,51 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
+##### #23
+
+* Titel: `KotoR - #23 - Rakghoul Horden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  HierMeine Gruppe besteht aktuell aus ungefähr drei Fernkämpfern. Das sorgt dafür das alle Gegner die einfach nur stumpf auf uns zulaufen mit ein wenig intelligenter Aufstellung ziemlich leicht besiegt werden können. Heute gehen wir gegen wortwörtliche Rakghoul-Horden vor. Armeen aus Monstern die sich uns entgegen werfen. Die Slumbewohner meckern darüber das sie keine Chance haben wenn sie außerhalb der Grenzen ihrer Stadt gehen und das das Besorgen von Vorräten so gefährlich ist weil es überall eben diese Ghoule gibt. Und doch, anscheinend kann man die Bande mit einem kleinen Team aus nur drei mutigen Helden ziemlich leicht abwehren. Da fragt man sich doch ernsthaft warum genau wir eigentlich die Gesellschaft vorfinden die wir sehen, oder mangelt es einfach an Organisation?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #24
+
+* Titel: `KotoR - #24 - die Kanalisation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das genaue Layout von Taris ist mir immer noch ziemlich unklar. Natürlich können wir nur Bereiche betreten die in irgendeiner Hinsicht für die Geschichte relevant sind, aber selbst die ergeben scheinbar nicht allzuviel Sinn. Taris die Stadt steht auf irgendwas, irgendwann muss die kontinentale Platte kommen. All die Rohstoffe für die Bauten kamen bestimmt nicht aus dem Weltraum oder irgendwelche Asteroiden, Einige bestimmt, aber nicht alle. Irgendwo da unten muss es also noch die großen Tagebaue geben. Das ist dann wohl das was man als Slums kennt, okay. Jetzt haben die Leute die weiter oben wohnen eine Menge Abwasser..und jetzt kommt natürlich die Frage nach Sanitäranlagen auf.Gerechtigkeit war ja leider aus verkauft, allerdings gab es noch ein wenig Kanalisation. Wenn man sich anguckt wie groß die entsprechenden Zugänge sind könnte man fast meinen hier ging das ganze Budget hin. Aber auch irgendwie fragwürdig, wer wartet das Zeug? Sind die ganzen Anlagen selbstwartend, machen das Roboter oder steuert die Zivilisation auf Taris auf den Kollaps zu ganz ohne das irgendwer die Säulen sprengen die wortwörtlich die Welt halten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #25
+
+* Titel: `KotoR - #25 - Zaalbars Rettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wookies sind aus irgendwelchen Gründen eine beliebte Rasse für Sklaven. Klar, die Viecher sind stark und weil sie so schön fellbehangen sind könnte man sie auch für wilde Tiere halten. Die Tatsache das die Typen traditionelle Armbrust-Laser haben und insgesamt ziemlich organisiert daher kommen scheint niemand zu interessieren. Das sie dann auch noch bei jeder Gelegenheit den Aufstand proben scheint auch niemanden zu stören. Generell und überhaupt fragt man sich doch wirklich was all das Sklavenbusiness soll wenn man Roboter haben kann. Aber ich nehme an die Star Wars Welt braucht einfach gute Erklärungen warum irgendwelche Dinge passieren. Roboterdiebstahl hätte wohl einfach nicht die gleiche Tragweite. Immerhin versetzt uns das in die Lage heute Zaalbar, den besten Kumpel von Mission zu retten. Er hat aber nur Talent dafür Türen einzutreten. Das ist nicht besonders vielfältig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

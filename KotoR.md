@@ -14,6 +14,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 1, Aufnahme vom 05.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -29,6 +30,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 1, Aufnahme vom 05.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -44,6 +46,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 1, Aufnahme vom 05.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -59,6 +62,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 2, Aufnahme vom 12.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -74,6 +78,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 2, Aufnahme vom 12.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -89,6 +94,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 2, Aufnahme vom 12.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -104,6 +110,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 2, Aufnahme vom 12.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -119,6 +126,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 2, Aufnahme vom 12.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -134,6 +142,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 2, Aufnahme vom 12.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -149,6 +158,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 2, Aufnahme vom 12.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -164,6 +174,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 3, Aufnahme vom 17.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -179,6 +190,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 3, Aufnahme vom 17.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -194,6 +206,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 3, Aufnahme vom 17.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -209,6 +222,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 3, Aufnahme vom 17.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -224,6 +238,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 3, Aufnahme vom 17.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -239,6 +254,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 3, Aufnahme vom 17.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -254,6 +270,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 3, Aufnahme vom 17.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -269,6 +286,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 4, Aufnahme vom 26.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -284,6 +302,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 4, Aufnahme vom 26.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -299,6 +318,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 4, Aufnahme vom 26.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -314,6 +334,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 4, Aufnahme vom 26.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -329,6 +350,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 4, Aufnahme vom 26.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -344,6 +366,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 4, Aufnahme vom 26.08.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
@@ -359,6 +382,135 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 5, Aufnahme vom 02.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #26
+
+* Titel: `KotoR - #26 - Abreise ins Paradies [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  HierAnscheinend haben wir alle Tagebuch-Einträge gefunden die die Slum Bewohner gebraucht haben um ihre Reise ins Paradies zu beginnen. Ich bin mir ziemlich sicher das es kein Paradies gibt oder das die ganze Geschichte so läuft wie in "Mad Max Fury Road". Das Paradies hat schon lange aufgehört zu existieren oder war nie so wie beschrieben. Letztendlich spielt es wohl auch keine echte Rolle was aus den Leuten wird. Ich war offensichtlich nicht in der Lage sie aufzuhalten, und meine logischen Einwände wurden komplett ignoriert. Ich halte es schon für ziemlich unwahrscheinlich das niemand je von dort zurückgekehrt ist, außer die Leute sind halt tot. Ich kann wohl davon ausgehen das genau dies eingetreten ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 5, Aufnahme vom 02.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #27
+
+* Titel: `KotoR - #27 - Rancor Eingang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir war so als hätte ich irgendwo in der Kanalisation schon irgendwelche Viecher niedergeschossen, aber meine Erinnerung an vergangene Sitzungen ist wie immer ein wenig, unscharf. Stellt sich aber heraus das egal was ich erschossen habe, es war kein Rancor, die Viecher wären mir nämlich in Erinnerung geblieben. Wie dem aber auch sei. Heute kommen wir an das Tier vorbei, wir sind natürlich super schlau und wissen wie man mit dem Tier umgehen kann. Alternativ hätten wir uns wahrscheinlich einfach daran vorbeischleichen können, genügend Tarnfeldgeneratoren vor raus gesetzt. Wie dem aber auch sei, damit ist dann auch das letzte große Hindernis in die Basis der schwarzen Vulkar beseitigt und wir können dann endlich damit anfangen die Reihen der Bande empfindlich dezimieren..ich meine natürlich, den Fluxkompensator stehlen und Dinge tun.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 5, Aufnahme vom 02.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #28
+
+* Titel: `KotoR - #28 - Vulkar Basis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eventuell sind wir ziemlich mächtig, oder aber die schwarzen Vulkar sind gar nicht so fähig wie sie sich immer gegeben haben. Wie auch immer der Fall sein sollte, wir schießen uns heute einen Weg durch die Basis der schwarzen Vulkar. Die sind natürlich durchaus formidable Gegner aber zum Glück auch nicht so zahlreich das wir in irgendwelche ernst zu nehmenden Probleme laufen. Obwohl man durchaus sagen muss das es an der ein oder anderen Stelle ein wenig knapp geworden ist.  Um die Unlogik des Tages abzufrühstücken: Was genau ist die Basis der Vulkar. Es kann ja wohl nicht sein das hier irgendwelche Einrichtungen herumstehen die perfekt dafür geeignet sind eine größere Bande unterzubringen. Sanitäranlage, private Cantina, an sich ist ja wirklich alles da, sogar eine gut ausgestattete Werkstatt werden wir später finden. Gibt es irgendwie die Straßenbande der Basisbauer oder wo kommen solche perfekt zugeschnittenen Baracken her?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 5, Aufnahme vom 02.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #29
+
+* Titel: `KotoR - #29 - Vulkwarwerkstatt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte in der Beschreibung der letzten Episode das die Vulkar über eine erstaunlich ausgerüstete Basis verfügen, es ist quasi alles da. Bisher hätte man noch argumentieren können das es sich halt um die Baracke irgendeiner militärischen Abteilung gehandelt hat, aber jetzt finden wir auch noch eine Werkstatt vor, nicht eine für schweres Gerät, Panzer oder andere größere Vehikel die man so erwarten würde sondern eine explizit für Swoop-Bikes. Ich gehe also immer mehr davon aus das es irgendwo eine Straßenbande gibt die sich darauf spezialisiert hat Festungen und Anlangen zu erbauen. Bringt den schwarzen Vulkar übrigens alles überhaupt nichts, wir schießen trotzdem alle nieder, aber immerhin finden sich, nachdem wir echt viele von ihnen über den Haufen geschossen haben weil ich die Erfahrungspunkte haben wollte, welche die mit mir reden wollen. das kommt wohl ein wenig spät
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 5, Aufnahme vom 02.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #30
+
+* Titel: `KotoR - #30 - Swoopbooster [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gab eigentlich nur einen einzigen Grund warum wir überhaupt in die Basis der schwarzen Vulkar eingedrungen sind..um sie alle auszulöschen, ihre Nummern so sehr zu dezimieren das sie keine Chance haben einen Bandenkrieg zu gewinnen und uns Bastilla mit Gewalt zu holen. Oder aber vielleicht auch um einen illegalen Booster für das große Swoop-Bike Rennen zu erhalten. Generell und überhaupt ist es eigentlich ziemlich interessant das der Booster überhaupt auch nur ein wenig als illegal gilt. An sich wurde mir kein Regelkommitee vorgestellt und die allgemeinen Rahmenbedingungen was genau eigentlich ein Swoop-Bike ausmacht hat bis her auch niemand erklärt. Von allem was ich weiß muss mein Gefährt eigentlich nur aussehen wie ein Swoop-Bike und sonst keinerlei Gemeinsamkeiten mit einem eben solchen haben. Aber dann kommen bestimmt die Bandenanführer und reden etwas von Schiebung. Ob es hier so etwas wie Ehre gibt? Wahrscheinlich nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 5, Aufnahme vom 02.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #31
+
+* Titel: `KotoR - #31 - das große Rennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend hat Knights of the Old Republic eine Reihe von Minispielen die das Spielgeschehen irgendwie auf hübschen sollen. Ich bin ein wenig unsicher was ich davon halten soll, auf der einen Seite scheint das ja eine ganz süße Idee zu sein aber ultimativ lenkt es ja doch nur vom eigentlichen Spiel ab. Es wird in etwa 7 Episoden ein weiteres Minispiel geben dessen Sinn mir sich nicht so ganz ergibt. Es existiert zwar aber so richtig schwer ist es auch nicht, wäre es schwer würde ich mich übrigens aufregen warum so etwas überhaupt in einem RPG ist. Ansonsten habe ich ein wenig Angst das das Programmieren eines rudimentären Rennsimulators wichtige Entwicklungszeit verbraucht hat, andererseits könnte es durchaus ein Abfallprodukt sein auf das ein Einzeltäter sowieso Lust hatte und das einfach mit verbaut wurde. Wie dem aber auch sei, natürlich gewinnen wir das große Rennen und erhalten damit unseren Preis...irgendwie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 5, Aufnahme vom 02.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #32
+
+* Titel: `KotoR - #32 - Wege der Macht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben in der letzten Episode von Bastilla, anscheinend einer Jedi, gelernt das wir, Visper Cora eine Verbindung zur Macht besitzen. Das kommt wahrscheinlich ziemlich oft vor. Nicht alle Leute die irgendeine Art von Macht spüren werden ja automatisch Jedi. Wir wissen ja schon aus anderen Star Wars Spielen das es auch Machtbenutzer gibt die nicht bei der Jedi-Sekt oder den Sith-Erleuchteten mitmachen und trotzdem ganz gut fahren. Was die Macht aber tut ist jeder besonderen Fähigkeit ein großes Fragezeichen zu verpassen. An sich zählt Leistung, Können und Fleiß gar nichts. Wenn ma noch so ein toller Pilot oder Schütze ist und dann kommt da jemand daher der von der Macht belächelt wird dann ist das unerreichbar. Das könnte man jetzt auch über Talent sagen, aber das stellt in der Regel keinen "i win"-Knopf da wie es die Macht ist. Lange Geschichte kurz, wir sind eigentlich unfähig und es war nur die Macht die unseren Weg gelenkt hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 6, Aufnahme vom 09.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #33
+
+* Titel: `KotoR - #33 - der Plan von Canderous [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben es zwar irgendwie geschafft Bastilla zu befreien aber leider stehen wir jetzt wieder genau da wo wir vorher standen. Und eigentlich war es auch nur Carth der der Meinung war das es total wichtig ist die junge Jedi zu befreien. Nach ihrer eigenen Aussage hätte sie das wohl auch selber gekonnt, insofern war alles was wir getan haben ziemlich sinnlos. Die toten schwarzen Vulkar sehen das bestimmt anders und zumindest die Bewohner der Slums haben jetzt ein anderes Leben..davon aber einmal abgesehen hätten wir uns all die Mühen wohl sparen können und einfach abwarten..oder aber, viel wichtiger, schon einmal darüber nachdenken können wie wir eigentlich den Planeten verlassen. Ich kann mir übrigens nicht so richtig vorstellen das man einen ganzen Planeten unter Qurantäne halten kann. Spontan hätte ich auch die Idee das wir einen Aufstand organisieren und im entstehenden Chaos jede Menge Raumschiffe starten lassen und im Gewirr dann einfach durchschlüpfen. Das wäre natürlich mit hohen menschlichen Verlusten verbunden, aber diese Menschen wären ziemlich sicher nicht wir, also klingt das doch schon einmal ganz gut. Jetzt tritt aber der legendäre Mandalorianer Canderous auf der einen anderen Vorschlag hat...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 6, Aufnahme vom 09.09.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 

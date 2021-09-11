@@ -4106,6 +4106,97 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1522
+
+* Titel: `Let's Play ESO #1522 - Zenithars Abtei [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 97 des Blackwood DLCs - Sitzung 15
+  
+  Ein Gruppendungeon ist in der Regel kein Ort den man einfach so alleine betreten will. Im Falle der Abtei von Zenithar ist es aber alles gar nicht so schwer und wir kommen, soweit ich das sehen kann, ziemlich gut durch. Die Abtei finde ich übrigens ziemlich gut, von so vielen Orten die wir bisher besucht haben kommt mir dies hier doch irgendwie seltsam lebendig vor. Es fühlt sich so als an als wäre es ein echter Platz. Eine Stadt in der einmal Menschen gelebt haben und in der dann die Dinge mächtig schief gegangen sind. Was genau passiert ist können wir wahrscheinlich niemals im Details herausfinden, es sei denn natürlich die gesamte Bevölkerung hatte den unbändigen Drang Geschichte nieder zu schreiben und wir finden dann eben diese Aufzeichnungen mit denen wir die Geschehnisse zusammenstückeln können.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1523
+
+* Titel: `Let's Play ESO #1523 - Marktplatzruinen [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 98 des Blackwood DLCs - Sitzung 15
+  
+  Die Abtei von Zenithar war eigentlich so eine Art größerer Umschlagsplatz für alle möglichen Waren. Wie genau das passiert sein soll kann ich mir übrigens nicht so recht erklären. Weil letztendlich werden die einfachen Leute nicht tagelang irgendwo hin pilgern um irgendwelche kleinen Gegenstände zu kaufen, die Zeit hat niemand denke ich mal. Auf der anderen Seite machen kleine Markstände keinen Sinn wenn man auf Großabnehmer aus ist die mehr als nur das was man sofort sehen kann umsetzen. Mir scheint aber das die Abtei keine nennenswerte Produktion bzw. Metropole war für sich. Wie genau haben die Leute dann also bitte gelebt? Wenn es keinen besonders guten Grund außer den täglichen Handel gab, was für Leute sind dann bitte zum Ort gekommen um Handel zu treiben? Wo kamen die Finanzen her um einen solchen Ort am Leben zu halten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1524
+
+* Titel: `Let's Play ESO #1524 - der goldene Amboss [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 99 des Blackwood DLCs - Sitzung 15
+  
+  Und schon haben wir ihn gefunden, den großen goldenen Amboss von Zenithar, das Symbol für den gerechten Lohn von ehrlicher Arbeit. Letztendlich könnte man hier jetzt aber eine Grundsatzdiskussion anfangen wie genau sich eigentlich ehrliche Arbeit und gerechter Lohn definiert. In den meisten Fällen profitiert immer irgendjemand von der geleisteten Arbeit die jemand vollbracht hat und der Lohn den die eigentlich Arbeitsleister erbringen ist schwierig einzupreisen. Es gibt da eine Menge Transferleistungen und Dienste die oben drauf kommen das man sich eigentlich nie sicher sein kann das der Bauer oder Handwerker wirklich ausreichend bezahlt wurde. Für Abenteuerer gibt es ja auch keine Preisliste. Generell ist sowas auch immer ein Problem, wenn man etwas nach einer Metrik bemessen will dann wird diese Metrik ganz schnell Gegenstand von Optimierung. Zum Beispiel "verbannte Geister", wenn ich merke das es dafür unproportional viel Geld gibt mache ich mich auf und farme Ektoplasma wie wild, einfach weil ich danach optimiere, aber das eigentlich Ziele die Minotauren loszuwerden klappt dann nicht. Siehe auch die Versuche irgendwelche Schlangen auszurotten was dazu geführt hat das die Menschen angefangen haben Schlangen in Masse zu züchten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1525
+
+* Titel: `Let's Play ESO #1525 - Mirri Elendis [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 100 des Blackwood DLCs - Sitzung 15
+  
+  Das gesamte Schwarzwald DLC neigt sich dem Ende zu, aber ich weiß das es noch einen Nebenquest Komplex gibt den ich noch nicht angefangen habe. Warum ich das weiß? Einfach, es sollte zwei Begleiter mit dem DLC geben und bisher haben wir nur einen aufgesammelt. Daraus schließe ich einmal das wir noch etwas tun können. Und heute treffen wir dann auch endlich den zweiten Begleiter. Es handelt sich um Mirri Elendis, eine Dunmer die zusammen mit ihren Bruder scheinbar als freie Abenteurerin unterwegs ist. Ein nicht sehr einträgliches Geschäft wie ich aus Erfahrung berichten kann, und wir sind quasi die Oberliga des Abenteuerer-Seins, bezahlen tut der Job trotzdem nicht besonders gut. Wenn man Risiko und Kosten, insbesondere die laufende Abnutzung von Ausrüstung anschaut, ist das Leben als einfacher Handwerker doch nicht mehr so depremierend. Das hier ist übrigens Episode 100 des Blackwood DLCs, ich hätte nicht gedacht das wir soviele Episoden herauskriegen, das rechtfertigt ja fast schon den Preis.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1526
+
+* Titel: `Let's Play ESO #1526 - Untergangsgewölbe Vulpinaz [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 101 des Blackwood DLCs - Sitzung 15
+  
+  Schon lange bevor wir Mirri begegnet sind war natürlich klar wohin unsere Reise führt. Es gibt 4 Ambitionen also wäre es auch ziemlich logisch mindestens eben so viele Untergangsgewölbe zu finden, das zwei der Ambitionen Geschwister sein würden hätte ja vorher keiner wissen können und aus irgendwelchen Gründen scheint es als vorteilhaft angesehen zu werden das man die einzelnen Ambitionen von Mehrunes Dagon voneinander trennt. Insofern bin ich nicht im Geringsten überrascht 
+  ein weiteres Gewölbe zu finde. Eigentlich könnte man sogar noch viel mehr Einrichtungen erwarten, schließlich könnte sich ein Bunker als nicht erfolgreich herausstellen oder man braucht einen Rückzugsort für unvorhergesehene Vorfälle. Andererseits erhöht jeder weiterer Standort natürlich auch die Gefahr der Entdeckung des Gesamtplanes, eine Angst die scheinbar völlig unbegründet war. Das hier vorliegende Gewölbe scheint keine Ambition zu beheimaten, aber stellt ansonsten wie die Anderen eine scheinbare direkte Verbindung zu den Totenländern da..was wohl passieren würde wenn man mit einem Flugzeug in den Himmel aufbrechen würde?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1527
+
+* Titel: `Let's Play ESO #1527 - Seelenrettung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 102 des Blackwood DLCs - Sitzung 15
+  
+  Heute lernen wir etwas Neues über das geopfert werden. Im Kanon ist uns das ja schon einmal passiert, ganz am Anfang als wir angefangen haben da wurden wir von irgendwelchen Kultisten Molag Bal geopfert. Wie genau das passieren kann bleibt wohl ein Mysterium und wieso wir uns auch an Nichts erinnern können ist mir ebenso nicht klar. Fakt ist aber, wir waren auf Nirn, wurden geopfert, waren dann in Kalthafen aber so richtig unsere Seele haben wir bis zum Ende auch nicht. Erst als wir mit der Hilfe eines Aedra die Macht von Molag Bal eingeschränkt haben haben wir irgendwie unsere Seele zurückerhalten. Stellt sich doch glatt heraus das die plötzliche Opferung nicht die einzige Methode ist. Anstatt den Umweg über einen Seelenstein zu gehen kann man wohl die Energie direkt nutzen, dessen werden wir heute Zeuge, irgendwelche Vorteile hat das Verfahren wohl auch, sonst würde es nicht gemacht. Dies bringt uns aber auch in die Lage die Leute zu retten. Noch viel wichtiger übrigens, anscheinend sind Seelen eine erneuerbare Ressource. Einmal befreit scheinen sich die Leute wieder zu erholen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

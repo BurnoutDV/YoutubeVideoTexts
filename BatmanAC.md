@@ -623,6 +623,123 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #45
+
+* Titel: `Batman Arkham City - #45 - erhöhte Sicherheitsvorkehrungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das der Joker auf einmal um seine Sicherheit besorgt ist. Oder aber er möchte Bats ein wenig mehr herausfordern. Von allen Gegner die Batman so hat wissen wir über den Joker quasi das er nur Dinge tut weil er Batman einen würdigen Gegner liefern will. Das weiß der Bruce Wayne Darsteller natürlich überhaupt nicht zu schätzen aber im Prinzip ist es so. Joker ist defacto ein Gamemaster der für seinen Pen&Paper Abend alles tut um es irgendwie spannend zu halten. Das er dabei ziemlich viele Menschenleben riskiert und insgesamt ein wenig psychotisch vorgeht macht natürlich den Charm des Charakters aus. Sei es wie es sei, ich bin mir also ziemlich sicher das die Sicherheitsvorkehrungen nur deshalb erhöht wurden damit "Bats" es ein wenig schwerer hat in die Bude reinzukommen. Und damit meine ich nicht das er irgendeine Hoffnung hat das Batman es nicht schafft, nur das er die Herausforderung genießen kann. Inwieweit seine Leute das ahnen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #46
+
+* Titel: `Batman Arkham City - #46 - Wärmetauscher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  HierEin Wärmertauscher ist eigentlich ein Gerät das dafür sorgt das man die Energie die man irgendwie reingesteckt hat wieder heraus bekommt. Oder überhaupt irgendetwas warm bekommt. Tatsache ist, Hitze zu erzeugen ist gar nicht so einfach wie man meinen möchte. Klar kann man eine Heizspirale direkt in die Brühe halten, aber unter Umständen ist das nicht die beste Lösung. Kälte ist übrigens noch schwerer, außer Gasexpansion fällt mir da nicht viel ein wie man Dinge irgendwie Hitze entziehen kann. Ist ja nicht so das man einfach die Entropie umkehren kann. Wärmetauscher sind auch von der Wartung und Instanthaltung recht interessant. In der Regel sind das dünne Rohre die durch Flüssigkeit gelegt sind und die Wärmeübertragung findet dann durch den Übergang der Rohre statt. Da wäre es natürlich schlecht wenn eines der Rohre ein Leck hat. Je nachdem was für eine Art von Flüssigkeit man hat, umso wahrscheinlicher ist es das das Zeug langsam Löcher bekommt. Das ist dann sehr unschön. Deswegen muss man sowas testen. All diese Dinge sind sowohl dem Joker als auch Batman vollkommen egal. Aber im großindustriellen, 30er Jahre Charm, bietet uns etwas das hier großzügig als Wärmetauscher anstatt "Kühlwasserbecken" bezeichnet wird, einen Eingang. Immerhin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #47
+
+* Titel: `Batman Arkham City - #47 - schwer bewachtes Gelände [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich muss feststellen das ich bei der Benennung der letzten drei Episoden auf jeden Fall ziemlich groß dabei gewesen bin. So wie die Dinge stehen hat der Joker immer noch nicht aufgegeben uns das Leben schwer zu machen, und das trotz seiner Beteuerungen das er das Gegenmittel sogar freiwillig her geben würde. So wie die Dinge aber wohl stehen hat er sich das noch einmal überlegt oder entschieden das die Fledermaus noch ziemlich fit ist und wir daher ein wenig mehr Leid erfahren sollen. Zum Glück hat Sionis Industries, die Firma die irgendwann einmal das örtliche Stahlwerk betrieben hat an solche Dinge gedacht und eine Menge praktischer Seitengänge erschaffen die uns jetzt in die Lage versetzen einige der härteren Fallen des Clowns einfach zu umlaufen. Dem geht es übrigens mittlerweile wesentlich besser.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #48
+
+* Titel: `Batman Arkham City - #48 - gefrorene Ausrüstung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zwischen dieser und der letzten Episode ist mal wieder eine Woche vergangen, logischerweise habe ich dann natürlich auch vergessen was ich das letzte Mal gemacht habe. Warum Harley jetzt irgendwo gefesselt rumliegt ist zum Beispiel nicht ganz klar aber ich erinnere mich dunkel das ich irgendwelche Ausrüstung im Keller finden wollte. Also begeben wir uns in den Keller um eben diese Ausrüstung aufzulesen, kann ja in der Praxis eigentlich gar nicht so schwer sein oder? Wie dem aber auch sei, am Ende finden wir die Ausrüstung natürlich. Es handelt sich um irgendein Upgrade für das Eis-Zeug von Freeze, ich habe aber ehrlich gesagt jetzt schon wieder vergessen ob was genau es sich dabei eigentlich handelt. War anscheinend sehr wichtig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #49
+
+* Titel: `Batman Arkham City - #49 - Jokers Horde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir dann Dinge im Keller aufgelesen haben fällt uns selbstverständlich auf das der Joker wieder vollständig genesen ist. Das ist jetzt eher schlecht für uns, aber letztendlich ist der Clown ja trotzdem kein Gegner mehr oder? Ich meine, was genau will er den auch machen, es handelt sich um einen schmechtigen Mann mit einer viel zu großen Kinn-Partie. Davon einmal abgesehen ist er halt der Typ der miese Tricks und Lügen benutzt um seine Ziele zu erreichen. Man könnte ihn wohl sogar ein paar Fähigkeiten in Sachen Planung und Durchführung andichten ohne dabei die Wahrheit zu sehr zu verbiegen. Aber ein direktes Duell mit dem Joker ist eher sinnlos. Also für den Clown. Nicht für Batman. Das weiß natürlich auch der Irre. Daher bleibt es nicht lange beim Joker allein, war ja klar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #50
+
+* Titel: `Batman Arkham City - #50 - Katzentrophäen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind mal wieder Catwoman, nachdem sich Batman ja in der letzten Episode nicht besonders klug angestellt hat und wieder einmal übertölpelt wurde..der größte Detektiv der Welt. Nun gut, wir sind also wieder das Kätzchen, das Kätzchen das nicht besonders kampfstark ist und direkte Konflikte auf jeden Fall vermeiden sollte. Das Kätzchen das die roten Trophäen einsammeln kann, die Trophäen die wir bis her leider nicht erringen konnten. Ärgerlicherweise stellt sich doch glatt heraus das wir vorher Einiges hätten mit Batman vorbereiten müssen und das habe ich natürlich nicht getan, und so kommt es das ich gar nicht so viele Rätsel einsammeln kann wie ich das gerne gemacht hätte. Ein echter Ärger aber auch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #51
+
+* Titel: `Batman Arkham City - #51 - Untergrundkatze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Catwoman ist eine Diebin, als solche ist sie nicht gut darin zu fliegen. Handelsübliche Katzen können das einfach nicht. Und daher überrascht es auch nicht das die Fortbewegung über die Dächer der Stadt eher nicht so positiv verlaufen ist. Klar, sie hat immerhin eine Reihe von Werkzeugen die es ihr ermöglichen halbwegs gut durch zu kommen aber im Großen und Ganzen fühle ich mich nicht gut dabei zu versuchen über die Dächer von Arkham City zu springen. Es wird also Zeit für einen Szenenwechsel. Ich weiß das es Schätze in den U-Bahn Tunneln gibt, daher geht unsere Reise heute dorthin. Erfreulicherweise gibt es auch nicht mehr besonders viele Leute dort unten, es ist fast so als wäre alles wichtige dort bereits passiert. Im Untergrund kann Selina aber ihre Stärken wesentlich besser ausspielen, außerdem ist es dort auch nicht so kalt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #52
+
+* Titel: `Batman Arkham City - #52 - Super Scharfschützen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir dann doch endlich einmal aus der Kanalisation heraus sind befinden wir uns jetzt, mit Catwoman, im Bereich der Stahlwerke. Dem Ort an dem der Joker anscheinend fähiges Personal aufgestellt hat das jeden herankommenden Fledermausmann abschießen soll. Ärgerlicherweise scheinen die Burschen aber nicht freundlichen zu Frauen zu sein und ballern wild um sich. Das Alles wäre wenig erwähnenswert wenn da nicht die unheimlich Fähigkeit dieser Scharfschützen wäre praktisch ein 320 Grad Sichtfeld zu haben, es ist quasi unmöglich etwas hinter ihren Rücken zu machen. Das nervt mich doch sehr. Eventuell rege ich mich auch auf, an dem Tag an dem ich diese Episode aufgenommen habe wars ich eventuell etwas unausgeglichen. Mehr dazu in zwei Episoden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

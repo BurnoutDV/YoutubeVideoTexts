@@ -1199,6 +1199,126 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #84
+
+* Titel: `Yakuza 3 Remastered - #84 - der rote Ballon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute sehen wir wieder einmal zwei enorm tief gehende Schicksale. Einmal haben wir einen Jungen den anscheinend das Sehen der Mutter verboten wurde. Die gesamte Geschichte ist interessant aber ein richtiges Urteil kann man wohl mit den vorhandenen Fakten eher nicht fällen. Ich weiß das in Deutschland in der Regel das Sorgerecht über Kinder an die Mutter geht, quasi immer, es sei den es gibt nachweisbare, große Gründe. Wie es in Japan ist kann ich nicht sagen, aber wir wissen auch nicht ob in diesen Fall nicht tatsächlich gute Gründe vorlagen das der Mutter der Zugang verboten wurde. Eine ungewöhnliche Geschichte übrigens wie ich feststellen möchte, weil, nicht nur das sie nicht das Sorgerecht hat aber ihr wurde explizit verboten das Kind zu sehen. Dann treffen wir noch einen verzweilften Ladendieb. Einzelschicksale.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 30.08.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #85
+
+* Titel: `Yakuza 3 Remastered - #85 - Promischläger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kiryu ist sehr dafür bekannt das er gelegentlich sehr seltsame Jobs annimmt. Es scheint das die Gesellschaft eine ernsthaften Mangel an Leuten hat die groß, furchteinflößend und durchsetzungsfähig sind. Kiryu ist all dies, also ist er auch gut dafür geeignet um irgendwelche Promi-Fotografen abzuwehren. Generell und überhaupt habe ich wenig Respekt für Paparazzi. So richtig fällt mir kein legitimer Grund dafür ein das berühmte Personen keine Privatsphäre besitzen dürfen. Wie dem aber auch sei, wir überzeugen die eh davon das es keine gute Idee ist Bilder zu machen, Bilder können schließlich ein großes Problem sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 30.08.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #86
+
+* Titel: `Yakuza 3 Remastered - #86 - die Verdammnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich neige ja dazu bestimmte Orte und Charaktere immer wieder und damit auch wiederholt über mehre Ausgaben von Yakuza Spielen falsch zu übersetzen. Das mache ich natürlich mit Absicht. Ein Fall bei dem es gar nicht so falsch ist ist das "Purgatory", das kann schon Verdammnis heißen, oder aber vielleicht auch Höllenfeuer. Auf jeden Fall ein Ort an dem Seelen gequält werden nachdem sie ein Leben in sündiger Existenz verbracht haben. Wo da die Gerechtigkeit oder der Sinn liegt ist mir übrigens nicht ganz klar. Aber ironisch ist auf jeden Fall auch das der gleichnamige Orte in der Yakuza-Parallelrealität ein Ort ist an dem man eben genau diesen Sünden frönen kann. Schon irgendwie ironisch. Betrieben wird der ganze Laden anscheinend von Majima der sich offensichtlich sehr freut uns zu sehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 07.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #87
+
+* Titel: `Yakuza 3 Remastered - #87 - Goro Majima [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da haben wir ihn auch schon, den guten alten Goro Majima, der erklärt uns auch das ihm die Tradition enorm wichtig ist, und das inkludiert auch das man nicht darüber reden kann was passiert ist und wenn man versprochen hat nicht über bestimmte Dinge zu reden. Das kann man respektieren bringt uns aber ärgerlicherweise nicht weiter, wir wollen die Dinge ja trotzdem wissen. Daher müssen wir höflich fragen um Informationen aus Majima zu exfiltrieren. Die logische Konsequenz ist das wir uns auf einen Kampf mit dem legendären Boss der Majima-Familie einlassen müssen. Das überrascht niemanden wie ich sagen möchte. Und es ist auch nicht unbedingt unser erster Kampf nicht  wahr...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 07.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #88
+
+* Titel: `Yakuza 3 Remastered - #88 - chinesische Invasion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es könnte eigentlich fast ein bi-jährliche Ereignis sein. Kamurocho wird von irgendwelchen Kriminellen invasiert, ob es jetzt irgendwelche Yakuza aus Osaka, die Chinesen oder dann doch die Koreaner von der Jing-Wong Mafia sind, es macht absolut keinen Unterschied für die normalen Menschen. Beste Handlungsempfehlung die ich geben kann ist hier schnellstmöglich von der Straße zu verschwinden und niemanden im Weg zu stehen. Die meisten Kriminellen haben nicht wirklich ein Interesse an unnötigen Opfern aber sie haben auch absolut kein Problem damit irgendwelche Passanten um die Ecke zu bringen wenn die irgendwie die laufende Operation stören. Insofern ist Ausweichen wohl eine ganz gute Taktik, wenn dann möglich. Es ist nicht davon auszugehen das die Chinesen großartig irgendwelchen Leute verfolgen die nicht auf ihrer Abschussliste stehen, dafür sind ihre Anweisungen zu strikt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 07.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #89
+
+* Titel: `Yakuza 3 Remastered - #89 - Lau Ka Long [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist immer wieder schön alte Bekannte wieder zu treffen. Im Falle von Lau Ka Long ist das aber nicht ganz so erfreulich, stellt sich doch glatt heraus das die gesamte Invasion von Kamurocho auf ihn zurück geht und das er all das nur getan hat um sich an Kiryu zu rächen. Manche Leute sind erstaunlich nachtragend. Und phantasielos möchte ich sagen. Der Anführer einer Triade wäre doch bestimmt auch in der Lage gewesen Kiryus Aufenthaltsort außerhalb von Toyko zu finden. Oder war es ihm wichtig den großen Ex-Yakuza auf dem Gebiet "seiner" Stadt zu schlagen. Anders kann ich mir das Vorgehen auch nicht erklären. Die gesamte Okinawa Operation würde ja auch kein Sinn ergeben wenn er nicht genau wüsste das sein Handeln Kiryu angestachelt hätte zu handeln.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 07.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #90
+
+* Titel: `Yakuza 3 Remastered - #90 - Wiedergutmachung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann passieren auf einmal eine Menge interessanter Dinge. Zum Beispiel der das wir doch nicht Rikiya verlieren wie das ursprünglich sehr abzusehen war. Man könnte wohl mit Fug und Recht von einer Deus Ex Machina reden, nur das wir sie bereits kennen. Es handelt sich um Kazama..oder auch nicht Kazama. Eine englisch sprechende Ausführung des großen Yakuza der definitiv tot ist. So wie es aussieht hatte der Mann wohl einen Zwillingsbruder. Einen Zwillingsbruder der uns scheinbar nicht direkt tot sehen will. Seine genauen Motive sind aber immer noch Mysteriös. Was wir wissen ist das er für uns eingegriffen hat obwohl er es hätte nicht tun können oder sogar warten bis sich das Problem von selbst bereinigt und sein Involvement auf ein Minimum zu beschränken. Hat er aber nicht. Und dann erhalten wir auch noch Besuch vom Business Yakuza Mine..der natürlich genau weiß wo wir sind. Das ist eigentlich nicht so gut.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 07.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #91
+
+* Titel: `Yakuza 3 Remastered - #91 - sicherer Abschied [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zumindest die unmittelbare Bedrohung durch die Schlangen-Blumen Triade wäre gebannt. Das wirft allerdings die Frage auf was noch hätte alles passieren können. Rikiya scheint nicht in der Lage zu sein sich wirklich selbst zu verteidigen. Es ist fast schon lächerlich wie viel schwächer der Provinz-Yakuza neben dem Drachen von Dojima ist. Während Kiryu sich mit der Macht von 20 Heiltränken und Plot-Rüstung durch Horden von Gegnern mit dem Weg der Faust schlägt scheint unser junger Freund Probleme zu haben mehr als zwei Gegner zu überwinden. Keine große Überraschung eigentlich. Mehr alas zwei Gegner sind auf für den erfahrensten Kämpfer ein Problem, und eigentlich ist schon alles andere als ein Zweikampf für Leute ohne Augen im Hinterkopf unüberwindbar. Wenn die Gegner wissen was sie da machen. Im Falle von Kiryu haben wir ja zum Glück Augen im Hinterkopf. Dennoch, alles nicht so einfach.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 07.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

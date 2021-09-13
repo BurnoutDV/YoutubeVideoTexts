@@ -4197,6 +4197,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1528
+
+* Titel: `Let's Play ESO #1528 - Begleiter Mirri [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 103 des Blackwood DLCs - Sitzung 15
+  
+  Und schon haben wir eine zweite Begleiterin. So weit ich das verstanden habe ist Mirri nicht direkt strikt besser oder schlechter als Bastian hata ber andere Qualitäten und Fähigkeiten die man halt in bestimmten Situationen besser nutzen kann als was auch immer unser guter Bastel-Wastel macht. Ich habe mir dieses Mal ein wenig die Mühe gemacht und ins Wiki geschaut. Die meisten Aktivitäten die man mit Mirri machen kann bringen quasi keine Punkte. Wenn man Freunde hat kann man die Aufgabe der Kriegergilde ziemlich oft am Tag machen. Ansonsten gibt es die tägliche Aschländerquest in Aldruhn die einfach und schnell geht. Nur mal in die Messingstadt zu reisen bringt auch ein paar Punkte. Alle anderen Aktivitäten bringen so wenig Punkte das es absolut sinnlos ist sie zu machen. Wenn man die Sammelquests der einzelnen DLCs gemacht hat kann man sie die Endergebnisse auch noch anschauen, auch das bringt einige Punkte. Habe ich aber leider nicht, verschiebe ich schon seit Jahrhunderten vor mir her.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

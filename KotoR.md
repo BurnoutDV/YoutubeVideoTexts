@@ -514,6 +514,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
+##### #34
+
+* Titel: `KotoR - #34 - Kopfgeldjängerin Visper [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da ich anscheinend doch irgendwie der hellen Seite der Macht fröhne leiden wir unter konstanten Geldmangel. Da hilft nur eine Sache: Moralisch graue Entscheidungen treffen um nicht komplett pleite zu gehen. Und Schritt 1 dafür ist es auf jeden Fall zumindest die Verträge der Kopfgeldjäger anzunehmen die halbwegs plausibel erscheinen. Immerhin muss man ja nicht nur immer die Leute jagen die nur durch Zufall in die Fänge des organisierten Verbrechens gefallen sind sondern durchaus auch welche die da mit voller Absicht drin sind. Da fragt sich dann zwar immer noch jeder wo wir eigentlich die Authorität her haben hier plötzlich Richter und Henker zu spielen und technisch gesehen ist es wohl immer noch Mord, aber vielleicht gibt es da ja irgendwelche Deals mit der Regierung von Taris..wie auch immer die aussieht. Ist aber eigentlich auch egal, wir verfahren nach der Maxime "anyway, i started blasting". Hat bis jetzt gut geklappt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 6, Aufnahme vom 09.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

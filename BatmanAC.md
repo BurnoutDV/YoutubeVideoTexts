@@ -740,6 +740,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #53
+
+* Titel: `Batman Arkham City - #53 - der Tresorraum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es jetzt schon dreimal in irgendwelchen Beschreibungen festgestellt, ich werde es wieder tun. Catwoman ist eine Diebin. Batman bekämpft vielleicht in irgendeiner Kapazität die Symptome des Verbrechens aber Selina Kyle macht das definitiv nicht. Ist auch gar nicht ihre erklärte Aufgabe, sie kommt aus armen Hause und würde gerne reich werden, und das geht am Besten indem man den Leuten die eh zuviel davon haben etwas weg nimmt. Im Falle von Arkham City ist das dann wohl unser bester Kumpel Dr. Strange. Der Gute ist grade ein wenig mit dem ganzen Protokoll 10 Bullshit beschäftigt, da kann man ihn auch schnell mal ein wenig die Koffer unterm Arsch weg klauen. Praktischerweise hat sein persönlicher Tresor wohl auch direkt noch einen Zugang nach Gotham, also bleibt uns kaum etwas Anderes übrig als zuzuschlagen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

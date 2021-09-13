@@ -1319,6 +1319,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #92
+
+* Titel: `Yakuza 3 Remastered - #92 - Laufen mit Mack [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend gibt es noch mehr Möglichkeiten fit zu werden als sich mit irgendwelchen Punks auf der Straße zu prügeln. Wir versuchen heute ganz nebenbei auch noch irgendwelche Waffen zu kaufen und zu leveln. Das rückt allerdings schnell in den Hintergrund wenn man die Möglichkeit hat mit Mack irgenwelche tollen Routen zu laufen. Und genau das passiert heute. Das macht uns zu einem noch schnelleren und fitteren Kiryu der in der Lage ist von so mancher Verfolgungsjagd erfolgreich davon zu kommen oder Leute einzufangen. Das alles wäre übrigens wesentlich praktischer hätte ich schon früher die Möglichkeit gehabt diese Herausforderungen abzuschließen, weil dann wären andere Geschichten leichter gewesen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 07.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

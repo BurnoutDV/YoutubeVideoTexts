@@ -755,6 +755,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #54
+
+* Titel: `Batman Arkham City - #54 - Protokoll 10 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist endlich soweit, Protokoll 10 wird aktiviert und wir können endlich zur Tat schreiten. Es stellt sich übrigens heraus das ich ziemlich enttäuscht bin. Irgendwie hatte ich bei einem ominösen Namen wie "Protokoll 10" mit mehr gerechnet als ein kleiner Pogrom in Arkham City. Ich meine, letztendlich macht Dr. Strange einen typischen Power Move wie man ihn von faschistischen Staaten kennt. In diesem Fall halt nur ein wenig kleiner. Es gibt ein "Lager" an dem man all die unliebsamen Leute konzentriert. Das keine medizinische Versorgung angeboten wird erklärt sich jetzt auch wesentlich besser. Wenn es eh der Plan war alle Leute mit Raketen zu töten wäre es auch auch ziemlich sinnlos gewesen Menschen zu behandeln. Allerdings stellt sich die Frage ob man das alles nicht irgendwie billiger machen könnte. Die Tatsache das Batman die 10fache Ladung relativ ohne Probleme überlebt hat spricht nicht unbedingt für den Plan des guten Doktor.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -4212,12 +4212,101 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1529
 
-* Titel: ``
+* Titel: `Let's Play ESO #1529 - Festung Rotmähne [Blackwood]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 104 des Blackwood DLCs - Sitzung 16
+  
+  Heute erfahren wir viele wichtige Dinge über die Festung Rotmähne. Zum Beispiel das die Einrichtung selbst anscheinend absolut unnötig war und nie für den Zweck genutzt wurde für den sie gebaut wurde. Das bedeutet aber auch das die theoretische Verteidigung vielleicht vor langer Zeit einmal ganz gut war, aber seit dem sind ungefähr 600 Jahre vergangen, das ist Zeit die an die Substanz geht. Außerdem wurde die Anlage damit nie praktisch getestet. Ich habe also irgendwie Zweifel das alles genau so funktioniert wie man sich das vorstellt. Wir reden aber außerdem mit diversen ehemaligen Weggefährten und die sind sich ziemlich sicher das schon alles klappen wird. Unser Feind wähnt uns aber immer noch in Gideon. Ich bin derweil ein wenig verwirrt wo genau Vandacia eigentlich so viele Truppen her hat, aber am Ende wird dann wohl herauskommen das dies einfach all seine Leute waren. Und wenn die dann ausgelöscht sind findet das alles ein Ende.
+  
+  0:00 - Gameplay
+  13:04 - Buch: Die Geschichte von Feste Rotmähne, erzählt von einem Legionär
+  17:09 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1530
+
+* Titel: `Let's Play ESO #1530 - Vandacias Angriff [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 105 des Blackwood DLCs - Sitzung 16
+  
+  Die ganze Prämisse die wir heute erleben ergibt ehrlich gesagt für mich nicht allzu viel Sinn. Eigentlich spielt uns Vandacia genau in die Karten.  Er greift unsere gut gesicherter Position an die wir schon im Vorfeld physisch sichern konnten. Alle Trümpfe liegen bei uns, klar, er hat die Unterstützung der Daedra aber wenn wir einfach langweilig Schildkröte spielen gibt es da nicht besonders viel was der ehemalige Kanzler eigentlich machen kann. Es sei den natürlich wir machen irgendwelche Fehler und spielen ihm eine Ambition in die Hände mit denen er ein Portal in die Totenländer öffnen könnte, aber das würde natürlich nicht passieren oder? Wie dem aber auch sei, was genau hindert unseren Lieblingsgegenspieler eigentlich daran noch mal 5 Jahre zu warten? Sitzt ihm Mehrunes Dagon so sehr im Nacken? Die Geduld des Fürsten ist sicherlich nicht unendlich aber andererseits hat der auch wenig Grund für lächerliche 5 Jahre jetzt einen Aufstand zu machen, und das ist für weltliche Maßstäbe schon echt lang. Zu lang um ein stehendes Herr zu erhalten. Aber gut, dann halt Frontalangriff.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1531
+
+* Titel: `Let's Play ESO #1531 - Ebenenverschmelzung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 106 des Blackwood DLCs - Sitzung 16
+  
+  Und schon ist es passiert, wieder einmal fällt ein Stück von Tamriel an die Daedra. Das wird bestimmt nicht lange so bleiben, sonst würden am Ende die anderen Spieler auch etwas merken. Ich bin übrigens immer wieder beeindruckt wie dünn und anfällig Nirn eigentlich gegen die diversen Pläne der Daedra ist. Man nehme einmal an die ganze Geschichte mit den vier Ambitionen hätte in Friedenszeiten stattgefunden, in Zeiten in denen es keine großen Helden gibt die gegensteuern. Natürlich muss man wohl davon ausgehen das es immer noch die Aedra gibt die anscheinend wesentlich subtiler im Hintergrund agieren. Eventuell ist das was für sterbliche  Augen so sehr nach Zufall aussieht in Wirklichkeit das filigrane Uhrwerk einer anderen Macht die dafür sorgt das die Existenz weiterhin sicher bleibt aber die Auswirkungen von solchen Ausmaßen sind das man es nicht abschätzen kann. Oder überhaupt wahrnehmen, und offensichtlich ist diese Wirkung auch größer als die der Daedra, die lassen sich zumindest nichts anmerken.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1532
+
+* Titel: `Let's Play ESO #1532 - Hohepriester Vandacia [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 107 des Blackwood DLCs - Sitzung 16
+  
+  Nachdem die Plot-Armor jetzt mehr als einmal auch für unsere Erzfeinde gewirkt hat ist jetzt endlichd die Zeit das wir unseren Lieblingshohepriester einmal richtig die Meinung geigen können. Ich möchte übrigens erneut feststellen das ich Vandacia von Anfang an verdächtig fand. Jeder seiner Aussagen war total fischig und ich hätte den Mann definitiv frühzeitig in Ketten legen lassen und an einen anderen Ort transportieren lassen. Der Plan sich unter den betroffenen zu bewegen war ziemlich offensichtlich und das irgendjemand von den alten Vertrauten des ehemaligen Kaisers mit drin steckt war ziemlich wahrscheinlich. Das bei einem Daedra-Anbeter ausgerechnet der ehemalige Hohepriester die federführende Person sein könnte überrascht uns natürlich alle. Aber ich bin mir sicher wenn man sich die Geschichte ein wenig näher angeguckt hätte wäre es durchaus möglich gewesen die gesamte Geschichte vorzeitig zu stoppen. Haben wir aber nicht, und jetzt müssen wir putzen gehen, und heute ist der Tag des Mobs gekommen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1533
+
+* Titel: `Let's Play ESO #1533 - Verlustmeldung [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 108 des Blackwood DLCs - Sitzung 16
+  
+  Nach jeder Schlacht gibt es Verluste. Das ist einfach Tatsache. All die Geschichte von glorreichen Heldentaten lassen natürlich immer die Fußtruppen aus die sinnlos gestorben sind. Menschen und Mer die durch schlechte Entscheidungen in Fallen liefen. Herumfliegende Pfeile und Zaubersprüche die Lücken in die Reihen reißen. Nach der Schlacht ist meistens auch vor der Schlacht, und daher ist es wichtig sich damit abzufinden das es Verluste geben wird. Wahrscheinlich verliert eine entsprechend große Armee sogar an einem nicht-Schlachttag Leute. Einfach weil groß angelegtes Camping nie ganz sicher ist. Wie dem aber auch sei, ein gewaltiger daedrischer Fürst der selber physisch um sich schlägt ist bestimmt nicht gut für die allgemeine Moral, völlig unabhängig von sonstigen Verlusten. Übrigens interessant wie vorsichtig Dagon seine Axt abgestellt hat als er mit uns sprach. Interessant oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1534
+
+* Titel: `Let's Play ESO #1534 - Pilgersruh [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 109 des Blackwood DLCs - Sitzung 16
+  
+  Es stehen nur noch wenige Dinge aus die wir im Schwarzwald machen können. Es könnte natürlich noch sein das die große Siegesfeier mächtig schief geht, aber davon gehe ich einfach mal nicht aus. Von daher bleibt uns nur noch eine kleine Quest in der wir irgendwie ein Gasthauszimmer aufgeholfen kriegen. Darüber freuen wir uns natürlich gewaltig, aber wenn man bedenkt welche Schlösser mir sonst zur Verfügung stehen kann man sich eventuell denken das ich das Zimmer nicht besonders oft nutzen werde. Mir fällt aber auf das ich mich vielleicht einmal mit Einrichtungsherstellung auseinander setzen sollte. Ich besitze exakt null Tische, das macht die Einrichtung eines schönen Domizils irgendwie schwierig finde ich.
+  
+  0:00 - Gameplay, Zimmer frei Dunkelwald
+  8:02 - BUCH: Feuer und Dunkelheit: Die Bruderschaft des Todes, Band 2
+  11:35 - Gameplay: Zimmer einrichten
+  15:30 - Gameplay: Zeit für Krawall
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```

@@ -530,6 +530,102 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
   ```
 
+##### #35
+
+* Titel: `KotoR - #35 - Sith-Basis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das der Bunker den die Sith auf dem Planeten Taris errichtet haben doch ziemlich groß ist. Ich bin ehrlich gesagt beeindruckt. Muss aber zugeben das ich nicht richtig aufgepasst habe als erklärt wurde ab wann die Sith auf Taris gelandet sind. Soweit ich das verstanden habe war das in direkter Folge nach der Geschichte mit der Endar Spire. Aber wenn ich mir jetzt anschaue wieviel Infrastruktur hier doch da steht muss das doch ein wenig länger gewesen sein als ein paar Tage oder? Andererseits wird ein gewaltiger Planet wie Taris sicherlich irgendeine Art von Militär gehabt haben oder zumindest größere Polizeikräfte. Nur weil man alle unliebsamen Mitbürger in die Verdammnis, erm, die Slums verbannt heißt das ja nicht das es nicht dennoch Verbrechen von Ersttätern gibt..oder Verbrechen von Leuten mit einfach guten Verbindungen die nicht direkt in den Bau landen. So oder so, wir gehen jetzt einfach mal davon aus das die Sith nur vorhandene Einrichtungen der Republik oder so übernommen haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 6, Aufnahme vom 09.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #36
+
+* Titel: `KotoR - #36 - die Start-Codes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erstaunlich viele Dinge im Leben laufen darauf hinaus das man Taten verzögert. Oder Reaktionen. Zum Beispiel ist  das Schloss an einem Zaun oder in einer Tür nicht dafür da Leute dauerhaft abzuhalten. Bei Tresoren funktioniert das vielleicht  ganz gut weil man den Inhalt zerstören könnte und den möchte man in der Regel haben aber selbst dann könnte man halt den ganzen Tresor mitnehmen. Immer wenn die Zeit gegen Unendlich geht sind Dinge ziemlich sinnlos. Schon weil der Mist verfällt. Leben heißt aber auch den Moment zu sehen und dann ist  die Zeit sehr endlich. Die Start-Codes für Raumschiffe die wir uns heute schnappen dienen nicht dazu komplett ungesehen an den Sith vorbeizukommen. Allerdings müssen wir das auch nicht, wenn wir nur schnell genug sind reicht ein Vorsprung vollkommen aus, und das Schiff das wir klauen wollen gilt als sehr schnell. Insofern ist alles was wir heute tun nur eine weitere Verzögerungstaktik..jetzt dürfen wir bloß keine Zeugen am Leben lassen, ansonsten könnte unser Vorteil schnell weg sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 6, Aufnahme vom 09.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #37
+
+* Titel: `KotoR - #37 - Tauschhändler Anwesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Zuschauer hat meine üblichen Tiraden mit einem "Krieg den Palästen" Tenor betitelt. Nun, bis her haben wir nur relativ wenig vom Adel von Taris gesehen, das liegt wohl daran das man in der Regel nicht all zu viel vom Reichtum mitbekommt der innerhalb der Gebäude stattfindet. Klar, wenn wir die Reichenviertel bereisen könnten würden wir bestimmt einige Anwesen sehen können, aber außer ein paar Zäune und wahrscheinlich hohe Mauern gebe es eher wenig zu erkennen. Wie praktisch das wir heute eingeladen wurden, in die Villa von Davik Kang. Wir hörten bereits eine Menge von ihm, anscheinend ist er der örtliche Repräsentant der Tauschhändler. Also genau die Art von Person die ich auf jeden Fall aufs Kreuz legen will. Aber es hilft ja alles nichts, der Mann hat ein funktionsfähiges Raumschiff und wird es wohl kaum freiwillig hergeben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 6, Aufnahme vom 09.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #38
+
+* Titel: `KotoR - #38 - Davik Kang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist er auch schon, ich erwähnte ihn in der letzten Beschreibung. Davik Kang, Tauschhändler und lokaler Verbrecherboss der denkt das wir bei ihm anheuern wollen. Ich frage mich übrigens ob wir seinen Background-Check überleben würden. Anscheinend ist Taris ja vom Rest des Planeten abgeschnitten insofern sollte es ihm schwierig fallen irgendwelche Informationen über Visper Corra zu erhalten. Andererseits gibt es wahrscheinlich irgendwo große Archive voller Daten über die Republik in denen wir auftauchen weil in einer Galaxie lange vor unserer Zeit natürlich kein Schwein weiß was Datensicherheit ist. Oder sogar Datensparsamkeit. Insofern gehe ich mal davon aus das er doch etwas herausfindet. Aber wie wird er das bewerten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 6, Aufnahme vom 09.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree
+  ```
+
+##### #39
+
+* Titel: `KotoR - #39 - die Crew [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben jetzt ein Raumschiff und natürlich auch so etwas wie eine Crew. Ich weiß nicht wie lange uns die noch in ihrer Gänze erhalten bleibt, aber für den Moment sind wir relativ breit aufgestellt und das macht es recht angenehm Problem anzugehen. Sollte etwas aufkommen und absolut nicht lösbar sein habe ich festes Vertrauen das wir noch Einiges tun können einfach weil wir verschiedene Optionen zur Verfügung haben. Allerdings reden nicht alle Crew-Mitglieder besonders freimütig mit uns. Zaalbar zum Beispiel verweigert eigentlich noch so gut wie jede Aussage und das ist irgendwie depremierend. Das Verhalten ist ziemlich fremdartig und ich würde mal behaupten damit ist er ein guter Charakter. Seine Ehre gebietet ihm sich uns anzuschließen aber eigentlich will er nichts mit uns zu tun haben. Ein sehr seltsames Verhalten, aber wenn es ihm so beliebt...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #40
+
+* Titel: `KotoR - #40 - Jedi-Enklave [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind also auf Dantooine gelandet, einen Planeten, so hat man mich erinnert, ich nicht mit Tatooine verwechseln soll, einen unwirtlichen Wüstenplaneten. Auf diesen Planeten hier bilden die Jedi anscheinend ihre jungen Padawane aus. Das ist alles sehr interessant aber als Rückzugsort scheint mir doch alles ein wenig ungeeignet zu sein, schon deswegen weil unsere großen Erzfeinde die Sith eindeutig von diesem Ort wissen. Dies hier ist ist der Platz an dem auch Malak und Revan ausgebildet wurden. Es ist mir ehrlich gesagt ein absolutes Rätsel warum die Sith nicht schon lange hier waren um die Jünglinge zu dezimieren. Verteidigungseinrichtungen und orbitale Abwehrgeschütze habe ich bisher noch keine gesehen. Also was rettet uns? Warum leben wir noch?  Rätsel über Rätsel. Aber eines nach dem Anderen, zu erst Erkunden wir die Enklave und schauen einmal ob es hier etwas zu stehlen gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

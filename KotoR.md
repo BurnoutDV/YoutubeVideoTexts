@@ -626,6 +626,54 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #41
+
+* Titel: `KotoR - #41 - der kleine Jedi-Rat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der echte große Jedi Rat wohnt natürlich auf einen Stadtplaneten wo er in unfassbaren Reichtum lebt und quasi unantastbar ist. Zumindest bis die Sith auf die Idee kommen das Herz der Republik anzugreifen. Mir ist ehrlich gesagt nicht ganz klar warum das noch nicht passiert ist. Ich habe ja bereits ausgeführt das es quasi unmöglich ist Planeten gegen irgendetwas zu verteidigen sobald gegnerische Raumschiffe im System sind. Solange man nicht irgendetwas in der Preisklasse wie planetenspannende Schutzschilder hat hilft echt nicht viel. Insbesondere wenn man sich anschaut wie asymmetrisch Schaden gegen Schutz steht. Sei es aber wie es sei, der kleine Jedi Rat macht uns ja bereits genügend Probleme. Um genau zu sein nervt er anscheinend rum und versucht uns mit aller Macht dazu zu bringen mit einer affigen Nahkampfwaffe umherzulaufen wenn es Waffen gibt die Planeten sprengen. Der Vorschlag erscheint mir ein wenig affig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #42
+
+* Titel: `KotoR - #42 - Vier Meister [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zum Jedi ausgebildet zu werden stelle ich mir irgendwie ziemlich anstrengend vor. So wie es aussieht sind die Jedi im Allgemeinen ziemlich von ihrer Philosophie überzeugt und scheinen nicht die Art Leute zu sein die sich von jungen Schülern irgendwie reinreden zu lassen. Das kann es je nach Meister ziemlich unangenehm machen wenn man mit neuen, unverbrauchten und noch saftigen Ideen um die Ecke kommt. Oder aber man hat sich bereits eine Meinung gebildet wie die Welt funktioniert und dann kommen da auf einmal 4 Meister an. Eigentlich sind es nur drei, die vierte Person zählt wahrscheinlich technisch gesehen nicht als unser Meister. Ich finde es übrigens schön das wir anscheinend einige Wochen Zeit haben die Jedi-Schnellausbildung zu durchfahren ohne das irgendetwas passiert oder sich unser Personal sehr langweilt. Ich meine, wir sind nicht alleine gekommen und außer dem Roboter sind die Anderen doch durchaus für Eintönigkeit anfällig oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #43
+
+* Titel: `KotoR - #43 - Jedi-Kodex [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stellt sich heraus die Jedi sind eine Bande von dogmatischen Vollidioten die sich an irgendwelche uralten Aussagen halten die anscheinend in den letzten 500 Jahren niemand überdacht hat. Eigentlich spricht sogar Vieles dafür das sie ihre Philosophie schon seit tausenden Jahren nicht mehr auf den Prüfstand gestellt haben. Schuld wird wahrscheinlich die relative Langlebigkeit diverser Mitglieder sein. Oder aber auch weil das gesamte System irgendwie fehlerhaft ist. Wie dem aber auch sei, ich lehne ihre Prinzipien ziemlich ab. Das was die Sith tun finde ich übrigens auch nicht viel besser auch wenn ihre Philosophie zumindest ein wenig besser ist was die Flexibilität angeht. So oder so verstehe ich übrigens wirklich nicht warum diese Märchenonkel unbedingt der Meinung sein müssen mich auszubilden. Moralische Überlegenheit kann man auf jeden Fall nicht erkennen. Eher Blindheit für die Realität und Wunschdenken die Welt irgendwie zu gestalten wie sie nicht ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

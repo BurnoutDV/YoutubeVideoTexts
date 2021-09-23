@@ -4310,3 +4310,68 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
+
+##### #1535
+
+* Titel: `Let's Play ESO #1535 - tote Briefkästen [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 110 des Blackwood DLCs - Sitzung 16
+  
+  Ein toter Briefkasten hat nie so richtig gelebt. Generell und überhaupt sind auch in einer magischen Welt einige Dinge seltsam weltlich. Oder halt auch nicht. Allerdings kann ich mich nicht erinnern das irgendwelche Dinge tatsächlich ein Leben entwickelt haben nur weil die Leute daran geglaubt haben. In einigen Welten passiert das ja durchaus, wenn etwas zu sehr geliebt wird entwickelt es halt eine eigene Persönlichkeit. Bisher, so weit wir zumindest sehen konnten, sind Gegenstände einfach nur das. So wie die Briefkästen die wir heute besuchen. Ich frage mich aber wirklich sehr wer zur Hölle diese Orte besuchen möchte. Ich dachte immer das der Vorteil an einem  toten Briefkasten ist das er unauffällig ist, aber wenn man eine Reise tief in den Sumpf machen muss, dann ist das nicht wirklich unauffällig oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1536
+
+* Titel: `Let's Play ESO #1536 - das Geschenk des Piraten [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 111 des Blackwood DLCs - Sitzung 17
+  
+  Ursprünglich wollte ich diese Episode "Spektakelring" nennen, so heißt der Ort unterhalb von Gideon den wir heute betreten, aber dann stellt sich heraus das unser Ausflug dort nur außerordentlich kurz ist und auf jeden Fall nicht die gesamte Episode einnimmt. Stattdessen finden wir noch so etwas wie eine kleine Mini-Mission die uns eigentlich nur einen kleinen Schatz zutreibt. Nichts Besonderes, nichts Großes, aber immerhin ein wenig Geschichte und eine Flaschenpost. Nur schade ich völlig vergessen habe ob ich irgendjemanden von den Namen kenne die in der Post erwähnt werden. Wahrscheinlich, ich hab halt nur alles vergessen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1537
+
+* Titel: `Let's Play ESO #1537 - Dunkelforst Feierlichkeiten [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 112 des Blackwood DLCs - Sitzung 17
+  
+  Und da sind wir, die Geschichte im Dunkelforst hat ein Ende gefunden. Mehrunes Dagon ist einstweile besiegt und wir haben offensichtlich dafür gesorgt das zumindest für den Moment die Realität halbwegs sicher ist. Natürlich entwickelt sich nicht alles so wie wir uns das vorgestellt haben. Destron ist anscheinend tot und die üblichen Ambitionen sind immer noch ein loses Ende das in der Realität umher liegt. Hätten wir ein wenig pragmatischere Anführer würden die Ambitionen übrigens nicht weiter leben oder zumindest wieder zurück in ein Untergangsgewölbe verbannt werden, zu ihrer eigenen Sicherheit. Seit es aber wie es sei, heute gratulieren uns alle, schön noch einmal alle Leute zu sehen. Nur Bastian kommt nicht, enttäuschend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

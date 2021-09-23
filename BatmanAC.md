@@ -770,6 +770,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #55
+
+* Titel: `Batman Arkham City - #55 - Unter dem Wondertower [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Arkham City hat eine Menge Keller. Ich finde das besonders bemerkenswert wenn man sieht das es sich eigentlich größtenteils um eine Insel handelt und damit auch die meisten Teile eher ziemlich nahe am Wasser gebaut sind. Das wieder rum bedeutet aber auch das es irgendwie undenkbar erscheint das es doch all zu viel Keller gibt. Und doch, wir finden eine Menge Keller vor. Tonnenweise quasi. Und dazu gehört auch der Zugang zum Wondertower. Technisch gesehen frage ich mich übrigens warum wir eigentlich nicht schon vorher hätten einfach durch die dünne Glasscheibe gehen können um unsere Angelegenheit mit Strange endgültig zu klären. Das mussten wir ganz schön lange verschieben, aber jetzt ist es soweit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 21.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #56
+
+* Titel: `Batman Arkham City - #56 - Vom Keller zur Spitze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist übrigens ziemlich sicher das die nächste Episode dann "Von der Spitze zum Abgrund" oder so heißt. Der erwähnte Ghost Song ist übrigens dieser hier: https://youtu.be/6A-IoOEPbUs Auch der Art-Style passt irgendwie. Schön oder. Damit reicht es dann aber auch, unser Weg als Bruce Wayne geht zu Erst einmal nach oben, die Überlegung wie wir nach unten kommen stellen wir später an. Dafür ist auf jeden Fall dann auch noch Zeit. Ich bin mir übrigens nicht ganz sicher warum Strange eigentlich darauf bestanden hat seine Zentrale irgendwo oben zu verlegen wo man zwar schwer zu erreichen ist aber ansonsten eigentlich kaum Vorteile hat. Ich meine, man kommt da kaum weg, es ist nur eine glorifizierte Raketenstartbahn und generell ist der taktische Wert der Position eher mittelmäßig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 21.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

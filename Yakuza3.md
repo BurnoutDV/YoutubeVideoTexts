@@ -1334,6 +1334,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #93
+
+* Titel: `Yakuza 3 Remastered - #93 - Tüftler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollte ich schon letztes Mal meine Waffe endlich ein wenig aufrüsten damit ich in Kämpfen nicht immer so sehr verliere, aber dann sind halt Dinge passiert und ich bin ein wenig durch die Gegend gerannt und habe meine Fähigkeiten mit Mack verbessert. Aber jetzt ist der Moment gekommen, ich kaufe diverse Dinge ein und verbessere meine Waffen signifikant. Und mit signifikant meine ich übrigens das sich eigentlich kaum etwas ändert. Insbesondere weil mir natürlich immer irgendein tolles fehlt. Und solange das der Fall ist werden meine Waffen nicht großartig besser. Aber hey, immerhin eine Sache kann ich aufbauen und dadurch verdiene ich die Auszeichnung eines Tüftlers. Das gefällt mir. Irgendwie.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 20.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #94
+
+* Titel: `Yakuza 3 Remastered - #94 - die Wahrsagerin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erinnern uns vielleicht nicht mehr und ich besonders nicht, aber ein wenig bleibt mir doch der Fetzen einer Erinnerung. Das Fragment einer Erinnerung an eine Wahrsagerin die uns im Vorgänger korrekt von der Zukunft erzählt hat. Ich meine mich sogar zu erinnern das die Vorhersage sogar korrekt war. Da ich damals aber nicht wusste was kommt war die kryptische Zukunft genauso nutzlos als  hätte sie einfach nicht stattgefunden. Letztendlich war die Vorhersage also Geldverschwendung, was nützt es zu wissen was geschieht wenn man mit der Information nicht handeln kann. Heute passiert es wieder, aber so wie es aussieht ist die Zukunft dieses Mal sogar noch ungenauer...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 20.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #95
+
+* Titel: `Yakuza 3 Remastered - #95 - Mordfall im Alp [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir fällt jetzt, an dem Tag an dem ich diese Beschreibung schreibe auf das ich den Episodentitel ein wenig uneindeutig gewählt habe. Selbstverständlich ist sowieso überhaupt nicht klar wann der Mord geschehen ist, insbesondere wenn man davon ausgeht das bisher in Kiryus Gegenwart quasi niemand gestorben ist. Außer jene die erschossen wurden, aber so richtig mit Mordermittlungen setzt sich der gute Kazuma ja eher nicht auseinander. Und so wie die Dinge jetzt aussehen liegt auch dieser ein Fall ein wenig weit in der Vergangenheit. Das hält uns aber nicht davon dennoch zu recherchieren, ärgerlicherweise scheint unsere erste Adresse der damalige Staatsdiener zu sein der dafür bekannt zu sein das er sich Nachts betrinkt..und das tut er halt nicht wenn es Tag ist. Ärgerlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 20.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

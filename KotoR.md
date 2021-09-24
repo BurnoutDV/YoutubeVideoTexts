@@ -674,6 +674,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #44
+
+* Titel: `KotoR - #44 - mein erstes Laserschwert [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das sich viele Dinge herausstellen während wir die Welt erleben. Zum Beispiel das wir anscheinend nicht wirklich die Wahl haben ob wir ein Jedi werden oder nicht. Mittlerweile habe ich mir erklären lassen das es wohl so ist das die dunkle Seite der Macht wie eine Droge ist, etwas das einen immer verführen kann, immer vom Pfad der Rechtschaffenen abbringen kann. Das klingt minimal lästig, insofern kann ich jetzt zumindest nachvollziehen warum man Visper unbedingt in die Wege der Macht trainieren möchte. Andererseits wirft das wirklich Fragen auf wie wir es bis hierhin geschafft haben ohne den Verlockungen der Macht zu verfallen. Nun gut, die hohen Meister werden bestimmt wissen was sie da tun..oder vielleicht auch nicht, alles was wir bisher von den Jedi gesehen haben hat mir nicht unbedingt Vertrauen in die Methoden der Machtnutzer gegeben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

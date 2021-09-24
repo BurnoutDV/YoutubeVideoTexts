@@ -1379,6 +1379,22 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #96
+
+* Titel: `Yakuza 3 Remastered - #96 - innere Dämonen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich beschäftigen wir uns heute mit ziemlich realistischen virtuellen Realitäten. Damit können wir sogar unsere Fähigkeiten trainieren. Der Nachteil der ganzen Geschichte ist das wir gegen Gegner aus unserer Vergangenheit kämpfen müssen. Die waren teilweise ziemlich hart drauf. Aber schön das es schon 2009 Technologie im Yakuza Universum gab die auf einem regnerischen Hinterhof funktionieren. In der fernen Vergangenheit hat sich am gleichen Ort noch ein Waffenmeister aufgehalten. Mittlerweile wurde das aber alles weg automatisiert. Fortschritt.
+  
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 20.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

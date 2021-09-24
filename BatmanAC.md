@@ -800,6 +800,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #57
+
+* Titel: `Batman Arkham City - #57 - Spitzenmonolog [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin immer wieder bemüht doppeldeutige Episodentitel zu finden, an sich ist das übrigens keine gute Idee, weil irgendwie möchte man ja doch gefunden werden. Dann will man aber den Inhalt  der Episode nicht verraten. Das ist übrigens auch der Grund warum ich hier über solche Meta-Dinge rede anstatt über den Inhalt. Weil es stellt sich heraus das wir uns ziemlich schnell dem Ende zu neigen. Oben treffen wir natürlich Anstaltsleiter Strange und einige seiner Minions. Dann wird sich natürlich noch herausstellen was genau hier eigentlich los ist. All das passiert oben, quasi auf der Spitze. Der Erzfeind monologisiert natürlich, es handelt sich also durchaus um einen Spitzenmonolog. Über den Inhalt möchte ich aber noch nichts aussagen, aber eventuell ist ja alles total überraschend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 21.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

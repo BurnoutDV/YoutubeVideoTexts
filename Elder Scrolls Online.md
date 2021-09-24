@@ -4356,14 +4356,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1538
 
-* Titel: ``
+* Titel: `Let's Play ESO #1538 - Mirris erstes Abenteuer [Blackwood]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 113 des Blackwood DLCs - Sitzung 17
+  
+  Es stellt sich heraus unsere Begleiterin Mirri Elendis eine Familie hat. Das wusste wir auch schon, ihren Bruder haben wir quasi schon kennen gelernt, er heißt Liam. Stellt sich heraus das es auch eine Mutter gibt, ihr Name ist Irenni Elendis. Und die ist, sonst würden wir auch gar nicht darüber reden, verschwunden. Daher erhalten wir nicht nur eine kleine Erklärung über die Familienverhältnisse der Elendis sondern auch wie es überhaupt zu der Familie kam. Und dann machen wir uns auf, mir fällt übrigens auf das wir im Rahmen dieser Mission keinen Ort betreten der besonders weit weg von Morrowind ist, das ist auch mal ganz was Neues. Dadurch das wir uns um Reisezeiten keine Sorgen machen müssen fällt es nicht so auf, aber eigentlich ist Nirn bzw. Tamriel ja doch ein ziemlich großer Ort. Darüber zu laufen dauert also signifikant Zeit.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #Nummer

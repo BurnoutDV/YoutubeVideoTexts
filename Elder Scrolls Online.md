@@ -4371,6 +4371,27 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1539
+
+* Titel: `Let's Play ESO #1539 - Die Bessenheit einer Mutter [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 114 des Blackwood DLCs - Sitzung 17
+  
+  Kurze Tangente: In Dark Souls sind die meisten Charaktere die man so trifft untot, aber dennoch irgendwie lebendig. Das ist nicht weiter interessant, interessant ist aber was mit den NPCs mit denen man reden kann passiert wenn sie ihre individuelle Quest erfüllen. Dann werden sie "hohl", ihre Aufgabe erfüllt und ihr Antrieb verschwunden. Ein bisschen wie ein spukender Geister der auch nur noch eine Beschäftigung hat. Man sagt, das die Toten nicht in der Lage sind sich zu verändern und damit auch keine neue Aufgabe aufnehmen können. Die Lebenden könnten das, und doch hat man es doch recht oft das Leute sich nicht mehr verändern und nur noch auf eine Sache gieren. Bei Mirris Mutter handelt es sich scheinbar umeine gewisse Besessenheit gegenüber einen Dwermer-Rätselwürfel der irgendwann einmal gestohlen wurde. Das führt dazu das wir die gute Frau gelegentlich retten müssen. Oder eigentlich Mirri, aber dieses Mal sind wir mit im Boot.
+  
+  0:00 - Gameplay
+  3:20 - BUCH: Eine Einladung zum Wohlstand
+  4:10 - Gameplay
+  11:24 - BUCH: Edvildas Tagebuch
+  13:00 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

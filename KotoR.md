@@ -690,6 +690,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #45
+
+* Titel: `KotoR - #45 - die Sorgen der Bauern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Sorgen der einfachen Leute ist auf jeden Fall etwas das ich enorm ernst nehme. Natürlich. Zweifellos. Ich bin auf jeden Fall nicht nur wegen des Abenteuers dabei und weil ich sehen möchte was als Nächstes passiert wenn ich die gesamte Galaxie anzünde. Nein. Es geht mir natürlich um die kleinen Leute. Die Zahnräder die diese Gesellschaft richtig nach vorne bringen. Insbesondere wenn man bedenkt das eigentlich alles vollständig automatisiert sein sollten. Warum es genau Bauern gibt ist mir übrigens absolut nicht klar. Ein schönes, weiteres Beispiel warum eigentlich schon hätte alles automatisiert sein sollte sehen wir auch darin das es anscheinend möglich ist vorhandene Droiden so zu verändern das sie auf die Idee kommen weg zu rennen. Zumindest gehe ich für den Moment davon aus das der entsprechende Roboter weg gelaufen ist. Und ja, das ist eine der Sorgen der Leute, weg gelaufene Roboter die anscheinend die leichte Arbeit im Haus gemacht haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

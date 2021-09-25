@@ -815,6 +815,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #58
+
+* Titel: `Batman Arkham City - #58 - Laiendarsteller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie spiralisieren die Dinge heute ganz schön außer Kontrolle. Ich dachte eben noch das wir noch Einiges an Zeit haben und dann stellt sich doch glatt heraus das mich das Spiel dazu zwingen möchte das es nicht mehr besonders viel Zeit gibt. Das wusste ich nicht. Nachdem ich dann doch endlich auf die Idee komme das Kino zu betreten und auf die Bühne zu gehen merkt man schnell das das Schauspiel das uns hier geboten wird auch eher nur so mittelmäßig gut ist. Aber immerhin gibt es einige Überraschungen die ich so hätte nicht kommen sehen sollen. Aber, die gute Nachricht ist, es wurde alles klar kommuniziert und man hätte es erahnen können wenn ich vorher darüber nachgedacht hätte. Habe ich natürlich nicht. Schön. Außerdem sollte Batman wirklich eine engere Beziehung mit Talia al-Ghul ein gehen. Die Frau weiß was es zu tun gilt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 21.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

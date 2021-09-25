@@ -1395,6 +1395,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #97
+
+* Titel: `Yakuza 3 Remastered - #97 - bei Anruf Erpressung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sollten wieder aufhören an irgendwelche Telefone zu gehen. Irgendwie endet das nicht in besonders gute Dinge. Es ist natürlich völlig klar das wir wieder einmal hart gescammt werden. Alle Fraktionen die uns tatsächlich irgendetwas wegnehmen könnten was teuer wäre wären außerdem in der Lage ihre Botschaft wesentlich effizienter zu überbringen als dafür irgendwelche Münzfernsprecher zu benutzen die eventuell nicht einmal benutzt werden. Allerdings, dann wäre das Leben auch nur halb so witzig. Außerdem scheinen wir irgendeine Art von Grenze im Nobelladen überschritten zu haben. Das ist eigentlich sogar noch viel wichtiger. Damit können wir bestimmt irgendetwas wichtiges tun. Und wenn nicht haben wir zumindest die Option dazu, und alles was wir verloren haben war ein wenig Geld. Auch wenn ich immer viel rumjammere, eigentlich spielt Geld kaum eine Rolle. Auf der Straße können wir immer mehr holen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 20.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

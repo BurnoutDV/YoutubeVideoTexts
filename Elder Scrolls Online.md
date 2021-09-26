@@ -4392,6 +4392,27 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1540
+
+* Titel: `Let's Play ESO #1540 - Mirris Schatzkarte [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 115 des Blackwood DLCs - Sitzung 17
+  
+  Und nun haben wir es schon geschafft, die Mutter ist gerettet und angeblich beschwört sie Besserung. Ich weiß übrigens das es noch eine weitere Mission gibt. Entweder das mit der Besserung ist nichts geworden oder es gibt aber doch noch eine Spur für den guten Rätselwürfel. Das würde mich persönlich ja auch sehr interessieren. Bis es aber so weit ist muss ich bei Mirri wohl noch ein wenig gut Wetter machen und mich derweil mit anderen Sachen beschäftigen. Zum Beispiel mit der Schatzkarte die wir erhalten haben. Eigentlich sitze ich seit Ewigkeiten auf diversen Schatzkarten die ich damals für das Vorbestelle erhalten habe, nicht zuletzt aber auch weil ich gelegentlich welche fand. Heute gehen wir aber auch einer Spur nach.
+  
+  0:00 - Gameplay
+  1:50 - Buch: Uralte Schriften der Dwermer, Band 1-A
+  3:04 - Gameplay
+  5:33 - Buch: Uralte Schriften der Dwermer, Band 1-A, B
+  10:53 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

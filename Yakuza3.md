@@ -1410,6 +1410,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #98
+
+* Titel: `Yakuza 3 Remastered - #98 - Von Tür zu Tür [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese Episode kann quasi übersprungen werden. Es handelt sich nämlich um eine füllende Episode in der ich hin und her laufe und versuche einen Laden mit ganz vielen Spielautomaten zu finden dabei aber eher mäßigen Erfolg habe. Am Ende finde ich trotzdem nicht was ich wollte dafür erwächst in mir aber sehr das Gefühl sehr viel Zeit verschwendet zu haben. Das einzig Gute daran ist aber das ich zumindest ein wenig von meinen Verlusten wieder gut machen konnte weil mir freundliche Gentleman kleine Geschenke machen und mit Geschenke meine ich das so uns mit der Faust begrüßen. Dennoch, Zeitverschwendung, fühlt sich doof an.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 20.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

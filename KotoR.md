@@ -706,6 +706,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #46
+
+* Titel: `KotoR - #46 - Mordfall auf Dantooine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin erstaunt. Offenbar ist jemand gestorben. Das passiert irgendwie andauernd, wir sind ja auch nicht unbedingt unschuldig an dem Tot diverser Leute. Da Taris jetzt aber wohl nur noch eine Wüstenwelt ist gibt es da wahrscheinlich niemanden der Regress anmelden kann. Interessanter wird es da auf Welten auf denen es wirklich so etwas wie eine Regierung gibt die sich um Dinge sorgt. Auf Dantooine machen das scheinbar die Jedi, wer auch immer die gewählt hat aber so wie sich mir das darstellt vertreten die hier halt das Gesetz. Nun gut, es ist jetzt also so. Wir haben einen Toten und zwei mögliche Täter. So weit so gut. Dann schauen wir uns einmal die Spuren an und finden jede Menge davon. Den Fall klären wir heute übrigens nicht auf aber ich bin jetzt schon von den forensischen Möglichkeiten der Zentralregierung enttäuscht. Mir kommt allerdings eine andere Frage auf. Die ganzen mandalorianischen Plünderer die ich erschossen habe, sind die vogelfrei? Weil wenn die irgendwie vom Gesetzt gedeckt sind müsste ja zumindest einmal eine Ermittlung erfolgen. Haben die zu erst geschossen? Wie weißt man das nach? Und weil ich als erstes das Feuer eröffnet habe, bin ich in Wirklichkeit der Verbrecher? Völlig unabhängig davon was die Leute sonst so getan haben? Alles ein wenig schwierig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

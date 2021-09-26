@@ -830,6 +830,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #59
+
+* Titel: `Batman Arkham City - #59 - Running Gag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich übersetze ja ganz gerne mal englische Sprichwörter, heute zum Beispiel "running gag", ein Witz der sich immer und immer wiederholt und dadurch tatsächlich noch lustiger wird. Ich habe es versucht und irgendwie nichts gefunden. Ich hatte zu erst das Wort Treppenwitz in Gedanken, allerdings ist das absolut falsch. Weil das ist ja eigentlich ein Witz der erst später witzig ist weil es einen auf der Treppe zuhause einfällt. Aber es stimmt wohl nicht. Also zurück zu Feld 1 und..nun, es fällt mir nichts ein also bleiben wir beim Englischen Titel. Der Witz in diesem Fall ist übrigens der des Jokers der immer und wieder das gleiche Verbrechen begeht. Ich muss wirklich mal "the killing Joke" lesen. Und damit erreichen wir übrigens das Ende der Hauptgeschichte von Arkham City...aber nicht das Ende des Spiels.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 21.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
 ##### #Nummer
 
 * Titel: ``

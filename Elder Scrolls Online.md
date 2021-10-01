@@ -4413,6 +4413,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1541
+
+* Titel: `Let's Play ESO #1541 - Großvater Elendis [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 116 des Blackwood DLCs - Sitzung 17
+  
+  Wenn es um das Gedenken der Vorfahren geht meinen es die Dunkelelfen besonders ernst. Zu kann man anscheinend noch ohne große Schwierigkeiten ehemalige Familiemitglieder von vor grauer Vorzeit kontaktieren. Ich frage mich aber ernsthaft wer genau sich eigentlich noch an den Urgroßvater von vor tausend Jahren erinnert, und ob es da nicht relativ schnell Stau gibt. Wir wissen das ein einzelnes Hlallu Unterhaus anscheinend mindestens sieben Kinder hatte. Das lässt mich vermuten das man entweder nicht alle Ahnen in diese Generationsgedächtnisgeschichte einspannt oder das die Haushaltsposition "Ahnengrab" ein echter Brecher für viele Dunmer Häuser ist. Wie dem aber auch sei, so richtig viel haben wir damit ja nicht am Hut, daher können wir uns heute den wichtigeren Dingen widmen: Informationen aus Großpapa rausholen. Warum der eigentlich mit uns redet ist mir übrigens nicht so ganz klar.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1542
+
+* Titel: `Let's Play ESO #1542 - Onimirils Spuren [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 117 des Blackwood DLCs - Sitzung 17
+  
+  Wir suchen einen Hochelfenmagier. In Ermangelung von Melderegistern, flächendeckenden Überwachungskameras und fleißigen Grenzbeamten könnte sich das als etwas schwer gestalten. Es ist eigentlich ziemlich interessant darüber zu philosophieren. Was passiert wenn die Gesellschaft in Tamriel irgendwann moderner wird. Wie verfolgt man Magier? Letztendlich können die einfach irgendwelche Portale aufmachen und damit Regeln wie Grenzen ziemlich effektiv missachten. Das ist enorm nervig. Andererseits handelt es sich schließlich um eine Gesellschaft die um Magie herumgebaut ist, am Ende hat jedes Reich eine gewaltige Anti-Teleport Bubble um sich herum. Oder es gibt noch noch festgeschriebene Routen. Oder aber wir lassen das mit den Grenzen einfach und wir gründen das Nirn Weltraum Programm und erkunden die Sterne. Wenn es sie den gibt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1543
+
+* Titel: `Let's Play ESO #1543 - Toter Ballast [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 118 des Blackwood DLCs - Sitzung 18
+  
+  Ursprünglich wollte ich diese Episode "der Elendis Rätselwürfel" nennen, aber oben steht das die Mission "toter Ballast" also "death weight" auf Englisch heißt. Ich fürchte das das Wortspiel hier ein wenig verloren geht. Im Englischen passt es natürlich wunderbar und es ist klar das eine Doppelspitze gegen die Ahnenkultur bzw. wahrscheinlich spezieller Mirris Urgroßvater in diesem Fall gemeint ist und das der Rätselwürfel durchaus einfach nur ein wertloses Stück Spielzeug sein könnte das sich irgendeinen Zwerg erdacht hatte um jemand anderes Intellekt zu testen. Vielleicht ein Spiel zwischen Handwerker um sich herauszufordern. Vielleicht wirklich ein Kinderspielzeug. Eine Geschenk unter Liebenden. Eine begabte Mechanikerin die ihren Liebsten herausgefordert hat? Wir wissen nichts über das Leben der Dwermer in diesen Details. Wer kann schon sagen was der Würfel enthält. Einen Ring von Marra? Einen Edelstein. Die Weltformel, das Bernsteinzimmer? 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1544
+
+* Titel: `Let's Play ESO #1544 - Quistleys im Rasenlöwe [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 119 des Blackwood DLCs - Sitzung 18
+  
+  Jedes Abenteuer fängt damit an das wir irgendjemanden irgendwo treffen. Oder irgendjemand irgendwo umgebracht wird..technisch gesehen läuft das aber auch darauf hinaus das wir jemanden getroffen haben, nur halt tödlich. Da Bastian aber an unserer Karriere in der dunklen Bruderschaft nicht sonderlich interessiert ist und eigentlich gar nicht soviel darüber wissen will treffen wir heute Quistley, wir erinnerun uns, Bastians "Pflegebruder" in einer schattigen Taverne. So wie es so aussieht hat der arme Junge wieder einmal sein Geld verloren, aber die gute Nachricht ist, er hat etwas wertvolleres als schnöden Mammon anzubieten als Gegenhandel. Um der Dinge schon einmal alles vorweg zu nehmen, alles was wir Stück für Stück in der Mission von Bastian erfahren und was die Familie Halix angeht..das hätten wir auch rausgekriegt wenn wir bei Emeric aufgeschlagen wären, den Archivar verlangt hätten und einen regnerischen Nachmittag in den Archiven verbracht hätten. Aber klar, wir können auch einfach quer durch Tamriel reisen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1545
+
+* Titel: `Let's Play ESO #1545 - Verlorenes und Gefundenes [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 120 des Blackwood DLCs - Sitzung 18
+  
+  Es stellt sich doch glatt heraus das in einem großen Adelshaus selten irgendetwas weggeschmissen wird. Und auch im Haus der Silvelles, die durchaus ein wenig kleiner sind wirft man nichts weg was vielleicht noch gut sein könnte. Zum Beispiel alte Briefe von alten Dienern die die gesamte Existenz von Bastian in Frage stellen. Immerhin finden wir heute den Ring den Quistley so unbedingt haben wollte. Ich erhoffe mir ja immer noch einen großen Diebstahl aber ich fürchte dafür ist Bastian einfach zu ehrlich. Wie dem aber auch sei, vor erst plane ich erst einmal auf Raubmord und je nachdem wie sich die Dinge entwickeln können wir immer noch zu einem kleineren Diebstahl abstufe oder wenn es richtig dunkel wird müssen wir vielleicht vorher zu Emeric und Absolution holen. Sollte alles kein Problem sein. Ich frage mich ob ich meine politische Macht unterschätze? Auf der anderen Seite, wer genau will eine unsterbliche Hochelfin Schrägstrich Vampir aufhalten? Sonnenlicht definitiv nicht. Warum sollte es also eine unbedeutendes Adelshaus tun?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1425,6 +1425,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #99
+
+* Titel: `Yakuza 3 Remastered - #99 - Viel zu loose Enden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mittlerweile einige Videos die irgendetwas mit "loose Enden" heißen. Irgendwann, wahrscheinlich als ich das Erste Mal Skyrim gespielt habe dachte ich noch das das ein guter Titel ist. Die Praxis sieht aber so aus das es ein ziemlich schlechter Titel ist weil er absolut nichts aussagt außer das man ein Trottel ist der keine Struktur in seine Arbeit  reinkriegt. Wie dem aber auch sei, Tatsache ist das ich immer noch irgendwelche Typen Suchen, durch diverse Geschäfte laufe und am Ende doch nichts finde. Letztendlich passiert gar nicht einmal so viel, aber bald haben wir dann auch wirklich alle Nebenmissionen erschöpft und dann geht es mit der Hauptstory weiter. Erfahrungsgemäß sollte es dann auch Schlag auf Schlag gehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 20.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #100
+
+* Titel: `Yakuza 3 Remastered - #100 - Ayaka von Massagesalon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gelegentlich habe ich Schwierigkeiten mich an Leute zu erinnern. Nicht nur in Spielen, sondern auch in echt. Das ist enorm nervig, noch viel schlimmer übrigens wenn es sich um Arbeitskollegen handelt und man die andauernd durcheinander wirft weil man irgendetwas von denen will und dann die falsche Person fragt. Awkward, ich kenne mich aus. Kiryu erleidet heute das selbe Schicksal. Aber auch nur weil ich meinen Notizen zu sehr geglaubt habe. Ich habe den Namen Ayaka nicht aufgeschrieben und war mir ziemlich sicher das ich bisher keinen Host-Club betreten habe. Im Nachhinein hätte ich das wohl wahrscheinlich mal machen sollen. Vielleicht gibt es da noch interessante Nebenmissionen. Wie dem aber auch sei, wir kennen Ayaka doch schon, vom Massagesalon ohne Happy End. Glaube ich zumindest das der keines hat. So richtig klar ist das ehrlich gesagt nicht. Wirklich nicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #101
+
+* Titel: `Yakuza 3 Remastered - #101 - Jinsei in der Suppon Straße [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute reise ich in die Vergangenheit. Eigentlich nicht wirklich aber Kiryu gelingt die Reise durch Andere. Wir dürfen übrigens nicht vergessen das wir mittlerweile 2009 sind. Kiryu selbst ist mittlerweile relativ alt geworden. Wir treffen einen Mann der aus den 50er Jahren stammt. Damals befand sich Japan in der Nachkriegszeit, ich weiß ehrlich gesagt nichts was japanische Geschichte in dieser Hinsicht angeht. Aber es gibt da wohl ein paar Parallelen zu Deutschland, wenn man mal von der Teilung absieht. Davon einmal abgesehen sind 60 Jahre aber eine wirklich lange Zeit, und Zeit verändert Orte, Personen und auch Namen. Wir können wohl von Glück sprechen das es die Suppon Straße überhaupt noch gibt. Nur das Jinsei ist fort.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #102
+
+* Titel: `Yakuza 3 Remastered - #102 - messerscharfes Gewerbe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Nebenmission tröpfeln langsam weg und alles was wir jetzt noch finden ist mehr Zufall als Alles Andere. Ich bin ehrlich gesagt ein wenig besorgt, die Geschichte mit Ayaka haben wir ja technisch gesehen auch nur durch Zufall aufgetrieben und hätte genauso gut verschütt gehen können. Was ist wenn es noch total interessante Missionen mit den Hostessen aus den Clubs gibt? Erinnert sich noch jemand an "Sayah Unten", die Hostess aus Okinawa? Für Erste interessiert uns aber eher das Gewerbe von einem anderen Typen, anscheinend Ex-Yakuza und jetzt wieder mächtig damit beschäftigt das Messer zu schärfen, plötzliche Einnahmen. Anscheinend ein Mann für die grobe Kelle. Wir investigieren, Kiryu findet heraus, Kiryu klärt. Das ist was ein Kazuma Kiryu tut. Und danach geht es in den Massagesalon.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #103
+
+* Titel: `Yakuza 3 Remastered - #103 - die Mars Fighter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen die Mars Fighter oder wie ich sie letztes Mal bestimmt genannt habe "Mars Kämpfer" bereits. Ich erinnere mich, zumindest jetzt wo ich das hier schreibe sogar ein wenig. Oder vielleicht auch nicht, es könnte durchaus eine konstruierte Erinnerung sein. Aber dann ist sie immer noch besser gebaut als die Witze der Beiden. Anscheinend handelt es sich bei der Witzform die die Beiden machen wollen um eine Art Kabarett wo einer den ernsten Typen spielt der dann unfreiwillig komische Retorten raus haut die der Lustige dann irgendwie verarbeiten muss. Ob das alles auch immer spontan sein muss weiß ich nicht aber ich kann mir vorstellen das die Spontanität durchaus schwierig zu bewerkstelligen ist. Die Witze vorher zu erdenken könnte durchaus leichter sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

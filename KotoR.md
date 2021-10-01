@@ -722,6 +722,86 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #47
+
+* Titel: `KotoR - #47 - Detektiv Visper [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mein Spielcharakter heißt Visper Corra, das dürfen wir auch nicht vergessen. Wir sind jemand und unsere Persönlichkeit spielt eine Rolle. Für den Moment sind wir anscheinend die Kraft des Guten. Das liegt aber auch nur daran das ich aktuell kaum Möglichkeiten sehe irgendwie anders aus diesem Szenario raus zu kommen wenn wir hier nicht gute Miene zum bösen Spiel machen. Daher lösen wir heute auch einen Mordfall. So wie es sich am Ende ergibt scheinen wir auch die richtige Lösung gefunden zu haben. Hoffe ich zumindest. All das Rechtsprechen scheint mir aber irgendwie auch eine Grenzüberschreitung der Jedi zu sein. Ich habe die Machtbenutzer eigentlich immer mehr als Exekutive gesehen, nicht als Judikative die selber Recht spricht und auslegt, aber letztendlich tun wir genau das hier. Klar, wir vollziehen nicht die Hinrichtung oder sonst irgendetwas, aber letztendlich haben wir alle Aufgaben in die Hand genommen. Hier draußen auf den bergigen Feldern von Dantooine.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #48
+
+* Titel: `KotoR - #48 - der Meditationshain [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir treffen heute Juhani. Das wollte ich nur nicht in den Titel schreiben. Juhani ist was ich spontan ein Catgirl nennen würde. Wirklich wortwörtlich und auch irgendwie nicht so richtig. Außerdem ist sie eine Jedi oder vielleicht auch eine ehemalige Jedi, sie hat zumindest den Geschmack der dunklen Seite der Macht gekostet und es sehr genossen. Wenn ich meinen Kommentaren glauben darf handelt es sich bei Juhani übrigens um eine "Cathar", was auch immer das ist. Ich habe nicht weiter geforscht. Aber Fakt ist wohl das die Gute das ein oder Andere Problem hat. Zum Beispiel sind ihre Augen offensichtlich ziemlich schlecht. Mir fällt spontan übrigens auf das wir selten Jedi mit Brillen oder anderen Augenkorrekturen sehen. Oder hilft in diesem Fall die Macht? Entweder man kann damit die Welt wahrnehmen oder Jedi heilen einfach zu einem perfekten selbst.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #49
+
+* Titel: `KotoR - #49 - Kath-Rudel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus als uns gesagt wurde das die außenliegenden Regionen quasi von den Karth-Hunden überrannt wurden darin keine Übertreibung zu finden war. Jetzt frage ich mich aber wie das überhaupt ein Problem war wenn ich an einem kurzen Nachmittag alle Hunde niederballern kann während ich gleichzeitig noch ein Mordfall gelöst habe und einige viele Plünderer entlebt habe. Ich meine, was genau machen alle anderen Leute bitte schön? Ich bin ein Dreierteam (auch ein wenig seltsam der Satz) und das war jetzt nicht so der größte Akt. Klar, ein wenig Taktik war erforderlich, ausnutzen von Reichweite und Position, aber das ist jetzt auch keine fortgeschrittene Kampftaktik für die man jahrelang üben oder studieren müsste.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #50
+
+* Titel: `KotoR - #50 - Knappenschlag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute werden wir zum Ritter geschlagen..und irgendwie auch nicht. Was passiert ist das wir anscheinend in den Stand eines Padawan erhoben werden. Wenn man bedenkt das ich eigentlich nie Jedi sein wollte ist das schon allerhand. Interessanterweise wird Bastilla nicht zeitgleich befördert. Weiter laufen die Dinge wohl dann darauf hinaus das wir raus in die Galaxie ziehen sollen, und ich habe sehr den Verdacht das absolut niemand mir einen Meister zur Seite stellen wird. Wenn ich dann am Ende doch der dunklen Seite verfalle möchte ich aber eigentlich Nichts hören. Die Leute hätten es kommen sehen können. Hätten. Hat aber natürlich niemand weil ich selbstverständlich nicht "stupid evil" bin sondern die intelligente Form davon. Heute lernen wir übrigens außerdem noch etwas über Mission. Das eigentlich auch ganz cool. (ich komme aus den 90ern, in meiner Jugend war das das Wort, alles war irgendwie kühl, ich glaube Emos waren auch hip, Goths nicht mehr so aber unterkühlt wirken auf jeden Fall)
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #51
+
+* Titel: `KotoR - #51 - Sherruk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben jede Menge mandalorianische Plünderer erschossen. Und ihre Helfer. Aber vor allen Dingen Mandalorianer. Ich weiß nicht was unser Lieblingssöldner von der ganzen Geschichte hört aber besonders gut kam das bestimmt nicht an. Wie dem aber auch sei, es stellt sich doch glatt heraus das die wirklich einen Anführer haben. Und der hat Rache geschworen. Das ist ein kleines Problem. Größtenteils weil der Typ zwei Laserschwerter hat und unendlich tanky ist. Das finde ich nicht okay, insbesondere weil er scheinbar besser mit den Dingern umgehen kann als meine Leute. Visper kann man sowieso in einer Pfeife rauchen wenn es um den Umgang mit der angeblichen Lieblingsjediwaffe geht, aber auch Bastilla scheint hier wenig zu können. Die andere gute Nachricht ist aber das wir heute die Höhle mit den Kristallen betreten und darin ein paar Eier zertreten. Das bringt Dunkelheitspunkte, ich weiß aber nicht so recht wieso.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 7, Aufnahme vom 16.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

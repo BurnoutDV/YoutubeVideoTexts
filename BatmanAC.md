@@ -845,6 +845,101 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
+##### #60
+
+* Titel: `Batman Arkham City - #60 - verlorene Besitztümer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die große Hauptgeschichte von Batman Arkham City ist jetzt auch vollständig geschafft. Allerdings gibt es da noch ein paar Dinge die ausstehen. Wir dürfen beispielsweise nicht vergessen das es da noch eine kleine Geschichte mit Harley Quinn gibt und so wie es aussieht hat Catwoman auch ihre Ausrüstung oder zumindest ihre Besitztümer verloren. Daher laufen wir noch ein wenig herum und beschäftigen uns damit weitere Insassen die Sorge zu nehmen wohin sie als nächstes verlegt werden. So wie die Dinge laufen überlebt am Ende sowieso niemand. Ärztliche Versorgung wird ja scheinbar bei jeder sich bietenden Gelegenheit vom Riddler gekapert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 21.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #61
+
+* Titel: `Batman Arkham City - #61 - Riddlers dritte Geißel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Riddler hat viel zu viele Geißeln. Und Batman hat eine viel zu geringe Toleranz was das opfern von Leuten angeht. Klar, man kann versuchen alle Leute zu retten aber am Ende läuft es darauf hinaus das sich irgendjemand diesen Fakt zu nutzen macht und man dadurch sehr hart ausnutzbar wird. Irgendwann muss man Kompromisse fällen und das große Merkmal eines Kompromisses ist das danach nie alle zufrieden sind. So ist das halt. Nun wie dem aber auch sei, heute retten wir dann halt noch eine Geißel vom Riddler nachdem wir ziemlich viele Rätsel gelöst haben. Aber ich frage mich ernsthaft wann dann endlich einmal der Punkt kommt an dem unser guter Edward die tolle Idee hat die Geißeln direkt zu erschießen oder einfach nur zu schummeln. Aber nein, Ganovenehre oder so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 21.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #62
+
+* Titel: `Batman Arkham City - #62 - Lagerhaus 5b [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stellt sich doch glatt heraus das ich zwar sowohl den Joker als auch Strange besiegt habe, Talia verloren und generell und überhaupt wahrscheinlich jede Menge andere Leute zum Tode verurteilt habe (durch Erfrierung mit gebrochenen Knochen ohne medizinische Hilfe) aber ganz vergessen habe noch ein Ehrenschuld einzulösen. Ich frage mich zwar wo genau die Schuld bei Batman liegt aber es ist schon klar was gemeint ist. Kurzum, wir haben vergessen den guten Dr. Freeze seine Frau zurückzuholen. Übrigens hätte ich im Nachhinein eigentlich ziemlich leicht darauf kommen können das wir die Eisgranate für diese Quest brauchen. Schließlich haben wir die Quest auch erst erhalten nachdem wir dieses Gadget von Freeze selber ausgehändigt gekriegt haben. Deduktion und so. Nicht ganz so beeindruckend wenn man es erst im Nachhinein macht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 21.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #63
+
+* Titel: `Batman Arkham City - #63 - Umspannwerke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend verfolgen wir heute irgendwelche Spuren, ich muss sagen das ich wahrscheinlich den wichtigsten Teil der Geschichte verpasst habe weil ich Dingen hinter her gejagt habe und dann am Ende auch noch die Tür geklingelt hat als Barbara grade den entscheidendsten Hinweis erläutert hat. Wie dem aber auch sei, die Zeitlinie ist eh ein wenig kaputt. Am Ende des Spieles haben wir ja erfahren das der Tag grade einmal angefangen hat. Es wäre daher ein wenig schwer für Deadshot Batman um 3 Uhr Nachts zu erschießen, weil diese Zeit ist schon vergangen und wir sind dennoch in der Lage das drittvorletzte Opfer zu retten. Das ist eine wahre Gabe der Zeitverschiebung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 28.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #64
+
+* Titel: `Batman Arkham City - #64 - Deadshot & Azrael [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stellt sich heraus heute machen wir Überstunden. Nicht nur verhaften wir Deadshot sondern wir erwischen auch gleichzeitig noch den mysteriösen Typen der sich da Azrael nennt und der sich andauernd vor uns versteckt. Ich bin mir übrigens nicht ganz sicher ob wir den guten Mann schon früher hätten erwischen können. Tatsache ist aber ich habe wohl das Fenster ein wenig sehr verpasst in dem ich die Nebenmissionen hätte machen können ohne das das Zeitgefüge sehr zerstört ist. Ich bin mir übrigens nicht ganz sicher inwiefern der gute Deadshot eigentlich als Superschurke zählt. Klar, er trägt irgendwie eine Art Kostüm, das ist an sich schon verdächtig. Im Großen und Ganzen kommt er aber nur dem zweitältesten Gewerbe nach und das ist doch irgendwie relativ normal. Ich weiß wirklich nicht warum sich Batman so aufregt. Es handelt sich um eine Transaktion, eine faires Geschäft, ein einfacher Handel. Leben gegen Geld. Alt wie die Zeit. Und eventuell illegal, aber Dr. Strange kann wohl nicht mehr belangt werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 28.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  
+  ```
+
+##### #
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  
+  ```
+
 ##### #Nummer
 
 * Titel: ``

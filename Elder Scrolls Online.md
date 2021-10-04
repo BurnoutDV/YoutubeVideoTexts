@@ -4488,6 +4488,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1546
+
+* Titel: `Let's Play ESO #1546 - Bastians Vergangenheit [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 121 des Blackwood DLCs - Sitzung 18
+  
+  Wir haben einen gewissen Bastian Halix jetzt schon länger als Begleiter, meistens schweigt er allerdings wenn wir die Welt retten und hilft uns einfach nur damit am Leben zu bleiben.  Lange Zeit war Bastian einfach nur ein Mitläufer, ein Magier der halt von irgendeinen Adelshaus in Glenumbra oder so ausgebildet wurde. Details sind eigentlich auch egal. Stellt sich doch glatt heraus das der Haushaltsname Halix mehr als nur ein misslungendes Attentat zu bieten hatte. Generell und überhaupt sind mir die Feinheiten bretonischer Adeliger nicht so ganz geläufig aber glücklicherweise komme ich in der Regel sehr gut damit klar sie einfach zu ignorieren. Jetzt wurde aber mein Interesse geweckt, stellt sich doch glatt heraus das dem guten Bastian wohl Unrecht getan wurde und sich eventuell die Möglichkeit eines mächtigen Blutbades bietet. Eventuell muss ich ihn dafür vorher noch ein wenig korrumpieren aber das sollte ja alles gar kein Problem sein oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1547
+
+* Titel: `Let's Play ESO #1547 - Graf Elmonde Auzin [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 122 des Blackwood DLCs - Sitzung 18
+  
+  Ich habe den schrecklichen Verdacht das wir noch mehr Adelige treffen werden. Generell und überhaupt habe ich ja ein Problem mit dem Gesocks. Auf der untersten Ebene widersprechen sie halt einfach den Grundprinzipien meiner Moral bzw. Philosophie die daraus besteht das man diejenigen Leute fördern sollte die Fähigkeiten haben und nicht die die am meisten andere Leute kennen. Oder noch schlimmer, deren Eltern die meisten Leute kennen. Klar, zur Vereinfachung ist es schon ganz praktisch wenn man einfach eine Kaste von Herrschern hat die dazu ausgebildet werden. Letztendlich führt das aber dazu das man tonnenweise Leute in Positionen bringt die besser nicht mit der Verwaltung eines Puppenhauses betraut werden sollten. Für jeden adeligen Forscher der Großes erreicht hat frage ich mich wie viele aus dem einfachen Volk ähnliche Leistung hätten bringen können wenn sie die Chance gehabt hätten. Wie dem auch sei, wir treffen heute Graf Elmonde Auzin, seines Zeichens Ehemann der seit langem tot geglaubten Schwester von Bastian. Übrigens auch ein Feigling, und ziemlich ehrenlos, das ist insbesondere interessant wenn man bedenkt das die hohen Herren immer betonen wie sehr ihnen ihre Ehre doch wichtig ist. Oder doch eher Ähren? Diese Bauern.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1548
+
+* Titel: `Let's Play ESO #1548 - Familiengeheimnisse [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 123 des Blackwood DLCs - Sitzung 18
+  
+  Es stellt sich doch glatt heraus..nach nur knapp 13000 Videos ist dieses erst das Zweite das "Familiengeheimnisse" heißt (das andere ist Fallout 4#56). Ich hätte, so rein aus dem Bauch gedacht das schon in etwa 5 Episoden ESO so heißen, aber nun gut, normalerweise wird es ja nicht so persönlich und wir beschäftigen uns eher mit den großen Dingen, da sind die Geheimnisse von Einzelpersonen vielleicht noch interessant, aber die ganzer Familien eher nicht so. Also, Erkenntnis, dem guten Bastian wurde übel mitgespielt, er hat immer noch eine Familie und man hat ihn 25 Jahre lang ausgenutzt. Erkenntnis zwei, er will keine Rache üben weil er so ein kleines geschlagenes Hündchen ist. Erkenntnis drei, ich denke dennoch das er psychologische Beratung braucht, eine medizinische Leistung die es wohl in Tamriel eher schwierig zu kaufen gibt. Erkenntnis vier, ich bin definitiv ein schlechter Einfluss auf den guten Bastian und ich kriege ihn schon noch dazu einen dunklen Pfad zu beschreiten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -802,6 +802,56 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #52
+
+* Titel: `KotoR - #52 - erfolgreiche Kampftaktik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin in der letzten Episode ja mehrfach an olle Sherruk gestorben, dem Anführer der mandalorianischen Plünderer. Das wäre natürlich auch kein Problem geworden, wäre ich halt einfach später wieder vorbei gekommen und hätte mich des Problems entledigt wenn ich stark genug dafür gewesen wäre. Ein unschöner Grund wieder nach Dantoinne zurückzufliegen aber wenn es halt nicht anders geht dann sei es halt so. Nun stellt sich doch aber glatt heraus das das auch unnötig war. Anscheinend können wir es auch so machen. Man braucht nur die richtige Menge an Feuerkraft und Taktik. Ich bin ehrlich gesagt ziemlich stolz darauf das ich diese Nuss geknackt habe. Klar, das hätte auch jeder Andere geschafft und ich habe mich am Anfang wahrscheinlich auch ziemlich dämlich angestellt und doch, grade durch meine vorherigen Fehlversuche erscheint mir dieser Versuch jetzt umso erfolgreicher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 9, Aufnahme vom 30.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #53
+
+* Titel: `KotoR - #53 - Sandral Familienanwesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gelegentlich drücke ich einen gewissen Missfallen gegenüber reichen Leuten aus. Das ist alles ein wenig schwierig für mich, weil letztendlich bin ich weit davon entfernt hier direkt den Kommunismus auszurufen. Alle Produktionsmittel in die Hand des Volkes zu legen erscheint mir nicht wie die beste Idee zu sein. Und doch, es gibt da Argumente. Hin oder her. Aber um es kurz zu machen, es gibt da Fälle die wesentlich einfacher sein, zum Beispiel die wenn sich irgendwelche Familien riesige Anwesen bauen können und andere Bauern kaum in der Lage sind am Leben zu bleiben oder notwendiges Gerät zu finanzieren. Letztere könnte man natürlich subventionieren aber muss man sich doch die Frage stellen ob die Ersteren nicht zu reich sind. Würde man ihnen natürlich alles nehmen nimmt man damit einen großen Antrieb zu streben. Gesucht ist also der Kipppunkt an dem Menschen noch mehr leisten weil sie mehr erreichen wollen aber man kann krebsartigen Ansammlungen von Reichtum hat. Wenn das passiert braucht es eine ausgleichende Macht. Heute bin ich diese ausgleichende Macht. Aber das kann nicht immer passieren, insbesondere wenn "der Reichtum" seine Mittel dazu verwendet aktive gegen einen Ausgleich zu kämpfen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 9, Aufnahme vom 30.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #54
+
+* Titel: `KotoR - #54 - Familienstreitigkeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Während ich Knights of the old Republic spiele habe ich parellel auch noch die Begleitermissionen von ESO: Blackwood und Batman Arkham City gespielt. Im Nachhinein ist das immer ein wenig schwierig herauszufinden wenn man nicht meine Protokolle hat die zwar quasi so mit den Video Veröffentlichungsdaten rekonstruieren lassen aber das tut natürlich niemand. Warum erwähne ich das? Weil in ESO auch so eine Familiengeschichte passiert war, daher heißt eine Episode die einen Tag vor dieser hier heraus kam "Familiengeheimnisse". Generell und überhaupt scheint die Familie umso wichtiger zu sein umso reicher man ist. Oder es wird mehr an die große Glocke gehangen weil mehr Leute drin stecken. Wie es aber auch sei, die Streitigkeit um die es heute geht ist ein wenig Hohl. Familie A wirft Familie B vor irgendetwas mit dem Sohn der Familie getan zu haben, die hat dann anscheinend wiederum den Sohn von Familie B entführt. Wir haben bereits herausgefunden das Sohn A tot im Staub liegt, zerfleischt von irgendwelchen Hunden, also verunfallt ist. Familie A will das aber dennoch nicht wirklich akzeptieren. Hinzu kommt noch das Sohn B sich mit Tochter A intim genährt hat. Außerdem meine ich wenn ich "Familie" schreibe eigentlich nur die jeweiligen Väter. Mütter scheint es in der Beziehung nicht zu geben. Immerhin ist Vater B nicht ganz so stur wie Vater A. 
+  Setze ein:
+  A = Sandral, B = Matal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 9, Aufnahme vom 30.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

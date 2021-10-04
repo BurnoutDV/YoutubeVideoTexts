@@ -920,24 +920,49 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
-##### #
+##### #65
 
-* Titel: ``
+* Titel: `Batman Arkham City - #65 - zu viele Trophäen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Es steht nicht mehr viel aus bis ich Arkham City durchgespielt habe. Eines der Dinge die noch fehlen ist es tatsächlich die Geißeln des Riddlers zu retten. Wenn ich ehrlich bin werde ich das wohl eher nicht mehr schaffen. Weil irgendwie kommt mir das irgendwie vor wie eine Aufgabe ohne Ende. Schon weil ich nicht absehen kann wie lange das Ganze eigentlich noch geht. Ich fürchte lange. Und ich habe natürlich keine Lust. Weil das Lösen von Rätseln ist vielleicht ganz schön, aber vieles davon ist auch einfach nur Geschicklichkeit. Aber, viel wichtiger noch, ich glaube als Zuschauer ist das einfach alles langweilig. Daher breche ich dann auch irgendwann einmal ab. Irgendwann.
   
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 28.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
-##### #
+##### #66
 
-* Titel: ``
+* Titel: `Batman Arkham City - #66 - verlorene Schätze [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Man merkt eventuell das ich auf den letzten Metern des Spieles unterwegs bin. Generell und überhaupt ist nicht mehr viel für Batman zu tun. Allerdings hat Catwoman noch offene Rechnungen, und die begleichen wir nun natürlich. Oder wir lassen sie andere Leute begleichen. Schuld ist natürlich Two-Face der dafür gesorgt hat das die Früchte des letzten Raubes von ihr jetzt weit verteilt liegen. Zum Glück scheint die magische Katzensicht es uns aber leicht zu machen die entsprechenden Schätze einfach zu lokalisieren. Ich frage mich übrigens wie das in der Praxis aussieht? Guckt das Geld einfach aus den Taschen, sieht man die Kontur eines Diamanten im Overall der Knackis und dort hat unser Kätzchen dann natürlich den Blick drauf, oder wie darf ich mir das vorstellen?
   
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 28.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #67
+
+* Titel: `Batman Arkham City - #67 - Harleys Rache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir auf einmal Robin. Ich bin wirklich enttäuscht. Ich hatte irgendwie gedacht das wir Harley spielen. Harley die sich durch Polizisten kämpft oder irgendwelche Dinge tut. Stattdessen spielen wir Robin. Ich weiß nicht wie genau ich mir das Gameplay genau vorgestellt hätte. Sowohl Harley als auch die Bullen sind ja sehr dafür bekannt eher Waffen zu benutzen als ihre Fäuste zu benutzen. Und die Mechaniken des Spieles sehen eher so aus als würde man sich nicht mit Waffen duellieren können. Aber Harley hat ja ein Talent für Akrobatik und könnte doch bestimmt theoretisch  irgendwie die Bullen umhauen. Oder vielleicht einfach nur die Schläger anderer Verbrecher. Aber, aber..nun so wie die Dinge stehen, wir spielen halt Robin der halt irgendwie ein leichter anderer Batman ist. Besondere Talente hat er soweit ich das erkennen kann nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 28.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
 ##### #Nummer

@@ -1500,6 +1500,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #104
+
+* Titel: `Yakuza 3 Remastered - #104 - Verteidigungsminister Tamiya [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist immer wieder erstaunlich wie ein Besitzer eines kleines Waisenhauses auf Okinawa mit höchsten politischen Ämtern kommunizieren kann. Eventuell hat es auch ein wenig damit zu tun das der gute Kiryu in der Vergangenheit eine etwas andere Rolle hatte, wenn auch nicht lange. Manche Leute scheinen ihn deswegen nicht besonders zu respektieren aber der große Rest sieht in Kazuma eine Figure der Legenden. Der Drache von Dojima. Wir können wohl davon ausgehen das man in den richtigen Kreisen, auch bei nicht-Kriminellen, weiß wer Kazuma Kiryu ist und seine Leistung respektiert. Und so kommt es das wir heute anscheinend mit dem Verteidigungsminister von Japan sprechen. Schon interessant das Alles. Immerhin gibt es auch ein paar Antworten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #105
+
+* Titel: `Yakuza 3 Remastered - #105 - Kapitel 10 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die gute Nachricht ist, wir sind ein Kapitel weiter, die schlechte Nachricht ist, wir sind unserem großen Problem nicht wirklich weiter gekommen. Zwar hat jetzt unser großer Gegenspieler ein Gesicht und wir wissen grob um was es eigentlich geht aber die generelle Lage ist immer noch ein wenig verworren. Außerdem zeigen uns die Zwischensequenzen noch andere Motive unserer Gegenspieler. Stellt sich doch glatt heraus das es sich um vielschichtige Charaktere handelt die mehr als nur einen Antrieb haben und im Hintergrund vielleicht noch nicht völlig rationale Abwägungen treffen. Das macht es natürlich ein wenig schwieriger unsere Gegner einzuschätzen, aber immerhin dürfen wir mal wieder Majima sehen, das ist doch eigentlich auch ganz schön.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #106
+
+* Titel: `Yakuza 3 Remastered - #106 - Zurück nach Okinawa [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder im Süden. Das ist übrigens auch mal wieder ganz schön. Weil letztendlich ist Tokio vielleicht als Tourist ganz schön und solange man nicht in größere Schwierigkeiten kommt aber das Wetter ist doch nicht zu vergleichen. Die warme Sonne von Okinawa sorgt durchaus für eine gewisse Atmosphäre des Gut-Fühlens. Das kann der Regen in Tokio einfach nicht. Wenn jetzt alles noch ein wenig globalisierter wäre könnte man nicht einmal einen Unterschied spüren. Letztendlich ist es aber wahrscheinlich genau dieser Charm des Weit-Weg-Seins der Okinawa ausmacht. Ich habe das Gefühl das es sich auch um eine Nuance handelt die man nur schlecht erfühlen kann. Weil, die Insel ist immer noch Japan, auch wenn sie sehr weit weg davon ist. Inwiefern die nationale Identität tatsächlich ankommt kann ich nicht sagen aber zumindest die Repräsentation im Spiel lässt es so erscheinen als wäre eine gewisse Kulturseele durchaus noch da.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1545,12 +1545,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
-##### #Nummer
+##### #108
 
-* Titel: ``
+* Titel: `Yakuza 3 Remastered - #108 - Tierschmuggel auf'm Wochenmarkt [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Heute bin ich sehr stolz. Nicht das ich den Schmuggel von irgendwelchen von Artenschutz betroffenen Katzenarten verhindert habe sondern das mir nach 108 Episoden eingefallen ist das man "Local Market" wahrscheinlich am besten mit "Wochenmarkt" übersetzen kann. Faktisch natürlich nicht korrekt weil die Markthalle wohl die ganze Woche geöffnet hat aber man kann wohl nicht alles haben. Wie dem aber auch sei. Es stellt sich doch glatt heraus das es einen doch recht reichhaltigen Schwarzmarkt auf dem Wochenmarkt gibt. Waffenhändler habe ich zwar noch keine gefunden aber wir wissen ja das die quasi auch nur eine Gasse weiter wohnen. Oder in einem Van einen Stadtteil weiter. Auf jeden Fall nie fern. Ein Kazuma Kiryu zieht aber die Grenze wenn es um Tierschmuggel geht. Oder wenn es Opfer gibt. Beim Waffenschmuggel könnte man argumentieren das es im ersten Moment ja keine Toten gibt..vor erst.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #109
+
+* Titel: `Yakuza 3 Remastered - #109 - Zechepreller Diät[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben von Kiryu wirdvon Wiederholungen geplagt. Andauernd glaubt man hätte einen Feind bekämpft, ein Problem gelöst und dann taucht ein Neues auf und man steht gefühlt wieder am Anfang
+  Das Leben von Kiryu wird von Wiederholungen geplagt. Zum Beispiel dachte man doch eigentlich das man den "Dine-and-Dasher" endlich zur Vernunft gebracht hatte nachdem man ihn mehrfach nieder getackelt hatte. Sowas bleibt den Leuten in der Regel im Gedächtnis. Aber so wie es aussieht war dem dann doch wohl nicht so.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #110
+
+* Titel: `Yakuza 3 Remastered - #110 - Schuldenfalle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erstaunlich viele Geschäfte in Yakuza Spielen laufen darauf hinaus das man unter irgendwelcher falschen Vorgaben in ein Büro gelockt wird, dort etwas unterschreibt und dann vertraglich gebunden ist. Ich hatte den Eindruck das die Japaner eigentlich diese lustigen Stempel hatten und das man gar nicht soviel Wert auf Unterschriften legt. Und selbst wenn, rechtlich sollte doch eine unter Zwang getätigte Unterschrift gut anfechtbar sein. Aber da die Yakuza Spiele bisher immer semi-realistische Vorgänge gezeigt haben und diese Art des Betruges wirklich oft vorkommen habe ich den Eindruck das das Vertrauen in die staatlichen Organe insbesondere bei niederrangigen Behörden eher gering ist. Vielleicht haben die lokalen Verbrecher sogar bessere Kontakte als man selber. Dann wäre der Rechtsweg wohl ausgeschlossen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```

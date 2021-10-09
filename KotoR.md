@@ -852,6 +852,70 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #55
+
+* Titel: `KotoR - #55 - Spuren der Erbauer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Universum ist schon ziemlich alt, und wenn man nicht davon ausgehen kann das irgendwelche großen Filter dafür gesorgt haben das die derzeitige Zivilisation durch einen irren Zufall die Erste war gab es davor natürlich schon einige Andere. Wo sie wohl hin sind? Entweder ausgestorben durch innere Spannungen oder ganz woanders. Vielleicht weil sie mehr über die Realität wissen als wir. Eigentlich spielt es auch keine echte Rolle, so eine Galaxie ist extrem groß und wir sind anscheinend ziemlich darin beschränkt zu reisen. Wichtig ist also nur was hier und jetzt ist, und das ist anscheinend eine uralte Ruine mit immer noch funktionstüchtiger Technik und einen Roboter der sogar unsere Sprache spricht. Sehr praktisch. Und schrecklich. Die Implikationen sind..beunruhigend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 9, Aufnahme vom 30.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #56
+
+* Titel: `KotoR - #56 - die Sternenkarte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wäre diese Episode wesentlich besser tituliert wenn sie heißen würde "Fragment der Sternenkarte". Stellt sich doch glatt heraus das das Artefakt was wir heute finden doch nicht so perfekt ist wie es der Roboter klingen lässt der zurückgelassen wurde. Um die Geschichte kurz zu machen, die Karte gibt uns eher nur eine wage Vorstellung wo die Dinge sind. Wir wissen das wir im Zweifel immer auf die Macht vertrauen dürfen irgendwelche Orte zu finden. Andernfalls wäre es auch echt schwer interstellar sich zu bewegen. Der Weltraum ist einige Fussballfelder groß. Einige viele. Sehr viele sogar. Da braucht man schon ziemlich genaues Messgerät und Karten um überhaupt irgendetwas wieder zu finden. Aber, anscheinend reicht "Süd-Ost-Flügel der Galaxie auch. Zumindest für uns. Wir wissen also wo wir jetzt hin müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 9, Aufnahme vom 30.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #57
+
+* Titel: `KotoR - #57 - die große Mission [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, Mission ist jetzt nicht völlig überraschend gewachsen. Sie ist immer noch eine kleine Twi'lek und für diese Episode nicht relevant. Stattdessen wird uns eröffnet was wir noch alles tun müssen bis die große Bedrohung gebannt ist. Und das ist schon eine Lüge. Eigentlich ist unser großer Auftrag einer nebulösen Spur zu folgen, dabei so gut wie kein Backup zu haben und irgendwie zu hoffen das alles wird. Dann wurde uns noch eine Menge von Vertrauen in die Macht, Achtung vor der dunklen Seite erzählt und dann sind wir quasi ins Raumschiff  gestiegen. Also, um die Geschichte kurz zu machen. Das Wort heißt Himmelfahrtskommando, der Jedi Rat hat es nicht benutzt aber quasi mit allen Worten umschrieben die es finden konnte. Und Zaalbar redet immer noch nicht mit uns. Bedauerlich. Dafür erzählt uns aber Canderous lustige Geschichte. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 9, Aufnahme vom 30.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #58
+
+* Titel: `KotoR - #58 - Unsicherheiten der Crew [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir gehen auf ein Himmelfahrtskommando in eine undefinierte Richtung und suchen irgendwelche Bestandteile einer Sternenkarte die uns dann zur Sternenschmiede führen soll. Die Sternenschmiede die offenbar bereits von Malak und Revan gefunden wurde und höchstwahrscheinlich auch in Betrieb genommen. Wir wissen natürlich nicht was es ist auch wenn die Vermutung nahe steht das es sich um eine Raumschiffwerft, wahrscheinlich irgendwo wo es viele Ressourcen gibt, gelagert handelt. Ziemlich sicher. Vielleicht ist es auch ein echter Splitter der Schöpfung und man kann damit ganze Sterne erschaffen. Das wäre ziemlich cool und in der Tat eine große Errungenschaft. Was es aber auch ist, unsere Gegner sind schon da. Da unsere Crew nicht völlig verblödet ist haben die natürlich Zweifel  daran was aus uns wird. Nicht jeder geht sehenden Auges in eine Selbstmordmission.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 9, Aufnahme vom 30.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

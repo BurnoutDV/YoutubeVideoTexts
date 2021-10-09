@@ -4512,7 +4512,7 @@
   ```markdown
   Folge 122 des Blackwood DLCs - Sitzung 18
   
-  Ich habe den schrecklichen Verdacht das wir noch mehr Adelige treffen werden. Generell und überhaupt habe ich ja ein Problem mit dem Gesocks. Auf der untersten Ebene widersprechen sie halt einfach den Grundprinzipien meiner Moral bzw. Philosophie die daraus besteht das man diejenigen Leute fördern sollte die Fähigkeiten haben und nicht die die am meisten andere Leute kennen. Oder noch schlimmer, deren Eltern die meisten Leute kennen. Klar, zur Vereinfachung ist es schon ganz praktisch wenn man einfach eine Kaste von Herrschern hat die dazu ausgebildet werden. Letztendlich führt das aber dazu das man tonnenweise Leute in Positionen bringt die besser nicht mit der Verwaltung eines Puppenhauses betraut werden sollten. Für jeden adeligen Forscher der Großes erreicht hat frage ich mich wie viele aus dem einfachen Volk ähnliche Leistung hätten bringen können wenn sie die Chance gehabt hätten. Wie dem auch sei, wir treffen heute Graf Elmonde Auzin, seines Zeichens Ehemann der seit langem tot geglaubten Schwester von Bastian. Übrigens auch ein Feigling, und ziemlich ehrenlos, das ist insbesondere interessant wenn man bedenkt das die hohen Herren immer betonen wie sehr ihnen ihre Ehre doch wichtig ist. Oder doch eher Ähren? Diese Bauern.
+  Ich habe den schrecklichen Verdacht das wir noch mehr Adelige treffen werden. Generell und überhaupt habe ich ja ein Problem mit dem Gesocks. Auf der untersten Ebene widersprechen sie halt einfach den Grundprinzipien meiner Moral bzw. Philosophie die daraus besteht das man diejenigen Leute fördern sollte die Fähigkeiten haben und nicht die die am meisten andere Leute kennen. Oder noch schlimmer, deren Eltern die meisten Leute kennen. Klar, zur Vereinfachung ist es schon ganz praktisch wenn man einfach eine Kaste von Herrschern hat die dazu ausgebildet werden. Letztendlich führt das aber dazu das man tonnenweise Leute in Positionen bringt die besser nicht mit der Verwaltung eines Puppenhauses betraut werden sollten. Für jeden adeligen Forscher der Großes erreicht hat frage ich mich wie viele aus dem einfachen Volk ähnliche Leistung hätten bringen können wenn sie die Chance gehabt hätten. Wie dem auch sei, wir treffen heute Graf Elmonde Auzin, seines Zeichens Ehemann der seit langem tot geglaubten Schwester von Bastian. Übrigens auch ein Feigling, und ziemlich Ehren los, das ist insbesondere interessant wenn man bedenkt das die hohen Herren immer betonen wie sehr ihnen ihre Ehre doch wichtig ist. Oder doch eher Ähren? Diese Bauern.
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
@@ -4528,6 +4528,31 @@
   Folge 123 des Blackwood DLCs - Sitzung 18
   
   Es stellt sich doch glatt heraus..nach nur knapp 13000 Videos ist dieses erst das Zweite das "Familiengeheimnisse" heißt (das andere ist Fallout 4#56). Ich hätte, so rein aus dem Bauch gedacht das schon in etwa 5 Episoden ESO so heißen, aber nun gut, normalerweise wird es ja nicht so persönlich und wir beschäftigen uns eher mit den großen Dingen, da sind die Geheimnisse von Einzelpersonen vielleicht noch interessant, aber die ganzer Familien eher nicht so. Also, Erkenntnis, dem guten Bastian wurde übel mitgespielt, er hat immer noch eine Familie und man hat ihn 25 Jahre lang ausgenutzt. Erkenntnis zwei, er will keine Rache üben weil er so ein kleines geschlagenes Hündchen ist. Erkenntnis drei, ich denke dennoch das er psychologische Beratung braucht, eine medizinische Leistung die es wohl in Tamriel eher schwierig zu kaufen gibt. Erkenntnis vier, ich bin definitiv ein schlechter Einfluss auf den guten Bastian und ich kriege ihn schon noch dazu einen dunklen Pfad zu beschreiten.
+  
+  0:00 - Gameplay
+  10:19 - BUCH: Sendschreiben der Magiergilde
+  11:24 - Gameplay
+  12:13 - BUCH: Befehle: Stahlherz-Ankerplatz
+  12:27 - Gameplay
+  13:28 - BUCH: Weiteres Sendschreiben der Magiergilde
+  14:18 - Gameplay
+  14:49 - BUCH: Brief des Vorarbeiters
+  15:26 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1549
+
+* Titel: `Let's Play ESO #1549 - Gräfin Clarine Auzin [Blackwood]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 124 des Blackwood DLCs - Sitzung 18
+  
+  Um es kurz zu machen, es handelt sich um Bastians Schwester. Genau wie er dachte sie das Bastian vor vielen Jahren verstorben ist. Anscheinend hat sie die Sache damit auch beruhen lassen und nie in diese Richtung geforscht. Man hat es ja oft das Leute manisch Dinge nachprüfen und noch viele Jahre später komplette aufräumen. Dieses Mal nicht. Ich frage mich übrigens inwiefern die Schwester in dem Moment der Rettung es eigentlich ernst gemeint hat und wieviel davon berechnendes Adelsdame sein war. Wenn man lange genug in einer sehr misstrauensreichen Umgebung kommt dann ist das oberflächliche Zeigen von Freundlichkeit quasi ein Automatismus. Bin ich zu zynisch?
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe

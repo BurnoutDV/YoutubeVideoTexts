@@ -965,12 +965,67 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
 
-##### #Nummer
+##### #68
 
-* Titel: ``
+* Titel: `Batman Arkham City - #68 - Spezialagent Batman [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und schon haben wir schon erneut den Charakter gewechselt. Dieses Mal sind wir anscheinend Batman der einfach alles durchgelevelt hat und alle Upgrades von Waynetech erhalten hat. Jetzt stelle ich mir vor das sich Batman die Erweiterungen seiner Ausrüstung tatsächlich verdienen muss weil er aus irgendeinen selbst ausgedachten Grund sich erdacht hat das er so eine Art Tarnung wahren kann. Aber soweit ich das weiß wissen alle Leute die ihm Ausrüstung zuschieben, also Lucius Fox und Albert ziemlich genau was Bruce Wayne hauptberuflich in der Nacht macht. Und ich sage mal so, Philanthrop ist in der Regel eigentlich kein Vollzeitjob.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 28.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
   ```
+
+##### #69
+
+* Titel: `Batman Arkham City - #69 - Geiselbefreiung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es überrascht mich. Wirklich. Ich habe nur 4 Videos die irgendwie "Geiselbefreiung" betitelt sind. Ich hätte wirklich gedacht das das ein Thema ist das wesentlich öfter auftaucht. Tut es ja auch, aber in der Regel ist es nur ein Unterpunkt auf meiner Agenda die Welt zu retten. Quasi ein optionales Ziel. Klar, tue ich auch immer weil ich darauf stehe am Ende alles abzuhaken, aber ich müsste nicht. Für Batman und Unterlinge scheint es aber Imperativ zu sein wirklich jede einzelne Geißel zu retten. Ich weiß nicht was der Joker eigentlich falsch gemacht hat. Aber wenn es wirklich nur darum geht einen wirklich schlechten Tag zu verschaffen hätte er dann nicht einfach ein paar Geißeln mit irgendetwas tödlichen aber langsamen Vergiften können? Batman hätte sie nicht retten können und sein Ziel erreicht. Aber nein, anscheinend muss es immer unnötig kompliziert sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #70
+
+* Titel: `Batman Arkham City - #70 - Harleen Quinzel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bisher stand die gute Frau Dr. Quinzel irgendwie kaum im Fokus. Klar, sie hat den Laufburschen für Joker gemacht. Hat sich eventuell auch das ein oder andere Mal schlagen lassen und lief irgendwo herum, aber so richtig elementar wichtig war sie nie. Auch interessant, Batman schlägt nie irgendwelche Frauen. Als wir im Asylum waren haben wir zwar Poison Ivy überwältigt aber eigentlich nur ihre Pflanzenteile angegriffen und nicht wirklich den Teil von ihr der "Frau" ist. Und auch mit Harley scheinen wir uns nie zu prügeln. Generell und überhaupt tanzt die gute nur viel rum, schimpft und schießt mit irgendwelchen Witzkanonen. Aber physische Gewalt? scheint einfach nicht ihr Ding zu sein. Klar, körperliche Nachteile, aber die sind auch nicht unendlich und das sollte sie doch durchaus durch Beweglichkeit und Wahnsinn ausgleichen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+##### #71
+
+* Titel: `Batman Arkham City - #71 - der Joker-Schrein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Joker ist und war eine These, eine Theorie. Ein schlechter Tag kann auch den größten Helden brechen. So gesehen könnten wir den Joker wohl als Wissenschaftler bezeichnen. Soziologe quasi. Immer bemüht zu beweisen das seine Hypothese korrekt ist. Und irgendwie, hatte er ja recht, nur die Größenordnung hat er falsch abgeschätzt. Die meisten Leute brechen nicht vollständig wenn Dinge geschehen. Natürlich, ein schlechter Tag wäre schon ganz gut geeignet, aber manchmal reicht das nicht, es braucht Zeit damit sich die Dinge setzen können. Oder vielleicht auch nicht. Ich frage mich übrigens immer noch was Harley Quinn eigentlich dazu gebracht hat zu brechen? War sie einfach schon immer kaputt? War es der Wunsch ein Leben zu ändern? Das hätte sie ja auf jeden Fall geschafft. Ihr Eigenes. Dieser blinde Glaube an den Joker und seine Philosophie ist aber auf Dauer ein wenig nervig. Man könnte sogar sagen, nervig. Daher endet das alles heute.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPojTE1dnK3tyWd2ZauEF7n
+  ```
+
+## Fazit
+
+Ich weiß über die Historie von Batman Arkham City Nichts. Ich habe auch nicht vor daran etwas zu ändern. Ich vermute also daher leer in den Raum und bin mir relativ sicher das ich zumindest partiell Recht habe. Arkham City erschien als Nachfolger von  Arkham Asylum das zwar irgendwie offen aber auch technisch gesehen sehr linear war. Das Aufkommen von immer mehr Open World Spielen hat wahrscheinlich hier auch den Drang eröffnet ein Solches abzuliefern. Dieses Experiment würde ich persönlich als gescheitert betrachten. Es ist zwar schön und gut das diverse andere Batman Gegner durch die Offenheit und die Prämisse mit eingebaut werden konnten aber dies geschieht letztendlich auf Kosten der eigentlichen Handlung. Natürlich, das Fünfzigste Riddler Rätsel ist genauso spannend wie das Erste. Oder auch nicht. Hier wer weniger mehr gewesen. Das interessante Story-Brocken mit nicht besonders transparenten Rätsel versperrt sind störte mich ebenfalls, diese waren aber zumindest überschaubar und existierten so ja auch im Vorgänger. Die Questreihe um die Riddlertrophäen habe ich nie beendet weil es sich nach Arbeit angefühlt und nicht wie ein Spiel hat. Auch das zufällige Einstreuen von kurzen Catwoman Szenen fühlt sich sehr forciert an, ob die übersexualisierte Selina Kyell jetzt der "Token-Effort" für Spielerinnen sein soll oder doch der Fan-Service an die alle Spieler darstellen soll kann ich so klar nicht erkennen. Ihr Story-Arc war an sich völlig bedeutungslos und ich glaube das Arkham City ein besseres und klareres Spiel ohne diese Sequenzen sein können. Die wenigen anderen Nebenquest die man teilweise nur durch Zufall findet erinnern eher an ein MMO als an ein Singleplayer Spiel, auch hier hielt sich meine Begeisterung in Grenzen. Das alles lenkt davon ab das die Hauptstory des Spieles brachial kurz ist aber auch kurzweilig. Letztendlich habe ich 71 Episoden gebraucht um das Spiel zu beenden was uns auf gute 23 Stunden Spielzeit bringen. Gefühlt fünf davon waren mit der Suche nach Trophäen verbracht aber welches Spiel kann schon behaupten ohne Filler auszukommen. Für ein Spiel das ich irgendwann einmal im Sale für wenig gekauft habe war es durchaus okay. Als Vollpreisspiel wäre ich enttäuscht gewesen. Aber darum muss sich wohl niemand 8 Jahre nach Release Sorgen machen. 
+Ein letztes Wort zu den Zusatzinhalten: die Harley Kampagne war okay auch wenn meine Enttäuschung ob der spielbaren Charaktere immer noch gewaltig ist. Die sinnlose Riddler Arena Geschichte erscheint mir extra sinnlos.

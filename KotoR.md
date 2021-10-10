@@ -916,6 +916,38 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #59
+
+* Titel: `KotoR - #59 - blinder Passagier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich in anderen Universen Raumschiffe anguckt, dann sind das praktisch Flugzeug auf Steroide. Das Design und die Ingenieursleistung die da rein geht ist gewaltig. Schubfächer die extra gesichert sind, überall Handgriffe, runde Ecken damit sich niemand stößt. Effektiv genutzter Platz, intelligent ausgelegte Maschinenräume und generell sehr viel Gehirnschmalz pro Kubikzentimerter. Logischerweise bewacht man ein entsprechendes Raumschiff natürlich und sorgt dafür das niemand dem guten Stück zu nahe kommt. Die Technik ist schließlich empfindlich und das Wort "Spaltmaß" ist bei der Konstruktion bestimmt auch öfter einmal gefallen. Innen drin ist natürlich auch alles hoch überwacht und jedes Instrument sorgsam mit Sensoren vollgestopft die sicherstellen das Nichts still vor sich hin stirbt. Soviel zur Theorie, und dann kommen wir zu Star Wars in der wir ein Cowboy Western Weltraum haben in dem man ein Raumschiff auf einen Wüstenplaneten aus Einzelteilen zusammensetzen kann. Das sich in einer solchen Welt blinde Passagiere einschleichen war quasi zu erwarten. In anderen Neuigkeiten, hallo Sasha.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 10, Aufnahme vom 07.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #60
+
+* Titel: `KotoR - #60 - Sasha und die Landegebühr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser blinder Passagier vom letzten Mal heißt Sasha. Sasha scheint nur mandalorianisch zu sprechen ist aber selbst nicht von Mandalor. Sich mit ihr zu unterhalten wäre auch überhaupt gar kein Problem wenn unser lokaler Mandalorianer sich mal bereit erklären würde seinen verdammten Maschinenraum zu verlassen. Aber das passiert anscheinend nicht in nächster Zeit wenn wir ihn nicht mitnehmen um irgendwelche Leute zu erschießen. Also bleibt uns kaum etwas Anderes übrig als selber mandalorianisch zu lernen weil wir natürlich selbstverständlich auch kein technisches Gerät an Bord haben um Sprachen zu überwinden. Lange Geschichte kurz, ich war nicht weit davon entfernt den Hafenmeister der Czerka Corperation zu erschießen. Der hätte es natürlich auch verdient, alleine für seinen Arbeitergeber aber am Ende konnte ich den Pfad des Lichts folgen. Gut oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 10, Aufnahme vom 07.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

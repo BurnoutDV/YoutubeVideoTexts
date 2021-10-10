@@ -1590,3 +1590,43 @@
   Sitzung 15, Aufnahme vom 27.09.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
+
+##### #111
+
+* Titel: `Yakuza 3 Remastered - #111 - Lieferjunge Kazuma [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist übrigens auch nicht immer ganz klar warum ich mich eigentlich für diverse kleinere Nebenaufträge freiwillig melde. Klar, ich brauche auch irgendwie Geld aber mir scheint das der Verdienst eines Teilzeitarbeiters einfach nicht an den eines Yakuza Bosses herankommt. Insbesondere wenn man bedenkt das wir sowieso andauernd auf offener Straße von irgendwelchen Typen angegangen werden die uns dann minimal nerven, aber halt auch das Gehalt eines Lieferjungens mal 10 fallen lassen. Oder aber auch nur irgendwelche Reiszwecken aus Stahl. Die sind dann nicht ganz soviel wert, mein Punkt ist. Wir sind zu nett für diese Welt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #112
+
+* Titel: `Yakuza 3 Remastered - #112 - Heimkehr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder im Waisenheim. Also nicht sofort, so gut kann ich die Yakuza Episoden doch nicht planen. Erst müssen wir uns noch mit dem Sprachkurs auseinander setzen. Es stellt sich doch glatt heraus das das alles ein wenig Betrug war. Immerhin haben wir wohl ein paar Worte auf English gelernt. Ob und das hinter beim Kontakt mit Jiji hilft. Ich ahne ja das es eher nicht so ist, andererseits spielt es sowieso keine Rolle. Weil..der Mann wird ja wohl noch Japanisch können. Nur weil er jetzt für die CIA arbeitet heißt ja nicht das er seine Sprache verlernt hat. Aber zurück zum Wesentlich. Im Waisenheim hat man Kiryu durchaus vermisst..und selbstverständlich gibt es sofort wieder neue Probleme. Fast so als hätte man mit den Problemen auf den Ex-Yakuza gewartet.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

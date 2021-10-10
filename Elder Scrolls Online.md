@@ -1,6 +1,244 @@
 ## Elder Scrolls Online
 
-##### #1042
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #625
+
+* Titel: `Let's Play ESO #625 - Fulstrom Heimstätte [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 1 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Ich hab irgendein Addon gekauft und absolut keine Ahnung was uns das bringt. Unser erster Bruch führt uns aber in das Fulstrom Anwesen um irgendeinen Schädel zu stehlen. Mit dabei eine Diebin mit den Namen Quen, anscheinend hat sie die Operation organisiert. Ansonsten weiß ich aber nichts über sie, ein Umstand der sich unter Umständen durchaus als nachteilig herausstellen könnte. Sehen wir doch einmal wo uns die Reise hinführt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #626
+
+* Titel: `Let's Play ESO #626 - das Eisenrad [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 2 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Wir sind noch ziemlich frisch in dieser ganzen Bruch und Diebstahl Geschichte da ergeben sich schon die ersten Problem. Stellt es sich doch glatt heraus das in diesem Herrenhaus das wir da infiltrieren wollten doch tatsächlich eine mächtige Vereinigung haust die unserem neuen Hobby doch eher kritisch gegenüber steht. Wer hätte das gedacht. Außerdem lernen wir noch Schleicht-leise kennen. Auch schön. Also Leute kennen lernen, das mit der mächtigen Vereinigung die übrigens Eisenrad heißt eher nicht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #627
+
+* Titel: `Let's Play ESO #627 - Zeira [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 3 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Wir sind dann in Abas Landung angekommen. Und damit auch im Schoss der Diebesgilde. Unglücklicherweise sind im Vorfeld bereits Dinge geschehen die die derzeitige Diebesgilde nur noch einen Schatten ihrer selbst sein lässt. Die gute Nachricht ist das wir damit überhaupt nichts zu tun haben und uns niemand die Schuld zuschieben kann. Die Schlechte Nachricht, eine geschwächte Gilde kann uns auch nicht dabei helfen besonders großartige Brüche zu begehen. Immerhin hat sie noch eine Anführerin, der Name ist Zeira und uns nicht völlig abgeneigt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #628
+
+* Titel: `Let's Play ESO #628 - Abahs Landung [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 4 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Eigentlich kennen wir Abahs Landung bereits ein wenig. Man hat uns ja nicht unbedingt mit verbundenen Augen zur Zisterne geführt. Ich würde jetzt einfach mal mutig in den Raum vermuten das irgendwann einmal jemand, wahrscheinlich eine mutige Kapitän eines fragwürdigen Kahns hier angelandet ist. Dann gab es irgendwas mit Wirtschaft und schon wenige Jahrhunderte später hat man einen florierende Stadt die die Grundlage für verschiedene Handelsroute darstellt. Heute schauen wir uns die Ortschaft einmal ein wenig näher an. Zeira die Gildenchefin ist auch mit dabei, Stadttouren ist hier noch Chefsache!
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #629
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #630
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #631
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #632
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #633
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #634
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #635
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #636
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #637
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #638
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+##### #639
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #640
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #641
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #642
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+##### #643
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #644
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #645
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #1242
 
 - Titel: `Let's Play ESO #1242 - einladene Irrlichter [Nebenquests]`
 

@@ -2,7 +2,7 @@
 
 * tags = `BATMAN_AC_SORT_TAG,catwoman,strange,bruce,wayne,twoFace,joker,harley quinn,blackgate,arkham,city,gotham,protokoll 10,tyger,jack ryder,pinguin,cobblepot,kyle,zsasz,stacy baker,batgirl,batboy,harvey dent,croc,riddler,quincy sharp,huge strange,open world,lets play,ingame,playthrough,walkthrough,biografie`
 
-##### #1
+##### #copy&paste
 
 * Titel: `Batman Arkham City - #1 - Einlieferung [Let's Play; ger; Blind]`
 

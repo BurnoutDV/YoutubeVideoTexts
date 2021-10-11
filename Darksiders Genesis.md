@@ -33,6 +33,21 @@
   Sitzung 1, Aufnahme vom 05.10.2021
   ```
 
+##### #3
+
+* Titel: `Darksiders Genesis - #3 - Abgrunddämon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immerhin haben wir gelegentlich mit einigen sehr interessanten Gegner zu tun wenn man  ein Reiter der Apokalypse bzw. in diesem Fall, des Rates ist. Es ist ja nicht so das man gegen irgendwelche 08/15 Feinde geschickt wird. In der Regel handelt es sich viel mehr um Gegner die unserer Aufmerksamkeit würdig sind. Außerdem reden wir heute ziemlich kurz mit Samael aber das Gespräch ist natürlich wieder nur eine Sache von Sekunden. Nach all der Arbeit scheint man uns einfach nicht mehr Zeit zu geben. Manchmal habe ich das Gefühl das die Reiter eher so etwas wie  Auditoren sind die zusätzlich noch ein paar Berechtigungen haben was die direkte Exekution von Schuldigen angeht. Anders kann ich mir nicht erklären das wir andauernd irgendwo auftauchen und dann plötzlich woanders sind um Spuren zu verfolgen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 1, Aufnahme vom 05.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

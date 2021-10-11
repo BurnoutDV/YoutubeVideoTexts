@@ -72,170 +72,268 @@
 
 ##### #629
 
-* Titel: ``
+* Titel: `Let's Play ESO #629 - Lagerräumung [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 5 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Wir treffen immer wieder neue Charaktere auf unseren Raubzug durch die Welt. Heute zum Beispiel Velsa. Die war anscheinend irgendwann einmal Mitglied der Diebesgilde hat sich dann aber genau rechtzeitig zurückgezogen um nicht unter die Räder zu kommen. Es ist eigentlich erstaunlich das sich das Eisenrad von solchen Oberflächlichkeiten hat ablenken lassen. Wie dem aber auch sei. Wir begegnen außerdem noch einen Khajit namens Silberkralle, einem Namen den er sich anscheinend für sein Händchen für Geld erworben hat. Der heutige Auftrag ist etwas ungewöhnlich, wir sollen in sein eigenes Lagerhaus einbrechen. Es geschieht nicht alle Tage das wir beauftragt werden jemanden zu bestehlen der auch der Auftraggeber ist. Interessant.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #630
 
-* Titel: ``
+* Titel: `Let's Play Elder Scrolls Online #630 - Ein Doppelleben`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 6 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Ich erfreue mich immer wieder an doppeldeutigen Episodentiteln. Aus einer reinen SEO Perspektive natürlich eher schlecht aber manchmal habe ich wirklich Spaß an meiner Kunst. Wenn man das so nennen kann. Wie dem aber auch sei. Die aktuelle Lage ist das wir wissen das sich Zeira und Velsa nicht wirklich leiden können und wenn man zwischen den Zeilen ließt könnte man durchaus behaupten das Velsa auch eine Art Doppelleben lebt. Dies ist aber nicht der ursprüngliche Grund für diesen Episodentitel. Stellt sich doch glatt heraus das uns Quen am Anfang nicht die völlige Wahrheit gesagt hat. Ich weiß, das kommt jetzt überraschend aber so ist es. Ich schwöre bei Auri-El. Ein Doppelleben führt übrigens in der Regel zu harten Schlafmangel, ein gewisser Bruce Wayne kann davon ein Liedchen singen. Es sei den man ist in der Leben ein wenig räumlich zu trennen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #631
 
-* Titel: ``
+* Titel: `Let's Play ESO #631 - das Sulima Herrenhaus [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 7 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Der Begriff Hausfriedensbruch ist mir bekannt. Seit 2016 als ich das hier aufgenommen habe hatte ich mich tatsächlich mehrfach damit beschäftigt. Nicht weil ich einen interessanten und spannenden Nebenerwerbe gefunden habe sondern weil gelegentlich Bittsteller bei mir vor der Haustür stellen und mich das nervt. Lange Geschichte kurz, der Hausfriedensbruch muss vom Eigentümer bzw. Bevollmächtigten festgestellt werden. Irgendwie. Wenn also nirgendwo ein Schild hängt und mich niemand sieht ist das technisch gesehen kein Hausfriedensbruch. Wie alles mit Recht ist das natürlich keine harte Regel..und außerdem stellt sich doch glatt heraus das man in Abahs Landung die Sache ein wenig anders auffässt. Und wahrscheinlich sind die örtlichen Wachen auch durchaus berechtigt uns als Einbrecher zu klassifizieren. Da hilft nur scharfe Gewalt.
+  
+  0:00 - Gameplay
+  14:39 - BUCH: die Elfin, das Ei und der Fast-ein-Drache
+  18:07 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #632
 
-* Titel: ``
+* Titel: `Let's Play ESO #632 - Fürstin Sulima [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 8 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  2021 habe ich die Beschreibung der Diebesgilden Episoden überarbeitet. Ursprünglich hieß diese Folge übrigens "Vaters Hauptbuch", das war nicht besonders aussagekräftig und soweit ich weiß hat "die Seelenberaubte" keine Familie, schon weil wir technisch gesehen irgendwie eine Kopie der Person sind die Mannimarco irgendwann einmal geopfert hat. Eine perfekte Kopie, quasi ein Mer-gewordener Daedra aber immer noch nicht so richtig die echte Person. Quen hat allerdings einen Vater, der Name ist Saroldo und anscheinend waren seine Handelsfahrten ein wenig mehr als sie auf den ersten Blick haben vermuten lassen. Wir treffen heute Fürstin Sulima, die uns übrigens erzählt das sie recht verarmt ist und ihr letztes Geld für die Wachen ausgibt die ihr Anwesen bewachen. Die gleichen Wachen die wir eventuell leicht lädiert haben als wir herein kamen. Nun, ärgerlich sowas.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  
   ```
 
 ##### #633
 
-* Titel: ``
+* Titel: `Let's Play ESO #633 - die Diebe [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 9 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Diese Episode hieße ursprünglich "das lange Spiel". Ich weiß wirklich nicht warum. Nichts was wir heute tun scheint mir irgendeinen Hinweis darauf zu geben warum 2016 Burnout dachte das dies eine gute Idee wäre. Nun, ich habe mich umentschieden und die Folge ein wenig anders genannt. Zum Thema, wir sprechen heute mit den verschiedenen Dieben die sich in der Zisterne aufhalten, eigentlich übrigens ein relativ wohnlicher Ort, ich weiß wirklich nicht was die Leute alle haben. Ein gutes Versteck wenn man sich so manche andere Höhle anguckt. Außerdem lernen wir ein wenig etwas über die einzelnen Handelsfürsten von Abahs Landung, die sind natürlich ziemlich korrupt und ihre Geschäfte durchaus zwielichtig. Auch lernen wir über die Grundsetze der Gilde. Letztendlich finde ich das der Begriff "Diebesgilde" die Berufsbezeichnung nicht direkt trifft, die Gilde tut durchaus auch andere Sachen wie Schmuggel von diversen Arten von Waren, auch wenn es hier durchaus Grenzen gibt. Alles in Allem passiert heute keinerlei Action aber viel für das allgemeine Verständnis.
+  
+  0:00 - "Gameplay"
+  4:56 - BUCH: Handelsfürsten von Abahs Landung, Band 1
+  7:07 - BUCH: Immer mit der Ruhe
+  8:08 - "Gameplay"
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  
   ```
 
 ##### #634
 
-* Titel: ``
+* Titel: `Let's Play ESO #634 - Vogelfrei [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 10 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Eigentlich treffen wir heute eine Piratin namens Rohefa mit der unser gut-gekleideter Freund Schleicht-leise eine gewisse Vorgeschichte hat und irgendwie ist das auch relevant aber der daraus resultierende Auftrag wird von mir völlig ignoriert. Dann treffen wir noch Quen die scheinbar noch nicht ganz über die Nachricht hinweg ist die ihren Vater betrifft. Verständlich, man könnte hier durchaus von Selbstvorwürfen sprechen, nicht gesund. Ich mache mich auch Vorwürfe. Ich bin doch auf einmal verrufen soll aber an einem gesellschaftlichen Ereignis teilnehmen, das ist wirklich schwer wenn man andauernd einen Blick über seine Schulter werfen muss. Außerdem habe wir eine weitere Spure mit der wir bestimmt eine Menge anfangen könnten..wenn wir dafür nur nicht mitten durch die Stadt laufen müssen. Immerhin sind wir nicht wirklich im wahrsten Sinne des Wortes vogelfrei, dann wäre alles ein wenig schwieriger. Aber die Wache scheint eh ein kurzes Gedächtnis zu haben, oder aber in Abahs Landung geschehen so viele Verbrechen das man da recht schnell aus dem Raster fällt. So oder so, eigentlich müssen wir nur abwarten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #635
 
-* Titel: ``
+* Titel: `Let's Play ESO #635 - eine geheime Schande [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 11 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Heute betreten wir einen interessanten Ort, außerdem bannen wir noch ein paar Geister. Der Ort nennt sich "Bahraras Düsternis", es handelt sich um eine Art super reiche Grabkammer die noch nicht geplündert wurde. Der Grund dafür sollte in der reichhaltigen Menge an Wachen und Geistern liegen die hier umherlaufen. Letztendlich werden wir natürlich Erfolg haben aber das Grund für unsere Anwesenheit schwindet für mich in den Hintergrund, wichtiger ist doch die Architektur die wir heute zu sehen bekommen. Was das reine Aussehen angeht ist dieser Ort relativ einzigartig und auch hervorhebenswert. Ich würde eine klare Empfehlung auf Aliyas Reiseempfehlung aussprechen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #636
 
-* Titel: ``
+* Titel: `Let's Play ESO #636 - Velsas Abwege [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 12 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Der Titel ist das original von 2016, aber er ist immer noch eine Lüge wie es damals schon eine war. Velsa ist nicht auf Abwegen. Ich bin es. Grade waren wir noch in Bahraras Düsternis und haben uns um die geheime Schande gekümmert, dann haben wir einen Sklavenmeister am Strand besiegt und dann hatten wir uns schon verirrt. DAs ist außerordentlich ärgerlich, das verirren meine ich. Ich hasse es wenn das passiert. Auf einmal ist man ganz woanders. Irgendwann, in weiter Zukunft, werde ich aus diesen Grund ein Minimap Addon installieren. Ich bin einfach zu schlecht mir ansonsten zu merken wo ich lang muss. Andauernd die große Karte zu öffnen ist schließlich auch keine Maßnahme.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #637
 
-* Titel: ``
+* Titel: `Let's Play ESO #637 -  Die Zitadelle von No Shira [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 13 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Wer es noch nicht wusste. Eine Zitadelle ist normalerweise das zentrale Stück einer Festung. Also quasi eine Burg in einer Burg drin die noch einmal extra abgesichert ist. In eine solche brechen wir heute ein, wie es Velsa ausdrückt, "unser täglich Brot". Quasi eine Art Handwerk. Ärgerlicherweise ist das Eisenrad ziemlich paranoid so das das Einbrechen durchaus nicht einfach ist. Immerhin erfahren wir das auch unsere Verbündeten durchaus an ihrem eigenen Gewinn interessiert sind und es wohl gute Gründe gibt warum es sich um die Diebesgilde und Verbündete handelt und nicht die Liga der aufrechten Kaufwesen. Lange Geschichte kurz, wir brechen ein, ein wenig anders als ursprünglich geplant und ich bereue es bitterlich das ich nicht schon damals die Leidensklinge besaß.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #638
 
-* Titel: ``
+* Titel: `Let's Play ESO #638 - Cosh's Pläne [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 14 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Ich habe ein wenig Probleme die einzelnen Personen auseinander zu halten die hier miteinander interagieren. Wir haben auf der einen Seite eine Kerl namens Cosh der wohl zu den Handelsfürsten von Abahs Landung gehört. Rücksichtslos versucht er an die Macht zu kommen, dann gibt es da das Eisenrad angeführt von Oberinspekteur Rhanbiq mit dem Cosh irgendwie zusammenhängt. Alle anderen Leute betrachten die durchaus geballte Macht des Eisenrades als Besatzungsmacht. Die restlichen Händler wären wahrscheinlich durchaus willens mit uns einen Handel anzufangen. Für den Moment stellt sich wohl heraus das die Dinge durchaus nicht so sind wie wir dachten das sie sind. Das sind sie ja irgendwie nie, sonst wäre ja auch alles keine spannende Geschichte?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
+
 ##### #639
 
-* Titel: ``
+* Titel: `Let's Play ESO #639 - Velmont Anwesen [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 15 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Ich bin durchaus auch für persönliche Gefallen zu haben. Man muss nur fragen und ein wenig rhythmisch mit dem Geldbeutel wackeln. Letztendlich frage ich mich manchmal wirklich was mich eigentlich motiviert. Ist es Gold? Das Gefühl etwas Gutes zu tun? Oder vielleicht doch einfach nur eine Geschichte zu sehen? Ich mag Geschichte und heute bietet uns Schleicht-leise  eine Geschichte. Anscheinend ist die Vergangenheit die er in seinem Kopf hat nicht direkt das was er glaubte das sie es sei. Höchst interessant, man könnte durchaus davon sprechen das ich mich in Erzählungen bezahlen lasse, Erzählungen die ich selbst mit erlebe. Zum Beispiel heute was die Familie Velmont mit ihren persönlichen argonischen Dienern tut. Ein wenig verstörend ist es aber auch.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #640
 
-* Titel: ``
+* Titel: `Let's Play ESO #640 - Anais Velmont und Fa'ren-dar [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 16 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Nein, Anais Velmont und unser sehr geschätzter Freund Fa'ren-dar haben überhaupt nichts miteinander zu tun. Allerdings, jetzt mit vielen Jahren Abstand, muss ich sagen das die persönliche Mission von Schlecht-leise durchaus einen sehr dunklen Twist hat wenn ich darüber nachdenke. Ich glaube ich konnte damals das "Writing" dieser Quest nicht wirklich schätzen, jetzt, 2021, während ich das hier schreibe und die Episode noch einmal gesehen habe kann ich doch durchaus schätzen was ich vor mir sehe. Beeindruckend eigentlich sogar, dafür das ESO ab 12 Jahren ist ist das Thema das wir heute angehen schon ziemlich schwierig. Außerdem verabreden wir uns für weitere Beutezüge, das ist wiederum nicht so spannend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #641
 
-* Titel: ``
+* Titel: `Let's Play ESO #641 - Beutezugmeister [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 17 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Die heutige Episode ist super signifikant. Der eine große Grund warum ich die Diebesgilde nie zu Ende gespielt habe. Es stellt sich doch glatt heraus das man innerhalb der Gilde aufsteigen muss wenn man die einzelnen Missionen machen möchte. Das habe ich nie getan, Grund dafür sind auch die Missionen von Fa'ren-dar der uns eigentlich auf lohnenswerte Beutezüge geschickt hat, man nennt ihn ja auch den Beutezugmeister. Oder aber auch den Dieb der Diebe. Was auch wahr sein mag, wichtig ist das ich nie weiter gestohlen habe und daher nicht aufstieg. Und dann gingen mir irgendwann einmal die Missionen aus. Und hier sind wir jetzt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #642
 
-* Titel: ``
+* Titel: `Let's Play ESO #642 - eine verwelkte Blume [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 18 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Wenn man als Meisterdiebin einen geheimnisvollen Brief auf den Markt zugesteckt erhält sollte man sich ernsthaft Sorgen machen das man langsam aber sicher seinen Hang zur Realität verliert und den Plan mit dem Ruhestand doch noch ein wenig schneller betreiben sollte. Heute führt uns unsere Reise sogar hinaus aus Abahs Landung, das hätte ich ja nicht für möglich gehalten aber so wie die Dinge stehen agieren Diebe nun mal nicht nur lokal sondern auch global. Zumindest wenn man eine ganze Diebesgilde als quasi Händler mit speziellen Methoden sieht, letztendlich muss die Ware am Ende auch irgendwie verkauft werden. Und wie man beim normalen Geschäft einen Unterschied durch deinen Ortswechsel im Wert erreicht so kann man Diebesgut auch nicht dort verkaufen wo man es erworben hat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 ##### #643
 
-* Titel: ``
+* Titel: `Let's Play ESO #643 - Der Haifisch, der hat Zähne [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 19 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Wir erinnern uns noch an Rohefa, die Piratin? Nicht mehr? Nun, zur Erinnerung, die Gute hat uns einen Auftrag gegeben zur Haizahngrotte zu reisen um dort mit Shulug dem Hai zu reden. Es handelt sich hierbei natürlich um eine weitere Piratin, keine große Überraschung. So wie es aussieht gibt es wohl ein wenig Kompetenzgerangel unter den unterschiedlichen Kapitänen. Meereselfen sind das Problem, als Hochelfe können wir da natürlich ein wenig mitfühlen. Das Alles endet dann aber eher in einen Straßenbandenkrieg, weil die Lösung besteht anscheinend daraus das wir irgendwelche Segel anmalen sollen. Und das tun wir dann auch. Beim nächsten Mal.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #644
 
-* Titel: ``
+* Titel: `Let's Play ESO #644 - Gischtgänger [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 20 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Wir halten uns in einem Piratennest auf. Dort gibt es so tolle Orte wie die Selbstmörderklippen, die Plankenhügel, den Blutdocks und natürlich auch den stillen Raum. Alles Namen die eine Menge versprechen und zumindest die Klippen schauen durchaus so aus als wären sie für das geeignet was sie versprechen. Hauptproblem ist immer noch der Streit auf dem Niveau einer Straßenbande. Piratengang 1 ist sich nicht grün mit Piratengang 2 und jetzt muss halt ein Zeichen gesetzt werden. Unsere Gegenspieler in diesem Fall sind übrigens die sogenannten Gischtgänger, ein guter Name wie ich finde. Es handelt sich um Maormer, also Meereselfen, eine Rasse die wir als Hochelfe besonders hassen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #645
 
-* Titel: ``
+* Titel: `Let's Play ESO #645 - Schlund von Lorkhaj [Diebesgilde]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 21 des Diebesgilde DLC [Storyorientiert, Diebsgilde, Hochelfenmagierin]
+  
+  Ich kann den Schlund von Lorkhaj nicht machen, ich bin alleine. Daher schaue ich mir nur an was es dort eigentlich zu holen gibt. Übrigens interessant zu erwähnen, die fernen Sande sind einige der wenigen Orte an dem unser Charakter wirklich sterben kann. Ich habe mich in letzter Zeit ein wenig belesen und im Großen und Ganzen ist Aliya die Saitama von Tamriel. Manche kennen ihn vielleicht als One-Punch-Man. Die meisten Dinge one-hitten wir zwar nicht aber wir sind defacto unsterblich. Es ist ziemlich unhöflich von irgendwelchen Daedra als Sterbliche bezeichnet zu werden. Letztendlich sind wir ebenfalls ein Daedra, nur das wir halt an Nirn anstatt an eine Ebene von Oblivion gebunden sind. Wenn wir sterben bildet sich unser Körper auf Nirn an einem Knotenpunkt erneut, und das sogar innerhalb kürzester Zeit. Nur wenn wir uns in Aetherius befinden könnten wir wirklich final sterben. Aber bis auf den fernen Sanden und eventuell auch die Hallen von Sovngard sind die meisten dieser Orte sowieso unerreichbar. Weiter geht es in Episode 1550.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  
   ```
 
 ##### #1242
@@ -4791,6 +4889,28 @@
   Folge 124 des Blackwood DLCs - Sitzung 18
   
   Um es kurz zu machen, es handelt sich um Bastians Schwester. Genau wie er dachte sie das Bastian vor vielen Jahren verstorben ist. Anscheinend hat sie die Sache damit auch beruhen lassen und nie in diese Richtung geforscht. Man hat es ja oft das Leute manisch Dinge nachprüfen und noch viele Jahre später komplette aufräumen. Dieses Mal nicht. Ich frage mich übrigens inwiefern die Schwester in dem Moment der Rettung es eigentlich ernst gemeint hat und wieviel davon berechnendes Adelsdame sein war. Wenn man lange genug in einer sehr misstrauensreichen Umgebung kommt dann ist das oberflächliche Zeigen von Freundlichkeit quasi ein Automatismus. Bin ich zu zynisch?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1550
+
+* Titel: `Let's Play ESO #1550 - Neues von Zeira [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 22 des Diebesgilde DLC - Sitzung X + 1
+  
+  Absoluter Anfang der Diebesgilde: https://youtu.be/Da1i3bYg4Us
+  
+  Vor 5 Jahren habe ich das Diebesgilden DLC irgendwie für beendet erklärt und dabei war es nie fertig. Heute will ich diesen Fehler beheben und das Ganze richtig beendet. Und damit müssen wir erst einmal richtig neu anfangen. Das tun wir heute, im Hintergrund habe ich eventuell den ein oder anderen Raubzug durchgeführt damit mein Rang in der Gilde hoch genug ist. All dies ist jetzt also geschehen und wir wären in der Lage uns wieder zurück nach Abahs Landung aufzumachen. Das heißt das wir auch alte Bekannte wiedertreffen, Quen, Schleicht-leise, Zeira, Percious Loche und Velsa, nur um einmal ein paar Namen zu nennen. Wir machen also nahtlos da weiter wo wir einst aufgehört habe. Nun ja, fast. Einige Dinge habe ich gewisse vergessen und werde sie jetzt doppelt tun und sagen.
+  
+  0:00 - Vorerklärung, Zusammenfassung
+  5:24 - Gameplay
+  7:41 - BUCH: Karis Wunschliste
+  11:19 - Gameplay
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe

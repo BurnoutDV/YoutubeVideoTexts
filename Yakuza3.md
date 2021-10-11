@@ -1621,6 +1621,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #113
+
+* Titel: `Yakuza 3 Remastered - #113 - Wrestling Match [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kinder mögen es zu raufen. Zumindest die männlichen davon, das stellt natürlich irgendwelche Fragen an die Erziehung und wieviel aus der Gesellschaft kommt. Würden Mädchen auch bis zu einem gewissen Alter sich auf den Boden werfen und wrestlen? Oder ist da mehr als nur Kultur am Ball? Wie dem aber auch sei, wir können die Fakten nicht ändern und die Sachlage ist das wir einen Fall von einem erwachsenen Wrestlingmatch haben. Warum genau wir das tun ist mir übrigens auch nicht klar aber irgendwie kommen die beiden Jongens von der Ryudu-Familie immer wieder auf solche lustigen Ideen. Manchmal frage ich mich ob die Familie eigentlich noch andere Mitglieder hat die ein wenig seriöser sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1630,3 +1645,11 @@
   ```markdown
   Hier
   ```
+
+1. Traumjäger
+2. Saya Unten
+3. Karaoke Date
+4. Harukas schattige Geschäfte
+5. Ayako die Hilfreiche
+6. Ayako die Läuferin
+7. Arayaki der Aufrichtige

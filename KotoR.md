@@ -948,6 +948,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #61
+
+* Titel: `KotoR - #61 - 65-623, Edean [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, es handelt sich natürlich immer noch um Kashyyyk aber anscheinend hat die lustige Czerka Corperation mit einem Sitzungssaal voller Investoren entschieden das der Planet jetzt auf einmal anders heißt. Das ist alles ein wenig irritierend weil man doch meinen möchte das es defacto zentrale Autoritäten über die Benennung von Orten bzw. Planeten gibt. Wahrscheinlich handelt es sich dabei um die Republik. Wenn die sagt das ein Ort irgendwie heißt dann wird man dagegen wahrscheinlich nur wenig sagen. Hier einen Sonderweg zu gehen könnte auch dazu führen das sich bestimmte Leute auf die Füße getreten fühlen. Zum Beispiel die örtlichen Einwohner, auch wenn die für den Moment weniger traurig über  den Umstand zu sein scheinen. Das könnte aber auch daran liegen das sie derzeit andere Sorgen haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 10, Aufnahme vom 07.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

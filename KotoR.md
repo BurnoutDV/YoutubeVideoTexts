@@ -964,6 +964,32 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #62
+
+* Titel: `KotoR - #62 - Recht und Gerechtigkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus nervigen Gründen beschäftige ich mich in letzter Zeit viel zu oft mit dem großen Unterschied zwischen Recht und Gerechtigkeit, meistens auch noch mit Gesetz und Rechtsprechung. Das alles sind, um es kurz zu machen, völlig unabhängige Begriffe die manchmal in Teilaspekten überlappen. Aber in der Regel dann halt auch eben nicht. Sehr lästig. Als offizieller Jedi sprechen wir Recht. Oder tun zumindest irgendwie so. Die Jedi selbst bezeichnen sich ja immer wieder gerne als Friedenshüter. Absolut keine Ambitionen, sie lassen die Welt um sich wirken und wenn irgendetwas zu sehr gegen einen nicht näher definierten Moralkodex widerspricht wird halt gehandelt. Und da sagt man noch einmal das die Sith emotional agieren. Wirklich, ich bin verwirrt. Es mag Unwissenheit sein, aber halten sich Jedi  an lokales Gesetz? Weil wenn ja haben ich dann heute meine erste offene Tat gegen die Philosophie getan. Andererseits, wessen Jurisdiktion gilt in einem umkämpften Gebiet. Wer definiert legal? Wie weit kann man den moralischen Kompass der Jedi biegen bis er bricht. Spontan würde ich dann übrigens behaupten das ich heute Gerechtigkeit hab walten lassen aber ich war ziemlich sicher nicht im Recht. War mir aber egal, die dummen Regeln der Jedi achte ich nur solange sie mir mehr nützen als schaden. Hoffentlich quatsch Bastilla nicht...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 10, Aufnahme vom 07.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

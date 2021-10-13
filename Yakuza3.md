@@ -1636,6 +1636,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #114
+
+* Titel: `Yakuza 3 Remastered - #114 - Traumjäger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Träume im Leben zu haben erachte ich als wichtig. Ich schriebe viel zu oft solche Dinge im "passiv". Dann kommen da so Sprüche raus wie "man sollte bla". Kann man bestimmt so pauschal nicht sagen, aber letztendlich ist der Sinn des Lebens wohl der den man selbst definiert und einen Traum, eine Vision von dem zu haben was sein könnte hilft enorm dabei nicht in tiefe Depressionen zu verfallen und einfach nichts zu tun. Das mit der Intelligenz könnte doch noch ein großer Fehler gewesen sein. Wie dem aber auch sei, wir haben vor einiger Zeit einen Zeichner getroffen der auch einen Traum hat. Leider haben auch andere Leute einen Traum der durch ihn geht. Außerordentlich ärgerlich sowas wenn Eltern versuchen durch einen selbst zu leben. Grade wenn man bei weitem noch nicht den Abstand zur Realität geschaffen hat um das in aller Ruhe beurteilen zu können. Die Leute machen sich auch gerne über Menschen lustig die ihren Träumen nachjagen..bis sie dann erfolgreich sind..oder aus anderen Gründen in der Zeitung stehen. Dann heißt es wieder "das hätte ich ja nie gedacht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #115
+
+* Titel: `Yakuza 3 Remastered - #115 - Saya Unten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollte ich nur schnell meinen Vorrat an Damenhandtaschen loswerden die sich in letzter Zeit angesammelt haben. Ich hätte nicht gedacht das dies direkt zu einem größeren Politikum wird. Erneut kann ich nur wiederholen das ich mir immer noch nicht ganz vorstellen kann wie all das funktioniert. Eventuell braucht es genügend Alkohol um sich der Illusion mehr hinzugebe. Ich kann es nicht. Es geht irgendwie um geistige Nähe, um das Gefühl sich mit einer jungen Frau zu unterhalten. Das Gefühl vielleicht auch irgendwie Zuneigung zu erhalten. Kiryu ist jetzt um die 40 wenn ich das recht verstanden habe und einige der Hostesses sind eventuell auch ein wenig an einer Beziehung mit ihren Kunden interessiert wenn sie reich genug sind, aber der Grad zwischen professioneller Zuneigung und echter Neugier ist für mich zu schmal. Dieses ständige Motive in Frage stellen würde mich fertig machen. Aber vielleicht bin ich auch in der falschen Lebenssituation.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 27.09.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1645,11 +1675,3 @@
   ```markdown
   Hier
   ```
-
-1. Traumjäger
-2. Saya Unten
-3. Karaoke Date
-4. Harukas schattige Geschäfte
-5. Ayako die Hilfreiche
-6. Ayako die Läuferin
-7. Arayaki der Aufrichtige

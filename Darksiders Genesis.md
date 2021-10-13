@@ -48,6 +48,21 @@
   Sitzung 1, Aufnahme vom 05.10.2021
   ```
 
+##### #4
+
+* Titel: `Darksiders Genesis - #4 - Schlangenlöcher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, in der Leere. Der Ort sieht ein wenig vertraut aus. Ich persönlich bin da ja ein großer Fan von der wortwörtlichen Leere, man Denke an den Abyss in Dark Souls, einfach nur eine große schwarze Fläche ohne jeden Inhalt. Das ist Leere. Das was wir heute finden erinnert mich an verschiedenste Spiele. Ganz vorne wären da übrigens einige Maps aus Starcraft Broodwar, um genau zu sein das Ding was in der zweiten Protoss Kampagnenmission von Broodwar zu sehen ist. Keine Überleitung aber genau so ist es. Ich habe halt nicht wirklich das Gefühl das wir hier mit dem Nichts handeln. Alternativ ginge natürlich auch noch der Astralraum aus Control um ein neueres Beispiel zu nennen. Immerhin ist das Alles aber relativ konstant, schon die Schlangenlöcher im ersten Teil sahen ja so aus. Auch gut, in diesem Ableger müssen wir den langen Weg anscheinend nicht mehr selber laufen, das ist nett und spart Zeit. Ich kann sie jetzt bestimmt woanders verschweden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 2, Aufnahme vom 12.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

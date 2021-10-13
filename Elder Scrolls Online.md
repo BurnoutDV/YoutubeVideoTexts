@@ -440,6 +440,7 @@
   > Folge 25 der Nebenquests Aufnahmesitzungen - 5#1
   > Heute schließen wir das ganze große Problem in der Festung Sphinxfalter ab. Im Großen und Ganzen war ja auch nicht soviel zu tun. Es basiert natürlich auf die Geschichte mit dem Steinfeuerkult, aber der ist ja nun schon ein wenig Geschichte. Ich kann mich ehrlich gesagt auch nicht mehr genau erinnern was genau der getan hat. So schnell vergisst man die kleinen Dinge im Leben. Da gab es einen Kult, tausende Leute hat er wahrscheinlich beeinflusst. Andere sind gestorben. Ich erinnere mich nicht mehr an irgendwas. Vielleicht habe ich den ganzen Kult alleine zerschlagen. Für die Kultisten und Priester war es wahrscheinlich das Ende der Welt (und ihrer Leben), für mich war es ein ganz normaler Sonntag.
   > Quest(s) in dieser Episode:
+  >
   > - eine Frevel an Mara
   > - Gefangene der Sphinx
   > - für alles das richtige Gewürz
@@ -4911,6 +4912,40 @@
   5:24 - Gameplay
   7:41 - BUCH: Karis Wunschliste
   11:19 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1551
+
+* Titel: `Let's Play ESO #1551 - Percius bunte Spuren [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 23 des Diebesgilde DLC - Sitzung X + 1
+  
+  Absoluter Anfang der Diebesgilde: https://youtu.be/Da1i3bYg4Us
+  
+  Zeit im Elder Scrolls Universum ist manchmal eine komische Sache. Da hätten wir Dinge wie das Numidium das diese komplett zerstört, Vergangenheit wie Zukunft gleichermaßen, dann den Stab der Türme der alles destabilisiert oder verschiedene tonale Artefakte der Dwermer die ebenfalls an den Fundamenten des Seins rütteln. Dann hätten wir da noch Parallelzeitevente wie die Drachenbrüche und ich fange gar nicht erst damit an das die namens gebenden älteren Schriftrollen eigentlich außerhalb der Zeit existieren. Zum Thema, ein Schneider Namens Percius Loche hilft bei unseren Operationen. Wir werden diesen Mann getroffen haben. Irgendwann in der Zukunft die aber gleichzeitig auch meine Vergangenheit ist. Das alles ist in diesem Fall ein wenig meine Schuld und die Leute wissen gar nicht das ich quasi senkrecht über dem Fluss der Zeit stehe. Dennoch ist die Lage ein wenig verwirrend. Für alle. Aber vor allen Dingen für mich. Konzentrieren wir uns aber auf das Derzeitige: Wir verfolgen unseren Schneider weil wir ihn brauchen um den neuesten tollen Plan von Zeira auszuführen. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1552
+
+* Titel: `Let's Play ESO #1552 - Reise nach Dings [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 24 des Diebesgilde DLC - Sitzung X + 1
+  
+  Absoluter Anfang der Diebesgilde: https://youtu.be/Da1i3bYg4Us
+  
+  Wir gehen heute auf eine Reise. Für einen kurzen Moment überlege ich ob es für das World Building nicht irgendwie cool wäre wenn man nicht öfter solche Begegnungen mit Banditen oder anderen Dingen mitten in der Wildnis hätte. Natürlich gibt das die Engine wahrscheinlich eher nicht her, aber an sich wäre dies eine interessante Maßnahme um die Spielwelt größer erscheinen zu lassen. Man erinnere sich zum Beispiel an Dragon Age das genau so eine Mechanik hatte, auch wenn diese auf Dauer ziemlich nervig war. Es gibt hier aber Probleme, zum Beispiel ist es so das wir auch im Kanon Schnellreisen und einfach von A nach B teleportieren und nicht wirklich reisen. Maximal eine Karawane die wir begleiten würden wäre überfallbar. Zudem kommt hinzu das große Teile Tamriels bereits bekannt sind und wenn wir dann dort durchlaufen würden wäre es ein wenig unglaubwürdig das die Welt auf einmal doch wesentlich größer ist als gedacht. Generell und überhaupt warne ich heute übrigens vor einer Menge gefährlichen Halbwissen. Das mag ich am Liebsten.
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe

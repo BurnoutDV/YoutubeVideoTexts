@@ -980,14 +980,36 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
-##### #Nummer
+##### #63
 
-* Titel: ``
+* Titel: `KotoR - #63 - Chuundar [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich liebe ja Nichts mehr als mit Warlords zu reden die keine Ahnung von dem Universum da draußen haben. Oder nicht wissen in welcher Gefahr sie eigentlich schweben. Die verhalten sich dann immer so als wären sie die Axt im Walde und hätten richtig was zu melden aber in Wirklichkeit könnten wir die Angelegenheit ziemlich schnell beenden, sehr schnell eigentlich sogar wenn man es genau nimmt. Und so begibt sich das wir heute mit Chuundar sprechen, übrigens Chewbacca, err, Zaalbars Bruder. Also genau der von dem er uns erzählt hat das er mit Sklavenhändlern Geschäfte macht. Eine großartige Familie auf jeden Fall. Wie es so der Zufall will ist der Vater der beiden übrigens auch vor einiger Zeit verloren gegangen. Keine schöne Geschichte. Leider erlaubt es mir das Spiel nicht mich gegen die Ketten zu wehren die man mir überhelfen will. Das alles ist mir übrigens ein Rätsel weil ich nicht sehe wie mich hier irgendjemand physisch aufhalten will wenn ich mich entscheiden würde Chuundars Herrschaft ein jähes Ende zu setzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 10, Aufnahme vom 07.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #64
+
+* Titel: `KotoR - #64 - der lange Fahrstuhl [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute fahren wir Fahrstuhl. Das ist total lustig. Wirklich. Kashyyyk scheint irgendwie auf einen großen Baum zu liegen. Sowas ist normal. Große Yetis die irgendwo im Wald wohnen. Ich frage mich aber trotzdem wie es diese Wesen überhaupt geschafft haben ihre Baumhäuser zu bauen. Die großen Bäume sind offensichtlich heilig und es ist auch nicht so richtig erlaubt nach unten auf den Waldboden zu gehen, mal davon abgesehen das es da auch ziemlich gefährlich ist. Auch interessant, die Wookie haben ja scheinbar eine ziemlich genau Kultur die für alle Pelzwesen die wir bisher getroffen haben relativ gleich zu sein scheint und doch scheint ihre Zivilisationsstufe nicht wirklich irgendetwas in der Richtung her zu geben. Ich bin mir übrigens auch nicht sicher wie genau das mit dem Planeten eigentlich überhaupt funktioniert. Ist der große Wald nur ein Streifen oder der einzige habitable Fleck auf dem Planeten. Spielen alle Ereignisse immer ganz in der Nähe dieses einen Stammes aber warum hat dann der Typ von der Czerka Corperation erwähnt das es noch ganz viele Stützpunkte gibt? Das alles ergibt irgendwie nicht besonders viel Sinn für mich. Aber ich glaube das ist wieder einmal der Punkt wo ich alle meine Bedenken über Bord schmeißen soll. Das fällt mir echt schwer. Star Wars ist eine ziemlich blasse Geschichte wenn man so darüber nachdenkt, immer wenn man versucht tiefe Themen aufzumachen findet man heraus das die Fassade an der Stelle nur besonders dünn ist und es eigentlich gar keine richtigen Hintergründe gibt. Das ist ein wenig deprimierend. Ob Nationen wie China oder Russland das Star Wars Universum besonders mögen weil es keine schweren Fragen aufwirft? Klar, nicht leicht weg zu erklärende Inhalte kommen gelegentlich auf aber an sich ist doch alles dann wieder Familienfreundlich. Disney freut es auf jeden Fall nehme ich einmal an. Besonders wenn man so Comic-Buch Bösewichte wie die Sith zur Verfügung hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 10, Aufnahme vom 07.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
 ##### #Nummer

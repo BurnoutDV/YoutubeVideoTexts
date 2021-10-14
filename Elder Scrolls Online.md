@@ -4951,6 +4951,25 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1553
+
+* Titel: `Let's Play ESO #1553 - Tu'whaccas Säulen [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Lösung bei 13:37
+  
+  Folge 26 des Diebesgilde DLC - Sitzung X + 1
+  
+  Absoluter Anfang der Diebesgilde: https://youtu.be/Da1i3bYg4Us
+  
+  Es stellt sich heraus das ich ein absoluter Idiot bin. Das ist jetzt Nichts Neues aber dieses Mal erwischt es mich wirklich sehr. Also, die Sachlage ist so das ich aus irgendwelchen Gründen zu Erst alle Varianten durchprobiere die nicht klappen. Rein mathematisch sind die möglichen Drehungen übrigens wirklich beschränkt. Dennoch mache ich alles falsch was nur möglich ist. Falls ich aber wieder einmal rothwardonische Rätsel vor mir sehe werde ich auf jeden Fall daran denken die Zeichen und Symbole an der Einrichtung zu lesen bevor ich mich aufmache irgendwelche Dinge hin und her zu schieben. Die einzige gute Nachricht ist das ich immerhin nicht selber die schweren Steinsäulen schieben muss, die sind bestimmt nicht ganz ganz einfach überhaupt zu bewegen. Aber zur Sache, wir sind jetzt anscheinend im großen Ahnengrab der Herrscherfamilie aus Taneth, anscheinend ein irgendwie wichtiges Königreich in Hammerfell. An sich ist uns das als Einzelperson ziemlich egal, die Reichweite irgendwelcher Adeligen aus dieser Region wird zwar immer recht groß eingeschätzt aber auch nur von ihnen selbst. Aber wahrscheinlich ist das auch recht wichtig, wenn man Macht projektieren will muss mann natürlich auch so tun als wäre niemals unangreifbar. Was sich die Diebesgilde mit Heimat in Hew's Fluch gedacht hat so nahe am eigenen Lande zu räubern ist mir übrigens nicht so ganz klar. Erscheint mir aber auf jeden Fall nicht die Beste Idee gewesen zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrAR
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -4960,3 +4979,4 @@
   ```markdown
   Hier
   ```
+

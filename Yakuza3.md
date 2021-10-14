@@ -1541,7 +1541,7 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
-  Sitzung 15, Aufnahme vom 27.09.2021
+  Sitzung 16, Aufnahme vom 04.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
@@ -1556,7 +1556,7 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
-  Sitzung 15, Aufnahme vom 27.09.2021
+  Sitzung 16, Aufnahme vom 04.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
@@ -1572,7 +1572,7 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
-  Sitzung 15, Aufnahme vom 27.09.2021
+  Sitzung 16, Aufnahme vom 04.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
@@ -1587,7 +1587,7 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
-  Sitzung 15, Aufnahme vom 27.09.2021
+  Sitzung 16, Aufnahme vom 04.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
@@ -1602,7 +1602,7 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
-  Sitzung 15, Aufnahme vom 27.09.2021
+  Sitzung 16, Aufnahme vom 04.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
@@ -1617,7 +1617,7 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
-  Sitzung 15, Aufnahme vom 27.09.2021
+  Sitzung 16, Aufnahme vom 04.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
@@ -1632,7 +1632,7 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
-  Sitzung 15, Aufnahme vom 27.09.2021
+  Sitzung 16, Aufnahme vom 04.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
@@ -1647,7 +1647,7 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
-  Sitzung 15, Aufnahme vom 27.09.2021
+  Sitzung 17, Aufnahme vom 11.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
@@ -1662,7 +1662,22 @@
   
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
-  Sitzung 15, Aufnahme vom 27.09.2021
+  Sitzung 17, Aufnahme vom 11.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #116
+
+* Titel: `Yakuza 3 Remastered - #116 - Karaoke Date [Let's Play; ger; Blind`
+
+* Beschreibung:
+
+  ```markdown
+  Es war überhaupt nicht mein Plan auf irgendwelche Dates zu gehen, insbesondere weil ich immer noch glaube das dies alles ziemlich fake ist. Generell und überhaupt kann ich das Erlebnis auch überhaupt nicht einordnen. Die Faktenlage ist ja die das wir irgendeine jüngere Frau Anfang 20 im örtlichen Hostess Club ein paar Mal getroffen haben und der Club dafür auch gut bezahlt wird. Jetzt, außerhalb der Arbeitszeiten dieses Clubs treffen wir uns mit der gleichen Person die jetzt quasi freiberuflich unterwegs ist. Gehört das für sie noch zum Job oder handelt es sich um eine Art morbides Interesse? Letztendlich halten wir die Frau immer noch aus, ich glaube nicht das irgendjemand irgendwie angeboten hat mit zu bezahlen. Klar, die Karaokebude ist jetzt nicht dolle teuer aber eigentlich geht es mir hier auch mehr ums Prinzip. Diese emotionale Prostitution macht mich irgendwie mehr fertig als die normale Variante. Klar, irgendjemand geht in den Puff und erhält dafür eine körperliche Dienstleistung mit einer gewissen Nähe die schwer künstlich nachzustellen ist. Okay. Dabei kann man alles irgendwie professionell halten, für einen kurzen Moment im Akt kann man wahrscheinlich der Illusion erliegen aber das sollte nicht allzu schwer sein. Aber im Hostess-Club wird die Illusion die ganze Zeit erhalten, quasi muss man sich der ganzen Zeit dem Gefühl emotionaler Nähe hingeben. Ich tue mich schwer das Konzept zu verstehen. Immer noch. Und dann wäre halt noch dieses Nach-Arbeits Ding. Letztendlich spielt es übrigens für uns als Spieler eigentlich gar keine Rolle weil es für uns alles gleichermaßen Real ist, und doch. Ich mache mir Gedanken, offensichtlich, sieht man ja an den Worten. Ich mag Worte, sie drücken Gedanken aus.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 11.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 

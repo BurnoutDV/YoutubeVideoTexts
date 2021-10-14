@@ -63,6 +63,21 @@
   Sitzung 2, Aufnahme vom 12.10.2021
   ```
 
+##### #5
+
+* Titel: `Darksiders Genesis - #5 - Schlackegrube [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich würde ja behaupten das man als Reiter der Apokalypse ziemlich viel rum kommt. Die Welt geht schließlich an jeder Ecke irgendwie mal unter. Das Joint-Venture von Terry Pratchett und Neil Gaiman hat diesen Gedanken ja tatsächlich einmal erkundet: Wenn die ganze Welt globalisiert ist dann braucht man nicht mehr all zu viele Einsätze der Reiter der Apokalypse, weil die passiert einfach nicht mehr so oft. Aber so wie die Dinge aktuell stehen gibt es ziemlich viele Orte die man dem Untergang anheim geben könnte und das bringt ja schon eine gewisse Varianz rein. Nun sind die vier Reiter aber eigentlich nicht wirklich für die Apokalypse zuständig, ich bin mir spontan nicht einmal sicher ob es überhaupt irgendeinen näheren Zusammenhang mit der ganzen biblischen Namensgebung gibt. Das würde auch erklären warum unsere Reiter Krieg, Zorn, Streit und Tod heißen, quasi dreimal der gleiche Name und wahrscheinlich eher eine Beschreibung der Person. Zurück zum Thema, wir kommen auch nicht besonders viel rum, wir betreten heute die Schlackegrube, die liegt in der Hölle. Alles liegt irgendwie in der Hölle. Dabei hat uns Darksiders 2 gezeigt das es durchaus auch andere Welten gibt die ein wenig anders sind. Ich bin nicht so drin in der Lore und Weltbauung des Darksiders Universums aber ich glaube die Hölle ist so ähnlich wie in Doom. Kein echter Ort sondern mehr eine Existenzebene auf die andere Orte halt gezogen werden wenn irgendetwas nicht so großartig läuft. Weil die Erde im ersten bzw. auch dritten Teil verändert sich ja auch recht robust als dann der jüngste Tag kommt. Die nächste Frage die sich mir übrigens auch stellt ist wie die Dämonen eigentlich von A nach B reisen, die werden ja wohl nicht alle die Schlangenlöcher nutzen, es muss also irgendwie möglich sein physisch durch die Gegend zu rennen bzw. zu fliegen und dann irgendwo an zu kommen. Wie lange dauert das wohl? Und welche Zivilisation war dieser Ort einst den wir heute betreten, erschafft die Hölle Dinge oder nutzen die nur nach?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 2, Aufnahme vom 12.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -4970,6 +4970,23 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrAR
   ```
 
+##### #1554
+
+* Titel: `Let's Play ESO #1554 - ein todischerer Plan [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 26 des Diebesgilde DLC - Sitzung X + 1
+  
+  Absoluter Anfang der Diebesgilde: https://youtu.be/Da1i3bYg4Us
+  
+  Jeder Plan ist immer todsicher. Irgendwie muss man ja schließlich das eigene Personal motivieren. Ich kann mir also nicht wirklich vorstellen das irgendein Kapitän einer Diebesgilde daher geht und Dinge sagt wie "der Plan könnte eventuell mächtig schief gehen", oder "wird eh nichts". Stattdessen lobt man natürlich das Blaue vom Himmel und falls irgendetwas nicht perfekt geht dann sind das natürlich unvorhersehbare, nicht-beinflussbare externe Ereignisse und das ist dann halt so aber mit einer Menge harter Arbeit kann man bestimmt um das Problem herum spielen. Irgendwie. Oder aber alle Beteiligten wissen eigentlich das die realen Chancen nicht so gut sind aber man möchte den Neulingen die eigentlich nicht mit kommen ja nicht zeigen das die Führungsetage Probleme hat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -4979,4 +4996,3 @@
   ```markdown
   Hier
   ```
-

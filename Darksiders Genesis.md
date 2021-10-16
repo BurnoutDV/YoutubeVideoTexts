@@ -78,6 +78,21 @@
   Sitzung 2, Aufnahme vom 12.10.2021
   ```
 
+##### #6
+
+* Titel: `Darksiders Genesis - #6 - glänzender Stein Dis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben unseren neuen, alten besten Freund Fulgrim ja versprochen das wir irgendwelche Artefakte aus dem Schlackehaufen holen. Es stellt sich doch glatt heraus das Dämonen im Allgemeinen anscheinend ziemlich kompakt sind und man sie in sehr kleine Edelsteine pressen kann. Das ist als Dämon eigentlich ziemlich beunruhigend, es ist ja schön und gut wenn der Gefängniswärter sich überlegt den Edelstein an einen besonderen Ort zu legen, aber was ist wenn der Gefängnisstein einfach irgendwo hin gepackt wird. Zum Beispiel irgendwo mitten in der Wüste, dort wo ihn nie jemand finden. Wie schaut es mit dem Zeitempfinden von höllischen Wesen aus? Sind sie eine Ewigkeit gewohnt oder wäre es doch ein wenig sehr ärgerlich für diese Wesen. Wie dem aber auch sei, Dis muss dieses Schicksal nicht erleiden. Es handelt sich übrigens sogar um einen nützlichen Dämonen, unsere Bemühungen waren also nicht umsonst. Das ist doch schon einmal beruhigend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 2, Aufnahme vom 12.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

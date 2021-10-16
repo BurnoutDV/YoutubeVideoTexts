@@ -1681,6 +1681,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #117
+
+* Titel: `Yakuza 3 Remastered - #117 - Harukas schattige Geschäfte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht nur Kiryu stammt aus einer doch eher strittigen und zweifelhaften Gesellschaft, auch Haruka ist nicht direkt aus besten Hause. Ihre eigene Mutter hat sie in einem Waisenheim abgegeben, einen Ort in dem sie auch selber aufgewachsen ist. Später dann gab es einige umtriebige Ereignisse, wir müssen wohl vermuten das die gute Haruka einige einschneidenden Erlebnisse hatte und damit auch begrabene, mentale Leichen die sie noch nicht bereit ist heraus zu hohlen. Heute erfahren wir aber das sie sich anscheinend sehr um die Familie sorgt und sich nach einem neuen einträglichen Geschäft umsieht. Immerhin tut sie nicht die Option die ich als aller Erstes befürchtet hat. Generell und überhaupt nehmen bis jetzt übrigens Frauen nicht wirklich an der allgemeinen Gewalt teil die in den Yakuza Spielen allgegenwärtig ist. Klar, im zweiten Teil war durchaus eine weibliche Hauptperson der Fall und Zero hatte die eine Kampftrainerin, aber bis her hatten wir keine weiblichen Yakuza Schläger. Oder von irgendwelchen anderen Organisation. Ich nehme einmal an das es da gewisse Tabus gibt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 11.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

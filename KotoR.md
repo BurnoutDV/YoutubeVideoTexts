@@ -1012,6 +1012,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #65
+
+* Titel: `KotoR - #65 - Jolee Bindo [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder lernen wir neue Leute kennen. Ist das nicht schön? Wir steigen tief in die Abgründe von Kashyyyk ein und finden dort einen Verbündeten, an dem Ort von dem uns vorher berichtet wurde das niemand und nichts dort unten lange überleben kann. Genau da finden wir einen anscheinend nicht mehr ganz so aktiven Jedi. Er selbst behauptet von sich kein Meister zu sein aber vom Verhalten her würde ich ihn auch nicht direkt in die Position des Padawans drängen wollen. Wie dem aber auch sei, der gute Jolee bietet uns seine Hilfe an wenn wir in der Lage sind ein Problem für ihn zu lösen. Ich kann schon einmal vorweg nehmen, am Ende wird es wieder einmal keine Rolle gespielt haben wie wir uns entscheiden haben weil überliegende Ereignisse all unser Tun invalidiert. So kann es auch gehen. Trotzdem ein wenig nervig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 10, Aufnahme vom 07.09.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

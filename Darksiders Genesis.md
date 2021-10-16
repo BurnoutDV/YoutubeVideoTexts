@@ -93,6 +93,21 @@
   Sitzung 2, Aufnahme vom 12.10.2021
   ```
 
+##### #7
+
+* Titel: `Darksiders Genesis - #7 - Schätze der Leere [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich heißt die Leere ja so weil man nicht wirklich erwarten würde das man dort irgendwelche Dinge findet. Stellt sich doch glatt heraus das in der Leere die die verschiedenen Orte die in der Hölle liegen verbindet doch noch ein wenig mehr sind. Man könnte fast schon meinen das die Leere eigentlich ihren Namen völlig zu Unrecht erhalten hat und in Wirklichkeit eher "die Schätze" sind, weil Tatsache ist das wir eine Menge Dinge dort finden. Klar, es mangelt hier und dort ein wenig an Land und es ist nicht immer ganz einfach uns zu orientieren aber im Großen und Ganzen finden wir doch noch eine abendfüllende Veranstaltung in der sogenannten Leere.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 2, Aufnahme vom 12.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

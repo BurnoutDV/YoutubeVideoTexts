@@ -1696,6 +1696,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #118
+
+* Titel: `Yakuza 3 Remastered - #118 - Ayako die Hilfreiche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da wir wieder zurück in Okinawa sind beschäftigen wir uns natürlich auch wieder mit den kleinen Problemen von Kiryus Familie. Das alles gibt irgendwie einen schönen Kontrast zu der großen Geschichte. Auf der einen Seite haben wir Ereignisse die Implikationen für das ganze Land oder sogar einen Teil der Welt und dann haben wir da kleine zwischenmenschliche Konflikte die nur innerhalb der Grenzen des morgendliches Ruhmes überhaupt irgendeine Rolle spielen. Und doch, solche Konflikte müssen gelöst werden. Heute geht es um Ayako, eines der älteren Mädchen im Waisenhaus, quasi die ältere Schwester für alle. Und das führt natürlich zu Problemen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 11.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

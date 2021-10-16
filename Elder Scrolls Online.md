@@ -4987,6 +4987,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1555
+
+* Titel: `Let's Play ESO #1555 - Nicolas Versteck [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 27 des Diebesgilde DLC - Sitzung X + 1
+  
+  Jeder hat irgendwo ein Versteck. Zumindest so scheint es. Erstaunlich selten wird thematisiert das irgendein Versteck durch Zufall durch umherirrende Reisende, Banditen oder hier auch, Piraten gefunden wird die halt einfach nur ein eigenes Versteck errichten wollen. Die Höhle von Nicolas hat anscheinend sogar noch ein wenig historische Bewandtnis weil so weit ich das sehen kann handelt es sich ebenfalls um ein rothwardonisches Grab und das könnte ja auch zukünftige Archäologen interessieren. Allerdings gibt es dann wohl hier zu bedenken das die Welt die wir sehen ja eigentlich komprimiert ist. In einer echten und mehr realen Welt wären hier einfach viele Kilometer Pseudo-Wüste in der soviel Nichts wäre das man recht viel Strecke bedecken würde bevor man irgendetwas findet.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

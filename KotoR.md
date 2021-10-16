@@ -1028,6 +1028,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #66
+
+* Titel: `KotoR - #66 - Commander Dern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute erschieße ich einen Mann, eigentlich sogar mehre, aber nur einer von ihnen ist wirklich mein Ziel. Leider gibt es da das kleine Problem das ich ganz vergessen habe das ich den Konflikt eigentlich gewaltlos lösen sollte. Das habe ich natürlich nicht getan, der Mann ging mir einfach zu sehr auf die Nerven. Das und die Tatsache das ich die Tiere die er angeblich ausrotten wollte zu sehr mochte. Also nicht so sehr direkt, die Aussage absichtlich irgendwelche Tierarten ohne gute Gründe aus der Existenz zu jagen erscheint mir einfach verwerflich genug zu sein um sein Leben zu beenden. Wahrscheinlich moralisch ein wenig angreifbar, aber der Rat der Jedi ist nicht hier und warum nicht auch mal Konflikte schnell lösen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 11, Aufnahme vom 14.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

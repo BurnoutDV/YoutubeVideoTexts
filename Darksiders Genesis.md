@@ -108,6 +108,21 @@
   Sitzung 2, Aufnahme vom 12.10.2021
   ```
 
+##### #8
+
+* Titel: `Darksiders Genesis - #8 - eisige Stufen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir scheint das die Hölle uns noch ein wenig Abwechslung bietet. Wenn ich mich recht entsinne ist unsere heutige Vorstellung von der Hölle durch einige wenige Werke aus der Renaissance geprägt, dort wird viel von Flammen, Qualen und die üblichen Folterwerkzeuge geredet. Wenn ich mich richtig erinnere (und im Geiste dieser Beschreibungen google ich das natürlich auch nicht), war die ursprüngliche Beschreibung eher ein öder Ort an dem die Toten halt ziemlich sinnlos umherwandern, also mehr wie das Totenreich bei den Griechen/Römern. Mit einer Schneelandschaft hätte ich auf jeden Fall nicht gerechnet. Und ja, wirklich Schnee, keine Asche, das sieht man echt ziemlich selten. Wäre aber logisch, wo käme den die ganze Energie her und der Brennstoff. Andererseits, die Hölle ist wohl kein Ort der technisch gesehen den Gesetzen der Physik folgen muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 2, Aufnahme vom 12.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

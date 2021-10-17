@@ -5002,6 +5002,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1556
+
+* Titel: `Let's Play ESO #1556 - Sein größter Schatz [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 28 des Diebesgilde DLC - Sitzung X + 1
+  
+  Heute geht es wieder um Quen. Um genauer zu sein um ihren Vater, den lang verlorenen und mittlerweile wohl auch verstorbenen Saroldo, seines Zeichens nicht ganz legaler Händler und Vater. Seine Tochter hat lange versucht ihn zu finden und jetzt ist dies auch geschehen, so wie es scheint nimmt diese Geschichte kein gutes Ende, zumindest nicht in dem Sinne das am Ende alle Leute glücklich sind. Das Beste ist übrigens das die heutige Episode mit einem quasi Cliffhanger endet, weil wir werden nicht erfahren was in der Schatztruhe drin ist die wir finden, aber hey, so groß ist die Truhe nicht, man darf also davon ausgehen das es nicht unbedingt das Vermögen des Jahrhunderts sein wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

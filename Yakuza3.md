@@ -1711,6 +1711,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #119
+
+* Titel: `Yakuza 3 Remastered - #119 - Ayako die Läuferin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode haben wir Ayako als die gute Seele der Familie erlebt, allerdings stellt sich nun heraus das es für alle Hilfswilligkeit eine Grenze gibt, heute ist diese erreicht. Als guter "Vater" für seine große Familie kümmert sich Kiryu natürlich auch um diese Angelegenheit, alles aber nicht so einfach. Ich muss zugeben das ich mit solchen Situationen leicht überfordert fühlen würde, wir wissen aber auch nicht wie genau Kiryu in diese Famlie eingeführt wurde. Er kennt die Kinder ja bereits seit zwei Jahren, das sollte ihm ja eigentlich ermöglichen sich ein wenig besser hinein zu denken als ich das tun kann. Das und seine legendäre Ausdauer die es uns ermöglichen zu verhindern das sich Ayako nicht verletzt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 11.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

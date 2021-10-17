@@ -1044,6 +1044,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #67
+
+* Titel: `KotoR - #67 - Repulsorbarriere [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich komme aus Ostdeutschland, man kann also davon ausgehen das ich das ein oder Andere über die Errichtung von Mauern weiß. Eigentlich nicht wirklich weil das alles vor meiner Zeit war, egal. Dennoch kann ich berichten das man, wenn man einen Ort absperren oder Schützen will man sich schon darum sorgen sollte das man auch von allen Seite schützt. Aueßrdem auch ziemlich wichtig, aktive Bewachung. Früher habe ich bei Schlössern und Türen immer gedacht das das Barrieren sind, die traurige Realität ist aber das jede Art von Verteidigungsmaßnahme nur ein Mittel ist um Zeit zu schinden, alles erliegt der Entropie. Die Czerka Corperation weiß all diese Dinge nicht und hat nur ein Gartentor aufgestellt, kein Zaun, nur das Tor. Das ist so dämlich das sogar andere Charaktere feststellen das die Barriere einfach gar nichts ändert. Nun, wir brauchen dennoch Hilfe um sie zu überwinden. Die aktive Überwachung haben wir ja bereits ausgeschaltet, jetzt also nur noch einen Code eingeben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 11, Aufnahme vom 14.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -123,6 +123,81 @@
   Sitzung 2, Aufnahme vom 12.10.2021
   ```
 
+##### #9
+
+* Titel: `Darksiders Genesis - #9 - Infernokammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich sind wir am Ort der auch seinen Namen alle Ehre macht. Erst vor kurzer Zeit kamen wir an einem Ort an der zwar mit dem Titel "Infernokammer" angekündigt wurde aber am Ende war alles was wir gesehen haben eher eine Eiswüste. Das fällt für mich schon unter den Titel "irreführende Werbung", aber wie es der Zufall so will kann heute wieder Vieles gut gemacht werden. Immer noch nicht ganz klar ist mir übrigens wie genau Dämonen jetzt eigentlich Waffen herstellen, weil das was wir hier sehen sieht halt nicht besonders praktikabel aus. Andererseits denke ich vielleicht auch viel zu weltlich und praktisch, die Wirklichkeit für dämonische Wesen könnte ja auch so aussehen das sie einfach nur irgendetwas schmieden müssen un der Glaube an die Tat sorgt dann dafür das man Ende die Ware hat die man eigentlich haben wollte. Oder irgendwie so, der Glaube versetzt doch Berge und so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 2, Aufnahme vom 12.10.2021
+  ```
+
+##### #10
+
+* Titel: `Darksiders Genesis - #10 - Eisbannhöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich finde es sehr schön das wir so gut durch die Welt kommen, gestern noch waren wir irgendwo in der Hölle und heute sind wir..immer noch in der Hölle aber jetzt ist es wirklich kalt. Klar, die Infernokammer war bereits ein ziemlicher Betrug an der Sache und der Name war die meiste Zeit nicht Programm auch wenn am Ende durchaus etwas Feuer aufkam. Aber  der Ort den wir heute betreten schlägt auf jeden Fall in Sachen "klassische Erwartungen widersprechen" einige Höhen. Andererseits ist die Hölle ja nur eine Einöde, hat ja niemand gesagt das es da brennen muss. Von der Logik her wäre eine Aschewüste auch viel naheliegender, weil wenn etwas brennt und ständige Lavaströme hat dann gibt es dort ja eine Menge Energie, und Energie ist ja quasi Leben oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 2, Aufnahme vom 12.10.2021
+  ```
+
+##### #11
+
+* Titel: `Darksiders Genesis - #11 - Eiswindschlucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es wird kälter und kälter, die neue Definition von Einöde gefällt mir übrigens ziemlich gut, all das erinnert mich an die große Bedrohung in den Witcher Spielen bzw. auch Büchern. Dort ist es die weiße Kälte die alles Leben bedroht und anscheinend schon zahlreiche Zivilisationen ausgelöscht hat. Und irgendwie ist es ja auch nachvollziehbar, eine Menge Hitze kann man irgendwie dazu benutzen um sich einen Weg aus der Apokalypse raus zu bauen, für die Allgemeinheit funktioniert das natürlich nicht aber eine kleine Elite kann sich die Technik bestimmt zu nutze mache und all die überschüssige Energie irgendwie verwenden. Ganz anders bei Kälte, dem enthropischen Ende allen Seins. Was will man hier noch tun? Wenn alles auf dem Nullzustand ist. Ganz so weit ist es allerdings noch nicht, immerhin weht noch eine kalte Böe, und wo Wind ist, da ist auch Energie. Energie die man für Wärme nutzen könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 3, Aufnahme vom 19.10.2021
+  ```
+
+##### #12
+
+* Titel: `Darksiders Genesis - #12 - das allsehende Auge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Darksiders Spiele bedienen sich, zumindest so weit ich das sehen kann sehr grob der üblichen Mythologie ohne dabei allzu sehr ins Detail zu gehen oder bestimmte Aspekte besonders zu betonen. Das ist eigentlich sogar recht erfreulich weil das zulässt das man Dinge einfach einmal so erwähnen kann ohne das irgendjemand um die Ecke kommt und mit einem lauten "äkschually" beginnt um dann zu erklären das unser Verständnis vollkommen falsch ist. Gehen wir also für den Moment davon aus das das allsehende Auge einfach nur irgendein Artefakt ist das halt existiert. Vielleicht würde es woanders einer nordischen Gottheit oder so gehören, hier aber nicht. Es ist einfach nur eine bessere Glaskugel. Um da hin zu kommen müssen wir uns übrigens vorher mächtig ärgern. Das ist dann doch eher ärgerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 3, Aufnahme vom 19.10.2021
+  ```
+
+##### #13
+
+* Titel: `Darksiders Genesis - #13 - Fährtenlese [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das hier ist eine Backtracking Episode. Ich bin ehrlich, ich sag sowas. Ich könnte ja erzählen das ich hier noch einmal tolle Geheimnisse aufkläre oder irgendetwas in der Richtung, aber die Wahrheit ist das Nichts dergleichen passiert. Stattdessen laufe ich noch einmal in die Eisbannhöhle und schaue ob ich noch Dinge tun kann die mir beim letzten Mal verborgen blieben. Es stellt sich heraus das dem in der Tat so war und das ich aber noch mindestens zwei Fähigkeiten brauche um alles zu sehen. Daher werde ich wohl in nächster Zeit kein Backtracking mehr betreiben, andererseits erscheint mir das Spiel schon so als das man das eigentlich regelmäßig machen müsste. Mache ich aber nicht. Alles in Allem also ein großer Ärger.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 3, Aufnahme vom 19.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

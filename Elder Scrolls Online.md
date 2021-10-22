@@ -5017,6 +5017,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1557
+
+* Titel: `Let's Play ESO #1557 - Jeder hat einen Preis [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 29 des Diebesgilde DLC - Sitzung X + 1
+  
+  Es gibt da diesen alten Witz wo eine Frau von einem nicht so gut aussehenden Moderator gefragt wird ob sie mit ihm schlafen würden für 1 Million Geld. Sie sagt ja, danach fragt er ob auch für 10000 worauf die Frau niemals sagt, der Moderator merkt dann belustigt an das sie eigentlich nur noch über den Preis verhandeln. Nun, in diesem Sinne kann man wohl durchaus sagen das jeder seinen Preis hat. Wenn die Leute sagen das man sie kaufen kann spricht man da oft von Geld, aber letztendlich sind Gruppierungen die bereit sind für viel Geld zu Bestechen auch durchaus moralisch flexibel genug um ihre Ansprüche auch nicht-monetär durchzudrücken. Sei es die Familie, eine geliebte Gruppierung oder nur gesellschaftlich verachtete Informationen, irgendwie hat jeder seinen Preis. Heute geht es um Schleicht-leise und seiner ehemaligen "Besitzerin", ich weiß allerdings noch nicht warum sein Auftrag so heißt, ich gehe aber einmal davon aus das wir es noch erfahren werden. Sobald wir die gute Anais in die Sklaverei verkauft haben nehme ich an. Mit raus geschnittener Zunge wäre dies übrigens ein "nicht-tödliches" Ende in Dishonored.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1558
+
+* Titel: `Let's Play ESO #1558 - ich-bezogene Aristokratin [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 30 des Diebesgilde DLC - Sitzung X + 2
+  
+  Wir allgemein bekannt ist habe ich ja ein mehr oder minder großes Problem mit Adel in allen Formen und Farben. Das kommt aber größtenteils daher das sich die meisten Adeligen in Spielen und schlechten Serien so verhalten als wäre sie etwas Besseres ohne es wirklich zu sein. Jetzt kommt der Kracher, ich sehe dieses Verhalten auch an mir selbst, aber halt nicht auf Geld bezogen sondern auf Wissen oder Intelligenz, Dinge die man noch schlechter messen kann als Reichtum. Das ist schon ein wenig zweigesichtig. Wie dem aber auch sei, echte reiche Leute wissen schon was gut für sie ist und verstecken ihren Reichtum. Ich nehme einmal an das die Arroganz trotzdem da ist, nur halt hinter verschlossenen Türen. Die gute Anais die wir heute retten wollen kennt keine solche Zurückhaltung, hier laufen die Dinge also ein wenig anders. Die Sachlage ist halt so, wir haben sowohl Gelegenheit als auch Möglichkeit uns ein wenig stellvertretend an dem Adel zu rächen, was tun wir wohl?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1559
+
+* Titel: `Let's Play ESO #1559 - eine persönliche Einladung [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 31 des Diebesgilde DLC - Sitzung X + 2
+  
+  Eine allgemeine Einladung zu erhalten ist natürlich immer ein wenig, nun, halt unpersönlich. Aber gar keine Einladung zu erhalten weil es sich um einen besonderen Anlass handelt zu dem nicht alle Leute  geladen sind macht es natürlich umso schmerzlicher wenn man dann nicht hereingelassen wird. Heute stehen die Dinge daher ein wenig besser nachdem wir uns die persönliche Einladung von jemanden anders geholt haben und unseren örtlichen Dokumentenfälscher drüber gehen lassen haben damit auch unser Name oben steht. Man kann nur froh sein das keine Namensliste gibt mit der abgeglichen wird, andernfalls hätten wir ein echtes Problem. Glücklich also das das Eisenrad hier anscheinend die Grenze zieht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1560
+
+* Titel: `Let's Play ESO #1560 - anlassbezogene Gewandung [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 32 des Diebesgilde DLC - Sitzung X + 2
+  
+  Mir als Abenteuerin fehlt normalerweise der Zugriff auf besonders edle Kleidung, das liegt einfach darin das ich sie halt nicht brauche. Wenn man irgendwie im Busch, daedrischen Ruinen oder im Schatten des roten Berges herumkriecht dann wäre so ein Seidenkleid doch eher hinderlich. Nicht zu vergessen die vielen Leute die auf uns bluten, gelegentlich speien die sogar Feuer. Seide würde das nicht unbedingt überleben. Allerdings könnte man wohl argumentieren das jede genügend hochentwickelte Rüstung sowieso so verzaubert ist das das ursprüngliche Material kaum noch eine Rolle spielt. Zumindest wenn man davon ausgeht das der Grundstoff für die Anwendung egal ist. Aber eventuell ist ja Leder wesentlich einfacher zu verzaubern oder Schafswolle nimmt besonders viel Magika auf. Wir wissen es nicht, zumindest ist das Kleid das wir uns heute überwerfen kein Kleid sondern mehr so eine Art..Schaustellerkostüm? Na, Hauptsache wir kommen durch die Tür.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: `Let's Play ESO #1561 - Hubalajads Palast [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 33 des Diebesgilde DLC - Sitzung X + 2
+  
+  Das ich gewisse Ressentiments gegen den allgemeinen Adel hege ist kein Geheimnis. Das müsste man eventuell auch erklären, zu leicht könnte man das auch einfach als Neid abtun. Es ist so das ich wohl letztendlich jede Gesellschaft zwar auch einen gewisse Individualität zusprechen möchte aber das hat Grenzen. Andere Gesellschaften sind mir da vielleicht sogar zu radikal, zu streng in ihren Grenzen. Aber die Tatsache das manche Leute einen Palast nur für sich und ihre Familie haben während der Pöble in den Straßen um Essen betteln müssen ist mir als Schere einfach zu groß. Ich wüsste auch gar nicht so genau wo man eigentlich die Grenze zieht, weil jeder Versuch wird irgendjemanden unzufrieden stimmen. Jede Person die das tut wird als fehlbar und korrupt abgestempelt. So oder so. Aber ich bin mir sicher das wir bei einem ganzen Palast auf jeden Fall von zu viel reden können. Leider ist unser heutiger Auftrag Infiltration und Informationsgewinnung, nicht Chaos und Sabotage. Insofern wird wohl nichts bis auf die Grundmauern niedergebrannt. Sehr schade, aber vielleicht beim nächsten Mal.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

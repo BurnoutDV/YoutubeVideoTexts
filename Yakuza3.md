@@ -1,6 +1,6 @@
 ## Yakuza 3 Remastered
 
-* tags = `YAKUZA3_SORT_TAG,Yakuza,Kiryu,Kazuma,Tojo Clan`
+* tags = `YAKUZA3_SORT_TAG,Yakuza,Kiryu,Kazuma,Tojo Clan,kanda,honest living association,ex-yakazu,stardust,host,hostess,korean bbq,hasebe,mack,yasuaki,mad dog,majima,shimano,kawasagi,shellac,bantam,whiskey,cia,dragon palace,motoyama,hirano,dojima,rikiya,ryodo,photo,kashiwaga,manga,haruka,date,minister,yonashiro,sayama,yuya,kamurocho,okinawa,ryukyu,yokohama,toma,szuki,lets play,ingame,walkthrough,hints,tips,translation,deutsch,german,synchronized,synchronisiert`
 
 ##### #1
 
@@ -1723,6 +1723,81 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 3 Remastered auf dem Montags Slot.
   Sitzung 17, Aufnahme vom 11.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #120
+
+* Titel: `Yakuza 3 Remastered - #120 - Arayaki der Aufrichtige [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In letzter Zeit begegnen wir andauernd irgendwelchen Leuten denen ich Eigenschaften zuschreibe, heute zum Beispiel dem Vater von unseren Lieblingsmitglied der Ryudo Familie. Im Gegensatz zu seinem leicht umtriebigen Sohn handelt es sich hierbei um einen standfesten Mann der vollstes Vertrauen in die staatliche Gewalt hat. Ich muss zugeben das ich da ziemlich zynisch bin, klar, Selbstjustiz scheint eher nicht notwendig zu sein dennoch habe ich sehr den Eindruck das im Yakuza-Japan eher nicht darauf vertrauen kann das die Staatsmacht zeitnah aufschlägt wenn man von irgendwelchen Schlägern bedroht wird. Zu oft scheint es die Masche zu sein das Betrüger mit purer Muskelkraft ihren Willen durchsetzen. Davon abgesehen habe ich auch in meiner persönlichen Realität sehr den Eindruck das die Bullen im Zweifel erst auftauchen wenn bereits alles gelaufen ist, insbesondere wenn man eine eher unkonkrete Bedrohungslage hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 11.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #121
+
+* Titel: `Yakuza 3 Remastered - #121 - Joji Kazama [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben schon von Joji Kazama gehört, um genau zu sein wurde uns bereits eine Menge berichtet. Und wir sind dem Mann auch schon begegnet, irgendwie, aber jetzt sind die Dinge ein wenig anders, wir stehen uns von Angesicht zu Angesicht gegenüber und nicht nur aus größerer Entfernung. Immerhin erfreulich das der gute Joji es anscheinend sehr gerne sehr persönlich meint anstatt seine Operationen aus der Entfernung an zu gehen, obwohl ich mich schon ein wenig frage ob es nicht eine Menge Ärger macht zu jemanden in den Club zu gehen und direkt aus nächster Nähe niederzuschießen. Das erscheint mir unnötig grausam und sogar ineffizient, was ist aus der guten alten Autobombe geworden oder  ein subtil vergifteter Drink? Kann mir doch niemand sagen das man als Geheimdienst so nicht eher arbeitet, Pistole ins Gesicht macht doch nur Papierkram!
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 18.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #122
+
+* Titel: `Yakuza 3 Remastered - #122 - Kapitel 11 - Krise [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein neues Kapitel beginnt. Und damit auch eine neue Katastrophe, ich bin mir übrigens nicht so ganz sicher welcher Erzählstruktur die Yakuza-Spiele überhaupt folgen, wahrscheinlich irgendeiner klassischen die für mich als Europäer aber halt einfach überhaupt keinen Sinn ergibt. Wie dem aber auch sei, nach dem unvermeidlichen Siege über Kazama befinden wir uns jetzt in der Lage das alles wieder irgendwie gut wird, der Auftrag des Innenministers wurde erfüllt und eigentlich sollte jetzt alles werden. Das Waisenheim ist auch irgendwie gerettet und im Großen und Ganzen stehen wir doch eigentlich gut da oder? Nun, natürlich passiert immer noch etwas, andernfalls würde diese Episode ja wohl kaum "Krise" heißen oder? Und natürlich gibt es diverse Probleme die auf uns zu kommen. Das Leben kann nie einfach sein wenn man eine Geschichte erzählen will.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 18.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #123
+
+* Titel: `Yakuza 3 Remastered - #123 - Ruinen des Ruhmes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal habe ich Gelegenheit ein wenig poetisch mit den Titeln der Episoden zu sein. So zum Beispiel heute. Kazuma Kiryu war einst ein sehr ruhmreicher Yakuza, dann wurde er zum Zivilisten womit der Teil dann irgendwie verloren ging. Und doch hat er woanders Ruhm und Ehre gefunden. Wenn man so will. Ich frage mich übrigens ob Kiryu irgendwann sein rotes Hemd auszieht, ist das dann ein Zeichen dafür das er damit fertig ist Kiryu zu sein? Wie dem aber auch sei, heute ist eine von diesen traurigen Episoden mit einer Menge Inhalt. Habe ich schon erwähnt das alles irgendwie traurig ist? Nun, es ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 18.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #124
+
+* Titel: `Yakuza 3 Remastered - #124 - Tamashiro die Zweite [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kiryu hat einen nicht unbedingt gewaltfreien Ansatz zu Problemen, auf der anderen Seite scheint er aber auch nur außerordentlich selten irgendwelche Leute umzubringen. Wir erinnern uns damals in den 80er Jahren als er eines Mordes beschuldigt wurde. Das konnte der gute Kiryu ja auch nicht auf sich sitzen lassen. Der große Nachteil an diesem Vorgehen ist allerdings das, wenn man nicht zufälligerweise seine Widersacher dazu bringt sich umzubringen oder anders zu verunfallen, die Bande kommt wieder. So passiert heute mit Tamashiro, den haben wir bereits vor einigen Jahren besiegt. Die gute Nachricht ist allerdings das er dieses Mal immer noch genauso dumm ist wie beim letzten Mal aber wir schon wieder stärker geworden sind. Großartig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 18.10.2021
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 

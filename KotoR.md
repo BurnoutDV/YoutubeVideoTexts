@@ -1060,6 +1060,86 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #68
+
+* Titel: `KotoR - #68 - mandalorianischer Hinterhalt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollte ich nur durch den Wald stampfen, die Sternenkarte finden und dann wieder abhauen. Offensichtlich wird all das nicht klappen weil ich in verdammte Politik mit rein gezogen wurde. Daran Schuld dürfte auch Zaalbar sein der durch seine Familienverbindung dafür gesorgt hat das wir überhaupt für eine Seite investiert waren. Eventuell kann ich die Czerka Corperation aber auch so nicht leiden das ich so oder so eingegriffen hätte, einfach nur weil ich kann. Eine weitere Partei mit der ich ehrlich gesagt nicht so richtig gerechnet habe sind übrigens die Mandalorianer. Die stehen uns plötzlich im Weg und überfallen uns hinterhältig. Das man dafür die Waffen weg legen muss damit man sie danach in einem Augenblick wieder anlegen kann erscheint mir wie eine komische Mechanik. Andererseits ist das vielleicht auch subtile Kritik an mein Inventarmanagement, aber ich werde verdammt sein wenn ich nicht für jede Individualität vorbereitet bin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 11, Aufnahme vom 14.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #60
+
+* Titel: `KotoR - #69 - Verhaltensmuster [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend war man uns wieder einmal vor raus, das ist überhaupt keine Überraschung wenn man bedenkt das, egal wo wir waren, schon jemand gewesen sein sollte, im Gegenteil also, eigentlich ist es eher eine Überraschung das noch niemand die Sternenkarte komplett mitgenommen hat. Stattdessen finden wir ein modernes Interface was uns ein paar dämliche Fragen stellt. Es ist ein wenig enttäuschend das wir solche Geschichten nicht einfach mit ausreichend viel Technik überspringen können und das System austricksen. Aber wie die Dinge nun stehen müssen wir uns wohl den Fragen hingeben, vielleicht erfahren wir ja sogar etwas über uns selbst. Auch Schade ist übrigens auch das wir negative Punkte dafür kriegen das wir die Maschine hereinlegen wollen weil ja doch ziemlich klar ist was zu tun ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 11, Aufnahme vom 14.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #70
+
+* Titel: `KotoR - #70 - Rituelles Terentatek [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Schattenlande sind auf jeden Fall ein gefährlicher Ort. Es sollte nicht möglich sein unseren Weg durchzuschießen, sollte das eine Option sein möchte man sich doch sehr fragen warum die Wookies das nicht schon vor langer Zeit getan haben. Und auch die Czerka Corperation hat ja bisher nicht in Frage gestellt warum man unbedingt auf den Bäumen hausen muss, theoretisch könnte man ja auch einfach ein paar Bäume fällen und dann die Basis auf den Boden stellen. Macht aber wohl keiner, ich frage mich ernsthaft warum, weil es sollte ja wohl nicht schwer sein ein paar Bäume zu fällen die mehre hundert Meter dick sind, ab einem bestimmten Zeitpunkt ist das auch nur eine massive Wand aus Lignin, insbesondere wenn man bedenkt das der lebendige Baum ja eigentlich nur auf der Außenseite liegt. Zurück zu den Schattenlanden, neben Schatten, Mandalorianern (die hier irgendwie gelandet sind) gibt es außerdem noch ein paar gefährliche Tiere hier. Eines davon finden wir heute, ein wenig spät merke ich das es sich um ein legendäres Vieh handelt das eigentlich gegen die Macht immun sein sollte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 11, Aufnahme vom 14.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #71
+
+* Titel: `KotoR - #71 - Kompetenzgerangel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn es um die Macht geht traut man nur selten anderen Leute, das liegt auch daran das, wenn die anderen ersteinmal die Macht haben, die diese sehr ungern wieder hergeben. Und dann führt das zu Situationen in denen sich alle Leute um die Macht schlagen, so heute passiert. Nachdem wir den amtierenden König ein wenig wachgerüttelt, seinen verbannten Vater aus den Schattenlanden gerettet und den gefallenen Sohn wieder erhoben haben kommt es zu einem kleineren Familienstreit der im Kern aber um die Souveränität innerhalb des örtlichen Dorfes geht. Was wir bisher noch nicht rausgefunden haben ist übrigens wieviel Einfluss so ein Wookie-König wirklich hat. Die Czerka sind laut eigener Auskunft über den gesamten Planeten verteilt, das Gleiche wird dann wohl auch für die Wookie stimmen, aber wer herrscht über die?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 11, Aufnahme vom 14.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #73
+
+* Titel: `KotoR - #72 - Regimewechsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anfänge und Enden sind immer ein wenig schwierig. Das dazwischen sobald alles irgendwie etabliert hat ist relativ stabil. Das macht es natürlich aber auch schwierig das "Dazwischen" zu stören, was uns dann wieder zu den Enden bringt..und nach jedem Ende kommt auch ein Anfang, von irgendetwas. Heute zum Beispiel das Ende einer Herrschaft. Das ist alles nicht so einfach bei den Wookies, generell und überhaupt würde ich dem Zusammenhang aber schon von einem Regime sprechen. Klar, man nennt das Ganze hier "König" und damit ist es dann wohl eine Monarchie. Ich habe allerdings Zweifel, der Häuptling Schrägstrich König kann ja durchaus aus einer anderen Familie kommen. Der Auswahlprozess ist mir aber dennoch nicht klar. Idealerweise würde man wohl eine Anzahl von jungen Wookie zum Herrschen ausbilden und dann solange aussieben bis jemand raus kommt der  tatsächlich am Besten für sein Volk herrscht. Ich ahne das der Prozess eher anfällig wäre, und teuer. Und doch, die Lösung die die Wookie hier nutzen gefällt mir ebenso wenig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 11, Aufnahme vom 14.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

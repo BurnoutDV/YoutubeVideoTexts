@@ -198,6 +198,36 @@
   Sitzung 3, Aufnahme vom 19.10.2021
   ```
 
+##### #14
+
+* Titel: `Darksiders Genesis - #14 - die Haupstraße [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hätten dann wohl geklärt wie die Dämonen die Welt bereise. Sie fahren Straße. Was genau die Reittiere sind haben wir noch nicht herausgefunden und es ist noch nicht völlig auszuschließen das es sich durchaus um Mad-Max-artige Zustände handeln könnte aber für den Moment vermute ich das man dafür besonders große Hunde nimmt. Woher ich das alles weiß? Nun, es gibt offensichtlich eine Hauptstraße, das impliziert auch die Existenz von Nebenstraßen und jede Menger anderer Straßen. Die Schlangenlöcher scheinen damit aber auch nicht Allgemeingut sind und nur wenigen offen stehen. Heißt, die meisten Dämonen verbringen wahrscheinlich viel Zeit damit von einem Ort zum Anderen zu laufen. Ob es Handesldämonen gibt? Ein großes Wirtschaftssystem, eine Kaste von Dämonen die sich nur mit der Logistik beschäftigen und die ganz anders aussehen als die Kriegerviecher denen wir andauernd begegnen? Spannende Fragen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 3, Aufnahme vom 19.10.2021
+  ```
+
+##### #15
+
+* Titel: `Darksiders Genesis - #15 - der Hundemeister [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In erstaunlich vielen Spielen sind Hunde ein großes Thema. Man könnte wohl behaupten das es die Menschen sehr beschäftigt. Auf der einen Seite haben wir den flauschigen besten Freund des Menschen der immer an der Seite weilt und sich in jeder Lebenssituation als verlässlich hinstellt. Und dann haben wir da noch diese miesen Bestien die uns auf den Sack  gehen, viel zu schnell sind und natürlich auch nicht die Freundlichkeit besitzen nach drei Schlag tot zu sein. Heute betreten wir das Nest des Hundemeisters, im Vorfeld habe ich bereits geklärt das es ein Achievement dafür gibt den Meister niederzustrecken und dabei so gut wie alle Hunde zu verschonen. Sagen wir einmal so, mein Ansatz für solche Probleme ist "Best Effort". Was nicht klappt klappt halt nicht. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 3, Aufnahme vom 19.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

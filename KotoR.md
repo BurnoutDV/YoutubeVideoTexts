@@ -1140,6 +1140,38 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #73
+
+* Titel: `KotoR - #73 - Feedback Runde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man eine kleine eingeschworene Crew hat dann ist es enorm wichtig das es allen Mitgliedern ausreichend gut geht. Um sicherzustellen das nicht irgendwo Probleme schwelen und sich dann am Ende zu einem großen Problem entwickeln ist es enorm wichtig die letzten Entscheidungen, die womöglich im Eifer des Gefechts getroffen wurden noch einmal mit jedem Einzelnen zu besprechen, insbesondere mit jenen die keine Chance hatten während der Ereignisse live mit dabei zu sein. Daher machen wir heute die große Feedback Runde in der es durchaus einige Entscheidungen zu fällen gibt, Wellen zu glätten und ein wenig zu Bauchpinseln. All das ist wichtig, ein Sith-Lord würde vielleicht behaupten das all das Quatsch ist und das die Leute funktionieren müssen sonst werden sie erschossen. Wir sind aber nicht so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 12, Aufnahme vom 21.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #74
+
+* Titel: `KotoR - #74 - das Sündenbockprinzip [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendjemand muss ja Schuld sein. Lange Geschichte kurz, wir reden heute mit Juhani und wir haben aus Versehen ihren Heimatplaneten gesprengt. Eigentlich waren das ja die Sith unter Darth Malak und wir haben absolut keinen Anteil daran was mich persönlich ein wenig enttäuscht, aber die Dinge sind halt wie sie sind. Und doch möchte man uns dafür die Schuld geben. Insgesamt bin ich grade übrigens ziemlich geflasht davon wie mir das Spiel versucht zu verkaufen das irgendeine Rasse selten oder einzigartig ist. Das ergibt von der gesamten Gestaltung der Welt absolut keinen Sinn, und aus irgendwelchen Gründen möchte man uns trotzdem die Schuld geben. Ich frage mich eigentlich wie gut das alles klappt wenn man offensichtlich keine Schuld hat. Klar, ich kann da jetzt nicken und sagen "jojo" und dann mache ich einfach weiter weil ich ja nicht wirklich schuld bin. Und das weiß Juhani auch, obwohl sie mir die Schuld erst einmal gegeben hat habe ich sie nicht angenommen. Es ist wahrscheinlich schwer zu akzeptieren das einfach niemand Schuld ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 12, Aufnahme vom 21.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

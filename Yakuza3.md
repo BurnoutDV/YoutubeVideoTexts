@@ -1801,12 +1801,42 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
-##### #Nummer
+##### #125
+
+* Titel: `Yakuza 3 Remastered - #125 - Eillieferung nach Kamurocho [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man ganz schnell durch Japan reisen will nimmt man in der Regel den Zug, zumindest wenn man auf der Hauptinsel ist. Das klappt natürlich nicht wenn man bedenkt das Japan aus ein wenig mehr als nur den großen Inseln besteht sondern durchaus auch noch Gebiete weiter weg hat. Mir ist übrigens nicht so ganz bewusst wie diese Japaner die weiter draußen wohnen eigentlich ihre nationale Identität erhalten haben bzw. warum sie sich nicht abgespalten haben. Aber irgendwie muss das ja funktioniert haben. In der modernen Zeit ist es wahrscheinlich ziemlich einfach im Kontakt zur restlichen Bevölkerung zu bleiben und Flugreisen machen sogar den Transport ziemlich machbar. Wenn es aber wirklich schnell gehen soll reicht ein normaler Linienflieger nicht aus.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 18.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #126
+
+* Titel: `Yakuza 3 Remastered - #126 - Hochhausromantik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist dann wohl das große Ende von dem einen Jungen der immer seiner Freundin das Zeug hinter herräumt. Hoffe ich zumindest. Im Titel konnte ich es nicht so erwähnen aber eigentlich ist die ganze Geschichte ziemlich schockierend weil der Typ allen ernstes vom Dach eines Hochhauses springen will weil er einfach nicht glaubt das es irgendetwas richtig machen kann. Das ist ziemlich deprimierend. Aber am Ende wird natürlich noch alles gut. Ich rechne übrigens damit das wir diese Mission zu verdanken haben das wir Haruka mit nach Kamurocho genommen haben. Damit sie auch das Ende der Geschichte sehen darf.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 18.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #127
 
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  
   ```

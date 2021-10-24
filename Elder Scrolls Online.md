@@ -5092,6 +5092,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1562
+
+* Titel: `Let's Play ESO #1562 - das ewige Schweigen [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 34 des Diebesgilde DLC - Sitzung X + 2
+  
+  Es ist gar nicht so einfach in der Elder Scrolls Welt jemanden wirklich ewig zum Schweigen zu bringen. Klar, man kann Leute ziemlich leicht von Nirn runter kriegen aber so richtig weg sind die dann nicht. Für die meisten Sterblichen ist da auch nicht so relevant, da ist tot dann gleich tot. Ärgerlicherweise wäre das beim örtlichen Adel von Taneth nicht so einfach. Wenn wir hier irgendjemanden töten kann man sich wahrscheinlich sicher sein das Geld gesammelt wird um einen fähigen Nekromanten aufzutreiben. Andererseits scheinen die Rothwardonen ja die Ahnen zu lieben, mehr noch als die Dunkelelfen, also passiert es vielleicht doch nicht. So oder so, wir bringen heute niemanden um, schon weil wir bei der Diebesgilde und nicht der dunklen Bruderschaft sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1563
+
+* Titel: `Let's Play ESO #1563 - Was verloren ging [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 35 des Diebesgilde DLC - Sitzung X + 2
+  
+  Und schon sind wir wieder zurück bei den Nebenmissionen, kann ja auch gar nicht sein das wir direkt unsere Gefährten retten und dafür sorgen das die gesamte Diebesgildengeschichte irgendwie ein schnelles Ende nimmt. Stattdessen nehmen wir uns Velsa an, wir erinnern uns das wir in der Vergangenheit bereits ihre alte Freundin Narahni gerettet beziehungsweise zurückgeführt haben. Es stellt sich doch glatt heraus das Narahni sogar Kinder hat, bzw. sogar einen Sohn. Der hat natürlich Probleme und aus irgendwelchen Gründen sind jetzt in diesem Moment Sklavenjäger aus Morrowind hinter ihr her. Das erscheint mir ein wenig unwahrscheinlich wenn man bedenkt das diese Dinge in Auridon geschehen allerdings habe ich mittlerweile erfahren das der Ort wohl von meiner gewählten Fraktion abhängt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

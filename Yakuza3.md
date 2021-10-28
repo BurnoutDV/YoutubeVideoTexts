@@ -1833,10 +1833,70 @@
 
 ##### #127
 
+* Titel: `Yakuza 3 Remastered - #127 - die Thunfischverschwörung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles steht auf der Kippe, die Welt wie wir sie kennen steht kurz davor zu implodieren, das Leben von Kiryu ist schwer gefährdet und es könnte heute der Tag sein an dem er stirbt. All das müssen Gedanken sein die Haruka an diesem Tag verfolgen. Und doch, und doch lassen wir die Gute zurück weil wir uns auf eine wichtige Sache konzentrieren wollen. Wir wollen herausfinden was es mit dieser Thunfischfarm auf sich hat von der wir so viel gehört haben und in die wir gute Mengen Geld investiert haben. Sollte sich am Ende doch etwa herausstellen das es sich nur um einen großangelegten Betrug gehandelt hat, darauf abzielend Leute dazu zu bringen ihre Ersparnisse für eine Lüge wegzuwerfen? Investigativ werden wir heute ermitteln, damit wird es dann in Zukunft übrigens auch weiter gehen, wir müssen ja schließlich auch noch mit einem Detektiv reden, der Mordfall des Café Alp ist natürlich nicht vergessen. Aber Eines nach dem Anderen!
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 18.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #128
+
+* Titel: `Yakuza 3 Remastered - #128 - ein besonderes Geschenk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Romantik ist immer ein wenig schwierig. Bevor man irgendjemanden seine Gefühle offenbart gibt es da das herrliche Tal der Unsicherheit, es gibt so viele Dinge die man sich vorstellen kann, so viele Möglichkeiten die noch nicht festgelegt sind und damit alle  gleich wahrscheinlich sind. Aber sobald man die Frage stellt, Tatsachen schafft, ja dann wird auf einmal alles grausam. Die Realität fängt an zu existieren und Nichts kann mehr einfach so ausgelegt werden wie man es gerne hätte. So ähnlich muss es wohl Date heute ergangen sein als er die entscheidende Frage gestellt hat. Mir ist übrigens nicht so ganz klar ob das üblich in japanischen Kreisen ist das man mit einem Ring um die Ecke kommt. Das alles erscheint mir ein wenig direkt. Auf der anderen Seite habe ich von dieser ganzen Romantikgeschichte auch so keine Ahnung.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 25.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #129
+
+* Titel: `Yakuza 3 Remastered - #129 - Tsukishimas Rache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Vergangenheit hat die lächerliche Eigenschaft Leute andauernd zu verfolgen. Das ist auf Dauer ziemlich nervig. Beispiel: irgendwann hat man mal irgendeinen Typen verknackt als man noch ein Bulle war, jetzt 10 Jahre später kommt der Typ wieder. Schlimmer noch, er macht das genau an dem Tag an dem man sich entschieden hat der Frau des Mannes den der Ex-Knacki umgeballert hat einen Antrag zu machen. Und da spricht noch einer von Zufall. Das fühlt sich doch eher so an als hätte da jemand eine gute Geschichte schreiben wollen. Nun, wie dem aber auch sei, dieses Mal ist Kazuma Kiryu in der Nähe, und das hilft all diese hässlichen Einzelheiten zu glätten die normalerweise dabei stören wenn solche Dinge geschehen. Beispielsweise komische Schläger die uns im Weg stehen. Die hauen wir weg.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 25.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #130
+
+* Titel: `Yakuza 3 Remastered - #130 - Ermittler Maeda [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollte ich mit dem Ermittler bereits vor einiger Zeit sprechen, aber so wie es aussieht scheint der Mann tatsächlich tagsüber einem regelmäßigen Job nach gehen. Das macht es ein wenig schwierig ihn zu finden, wir können ja schlecht in das nächstgelegene Polizeirevier einrücken und nach dem Mann fragen. Als Ex-Yakuza würde Kiryu wahrscheinlich erst einmal für ein paar Tage eingebuchtet, einfach nur weil es geht. Immerhin scheint sein Ruf Kiryu heute auch zu helfen, ich bezweifle das der gute Herr Maeda jemand Anderem als dem vierten Vorsitzenden so zuvorkommend entgegen gekommen wäre. Daher erfahren wir heute einige Informationen, übrigens auch sehr glücklich das alle Beteiligten noch hier in der Gegend wohnen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 25.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
-  
+  Hier
   ```

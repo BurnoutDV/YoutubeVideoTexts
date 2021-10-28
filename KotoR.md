@@ -1172,6 +1172,70 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #75
+
+* Titel: `KotoR - #75 - Andors Fall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein ich habe eigentlich keine Ahnung wer der Typ war von dem uns Jolee heute erzählt, anscheinend war sein Name Andor aber das ist eigentlich schon alles was wir wissen. Theoretisch könnte diese Geschichte schon 400 Jahre her sein oder erst vor 30 Jahren passiert sein. Da wir keinen Zugriff auf irgendwelche Informationen die die Historie der Galaxie betrifft können wir auch nichts verifizieren oder nachprüfen. Generell und überhaupt scheint das aber ein Star Wars Ding zu sein. Geschichte geschieht größtenteils im erzählten Wort und wenn man nicht grade das Imperium ist hat man keinen Zugriff auf irgendwelche Daten die man eventuell gebrauchen könnte. Oder referenzieren. Lange Geschichte kurz, ich sehe Jolees Geschichte erst einmal als Gleichnisse die mir irgendetwas sagen sollen und aus irgendwelchen Gründen hat der alte Mann sich selber in die Geschichten eingebaut. Weil er kann. Oder weil Bock darauf hatte. So genau kann ich das jetzt auch nicht sagen. Immerhin ganz schöne Geschichte die er uns da erzählt, nur ein wenig sinnbefreit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 12, Aufnahme vom 21.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #76
+
+* Titel: `KotoR - #76 - Flug nach Tatooine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich werde irgendwie nie fertig mich darüber aufzuregen das es im Star Wars Universum ziemlich unlogisch her geht. Ja, ich höre es auch immer wieder, es handelt sich schließlich um eine "Space Opera" und man sieht das alles als Märchen. Das klappt aber einfach nicht wenn man eine längere Geschichte in einem Spiel erzählt. Zur Hölle, selbst in einem Film ergibt schon soviel keinen Sinn, insbesondere wenn man dann im dritten Kapitel die Motivation der Helden erklären möchte die mehr ist als "Rache für meinen Vater". Weil dann müsste man mal langsam anfangen schwierige Fragen zu stellen. Ganz drängend ist übrigens "wie lange braucht es eigentlich von A nach B durchs Universum zu fliegen. Ich hab die verschiedenen Überlichtantriebe ja schon diskutiert, aber letztendlich dauert es ja immer noch Zeit, selbst wenn es nur der Lande und Startvorgang ist. Insbesondere wichtig, wenn es keine nennenswerte Reisezeit gibt, wie kann überhaupt irgendjemand im Weltraum überfallen werden. Raumpiraterie macht nicht besonders viel Sinn wenn es niemanden gibt den man abfangen kann. Oder anders gefragt, wie genau funktioniert eigentlich die Wirtschaft mit quasi sofortiger Ankunft in Überall. Oder wie das Militär. An sich muss es also eine Reisezeit geben, und wir haben heute welche. Es dauert anscheinend 20 Minuten um von einen Ort zum Anderen zu kommen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 12, Aufnahme vom 21.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #77
+
+* Titel: `KotoR - #77 - eine Ladung Gizka [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben auf einmal eine Kiste von Viecher auf unserem Raumschiff. Da ich absolut nichts über Gizka weiß kann ich leider auch nichts darüber sagen was wir dagegen machen können. Oder ob wir das überhaupt tun sollten. Weil bis jetzt ist ja noch gar nicht heraus ob es über einen Grund zum Handeln gibt. So für sich sind die lustigen Frösche schon ziemlich groß und schauen nicht so aus als könnten sie unsere Elektronik beschädigen. Oder was auch immer das Raumschiff braucht um zu funktionieren. Bis her habe ich nur herausgefunden das Logik definitiv nicht zu den essentiellen Komponenten gehört, schnelle Reisen durch den Hyperraum scheinen davon nicht betroffen zu sein. Ansonsten machen wir uns heute außerdem daran die örtlichen Gepflogenheiten kennen zu lernen. Wie die bei der man eine Kiste mit Loch auf dem Raumschiff irgendwelcher fremder Leute abstellt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 12, Aufnahme vom 21.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #78
+
+* Titel: `KotoR - #78 - Anchorhead [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt seit zwei Episoden auf dem Planeten Tatooine der irgendwann in der fernen Zukunft noch einmal eine gewisse Bedeutung gewinnen wird. Für den Moment ist allerdings nur wichtig das anscheinend jeder Stahl bzw. Metall das hier  geernetet wird von eher minderer Qualität ist. Wie auch immer das funktioniert. Letztendlich erscheint mir der Abbau aber von irgendwelchen einfachen Ressourcen (wie es Metall ist) ziemlich sinnlos wenn man ihn planetar betreibt. Logischer scheint es doch zu sein Asteroiden bzw. einfach nur Felsbrocken im stabilen Orbit um einen Planeten/Sonne aus einander zu nehmen. Alles Andere ist doch saumäßig ineffizient oder? Weil, was wollen wir denn bitte finden was es nicht auch im Weltraum gibt? Nur zusätzliche Komplikationen. Ich bin also wenig überzeugt warum es die Siedlung überhaupt gibt. Und warum es schon wieder eine Czerka Niederlassung ist. Das nervt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 12, Aufnahme vom 21.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

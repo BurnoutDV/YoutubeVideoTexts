@@ -228,6 +228,66 @@
   Sitzung 3, Aufnahme vom 19.10.2021
   ```
 
+##### #16
+
+* Titel: `Darksiders Genesis - #16 - die Grube [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich muss zugeben das ich was die gesamte Handlung angeht ich immer noch nicht so ganz folgen kann. Ich versuche zusammenzufassen. Wir suchen einen Dämon namens Luzifer weil dieser gegen den Pakt des Gleichgewichts verstoßen will. Das haben wir irgendwie, irgendwo aufgeschnappt. Oder es wurde direkt befohlen, aber verifzierbare Daten haben wir so oder so nicht. Dämonen findet man offensichtlich in der Hölle und deswegen haben wir dort auch angefangen zu suchen. Da Luzifer recht gewitzt ist haben wir einfach die üblichen Verdächtigen verhaftet und sind zu Samael, ebenfalls moderat mächtig und wichtiger, greifbar. Der wiederum hat uns prompt in die Leere geschickt um dort seinem Kumpel Fulgrim zu helfen. Das Alles hat uns Luzifer aber immer noch nicht näher gebracht, jetzt sind wir auf den Spuren eines anderen Dämonen der anscheinend irgendetwas mit Habgier zu tun hat. Den Ort den wir betreten nennt sich "der Hort" aber bevor wir dort ankommen müssen wir noch durch die Grube die anscheinend so eine Art Schatzhort mit Extrafallen ist. Und das ist halt auch der Ort an dem wir jetzt sind. Die Grube. Ein Loch im Boden. Also exakt das Ding was wir auch schon vorher bereist haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 3, Aufnahme vom 19.10.2021
+  ```
+
+##### #17
+
+* Titel: `Darksiders Genesis - #17 - Schrein der Habgier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Habgier wird gerne als eine sehr negative Eigenschaft dargestellt aber es ist wie immer nicht so einfach. Habgier selbst ist natürlich nicht unbedingt etwas Gutes aber ab wann fängt das wirklich an? Und wann ist es nur achtsame Mehrung von Vermögen? Wann fängt das Raffen an und das Aufheben hört auf. Eine gewisse Selbsterhaltung wenn es um den schöden Besitz ist wahrscheinlich gar nicht so schlecht. Man muss ja nicht direkt ein Mönch sein der alles Eigentum der Kirche übergibt. Generell scheint das auch nur eine mäßig gute Idee zu sein, wenn es auch nur daran liegt das man Menschen einfach nicht trauen kann. Aber das wäre dann wohl eine andere Geschichte. Vielleicht aber der Ursprung für alle anderen Dinge.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 3, Aufnahme vom 19.10.2021
+  ```
+
+##### #18
+
+* Titel: `Darksiders Genesis - #18 - Schrein der Eitelkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eitelkeit ist eine etwas seltsame Sünde wie ich sagen muss. Manchmal, in stillen Moment überlege ich immer wieder gern was die Leute wohl dazu gebracht hat irgendwelche Eigenschaften zu verdammen, andere aber zu unterstützen. Weil letztendlich, macht es wirklich einen Unterschied? Auf der einen Seite wird Hingabe gegenüber der Kirche und Religion gefordert, fast schon manische Selbstaufopferung, auf der anderen Seite ist es falsch für sich selbst zu kämpfen und sich auch selber schön zu finden. Auf der einen Seite steht angeblich die Gesellschaft und auf der Anderen man selbst. Aber auch nur wenn man der Gemeinschaft irgendetwas abgewinnen kann. Warum der Schrein der Eitelkeit übrigens so heißt wie er heißt kann ich nicht erklären. Ich habe zumindest kein Übermaß an Spiegeln finden können. Aber irgendwann finden wir das bestimmt heraus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 4, Aufnahme vom 26.10.2021
+  ```
+
+##### #19
+
+* Titel: `Darksiders Genesis - #19 - Gewölbetür [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Große Türen verbergen große Schätze, daher verbringe ich natürlich auch extra viel Zeit beim Versuch eine eben solche Tür zu knacken. Dafür brauchen wir ein Artefakt dessen erste Hilfe wir bereits an anderer Stelle gefunden haben. Jetzt nur noch die zweite Hälfte und schon sind wir hindurch. Zusätzlich gibt es anscheinend auch noch zusätzliche Schätze die wir abgreifen können. Abgreifen ist übrigens wesentlich interessanter als irgendetwas zu verdienen. Schon deswegen weil Verdienen nach Arbeit klingt und Abgreifen eher wie der schnelle Weg. Wie ärgerlich eigentlich das wir mit dem Inhalt der gewaltigen Schatzkammer die wir heute finden absolut nichts anfangen können. Weil, was wollen wir schon mitnehmen? Goldenen Tand? Münzen? Und dann bezahlen wir wen damit? Brauchen wir überhaupt Nahrung oder Ähnliches?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 4, Aufnahme vom 26.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

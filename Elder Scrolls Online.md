@@ -5122,6 +5122,70 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1564
+
+* Titel: `Let's Play ESO #1564 - Tashmin [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 36 des Diebesgilde DLC - Sitzung X + 2
+  
+  Söhne zu haben muss nicht einfach sein. Wahrscheinlich ist es auch nicht einfach Töchter zu haben. Oder generell Kinder. Oder Verwandte. Ich würde ja allgemein davon abraten sich um irgendwelche Leute zu kümmern, das führt am Ende nur noch zu Problemen und Ruck Zuck ist man in emotionaler Geiselhaft, da kommt man am Ende ganz schlecht heraus. Seit es aber wie sei, wir sind hier ja gar nicht persönlich beteiligt sondern Velsa die uns um diesen Gefallen bittet. Genau jenen Gefallen werden wir auf jeden Fall später wieder einfordern, das versteht sich von selbst. So gesehen muss ich leider sagen das ich absolut Nichts umsonst tue. Klar, ich gehe oft in Vorkasse aber die unausgesprochene Forderung ist keine Sache die ich vergessen werden. Das ist das Schöne an der Langlebigkeit, man kann sich sicher sein das man noch viel Zeit hat Schulden einzulösen, natürlich doof wenn die Leute sterben aber meistens haben diese ja Schulden. Und das bringt uns wieder zu Tashmin zurück, anscheinend ist er ein wenig auf Abwegen gekommen und jetzt müssen wir den armen Jungen retten und auf den richtigen Weg führen. Man kann nur hoffen das wir noch rechtzeitig genug da sind. Ich bin übrigens ziemlich beeindruckt von der Performance die die Spione hier hingelegt haben die Tashmin überhaupt ausfindig gemacht haben. Zeitnah, schnell und präzise und genau rechtzeitig. Wahrlich ein Wunder.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1565
+
+* Titel: `Let's Play ESO #1565 - stellvetretene Gildenmeisterin [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 37 des Diebesgilde DLC - Sitzung X + 2
+  
+  So gesehen ist das Amt des Gildenmeisters eigentlich ziemlich hohes wenn man von einer normalen Gilde spricht. Die Diebesgilde ist irgendwie eine Vereingung die nicht allen gängigen Konvetionen entspricht. Zum Beispiel sind die Mitglieder wesentlich loser organisiert als es bei klassichen Gilden der Fall ist. Der Name kommt wahrscheinlich auch nur weil alle anderen Handwerke halt in Gilden leben. Die Diebe sind mehr wie eine Firma, eine Organisation, eventuell sogar eine Art kleine Demokratie in den Schatten. Das Oberhaupt wird nach Kompetenz ausgewählt und auch gewählt. Von jedem Einzelnen. Man entscheidet sich jemanden zu folgen. Eine aktive Entscheidung die jederzeit widerrufen werden kann ohne das es dafür große Grenzen oder Zwänge gäbe. Als stellvertretene Gildenmeisterin wurden wir nicht gewählt sondern erhalten unser Mandat von der eigentlichen Anführerin. Dies ist nicht auf Dauer. Und doch haben wir wichtige Aufgaben vor uns, nur gut das keine davon Verwaltung ist. Fähige Verwalter sind schwierig zu bekommen und ich bin mir sicher das meine Talente woanders liegen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1566
+
+* Titel: `Let's Play ESO #1566 - ein Loch in der Mauer [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 38 des Diebesgilde DLC - Sitzung X + 3
+  
+  Vor einiger Zeit habe ich ein Spiel namens Call of Duty: Cold War gespielt. Das Spiel war in seiner Kampagne eigentlich ziemlich interessant und grafisch auch gut gemacht. Wäre es nicht umsonst gewesen hätte ich es allerdings nie gespielt muss ich zugeben. Wie dem aber auch sei. Dort gab es eine Mission die hieß "ein Riss in der Mauer" und es ging um die legendäre berliner Mauer. Die die wir heute überwinden ist ein wenig langweiliger und gewöhnlicher. Es handelt sich um einen doch recht großen Durchbruch in der Zitadelle von No Shira. Dafür das das Eisenrad so sehr darum bedacht ist alles korrekt und gut zu machen scheint es mir eine ziemlich Dummheit zu sein das Loch nicht dauerhaft von mehren Augen zu überwachen. Klar, wenn vorne am Tor Dinge geschehen kann man seine Leute schon einmal abziehen aber doch nicht alle! Nun, unser Schaden soll es nicht sein. Allerdings frage ich mich wirklich warum Schleicht-Leise auf sein Versteckspiel bestanden hat. Offensichtlich war das nicht notwendig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1567
+
+* Titel: `Let's Play ESO #1567 - Gefängnisausbruch [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 39 des Diebesgilde DLC - Sitzung X + 3
+  
+  Ich hätte ja die Episode "gesprengte Ketten" genannt aber die Realität ist das wir eigentlich Nichts heldenhaftes wie das machen. Unsere eigentliche Tätigkeit ist ziemlich mundane, insbesondere wenn man davon ausgeht das das Eisenrad sowieso keine echten hoheitlichen Aufgabe hat. Wie genau das überhaupt rechtlich funktioniert ist mir übrigens auch nicht klar. Weil Hew's Fluch scheint mir nicht direkt irgendeinem Reich unterstellt zu sein, wie genau kann man also davon reden das man das Gesetzt vertritt wenn es gar kein Recht gibt? So oder so ist das Eisenrad damit auch nur eine Söldnerarmee die halt so tut als hätte sie hoheitliche Tätigkeiten. Nichts was wir richtig beachten müssen. Über Leichen zu gehen ist also eine legitime Option. Und das tun wir heute eben nicht und damit gibt es wohl eine gewisse Enttäuschung.
+  
+  0:00 - Gameplay
+  1:07 - BUCH: Prinz Hew und das Dreibein-Rennen
+  5:58 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

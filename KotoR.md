@@ -1236,6 +1236,230 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #79
+
+* Titel: `KotoR - #79 - Mutterprobleme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Regel spricht man davon das man Probleme mit seinen Eltern hat, in diesem Fall der sich da uns heute aufzeigt ist es aber anscheinend eher so das es explizit ein Problem mit der Mutter ist. Das alles hier hat mehre Dimensionen. Es fängt damit an das es sich um Bastillas Mutter handelt die irgendetwas von ihr will. Als wir damals Bastilla auf das Thema angesprochen haben war sie sehr ausweichend und hat nur die Jedi-Corperate-Bullshit Antworten wiederholt die sich in etwa so lesen das man keinen Kontakt mit seinen Eltern aufnehmen soll und das Thema am Besten gar nicht anfässt. Okay. Gut, das führt bestimmt nicht zu Problemen. Und dann tauchen diese Eltern auf einmal wieder auf. Ich bin übrigens auch sehr beeindruckend das wir in einer schier endlosen Galaxie andauernd Leute treffen, insbesondere wenn man bedenkt das von allen Welten die man so erforschen kann Tatooine echt langweilig ist. Die ganze Wüstengeschichte mancht es meiner Meinung nach ein wenig schwierig hier überhaupt irgendetwas zu finden. Aber nun gut, hier sind wir jetzt, Bastilla hat ein Problem und für ein paar Erfahrungspunkte bin ich ja quasi bereit alles zu tun. Zeit los zu legen. Mutti über den Haufen zu ballern war übrigens keine Option, wäre aber in einer öffentlichen Kneipe auch unschicklich gewesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 12, Aufnahme vom 21.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #80
+
+* Titel: `KotoR - #80 - Roboterankauf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mag Roboter nicht. Das liegt daran das ich sie für eine Abnormalität und Kariktur des Lebens halte. Ein verzerrtes Abbild der Existenz oder Sonstiges. Nein, es ist viel mehr das mein AOE Heal den ich per Macht wirke nicht funktioniert. Und das ist natürlich ziemlich ärgerlich. Theoretisch habe ich wohl genügend Reparaturkits aber wenn ich meinen Astromech öfter mit nehmen würde hätte ich ziemlich schnell ein Problem. Da wir all das jetzt wissen kaufe ich logischerweise heute einen weiteren Roboter. Einen Mix aus Protokoll und Killerdroiden, also ein ideales Ding das man sich zuhause hinstellen kann. Ich weiß übrigens immer noch nicht warum Protokolldroiden in humanoider Form überhaupt existieren, ein kleines handliches Gerät würde es doch auch tun oder? Weil der Kopf von den Dingern ist ja nicht unbedingt groß. Außerdem teilt mir mein Chat heute mit das Roboter in Star Wars anscheinend dazu neigen ein Bewusstsein zu entwicklen wenn man sie lange genug alleine lässt. Das ist irgendwie tröstlich und auch ziemlich Horror. Einer dieser existenziellen Fragen ist ja inwiefern das Bewusstsein tatsächlich existiert oder nur eine Illusion ist. In einer Welt in der Roboter Stück für Stück ein Bewusstsein entwickeln spricht Einiges dafür das irgendetwas das grob einer "Seele" ähnelt wohl ein Ding ist. Und das das Nachleben ein wenig überfüllt ist, so das die "Leute" alles versuchen um wieder in die Existenz zu kommen. Alles was irgendwie nach einem geeigneten Gefäß aussieht wird besetzt. Das übrigens auch interessant wenn das mal wer untersuchen würde, wieviel Rechenkraft braucht man bis das inherente Bewusstsein des Universums anfängt Wurzeln zu schlagen. In diesem Licht scheint es mir übrigens ziemlich grausam zu sein das Bewusstsein besagter Roboter zu löschen. Aber was weiß ich schon, bin ja kein Weltraumphilosoph.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 13, Aufnahme vom 28.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #81
+
+* Titel: `KotoR - #81 - HK-47 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Okay, es ist passiert, wir haben noch einen Roboter gekauft. Ich erwähnte schon das es sich wahrscheinlich um einen Killerdroiden der Sith handelt oder? Das Ding hat auf jeden Fall eine Intention in der Macht, das ist auffällig. An sich sollten Maschinen doch neutral sein und nicht von der Macht beeinflusst werden, oder? Nun, so wie es aussieht ist aber genau das der Fall und das Ding ist böse. Nicht abgrundtief aber doch schon ein solides Stück, könnte es Blitze zaubern wären die echt gut. Nun, wir reden natürlich mit dem Gerät aber überraschenderweise stellt sich ziemlich schnell heraus das wir einfach nicht gut im Reparieren von Droiden sind. Das wäre ja gar kein Problem wenn wir unseren Level 23 Astromech dafür verwenden könnten, aber offenbar ist das keine Option, DAS ist eine Enttäuschung. Ich war ja schon von Canderous enttäuscht als er mir nicht helfen wollte Sasha zu übersetzen, aber immerhin wäre das Problem jetzt gelöst, HK-47 merkt an das er sehr gut im Übersetzen ist, zu Schade das wir Sasha bereits an den Circus verkauft haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 13, Aufnahme vom 28.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #82
+
+* Titel: `KotoR - #82 - Czerka Büro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man wirklich großzügig sein will dann könnte man behaupten das die Czerkas quasi so etwas wie die lokalen Machthaber sind, damit gehen aber einige Pflichten einher die man lieber nicht auf sich nehmen will, daher tut man einfach so als würde es den Ort nur so geben und man durch Zufall 100% Anteilseigner ist und daher auch die volle Kontrolle ausübt. Fragt man allerdings nach Pflichten die man als Herrscher schon mal erfüllen sollte wird gerne auf die Zentrale verwiesen, außerdem übrigens auch auf die Besuchszeiten. In dieser Hinsicht wäre ich übrigens ziemlich gespannt wie die eigentlich aussehen. Ob es nur einmal im Monat ist oder einfach nie und man dies erst erfährt wenn man vor Ort ist? Alles in Allem kommt mir die Czerka Corperation wie eine römische Hafenbehörde vor, nur weniger lustig. Leider gibt mir das Spiel keine Möglichkeit einfach alles ab zu brennen, das ist wiederum ziemlich bedauerlich. Oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 13, Aufnahme vom 28.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #8
+
+* Titel: `KotoR - #83 - Jägergilde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend ist im völlig gesetzlosen Outer Rim alles komplett und bis zum letzten Meter verklausuliert. So können wir zum Beispiel nicht jagen ohne vorher eine Jagdlizenz zu erwerben, das haben wir natürlich schon gemacht und daher besuchen wir heute die Jägergilde. Es wird übrigens sogar noch besser, man kann nicht einmal irgendwelche geschossenen Tiere verkaufen wenn man eine Jagdlizenz hat. Das ist interessant weil sich die Frage aufdrängt wohin der Typ dem wir die Ware verkaufen eigentlich verkauft. Offensichtlich gibt es keinen direkten wirtschaftlichen Nutzen für die Trophäen der Viecher die wir geschossen haben. Also, die Frage bleibt, warum überhaupt irgendwelche Viechers im Sand erschießen nur um dann von den Sandleuten auseinander genommen zu werden. Immerhin lernen wir lauter sehr nette Leute hier kennen, unter Jägern scheint es noch so etwas wie Ähre zu geben, ist das nicht schön? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 13, Aufnahme vom 28.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #85
+
+* Titel: `KotoR - #85 - Angriff der Sandleute [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen Gründen mögen uns die Sandleute nicht. Ich habe ja einige Vermutungen was das angeht und ich bin mir sicher irgendwann, falls wir es schaffen mit ihnen zu reden, werden sie uns das auch erzählen. Fürs Erste muss wohl reichen das es so ist, außerdem retten wir übrigens noch eine Baggerbesatzung, die stehen mitten in der Wüste rum und mir ist ehrlich gesagt nicht so ganz klar was überhaupt der Plan war. Mit riesigen Maschinen durch die Wüste zu heißen erscheint mir halt einfach nicht wie die beste Idee. Nun, da wir offensichtlich überlegen sind stellen die Sandleute nur ein kleineres Ärgernis für uns da, und doch, man fragt sich doch wirklich wohl das zahllose Personal her kommt das uns die Sandmenschen entgegenwerfen, irgendwo müssen die ja auch die Nahrung anbauen. So ein bisschen Bantha-Viehzucht kann ja auch nicht alle versorgen, mal davon abgesehen das die ja auch was fressen müssten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 13, Aufnahme vom 28.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #86
+
+* Titel: `KotoR - #86 - Dünenmeer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So reine Sandwüsten sind ziemlich selten, meistens hat man es eher mit Steinwüsten zu tun in denen es wenigstens ab und an ein paar Orte gibt die man angucken kann. Ändert natürlich Nichts daran das man jämmerlich verdurstet wenn man nicht entsprechend ausgerüstet ist, aber immerhin gibt es etwas zu gucken. Auch in der Wüste von Tatooine gibt es Einiges zu gucken, zum Beispiel die Massen an toten Sandleuten die hier überall herumstehen. Man könnte fast meinen das die Wüste nur so leer ist damit wir auf der gelben Leinwand mit roter Farbe Akzente setzen können. Wir müssen übrigens gar nicht ob die Sandleute überhaupt Menschen sind, aber es spricht wohl Einiges dafür das sie es sind, so erfahren wir es später. Davon einmal abgesehen sehen wir heute wirklich eine Menge Sand, das stimuliert die Fantasie habe ich gehört.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 13, Aufnahme vom 28.10.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #87
+
+* Titel: `KotoR - #87 - Sandleute-Diplomatie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann stolz berichten das wir am Ende mehr über die Sandleute wissen und daher ein gewisses Urteil fällen können das uns erlaubt ihre bisherigen Taten besser zu beurteilen. Ich bin mir nicht ganz so sicher ob es überhautp sinnvoll ist den Leuten irgendwie moralisch zu helfen, ihre Philosophie hat offensichtlich Lücken aber welchen Sinn hätte eine "Erleuchtung". Letztendlich wollen wir nur das wir nicht beschossen werden und das uns die Czerka Corperation hilft, irgendwie. Eigentlich hat sie das sogar schon, wir könnten also eigentlich genauso gut mit der Sternenkarte in der Tasche wieder abhauen. Es ist ja nicht so das die Sternenkarte nicht sowieso ziemlich leicht von uns gefunden werden kann, die macht führt all unsere Schritte insofern sollten wir auch ohne jede Hilfe oder Input von anderen Leuten sachdienliche Hinweise erhalten was hier eigentlich zu tun ist. Zurück zu den Sandleuten, wir reden heute mit ihnen, aus irgendwelchen Gründen ist ihre Sprache vollständig unverständlich was mir irgendwie unwahrscheinlich erscheint, schon weil es ja ansonsten überhaupt keine Grenze für das Übersetzen aller anderens Sprachen gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 14, Aufnahme vom 04.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #88
+
+* Titel: `KotoR - #88 - Enklave der Sandleute [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwo müssen die Sandleute ja wohnen, die Antwort "in der Wüste" ist allerdings auf die Frage nach dem Wo nicht wirklich akzeptabel. Erstaunlich ist allerdings das es ein doch relativ großes Camp gibt, ich hätte jetzt ja eher erwartet das man vielleicht eher in irgendwelchen Felsenhöhlen oder unterirdischen Gängen wohnt. Stellt sich doch heraus das es einfach so etwas wie ein Nomandencamp gibt, nein, mir ist nicht klar warum die Czerka Corperation noch nicht auf die Idee gekommen ist ein paar Luftangriffe zu fliegen. Letztendlich sollte es ja wohl nicht allzu schwierig sein ein paar unterentwickelte Technologieverweigerer in der Wüste weg zu bomben oder? Während ich das hier schreibe fällt mir übrigens auf das man diese Worte auch sehr parallel zu real-weltigen Ereignissen sehen könnten. Normalerweise hat man aber das Problem das man sich um Zivilbevölkerung zumindest oberflächlich sorgen macht und die eigentlichen Feinde sowieso woanders wohnen. Guerilla Kriegsführung funktioniert in der Regel ja auch nur weil irgendwelche Unterschlüpfe hat, das was wir aber heute sehen scheint mir nicht besonders viel Unterschlupf zu sein, generell und überhaupt hat man im Star Wars Universum anscheinend noch keine Satelliten erfunden. Oder Raumschiffe die in ca. 500 Meter Höhe schweben und alles wegballern was sich bewegt und nicht autorisiert ist. Aber was weiß ich schon wie man eine Minenoperation im Weltraumzeitalter auf einen Planeten führt. Meine beschiedene Meinung bleibt ja immer noch bei "gar nicht". Erste Direktive oder so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 14, Aufnahme vom 04.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #89
+
+* Titel: `KotoR - #89 - Griffs geniale Pläne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich nach Tatooine gekommen bin habe ich nicht vergessen das ich auch partiell hierher gekommen bin um Missions Bruder Griff zu retten. Das er wieder in irgendeiner Schwierigkeit steckt war ja schon vorher klar. Mittlerweile ist aber selbst Mission ein wenig Mühe was die Rettung ihres Bruders angeht, auf einen Planeten zurückgelassen zu werden der dann ein wenig später bis auf die Grundmauern vernichtet wird macht das mit einen. Generell und überhaupt merkt man wie bei Mission langsam aber sicher die kindliche Unbedarftheit verloren geht. Oder zumindest der Anschein daran, ich nehme einmal stark an das wenn man in den Slums aufwächst man nicht all zu viele Illusionen hat wie die Welt funktioniert. Wir wussten bereits das Griff sich bei den Sandleuten aufhält und es irgendwie wie durch ein Wunder geschafft hat nicht direkt erschossen zu werden, fast schon ironisch haben die Sandleute ein wesentlich besseres Gespür für die Unfähigkeit des jungen Twilek und haben diesen sofort aussortiert, man darf sich nur wundern warum er eigentlich überhaupt noch lebt. Es ist ja nicht so das die Sandleute irgendwelche Ressourcen über hätte und in der Lage sind Leute einfach durchzufüttern. Generell und überhaupt bin ich übrigens sehr überrascht wie wenig Schutzkleidung die Leute auf Tatooine eigentlich anhaben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 14, Aufnahme vom 04.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #90
+
+* Titel: `KotoR - #90 - Swoop Rennen auf Tatooine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Swoop Rennen sind, soweit ich das verstanden habe, eigentlich gar nicht so weit verbreitet. Von den vier Planeten die wir bisher betreten haben gab es sie aber auf zwei davon. Das ist dann aber wohl nicht repräsentativ und Taris war angeblich die große Metropole für die Rennen. Nun, so sei es wenn es unbedingt sein muss. Allerdings gebe ich zu bedenken das die Rennen auf Taris von irgendwelchen Straßenbanden ausgetragen wurden und jetzt auf einmal heißt es das das quasi die größten Rennen im Universum waren obwohl von reichen Sponsoren Nichts zu sehen waren. Auch ansonsten scheinen die Rennen im Moment eher nicht so in Mode zu sein, anders kann ich mir nicht erklären das das Preisgeld nur aus Bastila bestand, ziemlich mickrig für die Hauptstadt bzw. Hauptplanet der Swoop Meisterschaft oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 14, Aufnahme vom 04.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #91
+
+* Titel: `KotoR - #91 - Krayt-Drache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe den Mandalorianer geguckt, für Zuschauer aus dem Jahre 2003, das ist eine Serie die nach dem Ende der ursprünglichen Star Wars Sage spielt aber lange vor dem großen Zeitlupenunfall der die Episoden 7-9 sind. (Wer hätte es einmal gedacht das die Prequels als okay angesehene werden). Dort sind wir auch zufälligerweise auf einem prominenten Wüstenplaneten und auch dort terrorisiert ein Drache die Leute, ich meine auch das Vieh dort wurde ebenfalls als Krayt-Drache bezeichnet, eventuell war es aber auch ein komplett anderes Tier. Jedenfalls war das Wesen das man in der Serie sieht eventuell sehr viel anders als das Vieh das wir heute mit eine wenig Trickserei niederringen. Sehr anders um genau zu sein. Immerhin wissen wir bei dem Vieh das wir heute sehen warum das Teil Krayt-Drache heißt, weil es eben ein Drache ist. Ob die Viecher manchmal über die Wüstensande schweben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 14, Aufnahme vom 04.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #92
+
+* Titel: `KotoR - #92 - Geschichte der Sandleute [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir opfern zwar eine Perle dafür, aber wir erfahren heute sehr viel übe die Sandleute und ihre Geschichte. Mir ist dann später zu Ohren gekommen das diese Perlen eventuell ziemlich wertvoll sind. Ich bin mir übrigens nicht ganz sicher ob ich die Perle tatsächlich abgegeben habe, die Antwort findet sich aber in dieser Episode. Letztendlich wäre Abgeben ja auch unlogisch, der Häuptling hat die Perle ja nur als Beweise verlangt, Vorzeigen sollte doch eigentlich in so einer Situation reichen oder? Aber eigentlich spielt es auch keine Rolle, die Implikationen die die Erzählung der Sandleute hat ist schon ziemlich interessant. Allerdings weiß ich ja auch das die Story von Star Wars ziemlich inkonsistent ist, würde es nur die alte Republik geben hätten wir jetzt schon einmal eine gute Erklärung warum das technisch Level auf dem sich alles im Star Wars Universum bewegt so ist wie es ist. Alles ist Post-Apokalyptisch, die Technik ist bloß so hochwertig das dennoch alles funktioniert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 14, Aufnahme vom 04.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #93
+
+* Titel: `KotoR - #93 - Abschluss auf Tatooine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In Folge meiner doch recht durchgeplanten und methodischen Art zu spielen endet es oft so das ich bei Spielen in denen ich vorhersehen kann wann Dinge anfangen und Enden Zwischenepisoden wie dieser hier entstehen. Ich weiß das ich einen Ort verlasse und versuche daher alle lose Stränge die wir noch irgendwie finden können miteinander zu vereinen und idealerweise auch einen vernünftigen Schlussstrich zu ziehen damit alles schön sauber in seinen einzelnen Ordner liegt. Ärgerlicherweise zerstört das auch irgendwie das allgemeine Chaos das man sonst hat wenn man ein Spiel wirklich einfach nur so vor sich hin spielt. Auf der anderen Seite möchte wohl auch niemand zum 20ten Mal sehen wie ich von einem Planeten zum Anderen fliege weil ich noch irgendetwas auf Kashyyyk vergessen haben. An der Stelle sei aber direkt angemerkt das wir wirklich noch einmal den Waldplaneten besuchen müssen. Das wird bestimmt alles total toll, aber zu erst reden wir noch ein wenig mit den Leuten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 14, Aufnahme vom 04.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

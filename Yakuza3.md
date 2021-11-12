@@ -1891,6 +1891,66 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
   ```
 
+##### #131
+
+* Titel: `Yakuza 3 Remastered - #131 - Ermittler Kiryu [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kazuma Kiryu ist wahrscheinlich der Avatar des fairen Verhalten und man möchte sich wundern ob er, falls er in einer anderen Gemeinschaft aufgewachsen wäre vielleicht ein ziemlicher Cop geworden wäre. Auf der anderen Seite scheint mir die Struktur und allgemeine Umgebung der japanischen Polizei nicht ideal zu sein um ein guter Mensch zu sein. Aber ich schweife ab. Davon abgesehen ist der gute Kiryu ja auch genau das geworden was er heute ist weil er ein hartes Leben als Waise und Yakuza hinter sich hat. Der Hammer des Lebens hat ihn hart auf dem Amboss der Realität geschmiedet. Und doch, heute gehen wir eine Tätigkeit nach die Kiryu sehr zu liegen scheint, sei es seine einschüchterne Größe oder sein messerscharfer Verstand, heute ermitteln wir wie einer von den ganze Großen. Hilfreich dabei ist auch das die ganze nervige Laufarbeit größtenteils schon erledigt wurde, klar, wir müssen noch ein wenig durch die Gegend wacklen aber das ist alles fußläufig und könnte wesentlich schlimmer sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 25.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #132
+
+* Titel: `Yakuza 3 Remastered - #132 - Ermittlungserfolg im Alps [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Beschreibung habe ich ja lang und breit erklärt was für ein unfassbarer Mary Sue Charakter Kazuma Kiryu ist, heute sehen wir dann auch die Früchte unserer Arbeit. An sich bin ich allerdings wohl ein wenig unfair, es ist ja nicht so das der gute Kiryu unfehlbar ist und erst recht nicht unanfechtbar, seine Methoden sind immer relativ gleich und komplexe Konflikte könnten ihn durchaus überfordern. Oder wenn ein Gegenspieler einfach nicht bei seinen Regeln mitmachen sollte. Nun, wie dem aber auch sei, heute rollen wir den Mordfall des Café Alp komplett wieder auf und erläutern genau was damals verloren ging. Bei solchen etwas älteren Fällen gibt es immer wieder Schwierigkeiten verwendbare Beweise zu finden. Ich frage mich zum Beispiel ob das Täter das wir am Ende finden tatsächlich vor Gericht belastbar wäre wenn es sich einfach quer stellen würde. Letztendlich haben wir nur Indizienbeweise, das hat damals für den anscheinend unschuldigen Jugen auch gereicht aber im Nachhinein sollte so etwas schon wasserdicht sein. Und genau hier sehe ich ein Problem. Zum Glück gesteht unser Täter.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 25.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #133
+
+* Titel: `Yakuza 3 Remastered - #133 - Touto Krankenhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder auf Kurs. Vergessen die Geschichte mit dem Mordfall den wir noch eben zwischgeschoben haben bevor wir uns um die wirklich wichtigen Dinge gekümmert haben. Jetzt sind wir im Krankenhaus, irgendwo hier müsste unser geliebter sechster Vorsitzender liegen oder vielleicht sogar schon sitzen, je nachdem wie gut es ihm nun wirklich gut. Auf dem Weg dahin finden wir natürlich tonnenweise gegnerisches Personal in allen mögliche Farben. Zu diesem Zeitpunkt habe ich übrigens noch geglaubt das ich das Spiel irgendwie noch schnell durchgespielt kriege. Die Realität sieht aber so aus das ich das eher nicht schaffe. Ab hier dauert alles richtig lange, und das liegt unter Anderem auch an den vielen Kämpfen die sich hier noch bieten. Ist das nicht alles großartig?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 25.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
+##### #134
+
+* Titel: `Yakuza 3 Remastered - #134 - Zimmer 2501 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt anscheinend sehr viele Zimmer im großen Hospital das nur diskrete Kunden behandelt. Außerdem gibt es keine anderen Patienten oder Ärzte. Insbesondere Letztere wären aber durchaus vom Vorteil wenn man so etwas wie einen Therapieerfolg in naher Zukunft erreichen will. Auch übrigens wichtig, draußen in der Außenwelt gibt es tonnenweise heimatlose Leute die kein Dach über den Kopf haben, überlaufende Krankenhäuser, und hier, hier ist alles ganz still und nur die besten der Besten behandeln hier irgendwelche reichen Säcke. Man tut sich nicht schwer hier eine Art soziale Ungerechtigkeit zu sehen. Davon einmal abgesehen erreichen wir heute nach langem Aufstieg dann auch endlich unser Ziel, was auch immer das wert ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 3 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 25.10.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPmA_fdQjKaesDcnr-0gV8q
+  ```
+
 ##### #Nummer
 
 * Titel: ``

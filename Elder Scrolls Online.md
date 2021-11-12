@@ -4895,6 +4895,8 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+### Diebesgilde (Fortsetzung)
+
 ##### #1550
 
 * Titel: `Let's Play ESO #1550 - Neues von Zeira [Diebesgilde]`
@@ -5181,6 +5183,239 @@
   0:00 - Gameplay
   1:07 - BUCH: Prinz Hew und das Dreibein-Rennen
   5:58 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1568
+
+* Titel: `Let's Play ESO #1568 - Großabenteurerin von Hew's Fluch [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 40 des Diebesgilde DLC - Sitzung X + 3
+  
+  Und damit ist es dann auch geschafft. Wir haben dem Eisenrad ein Schnippchen geschlagen und es geschafft. Die Diebesgilde ist gerettet, Nicolas bestraft und generell und überhaupt scheint alles ziemlich gut zu laufen, bzw. ist gut gelaufen. Was es jetzt genau mit den Schätze auf sich hat die wir der Diebesgilde abgenommen haben weiß ich jetzt auch nicht, ich merke auf jeden Fall Nichts von den Schätzen die bei mir angekommen sind. Jetzt bleibt mir also nur noch mit den Leuten zu reden, ein wenig die Stimmung zu spüren und dann sind wir wohl für eine sehr lange Zeit weg aus Hew's Fluch. Ich bin mir nicht ganz sicher ob ich den Ort vermissen werden aber das Stadt Design von Abahs Landung werde ich wahrscheinlich auch in Zukunft noch einige Male referenzieren. Eine Mission steht aber noch aus, wir sind also noch nicht ganz fertig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1569
+
+* Titel: `Let's Play ESO #1569 - Im Sturm auf See geblieben [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 41 des Diebesgilde DLC - Sitzung X + 3
+  
+  Wir erfreuen uns immer wieder an Einzelschicksalen, und auch die verrückten Dinge die anderen Leute so im täglichen Leben passieren, zum Beispiel wenn der eine Typ von der wir absolut wollten das er der örtlichen Justiz übergeben wird auch tatsächlich zur Rechenschaft gezogen wird, einfach schon damit wir unsere Ruhe haben. Aber nein, es stellt sich doch glatt heraus das grade er bei einem Sturm auf hoher See über Bord ging. Wie auch immer das übrigens möglich war, Nicolas war doch ein Gefangener, solche bewahrt man doch normalerweise unter Deck in einem Käfig und eventuell sogar in Ketten auf. Wenn man also in einem Sturm auf hoher See ist halte ich es eher für wahrscheinlich das man dabei stirbt, ertrinken in einem Käfig halte ich auf jeden Fall für einen der schlechteren Tode. Aber wir als Berufsprotagonist sollten uns wahrscheinlich nicht beschweren, schon Verrücktere Sachen sind geschehen.
+  
+  0:00 - Meta Dinge
+  5:40 - Gameplay
+  8:30 - BUCH: Ein Ruf nach gewöhnlichem  Haar
+  10:20 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1570
+
+* Titel: `Let's Play ESO #1570 - einsame Flucht [Diebesgilde]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 42 des Diebesgilde DLC - Sitzung X + 3
+  
+  Zuschauer aus Episode 645 können jetzt mit 646 weitermachen.
+  
+  Es ist nicht leicht sich von einem Leben des Verbrechens zurückzuziehen, meistens hat man sich große Feinde in der Zwischenzeit gemacht und die setzen einen dann nach und wollen nicht so einfach akzeptieren das man jetzt im Ruhestand ist. So zum Beispiel ergangen, Nicolas, ehemaliger Anführer der Diebesgilde von Abahs Landung, der Verfolger sind ausnahmsweise wir. Das kommt echt selten vor, in der Regel sind das ja immer irgendwelche anderen Leute die uns dann auf den Sack gehen, andererseits haben wir unsere kriminelle Karriere noch nicht beendet, alle Konkurrenten die uns nachsetzen haben also nur ganz legitime Interessen. Die heutige Episode beendet dann endlich die Diebesgilde und wir können uns dann anderen Dingen zuwenden. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+### Totenländer
+
+##### #1571
+
+* Titel: `Let's Play ESO #1571 - eine apokalyptische Lage [Deadlands Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 1 des Totenländer Prologs - Sitzung 1 / 1
+  
+  Anscheinend ist die Welt dem Untergang geweiht. Wieder einmal, man fragt sich wirklich wie es Tamriel die letzten tausend Jahre geschafft hat eigentlich in Frieden zu leben. Also relativ. Klar, hier und dort gibt es sicherlich Konflikte, weltliche Bedrohungen und diverse Vorfälle aber so wie es aussieht vergehen keine 5 Minuten ohne das irgendein Kult, Daedra, beides oder Magier versucht die Realität in den Abgrund zu treiben. Wirklich. Nie ist Ruhe. Und dann wir doch bald Ruhe sein, für viel viele Jahre. Zum Beispiel zwischen TES3 und TES4 sollte doch eigentlich ziemlich viel Zeug passieren, oder die Ereignisse die zum 5ten Teil geführt haben. Aber nichts dergleichen scheint je geschehen zu sein, und hier stehen wir im Jahre 582 und es brennt die Luft. Konstant. Es hört einfach nicht auf, nie. Daher machen wir uns heute mit Lyranth auf und prüfen das mal nach. Es könnte übrigens auch schon das Jahr 589 sein, so genau kann man das nicht wissen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1572
+
+* Titel: `Let's Play ESO #1572 - Wo das Dunkel kriecht [Deadlands Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 2 des Totenländer Prologs - Sitzung 1 / 1
+  
+  Da wir uns in einem Prolog befinden bewegen sich die Ereignisse ein wenig schneller vor ran als es normalerweise der Fall ist. Ich mag diese schnelle Art der Erzählung. Das nimmt einen natürlich auch ein wenig die Fähigkeit die Entwicklung der Ereignisse richtig zu genießen aber so sind die Dinge nun einmal. Lyranth hat also ein Artefakt von einem Ort der hier als Rotblütenbastian beschrieben wird gestohlen. Der Orden der erwachenden Flamme will das Ding zurück haben. Wir wissen übrigens gar nicht so genau was das Ding eigentlich ist, die Dremora ist sich allerdings sicher das es etwas von tragendender Bedeutung ist. Wenn man soviel Aufregung veranstaltet können wir also gar nicht anders als uns nach Schattenkreuch aufzumachen und ein Dagonisten aufzumischen, das ist ja sowieso eines meiner Hobbies.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1573
+
+* Titel: `Let's Play ESO #1573 - Verkleidungstrank [Deadlands Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 3 des Totenländer Prologs - Sitzung 1 / 1
+  
+  Wenn man sich irgendwo einschleichen will dann tut man das am besten als die Person die einen gesunden Mix aus Zugriffsrechten und Bekanntheit besitzt. Selbst wenn man über perfekte Tarnfähigkeiten verfügt ist es ziemlich schwierig für länger als ein paar Minuten in einem Gespräch immer noch so zu tun als wäre man die Person die man vorgibt zu sein. Ich nehme an das jeder der den ausgetauschten genauer kennt recht schnell bemerkt das etwas nicht stimmt. Wir dürfen außerdem wohl davon ausgehen das die erwachende Flamme schon vom Grundprinzip her eine sehr misstrauische Veranstaltung ist, als Deadra Kult sollte man schon irgendwie vorsichtig sein. Nun, wir schleichen uns trotzdem ein, wollen sogar noch Lyranth mitnehmen (das wissen wir jetzt noch nicht). Daher brauchen wir besondere Vorbereitung, welch Glück das es anscheinend lokal alle Hilfsmittel gibt die wir uns wünschen können, daher sammeln wir schnell ein paar Zutaten ein und mittels einfachster Alchemie sind wir in der Lage die perfekte Agentin zu sein. Eventuell könnte es am Ende doch noch Probleme geben, insbesondere dann wenn Leute anfangen die Wirkung des Trankes zu bemerken, der wirkt, zumindest so habe ich das verstanden, auch extern. Das ist nicht so gut oder? Externe Wirkung kann jemand der über eine bestimmte Begabung verfügt doch sicherlich bemerken.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1574
+
+* Titel: `Let's Play ESO #1574 - Ferngrab-Konklave [Deadlands Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 4 des Totenländer Prologs - Sitzung 1 / 1
+  
+  Es handelt sich ja um eine Prolog bei dem was wir hier spielen. Nun sind wir auf einmal an einem ganz anderen Ort, es ist übrigens erstaunlich das uns das nicht viel öfter geschieht. Wir hopsen ja andauernd durch irgendwelche Portale und so wie die Dinge gestaltet sind scheinen die Portale keinen Unterschied bei der Entfernung zu machen, Licht lassen sie dennoch nicht hindurch, das macht es ein wenig schwierig hindurch zu sehen. Normalerweise kommen wir aber doch irgendwo an wo wir auch hinwollen. Auch heute ist dem so, wir landen zum Beispiel im Ferngrab, das ist ein wenig überraschend aber war eigentlich zu erwarten wenn man die allgemeinen Umstände in Betracht zieht. Ich kann nicht sagen das es hier wirklich schön ist, das Meiste ist doch ziemlich 2D aber immerhin wissen wir jetzt wo der Stützpunkt des Feindes ist. Damit können wir arbeiten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1575
+
+* Titel: `Let's Play ESO #1575 - der Kataklyst [Deadlands Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 5 des Totenländer Prologs - Sitzung 1 / 1
+  
+  Heute gibt es eine gewaltige Erkenntnis. Der Orden der erwachenden Flamme ist gar nicht der persönliche Daedra Ordens des ehemaligen Hohepriesters Vandacia, stattdessen handelt es sich um ein Franchise und all die Leute die wir bis jetzt getroffen haben waren nur die Anhänger einer bestimmten Geschmacksrichtung. Vandacias Truppe mit doch recht großen Ressourcen waren gar nicht alle Leute die es gibt. Heute finden wir heraus das es mindestens noch eine andere Truppe rund um eine sogenannte Schwester Celdina gibt. Über die wissen wir übrigens genau gar nichts, nur das sie sich anscheinend mehr auf die Technik hinter all den Dingen konzentriert anstatt zu versuchen irgendwelche genetischen Freaks dazu zu benutzen große Zerstörung zu entfesseln. Das Endergebnis wäre wahrscheinlich das Selbe aber die Mittel sind anders.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1576
+
+* Titel: `Let's Play ESO #1576 - Ankunft in Ferngrab [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 1 des Totenländer DLC - Sitzung 1
+  
+  Eigentlich waren wir bereits in Ferngrab, zumindest dem Reich, aber so wie es aussieht gibt es außerdem noch eine Stadt die sich in eben jener Taschenebene aufhält. Die genauen Dimensionen des Ortes sind mir übrigens nicht bekannt, es könnte durchaus sein das, wen man anbauen würde und genügend Leute hinbringt, das Reich einfach größer werden würde. Wahrscheinlich wäre das aber nicht so klug weil dann bestimmt irgendwelche daedrischen Fürsten aufmerksam werden würden und sich dann am Ende doch noch dafür entscheiden würden hier mal einzureiten. Anders als Nirn kann ich mir nicht vorstellen das der Ort besonders gut beschützt ist. Klar, vor Daedra im Allgemeinen muss man sich wahrscheinlich keine Sorgen machen dafür aber vor Daedra im Speziellen. Wie dem aber auch sei, wir sollen hier Lyranth treffen und das machen wir natürlich auch, oder versuchen es zumindest, stattdessen treffen wir jemand Anderen, jemand mit offensichtlicher Macht und Selbstbewusstsein. Ich bin sehr gespannt wohin uns dieser Weg führt.
+  
+  0:00 - Gameplay
+  15:58 - BUCH: Lektionen über Luminite
+  19:03 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1577
+
+* Titel: `Let's Play ESO #1577 - der Basar von Ferngrab [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 2 des Totenländer DLC - Sitzung 1
+  
+  Es war eigentlich nur mein kurzer Wunsch mir die örtliche Diebesgilde in Ferngrab anzusehen, einfach weil solche heimlichen Orte in der Regel immer viel über die lokale Kultur aussagen. Ich frage mich allerdings wie geheim eine Niederlassung bzw. Unterschlupf der Diebesgilde in einer Taschenebene des Reiches des Vergessens eigentlich sein muss. Auf der anderen Seite lernen wir bereits vom Griff und der allgemeinen Haltung der Daedra das bis auf vielleicht die Skafen niemand so richtig Freude daran hat bestohlen zu werden. Aber als ich den Unterschlupf durch den Hintereingang verlassen habe befinde ich mich auf einmal auf den doch eher wilden Straßen von Ferngrab, anscheinend ein Ort an dem die Regeln nicht ganz so sehr gelten wie in der restlichen Stadt. Auf dem Rückweg betrete ich dann den Basar, ein Ort voller Wunder. Ich mag Wunder, das gibt mir etwas das ich anschauen kann. Rein technisch gesehen ist es natürlich klar warum der Basar unbedingt ein abgeschlossener Ort sein muss obwohl doch ein Platz der kein Wetter hat ideal für dachlose Stände wäre.
+  
+  0:00 - Gameplay
+  7:52 - BUCH: Die Statuten und der Griff
+  11:45 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1578
+
+* Titel: `Let's Play ESO #1578 - das Haus Kaprice [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 3 des Totenländer DLC - Sitzung 1
+  
+  Es ist eigentlich erstaunlich wenn ich so darüber nachdenke, bisher haben wir kaum Freudenhäuser besucht, noch gab es überhaupt irgendwelche. Die Lore ist in diesem Punkt, zumindest soweit ich "recherchiert" habe nicht ganz klar. Elder Scrolls Lore vermeidet es ja generelle harte Aussagen über so Dinge wie Geschlechterbalance oder Ungleichheiten aufzumachen. Die Gesellschaft scheint einfach eine inherente Gleichheit zu haben und Frauen wie auch Männer dienen in der Armee und verschiedenen hohen Ämtern. Das beim Adel das Geschlecht nicht ganz so wichtig ist könnte man wohl als quasi-historisch hinstellen, aber auch körperlich scheint es keine Unterschiede zu geben, wir sehen auf jeden Fall nicht weniger Frauen in niederen Militärpositionen oder irgendwelche anderen Trennungen. Ich nehme einmal an das wir das ein wenig auf Magie schieben können. Wenn man wirklich wollte könnte man sich wahrscheinlich sogar herbei konstruieren das Dinge wie Stärketränke bestimmte fixe Werte erreichen, wenn man sich also als Frau einen Stärketrank reinhaut kommt man da raus wo Männer auch landen, die dann also Netto weniger bekommen. Oder aber die grundlegende Biologie von Mensch und Mer ist einfach anders als in dieser Realität. Zumindest für die langlebegieren Elfen wäre es auch recht logisch das sie körperlich ähnlicher sind, beide Geschlechter aber wahrscheinlich physisch schwächer als Menschen. Andererseits wissen wir nicht einmal ob es überhaupt genetische Selektion auf Nirn gab und die verschiedenen Rassen nicht einfach von Lorkhan (oder den Aedra) einfach so geschaffen wurden.
+  Zum Thema, warum erzähle ich das? Weil es trotzdem Bordelle geben sollte. Die menschliche Natur scheint mir ziemlich ähnlich der von Erd-Menschen, und auch die wohlfeinen Elfen tun zwar immer so als wären sie besser sind sie aber nicht. Das mit den Geschlechtern wird nur deswegen interessant weil jetzt noch zur Debatte steht ob es getrennte Männer&Frauen Bordelle gibt oder ob es sich einfach um ein Hurenhaus handelt. Generell würde ich übrigens vermuten das die männliche Hure wesentlich fähiger sein muss als die weibliche, die genaue Logistik hat aber bestimmt schon jemand Anderes genauer ergründet. Gesehen haben wir außer einigen Sprüchen in Tavernen aber Nichts dergleichen.
+  Heute betreten wir übrigens ein Daedra Bordell, bzw. Freudenhaus, wie das alles genau funktioniert weiß ich übrigens nicht aber es gibt eine Auszeichnung dafür, ich gehe also davon aus das ich alles richtig gemacht habe.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1579
+
+* Titel: `Let's Play ESO #1579 - Atoll der Selbstaufopferung [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 4 des Totenländer DLC - Sitzung 1
+  
+  Eigentlich wollte ich nur schnell in die Totenländern hoppeln, mit Initiand Tilgo reden und dann ganz schnell wieder zurück nach Ferngrab hoppeln. Stellt sich doch glatt heraus das es richtig etwas zu entdecken gibt. So an und für sich sind die Totenländer ja die Domäne von Mehrunes Dagon aber bis her scheint er doch nicht all zu aktiv zu sein, andererseits haben wir auch in Kalthafen eher selten mit Molag Bal zu tun gehabt. Zwar sind die daedrischen Ebenen irgendwie auch die Fürsten aber deren Fokus ist gewissermaßen auch beschränkt. Sie sind keine Götter (wie uns auch die diversen Religionen auf Tamriel bestimmt versichern würden), daher sind sie auch nicht omnipräsent. Allerdings bin ich mir auch nicht sicher ob die Aedra besonders aufmerksam sind oder auch eher auf eine Sache konzentriert sind. Wie dem aber auch sei, ich habe mich ablenken lassen und ende heute auf dem Atoll der Selbstaufopferung. Ein ganz toller Ort.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1580
+
+* Titel: `Let's Play ESO #1580 - Handwerksbezirk [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 5 des Totenländer DLC - Sitzung 1
+  
+  Ferngrab ist eigentlich nur eine Stadt, ein einziger Ort der ein wenig Umland hat aber wieviel genau ist unbekannt. Generell und überhaupt sind Reiche die nicht nach den Gesetzen der Natur funktionieren wie wir sie kennen ein wenig tricky. Wahrscheinlich könnte man so etwas wie effektives Volumen oder so messen. Die Menge an Volumen die ein Reich wirklich hat bevor man sich wiederholt. Da Nirn angeblich einen unendliche Fläche hat die in alle Richtungen einfach weiter geht (manche sagen auch das es eine Allegorie auf die Vergangenheit und Zukunft ist und das Akavir die Zukunft darstellt und Atmora die Vergangenheit) müsste das Ganze trotzdem irgendwie noch in die wahrnehmbare Realität gegossen werden. Wahrscheinlich würde man einfach im Westen wieder rauskommen wenn man zu weit nach Osten geht, oder so. Das bedeutet aber auch das man alle Realität mit irgendetwas füllen könnte und dann messen wieviel rein geht. Mit genügend genauen Messgerät könnten wir also den Luftdruck messen und dann etwas verändern, oder die Laufzeit von Radiosignalen oder oder messen. Worauf will ich hinaus? Das man durchaus ausmessen könnte wieviel Platz Ferngrab wirklich bietet, nur weil von sterblichen Augen der Ort unendlich erscheint heißt ja nicht das er wirklich unendlich groß ist. Die Bewohner wollten aber auf jeden Fall kein Risiko eingehen und haben alles eng beieinander gebaut, zum Beispiel in Form des Handwerksviertels, einem Ort voller Dispute.
+  
+  0:00 - Gameplay
+  11:18 - BUCH: Geschehnisse in Ferngrab
+  15:18 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1582
+
+* Titel: `Let's Play ESO #1582 - Badehaus-Ritual [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 7 des Totenländer DLC - Sitzung 1
+  
+  Ich bin mir nicht ganz sicher warum es unbedingt das Badehaus sein muss oder generell und überhaupt einen Treffpunkt in Ferngrab geben muss. Soweit ich das sehen kann ist die Stadt ziemlich offen und nur für das eigentlich Ritual am Ende braucht man ja wirklich seine Leute. Schwester Celdina führt heute, so viel sei schon einmal verraten, ein Ritual aus, wieder einmal. Und es zeigt uns auch die große Gefahr die Magie bietet auf. Eine einzelne Person kann sich an einen Ort schleichen und ganz viele lustige Dinge tun und die Sicherheitsmaßnahmen dagegen sind außerordentlich beschränkt. Eine Maßnahme wäre gesellschaftlich, den Zugang zum Wissen über besonders zerstörerische Magie könnte theoretisch beschränkt werden, aber die Existenz der daedrischen Fürsten macht einen solchen Plan ziemlich unsicher. Insbesondere wenn diese aktiv daran arbeiten die Fäden der Realität so lange zu ziehen bis sich alles auflöst.
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe

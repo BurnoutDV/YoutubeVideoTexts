@@ -288,6 +288,216 @@
   Sitzung 4, Aufnahme vom 26.10.2021
   ```
 
+##### #20
+
+* Titel: `Darksiders Genesis - #20 - Mammon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Anfang war ich mir noch nicht sicher ob der gute Mammon jetzt eigentlich so heißt weil es doch auch heißt "der schnöde Mammon", es stellt sich aber recht schnell heraus das es genauso ist. Wir erfahren außerdem warum eigentlich das Wort Mammon in so einem Spruch vorkommt. Die Geschichte ist sprachwissenschaftliche natürlich höchst interessant, für uns aber eigentlich wichtiger ist der Habsuchtdämon uns einige Informationen gibt und, viel viel wichtiger, einen Kern droppt der uns hilft mehr Reichtümer anzuraffen. Das ist ziemlich on-brand für den Dämon der Habsucht wie ich finde. Das bedeutet aber auch das ich ihn wohl noch einige Male besiegen muss um ausreichende Mengen Kernen zu haben um die höchste Stufe zu erlangen. Insgesamt hat mir der Bosskampf übrigens Spaß gemacht, es gab zwar eine Menge zu beachten aber im Großen und Ganzen habe ich mich doch ganz gut in Kontrolle gefühlt. Und ich konnte ziemlich viel umherspringen. Das ist auch immer ein großes Plus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 4, Aufnahme vom 26.10.2021
+  ```
+
+##### #21
+
+* Titel: `Darksiders Genesis - #21 - Arena [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles sah danach aus das es einen gibt und hier ist er endlich: Der Arenamodus in dem wir uns Horden von Feinden stellen und unsere ultimativen Fähigkeiten beweisen. Ärgerlicherweise zeigt die Arena aber auch noch etwas Anderes: endlosen Grind um an die Abgrundrüstung zu kommen. Das finde ich ein wenig unschicklich weil es so ausschaut als würde das wirklich lange dauern. Eines ist klar, ich habe an mich selbst den Anspruch den Fokus klar auf die Erzählung einer Geschichte zu legen, und des Erlebens des Spieles, die Orte anzuschauen die wir besuchen und das Ganze dann eventuell auch ein wenig zu kommentieren. Aber, was nicht darunter zählt ist halt zum zwanzigsten Mal die gleichen Gegner in der Arena zu besiegen, daher werden alle zukünftigen Instanzen, wenn nicht anders verlangt, wohl off-record machen. Quasi exklusiver Inhalt für die Live Zuschauerschaft. Aber hey, einmal waren wir immerhin in der Arena.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 4, Aufnahme vom 26.10.2021
+  ```
+
+##### #22
+
+* Titel: `Darksiders Genesis - #22 - Sumpf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir arbeiten sie wirklich langsam aber sicher ab, alle Möglichkeiten eine Einöde dar zustellen. Ich warte übrigens immer noch auf eine gesichtslose Stadt die zwar auf den ersten Blick bewohnt aussieht aber weil alles so abweisend und anonym ist entspricht es dann doch wieder der Definition einer Einöde. Nun, heute betreten wir auf jeden Fall das Reich von Belial, der Gute hat es wohl mit Untoten und verlorenen Seelen. Die Zombies die wir heute treffen sehen ziemlich menschlich aus ich bin mir aber nicht 100% sicher ob es wirklich Menschen sind, weil die große Apokalypse ist ja noch nicht eingetreten. Auch interessant, der gute Big B. hatte anscheinend vorher kein eigenens Reich bis ihm Luzifer geholfen hat eines zu haben. Jetzt ist also die Frage, war das Reich bzw. das Gebiet mit all seinem Zeug vorher schon da und es wurde quasi erbaut und die Hilfe war ziemlich praktisch, oder ist die Hölle unendlich. Quasi eine endlose, formlose Fläche die erst durch den Willen eines Meisters Gestalt annimmt und das war es bei dem Luzifer helfen konnte. Vielleicht erfahren wir es noch, oder es wird für immer ein Mysterium bleiben. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 4, Aufnahme vom 26.10.2021
+  ```
+
+##### #23
+
+* Titel: `Darksiders Genesis - #23 - der erste Todschreiter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß übrigens noch nicht so richtig was genau ein Todschreiter jetzt eigentlich ist, nur das es sich dabei anscheinend um die Viecher handelt die unser bester neuer Freund Belial benutzt um sich zu schützen und das ein Kampf gegen alle 3 gleichzeitig anstrengend sein könnte. Daher machen wir soetwas wie einen taktischen Erstschlag und besiegen die entsprechenden Burschen zu erst, noch bevor wir uns damit rumärgern Belial überhaupt auch nur zu finden. Das ist übrigens gar nicht so einfach würde ich einmal vermuten, schon weil man bestimmt von uns gehört hat nachdem wir die ersten Wächter hinter uns gebracht haben. Auch kann ich mir vorstellen das es nicht ganz einfach sein wird einen Dämonen habhaft zu werden der vorher nicht einmal sein eigenes Reich hatte und daher wahrscheinlich sowieso immer auf der Flucht war. Alles in Allem glaube ich das unsere Mission nur noch schwieriger wird je weiter wir kommen. Aber Eines nach dem Anderen, erst einmal bringen wir dieses Skelett um und schauen dann wie es eventuell weitergehen wird. Bis jetzt hat sich ja immer irgendetwas ergeben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 4, Aufnahme vom 26.10.2021
+  ```
+
+##### #24
+
+* Titel: `Darksiders Genesis - #24 - Tremorhandschuh [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ein neues Werkzeug in unserem Arsenal. Eventuell könnte man es auch als alt bezeichnen, es handelt sich um den Tremorhandschuh, ein Hilfsmittel um die ärgerlichen Rasierklingen aus der Zuckerwatte des Lebens zu entfernen. Eines Tages wird Krieg diesen Handschuh wieder gehabt haben. Bis es soweit ist wird wohl noch ein wenig Zeit vergehen und so richtig kann ich auch nicht sagen wann wir eigentlich sind. Zeit spielt aber wohl eher keine Rolle im großen Schema der Dinge, stehen wir doch als Reiter außerhalb der Ereignisse. Klar, das jetzt und hier bzw. der Auftrag ist natürlich schon wichtig aber es ist schwierig irgendwie zu definieren wie zur allgemeinen Welt stehen. Es ist ja nicht einmal klar ob die Zeit an allen Orten gleich schnell vergeht, es könnte durchaus sein das woanders viel mehr Zeit vergangen ist während wir in der Hölle rumgetanzt sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 4, Aufnahme vom 26.10.2021
+  ```
+
+##### #25
+
+* Titel: `Darksiders Genesis - #25 - Grab des Regenten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Orte die wir bereisen sind, zumindest soweit ich das verstanden habe keine wirklichen Orte, sie sehen vielleicht uralt aus und so als hätte es hier irgendwann einmal Geschichte gegeben, unter Umständen sogar eine Zivilisation die die Gräber und Denkmäler errichtet hat die wir besichtigen. Dem ist aber nicht so. Oder vielleicht auch nicht. Wir wissen das, nachdem die Hölle die Erde erobert hat sich der Planet massiv verändert hat, aus dem zweiten Teil wissen wir das es auch andere Orte gibt die man irgendwie bereisen kann und doch..so richtig hängen alle Plätze nicht miteinander zusammen. Oder doch? Reisen im Darksiders Universum scheint immer eine ziemlich ungenaue Angelegenheit zu sein. Ich glaube das die Gefahr als nicht-Protagonist irgendwo stecken zu bleiben ziemlich hoch sind. Meine aktuelle Theorie ist das der Ort den wir hier durchreisen nur das Figment der Vorstellung ist, vielleicht sogar das Ergebnis kollektiver Vorstellungskraft. Quasi ein Nicht-Ort, ein Platz der zwar stabil wirkt aber am Ende nur eine Bühne darstellt, ein Vehikel um eine Gefühl und eine Vorstellung vorwärts zu treiben, quasi die Fleisch und Stein-gewordene Repräsentation eines Auslegers von Belials-Reich. Das übrigens auch nicht so wirklich riesig ist. Es ist schwierig in Worte zu fassen und für den menschlichen Verstand wahrscheinlich auch gar nicht so klug näher darauf einzugehen. Letztendlich kann man sich wohl an Doom erinnert fühlen, oder Warhammer, jedes genauere Auseinandersetzen mit dem Warp treibt die Menschen in den Wahnsinn.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 5, Aufnahme vom 02.11.2021
+  ```
+
+##### #26
+
+* Titel: `Darksiders Genesis - #26 - Fürstengrab [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe offen und ehrlich zu das ich nicht besonders kreativ bei der Benennung von Episoden von Spielen wie Darksiders bin. Letztendlich ist das Spiel immer noch ein Action RPG und das ohne besonders viel Roleplay, insofern kann man durchaus davon reden das die Handlung recht dünn ist. Ich mag aber Handlung. Und dennoch spiele ich ein Spiel wie dieses. Immerhin gibt es so etwas wie Leveldesign und Kommentare die die Charaktere machen. Ich muss übrigens zugeben das ich das Spiel vor allen Dingen für Streit spiele, der Reiter mit seinem losen Mundwerk hat es mir irgendwie angetan. Entfernt erinnert er zum Beispiel an Deadpool, und wahrscheinlich noch an zwanzig andere Charaktere. Kein innovatives Design und dennoch eines das ich gerne sehe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 5, Aufnahme vom 02.11.2021
+  ```
+
+##### #27
+
+* Titel: `Darksiders Genesis - #27 - Oh verDammt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und der heutige schlechte Wortwitz wird übrigens vom Spiel selber präsentiert. Ich würde mir so etwas auch nie selber ausdenken, dafür mangelt es mir einfach an Kreativität und Kindern. Fakt ist aber das wir heute einen großen Damm sehen in dem anscheinend das Wasser Edens verunreinigt wird. Warum das Ganze, welchen Sinn das ergibt und wie Luzifer überhaupt nach Eden gekommen ist bleibt vollkommen unklar. Auch ist nicht ganz ersichtlich ob sich überhaupt noch etwas aufklären wird. Da ich die Story der Vorgänger aber vergessen habe ist es für mich auch ein wenig schwierig das alles ins Verhältnis und Beziehung zu einander zu setzen. Ich bin mir aber sicher das sich das alles noch ergeben wird, bestimmt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 5, Aufnahme vom 02.11.2021
+  ```
+
+##### #28
+
+* Titel: `Darksiders Genesis - #28 - Kanalisation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Titel ist wieder einmal eine Lüge, wie so oft. Täuschung und halbe Wahrheiten sind das gute Brot des Youtube Stars. Der bin ich zwar noch nicht aber man sagt ja immer man soll sich so Verhalten wie das was man sein will. Also täusche ich. Und zwar mit diesem Titel. Natürlich Lüge ich nicht direkt, das wäre ja illegal, oder irgendwie so. Stattdessen benutzt man moralische Grauzonen und erzählt etwas das in der genausten Auslegung irgendwie als Wahrheit durchgehen könnte aber objektiv und vor allen Dingen im ersten Eindruck definitiv falsch ist. Heute behaupte ich zum Beispiel das wir eine Kanalisation betreten. Das stimmt gar nicht, klar, der Ort erinnert irgendwie daran und rein technisch gesehen erinnert er bestimmt auch sehr daran und einige Funktionen könnten sogar übereinstimmen, aber eigentlich gibt es keine Stadt und wir sehen mehr ein paar Abflussrohre. Dafür aber jede Menge verseuchtes Wasser, das macht unsere Situation ja soviel besser...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 5, Aufnahme vom 02.11.2021
+  ```
+
+##### #29
+
+* Titel: `Darksiders Genesis - #29 - Verderbniskanone [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann, ganz unten im Keller, einen Meter vor der großen Tür die wahrscheinlich zu Belial führt finden wir sie, die Verderbniskanone. Nicht zu verwechseln mit der Partykanone, das ist etwa Anderes. So wie es ausschaut ist dies der Ursprung aller Verzeuchnung in dieser gewaltigen Wasserquelle. Ärgerlicherweise kommen wir anscheinend viel zu spät und so können wir zwar die Kanone aus den Weg räumen und damit auch die Tür zum örtlichen Dämonen öffnen aber nicht mehr verhindern das gewaltige Mengen des Wassers von Eden bereits grüner Schleim sind. Es ist immer wieder ärgerlich wenn man einfach zu spät kommt um jemanden zu retten. Davon einmal abgesehen bemühe ich mich heute wirklich redlich backtracking zu betreiben aber das ist alles nicht so einfach, schon weil es scheinbar neue Wege gibt die mir noch nicht offen stehen. Oder ich stelle mich einfach dämlich an, wer weiß das schon.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 5, Aufnahme vom 02.11.2021
+  ```
+
+##### #30
+
+* Titel: `Darksiders Genesis - #30 - Rache der Flöhe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Normalerweise, und das ist tatsächlich eine große Ausnahme, nehme ich repetitive Aufgabe nicht auf, einfach weil ich nicht glaube das durch mein eher schwaches Play-By-Play Kommentar irgendein Mehrwert entsteht. Andererseits könnten wir die Frage auch ausweiten und damit die Sinnkrise befeuern die ich sowieso habe. Wer guckt sich all das hier an? Letztendlich sind all die Dinge auf die ich soviel Acht gebe eigentlich ziemlich egal, anscheinend scheint es ja niemanden zu interessieren wie gut die Videoqualität ist, ich fürchte sogar das die meisten Leute solche Gameplay Videos eher als passive Berieselung nutzen während sie selber Spiele spielen und allenfalls einmal kurz reinschauen wenn es sich so anhört als würde etwas spannendes geschehen. Wenn wir jetzt eine ausreichend gebildete KI hätten könnten wir quasi jede Menge Speicherplatz sparen in dem man einfach nur die spannenden Teile bebildert und den Rest einfach schwarz lässt. Das wäre bestimmt auch lustig, wie lange es wohl dauern würde bis es jemanden auffällt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 5, Aufnahme vom 02.11.2021
+  ```
+
+##### #31
+
+* Titel: `Darksiders Genesis - #31 - Belial [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neulich haben wir schon den Dämon der Habgier aus dem Leben entfernt, das haben wir übrigens tatsächlich noch zu Ende gebracht, bei Belial lassen wir persönlich wohl Gnade walten, aber dafür laufen die Dinge dann doch irgendwie anders. Generell und überhaupt ist übrigens auch nicht so recht klar wie endgültig der Tod in diesem Universum eigentlich ist. Wir wissen das die Seelen der verstorbenen Menschheit irgendwie noch rumlagen und wenn man irgendwelche Zombies wiederbelebt haben die erstaunlich viel Persönlichkeit wenn man davon ausgeht das ja nichts mehr da sein sollte das physisch die Information gehalten haben könnte. Muss man also vermuten das die Leute, so lange sie nicht weiterverwendet werden wieder in ihren ursprünglichen Körper gezwungen werden und dann als Zombie unterwegs sind? Und ist das bei Dämonen irgendwie anders? Bis hier hat sich da kein mir augenscheinlicher Unterschied ergeben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 5, Aufnahme vom 02.11.2021
+  ```
+
+##### #32
+
+* Titel: `Darksiders Genesis - #32 - Astarte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die meisten Namen die wir in Darksiders so treffen sind ja irgendwie der biblisch-hebräischen Kultur entliehen oder zumindest lose verknüpft. Ich persönlich kannte das Wort Astarte aber in diesem Kontext nicht, wenn ich mich recht entsinne hieß ein Charakter in Divinity Original Sin so aber ansonsten bin ich raus. Was mir allerdings wesentlich mehr im Gedächtnis geblieben ist sind die Astartes aus Warhammer 40000,  die leicht genetisch überzüchteten Krieger des Imperiums der Menschheit, geführt von seiner Herrlichkeit dem Gottimperator (aktuell aber eher Gemüse auf dem goldenen Thron). Die Astarte die wir heute treffen ist auch mehr ein Zombie als alles andere, außerdem kann sie uns nicht leiden und legt es wohl sehr darauf an uns nieder zu ringen, einen Umstand den wir eigentlich nicht zulassen können, es folgt ein längerer Kampf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 6, Aufnahme vom 09.11.2021
+  ```
+
+##### #33
+
+* Titel: `Darksiders Genesis - #33 - Flug durch die Leere [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, wir sind schon wieder zurück in der Heimatbasis und anstatt wieder zurück nach Eden zu gehen um weiter nach dem Ursprung aller Verderbnis zu suchen setzen wir uns noch einmal damit auseinander was es alles in der Leere zu holen gibt. Es ist auch ziemlich erstaunt wenn man bedenkt das in den folgenden Tagen die Leere bzw. die Schlangenlöcher (die ja irgendwie ein Teil der Leere sind) nicht viel mehr als ein erweiterter Ladebildschirm sind. Hier hingehen finden sich sogar Schätze die wir bergen können. Außerdem fällt mir eine neue Möglichkeit ein Rätsel zu überwinden, aber keine Angst, es kommt bestimmt der Fall wo wir dann einfach nicht mehr weiterkommen und alles was ich bis dahin getan habe war dann natürlich auch für den Fuß. Für den Moment allerdings geht es einen entscheidenden Schritt weiter. Ich feire das mal mit ein wenig Zurückhaltung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 6, Aufnahme vom 09.11.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

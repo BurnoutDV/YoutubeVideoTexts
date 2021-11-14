@@ -1460,6 +1460,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #94
+
+* Titel: `KotoR - #94 - Juhanis Geschichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollte ich weiter fliegen, das will ich andauernd, da draußen ist ein quasi unendliches Universum (von dem wir aber trotzdem nichts sehen weil wir immer die gleichen 5 Orte sehen) und unsere Zeit ist wahrscheinlich selbst als Jedi ziemlich beschränkt. Soweit ich das verstanden habe kann die Macht nicht so wirklich das Leben verlängern, vielleicht auch weil das egoistisch wäre und das darf man natürlich nicht. Davon einmal abgesehen gibt es auch nicht allzu viele Gründe auf Tatooine zu bleiben, die Welt ist verdammt sanding und das wir ohne Luftschleuse ein und aussteigen scheint mir ein großes Risiko zu sein.Idealerweise würden wir sogar die Kleidung draußen lassen. Aber dann habe ich angefangen mit unserer lokalen Katzenfrau zu sprechen und mit der Geschichte vergeht dann schon einmal ein halber Tag.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 15, Aufnahme vom 13.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

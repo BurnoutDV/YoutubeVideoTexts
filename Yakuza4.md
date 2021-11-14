@@ -164,6 +164,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #11
+
+* Titel: `Yakuza 4 Remastered - #11 - Hostess Expertise II [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon geht auch die zweite Runde los, wer hätte auch gedacht das ein längeres Gespräch mit jungen, attraktiven Frauen länger dauern würde. Ich hätte das gedacht. Schon weil wir genau das bereits in der Vergangenheit getan haben. Ziemlich oft, bisher habe ich die Nebenmissionen oder die Möglichkeit das es irgendwo hin geht bisher ignoriert. Eventuell ist Yakuza 4 die Ausgabe des Spieles in dem ich mich tatsächlich ein wenig mehr mit dem Thema auseinander setze, das hängt aber auch davon ab wie teuer die ganze Geschichte wird. Für den Moment waren die beiden Besuche in den Clubs schon ziemlich teuer und haben wahre Löcher in meinen Finanzen gelassen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 08.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

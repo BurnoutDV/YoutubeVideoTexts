@@ -498,6 +498,21 @@
   Sitzung 6, Aufnahme vom 09.11.2021
   ```
 
+##### #35
+
+* Titel: `Darksiders Genesis - #35 - Edens Wasserfälle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen uns mittlerweile excellent mit Wasser aus, als wir damals in der Kanalisation der großen Nekropolis den Wasserhahn abgestellt haben ging es auch sehr viel um Wasser. Es gab allerdings einen gewissen Belial der sich sehr bemüht hat die dortigen Wasservorräte zu verseuchen. Außerdem bietet uns der Wasserfall etwas was ich immer wieder aufs Neue erwarte: Schätze dahinter. Für jedes Spiel in dem es nicht so ist habe ich auch nur Verachtung übrig. Davon einmal abgesehen sind Höhlen unter Wasserfällen ziemlich unwahrscheinlich und wahrscheinlich ziemlich schwierig zu erreichen. Man darf nicht vergessen das es durchaus möglich ist unter einem Wasserfall zu ertrinken ohne das man jemals richtig schwimmen kann. Eine ziemlich ärgerliche Angelegenheit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 6, Aufnahme vom 09.11.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

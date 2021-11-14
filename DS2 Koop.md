@@ -171,6 +171,23 @@ Aufnahme vom 13.08.2021
   Sitzung 6, Aufnahme vom 09.11.2021
   ```
 
+##### #9
+
+* Titel: `Dark Souls 2 Koop - #9 - Verlorene Festung [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Als ich meinte das wir im Erntetal große Fortschritte machen wusste ich natürlich schon das wir nicht weiter in die Irdenspitze vordringen würden, einfach weil es uns nur darum ging den Eide der Sonnenlichtkrieger beizutreten und dann woanders hinzugehen. Dieses woanders ist übrigens die verlorene Festung, ein Ort auf dem ich mich schon sehr freue weil ich weiß das dort, irgendwo im Keller, das Grasschild liegt das alle meine Ausdauerprobleme in der Zukunft lösen wird. Bis es aber soweit ist müssen wir uns noch ein wenig durchkämpfen, insbesondere weil es da ein gewisses Zufallsereignis gibt das noch passieren muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 13.08.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

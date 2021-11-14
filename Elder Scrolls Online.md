@@ -5421,6 +5421,25 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1583
+
+* Titel: `Let's Play ESO #1583 - Trägersruh [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 8 des Totenländer DLC - Sitzung 2
+  
+  Eigentlich sind wir heute nicht besonders lange in Trägersruh, so heißt nämlich die örtliche Herberge aber eine andere Sache ist mir einfach nicht aufgefallen die diese Episode zusammen fasst. Die gute Nachricht ist aber das wir theoretisch gesehen die ganze Zeit nach Trägersruh gehen wollen es bloß ein wenig länger dauert und wir dann auf dem Weg dorthin wieder jede Menge Ablenkung finden. Zwischendurch lesen wir sogar ein Buch, und damit meine ich das ich ein Buch lese. Solche Dinge tue ich. Die Taverne selbst ist übrigens nach der letzten Ruhestätte derjenigen Viecher benannt die angeblich früher einmal Ferngrab durch die Leere getragen haben. Wir auch immer sie das bewerkstelligt haben. Außerdem kann ich dort meine Quest abgegeben was wiederum bedeutet das ich jetzt "Freizeit" habe um mich mit Nebenmissionen zu beschäftigen.
+  
+  0:00 - Gameplay
+  9:47 - BUCH: Leitfaden für den Besuch der Bruchgassen
+  13:24 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

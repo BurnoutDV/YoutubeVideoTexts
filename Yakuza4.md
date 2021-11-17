@@ -179,6 +179,66 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #12
+
+* Titel: `Yakuza 4 Remastered - #12 - Über 7 Dächer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute fliehen wir, die 7 Dächer haben übrigens auch sowas wie 7 Brücken, auch wenn wir nicht alle davon nutzen. Generell und überhaupt ist das Konzept das es jetzt alternative Wege von einem Ort zum anderen gibt ziemlich interessant, wenn man so effektiv Schlägern aus dem Weg gehen könnte wäre das schon irgendwie schön. Leider fürchte ich das die Mechanik nur in Zwischensequenzen quasi  erzwungen genutzt werden kann. Und weil ich das vermute werde ich sie auch nie anders nutzen und damit herumprobieren. Immerhin zeigt uns der gute Akiyama heute mal wieder das er ein ziemlich krasser Kerl ist. Was ich übrigens nicht verstehe wie es dazu kommen konnte, weil in der Vergangenheit war der Mann Obdachlos, wie ist also so eine Naturgewalt von Mann aus dem doch noch relativ jungen Japaner geworden?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 08.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #13
+
+* Titel: `Yakuza 4 Remastered - #13 - Zuspitzung der Lage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bisher habe ich die Hauptmission ja ein wenig ignoriert, dann bin ich ein wenig mit Akiyama über irgendwelche Dächer gelaufen und schon haben wir auf einmal die gesamte japanische Mafia an unseren Fersen, stellt sich doch glatt heraus das der Typ der unlängst erschossen wurde anscheinend unlängst befördert wurde. Interessant ist übrigens auch das er davon nichts erwähnt hat, es fühlt sich sogar ein wenig so an als wäre das etwas das sich die Uno Seiwa im Nachhinein überlegt haben um ein wenig Druck auszuüben. Aber all das spielt dann wohl auch keine Rolle für Akiyama der ja relativ unten in der ganzen Geschichte mit drin hängt. Klar ist aber, jetzt kommt langsam Lebens in das Ganze.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 08.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #14
+
+* Titel: `Yakuza 4 Remastered - #14 - Lilys erster Tag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wollen Geld verleihen, damit wir das tun können muss sich die Person die sich das Geld schnappen will gewisse Anforderungen bestehen. Im Fall von Lily bedeutet das wohl in einem Hostess Club zu arbeiten. Ich bin mir nicht ganz sicher wie Hostessen gesellschaftlich gesehen werden insbesondere weil der Begriff in Europa eventuell ein wenig anders funktioniert als in Japan. Durch Jugenschutzbedenken habe ich bisher noch keine Erwähnung von echten Bordellen gesehen und es könnte durchaus sein das die ganzen Hostess Clubs in Wirklichkeit eine Art Stand-In für Bordelle sind. das würde die ganze Prüfung für Lily ein wenig bedeutsamer erscheinen lassen. Wie dem aber auch sei, was wir sehen ist ihr erster Tag im Hostess Club, eine Arbeit die sie ganz gut zu erledigen scheint. Ebenfalls recht interessant.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 08.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #15
+
+* Titel: `Yakuza 4 Remastered - #15 - 30 Millionen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir verleihen in unserer Person Akiyama jede Menge Geld, in der Regel ohne Zinsen und Sicherheiten, das sorgt dafür das ziemlich viele Leute eben jenes Angebot ausnutzen wollen. In der Regel nutzt der gute Mann dann den Hebel den er durch das Geld aus um den Charakter von Leuten zu verändern. Es stellt sich natürlich die Frage aus welchen moralischen Höhen heraus Shun hier operiert, weil das benötigt schon ziemlich gute Einsichten in die menschliche Psyche um in der Lage zu sein solche Entscheidungen einfach zu fällen. Manchmal sind die Fälle aber nicht so ganz klar und die Anfrage einer Person erscheint realistisch und könnte dennoch eine Täuschung sein, dann muss man sicherer gehen und sogar ein Stück mitspielen, und das passiert heute, wir leihen die kleine Summe von 30 Millionen Yen, ein Schnapper quasi.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 15.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

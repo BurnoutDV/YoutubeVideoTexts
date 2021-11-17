@@ -1476,6 +1476,58 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #95
+
+* Titel: `KotoR - #95 - Nayama und Hortath [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist Zeit für eine weitere Geschichtsstunde, wir fragen den alten Mann noch einmal was er irgendwann einmal erlebt hat. Er erzählt uns natürlich wieder einmal etwas irgendwelchen Anekdoten die wir nach Weisheit durchleuchten sollen. Dann wird er aber noch überraschend persönlich und spuckt endlich aus was damals mit seiner Frau passiert ist. Die ganze Geschichte ist dann doch langweiliger als gedacht, oder aber doch ganz spannend weil er ja eigentlich als Erstes dran war. Worauf ich mich beziehe? Nun das er quasi die älteste Geschichte der Welt erzählt. Die Frau/Mädchen/Partnerin gehört natürlich dem bösen bösen Feind an, das sie damit erst später angefangen hat macht da eigentlich auch keinen Unterschied mehr. Und das ist ja nun wirklich keine neue Geschichte, das Ende war wie zu erwarten tragisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 15, Aufnahme vom 13.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #96
+
+* Titel: `KotoR - #96 - Darth Bandon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Böse hat immer mehr Personal, wenn auf unserer Seite jemand fallen würde hätten wir ernsthafte Personallücken. Die Sith hingegen haben anscheinend einen nie abreißenden Strom an Schlägern die uns jederzeit und überall im Universum auflauern können. Generell und überhaupt frage ich mich übrigens was unser guter Darth Malak eigentlich den ganzen Tag macht. Er erscheint mir nicht besonders beschäftigt, warum setzt er uns nicht mit einer kleinen Flotte nach und stellt sich er das wir untergehen. Das setzte natürlich vor raus das wir wirklich aufgehalten werden sollen. Für den Moment sieht es ja eher so aus als wären die Truppen die in unsere grobe Richtung geschickt wurden eher rudimentär gewesen. Darth Badon wird zum Beispiel von unserem B-Team niedergeschossen. Klar, ich habe dafür einige Granaten werfen müssen und es war nicht ganz einfach, andererseits klappte es sogar beim ersten Versuch. Das spricht nicht für ihn.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 15, Aufnahme vom 13.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

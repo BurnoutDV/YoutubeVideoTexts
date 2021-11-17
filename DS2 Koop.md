@@ -188,6 +188,98 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 13.08.2021
   ```
 
+##### #10
+
+* Titel: `Dark Souls 2 Koop - #10 - Innenhöfe [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Um das hier klar zu stellen, wir reden von den Innenhöfen der verlorenen Festung, es gibt auch noch andere Orte die zumindest etwas haben das man durchaus als Innenhöfe bezeichnen können. Aber hier gibt es jetzt halt auch irgendwelche, technisch gesehen laufen wir auch noch durch einige Barracken und andere Bauwerke die dann nach oben führen. Generell und überhaupt überzeugt mich der Grundriss der Festung aber nicht so besonders, ich glaube nicht das er besonders viel Sinn ergibt. Natürlich lasse ich mich auch hier gerne belehren, Kommentare sind immer gerne gesehen.
+  
+  0:00 - verlorene Festung
+  19:00 - Innenhöfe
+  38:20 - Straits Zelle
+  51:10 - Majula
+  54:50 - verlorene Festung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 13.08.2021
+  ```
+
+##### #11
+
+* Titel: `Dark Souls 2 Koop - #11 - Sünderhügel [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Im Sünderhügel wohnt die Sünderin. So richtig wissen wir übrigens nicht was die Sünderin verbrochen hat, ich glaube es steht irgendwo kryptisch in diversen Texten, aber da sie offensichtlich untot ist und jetzt schon ziemlich lange unten im Keller rum wohnt würde ich einmal vermuten das das ursprüngliche Strafmaß bereits bei Weitem überschritten ist. Andererseits wissen wir auch nicht welche Art von Rechtssystem das Königreich Drangleic verfolgt, ich gehe aber einmal davon aus das es kein gerechtes System ist wenn man mittelmäßig faire Maßstäbe anlegt.
+  
+  0:00 - BOSS: Ruinenwächter
+  19:55 - Dienstbotenquartiere
+  37:20 - Sünderhügel
+  53:40 - BOSS: die verlorene Sünderin
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 13.08.2021
+  ```
+
+##### #12
+
+* Titel: `Dark Souls 2 Koop - #12 - Mondturm [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Es gibt zwei schöne Glockentürme die nicht besonders zusammenliegen. Generell und überhaupt weiß ich nicht wie die eigentlichen Orte eigentlich auf einer größeren Landkarte zusammen liegen, es gibt bestimmt irgendwie eine, zum Beispiel im Keller des Anwesens, so sehr genau ist diese allerdings nicht. Der Mondturm ist, wie bereits erwähnt, halt ein Glockenturm, darin bewahrt man Glocken auf und kleine Menschleins die uns anscheinend davon abhalten wollen das Dach zu erreichen. Das beinhaltet leider aber auch andere Spieler die mir das Leben schwer machen. Außerdem entsteinern wir heute Rosebeth, wenn wir Pyromantie erlernen wollten wäre das wohl unsere große Gelegenheit. Wollen wir also nicht, immerhin können wir sie als Modepuppe ausnutzen. Auch was.
+  
+  0:00 - Das Dazwischen
+  16:50 - Rosabeth
+  26:50 - Mondturm
+  44:15 - BOSS: Turm Gargoyles
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.08.2021
+  ```
+
+##### #13
+
+* Titel: `Dark Souls 2 Koop - #13 - Irdenspitze [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Hab ich schon erwähnt das unsere Reise schnell vor ran geht? Vor einer Stunde waren wir noch auf dem Sünderhügel und jetzt sind wir schon wieder im Erntetal bzw. auf der Irdenspitze. Einen Ort den ich übrigens sehr hasse. Das liegt nicht nur daran das alles voller Gift ist sondern auch weil die ganze Bude von innen hohl ist und die Sicherheitsvorschriften bestenfalls eine gut gemeinte Idee waren und dann die Chaoten vollständig übernommen haben. Aber wahrscheinlich stehen die meisten untoten Arbeiter nach einiger Zeit wieder auf wenn sie runter fallen. Wenn man dann genügend Personal hat ist die Höhe auch kein echtes Problem mehr. Oder aber man bewegt sich einfach so gut wie gar nicht und wartet einfach nur ab bis die Leute die hier zu Besuch kommen von selbst herankommen..um zuzusehen wie sie in die Tiefe stürzen.
+  
+  0:00 - Gameplay
+  15:00 - Irdenspitze, oben
+  28:00 - Gillegan
+  42:10 - BOSS: Mytha, die Unheilskönigin
+  43:45 - obere Irdenspitze
+  48:30 - Leiterbauer Gillegan
+  56:25 - BOSS: Mythe, die Unheilskönigin
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.08.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

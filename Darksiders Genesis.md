@@ -513,6 +513,66 @@
   Sitzung 6, Aufnahme vom 09.11.2021
   ```
 
+##### #36
+
+* Titel: `Darksiders Genesis - #36 - Grinser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Generell und überhaupt wird wahrscheinlich zu wenig gelächelt. Warum schreibe ich das? Weil wir heute einen Dämonen mit dem schönen Namen "Grinser" besiegen. Der korrumpiert anscheinend die örtlichen Engel, wie genau er das macht ist nicht ganz klar aber er ist wohl schon recht mächtig. Es geht allerdings nicht hervor was genau er ist oder wie er das tut. Hat er Hilfe durch ein Artefakt oder hat dieser spezielle Dämon Macht verliehen gekriegt? Wichtig ist eigentlich nur die Seele die er dropt, die sorgt nämlich dafür das wir ihn noch ein paar umhauen müssen. Zurück zum Lächeln, ich weiß von mir selbst das ich die meiste Zeit dumm dastehe und einen eher nicht-lächelnden Mund machen. Das sieht man auch in den Spielen, wenn ich nicht grade über den Chat lache, ich entschuldige mich mal dafür. Einfach so, hier mitten drin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 6, Aufnahme vom 09.11.2021
+  ```
+
+##### #37
+
+* Titel: `Darksiders Genesis - #37 - Minispiele [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit unseren neuen Werkzeug, dem Ätherfunken können wir jetzt endlich richtig toll den heißen Draht spielen. Das ist insofern spaßig als das die Rätsel in der Leere immer eine besondere Schwierigkeit haben und nicht so leicht wie die die wir machen müssen. Natürlich mache ich es mir sogar noch schwieriger als es eigentlich sein sollte weil ich nicht verstehe das ich durch Quadrate durchfliegen kann. Aber immer wieder schön wenn solche Minispiele zur abendfüllenden Veranstaltung werden. Und am Ende lauert eine Tür für die ich bei Weitem nicht genügend Schlüssel habe, ebenfalls großartig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 6, Aufnahme vom 09.11.2021
+  ```
+
+##### #38
+
+* Titel: `Darksiders Genesis - #38 - Tal des Regens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal regnet es ganz doll viel. Tatsächlich ist so richtig starker Regen da wo ich wohne eher selten, das wird wahrscheinlich irgendwie mit der geografischen Lage zusammenhängen. Die größten Regenfälle habe ich bisher immer irgendwo anders gesehen. Ich mag Regen, solange ich nicht raus muss und ich mir die Katastrophe von oben von irgendwo angucken kann wo es trocken ist anschauen. Wenn es zu viel regnet bleibt einen auch nicht viel Anderes übrig als die Geschichte abzuwarten..es sei denn, man kann den örtlichen Regenpriester ausschalten, dann hört es auch auf. Wenn es nur immer so einfach ist. Welchen ökoloschen Schaden wohl so ein Regenpriester in der Welt anrichtet wenn er ein wenig länger aktiv ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 6, Aufnahme vom 09.11.2021
+  ```
+
+##### #39
+
+* Titel: `Darksiders Genesis - #39 - der Sturmrufer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ziemlich viel Zeit im Tal des Regens verbracht. Das lag unter anderem daran das es noch ein paar versteckte Rätsel gab die ich nicht sofort verstanden habe. Ich bin eigentlich ziemlich glücklich wenn ich alles in einem Gebiet lösen kann. Allerdings dauert das manchmal so lange das ich mich frage ob es das wirklich wert ist. Ist es interessant zu sehen wie ich immer wieder im Kreis laufe bis ich verstanden habe wie etwas funktioniert? Wie ich Stück für Stück ein Rätsel löse? Am Ende läuft es aber darauf hinaus das ich natürlich alles schaffe und wir das tun wofür wir eigentlich gekommen sind, der Sturmrufer! Der ist allerdings ein wenig enttäuschend in seiner Gesamtaufmachung weil er schon ziemlich schnell verstirbt und dann passiert halt einfach nichts mehr. Kurzer Bosskampf und wir sind wieder in der Leere.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 7, Aufnahme vom 16.11.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

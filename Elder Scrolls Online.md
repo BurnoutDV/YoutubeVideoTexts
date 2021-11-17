@@ -5440,6 +5440,76 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1584
+
+* Titel: `Let's Play ESO #1584 - geplünderte Pläne [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 9 des Totenländer DLC - Sitzung 2
+  
+  Manchmal sind die Missionen in Elder Scrolls Online ein wenig komisch benannt. Heute zum Beispiel verfolgen wir die Diebe von dem Zeug das anscheinend dafür sorgt das man nicht einfach in Ferngrab stirbt nur weil man keine Lust hat einen Pakt mit irgendeinen Daedra einzugehen. Rotjungfer ist angeblich ein sehr seltener und schwer herzustellender Stoff. Wir kennen aber keine Details. Generell und überhaupt kommt mir die Gesamtsituation aber ein wenig unwahrscheinlich vor. Wenn es soviel Bedarf an dem guten Stoff gibt dann sollte es doch bestimmt auch eine Möglichkeit geben ihn in größeren Mengen herzustellen. Wir sind also im Auftrag des Griffs unterwegs, man darf aber nicht vergessen das Recht und Gerechtigkeit nicht das Gleiche sind. Und der Griff kümmert sich nur um die Einhaltung des Gesetzes. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1585
+
+* Titel: `Let's Play ESO #1585 - Spoilanten der Aurbis [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 10 des Totenländer DLC - Sitzung 2
+  
+  Es gibt natürlich wieder tägliche Aufgaben in Ferngrab. Wenn man jeden Tag alle täglichen Aufgaben machen wollte gäbe es auf jeden Fall eine Menge zu tun. Heute beschäftigen wir uns aber nur mit einem einzigen Auftraggeber, den der Spoilanten der Aurbis, als "Spoils" beschreibt man auch gerne die Beute die in kriegerischen Konflikten heraus kommt. Oder aber auch nur generelle Schätze. Wir haben es also mit einer Vereinigung von Dieben und Plünderern zu tun die sich aber wohl in der Regel aus den direkten kämpferischen Begegnungen heraushalten. Ihr Gründer ist übrigens auch eine ziemlich interessante Persönlichkeit und ich darf mich wohl sehr glücklich schätzen das unsere erste Mission direkt mit ihm zu tun hat und uns ein paar Dinge erklärt werden. Schön.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1586
+
+* Titel: `Let's Play ESO #1586 - Heimliche Mitteilung [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 11 des Totenländer DLC - Sitzung 2
+  
+  Und wir sind wieder zurück in den Totenlanden, heute bemerke ich dann auch noch das die beiden Portale die auf dem Platz der Portale stehen wohl in die gleichen Totenlande führen. Das ist auch irgendwie logisch, es gibt ja nur eine Instanz der Totenlande, wie die einzelnen Regionen beieinander liegen ist mir nicht unbedingt bewusst aber ich gehe einmal davon aus das es so etwas wie eine Logik gibt weil man offensichtlich Handel mit einigen Dremora und Kyn Fürsten haben kann und diese Handelsrouten sind halt in der Lage von einem Ort zum Anderen zu reisen. Unabhängig davon steht uns nur ein sehr beschränktes Gebiet der Totenländer zur Verfügung, und an einem dieser Orte hinterlegen wir heute Briefe. Wer auch immer diese dann am Ende lesen soll.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1587
+
+* Titel: `Let's Play ESO #1587 - Saraathu Tong [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 12 des Totenländer DLC - Sitzung 2
+  
+  Das Schöne an verbannten und gefallenen Häusern bzw. Magiern ist das man sie immer noch im Nachhinein einfügen kann und niemand stört sich daran. Weil es ist ganz einfach, niemand hat die Leute vorher erwähnt weil sie ja verbannt waren und dazu zählt halt auch das man ihren Namen nicht mehr nennt. Quasi auch eine Verbannung im Geiste, das Gegenteil gibt es auch immer wieder, die Verbrechen von XZ waren so groß das man sich ihrer Fehler bis auf alle Ewigkeit gedenkt, aber das ist halt dann eher schlecht in Geschichten. Weil das eröffnet Fragen. Wie dem auch sei, wir haben drei große Mitspieler hier in Ferngrab neben den eigentlichen Dremora. Die Spoilanten, das Haus Hexos und die Saraathu Tong, alle drei scheinen ihre eigene Methodik zu haben und ein bisschen unaufrichtig sind sie wohl alle. Heute arbeiten wir für die letzteren und erfahren ein wenig mehr von ihren Methodiken.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

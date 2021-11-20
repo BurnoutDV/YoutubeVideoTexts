@@ -7,7 +7,7 @@
 * Beschreibung:
 
   ```markdown
-  Hier
+  Hier	
   ```
 
 ##### #625
@@ -5500,14 +5500,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1588
 
-* Titel: ``
+* Titel: `Let's Play ESO #1588 - Hexos Auktion [Deadlands]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 13 des Totenländer DLC - Sitzung 2
+  
+  Wo es Menschen gibt da gibt es auch Gier, wo es Gier gibt da sind auch andere Leute die sich genau das zu Nutzen machen. Das Haus Hexos versteigert zum Beispiel daedrische Artefakte, also auch die ganz großen. Von denen gibt es in der Welt nicht allzu viele weil die meisten von ihnen irgendwie mit den großen Fürsten verbunden sind und es gibt halt einfach nicht all zu viele Fürsten. Generell und überhaupt habe ich es so verstanden das die Artefakte verschwinden wenn man ihnen nicht mehr würdig ist. Es ist nicht so das man das Artefakt des Gottes der Diebe wirklich klauen kann. Klar kann man Dinge an sich nehmen aber lange behält man sie nicht. Ich sehe es so das die Waffen und Ausrüstungen die von den Fürsten gesegnet sind eigentlich Teile ihrer Essenz sind, und als solche kann man da wahrscheinlich wenig machen um sie zu verstecken. Umso erstaunlicher finde ich das man hier behauptet das heute das legendäre Schwert von Mephala offeriert wird. Findet übrigens auch Divath Fyr der es gerne käuflich erwerben würde.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1589
+
+* Titel: `Let's Play ESO #1589 - Netz der Lügen [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 14 des Totenländer DLC - Sitzung 2
+  
+  Mephala ist eine große Bedrohung für die Welt der Sterblichen. Als Daedra der Lügen ist sie durchaus in der Lage alle möglichen Leute dazu zu beeinflussen Nirn den Untergang zu weihen. Mir ist ehrlich gesagt bereits schon wieder entfleucht das es überhaupt eine legendäre Klinge gab die speziell der Daedra geweiht war. Mittlerweile wissen wir ja auch das die Waffe die uns vorliegt allerdings eine Fälschung ist. Nicht überraschend wenn man davon ausgeht das das Original wahrscheinlich nur den treusten Dienern zur Verfügung steht. Die nachgemachte Kopie wird wahrscheinlich nicht so effektiv sein wie das ursprüngliche Objekt allerdings frage ich mich schon ob es sich dennoch um eine gute Waffe handeln würde oder ob es sich hier wieder so verhält das daedrische Waffen eigentlich aus unmöglichen Materialien bestehen und daher eher nicht geeignet sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
 ##### #Nummer

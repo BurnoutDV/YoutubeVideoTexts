@@ -1508,24 +1508,68 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
-##### #Nummer
+##### #97
 
-* Titel: ``
+* Titel: `KotoR - #97 - Landung auf Yavin [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir haben das Raumschiff eines Tauschhändlers gestohlen, da dieser sehr kurz davor gestorben ist gab es quasi absolut keine Zeit in der er hätte irgendwelche Daten löschen können noch hatte er dafür irgendwelche Veranlassung. Das bedeutet aber auch das wir Zugriff auf all die Daten haben die er einst besessen und im Schiff gespeichert hat. Dazu zählt anscheinend auch die Koordinate einer Raumstation über Yavin IV, einen Planeten auf dem anscheinend der uralte und mächtige Exar Kun vor einigen Jahren große Probleme gemacht hat. Dies ist aber lange vorbei und die eigentlichen Planeten sind wohl ziemlich unbewohnbar. Schätze finden sich aber dennoch dort, wir können leider nicht dahin. Was wir allerdings treffen ist einen lustigen Kerl den ich einfach mal als Vorgänger für Mordin Solus sehe, einen Wissenschaftler der sein Ding tut. Es handelt sich um Suvam Tan, Tüftler und vor allen Dingen begabter Pazaak Spieler. Wir sind leider nicht so begabt haben aber die Macht hinter uns und viel wichtiger, die Quicksave-Taste.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 15, Aufnahme vom 13.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
-##### #Nummer
+##### #98
 
-* Titel: ``
+* Titel: `KotoR - #98 - Suvam Tan [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich habe ihn in der letzten Episode bereits angekündigt aber heute beschäftigen wir uns noch ein wenig Intensiver mit diesem Alien das einsam auf einer Raumstation weit im Orbit der Sonne Yavin Prime schwebt. Auf der Station finden sich diverse Artefakte ehemaliger mächtiger Krieger die irgendwann einmal im System gefallen waren. Glücksritter haben die gefallenen Körper geborgen und zu Suvam gebracht. Der nutzt dann seine Fähigkeiten um etwas Neues zu erschaffen. Eventuell ist er auch hier in der Einsamkeit weil er ein ganz schlimmer Spieler ist und mit all der Verlockung sonst nicht umgehen kann. Im Weltraum kann er immerhin alleine arbeiten. Wir wissen übrigens nicht einmal ob er überhaupt ein Raumschiff hat mit dem er selbstständig das System verlassen könnte. Wie dem aber auch sei, leider sind seine Preise ein wenig hoch, daher gehen wir heute in besondere Verhandlungen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 15, Aufnahme vom 13.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #99
+
+* Titel: `KotoR - #99 - Shuttle zur nächsten Idee [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind heute noch einmal ganz schnell auf Tatooine, weil dort wartet ja immer noch Griff auf uns den wir zusammen mit dem Tach-Teil ein völlig neues Leben verhelfen können. Der junge T'wilek hat uns ja quasi versprochen das es enorme Renditen gibt und seine Idee einfach nur großartig sind. Ich frage mich warum ein so genialer Geschäftsmann wie Griff bisher eigentlich Probleme haben konnte, seine Idee klingen doch gut oder? Aber selbst wenn Nichts herum kommt hat er bestimmt schon die nächste Idee, allerdings bezweifle ich auch das ein Ideengeber wie Griff sich lange an einen Ort aufhält, ein Genie seines Kalibers würde sich doch bestimmt nicht durch eine Örtlichkeit einschränken lassen. Wie schade das er kein eigenes Schiff hat, hätte er mich doch nur gefragt hätte ich doch gerne mein Vehikel für den Visionär aufgegeben, Mission hätte mir bestimmt recht gegeben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 15, Aufnahme vom 13.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #100
+
+* Titel: `KotoR - #100 - Landung auf Manaan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute landen wir in der Schweiz. Das erklärt sich zwar erst in der nächste Episode aber ich nehme es schon einmal vorweg. Auf Manaan wohnen die Fischmenschen, die findet man in der Regel eigentlich nur im Ozean aber freundlicherweise haben sie eine Siedlung auf der Oberfläche des Meeres errichtet damit andere Völker handeln treiben können. Die Fischmenschen, Selkath genannt, können übrigens auch ohne Problem ohne Wasser leben und ich habe festgelegt das es sich um Schweizer handelt, einfach weil sie Geld lieben und eher neutral bleiben wollen. Die Sachlage ist nämlich so das es sich um einen neutralen Handelsposten handelt auf dem sich Sith und Republik direkt treffen und natürlich hin und her intrigieren um dennoch irgendwie dem Anderen zu schaden. Letztendlich geht es übrigens um ein Heilmittel. Das Medikament verlängert aktiv den Krieg. Rein humanitär müsste mal wohl sagen das es logisch wäre den Planeten einfach zu sprengen um das Leiden zu verkürzen. Schade natürlich um die Leute die das Kolto brauchen um Dinge zu heilen die nichts mit dem Krieg zu tun haben, wann wohl das Bacta erfunden wird?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 15, Aufnahme vom 13.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
 ##### #Nummer

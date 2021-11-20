@@ -280,6 +280,51 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 15.08.2021
   ```
 
+##### #14
+
+* Titel: `Dark Souls 2 Koop - #14 - Eisenschloss [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  An das Eisenschloss kann ich mich noch mit am Meisten erinnern. Das liegt unter Anderen daran das ich hier sehr oft gestorben bin, damals insbesondere an den diversen nervigen Alonne Rittern die hier herumliefen und mir den Weg zum Schmelzer-Dämonen versperrt haben. Wenn man hier nicht alleine unterwegs ist und jemanden hat der den Rücken deckt geht aber alles ein wenig schneller über die Bühne. Es ist nicht so das wir den Boss direkt rushen oder einfach nur durchlaufen, unser Stil ist schon immer noch langsam. Aber es ist schon ziemlich überlegt und im Großen und Ganzen kann man uns wohl zusprechen das wir hier gut durchkommen auch wenn ich es wieder bin der  sich anstellt.
+  
+  0:00 - Majula
+  8:30 - Eisenschloss
+  44:10 - Schmelzer-Dämon
+  54:50 - Majula
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.08.2021
+  ```
+
+##### #15
+
+* Titel: `Dark Souls 2 Koop - #15 - Schmelzer-Verfolger [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Der eigentliche Schmelzer Dämon war dann doch gar nicht so schwer wie ich ihn in Erinnerung hatte, das lag aber eventuell daran das wir halt zu Zweit waren. Nicht immer kann man immer alles zusammen machen, das liegt wohl leider daran das Dark Souls 2 nicht auf gemeinsames Durchspielen ausgelegt ist. Wäre es so wäre es bestimmt auch wesentlich schwerer. Das führt uns jetzt also dazu das ich noch etwas alleine machen darf, es handelt sich natürlich mal wieder um den alten Verfolger, wer auch sonst. Ich liebe ja diesen Art von Gegner, insbesondere die Tatsache das man seine Menschlichkeit verliert wenn man nicht aufpasst. Und das ich eventuell nicht so besonders gut in diesem Spiel bin hilft mir auch nicht.
+  
+  0:00 - Eisenschloss
+  7:25 - Schmelzer-Dämon
+  10:20 - Schmelzer-Verfolger
+  24:20 - Irdenspitze
+  28:10 - Lavakammern
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.08.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

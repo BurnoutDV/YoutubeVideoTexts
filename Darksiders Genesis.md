@@ -573,6 +573,21 @@
   Sitzung 7, Aufnahme vom 16.11.2021
   ```
 
+##### #40
+
+* Titel: `Darksiders Genesis - #40 - Dagon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir beschäftigen uns heute mit einem mächtigen Dämonen der Fluten und des Wassers. Wenn wir übrigens wirklich sterben würden wenn unser Held kein Leben mehr hatte wäre ich durchaus in den diversen Bosskämpfen schon einmal gestorben, manchmal kommt ja doch eine überraschende Menge an Schaden durch. Gegen unseren guten Freund Dagon passiert das auch, er ist übrigens ein großer Tentakelfried und wird stärker durch die Anzahl an Wasser in seiner Nähe. Gegen das sonstige Wasser habe ich schon eine Menge getan aber stark ist er immer noch, natürlich nicht stark genug. Ein Reiter des Rates versagt nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 7, Aufnahme vom 16.11.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

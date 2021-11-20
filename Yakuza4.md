@@ -239,6 +239,51 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #16
+
+* Titel: `Yakuza 4 Remastered - #16 - Geldbad [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man versuchen würde wie Dagobert Duck in Goldtalern zu Baden würde das nicht besonders gut funktioniert. Es ist nun mal so das Goldmünzen schon ziemlich schwer sind und selbst in den Comics wird angemerkt das nur Dagobert das so richtig kann. Jetzt frage ich mich natürlich ob man eventuell in dünnen Aluminiummünzen schwimmen könnte, aber wahrscheinlich würde man dann nur ertrinken bzw. einsinken wie in Treibsand und dann verhungern. Wie dem aber auch sei, heute geht es um Geldscheine, in denen kann man theoretisch auch schwimmen, das würde ich aber nicht tun. Geldscheine sind extra darauf ausgelegt möglichst haltbar zu sein. Das bedeutet aber auch das die Dinger am Ende ihrer Lebenszeit gut dreckig sind. Also Nichts in dem man sich nackt reinlegen will.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 15.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #17
+
+* Titel: `Yakuza 4 Remastered - #17 - Geschäftsentscheidungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Unternehmen zu führen ist nicht so einfach, ich könnte es wahrscheinlich nicht. Eventuell wäre ich aber auch gut darin. Wahrscheinlich eher doch nicht. Ein Unternehmen ist in der Regel Profitorientiert, das bedeutet aber auch schwere Entscheidungen zu treffen. Schwere Entscheidung sind oft auch damit verbunden irgendwelche Leute zu entlassen oder Entscheidungen zu fällen die vielleicht für eine größere Gruppe gut sind aber für kleinere Familien oder Personenkreise eher nicht so gut sind. Akiyama hat dies zur Lektion des Tages gemacht.Wir haben sogar direkt zwei Geschäftsmänner die dies allerdings noch lernen müssen, auch wenn beide unterschiedliche Lektionen daraus gelernt haben. Zeit für einen neuen Schluss.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 15.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #41
+
+* Titel: `Darksiders Genesis - #41 - die rote Öde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder in der Wüste. Das war irgendwie abzusehen oder? Bis auf nukleare verseuchte Ödnis haben wir jetzt eigentlich auch jede Art von "Wüste" gesehen die neben der klassischen Sand&Stein Variante möglich ist. Also sind wir jetzt beim Thema Farbvariation. Heute nehmen wir also orange-rot. Es handelt sich übrigens technisch gesehen um eine Mine in der unser nächstes Ziel Moloch spezielle Waffen aushebt. Warum auf die Idee vorher kein anderer dämonischer Fürst gekommen ist ist mir übrigens nicht besonders klar. Generell und überhaupt scheint der Konflikt der einzelnen Machthaber in der Hölle schon seit sehr langer Zeit zu schwelen und wahrscheinlich ist dieser auch schon oft heiß geworden. Warum also wird es jetzt die Technik entdeckt? Oder generell und überhaupt, wieso hat Luzifer, wenn er all diese Fürsten so einfach mit neuen Ideen versorgen kann nicht schon längst selbst die Macht übernommen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 7, Aufnahme vom 16.11.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

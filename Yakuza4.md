@@ -269,19 +269,29 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
-##### #41
+##### #18
 
-* Titel: `Darksiders Genesis - #41 - die rote Öde [Let's Play; ger; Blind]`
+* Titel: `Yakuza 4 Remastered - #18 - Selbstvertrauen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Und wir sind wieder in der Wüste. Das war irgendwie abzusehen oder? Bis auf nukleare verseuchte Ödnis haben wir jetzt eigentlich auch jede Art von "Wüste" gesehen die neben der klassischen Sand&Stein Variante möglich ist. Also sind wir jetzt beim Thema Farbvariation. Heute nehmen wir also orange-rot. Es handelt sich übrigens technisch gesehen um eine Mine in der unser nächstes Ziel Moloch spezielle Waffen aushebt. Warum auf die Idee vorher kein anderer dämonischer Fürst gekommen ist ist mir übrigens nicht besonders klar. Generell und überhaupt scheint der Konflikt der einzelnen Machthaber in der Hölle schon seit sehr langer Zeit zu schwelen und wahrscheinlich ist dieser auch schon oft heiß geworden. Warum also wird es jetzt die Technik entdeckt? Oder generell und überhaupt, wieso hat Luzifer, wenn er all diese Fürsten so einfach mit neuen Ideen versorgen kann nicht schon längst selbst die Macht übernommen?
+  An sich selbst zu glauben ist ziemlich wichtig. Es ist übrigens auch ziemlich wichtig sich selbst nicht zu überschätzen. Eine Balance könnte man vielleicht sagen. Zu oft trifft man Leute die diese Balance von der einen oder anderen Seite nicht so besonders gut erreichen. Heute treffen wir ein Exemplar der Gattung Mensch der sich seiner selbst nicht so ganz sicher ist. Dafür hat er aber große Ziele, er möchte eine bestimmte Hostess des Clubs von Akiyama abschleppen. Bisher war seine Methode es mit Geld zu versuchen, das würde in der Regel auch klappen er hat leider also nicht genügend Geld. Insofern muss man etwas Anderes tun, und da der gute Akiyama immer wieder gerne den Charakter von Menschen verbessern. Es gibt also Kleidung umsonst.
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
-  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
-  Sitzung 7, Aufnahme vom 16.11.2021
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 15.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```
 
 ##### #Nummer

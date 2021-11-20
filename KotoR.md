@@ -1572,6 +1572,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #101
+
+* Titel: `KotoR - #101 - Schweizer Fischwesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es bereits gesagt, taktisch übrigens nicht besonders klug weil ich es erst in dieser Episode realisiere. Die Selkath scheinen doch sehr Geld zu lieben und verkaufen an alle Seiten. Sith und Republik nehmen natürlich gerne die Heilmittel die es ihnen möglich macht ihren Krieg weiter zu führen. Allerdings frage ich mich ernsthaft wie viele Verletzte Menschen es tatsächlich nach einer größeren Raumschlacht gibt. Es scheint mir doch so das die Raumschiffe im kritischen Fall doch eher explodieren anstatt aus zu brennen. Andererseits können sie jetzt auch nur schwierig aufhören ihre Ware an beide Parteien zu verkaufen. Rein von taktischer Sicht muss eine Partei definitiv den Planeten vernichten oder zumindest die Kolto-Produktion wenn man vermeiden möchte das die andere Seite die Produkte an die Hand kriegt. Das Alles müssen auch die Selkath wissen, daher kann ich das doch ein wenig sehr selbstbewusste Verhalten das sie uns im Allgemeinen präsentieren nicht so ganz ernst nehmen. Im Zweifel haben sie halt keine Bergfestung die sie mit ein wenig Sprengstoff abdichten können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 16, Aufnahme vom 18.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

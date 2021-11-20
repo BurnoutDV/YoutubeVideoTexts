@@ -5530,6 +5530,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1590
+
+* Titel: `Let's Play ESO #1590 - ein Ebenenstein [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 15 des Totenländer DLC - Sitzung 2
+  
+  Lange habe ich eine Quest in der Bruchgasse vor mir hergeschoben weil ich dachte das es sich um eine größere Geschichte handelt die ich nicht einfach so anfangen wollte. Heute ist es dann endlich soweit, zufälligerweise sind wir ja sowieso vor Ort, da können wir das auch gleich machen. Stellt sich doch glatt heraus das es sich wirklich nur um eine langweilige Quest handelt die uns nur einen kleinen Einblick in das Leben der Daedra und Menschen in Ferngrab hinweißt. Im Großen und Ganzen haben wir aber Nichts neues erfahren. Interessant könnte allerdings noch sein wenn wir mehr über diese Ebenensteine erfahren.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

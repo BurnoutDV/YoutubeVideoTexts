@@ -588,6 +588,36 @@
   Sitzung 7, Aufnahme vom 16.11.2021
   ```
 
+##### #41
+
+* Titel: `Darksiders Genesis - #41 - die rote Öde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder in der Wüste. Das war irgendwie abzusehen oder? Bis auf nukleare verseuchte Ödnis haben wir jetzt eigentlich auch jede Art von "Wüste" gesehen die neben der klassischen Sand&Stein Variante möglich ist. Also sind wir jetzt beim Thema Farbvariation. Heute nehmen wir also orange-rot. Es handelt sich übrigens technisch gesehen um eine Mine in der unser nächstes Ziel Moloch spezielle Waffen aushebt. Warum auf die Idee vorher kein anderer dämonischer Fürst gekommen ist ist mir übrigens nicht besonders klar. Generell und überhaupt scheint der Konflikt der einzelnen Machthaber in der Hölle schon seit sehr langer Zeit zu schwelen und wahrscheinlich ist dieser auch schon oft heiß geworden. Warum also wird es jetzt die Technik entdeckt? Oder generell und überhaupt, wieso hat Luzifer, wenn er all diese Fürsten so einfach mit neuen Ideen versorgen kann nicht schon längst selbst die Macht übernommen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 7, Aufnahme vom 16.11.2021
+  ```
+
+##### #42
+
+* Titel: `Darksiders Genesis - #42 - der Grubenbau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind immer noch in der Kriegsanstrengung von Moloch. Wie genau das alles funktioniert möchte ich eigentlich gar nicht mehr hinterfragen. Am Anfang haben wir ja noch eine Waffenschmiede besucht, die ist für die Dämonen von Welt auch ziemlich wichtig. All das wirft übrigens die Frage auf ob es irgendwie eine dämonische Zivilgesellschaft gibt. Organisiert sind sie wahrscheinlich eher in einer Art Feudalismus, genauere Details entfleuchen uns allerdings. Die nächste Frage die auftaucht ist übrigens eine nach Geografie, die habe ich bereits gestellt als wir auf der Hauptstraße waren, der Ort den wir allgemein als Hölle bezeichnen scheint ja irgendwie auch ein sehr physischer Ort zu sein der zusammenhängt und bereisbar ist, ich kann mir nur schwer vorstellen das es sich um einen unstabilen Platz handelt. Oder es ist einfach alles nur Kulissen und morgen würde schon wieder alles Anders aussehen. Nur wo kommt das ganze Holz her.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 7, Aufnahme vom 16.11.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

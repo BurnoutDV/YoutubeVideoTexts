@@ -325,6 +325,30 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 15.08.2021
   ```
 
+##### #16
+
+* Titel: `Dark Souls 2 Koop - #16 - Alter Eisenkönig [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Der Weg durch das Eisenschloss ist relativ lang und auch ziemlich warm. Man könnte vielleicht sagen sogar heiß. Angefangen hat heute zum Beispiel alles in der großen Lavakammer, dort ist es besonders warm. Dann gehen wir zu Eygils Götze, ich weiß übrigens immer noch nicht so genau was es mit diesem Götzen eigentlich genau auf sich hat. Ich glaube aber es könnte sich eventuell um den riesigen Stier handel der hier irgendwo herumsteht. Und am Ende lauert natürlich der König des Eisens selbst. Da wir aber effizient sind ist das übrigens auch nicht alles, oben drauf hauen wir auch noch den Henkerswagen um, technisch gesehen tut er das aber eher selbst, aber wir waren auch im Raum. Toll.
+  
+  0:00 - Lavakammer
+  12:25 - Eygils Götze
+  16:13 - BOSS: Alter Eisenkönig
+  33:20 - Majula 
+  41:54 - Jägerhain
+  49:14 - BOSS: Henkerswagen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 18.08.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -498,6 +498,22 @@
   Sitzung 6, Aufnahme vom 09.11.2021
   ```
 
+##### #34
+
+* Titel: `Darksiders Genesis - #34 - Altar des Schöpfers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie habe ich bei der ursprünglichen Erklärung nicht so richtig aufgepasst. Also ich fasse mal zusammen was ich mitgekriegt habe und was ich glaube was der Fall ist, und irgendwann in 5 Jahren wenn du das hier liest kannst du Burnout vom 12.11.2021 verbessern der diesen Wissenstand hatte als er dies hier schrieb:
+  Die Nephilim waren ziemlich dolle mächtig, anders als in anderen Spielen sind sie aber nicht die Kinder von Engel und Dämonen sondern irgendwelche anderen Humanoiden Wesen die aber in der Regel um Einiges größer sind als die Menschen dir wir aus den anderen Teilen können. Auch mit den Erbauern sind sie nicht so richtig verwandt. In ihrer großen Macht haben sie dann irgendwann entschieden das Reich Eden anzugreifen, eventuell das Reich der Engel aber auch nicht so richtig. Es gibt irgendwie und irgendwo einen Gott oder es gab es zumindest einmal aber es greift nicht aktiv in die Geschehnisse ein. Stattdessen gibt es den Rat der aus irgendwelchen Gründen es nicht akzeptabel fand das die Nephilim hier Erfolg hatten. Nachdem alles vorbei ist wurde Eden versiegelt. Eventuell war Eden aber auch das Reich der Nephilim. Ich bin auf jeden Fall verwirrt. Heute besuchen wir einen Ort der sich "Alter des Schöpfers" nennen und dort finden wir den Ätherfunken, angeblich ein Artefakt der Engel. Warum das da liegt stellen wir für den Moment nicht in Frage.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 6, Aufnahme vom 09.11.2021
+  ```
+
 ##### #35
 
 * Titel: `Darksiders Genesis - #35 - Edens Wasserfälle [Let's Play; ger; Blind]`
@@ -616,6 +632,113 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
   Sitzung 7, Aufnahme vom 16.11.2021
+  ```
+
+##### #43
+
+* Titel: `Darksiders Genesis - #43 - Steinbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das ich den Ort Steinbruch genannt habe ist faktisch eigentlich ziemlich falsch. Es wird irgendetwas abgebaut, dem Anschein nach würde ich sagen dieses explodierende Zeug das wir auch überall woanders gefunden haben. Um was es sich dabei genau handelt mag ich nicht sagen, aber bisher dachte ich auch das es eher überall wächst. Das könnte auch stimmen, vielleicht handelt es sich auch um ein Gewächs das in der Hölle heimisch ist aber in der Wüste findet man es halt besonders viel. Oder aber es handelt sich um die fossilen Reste eben jener Pflanze, die Hölle scheint ja doch ein recht alter Ort zu sein. Früher gab es ja auch Bäume, große gewaltige Bäume die heutzutage nur noch als Baumaterial zu sehen sind. Allerdings frage ich mich wie genau die Dämonen gedenken etwaige Schäden, zum Beispiel durch den Besuch eines oder mehrer Reiter ausgelöst, zu beheben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 7, Aufnahme vom 16.11.2021
+  ```
+
+##### #44
+
+* Titel: `Darksiders Genesis - #44 - der Vorsteher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da einen alten Witz: 
+  Ein Journalist kommt auf die Baustelle und fragt einen Arbeiter wieviele Leute hier arbeiten. "Mit dem Vorarbeiter 29." "Also  28 ohne Vorarbeiter." "Nein, ohne Vorarbeiter arbeitet hier niemand."
+  Auf der Fips-Asmussen-Kurve jetzt eher eine Schwache 3 aber es bietet mir einen Einstieg. Mit meinem eigenen, rasant zunehmenden Alter merke ich immer mehr wie sehr einzelne Personen für den Betrieb von Dingen wichtig sind. Klar, natürlich, ja, man kann dich ersetzen. Und den Typen da drüben auch. Aber das wird teuer. Und in einem Monat kündigt die restliche Belegschaft weil der Ersatz grob inkompetent in Fähigkeiten ist die gar nicht in der Stellenbeschreibung stehen. Diesen Schlag an Personen zu finden die andere dazu bringen Arbeit gut auszuführen obwohl sie vielleicht nicht die beste Motivation haben ist nicht einfach. Klar kann man eine Peitsche schwingen, aber dann gilt das gute alte Motto der Sklavenarbeit "Du kriegst was du bezahlst". Lange Geschichte kurz, in dem wir den Vorarbeiter der hier aus irgendwelchen Gründen Vorsteher genannt wird ausschalten (und damit meine ich brutal töten) fügen wir Moloch größeren Schaden zu als es auf den ersten Blick erscheinen mag. Das wir die gesamte Anlage ein wenig eingedellt haben kommt noch oben drauf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 7, Aufnahme vom 16.11.2021
+  ```
+
+##### #45
+
+* Titel: `Darksiders Genesis - #45 - Ganz am Anfang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns ziemlich rasant dem großen Ende des Spiels, das bedeutet aber auch das jetzt quasi der letzte Moment ist in dem wir noch einmal tief in uns gehen können um die letzten Rätsel zu lösen, die letzten Gegenstände finden und natürlich auch die letzten Türen öffnen können. Namentlich fehlt uns noch eine größere Anzahl an Trickschlüsseln die wir beim ersten Mal nicht direkt holen konnten, einfach weil uns Fähigkeiten gefehlt haben. Also gehen wir jetzt an den Anfang unserer Reise zurück. Fairerweise muss man übrigens sagen das Backtracking Darksiders eigentlich ziemlich fair gemacht ist. Die Gegenstände für die man wiederkehren muss liegen zumeist am Anfang und die anderen Dingen konnte man beim ersten Mal schaffen. Leider gibt es hier eine Ausnahme, ich habe verpasst ganz am Anfang ein Rätsel zu lösen, und das beißt mich jetzt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 7, Aufnahme vom 16.11.2021
+  ```
+
+##### #46
+
+* Titel: `Darksiders Genesis - #46 - Trickschlüsseljagt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es gibt noch mehr Backtracking. Es ist eigentlich ziemlich traurig, wie bereits richtig angemerkt wurde, das es keine neuen Gegner bzw. bessere Gegner in den alten Worten gibt. Auf der einen Seiten gibt es Mechaniken die definitiv dazu zwingen das man alte Level noch einmal spielt auf der anderen Seite gibt es aber keine anderen Gründe als die alten Barrieren noch einmal herzukommen. Hier hätte man sich wirklich wünschen können das es vielleicht ein paar neue Gegner mit roten Augen oder so gibt. Vielleicht einfach nur schnellere Feinde, von der Mechanik etwas langweilig aber günstig herzustellen, einfache Veränderungen die neue Herausforderungen bringen ohne all zu viel ab zu verlangen. Nun, wie dem auch sei, ich bin nicht hinter der Abgrundrüstung her wie man es von einem Sammler vielleicht vermuten könnte. Viel mehr ist mein Ziel die letzten Trickschlüssel zu erhalten die es mir dann irgendwann ermöglichen werden die große Tür hinter Vulgrim zu öffnen. Das letzte große Geheimnis wenn man das so sagen will, und natürlich die Sechs Schlüsseltür in der Leere selbst aber dies ist Teil der großen Tür oder nicht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 8, Aufnahme vom 23.11.2021
+  ```
+
+##### #47
+
+* Titel: `Darksiders Genesis - #47 - Tür der Leere [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Ende der heutigen Episode öffnen wir die letzte große Tür die es in der Leere gibt. Sie braucht mehr Schlüssel als jede andere Tür. Ganz so einfach ist das aber nicht weil es noch eine andere Tür gibt und sich anscheinend alle Türen genauso viele Schlüssel brauchen wie es gibt. Das bedeutet das wir in der kommenden Mission noch zwei Schlüssel benötigen werden aber gleichzeitig noch sechs für die Tür der Leere brauchen. Kurzum, wir müssen jeden einzelnen Schlüssel finden, und dazu zählen auch Andere die nicht so leicht zu finden sind. Alles gar nicht so einfach fürchte ich. Und wir müssen ziemlich weit laufen, auch eine weitere unangenehme Konsequenz, ganze Level zu durchlaufen. Am Ende gibt es natürlich die Belohnung, auch wenn der Inhalt der Kammer nicht so aussieht wie ich mir das eigentlich hätte vorgestellt. Außerdem erinnert mich es daran das ich bestimmte Dinge bisher ignoriert habe. Ein großes Ärgernis.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 8, Aufnahme vom 23.11.2021
+  ```
+
+##### #48
+
+* Titel: `Darksiders Genesis - #48 - vergessener Weg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man könnte meinen die heutige Episode bezieht sich schon wieder auf das Suchen nach irgendwelchen vergessenen Gegenständen, Schätzen in staubigen Ecken oder Geheimnissen versteckt in verfluchten Katakomben. Die Realität sieht aber ein wenig anders aus: Wir sind wieder auf den Pfaden der Hauptmission und kurz davor die große Blutrüstung bzw. Blutmantel, was auch immer das eigentlich zu zerstören. Schließlich wollen wir nicht zu lassen das der Kampf gegen Moloch in einer Tragödie endet, das wäre auch zu peinlich oder? Der besprochene vergessene Weg ist also eher so etwas wie der Hintereingang zu der Festung in der der gute Moloch seinen Blutmantel geparkt hat. Das Spiel beschreibt das Ding dann auch noch als Phylakterium. Fantasiefans werden bei dem Begriff aufhorchen, sagt es uns doch das es sich wahrscheinlich um eine Möglichkeit handelt das eigene Leben auszulagern. Wie das bei Dämonen funktioniert kann ich nicht direkt erklären aber das muss ich ja auch nicht. Wäre Moloch ein gewöhnlicher Lich würde er bereits durch das Zerstören seiner gespeicherten Essenz sterben, aber ich gehe mal schwer davon aus das dies nicht der Fall sein wird. Aber Eines nach dem Anderen, zu Erst müssen wir noch ein paar Schlüssel finden, die letzte Tür wartet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 8, Aufnahme vom 23.11.2021
+  ```
+
+##### #49
+
+* Titel: `Darksiders Genesis - #49 - der Blutmantel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe in der letzten Episode bereits im zweiten Teil des Textes ein wenig darüber gerätselt was es eigentlich mit diesem Blutmantel auf sich hat, wohlwissend wie das Ding am Ende aussieht. Ich schreibe diese Texte ja nicht direkt nach der Aufnahme (obwohl das auch spannend wäre) sondern wenn die Veröffentlichung kurz bevor steht, das ist recht interessant für mich weil dann schon ein wenig Zeit vergangen ist und mein Unterbewusstsein Zeit hatte quer zu referenzieren und passiv nach zu denken. Ich bin selbst immer wieder überrascht wenn ich Erinnerungen mit etwas Abstand noch einmal anschaue. Nun, der Blutmantel wird im Spiel auch als Phylakterium bezeichnet und scheint auch eine ähnliche Funktion zu erfüllen. Was ich mich bloß frage ist warum genau man seine wichtigen Artefakten in irgendwelchen staubigen Kellern aufbewahrt wenn man stattdessen das gute Stück bei sich haben könnte. Es ist ja nicht so das der Gegenstand leicht herunterfallen könnte. Oder man sollte es zumindest so sichern das man Möglichkeit es selbst zu retten. Fragen über Fragen. Der Ausgang der heutigen Episode ist dann natürlich klar, wir hauen das Ding zu klump und dann ist der Zauber vorbei.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 8, Aufnahme vom 23.11.2021
   ```
 
 ##### #Nummer

@@ -121,7 +121,7 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 11.08.2021
   ```
 
-##### #32
+##### #7
 
 * Titel: `Dark Souls 2 Koop - #7 - Jägerhain [Coop Lets Play]`
 
@@ -155,21 +155,7 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 11.08.2021
   ```
 
-##### #34
 
-* Titel: `Darksiders Genesis - #34 - Altar des Schöpfers [Let's Play; ger; Blind]`
-
-* Beschreibung:
-
-  ```markdown
-  Irgendwie habe ich bei der ursprünglichen Erklärung nicht so richtig aufgepasst. Also ich fasse mal zusammen was ich mitgekriegt habe und was ich glaube was der Fall ist, und irgendwann in 5 Jahren wenn du das hier liest kannst du Burnout vom 12.11.2021 verbessern der diesen Wissenstand hatte als er dies hier schrieb:
-  Die Nephilim waren ziemlich dolle mächtig, anders als in anderen Spielen sind sie aber nicht die Kinder von Engel und Dämonen sondern irgendwelche anderen Humanoiden Wesen die aber in der Regel um Einiges größer sind als die Menschen dir wir aus den anderen Teilen können. Auch mit den Erbauern sind sie nicht so richtig verwandt. In ihrer großen Macht haben sie dann irgendwann entschieden das Reich Eden anzugreifen, eventuell das Reich der Engel aber auch nicht so richtig. Es gibt irgendwie und irgendwo einen Gott oder es gab es zumindest einmal aber es greift nicht aktiv in die Geschehnisse ein. Stattdessen gibt es den Rat der aus irgendwelchen Gründen es nicht akzeptabel fand das die Nephilim hier Erfolg hatten. Nachdem alles vorbei ist wurde Eden versiegelt. Eventuell war Eden aber auch das Reich der Nephilim. Ich bin auf jeden Fall verwirrt. Heute besuchen wir einen Ort der sich "Alter des Schöpfers" nennen und dort finden wir den Ätherfunken, angeblich ein Artefakt der Engel. Warum das da liegt stellen wir für den Moment nicht in Frage.
-  
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
-  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
-  Sitzung 6, Aufnahme vom 09.11.2021
-  ```
 
 ##### #9
 
@@ -347,6 +333,175 @@ Aufnahme vom 13.08.2021
   Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
   Aufnahme vom 18.08.2021
+  ```
+
+##### #17
+
+* Titel: `Dark Souls 2 Koop - #17 - alter Drachentöter [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Es gibt Tage da passiert gar nicht einmal so viel in Dark Souls, selbst in einer ganzen Stunde nicht, ich erinnere mich da zum Beispiel gut als ich knapp 100 Mal gegen Midir gestorben bin in der dritten Instanz der Serie, oder im ebenfalls gleichen DLC als wir nie an den großen Treppen vorbei kamen weil andauernd irgendwelche Invader zu Besuch einfielen. Heute also der umgedrehte Fall, drei Bosse sollen es sein, eigentlich ist aber nur einer davon eine echte Bedrohung, den Rest hauen wir ziemlich einfach weg. Jetzt stellt sich nur noch die Frage wen von den Dreien ich als echte Bedrohung wahrgenommen habe. Am Ende endet unsere Reise jedoch im Loch, den Ort auf dem ich am wenigstens Lust hatte. Es wird großartig.
+  
+  0:00 - Jägerhain
+  2:49 - BOSS: Henkerswagen
+  6:31 - Majula
+  11:30 - Heides Flammenturm
+  15:40 - BOSS: Alter Drachentöter
+  24:10 - Majula
+  26:09 - Grube
+  33:33 - Heiligengrab
+  39:22 - BOSS: königliche Rattenvorhut
+  42:25 - Majula
+  43:43 - das Loch
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 18.08.2021
+  ```
+
+##### #18
+
+* Titel: `Dark Souls 2 Koop - #18 - das Loch [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und jetzt sind wir sogar Vollzeit an dem Ort an dem ich schon immer mal wieder hin wollte. Wer liebt es nicht durch völlige Dunkelheit zu wandern und bei jedem falschen Schritt in den Tot zu stürzen? Ich auf jeden Fall nicht, aber da müssen wir jetzt wohl durch. Schlimmer übrigens noch, da wir bis jetzt ja auf einen ziemlichen Vervollständigungstrip waren müssen wir jetzt auch noch jede Ecke in der Finsternis finden und jede Fackel entzünden, nicht weil wir das Licht brauchen sondern weil wir halt können. Das Gute ist das, wenn man nicht alleine ist, man auch noch eine Menge emotionalen Support hat. Der Schrecken sind ja in der Regel die Anderen, und dennoch macht es keinen Spaß in bodenlose Löcher zu stürzen.
+  
+  0:00 - das Loch
+  41:08 - BOSS: der Verkommende
+  44:00 - Majula
+  47:50 - das Loch
+  53:27 - BOSS: der Verkommende
+  57:20 - Majula
+  58:50 - das Loch
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 18.08.2021
+  ```
+
+##### #19
+
+* Titel: `Dark Souls 2 Koop - #19 - Nebelwald [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und wieder sind wir an einem Ort den ich nicht mag. Das zieht sich fast wie eine rote Spur durch das gesamte Spur, eventuell gibt es einfach so gut wie keinen Ort den ich wirklich in Dark Souls 2 mag. Klar, solche Orte wie Heides Flammenturm sind ganz nett anzusehen aber die Tatsache das man da an jeder Ecke herunterfallen kann macht halt irgendwie wenig Spaß. So Stellen wie der Schattenwald sind dann auch nicht so doll weil andauernd irgendwelche Motten umherschwirren, das Eisenschloss war okay, die Irdenspitze davor nicht. Heute geht es zu den überwucherten Ruinen und den Skorpionen. Davor kommt allerdings noch der Nebelwald mit den schattigen Phantomgestalten. Zum Glück ist der Wald wirklich überschaubar und wenn man eine ungefähre Vorstellung hat wo etwas ist kommt man eigentlich ganz gut durch.
+  
+  0:00 - das Loch
+  10:50 - Majula
+  17:30 - Schlüsselsuche
+  34:50 - Hexenzirkel
+  38:46 - überwucherte Ruinen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 18.08.2021
+  ```
+
+##### #20
+
+* Titel: `Dark Souls 2 Koop - #20 - Skorpionkönigin Najka [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Die überwachsenden Ruinen sind ein Ort der Geschichte hat. So wie Dark Souls aber gebaut ist können wir nicht unbedingt Zeit damit verbringen irgendwelche alten Dokumente ausgraben oder schauen ob wir Tonscherben finden können die uns mehr Aufschluss darüber geben was hier einst geschehen ist. Immerhin leben noch einige Individuen die mit uns sprechen und uns mehr darüber sagen was hier einst war. Die Kurzfassung ist aber eigentlich immer das irgendjemand wahnsinnig geworden ist und dann alles noch weiter untergegangen ist. Daher töten wir heute einen Skorpion, um genau zu sein handelt es sich dabei sogar um die örtliche Königin, behauptet zumindest der eine Typ dem wir begegnet sind.
+  
+  0:00 - überwucherte Ruinen
+  20:51 - BOSS: Skorpionin Najka
+  25:00 - überwucherte Ruinen
+  32:30 - BOSS: Skorpionin Najka
+  35:25 - Nachbereitung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 25.08.2021
+  ```
+
+##### #21
+
+* Titel: `Dark Souls 2 Koop - #21 - Lichtsteinbucht Tseldora [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Ich bin mir ziemlich sicher das die Lichtsteinbucht Tseldora nach den hellen Steinen benannt ist die wir an einigen Stellen sehen können. Allerdings ist mir ehrlich gesagt ein Rätsel warum hier von einer Bucht gesprochen wird. Wenn ich genauer hinschaue tue ich mich doch sehr schwer etwas zu sehen das einer Bucht ähneln würde. Eventuell liegt es aber auch daran das ich da eine mentale Definition habe die irgendwie involviert das es für eine Bucht Wasser geben muss. Immerhin ist es kein Ort an dem wir uns besonders lange aufhalten, außer dem Lager des Königs gibt es hier nicht viel zu sehen. Irgendwann einmal muss ich übrigens einmal herausfinden ob der herumstreifende Magus irgendeine Signifikanz hat oder ob der einfach da ist weil es halt einen Boss alle x Meter geben muss.
+  
+  0:00 - Türen des Pharros
+  9:06 - Lichtsteinbucht Tseldora
+  23:52 - BOSS: Herumstreifender Magus
+  24:40 - Lichtsteinbucht Tseldora
+  28:40 - BOSS: Herumstreifender Magus
+  29:30 - Lichtsteinbucht Tseldora
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 25.08.2021
+  ```
+
+##### #22
+
+* Titel: `Dark Souls 2 Koop - #22 - Freja, die Liebste des Herzogs [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Es ist "allgemein" bekannt das reiche Leute anscheinend Nichts Anderes zu tun haben als immer neue Highs zu finden. Das endet dann in der Dekadenz die man als gemeiner Pöbel nicht verstehen kann. Das fängt mit seltsamen sexuellen Praktiken an und endet dann Recht schnell im Leid der Anderen. Wie genau das alles im Einzelnen funktioniert vermag ich nicht zu sagen, sicher ist aber das genügend Leute bereitwillig die Wünsche ihrer hohen Herren erfüllen um selbst ein paar Brocken des Reichtums und/oder der Macht ab zu bekommen. Wie immer bin ich absolut unwissend was Dark Souls Lore angeht und kann auch nicht so richtig sagen von welchen Herzog wir eigentlich überhaupt sprechen. Wichtig ist aber, seine Liebste ist offenbar eine riesige Spinne und wir dürfen wohl davon ausgehen das dies nicht erst seit gestern der fall ist. Daher werfe ich dem Herzog ganz locker einmal vor das er auch irgendwelche Neigungen hatte die dazu geführt haben das er plötzlich eine Spinne bei sich zu Hause hatte. Und dann vergehen einige tausend Jahre und wir müssen das Elend aufräumen. Toll.
+  
+  0:00 - Lichsteinbucht Tseldora
+  23:55 - Freja, die Liebste des Herzogs
+  26:30 - Lichsteinbucht Tseldora
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 25.08.2021
+  ```
+
+##### #23
+
+* Titel: `Dark Souls 2 Koop - #23 -  Schloss von Drangleic [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Wir haben zuletzt eine überdimensionale Spinne getötet, technisch gesehen sogar eine ganze Horde wenn man die normale Dimension eher klein anlegt. Das Gleichnis des Spinnennetzes wird oft und gerne verwendet wenn man Verschwörungen beschreibt. Da gibt es dann immer eine Menge Mitwisser und in der Mitte, im Netz, sitzt halt die große Spinne die alles verwaltet, koordiniert und überwacht. In der Realität sieht das gewiss nicht ganz so schön sauber aus, umso größer eine Organisation umso mehr hat man eigenständig agierende Agenten die eventuell nicht unbedingt 100% hinter der großen Mission stehen. Und die Zentralorganisation, selbst wenn sie existiert ist auch nicht im Zentrum des Netzes. Das Elend, der Flucht des Untotes und alles Andere das Drangleic befallen hat geht vom Schloss aus und dem was König Vendrick getan hat, was es genau ist werden wir übrigens nie erfahren. Wichtig ist aber, das Schloss steht absolut nicht im Zentrum des Landes, stattdessen ist es relativ abgelegen und wir mussten hart arbeiten um überhaupt bis dorthin zu kommen. Umso ärgerlicher ist das es die Smaragdbotin anscheinend vor uns dahin geschafft hat.
+  
+  0:00 - Lichsteinbuch Tseldora
+  11:49 - BOSS: Freja, die Liebste des Herzogs
+  16:41 - Majula
+  21:05 - Zerstörte Weggabelung
+  30:08 - Schloss von Drangleic
+  42.00 - Unterers Schloss von Drangleic
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 25.08.2021
   ```
 
 ##### #Nummer

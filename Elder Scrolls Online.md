@@ -3570,28 +3570,6 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #12
-
-* Titel: `Dark Souls Koop - #12 - Keller von Carthus [Koop Lets Play]`
-
-* Beschreibung:
-
-  ```markdown
-  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
-  
-  Bei den Katakomben von Carthus handelt es sich, wie der Name eventuell vermuten lässt, um Katakomben, es sollte also niemanden überraschen das es immer noch eine weitere Etage unter den aktuellen Katakomben gibt. Technisch gesehen kommen wir dann auch bald im schwelenden See an aber zu erst gehen wir einfach nur nach unten nachdem wir einen Bereich "gefunden" haben den man hätte auch ignorieren können. Aber hätten wir das getan hätten wir auch viele interessante Dinge verpasst. Und das wollen wir ja nicht, nicht war? Manchmal frage ich mich ob es sich lohnen würde in Dark Souls Lore zu schauen, gibt es irgendwo Beschreibungen und Erklärungen wie die Welt aussah bevor alles irgendwie postapokalyptisch geworden ist? Gab es einmal hohe Ritter, edle Priester und all die Dinge die wir korrumpiert und zerfallen sehen auch in sauber und aufrecht?
-  
-  0:00 - Katakomben von Carthus
-  8:09 - Boss: Hochfürst Wolnir
-  18:34 - Nachbereitung
-  24:12 - Schwelender See
-  45:00 - Dämonenruinen
-  
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 20 - 23 Uhr
-  Dark Souls 3 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNVnOprc0ATO3yDGSTqsajW
-  ```
-
 ##### #1466
 
 * Titel: `Let's Play ESO #1466 - sinnloses Welke [Blackwood]`
@@ -5540,6 +5518,120 @@
   Folge 15 des Totenländer DLC - Sitzung 2
   
   Lange habe ich eine Quest in der Bruchgasse vor mir hergeschoben weil ich dachte das es sich um eine größere Geschichte handelt die ich nicht einfach so anfangen wollte. Heute ist es dann endlich soweit, zufälligerweise sind wir ja sowieso vor Ort, da können wir das auch gleich machen. Stellt sich doch glatt heraus das es sich wirklich nur um eine langweilige Quest handelt die uns nur einen kleinen Einblick in das Leben der Daedra und Menschen in Ferngrab hinweißt. Im Großen und Ganzen haben wir aber Nichts neues erfahren. Interessant könnte allerdings noch sein wenn wir mehr über diese Ebenensteine erfahren.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1591
+
+* Titel: `Let's Play ESO #1591 - kryptografische Hilfestellung [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 16 des Totenländer DLC - Sitzung 2
+  
+  Das Thema Verschlüsselung würde in einem Nicht-Fantasie Setting ziemlich oft auftauchen. In der Regel beschränkt man sich aber darauf einfach nur anzumerken das die Nachricht in irgendeiner Art halt verschlüsselt ist und das es so und so viel Zeit dauert das Ganze zu knacken. Nicht immer ist es allerdings so leicht. Im echten Leben sind die meisten Kryptografien eine reine Frage der Mathematik. Übrigens auch einer der Gründe warum ein Verbot absolut Sinn frei ist. Inhärente Eigenschaften der menschlichen Realität zu verbieten ergibt nicht viel Sinn. Ohne entsprechende Rechenkraft ist man aber relativ beschränkt was Codes angeht, aber man muss auch nicht so weit gehen um sicher genug zu sein. Jetzt kommt allerdings Magie ins Spiel und alle Messen sind gesungen. Oder gesunken? Die Verschlüsselung, der Code, jetzt kann es wesentlich mehr Dimensionen als die menschliche Wahrnehmung geben. Was wenn der Schlüssel einer Traumlogik folgt die nur einen bestimmten Geisteszustand das Geheimnis offenbart? Regeln die jeden sterblichen Verstand in den Wahnsinn treiben würden, ein Verständnis unmöglich. Das ist die Welt in der wir uns heute begeben, das und in die Welt der Rätsel die man lösen kann indem einen Experten fragt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1592
+
+* Titel: `Let's Play ESO #1592 - Gazmod der Sammler [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 17 des Totenländer DLC - Sitzung 2
+  
+  Heute lernen wir den großen Sammler Gazmod kennen. Da wir uns in Ferngrab aufhalten, dem Ort an dem alle Reiche anscheinend gleich weit weg sind dürfen wir wohl keinerlei Annahmen machen was die Natur des Sammlers angeht. Als ich den Sammler aber dann am Ende gesehen habe hat so viel einen Sinn ergeben. Natürlich ist der Sammler was er ist,  was auch sonst. Die Form passt sehr gut, ich muss aber zugeben das auch andere Varianten durchaus möglich gewesen wären. Allerdings frage ich mich wie gewisse logistische Probleme gelöst werden, wahrscheinlich einfach durch Diener. Und doch bin ich irgendwie auch ein wenig traurig das nicht mit unseren Erwartungen gespielt wurde. Und doch, nicht jedes Mal kann unsere Annahme umkehren, sonst würde man es ja erwarten. Wir erfahren heute übrigens noch eine Dinge über unsere neuste Freundin und ihrer Maske, ein Umstand der übrigens auch den Sammler zu interessieren scheint.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1593
+
+* Titel: `Let's Play ESO #1593 - Schlachtplan [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 18 des Totenländer DLC - Sitzung 2
+  
+  Ich bin mir ehrlich gesagt, und das sage ich mittlerweile echt oft was an den allgemeinen Wahrheitsgehalt meiner Aussagen zweifeln lässt, unsicher wie ich diese Episode nennen sollen. Logischerweise entführen wir ja den Übersetzer aller daedrischen Texte, warum auch immer die Ratte solche Dinge kann. Wie dem aber auch sei. Dadurch erfahren wir einmal mehr  was Schwester Celdina vor hat bzw. unserer anderer daedrischer Gegenspieler. Es handelt sich um einen Schlachtplan bzw. eine Ansage wie die Wirklichkeit sein wird. So richtig geht das aber auch nicht hervor. Wie dem auch sei, mein erster Name war "Ruf des Krieges" aber man könnte in dieser Hinsicht wohl eher von einer taktischen Operation militärischen Ausmaßes reden. Letztendlich ist Ferngrab keine Nation in dem Sinne und hat auch keine eigene stehende Armee. Von einem richtigen Krieg kann also wohl kaum die Rede sein oder? Auf jeden Fall werden wir auf Grundlage der neuen Informationen handeln.
+  
+  0:00 - Gameplay
+  4:40 - BUCH: Flora und Fauna der Senge
+  8:16 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1594
+
+* Titel: `Let's Play ESO #1594 - Flammenwirbelfeste [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 19 des Totenländer DLC - Sitzung 2
+  
+  Das Leben als Abenteuerin ist immer ziemlich spannend. Ich muss aber sagen das das Herumlaufen in den Totenländern oder überhaupt irgendeiner Ebene von Oblivion ziemlich stressig ist wenn man so darüber nachdenkt. In der Regel droht bei den meisten Begegnungen etwas das schlimmer als der Tot sein könnte. Das setzt schon ein wenig unter Druck. Anders ist es wenn man auf Nirn wandelt, das Bedrohungspotenzial durch Wegelagerer ist immer da und man könnte durchaus in einen Hinterhalt geraten den man nicht kommen sieht aber immerhin sind die überfallenden keine Dremora die ihr ganzes Leben für den Krieg gelernt haben. Auch haben die meisten Banditen nicht besonders viel Einfluss, wohin gegen die verschiedenen Clans der Kyn durchaus die favorisierten Diener ihres Herren sein könnten, das ist dann sehr schlecht wenn man versucht zu entkommen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1595
+
+* Titel: `Let's Play ESO #1595 - Ritt durch die Totenländer [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 20 des Totenländer DLC - Sitzung 2
+  
+  Die Totenländer haben soviel zu bieten. Vor allen Dingen aber auch Lave, Feuer und Schrecken. Ich habe langsam das Gefühl das ich das Thema weitläufig abgesteckt habe aber einen habe ich noch. Zeit. Wir wissen das Zeit sowieso ziemlich relativ ist und es durchaus sein kann das beim Transport von einer Ebene in die andere ein wenig mehr Zeit vergeht als man meinen möchte. Das Problem ist einfach das es keinen echten Referenzpunkt gibt. Klar, wir könnten jetzt die Nirn Standardzeit einführen aber die einzelnen Ebenen müssen sich nicht zwingend daran halten. Was aber anscheinend auch sein kann ist das man zwar ziemlich schnell von einem Ort zum Anderen reist und das auch (von einer imaginären) Außenperspektive nicht so lange gedauert hat, aber dann verliert man sich lokal. Wie genau das übrigens funktioniert weiß ich nicht, anscheinend müssen die Bürger von Ferngrab ja durchaus etwas essen und auch Daedra erzählen davon wieviel Zeit sie mit Dingen verbracht haben. Alles in Allem finde ich den Gedanken das alles was man kennt anders ist nicht so schön, das löst schon Unbehagen aus. Siehe auch die Handelsraumschiffe aus Rimworld, einem Universum das kein Überlichttransport kennt. Wer da Handel treibt weiß das Nichts mehr so ist wie es war wenn man zurückkehrt, einfach weil hunderte Jahre vergangen sein können.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1596
+
+* Titel: `Let's Play ESO #1596 - Mumm und Stein [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 21 des Totenländer DLC - Sitzung 2
+  
+  Und wieder eine Episode die nach einer Quest benannt ist, ihr wisst schon, damit mich irgendjemand mit der Youtube Suche findet. Ich habe übrigens nachgeschaut, es gibt keine weitere Referenz zu Selveni Andalor. Interessanterweise gibt es aber eine weibliche Dunkelelfin namens Selveni in Skyrim. Da hat wohl der Kontinuitätsbeauftrage geschlafen. Seite Zeitreise bzw. vergehen der Zeit hat gewisse Implikationen auf die ich nicht weiter eingehen möchte an dieser Stelle weil ich das dann eh am Anfang der nächsten Folge in Worte machen (auch wenn ich am Aufnahmetag anscheinend nicht in Höchstform war). Interessant ist übrigens auch das ich seit der letzten und der Aufnahme von der morgigen Episode ein Buch von Brandon Sanderson gelesen habe. Relativ neu, heißt Cytonic, Teil 3 der Skyward Serie, eigentlich auch "junge Erwachsene" Lektüre. Zur Sache, die Hauptperson ist aus Gründen in einer anderen Dimension und diese Dimension hat die Eigenschaft das die Persönlichkeit der Menschen langsam wegdriftet. Erinnerungen an Fähigkeiten und Geschichten bleiben aber alles was die Person ausmacht erodiert Stück für Stück. Auch gehört dazu das Empfinden für Zeit, Tage verfließen und später sind auf einmal hunderte Jahre vergangen ohne das es jemand gemerkt hat. Ich ahne das der Effekt der Ebenen des Vergessens in Isolation ähnlich funktionieren könnte. Detail ist aber in der Geschichte das man nicht Essen muss in dieser Dimension, das hilft natürlich die Zeit zu vergessen, ich bin mir recht sicher das Selveni eigentlich sollte. Der Mann hat übrigens eine Mission, die Opfer einer legendären Schlacht zu retten, zu doof das diese Schlacht schon ein wenig her ist. Wir erfahren leider auch nicht so recht warum Leute die im Kampf gegen Mehrunes Dagon fallen hier auftauchen. Außerdem finden wir später ein Buch das wohl impliziert das Inter-Ebenen-Tierdiebstahl ein Ding ist. Spannend.
+  
+  0:00 - Gameplay
+  19:24 - BUCH: Brugurihks Tagebuch
+  21:54 - Gameplay
+  
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1597
+
+* Titel: `Let's Play ESO #1597 - Suche nach Khazasha [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 22 des Totenländer DLC - Sitzung 4
+  
+  Als ich das letzte Mal orientierunglos in den Totenländern umher geritten bin hatte ich aus Versehen eine Quest angenommen die ich sofort wieder von mir gewiesen habe damit ich sie zu einem anderen Zeitpunkt annehmen kann. Dieser Moment ist heute, es gibt nur ein Problem. Ich habe vollständig vergessen wo ich diese Notiz eigentlich gefunden haben und habe nicht einmal eine grobe Nachricht. Ironischerweise ist eine Ebene des Vergessens doch relativ überschaubar, oder zumindest die Region der Totenländer in der uns befinden, daher lauf eich heute ein wenig umher, wundere mich über die Welt und finde dann doch am Ende Khazasha, eine Ork die scheinbar aus Rachegründen hier ist. Alles in Allem erwartet uns wohl eine tragische Geschichte.
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe

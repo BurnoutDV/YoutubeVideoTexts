@@ -284,14 +284,109 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
-##### #Nummer
+##### #19
 
-* Titel: ``
+* Titel: `Yakuza 4 Remastered - #19 - Größere Frauen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Unter Umständen stehen soziale Konventionen und Normen im Weg wenn es um die freie Kommunikation von Problemen und Umständen geht. Beispielsweise ist es sehr schwierig dicke Frauen als fett zu bezeichnen ohne direkt alle Brücken zu verbrennen. Klar, bei Männern überhaupt kein Problem, Fetti ist halt fett und könnte durchaus abnehmen aber vielleicht ist das ja auch Teil seiner Persönlichkeit. Wenn es sich nicht grade um ein "Plus-Size" Model handelt ist übermäßiges Gewicht bei Frauen eher ein Problem. Von Naturvölkern einmal abgesehen bei denen Fülligkeit durchaus mit Fruchtbarkeit verbunden wird gibt es da auch wenig Positives. Allerdings sollte man durchaus bedenken das Übergewicht, auch schon Geringeres ein Problem für die langfristige Gesundheit darstellt, Untergewicht natürlich auch. Und dann gibt es da noch so Dinge das Fettreserven durchaus helfen können Krankheiten zu überstehen. Alles nicht so einfach. Davon aber einmal abgesehen, wir versuchen heute einen Partner für Hana-Chan zu finden und es nicht einfach.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 15.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #20
+
+* Titel: `Yakuza 4 Remastered - #20 - Hanas Selbstfindung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sich selbst zu finden ist so eine Sache die eigentlich ganz einfach ist, wenn man mit dem Finger auf sich zeigen will, insofern keine größeren Probleme vorliegen, ist nicht all zu schwer, man ist ja doch ein wenig mit sich verbunden. Und dann gibt es da noch diese andere Art der Selbstfindung die überhaupt gar nicht einfach ist und viele große Probleme macht. Hana macht heute einen wichtigen Schritt. Ich bin mir nicht sicher ob es langfristig der beste Weg ist, in der letzten Beschreibung erwähnte ich ja bereits mögliche Probleme die sich entwickeln können. Dennoch ist es wohl wichtig sich für den Moment so zu akzeptieren wie man ist, das macht den Wechsel in eine andere Person wohl ein wenig einfacher und auch mental gesünder.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 15.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #21
+
+* Titel: `Yakuza 4 Remastered - #21 - Restauranttester Shun [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als aufrecht gehendes Mitglied der Gesellschaft von kamurochos Rotlichtbezirk ist Shun Akiyama natürlich ein Experte für alle Restaurants die man im Bezirk finden kann. Man merkt es auch daran das es gar keine Option gibt Orte zu betreten die er nicht als würdig erachtet. So können wir nur die besten Einrichtungen betreten und lassen alles andere Links liegen. Was liegt also näher als das unser guter Geldverleiher und Philanthrop ein wenig um die Häuser zieht um auch anderen Leuten eine Idee für das Leben im größten Rotlichtbezirk der Stadt zu liefern. Obwohl technisch gesehen ist der Rotlichtbezirk wohl nur ein kleiner Teil von Kamurocho.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 15.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #22
+
+* Titel: `Yakuza 4 Remastered - #22 - der Lehrling [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Akiyama ist im wahrsten Sinne des Wortes ein Self-Made Man, alles was er heute ist hat er selber erreicht. Nur am Anfang gab es da eine kleine Hilfe durch eine mittlere Explosion und dem plötzlichen, wortwörtlichen Geldregen. Die Formel mit der er reich geworden ist ist allerdings nicht besonders wiederholbar. Und doch gibt es da einen alten Bekannten der genau das denkt. Immerhin erfahren wir im Zuge der Operation auch wie genau es der Geldverleiher geschafft hat zum entsprechenden Vermögen zu kommen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 22.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #23
+
+* Titel: `Yakuza 4 Remastered - #23 - Fahndungskizze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen sind ziemlich individualistisch, deshalb finde ich Dinge wie Sippenstrafen auch ein wenig fragwürdig, insbesondere wenn man dann wirklich unschuldig ist. Andererseits ist die Androhung natürlich ein schönes Machtmittel. So, völlig zusammenhanglose Statements hätten wir damit schon mal abgehakt. Zur Sache und den wirren Zusammenhang. Wir suchen heute einen Typen anhand einer ziemlich kruden Skizze. Es handelt sich um einen Geldfälscher und die Integrität der Währung ist enorm wichtig, die Amerikaner haben dafür zum Beispiel den Secret Service. Alle Wirtschaft fußt halt darauf das Geld Waren und Dienstleistungen repräsentiert, ist dieses Konzept unterhöhlt bricht recht schnell alles zusammen. Es handelt sich quasi um einen Pfeiler der Zivilisation. Für Akiyama als Geldverleiher der oft in Bar bezahlt wird ist dies eben so wichtig wie für die staatliche Seite. Diese ist allerdings meistens etwas langsamer als ein lokal agierender Agent ohne Pflichten. Und das bringt uns zum Gesicht zurück, das Gesicht ist ein Ausdruck der Individualität, ein Zeichen des selbst, ein Erkennungsmerkmal, ein Merkmal das man schwierig im sozialen Kontext verstecken kann. Und das bringt uns dahin wo wir sind. Wir suchen einen Typen anhand der Skizze seines Gesicht um die Gesellschaft zu retten. Oder um ihm volles Pfund aufs Maul zu hauen, schauen wir mal. Vielleicht auch Beides.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 22.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #24
+
+* Titel: `Yakuza 4 Remastered - #24 - Geldfälscherring [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ärgerlicherweise habe ich bereits alles darüber geschrieben was man von Geldfälschung halten kann das mir so einfällt. Daher verweise ich einfach einmal auf Episode 23. Anderes Thema, technische Schwierigkeiten. In der Vergangenheit hat man den Geld wert gerne mit Edelmetallen gedeckt, das Praktische an Goldmünzen ist ja das die Dinger schon wirklich viel wert sind. Man kann also recht portabel viel Kaufkraft mit sich herumschleppen. Edelmetalle haben auch noch den Vorteil das man sie recht einfach konvertieren kann. Ärgerlicherweise gibt das dem Geld auch eine gewisse Trägheit, große Transaktionen setzen Risiken vor raus und letztendlich muss man gutes Personal anheuern das Geld kostet um Geld zu transportieren. Außerdem kann man es nicht aus dem Nichts schaffen. Fiat Geld ist ziemlich wichtig wenn man die moderne Wirtschaft betrachtet, grenzenloses, krebsartiges Wachstum ist halt nur möglich wenn man nicht an ärgerliche Dinge wie die Verfügbarkeit von Edelmetallen gebunden ist. Dennoch gibt es durchaus den validen Punkt das es schlicht nicht genügend Geld gibt um abzubilden was die Wirtschaft größerer Nationen tut. Und dann braucht man Vertrauen. Vertrauen das das Geld nicht einfach aus dem Nichts mehr wird, oder sich jemand eine 0 da zu schreibt. Interessanterweise versuchen Kryptowährungen genau dieses Problem zu lösen indem sie ein ewiges Hauptbuch habe, mit einer Historie aller Transaktionen. Problem hier, wenn man mehr als 50% der Rechenkraft an sich bringt kann man einfach lügen. Zumindest bei bestimmten Währungen. Außerdem kommt noch der Rattenschwanz hinzu das das Hauptbuch halt wirklich ewig ist, per Definition, das macht die Arbeit immer größer und größer. Klar, wofür haben wir den endloses Wachstum der Rechenkraft..nur hängt dies wieder an der Physik. Letztendlich beschränkt das Geldwachstum also nicht die Verfügbarkeit von Gold sondern schlauen Silizium. Davon haben wir zwar mehr aber leider denkt das nicht von alleine sondern braucht Energie, Energie die ziemlich dolle endlich ist. Genau wie das Gold, oder Silizium.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 22.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #25
+
+* Titel: `Yakuza 4 Remastered - #25 - die Konkurrenz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Akiyama ist Geldverleiher, irgendwie. Auch wenn seine Methoden seltsam sind und insbesondere sein Ziel ein wenig von dem abweicht was normale Geldverleiher tun steht er doch in direkter Konkurrenz zu normalen Verleihern. Sein Prinzip sorgt dafür das nicht alle Leute wirklich bei ihm leihen wollen und die Tests werden wohl auch einige Leute aussortieren. Und dennoch, ich frage mich ob Akiyama hoffnungslose Existenzen abweist die zwar keinen Willen zur Veränderung haben aber dennoch untergehen. Oder greift er hier anders ein? Wie dem aber auch sei, die Sachlage ist so das man als Geldverleiher ein wenig aufpassen muss. Leute im Hafenbecken zu versenken ist ja schön und gut und sendet bestimmt eine Nachricht wenn man die Kunde diskret verbreitet. ABER, das bezahlt auch nicht die Rechnungen. Am Ende gibt es immer nur eine Geldsumme X, laufende Kosten Y und Rückzahlungen Z. Und wenn am Ende des Monats keine Kohle mehr da ist ist auch doof. Geldhai hin oder her, aber wenn man halt wirklich darauf vertraut horrende Zinsen bezahlt zu bekommen sollte man besser Leuten Geld verleihen die zumindest bereit sind zu zahlen. Ein schmaler Grad zwischen unmachbaren Wucher der Leute dazu bringt aufzugeben und liegen gelassener Gewinn. Die Konkurrenz möchte uns heute einen Deal anbieten, wir erfahren es technisch gesehen erst später, aber eigentlich hätten wir es schon jetzt wissen können. Es läuft nicht so gut für die. Wie gut das Akiyama sein Geld nicht mit Verleihen verdient.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 22.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
 ##### #Nummer

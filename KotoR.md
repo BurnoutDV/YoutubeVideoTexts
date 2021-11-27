@@ -1588,6 +1588,118 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #102
+
+* Titel: `KotoR - #102 - Bar der Söldner [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich dachte ich erst das wir eine ganz normale Bar betreten und das tun wir schließlich auch, hier treffen sich die diversen Kaufleute und Angestellten der großen Fraktionen um einmal ordentlich einen zu heben. Allerdings ist ein wenig fraglich ob sich hier eigentlich noch andere Leute als Söldner aufhalten. Klar, wir finden hier einige Selkath und sogar zwei Soldaten der Republik die ein wenig mit uns flirten aber davon einmal abgesehen scheinen alle Leute darauf aus hier Dienstleistungen zu erwerben. Zu meiner großen Überraschung handelt es sich in diesem Fall übrigens wirklich nicht um körperliche Dienstleistungen, das wäre ja etwas das man normalerweise in solchen Fällen erwarten würde oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 16, Aufnahme vom 18.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #103
+
+* Titel: `KotoR - #103 - Fünf Richter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben bereits etabliert das die Sicherheit der Selkath eigentlich nur eine Illusion ist und realistisch nicht viel passieren kann wenn sie sich entscheiden den falschen Leuten auf die nerven zu gehen. Solche Gedanken kommen mir natürlich auch erst nach der Aufnahme und manchmal kommt es mir so vor als hätte ich eine zweite Welt hier in den Beschreibungstexten die niemand liest. Manchmal steht da auch nur ein wenig Padding, etwas Fluff um sinnlos meine Gedanken los zu lassen zu dem was man oben sieht. Und dann wieder nicht. Dieser Gedanke hier ist zum Beispiel eine Fortsetzung. Die Macht der Selkath steht auf eine gefährlichen Wippe, jede Richtung würde den Untergang bedeuten. Und doch haben sie ein Justizsystem für die Fremden auf der Station. Rein rechtlich gesehen übrigens auch ziemlich interessant. Die Landestation auf Manaan ist ja nicht wirklich ihr Hoheitsgebiet und doch sind sie bereit Exekutionen zu vollziehen, Hinrichtungen an Bürgern anderer Sternenreichen. Wenn das durch Zufall jemand wichtigen erwischt führt sowas zu Problemen. Und oben drauf leistet man sich dann sogar noch fünf Richter die mächtig parteiisch sind, was soll schon schief gehen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 16, Aufnahme vom 18.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #104
+
+* Titel: `KotoR - #104 - Schlichter Visper [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich darf heute stolz verkünden das wir befördert wurden. Vorher wollte niemand der Richter so recht mit uns sprechen, einfach weil wir niemand waren. Aber jetzt bekleiden wir ein Amt, wir sind Schlichter in einem Rechtstreit der Republik gegen die Sith. Das Alles ist ziemlich interessant weil die Selkath aus irgendwelchen Gründen glauben das die Jedi neutral gegenüber den Sith stehen und ein gerechtes Urteil fällen. Alle anderen Parteien sehen das übrigens wesentlich realistischer und wissen genau das wir eine ziemliche Hingabe für die Republik haben. Ich weiß übrigens nicht genau wo das her kommt. Soweit ich das sehen kann sind einige Kritikpunkte der Selkath an die Republik durchaus valide. Allerdings ist die Macht die das ändern kann auch ärgerlich zerstörerisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 16, Aufnahme vom 18.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #105
+
+* Titel: `KotoR - #105 - Botschaft der Republik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe bereits darüber gemeckert wie groß die Enklave der Sith auf Manaan gewesen sein wird (wir sind immer noch einer Galaxie lange vor unserer Zeit richtig?), da sind wir aber eigentlich noch gar nicht sondern betreten als Erstes die Botschaft der Republik. Ich bin ein wenig verstimmt das man hier keine, zumindest optische Gleichheit hat. Wie wir später sehen werden haben die Sith eine mehrstöckige Einrichtung mit tonnenweisen breiten Fluren und großen Räumen während die Republik technisch gesehen nur drei Räume und ein U-Boot Hangar haben. Alles in Allem ist die Botschaft wesentlich kleiner, und das wo sich später herausstellen wird das es einige Selkath gibt die wesentlich lieber mit der Republik Handel treiben als mit den Sith. Irgendwie passt das hier alles nicht zusammen und ich fürchte die einzige logische Erklärung ist technische Limitationen. Ich bin übrigens wirklich gespannt ob in einem Remake alle Orte zusammenhängend sein werden, moderne Technologie sollte die Unterteilung in Leveln eigentlich unnötig machen oder? Wir haben die Technologie um dynamische Level zu streamen, nicht so wie früher wo ganze Zonen eingeladen wurden. Und wir haben mittlerweile SSDs und wirklich viel RAM. Ansonsten gibt es in der Botschaft übrigens nicht viel außer noch mehr Arbeit. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 16, Aufnahme vom 18.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #106
+
+* Titel: `KotoR - #106 - Sith-Straßen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manaan ist ja eigentlich ein gewaltiger Wasserplanet, ein Planet der nur eine einzige Station hat auf der man landen kann und Kolto handeln. Das ist ein wenig schwer vorstellbar, andererseits hat das kaiserliche Japan auch krasse Beschränkungen wie zwei portugisische Schiffe pro Jahr erlaubt. (Der Grund warum der Holzschnitt der großen Welle tatsächlich auch in Europa frühzeitig bekannt war). Gehen wir also einmal davon aus das die Selkath enorm Wert auf ihre Isolotation legen, wie genau sie das erzwingen wollen ist mir übrigens nicht klar. Trotz ihrer Ablehnung von Allem was von Außen kommt haben sie diese Handelsstation erbaut die wir jetzt sehen. Und dort hat man den großen Fraktionen eigene Gebiete zugestanden. Ein kleiner Teil fragt sich auch wie die Bürokratie dafür aussieht. Kommt man da als Fraktion an und fragt um eine Lizenz, wie hoch ist die Gebühr, was sind die Vorraussetzungen? Könnte eine andere Fraktion, beispielsweise die Tauschhändler sich auch einfach niederlassen und ein Stück der Einrichtung erhalten. Und warum haben die Sith eigentlich soviel mehr Basis als die Republik. Irgendetwas passt hier nicht. Bevor wir allerdings so weit kommen müssen wir über die Abschnitte die offiziell den Sith gehören. Und ich kann sagen, auch wenn man offiziell der Aggression nicht zugesprochen ist, ganz ungefährlich sind die Straßen nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 16, Aufnahme vom 18.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #107
+
+* Titel: `KotoR - #107 - Sith-Wasserbasis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Rein theoretisch und auch ziemlich praktisch befindet sich alles auf Manaan als eine Art Wasserbasis. Ich gehe einfach mal davon aus das es auf dem Planeten durchaus kleine Insel und Archipele gibt die ein wenig höher im Wasser stehen als die sonstige Fläche, einfach schon weil Plattentektonik als gegeben angenommen werden muss und dadurch Unterwassergebirge wie eine Gewissheit erscheinen. Gehen wir also davon aus das Manaan bzw. die Begegnungsstation durch auf einem solchen Berg steht und das Wasser ringsherum nicht besonders tief ist. Die Basis der Sith ist so gesehen als auch nur ein Unterabschnitt innerhalb von Manaan und technisch gesehen am Wasser gelegen weil alles am Wasser liegt. Das Wort das ich noch nicht gesagt habe ist übrigens "Unterwasserbasis", alles was wir sehen ist über der Wasseroberfläche. Allerdings scheint man dennoch in der Lage zu sein U-Boote zu entführen und hat komische Wasserschleusen. Insgesamt versuche ich heute eigentlich nur in die Basis schleichen ohne zu schießen, aber es stellt sich wohl heraus das Schleichen eher keine Option ist. Schade eigentlich. Sogar enttäuschend wenn ich länger darüber nachdenke. Es gibt ungefähr 4 Optionen sich rein zu schleichen und dann stellt sich heraus das die Person an der Tür machtimmun und super redegewandt ist. Übrigens frage ich mich wie man eigentlich so eine Basis auf Manaan einrichtet, das sind jetzt ja nicht direkt Trockenbauwände was wir sehen. Ich könnte mir ja ein modulares Baukonzept vorstellen bei dem die Grundstruktur aus Balken in bestimmten Abständen besteht und man Wände einziehen kann um alles zu unterteilen, aber was wir sehen sind runde Gänge aus Weltraumstahl und das Innere erinnert auch eher an einem Raumschiff als an ein Gebäude. Kann die Manaan Station abheben? Das wäre ziemlich cool.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 16, Aufnahme vom 18.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #108
+
+* Titel: `KotoR - #108 - Shasa und die Selkath-Schüler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sperrige Titel, kann ich. Allerdings habe ich in dieser Hinsicht noch lange nicht die Endform erreicht, größtenteils weil ich ein wenig mit Meta-Daten verbrauche und die Gesamtzeichenanzahl für einen Titel bei 128 liegt (meine ich, zu faul das nach zu prüfen. Es gibt Animes die in ihrem Titel quasi genau beschreiben was passiert. Unter diesem Kredo müsste die heutige Episode heißen "Das eine Mal als ich in die Basis der bösen Sith eingedrungen bin um heraus zu finden warum die Jugend der Selkath hier ist und junge dunkle Jedi fand". Rollt nicht direkt von der Zunge aber mit etwas Übung geht das schon. Eigentlich wollte ich übrigens Todesopfer bei zumindest den verdorbenen Selkath reduzieren aber so wie sich die Dinge entwickeln haben musste ich meine Karten spielen. Betäubungswaffen wurden offensichtlich noch nicht erfunden und "Schießen um zu Verwunden" ist ebenfalls keine Doktrin die irgendjemand hier realistisch verfolgt. Das liegt bestimmt daran das Blaster schrecklich ungenau sind, das macht es etwas schwierig etwas Anderes als ein Scheunentor zu erschießen. Lange Geschichte kurz, wir waten heute durch das Blut von "Jünglingen" und Sith Soldaten um dann 4 Leute zu retten die uns initial noch nicht einmal glauben das wir sie retten wollen. Die leicht rötliche Färbung, die verschiedenen Stadien getrockneten Blutes und ziemlich leeren Blastermagazine würde aber leichtgläubigere Leute Zweifel eintreiben. Aber hey, wir sind doch die Guten, wir können nichts Schlechtes tun oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 17, Aufnahme vom 25.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

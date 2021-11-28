@@ -1700,6 +1700,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #109
+
+* Titel: `KotoR - #109 - Sith Meisterbotschafter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An sich haben die Sith gar keinen "Botschafter" in dem Sinne. Es handelt sich ja auch nicht um ein Konsulat oder eine Botschaft sondern um eine Basis. Wie auch immer es dazu gekommen ist. Dementsprechend haben wir es wohl eher mit dem Kommandanten der Basis zu tun. Letztendlich ändert das aber auch Nichts weil die entsprechende Person am Ende eh tot ist. Bekannterweise brauchen wir ja die Information die hier versteckt ist und es ist wohl eher unwahrscheinlich das wir aus den Sith irgendetwas friedlich raus kriegen. Die gute Nachricht ist aber, wir dürfen davon ausgehen das die meisten Sith ziemlich arrogant sind und sehr vom Sieg ihrer Sache überzeugt sind. Logik gebietet daher das insbesonderes größere Kommandanten die schon recht weit oben in der Rangfolge sind eher nicht damit anfangen irgendwelche Unterlagen zu vernichten wenn wie die böse Visper Cora auf dem Weg zu sich sehen. Stattdessen werden sie hinaus treten, siegessicher und voller Zuversicht. Andererseits, sind die Informationen die wir heute extrahieren auch nicht von so hoher Brisanz. Klar, für die Selkath vielleicht ziemlich bedeutend zu wissen das die Sith versucht haben ihre Jugend zu korrumpieren, allerdings ist es im Großen und Ganzen für den Krieg unbedeutend. Da wir keine anderen Daten aus dem zentralen Computer heraus holen muss man wohl davon ausgehen das vielleicht doch etwas gelöscht wurde. Oder aber ich war einfach nur unfähig beim exfiltrieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 17, Aufnahme vom 25.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

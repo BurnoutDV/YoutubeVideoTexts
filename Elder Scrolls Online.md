@@ -5637,6 +5637,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1598
+
+* Titel: `Let's Play ESO #1598 - Hoffensbrand [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 23 des Totenländer DLC - Sitzung 4
+  
+  Die Benennung der Orte in den Totenländern sind wahrscheinlich irgendeine quasi Übersetzung. Was die Sprache in der Elder Scrolls Welt angeht gibt es gewisse mythologische Spuren die dafür sprechen das alle Sprachen aus der gleichen Quelle kommen bzw. das es eigentlich nicht besonders viele Sprachen im Allgemeinen gibt. Die Sprachen der Daedra sind dahingegen eine andere Sache, da sie nicht mit der Schöpfung von Nirn involviert sind. Das dennoch alle Leute in der Lage sind die Sprachen zu verstehen bzw. die Daedra mit den Sterblichen kommunizieren können und ich nicht davon ausgehen das jeder einzelne Daedra "Nirnisch" lernt. Meine Schlussfolgerung ist ja das die Bedeutung übertragen wird bzw. irgendeine Art direkt Übersetzung des Inhaltes stattfindet, nicht der Worte. Und so kommen wir dann zu so tollen Namen wie "Hoffensbrand", der Ort an dem die Hoffnung brennt, klingt aber irgendwie doof oder? Aber meine Herleitung erscheint mir plausibel.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

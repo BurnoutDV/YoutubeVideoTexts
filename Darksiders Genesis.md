@@ -741,6 +741,21 @@
   Sitzung 8, Aufnahme vom 23.11.2021
   ```
 
+##### #50
+
+* Titel: `Darksiders Genesis - #50 - Wicked Killington [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns ziemlich rasant dem Ende der Geschichte, eigentlich müssen wir nur noch Moloch besiegen und dann hat unsere Mission endlich ein Ende gefunden. Wahrscheinlich folgt ein Doppelbosskampf, erst hauen wir Moloch um und dann kümmern wir uns um Luzifer der aber wahrscheinlich entkommen wird weil er ja später noch da sein muss. Und dann kommt heraus das alles was wir getan haben Nichts wert war oder schon viel zu spät weil Luci schon zwanzig andere Höllenfürsten angeheuert hat und wir niemals nachkommen. Aber bevor all das passiert geschieht noch ein weiterer Überraschungsbosskampf. Wir dürfen gegen einen Typen namens Wicked Killington antreten. Anscheinend ein showtreibendes Skelett das eigentlich gar keine Zeit für uns hat. Immerhin wäre damit dann auch geklärt was sich hinter der großen Tür in der Leere befindet. Nicht unbedingt beruhigend aber auch der schwerste Kampf den ich bisher in diesem Spiel hatte. Auch weil es keine Adds gibt deren Leben ich mir zu Nutze machen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 8, Aufnahme vom 23.11.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

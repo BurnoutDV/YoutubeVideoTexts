@@ -504,6 +504,30 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 25.08.2021
   ```
 
+##### #24
+
+* Titel: `Dark Souls 2 Koop - #24 - Spiegel-Ritter [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Das Schloss von Drangleic ist so gesehen ein ziemlich langweiliger Ort. Alles sieht irgendwie ein wenig gleich aus und der Verfall der die restliche Welt bzw. das Königreich erwischt hat. Alles ist auf seltsamer Art und Weise doch noch ziemlich sauber. Daher fangen wir heute woanders an hinzugehen, das Erntetal ist doch ein schöner chaotischer Ort und dort haben wir noch ein paar Gegenstände liegen lassen. Und dann gehen wir ein wenig auf die Dächer, sprechen mit einer Königin, hauen die königlichen Drachenreiter um und am Ende stehen wir vor dem Eingang der Runter zu meinem Lieblingsort führt. Ein schöner Tag.
+  
+  0:00 - Erntetal
+  3:18 - Majula
+  4:15 - Unteres Schloss von Drangleic
+  22:10 - BOSS: Drachenreiter
+  29:30 - Mittleres Schloss von Drangleic
+  51:25 - BOSS: Spiegel-Ritter
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 25.08.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

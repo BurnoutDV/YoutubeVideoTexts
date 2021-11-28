@@ -389,6 +389,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #26
+
+* Titel: `Yakuza 4 Remastered - #26 - Augenöffner [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Geschichte mit der Konkurrenz geht heute ein wenig weiter. Letztendlich handelt es sich übrigens immer noch um die Geschichte bei der wir einen jungen Mann anlernen wie man richtig ein Geschäft anführt, auch wenn die Geschichte ein wenig mit Akiyama verbunden ist. Am Ende läuft alles darauf hinaus das die große geheime Tat doch ans Licht kommt und jemand Anderes davor bewahrt wird ein finanzielle nachteilige Entscheidung zu fällen. Immerhin muss man Akiyama übrigens auch lassen das er ein Mann ist der zu seinem Wort steht. Das ist doch schon einmal etwas oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 22.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

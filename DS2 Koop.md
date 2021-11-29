@@ -528,6 +528,30 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 25.08.2021
   ```
 
+##### #25
+
+* Titel: `Dark Souls 2 Koop - #25 - Königlicher Rattenprüfer [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Es gibt einen Rattenkönig, den töte ich übrigens heute auch. Der königliche Rattenprüfer ist das allerdings nicht. Hierbei handelt es sich viel mehr um einen zu groß geratenen Hund der irgendwo in den Tiefen von Pharros herumkriecht. Generell und überhaupt frage ich mich immer wieder wie man jeweils die ganzen Dinge die es in Dark Souls 2 (oder auch den anderen Teilen) gibt finden soll wenn man nicht nach jedem Storyfortschritt die ganze Welt noch einmal abläuft. Hinweise sind bestensfalls subtil und das Spiel hilft einen aktiv dabei die falschen Wege einzuschlagen so dass man sich bestimmte Varianten verbaut. Ich finde nicht das das gutes Spieldesign ist. Eventuell rege ich mich heute auch auf.
+  
+  0:00 - Majula
+  6:24 - Gyrms First
+  17:23 - BOSS: Königlicher Rattenprüfer
+  23:19 - Pharros
+  26:40 - Nachbereitung
+  34:27 - Schrein von Amana
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 25.08.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -5652,6 +5652,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1599
+
+* Titel: `Let's Play ESO #1599 - der Raubreißer [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 24 des Totenländer DLC - Sitzung 4
+  
+  Eigentlich ist die Bestie mit der wir es heute zu tun haben ein sogenannter Dremaken, wenn auch ein Besonderer. Technisch gesehen erfahren wir auch nie was eigentlich sein Name war. Interessant übrigens auch das schwierige Rätsel das sich uns heute bietet. Ich gebe zu das ich viel zu lange brauche um zu realisieren was ich eigentlich tun soll, aber auch nur weil mir ein paar Anzeigen fehlen die mir sagen das etwas nicht geht. Wie dem aber auch sei. Ich habe mittlerweile ja schon einige Jahre im Berufsleben verbracht und zwischenzeitlich habe ich auch aus Versehen Tech-Support für alle Kollegen in der Nähe gemacht. Quintessenz ist, man sollte nicht unterschätzen wie schwierig doch eigentlich einfache Vorgänge für die normale Person sind. Davon einmal abgesehen ist die das Ende dieser Quest irgendwie ein wenig komisch, die moralische Entscheidung ist keine. Zum zweiten Mal bin ich sehr verwirrt ob des Endes einer Mission. Wo liegt die Entscheidung wenn eine Variante wesentlich besser ist?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

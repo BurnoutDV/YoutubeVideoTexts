@@ -756,12 +756,17 @@
   Sitzung 8, Aufnahme vom 23.11.2021
   ```
 
-##### #Nummer
+##### #51
 
-* Titel: ``
+* Titel: `Darksiders Genesis - #51 - Moloch [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und wir sind am Ende. Die letzte Schlacht wird geschlagen, der letzte Gegner wird besiegt. Das Ärgernis, dies ist die Ursprungsgeschichte. Logischerweise ist alles was wir tun also ohne Konsequenz und die Dinge die sich geändert haben sind nur die Dinge die irrelevant sind. Mir war allerdings nicht bewusst wie wortwörtlich das Spiel sich hier genommen hat. Weil der Titel, so wird sich später herausstellen, ist quasi schon biblisch. Nun, Moloch ist in der Tat ein harter Brocken verrät uns aber leider nicht wirklich wo sich Luzifer aufhält. Das ist nun doppelt ärgerlich weil das ja bedeutet das alles was wir getan haben ziemlich umsonst war. Aber hey, immerhin glaubt der Rat das wir einen guten Job geleistet haben und anscheinend haben wir gleichzeitig noch ein wenig Geschichte für andere Völker geschrieben. Das ist doch auch etwas oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNaSuFzNQy_vkBYImxw1boL
+  Sitzung 8, Aufnahme vom 23.11.2021
   ```

@@ -404,6 +404,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #27
+
+* Titel: `Yakuza 4 Remastered - #27 - Dachdate [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder bei der Hauptmission angelangt, das ist übrigens auch enorm wichtig. Während ich die letzte Episode beschrieben habe ist mir durchaus aufgefallen das ich gar nicht mehr soviel zu sagen habe, eventuell war ich aber auch einfach nur müde als ich den Text verfasst habe. Wie es aber auch gewesen sein mag, heute sind wir wieder zurück und treiben die richtige Geschichte vorran. Wir haben ein Date mit Lily, wir erinnern uns, das Mädchen das 100 Milllionen Yen von uns leihen möchte und dafür nur einen kleinen Notgroschen im Hostess-Club verdienen muss. Und wieder einmal frage ich mich ob es ein Euphemismus für stumpfes Zuhältertum ist. Andererseits, Leute die direkt ihren Körper verkaufen haben es wahrscheinlich leichter als wenn man versucht Leute tatsächlich zu unterhalten. Behaupte ich jetzt einmal. Wir finden uns auf jeden Fall auf einem Dach wieder und erfahren auch ein wenig über Akiyamas Vergangenheit, Einiges davon wussten wir zwar schon aber nicht alles ist doppelt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 22.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -5667,6 +5667,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1600
+
+* Titel: `Let's Play ESO #1600 - Legenden & Geschichten der Ebenen [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 25 des Totenländer DLC - Sitzung 4
+  
+  Die heutige Episode zu benennen war nicht einfach für mich. Das lag unter Anderem daran das ich eigentlich mit der Hauptmission weiter machen wollte aber dann hat sich doch noch hier und dort etwas ergeben und die zusätzlichen Informationen die wir beim Durchstreifen der Gegenden erfahren haben reichten doch noch für eine "abendfüllende" Veranstaltung, und damit meine ich natürlich die Kangaroo-Normzeit von 20 Minuten. Die Dinge die wir heute hören sind nicht unwichtig wenn man sich ein wenig für die Story und Kultur der Daedra interessiert. Leider ist das meiste davon eher die Andeutung einer Geschichte. Ich frage mich mittlerweile wirklich ob Zenimax einen Authoren-Wettbewerb ausrufen möchte um solche Geschichte wie die von Uxark zu schreiben. Oder Fans dazu aufzurufen was genau damit gemeint ist das bestimmte Daedra in "die Leere zwischen den Sternen" verbannt wurden. Anscheinend kommt man von dort wieder, aber mehr Details erfahren wir dann auch nicht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1601
+
+* Titel: `Let's Play ESO #1601 - Spuren der Klingenträger [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 26 des Totenländer DLC - Sitzung 4
+  
+  Ganz zufälligerweise haben wir ja sachdienliche Hinweise auf den weiteren Aufenthaltsort von Schwester Celdina gefunden. Andererseits muss ich schon sagen das es nicht unbedingt direkt oder offensichtlich ist wo es jetzt weiter geht. Das Spiel teilt uns das auch so mit, das finde ich tatsächlich einmal ganz gut. Klar, am Ende werden wir dann magisch direkt vor der Haustür von Celdina aufschlagen und genau dann in ihrem geheimen Hauptquartier eindringen wenn es Fünf vor Zwölf ist. Aber andererseits zeigt es doch auch das wir in den Totenländern fremd sind, wir kennen uns mit der Kultur und den Gepflogenheiten nicht aus. Das wird klar kommuniziert, es gibt keine Stelle an die wir uns wenden können, keine bekannten Punkte an die wir uns wenden können um das Problem einfacher zu lösen. Auf gut Deutsch, wir schwimmen ein wenig. Aber das wird sich schon noch zeigen wie das alles weiter geht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1602
+
+* Titel: `Let's Play ESO #1602 - Rynkyus von den Klingenträgern [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 27 des Totenländer DLC - Sitzung 4
+  
+  Mittlerweile kommen wir wohl was die Expertise über diverse Daedra angeht wohl in die Ränge der größten Experten. Obwohl wir bereits das Werk eines Forschers gelesen haben der den sehr guten Punkt gemacht hat das man sich die daedrischen Reiche eher mit Abstand und als äußerer Beobachter anschauen sollte, einfach damit man nicht von den Lügen der Daedra eingelullt wird. So wie es jetzt aussieht müssen wir alles was wir wissen mit einem zusätzlichen Notizzettel versehen auf dem eine Schätzung der Sicherheit der Information steht. Sicher ist nur das quasi nichts sicher ist was uns von einem Geschöpf der Ebenen erzählt wird. Das liegt unter anderen daran das sie Geheimnisse hüten als wären es die größten Schätze der Welt. Das liegt aber auch nahe, sie haben außer ihren Geheimnisse auch quasi nichts. Weiter mögen uns viele Daedra einfach aus Prinzip nicht und halten uns bestensfalls für nervige Fliegen in ihrem Umfeld. So zum Beispiel auch Rynkyus von den Klingenträgern, Anführer einer anscheinend unabhängigen Gruppe von Dremora. Wie auch immer das eigentlich funktioniert.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

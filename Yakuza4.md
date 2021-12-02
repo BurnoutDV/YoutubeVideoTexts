@@ -419,6 +419,51 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #28
+
+* Titel: `Yakuza 4 Remastered - #28 - Tauschhandel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da einige lustige Geschichten von Leuten die sich quasi hochgetauscht haben. An sich ist der Wert von vielen Gegenständen immer von der Gelegenheit abhängig in der man sich aktuell befindet. Eine Flasche Wasser kann mitten in der Wüste sehr viel wertvoller sein als im mitteleuropäischen Inland. Meistens sind die Gegenstände die man besitzt eher weniger viel wert, einfach weil andere Leute schon mit gutem Gewinn verkauft haben. Das Selbe kann man leider nicht über eine einfache Zigarette sagen, unter normalen Umständen könnte es sich als außerordentlich schwierig herausstellen diese eingetauscht zu bekommen. Glück ist bei jedem Tausch notwendig, ich könnte mir allerdings vorstellen das es ab einem bestimmten Zeitpunkt durchaus einfacher sein könnte Gegenstände hoch zu tauschen. Zum Beispiel Uhren die einen sehr subjektiven Wert haben. Wir bleiben heute auf Konzertkarten für den aktuellen Tag kleben, das ist schon ein wenig schwieriger.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 22.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #29
+
+* Titel: `Yakuza 4 Remastered - #29 - der richtige Kunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe in der letzten Episode ja darüber gesprochen das der richtige Handel eigentlich immer eine Funktion der Zeit und Ort ist. Allgemeine Wahrheit die wir jetzt einfach mal als gegeben ansehen können und ich bin mir ziemlich sicher das sich irgendwelche Wirtschaftswissenschaftler darüber schon einige Gedanken gemacht haben. Interessant wird es übrigens wenn man es dann irgendwie schafft die Umgebung so zu manipulieren damit man günstige Bedingungen erhält. Man nennt das dann wohl Marktmanipulation, der Trick ist dann wohl dabei das man sich besser nicht erwischen lässt. Oder man hat natürlich einfach Glück und die Umgebung verändert sich völlig von alleine (oder zumindest so das es keiner Nachweisen kann) einfach so.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 29.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #30
+
+* Titel: `Yakuza 4 Remastered - #30 - Intimitätssimulation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich drehe mich im Kreis. Immer wenn ich davon erzähle wie ich die ganze Geschichte mit den Hostessen nicht verstehe. Bis jetzt dachte ich aber zumindest das auch den Leuten die sich der Illusion hingeben jederzeit wissen das es eine Illusion ist. Klar, man geht in das Gebäude und unterhält sich nett und dann geht man wieder nach Hause. Die Geschenke die die Hostessen anscheinend erwarten lässt die ganze Beziehung schon wieder etwas seltsam erscheinen. Weil, nun, an sich wird quasi von einer Seite erwartet gewissen Dinge einzugehen wie sie bei einer normalen Beziehung erwarten werden (da könnte man jetzt auch den Streitpunkt aufmachen inwiefern Geschenke erwartet werden), aber die andere Seite gibt Nichts außerhalb dieser Wände. Und dann kommen da noch die Dates. Bisher dachte ich irgendwie das die einzelnen Hostessen durchaus gelegentlich Interesse an den Gästen entwickeln können und das dann ernst gemeinte Beziehungen sind. Aber die emotionale Prostitution geht ja noch weiter, selbst die Gefühle hier werden nur simuliert, oder so klingt es zumindest. Rein sachlich muss man also davon ausgehen das es immer nur eine Schauspiel ist, aber ich sehe irgendwie nicht das man sich darin nicht verliert. All dies erscheint mir also sehr gefährlich. Das Ding ist, ich weiß nicht wie ich damit umgehen soll, also moralisch, es zu verbieten wäre ein wenig billig und eigentlich sind alle Beteiligten erwachsen und sollten wissen was sie da tun, und doch, doch zweifel ich an der Zurechnungsfähigkeit der Leute. Moralisch ist das Geschäft auf jeden angreifbar, immerhin eine schöne Möglichkeit für junge Frauen sich etwas dazu zu verdienen ohne körperlich aktiv zu werden. Denke ich. Auch wenn genau das meine Angst ist, das die andere Seite die Illusion zu sehr glaubt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 29.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

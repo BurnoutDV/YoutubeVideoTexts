@@ -552,6 +552,77 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 25.08.2021
   ```
 
+##### #26
+
+* Titel: `Dark Souls 2 Koop - #26 - Sangesdämonin [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Heute töten wir einen großen Frosch. Das tun wir eigentlich nur weil uns das Vieh im Weg steht. Bei vielen Gegnern wissen wir zumindest grob warum die Leute da rumstehen oder warum sie uns auch als nicht-denkende Untote uns irgendwie noch in den Weg stehen. Einige sind wahrscheinlich einfach nur da und die magische Nebelwand ist der eigentliche Grund warum wir nicht einfach weitergehen. Wenn man sich aber Leute wie den Spiegelritter anschaut weiß man schon warum der wackere Krieger uns niemals vorbei schreiten lässt. Der Sangesdämon bzw. in diesem Fall die Sangesdämonin ist halt quasi ein singender Frosch. Ich habe keine Ahnung welchen Beef wir mit dem Vieh haben. Und doch, doch töten wir.
+  
+  0:00 - Schrein von Amana
+  29:25 - BOSS: Sangesdämonin
+  35:55 - Nachbereitung
+  37:21 - Schrein von Amana
+  1:01:52 - BOSS: Sangesdämonin
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 07.09.2021
+  ```
+
+##### #27
+
+* Titel: `Dark Souls 2 Koop - #27 - Gruft der Toten [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Wir haben einen gewaltigen Frosch getötet. Der singt jetzt auch nicht mehr, weiter geht es in den Keller. Dort ruhen die Toten. Das könnte man eigentlich auch über die meisten Anderen Leute sagen die wir so treffen. Viele sind tot aber wandeln immer noch auf der Welt, der Fluch der Untoten ist da wohl ein wenig unerbittlich. Und doch, die Toten die hier angeblich ruhen scheinen doch noch recht aktiv zu sein. Immerhin verärgere ich dieses Mal nicht den Grabhüter. Das hatte ich beim letzten Mal getan als ich hier war und das hat wirklich wenig besser gemacht. Schön wenn man jemanden dabei hat der einen davon abhält dumme Fehler zu machen.
+  
+  0:00 - Schrein von Amana
+  11:10 - BOSS: Sangesdämonin
+  21:04 - Majula
+  27:34 - Gruft der Toten
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 07.09.2021
+  ```
+
+##### #28
+
+* Titel: `Dark Souls 2 Koop - #28 - Velstadt, der König-Aegis [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Ich habe in der letzten Episode bereits darüber gesprochen: Wofür kämpfen wir überhaupt? So richtig einen Antrieb gibt es ja eigentlich nicht, der Fluch des Untoten lässt einen langsam die Persönlichkeit vergessen und Stück für Stück löst man sich dann wohl auf, das ist so ähnlich wie Sterben aber wahrscheinlich nicht das Gleiche. Der einzige Ausweg scheint es zu sein immer weiter vorran zu schreiten und die Welt selbst von ihrem Fluch zu befreien, mir ist allerdings nicht ganz klar warum grade wir der bzw. die Auserwählte sein sollen und warum wir so doof sind immer weiter zu machen. Eventuell ist es ja ein Fall wie bei Mel in Portal, die ist ja auch einfach so fertig und gewissermaßen so doof das sie immer weiter macht und niemals nicht aufgibt.
+  
+  0:00 - Gruft der Toten
+  14:17 - BOSS: Velstadt, der König-Aegis
+  18.20 - Gruft der Toten
+  32:30 - BOSS: Velstadt, der König-Aegis
+  35:30 - Majula
+  36:25 - Mittleres Schloss von Drangleic
+  39:09 - Aufstieg der Toten
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 07.09.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

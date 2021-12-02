@@ -1716,6 +1716,70 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #110
+
+* Titel: `KotoR - #110 - der Freispruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute landen wir vor Gericht. Schon wieder wie ich feststellen will. Es handelt sich allerdings um die gleiche Verhandlung die ich bereits schon einmal geführt habe. Das Rechtssystem der Selkath ist immer noch sehr interessant aber noch viel interessanter sind die Schlichter die man anscheinend normalerweise ans Bein geklemmt kriegt. Ich bin übrigens ziemlich beeindruckt das die Sith nicht einfach den Prozess verzögert haben. Das würde Malak doch die ideale Gelegenheit geben nach Manaan zu fliegen und den gesamten Planeten ein zu äschern. Mittlerweile sollte er ja wissen was wir vorhaben und die Chance Bastilla und Mich und damit auch die große Mission ein für alle Mal zu beenden sollte doch eine Zivilisation und etwas Kolto wert sein oder? All das passiert aber nicht und wir lassen uns schön verteidigen. .Leider ist unser Pflichtverteidiger eine absolute Flachpfeife und nachdem er drei Mal behauptet hat er kenne sich besser nur um dann das schlechteste Plädoyer vom Stapel zu lassen das man sich vorstellen kann gehe ich dann doch selber in den Ring. Total überraschend kommen wir dann mit Massenmord davon. Das sollte uns wirklich viel zu denken geben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 17, Aufnahme vom 25.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #111
+
+* Titel: `KotoR - #111 - Manaans Rennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Geld zu verdienen. Und dieses Mal müssen wir uns gar nicht damit abmühen andauernd zu Laden und zu speichern. Stattdessen können wir einfach Rennen fahren und wenn wir dann nicht gewinnen..dann Laden wir noch einmal weil ich nicht bereit bin die Startgebühr zu riskieren. Jetzt da ich darüber nachgedacht habe muss ich leider sagen das ich mich ein wenig schuldig fühle. Wo liegt der Unterschied darin bei einem Ergebnis das ich nicht mag immer wieder zu Laden bis es richtig fällt. Da könnte ich doch gleich das Geld in meine Tasche cheaten oder die besten Waffen die ich sowieso damit kaufen würde. Alles was ich jetzt tue sind ja nur Extra-Schritte. Und ich kann mich nicht einmal damit herausreden das ich nur Möglichkeiten ausprobiere. Es ist ein klarer Test meiner Fähigkeiten, einen Test den ich nicht bestehe, oder wenn ich vorher üben wollte, gäbe es dafür ja Testfahrten. Nun, ich fühle mich dreckig, aber immerhin habe ich jetzt viel ercheatetes Geld.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 17, Aufnahme vom 25.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #112
+
+* Titel: `KotoR - #112 - Schuldspruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute sprechen wir einen schuldigen Mann schuldig. Also nicht wir machen das sondern sein Gericht. Die Sachlage ist die das wir wissen das Sunry Elossa umgebracht hat. Wir haben einen Videobeweise und Deepfakes kennt man im Star Wars Universum anscheinend nicht. Das Beste was die Sith auffahren können sind hinterlassene Beweise die ein Junky hingestellt hat nachdem sie ihm einen Zehner zugesteckt hatten. Das macht es ein wenig einfach eine Verteidigung aufzubauen, wir gehen also in die Verhandlung mit der Prämisse rein das wir wissen das es Sunry war aber präsentieren nicht die besten Beweise sondern schauen mal wie das Gericht mit den anderen Beweisen entscheidet. Schließlich haben wir das Video ja auf illegalen Wege erlangt und damit ist es ja eigentlich kein richtiger Beweis nicht wahr? Trotzdem, der Mann ist schuldig, soviel ist klar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 17, Aufnahme vom 25.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #113
+
+* Titel: `KotoR - #113 - Genoharadaner [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind auf der guten Seite der Macht unterwegs, größtenteils weil das heißt das meine Heilzauber effizienter sind und ich nicht so viele Heiltränke schlucken muss. Wenn ich mir allerdings anschaue wie viel mehr Geld die dunkle Seite der Macht zu Verfügung hat stelle ich meine vorherigen Entscheidungen schon ein wenig in Frage. Die paar Kröten für die Heiltränke hätten wir dann auch noch gehabt. Außerdem ist es irgendwie leichter böse zu werden und zu bleiben. Wenn man Gut sein will reicht es anscheinend nicht andauernd in Namen des Guten zu handeln und einfach gut zu bleiben. Nein, stattdessen werden wir jedes Mal dafür bestraft wenn wir irgendetwas moralisch leicht verwerfliches tun das einem höheren Gut dient aber jedes Mal wenn wir einfach nicht das Böse tun wird das in keiner Weise gewürdigt. Stattdessen müssen wir exzeptionelle Opfer bringen damit wir besser werden während die bösen Buben einfach nur ihrem Alltag nachgehen. Kurzfassung also, wir reden heute mit der dunklen Bruderschaft die an unsere Dienste interessiert ist und man könnte durchaus argumentieren das sie auch irgendwie Gutes für die Welt tun aber das wird nicht gewürdigt. Die Macht hat anscheinend die Moralvorstellung eines 6-jährigen. Toll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 17, Aufnahme vom 25.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

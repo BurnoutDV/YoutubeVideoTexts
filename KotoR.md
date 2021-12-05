@@ -1812,12 +1812,18 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
-##### #Nummer
+##### #116
 
-* Titel: ``
+* Titel: `KotoR - #116 - Unterwasserbasis [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die Republik hat aus irgendwelchen Gründe eine ganze Basis direkt an der anscheinend einzigen Quelle für Kolto gebaut. Warum man das getan hat und nicht etwa mobilere Lösungen bevorzugt hat ist mir ein absolutes Rätsel. Wenn wir uns einmal kurz an Tatooine zurück erinnern scheint die Größe von irgendwelchen Maschinen im Allgemeinen eher kein Problem für die Leute zu sein. Also warum eine stationäre Einrichtung errichten an einem Ort der sowieso unter Beobachtung steht. Übrigens auch fraglich, wie genau kriegen die Sith das nicht mit, die werden ja wohl Spione überall haben und so eine Einrichtung hat Personal das Verwandtschaft hat und das wahrscheinlich gelegentlich rotiert.  Letztendlich war die Errichtung einer Unterwasserbasis mit den Selkath zusammen aber wohl eher ein Fehler wenn man sich anschaut wie das Alles jetzt gelaufen ist. Natürlich retten wir noch den Tag, aber bis es soweit ist werde ich mich darüber aufregen das anscheinend Wissenschaft und grundlegende Erkenntnisse vollkommen vergessen sind. Ernsthaft, ich fühle mich in meiner Intelligenz beleidigt ob des stumpfen Niveaus dieses "Märchens".
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 18, Aufnahme vom 02.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```

@@ -494,6 +494,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #33
+
+* Titel: `Yakuza 4 Remastered - #33 - Untergrundkaufhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Bauplatz in Tokio ist ziemlich knapp soweit ich das verstanden habe. Dennoch wird ziemlich oft gebaut, anscheinend ist es so, und wir bewegen uns hier weit im Bereich des Halbwissens, das es in Japan wohl ziemlich üblich ist Dinge abzureißen und wieder aufzubauen wenn ein gewisses Alter erreicht ist. Warum man das tut weiß ich nicht, nur das es wohl so ist. Dazu werfe ich jetzt einmal die Information das man alles was mit "Bau" zu tun hat in Deutschland durchaus als korrupt bezeichnen könnte. Da gibt es anscheinend eine Menge Papierkram und solche Dinge die gut geschmiert wesentlich besser laufen als ohne. Zurück nach Japan, gehen wir also davon aus das die Yakuza durchaus ihre Pfoten im Bau von Dingen hat. Weiter müssen wir wohl davon ausgehen das es zu jedem gegebenen Zeitpunkt Baustellen irgendwo in Tokio und auch im Rotlicht-Bezirk gibt. Heute betreten wir etwas das man wohl als Untergrundkaufhaus bezeichnen könnte und mir ist ehrlich gesagt ein Rätsel warum es existiert. Also es ist sowieso nicht im Betrieb aber alles sieht so aus als wäre es in einem apokalyptischen Szenario verlassen worden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 29.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

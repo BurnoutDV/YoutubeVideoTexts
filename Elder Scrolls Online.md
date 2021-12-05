@@ -5742,6 +5742,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1605
+
+* Titel: `Let's Play ESO #1605 - Zynoakhz' Kerker [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 30 des Totenländer DLC - Sitzung 5
+  
+  Zuletzt waren wir in einer Gießerei die einen enormen Mangel an Schmelztiegeln und generellen Möglichkeiten Dinge zu gießen besaß. Heute besuchen wir dann einen Kerker der immerhin ein paar Käfige hat. Als Kerker würde ich das Ganze dann aber dennoch nicht bezeichnen. Klar, die Totenländer sind praktisch gesehen wie eine Insel von der man quasi unmöglich entkommen kann aber dennoch fehlt es mir ein wenig an Wänden und anderen Möglichkeiten Menschen physisch festzuhalten. Daedra muss man ein wenig kreativer einbinden um sie daran zu hindern schnell zu entkommen. Aber davon sehen wir auch Nichts. Ich kann jetzt schon sagen das wir eigentlich nur ein paar Tote Kultisten antreffen, das ist vielleicht irgendwie mysteriös und spricht für einen gewissen Bruch zwischen den Anhängern Dagons auf sterblicher und daedrischer Seite, an sich aber auch relativ egal für uns.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

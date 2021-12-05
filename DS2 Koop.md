@@ -669,6 +669,28 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 15.09.2021
   ```
 
+##### #31
+
+* Titel: `Dark Souls 2 Koop - #31 - Drachenhorst [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Ich glaube wir sehen heute keinen einzigen echten Drachen. Ich habe das Thema bereits mehrfach diskutiert, nicht notwendigerweise in diesem Spiel aber generell und überhaupt. Drachen sind, per Definition sechs-gliedrig weil die Flügel unabhängig von den Beinen bewegt werden können. Es gibt auch mehr humanoide Drachen die quasi aufrecht stehen und mehr Krallen die als Hand benutzbar sind haben. Das alles ist natürlich auch irgendwie egal weil wir über Fabelwesen reden die anscheinend nicht all zu viel historische Ursprünge haben, von einigen großen Echsen wie den Komodo-Waran einmal abgesehen, der hat aber recht wenige Flügel. Evolutionsbiologisch sind zusätzliche Gliedmaßen auch eher unwahrscheinlich, habe ich zumindest mal gelesen. Manchmal werden Menschen mit Sechs Fingern geboren aber den Zusatzfinger können sie dann nicht benutzen. Bei spontan auftretenden Gliedmaßen wäre es dann wohl genauso. Drachen sind also entweder ziemlich außer"irdisch" oder wurden immer falsch aufgemalt. Was wir stattdessen heute in Masse treffen sind übrigens Wyvern, quasi so Viecher wie der Wächterdrache. Spontan würde ich auch behaupten das die Viecher auch irgendwie Hüllen sind, weil das Nahrungsangebot im Horst ist doch recht überschaubar.
+  
+  0:00 - Aldias Festung
+  10:32 - Schloss von Drangleic
+  14:11 - Drachenhorst
+  52:37 - Drachenschrein
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.09.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

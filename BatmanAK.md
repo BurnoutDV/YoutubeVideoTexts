@@ -73,6 +73,22 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #5
+
+* Titel: `Batman Arkham Knight - #5 - anonyme Leichen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon haben wir es geschafft. Der Hauptteil des Spieles kann jetzt für einen Moment in den Hintergrund rücken und wir beschäftigen uns fürs Erste mit Dingen die nicht ganz so wichtig erscheinen, zum Beispiel einer Serie von Morden an Opfern die wir leider nur sehr schwer identifizieren können. Da wir gegen jedes Prinzip von Datenschutz verstoßen und quasi all sehenden Zugriff auf Daten haben gelingt es uns natürlich dennoch eine beliebige Person zu identifizieren. Ich finde das ziemlich dystopisch. Es wird hier dargestellt als wäre es etwas Gutes, als würde der Zweck die Mittel heiligen, wir können ja schließlich unseren Fall weiter aufklären. Aber die Tatsache das Bruce Wayne Zugriff auf all diese Informationen, mobil noch dazu, hat ist eigentlich einfach nur schlecht. Wenn Bruce Wayne Zugriff hat dann muss es eine Verbindung geben die nach Draußen führt, eventuell liegen all diese Daten auch auf einem zentralen Server. Schön und gut das Batman noble Gründe hat zu tun was er tut, aber wer sagt das nicht jemand Anderes die gleichen Schritte geht und damit wesentlich finsterer unterwegs ist. Vom potenziellen Identitätsdiebstahl einmal abgesehen würden natürlich auch Versicherungen solche Daten liebend gerne haben um Risiken besser zu berechnen. Und dann gibt es da natürlich noch das Potenzial explizit Leute mit psychischen Erkrankungen für Betrug als Ziel auszuwählen. Oder Arbeitgeber die über dubiose Quellen Zugriff erhalten und dann Leute nicht einstellen. Oder oder oder. Allein die Tatsachen das die Daten verfügbar sind ist ein Problem. Das Wayne Enterprise direkten Zugriff hat ist zwar eine gewaltige Lücke aber bei Weitem nicht die Wurzel.
+  Nun, wir setzen auf jeden Fall unser absolut kritisches Wissen dazu ein um rauszukriegen das die Person nicht in Gotham wohnt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 30.11.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -464,6 +464,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #31
+
+* Titel: `Yakuza 4 Remastered - #31 - Hostess-Verschandelung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es geht wieder los, wesentlich später übrigens als ich gedacht hätte, wir beschäftigen uns wieder damit irgendwie den Wünschen der Kunden zu entsprechen. Das bedeutet in der Praxis das wir unserer Hostess wie einer Barbiepuppe irgendwelche Klamotten anziehen. Ich wüsste jetzt wirklich gerne wie das in der Realität aussieht. Ob es darüber eine Doku auf Deutsch oder Englisch gibt? Hintergrund ist das ich wirklich gerne wüsste ob der Club den Frauen tatsächlich exakt vorschreibt was sie zu tragen haben oder ob es eher so etwas wie eine allgemeine Auswahl gibt und der Rest wird dann halt so entschieden. Auch interessant wäre wo genau die Linie zwischen Spielmechanik und Ansatz von Realität anfängt. Natürlich gibt es Dokus, bzw. eher so Youtuber die selber mal einen Tag dort gearbeitet haben. Hmm. Ich werde mit neuen Erkenntnissen zurückkehren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 29.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #32
+
+* Titel: `Yakuza 4 Remastered - #32 - Ungebetene Gäste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Besuch zu erhalten ist nicht immer schön. Ich persönlich hatte es noch nie das irgendjemand den ich nicht kenne ungefragt bei mir aufgetaucht ist. Gelegentlich klingelt irgendjemand der Spendengelder von mir haben will oder der sich als Mitarbeiter eines Anbieters ausgibt. Nun, wie dem aber auch sei, man dürfte also davon ausgesehen das ungebetene Gäste im Allgemeinen ein Euphemismus für uns ist die nicht reich genug sind um aus politischen Gründen einen Besuch nicht ablehnen zu können. Akiyama ist zwar reich, verkehrt aber auch nicht in den richtigen Zirkeln um tatsächlich echten Besuch zu erhalten den er nicht abweisen kann. Stattdessen wird sein Büro heute von Schlägern besucht. Viel schlimmer auch noch, er selbst ist gar nicht da um zumindest ein guter Gastgeber zu sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 29.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

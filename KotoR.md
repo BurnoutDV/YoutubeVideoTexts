@@ -1780,6 +1780,38 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #114
+
+* Titel: `KotoR - #114 - Auftragsmord [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ziemlich schwierig Mord als moralisch dar zu stellen. Das wird gerne immer wieder versucht. Das endet dann in einer "Der Zweck heiligt die Mittel" Diskussion. Die Quintessenz ist letztendlich aber wohl wie man moralische Maßstäbe anlegt. Wenn man einen korrupten Politiker der seine Spuren gut verwischt um die Ecke bringt weil man sicher weiß das er schuldig ist war das dann Gerechtigkeit? Letztendlich hat man ja dennoch die die Trennung von Recht und Rechtssprechung umgangen. Andererseits heißt Recht haben auch nicht Recht bekommen. Generell und überhaupt würde ich behaupten das ich die Welt als ziemlich ungerecht wahrnehme und allgemeine Korruption die schuldige Leute davon abhält für schuldig gesprochen zu werden zählt dazu. In großen System wie der Republik gibt es Lücken, Lücken in denen sich Leute die wissen wie man die Grauzone reitet sehr lange verweilen könne, und in all der Zeit leiden andere Leute unter den Taten des Reiters. Heute bringen wir zwei Leute um und kassieren dafür massig negative Punkte. Das nervt mich ziemlich. Der eine ist ein Aufwiegler der seine eigene Verhandlung nutzen möchte um seine Agenda weiter zu bringen. Mit unserer Tat halten wir ihn davon ab, die Entscheidung das dieser Vortrag schädlich sein soll fällt unser Auftragsgeber. Was wenn der Fall eine ganz andere Auswirkung hat? Sind wir wirklich berechtigt das "Volk" einfach so zu bevormunden? Auf der anderen Seite scheint die Nutzen Abwägung klar, wenn er in der Arrestzelle stirbt ist es so als hätte er nie gesprochen und wir haben das Potenzial einer Person annulliert aber die Gefahr für viele gebannt. Das zweite Opfer ist ein Schmuggler und Menschenhändler, objektiv sind seine Taten falsch und die Republik scheint nicht willens einzugreifen, aber, wäre es nicht besser das System zu verändern das ein solches Verhalten überhaupt ermöglicht? Oder ist dieser Weg einfach zu schwer, zu unnahbar und von unseren Gegnern auch antizipiert. Ein echtes Dilemma, gehen wir davon aus das unser imaginärer Gegenspieler damit rechnet das wir moralisch handeln kann er sich darauf vorbereiten das wir versuchen den "Dienstweg" zu gehen und schummeln. Ein gewaltvolles Attentat ist hingegen wesentlich chaotischer. Und das Ergebnis für dieses Individuum wäre das Gleiche. Auch wenn es ungewollte Konsequenzen geben könnte, wie zum Beispiel das die Regierung auf das Attentat irgendwie reagiert. Zuletzte sei noch zu bedenken ob man unseren Auftragsgeber, der dunkeln Bruderschaft, wirklich trauen kann. Klar, sie sagen das sie für die Republik handeln. Aber das behaupten sie auch nur und eine echte Datenlage haben wir dann auch nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 17, Aufnahme vom 25.11.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #115
+
+* Titel: `KotoR - #115 - Tauchgang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist schon irgendwie ironisch. Gewissermaßen ist es schwieriger die Tiefsee zu erkunden als den Weltraum. Klar, es gibt da so Grenzen wie schiere Entfernungen und diese ganze nervige Interaktion von Strahlung und biologischen Komponenten aber letztendlich sind das alles greifbare Probleme. Auch die enorm hohen Geschwindigkeiten mit denen sich alles bewegt, die ebenso enormen Kräfte die wirken wenn man sich ein wenig verrechnet, alles am Ende leichter zu handhaben als die enormen Drücke die die Tiefsee zu bieten hat. Im Star Wars Universum hat aber irgendwann irgendwer anscheinend auch diese Probleme gelöst und die normalen Bürger des Universums können sich tiefer gelegene Orte ohne weitere Problem anschauen. Was anscheinend nicht gelöst wurde war das sichere Fortbewegen unter Wasser, stellt sich doch glatt heute heraus das wir die unterirdische Basis nicht mehr verlassen können weil wir Angst vor Haiangriffen haben müssen. Irgendwie ein wenig lächerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 18, Aufnahme vom 02.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

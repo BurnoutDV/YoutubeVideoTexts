@@ -5712,6 +5712,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1603
+
+* Titel: `Let's Play ESO #1603 - Elendspitze [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 28 des Totenländer DLC - Sitzung 4
+  
+  Elendspitze ist ein kleines Dorf das mitten in den Totenländern liegt. Hier lagern sowohl Daedra als auch Menschen. Wo genau die Menschen herkommen ist mir übrigens immer noch nicht so ganz klar. Das Spiel behauptet das es sich um entlaufende Sklaven handelt allerdings ist mir auch noch nicht klar warum man als aufrechter Daedra überhaupt menschliche Arbeitskräfte einsetzen möchte. Letztendlich sind die doch auch nicht besser als einige der weniger intelligenten Daedra. Weiter gibt es Magie und die wir auch recht reichhaltig eingesetzt. Aber das ist wahrscheinlich generell das Problem. Gehen wir einfach davon aus das es ein "göttliches" Mandat gibt Sterbliche soviel leiden zu lassen wie es nur geht ohne jetzt weiter in Frage zu stellen das das was man tut ziemlich ineffizient ist. Der Ort selber ist leider eine ziemliche Enttäuschung. Er wirkt irgendwie leer, fast wie eine schnelle Demo die mir zeigen soll was hätte sein können.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1604
+
+* Titel: `Let's Play ESO #1604 - Jynd's Gießerei [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 29 des Totenländer DLC - Sitzung 5
+  
+  Wir betreten heute eine Gießerei, die einen gewissen Jynd gehört. Eigentlich wahrscheinlich eher Mehrunes Dagon weil ihm einfach alles in den Ländern gehört. Allerdings...ich habe Schwierigkeiten etwas Anderes als irgendwelche Daedra zu sehen. Eine Gießerei in dem Sinne gibt es auf jeden Fall nicht. Vielleicht handelt es sich aber auch mehr um einen kulturellen Begriff der darauf anspielt das an dem Ort etwas grundlegendes Geschaffen wird. Oder aber es war einmal eine Gießerei in der goldenen Zeit der daedrischen Kultur die jetzt halt nur schon lange vorbei ist. Generell und überhaupt sollte ich wahrscheinlich nicht allzu viel darin lesen das die Objekte die wir in der Ebene des Vergessens sehen auch irgendwie geschaffen werden muss. Klar, einige Teile werden direkt aus Nirn importiert aber es gibt ja auch daedrische Konstruktionen. Wo kommt das Baumaterial, wo die Rohstoffe her? Einfach aus der Luft erschaffen? Fragen über Fragen. Mein sterblicher Geist ist wohl nicht in der Lage das Konzept zu erfassen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

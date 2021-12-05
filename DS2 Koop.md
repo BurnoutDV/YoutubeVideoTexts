@@ -623,6 +623,52 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 07.09.2021
   ```
 
+##### #29
+
+* Titel: `Dark Souls 2 Koop - #29 - Feuersalamander [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Als wir damals im Kardinalsturm unterwegs waren gab es ein paar kleine Ecken die wir uns nicht getraut haben zu betreten. Dazu zählen unter anderen die Kellergeschosse wo sich die großen Salamander aufhalten. Die sind für niedrige levelige Charaktere durchaus ein wenig furchteinflössend. Jetzt da wir gestandene Helden sind ist das aller aber kein Problem mehr und wir begeben uns dorthin um sich die Landschaft ein wenig näher anzuschauen. Danach geht es aber normal weiter und wir gehen endlich zu Aldias Festung, dem Ort an dem all die Bestien und Tiermenschen entstammen.
+  
+  0:00 - Kardinalsturm
+  5:51 - Salamanderkeller
+  14:45 - Majula
+  16:45 - Weg zum Nebelturm
+  21:33 - Aldias Festung
+  37:59 - BOSS: Wächterdrache
+  40:40 - Drachenhorst
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 07.09.2021
+  ```
+
+##### #30
+
+* Titel: `Dark Souls 2 Koop - #30 - Aldias Festung [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und hier sind wir, heute auch in Vollzeit, der Ort an dem Aldia all seine Schrecken erschaffen hat. Oder auch Wesen, das Ende seiner Schöpfung war immerhin die Smaragd Heraldin, also kamen nicht immer komplett unmenschliche Bestien heraus. Dennoch gibt es doch das ein oder andere ekelhafte Detail in den tieferen Kammern der Festung. Nur Aldia selbst werden wir wohl nicht finden. Soweit ich die Lore verstanden habe hat Aldia irgendetwas mit sich gemacht beim Versuch dem Zyklus von Licht und Dunkel zu entkommen. Das sorgt anscheinend auch dafür das er halt immer ein wenig präsent ist, aber seine Form ist auch leicht zerstört. Was wir allerdings finden ist ein Wächterdrache, eigentlich übrigens nur ein Wyver, daran zu erkennen das die Flügel quasi die Vorderbeine sind wie bei einer Fledermaus. Ein echter Drache hätte insgesamt 6 Gliedmaßen. Spielt aber alles keine Rolle, an sich gibt es auch noch interessantere Wesen in der Festung. Die meisten mögen uns allerdings nicht.
+  
+  0:00 - Aldias Festung
+  46:14 - BOSS: Wächterdrache
+  48:10 - Aldias Festung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.09.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

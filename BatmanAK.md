@@ -89,6 +89,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #6
+
+* Titel: `Batman Arkham Knight - #6 - Untergrundrennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das neue Batman ist scheinbar das Selling-Feature von Batman Arkham Knight, dementsprechend müssen wir es jetzt bei jeder Gelegenheit nutzen. Das ist auch irgendwie logisch, im Vorgänger waren es ja die neuen Gadgets die scheinbar eine Erweiterung der bisherigen Objekte dargestellt haben die wir in Asylum kannten. In dieser Hinsicht fiel den Entwicklern aber wohl nicht genügend neues Zeug mehr ein. Ich kann das auch irgendwie verstehen, man möchte ja auch auch nicht zu lassen das alle Spielemagazine reihenweise berichten das das neue Spiel der Vorgänger in neuen grafischen Anstrich ist. Daher bin ich zumindest bereit auf einer Sachebene zu akzeptieren das man jetzt in eine andere Richtung gehen musste. Das Batmobil war bis hier ziemlich unter benutzt. Allerdings frage ich mich wirklich ob es sein musste das es in jeder sich bietenden Gelegenheit gebraucht wird. Heute zum Beispiel um "Rätsel" des Riddlers zu lösen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 30.11.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #7
+
+* Titel: `Batman Arkham Knight - #7 - Im Glockenturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann mich grob erinnern das ich in der letzten Instanz dieser Batman-Reihe darüber gemeckert habe das ich es für keine gute Idee halte eine Basis, insbesondere aber die eines Hackers an einen oberirdischen Ort einzurichten. Wir wissen bereits das verschiedene Feinde von Batman über unterschiedliche Mengen an Informationen darüber verfügen wie seine Logistik und Informanten aufgebaut sind. Außerdem unterhält er sich andauernd per Video-Hologram aus seinem Handschuh mit seinen Mitstreitern. Ein entsprechend williger Beobachter sollte doch eigentlich in der Lage sein den dunklen Rächer einige Informationen abzugewinnen, insbesondere wenn man bedenkt das es bestimmt einige Dächer gibt die relativ regelmäßig von Batman besucht werden. Lange Geschichte kurz, nicht nur wenn sie vor die Tür treten sondern auch in ihren Basen sind die Gefährten der Fledermaus bedroht. Und da stellt sich jetzt die Frage wie man einen hohen Turm verteidigt. Oracle sitzt übrigens im Glockenturm, absolut unauffällig und ich bin mir sicher niemand hat Batman dabei beobachtet wie er eintrat. Außerdem frage ich mich ernsthaft warum überhaupt ein Hausbesuch notwendig war. Social Distancing würde dem Rächer gut zu Gesicht stehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 30.11.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1827,3 +1827,45 @@
   Sitzung 18, Aufnahme vom 02.12.2021
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
+
+##### #117
+
+* Titel: `KotoR - #117 - Hai-Angriff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man kennt das ja, man überwindet die unfassbaren Strecken die das Universum zu bieten hat, meistert die technischen und moralischen Schwierigkeiten die eine galaktische Zivilisation mit sich bringt und schafft es dennoch irgendwie ethisch im Mittelalter zu bleiben und dann landet man auf einmal auf einem Wasserplaneten und nicht nur ist man nicht in der Lage solche trivialen Dinge wie Wasserdruck Herr zu werden, nein, es wird sogar noch schlimmer. Heute erleben wir quasi die Neuauflage des weißen Hais nur das der nicht zwingend weiß sein muss noch das es sich wirklich um einen klassischen Hai handelt, aber es ist nahe genug dran das man das wohl annehmen könnte. Auch interessant woher man überhaupt weiß das es sich um einen Hai handelt, weil unsere einzelnen Teammitglieder und bestimmt auch viele Bürger der Republik kommen doch sicher von sehr vielen verschiedenen Welten, von denen einige bestimmt gar keine großen Wasserflächen haben. Alles seltsam, immerhin gibt es heute die brandaktuelle Erkenntnis das dichte Medien Schallwellen besser transportieren. Mal sehen was wir morgen erfahren!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 18, Aufnahme vom 02.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #118
+
+* Titel: `KotoR - #118 - Notsprengung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wieder einmal Zeit für moralische Entscheidungen. Der Sachverhalt ist so, die Republik hat in Kooperation mit einigen Mitglieder der Selkath Regierung eine "Forschungsstation" auch bekannt als gewaltiger Kolto-Sammler im Hrakert-Riff errichtet. Dies sollte dazu dienen mehr von dem heilenden Stoff als die verfeindeten Sith zu besitzen. Allerdings hat die erhöhte Förderung wohl andere Problem auf dem Plan gerufen. Wie wir mittlerweile wissen gibt es wohl einen gewaltigen firaxianischen Hai der es nicht besonders lustig findet was die Republik da tut, schlimmer sogar noch, es scheint eben jener Hai ist sogar in der Lage die Selkath psychisch zu beeinflussen. Alles sehr unangenehm. Des Problems Ursache ist also relativ klar. Der Hai muss wohl weg. Allerdings gibt es da noch einige Überlegungen ob das so klug sein könnte. Alternativ könnten wir natürlich auch einfach die gesamte Anlage sprengen und hoffen das das Tier dann an den letzten 4 Überlebenden kein Interesse mehr. Die rein logische Entscheidung wäre ziemlich einfach aber wir reiten ja ein sehr hohes moralisches Pferd, daher sollte allgemein bekannt sein was wir tun. Spätestens nach dem Lesen des Titels.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 18, Aufnahme vom 02.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

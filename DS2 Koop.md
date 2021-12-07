@@ -691,6 +691,50 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 15.09.2021
   ```
 
+##### #32
+
+* Titel: `Dark Souls 2 Koop - #32 - Drachenschrein [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Alles was wir heute tun ist irgendwie eine Lüge. Ich weiß nicht genau wie das mit den Illusionen in der Dark Souls Welt geschieht aber ich bin mir ziemlich sicher das sie auf jeden Fall machtvoll sein können. Teilweise kommen sie sogar mit ihren eigenem Bewusstsein und offensichtlichen physischen Qualitäten. Fragwürdig dabei ist aber auch was dann noch eine Illusion von der Realität unterscheidet. Der große Unterscheid scheint ja zu sein das die Illusion, wenn sie besiegt ist bzw. ihre Lebensenergie vollständig erschöpft ist, sie in sich selbst zusammen bricht. Und dann findet man das aus dem die Illusion gemacht ist. Manche davon sind eher wie ein Sprechautomate, ein kleines Gerät das ein paar Worte sagt wenn man metaphorische Münzen einwirft, Andere sind wesentlich autonomer. Heute treffen wir am Drachenschrein ein Exemplar das besonders autonom ist, den "uralten" Drachen.
+  
+  0:00 - Drachenschrein
+  1:00:00 - Uralter Drache
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.09.2021
+  ```
+
+##### #33
+
+* Titel: `Dark Souls 2 Koop - #33 - Uralter Drache [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Der uralte Drache ist nur eine Illusion. Zumindest habe ich das so gelesen als ich eigentlich etwas über Aldia herauskriegen wollte. Die schlechte Zusammenfassung ist das Aldia quasi der Schuppenlose dieser Generation ist aber ein wenig anders operiert, am Ende ist er selbst zu einem körperlosen Wesen geworden das außerhalb der Zyklen steht. Andere Leute die seine Opfer wurden wurden aber nicht so sehr verändert. Auch hat er versucht die Natur der Seelen zu erkunden und er war scheinbar nicht in der Lage einen echten Drachen zu erschaffen. Was er aber konnte war eine Riesenseele dafür zu verwenden eine wirklich mächtige Illusion zu erschaffen. Die gleiche Illusion gegen die wir heute auch kämpfen. Jetzt fragt man sich allerdings ob es falsch war die Drachenillusion zu erschlagen. Konnte der unechte uralte Drache vielleicht dennoch eine Funktion für die Welt erfüllen?
+  
+  0:00 - Majula
+  2:00 - Drachenschrein
+  8:22 - BOSS: Uralter Drache
+  42:12 - Majula
+  45:44 - Hölle der Untoten
+  53:44 - Eisenschloss
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 22.09.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

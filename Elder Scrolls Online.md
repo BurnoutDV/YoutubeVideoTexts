@@ -5757,6 +5757,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1606
+
+* Titel: `Let's Play ESO #1606 - ElendsHaft [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 31 des Totenländer DLC - Sitzung 5
+  
+  Die heutige Episode ist besonders komisch geschrieben, nur für den Fall das ich nicht der Einzige bin der das selbe Problem hat das Wort "Elendshaft" richt zu lesen. Die ganze Zeit lese ich "Elend-Shaft", ja, das Wort "Shaft" gibt es im Deutschen gar nicht, aber mein Kopf ist anscheinend schon so darauf versteift englisch lesen zu wollen. Wie dem aber auch sei, letztendlich handelt es sich quasi im Einzelzellen für die Leute die die Daedra in den Totenländern besonders nicht leiden können. In der Regel sind das wohl andere Daedra da man für Sterbliche auch nur normale Wände braucht, die finden wir aber auch vor Ort. Letztendlich handelt es sich wohl um einen ziemlich schrecklichen Ort auch wenn die Spielmechaniken das nicht so gut rüber bringen. So weit wir wissen haben die Dremora und Kyn nicht wirklich einen richtigen Moralkodex sondern stattdessen Pakte und Allianzen die meistens ziemlich bindend sind. Daher ist die Idee von Haftstrafen eher ein abstraktes Konzept, insbesondere wenn man die Ewigkeit hat. Andererseits ist es anscheinend auch nicht so einfach jemanden zu bestrafen der immer wieder kommt. Zwischenzeitlich habe ich aber auch gehört das man wohl einige Daedra in die Leere bannen kann, der Effekt hält nicht ewig wie wir bereits wissen und entspricht vielleicht auch nicht dem Wunsch nach Leid das so manche Bewohner der Totenländer verspüren. Und das bringt dann wohl diesen Ort hier ins Spiel. In den Blutgruben wird quasi der Strafvollzug angetreten, nur ohne das Ganze Drumherum mit Recht und Verhandlung. Ich bin mir ziemlich sicher das man hier einfach Leute wegsperren kann ohne das allzu viele Fragen gestellt werden wer da eigentlich in den Kerker geworfen wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1607
+
+* Titel: `Let's Play ESO #1607 - Geheimnistiefen [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 32 des Totenländer DLC - Sitzung 5
+  
+  Der heutige Titel bedarf einer kurzen Erklärung. Das ist insbesondere dann lustig wenn man bedenkt das ich diese Beschreibung erst viele Stunden später schreibe. Also, es ist so, heute betreten wir keinen Ort der so heißt. Sollte es irgendwann einmal in der Zukunft einen solchen Ort geben und du lieber Zuschauer bist hier weil du nach Richtungen oder Tipps suchst, ich habe leider keine Ahnung. Oben steht ja auch das es um Deadlands geht. Ich könnte mir aber vorstellen das im Jahre 2028 das "Cryptsecrets" DLC mit Hermeus Mora in der Hauptrolle heraus kommt in der wir Apokrypha besuchen und es dort halt in der deutschen Version die Geheimnistiefen gibt. Zur eigentlichen Sache: an sich fassen wir heute nur den letzten Auftrag zusammen, was wir zu letzt erreicht haben und wie unser neuer Plan ist. Eigentlich ist an der Front auch alles ziemlich klar. Wir müssen so schnell wie es nur geht zum Gipfel des Annihilarchen und Aufhalten was dort geschieht. Davon abgesehen haben wir eigentlich mehr Fragen als vorher und ich ahne leider das unsere kleinere Seitengeschichte mit der Anachoretin noch früher oder später mit der eigentlichen Geschichte verbunden wird. Aber die Geheimnisse gewinnen immer neue Tiefen, das ist mal klar.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

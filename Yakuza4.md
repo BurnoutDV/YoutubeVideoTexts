@@ -509,6 +509,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #34
+
+* Titel: `Yakuza 4 Remastered - #34 - Kettensägenmassaker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Per Definition kann unser Held außerhalb von Zwischensequenzen eigentlich keinen echten Schaden nehmen. Das macht spitze oder scharfe Waffen wesentlich weniger gefährlich als sie es im echten Leben sind. Auch Kettensägen sind als Mittel in einem schusswaffenlosen Kampf eine gewaltige Bedrohung, eine leichte Berührung kann hier schon das ende bedeuten, selbst wenn keine Geschwindigkeit in der eigentlich Schlagbewegung liegt. Glücklicherweise ist Akiyama ein Spielcharakter und der Sequenz nach weicht er ja erfolgreich aus. Man könnte wahrscheinlich von ludonarrativer Dissonanz sprechen. Die Spielmechanik legt da klare Grenzen auf wie weit unser Protagonist eigentlich verletzt werden kann. In anderen Worten: unsere heutige Episode und ihr Titel ist reines Clickbait. Selbstverständlich wird niemand ernstlich verletzt. Zumindest nicht so das die Leute sich nicht mehr aus eigener Kraft zum nächstbesten Krankenhaus schleppen können.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 29.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #35
+
+* Titel: `Yakuza 4 Remastered - #35 - teurer Abschied [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist der letzte Arbeitstag von Lily. Wir erinnern uns das wir eine Bedingung dafür gestellt haben das sie 100 Millionen Yen erhält wenn sie in der Lage ist eine bestimmte Menge an Geld als Hostess zu verdienen. Außerdem ist sie immer noch ziemlich damit beschäftigt ihre Vergangenheit im Dunkeln zu lassen, aber einem Typen wie Akiyama ist das auch irgendwie egal. Weiter lernen wir noch über die feinen Details des Hostess Lebens die ein oder andere Sache. Das erfreut mich natürlich besonders sehr weil ja bereits bekannt ist das ich diese Art von Minispiel so sehr liebe. Noch besser macht all das übrigens das man in diesem Teil genau die gleiche Mechanik präsentiert kriegt wie im Vorgänger, die gleiche dumme undurchsichtige Mechanik die absolut keinen Sinn ergibt und die nicht transparent darlegt was hier eigentlich passiert ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 29.11.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1860,6 +1860,38 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #119
+
+* Titel: `KotoR - #119 - Fluchtplan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß gar nicht wo ich anfangen soll. Also, die Sachlage ist so. Wir fliegen durch das Universum von einem Ort zum Anderen und verlassen grade Manaan mit dem Ziel die Yavin Station anzufliegen. Doch dazu kommt es nicht, stattdessen werden wir überraschend irgendwie aus dem Hyperraum gezogen. Dadurch das die gesamte Star Wars Hintergrundgeschichte irgendwie ein wenig..locker ist bin ich mir nicht sicher ob es sich lohnt irgendetwas durchzulesen und dann darauf zu vertrauen das es in meinem Spezialfall dann auch genau so funktioniert. Also, die Sachlage ist die, anscheinend hat man vor 10000 Jahren die "Hyperraumrouten" entdeckt, dann gab es zwischenzeitlich auch die Hyperraumkriege. Ich gehe einmal davon aus das die Leute auch schon vorher irgendwie zwischen den Sternen gereist sind, nur halt langsamer. Wenn wir uns eine solche Route als eine Art Autobahn vorstellen wäre es ziemlich logisch das man uns von der Seite raus ziehen kann. Allerdings...warum erwischen wir direkt das Flaggschiff von Saul Karath? Ich meine, woher sollen die den wissen wohin wir wollen, ich wusste das vor 5 Minuten ja auch noch nicht. Und außerdem, warum ist meine Mannschaft eigentlich so pessimistisch was das Freischießen angeht. Wir werden später sehen, das klappt eigentlich super.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 18, Aufnahme vom 02.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #120
+
+* Titel: `KotoR - #120 - das Verhör [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben eine geheime Mission und die darf nicht jeder wissen. Daher werden wir heute verhört. Eigentlich kann man sogar richtig von Glück reden das man genau die drei Leute sich geschnappt hat die man nicht ohne Weiteres brechen kann. Man stelle sich einmal vor wir hätten hier Juhani, den Astromech und Canderous hingestellt. Der Eine hätte uns verkauft, den Mech hätte man easy auslesen können und ich bin mir nicht sicher wie lange Juhani der dunklen Seite widerstehen kann. Dennoch kommt es mir ein wenig seltsam vor das wir uns zwar so dolle Gedanken gemacht haben wie man ausbricht das Thema Gefangennahme aber nie irgendwie aufgetaucht ist. Damit war doch irgendwie zu rechnen oder? Die Republik hat auf jeden Fall weniger breit gestreute Ressourcen als die Sith die scheinbar überall ihre Agenten haben, das irgendjemand meiner Leute entführt wird war quasi sicher, das es noch nicht vorkam ist quasi eine große Enttäuschung. Also stell sich wieder die Frage, warum haben wir für diesen Fall nicht geübt? Hätten wir nicht lange Raumreisen Zeit gehabt genau für diesen Fall zu trainieren?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 18, Aufnahme vom 02.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -735,6 +735,58 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 22.09.2021
   ```
 
+##### #34
+
+* Titel: `Dark Souls 2 Koop - #34 - Gedenken im Nebel [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Die Gedanken an diejenigen die vor uns kamen sind immer ziemlich wichtig im Dark Souls Universum, besonders wenn man bedenkt das die Zeit nicht linear fließt und das was für uns lange vergangen ist vielleicht doch gar nicht so weit zurück liest. Generell und überhaupt hat dieses Konzept auch etwas tröstliches wenn man sich anschaut in welchen Zustand sich Drangleic befindet, wie schon seit Ewigkeiten wahrscheinlich Nichts sich verändert hat, alles in einer gewissen Statik die doch lebt. Die ganzen Untoten die überall herumstehen sind eine Art lebendiger Staub, unberührt solange man sie nicht aufmischt, aber die Tatsache das die Vergangenheit näher sein könnte als es aussieht birgt Potenzial, leider besteht dieses Potenzial darin das wir alles alleine erleben müssen. Das ist ein wenig traurig.
+  
+  0:00 - Kardinalturm 
+  1:48 - Gedenken an Jeigh
+  8:40 - Gedenken an Vammar
+  22:33 - Gedenken an Orro
+  42:27 - Gruft der Untoten
+  45:48 - BOSS: Vendrick
+  49:00 - Gruft der Untoten
+  53:27 - Lichtsteinbucht Tseldora
+  58:30 - Drachengedenken
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 22.09.2021
+  ```
+
+##### #35
+
+* Titel: `Dark Souls 2 Koop - #35 - Shulva, Stadt des Heiligtums [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Unsere Reise in Drangleic hat irgendwie doch recht schnell ihr Ende gefunden. Eigentlich fehlt jetzt nur noch der letzte Marsch auf den Thron des Verlangens, aber bevor wir das tun gibt es noch ein paar andere Orte die wir bereisen müssen. Namentlich sind das Shulvar, der Nebelturm und natülich Eleum Loyce. Aber Eines nach dem Anderen, heute machen wir unsere ersten Schritte in Shulva, Hort eines uralten, echten Drachens der hier wohl seine letzte Ruhe verbringt. Da Nichts so richtig sterben kann lebt das Vieh natürlich immer noch und man braucht wohl den Einsatz von Profis um das Wesen endlich seinen ewigen Schlummer zu übergeben. Die Episode fängt ein wenig chaotisch an weil am Anfang nicht klar ist wie wir überhaupt anfangen wollen. Aber dann findet alles seine Ordnung und wir gehen in die grüne Dunkelheit.
+  
+  0:00 - Lichtsteinbucht Tseldora
+  2:14 - Majula
+  6:00 - Drachenschrein
+  14:30 - Verlorene Festung
+  21:16 - Shulva, Stadt des Heiligtums
+  45:53 - Majula
+  48:31 - Shulva, Stadt des Heiligtums
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 01.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

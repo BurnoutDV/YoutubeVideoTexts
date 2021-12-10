@@ -5787,6 +5787,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1608
+
+* Titel: `Let's Play ESO #1608 - Uxarks Mysterium [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 33 des Totenländer DLC - Sitzung 5
+  
+  Ich weiß ehrlich gesagt nicht mehr was ich überhaupt noch zu den Schatz sagen soll den wir heute heben. Ich für meinen Teil bin auf jeden Fall bitterlich enttäuscht das ich nicht einmal die Option habe ihn zu öffnen. Klar würde er dadurch wertlos werden aber das wäre ja eben die bewusste Entscheidung die ich gerne fällen würde. Nun, davon einmal abgesehen besuchen wir heute auch mal wieder die lustigen Lavaatolle um dort irgendeinen niedereren Diener von Dagon umzuhauen, ich kann nicht grade sagen das ich das zum ersten Mal mache aber es streckt heute die Zeit ein wenig. Das war tatsächlich unabsichtlich, aber ich sollte es wohl besser wissen als zum vierten Mal in den gleichen Ort zu gehen, auch glaube ich nicht mehr das ich noch irgendwelche Quests an diesen Ort finden kann.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1609
+
+* Titel: `Let's Play ESO #1609 - Schutz der Elendspitze [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 34 des Totenländer DLC - Sitzung 5
+  
+  Die Elendspitze ist ein Teil von Gramfeste, so wurde zumindest an anderer Stelle einmal behauptet. Ob es jetzt wirklich so ist kann ich auf die Schnelle gar nicht verifizieren, aber die Architektur sieht zumindest grob so aus als würde sie passen. Davon einmal abgesehen ist der ganze Ort und die damit einschließenden Bauwerke ein Stück aus Nirn, ein kleiner Fremdkörper im Reich des Vergessens. Eine Narbe die seit ihrer Entstehung Veränderungen unterlegen hat, allerdings hat sie auch die Eigenschaft das sie einen gewissen Schutz für die Daedra aber wohl auch für die Menschen die hier leben bietet. Jetzt stellt sich ein wenig die Frage ob das Bauwerk selbst einen Schutz der Dunkelelfengötter hat oder ob es Dagons Tun war das diesen Ort so verändert ist das er funktioniert wie er funktioniert.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

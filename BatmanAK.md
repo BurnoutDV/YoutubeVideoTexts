@@ -119,6 +119,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #8
+
+* Titel: `Batman Arkham Knight - #8 - die Seilwinde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein Auto. Wir haben ein Flugzeug. Das ganze Zeig ist, wie ich noch später feststellen werde, ein wenig wie bei Apple. Das Ding hat immer ein Prefix, wir haben also logischerweise einen Bat-Panzer und ein Bat-Kampfjet. Heute wollen wir ein Ortungsgerät anwerfen, dafür brauchen wir offensichtlich Strom weil die sterbende Staat auch keine richtige Infrastruktur mehr hat und sehr überraschend Waynetech keine mobile Vollüberwachung bietet (jaja, ich bin auch überrascht). Daher nutzen wir das Zeug das es schon gibt und versorgen das aber immerhin selber mit Strom. Anstatt jetzt aber einfach einen Dieselgenerator abzuwerfen gibt es stattdessen eine Erweiterung. Wir machen mit unserem Bat-Flugzeug irgendein super kompliziertes Docking Manöver an unserem Bat-APC um dann eine Seilwinde zu installieren damit wir irgendwie auf das Dach des Gebäudes 200 Meter weiter rauf zu kommen um dann unser AUTO als Generator zu benutzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 07.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #9
+
+* Titel: `Batman Arkham Knight - #9 - Batsuit V8.03 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute erhalten wir ein Upgrade. Wieder einmal. Nachdem wir in der letzten Ausgabe bereits unser Auto ein wenig aufgewertet haben werten wir jetzt auch unseren Anzug auf. Mir ist übrigens nicht so ganz bewusst warum wir das unbedingt via Abwurf machen und nicht einfach irgendwo hin gehen können. Als reicher Geschäftsmann sollte Batman doch eine Reihe von Geheimverstecken in der ganzen Stadt haben oder? Aber nein, stattdessen ziehen wir uns auf einem Dach im kalten Regen um. Das trägt sich bestimmt wunderbar wenn man unter der dreifach gewebten Kleidung schön nass und feucht ist. Ich frage mich wirklich ob Waynetech irgendeine tolle Methode entwickelt hat wie man gegen alle Krankheiten vollständig immun wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 07.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

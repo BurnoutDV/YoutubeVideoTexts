@@ -539,6 +539,46 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #36
+
+* Titel: `Yakuza 4 Remastered - #36 - Hostess Katastrophe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind Lily ja irgendwie los geworden, um nicht zu sagen, die Gute ist einfach mit unserem Geld abgehauen. Das war so geplant und wir wussten das es passiert. Immerhin hat sie uns versprochen das sie ganz schnell das Geld wieder einbringen würde. Nur ihr ganzes Leben könnte die Aquise dauern, aber das ist ja für jemanden wie Akiyama nur eine ganz geringe Zeit. Das bedeutet aber leider auch das wir uns jetzt mit weniger hübschen Hostessen herumärgern müssen. Oder sagen wir auch einmal, weniger begabten Hostessen. Das führt dazu das wir sowas von überhaupt gar keine Gewinn machen und ich mich dann auch noch über ein unfassbar intransparentes System aufrege. Ich habe ehrlich gesagt auch wenig Lust mir ein Tutorial anzuschauen aber wahrscheinlich müsste ich das doch mal machen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 06.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #37
+
+* Titel: `Yakuza 4 Remastered - #37 - Daisak Minami [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute lernen wir einen neuen Widersacher kenne. Oder besser gesagt, wir hören den neuen Schläger eines Widersachers in seine Gesangskünsten. Es handel sich um Daisak Minami von der Majima Familie. Es ist irgendwie interessant wie die Allgemeinheit Majima gar nicht mehr als Yakuza sondern mehr als Bauunternehmer wahr nimmt. Das geht soweit das selbst Akiyama fragt ob er damit die Majima Constructions Firma meint. Das ist schon fast witzig. Und vielleicht irgendwie auch der Werdegang aller organisierten Kriminalität, offiziell wirft man Stück für Stück das Aussehen des Verbrechens und kleidet sich im Deckmantel des ehrbaren Geschäftsmannes. Das war zwar schon immer so aber diesmal mehr den je. Und irgendwie von der anderen Seite. Ich dachte immer man fängt mit dem Bau an und wird dann mehr und mehr kriminell. Mit dieser Episode endet dann übrigens auch die Betrachtung des Lebens von Akiyama, wir werden zu einem späteren Zeitpunkt zurückkehren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 06.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

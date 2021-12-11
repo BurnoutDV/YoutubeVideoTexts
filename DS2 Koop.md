@@ -787,6 +787,55 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 01.10.2021
   ```
 
+##### #36
+
+* Titel: `Dark Souls 2 Koop - #36 - Heiligtum des Drachen [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Shulva ist eigentlich ziemlich groß und wenn ich mich recht zurück erinnere war es ganz schön anstrengend da alleine durch zu laufen. Zu zweit verlieren aber viele Dinge ihren Schrecken und alles geht ein wenig besser. So kämpfen wir uns heute zum Beispiel zum Gebetsturm um ohne das wir all zu viele Probleme erleiden. Aber auch sonst kommen wir eigentlich  ganz gut vor ran. Zwischenzeitlich gehen wir aber auf eine kleine Nebenmission die aber nicht all zu lange andauert. Davon einmal abgesehen betreten wir heute auch das Heiligtum des Drachens. Leider findet man außerhalb von Gegenstandsbeschreibungen nie besonders viel Geschichte in Dark Souls. Das ist eigentlich sehr schade, es wäre doch bestimmt interessant zu erfahren gewesen wer die Leute waren die den großen Drachen hier angebetet haben, die ein Heiligtum errichtet haben und die halt hier waren. Aber all das ist so lange her und alles vergessen.
+  
+  0:00 - Shulva, Stadt des Heiligtums
+  5:58 - Gebetsturm
+  13:00 - Heiligtum des Drachen
+  32:00 - Höhle des Unvollkommenden
+  35:00 - Majula
+  41:00 - Gebetsturm
+  43:55 - Heiligtum des Drachens
+  1:00:33 - Höhle des Unvollkommenden
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 01.10.2021
+  ```
+
+##### #37
+
+* Titel: `Dark Souls 2 Koop - #37 - Weg zu Elana (ach Sally) [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Während wir Dark Souls 3 gespielt haben wurden wir ziemlich oft invasiert, das lag unter Anderem daran das das Spiel einfach neuer ist. Im zweiten Teil wurden wir bisher ziemlich davon verschont von anderen Spielern in unserem Pfad durch die verschiedenen, zerfallenen Reichen gestört zu werden. Heute überfällt uns eine Person names "Ach Sally", mehrfach und oft. Ich kann nicht sagen das ich besonders gut gelaunt bin ob der Tatsache, aber im Nachhinein fanden wir es doch irgendwie ganz lustig. Inhaltlich sind wir auf dem Weg zu Elana und weil das Level aufgebaut ist wie es aufgebaut ist handelt es sich hier um einen großen Ort ohne richtige Nebelwände. Das macht es für einen Invader unter Umständen ein wenig schwierig die Herrscher der Welt zu finden. Das merkt auch Sally.
+  
+  0:00 - Gebetsturm
+  0:52 - Heiligtum des Drachen
+  10:50 - Höhle des Unvollkommenden
+  35:15 - Heiligtum des Drachen (oben)
+  47:28 - BOSS: Untergangskönigin Elana
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 01.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

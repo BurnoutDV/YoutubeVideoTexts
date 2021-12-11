@@ -569,14 +569,34 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
-##### #Nummer
+##### #38
 
-* Titel: ``
+* Titel: `Yakuza 4 Remastered - #38 - Taiga Saejima [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir erinnern uns das Yakuza 0 einen Kumpel von Majima erwähnt den er irgendwie alleine gelassen hat. Ich nahm damals eigentlich an das es ihm bei seinem großen Attentat entschärft hat, aber so wie die Dinge stehen war er scheinbar erfolgreich und lebt noch heute. Soviel also zum Thema Todesstrafe. Da gibt es Menge für und wider zu diskutieren und wir müssen wohl davon ausgehen das bei einem Typen der 18 Leute erschießt und geständig ist die Schuld nicht besonders in Frage steht. Eine Person die man aus der Gesellschaft entfernen möchte. Und doch ist es nicht passiert. Ob das eine Vorstellung von Strafe ist das man jemanden der soviel Schuld aufgeladen hat für ewige Zeit in der Ungewissheit lässt? Das klingt noch ein wenig unmenschlicher als normalerweise.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 06.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #39
+
+* Titel: `Yakuza 4 Remastered - #39 - Justizvollzugsanstalt Nr. 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Motivation ein Schattengefängnis in einem Land zu haben das sowieso schon über die Todesstrafe verfügt und eigentlich gar kein Interesse daran hat noch irgendwelche Informationen aus den Sträflingen heraus zu holen ergibt sich mir nicht ganz. Ist es einfach nur stumpfer Profitwille? Und wenn ja, wo ist hier bitte der Profit zu holen. Geht es nur darum irgendwelche Leute besonders zu bestrafen, handelt es sich vielleicht um das private Projekt eines einzelnen hohen Regierungsbeamten der seine Moralvorstellung der Allgemeinheit aufdrückt? Ist die Anstalt aus dem Willen gewachsen die Macht der Kartelle bzw. in diesem Fall der Yakuza zu schwächen die normalerweise in der Lage ist ihre Leute aus dem Knast auf dem Dienstweg frei zu kaufen? Wie genau das funktioniert verstehe ich übrigens nicht wenn man bedenkt das in den Spielen immer wieder erwähnt wird das irgendwelche Yakuza für die Familie einsitzen und ihre Straft wirklich absitzen. Siehe Kiryu und den Mord an Dojima.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 06.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
 ##### #Nummer

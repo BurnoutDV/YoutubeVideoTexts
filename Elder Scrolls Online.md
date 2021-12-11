@@ -5813,6 +5813,40 @@
   
   Die Elendspitze ist ein Teil von Gramfeste, so wurde zumindest an anderer Stelle einmal behauptet. Ob es jetzt wirklich so ist kann ich auf die Schnelle gar nicht verifizieren, aber die Architektur sieht zumindest grob so aus als würde sie passen. Davon einmal abgesehen ist der ganze Ort und die damit einschließenden Bauwerke ein Stück aus Nirn, ein kleiner Fremdkörper im Reich des Vergessens. Eine Narbe die seit ihrer Entstehung Veränderungen unterlegen hat, allerdings hat sie auch die Eigenschaft das sie einen gewissen Schutz für die Daedra aber wohl auch für die Menschen die hier leben bietet. Jetzt stellt sich ein wenig die Frage ob das Bauwerk selbst einen Schutz der Dunkelelfengötter hat oder ob es Dagons Tun war das diesen Ort so verändert ist das er funktioniert wie er funktioniert.
   
+  0:00 - Gameplay
+  18:40 - BUCH: Ich wurde von einem Sterblichen beschworen
+  23:18 - Abmoderation
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1610
+
+* Titel: `Let's Play ESO #1610 - der Nekrologe [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 35 des Totenländer DLC - Sitzung 6
+  
+  Vor einiger Zeit war ich einmal in der langen Nacht der Wissenschaft in Berlin zu einer Vorlesung über Pathologie bzw. Rechtsmedizin. Dort anwesend war ein Professor der darüber lamentiert hat das es eigentlich überhaupt keinen Sinn ergibt wenn in den ganzen Krimi-Serie die Ermittler in die Pathologie fahren, weil dort gibt es Nichts was sie interessiert. Der Rechtsmediziner macht das Zeug wohl auch aber der wohnt da halt nicht. Nun, wie dem aber auch sei. Ein Nekrologe macht quasi das Gleiche, nur anscheinend weniger invasiv und eigentlich steht er auch nur doof daneben und redet in seltsamen Worten vor sich hin. Heute besuchen wir einen solchen Fachmann. Ich wüsste übrigens gerne warum es diesen Experten eigentlich überhaupt gibt. Ist das nur Zufall das der Fachdaedra für unser Problem hier anwesend ist oder gibt es in einem Ort wie Elendspitze einen Grund dafür? Braucht man als Clan einen Nekrologen, hat er noch andere Zwecke oder warum und weshalb? Ich bin verwirrt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1611
+
+* Titel: `Let's Play ESO #1611 - Faven Indoril [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 36 des Totenländer DLC - Sitzung 5
+  
+  Heute finden wir einen weitere Datenpunkt das die Zeit in den Totenländern irgendwie anders vergeht. Wir wissen aber immer noch nicht ob es sich um eine Wahrnehmungsstörung handelt, die Leute einfach wesentlich länger leben und weniger zu essen brauchen und gar nicht merken wie die Tage an ihnen vorbei ziehen oder ob es sich um eine tatsächliche Zeitverschiebung handelt. Oder aber der Transfer braucht je nach Größe ein wenig länger. Es könnte durchaus sein das die Elendsspitze erst vor 30 Jahren hier angekommen ist. Leider redet Faven nicht darüber ob er einen relativen Verlauf der Zeit bemerkt hat oder ob nicht. Ein wenig komisch wirkt das er so tut als wäre er hier gefangen. Auch interessant ist das anscheinend niemand hier unter dem Zustand der Entzerrung zu leiden hat.
+  
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```

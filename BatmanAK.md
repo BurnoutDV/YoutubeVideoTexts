@@ -149,6 +149,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #10
+
+* Titel: `Batman Arkham Knight - #10 - Ace Chemicals [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen das Scarecrow die Stadt mit einer Chemikalie bedroht, solche Dinge stellt man am Besten in einem Chemiewerk her wenn man größere Mengen davon braucht. Ich habe ehrlich gesagt keine Ahnung wie eigentlich ein richtiges Chemiewerk aussieht, wie die einzelnen Verarbeitungsprozesse aussehen und wo am Ende die "Ware" abgefüllt wird. Ich bin mir allerdings ziemlich sicher das die gesamte Ausrüstung nicht wie eine Gießerei aussieht, nur halt mit Flüssigkeiten. Genau das tut übrigens ACE Chemical. Nebenbei bemerkt auch sehr überraschend auch der Ort an dem die Vogelscheuche anscheinend seine Substanzen hergestellt hat. Das überrascht mich doch jetzt am Ende ziemlich sehr wenn man bedenkt das es wortwörtlich der einzige Ort ist an dem man das hätte tun können. Die gute Nachricht ist das Gordon scheinbar daran gedacht hat diesen Ort zu überwachen. Im allgemeinem Chaos ist ihm aber wohl entgangen auch mal nach zu prüfen ob die Beamten noch leben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 07.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #11
+
+* Titel: `Batman Arkham Knight - #11 - unnötiger Fahrzeugeinsatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es ist wieder soweit, wir setzen unser BatAuto ein, das tun wir weil alle anderen Optionen offensichtlich keine Option waren. Aber das ist natürlich auch vollkommen logisch das man, besonders wenn man alleine agiert, auf keinen Fall ohne seinen großen Panzer zur Tür hinausgehen möchte. Die Heimlichkeit in einer solchen Operation ist auf jeden Fall gewaltig. Immerhin kann man zu Gute halten das wir bereits entdeckt wurden und unsere Gegner eigentlich nur noch auf Zeit spielen. Demzufolge ist zumindest Lautstärke überhaupt kein Problem. Ich frage mich übrigens ob der BatPanzer regelmäßig vom BatFlugzeug nach munitioniert wird während wir nicht hinschauen. Diese ballistischen Raketen die wir die ganze Zeit verballern sind ja recht groß, irgendwo müssen die ja auf bewahrt werden. Ein BatLKW ist das BatAuto nun ja wirklich nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 07.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

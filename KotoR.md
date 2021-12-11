@@ -1892,6 +1892,32 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #121
+
+* Titel: `KotoR - #121 - gesprengte Ketten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wurden gefangen genommen und das bleibt auch erst einmal so. Visper Corra sitzt im Knast und kommt dann da wohl auch nicht mehr so schnell raus. Das ist natürlich in sich tragisch aber noch ist nicht alle Hoffnung verloren. Ich sage nur "niemand kennt diese Mission". Mir ist übrigens zu Ohren gekommen das es anscheinend verschiedene Stufen an Tarngürtel gibt, bis her hat immer der Tarngürtel Stufe 1 für jede Situation gereicht. Auch heute reicht das gute Stück, es versetzt uns immerhin in die Lage in nur zwei Versuchen ziemlich verrückte Rodianer auf die Sith Besatzung zu hetzen. Es ist schon ziemlich praktisch das das Raumschiff über keinerlei physische Sicherheit die über die Kraftfelder hinaus geht verfügt. Auch sehr zu schätzen weiß ich das die Bedienfelder für eben jene Kraftfelder im Inneren der Zellen zu finden sind. Man möchte doch meinen das die Notwendigkeit Leute festzuhalten öfter aufkommt. Immerhin sind die Zellen auch sehr geräumig. Ein großer Pluspunkt für die Sith, zu schade das wir uns nicht lange darin aufhalten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 18, Aufnahme vom 02.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

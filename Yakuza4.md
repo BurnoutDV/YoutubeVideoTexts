@@ -599,6 +599,96 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #40
+
+* Titel: `Yakuza 4 Remastered - #40 - Gefängnisinnenhof [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ja nicht so das man in einem speziellen, der Öffentlichkeit nicht bekannten Gefängnis sitzt und nicht mehr an die Gesellschaft heran kommt das man den ganzen Tag in irgendwelchen Einzelzellen herum sitzt. Es ist allerdings ein wenig komisch das dem nicht so ist. Weil normalerweise sprechen moralische Gründe dagegen Menschen dauerhaft im Dunkeln einzusperren, wenn man sie gemeinsam hält kommen die noch auf tolle Ideen wie Aufstände zu organisieren. Daher ist so etwas wie der Innenhof Gang wahrscheinlich ein Kompromiss der mir hier ein wenig seltsam erscheint. Nun gut, aber was auch immer die Überlegung war, es gibt uns die Chance ein wenig mit anderen Menschen zu sprechen. Außerdem können die Wärter so ein wenig Geld abgreifen. Quasi eine gute Situation für alle Beteiligten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 06.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #41
+
+* Titel: `Yakuza 4 Remastered - #41 - Die Insassen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sicher kommen mir tatsächlich einige Zweifel an der Rechtsstaatlichkeit hinter dem Gefängnis in dem wir sitzen. Das ein Typ wie Taiga hier zu finden ist wäre jetzt nicht so überraschend. Moralisch kann ich das zwar immer noch nicht verteidigen aber ich sehe immerhin die Logik dahinter das man ihn in einen solchen Ort wegsperren möchte. Aber heute im Innenhof treffen wir andere Leute die definitiv nicht in ein menschenverachtendes Hochsicherheitsgefängnis gehören. Zum Beispiel den Waffenbauer, klar, irgendwie ist alles was er tut ziemlich illegal moralisch aber wahrscheinlich wesentlich leichter zu verteidigen als Mord für eine Vereinigung. Oder aber der Typ der immer das Essen klaut. Wir sehen aber wahrscheinlich das Problem an Einrichtungen die sich um Rechtstaatlichkeit nicht kümmern, sie tun was immer sie wollen und am Ende kommen jene unter die Räder die eigentlich "unschuldig" sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 06.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #42
+
+* Titel: `Yakuza 4 Remastered - #42 - der Ausbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es war zwar irgendwie schön im Knast nachdem wir den örtlichen Insassen erklärt haben was es heißt sich mit Taiga Saejima anzulegen aber auf Dauer ist das ja auch kein Leben, insbesondere wenn eines Morgens die Wärter kommen und beim Weg zum Hof noch einmal abbiegen. Saejima hat diesen Weg wissentlich gewählt. Er wusste das er für das was er getan hat Hängen wird, auch wenn er auf eine Haftstrafe um die 10 Jahre gepokert hat. Aber mit mehrfachen Mord kommt man wahrscheinlich nicht so leicht weg. All das hätte also schon so gestimmt und an sich ist die Geschichte von Taiga quasi abgeschlossen. Es gibt da bloß den winzigen Fakt das er von Hamazaki gehört hat das seine Taten damals ohne Bedeutung waren. Dies möchte er also mit eigenen Augen sehen und das kann man nicht vom Knast aus. Es bleibt also nur noch Eines, die Flucht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 06.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #43
+
+* Titel: `Yakuza 4 Remastered - #43 - Kazuma Kiryu [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt selten vor das wir einen Hauptcharakter im Titel stehen haben weil ja eigentlich klar ist wer wir sind. Es scheint nun aber so zu sein das Kiryu eine eher zurückhaltende Rolle in der gesamten Geschichte spielt und dieses Mal mehr als Mentor agiert. Es ist übrigens ziemlich interessant wie Kiryu die Rolle des weisen und erleuchteten Meisters angenommen haben zu scheint. Wie jemand dessen aktive Rolle in der Welt aufgehört hat und der jetzt anderen mit Rat und Tat zur Seite steht. Auch klingt es so, ein wenig lustig ist das unser guter Saejima immer sehr ehrfürchtig von allen Yakuza der alten Wege spricht und keine Ahnung hat das vor ihm quasi das Model 0 steht, und dazu auch noch der vierte Vorsitzende des Tojo Clans. Auch interessant ist das Saejima später erzählt das er nicht mehr ein Yakuza ist, aber nur weil er im Knast ist hat er damit ja nicht aufgehört oder? Wie dem aber auch sei, ich hasse es gegen Spielcharaktere zu kämpfen, die können in der Regel alles was ich kann und dieser Kiryu ist der aus gelevelte Yakuza 3 Kazuma Kiryu..oder in anderen Worten, eine Wand die nur mit uns spielt. Taiga Saejima ist vielleicht eine Scheune aber Kiryu ist der Wind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 13.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #44
+
+* Titel: `Yakuza 4 Remastered - #44 - das 25 Jahr Vakuum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal kann schon ein einziges Jahr das man außerhalb der Welt verbringt dafür sorgen das man eine enorme Trennung von der Realität bedeutet. Wenn man beispielsweise gegen Ende 2020 in einem Kühlschrank gestiegen wäre und heute wieder aussteigen würde käme einen die Welt doch seht seltsam vor. (Von meiner Jetztzeit aus gesehen gab es da neulich einen Sketch im öffentlich-rechtlichen). Taiga Saeijima war für 25 Jahre nicht in der Gesellschaft. Seit 1985 hat sich die welt ein wenig sehr verändert. Man könnte fast sagen fundamental. Wir erinnern uns (okay, ich erinnere mich) das in Yakuza 0 Majima mit einem Typen spricht der ein mobiles Telefon im Aktenkoffer mit sich herum trägt. Seit dem ist die Technologie ein wenig weiter gekommen, Saejima weiß Nichts davon. Das Konzept ständiger Erreichbarkeit ist sogar noch recht einfach zu verstehen, aber eine schnelle Stadt wie Toyko verändert sich im Jahrestakt, nach 25 Jahren sieht nichts mehr so aus wie es einst war. (Obwohl es im Vorgängerteil die Quest mit einem alten Mann aus Nachkriegsjahren gab der seinen alten Geschäftspartner recht schnell wieder gefunden hat). Saejima fällt also in ein Loch..oder in ein Vakuum.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 13.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #45
+
+* Titel: `Yakuza 4 Remastered - #45 - Familiensuche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Saejima hat seine Familie verloren. Also nicht seine richtige, die mit der man eventuell aufgewachsen ist. Eigentlich wissen wir aktuell noch gar Nichts darüber, aber die Tatsache das er sich den Yakuza angeschlossen hat und ziemlich viel Hingabe vorzuweisen hat lässt mich schon einmal schlussfolgern das er nicht wirklich einen anderen Ort hat an dem er sich wenden kann. Spontan würde ich allein erziehende Mutter vermuten die dann irgendwann später als er noch jung war gestorben ist. Oder direkt Waisenhaus. Wissen tue ich das in diesem Moment nicht aber ich bin mir sicher früher oder später kriegen wir noch etwas heraus. Bis dahin kümmern wir uns erstmal um die aktuelle Suche. Stellt sich doch glatt heraus das es die ursprüngliche Sasai Familie schon ein wenig länger nicht mehr gibt, das ist irgendwie ärgerlich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 13.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

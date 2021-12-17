@@ -1908,14 +1908,116 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
-##### #Nummer
+##### #122
 
-* Titel: ``
+* Titel: `KotoR - #122 - Leviathan Gänge [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Das Raumschiff auf dem wir uns schon seit einigen Episoden aufhalten heißt übrigens Leviathan. Bisher konnte ich das nie in einem Titel erwähnen weil es einfach nicht aufkam bzw. andere Tatsachen einfach wichtiger waren. Aber nachdem wir zu den Gejagten geworden sind gab es einfach dringendere Probleme als den Namen unseres Unterganges zu erwähnen. Ich kann übrigens schon einmal beruhigen, heute schaffen wir es nicht eine Reaktorschmelze auszulösen. Das wäre zwar extrem witzig gewesen passiert aber einfach nicht. Stattdessen jagen wir nun selbst, und zwar Erfahrungspunkte, dafür müssen wir einfach nur jeden einzelnen Soldaten der Sith umbringen den wir finden können. Das läuft darauf hinaus das wir Raum für Raum klären, bis nur noch der Weg zur Brücke übrig bleibt. Übrigens auch witzig sind die Laufwege in diesem Raumschiff, man stelle sich mal vor man arbeitet dort und muss andauernd zwischen Brücke und Maschinenraum umher laufen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 19, Aufnahme vom 09.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #123
+
+* Titel: `KotoR - #123 - Saul Karath [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Legendärer Kommandant und Lehrmeister von Carth, Saul Karath ist quasi der Grand Moff unserer Vergangenheit. Am Ende haben wir übrigens so gut wie nichts von seinen Fähigkeiten  gesehen, nur das es ihn gibt und das man sich erzählt das er gut sei. Als Offizier habe ich keine Kampfkraft von ihm erwartet und doch sparte ich ihm mir bis zum Ende auf. Oder ich habe ihn eher Carth aufgespart. Nun fällt er aber, das sollte schon ziemlich klar sein, wenn ein Name im Titel steht sind die Chancen dieses Charakters zu überleben eher gering. Auf dem Sterbebett erzählt der gute Saul auch noch ein paar Geheimnisse die wohl dazu dienen sollen einen Keil zwischen uns zu treiben, aber ich habe natürlich keine Ahnung ob was  für ein Geheimnis es sich dabei handeln könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 19, Aufnahme vom 09.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #124
+
+* Titel: `KotoR - #124 - das große Geheimnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und heute ist es endlich soweit, wir erfahren was wir die ganze Zeit übersehen haben. Warum Bastila uns gegenüber immer so reserviert war, warum der Rat uns Dinge zugetraut hat die uns niemand sonst zu traute und warum wir überhaupt auf dieser Mission sind. Warum wir eigentlich die Hauptperson sind und nicht Bastila die zwar wichtig ist aber nicht so wichtig wie wir das sind. Ich werde heute noch nicht darüber sprechen aber ich will anmerken das ich mir nicht 100% sicher bin das ich das Geheimnis hätte vorher gesehen. Eventuell wäre ich in der Lage gewesen die Zeichen zu lesen und ich hätte bestimmt einige Dinge mehr in Frage gestellt als ich es so getan habe, einfach weil ich schon wusste worauf es hinaus läuft. Es wäre aber moralisch falsch gewesen so zu tun als hätte ich keine Ahnung was das große Geheimnis ist und dann am Ende sich hin zu stellen und zu verkünden das man es ja hat kommen sehen. Nein, ich wusste das Geheimnis, gelesen vor dem Anfang der dritten Sitzung hat eine einzige Zeile im Wiki mir alles verraten was ich wissen musste.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 19, Aufnahme vom 09.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #125
+
+* Titel: `KotoR - #125 - Treue und Vertrauen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nun, dann fangen wir doch einmal an. Wir sind anscheinend Visper Cora, aber irgendwie sind wir auch Darth Revan, seines Zeichens erster Sith Lord seit ziemlich langer Zeit, Grund für den Untergang oder zumindest des Anfanges des Untergangs der aktuellen Republik. Außerdem Held im mandalorianischen Krieg. Im Großen und Ganzen also eigentlich schon eine vollständige Person. Jetzt stellt sich ein wenig die Frage was eine Person ausmacht. Was sind wir schon außer die Sammlung von Erfahrung und Erinnerungen die unser Handeln beeinflussen. Uns wurde all das genommen und damit auch unsere Identität, der einzige Unterschied ist aber das wir uns immer noch erinnern können, ein wenig. Und doch, bei jeder Gelegenheit haben wir gegen den Drang angekämpft den leichten, den dunklen Weg zu gehen. Haben uns gegen die Verlockungen der dunklen Seite der Macht gesträubt. Uns jetzt stehen wir hier, eine neue Person und vor Leuten die uns für eine andere Person halten. Vielleicht hätten wir Vieles anders machen können aber letztendlich haben wir doch anders gehandelt als Revan es getan hätte. Und doch, Revan war auch einst ein Jedi der viele gerettet hat. Wie alt sind wir eigentlich? Visper Cora sieht kaum älter als 20 aus, aber Revan hat doch bereits ein Leben hinter sich?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 19, Aufnahme vom 09.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #126
+
+* Titel: `KotoR - #126 - Ausrüstungsmaximierung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich fürchte der Moment ist gekommen in dem wir unsere Ausrüstung finalisieren. Klar, wir können bestimmt noch irgendwo bei irgendwelchen Wüstennomanden bessere Waffen kaufen und ein wenig weiter am Ende aller Zivilisation gibt es bestimmt noch einen Einsiedler der uns für wenig Geld eine Rüstung anbietet die alles schlägt was das bekannte Universum mit all seinen Industriezentren zu bieten hat. Ändert aber Nichts daran das wir uns langsam aber sicher dem Endgame nähern. Da ich später nicht mehr daran herumfummeln will ist jetzt also die Zeit. Die heutige Episode ist besonders langweilig fürchte ich, keinerlei Handlung geschieht und alles endet nur darin das wir am Ende minimal anders aussehen. Wir reden übrigens auch mit unserer Crew, ein wenig zumindest. Schließlich sind nicht alle Fragen geklärt, immerhin erspare ich es mir die 8 Runden Pazaak die ich noch spielen musste auf Video zu bannen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 19, Aufnahme vom 09.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #127
+
+* Titel: `KotoR - #127 - Korriban [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Beste habe ich mir natürlich zum Schluss aufgehoben. Die Tatsache das wir quasi Darth Revan, ehemaliger oberster Lord der Sith sind sollte hier eigentlich irgendein Gewicht haben, ich fürchte allerdings das die Angewohnheit immer mit einem Helm um her zu laufen und die Tatsache das wirklich niemand eigentlich weiß das Revan überhaupt eine Frau gewesen ist könnte hier ein wenig stören. Daher schleichen wir uns erst einmal um den Landeplatz der örtlichen Sith-Akademie, quasi das Gegenstück zur Jedi-Akademie, ich hätte übrigens nicht gedacht das die Sith so rigide organisiert sind, das scheint mir doch ein wenig ihrem Weg zu widersprechen. Korriban selbst scheint ein ziemlich öder Planet zu sein. Gäbe es hier keine Ruinen der alten Sith gäbe es wohl auch wenig Grund hier eine Zentrale aufrecht zu erhalten. Wir dürfen wohl davon ausgehen das die Sith eine etwas nähere Verbindung mit den Erbauern als die Jedi haben. Quasi eine Vorläuferzivilisation dunkler Machtbenutzer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 19, Aufnahme vom 09.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #128
+
+* Titel: `KotoR - #128 - Besitzerin der Ebon Hawk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir besitzen ein Raumschiff. Das ist ziemlich logisch, da das Star Wars Universum ein wenig wie ein Western ist (besonders wahr im Outer Rim) ist das Raumschiff bzw. Pferd eines der wichtigsten Dinge die man so als freischaffende Heldin besitzen könnte. Wir erinnern uns das wir das Schiff damals von Davik Kang befreit haben nach dem er selbst aufgehört hat das Schiff besitzen zu wollen. Der Tot ändert schnelle die Ansichten über Besitz und Eigentum. Was ich damals nicht wusste ist das der schwarze Falke anscheinend mit einigen anderen Dingen verbunden ist die mir vorher keiner erzählt hat. Namentlich ist das ein nicht näher spezifizierter Fluch, ich hatte ja keine Ahnung das Flüche in dieser Welt eine Option sind, und dann gibt es da noch ein paar Routen im Navigationscomputer und anscheinend auch die Freundschaft komischer Leute die wir auf keinen Fall sonst kennen gelernt hätte. Diese Leute sind überraschend gut informiert, eine Tatsache die mich wirklich Zweifel an der Effektivität der Sith als Armee haben lässt. Klar, Spionage ist Brut und Butter jedes Konflikts, aber wenn unabhängige Verbrecher relativ einfach an Interna heran kommen die kaum einen Tag alt sind sollte man sich ernsthaft Sorgen um seine Operationssicherheit machen. Das ist übrigens das zweite Mal diese Woche das ich über OpSec schreibe. Irgendwie wird das zum Running Gag. Toll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 19, Aufnahme vom 09.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
 ##### #Nummer

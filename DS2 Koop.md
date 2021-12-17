@@ -833,7 +833,159 @@ Aufnahme vom 13.08.2021
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
   Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
-  Aufnahme vom 01.10.2021
+  Aufnahme vom 06.10.2021
+  ```
+
+##### #38
+
+* Titel: `Dark Souls 2 Koop - #38 - Untergangskönigin Elana [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Es geht irgendwie immer Rauf und dann wieder Runter in Shulva. Wir erinnern uns das wir das Heiligtum des Drachens ganz weit hinabgestiegen sind nur um dann unten eine Brücke vor zu lassen die uns dann wieder mit einem Fahrstuhl verbunden ganz oben in das selbige Heiligtum gebracht hat. Dort stürzen wir heute hinunter nur um dann die örtliche Untergangskönigin zu töten. Es handelt sich übrigens um einen Aspekt von Manus, einen von Vier wenn ich recht informiert bin. Wir werden noch andere Treffen. Es handelt sich allerdings nicht um den eigentlich Boss dieses Abschnitts daher dauert der eigentliche Kampf gar nicht so lange und wir erkunden noch das Gemach der Priesterin. So ein paar System/Bioshock-artige Tagebücher wären wirklich schön manchmal.
+  
+  0:00 - Gebetsturm
+  7:20 - Heiligtum des Drachen
+  18:37 - BOSS: Untergangskönigin Elana
+  20:47 - Majula
+  23:51 - Gebetsturm
+  33:00 - Gemach der Priesterin
+  36:30 - Höhle der Toten
+  43:12 - BOSS: Grabräuberin, Varg und Cerah
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 06.10.2021
+  ```
+
+##### #39
+
+* Titel: `Dark Souls 2 Koop - #39 - Grabräuberin, Varg und Cerah [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Heute droht die größte Bedrohung die dieses DLC zu bieten hat. Klar, der große Drache Sinh ist irgendwie auch ein Gegner auch wenn der große Speer in ihm bestimt ein wenig seine Bewegungsfreiheit einschränkt. Elana hat bestimmt auch irgendwie ein Platz auf dem Treppchen verdient, aber wenn wir ehrlich sind sind die beiden da nur weil die drei Wanderer denen wir heute begegnen als ein Boss zählen. Menschliche Bosse sind immer ein wenig bedrohlicher als große fette Viecher die sich nicht ganz so schnell bewegen. Menschen können was wir können. In der Regel sogar besser als wir. Das ist nicht gut wenn man bisher eigentlich ganz gut durch gestolpert ist. Natürlich stellen wir uns dennoch der Gefahr.
+  
+  0:00 - Höhle der Toten
+  7:30 - BOSS: Grabräuberin, Varg und Cerah
+  42:39 - Dazwischen
+  48:30 - Leuchtfeuersuche
+  1:03:30 - Peitschenbaum
+  1:16:33 - Majula
+  1:18:39 - BOSS: Sinh, der ruhende Drache
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 06.10.2021
+  ```
+
+##### #40
+
+* Titel: `Dark Souls 2 Koop - #40 - zum Nebelturm [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Die Sprungmarken der heutigen Episode sind denkbar einfach. Wir töten einen Drachen, das braucht ein wenig Zeit aber nicht so viel Zeit wie man vielleicht meinen möchte, geben dann die erworbenen Seelen aus und die nächste Station ist dann auch direkt der Nebelturm. Das ist ein wenig seltsam und widerspricht sehr meinen Prinzip der klaren Trennung. Aber manchmal kann man sich halt einfach nicht helfen. Immerhin ist der Nebelturm grafisch eine ziemliche Abwechslung zur versunkenen Stadt, auch wenn es nicht lange dauert bis wir wieder durch dunkle Gänge kriechen.
+  
+  0:00 - BOSS: Sinh, der ruhende Drache
+  10:20 - Majula
+  14:51 - Gedenken an Jeigh
+  17:00 - Nebelturm
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.10.2021
+  ```
+
+##### #41
+
+* Titel: `Dark Souls 2 Koop - #41 - Leuchtfoyer [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Heute ist ein denkwürdige Tag. Wir nähern uns dem legendären Ort. Dem Leuchtfoyer. Es ist eigentlich auch nur ein Leuchtfeuer das im Foyer steht aber dieser unfassbar flache Wortwitz musste einfach für die Nachwelt festgehalten werden. Es ist eigentlich auch ziemlich einfach. Wie man eigentlich den Turm betritt ist mir übrigens absolut nicht bewusst aber irgendwann muss es unten ja einen Eingang gegeben haben. Dann hat sich die Welt verschoben und jetzt geht man halt über die Kette hinein. Dort findet sich dann auch der Thronraum den wir quasi als Erstes gesehen haben, das Foyer ist aber eigentlich der Raum in dem man erwarten würde Gäste zu begrüßen. Hier ist auch ein großes Kontrollpult mit dem man die Funktionen der Einrichtung steuern kann, damit das aber klappt braucht es noch ein Werkzeug, ein Werkzeug das wir natürlich zu erst finden müssen.
+  
+  0:00 - Assassine Maldrone
+  4:25 - Nebelturm
+  7:15 - Nebelturm, Foyer
+  7:55 - Foyergänge
+  15:22 - Majula & Tseldora
+  18:10 - Nebelturm, Foyer
+  20:49 - Assassine Maldrone
+  26:30 - Foyergänge
+  32:10 - Eisenzepter Turm
+  41:25 - Assassine Maldrone
+  43:26 - Majula
+  45:35 - Nebelturm, Foyer
+  46:50 - Eisenzepter Turm
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.10.2021
+  ```
+
+##### #42
+
+* Titel: `Dark Souls 2 Koop - #42 - Nebelturm-Fahrstühle [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Wenn der Nebelturm ein realer Ort wäre würde ich davon ausgehen das er irgendwann einmal über Treppen verfügt hat. Und dann kam die langsame technische Entwicklung und Stück für Stück wurden Teile des Bauwerks ersetzt bis es Nichts mehr gab das einen normalen, unassetierten Weg durch die Stockwerke erlaubt hat. Seit dem sind aber unendlich viele Jahre vergangen und das was wir sehen ist der in der Zeit erstarrte Nebelturm. Rost scheint weniger ein Problem zu sein, aber das Land um den Turm herum ist zu Asche verbrannt. Ich weiß nicht genau was hier passiert ist und wenn ich länger darüber nachdenke habe ich nicht einmal eine ungefähre Vorstellung, wichtig ist nur das wir jetzt hier sind und irgendwann ging die Energieversorgung flöten. Oder sie wurde gestohlen, da sie jetzt wieder läuft können wir die anderen Stockwerke erkundene, auch wenn nur unter großen Schmerzen.
+  
+  0:00 - Nebelturm, Foyer
+  24:55 - obere Ebene
+  38:55 - unterste Ebene
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 15.10.2021
+  ```
+
+##### #43
+
+* Titel: `Dark Souls 2 Koop - #43 - Nebelturm, untere Ebenen [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Der Nebelturm ist ein Turm. Das beinhaltet eine Menge Stockwerke. Ärgerlich bei hohen Konstruktionen ist immer wieder das man signifikante Grundfläche daran verliert das Alles irgendwie abgestützt werden muss und natürlich Treppen. Man kann die gesamte Einrichtung ja nicht einfach aushöhlen oder sich darauf verlassen das die Außenwände alles halten. Zum Glück muss sich ein Bauwerk wie der Nebelturm nicht wirklich an Physik halten, sonst hätten wir ein echtes Problem. Außerdem hat man großzügig auf Feuertreppen oder Zweitfahrstühle verzichtet. Höherer Publikumsverkehr ist definitiv nicht vorgesehen.
+  
+  0:00 - Nebelturm, Foyer
+  4:15 - Nebelturm, obere Ebene
+  14:50 - Majula
+  16:40 - Nebelturm, Mitte
+  23:50 - Nebelturm, untere Ebene
+  31:15 - BOSS: Rauchritter
+  35:00 - Nebelturm, obere Ebene
+  47:40 - Nebelturm, untere Ebene
+  55:40 - BOSS: Rauchritter
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 20.10.2021
   ```
 
 ##### #Nummer

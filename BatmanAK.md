@@ -179,6 +179,100 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #12
+
+* Titel: `Batman Arkham Knight - #12 - höchste Sicherheitsvorkehrungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir brechen heute gewaltsam in ein Chemiewerk ein. Theoretisch tun wir das eigentlich schon die ganze Zeit aber dieses Mal richtig und wirklich tiefgehend. Es handelt sich also durchaus um Gebiete die auch ein Batman nicht so einfach betreten sollte. Und, es scheint doch tatsächlich so das selbst ein dunkler Rächer nichts so einfach in die untersten Stockwerke der Einrichtung eindringen kann. Letztendlich haben wir natürlich dennoch alle Sicherheitsmaßnahmen überwunden, sonst wäre das Spiel ja auch schon recht schnell vorbei. Wenn wir jetzt einmal davon absehen das anscheinend niemand in der Lage war ein Warnsignal abzusetzen als die Einrichtung ursprünglich überfallen wurde und die Defensivmaßnahmen da nichts gebracht haben könnte man schon fast beeindruckt von der Menge an Sicherheit sein die sich da uns heute bietet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 07.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #13
+
+* Titel: `Batman Arkham Knight - #13 - Explosionsradius [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn es um die Fläche geht die man mit Explosionen abdecken kann würde ich in der Regel immer von mehr ausgehen als man berechnet hat. In der Geschichte gab es eine Reihe von nicht-nuklearen Detonation mit beachtlicher Reichweite. Erinnert sei an an die Halifax Explosion [1] die 1917 eine gewaltige Fläche bedecken konnte, aber auch in jüngeren Jahren sind Dinge auch ohne militärisches Eingreifen mit höherer Totenzahl explodiert [2], hier handelt es sich sogar um ein Chemiewerk. Es hat schon seinen Grund warum man entsprechende Werke gerne außerhalb der Stadtgrenze parkt. Das hilft natürlich alles nicht wenn die entsprechende Stadt über die Zeit wächst und das historische Chemiewerk quasi mit in die Stadt integriert wird. Ace Chemical steht wirklich verdächtig nahe an Gotham dran, quasi schon mitten drin. Heute spielt das aber dann auch nur noch eine untergeordnete Rolle, wenn die Projektionen des Batcomputers korrekt sind würde sowieso die halbe Ostküste mitgenommen werden. Nur eine Person kann jetzt noch den Tag retten, wer das wohl sein könnte?
+  
+  [1] https://de.wikipedia.org/wiki/Halifax-Explosion
+  [2] https://www.spiegel.de/panorama/gesellschaft/china-zahlreiche-menschen-sterben-bei-explosion-in-chemiewerk-a-1259106.html
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 07.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #14
+
+* Titel: `Batman Arkham Knight - #14 - veränderte Wahrnehmung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hab ich schon erzählt wie Batman eigentlich dringend einen Sidekick braucht damit wir auch mal jemand Anderem erzählen können wie toll wir sind? Man könnte jetzt argumentieren das Batman eigentlich immer im Schatten arbeitet und vieles von dem was er tut so funktioniert eben weil die anderen Leute ihn nicht sehen und er so in der Lage ist Schrecken zu verbreiten. In der Hinsicht ist er ein wenig wie Scarcrow nur das er Leute hat die für ihn ein Schreckensgas entwickelt hätten. Hat er aber nicht, Erschrecken ist anscheinend Chefsache und das wird dementsprechend auch vom Chef übernommen. Heute kommt aber noch eine etwas andere Sicht auf die Dinge hinzu, und wir haben endlich jemanden der mit uns redet. Ich frage mich übrigens ob wir irgendwann dann demnächst auch gegen die Jokermutierten kämpfen dürfen. Oder ob sie am Ende zum neuen, ganzen Joker mutieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 07.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #15
+
+* Titel: `Batman Arkham Knight - #15 - Batmans Schuld [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In diesem Teil passiert etwas das den meisten Batman Gegnern nicht möglich ist weil sie nicht über ein ausreichendes Informationsnetzwerk oder die logistischen Möglichkeiten verfügen, der Arkham Knight hat sich Oracle geschnappt und damit einen von Batmans wichtigeren Verbündeten. Man darf wohl davon ausgehen das er weiß wer Batman wirklich ist. Oder aber auch nur die Oracle Verbindung im Uhrenturm weil Batman andauernd in aller Öffentlichkeit mit ihr redet so das es alle sehen können. Es ist ein wenig seltsam das im Uhrenturm selbst absolut Nichts verwüstet oder geplündert wurde. Die Einrichtung sieht quasi unberührt aus. Das ist schon ein wenig auffällig. Dennoch ist Batman an Vieles Schuld, indirekt sogar das Barabara Gordon im Rollstuhl sitzt, obwohl das Ziel des Jokers ja doch eher der Vater und nicht Batman war. Wie dem aber auch sei, das sie jetzt entführt wurde geht definitiv auf Bats Kappe..und die Weigerung das Hauptquartier eines ortsunabhängigen Hackers mitten in der Stadt in einem leicht zugänglichen Turm zu platzieren. Unmöglich wäre es gewesen einen Untergrundbunker bei Wayne Manor zu wählen. Unmöglich wäre physische Sicherheit oder sogar räumliche Trennung von Gotham gewesen für jemanden der absolut keinen Grund hat physisch anwesend zu sein. Und besser noch, Batman muss ja unbedingt Präsenzbesuche bei seinem Computerprofi machen, es würde mich nicht wundern wenn sie genau so gefunden wurde. 
+  Operational Security ist nicht nur ein Wort...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 14.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #16
+
+* Titel: `Batman Arkham Knight - #16 - Grand Avenue Station [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Arkham Spiele nehmen eine bestimmte Design Richtung die Batman als großen Brawler darstellt der sich quasi durch jeden Konflikt durchprügelt, aber an sich kann ich mir nicht vorstellen das selbst ein Kerl wie die Fledermaus es unbedingt darauf anlegt in größere Schlägereien zu geraten, auch er hat keine Augen im Rücken noch die geistige Kapazität mit den zusätzlichen Eindrücken die man sich mit Technik verschaffen könnte viel an zu fangen. Am Ende ist er immer noch ein Mensch und ein Brett mit einem Nagel drin ist ein Brett mit einem Nagel drin. Ein wesentlich schleichlastigeres Spiel das quasi den "Behind-the-Scenes" Batman darstellt wie er diese ganzen Schreckensschau inszeniert und in der er wesentlich mehr schleicht wäre bestimmt auch interessant, wenn auch mit Umsetzungsherausforderungen verbunden. In einem solchen Spiel könnte man die Stadt auch gefüllt lassen und das normaler Straßenleben von Gotham weiter gehen lassen. Heute betreten wir übrigens die Grand Avenue Station, anscheinend eine wichtige Haltestelle für die örtliche S-Bahn. Im S-Bahnhof Große Allee findet man nämlich die Kontrollcomputer für die vielen Brücken über die die Stadt verfügt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 14.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #17
+
+* Titel: `Batman Arkham Knight - #17 - Pinkney Waisenhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute passieren genau zwei Sachen, als Erstes besuchen wir ein Waisenhaus in dem wir ein wenig Fanservice leisten dürfen und dann retten wir einen Feuerwehrmann weil wir im Waisenhaus nicht wirklich viel machen können. Es wird also wieder einmal Zeit über das Outfit von Catwoman zu reden. Hautenge Kleidung ist per se nicht falsch, je nach dem welchen Körper man darunter hat ist das wahrscheinlich ziemlich begrüßenswert. In der Vergangenheit und damit meine ich die 60er Jahre war das bestimmt auch mal ein Leder-Catsuit, ich kann mir vorstellen das darin die Beweglichkeit nicht optimal ist. Aber es erfüllt immerhin diverse Fetische. Da wir aber im Zeitalter der Hightech Materialien leben und es auch nicht mehr wie reines Leder aussieht kann ich hier zumindest keine Kritik für die Kleidung entdecken. Wenn man irgendwo umherschleichen weil scheint mir ein Anthrazit-Grauer, enganliegender Anzug ideal zu sein. Nur das doch recht offenbarte Dekolleté erntet von mir Kritik. Und deswegen wird es von mir auch noch einmal im Detail angeschaut. Ach so, und dann wäre da noch das Halsband, ich persönlich halte Plastiksprengstoff am Hals nicht für die beste Idee, aber der ein oder Andere findet es vielleicht aufregend. Ich urteile nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 14.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

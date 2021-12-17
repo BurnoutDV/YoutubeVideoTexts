@@ -5851,6 +5851,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1612
+
+* Titel: `Let's Play ESO #1612 - beste Absichten [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 37 des Totenländer DLC - Sitzung 5
+  
+  "Der Weg zu Hölle ist mit guten Absichten gepflastert". Oder Anwälten. Da kann man sich nicht so ganz sicher sein. Fakt ist aber das die wenigsten Leute wirklich böse sind oder Dinge tun weil sie genau wissen das sie egoistisch sind. Meistens belügt man sich ja doch selbst und spiralt dann langsam in den Abgrund der Finsternis bis man so weit unten ist das man nicht mehr aufhören kann. Heute sind wir in einer ähnlichen Lage. Also nicht wir persönlich, als Held von Tamriel sind unsere moralischen Entscheidungen natürlich unantastbar und auf keinen Fall in Frage zu stellen. Viel mehr ist es so das andere Leute heute ihre Sünden offenbart kriegen. Hier gibt es dann auch eine interessante Konklusion. Die Daedra interessieren sich einfach nicht für die Untaten die Menschen bzw. Mer untereinander tun. Völlig egal, Hauptsache ihre Agenda bleibt un angerührt. Und das ist schon irgendwie eine interessante Ansicht, aber auch konsistent.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1613
+
+* Titel: `Let's Play ESO #1613 - Synchronesie [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 38 des Totenländer DLC - Sitzung 5
+  
+  Irgendwie kommt es andauernd vor das Leute zwischen den Ebenen hängen bleiben, eine neue Art der Existenz annehmen oder einfach nur für immer in seltsamen Taschen der Existenz verschwinden. Es fällt mir manchmal schwer vor zu stellen das es irgendwelche Bauern gibt die außer vom Krieg eigentlich kaum etwas von der Welt in der sie leben mitkriegen. Da soll es doch wirklich Mer oder Mensch geben die einfach jeden Tag ihre Felder bestellen, sich um die Steuern des Königs sorgen aber ansonsten ist die Realität stabil und linear. Heute treffen wir Valsirenn die übrigens ein hohes Tier bei den Psijik ist, wie mir grade auch eben wieder eingefallen ist. Das sie hier alleine rum läuft macht mir irgendwie Sorgen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1614
+
+* Titel: `Let's Play ESO #1614 - Gilfrex der Kredithai [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 39 des Totenländer DLC - Sitzung 6
+  
+  Ich werde nicht aufhören zu versuchen meine anderen Lets Plays irgendwie zu bewerben, wann immer sich eine günstige Gelegenheit bietet. Leider befürchte ich das du lieber Zuschauer nicht wegen irgendeinem Spiel hier bist das Marketplier, Gronkh oder die versammelte Mannschaft von PietSchmidt bereits gespielt hat. Aber ein Versuch war es wert. Nun, zum Thema, wir treffen heute einen Kredithai und ich gebe zu das ich die gesamte Geschichte ein wenig aufblase weil eigentlich sind wir nur ein paar Minuten dort aber weil ich wieder in Redelaune bin zieht sich unser Aufenthalt ein wenig. Keine Angst, danach geht es dann aber auch zügig weiter. Davon einmal abgesehen sind die Parallelen zu Yakuza in diesem Fall durchaus da, allerdings fürchte ich auch diese Lösung des Schuldenproblems nicht die Lösung ist die ich angestrebt hätte. Soviel also dazu. Klar, es hätte bestimmt zu Folgeproblemen geführt wenn ich gehandelt hätte wie ich das gerne gemacht hätte, aber das wäre halt ein Problem für Zukunftsaliya gewesen und für den Moment wäre das Problem erst einmal gelöst.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1615
+
+* Titel: `Let's Play ESO #1615 - Meister Rrvenk [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 40  des Totenländer DLC - Sitzung 6
+  
+  Heute geht es um Akzeptanz und den richtigen Weg zu finden. Man könnte durchaus von einer philosophischen Sicht aus an die gesamte Geschichte hier heran gehen. Mein hoffentlich doch recht wissenschaftlicher Geist weigert sich aber leider Dinge die auf die Realität zu zu treffen so zu sehen. In der Elder Scrolls Welt sind die Dinge natürlich auch ein wenig anders und anscheinend scheint die Geisteshaltung auch irgendwie eine Rolle zu spielen. Irgendwie habe ich auch das Gefühl das wir uns auf einer seltsamen Meta-Ebene befinden was die verschiedenen Kräfte angeht. Angeblich kann Valsirenn jetzt irgendwie mit den Kräften der Wandlung schwimmen, eine elementare Macht die in den Totenländern besonders aktiv zu sein scheint. Diese Beobachtung haut aber irgendwie nicht so richtig hin wenn man bedenkt das eigentlich alles was hier ist eher im Zustand des Ende zu sein scheint. Generell und überhaupt hege ich den Verdacht das unser  großer Meister Rrvenk die Ereignisse so hin geschoben hat damit wir etwas lernen. Anscheinend sind wir jetzt ja auch ein Schüler der Wandlung. Ob uns das irgendetwas bringt? Oder ist das zu materialistisch, zu weltlich gedacht? Aber was sind wir dann noch wenn nicht auf irgendetwas hinarbeitend?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1616
+
+* Titel: `Let's Play ESO #1616 - aus Gram geboren [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 41  des Totenländer DLC - Sitzung 6
+  
+  Nein, ich habe absolut keine Ahnung warum die heutige Episode so betitelt ist wie sie ist. Warum ist sie es dann? Nun, weil das der Name der Mission ist die wir heute anfangen. In der Theorie läuft das darauf hinaus das wir den Gipfel des Annihilarchen hinaufsteigen, dort Schwester Celdina umhauen und dann den  Kluftkataklysten zerstören. Mit absoluter Sicherheit wird das nicht so ablaufen und irgendwer muss sich bestimmt dramatisch opfern damit uns die Flucht in letzter Minute gelingen wird weil Valkynaz Novkroz sich noch was Tolles hat einfallen lassen oder weil wir ein bisschen zu spät sind. Das hier ist schließlich erst Mission 3 von 6, die Letzte ist normalerweise die Verabschiedung also bleiben uns noch zwei andere Missionen, praktisch sind wir klassisch also im dritten Akt. Es ist eigentlich sehr schade das es so vorhersehbar ist, andererseits bin ich ja auch selber Schuld das ich auf die Karte gucke.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

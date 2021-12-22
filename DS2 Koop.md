@@ -988,6 +988,101 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 20.10.2021
   ```
 
+##### #44
+
+* Titel: `Dark Souls 2 Koop - #44 - Sir Alonne [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Ich erinnere mich an diesen Ort. Ich erinnere mich an die Erinnerungen des alten Eisenkönigs. Ich erinnere mich nicht mehr an die Umstände und die Geschichte die sich um Sir Alonne gerankt haben, aber es könnte durchaus sein das der mächtige Ritter nicht mehr da ist und wir ihn deswegen in der Gegenwart nicht mehr treffen können. Der große Krieger zog einfach weiter anstatt mit seinem König zu Staub zu zerfallen, oder schlimmer noch. Untot zu werden. Da wir aber seine Rüstung oben im Thronsaal finden vermute ich spontan das er dort bis zum Ende ausharren und wir deswegen diese Erinnerung heute treffen. Wissen tue ich es nicht, klar, solche Dinge kann man nachschlagen aber dann könnte ich mir weniger Gedanken machen was hätte sein können.
+  
+  0:00 - BOSS: Rauchritter
+  12:10 - Nebelturm, Foyer
+  15:30 - Schmelzerthron
+  20:49 - Gedanken an den alten Eisenkönig
+  26:20 - BOSS: Sir Alonne
+  47:00 - Nebelturm, sonstige Gänge
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 20.10.2021
+  ```
+
+##### #45
+
+* Titel: `Dark Souls 2 Koop - #45 - Eisenkorridor [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Der Nebelturm nähert sich dem Ende. Aber bevor es soweit ist und wir uns endgültig von diesem schönen aber doch ein wenig aschereichen Ort verabschieden schieben wir noch einen kleinen Einsatz ein. Es hat sich doch glatt ergeben das uns noch eine Estusscherbe fehlt. Das gleiche Problem hatten wir auch schon im vorherigen Lauf des Nachfolgers (ein toller Satz). Etwas zu finden das man auf halben Weg durch die Geschichte vergessen hat ist nicht so einfach, insbesondere wenn man sich nicht erinnern kann wo genau die Ware eigentlich liegt die man schon eingesammelt hat. Es läuft jetzt also so das wir die Liste ablaufen. Einer von Oben, der andere von Unten. Zum Glück finden wir die Scherbe schnell, dennoch sehr ärgerlich, früher hätten wir sie gut gebrauchen können
+  
+  0:00 - Suche nach der letzten Estusscherbe
+  5:33 - Eisenkorridor
+  48:29 - BOSS: blauer Schmelzer-Dämon
+  52:20 - Feuerlauf
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 20.10.2021
+  ```
+
+##### #46
+
+* Titel: `Dark Souls 2 Koop - #46 - Restefest [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Diese Art von Episode kommt immer wieder vor. Es ist fast so eine Konstante wie der Leuchtturm oder die Stadt. Es gibt sie immer. Konstanten und Variablen und das hier ist eine Konstante. Zumindest für mich, selbst wenn man mit anderen Leuten spielt. Das Problem ist auch irgendwie eine inhärente Eigenschaft von allen Leute die Spiele wirklich durchspielen wolle. Unweigerlich übersieht man irgendetwas, das fällt später auf und dann muss man halt noch einmal zurück laufen um das Zeug zu holen. Zum Beispiel kann man sich die Seele von König Vendrick aus dem Schrein von Amana holen und diese gegen einen Gegenstand eintauschen. Oder man könnte bestimmte Bosse noch einmal besiegen um Gegenstände zu erhalten. Oder aber man geht zum Sonnenturm für den PvP Spaß. So viele Optionen.
+  
+  0:00 - Sonnenturm
+  24:50 - BOSS: Der Verkommende +1
+  37:50 - Majula & Tseldora
+  44:00 - Schrein von Amana - Königsseele
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 20.10.2021
+  ```
+
+##### #47
+
+* Titel: `Dark Souls 2 Koop - #47 - Ankunft in Eleum Loyce [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Mein Spielpartner, das Wild meint das er dieses DLC am meisten mag. Meine eigene Erinnerung an Eleum Loyce sind eher verschwommen, ehrlich gesagt hatte ich sogar vergessen wie der Ort hieß weil das Letzte an das ich mich erinnern konnte war das es hier Bosse gab die ich nie besiegt habe und das ich hier dann damals endgültig aufgegeben habe weil ich es einfach nicht geschafft habe. Nun, dieses Mal können wir aber die Fehler der Vergangenheit richtig stellen und endlich auch hier eine großen Abschluss machen. Der Schlußstrich wartet, werfen wir uns also rein die gefrorene Welt des dritten und damit letzen Königs. Und vielleicht finden wir ja auch noch einen weiteren Aspekt von Manus. Ziemlich sicher sogar. Und vielleicht töten wir auch noch einen Schneetiger. Wer weiß das schon.
+  
+  0:00 - Eleum Loyce, Eingang
+  1:50 - Eleum Loyce, Tor
+  12:14 - Verlassene Behausung
+  27:55 - äußere Mauern
+  42:22 - BOSS: Aava, Begleiter des Königs
+  45:45 - Majula
+  47:00 - verlassene Behausung
+  48:30 - äußere Mauern
+  59:12 - BOSS: Aava, Begleiter des Königs
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 20.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

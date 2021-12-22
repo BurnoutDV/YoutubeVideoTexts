@@ -2020,6 +2020,70 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #129
+
+* Titel: `KotoR - #129 - Philosophie der Sith [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich haben wir schon in der letzte Episode gute Portionen der tieferen Beweggründe der Sith gesehen und ich bin ehrlich gesagt erstaunt das alles so weit funktioniert wie es funktioniert. Allein die Tatsache das es eine Sith Akademie gibt scheint mir irgendwie unwahrscheinlich zu sein. Aber eventuell haben sich Malak und Revan auch die Jedi Akademie als Vorlage genommen und weil die Gründung noch nicht so lange her ist klappt das halt noch auf dem Momentum. Aber ultimativ scheint mir die gesamte Idee zum Scheitern verurteilt zu sein. Die Sith als Ganzes sind einfach zu kompetitiv, die nicht-Machtnutzer machen wahrscheinlich einfach nur mit weil sie auch ein wenig von der Gewinnerseite haben wollen oder weil es schlecht die beste wirtschaftlicher Entscheidung ist. Was die Machtnutzer angeht, nun, ich glaube nicht das wir hier die nächste Führungsgeneration der Sith sehen, einfach weil am Ende nur eine oder vielleicht zwei Leute überleben. Und das bringt uns wohl zu Darth Bane zurück.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 20, Aufnahme vom 16.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #130
+
+* Titel: `KotoR - #130 - drei Jedi gehen in eine Akademie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist ein wenig wie ein Witz. Eventuell könnte man mir mit Fug und Recht vorwerfen das ich nicht besonders viel Ernst in die gesamte Geschichte reinlege die wir hier andauernd erleben. So kommt es das wir heute die Akademie der Sith (ein Oxymoron für sich) mit 3 Jedi betreten. Natürlich weiß absolut niemand das wir tatsächlich Jedi sind und ziemlich tief in der hellen Seite er Macht drin stehen..nun, zumindest Juhani und Visper tun es, Jolee ist in perfekter Balance, wie alle Dinge sein sollten. Da es anscheinend eine Eigenschaft der Jedi zu sein scheint Präsenzen und Ausrichtungen zu fühlen scheint keiner der anwesenden Macht-Nutzer mit zu kriegen das wir nicht direkt für die Wege der dunklen Macht empfänglich sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 20, Aufnahme vom 16.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #131
+
+* Titel: `KotoR - #131 - Sith Codex [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich dachte ich bereits das wir alles was man über die Philosophie der Sith erfahren kann erfahren habe. Und ich nahm auch irgendwie an das es nicht wirklich formalisierte Regeln gibt. Bis her haben wir ja gesehen das junge Aspiranten für eine Rolle bei den Sith durchaus Verständnis für die Wege der dunklen Machtnutzer haben müssen. Anscheinend muss dieses Verständnis inhärent kommen weil es schon als große Tat zählt wenn man irgendwie darauf kommt all die richtigen Worte verinnerlicht zu haben. Das erfahren wir übrigens heute weil wir quasi einen Sponsor haben. Ich frage mich allerdings ob wir am Ende unserer Tätigkeit hier nicht allen angehenden Sith die Fehler in ihren Weg aufgezeigt haben und das unvermeidliche Blutbad wesentlich kleiner ausfällt als man initial annehmen möchte. Mir ist eigentlich nur wichtig das ich am Ende nicht zu viele "Good Girl Points" verlieren. Nur weil ich Sith abschlachte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 20, Aufnahme vom 16.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #132
+
+* Titel: `KotoR - #132 - freudige Kooperation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Sith sind per Definition selbstsüchtig und kümmern sich nur um ihre Angelegenheiten damit sie am Ende besser abschneiden. Sie kennen Kooperation nur als eine Art Handel bei der die hohe Kunst ist den Anderen bei der erst besten Gelegenheit hereinzulegen. Natürlich ist eine Asymmetrie der Informationen absolute Pflicht. Wenn mein Partner weniger weiß als ich denkt er vielleicht das ich noch von ihm abhängig bin und kann ihn so hinter gehen bevor er weiß das ich das tun könnte. Nun, wir sind anders und gehören natürlich der guten Seite an. Daher lassen wir heute willentlich zu das man uns hinter gehen kann, wir schießen quasi Vertrauen vor. Ärgerlicherweise fällt mir jetzt ein das ich die Geschichte eventuell ein wenig anders hätte angehen sollen und das es jetzt viel zu spät dafür ist. Ärgerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 20, Aufnahme vom 16.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

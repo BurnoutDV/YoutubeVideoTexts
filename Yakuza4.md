@@ -689,6 +689,66 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #46
+
+* Titel: `Yakuza 4 Remastered - #46 - Untergrund Operationsbasis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Normalerweise haben unsere Helden immer eine Basis zu der sie in schwierigen Zeiten zurückkehren können. Akiyama hat einfach sein Büro als Save-Space erklärt, nicht die beste Idee wie ich denke weil es auch bedeutet das jeder und seiner Mutter ziemlich genau weiß wo man den Geldverleiher des Nachts treffen kann. Andere Geschichte, anderer Charakter, Saejima kennt niemanden in der Stadt, einfach weil 25 Jahre vergangen sind seit dem er hier war. Wer einst sein Freund war ist entweder so weit aufgestiegen das er nicht mehr auf den Straßen um her läuft oder ist einfach schon vor langer Zeit verstorben. Wie es so der Zufall will können wir uns aber heute ein angenehmes Büro ergaunern, ein gutes Büro um weitere Schritte zu planen, so angenehm das wir es sofort verlassen um in den Keller zu gehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 13.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #47
+
+* Titel: `Yakuza 4 Remastered - #47 - die Kanalisation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte in der letzten Episode wie unser guter, neuer bester Freund Taiga Saejima absolut keine Deckung hat und nirgends hin kann. Jetzt haben wir ja das Untergrundbüro aber das alleine bringt uns ja auch wenig wenn wir eigentlich de facto nicht auf die Straße können um irgendetwas zu tun. Glücklicherweise verfügt eine gewaltige Stadt wie Toyko durchaus über ein weit schweifende Kanalisation in der wir uns stattdessen bewegen können. Die bringt natürlich ihre eigenen Probleme mit aber immerhin werden wir nicht andauernd überfallen. Außerdem können wir irgendeinen ominösen Meister helfen der hier scheinbar sein Untergrundprojekt durchführt. Eine Tätigkeit die mir ein wenig sinnfrei erscheint. Wie dem aber auch sei, es gibt etwas zu entdecken, und das mache ich doch am Liebsten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 13.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #48
+
+* Titel: `Yakuza 4 Remastered - #48 - Katzen-Schlüssel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Katzen sind bei vielen Menschen ziemlich hoch im Kurs. Ich kann mich erinnern das ich in meinem Dark Souls 2 Coop Lets Play Episode 46 darüber geredet habe wie Toxo Plasmose, ein Parasit dafür sorgt das Menschen risikofreudiger werden. Ratten können diesen Parasiten auch haben der dafür sorgt das entsprechende Nagetiere sich freudig Katzen vorwerfen. Bei Menschen funktioniert das ähnlich allerdings sind wir ein wenig komplexer als Mäuse und die meisten Hauskatzen haben eher weniger viele Chancen gegen einen ausgewachsenen Menschen. Dennoch scheint man Katze zu tolerieren obwohl sie ja eigentlich nicht besonders viel tun. Heute erleben wir zum Beispiel das jemand seinen Katzen eine Mitgift hinterlassen hat. Interessant.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 13.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #49
+
+* Titel: `Yakuza 4 Remastered - #49 - Tadashis Schulden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode wird von mir sogar in einem anderen Lets Play quer refererenziert. Es ist etwas über das ich oft nachdenke, in bestimmten Spielen über andere Spiele reden um ein Interesse dafür zu wecken. Ich würde aber behaupten das die Durchdringungsrate solcher Maßnahmen bei unter 10% liegt und ich einfach nicht die Zahlen für einen echten Erfolg habe. Wie dem aber auch sei, Fakt ist das wir, Taiga Saejima, harte Schläger und 18facher Mörder uns heute um einen kleinen Jungen kümmern der Saejima an ihn selbst erinnert als er klein war. Der Junge heißt Tadashi und hat ein Schuldenproblem das er von seinen Eltern geerbt hat, an sich geht es aber weniger um den Jungen als um die ältere Schwester für die Verbrecher durchaus eine Nutzen haben. Moralisch haben wir also einen Imperativ hier einzugreifen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 13.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

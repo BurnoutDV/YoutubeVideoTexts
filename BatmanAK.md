@@ -273,6 +273,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #18
+
+* Titel: `Batman Arkham Knight - #18 - der richtige Schlüssel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Catwoman hat immer noch ein ziemlich großes Problem. Wir erinnern uns das ich das Sprengstoffhalsband als eher ungeeignetes Accessoire bezeichnet habe und ich bleibe bei meiner Meinung. Heute finden wir noch ein paar Schlüssel die uns dabei helfen Catwoman in ihren Modegeschmack ein wenig aus zu helfen. Es ist ein wenig lästig das wir dafür eine Menge Dinge tun müssen die darauf hinaus laufen Rennen zu fahren. Immerhin müssen wir bis jetzt keine Informanten des Riddlers verhören um Dinge zu finden, aber ich fürchte das kommt noch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 14.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #19
+
+* Titel: `Batman Arkham Knight - #19 - Magana Island [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um Catwoman weiter zu helfen kommen wir wohl nicht darum herum eine weitere Insel zu betreten. Das bedeutet das wir unser Vehikel zur Brücke fahren müssen, diese runter klappen und danach ungefähr 100 unbemannte Panzer sprengen müssen. Ich frage mich ja verschiedene Sachen, heute zum Beispiel wieviele dieser Fahrzeuge der Arkham Knight tatsächlich gleichzeitig bewegen kann und was gegen die Verwendung bemannter Panzer gesprochen hat. Und was das US Militär davon abhält zu handeln. Offensichtlich gibt es hier eine gut organisierte paramilitärische Bedrohung. Klar die Einsätze müssen hoch sein aber das eine solche Bedrohung von irgendjemand ignoriert werden kann erscheint mir doch ziemlich unwahrscheinlich. Magana Island sieht aber nicht soviel anders aus als die andere Insel auf der wir vorher waren, generell erscheint mir der Reichtum an Brücken ein wenig unpraktisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 14.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #20
+
+* Titel: `Batman Arkham Knight - #20 - 10000 Fledertonnen Gleitflug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute machen wir noch mehr tollen Nebenmissionen für den Riddler um unsere einzig wahre, lebende Liebe, Catwoman zu retten. Die gute Selina Kyle ist uns doch schon ein wenig ans Herz gewachsen und da können wir einfach nicht riskieren das ihr der Kopf von den Schulter platzt. Allerdings fürchte ich das meine Rettungsmission bald zu einem plötzlichen Stop kommen wird wenn das Spiel möchte das ich zu einer Insel gehe auf der ich bis her noch nicht war. Weil alles haben wir ja noch nicht freigeschalten. Immerhin lösen wir gleich zwei tolle Rätsel heute. Eines davon ist nur ein dämliches Rennen. Mit Controller spielt sich das eigentlich ganz gut, ein Lenkrad habe ich ja leider nicht, aber die Gleitfluggeschichte ist durch die verzögerte Steuerung ein wenig kompliziert. Am Ende kommt Hörnchenmann natürlich zur Rettung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 14.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #21
+
+* Titel: `Batman Arkham Knight - #21 - designierte Gegner [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist doch immer wieder schön einen Erzfeind zu haben, da weiß man woran man ist. Genau wie man mit einen Jodeldiplom etwas in der Hand hat. Ich schweife ab. Der Titel bezieht sich darauf das wir heute gemeinsam mit Catwoman weitere der fiesen Gegner des Riddlers besiegen müssen. Es zeigt uns außerdem das der gute Edward Nigma in der Lage wäre Roboter zu bauen die Batman im Zweikampf nicht besiegen kann weil sie ihn bei jeder Berührung einfach zu Tode schocken würden. Wie gut das außerdem Riddler aber wohl niemand auf die Idee gekommen ist solche Roboter zu bauen, insbesondere nicht der Arkham Knight der doch recht bekannt für seine autonomen Drohnen ist deren Besatzungslosigkeit ein echtes Problem darstellen. Weil wir sie mit unseren Panzer niederschießen können. Heute machen wir aber auf den Dächern weiter, ohne Panzer, es gibt schließlich noch zweisprachige Geheimnisse zu entdecken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 14.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

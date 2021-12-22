@@ -5926,12 +5926,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1618
 
-* Titel: ``
+* Titel: `Let's Play ESO #1618 - das Portal des Kummers [Deadlands]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 43  des Totenländer DLC - Sitzung 7
+  
+   Nein, wir finden heute kein besonders Portal das uns jedes Mal traurig macht wenn wir hindurch schreiten. Obwohl es durchaus heißt das das entsprechende Portal verflucht ist. Das wäre übrigens wirklich lustig, wenn man anstatt irgendwelche ernsthaften Flüche auf beliebige Portale so kleine Gimmicks drauf wirft wie das die Haut sich verfärbt. Vielleicht sind die Dunmer so geworden weil sie massenhaft durch Rotaugen-Portal gelaufen sind. Oder aber weil Azura sie verflucht hat, wer weiß das schon. Hin oder her, das Portal führt zu einem Ort namens Festung Kummer im Zentrum von Tamriel, wir betreten zum ersten Mal seit langer Zeit Cyrodil..um dort dann genau Nichts zu machen, immerhin erfahren wir heute wichtige handlungsrelevante Dinge.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1619
+
+* Titel: `Let's Play ESO #1619 - der Kluftkataklyst [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 44  des Totenländer DLC - Sitzung 7
+  
+  Und schon haben wir ihn gefunden, den mächtigen Kluftkataklysten. Das ist ziemlich interessant weil wir im Vorfeld noch mitkriegen wie sich Schwester Celdina und ihr Waffengefährte Novkroz gegenseitig in die Haare kommen. Ich frage mich wirklich wie das zusammen passt. Weil an sich solche doch Mehrunes Dagon selbst die Hand auf diese Beziehung drauf haben. Klar, man will den großen Chef eher nicht in solchen Streitigkeiten involvieren, das könnte als Schwäche ausgelegt werden aber ich würde trotzdem vermuten das er ein Interesse am Erfolg des Gesamtvorhabens hat. Andererseits habe ich ja bereits etabliert das Daedra eigentlich unendlich Zeit haben und theoretisch nur die Langeweile fürchten müssen, warum also zu schnell den Spaß verderben? Zweiter Überraschungsgast ist dann übrigens die Anachoretin die plötzlich Dinge kann.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1620
+
+* Titel: `Let's Play ESO #1620 - Kurzabenteuer Intermezzo [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 45  des Totenländer DLC - Sitzung 7
+  
+  Und da sind wir wieder bei einer dieser Episoden in der ich zwischen großen Aufgabe und Missionen stecke aber anstatt sofort die Welt zu retten widme ich mich erst einmal anderen Dingen zu. Heute zum Beispiel der Tatsache das die Spoilanten und das Haus Hexos durchaus noch Aufträge für mich haben die ich natürlich erledigen möchte solange es neue Aufträge sind erfahren wir wieder ein paar Stücke Geschichte aus der Welt. Um die Geschichte kurz zu fassen, wir machen uns heute auf weiter zu ziehen und die letzten Spuren von Nebenquests nach zu jagen damit ich am Ende stolz sagen kann das ich die Totenländer komplett durchsucht habe. Nächstes Mal wird es bestimmt wieder spannender. Ganz sicher.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1621
+
+* Titel: `Let's Play ESO #1621 - tägliche Handlungsbrocken [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 46  des Totenländer DLC - Sitzung 7
+  
+  Es gibt ein kleines Novum das ich mit diesem DLC anfange, ich mache die Daily Quests, zwar nicht besonders regelmäßig und auch nicht täglich wie das Wort "tägliche Abenteuer" eventuell implizieren würde aber ich tue sie halt auch. Das liegt unter anderem daran das das Haus Hexos uns für jeden Auftrag eine Auftragsgeber zur Verfügung stellt der uns ein wenig über die Umgebung und die Welt erzählen kann. Außerdem besitze ich neuerdings die Macht der Stop-Taste was mir für meinen Stil der 2011-Stil der Start-Stop Aufnahme durchaus ermöglicht so etwas wie einen Schnitt ohne zusätzlichen Aufwand zu haben. Die Gefahr ist natürlich auch real das irgendwas etwas schief geht und mir Material verloren geht aber für den Moment kann ich so langweilige Stellen effizient rausfiltern..wie zum Beispiel das Warten auf Gruppenbosse. Daher reiten wir ein wenig orientierungslos umher, aber keine Angst, am Ende lese ich sogar noch ein Buch. Ist das nicht der Höhepunkt der Unterhaltung?
+  
+  0:00 - Gameplay
+  11:34 - BUCH: Audienz bei den Langhauskaisern
+  15:17 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1622
+
+* Titel: `Let's Play ESO #1622 - Das Brandmal Reformatorium [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 47  des Totenländer DLC - Sitzung 7
+  
+  Heute gehen wir der uralten Frage nach warum die daedrischen Kulte eigentlich andauernd irgendwelche Leute opfern. Die Sachlage ist ja die, wenn man sich irgendeinen Fürsten gefallen will muss man entweder selber Opfer bringen (blöd) oder aber man lässt andere Leute über die Klinge springen. Ich bin mir nicht einmal so ganz sicher ob man eine direkte Korrelation zwischen Matchgewinn und geopferter Person erkennen kann. Sicher ist nur das man für Pflanzen oder Tieropfer weniger viel abgreifen kann. Die eigenen Enkel sind dagegen hoch im Kurs. Ich würde also behaupten das es vor allen Dingen darum geht wie sehr einen etwas wert ist. Was aber auch hohe Anerkennung bringt ist einen möglichst großen Kult zu haben mit vielen Anhängern. Ich bin mir übrigens auch ziemlich unsicher wie das alles logistisch läuft, weil irgendwas essen die ja auch, und nur die wenigstens Fürsten scheinen einen Rahmenvertrag mit Pattys Burgerbude zu haben. Was allerdings nie Mangelware ist scheint Personal zu sein, dabei ist es in der Regel doch so schwer gutes Personal zu finden, nicht so bei den daedrischen Kulten. Wanderer und andere Zufallsbegegnungen werden konsistent geopfert und nie weiter beachtet. Heute betreten wir das Brandmal Reformatorium, der Name ist natürlich ein Euphemismus, aber er beschäftigt sich immerhin mit der drängenden Frage der Rekrutierung.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```

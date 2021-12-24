@@ -749,6 +749,46 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #50
+
+* Titel: `Yakuza 4 Remastered - #50 - die Währung Respekt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich Gesellschaften im Allgemeinen anschaut bemerkt man das es nicht nur um Geld und Besitz geht, auch Schönheit und Fähigkeiten können einen nur bis zu einem bestimmten Zeitpunkt tragen. Manchmal braucht es auch Respekt, Respekt der es ermöglicht sich so in der Gesellschaft zu bewegen wie man es sich verdient hat. Was genau eigentliche die Währung sein soll kann ich übrigens auch nicht sagen. Irgendwie muss das Wissen um diesen Respekt ja auch propagiert werden und das legt wiederrum die Last auf die Gesellschaft die dafür Sorge tragen muss das alle Beteiligten Personen die notwendige Menge an Respekt zu Teil werden..oder man sorgt selbst dafür, beides klingt irgendwie nach Arbeit.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 20.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #51
+
+* Titel: `Yakuza 4 Remastered - #51 - ein schöner Fang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute gehen wir Angeln. Nicht das es mir besonders viel Spaß macht und insbesondere die Tatsache das es an einem wahrscheinlich ziemlich dreckigen Industriehafen stattfindet lässt mich nicht unbedingt glauben das es sich hier um die Beste aller möglichen Sitzungen handeln möge. Generell frage ich mich nicht was ein Fisch den man hier aus dem Hafenbecken gefangen hat schmecken mag. Zum Glück verkaufen wir entsprechende Fisch aber an einem Typen der sonst wohl auch hier angeln sollte insofern ist das alles gar kein Problem. Es dauert bloß ein wenig bis wir wirklich das gefangen haben was wir suchen..den Diamantkoffer.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 20.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

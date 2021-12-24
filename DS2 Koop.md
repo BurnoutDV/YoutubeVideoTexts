@@ -1083,6 +1083,54 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 20.10.2021
   ```
 
+##### #48
+
+* Titel: `Dark Souls 2 Koop - #48 - sturmloses Eleum Loyce [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Nachdem wir Aava besiegt haben können wir ein wenig Dinge ändern und uns noch einmal anschauen was die große, tote Stadt Eleum Loyce eigentlich noch so zu bieten hat. Und wieder frage ich mich wie es wohl war. Damals bevor das Chaos und der große Frost kam. Hat die Stadt bestimmte Dinge produziert, war sie bekannt für ihre Brantweine, gab es regelmäßig Jahrmärkte? Stand das Volk im Krieg oder gab es lange Jahre des Friedens. Nichts davon erfahren wir, alles was bleibt sind uralte Hütten im Frost und den Fluch der Untoten konservierte Ruinen. Ein Schatten von dem was einst war. Unerkennbar, un identifizierbar.
+  
+  0:00 - BOSS: Aava, Begleiter des Königs
+  8:52 - Große Kathedrale 
+  11:17 - Eleum Loyce, sturmlos
+  27:15 - Fackeltür
+  53:01 - untere Stadt
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 20.10.2021
+  ```
+
+##### #49
+
+* Titel: `Dark Souls 2 Koop - #49 - Schneeballturm [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Manchmal benenne ich ja Orte und Episodenbeschreibungen nach den Leuchtfeuer die wir bereisen. Oder aber nach Witzen die wir gemacht haben während wir das Spiel spielten. Heute ist es ein wenig anders. Die ganzen Leuchtfeuer sind eher langweilig benannt und eigentlich weiß ich auch gar nicht wie die Stadtteile überhaupt heißen. Technisch gesehen betreten wir auch nur einen winzigen Teil der Stadt und ignorieren den Rest. Daher heute die Namenschöpfung Schneeballturm. Nach all der Zeit ist natürlich nicht mehr klar wie die Orte wirklich heißen aber dadurch das man hier einen großen Schneeball rollen lassen kann hat jetzt dieser Ort diesen Namen. Aber ich frage mich wirklich was uns der Shortcut wirklich bringt.
+  
+  0:00 - verlassene Behausung
+  4:00 - untere Stadt
+  28:00 - Schneeballturm
+  37:12 - untere Stadt
+  42:15 - Schneeballturm
+  47:10 - Majula
+  48:50 - Innerer Wall
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 20.10.2021
+  ```
+
 ##### #Nummer
 
 * Titel: ``

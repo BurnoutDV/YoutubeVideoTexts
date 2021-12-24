@@ -333,6 +333,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #22
+
+* Titel: `Batman Arkham Knight - #22 - Labor der Vampirfledermaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Arkham Knight hat ein paar Probleme was meine Methode Spiele zu spielen und wie Quests aufgebaut sind angeht. Ich mag es sehr eine Nebenquests von Anfang bis Ende durch zu spielen anstatt effizient immer genau das zu machen was sich grade dort erledigen lässt wo ich gerade bin. Ich nehme billigend in Kauf das ich Wege mehrfach laufen muss. Wichtig ist mir nur das alles irgendwie richtig erzählt wird und auch kohärent zusammenhängt. Das funktioniert in Arkham Knight einfach nicht, die Stadt ist in verschiedene Inseln geteilt die wir zwar irgendwie alle erreichen können aber leider nicht mit dem Batmobil. Das wieder rum bedeutet das ich zwischen den Missionen hin und her wechseln muss. Und genau das passiert dann heute auch, auch in Sachen Zeit ist das alles ein wenig schwierig weil dann eine einzelne Episode nicht mehr eine Quest umfasst. Die restliche Zeit strecke ich dann aber halt mit Riddler Rätsel. Immerhin auch ein Weg die Sache an zu gehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 21.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #23
+
+* Titel: `Batman Arkham Knight - #23 - fehlendes Werkzeug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann kommen wir am Ende unserer Spur an und merken das uns die Werkzeuge fehlen. Aus irgendwelchen mir völlig unerfindlichen Gründen hat sich unser Gleithörnchen-Rächer nämlich dafür entschieden das er doch lieber Teile seines Werkzeugkastens bei der Polizei einlagert und nicht in der Bathöhle wo idealerweise bereits 5 verschiedene, kompakte Modelle zur Verfügung stehen die jederzeit vom Batwing abgeworfen werden können sollten wir sie benötigen. Dadurch müssen wir jetzt den wirklich weiten Weg zurück zum Polizeihauptquartier laufen. Das wird bestimmt total toll und ich fluche den ganzen Weg zum Präsidium. Ach, und außerdem verhauen wir einen Cop, einfach weil wir es halt können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 21.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

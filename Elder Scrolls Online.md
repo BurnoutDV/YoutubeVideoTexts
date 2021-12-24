@@ -6004,3 +6004,28 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
+
+##### #1623
+
+* Titel: `Let's Play ESO #1623 - Höllenfeuer und Schwefel [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 48  des Totenländer DLC - Sitzung 7
+  
+  Wir haben ja bereits herausgekriegt das wir quasi das Ausbildungscamp eines daedrischen Ordens betreten haben. Es war ja auch nicht zu erwarten das alle Anhänger sofort maximal fähig dabei sind. Allerdings ging ich irgendwie immer davon aus das die Leute erst irgendwo im "Zivilleben" ihre Fähigkeiten abholen und dann halt beitreten. So wie mir scheint gibt es aber durchaus so etwas wie eine Karriere und Weiterbildungsmöglichkeiten innerhalb eines Ordens. Zum Beispiel lernen wir heute den VHS Kurs für die Frontkämpferausbildung kennen. Alles sehr beeindruckend, sehr produktiver Einsatz von Hologrammen muss ich auch sagen. Letztendlich geholfen hat es ihnen aber auch irgendwie nicht. Ärgerlicherweise ist es ziemlich schwierig Einrichtungen in den Totenländern nieder zu brennen, das Meiste ist ziemlich brandsicher, das liegt wohl irgendwie in der Natur der Sache.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

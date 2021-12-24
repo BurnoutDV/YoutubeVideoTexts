@@ -2084,6 +2084,38 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #133
+
+* Titel: `KotoR - #133 - Sith in Not [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich wurde darauf aufmerksam gemacht das ich den Fall anscheinend leicht falsch interpretiert habe. Die Sachlage ist wohl die das sich die Ex-Sith die wir heute "töten" und in den sicheren Tod schicken sich eigentlich geweigert haben irgendwelche Zivilisten hinzurichten. Ich hatte den Fall so interpretiert das sie einfach irgendwelche Leute in der Enklave zum Tode gebracht haben obwohl der stehende Befehl war das man doch bitte aufhören sollte andauernd irgendwelche Zivilisten übers Messer springen zu lassen. Das wirft ein schlechtes Licht auf die Gemeinschaft und das wollen wir nun wirklich nicht. Da habe ich den Sith wohl zu viel Logik gegeben, die Bande ist immer noch stumpf böse. Daher ist der Fall wohl doch eher so das die "geläuterten" Sith wohl die Guten sind. Generell scheint mir die dunkle Seite übrigens nicht so besonders verlockend zu sein wenn man sich anschaut wie viele der dunklen Kuttenträger willens sind ihren Arbeitgeber hinter sich zu lassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 20, Aufnahme vom 16.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #134
+
+* Titel: `KotoR - #134 - Jorak Uln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Aufstiegsmechanismen der Sith ermöglichen es in der Theorie das man es mit einen relativ jungen Personalschlüssel zu tun hat. Einfach weil man nicht darauf warten muss das der eigene Meister an Altersschwäche stirbt (etwas das wohl recht lange dauern würde wenn man bedenkt das sich die Macht durchaus positiv auf die Lebenserwartung auswirken kann) sondern man sorgt selbst dafür das die Vorgesetzen ihr Ende finden sobald sie schwach genug erscheinen. Unter diesen Umständen verwundert es ein wenig das wir heute quasi den ehemaligen Leiter der örtlichen Anstalt kennen lernen. Wirklich, warum ist der Typ nicht verschieden? Ich dachte man stellt sicher das sich der ehemaliger Meister nicht rächen kann? Schon verrückt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 20, Aufnahme vom 16.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

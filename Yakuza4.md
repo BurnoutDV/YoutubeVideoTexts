@@ -779,14 +779,49 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
-##### #Nummer
+##### #52
 
-* Titel: ``
+* Titel: `Yakuza 4 Remastered - #52 - der Weg nach Unten [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die Oberstadt ist eigentlich nur die Erdetage und soweit ich das sehen kann ist das Japan von 2009 noch nicht so modern das man tatsächlich über den Dächern von Ort zu Ort gehen kann ohne jemals den Boden zu berühren. Da uns die Polizei aber immer noch ein wenig auf den Fersen ist sollten wir uns wohl noch eine Weile bedeckt halten. Die Personalstärke der Exekutiven ist allerdings beeindruckend stark so dass wir einen besonderen Weg wählen müssen. Wirklich, ich bin ziemlich genervt das ich quasi 20 Mal hoch und dann wieder hinunter laufen muss nur um dann 5 Meter weiter da anzukommen was ich hätte vorher sehen können. Ein Haarschnitt und ein paar neue Kleidungsstücke könnten Wunder für unseren guten Saejima wirken, aber natürlich ist das wieder keine Option.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 20.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #53
+
+* Titel: `Yakuza 4 Remastered - #53 - auf Leben und Tot [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Gladiatorenkämpfe im alten Rom waren, so weit ich das verstanden habe nur selten auf Leben und Tod sondern eher aufs erste Blut. Das erscheint mir spontan auch irgendwie logisch, wenn man Berufsgladiatoren hat möchte man ja nicht das sich Champions andauernd verbrauchen. Ich könnte mich in dieser Hinsicht aber auch irren. So oder so haben eigentlich nur die barbarischsten aller Kulturen Kämpfe die mit dem Tod einer der Beteiligten endet. Warum auch gute Leute an Trivialitäten verschwenden. Je mehr die Gesellschaft aber in die Dekadenz abfällt und je mehr das Produkt der Gemeinschaft vom Individuum entfernt ist umso weniger zählt auch das einzelne Leben. Und so kommt es heute das die gelangweilte höhere Gesellschaft von Toyko einem Kampf bis zum Tod beiwohnen darf. Da wir der Held der Geschichte sind sollte auch klar sein wer auf keinen Fall stirbt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 20.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #54
+
+* Titel: `Yakuza 4 Remastered - #54 - Sodachis Dojo [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie entkommen wir einem Thema nicht. In einer Welt in der anscheinend sehr viele Konflikte mit körperlichen Kräftemesse beendet werden ist es scheinbar völlig unmöglich dem Theam Kampfsport zu entkommen. Egal wo wir hingehen und hinkommen, immer finden wir am Ende doch noch einen Kampfsportlehrer. Ich muss allerdings sagen das dieses Mal immerhin ein richtiges Dojo zur Verfügung steht. Das ist mehr als wir in der Vergangenheit hatten. Damals gab es dann so Geschichten wie einen Kampfsportlehrer irgendwie in einer Gasse, oder einer Brücke oder zuletzt den Typen der auf einem Stein am Strand gehockt hat. Der heutige Lehrer wirkt hingegen wesentlich fähiger, es gibt nur einen Nachteil. Der Mann hat absolut kein Talent, wir können also Nichts von ihm lernen und die Rollen sind genau vertauscht. Das ist ein wenig seltsam.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 20.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
 ##### #Nummer

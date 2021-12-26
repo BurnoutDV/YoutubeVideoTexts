@@ -363,6 +363,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #24
+
+* Titel: `Batman Arkham Knight - #24 - die Asservatenkammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich sollte es sich nur um einen kleinen Raum handeln in dem halt der ganze alte Mist rumliegt den man eventuell noch später für eine Verhandlung braucht. Irgendwo im Dunkeln weg gelegt, sicher verpackt so das niemand auf die Idee kommen kann Beweismittel zu entfernen. Oder damit jemanden zu verletzen. Die Asservatenkammer des GCPD ist eher eine Art Trophäenkammer die sich der Bürgermeister oder sonst irgendwer geleistet hat um besser bei der Presse da zu stehen. Auch irgendwie unverständlich mit welcher Begründung eine von Steuergeldern bezahlte Behörde die Waren überhaupt lagern darf. Weil letztendlich erfüllen die meisten Gegenstände ja keinen Zweck mehr. Immerhin macht es sehr einfach unseren alten Elektroschocker zu bergen, aufhalten tut uns nämlich auch keiner und das Glas scheint nicht bruchsicher zu sein. Alles in Allem ein richtiger sicherer Ort.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 21.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #25
+
+* Titel: `Batman Arkham Knight - #25 - Liga Geheimversteck [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Lage der Attentäter oder "League of Assassins" ist eine international agierende Gruppe von Attentätern die scheinbar im Auftrag von Ras Al'Ghul stehen, aktuell hängen erstaunlich viele ihrer Mitglieder in Gotham rum weil es hier wohl gute Quellen für Lazarus gibt. Mir ist aber nicht so ganz klar warum Ras überhaupt soviel Personal hat, die Menge an Leichen die wir heute finden lassen auf einem internen Machtstreit schließen, die gesamte Menge an Personal aber auch das es irgendwo auch eine Arbeit und Beschäftigung für diese vielen Leute gibt. Außerdem frage ich mich wer die Uniformen herstellt und warum das keine Fragen aufwirft. Spontan sehen tue ich drei verschiedene Sets an Ausrüstung für die größtenteils weiblichen Anhänger der Liga. Was genau die aber hier unten im Elliot Memorial Krankenhaus planen vermag ich nicht zu sagen, nur das es unnötig schwer ist die unteren Stockwerke der Einrichtung zu betreten. Und das der Zustand des Krankenhauses sehr bedenklich ist. War das schon vor der Evakuierung so?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 21.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #26
+
+* Titel: `Batman Arkham Knight - #26 - Wiederherstellung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Folgende Erkenntnis, Ras al'Ghul hat anscheinend mehr als nur eine Tochter. Das sollte uns nicht wirklich überraschend weil er ja nun wirklich lange lebt und Lazarus scheint die Fruchtbarkeit nicht zu beeinflussen. Man muss wohl aber damit rechnen das die meisten Söhne und Töchter wohl mittlerweile schon wieder tot sein sollten oder ziemlich dolle alt sind. Da Nissa sich jetzt doch recht vehement gegen die lebensverlängernde Wirkung von Lazarus ausgesprochen hat gehe ich aber einmal davon aus das sie selbst das Zeug nicht nutzen und nur zufällig grade so jung sind. Andererseits muss ich doch annehmen das die Liga der Assassinen irgendwelche Mittelchen für ihre Frauenkader hat die dafür sorgen das man konkurrenzfähig bleibt. Aber was weiß ich schon, wenn man Leute attentätert braucht man vielleicht auch weniger körperliche Stärke. Wie dem auch sei, wir finden heute den Springbrunnen des besseren Lazarus den bis jetzt niemand gefunden hatte und finden außerdem heraus das zumindest das Batgel Sprengstoff Zeug ohne Probleme auch von anderen benutzt werden kann. Interessant interessant. Ach ja, und dann fällen wir auch noch eine Entscheidung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 21.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

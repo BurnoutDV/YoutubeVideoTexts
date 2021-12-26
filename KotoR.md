@@ -2116,6 +2116,54 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #135
+
+* Titel: `KotoR - #135 - Ajunta Pall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt im Tal der Sith die Gräber von vier großen Anführer die in der Vergangenheit einmal die Lords der Sith dargestellt haben. Das Witzige ist jetzt das ich mir ziemlich sicher bin das ich den Namen Ajunta Pall schon mehr als einmal gehört habe. Aber ich komme einfach nicht darauf. Was wir allerdings finden ist den Machtgeist von dem Besitzer des Grabes. Das ist ziemlich interessant weil ich dachte das nur die Jedi richtige Machtgeister besitzen und die Sith zwar auch über den Tod hinaus wirken das aber irgendwie anders oder sogar direkter tun. Der gute Ajunta Pall bereut auf jeden Fall alles und möchte gerne das wir seine Ausrüstung los werden. Am Ende spazieren wir mit gleich drei namenlosen Klingen zur Tür hinaus, und unser einziger Schwertkämpfer sitzt leider immer noch auf Kashyyyk...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 20, Aufnahme vom 16.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #136
+
+* Titel: `KotoR - #136 - Verhör & Duellzimmer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute betreten wir größtenteils zwei Räume, außerdem treffen wir Dustil Onasis, aber das war ja zu erwarten, all zu groß sind die Räumlichkeiten des Sith Tempels nun auch nicht, wir kommen ohne Probleme überall hin und überhaupt scheint mir die Sachlage durchaus nicht so schwer zu sein wenn man all das weiß was wir wissen. Außerdem treffen wir einen mandalorianischen Schmuggler der irgendwie in der Lage ist seinen eigenen Tod vorzutäuschen und mit dieser Täuschung irgendwie dann zu entkommen. Ich frage mich zwar wie gut man tatsächlich von einer Sith-Welt fliehen kann aber zumindest scheint niemand ernsthaft die Macht zu benutzen um Leute zu überwachen oder zu verhören. Stattdessen nutzt man klassische Mittel. Und dann scheitern wir noch daran die örtlichen Gefangenen zu befreien, das ist sehr tragisch, allerdings bin ich mir auch nicht ganz sicher ob das Öffnen der Käfige mir wirklich Good Girl Punkte eingebracht hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 21, Aufnahme vom 23.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #137
+
+* Titel: `KotoR - #137 - die Bosheit der Sith [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Knights of the Old Republic und Star Wars im Allgemeinen sind beides irgendwie Produkte der Vergangenheit. Auch darf man nicht vergessen das wir hier immer noch ein Märchen vor uns haben und das man wohl die tiefere Motivation der Charaktere nicht zu sehr in Frage stellen sollte. Leute sind böse weil die Autoren das so sagen, nicht weil man das indirekt an ihrem Verhalten erkennen kann. Wir haben ja Dustil Onasis, Sohn von Carth Onasis getroffen der sich anscheinend den Sith angeschlossen hat. Auch interessant übrigens das der gute Dustil machtempfindlich ist während sein Vater anscheinend keinerlei Talent hat, das erfahren wir aber erst später. Aus anderen Star Wars Werken wissen wir ja schon das Empfänglichkeit für die Macht irgendwie vererbar ist. Aktuell nähern wir uns aber ein wenig Elder Scrolls Niveau von Magiedurchdringung an. Unsere Weltraum-Magier scheinen doch wesentlich verbreiteter zu sein als es initial aussah. Oder aber die dunkle Seite hat es einfach einfacher in der Rekrutierung weil man mehr rohes Machtniveau aus den Leuten schneller rauskriegt. Wenn man kaum Talent hat und bis man hoch springen kann 20 Jahre auf einem Berg philosophierend verbracht werden müssen ist das ja irgendwie langweilig. Wenn man nach 2 Wochen zumindest schwache Blitze werfen kann motiviert das einfach mehr. Und doch ist die dunkle Seite böse, heute sogar ein wenig utilitaristisch wie wir merken, es hat ja auch wenig Sinn schwache Mitglieder mit zu zehren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 21, Aufnahme vom 23.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

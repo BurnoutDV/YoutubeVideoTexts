@@ -408,6 +408,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #27
+
+* Titel: `Batman Arkham Knight - #27 - Lady of Gotham [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Mitte von Gotham steht eine ziemlich große Statue die übrigens nicht die örtliche Freiheitsstatue ist. Das dachte ich übrigens am Anfang aber Batmans Heimatstadt ist ja halt nicht New York deswegen kann es ja auch gar nicht die Freiheitsstatue sein die irgendwann einmal ein Geschenk der Franzosen war. Viel mehr handelt es sich um "Lady Gotham", wir haben absolute keine Ahnung was diese Statue darstellen soll und ich kann mir unter der ganzen Geschichte auch nicht so recht irgendetwas vorstellen. Ist aber alles nicht wichtig, viel wichtiger ist, wir "fliegen" bzw. Gleithörnchen da heute hin um irgendwelche entführten Polizisten zu retten. Das machen wir dann auch, aber vorher gibt es noch eine kleine Sight Seeing Tour. Nicht die schlechteste Nacht, ich befürchte aber leider das es wohl kalt ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 21.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -2164,6 +2164,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #138
+
+* Titel: `KotoR - #138 - der weiße Raum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute steckt Visper Corra ihre Nase in Angelegenheiten in denen sie sie auf keinen Fall stecken sollte. Und dann sind wir plötzlich im Nichts. Meine gängige Theorie das alles im Star Wars Universum eigentlich nur noch ein Cargo Cult ist und die wahren Entwickler und Forscher lange schon die Galaxie verlassen oder eine andere Daseinsform angenommen haben kriegt wieder einmal Futter. Wir treffen heute ein Alien das wohl schon ein wenig länger in einer Kiste lebt. Technisch gesehen ist es wohl die Kopie des Wesen weil der Körper lebt außerhalb der Zelle, so erfahren wir, irgendwie weiter, nur halt ohne Bewusstsein. Da wir aber in einer Welt existieren in der es das Konzept einer Seele anfassbar als Macht gibt müssen wir wohl davon ausgehen das das Gefängnis ein wenig mehr tut. Nicht unbedingt die netteste aller Strafen und die Philosophie dahinter verstehe ich auch nicht, aber als Strafe für irgendetwas auf jeden Fall ziemlich krass, und selbst wenn es gerechtfertigt wäre muss ja trotzdem jemand diese Art von Zelle entwickelt haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 21, Aufnahme vom 23.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

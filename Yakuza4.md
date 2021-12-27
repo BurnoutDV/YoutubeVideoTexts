@@ -824,6 +824,22 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #55
+
+* Titel: `Yakuza 4 Remastered - #55 - der lange Weg nach Haus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach Hause zu gehen kann je nach Lebensumständen ein wahrlich kompliziertes Unterfangen sein. Da gibt es dann so Dinge wie absolute Betrunkenheit die es sehr schwer machen gradeaus zu laufen und dann hat man auch noch andere Widrigkeiten, heute im Angebot: die Polizei.
+  Taiga Saejima ist technisch gesehen kein ungescholtener Mann und hat sich zu Recht so Einiges zu Schulden kommen lassen, seine Verfolgung ist also nicht einmal unbegründet. Und so kommt es das es ein wenig länger dauert bis wir zuhause sind. Als wir dann dort ankommen wartet auch noch jemand auf uns, und es ist nicht Mutti. Alles in Allem also nicht so einfach das gesamte Unterfangen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 20.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

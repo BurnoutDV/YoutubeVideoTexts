@@ -6065,12 +6065,17 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+##### #1627
 
-* Titel: ``
+* Titel: `Let's Play ESO #1627 - Moricars Erbin [Deadlands]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Folge 52  des Totenländer DLC - Sitzung 8
+  
+  Und schon haben wir dann auch endlich finale Gewissheit um was es eigentlich geht und warum wir die ganze Zeit gekämpft haben. Die gesamte Entwicklung des Totland DLCs musste sich natürlich in gewisse Grenzen halten daher ist es jetzt nicht so überraschend das wir am Ende dann doch die gleichen Charaktere treffen die wir schon vorher getroffen haben und niemand den wir bis her gesehen haben großartig unnötig ist. Ich bin dennoch ziemlich enttäuscht das sich die Geschichte nicht doch am Ende als wesentlich komplexer herausgestellt hat als sie es dann am Ende doch war. Ich hatte wirklich bis zum Ende gehofft und vielleicht auch ein wenig zu Azura gebetet das es doch noch einmal ein paar Überraschungen geben könnte und alles ein wenig komplexer oder verwobener ist als es am Ende war. Wir sind noch nicht am Ende der Reise angekommen, aber ab hier werden wir wohl nur noch unser Programm runterspulen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```

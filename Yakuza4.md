@@ -840,6 +840,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #56
+
+* Titel: `Yakuza 4 Remastered - #56 - die Obdachlosenschläger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kenne die Obdachlosenschläger eigentlich schon aus den Vorgängern und in diesem Teil sieht die Lage jetzt ein wenig anders aus. Die Typen die wir heute hoch nehmen und deren Spur wir verfolgen sind gar nicht so recht hinter Obdachlosen im Allgemeinen aus bzw. nur hinter denen in diesem Teil der Stadt. Außerdem gibt es so etwas wie einem gemeinsamen Anführer der sein Ding tut, wir erinnern uns das die Jugendlichen die wir in der Vergangenheit niedergeschlagen haben relativ gemeinsam hinter der ganzen Sache waren. Immerhin erleben wir heute ein wenig Geschichte und tatsächliche Hintergründe die zumindest ein besserer Grund sind als das was wir in der Vergangenheit vorgesetzt bekommen haben, einfache Langeweile.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 20.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

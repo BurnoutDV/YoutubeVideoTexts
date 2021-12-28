@@ -423,6 +423,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #28
+
+* Titel: `Batman Arkham Knight - #28 - die Herzkönigin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich frage mich übrigens wirklich wie ein Typ wie der Madhatter es eigentlich überhaupt schafft irgendwelche Leute zu entführen. Klar, er hat verschiedene Möglichkeiten Leute zu betäuben und er hatte auch einmal eine Maske mit der er Gedanken kontrollieren konnte aber so wie die Dinge stehen hat er dies alles nicht mehr. Natürlich könnte er irgendwelche Schläger haben die für ihn arbeiten allerdings haben wir bis her keine von denen gesehen. Wie also hat er irgendwelche Polizisten erst betäubt und danach in irgendwelche Autos verfrachtet, noch dazu Autos die an sehr schwierigen Orten stehen an denen man normalerweise eher nicht mit einem Auto rechnen würde. Dazu kommt noch die reine Logistik der Technik, Kurzum, Batman "Superschurken" sind seltsam. Aber auch ziemlich gefährlich, diverse Alice sind bereits gestorben, das darf man auch nicht vergessen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 21.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

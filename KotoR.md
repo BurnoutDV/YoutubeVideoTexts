@@ -2180,6 +2180,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #139
+
+* Titel: `KotoR - #139 - die Bestie der Galaxie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir begegnen heute einem Typen namens Xor, der mag aus irgendwelchen Gründen Kathar nicht, absolut unklar übrigens warum dies so ist und technisch gesehen sind wir ihm auch schon beim letzten Mal begegnet. Ich habe also gelogen, das ist eine Sache die eher die Sith tun würden, aber wir sind aktuell ja ein strahlender Leuchtturm der Rechtschaffenheit und würden nie auf die Idee kommen irgendjemanden anzulügen. Das ist einfach nicht unser Stil. Stattdessen halten wir andere Leute davon ab Böses zu tun und sich auf die wahre Menschlichkeit zu konzentrieren. Ärgerlicherweise muss ich in diesem Prozess auch auf die Lehren der Jedi zurückgreifen, ein Umstand der mir ziemlich Leid tut wenn man bedenkt das es auch bedeutet die dummen Prinzipien noch einmal zu rezitieren. Das macht mir wenig Spaß, aber leider kann man wohl die Welt nicht von Heute auf Morgen zu einem besseren Ort machen. Stattdessen braucht es die Metamorphose des Heute über das Morgen zu einem besseren Übermorgen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 21, Aufnahme vom 23.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

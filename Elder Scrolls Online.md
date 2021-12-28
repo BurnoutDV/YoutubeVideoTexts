@@ -6027,7 +6027,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 49  des Totenländer DLC - Sitzung 
+  Folge 49  des Totenländer DLC - Sitzung 8
   
   Zwischen den Daedra geht ein Mysterium um. Ein großes Geheimnis, oder auch nicht weil eigentlich jeder davon gehört hat. Die Leute wissen Bescheid. Bei Totlicht handelt es sich um einen Ort der vor ewiger Zeit einmal vom Fürsten der Zerstörung berührt wurde und heute gibt es ihn nicht mehr. Im Vergessen existieren natürlich viele Inseln und Orte die nicht mehr sind aber ihre Hülle schwebt theoretisch noch umher. Auch Ferngrab ist ja ein solcher Ort, nur das hier tatsächlich noch Bewohner sind. Das ist wahrscheinlich die Schönheit von unendlichen Raum. Man kann beliebig Realitäten darin stapeln. Das Mysterium ist jetzt aber hingegen wie wir dort hin kommen. Wo sich das Portal befindet wissen wir übrigens schon. Wir müssen nur durch eine kleine Tür laufen und schon sind wir da. Die Tür lässt uns allerdings nicht hindurch. Ähnliche wie das Reich der Psijik ist auch Totlicht nicht einfach so zugänglich, der Weg ist versperrt, die Tür geschlossen. Es sei denn, man hat einen Schlüssel und eine Einladung.
   
@@ -6042,7 +6042,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 50  des Totenländer DLC - Sitzung 
+  Folge 50  des Totenländer DLC - Sitzung 8
   
   Ich erwähnte das wir etwas brauchen um zum mysteriösen Ort Totlicht zu kommen, eine Ebene, wie ich bereits erwähnte, von der Zeit vergessen. Interessant ist übrigens wirklich das man wohl völlig vergessen hat um was für Reiche oder Zwischendimensionen es sich einst einmal gehandelt hat. Nur das der Fürst der Zerstörung hier mindernd tätig war. Vielleicht wüsste der Fürst des Wissens und der Geheimnisse noch mehr aber von den lebenden und verfügbaren Daedra scheint jeder die Geschichte zu kennen aber nicht mehr zu wissen. Sehr kurios eigentlich, für ewig lebende Wesen die so alt sind wie die Zeit selbst haben die meisten von den Kyn die wir so treffen überraschend wenig Ahnung von dem was vor einiger Zeit geschehen ist. Fast wie die doch so sterblichen Menschen. Natürlich wird der handelsübliche Dremora sich jetzt hinstelle und erklären das ihr solche Dinge egal sind, auffällig ist diese Wissenslücker der Vergangenheit aber dennoch. Auch auffällig ist übrigens auch das es scheinbar echt einfach ist Portale Daedra sicher zu machen, ob es irgendeinen Haken bei der ganzen Geschichte gibt oder sind auf Nirn ansässige Daedralogen einfach nur weniger fähig als jene die direkte Erfahrung aus erster Hand haben.
   
@@ -6057,7 +6057,7 @@
 * Beschreibung:
 
   ```markdown
-  Folge 51  des Totenländer DLC - Sitzung 
+  Folge 51  des Totenländer DLC - Sitzung 8
   
   Totlicht ist ein Ort außerhalb der normalen Ebenen von Oblivion und ich frage mich wie erreichbar der Ort tatsächlich ist wenn man rohe Gewalt einsetzen würde. Die dortigen Archive enthalten leider keine Informationen über Totlight selber oder um was für einen Ort es sich früher einmal gehandelt hat. Von allem was ich so sehen kann ist der Ort nicht erst seit gestern unter der Kontrolle von Mehrunes Dagon und daher liefern uns nicht einmal die Gebäude einen Hinweis um was es sich einst gehandelt hat. Heute durchstreifen wir ein Archiv und weil wir dort außerdem noch erfahren was es eigentlich mit der Anachoretin auf sich hat scheinen wir nicht an archäologischen Ausgrabungen interessiert zu sein. Das ist wirklich sehr schade, wir können die Welt doch bestimmt auch morgen retten. Hier fehlt mir die absolute Freiheit die die Spiele der Zukunft bestimmt bieten würden.
   

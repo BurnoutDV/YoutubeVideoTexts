@@ -6079,3 +6079,43 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
+
+##### #1629
+
+* Titel: `Let's Play ESO #1629 - das Portalpodium [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 54  des Totenländer DLC - Sitzung 8
+  
+  Für die Rolle die Portale im täglichen Leben von normalen Leuten einnehmen gibt es definitiv zu viele Portale auf der Welt. Dabei sind die Möglichkeiten für instanzierten Transport quasi unendlich, und aber auch die Gefahren. Viele militärische Konflikte würden wesentlich weniger lange dauern wenn Leute sich von A nach B in einem Herzschlag teleportieren könnten. Und ziemlich viele Handelsleute wären arbeitslos weil sie kein Geld mehr mit der Differenz des Warenwertes von einem Ort zum Anderen verdienen könnten. Generell und überhaupt wäre die Veränderunge wahrscheinlich vergleichbar mit der globalen Verfügbarkeit von Sofort-Kommunikation. Nur noch schlimmer. Unabhängig davon scheint mir die Darstellung von Portalen und deren Funktionsweise ein wenig sehr inkonsistent zu sein. Portalpodien erlauben es zum Beispiel zu beliebigen Orten zu reisen, wohl vergleichbar mit dem System das man in Morrowind kennen lernen kann. Hat man den richtigen Schlüssel kann man reisen. Hochinteressant.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1630
+
+* Titel: `Let's Play ESO #1630 - Portal nach Hoffensbrand [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 54  des Totenländer DLC - Sitzung 8
+  
+  Eigentlich waren wir ja schon in Hoffensbrand, haben dort ein paar Seelen befreit und waren generell und überhaupt in der Lage ohne große Probleme zu navigieren. Jetzt stellt sich doch glatt heraus das es sich um eine Zentrale von Mehrunes Dagon handelt. Einen Ort an dem er seine Legionen lagert. Jetzt frage ich mich natürlich ein wenig ob die Daedra im Allgemeinen ein wenig feige sind und keine Lust hatten mich aufzuhalten als ich dort war oder ob sie grade anderweitig beschäftigt waren das niemand vor bei kam um mich zu stoppen. Heute sieht die ganze Angelegenheit ein wenig anders aus, wir brauchen genaue Planung beim Einreiten in eine der größten Legionsfestungen über die der Fürst der Zerstörung verfügt. Schleichen ist offensichtlich keine Option. Wie gerne wohl Dremora Wache stehen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

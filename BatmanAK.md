@@ -438,6 +438,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #29
+
+* Titel: `Batman Arkham Knight - #29 - Unfall-Forensik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Datenschutz Batman lebt offensichtlich in einem Paralleluniversum und generell und überhaupt erscheint alles was die "Fledermaus" macht wie ein Plädoyer für weniger Schutz von Daten aller Art damit Gesetzeshüter ihre Arbeit machen können. Die moralischen Probleme die dabei mit ins Spiel kommen scheinen mir ein wenig wenig beleuchtet zu sein aber natürlich ist Flughörnchenmann auch quasi unfehlbar und sein Urteil ist nicht angreifbar. Insofern teilt er sich auf jeden Fall eine Rolle mit Judge Dredd wenn auch der Rest nicht ganz so gut passt. Davon einmal abgesehen braucht er anscheinend das ganze Spielzeug nicht wirklich weil er, wie wir heute sehen, auch anhand von geringstens Spuren in der Lage ist die Vergangenheit zu rekonstruieren. Ein Anderer hätte vielleicht Zugriff auf alle Überwachungskameras gebraucht aber nicht so Bruce Wayne, der sieht anhand einer abgerissenen Tür was Phase ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 28.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #30
+
+* Titel: `Batman Arkham Knight - #30 - neue Mitspieler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In jeder Geschichte ist es anscheinend so das Batman bereits ein wenig länger im Geschäft ist und die Dinge die in Gotham geschehen sind auf Dauer einen Spur in der Psyche des dunklen Ritters hinterlassen haben. Generell und überhaupt ist die Lebensdauer einer jeder Batman Inkarnation wahrscheinlich relativ gering, was wohl aufzeigt das eine Person, egal wie mächtig und gut vernetzt nicht in der Lage ist den Wahnsinn einer ganzen Stadt auf Dauer auf zu halten ist. Irgendwann geht der Held dann in den Ruhestand, mit irgendeiner Prinzessin, obwohl ich mich wirklich frage ob eine der starken Frauen die wir treffen, selbst wenn noch lebendig wirklich dafür geeignet wäre ein Leben in Frieden zu leben. Anders sieht es aus wenn der große Held seine letzte Mission mit einem großen Knall abschließt, obwohl ich nicht weiß ob das auch schon mal passiert ist. So oder so verlangt aber der Abgang eines Heldens das Nachkommen eines Anderen. Praktisch ist dann natürlich wenn man selber ein wenig Einfluss über seinen Nachfolger hat. Heute treffen wir Azrael, wer auch immer er eigentlich ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 28.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

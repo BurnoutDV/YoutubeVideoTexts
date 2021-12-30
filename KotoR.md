@@ -2196,6 +2196,38 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #140
+
+* Titel: `KotoR - #140 - mangelnde Computerkenntnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollte ich heute die diversen Gefangenen der Sith befreien, dafür brauchen wir entweder ein paar gute Worte des aktuellen Anführers bzw. gute Fähigkeiten vor zu geben das wir entsprechende Anweisungen hatten. Oder aber wir hacken irgendwelche Computer, das kann ich natürlich selber eher nicht so gut aber als guter Jedi wissen wir natürlich das wir uns auch auf andere verlassen können. Zu doof allerdings das auch unser getreuer Astromech Roboter eine ziemliche Flachzange ist wenn es darum geht Käfige zu hacken. Klappt aber alles nicht, die Erfolgsaussichten der Flucht hängt aber wahrscheinlich nicht nur an irgendwelchen Ketten fürchte ich. Praktisch testen tun wir das natürlich nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 21, Aufnahme vom 23.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #141
+
+* Titel: `KotoR - #141 - das Grab von Naga Sadow [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Anfang irgendwann einmal habe ich ja gesagt das ich die Macht so wenig wie möglich einsetzen möchte weil ich mich ja weder den Jedi noch den Sith so richtig verbunden fühle und ich quasi orthogonal einen anderen Weg einschlagen möchte. Leider sind manche der Aufgaben die das Schicksal wohl für mich bereithält nicht so ohne Weiteres machbar und auch mein aufgemotzter Blaster hat seine Grenzen. Heute müssen wir ganz alleine das Grab von Naga Sadow erkunden, einen Ort an dem wir die letzte Sternenkarte und damit den Weg zu Sternenschmiede vermuten. Mir ist übrigens auch schleierhaft wie genau wir eigentlich die Daten einlesen in dem wir kurz auf die Karte gucken weil offensichtlich haben wir kaum Technik bei uns, geschweige den irgendwelche Handheld-Computer oder Aufzeichnungsgeräte. Also nein, mir ist absolut nicht bewusst wie wir tun was wir tun. Achso, und außerdem gibt es wohl noch ein paar Fallen in diesem Grab, aber das sollte uns ja nicht aufhalten oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 21, Aufnahme vom 23.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

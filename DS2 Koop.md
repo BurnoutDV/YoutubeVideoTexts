@@ -1131,12 +1131,78 @@ Aufnahme vom 13.08.2021
   Aufnahme vom 20.10.2021
   ```
 
-##### #Nummer
+##### #50
 
-* Titel: ``
+* Titel: `Dark Souls 2 Koop - #50 - Die Ritter von Loyce [Coop Lets Play]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Um am Ende das alte Chaos zu besiegen brauchen wir Hilfe. Also nicht ganz so zwingend und an sich bin ich mir nicht ganz sicher ob wir nicht sogar ausreichend mächtig wären die Bedrohung die das Chaos uns zu bieten hat alleine ein zu dämmen. Theoretisch sind wir wahrscheinlich das mächtigste Wesen dieser Zeit. Oder aber auch nicht, Zeit und Raum sind ziemlich relativ und es könnte durchaus sein das woanders auch noch Leute rumlaufen die noch wesentlich überlevelter sind als wir. Davon aber einmal abgesehen sammeln wir dennoch Verbündete damit wir nicht alles Alleine machen müssen. Daher befreien wir heute die Ritter von Loyce und erinnern sie an ihre Pflicht.
+  
+  0:00 - Innerer Wall
+  17:12 - verlassene Behausung
+  24:16 - oberer Wall
+  32:00 - Ritter von Loyce
+  44:10 - Majula
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 03.11.2021
+  ```
+
+##### #51
+
+* Titel: `Dark Souls 2 Koop - #51 - Eisiges Umland [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Dies ist der eine Abschnitt den ich damals, als ich das Spiel für mich alleine nur mit einem treuen Chat bewaffnet der mir mit wenigen Fragen in der Hinterhand zur Verfügung stand gespielt habe komplett übersehen hatte. Ich muss allerdings sagen das ich nichts verpasst haben. Was wir hier finden sind nur irgendwelche Kristalleinhörner, absolut keine Sicht und generell und überhaupt eigentlich ziemlich viel Schmerz. Am Ende gibt es dann auch noch zwei Bosse die wir umhauen müssen die uns auch schon ein wenig bekannt vorkommen sollte. Da wir aber immer noch ziemlich überlevelt und teilweise zu Viert sind fällt uns das gesamte Unterfangen aber dann auch nicht ganz so schwer. Nur dort hin zu kommen war schon eine ganz schöne Aufgabe. Was kommt als Nächstes? Eine Endlose Wüste mit Fata Morganas die uns täuscht?
+  
+  0:00 - Eisiges Umland
+  22:08 - BOSS: Lud & Zallen
+  25:09 - Eisiges Umland
+  49:19 - BOSS: Zallen & Lud
+  52:07 - Majula
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 03.11.2021
+  ```
+
+##### #52
+
+* Titel: `Dark Souls 2 Koop - #52 - Bossmarathon [Coop Lets Play]`
+
+* Beschreibung:
+
+  ```markdown
+  Coop Lets Play, non-blind: Zwischensequenzen werden evtl. geskippt. 
+  
+  Und jetzt ist der Punkt gekommen an dem alles ganz schnell geht. Wenn man zu zweit spielt sind die eigentlichen Bosse gar nicht mehr die große Bedrohung. Viel höher ist das Potenzial das einer irgendwie stirbt weil er sich zu viel vorgenommen hat oder weil man irgendwo runter fällt. Die Bosse selbst locken dann kaum noch ein müdes Lächeln hervor, besonders wenn man im New Game 0 spielt und damit quasi noch sehr überlevelt sein kann. Theoretisch hätten wir wohl, um die Aufgabe schwerer zu machen direkt auf New Game + spielen müssen, haben wir aber nicht. 53 Minuten und wir machen jetzt richtig Nägel mit Köpfen. Alles legen wir, das alte Chaos, alles was auf dem Weg zum Thron auf uns wartet und dann setze ich mich auch noch darauf, zwischendurch gibt es übrigens auch noch ein kurzes Fazit weil man die Abspannsequenz anscheinend nicht abbrechen kann. Damit wäre dann alles geschafft und ich habe wieder einmal Dark Souls 2 durchgespielt, dieses Mal sogar mit ein wenig Hilfe.
+  
+  0:00 - Große Kathedrale 
+  1:40 - BOSS: Verbrannter Weißer König
+  16:05 - Tseldora & Majula
+  20:18 - Schloss Drangleic
+  24:05 - BOSS: Thronwächter & Thronverteidiger
+  26:03 - BOSS: Nashandra
+  28:44 - BOSS: Aldia, Schüler der Ursünde
+  32:38 - Fazit
+  42:53 - BOSS: Thronwächter & Thronverteidiger
+  43:56 - BOSS: Nashandra
+  46:27 - BOSS: Aldia, Schüler der Ursünde
+  50:29 - Thron des Verlangens
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  Dark Souls 2 fällt unter den Multiplayer Slot - Mittwoch & Sonntags. Manchmal aber auch unregelmäßig..
+  Playlist: https://www.youtube.com/watch?v=_HpiDVYTVZE&list=PLAFz5ZZJ21wPa73mzv8nFmP25WS7LIFW
+  Aufnahme vom 03.11.2021
   ```

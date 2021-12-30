@@ -1,6 +1,6 @@
 ## Yakuza 4
 
-* tags = `YAKUZA4_SORT_TAG,Tojo Clan,Kazuma,Kiryu,okinawa,little asia,translation,übersetzung,deutsch.,german,synchronized,host,hostess,ueno seiwa,kamurocho,sky finance,elnard,shoko muto,shun akiyama,kanemura,lily,lets play,ingame,gameplay,walkthrough,speed run`
+* tags = `YAKUZA4_SORT_TAG,Tojo Clan,Kazuma,Kiryu,okinawa,little asia,translation,übersetzung,deutsch.,german,synchronized,host,hostess,ueno seiwa,kamurocho,sky finance,elnard,shoko muto,shun akiyama,kanemura,lily,lets play,ingame,gameplay,walkthrough,speed run,sasai,majima,taiga saejima,hamazaki,shibata,yoshieru,saito,jiro,minami,aikiyama,hana,shine,elise,arai,loan shark,geldverleiher`
 
 
 ##### #copy&paste
@@ -852,6 +852,35 @@
   Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
   Yakuza 4 Remastered auf dem Montags Slot.
   Sitzung 8, Aufnahme vom 20.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #57
+
+* Titel: `Yakuza 4 Remastered - #57 - Untergrundarbeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Taiga Saejima ist ein Geister aus der Vergangenheit. An sich möchte er selbst nichts mehr für sich von der Welt und ist nur noch auf der Mission mehr über das zu erfahren was einst zu seinem Aufenthalt im Gefängnis geführt hat. Dies ist alles so lange her das es natürlich ein wenig Anlauf braucht bis man dort ist wo man mehr wissen kann. Ansonsten hilft er aber auch gerne, vielleicht auch eine Art Wiedergutmachung für die Leben die er einst genommen hat. Übrigens auch ein Zeichen dafür das er nicht wirklich etwas für sich möchte ist das das er immer noch die gleichen Klamotten trägt die Kiryu ihm gegeben hat, der Mann lebt nicht für sich. Nur eine leere Hülle die sich vorschleppt um eine Aufgabe zu erfüllen, aber kein Individuum mehr das eine Kerbe in der Welt hinterlassen will. Deswegen überlassen wir wichtige Bergbauarbeit auch Anderen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 27.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #58
+
+* Titel: `Yakuza 4 Remastered - #58 - Wegrennsimulator [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich will ich ja nur schnell die Einkäufe erledigen aber so wie die Dinge stehen werden wir ja konsistent verfolgt und das nervt schon ziemlich. Und mit verfolgt meine ich eigentlich das an jeder Ecke die Bullen rumstehen und darauf warten uns zu sehen. Auf Dauer wird das echt anstrengend wenn man eigentlich nur irgendwann einmal fertig sein möchte mit so einem Level. Daher laufen wir heute vor und zurück, auf und ab um dann am Ende quasi überhaupt Nichts geschafft zu haben. Es wird sogar noch ein wenig schlimmer, bei anderen Laufsimulatoren hat man es ja oft das es schöne Landschaft zu entdecken gibt oder sonst irgendwie etwas zu sehen ist, hier liegt der Fall anders, wir laufen immer durch die gleichen Straßen die bloß ärgerlich versperrt sind.
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 27.12.2021
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 

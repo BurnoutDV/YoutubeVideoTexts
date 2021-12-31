@@ -6110,6 +6110,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1631
+
+* Titel: `Let's Play ESO #1631 - Arrox wahre Gestalt [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 56  des Totenländer DLC - Sitzung 9
+  
+  Wir sind mittlerweile tief in die Festung Hoffensbrand eingedrungen, dank eines Portales hatten wir auch einen ganz guten Start. So richtig nutzen können wir das dann aber leider dennoch nicht weil völlig überraschend das große Portal nicht in den innersten Zirkel führt sondern eher an einer Außenstelle. Diese quasi permanenten Portale haben also doch eine gewisse Logik an sich. Interessant ist aber auch das es scheinbar kein richtiges Informationssystem gibt und besonders keine Wächter die Portalaktivitäten überwachen. Anscheinend ist es ja nicht möglich Portale dauerhaft zu sperren oder generell Teleportation zu unterbinden. Wir hatten bereits Fälle das es Sterblichen gelang eben solche Kommandounternehmen zu unterbinden aber die Daedra scheinen nicht über dieses Mittel zu verfügen. Eventuell ist es aber auch eine Eigenschaft der Ebenen von Oblivion, die Realität wie wir sie wahrnehmen könnte ein wenig dünner sein. Unabhängig davon gibt es auch noch Andere die es sich nicht so einfach machen und stattdessen versuchen durch die Tür zu gehen. Angeblich als Ablenkungsmanöver aber ich möchte ganz ehrlich sein, es erscheint mir ziemlich irrsinnig ohne ordentliches Belagerungsgerät gegen massive Metallmauern anzurennen. Und dieses Leute brauchen jetzt Unterstützung, wo wir die bloß hernehmen könnten. Wer uns wohl hier hilfreich sein könnte? Fragen über Fragen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

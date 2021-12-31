@@ -2228,6 +2228,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #142
+
+* Titel: `KotoR - #142 - uralte Sith Rätsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich wähle die Titel für Episoden in der Regel noch während ich spiele oder wenige Sekunden danach. Manchmal fällt mir dann auf, meistens nachdem ich geduscht habe, das der Titel nicht gut ist oder das man hier hätte schlauer sein können. Heute sieht der Fall ein wenig anders aus, quasi umgekehrt. Es stellt sich doch glatt heraus das mein Titel ein wenig intelligenter war als ich ursprünglich dachte. Die Sachlage ist die, und darauf wurde ich auch nur in den Kommentaren hingewiesen, das Rätsel das wir vor uns sehen heißt die Türme von Hanoi. Als ich das in den Weiten des Internets in Erfahrung brachte und Bilder sah kam mir das Thema so gleich bekannt vor. Ich habe das bestimmt sogar schon einmal namentlich gehört. Das ist aber nicht das Rätsel das ich meine. Das Rätsel das wir eigentlich vor uns sehen ist: Wie bringt man die Sith dazu sich nicht innerhalb von kürzester Zeit gegenseitig zu zerfleischen. Generell und überhaupt stellt Star Wars hier sogar die richtigen Fragen, aber dann ist die gesamte Differenzierung ein wenig zu plump. Die grundlegende Botschaft ist das das Böse immer zu extremen neigt und sich dann zerreißt. Auf der Gegenseite sehen wir die gute Seite der Macht die isoliert auch nur zu Statik führt. Wollten wir den Bogen zur Realität schlagen müsste man wohl annehmen das alles "Böse" sich schnell selbst ausmerzt, die Realität hat aber Graustufen und offensichtlich schlechte System leben viel länger als man das gerne hätte. Zurück zu unserem Rätsel bevor ich depressiv werden. Wir haben zwei Sith die beide die Macht wollen. Einer hat sich voll seiner Sache hingegeben, eine Andere scheint noch ein wenig zu zweifeln, wir haben sie vorher geprüft, ihre weichen Seiten aus ge kundschaft und einen Rest, mangels eines besseren Begriffs, Menschlichkeit gefunden. Das können wir ausnutzen, schließlich sind wir Visper Cora und nicht Darth Revan der dunkle Lord der mit einem Handschlag beide ausgelöscht hätte. Stattdessen sind wir der Avatar des Guten und so verhalten wir uns auch. Selbstverständlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 21, Aufnahme vom 23.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

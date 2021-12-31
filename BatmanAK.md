@@ -468,6 +468,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #31
+
+* Titel: `Batman Arkham Knight - #31 - CEO Büro [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Batman verfügt über verschiedene Einrichtungen in denen er Experimente durchführt, auch an Menschen, schließlich ist er moralisch unfehlbar und insofern kann man da bestimmt nichts Falsches finden. Aber über ein richtiges Büro verfügt der Mann offensichtlich nicht, vielleicht könnte man die Stadt als seine Arbeitsstätte sehen und er ist die Art von Chef die vorbei kommt wenn die Probleme drängend genug werden. Richtige Bürostunden gibt es nicht, Flughörnchenmann ist dauerhaft im Meeting und leider nicht zu sprechen. Leider ist Misses Moneypenny leider auch grade nicht zugegen, die Gute ist nämlich damit beschäftigt entführt zu sein, eigentlich heißt sie auch Oracle aber das sind jetzt nun wirklich Details. Davon einmal abgesehen hat Batmans alter Ego Bruce Wayne aber durchaus ein Büro, geerbt von seinem Vater Thomas Wayne der die Bude wohl ursprünglich eingerichtet hat. Man muss wohl davon ausgehen das Batman nicht jeden Tag damit verbringt er selbst zu sein sondern manchmal auch Zeit für mehre Tage in der Bruce Rolle zu finden. Eventuell drücke ich mich ein wenig unklar aus, aber so ein Büro eines obersten Bosses ist ein wenig komisch. Ja, ich verstehe das es sich um ein Prestigeobjekt handelt, eine Art offizielles Wohnzimmer. Gäste müssen beeindruckt werden und es steht zu vermuteten das auch die ein oder andere Nacht dort verbracht wird. Und doch...ich frage mich wie oft man wirklich das reichhaltige Bar-Angebot überhaupt benutzt. Oder die Sitzecke tatsächlich genutzt wird. Letztendlich wird man Gäste ja nicht im Büro sondern außerhalb warten lassen. Außerhalb von Filmen habe ich aber auch noch nicht besonders viele Chef-Büros gesehen. Vielleicht ist die Realität doch ein wenig näher an langweiligen Einrichtungen dran als an überbordenden Luxus wie hier.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 28.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -884,6 +884,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #59
+
+* Titel: `Yakuza 4 Remastered - #59 - Kasinoschläger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist noch eingefallen das es da noch eine große Questreihe gibt die ich auf jeden Fall erledigt haben möchte. Generell und überhaupt ist es interessant zu beobachten wie Saejima wirklich versucht seine Konflikte ohne Gewalt zu lösen. Später werden wir noch bemerken inwiefern das eine gute Idee war. Für den Moment sorgt die Gelegenheit aber dafür das er ein wenig die neue Stadt kennen lernt. Wir besuchen den Drachenpalast, wir erinnern uns, ein illegales und ziemlich geheimes Spiellokal, sehr verwandt eigentlich zur Verdammnis nur das hier auch das normale Volk einreiten darf. Das führt aber auch dazu das nicht alle Gäste wissen wie man sich in einer solchen Einrichtung benimmt. Bezahlt werden wir für diesen Gig übrigens ziemlich mies. Die Abzahlung der Schulden für den Jungen könnte sich also noch eine Weile hinziehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 27.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

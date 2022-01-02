@@ -6140,6 +6140,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1633
+
+* Titel: `Let's Play ESO #1633 - das Erinnerungsgefäß [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 58  des Totenländer DLC - Sitzung 9
+  
+  Ein halbwegs innovatives Feature das ich spontan nur aus Harry Potter kenne sind übrigens diese Erinnerungsgefäße die da benutzt werden um Erinnerungen abzulegen und dann quasi wie auf dem Seziertisch noch einmal im Detail anzusehen. An sich wirft das aber ziemlich viele moralische Fragen auf. An sich sind wir ja nur die Summe unserer Erinnerungen und wenn man einfach alle Erinnerungen ablegt oder nur die generischen Dinge wie Sprachkenntnisse lässt hat man ja quasi eine komplett neue Person. Interessanterweise ist das übrigens die Geschichte eines anderen Spieles das ich grade zeitlich spiele. Und das was der Anachoretin passiert ist. Weiter reden wir aber auch über die Welt in der es okay ist Gefangene im magischen Alcatraz 24/7 zu foltern, vielleicht nicht die beste Grundlage für moralische Fortbildung. Zurück zum Thema, wir gehen jetzt einfach mal davon aus das das Erinenrungsgefäß das hier verwendet wird nur kopiert und nicht nimmt. Der Sezierteil existiert aber weiterhin, besser noch, wir können unterbewusste Erinnerungen extrahieren wie man sie vielleicht sonst aus einem Foto oder so extrahieren könnte.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

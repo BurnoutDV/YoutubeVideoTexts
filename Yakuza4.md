@@ -914,6 +914,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #61
+
+* Titel: `Yakuza 4 Remastered - #61 - Geist der Vergangenheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Saejima ist nichts Anderes als ein Geist der vergangenen Yakuza. Ein Avatar wie es hätte sein sollen, geblendet von jugendlicher Naivität was ein Yakuza ausmacht aber ohne die Erfahrungen der Realität wann es heißt Prinzipien zu verraten. Quasi das Leben des jungen Kazuma Kiryu nur ohne das Leben danach. Hinter Gittern hat der Mann 25 Jahre lang den Kodex seiner Fantasie ausgelebt und damit auch seinen Glauben gefestigt. Immer in der Gewissheit das das was er getan hatte absolut notwendig war um seinen Patriarchen weiter zu bringen. Am Ende war alles was er getan hat sinnlos. Aber da hatte das Leben von Taiga Saejima dem Yakuza bereits geendet. Stattdessen verdingen wir uns jetzt als jemand der andere Heimsucht, daran erinnert was einst war. In den Geschichten sehen wir immer die Personen die heimgesucht werden aber nie wie es eigentlich dem Heimsucher geht, eine Existenz die einer Aufgabe unterstellt ist. Und doch ist diese Existenz nicht völlig isoliert vom normalen Leben. Ein Geist muss essen. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 27.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

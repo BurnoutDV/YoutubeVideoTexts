@@ -2260,6 +2260,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #144
+
+* Titel: `KotoR - #144 - Rulan Prolik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich sage mal so, wir nähern uns langsam aber sich dem Ende und das wieder rum bedeutet das wir die letzten Enden noch abknoten müssen damit uns auch wirklich Nichts entgeht. Klar, einige Missionen wären mit der dunklen Seite der Macht bestimmt noch einmal interessant aber so große Unterschiede sehe ich jetzt nicht das Spiel noch einmal komplett neu zu spielen. Eine große Sachen neben einigen Mitarbeitergesprächen mit meinem treuen Personal die noch aussteht sind die Aufträge der dunklen Bruderschaft. Die heißen eigentlich anders aber das spielt absolut keine Rolle. Tatsache ist das wir Leute umbringen müssen und das wiederum ist nicht so einfach wenn man der Avatar des Guten in der Welt ist und Millionen durch die eigene Gutherzigkeit beeindrucken will. Meuchelmord reflektiert immer ziemlich schlecht auf die eigenen Taten. An sich weiß ich aber auch nicht wie das was wir heute tun von dem unterscheidet was ich in der Sith-Akademie getan habe. Wir gehen irgendwo hin und vernichten das Böse. Ob die Genoharadaner jetzt wirklich das böse sind oder einfach nur drittklassige Lobbyisten kann ich aber unmöglich sagen. Wahrscheinlich ist die Welt aber ein ein wenig gerechterer Ort wenn ihre Einmischung abnehmen würde und für sie zu arbeiten ist wahrscheinlich inhärent böse und doch..die Leute die ich in ihren Namen aus dem Spiel nehme sind durchaus eine Gefahr. Alles ist irgendwie schwierig. Aber selbst den Kampf gegen eine Schattenorganisation anzufangen könnte doch sehr schwierig werden wenn man bedenkt das ich auch noch andere Brötchen zu backen habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 22, Aufnahme vom 30.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

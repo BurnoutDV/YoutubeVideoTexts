@@ -511,6 +511,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #33
+
+* Titel: `Batman Arkham Knight - #33 - Verfolgungsschäden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fahrerflucht ist eine strafbare Handlung. Glücklicherweise ist ganz Gotham geräumt und jeder der sich noch in der Stadt aufhält ist bei den Worten des Gesetzes illegal hier. Das wird jetzt alles ein wenig interessant und Sachschäden existieren jetzt ja immer noch. Allerdings schaut es bei Personenschäden ein wenig anders aus. Letztendlich müsste es den normalen Verbrechern eigentlich möglich sein Batman wegen Körperverletzung zu verklagen. Er ist kein offizieller Arm des Gesetzes und besitzt auch keine Rechte in dem Sinne. Da die Identität nicht ermittelt werden kann müssten die Bullen also entsprechende Schritte vornehmen Gleithörnchenmann zu verhaften. Praktisch wird das natürlich nicht passieren, aber generell und überhaupt auf die Prämisse zu vertrauen das einen Verbrecher schon nicht verklagen werden wird wohl eher nicht klappen. Insbesondere wenn man dann nach überstandener Katastrophe zurück auf sein Grundstück oder Laden kommt und überall batmanförmige Löcher in der Wand sind oder Batarangs noch in den Möbel stecken könnte es ein wenig schwierig werden zu behaupten das Plünderer für die Sachschäden verantwortlich sind. Zurück zum Thema von oben, in manchen Bundesstaaten ist es Tornados verboten die Staatsgrenze zu überqueren. Die quatschigen Gesetze hat man, so habe ich einmal gelesen, um Leute davon abzuhalten den Staat zu verklagen weil der ja Nichts gegen den Tornado getan hat. Klingt zwar erst mal idiotisch aber wenn man das Wort des Gesetztes 1zu1 interpretiert geht das technisch gesehen. Ein interessantes Modell zur möglichen Willkür die uns Richterentscheidungen die irrsinnige Klagen wie gegen Tornadoschäden sofort rauswerfen würden. Der Verbot von Tornados ist quasi auch nur ein "Workaround". Dennoch bin ich mir nicht sicher ob eine Evakuierung die eventuell nicht einmal 100% wasserdicht rechtsmäßig ist Leute davon abhalten kann gegen Verletzungen durch die Staatsgewalt oder Dritte zu klagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 28.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -417,6 +417,15 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   ```markdown
   In der Mitte von Gotham steht eine ziemlich große Statue die übrigens nicht die örtliche Freiheitsstatue ist. Das dachte ich übrigens am Anfang aber Batmans Heimatstadt ist ja halt nicht New York deswegen kann es ja auch gar nicht die Freiheitsstatue sein die irgendwann einmal ein Geschenk der Franzosen war. Viel mehr handelt es sich um "Lady Gotham", wir haben absolute keine Ahnung was diese Statue darstellen soll und ich kann mir unter der ganzen Geschichte auch nicht so recht irgendetwas vorstellen. Ist aber alles nicht wichtig, viel wichtiger ist, wir "fliegen" bzw. Gleithörnchen da heute hin um irgendwelche entführten Polizisten zu retten. Das machen wir dann auch, aber vorher gibt es noch eine kleine Sight Seeing Tour. Nicht die schlechteste Nacht, ich befürchte aber leider das es wohl kalt ist.
   
+  0:00  - Gameplay
+  2:53 - Vorlesen: Halte deine Freunde nahe bei dir
+  4:24 - Vorlesen: Konsequenzen
+  6:05 - Vorlesen: Giftkelch
+  7:21 - Vorlesen: Auf der Pirsch
+  8:45 - Vorlesen: Oh, Jack 
+  10:13 - Vorlesen: Maskenball
+  11:32 - Gameplay
+  
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Sitzung 4, Aufnahme vom 21.12.2021
@@ -476,6 +485,25 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
 
   ```markdown
   Batman verfügt über verschiedene Einrichtungen in denen er Experimente durchführt, auch an Menschen, schließlich ist er moralisch unfehlbar und insofern kann man da bestimmt nichts Falsches finden. Aber über ein richtiges Büro verfügt der Mann offensichtlich nicht, vielleicht könnte man die Stadt als seine Arbeitsstätte sehen und er ist die Art von Chef die vorbei kommt wenn die Probleme drängend genug werden. Richtige Bürostunden gibt es nicht, Flughörnchenmann ist dauerhaft im Meeting und leider nicht zu sprechen. Leider ist Misses Moneypenny leider auch grade nicht zugegen, die Gute ist nämlich damit beschäftigt entführt zu sein, eigentlich heißt sie auch Oracle aber das sind jetzt nun wirklich Details. Davon einmal abgesehen hat Batmans alter Ego Bruce Wayne aber durchaus ein Büro, geerbt von seinem Vater Thomas Wayne der die Bude wohl ursprünglich eingerichtet hat. Man muss wohl davon ausgehen das Batman nicht jeden Tag damit verbringt er selbst zu sein sondern manchmal auch Zeit für mehre Tage in der Bruce Rolle zu finden. Eventuell drücke ich mich ein wenig unklar aus, aber so ein Büro eines obersten Bosses ist ein wenig komisch. Ja, ich verstehe das es sich um ein Prestigeobjekt handelt, eine Art offizielles Wohnzimmer. Gäste müssen beeindruckt werden und es steht zu vermuteten das auch die ein oder andere Nacht dort verbracht wird. Und doch...ich frage mich wie oft man wirklich das reichhaltige Bar-Angebot überhaupt benutzt. Oder die Sitzecke tatsächlich genutzt wird. Letztendlich wird man Gäste ja nicht im Büro sondern außerhalb warten lassen. Außerhalb von Filmen habe ich aber auch noch nicht besonders viele Chef-Büros gesehen. Vielleicht ist die Realität doch ein wenig näher an langweiligen Einrichtungen dran als an überbordenden Luxus wie hier.
+  
+  0:00 - Gameplay
+  13:25 - Vorlesen: Vermächtnis
+  14:32 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 28.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #32
+
+* Titel: `Batman Arkham Knight - #32 - Untergrundgeheimbasis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich besitzt der Arkham Knight über eine Reihe von Untergrundverstecken. Nicht jeder ist wie Batman und versteckt seine geheimen Mitstreiter in irgendwelchen Uhrentürmen die man gut sehen kann und nur mit einem Weg verlassen könnte wenn Gefahr droht...besonders wenn man im Rollstuhl sitzt. Davon einmal abgesehen scheint Gotham auch über eine Menge verlorener Orte zu verfügen. Freunde der "Lost Places" würden hier mitten in der Innenstadt große Freude haben. Ich nehme einmal an das liegt einfach daran das Eigentümer von Häusern plötzlich der Kriminalität zum Opfer fallen und Verwandte dann nicht nachrücken wollen um ihr Erbe im Empfang zu nehmen. Ich gehe einfach mal davon aus das Gotham in der allgemeinen amerikanischen Wahrnehmung durchaus verschrien ist und nicht jeder wird freiwillig in der Stadt wohnen wenn es auch Alternativen gibt. Generell frage ich mich aber wie man zu so großen Brandschutztüren kommt die auch noch erstaunlich resistent gegen den Panzer des dunklen Ritters sind, da fragt man sich schon welcher Ingenieur das zu verantworten hat. Die Maxime "So gut wie nötig, so günstig wie möglich" wurde hier auf jeden Fall nicht beachtet.
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.

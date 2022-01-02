@@ -899,6 +899,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #60
+
+* Titel: `Yakuza 4 Remastered - #60 - Bodyguard [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als großer Mann des Wortes der auch noch gebaut ist wie ein Schrank ist Saejima natürlich auch in der Lage sich als Bodyguard zu verdingen. Und das wäre auch eine gute Arbeit für den großen Schläger von 1985, das Problem ist bloß leider das er immer noch ein gesuchter Verbrecher ist und als solcher wird es ihm bestimmt schwer fallen eine legale Karriere zu haben bei der man früher oder später Aufmerksamkeit auf sich lenkt. Aber für eine einmalige Geschichte ist wohl alles möglich, dafür machen wir aber auch gleiche eine sehr schwierige Aufgabe. Attentäter mit Mordabsicht sind auf dem Weg und nur ein mutiger Saejima der geschworen hat zu schützen steht zwischen ihm und dem plötzlichen Abtreten des Ziels. Natürlich erledigen wir diese Aufgabe zur vollständigen Zufriedenheit des Zieles, allerdings darf man sich doch sehr fragen wie ein Geldverleiher wie Tadokoro überhaupt in die Situation kommt das dies einer seiner Aufträge ist. Außerdem könnte man argwöhnen das da wohl jemand gehofft hat das Saejima in Erfüllung seiner Pflicht das Leben lässt. Aber so etwas Niederträchtiges würde er doch nie tun oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 27.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -6125,6 +6125,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1632
+
+* Titel: `Let's Play ESO #1632 - Ferngrab Siegesfeier [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 57  des Totenländer DLC - Sitzung 9
+  
+  Und schon haben wir es mal wieder geschafft. Ferngrab ist sicher, alle sind gerettet und der große Bösewicht ist besiegt. Ich persönlich muss ja auch sagen das ich ein wenig enttäuscht bin wie wenig episch die jeweiligen Bosse immer wieder wirken. Ich habe allerdings auch keine Ahnung wie man es irgendwie besser machen könnte, die Engine hält die Kreativität hier auf jeden Fall zurück. Davon einmal abgesehen wären epische Kämpfe in MMOs wahrscheinlich auch eher im Zusammenspiel und großen Gruppen zu finden, etwas das in der Solo-Kampagne eher schwierig ist. Aber immerhin gibt es jetzt ein paar schöne Worte von allen Leuten denen wir auf der Reise begegnet sind, das bedeutet aber auch das wir uns nun endlich von Ferngrab verabschieden können..aber halt, was ist das? Es ist die Bonusquest mit einem Klappstuhl!
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

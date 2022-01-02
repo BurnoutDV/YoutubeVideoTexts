@@ -2244,6 +2244,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #143
+
+* Titel: `KotoR - #143 - Säuberung der Akademie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß wirklich nicht wie man die Säuberung der Akademie der Sith eigentlich moralisch verteidigen soll. Klar, die Sith sind böse und das sogar relativ objektiv und in den meisten Moralsystemen, allerdings ist das willentliche Abschlachten ihrer jungen Rekruten, insbesondere wenn diese kaum eine Chance haben bestimmt nicht so einfach vor dem Rat der Jedi zu verteidigen. Allerdings scheint die Macht in dieser Hinsicht keine Einwände zu haben. So gesehen müssen wir ja auch durch die Einrichtung laufen und für einen sicheren Rückweg sorgen. Allerdings glaube ich nicht das das ablaufen aller Gänge der Einrichtung von irgendwelchen Moralkodexen gedeckt ist. Tatsächlich bin ich mir ziemlich sicher das was wir getan haben falsch ist. Vorwärtsverteidigung mag vielleicht sinnvoll sein und taktisch definitiv die richtige Idee aber die Taktik selbst scheint mehr zu den Sith zu passen als den Jedi. Lange Geschichte kurz, rein rechtlich sind wir wohl super raus gekommen aber wenn später jemand moralisch meine Taten noch einmal aufrollt und meine Gefährten von den genauen Schritten erzählt die ich durch die Enklave genommen habe könnte es schwierig werden. Aber ich bin eine nette Person, ich schwöre. Ich bin Visper Cora, nicht Darth Revan, eine geänderte Frau. Ich habe alle Good Girl Points gesammelt die gingen, ein Avatar des Lichts. Aber vielleicht kein Vorbild für die Jugend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 22, Aufnahme vom 30.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

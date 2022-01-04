@@ -929,6 +929,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #62
+
+* Titel: `Yakuza 4 Remastered - #62 - Waffenmeisterturnier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Deutsche Kombinationswörter machen immer wieder Spaß, dennoch denke ich das manchmal ein paar Bindestriche oder Leerzeichen durchaus Sinn stiftend sein könnten. Davon einmal abgesehen nehmen wir aber heute wirklich an einem besonderen Turnier in der Verdammnis teil, irgendwie passiert das übrigens andauernd. Das Thema ist übrigens Waffen und ich frage mich wirklich wie man das genau schaffen will ohne das irgendjemand stirbt. Auch lustig ist übrigens auch, das sei schon einmal vorweg genommen, das der Zweitbeste einfach eine Pistole hat. Die Natur dieses Waffenturniers erscheint mir doch ein wenig un durchdacht und ein paar mehr Regeln würden vielleicht helfen. Wie es aber auch sei, wir gewinnen natürlich, als Protagonist können wir nicht so einfach verlieren. Und weil dem so ist verunsichern wir so einige andere Leute die dachten sie hätten leichtes Spiel mit Saejima. Mich würde das auch verunsichern, du schickst jemanden mit 5% Überlebenschancen los und die Person Lädt und Speichert so lange bis sie gewinnt. Das kann schon nerven.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 27.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #63
+
+* Titel: `Yakuza 4 Remastered - #63 - Familienzusammenführung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus vergangenen Yakuza Teilen habe ich bereits gelernt das die Familie anscheinend ein hohes Kulturgut für den durchschnittlichen Japaner ist. Wie es dann in der Realität aussieht kann ich natürlich unmöglich sagen aber es spricht schon Einiges dafür das es in etwa so ist wie immer in den Spielen dargestellt. Das Zusammenführen einer Familie, das Zusammenfinden von Bruder und Schwester sollte also in der Regel ein großartiges Ereignis sein. Und genau das passiert auch heute, immerhin kein finsteres Ende wie das was ich ursprünglich erwartet habe. Dennoch bin ich ein wenig verwirrt von der Art und Weise wie heute eine längere Questreihe ihre Konklusio findet, man könnte sogar sagen ich bin irritiert. Insbesondere weil man einem kleinen Jungen die Entscheidungsgewalt über Dinge lässt die definitiv außerhalb seiner Tragweite sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 27.12.2021
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

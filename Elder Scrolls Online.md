@@ -6155,6 +6155,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1634
+
+* Titel: `Let's Play ESO #1634 - die Seele des Kaisers [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 59  des Totenländer DLC - Sitzung 9
+  
+  Es kommt erstaunlich selten vor das wir mit historisch relevanten Personen sprechen. Klar, wir haben ziemlich oft Kontakt mit Leuten aus der Geschichte die für das hier und jetzt irgendwie bedeutsam sind, aber selten treffen wir tatsächlich Leute von denen man noch in 1000 Jahren etwas gehört hat. Der gute Herr Fyr würde dazu gehören, Mannimarco sowieso, davon aber einmal abgesehen hält sich die Anzahl an Leuten eher in Grenzen die wirklich bedeutsam sind. Heute treffen wir direkt drei Kaiser die quasi instrumental für die Ereignisse der Zeit sind. Ich bin ehrlich gesagt ein wenig erstaunt das sie nicht untereinander reden, aber vielleicht haben die Schlackekaiser auch die letzten 10 Jahre damit verbracht alle Themen auszudiskutieren, in diesem Fall ist wohl klar warum sie sich untereinander nicht mehr all zu viel zu sagen haben. Aber auch verwunderlich das man überhaupt mit uns redet, klar, wir sind schon wer wenn man einfach mal so in die Totenländer eindringt, aber für diese Leute müssten wir doch eigentlich wie irgendwelche ungewaschenen Bauern wirken oder? Wie dem aber auch sei, lange müssen wir uns nicht mit versnobbten Reikmannen herumärgern.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1635
+
+* Titel: `Let's Play ESO #1635 - die vierte Ambition [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 60  des Totenländer DLC - Sitzung 9
+  
+  Es kommt ein wenig überraschend aber es stellt sich doch glatt heraus das wir die vierte Ambition schon vor so langer Zeit gefunden haben und das es einen guten Grund gab warum man sie einfach nicht auftreiben konnte. Alles sehr interessant und schön dennoch hätte ich mir wirklich gewünscht wenn die Geschichte offener gewesen wäre, ein Stück Mysterium offen gelassen hätte. Ich gebe zu das ich mich selbst immer gerne in Detailerklärungen verliere und gerne jedes Rätsel auflösen möchte. Aber rein als Geschichte hätte es sich bestimmt besser gemacht wenn wir die vierte Ambition nur schemenhaft getroffen hätten. Eine dritte Macht die in der Lage wäre unseren Konflikt zu ignorieren, ein Geheimnis für das mehre Erklärung gleichermaßen passend wären. Aber dann ist doch alles in sich geschlossen. Die Geschichte würde, so weit bin ich mir in meinen Studien, für beide Richtungen erlauben. Wir könnten durchaus offene Ende haben, lose Charaktere. Würde eine Ambition an Altersschwäche sterben oder ist die Macht genug um sie zu erhalten? Wie sieht eine alte Ambition aus, verzehrt die Macht des Fürsten oder wird das Träger der Macht Stück für Stück daedrischer, vielleicht gar selbst eine Hülle die ihre Gestalt frei wählen kann wie die Daedra? Viele Möglichkeiten, aber wir wählen heute die konkrete Wahrheit, etwas das jeden Traum erstickt. Kurzum, ich bin enttäuscht, umso wichtiger ist es wohl die Reise zu genießen, dann wenn noch alles offen ist und Träume eine weitere Möglichkeit darstellen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

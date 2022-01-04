@@ -2276,6 +2276,38 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #145
+
+* Titel: `KotoR - #145 - Vorn & Ithorak [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind Visper Cora und damit eine sehr komponenten Person. Tatsächlich dieses Mal sogar ein wenig un ironisch, wir bestehen aus vielen Teilen und einer dieser Teile ist durchaus in der Lage sich durch größere Mengen an Widrigkeit zu schlagen ohne zuviel Schaden zu nehmen. Und so kommt es das wir heute den Drängen eines Auftragsmörders nachgehen, Unwissen für wen wir eigentlich jemanden umbringen. Letztendlich vertrauen wir nur den Wort derjenigen die uns auf den Pfad geschickt haben. Nicht die beste Idee wie ich feststellen möchte. Am Ende enden wir wahrscheinlich wie Agent 47 der auch einmal zu oft ein blinder Befehlsempfänger war. Ob das ein generelles Problem bei Attentätern ist, das man nie wissen kann ob der Grund für den man geschickt wurde gerecht ist? Kann es gerechten Mord geben? Wahrscheinlich nicht, die schattige Natur der Arbeit und die damit verbunden Geheimnisse machen einen "ehrliche" Arbeit quasi unmöglich. Also bleibt logischerweise nur das sich ein guter Attentäter nicht für die Natur seines Zieles interessiert, jede Moral über Bord wirft und einfach nur ausführt. Je früher das ein Arbeitgeber versteht umso besser. Der Assassine stellt keine Fragen zu den Beweggründen, warum sollte sie auch, alles was sie erfahren würde sind Lügen und wieder Lügen. Und letztendlich, warum sollte es auch eine Rolle spielen. Nicht alle Auftraggeber scheinen dieser Logik zu folgen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 22, Aufnahme vom 30.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #146
+
+* Titel: `KotoR - #146 - Duell im Morgengrauen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ehre ist ein sehr interessantes Konzept und ich bin mir sicher ich habe darüber schon früher nachgedacht. Oft um ehrlich zu sein. Menschen neigen anscheinend dazu aus Gründen die sie als Ehre und auf keinen Fall als Egoismus schreckliche Dinge zu tun weil ihre Ehre alles ist was sie haben und diese verteidigt werden muss. Dies erscheint mir als Konzept ein wenig seltsam. Ehre ist das Ansehen von anderen für einen selbst. Aus irgendwelchen Gründen soll dieses Ansehen schwinden wenn man bestimmte Handlungen dritter ignoriert oder nicht richtig begegnet. Sollte dies so sein, gibt es vielleicht die Möglichkeit das das System das du als "Ehre" bezeichnest in seiner Wurzel verdorben ist. Offensichtlich sind jene die dir Ehre bekunden leicht ins Schwanken zu bringen, quasi falsche Freunde, die dich daran beurteilen was andere tun und nicht was du tust. Lange Geschichte, bei einem Duell im Morgengrauen empfehle ich immer den orbitalen Erstschlag. Ich kann keinen Grund erkennen sich hier auf irgendetwas einzulassen. Warum auch? Alle die bezeugen können das etwas passiert sind werden Asche sein und es gab von Anfang an keine Ehre zu verlieren, besonders wenn nach irgendwelchen fremden Regeln gespielt werden soll die ich bis eben nicht gekannt habe. Memo an mich selbst, kapitales Schiff ankaufen um orbitale Erstschläge zur Verfügung zu haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 22, Aufnahme vom 30.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

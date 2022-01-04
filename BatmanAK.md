@@ -526,6 +526,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #34
+
+* Titel: `Batman Arkham Knight - #34 - das Kaninchenloch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich heißt das Wort normalerweise Kaninchenbau und dort steigen wir heute eigentlich auch herab aber dennoch stehen meine Worte. Generell und überhaupt benutze ich übrigens immer wieder die gleichen Worte wenn ich diese Beschreibungen anfange. Man könnte fast von einen Muster sprechen, eine Aussage, dann eine Verneinung oder Abschwächung der Aussage bis ich dann endlich einmal zum Punkt komme. Manchmal fällt es mir wirklich schwer eine so allgemeine gefasste Aussage zu verfassen das sie irgendwie noch relevant für den Inhalt der Episode ist, oder das die Episode fokussiert genug ist das es überhaupt möglich ist eine einzelne Aussage zu machen. Sagen wir einmal so, ich bin ziemlich begeistert von der Art und Weise wie uns heute wieder einmal ein Level präsentiert wird das nicht die Realität ist. Bereits in Arkham Asylum habe ich es sehr genossen wie grandios die Realität in Batmans Kopf aussieht, man muss ihn lassen das seine Fantasie ziemlich detailiert ist, auch wenn in der Regel ein wenig alptraumhaft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 28.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #35
+
+* Titel: `Batman Arkham Knight - #35 - Bleifuß Gerechtigkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind Geschwindigkeit, wir sind Gerechtigkeit, wir sind, Batman! Und das bedeutet auch das Gaspedal auf den Boden des Flughörnchenmobils einzurasten und so schnell zu fahren wie es physisch möglich ist. Das dabei die ein oder andere Person schwer, fatal oder auch nur leicht verletzte wird ist dabei völlig egal. Das Leben der Fledermaus ist die ultimative These des "Der Zweck heiligt die Mittel" und wenn dabei ein paar Fliegen auf der Windschutzscheibe des Gerechtigkeitszug kleben bleiben dann ist das ein Opfer das die Gemeinschaft wohl bringen muss. Freie Straßen für freie Bürger! Oder so. Was ich damit sagen will ist das wir erstaunlich viele Leute mit unserem tiefergelegten Auffahrunfall verfolgen müssen und auf Dauer ist das schon ein wenig nervig, insbesondere wenn die Kiste an irgendwelchen Kanten kleben bleibt. Immerhin scheint die Außenhülle aus Unobtanium zu sein und ist ein wenig unzerstörbar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 28.12.2021
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

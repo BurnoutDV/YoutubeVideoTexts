@@ -2308,6 +2308,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #147
+
+* Titel: `KotoR - #147 - Bruchlandung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute passiert das worauf ich die ganze Zeit eigentlich schon gewartet habe. Wir stürzen auf einen Planeten ab. Das passiert weil es anscheinend irgendeine Art von Verteidigungssystem an der endlich gefundenen Sternenschmiede gibt. Das hätte uns nicht überraschen sollen aber natürlich fliegt man auch direkt auf das Ding zu. Oder hält sich erst einmal fern. Übrigens auch schön, wir haben bei der guten Gelegenheit auch der republikanischen Flotte Bescheid gesagt die jetzt natürlich in voller Stärke hier erscheinen wird, mitten in der Falle. Bevor wir aber irgendetwas tun können müssen wir uns erst einmal sammeln. Die Sachlage ist die das wir nicht die Ersten sind die hier abgestürzt sind. Die gute Nachricht ist aber auch, der Planet auf dem wir gelandet sind ist zumindest da wo wir grade sind ziemlich tropisch und durchaus annehmbar. Ich gehe außerdem davon aus das wir ausreichend Vorräte an Bord haben um einige Zeit durchzuhalten. Im Gegensatz zur Flotte haben wir also Zeit. Vielleicht verfügen wir sogar über Mittel neue Nährstoffe herzustellen. Wer weiß das schon. Ein bisschen auffällig ist übrigens schon das alle Raumschiffe in unserer Nähe rumliegen..oder der Planet ist ein echter Schrottplatz. Dennoch stelle ich weiterhin in Frage warum zur Hölle ein Raumschiff notlanden muss. Das ist doch kein Flugzeug, wir könnten auch antriebslos einfach weiter rum schweben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 22, Aufnahme vom 30.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

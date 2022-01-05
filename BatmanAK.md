@@ -556,6 +556,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #36
+
+* Titel: `Batman Arkham Knight - #36 - das Versteck des Pinguins [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute stürmen wir die Bude des Pinguins, ein kleines Versteck in dem sehr viel Geld gelagert ist aber an und für sich nicht so luxuriös wie ich mir das eigentlich vorgestellt hätte. Eher ein Loch mit Tresor. Auch frage ich mich warum es überhaupt das entsprechende Loch mit Tresor gibt. Wie dem aber auch sei, wir kennen den Pinguin ja bereits aus der Vergangenheit und es wird immerhin kurz angerissen wo er herkommt und wie er überhaupt an die Macht gekommen ist. Aber das ist jetzt ja irgendwie alles vorbei. Ich frage mich wirklich wie ein Typ wie Cobblepot ernsthaft in der Lage ist irgendeine Art von Organisation aufzubauen. Mafiabosse haben irgendwie eine lange Linie von Familie hinter sich und irgendwie hat sich das gegründet, aber unser herzallerliebster Pinguin halt eben nicht. Außerdem stelle ich in Frage wie stark Batman eigentlich wirklich ist. Der fette Mann wiegt mindestens 150 Kilo, wenn nicht sogar mehr. Unsere Fledermaus hebt den Mann scheinbar mit Leichtigkeit auf, sein Anzug kann es eigentlich nicht sein, weil ich kann mir nicht vorstellen wie die Kraft da durch geleitet wird. Ob Bruce Wayne in letzter Zeit den Planeten Krypton besucht hat? Selbst Peak Performance erlaubt einen nicht magisch Leute im stehen anzuheben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 04.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

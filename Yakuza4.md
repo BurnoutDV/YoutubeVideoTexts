@@ -959,6 +959,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #64
+
+* Titel: `Yakuza 4 Remastered - #64 - die blaue Rose [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute treffen wir die blaue Rose, eine Frau die sich anscheinend darauf spezialisiert hat Dinge zu stehlen. Das ist nicht besonders seltend und ich würde nicht erwarten das man als Frau besonders gute Chancen hat Leute am hellen Tageslicht zu überfallen. Ich muss aber sagen ich bin ziemlich überrascht das sie anscheinend schon länger im Geschäft ist und sich mehrfach von irgendwelchen Schlägern überfallen lässt. Sollte man nicht in solchen Fällen wesentlich besser vorbereitet sein und wissen wie man solche Verhandlungen angeht. Natürlich ist Saejima zur Stelle um die holde Dame in Not zu retten. Als Held der alten Schule kann er quasi gar nicht anders als einer Frau in Not zu helfen. Interessant eigentlich auch weil seine Philosophie anscheinend nicht vorsieht das es weibliche Verbrecher gibt. Die Yakuza Spiele waren in dieser Hinsicht auch sehr zurückhaltend. Überhaupt kann man sich wahrscheinlich beschweren das man als Spielerin ein wenig unterrepräsentiert wäre. Andererseits scheint mir die japanische Gesellschaft in dieser Hinsicht realistisch, Femme Fatales findet man ja auch nicht an jeder Ecke. Aber was weiß ich schon.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 03.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

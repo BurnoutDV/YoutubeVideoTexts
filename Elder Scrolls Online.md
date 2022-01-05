@@ -6185,6 +6185,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1636
+
+* Titel: `Let's Play ESO #1636 - die gefallene Ambition [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 61  des Totenländer DLC - Sitzung 9
+  
+  Der Verrat war abzusehen, und ich nehme jetzt einfach einmal vor das wir heute wieder einmal verraten werden. An sich finde ich es übrigens nicht besonders logisch wie die Art des Verrates aussieht. Nicht nachvollziehbar wie ich feststellen möchte. Das liegt aber nicht daran das die Person die uns heute so gemein hintergangen hat nicht klar genug herausgearbeitet wurde. Hier fehlt einfach etwas, um die Entscheidungen nachvollziehbarer zu machen hat einfach Zeit gefehlt. Vielleicht auch ein wenig Exposition um Emotionen und Gefühle weiter auszubauen. Was wir stattdessen erhalten haben waren ein paar Berichte die wir dann später noch finden werden, etwas das uns nicht wirklich hilft zu verstehen. Aber es gibt auch Gute Dinge, wir haben jetzt ein klares Feindbild und wissen endlich was wir eigentlich tun müssen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

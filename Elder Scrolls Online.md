@@ -6200,6 +6200,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1637
+
+* Titel: `Let's Play ESO #1637 - das Egonymon [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 62  des Totenländer DLC - Sitzung 9
+  
+  Jede Geschichte die zu verfahren ist um sie irgendwie wieder aus den Dreck zu fahren braucht eine Deus Ex Machima, ein direktes Eingreifen Gottes der per Definition allmächtig ist und daher die Dinge einfach tun kann. Eine sehr langweilige Lösung übrigens, Götter müssen sich schrecklich langweilen, ich gehe daher davon aus das sie sich streng an Spielregeln halten weil sonst die Langeweile droht. Wie dem aber auch sei, das was wir bekämpfen wollen ist bei aller Definition auch ein Gott, zumindest in seiner eigenen Welt, aber aus irgendwelchen Gründen befand es noch nicht die Notwendigkeit uns aufzuhalten. Das ist übrigens generell ein wenig komisch aber ich denke mal hier kommen wieder irgendwelche Regeln zum tragen die ich nicht kenne. Anders sieht es hingegen auf Nirn aus, dort ist Mehrunes Dagon immer noch ziemlich mächtig aber er selbst kann es halt nicht wirklich betreten, nur eine Projektion, zumindest wenn ich das alles richtig verstanden habe. Wir haben also noch eine Chance. Leider wird der gute "Mann" ungefähr 49 Millionen Lebenspunkte haben, was an sich kein Problem sein sollte, ich habe schon Drachen mit mehr besiegt, aber es dauert halt. Leider sind meine Zauber zu schwach um seine Panzerung zu durchdringen, wir brauchen also eine Waffe. Etwas das die Haut des daedrischen Fürsten ansoftet, und hier kommt das Egonymon ins Spiel, die Selbstessenz des Fürsten. Glücklicherweise haben wir dieses wertvolle Werkzeug im richtigen Moment gefunden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1638
+
+* Titel: `Let's Play ESO #1638 - Arox der Gassenmörder [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 63  des Totenländer DLC - Sitzung 10
+  
+  Neulich habe ich einen Frage Thread in einem Forum gelesen wo es darum geht an welchen Punkt man seinem Kind sagen das es nicht mehr das eigene Kind war. Der allgemeine Konsensus waren diverse Sexualverbrechen, davon aber einmal gesehen konnte über ziemlich viel reden. Eine dieser Sachen war übrigens Mord. Es gibt da verschiedene Fälle in denen selbst der kaltblütige Mord an jemanden vielleicht nicht rechtlich aber zumindest moralisch verständlich ist. Ein Klassiker im Recht ist übrigens der sogenannte Haustyrannenmord, meistens ausgeführt von einer Frau an einem Mann. Zurück zum Thema, wir haben es heute wesentlich einfach weil wir uns zwar um einen Mord geht aber Arox nicht unser Kind ist sondern nur etwas das man wohl als Geschäftspartner einstufen könnte. Und wir leben in harten Zeiten, außerdem kennen wir die Leute nicht denen Arox heute vor den Kopf gestoßen hat, es geht sogar noch weiter, wir können das Problem mit einem kleinen Obolus über uns entgehen lassen. Das ist besonders interessant wenn man bedenkt das es vorher doch hieß das es kaum Daedra gibt die sich überhaupt um Gegenstände oder Geld sorgen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

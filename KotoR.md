@@ -2324,6 +2324,38 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #148
+
+* Titel: `KotoR - #148 - der Eine der Rakata [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ihn ja immer irgendwo. Den großen Auserwählten, den der das Heil für all die Jünger bringt. In diesem Fall handelt es sich übrigens um einen Warlord, einen ziemlich finsteren Herrscher der nicht besonders viel Gutes über die Rakata bringt. Oder halt auch doch, in jedem Fall scheint er aber unsere Fähigkeiten zu akzeptieren. An sich habe ich übrigens das Gefühl das man quasi eine Film alleine darüber machen kann was Malak und Revan vor dem großen Angriff der Sith alles getrieben haben. Im Großen und Ganzen ist das ja doch ein wenig eine Geschichte von Verrat, Leidenschaft und Erkundung des Universums. Nun, wie dem aber auch sei, der Eine sagt mir persönlich nicht zu, aber es sollte ja allgemein bekannt sein das ich nicht bei der ersten Begegnung den Leuten direkt vor dem Kopf stoßen will. Zumindest in Spielen ist das auch ziemlich einfach, daher tun wir das auch nicht. Wenn man nur im echten Leben die Leute so einfach mit Samthandschuhen behandeln könnte..ohne ewig lange zu überlegen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 22, Aufnahme vom 30.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #149
+
+* Titel: `KotoR - #149 - die roten Rakata [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich sage ja immer wieder gerne das es verschiedene Menschen in Geschmacksrichtungen gibt, in der Regel beziehe ich mich damit noch nicht einmal auf die Hautfarbe oder irgendwelche anderen äußeren Merkmale die man auch gerne irgendwie anders bezeichnet. Viel mehr geht es mir um die Persönlichkeit oder eine bestimmte Art zu denken die man immer wieder bei Leute findet. Diese Verwendung des Wortes Geschmacksrichtung kann man bestimmt auch auf andere Dinge abstrahieren, sogar auf Aliens wenn man unbedingt will. Die Sachlage ist aber heute das es scheinbar wirklich blaue und rote Rakata gibt. Die einen sind scheinbar die ehemaligen Bunkerbewohner die erst vor relativ kurzer Zeit zurück an die Oberfläche gegangen sind, die Anderen sind wohl älter und haben auch Zugriff auf die Technologie ihrer Vorfahren. Klar ist ab heute auf jeden Fall das die Rakata die Vorläuferzivilisation sind von der wir schon so viel gehört haben. Das bedeutet aber auch das ich mich nicht getäuscht habe was das Alien im weißen Raum angeht. Jetzt frage ich mich nur ob ich vielleicht noch andere Szenarien hätte erwirken können wenn ich die Box erst später oder vielleicht gar nicht zurückgegeben hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 22, Aufnahme vom 30.12.2021
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

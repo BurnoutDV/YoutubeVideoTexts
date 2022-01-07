@@ -974,6 +974,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #65
+
+* Titel: `Yakuza 4 Remastered - #65 - Präsident Nutzlos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser bester Freund Saejima ist wirklich gut darin verschiedene Jobs anzunehmen die ein wenig ungewöhnlich sind, aber irgendwie auch seltsam Prestige-Trächtig wenn es ihm um irgendetwas wie Nachhaltigkeit gehen würden. So ist zum Beispiel das Bewachen von einer bekannte TV-Ikone eigentlich ziemlich gut für den Lebenslauf, das gibt einen Kontakte und der nächste Job lässt sich bestimmt mit Leichtigkeit an Land ziehen, besonders wenn man eine Kompetenz wie unser Lieblingshäftling hat. Aber das will der große, starke Mann natürlich nicht, ihm ist es wesentlich lieber einfach nur im Hintergrund zu stehen und seine eigene, kleine Aufgabe zu erfüllen. Aber dann kommen ihm immer wieder so Dinge wie sein Ehrgefühl und den Drang das Richtige zu tun in den Weg. Immerhin kann man das auch nutzen um Leuten eine wichtige Lektion in Sachen Demut beizubringen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 03.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #66
+
+* Titel: `Yakuza 4 Remastered - #66 - der Yakuza Weg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das ganze Leben hat Saejima alles dafür getan der perfekte Yakuza zu sein. Ich wiederhole mich leider jetzt da ich schon mein ganzes Pulver verschossen habe was das angeht. Aber die Sachlage ist die das Saejima quasi der Avatar des Weges ist, um es ein wenig kurz zu machen. Davon einmal abgesehen sind zumindest einige Prinzipien wohl gar nicht so schlecht, also der mit der Treue obwohl so etwas schnell dazu führt das man von Leuten hintergangen wird, und wenn man dann nicht über die Macht verfügt um sich gegen die Betrüger aufzulehnen kann es ziemlich schnell ziemlich dolle schief gehen. Wir erinnern uns an einen kleinen Jungen der dachte er müsste die Schulden seiner Eltern tragen.  
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 03.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

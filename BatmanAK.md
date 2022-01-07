@@ -571,6 +571,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #37
+
+* Titel: `Batman Arkham Knight - #37 - flüchtige Informanten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir betreten jetzt eine Reihe von Episoden in denen nicht wirklich viel passiert weil ich einfach viel zu sehr damit beschäftige mich mit Nebensächlichkeiten anstatt dem großem Ganzen zu beschäftigen. All das ist übrigens recht interessant aber halt dann doch nicht so interessant wie die eigentlich Hauptmission die ich jetzt eigentlich machen sollte. Die Ereignisse von Arkham City machen mich aber ein wenig nervös das ich aus Versehen zu weit in der Geschichte gehe und dann nicht mehr Nebenmissionen erfüllen kann, das möchte ich auch nicht. Das konzentrieren auf irgendein dubioses Nebenprodukt kennt man im angelsächsischen Raum übrigens als "bike shedding", da geht es darum das man anstatt sich auf einen großen Plan der komplex und nur für Experten verständlich ist zu fokussieren alle Konzentration auf einen Fahrradunterstadt liegt weil zu dem Ding halt jeder was zu sagen hat, so eine kleine Hütte, das kann ja jeder! Und so beschäftige ich mich heute auch damit wild durch die Stadt zu fahren und sehr versuche nicht die Informanten des Riddlers außer Gefecht zu setzen, Tote reden nicht!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 04.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #38
+
+* Titel: `Batman Arkham Knight - #38 - Panzerschwund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen in meiner Welt der Doppeldeutigkeit. Die Sachlage ist die, die Dinger die der Arkham Knight da aufgefahren hat könnte man durchaus als Panzer bezeichnen, das was auf der Rüstung von Batman drauf ist ist übrigens auch Panzerung. Auch das Gleithörnchenmobil hat eine gewisse Menge an Panzerung, Panzerung von der ich bisher dachte das sie eigentlich ausreichend ist für alle Aufgaben denen wir begegneten. Stellt sich doch glatt heraus das Batman so eine Art dynamische Schwierigkeit hat, ich bin mir nicht ganz sicher wovon es abhängt, Storyfortschritt, zunehmende Vervollständigung oder vielleicht sogar dynamische Anpassung auf Basis meiner Fähigkeiten. Es scheint in jedem Fall graduell zu sein. Es gibt übrigens noch die Möglichkeit das ich einfach mit jedem Tag schlechter werde und das den scheinbar sehr subtilen Zuwachs an Spielzeit pro Missionsziel erklären könnte. Praktisch sieht das dann so aus das wir recht lange einem Auto hinter herfahren, immer versucht das Ding abzuschießen und dabei schwitzen wir Panzerplatten. Das ist unschön. Und ungesund für alle Beteiligten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 04.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

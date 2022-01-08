@@ -601,6 +601,25 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #39
+
+* Titel: `Batman Arkham Knight - #39 - Founders Island [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt in Gotham mehre große Inseln auf der die Stadt liegt, die einzelnen Inseln sind vom Straßenverkehr mit irgendwelchen Brücken gesperrt. So wie der Fall liegt hat irgendjemand die Brücken hochgelassen und deswegen können wir mit dem Batmobil auch nicht einfach irgendwo hin fahren wo es keine Brücken gibt. Das BatFlugzeug kann anscheinend auch nicht als mobiles Transportflugzeug genutzt werden. Daher ist Founders Island auch eine eher kritische Angelegenheit, die große Anzahl an Drohnen hier macht es ein wenig schwierig auf der Straße um her zulaufen. Wir selbst können uns nicht zeigen da uns einfach die Feuerkraft fehlt. Ich bin mir übrigens auch nicht so sicher ob man die Insel nicht eigentlich demnächst einmal umbenennen sollte . Von dem was ich so sehen kann waren die Gründe von Gotham keine guten Menschen, niemanden den man anbeten sollte wie ich finde. Oder überhaupt jemand dem Ehre gebührt.
+  
+  0:00 - Gameplay
+  7:10 - Vorlesen: Die Mission
+  8:39 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 04.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -2358,6 +2358,22 @@
 
 ##### #Nummer
 
+* Titel: `KotoR - #150 - Forschung & Geschichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ziemlich klar das wir bald sehr viel Tod und Verderben erschaffen müssen. Leider werden wir gezwungen sein Schmerzen zu denen zu bringen die uns im Weg stehen. Aber bevor all diese Dinge geschehen wird es noch eine kurze Phase der Ruhe geben, einen kurzen Moment des In-sich-gehens. Eventuell erfahren wir sogar die ein wenig über die Geschichte der Rakata, also die andere Seite. Und dann sehen wir auch noch ein bisschen was die aktuelle Forschung so für sich treibt. Übrigens an sich das einzige Volk das überhaupt irgendwelche Forschungen betreibt, dafür das sie aber schon seit Jahrhunderten dabei sind bin ich vom Fortschritt ziemlich enttäuscht. Es scheint so das Forschung im Star Wars Universum nie zu irgendetwas führt. Auch enttäuschend ist übrigens die Geschichte der Rakata, ich hätte gedacht das wir hier ein wenig mehr in die Tiefe gehen. Stattdessen war das was wir über die wilden Stämme erfahren haben wesentlich tiefsinniger.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 23, Aufnahme vom 06.12.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

@@ -6230,6 +6230,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1639
+
+* Titel: `Let's Play ESO #1639 - Armee der Verbündeten [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 64  des Totenländer DLC - Sitzung 10
+  
+  Wir wollen gegen einen daedrischen Fürsten antreten. Das ist nicht das erste Mal das das passiert, in der Regel haben wir immer ziemlich wenig Vorbereitung und werden einfach so in die Angelegenheit hineingeworfen. Wir erinnern uns an diese Angelegenheit mit den Türmen und Nocturnal. Heute stehen die Dinge ein wenig anders und wir haben tatsächlich das Glück das uns einige wenige Minuten Zeit verbleiben unsere weiteren Züge zu planen, natürlich tun wir dies auch. Also versammeln wir eine Armee, oder besser gesagt, wir sorgen dafür das jemand Anderes für uns eine Armee versammelt. Ich kann mir übrigens nicht erklären wie genau es Lyranth eigentlich geschafft hat irgendwelche Sterbliche davon zu überzeugen mit in eine Ebene des Vergessens zu kommen und dann dort zu sterben. Das erscheint mir doch ein wenig wie eine ziemlich große Anfrage. Immerhin können wir mit allen Leuten noch einmal Reden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

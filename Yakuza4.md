@@ -1004,6 +1004,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #67
+
+* Titel: `Yakuza 4 Remastered - #67 - die Majima Familie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das erste Mal das wir mit Majima zu tun hatten war er noch der Hund von Shimano und hatte nur wenige Truppen an seiner Seite. Dann hat ihn der Drache von Dojima damit beauftragt Dinge zu tun und irgendwie hat Majima für sich festgestellt das man wohl gewaltige Macht braucht um das zu tun was der Drache befohlen hat. Ein Befehl der durch einen fairen Kampf erlassen wurde. Ich bin mir übrigens nicht ganz sicher ob die anderen Familien überhaupt wissen wie viel Personal Majima wirklich beschäftigt. Es scheint fast so als hätte er mehr Männer als alle anderen Familien zusammen. Männer und vielleicht auch Frauen die irgendwo in der Zivilgesellschaft als U-Boot arbeiten. Anders kann ich mir nicht erklären wo er so viele loyale Truppen her hat die bereit sind für ihn grade zu stehen. Oder es handelt sich um Leihgabe der anderen Familien weil jeder Schulden bei Majima handelt. So oder so ist das Absperren ganzer Straße der Beweis gewaltiger Macht. Und doch, die wenigen Schläger die wir zu erst gesehen haben könnten einfach alle Leute sein die offiziell Mitglied sind. Eine andere Möglichkeit als inoffizielle Mitarbeiter fällt mir wirklich nicht ein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 03.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

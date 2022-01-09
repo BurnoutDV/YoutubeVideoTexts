@@ -620,6 +620,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #40
+
+* Titel: `Batman Arkham Knight - #40 - das Luftschiff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Luftschiffe sind so ein Ding aus den Anfängen des vergangenen Jahrhunderts, dann sind Dinge geschehen und es gab eine kleinere Explosion. Wenn ich mich recht erinnere, und ich werde nicht recherchieren, weil ich das nie für diese schnellen Texte hier tue, dann ist die Hindenburg nur mit Wasserstoff gefahren weil die Amerikaner das Helium rationiert haben. Tatsächlich ist das etwas was sie ziemlich lange gemacht haben, und dann haben sie irgendwann ihre taktischen Reserven aufgelöst was zu vielen Jahren günstigen Heliums geführt haben. Die Sachlage ist nämlich die das man für einige Verarbeitungsgänge, zum Beispiel Aluminium-Schweißen Helium braucht. Helium ist eine sehr endliche Ressource und die Preise steigen seit Jahren, hätten wir also jetzt die letzten hundert Jahre unser ganzes gutes Helium in Luftschiffen verwendet würde alles vielleicht ein wenig anders aussehen. Ansonsten hatte ich aber irgendwo einmal gelesen das selbst Wasserstoff betriebene Luftschiffe eigentlich ziemlich sicher waren. Und angeblich waren sie auch gar nicht so langsam. Davon einmal abgesehen ist aber das was wir heute finden ein eher seltsames Luftschiff. Es enthält irgendwelche Labore, das schreit übrigens schon nach illegaler Wissenschaft. Rein von der Justiz her wird es aber wohl niemanden vor dem langen Arm des Gesetzes schützen auf einem Luftschiff unterwegs zu sein solange dieses über Land schwebt. Überm Meer würde die Geschichte anders aussehen, aber dann wäre ein Flugzeugträger wohl die bessere Wahl. Davon einmal abgesehen erscheint mir die gesamte Logistik ein wenig...unpraktisch. Aber was weiß ich schon über die Gedanken von FledermausMann "Bösewichten". 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 04.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -2372,6 +2372,22 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #151
+
+* Titel: `KotoR - #151 - Mandalorianerkopf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt nicht mehr all zu viel zu tun auf, ich hab im Wiki nachgeguckt, Lehon. Aber eine der Missionen die wir noch offen haben bevor wir den Einen zum unfairen Duell herausfordern besteht darin irgendwelche Mandalorianer zu erschießen. An sich würde ich ja versuchen mit der Bande zu verhandeln aber so wie ich die sturen Kämpfer kenne haben sie kein Interesse daran mit mir zu reden. Daher machen wir uns heute auf ein Gefecht gefasst. Mit kommt übrigens eine interessante Überraschung entgegen. Es passiert etwas mit dem ich gar nicht mehr gerechnet hätte. Irgendwie ist das unerfreulich aber auf der anderen Seite ist es auch schön. So weit im Spiel noch einmal überrascht zu werden freu mich doch irgendwie sehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 23, Aufnahme vom 06.12.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -6245,6 +6245,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1640
+
+* Titel: `Let's Play ESO #1640 - Dagons letztes Gefecht [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 65  des Totenländer DLC - Sitzung 10
+  
+  Mehrunes Dagon ist ein daedrischer Fürst, ich denke das ist mittlerweile allgemein bekannt. Manche nennen ihn auch Mehrunz. Soweit ich das verstanden haben ist das Problem mit den Fürsten auch das sie nicht nur der Körper sind den wir sehen wenn er über die Welt wandelt sondern außerdem die gesamte Ebene ist. Das stellt jetzt zwar ein wenig in Frage wie dann andere Ebenen funktionieren, wie zum Beispiel Ferngrab. Nirn ist, soweit ich das verstanden haben einfach Lorkhans Körper, daher liegt auch ein Herz im roten Berg. Soweit so konsistent. Nun ist es aber so das das Spiel die ganze Zeit davon redet das wir ja nur unsere Endwaffe benutzen müssen und schon können wir Dagon zurück in das Vergessen schicken. Ich bin leider nicht 100% sattelfest in der Lore daher tue ich mich ein wenig schwierig mich zu weit aus dem Fenster zu lehnen, allerdings scheint es mir so das eine Ebenenverschmelzung wie sie heute hier angestrebt wird durchaus schwieriger ist als man erwarten würde. Ein Fürst wie Dagon ist eine Ebene, alles was wir auf Nirn sehen ist also maximal eine Projektion, ein Avatar wenn man so will, quasi eine Verlängerung seines Seins. Es sei denn natürlich wir verschmelzen die Ebenen vollständig. Dann wäre Mehrunes Dagon wahrlich in Nirn. Rein vom Platz her sollten beide Ebenen ziemlich unendlich sein allerdings kommt es mir so vor als hätten die Totenlande einfach weniger zu bieten. Wie das Endergebnis wohl aussieht? Ob man den Prozess umkehren könnte? Die wichtige Erkenntnis ist aber das wir keinen daedrischen Fürsten in seiner Domäne besiegen müssen sondern nur einen Avatar auf einer für ihn fremden Welt. Das macht es wesentlich einfacher. Ein wenig komisch ist übrigens das bisher noch kein Aedra es für nötig befunden hat einzugreifen, die Gefahr für die Realität ist ja durchaus nicht ganz unerheblich, und damals bei Molag Bal war das ja das Mittel was am Ende alles gerettet hat. Anscheinend haben wir also alles ganz gut unter Kontrolle. Unsere Chancen stehen dann wohl doch besser als es immer behauptet wurde.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

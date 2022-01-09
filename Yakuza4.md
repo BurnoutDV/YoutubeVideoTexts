@@ -1019,6 +1019,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #68
+
+* Titel: `Yakuza 4 Remastered - #68 - Majimas Erinnerungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als damals Yakuza 0 heraus kam da war das für Fans der Serie bestimmt ein gewisses Wiedererkennen von alten Charakteren und es hat bestimmt auch irgendwelche Fragen aufgeklärt. Ich kann mir vorstellen das ohne das Wissen aus Zero aber auch nicht deutlich ist wie Majima überhaupt zu der Person geworden ist die er jetzt ist. Generell und überhaupt muss man wohl davon ausgehen das man früher Majima einfach so hingenommen hat. Aber jetzt, mit all dem Wissen was ich aus der Vergangenheit mitgebracht habe ist mir natürlich sehr wohl bewusst wie der irre Hund von Shimano zu dem geworden ist was er heute darstellt. Nun, es wird wohl Zeit für eine weitere Reise in die Vergangenheit. Wir wissen ja bereits wie Majima sein Auge verloren und dann später aus der Angelegenheit in Kansai heraus gekommen ist. Es war zwar nicht schön und im Großen und Ganzen darf man wohl Kazuma Kiryu dafür danken aber ich für meinen Teil nahm irgendwie an das bereits alle Fragen geklärt waren. Ich lag offensichtlich falsch, und so wird es heute wieder einmal Zeit für eine lange Videosequenz. Übersetzung dann am Ende.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 03.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

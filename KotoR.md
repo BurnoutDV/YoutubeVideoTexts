@@ -2368,7 +2368,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
-  Sitzung 23, Aufnahme vom 06.12.2022
+  Sitzung 23, Aufnahme vom 06.01.2022
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
@@ -2384,7 +2384,39 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
-  Sitzung 23, Aufnahme vom 06.12.2022
+  Sitzung 23, Aufnahme vom 06.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #152
+
+* Titel: `KotoR - #152 - uralte Rakata Rituale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Weg ist versperrt. Aber wir wollen trotzdem rein, natürlich könnten wir jetzt versuchen unser Raumschiff irgendwie soweit zu starten das wir mit den starken Schiffsgeschützen einfach die Außenwand kaputt schießen aber so wie es aussieht gibt es wichtige Heiligtümer zu beschützen also gehen wir den normalen Weg und versuchen ganz normal die örtliche Tür zu öffnen. Es gibt glücklicherweise einen Hintereingang der daraus besteht das man irgendwelche uralten Schutzformeln singt, selbstverständlich muss dies durch die Rakata selbst geschehen und nicht irgendwelcher Sklavenrassen. Das war aber natürlich wieder klar, zu einfach wäre es wenn die Dinge wahrlich einfach wären. Also beugen wir uns allen Bedingungen nachdem wir schon durch die Meere aus Blut der blauen Rakata gelaufen sind. Es wird sich übrigens am Ende zeigen wie sehr es die roten Rakata Ernst meinen mit ihrer pazifistischen Haltung und dem Lernen aus uralten Fehlern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 23, Aufnahme vom 06.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #153
+
+* Titel: `KotoR - #153 - Tempelplünderung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendetwas haben all die Tempel im Universum an sich das wir nie etwas Anderes tun als sie zu plündern. Wirklich selten kommt es vor das wir einen "heiligen" Ort betreten und dort maximal eine kleine Spenden bei den anwesenden Nonnen und Mönchen lassen, vielleicht ein paar Gebete und dann weiterziehen. Stattdessen kippen wir die Kollekte in die eigene Tasche um, brennen alles was geht nieder, zerschlagen ein paar Statuen und färben den Boden mit dem Blut der anwesenden Wächter und natürlich den diversen Dienern des Glaubens. Falls es sich anbietet sind wir uns natürlich auch nicht zu schade den örtlichen Gott zu töten. So etwas ist öfter möglich als man glauben möchte. Lange Geschichte kurz, Blasphemie ist mir quasi angeboren. Der Tempel den wir heuten betreten ist eigentlich mehr eine Kommandozentrale und kein Sakralgebäude im dem Sinne. Dazu wurde er zwar später umdefiniert aber zu erst handelte es sich wohl mehr um einen Ort in dem die Stränge eines Imperiums zusammenliefen. Ein Imperium das nicht mehr ist wie ich feststellen möchte. Später sind die Sith hier eingezogen und haben höchstwahrscheinlich alles zerstört was ihnen im Weg stand. An sich töte ich also keine Tempeldiener sondern nur niedere Sith, ich denke das ist verzeihbarer oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 23, Aufnahme vom 06.01.2022
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 

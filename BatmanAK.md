@@ -635,6 +635,42 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #41
+
+* Titel: `Batman Arkham Knight - #41 - fliegendes Labor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Habe ich schon erwähnt das ich ein Luftschiff auf Basis für irgendwelche Forschung die überhaupt gar nichts mit Aerodynamik zu tun hat für absoluten Quatsch halte? Nicht, nun ich tue das. Batman scheint aber auch nicht besonders wohlwollend in dieser Hinsicht zu sein. Es überrascht mich übrigens sehr das wir uns soviel Mühe machen müssen von A nach B zu kriechen, zu schleichen und irgendwie zu versuchen heimlich vorzugehen. Es scheint mir doch relativ einfach mal eben die BatLuftstaffel zu rufen und Frieden zu schaffen. Aber wahrscheinlich geht das nicht weil es dann die Gefahr einer Gefahr für menschliche Verluste gibt, und das wollen wir natürlich vermeiden wo wir es nur können. Und so stehen wir dann heute da und ärgern uns darüber das diese dämlichen Luftschiffe so viel Platz bieten. Wie genau hängen die Dinger eigentlich in der Luft?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 04.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #42
+
+* Titel: `Batman Arkham Knight - #42 - das perfekte Angstgas [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal bin ich hoffnungsvoll. Dann denke ich das es etwas Gutes ist das die schrecklichsten Dinge in der Welt die nicht unbedingt auf rohe Gewalt basieren eine gewisse Intelligenz und Überlegung voraussetzen die es unmöglich macht das diejenigen die sich schlimme Dinge ausdenken können dieses auch tun, einfach weil sie von ihrer eigenen Schöpfung zu sehr abgestoßen wären. Diese Theorie ist ein wenig naiv wie ich anmerken muss. Zum einen gibt es genügend Leute die offensichtlich ziemlich schlau sind aber deren moralischer Wertekompass irgendwo auf dem Grund des Meeres liegt. Intelligenz, die Fähigkeit Muster zu erkennen oder irgendeine andere Größe in der man messen kann wie gut jemand geistig bewaffnet ist ist absolut kein Garant dafür das die gleiche Person auch ein guter Mensch wird. Oder aber es wird etwas aus guten Intentionen geboren, völlig blind für die alternative Anwendung der Technologie. Nehmen wir zum Beispiel an ein Chemiker erfindet ein Betäubungsmittel um medizinische Eingriffe zu ermöglichen das hocheffizient und potent ist, nur in geringsten Mengen gebraucht wird. Unfassbar praktisch wenn nur begrenzt Ausrüstung mitgeschleppt werden kann oder? Was der Wissenschaftler aber nicht kommen sah war das die Herstellung einfach ist und das gleiche Mittel auch ein Suchtstoff sein kann. Ruck zuck hat man eine größere Kriese auf dem Rücken von eigentlich guten Absichten. Warum zur Hölle man aber irgendwelche Angstgase erforscht und was bitte der Nutzen sein soll kann ich wirklich nicht sagen.
+  
+  0:00 - Gameplay
+  4:53 - Vorlesen: Laborratte
+  6:10 - Gameplay
+  13:33 - Vorlesen: der verlorene Sohn
+  14:48 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 04.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

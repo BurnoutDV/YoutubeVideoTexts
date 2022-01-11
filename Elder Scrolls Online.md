@@ -6260,6 +6260,41 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1641
+
+* Titel: `Let's Play ESO #1641 - Funkelnde Bälle [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 66  des Totenländer DLC - Sitzung 10
+  
+  Der dunkle Lord ist besiegt, und damit meine ich in diesem Fall natürlich Mehrunes Dagon, zurück in sein eigenes Reich gebannt und jetzt sollte es erst einmal für die Bürger von Nirn in dieser Lebenszeit Ruhe geben. Irgendwann sind dann bestimmt auch alle Fürsten endgültig besiegt bis es in einigen Jahrhunderten wieder eine Invasion von irgendeiner großen Macht gibt die zum Glück an kleinen Dingen scheitert. Es ist wirklich ziemlich fair das wir heute eine Chance hatten das Schlimmste aufzuhalten. Nun bleibt also nur noch die Siegesfeier..und eine andere Sache die nicht so richtig gelöst ist. Die Macht die Merrunz benutzt hat um seine Welt in die Welt der Menschen zu begeben, die Macht die freiwillig gegeben und zurückgegeben wurde, die gibt es noch. Wie auch immer das funktioniert und wie auch immer es mehr werden konnte, das ist Macht die Dagon selbst jetzt nicht mehr. Ich bin mir relativ unsicher ob es überhaupt einen Unterschied macht oder ob die generelle Kraft eines daedrischen Fürsten konstant ist und das was wir als Ambitionen kennen nur eine kurzzeitige Ladung hatten die sich nur nicht so schnell verbraucht. Tatsache ist aber, jetzt hat Lyranth die Macht der Ambitionen und auch wenn es nicht so aussieht das sie das Zeug dem Fürsten der Zerstörung geben will fragt man sich doch was sie eigentlich damit vor hat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1642
+
+* Titel: `Let's Play ESO #1642 - Und ewig bleibt die Hoffnung [Deadlands]`
+
+* Beschreibung:
+
+  ```markdown
+  Folge 67  des Totenländer DLC - Sitzung 10
+  
+  Ich gebe zu ich bin immer ein wenig überrascht wenn sich die Dinge dann doch länger ziehen als erwartet. Es liegt eventuell auch daran das wir eigentlich auch schon die große "wir verabschieden alle" Feier hatten das ich ein wenig überrascht bin das wir sie noch einmal haben. Auch erstaunlich ist das wir noch einmal mit allen möglichen Leuten reden können die wir auf unserer Reise kennen gelernt haben. Anscheinend sind beim großen Angriff Dagons wirklich nur Statisten, Nebendarsteller und Leute aus Hufflepuff verstorben. Nachdem wir lang und breit mit allen Mitstreitern vor dem Sturm der Feste reden konnten dachte ich eigentlich das diese Leute größtenteils auch sterben würden. So wie die Dinge gelaufen sind ist es eigentlich ein wirklich absoluter Gewinn. Kaum Verluste mussten wir hinnehmen und im Großen und Ganzen lief ja doch alles erstaunlich glatt. Klar Destron musste ein wenig vorher sterben und für Calia ist das bestimmt ein größerer Verlust, aber wenn man davon absieht ist quasi niemand zu Tode gekommen. Richtig ungewöhnlich, ein bisschen zu Happy End für meinen Geschmack. Klar, man muss nicht gleich die gesamte Hochzeitsgemeinschaft umbringen aber eine halbwegs gute Erklärung warum die Verlustrate so gering war hätte ich schon. Oder zumindest eine Erklärung warum die Helden mit Namen allesamt durchgekommen sind, eine kleine Aufstellung der namenlosen Verluste hätte hier auch viel geholfen.
+  
+  Am Ende fasse ich kurz noch ein wenig Spekulationen zusammen. Im Nachhinein hätte ich bestimmt auch ein extra Video dazu machen können. Nun, wir haben knapp zwei Wochen Zeit darüber zu philosophieren inwieweit ich richtig liegen kann.
+  
+  0:00 - Gameplay / Siegesfeier
+  28:46 - Spekulation ESO 2022
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

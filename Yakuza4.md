@@ -1034,6 +1034,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #69
+
+* Titel: `Yakuza 4 Remastered - #69 - Nachbarschaftswache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir ein neuer Charakter. Das Cover Bild von Yakuza 4 hat uns in dieser Hinsicht ja bereits vorgewarnt. Ich gehe übrigens davon aus das Kiryu nur aus Marketinggründen dort zu finden war, in der aktuellen Geschichte scheint er ja eher wenig Anteil zu haben. Generell und überhaupt kommt mir die Handlung bis jetzt wesentlich kleiner als die von Yakuza 3 vor. Klar, es geht immer noch um ziemlich viel und die einzelnen Familien der Ueno Seiwa können bestimmt eine Menge Dinge tun aber Saejimas Feldzug ist einfach kleiner als das was wir davor sahen. Und jetzt kommt ein neuer Spieler hinzu. Wir haben es scheinbar mit einem Polizisten zu tun. Ärgerlicherweise weiß ich nichts über das Polizistentum in Japan aber ich würde davon ausgehen das es auch hier Einzelfälle und bedauerliche Einzelfälle gibt. Und natürlich irgendwelche Leute die das mit der Pflicht ein wenig zu ernst nehmen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 03.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #70
+
+* Titel: `Yakuza 4 Remastered - #70 - asiatische Nachbarschaft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind eine neue Person. Um genauer zu sein  sind wir jetzt Masagoshi Tanimura, seines Zeichens Mitglieder Polizei von Toyko, eingesetzt nicht im organisierten Verbrechen sondern in der Nachbarschaftshilfe. Seine Aufgabe besteht irgendwie darin umher zu wandeln und den Frieden zu wahren, also quasi das was ein normaler uniformierter tut. Und doch ist Tanimura irgendwie anders, das fängt schon damit an das er keine richtige Uniform trägt und anscheinend eine gewisse Menge an Freiheit zu haben scheint. Außerdem scheint er sich sehr damit zu beschäftigen Robin Hood zu spielen, immer darum bemüht illegale Operationen dazu zu bringen ihm Geld zu zahlen. Ein interessanter Lebensentwurf das ist sicher. Aber es geht noch weiter, anscheinend hat der gute Tanimura auch gewisse Wurzeln im Kreis der Immigranten und daher auch ein Herz für ihre Probleme. Das führt dazu das wir endlich Little Asia betreten können um uns mit den dortigen Menschen zu unterhalten, weiter noch, anscheinend hat Tanimura sogar ein inoffizielles Hauptquartier hier. Ich frage mich allerdings wo seine eigentliche Meldeadresse ist, wenn die Japaner überhaupt ein solches Konzept haben. Mir persönlich sind die Gassen übrigens ein wenig zu eng.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 03.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

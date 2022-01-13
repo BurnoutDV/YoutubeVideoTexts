@@ -6295,12 +6295,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
-##### #Nummer
+## Nebenquests Einschub
 
-* Titel: ``
+##### #1
+
+* Titel: `Let's Play ESO #1643 - Galerie des Schlüsselmachers [Nebenquests]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 36 der Nebenquests, Aufnahmesitzung 7#1
+  
+  Eine einzelne Episode. Heute fange ich einen neuen Charakter an, das tue ich nicht weil mir ESO so gut gefällt das ich spontan noch einmal 1650 Episoden machen möchte sondern weil mir zu Ohren gekommen ist das man aktuell auf der Insel Balfeira anfängt und sich dort mit den uralten Wissen der Direnni bereichern kann. Das tun wir dann natürlich heute auch. Ich muss leider sagen das ich wie immer alles vergessen haben wenn es um den Adamant-Turm und den Direnni geht und alles was bleibt ist nebulöses Halbwissen. Ich bin mir aber sicher das Mer und Mensch die tief in der Lore drin sind genau verstehen was heute hier passieren und mit dem zusätzlichen Wissen bestimmt eine Menge anfangen können. Ich leider nicht, aber an sich ist das ja auch nicht schlimm, es handelt sich ja schließlich auch um meine ersten Spielminuten, daher brauche ich offensichtlich auch ein Tutorial.
+  
+  - die adamantene Tore
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```

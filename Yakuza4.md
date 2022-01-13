@@ -1064,6 +1064,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #71
+
+* Titel: `Yakuza 4 Remastered - #71 - offene Rechnung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder einmal schlage ich zu in der großen Täuschung. Der Episodentitel lässt vielleicht vermuten das wir uns heute auf den Pfad der Rache begeben und Finsterstes in Namen der Gerechtigkeit vollführen. Tatsächlich ist es hingegen so das wir wirklich eine Rechnung bezahlen. Leider brauchen wir zum Zahlen einer Rechnung auch eine Menge Geld, und um an eine Menge Geld zu bekommen muss man erst einmal irgendwelche Dinge tun. Unser bester Freund Tanimura ist Polizist, daher stehen uns viele profitable Wege zu größerer Menge Geld nicht zur Verfügung. Zumindest so lange wir uns in den Grenzen der Legalität bewegen wollen, auch wenn Tanimura nicht unbedingt dafür bekannt ist diese so sehr zu beachten, hier gibt es Grenzen. Welche Glück das das Glück mit den Tüchtigen ist, schauen wir doch heute wie sich die Dinge ergeben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 10.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #72
+
+* Titel: `Yakuza 4 Remastered - #72 - Boyfriend zur Miete [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute beschwere ich mich über die Unzulänglichkeiten der deutschen Sprache. Es ist nämlich so das man ohne weiteren Kontext bzw. Verwendung von Worten nicht zwischen einem romantischen Freund und einem einfachen Freund unterscheiden kann. Das Gleiche trifft auch auf die weibliche Form zu, die Standardannahme ist wenn eine Person des anderen Geschlechts von dem Freund spricht das es sich um den romantischen Partner handelt. Wenn es sich hingegen nur um eine Person die einen nahe steht handelt redet man von "einer Freundin". Diese Unterscheidung ist in manchen Fällen ein wenig unhandlich weil sie es nicht ermöglicht schnelle Erklärungen abzuliefern. Heute ist so ein Tag, Kurzfassung ist das wir uns als DER Freund einer Person ausgeben und diesen Umstand würde ich gerne im Titel transportieren, leider ist mein Weg mit Worten einfach zu schwach und daher landen wir heute dort wo wir jetzt sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 10.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

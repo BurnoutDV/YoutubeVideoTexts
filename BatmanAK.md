@@ -671,6 +671,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #43
+
+* Titel: `Batman Arkham Knight - #43 - das Gesicht der Angst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Angst zu haben ist enorm wichtig wenn man mutig sein möchte. Wenn man keine Angst verspürt ist auch nicht möglich diese zu Überwinden. Ich muss sagen das mir jetzt, wo ich das hier schreibe, diese Worte irgendwie sehr bekannt vor kommen. Und zwar abseits der Plattitüden, ich habe genau diesen Text schon einmal geschrieben als ich über das gleiche Thema referiert habe. Wenn ich mich recht entsinne ging es da um Arkham Asylum, wie auch immer der Fall aber sein sollte, die Tatsache hat sich ja nicht geändert. Das Gesicht der Angst ist dann wohl das Gesicht von Scarecrow der sich immerhin ziemlich viel Mühe gegeben hat in seiner neuen Inkarnation ziemlich furchterregend auszusehen. Mangelnde Hingabe zählt definitiv nicht zu den Dingen die wir ihn vorwerfen können. Dafür aber mangelnde Menschlichkeit, Fakt ist nämlich das wir Barbara immer noch nicht gerettet haben und langsam aber sich wird das hier ziemlich langwierig. Es ist sogar schon einige Zeit her das wir sie überhaupt lebendig gesehen haben, ob sie schon tot ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 11.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #44
+
+* Titel: `Batman Arkham Knight - #44 - Scarecrows Strafe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich tue mich ehrlich gesagt, und ich sage oft Sachen ehrlich weil das die große Lüge dann am Ende viel leichter macht, sehr schwer damit wenn Leute von einer Strafe sprechen. Heute möchte uns zum beispiel der gute Herr Vogelscheuche eine Strafe verkaufen. Das Wort impliziert ja ein wenig das man selbst an den Ereignissen Schuld ist und die volle Verantwortung für das trägt was vorgefallen ist. Die Strafe ist dann quasi der gerechte Ausgleich für das was geschehen ist. Aber wenn wir uns den vorliegenden Fall einmal angucken dann ist es moralisch schon ziemlich schwer Batman dafür verantwortlich zu machen das Batman Oracle angeheuert hat. Schließlich hat die Gute von Anfang an gegen das Böse versucht zu kämpfen. Ein Joint-Venture mit Bruce Wayne erscheint da nur absolut logisch, warum also die Geschichte so biegen das er daran schuld ist. Klar, Ermittler Gordon würde das bestimmt irgendwie anders sehen aber wenn wir den Fall nüchtern betrachten war es halt Barbara selbst die sich dafür entschieden hat den Weg zu gehen den sie gegangen ist, mit allen Konsequenzen die sich daraus ergeben. Im Eifer des Moments ist aber irgendwie auch nachvollziehbar das Batman selbst dies nicht so sieht. Er neigt halt einfach dazu sich für alles verantwortlich zu sehen, für jede einzelne Entscheidung, ich denke einmal das dies auch ein psychologisches Muster ist, das Fehlen der Fähigkeit Verantwortung abzugeben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 11.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

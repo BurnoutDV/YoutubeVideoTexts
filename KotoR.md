@@ -2420,6 +2420,39 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
+##### #154
+
+* Titel: `KotoR - #154 - Verlockung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die dunkle Seite der Macht lockt nichts ahnende Jedi mit dem Versprechen von Macht und Dingen die man nicht mit der hellen Seite der Macht erreichen kann, oder zu lange dauern. Die helle Seite predigt außerdem das bestimmte Dinge lange brauchen und verdient werden wollen während man auf der Anderen relativ einfach zu ziemlich viel Kraft kommt. Oder aber auch nicht, so weit ich das sehen kann handelt es sich vor allen Dingen um Macht ohne Kontrolle, ultimativ also absolut wertlos. Klar, als Werkzeug der Zerstörung natürlich ziemlich nützlich und bestimmt total sinnvoll. Aber ein Imperium für die Ewigkeit kann man mit dieser Art der Macht eher nicht aufbauen. Heute lernen wir ein wenig mehr über die vielen Winkelzüge der Verlockungen. Ich bin sehr gespannt was wir noch alles Schönes erfahren das unsere Meinung ändern soll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 23, Aufnahme vom 06.12.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
+##### #155
+
+* Titel: `KotoR - #155 - die Sternenschmiede [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es war ein weiter Ewigkeit und an sich auch eine Reise durch die Jahre aber wir sind endlich da, in der legendären Sternenschmiede, einer Station die sich die Sterne selbst zum Untertan macht. Hier werden wir endlich die Republik retten und die bösen Sith dem Untergang übergeben. Wenn wir hier versagen ist alles was wir bisher gemacht haben umsonst und die die Galaxie wird für die nächsten Jahrzehnte von den bösen Sith regiert werden bis sie sich selbst vernichten. Darauf können wir nicht warten. Daher müssen wir gewinnen. Das wird natürlich nicht ganz leicht aber tief in mir drin spüre ich das wir hier Dinge tun können. Große Dinge, nur noch ein paar wenige Meter. Ach ja, und Bastillas Seele müssen wir auch noch irgendwie aus den Dreck ziehen aber bis jetzt waren wir doch eigentlich immer ziemlich gut in den Dingen oder? Nebenbei können wir übrigens die unfassbaren Fortschritte die die Rakata machten bewundern. Technik die seit tausenden von Jahren völlig vergessen wurde. Ein Windhauch der Zukunft, und am Ende werden wir natürlich alles zerstören.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 23, Aufnahme vom 06.12.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

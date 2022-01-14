@@ -1094,6 +1094,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #73
+
+* Titel: `Yakuza 4 Remastered - #73 - die Faust des Gesetzes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Normalerweise würde ich ja sehr klischeehaft von dem langen Arm des Gesetzes sprechen der Verbrecher und andere Gesetzesbrecher auch dann noch erreicht wenn diese sich schon lange in Sicherheit fühlen. Heute sieht der Fall aber ein wenig anders aus, wir werden doch tatsächlich verfolgt und der Kerl den wir beim letzten Mal getroffen haben will wohl einfach nicht los lassen. Daher müssen wir heute noch einmal nach justieren. Tatsächlich hat sogar eine Feuerwaffe einen wichtigen Auftritt innerhalb des Spieles. Bisher tauchten sie kaum auf und der bisher größte Auftritt war in Yakuza 0 als Kiryu vorgeworfen wurde eine Waffe zu benutzen. Ich interpretiere daher einmal hinein das Feuerwaffen jeder Art in Japan sehr selten sind. Tanimura selbst hat übrigens eine dabei, aber offensichtlich ist er nicht willens diese heraus zu holen wenn er nicht absolut muss. Wahrscheinlich gibt es für jede abgefeuerte Kugel lange Berichte zu schreiben. Umgedreht heißt das aber wohl auch das der der eine Waffe gegen einen Beamten des Gesetzes erhebt mit ernsthaften Problemen zu rechnen hat.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 10.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

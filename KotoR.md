@@ -2432,7 +2432,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
-  Sitzung 23, Aufnahme vom 06.12.2022
+  Sitzung 23, Aufnahme vom 06.01.2022
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
@@ -2449,7 +2449,7 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
   KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
-  Sitzung 23, Aufnahme vom 06.12.2022
+  Sitzung 23, Aufnahme vom 06.01.2022
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 

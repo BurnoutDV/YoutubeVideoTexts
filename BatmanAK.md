@@ -701,6 +701,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #45
+
+* Titel: `Batman Arkham Knight - #45 - Iron Heights [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute betreten wir die Eisen Höhen. Es handelt sich um ein Luftschiff in dem besonders gefährliche Gefangene gehalten werden. Generell und überhaupt ist die Idee des sich ständig bewegenden Gefängnissen für besonders gefährliche oder auch politische Gefangenen die man nicht befreit sehen will. Wenn die entsprechenden Häftlinge eher nicht in Gefahr stehen von Außen befreit zu werden verliert das gesamte Modell ziemlich schnell an Vorteilen. Nachteile sind auch offensichtlich, wegen des ständigen Transports hat man einen ziemlich hohen logistischen Aufwand, Personal verbringt definitiv länger auf den entsprechenden Transportmitteln und generell und überhaupt ist alles irgendwie teuer. Ein Luftschiff erscheint mir als außerordentlich ungeeignet für diesen Zweck. Eine lange Bahnstrecke wäre vielleicht vorhersehbar hat aber den Charm der Einfachheit. Alternativ auch ein LKW Konvoy. Am Besten ist wohl eine kleine Flotte von Frachtern oder sogar nur ein großer Tanker. Da hält man sich die meiste Zeit in internationalen Gewässern auf, das macht es Komplizen zwar theoretisch leichter aber praktisch auch schwieriger. Und man muss sich auch nicht vor dem Gesetz fürchten falls sich herausstellt das die eigene Operation nicht völlig im Rahmen der Legalität abläuft. Letzteres wird dann wohl auch der Grund für Iron Heights gewesen sein. Inwiefern man mit einem Luftschiff aber in internationalen Gewässern herumfliegt und wie gut das dauerhaft geht vermag ich nicht zu sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 11.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

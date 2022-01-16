@@ -1109,6 +1109,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #74
+
+* Titel: `Yakuza 4 Remastered - #74 - Chihiro Ikki [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute widmen wir die heutige Episode einer bestimmten Hostess, das kommt gar nicht mehr so oft vor aber irgendwie habe ich mit Akiyama vergessen die örtlichen Hostessen richtig zu besuchen. Das liegt übrigens auch daran das ich am Anfang kein Geld hatte und dann kam irgendwie Eines zum Anderen und Zack hat man vergessen regelmäßig im örtlichen Soft-Porn-Club einzureiten. Da sind wir übrigens wieder an dem Punkt wo ich nicht so richtig weiß was ich von der ganzen Hostess Geschichte halten soll. An sich finde ich es irgendwie verwerflich aber soweit ich das sehen kann wird niemand gezwungen und auch die echten Hostessen scheinen den Job größtenteils freiwillig zu machen, das gibt wenig Winkel das ganze Ding an zu greifen. Letztendlich schaue ich wohl dennoch auf Leute herab die sich solchen Einrichtungen hingeben, aber ich kann mir auch die Einsamkeit vorstellen die man zuhause verspürt wenn man nach 16 Stunden Arbeit in der quasi leeren Ein-Zimmer Wohnung an kommt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 10.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #75
+
+* Titel: `Yakuza 4 Remastered - #75 - der Hafen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen mir völlig unverständlichen Gründen passieren am Hafen immer die dunkelsten Geschäfte. Hier geschehen immer die Dinge die auf keine Fall an das Licht der Wahrheit kommen sollte. Wir erinnern uns an den Flashback mit Majima, das sah auch sehr nach einer Küstengeschichte aus. Und auch heute, in der Gegenwart, verfolgen wir die Entführer der Frau ans Wasser. Natürlich warten hier bereits die Schläger und Unterlinge der Bösen auf uns. Die gleichen Leute die uns übrigens freundlicherweise gesagt haben das sie sich am Hafen sammeln würden. Schon ein bisschen komisch das wir überhaupt so weit gekommen sind oder? Sonst erzählen die Yakuza immer wieder wie treu sie sind und wie sie niemals etwas verraten aber kaum kriegen die kleinen Schläger ein wenig aufs Maul wird alles verraten. Wahrscheinlich ist es aus diesem Grund so wichtig das die unteren Ränge blindes Vertrauen benötigen, offensichtlich kann man ihnen keine Informationen anvertrauen. Immerhin können wir heute beweisen was für ein krasser Schläger wir sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 10.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

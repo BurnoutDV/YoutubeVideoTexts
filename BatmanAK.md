@@ -716,6 +716,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #46
+
+* Titel: `Batman Arkham Knight - #46 - Quorum Research [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt von Batman verkauft ziemlich viele Moralvorstellungen und Ansichten die ich nur sehr wenig unterstützen kann, manche lehne ich auch direkt ab. Zum Beispiel das irgendein Milliardär direkt im Kampf gegen das Verbrechen beteiligt werden muss, jede Variante die ich mir vorstellen kann sieht eine etwas taktischere Position vor. Aber darum geht es heute nicht, ausnahmsweise. Gegenstand der Kritik ist heute viel mehr das an jeder Stelle Wissenschaft immer als etwas Schlimmes hingestellt wird. Egal wohin wir gehen andauernd fallen über Labore in denen Wissenschaftler entweder an sich selbst, Tieren oder Häftlingen Experimente machen, dabei braucht es für die meiste Forschung eigentlich nur ein paar Proben und dann in der letzten Testphase vielleicht ein paar Versuchspersonen. Die Art und Weise der Forschung die wir heute sehen erinnert eher an Mengele, einfach Menschenexperimente machen, nichts Aufschreiben und einfach mal gucken was passiert. Das ist wahrscheinlich auch der Tenor um den es hier gehen soll aber ein fliegendes Luftschiff mit Häftlingen die nur für Experimente hier sind. Ich kann nicht direkt meine Finger drauf packen aber im Allgemeinen fühle ich mich ein wenig verarscht, eventuell weil das Worldbuilding hier durchaus etwas mehrschichtig sein hätte können. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 11.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #47
+
+* Titel: `Batman Arkham Knight - #47 - Riddler-Bombe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Riddler wird auffälligerweise immer gefährlicher, das erstaunt mich ein wenig, wenn man sich absolute Zahlen anguckt ist der Riddler zwar ein gefährlicher Irre der relativ zufällig Leute umbringt. Das unterscheidet ihn aber auch nicht wirklich von anderen Schurken die mächtig einen an der Waffel haben die wir so in Gotham treffen. Der wichtige Unterschied ist jetzt aber das unser guter Edward Nigma auf einmal Technik eingekauft hat. Oder selber entwickelt hat. Ich bin mir irgendwie nicht ganz sicher, aber wenn er die Dinge selber erschaffen hat macht ihn das noch wesentlich gefährlicher. Andererseits frage ich mich auch wie ein Mann wie Nigma überhaupt andere Leute dazu bringt für ihn zu arbeiten, an jeder Ecke fallen wir ja über seine Leute. Letztendlich ist er ja kein klassischer Verbrecher, er ist halt von Batman voll eingenommen aber was zieht denn andere Leute zu ihm? Der Pinguin hat immerhin Geld zu bieten genau wie Two-Face, aber welche Vorzüge für den gemeinen Schläger von Welt hat bitte schön der Riddler? So richtig erpressen scheint er ja seine Opfer auch nicht, sonst würden die mehr die Klappe halten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 11.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

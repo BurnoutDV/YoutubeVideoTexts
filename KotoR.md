@@ -2453,12 +2453,18 @@
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```
 
-##### #Nummer
+##### #157
 
-* Titel: ``
+* Titel: `KotoR - #157 - der dunkle Lord der Sith [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir sind am Ende. Noch nicht ganz, das Video hat ja noch 37 Minuten aber ich kann schon einmal vorweg nehmen das ungefähr 20 Minuten davon waren wie ich im Kreis gelaufen bin um alle meine Verbrauchsartikel die ich so mühsam das Spiel über gesammelt habe wieder zu verbrauchen. Das bestärkt mich übrigens positiv in meinem Hordertum. Es gibt da eine TV-Trophe die eigentlich eher eine Spiel Trophe ist, sie heißt "too good to be used", etwas das sehr häufig vorkommt. Klassisches Beispiel ist der Meisterball, man weiß ja nie wann man die Deus Ex Machina in Ballform einmal braucht, also versucht man alle Situationen irgendwie anders zu lösen. Das führt dazu das man den Abspann mit den besten Tränken ungenutzt, der besten Waffe frisch vom Schmied und allen magischen Pfeilen im Köcher anschaut. Man weiß ja nie ob nicht doch noch ein geheimer Boss hinter dem letzten Winkel auf uns wartet, und dann wäre es ja schön doof wenn wir bis dahin all unsere Ressourcen verbraten haben. Hier und heute war es zum Glück ziemlich absehbar wie weit es noch geht, außerdem bin ich mit dem Alter ein wenig fatalistischer geworden was das Verbrauchen und Geizen mit wertvollen Ressourcen angeht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOHGcirTA9R1pArAxziujWi
+  Sitzung 23, Aufnahme vom 06.12.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotormodbuildspoilerfree1
   ```

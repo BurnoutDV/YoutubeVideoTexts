@@ -746,6 +746,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #48
+
+* Titel: `Batman Arkham Knight - #48 - großer Baum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der rollende Preis für den schlechtesten Episodentitel in diesem Lets Play geht übrigens Stand Sitzung 7 an diese Episode. An sich sehen wir heute einen großen Baum und setzen Poison Ivy da auch ab. An sich passiert aber absolut Nichts mit dem Ding und der Bruce Wayne Darsteller wendet sich auch prompt anderen Dingen zu. Da aber die restliche Episode so belanglos und generisch ist hat der Baum dennoch das Rampenlicht für den Episodentitel erhalten. Ich bin da nicht wirklich stolz drauf. Auch schaffe ich es nebenbei bemerkt nicht ein Rätsel des Riddlers zu lösen und man sieht sogar wie ich ein wenig resigniert aufgebe. Alles in Allem also eine Folge die für die Geschichte durchaus relevant aber es gibt unnötig viel Padding bestehend aus sinnlosen Rumgefahre.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 11.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #49
+
+* Titel: `Batman Arkham Knight - #49 - Gothams Banken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gotham ist eine reiche Stadt. Irgendwie. Mir ist absolut nicht klar wie das funktioniert. Folgende Überlegung, wenn ich eine hochqualifizierte Fachkraft bin die in irgendetwas ziemlich gut ist ist von der allgemeinen Lebensqualität jeder andere Ort wesentlich besser als das von Superverbrechern, Irren und Sträflingen verseuchte Gotham besser. Die Politik ist offensichtlich doppelt so korrupt wie überall sonst und auch die Bullen scheinen eher geschmiert als bezahlt zu sein. Dementsprechend kann ich mir irgendwie nicht vorstellen wie man überhaupt zu Geld in der heutigen Zeit kommt. Da es sich um einen Hafenort handelt könnte es sich auch noch um einen wichtigen Umschlagsplatz handeln aber das Ausmaß an Verbrechen würden doch keinen intelligenten Geschäftsmann hier handeln lassen. Klar, eventuell hält das Schwarzgeld und die Schattenwirtschaft ja alles am Laufen aber dennoch braucht es einen gewissen Satz an legalen Geschäften damit die Dinge irgendwie funktionieren. Und jetzt kommen die Banken ins Spiel. Überall machen Fialen zu, nicht so die Bank of Gotham, die leistet sich gleich drei große Zentralen mit mehren Etagen und eigenen Großtresor. Wo kommt all die Kohle her? Laut Nolans Batman Episode 2 wäscht die Bank ja größtenteils Mafia Geld aber die Leute die die Dienstleistungen der Mafia kaufen brauchen ja auch irgendwoher Geld. Wo steht das produzierende Gewerbe in Gotham? Tourismus können wir als Einnahmequelle in jedem Fall streichen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 11.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #50
+
+* Titel: `Batman Arkham Knight - #50 - Harvey Dent [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute geht es unserem Lieblingssuppentrinker an dem Kragen. Bruce Wayne ist selber Milliardär und weiß daher wie schlimm es ist wenn kleinere Verbrecher nicht wahrnehmbare, sowieso von der Versicherung getragene Verluste verursachen. Ernsthaft. Warum tut Batman hier Dinge. Es gibt wesentlich wichtigere Dinge als Harvey davon abzuhalten ein paar Banken zu überfallen. Insbesondere leere Banken sind doch blutlose Verbrechen. Es ist ja nicht so das die Einlagen der Leute dann auf einmal weg sind. Geld ist so oder so nur digital und die physikalischen Repräsentationen von Geld sind absolut beliebig, eine Krücke, kaum mehr. Warum spielt es irgendeine Rolle was Harvey Dent tut. Soll er doch die ganze Nacht alle Banken Gothams überfallen, jede Postfiliale. Alle rechtschaffenden Bürger sind weg und es ist doch völlig egal wie viel Bargeld gestohlen wird. Laut Anzeige handelt es sich um nicht einmal 6 Millionen USD. Das ist Peanuts! Der Sachschaden durch das Batmobil bei einer durchschnittlichen Verfolgungsjagd mit dem Batmobil ist wesentlich größer. Und das sind nur die Sachschaden, die horrenden Summen die in Therapiekosten für Zuschauer entstehen oder die Ausfälle in der Wirtschaft sind noch wesentlich größer. Kurzum, was wir heute tun ist absolut sinnlos. Ich kann keinen Grund erkennen warum sich irgendjemand darum kümmern sollte. Das Verbrechen ist ohne Opfer, die Banken arbeiten sowieso für die Mafia. Die Summe ist unterhalb der Wahrnehmungsgrenze für alle Beteiligten. Das ist so wie eine Hundertschaft abzustellen um einen einzigen Joint nach zu tauchen. Völlige und absolute Zeitverschwendung. Am Ende kriegen wir dann Harvey natürlich, nicht ohne vorher knapp 10 Millionen USD an Krankenhauskosten zu verursachen. Aber das ist ja egal, Hauptsache Gerechtigkeit nicht wahr Bruce?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 11.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

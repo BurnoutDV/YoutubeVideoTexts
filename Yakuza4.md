@@ -1139,12 +1139,47 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
-##### #Nummer
+##### #76
 
-* Titel: ``
+* Titel: `Yakuza 4 Remastered - #76 - der wahre Täter [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Vor 25 Jahren gab es einen mehrfachen Mord. Wir wissen bereits das der Täter ein gewisser Taiga Saejima war. Das ist alles Nichts Neues, so weit ich das sehen kann weiß selbst seine eigene Schwester das er es gewesen war der die Tat vollbracht hat. Um diese Tat geht es also eher nicht, viel wichtiger ist wer die gesamte Geschichte geplant hatte. Soweit wir wissen handelt es sich um eine Verschwörung die aus irgendwelchen Gründen für 25 Jahre nicht weiter angefasst wurde. Immerhin finden wir heute heraus das einige Leute wohl doch ein wenig Profit aus der gesamten Affäre gezogen haben. Das hat wiederum andere Leute aufgebracht. Wenn man allerdings all das Leid bedenkt und den doch nicht unbedingt geringen Aufwand erscheint mir das Gesamtergebnis doch ein wenig gering. Der Patriarch der angeblich hinter der Orchestrierung der Tat steht hat es nicht zu besonders großen Ansehen geschafft. Tatsächlich ist er eigentlich kaum in Erscheinung getreten. Immerhin können wir heute ein wenig mit der Schwester von Taiga reden, das führt uns zu einigen Informationen, und Wissen ist bekannterweise Macht. Leider klärt das den Mord an Tanimuras Vater auch nicht auf. 
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 10.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #77
+
+* Titel: `Yakuza 4 Remastered - #77 - Ermittler Nair [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe absolut keine Ahnung in welchen Umfang und wie oft es vorkommt das die örtliche Polizei irgendwelchen Polizeibehörden aus Übersee assistiert. Ich könnte mir allerdings vorstellen das es außerordentlich selten passiert und wenn dann schon einen sehr guten Grund geben sollte. Warum auch sonst sollte man sich die Mühe machen und irgendwie das Hoheitsrecht auf bestimmte Personen erweitern. Ich könnte mir durchaus vorstellen das Beamte anderer Länder in beratener Funktion vor bei kommen aber auf keinen Fall selber handeln dürfen, das Potenzial für Schwierigkeiten ist einfach zu groß. Wir lernen heute Ermittlerin Nair kennen die scheinbar eine gewisse persönliche Bindung zu dem Ziel hat das sie verfolgt. Interessant und auffällig bei der Geschichte finde ich übrigens immer noch das wir keinerlei Ausweisdokumente oder andere Beweise für die tatsächliche Tätigkeit der Frau finden. Aber immerhin bringt sie uns neue Kampftechniken bei, das ist ja schon einmal etwas wert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 10.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #78
+
+* Titel: `Yakuza 4 Remastered - #78 - digitale Autodiebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich kann man eine Scheibe einschlagen wenn man den Inhalt eines Autos ausräumen will. Die Tatsache das das doch relativ oft passiert und man ziemlich deutlichen allen möglichen Leuten sagt das sie auf keinen Fall wertvolle Dinge in Sichtweite in ihrem Auto hinterlassen sollen macht uns die Problematik schon ziemlich deutlich. Ich bin mir nicht ganz sicher wie aufwändig das beschädigen der Scheibe ist aber ich nehme einmal an das das Risiko entdeckt zu werden größer ist, was dann wohl der Grund ist warum selten Autos explorativ aufgebrochen werden. Das passiert einfach nicht. Viel einfacher und wesentlich risikoärmer wird das alles wenn man Autos digital knacken kann. Auch hier habe ich wieder keine Ahnung wie sicher eigentlich so digitale Schlüssel sind. Aus dem Bauch heraus würde ich ja sagen das Autohersteller ein vitales Interesse daran haben hier gute Technologie zu verwenden, aber mein Kopf meint das es wohl eher das billigste System ist mit dem man statistisch weg kommt. Was ich übrigens auch in Frage stelle inwiefern das Gesetzt die Tätigkeit der beiden jungen Herren vor dem tätlichen Angriff überhaupt als Straftat auffasst, Beweise einer Tat fehlen ja irgendwie oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 17.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```

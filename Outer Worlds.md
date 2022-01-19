@@ -577,3 +577,43 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Peril on Gorgon als Offline Projekt
   ```
+
+## Murder on Eridanos
+
+##### #150
+
+* Titel: `Outer Worlds - #150 - [DLC2-#1] - Ätherwellen Übertragung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jedes Abenteuer muss irgendwie anfangen. Oder Weitergehen, wir sind ja eigentlich damit beschäftigt irgendwie dieses dem Untergang geweihte Sternensystem zu retten, aber bis wir das tun gucken wir noch ein wenig Fernseh, hier auch unter den Namen Ätherwelle bekannt. Bis her hatten wir glücklicherweise ziemlich wenig Kontakt mit diesem Programm, allgemein erwarte ich hier eigentlich keine Inhalte, insbesondere wenn man bedenkt das wahrscheinlich bis zu 95% des Inhalts der richtigen Platzierung von Werbung untergeordnet wird. Daher wollen wir uns nicht zu sehr in die gesamte Angelegenheit vertiefen und nur die nötigsten Informationen herausholen. Es hilft nicht unbedingt das wir wenig später einen Anruf erhalten der uns neue Arbeit verschafft. Arbeit ist immer so anstrengend.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  ```
+
+##### #151
+
+* Titel: `Outer Worlds - #151 - [DLC2-#2] - Ankunft auf Eridanos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine gute Sache die auch aus der gesamten Eridanos Geschichte für mich selbst herausfinden kann ist das wir anscheinend freie Kost & Logi erhalten. Je nachdem wie unsere Ermittlungen laufen könnte das durchaus bedeuten das wir einige Tage in der Nähe eines Pools und guten Lebensmitteln verbringen können. Dem heruntergerockten Zustand der Welt nach zu urteilen habe ich aber das Gefühl das auch hier schon an jeder Ecke der Zahn des Verfalls zu sehen sein wird. Immerhin die lustigen Hütte scheinen noch in ausreichenden Mengen vorhanden zu sein. Das Gleiche kann übrigens nicht über diese kleine Schirmchen für meine Getränke gesagt werden, in dieser Hinsicht bin ich also durchaus ein wenig enttäuscht. Da würde ich mir wirklich mehr Aufmerksamkeit wünschen. Wir verbringen die heutige Episode übrigens mit viel Sight Seeing, kann ja nicht sein das wir einen Gasplaneten bereisen und dann nicht erst einmal ein wenig starren.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

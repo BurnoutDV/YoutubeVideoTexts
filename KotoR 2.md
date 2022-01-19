@@ -53,6 +53,54 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #2
+
+* Titel: `KotOR 2 - #2 - Peragus Krankenstation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Krankenstation einer nicht näher bekannten Raumstation, Raumschiff oder sonstigen Einrichtungen, gerne auch auf einen fremden Planeten auf zu wachen ist wahrlich keine neue Trophe. Daher bin ich nur milde überrascht ob diesen Umstandes. Auch das alle Leute tot sind und wir uns erst einmal einen Weg zurück finden müssen macht mich jetzt nicht besonders betroffen. Die Spiele die diese Trophe erfüllt haben kamen übrigens alle nach KotOR2 raus aber da meine Zeit offensichtlich nicht linear abläuft sind diese Dinge für mich also schon geschehen. So kommt es das wir ein wenig unsicher durch die Welt torkeln. Leider gibt es auch nie einen Schrank mit Straßenkleidung in diese Krankenstationen. Es wäre ja auch zu einfach wenn man einmal nicht in Unterwäsche herum torkeln muss. Für den Fanservice war es jetzt natürlich sehr schade das wir das falsche Geschlecht für mehr Hingucker gewählt haben, immerhin haben wir mehr als nur ein paar Boxerbriefs als Unterwäsche. Wären wir eine Leiche geblieben hätten wir unsere Klamotten behalten dürfen, das wäre bestimmt leichter gewesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 1, Aufnahme vom 13.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #3
+
+* Titel: `KotOR 2 - #3 - Droidenaufstand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich zu sehr auf Roboter verlässt hat man natürlich immer die Gefahr das sich die eigenen Maschinen gegen einen wenden. Das ist auch Nichts Neues und ich bin wirklich sehr verwirrt das dies noch nicht schon öfter geschehen ist. Wie dem aber auch sei, neulich erst habe ich darüber gemeckert das all die harte Arbeit im Star Wars Universum immer noch manuell betrieben wird. Nun, heute meckere ich darüber das man den Robotern zu viel Agenda überlassen hat. Oder aber auch, das man immer noch mit Steinzeitmethoden Bergbau betreibt aber die Arbeit halt von Maschinen machen lässt. Einen Fall den ich noch gar nicht angesprochen habe ist übrigens auch der das zwar nicht die Maschinen selbst aufbegehren sondern das sich irgendjemand Anderes die zentrale Steuerung der Geräte schnappt und so das eigene Vertrauen in die Technik pervertiert. Ich glaube egal was man macht, man kann einfach nicht gewinnen im Star Wars Universum, irgendetwas ist immer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 1, Aufnahme vom 13.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #4
+
+* Titel: `KotOR 2 - #4 - Kein Lebenszeichen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Völlig überraschend sind wir die einzige Person weit und breit die lebt. Das ist in der engen Definition nicht ganz richtig weil es ja auch noch die Oma gibt aber ansonsten findet sich keine Menschenseele weit und breit. Etwas beruhigend ist das es zumindest Spuren von Leichen gibt. Dennoch muss ich ein wenig in Frage stellen wie viele Minenroboter die Station eigentlich hatte und warum die jetzt alle in den Fluren herumlaufen. Aber wahrscheinlich kam das Ende nicht unbedingt plötzlich sondern eher schleichend. Die erste Zeit war bestimmt nicht ab zu sehen was da noch alles kommt. Ich habe da gewisse Sympathie mit den armen Leuten der Peragus Station. Auch wenn einige von ihnen mich verkaufen wollten. Auch überraschend ist aber wirklich das es keine Überlebenden in irgendwelchen Lüftungsschächten oder sonstwo gibt. Man müsste doch annehmen das auch andere Leute in der Lage sein sollten die Roboter zu überwältigen die ich überwältigen konnte. Insbesondere weil Schutzschilde durchaus existieren, und besonders stabil gebaut sind die Kisten definitiv nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 1, Aufnahme vom 13.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

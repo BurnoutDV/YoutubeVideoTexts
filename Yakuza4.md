@@ -1183,3 +1183,28 @@
   Sitzung 12, Aufnahme vom 17.01.2022
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
+
+##### #79
+
+* Titel: `Yakuza 4 Remastered - #79 - Mixer Date [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode bleibt in ihrem Inhalt relativ lange ziemlich unklar, im Nachhinein muss ich aber sagen das die generell Prämisse eigentlich gar nicht so schlecht ist. Also, Sachlage ist die das viele Japaner wohl einfach nicht mehr die Zeit haben sich um einen Partner zu kümmern geschweige den eine Möglichkeit haben einen zu finden. Am Arbeitsplatz finden sich nur Männer weil es ja immer noch Tradition ist das Frauen sich um die Kindererziehung kümmern. Wie genau das eigentlich klappt wenn man keinen Partner hat klammern wir jetzt einfach mal aus. Dennoch, wie findet man jetzt einen Partner ohne das man die Katze im Sack kauft? Ich persönlich habe "positive" Erfahrung mit WG-Parties gemacht. Als ich damals noch ein junger Trottel war habe ich es vielleicht ein wenig zu sehr darauf angelegt mit irgendwelchen Mädels zu quatschen und diese Gezwungenheit hat bestimmt auch nicht geholfen aber wenn man nicht so der Outgoing-Charakter ist gibt es da wohl generelle Probleme. Die Konstellation ist aber solide, kleinere Gruppen von Leuten die sich irgendwie grob kennen und am Besten schon ein wenig vorsortiert sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 17.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

@@ -608,12 +608,16 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
   ```
 
-##### #Nummer
+##### #152
 
-* Titel: ``
+* Titel: `Outer Worlds - #152 - [DLC2-#3] - das Grand Colonial [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich sehe kommen das ich in den folgenden Episoden sehr viel über Hotels und diesem im Allgemeinen meckern werde. Das ist zu erwarten. Ich muss über irgendetwas reden und meckern kann ich halt am Besten. Dennoch wird es auch mir irgendwann einmal zu viel. Ich entschuldige mich also schon einmal im Voraus. Zur Sache. Wir wurden in ein Hotel eingeladen in dem es einen Mord gegeben hat. Natürlich werden wir auch eine Suite erhalten und hier ein wenig abhängen. Was mir nicht so ganz klar ist ob wir überhaupt eine Übernachtung hinter uns bringen werden oder ob die Suite eher für unsere Begleiter dient. Fürs Erste kommen wir aber da eh nicht hin sondern besuchen viel mehr den großen Ballsaal der Einrichtung. Um diesen zu erreichen muss man allerdings durch die Lobby der Anlage laufen..diese ist ein wenig luxuriös. Da ich eine kleine Spielpause zwischen dem letzten DLC und dem Hauptspiel hatte ist mir der absurde Reichtum gar nicht mehr so bewusst, aber jetzt ist er wieder ganz in meinem Gedächtnis. Abartig. Ach ja, wir rennen auch ein wenig um den Block auf der Suche nach dem perfekten Foto. Vielleicht finde ich ja auch eines.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
   ```

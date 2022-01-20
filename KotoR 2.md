@@ -101,6 +101,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #5
+
+* Titel: `KotOR 2 - #5 - Hangarprotokoll [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Peragus Station ist definitiv kein Ort an dem wir uns länger als unbedingt nötig aufhalten wollen. Daher werden wir die Möglichkeit nutzen und so schnell wie möglich fliehen. Dafür brauchen wir allerdings ein Raumschiff und wahrscheinlich auch entsprechende Mengen Treibstoff. Ich habe allerdings keine Ahnung wie viel Treibstoff eigentlich wirklich notwendig ist. Wie oft tanken diese Raumschiffe im Star Wars Universum? Alle paar Wochen, nach jedem Flug oder hält das Hyper-Deuterium einfach ewig und wir nur so bei der Herstellung neuer Schiffe wirklich gebraucht? Wir wissen es nicht, was wir aber wissen ist das die Station seltsam abgeriegelt ist und wir deswegen nur mit großen Mühen den Ort verlassen können. Der erste Arbeitsschritt besteht also darin die entsprechenden Protokolle zur Steuerung der Hangars zu manipulieren sodass wir, in Form unseres großen Helden Shouder Cora irgendwie an Bord eines fähigen Raumschiffes entkommen. Oder wir warten bis jemand Anderes vorbei kommt. Wie wahrscheinlich das wohl ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 1, Aufnahme vom 13.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

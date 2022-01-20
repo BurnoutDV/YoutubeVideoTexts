@@ -791,6 +791,35 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #51
+
+* Titel: `Batman Arkham Knight - #51 - geleitete Geschichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe von der Gesamtgeschichte von Batman nur  sehr wenig Ahnung, wovon ich aber noch weniger Ahnung habe ist von der Geschichte die die Arkham Spiele umwirbt. Klar hätte ich vorher Arkham Origins spielen können aber das hätte wieder Ewigkeiten lange gedauert. Stattdessen habe ich eine neue Methode, ich gucke in die Lösung und finde einfach Stück für Stück die ganzen Riddler Rätsel um dann die Geschichte vor zu lesen. Soweit ich das mitgekriegt habe brauche ich die sowieso wenn ich die Quest des Rätselmeisters lösen will, wahrscheinlich müsste ich dafür auch alle Trophäen finden aber darauf habe ich nun wirklich überhaupt keine Lust. Daher werfe ich heute einmal eine beherzten Blick in die Komplettlösung, ärgerlicherweise habe ich mich bei der Gelegenheit auch direkt gespoilert aber das ist eigentlich gar nicht so schlimm weil es nur um eine bestimmte Tat eines nicht so weiter wichtigen Charakters ging. Insofern ist der Schaden begrenzt, hoffe ich zumindest. Es sei den es gibt einen großen Twist der das Person noch einmal richtig sehr wichtig werden lässt.
+  
+  0:00 - Gameplay
+  2:09 - Biografie: Batgirl
+  2:39 - Vorlesen: Die Falle
+  3:55 - Umherfliegen
+  5:10 - Vorlesen: Luftfracht
+  6:30 - Rumfliegen
+  11:13 - Vorlesen: Wonder Tower
+  12:26 - Flattern
+  13:22 - Vorlesen: Showtime
+  14:46 - Den Vogel machen
+  16:59 - Vorlesen: der Kopf des Dämons
+  20:08 - Vorlesen: Müllabfuhr
+  21:10 - Abmoderation
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 18.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

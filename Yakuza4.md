@@ -1199,6 +1199,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #80
+
+* Titel: `Yakuza 4 Remastered - #80 - Fremdenführer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Polizei wird immer wieder gerne als Freund und Helfer bezeichnet. Ich frage mich so langsam wo diese Bezeichnung eigentlich her kommt. Wer hat sich das ausgedacht. Ich erinnere mich das ich selbst als Schuljunge immer Angst vor den Bullen hatte. Jede Interaktion mit der Polizei in meinem Leben war negativ. Sei es angeschnauzt zu werden weil man mit dem Fahrad auf dem Fußgängerweg neben einer stark befahrenen Straße anstatt auf dieser zu fahren, zufällig in der Nähe einer große Nazi Demonstration wohnt und einfach nicht nach Hause kommt weil das offensichtlich nicht vorgesehen ist oder dabei zu sehen zu dürfen wie die Hirse-Hitler Anhänger durch die Stadt ihre Reichsflagge hissen während 50 Gegendemonstranten inklusive Journalisten zusammengeschlagen werden. Von der Logik her muss es gute Polizisten geben, nun wohne ich in Sachsen, das hilft nicht unbedingt, aber das System wäre wohl schon massiver kollabiert wenn es nur solche Staatsbediensteten gibt. Aber doch, selbst wenn es nicht extrem ist fühle ich mich in Anwesenheit von Polizei maximal unbehaglich. Ich habe die ganze Zeit die Angst wegen irgendeiner Belanglosigkeit angegangen zu werden. Meine größte Hoffnung ist daher einfach gar nicht mit den Bullen zu interagieren, das ist irgendwie traurig. Wo kommt dann also dieser blinde Glaube an deinen "Freund und Helfer" her? Aus einer naiven Vorstellung das man selber unschuldig ist und auch so erkannt wird? So weit ich das überblicken kann ist die Gesetzeslage absichtlich so ausgelegt das man keine Chance hat nicht gegen irgendetwas zu verstoßen. Zurück zum Thema, Tanimura macht heute einen auf Helfer, wenn auch eher unfreiwillig.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 17.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #81
+
+* Titel: `Yakuza 4 Remastered - #81 - Schleuser im Warenhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschenhandel ist auf jeden Fall ein Problem. Aus meinem westlichen, gut geheizten Elfenbeinturm bin ich immer wieder erstaunt und habe Schwierigkeiten mir die gesamte Prämisse vorzustellen. Da gibt es irgendwelche Leute die aus ärmeren Ländern Menschen importieren, aber nicht nur um sie ihre Drecksarbeit erledigen zu lassen ohne dabei richtige Löhne zu zahlen aber es müssen explizit auch noch junge Frauen sein weil es anscheinend nicht möglich ist im eigenen Land genügend Menschen zu finden die bereit sind für Sex zu arbeiten. Oder nicht verzweifelt genug. Ich bin mir unsicher wie man solche Probleme sozial löst. Offensichtlich gibt es ja einen ausreichenden Bedarf an Sex und käuflicher Liebe in allen Formen. Der Markt ist da aber die Nachfrage kann nicht erfüllt werden. Oder aber das Angebot ist zu teuer, teuer genug das es sich lohnt andere Wege zu gehen. Oder aber es gibt einen Bedarf an bestimmte Untergruppe an Frauen. Ich weiß es nicht. Weiter geht es das es natürlich auch Männer gibt die ausgenutzt werden, offensichtlich sind bestimmte Geschäftsbereiche einfach nicht profitabel wenn man keine billigen Arbeitskräfte hat. Für die Volkswirtschaft ist es hier wahrscheinlich ziemlich wichtig das man gegen solches Lohndumping vorgeht, andernfalls sorgen die illegal Beschäftigten in ihren Firmen dafür das die legalen Geschäfte die echte Löhne zahlen müssen nicht konkurrenzfähig sind, und das führt dann zu noch mehr Verbrechen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 17.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -621,3 +621,45 @@
   Outer Worlds: Murder on Eridanos als Offline Projekt
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
   ```
+
+##### #153
+
+* Titel: `Outer Worlds - #153 - [DLC2-#4] - der Diskrepanzverstärker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Outer Worlds - #153 - [DLC2-#4] - der Diskrepanzverstärker [Let's Play; ger; Blind]
+  
+  Es gibt anscheinend zwei verschiedene Realitäten. Einmal gibt es da diese in der wir einen Mordfall untersuchen und dann die in der wir keinen Mordfall haben und daher eine klare Differenz aufklären. Generell und überhaupt ist mir allerdings jetzt nicht so ganz klar woran genau der Diskrepanzverstärker das Delta festmacht. Weil es braucht ja immer zwei Realitäten. Wo fängt unser Erwartungswert an? Haben wir einmal das komplette menschliche Verhalten in ganz Halcyon oder zumindest Eridanos als Modell genommen und abstrahieren jetzt was sein darf und was nicht? Das erscheint mir doch ein wenig unwahrscheinlich, insbesondere wenn man bedenkt das der Vorsitz doch recht seltsame Ansichten hat was vorgesehen ist und was nicht. Wäre dem so wäre das Gerät vollkommen nutzlos. Ich denke wir müssen die gelieferte Erklärung komplett verwerfen und eine neue Suchen, weil so wie dargestellt wird das Gerät ganz gewiss nicht funktionieren.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 1, Aufnahme am 18.01.2022
+  ```
+
+##### #154
+
+* Titel: `Outer Worlds - #154 - [DLC2-#5] - Penthouse Suit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich persönlich bin kein Mensch der sich besonders oft in irgendwelchen schicken Hotels aufhält und sich dann vor Ort natürlich auch das beste Zimmer mietet. Das liegt unter Anderem daran das dies ein wenig Geldverschwendung wäre. Ich würde jetzt auch spontan behaupten das die Leute die sich so schicke Zimmerchen mieten eher Leute sind die eh viel zu viel Geld haben und daher den Luxus ziemlich gedankenlos raushauen. Ich als armes Känguru kann mir solche Exzesse nun wirklich nicht leisten. Interessanterweise gibt es in relativer Nähe meiner Wohnung ein ziemlich edles Hotel und ich hatte schon einmal überlegt ob ich da einfach einmal eine Nacht abhänge. Das wird besonders dann witzig wenn nach meiner Adresse am Empfang gefragt wird und ich einfach wortwörtlich in der gleichen Postleitzahl wohne. Ich glaube da wird man ein wenig für irre gehalten. Und wahrscheinlich ist es das Erlebnis einfach nicht wert. Wo wir grade dabei sind, Grand Hotel. Auch ein seltsames Konzept das ich nur aus Filmen kenne. Insbesondere die vor dem zweiten oder sogar ersten Weltkrieg für die damals noch reicheren Reisenden existiert hat. Neulich sah ich irgendeinen kleinen Abriss darüber wie man früher nicht Tourismus betrieben hat sondern "reisend" war. Und so ein Reisender hängt dann auch im Grand Hotel ab. Es gab da auch einen etwas seltsamen Film namens "Grand Budapest Hotel" oder so ähnliche (ich google nicht für diese Texte). In einer solchen Einrichtung wohnt man auch mehr als das man sich aufhält. Man sieht also klar aus welcher sozialen Klasse ich komme. In meiner Welt ist ein Hotel ein Ort an dem man seine Sachen lagert, die Zähne putzt und eventuell sogar Nachts schläft. Reiche Leute logieren in Hotels, wohnen dort und an sich ist das auch nicht anders als eine Mietwohnung zu haben die direkt mit Bediensteten kommt. Lange Geschichte kurz, ich sehe nicht das ich jemals eine Penthouse Suit betrete, und wenn dann nur weil mich jemand dorthin zum Saufen eingeladen hat.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 1, Aufnahme am 18.01.2022
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

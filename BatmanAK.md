@@ -820,6 +820,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #52
+
+* Titel: `Batman Arkham Knight - #52 - Schallexplosion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute verwenden wir ein Tiefensonar. Es geht darum irgendeine Pflanze für Poison Ivy zu finden, die meint das sie uns damit irgendwie helfen kann. Generell und überhaupt habe ich übrigens nicht so richtig das Gefühl das es eine gute Idee ist einer Person wie Ivy die Kontrolle über ein gewaltiges Netzwerk aus Pflanzen zu geben. Auch ist mir beim besten Wille nicht klar wie wir sie nach getaner Arbeit aus der Pflanze und zurück in die Zelle kriegen. So oder so haben wir aber erst einmal andere Pläne. Ich frage mich allerdings woher die Truppen des Arkham Knights eigentlich überhaupt wissen das es irgendwie wichtig ist die Pflanzen anzugreifen. Es hätte ja auch sein können das sie das komplett ignorieren. Aktuell gibt es ja kein tödliches Angstgas in der Luft, warum also etwas angreifen dessen Zweck absolut nicht klar ist? Fragen über Fragen, aber vielleicht ist auch einfach meine Erinnerung schlecht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 18.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #53
+
+* Titel: `Batman Arkham Knight - #53 - Radarüberwachung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir ziemlich sicher das Batman zu schnell fährt. Außerdem braucht man auch in Amerika für das Betreiben eines bewaffneten Landkreuzers eine Genehmigung oder zumindest irgend so eine komische Wertmarke. Wenn ich mich recht entsinne haben die Amis relativ viel von solchen Zeug. Zum Beispiel sind vollautomatische Waffen zwar nicht illegal aber man braucht irgendeine komische Erlaubnismarke die richtig viel Asche kostet und die man seit 1980 nicht mehr kaufen kann oder so, die Details sind auch egal. Bruce Wayne hätte wohl das Geld sich eine Marke bzw. Erlaubnis für alles zu kaufen, wenn es dann überhaupt erlaubt ist. Andernfalls gibt es wahrscheinlich Sondergenehmigungen für Hersteller von Rüstungsgütern. Heckler & Koch kann ja auf ihren Betriebsgelände mit Feuerwaffen "rumspielen". Die Benutzung in der Innenstadt macht aber wahrscheinlich keine Sondergenehmigung mit, wir dürfen also davon ausgehen das das Batmobil richtig dolle illegal ist. Daher sind gewöhnliche Radarfallen absolut kein Problem für uns, sind wir doch soweit in der Illegalität das das jetzt den Kohl auch nicht mehr fett macht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 18.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

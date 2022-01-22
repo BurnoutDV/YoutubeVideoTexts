@@ -117,6 +117,38 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #6
+
+* Titel: `KotOR 2 - #6 - Minengänge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir befinden uns nicht auf einer normalen Raumstation sondern auf einer Minenstation die in einen größeren Asteroiden eingebaut ist. Ich frage mich mittlerweile übrigens ein wenig wie gasdicht eigentlich so Gestein im Allgemeinen und hier im Speziellen ist. Die Station hat ja zur Aufgabe irgendwie Bergbau zu betreiben. Die Leute gehen also raus und bauen Zeug ab, dabei tragen sie offensichtlich keine Schutzanzüge weil bisher haben wir eigentlich auch keine zu Gesicht bekommen. Egal wo wir hin kamen lange Leichen in normalen Overalls rum. Gäbe es irgendeine Gefahr der plötzlichen Dekompression würde man doch bestimmt an jeder Ecke Ausrüstung finden oder? Wie sonst sollte man auch von einem Abschnitt zum nächsten kommen im Falle einer Katastrophe, da bereits dargelegt wurde wie explosiv alles ist ist damit auch sicher zu rechnen. Oder ist es etwa so das hier Spätbühnenkapitalismus herrscht und einfach kein Geld für ausreichender Schutz ausgegeben wird. Das würde die hohe Todesrate erklären die wir bisher beobachtet haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 1, Aufnahme vom 13.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #7
+
+* Titel: `KotOR 2 - #7 - zufällig perfekte Sequenz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode haben wir uns die eigentliche Minenoperation von Peragus angeguckt. Das alles ist eine relativ beeindruckende Anlage voller Tiefen und offensichtlichen Mangel an Arbeitssicherheit. Das ist aber kein Problem weil sowieso alle Leute tot sind. Zumindest die die wir bisher gefunden haben. Heute finden wir einen Roboter der uns berichtet was bisher passiert ist. Sehr praktisch wenn man einen sehr intelligenten Protokolldroiden auftreibt der anscheinend anwesend war um die vergangenen Ereignisse darlegen zu können. Er berichtet außerdem das es zu bemerkenswerte Zufälle gekommen ist. Wir müssen offensichtlich von Zufälle ausgehen weil die Alternative wäre ja das irgendeine gewaltige Intelligenz alles was auf der Station vor unserem Aufwachen geschehen ist das Ergebnis einer beabsichtigten Aktion gewesen war. Das erscheint mir ziemlich unwahrscheinlich. Gedenken wir heute also dem Zufall.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 1, Aufnahme vom 13.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

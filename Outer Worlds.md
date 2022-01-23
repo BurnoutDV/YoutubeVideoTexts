@@ -654,6 +654,21 @@
   Sitzung 1, Aufnahme am 18.01.2022
   ```
 
+##### #55
+
+* Titel: `Outer Worlds - #155 - [DLC2-#6] - Hotellobby Personal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für das echte reiche Leute Erlebnis ist es ziemlich wichtig das man Personal hat. Roboter tun nicht das Gleiche. Roboter und andere Automaten sind etwas für arme Leute die es sich nicht leisten können jemanden zu besitzen. Reich zu sein bedeutet auch Macht zu haben, Macht über Leute die genau das tun was man sagt weil man ansonsten seine Macht auslebt. Je nach Charakter führt das natürlich dazu das es Leute gibt die auch Aufgaben geben die nicht möglich sind einfach nur um "gerechtfertigt" Gewalt auszuüben..oder ausüben zu lassen. Weil dafür hat man ja schließlich Leute über die man gebietet. Ich bin mir nicht genau sicher ob diese Einschätzung reicher Leute zutreffend ist aber es erscheint zumindest logisch. Da Personal und echte Intelligenz die man unterdrücken kann absolut notwendig sind finden wir davon heute auch eine Menge. Ich muss aber zugeben das es sich auch irgendwie schöner anfühlt wenn es ausreichend Personen gibt mit denen man reden kann und diese auch genügend Zeit für einen haben. Leider trifft man sowas in der Regel nur bei Dingen die sehr teuer sind..und die sind dann auch sehr teuer, überraschenderweise. Wir reden natürlich mit diesen Leuten, vielleicht haben sie ja was gesehen. Ich bin mir übrigens nicht ganz sicher wie ich diese Fahrstuhlgeschichte einordnen soll, ist die Technik so schlecht das sie es nicht anders machen können oder geht es darum auch hier einen Sklaven arbeiten zu haben?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 1, Aufnahme am 18.01.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

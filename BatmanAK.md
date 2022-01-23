@@ -850,6 +850,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #54
+
+* Titel: `Batman Arkham Knight - #54 - die Lufthoheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In moderner Kriegsführung ist es absolut wichtig den Luftraum zu beherrschen. Soweit ich das verstanden habe ist es aber einfacher den Luftraum zu verhindern als ihn selber zu nutzen. Wenn eine Fläche also nicht so besonders groß ist kann es durchaus sein das zwei oder mehre Fraktionen in einem Konflikt beide die entsprechenden Volumen kontrollieren bzw. in der Lage sind durch asymmetrische Waffentechnik zu verhindern das die andere Partei den Raum nutzen kann. Da sind wir übrigens wieder bei dem Punkt das unsere Waffentechnologie wesentlich besser ist als alles was wir so an Verteidigung zu bieten haben. Chemie macht einfach mächtig Bumm während wir solche Effekte nur mit Physik aufhalten können die wesentlich weniger effizient ist. Das war wissenschaftlich grob falsch aber eine bessere Erklärung fällt mir spontan nicht ein. Zurück zum Thema, der Arkham Knight hat keine echte eigene Luftwaffe. Er hat irgendwelche fliegendene Drohnen aber die sind kaum zu etwas gut. Batman hat Jets. Viele würde ich behaupten, schwer bewaffnet aber das wäre halt recht tödlich, daher nutzen wir die dann auch nur als Transport. Dreh und Angelpunkt der Lufteinheitenvermeidungsstrategie besteht also aus einem größeren Luftabwehrgeschütz und ein paar Radartürmen. Letztere haben wir schon in der letzten Episode beseitigt, niemand möchte zusätzliche Rechnungen für zu schnelles Fahren bezahlen, aber abgeschossen werden möchte man ja auch nicht. Der Held schreitet also zur Tat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 18.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

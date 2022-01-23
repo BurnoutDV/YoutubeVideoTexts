@@ -149,6 +149,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #8
+
+* Titel: `KotOR 2 - #8 - Wartungsbefehl R1-B5 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wenn es in Spielen Technik gibt die man mit irgendwelchen Werkzeugen hacken kann werde ich ein wenig argwöhnisch. Die meisten Sachen die ich so treffe funktionieren entweder oder halt eben nicht. Und dann wird man älter und sieht an jeder Ecke das viele Sperren auch nur Farbe sind, ein dünner Film an Sicherheit der halt die Laien abhalten soll. Klar gibt es auch hochkomplizierte Hacks bei denen man irgendwelche coolen Bufferoverflows in der Anzeigeuhr ausnutzt wenn man genau um 13:37 und 12 Sekunden ein rosa gefärbtes Katzenbild schickt. Aber in der Regel passiert das nicht, stattdessen hat irgendein Otto so lange beim Kundenservice angerufen und sich als mich ausgegeben bis ein völlig unterbezahlter Supporttyp einfach das Passwort zurückgesetzt hat und das natürlich auch am Telefon durchgegebene hat. Die andere Seite ist dann Blizzard die nicht einmal mit völliger Informationsflut jede Änderung des Namens verweigern. Oder jemand bricht ein weil das Passwort für den Account meiner elektronischen Tür leider das gleiche Passwort hat wie die des Browsergames das ich vor 10 Jahren gespielt habe deren Datenbank mit Klartextpasswörtern neulich aufgemacht wurde. Sicherheit im Design ist eine wirklich seltene Geschichte. Bei physischen Gegenständen sieht es ja auch nicht anders aus, Schlösser kaufen auch nur Zeit und verhindern keinen Zutritt. Die Sicherheit im Star Wars Universum hier und heute funktioniert übrigens mit einer Sprachsteuerung. Eine phänomenale Idee, theoretisch ist die Stimme relativ einzigartig, Tonhöhe, Betonung, je nach dem wie fein man das auflöst hat da unsere Sprache eine Menge Eigenschaften die man als Schlüssel benutzen könnte. Problem ist nur das Menschen ziemlich inkonsistent sind. Wenn man singen würde wäre es vielleicht ein wenig besser. Also müssen Toleranzen her, und das ist der Punkt wo wir das System mit einem Mikrofon knacken können. Mikrofone heißen übrigens komisch im Star Wars Universum, funktionieren aber wie erwartet. Im Nachhinein übrigens ein absolutes Wunder das niemand ein Smartphone-artiges Gerät mit sich herum trägt. Das kann ich mir aus keiner Zukunftswelt heraus denken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 2, Aufnahme vom 20.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

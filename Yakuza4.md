@@ -1229,6 +1229,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #82
+
+* Titel: `Yakuza 4 Remastered - #82 - Hinweise [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen in der Episode mit einem absolut nichts sagenden Titel. Nennen wir sie "Hinweise". Worum geht es heute? Natürlich um eine Nebenmission und wir sind immer noch an der Story dran das es einen Menschenschieber-Ring in der Stadt gibt, technisch gesehen gibt es nicht nur einen Ring sondern ein ganzes Sonic-Paradies von Ringen. Das liegt wohl daran das der Bedarf entsprechend groß ist aber auch daran das sich Strukturen etabliert haben die halt eine solche Entwicklung erhalten selbst wenn der echte Bedarf eventuell gar nicht mehr so viel Druck ausüben würde. Das unmittelbare Problem ist also gelöst aber das ändert ja Nichts daran das da draußen noch viel mehr Leute sind die sich auch darum schlagen ähnliche Strukturen bzw. in konkreten Worten, Menschenhändlerringe aufzubauen. Um eine solche Organisation zu zerschlagen braucht es eine gewisse Reichweite und vor allen Dingen Macht. Macht die in der Lage ist Informationen zu erlangen. Informationen gibt es aber auch manchmal woanders, wenn man Hinweisen nachgeht. Das führt uns übrigens zum zweiten Talking Point, warum gibt es so viele Crossdresser bzw. Femboys in diesem Spiel? Unterstützt das die asiatische Physionomie oder ist das einfach ein Kulturding? Ist es der Wunsch möglichst weiblich auszusehen geboren aus einer Kultur die Frauen zwar gleichzeitig unterdrückt aber dennoch das Bild des jungen unschuldigen Mädchens hochstilisiert? Man sieht ich habe mir darüber versucht Gedanken zu machen bin aber nicht so richtig zu einer Entscheidung gekommen, dennoch ist es eine Beobachtung die mir hervorzustechen scheint. Oder sehe ich ähnliche Trends hier zu Lande einfach nur nicht?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 17.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

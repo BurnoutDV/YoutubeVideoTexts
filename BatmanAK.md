@@ -865,6 +865,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #55
+
+* Titel: `Batman Arkham Knight - #55 - Wasseraufbereitung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mache es kurz, es geht eigentlich um Rätsel des Riddlers an dessen Lösung ich eventuell ziemlich dolle scheitere und daher nicht ganz so gut damit klar komme. Am Ende wird es sogar so schlimm das ich ein wenig googlen muss weil ich nicht willens bin sehr lange nach einer Lösung zu suchen. All das spielt in der Wasseraufbereitung der Stadt statt. Wenn ich mir einmal anschaue wie die Stadt im Allgemeinen drauf ist und was für Menschen hier wohnen sehe ich aber einen gewissen Zusammenhang zwischen der Wasseraufbereitung und dem Verhalten der Menschen. Es gibt wohl eine Statistik die ich, wie immer natürlich, nicht verlinken kann und werde weil ich zu faul zum recherchieren bin die aufzeigt das die Gewalttaten seit der Einführung des Verbots für bleihaltiges Benzin wohl erheblich runter gegangen ist. Korrelation muss natürlich kein Grund für etwas sein und ich bin mir recht sicher das ich das hier schon einmal erwähnt habe. Die Tatsache das aber gefühlt die Hälfte der Bevölkerung Gothams enorm komisch ist legt irgendwie nahe das das wohl irgendwas im Wasser sein muss. Ich nehme an das es etwas mit der Plörre vom Riddler zu tun hat. Neulich gab es ein Heizungsleck in einer deutschen Großstadt worauf das Wasser überall grün war. Anscheinend gibt es einen (größtenteils ungefährlichen) Farbstoff der enorm potent ist den man für solche Diagnostiken nimmt. Das nur nebenbei, das Zeug vom Riddler ist definitiv ungesund.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 18.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -165,6 +165,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #9
+
+* Titel: `KotOR 2 - #9 - Feuerlöschroboter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Überraschend oft kommt es vor das Dinge die eigentlich einen größtenteils zivilen Nutzen haben für Dinge eingesetzt werden die definitiv nicht so zivil sind. Ein guter Anfang in dieser Kategorie ist immer wieder der alte Baseballschläger, dann das 3D Drucken von irgendwelchen Waffen und nicht zuletzt das Anmischen von Sprengstoff oder Drogen mit gewöhnlichen Chemikalien. Als Gesellschaft muss man hier irgendwann eine Grenze ziehen, würde man alle gefährlichen Stoffe verbieten kommt man ziemlich schnell in den Bereich in dem Nichts mehr vor ran  geht. Die Abwägung wann diese Grenze überschritten wird wird allerdings ziemlich oft vorgenommen. Manche Dinge sind höchst effizient aber leider auch sehr gefährlich oder nicht nur ein bisschen Gesundheitsschädlich. Zum Beispiel ist Asbest als Baumaterial wirklich super, es ist sehr sehr sehr flammenfest. Leider aber auch ziemlich krebserregend und die Fasern setzen sich überall fest. Ärgerlich. Das Ersticken von Flammen mit Gas ist so eine andere Sache. Als Brandschutzanlage im Kindergarten ist das Fluten der Einrichtung mit Halon-Gas auch nur sehr bedingt nützlich, für Serverinfrastruktur hingegen ist es sehr geeignet. Auf der Minenstation Peragus hat man sich scheinbar dafür entschieden das man Feuer mit dem gleichen Zeug löscht in dem man auch Han Solo in 4000 Jahren einfrieren wird. Angeblich ein reversibler Prozess, aber irgendwie dann auch nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 2, Aufnahme vom 20.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

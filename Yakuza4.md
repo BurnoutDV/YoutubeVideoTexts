@@ -1244,6 +1244,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #83
+
+* Titel: `Yakuza 4 Remastered - #83 - Koichi Yabes Informationen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, soweit ich weiß hat noch nie eine Person namens Koichi Yabe als Hostess gearbeitet. Wenn ich normalerweise Episoden nach einer bestimmten Person benenne ist das in der Regel entweder einer der Hauptcharaktere oder aber es handelt sich um eine Hostess weil sich halt die gesamte Episode mit dieser Person beschäftigt. Tatsächlich ist der gute Herr Yabes aber Journalist. Mittlerweile war er aber eher Journalist da er unlängst verstarb. Dafür kann ich aber nichts und ich hätte sein frühes Ableben wohl auch nicht verhindern können. Was wir jetzt noch herausfinden können ist woran der Mann als letztes gearbeitet hat, das letzte Rätsel das er versucht hat zu lösen. Tanimura ist in diesem Punkt natürlich ein guter Polizist und löst solche Probleme soweit er halt kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 17.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

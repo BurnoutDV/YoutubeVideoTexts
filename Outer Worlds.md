@@ -669,6 +669,21 @@
   Sitzung 1, Aufnahme am 18.01.2022
   ```
 
+##### #156
+
+* Titel: `Outer Worlds - #156 - [DLC2-#7] - die Poolwasserverschwörung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zur Erinnerung, die gesamte Kolonie in Halcyon hat ein ziemlich großes Problem. Aus Kosten Gründen oder anderen mir nicht so ganz klaren Umständen hat man sich dafür entschieden die Produktion auf irgendwelche Wegwerfgüter zu konzentrieren, die Produktion von lebenswichtigen Artikeln blieb aber im Hintertreffen. Das sorgt dafür das man von Importen abhängig ist. Mittlerweile haben wir aber herausgefunden das Importe wohl nicht mehr so möglich sind weil die Erde einfach aufgehört hat zu existieren. Was passiert ist wissen wir nicht, nur das der Vorstand alles vertuschen wollte oder das auch immer noch tut. Die Diskrepanz zwischen Realität und Propaganda wird mit jedem Tag größer. Heute finden wir heraus das irgendjemand aus unklaren Gründen das Poolwasser verseucht hat. Ob das jetzt Teil eines großen Planes ist vermag ich nicht zu sagen. Tatsache aber ist das Poolwasser stinkt. Wir lösen das Problem natürlich, das ist einfach was wir tun. Interessant wird jetzt aber das danach ein Kommentar gemacht wird das das Wasser bis zur nächsten Lieferung warten muss. Das trifft mich irgendwie, menschlich meine ich. Wie weit fertig muss man sein das das passiert?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 1, Aufnahme am 18.01.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

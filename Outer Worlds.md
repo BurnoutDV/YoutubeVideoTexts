@@ -684,6 +684,21 @@
   Sitzung 1, Aufnahme am 18.01.2022
   ```
 
+##### #157
+
+* Titel: `Outer Worlds - #157 - [DLC2-#8] - Zusammenstoß mit Plünderern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie endet jede Episode Outer Worlds immer damit das ich irgendwelche sozialen Themen aufmache von denen ich aus meinem Elfenbeinturm aus nur eher weniger Ahnung habe. Das sieht dann zum Beispiel so aus das ich über irgendwelche Arbeitnehmerrechte spreche mit denen ich bestenfalls noch lose Kontakt hatte aber nie in der entsprechenden Situation war. Die gute Nachricht ist aber das, bedingt durch das Offline-Format dieses Spieles zwischen den Folgen meistens eine Getränke oder sogar Essenspause ist, ich also keine Themen von einer Episode zur Nächsten schleppe wenn es nicht eine ganz große Herzensangelegenheit ist. Ich bin mir nicht einmal sicher ob ich das heutige Thema richtig zu Ende führe, ich weiß nur das ich einen Computer vergessen habe und mich damit noch auseinander setzten muss wenn ich wieder hier vorbei komme. Im Gesprächsthema geht es heute darum das ich glaube das die Welt ein schlechter Ort ist weil es ein inhärentes Machtungleichheit zwischen Arbeitgebern und Arbeitnehmern gibt (gerne auch in der Känguru Interpretation). Und daher Arbeitszeitdiebstahl viel zu sehr als Kavaliersdelikt durchgeht obwohl es ein großes Problem ist das am Ende Allen schadet. Nur dagegen kämpfen kann man eher nicht weil so gut wie immer die Macht und der Hebel  fehlt. Das ist sehr schade. Ein wichtiges Thema das meiner Meinung viel zu wenig angesprochen wird. Wenn ein großer goldener Keks geklaut wird ist großer Aufruhr, aber wenn man Milliarden in Lohnarbeiter hier und dort abgezwackt werden ist alles okay. Komische Welt. Ach ja, irgendwelche Banditen erschießen wir heute auch noch, keine Ahnung wo die her kommen aber ich bin mir sicher das sie auch nur das Produkt ihrer sozialen Umstände sind, bestimmt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 2, Aufnahme am 24.01.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

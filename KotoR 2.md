@@ -181,6 +181,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #10
+
+* Titel: `KotOR 2 - #10 - der Kojentrakt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und der Preis für außerordentlich mies benannte Orte geht heute an den "Kojentrakt". Offensichtlich gibt es auf dieser "Raumstation" alleine schon durch die Art und Weise des Handwerks jede Menge Platz, die gewaltigen Gänge durch die wir in den letzten Stunden gelaufen sind stellen dafür ein großes Indiz war. Außerdem leben die Leute doch schon ziemlich lange hier wenn ich das recht verstanden habe. Warum also genau bewahrt man dann am Ende die Leute doch alle in einem Kojentrakt auf, mal davon abgesehen das ich das Ding definitiv "Wohntrakt" genannt hätte. Warum müssen die Leute in kleinen ungemütlichen Betten schlafen wenn wir uns nicht einmal auf einem Raumschiff befinden. Gibt es gute Gründe warum man U-Boot-artig Platz sparen muss? Die Leute auf Teufel komm raus zusammen zwängen? Rätsel über Rätsel. All das hat aber auch dazu geführt das die Leute auch alle gemeinsam gestorben sind als giftige Gase in den Wohntrakt geleitet wurden. Da sind wir übrigens wieder beim Mangel an Schutzausrüstung in einer Raumstation, ich hätte gedacht das Raumanzüge quasi zur Standardversorgung zählen, offensichtlich lag ich falsch. Erneut. Im Star Wars Universum scheint einfach Nichts so zu funktionieren wie ich das erwarte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 2, Aufnahme vom 20.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

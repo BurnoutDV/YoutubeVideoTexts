@@ -1259,6 +1259,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #84
+
+* Titel: `Yakuza 4 Remastered - #84 - horrende Hostess Ausgaben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir beschäftigen uns jetzt intensiv mit den Anfreunden mit einer Hostess. Das Ganze artet ein wenig in einen Vollzeitjob auf und der limitierende Faktor ist anscheinend wirklich unser Vermögen und nicht etwa das die gute Frau einfach nicht mit uns klickt. An sich machen wir übrigens auch alles falsch, anstatt uns zu entspannen leisten wir ihr eine Dienstleistung und tun am Ende so als hätte sie das getan. Ein wenig wie ein Date bei dem es am Ende nicht einmal eine Beziehung gibt. Also wenn man das so macht wie wir das grade tun, der Hostess nach dem Mund reden und irgendwie helfen. Wir gehen heute mehrfach in den Club um immer und immer wieder Chihiro Ikki zu treffen, aber so richtig entspannt fühle ich mich nicht. Für die anderen Hostessen muss ich mir auf jeden Fall etwas überlegen, so wie die Dinge aktuell laufen bin ich nicht sehr zufrieden. Es dauert einfach zu lange und bestimmte Teile wiederholen sich zu oft, das kann man auf jeden Fall effizienter gestalten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 17.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

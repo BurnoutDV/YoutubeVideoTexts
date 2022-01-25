@@ -880,12 +880,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
-##### #Nummer
+##### #56
 
-* Titel: ``
+* Titel: `Batman Arkham Knight - #56 - die Rätselfabrik [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Langsam aber sicher fange ich an den Riddler nicht besonders zu mögen, das liegt unter Anderem daran das er sich einfach viel zu viel Zeit für seine ganzen Pläne lässt. Das mit Catwoman hätte man auf jeden Fall wesentlich schneller über die Bühne bringen können. Stattdessen lässt man uns wie so einen Idioten über die Landkarte laufen um kleine Aufgaben zu erfüllen. Das ist vielleicht auch irgendwie Plan des Riddlers, aber wenn er mich wirklich wie ein Idiot darstellen möchte könnte er es doch eigentlich mit seiner ach so großen geistigen Überlegenheit tun. Stattdessen versteckt er sich hinter einer Fassade von langen Laufwegen und anderen Unnötigen Ertüchtigungen. Ich gebe aber unumwunden zu das ich mich heute ein wenig schlecht anstelle weil es auffällig lange dauert bis ich meinen Kopf geistig so gedreht habe bis ich einfachsten Anweisungen folgen konnte. Aber irgendwann habe ich das dann auch erreicht und wir kommen zügig durch, aber natürlich wartet immer noch die nächste Aufgabe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 18.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```

@@ -894,3 +894,72 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Sitzung 8, Aufnahme vom 18.01.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
+
+##### #57
+
+* Titel: `Batman Arkham Knight - #57 - das letzte Rennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir fahren heute ein wenig Auto. Das ist überhaupt gar kein Problem, ich bin doch gut am Steuer. Ich habe Erfahrung. Dazu eine Anekdote aus meinem persönlichen Leben, also mir, dem Typ der das hier spielt. Fiel mir grade so ein und ist auf jeden Fall besser als das was ich über den Inhalt dieser Episode schreiben kann. Also, damals als ich bei der Bundeswehr war sollte man angeben, wenn man einen Führerschein hatte, wie viele Kilometer man schon gefahren ist. Wer besonders viel hatte ging zum Fahrservice was eine ganz witzige und abwechslungsreiche Aufgabe war. In meinem jugendlichen Leichtsinn habe ich 900km angegeben weil ich irgendwie dachte das das voll viel war. Umso erstaunter war ich dann das andere Leute sich eher im Bereich 10K bis 30K aufgehalten hatten. Die hatten dann halt mit ihren 22 Jahren oder so schon Pizzaausfahrer und solche Dinge gemacht. Nun, sagen wir einmal so das ich die restliche Zeit in der Stammeinheit in der Wartung eingesetzt war. War auch okay. Zurück zum Thema, unser Auto hier ist ein Panzer, zumindest behaupten das die Leute immer die grade auf der Straße umherlaufen. Wenn man sich aber mal anschaut wie schnell das Ding beschleunigt habe ich aber doch eher das Gefühl das es sich mehr um ein Auto handelt. Grade kam mir noch der Gedanke was wohl passiert wenn man vor dem Auto liegt während es grade transformiert, das erscheint mir ziemlich tödlich. Tödlich ist auch mein Zorn auf diese dusselige Rennstrecke, aber nachdem ich mich dann beruhigt habe klappt ja auch alles.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 18.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #58
+
+* Titel: `Batman Arkham Knight - #58 - das Riddler Viereck [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neue Sitzung neues Glück. Heute geht es daran das letzte Rätsel des Riddlers zu lösen. Auffällig ist heute übrigens das ich mich nicht daran aufhalte weil es so schwer ist sondern weil es so einfach ist. Mein initialer Gedanke war viel zu kompliziert. Daher scheitern wir heute sogar ein wenig, außerdem erfahren wir wohl was passiert wäre hätte ich die Riddler-Quest bis zum Ende in Arkham City gespielt. Erstaunlich eigentlich das Batman den Riddler einfach so hat gehen lassen. Neben seiner offensichtlich Lächerlichkeit ist das ja durchaus ein gefährlicher Mann. Menschem mit Gehirnbomben sind jetzt nicht so direkt das was man mal so eben durchgehen lassen sollte. Von der unstylischen Sprengstoffhalsbandgeschichte einmal abgesehen.
+  
+  0:00 - Gameplay
+  9:12 - Vorlesen: Soziale Niete
+  10:20 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 25.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #59
+
+* Titel: `Batman Arkham Knight - #59 - Nacht der Freiheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Warum heißt diese Episode wie sie heißt? Ganz einfach, wir lassen heute die Katze aus dem Sack und damit meine ich das Gebäude. Das hat zur Folge das die gute wohl erst einmal ein paar Diebstähle begehen wird, allerdings hoffe ich sehr für sie das sie schon einen Plan hat wo sie hin möchte, weil ansonsten ist eine einzelne Nacht ziemlich kurz wenn man die gesamte Logistik bedenkt. Außerdem bezweifele das noch besonders viele, leicht zu stehlende Schätze übrig geblieben sind. Klar, eine Bank kann man nicht komplett leerräumen, aber den Familienschmuck kann man durchaus schnell mit nehmen. Die restliche Episode nehme ich mir dann übrigens quasi frei und springe wieder mit der Komplettlösung im Anschlag durch die Stadt um Loretexte zu finden und vor zu lesen. Die alleine reichen übrigens für überhaupt Nichts und damit ist dann auch klar das ich die Riddlerquest niemals beenden werde, dafür fehlt es mir einfach an Geduld und für das Format eines Lets Plays ist das Erledigen von 242 Fleißaufgaben auch überhaupt nicht geeignet.
+  
+  0:00 - Gameplay
+  7:30 - Vorlesen: Heimkehr
+  8:53 - Gameplay
+  9:47 - Vorlesen: Schutzengel
+  11:00 - Gameplay
+  14:56 - Vorlesen: Gute Vorsätze
+  16:11 - Gameplay
+  17:58 - Vorlesen: Treuer Diener
+  19:15 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 25.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

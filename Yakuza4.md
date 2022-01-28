@@ -1274,6 +1274,46 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #85
+
+* Titel: `Yakuza 4 Remastered - #85 - Hostess Date [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich war mein ursprünglicher Plan das ich die Story mit der Hostess möglichst langsam abwickel und halt so nebenher laufen lasse. Glücklicherweise sind wir ja zwischenzeitlich zu ein wenig Geld gekommen so dass eine Planänderung kein Problem darstellt. Und doch frage ich mich ernsthaft was all das hier soll. Heute laden wir die Hostess zu einem Date ein, dann essen wir halt ein wenig und unterhalten uns vielleicht, aber größtenteils schlingt unser gegenüber einfach nur das Essen weg. Es ist natürlich völlig klar das der Mann in dieser Beziehung hier alles bezahlt. Ich gehe nach wie vor davon aus das es am Ende Sex gibt, aber halt auch nur vielleicht. Wenn man sich richtig anstellt und in allen richtigen Situationen das richtige sagt und die entsprechende Hostess auch Lust darauf hat. Klar wird sie es auch tun um Kunden zu behalten. Hier kann ich mir aber durchaus vorstellen das man als Top-Hostess sehr taktisch vorgehen muss. Man darf ja auch nicht zu billig sein. Die Tatsache das die sexuelle Dienstleistung explizit nicht Teil des Hostess-Seins per se ist unterscheidet dann wohl hier noch von der Prostitution. Und doch, ein gewisser sanfter Druck ist wohl nicht zu verschweigen. Hoch interessant das Alles, und doch erscheint mir der Gesamtaufwand irgendwie doch ein wenig unverhältnismäßig. Einzige Erklärung die mir spontan beim Schreiben einfällt ist das man als reicher Sack eh davon ausgeht das alle dein Geld wollen und bei der Hostess gibt es wenigstens kein Zweifel an der Lage.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 24.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #86
+
+* Titel: `Yakuza 4 Remastered - #86 - Heiße Quelle Date [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, wir sind immer noch auf irgendwelchen Dates. Anscheinend kommt Eines zum Anderen und ich fühle mich so ein wenig verpflichtet zu einem Date zu gehen wenn mir das vorgeschlagen wird. Ich habe keine Ahnung ob es hier überhaupt einen Zeitdruck gibt oder ob ich mir auch richtig viel Zeit lassen könnte. Ich weiß es schlicht nicht. Wie dem aber auch sei, wir machen das heute alles und am Ende stehen wir besser da. Mehr fällt mir dazu jetzt auch nicht ein, langsamer aber sich habe ich halt einfach alles gesagt was es über diese para-sozialen Beziehungen zu sagen gibt. Ende.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 24.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

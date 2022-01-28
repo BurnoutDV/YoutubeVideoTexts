@@ -699,6 +699,36 @@
   Sitzung 2, Aufnahme am 24.01.2022
   ```
 
+##### #159
+
+* Titel: `Outer Worlds - #159 - [DLC2-#10] - Eridanium Gigasius [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man irgendwelche Raumstationen erkundet in der das gesamte Personal tot rumliegt und seltsamer schwarzer Schleim aus dem Mund fließt fragt man sich ja oft was da los ist. Wenn sich das eigene Personal auf einmal plötzlich komisch verhält und man dann seltsame Käfer auf ihren Hinterkopf bemerkt kommt schon mal ein "hmm?" auf. Das große Unbekannte in den weiten des Weltraums bietet schon Potenzial für ein wenig Verwirrung. Umso schöner ist es übrigens wenn man irgendwo hin geht, irgendwelche rosa Schnecken sieht, sich kurz ein "was zur Hölle" gönnt und danach das handliche Taschengerät mit den Ohren anmerkt das es sich um "Eridanium Gigasius" handelt. Das ist doch toll! Keine großen Fragen, kein herumwundern was mit 90% der Crew passiert ist. Keine lange Suche nach dem Sinn des Lebens oder überhaupt intelligenten Leben auf Raumstation XOR-X08b. Man muss auch keine Tagebücher zusammenstückeln die einen irgendwelche Biologen hinterlassen haben, nein, einfach die Antwort. Klar und deutlich, wir treffen heute Eridanium Gigasius, mit ziemlich vielen Kugeln. Das beantwortet auch gleich die nächste Frage, man kann das Zeug offensichtlich töten. Schön.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 2, Aufnahme am 24.01.2022
+  ```
+
+##### #160
+
+* Titel: `Outer Worlds - #160 - [DLC2-#11] - mein kleiner Passagier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich halte mich für einen Veteranen. Nicht von irgendwelchen Kriegen aber was Spiele angeht. Ich habe ziemlich oft das Gefühl das ich quasi schon alles gesehen habe was man so sehen kann. Das denke ich und dann passieren Dinge wie heute. Wir haben schon viel gemeinsam erlebt, du und ich treuer Zuschauer. Du hast zwar immer ein anderes Gesicht und Namen aber dennoch stelle ich mir manchmal vor das ich mit jemanden rede wenn ich spiele, also offensichtlich. Wäre ja auch komisch wenn ich einfach so vor mir her brabble. Und diese imaginäre Person ohne Redeanteil bist quasi du. Du hast also genauso viel gesehen wie ich. Nun ist die Sachlage aber so das man, nachdem man soviel gesehen hat sich echt einbildet das einen Nichts mehr schocken kann. Ich lag falsch. Ja, ich hatte irgendwie schon einmal so etwas wie den kleinen Passagier irgendwie schon einmal gesehen. Ja das grundlegende Prinzip war auch schon bekannt aber die konkrete Manifestation dieses Konzeptes in Outer Worlds schockt mich dann doch schon wieder ein bisschen. Wir werden in den nächsten drei Episoden noch ein wenig mehr darüber erfahren daher habe ich grade Wissen das ich in dieser Episode noch nicht habe und du halt auch nicht. Aber sagen wir so, das wird alles noch ein wenig mehr weird bevor es auch nur ein wenig anfängt Sinn zu ergeben. Ich erwähne aber schon einmal das Wort Wespücken, das ist überhaupt kein Wort. Zumindest noch nicht, weil die Definition steht noch aus. Generell und überhaupt habe ich aber das Gefühl das das Writing in diesem DLC ein guter Schritt nach Oben ist.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 2, Aufnahme am 27.01.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -197,6 +197,54 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #11
+
+* Titel: `KotOR 2 - #11 - die Verschwörung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute erfahren wir wieder einmal Dinge die wir schon wusste. Allen Anschein nach gibt es eine Verschwörung, ein Agent, eine missgünstige Person hat sich eingeschlichen und dafür gesorgt das die Umstände sich so entwickelt haben das die Crew der Peragus-Station verstarb. Das Giftgas war es nicht, was größtenteils daran lag das es wohl doch nicht giftig genug war. Am Ende gab es nur zwei Überlebende und einer davon war wohl ziemlich zufällig. Ich frage mich wirklich wie es zu einem solchen Versehen kommen konnte, das stellt übrigens ein wenig die Legitimität unseres Begleiters in Frage wie ich finde. Zurück zum Thema, wir können ja nicht anfangen hinter jeder Kante irgendwelchen fiesen Ränkeschmiede zu sehen, das führt doch zu nichts. Wir wissen jetzt aber das alle Personen durch eine einzelne Macht zum Tode verurteilt wurden. Das Ziel sind wir. Ein Umstand der übrigens eine Menge Fragen aufwirft, Fragen die mir gar nicht gefallen. Auch legt es Schuld auf uns, die Leute hier sind gestorben weil ich hier bin. Klar, es gab da Kollaborateure aber im Großen und Ganzen war es wohl ich bzw. unser treuer T3 Roboter der die Fracht auf Peragus gebracht hat. Die Fracht die letztendlich dafür gesorgt hat das jede einzelne Person ein grausames Schicksal in den Händen von Robotern nehmen musste. Es stellt sich allerdings auch die Frage warum es überhaupt einem einzelnen Agenten, egal wie fähig, so einfach möglich sein konnte anscheinend vitale Funktionen der Station zu manipulieren, müsste man nicht meinen das es autarke Backup System gibt, grade in einer so fragilen Lage wie einer Raumstation.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 2, Aufnahme vom 20.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #12
+
+* Titel: `KotOR 2 - #12 - Harbinger Aufzeichnungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben, soweit ich das verstanden habe, ein beliebter Disclaimer übrigens,, (das Doppelkomma um zu zeigen das ich wieder beim ersten Gedanken bin, ich revolutioniere hier grade die deutsche Sprache!) anscheinend keine Gedächtnisverlust. Es gibt hier also ein definitives Identifikationsproblem zwischen mir und meiner Spielfigur. Visper Cora war ich, die gute Frau Sith-Lord war quasi meine Repräsentation in der Welt des ersten Teils. Zu jedem Zeitpunkt wusste sie soviel wie ich. Heute und hier ist es aber so das der Charakter definitiv eine Vergangenheit hat die wir uns zusammenreimen müssen anhand der Aussagen die wir selber machen. Das Spiel hat übrigens immer noch nicht so richtig angefangen, technisch gesehen ist hier alles irgendwie Prolog. Was wir mittlerweile aber wissen ist das wir mit einem großen Kreuzer durch das All geflogen sind. Und mit geflogen meinte ich gereist, geglitten, gefahren, solche Dinge halt. Der Kreuzer war ein Schlachtschiff der Republik mit dem Namen Harbinger. Auch ich muss da ein wenig an Mass Effect denken. Unser Schiff hieß also "Vorbote", ob das was zu bedeuten hat? Unbekannt, was mit der Harbinger eigentlich passiert ist? Finden wir vielleicht noch heraus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 2, Aufnahme vom 20.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #13
+
+* Titel: `KotOR 2 - #13 - Harbinger Crewquartiere [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Harbinger ist ein ziemlich großes Schlachtschiff und wir wissen immer noch nicht so richtig was genau eigentlich mit der Crew passiert ist. Was wir aber wissen ist wohl das die Republik noch nie irgendetwas von Tarnvorrichtungen gehört hat und was man gegen sie tun kann. Bisher habe ich auch keine Erklärung erhalten wie genau die eigentlich funktionieren aber ich nehme einmal an das es sich um eine reine optische Tarnung handelt die vielleicht, je nach Ausrüstung, auch noch ein wenig Geräusche unterdrückt. Definitiv macht sie aber nicht immateriell so dass der Benutzer selbst darauf achten muss nicht andauernd gegen Leute gegen zu laufen. Soweit so gut. Da man sich auch vor Robotern tarnen kann und ich mal einfach behaupte das es wenig Sinn ergeben würde Maschinen Optik zu geben die nur auf den für menschliche Augen sichtbaren Bereich funktioniert zu bauen schlussfolgere ich einmal das die Tarnung nicht nur optisch ist. Wobei jetzt die Frage aufkommt wo zum Beispiel die thermische Energie jetzt hingeht. Wer erinnern uns das das in Mass Effect ein größerer Talking-Point war, die Normandy hatte Systeme um Abwärme drinnen zu halten. Erwachsene Menschen produzieren gute 100 Watt die Stunde, die müssen irgendwo hin. Lange Geschichte kurz, das Star Wars Universum ist enorm alt aber die Leute haben einfach alles vergessen und es ist noch die große Zeit der Entdecker und man kann ganze Zivilisationen mit trivialen Dingen täuschen weil sie einfach noch nie passiert sind. Heute zum Beispiel der gute alte "andocken am leeren Schiff". Nur der Chef hat scheinbar geschlafen, sich erwischen lassen und musste dann improvisieren. Anfängerfehler.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 2, Aufnahme vom 20.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

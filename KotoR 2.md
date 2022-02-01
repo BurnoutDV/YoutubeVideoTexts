@@ -245,6 +245,70 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #14
+
+* Titel: `KotOR 2 - #14 - Treibstoffleitungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Peragus produziert irgendwie Treibstoff. Ich bin ein wenig unsicher was das angeht weil ich, zum Zeitpunkt am dem ich das hier schreibe gar keine bewusste Erinnerung mehr daran habe jemals irgendeinen Treibstoffkanister gesehen zu haben. Klar, andauernd wird darüber gesprochen wie wichtig der Abbau ist, das es irgendwie eine hohe Explosionsgefahr gibt und alles nicht so einfach ist. Generell und überhaupt frage ich mich übrigens warum es überhaupt irgendwelche lebenden Wesen in der Station gibt. All das verlangt doch eigentlich nach ferngesteuerten Robotern, ich persönlich würde ja nicht da wohnen würde, und am Ende hat sich ja auch herausgestellt das es absolut keine gute Idee war. Davon jetzt aber einmal abgesehen gibt es scheinbar Dinge wo der Treibstoff durchgeleitet wird, wir dürfen also wohl davon ausgehen das es sich um eine Flüssigkeit oder ein Gas handelt. Wie genau baut man das Zeug in Minengängen ab? Wie genau betreibt man da klassischen Bergbau? Oder gibt es Treibstoffkristalle. Ich traue mich wie immer nicht irgendetwas zu googlen aber irgendwie komme ich nicht umhin hier eine gewisse Diskrepanz zu bemerken. Auch die Tatsache das die Harbinger überhaupt Sprit abgreifen will kommt mir seltsam vor. Aber das wird bestimmt noch alles seine Richtigkeit haben, ganz bestimmt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 2, Aufnahme vom 20.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #15
+
+* Titel: `KotOR 2 - #15 - Sprint zum Hangar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Episodentitel ist eine einzige Lüge. Wir sprinten nicht, nicht einmal so ein bisschen. Stattdessen schlendern wir so langsam wie es nur geht weil ich den festen Willen habe soviel Loot wie nur irgend möglich mit zu nehmen, man weiß ja nie wann wir hier noch einmal herkommen. Und irgendwann werden wir Zivilisation wieder treffen und wenn das passiert gibt es dort auch Händler, Händler denen wir das ganze geklaute Zeug andrehen können das wir der Armee der Dunkelheit, den Minenarbeitern und der Peragus Minengesellschaft abgenommen haben. Hoffentlich hatte niemand die Idee sein Werkzeug oder die Kleidung mit irgendwelchen Namensstickern zu versehen. Das ist immer sehr peinlich wenn man beim Pfandleiher steht, sowieso schon Fragen wegen der Einschusslöcher aufgetaucht sind und man dann noch irgendwie Signaturen und andere persönliche Merkmale hinweißt. Am Ende kommen wir aber planmäßig an und wir mussten uns nur durch eine Armee von Robotern graben, echt ärgerlich das die Viecher zwar alle zentral hackbar sind aber offenbar nicht zentral gesteuert werden und daher auch nach dem Tot ihres mutmaßlichen Meisters einfach weiter machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 3, Aufnahme vom 27.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #16
+
+* Titel: `KotOR 2 - #16 - halsbrecherische Flucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der zweite Teil der zweiteiligen Knights of the Old Republic Reihe scheint mir ein wenig gehetzter zu sein als der erste. Das ist ein wenig wie wenn man eine Zombiehorde aufgeschreckt hat. Ausnahmsweise spiele ich tatsächlich also nicht auf die Entwicklung an, auch wenn das wohl auch der Fall war. Die Horde ist aufgescheucht und sucht uns jetzt, wir können also nur in Bewegung bleiben. Es ist eigentlich fast schon erfreulich das die ganzen Truppen die offenbar auf Peragus gelandet sind und dir wir zwischenzeitlich in einigen Kameraperspektiven gesehen haben nicht plötzlich hinter uns standen oder schlimmer noch, unseren Weg versperrt haben. Stattdessen war es so das wir eigentlich, von den diversen Robotern einmal abgesehen, eigentlich sehr gemächlich und sogar gut durch gekommen sind. Das ist angenehm und ein freundlichen Szenenwechsel den ich einmal explizit gut heißen möchte. Andererseits hatten wir aber dennoch nicht so richtig Ruhe. Im ersten Teil hatten wir ein wenig die Uhr hinter uns weil wir ja jemanden retten mussten bzw. erst einmal finden, davon aber einmal abgesehen war die Lage doch recht stabil, wir waren in der Lage Beziehungen auf zu bauen und Umstände zu erkunden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 3, Aufnahme vom 27.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #17
+
+* Titel: `KotOR 2 - #17 - kurze Zusammenfassung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe bereits die Hintergrundgeschichte von Darth Revan gegen den Baum gefahren weil ich nicht schnell genug geschalten habe. Das ist außerordentlich ärgerlich. Als uns Atton erklärt hat das Revan eine außergewöhnliche Frau war haben wir ihn verbessert. Später stellte sich heraus das das der Weg ist wie uns dieses Spiel die Vergangenheit erklärt. Ich finde diesen Ansatz ziemlich kreativ möchte ich sagen, alte Spiele wie Wizardry hatten noch klassischen Savegame Import und sogar neue Spiele wie Witcher 3 können Spielstände aus Witcher 2 importieren was dann ein paar Hintergrundgeschichten ändert. Das hat KotOR zwar nicht und ich bin mir auch nicht sicher wie gut das tatsächlich geklappt hätte weil mein Vorgängerspiel doch ein wenig gemoddet war. Eine Anzeige das man mit dem Beantworten von Fragen die Spielwelt verändert hätte ich schon gerne gehabt. Heute wird uns übrigens der Verlauf des Krieges gegen die Mandalorianer und wie Revan die Welt gerettet hat erneut erklärt. Allerdings erscheint es mir so als könnte ich gar nicht so richtig die Geschichte erzählen wie sie sich wirklich zugetragen hat erklären. Das ist außerordentlich schade, immerhin haben wir heute lange Dialoge die uns erklären wie all die Dinge geschehen sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 3, Aufnahme vom 27.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

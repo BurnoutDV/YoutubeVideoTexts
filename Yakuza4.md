@@ -1304,14 +1304,64 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
-##### #Nummer
+##### #88
 
-* Titel: ``
+* Titel: `Yakuza 4 Remastered - #88 - Nairs Ermittlung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wenn man von Ort zu Ort eilt vergisst man schnell das da draußen noch eine ganze Welt ist, eine Armee, eine ganze Zivilisation von Individuen die ihren Tagesgeschäft nachgehen. Es erweckt in mir immer gewisse existenzielle Ängste darüber nach zu denken wie insignifikant man als einzelne Person eigentlich ist. Und doch, jedes Leben hat eine Bedeutung, vielleicht nicht alle gleich aber doch eine Bedeutung. Das kann man wohl als zentralen Punkt meiner eigenen Philosophie sehen. Zurück zum Thema, wir sind aktuell Tanimura und alle anderen Leute sind weniger bedeutsam, insbesondere wenn sie nicht direkt mit uns interagieren. Es gibt da eine junge Frau, ihr Name ist Nair und sie behauptet zumindest für eine Polizeibehörde aus den Philippinen zu arbeiten. Wir haben diese Behauptung bisher nicht nach prüfen können aber für den Moment gibt es eigentlich kaum Punkte die dagegen sprechen. Auch ihre Gefährten, bzw. der Eine den wir bisher trafen hat noch keine Diskrepanzen gezeigt. Ich lauere allerdings noch darauf, es wird bestimmt noch geschehen. Oder vielleicht auch nicht. Der Stand ist auf jeden Fall das man einen Attentäter namens GG hinter herjagt der sich aktuell in Japan aufhält. Aufgrund der Fremde der Landschaft ist aber die Ermittlung hier ein wenig zum Stehen gekommen, insbesondere in Sachen Kommunikation gibt es größere Probleme.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 24.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #89
+
+* Titel: `Yakuza 4 Remastered - #89 - versteckte Waffen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben bereits in der Vergangenheit darüber gesprochen, und nach mittlerweile 5 Yakuza Spielen könnte man auch meinen das ich Experte in vielen sozialen Fragen Japans bin. Bin ich aber nicht weil ich mich bei einer Menge Angelegenheiten nie über den Rang des in den Raum Vermutens hinaus gehoben habe. Außerdem ist es als Ausländer immer ein wenig schwierig so richtig gut an Informationen zu kommen die nicht schon einige Male gefiltert wurden. Das Englische ist da ein wenig trügerisch, auf einschlägigen Webseiten hat man das Gefühl das man gut mit der Volksseele der Amerikaner oder Engländer interagiert aber dadurch das die Sprache soweit verteilt ist kann das oft und sehr täuschen, und so kommt es das man in Wirklichkeit mit anderen Ausländern interagiert, oder schlimmer noch, mit den Propagandaträgern von Ländern die ein veritables Interesse daran haben die Meinung über ein bestimmtes Thema zu verfälschen. Der Konsensus aber ist das die Japaner im Allgemeinen eine eher harte Meinung über Waffen haben, insbesondere Feuerwaffen die man versteckt in der Fußgängerzone mit sich herum trägt. Das sehen war dann auch heute.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 24.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #90
+
+* Titel: `Yakuza 4 Remastered - #90 - der heiße Tipp [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird wieder einmal Zeit für doppeldeutige Titel. Die machen mir immer wieder viel Spaß. Also, heute geht es darum das wir jemanden von einer nicht besonders wichtigen Zeitung Tipps dafür geben wie man in einem spezifischen Hostess Club eine spezifische Hostess datet. Um dieses Wissen zu erlangen haben wir ziemlich viel Geld ausgegeben, natürlich ist die Questbelohnung weniger als das. Es wäre ja auch noch schöner wenn wir so etwas wie eine Aufwandsentschädigung erhalten. Ich bin immer noch der Meinung das Hostess Clubs irgendwie immer auf Sex hinauslaufen oder zumindest Dienstleistungen die dem sehr nahe kommen. Daher könnte man das wort "heiß" im Titel auch noch anders interpretieren. Das ist natürlich Absicht. Ich gebe zu, die Zweideutigkeit ist hier ein wenig übertrieben und auch nicht genial. Alternativ hätte ich natürlich auch darüber meckern können das Hostessen kennen zu lernen sowas von nicht lohnenswert ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 24.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #91
+
+* Titel: `Yakuza 4 Remastered - #91 - der Dachstalker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder einmal greife ich nach Strohhalmen, unwillens die Hauptstory weiter vor ran zu treiben beschäftige ich mich mit jeder noch so kleine Nebenmission. Außerdem wollen wir ja eigentlich immer noch Nairs Ermittlungen weiter vorwärts führen, aber dafür wieder rum brauchen wir mehr Erkenntnisse, die Informationen die wir bis her erhalten haben reichen einfach nicht. Aber zur Sache und was wir hier heute überhaupt tun. Wir stellen sicher das eine arme, unbescholtene Bürgerin nicht dem Tun eines rücksichtslosen Stalkers ausgesetzt ist. Wir wissen ja das aus einfachen Gucken schnell mehr werden kann, obsessives Verhalten sollte man nicht unterschätzen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 24.01.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
 ##### #Nummer

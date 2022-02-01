@@ -954,6 +954,71 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #60
+
+* Titel: `Batman Arkham Knight - #60 - Landplagenminen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Worträtsel: Gesucht ist ein Begriff der das Gefühl beschreibt das man zu schnell in der Hauptgeschichte vor ran kommt und man sich daher mit nicht besonders relevanten Nebenmissionen aufhält die wenig für die Geschichte tun und im Allgemeinen eigentlich ziemlich uninteressant sind aber als valides Mittel erscheinen mehr aus dem Spiel heraus zu holen.
+  Was auch immer das Wort ist, das mache ich heute, vielleicht könnte es sogar einfach nur Prokrastination sein weil so in etwa funktioniert das. Nur das ich mir eigentlich keine Sorgen mache das es besonders anstrengend sein könnte die Hauptmission fortzuführen, es ist eher die Angst irgendetwas zu verpassen. Nun, wir entschärfen heute irgendwelche großen Minen die der Arkham Knight in der Stadt hinterlassen hat, die sollen irgendetwas tun. Ich habe es ehrlich gesagt schon wieder vergessen aber der destruktive Effekt von Sprengstoff in der Straße sollte auf jeden Fall geringer sein als wenn man das Zeug live über der Stadt abwerfen würde oder in irgendwelchen Gebäuden packen würde. Ich bin da aber ehrlich gesagt kein Experte. Dinge in harten Beton mit Sprengkegel nach oben zu packen erscheint aber in jedem Fall so als würde man eine Art gerichtete Ladung haben und die Richtung ist die wo nicht all zu viel kaputt gehen kann. Das weiß unserer Ritter aber vielleicht nicht und deswegen opfert er ordentliche Mengen an Ausrüstung dafür das Ding zu beschützen. Die gute Nachricht für ihn ist aber immerhin das ich tatsächlich zu Maus und Tastatur greifen muss weil ich mich nicht gut genug fühle das Problem mit dem Controller anzugehen. Ich werte das als Etappensieg für den Arkham Knight, das Rennen verliert er aber trotzdem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 25.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #61
+
+* Titel: `Batman Arkham Knight - #61 - Feuer und Flamme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube es gibt eine kultige ZDF/ARD oder irgendetwas Serie die mit Feuer und Flamme oder so heißt. Eventuell auch total anders. Spielt auch keine Rolle, ich bin was lokale Kultur angeht, und damit meine ich gesamt Deutschland ziemlich weit draußen. Das ist eigentlich bedauerlich wenn man bedenkt das Deutschland Kultur enorm groß schreibt. Groß schreiben tut unserer heutiger Bösewicht des Tages übrigens das Wort FLAMMENWERFER. It werfs Flammen. Wir kenne das Prozedere aber auch eigentlich schon, dieses Mal ist die Verfolgungsjagd anscheinend ein wenig länger aber diese Art der Quest ist schon enorm lieblos muss ich sagen, zwei Variante mit der Schwierigkeit der letzten als finales Rennen hätten es auch dann getan. Der Kampf gegen den Feuervogel ist nämlich im Großen und Ganzen ziemlich unspannend und ich wurde definitiv schon einmal besser unterhalten. Da uns die Jagt nach einem verkappten, fliegenden Pyromanen nicht den ganzen Tag aufhält erschießen wir heute auch noch eine Drohne des Arkham Knights, das ist auch nicht besonders erfüllend, muss aber auch gemacht werden. Im Gegensatz zum Vereiteln von irgendwelchen Banküberfällen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 25.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #62
+
+* Titel: `Batman Arkham Knight - #62 - Harleys Stimme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte mich wirklich schon gefragt wo eigentlich unsere beste Freundin Harley Quinn bleibt. Offensichtlich kommt sie vor, man kann schließlich ein Charaktermodell für sie auswählen, was man aber nicht konnte war sie auch tatsächlich treffen. Erwähnt wurde sie im Gegensatz zu zu Harvey Dent auch nicht als uns Poison Ivy von dem Treffen der Untergrundbosse erzählt hat. Man darf sich bei Harley wirklich fragen wie sie eigentlich überhaupt eine Bande anführen kann. Der Joker hat ein gewisses Charisma und wenn es gut läuft hat er sogar ziemlich intelligente Pläne, die laufen zwar auf Chaos hinaus das ist aber auch profitabel. Das Gleiche gilt für Two-Face, sicherlich, nicht ganz stabil der Mann aber die Pläne sind soweit ich das erkennen kann recht solide. Der Pinguin ist auch so ein Wackelkandidat, besonders fähig scheint er auf jeden Fall nicht zu sein. Aber wie wir später noch erfahren besitzt Harley wohl einen gewissen Selbsterhalt und irgendwelche Vorteile wird es wohl haben ihr zu folgen. Auf jeden Fall Glückwunsch das sie es als Frau in einer sehr männer-dominierten Position geschafft hat sich erfolgreich über den Schatten ihres Vorgängers zu setzen. Die wiche Übergangsphase des vorherigen Management hat bestimmt geholfen.
+  
+  0:00 - Gameplay
+  3:09 - Biografie: Harley Quinn
+  4:15 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 25.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #63
+
+* Titel: `Batman Arkham Knight - #63 - Christina Bell [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die grundlegende Prämisse das man durch die Aufnahme von Körperteilen oder Körperflüssigkeiten Eigenschaften des ausgenommenen annehmen kann ist nicht unbedingt neu. Ich meine mich zu erinnern das man aus diesen Grund Albinos (auch Menschen) jagt, Elefantenhörner wert in irgendwelcher traditionellen Medizin besitzen und generell allerlei gruseliges Zeug erklärt wird. Spontan fällt mir auch noch ein Beispiel in einem Film namens District 9 ein. Unwichtige Anekdote, ich wollte den damals im Kino gucken, irgendwie haben wir uns dann aber verlaufen und stattdessen Inglorious Bastards geguckt, der Film hat mich nicht 100% abgeholt und ich glaube die großen Bilder aus dem Sci-Fi Film hätten mir besser gefallen. Schade drum. Der Zirkel ist jetzt das es wahrscheinlich insbesondere aber nicht nur in Afrika den Glauben gibt das man ist was man isst. In Arkham City hat der Joker sein Blut über die Stadt verteilt um Batman dazu zu bringen ein Gegenmittel gegen die Titan-Vergiftung zu finden. Den Fallout dieser Tätigkeit sehen wir hier. Ärgerlicherweise ist die echte Realität übrigens wesentlich langweiliger, wenn man irgendwelches komisches Blut abkriegt stirbt man in der Regel einfach an toller Vergiftung wenn man das nicht schnell fixt. Generell und überhaupt gibt es im echten Leben viel weniger coole Mutationen als banales Abnippeln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 25.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

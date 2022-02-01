@@ -729,6 +729,67 @@
   Sitzung 2, Aufnahme am 27.01.2022
   ```
 
+##### #161
+
+* Titel: `Outer Worlds - #161 - [DLC2-#12] - der leitende Obstgärtner [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute finden wir eine seltsame Betitelung vor. Es ist so das wir zwei Personen ohne kleinen Passagier treffen, soweit so gut, der Eine ist von der Sublight Untergruppe, auch noch nicht ungewöhnlich. Der andere Typ arbeitet bei Rizzos und ist scheinbar für den örtlichen Obstgarten zuständig. Der Obstgarten übrigens der angeblich für 112% der Nahrungsversorgung (nach Hochrechnung) in Halcyon verantwortlich ist, man kann also durchaus von einer sehr wichtigen Aufgabe reden. Anstatt das der Mann aber, wie sonst immer, der Chief Executive Boss Gardener oder irgendwas in der Richtung ist handelt es sich viel mehr um den "leitenden Obstgärtner". Er könnte genauso gut "geschäftsführender Obstgärtner", "stellvertretender Assistent des leitenden Obstgärtners" oder auch "Otto vom Dienst" heißen. Der Titel ist so auffällig insignifikant das ich ernsthaft erstaunt bin. Ich meine, alle anderen Aufgaben haben wesentlich eindrucksvollere Titel. Oder ist das die geheime Grenze? Die Leute mit den Poser-Titeln sind diejenigen die ihren Titel selber festlegen können? 
+  Davon einmal abgesehen handelt es sich natürlich trotzdem um einen wichtigen Posten. Es besteht zum Beispiel darin so lange darauf zu warten das jemand vorbei kommt der sich darum kümmert die zahlreichen Probleme im Garten zu lösen. Namentlich ist das irgendeine Schwierigkeit mit den Wespücken, die Roboter machen quatsch und das das örtliche Personal komplett ausrastet ignorieren wir einmal für den Moment.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 2, Aufnahme am 27.01.2022
+  ```
+
+##### #162
+
+* Titel: `Outer Worlds - #162 - [DLC2-#13] - der Purpleberry Obstgarten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich waren wir schon die ganze Zeit in den Obstgärten, quasi schon seit 40 Minuten. Aber heute erkunden wir sie dann doch endlich einmal richtig. Natürlich treffen wir direkt noch einen Obstgärtner, stellt sich doch glatt heraus das es noch mehr Ränge in der örtlichen Verwaltung gibt, aber nur der leitende Obstgärtner konnte wohl den Parasiten ausweichen, deswegen macht er sich aber auch so viele Sorgen. Der Typen den wir heute treffen macht sich nicht so viele Sorgen, immerhin kriegen wir trotzdem ein paar Informationen aus ihm heraus. An sich erschien die Arbeit in den örtlichen Obstgärten eigentlich als ziemlich einfach, ein wenig Früchte ernten, bissle herumflanieren und sich nicht von den Wespücken beißen lassen. An sich kann also gar nichts schief gehen. Möchte man meinen. Das Ding mit den Wespücken die anscheinend zur Bestäubung dienen scheint aber doch recht groß zu sein wenn es extra Roboter braucht die die Viecher tötet. Ich habe übrigens leichte Cazadore Vipes was die Viecher angeht, mal sehen ob Plasmawaffen sich als effizient erweisen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 2, Aufnahme am 27.01.2022
+  ```
+
+##### #163
+
+* Titel: `Outer Worlds - #163 - [DLC2-#14] - ungeplante Abläufe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte einmal ein Kommentar über die deutsche Bürokratie gelesen, sie ist unnötig kompliziert und Prozesse gehen durch die Hände von sehr vielen Leuten. Allerdings wurde dann ein Vergleich gezogen, anscheinend ist bzw. war es Großbritannien so das, wenn man irgendetwas machen wollte was auch nur minimal vom Mainstream abgewichen hat es einfach keine Vorgänge gab. Zum Beispiel wenn man als nicht Staatsbürger irgendwelche Verwaltungsprozesse in Anspruch nehmen will die man mit Aufenthaltsgenehmigung eigentlich können müsste. Die völlig überladene deutsche Verwaltung hat dafür Antworten und Verfahren, Formulare selbst für obskure Vorgänge. Ich habe keine Ahnung ob dem wirklich so ist, ich versuche so wenig wie möglich mit den Leuten zu interagieren. Die Firmen in Outer Worlds haben definitiv keine durchgeplanten Business Vorgänge, aber auch sie reagieren sehr allergisch darauf wenn plötzlich irgendetwas anders ist als geplant. Von der Elektronik wollen wir noch gar nicht reden, aber Allen Leuten sollte klar sein das die Technik auch hier nicht besonders fehlersicher geplant ist. Es sollte ja günstig und schnell gehen, da muss man seine Logik auch nicht testen. Aber keine Angst, die große Fachkraft ist unterwegs und rettet den Tag.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 2, Aufnahme am 27.01.2022
+  ```
+
+##### #164
+
+* Titel: `Outer Worlds - #164 - [DLC2-#15] - die Sommerpraktikantin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend ist es so das wenn man für manche Berufe einige Praktika braucht bis man da überhaupt rein kommt, je nach Beruf muss man dafür auch ziemlich privilegiert sein weil die entsprechenden Praktika natürlich nicht bezahlt werden. Ich hatte mal gehört das das zum Beispiel für Journalismus der Fall ist, auch gut wenn man irgendwo im Ausland Erfahrung sammeln soll aber wenn man nicht unbedingt Eltern hat die Botschafter für Land XY sind hat man quasi keine Chance. Nun, wie dem aber auch sei, das gesamte Konzept Praktikum ist generell und überhaupt komplett ad absurdum  geführt worden. Ich bin mir nicht sicher ob es jemals eine Seite gab als ein Praktikum wirklich das war was der Name impliziert. Die Gelegenheit praktisch zu arbeiten und ein wenig über einen Beruf zu lernen. Fairerweise muss man halt auch sagen das so ein Praktikant, wenn man es ernst meinen würde, auch Geld kosten würde, über Eck. Ausgebildete und damit auch ziemlich teure Fachkräfte müssen ja jemanden der quasi Nichts kann erklären wie Vorgänge funktionieren, und wenn dann die Person halbwegs eingelernt ist dann ist das Pratikantchen schon wieder weg (semi-geniale Idee Gendern zu umgehen, einfach alles verniedlichen). Wenn man einfach ignoriert das Praktikanten irgendetwas lernen soll kann man endlich dringend benötigte, kleinere Arbeiten nachholen lassen. Die Halle zu Fegen ist vielleicht nicht vital wichtig für das Kerngeschäft, aber viele kleine Arbeiten bleiben halt einfach ewig liegen und schaden so passiv ein wenig dem allgemeinen Lebensgefühl. Es gibt allerdings immer die Gefahr das so ein Praktikantchen jede Menge Fehler machen kann. So zum Beispiel die heute interviewte Praktikantin, sie ist anscheinend übrigens länger als nur für den Sommer hier. Vielleicht, wissen wir nicht, wenn sie bald die Kante runterfällt war das vielleicht nur ein Sommer.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 3, Aufnahme am 31.01.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

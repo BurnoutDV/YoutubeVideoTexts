@@ -309,6 +309,102 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #18
+
+* Titel: `KotOR 2 - #18 - der Jünger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Attentäter in Spielen kommen grob in drei Geschmacksrichtungen. Entweder ist man selber der Attentäter, der unheimliche Assassine der scheinbar durch Wände zu gleiten scheint, eine unaufhaltsame Mordmaschine die keine Grenzen, keine Sicherheit und keine Entfernung kennt. Meistens verkörpert durch einen glatzköpfigen Kerl mit Barcode im Nacken. In diesem Fall ist die Kanon-variante des Killers ein absolutes Genie. Die zweite Variante ist mehr eine Textbox als eine echte Person. Die Nachricht das etwas passiert ist: "My Lord, euer Sohn wurde von Attentätern vergiftet". Ja schön, hätte man wohl nicht verhindern können. Auch diese Leute sind außerordentlich kompetent, wir erfahren von ihnen erst nach vollendeter Tatsache, spontan fällt mir auch kein Spiel ein in dem man einer solchen Person direkt begegnet und einfach unabwendbar tot ist. Und dann gibt es die dritte Kategorie, unbedarfte Quatscher die nicht einmal wissen von welcher Organisation sie kommen. Irgendwelche Typen die keine Ahnung haben in wessen Auftrag sie überhaupt agieren. Harte Kerle die nicht grade aus schießen können und eher reden anstatt zu machen. Flexible Frauen die zwar gut aussehen aber einfach nicht zum Abschluss kommen. Die letzte Art trifft man in ziemlich häufig wenn man nicht selber der Attentäter ist, wäre ja auch doof wenn nicht, dann wäre man ja tot. Andererseits waren die Mörder der dunklen Bruderschaft in Morrowind ziemlich fähig wenn man grade knapp das Level erreicht hatte das die Bande spawnt. Immerhin konnte man ihre Rüstung für gutes Geld verkaufen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 3, Aufnahme vom 27.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #19
+
+* Titel: `KotOR 2 - #19 - Telefonterror [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode mussten wir uns mit einem außerordentlich fähigen Attentäter auseinandersetzen den wir glücklicherweise im waffenlosen Kampf überwältigen konnten. Das der Auftrag "töte den letzten Jedi" nicht die zusätzliche Notiz "der Typ ist gefährlich" beinhaltete war ein wenig kurios aber man kann sich auch nicht über alles Gedanken machen. Stand heute ist auf jeden Fall das wir immer noch im Knast sitzen, nur in diesem Fall in einer geteilten Wohnung, 3 Köpfe, 5 Hände und jede Menge Langeweile. Auch interessant ist das wir eigentlich nur abwarten sollen. Nur darauf warten das die gesamte Peragus Angelegenheit einfach ihr Ende findet und man uns natürlich frei spricht. Auch wenn das ein gewisses Vertrauen in den örtlichen Rechtsstaat voraussetzt. Wir sind im Herzen unschuldig und haben auch nicht geschossen, dafür gibt es aber keine Beweise. Natürlich gibt es auch keine Beweise das wir beschossen wurden oder das es überhaupt jemand Anderes gab, bei der Größe der Explosion erwarte ich eigentlich nicht das noch viel auswertbares Zeug übrig blieb. Hat die Rechtssprechung auf Telos eine Unschuldsvermutung? Wir können es nicht wissen, also bleibt uns eigentlich nur abzuwarten und ein wenig zu schlafen. Das würde ich auch gerne tun, leider klingelt unerlässlich das Telefon. Das nervt ein wenig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 3, Aufnahme vom 27.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #20
+
+* Titel: `KotOR 2 - #20 - Freigang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es war ja klar das die aufrechten Leute der Citadel Station uns nicht ewig gefangen halten können. Schließlich sind wir absolut unschuldig und haben Nichts mit der Zerstörung der Lebensgrundlage der Einrichtung zu tun. Die ganze Renovierung Telos könnte eventuell durch unsere Tätigkeiten in Gefahr sein aber wir haben dennoch Nichts damit zu tun. Nur unser Ankunftszeitpunkt wird aus irgendwelchen Gründen mit der zeitgleichen Zerstörung von Peragus korreliert, ein Umstand den ich übrigens sehr verurteile. Letztendlich spielt das aber alles keine Rolle, wir laufen jetzt endlich in Freiheit umher und erkunden die Annehmlichkeiten die uns die sicherlich bald sterbende Citadel Station zu bieten hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 3, Aufnahme vom 27.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #21
+
+* Titel: `KotOR 2 - #21 - Ausrüstungsoptimierung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein wenig Kleingeld, wir haben einen Händler gefunden und das Spiel offeriert uns die Möglichkeit alle die kleinen Bauteile die unsere Ausrüstung hat anzupassen. Weiter haben wir auch noch gelevelt das wir besser mit Gegenständen umgehen können. Was liegt da näher als alles was wir haben ein wenig aufzumöbeln. Der Nachteil ist natürlich das in unserer aktuellen Lage eigentlich nicht damit zu rechnen ist das wir schießen müssen. Schließlich sind wir auf einer befriedeten Raumstation die ihren eigenen Sicherheitsservice hat. Warum also sollte hier irgendjemand sein der uns Böses will. Ich vermute daher, doch sicherlich auch zu Recht, das wir die nächsten paar Stunden nicht mit kriegerischen Konflikten rechnen müssen und eher unsere scharfe Zunge und Geschick im Verhandeln einen nennenswerten Vorteil verschaffen werden. Und doch stehe ich hier und kaufe Waffen die offenbar in ziemlich vielen Sternensystemen verboten sind, ob das noch einmal relevant wird oder ob das einfach nur so ein wenig Fluff-Text ist der halt mit dran steht? Wir werden sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 3, Aufnahme vom 27.01.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #22
+
+* Titel: `KotOR 2 - #22 - Telos, Cantina [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Cantinas sind quasi die Pseudo-SciFi Variante für eine Taverne. Weil es aus irgendwelchen Gründen in der fernen Vergangenheit die aber eigentlich irgendwie die Zukunft ist noch einen großen Bedarf an Getränke gibt. Auch interessant ist das wir quasi in DER Cantina sind. Die Nummerierung der Wohnmodule mit 81 und 82 deutet ja irgendwie an das die Station wesentlich größer ist. Wenn man aus einen der Fenster schaut deutet aber Einiges darauf hin das wir in einen Teil sind der zufällig nur die ersten Nummern abbekommen hat. Generell und überhaupt ist es wahrscheinlich ziemlich schwierig Bevölkerungszahlen in einer Welt aus zu balancieren in denen wahrscheinlich Millionen auf einer einzelnen Raumstation leben. Umso überraschender ist es aber auch das man in den meisten Cantinas durchaus noch sehr gut treten kann. Wie halt in einer Taverne die von fahrenden Händlern besucht wird, ein wenig Verkehr durch die lokale Bevölkerung besitzt aber ansonsten nicht großartig überfüllt ist. Das überrascht doch ein wenig oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 4, Aufnahme vom 03.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #23
+
+* Titel: `KotOR 2 - #23 - das große Sanierungsprojekt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erfahren dann heute das man versucht hat auf Telos wieder Leben einzuführen. Mir ist nicht ganz klar wie genau es möglich war die gesamte Biosphäre eines Planeten durch anscheinend nicht gewaltigen orbitalen Bombardement zu verlieren aber anscheinend ist genau das passiert. Das wird übrigens noch ein wenig interessanter wenn man bedenkt das Taris, ein Planet der angeblich komplett von Stadt durchzogen war nicht kollabiert ist. Die Luft dort war ziemlich atembar. Schon seltsam wie Überlegungen der Ökologie und Terraforming auf einmal relevant werden. Hier also die kleine Erinnerung das George Lukas absolut kein Interesse hatte Sci-Fi zu machen. Er wollte nur ein anderes Setting nehmen das halt nicht auf der Erde oder in irgendwelchen verwunschenden Welten ist. Außerdem gibt es außer Elfen selten Leute die man als offensichtliche Nazis framen kann. Das geht mit der Reichweite eines Imperiums schon wesentlich besser. Alles was wir hier sehen ist ein Märchen und Traumlogik zählt. Nur wenn es die Geschichte will gibt es auf einmal Konsequenzen für das Verwüsten eines Planeten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 4, Aufnahme vom 03.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

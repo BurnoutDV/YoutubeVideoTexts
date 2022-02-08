@@ -1364,6 +1364,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #92
+
+* Titel: `Yakuza 4 Remastered - #92 - der Anruf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Telefonieren ist eine gewaltige Errungenschaft. Oder generell lichtschnelle Kommunikation. Ich mache mir ja manchmal Gedanken wie so komische Fantasy Welten funktionieren und als Grundlage geht man ja in der Regel von der normalen Welt wie man sie kennt bzw. im historischen Kontext kennt aus. Dann ändert man Dinge um eine Welt zu erschaffen die Reif für eine Geschichte ist. Neben der ganzen historischen Faktenrecherche macht man sich dann also viele Gedanken darüber wie genau eigentlich bestimmte Techniken die Welt verändern. Nehmen wir an es gibt Magier die sich mit Glaskugeln unterhalten können. Reiche Händler und Herrscher stehen dann natürlich Schlange um diese Methoden zu nutzen, das Wissen was woanders geschehen ist ist quasi unersetzlich. Aber auch die Fähigkeit körperlich an einem anderen Ort zu sein ist außerordentlich praktisch, wie zum Beispiel wenn man die eigene Identität wahren will. Klar könnte man einfach einen Brief hinterlassen aber manchmal braucht man Interaktion, und einen Agenten zu schicken ist oft nicht das Beste. Die Person könnte in die Hände der anderen Seite fallen und selbst die beste Ausbildung kann nicht alles verhindern. Aber so ein Telefongespräch? Natürlich ist es zurückverfolgbare Technik, aber es führt eine Zeit-Komponente ein dessen Verzögerung ausreicht um die eigenen Ziele zu erreichen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 07.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

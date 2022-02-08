@@ -1019,6 +1019,105 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #64
+
+* Titel: `Batman Arkham Knight - #64 - Johnny Charisma [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen das es mehr als einen Doppelgänger gibt, und so richtig handelt es sich auch gar nicht um Doppelgänger, viel mehr könnte man wohl davon reden das es Duplikate sind. Wie auch immer das genetische Gedächtnis eigentlich funktionieren soll. Andererseits, so richtig Erinnerung haben die Kopien ja nicht, sie verhalten sich ja nur wie der Witzemeister. Was ein wenig komisch erscheint weil man doch meinen möchte das größere Teile der Persönlichkeit des Jokers eher auf seine Erinnerung und Vergangenheit zurückgehen als auf seinen genetischen Aufbau. Nun, letztendlich ist es wohl egal was der Witzemeister genau war und ist, der in unserem Kopf kann sich ja eigentlich auch nur an die Dinge erinnern die Batman weiß..oder weiß er doch mehr? Das Blut in Batman war auf jeden Fall das Reinste, direkt und frisch injiziert.
+  
+  0:00 - Gameplay
+  27:27 - Vorlesen: Machtspielchen
+  28:54 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 25.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #65
+
+* Titel: `Batman Arkham Knight - #65 - Albert King [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein legendärer Boxer der so breit wie hoch wie tief ist könnte auch für eine angeblich "Peak-Performance" Menschen wie Batman ein Problem sein. Ich gehe mal stark davon aus das rein für die Kinder ein Saubermann wie Batman keine Drogen nehmen würde um seine Leistung zu verbessern. Andererseits spricht absolut alles dafür das jemand wie Bruce Wayne der definitiv Zugriff auf Alles hat und sich die reinste Qualität synthetisieren lassen kann sich nicht die dicken Amphetamine hinter haut. Letztendlich ist es auch nur ein Zahlenspiel, und wenn man alleine gegen Viele vorgehen will braucht man definitiv jeden Vorteil den man kriegen kann. Ich habe keine Ahnung inwiefern die verschiedenen Drogen auf den Körper wirken, was die präzisen Langzeitfolgen sind und ob sie die eigene Urteilsfähigkeit einschränken. Ich gehe jetzt aber mal davon aus das es ein wenig so ist das die meisten menschlichen Muskeln wesentlich mehr können als im Normalbetrieb. Oben drauf von dem was der Körper normal zulässt sind vielleicht 10% Toleranz, je nach eigener Verfassung, die könnte man vielleicht ausnutzen mit entsprechenden Mitteln. Aber genug Zeug geht wahrscheinlich drüber, so wie wenn man einen Prozessor übertaktet. Und wenn man seine Muskeln über "Herstellerangaben" ausnutzt reißen die Dinger wahrscheinlich, beschädigen sich, eventuell sogar unheilbar. Für den Moment ist das aber völlig belanglos, wenn alles was zählt das Ergebnis im Jetzt ist und man später Star Doktoren für die Reparatur beauftragen kann dann wären Drogen wohl das richtige Mittel um der dunkle Rächer zu sein. Siehe die purpurnen Flüße. Lange Geschichte kurz, der Boxer ist definitiv gedopt, aber Batman kann eigentlich auch kein natürliches Muskeltier sein. (Früher habe ich bei den 4 Musketieren immer Muskel-Tiere gelesen, jo)
+  
+  0:00 - Gameplay
+  6:33 - Vorlesen: Verbrannt
+  8:03 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 25.01.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #66
+
+* Titel: `Batman Arkham Knight - #66 - der letzte Joker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der letzte echte Joker ist eigentlich schon vor einiger Zeit gestorben, schließlich gab es auch nur einen. Generell und überhaupt ist der Witzemeister aber auch niemand der einen Zweiten neben sich erduldet. Harley ist zwar irgendwie nützlich aber sie ist nicht der Joker und daher auch keine echte Gefahr, anders würde es bei irgendwelchen Nachahmern aussehen. Aber was wenn all die Joker gleich sind, welcher Joker hat am Ende die Überhand? Eine schwierige Frage, und so richtig heraus gefunden was wir mit den ganzen Leuten mit Jokeritis machen haben wir auch noch nicht. Ein wenig Meta, aber ich finde es relativ interessiert wie diese Storyline mit dem vergifteten Blut irgendwie halbwegs organisch erscheint, die Spuren waren klar gelegt und irgendwie passt das ganz gut zusammen. Kurzum, es wirkt nicht wie etwas das sich die Verantwortlichen spontan während einer Mittagspause ausgedacht haben. Ich erwähne das nur weil das selten der Fall ist heutzutage, klar wollen Studios immer Nachfolger bekannter Serien machen, einfach weil man da schon eine gewisse Fanbasis hat. Neue Franchises zu entwickeln ist immer ein wenig riskant, aber dann auch eine gute zusammenhängende Handlung zu schreiben kann auch nicht jeder.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 03.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #67
+
+* Titel: `Batman Arkham Knight - #67 - Frachter Nora [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir mit der letzten Katastrophe fertig geworden sind haben wir ein Signal eines im Eis stecken gebliebenen Frachters erhalten. Anscheinend gibt es jemanden der auf einem Schiff Dinge durch die Gegend transportiert und sich ziemlich gut mit Eis und Kältetechnik auskennt. Die große Frage ist übrigens auch generell und überhaupt warum Mr. Freeze eigentlich überhaupt soviel Fokus auf Kälte hat. Müsste der Mann nicht eher Humangenetiker sein, Arzt und vielleicht auch Biologe, aber warum grade Kältetechnik? Außer das Einfrieren seiner Frau musste er ja nun wirklich nicht viel machen. Offensichtlich ist er sich ziemlich sicher das er die Gute auch wieder aufgetaut kriegt ohne das sie da bleibende Zellschäden nimmt, was alleine schon ein gewaltiger technischer Gewinn ist oder? Bevor wir aber überhaupt soweit kommen müssen wir uns mit Schlägern herumärgern, aus irgendwelchen Gründen hat der Arkham Knight sehr viele Truppen zum erobern des Schiffes abgestellt. Erstaunlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 03.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #68
+
+* Titel: `Batman Arkham Knight - #68 - Draußen in der Kälte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir damals in Arkham City waren war es wohl grade irgendwie Winter. Soweit ich weiß ist New York durchaus ein Ort der ziemlich kalt sein kann, gleichzeitig hat man wohl im Sommer mit etwas zu kämpfen das man durchaus als Hitzewelle bezeichnen könnte. Ich weiß nicht wie ich mit einem solchen Wetter umgehen sollte. Hierzulande kann es durchaus auch mal kalt werden, aber so richtige Kälteeinbrüche wie ich es immer wieder in irgendwelchen Filmen und Serien sehe kann ich mich wirklich nicht erinnern. Schnee und Kälte wäre also durchaus etwas Normales in Gotham. Jetzt ist es aber so das die gesamte Sachlage heute noch ein wenig komplexer ist als das. Es gibt gewisse Parteien die eine gewisse Affinität zu Eis haben und das zeigt sich dann auch in allen Geschichten die mit ihnen zu tun haben. Interessant ist aber auch das uns eine gewisse Eile suggeriert wird obwohl wir doch auf halben Weg erfahren das die durchaus fähigen Feldtechniker des Arkham Knights das Problem gelöst haben, man scheint das Potenzial von Mr. Freeze zu respektieren. Interessant, aber irgendwie auch ein wenig unlogisch.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 03.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #69
+
+* Titel: `Batman Arkham Knight - #69 - Winterwunderland [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Name der heutigen Episode ist ein wenig falsch, letztendlich ist es ja nicht so das jetzt ganz Arkham auf einmal und dauerhaft nur noch aus Schnee besteht, schade eigentlich, das Weiß wäre vielleicht in der Lage gewesen die unfassbar schweren Sünden die die Stadt dauerhaft belasten zumindest für eine Weile zu verdecken. Nun müssen wir wohl weiter damit leben das alles dreckig, ungesetzlich und generell und überhaupt ein Alptraum ist. Immerhin schließt hier mit jetzt eine Geschichte ab, die von Mr. Freeze. Ich bin übrigens ein wenig traurig das hier die Story nicht wenigstens einmal eine Art Happy End erlaubt. Ein Ende das ein wenig fröhlicher als das des Batman ist. Die Aufgabe von Bruce Wayne ist es ja alles leiden zu sehen und alle Freunde um sich herum sterben zu sehen, aber andere Leute? Ein wenig Glück für die Bösen wäre doch auch mal nicht schlecht. Ich hätte zum Beispiel gerne Harvey Dent Erfolg haben sehen, ein wenig Geld einsacken und so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 03.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

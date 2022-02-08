@@ -790,7 +790,112 @@
   Sitzung 3, Aufnahme am 31.01.2022
   ```
 
-##### #Nummer
+##### #165
+
+* Titel: `Outer Worlds - #165 - [DLC2-#16] - Interkonzern-Diplomatie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind gut darin zwischen verschiedenen Parteien zu verhandeln. Das sollte eigentlich niemanden überraschen. Schließlich ist Aliya Hawthorne quasi die Person wenn es darum geht zwischen verschiedene Leute zu verhandeln. So kommt es auch heute wieder dazu das wir das Zünglein in der Waage sind das den Konflikt zwischen zwei Parteien ohne große Probleme auflösen kann. Eventuell liegt es aber auch daran das die Leute mit denen wir interagieren einfach verdammte Idioten sind und von Tuten und Blasen kein Plan haben und es daher extra einfach ist sich mit den Personen auseinander zu setzen. In Kurzfassung also, wir tun was jede andere vernünftige Person auch hätte tun können, aber da die örtliche Bevölkerung so weit ab vom Schuss der Intelligenz ist fällt uns leicht was Anderen nicht so leicht fällt. Dabei ist das Niveau der Idiotie in dieser seltsamen Welt irgendwie besonders. Es ist ja nicht so das die Menschen hier besonders dämlich sind, es ist nur so das sie komplett quer in ihren Gedanken stehen und nur unnötigen Quatsch erzählen während die Welt um sie herum explodiert.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 3, Aufnahme am 31.01.2022
+  ```
+
+##### #166
+
+* Titel: `Outer Worlds - #166 - [DLC2-#17] - die Rätselhecken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt irgendwo in Sachsen, gegenüber von einem Dinosaurierpark einen recht großen Irrgarten. Ich google das mal. Ahja, es handelt sich um den Irrgarten Kleinwelka zwischen Görlitz und Dresden, also ein wenig weit ab vom Schuss für die meisten Westdeutschen Mitbürger und/oder DACH Bewohner. Auf jeden Fall war ich dort einmal und vorher konnte ich mir einfach nicht vorstellen wie man sich in einem Labyrinth verirren kann. Insbesondere weil man in Spielen für gewöhnlich einen Fixpunkt in Form des Kompass und der Karte hat. Das macht es wesentlich einfach sich nicht zu verirren. In diesem Irrgarten hatte ich mich tatsächlich ein wenig verlaufen, aber am Ende kamen auch alle irgendwie an. Wir waren als Schulklasse da und es war ganz witzig weil man sich gelegentlich getroffen hat. Auf dem Webseitenbild sind kleine Kinder zu sehen, ich nehmen an das man die am Ende nie wieder findet wenn man die da loslässt. Aber das hier ist ein Spiellabyrinth, meine Orientierung ist also enorm. Immerhin gibt es hier zusätzliche Schwierigkeiten, in Kleinwelka hatte ich keine Landminen gefunden, das hätte das alles zu einer sehr fetzigen Angelegenheit gemacht.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 3, Aufnahme am 31.01.2022
+  ```
+
+##### #167
+
+* Titel: `Outer Worlds - #167 - [DLC2-#18] - das Zentrum des Labyrinths [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend ist es ein Ding das man immer in das Zentrum eines Labyrinths muss, irgendwie hatte ich mental immer die Annahme das man eigentlich durch ein Labyrinth durch will. Das kommt aber wohl ein wenig darauf an wo der entsprechende Irrgarten liegt. Mein erster Kontakt mit irgendwelchen verwirrenden Gängen war in Videospielen und in solchen befanden diese sich halt tief unter der Erde, dort reicht einfaches Durchkommen. Wenn die Dinger freistehenden sind ist das natürlich ein anderer Fall. Allerdings stellt sich ein wenig die Frage was passiert wenn man die Mitte erreicht hat. Weil theoretisch muss man ja den gesamten Weg wieder zurück laufen oder? Es sei den es gibt so etwas wie eine dritte Dimension, ein Tunnel oder eine Brücke die vom Zentrum woanders hin führt. Heute erreichen wir die Mitte und es war auch nicht besonders schwer, ich brauchte nur ein wenig Käse damit die gesamte Geschichte ein wenig flüssiger über die Bühne geht. Und am Ende erwartet mich sogar noch eine Enttäuschung, ist das nicht toll?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 3, Aufnahme am 02.02.2022
+  ```
+
+##### #168
+
+* Titel: `Outer Worlds - #168 - [DLC2-#19] - Spektrum Original [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Original einer Sache hat in der Regel einen gewissen historischen Wert. Ist der Gegenstand alt genug kann man daraus ableiten was seine ursprünglichen Erschaffer gedacht haben. Zumindest ein gewisses soziales Kommentar ist in der Regel möglich. Beim Spektrum Original müsste es sich theoretisch um irgendwelche Industrieabfälle handeln. Weil das ist der Ursprung der Firma. Wie dem aber auch sei, ich bin ziemlich dagegen das Getränk zu trinken. Verwirrend ist auch das es überhaupt ein Produkt gibt von dem man noch nie etwas gehört hat. Es handelt sich ja nicht um einen Prototypen sondern um ein Produkt das scheinbar nie auf dem Markt war aber dennoch den Ursprung der Marke darstellt. Alles in Allem ein wenig verwirrend. Wahrscheinlich ist es so wie die Sammlerin gesagt hat, ein Fehler den man versucht hat aus der kollektiven Geschichte zu löschen versucht hat. Leider wurde die entsprechende Flasche entwendet und wir müssen sie finden. Wo sei wohl sein könnte? Vielleicht bei einem treuen Firmenangestellten?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 3, Aufnahme am 02.02.2022
+  ```
+
+##### #169
+
+* Titel: `Outer Worlds - #169 - [DLC2-#20] - ein Hauch von Purpleberry [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind endlich wieder auf den Spuren der Hauptquest. Das bedeutet aber auch das alles was wir in den letzten Episoden getan haben gar nicht mehr so wichtig ist. Andererseits war es doch einmal eine schöne Abwechslung um mehr über die seltsame Welt zu erfahren die sich uns bisher geboten hat. Die komischen Leute die tatsächlich mit uns reden existieren aber weiterhin. Die Leute die nicht mit uns reden aber aus irgendwelchen Gründen noch am Leben sind werden diesen Zustand wohl nicht mehr lange beibehalten. Wir verfolgen also die Fußspuren von Halcyon Helen, für sie müssen wir uns zum Glück nicht mehr beeilen, mehr als Tot wird die Frau wohl nicht werden. Obwohl wohl einige Dinge dafür sprechen könnten das in nächster Zeit sich auch die Toten wieder regen. Wie lebendig sind die verschiedenen Mitarbeiter mit "kleinen Passagier" wirklich? Von dem was wir so von Außen sehen können scheint es mir nicht so das die Organe noch einfach funktionieren könnten. Zurück zum Thema, der Diskrepanzverstärker weißt mich heute ungefähr 1000 Mal darauf hin das er etwas gefunden hat. Das ist zwar sehr schön aber auf Dauer wäre ein wenig Varianz ganz schön gewesen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 3, Aufnahme am 02.02.2022
+  ```
+
+##### #170
+
+* Titel: `Outer Worlds - #170 - [DLC2-#21] - unschätzbare Forschung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir leben auf einer sterbenden Welt, zu beschäftigt damit Profite zu verfolgen, blind für den Sturm an Katastrophen in deren Mitte wir bereits sterben. Eine häufige Formeln die wie eine magische Beschwörung zitiert wird ist das man bestimmt noch einen Weg mit der Forschung findet um sich aus dem Problem hinaus zu bewegen. Nehmen wir einmal an dies ist tatsächlich der Fall. Es sollte unsere oberste Pflicht sein Bildung in allen Bereiche zu verstärken, wie in Zeiten des Krieges jede Person für den Dienst an der Waffe oder dessen Erhalt herangezogen wird müssten man logischerweise jede Person ausbilden, weiterbilden und befähigen. Jeden Winkeln finden, jede Möglichkeit ausschöpfen, langweilige Aufgaben, manuelle Arbeiten, alles was auch automatisiert werden kann automatisieren. Verwaltung verbessern, vereinfachen und jede Ressource darauf vereinen die wissenschaftliche Lösung für ein menschliches Problem zu finden. Könnten wir das wären wir aber gar nicht in der Situation in der wir uns jetzt befinden. Ich schlussfolgere also daraus das wir verloren sind. Oder aber wir haben richtig viel Glück weil die paar Wissenschaftler die wir noch haben wirklich eine Lösung finden die nicht zu viel kostet. Und jetzt stelle man sich einmal vor wie das in einer Gesellschaft aussieht die kritisches Denken einfach gar nicht ausbildet. Jedes Stück Forschung wird plötzlich unersetzbar. Und deswegen retten wir diese heute. Aber auch die Forscher sind nicht ohne Wert, nur manche Leute sehen das vielleicht das nicht.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 3, Aufnahme am 02.02.2022
+  ```
+
+##### #171
+
+* Titel: `Outer Worlds - #171 - [DLC2-#22] - Schneckenforschung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die ganze Zeit bin ich durch dieses Forschungslabor in der Hoffnung gesprungen irgendetwas über die komischen Parasiten herauszufinden die die ganzen Leute in ihren Hals und teilweise auch über den ganzen Körper verteilt haben. Am Ende stellt sich doch glatt heraus das ich deswegen nichts erfahren habe weil ich das Wichtigste von allen Laboren glatt übersehen habe. Das ist natürlich außerordentlich bedauerlich aber zum Glück war ich heute in der Lage diesen Lapsus wieder auszugleichen. Daher erfahren wir dann doch wesentlich mehr als ich ursprünglich zu finden gehofft habe. Verwirrend ist eigentlich nur noch warum niemand diese offensichtliche Auffälligkeit mit zumindest einigen Worten erwähnen will. Ich meine, die Veränderung ist ja nicht zu übersehen, oder hatten viele der anderen Leuten mit einer Schnecke an irgendeiner anderen Stelle ihres Körpers angefangen?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 4, Aufnahme am 07.02.2022
+  ```
+  
+  ##### #Nummer
 
 * Titel: ``
 

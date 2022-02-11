@@ -405,6 +405,38 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #25
+
+* Titel: `KotOR 2 - #25 - Droidenüberführung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man keinen festen Beruf nachgeht und nicht wirklich über nennenswerte Talente verfügt ist man leider gezwungen seltsame Jobs anzunehmen. Ich weiß nicht als was ein Jedi ohne Laserschwert und quasi keinerlei Verbindung zur Macht eigentlich qualifiziert. So wie es aussieht haben wir ja eine gewisse Veranlagung dazu Probleme mit Gewalt zu lösen und allem Anschein nach enden viele Tätigkeiten für die Ithorianer damit das wir Gewalt anwenden müssen. Und das nicht einmal weil die komischen Hippi-Xenos so gewalttätig sind sondern eher im Gegenteil. Ich würde mal behaupten das die friedliche Lebensweise der Herden dazu führt das andere Leute glauben das sie mit Gewalt ziemlich weit kommen. Und sie haben ja Recht. Ich frage mich wirklich wie es die Ithorianer es überhaupt geschafft haben jemals in den Weltraum zu kommen, andererseits kann man sich auch fragen wie es die Menschen in den Weltraum geschafft haben. Eigentlich sollte keiner der anwesenden Spezies es jemals so weit gebracht haben, ich würde daraus übrigens wieder einmal die Existenz einer viel zu netten Vorläuferzivilisation schlussfolgern die dann wahrscheinlich durch irgendeine Katastrophe ihr Ende gefunden hat. Das bringt uns auch wieder zu einem anderen Thema zurück, wir beenden heute einige Leben, weil natürlich jede Menge Zeug bei so einer Überführung schief geht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 4, Aufnahme vom 03.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #25
+
+* Titel: `KotOR 2 - #26 - Batono [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn Unrecht einfach zu viel wird kann es schnell passieren das auch eigentlich treue Mitläufer auf einmal ein Gewissen entwickeln. Bereitschaft Verbrechen zu begehen ist nicht absolut und ist definitiv graduell. Deswegen ist es auch notwendig auch als übler Overlord ein Mindestmaß an Anstand zu wahren. Klar hat man auch die absoluten Psychopathen in seinen Reihen die einfach alles tun und jegliche Moral komplett über Bord schmeißen. Das sind quasi Spezialisten in ihren eigenen Feld. Manchmal sind das auch die Leute die auch so noch relativ fähig sind aber verlassen kann man sich darauf wohl nicht. Da technische Spezialisten selten sind und vielleicht nur moralisch grau muss man sie wohl dann vor den krassen Geschichten bewahren. Diese grundlegende Stufe der Operationssicherheit hat die Czerka Corperation übrigens missachtet. Alternativ kann man etwaige Dissidenten natürlich auch überwachen und bei Bedarf über den Haufen schießen, aber das benötigt dann wieder zusätzliches Personal das Überwacht. Generell und überhaupt ist aber nicht alles so einfach wie es aussieht. Zu viele Freiheit und die Leute laufen zu den Bullen, zu wenig und es gibt sonst noch Probleme oder keiner findet sich mehr der richtig mit macht. Zum Glück ist noch nicht alles verloren wenn man einen Sänger in den eigenen Reihen hat, die Art und Weise wie viele Rechttsystem funktionieren ist meistens recht träge. Informanten könnten also noch unterwegs rausgenommen werden. Dieses Schicksal droht heute Batono, seines Zeichens Informant. Glücklicherweise scheint die Czerka auch hier wieder nicht die Spezialisten angeheuert zu haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 4, Aufnahme vom 03.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

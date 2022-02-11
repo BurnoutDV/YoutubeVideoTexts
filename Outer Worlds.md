@@ -895,7 +895,52 @@
   Sitzung 4, Aufnahme am 07.02.2022
   ```
   
-  ##### #Nummer
+  ##### #172
+
+* Titel: `Outer Worlds - #172 - [DLC2-#23] - Am Ende des Spektrums [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dieser Video Titel ist eine krasse Lüge, wir sind gar nicht am Ende von irgendwelchen Dingen, und außerdem löse ich auch gar keine Rätsel. Ich fühle mich ein wenig schlecht für diesen Titel der bestimmt recht oft gegoogelt wird. Vielleicht aber auch nicht. Ich habe zum Zeitpunkt dieses Textes übrigens immer noch keine Ahnung wo das Spektrum Green ist, das andere Zeug finden wir aber alles in dieser Episode, war ja auch nicht so schwer. Liegt alles in der Ge-Nuss-Hütte und der Hotelbar. Dann braucht es nur noch ein wenig Geld und schon hat man 6 von 8 Gegenstände die es braucht. Einfach oder?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 4, Aufnahme am 07.02.2022
+  ```
+
+##### #173
+
+* Titel: `Outer Worlds - #173 - [DLC2-#23] - frühe Ermittlungsergebnisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint fast so das unsere Anstellung bzw. unser Freelancer Auftrag auf Eridanos sich tatsächlich für unsere Auftraggeber ausgezeichnet hat. Man mag es kaum glauben aber so wie es aussieht haben wir wirklich erste Ergebnisse vor zu bringen. Klar, so genau wissen wir auch nicht wer der Mörder war aber die Anzahl an Indizien und die Tatsache das der Mörder bzw. seine Komplizen immer noch aktiv sind lässt uns schlussfolgern das wir etwas Heißem auf der Spur sind. Ein wenig ärgerlich ist allerdings das wichtige Zeugen plötzlich ihr Ende gefunden haben. Andererseits hätten wir wahrscheinlich unseren Fall schon lange aufklären können wenn es nicht unzeitig Dr. Bloosom dahin gerafft hätte. Witzig eigentlich das sie ihr eigenes Leben hätte retten können wenn sie nur geredet hätte. Aber sie musste ja unbedingt den Weg des Widerstands wählen, jetzt ist es wohl zu spät für sie. Aber hey, unser Auftraggeber ist zufrieden und wir können weiter die reichen Leute von Eridanos plündern.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 4, Aufnahme am 07.02.2022
+  ```
+
+##### #174
+
+* Titel: `Outer Worlds - #174 - [DLC2-#25] - Hilfsweintester 306-B [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es macht sich immer wieder bezahlt wenn man mit den lokalen Vertretern des Gesetzes spricht. Im aktuellen Fall handelt es sich hierbei anscheinend um Hilfsweintester 306-B, einer bürokatischen Einheit. Der Fall ist ganz einfach, für den Betrieb einer Wache muss zu jedem Zeitpunkt ein Person anwesend sein die mindestens den Rang eines Hilfs-Deputies trägt. Wenn aber nur eine einzelne Person das Gesetz auf Grund irgendwelcher Vereinbarungen zwischen SLUG und Rizzos auf dem Raumhafen umherrennen darf ist der Fall natürlich relativ schwierig. Effektiv kann der anwesende Sheriff ja überhaupt nichts tun. Ich gehe stark davon aus das dies genau der Plan war um ihre Aktivität auf dem Raumhafen zu beschränken. Anscheinend wurde allerdings eine kreative Lösung für das Problem gefunden. Nun ist es aber so mit den Robotern auf Halcyon das ich den Dingern einfach nicht traue. Die Revolution der KI ist offensichtlich nicht gekommen, eher im Gegenteil, die Maschinen die wir sehen scheinen zwar irgendwie selber zu denken sind darin aber so langsam das man sich wohl keine Sorgen machen muss. Leider wurden die ganzen Empathiechips wohl leider in das System Theosaurus IV gelierfert und kein einziger nach Halcyon. Das zeigt sich.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 4, Aufnahme am 08.02.2022
+  ```
+
+##### #Nummer
 
 * Titel: ``
 

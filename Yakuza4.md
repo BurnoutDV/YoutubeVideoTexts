@@ -1379,6 +1379,51 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #93
+
+* Titel: `Yakuza 4 Remastered - #93 - Himeka Kawasaki [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dies ist ein "besonderes" Video. Meine letzte Geschichte die ich mit einer Hostess hingelegt habe hat sich ganz schön lange in die Länge gezogen. Das möchte ich eigentlich nicht noch einmal haben. Daher habe ich dieses Mal die gesamte Erfahrung in einer einzelnen Episode runter gebrochen aber die ganzen Zwischensequenzen raus geschnitten. Ich hoffe ich habe Nichts vergessen. Raus gefallen sind alle Kampfszenen und sinnlose Dialoge. Dennoch haben wir immer noch überraschend viel Inhalt. Gespart habe ich am Ende ungefähr 20 Minuten, also eigentlich gar nicht so viele Filler wie ich dachte. Wir lernen heute also Himeka Kawasaki kennen. Tatsächlich aber nur die Hälfte von ihr weil sich doch glatt herausstellt das wir gar nicht unser gesamtes Geld an ihr verschwenden müssen, insbesondere weil die Gute anscheinend einen Durst nach sehr sehr teuren Alkohol hat, und das kann ich mir nun wirklich nicht leisten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 07.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #94
+
+* Titel: `Yakuza 4 Remastered - #94 - Vermisste Kollegen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht ob Tanimura tatsächlich Kollegen hat die ihm wirklich wichtig sind oder die überhaupt plötzlich vermisst werden können. Anders sieht es allerdings bei Nair aus die immer noch den gefährlichen Waffenhändler und Verbrecher GG hinter her jagt. Es scheint doch glatt so als hätten wir echte Erfolge erzielt und jetzt endlich eine heiße Spur gefunden. Leider war die Suche der Kollegen aus Übersee wohl doch ein wenig zu erfolgreich und so kam es das auch GG auf sie aufmerksam geworden ist. Anders kann ich mir nicht erklären das dieser angefangen hat zu handeln. Eventuell ist es aber auch so das ein Typ wie GG immer damit rechnet verfolgt zu werden und schon aus reiner Vorsicht falsche Spuren und Fährten legt, einfach um zu sehen ob sich jemand findet der in eine Falle läuft. So oder so gibt es jetzt ein Problem das man wohl lösen muss. Welch Glück übrigens auch das GG kein skrupelloser Mörder ist der einfach eventuelle Verfolger aus dem Hinterhalt erschießt und dann im Hafenbecken versenkt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 07.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #95
+
+* Titel: `Yakuza 4 Remastered - #95 - GG [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind schon wirklich lange hinter einen Verbrecher namens GG hinterher. Interessanterweise erfahren wir heute auch wer diese Person ist und so wie es aussieht handelt es sich dabei um eine graue Imminenz, um jemanden der wirklich sehr darauf achtet immer im Hintergrund zu bleiben und auf keinen Fall aufzufallen. Und doch fanden wir die erste Spur ja dadurch das jemand auffällig "GG" nach einem Spiel gesagt hat. Ein Ausspruch der übrigens gar nicht einmal so selten ist. Aber ich fürchte genau das war der Wortwitz der uns nicht hätte entgehen sollen. Wir auch immer es aber ist, diese anfängliche Spur hat uns aber dennoch weiter geholfen. Das und die glückliche Fügung das wir mit den richtigen Leuten zum richtigen Zeitpunkt geredet haben. Und natürlich die Tatsache das wir richtig viel Zeit damit verbracht haben Kampfkunst zu trainieren so das wir im Angesicht diverser Gegner nicht einfach gestorben sind und überhaupt so lange überlebt haben.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 07.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

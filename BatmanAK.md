@@ -1118,6 +1118,55 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #70
+
+* Titel: `Batman Arkham Knight - #70 - Fledermausmann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese Episode hat erstaunlich wenig Inhalt. Technisch gesehen kann man nach 10 Minuten aufhören, der Rest besteht nur noch darin wie ich ein wenig umher laufe und Dinge  tue. Technisch gesehen rette ich sogar einen Feuerwehrmann den ich spontan irgendwo gefunden habe aber das wollte ich gar nicht so wirklich tun. Aber hey, Stück für Stück spielen wir dieses Spiel durch.
+  
+  0:00 - Gameplay
+  7:12 - Biografie: Man-Bat
+  7:53 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 08.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #71
+
+* Titel: `Batman Arkham Knight - #71 - luftige Reste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute in der Findung  der schlechtmöglichsten Titel: Resterampe. Dies ist sie, die "loose Fäden", "andere Quests" oder "letzte Rätsel" Episode. Sie kommt immer und ich erinnere mich das ich erst neulich einen ähnlichen Text geschrieben haben, in dem Verlangen zumindest noch ein wenig kreativ in der Beschreibung zu sein. Die konkrete Sachlage ist die, ich habe in meinem Guide in dem alle Rätsel aufgelistet sind gelesen das es auf dem Luftschiff noch ein Rätsel gibt, habe aber nicht geprüft wo genau das ist weil ich es natürlich selber finden wollte. Daher breche ich auf mit dem Willen etwas zu finden aber da ich natürlich nicht so genau weiß wo ich überhaupt hin wohl laufe und laufe ich. Interessant ist übrigens das ich am Ende tatsächlich noch etwas finde das ich mit einer Fähigkeit die ich auf keinen Fall vorher haben können löse aber das absolut Nichts bringt. Das Einzige Neue das ich finde sind irgendwelche Insekten die mir doch egal sind, sie zählen nicht mal als Riddler Rätsel. Das ist irritierend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 08.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #72
+
+* Titel: `Batman Arkham Knight - #72 - Püppchensalon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe zu es war mir genug und eigentlich dachte ich auch das ich noch richtig viele Leichen finden musste. Offensichtlich war dem nicht so und gefehlt hat wohl nur noch eine einzige Leiche. Die finden wir dann natürlich heute und können damit auch schlussfolgern wer für unsere Morde verantwortlich ist. Mir ist ein wenig rätselhaft wie unser Täter, ein gewisser Herr Pyg, überhaupt in der Lage war in einer solchen Nacht so weit zu kommen das verschiedene Leichen innerhalb von Gotham an ganz verschiedenen Orten abgestellt werden konnten. Generell und überhaupt sind die logistischen Leistungen der verschiedenen Bösewichte wirklich beachtenswert. Es scheint zwar so das der Arkham Knight die Superschurken auch einzeln angesprochen hat aber das verhindert ja dennoch nicht das die Opfer noch angebracht, die Musik aufgebaut und generell und überhaupt alles vorbereitet werden muss. Der Kampf gegen unseren guten Täter ist übrigens relativ nervig. Allerdings stelle ich doch sehr in Frage das man nicht in der Lage sein sollte Angreifern solange die Knochen zu brechen bis sie sich nicht mehr bewegen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 08.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

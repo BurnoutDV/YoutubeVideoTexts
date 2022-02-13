@@ -940,6 +940,36 @@
   Sitzung 4, Aufnahme am 08.02.2022
   ```
 
+##### #175
+
+* Titel: `Outer Worlds - #175 - [DLC2-#26] - diskrete Anfrage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Finstere Geschäfte sind immer ein wenig subtil und man hat eine gewisses Umhertanzen bis man tatsächlich auf ein Thema kommt. Man könnte auch von einem Katz-und-Maus Spiel reden. Keine Seite möchte ihre wahren Ansichten offenbaren bevor die andere nicht klar gemacht hat das sie sich in der selben Gruppe befindet, das kann sie aber nur indem sie in Vorleistung geht. Logischerweise muss also irgendeine Seite zumindest genügend Signale schicken damit der Fall klar. Diese Vorleistung zu bringen kann natürlich riskant sein und so geht das Alles ein wenig hin und her. Wer hat auch gesagt das es einfach ist subversiv zu handeln. Diese diskreten Anfragen kann man natürlich am Besten über dritte Personen abwickeln. Davon erfahren wir heute ein wenig. Außerdem finden wir heraus dass es wohl einen gewissen Schwarzmarkt auf dem Raumhafen gibt, das überrascht mich überhaupt nicht. Jetzt stellt sich nur noch die Frage wie wir davon profitieren können.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 4, Aufnahme am 08.02.2022
+  ```
+
+##### #176
+
+* Titel: `Outer Worlds - #176 - [DLC2-#27] - die Schmuggler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind hier auf einen Raumhafen, wie wir später noch heraus finden sind die Regeln wie SLUG ankommende Raumschiffe behandelt höchst interessant und generell und überhaupt scheint es hier gute Gründe zu geben einfach einmal ein paar Waren von A nach B zu schmuggeln. Die Notwendigkeit ist auf jeden Fall da und es sollte niemand verwundern das Verbrechen an einen Ort geschehen der solche Verbrechen quasi erst richtig lukrativ macht. Interessant ist aber auch das eine der Personen die hier an der Schmuggeloperation beteiligt ist durchaus nicht fähig ist. Sogar so unfähig das es eine längere Akte über den Vorfall gibt. Auch interessant ist das aktuelle Lande und Startverbot auf Eridanos. Einige der anwesenden Händler und Schmuggler haben bestimmt nicht das Leichteste Leben wenn sie ihre Waren nicht verschiffen können. So wie ich die Firmen kenne macht sich natürlich auch niemand darum sorgen was aus den Leuten wird die jetzt quasi auf Eridanos gestrandet sind.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 4, Aufnahme am 08.02.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1167,6 +1167,41 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #73
+
+* Titel: `Batman Arkham Knight - #73 - Upgrade Mark IV [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wahrlich erstaunlich wie viele Upgrades wir eigentlich machen können, und das in einer Nacht, da spricht ja irgendwie viel dafür das uns der gute Lucius uns wichtige Technologie vorenthalten hat damit er in Zeiten der Not glänzen kann. Anders kann ich mir wirklich nicht erklären wie man innerhalb von wahrscheinlich nicht einmal einer Stunde all die Dinge getan hat die wir in das Batmobil einsetzen. Ich meine, alleine die Herstellung der entsprechenden Komponenten die natürlich sofort funktionieren und ohne große Anstrengung oder Funktionstest nahtlos in das bisherige Design der Waffen gehen schreien schon nach Vorbereitung oder? Und das wieder rum heißt das die Technologie schon irgendwo auf Stand-By stand und jetzt einfach nur aktiviert wird. Ich könnte mich gnädig stimmen lassen wenn heraus käme das es sich um experimentelle Tech handelt die man vorher halt aus Sicherheitsgründen nicht eingebraut hatte.
+  
+  0:00 - Gameplay / Anmoderation
+  0:20 - Vorlesen: Professor Pyg
+  1:13 - Audiologs
+  7:05 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 08.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #74
+
+* Titel: `Batman Arkham Knight - #74 - Oswald Cobblepot [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Anzahl der Verbrecher die wir in einer Nacht festnehmen war noch nie höher, das liegt allerdings auch daran das uns der Arkham Knight gewaltige Möglichkeiten liefert, anscheinend hat er ja die gesamte Bande zu sich eingeladen und daher finden sich grade alle an einem Ort, es ist ein wenig wie damals in Arkham City. Damals ist dann auch der Joker gestorben, ich halte es aber auch nicht für ganz unwahrscheinlich das dieses Mal noch mehr Leute als nur Talia und der Joker sterben. Die beiden auf jeden Fall nicht noch einmal, die sind ja schon tot, obwohl, Zweiterer hätte durchaus noch einige Chancen auf ein weiteres Leben oder? Wie dem aber auch sei, das Problem das auf der Hand liegt ist der Pinguin. Der stört immer noch den öffentlichen Frieden mit seinen Waffenlieferungen und das müssen wir wohl langsam mal unterbinden, deswegen finden wir heute sein letztes Lager, sprengen alles und finden danach den fetten Vogel selbst. Kann ja wohl nicht so schwer sein. Tägliche Erinnerung übrigens daran das ich es irgendwie schwer glaubhaft finde das irgendjemand dem Typen folgen sollte. Klar, er hat so ein paar Kontakte aber die Führungsfähigkeiten scheinen mir doch jetzt ziemlich übertrieben. Warum gibt es im Batman Universum eigentlich keinen Bösewicht der nicht irgendwelche komischen Quirks hat sondern einfach nur kompetent ist. Also quasi ein normaler Mafiosi.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 08.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

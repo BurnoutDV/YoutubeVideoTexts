@@ -437,6 +437,54 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #27
+
+* Titel: `KotOR 2 - #27 - Einblick im Schwarzmarkt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich gibt es auf einer Station wie Telos einen Schwarzmarkt. Wie wir in der letzten Episode erfahren haben gibt es ja Dinge die nicht erlaubt sind. Logischerweise gibt es auch einen schwarzen Markt für solcherlei Artikel. Etwas verwirrend ist allerdings das es sich nur auf Motivikationen bezieht. Wir erinnern uns, die kann man auch selber herstellen, sind also anscheinend kein Hexenwerk. Oder man kauft die entsprechenden Einbauten einfach selber. Wie dem aber auch sei, natürlich sind nicht nur bestimmte Waffen verboten sondern auch Ausrüstungen oder Bauteile die vielleicht auch aus politischen Gründen nicht geduldet werden. Das der örtliche Schwarzmarkthändler sein Lager direkt neben einem normalen Waffenhändler besitzt erscheint mir aber schon ziemlich seltsam. Wenn man übrigens mal ein wenig raus zoomt ist es eigentlich schon komisch das man in irgendwelchen zivilisierten Stationen überhaupt mit einer Waffe herumrennen darf. Letztendlich ist das hier doch eine Zivilgesellschaft oder nicht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 4, Aufnahme vom 03.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #28
+
+* Titel: `KotOR 2 - #28 - Tauschhändler Büros [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einem anderen Spiel das ich parallel spiele gibt es auch immer Büros der lokalen Verbrecher. Wenn die lokalen Gegebenheiten es zu lassen ist das auch einfacher als sich in irgendwelchen Hinterzimmern oder Spelunken zu treffen die man nur mit irgendwelchen Geheimzugängen erreicht oder tonnenweise Personal brauchen damit man die Kunden richtig auf ihre Authentizität prüfen kann. Die Tauschhändler auf der Citadel Station haben es offensichtlich geschafft sich so zu etablieren das wir sie direkt besuchen können. Ärgerlicherweise suchen sie aber auch nach uns, direkt durch die Tür zu laufen könnte unter Umständen also nicht die beste Idee sein. Generell und überhaupt kommt auch ein wenig die Frage auf wie wir moralisch verteidigen wollen das wir mit der Intention zu töten rein gehen. Aber vielleicht lässt sich die Geschichte ja so drehen das die anderen zu erst schießen, dann ist es ja nur Selbstverteidigung. Oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 4, Aufnahme vom 03.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #29
+
+* Titel: `KotOR 2 - #29 - unersättliche Ithorianer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir handeln viel im Namen des Guten und in der Hoffnung das wir die Welt als Ganzes irgendwie zu einem besseren Ort machen können. Das läuft aber auch darauf hinaus das wir nicht immer nach einer Belohnung fragen können obwohl wir natürlich wissen das die andere Seite durchaus über Finanzen verfügt diese vielleicht aber eher nicht zahlen möchte weil sie nicht so viel davon hat. Nun ist der Fall aber so das man zwischen privat-reich und firmen-reich unterscheiden muss. Gesellschaften, Unternehmungen und so weiter hantieren mit Mengen an Finanzen herum die für eine Privatperson durchaus für ein ganzes Leben reichen könnten. Es ist daher ein wenig fraglich warum genau die Ithorianer nicht in der Lage sind uns richtig zu bezahlen. Klar, die Wiederherstellung eines Planeten kostet natürlich eine Menge Geld aber diese Mengen sollten so gewaltig sein das die Bezahlung eines Freelancers einfach in der Porto-Kasse verschwinden könnte. Tut es aber nicht, stattdessen kriegen wir nur noch mehr Anfragen. Langsam nervt das.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 5, Aufnahme vom 09.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

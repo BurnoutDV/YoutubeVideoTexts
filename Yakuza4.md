@@ -1424,6 +1424,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #96
+
+* Titel: `Yakuza 4 Remastered - #96 - Stumme Schreie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich heißt die heutige Mission "Voiceless Cries" aber wie ich das halt tue übersetze ich solche Dinge natürlich immer so das sie Sinn ergeben. Die Gesamthandlung ist schnell zusammen gefasst. In der Hoffnung auf ein besseres Leben begeben sich Immigranten aus anderen asiatischen Ländern nach Japan, der Klassiker ist das man am Anfang ein legales Visa hat mit dem man beispielsweise nicht arbeiten darf und dann irgendwie, mit dem Fuß in der Tür, weitermacht. Das führt oft zu kriminellen Geschichten und insbesondere für Frauen in die Prostitution. Insgesamt also alles nicht so schön. Manchmal werden diese illegalen Immigranten erwischt und dann zurück in ihr Heimatland deportiert. Weil die Behörden aber keine Anschrift kennen kann es durchaus vorkommen das Familienmitglieder oder nur Kinder zurückbleiben. Diese Kinder haben nicht wirklich eine Perspektive, in ihren Heimatland kennen sie sich nicht aus aber da wo sie wohnen will sie eigentlich niemand haben. Eine solche Lage ist insgesamt ein Problem. Ich habe keinen Ansatz was man tun könnte, alle Grenzen zu öffnen würde das Problem nicht wirklich lösen aber eine zu harte Handhabe definitiv auch nicht. Insgesamt ist es wohl ein Problem das nicht von einem Land alleine gelöst werden kann. Dies ist definitiv eine der nicht so lustigen Yakuza Episoden.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 07.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #97
+
+* Titel: `Yakuza 4 Remastered - #97 - Treffen mit Katsuragi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sich mit einem Yakuza zu treffen muss nicht zwingend riskant sein, selbst als Gesetzeshüter der sich nicht bestechen hat lassen kann es durchaus Gründe geben ein Mitglied des organisierten Verbrechens zu sprechen das nicht direkt mit seiner Position zu tun oder einen selbst in Gefahr bringt. Letztendlich handelt es sich auch nur um eine Organisation die mit der Gesellschaft in irgendeiner Kapazität interagiert. Diese Interaktion ist wahrscheinlich im Gesamten eher negativ für ein freies Volk und für den Volkswillen, im Speziellen kann es aber durchaus lokale Communities stärken oder andere Verbrecher abwehren. Kurz um, für das Individuum könnten sich durchaus Vorteile durch die Organisation ergeben wo sonst nur Willkür herrscht. Kann. Und dann gibt es da noch Katsuragi, wir wissen das er weiß was er getan hat und versuchen jetzt Informationen aus ihm heraus zu kriegen im Handel für Informationen die wir eigentlich gar nicht so richtig haben. Ich fürchte das man einem Mann wie den de-facto Anführer der Ueno Seiwa nicht trauen kann. Tanimura kann dies theoretisch wissen aber vielleicht ist ihm das Außmaß der Macht die ein Yakuza in seinem Heimatgebiet aufbringen kann nicht bewusst. An Tanimuras Stelle hätte ich mich auf jeden Fall an einem anderen Ort getroffen als an dem an dem die Yakuza wohl am meisten Macht haben. Die Tatsache das er andauernd Lob dafür verteilt hat so weit vor raus zu denken sollte auch merkwürdig erscheinen oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 07.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

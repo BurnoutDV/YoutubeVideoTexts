@@ -1454,6 +1454,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #98
+
+* Titel: `Yakuza 4 Remastered - #98 - eine heiße Spur [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Tanimura hat offensichtlich alle Möglichkeiten ausgeschöpft die er in Betracht ziehen konnte, generell und überhaupt hat ihn vor allen Dingen der Zufall bis hier her geholfen. Irgendwann muss aber auch mal Schluss sein, und der Punkt ist jetzt gekommen. Da wir also nicht mehr auf verrückte Zufälle hoffen können die uns hier irgendwie weiter bringen braucht es jetzt jemand Anderen. In diesem Fall ist es jemand mit dem man nicht gerechnet hätte, jemand der Ahnung hat, jemand der weiß wie der Hase läuft und wie was man tun muss wenn man wichtige Daten aus der Vergangenheit der Tokioer Polizei haben möchte. Wie praktisch eigentlich das alles niedergeschrieben wurden, andernfalls würden wir jetzt echt auf dem Trockenen sitzen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 07.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

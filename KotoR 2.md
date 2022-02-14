@@ -485,6 +485,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #30
+
+* Titel: `KotOR 2 - #30 - der große Hacker B4-D4 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wieder einmal so eine Episode. Heute "hacken" wir wieder einmal etwas und mit Hacken meine ich natürlich das wir eine Techniker bestechen uns die Zugangscodes für etwas zu geben um danach eine relativ komplexe Aufgabe die aber vollkommen innerhalb der Handlungsparameter einer Maschine liegt zu vollziehen. Wir nutzen keine Schwachstelle aus, auch Buffer-Overflows nutzen wir nicht aus und wir musste nicht einmal Zero-Day Exploits irgendwo auf dem Schwarzmarkt ankaufen. Remote-Code Executions waren tatsächlich auch nicht möglich weil das System das wir heute erkunden Air-Gapped ist, ein wichtiges Sicherheitsfeature, aber nur wenn die Fleischsäcke die vor der Tür stehen auch ihrer Aufgabe nach kommen würden. Selbstverständlich haben wir für all diese Hindernisse vorgesorgt und deswegen kommen wir ohne Problem hinein. Haben wir irgendwelche Sicherheitslücken ausgenutzt? Nicht wirklich? Haben wir gewalttätig irgendwelche Sicherheitssystem außer Kraft gesetzt? Überhaupt nicht, stattdessen haben wir einen uralten Schlüssel benutzt, er heißt Geld und kann Tür und Tor offen. Klar wäre es irgendwie befreiender wenn man wüsste das wir dies alles mit purer Fähigkeit erreicht haben, aber manchmal kann man einfach nicht alle Grenzen überwinden. Zumindest nicht so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 5, Aufnahme vom 09.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -970,6 +970,35 @@
   Sitzung 4, Aufnahme am 08.02.2022
   ```
 
+##### #177
+
+* Titel: `Outer Worlds - #177 - [DLC2-#28] - Sedrick Kincannon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt einige Hauptverdächtige in unserer Ermittlung, zum Beispiel jene Leute mit Macht die maßgeblich für Entscheidungen auf Eridanos verantwortlich sind. Bisher haben wir uns ziemlich zurückgehalten und eher die, sagen wir einmal B-Promis, befragt. Dabei kamen zwar auch einige interessante Informationen herum aber die große Bosse haben eventuell einige Einsichten und den Überblick über Dinge die wir woanders eher nicht erhalten können. Der gute Sedrick ist zum Beispiel irgendwas Anführer von SLUG und damit auf jeden Fall jemand der viel zu viele Dinge weiß. Details erfahren wir aber bestimmt sobald wir die richtigen Fragen stellen. Ein Mann wie Sedrick hat natürlich auch Erfahrung in Worten und wird wohl kaum offensichtliche Fehler machen, aber vielleicht können wir ja einige Diskrepanzen auffinden die  der mechanische Diskrepanzverstärker nicht so leicht findet. Wir sind quasi ein organischer Diskrepanzverstärker.
+  
+  0:00 - Gameplay
+  11:20 - Vorlesen: Dissidentenkönigin Teil 2
+  12:24 - Gameplay
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 4, Aufnahme am 08.02.2022
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

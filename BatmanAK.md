@@ -1202,6 +1202,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #75
+
+* Titel: `Batman Arkham Knight - #75 - Thomas "Hush" Elliot [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gelegentlich habe ich ein wenig das Gefühl das ich einfach nicht genügend in der Batman Welt drin bin, auf der anderen Seite gibt es gefühlt zwanzig verschiedene Welten in denen die Geschichte stattgefunden hat und immer gibt es halt einen maskierten Fledermausrächer der auch einen Sidekick namens Robin hat aber davon einmal abgesehen ist der Rest variabel. Wie eine ständige Aneinanderreihung von Fanfictions in denen die Namen zwar gleich sind aber die einzelnen Details immer anders, manchmal mehr, manchmal weniger. Zum Beispiel finden sich eigentlich immer Commisioner Gordon, der Joker und Harvey Dent wieder. Auch der Butler, ein gewisser Millionär namens Bruce Wayne und neuerdings wohl auch immer eine Harleen Quinzeel wieder. Ein wenig obskur aber nicht ganz so selten sind dann Leute wie der Pinguin, dieser Black-Mask Typ, Deadshot und irgendwelche Typen von der Mafia. Mr. Freeze haben wir jetzt in den Spielen oft gesehen aber ich würde vermuten er kommt normal gar nicht so viel vor. Und dann haben wir da noch Charaktere von denen ich noch nicht gewusst habe das sie existieren. Einer dieser Personen ist zum Beispiel Hush. Batman spricht von ihm als ob er ihn kennen würde, aber ich habe noch nie irgendetwas von einer solchen Person gehört.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 08.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

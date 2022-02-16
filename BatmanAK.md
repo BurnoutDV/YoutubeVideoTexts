@@ -1217,6 +1217,40 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #76
+
+* Titel: `Batman Arkham Knight - #76 - Azrael [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Batmans aktueller Verbrauch an Mitstreitern ist aktuell ein wenig hoch. Das ist außerordentlich ärgerlich wenn man bedenkt das die Produktion neuer Begleiter eine Weile dauern könnte. Menschen brauchen Zeit um richtig ausgebildet zu werden, Anleitung und schlimmer noch, sie brauchen einen Antrieb um sich auf einen Einzelgänger wie Batman einzulassen. Klar, die Fledermaus betont immer wie selbstständig er doch ist und alles alleine macht, am Ende vertraut er aber auch auf diverse Helfer. Eine große Eigenschaft menschlicher Gesellschaft, niemand kann ganz alleine bestehen. Als Einzeltäter ist man immer irgendwie im Nachhinein, es fängt ja schon beim Körper an, keine Backups, die Notwendigkeit zu schlafen und andere Nachteile die ein alleiniges Vorgehen riskant machen. Wenn man sich aber entscheidet Unterstützung hinzuzuziehen kommt man aber in die anderen alten Probleme: Vertrauen. In einer Welt wie dieser, wen kann man schon komplett vertrauen? Wenn kann man zutrauen an der eigenen Stelle zu stehen und so zu handeln wie man selbst? Ist die Antwort Azrael?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 08.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #77
+
+* Titel: `Batman Arkham Knight - #77 - Michael Lane [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode haben wir Azrael kennen gelernt, wird Zeit das wir jetzt auch die andere Seite der Medaille kennen lernen. Der Typ heißt anscheinend Michael Lane, wahrscheinlich verwandt oder verschwägert mit Jone McLane aber so genau kann man das dann auch nicht wissen. Wo mir grade auffällt, wenn der Die Hard Typ John McLane heißt dann ist Lane bestimmt auch ein Name der ursprünglich irischen Ursprung hat, was wiederum bedeutet das irgendwann jemand beschlossen haben muss das das Mc da weg muss. Ich meine mich zu erinnern das es früher nicht nur aktiven Rassismus gegen Leute mit dunkler Hautfarbe sondern auch gegen Iren, Italiener und eigentlich alles gab. Manchmal frage ich mich wirklich wo die Grenze gezogen wird in der Menschen versuchen sich von einander abzugrenzen. Selbst wenn alle eine graue, uniforme Masse wären würden sie wahrscheinlich noch etwas finden das sie von einander abgrenz um Gruppen zu bilden. Nun, zurück zum Thema, der gute Ex-Cop Lane wurde wohl aus dem Dienst entlassen weil er sich das ein oder andere Upsi geleistet hat. Das ist eigentlich recht beeindruckend wenn man sich anguckt womit die Ami-Cops sonst so durchkommen. Aber wer weiß, vielleicht ging es ja gegen die eigenen Kollegen oder es gab einen Vorfall der aus politischen Gründen nicht weg zu diskutieren gab, man kann ja nicht immer alles in eine Akte herauslesen. Auf jeden Fall reicht mir nicht das er nur irre geworden ist, das trifft ja auf die halbe Menschheit zu. Die restliche Zeit springen wir übrigens heute umher, aber ich nutze einmal den Anlass des Namens viel darüber zu schreiben als wenn ich sinnlos durch die Gegend fliege.
+  
+  0:00 - Gameplay
+  5:05 - Biografie: Azrael
+  5:48 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 08.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

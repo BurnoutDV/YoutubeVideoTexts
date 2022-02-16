@@ -1469,6 +1469,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #99
+
+* Titel: `Yakuza 4 Remastered - #99 - Kapitel 4: die Ehre eines Ermittlers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein neues Kapitel, und da ich natürlich schon einige Episoden weitergespielt habe weiß ich auch was als Nächstes Alles Schönes kommt. Ich hatte einmal gelesen das der große Trick intelligente Charaktere zu schreiben darin liegt länger nach zu denken. Man komprimiert quasi die eigene geistige Fähigkeit auf weniger Zeit als normal und hofft das das schnelle Denken ausreicht um Intelligenz und Scharfsinn gut rüber zu bringen. Dies wird wohl nicht in jedem Fall klappen aber ich kann mir vorstellen das der Ansatz recht vernünftig ist. Oder man schreibt irgendwo ab. Mit dem Wissen das du, lieber Zuschauer, vielleicht noch nicht hast, kann ich jetzt also so tun als wüsste ich Dinge. Die Sachlage ist wie folgt. Der Titel ist ja "Die Ehre eines Ermittlers". Wir wissen das Tanimura alles tun will um herauszufinden was damals, vor 25 Jahren passiert ist. Für diese Ermittlung ist er durchaus bereit die Grenzen des normalen Dienstbetriebes zu durchbrechen und dafür zu sorgen das die Dinge ein wenig außerhalb der Vorschriften ablaufen. Das gebietet seine Ehre, man könnte auch sagen das sich Tanimura dem Gesetz verbunden fühlt, nicht den Worten des Gesetzes selbst. Oder aber im Titel geht es um einen ganz anderen Detektiv.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 14.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #100
+
+* Titel: `Yakuza 4 Remastered - #100 - brennende Brücken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Yakuza Spiele wurden von Profis übersetzt, Menschen die unter Umständen ziemlich viel Geld dafür erhalten Dinge gut zu übersetzen. Das Japanische ist da definitiv keine leichte Aufgabe und ich vermute mal so in den Raum das es in dem Bereich auch nicht all zu viele Budget-Übersetzer gibt die ihre Arbeiter vielleicht weniger als perfekt machen. Ich habe jetzt also die leichte Aufgabe von Englisch ins Deutsche zu übersetzen, eine Aufgabe die quasi jedes Kind erfüllen kann. Wenn das Ganze live und sofort stattfinden soll wird es vielleicht ein wenig schwieriger aber immer noch kein Problem. Durch die zunehmende Anglisierung der deutschen Sprache übernehmen wir auch Sprichtwörter in Deutsche die ursprünglich eigentlich nicht funktioniert haben. Ein beliebtes Beispiel ist zum Beispiel "make sense" bzw. "Sinn machen". Sinn tut nichts und stiftet sich auch nicht selbst, Sinn wird ergeben. Und doch, Sinn machen funktioniert, auch ohne Anführungszeichen. Oder wie der Jugendradiosender Fritz einmal sagte: "Sprache lebt Alter!". "to burn bridges" bedeutet das man alles zurücklässt und unter Umständen auch die Hinterlassenen gegen sich aufbringt. In der Regel ist gemeint das man sich mit den Leuten von Einst überworfen hat. Allgemein wird davon abgeraten alle Brücken einzureichen. Wir haben es mit einem Verbrecher namens "Bridge" zu tun, "burning Bridges" ist also hier eine doppeldeutige Anspielung auf diese Tatsache die zu übersetzen ich nicht in der Lage bin weil ich nur über mittelmäßige linguistische Fähigkeiten und Kreativität verfüge. Und doch ist es die sinngemäße Übersetzung des englischen Titels..die leider auf Deutsch absolut keinen Sinn ergibt. Und hier, meine weiblichen und männlichen Wesen, haben wir den Grund warum man Übersetzern Geld bezahlt und nicht irgendwelchen Kids Schokoriegel gibt. Schlimmer noch, ich kriege nicht einmal Schokoriegel, Passionsprojekt heißt dann wohl das Zauberwort.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 14.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

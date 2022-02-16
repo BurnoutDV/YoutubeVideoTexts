@@ -501,6 +501,38 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #31
+
+* Titel: `KotOR 2 - #31 - ein Stück der Macht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Chouder Cora hat ein Problem. Er ist ein Charakter in einen Rollenspiel von 2004. Das bedeutet ziemlich viele schlimme Dinge werden geschehen, unter Umständen, und dafür kann ich absolut keine Garantien abgegeben, manche Dinge werden vielleicht sogar mehrfach und wieder und wieder geschehen, in kleinen Variationen weil irgendjemand sehen möchte wie sich die Realität verändernd wenn man bestimmte Dinge tut. Außerdem hat er keinen richtigen Zugriff auf die Macht mehr, das ist enorm ärgerlich wenn man so darüber nachdenkt. Soweit ich das verstanden habe ist unsere derzeitige Benutzung der Macht auch mehr das Ergebnis einer Verbindung als das wir das aus eigener Kraft können. Unsere Vergangenheit bleibt weiterhin unklar aber anscheinend war ich in der Lage die Dinge so hinzubiegen das ich eigentlich ein Held war und meine Verurteilung mehr das Ergebnisse eines halsstarrigen Jediordens war. Die Verbindung zur Macht ist allerdings trotzdem durchtrennt und dagegen können wir jetzt nicht all zu viel. Aber zum Glück gibt es eventuell andere Leute die die Macht noch spüren und uns einen neuen Weg aufzeigen können. Eine Belohnung die wir uns übrigens redlich verdient haben wie ich finde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 5, Aufnahme vom 09.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #32
+
+* Titel: `KotOR 2 - #32 - sanfte Landung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Ende ihrer Laufbahn war Visper Cora eine Meisterin aller möglichen Fähigkeiten. Generell und überhaupt ist das irgendwie die Karriere einer jeden Person die Dinge tut die nicht klar definiert werden können. Ich selbst bin in einer Lage wo meine ausgebildeten Fähigkeiten maximal entfernt gebraucht werden, also müssen unscharfe Fähigkeiten wie das Erlernen neuer Dinge benutzt werden. Ich werde wohl nie Meister in irgendwelchen Dinge sein, dafür aber von verdammt vielen Dingen Ahnung haben. Wenn man sich als Schmuggler verdingt läuft das ähnlich, klar wird man nie der beste Soldat oder Schütze werden aber der Beruf erwartet ja quasi das man nicht andauernd daneben schießt. Das Gleiche gilt für viele andere Fähigkeiten wie das Verhandeln, Einschätzen von Menschen oder auch Steuern von Raumschiffen. Ich weiß nicht so genau was passiert ist das unser guter Atton auf einmal der designierte Pilot für alle Raumschiffe die wir so finden geworden ist aber so ist es nun jetzt einmal. Als geübter Hans-Dampf-in-allen-Gassen weiß Atton aber auch wie man ein Transportshuttle in unangenehmen Situationen steuern kann und auch in Extremsituationen den Vogel sanft auf den Boden bekommt. Und genau das passiert heute, wir landen sanft. Das steht völlig außer Frage. Wäre ja auch ein verrücktes Abenteuer wenn wir Episode 32 tödlich verunglücken und einen neuen Charakter anfangen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 5, Aufnahme vom 09.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

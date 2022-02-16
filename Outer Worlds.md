@@ -989,14 +989,34 @@
   Sitzung 4, Aufnahme am 08.02.2022
   ```
 
-##### #Nummer
+##### #178
 
-* Titel: ``
+* Titel: `Outer Worlds - #178 - [DLC2-#29] - Frachtlager und Verarbeitung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Der Transport von Waren ist etwas das für die meisten Leute einfach passiert. Genau wie das Züchten von Fleisch oder Abbauen von Früchten. Generell und überhaupt nicht besonders spannende Bereiche bis man in die Details geht, eine zunehmende Automatisierung macht es auch einfach zu vergessen das diese Bereiche signifikante Arbeit benötigen. Ich würde behaupten das das Löschen von Ladungen von Schiffe in alten Zeiten viel Arbeitskraft gebraucht hat die so manchen Tagelöhnern gutes Geld einspielen konnte, und wenn nicht schon gutes Geld so zumindest etwas bezahlte Arbeit ohne hohen Anspruch. Auf Eridanos wird diese harte Arbeit offensichtlich von Robotern erledigt, das ist eine echte Überraschung wo doch sonst so viele Dinge in Halcyon mit scheinbar idiotischer manueller Arbeit geleistet werden. Aber hier ist dann wohl doch ein wenig Automatisierung angekommen. Die Maschinen die dazu benutzt werden sind recht interessant, auf der einen Seite handelt es sich um Geräte die ziemlich gut schwere Lasten heben können und offensichtlich auch in der Lage sind Formen, Inhalt und Beschreibungen zu erkennen. Und dann, dann haben wir den Fall das eben jene Maschinen andauernd ausfallen, als ob sie jemand der eigentlich wenig Ahnung von Technik hat mit fertigen Teilen zusammengebaut hat und dann am Ende keine Gedanken mehr an Wartbarkeit oder Haltbarkeit verschwendet hat. Aber wer kann das schon sagen, wichtig ist eigentlich auch eher das Waren verloren gehen, ein seltsamer Umstand. Ein Dieb in der Frachtabfertigung.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 5, Aufnahme am 15.02.2022
+  ```
+
+##### #179
+
+* Titel: `Outer Worlds - #179 - [DLC2-#30] - Frachtverladeroboter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sicher geht mir echt der Text aus, was kann ich also noch über Roboter erzählen? Die Dinger sind für Menschen wahrscheinlich immer ein wenig furchteinflössend. Wenn sie zu fremd wirken wird der Effekt wahrscheinlich ziemlich schlimm aber wenn sie beinahe menschlich sind dann wirkt es wieder so als wären sie Menschen und dann sind wir irritiert wenn sie sich nicht so verhalten wie man das erwarten würde. Im Großen und Ganzen bin ich eigentlich ziemlich sicher das die Maschinen in Halcyon nicht das gleiche Problem haben wie in Star Wars, egal wie lange man die Kisten rum stehen lässt, die fangen nicht plötzlich an eine künstliche Intelligenz zu entwickeln. Selbst die ziemlich vernachlässigten Dienstbotenroboter wirken ziemlich stumpf wenn auch seltsam human in manchen ihrer Bedürfnisse. Es gibt natürlich Ausnahmen, Dinge wie Ada oder der Diskrepanzverstärker die über wesentliche stärkere Rechenkraft verfügen scheinen mir aktiv damit beschäftigt zu sein ihre Intelligenz zu verschleiern. Immerhin scheinen sich die meisten Maschinen mit ihrer Existenz abgefunden zu haben und stellen sie nicht in Frage wie es Menschen tun. Heute reden wir beispielsweise mit einem Verladeroboter. Netter Bursche.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 5, Aufnahme am 15.02.2022
   ```
 
 ##### #Nummer

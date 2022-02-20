@@ -1251,6 +1251,65 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #78
+
+* Titel: `Batman Arkham Knight - #78 - zwischen Hochhäusern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe einmal eine andere Lösung geöffnet und es stellt sich doch glatt heraus das es doch noch Stadgeschichten gibt die ich nicht gefunden habe. Das ist vielleicht auch gar nicht so schlecht, noch einmal ein wenig Erzählung um die Dinge ein wenig aufzulösen, leichter zu machen und generell und überhaupt die allgemeine Stimmung mit Geschichte zu heben. Ich mag die kleinen Geschichtchen die uns das Spiel in diesen Abschnitten erzählt. Und natürlich schummel ich massiv, ich bin einfach nichts willens den Willen des Riddlers zu entsprechen nur um mehr über diese spezifische Instanz des Batman-Universums zu erfahren. Ob es wohl eine einheitliche Benennung für Batman Geschichten gibt? Ich höre immer so Dinge wie "Silver Age" wenn man von bestimmten Comic Serien redet aber ich habe keine Ahnung wie Präzise das gesamte Konzept ist, aus der Hüfte heraus würde ich aber vermuten..nicht all zu sehr. Die nächste Episode wird noch einmal drei Episoden enthalten.
+  
+  0:00 - Gameplay
+  9:41 - Vorlesen: Wiedergänger
+  11:08 - Gameplay
+  15:56 - Vorlesen: Eingefroren
+  17:18 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 15.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #79
+
+* Titel: `Batman Arkham Knight - #79 - seismische Aktivität [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwo unterhalb der Stadt wackelt der Boden. Das ist aber nicht weiter schlimm, das ist ein Problem für Ivy, leider kann die gute wohl nicht so gut mit bewaffneten Drohnen umgehen, allerdings ist mir ein wenig ein Rätsel warum eigentlich nicht. Es hat gehießen das ihre Pflanzen quasi kugelsicher sind und die Männer des Knights sehr daran scheiterten. Warum also muss Ivy die tief im Zentrum der gesamten Veranstaltung steht eigentlich so vorsichtig sein? Könnte sie nicht einfach weitere Verteidigungsmaßnahmen wachsen lassen? Warum muss der dunkle Ritter kommen und den Tag retten? Wie dem aber auch sei, wir lesen zwischendurch auch noch ein paar Texte vor, ich bin mir mittlerweile eigentlich fast sicher das ich dann wirklich bald alle habe. Ob ich noch eine Zusammenfassung mache? Man könnte das bestimmt automatisieren wenn man sich die Beschreibungen anschaut.
+  
+  0:00 - Gameplay
+  3:07 - Vorlesen: Narbengewebe
+  4:10 - Gameplay
+  5:17 - Vorlesen: Sinneswandel
+  6:33 - Gameplay
+  7:16 - Vorlesen: Dollotron
+  8:48 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 15.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #80
+
+* Titel: `Batman Arkham Knight - #80 - der Cloudburst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und jetzt ist es passiert, all das vorsichtige taktische Herumspielen damit uns Nichts passiert und wir sicherstellen können das alle möglichen Leute am Leben bleiben und jetzt erfahren wir doch was der Cloudburst ist lange bevor wir verhindern können das er auch eingesetzt wird. Das ist außerordentlich ärgerlich. Positiv ist aber wohl das das Polizeihauptquartier ein luftdichter Bunker ist und auch wenn unser Batmobil wohl nicht so immun gegen den Cloudburst ist (wie auch immer das funktioniert) so ist immerhin der GCPD Bunker quasi vor allem sicher. Schon praktisch wenn man sich als Polizei eine solche Einrichtung leisten kann. Auch die Fluchtmöglichkeiten wurden von Scarecrow als wesentlich schlechter beschrieben als sie eigentlich sind, anscheinend ist ja Höhe der große Schlüssel das Problem zu lösen. Das ist irgendwie beruhigend wenn man bedenkt das es vorher so klang als gebe es einfach gar kein Entkommen. Diese Aussage war wohl ein wenig übertrieben. Auch glücklich übrigens das die Person die wissen könnte was man noch tun könnte in einem Luftschiff herum läuft. Ein Ort der wohl vor dem Wahnsinn sicher ist. Wir praktisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 15.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

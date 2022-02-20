@@ -533,12 +533,50 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
-##### #Nummer
+##### #33
 
-* Titel: ``
+* Titel: `KotOR 2 - #33 - Söldnerlager [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Bin ich glücklich das unsere Feinde Söldner sind? Elementare Frage wie ich einmal feststellen möchte. Die Bösen sind in der Regel irgendwelche Typen die wir ohne Probleme einfach über den Haufen ballern können. Das ist jedes Mal faszinierend was sich Spiele da ausdenken warum man keine Probleme damit haben sollte die "Bösen" ins Jenseits zu befördern. Bei Dämonen und anderen Höllenzeug ist das immer recht einfach, wenn man sich Cartoon-Bösewichte wie die Czerka anguckt nehmen die uns ja zum Glück jede Entscheidung ab, die schießen zu erst, das macht es echt einfach zu handeln..naja, bis auf das eine Mal mit Revan auf Kashyyyk. Egal. Alternativ gibt es natürlich noch religiöse Fanatatiker mit denen man auf jeden Fall nicht mehr reden kann und auch die Kräfte des Bösen sind nicht zu Verhandlungen bereit. Und doch, warum grade Söldner? Warum nicht überzeugt Truppen von Czerka. Die Firma selbst scheint schon religiöse Züge anzunehmen mit ihren Verordnungen und Kafkaesken Auswüchsen was Bürokratie angeht. Aber grade Söldner? Müssten die sich nicht bezahlen lassen? Und wer bezahlt wird hat keine echte Treue. Wo sind die Söldnerkommandanten die sich die Verlustzahlen angucken und sich sagen: "Das isses nicht wert, Männer (und Frauen), wir brechen die Zelte ab, hat keinen Sinn hier."? Das sind doch Geschäftswesen? Müssten die nicht auf den Zahlen sehen das das übel das Verlustgeschäft ist? Selbst in Uncharted wird das mal thematisiert. Keine Söldnerfirma ohne Personal, und das wächst auch kurz nach dem Krieg nicht auf Bäumen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 5, Aufnahme vom 09.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #34
+
+* Titel: `KotOR 2 - #34 - Czerka Ausgrabungsstätte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben bereits gehört das die Czerkas sehr daran interessiert sind das Revitalisierungsprojekt der Republik zu übernehmen damit sie dann die Militäreinrichtungen plündern können die sich noch auf der Oberfläche befindet. Das Ganze ist recht interessant weil das ein offensichtlicher Power-Grap ist. Bisher haben wir allerdings noch nicht raus gekriegt welche Waffen und Ausrüstungen zivilen Unterfangen wie der Czerka Corperation nicht zur Verfügung stehen. Es müsste doch einen Grund geben warum sie so scharf auf veraltete Militärtechnik sind. Andererseits, wenn man sich den allgemeinen Stand des Universums anschaue ist wahrscheinlich alles was alt ist von höherer Technologie als es in den heutigen Tagen der Fall ist. So alt ist das Republikzeug dann aber auch wieder nicht. Generell und überhaupt stellt sich mir wirklich die Frage was hier die ganze Mühe wert sein soll. So richtig vorstellen kann ich mir Nichts, aber vielleicht finden wir ja noch etwas.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 5, Aufnahme vom 09.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #35
+
+* Titel: `KotOR 2 - #35 - ältere Militärbasis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich besaß die Republik auf Telos Militärbasen. Ich weiß spontan nicht so recht wo genau eigentlich Telos im galaktischen Raum liegt aber ich gehe einmal davon aus das es eher im Outer Rim als im inneren der Galaxie liegt. Soweit ich das beurteilen kann ist das Leben in den äußeren Randregionen nicht so einfach und man läuft ernsthaft Gefahr das irgendwelche vagabundierenden Weltraumpiraten direkt den ganzen Planeten einnehmen. Wie dem aber auch sei, von Telos ist nicht mehr allzu viel übrig da es im Sith Krieg ziemlich zerstört wurde. Ruinen oder andere Spuren von Zivilisation haben wir bisher noch nicht gefunden, aber der Eingang in einen unterirdischen Bunker sieht noch ziemlich intakt aus. Folgendes Problem haben wir aber jetzt, die Militärmaschinen der Republik scheinen noch voll einsatzfähig zu sein. So weit so gut, was genau die Czerka jetzt aber vor hatten ist mir übrigens nicht klar. Die Maschinen sehen nicht so besonders fortgeschritten aus und weiter scheint es mir doch recht schwer zu sein Roboter für Profit zu verkaufen die einen aktiv angreifen. Lange Geschichte kurz, die Motive meiner Gegner sind mir absolut unklar. Und das ist ein Problem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 5, Aufnahme vom 09.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```

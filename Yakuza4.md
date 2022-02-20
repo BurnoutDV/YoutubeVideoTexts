@@ -1499,6 +1499,51 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #101
+
+* Titel: `Yakuza 4 Remastered - #101 - der Name der Brücke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es geht weiter mit seltsamen Sprachkonstruktionen. Ich erwähnte ja schon das es einen Menschenhändlering gibt dessen Anführer anscheinend "Bridge" ist. Die Brücke zwischen Japan und den Ländern aus denen die Frauen her kommen die dann in Japan missbraucht werden. Das ganze Thema ist ziemlich schwierig und schlägt nicht nur ein wenig aufs Gemüt. Interessant ist eigentlich auch das ich mich an andere Medien erinnern kann wo dies Thema war. Ich zweifle nicht daran das es eine reale Präzedenz gibt auf die sich das Ganze bezieht, eventuell sogar viele Fällen. In westlichen Medien würde ich aber nicht erwarten besonders viel davon zu hören, die Welt ist bereits niederschlagend genug wenn man sich auf wenige Kulturkreise konzentriert. Auch heute werden wir die Brücke nicht besiegen, aber wir werden einen Namen erhalten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 14.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #102
+
+* Titel: `Yakuza 4 Remastered - #102 - Yuji Katsuura, die Brücke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem ich mich jetzt zwei Episoden damit zufrieden gegeben habe dumme Brückenvergleiche und Pseudo-Sprachanalysen ohne jegliches Fachwissen zu machen kommen wir jetzt endlich zur Sache. Der Typ den wir bisher nur als Brücke kannten ist anscheinend ein gewisser "Yuji Katsuura". Das hilft mir absolut nicht, Namen sind Schall und Rauch solange sie nicht in irgendeinem Kontext stehen, ein Netz mit dem sie verflechtet sind. Unser Yuji ist aber anscheinend kein unbekannter. In seiner Position als Vorsitzender eine Frauenrechtseinrichtung muss man die Ironie nicht erst suchen gehen die hier an den Tag gelegt wird. Mittlerweile bin ich übrigens ziemlich müde was das angeht, natürlich müsste man wieder einmal erwähnen um was für ein Ausmaß an Bosheit es sich hier handelt, aber wenn man überall wo man hin geht Schatten und Abgründe sieht ist ein weiterer nur noch schrecklich ohne wirklich zu berühren. Genau hier liegt dann wohl die Gefahr, wenn man zu müde wird sich in die Lage der anderen zu versetzen weil es einfach schon zu oft passiert ist. Die vorgestellte Wirklichkeit der imaginären Frauen die hier behandelt werden sind ziemlich sehr schrecklich, und die Lage wird nicht besser das Spiele einer gewissen Selbstzensur unterstehen die die allerschlimmsten Spitzen weg nehmen. Es hält mich nicht bei Nacht wach aber es ist sehr unangenehm darüber nur etwas länger nach zu denken.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 14.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #103
+
+* Titel: `Yakuza 4 Remastered - #103 - mysteriöse Angebote [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist mit einer Warnung zu versehen. Natürlich liest nie jemand diesen Text den ich hier unten schreibe, aber sagen wir mal so, mich hat ein wenig schockiert was wir heute hier sehen. Es ist Nichts was ich nicht irgendwie schon einmal wahrgenommen habe, aber die Art und Weise wie es hier dargelegt wurde ist irgendwie erschüttert. Es scheint so gewöhnlich zu sein und doch ist das Thema ziemlich kontrovers, sogar seltsam. Am Ende passieren Dinge, nicht weil ich es gewollt habe sondern weil das Spiel es so vorgesehen hat. Echte Agenda hatte ich nie, und doch, irgendwie war die gesamte Geschichte verstörend, zumindest für mich. Wir erhalten dann übrigens direkt noch Kenntnis über ein weiteres seltsames Angebot aber das ist dann wohl einfach das Leben von Tanimura.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 14.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

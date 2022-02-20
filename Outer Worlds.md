@@ -1019,6 +1019,51 @@
   Sitzung 5, Aufnahme am 15.02.2022
   ```
 
+##### #180
+
+* Titel: `Outer Worlds - #180 - [DLC2-#31] - Ganzheitlichkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen Gründen dachte ich das man am Raumhafen noch ein wenig mehr Dinge tun kann aber so wie die Dinge stehen sind bestimmte Entdeckungen wohl nur dafür da um die Spielwelt ein wenig auf zu hübschen. Das ist enorm un zufriedenstellend weil es mir halt mehr wie lose Enden vorkommt. Heute erfahren wir dann noch welche Waren Halcyon Helen anscheinend gestohlen hat, die große Explosion blieb aber bis her aus. Ich gehe also davon ab das wir entweder noch etwas finden werden oder eine andere Partei eingegriffen hat. Was auch immer wahr sein möge, Abwarten wird uns bestimmt der Lösung näher bringen. Davon einmal abgesehen entdecken wir das es wohl Naturmedizin in Halcyon gibt. Das alles ist ein wenig komisch wenn man bedenkt das anscheinend normale Natur sowieso nicht so gut funktioniert und generell und überhaupt die Bedingungen ein wenig komisch sind. Ich nehme das jetzt einfach mal so hin, auch das man quasi überhaupt nichts darüber erfährt das die Bit-Kojen anscheinend ihre Benutzer verstrahlen scheint niemanden großartig zu interessieren. Warum?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 5, Aufnahme am 15.02.2022
+  ```
+
+##### #181
+
+* Titel: `Outer Worlds - #181 - [DLC2-#32] - einzigartiger Nippes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe eine ziemlich kleine Wohnung. Oft wünsche ich mir mehr Platz damit ich Dinge ein wenig weiter von einander verstauen kann oder die vorhandenen Verstauplätze vielleicht weniger dicht sind. Es gibt da dieses Problem das wenn man noch gute Ordnung halten kann das es schon lange vorher keinen Spaß macht weil die Einrichtung zwar noch alles aufnehmen kann was man besitzt aber immer wenn man auf etwas zugreifen will ist es quasi so als müsste man im Dachboden Dinge hervorkramen. Das ist am Anfang noch ganz witzig aber es sieht halt auch jedes Mal total zugemüllt aus wenn man nur ganz normal lebt. Das nervt. Ich habe auch keine Haustüre und/oder Kinder die empfindliche Gegenstände von Schränken werfen könnte, daher sind die Freiflächen auf Schränken und Regalen voll nutzbar. Ich mache mir oft Sorgen wie genau das eigentlich funktionieren soll wenn man jemanden hat der solche Orte hochkletter und alles abräumt. Was ich aber nicht habe sind irgendwelche Staubfänger. Alles was ich besitze hat einen gewissen Sinn. Ausnahme ist ein einziger Schrank mit einigen wenigen Erinnerungsstücken. Und doch...ich kenne genügend Leute die nicht anders können als überall irgendwelchen Nippes kaufen. Nicht einmal interessante Sachen sondern einfach nur simples Zeug. Stehrumchen. Das kann schon frustrierend sein wenn dann alles vollstaubt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 5, Aufnahme am 16.02.2022
+  ```
+
+##### #182
+
+* Titel: `Outer Worlds - #182 - [DLC2-#33] - Geständnis des Maskottchens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir verfolgen ein Maskottchen das in unsere privaten Gemächer eingebrochen ist. Die sind zwar nur gemietet und ich habe irgendwie den Verdacht das am Ende noch irgendjemand möchte das wir für sie bezahlen aber für den Moment sind das unsere. Mir ist auch ein Rätsel wie da überhaupt eingebrochen wurde obwohl wir soviel Personal bei hatten. Nun, es wird Zeit für ein paar Antworten und deswegen laufen wir dem Vieh hinter her und finden es dann auch im Observatorium. Und Jetzt ist endlich der Augenblick der Wahrheit gekommen, so ein Maskottchen, quasi ein ständiger Beobachter eines unserer Verdächtigen weiß schon eine ganze Menge, das ist eine gewinnbringende Sache will ich mal sagen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 5, Aufnahme am 16.02.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

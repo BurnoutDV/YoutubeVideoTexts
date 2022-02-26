@@ -1310,6 +1310,115 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #81
+
+* Titel: `Batman Arkham Knight - #81 - in den Nebel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht immer können die Dinge einfach sein. Für Batman ist es sogar meistens so. Nur selten können wir einfach irgendwelche Kriminellen verprügeln, die Bullen holen die ab und dann bereuen die alles und gehen auf den Weg der Besserung. Das könnte aber auch eventuell daran liegen das Amerika for-profit-prisons hat und ich gestern erst gelesen habe das private Gefängnisse in Florida (das alleine ist schon WTF) den Insassen eine tägliche Gebühr abverlangen. Hintergrund ist wohl das unlängst ein Gesetz beschlossen wurde das rehabilitierte Straftäter wieder wählen dürfen, dies aber nicht zutrifft wenn es noch ausstehende Schulden gibt. Statistiken zeigen dann das Straftäter die ihre Schulden zurückzahlen in der Regel weiß sind un die die nicht schwarz. Die Grundtatsache das es Geld kostet im Knast zu sein ist schon lächerlich aber wie genau sich irgendjemand vorstellt das so Leute den "Pfad des Lichts" laufen kann ich mir nicht vorstellen. Von solchen Überlegungen sind wir übrigens heute weit entfernt, weil es eben nicht einfach ist, so wie zum Beispiel das Leben eines Ex-Knackis in Amerika. Wir tauchen heute tief ein in die wallenden Massen des Wahnsinns und nehmen einen näheren Blick.
+  
+  0:00 - Gameplay
+  1:02 - Vorlesen: Blindgänger
+  2:17 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 15.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #82
+
+* Titel: `Batman Arkham Knight - #82 - U-Bahn Tunnel Erweiterung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gotham ist eine einzige Baustelle. In aber auch wirklich allen Bereichen. Zum Beispiel ist es ja auch so das die Stadt sozial sehr viele Umbauten braucht um endlich wieder auf den Pfad der Tugend zu kommen. Aber auch physisch scheint es so als wäre grade viel zu tun. Immerhin kann ich an der Stelle einmal Wayne Enterprise zustimmen. Ein wichtiges Mittel um Leute aus der Armut zu heben ist es Transportmittel für alle Schichte zugänglich zu machen. Mit der zunehmenden Konzentration auf Individualverkehr wurden einige, insbesondere, ärmere Bevölkerungsschichten nämlich enorm abgehangen. Insbesondere in Amerika aber auch in anderen Orten ist dies relativ deutlich sichtbar. Die Wohnorte ärmerer Menschen, insbesondere derer mit nicht weißer-Hautfarbe sind oft kaum mit dem öffentlichen Verkehrsmittel verlassbar. Das könnte durchaus Absicht sein. Ein Mittel ist es zum Beispiel auch Brücken zu bauen die mit einem Linienbus leider nicht unterfahren werden können oder ähnliche Späße. Wenn man wirklich will kann man da viel tun. Daher ist der Ausbau der U-Bahn ein wichtiges Hilfsmittel um die Gesellschaft wieder einmal nach Vorne zu bringen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 15.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #83
+
+* Titel: `Batman Arkham Knight - #83 - der große Panzer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In letzter Zeit beschäftige ich mich viel mit Vorurteilen, da kommt unweigerlich so eine Geschlechterkomponente rein, Frauen wollen Sicherheit oder sich selbst besonders gut profilieren, Männer ein besonders großes Auto. Wer einen Monstertruck fährt hat einen kleinen Schwanz und so weiter und so fort. Tatsächlich gibt es meiner Meinung nach nicht all zu viele Gründe ein gewaltiges Auto zu fahren. Ich kriege ehrlich gesagt immer ein wenig Hass wenn ich so einen Hausfrauenpanzer durch die Stadt fahren sehe, völlig unabhängig welches Geschlecht nun hinter dem Steuer sitzt. Schön das du da stehen einsteigen kannst Herbert, ist mir aber egal, das Ding hat zich Nachteile die ziemlich wahrscheinlich zu Toten führen nur weil du unbedingt so hoch sitzen willst. Und jetzt kommt der Arkham Knight ins Spiel. Der hat auch einen ziemlich großen Wagen, und ich muss ja sagen, das Ding führt auch zu Toten! Das können wir als Batman nicht zulassen und daher greifen wir jetzt ein. Ein Pazifist wie der dunkle Ritter kann ja auch nicht zulassen das einfach so Unschuldige umgebracht werden, und auch nur weil die Leute unschuldig bis zur Verurteilung sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 15.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #84
+
+* Titel: `Batman Arkham Knight - #84 - die Natur siegt immer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt so Sprüche und Gewissheiten aus der Vergangenheit dessen Wahrheitsgehalt ich mit der Zeit anfange anzuzweifeln. Einer davon ist zum Beispiel das die Natur immer siegt. Wenn man überwachsende Industrieruinen sieht, ganze Städte die vom Zahn der Zeit und damit auch vom Leben zurückgewonnen wurde könnte man das schnell glauben. Und dann haben wir da Fälle von massiver Umweltverschmutzung, von Zerstörungen solchen Ausmaßes das es kein Zurück mehr gibt. Dieser Gedanke macht mir Angst, das es eine Zerstörung geben könnte von der es einfach kein Zurück mehr gibt. Was ist die Konsequenz wenn die Natur nicht immer siegt? Was passiert wenn der gesamte Prozess des Lebens einfach kapituliert oder schlimmer noch, zur Kapitulation gezwungen wird und einfach aufhört zu existieren. Welch Schrecken würde dann die erwarten die zurückbleiben? Seien wir also heute froh das die Natur gewonnen hat. Oder gewinnen wird, je nachdem wann man diesen Text liest, aber nicht jeder Sieg kommt ohne Preis.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 15.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #85
+
+* Titel: `Batman Arkham Knight - #85 - Pollenregen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was ich nicht so ganz verstanden habe wie der Nebel sofort verschwunden ist nachdem wir den Cloudburst zerstört haben. Aber anscheinend ist die neutralisierende Kraft von Ivys Pflanzen so mächtig das sie innerhalb kürzester Zeit dafür sorgt das die giftigen Dämpfe nicht mehr existieren, so stark das nur die aktive Verwendung des Cloudbursts überhaupt ausreichend war um das das zu erreichen was erreicht wurde. Wo auch immer eigentlich das ganze Gas auch her kam, ich dachte wir hätten die große Produktionsstrecke zerstört? Wie dem aber auch sei, ich hoffe Bruce Wayne hat keine Pollenallergie, weil hat er sie doch hat er gewiss ein Problem jetzt. Ivy mag vielleicht nicht mehr sein, aber ihre massive Gefahr für alle die den Frühling nicht mögen ist geblieben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 22.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #86
+
+* Titel: `Batman Arkham Knight - #86 - verschlüsselter Funkkanal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An und für sich haben wir jetzt alle möglichen Pfade erkundet und uns bleibt gar nicht mehr so viel zu tun, keine Spur die wir mehr verfolgen können. Der Arkham Knight scheint verschwunden zu sein und auch Scarecrow lässt in letzter Zeit ziemlich wenig von sich hören. Ich vermute daher mal das wir in nächster Zeit etwas Anderes tun müssen, vielleicht Kellnern im Diner sobald es wieder eröffnet wurde. Oder aber wir gehen diesen Funkspruch nach der auf einen verschlüsselten SWAT-Kanal übermittelt wurde. Einen Kanal von dessen Existenz wir grade zum ersten Mal gehört haben. Generell übrigens komisch, ich habe nicht das Gefühl das das SWAT da plötzlich mit anderen Wasser kocht als der Rest der Polizei, aber vielleicht täusche ich mich ja auch. Immerhin so etwas wie eine Spur. Übrigens ein Wunder das Waynetech das Ding nicht einfach direkt abfangen kann und wir tatsächlich zum Polizeihauptquartier latschen müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 22.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #87
+
+* Titel: `Batman Arkham Knight - #87 - das Bohrloch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute begeben wir uns ein ziemlich großes Loch hinab. Die ganze Einrichtung ist übrigens ziemlich unlogisch. Anscheinend soll es nämlich so sein das das Loch für irgendwelche U-Bahn Bauten genutzt wird, aber die Art und Weise wie die gesamte Geschichte aufgebaut ist geht halt irgendwie davon aus das es bereits ein Loch gibt, daran zu erkennen das es vier Stützstreben gibt. Wie genau soll also der ursprüngliche Bohrer montiert werden wenn man irgendwelche Säulen braucht die man ja nicht haben kann wenn es kein Loch gibt. Aber vielleicht verstehe ich auch alles falsch und die große Konstruktion die wir sehen hat eine ganz andere Bedeutung. Wir müssen sie so oder so aber auch kaputt machen um weiter zu kommen. Aus irgendwelchen Gründen brauchen wir nämlich das Betten-Mobil im Loch. Warum auch immer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 22.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1041,7 +1041,7 @@
 * Beschreibung:
 
   ```markdown
-  Ich habe eine ziemlich kleine Wohnung. Oft wünsche ich mir mehr Platz damit ich Dinge ein wenig weiter von einander verstauen kann oder die vorhandenen Verstauplätze vielleicht weniger dicht sind. Es gibt da dieses Problem das wenn man noch gute Ordnung halten kann das es schon lange vorher keinen Spaß macht weil die Einrichtung zwar noch alles aufnehmen kann was man besitzt aber immer wenn man auf etwas zugreifen will ist es quasi so als müsste man im Dachboden Dinge hervorkramen. Das ist am Anfang noch ganz witzig aber es sieht halt auch jedes Mal total zugemüllt aus wenn man nur ganz normal lebt. Das nervt. Ich habe auch keine Haustüre und/oder Kinder die empfindliche Gegenstände von Schränken werfen könnte, daher sind die Freiflächen auf Schränken und Regalen voll nutzbar. Ich mache mir oft Sorgen wie genau das eigentlich funktionieren soll wenn man jemanden hat der solche Orte hochkletter und alles abräumt. Was ich aber nicht habe sind irgendwelche Staubfänger. Alles was ich besitze hat einen gewissen Sinn. Ausnahme ist ein einziger Schrank mit einigen wenigen Erinnerungsstücken. Und doch...ich kenne genügend Leute die nicht anders können als überall irgendwelchen Nippes kaufen. Nicht einmal interessante Sachen sondern einfach nur simples Zeug. Stehrumchen. Das kann schon frustrierend sein wenn dann alles vollstaubt.
+  Ich habe eine ziemlich kleine Wohnung. Oft wünsche ich mir mehr Platz damit ich Dinge ein wenig weiter von einander verstauen kann oder die vorhandenen Verstauplätze vielleicht weniger dicht sind. Es gibt da dieses Problem das wenn man noch gute Ordnung halten kann das es schon lange vorher keinen Spaß macht weil die Einrichtung zwar noch alles aufnehmen kann was man besitzt aber immer wenn man auf etwas zugreifen will ist es quasi so als müsste man im Dachboden Dinge hervorkramen. Das ist am Anfang noch ganz witzig aber es sieht halt auch jedes Mal total zugemüllt aus wenn man nur ganz normal lebt. Das nervt. Ich habe auch keine Haustiere und/oder Kinder die empfindliche Gegenstände von Schränken werfen könnte, daher sind die Freiflächen auf Schränken und Regalen voll nutzbar. Ich mache mir oft Sorgen wie genau das eigentlich funktionieren soll wenn man jemanden hat der solche Orte hochkletter und alles abräumt. Was ich aber nicht habe sind irgendwelche Staubfänger. Alles was ich besitze hat einen gewissen Sinn. Ausnahme ist ein einziger Schrank mit einigen wenigen Erinnerungsstücken. Und doch...ich kenne genügend Leute die nicht anders können als überall irgendwelchen Nippes kaufen. Nicht einmal interessante Sachen sondern einfach nur simples Zeug. Stehrumchen. Das kann schon frustrierend sein wenn dann alles vollstaubt.
   
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Murder on Eridanos als Offline Projekt
@@ -1062,6 +1062,111 @@
   Outer Worlds: Murder on Eridanos als Offline Projekt
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
   Sitzung 5, Aufnahme am 16.02.2022
+  ```
+
+##### #183
+
+* Titel: `Outer Worlds - #183 - [DLC2-#34] - Steuerhaus Museum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich würde ja gerne behaupten das ich Museen gut finde und dort viel Zeit verbringe. Das wäre ein Lüge. Ich bin besser geworden mich tatsächlich für Geschichte und Ausstellungen zu interessieren, und doch renne ich immer noch ganz schön durch. Es ist nicht so das ich einen Recherche Tag daraus mache. Was ich eigentlich bräuchte wäre ein Museum wo man am Ende einen kleinen Raum kriegt indem man dann all die Dinge die einem richtig interessant erschienen noch einmal im Detail nachlesen kann. So sieht man halt irgendwelche Dinge, würde  gerne mehr wissen kann aber leider nicht mehr erfahren. Das ist ein wenig traurig. Das Museum das wir heute betreten ist auf den ersten Blick ein wenig interessant, auch voller Propaganda aber halt auch interessant, wenn auch wahrscheinlich nicht in dem Sinne in dem es die ursprünglichen Erschaffer vorgesehen haben.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 5, Aufnahme am 16.02.2022
+  ```
+
+##### #184
+
+* Titel: `Outer Worlds - #184 - [DLC2-#35] - PHAETONs Monster [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel der heutigen Mission ist ziemlich spannend. Irgendwie. Zur Einordnung, bei Phaeton handelt es sich um eine Art Kutsche und im Speziellen um das System das dafür sorgt das sich Eridanos nicht in die unteren Atmosphären bewegt, nach oben oder durch Stürme zerquetscht wird. Alles in Allem handelt es sich also um ein ziemlich wichtiges System. Und jetzt kommt die für Halcyon ziemlich übliche Inkompetenz zum Tragen. Die Sachlage ist die, der gesamte Komplex ist im Moment ungesteuert und niemand scheint es zu stören. Wir haben bereits eine größere Anzahl von Technikern und sogenannten "Ingenieuren" gesehen die, allen Anschein nach, für die Steuerung und Überwachung zuständig sind. Nur reagieren tut niemand mit der zentralen Konsole von PHAETON, die die uns sagt das die Einrichtung in ernsthaften Schwierigkeiten ist. Deswegen muss sich jetzt Captain Aliya Hawkthorne um die Geschichte kümmern. Die Namensgebung selbst klingt ziemlich mysteriös, ein großes Monster das sich irgendwo in den Eingeweiden der Steuerung befindet. Irgendwie auch ominös. Andererseits klingt es auch wie ein philosophisches Rätsel, wie "Roko's Basilisk", finster, unverständlich und doch wissen alle die "dabei" sind genau was gemeint ist.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 5, Aufnahme am 16.02.2022
+  ```
+
+##### #185
+
+* Titel: `Outer Worlds - #185 - [DLC2-#36] - Gyroskop Verwaltungsterminal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alle Bewohner von Eridanos werden sterben, die Inseln befinden sich auf einen sicheren Kurs in irgendeine Richtung die den Untergang bringen wird, es handelt sich schließlich um einen Gasplaneten und auf langer Sicht kann das nicht gut gehen. Übrigens bin ich ein wenig erstaunt das die Atmosphäre überhaupt atembar ist weil ich mir nicht besonders viele Gründe vorstellen könnte warum die gesamte Gasblase um einen Planeten herum aus genau dem Sauerstoffgemisch bestehen sollte das Menschen brauchen. Und dann geht es ja noch weiter, die gewaltigen Triebwerke die der Komplex nutzt um zu navigieren sehen so aus als würden sie Sauerstoff verbrauchen bzw. in CO2 umwandeln. Ob irgendjemand sich mal die Mühe gemacht hat zu berechnen wie lange es dauert bist nennenswerte Mengen verbraucht sind? Bei der Größe des Planeten könnte das durchaus lange sein aber trotzdem wäre es ganz gut zu wissen. Rückproduzierende Pflanzen gibt es auf jeden Fall nicht. Aber eventuell hat es ja eine Kolonie von schwebenden Algen oder so in den unteren Luftschichten. Wissen kann man sowas ja nie...eventuell aber auch doch wenn sich die gesamte Kolonie dorthin begibt und wir es aus nächster Nähe sehe..kurz bevor wir vom Luftdruck alleine zerquetscht werden. Um das zu vermeiden müssen wir Dinge tun.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 6, Aufnahme am 21.02.2022
+  ```
+
+##### #186
+
+* Titel: `Outer Worlds - #186 - [DLC2-#37] - Black Hole Bertie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein altes Klischee das legendäre Sportler oft ziemlich Hohlbirnen sind, wenn man sich die politischen Aktivitäten von bestimmten Fussballspielern oder die Aussagen aktiver Spieler anschaut möchte man durchaus glaube das daran etwas dran ist. Weiter würde ich aber auch behaupten das es ein wenig auf den Sport ankommt. Ich selbst habe ja minimale Partikularinteressen am Klettersport bzw. spezifischer dem Bouldern. Wenn man da nicht grade runterfällt kriegt man nur selten auf den Kopf, alles was ich bisher so von den Spielern gesehen habe war das sie recht intelligent waren. Das kann abe auch täuschen, es gibt da einige Bergcracks mit komischen Ansichten. Häufiger wird es dann bei Boxern, wenn man zu oft auf die Birne kriegt macht einen das nicht unbedingt schlauer. Manch Profiboxer überlebt seine Karriere allerdings halbwegs intakt und kann dann noch was aus sich machen. Und das bringt uns zurück nach Halcyon, anscheinend gibt es keinen echten Plan B für Wurballspieler, aber das spielt auch keine Rolle. Das Primärexemplar das wir heute treffen war noch nie die hellste Kerze auf der Torte und wird es wohl auch nie sein. Immerhin erfahren wir aber einige interessante Aussagen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 6, Aufnahme am 21.02.2022
+  ```
+
+##### #187
+
+##### Titel: `Outer Worlds - #187 - [DLC2-#38] - Spuren zur VIP Etage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es war ja nur eine Frage der Zeit bis wir in die VIP Etage kommen, und jetzt ist es endlich soweit. Ich nehme einmal an das ich vorher hätte mit Ludovico hätte reden müssen wenn ich nicht so eine goldene Zunge habe, aber so wie die Dinge stehen kann ich ja einfach jeder Person gut zu reden. Manchmal frage ich mich übrigens wie das so in realen Situationen klappen könnte. Gibt es Worte die Menschen in schwierigen Lagen von einer anderen Sichtweise hätte überzeugen können, war meine Zunge einfach nur zu schwach aber hätte es da eine Möglichkeit gegeben? Ich weiß es natürlich nicht weil ich nicht sehr gut darin bin Menschen zu belabern. Aber ich bilde mir ein das es schon 1 oder 2 Situationen in meinem Leben gegeben hätte in denen eine goldene Zunge Erfolg hätte. Wir treffen heute übrigens auch eine Kuh, sie wurde uns schon angekündigt, sie dann aber zu sehen macht das Ganze doch noch ein wenig schöner als vorher.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 6, Aufnahme am 21.02.2022
+  ```
+
+##### #188
+
+* Titel: `Outer Worlds - #188 - [DLC2-#39] - Spencer Woolrich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe exakt null Erfahrung mit dem Showbusiness. Aus logischen Gründen ist es immer wieder Gegenstand von Serien, Filmen oder sogar Bücher. Also nicht das was die Leute darstellen sondern quasi die Meta-Ebenen von den Leuten die dabei sind. Zur Sache jetzt also. Spencer Woolrich ist ein alternder Star, das erfahren wir etwas in der Folge aber hätten wir auch so schon wissen können, der gute Mann taucht immer auf Filmplakaten auf aber scheint die ewige Nebenrolle zu spiele. Schauspieler müssen sich gewissermaßen neu erfinden, Talkshows brauchen immer ein neues Element, wer zu Lange in einer Ecke bleibt zementiert sich dort und sobald sich die Medienlandschaft ändert oder der Bedarf der Konsumenten steckt man dann auch fest und kommt nicht wieder heraus. Anschauliches Beispiel: um 2009 herum waren Lets Plays auf Youtube der heiße Scheiß. Lets Plays sind einfach, wenn man halbwegs gut reden kann ist das ein Selbstläufer, man braucht dafür keine besondere Ausbildung oder sonst irgendetwas. Mit der Zeit hat sich das alles verschoben, komplette Spiele findet man jetzt eher in Live Formaten und Youtube enthält eher Best Ofs, Storyzusammenschnitte, Reviews oder Ähnliches. Man guckt sich nicht mehr das gesamte Spiel an sondern macht ein Recap. Das finden auch die Spielestudios besser. Weil wenn ich ein Spiel komplett durchspiele dann ist es ja quasi eine lange Video-Raubkopie des Inhalts oder? Zurück zu Spencer. Für ihn ist das was er ist nicht nur so ein kleines Hobby sondern seine ganze Persönlichkeit wird dadurch definiert. Und natürlich auch sein Leben, jetzt noch einen Schreibtischjob zu machen käme wohl ein wenig spät. Das erklärt eventuell ein wenig seine Launen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 6, Aufnahme am 22.02.2022
+  ```
+
+##### #189
+
+* Titel: `Outer Worlds - #189 - [DLC2-#40] - andere Zeugenaussagen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein wenig erstaunt wie viele Verdächtige wir doch innerhalb von kürzester Zeit verhören können. Man stelle sich einmal vor Halcyon Helen wäre irgendeine drittklassige Schauspielerin gewesen für die sich niemand so richtig interessiert. Wahrscheinlich hätten dann alle Beteiligten jede Verantwortung und Zugehörigkeit verweigert. Meine gängige Theorie ist ja immer noch das sich Ruth als Spionin verdingt hätte, aber dagegen spricht eigentlich wie beliebt sie geworden ist. Als zweitklassige Schauspielerin wäre sie bestimmt an eben so vielen Orten gewesen ohne so sehr auf zu fallen. Oder die heutige Ermittlungen waren ihr Erstlingswerk und sie hat sich vollkommen übernommen. Was ich so vom Spionagehandwerk gehört habe ist das es wohl keine zweiten Chancen gibt. Wer einmal was falsch macht erfährt davon erst wenn es zu spät und und endet dann irgendwo verscharrt, idealerweise ohne irgendwelchen erkennbaren Merkmale.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 6, Aufnahme am 22.02.2022
   ```
 
 ##### #Nummer

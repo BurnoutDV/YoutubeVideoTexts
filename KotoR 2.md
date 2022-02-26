@@ -580,3 +580,125 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Sitzung 5, Aufnahme vom 09.02.2022
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
+
+##### #36
+
+* Titel: `KotOR 2 - #36 - verrostete Gänge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich können wir nicht einfach das unbewaffnete Shuttle nehmen das wir gefunden haben und unserem Schiff hinter fliegen. Viel mehr ist es so das wir noch etwas tun müssen. Erfahrungsgemäß brauchen wir Energie um große Türen zu öffnen. Witzig eigentlich das es bis jetzt kein Problem war Türen und Roboter zu bewegen aber jetzt plötzlich die Hangartür mehr Strom braucht. Nun gut, aktivieren wir halt den örtlichen Reaktor und schauen einmal wohin uns die Reise bringt. Da ich in letzter Zeit recht viel GTFO gespielt habe rechne ich übrigens damit das uns Horden von Viechern entgegen kommen sobald wir den örtlichen Reaktor hochfahren. Irgendwelche Zombies oder irgendetwas in der Richtung. Schauen wir doch einmal was wirklich passiert
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 6, Aufnahme vom 17.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #37
+
+* Titel: `KotOR 2 - #37 - die Eisnadel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal bin ich sehr bemüht mit meinen Episodenbeschreibungen niemanden zu spoilern. Tatsache ist übrigens das sich noch nie irgendjemand bei mir beschwert hat. Vor langer Zeit habe ich einmal mit bekommen das ein damals befreundeter Youtuber darüber gesprochen hat das er sehr vorsichtig bei der Benennung bestimmter Spiele ist weil er nicht möchte das die Leute in die Gefahr laufen vorzeitig informiert zu werden. Das erscheint ziemlich dolle fair. Ich glaube allerdings das es sich um eine sehr kleine Personengruppe handelt die sich wegen solcher Dinge beschwert, insbesondere weil kurze Titel auch noch ein wenig Eigenleistung benötigen um zu einem richtigen Spoiler zu werden. Ich selbst habe natürlich so wenige Zuschauer das dies nie zu einem Problem wurde und bei einem fast 20 Jahre alten Spiel ist die Gefahr wohl durchaus überschaubar. Und doch, heute bin ich vorsichtig. Bei der Eisnadel handelt es sich um eine Struktur die sich anscheinend am Nordpol befindet. Am Nordpol von Telos sei hier noch erwähnt, dem Planeten auf dem wir uns aktuell befinden. Bestimmte Signale deuten darauf das sich hier unser Raumschiff, die Ebon Hawk, befindet. Das wollen wir natürlich wieder haben um uns aus den Fängen der Republik und der Sith gleichermaßen zu befreien.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 6, Aufnahme vom 17.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #38
+
+* Titel: `KotOR 2 - #38 - die Bewässerungsanlage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch am Nordpol. Mittlerweile haben wir auch erfahren das die Anlage in der wir uns im Moment befinden früher einmal eine Bewässerungsanlage war. Das ist auch wie sie Zugriff auf das Energienetz das den Planeten umspannt hat. Oder so. Der Sachverhalt ist jetzt also so, die Bürger von Telos hatten irgendwann einmal entschieden das sie die Wasserversorgung eines gesamtem Planeten zentral von einem Ort aus steuern wollten. Von einem Ort der so weit entfernt von allen Bevölkerungszentren ist wie man sich das nur vorstellen kann. Ein Ort an dem Wasser unter normalen Umständen einfach gefriert. Ich bin mir nicht sicher ob wir wirklich perfekt am Nordpol des Planeten sind oder einfach nur irgendwo an der nördlichen Polkappe aber nicht genau in der Mitte. Spinnen wir das einmal weiter. Wenn die nächste Stadt von hier aus tausende Kilometer entfernt ist dann sind alleine die Mengen an Wasser in den Leitungen substantiell. Außerdem müsste das System dementsprechend träge sein. Weiter haben wir also einen zentralen Ort dessen Steuerung alles verwaltet und wenn er ausfällt dann halt nicht mehr. Ich kann ja durchaus Argumente für zentrale Verwaltungen sehen, vor mir aus auch für Sternstrukturen, aber das schiere Ausmaß von physischen Dingen die durch die Gegend schoben werden müssen geht mir nicht in die Birne. Hat irgendeiner der Storyschreiber mal darüber nachgedacht irgendwas legitim erscheinen zu lassen? Warum keine geheime Forschungsstation die halt am Energienetz hängt. Ein Hyperraumanker, irgendwas! Aber die Bewässerungsanlage für einen ganzen Planeten? Das ist doch kein kleines Gewächshaus hier! Das Interior sieht auch null nach Wasserverteilung aus. Oder habe ich irgendetwas falsch verstanden? War die Einrichtung nur administrativ, eine Verwaltung. Dann stellt sich erst recht die Standortfrage. Ich hoffe sehr das ich hier irgendetwas falsch verstanden habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 6, Aufnahme vom 17.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #39
+
+* Titel: `KotOR 2 - #39 - Diener-Schwestern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben es also mit Echani zu tun, das erfahren wir übrigens in einen Nebensatz und ich bin mir sicher das, wenn wir weiter graben, wir auch noch mehr über die Echani erfahren. Ich würde mal spontan behaupten das es sich um eine matriarchalische Gesellschaft handelt, könnte mich aber täuschen, vielleicht hatten die Spielentwickler auch einfach etwas für Kriegerfrauen in weiß und das ist das Ergebnis. Ohne weitere Informationen ist das immer ein wenig schwer zu sagen. Ich fühle mich manchmal übrigens ein wenig wie ein Archäologe wenn ich so alte Spiele ausgrabe, es ist ja nicht so das ich Zugriff auf ein intensives Making-Of habe. Im Falle von Star Wars könnte ich bestimmt viele Informationen auch noch aus anderen Quellen finden, aber ich bin mir mittlerweile recht sicher sicher das das ein Fehler ist und ein guter Weg sich zu spoilern. Die Echani sind mir aus dem Vorgänger im Gedächtnis geblieben weil ich ihre Rüstungen gut und nützlich fand. Jetzt treffen wir einige von ihnen wenn auch nur eine kleinere Anzahl die wohl kaum ein guter Querschnitt für ihre Gesellschaft sind. Im direkten Nahkampf schicken sie uns auf jeden Fall auf die Bretter. Ich würde übrigens stark vermuten das die große Vorläuferzivilisation die all die Technik erfunden hat auch ein wenig genetische Anpassung betrieben hat und dafür gesorgt hat das Frauen den Männern körperlich nicht nachstehen. Das könnte natürlich auch täuschen und vielleicht sind es auch einfach nur die Echani die gut an sich gebaut haben. Das wieder rum stellt aber wieder die Frage auf warum so viele Kulturen und Völker die wir treffen humanoid aussehen. Wahrscheinlich weil das Kostümdepartment in den 80ern einfach nicht mehr hergegeben hat. Leicht anders aussehende Menschen sind halt simpler als komplexe Aliens. Was ich damit andeuten will ist das alle humanoiden Rassen den gleichen Ursprung haben und Menschen nur  einer der Unterarten darstellen, die aus irgendwelchen Gründen aber sehr häufig sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 6, Aufnahme vom 17.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #40
+
+* Titel: `KotOR 2 - #40 - verborgene Vergangenheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles was damals in der Vergangenheit passiert ist sollten wir ja eigentlich wissen weil wir dabei waren, aber so wie die Dinge stehen wissen wir es eben nicht. Das ist natürlich der Methode geschuldet mit der das Spiel seine Geschichte erzählt, übrigens einen Ansatz den ich ziemlich interessant finde, auch wenn mir ein wenig Vorwarnung ob dieser Methoden doch eigentlich ganz lieb gewesen wäre, das hätte es für mich einfacher gemacht ganz am Anfang die richtigen Entscheidungen zu treffen. Jetzt ist es aber wie es ist und wir müssen in der Realität in der wir uns befinden wohl leben. Noch ist nicht alles bekannt was damals auf Malachor V geschah und was dazu geführt hat das die Jedi so zerfallen sind wie sie sind, letztes Mal als wir sie gesehen haben waren sie auf jeden Fall noch stabiler drauf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 6, Aufnahme vom 17.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #4
+
+* Titel: `KotOR 2 - #41 - Zurück an Bord [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lange hat es gedauert aber jetzt ist es endlich soweit, wir sind in der Sicherheit unserer eigenen Wände, einziger Nachteil ist, wir haben schon wieder mehr Personal aufgenommen. Noch ist Platz im Raumschiff und wenn man sich die Anzahl der verfügbaren Betten anschaut sehe ich da auch in näherer Zukunft kein Problem. Anders sieht das übrigens Kreia die anscheinend möchte das wir so wenig mit der realen Welt interagieren wie es nur möglich ist. Ich vermute einmal das es ihr nur darum geht das sie weiterhin einen ganzen Raum für sich ganz alleine hat und das ist halt ein Zustand den wir auf Dauer auf keinen Fall halten können. Nun, wie dem aber auch sei, heute machen wir uns dann auch auf die Befindlichkeit unseres gesamten Personals abzuchecken, das kann ein wenig dauern, viel Dialog will sehr sorgfältig geführt werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 6, Aufnahme vom 17.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #42
+
+* Titel: `KotOR 2 - #42 - eine neue Crew [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich fasse also zusammen, wir sind wieder an Bord und wir können endlich zu den Sternen fliegen um dort viele neue Dinge zu machen. Praktisch sieht das aber so aus das wir erst einmal mit allen möglichen Leuten in unserem Personal reden müssen um sicherzustellen das die allgemeinen und spezifischen Befindlichkeiten auch alle schön getroffen sind, wäre ja auch nicht auszudenken wenn irgendjemand in der Crew mit uns Unglücklich wäre. Neu an Bord ist anscheinend nur die letzte Schwester die sich selbst eher als Dienerin sieht und daher nicht so richtig mit einem Namen rausrückt. Aber auch unser Pilot Atton scheint mehr Tiefe zu haben als er auf den ersten Blick zu erkennen gegeben hat. Nicht zuletzt wäre da dann auch noch unser alter Kampfgefährte der uns scheinbar ewige Treue geschworen hat. Ein Überbleibsel vergangener Tage oder ein politisches Maneuver um später in der Lage zu sein besser zu zuschlagen. Verrat könnte sich bereits an Bord der Ebon Hawk befinden. Was ich damit sagen will, so richtig trauen tue ich niemanden von meiner neuen Personaldecke, da hatte es Revan besser.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 6, Aufnahme vom 17.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

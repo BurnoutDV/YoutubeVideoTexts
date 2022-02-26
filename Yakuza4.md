@@ -1544,6 +1544,111 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #104
+
+* Titel: `Yakuza 4 Remastered - #104 - Tanimuraner [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe eine gute Nachricht. Wir haben es anscheinend geschafft alle Nebenmissionen mit Tanimura zu erfüllen. Die schlechte Nachricht ist das wir damit auch das Ende seiner Geschichte erreicht haben. Die Tatsache das wir alle Dinge gesehen haben heißt wohl leider auch das er nicht mehr vorkommen wird und wir nichts mehr mit ihm machen können. Schade eigentlich, er und seine kleine Familie ist mir langsam ans Herz gewachsen. Selbst sein doch recht arrogantes Verhalten das am Anfang ein wenig abstoßend war hat im Licht der neuen Informationen die wir erhalten haben doch recht vernünftig gewirkt. Letztendlich ist er vielleicht ein Parasit bei den Restaurantbesitzern der Stadt aber er tut es immerhin aus noblen Gründen
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 14.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #105
+
+* Titel: `Yakuza 4 Remastered - #105 - Junji Sugiuchi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sicher fällt alles zusammen und die ganzen vielen Stränge die wir bis hier hin gesehen haben fallen Stück für Stück in sich zusammen und ergeben ein Ganzes. Noch ist aber noch nicht der große Moment der Erkenntnis gekommen. Wir haben zwar Stücke des Puzzles aber es fehlen doch noch Teile und das ist außerordentlich bedauerlich. Schon bald wissen wir bestimmt mehr und sobald das der Fall ist ergibt sich daraus vielleicht auch ein neuer Plan. Für den Moment müssen wir uns aber wohl noch um einen korrupten Polizisten kümmern der uns bisher quasi entgangen ist. Es handelt sich um niemand Geringeren als Junji Sugiuchi, wir erinnern uns, der Typ der uns sowieso schon die ganze Zeit ziemlich verdächtig vorkam. Bevor er uns aber alles erzählt was es zu wissen gibt müssen wir ihn noch verprügeln, eine Maßnahme die nicht so einfach ist wie ich im ersten Moment gedacht hatte. Dennoch werden wir Erfolg haben, dessen bin ich mir sicher.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 14.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #106
+
+* Titel: `Yakuza 4 Remastered - #106 - Treibgut am Strand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wirklich erstaunlich zu welchen Schätzen man kommen kann wenn man ein Grundstück am Meer besitzt. Diese oder eine sehr ähnliche Erkenntnis muss auch Kazuma Kiryu gekommen sein. Der Gute besitzt ein Waisenhaus auf Okinawa und betreibt dieses mit ziemlich viel Herzblut. Interessant ist übrigens auch das er seit dem letzte Teil scheinbar keine neuen Kinder aufgenommen hat. Hat er eventuell vor etwas Anderes zu machen sobald Haruka erwachsen ist um sich richtig zur Ruhe zu setzen? Oder wird es auch nachdem Haruka längst in die große Stadt gegangen ist woanders für ihn hingehen. Eventuell aber ist auch der heutige "Schatz" Grund genug das es für Kiryu niemals einen richtigen Ruhestand gibt. Jede Veränderung ist auch immer eine Gefahr und ein Mann wie Kazuma wird oft durch sein eigenes Verständnis von Ehre zu Taten getrieben die man am Ende nicht mehr zurücknehmen kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 21.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #107
+
+* Titel: `Yakuza 4 Remastered - #107 - Zufallsbegegnung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Während ich diese Zeilen schreibe bin ich grade dabei eine ältere Fantasy Buchreihe zu lesen, sie nennt sich "Wheel of Time", ich habe einige Kritik an der Serie aber die Geschichte selbst ist recht spannend. Soviel von Burnis Buchclub für diese Episode. Worauf ich aber Bezug nehmen will ist das dort das Schicksal quasi als Muster im namensgebenen Rad der Zeit gestrickt ist, nur wenige Leute können tatsächlich etwas dagegen machen. Das ganze System hat aber Meter große Löcher, zum Beispiel spüren Leute wie sie das Rad wieder in die Geschichte zieht, oder es gibt Dinge die Personen/Gegenstände aus dem Muster löschen, dennoch können sich Andere daran dann erinnern. Und dann haben wir natürlich noch Star Wars wo jede Begegnung quasi eine Wendung der Macht ist. Ob das jetzt besser ist als einen allmächtigen Schöpfergott für all das Leid in der Welt verantwortlich zu machen sei einmal dahingestellt. So oder so hat das so eine Art Unvermeidlichkeit, Dinge geschehen weil sie geschehen müssen. So auch das Leben von Kazuma Kiryu, auch bei ihm ist die magische Kraft des Narrativ sehr stark. Und so kommt es heute wie es nicht anders kommen konnte. Kiryu gerät in die Geschichte hinein obwohl er alle Angebote nicht hinein zu geraten erhalten hat die man kriegen kann.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 21.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #108
+
+* Titel: `Yakuza 4 Remastered - #108 - Saito [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist doch immer wieder schön alte Bekannte zu treffen. Erfahrungsgemäß trifft man aber eher Leute zufällig wieder die man nicht so gut leiden kann. Das ist wahrscheinlich auch der Grund warum ich nie irgendwelche Menschen treffe. Ich habe keine direkte Anti-Pathie gegen irgendwelche Leute, das kommt davon wenn man immer im Homeoffice sitzt. Anders sieht das bei unseren alten, neuen Kumpel Hamazaki aus. Der hat ein wenig Zeit im Knast verbracht und sich dort mit diversen Mitgliedern des Justizvollzugs angefreundet. Dabei hat er auch einen bleibenden Eindruck hinterlassen, einen Eindruck der jetzt auf ihn zurückfällt als er seinen alten Freund Saito wieder trifft. Der kann uns irgendwie nicht leiden und freut sich gar nicht so sehr uns zu sehen. Ein Wunder aber auch.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 21.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #109
+
+* Titel: `Yakuza 4 Remastered - #109 - Yasukos Hingabe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Yasuko Saejima haben wir nun mit allen Charakteren außer Taiga bereits getroffen. Wir wissen das die Gute durchaus bereit ist andere Menschen umzubringen wenn es für den richtigen Zweck ist. Was wir aber noch nicht so richtig wissen ist warum sie all das tut, ihre Taten scheinen das Zeichen einer echten Hingabe zu sein, aber wir wissen nicht woher diese Hingabe eigentlich kommt. Es stellt sich doch glatt heraus das es sogar tatsächlich einen ziemlich guten Grund für die Treue gegenüber ihren Bruder ist. Wenn man sich all das anhört hofft man ja irgendwie auf ein Happy End, aber irgendwie habe ich Probleme all diese verschlungenen Wendungen in einem gutem Ende auslaufen zu sehen. Alles in mir schreit das wir eine Menge Katastrophen vor uns haben. Oder aber das Spiel überrascht, mit all seiner Finsternis wird am Ende doch alles gut?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 21.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #110
+
+* Titel: `Yakuza 4 Remastered - #110 - Verhandlungsmasse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Solange es noch nicht zu völligen bewaffneten Konflikten gekommen ist kann man immer irgendwie darauf hoffen das man noch verhandeln kann oder einen Handel irgendeiner Art eingehen kann der die eigene Haut rettet. Emotionen spielen da natürlich auch eine Rolle aber wenn nicht alles komplett überkocht kommt es eigentlich nur darauf an was man zu bieten hat. Und genau darum geht es wohl heute, Katsuragi hat Probleme und auch Kiryu würde gerne, obwohl er erst seit Kurzem dabei ist Menschen retten, wir haben dafür noch einen Trumpf in der Tasche, den müssen wir jetzt aber auch richtig spielen. Fraglich ist übrigens wie man eigentlich garantiert das nach gemachten Handel alle Leute sich an den vereinbarten Dingen halten.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 21.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

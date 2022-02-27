@@ -693,6 +693,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #43
+
+* Titel: `KotOR 2 - #43 - zurück nach Telos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An und für sich sollten wir ja die Citadel Station nie verlassen und deswegen ist es auch ein wenig komisch das wir jetzt schon wieder nach Telos fliegen, den einen Ort wo man uns das letzte Mal ja sofort festgenommen hat als wir dort gelandet sind, es ist sogar noch besser eigentlich, weil ich fest vor habe zum guten Commander Green zu laufen und ihm stolz zu berichten das wir die Verbrecher auf die er ein Kopfgeld ausgesetzt hat zur Strecke gebracht haben. Ich frage mich übrigens grade was passiert wäre wenn sich die Typen nicht gewehrt hätten. Wären wir in der Lage gewesen irgendwelche Verbrecher einfach so über den Haufen zu schießen nur weil wir einen Haftbefehl gehabt hätten? Wenn die Verbrecher quasi gesagt hätten "schön das du hier bist, aber wir kommen nicht mit, Tschüß?". Weil so richtig festhalten hätten wir sie ja auch ohne Raumschiff auch nicht. Und Leuten einfach so in den Rücken zu schießen ist mit unserem moralischen Kompass bestimmt nicht ganz so einfach habe ich das Gefühl. Alles natürlich nur rein hypothetisch, wir waren ja in der Lage das Problem zu lösen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 7, Aufnahme vom 24.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1419,6 +1419,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #88
+
+* Titel: `Batman Arkham Knight - #88 - der letzte Tunnel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendeine Episode "der letzte Tunnel" zu nennen ist eigentlich ziemlich optimistisch weil es anscheinend immer noch einen Tunnel mehr nach dem Tunnel gibt den wir grade erkundet haben. So wird es dann auch heute sein, bevor es aber soweit ist müssen wir uns natürlich durch diverse Gegner durchprügeln, auch durch Gegner die sehr darauf vorbereitet sind gegen uns zu kämpfen. Oder zumindest einige von ihnen weil wir natürlich das große Briefing für den definitiven Guide zum Besiegen des dunklen Ritters unterbrechen. Die Lösung ist eigentlich ziemlich simpel und ich wundere mich wirklich warum wir erst jetzt jemanden treffen der dieses Loch in der Philosophie von Batman ausnutzt. Allerdings gebe ich auch zu bedenken das der jetzige Batman durchaus am Rand des Ruins ist und vielleicht willens wäre seine eigenen Regeln zu brechen nur um diesen Tag zu beenden. Damit würde er sich auch selber ein Ende setzen und mehr oder weniger das Ziel des Arkham Knights erfüllen..aber dieser würde wiederum nicht siegen. Alles schon ein wenig kompliziert nicht wahr? Davon einmal abgesehen darf ich heute schon einmal auf eine tolle Verfolgungsjagd in irgendwelchen engen Tunneln hinweisen die mir bestimmt richtig dolle Spaß macht. Das wird großartig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 22.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

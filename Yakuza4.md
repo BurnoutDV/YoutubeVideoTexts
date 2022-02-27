@@ -1649,6 +1649,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #111
+
+* Titel: `Yakuza 4 Remastered - #111 - Begegnung im Untergrund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Langsam aber sicher nimmt die Handlung Fahrt auf, und das muss auch so sein, wir befinden uns schließlich in Episode 111 und langsam aber sicher würde ich gerne fertig werden. Das bedeutet aber auch das wir hier mal langsam richtig schnell voranschreiten sollten. Daher passiert die Begegnung mit den anderen Hauptcharakteren auch quasi sofort und nicht erst in 20 Episoden. Im Keller treffen wir nun also Tanimura und Akiyama die sich ja bereits langsam angenähert haben. Diese Begegnung läuft natürlich unter dem Stern des Missverständnisses und so kommt es zu einem kleinen Konflikt in dem der Drache von Dojima zeigen darf über welches Potenzial er verfügt. Immerhin ist das Ganze ziemlich dolle sehr episch. Ich finde das hat auch etwas.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 21.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

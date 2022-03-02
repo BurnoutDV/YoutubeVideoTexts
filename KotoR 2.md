@@ -709,6 +709,54 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #44
+
+* Titel: `KotOR 2 - #44 - ungewartete Landeplätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für den Moment ist mir noch nicht so ganz bewusst was für ein "Planet" Nar Shadaar eigentlich ist. Die erste Erkenntnis ist wohl das es sich um einen Mond handelt, die zweite das hier dann wohl die Hutten her kommen. Ich kann übrigens beruhigen, ich bin bisher noch keinen einzigen Hutten begegnet, das kommt bestimmt noch früher oder später aber für den Moment bleiben wir verschont. Weiterhin stellt sich mir aber die Frage wie genau die fett herumliegenden Viecher es überhaupt jemals zu irgendetwas gebracht haben, von überragender Intelligenz habe ich es bisher noch nichts gemerkt und selbst wenn dem so ist muss man ja trotzdem erst einmal in eine Situation kommen in der Intelligenz so eingesetzt werden kann das Macht projektiert wird. Was der Ort aber hat ist wohl ein Flüchtlingsproblem in Folge des galaktischen Krieges der es anscheinend vollkommen unmöglich gemacht hat  einen der vielen Planeten anzusteuern die offensichtlich noch mehr als genug Platz haben. Immerhin wird das Ganze erklärt, es handelt sich wohl um einen wichtigen Wechselpunkt und man läd Flüchtlingen hier einfach ab. So weit so verständlich. Humanitär bestimmt eine große Katastrophe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 7, Aufnahme vom 24.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #45
+
+* Titel: `KotOR 2 - #45 - IT31 und TT32 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist mal wieder soweit, wir dürfen über die Rechte von Robotern und deren Mangel reden. Also, wir stellen zum zwanzigsten Mal fest. Roboter bzw. Droiden haben keine Seele, können die Macht nicht fühlen und haben eigentlich auch sowieso keine Gefühle. Dennoch muss man ihre Speicher regelmäßig löschen weil sie sonst so etwas wie eine Persönlichkeit entwickeln. Wenn man jetzt ein wenig meta-physisch werden will muss man wohl davon ausgehen das Roboter doch eine Art Seele haben bzw. das das Universum von einer Kraft die wahrscheinlich irgendetwas mit der Macht gemein hat hat die alle möglichen "Wirte" besetzt die irgendwie in der Lage ist eine Persönlichkeit zu entwickeln. Wir könnten das jetzt Lebenskraft nennen bis uns ein besserer esoterischer Begriff einfällt, aber das wäre zumindest eine gute Erklärung. Die Theorie ist einfach, sobald etwas komplex genug ist um Denkmuster zu haben die von einem Chaos beeinflusst werden können kommen Prozesse zum Tragen die nicht mehr deterministisch erklärbar sind. Kurzum, alles strebt danach lebendig zu sein, auch Roboter. Umso tragischer das Alles wenn man die Viecher auf einen Schrotthaufen wirft, nach der oben genannten Theorie lebt ja alles.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 7, Aufnahme vom 24.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #46
+
+* Titel: `KotOR 2 - #46 - Visas die Attentäterin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Vergangenheit war es so das man mit dem eigenen Raumschiff so etwas wie einen Ruhepol hatte. Klar, die Welt da draußen und überall wo man hin fährt ist ein chaotischer Ort und die Gefahren lauern an jeder Ecke. Aber innerhalb der Metallbox mit der man gelandet ist ist alles sicher. Das dachte ich zumindest. In dieser und auch folgender Episoden wird mir auffallen das jedes Mal wenn ich die Ebon Hawk betrete passiert irgendetwas. Es ist wirklich unglaublich, es ist fast so als würde die Ansammlung von Begleitern die wir links und rechts gefunden haben einfach überhaupt nichts drauf haben um unsere Blechkiste zu verteidigen. Dabei wollte ich doch eigentlich nur wissen ob der Typ dem wir das Raumschiff versprochen haben schon abgehauen ist. Dies war übrigens nicht der Fall. Dafür finden wir allerdings eine neue Bedrohung vor, das ist außerordentlich ärgerlich. Mal wieder. Besonders weil ein Solo-Kampf auf uns wartet. Das ist mir übrigens echt ein Rätsel. Warum habe ich Begleiter und Zeug nur um dann am Ende doch wieder alles alleine machen zu müssen. Ich muss mehr Granaten aufsparen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 7, Aufnahme vom 24.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1169,14 +1169,64 @@
   Sitzung 6, Aufnahme am 22.02.2022
   ```
 
-##### #Nummer
+##### #190
 
-* Titel: ``
+* Titel: `Outer Worlds - #190 - [DLC2-#40] - Koch Anvar [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Natürlich gibt es einen Koch in einer Einrichtung wie dem Grand Colonial, beachtenswert ist aber wohl das der gute Anvar auch noch Chef-Koch ist. Wir kennen die Nahrungssituation von Halcyon ja bereits zu Genüge und daher wundere ich mich auch nicht mehr das das Essen für die reichen Leute gar nicht soviel anders ist als für die armen Leute. Generell und überhaupt herrscht wohl Mangel. Normalerweise hat man ja den Fall das es nur sehr geringe Mengen von irgendetwas gibt das man halt aus den Ausland importiert oder unter hohen Kosten halt produziert es aber so wenig ist das der gemeine Pöbel nie die Pfoten darauf kriegt. In Halcyon sieht der Fall aber wohl so aus das man nie angefangen hat selber Dinge zu produzieren und die Importe von der Erde haben ja auch ein Ende gefunden. Und das führt uns in die Lage in der wir jetzt sind, niemand hat mehr irgendetwas. Das zuzugeben wäre aber Schwäche und deshalb machen alle Leute so weiter als gäbe es keine Knappheit. Auf allen Seiten.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 6, Aufnahme am 22.02.2022
+  ```
+
+##### #191
+
+* Titel: `Outer Worlds - #191 - [DLC2-#41] - die zweite Berichtrunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Theoretisch könnte ich nach jeder Erkenntnis zu Ludovico laufen und ihm von meinem Tag erzählen, das würde aber auch in einer Mengen duplizierten Inhalt und langen Begrüßungs & Verabschiedungsfloskeln enden, einen Umstand den ich nur sehr ungerne eingehen würde. Daher machen wir das in einem großen Stück bis es wirklich nicht mehr anders geht, und dann stehen wir vor dem Administrator wie jetzt. Tatsächlich entscheide ich mich sogar aktiv dagegen ihm alles zu sagen was ich weiß weil das wahrscheinlich zu einer Entwicklung von Ereignissen führen würde die mir nicht gefallen würde. Natürlich probiere ich dann am Ende trotzdem aus was passiert wenn ich ihn zur Rede stelle und alle Fakten die ich noch so habe auf den Tisch lege, an sich gefällt mir dieser Schritt aber nicht weil wir eigentlich gar nicht so sehr sicher wissen das es der Administrator war.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 6, Aufnahme am 22.02.2022
+  ```
+
+##### #192
+
+* Titel: `Outer Worlds - #192 - [DLC2-#42] - Naturverwertungsreservat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute betreten wir die vorletzte der Eridanos Inseln die wir noch nicht betreten haben, es handelt sich hierbei um die größte Zone wenn man einmal von der Hauptinsel absieht. Hierbei handelt es sich um eine Art Safari-Zone in der sich rastlose Hotelgäste entspannen können. Ich nehme einmal an das es im Vorfeld geplant war das man sich hier ebenso entspannen können soll wie in der anderen Hotelanlage aber dann Eines zum Anderen kam und kaum hat man sich versehen haben die Problem angefangen. Auf jeden Fall wüten jetzt verschiedene aggressive Tierarten in diesem Gebiet und an einigen Stellen können wir noch die Rest von Käfigen sehen. Ich vermute einmal das die Beschränkung der Fortpflanzungsfähigkeit ein kompletter Misserfolg war und das wir wieder einmal die Folgen von unüberlegten Handeln tragen müssen. Eine Tragödie.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 7, Aufnahme am 28.02.2022
+  ```
+
+##### #193
+
+* Titel: `Outer Worlds - #193 - [DLC2-#43] - Wildreservat Touren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben mittlerweile erfahren das es sich ursprünglich bei der Naturverwertungszone um ein Wildreservat gehandelt hat. Was genau hier "reserviert" oder erhalten wurde ist mir übrigens nicht  ganz klar. Immerhin leben die Wolkühe noch, aber die anderen Arten die wir hier so treffen scheinen alle ausreichend aggressiv zu sein um nicht um ihr Überleben fürchten zu müssen. Im Gegenteil, all diese Lebensformen scheinen so aggressiv und fruchtbar zu sein das sie sich mit absoluter Leichtigkeit fortpflanzen können ohne großartige Probleme zu haben. Immerhin gibt es geführte Touren in denen man die lokal angepflanzte Fauna erschießen kann, das hat aber wohl in der Regel nur so mittelmäßigen Erfolg. Ich also geübte Inspektorin habe echte Probleme mit dem Erlegen des Wildlebens, ich kann mir nicht vorstellen das irgendwelche Hotelgäste besser fahren.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 7, Aufnahme am 28.02.2022
   ```
 
 ##### #Nummer

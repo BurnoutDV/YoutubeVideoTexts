@@ -1434,6 +1434,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #89
+
+* Titel: `Batman Arkham Knight - #89 - die Legende von Jason Todd [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jason Todd ist den ein oder Anderen vielleicht noch als den zweiten Robin bekannt, ein Mitstreiter Batmans der durch eine unglückliche Fügung der Ereignisse Gefangener des Jokers geworden ist. In Zügen langer und ausdauernder Folter hat der Joker versucht Batman heraus zu locken, aus Gründen die mir nicht ganz bekannt sind ist dies aber nicht gelungen und so kam es das sich Joker am Ende einfach nur gelangweilt hat und den armen Jason ein Ende gesetzt hat. Seine Erinnerung ist natürlich unvergessen und wie sich heute herausstellt gab es doch das ein oder andere Geheimnis das die Lippen von Todd verlassen hat. Und so kommen wir zum Arkham Knight, wie auch sonst war er in der Lage soviel über Batman zu wissen, nur mit dem Zugriff auf einen einstigen Robin konnte er hoffen die Fledermaus zu schlagen, und die Verbindung zu die vom Joker extrahierten Informationen ist so logisch wie alles andere auch, also warum auch nicht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 22.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #90
+
+* Titel: `Batman Arkham Knight - #90 - die größte Angst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An manchen Tagen begegnet man ganz überraschend Überraschungen. Oder man stellt sich all seinen Ängsten und auf einmal sind die Dinge völlig anders als man sie ursprünglich zu sehen erwartet hat. Heute stellen wir uns unserer größten Angst, oder auch nicht. Ich kann bereits sagen das die Episode damit endet das wir einfach so von einem Gebäude runtersegeln ohne irgendwelche Widerstände zu zeigen. Aber eventuell haben wir ja für unser Verhalten auch gute Gründe. So oder so müssen wir immer noch irgendwelche Leute retten, andere Menschen davor bewahren ihrer größten Angst zu begegnen und hier und dort jede Menge Dinge zu erledigen. Es ist alles nicht so einfach und doch tun wir viel. Auch nicht einfach ist übrigens für mich hier irgendwelche Texte zu schreiben weil ich natürlich weiß was in der heutigen Episode passiert ich aber hier nicht so richtig darüber reden will in einer Form die den Inhalt weg gibt. Das ist alles nicht so einfach für mich. Stellt euch einfach flauschige Kühe vor oder so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 22.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #91
+
+* Titel: `Batman Arkham Knight - #91 - der Kult [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend hat noch ein einziger Superverbrecher ausgestanden den ich irgendwie vergessen habe, es handelt sich natürlich um den guten Diakon Blackfire der hier mit dem Kult benannt wurde. Ich bin ehrlich gesagt ein wenig überrascht den Mann überhaupt noch zu sehen weil ich dachte das die ganzen Berichte die Ryder da vor sich hatte eher in der weiten Vergangenheit abgefasst waren und er von einem Fall aus den frühen 80er Jahren oder so gelesen hat. Offensichtlich handelte es sich viel mehr um neuste Recherchen die quasi in der Jetztzeit angesiedelt waren. Aus irgendwelchen Gründen treffen wir heute daher auch auf den guten Diakon, ich möchte ehrlich sein, ich bin ein wenig überrascht das es dazu kam. Der Mann selbst ist übrigens nur ein normaler Fanatiker, niemand mit echtem Potenzial oder Meta-Menschen Fähigkeiten. Und doch, ein überraschend starker Gegner. Leider werden wir einen gewissen nervigen Reporter nicht los, erlaubt die erste Regel nicht. Ein Elend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 22.02.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

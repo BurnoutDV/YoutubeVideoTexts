@@ -1664,6 +1664,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #112
+
+* Titel: `Yakuza 4 Remastered - #112 - der große Verhandler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kiryu ist ein Meister darin die Leute zusammen zu bringen, dafür benutzt er in der Regel seine Fäuste, die logische Konsequenz daraus ist leider aber auch das er ziemlich schlecht darin ist Leute zusammenzubringen ohne seine Fäuste zu benutzen. Beweisstück 120 sehen wir dann auch heute als der mächtige Drache von Dojima versucht einen beliebigen Yakuza der sich überlegen fühlt zu überreden so zu tun wie er es fordert. Dieser geht irgendwie darauf ein aber die Art und Weise wie dieser antwortet scheint mir nicht besonders verlässlich zu sein. Ehrlich gesagt bin ich ein wenig schockiert wie völlig planlos Kiryu bereit zu sein scheint in die gesamte Sachlage zu gehen, insbesondere wenn man bedenkt das er doch noch wegen der Ereignisse des letzten Jahres einigen Einfluss bei wichtigen Personen haben sollte oder?
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 21.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

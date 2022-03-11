@@ -1479,6 +1479,153 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #92
+
+* Titel: `Batman Arkham Knight - #92 - Gothams Wachtürme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Von allen Dingen die wir von der Armee des Arkham Knights sehen beeindruckt mich am meisten das sie an wirklich jeden Gebäude ihre Banner und Fahnen dran haben. Ich dachte eigentlich das das so ein Ding aus dem Mittelalter war. Oder vor mir aus auch aus Fantasy. Das man an jedem Gebäude das man besetzt ordentlich Zeug ranhängt damit auch der Pöbel sehen kann wem alles  gehört. Oder man macht das wenn man vorhat lange zu bleiben. Und dann kommt der Arkham Knight mit einer Einsatzdauer die wahrscheinlich nur eine Nacht ist. Es muss auch komisch gewesen sein als er die Budgetplanung gemacht hat und ein nicht grade kleiner Teil neben Milliarden für autonome Drohnen bei der Position "Fahnen und Banner" stand. Ernsthaft, das ist schon sehr beeindruckend wie viel Gehänge die Typen dabei habe. Branding können die auf jeden Fall. Ärgerlicherweise macht sie das auch zu einem leichten Ziel. Vielleicht der Grund warum modernes Militär eher darauf verzichtet seine Stellungen farblich zu markieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 01.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #93
+
+* Titel: `Batman Arkham Knight - #93 - Herscher über Gotham [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich verstehe immer noch nicht wie Macht funktioniert. Also auf einem elementaren Level. Natürlich, jemand steht oben, gibt Befehle, Leute führen aus und irgendwo ganz unten stehen dann starke Männer mit Waffen die den Willen von ganz oben durchsetzen. Und gemeinsam, als große Masse ist das dann Macht die projektiert wird. Aber, wie funktioniert das alles? Es ist eine gewaltige Kette von Vertrauen, Anweisungen und Intelligenz die irgendwie dafür sorgt das all diese Leute gemeinsam arbeiten und doch ergibt es wenig Sinn das alle Leute tun wie sie sollen. Menschen sind, immer und immer wieder erwiesen, Individuen, haben durch Zufall alle beteiligten Einzelpersonen Ziele die so in ein Muster passen sie für den Moment tun wie ihnen gesagt wird um ihre eigenen Ziele auszuführen? Was motiviert in einer solchen Situation. Was sorgt dafür das Menschen nicht mehr tun was ihnen gesagt wird? Wie fakturiert Moral in solchen Überlegungen rein, wo ist die Gerechtigkeit. Was zählt eine Einzelperson? So viele Fragen, und die wichtigste. Wer herrscht über Gotham? Wahrscheinlich ist es am Ende doch die Angst, auch wenn nicht so wie Scarecrow sich das vorstellt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 01.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #94
+
+* Titel: `Batman Arkham Knight - #94 - Angriff auf das GCPD [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe die Frage ja schon öfter in den Raum gestellt, aber aus irgendwelchen Gründen besitzt das GCPD einen Bunker. Der große Angriff des Cloudbursts war absolut kein Problem und die Mauern haben standgehalten. Das die Einrichtung mehre Tore hat sollte schon ein wenig helfen andererseits hieß es doch am Anfang das selbst eine gute Gasmaske so gut wie Nichts bringen würde. Ich nehme einmal an das deutet darauf hin das das Gas von Scarecrow tatsächlich eher über die Haut aufgenommen wird. Und doch, wie genau hat der Bunker durchgehalten? Wie dem aber auch sei, jetzt reicht es auch unseren guten Jonathan Crane langsam einmal und er hat sich überlegt das man die Bude die Batman da als Rückzugsort hat nicht länger stehen sollte. Welch Glück aber auch das wir zufällig anwesend sind als der Angriff erfolgt und sogar unser Panzer zur Verfügung steht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 01.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #95
+
+* Titel: `Batman Arkham Knight - #95 - die Tore Gothams [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So wie es aussieht sind wir immer noch nicht damit fertig uns um die Besatzung zu kümmern. Mir wird übrigens sehr spät, also quasi kurz vor dem Ende des Spieles auffallen das man die meisten Posten die wir auf der Straße finden kann auch mit dem Batmobil hätte cheesen können. Dieser Moment ist aber noch nicht jetzt und daher kämpfen wir uns für den Moment noch sehr manuell durch die ganzen Horden. Allerdings halte ich mich damit nicht ewig auf und wir finden heute dann auch noch einen Loretext, damit übrigens auch den Vorletzten, am Ende fehlt nur noch ein Einziger. Wenn wir den hätten könnte ich immerhin behaupten das ich alles vorgelesen habe was man vorlesen kann. Aber soweit wird es dann wohl nie kommen.
+  
+  0:00 - Gameplay
+  7:22 - Vorlesen: Plan B
+  8:49 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 01.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #96
+
+* Titel: `Batman Arkham Knight - #96 - das Lagerhaus in Kingston [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gotham ist nicht wirklich groß, zumindest das was wir sehen können ist nicht all zu viel. Das liegt aber wahrscheinlich daran das all die anderen Stadtteile größtenteils langweilige Häuserblöcke wären. Man stelle sich vor ein Spiel würde die gesamte Neubaublocklandschaft von Berlin-Marzahn abbilden. Das will ja auch wirklich niemand. Für das Individuum das dort lebt sind die Dinge vielleicht entfernt interessant aber im Allgemeinen passieren da nicht all zu viel spannende Dinge. Das liegt größtenteils daran das die Leute einfach nur arm sind und sich halt keine spannende Architektur leisten können. Es gibt aber selbst in den Teilen die wir betreten können Orte die nicht unbedingt von Reichtum sprechen, eher im Gegenteil, partiell Industriegebiet, partiell Armutsquartiere. Und dann gibt es da ein Lagerhaus in Kingston. Leer stehender Platz in großen Städten ist in der Regel Mangelware aber anscheinend hat Scarecrow hier ein wenig Geld zusammen genommen. Mir ist übrigens immer noch ein Rätsel wie sich "Super"-Schurken wie Scarecrow finanzieren. Leute wie der Pinguin und Two-Face klauen sich ja offensichtlich Dinge zusammen, aber eine militärische Operation wie die von Scarecrow ist "Nation-State"-Geld und nicht "Banküberfall"-Geld. Selbst das Vermögen von Stag kann doch eigentlich kaum gereicht haben, und der hat ja eigentlich nur RnD gemacht.
+  
+  0:00 - Gameplay
+  9:38 - Vorlesen: Liebe am Arbeitsplatz
+  10:59 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 01.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #97
+
+* Titel: `Batman Arkham Knight - #97 - der zweite Tod [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manche Leute sagen das man dreimal stirbt, das erste Mal wenn der Körper aufgibt und zerfällt, das zweite Mal wenn die Dinge die man in Gang gesetzt hat stehen bleiben und das letzte Mal wenn die letzte Person die einen kannte selber stirbt, jede Erinnerung begraben wird und nichts mehr verbleibt. Dies ist dann wohl die Motivation für Autoren möglichst großartige Werke zu schreiben, für Musiker einprägsame Stücke zu komponieren und für Schauspieler einzigartige Leistungen zu erweisen, um nicht vergessen zu werden. Gelegentlich kommt es vor das Leute die Reihenfolge leicht abändern, vielleicht haben sie nie irgendetwas erschaffen, vielleicht kennt sie einfach niemand, aber am Ende ist es wohl alles gleich. Neben diesen existenziellen Gedanken gibt es natürlich auch einen Grund warum ich das erwähne. Wir haben ja immer noch ein kleines Joker Problem, und das was den Joker so bemerkenswert macht waren seine Taten. Die Person selbst ist tot und kann nicht zurück kommen. Besonders jetzt nicht wo die verschiedenen Avatare aufgehört haben zu existieren, aber es gibt immer noch die Erinnerung. Gleichzeitig können wir hier übrigens auch noch mit dem größten Schrecken kombinieren, der größte Schrecken des Jokers ist es anscheinend vergessen zu werden, den zweiten Tod zu sterben. Oder den Dritten, je nachdem. Die Reihenfolge ist keine Pflicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 01.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #98
+
+* Titel: `Batman Arkham Knight - #98 - das kleine Knightfall Protokoll [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute wird es Zeit für das echte große Ende von Batman Arkham Knight, leider auch nicht so richtig. Weil um dieses Ende zu erreichen müssten wir alle Rätsel des Riddlers lösen, jedes Einzelne. Und das  ist eine Sache die ich niemals nie nicht machen will. Aber immerhin können wir quasi die Light-Variante erreichen, aber dafür müssen wir wohl doch noch ein bisschen Laufarbeit machen. Ich sag mal so, der größte Teil dieser Episode besteht daraus mich über den Kampf gegen Deathstroke aufzuregen, einen Kampf den wir übrigens doch wesentlich leichter lösen konnten als ich das ursprünglich gedachte habe. Das ist eine glückliche Fügung möchte ich sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 01.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #99
+
+* Titel: `Batman Arkham Knight - #99 - Am Rande der Psychose [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Harley Quinn Story Pack
+  
+  Batman ist tot, oder zumindest Bruce Wayne ist es, natürlich habe ich mir einige Dinge für das echte Knightfall Protokoll durchgelesen und auch angeschaut wie das alles aussieht. Alles in Allem hat Batman dann wohl aufgegeben und sich ganz dem Irrsinn der da Batman ist hingegeben. Wo wir grade bei Irrsinn sind, heute spielen wir Harley Quinn. In den letzten Jahren hat die Gute ein wenig an Popularität hin zu gewonnen. Siehe Birds of Pray. Wir erhalten heute interessante Einblicke in die innere Psyche der Frau, interessant ist zum Beispiel das Harley wohl eine Stimme der Vernunft hat die sie bloß einfach ignoriert. Heißt das aber nicht auch das man theoretisch, wenn man sich ganz viel Mühe geben würde Harleen Quinzel wieder extrahieren könnte?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 08.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #100
+
+* Titel: `Batman Arkham Knight - #100 - Unter der roten Kapuzen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Red Hood Story Pack
+  
+  Ich habe übrigens mal nachgeschaut was das alles hier eigentlich ursprünglich gekostet hätte und ich muss ja sagen das zumindest das Red-Hood Story Pack schon ziemlicher Scam ist wenn man sich anschaut wie kurz es doch eigentlich ist. Ich kann mir allerdings vorstellen warum dieses Kapitel nur sehr sehr kurz ist, genau wie Harley kennt Jason Todd absolut keine Grenzen und ihm ist jedes Mittel recht seine Ziele umzusetzen. Fairerweise muss man sagen das er nicht jede Person umbringt der er begegnet aber doch schon ziemlich viele. Man hat eigentlich einen guten Einblick in die alternative Realität in der Batman töten würde. Es würde ja auch nicht bei den großen Bossen bleiben, ganz schnell wäre man an einem Punkt wo man fröhlich um sich ballert und man jede Menge Kolleteralschäden hat. Davon kann Jason übrigens wirklich aktuell nicht reden, er hat ja nicht einmal ein Auto um Leute zu überfahren. Immerhin bringen wir am Ende Blackmask zur Strecke, der hat es ja nicht mehr ins Hauptspiel geschafft. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 08.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

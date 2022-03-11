@@ -757,6 +757,150 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #47
+
+* Titel: `KotOR 2 - #47 - Visas Marr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder einmal setzen wir die uralte Tradition fort Leute am Leben zu lassen die uns nach dem Leben getrachtet haben. Das ist wirklich ein sehr interessanter Trend. Man stelle sich mal vor all die anderen Leute die sich uns entgegenstellen wüssten davon. Erst versucht man sein Attentat, und wenn es nicht klappt gibt man schnell kurz vor Schluss auf, tut ein wenig so als hätte man jetzt einen neuen Meister und dann verdrückt sich dann bei der erst besten Gelegenheit. Visas Marr ist übrigens einer dieser "Aliens" die auch ein Kostümdepartment der 50er Jahre hätte gut darstellen können. Wir definieren einfach das sie keine Augen haben und über die Macht sehen und schon ist alle schick. Das ist der einzige Unterschied zu normalen Menschen. Theoretisch wären noch irgendwelche anderen Unterschiede die von Kleidung verdeckt werden möglich aber wer weiß das schon. Mir fehlt ja so ein wenig eine gute Erklärung warum es so viele humanoide Spezies gibt. Genexperimente oder Anpassung durch eine Vorläuferzivilisation geht immer. Ich sage das ja öfter, aber die Auswahl ist halt nicht so groß, es ist entweder Gott oder jemand der so ähnlich agiert. Haben die Tentakel der Tw'ilek irgendeinen Sinn? Wenn nicht kann ich eigentlich nur akzeptieren das irgendeine Schöpferrasse fand das es mehr komisch aussehende Aliens braucht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 7, Aufnahme vom 24.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #48
+
+* Titel: `KotOR 2 - #48 - die hohe Kunst des Nahkampfes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese und die nächste Episode haben eine erhebliche Menge an Schnitten drin. Weil ich muss einen Fehler ausbügeln, und das geht nur wenn ich eine bestimmte Sache schaffe, um diese bestimmte Sache zu schaffen habe ich kaum Möglichkeiten. Nur die Dinge die ich jetzt habe. Ich kann nicht das Schiff verlassen, mit Leuten reden, Gegenstände kaufen oder Leveln. Alles was ich tun kann muss mir bereits am Anfang der Episode bzw. eigentlich sogar am Anfang der letzten Episode zur Verfügung stehen. Es gibt noch weitere Beschränkungen. Wir haben es quasi mit einem Rätsel zu tun, einer Aufgabe die nicht leicht zu bewältigen. Das Lösen einer solchen Aufgabe stellt sich oft als Herausforderung da, Herausforderungen die ich mit Logik lösen muss, und ein wenig umher probieren. Es tut mir Leid das das Herumprobieren so lange dauert. Diese und die nächste Episode kommen wir nicht wirklich in der Story vor ran. Das liegt aber auch daran das die letzte Dienerin doch wesentlich stärker ist als gedacht. Immerhin gibt es einige Würfelwürfe die wir ausnützen können. Wir müssen zwar an unseren Chancen schrauben aber es gibt immer die Möglichkeit das wir gewinnen einfach nur weil Fortuna uns zu lächelt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 7, Aufnahme vom 24.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #49
+
+* Titel: `KotOR 2 - #49 - Balance der Zuneigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Folgendes passiert in der heutigen Episode: Ich tue alles damit mir die letzte Dienerin nicht doch noch untreu wird. Ich habe das bereits in der letzten Ausgabe mehr oder weniger erklärt. Die Sachlage ist so: da ich bis her noch nicht in den Faustkampf mit der Dienerin gegangen bin habe ich auch keine Zuneigungspunkte von ihr erhalten. Das führt zu einem fatalen Feedbackloop mit Visas weil deren Zuneigung wiederum dafür sorgt das die Dienerin mich weniger mag. Getriggert wird das Ganze das nächste Mal das ich mein Raumschiff verlasse und wieder rein gehe. Da ich mich nicht darauf verlassen möchte das in der Außenwelt noch irgendetwas geschieht das die Zuneigung der Leute erhöht muss ich den Fall also so lösen. Daher versuche ich heute alles damit mir die letzte Dienerin irgendwie die Treue hält und ich nicht schon frühzeitig diese Sub-Quest verliere. Das wäre ja schade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 7, Aufnahme vom 24.02.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #50
+
+* Titel: `KotOR 2 - #50 - Spuren von Leben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe in der Droidenepisode bereits die Theorie geäußert das die Macht eine gewisse selbstständige Komponente hat, eine davon ist halt das sie anfängt alle Dinge zu "beseelen" die auch nur im Ansatz in der Lage sind ein Bewusstsein zu haben. Jetzt ist natürlich ein wenig die Frage warum Zentralrechner oder Raumschiffcomputer nicht auch davon betroffen sind, aber vielleicht hat es auch etwas mit der äußeren Form zu tun. Quasi muss die grobe Struktur das bekannte Leben nachahmt. Oder anders, das Leben imitiert die Form die die Macht haben will. Wie es aber auch sei, die Macht ist auch mehr als das, die Macht ist das Leben, und wer die Macht spüren kann kann auch das Leben spüren. Mir ist jetzt nicht so ganz bewusst warum grade dieser einer Mond jetzt so groß anders als jeder andere Ort sein sollte an dem wir jemals waren aber ich sollte wohl nicht soviele Fragen in dieser Hinsicht stellen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 8, Aufnahme vom 03.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #51
+
+* Titel: `KotOR 2 - #51 - der Swoop-Betrüger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute lernen wir wieder einmal native Sprichwörter. Eines davon ist "man kann einen Wookie nur einmal das Fell abziehen". Eine wichtige Lektion die wir da heute lernen. Ich fahre eigentlich nur sehr ungern Swoop-Rennen, im Vorgänger war es aber eine wichtige Quelle für Finanzen zur Erhaltung meiner Kampfkraft. Eine so wichtige Quelle tatsächlich das ich nicht darauf verzichten konnte. Aktuell sieht es aber  eigentlich ganz gut im Port-Moneau für mich aus. Das lässt mich denken das ich dieses Mal darauf verzichten kann zu try-harden. Das hält mich natürlich nicht ab es dennoch zu versuchen. Aber so wie es aussieht haben wir sowieso keine Chance weil die lokale Swoop-Strecke von einem Betrüger unsicher gemacht wird. Auch interessant ist die Frage die hier aufgeworfen wird. Dürfen Roboter an Rennen teilnehmen die offensichtlich nicht biologische Reflexe gemacht sind. Generell und überhaupt scheint es im Star Wars Universum übrigens eine überraschende Gleichheit zu geben. Nicht nur zwischen den Geschlechtern sondern auch zwischen verschiedensten Aliens, gut, die meisten von ihnen sind eh quasi Menschen mit extra-Teilen aber dennoch. Anscheinend gibt es keine dominante Spezies bei Swoop-Rennen. Und das obwohl man bei den Milliarden an möglichen Rennfahrern doch erwarten würde das sich schnell ein Trend herausstellt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 8, Aufnahme vom 03.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #52
+
+* Titel: `KotOR 2 - #52 - Nar Shadaar, Docks [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Rein von der Logik her stelle ich mir die Raumfahrt ein wenig wie Schiffsverkehr wie er heute ist vor. Es gibt größtenteils kommerzielle Fahrzeuge die im Auftrag irgendwelcher Speditionsunternehmen lange Strecken fahren und Waren und Güter durch die Galaxie schippern. Dann gibt es da noch reiche Säcke die halt mit ihrer Privatyacht irgendwo anlegen und sich dann in der Marina voll laufen lassen während irgendwelche Stewards sich um das Schiff kümmern. Tatsächlich ist zumindest in der Flussschifffahrt (3fach S und F?) die Hürde gar nicht so schwer ein eigenes Bott zu besitzen, dennoch legt man immer noch in Marinas an aber eventuell halt nicht mehr im exklusiven Yacht-Hafen. Aber ich glaube das Wort Yacht impliziert auch Seetauglichkeit, vielleicht sogar Hochseetauglichkeit. Wie dem aber auch sei, in diesem Beispiel ist die Ebon Hawk also eine Yacht. Da wo wir angelegt haben sieht es nicht direkt aus wie ein Yachthafen. Daher ist es auch nicht verwunderlich das die "Docks", also da wo die kommerzielle Schifffahrt anlegt es auch nicht so richtig aussieht wie Docks. Man würde doch irgendwie mehr Verladekräne erwarten oder? Stattdessen stehen ein paar Kisten in den Ecken rum, aber das war es dann wohl. Später erfahren wir immerhin warum aktuell keine großen Frachtschiffe anliegen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 8, Aufnahme vom 03.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #53
+
+* Titel: `KotOR 2 - #53 - Energiepylonen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir lösen heute ein Problem das der lokale Frachthafen hat. Das ist ein wenig seltsam weil wir das eigentlich erst viel später tun müssten und generell und überhaupt kommt es mir so vor als hätten wir hier einer Sacher vorgegriffen. Das ist aber nicht schlimm weil davon abgesehen absolut nichts relevantes passiert. Man könnte fast sagen das die Logistik am Raumhafen für Außenstehende genau so langweilig ist wie die Logistik auf der Erde. An sich natürlich ein total wichtiges Thema. Viele Dinge würden sich nicht bewegen wenn man keine Leute hat die sich darum kümmern das Waren in der richtigen Reihenfolge, Menge und Geschwindigkeit von A nach B kommen. Die Pylonen sind übrigens nichts anderes als Leuchtebaken und mir ist wirklich nicht klar warum die Dinger überhaupt so wichtig sind, aber vielleicht ist das ja alles auch viel komplexer als es auf den ersten Blick aussieht. Das hofft man man im Star Wars Universum immer  ein wenig, das alles viel tiefer ist als es den Anschein hat. Wahrscheinlich ist aber das wir einfach nur irgendwelche dummen Ersatzteile beschaffen sollten weil der Dock-Wart zu faul die notwendigen Formulare auszufüllen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 8, Aufnahme vom 03.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #54
+
+* Titel: `KotOR 2 - #54 - Jekk'Jekk Tarr Cantina [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend ist es so das viele der Rassen die wir in Star Wars sehen in Wirklichkeit eine Atmosphäre bevorzugen die mit irgendwelchen Gasen angereichert ist die wir normalerweise nicht haben. Das lässt mich glauben das die gewöhnliche Gaszusammensetzung auf diversen Raumstationen innerhalb der Republik und generell und überhaupt für Menschen ausgelegt ist. Offensichtlich scheinen keinen der bekannten Rassen großartige Probleme damit zu haben, weil mir kommt grade zum ersten Mal zu Ohren das das wohl ein Problem sei. Und doch werden wir dreimal darauf hingewiesen das es sich bei der Bar um ein Rückzugsort für all die nicht-menschlichen Rassen handelt, in dieser Definition betroffen sind übrigens auch viele Xenos die eigentlich komplett humanoid sind und nur einige wenige Erweiterungen am Kopf haben. Zum Beispiel Twi'lek. All das erscheint mir doch ziemlich unlogisch und an sich gibt es auch nicht wirklich viel in der Bar für uns zu tun.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 8, Aufnahme vom 03.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #55
+
+* Titel: `KotOR 2 - #55 - Flüchtlingssektor mit Erinnerungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Anblick von all dem Leid den wir im Flüchtlingssektor erleben kann einen schon schnell einmal irgendwelches Traum hoch kommen.  Das passiert uns zum Beispiel heute. Also eigentlich nicht direkt uns weil wir ja offensichtlich nicht wirklich mit irgendeinen Trauma zu kämpfen haben. Viel mehr ist es so das sich andere Leute an ihre Vergangenheit erinnert fühlen und das nicht besonders angenehm finden. So kommt es das, nachdem wir natürlich einigen Leuten mit ihren schwierigen Umständen gegenüber der Exchange die hier wohl das Sagen hat, geholfen haben, aus ungeahnter Richtung Bemerkungen fallen die dazu führen das wir bestimmte Leute in einem neuen Licht sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 8, Aufnahme vom 03.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

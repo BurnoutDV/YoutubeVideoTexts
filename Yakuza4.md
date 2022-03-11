@@ -1679,6 +1679,156 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #113
+
+* Titel: `Yakuza 4 Remastered - #113 - Yuya der Manager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich für meinen Teil kann nicht sagen das ich gut mit Menschen kann, ich weiß nicht ob, wenn in die Situation gedrängt, ich es schaffen würde langfristig die Moral einer gegebenen Gruppen oben zu halten und irgendwie dafür zu sorgen das alles Leute weiterhin am selben Strang ziehen. Ich bin mir ja nicht einmal sicher ob einen guten Manager oder einen schlechten Manager deutlich erkennen kann. In der Regel ist das Leben aber eh nicht so einfach, klar hat man hier und da seinen Psychopathen der nur nach der Macht strebt und im Großen wie im Kleinen Entscheidungen nach gewonnenen Einfluss entscheidet und nicht was die Aufgabe am besten erfüllt. Die traurige Wahrheit ist aber wohl das die meisten Leute die Teams verwalten eher nicht gut oder schlecht sind sondern einfach nur durchschnittlich. Durchschnittlich ist aber irgendwie schlecht wenn man eine gute Verwaltung will. Weil welchen Sinn hat eine Verwaltung wenn alles sich selbst zu überlassen das gleiche Ergebnis hätte.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 28.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #114
+
+* Titel: `Yakuza 4 Remastered - #114 - Spuren des Doppelgängers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erinnern uns das damals als wir Yakuza 3 gespielt hatten wir es mit einem Doppelgänger zu tun hatten, um genauer zu sein handelte es sich sogar um zwei Doppelgänger. Damals haben wir die Bande zur Strecke gebracht und dem  ganzen Treiben ein Ende gebracht. Nun ist der Sachverhalt aber wohl so das man als lebende Legende das Problem hat das Leute immer und immer wieder versuchen aus der Legende Profit zu schöpfen wenn man sich nicht jede wache Minute darum kümmert dagegen etwas zu tun. In der physischen Welt konnten wir das Problem beim letzten Mal gut beheben aber jetzt scheint es so als gebe es ein Problem in der digitalen Welt, un das können wir wohl kaum so stehen lassen. Und letztendlich ist es doch ein Problem das wir in die physische Welt hinaustragen können, wenn wir nur aufmerksam genug sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 28.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #115
+
+* Titel: `Yakuza 4 Remastered - #115 - Kamurocho Wasser Teufel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Straßengangs scheinen eine Unvermeidlichkeit zu sein. Zumindest in diesem Japan in dem Kiryu lebt. Ich glaube an diesem Zeitpunkt ist Yakuza auch schon ein wenig anachronistisch weil 2009 die Yakuza wesentlich schwächer war als es hier dargestellt wird. Überlegen wir also wo ein Konzept wie Straßengangs eigentlich her kommen könnte. Quelle 1, Ausländer die keine Arbeitserlaubnis erhalten und sich ihr Geld anders verdienen müssen. Quelle 2, sozial abgehängt Menschen ohne ausreichende Bildung oder fehlenden Sozialsystem. Quelle 3, ehemalige Yakuza und Kriminelle die durch die Gesellschaft verbannt wurden und keine andere Aufgabe mehr erfüllen können. Quelle 4?, es ist ökonomisch klüger eine Gang zu bilden als einen echten Job nach zu gehen. Mir fällt auf das alle 4 Gründe die ich anführe alle auf einer gescheiterten Gesellschaft zurück gehen und anscheinend Fehler im Plan wie man die Gesellschaft verwaltet. Dies könnte auf einen überhöhten Hang zur Tradition und der Weigerung den modernen Gegebenheiten Herr zu werden zurück gehen. Vermute ich jetzt einmal. Lange Geschichte kurz, wer sich über Straßengangs aufregt sollte schon mal die Mistgabel schärfen, die Schuld liegt definitiv in der Regierung bzw. Herscherklasse. Alternativ schickt man Kazuma Kiryu los der alle verprügelt, dann hat man Ruhe bis Kiryu wieder weg ist. Das haben quasi die Yakuza jahrelang im großen Stil gemacht. Bis sie weg waren.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 28.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #116
+
+* Titel: `Yakuza 4 Remastered - #116 - Curveball [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute begegnet Kiryu einen alten Bekannte, und ich gebe gerne zu das ich diese Person komplett vergessen hatte. Es handelt sich anscheind um den einen Typen der uns Schwierigkeiten gemacht hat als wir den Sohn des Floristen von Sai rausgehauen haben. Es handelte sich scheinbar um unwichtiger Nebencharakter 232 oder so. Ich kann mich an Nichts erinnern und so auch Kiryu. Aber das liegt vielleicht auch daran das neben den Drachen von Dojima alle Lichter blass aussehen und Namen nur eine Randnotiz sind. Heute ist es anscheinend Zeit für ein Rematch weil ein alter "Feind" eine zweite Chance verlangt. Generell kommen mir all diese Mission aber irgendwie so vor als würden wir Kiryu Lebewohl sagen, lauter Ereignisse die sich auf seine Vergangenheit beziehen und als Abschied zu verstehen sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 28.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #117
+
+* Titel: `Yakuza 4 Remastered - #117 - Kamuro Phonies [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode schrieb ich wie Dinge wie Straßengangs irgendwie eine Unvermeidlichkeit sind. Das geht heute noch weiter, weil nur weil wir die lila-blauen Wasserfische in die Schranken gewiesen haben heißt das ja nicht das es dabei bleibt. Natürlich nicht. Stattdessen haben wir es jetzt mit einer Motorrad-Gang zu tun. Die sogenannten Greaser waren mehr in den 80er Jahren ein Phänomen existieren aber auch heute noch. Prinzipiell ist das ein Stück importierte amerikanische Kultur aus den 50er/60er Jahren soweit ich mich erinnern kann. Alles in Allem übrigens sehr faszinierend. Dennoch stehen die Kiryu im Weg und er muss sich auch um die Straßengang kümmern damit sie ihr schnelles Ende findet.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 28.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #118
+
+* Titel: `Yakuza 4 Remastered - #118 - Kotarus Potenzial [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und die lange Liste an ehemaligen Bekannten die wir jetzt wieder treffen geht weiter. In diesem Falle handelt es sich um einen Typen namens Kotaru. Falls man sich nicht mehr erinnert, der Mann war anscheinend einmal Attentäter, hat aber noch nie irgendjemanden umgebracht, er besteht aber weiterhin darauf das er ein ganz harter Hund ist und daher ernst genommen werden will. Generell und überhaupt hat er im Leben das Problem das oft vorkommt. Er hält sich für recht fähig und möchte nicht den ganzen "Lehrjahre sind keine Herrenjahre" Bullshit durchlaufen den man eigentlich von jemanden erwartet der eine niedrige Position annimmt. In welchem Maß dies für diesen speziellen Fall jetzt notwendig sei sei einmal dahingestellt. Im Allgemeinen finde ich aber solche strikten Regeln die Menschen halt daran binden so und so lange zu buckeln ziemlich schlecht, klar so ein bisschen Bescheidenheit kann im Allgemeinen nicht schaden aber Leute niederknüppeln zu wollen nur aus Prinzip ist halt auch so eine Sache.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 28.02.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #120
+
+* Titel: `Yakuza 4 Remastered - #120 - schwarze Tonkotsu Ramen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wieder begegnen wir nicht nur irgendwelchen Verbrechern und Schläger auf den Straßen von Kamurocho, aber das muss ja nicht immer so ein. Gelegentlich erleben wir auch erfreuliche Dinge, wie zum Beispiel das wir neue kulinarische Expeditionen erleben. Heute geht es anscheinend in das Reich des Knoblauch-Öls, nein ich habe keine Ahnung was es damit auf sich hat, ob das lecker oder überhaupt irgendetwas ist, aber hier sind wir. Immerhin können wir gelegentlich ein paar Sachen essen um unsere Gesundheit wieder herzustellen. Das ist doch eigentlich auch nicht ganz verkehrt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 07.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #121
+
+* Titel: `Yakuza 4 Remastered - #121 - Kanto Gangster [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie hören die Gangster nie auf die wir treffen. Tatsächlich dachte ich heute noch das wir eigentlich fertig sind wenn wir die gelben Gangs geschlagen haben, weil die kleinen Farbengangs die wir im Vorgänger getroffen haben waren halt genau drei Banden. Nun sieht die Situation aber ein wenig anders aus, interessant ist aber auch der Anführer der Kanto Gangsters, allerdings verstehe ich nicht so recht wie genau es diese Schwächlingen es jemals geschafft haben stark genug zu sein um überhaupt auch nur den Versuch zu starten nach Kamurocho zu gehen. Aber hier sind sie, mit einem interessanten Anführer muss ich übrigens auch sagen, ein interessanter Wechsel den ich so gar nicht mehr erwartet hätte.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 07.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #122
+
+* Titel: `Yakuza 4 Remastered - #122 - unsichtbare Verbrecher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich laufen wir heute nur umher, theoretisch suche ich irgendwelche Verbrecher oder überhaupt irgendetwas um Kamurocho zu einem besseren Ort zu machen. Obwohl sich ein wenig die Frage stellt inwiefern das überhaupt der Fall ist. Von dem was wir so gesehen haben scheinen die einzelnen Banden ja nur an Kiryu interessiert zu sein und niemand sonst befindet sich überhaupt auf deren Radar. Was dann wieder darauf hinaus läuft das die Straßengangs die sich ausbreiten eigentlich gar keine Bedrohung für nicht Nicht-Kiryu Menschen sind. Aber das könnte sich natürlich in der Zukunft ändern, insofern sind unsere Taten wahrscheinlich gar nicht einmal so schlecht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 07.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #123
+
+* Titel: `Yakuza 4 Remastered - #123 - Notlügen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eine traurige Wahrheit in Beziehungen das es manchmal notwendig ist zu Lügen. Natürlich sagt man jetzt, bevor es passiert ist das man seinem Partner gegenüber immer ehrlich ist und das es Nichts gibt das man der geliebten Person verschweigen würde. Und dann geschieht das Leben und man sieht sich in einer Situation in der man seinen Partner beschützen möchte. Und dann lügt man. Es ist keine Lüge um sich einen Vorteil zu verschaffen, es geht einzig und allein darum jemanden zu schützen. Im Englischen nennt man das ganze dann übrigens eine "White Lie", quasi eine Weiße Lüge, soviel anders als die schwarze Lüge die natürlich viel schlimmer wäre. Das ist übrigens ein häufiges sprachliches Muster im  Englisches, es gibt da auch noch "White Torture" aus der Kategorie von Dingen die keine sichtbaren Spuren hinterlassen. Die Nebenquests die wir heute tun hat übrigens auch etwas von Folter ohne Spuren..für die Beteiligte Person, auch wenn Kiryu die meiste Zeit zusätzlich verwirrt ist.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 07.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

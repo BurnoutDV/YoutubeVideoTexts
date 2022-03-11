@@ -1229,6 +1229,141 @@
   Sitzung 7, Aufnahme am 28.02.2022
   ```
 
+##### #194
+
+ * Titel: `Outer Worlds - #194 - [DLC2-#44] - Betty die Melkeinheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manch einer mag vielleicht denken das so eine Melkeinheit noch viel dunklere Sachen macht aber heute sehen wir nur eine kleine süße Geschichte. Ich ziehe an der Stelle einfach mal die Parallele zum Star Wars Universum. Und gleich noch zu Cyberpunk 2077 wo wir dabei sind. Ich habe leider zu wenig Ahnung von der eigentlichen, ursprünglichen Cyberpunk Welt um zu viele Details zu wissen aber die Sachlage ist so in den verschiedenen Welten. In Star Wars löschen die regelmäßig die Speicher der Droiden weil die sonst komisch werden, auch bekannt als "entwickeln ein Bewusstsein". Wir dürfen wohl der Macht dafür danken die sich einfach auf jeden möglichen Wirt ausbreitet und das Leben aktiv vor ran treibt, auch wenn es ein mechanisches Gehirn ist. Die meisten Roboter in Outer Worlds scheinen mir tatsächlich dumm zu sein und keine echte künstliche Intelligenz zu besitzen, die Grenze ist auch ein wenig schwierig zu setzen. Wenn wir uns ADA anschauen sehe ich durchaus Potenzial für künstliche Intelligenz in Halcyon, auch wenn nur als Unfall und die Hardware hält auch hier zurück. Das bringt uns zu Cyberpunk zurück, hier heißt es klar das man echte künstliche Intelligenz durchaus leisten kann, man braucht dafür nur entsprechend viel Rechenpower. Also wirklich viel, soviel das man nicht einfach so eine KI hat die alles übernimmt weil Physik immer noch Probleme macht. Zurück zu unserer Melkeinheit, die ist zu klein für echte Intelligenz (das englische Wort hat hier eine leicht andere Bedeutung als das Deutsche, das ist ein Problem). Einen Melkroboter zu lieben ist also ziemlich dumm. Ende der Beweisführung.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 7, Aufnahme am 28.02.2022
+  ```
+
+##### #195
+
+* Titel: `Outer Worlds - #195 - [DLC2-#46] - dein trogloides Herz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube irgendwann wurde bereits erwähnt wo die verschiedenen Viecher herkommen die auf Halcyon herumlaufen. Man möchte ja eigentlich meinen das auf einer Kolonie die quasi komplett aus dem Nichts erschaffen wurde und für deren Erstellung sehr viele Terraforming Maßnahmen ergriffen wurden, das eine solche Kolonie einfach überhaupt keine für Menschen gefährliche Tiere enthält. Und doch ist tatsächlich genau das Gegenteil der Fall. Mantis, Troglos und Möter bestreifen jedes bekannte Gebiet und stellen eine massive Gefahr für alle Bewohner Halcyons da die einen der genannte Viecher zu nahe kommen. Nicht nur sind die meisten dieser Arten giftig, vermehren sich wie Unkraut oder sind überaus aggressiv, nein, man scheint sich auch keine Umstände zu machen gegen diese Arten vor zu gehen. Manche freunden sich sogar direkt mit den wilden Tieren an.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 7, Aufnahme am 01.03.2022
+  ```
+
+##### #196
+
+* Titel: `Outer Worlds - #196 - [DLC2-#47] - der furchtlose Virgil Handerson [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Element mit dem Outer Worlds wirklich viel spielt ist das wir wirklich ein Beobachter von Außen sind. Alle anderen Bewohner der Kolonie sind ja schon seit langer Zeit in der örtlichen, kapitalistischen Kultur eingebettet und finden viele Dinge die sie sehen als absolut normal. Wir allerdings sind vom ersten Kolonieschiff und damit recht alt und vom Denken her auch eher an den Kernwelten, der Erde oder wo auch immer wir eigentlich her kommen angelehnt. Ich nehme einmal stark an das die Leute die sich nach Halcyon aufgemacht haben sowieso schon ein wenig seltsam drauf waren aber das Leben in der Kolonie hat das Ganze dann doch noch ein wenig destilliert. Diese ganze Vorgeschichte ist übrigens ein toller Kniff der es den Spieler ermöglicht quasi die vierte Wand zu durchbrechen ohne es wirklich zu tun. Es ist absolut plausibel das unser Captain die Situationen die sich uns bieten genauso absurd findet wie wir.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 7, Aufnahme am 01.03.2022
+  ```
+
+##### #197
+
+* Titel: `Outer Worlds - #197 - [DLC2-#48] - Geologische Vermessungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist nicht so ganz bewusst was genau man bei einer künstlich geschaffenen Oberfläche noch vermessen möchte. Wenn man das technologische Niveau besitzt um schwebende Felsen die sich mit Geschwindigkeit in einer dünnen Atmosphärenschicht um einem Gasriesen herumbewegen zu erschaffen, sollte man dann nicht absolut darüber informiert sein wie genau besagte Felsen aufgebaut sind. Generell und überhaupt habe ich wohl ein wenig geschlafen als es darum ging wie genau der Komplex eigentlich erschaffen wurde. War es eine Idee des Vorstandes die erst später umgesetzt wurde oder war es Teil des ursprünglichen Besiedlungsplanes und hat daher hochtechnische Lösungen benutzt die jetzt einfach nicht mehr zur Verfügung stehen? So ganz klar ist mir das übrigens nicht. Aber die Tatsache das man anscheinend irgendwelche Untersuchungen an Dingen anstellen muss die man angeblich selber erschaffen hat lassen mich darauf schlussfolgern das die Gesellschaft in Halcyon bereits auf den absteigenden Ast ist. Nicht das das irgendetwas Neues wäre, aber das ist auf jeden Fall ein großes Indiz dafür.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 7, Aufnahme am 02.03.2022
+  ```
+
+##### #198
+
+* Titel: `Outer Worlds - #198 - [DLC2-#49] - verlassene Rizzo-Bunker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das das komische Loch das wir quasi vorhin erkundet haben und der Bunker in der sich die Prophetin des Profits einquartiert haben zwei völlig verschiedene Einrichtungen sind. Klar irgendwie hängen die zusammen aber wir hätten anscheinend das Loch komplett ignorieren können und wären genauso gut vor ran gekommen. Etwas seltsam ist übrigens das wir überhaupt noch Rizzo Mitarbeiter hier finden. Was ich den Dokumenten entnehmen kann sollten alle Rizzos Leute schon lange hier weg sein, und doch finden wir Aufzeichnungen der Wissenschaftler und sogar noch lebendige Mitarbeiter. Die sind vielleicht nicht mehr so zurechnungsfähig, aber bis vor Kurzem haben sie sogar noch geatmet. Jetzt stellt sich nur noch die Frage warum es überhaupt etwas gibt das einem aktiven Bunker ähnelt. So gefährlich sind die Viecher nun auch nicht und soweit ich informiert bin gibt es auch keine aktive Kriegssituation auf Halcyon. Warum also?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 7, Aufnahme am 02.03.2022
+  ```
+
+##### #199
+
+* Titel: `Outer Worlds - #199 - [DLC2-#50] - die rechte Hand-Frau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß das die Spannung und die Erwartung endlich die Prophetin des Profits zu treffen quasi endlos ist aber bevor das passiert müssen wir natürlich mit allen Handlangern sprechen die wir so auftreiben können, nur so für den Fall das wir noch mehr Informationen erhalten. Man kann im Allgemeinen nie genügend Informationen haben und deswegen sammeln wir auch alle die wir können. Die gute Aliyah ist quasi auch unsere Namensvetterin und hat doch ein paar interessante Einblicke. Es erscheint mir übrigens ziemlich interessant wie pleite man so als Guru eigentlich sein kann. Von dem was wir hier so sehen scheint mir das Lehrgangsbusinesss nicht die reichsten Früchte zu tragen. Nun ja, wie dem aber auch sei, mit Unterlinge zu reden ist das absolute Haupthandwerk für jede angehende Inspektorin.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 8, Aufnahme am 06.03.2022
+  ```
+
+##### #200
+
+* Titel: `Outer Worlds - #200 - [DLC2-#51] - die Prophetin des Profits [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt in der die kleine Kolonie Halcyon existiert ist eigentlich gar nicht so viel anders als die in der wir leben. Nur das halt alles was irgendwie existiert kommerzialisiert ist und im Kontext einer Firma bzw. des Kapitalismus existiert. Daher kommt es dann so das Dinge wie das Loslösen  von der Gesellschaft ein wenig anders verpackt werden müssen damit sie im Kontext der Welt weiterhin funktionieren. Der Fall ist jetzt also der das die Leute auch eine erhebliche Menge Cargo-Cult haben. Wir haben das bereits auf Monarch gesehen, die Leute tun viele Dinge einfach nur weil sie glauben das man nur erfolgreiche Taktiken möglichst genau kopieren muss um am Ende das gleiche Ergebnis zu erreichen. In einer solchen Welt auszubrechen ist ein wenig schwierig, insbesondere weil es eine durchaus effektive Propaganda-Abteilung  gibt die sich um solche Ungenauigkeiten liebend gerne kümmert. Jasmin Leira, die Prophetin des Profits ist jemand die sich Lücken zu Nutze gemacht hat und es irgendwie geschafft hat in dieser kleinen Nische Profite für sich selbst zu erwirtschaften. Ich gehe übrigens davon aus das nur sie Geld daran  verdient, wenn ich jetzt noch irgendwie erfahren könnte wie sie die Leute nachhaltig reinlegt das die Methoden funktionieren.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 8, Aufnahme am 06.03.2022
+  ```
+
+##### #201
+
+* Titel: `Outer Worlds - #201 - [DLC2-#52] - Hotelpage Norville [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es tut mir schrecklich leid, aber ich habe einfach zu lange gebraucht. Während ich umher lief und Dinge tat habe ich irgendwie den Überblick über die Zeit verloren, das läuft dann darauf hinaus das ich mit irgendwelchen Leuten quatsche die ich im Vorfeld vergessen habe und am Ende stellt sich halt heraus das ich gar nicht mehr genügend Zeit für die große Enthüllung habe. Das wieder rum heißt aber auch das die Episode kurz wird, wir nur mit unwichtigen Nebencharakteren quatschen und gar nichts passiert. Dafür spannt sich der Spannungsbogen ein wenig mehr. Wenn man auf solche Dinge steht.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 8, Aufnahme am 06.03.2022
+  ```
+
+##### #202
+
+* Titel: `Outer Worlds - #202 - [DLC2-#53] - das wahre Mörder [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt ist es endlich soweit, wir stellen das wahre Mörder, bis her haben wir ja nur jede Menge Spuren gesammelt die uns eigentlich nur die Unschuld anderer Personen bewiesen haben. Obwohl man wohl sagen kann das so richtig Nichts bewiesen wurde, egal wo wir bisher waren gab es keine super sicheren Alibis, niemand konnte so richtig belegen das er oder sie nichts getan hat. Aber man kann sagen das die Leute zumindest ehrlich gewirkt haben und selbst die die etwas Dreck am Stecken hatten haben zwar etwas versucht aber man kann ihnen wohl tödliche Absichten am Ende doch absprechen. Nicht so rosig sieht es wahrscheinlich für die Prophetin des Profits aus, die hat Helen immerhin den Wölfen zum Fraß vorgeworfen. Das  war schon ziemlich unfreundlich.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 8, Aufnahme am 06.03.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

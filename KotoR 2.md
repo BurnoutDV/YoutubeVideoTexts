@@ -901,6 +901,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #56
+
+* Titel: `KotOR 2 - #56 - Saqueshs Wachen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Schwierigkeitsgrade von KotOR2 schwangt ein wenig hin und her, so richtig kann ich auch nicht einschätzen wie stark oder schwach Gegner sind weil es eben kein Textlog gibt das mir sagt wie mein Schaden gerollt ist. Hinzu kommen Effekte wie das Ausweichen und die miese Trefferrate der Fern- aber auch Nahkampfwaffen was es irgendwie schwer macht eine gute Einschätzung des eigenen Offensivpotenzials zu erhalten. Was ich sehe ist das Gegner sterben, größtenteils weil der Schwierigkeitsgrade immer noch auf Einfach steht, aber so wie ich die Dinge sehe hätte "Normale" oder vielleicht sogar "Schwer" auch nichts geändert. Es hätte einfach nur länger gedauert. Das ist ein wenig die Tragik darin wenn Schwierigkeitsgrade nur Zahlen verändern aber nicht das Verhalten. Tatsächlich weiß ich aber auch gar nicht ob dem wirklich so ist. Die Wachen von Saquesh, dem lokalen Boss in den Flüchtlingsquartieren interessiert das aber überhaupt nicht. Wir schießen ihn über den Haufen ohne groß nach zu denken. Und dabei haben wir uns sogar noch die moralische Überlegenheit gesichert. Großartig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 8, Aufnahme vom 03.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

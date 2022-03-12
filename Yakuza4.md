@@ -1829,6 +1829,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #124
+
+* Titel: `Yakuza 4 Remastered - #124 - anderer Leute Probleme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich ist es Kiryu (oder Akiyama bzw. Tanimura) die in das Leben anderer Leute hineingezogen werden was dann wiederum dazu führt das wir keine Dinge tun können, zu beschäftigt damit die Probleme der Bevölkerung zu lösen. Heute werden wir quasi selbst zum Nebencharakter und sehen wie andere Leute in die gleiche Situation kommen. Es gibt da nur einen Unterschied, die Person ist nicht der Hauptcharakter des Spieles und kann daher auswählen welche Nebenmissionen grade wichtig ist, stattdessen kommt alles gleichzeitig. Dinge die leider dafür sorgen das man quasi nichts mehr machen kann. Wenn man wahrhaft ignorant wäre wäre das Leben wahrscheinlich leichter, einfach die Probleme der Menschen ignorierend.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 07.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

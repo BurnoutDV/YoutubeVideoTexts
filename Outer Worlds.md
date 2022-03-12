@@ -1361,7 +1361,22 @@
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
   Outer Worlds: Murder on Eridanos als Offline Projekt
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
-  Sitzung 8, Aufnahme am 06.03.2022
+  Sitzung 8, Aufnahme am 08.03.2022
+  ```
+
+##### #203
+
+* Titel: `Outer Worlds - #203 - [DLC2-#54] - Belinda [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute gehen wir dann endlich in die Tiefen der Rizzos-Brauerei und Abfüllanlage. Ich möchte übrigens an dieser Stelle erinnern das Helen anscheinend vor ihrem Tod noch Sprengstoff gestohlen hat der bisher noch nicht wieder aufgetaucht ist. Es gibt ungefähr drei Orte von denen ich mir vorstellen könnte wo der Sprengstoff gelandet ist. Natürlich im Hotel, einfach als generelles Statement gegen den dekadenten Reichtum im Vergleich zum Leiden der normalen Leute. Unwahrscheinlich. Bei PHAETON um die gesamte Anlage dem Tod zu übergeben, Radikal aber sicherlich effektiv. Oder aber in der Brauerei um die Herstellung von Spektrum Brown zu stoppen. Natürlich gebe es da noch die RAFF Labore als mögliches Ziel, aber das wäre dann spätestens mit dem Tod von Dr. Blossom passiert, also kann man das ausschließen. Diesen Gedanken sollten wir uns nahe halten wenn wir in die Tiefen der Anlage gehen um Ludovico endgültig zur Rede zu stellen. Unser geheimnisvoller Gegenspieler könnte bereits vor Ort sein und seine Falle mit doppelt gestohlenen Sprengstoff gestellt haben. Wir werden es wohl herausfinden. So funktionieren die Dinge in Spielen, keine Angst, nur Neugier.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 8, Aufnahme am 08.03.2022
   ```
 
 ##### #Nummer

@@ -1626,6 +1626,23 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
+##### #101
+
+* Titel: `Batman Arkham Knight - #101 - Seagate Vergnügungspark [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC: Eine Familienangelegenheit
+  
+  Wir gehen zurück in die Vergangenheit, das müssen wir übrigens auch weil sonst würde Barbara Gordon ja im Rollstuhl sitzen. Ich weiß übrigens absolut nichts über Batgirl. Irgendwann muss sie ja ausgebildet worden sein. Ihr Kampfstil ist, wahrscheinlich aufgrund der Spielmechanik sehr ähnliche dem was Batman benutzt. An sich übrigens ein schöner Gedanke allerdings steht uns da wohl ein wenig die Realität im Weg. Genau wie Harley oder Catwoman müsste Batgirl wesentlich leichter kämpfen, als Frau kann sie sich es nicht leisten jemals von einem Mann gegriffen zu werden, die Kraft im Oberkörper ist ärgerlicherweise lächerlich geringer. Ihre Vorteile liegen in Beweglichkeit und Beinmuskulatur. Später dann nicht mehr, so gesehen ist es eigentlich extra ärgerlich was mit ihr geschehen ist. Aber all das liegt in der Zukunft, außerdem sind die meisten Gangster wohl einfach nur Muskeln und nicht Gehirn, insofern könnte die unbekannte Größe "Frau die sich wehrt" durchaus ein größeres Problem darstellen als Batman selbst. Noch sind wir in der Vergangenheit und tun Vergangenheitsdinge, immerhin können wir Spaß haben, sind wir doch auf einen Vergnügungspark, da kann es doch nichts Schlechtes geben oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 08.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
 ##### #Nummer
 
 * Titel: ``

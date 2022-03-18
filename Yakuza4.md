@@ -1844,6 +1844,81 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #125
+
+* Titel: `Yakuza 4 Remastered - #125 - Familienwerdung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Seltsame Titel, ja das kann ich. Zum Beispiel heute in dieser tollen Geschichte die sich da "Familienwerdung" nennt. Eigentlich ist das sogar doppeldeutig weil meine Nebenquest die an sich schon ein wenig Meta ist durch eine andere Nebenquest unterbrochen wird. Sowas ist immer ganz lustig anzuschauen. Im Nachhinein kann ich aber stolz berichten das die beiden Missionen irgendwie ein wenig zusammenpassen. In beiden geht es darum das Leute eine Familie werden und sich ihre wahren Gefühle gestehen. Das ist, soweit ich das durch Dokus von Außen mitgekriegt habe, in Japan nicht immer ganz einfach. Man hat Schwierigkeiten über die eigenen Gefühle zu reden und das führt dann zu mehr Problemen, alles aus der Angst heraus das man ja etwas falsch machen könnte oder irgendjemanden auf den Schlips treten könnte. Alles in Allem keine Kultur die es besonders leicht macht die eigenen Gefühle zu gestehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 07.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #126
+
+* Titel: `Yakuza 4 Remastered - #126 - Maya Mori [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die japanische Mentalität zu erkennen gelingt mir nicht immer besonders gut. Ich würde sogar behaupten das ich weniger verstehe als was ich nicht verstehe. Mittelweile haben wir ja doch schon recht viel durch die Linse eines Spieles gesehen und doch machen viele der Ereignisse die geschehen wenig Sinn aus meiner Sichtweise. Etwas nachvollziehbarer sind aber immerhin mittlerweile die Hostess Clubs geworde. Welchen Sinn Kiryu als Kurzzeitbesucher genau davon hat mit der gleichen Hostess abzuhängen weiß ich übrigens nicht. Immerhin erfahren wir einige interessante Dinge über das Leben von Maya Mori. Ich frage mich ja ob es auch Hostessen gibt die wirklich absolut langweilig sind. Zwar fähig ein gutes Gespräch zu führen aber wenn man sie nach ihren persönlichen Leben fragt findet man nur eine leere Hülle wieder. Maya ist ein wenig mehr als das, und doch kommt es mir wie Betrug vor überhaupt nur mit ihr zu reden, und dabei sind wir doch derjenige dem die Vertrautheit vorgegaukelt wird.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 07.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #127
+
+* Titel: `Yakuza 4 Remastered - #127 - Kiryus erster Artikel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich ist das absolut nicht Kiryus erster Artikel, viel mehr handelt es sich um den ersten Artikel in einer Zeitschrift den Kiryu als Ghostwriter geschrieben hat, aber im Allgemeinen hat er bereits viele Dinge verfasst. Der Mann betreibt schließlich einen Blog der anscheinend sogar Leute hat die ihn lesen. Letztendlich lasse ich mich noch einmal auf eine unnötige Hostessgeschichte ein die anscheinend nirgendwohin führt. Ich weiß, es ist ganz schön etwas über Leute zu erfahren und Maya Mori ist bestimmt auch eine nette Person, aber so richtig weiter bringen tut uns diese simulierte Beziehung dann auch nicht.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 14.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #128
+
+* Titel: `Yakuza 4 Remastered - #128 - Club Shine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Clublandschaft in Kamurocho ist ziemlich reich, das muss sie auch sein, weil sonst wäre ja ein Vergnügungsbezirk auch kein richtiger Rotlicht-Bezirk. Dennoch sind wir mit den diversen Helden nie in so richtigen Tanzclubs, das liegt auch vielleicht daran das man dann keine großen Dialoge hat. Stattdessen betreten wir heute das Shine. Es handelt sich um einen weiteren Hostess-Club. Ein wenig ironisch ist das wir noch wenige Minuten vorher im Jewel über unsere Treue einer Frau gegenüber sprechen. Ich hoffe ja sehr das die gute Maya Mori nicht so gut zwischen den Hostessen der Stadt vernetzt ist. Auf der anderen Seite ist sie ja ziemlich damit beschäftigt noch Model zu sein, es könnte also durchaus sein das sie wirklich nichts von dem erfährt was wir so in anderen Clubs treiben, die meisten Menschen scheinen ja nicht zu wissen wer Kiryu eigentlich ist, da wird schon keiner quatschen, hoffe ich.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 14.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #129
+
+* Titel: `Yakuza 4 Remastered - #129 - Shizuka Saito [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir gehen auf ein weiteres "Date" mit Kiryu und treffen eine Person namens Shizuka Saito. Saito ist ein wenig sehr seltsam, so seltsam das ich tatsächlich ein paar Worte darüber verliere. Die gute Shizaki möchte eine schwache Frau sein die von einem starken Mann quasi fremd bestimmt wird. Das sagt sie zwar nicht so aber letztendlich drückt sie das genau so aus. Ich bin mir nicht sicher ob das eine Art Unterwerfung darstellt oder einfach nur Faulheit aus dem Verlangen heraus das man sich um Nichts kümmern muss. Eventuell romantisiert sie aber auch einfach die Vergangenheit. Letztendlich stellt die gesamte Szene eine interessante Idee da, mir selbst sind die Ansichten von Shizuka ziemlich Anathem aber irgendwie muss man wohl damit rechnen das es Leute gibt die diese Rolle von sich aus annehmen würde und dann stellt sich die Frage an das eigene Selbstbild wie man das akzeptieren kann wenn man die Philosophie hat akzeptierend zu sein. So oder so so schreibe ich mal ganz schnell einen Artikel und hoppel davon.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 14.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

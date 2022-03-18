@@ -1379,12 +1379,34 @@
   Sitzung 8, Aufnahme am 08.03.2022
   ```
 
-##### #Nummer
+##### #204
 
-* Titel: ``
+* Titel: `Outer Worlds - #204 - [DLC2-#55] - eine lange Geschichte [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  In der letzten Episode haben wir von Belinda erfahren, letztendlich bestätigt dies nur eine der Vermutungen die ich hatte, allerdings war es nicht eine der genauen Konfigurationen die ich skizziert hatte. Das ist außerordentlich ärgerlich weil die Familienverbindung natürlich ziemlich offensichtlich war. Immerhin passen jetzt viele Dinge zusammen. Belinda war also die eigentlich weniger fähige Schwester. Die Person die zwar emotional wertvoll war allerdings nicht über die Fähigkeiten der anderen Seite verfügte. Dieser Mangel an Fähigkeiten war auch der mir aufgefallen war. Alles was wir bis dahin gesehen haben hat auf eine äußerst fähige Agentin hingedeutet, die diversen Wunden auf der Leiche zeigten dann aber doch eher in eine andere Richtung. Nur lag ich völlig falsch das es sich bei Helen um eine Industriespionin oder Agentin einer unbekannten oder bekannten Entität handelt. Sie ist anscheinend einfach so so fähig. Dennoch gibt es Lücken in unserer Erklärung der Umstände, und das ist wo wir dann doch noch einmal ein paar Fragen stellen. Klar werden wir wieder mit einem "das ist eine lange Geschichte" abgewiesen, aber das lasse ich nicht geltend. Die Zeit muss sein, meine Neugier ist einfach zu groß.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 8, Aufnahme am 08.03.2022
+  ```
+
+##### #206
+
+* Titel: `Outer Worlds - #206 - [DLC2-#57] - Die Bestie, die im Herzen der Welt ihre Liebe herausschreit`
+
+* Beschreibung:
+
+  ```markdown
+  HINWEIS: ab 31:45 wird das Ding hier zum Hörspiel, ich kann daran absolut nichts ändern. Bei der Aufnahme ist irgendetwas geschehen, aber die Daten des Videos existieren einfach nicht. Zum Glück ist bis dahin eigentlich alles geschehen was geschehen konnte.
+  
+  Für den heutigen Episodentitel musste ich sogar ein paar Teile von meinen üblichen Meta-Tags entfernen. Eigentlich stand hier nämlich der ursprüngliche Titel "Administrator Ludovico" aber dann habe ich mich umentschieden. Zwischenzeitlich hatte ich auch eine Idee die ein wenig mehr Spoiler war aber letztendlich habe ich mich dann doch für den ursprünglichen Questnamen entschieden. Der ist ein wenig Nichtssagend muss ich sagen, aber irgendwie klingt er auch poetisch. Oder wie Animes der jüngeren Zeit. Wie dem aber auch sei, heute "wrappen wir es up" wie die Jugend zu sagen pflegt. Große Endkampfzeit, wir hauen ein wenig Dinge in den Kies und verhinder das das große Böse obsiegt. Letztendlich erhalten wir aber überraschend wenig Schützenhilfe, zum Glück brauchen wir die aber auch nicht. Und damit schließt sich dann der Fall um den Mord auf Eridanos. Die Toten werden nicht wieder lebendig aber ich hoffe doch das ich das Schlimmste verhindern konnte.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr. 
+  Outer Worlds: Murder on Eridanos als Offline Projekt
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPcZxPMy3sWlBi1adMWpXTg
+  Sitzung 8, Aufnahme am 08.03.2022
   ```

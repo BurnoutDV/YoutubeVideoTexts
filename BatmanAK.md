@@ -1643,12 +1643,80 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9r
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
 
-##### #Nummer
+##### #103
 
-* Titel: ``
+* Titel: `Batman Arkham Knight - #103 - Weißer Hai und Riesenrad [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  DLC: Eine Familienangelegenheit
+  
+  Jetzt geht es auch noch an den Zeitdruck. Ein wenig enttäuscht bin ich ja schon von diesem DLC, es gibt natürlich ein wenig Setting zu sehen, wir erhalten eine neue Perspektive auf die Beziehung zwischen Robin#3 und Batgirl und generell und überhaupt gibt es eigentlich ein paar interessanter Verwicklungen. Was mir allerdings jetzt fehlt sind irgendwie andere Teile des Spieles die nicht nur Hauen und die immer gleichen Hacks sind. Sollten Barbara und Tim nicht ein wenig mehr können als sich mit Leuten zu prügeln. Immerhin bietet der Zeitdruck eine neue Möglichkeit die erlernten Fähigkeiten einmal mehr unter Beweis zu stellen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 08.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
   ```
+
+##### #104
+
+* Titel: `Batman Arkham Knight - #104 - Harley und Joker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC: Eine Familienangelegenheit
+  
+  In den Vorgängern die ich bisher gespielt habe haben wir eigentlich kaum etwas von der Interaktion zwischen Harley und Joker gesehen. Nachdem wir aber einen Blick in den Kopf von Harley werfen konnten wissen wir immerhin das ein Teil von Harleen Quinzel immer noch da ist. Immerhin zeigt sich doch recht schön das der Joker zwar Harley als Werkzeug zu schätzen  weiß sich aber nicht zu schade ist sie in einen Sekundenbruchteil einfach weg zu werfen. Auch sehen wir noch ein wenig Interaktion zwischen Robin3 und Batgirl1 (ich hab mich zwischenzeitlich darüber belesen wie viele Robins und Batgirls es noch gab, das reißt ja gar nicht ab das Thema). Nun, wie dem aber auch sei, dies ist die letzte Episode des DLCs Familienangelegenheiten, das war zwar ein wenig umfangreicher aber letztendlich enthielt es auch viel recyceltes Gameplay, bis auf die Zwischensequenzen also eher langweilig möchte ich sagen. Gut unterhalten war ich dennoch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 08.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #105
+
+* Titel: `Batman Arkham Knight - #105 - Windslow's Spielzeugladen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC: Catwomans Rache
+  
+  Wir rauben heute einen Spielzeugladen aus, als Kind war das bestimmt einmal so eine Art Traum, heutzutage bin ich mir nicht sicher ob ich mit der materiellen Fülle überhaupt irgendetwas anfangen könnte, letztendlich sind sich Spielzeuge doch ähnlicher als man meinen möchte und die Freude etwas Neues zu bekommen oder in Katalogen zu sehen was es noch so alles gibt es ein signifikanter Teil von dem was so ein Spielzeug ausmacht. So gesehen hat die Werbung auch einen positiven Effekt, nicht nur liegen Kindern damit ihren Eltern auf der Tasche es sorgt auch irgendwie für ein gewisses Glücksgefühl einfach in der Erwartung. Aber deswegen sind wir eigentlich gar nicht hier, wir sind übrigens Catwoman in dieser Geschichte, das sorgt dafür das wir uns ein wenig sehr sexy bewegen wenn wir durch die Gegend wackeln und nicht davor zurückscheuen andere Leute zu berauben. Rein theoretisch haben wir in der Kanon-Variante des Spiels Batman dabei geholfen den Riddler zu besiegen und sind jetzt sauer das wir nicht reich geworden sind. Außerdem wäre da noch dieser Teil mit dem Sprengstoffhalsband, das war ein wenig unerfreulich.
+  
+  0:00 - Gameplay
+  25:11 - Endkampf nicht verstehen
+  40:28 - Endkampf verstehen und schaffen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 08.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+##### #106
+
+* Titel: `Batman Arkham Knight - #106 - harte Gerechtigkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC: Abriegelung des GCPD
+  
+  Und jetzt sind wir wirklich am Ende des Batman Arkham Asylum Lets Plays. Als allerletztes spielen wir noch einmal Nightwing, wir erinnern uns, der erste Robin der sich irgendwann einmal mit Bruce Wayne verstritten hat. Es handelt sich um einen immer noch relativ jungen Mann der anscheinend Panzerplatten für Ausstellung seines Körpers eingetauscht hat. Ich frage mich ob man den guten Nightwing als Eye Candy bezeichnen könnte, gut gebaut sind die ganzen Bat-Familie Typen ja eigentlich immer, selbst Alfred wird gelegentlich als recht fit dargestellt. Zur Sache, wir sollen irgendwie verhindern das die verbleibenden Truppen des Pinguins eben jenen aus der Gefangenschaft des GCPD befreien. Wo genau die Organisation und Planung dafür her kommt ist mir übrigens nicht bewusst aber scheinbar soll das irgendwie funktionieren und deswegen sollen wir das auch verhindern. An sich ist das übrigens nur aufgewärmte Mechaniken aber immerhin wird noch ein wenig Geschichte erzählt, das ist etwas denke ich einmal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 16.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNb3WidW1WdyE7SfxS9rUP
+  ```
+
+## Fazit
+
+Batman Arkham Knight war mit seinen DLCs und (ich glaube zusätzlichen Missionen innerhalb des Hauptspiels) ein relativ langes Spiel, was ich allerdings nicht schätze sind die teilweise idiotischen Rätsel des Riddlers die die Missionen unnötig in die Länge gestreckt haben. Auch die Tatsache das man das Spiel nicht vernünftig und richtig beenden kann ohne das man wirklich ALLES macht hinterlässt bei mir einen ziemlich faden Beigeschmack. Alles in Allem war es aber dennoch ein gutes Spiel, die Kämpfe fühlen sich grade im direkten Vergleich mit Arkham City doch noch einmal einen Tick dynamischer an und die größere offene Welt war durch die Armee des Arkham Knight auch tatsächlich ganz gut gefüllt, nur wenige Ecken wirkten leer und bedeutungslos. Man könnte wohl kritisieren das die Grundprämisse mit den plündernden Gangs und der plötzlichen Anwesenheiten einer Armee die eigentlich sofort die US Army auf den Plan rufen sollte unfassbar unlogisch ist aber darüber sehen wir jetzt erst einmal hinweg. Die reine Existenz von Superverbrechern wie Scarecrow die chemische Kampfgase innerhalb der US Grenzen einsetzen sollte ja bereits genug sein um diverse Militärs auf den Plan zu rufen, geschweige den Geheimdienste die Interesse anmelden würden. Die enorme Konzentration auf das Auto hat spätestens nach zwei Stunden enorm genervt. Insbesondere die großen Endkämpfe die enorm auf das Gadget-Mobil fokussiert waren haben mehr aufgesetzt und generisch gewirkt, nichts daran war Batman spezifisch. Immerhin waren die Fahrten ohne  Waffenbenutzung angenehm, selbst die Riddlerrennen waren dank solider Steuerung durchaus tolerabel. Insgesamt gab es aber einfach zu viel Kleinzeug das man sich für eine Platintrophäe vielleicht antun würde, das als notwendiger Spielbestandteil für die Beendigung des Hauptspiels einfach nur lächerlich sind. Ich bin immer noch sauer das man das "wahre" Ende nur sieht wenn man das Spiel zu 150% durchspielt. Das ist einfach nur dumm. Im Großen und Ganzen war Arkham Knight aber eine solide Abrundung der Arkham Reihe.
+
+8/10

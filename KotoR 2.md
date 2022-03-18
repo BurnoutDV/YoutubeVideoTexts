@@ -917,6 +917,86 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #57
+
+* Titel: `KotOR 2 - #57 - Familienzusammenführung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese Episode ist genau so gemeint, wir führen heute eine Familie zusammen. Und zwar die von irgendwelchen Leuten die uns absolut egal sind. Das Ganze hat große moralische Implikationen. Die Sachlage ist die, nach dem intergalaktischen Krieg sind viele Leute geflohen und so wie es aussieht gibt es nicht wirklich irgendjemanden der sich für die Leute interessiert, das war auch schon vor dem Krieg so aber die Republik scheint keinerlei Nationalgefühl bzw. was auch immer man bei interplanetaren Reichen nutzt-Gefühl erschaffen zu haben. Sobald die Leute einen Republikplaneten verlassen haben ist alles egal. Kurzfassung also, du bist kein Bürger der Republik sondern zahlst halt nur Steuern auf einem Planeten und sobald du da nicht mehr bist bist du tot in deren Augen. Wir helfen heute einem Flüchtlingsehepaar die sich gemeinsam durch Zufall wieder finden. Wir haben mit ausufernder Gewalt dafür gesorgt das die beiden wieder zu einander finden. So weit so gut, aber was nun? Endet unser imperativ zu Helfen hier? Das ist wahrscheinlich das vor dem uns Kreia immer gewarnt hat. An sich haben wir jetzt Verantwortung auf uns geladen, heißt aber auch das wir Mittel locker machen müssten. Mittel die unsere eigene Position gefährden. Aufgrund der Unvorhersehbarkeit unserer Sache kann ich quasi nie abschätzen ob wir "genug" haben. Das ist ein echtes Problem. Moralisch. Praktisch gesehen tun wir nichts, weil ich dann doch nicht so viel Mitleid habe, aber das fühlt sich falsch an, eigentlich müsste es mich doch zerreisen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 9, Aufnahme vom 10.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #58
+
+* Titel: `KotOR 2 - #58 - die beste Klinge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Dinge wiederholen sich, wir wollen einen Kampf gegen die letzte Dienerin gewinnen. Dieses Mal dürfen wir aber eine Waffe benutzen, das bedeutet auch das wir jetzt ganz neue Möglichkeiten haben und wir dieses Mal vielleicht nicht darauf angewiesen sind die Dinge so sehr hinzubiegen wie wir es beim ersten Mal getan haben. Klar ist, auch mit einer Waffe ist Chouder nicht unbedingt ein Monster, unser Fokus liegt schließlich immer noch auf Blastergewehre und nicht irgendwelchen Klingen. Allerdings besitzen wir ja durchaus einige handwerkliche Fähigkeiten und mit denen können wir uns die perfekte Klinge schmieden. Immer vor raus gesetzt wir haben auch das entsprechende Kleingeld und Material.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 9, Aufnahme vom 10.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #59
+
+* Titel: `KotOR 2 - #59 - blinde Passagiere [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+   Eigentlich sind die meisten blinden Passagiere gar nicht blind, tatsächlich können die Meisten von Ihnen sogar ziemlich gut sehen. Allerdings ist es so das sie alle die gleiche Eigenschaft haben, sie sind an Bord obwohl sie kein Ticket gelöst haben. Das ich überhaupt keine Überfahrten bzw. Tickets verkaufe tut in dieser Hinsicht absolut nichts zur Sache. Und jetzt haben wir übrigens den Salat, tonnenweise Leute an Bord mit denen ich eigentlich überhaupt nichts zu tun haben will. Leider sind wir an der Geschichte auch irgendwie selber schuld. Immerhin scheint sich ein gewisses humoristisches Detail mit in die gesamte Angelegenheit zu schleichen die mich ein wenig milde über diese plötzliche und ärgerliche Verkettung der Umstände blicken lässt. Dennoch habe ich langsam echt genug davon die Wände meines Raumschiffes mit dem Blaster zu verbrenne.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 9, Aufnahme vom 10.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #60
+
+* Titel: `KotOR 2 - #60 - Jedi Meister [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel deutet es ja schon an, wir  gehen heute noch einmal in die Ausbildung. Wir erinnern uns daran das Atris in ihrem Leben noch nie einen Padawan hatte und daher gar nicht weiß was es heißt ein Meister zu sein. Bei unserem Helden, Chouder Cora sieht die ganze Geschichte ein wenig anders aus. Anscheinend, oder so wird es zumindest angedeutet haben wir schon in der Vergangenheit die Jugend motiviert und dazu gebracht mächtige Dinge zu tun. Wie es jetzt genau war hängt wohl ein wenig davon ab ob ich die richtigen Dialoge bekomme und dann richtig beantworte. Für den Moment müssen wir aber eine Entscheidung fällen, und ich bin mir ziemlich sicher das ich am Ende meine Entscheidung auch bereue, einfach weil der Weg zwar schön und gut ist den ich einschlage es aber immer die Chance gibt das es noch einen anderen Weg gegeben hätte und alleine die Verlockung des Potenzials mich wahnsinnig macht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 9, Aufnahme vom 10.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #61
+
+* Titel: `KotOR 2 - #61 - Meetinganfrage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kaum ist man ein wenig bekannter passiert es das man von diversen Leuten angefragt wird und in bestimmten Kreisen auf einmal sich großer Beliebtheit erfreut. Ich kann übrigens nicht sagen das ich vorher geahnt hätte welchen gewaltigen Rattenschwanz diese ganze Geschichte nach sich ziehen würde. Aber so wie die Dinge stehen gehen wir jetzt erst einmal zu einem Meeting, dann begegnen wir irgendwelchen zwielichtigen Leuten und generell und überhaupt passieren anscheinend eine menge Dinge. Alles in Allem sind es aber vor allen Dingen anstrengende Dinge die geschehen. Außerdem habe ich die dunkle Vermutung  das ich die Hälfte der Dinge die man in Nar Shaadar machen kann leider verpasst habe, einfach weil mir erst jetzt bewusst wird das es scheinbar einen Vergnügungsbezirk gibt und das es dort auch eine eigentlich ganz hübsche Bar gibt, die besuchen wir ja tatsächlich auch mit Atton aber leider nicht so wie ich das eigentlich geplant hatte und so passiert es dann heute das wir überall anecken. Sehr ärgerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 9, Aufnahme vom 10.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

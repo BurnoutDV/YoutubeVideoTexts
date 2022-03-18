@@ -997,6 +997,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #62
+
+* Titel: `KotOR 2 - #62 - Mira's Schläue [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich möchte kurz für das Protokoll feststellen das wir uns haben irgendwie reinlegen lassen. Das ist außerordentlich ärgerlich und mir persönlich auch nicht so richtig erklärlich. Anscheinend habe ich ja auch vergessen Intelligenz zu leveln, keine andere Erklärung kann ich für die Situation finden in der wir uns hier befinden. Wie die Dinge aber auch stehen, wir kommen bestimmt irgendwie wieder daraus heraus aber für den Moment scheinen die Dinge unangenehm verworren zu sein, insbesondere weil die ganzen Ereignisse die wir jetzt hier sehen hintereinander geschehen und wir scheinbar auch nichts tun können um die Ereignisse ein wenig verharren zu lassen so das wir ein wenig Ausrüstung oder Vorbereitung kaufen können, dies hätten wir wohl an anderer Stelle machen können, kam uns dann aber leider nicht mehr unter. Alles sehr ärgerlich, aber immerhin haben wir jetzt gelernt richtig Gas zu schnüffeln, das ist schon einmal ein großes Plus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 9, Aufnahme vom 10.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

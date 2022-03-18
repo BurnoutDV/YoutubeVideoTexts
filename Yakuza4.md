@@ -1919,6 +1919,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #130
+
+* Titel: `Yakuza 4 Remastered - #130 - Erinnerung an die Schlangenblume [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt so Vereinigungen die legt man einfach in einer ganz tiefen Ecke des eigenen Gedächtnisses ab weil man sie für sich selbst als abgeschlossen ansieht. So zum Beispiel die Schlangen-Blumen-Triade. Also die chinesische Mafia, wir erinnern uns grob an irgendeinen Typen der mit einem Speer um her gesprungen ist der irgendwie mit den Typen aus Kansai unter einer Decke steckt. Was genau passiert ist weiß ich gar nicht mehr, nur das Kazamas Bruder den Anführer am Ende erschossen hat, und damit etwas ermöglicht hat das Kiryu selbst nicht hätte schaffen können. Er hat das Problem relativ dauerhaft gelöst, aber auch die Möglichkeit genommen das sich besagt Anführer die Dinge noch einmal anders überlegt. Selbstverständlich war dann das Gesamtergebnis auch nicht so dauerhaft wie unser Held sich das vorgestellt hat, und deswegen haben wir heute eine kleine Erinnerung daran das die Triaden immer noch aktiv sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 14.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1013,6 +1013,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #63
+
+* Titel: `KotOR 2 - #63 - der "Hinterhalt" [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, wir werden heute total überraschend, technisch gesehen sogar mehrfach, überfallen. Die Sache ist bloß die, zu keinem Zeitpunkt war ich auch nur ein wenig überrascht ob der Dinge die hier passiert sind. Die "Falle" in die wir gelaufen sind war sowas von klar telegrafiert das ich mich ernsthaft frage wie irgendjemand auch nur in der Lage war Überraschung zu spielen. Generell und überhaupt sich mit dem bösen Gangsterboss in seiner eigenen Burg zu treffen erscheint mir schon wie eine dumme Idee. Aber auf der anderen Seite sind wir auch die selbe Person die sich von der erstbesten, rothaarigen Frau mit bauchfreien Outfit in eine Falle haben locken lassen. Und darauf auch noch erfolgreich hinein gefallen sind. Es ist übrigens erstaunlich wie all diese Zwischensequenzen noch wesentlich unlogischer geworden wären hätte ich die Gasmaske aufgesetzt. Zum Glück habe ich das nicht getan, so leidet meine Immersion nur durch die super unlogischen Entscheidungen die wir Links und Rechts treffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 9, Aufnahme vom 10.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

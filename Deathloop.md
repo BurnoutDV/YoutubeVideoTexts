@@ -58,6 +58,21 @@
   Sitzung 1, Aufnahme am 10.03.2022
   ```
 
+##### #5
+
+* Titel: `Deathloop - #4 - Serlings Labor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein neugieriges Känguru. Diese Persönlichkeit lebe ich in den letzten Jahren nicht mehr ganz so viel aus, Schuld daran hat übrigens Mark-Uwe Klonk. Mehr oder weniger. Und doch bin ich ja vor allen Dingen richtig dolle neugierig, insbesondere am Anfang eines Spieles, später werde ich mich bestimmt langweilen und mir wird alles schon so bekannt vorkommen, aber für den Moment ist noch alles neu und alles ist voller Wunder. Daher tue ich natürlich auch alles, während ich die Gelegenheit dazu habe, die Hauptquest komplett zu ignorieren und mich stattdessen um zu sehen, und wir finden auch etwas. Namentlich die Laborräume eines großen Wissenschaftlers der scheinbar für die Existenz von Blackreef enorm wichtig war und/oder ist. Solche Spezialisten haben die Angewohnheit öfter Informationen zu hinterlassen die wir lesen können und die uns Aufschluss über die Welt geben. Leider ist Serling der geringste der Wissenschaftler, aber er steht in irgendeiner Verbindung zu Colt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 1, Aufnahme am 17.03.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

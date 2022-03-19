@@ -31,6 +31,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #2
+
+* Titel: `Horizon Forbidden West - #2 - Far Zenith, Eingang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An sich erklärt uns Horizon Forbidden West eigentlich alles was wir aus Zero Dawn wissen sollten, in dieser Hinsicht sind modernen Spiele nicht mehr wirklich Fortsetzungsspiele, weil Forbidden West steigt zwar mit einer Prämisse ein aber an sich müsste man keine Minuten den Vorgänger gespielt haben um im Bilde zu sein. Far Zenith, das wir auch später erklärt, gab es schon vor der Faro-Plage aber sie hatten wohl ein wenig Geldmangel, anscheinend hat der Kryoschlaf nicht so richtig gut funktioniert und das gesamte Projekt hing ein wenig in der Schwebe. Was sie allerdings hatten war künstliche Gebähreinrichtungen die Zero Dawn dann auch aufgekauft hat. Die haben dafür eine Kopie des mittlerweile gelöschten Apollo erhalte, Apollo der später aus Egoismus von Ted Faro gelöscht wurde und damit das Wissen der Menschheit. Die Far Zenith Kopie im Orbit war quasi damit das letzte verbleibende Stück. Aber der Antrieb des Raumschiffs explodierte wohl bevor das Schiff weit kam, eventuell war es Sabotage, oder aber ein technisches Problem..oder aber nur eine Ablenkung. Daher ist es irgendwie aufregend gleich zu Anfang die weltlichen Überreste von Far Zenith zu betreten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 15.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #3
+
+* Titel: `Horizon Forbidden West - #3 - Exekutivzusammenfassung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Far Zenith war, bis heute, eigentlich eine ziemliche Blackbox für uns. An sich aber von der Erzählung her ein schönes Vehikel. Die Firma wurde im Vorgänger genannt, ist etabliert, stellt eine brauchbare Erklärung da warum bestimmte technische Fortschritte im Zero Dawn Projekt in der Geschwindigkeit erreicht werden konnten wie  sie erreicht werden konnte. Und jetzt erfahren wir halt Details weil sich das von der Geschichte her mehr anbietet. Interessant ist auch die Einführung von Osvald Dalgaar, der Mann wird erstaunlich viel beleuchtet, quasi schon verdächtig oder? Wie dem aber auch sei, was wir auch nicht wussten, was die inneren Ziele von Far Zenith waren. Nun, das erfahren wir heute von einer "Person" namens Anzu, ich kann mir nicht direkt einen Reim daraus machen aber die Logbeschreibung sagt das es sich um eine Person handelt. Übrigens auch interessant das das Gesicht des verstorbenen Gründers von Far Zenith unkenntlich war. Ich frage mich ob dies noch eine Rolle spielt. Oder ob es nur weitere Saaten für weitere Geschichten waren. Wer weiß?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 15.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1934,6 +1934,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #131
+
+* Titel: `Yakuza 4 Remastered - #131 - Komakis Training [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bevor wir uns auf den letzten Marsch den großen Turm hinauf machen gibt es noch eine kleine Sache die ich beinahe vergessen hatte. Es handelt sich um das Training mit Komaki, dem großen alt-ehrwürdigen Lehrmeister der Kiryu schon seit langer Zeit den Weg der Faust zeigt. Oder anders gesagt, der Kiryu den Weg der Faust fein justiert damit er noch besser zuschlagen kann. Die logische Überlegung das zu machen ist das wir für den großen Kampf eventuell mehr Schaden und Skills brauchen damit es am Ende nicht ganz sooo lange dauert wie es in der Regel immer dauert. Normalerweise sind die Prüfungen von Komaki immer ziemlich anstrengend, aber das hat sich wohl in diesem Teil wohl geändert, im Großen und Ganzen sind sie sogar recht angenehm, eine schöne Überraschung.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 14.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1029,6 +1029,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #64
+
+* Titel: `KotOR 2 - #64 - die Grube [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wurden ja in eine  Falle gelockt, und nebenbei wurde auch Mira in eine Falle gelockt. Generell und überhaupt sind erstaunlich  viele Leute hier, Leute die es eigentlich besser wissen sollten, ziemlich naiv oder? Die professionelle Kopfgeldjägerin die nicht weiß wie man mit Gangsterbossen umzugehen hat erscheint mir doch arg unwahrscheinlich. Entweder du kriegst das in dem Business raus oder du bist nicht lange im Geschäft. Immerhin lässt man uns aber anscheinend eine faire Chance uns den Weg frei zu kämpfen, in Miras Fall bedeutet das aber auch mit ziemlich schlechter Ausrüstung dennoch einen Sieg zu erringen. Es ist übrigens faszinierend das in diesen Kampfgruben immer noch die Reste des letzten Kampfes liegen. Ich meine mich daran zu erinnern das man in den Arenen des alten Roms durchaus wusste das Schlachtfeld zwischen den Vorstellungen aufzuräumen, warum ist das also hier so schwer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 10, Aufnahme vom 17.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

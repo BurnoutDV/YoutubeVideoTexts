@@ -61,6 +61,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #4
+
+* Titel: `Horizon Forbidden West - #4 - Raumhafen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir leben hier in einer Welt die kaum in der Bronze-Zeit steht aber durch den stetigen Fluss von modernen Metallen und Kabeln über einen Import von Produktionsmitteln verfügen die sie in eine seltsame Lage bringt. Ich frage mich ob das nicht interessante Implikationen auf die technische Entwicklung der Menschen hätte, weil, wenn  bestimmte Metalle und Erzeugnisse auf einmal etwas sind das man von Wildtieren jagt anstatt die Metallurgie selber zu  verstehen und zu erforschen könnte das zu ziemlich falschen Entwicklungen führen. Auf der anderen Seite, den meisten Leuten scheint ziemlich klar zu sein das die Maschinen halt Maschinen sind und keine richtigen Tiere. Das ist eigentlich auffällig, klar gibt es hier und dort Götter aber die offensichtlichen Wunder scheint niemand so richtig für voll zu nehmen. Ein weiteres Wunder ist übrigens der Raumhafen den wir heute betreten, von dem steht noch erstaunlich viel Zeug, so nach tausend Jahren, solide Materialien auf jeden Fall.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 15.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #5
+
+* Titel: `Horizon Forbidden West - #5 - Far Zenith, Rechenzentrum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Alten haben erstaunliche Mengen robuster Technik gebaut, außerdem erstaunlich ist übrigens auch wie ziemlich viele Einrichtungen die Faro Plage überlebt haben, die Roboter waren anscheinend wirklich nur daran interessiert Strom aus Bio-Kraftstoffen zu ziehen. Ein wenig traurig ist das jetzt, ungefähr 1000 Jahre später die Technik wirklich ziemlich am Ende ist, das bedeutet aber auch das lange bevor die Menschen in der Lage sein werden die Informationen der Alten zu bergen die Technik versagt. Man kann aber auch nicht sagen das noch viele Dinge funktionieren, die Displays die wir alle sehen werden von unserem Fokus interpretiert und man kann wohl davon ausgehen das der Energieverbrauch enorm gering ist da ein Gegenstand wie der Fokus scheinbar mit der reinen Bewegung seines Anwenders auflädt. Vielleicht hat man auch eine Möglichkeit gefunden ein gewisses Mindestmaß an Strom aus der dünnen Luft zu holen, was es auch immer sei, wir werden wohl nie eine Erklärung erhalten, aber wenn die alte Tech nicht funktionieren würde hätten wir auch nichts das wir entdecken können, das wäre doch schade oder? Ich mag meine Logfiles.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 15.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -73,6 +73,21 @@
   Sitzung 1, Aufnahme am 17.03.2022
   ```
 
+##### #5
+
+* Titel: `Deathloop - #5 - gesicherte Waffenkammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mein stetiger Erkundungsdrang geht weiter, heute finden wir die ersten Räume einer größeren Waffenkammer, ich kann aber direkt sagen das wir quasi den größten Schatz direkt am Anfang gelootet haben. Eventuell war hier meine lästige Eigenschaft schuld die mich dazu gebracht hat einen Null-Feld-Generator mit mir mit zu schleppen um etwas zu erreichen das überhaupt keinen Sinn ergibt. Tut es übrigens auch nicht wie ich mittlerweile weiß, ich habe die falschen Zusammenhängen erschlossen, aber keine Sorge, beim nächsten Mal weiß ich das und bis dahin kommt das nicht mehr auf. Wichtig ist aber, der Generator hat eine Batterie drin, und die können wir heute nutzen um eine Tür zu öffnen. Ich muss übrigens sagen das mir das Waffen-Mitnehm-System nicht wirklich gefällt. An irgendeinen Punkt, der bestimmt ziemlich bald ist werde ich einfach die erst beste Waffe nehmen die ich finden kann.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 1, Aufnahme am 17.03.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

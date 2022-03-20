@@ -1949,6 +1949,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #132
+
+* Titel: `Yakuza 4 Remastered - #132 - Kiryus Eingebungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind quasi durch mit allem was wir mit Kiryu machen wollten, aber eine Sache fehlt noch von der ich am Anfang dachte das sie gar nicht für Kiryu drin ist, letztendlich handelt es sich übrigens um seltsam recycelte Begegnungen was in sich ein wenig enttäuschend ist. Aber, damit schließt dann das Kapitel Kazuma Kiryu ein wenig ab, ich habe übrigens eine gewisse Angst das Kiryu das Ende diesen Tages nicht mehr erleben wird, die ganzen kleinen Begegnungen die wir überall hatten fühlten sich sehr so an als würde die Ära von Kiryu dem Ende näher kommen. Oder es ist ihm erlaubt endlich in den Ruhestand zu gehen.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 14.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

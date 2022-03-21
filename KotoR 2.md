@@ -1045,6 +1045,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #65
+
+* Titel: `KotOR 2 - #65 - Befreiungsversuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man in Gefangenschaft gerät oder plötzlich die Kontrolle verliert wird einen doch recht schnell bewusst das man alleine nicht alles erreichen kann. Eine dieser bitteren Wahrheiten für alle Einzelgänger, klar kann man wie Batman immer dunkel brodelnd irgendwo in der Ecke hocken, aber irgendwann kommt dann der Tag mit dem Ende. Ein Ende das nicht sein muss wenn man Leute hat die sich darum kümmern einen zu befreien. Ich muss allerdings sagen das Mira nicht wirklich versucht uns zu befreien, viel mehr scheint es so als würde sie versuchen ihre eigene Haut zu retten und öffnet dabei nur nebenher auch die andere richtige Tür. Oder aber das Spiel möchte uns irgendwie eine gewisse Gleichzeitigkeit vermitteln. Das alles ist ein wenig komisch und ich fürchte das hier die veraltete Technik des Spieles mehr wollte als zu ihrer Zeit wirklich möglich war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 10, Aufnahme vom 17.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

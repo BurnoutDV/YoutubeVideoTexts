@@ -88,6 +88,21 @@
   Sitzung 1, Aufnahme am 17.03.2022
   ```
 
+##### #6
+
+* Titel: `Deathloop - #6 - Novaks Ultimatum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir finden auf Blackreef ziemlich viele Siedlungen die nicht so aussehen als wären sie von der aktuellen Clique aus Eternalisten und Visionären gebaut worden. Unter Anderem haben wir zum Beispiel Gebäude in Updaam die doch sehr danach aussehen als wären sie direkt aus Dishonored und dem Waleoil-Punk importiert worden. Oder aber wir finden große Betonbunkeranlagen die mich sehr an die Kunstinstallationen der Deutschen in Frankreich und Dänemark erinnern. All das scheint mir schon dagewesen zu sein, Teil einer Forschungsstation, besondere Bedingungen untersuchend die es anscheinend hier auf Blackreef gibt. Andere Einrichtungen wie die Villa von Julianna scheinen dagegen eher jüngeren Datums zu sein. Außerdem finden wir heute ein paar Audiologs die mich glauben lassen das es hier noch wesentlich mehr zu entdecken gab. Was wohl aus Novak geworden ist? Wurde das Ultimatum erfüllt? Vielleicht erfahren wir es noch.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 1, Aufnahme am 17.03.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

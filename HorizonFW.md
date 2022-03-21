@@ -91,6 +91,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #6
+
+* Titel: `Horizon Forbidden West - #6 - Ferngespräch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die gewaltige gesellschaftliche Veränderung die die Verfügbarkeit von quasi sofortiger Kommunikation hat darf man eigentlich nicht unterschätzen. In der Vergangenheit waren Freunde die in einer anderen Stadt gewohnt haben quasi eine Blackbox von der man nie wieder etwas gehört hat bis man sie einmal besuchen kam. Oder in Zeiten der Kriese konnte es durchaus sein das man lange Nichts von Anderen gehört hatte obwohl eigentlich alles gut war. Die Welt von Horizon ist, bis auf einige wenige Außnahmen eine solche Welt. Ein Außenposten an der Südgrenze könnte genauso gut völlig ausgelöscht sein, alle Boten abgefangen. Soweit wir wissen gibt es keine richtigen Reittiere in der Horizon-Welt, einfach weil die Einführung der größeren Land-Säugetiere zusammen mit den durch Apollo ausgebildeten Menschen geschehen sollte. Und das ist halt einfach nie passiert. Ich glaube das es daher gar keine Pferde oder Ähnliches gibt. Wer keine Maschinen reitet kann einfach nicht reiten. Eigentlich seltsam das es dann überhaupt ein Wort für den Vorgang gibt. Und das es nicht mehr Aufsehen erregt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 15.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #7
+
+* Titel: `Horizon Forbidden West - #7 - Zwischenhalt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ursprünglich wollte ich diese Episode "Going West" nennen, aber so wie es scheint geht es noch gar nicht so richtig los, stattdessen kommen wir erst einmal in der Vorkammer des Westens an, quasi dem Grenzgebiet der Carja, von dem was ich aber so sehen kann handelt es sich aber viel mehr um das Gebiet der Oseram. Ich kann mich nicht mehr genau an die Lore aus dem Vorgänger erinnern aber ich meine mich zu erinnern das die hier auch irgendwo in der Gegend wohnen und so wie die Dinge aussehen ist das auch der Fall. Lange hatten wir auch schon keinen Kontakt mehr mit den Sonnenpriestern, aber so wie es scheint gibt es immer noch Carja die die ganze Religion der Sonne ziemlich ernst nehmen. Ich stelle mir die Oseram übrigens immer wie so eine Art Zwergenvolk vor. Natürlich sind es auch nur Menschen aber ihre technologische Zuneigung scheint ein wenig in diese Richtung zu gehen. Wir werden uns für den Moment wohl auch ein wenig mehr noch mit den Oseram beschäftigen, einfach schon weil wir fest stecken, irgendeine Art von Konflikt behindert unsere Abreise, sehr ärgerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 15.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

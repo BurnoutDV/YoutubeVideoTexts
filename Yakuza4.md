@@ -1964,6 +1964,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #133
+
+* Titel: `Yakuza 4 Remastered - #133 - Kamurocho-Hügel Dach [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und willkommen zu meiner Unfähigkeit Texte aus dem Englischen mit der nötigen Präzision und Sorgfalt zu übersetzen. Das ist es übrigens was eine professionelle Übersetzung ausmacht, nicht nur wörtlich das gesagt in die deutsche Sprache zu übertragen sondern auch dafür zu sorgen das die Worte die am Ende herauskommen auch irgendwie kohärent sind. Ich kann das leider nicht wirklich für mich beanspruchen. Schlimmer noch, meine Kenntnis der englischen Sprache lässt mich manchmal in englischen Satzkonstrukten im Deutschen denken was zur völligen Verwirrung führt. Fakt ist aber das wir heute die "Kamurocho Hills" betreten, eigentlich nur ein Name für die örtlichen Hochhäuser, weil, soweit ich das sehen kann sind das gar keine echten Hügel sondern einfach nur ein anderer Name für Hochhäuser. Die entsprechenden Bauwerke sind übrigens schon echt lange im Bau. Ganz oben wartet ein alter Feind auf uns, nicht so alt aber doch schon etwas gealtert. Der Weg ist natürlich dornig aber wer wären wir schon wenn wir es nicht schaffen würden, also begeben wir uns nach oben...
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 14.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

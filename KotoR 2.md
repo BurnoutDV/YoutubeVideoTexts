@@ -1061,6 +1061,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #66
+
+* Titel: `KotOR 2 - #66 - viele Perspektiven [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode finde ich vom Narrativ enorm aufgeregt und irgendwie unordentlich, zu einem Grad der mich sogar nervt. Ich finde diese vielen Perspektivwechsel mitten im Spiel nicht besonders schön. In keine Spiel, selbst wenn wir wirklich am Finale wären (was wir eigentlich nicht sind, schließlich ist das hier der erste Planet den wir betreten) würde es mich sehr nerven das ich nicht meinen richtigen Helden spielen darf. In einem Buch ist es vollkommen in Ordnung wenn man mehre parallele Stränge hat die in den letzten Minuten zusammenlaufen, als Spiel erscheint es mir irgendwie eher wie ein Mittel um die maximale Verwirrung auszukosten und die große Anzahl an Nebencharakteren noch mal ordentlich zur Geltung zu bringen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 10, Aufnahme vom 17.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

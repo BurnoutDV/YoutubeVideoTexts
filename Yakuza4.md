@@ -1979,6 +1979,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #134
+
+* Titel: `Yakuza 4 Remastered - #134 - unfertiges Geschäft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind eigentlich fertig aber all unsere Hauptcharaktere leben immer noch, das ist an sich keine Tragödie aber es handelt sich um meine persönliche Theorie, in diesem Yakuza Teil müssen wir uns von einigen unserer heißer geliebten Charakteren verabschieden. Punkt 1 für diese Theorie ist, das nach einer längeren Exposition immer noch nicht das Ende da ist wir aber jetzt zwischen den vier verschiedenen Charakteren hin und her gewechselt werden kann. Ich bin übrigens ein wenig traurig das scheinbar Yasuko wirklich gestorben ist, eigentlich hätte ich damit gerechnet das die Gute irgendwie noch überlebt hat. Ich bin wirklich ein wenig schockiert.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 21.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -103,6 +103,21 @@
   Sitzung 1, Aufnahme am 17.03.2022
   ```
 
+##### #7
+
+* Titel: `Deathloop - #7 - Erklärbär des Eierkopfs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem ich jetzt 3 Episoden damit verbracht habe im Komplex absolut Nichts zu machen und lieber nach irgendwelchen Geheimnissen zu suchen geht es jetzt doch endlich mal ein wenig weiter. Heute erfahren wir dann doch endlich wie man das ganze System abschalten kann. Oder halt auch eben nicht, wäre ja auch zu einfach. Wahrscheinlich würde es auch nichts bringen einfach nur das große Signalfeuer zu deaktivieren, die Wirkung geht bestimmt in beide Quantenrichtungen der Zeit und wir müssten, wenn einmal gestartet, wahrscheinlich in jeder Realität das Signalfeuer abschalten und das können wir nicht mit etwas gewöhnlichen Sprengstoff. Immerhin erfahren wir ein paar Dinge von einem Eierkopf..und das dieser spezielle Eierkopf wohl derjenige ist der am wenigstens beliebt ist. Auch interessant übrigens das die Tonbänder und Videobänder scheinbar ein echtes längen Problem haben. Das hat man wohl davon wenn man sich auf 60er Jahre Tech verlässt. (Ein wenig später finde ich Dokumente die mich glauben lassen das wir irgendwann 1963/64 sein könnten)
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 1, Aufnahme am 17.03.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

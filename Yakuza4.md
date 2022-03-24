@@ -1994,6 +1994,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #135
+
+* Titel: `Yakuza 4 Remastered - #135 - Charakterprüfung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es steht immer noch eine Prüfung mehr aus. Heute geht es erneut um den Sohn des Floristen von Sai, eine Geschichte die wir jetzt bereits zum zweiten Mal aus der Erinnerungen hoch holen. Ursprünglich war der Sohn des legendären Informationshändlers ein ziemlicher Taugenichts und innerhalb des Verlaufes einer längeren Mission hat der gute Mann sich doch ein wenig bewehrt. Nun steht der nächste Schritt in seiner "Karriere" als Mensch an. Er arbeitet zwar immer noch in einen relativen niedrig bezahlenden Job aber so wie die Dinge stehen reicht das wohl aus um eine Familie zu gründen. Der junge Mann möchte heiraten, aber dafür braucht man anscheinend, ganz nach amerikanischer Tradition, wohl ein Elternteil das sich um die Formalitäten kümmert. Und daher braucht er Informationen was einst aus seinem Vater geworden ist. Eine Überraschung steht an.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 14.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

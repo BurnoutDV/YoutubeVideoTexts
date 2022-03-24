@@ -170,16 +170,23 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
 
 ##### #9
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #9 - Reise nach Kettenkratz [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Wir kommen heute noch nicht direkt in Kettenkratz an, übrigens ein Ort von dem ich zumindest in dieser Episode noch irgendwie davon ausging das er in Wirklichkeit Kettenkranz heißt, aber aus irgendwelchen Gründen heißt er dann wohl anders. Ein Zuschauer vermutete (hier in den Kommentaren weil ich mal wieder zu spät dran war mit der Beschreibung) das der Name von dem Geräusch des großen Fahrstuhls herrührt. Das mag durchaus sein und ich würde es definitiv nicht als unwahrscheinlich abstufen, aber die Oseram verdienen sich erneut den Titel als Zwerge. Trotzdem kommen wir heute eigentlich gar nicht so recht in der Ortschaft an, bekannterweise habe ich mich ja auf dem Weg ablenken lassen und besteige noch einen alten Carja-Aussichtsturm, eine Erinnerung daran das die Kultur der neuen Menschen auch schon ein paar Jahre hinter sich gelassen hat.
+  
   0:00 - Gameplay
   9:00 - LINSE: Morgenröte
   9:30 - Gameplay
   16:53 - Text: Sonnenkriecher-Politik
   17:50 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 15.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #10

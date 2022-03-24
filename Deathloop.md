@@ -109,13 +109,28 @@
 
 * Beschreibung:
 
-  ```markdown
+  ```katemarkdown
   Nachdem ich jetzt 3 Episoden damit verbracht habe im Komplex absolut Nichts zu machen und lieber nach irgendwelchen Geheimnissen zu suchen geht es jetzt doch endlich mal ein wenig weiter. Heute erfahren wir dann doch endlich wie man das ganze System abschalten kann. Oder halt auch eben nicht, wäre ja auch zu einfach. Wahrscheinlich würde es auch nichts bringen einfach nur das große Signalfeuer zu deaktivieren, die Wirkung geht bestimmt in beide Quantenrichtungen der Zeit und wir müssten, wenn einmal gestartet, wahrscheinlich in jeder Realität das Signalfeuer abschalten und das können wir nicht mit etwas gewöhnlichen Sprengstoff. Immerhin erfahren wir ein paar Dinge von einem Eierkopf..und das dieser spezielle Eierkopf wohl derjenige ist der am wenigstens beliebt ist. Auch interessant übrigens das die Tonbänder und Videobänder scheinbar ein echtes längen Problem haben. Das hat man wohl davon wenn man sich auf 60er Jahre Tech verlässt. (Ein wenig später finde ich Dokumente die mich glauben lassen das wir irgendwann 1963/64 sein könnten)
   
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 1, Aufnahme am 17.03.2022
+  ```
+
+##### #8
+
+* Titel: `Deathloop - #8 - Agent Rotvogels Versteck [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen habe ich übrigens keine Ahnung wessen Versteck wir da eigentlich heute betreten. Anscheinend handelte es sich um die Niederlassung irgendwelcher Spione. Ich weiß aber auch nicht wann das war. Ob die Spione die Machenschaft des Äon-Projekts überwacht haben? Keine Ahnung, nur das es hier auch ein Geheimdienstarchiv gibt wir aber leider nur eine der drei Kombinationen kennen. Für den Moment spielt das aber alles gar keine Rolle da wir ja eigentlich nur zu Besuch sind. So gesehen muss ich mir wohl erst einmal voreilige Schlüsse sparen bis wir mehr Daten haben die es uns eventuell erlauben ein vollständigeres Bild zu zeichnen. Und weil ich genau diese Zurückhaltung in all meinen Theorie äußere und nie irgendetwas wild in den Raum vermute behaupte ich jetzt das es sich um das Versteck von Agent Rotvogel handelt, was auch sonst. Wir sollte wohl am Morgen wieder kommen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 2, Aufnahme am 21.03.2022
   ```
 
 ##### #Nummer

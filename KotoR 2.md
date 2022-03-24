@@ -1077,6 +1077,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #67
+
+* Titel: `KotOR 2 - #67 - Robotereinsatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man ernste Probleme hat die man nicht ohne Weiteres lösen kann dann hilft Eines immer verlässlich: Hubschraubereinsatz! Wie war das, im Weltraum gibt es keine Atmosphäre und daher funktioniert die Aerodynamik auf die Hubschrauber basieren nicht? Dann brauchen wir eine andere Lösung. Was könnte da wohl bloß helfen, hmm. Wie wäre es mit...ROBOTEREINSATZ. Technisch gesehen haben wir nur genau einen (der Andere ist immer noch in der Reparatur) und der macht die meiste Zeite anscheinend das was er selbst für richtig befindet. Man kann sich wohl darauf verlassen das sich T3 bereits tief in der Zone befindet in der man eigentlich seinen Speicher löschen müsste weil sonst die KI anfängt ein echtes Bewusstsein zu entwickeln. Oder anders, das Bewusstsein ist die ganze Zeit da aber wird sich an irgendeinen Punkt seiner selbst bewusst und das ist dann der Zeitpunkt wo es richtig dolle kritisch wird. Oder auch irgendwie nicht, die allgemeine Angst der Menschen im Star Wars Universum vor selbst denkenden Maschinen scheint eher übertrieben zu sein, eventuell moderiert hier aber auch die Macht mit rein und gibt selbst denkenden Maschinen einen gewissen organischen Ansatz. Eventuell ist es aber auch die Anwesenheit von Jedi die dafür sorgt das sich nur bestimmte Roboter so entwickeln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 10, Aufnahme vom 17.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

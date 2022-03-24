@@ -133,6 +133,21 @@
   Sitzung 2, Aufnahme am 21.03.2022
   ```
 
+##### #9
+
+* Titel: `Deathloop - #9 - 2-Bit Zentrale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+   Ich bin zu neugierig, heute greifen wir nämlich vor. So wie es aussieht gibt es in Updaam ein digitales Spiel das wir spielen können. Irgendetwas hat es mit 2-Bit auf sich und so wie es weiter aussieht steht eine Art Zentrale davon hier in Fristad Rock herum. Mir sind nicht alle Modalitäten bewusst und ich weiß auch nicht so richtig was ich heute mache. Nur das sich plötzlich irgendwelche Satellitenschüsseln aufklappen und Dinge tun. Außerdem gehen wir ziemlich gewaltvoll gegen eine größere Anzahl an Leuten vor, das ist alles recht erstaunlich für mich aber am Ende klappt ja dann wohl alles. Das sollte uns erlauben an anderer Stelle möglichst viel zu schummeln. Ich bin ja sehr gespannt, aber zu erst müssen wir wohl den ersten Tag beenden, das kann ja eigentlich nur noch  tausend Jahre dauern. Oder genau einen Tag, so gesehen vergeht ja keine echte Zeit. Und irgendwie ja auch doch. Obwohl es irgendwo Kisten gibt die lineare Zeit haben und so bleiben wie sie sind sind?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 2, Aufnahme am 21.03.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

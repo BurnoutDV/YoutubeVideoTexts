@@ -2009,6 +2009,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #136
+
+* Titel: `Yakuza 4 Remastered - #136 - Sags mit Blumen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich will ehrlich sein, ich kann die meisten Blumen nicht voneinander unterscheiden geschweige den Benennen, anscheinend ist das für manche Menschen aber eine ziemlich große Sache, oder zumindest für bestimmte Blumen die diese Leute halt gut kennen. Tatsache ist aber das ich nicht alleine bin. Wenn ich mich recht entsinne ist es aber durchaus legitim Blumen auch als Kommunikationsmittel zu benutzen, zum Beispiel um Trauer, Zuneigung oder irgendwelche anderen Dinge auszudrücken. Heute erleben wir aus der dritten Person (wie eigentlich immer in Yakuza Spielen) was es bedeutet eine Nachricht mit Blumen zu erhalten. Ich würde irgendwie davon ausgehen das es sich um eine weitere Charakterprüfung handelt.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 21.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

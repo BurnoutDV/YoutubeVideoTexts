@@ -1093,6 +1093,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #68
+
+* Titel: `KotOR 2 - #68 - der lange Weg zur Ebon Hawk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kotor möchte uns vermitteln das die Welt durch die wir uns bewegen doch ziemlich  groß ist und das es nicht nur die drei Orte gibt an denen wir bisher waren. Dies erreicht das Spiel in dem es uns diverse Leute entgegenwirft die von Außerhalb kommen. Warum genau diese Leute, nenne wir sie einfach einmal Kopfgeldjäger, plötzlich alle herangestürmt kommen nachdem bereits klar geworden sein sollte das meine Leute nicht so leicht zu überwältigen sind ist mir übrigens völlig schleierhaft. Zumindest einige der Söldner sollten doch wohl genügend Vernunft in sich haben um zu verstehen das das was sie da vor haben ein reines Selbstmordkommando ist. Tun sie aber nicht, und so ist der Weg zurück zum sicheren Hafen des Heimatschiffes ein weiter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 10, Aufnahme vom 17.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

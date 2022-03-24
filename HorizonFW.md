@@ -191,15 +191,22 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
 
 ##### #10
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #10 - Mildafs Pfanne [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Ein Punkt der in Spielen nur sehr selten beleuchtet wird wenn es sich nicht unbedingt um ein Survival Spiel handelt sind das Essen und der Stuhlgang. Heute lernen wir immerhin das Aloy durchaus Hunger hat es uns nur einfach nicht mitteilt. Das ist nicht so wirklich überraschend wenn man bedenkt das sie wirklich viel Zeit damit verbringt Felsen zu beklettern und deshalb wahrscheinlich einen krassen Durchsatz an Energie hat. Welch Glück aber auch das die ausgedehnten Wildnisregion rund um den Städten eine Vielzahl von Wesen beherbergen. Dies wird sich in kommenden Jahrhunderten bestimmt ändern, aber für den Moment sollte Essen nun wirklich nie ein Problem sein. Und doch, nach dem zwanzigsten Mal ungewürztes Fleisch das man behelfsmäßig über ein Feuer gebraten hat wird das Ganze doch ein wenig fad oder? Daher wenden wir uns heute an einem Experten, einem Koch. Dieser scheint Probleme mit der lokalen Verwaltung zu haben, außerdem ist seine Pfanne abhanden gekommen. Ein echtes Ärgernis. Welch Glück das ihm anscheinend eine ölige Metallplatte ausreicht.
+  
   0:00 - Gameplay
   8:58 - Biografie: Tadelloser Marad
   9:29 - Biografie: Sonnenkönig Avad
   11:08 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 22.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #11

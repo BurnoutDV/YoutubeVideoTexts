@@ -1109,6 +1109,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #69
+
+* Titel: `KotOR 2 - #69 - G0T0s Yacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gehe stark davon aus das es sich bei G0T0 eigentlich um eine KI handelt, das unterscheidet ihn nicht allzu sehr von all den anderen Droiden die wir so treffen. Ich weiß das es diesen langen Wookipedia Eintrag zu Droiden gibt, ja mir sind all diese Dinge eigentlich ziemlich bewusst und doch finde ich die Darstellung der Roboter ziemlich inkonsistent, mir scheint das man sich nicht all zu viele Gedanken um den eigentlich Kerngedanken des Sci-Fi machen wollte, wo fängt Bewusstsein, Intelligenz und Persönlichkeit ein. Wie es genau zu G0T0 kam kann ich noch nicht sagen aber so wie es aussieht handelt es sich um eine mächtig Entität die über gewaltige Materielle Mittel verfügt und auch sich nicht zu schade ist diese auch einzusetzen. Weiter wissen wir mittlerweile das die Entität sich nicht zu schade ist Leben zu opfern wenn es nur seiner Sache dient, das ist verständlich, viele biologische Intelligenzen agieren genauso, haben aber Probleme damit es zu zugeben, Moral will schließlich immerhin im Anschein gewahrt blieben, da kann man sich keinen Lapsus erlauben. Welchen Sinn genau die Yacht jetzt allerdings hat weiß ich leider immer noch nicht, weil Besuch scheint ja nicht üblich zu sein. Ist es Nichts Anderes als eine gewaltige Relais-Station um den Anschein zu wahren?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 10, Aufnahme vom 17.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #70
 
 * Titel: `KotOR 2 - #70 - die Kommandobrücke [Let's Play; ger; Blind]`

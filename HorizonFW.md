@@ -211,24 +211,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
 
 ##### #11
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #11 - Bier, Spiel & Kampf [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Wir sind in Kettenkratz angekommen, haben uns ein wenig mit den Leuten unterhalten und könnten eigentlich schon wieder weiterziehen um uns um die ach so dringenden Probleme der Leute kümmern. Generell und überhaupt ist das ja immer das Problem. Die Leute haben andauernd Probleme die sie offensichtlich nicht selber lösen können und sie brauchen die Hilfe einer kompetenten Person die die Tod nicht fürchtet und sich einfach so ins Gefecht wirft. Das können wir auch noch tun, in der nächsten Episode. Heute üben wir uns erst einmal im Konsum von Getränken und dem Genießen des Lebens, kann ja wohl auch nicht sein das wir hier jeden Tag unser Leben riskieren, das Spiel bietet ja auch noch nette Nebenquests, die wollen doch auch mal gespielt werden oder? Und ich finde heraus das es so etwas wie eine lokale Arena gibt, die müssen wir doch auch besuchen. Hrr, soviel Dinge zu tun, so wenig Zeit. Aber immerhin alles in der relativen Sicherheit der Ortschaft.
   
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 22.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #12
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #12 - freies Erkunden im Schrecken [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Heute gehen wir klettern, das ist übrigens etwas, ich erwähnte es in der Vergangenheit schon öfter, doch ein wenig fehlt. Nicht direkt das Klettern am Fels das Aloy hier tut sondern generell und überhaupt. Es ist eine gewisse Abwechslung darin die mir in meinem normalen Alltag fehlt, ich komme übrigens aus dem Flachland, umso seltsamer erscheint es wenn das die eine Sache ist die man als Sport wirklich gerne macht. Wie dem aber auch sei, Aloy ist aus einem komplett anderen Holz geschnitzt als wir und geht nicht nur Klettern sondern auch Maschinen jagen und plündern und dann ist sogar noch ein wenig Zeit für einen schönen Fototermin, wenn ich jetzt noch irgendwelches Talent hätte wäre sogar noch was dabei herum gekommen. So klettern wir halt nur ein wenig umher, finden die Mittags-Linse und traben dann wieder von dannen. In der nächsten Episode geht dann aber auch die Story weiter.
+  
   0:00 - Gameplay
   15:45 - LINSE: Mittag
   16:15 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 22.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #13

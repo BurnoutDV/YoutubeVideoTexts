@@ -148,6 +148,38 @@
   Sitzung 2, Aufnahme am 21.03.2022
   ```
 
+##### #10
+
+* Titel: `Deathloop - #10 - Lüftungsanlage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wieder einmal treibt mich meine Neugier in irgendwelche Ecken, in der letzten Episode hat das ja schon dazu geführt das wir irgendwelche komischen Anlagen gehackt haben und damit jetzt wohl an einem anderen Ort Dinge tun können. Was genau das sein wird muss sich wohl noch zeigen, für den Moment hat es aber keine Bedeutung. Umso erfreulicher ist es aber das ich heute etwas finde das direkte Auswirkungen hat. Nicht so erfreulich ist allerdings das es sich um eine tolle Todesfalle handelt. Die Gesamtkonstruktion ist mir übrigens ein wenig schleierhaft weil die Funktionsweise dieser Falle nicht so richtig Sinn im Sinne der Verwendung ergibt. Aber wollen wir uns nicht beschweren, wenn es eine bessere Falle gewesen wäre hätten wir die nächste Reprise nutzen müssen, und das wäre ja auch nicht so toll gewesen oder?
+  
+  0:00 - Gameplay
+  16:40 - Burni kommt die Idee durch die Scheibe zu gucken
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 2, Aufnahme am 21.03.2022
+  ```
+
+##### #11
+
+* Titel: `Deathloop - #11 - Sicherheitschef [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das dieser Colt Vahn von dem wir schon soviel gehört haben ein ziemlich wichtiges Tier in der ganzen Hierarchie der Visionäre ist, jemand der dafür sorgt das die anderen sicher bleiben. Was ein wenig komisch ist warum die Visionäre und das Äon-Projekt als Ganzes überhaupt mit Opposition gerechnet hat, soweit ich das verstanden habe dreht das Projekt die Zeit auf der Insel jedes Mal zurück, aber das würde ja auch bedeuten das, wenn man ersten Tag niemand kommt, nie jemand kommen würde. Oder haben sie von Anfang an damit gerechnet das irgendjemand versuchen wird den Loop zu brechen. Jemand von Innen der sich aufmacht die Dinge wieder rückgängig zu machen? Übrigens finden wir heute einen Brief von Fia, von der haben wir bisher noch nicht allzu viel gehört. Ich mag sie irgendwie, sie ist ein verrücktes Huhn und wahrscheinlich wird sich noch herausstellen das sie ein totales Ekelpaket ist, aber wir werden sehen. Auf jeden Fall ist sie Künstlerin und hat dafür gesorgt das unser Hier-Tresor ein Da-Tresor geworden ist. Wie ärgerlich aber auch.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 2, Aufnahme am 21.03.2022
+
 ##### #Nummer
 
 * Titel: ``

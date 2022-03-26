@@ -2024,6 +2024,36 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #137
+
+* Titel: `Yakuza 4 Remastered - #137 - Lärm im Hügel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin am Boden vom Fass würde ich einmal behaupten, klar, es findet sich immer noch die ein oder andere Nebenquest aber langsam aber sicher haben wir dann doch mal alles gesehen was es zu sehen gab. So zum Beispiel Nebequests, eine gibt es noch, die ist aber so versteckt das ich tatsächlich erstmal in die Tiefen des Internets verschwinden muss um zu schauen was man tun soll. Übrigens, Fun Fact, in der ursprünglichen Nicht-Remastered Version hatte Kiryu wohl seine Yokohama Klamotten auch in Kamurocho an, oder aber es sah nur so aus weil die Screenshots im NG+ oder so waren. Trotzdem irgendwie witzig. Wie dem aber auch sei, natürlich finden wir dann die Quelle des Lärms und damit den Gegenstand dieser Quest und natürlich war es wieder einmal ein alter Bekannte von Kiryu, wie kann es auch anders sein.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 21.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #138
+
+* Titel: `Yakuza 4 Remastered - #138 - Namen mit Bedeutung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute geschehen Dinge die dafür sorgen das wir am Ende einem kleinen Kind einen Namen geben dürfen, Namen sind ziemlich wichtig wenn man sich alles in seiner Gesamtheit einmal anschaut. Mir persönlich hat einer meiner Namen schon Schwierigkeiten gemacht, von anderen habe ich schon einmal gehört das sie nicht in einem Club gekommen sind weil sie heißen wie sie heißen. Namen erwecken Erwartungen, eine Vorstellung an einen Archetypen den dieser Name vertritt. Sei es nach Ethnie oder einfach nur speziell ein Name den man für sich mit einer bestimmten Person verbinden. Für mich sind zum Beispiel bestimmte Vornamen mit bestimmten Persönlichkeiten verbunden, viel interessanter wird es übrigens wenn zwei Vornamen-Träger sich ziemlich ähnlich sind. Wahrscheinlich Zufall, oder hat der kollektive Druck und die Erwartung an diesen Namen dazu geführt das die Leute so geworden sind? Wir sehen, ein Name ist wichtig. Und deshalb sollte man darüber gut nachdenken.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 21.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1109,12 +1109,18 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
-##### #Nummer
+##### #70
 
-* Titel: ``
+* Titel: `KotOR 2 - #70 - die Kommandobrücke [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir haben noch keine richtige Linguistik wenn es um Raumschiffe  geht, sollten wir jemals irgendwelche Technik entwicklen die Gravitation aufhebt bzw. lokale Gravitationsfelder erzeugt (ziemlich wichtig wenn man nicht nur mit 1,5G beschleunigen/verzögern will) und dazu vielleicht noch ein paar kinetische Schilder hat die dieses nervigen Staubproblem lösen wird es bestimmt spannend welche Namen wir wählen, wird es etwas komplett Neues geben, einen Begriff in der Sprache der Zivilisation die das erste "Schiff" baut oder übernehmen wir einfach die Begriffe der Nautik? Wie werden wir die Zentrale nennen, benutzen wir den U-Boot Begriff weil man im Weltraum eigentlich keine Fenster braucht und daher eine erhöhte und damit angreifbare Position eigentlich überhaupt keinen Sinn ergibt oder wird es wieder eine Brücke werden einfach nur weil es der bekanntere Begriff ist und niemand etwas von U-Booten gehört hat? Wie dem aber auch sei, G0T0s Yacht hat definitiv eine Brücke und die ist super angreifbar. Hier können wir dann auch das gesamte Schiff manipulieren, uns an Bord zu lassen war definitiv ein Fehler, das möchte ich einmal sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 10, Aufnahme vom 17.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```

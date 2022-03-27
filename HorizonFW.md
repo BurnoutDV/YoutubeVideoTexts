@@ -245,16 +245,23 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
 
 ##### #13
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #13 - Zion Lodge [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Ich liebe alte Orte die man erkunden kann, gerne erinnere ich mich an die vergessene Flotte in Dead Space 3, spielerisch vielleicht nicht das beste Spiel aber dennoch mochte ich den Archäologie-Aspekt, oder aber sogar die Ruinen aus Tomb Raider die genügend Aufzeichnungen hatten um sich bruchstückhaft das Leben der Menschen vor langer Zeit aufzubauen. Leider ist es eigentlich ziemlich unwahrscheinlich das nach 1000 Jahren Wind und Wetter überhaupt noch irgendetwas steht. Entweder haben die diversen KIs in Horizon bisher gelogen, was ziemlich interessante Implikationen hätte oder aber hier wurden einfach nur Freiheiten genommen. Die gute Nachricht ist aber das ich dennoch Orte erkunden kann und das mache ich halt doch ganz gerne. Die Zion Lodge ist jetzt nicht der spannendste Ort muss man sagen, und doch, es ist ein Stück alte Welt
+  
   0:00 - Gameplay
   16:25 - Text: Persönlicher Zugangscode
   17:01 - Gameplay
   25:20 - Ornament: Der Schrecken
   25:50 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 22.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #14

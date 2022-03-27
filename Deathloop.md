@@ -180,6 +180,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 2, Aufnahme am 21.03.2022
 
+##### #12
+
+* Titel: `Deathloop - #12 - Updaam bei Nacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte ja eigentlich irgendwie gehofft das wir die Karlsbucht besuchen könnten, das passiert aber wohl am heutigen Tag nicht, dafür sehen wir jetzt endlich was die Leute am Morgen in Updaam so viel gearbeitet haben, stellt sich doch glatt heraus das es um das Feuerwerk ging. Die Frage bleibt aber weiter im Raum, wissen die Eternalisten das sie jeden Tag das Gleiche tun oder kriegen sie das mit dem Loop nicht so richtig mit und denken immer dies sei die erste Wiederholung und daher die große Feuer steht an. Wirklich, ich meine, Julianna weiß nicht einmal welche Wiederholung es ist, ich gehe also davon aus das wir mindestens zwei oder drei Jahre an Tagen erlebt haben. Ist der Gedächtnisverlust von Colt damit verwandt? Manche Eternalisten sagen ja das sie jeden Tag neben den gleichen Typen aufwachen, und doch wiederholen sich Dinge wieder und wieder. Das spricht doch dafür das einzelne Akteure gar nicht wissen das sie in der x-ten Wiederholung sind. Aber was ist mit den Visionären, anscheinend haben sie ja persistente Erinnerungen, feiert Aleksis wirklich jede Nacht die gleiche Party oder gibt es da ein Schema á la n-5 Tage gibt es die Feier oder das Abendprogramm ändert sich? Trotzdem wäre es wohl klüger gewesen alles am Tag vor dem Loop aufzubauen, alles was man jetzt macht muss man ja immer wieder herstelle, das klingt auf Dauer nervig.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 2, Aufnahme am 25.03.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

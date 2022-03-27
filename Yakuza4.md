@@ -2054,6 +2054,21 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #139
+
+* Titel: `Yakuza 4 Remastered - #139 - der grüne Schatten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns massiv und eilig dem Ende, aber es ist immer noch nicht so weit. Anscheinend habe ich am heutigen Tag eine interessante Nebengeschichte übersehen bzw. konnte die einfach vorher nicht machen. Es geht um den grünen Schatten bzw. um irgendeinen komischen Vieh das man anscheinend aus den Mythen, Sagen und Legenden von Japan kennt. Interessanterweise habe ich sogar ein Buch darüber habe bisher aber quasi keine Zeit gefunden mich mit diesen Büchern auseinander zu setzen, quasi der Fluch der Zeit, es gibt immer so viele interessante Dinge zu tun das man nie diese ruhige Minute hat um sich mit anderen Dingen zu beschäftigen. Daher müssen wir jetzt einfach mal davon ausgehen das die Informationen die uns präsentiert werden größtenteils korrekt sind.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 21.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1140,3 +1140,29 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Sitzung 10, Aufnahme vom 17.03.2022
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
+
+##### #71
+
+* Titel: `KotOR 2 - #71 - Kavars Plan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich fliehen wir heute auch von der Yacht von Goto bzw. G0t0 aber so richtig spektakulär ist die gesamte Operation eigentlich nicht. Wir erschießen halt schnell ein paar Typen die sich uns irgendwie in den  Weg stellen wollen und gehen dann genau rechtzeitig an Bord unseres Raumschiffes und fliegen hinfort. Dann stellt sich heraus das der Meister den wir die ganze Zeit gesucht haben und den Goto eigentlich raus treiben wollte die ganze Zeit schon Mira bekannt war, daher ist es auch absolut kein Problem mit ihm zu reden. Auch erstaunlich ist allerdings  was der Mann eigentlich gemacht hat während wir aus Versehen Mira befreit haben und von Goto gefangen genommen wurden, angeblich war er doch hinterher und wollte da einreiten um die Leute zu befreien. Wo war der große Meister dann? Habe ich irgendetwas verpasst oder falsch verstanden? Immerhin ist der Mann ziemlich selbstkritisch und scheint viele Entscheidungen der Jedi in Frage zu stellen, auch interessant, er selbst sieht sich wohl nicht mehr als Jedi an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 11, Aufnahme vom 24.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

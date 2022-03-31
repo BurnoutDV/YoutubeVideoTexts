@@ -195,6 +195,66 @@
   Sitzung 2, Aufnahme am 25.03.2022
   ```
 
+##### #13
+
+* Titel: `Deathloop - #13 - Blutpartie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in Updaam, es ist grade Abend und unser guter ehemaliger Freund Aleksis Dorsey schmeißt eine Party, von anderen Leuten lässt er sich gerne als AlphaWolf69 bezeichnen aber wir kennen ja seinen Namen. Das Problem ist nur das man wohl eine Wolfsmaske braucht um auf die Party hineinzukommen. Es ist sogar ziemlich witzig, die Wachen am Tor scheinen die einzigen Eternalisten zu sein die uns nicht direkt angreifen. Wie dem aber auch sei, da wir nicht rein kommen, sowieso keine Einladung haben und generell und überhaupt nicht besonders gut vorbereitet sind müssen wir improvisieren. Leider habe ich auch die Bewaffnung für eine heimlich Infiltration ein wenig vergessen, das sorgt für noch mehr Improvisation. Der Zufall will es aber so das ich durchaus in der Lage bin dem Problem bei zu kommen, wenn auch mit gewissen Abstrichen, ich habe ein wenig das Gefühl das ein solches Vorgehen nicht vorgesehen war.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 2, Aufnahme am 25.03.2022
+  ```
+
+##### #14
+
+* Titel: `Deathloop - #14 - ein neuer Anfang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann wird es auf einmal ein neuer Tag. Immerhin haben wir jetzt erfahren was es mit dem LEP auf sich hat, oder halt auch nicht, aber so richtig groß kann das gute Stück nicht sein. Jetzt stellt sich aber die Frage ob Julianna das LEP jede Nacht klaut oder ob sie das nur genau einmal getan hat einfach weil sie kann um uns in diesem spezifischen Loop zu ärgern. All das ist ein wenig irritierend, insbesondere weil es so scheint das selbst die Visionäre dem Loop erlegen sind, alle bis auf Julianna, von der wissen wir immerhin sicher das sie sich der einzelnen Umdrehungen noch bewusst ist. Oder vielleicht auch nicht? Irgendetwas ist hier definitiv seltsam, höchstwahrscheinlich auch der Grund warum sich Colt dafür entschieden hat die Dinge zu tun die er tut. Spontan würde ich übrigens darauf setzen das es den normalen Tages-Loop gibt und alle X Wiederholungen auch die Visionäre die Dauer vergessen, oder sogar eine dritte übergeordnete Reihe kommt. Alle X-Wiederholungen vergessen die Eternalisten und alle Y vergessen auch die Visionäre. Aber was ist dann mit Colt? Was hat er anders gemacht? Was unterscheidet Erinnerungen und Personen? Warum sind die Visionäre auch so besonders.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 2, Aufnahme am 25.03.2022
+  ```
+
+##### #15
+
+* Titel: `Deathloop - #15 - das LEP [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist endlich soweit, wir wissen was es mit diesem dummigen LEP auf sich hat und vor allen Dingen auch wie wir den Loop brechen können. Dinge die wir leider noch nicht wissen ist wie genau wie wir das Bewerkstelligen, aber so wie die Dinge stehen wird es wohl langsam aber sicher die bekannten Mechaniken des letzten Spiels von Arkane ähneln, das nach meiner Information Dishonored sein sollte. Ist dem nicht so, ich meine Dishonored, ihr wisst schon, dem Spiel wo man Leute entweder umbringt oder einem wesentlich schlimmeren Schicksal überlässt. Wie dem aber auch sei, dieses Mal haben wir keine Wahl die Leute nicht tödlich sterben zu lassen, stattdessen verlieren wir alles obwohl wir nicht sterben. Das ist alles ein wenig ärgerlich und führt dazu das wir uns ein paar neue Dinge überlegen müssen, wir zum Beispiel in die lokale Bibliothek zu gehen und ein paar Waffen auszuleihen. Oder aber auch uns selbst zu treffen, wieder einmal. Fraglich ist übrigens immer noch im wie vielten Loop wir sind, die anderen Leute haben anscheinend ja nicht mit gezählt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 2, Aufnahme am 25.03.2022
+  ```
+
+##### #16
+
+* Titel: `Deathloop - #16 - Wenjis Labore [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollte ich mich im Komplex noch mal richtig umsehen, aber es stellt sich heraus das wir eigentlich beim ersten Mal schon alles gesehen hatten was es zu sehen gibt, außer das es jetzt subtile Veränderungen vor Ort gibt die mich glauben lässt das ein Besuch in den Morgenstunden eventuell doch noch eine Veränderung mit sich bringen könnte, insbesondere weil in einer gewissen Waffenkammer ein Stück herumlag von dem ich glaube das ich bald mit ihm interagieren kann. Aber ich nehme vorweg, heute erkunden wir erst einmal die verschiedenen Laborräume die Wenjie errichtet hat. Eigentlich komisch das sie so viele hat, im Loop wird sie wohl kaum mehr als eines brauchen. Aber die gesamte Geschichte musste ja auch erst gestartet werden, das würde dann wohl auch erklären warum zumindest die Labore doch schon recht benutzt aussehen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 3, Aufnahme am 30.03.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -203,4 +263,3 @@
 
   ```markdown
   Hier
-  ```

@@ -1157,6 +1157,70 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #72
+
+* Titel: `KotOR 2 - #72 - Spaziergang nach Hause [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja wir sind immer noch in der Unterhaltung mit unserem alten Jedi Meister, bzw. eigentlich war er ja gar nicht unser Meister sondern nur irgendein Meister aber das grundlegende Prinzip ist ja doch recht klar oder? Nun, die Sachlage ist jetzt halt die das wir jede Menge neue Informationen erfahren haben, unsere Begleiter haben auch einiges zu bereden und generell und überhaupt gibt es jetzt auch neues Personal auf dem Schiff dem wir natürlich voll umfänglich trauen. Also legen wir los und joggen gemütlich zurück zu unserem Schiff, ein weg der dieses Mal doch ein wenig leichter fällt, es gibt zwar erneut Widerstand aber der ist dieses Mal doch ein wenig schwächer. Weiter also zum Personal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 11, Aufnahme vom 24.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #73
+
+* Titel: `KotOR 2 - #73 - Miras Geschichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie haben wir schon wieder eine weitere Person adoptiert. Nein, ich weiß nicht wann das passiert ist, wann ich dem zugestimmt habe und wie es überhaupt dazu kommen konnte. Klar ist nur das wir hier eine völlig unbekannte Person mit an Bord haben die uns auch nicht allzu viel erzählen will. Zum Glück haben wir aber eine goldene Zungen und können doch noch ein wenig Wahrheit aus den Leuten rausholen wenn wir nur genügend aufpassen. Das setzt aber auch vor raus das wir vorher eine Menge zuhören um die richtigen Informationen herausfiltern zu können um dann im Nachhinein auch die richtigen und kritischen Fragen zu stellen. Außerdem erfahren wir wohl das auch Mira irgendwie ein wenig mit unseren Taten auf Malachor V zusammen hängt. Was da jetzt präzise passiert ist vermag ich übrigens nicht zu sagen, aber ich glaube es war ein ziemlich Massaker. Und darunter haben Leute gelitten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 11, Aufnahme vom 24.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #74
+
+* Titel: `KotOR 2 - #74 - HK47s Wiederbelebung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Seit Ewigkeiten haben wir so einen komischen Roboter im Frachtraum stehen, ehrlich gesagt hatte ich auch gedacht das es sich nur um einen der anderen HK-50 Roboter gehandelt. Wir haben das Chassis wohl mit der Ebon Hawk geerbt und auch wenn er es nicht zugeben will, T3 ist wohl irgendwie maßgeblich dafür verantwortlich das wir diesen Haufen Schrott auf unserem Schiff stehen haben. Das kann so nicht weitergehen, also sorgen wir jetzt endlich dafür das dieser Haufen Schrott etwas Nützliches wird. Zum Glück habe ich immer fleißig Teile gesammelt und meine Reparatur Fähigkeiten hoch gehalten, auch wenn ein kleines Rätsel ist warum ich mich eigentlich darum kümmern muss, schließlich hat man doch für sowas fähiges Personal, warum also muss der Chef hier noch selber schrauben? Ein echtes Elend. Wie dem aber auch sei, es kommt ein wenig Dialog auf uns zu. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 11, Aufnahme vom 24.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #75
+
+* Titel: `KotOR 2 - #75 - ein perfekter Killerdroide [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben HK-47 repariert, einen Droiden der perfekt dafür geeignet ist Jedi, Menschen und Regierungen umzubringen. In vielerlei Hinsicht ist die HK Reihe nicht nur auf dem Schlachtfeld und urbanen Gelände außerordentlich nützlich sondern auch in Verhandlungsräumen. Das blinde Vertrauen in die ansonsten so primitiven Roboter hat anscheinend zu einer Kultur geführt die enorm anfällig für Hacker ist. Generell und überhaupt scheint die Macht ziemlich schwach zu sein wenn man bedenkt welche Macht hier einfach in reiner Mathematik und Logik liegen gelassen wird.  Unsere explizite Ausführung der HK Reihe, die Nummer Agent 47, ist leider ein wenig in die Jahre gekommen und wir musste ihn irgendwie aus Altmetall wieder zusammenbauen. Das muss aber nicht so bleiben, mit ein wenig Fingerspitzengefühl können wir hier einiges ändern und viele große und auch feine Probleme so lösen. Und am Ende haben wir einen strahlend roten Roboter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 11, Aufnahme vom 24.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -2069,6 +2069,76 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
+##### #140
+
+* Titel: `Yakuza 4 Remastered - #140 - die andere Himmelsfinanz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit Akiyama gibt es da noch eine Mission die ich irgendwie verpasst habe, das ist ein wenig schade aber irgendwie habe ich halt die Beschreibung nicht richtig gelesen und dann sind halt die Dinge passiert die dafür gesorgt haben das Hana-Chan nicht mehr bei uns arbeitet. Das ist ein wenig doof weil sich doch glatt herausgestellt hat das wir Hana für diese Quest brauchen. Die gute Nachricht ist, mit ein wenig Googlen habe ich herausgefunden das in Akiyamas Büro eine Zeitmaschine eingebaut ist. Das heißt wir können in die Vergangenheit gehen als Hana noch bei uns war und dann doch noch einmal die Quest angehen. Zur Sache, es gab anscheinend Konkurrenz die uns irgendwie doof kommen wollte und Stress gemacht hat. Das sah dann so aus das man sich als wir ausgegeben hat, witzige Geschichte aber ultimativ geschäftsschädigend, nicht nur Kiryu hat also Probleme mit Nachahmern.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 21.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #141
+
+* Titel: `Yakuza 4 Remastered - #141 - Landung auf dem Dach [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schritt 1, wir reisen heute zurück in die Gegenwart, Schritt 2 und wir stelle uns den Dämonen und damit auch den verschiedenen Spielern die uns viel zu lange aufgehalten haben. All das ist nicht einfach für einige Mitglieder unserer illustren Gruppen, aber ich sage mal so, wäre noch Majima mit dabei könnte unsere Gruppe nicht mehr mehr Badass sei. Für den Moment müssen aber die vier Leute reichen die wir hier haben. Fakt ist das wir wohl noch einiges an Aufklärung brauchen, zum Glück ist es aber wohl so das der gute Arai eigentlich alle wichtigen Fakten für uns aufklärt. Generell und überhaupt ist es allerdings sehr schade das es wohl keine Aufnahmegeräte auf diesem Dach gibt und das die vier Helden nicht hören können was unsere Schurken unten zu besprechen haben. Aber heute erfahren wir viel.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 21.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #142
+
+* Titel: `Yakuza 4 Remastered - #142 - Hirokaki Arai & Takeshi Kido [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Habe ich schon einmal erwähnt das mich die Benennung von Charakteren in Japan immer ein wenig verwirrt. Das liegt natürlich daran das ich eine bestimmte Reihenfolge gewöhnt bin und das es in Fernost halt einfach anders ist. Und doch weiß ich immer noch nicht ob die Typen jetzt Arai und Kido heißen oder ob sie jetzt eigentlich Herr Arai und Herr Kido sind. Einfach vollkommen unklar. Die bekannte Serie aus meinen Kindertagen hieß Takeshis Castle und ich gehe einfach mal davon aus das man einen hohen Lord (Domo?) mit seinen Nachnamen bzw. Familiennamen anspricht. Weiteres Argument ist auch das es sich ja um Daigo Doijima handelt und er die Dojima Familie anführt. Und doch, immer wieder kommt diese Unsicherheit auf. Wie dem aber auch sein mag, wir werden enorm persönlich mit den beiden heute.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 28.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #143
+
+* Titel: `Yakuza 4 Remastered - #143 - Daigo Dojima & Seishiro Munakata [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir bei der letzten Runde von Endkämpfen, der große Kampf Kiryu gegen Daigo stand ja schon lange aus nachdem wir ja schon so lange an Daigos Seite gekämpft haben und sich immer wieder gezeigt hat das Daigo vielleicht nicht der treuste Mann zu den Idealen war die Kiryu irgendwann einmal etabliert hat. Wie dem aber auch sei, der Kampf gegen Daigo ist am Ende gar nicht einmal so kritisch. Der Junge ist zwar jünger als der doch mittlerweile sehr in die Jahre gekommende Kiryu aber für den Drachen von Dojima ist Dojima Jr. einfach kein Problem. Anders sieht das bei unseren besten Freund Munakata aus, der hat zwar sehr erfolgreich überlebt aber so wie die Dinge stehen ist er doch ziemlich alt. Welch Glück übrigens das die Männer die er angeheuert hat und die ihm ja so treu sind, es sich anscheinend um ziemliche Idioten handelt. Welch Glück aber auch, dennoch sind sie ein großes Hindernis.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 28.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

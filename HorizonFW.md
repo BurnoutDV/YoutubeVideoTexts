@@ -1,4 +1,4 @@
-## leer
+## Horizon: Forbidden West
 
 * tags = `lets play,ingame,playthrough,story,text,audiolog,speedrun,erklärung,zusammenfassung,aloy,rost,elisabet sobeck,oswald dalgaar,far zenith,odysse,sirius,peter,GAIA,anzu,marad,sylens,sonnenfall,meridian,terraforming,roboter,maschinen,brutstätte,fahllicht,westen,fashav,kettenkranz,vuadis,erend,ulvund,petra,itamen,vanasha,mine,oseram,tenakth,alpha,omega,ted faro,travis tate,raumhafen,raumschiff,langhals,geheimniss,speer,bogen`
 
@@ -266,11 +266,13 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
 
 ##### #14
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #14 - Erend und der Steinbruch [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Es ist Zeit für die Hauptquest, normalerweise konzentriere ich mich ja immer sehr auf die Nebenmissionen aber soweit am Anfang des Spieles kann man halt ab einem bestimmten Zeitpunkt einfach nichts Anderes mehr machen. Also gehen wir Erend hinter her, finden den guten Mann natürlich müssen aber feststellen das er wohl für den großen Kampf nicht ganz so gut geeignet ist, seinen aktuellen Job hasst und genau wie Avad exakt den gleichem Move macht: er versucht mit Aloy zu flirten. Das ist alles ziemlich süß aber ich kann irgendwie verstehen das das echt nervig sein muss. Wie dem aber auch sei, ich warte nur darauf das irgendein weiblicher Char sein Glück bei "uns" versucht. Bis es aber soweit ist kümmern wir uns um den lokalen Steinbruch, der hat nämlich das Problem das da ein paar von diesen Viechern rumlaufen und das wollen wir ja nicht so einfach zulassen.
+  
   0:00 - Gameplay
   0:47 - Biografie: Vanasha
   1:08 - Biografie: Uthid
@@ -278,28 +280,60 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   1:45 - Gameplay
   3:45 - Aussichtspunkt: Der Schrecken
   5:19 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 22.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #15
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #15 - gespaltener Fels [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Nur weil wir uns weit in der Zukunft befinden heißt das ja nicht das die Menschen auf einmal magisch und plötzlich bessere Menschen geworden sind. Eigentlich sind, soweit wir das wissen, die Leute tatsächlich leicht besseres Gen-Material, wenn ich es recht verstanden habe wurden zumindest ernsthafte Krankheiten und andere Faktoren die den Leuten ernsthaft auf den Sack gehen würden aus dem Erbgut entfernt. Stellt sich die Frage wie nahe wir an Gataga dran sind aber die Stimmung und Persönlichkeit entsteht wohl durchaus immer noch durch die Gesellschaft in die man aufwächst, und in dieser Hinsicht hatten die Leute in der aktuellen Zukunft wohl einen recht harten Start. Es sollte uns also nicht wundern immer noch gierige und egoistisch denkende Leute zu finden. 
+  
   0:00 - Gameplay
   12:30 - Text: Frachtbrief
   12:56 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 22.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #16
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #16 - Weiterreisevorbeireitungen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es ist geschafft, wir haben es hingekriegt das die olle Pfeife endlich einmal benutzt wurde und im Schrecken und insbesondere in Kettenkratz gehen die Dinge jetzt wieder ihren normalen Gang nach. Das heißt aber noch nicht das schon alles erledigt ist, die Leute haben natürlich trotzdem noch Probleme, und ich würde noch vermuten das diese Probleme auch wieder direkt mit Ulvid zusammenhängt, beweisen kann ich das natürlich nicht, aber eventuell findet sich noch irgendwas das uns später hilft den Mann zu verdammen. Zurück zum Wesentlichen, die Gesandtschaft kann sich dann wohl in Bewegung setzen aber Aloy selbst ist da noch nicht ganz so bereit. Solange es noch grüne Ausrufungszeichen auf der Karte gibt kann ich nicht los, aber das alles ist ein großes Thema für das nächste Mal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 22.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #17
+
+* Titel: `Horizon Forbidden West - #17 - der Orden des Zwielichts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für jemanden der in mehr oder weniger Isolation von anderen Menschen aufgewachsen ist verfügt Aloy über eine bemerkenswerte Menge an Einfühlsamkeit. Tatsächlich ist sie immer noch nicht gut darin Menschen ohne Taten zu überzeugen aber für jemanden der quasi keinen Zugriff auf moderne Philosophie bzw. auf den ganzen historischen Kanon hatte ist sie erstaunlich aufgeklärt was den Umgang mit dieser angeht. Da fragt man sich doch wie viel wissen es doch auf diesen einen Fokus gab den sie damals in der Ruine gefunden hat. Apollo war eine gewaltige Anlage und verfügte über eine größere Menge an Faro Fokussen die anscheinend schon das notwendige Wissen besaßen das man braucht um wesentlich aufgeklärter an die Welt heran zu gehen. Umso krasser wirkt dann der Unterschied zu den Schatten Carja die sich jetzt der Orden des Zwielichts nennen, immer noch blinde Sklaven ihrer Religion.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 29.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #Nummer

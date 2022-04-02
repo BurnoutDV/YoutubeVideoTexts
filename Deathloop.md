@@ -255,6 +255,20 @@
   Sitzung 3, Aufnahme am 30.03.2022
   ```
 
+##### #17
+
+* Titel: `Deathloop - #17 - Besuchsobjekte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und heute ist dann der Tag an dem wir endlich erfahren was es jetzt mit dem Loop auf sich hat und warum all die Dinge irgendwie so komisch zu sein scheinen. Und warum wir nicht eigentlich schon viel mehr Opposition erfahren, stellt sich doch glatt heraus das Julianna von Glück reden kann das sie Frühaufsteher ist und Colt nicht. Davon einmal abgesehen sind die Dinge aber immer noch ziemlich unklar, klar, wir haben eine Menge Dinge herausgefunden aber dann sind da doch noch Fragen offen. Die größte Frage bleibt natürlich auch weiterhin das Warum. Und natürlich was die ursprüngliche Erwartung an die gesamte Loop Geschichte war, einige Leute wollten Party machen, anderen Forschung betreiben und wieder Andere einfach nur die Ewigkeit erleben. Und doch..einige Kommentare lassen mich vermuten das Colt und Julianna nicht unbedingt ein einzigartiger Fall. Andere Leute vermuten zumindest etwas. Was mich zurück zu meiner Kopie mit den ineinandergeschachtelten Loops bringt. Die Zukunft wird mehr Erkenntnisse bringen, auch wenn ich befürchte das die Zeit der großen Expositionen wohl leider vorbei ist.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 3, Aufnahme am 30.03.2022
+
 ##### #Nummer
 
 * Titel: ``
@@ -263,3 +277,4 @@
 
   ```markdown
   Hier
+  ```

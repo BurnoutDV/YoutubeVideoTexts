@@ -2129,14 +2129,19 @@
   Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
-##### #Nummer
+##### #144
 
-* Titel: ``
+* Titel: `Yakuza 4 Remastered - #144 - Grundfeste der Gesellschaft[Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und da sind wir, das hier ist das Ende. Alles was wir jetzt noch sehen sind eine Menge Zwischensequenzen die ich so gut wie es halt geht übersetze aber an sich passiert gar nicht einmal soviel. Immerhin gibt es ein erfreuliches Maß und Menge von überlebenden Personen. Ich bin in dieser Hinsicht mehr als nur Überrascht, ich hätte wirklich gedacht das Yakuza 4 die ganzen Dinge die in den Vorgänger am Rande noch aufgebaut wurden jetzt einfach abschließt und das der nächste Teil eine komplett neue Geschichte erzählt. Offensichtlich war dem wohl dann nicht so. Das war Yakuza 4, ein Spiel mit einer ziemlich interessant Geschichte, definitiv spannender als der direkte Vorgänger. Umso interessanter ist das ich offiziell nur 32% des Spiels gesehen habe.
+  
+  Jeden Wochentag Live auf Twitch: https://www.twitch.tv/burnoutdv 17 - 20 Uhr. 
+  Yakuza 4 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 28.03.2022
+  Playlist: https://www.youtube.com/watch?v=a2LJv20nvNI&list=PLAFz5ZZJ21wPI8AMZUyKzoge-Ko4xXony
   ```
 
 ##### #Nummer

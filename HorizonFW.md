@@ -336,6 +336,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #18
+
+* Titel: `Horizon Forbidden West - #18 - Delah & Boomer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Verrückte Leute trifft man immer und in jeder Zeit, dafür braucht es keine hochgestellten Zivilisationen oder eine dicke Decke des Reichtums. Aber es hilft, verrückte Leute die keinerlei Rückhalt in der Gesellschaft oder in der Welt im Allgemeinen haben gehen wahrscheinlich ziemlich schnell unter..oder führen eine große Schar von Anhängern an die dann eine Menge Unsinn machen, aber davon würden wir dann zur richtigen Zeit hören. Wie die Dinge aber auch stehen ist jetzt erst einmal egal, für Aloy steht an der Stelle eine neue Waffe auf dem Spiel und die Möglichkeit richtig gut ab zu greifen. Dafür müssen wir nur für zwei irre Oseram-Schwestern ein paar Bauteile aus der Wildnis farmen und schon kann es richtig losgehen. Und natürlich kommen die Schwestern aus reichem Hause, andernfalls hätte man sie wohl einfach in die Wildnis ausgesetzt, ich hätte allerdings gedacht das insbesondere die Zwerge da ein wenig toleranter sind, so kann man sich täuschen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 29.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

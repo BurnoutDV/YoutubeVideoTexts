@@ -1221,6 +1221,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #76
+
+* Titel: `KotOR 2 - #76 - Wie man einen Jedi tötet [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jedi sind erstaunlich angreifbar wenn man die gesamte Geschichte ein wenig intelligent angeht. Wir haben dies schon in anderen Werken erfahren. Die Quintessenz ist eigentlich immer das ein Jedi eine  Ein-Personen-Armee ist und wenn man versucht einen solchen mit einer Serie von Duellen zu besiegen erreicht man da nicht viel. Was man aber stattdessen machen kann ist einfach alles auf einmal drauf werfen. Keine Laser basierten Waffen zu verwenden, also das Einzige was ein Laserschwert ziemlich gut abwehren kann würde aber auch helfen. All diese tollen Tipps hat heute HK47 für uns. Es geht aber noch weiter, scheint es doch so das es noch wesentlich subversivere Methoden gibt schon im Vorfeld die Moral eines Jedis zu zerstören und ihn bereit zu machen zur dunklen Seite über zu treten, oder zumindest an ihm selbst zu zweifeln. Dafür bedarf es natürlich eines gewissen Zugangs, mir ist allerdings schleierhaft wie die Jedi als Gruppierung sich gegen solche Taktiken wehren wollen. Klar, der Familie kann man abschwören aber persönliche Bedingungen, zumindest untereinander oder Teilen der Zivilbevölkerung der man ja irgendwie dient lassen sich nur schwer unterdrücken. Und selbst wenn, welchen Sinn hätte dann ein Macht-Mönch noch?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 11, Aufnahme vom 24.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

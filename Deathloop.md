@@ -269,6 +269,80 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 3, Aufnahme am 30.03.2022
 
+##### #18
+
+* Titel: `Deathloop - #18 - ein ganz neuer Tag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es ist wieder einmal ein neuer Tag, aber dieses Mal könnte es durchaus das letzte Mal sein das wir komplett nackt und ohne Ausrüstung aufwachen. Und die Katze ist aus dem Sack. Allem Anschein nach hat niemand im Vorfeld bedacht das eine ewige Wiederholung des gleichen Tages auch bedeutet das sich nichts verändert, und davon ist halt auch die Erinnerung aller Personen innerhalb des Loops betroffen. Es gibt für Computer übrigens eine ähnliche Funktion, meistens unter dem Namen Deep Freeze bekannt. Umso interessanter ist es allerdings das der Loop nicht völlig stabil ist, über genügend Iterationen scheint sich ja doch ein Unterschied ergeben zu haben, ein kleiner Unterschied der dafür sorgt das es einigen Gestalten aufgefallen ist das die Realität bereits eine vielfache Wiederholung ist, und nicht erst die erste. Mich verwirrt übrigens ein wenig das sich Aleksis vorgenommen hat das Feuerwerk nur am aller ersten Tag starten zu wollen, den Visionären muss doch klar gewesen sein das am nächsten Tag alles wieder da ist. Immerhin erklärt sich jetzt warum die Eternalisten so freigiebig alle Arbeiten erledigen, es ist ja erst das erste Mal. So kann man natürlich gut Dinge versprechen. Aber was ist schon Realität.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 3, Aufnahme am 30.03.2022
+  ```
+
+##### #19
+
+* Titel: `Deathloop - #19 - Frank Spicers erster Auftritt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht wie sehr es überhaupt irgendeinen Sinn ergibt Dinge zu benummern, in der Unendlichkeit verlieren solche Dinge ihren Sinn. Allen Anschein nach, und wenn ich Julianna richtig verstehe haben wir all dies bereits durch, das bedeutet das meine Theorie über eine Sub-Loop bzw. einen Zyklus der übergeordnet stattfindet durchaus eine gewisse Bedeutung hat. Sie sagt das Erinnerungen flüchtig sind, wir haben zwischendurch einfach alles vergessen und Julianna scheint darüber ziemlich sauer zu sein. War es etwas das wir am Ende des letzten Zyklus realisiert haben das Julianna zurück haben will? Allen Anschein nach hat sie uns ja auf den gleichen Kurs wie beim letzten Mal geschickt, wissend was wir tun werden. Eventuell könnte Wenjis Forschung doch noch Erfolg haben, weil allen Anschein nach werden die Besuchsobjekte ja mehr je länger er andauert. Auch wissen wir nicht wie viele tausend Jahre bereits vergangen sind, es wäre schon ironisch wenn die 13562 genau dann vorbei wären wenn wir alle Visionäre in einem Loop umgebracht hätten und dann diese tot bleiben obwohl es gar nicht notwendig gewesen wäre sie zu töten. Auf der anderen Seite sind das 4.950.130 Tage, knapp 5 Millionen Stück. Habe ich schon erwähnt das Aufzählungen ihre Bedeutung in der Unendlichkeit verlieren? Sagen wir so, in diesem Zyklus der vielleicht der zweite ist bringen wir Frank Spicer zum ersten Mal um, nicht für seine Kräfte, sondern weil ich wissen will was für eine Waffe er trägt. Die Frage nach dem Zyklus ist wahrscheinlich auch ein wenig endlicher, Julianna meint zwar das wir es am Ende immer einsehen aber das könnte auch eine Lüge sein und wir sind erst in der ersten echten Wiederholung des Zyklus. Darauf basierend das wir Dinge noch nie gesagt haben. Umso länger ich hierüber nachdenke umso mehr habe ich das Gefühl das Deathloop "Butterfly effect the game" ist. Die Veränderungen im eigentlichen konstanten Loop kommen durch eine Instabilität die in sich nicht groß sein kann, eine kleine Imperfektion. Ein Fehler in Wenjis Gerät? Der Quelle selbst oder vielleicht sogar eine Intelligenz die so fremd ist das sie uns so Signale sendet. 
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 3, Aufnahme am 30.03.2022
+  ```
+
+##### #20
+
+* Titel: `Deathloop - #20 - Nachmittagsblues [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Visionäre und die Eternalisten erleben eine konstante Party, klar es ist immer der gleiche Tag aber die meisten von ihnen schein das ja nicht unbedingt mit zu kriegen. Soweit ich das verstanden habe hat man auch schon im Vorfeld ein wenig gefeiert, anders kann ich mir nicht erklären warum genau eigentlich die Eternalisten sagen das sie nebeneinander aufwachen. Insbesondere die Typen am Anfang machen ja Andeutungen das man eher nicht so unfassbar gut untergebracht war. Auch gab es ja wohl schon ein wenig Kultur und täglichen Tagesablauf bevor es richtig los ging mit dem Loop. Wie dem aber auch sei, nach einer harten durchzechten Nacht ist insbesondere der Nachmittag immer ein wenig ruhiger und das merkt man auch. Wir sind heute in Updaam um nach Charlie zu schauen und so wie es aussieht sieht es doch ein wenig ruhiger hier aus als am Abend oder in der Nacht. Das bedeutet natürlich nicht das es am Ende nicht noch heiß her geht.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 3, Aufnahme am 02.04.2022
+  ```
+
+##### #21
+
+* Titel: `Deathloop - #21 - Colt der Eindringling [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich im Nachhinein die technische Entwicklung anschaut gibt es viele Dinge die in der Vergangenheit einfach nicht möglich waren. Überraschend viele Dinge waren aber durchaus im Rahmen der Möglichkeiten wenn man nur genügend Ressourcen auf ein Problem geworfen hat. Beispielsweise Rechentechnik, in den 60er Jahren gab es ja durchaus schon Computer. Konrad Zuse hatte eine quasi funktionierende Rechenmaschine im zweiten Weltkrieg, die hatte damals zwar noch keinen praktischen Wert bzw. Einsatz aber vorhanden war das gute Stück, nur wenige Jahre später und man hätte durchaus erste Früchte melken können. Tonbänder bzw. generell Speicherbände sind etwas das es schon seit vielen Jahrzehnten gibt, und dort wo die Notwendigkeit bestand hatte man teilweise Jahrzehnte früher Technik die der Allgemeinheit erst viel später zur Verfügung standen. Das bringt uns zu Charlie, wir wissen mittlerweile das es wohl irgendwas um 1963 ist, wie lange der Loop läuft wissen wir nicht, nur das es wohl schon eine Weile ist, davon ausgehend das es einige Zeit gedauert hat bis Colt beschloss es auf zu halten und Julianna deutet ja an das wir mindestens schon einmal durch all dies gegangen sind (wie auch immer wir wieder auf Feld 0 gegangen sind). Die Technik ist dadurch wohl nicht besser geworden aber es spricht wohl doch ein wenig für die einzelnen Visionäre und ihr Talent das es gelang einiges an funktionierenden lokalen System zu erstellen die über das hinaus gehen was 1960 für möglich gehalten wurde. Das und natürlich ein wenig Sci-Fi. Charlie beispielsweise hat interessante Spiele erschaffen, jetzt kann man in Frage stellen wie sinnvoll diese technische Entwicklung von ihm eingesetzt wurde. Spielen wir heute also eine Runde Eindringling, wie passend eigentlich, später finden wir bestimmt heraus wie wir das hier unblutig lösen, aber für den Moment bleibt uns wohl kaum eine andere Wahl als so vorzugehen wie wir es tun.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 3, Aufnahme am 02.04.2022
+
+##### #22
+
+* Titel: `Deathloop - #22 - Charlies erster Retry [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin noch ein wenig uneins wie ich das angehe das wir in Zukunft die einzelnen Visionäre noch ein wenig öfter töten. Für den Anfang werde ich wohl schauen müssen wie ich es schaffe die Einrichtungen zu infiltrieren ohne das mich die Eternalisten sehen um meine Hände möglichst frei von Blut zu halten wenn dann der Loop kollabiert, weil wer dann tot ist bleibt halt auch tot. Ein wenig ärgerlich natürlich für den einen Typen in Updaam der einfach von der Klippe springt aber da kann man wohl Nichts machen, das muss ich übrigens auch noch machen, von der Klippe springen einfach um es mal gemacht zu haben. Aber dazu später mehr. Für den Moment ist Charlie unser Ziel, er wird sterben, wahrscheinlich ziemlich oft, aber im Gegensatz zu 2Bit kann er sich daran am Ende nicht erinnern. Interessant ist übrigens auch das unser guter Freund Charlie scheinbar einiges an Daten herumliegen hat aber leider auch nicht so viele wie ich es gerne hätte. Aber hey, Charlie wird Gelegenheit haben noch einmal zu versuchen seinen Tod zu verhindern, bis er eines Tages endgültig tot bleibt, das ist ein wenig tragisch, das es scheinbar der einzige Weg ist den Loop zu brechen, in dem wir die Leute ein für alle Male umbringen. Es sei den wir finden noch einen Weg noch eine weitere Umdrehung herauszuholen obwohl alle Visionäre versterben, dafür müssten wir wohl die Quelle finden, vielleicht weiß jemand mehr. Aber eines nach dem Anderen, zu erst brauchen wir neue Fähigkeiten. Charlie hat da ein sehr praktisches Talent und das holen wir uns jetzt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 3, Aufnahme am 02.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

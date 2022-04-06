@@ -1237,6 +1237,86 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #77
+
+* Titel: `KotOR 2 - #77 - das Echo des Lebens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen bereits das es einen scheinbaren Zusammenhang zwischen der Macht und dem Leben als Solches gibt. Es funktioniert zwar nicht so aber es scheint so als wäre eine normale Person auch in der Macht verankert aber nur so schwach das es keinen Unterschied macht für das Individuum. Obwohl, wahrscheinlich sind das diese ganzen kleinen Sachen wie das Gefühl beobachtet zu werden oder wenn man plötzlich denkt das jetzt ein guter Zeitpunkt wäre alles auf Rot zu setzen. Es ist schon deprimierend wie sehr die Macht eigentlich jedes Talent invalidiert und Zufall quasi immer auf eine komische unsichtbare Kraft zurückzuführen ist. Das nimmt einen irgendwie die eigene Agenda. Da können sich Entitäten wie G0t0 fast noch freuen, obwohl, auch sie scheinen von der Macht direkt beeinflusst zu sein, wie man ja an diversen Robotern sieht die mittlerweile bei uns herumspringen. Andererseits, wir wissen auch nicht wie viel davon jetzt eigentlich Jedi-Religion ist. Die diversen Machtnutzer erklären ja gerne einmal das die Macht am Wirken ist aber vielleicht ist diese große mysteriöse Kraft auch viel schwächer und subtiler als allgemein behauptet wird. Wie dem aber auch sei, nicht jeder der die Macht spüren kann wird auch Jedi und so wie es aussieht sind Machtnutzer auch wesentlich häufiger als wir immer dachten, aber nicht jeder wird entdeckt. Und deswegen sammeln die sich alle in unserer Crew..oder weil wir dieses Talent zur Verbindung haben. Wer weiß das schon?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 11, Aufnahme vom 24.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #78
+
+* Titel: `KotOR 2 - #78 - digitale Anschuldigungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute reden wir eine Runde mit G0t0, einfach weil wir können, es stellt sich doch glatt heraus das egal was wir tun, wir anscheinend alles falsch machen werden. Das ist ein wenig ärgerlich wenn ich bedenke das ich doch eigentlich zu den Guten gehören will, einen Umstand den mir Kreia auch viel zu oft vorwirft. Dagegen können wir jetzt auch nicht mehr viel machen, was geschehen ist geschehen und Peragus ist schon explodiert, das war übrigens ziemlich schlecht für die Republik. Wie genau ich diese Situation überhaupt bereinigen soll kann ich beim besten Willen nicht sagen, klar ist aber das wir wohl nicht den explodierten Planeten wieder zusammensetzen können, das wir nicht selber geschossen haben spielt dabei keine Rolle. Was ich allerdings nicht verstehe, wenn Peragus wirklich sooo empfindlich war, warum ist es nicht schon viel früher durch einen Unfall oder währender der diversen Kriege passiert, so ein Treibstofflager wäre doch bestimmt taktisch ein gutes Ziel?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 12, Aufnahme vom 31.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #79
+
+* Titel: `KotOR 2 - #79 - G0t0s Droiden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder ist ein weiterer Tag angebrochen an dem ich unheimliche Erkenntnisse habe, Erkenntnisse wie zum Beispiel das ich schon viel früher einen Zusammenhang hätte sehen können. Einen Zusammenhang auf den mich das Spiel nicht aktiv gestoßen hat der im Nachhinein aber total offensichtlich war, eine simple Abfolge von Logik die ich hätte vielleicht verstehen könne. Aber dadurch das nie mein Fokus darauf lag ist sie mir einfach entgangen. Ja ich empfinde so etwas als peinlich, klar es hat absolut keine Relevanz und ist auch eine schöne Menge an Worldbuilding und Geschichtserzählung aber auch Quell von Ärger. Das kommt davon wenn man einfach nur stumpf konsumiert anstatt die Hinweise die man vor sich hat auch wahr zu nehmen. Ich ärgere mich auf jeden Fall sehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 12, Aufnahme vom 31.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #80
+
+* Titel: `KotOR 2 - #80 - Crewpflege [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie machen wir heute nicht so eine Sache und das macht es ein wenig schwer für mich einen richtigen Titel zu finden, war wir aber tun ist mit diversen Leute zu reden die sich mittlerweile auf unserem Schiff angesammelt haben, das Alles ist auch irgendwie ein Problem. Wir haben so viele Leute mit an Bord das es in echte Arbeit ausartet die ganze Bande noch ausreichend Zeit zu geben damit sich jeder auch wertgeschätzt fühlt. Andererseits scheint es gar nicht so schlimm wie in Mass Effect zu sein, die Leute mit denen wir viel geredet haben scheinen soweit ganz gut zu Ende geredet haben und habe nicht mehr so viel Neues. Und doch, langsam aber sicher wird die Bande wie Hauspflanzen, andauernd müssen wir Patrouille laufen um sie zu gießen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 12, Aufnahme vom 31.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #81
+
+* Titel: `KotOR 2 - #81 - Voggas Traum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Vogga. Vogga ist ein Hutte und unsere denkende Eiskugel hat erwähnt das er Vogga nicht leiden kann weil die Hutten immer nur zu ihrem eigenen Vorteil planen. Das ist natürlich irgendwie schlecht wenn man tatsächlich versucht irgendwie der Welt bzw. der Galaxies als Ganzes zu helfen. Daher ist es wahrscheinlich ziemlich schwierig einen guten Deal aus einen Typen wie Vogga zu holen. Nächstes Problem ist auch das es eher schwierig ist überhaupt mit dem fetten Madenwesen zu reden, dafür brauchen wir wohl einen Vorwand. Anscheinend guckt sich der gute Vogga aber gerne menschliche bzw. humanoide Frauen beim Tanzen in leichter Kleidung an. Das ist übrigens auch deswegen spannend weil ich mir irgendwie nicht vorstellen kann das irgendwelche Aliens Wesen von einer komplett anderen Spezies irgendwie schön finden. Ich interpretiere da jetzt einfach irgendein Machtgefühl oder Ähnliches in die Welt hinein. Vogga geniest gar nicht den Tanz, die rhythmische Bewegung der Hüfte oder sonst irgendetwas sondern einfach nur die berauschende Macht die er über andere Wesen hat. Und schon sind wir in einer interessanten Ecke und impliziten Annahmen über das sexuelle Verhalten von Hutten. Die langweilige Wahrheit ist wohl einfach das die Showrunner bzw. Spielentwickler uns ein wenig Eye-Candy bieten wollten. Letztendlich ist das was ich oben geschrieben habe aber eh nicht wahr, reden könnten wir jederzeit mit Vogga, nur wenn wir ihn bestehlen wollten wäre die Sachlage ein wenig schwieriger.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 12, Aufnahme vom 31.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

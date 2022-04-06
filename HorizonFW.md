@@ -351,6 +351,81 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #19
+
+* Titel: `Horizon Forbidden West - #19 - Flanken des Schreckens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist immer noch absolut unklar warum bestimmte Orte und Personen in Horizon so heißen wie sie es tun. Ich hoffe ja wirklich sehr das die Entwickler einen Linguisten beauftragt haben und sich daher ein wenig Gedanken gemacht haben. Aber die Tatsache das ein Ort wie ein Konzept heißt macht die gesamte Angelegenheit ein wenig verwirrend. Tatsächlich werden wir jetzt also nicht von den Seiten von etwas Schrecklichen angegriffen, ich schaue mir nur die linke und rechte Seite des Tals an weil ich mir doch sehr erhoffe dort ein paar schöne Dinge, auch bekannt als Linsen, zu finden. Eventuell tue ich das auch, nicht aber ohne vorher tonnenweise Viehzeug zu treffen was ein wenig meinen Fortschritt behindert. Aber keine Angst, am Ende kommen wir auch weiter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 29.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #20
+
+* Titel: `Horizon Forbidden West - #20 - Raynah die Opportunistin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Horizon versucht, so glaube ich zumindest, uns oft genug aufzuzeigen das es nicht die Menschen der Vergangenheit bzw. der Moderne waren die schlimm waren sondern das viele Dinge auch völlig egal von dem was die Leute wissen passiert einfach weil sie halt Leute sind. Heute treffen wir zum Beispiel Raynah und damit übrigens auch die Antwort auf die Frage was es eigentlich mit diesen verlassenen Carja Türmen an den Flanken des Schrecksn auf sich hat. Generell und überhaupt ist die Antwort aber auch ein wenig komisch weil wir bei der Gelegenheit erfahren das man wohl geplant hat diese Türme zu demontieren, und ja, ich sehe ein gewisses Risiko darin wenn die Türme aus einander fallen, andererseits kann ich mir aber nicht vorstellen das es nicht verdammt teuer sein wird die Türme ab zu reißen. Könnte es also sein das unsere süße Raynah einfach lügt? Wie dem aber auch sei, ihre Persönlichkeit ist jetzt nicht direkt die rechtschaffenste und um ehrlich zu sein und wir helfen ihr dennoch, weil sie jemand ist der uns Geld verspricht, da riskieren wir doch wohl gerne unser Leben oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 29.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #21
+
+* Titel: `Horizon Forbidden West - #21 - Schatten der Vergangenheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im letzten Teil, also Zero Dawn haben wir herausgefunden das unsere weltlichen Gegner aus der Jetztzeit größtenteils aus den Reihen der Eklipsen stammen, natürlich gab es da auch noch Sub-Fraktionen und gewissermaßen haben wir uns auch mit den Göttern selbst angelegt aber selbst die brauchen ja Diener auf Erden die irgendwie ihre Befehle ausführen. Und so kommt es das wir auch viel gegen Menschen gekämpft haben wenn grade einmal keine Maschinen da waren. Selbstverständlich waren die meisten davon eher schönendes Beiwerk, ein wenig Zucker in der Watte unseres Lebens und größtenteils kaum mehr als ein Ärgernis. Und doch standen uns die Leute auch ein wenig im Wege. Jetzt wird das aber alles besser, menschliche Gegner sind nicht mehr nur ein Nachgedanke sondern ernst zunehmende Bedrohungen. Das darf sich heute auch beweisen als wir die Spuren von Leuten finden von denen wir lange dachten das wir sie überwunden hatten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 29.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #22
+
+* Titel: `Horizon Forbidden West - #22 - Marschall Fashav [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neue Leute! Am Anfang und bis jetzt war ich wirklich besorgt das wir andauernd auf alte Bekannte treffen die wir schon aus den Vorgängern kannten aber so wie die Dinge laufen treffen wir jetzt endlich Leute denen wir vorher noch nicht begegnet sind. Das sind gute Neuigkeiten, schließlich möchten wir uns ja nicht wieder und wieder mit den alten langweiligen Geschichte rumärgern. Also zur Sache, wir treffen einen Typen namens Marschall Fashav, nein wir haben absolut keine Ahnung warum der Typ eigentlich so heißt wie er heißt, wir wissen nur das es sich anscheinend um einen hohen Rang bei den Tenakth handelt zu denen er irgendwie gekommen ist. Aber er hat ein paar Geschichten zu erzählen und die hören sich dann doch recht interessant an und das wieder rum ist doch eigentlich eine ziemlich gute Nachricht für uns alle oder? Geschichten, wer wurde jemals von Geschichten verletzt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 29.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #23
+
+* Titel: `Horizon Forbidden West - #23 - der große Aufbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist zwar irgendwie alles verloren und es sind auch wesentlich mehr Leute tot als wir es gerne gehabt hätten aber es gibt auch ein wenig Schockmoment, das Fashav anscheinend nicht überlebt hat ist eine echte Tragödie, der Mann hat so voller Hoffnung von der zweiten Seite seines Tatoos und damit auch seines Lebens erzählt und jetzt ist er beim Übergang verstorben, das hat schon fast eine gewisse Poesi und wahrscheinlich auch ein Stück Philosophie das man sich seiner eigenen Sterblichkeit bewusst sein sollte und der Tod schon an der nächsten Ecke warten kann. Aloy selbst ist ja bereits einmal in einer Höhle ertrunken weil sie sich gedacht das man auch ohne Tauchgerät leicht weiter kommt. Wie dem aber auch sei, die Welt ist im Großen und Ganzen immer noch die Gleiche wie gestern, klar ist die Erkenntnis das es hier irgendwelche Rebellen gibt schon ärgerlich für die Menschen. Wir müssen uns aber auch klar vor Augen halten, wir sind nicht in dieser Welt, wir haben eine Mission und was auch immer die Leute hier tun ist letztendlich sekundär. Manche von ihnen sind vielleicht für unsere Ziele relevant und der ein oder andere Begleiter hat gewiss seine Nützlichkeit aber sein wir doch ehrlich, es geht uns darum die Welt zu retten, egal wer darauf lebt, die Probleme sind ein wenig größer als irgendwelche Streitigkeiten zwischen Wüstenstämmen. Wenn wir nur über die Technik verfügen würden um diese Probleme wirklich ignorieren zu können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 29.03.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

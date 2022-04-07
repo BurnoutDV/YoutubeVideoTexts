@@ -343,6 +343,48 @@
   Sitzung 3, Aufnahme am 02.04.2022
   ```
 
+##### #23
+
+* Titel: `Deathloop - #23 - Fristad Nullnummer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute gehen wir nach Fristad, mal wieder, wir waren neulich erst da um einen gewissen Sänger über den Haufen zu schießen der dachte das es immer noch der erste Tag ist, wir wissen das dem nicht so ist. Wir waren aber schon einmal am Nachmittag hier. Und damit bricht übrigens auch ein wenig die Illusion zusammen, weil die Geschichte ist halt die das der Club jetzt wieder verwüstet und auf jeden Fall nicht betretbar ist, eine größere Explosion hat scheinbar die Anlage erschüttert und irgendjemand hat sich wohl die Mühe gemacht alle Türen abzuschließen, das ist schon ziemlich nervig wenn man bedenkt das es eigentlich niemanden mehr geben sollte der hier irgendwelche Schäden angerichtet hat, schließlich haben wir doch Frank über den Haufen geschossen, seine Waffe gestohlen und generell und überhaupt eigentlich alles getan damit dieser Ort unberührt bleibt als wir am Morgen hier waren. Fia ist natürlich auch nicht hier, obwohl sie sich doch eigentlich am Nachmittag mit Charlie hier am Strand treffen wollte. Oder das habe ich falsch verstanden, aber weder Charlie noch Fia sind hier, insbesondere die Künstlerin ist wohl ausgeflogen, ich denke ich muss noch einmal am Mittag her kommen, schon weil ich endlich diese Horizon Anlage von innen sehen will. Von denen gibt es scheinbar übrigens überall welche. Hochinteressant, was da wohl drin ist. Von der Anlage einmal abgesehen gibt es aber leider sonst nicht viel, und daher rennen wir heute viel zu lange orientierungslos umher, schade eigentlich.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 4, Aufnahme am 04.04.2022
+  ```
+
+##### #24
+
+* Titel: `Deathloop - #24 - Egors Entdeckung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen bereits das Egor die Nachtschicht liebt und das man ihn Abends im Komplex findet, da mir sowieso nichts Besseres einfällt außer schon wieder Aleksis über den Haufen zu schießen bei seiner komischen Party besuchen wir den guten Ego halt bei seiner Forschung. Wenji ist leider schon wieder weg aber das wäre wohl auch zu einfach gewesen wenn wir beide an einem Ort treffen würden, nein, dafür müssen wir schon arbeiten. Ich glaube das Blackreef ein echt kalter Ort ist, besonders in der Nacht, die Kleidung der meisten Eternalisten sieht auch nicht so aus als könnte man sie gut an einen so kalten Ort tragen. Nachts ist es noch kälter und Charlie rechnet wohl damit das wir hier auftauchen. Wenn ich mich recht erinnere ist er in der Lage sich unsichtbar zu machen, das ist nicht ganz so schön, das macht es bestimmt schwer ihn zu erwischen. Wir haben ja immer schon gesehen woran Charlie eigentlich forscht, er möchte mit der Zukunft sprechen, wir wissen nicht so recht ob ihm das gelingt aber da wir scheinbar schon andere Colts und Juliannas getroffen haben ist auch nicht auszuschließen das wir nicht später zurück in vergangene Loops müssen um die Dinge in Gang zu setzen. Kurze Tangente, am Anfang kam ein anderer Colt um uns kurz zu verraten was wir vergessen hatte. Das ist interessant, ist das bereits vorher schon einmal passiert oder ist das etwas Neues? Sind die Schriften in der Luft etwas Neues? Julianna meint das wir etwas gesagt haben das wir noch nie gesagt haben, irgendeine Art von Schmetterlingseffekt muss also aktiv sein. Eine Veränderung vom Ablauf, vielleicht aber auch die chaotische Struktur des Loops selbst, so genau ist das nicht ersichtlich. Zurück zum Thema, Egor mag scheinbar die Nachtschicht, aber außerdem, warum zur Hölle sollte man in der Nacht arbeiten wollen wenn man weiß das man am nächsten Tag alles neu aufbauen muss? Wäre es da nicht logisch zum Frühaufsteher zu werden? Wie genau haben die Visionäre eigentlich die Annahme aufgestellt das sie sich an den Vortag erinnern könnten?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 4, Aufnahme am 04.04.2022
+
+##### #25
+
+* Titel: `Deathloop - #25 - fremde Signale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Egor hat es also geschafft, Egor hat es wohl bereits unzählige Male geschafft, die Einzige die uns vielleicht sagen könnte wie lange schon wäre Julianna aber mir scheint nicht das sie an dieser Art von Gesprächen interessiert ist, unsere geliebte Gegenspielerin. Jeden Tag ortet Egor also ein unbekanntes Signal das von außerhalb von Blackreef zu kommen scheint und niemand kann sagen was der Ursprung ist. Da wir nicht wissen wie genau Blackreef von Außen aussieht kann man da auch schlecht eine Aussage machen, anzunehmen wäre, da ja die Sonne und der Himmel normal funktionieren, das es eine Art Kugel um die Insel herum gibt in der alles wieder zurückgesetzt wird, interessant wäre noch zu wissen wie das am Rand aussehen würde, wenn wir Mittags eine Eisenstange genau an der Feldgrenze platzieren, was passiert? Oder funktioniert das Feld nicht so stumpf, komplexer, intelligenter oder einfach nur seltsamer? Letztendlich wohl egal, keiner der Forscher kann sich morgen daran erinnern und so wie es aussieht hat sich wohl niemand einen entsprechenden Test ausgedacht. Eigentlich komisch das Wenjis Neutralisatoren nicht einen ähnlichen Effekt haben, weil sie setzen Tafeln außer Kraft die, soweit ich das verstanden haben, mit dem Blackreef Feld zusammen arbeiten. Aber vielleicht vergehen auch nur einfach alle 13000 Jahre und solange reichen die Batterien dann auch nicht. Zurück zu Egors Entdeckung, es könnte durchaus sein das das Signal auch nur sehr virtuell von außerhalb der Insel kommt und die relative Zeit sich in die räumliche Dimension außerhalb des Blackreef-Felder verschiebt und ein Signal von Morgen quasi "vor der Insel" liegt. Seitenfakt, in Elder Scrolls funktionieren die Zeitalter wohl irgendwie so, Stichwort Kalpa, näher habe ich mich da nie eingelesen, aber irgendwie so funktioniert das..oder auch nicht, Elder Scrolls Lore ist kompliziert wenn man erst einmal in den Kaninchenbau hinabsteigt. Wo wir bei Kaninchen sind, wir wissen jetzt wie wir unser Egor-Hässchen zum Wolf kriegen, einfach Mittags in den Komplex einreiten und seine Forschung manipulieren. Ärgerlich ist natürlich das Mittags sonst Nichts los ist, ob wir die Antenne vielleicht irgendwie sonst manipulieren können? Zu einer Uhrzeit in der wir erfolgreicher sein können?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 4, Aufnahme am 04.04.2022
 ##### #Nummer
 
 * Titel: ``
@@ -351,4 +393,3 @@
 
   ```markdown
   Hier
-  ```

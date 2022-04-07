@@ -426,6 +426,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #24
+
+* Titel: `Horizon Forbidden West - #24 - Niemandsland-Vögel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind im Niemandsland, das ist übrigens auch ein wenig größer und technisch gesehen auch der Schauplatz für die nächsten paar Episoden. Während ich mir die Daumen-Bilder hier anschaue sehe ich das ich anscheinend zweimal das Unsichtbar-Mach-Gerät benutze, jedes Mal mit eher mäßigen Erfolg, dessen bin ich mir absolut sicher. Wir sind neu in der Welt und hier gibt es Tiere die wir woanders nicht auffinden konnten und damit meine ich auch mechanische Tiere wie zum Beispiel komische Vögel. Technisch gesehen haben wir übrigens diese schon im Prolog gesehen, aber da war beim besten Willen nicht genügend Zeit um einzugreifen und wertvolle Bauteile abzutrennen. Deswegen wird das heute eher zu einer Farmepisode. Geschichte gibt es dann beim nächsten Mal. Bestimmt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 05.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

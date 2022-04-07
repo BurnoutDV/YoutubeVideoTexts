@@ -1317,6 +1317,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #82
+
+* Titel: `KotOR 2 - #82 - Verrat der Dienerin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir werden heute nicht verraten aber irgendwie doch. Es ist halt nur so das wir so unfassbar sympathisch sind weil wir hier halt dieses Talent haben wo wir andere Leute dazu bringen können uns zu mögen, die Macht ist auch irgendwie involviert. Ich frage mich ja immer noch ob sich das Ganze nicht am Ende noch mächtig rächen wird und ich dann nein Problem habe weil ich irgendjemand einen direkten Pfad in mein Herz geebnet habe der mir dann Probleme machen wird. Für den Moment ist es aber nicht so weit und wir können eher Atris ärgern, die wir übrigens bald mal besuchen könnten, ich hätte gerne mein Original Laserschwert zurück und wenn ich mich recht erinnere hat sie das gute Stück ja noch oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 12, Aufnahme vom 31.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

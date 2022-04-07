@@ -44,6 +44,50 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #3
+
+* Titel: `Disco Elysium - #3 - Kreisverkehr des Lebens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einer der folgenden Episoden überlege ich mir das ich, soweit ich es zumindest kann, jede Episode irgendwie eine Art "artsy" Titel geben will. Das wird mal mehr und mal weniger gelingen, genaue Angaben sind hier immer ein wenig schwierig aber der Plan sieht so aus das ich mir immer irgendetwas überlege das sich so anhört als hätte ich einen entlaufenden Philosophen gefrühstückt. Diese Episode hieß am Anfang einmal "Kreisverkehr Nord" weil das ist wie der Ort laut der Gärtnerin die vor der Tür steht auch heißt. Eigentlich ist es aber eine Kreuzung aber solche Dinge stelle ich nicht in Frage. Wir haben in der Zwischenzeit nicht wirklich viel Neues über Revanchol erfahren, dafür aber über unseren Gefährten Kim Katsuragi, ich bin mir sicher wir werden auch noch mehr erfahren. Mich stresst übrigens ein wenig das im Hintergrund immer die Uhr läuft, wenn ich mich zu lange in Dialogen aufhalte ist es auf einmal Abend, das ist auch interessant weil ich ja viel schneller gehen könnte wenn ich die Dialoge nur skippen würde, etwas das ich natürlich niemals tun würde. Immerhin leisten wir heute gute Detektivarbeit. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 1, Aufnahme vom 04.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #4
+
+* Titel: `Disco Elysium - #4 - Cuno der König [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alternativer Episodentitel wäre dann noch "König Cuno" weil man das wohl manchmal so schreibt, auf jeden Fall eine Ausnahme vom Plan das die Titel besonders künstlerisch sind. Cuno ist einfacher nur ein britischer Junge der offensichtlich auf der Straße aufgewachsen ist und, so weit ich das erkennen kann, absolut keinen Respekt vor der älteren Generation, der Polizei oder überhaupt irgendjemanden hat, aber hey, wir halten uns mit körperlicher Gewalt zurück, das kann man uns doch bestimmt hoch anrechnen oder? Hauptgrund ist aber wohl der das ich keinerlei physische Stärke besitze und ich es deswegen nicht auf den Konflikt mit irgendwelchen kleinen Jungen ankommen lasse ich im Zweifel auch noch verlieren, und das wäre ja auch wirklich schlecht. Peinlicher als sich die ganzen Unflätigkeiten gefallen zu lassen wäre wirklich nur beim Versuch zu scheitern. Immerhin gibt es auch noch ein wenig Gelegenheit unsere gute visuelle Fähigkeit im Erkennen von Hinweisen nach zu gehen, unsere Leiche wurde ziemlich sicher mit Auto her gebracht. Warum dem so ist werden wir bestimmt irgendwann einmal erfahren, aber das tun wir dann in der Zukunft und vielleicht einem guten Drink später.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 1, Aufnahme vom 04.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+
+##### #5
+
+* Titel: `Disco Elysium - #5 - die sonderbare Sohle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen zwar immer noch nicht wie wir heißen aber ich bin mir sicher wir werden irgendwann und irgendwo noch einen Hinweis darauf finden. Bis es aber soweit ist verfolgen wir noch andere Hinweise, wie zum Beispiel die die mit dem Mord an einer bisher unbekannten Person zusammenhängen. Unsere Leiche ist leider schon ein wenig verbraucht was bei der örtlichen Kälte irgendwie ein wenig komisch ist, man würde doch meinen das sich Leichen in kalten Gefilden ganz gut konservieren, insbesondere wenn sie nicht einmal in der Erde liegen. Am Tag des Todes war es wohl warm. Diese und einige weitere wichtige Erkenntnisse erfahren wir heute als wir die Leiche einmal näher anschauen. Das alles ist übrigens hoch interessant weil sich damit auch zeigt das zumindest Teile von uns wohl ganz gut funktionieren, nicht nur das Reptiliengehirn das uns erklärt das wir einfach liegen bleiben können. Für die Selbstfindung natürlich weiterhin nutzlos, man fragt sich wirklich wo der Teil der "Ich" war hin ist. Wahrscheinlich ertrunken. Ob wir noch irgendetwas verloren haben an das was wir uns nicht erinnern können? Man trinkt ja wohl um zu vergessen, immerhin das hat fabulös geklappt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 1, Aufnahme vom 04.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+
 ##### #Nummer
 
 * Titel: ``
@@ -52,4 +96,3 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
 
   ```markdown
   Hier
-  ```

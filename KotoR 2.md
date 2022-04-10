@@ -1333,6 +1333,54 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #83
+
+* Titel: `KotOR 2 - #83 - Landung auf Dantooine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und unser Reiseziel steht fest, wir fliegen nach Dantooine, ich habe keinen guten Grund warum ich die Reise unbedingt in diese Richtung antreten will. Eventuell hält als Begründung vor das ich mir schon immer mal einen Ort angucken wollte den ich aus dem Vorgänger kannte und Dantooine ist da eine ziemlich kurze Liste an Dingen die man sich anschauen kann zu denen ich immerhin eine Art Verbindung habe. Tatsächlich ist jetzt aber alles ein wenig anders, zum Beispiel der Raumhafen auf dem wir landen. Den gab es im Vorgänger noch nicht, oder er war einfach nicht relevant.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 12, Aufnahme vom 31.03.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #84
+
+* Titel: `KotOR 2 - #84 - Khoonda Ebene [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Grafische Limitierungen einer vergangenen Zeit haben schon so manches Spiel nicht ganz zur Vision ihrer Entwickler haben werden lassen. Deutlich wird das, wieder einmal auf Dantooine. Dantooine soll irgendwie eine Art Farm-Welt sein, damit ist sie übrigens auch super dünn besiedelt, die Siedler die hier leben scheinen irgendwie das Stadtleben gewohnt zu sein, weil aus der Vergangenheit wissen wir bereits das wilde Tiere ernsthaft ihre Existenz bedroht. Und doch ist niemand auf die Idee gekommen Mauern, Zäune oder überhaupt irgendetwas zu errichten. Wie dem aber auch sei, der nächste Punkt ist das es sich angeblich um die Khoonda Ebenen handelt. Was wir sehen sind eigentlich eher die Khoonda Flachtäler. Lauter kleine Gebiete von hohen Bergen umgeben. Das Witzige ist das es in Kotor 1 ja bereits eine Lösung für die Wüste gab die man ja durchaus hier auch machen könnte. Ein weiteres Problem von Dantooine ist übrigens auch das sich hier marodierende Söldner ansammeln..aber so richtig ein Grund wird einen nicht geliefert was zur Hölle hier irgendwelche Kriegsveteranen machen. Wenn es wenigstens einen leicht kalten Krieg zwischen irgendwelchen Großbauern oder so geben würde der grade etwas erkaltet ist oder so. Letztendlich ist das Setup für diesen Planeten wirklich denkbar knapp.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 13, Aufnahme vom 07.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #85
+
+* Titel: `KotOR 2 - #85 - die lokale Verwaltung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das hier ist irgendwie interessant und hat Nichts mit Star Wars zu tun. An sich ist ja alles Star Wars Fantasy die zufällig im Weltraum abspielt, deswegen werden auch klassisch viele Themen des Sci-Fi überhaupt nicht beleuchtet. Ich meine, Herr der Ringe beschäftigt sich ja auch nur am Rande mit den anderen Menschen die auf Saurons Seite rumlaufen, für die Story sind die halt nicht so wichtig außer das die als Backdrop-Gegner dienen. Siehe auch PMCs in diversen Tomb Raider, Uncharted Spielen. Zur Sache, Verwaltung ist ein Thema das man irgendwie kaum sexy für die Jugend aufarbeiten kann. Klar, für so ein paar Nerds ist das bestimmt ziemlich geil wenn alles rund läuft, aber für die breite Masse tuckert das halt so im Hintergrund dahin und schon passt das. Effiziente und gute Verwaltung ist aber sau wichtig für einen funktionierenden Rechtsstaat, quasi als erste Kontaktstelle des mündigen Bürgers mit dem großen übermächtigen Staat wenn man nicht grade weggeknüppelt wird. Die Mitarbeiter dort sind also ein repräsentativer Teil des Apparats. Ärgerlicherweise sind sie auch gleichzeitig nicht so die Motiviertesten. Das könnte daran liegen das der Erhalt der Kontinuität auch ein Maß an Monotonie mit sich bringt und wenn man eigentlich Prozesse verbessern möchte Steine in den Weg gelegt werden, oder das man aus Gründen einst  getroffene Entscheidungen nicht wieder revidieren möchte weil das dann erratisch wirkt. Alles schwierig. Wie immer eigentlich, wäre es leicht würden wir nicht darüber reden. Wenn wir jetzt also gute Verwaltung wollen brauchen wir also gute Leute die bereit sind Lebenszeit in diese Aufgabe zu versenken, und dafür müssten neue Ideen rein und dafür brauchen wir Leute die nicht zu steif sind, nicht zwingend junge Leute, aber alte Leute die flexibel und voller Ideen sind sind meistens auch teuer. Wenn man all diese Dinge nicht hat wird alles recht schnell korrupt und persönlich, dann bewegt sich halt Nichts mehr wenn man nicht genügend Geld überweist. Oder aber man hat eine Verwaltung die nur noch über Ruinen herrscht, und das bringt uns nach Dantooine. Mir ist absolut nicht klar warum die hier überhaupt noch abhängen, die örtliche Regierung ist inexistent, hat keine Macht und generell und überhaupt scheint mir hier ein gutes Argument für direkte, undemokratische Kontrolle gemacht zu werden bis wieder richtige Ordnung eingebracht werden kann. Wer das kontrolliert und Sicherstellt? Gute Verwalter nehme ich an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 13, Aufnahme vom 07.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -385,6 +385,20 @@
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 4, Aufnahme am 04.04.2022
+##### #26
+
+* Titel: `Deathloop - #26 - kleine Vorbereitung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und jetzt sind wir in dieser Phase von Deathloop die dem Spiel bestimmt den Ruf eingebracht haben nicht ganz durchdacht zu sein. Weil die Lage, so wie sie sich mir darstellt sieht so aus: Wir wissen jetzt grob wo alles ist, klar, ich muss noch nach Karlsbucht aber das kommt dann zu gegebener Zeit, bis dahin sind wir im Bilde wo so grob 85% der restlichen Dinge sind. An jedem Ort außer dem Komplex gibt es noch Horizon Anlagen die wir bisher nicht betreten haben, da müssen wir also noch rein. Weiter wissen wir das irgendwo noch irgendwelche Rätsel rumliegen, aber die haben einen gewissen Aufwand als Fundbedingung. Das bedeutet also das wir jetzt mehre Loops in schneller Abfolge erkunden müssen nur um zu schauen damit eine Veränderung eintritt. Eventuell bleibt dir dieses Schicksal erspart lieber Zuschauer weil ich mir viele Notizen mache um sicherzustellen das ich an jedem Ort das Maximum heraushole, aber bis her kamen die Hinweise leider auch sehr spärlich, es kann also sein das auch ich viel hin und her renne. Wie zum Beispiel in dieser Episode. Immerhin werde ich wohl, dann wenn ich das letzte Attentat vorbereite, genügend Siegel haben.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 4, Aufnahme am 04.04.2022
+
 ##### #Nummer
 
 * Titel: ``
@@ -393,3 +407,4 @@
 
   ```markdown
   Hier
+  ```

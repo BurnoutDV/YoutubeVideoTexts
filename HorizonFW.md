@@ -441,6 +441,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #25
+
+* Titel: `Horizon Forbidden West - #25 - Langhals Zinnober Sande [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute besteigen wir einen Langhals, und weil ich ein wenig dumm bin dauert die ganze Geschichte auch schön 30 Minuten. Nein wirklich, so richtig hoch kommen tue ich erst am Ende der Episode. Immerhin gibt es ein paar schönere spielerische Verbesserungen im Gegensatz zum Vorgänger, da waren insbesondere die ersten Langhälse eigentlich ziemlich einfach zu erreichen und es viel Aloy recht einfach den kritischen Teil des "Tiers" zu erreichen. Das ist dann hier doch ein wenig schwieriger und das zeigt sich dann auch weil am Ende brauchen wir sogar unser neustes Spielzeug, der Fallschirm. Aber bis es soweit ist biege ich kurz ab, schaue mir die nahe Landschaft an, jage ein paar Kängurus und diverse andere Viecher (einfach nur weil ich kann) und begegne auch einigen Rebellen von denen ich eigentlich noch gar nicht so richtig weiß. Ich sollte wahrscheinlich mit den lokalen Abgeordneten der Tenakth reden wenn sich die Gelegenheit dazu bietet. Soweit sind wir allerdings noch nicht, stattdessen helfen wir dem lokalen Stamm der Otaru, die sind eigentlich tief im Farmbusiness drin aber das läuft aktuell aus bekannten Gründen nicht so gut. Dazu später übrigens mehr, heute besteigen wir einen Langhals. Wen es interessiert und allen Ernstes die Beschreibung bis hier hin liest anstatt einfach wild durchs Video zu skippen, der Trick war auf der Plattform der Satellitenstation auf der anderen Seite runter zu klettern und die dortige Batterie zu entnehmen. Überraschend einfach.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 05.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #26
+
+* Titel: `Horizon Forbidden West - #26 - Brutstätte Mu [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zur Erinnerung, in Brutstätten stellt der Gott Hephaestus die Maschinen her die eigentlich dafür sorgen sollten das die Welt wieder ein bewohnbarer Ort wird. Dann im Zuge von diversen Dingen sind andere Dinge geschehen die dafür gesorgt haben das der nicht besonders kommunikative Schmiedegott es nicht länger mit ansehen konnte das die Menschen seine guten Maschinen als billige Quelle von exzellenten Material nutzen. Und so kam es das tödlichere Maschinen erschaffen wurden die die anderen, immer noch dem ursprünglichen Protokoll folgenden Terraforming-Maschinen zur Hand gehen sollten. Später hat er wohl ein wenig das Design gewechselt und jetzt haben wir es halt mit Maschinchen zu tun die beide Aufgaben verfolgen. Hoffe ich zumindest, es könnte durchaus sein das gar keine Atmosphärenreinigung usw. mehr vorgenommen wird. Allerdings frage ich mich generell warum es die Maschinen eigentlich noch gibt, sollte die Welt nicht mittlerweile stabil sein? Anscheinend ja nicht, oder es ist weil das Protokoll vorgesehen hatte das die Menschen aktiv dabei helfen die letzten Schritte zu vervollständigen, und das kann halt nicht passieren. In Mu werden auf jeden Fall einige der Maschinen hergestellt, und dort finden wir auch ein paar praktische kryptographische Schlüssel..oder irgendwie sowas. Die nutzen wir dann auf jeden Fal..
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 05.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #27
+
+* Titel: `Horizon Forbidden West - #27 - Hades in der Hölle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So, wir haben eine Brutstätte ausgeräumt, einen Langhals bestiegen, es wird Zeit die Hauptgeschichte ein wenig zu verfolgen, kann ja nicht angehen das wir hier stundenlang sinnlos in der Gegend rumfarmen. Höchstwahrscheinlich werde ich das übrigens dann im Zweifel Off-Screen machen, einfach um das Gesamterlebnis ein wenig zu Glätten und die Suche nach Materialien und Gegenständen nicht zum Hauptinhalt werden zu lassen. Spielerisch ist es zwar irgendwie ganz schön und auch spannend aber zum Zuschauen kann ich mir durchaus vorstellen ist es nicht ganz so unterhaltsam wie ich den 100sten Kängururoboter zu Fall bringe. Daher jetzt ein wenig Geschichte, ich bin auch nicht kreativ, der Titel kommt direkt vom Spiel und beschreibt eigentlich ganz gut worum es geht. Es ist übrigens nicht bekannt inwiefern die ehemalige Zivilisation die Rechte von KIs anerkannt hat. Ob es da bestimmte Regeln oder andere moralische Überlegungen gab, interessant ist aber das eine volle KI wie Hades anscheinend ohne Probleme auf einfachster Hardware existieren kann, dort zwar nicht viel tun aber irgendwie empfinden kann. Alles sehr schwierig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 05.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

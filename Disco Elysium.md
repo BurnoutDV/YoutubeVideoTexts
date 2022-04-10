@@ -88,6 +88,20 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Sitzung 1, Aufnahme vom 04.04.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
 
+##### #6
+
+* Titel: `Disco Elysium - #6 - Mülleimer der Geheimnisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin der Erste der zugibt das er einen ziemlich ausgeprägten Ekel vor Allem hat. Das liegt einfach daran das ich größtenteils in der Stadt lebe, mich von all diesen, eigentlich natürlichen Prozessen des Lebens distanziert habe und in meinen Hochglanz polierten Elysium lebe. Wo wir auch direkt beim Thema sind. Als ich einmal in Sao Paulo war hatte ich dort beobachtet das die Leute ihren Müll vor den Häusern in den Gittermülleimern die etwas hoch standen aufbewahrt haben. Die haben zwar erbärmlich gestunken aber halt nicht im Haus. Und wahrscheinlich ist der gut belüftete Gitter-Mülleimer immer noch besser als die schwitzige Bio-Tonne hinterm Haus. Die Eimer selbst standen gegen wilde Tiere so hoch (einmal musste ich mit meinem Fahrrad vor wilden Hunden weg fahren, Brasilien war wild). So weit ich das erkennen kann ist es in Revanchol aber eigentlich ziemlich kalt, der Ekel sollte sich also auf ein Minimum beschränken..andererseits ist mein Bio-Müll auch immer wenig wärmer als die restliche Wohnung, wer weiß, vielleicht reicht so ein wenig Verwesung schon um Plusgrade zu halten, das Endergbnis ist auf jeden Fall nicht so appetitlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 1, Aufnahme vom 04.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+
 ##### #Nummer
 
 * Titel: ``
@@ -96,3 +110,4 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
 
   ```markdown
   Hier
+  ```

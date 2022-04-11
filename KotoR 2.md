@@ -1381,6 +1381,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #86
+
+* Titel: `KotOR 2 - #86 - Administratorin Terena Adare [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich die Bedeutung von guter Verwaltung dargelegt, oder zumindest habe ich es versucht bis es halt nicht mehr so erfolgreich war weil ich abdriftete. Um den Punkt ein wenig weiter zu machen, es ist außerdem relativ wichtig tatsächlich auch jemanden zu haben der die ganze Geschichte mit ein wenig Patos anführt oder zumindest dahinter klemmt. Man kennt diese Person. Das ist der eine Rentner der im lokalen Verein sich immer darum kümmert das die Treffen auch organisiert stattfinden, oder die eine Heike die immer die Kuchenbasare minutiös durchplant. Oder aber man findet solche Leute auch in Berufen, manche von ihnen machen sich wichtig, Andere, und das sind die Gefährlichen, arbeiten still vor sich hin, und dann sind sie auf einmal weg. Ein echtes Risiko.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 13, Aufnahme vom 07.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

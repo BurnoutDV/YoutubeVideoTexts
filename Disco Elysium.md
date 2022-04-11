@@ -102,6 +102,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Sitzung 1, Aufnahme vom 04.04.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
 
+##### #7
+
+* Titel: `Disco Elysium - #7 - Fallbuch des Versagens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren oder sind einmal ein Cop. Als ein solcher hatten wir bestimmt auch einmal irgendwelche Unterlagen die wir benutzt haben um unsere Gedanken festzuhalten. Es stellte sich doch glatt heraus das jeder Cop ein sogenanntes Fallbuch hat in dem er (oder sie?) seine (oder ihre?) Fälle festhält. Es sieht für mich eher aus wie ein Klemmbrett aber so wie sich die Dinge darstellen ist da doch ein wenig mehr drin als nur eine Plastikscheibe. Aber nicht nur Fälle und verschiedene Standardformulare finden wir, nein, auch ein Stück Erinnerung. Ein Stück Erinnerung das uns daran erinnert wie es war bevor uns viel zu viele Dienstjahre zu dem gemacht haben was wir sind. Aber was waren wir? Ein Mysterium.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 1, Aufnahme vom 04.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

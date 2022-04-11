@@ -486,6 +486,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #28
+
+* Titel: `Horizon Forbidden West - #28 - Latopolis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend heißt "Lato" Sommer in Polnisch und es gibt auch eine Schriftart die danach benannt ist. Polis ist, wenn mich mein Gerichtsunterricht nicht total täuscht aber mehr so eine Art Stadtstaat bzw. Städte. Wir haben es wahrscheinlich aber eher nicht mit der Sommerstadt zu tun. Stattdessen handelt es sich dabei wohl um einen ägyptischen Ort der heutzutage als Esna bekannt ist, früher einmal "Lunet". Wenn ich das hier richtig lese war es außerdem die provinziale Hauptstadt des "dritten Nomen" nach dem neuen Königreich. Ich weiß leider viel zu wenig um das alles ein zu ordnen, aber rein aus dem Bauch heraus hätte ich irgendwie auch mehr einen griechischen Hintergrund vermutet. So wie es aussieht bleiben wir aber dann wohl beim ägyptischen Namensschema. Schön, irgendwann einmal muss ich wohl mal nachschlagen was es damit auf sich hat. Hades hat uns indirekt hier her geführt, weil hier wurde er geschaffen. Was mir aber nicht so ganz klar ist..warum kann er sich daran überhaupt noch erinnern? Die Erinnerungen der KI macht ja die Persönlichkeit aus, aber so wie es aussieht ist die Integrität dieser Erinnerungen wichtiger als ich dachte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 05.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

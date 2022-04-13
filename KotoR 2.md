@@ -1397,6 +1397,38 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #87
+
+* Titel: `KotOR 2 - #87 - militärische Sonderinspektion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen streben danach Dinge zu verstäntigen, dafür zu sorgen das es eine gewisse Routine in ihrem Leben gibt. Nichts ist also schlimmer wenn sich da einer hinstellt und sagt das es jetzt eine Spezialgeschichte gibt. Eine Ermittlung, eine Straftat oder sonstiges Ereignis das den geregelten Tagesablauf unterbricht. Das ist nervig. Natürlich gibt es davon auch Abweichungen, manche Individuen sehen es gerne wenn der triste Alltag einmal unterbrochen wird, aber auch nicht zuviel, alles halt im Rahmen. Und das bringt uns zu unserem Freund der militärische Sonderinspektionen veranstaltet. Das klingt jetzt vielleicht ein wenig so als würde er Kaffeefahrten machen und irgendwelche Leute mitziehen, die Praxis ist aber wohl nicht ganz so lustig. Wie dem aber auch sei, der gute Mann möchte also ermitteln wo wertvolle Teile hin sind. Ich sehe aber ein Problem, bisher habe ich nur von einer Miliz gehört und die kann man ja wohl kaum als Militär bezeichnen. In wessen Auftrag agiert er also? Was gibt ihm Recht? Ich habe Waffen, daher tituliere ich jetzt auch jede Operation die ich betreibe als militärische Sonderinspektion, das klingt so als hätte ich ein echtes Mandat. "Das Ausrauben des Lagerhauses? Alles eine militärische Sonderinspektion, gehen Sie weiter mein Herr!" Gefällt mir.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 13, Aufnahme vom 07.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #88
+
+* Titel: `KotOR 2 - #88 - Kristalle der Macht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kristalle sind irgendwie so ein Sci-Fi Dauerbrenner (ich wollte grade Stable schreiben bis mir auffiel das es da auch ein gutes deutsches Wort gibt, toll..). In Stargate waren Kristalle quasi der integrale Bestandteil einer jeden Rechentechnik UND Speichertechnik. In the Expanse sieht eigentlich jeder etwas komplexere Computer so aus das da so komische Glasplatten rumliegen, die könnten man schon einmal großzügig als Kristalle bezeichnen. Und auch in Star Wars sieht das nicht anders aus. Ich möchte übrigens mal nebenher erwähnen das die Benennung Star Wars eigentlich ziemlich unglücklich ist oder? Ich meine, in den meisten Fällen haben wir keinen Krieg zwischen Sternen. In der Regel gibt es da immer ein großes Imperium, erste Order oder Republik die irgendwelche anderen Underdogs in Grund und Boden schießt. Klar, ab und zu hat es noch Sith oder Mandalorianer aber davon einmal abgesehen ist das was Star Wars ausmacht ja eigentlich die kleine Geschichte, das ganz Kleine und nicht das ganz Große. Alles relativ irrelevant, uns geht es vor allen Dingen um persönliche Macht und es stellt sich heraus das wir heute einen Kristall..oder auch ein paar mehr finden die enorm praktisch sind wenn es darum geht Laserschwerter zu verstärken. Wie ärgerlich aber auch das wir davon nur so ungefähr zwei haben..und die trägt beide die Dienerin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 13, Aufnahme vom 07.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1405,4 +1437,3 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
 
   ```markdown
   Hier
-  ```

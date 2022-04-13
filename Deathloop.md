@@ -429,6 +429,21 @@
   Sitzung 4, Aufnahme am 10.04.2022
   ```
 
+##### #29
+
+* Titel: `Deathloop - #29 - Schätze aus der Zeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen das Blackreef in irgendeiner Art von Zeitanomalie liegt. Was es genau ist kann ich noch nicht sagen, eventuell ist es sogar deutlich mehr als das nur der gleiche Tag immer und immer wieder geschieht wenn man gewissen Ereignisse auslöst. Fraglich ist übrigens auch wie man überhaupt zu dem Schritt gekommen ist den Loop einzurichten. Eine Biegung der Zeit? War es vorher so das sich nur kleine Bereiche wiederholt haben? Gab es einen Grund warum der Loop grade jetzt existiert? Wurde er irgendwie oder die Quelle irgendwie eingesperrt und dann später durch die neuen Maschinen freigesetzt? Klar ist, Äon hat die gewaltigen Antennen nicht gebaut, das war Horizon. Aber so weit ich das verstanden habe gab es die Wenjies bereits vorher, das eine Audiolog hat gesagt "schöne Grüße von den Wenjies", das impliziert klar das sie sich bereits vorher repleziert hat bzw. Zeitklone erschaffen hat. Aber stammen diese "Klone" wirklich aus der Zeit oder einer alternativen Realität. Besetzen wir vielleicht jeden Tag aufs neue die Geister eines leicht, subtil anderen Blackreef. Wenjie sprach von möglichen aber sehr unwahrscheinlich kataklystischen Ereignissen die auftreten könnten. Stammt unser Colt vielleicht aus einer Welt in der dies bereits passiert ist und wir sind mehr als nur ein Besuchsobjekt. Und was macht Julianna und Colt so besonders? Haben sie Vergangenheit die sie befähigt oder ist es einfach eine gewisse Hirnchemie? Warum kann es dann 2Bit?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 4, Aufnahme am 10.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -437,4 +452,3 @@
 
   ```markdown
   Hier
-  ```

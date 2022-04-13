@@ -5,12 +5,12 @@
 ##### # Copy & Pasta
 
 ```
-Disco Elysium - #1 - das Geräusch des Coupris Kineema [Let's Play; ger; Blind]
+Disco Elysium - #15 - Funkgerät des Spotts [Let's Play; ger; Blind]
 
 
 Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
 Disco Elysium auf dem Montags Slot.
-Sitzung 1, Aufnahme vom 04.04.2022
+Sitzung 2, Aufnahme vom 11.04.2022
 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
 ```
 
@@ -117,6 +117,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #8
+
+* Titel: `Disco Elysium - #8 - der Weg des Literaten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der ursprüngliche Titel dieser Episode wie ich ihn in mein Notizbuch geschrieben habe war "der Weg zum Buchladen", ich habe aber bereits etabliert das ich unnötig komplizierte oder sogar uneindeutige Titel wählen werde weil ich kann und keinen Sinn mehr in Click-Bait bei einem 3 Jahre alten Spiel sehe. Mein zweiter Versuch war dann "langwierige Schritte zum Wissen", ein wenig besser wie ich finde aber immer noch ziemlich langweilig, fast schon mundan. Und wir gehören doch hier zum Bildungsbürgertum, da kann man sich auch ein wenig eloquent ausdrücken. Das Schlimmste an so "Fremdwörtern" bzw. Bildungsbürgertumwörtern ist das ich sie immer falsch schreibe aber weiß wie man sie phonetisch schreibt bzw. ich kann sie in der Regel auch sagen. Als Kind des Pöbels liegt es mir aber nicht in der Wiege sie zuschreiben, und dann muss ich nachgucken, das ist jedes Mal ein wenig peinlich, wenn ich in Eile bin falle ich dann auf die einfachen Varianten zurück. Nicht weil ich mich nicht gewählt ausdrücken kann sondern weil ich nicht gewählt Schreiben kann. Das hat man davon wenn man jahrelang nur englische Bücher liest, der deutsche Wortschatz verkümmert. Ärgert mich auch jedes Mal beim Wördl spielen. Harry läuft heute zum Buchladen, nein, viel mehr machen wir echt nicht. Wir kommen da nicht einmal an sondern nur davor, aber hey, wir sollten doch mit Leute reden!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 11.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #9
+
+* Titel: `Disco Elysium - #9 - erschöpfende Literatur der Tiefe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir landen nicht auf einmal in  einer Cthulhu Geschichte (kann das irgendjemand beim ersten Versuch richtig schreiben?). Ursprünglich wollte ich für diese Episode ausdrücken das wir einen Buchladen besuchen und dort tiefes Wissen finden. Das ist nicht einmal gelogen, es handelt sich zum Beispiel um eine Karte die so verdächtig günstig ist das ich mir ziemlich sicher bin das wir sie noch kaufen müssen. Das ist doch schon einmal tiefes Wissen. Ärgerlicherweise haben wir leider immer noch nur 60 Cent und das ist nicht ganz soviel. Es reicht zumindest nicht um sich die Gesamtausgabe der Richard P. Mullen Bücher zu kaufen. Außerordentlich bedauerlich, dabei hatte ich doch vor die ganzen Nächte zu lesen, Schlafmangel ist ja definitiv kein Problem für uns, warum also nicht ein wenig schmökern während wir ein heißes Glas Milch trinken. Ein Verhalten das Harry bestimmt schon in vielen Nächten an den Tag gelegt hat. Der ursprüngliche Titel in meinem Notizbuch der Langeweile war übrigens "hohe Literatur und Karten", beschreibend und eine glatt Minus Vier auf der 0 bis 10 Skala der Spannung. Einfach nicht Disco genug.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 11.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+
 ##### #Nummer
 
 * Titel: ``
@@ -125,4 +155,3 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
 
   ```markdown
   Hier
-  ```

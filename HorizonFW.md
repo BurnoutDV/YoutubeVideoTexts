@@ -501,6 +501,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #29
+
+* Titel: `Horizon Forbidden West - #29 - Einsiedlerspinne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal sind Dinge ein wenig anders benannt als ich gedacht hätte. Zum Beispiel die Einsiedlerspinne. Wir wissen das die einzelnen Roboter die wir in der Außenwelt sehen von GAIA erschaffen wurden, und damit ist auch die Konzeption und Funktion gemeint, niemand der alten Alphas hat sich die Baupläne ausgedacht, nur die ersten Entwürfe gesehen. Und doch erfahren wir das es in Latopolis anscheinend eine Einsiedlerspinne gibt, dem aktuellen Namensschema folgend handelt es sich dabei ja wahrscheinlich um eine Maschine, vielleicht ein Prototyp. Warum ist das so, insbesondere weil wir bereits erfahren haben das es sich um eine quasi militärische Einrichtung handelt der unser bester Freund Travis Tate HADES entworfen hat, warum also gibt es jetzt hier einen Roboter? Es stellt sich heraus das es sich dann doch um ein unnötig kompliziertes Gerät handelt. Warum es in dieser Form und so gebaut wurde? Absolut unbekannt. Immerhin treffen wir auch ein paar neue Leute in den tiefen Eingeweiden der Latopolis. Leider läuft das alles auf mehr Fragen hinaus als ich gerne zugeben möchte. Die heutige Episode ist der Grund warum es mich echte Willensstärke kosten wird nicht die Hauptquest stumpf weiter zu spielen um die Antworten zu erhalten die ich suche.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 05.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #30
+
+* Titel: `Horizon Forbidden West - #30 - Von den Landgöttern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kleiner Richtungswechsel. Wir verlassen heute Latopolis nachdem sich der Ort plötzlich und völlig überraschend als außerordentlich unfreundlich herausgestellt hat. Etwas ärgerlich ist das wir beim Herausrennen noch diverse Räume sehen die den Anschein erwecken als hätte man hier noch das ein oder andere Geheimnis heben können. Was wir bereits wissen ist das die seltsamen Fremden scheinbar wenig Interesse daran haben irgendetwas selber zu zerstören oder Wissen zu heben. Sie sind hinter GAIA und wahrscheinlich seinen Unterfunktionen hinterher. In der nächsten Episode werde ich noch ein wenig in den Raum vermuten was genau die Fremden eigentlich vorhaben und wer sie sind. Interessanterweise erhalten wir sogar in nicht mehr als 9 Episoden die offizielle Antwort. Offizell ist dabei aber nicht ganz klar weil die Person die uns davon erzählen wird sich selber nicht ganz sicher ist und auch nur in den Raum rein rät, aber ich nehme einfach mal an das es am Ende genau die Erklärung ist weil  es sonst die Geschichte noch weiter verkomplizieren würde wenn wir jetzt auf einmal unzuverlässige Narratoren einführen. Themenwechsel, wir waren noch gar nicht so richtig bei den Otaru, den Naturvolk das hier in der Gegend um eine Satelittenanlage herum wohnt, so wie es aussieht leiden sie unter der Plage wesentlich mehr als die restliche Welt..aber sie haben einen sachdienlichen Hinweis, dem gehen wir doch einmal nach..sobald wir können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 05.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -509,4 +539,12 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
 
   ```markdown
   Hier
-  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier

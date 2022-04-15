@@ -147,6 +147,35 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Sitzung 2, Aufnahme vom 11.04.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
 
+##### #10
+
+* Titel: `Disco Elysium - #10 - die mysteriöse Geistertür [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon haben wir den Tiefspunkt der Episoden Betitelung für Sitzung 2 erreicht. Ich kann direkt vorweg nehmen, heute treten wir eine Tür ein, vielleicht gelingt es sogar. Das ist nämlich was man als guter Cop tut, man tritt Türen ein und erschießt Verdächtige. Manchmal stellt man sogar Fragen, das muss aber nicht zwingend sein. Wichtig ist aber das wir damit quasi die erste Nebenquest aufgemacht haben. Klar, der Mord an den Streikbrecher ist bestimmt auch total wichtig und generell und überhaupt aber hier haben wir ein kleines Stück Mysterium. Auch wenn ich glaube das die verfluchte Tür bzw. die ganze Fluchgeschichte eher auf der schlechten Lage abseits von wichtigen Fußwegen zurückzuführen  ist. Vielleicht täusche ich mich aber auch, herausfinden werden wir heute auf jeden Fall mehr sobald wir auf der anderen Seite der Tür sind, schauen wir doch einmal was uns erwartet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 11.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+
+##### #11
+
+* Titel: `Disco Elysium - #11 - Keramikstiefel der Erkenntnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich kann kein Tag vergehen ohne das wir wichtige Erkenntnisse haben. Vor einigen Episoden wollte ich ja eigentlich mit dem Spiel fortfahren indem ich mir die Leiche anschaue, aber so wie es aussieht haben wir einfach nicht den Magen dafür. Unser Toter ist leider ein wenig angefault und so wie es aussieht können wir nicht einmal seine Stiefel klauen. Insbesondere letzterer Teil ist übrigens außerordentlich bedauerlich weil es ja doch ein wenig so aussieht als bräuchten wir bis heute Abend ein wenig Cash. Wie dem aber auch sei, wir haben jetzt ja alles zusammen und dadurch können wir uns ein paar Details angucken. Interessant ist übrigens auch das diese Keramikpanzerung von der hier gesprochen wird nicht so funktioniert wie ich erst dachte. Meine Annahme war das es sich um eine ablative Panzerung handelt die halt abgesprengt wird wenn etwas darauf trifft, aber so wie es beschrieben wird handelt es sich mehr um winzige Schuppen und das Material selbst ist durchaus in der Lage andauernder Belastung durchzuhalten. Ich bin mir ziemlich sicher das diese Welt in der ich diesen Text schreibe nicht so coole Sachen hat, besonders nicht in freie Form so dass man auch Schuhe daraus bauen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 11.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -155,3 +184,4 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
 
   ```markdown
   Hier
+  ```

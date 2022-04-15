@@ -531,6 +531,34 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #31
+
+* Titel: `Horizon Forbidden West - #31 - die brennende Blüte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist wieder einmal ein Tag an dem ich einfach richtig dolle frech den Namen einer Mission genommen habe. Statistisch gesehen und meinen Bauchgefühl zur Folge funktioniert das eigentlich ziemlich gut und sorgt dafür das sich gefühlt 3 Leute mehr bei mir verirren. Wie dem aber auch sei, es stellt sich doch glatt heraus das man doch relativ einfach in den verbotenen Westen kommen. Heute treffen wir einen alten Freund wieder, bzw. eigentlich eine alte Freundin die uns auch einmal Drossel genannt hat. Jetzt gibt es eine neue Drossel, und auch wenn unsere Freundin hier eine menge Potenzial sieht so habe ich doch einfach meine Zweifel. Es scheint mir so das die Otaru einfach kein gutes Grundmaterial für die Jagd auf die richtig gefährlichen Maschinen abgeben. Auf der anderen Seite, wir sehen immer nur die Jäger die diese große Aufgabe größtenteils alleine angehen, logischer wäre es wohl für eine größere Gruppe gemeinsam den Kampf zu beginnen. Mammuts macht man ja auch nicht alleine klar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 12.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+
+##### #32
+
+* Titel: `Horizon Forbidden West - #32 - Feuerglimmer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal habe ich eine ganz schlechte Angewohnheit, dann verliere ich mich damit die Welt zu erkunden und sinnlos in der Gegend zu starren. Das macht mich dann immer ein wenig nervös weil ich weiß das es auf Dauer ziemlich langweilig werden kann dabei zuzuschauen wie ich nicht wirklich vorran komme. Manche Leute wünschen sich ja auch komplett geschnittenes Gameplay wo quasi nur die interessanten Details bei sind und wollen das ganze Umherreisen gar nicht sehen. Heute ist so eine Episode wo genau dieses Herumreisen auf jeden Fall dabei ist. Die Sachlage ist die, wir haben jetzt ja eine neue Möglichkeit mit der Welt zu interagieren, und daher wäre es natürlich Wahnsinn nicht direkt unser noch recht kurzes Backlog abzuarbeiten und zu all diesen Orte zu reisen an denen das Zeug herumliegt. Namentlich ist das Feuerglimmer, ich kann aber auch gleich sagen das ich mir irgendwie mehr von der gesamten Angelegenheit erhofft hatte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 12.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+
 ##### #Nummer
 
 * Titel: ``
@@ -539,12 +567,4 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
 
   ```markdown
   Hier
-
-##### #Nummer
-
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
+  ```

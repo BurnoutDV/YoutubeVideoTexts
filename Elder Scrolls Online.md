@@ -6297,7 +6297,7 @@
 
 ## Nebenquests Einschub
 
-##### #1
+##### #1643 - 1
 
 * Titel: `Let's Play ESO #1643 - Galerie des Schlüsselmachers [Nebenquests]`
 
@@ -6312,4 +6312,31 @@
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+## High Isle Prolog
+
+##### #1644 - 1
+
+* Titel: `Let's Play ESO #1644 - Emporstrebende Zweifel [High Isle Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 1 des High-Isle Prologs - Sitzung 1 (von 1)
+  
+  Und wir sind wieder bei ESO, keine Angst, das wird nur ein ganz schneller Exkurs, ich will ja schließlich noch andere Spiele spielen bis es dann mit dem richtigen Highisle (oder Hochinsel?) DLC weiter geht. Heute spielen wir also nur den wirklich kurzen Prolog. An der Stelle meckere ich ein wenig weil andere Prologe durchaus ein wenig länger waren. Interessanterweise habe ich ja sogar noch einen anderen Prolog offen. Heute lernen wir also einen Typen namens Jakarn kennen, einen Namen den ich so vertraut finde aber anscheinend ist das eine neue Person. Alles irgendwie komisch, und wir suchen anscheinend eine fähige Magierin. Der Plot hat, zumindest so weit ich das sehen kann einige Lücken aber darüber sehen wir einfach einmal großzügig hinweg. Ignoriere einfach das meckernde Känguru und genieße die Reise.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```

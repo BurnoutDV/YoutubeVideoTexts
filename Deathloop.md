@@ -444,6 +444,37 @@
   Sitzung 4, Aufnahme am 10.04.2022
   ```
 
+##### #30
+
+* Titel: `Deathloop - #30 - ferne Erinnerungen an die Bucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Karlsbucht war ja bereits ein Ort den es schon seit ziemlich langer Zeit gegeben hat, das bedeutet aber auch das Äon gar nicht in der Lage gewesen sein kann alle Spuren der Vergangenheit zu entsorgen. So wie es weiter aussieht sind auch nicht alle ehemaligen Wohnungen des halb zerfallenen Fischerdorfes bewohnt bzw. aktuell wieder betreten worden. Interessant ist das teilweise die Decke nachgegeben hat, wie alt genau ist dieser Fischerort? Wann wurde er bewohnt. Weitere Fragen werfen übrigens auch ziemlich alte Dinge die wir gefunden haben auf. Zur Sache, bei Minute 3:53 übersehe ich ein Audiolog und ärgere mich grade darüber sehr, ich hoffe das das auch am Morgen da ist und nicht zwischenzeitlich fortgeschafft wurde. Wir finden übrigens noch ein weiteres Informationsbröcken, anscheinend gibt es jemand der sich erinnert! Warum tut er das, könnte das vielleicht ein weiterer Datenpunkt sein?
+  
+  Bei 3:53 übersehe ich ein Audiolog
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 4, Aufnahme am 10.04.2022
+
+##### #31
+
+* Titel: `Deathloop - #31 - nächtliche Auswirkung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist Nacht. Das bedeutet das alles was wir über den Tag verteilt getan haben jetzt einen Effekt hat. Wir gehen, wie bereits angekündigt nach Updaam, dort haben wir drei Dinge die ich überprüfen wollte. Zuerst gibt es da natürlich das Haus von Otto, bzw. seine Feuerwerkswerkstatt, ich frage mich allerdings ob die Bude auch abgebrannt wäre wenn ich nur einen oder sagen wir einmal die Hälfte des Stroms ausgeschaltet hätte. Wie dem aber auch sei, die Hütte steht und das spielt eine Rolle. Und dann gibt es da noch den Pakt des Rauches, dieses Mal hat wohl jemand Anderes überlebt, die große Frage ist jetzt aber ob jetzt irgendwo anders etwas anders ist. Und dann hätten wir da natürlich noch die große Party des Wolfes, die große Party die definitiv das letzte Level sein wird bevor wir den Loop brechen, einfach schon weil wir nur hier Aleksis treffen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 5, Aufnahme am 15.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -452,3 +483,4 @@
 
   ```markdown
   Hier
+  ```

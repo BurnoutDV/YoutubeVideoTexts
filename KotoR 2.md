@@ -1429,11 +1429,33 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
-##### #Nummer
+##### #89
 
-* Titel: ``
+* Titel: `KotOR 2 - #89 - die Müllhalde von Dantooine [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Anscheinend handelt es sich bei der Einrichtung der Jedi bzw. deren großer "Tempel" heutzutage nur noch um einen Müllhalde oder aber auch einer Quelle von Ersatzteilen. Das alles ist ziemlich faszinierend wenn man bedenkt das die ganze Geschichte jetzt nicht so lange her ist. Aber das Gedächtnis der Menschen ist ja generell und überhaupt ziemlich kurz, die einzige große Tat der Jedi schien ja auch gewesen zu sein das Revan hier einmal einen Mordfall aufgeklärt hat. Also entweder leben auf ganz Dantooine ungefähr 100 Leute oder aber hier passiert absolut rein gar nichts. Vielleicht muss ich noch mehr mental umdenken, Star Wars ist ja Fantasy im Weltraum, vielleicht sind Planeten eher wie so kleine Bauerndörfer in denen wirklich nur so 20 Familien leben. Das würde echt viel erklären. In dem Fall war Dantooine halt ein Dorf an dem ein Kloster dran hing und das ist jetzt halt kaputt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 13, Aufnahme vom 07.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+
+##### #90
+
+* Titel: `KotOR 2 - #90 - Hof der Enklave [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, heute reiten wir noch nicht in die Enklave ein, also doch, machen wir schon, aber wir gehen quasi durch die Tür und dann war es das auch wirklich gewesen, wie dem aber auch sei, erst einmal der Vorhof. Stellt sich doch glatt heraus das hier wieder einmal ein Hinterhalt auf uns wartet. Ich bin ja sehr darüber erfreut weil das bedeutet das wir bald die Fabrik der anderen HK-50s gefunden haben und damit dem Spuck ein Ende bereiten können. Die andere Sache ist das wir wohl dem Gerücht aufsitzen das sich kein Plünderer in die tieferen Etage der Enklave traut. Interessant ist übrigens was genau die Plünderer da eigentlich raus tragen. Ich nehme mal an man findet so an die 50 Laserschwerter und einige Holocrons die für nicht-Machtnutzer erst einmal ziemlich wertlos sind. Ansonsten bleibt eigentlich nur noch das Rohmaterial ab zu greifen, und ich kann mir irgendwie nicht vorstellen das das wirklich so lukrativ ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 13, Aufnahme vom 07.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```

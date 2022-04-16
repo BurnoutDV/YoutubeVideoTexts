@@ -176,6 +176,22 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #12
+
+* Titel: `Disco Elysium - #12 - der Brief des Toten an die Nachwelt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Problem an diesen leicht pseudo-poetischen Titeln ist leider aber auch das sie recht lang sind. Heute zum Beispiel dieser hier, immerhin musste ich nicht selbst kreativ werden und konnte einfach das nutzen was unser treuer Sidekick Kim Kitsuragi raus gehauen hat. Der Tote hat uns einen Brief geschrieben, das ist sehr rücksichtsvoll von ihm wie ich finde. Heute versuchen wir diesen Brief zu lesen, und nicht nur seine Stiefel zu klauen. Man darf bei all dem Leid und Tod auch nie vergessen das die Leute die wir dann am Ende leblos finden nicht nur Hüllen sind sondern einst auch von jemanden bewohnt wurden. Je nach eigener Einstellung gibt es diese Essenz noch irgendwo dort draußen, oder halt auch nicht. Für den praktischen Einsatz spielt das aber wohl eher keine Rolle, es sei den wir finden noch einen guten Wahrsager der die Glaskugel zu schwingen weiß. Lesen wir also.
+  Der bis jetzt längste Titel war übrigens "Die Bestie, die im Herzen der Welt ihre Liebe herausschreit", Outer Worlds 206..der Name der letzten Mission. Disco Elysium könnte uns hier durchaus noch weiter beglücken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 11.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

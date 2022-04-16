@@ -475,6 +475,21 @@
   Sitzung 5, Aufnahme am 15.04.2022
   ```
 
+##### #32
+
+* Titel: `Deathloop - #32 - Dorsey Anwesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Nacht ist jung und uns erwartet eine Party mit abrupten Ende, aber dieser Zeitpunkt ist noch nicht gekommen, für den Moment erkunden wir jetzt erst einmal die weiteren Feinheiten der Anlage und schauen uns an was wir noch so alles an sachdienlichen Hinweisen finden können bzw. was alles verbleibt das uns  vielleicht helfen könnte unsere große Attentats Rotation in einem Tag durch zu führen. Für den Moment fehlt es uns ja immer noch an einigen Informationen, insbesondere wenn man bedenkt das sich die Visionäre größtenteils von einander fernhalten, wir müssen sie also irgendwie zusammenbringen. Klar wird aber, egal was wir machen, wenn der Loop zerbrechen wird wird es Nacht in Updaam sein und Colt wird derjenige sein der abdrückt. Nach meinem jetzigen Kenntnisstand wird Aleksis übrigens der letzte sein der stirbt. Aber wollen wir nicht zu weit vorgreifen, noch ist Nichts passiert. Noch werden Informationen gesammelt. Ich bin übrigens wirklich beeindruckt wie viel Luxus Äon nach Blackreef gebraucht hat.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 5, Aufnahme am 15.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

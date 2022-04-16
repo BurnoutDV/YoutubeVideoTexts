@@ -1459,3 +1459,29 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Sitzung 13, Aufnahme vom 07.04.2022
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
+
+##### #91
+
+* Titel: `KotOR 2 - #91 - der Historiker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute bin ich ein wenig überrascht. Von der unfassbar niedrigen Qualität die die Story mit sich bringt, oder dem völligen Mangel an erklärenden Informationen. Folgender Sachverhalt, nachdem wir in der letzten Episode ein wenig unabsichtlich einen Plünderer in den tot haben laufen lassen treffen wir heute ein weitere Person die sich hinter einer leicht verschlossenen Tür aufhält und von sich selbst behauptet Historiker zu sein. Dann können wir ein paar Fragen stellen die grob auf den G0T0 Sales-Pitch für die Rettung der Galaxie hinauslaufen. Wenn wir nicht frühzeitig nach Nar Shaadar gegangen wären wären diese Informationen bestimmt auch ziemlich nützlich gewesen, aber so wie die Dinge stehen erfahren wir auch viel Neues. Nun weiß dieser angeblich Historiker aber auch sonst relativ viel über die Geschehnisse und vor allen Dingen erwähnt er nebenher mal ein paar Holocrons die jetzt aber nicht mehr hier sind. All das scheint aber niemand großartig verdächtig zu finden. Anscheinlich unbewaffneter Wissenschaftler der Geisteswissenschaften hängt in einer halb eingestürzten Anlage herum die von tonnenweisen tödlichen Viecher bevölkert wird und niemanden stört es. Ich finde wir hätten den Mann ein wenig genau zu seiner Anwesenheit befragen sollen, aber das können wir natürlich nicht. Das gefällt mir nicht besonders. Aber immerhin gibt es ein wenig World-Building.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 14, Aufnahme vom 14.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

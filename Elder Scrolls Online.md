@@ -6331,6 +6331,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1645 - 2
+
+* Titel: `Let's Play ESO #1645 - Gildengelehrte Valessea [Hochinsel Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 2 des High-Isle Prologs - Sitzung 1 (von 1)
+  
+  Ich freue mich wirklich neue Leute kennen zu lernen. In der Regel sind die Prologe immer ein Ratespiel welche neuen Leute die wir treffen ab jetzt das ganze DLC dabei sein werden und wer nur einen kurzen Auftritt hat und am Ende der Geschichte sterben wird. Normalerweise kann man sich eigentlich darauf verlassen das unser Gegenspieler nur eine sehr kurze Halbwertzeit hat, in diesem Fall wäre das dann wohl die emporstrebende Verfechterin aber noch lebt sie und eigentlich haben wir mehr oder weniger auch alles geschafft. Man könnte sogar sagen es war fast zu einfach bis hier her. Auch nicht so richtig klar ist übrigens auch warum man Valessea überhaupt entführt hat. Benutzen möchte man sie ja offensichtlich nicht, immerhin wurde ihr auch kein Haar gekrümmt. Es handelt sich hierbei um eine aufstrebende Magierin aus der Gilde von der wir bloß zufällig noch nie etwas gehört hatten. Aber sowas kann schon einmal vorkommen, die Gilde ist groß und wir sind im Gegensatz zu anderen Elder Scrolls Spielen ja auch nicht gleich Gildenmeisterin geworden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

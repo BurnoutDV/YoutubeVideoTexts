@@ -559,6 +559,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Sitzung 5, Aufnahme vom 12.04.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
 
+##### #33
+
+* Titel: `Horizon Forbidden West - #33 - Schreckensklippe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist heute wieder eine alte Geschichte eingefallen, damals als ich in der zweiten Klasse in der Schule war musste ich das erste Mal lernen das man irgendwann anfangen soll eine Aufgabe links liegen zu lassen. Die Situation war das ich Aufgabe 3 von 10 in einem Test nicht lösen konnte und mich daran verbissen habe. Eventuell war es sogar ein Setup um genau diese Situation zu erzwingen, Ich habe damals wirklich stumpfsinnig immer wieder und weiter versucht bis die Zeit vorbei war und ich nur 2 von 10 Aufgaben gelöst hatte. Seit dem bin ich ein wenig größer aber nicht wirklich klüger geworden. Die nicht verinnerlichte Lektion sehen wir heute auch noch einmal in der Praxis. Wir sind ein wenig unterlevelig und versuchen uns heute an einen Gegner für den wir nicht so gut ausgerüstet sind. Außerdem  verändere ich meine Taktik nicht. Wie das dann alles klappt sehen wir dann auch heute, kleiner Spoiler, natürlich schaffe ich es dann auch irgendwann, aber es war wesentlich schmerzhafter als es hätte sein müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 12.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

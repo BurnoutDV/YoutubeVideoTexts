@@ -192,6 +192,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #13
+
+* Titel: `Disco Elysium - #13 - Ein Schuss ins Blaue [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Betitelung war kein Höchstpunkt, aber wer hätten ihn natürlich auch den "Schuss ins Blau" nennen können, eventuell benenne ich die Episode auch noch um. Ihr ursprünglich Titel war übrigens dann "Cunos Psychologielektion". Es ist nämlich so das wir eigentlich ziemlich intelligent sind, klar, körperliche Stärke ist nicht unsere, ha!, Stärke aber ansonsten sind wir ein Gigang im Körper eines Schwächlings. Und das nutzen wir heute aus in dem wir die Leute so lange zu quatschen bis wir wichtige Informationen herausfinden. Zum Beispiel heute über Cuno, der Gute scheint durchaus ein paar Probleme zu haben. Und darüber reden wir natürlich mit ihm, außerdem haben wir zwischenzeitlich herausgefunden das wir wohl durchaus noch ein paar mehr Dinge besessen hatte bevor wir los gefahren sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 11.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

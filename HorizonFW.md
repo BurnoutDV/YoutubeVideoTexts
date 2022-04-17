@@ -574,6 +574,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #34
+
+* Titel: `Horizon Forbidden West - #34 - Reinklang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lange habe ich es vor mir her geschoben aber jetzt ist es endlich so weit, wir fahren nach Reinklang. Es handelt sich hierbei um die zentrale Siedlung der Otaru und anscheinend auch ihrer größten Farm. Wir wissen bereits aus den Log-Dateien das es hier einst ein größeres Radioteleskop gab das auch für andere Dinge genutzt wurde. So wie mir scheint sind Satellitenschüssel im Jahre 2050 wesentlich stabiler gebaut als ich das ursprünglich angenommen hatte. Das könnte aber auch daran liegen das es sich um gewaltige Schüsseln handeln die sich bewegen müssen und daher relativ stabil gebaut sind. Anscheinend so stabil gebaut das man sogar 1000 Jahre später darauf eine Siedlung zu bauen. Die sieht immerhin ziemlich eindrucksvoll aus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 12.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

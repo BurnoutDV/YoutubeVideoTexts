@@ -490,6 +490,21 @@
   Sitzung 5, Aufnahme am 15.04.2022
   ```
 
+##### #33
+
+* Titel: `Deathloop - #33 - Partycrasher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aleksis Dorsey hält sich aus irgendeinen Grund für einen Alphawolf, ich bin mir ehrlich gesagt nicht ganz sicher wie er auf diesen Trichter gekommen ist. Von allem was ich so sehen kann handelt es sich bei ihm vor allen Dingen um jemanden der sehr viel Geld aber sehr wenig Manieren hat. Die gute Nachricht ist das der Loop es erlaubt das seine perversen Gelüste zumindest ohne Konsequenzen bleiben. Fraglich ist allerdings ob er bereits in der Vergangenheit auf dem Festland seine Macht ausgenutzt hat oder ob das eine neue Geschichte aufgrund der Möglichkeiten ist. Meine zynische Sicht der Menschheit sagt mir aber das Menschen alles tun um Macht auszukosten und auszunutzen. Die Party von Aleksis ist allerdings auch nicht besonders besonders...letztendlich gibt es ein paar Drinks, ein wenig Standup Comedy und mittelmäßige Musik. Letzteres könnte aber auch daran liegen das ich die Copyright geschützte Musik ausgeschaltet habe. Ärgerlicherweise läuft mein Attentat nicht ganz so sauber wie ich es wollte. Zum Glück ist dies nicht der letzte Tag.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 5, Aufnahme am 15.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

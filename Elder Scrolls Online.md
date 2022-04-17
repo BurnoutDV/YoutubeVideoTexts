@@ -6342,6 +6342,25 @@
   
   Ich freue mich wirklich neue Leute kennen zu lernen. In der Regel sind die Prologe immer ein Ratespiel welche neuen Leute die wir treffen ab jetzt das ganze DLC dabei sein werden und wer nur einen kurzen Auftritt hat und am Ende der Geschichte sterben wird. Normalerweise kann man sich eigentlich darauf verlassen das unser Gegenspieler nur eine sehr kurze Halbwertzeit hat, in diesem Fall wäre das dann wohl die emporstrebende Verfechterin aber noch lebt sie und eigentlich haben wir mehr oder weniger auch alles geschafft. Man könnte sogar sagen es war fast zu einfach bis hier her. Auch nicht so richtig klar ist übrigens auch warum man Valessea überhaupt entführt hat. Benutzen möchte man sie ja offensichtlich nicht, immerhin wurde ihr auch kein Haar gekrümmt. Es handelt sich hierbei um eine aufstrebende Magierin aus der Gilde von der wir bloß zufällig noch nie etwas gehört hatten. Aber sowas kann schon einmal vorkommen, die Gilde ist groß und wir sind im Gegensatz zu anderen Elder Scrolls Spielen ja auch nicht gleich Gildenmeisterin geworden.
   
+  0:00 - Gameplay
+  15:21 - Buch: Spaß und Profit mit Kwamabergbau
+  19:05 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
+##### #1645 - 3
+
+* Titel: `Let's Play ESO #1646 - Fürstin Arabelle [Hochinsel Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 3 des High-Isle Prologs - Sitzung 1 (von 1)
+  
+  Ich werde nicht müde und auch nicht aufhören, es stört mich unfassbar das wir andauernd von irgendwelchen Adeligen durch die Gegend kommandiert werden. In diesem Fall geht es zwar um irgendwelche Friedensverhandlungen und es ist dadurch relativ logisch das die Leute die bereits Macht haben und fest in den vorhanden Strukturen der Regierung integriert sind dort ihre Fäden ziehen. Und doch, es müssen immer irgendwelche reichen Säcke sein die mehr oder weniger als Hobby entscheiden Frieden zu stiften. Anders sieht das bei unseren Gegenspielern aus, bisher wissen wir aber noch nicht wie genau die entstanden sind, aber ich nehme einfach einmal an das sie eher nicht so viele hochwohlgeborene Ursprünge haben. Um die Geschichte kurz zu machen, ich habe irgendwie die Angst das wir auf der falschen Seite der Geschichte stehen, auch wenn die Methoden unserer Gegenspieler vielleicht brutal erscheinen, was sonst soll die Ketten sprengen die die Menschen an ihre feudalen Herrscher bindet.
+  
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```

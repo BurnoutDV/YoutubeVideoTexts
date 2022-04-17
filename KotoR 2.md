@@ -1476,6 +1476,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #92
+
+* Titel: `KotOR 2 - #92 - Kaevee und die Laigrek [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Enklave von Dantooine hat völlig überraschend wesentlich mehr Inhalt zu bieten als beim letzten Mal als wir hier im ersten Teil waren. Klar, dort gab es noch irgendwelche Leute die mit uns geredet haben aber zu sehen gab es ja nicht besonders viel. Hier sieht die Sachlage anders aus, neben den komischen Insekten die wir links und rechts niederschießen. Außerdem finden wir heute jemanden, technisch gesehen auch schon die dritte Person in einem Keller von dem es hieß das wir niemanden dort treffen würden und sich auch niemand so weit vor wagen würde. Offensichtlich waren die Leute die das gesagt haben lächerlich unterinformiert. Aber das alles ist ja gar kein Problem, wir können uns an solchen geänderten Tatsachen leicht anpassen und schon geht es gerade aus weiter. Worauf wir verzichten müssen ist aber ein größeres Blutbad, das wäre wohl einfach nicht anständig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 14, Aufnahme vom 14.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

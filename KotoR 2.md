@@ -1494,6 +1494,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
 
 ##### #Nummer
 
+* Titel: `KotOR 2 - #93 - Vrooks ungewollte Befreiung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht selten hat man in Spielen das Problem das Charaktere die bereits im Vorgänger etabliert worden sind im Nachfolger plötzlich eine andere Persönlichkeit aufweisen. Das passiert auch gerne einmal wenn der ursprüngliche Synchronsprecher nicht mehr verfügbar ist und der Neue einfach nicht das gleiche Bild einfängt. Auch in Serien und sogar Filmen kann dies passieren, noch viel schlimmer wird es übrigens wenn aus irgendwelchen Gründen ein anderer Schauspieler genutzt wird weil der vorherige in Ungnade gefallen ist, oder nicht mehr lebt. Computerspiele haben dieses Problem zum Glück quasi nie, auch wenn es schon so manches Remake gab das die eigentlich herausragenden Eigenschaften eines Charakters bis zur Unkenntlichkeit verändert hat, Tomb Raider fällt da ein. All diese vielen Probleme haben wir heute nicht, Meister Vrook ist genau der Kotzbrocken der er schon im Vorgänger war. Von sich selbst und der Richtigkeit seiner Lehren völlig frei von Zweifel überzeugt ist er genau der gleiche unausstehlich Kerl der er schon letztes Mal war. Und damit stellt er wahrscheinlich ein Musterbeispiel für einen Jedi und warum die Bande so hart untergegangen ist dar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 14, Aufnahme vom 14.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

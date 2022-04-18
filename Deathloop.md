@@ -505,6 +505,21 @@
   Sitzung 5, Aufnahme am 15.04.2022
   ```
 
+##### #34
+
+* Titel: `Deathloop - #34 - morgendliche Bucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Guten Morgen Blackreef! Heute gehen wir ausnahmsweise einmal nicht nach Updaam sondern eher woanders hin, zu einem tollen Ort. Nämlich der Karlsbucht, hier soll es am Morgen einen Maskenmacher geben dem wir eventuell eine Maske abluchsen können, außerdem springt hier irgendwo Harriet herum von der wir eigentlich noch gar nicht so viel wissen. In den Aufnahmen mit Frank haben wir herausgefunden das sie durchaus irgendwie ihre Vernunft zusammen hat, auf der anderen Seite scheint sie ein paar kultische Allüren zu haben die ich..sagen wir einmal..bedenklich finde. Und dann gibt es da noch dieses rote Haus das wir nicht betreten können. Mehr dazu aber später. Jetzt schauen wir uns erst einmal die Bucht am Morgen an. Ich reden natürlich von der Karlsbucht, aus irgendwelchen Gründen waren wir noch nie am Morgen dort, das liegt aber eventuell auch daran das wir die Karlsbucht bisher sowieso nicht soviel erkundet haben wie zum Beispiel Updaam.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 5, Aufnahme am 15.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

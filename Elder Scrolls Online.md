@@ -6365,6 +6365,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+##### #1647
+
+* Titel: `Let's Play ESO #1647 - die emporstrebende Verfechterin [Hochinsel Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 4 des High-Isle Prologs - Sitzung 1 (von 1)
+  
+  Und schon sind wir am Ende der Geschichte. Dieser Prolog ist ein wenig kürzer als die letzten Prologe, ich bin mir ziemlich sicher das ich das auch schon einmal erwähnt habe. Die Sachlage ist also wie folgt, am Anfang wurde ein Gegner eingeführt, bzw. unser lokaler Schläger den wir durchaus erreichen können. Es handelt sich um die emporstrebende Verfechterin die anscheinend einen guten Plan hatte mehre Verhandler umzubringen. Der Plan hat zu 20% sogar funktioniert. Das muss man einmal anerkennen, übrigens wohl auch der Grund warum unser guter Kumpel Vanus Galerion nicht aufgetaucht ist. Wie dem aber auch sei, ich mochte die Verfechterin als Gegner, aber so wie die Dinge stehen brauchen wir ja ein wenig Endorphine, immerhin hat die gute Phasen. Zwischendurch sehen wir übrigens auch einen anderen Typen in Fullrüstung, ich nehem stark an es handelt sich um den Mann aus den ursprünglichen Trailer.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  ```
+
 ##### #Nummer
 
 * Titel: ``

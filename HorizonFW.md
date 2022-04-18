@@ -589,6 +589,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #35
+
+* Titel: `Horizon Forbidden West - #35 - Jagdgebiet Schrecken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon ist es passiert. Ich habe mich ablenken lassen. Wir waren ja grade bei den Otaru und haben uns dort die Gegebenheiten angeschaut. Dazu gehörten auch die örtlichen Händler, diese boten verschiedene Waren feil, einige von denen ich auch haben wollte. Nun ist es aber so das die Händler nicht nur schnöden Mammon wollen sondern auch bestimmte Tauschmaterialien. Die haben wir natürlich nicht, eine dieser Komponenten sind zum Beispiel Graser, wir haben bereits welche gesehen als wir im Schrecken um her liefen, auch wenn es dort offiziell keine Jagdgründe gibt. Natürlich könnte ich auch lokal jagen gehen aber das setzt halt auch vor raus das man ins Unbekannte geht. Um das zu vermeiden reise ich zurück in den Schrecken und muss feststellen das es so etwas wie die Herausforderungen aus dem letzten Teil gibt. Wir werden die alle machen müssen, schon um die besten Waffen und Rüstungen zu bekommen, aber wahrscheinlich nicht mehr so Vor-Abend fühlend wie hier. Storytechnisch ist diese Episode also absolut irrelevant. Sorry.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 12.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

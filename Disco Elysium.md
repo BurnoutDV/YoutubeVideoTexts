@@ -207,6 +207,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #14
+
+* Titel: `Disco Elysium - #14 - erleuchtende Zusammenfassung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt zwei Sitzungen in der gesamten Angelegenheit und jetzt fällt mir dann doch ein unseren Sidekick den wir seit Episode 2 haben ein paar Fragen zu stellen. Ich bezweifle übrigens das sich der gute Kim selber als Sidekick sieht. Wahrscheinlich eher wie mein Aufpasser. Aber immerhin erfahren wir dann noch einmal das gesamte Bild. Aber so wie die Dinge stehen wissen wir eigentlich schon grob worum es geht. Ein Typ ist tot, das ist eine Grenzüberschreitung die das doch schon ziemlich fragile Machtgleichgewicht in Martise bzw. in ganz Revanchol durcheinander bringen kann. Die Polizei bzw. die Miliz steckt nicht so tief im Sattel das sie es sich erlauben kann das Leute Selbstjustiz ausüben. Immerhin hat bisher niemand öffentlich erklärt das er oder sie jetzt Anführer der lokalen Regierung ist, aber das würden wahrscheinlich auch die anderen Mächte die irgendwo im Dunkeln und Unbekannten warten nicht so gut finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 11.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6 
+  ```
+
 ##### #Nummer
 
 * Titel: ``

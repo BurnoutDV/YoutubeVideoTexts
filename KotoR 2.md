@@ -1508,6 +1508,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #94
+
+* Titel: `KotOR 2 - #94 - Schlachtenvorbereitung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hier nun ein kleiner Exkurs. Damals als Skyrim noch richtig dolle neu war hat man sich irgendwie gedacht das diese Hintergrundgeschichte mit dem Bürgerkrieg ja auch irgendwie in Fleisch und Blut gegossen werden muss. Also gab es Schlachten um verschiedene Burgen, diese Schlachten waren technisch so ziemlich am Limit von dem was Skyrim konnte..und sahen absolut lächerlich aus. Weil maximal waren hier 15 NPCs unterwegs und man hatte nicht wirklich das Gefühl einer tobenden Schlacht. Das war 2010. Mittlerweile gibt es Spiele wo größere Gefechte nicht komplett lächerlich aussehen, die Schatten von Mordor Spiele fallen mir da spontan ein. Dieses Spiel kommt aber ursprünglich aus 2004, damals hatten wir noch ein wenig weniger Techniker. Problematisch an vielen sich bewegenden Charakteren ist vor allen Dingen die CPU Last und die Tatsache das wir quasi ein Vielkörper Problem haben (ich hoffe das ist jetzt nicht völliger Quatsch), wir könnten den Prozess also schon parallelisieren aber das führt halt dann zu anderen Problem. Um die Geschichte zu Ende zu bringen, größere Konflikte in denen wir aktiv eingreifen können sind technisch sehr schwierig. Und insbesondere nicht so recht mit 2004 Technik umsetzbar. Und doch dachte man das wäre eine gute Idee. Wir sehen später wie. Soweit kommen wir aber heute nicht, heute bereiten wir uns erst einmal vor, das gehört nämlich dazu.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 14, Aufnahme vom 14.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

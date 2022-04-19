@@ -222,6 +222,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6 
   ```
 
+##### #15
+
+* Titel: `Disco Elysium - #15 - Funkgerät des Spotts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und jetzt komme ich endlich dazu mit meiner eigenen Zentrale zu sprechen. Wir gehen immer noch davon aus das wir Harry heißen, so richtig wissen können wir das übrigens nicht. Mir fällt auch auf, während ich das hier schreibe das Harry jetzt nicht direkt ein "französischer" Name ist und soweit ich das erkennen kann sind die Leute aus Martinaise halt so ein wenig..nun..französisch. Aber ich kann die Welt in ihrer Größe und Ausdehnung auch noch nicht so richtig einschätzen. Es gibt da halt Inseln, auf den verschiedenen Inseln wohnen verschiedene Kulturen und recht weit draußen wohnen die Leute die niemanden rein lassen. Wie dem aber auch sei, wir reden mit Leuten aus unserer eigenen Wache, die wissen doch bestimmt wie wir heißen und werden uns gewiss helfen. Das sollte uns jetzt endlich einmal ein paar konkrete Antworten über die Realität geben in der wir leben. Auch richtig dolle interessant ist aber auch das es scheinbar keine Telefonleitungen bzw. allgemeine verfügbare Infrastruktur in dieser Hinsicht gibt. Klar, es gibt irgendwie ein oder zwei Fernsprecher, aber das ist eher 80er Jahre Niveau..aber immerhin scheint das mit dem Kurzwellensender ganz gut zu klappen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 11.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

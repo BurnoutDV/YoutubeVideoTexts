@@ -604,6 +604,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #36
+
+* Titel: `Horizon Forbidden West - #36 - die starken Wurzeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles was wir bisher von den Otaru mit bekommen haben deutete irgendwie darauf hin das es sich nicht unbedingt um ein besonders wehrhaftes Volk handelt. So weit ich das verstanden habe töten bzw. jagen sie ja keine Tiere und leben strikt vegetarisch. Ich bin mir da übrigens auch gar nicht so sicher ob das überhaupt von den Nährstoffen überhaupt klappt, aber vielleicht hat GAIA ja, damals als sie noch funktionierte den Otaru irgendwelchen Pflanzen zur Verfügung gestellt die in der Lage waren diese Defizite auszugleichen. Wie dem aber auch sei, es gibt definitiv auch welche die bereit sind sich gegen die Tenakth und deren  Rebellen mit allem zu wehren. Einziges Problem ist ein kleiner Mangel an Waffen bzw. Ausrüstung. Letztendlich muss man aber wohl auch bedenken das jeder Angriff die Bevölkerung eines Dorfes unterhalb eines kritischen Niveaus reduzieren könnte, und das wäre nun wirklich ärgerlich, daher sollten wir ihnen soviel helfen wie wir nur können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 12.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #37
+
+* Titel: `Horizon Forbidden West - #37 - die heilige Höhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir stellen fest, wenn wirklich gedrängt sind die Otaru durchaus bereit Gewalt anzuwenden, jegliche Erzählungen über ihre friedliche Lebensweise waren dann wohl doch ein wenig übertrieben. Sie haben zum Beispiel auch Jäger die sich darum kümmern zu verhindern das irgendwelche  Viecher aus einer nahen Brutstätte ausbrechen. Weil das ist dann wohl die große heilige Höhle von der wir soviel gehört haben. Problematisch ist bloß das die große singende Meute die die Otaru anführt nicht bereit ist uns rein zu lassen. Dämliche religiöse Gründen sollten Aloy ja mittlerweile zur Genüge bekannt sein. Umso frustrierender ist dann wohl wenn man Leute sieht die ihr ganzes Leben Zeichen widmen die mit ein wenig mehr Technikverständnis leicht zu erklären wären. Andererseits wären wir dann wohl nicht in der Welt in der wir uns gerade befinden und dann gebe es keine Geschichte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 12.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

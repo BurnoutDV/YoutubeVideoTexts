@@ -520,6 +520,21 @@
   Sitzung 5, Aufnahme am 15.04.2022
   ```
 
+##### #35
+
+* Titel: `Deathloop - #35 - der Todeskult [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn die Visionäre normale Leute wären die ganz normale Leute Dinge tun würden dann wären sie wohl nicht nach Blackreef gekommen, das Gleiche kann man wohl über die meisten Eternalisten sagen. Ich bin mir allerdings unsicher wie viele von ihnen eigentlich nur ganz normale Wissenschaftler und Träger waren und wie viele dann wiederum einfach durch die Umstände und dem Versprechen ewigen Lebens die Dinge tun die sie tun, schon weil es keine echten Konsequenzen gibt. Auch wenn ich glaube das, könnten sie sich erinnern würden einige Leute bestimmt nach ein paar Tagen aufhören andere zu quälen weil jeder schon mal verspürt hat wie es ist zu sterben. Und das bringt uns zu Harriet Morse, wir wissen über die Frau immer noch erstaunlich wenig, aber sie hat wohl einen Todeskult. Einen ziemlich sadistischen Todeskult. Ärgerlicherweise ist das Opfer sogar noch unser Maskenmacher den ich gerne am Leben halten würde, ich kann schon einmal sagen, das gelingt heute sowas von gar nicht. Der Mann stirbt, und vielleicht auch Harriet..wenn ich es nicht gegen den Baum fahren.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 5, Aufnahme am 15.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

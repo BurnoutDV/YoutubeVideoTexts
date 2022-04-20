@@ -5,12 +5,12 @@
 ##### # Copy & Pasta
 
 ```
-Disco Elysium - #15 - Funkgerät des Spotts [Let's Play; ger; Blind]
+Disco Elysium - #22 - hastige Umgebungsbegutachtung [Let's Play; ger; Blind]
 
 
 Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
 Disco Elysium auf dem Montags Slot.
-Sitzung 2, Aufnahme vom 11.04.2022
+Sitzung 3, Aufnahme vom 18.04.2022
 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
 ```
 
@@ -234,6 +234,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Disco Elysium auf dem Montags Slot.
   Sitzung 2, Aufnahme vom 11.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #16
+
+* Titel: `Disco Elysium - #16 - Sehnsucht im Stillstand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im modernen Leben wird ja gerne von der Entschleunigung geredet. Einfach mal ein wenig langsamer vor ran gehen, nicht immer durch die Welt von Termin zu Termin eilen. Ich muss was diese Sache angeht aber auch sagen, ich habe keine Ahnung wo da mein Standpunkt ist. Wahrscheinlich irgendwo in der Mitte. Gefühl habe ich schon viel zu viele Leute gesehen die zu gehetzt durch das Leben gehen und alles viel zu ernst nehmen. Und dann gibt es da noch diesen eine Dudette oder Dude die einfach viel zu chillig bei allem ist. Das ist dann maximal entschleunigt aber auch ziemlich ärgerlich für alle Anderen. Wenn man einen schnellen Lebensstil hat und dann plötzlich still steht ist das aber auch nervig, besonders wenn man das nicht beeinflussen kann. Extra nervig aber auch wenn man in einer sozialversicherungspflichtigen Erwerbstätigkeit steckt und dann diese nicht mehr ausüben kann weil andere Leute entschieden haben zu entschleunigen. So wie die Dock-Arbeiter in Disco Elysium. Das führt dann zu einem Stau.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 18.04.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 

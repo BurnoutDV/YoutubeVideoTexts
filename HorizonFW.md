@@ -634,6 +634,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #38
+
+* Titel: `Horizon Forbidden West - #38 - das Grimmhorn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zur Erinnerung und um noch einmal kurz alle Leute abzuholen, im ersten und einzigen DLC zu Zero Dawn gab es bessere Gegner die Aloy oder irgendjemand anderes "Jäger Killer" genannt hat. Ich muss bei den Namen übrigens immer an die besseren Hydralisken aus der zweiten Starcraft 1 Zerg Mission denken. Oddly specific? Aber sowas von, aber halt das erste Mal das mir dieser Name untergekommen ist. Schuld daran ist eine der GAIA KIs, passend HEPHAESTUS genannt. Der göttliche Schmied ist nämlich für die Erschaffung und Erhaltung der Maschinen die die Welt terraformen zuständig. Als der quasi kreative Teil von GAIA hat er die Viecher erschaffen. Das HADES Signal hat auch ihn irgendwie unabhängig gemacht obwohl das gar nicht der Plan war. Ich würde mal ins Blaue vermuten das es die große Anzahl an Computern durch die Brutstätten war die ihm mehr Bewusstsein als zum Beispiel ARTEMIS erlaubt haben. In Frozen Wilds hat HEPHAESTUS dann eine andere KI die eigentlich die Yellowstone Caldera überwachen sollte mehr oder weniger zur Geisel genommen und eine Brutstätte überhöht. Dadurch wurden dann ganz neue Maschinen gebaut. Von allem was wir so wissen ist HEPHAESTUS aber immer noch an seine alte Programmierung gebunden..in Teilen. Er erschafft immer noch Tiere die unnötige Eigenschaften haben, und komplette Neuentwicklungen fallen ihm offenbar schwierig, eventuell sogar unmöglich, und alles was er baut sind nur verbesserte oder veränderte Designs von dem was ist. Oder aber, er liebt die Tiere in seiner Art und Weise wirklich, was auch der ursprüngliche Grund war warum er überhaupt erst die Maschinen schützen wollte. So oder so, kaputte aber noch funktionierende Maschinen scheinen wirklich repariert zu werden anstatt einfach aus Licht neu erschaffen. Faszinierend. Das bringt uns dann übrigens zurück zu Fa, der verschwundenen Maschine.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 12.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #39
+
+* Titel: `Horizon Forbidden West - #39 - Muttergöttin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aloy hatte nie eine Mutter. Das ist besonders dramatisch wenn man bedenkt das die große KI damals entschieden hat sie genau da zu gebären wo es einen Mutterkult gibt. Andererseits ist die Anzahl der möglichen Stätten zur Erschaffung von neuen Menschen wahrscheinlich ziemlich begrenzt. Zumindest wenn man nur das Kind gebären kann danach aber keine Nährstoffe mehr besitzt, bis jetzt sind wir über keine weitere ELUTHIA Einrichtung gestolpert, komisch eigentlich. Die Nora glauben an eine Muttergöttin was, soweit wir wissen mit der überlieferten Stimme der Erschafferin des globalen Wissens und damit APOLLO zu tun hat. Wir wissen leider nichts Weiteres da alle Informationen verschollen sind. Die Nora halten auch die Stimme der großen Tür die in ihre lokale ELUTHIA Einrichtung führt für die Göttin. Das ist nicht ganz richtig. Heute aber treffen wir eine echte Göttin. Auch wenn ihr Einfluss im Moment noch recht beschränkt ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 12.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

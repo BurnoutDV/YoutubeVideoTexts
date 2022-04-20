@@ -1524,6 +1524,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #95
+
+* Titel: `KotOR 2 - #95 - Khoondas Verteidigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir folgen hier einen Schema. Ich kann da aber keine Vorwürfe machen, die Dinge sind ziemlich klar, wenn man sich auf eine Verteidigung vorbereitet dann können eigentlich nur zwei Dinge geschehen: die Angreifer sehen das und blasen die Operation noch einmal ab weil sie eine andere Lösung besser finden oder sie greifen halt an. Da unser guter Söldner Anführer Azkul sich wohl sehr siegessicher ist und anscheinend nicht mal unser Profil aufgerufen hat denkt er also ernsthaft das er eine Chance hat. Heute werde ich seinen Männern zeigen was es mit der Laola-Welle des Todes auf sich hat. Die ist nämlich tödlich. In solchen Situationen kann ich aber auch nicht anders als an all die Leute zu denken die in diesem Kampf mit rein gezogen wurden, auf beiden Seiten. Klar, die Söldner kannten das Risiko, aber ursprünglich hatten die sich bestimmt auch ein anderes Leben erhofft. Es fängt ja keiner an in die Welt hinaus zu ziehen um zu sagen "heute schlachte ich Zivilisten ab". Oder vielleicht doch, aber die meisten Leute eher nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 14, Aufnahme vom 14.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -535,6 +535,21 @@
   Sitzung 5, Aufnahme am 15.04.2022
   ```
 
+##### #36
+
+* Titel: `Deathloop - #36 - Fias Farbbunker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf ganz Blackreef gibt es Anlagen von etwas das sich Horizon nennt. Außerdem gibt es noch das RAK, das Äon-Projekt und Eternalisten. Diese Namen hängen alle nicht zusammen und doch gibt es sie in dieser Welt. Wir haben eine ganz gute Vorstellung warum die Eternalisten und das Äon-Projekt so heißen wie sie es tun. Was genau Horizon vorgehabt hat ist uns allerdings schleierhaft. Weiter wissen wir das es Spione vom Festland gibt die interessante Namen wie Rotvogel als Codename benutzen. Dann haben wir noch ein paar Instanzen von Soldaten bzw. militärischen Wissenschaftlern aus der Vergangenheit die Sobel, Berenzin oder Pishtek heißen. Vielleicht ist das eine Referenz zu irgendetwas. Ich weiß es nicht. Noch ein Datenpunkt ist das unser Team von Visionären ziemlich divers ist. Und es ist 1963. Die Jahreszahl könnte übrigens eine Finte sein, bis her gibt es eigentlich keine klaren Beweise das wir auf der Erde sind, von allem was wir wissen könnte das hier auch die Welt von Dishonored in der Zukunft sein. Künstler wie Fia machen das dann auch nicht einfacher, die gute wirkte in ihren Briefen übrigens nicht ganz so durchgedreht. Heute machen wir uns auf den Weg sie aus dem Leben zu nehmen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 6, Aufnahme am 17.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

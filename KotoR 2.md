@@ -1540,6 +1540,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #96
+
+* Titel: `KotOR 2 - #96 - Meister Vrook [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus unerklärlichen Gründen hatte ich eigentlich damit gerechnet das unser guter Meister Vrook während der Verteidigung von Dantooine bzw. der lokalen Regierung versterben würde. Das wäre auch irgendwie logisch gewesen, bisher sind wir einfach viel zu flüssig durch die ganze Geschichte gekommen. Bis auf die unschuldigen Techniker die von G0T0 getötet wurden haben bis jetzt quasi alle Charaktere mit denen wir interagiert haben ziemlich gut und auch viel zu gut überlebt. Klar, hier und dort gab es ein paar ärgerliche Ausfälle wie diesen einen Ruinenplünderer der eventuell ein wenig zu sehr auf mich gehört hat aber man kann halt einfach nicht alle retten. Meister Vrook hat also überlebt, wir erinnern uns, er ist auch der Typ der uns andauernd irgendwelche Vorwürfe macht, das nervt. Auffällig ist auch der völlig Mangel an jeder Art von Selbstkritik an der Taten an der alten Jedi. Das macht es ein wenig schwierig mit ihm zu reden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 14, Aufnahme vom 14.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

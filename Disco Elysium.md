@@ -252,6 +252,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #17
+
+* Titel: `Disco Elysium - #17 - Denkmal der Verschwendung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Geschichte von Revanchol aber auch Martinaise ist irgendwie etwas Besonderes. Wie besonders wissen wir natürlich noch nicht aber das wird sich schon bei Zeiten herausstellen. Die Sachlage ist jetzt also so, die Stadt ist unter Kontrolle von etwas das sich die Koalition nennt. Die Polizei wird etwas das sich die Bürgermiliz nennt gestellt, davor gab es anscheinend einen König, der wurde gestürzt weil sein Vorgänger zu massiver Verschwendung geneigt hat. Wir sind also in Frankreich des mittleren 18ten Jahrhunderts. Nur anstatt Napoleon gab es halt eine kommunistische Revolution, und die Technik war ein wenig schneller unterwegs. Und dann gibt es da noch ziemlich freie Künstler die sich zwischendurch ein paar Scherze erlaubt haben. Wenn eine Regierung nicht besonders stark ist führt das wahrscheinlich dazu das kriminelle Banden die Kontrolle übernehmen, aber die haben meistens auch wenig Ressourcen für die Zensur von Kunst. Wenn es nicht grade direkt ihre Geschäftspraktiken betrifft können gewöhnliche Verbrecher ja wohl kaum ein Interesse daran haben irgendwelche Maler oder Bildhauer einzuschüchtern, insofern sind das auch Chancen. Von der unglücklichen wirtschaftlichen Lage einmal abgesehen könnte das tatsächlich der Fall sein. Wie es auch sei, wir finden eine Statue und damit auch ein Stück Geschichte, das Denkmal hat also seinen Zweck erfüllt. Schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 18.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

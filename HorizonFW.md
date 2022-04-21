@@ -664,6 +664,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #40
+
+* Titel: `Horizon Forbidden West - #40 - Zo's Training [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben besteht aus Lernen. Dagegen steht das Verlangen mit Dingen fertig zu sein. In einer gewissen Weise sterben die Menschen wenn sie aufhören zu lernen und da stehen bleiben wo sie sind. Tatsächlich eine große persönliche Angst das man sich irgendwann umdreht und merkt das man sich gar nicht mehr bewegt hat, schon sehr sehr lange. Während ich das hier schreibe fällt mir so auf das das auch ein gutes Kommentar für Deathloop gewesen wäre, dort gibt es eine ähnliche Prämisse. Wie dem aber auch sei, wir kennen Zo erst seit relativ kurzer Zeit, aber es scheint das sie trotz ihres jungen Aussehens doch schon ziemlich alt ist..oder jung angefangen hat alt zu sein. So oder so hat sie bereits zwei Leben hinter sich. Und jetzt gibt es in ihren Augen eine kleine Sinnkrise, alles was sie dachte das die Realität ausmacht hat aufgehört zu existieren. Die Kultur der sie angehört basiert auf die fehlerhafte Interpretation der Zeichen die nur durch massives Unwissen verursacht wurde. Nicht wenige Leute wären daran zerbrochen, nicht Zo. Zo ist stark und entscheidet sich weiter zu machen, zu lernen und darüber hinweg zu gehen um ein neues Leben zu beginnen. Und so wird Zo die erste Bewohnerin der Basis um zu lernen. Wer wohl noch alles dazu kommt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

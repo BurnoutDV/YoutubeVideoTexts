@@ -550,6 +550,21 @@
   Sitzung 6, Aufnahme am 17.04.2022
   ```
 
+##### #37
+
+* Titel: `Deathloop - #37 - Flucht vor Julianna [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die letzten Male das ich ein Zusammentreffen mit Julianna hatte war es eigentlich relativ leicht für mich, beim ersten Mal war ich noch etwas verwirrt und wirklich etwas panisch, dann kam das zweite Mal als ich dann schon wusste was funktioniert aber seit dem bin ich immer ein wenig paranoid mit zu wenig Waffen in den Tag zu gehen, beim dritten Mal in der Karlsbucht wusste ich ziemlich genau was mich erwartet und habe mich auf ein Attentat verstanden. Das ging wirklich schnell, man stelle sich vor Julianna würde mich so überraschend attackieren. Wie dem aber auch sei, heute laufen die Dinge alle ein wenig anders. Dank Reprise bin ich in der Regel ja ziemlich entspannt was die Gesamtangelegenheit angeht, dies sieht nun ein wenig anders aus da ich recht schnell zwei Aufladungen verloren habe und das heißt das der nächste Tod tatsächlich mein letzter ist. Das ist mir bisher noch gar nicht passiert, unser guter Captain Colt hat bisher jeden Tag überlebt, auch wenn es wohl letztendlich kaum einen Unterschied macht. Daher muss ich taktisch vorgehen, und vorsichtig. Wertvollster Spieler in diesem Szenario ist aber  definitiv die Teleportfähigkeit die mir ausreichend Geschwindigkeit für meine Flucht gegeben hat.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 6, Aufnahme am 17.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -679,6 +679,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #41
+
+* Titel: `Horizon Forbidden West - #41 - Ruhelose Wildnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das erste und einzige DLC für Zero Dawn hieß ja bekannterweise "Frozen Wilds". Wenn man diesem Namensschema ein wenig kreativ folgt könnte man ja meinen das es sich bei der ruhelosen Wildnis ebenfalls um eine solche Erweiterung handelt. Dem ist allerdings nicht so, stattdessen laufen wir immer noch im Dunstkreis von Reinklang umher und erledigen die Ruinen und Orte die es dort zu finden gibt. Ich bin mir ziemlich sicher das sich das Spiel echt lange ziehen wird wenn ich weiter in dieser Geschwindigkeit mache. Wie dem aber auch sei, bei der ruhelosen Wildnis handelt es sich anscheinend um einen Naherholungsort mit angeschlossenen Feriencamp. Was genau man dort getan hat kann ich nicht sagen aber wenn ich dann irgendwann einmal von dem Ort weggehen werde wird Aloy mir sagen das es noch etwas zu holen gibt. Ich habe bloß leider absolut keine Ahnung um was es sich handelt. Auch mit dabei sind übrigens auch die etwas zu aggressiven Launen meines Reittieres das ich wohl versehentlich auf Angriff anstatt auf Passiv gestellt habe. Das war ein großer Fehler.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

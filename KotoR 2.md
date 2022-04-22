@@ -1556,6 +1556,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #97
+
+* Titel: `KotOR 2 - #97 - Landung auf Dxun [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir landen mal wieder. Das hat Tradtion. Richtig viel sogar. Die Ebon Hawk hat auch eine lange Geschichte der Landungen an verschiedenen Orten. Manchmal sogar unter Feindbeschuss. Übrigens so wie heute. Warum genau wir beschossen wurden ist definitiv unklar aber was auf jeden Fall wichtig gewesen wäre wäre ein neues Raumschiff zu aquieren. Mir ist ein absolutes Rätsel warum wir immer noch mit diesem bunten Hund von Weltraumschrott durch die Welt fliegen. Offensichtlich weiß absolut jeder und seine Mutter das der "letze" Jedi in der Kiste steckt und das man sich auf Nar Shaadar gutes Geld abholen kann wenn man ihn tot oder lebendig überreicht. Wir sollten das mittlerweile auch wissen, also warum zur Hölle fliegen wir immer noch mit diesem Ding durch die Welt. Es kann doch nicht sein das es im Universum einen Mangel an Raumschiffen gibt. Nicht einmal ein Mangel an Raumschiffen die man ohne allzu viele Papier eintauschen kann. Wir haben ja durchaus Geld und so unendlich teuer kann so ein Schiff eigentlich nicht sein wenn man sich anschaut wie viele Leute eines besitzen. Würde ein Schiff Millionen von Credits kosten gäbe es ja keine privaten Kapitäne, also die Typen die wir andauernd überall treffen. Auf jeden Fall landen wir heute auf Dxun, dem Dschungelmond von Onderon..mit der Ebon Hawk, weil das Sinn ergibt. Und Kreia tut wieder Dinge. Ist das nicht toll?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 14, Aufnahme vom 14.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

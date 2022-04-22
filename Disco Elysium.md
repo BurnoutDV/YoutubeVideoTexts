@@ -267,6 +267,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #18
+
+* Titel: `Disco Elysium - #18 - ein Hauch Rassismus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schwierige Situation. Aus mehren Gründen sogar. Youtube bzw. Google strebt ja an das die Videoplattform ein "feel-good" Medium wird, positive lächelnde Menschen die einen Hochglanz Produkte verkaufen und die Kinderarbeit in Bangladesh wollen wir mal nicht erwähnen. Das ist nicht weil man so sehr darum bemüht den Leuten nicht die Laune zu verderben aber harte Themen könnten die Leute dazu bringen weniger zu kaufen, und eventuell die Gesamtsituation zu überdenken, obwohl ich das eher bezweifle. Kunst hat auch die Aufgabe der Gesellschaft mit einer unmöglichen alternativen Darstellung der Realität einen Spiegel vor zuhalten. Disco Elysium hat bis jetzt quasi kein Gameplay, es ist nur Kunst. Ein interaktives Buch zum lesen mit vielen Entscheidungen. Nicht alle Spiele sind Kunst. Dann ist da noch die Komponente das viele Menschen bereits ein Leben haben das auch ohne weitere Probleme schwierig genug ist, in diesem Fall dienen Medien und die Unterhaltung auch dazu von der realen Welt abzulenken. Ein Buch zu lesen und von Jungfrauen die Ritter aus den Klauen eines Drachen befreien zu träumen hilft der Realitätsflucht. Eine Situation wie wir sie heute erleben ist viel zu nahe dran, insbesondere wenn sie eine Lebensrealität darstellt die man vielleicht selber nicht direkt erlebt aber schon beobachtet hat und als kleineres Problem betrachtet hat weil es ja am Seitenrand geschieht. Und plötzlich steht man mitten drin. Das macht es schwierig weg zu schauen, und das einfach so in der Unterhaltung. Disco Elysium benutzt heute einen relativ klassischen Rassismus, Kitsuragi ist irgendeine Geschmacksrichtung Asiate, die Geschichte lehrt uns das Menschen ziemlich gut darin sind Unterschiede zu finden und diese dann zu hassen. Und sei es nur die Sprache, oder die Augenfarbe. Zum Glück sind aber wir da.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 18.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

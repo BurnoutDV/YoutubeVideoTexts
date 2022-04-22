@@ -565,6 +565,21 @@
   Sitzung 6, Aufnahme am 17.04.2022
   ```
 
+##### #38
+
+* Titel: `Deathloop - #38 - Fia Zborowska [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Wahnsinn der verschiedenen Visionäre ist schwierig gegeneinander abzuwägen, mit Fia haben wir jetzt übrigens unser letztes Opfer gefunden und damit dann auch wirklich alle Visionäre erschossen. Obwohl, Harriet haben wir bis jetzt nur er-machetet weil mir das sicherer schien. Beim nächsten Mal muss ich da dennoch schneller sein. Fia ist eine Künstlerin, wenn ich das richtig verstanden habe ist sie Tochter eines Transportmagnaten und dementsprechend reich. Und halt Künstlerin. Ich muss befürchten das die Welt von Deathloop auch eine Welt ist in der man sich nicht einfach so künstlerisch entfalten kann sondern schon irgendwie das tägliche Leben abgesichert haben muss damit das alles überhaupt funktioniert. Die gute Frau Zboroswka hat das offenbar und auch auf Blackreef folgen die Visionäre dem was sie will. Wahrscheinlich aber nicht wegen des Geldes. Von einigen anderen Notizen wissen wir übrigens auch schon das die Eternalisten nicht immer völlig überzeugt sind und einige von ihnen bereits vor dem Loop permanent entsorgt wurden. Niemand kann sagen das die Visionäre nur wegen des Loops so brutal sind.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 6, Aufnahme am 17.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

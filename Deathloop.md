@@ -580,6 +580,67 @@
   Sitzung 6, Aufnahme am 17.04.2022
   ```
 
+##### #39
+
+* Titel: `Deathloop - #39 - Sepulchra Breteira [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist in der Aufnahme für Episode 45 (der neusten Aufnahme zum Zeitpunkt dieses Textes) aufgefallen das ich getrennte Hinweise für Arsenal und Visionäre habe. Am Anfang hatte ich nur gesehen das ich irgendwelche Tafeln erhalten soll. Mittlerweile habe ich diese Reihen ja alle erfüllt, auch wenn das Spiel mir immer noch versucht bei zu bringen Fias Tafeln zu stehlen. Das ich die schon lange von Julianna erhalten habe sei jetzt einmal dahingestellt. Also zur Sache. Es scheint so als seine die gesetzestreuen Bürger von Updaam es Leid den ganzen Tag Wache zu stehen und wollen uns eine Falle stellen. Das ist absolut klar, übrigens ist das Siegel das war am Ende erhalten nicht nur wertlos sondern hat sogar einen negativen Effekt. Das ist ein absolutes Novum. Jetzt wo ich das so schreibe fällt mir auch auf das das die einzelnen Siegel noch einmal wesentlich nuancierter hätte machen können. Wenn es Siegel gegeben hätte die sowohl negative als auch positive Effekte hat, so wie halt auch die Artefakte in Dishonored 2. Das Crafting System haben sie sich dieses Mal ja zum Glück erspart. Die gute Nachricht übrigens, wir kommen dieses Mal mit einer zusätzlichen Waffe raus.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 6, Aufnahme am 17.04.2022
+  ```
+
+##### #40
+
+* Titel: `Deathloop - #40 - Courage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zu einem späteren Zeitpunkt werde ich erfahren das der gute Charlie anscheinend mehre Preise für seine Spiele gewonnen hat. Das ist an sich ja schon einmal sehr beeindruckend, Charlie kann also wirklich etwas. In all seinen Irrsinn wirkt er nämlich immer so als könne er vielleicht gar nicht einmal so viel. Die Bedingungen auf Blackreef führen auf jeden Fall dazu das Charlie einige Begrenzungen der 60er Jahre dadurch beseitigen kann in dem er die Leute wirklich sterben lässt. Später finden wir Notizen das er quasi Werwolf nur mit echten Mord spielen wollte, oder besser gesagt so ein Morddinner. Nur ist er zu dumm den Plot zu schreiben. Wir kennen bereits das Jagd auf den Eindringling Spiel, und soweit ich das erkennen kann ist echter Mord darin durchaus vorgesehen, zumindest bringe ich immer die Leute um, größtenteils weil ich kann. Am Nachmittag hat Courage geöffnet, tatsächliche Laser in kleiner Bauform unterzubringen ist gar nicht so einfach, eine weitere Beschränkung der 60er Jahre würde ich vermuten. Übrigens kann man nicht alle Arten von Laser durch Lichtleitkabel leiten, bei zum Beispiel CO2 Laser helfen nur komplizierte Spiegelkonstruktionen..bei denen man dann aufpassen muss das die Spiegel nicht irgendwie dreckig werden, auch kann man nicht einfach jedes Material nehmen. Warum erzähle ich das? Weil Charlies Spiel das durchhüpfen durch Laserfallen beinhaltet und das ist gar nicht einmal so einfach. Aber immerhin sind die Laser nicht tödlich, weil das halt nicht so einfach zu machen wäre. Courage ist nicht unbedingt mein Lieblingsspiel.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 6, Aufnahme am 17.04.2022
+  ```
+
+##### #19
+
+* Titel: `Disco Elysium - #19 - Frittte mit ausreichend T [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Viele Spiele haben oft das Problem das sie zwar an Orten spielen in denen Menschen leben sollen aber die Orte selbst eigentlich überhaupt nicht dafür geeignet sind. Klassischerweise haben Egoshooter zum Beispiel einen auffälligen Mangel an Sanitäranlagen an Orten die vielleicht Militäranlagen sind aber Soldaten müssen auch irgendwo kacken gehen oder? Oder aber wir laufen durch eine Stadt in der tausende Leute leben sollen aber vorfinden tun wir nur die Wohnungen nicht aber die Einkaufsmöglichkeiten für all diese Menschen, es mangelt einfach an grundlegender Infrastruktur. In Disco Elysium haben wir dieses Problem nicht. Nicht nur gibt es in Martinaise nicht so viele Leute, wir finden auch einen lokalen Einkaufsladen. Die Auswahl ist zwar außerordentlich beschränkt aber es gibt einen ziemlich wichtigen Pfandautomaten. Hier könnten wir gesammelte Flaschen abgeben und so richtig dolle reich werden. Außerdem hat es einen gelangweilten Teenager hinter dem Tresen, was kann man sich mehr wünschen, außer vielleicht mehr F? 
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 18.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #20
+
+* Titel: `Disco Elysium - #20 - muskelbepacktes Recht zur Arbeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einer gerechten Gesellschaft gewinnt das Argument das am besten konstruiert ist und innerhalb der geltenden Gesellschaft am meisten Anklang findet. Je komplexer die Gesellschaft wird umso mehr verschiebt sich die Argumentation und Funktion der Gesamtstruktur in Richtung geistiger Kräfte und weg von purer animalischer Muskelkraft. Martinaise ist ein ganz besonderer Ort in dem die geltende Ordnung nicht mehr so existiert wie sie es einst getan hat. Und selbst in völlig normal funktionierenden Gesellschaften kann es durchaus vorkommen das es Taschen der Irrationalität gibt. Man könnte also durchaus von einer Verrohung der gesamtgesellschaftlichen Struktur reden wenn sich zu oft die physisch stärkeren durchsetzen, aber die Wege von Argumenten und historischen gewachsenen Rechtestrukturen können auf Dauer soviel Reibung erzeugen das irgendwann der Punkt kommt an dem normale Menschen genug haben. Und dann zählt wieder was man im Arm und nicht im Kopf hat, in der Regel für alte, körperlich Benachteiligte oder Frauen eher nicht der Idealzustand. Und deswegen ist der Anführer der Streikbrecher mit dem wir heute reden ein großer, muskelbepackter Mann und bestimmt nicht von den Bossen angeheuert worden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 18.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -282,6 +282,37 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #19
+
+* Titel: `Disco Elysium - #19 - Frittte mit ausreichend T [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Viele Spiele haben oft das Problem das sie zwar an Orten spielen in denen Menschen leben sollen aber die Orte selbst eigentlich überhaupt nicht dafür geeignet sind. Klassischerweise haben Egoshooter zum Beispiel einen auffälligen Mangel an Sanitäranlagen an Orten die vielleicht Militäranlagen sind aber Soldaten müssen auch irgendwo kacken gehen oder? Oder aber wir laufen durch eine Stadt in der tausende Leute leben sollen aber vorfinden tun wir nur die Wohnungen nicht aber die Einkaufsmöglichkeiten für all diese Menschen, es mangelt einfach an grundlegender Infrastruktur. In Disco Elysium haben wir dieses Problem nicht. Nicht nur gibt es in Martinaise nicht so viele Leute, wir finden auch einen lokalen Einkaufsladen. Die Auswahl ist zwar außerordentlich beschränkt aber es gibt einen ziemlich wichtigen Pfandautomaten. Hier könnten wir gesammelte Flaschen abgeben und so richtig dolle reich werden. Außerdem hat es einen gelangweilten Teenager hinter dem Tresen, was kann man sich mehr wünschen, außer vielleicht mehr F? 
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 18.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #20
+
+* Titel: `Disco Elysium - #20 - muskelbepacktes Recht zur Arbeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einer gerechten Gesellschaft gewinnt das Argument das am besten konstruiert ist und innerhalb der geltenden Gesellschaft am meisten Anklang findet. Je komplexer die Gesellschaft wird umso mehr verschiebt sich die Argumentation und Funktion der Gesamtstruktur in Richtung geistiger Kräfte und weg von purer animalischer Muskelkraft. Martinaise ist ein ganz besonderer Ort in dem die geltende Ordnung nicht mehr so existiert wie sie es einst getan hat. Und selbst in völlig normal funktionierenden Gesellschaften kann es durchaus vorkommen das es Taschen der Irrationalität gibt. Man könnte also durchaus von einer Verrohung der gesamtgesellschaftlichen Struktur reden wenn sich zu oft die physisch stärkeren durchsetzen, aber die Wege von Argumenten und historischen gewachsenen Rechtestrukturen können auf Dauer soviel Reibung erzeugen das irgendwann der Punkt kommt an dem normale Menschen genug haben. Und dann zählt wieder was man im Arm und nicht im Kopf hat, in der Regel für alte, körperlich Benachteiligte oder Frauen eher nicht der Idealzustand. Und deswegen ist der Anführer der Streikbrecher mit dem wir heute reden ein großer, muskelbepackter Mann und bestimmt nicht von den Bossen angeheuert worden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 18.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

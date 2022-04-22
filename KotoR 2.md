@@ -1572,6 +1572,38 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #98
+
+* Titel: `KotOR 2 - #98 - Söldnermond Dxun [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dxun ist absolut gar kein Söldnermond. Die haben da weder eine Basis noch gibt es besonders viele von ihnen dort um genau zu sein gibt es dort ungefähr drei Söldner die wir so schnell über den Haufen ballern das man sich ernsthaft fragt warum ich überhaupt jemals Zeit damit verschwendet habe mit irgendjemanden zu reden und nicht gleich die Waffen hab sprechen lassen. Wie dem aber auch sei, wir treffen außerdem noch ein paar verteilte HK Roboter, das ist außerordentlich erfreulich weil es auch bedeutet das ich jetzt diese lustige Side-Quests mit HK-47 und seiner Fabrik machen kann die sich mir vorher als kleines Dorn erwiesen hatte. Jetzt müssen wir nur noch irgendwie von Dxun herunter kommen. Wir wissen ja bereits das Kreia aus irgendwelchen Gründen dagegen ist. Mich nervt übrigens mächtig wie uns die alte Frau von hinten die ganze Zeit manipuliert und alle möglichen Leute beeinflusst. Aber selbst HK-47 scheint nicht überzeugt zu sein aktuell irgendjemanden aus der Zuckerwatte des Lebens zu entfernen. Wir treffen heute übrigens auch Wildleben, davon sogar ziemlich viel, ob die in irgendwelchen paramilitärischen Vereinigungen waren die sich an den meistbietenden Verkaufen weiß ich nicht aber ich würde es für den Moment nicht annehmen. Der Titel dieser Episode ist einfach total Panne aber mir fällt kein besserer ein. Dschungel von Dxun ist für später reserviert, auch wenn die Folge dann gar nicht mehr so heißt, aber der echte Dschungel kommt halt erst noch später.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 15, Aufnahme vom 21.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #99
+
+* Titel: `KotOR 2 - #99 - mandalorianischer Kampfzirkel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Überraschung! Auf Dxun gibt es vielleicht keine größere Anzahl von Söldner dafür aber haufenweise Mandalorianer. Eigentlich verdingen die sich auch alle als Söldner aber das ist hier ein wenig anders. Das hier sind echte Mandalorianer, quasi genauso aus dem Krieg entstiegen und bereit erneut die Galaxie in Flammen zu stecken. Alles was ihnen jetzt noch fehlt sind Waffen, Ausrüstung, Schiffe, Personal, Großkampfschiffe, Fighter, Wartungscrews und alles Andere was man halt so braucht wenn man erfolgreich einen intergalaktischen Krieg führen will und die Kernwelten in Flammen stecken möchte. Aber die Mandalorianer hier sind der "real deal", ganz sicher und Faust drauf. Was sie auf jeden Fall haben ist ein echter mandalorianischer Kampfzirkel in denen sich die Stärksten Kämpfe beweisen können und Mann gegen Mann zeigen dürfen wie stark sie wirklich sind. Da machen wir doch mit, ich muss übrigens anmerken das ich anscheinend aus Versehen den Schwierigkeitsgrad die ganze Zeit auf Niedrig hatte, ich weiß nicht wie lange schon, eventuell seit dem letzten Kampf gegen die Dienerin, das würde auch erklären warum wir so hart durchroffeln. Ich glaube nicht das sich irgendetwas geändert hätte. Weder der Angriff auf Dantooine oder die Begegnungen in der Enklave wären sehr viel schwerer geworden, wir haben einfach zu viel von diesem Macht-Saft. Dennoch fällt mir das erst hier auf wo ich mich wundere warum ich auf einmal sogar im Nahkampf gewinne.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 15, Aufnahme vom 21.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

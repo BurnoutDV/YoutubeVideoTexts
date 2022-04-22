@@ -694,6 +694,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #42
+
+* Titel: `Horizon Forbidden West - #42 - Die Wendung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wieder einmal ein irreführender Titel. Es gibt gar keine große Storywendung oder irgendetwas in der Art. Die Tenakth oder wer auch immer für die Benennung der verschiedenen Orte hier in der Gegend zuständig war hat den Ort den wir heute besuchen einfach nur "die Wendung" genannt. Wahrscheinlich weil es sich um einen Grenzübergang zu der nächsten Region und damit auch tatsächlich dem Land der Tenakth handelt. Wir machen heute auch noch eine Menge anderer Sachen aber am Ende lösen wir eines der nervigen Rebellenlager auf. Ein Rebellenlager das auf den ersten Blick übrigens ziemlich beeindruckend aussah, bei näherer Betrachtung aber dann doch gar nicht so mächtig war, Aloy ermordet mit Leichtigkeit 15 Menschen die nie wieder von ihrer Familie gesehen werden, aber es waren ja Rebellen, da passt das schon. Und damit haben wir dann übrigens auch einen zweiten Weg eröffnet, zum reinen Transport war unsere Tätigkeit überhaupt nicht notwendig weil wir bereits durch die Gänge der Basis hätten rennen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #43
+
+* Titel: `Horizon Forbidden West - #43 - ein gespaltener Stamm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man auf die Karte schaut sieht man das wir eigentlich von diesem verbotenen "Westen" so gut wie gar nichts bereist haben, genauso gut könnte man sagen wir halten uns bisher eher im nicht-so-verbotenen mittleren Osten auf oder so, aber die amerikanische Bezeichnung ist wohl mittlerer Westen, viele reiche Kornfelder würde ich hier erwarten, aber ich kennen mich dann auch nicht so gut aus um das irgendwie zu beurteilen. Zur Sache. Wir sind also hier noch weit weg vom eigentlich Westen und der Region wo eigentlich die Tenakth leben wollen wegen denen wir uns unfassbar viele Sorgen gemacht haben. Das ist generell ein großer Punkt wie ich feststellen möchte. Am Anfang gab es da diesen riesen Buhei mit der Gesandtschaft und all diesem Zeug und jetzt stellt sich heraus das wir wohl Sylens, GAIA, HADES und die Latopolis ohne irgendwelche Probleme ohne jede weitere Verkomplikation hätten treffen können. Für den weiteren Weg wäre uns bestimmt auch was eingefallen und eigentlich kann ja auch jeder erkennen das wir keine Carja sind. Warum also das große Problem? Die Tenakth scheinen doch so fern zu sein, stellt sich doch glatt heraus, so fern sind die gar nicht, heute finden wir sie, in einer Höhle. Schön. Außerdem erfahren wir etwas über die ominösen Veteranen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

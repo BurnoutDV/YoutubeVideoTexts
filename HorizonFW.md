@@ -724,6 +724,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #44
+
+* Titel: `Horizon Forbidden West - #44 - Schatten im Westen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kurz bevor wir uns damals dazu entschlossen haben in den ach so verbotenen Westen zu reisen haben wir erfahren das Aloy wohl die Eclipse damals doch nicht so vollständig besiegt hat wie ich mir das vorgestellt hatte. Das ist überhaupt gar kein Problem, ein Fehler den wir in ganz geringer Zeit wieder ausgleichen können. Ein wenig schade ist es natürlich für die Otaru die zwischenzeitlich gefangenen genommen und zur Zwangsarbeit gezwungen wurden. Hätten wir uns sofort um das Problem gekümmert wäre bestimmt einiges an Leid erspart geblieben und die Welt wäre dadurch auch nicht schneller untergegangen. Aber hey, jetzt sind wir ja da um die Reste vom Tag zu retten die man noch retten kann, alles also gar kein Problem oder? Muss ja keiner wissen das wir trotz deutlicher sachdienlicher Hinweise ein wenig getrödelt haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

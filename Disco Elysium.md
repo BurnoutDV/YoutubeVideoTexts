@@ -313,6 +313,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #21
+
+* Titel: `Disco Elysium - #21 - Zwischenhalt des Besitztum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich versuche ja immer so ein wengi "artsy" bei der Benennung der Episoden zu sein. Hier wollte ich anscheinend ausdrücken das Gegenstände durchaus jemand Anderem gehören bevor sie ihrem rechtmäßigen Besitzer, also mir, anvertraut werden. Das habe ich wohl nicht gemeint, wenn ich scharf nachdenke meine ich das wir einen Pfandleiher besuchen, und da der Mann ziemlich viel zu sagen hat nehme ich an das das genau jetzt passiert. Wir besuchen heute also einen Pfandleiher, bei einer solche Institution kann man wohl durchaus von einem Zwischenhalt reden. Die Gegenstände sind geparkt, für den Moment, bis jemand kommt der sie kauft. Mir ist allerdings nicht so ganz klar wie genau eigentlich ein Pfandverleiher in Martinaise irgendwelche Gewinne einfährt. Den Leuten ihren Besitz für viel zu wenig Geld abzunehmen ist ja eine Sache, aber was macht man dann damit? Hat man da gute Kontakte die einen das Zeug für einen Wert abnehmen der näher am Original dran ist? Oder ist es eher das Hoffen das jemand vorbei kommt der etwas völlig überteuert abkauft? Immerhin ist der Besitzer im richtigen Gehirnzustand um mit uns zu interagieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 18.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #41
+
+* Titel: `Deathloop - #41 - kalte, dunkle Bucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren noch nie...an so vielen Orten, aber heute ist es die Karlsbucht, so gesehen waren wir natürlich schon überall aber auf der anderen Seite waren wir dann doch nirgendwo so richtig weil die Orte ja offensichtlich nicht die Spuren unserer Anwesenheit tragen. Heute gehen wir also zurück an die Karlsbucht, einen Ort mit anscheinend sehr wechselhafter Bewegung. Ich rechne damit das es mittlerweile kein Mammut mehr gibt, aufgegessen von hungrigen Visionären. Ich weiß das es das tatsächlich gibt, uralte im Permafrost gestorbene Tiere die quasi bis zur Jetztzeit konserviert wurden. Dennoch kann ich mir irgendwie nicht so recht vorstellen ein solches Tier zu essen. Fakt ist aber, Karlsbucht sieht bei Nacht doch ein wenig anders aus als am Morgen. Schuld ist anscheinend auch Charlie Montague den wir in diesem Durchlauf wohl nicht getötet haben, aber immerhin haben wir Frank sein Feuerwerk verdorben, interessant ist übrigens das der gute Frank anscheinend nicht in Karlsbucht anzutreffen ist obwohl das doch der Ort ist an dem dieses gestartet wird. Nun gut, es gibt ja immerhin noch ein paar Rätsel zu lösen, und irgendwelche Leute auf Dächern zu erschießen. Das machen wir dann erst einmal. Und danach finden wir die verbleibenden Hinweise.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 7, Aufnahme am 22.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1604,6 +1604,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #100
+
+* Titel: `KotOR 2 - #100 - die Gedanken des Boma [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser unbekannter und momentan noch eigentlich nicht so recht berühmte Held hat anscheinend eine große Fähigkeit, er (bzw. im Kanon eigentlich sie) kann sich mit so ziemlich allem auf einer Weise verbinden die den meisten Jedi anscheinend nur zwischen Padawan und Meister vorenthalten ist. Und das können wir auch noch mehrfach, nicht nur einmal. Was liegt also näher als die Fähigkeit mit diversen Tieren reden zu können. Schon in den Divinity Spielen war es ja eine außerordentlich nützliche Fähigkeit mit der Fauna zu kommunizieren. Soweit geht dann die Macht aber doch nicht und wir können nur ein wenig auf irgendwelche Viecher ein wirken. Das erlaubt uns aber nicht auf ihren Mageninhalt zuzugreifen, also müssen wir doch ganz altmodisch das Zeug über den Haufen schießen um sie danach auszuweiden. Aber hey, wir versuchen uns immerhin kurz an einem Boma, aber ganz ehrlich, wie soll ich dann die Erfahrungspunkte bekommen wenn das Vieh am Leben bleibt. Lebendige Tiere droppen keine XP, wusste schon der alte Konfuzius. Bestimmt. Aber immerhin haben wir jetzt Level 1 einer Fähigkeit die ich von Anfang an als nutzlos deklariert habe und nie von alleine Punkte darauf verwendet hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 15, Aufnahme vom 21.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

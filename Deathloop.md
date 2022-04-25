@@ -656,6 +656,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #42
+
+* Titel: `Deathloop - #42 - unauffindbare Hinweise [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute werden wir dann in Karlsbucht fertig, aber nicht ohne mich vorher nicht noch ein wenig zu blamieren. Die Sachlage ist die, Charlie hat da so ein Spiel aufgestellt und ich weiß nicht so genau was ich tun soll außer ein paar Kisten zu öffnen. Leider steht eine der Kisten in einem verschlossenen Raum, das ist außerordentlich unpraktisch. Dann ist da noch die Sache mit diesem komischen Tauschautomaten mit dem ich auch nicht so recht was anzufangen weiß. Und dann haben wir da noch die ganze Sache mit meiner sonstigen Aufgabe, wir erinnern uns das es am Morgen irgendein Signal in der Karlsbucht geben soll? In der Richtung habe ich auch noch keine Forschung betrieben und auch noch nicht so recht einen Hinweis, aber vielleicht muss ich mich auch einfach nur ein wenig besser umsehen, vielleicht verbirgt hier die Flut etwas das ich vorher übersehen habe. Immerhin verdinge ich mich heute als Scharfschütze und löse damit ein paar Probleme, das ist doch auch schon einmal etwas. Leider habe ich mir vorher andere Probleme geschaffen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 7, Aufnahme am 22.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

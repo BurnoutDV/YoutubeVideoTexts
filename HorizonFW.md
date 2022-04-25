@@ -739,6 +739,31 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #45
+
+* Titel: `Horizon Forbidden West - #45 - Kalae und der Sporn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben mittlerweile erfahren das die Otaru nicht wirklich die Pazifisten sind für die ich sie am Anfang gehalten habe, stellt sich doch glatt heraus das sie durchaus ihre Konflikte haben, und natürlich Rituale die ziemlich gefährlich sind für ein Volk das sich eigentlich nicht wirklich in tödliche Gefahr begeben möchte. Heute erfahren wir von Kalae, anscheinend eine von den etwas revolutionäreren Otaru die aber ärgerlicherweise vor Kurzem verschwand. Interessant ist hier auch das ihr Mann sie bereits für Tod erklärt hat und er eigentlich nur noch an die rituelle Komponenten interessiert ist, heißt, er will nur noch die Samen haben die sie bei sich trug. Die Tatsache das sie bereits vor einigen Tagen verschwunden ist sollte uns wahrscheinlich zu denken geben aber noch ist nicht alle Hoffnung verloren, Leute haben schon länger auf irgendwelchen Hügeln überlebt. Die internen Streitigkeiten und Uneinigkeit die wir heute sehen sind aber recht interessant, bis her erschienen die Farmer ja doch mehr wie eine einheitlich Stimme die sich ziemlich einig darüber sind was sie tun wollen und werden, ausgenommen Zo.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #num
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  
+  ```
+
 ##### #Nummer
 
 * Titel: ``

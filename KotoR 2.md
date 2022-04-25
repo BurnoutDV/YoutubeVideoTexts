@@ -1620,6 +1620,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #101
+
+* Titel: `KotOR 2 - #101 - Agenten des Colonels [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für einen Wald der eigentlich ein relativ unwirtlicher Dschungel ist treffen wir erstaunlich viele Fraktionen im Gebüsch. Was wir auch treffen sind ziemlich schlecht vorbereitete Leute die anscheinend auf uns schießen wollen. Auch erstaunlich ist aber auch mit welcher Souveränität die Mandalorianer hier durch das Gebüsch schreiten während alle anderen Leute ziemliche Probleme zu haben scheinen. Wir begegnen heute irgendwelchen Spähern die scheinbar unseren Aufenthaltsort herausfinden sollen. Das ist alles ziemlich erstaunlich das wir die Leute so leicht aufstöbern weil man ja eigentlich meinen möchte das Späher eher begabt im Auffinden von Dingen sind, und darin nicht selber aufgestöbert werden. Wer würde schon einen Anfänger in unbekanntes Gelände vorschicken? Was wir allerdings vorfinden scheint genau dahin zu deuten, oder aber das die Männer der großen Colonels alle so unfähig sind, in diesem Fall müssen wir uns wohl keine Sorgen machen. Dennoch ist es mir immer noch ein Rätsel was der Mann eigentlich von uns will. Ich habe keinen Streit mit ihm, warum also macht er mir das Leben schwer? Ich verstehe es wirklich nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 15, Aufnahme vom 21.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

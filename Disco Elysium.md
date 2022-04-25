@@ -343,6 +343,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Sitzung 7, Aufnahme am 22.04.2022
   ```
 
+##### #22
+
+* Titel: `Disco Elysium - #22 - hastige Umgebungsbegutachtung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein Finanzproblem und uns geht langsam aber sicher der Tag aus. Ja das ist ein echtes Problem, wenn man die ganze Zeit vor und Zurück läuft dann hat man irgendwann keine Zeit mehr. Und wir haben dabei nicht einmal besonders viel Geld gefunden, daher müssen wir schnell unser Pfandflaschen Budget erhöhen und hier und dort ein wenig Plus machen. Aber es gibt noch soviel zu entdecken, ja es ist das Ende des ersten Tages, und ja es gibt noch Leute mit denen wir reden können, aber das müssen wir wohl dann morgen machen. Oder vielleicht doch noch heute? Es ist tatsächlich ein wenig schade das wir es wohl nicht geschafft haben die Leiche abzuhängen. Ob wir wohl bis zum Gewerkschaftsführer gekommen wären wenn wir gleich sofort los gelaufen wären und nicht wirklich mit Cuno oder der Buchhändlerin interagiert hätten? Was auch immer sei, diese Fragen sind alle ziemlich theoretisch weil dieser Tag quasi am Ende ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 18.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -358,6 +358,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #23
+
+* Titel: `Disco Elysium - #23 - Ultimative Kompetenz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kim Kitsuragi ist eine Unbekannte für uns. Aus irgendwelchen Gründen scheinen wir ihm zu trauen und die einzelnen Subsystem des Harry haben bis jetzt nichts Seltsame bemerkt aber ich fürchte das kann sich jederzeit ändern und das wäre natürlich ziemlich ärgerlich wenn sich herausstellt das er uns nur benutzt oder bis hier hin gelogen hat. Für den Moment haben wir aber keine Beweise oder sogar Hinweise. Bis jetzt, heute sprechen wir mit einer Frau auf einem Boot und im Gespräch mit ihr scheint es doch fast so als würde der gute Kim uns versuchen zu benutzen. Das ist ziemlich interessant, bisher hat er ja nicht einmal geglaubt das wir wirklich alles vergessen haben und jetzt auf einmal möchte er unsere unorthodoxen Befragungstechniken ausnutzen? Das erscheint mir doch ein wenig seltsam. Wie dem aber auch sei, wir erfahren immerhin ein wenig etwas über die Welt und wir könnten sogar davon ausgehen das Kim es auch todernst gemeint hat und er wirklich von unseren unübertroffenen Fähigkeiten mehr als beeindruckt ist. Schließlich haben wir große Punkte in Sachen Konzeptbildung und Fachwissen bewiesen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 25.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

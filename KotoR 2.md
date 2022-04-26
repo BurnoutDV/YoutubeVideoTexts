@@ -1636,6 +1636,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #102
+
+* Titel: `KotOR 2 - #102 - Bestien von Dxun [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die einzigen Bestien die wir wirklich auf Dxun finden sind übrigens die Mandalorianer. Ich weiß nicht so recht warum andauernd von dem ach so bedrohlichen Tierleben auf dem Mond erzählt wird aber irgendwie halten die mich nicht wirklich auf. Und nein, auch ohne die Fähigkeiten der Macht wären die Viecher nicht die Brecher gewesen. Keines von denen hat irgendeine Art von Fernangriff, insbesondere als Gruppe hätten wir das Wildleben also effizient aus der Entfernung und mit verteilten Positionen aufreißen könnne. Warum also die Angst vor irgendwelchen Viecher? Richtig von hinten überfallen wurden wir auch nicht. Ab einem bestimmten Zeitpunkt der Waffentechnolgie ist es auch ziemlich egal wie viele Gegner einen entgegen geworfen werden, die Feuerkraft siegt immer. Traditionell sind Blaster deswegen schrecklich ungenau, ein Grund den ich nicht wirklich ernst nehmen kann wenn ich ehrlich bin. Naja, wie dem auch sei, wir bemühen uns heute wirklich mächtig eine ökologische Lücke auf Dxun zu erschaffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 15, Aufnahme vom 21.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

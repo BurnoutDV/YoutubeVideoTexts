@@ -671,6 +671,21 @@
   Sitzung 7, Aufnahme am 22.04.2022
   ```
 
+##### #43
+
+* Titel: `Deathloop - #43 - ein Tag als Julianna [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Deathloop offeriert uns nicht nur den Loop zu brechen sondern auch die Möglichkeit in den Schuhen von Julianna den Loop zu schütze. Das machen wir in dem wir in irgendwelche Zeitlinien einbrechen und dort Colt umbringen, da es ausreichend Colts und Juliannas gibt ergibt sich das dann alles am Ende. Ich fürchte es gibt nicht besonders viel Handlung und letztendlich ist das Ergebnis wohl klar, Colt wird den Loop brechen, das oder die 13500 Jahre vergehen davor. Obwohl sich natürlich ein wenig die Frage stellt wie die letzten Jahre des Loops aussehen. Wenn die Besuchsobjekte ein Zeichen des Fortgeschrittenen Loops sind kann ich mir durchaus vorstellen das einige tausend Jahre rein durchaus krasse Veränderungen zu sehen sind, Veränderungen die auch denjenigen die vielleicht nicht ganz so wissenschaftlich eingestellt sind auffallen könnten. Wie dem aber auch sei, versuchen wir uns doch einfach mal darin uns ein wenig durch zu schießen, was soll schon schief gehen oder?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 7, Aufnahme am 22.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -754,14 +754,34 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #num
+##### #46
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #46 - Überfall in Altholz [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Das Benennungschemata von verschiedenen Orten die von wiederum verschiedenen Stämmen verwendet wird ist noch ein wenig ausgereift, für den Moment tue ich mich ziemlich schwer hier ein richtiges Muster zu erkennen, sicher ist aber auf jeden Fall das Altholz eigentlich gar kein richtiger Ort ist sondern mehr eine Landschaft in der die Jäger der Utaru wohl irgendwelche Maschinen jagen. Ärgerlicherweise hat sich Hephaestus wohl gedacht das man genau hier dem ein Ende setzen möchte und daher bessere Maschinen losgeschickt hat. Die Jäger der Utaru die wir heute treffen erscheinen aber auch nicht besonders kompetent bzw. wirken auch einfach unerfahren. Auf der anderen Seite hat man als Gesellschaft wohl nicht allzu viele Gründe abzuwarten bis die Leute Mitte 30 sind bevor man sie losschickt. Generell und überhaupt müssen wir wohl davon ausgehen das ziemlich viele von den Leuten die wir so treffen jung damit angefangen Dinge zu tun und die Leute die es über 40 schaffen entweder ein beschütztes Leben hatte oder ziemlich gut darin sind was sie tun.
   
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #47
+
+* Titel: `Horizon Forbidden West - #47 - Jagdgebiet Reinklang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es angekündigt und jetzt tun wir es auch, ich schaue mir das Jagdgebiet von Reinklang an, allerdings in einer Offline Episode, einfach weil ich wenig Lust habe im Stream wertvolle Zeit mit Fehlversuche zu verbringen. Die Logik ist ungefähr die, alles was ich im Stream mache landet so auch auf Youtube und ist offizieller Teil des Let's Plays. Dinge die ich für mich oder überhaupt Offline tue passieren halt und daran kann ich rummanipulieren. Technisch gesehen kommen exakt die gleichen Dateien raus und ich habe keinerlei Vorteile in die eine oder andere Richtung. Im Falle dieser Jagdprüfung war es dann übrigens so das ich mir das hätte auch sparen können, wir sind ziemlich gut durchgekommen und ich habe quasi nicht wirklich etwas schneiden müssen. Weil es dann aber am Ende doch so schnell ging habe ich mich noch an einen örtlichen Donnerkiefer versucht. Das Projekt wäre an sich langwieriger gewesen und wir werden bestimmt noch Gelegenheit haben das in voller Länge woanders zu sehen, für den Moment sind wir jetzt aber dazu verdammt keine Chance zu haben. Schade eigentlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung OFFLINE, Aufnahme vom 22.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #Nummer

@@ -1684,6 +1684,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #105
+
+* Titel: `KotOR 2 - #105 - Raumhafenvisamangel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt also auf Onderon, oder um noch ein wenig genauer zu sein, wir sind sogar in Iziz, wie wir in der letzten, nächsten und vielleicht auch dieser Episode erfahren handelt es sich bei Iziz um die einzige Stadt auf dem gesamten Planeten. Keine andere Siedlung, ein ganzer Planet, einfach nur Wildnis mit irgendwelchen Bestien und diese eine Stadt, die einzige Bastion der Zivilisation, die einzige Quelle für Wirtschaft, der einzige Ort wo Menschen (oder auch Xenos?) in Masse wohnen. Das das absolut und überhaupt, nicht einmal ein bisschen funktioniert sollte eigentlich absolut jeden klar sein und mir ist ein echtes Rätsel wie zur Hölle irgendein Schreiber auf die Idee gekommen ist das als Geschichte zu verkaufen. Ernsthaft, das ist der große Aufhänger dieser Beschreibung. Nicht das es an Raumhafenvisas mangelt und deswegen Leute die nicht weg wollen weg können, eine Maßnahme die übrigens nicht mit Brain-Drain oder irgendwelche anderen legitimen Gründen erklärt wird sondern die Angst das Spione weg kommen. Spione die eventuell einfach eigene Wege habe..oder sogar abgeholt werden. Wie dem aber auch sei, es hätten ihnen nichts gekostet Iziz als Hauptstadt einer größeren Nation bzw. Zivilisation zu benennen die vielleicht eine Hälfte eines großes Kontinents bewohnt und das die Stadt zwar wichtig ist aber das es durchaus auch andere Orte gibt, wir bloß nichts von ihnen hören. Aber nein, eine Stadt, draußen sind die Bestienreiter. Das macht mich fertig, wie kann man so faul im Worldbuilding sein ‽
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 16, Aufnahme vom 28.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

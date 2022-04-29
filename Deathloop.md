@@ -716,6 +716,21 @@
   Sitzung 7, Aufnahme am 22.04.2022
   ```
 
+##### #46
+
+* Titel: `Deathloop - #46 - der Erbschleicher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist Abend in Karlsbucht und dieses Mal gebe ich mir bestimmt ganz viel Mühe damit wir auch die Rätsel gelöst kriegen die uns Charlie auferlegt. Die Yehrva machen wir trotzdem nicht weil ich keine Luste habe da ohne Vorbereitung wieder zu scheitern, und wir kommen bestimmt noch einmal in der Karlsbucht vorbei, bestimmt, öfter vielleicht sogar. Ich werde übrigens noch eine Weile brauchen um zu verstehen wie genau das mit Pick eigentlich genau funktioniert. Zurück mit dem Rätsel des Tages, beim letzten Mal als ich mich darum gekümmert habe ist mir leider ja ein kleines Malheur passiert. Nun, es stellt sich heraus das ich auch dieses Mal ein wenig unvorbereitet bin, größtenteils weil ich anscheinend einen Zahlendreher in meinen Aufzeichnungen habe..oder weil sich das entscheidene Passwort dann doch regelmäßig verwendet, das wäre aber ein wenig komisch, weil das wiederum würde ja bedeuten das hier irgendetwas nicht stimmt. Und dann gibt es natürlich am Ende nicht nur einfach ein paar Gegenstände, nein, man muss natürlich unbedingt noch etwas tun, das ist ein wenig belastend wie ich finde.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 8, Aufnahme am 28.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

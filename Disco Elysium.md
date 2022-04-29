@@ -403,6 +403,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #26
+
+* Titel: `Disco Elysium - #26 - Nachtschwärmerei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich sind schon alle im Bett und wir sind mit dem Tag fertig, rein theoretisch könnten wir jetzt also zu Bett gehen, oder aber, wir schleichen uns noch einmal hinaus und machen die Stadt alleine, nur mit uns selbst und unseren vielen Persönlichkeiten unsicher. Es stellt sich übrigens heraus das wir nicht die einzige Person sind die um diese späte Stunde noch wach ist. Das ist interessant aber auch nicht besonders erschreckend. Auch interessant ist aber das zu nachtschlafender Zeit Menschen schlafen, und das bedeutet wir können uns jetzt in die ein oder andere Mietwohnung schleichen oder aber einfach nur die frische und ausreichend kalte Nachtluft genießen die die Stadt für uns zu bieten hat. Es ist manchmal wahrlich faszinierend wie sich eine Stadt verändert wenn man in der Nacht dort ist und nicht mehr die ganzen Menschen des Tages umherspringen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 25.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

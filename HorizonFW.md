@@ -814,6 +814,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #50
+
+* Titel: `Horizon Forbidden West - #50 - Zackentiefe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ziehen wir eigentlich um das mobile Deckungssystem zu finden, aber es wird sich recht schnell herausstellen das uns irgendwie etwas dafür fehlt und wir jetzt leider einfach nicht fertig werden können, das ist schade. Aber wir können uns dafür jetzt Gedanken machen um was es sich dabei eigentlich handeln könnte. Deckungssystem klingt jetzt so als würde es mich tarnen, oder aber es liefert echte Deckung, gegen Geschosse. Beides ist ziemlich gleich möglich, Schutzschilde sollten ja eigentlich bekannt sein, zumindest die Schutzanzüge der Alphas hatten diese Technologie schon. Generell und überhaupt wissen wir nicht genau wo die Technik der ausgehenden alten Welt stand. Vielleicht gab es bereits Schutzschilde, aber die Faro Roboter benutzen noch klassische Panzerung genau wie Dinger die gegen die Roboter kämpfen sollten. Entweder sind die kinetischen Schilder nicht besonders nützlich gegen moderne Waffen oder aber es handelte sich um noch sehr neue Technologie, die Schildweberrüstung wurde ja auch als solche betitelt. Dann haben wir natürlich noch den Datenpunkt das die Brutstätten ziemliche viel Schutzschilde haben, aber GAIA hatte auch ziemlich viele Jahre Zeit neue Dinge zu entwickeln oder vorhandene Technologie weit greifend auszurollen. Generell und überhaupt wäre das Archiv der Werkzeuge von GAIA bestimmt alleine eine reichhaltige Wissensquelle. Und dann haben wir natürlich noch die Zeniths, die besitzen auch Schutzschilde, wie gut die wohl sind?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 26.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

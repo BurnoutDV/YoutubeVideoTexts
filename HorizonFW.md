@@ -784,6 +784,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #48
+
+* Titel: `Horizon Forbidden West - #48 - Larends Beuteverträge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und hier haben wir wieder so eine Fleißquest in der ich mich habe irgendwie reinziehen lassen die dann am Ende doch wesentlich länger dauert als ich das gerne gehabt hätte. Generell und überhaupt ist es übrigens so das ich solche Geschichte gerne einmal im Rahmen eines Lets Plays gemacht haben möchte, einfach um quasi "gezeigt" zu haben wie es aussieht, aber am Ende sagt Aloy selbst das es jetzt langsam aber auch auch mal gut sein muss mit dem Teile jagen. Das Alles dauert wesentlich länger als ich das gerne gehabt hätte und am Ende bin ich mir nicht ganz sicher ob ich nicht sogar ein wenig geschummelt habe damit ich das Ergebnis schneller erreiche. Wahrscheinlich ist das die Art von Quest die man wieder aggressiv zusammenschneiden kann. Vor Augen habe ich die Sequenz das man mit der Person redet, dann kurzer Cut wie ich die entsprechenden Teile abschieße, oder wenn es komplizierter ist den Überfall vorbereite und dann der nächste Cut zur vollendeten Tatsache ist. Und das dann auch gleich für alle Beutequests in einen Abwasch. Aus Erfahrungen weiß ich aber das ich solche Großprojekte dann am Ende nicht angehe weil ich zu faul bin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 26.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #49
+
+* Titel: `Horizon Forbidden West - #49 - den Schrecken gerettet [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind zurück im Schrecken. Den Ort ohne Brutstätten und größeren Bedrohungen, größtenteils handelt es sich ja um ein Tal, ich kann mir also ehrlich gesagt nicht so recht vorstellen warum der Ort überhaupt so heißt. Wie dem aber auch sei, wir erinnern uns doch bestimmt an diesen Oseram, Ulvund war sein Name. Uns haben diverse Berichte erreicht das der gute Mann eventuell ein wenig zu sehr in die eigene Tasche wirtschaftet und das sein Verhalten aktiv abträglich für das Zusammenleben im Schrecken ist. Nun, damals, als wir das erste Mal ermittelten fanden wir leider eine verschlossene Höhle, das war außerordentlich ärgerlich und wir konnten für den Moment nichts tun. Die Dinge haben sich geändert, jetzt können wir weiter ermitteln und finden die andere Seite. Das wieder rum führt uns zu anderen Hinweise, zusammen mit den Dokumenten die wir bereits auffinden konnten können wir so jetzt Ulvund beseitigen. Natürlich hätten wir auch Nachts seine Hütte mit dem Tarnmodul besuchen können, aber offensichtlich arbeiten wir so nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 26.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

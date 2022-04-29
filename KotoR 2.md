@@ -1652,6 +1652,38 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #103
+
+* Titel: `KotOR 2 - #103 - Große Ehre [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir werden dann langsam aber sicher mal mit dieser komischen Duellarena fertig, einfach weil wir das können. Wie bereits erwähnt hatte ich ja den Schwierigkeitsgrad auf Leicht gestellt und seit dem nichts mehr geändert. Ich muss wieder einmal sagen das mir der Kampf in Knights of the Old Republic extrem in-transparent vorkommt. Es sieht halt irgendwie rundenbasiert aus aber mir ist leider absolut nicht klar warum bestimmte Waffen und Ausrüstungen die ich bei mir habe die Dinge tun die sie tun. Daher wüsste ich, selbst wenn etwas schief geht nicht so recht warum dem so ist. Nun, ich würde jetzt einmal dennoch argumentieren das auf Schwierigkeitsgrad "Leicht" die errungene Ehre sich durchaus in Grenzen hält und wir wohl eher ein wenig Glorie erhalten haben, und das auch nur temporär.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 15, Aufnahme vom 21.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #104
+
+* Titel: `KotOR 2 - #104 - Flug nach Iziz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wollen mit Meister Kavar reden, anscheinend unserem alten Freund. Der hält sich aber aktuell auf Onderon, bzw. genauer, in Iziz auf, anscheinend einen Ort den wir nicht ohne Weiteres betreten können. Daher müssen wir jetzt bestimmte Dinge tun um von einem daher gelaufenden Mandalor mit genommen zu werden. Warum auch immer die Onderianer eigentlich akzeptieren das irgendwelche mandalorianischen Schiffe bei ihnen landen während die Ebon Hawk quasi so etwas wie eine rote Flagge ist. Auch fraglich übrigens immer noch wie genau sich eigentlich rumgesprochen hat das es sich um mein Schiff handelt. Viel fraglicher allerdings auch noch, wie es sein kann das ich die Schüssel immer noch benutze. Wären wir einfach mit irgendeinen anderen Schiff gekommen, hätten Atton die Verhandlungen machen lassen, dann wäre das alles ziemlich leicht gewesen oder? Ich meine, wir haben mittlerweile so viele Leute um uns gescharrt und eigentlich können die meisten unserer Begleiter gar nicht so bekannt sein, weil die meisten verlassen ja nie das Schiff. In Kurzfassung, alles was wir heute tun wäre unnötig gewesen wenn wir rechtzeitig umgesattelt hätten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 15, Aufnahme vom 21.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

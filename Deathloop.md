@@ -686,6 +686,36 @@
   Sitzung 7, Aufnahme am 22.04.2022
   ```
 
+##### #44
+
+* Titel: `Deathloop - #44 - mal schnell nach Updaam [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und jetzt ist es aber wirklich so weit, wir haben alles schon einmal gesehen, alles schon einmal erlebt. Das stimmt übrigens ganz objektiv nicht, oder vielleicht auch doch, je nach dem in welchen Über-Loop wir eigentlich sind und wie oft Colt das hier schon alles getan hat, noch haben wir nicht erfahren warum er alles vergisst, es könnte aber durchaus sein das es auch Julianna nicht weißt. Wie dem aber auch sei, die einzelnen Interaktionen von NPCs und den Ereignissen am nächsten Tag haben wir ja schon hier und da hinterher gejagt aber bis jetzt relativ wenig Ergebnisse erreicht, ich kann mich an einige Orte erinnern an denen wir noch nicht so viele Rätsel richtig gelöst haben. Heute gehen wir schnell nach Updaam um relativ geringe und unwichtige Dinge zu erledigen. Das tue ich in schneller Abfolge aber leider doch nicht so schnell wie ich das gerne gehabt hätte. Nun ja, aber dennoch sind wir schnell unterwegs, das ist ein wenig der spieldesigntechnische Nachteil an einem Spiel wie Deathloop, letztendlich kann man sich schnell verrennen ohne wirklich etwas Neues zu erreichen, das ist im Hinblick auf das Spielthema auch ein wenig ironisch wie ich finde.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 7, Aufnahme am 22.04.2022
+  ```
+
+##### #45
+
+* Titel: `Deathloop - #45 - Drucksteuerung der Verwirrung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich fürchte das ist eine von diesen Episoden wo es nicht mehr so viel Sinn macht irgendwelche Kommentare zu schreiben. Ich bin hier massivst verwirrt und um ehrlich zu sein weiß ich immer noch nicht so recht wofür die Drucksteuerung eigentlich gut ist, bei allem was ich gefunden und gesucht habe, auch in zukünftigen Tagen wenn ich wieder hier bin, so richtig ist mir nicht klar warum ich tue was ich tue. Oder war es für die Residiuums Anreicherung? Wie dem aber auch sei, das haben wir ja eigentlich schon beim letzten Mal geschafft, es gibt da noch ein paar Dinge die ich in der weiten Zukunft ausprobieren werden, für den Moment muss ich leider sagen das die Erkenntnisse die ich hier in ziemlich langer Zeitverschwendung raushole minimal sind, das kommt davon wenn man sich vorher keinen richtigen Plan macht was man eigentlich tun will.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 7, Aufnahme am 22.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

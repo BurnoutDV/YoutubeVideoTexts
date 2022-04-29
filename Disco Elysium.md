@@ -373,6 +373,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #24
+
+* Titel: `Disco Elysium - #24 - die Gier der Mafia [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Disco Elysium hört nicht auf damit soziales Kommentar zu liefern, in diesem Fall und heute erfahren wir wie gut es den Leuten in Martinaise doch eigentlich ging und wie vorbildlich die letzte Gewerkschaftsanführerin war. Interessant hier ist allerdings das uns die Person die davon erzählt liberales Gedankengut mit sicher herum trägt und gleichzeitig Teil der Firma ist die die Gewerkschaft de facto als Gegner hat. Die Legende spielt sich in etwa so ab das die jetzigen Anführer ein wenig ein krummes Spiel treiben und die vorherige Führung ersetzt haben. Das war aber vor 20 Jahren wenn ich das recht verstanden habe. Was wir heute sehen sieht sehr aus wie eine Mafia, nebenbei wird aber auch erwähnt das eine der Sachen die in einem vorherigen Streik errungen wurde bezahlte Überstunden und Krankentage waren. Also etwas grundlegend durchaus Vernünftiges, ich nehme jetzt einfach einmal an das dies unter der derzeitigen Führung geschah. Warum die jetzigen Forderungen so absolut lächerlich sind ist mit noch ein Rätsel, für den Moment würde ich aber einmal vermuten das es sich um irgendeine Art von Verzögerungstaktik handelt. Aus irgendwelchen Gründen wollen die Gewerkschaftler für sehr lange Zeit den Zugang zu den Docks blockieren. Das alles erscheint ein wenig mysteriös. Und das sie in der Lage sind solange durchzuhalten, müssen die Leute nichts essen? Zurück zum Thema, Korruption, man hat das erstaunlich oft und an sich scheint das mehr oder weniger das große Problem in der Gesellschaft zu sein. Sobald Gruppen groß genug werden gibt es Leute die ihre Macht und Verantwortung ausnutzen um sich selbst das Geld in die Tasche zu schieben. Das ist lästig. Wenn man dann nicht durchgreift wächst das durch die gesamte Struktur bis der Apparat stehen bleibt. Je reicher das Gebilde ist umso länger hält es, arme Länder müssten vielleicht gar nicht so arm sein wenn die Ressourcen die es gibt gut genutzt werden. Oder aber es gibt Dritte die daran ein Interesse haben das es Korruption gibt um ihre eigenen Interessen durchzusetzen, siehe die Bananen-Revolutionen in Südamerika. Aber hier befinden wir uns dann schon schwierig belegbaren Eis. So oder so habe ich keine Ahnung was man dagegen tun könnte, wahrscheinlich wäre Bildung die Antwort. Bildung die es den Leuten ermöglicht zu sehen welche Folgen im Großen ihre Handlungen haben, das alleine wird aber wohl kaum reichen. Viele Leute sehen genau was sie tun aber es ist ihnen einfach egal, oder aber sie behaupten das sie ja nur ein winziger Teil des Problems sind und das bisschen ja nicht schaden kann. Das bringt uns dann übrigens zum "Broken-Window-Effect", ich behaupte jetzt kühn das es den bei Korruption auch gibt. Wenn man sieht das der Beamte mit extra Geld schneller den Bauantrag bearbeitet dann dauert es nicht lange bis der Busfahrer bestechlich wird. Auch interessant, in Deutschland scheint Korruption nicht in Form von bestechlichen Polizisten statt zu finden aber eher im Hintergrund und auf höheren Niveau. Das ist gleich doppelt undemokratisch wie ich finde. Steuergelder in den Wahllandkreis umleiten und Spezial-Clientelpolitik für Automobilkonzerne machen ist okay, aber der Streifenpolizist darf nicht fürs Wegschauen bezahlt werden? Unfair sag ich!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 25.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #25
+
+* Titel: `Disco Elysium - #25 - Ermittlungsfortschritt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für manche Menschen vergehen Jahre in wenigen Tagen und absolut nichts ändert sich nichts, ein Tag ohne Ereignisse, nur Routine, immer und immer wieder das Gleiche und doch kaum genug zum Leben. Im Falle der Hafenarbeiter und Transportfahrer ist es wohl das was ihr tägliches Leben bestimmt, und doch haben andere entschieden diese Monotonie zu unterbrechen. Wahrscheinlich ist das was die Arbeit als Polizist irgendwie auch interessant macht, dadurch das man reaktiv arbeitet. Immer darauf wartet das jemand den Status Quo unterbricht oder darauf abzielt eine vorhandene, aber unbekannte Lücke im System für den eigenen Vorteil auszunutzen. Und im Gegensatz dazu erscheint dann der Papierkram natürlich umso langweiliger, notwendige Berichte die geschrieben werden müssen, Aufzeichnungen die notwendig sind um das Gefüge des Rechts zu halten. Umso geringerer der Organisationsgrad einer Polizeitruppe ist, umso weniger ist dies wohl notwendig. Welch Glück also das die BMR eher nicht so organisiert ist, und doch, einen kleinen Abschlussbericht erhalten wir heute dennoch. Ist das nicht schön? Endlich einmal ein paar mehr Worte unseres unfreiwilligen Kollegen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 25.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -731,6 +731,21 @@
   Sitzung 8, Aufnahme am 28.04.2022
   ```
 
+##### #47
+
+* Titel: `Deathloop - #47 - Harriets schnelle Tode [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute stirbt Harriet ein wenig öfter. Um genau zu sein, zweimal, umso bedauerlicher ist es das die Gute keine Tafel fallen lässt. Das alles tue ich weil ich etwas nicht verstehe, Pick hinterlässt mir am Abend eine Notiz damit ich seine Tür öffnen kann. Ich habe aus irgendwelchen Gründen angenommen das ich am Morgen mit ihm reden kann. Das kann ich nicht, die Tür ist einfach nicht offen. Und doch versuche ich das, weil ich das nicht richtig gelesen habe und wenn ich zu einer Uhrzeit an einem Ort bin dann sehe ich auch nur die Hinweise dieses Ortes für diese Zeit. Daher muss ich mich für heute entschuldigen, ich bin ein wenig verwirrt und tue Dinge. Wir werden Karlsbucht aber noch öfter sehen, weil ich muss hier definitiv für meinen letzten Tag hin, und es nicht gesagt ist das ich das auch beim ersten Mal richtig hinkriege. Immerhin übe ich ein paar Laufwege und wir versuchen erneut Amador zu retten. Ich nehme einmal stark an das ich dafür eigentlich gar nicht so viel tun müsste, einfach nur verhindern das er stirbt und dann am Nachmittag für die Wolfsmaske wieder kommen..in der Hoffnung das wir die Maske auch finden. Oder irgendeine Art von Verkleidung.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 8, Aufnahme am 28.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

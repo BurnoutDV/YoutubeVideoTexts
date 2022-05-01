@@ -418,6 +418,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #27
+
+* Titel: `Disco Elysium - #27 - Schätze der Nacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Habe ich schon erwähnt das man Nachts nicht nur seltsame Geisterstimmen aus der Vergangenheit hört sondern auch tatsächlich sehr weltliche und fassbare Schätze finden kann? Technisch gesehen sind viele der Dinge die wir heute auftreiben auch schon am Tag zugänglich gewesen, aber das Finden von Kleingeld fühlt sich irgendwie gehaltvoller an wenn man es heimlich und in der Nacht macht. Außerdem finden wir heraus das gewisse Bootsbesitzer nicht besonders gut schlafen können und deswegen einen Gespräch nicht ganz abgeneigt ist, die Schätze die wir in der Nacht finden sind also nicht nur weltlicher Natur sondern wir lernen wichtige Dinge über die Realität. Wie dem aber auch sei, die Nacht scheint trotz ihrer Kälte und dem fehlen von menschlicher Interaktion dennoch sehr interessant zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 25.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1700,6 +1700,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #106
+
+* Titel: `KotOR 2 - #106 - die Stimme des Volkes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind, sehr überraschend, immer noch im ziemlich unterdrückten Iziz, der Ort der nur aus einer einzelnen Stadt ohne relevante Wirtschaft außerhalb der Stadtmauer existiert. Von Allem was ich so sehen kann befindet sich die Stadt bereits fest in den Fängen einer Militärdiktatur die sich nur in zwei Lagern aufspaltet. Auf der einen Seite sind die Monarchisten die sich ein wenig der Republik zuwenden und auf der anderen Seite die Leute des Generals der gleichzeitig anscheinend auch noch mit erwähnter Königin verwandt ist, der mag die Republik nicht so sehr. In jedem Fall haben die einzelnen Bürger der Stadt nicht so viel zu sagen und ich gehe davon aus das wir uns in einer Bananenrepublik befinden die bürgerliche Freiheit eher nicht kennt. Heute  hören wir aber immerhin einige Stimmen der lokalen Bevölkerung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 16, Aufnahme vom 28.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

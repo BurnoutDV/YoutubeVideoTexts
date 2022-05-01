@@ -829,6 +829,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #51
+
+* Titel: `Horizon Forbidden West - #51 - Jagd gegen Wasser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und auf einmal sind wir in der Wüste, technisch gesehen waren wir das schon in der letzten Episode aber jetzt sind wir richtig da. Und was wir sehen sind Leute denen es anscheinend wirklich sehr an Flüssigkeit mangelt. Das ist eigentlich ziemlich faszinierend wenn man bedenkt das es ein wenig weiter ziemlich unbewohnte Gegenden gibt die zwar technisch gesehen den Utaru gehören aber die auch nicht richtig verteidigt sind. Warum also ziehen die Tenakth hier in der Wüste nicht einfach um? Klar, sie zelebrieren ein wenig den Wüstenlebensstil und das sie ja ach so hart sind, aber wofür eigentlich? Letztendlich haben sie doch gar nichts dafür? In der heutigen Überlängen Episode besuchen wir kurzzeitig Pfeilhand und danach rege ich mich über die Unfähigkeit der örtlichen Jäger und deren Bravado auf, letztendlich schaffe ich das natürlich, aber die Folge hat nicht umsonst 48 Minuten Laufzeit, wäre ja auch doof hier einen Cut zu machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 26.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #52
+
+* Titel: `Horizon Forbidden West - #52 - Maschinenrennen Trockensehnsucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Hacken von Maschinen und Benutzen der häufigsten Roboter die in der Welt so umherlaufen ist etwas womit ich ein wenig später gerechnet hätte was die technologische Entwicklung der Menschheit angeht. Auch wichtig zu wissen wäre wohl wie gefährlich das Reiten von beliebigen Maschinen eigentlich wirklich ist, wie sicher ist der Hack und wie schwer sind die Viecher? Handelt es sich eigentlich um eine enorme Leichtbauweise und die Roboter sehen vielleicht so aus als würden sie hunderte Kilo wiegen aber eigentlich  ist ihre Masse durchaus gering und die Schäden durch Quetschungen sind gar nicht so groß wie man meinen möchte, oder ist die Gesellschaft ziemlich sehr Friss oder Stirb und der Schwund an jungen Leuten ist gewaltig? Letztendlich sehen wir nicht besonders viele alte Menschen, andererseits kann die Gesundheitsversorgung nicht so unendlich schlecht sein wenn man bedenkt das so moderne Krankheiten auch deswegen in modernen Gesellschaften auf Grund der Dinge die wir essen auftreten. So oder so, Aloy kennt sich ja eigentlich aus mit dem Reiten von Robotern, was wäre da für uns naheliegender als ein paar Greenhorns im Maschinenrennen abzuziehen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 26.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

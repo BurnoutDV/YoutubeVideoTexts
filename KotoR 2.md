@@ -1716,6 +1716,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #107
+
+* Titel: `KotOR 2 - #107 - Iziz, Westplatz und Cantina [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal fällt mir einfach nichts mehr ein. Wir befinden uns jetzt also auf dem Westplatz und besuchen auch gleich noch die Kantina. Das ist dann übrigens auch alles was wir von Onderon zu sehen bekommen. Die Stadt hat also nichts Anderes als einen kleinen Raumhafen für ungefähr 3 Schiffe, eine Cantina und einen Platz für Aufwiegler zu bieten, kein Wunder das alle weg wollen. Praktisch werden es wohl aber die Budget Kürzungen gewesen sein, auf Nar Shadarr haben wir ja gesehen wie es aussehen könnte wenn es ein paar mehr Orte gibt, und dort hatten wir dann echt viel Mühe damit durch die Gegend zu laufen und Dinge zu tun. Wie dem aber auch sei, hier leben die kurzen Wege und das Überfallkommando vom letzten Mal war bestimmt erst der Anfang, wir suchen einen Experten und der ist scheinbar spontan nicht aufzutreiben, das bedeutet wir müssen ein wenig Graben bis der Mann wieder auftaucht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 16, Aufnahme vom 28.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

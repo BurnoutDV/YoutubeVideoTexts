@@ -328,21 +328,6 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
-##### #41
-
-* Titel: `Deathloop - #41 - kalte, dunkle Bucht [Let's Play; ger; Blind]`
-
-* Beschreibung:
-
-  ```markdown
-  Wir waren noch nie...an so vielen Orten, aber heute ist es die Karlsbucht, so gesehen waren wir natürlich schon überall aber auf der anderen Seite waren wir dann doch nirgendwo so richtig weil die Orte ja offensichtlich nicht die Spuren unserer Anwesenheit tragen. Heute gehen wir also zurück an die Karlsbucht, einen Ort mit anscheinend sehr wechselhafter Bewegung. Ich rechne damit das es mittlerweile kein Mammut mehr gibt, aufgegessen von hungrigen Visionären. Ich weiß das es das tatsächlich gibt, uralte im Permafrost gestorbene Tiere die quasi bis zur Jetztzeit konserviert wurden. Dennoch kann ich mir irgendwie nicht so recht vorstellen ein solches Tier zu essen. Fakt ist aber, Karlsbucht sieht bei Nacht doch ein wenig anders aus als am Morgen. Schuld ist anscheinend auch Charlie Montague den wir in diesem Durchlauf wohl nicht getötet haben, aber immerhin haben wir Frank sein Feuerwerk verdorben, interessant ist übrigens das der gute Frank anscheinend nicht in Karlsbucht anzutreffen ist obwohl das doch der Ort ist an dem dieses gestartet wird. Nun gut, es gibt ja immerhin noch ein paar Rätsel zu lösen, und irgendwelche Leute auf Dächern zu erschießen. Das machen wir dann erst einmal. Und danach finden wir die verbleibenden Hinweise.
-  
-  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
-  Deathloop als Offline Projekt aber in 1440P@60fps
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
-  Sitzung 7, Aufnahme am 22.04.2022
-  ```
-
 ##### #22
 
 * Titel: `Disco Elysium - #22 - hastige Umgebungsbegutachtung [Let's Play; ger; Blind]`
@@ -426,6 +411,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
 
   ```markdown
   Habe ich schon erwähnt das man Nachts nicht nur seltsame Geisterstimmen aus der Vergangenheit hört sondern auch tatsächlich sehr weltliche und fassbare Schätze finden kann? Technisch gesehen sind viele der Dinge die wir heute auftreiben auch schon am Tag zugänglich gewesen, aber das Finden von Kleingeld fühlt sich irgendwie gehaltvoller an wenn man es heimlich und in der Nacht macht. Außerdem finden wir heraus das gewisse Bootsbesitzer nicht besonders gut schlafen können und deswegen einen Gespräch nicht ganz abgeneigt ist, die Schätze die wir in der Nacht finden sind also nicht nur weltlicher Natur sondern wir lernen wichtige Dinge über die Realität. Wie dem aber auch sei, die Nacht scheint trotz ihrer Kälte und dem fehlen von menschlicher Interaktion dennoch sehr interessant zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 25.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #28
+
+* Titel: `Disco Elysium - #28 - Derealisierung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor langer langer Zeit habe ich relativ viel Zeit damit verbracht auf einen Fahrrad zu sitzen und über die Realität, der Welt und Alles irgendwie nach zu denken, es ist erstaunlich worüber man alles in 10 Km Fahrt philosophieren kann. Auf jeden Fall kam mir da auch irgendwann die eigentlich schon ziemlich bekannte Erkenntnis das wir eigentlich immer nur die Vergangenheit wahrnehmen und selbst das immer noch subjektiv zu unseren Sinnen ist. Lange Geschichte kurz, wir nehmen nur das wahr was ungenaue Messgeräte mit einem unscharfen Gerät interpretieren. Menschen bilden daher ein Konzept, Strukturen und Muster wie die Welt funktioniert und was zu erwarten ist, manchmal muss man diese Erwartungen anpassen aber im Groben und Ganzen funktioniert eine entsprechen eingespielte Weltkonzeption ganz gut um die Realität trotz fehlerhaften und offensichtlich eingeschränkten Messgerät im täglichen Alltag bei zu kommen. Wenn man jetzt aber alles vergessen hat, Annahmen aufgrund dünner Daten trifft und dann plötzlich die Wahrheit kommt. Nun, das könnte ein Problem werden. Das Gerüst der Realität selbst könnte zusammenbrechen.
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Disco Elysium auf dem Montags Slot.

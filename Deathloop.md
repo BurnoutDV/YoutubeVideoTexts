@@ -610,50 +610,19 @@
   Sitzung 6, Aufnahme am 17.04.2022
   ```
 
-##### #19
+##### #41
 
-* Titel: `Disco Elysium - #19 - Frittte mit ausreichend T [Let's Play; ger; Blind]`
-
-* Beschreibung:
-
-  ```markdown
-  Viele Spiele haben oft das Problem das sie zwar an Orten spielen in denen Menschen leben sollen aber die Orte selbst eigentlich überhaupt nicht dafür geeignet sind. Klassischerweise haben Egoshooter zum Beispiel einen auffälligen Mangel an Sanitäranlagen an Orten die vielleicht Militäranlagen sind aber Soldaten müssen auch irgendwo kacken gehen oder? Oder aber wir laufen durch eine Stadt in der tausende Leute leben sollen aber vorfinden tun wir nur die Wohnungen nicht aber die Einkaufsmöglichkeiten für all diese Menschen, es mangelt einfach an grundlegender Infrastruktur. In Disco Elysium haben wir dieses Problem nicht. Nicht nur gibt es in Martinaise nicht so viele Leute, wir finden auch einen lokalen Einkaufsladen. Die Auswahl ist zwar außerordentlich beschränkt aber es gibt einen ziemlich wichtigen Pfandautomaten. Hier könnten wir gesammelte Flaschen abgeben und so richtig dolle reich werden. Außerdem hat es einen gelangweilten Teenager hinter dem Tresen, was kann man sich mehr wünschen, außer vielleicht mehr F? 
-  
-  
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
-  Disco Elysium auf dem Montags Slot.
-  Sitzung 3, Aufnahme vom 18.04.2022
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
-  ```
-
-##### #20
-
-* Titel: `Disco Elysium - #20 - muskelbepacktes Recht zur Arbeit [Let's Play; ger; Blind]`
+* Titel: `Deathloop - #41 - kalte, dunkle Bucht [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  In einer gerechten Gesellschaft gewinnt das Argument das am besten konstruiert ist und innerhalb der geltenden Gesellschaft am meisten Anklang findet. Je komplexer die Gesellschaft wird umso mehr verschiebt sich die Argumentation und Funktion der Gesamtstruktur in Richtung geistiger Kräfte und weg von purer animalischer Muskelkraft. Martinaise ist ein ganz besonderer Ort in dem die geltende Ordnung nicht mehr so existiert wie sie es einst getan hat. Und selbst in völlig normal funktionierenden Gesellschaften kann es durchaus vorkommen das es Taschen der Irrationalität gibt. Man könnte also durchaus von einer Verrohung der gesamtgesellschaftlichen Struktur reden wenn sich zu oft die physisch stärkeren durchsetzen, aber die Wege von Argumenten und historischen gewachsenen Rechtestrukturen können auf Dauer soviel Reibung erzeugen das irgendwann der Punkt kommt an dem normale Menschen genug haben. Und dann zählt wieder was man im Arm und nicht im Kopf hat, in der Regel für alte, körperlich Benachteiligte oder Frauen eher nicht der Idealzustand. Und deswegen ist der Anführer der Streikbrecher mit dem wir heute reden ein großer, muskelbepackter Mann und bestimmt nicht von den Bossen angeheuert worden.
+  Wir waren noch nie...an so vielen Orten, aber heute ist es die Karlsbucht, so gesehen waren wir natürlich schon überall aber auf der anderen Seite waren wir dann doch nirgendwo so richtig weil die Orte ja offensichtlich nicht die Spuren unserer Anwesenheit tragen. Heute gehen wir also zurück an die Karlsbucht, einen Ort mit anscheinend sehr wechselhafter Bewegung. Ich rechne damit das es mittlerweile kein Mammut mehr gibt, aufgegessen von hungrigen Visionären. Ich weiß das es das tatsächlich gibt, uralte im Permafrost gestorbene Tiere die quasi bis zur Jetztzeit konserviert wurden. Dennoch kann ich mir irgendwie nicht so recht vorstellen ein solches Tier zu essen. Fakt ist aber, Karlsbucht sieht bei Nacht doch ein wenig anders aus als am Morgen. Schuld ist anscheinend auch Charlie Montague den wir in diesem Durchlauf wohl nicht getötet haben, aber immerhin haben wir Frank sein Feuerwerk verdorben, interessant ist übrigens das der gute Frank anscheinend nicht in Karlsbucht anzutreffen ist obwohl das doch der Ort ist an dem dieses gestartet wird. Nun gut, es gibt ja immerhin noch ein paar Rätsel zu lösen, und irgendwelche Leute auf Dächern zu erschießen. Das machen wir dann erst einmal. Und danach finden wir die verbleibenden Hinweise.
   
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
-  Disco Elysium auf dem Montags Slot.
-  Sitzung 3, Aufnahme vom 18.04.2022
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
-  ```
-
-##### #21
-
-* Titel: `Disco Elysium - #21 - Zwischenhalt des Besitztum [Let's Play; ger; Blind]`
-
-* Beschreibung:
-
-  ```markdown
-  Ich versuche ja immer so ein wengi "artsy" bei der Benennung der Episoden zu sein. Hier wollte ich anscheinend ausdrücken das Gegenstände durchaus jemand Anderem gehören bevor sie ihrem rechtmäßigen Besitzer, also mir, anvertraut werden. Das habe ich wohl nicht gemeint, wenn ich scharf nachdenke meine ich das wir einen Pfandleiher besuchen, und da der Mann ziemlich viel zu sagen hat nehme ich an das das genau jetzt passiert. Wir besuchen heute also einen Pfandleiher, bei einer solche Institution kann man wohl durchaus von einem Zwischenhalt reden. Die Gegenstände sind geparkt, für den Moment, bis jemand kommt der sie kauft. Mir ist allerdings nicht so ganz klar wie genau eigentlich ein Pfandverleiher in Martinaise irgendwelche Gewinne einfährt. Den Leuten ihren Besitz für viel zu wenig Geld abzunehmen ist ja eine Sache, aber was macht man dann damit? Hat man da gute Kontakte die einen das Zeug für einen Wert abnehmen der näher am Original dran ist? Oder ist es eher das Hoffen das jemand vorbei kommt der etwas völlig überteuert abkauft? Immerhin ist der Besitzer im richtigen Gehirnzustand um mit uns zu interagieren.
-  
-  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
-  Disco Elysium auf dem Montags Slot.
-  Sitzung 3, Aufnahme vom 18.04.2022
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 7, Aufnahme am 22.04.2022
   ```
 
 ##### #42
@@ -739,6 +708,21 @@
 
   ```markdown
   Heute stirbt Harriet ein wenig öfter. Um genau zu sein, zweimal, umso bedauerlicher ist es das die Gute keine Tafel fallen lässt. Das alles tue ich weil ich etwas nicht verstehe, Pick hinterlässt mir am Abend eine Notiz damit ich seine Tür öffnen kann. Ich habe aus irgendwelchen Gründen angenommen das ich am Morgen mit ihm reden kann. Das kann ich nicht, die Tür ist einfach nicht offen. Und doch versuche ich das, weil ich das nicht richtig gelesen habe und wenn ich zu einer Uhrzeit an einem Ort bin dann sehe ich auch nur die Hinweise dieses Ortes für diese Zeit. Daher muss ich mich für heute entschuldigen, ich bin ein wenig verwirrt und tue Dinge. Wir werden Karlsbucht aber noch öfter sehen, weil ich muss hier definitiv für meinen letzten Tag hin, und es nicht gesagt ist das ich das auch beim ersten Mal richtig hinkriege. Immerhin übe ich ein paar Laufwege und wir versuchen erneut Amador zu retten. Ich nehme einmal stark an das ich dafür eigentlich gar nicht so viel tun müsste, einfach nur verhindern das er stirbt und dann am Nachmittag für die Wolfsmaske wieder kommen..in der Hoffnung das wir die Maske auch finden. Oder irgendeine Art von Verkleidung.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 8, Aufnahme am 28.04.2022
+  ```
+
+##### #48
+
+* Titel: `Deathloop - #48 - Wundern wandert [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mord ist unser Hobby, und das schließt auch ein immer und immer wieder die gleichen Leute umzubringen. Namentlich sind das übrigens Fia und Charlie die leider zur gleichen Zeit an verschiedenen Orten anzutreffen sind und dann am Nachmittag sind sie irgendwie verschwunden und wir wissen eigentlich gar nicht so recht wo sie sind. Bis heute, heute prüfen wir genau nach wo wir die beiden finden können, und noch viel wichtiger, wie wir das dann anstellen. Generell und überhaupt erreichen wir hier aber den Punkt wo ich auf Grund der späten Stunde der Aufnahme ein wenig verwirrt und nicht ganz so durchblickend bin. Am Ende wird sich schon noch alles auflösen, aber für den Moment gilt es erst einmal den beiden Turteltäubchen hinterher zu forschen, kann ja wohl auch nicht sein das sie sich so einfach vor mir verstecken, wir haben schließlich einen Mord zu planen.
   
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
   Deathloop als Offline Projekt aber in 1440P@60fps

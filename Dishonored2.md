@@ -5,12 +5,20 @@
 
 ##### #1
 
-* Titel: `Dishonored 2 - #1 - Trauertag [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #1 - Volkstrauertag [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  15 Jahre sind vergangen seit der Zeit der großen Rattenplage. 15 Jahre seit dem Corvo Attano die junge Emily Kaldwel aus den Klauen ihrer Entführer reißen konnte, den Mord ihrer Mutter rächen und die Ordnung wiederhergestellt hat. Vor genau 15 Jahren starb Jessamine Kaldwel ihren vorzeitigen Tod. Ein denkwürdiger Tag.
+  Dishonored 2 - #1 - Volkstrauertag [Let's Play; blind; de]
+  
+  Immer wenn etwas aufhört geht etwas Anderes los. Der Tod von Kaiserin Jasmine Caldwell ist nun schon ein wenig länger geschehen, 15 Jahre auf den Tag genau, gerächt durch den zu Unrecht verurteilten Corvo Attano und der Hilfe von Verrätern. Im Zuge dieses Feldzuges war es Corvo möglich nicht nur jene zu verdammen die ihm Unrecht taten sondern auch seine heimlich Tochter Emily zu retten und als neue, rechtmäßige Kaiserin zu installieren. Der Todestag der Mutter bleibt aber unvergessen. Und so gedenken die Menschen von Dunwall den Tod ihrer einstigen Kaiserin jedes Jahr. Das bietet uns den heutigen Einstieg der mit dem Besuch des Herzoges von Karnaca einher geht. Das und einem kleinen Verrat, ein Umstand den niemand überraschend sollte, schließlich müssen die Ereignisse die im Titel stehen ja auch irgendwie beginnen. 
+  Dies ist der Emily Playthrough mit dem Ziel wenig Chaos und Tote zu verursachen, tatsächlich hatte 2016 Burnout anscheinend unendlich viel Zeit und hat anstatt seine Masterarbeit fertig zu stellen gleich noch einmal mit Corvo gespielt, alternative Playlist mit Corvo (und hohem Chaos): https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNLrzAqkLOZnUqUDRoP71J1
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 15.11.2016
   ```
 
 ##### #2
@@ -20,7 +28,12 @@
 * Beschreibung:
 
   ```markdown
-  Dunwall ist ein Ort der anscheinend unsere Heimat darstellt. Man muss aber auch einmal bedenke das es auch recht nass und feucht ist. So vom reinen Aussehen vermute ich das die Hafenstadt ziemlich kalt ist. Das kommt davon wenn man am Meer wohnt. Daher ist vielleicht doch einmal Zeit für einen Ortswechsel.
+  Es gibt verschiedene Niveaus an Flucht. Manchmal sieht man eine große Gefahr kommen und entscheidet aus logischen Abwägungen heraus das es wohl keinen Sinn ergibt zu bleiben und bereitet sich darauf vor einen Ort möglichst geordnet zu verlassen. Wenn Dritte nicht über das gleiche Maß an Informationen verfügen dann könnte einen eine solche Flucht als feige oder voreilige ausgelegt werden. Über solche Dinge muss man drüber stehen denke ich, wer flieht kann an einem anderen Tag gewinnen, wer heute stirbt kommt nicht wieder, in der Regel, meistens, es sei den der Outsider möchte es so. Emily hat diesen Luxus nicht, ihr Spionagemeister und Vater hat offensichtlich geträumt und die kommende Bedrohung nicht ausreichend kommen sehen sollen und jetzt haben wir eine Situation. Die gute Nachricht ist aber das es immerhin ein paar Geheimgänge und nicht allgemein bekannte Verstecke gibt, die werden wir natürlich nutzen. Außerdem muss man auch sagen das Dunwall ein ziemlich kalter Ort ist und ein Ortswechsel wäre vielleicht genau das was uns schon immer gefehlt hat. In der Regel kann man als Regent sein Reich nicht allzu lange verlassen, entfernte Verwandte könnten sich an ihr Geburtsrecht erinnern, aber diese Angst hat sich wohl mit der unlängst veränderten Situation erledigt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 15.11.2016
   ```
 
 ##### #3
@@ -245,17 +258,27 @@
 * Beschreibung:
 
   ```markdown
-  Es ist nicht sicher zwischen den Wänden, das sagte ja schon der Erfinder Kirin Jindisch. Im Nachheinein war es also vielleicht nicht die Beste Idee diverse bewusstlose Körper in jenen Räumlichkeiten zu lagern. Aber was weiß ich schon, ich bin ja nur ein armes kleines Mädchen aus edlem Hause...
+  Die Wände bewegen sich, und das tut auch der Boden, generell und überhaupt scheint es eine Menge beweglicher Teile im Hause des Jindosh zu geben. Es stellt sich aber ein wenig die Frage wo die Kunsthandwerker, Ingenieure und generell Ausführenden her kommen die in einer Stadt wie Karnaca in der Lage sind die höchsten Anforderungen die Jindoshs Genialität erfordert zu erfüllen. Es ist eine Sache das der Mann selbst großartige Dinge erfinden kann, aber reicht das wirklich dann auch aus um auch zu schaffen. Ein Prototyp kann im Labor erschaffen werden, aber wir sehen hier eine Menge Serienproduktion. Wurde das Maschinenhaus von Anfang an erschaffen oder gab es ein Grundgerüst. Ärgerlich auch, wenn man bewusstlose Körper in den Zwischenräumen lagert und dann plötzlich Wände, Böden und Decken hin und her fahren, dann könnte man durchaus damit rechnen das es zu Verlusten kommt. Ich bezweifle das der Ruhepuls eines Bewusstlosen diesen davor bewahrt an inneren Blutungen zu sterben. Immerhin sieht alles sehr schön aus.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 15.12.2016
   ```
 
 ##### #22
 
-* Titel: `Dishonored 2 - #22 - Motivation [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #22 - Jindoshs Motive [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  So gut wie werden Dinge getan ohne das es einen Grund dafür gibt. Besonders größere Dinge gebrauchen eine Motivaton. Die Entscheidung einen korrupten Adeligen zu unterstützen um einen anderen zu stürzen muss also irgendwoher kommen. So auch für Kirin Jindosch, dessen Motivation wir heute entdecken..und noch einiges Privates.
+  Es gibt ein altes Sprichtwort, man sollte keinen Mann umbringen dessen Privatsphäre man nicht vorher verletzt hat. Daher durchsuchen wir heute die inneren Gemächer des wahnsinnigen Forschers, Tüftlers und Handwerkers Kirin Jindosh bevor wir seine Innereien nach Außen befördern. Es stellt sich also die Frage warum Kirin überhaupt dabei ist, wir wissen schon das er aus der Akademie geflogen ist, warum wusste ich mittlerweile vielleicht auch schon, aber wichtig ist das der Mann um Anerkennung bettelt. Er stellt übrigens auch fest das seine Roboter, die Mechanischen die wir bereits mehrfach zerstört haben anscheinend teurer sind als ein reicher Mann in seinem ganzen Leben verdienen kann. Das ist natürlich irgendwie schlecht, immerhin finden wir auch heraus das er glaubt irgendwie den Produktionsaufwand bzw. dessen Kosten erheblich zu senken. Es stellt aber auch ein wenig in Frage inwiefern es überhaupt jemals Sinn ergeben hat mehr als einen Mechanischen zu bauen, weil wenn die Dinger wirklich so teuer sind hätte man für das Geld doch auch ein paar Elitewachen bezahlen können, und das auch auf ewiger Zeit während man an besseren Robotern forscht. Aber immerhin wissen wir jetzt das es Kirin vor allen Dingen darum geht skrupellos forschen zu dürfen. Nah immerhin.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 16.12.2016
   ```
 
 ##### #23

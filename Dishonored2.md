@@ -10,8 +10,6 @@
 * Beschreibung:
 
   ```markdown
-  Dishonored 2 - #1 - Volkstrauertag [Let's Play; blind; de]
-  
   Immer wenn etwas aufhört geht etwas Anderes los. Der Tod von Kaiserin Jasmine Caldwell ist nun schon ein wenig länger geschehen, 15 Jahre auf den Tag genau, gerächt durch den zu Unrecht verurteilten Corvo Attano und der Hilfe von Verrätern. Im Zuge dieses Feldzuges war es Corvo möglich nicht nur jene zu verdammen die ihm Unrecht taten sondern auch seine heimlich Tochter Emily zu retten und als neue, rechtmäßige Kaiserin zu installieren. Der Todestag der Mutter bleibt aber unvergessen. Und so gedenken die Menschen von Dunwall den Tod ihrer einstigen Kaiserin jedes Jahr. Das bietet uns den heutigen Einstieg der mit dem Besuch des Herzoges von Karnaca einher geht. Das und einem kleinen Verrat, ein Umstand den niemand überraschend sollte, schließlich müssen die Ereignisse die im Titel stehen ja auch irgendwie beginnen. 
   Dies ist der Emily Playthrough mit dem Ziel wenig Chaos und Tote zu verursachen, tatsächlich hatte 2016 Burnout anscheinend unendlich viel Zeit und hat anstatt seine Masterarbeit fertig zu stellen gleich noch einmal mit Corvo gespielt, alternative Playlist mit Corvo (und hohem Chaos): https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNLrzAqkLOZnUqUDRoP71J1
   
@@ -38,52 +36,77 @@
 
 ##### #3
 
-* Titel: `Dishonored 2 - #3 - Das Nichts [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #3 - Bootsfahrt ins Nichts [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Emily Kaldwel ist vielleicht hochwohlgeboren und hat auch ansonsten scheinbar recht viel Zeit damit verbracht von ihren Vater ausgebildet zu werden, eine Meisterassasine ist sie deswegen aber noch lange nicht. Auch sind ihre körperlichen Fähigkeiten wahrscheinlich nicht ausreichend für das was vor uns steht. Das heißt wir brauchen etwas Hilfe, Hilfe von jemanden von Außen.
+  Als Kaiserin ist Emily so hochwohlgeboren wie man nur sein kann ohne sich dem Kopf an der Decke zu stoßen. Und doch, die junge Dame hat offenbar relativ viel Zeit damit verbracht der Ausbildung ihres Vaters zu lauschen, vielleicht auch weil ein gewisses Ereignis in ihrem Leben ziemlich traumatisch war und sie doch lieber darauf verzichten würde noch einmal wehrlos zu sein. Eine Person kann aber im Großen und Ganzen wenig lösen, ein Mann kann nicht gegen eine Armee bestehen, sei er noch so stark, man könnte sogar argumentieren das in einem offenen Kampf körperliche Stärke eher sekundär ist, Emilys Geschlecht ihr also nicht zum Nachteil gereicht. Ihre einzige Wahl sind so oder so die Schatten. Die Ausbildung des Vaters war sicherlich großartig und auch tiefgehend, und doch, der Gegner mächtig und unüberwindbar, es ist wahrscheinlich nicht zu vermeiden das wir ein wenig Hilfe erhalten. Zum Glück gibt es für solche Fälle die Hilfe des Outsiders, seines Zeichens Helfer der Schwachen und Rachsüchtigen. 
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 15.11.2016
   ```
 
 ##### #4
 
-* Titel: `Dishonored 2 - #4 - Hafenidyll [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #4 - Am Rande der Welt [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Carnaca macht grade im Vergleich zum doch recht kalten Dunwall einen soliden Eindruck. Es wirkt ein wenig wie eine kleine Kolonie am anderen Ende der Welt. Ursprünglich nahm ich auch an das Dishonored 2 aufgrund der Trailer eher in Pandyssien spielte, einfach weil alles so karabikmäßig aussah. Ich lag falsch.
+  Wir sind jetzt in Karnaca, anscheinend dem Rande der Welt, die äußerste Grenze von dem was die Menschen jemals zu bereisen gewagt hatten. Ursprünglich nahm ich an Emilys Reise würde sie nach Pandyssien führen, dem geheimnisvollen Kontinent noch weiter im Süden aber dort hätte sich wohl so schnell kein Herzog etabliert. Stattdessen sind wir jetzt hier an der letzten Bastion der Zivilisation, auch hier weiß man Wale zu fangen und die Menschen sind gar nicht so viel anders als die die wir schon kennen. Ein wenig grob, ein wenig rau, aber doch menschlich. Und natürlich gibt es hier Schwarzmarkthändler, immer wieder das sichere Zeichen einer funktionierenden und stabilen Wirtschaft ohne Mangel. Der Szenenwechsel ist dennoch so stark wie er nur sein kann, weg vom grauen und regnerischen Dunwall hin zu einem karibischen Ort.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 15.11.2016
   ```
 
 ##### #5
 
-* Titel: `Dishonored 2 - #5 - Verseuchung [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #5 - Blutfliegen Verseuchung [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  In Dunwall gab es Ratten. In Carnacas gibt es Blutfliegen. Fliegen sind aus vielen Gründen deutlich unangenehmer als Ratten. Zum einen sind zwar auch Ratten Schwarmtiere dabei aber deutlich besser einzuschätzen. Außerdem sind sie Säugetiere und ihre Vermehrung ist langsamer...und sie fliehen nicht.
+  Konstanten und Variable. Eine zu Unrecht in Ungnade gefallene Person. Eine Seuche die die Menschen verfolgt. Korrupte Justiz und Gendarmerie. Ratten sind auf allen Kontinenten und Orten beheimatet aber die Seuche die die Rattenplage in Dunwall so erdrückend gemacht hat ist kein Problem in Karnaca. Stattdessen haben wir es hier mit Blutfliegen zu tun, eine Art Schlupfwespe, bekannt für ihre Aggressivität. Gefährlich aber eigentlich kein Problem, heimisch im Herzogtum Serkonien, solange man aufpasst sollte es eigentlich kein Problem sein sie aus den Häusern der Menschen hinaus zu halten und ihre Infektion zu verhindern. Aber was wenn der Staat sehr korrupt ist, Menschen zu sehr mit anderen Dingen beschäftigt sind, Experten nicht verfügbar. Die Bevölkerung zu krank um sich zu wehren? Dann breitet sich die Seuche aus, wortwörtlich wohl ein "Broken Window" Effekt, und so breitet sich die Seuche aus. Und doch, irgendwie erscheint die biologische Bedrohung in dieser Instanz wesentlich leichter zu bekämpfen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 19.11.2016
   ```
 
 ##### #6
 
-* Titel: `Dishonored 2 - #6 - Schaufenstergang [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #6 - Kanalplatz [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Es stellt sich doch die Frage wieviel Chaos wir dadurch verursachen das wir einfach in Orte einbrechen und Gegenstände mitgehen lassen.  Wie sehr es die Struktur der Gesellschaft erschüttert wenn wir an Orten die eigentlich der Öffentlichkeit gar nicht zugänglich sind plündern. Fragen über Fragen.
+  Die Gesellschaft ist in Aufruhr. Der Outsider wird es gesagt haben: Ungeziefer, Blut & Verrat, die Zeichen des Chaos. Und wir sind mitten drin, aber, um wie viel dürfen wir die Realität erschüttern bis unsere Handlung die Gesellschaft endgültig zum Kollabieren bringt. Wir wissen das der Jedermanns-Orden immer bemüht ist die Ordnung zu erhalten, ihre Methoden sind allerdings zweifelhaft, ihre Ziele undurchsichtig und letztendlich arbeiten sie nur mit den Herrschern aber nicht für diese. Kann ein fanatischer Orden wirklich für die Grundfeste der Gesellschaft verantwortlich sein? Neben all dem Chaos und dem Ungeziefer gibt es aber auch einen Lichtblick, Karnaca war einmal eine reiche Stadt und das ist immer noch nicht völlig verschwunden, viele Schaufenster zeugen vom einstigen Reichtum und der Schönheit eines Herzogtums.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 19.11.2016
   ```
 
 ##### #7
 
-* Titel: `Dishonored 2 - #7 - Der Außenposten [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #7 - Jedermanns Außenposten [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Ich hätte eigentlich gedacht das sich der Jedermanns Orden irgendwie komplett erledigt hat oder nur etwas war das sich auf Dunwall beschränkt hat. Aber anscheinend ist der Kampf gegen den Outsider ein wenig weitgehender als ich dachte. Wie dem aber auch sei. Heute durchsuchen wir ein Büro. Und das Büro ist detailreich. Yummi.
+  "Den Sturm zu stillen der aus dem Nichts kommt". So steht es in einem Buch über die alte Musik. Der Jedermanns Orden ist immer auf der Suche nach dem Ketzer, der Heresie und dem Andersartigen. Ihre grundlegende Philosophie ist schwierig. Auf der einen Seite haben sie wahrscheinlich recht das das Nichts und seiner oberster Stellvertreter, der Outsider durchaus eine chaotische Komponenten bieten die für Menschen wahrscheinlich einfach zu viel ist. Mir drängt sich ein wenig der Vergleich mit dem Chaos aus Warhammer auf. Vielleicht nicht ganz so böse oder niederträchtig. Von allem was wir gesehen haben ist die Macht des Nichts eine neutrale Macht. Man kann sie in alle Richtungen einsetzen und der Outsider scheint sich nicht weiter in die Benutzung einzumischen. Christliche Religionen würden eventuell so schon den Teufel beschreiben, der Versucher. Kenner der menschlichen Natur wissen das man nichts weiter tun muss als die richtigen Werkzeuge bereit zu stellen, alles Weitere machen die Leute dann selbst, manchmal sogar mit den besten Absichten. Wir besuchen heute das Büro des örtlichen Vize-Aufsehers. Ich nahm an das der Orden auf Dunwall beschränkt ist,aber so wie es scheint gibt es ihn auf allen Inseln und hier haben wir eine Fiale. Ihre Anwesenheit ist nicht völlig falsch, leider stehen sie uns dennoch im Weg und eine träge Organisation wie der Orden ist auch anfällig für Unterwanderung. Vielleicht ist dies bereits geschehen. Dann hilft auch die alte Musik nicht.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 19.11.2016
   ```
 
 ##### #8
@@ -93,27 +116,42 @@
 * Beschreibung:
 
   ```markdown
-  Tresore in Dishonored 2 sind im Gegensatz zum Vorgänger nicht mehr so einfach zu knacken. Das liegt wahrscheinlich daran das die Umgebung Detailreicher geworden ist und deswegen kritische Hinweise sehr leicht verloren gehen können und man kritsche Zahlen nicht mehr findet. Ärgerlich.
+  Schon seit je her versuchen die Menschen ihre Schätze und Eigentümer vor dem Zugriff Anderer zu beschützen. Das ist ja so weit auch in Ordnung, außer wir sind diese Anderen. Als gefallene Kaiserin verfügt man über kein nennenswertes Taschengeld bei Auslandsbesuchen. Das macht sich in letzter Zeit sehr störend bemerkbar und meine heutigen Versuche mein Taschengeld aufzubessern scheitert eben an einem Tresor. Wir kennen das eigentlich schon aus dem Vorgänger. Auch da dachten irgendwelche findigen Kaufmänner das sie ihre Habe einfach so wegschließen können. Was sie aber nicht wissen ist aber das man die Kombination nicht niederschreiben sollte. Ein Tresor ist ein wenig wie eine Einladung, ein Versprechen auf Reichtümer und damit auch ein Grund zur Motivation eben dieses Versprechen einzulösen. Ideal wäre wohl ein gut sichtbarer Tresor der möglichst kompliziert ist und dann noch ein weiterer versteckter Wertspeicher für die wirklich wichtigen Dinge. So oder so bleibt die Angelegenheit für unsere darbende Kaiserin sehr frustrierend. 
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 19.11.2016
   ```
 
 ##### #9
 
-* Titel: `Dishonored 2 - #9 - Die Addermire Station [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #9 - der Addermire Bahnhof [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Wir wollen Bahn fahren. Unerkennat in das Addermire Institut eindringen und dort Informationen rausholen. Das wir dafür eine Rollbahn benutzen wollen die ziemlich offen durch die Gegend fährt sei einmal komplett vergessen. Das sind ja nur unwichtige Details nicht wahr?
+  Öffentlicher Nahverkehr sollte kostenlos sein! Und überhaupt zugänglich. Die armen darbenden Bürger von Karnaca haben es nicht leicht, allen Anschein nach ist der Zugang zum Addermire Institut für die Allgemeinheit nicht mehr vorhanden, aus irgendwelchen Gründen werden keine Patienten mehr aufgenommen und der einzige Weg in die Anlage scheint über die Bahn möglich zu sein. Die Bahn selbst ist übrigens ein ziemliches technisches Meisterwerk, wie sie sich schlank über das Wasser rankt und zum Institut führt, der Weg selbst nicht bewacht zu sein aber wir können auch nicht einfach mit einem Boot hinüberfahren, ein wenig passen die Wachen schon auf. Ein wenig mehr passt man auch in der dazugehörigen Bahnstation auf sodass wir nicht einfach einen Wagen steigen können um uns in Behandlung zu geben. Außerordentlich bedauerlich, aber wir erfahren auch das sich nur Emily für etwas Besseres hält sondern auch die Offiziere der Wache von Serkonos. Verlangen diese Leute doch glatt bessere Rationen als der Rest. Ursprünglich hieß diese Episode (für 6 Jahre) "die Addermire Station" und das steht auch so im Spiel, aber in diesem Zusammenhang würde ich das Wort eher als Bahnhof übersetzen, auch wenn Karnaca in dieser Hinsicht wohl noch ein wenig Ausbauen kann, Ein-Spur-Bahnen sind nicht das was die arbeitende Bevölkerung in die Mine bringt. Andererseits ist der Platz sowieso ein wenig sehr beschränkt, ein richtiges Straßenbahnsystem erscheint fast undenkbar.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 22.11.2016
   ```
 
 ##### #10
 
-* Titel: `Dishonored 2 - #10 - Außenbereich [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #10 - Institut des Verfalls [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Wir haben es geschafft, wir sind endlich im Addermire Institut, ich gebe zu ich habe dafür deutlich länger gebraucht als ich eigentlich vor hatte zu brauchen. Das liegt unter anderem daran das ich untererkannt bleiben wollte. Realistisch gesehen hatte man mich aber eh schon gesehen, ich hätte genauso gut durchrennen können.
+  Die Natur in Karnaca und damit auch im gesamten Herzogtum ist sehr mächtig, wir sehen schon an der Stadt das die Menschen es nicht geschafft haben mehr als ein Stück der Küste abzuringen und die großen Bäume einfach eine Konstante sind die man bestehen lassen muss weil es keinen Weg gibt sie zu bezwingen. Das Wachstum von Pflanzen scheint schnell und auch Strukturen zerfallen in Rekordzeit. Heute betreten wir den Außenbereich des Addermire Instituts, einst eine ehrwürdige Anlage in der die gute Frau Doktor sich um die Kranken und Schwachen gekümmert hat. Es gibt noch immer Personal, neben den Wachen, das in dem Institut arbeitet. Man möchte meinen das die Arbeit in einer solchen Anlage gewisse Privilegien bei der Behandlung von Angehörigen und einem selbst mit sich bringt aber allem Anschein nach ist dem nicht so. Der gesamte Komplex, zumindest soweit wir ihn betreten können ist von Verfall gezeichnet, überall sehen wir Zeichen der Vernachlässigung, die Wachen scheinen sich nur darum zu kümmern das niemand herumschnüffelt aber sonst gibt es keine Leute die sich um den Erhalt kümmern. Noch weniger gibt es Ärzte oder Krankenschwestern die sich um die Behandlung von Patienten kümmern. Oder Patienten. Das Addermire Institut ist ein deprimierender Ort, und das in einer so prächtigen Lage.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 22.11.2016
   ```
 
 ##### #11
@@ -283,32 +321,47 @@
 
 ##### #23
 
-* Titel: `Dishonored 2 - #23 - Gehirn flüssig [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #23 - Ära des Fortschritts [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Kirin Jindish ist gefährlich weil sein ruheloses Gehirn dauerhaft neue Erfindung kreirt und er dabei Argumente wie Menschlichkeit, Wärme oder Rücksicht komplett wegfallen lässt. Das ist natürlich sehr ärgerlich. Den Mann zu töten erscheint die Einzige Möglichkeit..oder ihm seines brillanten Verstandes zu berauben.
+  Dishonored 2 und in diesem Fall, Emily hält sich hier an die Tradition des Vaters. Sie bringt niemanden um aber das was sie stattdessen tut ist vielleicht sogar noch schlimmer. Wir wissen das es im Nichts eine Art Jenseits gibt, einen Ort den die Toten betreten und in denen ein Fragment ihrer selbst verbleiben kann, wahrscheinlich nicht ewig aber doch eine Weile. Kirin Jindosh ist ein Genie, ein Genie das seine Genialität für finstere Dinge verwendet hat und bestimmt auch verwenden wird. Wir könnten die Welt von seinen Ideen befreien damit aber auch der Welt einen wertvollen Erfinder berauben. Letztendlich ändert es aber wohl nichts für die Menschen, seine Erfindungen scheinen den Menschen bisher nicht viel gebracht zu haben. Und doch, das was wir tun um ihn zu neutralisieren würde ein vollkommen anwesender Jindosh als schlimmer als der Tod ansehen. Wir wissen nicht ob das was wir tun von dauerhafter Wirkung ist aber es spricht vieles dafür. Und dann..er hat immer noch Erinnerungen, Fragmente von dem Mann der er einst war, Bruchstücke von Erinnerungen die ihn Quälen und Aufzeigen was er einst war aber nicht mehr sein kann. Ist dieses Schicksal wirklich besser als der Tod oder nur eine beliebige moralische Grenze die wir nicht überschritten haben aber doch Umgangen? Und was passiert wenn wir Jindosh im Nichts treffen würden? Wäre er dann wieder die Person die er einmal war weil wir nur seinen physischen Körper geschadet haben? Passt sich der Geist dem Gefäß an? Wenn wir ihn jetzt umbringen wäre er anders auf der anderen Seite als wenn er in 10 Jahren sterben würde? Jeder Versuch einer Antwort auf diese Frage wäre noch unmoralischer als das was wir tun. Eines ist aber sicher, wir haben wirklich eine Ära des Fortschritts sabotiert.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 16.12.2016
   ```
 
 ##### #24
 
-* Titel: `Dishonored 2 - #24 - Flucht Nummer drei [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #24 - Antons Exfiltration [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Nach jedem guten Mord kommt eine gute Flucht. Auch nach jedem guten Nicht-Mord kommt eine Flucht. Zum Besuch authorisiert waren wir ja von Anfang an nicht. Obwohl fraglich ist inwiefern man von einer Flucht sprechen kann wenn man einfach rauspaziert.
+  Unser Ziel war es nie Kirin Jindosh umzubringen. Nein, unser Ziel war offensichtlich die Rettung eines älteren Wissenschaftlers namens Anton Sokolov. Wir erinnern uns vielleicht nicht weil Emily ungefähr 10 Jahre alt war, aber einst war Sokolov ein großer Mann, damals schon Richtung Ende seiner wissenschaftlichen Karriere aber dennoch ein Schlüsselstein der damaligen Verschwörer. Er selbst zeichnet sich für die Erfindung diverserer moderner Technologien verantwortlich. Jindosh wollte offensichtlich die Genialität des alten Mannes noch ein letzes Mal ernten. Ob er voller Reue für das ist was er einst getan hat? Reue für die Hundertschaften die er durch seine Technologie in den Tod geschickt hat. All die Armen, Kranken und Schwachen die er nicht hat heilen können? Es spielt keine Rolle, wichtig ist nur das wir wissen wollen was er weiß und unser Feind nicht mehr wissen soll was er weiß aber vielleicht noch nicht gesagt hat. Und daher bringen wir den alten Mann nach draußen, mitten durch feindliches Gebiet. Leider hat er es verpasst den Hubschrauber zu erfinden, und das wo er doch sonst soviel wie Leonardo ist.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 16.12.2016
   ```
 
 ##### #25
 
-* Titel: `Dishonored 2 - #25 - Vergangenheit [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #25 - eigenartiger Besuch [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Die Welt in der Dishonored spielt ist ja prinzipiell von Logik, Geist und Wissenschaft geprägt. Nun heißen die großten Wissenschaftler Alchemisten und generell und überhaupt sind deren Methoden eventuell nicht so einwandfrei, aber dennoch. Und dann kommt da so ein mystisches Element vorbei und der Outsider greift ein...Logik weg.
+  Noch haben wir das Maschinenhaus und damit den Aventabezirk nicht verlassen aber eigentlich liegt unser Blick am Horizont. Jindosh ist Neutralisiert und auch wenn es auf dem Rückweg noch einige Unannehmlichkeiten gibt so sind wir prinzipiell am Ende unserer Exkursion. Die Neuankömmlinge im Aventa Bezirk, egal ob Oben oder Unten kann man durchaus als eigenartig bezeichnen. Oder wir sind es, vom Outsider gezeichnet kann man wirklich nicht davon sprechen das wir noch vollkommen menschlich sind, die Versuchung des Outsiders ist stark..und doch. Dort draußen gibt es definitiv jemanden der mehr gebrochen ist, mehr kaputt. Jemand der wesentlich finsterer ist als wir es vielleicht jemals sein könnten. Eine Person der das Leben auf der Straße nicht fremd ist, jemand der uns persönlich hasst. Jemand der unsere Träume kennt. Traumlogik gilt hier.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 20.12.2016
   ```
 
 ##### #26

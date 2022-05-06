@@ -433,6 +433,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #29
+
+* Titel: `Disco Elysium - #29 - Kampf in den Schlaf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Tag ist nun wirklich vorbei, wir haben soviel Zeit damit verbracht einfach nur wach zu sein und durch die Welt zu laufen aber jetzt es langsam wirklich vorbei. Das Problem ist bloß, wenn man eine schmerzhafte Vergangenheit hat dann hat man auch öfter das Problem das man sich gar nicht so wirklich an diese Vergangenheit erinnern möchte. Wir können uns eigentlich an so gut wie gar nichts erinnern und doch, ein Teil von weiß noch was wir waren, wer wir waren und was geschah das wir nach all den Jahren exakt in diese Situation gelandet sind. War die Person die wir einst waren wesentlich fähiger als die Heutige? Fraglich, aber vielleicht hatte er mehr Fähigkeiten auf die wir jetzt keinen Zugriff mehr kamen, aber keinen Willen auch wirklich diese Fähigkeiten zu nutzen. Und jetzt reisen wir in das Reich der Träume, jenen Art an dem wir mehr wir sind was wir einst waren. Eventuell ist dies nicht der beste Zustand, und dann kommt auch noch das Schlimmste, das Aufwachen. Eventuell hofft ein Teil von uns nicht wieder aufzustehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 25.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #30
+
+* Titel: `Disco Elysium - #30 - Von Kryptiden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Forschung ist ziemlich interessant. Man erfährt neue Dinge und alles ist irgendwie aufregend. Leider sind die ganzen einfachen Dinge schon bekannte und wenn man jetzt noch in das Gebiet (egal welches) rein will dann wartet da erst einmal eine Menge Arbeit. Wir stehen auf den Schultern von Giganten und ich erwische mich auch selber gerne dabei wie ich einfache Dinge noch einmal neu erfinde, aber wenn man echten Fortschritt machen will dann kann man nicht andauernd das Rad neu erfinden. Das technologische Niveau der Welt ist mir immer noch nicht so ganz klar aber man scheint sich viel auf Kurzstreckensender und Wachszylinder einzubilden. Generell erscheint es so als hätte man bestimmte Technologien weiter ausgeritten als es in der anderen Welt die wir Realität nennen der Fall ist. Manche Ideen wären vielleicht gut gewesen aber der technische Fortschritt hat sie obsolet gemacht bevor sie überhaupt in Serie gehen konnten. All diese Probleme hat man übrigens nicht wenn man sich ein Forschungsgebiet greift das noch quasi Neuland ist, zum Beispiel das Auffinden noch unbekannter Tierarten. Das ist auch immer ein schöner Vorwand weit raus zu fahren. Komisch wird es aber wenn sich die entsprechenden Viecher angeblich ganz in der Nähe aufhalten sollen. So behauptet es zum Beispiel ein gewisser Kryptozoologe dessen Frau wir bereits kennen gelernt haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 02.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #31
+
+* Titel: `Disco Elysium - #31 - Buchbummel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dank nächtlicher Streifzüge sind wir jetzt richtig dolle reich. Sogar Gart haben wir schon bezahlt obwohl wir das hätten auch am Abend machen können. Das alles ist ein wenig ärgerlich, jetzt haben wir weniger Taschengeld aber aus einer vernünftigen Perspektive aus war es natürlich logisch zu erst ausstehende Schulden zu bezahlen. Nur nicht besonders lustig. Außerdem müssen wir noch Kunst finanzieren, insbesondere Farbe. Und doch gehen wir heute in einen Buchladen um ein paar Bücher zu kaufen. Bücher erzählen interessante Geschichte, selbst wenn die Auswahl die der örtliche Buchladen bietet ein wenig eingeschränkt ist und eventuell nicht alle Geschmäcker trifft. Tatsächlich waren wir ja bereits im Laden und haben mit diversen Regalen "geredet" nur um von der Verkäuferfrau zu erfahren das wir unbedingt kaufen sollten. Warum und weshalb kam dabei leider nicht heraus. Das ist aber kein Problem, wir wissen ja schon welchen Schmöker wir uns besorgen wollen. Jetzt müssen wir nur noch ein wenig Zeit freimachen um das Buch auch tatsächlich zu konsumieren. Und dann wären da auch noch unsere alte Fallakten. So viele Dinge zu tun, so wenig Zeit. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 02.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #32
+
+* Titel: `Disco Elysium - #32 - Verfluchter Gewerbeblock [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bekannterweise spiele ich ziemlich viele Spiel mit der Unterstützung eines Chats. In meinem Fall ist das eine enorm persönliche Angelegenheit. Meistens gibt es nur ein bis drei Menschen die aktiv mit mir reden und einige wenige andere die im Hintergrund das Geschehen laufen lassen. Im Falle von Disco Elysium gibt es auch eine solche Person, und die hat mir gesagt das ich eine bestimmte Tür Save-Scummen soll. Letztendlich ist ein Spiel mit Skill Checks die man immer und immer wieder laden kann ziemlich sinnfrei wenn man dann wirklich öfter lädt. Deswegen versuche ich das aktiv nicht zu machen, einfach um mir nicht selber den Spaß zu verderben. Und wenn etwas mit einer 95% Chance scheitert dann ist es wohl einfach so, das muss man hinnehmen, das Leben neigt dazu keine Favoriten zu haben. Ich muss aber sagen das es sich für den verfluchten Gewerbeblock wirklich gelohnt hat. Im Englischen kennt man ihn übrigens als "doomed commercial area", ich würde jetzt argumentiert das "doomed" nicht das Gleiche wie verflucht ist, schließlich gäbe es dafür noch das Wort verflucht, aber vielleicht gibt es ja gute Gründe die Worte zu nehmen die genommen wurden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 02.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

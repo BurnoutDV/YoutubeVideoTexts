@@ -859,6 +859,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #53
+
+* Titel: `Horizon Forbidden West - #53 - Brennsperrs Wasserversorgung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da wir plötzlich und vollkommen überraschend in der Wüste sind müssen wir uns jetzt auch um die Sorgen der Leute vor Ort kümmern. Das passiert Aloy andauernd aber vermeiden kann man es wohl nicht. Also stehen wir jetzt hier und tun Dinge. Zum Beispiel herausfinden warum die absolut überlebenswichtige Wasserversorgung eines Ortes namens Brennspeer auf einmal nicht mehr funktioniert. Was für ein Ort es einst war können wir übrigens relativ ziemlich leicht ersehen, ein wenig überraschend ist eigentlich auch wie viel von einem alten Solarthermik Kraftwerk noch übrig ist, viel überraschender aber auch das die uralte Wasserpumpe die das Wasser zur Erwärmung heranschaffen sollte immer noch funktioniert. Auf welcher Energieform basiert die Pumpe? Welche Maschinen verwalten die Pumpe und ihre Unterfunktionen und, tun die Reflektoren immer noch Energie auffangen oder ist irgendeine dritte Anlage für die Versorgung zuständig? Warum funktioniert das alles noch? Dies erscheint irgendwie doch ein wenig sehr unlogisch. Hunderte Meter Rohr, wahrscheinlich eher Kilometer haben fast 1000 Jahre in der Erde überlebt und scheinen immer noch verlustarm Wasser zu transportieren? Würden sie lecken hätten wir doch gewiss Oasen auf dem Weg oder? Oder hat jemand eingegriffen um solche Orte künstlich und unauffällig am Leben zu erhalten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 26.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #54
+
+* Titel: `Horizon Forbidden West - #54 - das Tor der Besiegten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist interessant. Interessant wie der Geist aktuelle Ereignisse auf die Geschehnisse in einem Spiel münzen möchte. Folgende Sachlage, wir schreiben Mai 2022, oder aber auch 3000 Irgendwas in Horizon. Wir haben es mit zwei Leute zu tun die anscheinend bereits diverse Leute unter ihrem Kommando haben und beide um die Vorherrschaft im Wüstenstamm kämpfen wollen. Auf der einen Seite haben wir die aktuelle Anführerin die harte Entscheidungen treffen musste um ihre Leute zu erhalten, auf der Anderen haben wir den jungen Herausforderer der glaubt er könne es besser machen und die bestehende Ordnung durcheinander werfen will. Interessant dabei ist die Tradition des Stammes anscheinend verlangt das man solche Konflikte in breiter Masse austrägt. Das wäre natürlich fatal für das weitere Überleben des Stammes, klar, das Ausdünnen von ein paar Leuten in Zeiten der Materialknappheit ist bestimmt eine sehr gute Idee und ich kann mir durchaus vorstellen das das in der Vergangenheit ganz schön war, aber jetzt wäre es doch eher dumm. Jetzt zur Parallele, Aloy versucht in jeder Situation und eigentlich immer die zivile Lösung zu finden. Einen Konflikt zu beenden bevor Blut vergessen wird, und doch, manchmal kommt es vor das alle Parteien bereits so weit vorgerückt sind das ein Rückzug quasi unmöglich scheint. Würde eine der beiden Seite zurückweichen würde dies in der sicheren Vernichtung enden. Noch tragischer ist es aber wenn nur eine Seite vernichtet werden würde aber die andere Seite einfach nicht zu überzeugen ist. Dann hilft es wohl nur noch die Waffen sprechen zu lassen und darum zu beten das eine unsichtbare Entität eine Seite bevorzugt so dass es ein schnelles Ende gibt...Oder aber man entscheidet sich last Minute für eine Entscheidung durch Champion. Was ja eigentlich genau das ist was ich von Anfang an wollte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 26.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #55
+
+* Titel: `Horizon Forbidden West - #55 - Sintflut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Horizon Forbidden West macht durchaus das ein oder andere politische Kommentar, das hat auch Zero Dawn getan, dort gab es am Rande schon Anmerkungen über die Arbeitsbedingungen in den 40er oder wie generell Menschen in Zeiten zunehmender Automatisierung behandelt wurden. Dadurch das das Terraforming System jetzt auf einmal Amok spielt, nachdem es 20 Jahre lang stabil war, nehmen natürlich auch Klimakatastrophen zu. Für die Menschen auf der Erde ist das ein wenig ärgerlich aber da alle Zusammenhänge nicht klar sind halten sie es nur für eine temporäre Erscheinung oder hoffen das die Dinge einfach besser werden. Ironischerweise werden die Dinge nicht besser aber letztendlich sind die Dinge die die primitiven Völker von Horizon tun in etwa genau das was auch die Menschen der realen Welt tun. Aber vielleicht interpretiere ich da auch zuviel rein. Im vorliegenden Fall handelt es sich aber durchaus um eine Katastrophe die auch einfach so hätte geschehen können, durch lokale Schwankungen im Umweltsystem und starken Regenfällen auch ohne drohende Apokalypse. Auch wichtig übrigens, GAIA hat gesagt das der Prozess in ein paar Monaten nicht mehr umkehrbar ist, nicht das die Welt in ein paar Monaten untergehen wird. So etwas haben wir auch, einige Klimaforscher sagen das Jahrzehnten, eventuell sind wir bereits am Point of no Return und können jetzt nur noch die Wirkung abfedern um es etwas annehmlicher zu machen während ein Großteil stirbt. Und mit jedem Tag wird auch das schwerer. Aloy hat es leichter, sie kann einfach die Verletzten retten und ein paar Dinge hin und her schieben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 03.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #56
+
+* Titel: `Horizon Forbidden West - #56 - Blutzeichen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich sind wir immer noch genau da wir vorher waren, in der völlig überfluteten Stadt Schrägstrich Dorf die ärgerlicherweise so an einem Hügel gebaut ist das, wenn eine Schlammlawine kommt, auch direkt alles begraben wird. An sich können die Leute aber wohl noch ganz zufrieden sein das es nicht Nacht war als die Flut kam. Wir sind aber immer noch mit Retten beschäftigt, dafür das die Tenakth so ein harter Kriegerstamm ist bin ich übrigens wirklich enttäuscht wie wenig leistungsfähig sie eigentlich sind. Unabhängig davon gibt es hier aber auch noch eine weitere Geschichte. Eine jungen Kriegerin namens Nattikka ist anscheinend sehr daran interessiert das Dorf zu verlassen aber ein älterer Krieger ist dagegen. Dann gibt es da noch verschiedene Subtexte die ich aber leider nicht in der Lage bin zu lesen aber alles läuft darauf hinaus das wir aktiv eingreifen müssen und deswegen tun wir das dann natürlich auch. Der Ort heißt übrigens so weil hier ein bestimmtes Pigment der Bemalung die die Tenakth so sehr lieben gewonnen wird. Nur falls hier Verwirrung auftauchte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 03.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1732,6 +1732,54 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #108
+
+* Titel: `KotOR 2 - #108 - Tatort & Alibi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich wollte es wirklich nicht, aber hier sind wir wieder, wir machen eine Mordermittlung. Eigentlich interessiert uns das Opfer aber nicht wirklich, und der Täter auch nicht. Das ist alles ziemlich interessant weil das Opfer scheinbar eine halbwegs wichtige Person für die örtlichen Behörden war und der Täter wahrscheinlich nicht einfach so irgendeine Person auf der Straße erschossen hat. Ich erinnere übrigens daran das beim letzten Mordfall den ich aufgeklärt habe sich am Ende herausstellte das unser angeblicher Täter wahrlich der echte Täter war und wir dann doof vor Gerichten standen und irgendwelchen Schweizern erklären mussten das unser Mann zwar der Mörder ist aber auch total unschuldig. Das ist eine ziemlich dumme Situation in der ich eigentlich nicht wieder stecken möchte. Nun dann, wir machen also das was die Ermittler der örtlichen Behörden eigentlich hätten sowieso schon machen sollen, wir fragen mal rum und werfen wild Fakten ineinander bis wir die Wahrheit herausdestillieren können. Der große Twist dieses Mal ist aber wohl das wir nicht so direkt die Wahrheit erfahren sondern nur genügend der Unwahrheit erkennen um unseren Kontaktmann raus zu hauen, Gerechtigkeit auf Wish bestellt...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 16, Aufnahme vom 28.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #109
+
+* Titel: `KotOR 2 - #109 - Dhagon Ghent [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wollen in den örtlichen königlichen Palast. Ob uns der Experte für illegale Aktivitäten sagen kann ob es sich um eine Erbmonarchie handelt oder ob das Volk irgendwie komisch seinen König wählt und das nur vom Namen her eine Monarchie ist? Die Tatsache das ein Verwandter der aktuellen Herrscherin das Militär kontrolliert lässt mich aber glauben das dem wohl nicht so ist. Eigentlich wollen wir übrigens auch gar nicht in den Palast oder die Königin sprechen sondern unseren alten Freund und Kupferstecher mal wieder auf einen kleinen Plausch einladen. Leider ist der Mann gar nicht einmal so leicht zu erreichen also müssen wir sehr ungewöhnliche Wege gehen. Wir können uns aber wahrscheinlich darauf verlassen das wir bald in einen Hinterhalt laufen. Immerhin können wir heute zweifelsfrei beweisen das unser Kontaktmann unschuldig ist. Immerhin schön das es wirklich niemanden interessiert wer jetzt der wahre Täter war. Obwohl, das wäre den Leuten schon relativ wichtig, aber eigentlich nur weil es überhaupt irgendeinen Täter braucht. Das sie vorher den Falschen hatte war ihnen ja auch ziemlich egal, Hauptsache jemanden dem man die Schuld zuschieben kann wenn die Frage von Oben kommt. Zurück zu Dhagon Ghent, unser neuer bester Kumpel Mandalor hat gesagt das der schlechte Arzt alles regeln kann und das wollen wir jetzt natürlich auch einlösen. Alles. Immerhin schuldet er uns bereits etwas, schließlich haben wir ihn grade vor einer Hinrichtung bewahrt. Das muss ja doch wohl was wert sein oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 16, Aufnahme vom 28.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #110
+
+* Titel: `KotOR 2 - #110 - verschlüsselte Holodisks [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fassen wir wieder einmal zusammen. Jeder Depp kann irgendwie auf Informationsnetze zugreifen und G0t0 muss irgendwelche Bith umbringen die mit ihren natürlichen Organen seine Übertragungen abfangen können. Fernstreckenkommunikation über Sternensystem ist in der Regel kein Problem, aber die Bildqualität ist in der Regel ziemlich mies, außer wenn sich eine KI selbst projiziert. Droiden sind in der Regel ziemlich dumm und haben spezialisierte Aufgaben es sei den die Story braucht eine allmächtige all-purpose Intelligenz die nicht menschlich ist. Informationen müssen auf unhandlichen Speichergeräten durch die Gegend getragen werden und in 4000 Jahren wird irgendjemand die Baupläne des Todessterns stehlen die wiederum in einer gewaltigen Anlage aufbewahrt werden die ein wenig an ein Bandspeicherlaufwerk erinnert. Außerdem gibt es Holodisks die so klein sind das man sie leicht mit irgendetwas Anderem verwechseln kann. Ich nehme jetzt einfach einmal an das der Vergleich mit Bandlaufwerken schon nahe dran war und die Holodisk sind dann Mikrofilme. Übrigens eine faszinierende Technologie diese Mikrofilme, die sind wirklich klein und halten eine erstaunliche Datendichte. Immer noch nicht so gut wie Micro-SD Karten aber wenn Dhagon die verloren hätte würden wir mit dem Suchen nicht fertig werden. Übrigens dürfen wir heute jemanden über den Haufen schießen und kriegen dafür nicht einmal dunkle Macht Punkte, ist das nicht toll?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 16, Aufnahme vom 28.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

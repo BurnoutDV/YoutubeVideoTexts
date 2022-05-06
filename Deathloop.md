@@ -730,6 +730,66 @@
   Sitzung 8, Aufnahme am 28.04.2022
   ```
 
+##### #49
+
+* Titel: `Deathloop - #49 - Generatorstation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist endlich der Moment gekommen, es ist wieder morgen und am Morgen im Komplex sind die Generatorstationen anscheinend nicht abgeschlossen weil die Maßnahmen von Julianna noch nicht wirken. Allerdings ist fraglich warum sie so agiert wie sie es tut? Müsste ihr nicht bewusst sein das ich in den tausenden von Tagen die dies hier schon passiert sehr wohl in der Lage bin den Komplex zu erreichen ohne das sie ihn vorher abriegeln kann? Generell und überhaupt ist wirklich ein wenig fraglich wie sich Julianna überhaupt noch überfallen lassen kann. Von allem was wir wissen ist dies nicht das erste Mal das wir unsere Erinnerung vergessen haben und dann noch einmal von Vorne anfangen, teilweise scheint sie uns sogar zu helfen. Auch interessant ist übrigens das die Stimme in unserem Kopf, oder die Buchstaben, quasi Synästhesie nicht immer von Colt zu sein scheinen. Oder so kommt es mir jedenfalls vor. Die Generatorstation habe ich bisher immer übersehen, aber ohne die entsprechenden Codes hätte ich wohl weniger viel Erfolg gehabt. Das ich das Äon Büro als Erstes aufgesucht habe ist insofern also gar kein Problem, letztendlich hat es mir nur eine weitere Reise nach Updaam gespart die ich dann eh am nächsten Tag mit dem Komplex konkludiert habe. Werfen wir also ein paar Generatoren an..auf Basis welchen Treibstoffes auch immer diese funktionieren.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 8, Aufnahme am 28.04.2022
+  ```
+
+##### #50
+
+* Titel: `Deathloop - #50 - Yasen Station [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig wie ein krankes Hobby. Immer wenn ich am Mittag in Updaam bin bringe ich Charlie um, nicht weil ich das muss oder weil ich besondere Gründe dafür habe, es ist nur einfach so das es sich halt anbietet. Und er trägt halt die für mich ziemlich wichtige Teleporttafel, da kann ich es mir doch wohl kaum entgehen lassen den Mann über den Haufen zu schießen. Manchmal macht er es mir aber auch leicht, zu schade das der Premiumeingang in seine Gemächer eigentlich ziemlich sinnfrei für mich ist, weil hier müssen wir quasi nie wieder rein, Charlies Tod ist für einen anderen Ort vorgesehen, nicht hier, nicht heute. Stattdessen durchsuchen wir die Yasen Station, ich kann übrigens gleich sagen das ich ein wenig enttäuscht bin. Updaam ist sowas wie die Hauptstadt der Operation Horizon und doch hat man hier scheinbar viel zu gründlich aufgeräumt. Generell kann man wohl davon ausgehen das der Abzug der Mutterlandtruppen relativ schnell war, soviel Zeug wie hier noch steht. Die verschiedenen Maschinen und Analysegeräte können doch gar nicht so günstig sein. Was wir aber erfahren ist aber auch nicht ganz un interessant, ein Passwort für das RAK und eigentlich noch viel wichtiger, die Stimme in unserem Kopf die immer die Briefe schreibt bezeichnet Berezin als Bastard, in dieser Hinsicht haben wir bisher keine weiteren Informationen aber ich möchte davon ausgehen das wir eine persönliche Geschichte mit dem guten Field Marshall haben, ob er für die ursprüngliche Degradierung verantwortlich ist?
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 8, Aufnahme am 29.04.2022
+  ```
+
+##### #51
+
+* Titel: `Deathloop - #51 - Wenjiies Neugier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben einen Terminkonflikt. Das war von vornherein bereits klar, es gibt mehr Visionäre als Tageszeiten, das macht es ein wenig schwierig alle von ihnen an einem Tag zu erschießen, erwürgen und mit der Machete zu erstechen. Das ist keine Überraschung, tatsächlich war das sogar von Anfang an klar. Schließlich ist das Absicht. Das ist genau der Punkt des LEP. Von Anfang an hieß es das es enorm wichtig ist das nicht alle Visionäre am gleichen Ort sind. Welch Glück das wir Harriet und Frank am Morgen quasi gleichzeitig töten, auch wenn der eigentliche Mord erst viel später passiert. Um jetzt aber doch noch irgendwie Wenjii dazu zu bringen zur richtigen Uhrzeit aufzutauchen müssen wir also irgendetwas verändern. Schlimmer noch, wir brauchen vielleicht einen weiteren Verbündeten der uns dabei hilft die gute Dr. Evans zu einer gewissen spannenden Party einzuladen. Aber dafür bräuchten wir erst einmal etwas um sie zu locken..was das wohl sein könnte.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 8, Aufnahme am 29.04.2022
+  ```
+
+##### #52
+
+* Titel: `Deathloop - #52 - Akkar Station [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eine späte Abendstunde und wir sind schon wieder in Karlsbucht. Es ist übrigens ein kleines Elend das wir Frank hier nicht einfach umbringen können und stattdessen den Anschlag entweder vorbereitet haben müssen oder halt darauf verzichten das Attentat durchzuführen. So gesehen haben wir Frank also nur ein einziges Mal selber getötet. Aber keine Angst, das werde ich noch nach holen, später, bei Gelegenheit. Jetzt aber erst einmal zur Akkar Station, ich muss leider sagen das der Ort ein echtes Problem für mich ist..sie ist langweilig. Quasi komplett verschüttet finden wir hier kaum mehr als die Tür. Heißt das das es seismische Aktivitäten gab oder das Projekt Horizon hier mehr Spuren verdeckt hat als anderswo? Wir werden es wohl nicht erfahren aber immerhin haben wir etwas Selbstfindung hier.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 8, Aufnahme am 29.04.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

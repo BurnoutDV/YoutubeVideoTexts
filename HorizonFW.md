@@ -919,6 +919,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #57
+
+* Titel: `Horizon Forbidden West - #57 - Jagdzeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben nicht ideale Ausrüstung. Generell und überhaupt ein extrem großes Problem. An sich möchte man seine wertvollen Ressourcen ja eigentlich für die Upgrades aufsparen die am ehesten Sinn ergeben aber dann will man auch nicht die ganze Zeit mit mittelmäßiger Ausrüstung herumrennen. Ideal ist es wohl wenn man die verwendeten Materialien aus einem Gegenstand später wiederverwenden kann. Horizon Forbidden West ist nicht so ein Spiel. Und doch benutze ich sehr gerne den Scharfschützenbogen der es mir ermöglicht erheblichen Schaden an meinen Gegnern anzurichten. Das Einzige was mir zu meinen nächsten Ausbau fehlt ist ein bestimmtes Stück. Wie es der Zufall so will gibt es hier auch ein lokales Beutevertragslager. Die verlangen nicht nur das wir Dinge jagen sondern bieten auch Dinge feil, aber nicht die eine Sache die ich brauche. Da hilft wohl nur selber Jagen. Ärgerlicherweise gibt es da ein Problem..das dämliche Vieh möchte seine Bauteile einfach nicht rausrücken. Was für ein Elend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 03.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

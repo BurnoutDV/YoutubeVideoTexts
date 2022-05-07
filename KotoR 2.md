@@ -1780,6 +1780,38 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #111
+
+* Titel: `KotOR 2 - #111 - lächerliche Attentatsversuche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Meine Geduld schwindet. Ich kann verstehen das diverse Kopfgeldjäger durchaus sehr daran interessiert sind unseren Kopf bei der Exchange auf Nar Shadarr abzugeben aber das funktioniert einfach so nicht. Wenn man sich irgendwie auf fiese Attentate oder Heimlichkeit versteifen würde könnte ich das ja noch irgendwie nachvollziehen. Die Sachlage ist aber das sich bisher jeder Attentäter bzw. Entführer persönlich vorgestellt hat und uns so noch ein wenig Zeit gegeben hat die Machtgeneratoren warm laufen zu lassen. Das Endergebnis ist immer das gleiche und beschäftigt die Stadtreinigung insofern sie noch existiert definitiv noch ein paar Wochen. Dreist ist in diesem Fall jetzt aber das ich dadurch ein wichtiges Gespräch unterbrochen habe obwohl wir durchaus noch den Moment hätten nutzen um in Ruhe alle wichtigen Dinge abzuklären und dann eben solcher Ruhe zurück zum Raumschiff zu schlendern. Das überhaupt noch irgendjemand versucht uns anzugreifen ist wirklich irritierend. Die Straßen sind wortwörtlich und ohne Übertreibung Rot mit dem Blut und den Körpern der letzten drei Gruppen die versucht haben uns aufzuhalten. Daran wir auch kein komischer Militärdude etwas ändern. Ich bin wirklich sehr genervt. Ob das der Weg zur dunklen Seite der Macht ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 16, Aufnahme vom 28.04.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #112
+
+* Titel: `KotOR 2 - #112 - Kampfkurs mit Kreia [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lange habe ich sie bekniet, sie angebettelt und alles versucht um Training zu erhalten. Jetzt ist es endlich so weit, Kreia bringt uns endlich bei wie man mit einem Lichtschwert umgeht. Bis her habe ich das gute Stück ja vor allen Ding als Statsgenerator genutzt. Direkten Kampf würde ich auch eher vermeiden müssen da ich mit so einem Schwert einfach nicht umgehen kann. Mir ist allerdings nicht so ganz bewusst warum grade Visas für den Trainingskampf herhalten muss. Eventuell vielleicht weil sie die Einzigste ist die mit Lichtschwertern auch völlig unabhängig von dem was ich mit den Leuten gemacht habe umgehen kann? Es bleibt auf jeden Fall spannend was wir mit den vielen neuen Fähigkeiten noch alles anstellen können, ich bin mir sicher das der entscheidenen Moment noch kommen wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 17, Aufnahme vom 05.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

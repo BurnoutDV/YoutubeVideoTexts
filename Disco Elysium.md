@@ -493,6 +493,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #33
+
+* Titel: `Disco Elysium - #33 - Fluch der finanziellen Not [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben uns Zugang verschafft. Jetzt müssen wir mit dem Wissen nur noch irgendwie umgehen. Oder besser gesagt, mit dem was wir noch so alles sehen. Klar ist das in der Tat einige viele Firmen ihr Ende in den Räumlichkeiten dieses Apartmentkomplexes gefunden haben. Soweit ich das erkennen kann sind aber einige dieser Unternehmungen schon lange vor den Aufstand der Kommunisten gescheitert, zumindest spricht der Name dafür das sie nicht so lange gemacht haben. Wenn man davon einmal weg will finden wir außerdem einen Keller und eine leicht aufgeregte Buchladenbesitzerin die uns erklären möchte das es hier einen Geist gibt den wir dringend beruhigen sollen. Es ist ja immer sehr leicht zu sagen das es keine Geister gibt, aber wenn irgendetwas Nachts klopft dann kommt man schon ein wenig ins Grübeln oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 02.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -790,6 +790,21 @@
   Sitzung 8, Aufnahme am 29.04.2022
   ```
 
+##### #53
+
+* Titel: `Deathloop - #53 - kunstvolle Sova-Station [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was war, was ist, hier und jetzt und dort oben und da unten. Links oder Rechts. Die Farbe verziert den Weg. Oder irgendwie so. Ich habe auf jeden Fall Lustige und auch unnötig viele Zeichnungen in meinem Notizbuch gemacht. Das liegt einfach daran das ich alles abgezeichnet habe das ich irgendwo finden konnte. Am Ende brauche ich aber nur vier Zeichnungen, vier Zeichnungen die ich dann in der richtigen Reihenfolge mit den richtigen Tasten kombinieren muss. Außerdem finden wir die Sova Station, die letzte Einrichtung die ich noch nicht aufgesucht habe. Anscheinend wurde hier die Logistik der Operation Horizon abgewickelt. Außerdem gibt es hier einen gar nicht einmal so unmächtigen Reaktor. Es ist ein wenig komisch das wir es mit konventionellen Generatoren im Komplex zu tun haben und hier steht das große Gerät herum. Wie dem aber auch sei, viel interessanter sind die Notizen der Leute die hier einst waren und dann die Insel verlassen haben. Eventuell gibt es hier die ein oder andere Erkenntnis auf die ich nicht so vorbereitet war. Und natürlich auch nicht auf die Kunst. Es gibt viel über das ich nachdenken muss.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 9, Aufnahme am 05.05.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -508,6 +508,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #34
+
+* Titel: `Disco Elysium - #34 - Wachszylinder [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mittlerweile ist es der hell lichte Tag und wir können uns nicht vorstellen welche Grauen die Nacht eigentlich gebracht haben könnten. Immer noch dunkel ist aber der verdammte Bürokomplex, dort ist es immer dunkel. Ich könnte mir durchaus vorstellen das es zu manchen Uhrzeiten noch ein wenig dunkler ist als zu Anderen aber selbst jetzt im Zwielicht des helllichten Tages ist es kein Ort an dem man verweilen möchte. Daher gehen wir auch wieder vor die Tür und klingeln an der Klingel. Einfach um zu sehen ob die lustige Geisterstimme von gestern noch da ist. Natürlich ist sie das und wir erfahren das es etwas namens Wachszylinder gibt. Ich weiß nicht wie genau das funktioniert weil Wachs doch ziemlich weich ist. Ich kann mir durchaus vorstellen das es absolut kein Problem ist darauf etwas aufzuzeichnen aber das abnehmen dieser Tonsignale erscheint mir doch ein wenig komisch. Nun, wie dem aber auch sei, zumindest haben wir heute eine rationale Erklärung für die seltsamen Geisterstimmen in der Nachts. Jetzt gibt es zwar noch ein anderes Mysterium das wir aufklären wollen aber alles zu seiner Zeit. Auf den Schock gehen wir doch erst einmal zum Händler für preisgünstige Waren und erstehen einen Anorak oder so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 02.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

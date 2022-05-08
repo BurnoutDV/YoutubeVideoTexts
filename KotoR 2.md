@@ -1812,6 +1812,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #113
+
+* Titel: `KotOR 2 - #113 - Mandalors Rekrutierung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mittlerweile sollten auch jedem klar sein das es sich bei unserem neuen besten Freund Mandalor um unseren alten Weggefährten Canderous handelt. Wenn man jetzt den ersten Teil nicht gespielt hat dann weiß man das natürlich nicht und Canderous selbst weiß natürlich auch nicht das ich es war der ihm schon im letzten Teil angeführt hat. Und so stehen wir hier und helfen einem gefährlichen kriegstreibenden Mandalorianer seine Armeen wieder aufzubauen. Ich weiß wirklich nicht warum wir das tun, letztendlich erscheint es in jeder Hinsicht wie eine schlechte Idee. Und das wo wir doch ziemlich eindeutig auf der guten Seite der Dinge stehen. Warum genau helfen wir einem wahnsinnigen Kriegstreiber dabei noch mehr Leid über die Galaxie zu bringen? Unsere Chancen ihm vom Fehler seines Denkens zu überzeugen sehen ja doch eher schlecht aus oder? Und eigentlich noch viel wichtiger, was genau hat sich Revan eigentlich dabei gedacht? Vom Kanon her wissen wir das Revan den Pfad des Lichts gewählt hat, warum also gab er seinen unnachgiebigen Mitstreiter Canderous den Helm des Mandalor? Als Prüfung, um zu testen ob er gelernt hat? Wenn ja war das wohl ein fehlgeschlagenes Experiment.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 17, Aufnahme vom 05.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

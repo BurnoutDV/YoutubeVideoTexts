@@ -805,6 +805,21 @@
   Sitzung 9, Aufnahme am 05.05.2022
   ```
 
+##### #54
+
+* Titel: `Deathloop - #54 - Nachmittagsromantik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist Nachmittag in Fristad Rock und es kehrt so etwas wie Ruhe ein. Generell und überhaupt frage ich mich wirklich wie sich das eigentlich alle Beteiligten gedacht haben. Klar, einige von ihnen sind Wissenschaftler und könnten wie die Wenjiies an der Anomalie und dem Loop selbst forschen, aber was tut dann der Rest? Ziemlich viele der anderen Leute sind ja anscheinend hier um eine endlose Party abzuhalten und offensichtlich tun sie das ja auch am ersten Tag aber hätten die meisten Leute die mentale Stärke um das auch noch ein paar tausend Tage lang durchzuhalten ohne das es langweilig wird? Was ist mir persönlichen Beziehungen die sich über die Zeit verschlechtern? Menschen sind ziemlich schnell dabei sich nicht mehr zu mögen und was wir so sehen können sind die meisten Eternalisten ziemlich mental instabil. Zurück zu unseren Visionären, anscheinend war die gute Fia in der Vergangenheit durchaus ein wenig fitter drauf und hat zahllose Plakate und andere Schilder für das Äon Projekt designed. Irgendetwas ist passiert, vielleicht einfach nur der normale Verlauf im Leben eines Künstlers, aber jetzt, am ersten Tag, erscheint sie schon ziemlich kaputt. Zum Glück können wir bei solchen Problemen helfen. Mit Gewalt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 9, Aufnahme am 05.05.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

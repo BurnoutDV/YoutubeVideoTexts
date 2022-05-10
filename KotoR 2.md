@@ -1828,6 +1828,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #114
+
+* Titel: `KotOR 2 - #114 - Landung auf Korriban [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Korriban. Wir erinnern uns, bzw. eigentlich erinnert sich nur die Cora Familie, wir waren einst hier und haben einen Sith-Orden an den Rand des Kollaps gebracht. So wie es scheint war es aber nicht so nahe am Kollaps wie ich ursprünglich dachte weil es dann wohl doch noch eine relativ große Menge an internen Kämpfen bei besagten Orden gab. Nun, wir sind wieder hier um die Geschichte zu beenden, das und um eventuell ein paar Schätze zu heben, man weiß ja nie was man noch so alles Schönes finden kann. Mich wundert allerdings ein wenig was aus dem Handelsaußenposten geworden ist den es hier einst gab. Offensichtlich hatte Korriban ja auch noch andere Dinge als nur irgendwelche Sith Artefakte zu bieten. Übrigens auch komisch, wir landen immer bei den gleichen Ruinen, aber als raumfahrendes Volk sollten doch einige Siedlungen herumstehen oder? Ich nehme nicht an das die hochwürdigen Sith selbst all die täglichen Arbeiten erledigt haben, also gab es irgendwo Dienstpersonal. Oder soll ich plötzlich glauben das man die Vorzüge von Roboter Dienern erkannt hat?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 17, Aufnahme vom 05.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

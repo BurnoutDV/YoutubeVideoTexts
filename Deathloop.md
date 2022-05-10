@@ -820,6 +820,36 @@
   Sitzung 9, Aufnahme am 05.05.2022
   ```
 
+##### #55
+
+* Titel: `Deathloop - #55 - Tod dem Unsichtbaren! [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin an dem Punkt gekommen an dem wir leider nicht mehr allzu viel von der Welt erfahren können. Das ist wirklich ärgerlich, gerne hätte ich noch mehr Geschichte erfahren aber vier Orte können nur begrenzte Menge an Informationen und tiefen Bunkeranlagen enthalten, und ich fürchte, jetzt haben wir alle Orte gesehen die man so sehen kann und letztendlich fehlt nur noch das große Innere des Verstärkers. Mir ist übrigens nicht ganz klar ob Julianna wirklich da ist oder ob es uns in eine Limbozeit zurück in ihr Haus teleportiert. Es ist übrigens wirklich ein wenig fraglich wie genau sich Julianna überhaupt diese Position erkauft hat, auf den großen und ursprünglichen Fotos ist sie nicht drauf. Angeblich hat sie all ihre Fragen beantwortet aber ist es nicht ein wenig unwahrscheinlich das es grade Julianna von allen Personen war? Zurück zu Egor, ich möchte ihn ohne Schusswaffen umbringen, anscheinend ist das aber nicht genau was das Steam Achivement möchte, außerdem ist es anscheinend nicht möglich sich an ihm heran zu schleichen, das ist echt ein wenig ärgerlich. Es könnte aber auch sein das ich zwischenzeitlich einen kleinen Fehler gemacht habe.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 9, Aufnahme am 05.05.2022
+  ```
+
+##### #56
+
+* Titel: `Deathloop - #56 - Pechmaries Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt noch ein paar wenige Geheimnisse, ich höre irgendwie nicht auf darüber zu erzählen. Heute sprechen wir explizit über die Spuren der Pechmarie, es handelt es sich um ein eigentlich relativ leichtes Rätsel. Ich kann direkt sagen das ich es diese Episode nicht aufgelöst kriege, mich ein wenig dumm anstelle und in der Logik versage. An anderer Stelle bzw. Zeit und nicht Ort werde ich aber Erfolg haben. Und dann sehr enttäuscht sein. An sich hätte mir vollkommen klar sein sollen was der Inhalt des Tresors ist, aber das Geräusch hat mir wohl nicht genügend Hinweise gegeben. Interessanter ist eigentlich, wer genau diesen Tresor aufgestellt hat? War schon vorher etwas darin und es wurde schon lange gestohlen und die kollektive Gesellschaft hat dafür gesorgt das der Gegenstand der jetzt darin ist hinein kam? Oder war er schon vor dem Loop darin und er ist nicht eine Begleiterscheinung des längsten Tages sondern allgemein der Anomalie. Erfahren werden wir es wohl nicht, das Rätsel endet hier, zwar nicht heute, dann aber irgendwann. Heute irren wir nur umher. Aber das ist ja fast genauso gut. Und hey, wir betreten heute auch die Tiefen des RAK, falls das irgendein Trost ist.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 9, Aufnahme am 05.05.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

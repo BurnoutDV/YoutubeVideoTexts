@@ -523,6 +523,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #35
+
+* Titel: `Disco Elysium - #35 - Selbstmordsexkult-Propaganda [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir begehen heute einen großen Fehler. Wir reden mit alten Leuten. Außerdem versuchen wir Weitwurf zu spielen, den berühmten und außerordentlich beliebten Sport bei älteren Männern in Frankreich. Es ist ein schöner Montag, die Sonne scheint und man scheint ein wenig mehr vergnügt zu sein als sonst. Auch ganz allgemein scheinen die Leute in Martinais große wirtschaftliche Probleme zu haben, insbesondere Wohnraum bei den doch recht abenteuerlichen Temperaturen scheint knapp zu sein, aber Nahrung scheint nicht das Problem zu sein, der Alltag der Menschen hat einen gewissen Blues. Nun, wir erfahren also von einer alten Person wie die aktuelle Sachlage aussieht, oder vielleicht auch die Vergangene. Joyce hatte es ja bereits festgestellt, zu spät geboren um die spannenden Jahre der Vergangenheit mit erlebt zu haben, zu früh um die noch viel spannenderen Herausforderungen der Zukunft aktiv steuern zu können. Außerdem  erfahren wir ein wenig etwas über die Ansichten eines echten Royalisten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 05.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #36
+
+* Titel: `Disco Elysium - #36 - Boot zu Tür [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da noch ein paar wenige offene Punkte die ich mit Joyce klären möchte während Kim dabei ist, in der Nacht haben wir ja schon über die Beschaffenheit des Seins gesprochen, aber jetzt ist die Zeit gekommen auch mal in die Gegenwart zu gehen und das hier und jetzt zu beachten. Daher klären wir noch die aktuellen Umstände ab und erfahren das es anscheinend einen kleineren Droggenschmuggelring gibt. Ob das alleine reicht um mehrere tausend Arbeiter zu unterhalten kann ich mir ehrlich gesagt nicht vorstellen aber wer weiß, die Wirtschaft in Revachol ist bisher kein Element von besonderen Interesse gewesen und die Verhältnisse sind mir absolut unbekannt, außer das eine Pfandflasche 0.10 Real wert ist, das ist eine gute Menge Geld nach der man leben kann aber bisher haben wir noch nicht für Drogen bezahlt, insofern könnte diese sehr teuer sein, etwas das nur den Eliten vorbehalten blieb.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 05.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

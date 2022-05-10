@@ -934,14 +934,49 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #58
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #58 - Visionen der Zehn [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es ist soweit! Endlich finde ich Zeit um mich ein wenig der Hauptquest zu widmen und damit auch warum zur Hölle die Tenakth immer von irgendwelchen Marschällen und Soldaten reden obwohl das Konzept ja eigentlich nicht so allgemein bekannt sein sollte. Nun, es stellt sich heraus das die Zentrale aller Tenakth in einem alten Museum rumsteht und dort noch einige Holos zu sehen sind die auch ohne Fokus sichtbar sind. Angeblich waren diese "Visionen" auch einst ein wenig stärker und vollständig sichtbar. Das erklärt zumindest Einiges. Ärgerlicherweise sind in diesen Tagen nur noch Fragmente zu sehen und wir müssen uns wohl fragen wie viel die alten Tenakth vor einigen hundert Jahren hier gesehen haben. Immerhin erklärt sich jetzt auch warum die Typen so ein bisschen kriegerisch sind, mit der Vorgeschichte. Außerdem finden wir eine Möglichkeit unsere Flugschreiber los zu werden, mit den Aufnahmen der letzten Momenten der alten, das ist doch auch was oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 03.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #59
+
+* Titel: `Horizon Forbidden West - #59 - Hekarro der Häuptling [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor sehr sehr langer Zeit haben wir mit einem Mann geredet der davon Sprach das er als Carja ein Marshall der Tenakth geworden ist. Das hat er erreicht indem er in einer Maschinenarena bewiesen hat das er ein wahrer Kämpfer ist. Dieser Mann ist jetzt tot, dabei hatte er noch eine Hälfte seines Lebens vor sich, schaffte es aber nie diese Seite zu füllen oder auszuleben. Der Grund für die Hingabe des Mannes war eine Person namens Hekarro, anscheinend Häuptling aller Tenakth. Wir sehen an Regalla das es scheinbar nicht ganz so einfach ist Häuptling eines großen Kriegerclans zu sein. Wie alle großen Anführer ist das erste was er tut ist es unsere Nützlichkeit einzusetzen. Wir wollen ÄTHER haben, Hekarro will seine Macht über die Clans wieder vereinigt haben da liegt doch nichts näher als die eine Person loszuschicken die alles verhindern kann. Andererseits haben wir jetzt GAIA re-aktiviert, eventuell könnte auch einer unserer Gefährten eine Lösung finden. Und doch, natürlich müssen wir handeln. Zu verhandeln hätte wahrscheinlich keinen Erfolg, Hekarro wirkt nicht wie die Art von Person die man mit wilden Geschichten überzeugen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 03.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #60
+
+* Titel: `Horizon Forbidden West - #60 - Kotallo in Steinfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen wer Kotallo ist, eigentlich nicht so richtig, es handelt sich aber um einen stolzen Krieger der schon bei der Gesandtschaft dabei war und dann wohl durch einen Unfall bzw. durch direkten Schaden durch die Maschinen einen Arm verloren hat. An und für sich müsste das eigentlich viel öfter passieren, die Maschinen sind groß und wahrscheinlich ziemlich schwer, Die Metallkanten die sie wirklich oft besitzen sehen auch nicht so aus als wären extra stumpf damit nicht irgendwelche Dinge abgeschnitten werden. Ärgerlicherweise ist die Kultur der Tenakth noch nicht weit genug um einen ein-armigen eine echte Chance in der Gesellschaft zu bieten. Ja es gibt Leute die Geschichten weiter erzählen, die sogenannten Kaplane, aber dafür ist der gute Kotallo wohl doch noch ein wenig jung. Außerdem scheint er die Rolle nicht für sich selbst zu akzeptieren, und das ist wohl das Wichtigste wenn man Gliedmaßen verliert, die Akzeptanz das das jetzt die neue Realität ist. Ich weiß nicht ob ich das könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 03.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #Nummer

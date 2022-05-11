@@ -1844,6 +1844,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #116
+
+* Titel: `KotOR 2 - #116 - dunkle Visionen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als damals, vor einigen wenigen Jahren, die Sith auf Korriban herumgelaufen sind haben sie den Schlaf und damit auch die Ruhe einiger ziemlich mächtiger alter Sith gestört. Generell und überhaupt soll das bestimmt eine Botschaft sein das mächtige Sith nicht einfach verschwinden sondern auf der Welt bestehen bleiben und die Sterblichen auch nach ihrem Ableben noch in irgendeiner Hinsicht stören. Generell und überhaupt scheint die dunkle Seite der Macht wesentlich mehr Eigenleben zu haben als es bei der Guten der Fall ist. Oder Letztere ist einfach subtiler. So oder so betreten wir heute einen dunklen Ort, ein Ort der irgendwie freigelegt wurde aber unberührt der Neo-Sith geblieben ist. Einen Ort den wir nur alleine betreten können. Generell ist das übrigens wirklich komisch, die große Stärke unseres Charakters ist doch die Verbindung zu der Crew und die Verbindung. Und auch ein Zeichen der hellen Seite ist es doch gemeinsam stark zu sein..und dann gibt es immer wieder Szenen in denen wir plötzlich wieder alleine in dunkle Höhlen gehen müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 17, Aufnahme vom 05.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

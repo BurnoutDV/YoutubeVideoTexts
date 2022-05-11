@@ -850,6 +850,21 @@
   Sitzung 9, Aufnahme am 05.05.2022
   ```
 
+##### #57
+
+* Titel: `Deathloop - #57 - ungünstiges Missgeschick [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir müssen eigentlicht gar nicht mehr soviel machen, die große Auster die der Tod der Visionäre ist ist quasi schon beinahe geknackt, das bedeutet aber auch das es nur noch sehr wenige Pfade gibt die wir gehen können, alles Andere wurde bereits getan. Das ist ein wenig traurig, aber irgendwie kann man so ein Spiel auch als Allegorie auf die Wirklichkeit sehen, irgendwann wiederholen sich die Dinge und dann wird es halt recht schnell langweilig. Die große Angst hinter der Unendlichkeit, das sich irgendwann alles so sehr ähnelt und Nichts mehr neu ist. Ein tangentiales Problem das ich habe ist das ich mich für bestimmte Nischenhobbies interessiere, mich dann irgendwie belese und dann, wenn ich schon gute Ahnung habe, mit Leuten austausche, in der Hoffnung noch die Wunder der Neuen Dinge zu entdecken, aber viel zu oft kochen alle Anderen auch mit Wasser und so richtig große Entdeckungen gibt es dann gar nicht mehr. Irgendwie enttäuschend. Zurück zu unseren Pfaden, ich sagte ja das wir nicht allzu viele Wege beschreiten können, einige Möglichkeiten gibt es aber, und einige Möglichkeiten sind vielleicht klüger als Andere. Ich bin heute nicht sehr schlau.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 9, Aufnahme am 05.05.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

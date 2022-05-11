@@ -553,6 +553,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #37
+
+* Titel: `Disco Elysium - #37 - weibische Bodybuilderclique [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich hieß diese Episode "die Hardie Boys", aber dann sind in dieser Sitzung Dinge geschehen, wir haben mit diversen Leuten geredet und am Ende gab es jemanden die die harten Jungs aus dem Essenssaal ein wenig anders betitelt hat. Da die nächste Episode sowieso "Titus Hardie" heißt dachte ich mir wir können auch diesen etwas provokativen Namen wählen. Die Sachlage ist aber die, die Hardie Boys sind, allen Anschein nach, keine weibische Truppe. Sie besitzen exakt null weibliche Mitglieder, deshalb auch die Hardie BOYS. Allerdings gibt es hier und dort Indizien das die Gruppe durchaus ein wenig diverser sein könnte. Leider sind uns nicht alle Informationen zugängnlich, interessant ist aber das es durchaus einige Charaktere in der Gruppe gibt die wir uns zu nutzen machen können. Jetzt brauchen wir nur noch einen guten Winkel und schon haben wir vielleicht wesentlich mehr Informationen als uns der Sprecher geben will. Wenn wir nur die einzelnen Mitglieder alleine treffen könnten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 09.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -979,6 +979,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #61
+
+* Titel: `Horizon Forbidden West - #61 - das Bollwerk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In modernen Kriegen sind Bunkeranlagen durchaus noch von wert, aber so etwas wie eine uneinnehmbare Festung gibt es einfach nicht, dafür ist Waffentechnologie einfach zu gut. Die Waffen der Menschheit im Jahre 2060 waren definitiv stark genug aber bei der aktuellen Bewaffnung der Stämme könnten maximal die Oseram etwas entwickeln das dicke Mauern ohne Probleme niederreißen kann. Wie dem aber auch sei, das Bollwerk ist auch kein Bunker sondern mehr eine Burg. Eine Burg die alle schlechten Zeiten überstehen kann und im Kontext der aktuellen Probleme der Völker auch keine Probleme haben wird stand zu halten. Natürlich ist es bei solchen Dingen immer ziemlich wichtig das die Mauern auch bemannt sind und ich bin mir ziemlich sicher das man auch bei den Tenakth schon einmal etwas davon gehört hat das man Verteidiger aushungern kann. Wie genau sich das der örtliche Häuptling dann vorgestellt hat weiß ich übrigens auch nicht. Zur Sache, das Bollwerk sorgt dafür das sich der Himmelsclan ein wenig zu sicher fühlt, das können wir aber zum Glück ändern, Aloy ist schließlich bekannt für ihr Talent in der Verhandlungsführung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 04.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #62
+
+* Titel: `Horizon Forbidden West - #62 - Handas Beuteverträge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal erhalte ich Kommentare das ich Spiele spiele, also in diesem Format das irgendwann einmal 2010 herum beliebt war. Quasi bin ich ein Anachronismus, ein lebendes Fossil. Der Vorwurf dann ist das ich doch gefälligst die Ladezeiten weg schneiden soll und das Ganze dumme Gelabber weg lassen soll. Ich bin mir nicht einmal sicher ob es überhaupt jemanden gibt der das wirklich für ganze Spiele durchzieht, ich hatte da einmal ein Experiment mit Metro 2033 und es war wirklich aufwendig. Also wirklich wirklich aufwendig. Wie dem aber auch sei, diese Beutevertragsmissionen finde ich ein wenig langweilig, deswegen tue ich hier einmal genau das was sich schon ein paar Mal gewünscht wurde. Ich schneide sinnlose Wartezeiten heraus. Ein wenig Füllmaterial ist aber dennoch drin, wenn ich zum Beispiel über irgendetwas rede oder Dinge in der Trivialität entdecke. Hier also die Beuteverträge von Handa. Schauen wir doch einmal wie lang sich das hier zieht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 04.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

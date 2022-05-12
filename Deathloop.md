@@ -865,6 +865,21 @@
   Sitzung 9, Aufnahme am 05.05.2022
   ```
 
+##### #58
+
+* Titel: `Deathloop - #58 - Aufstand der Maschinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Technik in der Deathloop Welt ist nicht ganz auf dem Niveau von 1960 das ich aus meiner Welt kenne. Einige Dinge sind wesentlich besser und hochtechnologischer als man sogar von den 80er Jahren erwarten würde. Mir unlängst im Gedächtnis geblieben ist mir ironischerweise die Kampagne von Call of Duty Cold War in dessen Verlauf wir im Kreml einbrechen und dort im großen Serverraum Daten erfiltrieren. Besagter Serverraum besteht aus sehr vielen Bandlaufwerken die ringsherum verteilt sind. Und ja, das war Stand der Technik, Bandlaufwerke waren lange Zeit mit einer enorm hohen Speicherdichte im Vergleich zu allem Anderen ausgestattet, selbst heute nutzt man noch Bandsicherungen weil das Preis/GB Verhältnis so gut ist. Ich kann gar nicht sagen wo genau die Grenze liegt, anscheinend mangelt es an guten Speichermedien, die meisten Aufnahmen sind sehr kurz und wir haben schon öfter erlebt das diese mitten drin einfach aufhörten. Alle Aufnahmen sehen ein wenig aus wie Funkempfänger, sind die Sprachnachrichten in Wirklichkeit auf einem zentralen Server gespeichert? Ich weiß es nicht. Wie dem aber auch sei, definitiv ein lokaler Speicher ist der große Wolf den wir heute finden, anscheinend ein ewiges Plappermaul. Aber ihn können wir mit einem sehr intelligenten Computer kombinieren..und dann, dann haben wir einen Puzzlestein eingesetzt. Ich habe übrigens immer noch Mitleid mit 2-BIT, irgendwie scheint Charlie wirklich ein Herz für ihn zu haben auch wenn er ihn anmault, und auch 2-BIT erscheint besorgt. Umso grausamer dann Charlie umzubringen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 9, Aufnahme am 05.05.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``

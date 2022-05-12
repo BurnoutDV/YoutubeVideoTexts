@@ -568,6 +568,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #38
+
+* Titel: `Disco Elysium - #38 - Titus Hardie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es war klar das die Befragung eines Kriminellen nicht so schnell gehen kann. Offensichtlich ist das Elisabeth die Hardie Boys im Vorfeld ein wenig gebrieft hat und es daher ein sehr spitzes Messer braucht um wichtige Erkenntnisse herauszufinden. Sicher ist aber schon einmal das die nach ihm benannten Hardie Boys auch definitiv Titus als Anführer haben. Klar, sie betonen in diesem Zusammenhang natürlich das sie als Gruppe gehandelt haben und ein gutes Motiv gehabt hatten aber sie sind doch ziemlich zurückhaltend was Details angeht. Inklusive dem Namen der belästigen Frau und dem Hardie Girl. Die achte Person ist generell und überhaupt das große Mysterium das ich gerne auflösen würde, ich fürchte nämlich wir haben es hier mit jemanden zu tun der überraschenderweise über eine Pistole verfügt und das wäre dann nicht so gut und könnte im Zweifelsfall wahrscheinlich auch auf uns zurückfallen. Sicher ist aber auch das ich der Zentrale nicht den Verlust der Dienstwaffe melden werde. Das wäre ja verrückt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 09.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

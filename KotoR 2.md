@@ -1860,6 +1860,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #117
+
+* Titel: `KotOR 2 - #117 - Darth Revan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im ersten Old Republic Teil hatten wir eine wahrlich dunkle Geschichte. Am Ende stellt sich heraus das wir quasi genau das waren was wir eigentlich bekämpfen wollten und unsere Ursprünge ziemlich dubios waren. Unser jetziger Charakter ist da ein ein wenig anderes Kaliber. An sich haben wir natürlich beim großen mandalorianischen Krieg mitgemacht und das Gemetzel von Malachor V haben wir auf jeden Fall mit angesehen aber sonst? Anscheinend sind wir ein ziemlich Saubermann und folgen den Regeln der Jedi ziemlich dicht, wichtig ist hier wohl die Unterscheidung zwischen Regeln und Kodex. Der Kodex des Jedi-Ordens ist mir ja mittlerweile wohl bekannt und ich kann nicht sagen das ich auch nur ein wenig begeistert bin, der Kodex ist einfach nur Quatsch. Steht viel zu oft im Weg und zwingt quasi jeden hellen Machtnutzer in schwierigen Situationen dazu sich der dunklen Seite zu zu wenden. Als Konstrukt also zu unflexibel und Quell großer Zweifel. Also auch genau das was man in einer Welt braucht in die dunkle Seite an jeder Ecke lauert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 17, Aufnahme vom 05.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1009,6 +1009,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #63
+
+* Titel: `Horizon Forbidden West - #63 - Tunnel-Steinbrecher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da noch so einen Tunnel durch den wohl eine Oseram Karavane gegangen ist. Letztes Mal als wir dort  waren kamen wir leider nicht so richtig weiter, daher gab ich auf und eine Jägerin namens Talana hatte dann beschlossen das sie in Reinklang warten würde bis sie weiter ziehe. Das nahm ich so hin, auch wenn ich mich ein wenig geärgert habe. Nun sieht der Fall aber so aus das ich schon die ganze Zeit auf die andere Seite des Hügels kann, wichtiger noch, mir fällt ein wenig sehr spät auf das ich auch einfach über besagten Hügel klettern kann. Das machen wir dann und verfolgen die Spuren der Oseram weiter. Die Gruppe muss übrigens ziemlich zahlreich gewesen sein wenn man die große Menge an Leichen bedenkt die wir immer wieder finden. Was wir auch finden ist ein Steinbrecher, also genau das Vieh vor dem ich immer gewarnt hatte, insbesondere als ich neulich eine Schildkröte umbringen wollte. Insbesondere die großen grabenden Viecher scheinen übrigens alles dafür zu tun zu vermeiden vorhandene Strukturen zu beschädigten, anders kann ich mir nicht erklären wie es überhaupt noch 1000 Jahre alte Bauwerke gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 10.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

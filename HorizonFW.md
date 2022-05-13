@@ -1024,6 +1024,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #64
+
+* Titel: `Horizon Forbidden West - #64 - Aktion & Reaktion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist nach der Quest benannt die wir dann ab Minute 15 machen, alle 3 Vorschau-Thumbnails von diesem Video inklusive dem Thumbnail mit Nummer das ich dann gewählt habe sind aber eine Photo-Session mit einem Langhals. Das kann eigentlich nur passiert sein weil ich mir dachte das der Langhals einfach das Bessere Motiv ist, und Google dann halt auch. Die Quest die wir tun ist menschlich und von der Geschichte die sie erzählt bestimmt auch total wichtig und richtig, aber, Fotosafari. Aloy ist schließlich Maschinenjägerin und dazu gehört es auch ausreichend Screenshots von allen möglichen Dingen zu machen, ich gebe aber zu das ich es hier besonders einfach habe weil ich nicht an einem bestimmten Moment abdrücken muss sondern einfach aus dem unkomprimierten Video hinterher Bilder rauscappen kann in dem ich Frame by Frame schnelle Sequenzen durchgehe. In Sitzung 9 habe ich einige schöne Bilder gemacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 10.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

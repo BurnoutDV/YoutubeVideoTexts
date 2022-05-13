@@ -880,6 +880,21 @@
   Sitzung 9, Aufnahme am 05.05.2022
   ```
 
+##### #59
+
+* Titel: `Deathloop - #59 - der letzte Feinschliff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist fast soweit, die Zeit des letzten Loops ist gekommen. Aber auch nicht so wirklich. Es kommen noch so um die 10 Episoden und damit auch noch einige Tage die vergehen bis ich hier wirklich alles erledigt habe. Aber heute ist quasi schon einmal der große Testlauf, ich schaue mir an was man noch alles tun kann, welche Möglichkeiten ich habe und wo noch offene Baustellen sind. Außerdem gibt es da noch diesen einen Typen in Fristad Rock der uns ziemlich sauer ist das wir seine Freunde umgebracht haben. Das rächt sich dann wohl das man in seiner früheren Aufgabe als Sicherheitschef ein wenig unsauber gearbeitet hat. Aber so wie die Dinge stehen bin ich ja gut vorbereitet, auch wenn ich zugeben muss das ich ohne nach zu schauen auch nicht darauf gekommen bin. Deathloop hat einige so subtile Rätsel deren Lösung sich entweder unter viel nachdenken ergibt oder in dem man einfach das Internet auf macht. Heute passieren ziemlich viele Dinge auf einmal, das macht es schwierig zusammen zu fassen. Technisch gesehen ist das hier auch eine Doppelepisode oder einfach zwei in einer aber ich habe wohl nicht den Punkt gefunden an dem ich den Schnitt setzen wollte. Sowas kann schon einmal vorkommen.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 9, Aufnahme am 05.05.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -888,4 +903,3 @@
 
   ```markdown
   Hier
-  ```

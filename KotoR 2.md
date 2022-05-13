@@ -1876,6 +1876,22 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #118
+
+* Titel: `KotOR 2 - #118 - Darth Sion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind auf bestem Weg zum Hattrick. Wir müssen dafür nur in der nächsten Episode einen weiteren Lord der Sith begegnen, so viele wie es davon gibt kann das übrigens gar nicht so schwer sein. Andererseits kann sich anscheinend wirklich jeder Lord der Sith nennen, man muss dann nur bereit sein den Titel auch zu verteidigen, ein wenig wie bei den Mandalorianern. Zur Sache: Als es am Anfang hieß das Korriban komplett frei von Leben war habe ich ja bereits eine Lüge oder zumindest die Unwahrheit gespürt. Schon in der Vergangenheit gab es hier erstaunlich viel Wildleben dessen Nahrungsquelle übrigens noch nicht geklärt wurde und dann wäre da noch dieser subtile, fette Einfluss der dunklen Seite. Nachdem man dann ungefähr 200 Attentäter der Sith erschlagen hat sollte es aber wirklich niemanden mehr erstaunen das auch ein ganzer Lord der Sith sich hier verstecken konnte. In diesem Fall handelt es sich übrigens um Lord Sion, wir kennen ihn noch von Peragus dessen Explosion er anscheinend gut überlebt hat. Das Wesen ist aber auch mehr eine Leiche als lebendig, und wenn man Kreia glauben darf ist der Körper schon wahrhaftig gestorben und auf einen Planeten wie Korriban haben wir auch keine Hoffnung ihn zu besiegen. Ich glaube ja das ich das trotzdem schaffen würde, wofür habe ich schließlich mein DPS Team mitgenommen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 17, Aufnahme vom 05.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -583,6 +583,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #39
+
+* Titel: `Disco Elysium - #39 - der Reimeschmied [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Harry ist offensichtlich ein wenig mehr der geistige Typ als der Körperlich. Das führt aber auch dazu das wir uns manchmal der Poesie hingeben. Ich kann nicht wirklich sagen das das etwas Gutes ist aber heute hilft es uns zumindest mit einem Lastwagenfahrer zu sympathisieren. Ich wäre übrigens ein schrecklicher Ermittler, so sehr würde ich mich davon ablenken lassen wie sehr ich Leute mag oder eben nicht. Die meisten Leute mag ich nicht, aber ein geschickter Psychopath könnte mich bestimmt ausreichend manipulieren das ich sie nicht als Verdächtigen sehen würde. Nun gut, aber es hat noch einen weiteren Vorteil das wir über Reime reden, im Zuge dessen verfassen wir auch ein paar Worte über Spiegel und wir wissen ja das der Spiegel und ich noch ein paar ungelöste Punkte haben. Dazu aber wohl später mehr, das alles ist nicht so einfach wie es sich anhört. Die Frage im Raum ist übrigens ob wir uns die Worte selbst ausgedacht haben oder irgendwo gelesen. Wahrscheinlich kommt am Ende auch raus das sie von der Frau sind die uns verlassen hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 09.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

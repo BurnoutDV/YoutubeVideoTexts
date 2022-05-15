@@ -191,7 +191,12 @@
 * Beschreibung:
 
   ```markdown
-  Das Addermire war einst ein Institut für Leute die im Geister nicht mehr ganz so fit waren. Ungestörtes Rauschen der Meere, Ärtzte und sonnige Aussichten sind manchmal schon alles was ein schwacher Geister braucht. Heute gibt es keine Patienten mehr. Eigentlich schade, die Anlage erscheint eigentlich in guter Position zu sein...als geheimes Giftlabor.
+  Arzt in einer Welt zu sein in der Hygiene in den meisten Fällen nur als optionales aber auf jeden Fall eigentlich unnötiges Feature gesehen wird ist bestimmt schwer. Die gute Frau Doktor scheint sehr bemüht zu sein in einer solchen Welt zumindest etwas Gutes zu tun. Oder so war es vielleicht in der Vergangenheit. Diese Tage scheint sich Dr. Alexandria Hypathia ein wenig ablenken zu lassen, man könnte fast sagen das die Gute neben sich steht und gar nicht mehr so richtig sie selbst ist. Die Ursache dafür ist ziemlich unbekannt, aber sie schreibt glücklicherweise ein Tagebuch das wir lesen können insofern wir es auch finden. Es gibt da noch die Geschichte mit dem Kronmeuchler und ich fürchte, es gibt hier eine dunkle Verbindung, einen Zusammenhang der auf ein dunkleres Geheimnis als nur leichter Vergesslichkeit anspielt. 
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 28.11.2016
   ```
 
 ##### #14
@@ -211,12 +216,17 @@
 
 ##### #15
 
-* Titel: `Dishonored 2 - #15 - Zurück zum Wal [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #15 - heimliche Flucht aus der Anstalt [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Heute haben wir es dann endlich geschafft. Unseren ersten Auftrag erledigt. Ich gebe zu das ich in Dishonored 1 deutlich weniger lange gebraucht habe. Wenn ich darüber nachdenke wie lange ich gebraucht habe, fast 4 Stunden für eine Mission tut es mir ein wenig leid. Prinzipiell geht es mir ja darum jedes Stück Story aufzusaugen. Aber ich glaube ich könnte auch schneller sein.
+  Bei näheren Hinsehen offenbart sich das Addermire Institut mehr als Irrenanstalt und da wir ja durchaus einige seltsame Fähigkeiten haben wollen wir hier nicht länger als unbedingt nötig bleiben, zumal die Truppen des Herzoges bestimmt gerne die rechtmäßige Kaiserin in ihre Hände kriegen würden. Leider sind Einrichtungen die auf einer Insel liegen gar nicht so einfach zu verlassen wenn man nicht unbedingt durch die ganze Bucht schwimmen möchte, ein Unterfangen das sicherlich sehr selbstmörderisch wäre, insbesondere im Hinblick auf die Fische die sich im Wasser aufhalten. Das gleiche Problem hätten bestimmt auch die anderen Patienten gehabt wenn sie noch leben würden. Es braucht also Fingerspitzengefühl, das und natürlich ein Boot das uns im rechten Moment abholt. Zurück am Bord der Dreadfule Wale dürfen wir immerhin die Früchte unseres Erfolges ernten, ein Gespräch mit einer halbwegs koherenten Wissenschaftlerin.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 29.11.2016
   ```
 
 ##### #16
@@ -236,12 +246,17 @@
 
 ##### #17
 
-* Titel: `Dishonored 2 - #17 - Paulo [Let's Play; blind; de]`
+* Titel: `Dishonored 2 - #17 - der lokale Untergrund [Let's Play; blind; de]`
 
 * Beschreibung:
 
   ```markdown
-  Als gesuchter Verbrecher ist es unter Umstände gar nicht einmal so einfach noch neue Ressourcen und Ausrüstung zu erwerben. Manchmal muss man dafür auf den Untergrundhandel zurückgreifen der das Bindeglied zwischen Legal und Illegalen Welten darstellt..leider sind wir damit nicht alleine...
+  Als Corvo damals versucht hat seine Ehre wiederherzustellen hatte er einige sehr mächtige Verblendete die irgendwo noch in der herrschenden Ordnung standen und daher relativ leicht Zugriff auf fortgeschrittene Ressourcen und Ausrüstungen hatte. Für Emily ist dies nicht der Fall, alles was wir im Moment haben ist eine von Amnesie geheilte Seuchenwissenschaftlerin, ein einarmiger Kapitän und komische Hände. Wenn wir neue Dingen brauchen müssen wir die wohl selber kaufen. Karnacas Wirtschaft ist nicht unbedingt stabil oder egalitär, aber selbst wenn steht unser Gesicht wohl auf dem ein oder anderen Steckbrief, das macht das Einkaufen in einem Geschäft eher schwierig. Wir müssen uns also vertrauensvoll an den Schwarzmarkt wenden, ärgerlicherweise gibt es selbst hier Grenzen und Regeln. Zum Beispiel kommt der lokale Unterweltboss Paolo hier öfter vorbei. Die Leute auf der Straße flüstern über Paolo, er sei vom Outsider berührt. Ob das wahr ist oder nicht können wir so schnell nicht prüfen, aber sicher ist das er schwer zu töten ist.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Dishonored 2 als Offline Projekt
+  Playlist: https://www.youtube.com/watch?v=W5uIQ2hYX2Q&list=PLAFz5ZZJ21wO6U1aSTxu_eYF4rVm0bA4r
+  Sitzung Unbekannt, Aufnahme ungefähr vom 03.12.2016
   ```
 
 ##### #18

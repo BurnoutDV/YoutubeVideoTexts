@@ -895,6 +895,35 @@
   Sitzung 9, Aufnahme am 05.05.2022
   ```
 
+##### #60
+
+* Titel: `Deathloop - #60 - Käferprinzes Verrat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt so Jobs vor denen man sich eher fernhalten sollte. Spion ist zum Beispiel so einer, das Leben ist definitiv spannend aber die meisten sind wohl eher nicht James Bond sondern Datenanalysten. Und dennoch, dadurch das es auch immer die Spione der Gegenseite gibt ist ein gewisses Risiko und Erpressung nicht auszuschließen. Auch in der Welt der IT rät man allgemein ab irgendetwas mit den Diensten zu tun zu haben. Die haben wiederum Probleme Personal für bestimmte Aufgaben zu finden, mit entsprechender Motivation findet sich dann natürlich trotzdem wer. Bei den Amerikanern ist übrigens ziemlich interessant das bestimmte Bevölkerungsgruppen bestimmte Dienste mehr stellen weil es noch Anforderungen aus den 60ern gibt. Wenn ich mich recht erinnere (und tiefer gehen diese Texte nicht), gibt es beim FBI besonders viele Mormonen weil die nicht trinken oder kiffen. Das wirkt sich dann natürlich auch auf die Denkweise des Dienstes aus wenn diese Leute durch die Ränge diffundieren. Bei den Agenten des Mutterlandes handelt es sich scheinbar mehr um eine militärische Abteilung und einen bisher unbekannten Rekrutierungsschema. Ich bezweifle übrigens auch das wir mehr darüber erfahren werde. Heute betreten wir das Versteck von Käferprinz in Karlsbucht...nachdem ich ergoggelt habe wie man die Tür aufkriegt. Und wir finden eine weitere reale Gefahr bei Agenten, auch ausgelöst durch das Vorhandensein von Gegenspielern: Verlockung.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 9, Aufnahme am 05.05.2022
+
+##### #61
+
+* Titel: `Deathloop - #61 - Pick Rexly [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind mal wieder in Karlsbucht, dieses Mal ist es Nachmittag und ich erinnere mich das es da noch so ein Zimmer gibt zu dem ich immer am Abend gehe, am Abend wo wir nur noch eine Leiche vorfinden. Nun, dieses Mal ist die Sonne noch nicht untergegangen. Ich habe zwischendurch übrigens den Photomodus ausprobiert und muss ja sagen das am Nachmittag die Lichtstimmung auf Blackreef einfach nur kalt ist, das nächste Spiel wünsche ich mir dann doch wieder in Karnaca, vielleicht irgendwas Neo-Toyko artiges oder so, das fehlt vom Farbsetting noch ein wenig. Alle Bilder die ich am nachmittäglichen Karlsbucht gemacht habe sind auf jeden Fall ein wenig deprimierend, einfach alles zu kalt. Das Gleiche hat sich wohl auch Pick Rexley gedacht, übrigens eine Frau wie ich dann herausgefunden hatte. Offensichtlich defaulte ich immer noch zu Männern wenn ich untypische Namen lese. Nun, so kann man sich auch irren, letztendlich ist es aber auch egal. Wir können endlich mit jemanden reden der sich an alles erinnert, leider dauert die Freude nur kurz an, und ich fürchte ich habe den Moment nicht ausreichend gelebt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 10, Aufnahme am 12.05.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -903,3 +932,4 @@
 
   ```markdown
   Hier
+  ```

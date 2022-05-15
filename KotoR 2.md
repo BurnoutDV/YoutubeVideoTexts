@@ -1892,6 +1892,38 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #119
+
+* Titel: `KotOR 2 - #119 - Echo der Gedanken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Macht wird immer mehr zur esoterischen Kraft die alles durchdringt. In den diversen Filmen kam das nie so ganz raus, klar gab es irgendwie einen großen Meister der ein wenig mehr gespürt hat aber das ist halt auch kein Thema über das man mehr als 30 Sekunden in einem Hollywood Streifen reden würde. Und meistens sind die großen Meister auch nicht die Protagonisten, ihre Geschichte ist ja bereits abgeschlossen und sie helfen nur unseren jungen Helden bei einem Stück des Weges. Dieses Mal sind wir aber wohl der große Meister mit den außergewöhnlichen Fähigkeiten. Und es stellt sich heraus das unser Hang zur Macht wohl wesentlich mächtiger ist als alles Andere. Es ist ein wenig ärgerlich weil wir technisch gesehen ja überhaupt nichts damit machen können, zumindest nicht in der Rolle in der wir uns gerade befinden. Bei direkten Konflikten kommt es mehr auf pure Macht an, ein Gebiet in dem wir zwar auch stark sind aber nicht übermächtig. Die subtilen Veränderungen und Einblicke sind das in denen wir wirklich gut sind, zum Beispiel Gedanken zu lauschen oder Leute an uns zu binden, aber all das bringt wenig wenn einen Darth Sion in den Nacken atmet. Insofern er überhaupt noch atmet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 18, Aufnahme vom 12.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #120
+
+* Titel: `KotOR 2 - #120 - geistiges Pazaak [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen jetzt das wir die großartige Fähigkeit haben Leute in ihren Gedanken zu belauschen, offensichtlich gibt es ein paar Grenzen und wir müssen uns zum Glück anstrengen um überhaupt den Effekt genießen zu können. Douglas Adams erwähnt im Anhalter zwischenzeitlich ein Volk das mit der Fähigkeit des Gedankenlesens verflucht wurde, und in der Tat, wenn man das nicht kontrollieren kann wird das ziemlich schnell nervig kann ich mir vorstellen. Noch nicht ganz geklärt ist übrigens auch ob wir nur die Leute belauschen können mit denen wir eine Verbindung aufbauen bzw. irgendeine Art von Bruderschaft verspüren oder einfach jeden wenn es genügend Zeit gibt. Im zweiteren Fall sollten wir vielleicht doch noch schnell umsatteln und Meisterspion werden. Irgendwelche Cafés und Restaurants besuchen in denen hochrangige Politiker abhängen. Ob das als unmoralisch zählt und der Weg zur dunklen Seite ist? An sich ist irgendwie alles gute Seite immer reaktiv, Leute belauschen und darauf basierend zu handeln ist aber wohl eher das Gegenteil. Außerdem gibt es da noch ein anderes Problem. Wenn Leute wissen das sie belauscht werden können könnten sie auf die Idee kommen Gegenmaßnahmen zu starten. Nonsens denken. Wie auch immer man das dauerhaft aufrecht erhält und dabei noch irgendetwas gebacken bekommt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 18, Aufnahme vom 12.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

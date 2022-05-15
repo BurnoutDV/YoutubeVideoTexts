@@ -1039,6 +1039,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #65
+
+* Titel: `Horizon Forbidden West - #65 - Marsch eines Soldaten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist voller Dinge. Wir haben das junge Bestreben eines jungen Mannes sich vor Anderen zu beweisen, warum genau er das will ist eine ziemlich alte Geschichte. Wie es überhaupt zu dieser Geschichte kommen konnte ist mir übrigens nicht klar, anscheinend scheint das Leben der Tenakth irgendwie nur aus Training für irgendwelche Kriege zu bestehen. Die Schwester steht ja offensichtlich tief drin mit all den anderen jungen Kriegern. Dann gibt es da noch dieses komisches Aufnahmeritual das offiziell abgebrochen wurde aber unser junger Mann doch darauf besteht. Dann hätten wir da noch die Geschichte mit der Betreuerin der Strecke, das wird gar nicht weiter erwähnt aber erinnert mich daran das schon die Indianer dafür ein Konzept hatten. Nun, am Ende gibt es übrigens ein Achievement, fürs lange Gleiten, das ist auch ganz nett.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 10.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #66
+
+* Titel: `Horizon Forbidden West - #66 - die Kulrut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mich dünkt das die Methoden der Tenakth nicht die Besten sind wenn man nicht hart nach einem bestimmten Feature in Menschen filtern möchte. Folgende Problematik: Wenn sich ein Marshall beweisen muss indem sie irgendwelche Maschinen in einer Arena besiegt dann beweist das zwar das er ein ziemlich guter Jäger ist aber davon abgesehen wird recht viel offen gelassen. Anscheinend müssen die Marschälle ja auch diplomatisch Talent beweisen. Jetzt kann es natürlich sein das nur diejenigen überhaupt zur Kulrut geschickt werden die über die entsprechenden Fähigkeiten verfügen und der Kampf eher die letzte Auswahl ist. In diesem Fall frage ich mich allerdings ob es so klug ist fähiges Personal in einer Arena zu verheizen, in Zeiten in denen gute Leute bereits knapp sind. Zum Glück sind aber wohl die meisten Tenakth ab einem bestimmten Alter grundsolide und die Schwachen wurde bereits aussortiert, auch die medizinische Versorgung scheint so gut zu sein das man sich keine Sorge um irgendwelche Unfälle machen muss. Wirklich sehr verwunderlich, insbesondere wenn man bedenkt mit welchen Gewalten die meisten Maschinen unterwegs sind. Was ich mich bei diesen Arenakämpfen übrigens immer wieder frage..wie genau schaffen es irgendwelche Urvölker die Maschinen in einen Stück gefangen zu nehmen? Gibt es irgendwelche EMP Waffen von denen ich noch nichts gehört habe?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 10.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

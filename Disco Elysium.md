@@ -598,6 +598,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #40
+
+* Titel: `Disco Elysium - #40 - die vielen Fahrer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich heißen die Fahrer irgendwie anders aber ich weiß es nicht mehr und ich bin gerade nicht bereit in meine Notizen zu schauen, es war irgendwas mit "Camionneur" oder so, also quasi das französische Wort für Auto und das bedeutet dann halt Fahrzeugführer oder so. Wie dem aber auch sei, wir suchen eine weiblichen Fahrerin die sehr kleine Füße und ein besonderes Fußprofil hat. Ärgerlicherweise sind auch auch gar nicht mehr alle Fahrer in der Nähe, aber die die da sind erzählen uns auch nicht so unfassbar viel, fast schon so als würden die Fahrer zusammenhalten. Seltsam das. Nun, es stellt sich außerdem heraus das Leute von denen wir gar nicht wussten das sie Fahrer sind Fahrer sind. Faszinierend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 09.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #41
+
+* Titel: `Disco Elysium - #41 - die Graufahrerin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, ich weiß eigentlich immer noch nicht was das Grau eigentlich ist, es taucht aber als Begriff immer und immer wieder auf also gehe ich einmal davon aus das es noch einmal wichtig wird..oder aber es ist ein roter Herring und damit eine völlig falsche Spur. Zur Sache, ich habe eigentlich schon einmal versucht mit der Graufahrerin zu reden aber das hat einfach überhaupt nicht geklappt. Heute haben wir mehr Erfolg, ich frage mich aber warum. Das Schnipsen ist auf jeden Fall ziemlich unhöflich und hätten wir nicht tun sollen. Nun, haben wir aber immerhin jemanden der uns ein paar Dinge erzählen kann. Die Graufahrerin ist anscheinend eine der besten Fahrerinnen die man finden kann, wenn ich das richtig deute fährt sie vor allen Dingen die richtig langen Strecken und gibt sich dabei vollkommen den Tagträumen hin die ich jetzt provisorisch als "Das Grau" bezeichne. Eventuell der Traum von einer alternativen Realität in der man sich komplett rein versetzt. Zumindest so scheint es mir.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 09.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

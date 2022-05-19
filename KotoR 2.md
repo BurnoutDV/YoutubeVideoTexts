@@ -1924,6 +1924,70 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #121
+
+* Titel: `KotOR 2 - #121 - Nachricht von Kavar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich ist es schön, kaum haben wir Onderon verlassen fliegen wir wieder dorthin, zumindest wenn wir dem guten Kavar Folge leisten. Letztendlich war unser Zwischenhalt auf Korriban auch kaum mehr als nur eine Spritztour. Man könnte sogar sagen das es erfreulich ist das wir ein wenig an der Hand genommen werden, weil so richtig hätte ich auch nicht mehr gewusst wo wir als nächstes Hinfliegen. Zu Atris zurück dürfen wir nicht, auch HK-47 fühlt sich nicht so als das er uns zu seiner Fabrik führen will aber generell und überhaupt sieht ja irgendwie so aus als würde das große Finale dann doch auf Telos stattfinden. Dem doch so wichtigen Projekt. Ich finde hier merkt man auch wieder die Winzigkeit des Star Wars Universums, eigentlich müsste es doch tausende Raumstationen und Planeten geben die irgendwie auf im Raum der Republik relevant sind, und doch ist es immer wieder Telos und sein Pilotprojekt. Bei der Größe des Weltraumes würde man doch annehmen das es für jedes Pilotprojekt mindestens 20 Planeten gibt und die Dimensionen ganz anders sind. Das die Treibstoffversorgung nur von einem Ort der quasi überhaupt nicht geschützt wurde abhing ist am Ende auch nur die Kirsche auf dem kuchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 18, Aufnahme vom 12.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #122
+
+* Titel: `KotOR 2 - #122 - Spezialkommando Atton [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es sieht wieder einmal so aus als müssten wir das B-Team ranlassen weil das A-Team mit anderen Dingen beschäftigt ist. Namentlich ist das in diesem Fall übrigens Atton. Das alles erinnert mich schrecklich an eine Mission die es in Mass Effect 2 gibt, nur das dort die Dinge ein wenig weniger direkt aussehen und die falsche Wahl unter Umständen ziemlich negative Folgen haben kann. Aktuell sieht es hier aber so aus als wäre es ziemlich egal gewesen wen wir los schicken, die entsprechende Truppe hätte sich in jedem Fall einfach durchgeschossen und die Bedrohung durch die plötzlich anwesenden Sith-Truppen ein für alle Mal beendet. Die Sith sind wohl hier weil sie etwas suchen, dennoch ist ein wenig traurig wo jetzt auf einmal reguläre Truppen herkommen. Alles was wir bisher sahen waren versteckte Kommandos und quasi Spezialkräfte. Jetzt gibt es plötzlich quasi ganz normale Fußsoldaten, das ist schon ein wenig komisch. Wer hat die ausgebildet, wer ist ihr Schneider und wer liefert die Waffen die wer bezahlt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 18, Aufnahme vom 12.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #123
+
+* Titel: `KotOR 2 - #123 - das Grab von Freddon Nadd[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe erst vor Kurzem einen Test in der Sith Akademie abgelegt, eine der Prüfungsfragen dort war wer nicht auf Korriban begraben liegt. Die Antwort war selbstverständlich Freddon Nadd, die Frage die ich dann aber nicht gestellt habe war: Wo liegt der Sith Lord Nadd dann? Die Antwort erfahren wir dann heute ohne wirklich nachfragen zu müssen, auf Dxun. Warum ausgerechnet auf einen kleinen abgelegenen Mond ist mir ein echtes Rätsel, aber das Star Wars Universum ist halt echt alt. Und dieser Gedanke ist spannend, wenn nicht alles in Star Wars so verdammt wacky wäre wäre hier ein cooler Ansatz. Stellaris verfolgt das ja mit seinen Relikten die man von ehemaligen Völkern finden kann. Und irgendwie ist der Gedanke auch schrecklich. Bei Perry Rhodan gab es eine Geschichte in der ein uraltes Signal sich in irgendein Kristallgitter verfangen hat und intelligent wurde und dann am Ende die herrschende Intelligenz dieser Zivilisation. Irgendwann schickte diese Intelligenz Agenten aus um seinen Ursprung zu finden. Die Raumfahrer sind schon alt und grau als sie endlich ankommen nach vielen Jahren der Überlichtgeschwindigkeit und finden einen Planeten der kaum mehr als eine Wüste ist und tief unter dem Staub findet sich dann noch der höchste Turm der einst stolzen Stadt die in der Erinnerung der Intelligenz verankert war als sie geschaffen wurde. So unvorstellbar lange Zeit die vergangen ist. Im Star Wars Universum verschwinden Dinge aber nicht so schnell, meistens funktioniert auch noch das Licht, oder die alte Sith Technik ist quasi moderner als das was man heute hat. Oder die alte Rakata Technik. Und doch, das lässt mich an die Unendlichkeit denken. Auf Planeten mit Ökosystem hält das Ganze Zeug übrigens nicht ganz so lange wenn man nicht aktiv was daran macht, dazu hier ein Video von Kurzgesagt: https://www.youtube.com/watch?v=WhbGobY3hUg
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 18, Aufnahme vom 12.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #124
+
+* Titel: `KotOR 2 - #124 - Himmelsrampe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder erinnern wir uns das das Star Wars Universum eigentlich Fantasy ist und nur irgendjemand Dörfer durch Planeten ersetzt hat. Alles Andere ist genauso so. Die Monarchie ist dann natürlich die herrschende Gesellschaftsform und Demokratien bzw. parlamentarische Regierungen scheitern die ganze Zeit vor sich hin. Echte Alleinherrscher wie die Sith Lords sind jederzeit und jedes Mal aufs Neue locker in der Lage die ganze Republik zu besiegen und das liegt einfach daran das so anti-Fantasy Regierungsformen halt zu Nichts gut sind. Das ist auch der Grund warum es auf Onderon auch eine Königin bzw. Monarchie gibt. Verwandte stellen dann natürlich auch wichtige politische Ämter, so wie man das halt macht in der guten alten Vetternwirtschaft. Das geht so lange gut bis irgendjemand ein wenig zu ambitioniert ist oder die Hilfsmittelzahlungen an die Bananenrepublik einfach zu gering sind. An dieser Stelle sei das Brettspiel Junta empfohlen, quasi das exakte Szenario hat man da. Wir waren ja bereits einmal auf Onderon und haben schon festgestellt das das Alles irgendwie wenig Sinn ergibt mit nur einer einzigen Stadt in seinem Zentrum. Was wir auch gelernt haben ist das viele Leute weg wollen weil es gesellschaftlich nicht so gut aussieht. Jetzt wissen wir auch warum, das ganze Geld wurde sinnlos in den Bau von gewaltigen Rampen verpulvert. Wir laufen heute die Himmelsrampe hinauf, ein beispielsloses Beispiel (sic) an Geldverschwendung. Wie viele Generationen Bildung hier wohl verschwendet wurden? Und für was? Damit ich die Söhne (und Töchter?) von Iziz darauf bei lebendigen Leibe mit Blitzen braten lassen weil sie sich den falschen machthungrigen Despoten angeschlossen haben. Toller Einsatz von Staatsmitteln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 18, Aufnahme vom 12.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

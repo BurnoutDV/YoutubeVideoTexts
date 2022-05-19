@@ -924,6 +924,66 @@
   Sitzung 10, Aufnahme am 12.05.2022
   ```
 
+##### #62
+
+* Titel: `Deathloop - #62 - der Kracher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir wird am Ende dieser Sitzung aufgefallen sein das ich in diesen Episoden eigentlich nur noch an irgendwelchen Achivements rumgedoktort habe aber für das Spiel kaum noch etwas getan habe. So ist nämlich die Sachlage, heute gehen wir nach Fristad Rock. Wir wissen das Fia hier ihren Reaktor hat und durchaus willens ist alles in die Luft zu sprengen. Die letzten paar Male hat es bloß einfach niemanden mehr gegeben der die kritische Überladung eigentlich auslösen könnte. Heute probiere ich ein wenig herum, und auch um die wichtige Frage zu stellen ob Repriese vor solchen drastischen Dingen schützen kann. Auch frage ich mich übrigens ob Fia früher oder später Blackreef so oder so in die Luft gejagt hätte. Mit den Visionären ging es ja schon vorher recht schnell Richtung Abgrund und der Loop hat diesen Zustand nur für uns zur näheren Betrachtung konserviert.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 10, Aufnahme am 12.05.2022
+  ```
+
+##### #63
+
+* Titel: `Deathloop - #63 - Sterben mit Stil [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es steht eigentlich nicht mehr viel aus. An sich müssten eigentlich nur noch die anderen in der richtigen Reihenfolge sterben und schon wären wir fertig mit allem was uns bedrückt. Allerdings muss auch noch jemand anders sterben, ich, einige Male sogar damit ich irgendwelche unwichtigen Steam Achivements bekommen. Dazu gibt es zum Beispiel noch den Tod an Wenjiies Sicherheitssystem, das das ich bisher immer sehr erfolgreich ignoriert habe während ich irgendwelche anderen Dinge getan habe, wie zum Beispiel Wenjiie umzubringen, ihr Labor zu plündern oder einfach nur Geheimnisse zu entreißen. Daher müssen wir jetzt nur noch noch ein paar Wege finden richtig abzutreten und schon haben wir dann doch endlich alles geschafft was zu schaffen ist..und dann wird es Zeit für das große Finale.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 10, Aufnahme am 12.05.2022
+  ```
+
+##### #64
+
+* Titel: `Deathloop - #64 - Franks Classpass [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe es ja sofort zu, eigentlich bin ich nur da um Frank noch einmal umzubringen um zu schauen ob er eine andere Waffe droppt. Frank Spicer ist anscheinend ehemaliger Liebhaber von Colt, das bietet sich auch ziemlich an wenn man sich die Nähe des Sicherheitsbüros zu Franks Bude anschaut. Leider ist der gute auch kriminell untergenutzt. Klar wir besuchen ihn genau einmal um seinen Code für Ottos Werkstatt bzw. den Feuerwerkskasten zu finden, aber nachdem das passiert ist brauchen wir ihn nicht mehr. Frank stirbt dann jedes Mal durch ein Ereignis und das war es. Ich finde das ist schlechtes Spieldesign. Er hat eine gar nicht einmal so kleine Villa die neben der Bude von Alexis eine der wenigen Orte mit richtiger Inneneinrichtung ist, das Haus von Julianna können wir ja regulär nicht betreten, was etwas schade ist. Und dann müssen wir nur einmal wirklich dorthin. Es gibt sogar noch verschiedene Möglichkeiten in das Gebäude einzudringen ohne den Classpass zu nutzen, eine Möglichkeit das System zu deaktivieren und und und. Und waren wir genau einmal dort drin weil Franks Tod eigentlich nicht notwendig ist, zumindest nicht am Morgen in Fristad. Wir könnten ihn genauso gut am Leben lassen, seine E-Mails lesen und wieder verschwinden. Und dann stirbt er halt am Feuerwerk. Frank Spicer ist kein guter Mensch, soviel sollte klar sein, allein die Geschichten die er voller Stolz erzählt zeugen nicht unbedingt von einer geläuterten Persönlichkeit. Den Classpass nehmen wir übrigens mit.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 10, Aufnahme am 12.05.2022
+  ```
+
+##### #65
+
+* Titel: `Deathloop - #65 - Man stirbt nur einmal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Ende ist nah, wirklich! Heute sterben wir sogar, oder halt auch eben nicht. Es gibt da noch diese eine Sache mit dem Classpass, es ist leider nicht möglich das Spiel selbst mit einem Classpass zu beenden aber es wäre irgendwie witzig. Nun, wir haben uns ja das gute Stück bei Frank geschnappt und damit rennen wir jetzt umher, soweit ich das aber sehen kann haben wir bereits alle legendären Waffen erhalten die es so gibt daher ist mein Wille noch an irgendwelchen Minispielen herum zu doktern eher gering. Aber es gibt ja noch die Steam-Achivements, ich muss aber zugeben das wir ziemlich schnell den Punkt erreicht haben wo alles was ich mache nur noch ein weiterer Loop ohne wirklichen Mehrwert ist. Ich fürchte das ist auch die große Gefahr des Loops selber, auf der anderen Seite, Blackreef ist ziemlich groß und wenn man die Leute richtig beeinflusst könnte man bestimmt etwas tun um die Gesamtsituation noch interessanter zu gestalten, und doch, die Möglichkeiten sind immer ein wenig limitiert.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 10, Aufnahme am 12.05.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -932,4 +992,3 @@
 
   ```markdown
   Hier
-  ```

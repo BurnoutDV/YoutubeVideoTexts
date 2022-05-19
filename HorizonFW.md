@@ -1069,6 +1069,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #67
+
+* Titel: `Horizon Forbidden West - #67 - neues Personal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Station zur lokalen Kontrolle des Terraforming Systems ist relativ groß gebaut, allerdings muss man sich auch fragen wie viele Teile davon tatsächlich noch da sind, offensichtlich hat Hephaestus mitten drin eine seiner Brutstätten gebaut. Einen Umstand den ich übrigens auch komisch finde, offensichtlich war der Terraforming Prozess immer noch nicht stabil und setzte irgendwie eine menschliche Hand vor raus obwohl der schwierige Teil doch eigentlich der Anfang sein sollte. Warum also nicht alles aufbauen und fertig machen ohne auf fehlbare Menschen zu warten, insbesondere weil GAIA ja durchaus ein paar Jahrhunderte Zeit hatte eigene Entscheidungen zu fällen. Generell und überhaupt war sie es doch wahrscheinlich die diese Brutstätte quasi an die Wand der Terraforming Kontrollstation gebaut hat. Eine Station die noch von den Menschen errichtet wurde, aber irgendwie auch tröstlich, die alten Menschen haben Bunker hinterlassen und es spricht ja einiges dafür das es vielleicht irgendwo da draußen noch immer versiegelte Bunker mit zumindest Teilen der alten Welt und dessen Wissen gibt. Vielleicht sogar ein wenig Kultur. Übrigens auch komisch das die Foki die Aloy zwischendurch gefunden hatte nie Musik enthielten. Alles was wir bisher an Musik haben kommt von den beiden Sommer-Parkrangern aus dem kalten Norden. Hat niemand im Jahr 2060 mehr Musik auf seinen Fokus gehört? Gar nicht. Erend mag die Musik aber immerhin, außer Erend haben wir aber noch mehr Personal in unserer Anlage, wie viel Platz wir wohl am Ende wirklich haben und wie viele Leute dann rein passen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 10.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #68
+
+* Titel: `Horizon Forbidden West - #68 - Seherin des Verborgenen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Durch ihre doch ein wenig ungewöhnlichen Fähigkeiten hat sich Aloy im Laufe der Jahre einige Namen erworben. Das große Ding was dabei im Raum steht ist natürlich immer, wie viel der Leistung ist tatsächlich Aloy, ihr eiserner Wille, ihre Fähigkeit und Verstand und wie viel davon ist einfach nur die technische Hilfe die sie über allen anderen hebt. Wie gut ist sie zum Beispiel als Spurensucherin? Hat sie immer den Fokus benutzt um sich die Spuren von Wild anzugucken oder nahm sie die Hilfestellung nur um zu erst zu lernen worauf man achten muss und dann später um gute Sinne noch weiter vor ran zu bringen. Generell und überhaupt ist natürlich auch viel darin mit dem zusätzlichen Wissen auch umzugehen zu wissen, und das kann Aloy definitiv. Was sie aber auch kann ist das zu sehen was andere nicht sehen kann, sie kann quasi das Verborgene erkennen. Ein weiterer Titel, jetzt da sie diese Fähigkeiten geteilt hat wird es natürlich auch ein wenig spannend in dieser Hinsicht. Wo unsere Reise wohl als Nächstes hinführt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 10.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #69
+
+* Titel: `Horizon Forbidden West - #69 - Wiege des Echos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Meistens kopiere ich einfach den Titel der aktuellen Aufgabe wenn ich Episoden benenne, das tue ich auch heute. Meistens sind die entsprechenden Aufgaben bzw. Quests nach irgendetwas benannt, ein Zitat, ein Ereignis oder halt auch ein Ort. Die Wiege des Echos ist ein Ort und irgendwie auch nicht. Kurzum handelt es sich um eine ehemalige Far Zenith Forschungsanlage. Ich fühle mich ehrlich gesagt ein wenig dumm das ich daran nicht vorher gedacht habe. Natürlich hat Far Zenith auch noch Anlagen auf der Erde die die Apokalypse überlebt haben, ihre Bunker waren vorher schon geheim, es spricht Einiges dafür das sie die Anlagen also gut versteckt haben und eventuell sogar mit entsprechenden militärischen Standards ausgestattet hatten. Eine entsprechende Anlage ist wahrscheinlich ziemlich autark (obwohl das die meisten Anlagen zu seinen scheinen) und bietet ausreichend Prozessorkapazität um eine KI wohnen zu lassen. Hinterfragen wir lieber nicht wie genau die KIs eigentlich überhaupt drahtlos übertragen werden, immerhin erfahren wir wie die Zeniths sie rausgeholt haben. Die Anlage die wir vorfinden ist so gesehen eigentlich ein archäologischer Schatz, bis vor Kurzem noch versiegelt sollten wir hier viele unberührte Schätze finden. Oder auch nicht, alles was man nicht sofort verwenden kann ist für Aloy von geringerer Bedeutung. Zurück zum Titel, ein Echo ist die Reflektion der originalen Schallwelle, ein schwächeres Abbild. Gleich am Anfang finden wir auch heraus das es sich bei der Einrichtung um den Ort handelt an dem Far Zenith künstliche Gebärmütter erforschte, ich raffe hier nicht sofort das sie keine bessere Technologie entwickelt haben sondern das sie diesen Ansatz einfach haben fallen lassen. Das Zeug das Zero Dawn verwendet ist also tatsächlich der wahrscheinlich höchste Stand der Technik den die Menschheit hat. Zenith hat dann anscheinend in Richtung digitale Transzendenz bzw. lebensverlängernde Maßnahmen investiert. Das mit der digitalen Transzendenz ist interessant, draußen ist ein Zenith gestorben, wie viele gibt es von ihnen? Die Menge muss begrenzt sein, oder sind ihre Körper nur ein Gefäß wie in Altered Carbon und wir werden bald einen Klon finden? In jedem Fall hätten wir die Leiche zerstören sollen, nur so für den Fall. Auch fraglich ist übrigens warum eine Forschungsanlage überhaupt über so viele praktisch einsetzbare Pods verfügt, unmoralisch waren die Experimente ja wohl auf jeden Fall. Aber hier finden wir in der Tat eine Wiege..und ein Echo. Oder sind wir die schwächere Reflexion?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 10.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #70
+
+* Titel: `Horizon Forbidden West - #70 - die zweite Strophe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es geht mal wieder in die Region Reinklang, wir waren hier ja quasi fertig aber die Sorgen der Utaro sind noch nicht so ganz vorbei. Die großen Landgötter bzw. Pflughörner die hier Rechts und Links eingesetzt werden haben immer noch das kleine Problem das sie den Boden anscheinend überdüngen. Interessant ist übrigens das die sich ausbreitende Fäulnis eigentlich gar nicht so ein großes Problem ist und die Leute gar nicht so viel darüber reden. Größtenteils war das am Anfang ein riesen Problem aber bei den Tenakth spielt das anscheinend überhaupt keine Rolle, dabei müssten sie die Wunden im Land doch auch ein wenig bemerken oder? Nun, es scheint so als könnte GAIA hier etwas tun, auch ohne das wir die gesamte KI vervollständigt hätten, leicht ist es aber leider nicht. Also gehen wir zusammen mit Zoey bzw. eigentlich nur Zo einmal auf die Jagd. Wie gut sie tatsächlich im Kampf ist wissen wir ja eigentlich noch gar nicht, klar, sie war bei einigen Kämpfen dabei aber so richtige Performancemetriken haben wir nicht. Ich würde aber vermuten das sie nicht unfassbar gut mit dem Speer umgehen kann wenn man sich ihre Ursprünge anschaut.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 17.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

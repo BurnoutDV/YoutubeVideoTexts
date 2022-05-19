@@ -628,6 +628,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #42
+
+* Titel: `Disco Elysium - #42 - Flaschensammeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das hier ist quasi eine Füllerepisode, also nicht das Ding zum Schreiben sondern einfach nur zum auffüllen. Ich tue Dinge ohne so richtig zu wissen was ich eigentlich tun soll und laufe nur wild umher. Das läuft darauf hinaus das das Einzige was wir wirklich erreichen ist das wir am Ende einige Pfandflaschen mehr haben. Der neue Code für ziemlich unproduktive Aufnahmen ist jetzt also "Flaschensammeln". Eventuell wird es dann auch bald Flaschensammeln 2 und 3 geben. Generell und überhaupt ist es wahrscheinlich gar nicht so schlecht ein wenig die eigenen Finanzen aufzumöbeln. Leider steht wohl zu fürchten das das Einkommen das wir durch Pfand einfahren nicht besonders zufriedenstellend ist. Es wird Zeit für die 0.25 Real Pfandflasche, mit diesen 0.10 Dingern kann doch keiner was anfangen. Andererseits könnte es auch sein das es deswegen so viele Flaschen gibt weil der Pfand halt so wenig ist. Da müsste man jetzt den süßen Punkt raus finden ab dem die Leute die Pfandflaschen nicht mehr zurücklassen aber die Artikel nicht lächerlich teuer durch Pfand werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 09.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #43
+
+* Titel: `Disco Elysium - #43 - Fortgeschrittene Rassentheorie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wollen immer noch in den Hafen. Das ist leider nicht so leicht, sonst hätten es die Streikbrecher auch schon getan. Aber so wie es aussieht beschäftigt der örtliche Gewerkschaftsführer ziemlich kräftige Männer die dafür sorgen das die Türen geschlossen bleiben. Heute treffen wir diesen doch recht kräftigen Grund der sich da Schädelmesser nennt. Der gute Mann ist anscheinend ein wenig sehr tätowiert und auf seine physische Präsenz sehr stolz. Ich frage mich übrigens was genau er tun will wenn er eines Tages ein wenig älter wird und nicht mehr ganz so stark ist. Schädelmesser ist aber nicht nur stolz auf seine Erscheinung sondern geht auch noch einen Schritt weiter. Und diesen Schritt erfahren wir heute in tiefen Details, Stichwort "Rassentheorie". Dem kann ich zwar nicht ganz helfen aber immerhin nehmen wir in seiner Betrachtung der Welt zumindest einen sekundären Platz ein, es wäre ziemlich spannend zu sehen wie aktiv er gegen jemanden vorgehen würde den er in seiner Gruppe D bis F ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 09.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #44
+
+* Titel: `Disco Elysium - #44 - BMR-Streifenmantel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir finden heute ein Kleidungsstück. Kleider machen Leute und das ist wichtig. Der Mantel des BMR steht aber für mehr als nur Regenschutz. Er ist ein Symbol, ein Symbol der Autorität an einen Ort der ansonsten frei von der Hand des Gesetzes oder eines Staates ist. Der Arm der Moralintern scheint nicht unbedingt gut nach Martinais zu reichen und doch verkörpert dieser Mantel das Versprechen das auch hier ein wenig Gesetz gilt. Unseren Mantel wieder zu haben ist gut, es bedeutet auch einen Teil von uns wieder zu besitzen. Jetzt bräuchten wir nur noch den Rest von uns, unseren Ausweis, unsere Dienstwaffe und schon wären wir wieder vollständig. Was wir definitiv nicht brauchen ist wohl unsere Erinnerung an die Person die wir waren, von allem was ich so gesehen habe hatte der alte Harry gute Gründe so zu werden wie er geworden ist. Erstaunlich ist aber das die Erlebnisse hier bei der Leiche das alles getriggert haben, die Beweggründe sind wirklich ein wenig seltsam. So oder so, der neue Harry kann nur existieren ohne das er die Erinnerungen des alten hat. Wenn wir vielleicht lange genug der neue Harry bleiben sind wir in der Lage mit dem Alten umzugehen, aber im Moment ist unser Konstrukt zu fragil, die Lüge zu neu und instabil. Es braucht Zeit, aber der Mantel gibt uns so oder so Halt, am alten und neuen Ich. Vielleicht hat der alte Harry den Mantel gehasst, werden wir es jemals erfahren? Er erschien nicht wie ein Mensch der Tagebuch geführt hat, das holt uns jetzt natürlich ein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 16.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #45
+
+* Titel: `Disco Elysium - #45 - der ruhende Kran [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In unserer bisherigen Karriere als neuer Harry haben wir schon Briefkästen gut zugesprochen und technische Geräte getätschelt. Heute benutzen wir einen Kran um irgendwelche Dinge zu tun. Danach muss sich der Kran aber erst einmal ausruhen. Das hat er auch verdient, ein Kran braucht viel Ruhe. Ich meine das ich irgendwann einmal etwas darüber gelesen habe das die Menge an Schlaf die ein Tier braucht davon abhängt wie groß es ist, warum also sollte es bei Kränen anders sein? Ansonsten ruht der Kran auch vor allen Dingen deswegen weil der lokale Verladehafen immer noch bestreikt wird. Die Leute haben trotzdem irgendwie ein Auskommen weil der Gewerkschaftsführer die gesamte Operation irgendwie bezahlt, wie genau er das macht wissen wir nicht, noch nicht. Leider löst das nicht das Einkommensproblem der Lastwagenfahrer die natürlich kein festes Gehalt haben sondern pro Auftrag bezahlt werden. Ein "schönes" Beispiel dafür wie Dinge auf andere Dinge Auswirkung haben können und quasi nichts wirklich isoliert herumsteht. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 16.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

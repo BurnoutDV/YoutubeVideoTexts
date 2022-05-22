@@ -1129,6 +1129,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #71
+
+* Titel: `Horizon Forbidden West - #71 - Amadis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jemanden zu haben zu dem man sich wirklich verbunden fühlt ist nicht einfach. Also das es dazu kommt, wenn man es dann irgendwann einmal erreicht hat ist der Zustand in der Regel recht angenehm. Allerdings ist es dann umso schmerzhafter wenn diese Person nicht mehr da ist. Oder wenn diese Person nicht alles ist was man dachte was sie ist. So anscheinend geschehen im Falle von Amadis. Talanah hat in ihm wohl einen guten Weggefährten gesehen doch er hat aus der Vergangenheit einige Gedanken mitgebracht die wohl noch nicht ganz abgeschlossen sind, und so verfolgen wir den Mann. Es ist übrigens ein ziemliches Wunder das er noch lebt. Wenn man bedenkt wie tief im Tenakth Gebiet wir eigentlich sind, wie viele Gefahren auf einen Lauern und wie gefährdet ein Carja wie Amadis eigentlich ist, ein Typ der sogar von den eigenen Leuten verfolgt wird. Und dann gibt es da natürlich noch die Maschinen. Wer stellt eigentlich die ziemlich makellosen Klamotten des Mannes her?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 17.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #72
+
+* Titel: `Horizon Forbidden West - #72 - Ritakka [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir finden heute vielleicht nicht die Person die Amadis zu finden gehofft hat doch irgendwie doch ein Ende. Die gesamte Situation die wir heute erleben ist ein wenig komisch. Auf der einen Seite hat Talanah Amadis soweit verfolgt, so lange hinter her gejagt um herauszufinden was aus jemanden geworden ist den er einst kannte nur um Ende mehr enttäuscht zu sein als er es jemals sich hätte vorstellen können. Auch interessant ist aber auch das selbst Talanah mit der Gesamtsituation nicht so wirklich zufrieden ist. So wie es sich mir darstellt scheint sowohl als Aloy als auch Talanah irgendwie an einander interessiert zu sein, nicht nur als Kampfgefährte, aber genau wie bei Erend stößt sie diese Gedanken von sich. Die Rettung der Welt lastet schwer auf einen. Ob sie sich jemals gedacht hätte das eine solche Verbindung auch mit Problemen einher gehen würde, wie das sie sich erpressbar machen könnte? Immerhin hätte Talanah als Reisegefährtin den großen Vorteil das sich keine biologischen Gefahren daraus ergeben. Eventuell interpretiere ich hier aber auch ein wenig zu viel in den  Blicken hinein die sich die beiden zu werfen. Vielleicht schätzen sie sich auch einfach nur viel zu sehr und würden gerne einfach mehr Zeit als Freunde mit einander verbringen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 17.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #73
+
+* Titel: `Horizon Forbidden West - #73 - Signalsuche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist vom Worldbuilding her wieder sehr interessant. Ich sprach das Thema ja bereits öfter an. Bis auf die Oseram und die Carja sind die Kulturen die wir bisher so trafen ziemlich egalitär. Insbesondere bei den Oseram wundert mich das übrigens extrem. Die typische Oseram-Frau ist in etwa so gebaut wie die Männer..wie ein Panzer. Alle scheinen sehr an Erfindungen, Erkundungen und technischen Fortschritt interessiert zu sein. Auch wenn sie stellenweise wohl ein wenig in Cargo Kulte verfallen. Ich bin mir nicht ganz sicher welchen Wert es tatsächlich hätte Maschinen auf bestimmte Teile zu reduzieren und diese dann zu verwenden. Die Roboter verwenden offensichtlich Mikroelektronik die ohne gewaltige Lieferketten nicht replizierbar wäre. Oder aber die Licht-Warp-Technologie verwendet die wir schon stellenweise gesehen haben. Grundlagenforschung fällt wohl ein wenig kurz wenn man schon die fertigen Produkte sieht. Umso interessanter sind die Erkenntnisse der heutigen Forscherin. Ärgerlich ist nur das sie von Elektronik und der Physik dahinter wohl trotzdem keine Ahnung hat. Schlimmer noch, Aloy hat das auch nicht wirklich. Der Fokus sollte ein grundlegendes Verständnis geben, aber ich bezweifle das sie mit höherer Mathematik und Chemie vertraut ist. Und wenn ich so darüber nachdenke, trotz Schulbildung könnte ich Nichts davon bauen. Und dennoch, das was Aloy heute tut, könnte den Grundstein legen. auch wenn ein Museum mit irgendwelchen Kathodenröhren basierenden Geräten wahrscheinlich leichter wäre zu reverse engineeneren. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 17.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

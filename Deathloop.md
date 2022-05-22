@@ -984,6 +984,50 @@
   Sitzung 10, Aufnahme am 12.05.2022
   ```
 
+##### #66
+
+* Titel: `Deathloop - #66 - Alles für die Auszeichnung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wirklich, es ist nicht mehr weit, Episode 69 ist dann wirklich die letzte, ganz bestimmt, wir brechen dann den Loop, reden noch kurz über alles aber dann ist auch wirklich alles vorbei. Nur noch ist es noch nicht soweit, und bis es soweit ist tun wir noch ein paar Dinge. Heute jagen wir zum Bleistift noch dämlichen Achivements hinterher. Immer noch, quasi das was ich schon die ganze Zeit mache, leider gibt es da noch so ein paar Sachen die ich wohl einfach nicht mehr im Lets Play schaffe, zumindest nicht im normalen "wir spielen jetzt mal drauf los" Format, sondern maximal also schnelles "ich hab das hier noch mal gemacht nachdem ich es ein paar Mal probiert habe, es war nicht einfach". Nun, wir werden sehen, aber ich gebe mir wirklich Mühe. Als kleines Zwischenfazit will ich aber anmerken das ich das Spiel wesentlich zu sehr in die Länge gezogen habe, ein etwas strafferer Spielplan hätte es wahrscheinlich geschafft das Spiel in sagen wir einmal, 30 Episoden zu schaffen. Grade am Anfang habe ich viel Zeit darauf verbracht Dinge zu erforschen die letztendlich ein wenig egal waren weil ich noch gar kein Residiuum hatte. Nun, haben wir jetzt ja und wir laufen auf irgendwelchen Fluren herum.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 10, Aufnahme am 12.05.2022
+
+##### #67
+
+* Titel: `Deathloop - #67 - der blutige Pfad Colts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das offizielle Missionstatement von Äon ist ja irgendwas in der Richtung das sie den Horizont des menschlichen Geistes erweitern wollen aber von allem was ich so sehen kann geht es den Leuten eher darum eine endlose Partie zu haben, und wenn man sich das offizielle Werbematerial anschaut scheint das auch das große Missionstatement der Werbung zu sein. Warum wäre es also falsch daran als Colt so einmal richtig die Sau rauszulassen. Namentlich sieht das so aus das wir noch so ein paar wenige offene Stellen haben die ich mir in einen schnellen Loop anschauen will. Dieser Loop ist aber definitiv nicht der Letzte daher ist es eigentlich ziemlich egal was ich tue, jede Grausamkeit ist morgen wieder vergessen. Außer natürlich für Colt, und für Julianna falls sie wirklich zusieht. Generell und überhaupt war der alte Colt, also der der vor dem Loop unterwegs war wohl ein ziemlich brutaler Typ. Außerdem können wir nicht ganz sicher stellen ob der Typ der der in den ersten Loops unterwegs war nicht auch ziemlich brutal drauf war. Die Tatsache ist ja die, Colt war, soweit er weiß, lange der einzige Typ der sich an Dinge erinnert hat, das könnte schon dazu geführt haben das er moralisch nicht ganz einwandfrei gehandelt hat oder? Wie dem aber auch sei, heute lege ich es darauf an, schon weil ich ein paar gewaltverbundene Achivements habe.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 11, Aufnahme am 18.05.2022
+  ```
+
+##### #68
+
+* Titel: `Deathloop - #68 - der letzte Tag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist soweit, heute ist der letzte Tag, das letzte Mal das der Loop anspringt. Wir wissen nicht wie es dann weiter geht. Es könnte durchaus sein das der Loop endet und es wirklich morgen ist, das würde aber auch bedeuten das alles was gestern geschehen ist auch wirklich passiert wäre. Inklusive all jener die gestorben sind. Wir können natürlich nicht verhindern das die Leute die von Klippen springen das auch tun, oder jene die an Charlies Fallen sterben. Das ist nun einmal die traurige Realität, wir können nicht alle retten. Was wir aber tun können ist jene zu verschonen bei denen wir die Wahl haben. Diese, mir selbst auferlegte, Grenze die ich natürlich nur aus reiner Herzensgüte bei mir trage macht es mir aber ein wenig schwierig. Und ich schaffe es übrigens auch nicht. Wenn man genau hinschaut, in dem Moment in dem ich Harriet töte treffe ich aus Versehen noch einen anderen armen Kerl bzw. Kerlin. Später sieht man grade noch wie sich die Leiche auflöst. In dieser Hinsicht habe ich wohl leider versagt. Aber man kann wohl leider nicht alles schaffen, wichtig ist aber auch das kein Visionär davon kommt.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 11, Aufnahme am 18.05.2022
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -992,3 +1036,4 @@
 
   ```markdown
   Hier
+  ```

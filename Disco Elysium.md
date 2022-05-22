@@ -688,6 +688,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #46
+
+* Titel: `Disco Elysium - #46 - Evrart Claire [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Hafenarbeiter sind im Streik, werden irgendwie finanziert und draußen rennt ein Typ rum der alle Container in anderen Farben anmalt in dem er das Wild Pines Logo übermalt. Schuld an all dem ist der Gewerkschaftsführer Evrart Clair, von Joyce wurde er uns als ziemlich gemeiner Schläger Typ beschreiben aber eigentlich wissen wir gar nicht richtig etwas über ihn. Die Repräsentantin der Firma zu fragen die quasi ihm direkt gegenüber steht wird wohl nur mittelmäßige Ergebnisse haben. Joyce erwähnte das es zuvor eine andere Gewerkschaftlerin gab mit der man wesentlich leichter umgehen konnte. Diese wurde ersetzt, dazu können wir auch Fragen stellt. Was wir aber auch wissen ist das Evrart nicht genau das Monster ist als das er uns beschrieben wurde. Obwohl schon wahrnehmbar ist das er uns so gut wie er nur kann versucht zu manipulieren und offensichtlich über einige Spione verfügt. Ein gefährlicher Mann, wohl war. Ich frage mich wie weit er geht, tut er wirklich nichts aktives oder hat schon so mancher Firmenverhandler sich in einer dunklen Gasse wieder gefunden mit einer Stimme die anmerkt das Monsieur Clair sehr verärgert über die Umstände ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 16.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #47
+
+* Titel: `Disco Elysium - #47 - Mann der Gewerkschaft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig komisch wie man manchmal in komische Realitäten landet ohne das man irgendetwas dafür kann. Heute zum Beispiel sind wir jetzt auf einmal ein Mann der Gewerkschaft weil das der lokale Anführer so gesagt hat. Ich habe übrigens das Gefühl das sich der alte Harry gar nicht mit Monsieur Clair unterhalten hat und dieser nur viel zu gut um unsere Verwirrung weiß und diesen Zustand mit einem gewissen Maß an Vertrautheit ausnutzen möchte. Einem Maß das ich nicht in Ordnung finde. Aber sei es wie will, für den Moment bedeutet das wohl ein paar Vorteile für unsere Operation. Zum Beispiel können wir jetzt kommen und gehen wie es uns beliebt und ein gewisser Herr Jean-Luc hilft uns auch bei unserem Problem. Ist das nicht großartig? Ich bin schon sehr gespannt wann uns die Rechnung für diesen temporären Vorteil präsentiert wird. Der normale Trick in solchen Situationen wäre es ja einfach zu verschwinden. Aber ich nehme an das wäre Evrart auch ganz recht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 16.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #48
+
+* Titel: `Disco Elysium - #48 - Äußere Leichenbeschau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir als Mann der Gewerkschaft haben es vollbracht, die Leiche ist endlich unten, etwas das unsere Zielfähigkeit nicht in der Lage war zu vollbringen. Das bedeutet aber auch das wir uns jetzt den Verschiedenen im Detail anschauen können, sein Innersten zu Äußert kehren können und genau analysieren was seinen Tod verursacht hat. Ärgerlicherweise ist die Leiche schon ein wenig älter, ich könnte mir durchaus vorstellen das bei jemanden der erst seit einigen Stunden tot ist und am besten in einer wohl temperierten Leichenkammer liegt diese Operation ein wenig einfacher ist. Aber da müssen wir dann wohl durch, immerhin haben wir unsere Scheiße zusammen, das sollte doch wohl dabei helfen hier nicht wieder in massiven Brechreiz zu verfallen oder? Fangen wir also an, zum Glück müssen wir technisch gesehen auch nichts über Autopsien wissen, weil wir haben ja einen praktischen Zettel mir Durchschlag, der wird uns noch erlauben gründliche Untersuchen vorzunehmen. Erfreulich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 16.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -695,5 +740,5 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
 * Beschreibung:
 
   ```markdown
-  Hier
+  Hierder 
   ```

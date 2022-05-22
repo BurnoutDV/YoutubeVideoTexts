@@ -1988,6 +1988,54 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #125
+
+* Titel: `KotOR 2 - #125 - Sturm auf den Thronsaal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen in der Klischeehölle die sich da Star Wars nennt. Wir stürmen heute auf den Thronsaal, einen großen Ort an dem man als Monarch von Welt eigentlich seine Untergebenen empfängt. Ein Ort der aber auf jeden Fall aufgrund seiner allgemeinen Struktur eher nicht als Kampfplatz geeignet ist. Große offene Räume mit wenig Deckung? Klar, da möchte ich meinen Häuserkampf ausführen. Super Idee. Nur mit den extrem ungenauen Waffen des Star Wars Universums würde man darüber überhaupt nachdenken. Immerhin hatte der Raum einen Schutzschild, dennoch fragt man sich doch warum es keine Geheimgänge, unterirdische Bunker und mehrfach gestaffelte Verteidigungen gibt. Warum genau sollte man sich in seine Thronsaal zurückziehen, insbesondere weil wir ja wissen das es nicht die Palastwache war die revoltiert hat. Nun, aber weil das hier ja technisch gesehen ein grimmsches Märchen ist stürmen wir jetzt durch große breite Gänge ohne Deckung auf den Thronsaal zu wo natürlich auch grade in diesem Moment der entscheidende Kampf abläuft. Welch das wir noch rechtzeitig sind oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 18, Aufnahme vom 12.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #126
+
+* Titel: `KotOR 2 - #126 - Kavars Antworten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir das letzte Mal auf Onderon waren kamen wir ja nicht um die dortige, wahrscheinlich eh selbstzerstörerische Monarchie zu retten sondern um unseren alten Freund und Meister Kavar zu sehen bzw. auch mit ihm zu sprechen. Auch zu beachten ist übrigens auch das er nicht unser Meister ist, er ist einfach nur ein Mitglied des Rates. Nachdem wir den wahrscheinlich ebenso selbstzerstörerischen Putsch vorerst gebremst haben gibt es aber eine ruhige Minute um mit Kavar zu reden. Das ist doch schon einmal erfreulich. Als wir ihn sehr kurz das erste Mal trafen wirkte der Mann ja durchaus vernünftig, jetzt im zweiten Gespräch habe ich eher den Eindruck das er sich genauso abgehoben gibt wie es alle Jedimeister im Rat an sich haben. Letztendlich scheint mir die grundlegende Philosophie der Meister auch tief kaputt zu sein. Das Gespräch mit Kavar ist also maximal enttäuschend, insbesondere wenn man es mit der doch recht großen Selbstkritik anderer Meister vergleicht. Außerdem erfahren wir eigentlich absolut nichts Neues, warum genau geben wir uns mit diesen Mundatmern eigentlich ab?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 19, Aufnahme vom 19.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #127
+
+* Titel: `KotOR 2 - #127 - der Rat der Jedi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir die einzelnen Meister getroffen haben begingen wir gleich mehre Fehler. Fehler Nummer 1 war es sie nicht an Ort und Stelle zu töten. Offensichtlich sind sie Vertreter einer Philosophie die in ihrer jetzigen Form nicht weiter hinnehmbar ist. Alles was geschehen ist, alle Kriege, waren direkte Folge der absolut dogmatischen Haltung dieser und vieler anderer Meister. Hier spielt auch keine dunkle Seite der Macht mit hinein, die Meister sagen Jedi töten nicht, so sei es, wir müssten die Meister der Macht rauben, jeden Einzeln. Zweitens haben wir sie nicht mehr bedrängt, zuzulassen das sie uns unvollständige Informationen geben und von uns erwarten wie ein abgerichteter Hund einfach weiter zu hüpfen war viel zu gnädig. Jetzt zahlen wir die Rechnung dafür. Die arroganten Meister haben sich wieder vereint und sind damit eine Gefahr geworden. Von allem was wir aber so gesehen haben müssten wir immer noch um Weiten mächtiger sein als diese drei Joker zusammen. Wir waren in der Lage Darth Revans Traumbild zu besiegen, wir haben die Galaxie überwunden, diese Meister haben in ihrer Kammer gesessen und gewartet das sich eine Lösung präsentiert. Und jetzt stehen sie da um uns zu erklären das wir die Gefahr seien, blind für die Ursachen, blind für die Zukunft. Der Pfad zur dunklen Seite kann schnell sein, aber von den Leuten gesagt zu bekommen das man die Welt schlechter macht nachdem wir den Weg gegangen sind den wir gingen ist eine Frechheit. Ich würde sogar soweit gehen und behaupten das der Rat der Jedi vollkommen unfähig ist, unfähig zu erkennen. Unfähig zu adaptieren. Vielleicht sind sie aber auch einfach nur Junkies, die Macht scheint die Galaxie nicht unbedingt zu einen besseren Ort zu machen, insbesondere nicht wenn die helle Seite entscheidet erst einmal abzuwarten. Aber das ist ihre größte Angst, das es die Macht nicht mehr gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 19, Aufnahme vom 19.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -733,6 +733,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #49
+
+* Titel: `Disco Elysium - #49 - die zweite Meinung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben die Autopsie eigentlich abgeschlossen aber als wir eigentlich schon fast dabei waren die Leiche auf das Auto zu laden und dann durch die Gegend zu fahren kam uns doch noch ein Einfall. Wir könnten den guten Mann doch einfach einmal im lokalen Eisbären einlagern. Und dann noch einmal untersuchen. Wenn man Kim glauben darf dann ist die Autopsie in den Räumen der BMR eher ein Witz. Das ist eigentlich ziemlich traurig oder? Soll das etwas bedeuten das eine Felduntersuchung wesentlich präziser und genauer ist als alles was die lokale "Polizei" in geschlossenen Räumen zu bieten hat? Will man nicht, kann man nicht? Mangelt es an finanziellen Ressourcen? Die Fragen bleiben quasi endlos. Aber all das stellt eine große Motivation für uns da doch noch einmal richtig nach zu schauen. Und siehe da, ein wenig Fingerübung mit der Quicksave Taste und schon haben wir eine einwandfreie Autopsie. Es hätte übrigens viel geholfen wenn wir vorher die Zeugen ordentlich befragt hätten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 16.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #50
+
+* Titel: `Disco Elysium - #50 - freie Abendgestaltung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Bewegung in unserer Ermittlung. Die Sachlage ist also wie folgt, wir wissen das die Leiche schon eine Leiche war als sie den Baum aufgehangen wurde. Wir wissen auch das die Leiche keine Spuren von einer anderen Person aufweist die sich gewehrt haben könnte als unser Toter sich an dieser Vergangen hat. Generell und überhaupt ist das übrigens der große Tipp wenn man überwältigt wird. Soviel Kratzen, Beißen und generell DNA abschaben wie man nur kann. Sollte man so etwas wie einfunktionierendes Rechtssystem haben könnte man damit immerhin noch über das Grab hinaus dabei helfen den Täter zu identifizieren. Ich fürchte nur leider das man dafür relativ wenig Achtung bekommt, woher soll der Gerichtsmediziner auch wissen das man das absichtlich getan hat. Und außerdem ist man dann tot. Das ist ziemlich nervig habe ich gehört. Nun, der Tote kann so genervt sein wie er will, er ist auf jeden Fall erst einmal wieder weg, zusammen mit Kim. Das bedeutet aber auch das wir gar keinen Aufpasser mehr haben und wir stattdessen alleine die Stadt unsicher machen können. Es gibt da ja durchaus noch ein paar schöne Projekte die wir uns einmal anschauen wollen. Man stelle sich einmal vor wir hätten das erst am Morgen begonnen, dann hätten wir jetzt einen ganzen, vollen Tag ohne Kim. Nun, wie dem aber auch sei, fangen wir es an und schauen was die Nacht uns noch bringt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 16.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #51
+
+* Titel: `Disco Elysium - #51 - Gaston Martin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich gibt es gar nicht so viele Menschen die wir im aktuell zugänglichen Teil von Martinaise treffen können, und mit einigen von ihnen wollen wir gar nicht reden wie zum Beispiel mit unserem liebsten Gewerkschaftsführer Evrart. Auch vergessen habe ich bisher aber einen Mann namens Gaston Martin. Das letzte Mal als wir mit ihm reden wollten hatte er grade ein Baguette mitten in seinem Gesicht so dass er leider nicht in der Lage war zu reden. Er ist immer noch nicht fertig, mittlerweile auch viele Stunden später, aber er kann wohl auch reden. Die Geschichte des Mannes bleibt größtenteils im Schatten, aber so wie es aussieht hat er auch eine Menge davon, von dieser Geschichte, auch wenn nicht so ganz klar ist was er in all der Zeit getan hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 23.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #52
+
+* Titel: `Disco Elysium - #52 - innere Gefühle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kitsuragi steht uns ja für den Rest des Tages eigentlich gar nicht mehr zur Verfügung aber das heißt natürlich bei Weitem nicht das wir alleine unterwegs sind. Im Gegenteil, es gibt richtig dolle viele Begleiter die wir immer mit uns herumtragen, wir können sie zwar nicht loswerden aber sie leisten uns halt auch immer Gesellschaft. Es gibt ein Buch mit einer sehr entfernt ähnlichen Prämisse: Die tausend Leben des Steven Leeds (oder so ähnlich), von Brandon Sanderson. Der Hauptakteur dort hat verschiedene Persönlichkeiten die Wissens darstellen die umherlaufen und ihm mit Dingen helfen. Die Gefühle und verschiedenen Persönlichkeitsaspekte von Harry agieren hingegen ein wenig anders. So wie es scheint arbeiten einige von ihnen ein wenig gegen uns. Zum Beispiel die Innereien die heute der Meinung sind das wir uns doch einmal dem Faschismus näher anschauen sollen. Dies ist nicht dieser Run. Aber ich frage mich immer noch was ich getan habe das es dazu überhaupt kommen konnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 23.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -740,5 +800,5 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
 * Beschreibung:
 
   ```markdown
-  Hierder 
+  Hier
   ```

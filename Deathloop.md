@@ -1028,12 +1028,28 @@
   Sitzung 11, Aufnahme am 18.05.2022
   ```
 
-##### #Nummer
+##### #69
 
-* Titel: ``
+* Titel: `Deathloop - #69 - der neunte Visionär [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Während ich das hier schreibe habe ich mich natürlich ein wenig belesen und habe meine Erinnerung aufgefrischt, eventuell auch um sicher zu gehen das ich mich noch an alles erinnern kann was ich auch tatsächlich gesehen habe. Also, Colt war im ersten Loop, hat da 17 Jahre lang rum ge hangen und ist dann irgendwie raus ge kommen. Die Theorie ist jetzt das in diesem ersten Loop Colt der einzige Visionäre war, als er starb, gehen wir einfach einmal von Absicht aus, brach der erste Loop. Auch wenn es vorher nicht so richtig erwähnt wurde und Wenjiie Julianna und Colt als Eternalisten bezeichnet hat so sind wir doch zentral zum Loop, beide müssen sterben damit er gebrochen werden kann. Jetzt stellt sich natürlich die große Frage warum die beiden Visionäre sind, ist es wegen der Erinnerung, ist es ein Prozess der nachträglich vorgenommen werden kann? Eventuell hängt der Loop aber auch gar nicht an einer Person, es hieß das der Loop fest verankert wurde, an den Personen. Im ersten Loop von Colt war das vielleicht nicht der Fall und es handelte sich um eine instabile Welle die halt irgendwann einmal von alleine gebrochen ist. Nun, wie dem aber auch sei, das ist das Ende der Reise, wir haben Deathloop durchgespielt. 69 Episoden ist auch ganz witzig weil die Zahlen ein wenig aussehen wie ein Unendlichkeitszeichen..oder eine Stellung.
+  
+  Es folgen noch ein paar Theorien basierend auf Zeug das ich Online gefunden habe. Offensichtlich ist nur Canon was im Spiel ist, alles ist erstmal nur Spekulation.
+  
+  0:00 - letzter Loop
+  8:47 - allerletzter Loop
+  23:14 - finaler Loop
+  27:46 - Nachwort
+  
+  Unsere Annahme ist das wir uns im Dishonored Universum befinden. Der Fokus des Nichts durch den Outsider ist gebrochen und dadurch ist das Nichts einfach überall, es bricht quasi durch, ungesteuert aber dafür schwächer. Blackreef ist nur zufällig einer der Orte wo es stärker ist. In Dishonored hieß es das jene die dem Tod nahe waren das Nichts sehen können, siehe auch Death of the Outsider und den Spectors Club. Das würde Harriets Kult eine gewisse Glaubhaftigkeit geben, leider sehen wir nicht mehr von ihren Visionen. Gegenüber Frank erwähnt sie das es im Herzen der Insel die Quelle gibt. Also nicht im RAK sondern in der Insel. Ein Klassiker zum Nichts waren Walknochen, die sind wohl mittlerweile überfischt. Soweit wir das erkennen können hat Wenjiie eine Möglichkeit entdeckt künstliche Waltalismane herzustellen. Im Internet beschrieb es so das es die Umkehrung des klassischen Spruches ist: Hinreichend fortgeschrittene Magie ist von Quantenmechanik nicht zu unterscheiden. Anscheinend wurde auch irgendwo erwähnt das sie für jede der Tafeln einen persönlichen Gegenstand gebraucht hat, das spricht ein wenig dafür das es wohl keine reine Wissenschaft ist. Weiter hat sich der gute Egor wohl unironisch als Pseudowissenschaftler bezeichnet, als wäre das ein echtes Ding. Ich bin mir immer noch nicht so ganz sicher ob ÄON jetzt das ist was wir auf der Insel sehen oder ob die Gruppe dahinter viel größer ist und Blackreef für sie nur ein Experiment war, vielleicht um die ganze Welt zu loopen weil das Nichts droht die Realität zu verschlingen? Das Herz sagt das wohl wenn man im Nichts umherspringt, das eines Tages die Leere alles Licht verschlingt. Die geleakten Designdokumente sprechen dann wohl davon das wir uns weit in der Zukunft befinden. Und damit jetzt wohl auch Colt und Julianna, die einzigen Charaktere die richtig aufgebaut wurden. Großes Setup für ein mögliches Dishonored 3 als Koop Spiel? Auch möglich wäre es das die Welt untergegangen ist, alle aber in einem anderen Loop sind und nur Blackreef jetzt quasi nach vorne gesprungen ist, am Horizon sieht man ja das die Wolken um einen Ort gehen, ein Riss in der Realität? Wir wissen das so etwas wie Kernreaktoren existieren, aber vielleicht haben die Menschen der Zukunft dennoch das Nichts als Energiequelle genutzt, offensichtlich funktioniert das RAK damit, warum nicht auch ein großes Kraftwerk? Was ich nicht glaube ist das die nukleare Katastrophe geschah, das wäre ja ein Zufall das wir im Jahr 2254 (wir nehmen das jetzt mal an) rauskommen und das genau die Nacht der Apokalypse war. Und wenn der große Kataklysmus schon etwas her ist wäre wohl mehr Staub. Fragt sich nur was für gesorgt hat das die Meere austrocknen? Letzter Datenpunkt, wenn wir den Loop brechen sind da keine Worte mehr, hat Colt jetzt alle Erinnerungen wieder? Außerdem bleibt noch die Frage was er in den 17 Jahren auf Blackreef gemacht hat. Sind nur die Visionäre wirklich dort und die Eternalisten sind quasi nur ein Abbild? So viele Fragen, zu wenig Antworten. 
+  
+  Inoffizielle Timeline: https://imgur.com/a/vbTvpV7
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 11, Aufnahme am 18.05.2022
   ```

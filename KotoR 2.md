@@ -2036,6 +2036,54 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #128
+
+* Titel: `KotOR 2 - #128 - das Urteil des Rates [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  "Aus meiner Sicht sind die Jedi böse", ein Zitat eines gefallenen Jedis. Und auch wenn ich finde das Anakin ein wenig weit gegangen ist hat er im Grunde doch recht oder? Von allem was wir so gesehen haben ist der Rat der Jedi durch und durch verdorben, geblendet von ihrer eigenen Philosophie die den Test der Zeit einfach nicht besteht. So viele Meinungen und Ansichten die vertreten werden ohne je in Frage zu stellen ob das überhaupt klug ist oder noch angemessen. Und so kommt es das wir heute wieder einmal vor dem Rat stehen und wieder einmal verurteilt werden. Ich finde es übrigens nicht okay das uns drei mittelmäßige und offensichtlich nicht sehr mächtige Jedi einfach so überwinden können. Von Allem was wir bisher sahen handelt es sich bei den letzten drei Meistern nicht um die Stärksten ihrer Art, umso enttäuschter bin ich das wir das Problem nicht selber lösen können. Letztendlich ist es wohl der Jedi Orden selbst der sich vernichtet hat. Heute schmecken wir den bitteren Geschmack des Verrats, Verrat aus unendlicher Dummheit, Dummheit die ich mir übrigens auch nicht erklären kann. Der Meister aus Nar Shaddar hat alleine bereits zugegeben das er unsere Behandlung nicht in Ordnung fand, aber jetzt in der Gruppe gibt er wieder der Tyrannei des Dogmas nach. Und das Schlimmste ist das nicht nur das Bier alle ist sondern das wir genau das schon vorher hätten ahnen können. Warum also haben wir nicht unsere mächtigen Mitglieder der Gruppe mitgebracht um dem Rat mit entsprechenden Argumenten entgegen treten zu können. Stattdessen stehen wir wieder alleine da und müssen irgendwie darauf hoffen das uns jemand retten kommt. Unbefriedigend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 19, Aufnahme vom 19.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #129
+
+* Titel: `KotOR 2 - #129 - Briannas Prüfung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zusammen sind wir alleine. Unser Held, Chouder Cora, ist sehr gut darin andere Leute zu verbinden. Immer wenn wir jemanden treffen führt das dazu das wir uns irgendwie mit diesen Menschen näher auseinander setzen als es normalerweise möglich ist. Die Jedi kennen diese Verbindung von der Ausbildung von Padawanen, aber so gesehen ist daran ja nichts Besonderes als das man das nicht mit beliebigen anderen Person vornehmen kann. Der ehemalige Rat der Jedi hat sich aber dennoch daran gestört. Das fand ich nicht so okay aber jetzt sind wir darüber ja hinweg. Nur leider hat in der entscheidenden Schlacht niemand bei uns gestanden. Diese Verbindungen zu allen möglichen Leuten einzugehen ist also relativ nutzlos wenn man dann nicht in der Lage ist gemeinsam etwas Großes zu erreichen. Es bleibt also nur zu hoffen das wir unseren Begleitern genügend beigebracht haben damit sie in der Lage sind für sich selbst zu stehen, so wie wir es nicht waren. Vielleicht ist unsere Schwäche ihre Stärke. Dazu trainiert nicht auf uns alleine zu vertrauen sondern für sich selbst zu stehen. Heute steht die Prüfung der letzen Dienerin an, eine Person die schon sehr bald sterben wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 19, Aufnahme vom 19.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #130
+
+* Titel: `KotOR 2 - #130 - das Archiv des Flüsterns [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe zu ich habe mir den Namen dieser Episode irgendwie ein wenig kreativ ausgedacht. Ursprünglich wollte ich sie "Darth Traya" nennen, aber ich bin mir zum jetzigen Zeitpunkt noch nicht einmal so richtig sicher wer genau Traya jetzt eigentlich ist, ist es Atris oder doch eher Kreias ehemalige Sith Persönlichkeit. Aber dann fiel mir ein das wir auch noch andere Personen in der heutigen Episode haben, namentlich ist das heute Atris die wirklich lange Dialoge mit uns hält. Eigentlich auch eher ein Monolog, weil nur sie redet, wir werfen ab und an etwas ein aber es erscheint nicht so das sie darauf wirklich reagieren würde. Stattdessen redet sie noch mit einer dritten Partei. Wie genau diese Sith-Holocrons funktionieren kann ich übrigens nicht sagen, aber anscheinend doch ein wenig anders als diese Jedi Variante davon. Weil, die Sith scheinen doch recht viel Persönlichkeit hinterlassen zu haben, und das ist Nichts was man ansammeln möchte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 19, Aufnahme vom 19.05.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

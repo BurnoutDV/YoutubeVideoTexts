@@ -1174,6 +1174,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #74
+
+* Titel: `Horizon Forbidden West - #74 - die Last der Verantwortung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Grob gesagt gibt es zwei Arten von Leuten die irgendwelche anderen Leute anführen bzw. verwalten. Oder was auch immer. In jedem Fall kümmern sie sich darum das Andere tun was richtig ist damit die Gemeinschaft vor ran kommen. Gruppe eins sind die Menschen die die Macht wollen, es geht ihnen gar nicht darum die Verantwortung zu übernehmen sondern nur um den Prestige der damit verbunden ist. Vielleicht auch ein wenig um sich zu bereichern. Es gibt da noch einige Untermotivationen und so pauschal kann man das dann wohl gar nicht sagen, letztendlich stellt die Person ihre Anführersein aber über die Last der Aufgabe oder der Not der Gemeinschaft. Die zweite Variante übernimmt die Rolle weil es sonst niemand kann, oder weil man erkennt das man vielleicht für die Aufgabe nicht geeignet ist aber es sich einfach sonst niemand findet. Ich würde behaupten das wir mehr von dieser Art von Anführer brauchen, leider gibt es da ein kleines Rekrutierungsproblem. Letztendlich wird sich ja niemand in die Rolle drängen die sie gar nicht will. Warum sollte man sich auch ohne Not gegen die herrschende Ordnung stellen. Niemand der aus Notwendigkeit das Szepter in die Hand nimmt tut das gegen einen bereits etablierten Anführer. Oder wenn doch dann ist es wohl doch eher die Motivation aus Gruppe 1. Alles ist irgendwie schwierig, sicher ist das man wohl irgendjemanden braucht der für anderen Leuten sagt was sie tun sollen, und wenn es nur als zentrale Anlaufstelle ist, aber in irgendeiner Hinsicht braucht es wohl einen Blitzableiter oder Entscheidungsträger. Vollkommen föderale System haben recht viel Overhead und skalieren grausam. Zurück zur Sachlage, in Brennsperr hat es unlängst keinen Machtwechsel gegeben aber hätte es, hätten wir nicht eingegriffen. Aber nur weil es den Machtwechsel nicht gab ändert sich nichts an den inneren Streitigkeiten. Und jetzt stehen wir da. Müssen weiter korrigieren. Wie es wohl gelaufen wäre wenn wir nicht eingegriffen hätten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 17.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #75
+
+* Titel: `Horizon Forbidden West - #75 - in voller Blüte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt ist dem Kollaps nahe. Irgendwo an der Küste lagern die Zeniths und planen, als Bedrohung aus dem Weltraum, alles Leben zu vernichten. Und dann haben wir noch Stämme die die Welt mit Krieg überziehen, und hier stehen wir, an einem warmen Mittwochabend und reden mit irgendwelchen alten Tenakth. Während ich das hier schreibe fällt mir grade ein das ich zwar gerne die Zeit in Form von Schrift und Worten festhalte, den Moment besser genießen will indem ich jede Minute noch einmal durchgehe, aber letztendlich lebt man damit immer noch in den engen Grenzen die der Kalender uns bietet. Aloy ist es egal ob heute Mittwoch ist, die Tenakth kümmern sich nicht darum ob grade Werktag ist. Einen Tag des Herren einzuführen und die Abhängigkeit von Saatzyklen von Agrargesellschaften prägt das menschliche Verständnis von Zeit doch sehr. Ist es vielleicht deswegen das Inselstämme doch ein wenig entspannter sind wenn es um das tägliche Leben geht? Letztendlich sind die Fische immer da. Und gerade weil Zeit irgendwie im Detail bedeutungslos sind sind wir hier. Um den Gedanken jener nach zu jagen für die Zeit dann doch nicht mehr ohne Bedeutung ist weil sie einfach abgelaufen ist. Ich mag den Teenager-Tenakth irgendwie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 17.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #76
+
+* Titel: `Horizon Forbidden West - #76 - Blut für Blut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben ist oft unfair. Zum Beispiel gibt es bestimmt eine Menge Tenakth Teenager die sich irgendwie in die Geschichte mit Regalla haben reinziehen lassen ohne das sie so wirklich die notwendige geistige Reife erreichen konnten um eine gesunde Entscheidung zu fällen. Generell und überhaupt scheint ja die allgemeine Bevölkerung ein wenig jünger zu sein obwohl es so aussieht als gäbe es guten Zugriff auf Nahrung und Vorräten. Andererseits ist der Kampf gegen Maschinen ziemlich gefährlich wenn man nicht Aloy heißt. Gehen wir wohl davon aus das die meisten jungen Menschen die wir so sehen eher nicht besonders alt werden. Welche Glück hat da unser junger Freund dem wir heute hinterherjagen das sich Uroma noch für ihn interessiert und ihn raushaut. Die anderen wohl nicht ganz so reifen Rebellen haben da weniger Glück. Ich hätte übrigens wirklich gerne gewusst was aus der Blut für Blut Geschichte geworden wäre wenn wir doch verraten worden wären. Hätten die durchgezogen und ihren Kaplan hingerichtet?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 17.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #77
+
+* Titel: `Horizon Forbidden West - #77 - Bruttstätte Iota [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist schon wieder eine ganze Weile her das ich eine Bruttstätte besucht habe. Wenn man die die unter der Basis nicht mitrechnet ist es sogar die Zweite. Mir scheint übrigens das es zwischen dem ersten und dem zweiten Teil einen leichten Wechsel in der allgemeinen Aufmachung gegeben hat. Im ersten Teil waren die Bruttstätten zwar auch so aufgebaut das alles ein wenig wie eine Fertigungsstraße aussah aber ultimativ war das ziemlich sinnfrei weil neue Roboter durch pures Licht gebaut werden, ähnlich der Technologie die auch die Faro-Maschinen genutzt haben. So wie ich das jetzt sehe wurde die Technologie ein wenig generved, das "Licht" kann jetzt nur noch sehr begrenzt Dinge bauen und es funktioniert eher wie stützungsfreies 3D Drucken mit gemischten Materialen. Das ist immer noch ziemlich mächtig und beeindruckend, aber es scheint als müssten die Rohmaterialien irgendwie vorbereitet werden und die Reichweite der einzelnen Teile ist auch begrenzt, unter Umständen können auch nur begrenzt verschiedene Werkstoffe verwendet werden. Das führt dazu das wir heute eine wesentlich klassischere Werkhalle vorfinden, weniger Star Trek, mehr Industrialisierung. Nur halt mit Robotern. Und Fraktalbauweise ohne Wartung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 24.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

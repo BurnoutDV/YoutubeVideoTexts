@@ -1234,6 +1234,31 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #78
+
+* Titel: `Horizon Forbidden West - #78 - Tal der Gefallenen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt wie wir sie kennen ist schon ziemlich erkundet. Ein großes Thema das man in alten Western sieht ist die Gegend halt doch noch irgendwelche neuen Dinge enthalten kann. Oder aber in modernen Medien, das Amerika so groß ist das irgendwelche Leute wirklich lange ihr eigenes Ding irgendwo tief im Wald oder abseits der Straßen machen können das es quasi das Gleiche ist. In der Welt in der Aloy lebt gibt es dieses Ding direkt zweimal, zum einen ist die Welt irgendwie leer aber auch sehr neu und unbekannt. Und dann gibt es da noch ein paar Ruinen der alten Welt aber ich bin mir sich das in ein paar hundert Jahren das bestimmt alles weg ist. Es gibt sie also definitiv noch, die mehr oder weniger unberührten Orte. Und mit diesem Potenzial kann man natürlich auch verschwenderisch umgehen. Heute besuchen wir das Tal der Gefallenen. Einem Ort an dem die Tiefland Tenakth beweisen was sie können, keinen anderen Sinn gibt es hier. Aus irgendwelchen Grund gibt es hier besonders viele Maschinen. Die Anwesenheit der Faro Maschinen könnte damit zu tun haben, andererseits scheint kein Stück der Terraforming Einrichtung die Wracks der Vergangenheit entfernen zu wollen. Dienen sie vielleicht als Mahnmal? Aber das erklärt dann erst recht nicht die anderen Maschinen, aber wer kann schon vor raus sagen wo die Viecher rumlaufen. Vielleicht ist es auch einfach nur ein animalisches Pattern das das Verhalten überschreibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 24.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

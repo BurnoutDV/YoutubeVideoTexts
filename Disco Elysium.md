@@ -793,6 +793,156 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #53
+
+* Titel: `Disco Elysium - #53 - der Sonntagsfreund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der schwule Liebhaber ist irgendwie..fast schon eine Meta-Trophe. Natürlich kann man als Mann mit Macht und Einfluß gerne einmal eine schöne Geliebte haben, vielleicht sogar die Sekretärin oder aber auch nur jemanden den man irgendwie gefunden hat, schließlich locken Geld und Einfluß durchaus Leute an. Was aber wenn man ein langweiliger Beamter ist, aus irgendwelche Gründen ist es dann der Keller in dem man Teile der Familie wegsperrt sollte man einem Bergvolk angehören oder es ist die homosexuelle Nebenbeziehung. Wir wissen so gut wie Nichts über das soziale Gefüge und welche Stigmata die Leute tatsächlich verfolgt. Die Leute in Revachol erscheinen relativ offen geistig zu sein, wenn man es einmal von dem Level 1 und Level 2 Rassisten absieht. Und doch, anscheinend scheint es allgemein nicht so gerne gesehen zu sein wenn man seine Sexualität neu entdeckt. Es könnte natürlich auch sein das unser Sonntagsfreund offiziell den Erwartungen seines Umfeldes oder Familie entsprach und erst später bemerkte wo sein Herz wirklich liegt. Oder aber er musste den Weg mit der Familie gehen weil man das von einem Mann in seiner Position halt einfach erwartet. Wie dem aber auch sei, so wie es aussieht der Mensch ziemlich von seiner Veranstaltung überzeugt. Es gibt übrigens einige Berufe die so viel Hingabe brauchen das man dort meistens schwule Männer findet, einfach weil Kinder zu zeitraubend wären, gehört vielleicht Finanzexperte auch dazu?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 23.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #54
+
+* Titel: `Disco Elysium - #54 - Fortschritt in Zentimetern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Grundhypothese: Die Welt als Solche ist ein ziemlich schlechter Ort und man muss da ganz dringend etwas machen. Junge Leute würden da jetzt gerne radikal werden und die Veränderung durch eine Menge Gewalt bringen aber leider lehrt uns die Geschichte das die entsprechenden Veränderungen dann nicht besonders dauerhaft ist und die Revolution frisst in der Regel ihre Kinder. Gerne hat man auch "Holier than thou" Fälle wo sich dann die einzelnen Mitglieder der Veränderung darin überbieten wollen wie gut sie darin sind für die Sache einzustehen. Der Gegenentwurf ist dann wohl das "Marschieren durch die Institutionen", langsames Unterwandern der Staatsorgane und damit einbringen von Veränderung. Alternativ kann man natürlich auch Medienkonzerne kaufen und die Bevölkerung einfach mit Propaganda beschallen. Funktioniert zum Beispiel in Australien ziemlich gut, das braucht aber leider eine Menge Kapital, das hat nicht jeder. Noch ein Ansatz ist anscheinend das man ganz langsam die Verbesserung der Welt anstrebt und dann seinen Fortschritt in Zentimetern misst. Erfahrungsgemäß führt das aber dann dazu das die Kräfte die sich wesentlich schneller bewegen einfach gegen agieren und die eigenen langsamen Bemühungen ins Leere laufen lassen. Ich bin immer noch unsicher was der beste Weg ist, aber die Grundannahme muss wohl immer sein das man nicht ein System ändern muss sondern versucht ein System zu verändern das jemand aktiv so geschaffen hat und diese Entität dieses auch verteidigt. Das macht es nicht besser.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 23.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #55
+
+* Titel: `Disco Elysium - #55 - die Würfelmacherin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir übrigens nicht ganz sicher ob wir heute nicht doch eher dem Geist des Schicksals oder vor mir aus auch der Göttin des Schicksals begegnet sind. Auf jeden Fall handelt es sich dem Anschein nach um eine nicht mehr ganz junge Frau aber auch nicht schrecklich alt die in einem unscheinbaren Kämmerchen das eigentlich einmal der zentrale Ofen eines Gebäude war sitzt und dort Würfel herstellt. Besondere Würfel für eine ganz besondere Kundschaft die es sich leisten kann gutes Geld für diese Würfel zu bezahlen. Immer noch habe ich irgendwie Schwierigkeiten die Welt einzuschätzen, aber immerhin scheint es mir so als gäbe es dort draußen noch mehr und nicht alle Orte sind so ruiniert wie es der Bereich von Revachol ist den wir aktuell sehen. Leider hilft es uns auch wenig den Geist der Anlage zu treffen, so richtig werden wir nicht reicher in Sachen Antworten. Aber immerhin können wir ein freundliches Gespräche führen, das ist doch eigentlich ganz nett oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 23.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #56
+
+* Titel: `Disco Elysium - #56 - gescheiterte Geschäftsideen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Über Deutschland sagt man immer und oft das die Start Up Szene hier ziemlich im Argen liegt weil die Einstiegshürden für ein Unternehmen relativ hoch sind. Das ist definitiv wahr und daran kann man wahrscheinlich auch wenig schön reden. Auch bedenken muss man aber auch das nicht jede Geschäftsidee eine gute Idee ist. Neulich ist mir zum Beispiel ein Konzept für ein Spargelstecherroboter untergekommen. Wenn man sich anschaut wie günstig polnische Arbeitskräfte sind tue ich mir aber schwer mir vorzustellen das sich hier Automatisierung als Erstes lohnt. Klar kann man damit das Leid der Menschen lindern die in suboptimalen Situationen leben, aber nach Leid optimiert niemand (außer vielleicht enthusiastische Folterkammerbesitzer). Und so ist es auch mit vielen klassischen Geschäften, ultra-spezialisierte Buchläden braucht nun nicht jeder, oder satanische Tierpräparatoren. Häufige Ursache für das Scheitern von Unternehmungen ist auch die fehlende Erfahrung oder Unwissen über die Umstände. Und selbst wenn man sehenden Auges in die Gesamtoperation rein geht kann es durchaus sein das einfach Pech dazu kommt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 23.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #57
+
+* Titel: `Disco Elysium - #57 - schlafender Hafen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Poeten und Schreiberlinge beschreiben eine Stadt manchmal als schlafenden Riesen, oder als einen großen Organismus, und wenn man in einer Großstadt ist und das dröhende Hintergrundgeräusch der Autos, die Bars, die Menschen und die Leute hört, dann ist man geneigt dem zuzustimmen. Ähnlich ist es auch mit toten Städten, warst du lieber Zuschauer schon einmal in Bonn, der ehemalige Bundeshauptstadt und Regierungssitz? Der Ort fühlt sich an wie eine leere Hülle, nur noch Relikt von einer einst großen Zeit. Selbst die Gebäude sehen so als als wären sie in der Zeit konserviert. Aber es geht noch weiter, einzelne Gebäude oder Anlagen können ebenso als ein "Wesen" wahrgenommen werden. Ideal sind dafür Chemie- oder generell Industrieanlagen, durch das ständige Knarzen und Quietschen oder irgendwelcher Dinge hat man das Gefühl hier atmet etwas. Dieser Annahme folgend schläft der Hafen aktuell. Ein gewaltiges Wesen das darauf wartet erweckt zu werden, aber jetzt in der Nacht schlafen selbst die Menschen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 23.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #58
+
+* Titel: `Disco Elysium - #58 - nächtliche Lektüre [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da noch ein so ein paar Fallakten, in diesen Akten stehen all die schönen Fälle drin die wir damals gelöst haben, oder auch nicht, nur weil es ein Fall ist heißt das ja nicht das man es auch tatsächlich geschafft hat. Heute erfahren wir zum Beispiel vom Wandbilder der nächsten Bild. Irgendwie ein wenig deprimierend für unsere Welt. Außerdem liest sich ein wenig heraus das wir einen Partner mit der Abkürzung JV hatten oder vielleicht sogar noch haben. Stellt sich nur die Frage wo der gute Mann hin ist. Wie dem aber auch sei, die Fallakten geben nur sehr limitiert Informationen, das liegt einfach daran das es halt eine sachliche Beschreibung der Realität ist und nicht ein persönliches Kommentar des Verlaufs. Das ist sehr schade, ich neige dazu immer Kommentarspalten mit etwas "mir" vollzuhauen, vielleicht der Versuch sich selbst und das eigene selbst für die Ewigkeit zu konservieren, eine Graffiti in den Akten dieser Welt. Ein kleiner Schrei der leise verkündet: "ich war hier". Harry hatte anscheinend keine Neigung in der Richtung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 23.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #59
+
+* Titel: `Disco Elysium - #59 - der unlösbare Fall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind immer noch bei den Fallakten, größtenteils um Zeit rum zu kriegen damit ich im Zweifelsfall dann nicht allzu sehr unter der "unsicheren Welt" leiden muss, ich hoffe ja sehr das der Bonus substantiell ist. Also, zurück zum Fall. Ich war ja ein wenig enttäuscht das der Fall nicht wirklich unlösbar war sondern das einfach die Rahmenbedingungen es nicht erlaubt haben ihn korrekt zu lösen. Außerdem erfahren wir etwas über den vergangenen Harry. Es scheint als hätte er gewaltigen Schmerz mit sich herum getragen, Schmerz der von dem kleinen, besonders sicheren Fach im Klemmbrett der Scham ausgeht. Nach und nach wird klar warum wir wohl die Gestalt geworden sind die wir wurden. Ob uns das Vergessen hilft ein besserer Mensch zu werden der dann in der Lage ist das Trauma zu überwinden das ihn einst zu Fall gebracht hat, oder wird es am Ende, wenn wir wirklich erfahren was wir waren, dennoch wieder in die Gosse schicken? Klar ist das die Erinnerungen irgendwie noch sind, bruchstückhaft, wie Scherben eines selbst, verteilt im Geist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 30.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #60
+
+* Titel: `Disco Elysium - #60 - die Couch am unerwarteten Ort [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und die Nacht nähert sich dem Ende, oder zumindest die Zeit die in der Nacht vergehen kann. Ich bin mir nicht ganz sicher ob man das sogar ausnutzen, schließlich wird es wohl nie später als 2 Uhr. Eigentlich aber auch sehr interessant das man nicht einfach die Nacht durchmachen kann, der nächste Morgen wäre dann bestimmt höllisch aber die Option hätte ich schon gerne. Oder aber wir würden zu Drogen greifen und versuche das Problem auf diese Art und Weise zu umschiffen. Die Fälle die Harry erledigt hat reichen von spannend bis zu sehr mundan. Und manche sind einfach Dinge die jemand wie Harry halt gemacht hat weil er quasi der Arm des Gesetzes ist, und der Arm des Gesetzes tut auch Dinge die allgemein langweilig erscheinen, weil irgendjemand muss es tun.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 30.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #61
+
+* Titel: `Disco Elysium - #61 - der endgeile Sohn der Lunge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend sind wir der endgeile Sohn der Lunge, was auch immer ein "Son of Lung" ist oder was auch immer das Idiom eigentlich bedeuten soll. Ich dachte ja immer das mich die Yakuza Spiele gut auf so etwas vorbereitet haben, aber es gibt wohl Momente in denen ich einfach nicht mehr weiter weiß. Nun, so wie es aussieht sind die lieben Kollegen auch einmal zu Besuch gekommen. Jetzt fragt sich nur warum sie das tun. Wurden sie von Kitsuragi auf den Plan gerufen oder kamen sie selbst nachdem wir von unserem kleinen Missgeschick mit dem Ausweis berichtet haben? Es gibt da definitiv ein paar Fragen auf die ich die Antwort vielleicht gar nicht wissen will. Vertraut man mir nicht, oder ist es einfach nur die Sorge um die Dienstwaffe. Definitiv sicher ist allerdings ist das sie nicht hier sind um mir zu helfen. Aber da wir ja der super geile Sohn der Lunge sind ist das dann auch eigentlich egal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 30.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #62
+
+* Titel: `Disco Elysium - #62 - unkomfortable Informationen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Informationen sind einfach nur Daten. Fakten sind eben dies. Manchmal gibt es auch noch Meinungen zu einem gewissen Umstand oder eine Information kommt aus dubioser Quelle und bildet die Realität nicht adäquat ab, aber in der Regel sind sie einfach nur existent und eine weitere Wertung kommt im nächsten Schritt. Manchmal allerdings erfährt man Dinge die einen sofort irgendwie verstören. Harry oder wie auch immer wir eigentlich heißen passiert das ziemlich oft, und das ist in sich selbst schon verstörend. Was für ein Art Mensch waren wir eigentlich das wir uns so sehr vergessen wollten das die Realität selbst darunter gelitten hat, zumindest die in unserem Kopf. Ich gehe fest davon aus das wir auch in Zukunft wieder Dinge entdecken werden die wir nicht entdecken wollen aber halt müssen. Ob wir bis dahin gut genug sind um es weg zu stecken?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 30.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -802,3 +952,16 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   ```markdown
   Hier
   ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+
+

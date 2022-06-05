@@ -1249,6 +1249,76 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #79
+
+* Titel: `Horizon Forbidden West - #79 - Turm der Tränen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Szenario, wir finden, mitten in der Wüste ein Gebäude das vor Wasser quasi überströmt. Es handelt sich grob um einen Turm. Wie nennen wir dieses Gebäude? Wasserturm? Turm des überfließenden Reichtums. Tatsächlich wohnen in diesem Abschnitt der Wüste keine Menschen und trotz aller Bemühungen war es anscheinend nicht möglich hier wieder mehr Natur zu etablieren. Andere Abschnitte sind zwar trocken tragen aber noch eine gewisse Menge an Leben, die Gegend um Las Vegas scheint aber wirklich nur Sand zu sein, feiner Sand unter dessen Tiefen die Spuren der alten begraben sind. Und irgendwelche Oseramstöberer haben es natürlich auch schon hier her gefunden. Sie haben diesen Ort wahrscheinlich auch benannt, und der Name ist: Der Turm der Tränen. Es hilft wahrscheinlich nicht das es sich bei den Leuten um Schausteller handelt die einen gewissen Hang zum Poetischen haben, oder vielleicht sogar Theatralik.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 24.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #80
+
+* Titel: `Horizon Forbidden West - #80 - Morlunds Traum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen haben Träume, Menschen haben Pläne und große Dinge die sie in der Zukunft machen wollen. Damit ein her geht natürlich auch die Angst das diese große Pläne nicht funktionieren, irgendetwas dazwischen kommt oder alles irgendwie eine wenig zu sehr ambitioniert ist. Andererseits kann man wohl nicht von "zu ambitioniert" sprechen und dann gleichzeitig sagen das man einen Traum hat. Wie dem aber auch sei, wir gehen jetzt runter und gucken uns Dinge an weil ein Kerl namens Morlund einen Traum hat. Leider sind die Unterwasserwelten voller Dinge wie zum Beispiel Wasser. Da kann man nicht so gut atmen, Aloy ist zwar gut im Luft anhalten aber nicht so gut. Wir brauchen also eine technische Lösung um unser Probleme Herr bzw. Dame zu werden. Zum Glück ist Aloy eine geübte Tüftlerin die mit Leichtigkeit in der Lage ist eigene Werkzeuge herzustellen die den höchsten Standards entsprechen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 24.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #81
+
+* Titel: `Horizon Forbidden West - #81 - Stanley Chens Traum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Leztztens, und damit meine ich in der letzten Episode haben wir über Träume gesprochen. Auch die Menschen der Vergangenheit hatten Träume und große Ambitionen, gewaltige Hoffnungen die durch das plötzliche Ende der Welt jäh unterbrochen wurden. Das ist auch so ein Faktor, das man alles richtig macht und dann kommt auf einmal die große Realität von Außen, verändert etwas das man nicht aufhalten kann weil es soviel mächtiger ist und dann platzt alles was man tun wollte. Stanley Chen war anscheinend ein Milliardär der einmal gescheitert ist und dann durch das Lachen von Fortuna eine zweite Change erhalten hat. Sein großer Traum war es Wasser in die Wüste zu bringen, wenn man sich einmal anschaut wo wir heute tauchen hatte er damit wohl auch Erfolg. Allerdings frage ich mich wo das ganze Wasser eigentlich herkommt. Ich habe neulich gelesen das es sehr sehr langsam regenerierende Tiefwasservorrätte gibt und das irgendwelche Firmen da aus Profitgier ran wollen. Aber gibt es die wirklich unterhalb von New Vegas? Wer weiß das schon, lassen wir einfach die Phantasie und erfreuen uns daran das wir tauchen können..und den Wassermonstern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 24.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #82
+
+* Titel: `Horizon Forbidden West - #82 - Reinigung des Wassers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Warum habe ich diese Episode so genannt wie ich sie genannt habe? So weit wir wissen kann man das Wasser durchaus trinken das sich innerhalb der alten Ruinen von Las Vegas befindet, warum also habe ich es Reinigung genannt? Tatsächlich ist es so das wir heute POSEIDON finden, den uralten griechischen Gott des Wassers bzw. der Meere. Oder auch die GAIA Unterfunktion die dafür zuständig war die Meere zu entgiften bzw. eine lebensfähige Atmosphäre zu schaffen. Die nehmen wir natürlich mit, immerhin sind die einzelnen Unterfunktionen ziemlich kooperativ und kommen freiwillig in die Flasche. Was wohl passiert wäre wenn uns danach das Gefäß heruntergefallen wäre oder sich die Partiell-KI einfach quer gestellt hätte? Könnten wir trotzdem mit der Alpha-Prime Zugriffsstufe das Ganze einfach überschreiben oder ständen wir einfach nur doof da. Wie wohl HEPHAESTUS auf unser freundliches Angebot reagieren wird?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 24.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1268,3 +1338,38 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   ```markdown
   Hier
   ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+
+
+
+

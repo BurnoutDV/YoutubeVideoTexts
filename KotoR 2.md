@@ -2084,6 +2084,118 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
+##### #131
+
+* Titel: `KotOR 2 - #131 - HK47's Abenteuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In späteren Spielen von Bioware wird es so sein das wir nach einer sehr ähnlichen Formel wie in Knights of the Old Republik vorgehen. Wir sammeln verschiedene Leute auf und die sind dann an Bord unseres Schiffes. Das wird aber wesentlich polierter sein und vor allen Dingen auch nahtloser funktionieren. Keine Begleiter die man bis kurz vor dem Ende einfach vergessen kann die dann halt nie wieder auftauchen. Stattdessen findet man die meisten Leute ziemlich früh aber kann diese dann für die gesamte Mission auch auf dem Schiff stehen lassen. In den folgenden Teilen geht es sogar soweit das wir kleine Missionen mit den Leuten haben die gar nicht direkt im Gefecht beteiligt sind. Aber ein wichtiges Feature fehlt, wir sind immer Shepard. Nie jemand Anderes. Das macht es natürlich auch leicht sich auf den Helden zu konzentrieren, lässt aber ein wenig die Nuance vermissen. KotOR 2 macht wirklich ein Statement damit das wir quasi jeden Charakter einmal spielen und irgendwie in einer Art Hauptrolle steuern. Da rächt sich natürlich wenn man seine anderen Pokemon nie trainiert hat und nur Turtok auf Level 80 gebracht hat. Das Level 3 Taubsi das man am Anfang mal weggesnackt hat ist da nicht mehr ganz so hilfreich. Lange Geschichte kurz, wir spielen jetzt ein komplettes Level mit HK47, den haben wir zum Glück ein wenig gelevelt und ausgerüstet, wir sind also nicht völlig wehrlos, und doch fühlt es sich nicht so gut an den Kampfdroiden zu spielen. Wir sind übrigens wieder zurück auf Telos.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 20, Aufnahme vom 09.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #132
+
+* Titel: `KotOR 2 - #132 - Erkundigungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Droiden der HK Baureihe können sich gegenseitig nicht willentlich beschädigen. Das ist schon ziemlich interessant, weil es impliziert das HK Droiden immer einen eigenen Willen haben. Es wird quasi ausgesagt das sie zwar einen programmierten Block haben, dieser ist aber Teil ihrer selbst und nicht irgendeine positronische Programmierung im Speicherkern der Einheit die das direkt macht. Die Tatsache das es heißt das Wissen vorliegen muss sagt uns doch das der Prozess ziemlich komplex ist. Generell scheinen Droiden ja über kurz oder lang ein Bewusstsein zu erlangen wenn man sie zu lange nutzt. (Das das auch bedeutet das eine Speicherlöschung einen Mord gleich kommt ignorieren wir auch zukünftig) HK-Einheiten scheinen aber irgendwie immer mit einer Persönlichkeit ausgestattet zu sein die dafür sorgt das sich selbst Einheiten der gleiche Baureihe individuell unterscheiden und sehr divergent agieren. Oder aber es werden immer die drei gleichen Modellpaare hergestellt bzw. drei HK-50 Modellreihen kommen immer als Gruppe, in Wirklichkeit begegnen wir also andauernd HK-50a, HK-50b und HK-50c. Quasi die drei Typen von der Tankstelle. Immerhin sind sie nicht besonders schlau und geben uns freiwillig wichtige Infos. Das ist doch nett nicht wahr?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 20, Aufnahme vom 09.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #133
+
+* Titel: `KotOR 2 - #133 - das droidische Selbst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mir selbst schon ein wenig vorweg genommen was ich zu dieser Beschreibung zu sagen gehabt hätte. Also noch einmal die Kurzfassung. Droiden im Star Wars Universum werden nach einer Zeit irgendwie komisch und man empfiehlt allgemein den Speicher oft und häufig zu löschen. Wenn die Filme irgendein Hinweis sind dann sind die Droiden von Machtnutzern immer besonders "Quirky". Ich vermute daher völlig ohne Beweise in den Raum das sich durch die Macht die alles umgibt das eigentlich logische Gehirn von Droiden Stück für Stück ein Bewusstsein entwickelt. Kurzum, den Speicher zu löschen ist Mord. Glücklicherweise ist es nicht so einfach das Gedächtnis eines HK-47 zu löschen, aber generell scheint die gesamte HK Reihe dazu geneigt zu sein sehr schnell eine Persönlichkeit zu entwickeln und außerordentlich vom Stil der normalen Protokolldroiden abzuweichen. Natürlich könnte das auch alles eine von Revan programmierte Persönlichkeit sein die nur simuliert. Und doch, HK-47 und seine Gebrüder HK-50 wirken außerordentlich menschlich, zwar wie eine sadistischer Mensch aber doch irgendwie menschlich, in allen damit verbundenen Bedingungen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 20, Aufnahme vom 09.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #134
+
+* Titel: `KotOR 2 - #134 - HK50 Fabrikation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen das Darth Revan in seiner Zeit als Sith die Produktion von HK-50 Droiden angestoßen hat. Oder auch irgendwie nicht. HK-47 erzählt all seine Erzählungen immer so als hätte es nur ihn gegeben. Einen einsamen Attentäter der besonders gut darin ist Dinge zu tun die kein normaler Droide kann, ein bisschen wie Aton. Aus dem ersten Spiel wissen wir auch das Revan ziemlich lange an HK-47 herumgeschraubt hat und das ihm diese Iteration der HK Reihe recht wichtig war. Ich wäre ja schon ein wenig neugierig wie die Iterationen HK-1 bis HK-46 aussahen. Andererseits können wir wohl davon ausgehen das die 47 nur gewählt wurde weil es in einem anderen Universum einen Agenten 47 gibt und hohe Nummern irgendwie cool klingen. Aber sicher ist, HK-47 war Handarbeit, keine Serienfertigung. Und dann irgendwie später hat Revan entschieden etwas zu tun was vorher niemand im Star Wars Universum entschieden hat: Autonome Roboter bauen um das Universum zu verbrennen. Die selbst replizierenden Roboter die alles Leben auslöschen sind nun wirklich keine neue Geschichte. Im WH40K Universum gab es zum Beispiel das "Men of Iron" die nur durch eine gemeinsame Anstrengung aller galaktischen Völker aufgehalten werden konnte. Genau wie im Warhammer Universum habe ich auch oft das Gefühl das Star Wars eigentlich post-apokalyptisch ist, oder es ist einfach nur High Fantasy im Weltraum und die Betonung liegt auf High wie Droge. Nun, HK-50 ist auf jeden Fall der neuste Versuch das Universum vollautomatisiert auszulöschen. Andere Leute sind eher der Meinung das man das mit der Macht und manuell machen muss. Sehen wir doch wer es zu erst schafft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 20, Aufnahme vom 09.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #135
+
+* Titel: `KotOR 2 - #135 - Angriff auf Telos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind fertig mit der Geschichte von HK-47 und damit sollte dann die drohende Apokalypse durch massen gefertigte Droiden auch irgendwie abgewendet sein. Was mit den Herscharen von HK-50s und vielleicht sogar HK-51s passiert die bereits im Universum unterwegs sind kann ich übrigens nicht sagen, aber das wird dann schon alles irgendwie werden. Zurück zur nächsten Katastrophe, wir sind wieder auf der Citadel Station und hier geht auch richtig der Punk ab. Die Station wird angegriffen und da es ein wenig an Treibstoff mangelt sind die Verteidigungsmöglichkeit der ohnehin schon zivilen Station außerordentlich beschränkt. Noch offen ist für mich die Frage inwiefern orbitale Stationen eigentlich überhaupt und jemals zivil sein können. Eine Raumstation steht schon ganz schön in Gefahr von Piraten oder anderen unliebsamen Entitäten angegriffen zu werden. Eine gewisse militärische Präsenz erscheint also ratsam. Oder aber, der Weltraum wird in der Regel nur von friedlichen Spezies erreicht die nicht durch eine Evolution der Gewalt gegangen sind weil diese selbstzerstörerisch ist und dazu führt das man am Fermi-Paradoxon hängen bleibt. (Jetzt nicht direkt daran sondern an einer der Erklärungen, dem "Great Filter"). So oder so scheint man nicht mit einem Angriff gerechnet zu haben und so kommt es das wir jetzt irgendwie eingreifen müssen. Etwas komisch das wir nicht einfach mit der Ebon Hawk, einem quasi getarnten Schmugglerschiff direkt zum eigentlich Feind fliegen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 20, Aufnahme vom 09.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #136
+
+* Titel: `KotOR 2 - #136 - das Totenschiff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Klassische nautische Schiffe die nur noch durch einen Pakt mit dem Teufel oder einer Meeresgottheit am Leben erhalten werden sind relativ üblich. Also eigentlich nicht, mein Wissen kommt eigentlich nur aus Fluch der Karibik, ein Film der bestimmt nicht durch seine historische Akkuratheit glänzt und definitiv nicht die Sagen, Mythen und Legenden der Ära der Piraten (die übrigens außerordentlich kurz war) abbbildet. Und dennoch, irgendwelche unbelebten Objekte durch die Macht, den Warp oder irgendwelche Magie über seine vorgesehen Betriebsdauer weiter zu nutzen ist ziemlich üblich und kommt gerne und oft vor. Der Warhammer Imperator hat persönlich einige Maschinen des Proto-Mechanicums zum Leben erweckt, und die Leute beten auch generell gerne und oft den Maschinengeist an, etwas das ich dem geneigten Leser auch nur empfehlen kann. Der hauseigene Computer läuft bestimmt wesentlich besser wenn man vorher ein paar schnelle Riten durchführt. Die Ravager ist anscheinend ein Schiff aus den mandalorianischen Kriegen und ist es echtes Raumschiff nicht mehr wirklich zu gebrauchen. Dem Anschein nach funktioniert das Raumschiff zwar und kann offenbar sogar überlichtschnell fliegen, aber wenn man eine Armee von Ingenieuren darauf werfen würde würden sie nicht herausfinden warum dem so ist. Das ironische im Star Wars Universum ist aber das dies auch bei jedem anderen Vehikel der Fall ist, niemand weiß wie Technik funktioniert oder hat irgendwelche technischen Grundlagen wie das alles hier Dinge tut. Angeblich fühlt es sich sehr unbehaglich an auf dem Schiff zu sein, ob das irgendetwas mit der dunklen Seite der Macht zu tun hat?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 20, Aufnahme vom 09.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #137
+
+* Titel: `KotOR 2 - #137 - Darth Nihilus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Galaxie selbst zu verschlingen ist auf jeden Fall ein sehr nobles Ziel wenn es um die Sith angeht. Die Mittel die dafür genutzt werden erscheinen auch adäquat wenn auch ein wenig langsam. Unser großer Wiedersacher, der auf dem Coverbild, heißt anscheinend Darth Nihilus, es gibt da ja noch zwei andere Darths aber von denen hören wir nicht ganz so viel. Im Gesamtwerk finde ich unseren großen Bösewicht aber ein wenig schwach. Ja, er war halt die ganze Zeit irgendwie im Hintergrund und hat uns halt auch Schergen entgegen gesendet aber so richtig erklärt wurde er halt auch nicht. Eine anonyme Eminenz die irgendwie im Hintergrund rumsitzt und Dinge tut. Dadurch das der Widersacher auch nicht wirklich vertont ist hatten wir nicht einmal richtigen Text der uns jetzt etwas über die Motive erzählt hätte. Ich nehme einmal an der das der gute Darth Nihilus halt mysteriös und unfassbar erscheinen soll. Aber so wie er daher kommt ist es halt auch nur ein Typ mit  einer Maske der komisch guckt und gelegentlich seine Untergebenen würgt. Das haben wir alles schon einmal gesehen und der Unheimlichkeitsfaktor wird nicht so wirklich gut transportiert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 20, Aufnahme vom 09.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
 ##### #Nummer
 
 * Titel: ``

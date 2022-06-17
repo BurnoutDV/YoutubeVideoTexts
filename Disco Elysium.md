@@ -943,14 +943,169 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
-##### #Nummer
+##### #63
 
-* Titel: ``
+* Titel: `Disco Elysium - #63 - Anatomie des Fluches [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Nur weil man Dinge nicht versteht heißt es ja nicht das es ein gewisses System da hinter gibt. Flüche sind in der Regel etwas das man nicht verstehen kann oder aber einfach nur aufgrund von fehlenden Wissen nicht richtig erkennen kann. Der Fluch des verdammten Gewerbeblocks ist soweit wir das mit unseren weltlichen Sinnen erkennen können erkundet. Sachlich gesehen handelt es sich wohl nur um eine Ansammlung von schlechten Geschäftsideen die halt zu dem immer gleichen Ergebnis geführt hat. Nur die Würfelmacherin, die Schicksalsgöttin hat überlebt. Der ursprünglichen Grund warum wir eigentlich überhaupt erkundet haben war ja das die Buchhändlerin Plaisance uns gebeten hat das wir uns die Details anschauen, ob sie eine rein weltliche Erklärung akzeptiert?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 30.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #64
+
+* Titel: `Disco Elysium - #64 - die andere Seite [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen definieren sich durch Anfänge und Enden. Es kommt gelegentlich vor das es für manche Situationen so aussieht als gäbe es keinen Anfang mehr und dann kommt ein weiteres Ende. Aber das ist wohl nur eine Frage der Perspektive, für manche ist der Beginn von Etwas auch nur die Zäsur die in einem übergeordnetes Ding eine art lokales Maxima ist aber letztendlich nur ein Punkt auf dem Zeitstrahl darstellt. Oder aber wir haben es mit einem physischen Ort zu tun, ganz klassisch haben wir es hier mit Bergkanten oder Flüssen zu tun. Man glaubt es in der heutigen Zeit nicht so recht aber Flüsse sind große natürlicher Grenzen, sie zu überqueren braucht in der Regel Hilfsmittel, natürlich sieht es so aus als könnte man einfach durchschwimmen, aber selbst wenn das möglich ist heißt es ja nicht das man dann auch noch viel mit nehmen kann. Oder aber die wichtigen Übergänge werden bewacht oder die Brücken der Zivilisation die einst waren sind nicht mehr. Und manchmal beginnt auch etwas Neues un die Brücken von einst sind wieder und wir können auf die andere Seite gehen, nicht nur schauen. Und hier finden wir dann vielleicht Spuren von einem anderen Ende, einem anderen Leben. Was ich damit sagen will, die Schleuse ist offen und wir gehen heute auf die andere Seite.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 30.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #65
+
+* Titel: `Disco Elysium - #65 - das eigene Selbst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sich selbst wirklich zu kennen ist etwas das man wohl als persönliches Ziel setzen könnte. Selbstfindung wird ja in vielen Kreisen auch groß großgeschrieben, aber es kann auch dafür sorgen das man sich selbst nicht mehr so spannend findet. Nicht mehr in der Lage ist überrascht zu sein. Es spart aber auch Zeit, wenn man sowieso schon weiß was man will und diese gesamte Phase des Zweifels einfach überspringen kann hat man definitiv mehr Zeit für andere Dinge. Und doch weiß man meistens eher nicht so richtig wer man nun ist, sei es aus Verklärung, nicht wahr-haben wollen oder einfach fehlenden Willen etwas zu ändern wenn man sich eingestehen würde was man wirklich für Andere ist. Selbstwahrnehmung ist auch immer ein wenig Außenwirkung. All das trifft aber nicht auf Harry zu, wir glauben nur das das unser Name ist, so richtig sicher wissen können wir es aber nicht. Außerdem werden wir teilweise durch die Taten der Vergangenheit beurteilt aber diese Person sind wir nicht mehr. Wir müssen also gar nicht herausfinden wer wir sind sondern wer wir sein wollen. Ob das jetzt einfacher ist weiß ich nicht, aber letztendlich besteht wohl eine gewisse Chance neu anzufangen. Und dann haben wir da noch die Ketten der Gesellschaft, Spuren von Dingen die uns festlegen wollen, uns definieren. Zum Beispiel ein Ausweis mit unserem Namen. Ein Anker an der Realität die wir nicht ändern können. Wollen wir das wirklich?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 30.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #66
+
+* Titel: `Disco Elysium - #66 - 6 Minuten Expedition [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt einen Youtube Kanal der sich da 2 Minute Paper nennt, Inhalt sind immer irgendwelche wissenschaftlichen Publikationen die irgendwie auch für den Laien halbwegs interessant klingen. Wir brauchen heute 3 Mal so lange um den örtlichen Strand und ziemliche viele Flaschen zu sammeln. Die gute Nachricht ist aber das wir für diese 6 Minuten 20 Minuten brauchen. Zeit ist schon ziemlich variable, manchmal vergehen in Jahrzehnten nur Tage und manchmal geschehen Jahrzehnte in Tagen oder Stunden. Letztendlich spielt es auch keine echte Rolle, wir nehmen die Zeit so war wie wir es tun und solange wir nicht mit der Außenwelt großartig interagieren müssen sollte das doch eigentlich passen. Das ist übrigens etwas das mich immer an interstellaren Reisen abschränkt, durch die Zeitdilatation ist man quasi nie wieder am selben Ort, den Platz den man am Anfang der Reise verließ gibt es einfach nicht mehr wenn man mehre hundert Jahre später zurück kehrt, selbst wenn im Kälteschlaf nur ein paar Tage vergangen sind. Alle die man mal kannte existieren nicht mehr und vielleicht sind sogar ihre letzten Spuren verwischt. Hier in Martinaise finden wir aber noch Spuren, noch ist es nur ein halbes Jahrhundert gewesen und wir können noch immer erkennen was das Land einst war und jetzt nicht mehr ist. Viele Erkenntnisse in 6 Minuten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 06.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #67
+
+* Titel: `Disco Elysium - #67 - die Leiche auf der Promenade [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir immer noch ziemlich sicher das ich keine Ahnung habe wie eine Leiche riecht. Aber will man das wirklich wissen? Man sagt das der Anblick eines toten Körpers durchaus etwas mit einem macht. Wahrscheinlich gibt es da aber noch einen Unterschied ob man als Medizinstudent irgendwo in einem gut gekühlten Keller die Leiche eines alten Mannes oder sogar die eines Unfallopfers vorfindet oder aber ob man auf einem zerfallenen Pier in dem Körper einer noch zuckenden Stadt steht und dort einen Säufer findet der irgendwie verstarb. Heute finden wir die Leiche eines Arbeiters, wahrscheinlich hat er absolut nichts mit unserem anderen Toten zu tun, und doch ist es eine weitere Person die hier verstarb. Das Alles ist recht interessant aber auch nicht überwiegend spannend, jemand ist tot, niemanden scheint es zu interessieren. Es ist allerdings nicht sicher ob nicht die Leiche mal gute Freunde oder sogar einen Partner hatte. Vielleicht war es auch gar kein großer Säufer und nur ein besonderer Tag den er mit einem Kebab gefeiert hatte. Werden wir es je erfahren? Wer weiß, wahrscheinlich nur wenn wir uns des Falles annehmen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 06.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #68
+
+* Titel: `Disco Elysium - #68 - Vom Datenbandcomputer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das technische Niveau der Welt von Disco Elysium ist mir immer noch ein absolutes Rätsel. Aber das ist okay. Herschare von Anthropologen haben sich damit beschäftigt wie die Zivilisation und die Technik entstanden ist. Europa hat zum Beispiel einen Standortvorteil weil es hier eine Menge kleiner und mittlerer Flüsse gibt die den Transport von Waren begünstigen. Habe ich irgendwo einmal gelesen. Und dazu kommen bestimmt noch tausende andere Parameter von denen ich alle Nichts Besonderes weiß. In der Disco Elysium Welt von der wir immer noch nicht den Namen kennen gab es dann halt andere Bedingungen. Was wir wissen ist das die Technik schon seit ziemlich langer Zeit auf dem gleichen Niveau stagniert, oder das eher Seitenerfindungen gefunden werden. Eventuell gibt es aber auch große Konflikte die in ihren zerstörerischen Potenzial die Zivilisation eher zurückgeworfen als vorgebracht haben. Heute erfahren wir von den Datenbandcomputern, etwas das sich sehr verdächtig nach modernster Technik anhört die es jedem Haushalt ermöglichen würde Rechentechnik zu besitzen. Offensichtlich gab es wohl nie einen Durchbruch, ein tragisches Ereignis, aber vielleicht auch eines das die Welt nachhaltig verändert ist. Außerdem erfahren wir noch von einem Unternehmen mit Namen Feld Electric. Spannend. Zumindest für mich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 06.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #69
+
+* Titel: `Disco Elysium - #69 - der Kryptozoologe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe absolut keine Recherche Arbeit auf mich genommen, aber ich vermute ganz dolle stark das der Lebensweg des Kryptozoologen durchaus etwas ist das verfolgt wird. Man kennt ja große Beispiele wie den Wendigo, Nessi oder Bigfoot hinter dem/der jede Menge Leute hinterher sind aber warum eigentlich nicht auch irgendwelche kleineren Viecher verfolgen? Spricht ja eigentlich wenig dagegen, und wenn sich das Vieh angeblich sowieso im urbanen Gelände oder an einem verlassenen Strandabschnitt der aber in Innenstadtnähe ist aufhält dann ist die Berufung doch eigentlich ein ganz guter Zeitvertreib. Jetzt stellt sich nur wie man das Ganze bezahlen lässt, irgendjemanden mit viel Geld muss man finden der das Hobby finanziert. Das ist dann wohl auch der heilige Gral, jemanden finden der die eigenen Quatsch Hobbies zu finanzieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 06.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #70
+
+* Titel: `Disco Elysium - #70 - Gary, der Kryptofaschist [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist er, der dritte Rassist der uns drei Wünsche erfüllt. Oder irgendwie so. Leider ist es nun so das Gary Faschist ist, und damit anscheinend auch Italiener. Definitionsgemäß, dem Anschein nach aber eher nicht. Alles ist ein wenig komisch und die Namensgebung muss sich ja nicht direkt an das halten was ich weiß, aber Harry weiß halt auch Nichts und die Welt ist so schon verwirrend genug. Auf jeden Fall hat der gute Gary auch ein wenig rassistische Züge die aber dann durch seinen Drang der Obrigkeit zu gefallen partiell überschrieben werden. Generell und überhaupt hat der gute Mann es nicht besonders einfach weil ich die Schauspielkunst gelevelt habe und damit erkenne ich Lügen 20 Meilen gegen den Wind. Keine guten Karten. Eigentlich wollte ich mich nur kurz mit der anderen Person von Morell unterhalten aber es stellt sich doch glatt heraus das wir hier aus Versehen eine Spur gefunden haben. Ich mag Spuren die ich finden kann, da geht die Geschichte weiter. Ob wir es heute noch von diesem Strand runterschaffen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 06.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #71
+
+* Titel: `Disco Elysium - #71 - Hut & Mantel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind ziemlich sicher ein Säufer. Ein bis jetzt sehr modisch gestalteter Säufer der auch über ein gewisses Maß an Style besitzt. Es kommt immer wieder vor das uns gewisse Dinge den Style verhunzen. Das ist dann sehr ärgerlich. Es gibt eine gewisse Chance das wir auch ein Cop sind und in der Lage sein könnten schwierige Fälle zu klären ohne dabei ins Schwitzen zu kommen. Diverse Körperteile wissen erstaunlich viel über die Welt und unsere Umgebung, mehr als man initial vermuten würde. Leider wissen wir absolut Nichts was mit uns zu tun hat. Ich mag diese Prämisse irgendwie. Neulich als ich KotoR 1 gespielt habe gab es einen ähnlichen Fall den ich gerne genutzt habe um bestimmte Ereignisse zu definieren. Ein großes Argument gegen vertonte Protagonisten ist auch immer das sich Spieler dann schwieriger mit ihr oder ihm identifizieren können. Wenn man mit seiner eigenen Stimme sprechen kann sieht die Sache halt einfach ein wenig anders als wenn irgendjemand anders dem Character Sätze sprechen lässt. Wir heißen eventuell Harry und sind ein Superbulle. Oder zumindest ein Kunstbulle, leider ist dadurch alles deprimierend. Immerhin analysieren wir heute ein uraltes Verbrechen, und eventuelle die Geschichte von verlorenen Potenzial.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 06.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #72
+
+* Titel: `Disco Elysium - #72 - Sticker der Moderne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Hier und Jetzt ist wohl immer das Modernste was man haben kann, und doch entwickeln sich bestimmte Dinge die eine Zivilisation ausmachen auf unterschiedlich schnelle Art und Weise. Das Faxgerät beispielsweise wurde schon ziemlich lange vor der Zeit erfunden zu der man es zuordnet (1843 patentiert). Bis dann Dinge aber wirklich Verbreitung oder Anwendung finden kann es wirklich lange dauern. Oder aber bestimmte Veränderungen greifen nie, ein Jugendtrend verstätigt sich und auf einmal gibt es eine Generation die eine bestimmte Art zu reden hat oder das Zeitgeschehen bestimmt. Mir fällt zum Beispiel auf das relativ viele Youtuber die ich so durch Zufall finde und sehe immer in meinem Alter sind. Das ist natürlich auch ein Filter, andererseits bin ich wohl gerade genau im richtigen Alter für diese transformativen Welteinflüsse. Andere Veränderungen sind wahrscheinlich komplett künstlich, insbesondere Modetrends erscheinen mir doch  ziemlich unorganisch, aber was weiß ich schon. Und dann gibt es da noch Dinge die sich irgendwie verselbstständigt haben, durch moderne Medien viral gehen und ein Eigenleben entwickeln. Zum Beispiel modern aussehende Sticker auf einem Fallbuch, damit setzen wir bestimmt einen Trend und ich bin mir recht sicher das auch kommende Generationen noch zu uns aufschauen werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 13.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #73
+
+* Titel: `Disco Elysium - #73 - das Fischerdorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe noch nicht so wirklich herausgefunden was die Menschen in Revachol eigentlich machen um über die Runden zu kommen, oder wo all die Infrastruktur steht von der soviel gesprochen wird. Zum Beispiel müssen ja Kinder irgendwo zur Schule gehen, das wird referenziert und daher muss diese auch irgendwo sein. Gibt es ein Bussystem mit dem die Leute in andere Stadtteile kommen? Wer betreibt das Frittte und bezahlt die überaus motivierte junge Frau die dort hinter dem Tresen steht? Wie auch immer es funktioniert, es gibt auch noch andere, nahe Orte als der kleine Ausleger Revachols den wir bisher gesehen haben. Zum Beispiel ein nahes Fischerdorf, bisher habe ich ja alles erkundet was nicht dieses Dorf ist aber unsere Wanderschaft und der Leichtathletiktag führen uns nun doch daran vorbei, also ist es wohl an der Zeit mehr darüber zu erfahren. Ärgerlicherweise haben wir aber auch absolut nichts gefunden was irgendwie mit dem Fall zusammenhängen könnte. Das ist insofern ärgerlich als das wir doch noch einen guten Grund brauchen warum wir hier waren. Zufällig haben wir die Rüstung gefunden, aber ich fürchte die müssen wir bei Gelegenheit wieder abgeben. Das ist nicht so schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 13.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
 ##### #Nummer
@@ -962,6 +1117,3 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   ```markdown
   Hier
   ```
-
-
-

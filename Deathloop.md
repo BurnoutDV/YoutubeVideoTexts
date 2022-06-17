@@ -42,7 +42,8 @@
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 1, Aufnahme am 10.03.2022
-
+  ```
+  
 ##### #3
 
 * Titel: `Deathloop - #3 - Colt's Apartment [Let's Play; ger; Blind]`
@@ -58,7 +59,7 @@
   Sitzung 1, Aufnahme am 10.03.2022
   ```
 
-##### #5
+##### #4
 
 * Titel: `Deathloop - #4 - Serlings Labor [Let's Play; ger; Blind]`
 
@@ -179,6 +180,7 @@
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 2, Aufnahme am 21.03.2022
+  ```
 
 ##### #12
 
@@ -268,6 +270,7 @@
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 3, Aufnahme am 30.03.2022
+  ```
 
 ##### #18
 
@@ -327,6 +330,7 @@
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 3, Aufnahme am 02.04.2022
+  ```
 
 ##### #22
 
@@ -371,6 +375,22 @@
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 4, Aufnahme am 04.04.2022
+  ```
+
+##### #28
+
+* Titel: `Deathloop - #28 - Karlsbucht, Nachmittag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich war noch nie in Karlsbucht, am Morgen findet sich hier Harriet. Das wissen wir bereits, und deswegen gehen wir natürlich am Nachmittag dahin. Ärgerlicherweise scheint die große Partie immer ziemlich schon in den frühen Stunden abzugehen und das führt halt dazu das am Nachmittag die meisten Orte ganz schön runter gerockt sind, man könnte auch von einem gewissen Nachmittagsblues sprechen, wir erlebten das ja schon in Updaam. Den direkten Vergleich habe ich jetzt allerdings auch nicht, ich war ja am Vormittag noch nicht da. Die Erkundung eines neuen Ortes kostet mich in der Regel eine Stunde, logischerweise sind die nächsten beiden Episoden auch in Karlsbucht. Schauen wir doch einmal was ich Schönes finde.
+  
+  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
+  Deathloop als Offline Projekt aber in 1440P@60fps
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
+  Sitzung 4, Aufnahme am 10.04.2022
+  ```
 
 ##### #25
 
@@ -385,6 +405,8 @@
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 4, Aufnahme am 04.04.2022
+  ```
+
 ##### #26
 
 * Titel: `Deathloop - #26 - kleine Vorbereitung [Let's Play; ger; Blind]`
@@ -398,6 +420,7 @@
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 4, Aufnahme am 04.04.2022
+  ```
 
 ##### #27
 
@@ -407,21 +430,6 @@
 
   ```markdown
   Es gibt eine Waffenkammer im Komplex, außerdem gute Chancen von Saboteuren die hier ihr Unwesen treiben und die Reste der Anlage unzugänglich machen wollen. Nachmittags gibt es die Anlage nicht mehr, am Vormittag waren wir noch nie da. Nur Eines ist klar, eine legendäre Waffe wartet in den Tresoren der Tiefe auf uns. Die Strelak Verso, wir besaßen das Gerät bereits für eine kurze Zeit und dann ist der Loop passiert. Das hätte man erwarten können habe ich aber nicht. Daher gehen wir also heute noch einmal rein, aus Gier und aber auch Forschungsdrang. Offensichtlich hat die Anlage auch noch andere Geheimnisse die wir beim letzten Mal nicht entziffern konnten. Ob wir dieses Mal mehr Glück haben? Immerhin haben wir in Sachen Bewaffnung ein goldenes Händchen, nicht zuletzt wegen der edlen Spender die uns immer wieder neues Spielzeug zukommen lassen. Ob  uns das Arsenal noch einen Nutzen bringen wird?
-  
-  Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
-  Deathloop als Offline Projekt aber in 1440P@60fps
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
-  Sitzung 4, Aufnahme am 10.04.2022
-  ```
-
-##### #28
-
-* Titel: `Deathloop - #28 - Karlsbucht, Nachmittag [Let's Play; ger; Blind]`
-
-* Beschreibung:
-
-  ```markdown
-  Ich war noch nie in Karlsbucht, am Morgen findet sich hier Harriet. Das wissen wir bereits, und deswegen gehen wir natürlich am Nachmittag dahin. Ärgerlicherweise scheint die große Partie immer ziemlich schon in den frühen Stunden abzugehen und das führt halt dazu das am Nachmittag die meisten Orte ganz schön runter gerockt sind, man könnte auch von einem gewissen Nachmittagsblues sprechen, wir erlebten das ja schon in Updaam. Den direkten Vergleich habe ich jetzt allerdings auch nicht, ich war ja am Vormittag noch nicht da. Die Erkundung eines neuen Ortes kostet mich in der Regel eine Stunde, logischerweise sind die nächsten beiden Episoden auch in Karlsbucht. Schauen wir doch einmal was ich Schönes finde.
   
   Jeden Wochentag auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr. 
   Deathloop als Offline Projekt aber in 1440P@60fps
@@ -459,6 +467,7 @@
   Deathloop als Offline Projekt aber in 1440P@60fps
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNL2dPonoGTcy-33d83z108
   Sitzung 4, Aufnahme am 10.04.2022
+  ```
 
 ##### #31
 

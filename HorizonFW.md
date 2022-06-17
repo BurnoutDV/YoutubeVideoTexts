@@ -1309,14 +1309,230 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #83
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #83 - mobiles Deckungssystem [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Heute beenden wir eine Legende. Lange habe ich davon gehört aber leider lagen die einzelnen Spuren weit unter den Wogen der lokalen Seen und Flüsse. Luft anhalten ist nur bedingt eine Option und ich hatte es ja versucht, leider war mir kein Erfolg beschieden. Aber jetzt ist die Zeit gekommen, wir haben ein super praktisches Tauchgerät und das werden wir jetzt einsetzen. Ich erhoffe mir ja viel. Wir wissen das die Tenakth Rebellen so etwas wie ein tragbares Schutzschild für ihre Truppen haben, zumindest die Anführer, aber das ist ja "aktuelle" Technologie die irgendwie aus Maschinen, wahrscheinlich Panzerwanderer, gestohlen wurde. Das mobile Deckungssystem ist Prototypentechnologie aus den letzten Stunden der Menschheit, etwas das theoretisch weiter vorne liegt als alles was Zero Dawn zur Verfügung hat, da GAIA scheinbar die Technologie nicht weiter getrieben hat. Übrigens auch interessant, hätte GAIA neue Dinge erfinden können? Forschung treiben? Oder war das etwas das strikt nicht erlaubt war weil es Menschen unnötig machen würde, und was genau macht dann HEPHAESTUS, erfindet er neu oder sind es einfach nur andere Design-Formen die nicht direkt als Erfindung gelten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 24.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #84
+
+* Titel: `Horizon Forbidden West - #84 - versunkener Glanz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Freunde der Sonne! Es ist Zeit tief in die Tiefen des Wasser hinabzusteigen. Fakt ist das wir jetzt unendlich lange tauchen können und alles was vorher Sachlage mit diesen komischen Luftbalken war gehört jetzt zur Vergangenheit hat. Neue Ausrüstung freizuschalten ist quasi in so gut wie allen Spielen mit einer guten Menge Backtracking verbunden. Manchmal ist es auch so das der Aufbau linear ist und die neuen Rätsel die man jetzt findet das neue Spielzeug brauchen. Das limitiert natürlich auch ein wenig den Bereich in dem man sich neue Sachen ausdenken kann. Wie dem aber auch sei, wir brauchen Glanz und es stellt sich doch glatt heraus das in diesen tiefen Höhlen die wir vorher nicht betreten konnten eine ganze Menge Glanz herum liegt. Gehen wir also auf Tauchfahrt. Irgendwie ist es übrigens auch schade das die Tauchtouren ziemlich langweilig sind, besonders viel zu sehen gibt es nicht. Und bis jetzt droht auch kaum eine Gefahr, das wäre dann zwar wieder nervig, aber so wird es schnell ein wenig repetitiv.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 31.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #85
+
+* Titel: `Horizon Forbidden West - #85 - Kaputte Schlösser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein nicht unerhebliches Maß an Parallelentwicklung ist in der Welt von Horizon geschehen. Insbesondere kleine Dinger wie Schlösser oder sogar Vorhängeschlösser werden wohl die Apokalypse nicht überlebt haben. Oder vielleicht diese aber definitiv nicht die 1000 Jahre Wetter die danach geschahen. Und doch ist es so eine Erfindung die wohl immer und immer wieder aufkommt. Und damit auch alle Schwächen. Ein Schloss kauft Zeit, es sorgt dafür das jemand nicht schnell an einen Inhalt oder durch eine Tür kommt. Niemand erwartet das ein Schloss für alle Ewigkeit hält. Es könnte aber auch so sein das die physische Zerstörung des Schlosse gleichzeitig den Verlust des Gegenstandes zur Folge hätte, dann wäre das Schloss effektiv..oder auch nicht wenn die knackende Partei nicht für den Inhalt interessiert. Oder ignorant ist. All dies spielt heute keine Rolle, ich habe nur sinnlos ein paar Gedanken über Schlösser geschrieben. Heute wichtig ist das wir eine ziemlich schwere Kiste von A nach B bringen. Ich nehme einmal stark an das Aloy im Kanon immer reitet und so gut wie nie läuft. Anders ist ihr großes Inventar auch kaum zu erklären. Sie wird ja auch regelmäßig als Maschinenreiterin betitelt, ergibt also alles ein wenig Sinn.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 31.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #86
+
+* Titel: `Horizon Forbidden West - #86 - Fest der Lichter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird langsam zum Dauerbrenner. Die Anwesenheit moderner Technologie die über viele Jahrhundert überlebt hat beeinflusst die Entwicklung der Menschheit massiv. Die Intention des Zero Dawn Projekts war es natürlich nicht die Menschen bei 0 anfangen zu lassen, wenn man bedenkt wie wenig Zeit vergangen ist sind sie eigentlich ziemlich weit und man kann sich eigentlich fast schon glücklich schätzen das das ursprüngliche Geburtsprogramm weitreichend genug war um eine solide Basis für die junge erste Generation zu gründen war. Darin war anscheinend auch eine einheitliche Sprache und generell Umgangsformen, das löst zwar keine technischen Probleme aber stellt immerhin ein Fundament da. Bei dem Fest der Licht handelt es sich übrigens um eine Lichtshow von vor 1000 Jahren, und dadurch wird Vegas ein Ort der er schon vor 1000 Jahren war, beinahe ironisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 31.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #87
+
+* Titel: `Horizon Forbidden West - #87 - Alles oder Nichts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wahnsinnige Pläne sind genau das was die Oseram aus macht, und weil das so ein beliebtes Feature in den Menschen ist finden wir hier in der Wüste die eigentlich irgendwie das Tenakth Gebiet ist tonnenweise von ihnen. Ich erinnere daran das es am Anfang ein großes Ding war das es quasi unmöglich ist in das Gebiet zu kommen. Der einzige Zugang geht nur in über einen bestimmten Ort und der wird natürlich hart bewacht. Wie also kommen diese ganzen Horden von viel zu experimentierfreudige Forscher, Entwicklern und Entrepreneuren aus dem Anrecht hierher? Was auch immer der Ursprung sein möge, eines ist sicher, das haben sich auch gewissen Schwestern nicht entgehen lassen, der wilde Westen bietet dafür anscheinend einfach viel zu viel Potenzial.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 31.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #88
+
+* Titel: `Horizon Forbidden West - #88 - Hochfliegende Ambitionen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie tief im Gedächtnis gibt es bei mir eine Abteilung die für Geschichte zuständig ist. Ich kann nicht behaupten das ich weiß wann genau welche Iteration einer Dampfmaschine entwickelt wurde (nur das die alten Griechen das Ding schon erfunden hatten aber nicht  das Potenzial sahen, oder nicht in der Lage waren die Energie richtig zu nutzen). Und doch hat man ja eine gewisse Vorstellung wann was genau erfunden wurde. Oder welche Entwicklung eine andere bedingt. Während ich diese Zeilen schreibe spiele ich auch noch parallel Disco Elysium und die dortige Welt ist aus technischer Sicht irgendwie faszinierend. Vor vielen Jahren gab es auch einmal ein Spiele mit Dinosauriern names Paraworld und die Lore war dann das die Elektrizität nicht so wie in unserer Welt funktionierte, was auch immer das heißen mag. Und auch in der Welt von Horizon sind die Dinge eventuell nicht so ganz wie wir es kennen. Die Existenz der hochtechnologischen Maschinenwunderwerke in Tierform gibt eigentlich sehr primitiven Menschen zum Einen Druck Dinge zu entwickeln und zum Anderen auch Vorlagen, Ideen und Designvorlagen. Neulich hatten wir jemanden der eine gewisse Idee zur Entwicklung von Funkgeräten entwickelt hat, ohne irgendwelches Verständnis für elektromagnetische Wellen. Heute erleben wir wie mutige Oseramforscher die Luftfahrt angehen, ohne sich je Gedanken über Aerodynamik, Auftrieb oder generell der Dichte von Gasen gemacht zu haben. Schlimmer noch, nicht einmal die archimedischen Grundlagen der Verdrängung sind als formulierte Theorie bekannt. Immerhin gibt es das Schriftwesen schon.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 31.05.2022
+  ```
+
+##### #89
+
+* Titel: `Horizon Forbidden West - #89 - die Stillsande [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwo da draußen muss ein einsamer Oseram oder vielleicht auch sogar Carja Gelehrter durch die Welt ziehen der sich für den schlausten Mann der Welt hält. Vielleicht ist es auch eine Frau, gleich wahrscheinlich, oder aber auch ein Team, eine kleine Gruppe kampferprobter Gelehrter die alle Orte die Aloy bereist irgendwie benennent. Diese Person oder Gelehrte verfügen außerdem noch über ein Informationsnetzwerk das dafür sorgt das die von ihnen oder ihr gewählte Bezeichnung subtil an die lokale aber auch entfernte Bevölkerung verteilt wird. Anders kann ich mir nicht erklären wie wir zu Orten wie den Stillsanden kommen. Es handelt sich übrigens um eine Art Einkaufszentrum oder so. Wichtig ist aber das es hier eine der Hologramm-Kugeln gibt die in Vegas soviel Effekt haben können wenn es es dann wollen. An sie heran zu kommen ist allerdings nicht  ganz einfach, da müssen wir uns schon ein wenig anstrengend. Aber auch schön zu sehen ist das die Wasser produzierenden Gewerke von Cheng auch hier noch funktionieren und es mitten in der Wüste sprudeln lassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 31.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #90
+
+* Titel: `Horizon Forbidden West - #90 - Rundas Beuteverträge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute jagen wir wieder ein wenig Beute hinterher. Dieses Mal sitzt die Zentrale der örtlichen Beutejäger irgendwo mitten in der Wüste. Ein Ort den ich ziemlich suboptimal finde, wenn man sich schon niederlassen will dann sollte man sich doch wohl eher ein wenig Deckung suchen. Vielleicht ein paar Felsen oder sogar die noch immer stehenden Ruinen der Alten würden sich hier eventuell gut anbieten. Wie dem aber auch sei, jetzt ist ja Aloy hier um den armen Beutejägern zu helfen und das wird uns natürlich auch gelingen. Die Sachlage ist jetzt also die das wir ein paar Vorräte und Gegenstände finden sollen und schon wäre alles geschafft. Stellt sich nur noch die Frage wie man genau in der sengenden Hitze der Wüste irgendeine Art der Rüstung herstellen möchte. Ich bin auf jeden Fall auf das Ergebnis des großen Wettbewerbs gespannt. Wenn es dann irgendwann einmal so weit ist, wer weiß wie viele von diesen Beutezügen wir noch wieder auf den Gleisen helfen müssen. Dieses Video hat ein paar kleine Cuts drin, im Großen und Ganzen war es aber gar nicht soviel Laufarbeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 07.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #91
+
+* Titel: `Horizon Forbidden West - #91 - Nahkampfplatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das hier ist die Rage Episode. Wenn es zuviel ist gehe einfach nach Minute 26, ab wird es ein wenig ruhiger.
+  
+  Die Lage ist die das mir wieder eingefallen ist das wir ja noch in den verschiedenen Arenen der Tenakth unser Können beweisen können, dafür müssen wir eigentlich nur in zwei Arenen bestehen und schon ist alles geschafft. Problemamtisch ist auch das die Quest angeblich für Level 25 geeignet ist wir aber mittlerweile, dank langen Levelexzessen, schon an die 40 kratzen und es jetzt so langsam Zeit wird. Also begeben wir uns zum Bollwerk, dem Hauptquartier des Himmelsclans, dort hoffen wir neue Kenntnisse zu erlangen und dann den örtlichen Arenachampion niederzuringen um damit Orden zu erringen mit denen wir dann die Top 4 besiegen können...falsches Spiel, aber das Prinzip ist ja quasi auch das Gleiche. Zur Sache, es stellt sich heraus das der Lui der im Bollwerk der Champion ist ein cheatender Penner ist der uns mit seiner Blitzaxt komplett aus dem Leben nimmt sodass hier jetzt 25 Minuten lang durch gestorben wird während ich zunehmend dabei fluche. Ich habe ehrlich gesagt keine Ahnung was ich eigentlich tun soll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 08.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #92
+
+* Titel: `Horizon Forbidden West - #92 - Teufelsgriff [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich habe ich die diversen Rebellenlager die wir so auf der Welt finden bisher ziemlich erfolgreich ignoriert, aber es scheint als gebe es an solchen Orten doch noch mehr zu finden als ich ursprünglich vermutet habe. Zur Sachlage, wir betreten heute mehr oder weniger unabsichtlich den Teufelsgriff, wir erinnern uns das die Horus als Metallteufel bezeichnet werden und die riesigen Tentakel die sie zur Fortbewegung genutzt haben "zieren" heute noch die Landschaft. Es ist eigentlich fast schon ein Wunder das nach 1000 Jahren das Metall ein wenig angegriffen ist. Ich hätte vermutet das die Viecher entweder nach ein paar Jahrzehnten verrostet sind oder halt nie. Auch auffällig ist aber auch das einige der kleineren Maschinen noch voll funktionsfähig sind, und selbst einige der großen Kopesh Teile konnte man partiell wieder zum "Leben" erwecken. Zurück zum Teufelsgriff, hier befindet sich anscheinend eine der Anlagen zum Betreiben der Rebellenroboter, und die Art und Weise wie sie es machen ist durchaus interessant. Warum funktioniert das was Aloy tut soviel einfacher? Ist es wegen des Fokus, oder geht es hier um die Dauerhaftigkeit?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 08.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #93
+
+* Titel: `Horizon Forbidden West - #93 - küstennahe Berge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir können uns wirklich nicht beschweren das wir nicht viel von der Welt sehen. Aloy kommt wirklich viel rum. Wenn wir jemals Horizon verfilmen (ich glaube nicht das das eine gute Idee ist), dann braucht es aber dennoch eine gute Erklärung wie Aloy in relativ geringer Zeit die doch recht extremen Entfernungen überbrückt. Immerhin könnte man sich aber durchaus vorstellen das sie des Öfteren irgendwo rastet und die Abendstunden halt nutzt um neue Pfeile herzustellen, allerdings sind manche Munitionsarten ohne besondere Werkbank oder Werkzeuge eher wenig denkbar. Die Spielwelt ist natürlicherweise ein wenig komprimiert, ein sehr übliches Design. Heute endet das damit das wir gerade noch durch eine malerische Berglandschaft springen und im nächsten Moment finden wir uns quasi am Meer wieder. Da wollen wir auch hin, schließlich soll Demeter irgendwo da wohnen, aber bis es soweit ist müssen wir noch die ein oder andere Nebenmission erfüllen, wie zum Beispiel dies doch recht lecker aussehende Brutstätte am Horizont.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 08.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #94
+
+* Titel: `Horizon Forbidden West - #94 - Brutstätte Kappa [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf meiner Agenda stand eigentlich gar nicht dier Erkundung einer Brutstätte. Die brauchen immer so unangenehm lange und daher sträube ich mich da immer ein wenig aber wenn mich schon GAIA darauf hinweißt ist es vielleicht irgendwie wichtig. Die Brutstätte die wir heute betreten hat viel mit Tauchen zu tun und wir können uns wohl ganz glücklich schätzen das wir das hier nicht mit Luftanhalten machen müssen. (Hätten wir aber auch nicht gekonnt, zum Glück, man stelle sich den unglücklichen Spieler vor der hier irgendwie zufällig rein fällt und dann leidet zum Rauskommen) Innerhalb der Brutstätte haben wir mehr vom Gleichen aber auch neue Dinge. Ich bin von Kappa tatsächlich überhaupt nicht begeistert, Schwimmen in 3rd Person macht mir relativ wenig Spaß und die harten Kanten und teilweise sogar recht schmalen Gänge machen das Gesamterlebnis nicht unbedingt zu einem angenehmen Exkurs. Natürlich schaffe ich es am Ende, nicht ohne mich aber vorher ein wenig aufzuregen und sinnlos im Kreis zu laufen. Bruttstätten haben immer ein wenig Überlänge, das ärgert mich, ich schaffe es nie in den 30 Minuten die ich mir vorgenommen habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 08.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #95
+
+* Titel: `Horizon Forbidden West - #95 - Alva von den Quen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben schon lange keinen neuen Stämme oder Völker mehr kennen gelernt. Genau genommen waren die Utaro und die Tenakth die einzigen neuen Volksstämme, nicht einmal andeuten gab es das eventuell noch woanders welche herumlaufen könnten so wie bei den Banuk im ersten Teil. Das ändert sich dann aber heute, und wir werden natürlich auf die freundlichste Art und Weise begrüßt die man sich vorstellen kann. Ich bin mir übrigens ziemlich unsicher wie üblich das bei unkontaktierten Stämmen so im Standardfall ist, aber ich kann mir kaum vorstellen das Schießen ohne Nachfragen der normale Modus Operandi ist. Es gibt auch heute noch Inselstämme die nicht mit der Außenwelt reden, aber das erst nach dem sie einige nicht so erfreuliche Kontakte haben. Diese reagieren dann durchaus ein wenig aggressiv. Dennoch versuchen alle paar Jahre insbesondere Missionare mit diesen Stämmen zu reden, das endet in der Regel nicht so gut. Aloy hat da ein wenig mehr Glück, auch weil sie zurückschießen kann, und ungefähr drei Mal Glück hat als sie über ihre Deckung schaut. Wenn wir wieder einmal die imaginäre Verfilmung in Anspruch nehmen wollen braucht es definitiv die Schildweberrüstung gleich von Anfang an damit unsere Heldin nicht beim erst besten Pfeil außer Gefecht gesetzt wird. Aber immerhin sind nicht alle Neulinge sofort drauf und dran ihre Bögen zu benutzen, anscheinend gibt es da auch noch eine andere Kaste...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 08.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #96
+
+* Titel: `Horizon Forbidden West - #96 - Biomasse Umwandlung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ermittlerin Aloy und ihre reizende Assistentin Alva gegeben sich weiter in die Tiefen der ehemaligen Forschungseinrichtung Treibhaus. Hier hat Faro Automated Solutions anscheinend eine drohende Nahrungskrise abgewendet, wenn auch mit Mitteln die ich persönlich nicht gut heißen kann, und doch, hier wurde Gutes getan. In irgendeiner Kapazität, aber auch wurde die Technik der Biomasseumwandlung hier erfunden. Der Prozess wird nicht besonderes gut erklärt aber es handelt sich anscheinend um einen Schwarm von Nanorobotern die einfach alles das energetisch verwertbar ist "auffressen" und dann irgendwie auch in reine Energie umwandeln. Ich kann mir ehrlich gesagt nicht vorstellen das bei den meisten Dingen all zu viel Energie rum kommt. Zum Betreiben eines Horus benötigt man bestimmt einige größere Wälder, Tiere und Zivilisationen. Und dann ist da noch die Herstellung von quasi allem aus Licht. Das ist bestimmt auch nicht teuer. Der Faro-Schwarm wäre undenkbar gewesen hätte es nicht die Biomasseumwandlung gegeben. Aber viel interessanter als das ist das Alva anscheinend nichts darüber wissen möchte, verbotenes Wissen nennt sie diese Information. Woher kommt dieser Glaube? Ich bin mir sicher wir werden bald mehr darüber erfahren, die Quen werden nicht für ein kurzes Cameo hier sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 08.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #97
+
+* Titel: `Horizon Forbidden West - #98 - versunkene Irrwege [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich brauche mehr Thumbnails bzw. Thumbnail Templates für den Fall das ich wieder Unterwasserepisoden erlebe. Ich habe  technisch gesehen genau eines das ich bereits jetzt schon einmal öfter herausgeholt habe. Aber das stammt eigentlich aus einer Main-Story Mission in Vegas. Nun, wir verbringen heute relativ viel Zeit das vierte Labor des Treibhauses zu betreten, dafür laufen wir ziemlich intensiv im Kreis und suchen nach versteckten Eingängen und möglichen Exploits. Ich möchte es einmal so ausdrücken, wir haben am Ende Erfolg aber ich bin durchaus mit dem Endergebnis unzufrieden. Selbst wenn mein erster Versuch sofort erfolgreich gewesen wäre hätte ich mich wohl schlecht gefühlt. Ich verstehe das übrigens auch gar nicht, erst wird das vierte Labor sogar noch erwähnt und darüber  gesprochen, und dann stellt sich heraus das es weder eine Erklärung noch Lore dafür gibt warum der Ort so aussieht wie er aussieht. Viel spricht dafür das der Faro Schwarm die Anlage überfallen hat aber halt einfach kein Widerstand spürte und daher einfach drüber laufen konnte ohne eine Leiche zu hinterlassen, das würde zumindest den vergleichsweise desolaten Zustand erklären. Oder aber, Anlagen am Meer sind einfach ein wenig mehr gefährdet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 14.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #Nummer
@@ -1328,48 +1544,3 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   ```markdown
   Hier
   ```
-
-##### #Nummer
-
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
-
-##### #Nummer
-
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
-
-##### #Nummer
-
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
-
-##### #Nummer
-
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
-
-
-
-
-

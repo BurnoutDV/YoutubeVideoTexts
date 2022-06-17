@@ -366,7 +366,7 @@
   > Quest(s) in dieser Episode:
   > - ein ungeladener Fremder
   > - der Bruch
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1244
 
@@ -388,7 +388,7 @@
   > - Und den Schlüssel verlegen
   > - die Zurückgelassenen
   > - der Schlüsselstein
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1246
 
@@ -402,7 +402,7 @@
   > - der Schlüsselstein
   > - eine letzte Entlassung
   > - das Schicksal der Baumhirtin
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1247
 
@@ -416,7 +416,7 @@
   > Quest(s) in dieser Episode:
   > - das Schicksal der Baumhirtin
   > - kaltblütige Rache
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1248
 
@@ -429,7 +429,7 @@
   > Quest(s) in dieser Episode:
   > - eine Frevel an Mara
   > - Gefangene der Sphinx
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1249
 
@@ -444,7 +444,7 @@
   > - eine Frevel an Mara
   > - Gefangene der Sphinx
   > - für alles das richtige Gewürz
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1250
 
@@ -456,7 +456,7 @@
   > Wir wechseln mal wieder die Region, befinden uns aber immer noch im Gebiet des Altmerie Dominions. Irgendwie ist es hier auch schöner. Ich weiß nicht so recht warum die Elfen überhaupt irgendwelche Invasionen starten. Es scheint mir das vorhandene Land bietet alles was man so braucht und der Gesamtplatz reicht für den Moment wohl auch aus. Da stellt sich dann wirklich die Frage welchen Sinn eine offensive Armee hat. Auf der anderen Seite, so denken Leute mit Machtambitionen nicht. Wie dem aber auch sei, wir treffen heute einen eher harmlosen Kapitän der auf seiner letzten Fahrt unterwegs ist. Außerdem besuchen wir noch ganz kurz Anvil. Einfach so.
   > Quest(s) in dieser Episode:
   > - Unter den Blinden König
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1251
 
@@ -478,7 +478,7 @@
   > Quest(s) in dieser Episode:
   > - die Brüder werden auferstehen
   > - verdächtige Stille
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1253
 
@@ -506,7 +506,7 @@
   > Ich wähle die Nebenmissionen die ich in diesem Format spiele übrigens ziemlich zufällig aus. Größtenteils richte ich mich nach dem Namen der Quest auf der Karte. Das kann durchaus irreführend sein. Heute zum Beispiel. Wir betreten einen Ort der nicht besonders groß ist, anliegend ist sogar ein Verließ. Die eigentliche Queste stellt sich dann als ziemlich kurz und flach heraus. Ich bin enttäuscht. Lobend muss ich aber erwähnen das die Nebenmissionen irgendwann dann einmal besser geworden sind. In den einzelnen DLCs. Weniger Wegwerfzeug das man innerhalb weniger Minuten wieder vergessen hat.
   > Quest(s) in dieser Episode:
   > - verzweifelte Seelen
-  > 
+  >
   > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1256
@@ -520,7 +520,7 @@
   > Quest(s) in dieser Episode:
   > - die Bestie von Steinfälle
   > - die Nacht der Seele
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1257
 
@@ -533,7 +533,7 @@
   > Quest(s) in dieser Episode:
   > - handgemachte Wächter
   > - die weiße Maske von Merien
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1258
 
@@ -546,7 +546,7 @@
   > Quest(s) in dieser Episode:
   > - die weiße Maske von Merien
   > - die versiegte Quelle
-  > Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
+  >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
 
 ##### #1259
 
@@ -3028,8 +3028,9 @@
   0:00 - 0:22: Einführung
   0:23 - 1:46: Leovics große Geisterverlautbaurung
   1:47 - 23:01: Gameplay
-  
-  
+  ```
+
+
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
@@ -3042,9 +3043,9 @@
 
   ```markdown
   Folge 7 des Blackwood DLCs - Sitzung 2
-  
+
   Mit der Zeit erkenne ich immer wieder Muster an mir selbst. Teil meines Versuches besser in Dingen zu werden besteht darin eben jene Muster zu durchbrechen und alternative Wege zu finden etwas anzugehen. Ein Muster das ich bisher noch nicht brechen konnte ist das es mir in Lets Plays ziemlich oft passiert das ich mich beim erkunden ein wenig hinreißen lasse und dann aber eigentlich gar nichts erlebe. Heute zum Beispiel, wir laufen ein wenig umher, geben sogar die eine Quest ab von der Leiche die wir in den Totenländern gefunden haben aber so richtig was daraus ergeben hat sich für uns nicht. Dann sehen wir noch den Unterschlupf der Diebesgilde in der Stadt aber außer das ich mein Inventar leer kriege ergibt sich daraus auch nicht unbedingt ein Vorteil. es ist eigentlich schade das solche Orte nicht mehr Geschichte bergen. Nicht einmal ein Buch habe ich gelesen. Und das lieben ja nun alle.
-  
+
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
@@ -3584,8 +3585,9 @@
   0:00 - Besichtigung Pantherzahnkapelle
   9:35 - Dunkelforst
   12:35 - Welke
-  
-  
+  ```
+
+
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
@@ -3598,9 +3600,9 @@
 
   ```markdown
   Folge 42 des Blackwood DLCs - Sitzung 7
-  
+
   Es hat nicht lange gedauert, grade einmal 10 Stunden und schon sind wir wieder unser großen Hauptmission auf der Spur. Man muss aber auch wissen das es gefühlt keinen Unterschied macht ob wir die Nebenmissionen erst jetzt erledigen oder dann geballt später. Obwohl das wohl auch eine Frage ist von dem was man so erwartet. Nebenmissionen können die große Hauptmission mit weiteren Kontext füllen oder komplett fernab von dem stehen was eigentlich passiert. So wie es aussieht scheint es in Blackwood eher eine Trennung zwischen Nebenmissionen Inhalt und Hauptmission zu geben. Ich hätte also sehr gut erst alle Orte der Hauptmission bereiten können und dann alles ignorieren können. Habe ich aber nicht, weil das jetzt scheinbar die Art zu spielen ist die ich verfolge. Manchmal bereue ich diesen Stil ein wenig. Aber ich hätte halt unmöglich vorher wissen können wie sich die Dinge entwickeln.
-  
+
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
@@ -5616,8 +5618,9 @@
   0:00 - Gameplay
   19:24 - BUCH: Brugurihks Tagebuch
   21:54 - Gameplay
-  
-  
+  ```
+
+
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
@@ -5630,9 +5633,9 @@
 
   ```markdown
   Folge 22 des Totenländer DLC - Sitzung 4
-  
+
   Als ich das letzte Mal orientierunglos in den Totenländern umher geritten bin hatte ich aus Versehen eine Quest angenommen die ich sofort wieder von mir gewiesen habe damit ich sie zu einem anderen Zeitpunkt annehmen kann. Dieser Moment ist heute, es gibt nur ein Problem. Ich habe vollständig vergessen wo ich diese Notiz eigentlich gefunden haben und habe nicht einmal eine grobe Nachricht. Ironischerweise ist eine Ebene des Vergessens doch relativ überschaubar, oder zumindest die Region der Totenländer in der uns befinden, daher lauf eich heute ein wenig umher, wundere mich über die Welt und finde dann doch am Ende Khazasha, eine Ork die scheinbar aus Rachegründen hier ist. Alles in Allem erwartet uns wohl eine tragische Geschichte.
-  
+
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
@@ -6380,6 +6383,161 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   ```
 
+## High Isle
+
+##### #1648
+
+* Titel: `Let's Play ESO #1648 ##1 - Ankunft auf Hochinsel [Hochinsel Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 1 des High-Isle DLCs - Sitzung 1 
+  
+  Es ist einmal mehr die Zeit das wir zu neuen Ufern aufbrechen. Wir sind immer noch Aliya, Hochelfin, Zauberin, Vampir und Abenteuerin auf der Suche nach dem großen Geld. Soweit ich das verstanden habe ist das hier nicht das Piraten-DLC, insofern müssen wir uns wohl unser Geld wie immer durch halbwegs ehrlich Erwerbstätigkeiten dazu verdienen und am Ende gibt es von unfassbar reichen Adeligen immer noch 602 Gold. Es wird großartig. Oder auch nicht. Ich muss sagen das ich relativ neutral an die ganze Sache heran gehe, dies ist die erste Episode des DLCs und ich bin exakt 0 gehyped, aber auch nicht besonderes negativ eingestellt. Alles kann passieren, nichts muss. Mein umfassendes Lore Wissen ist was die Bretonen angeht maximal gering und eventuell lese ich mich noch einmal während des Spiels ein, aber für den Moment weiß ich auch nur das was wir vor uns sehen. Zwei Inseln, irgendwelche Verhandlungen und natürlich irgendwelche Schwierigkeiten. Was jetzt genau los ist und ob es überhaupt einen guten Grund für uns gibt hier zu sein weiß ich nicht. Lassen wir uns einfach einmal in die hohen Inseln fallen und schauen uns später an ob es vielleicht eine schöne Reise gewesen ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 07.06.2022 - #1648 - ##1 - S1
+  ```
+
+##### #1649
+
+* Titel: `Let's Play ESO #1649 ##2 - Insel und Leute [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 2 des High-Isle DLCs - Sitzung 1 
+  
+  Mir fällt etwas auf, einen Tag später nach der Aufnahme, die Einstiege in ESO DLCs sind immer ziemlich langsam. Es kommt selten vor das irgendwie etwas bombastisches passiert oder direkt viel Aktion geschieht. Keine plötzlichen Explosionen oder ein Staatsstreich der uns in das richtige Setting setzt das die aktuelle Lage vielleicht nicht ideal für die Menschen ist. Stattdessen reisen wir quasi per Boot auf die Ferieninsel im Systren-Archipel an, konferieren am Hafen mit den örtlichen Adeligen und hören von einem kleineren Vorfall der schon eine Spezialistin erfordert der aber genauso gut einfach nur ein kleines Logistikproblem bedeuten kann. Insbesondere wenn man bedenkt das Seefahrt selten absolut verlässlich und pünktlich ist. Insofern bin ich nicht enttäuscht aber doch ein wenig unterbegeistert, immerhin haben wir mehr Zeit uns mit der Welt zu beschäftigen und Landschaft anzuschauen. Heute reden wir mit einigen Zivilpersonen die einfach nur so rumstehen um ein bisschen Gefühl für die Welt zu bekommen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 07.06.2022 - #1649 - ##2 - S1
+  ```
+
+##### #1650
+
+* Titel: `Let's Play ESO #1650 ##3 - Vom Anker zur Untiefe [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 3 des High-Isle DLCs - Sitzung 1 
+  
+  Land und Leute haben wir jetzt ja schon ein wenig kennen gelernt und so wie es aussieht muss ich mich irgendwie heute ein wenig mehr geistig von unserem Auftraggebern oder dem gesamten Konflikt distanzieren. Wahrscheinlich kann man ziemlich zweifelsfrei feststellen das die Methoden unserer baldigen Gegner unmenschlich und voller Grausamkeit strotzen. Der örtliche Adel verspricht also weniger Gewalt und eine Fortsetzung der aktuellen Verhältnisse. Allerdings stelle ich fest das die Verhältnisse für den Großteil der Leute eher nicht so gut zu sein scheinen. Die Insel wurde mir als Ferienresort für reiche Leute, ließ, dem Adel vorgestellt. Und dann wird im Nebensatz noch erwähnt das es an armen Leuten die sich grade so über die Runden bringen können nicht mangelt. Wir stellen also fest das es gleichzeitig prunkvollen Reichtum gibt während andere Menschen (und Mer) Schwierigkeiten haben überhaupt genügend Nahrung auf den Tisch zu kriegen, von der Qualität ganz zu schweigen. Natürlich will der Adel den Status Quo beibehalten. Und diese Friedensverhandlungen? Eventuell nur notwendig weil einige wenige Egomanen irgendwelche Ansprüche ihrer ach so tollen Familien umsetzen wollen, ist das wirklich ein Problem der einfachen Leute die auf den Schlachtfeldern sterben? Warum sollte ich mich auf die Seite der herrschenden Klasse stellen wenn wir hier eine echte Möglichkeit finden die Dinge zu ändern? Es ist noch ein wenig früh in irgendeiner Richtung zu handeln, aber das was sich andeutet gefällt mir nicht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 07.06.2022 - #1650 - ##3 - S1
+  ```
+
+##### #1651
+
+* Titel: `Let's Play ESO #1651 #4 - Kynareths Segen [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 4 des High-Isle DLCs - Sitzung 1 
+  
+  Zu Glauben bedeutet im Elder Scrolls Universum eigentlich eher das man weiß. Letztendlich kann man sich ziemlich sicher sein das die diversen Gottheiten und anderen Wesenheiten außerhalb der menschlichen Sphären tatsächlich existieren, und wenn sie sich zu lange nicht um ihre Jünger kümmern dann kommen halt die Anhänger der anderen Viecher an und tun Dinge. Bei den Daedra kann man sogar auf ziemlich handfeste Hilfe hoffen muss dann aber leider damit rechnen das man nach dem Ableben in Kalthafen oder eine der anderen Oblivion Ebenen aufwacht. Traurige Realität, kann man Nichts machen. Bei den Aedra sieht es ein wenig anders aus, soweit ich weiß handeln sie nur sehr selten direkt in die Realität und sind ein wenig subtiler. Umso überraschter bin ich heute ein tatsächlich physischen Beispiel des Eingreifens zu sehen. Es handelt sich um einen Götzen der scheinbar unendliches Feuer gibt. Ziemliche Verschwendung das Ding für einen Leuchtturm zu nutzen, könnte man damit nicht die Dampfmaschinen ganzer Nationen antreiben. Das Teil braucht keinen Treibstoff und damit hat man doch quasi unendliche Energie. Oder handelt es sich um eine kalte Flamme, in diesem Fall ist die Ausbeute mit geeigneten Solarzellen leider wesentlich schlechter, aber wir hätten immer noch endlos Strom. Es sei den die Aedra können auch nur endlich Energie geben und der Götze verbraucht sich auch, unter normalen Umständen aber halt erst in tausenden Jahren. Ob man alles auf einmal freisetzen könnte? Eventuell ist es aber auch ganz anders und Kynareth beobachtet den Götzen wirklich dauerhaft und sobald die Gebete nicht mehr kommen war es das. Automatische Magie wäre definitiv leichter zu missbrauchen...
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 08.06.2022 - #1654 - ##7 - S1
+  ```
+
+##### #1652
+
+* Titel: `Let's Play ESO #1652 ##5 - Ein-Elf-Spionagenetzwerk [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 5 des High-Isle DLCs - Sitzung 1 
+  
+  Es geht weiter. Immer weiter. Ich muss mich langsam einmal bremsen, aber das Problem ist wirklich das die Art und Weise wie uns hier die Welt präsentiert wird schlecht ist. Oder zumindest kommt es mir schlecht vor. Das Problem ist folgendermaßen, ich habe mich ein wenig mit der Theorie beschäftigt wie man Romane schreibt, ich muss mir ehrlich eingestehen das ich das wohl nie tun werde und selbst wenn wäre er bestimmt nicht gut, und die Fantasy Sparte braucht wohl kaum mehr Autoren. Aber dennoch habe ich das im Hinterkopf. Unsere gute Arabelle wurde uns als außerordentlich fähige Person vorgestellt, und das funktioniert für ein Charakter der irgendwo im Hintergrund rumspringt auch ganz gut. Man kann definieren das jemand sehr schlau ist, aber dann muss man das auch zeigen. Uns wird jetzt also gesagt das der gesamte Plan, eine gewaltige Friedensverhandlung zu veranstalten auf diese Person zurückgeht. Und dann treffen wir an jeder Ecke nur geballte Inkompetenz. Bisher wurde uns noch nicht viel erklärt, nur das die Dinge sind wie sie sind, aber ich verliere langsam den Glauben. Heutiger Stein des Anstoßes ist das die gute Arabelle zwar Jakarn als gemeinen Schläger und Mann fürs Grobe hat, aber eigentlich agiert sie blind. Vergleichen wir mit einem Dijkstra (den redanischen Spion, nicht den Mathematiker) der überall Augen und Ohren hat wird es noch viel schlimmer. Anscheinend sind wir die einzige kompetente Person in der Personaldecke der Herzogin. Das lässt uns als Spieler zwar sehr besonders anfühlen und so gesehen ist das auch notwendig weil die Prämisse ja war das wir keinen riesigen Konflikte mehr haben also müssen wir uns ja irgendwie abheben, aber das dafür alle anderen zu sabbernden Idioten werden kann irgendwie nicht der Weg sein oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 08.06.2022 - #1652 - ##5 - S1
+  ```
+
+##### #1653
+
+* Titel: `Let's Play ESO #1653 ##6 - Druidin Ryvana [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 6 des High-Isle DLCs - Sitzung 1 
+  
+  Heute treffen wir scheinbar eine Druidin. Ich habe nachgeschaut, bzw. ich mache das live während wir das hier spielen, Druiden kamen bis jetzt eigentlich in Form der Wyrdschwester vor. Immerhin kann man hier ESO keinen Vorwurf machen. Alles wird zusammengefasst und wir werden noch einmal an all die Informationen herangeführt die wir eventuell schon wieder vergessen hatten. Schön schön, leider ist die örtliche Druidin eher von der Form Baumschmuser, ich hätte da mir ja jemanden gewünscht der ein wenig mehr Biss hat. Aber man kann wohl nicht alles haben. Die gute Druidin erzählt uns immerhin das unsere "Freunde" wohl da waren und jetzt halt nicht mehr. Und wir erfahren auch ein wenig von der druidischen Magie, aber auch nicht so wirklich, die feinen Details die witzig wären werden aber leider außen vor gelassen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 10.06.2022 - #1653 - ##6 - S1
+  ```
+
+##### #1654
+
+* Titel: `Let's Play ESO #1654 ##7 - Quentyns Spuren [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 7 des High-Isle DLCs - Sitzung 1 
+  
+  Lieber Zuschauer, meinst du ich bin zu kritisch? Ziehe ich zuviel über das Spiel her oder ist es grade meine beißende Art die sich hier des Öfteren einen Stein des Anstoßes nimmt die das Ganze hier Sehenswert macht? Weil die Sachlage ist außerordentlich lächerlich. Im Prolog haben wir bereits vom Orden der Emporstrebenden erfahren die offenbar sehr gezielt und mit größerer Personenstärke die Bestrebungen einer Friedensverhandlung auf den Hochinseln zu stören versucht haben. Es hat bereits Tote gegeben und der letzte Versuch hat beinahe funktioniert. Das Informationsnetzwerk unserer derzeitigen Auftraggeberin scheint aus mir und nur mir zu bestehen. Bei allem was wir wissen fliegen wir also quasi blind, unser Feind könnte hinter jeder Ecke sein und wir wüssten es erst wenn es zu spät ist. Unsere Aufklärung ist inexistent, unsere Planung dilettantisch und im Allgemeinen kann ich wenig Gutes über die gesamte Operation sagen. Mit dieser Ausgangsbedingung gehen also die wenigen Würdenträger die es bis jetzt bis nach Hochinsel geschafft haben also Spazieren. Zu dem Zeitpunkt war zwar noch nicht bekannt das der lustige Orden auch hier wirkt aber das plötzliche Verschwinden von bis zu drei Schiffen sollte uns eventuell ein Hinweis sein. Wir verfolgen also heute den Weg eines Typens aus der Kriegergilde. Einer von der Verwaltung der repräsentative Aufgaben übernimmt. Das ist nicht der Kulturattaché der Nord! Das ist jemand der trotz seines Lebenslaufes in der Hauf-Druff Truppe durchaus etwas von Kommunikation versteht und offensichtlich in der Lage sein sollte nach zu denken. Diese Person suchen wir gerade weil anscheinend alle Beteiligten beschlossen haben das ein Spaziergang definitiv keine Risiken für Niemanden birgt. Diese Situation ist lächerlich. Wenn dein Writing so schlecht ist das du so eine lächerliche Situation herbei konstruieren musst damit dein Plot in Fahrt kommt solltest du noch einmal überlegen was du beruflich machst. Oder übersehe ich etwas und meine Kritik ist unfundiert?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 10.06.2022 - #1654 - ##7 - S1
+  ```
+
+##### #1655
+
+* Titel: `Let's Play ESO #1655 ##8 - kein vollkommener Fehlschlag [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 8 des High-Isle DLCs - Sitzung 2 
+  
+  Der heutige Titel lügt. Oder auch irgendwie nicht wenn man die Dinge mit einander abgleicht und irgendwie auch willens ist der guten Fürstin Arabelle zu glaube. Ich hatte sie neulich als Herzogin bezeichnet weil ich mir nicht vorstellen konnte das sie so ein hohes Amt bekleidet. Tut sie ja auch nicht, der Fürst von irgendetwas zu sein impliziert ja irgendwie auch Herrschaft über irgendeine Fläche Land. Oder gibt es so etwas wie Ehrenfürsten die Analog zu Ehrenprofessuren nur Titel ohne eigenen Lehrstuhl sind? Nehmen wir an das nicht, es gibt also irgendwo eine größere Fläche Land die von Arabelle Davaux verwaltet wird. Offiziell. Inoffiziell gibt es da irgendeinen Verwalter aus dem mittleren Adel der, soweit wir wissen, ein ziemlich sadistischer Typ sein kann, vielleicht ein entferntes Familienmitglied. Dem unterdrückten Volk bleibt also Nichts Anderes übrig als jeden Tag unter den schlechten Entscheidungen eines Typen zu leiden der nicht einmal das offizielle Oberhaupt ist. Warum ist Arabelle überhaupt hier‽ Wie kann sie durch die Welt reisen? Hat sie kein Pflichtgefühl für ihr Volk? Und wir treffen oft reisende Adelige. Die ursprüngliche Genese von Königen und anderen Herrschern ist ja die das die Warlords der alten Zeit irgendwann sesshaft wurden und dann ihren Führungsanspruch an ihre Kinder weitergegeben haben. Später kam in unserer Welt noch die Kirche die einen süßen Deal hatte: Unterstütze uns und wir erklären das es in Wahrheit Gottes Wille ist das du herrscht. Opium für das Volk. Nice. Zurück zur Sachlage, unser lustiger Orden der Emporstrebenden kriegt zum ersten Mal negative Seiten, sie richten Gefangene hin, moralisch verwerflich, schwierig zu verteidigen. Aber das ist nicht Arabelles Kritik, sie hat uns ein "sie sind nicht so toll wie sie sich geben" entgegengebracht. Das stellt definitiv eine gut fundierte Aussage da. Aber hey, "unsere" Seite macht ja nicht allein die Fehler, nein, auch unsere Gegner verheizen ohne Not gutes Personal, vielleicht sogar beabsichtigt um Zeit zu kaufen obwohl ich das eher bezweifle. Der einzige Lichtblick den ich soweit erkennen kann ist das wir mit alten Bekannten reden können.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 14.06.2022 - #1655 - ##8 - S2
+  ```
+
+##### #1656
+
+* Titel: `Let's Play ESO #1656 ##9 - drei Kapitäne [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 9 des High-Isle DLCs - Sitzung 2 
+  
+  Wir haben erfolgreich mehr Leben gerettet als verloren. Mir ist zwischenzeitlich zu Ohren gekommen dss ich wohl ein Stück Dialog verpasst habe und daher das Abtreten von Quentyn weniger dramatisch geworden ist als es eigentlich gewesen wäre und irgendwie sind wir ja auch selbst daran schuld das er tot ist. Es sind wirklich ein wenig seltsame Abenteuer durch die wir uns hier durch wurschlteln. Meine Kritik ist kurz, wir sind Magierin, zwar mit großen Fokus auf offensive Magie aber so ein wenig von den anderen Schulen sollten wir doch können oder? In einem guten RPG hätten wir den guten Quentyn soweit geschwächt bis wir ihn hätten gefangen nehmen können und ihn mit Magie stabilisieren damit er uns nicht direkte vor Ort weg stirbt. Das ist aber nicht passiert und uns bleiben nur noch die drei verloren geglaubten Kapitäne. Auch interessant ist übrigens das die einfachen Seemer und -menschen einfach hingerichtet wurden. Die Leute die am wenigstens etwas für die Passagiere oder ihre Mission konnten mussten wieder einmal die Rechnung für die Entscheidungen der Leute über ihnen zahlen. Tragisch. Aber die Kapitäne sind auch überwiegend Leute die wir kennen und irgendwie auch mögen, die sind uns dann natürlich auch wichtiger.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 14.06.2022 - #1656 - ##9 - S2
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -6388,4 +6546,19 @@
 
   ```markdown
   Hier
+  ```
+
+##### #TEMPLATE
+
+* Beschreibung:
+
+  ```markdown
+  Episode 8 des High-Isle DLCs - Sitzung 2 
+  
+  Let's Play ESO #1655 ##8 - kein vollkommender Fehlschlag [Hochinsel]
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 14.06.2022 - #1655 - ##8 - S2
   ```

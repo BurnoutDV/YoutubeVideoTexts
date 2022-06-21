@@ -1108,6 +1108,81 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #74
+
+* Titel: `Disco Elysium - #74 - die Netzflickerin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man kann eine gute Sache sagen, es mangelt nicht gerade an einzigartigen Persönlichkeiten die durch die Welt springen. Für die großen Inseln im Archipel spielt es wohl bestimmt keine Rolle aber für unsere kleine Mordgeschichte sind viele Leute die ansonsten untergehen würden auf einmal sehr besonderes. Heute treffen wir beispielsweise die Netzflickerin, eine Person bei der unser Talent der Suggestion gut angewendet wäre wenn wir dafür auch nur den Hauch eines Talentes hätten. Haben wir allerdings nicht, daher versuchen wir es nicht einmal und wenden uns eher den Geschichten vom Meer, den Boten und allem Anderen zu. Dort draußen ist eine ganze Welt voller Tragik, Komik und Tiefe. Man muss sie nur finden ausgraben. Ganz kurz wurde übrigens in mir der Wunsch wach im Herbst am Strand zu stehen und die Seeluft zu riechen. Ärgerlicherweise ist es gerade Sommer, das macht den Teil mit der Seeluft ein wenig sehr schwierig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 13.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #75
+
+* Titel: `Disco Elysium - #75 - Tequila Sunset [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Über die eigene Vergangenheit zu erfahren ist immer ein wenig komisch. Das kann einen durchaus ja auch so passieren, ohne das man an akuter Amnesie leidet. Typisches Szenario ist das sich ein alter Schulfreund an bestimmte Situationen oder Interaktionen besser als man selbst erinnert oder Dinge im Gedächtnis geblieben sind die man selber schon lange erfolgreich verdrängt und vergessen hatte. Alternativ ist die Situation ein wenig wie hier und man hat eine harte Saufeskapade hinter sich und kann sich einfach nicht mehr so recht daran erinnern, auch ganz fies ist dann der eine Kumpel der überraschend viel Bildmaterial sicher gestellt hat und die Lücken in der Erinnerung sogar mit bewegten Farben auffrischen kann. In der Regel ist das ziemlich unangenehm. Es sollte also niemanden überraschend das, als wir heute mit den örtlichen Säufern reden und die sehr gut von unseren Geschichten Bescheid wissen, dies mehr als nur ein wenig unangenehm ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 13.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #76
+
+* Titel: `Disco Elysium - #76 - Georg die Abwärtsspirale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Beim letzten Mal haben wir die Geschichte von Tequila Sunset gehört, einen Menschen für den alle Regeln nur am Rande der Realität liegen und der sich nicht um Konventionen der Gesellschaft kümmert. Einen Draufgänger, kurzum, um uns. Aber das ist nicht die letzte Geschichte die wir heute hören. Die Erzählung stammte von jemande der sich Mr. Abwärtsspirale nennt, im Englischen übrigens "Mister Doomspirale", einen Namen der noch ein wenig besser aussagt worum es hier eigentlich geht. Generell drückt das Wort "Doom" viel besser das aus was ich fühle wenn ich jemanden wie Herrn Abwärtsspirale sehe als wenn er halt so benannt wird wie er benannt wird. Auch er hat eine interessante Geschichte, selbst wenn er sich noch an Alles erinnert kann. Obwohl ich mich durchaus frage ob es nicht doch ein paar Stellen gibt die vielleicht ausgelassen wurde. Immerhin können wir uns sicher sein das das die Welt und insbesondere Revachol einen fähigen Geschichtserzähler verloren hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 13.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #77
+
+* Titel: `Disco Elysium - #77 - Shoppingtrip [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wohnen jetzt mietfrei. Zumindest für den Moment. Ich finde es immer noch ziemlich verdächtig das uns hier einfach so Obdach geboten wird und ein wenig offen ist wohl auch noch wie lange das wirklich der Fall bleibt. Ich würde mal stark davon ausgehen das, wenn es mehr als eine Woche wird, es hier ernsthaft zu Problemen kommen könnte. Für den Moment bedeutet das aber auch das wir mehr Einkommen zur Verfügung haben das wir in den Ankauf von Konsümgütern stecken können. Das treibt die Wirtschaft an und befeuert das Wohlergehen der Bevölkerung, irgendwie über Eck. Nebenbei bemerkt halte ich Trickle-Down-Economics immer noch für eine schöne Lüge die sich FDPler abends zum Einschlafen erzählen damit sie sich besser fühlen. Wenn man tatsächlich so etwas wie ein Gewissen hat. Nun, wir kaufen jetzt also Dinge, Tatsache ist nämlich das es gewisse Skillchecks gibt die wir noch gar nicht bestehen können einfach weil es uns am Material fehlt, das ist außerordentlich ärgerlich. Andererseits ist es auch ein wenig komisch wie manche Kleidung uns quasi helfen können härter zuzuschlagen oder mehr auszuhalten. Das ist schon ziemlich magisch, aber Magie kostet Geld und das bringt uns wieder zurück zum hemmungslosen Konsum.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 13.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #78
+
+* Titel: `Disco Elysium - #78 - Grau und Rot [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist immer noch der dritte Tag aber heute erfahren wir Dinge, nicht alles was ich gerne über das Grau erfahren hätte aber doch so Einiges. Joyce spricht nämlich endlich einmal ein paar interessante Details zu der Natur der Welt an, einziger Wermutstropfen ist aber das wir wohl in Abwesenheit von Kim noch einmal heran müssen. Das alles ist ein wenig komisch. Warum ist Kim so beschützend was unsere geistige Verfassung angeht, warum ist es ihm so wichtig uns an die Realität heranzuführen. Immer wenn es irgendwie kritisch aussieht scheint er zumindest anzudeuten das wir nicht weiter machen sollen, auch wenn er uns ultimativ wohl irgendwie die Freiheit lässt es doch zu tun. Oder vielleicht auch nicht. Und doch, der Mann begleitet uns jetzt schon seit drei Tagen und hat immer noch Geduld mit unserem Fall, und das obwohl wir eigentlich so gut wie Nichts bis her aufgeklärt haben, noch nicht einmal die Leiche hatten wir am ersten Tag vom Baum geholt. Und jetzt sieht es so aus als würden wir den ganzen Tag nur Sub-Quests ausführen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 13.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

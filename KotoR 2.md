@@ -2196,12 +2196,81 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
-##### #Nummer
+##### #138
 
-* Titel: ``
+* Titel: `KotOR 2 - #138 - Reiseziel Malachor V [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Darth Nihilus ist anscheinend tot, oder vielleicht auch nicht, anscheinend ist die dunkle Seite der Macht in dieser Hinsicht ja ziemlich mächtig, wir sind nicht nur einen Sith begegnet der nach den eigenen Ableben nicht besonders lange tot blieb. Andererseits haben wir anscheinend so gut wie keine Zeit mehr irgendwelche Dinge zu tun, also fliegen wir zurück nach Telos und reden dort mit einem alten Bekannten. Also, nun, ein alter Bekannter von Revan, ein ehemaliger Weggefährte der zusammen mit jemanden Anderem aus der Finsternis plant. Übrigens auch sehr interessant das wir uns die ganze Zeit anhören müssen das wir angeblich der letzte Jedi sein sollen aber an jeder Ecke sich noch andere, voll ausgebildete Jedi herumtreiben. Aktuell wohl Bastila, wenn man den Vorgänger nicht gespielt hat ist es wohl minimal verwirrend diese Szene zu sehen. Danach geht es aber recht schnell weiter nach Malachor V, ein Ort von großer Signifikanz.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 21, Aufnahme vom 16.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #139
+
+* Titel: `KotOR 2 - #139 - Planet des Hasses [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder da, auf Malachor V, anscheinend auch den Planet des Hasses, dem Ort an dem die Mandalorianer die finale Schlacht verloren haben und die Jedi irgendwie auch gewannen. Aber zu welchen Preis. Es wird sich aber wohl später herausstellen das Malachor schon immer ein wenig verflucht war wenn man das formulieren will. Übrigens sind wir noch nicht ganz fertig mit unseren Begleitergeschichten und ein paar offene Enden sind auch an anderer Stelle entstanden, daher müssen wir diese ja noch schnell beenden. Machen wir dann auch, und wir werden zum ersten und letzten Mal den Unterarmraketenwerfer nutzen. Das ist doch schon einmal richtig was wert, gut das ich mir nie die Mühe gemacht habe die Dinge zu nutzen, am Ende hätte ich viele Ressourcen dabei verloren welche zu bauen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 21, Aufnahme vom 16.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #140
+
+* Titel: `KotOR 2 - #140 - Schattengenerator, Heldentum & Lektionen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Geschichte nimmt jetzt richtig Fahrt auf und wir befinden uns wirklich ganz kurz vor dem Ende, wenn wir uns nicht gleich noch der halben lokalen Sith Armee entgegenstellen müssen sollte es innerhalb der nächsten Stunde ein Konklusio geben. Leider bedeutet dieses beschleunigte Tempo aber auch das wir bestimmt Konflikte gar nicht mehr so richtig lösen können. Zum Beispiel haben wir mehre Begleiter die eigentlich gar nicht so richtig fertig sind. Atton zum Beispiel, klar, er ist jetzt wesentlich mehr geläutert als er es am Anfang gewesen war aber ist er jetzt wirklich eine bessere Person? Haben wir alles für ihn getan was wir konnten. Dann ist da noch Bao-Dur, der uns von Anfang an ja ziemlich treu war und wir immer noch nicht so genau wissen warum eigentlich. All das findet aber heute sein Ende, und das natürlich in einer höchst verständlichen Art und Weise. Mir ist natürlich völlig klar was es mit dem Schattengeneratoren auf sich hat und woher er weiß was genau er tun muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 21, Aufnahme vom 16.06.2022
+  ```
+
+##### #141
+
+* Titel: `KotOR 2 - #141 - Scheideweg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir stehen so kurz davor, nur noch wenige Räume und wir treffen Kreia wieder, haben einen epischen Endkampf und dann sind wir fertig mit dem was sich uns so lange in den Weg gestellt hat, die Galaxie ist endlich geheilt und alles wird zu einem besseren Ort. Zumindest glaube ich das, schließlich sind wir doch an jeder Ecke dem Pfad des Guten gefolgt oder? Nun, es ist noch nicht ganz so weit, unsere Gegenspieler wollen uns noch ein letztes Mal herausfordern in dem sie uns tonnenweise Personal entgegenwerfen und das Leben unserer Freunde auf dem Spiel setzen. Natürlich müssen wir unsere Mitstreiter retten, eventuell springt ja sogar noch ein Levelup dabei heraus. Ich bin übrigens ein wenig enttäuscht das hier gegen Ende noch einmal der Gothic 3 Move gemacht wird. Erwähntes Spiel hat ja genau das Gleiche getan um gegen Ende noch ein wenig Spielzeit zu strecken. Horden endloser Gegner die keinen Zweck dienen außer leere Räume zu füllen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 21, Aufnahme vom 16.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #142
+
+* Titel: `KotOR 2 - #142 - Trayor Akademie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So richtige Ausbildungsstätten betreten wir nur selten. Generell und überhaupt ist eigentlich gar nichts darüber bekannt wie Ausbildung und Bildung in der Star Wars Welt bzw. Universum aussieht. Eine Dorfschule gibt es auf jeden Fall nicht, ganzen Heerscharen von Kindern wachsen in Armut in irgendwelchen Dörfern auf. Wenn man sich die allgemeine Innovation in der Welt ansieht scheint es mir auch nicht so als würde es besonderes gut vor ran gehen in Sachen wissenschaftliche Grundlage der Realität. Tatsächlich sieht es für mich sogar so aus als würde das Wissen wie das Leben eigentlich wirklich funktioniert konstant abnehmen. Berechnungen und Übersetzungen werden von Protokolldroiden übernommen die, soweit wir wissen, seit tausenden von Jahren im Dienst sein könnten und überraschend einfach zu reparieren sind. Alle Technologie ist miteinander kompatibel, fast so als wären sie vor Ewigkeiten erschaffen worden. Und mit diesem Hintergrund besuchen wir heute eine Akademie für Sith. Ein toller Ort mit ganz vielen Türen mit roten Zeug dran. Und unendlich vielen Orks, err, Sith die uns im Weg stehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 21, Aufnahme vom 16.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```

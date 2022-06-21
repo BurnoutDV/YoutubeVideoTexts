@@ -1535,6 +1535,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #99
+
+* Titel: `Horizon Forbidden West - #99 - der zweiten Strophe zweiter Teil [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ein wenig Probleme damit diesen Konzept bei dem es für eine Quest immer zwei Teile gibt die aber unter den gleichen Namen fallen gut zu heißen. Es nervt um ehrlich zu sein. Auf der einen Seite soll halt irgendwie vermittelt werden das halt Zeit zwischen den Dingen vergeht die Aloy so tut, aber es erscheint auch ein wenig unlogisch. Warum genau zum Beispiel mussten die Codes die wir geborgen haben erst Ewigkeiten lange berechnet werden. Wäre es nicht zu erwarten gewesen das entweder der richtige Schlüssel sofort erhalten wäre oder erst in vielen Jahren. In der Regel gibt es bei Technik nicht all zu viel dazwischen. Dinge sind entweder quasi sofort fertig oder man muss echt lange warten. Nun, wir haben echt lange gewartet und jetzt können wir etwas tun um das Partikularproblem von Zoey und ihren Otaru anzugehen. Sie heißt eigentlich Zo, so wie die drei Roboter die wir heute bergen/hacken eigentlich So, Ti und Do heißen. Wie eine Tonleiter. Es ist übrigens ein ziemliches Wunder das noch niemand vorbei kam um die gefallenen Landgötter auszunehmen. Ich könnte mir durchaus vorstellen das vorbeikommende Oseram Plünderer nicht ob der Geschichte des Pflanzenvolkes wissen und einfach zu schlagen wenn sie eine Gelegenheit sehen. Das kann nun aber nicht mehr passieren, schließen haben wir wieder einmal ein paar Dinge getan. Und Zo auch, ob das irgendwie die Ansicht ihres Volkes ändern wird? Wird sie dadurch zur Legende oder verstehen die einfachen Bauern nicht einmal diesen Zusammenhang?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 14.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #100
+
+* Titel: `Horizon Forbidden West - #100 - Was verloren war [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal sind die Titel der Missionen sehr poetisch und haben irgendwie über Eck mit dem zu tun das wir dann erledigen. Und dann haben wir noch Solche bei denen absolut unklar ist worum es überhaupt geht. Vom heutigen Titel könnte man vermuten das irgendjemand einen geliebten Menschen verloren hat oder das es einfach nur um einen vergessenen Schatz geht. Aber dem ist gar nicht so. Obwohl es vielleicht schon ein Schatz ist. Es geht um Kotallo und seinem Arm. Wir wissen bereits das die Menschen vor der Apokalypse definitiv irgendeine Art von Prothesen zur Verfügung hatten. Andauernd finden wir zum Beispiel künstliche Augen die scheinbar all die Jahrtausende überlebt haben, das spricht echt für die Haltbarkeit, vielleicht sind es aber auch nur Murmeln und Aloy interpretiert das so. Wie dem aber auch sei, die Baugröße des Faro-Fokus lässt vermuten das nicht weiter auffällige Arme auch durchaus eine Möglichkeit gewesen wären. Jetzt bräuchten wir nur noch die Baupläne und eine komplette Produktionskette und schon hätten wir alles. Warum wir ausgerechnet in ein Far Zenith Labor einbrechen müssen um eine Technologie zu finden die eigentlich weit verbreitet sein sollte ist mir ein Rätsel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 14.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #100
+
+* Titel: `Horizon Forbidden West - #101 - Diamantblumen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sag es mit Blumen. Oder irgendwie so. Wir haben beim letzten Mal ja eine wertvolle Sache freigeschalten, wir können jetzt endlich all die Blumen die Artemis über die Welt verteilt hat auseinander nehmen, eigentlich auch sehr ärgerlich das sich keine Gedichte mehr darin befinden. Diese Blumen stellen quasi das letzte Denkmal eines fehlgeschlagenen Versuches da die Welt zu retten ohne den großen Neustart zu machen. Aber am Ende waren ihre Bemühungen leider vergeblich. Jetzt fragt sich aber wo die vorhandenen Diamantblumen herkamen. Hat sie DEMETER einfach in irgendwelchen tiefen Kellern gefunden und dann in seinen halbautomatischen Tun geborgen und verteilt. Gibt es eventuell eine prototypische Herstellungsanlage für die Blumen, und wenn ja, wo befindet sich diese, die Blumen selbst sehen ziemlich neu aus und enthalten definitiv eine Art von Prozessor, eine solche Herstellungsanlage könnte sich also als Goldmine herausstellen. Die nächste Frage ist logistisch, wie genau hat DEMETER irgendwelche Roboter dazu gebracht die Blumen zu verteilen? Oder war es quasi eine Gnade von HEPHAESTUS der sich um alle Dinge kümmert, und hier versucht hat die Natur so zu beschützen wie er auch die Roboter schützt? So viele offene Fragen die gar nicht beantwortet werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 14.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #102
+
+* Titel: `Horizon Forbidden West - #102 - Trockensehnsucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode könnte auch heißen "Dinge die ich noch so gemacht habe". Natürlich klettern wir erst einmal in die Trockensehnsucht hinein, das ist ein Ort der mir am Ende der letzten Episode ja einige Probleme gemacht hat, es stellt sich aber heraus das es anscheinend wirklich recht schwer ist dort einzudringen. Nun, wie dem aber auch sei, ich bin von allem was mit den Diamantranken zusammenhängt ziemlich enttäuscht. Bei anderen Gelegenheiten hat uns Horizon tatsächlich zusätzliche Eindrücke vermitteln wenn wir alte Ruinen aufgemacht haben oder neue Fähigkeiten erlangten um dann andere Orte zu öffnen. Hier sieht der Fall ganz anders aus. Wir lernen tatsächlich nur was aus der Kugel die wir hier gefunden haben geworden ist bzw. wie sie hier her kam, aber das war es dann auch. Keine weiteren Loretexte die uns erklären was es mit diesem Ort auf sich hat. Man würde doch erwarten das es durchaus noch ein paar Orte geben könnte die hinter dicken Brandschutztüren in einem Gebiet in dem kein Wasser dringt stehen in denen wir noch quasi neue Schöpfungen der alten Zeit finden würden. Ich frage mich übrigens was aus den Dingen im Orbit geworden ist. Hatte die Menschheit neben den Zenith Raumschiffen irgendwelche Dinge im Weltraum? Geostationäre Schiffe sind bestimmt längst abgestürzt, aber versiegelte Mondbasen? Bei der Menge an Energie die Anlagen mitten im Dschungel haben sollte sich doch etwas finden oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 14.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

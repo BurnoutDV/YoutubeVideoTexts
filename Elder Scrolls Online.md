@@ -6538,6 +6538,103 @@
   Aufnahme vom 14.06.2022 - #1656 - ##9 - S2
   ```
 
+##### #1657
+
+* Titel: `Let's Play ESO #1657 ##11 - Ermittlerin Vala, Vorgelesen Teil 2 [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 10 des High-Isle DLCs - Sitzung 2 
+  
+  Die Buchlesezeit geht weiter. Je länger ich mir übrigens meine eigene Stimme anhöre umso mehr glaube ich das diese Episode ein großer Fehler. Nun, wie dem aber auch sei, heute kommen wir ein wenig besser vor ran und haben damit bestimmt fast das Gesamtwerk der Dick Mullen...err. Ermittlerin Vala Romane gelesen. Ich halte es für absolut wahrscheinlich das ich noch irgendwo einen übersehen habe aber für den Moment haben wir wohl wirklich alle. Etwas enttäuschend ist das nur die ersten die wir lasen wirklich so etwas wie eine Tiefe enthielten. Die anderen sind außerordentlich kurz und die Prämisse ist ziemlich stumpf. Allerdings kann ich mir auch keine andere Möglichkeit vorstellen wie man ansonsten die Quintessenz eines Romans zusammenfassen will.
+  
+  0:00 - Anmoderation
+  0:32 - BUCH: Ermittlerin Vala: Ententanz
+  2:46 - BUCH: Ermittlerin Vala: Der Fluch des Alraunen-Herrenhaus
+  5:50 - BUCH: Ermittlerin Vala und der Spuk im Leuchtturm
+  8:20 - BUCH: Ermittlerin Vala: Schattengefährten
+  12:23 - BUCH: Ermittlerin Vala im Reik
+  15:25 - BUCH: Ermittlerin Vala: Der Mord im verschlossenen Zimmer
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 15.06.2022 - #1657 - ##10 - S2
+  ```
+
+##### #1659
+
+* Titel: `Let's Play ESO #1659 ##12 - Hilfe für Hochinsel [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 12 des High-Isle DLCs - Sitzung 2 
+  
+  Es gibt einen Teil der sich ziemlich mechanisch beim Anspielen neuer DLCs anfühlt, und das ist das Auslooten der Konstanten. Jedes DLC hat eigentlich immer so ein paar Konstanten. Es wird zum Beispiel immer eine neue Diebesgilde geben damit die armen Spieler nicht so weit laufen müssen und einen Ort zum Verstecken haben und es gibt natürlich immer tägliche Aufgaben. Allerdings sind diese, soweit ich das erkennen kann, besser geworden. Zumindest die in Ferngrab haben durchaus einen Geschichte erzählt die nicht völlig ab vom Schuss waren und die gesamte Welt ein wenig bereichert haben. Also machen wir das heute einmal, ich habe natürlich nicht vor die Aufgabe sofort zu erledigen, die paar Brocken die wir dadurch erfahren werden kommen schon rechtzeitig genug auf nehme ich einmal an. Sprechen können wir ja dennoch mit den Auftraggebern und schauen einmal wie weit wir es schaffen ohne irgendetwas machen zu müssen. Aktuell sind wir ja sogar im Plus weil Leute in Vorleistung gingen.
+  
+  0:00 - Anmoderation
+  1:15 - BUCH: Kapitän Kaleens Logbuch
+  3:37 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 15.06.2022 - #1659 - ##12 - S2
+  ```
+
+##### #1660
+
+* Titel: `Let's Play ESO #1660 ##13 - Ruhmesgeschichten [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 13 des High-Isle DLCs - Sitzung 2 
+  
+  Ich bin nicht völlig blind und unwissend wenn es um die kommenden DLCs geht, es stimmt das ich außer ein wenig Marketing auf Twitter aber tatsächlich relativ wenig mit bekommen. Eine der Sachen die ich aber mit geschnitten habe war das es wohl ein Kartenspiel im Spiel jetzt gibt. Warum man das unbedingt braucht ist mir übrigens nicht ganz klar. Aber es gehört halt dazu und jetzt gucken wir uns das halt an, schon damit nicht andauernd eine unerledigte Quest im Interface herumliegt. Also gehen wir heute zum lokalen Hasardierverein, meines Eindruckes nach auch nur ein halbgarer Name um irgendwie die eigene Spielsucht schön zu reden. Das Spiel selbst erinnert mich auf den ersten Blick an Dominion aber ich habe mal wieder absolut keine Ahnung. Immerhin scheint es über eine gewisse Tiefe zu verfügen, Genaueres kann ich nach einer Runde Tutorial aber noch nicht sagen und ich ahne und befürchte das es auch nicht zu all zu viel mehr kommen wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 19.06.2022 - #1660 - ##13 - S2
+  ```
+
+##### #1661
+
+* Titel: `Let's Play ESO #1661 ##14 - Vollrauschkommando Rigurt [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 14 des High-Isle DLCs - Sitzung 2 
+  
+  Wir sind dann auch quasi fertig mit dem Austesten von irgendwelchen Features um die nie jemand gebeten hat. Obwohl, wie ich noch einmal anmerken möchte, das Spiel selbst irgendwie solide aussieht und zumindest auf den ersten Blick nicht den Anschein hatte das es ein schnelles Cash-Grab war. Wie dem aber auch sei, für solche Dinge habe ich einfach keine Zeit. Ich rede tatsächlich noch mit ein paar Personen die hier so rumstanden. Eventuell gibt es hier sogar noch eine Quest, aber ich fürchte ich werde das große Yugi-Oh Turnier nicht gewinnen weil ich halt nicht teilnehme. Zurück auf Nirn finden wir auch ein paar weltliche Probleme vor, und einen ehemaligen Kulturattachee der Nord. Der ist übrigens nur deswegen ehemalig weil man wohl keine Kultur nach Hochinsel exportieren möchte und unseren besten Mann der Norddiplomatie stattdessen in anderer Funktion einsetzte. Ich darf also vorstellen: Vollrauschkommando Rigurt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 15.06.2022 - #1659 - ##14 - S2
+  ```
+
+##### #1662
+
+* Titel: `Let's Play ESO #1662 ##15 - Wunderdelegierter Rigurt [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 15 des High-Isle DLCs - Sitzung 2 
+  
+  Als diplomatischer Vertreter in der Welt unterwegs zu sein kann bestimmt ziemlich spannend sein, und man kommt in der Regel relativ viel rum oder sieht viel von einem anderen Land. Allerdings kann ich mir vorstellen das es als westliche Nation nicht all zu viele Länder gibt in denen man wirklich Botschafter vor Ort sein will. Aber wenn man aus einem ärmeren Land kommt ist die Aufgabe bestimmt ziemlich spannend. Aber wohl auch ziemlich wichtig, natürlich ist es dann schlecht wenn man seinen 2ten Cousin schickt weil man seinen Vater ein hohes Amt versprochen hat. In der Regel gibt es bei Vetternwirtschaft ja diesen Punkt wo das fähige Personal in der Familie ziemlich schnell erschöpft ist aber auch andere Verwandte mitmachen wollen die eigentlich nicht geeinigt sind. Diese Ausrede hat Rigurt aber absolut nicht. Wirklich, mir ist ein Rätsel warum der Mann noch in seiner Position unterwegs ist. Mit wem ist er verwandt, wen erpresst er? Oder sieht es von Außen aus wie eine lange Reihe von Erfolgserlebnissen weil wir immer zufällig an wichtigen Punkten anwesend waren? Diese Elfe hier ist verwirrt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 19.06.2022 - #1662 - ##15 - S2
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -6562,3 +6659,4 @@
   Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
   Aufnahme vom 14.06.2022 - #1655 - ##8 - S2
   ```
+

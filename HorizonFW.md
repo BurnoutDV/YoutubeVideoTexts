@@ -1595,6 +1595,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #103
+
+* Titel: `Horizon Forbidden West - #103 - die Arena [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Uns fehlt noch so ein wenig Loot. Das liegt daran das wir die örtliche Arena noch  gar nicht behandelt haben. Anscheinend ein Ort an dem sich die großen Tenakth in der Streitkunst messen. Es ist ein wenig lächerlich das nicht einmal ansatzweise erklärt werden kann wie so große Mengen an Bestien in die Arena gelockt werden können. Insbesondere wenn man sich anschaut wie ziemlich viele von den Robotern in der Lage sind durch Boden wie durch Butter zu graben. Wie genau hält man die Viecher also drinnen? Von allem was wir so gesehen haben scheinen sich die einzelnen Wesen ja nicht grade vor dem Tod zu fürchten oder irgendwie beeindrucken lassen. Also was ist das Geheimniss der Tenakth? Sind die Maschinen nur besonders aggressiv Aloy gegenüber? Ich weiß es nicht. Und wie lange genau geht diese Tradition eigentlich? Die Maschinen sind offensichtlich erst seit ca. 20 Jahren so wie sie sind, war es vorher überhaupt möglich gegen Maschinen zu kämpfen oder haben sie sich einfach zerlegen lassen? Gab es die Maschinen mit guten Waffen schon vorher oder war es alles Graser und Pflughörner?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 14.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #104
+
+* Titel: `Horizon Forbidden West - #104 - die Musik im Metall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich kümmere ich mich heute nicht nur um die Zutaten für ein Musikinstrument das irgendwie einen blinden Tenakth dabei helfen kann wieder Freude im Leben zu helfen. Tatsächlich machen wir die meiste Episode eigentlich etwas total Anderes. Ich habe sogar schöne Screenshots geschossen zwischenzeitlich aber eigentlich ist die große Quest mit dem Langbein das ein wenig anders klingt das zentrale Stück in der Episode. Das alles ist ein wenig komisch, warum klingt ein Langbein anders als die Anderen? Hat HEPHAESTUS andere Fertigungsmethoden eingeführt, experimentiert er live in der Praxis und schickt verschiedene Arten von Robotern in die Welt um dann mit A/B Tests zu schauen wie die Menschen darauf reagieren? Psychologische Kriegsführung ist bestimmt kein Konzept das ohne das Wissen von Apollo so leicht durchzuführen ist. Ärgerlicherweise verbuggt mir dann die Quest. Die gute Nachricht ist aber das ich das Ganze zu einem späteren Zeitpunkt noch gerettet kriege. Aber hey, wir haben immerhin heute auch noch einmal anderweitig Angst. Wir gehen noch einmal fliegen, auch wenn eine Ballonfahrt in einer Welt in der große Monster durch die Lüfte fliegen eher wenig klug erscheint.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 14.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -6635,6 +6635,33 @@
   Aufnahme vom 19.06.2022 - #1662 - ##15 - S2
   ```
 
+##### #1663
+
+* Titel: `Let's Play ESO #1663 ##16 - ein berauschender Trunk [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 16 des High-Isle DLCs - Sitzung 2 
+  
+  Wir sind wieder zurück in der Zeit der langweiligen Fetchquests. Erinnert ihr euch noch damals als ich in den einzelnen Reichen angefangen habe an Missionen vorbei zu rennen weil sich Dinge doch ein wenig zusehr nach langweiligen "Besorge mir 10 Felle" angehört haben? Nun, es wurde ja gesagt das es jetzt ein wenig kleiner wird und nicht mehr Wesen die gesamte Realität bedrohen. Das bedeutet aber anscheinend auch das es wieder langweilige Quest gibt die einfach nur dazu da sind damit wir genug gemacht haben. So richtig was passieren tut auf jeden Fall nicht hier.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 19.06.2022 - #1663 - ##16 - S2
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

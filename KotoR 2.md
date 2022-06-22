@@ -2274,3 +2274,29 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Sitzung 21, Aufnahme vom 16.06.2022
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
+
+##### #143
+
+* Titel: `KotOR 2 - #143 - Hundert Leben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute töten wir Darth Sion, das hätten wir eigentlich gar nicht tun müssen weil er ist bereits tot. Einmal sogar durch unserer eigenen Hand und so wie es aussieht hatten auch schon andere Leute durchaus einen Anteil daran die alte Sith Leiche über den Jordan zu tragen. Ärgerlicherweise hilft ihm wohl die Macht dabei wieder zurück zu schwimmen. Es ist schon ein wenig asymmetrisch wie die dunkle Seite ihren größten Trägern dabei hilft immer länger zu leben und weiter zu machen während die helle Seite der Macht maximal Macht-Geister anzubieten hat die eigentlich so gut wie nie in die Geschicke der Welt eingreift. Obwohl auch nicht so recht bekannt ist inwiefern Reinkarnation Kanon ist. Bzw. ich habe mich überhaupt nicht informiert. So richtig tröstlich ist es aber auch nicht zu reinkarnieren wenn man keine Erinnerungen behält, und wenn doch wirkt man wahrscheinlich ein wenig irre. Auch verwirrend wenn man den ganzen Teil des Aufwachsens noch einmal tun muss. Hoffen wir das Darth Sion auch tot bleibt, ich habe mir allerdings sagen lassen das es noch ein weiteres Geheimnis gegeben hätte das Ganze ein wenig schneller zu beenden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 21, Aufnahme vom 16.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

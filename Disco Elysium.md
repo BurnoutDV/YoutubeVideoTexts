@@ -1183,6 +1183,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #79
+
+* Titel: `Disco Elysium - #79 - Schauder im Regen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollte ich sofort mit Harry losspringen und Dinge tun die irgendwie wichtig sind um vielleicht doch noch heute unseren großen Mordfall weiter aufzuklären. Aber dann sind leider Dinge geschehen und jetzt stehen wir hier und lauschen einfach in den Regen. Generell und überhaupt ist das Wetter ein wenig komisch und ändert sich all paar Minuten schon ziemlich. Aber dafür haben wir ja einen sechsten Sinn der es uns erlaubt in die Stille um uns herum zu horchen und wahr zu nehmen was hier alles passiert, auch wenn wir gar nicht sehen können was weit über den Horizont liegt. Und so stellen wir uns einen abgehalfterten Cop vor wie er im Regen steht, sein Kollege schaut ihn argwöhnisch an und er schaut einfach nur in den Himmel und neigt den Kopf dabei leicht verzückt. Was wohl ein Mensch wie Kim Kitsuragi sich dabei denkt? Kennt er solche Marotten bereits schon von anderen Leuten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 20.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

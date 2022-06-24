@@ -6652,14 +6652,21 @@
   Aufnahme vom 19.06.2022 - #1663 - ##16 - S2
   ```
 
-##### #Nummer
+##### #1664
 
-* Titel: ``
+* Titel: `Let's Play ESO #1664 ##17 - ein experimenteller Frieden [Hochinsel]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 17 des High-Isle DLCs - Sitzung 3 
+  
+  Heute betreten wir zum ersten Mal das Herrenhaus der Standhaften. Auf keinen Fall handelt es sich um den einzigen medizinischen Ort auf der gesamten Hochinsel und wir waren auch auf keinen Fall aus anderen Gründen bereits hier. Stattdessen besuchen wir dieses halbe Lazarett zum ersten Mal. Von einem Krankenhaus kann wohl nicht so richtig die Rede sein weil die medizinische Forschung auch nach mehren tausenden von Jahren Kultur immer noch in ihren Kinderschuhen steckt. Die Idee des Ortes hier ist aber die das man die Soldaten der verschiedenen Nationen den gegenseitigen Hass austreibt in dem man sie zusammen genesen lässt. Wir ignorieren diese absolut lächerliche und völlig an den Haaren vorbeigezogene Prämissen komplett. Soldaten hassen sich selten gegenseitig, Nationen kämpfen gegeneinander, nicht einzelne Personen. Das ist gefühlt das Gedankenniveau von Sechsjährigen, die Leute führen kein Krieg weil sie sich gegenseitig nicht verstehen. Gegen Dinge wie Alltagsrassismus könnte man hier vielleicht eine Menge tun, aber für das aktuelle Problem, den Krieg von reichen und Mächtigen um mehr Land und Einfluss, ist diese Maßnahme außerordentlich seltsam. Das gesagt, bleibt es dennoch sehr spannend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 24.06.2022 - #1664 - ##17 - S3
   ```
 
 ##### #Nummer

@@ -2291,12 +2291,18 @@ ebon hawk,jedi,peragus,t3-m4,harbinger,telos,kreia,tauschhändler,exchange,atton
   Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```
 
-##### #Nummer
+##### #144
 
-* Titel: ``
+* Titel: `KotOR 2 - #144 - Trayuskern [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und da sind wir, im tiefsten Kern des Planeten, dort wo Darth Traya auf uns wartet, meiner Meinung übrigens ein ganz flaches Wortspiel auf Betrayer, aber was weiß ich schon. Ich muss jetzt übrigens wirklich zugeben das ich am Ende nicht mehr so ganz mit gekommen bin was die eigentliche Geschichte angeht. Alles in Allem erscheinen die einzelnen Stränge ein wenig wirr und es kommt mir so vor als hätte ich einem entscheidenden Moment nicht zugehört. Also die Sachlage ist wohl irgendwie die das unser Held die Macht als Solches verschlingen kann und das ist etwas das Traya möchte bzw. nutzen will. Malachor V war aber vorher schon irgendwie komisch und letztendlich gibt es irgendwie große Pläne im Hintergrund. Fest steht das Traya die Macht nicht besonders leiden kann diese aber ganz gerne als Vehikel nimmt. Wir haben die Macht aufgegeben, sie wurde von ihr getrennt. Anscheinend geht man aus einer solchen Geschichte gestärkt hervor. Auch scheint die Verbindung die wir zu ihr hatten irgendwie keine Rolle mehr zu spielen und ist jetzt nebensächlich, andernfalls hätten wir Traya ja viel einfacher aufhalten können. Wovon wir sie aufhalten ist auch nicht so ganz klar, was unsere Begleiter jetzt genau getan haben ist auf jeden Fall unbekannt, ihr Training war scheinbar völlig sinnfrei. Das dann noch diverse Sachen behaupten werden die wir überhaupt nicht gemacht haben ist ein wenig sehr komisch. Auch ist die ganze Geschichte mit G0t0, Bao-Dur und HK47 jetzt nicht so richtig aufgeklärt. Das HK eine Fabrik gesprengt hat erfährt unser Held ja quasi nicht und wir müssen uns vorstellen das dadurch das die Welt irgendwie besser geworden ist. Immerhin gibt es nach dem großen Endkampf noch ein paar Ausblicke was wohl aus unseren Helden wird. Und doch habe ich nicht das Gefühl das die Schicksale unser Begleiter richtig aufgearbeitet wurden. Was auch immer ist, für den Moment sind wir hier fertig. KotOR2 wirkt wie ein ungeschliffener Diamant bei dem besonders am Ende Einiges zu fehlen scheint. Witzigerweise kam wenige Stunden nach der Aufnahme die Ankündigung das es hier wohl eine Überarbeitung geben wird. Wenn das irgendwann einmal passiert ist kann man sich ja überlegen das Spiel noch einmal anzufassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17 - 20 Uhr
+  KotoR 2 bzw. Nostalgiespiele sind auf Donnerstags geplant.
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOBvDPqoRxpgxAajdAKo88B
+  Sitzung 21, Aufnahme vom 16.06.2022
+  Mods nach Liste: https://old.reddit.com/r/kotor/wiki/kotor2modbuildspoilerfree
   ```

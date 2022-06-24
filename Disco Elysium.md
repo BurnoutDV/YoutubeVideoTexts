@@ -1198,6 +1198,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #80
+
+* Titel: `Disco Elysium - #80 - Ultrareicher Lichtbrecher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ja ein wenig den Verdacht das unser bester Freund Harry die Realität ein wenig anders wahrnimmt als es zum Beispiel Kim tut. Aber wir wissen ja bereits das die vielen inneren Teile von Kim nicht mit ihm reden, in seinem Fall scheint alles genau so zu sein wie es ist. Das steht ihm bestimmt oft im Weg wenn er Skillchecks machen möchte, weil er hat ja nur die Fähigkeiten die er tatsächlich hat während wir bei jeder Gelegenheit die Würfel rollen lassen können. Das hilft recht gut in vielerlei Situationen, außerdem ermöglicht es uns das Vermögen einer Person zu sehen. Zumindest wenn diese Person soviel reicher ist als wir es sind. Ob sich wohl etwas an unserer Wahrnehmung des Mannes ändern würde wenn wir ein paar Milliarden auf dem Konto hätten? Aber wie genau funktioniert das überhaupt? Letztendlich hat der Lichtbrecher ja nicht besonders viel Geld bei sich sondern wahrscheinlich einen Großteil in Immobilien, Firmen und anderen Anlagen angelegt, andernfalls wäre es wohl ein wirklich lohnenswertes Ziel. Wie dem aber auch sei, der Mann bricht Licht und bringt auch ein wenig Wissen mit sich das wir anzapfen können. Es fragt sich aber wie genau der Mann eigentlich seine täglichen Geschäfte vollbringt. Oder lebt er in einem Status der verlangsamten Zeit weil sein Reichtum die Realität auch in anderen Sinne biegt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 20.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #81
+
+* Titel: `Disco Elysium - #81 - sozialdemokratischer Zwischenbericht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind mal wieder bei unserem besten Freund dem Gewerkschaftsführer der wild mit Geldscheinen um sich wirft. Ich finde das übrigens sehr irritierend, wenn er wenigstens größere Geldmittel hätte, sagen wir einmal tausend Real Scheine oder irgendetwas in der Höhe. Aber nein, stattdessen beleidigt er uns mit Taschengeld das wir uns auch grade so noch mit ein wenig Flaschensammeln verdienen können. Ich weiß wirklich nicht was das soll. Und wir merken außerdem das wir langsam aber sich zu Sinnen kommen, weil jetzt sind wir in der Lage zu bemerken das der gute Evrart eigentlich gar nichts so richtig über uns weiß. Klar, er nennt uns immer wieder bei unserem kompletten Namen aber so wie es aussieht ist seine Datenlage nicht ganz so gut wie man ursprünglich erwartet hatte. Damit zerfällt übrigens auch ein wenig das Bild des ziemlich mächtigen Mafiabosses.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 20.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

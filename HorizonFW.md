@@ -1625,6 +1625,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #105
+
+* Titel: `Horizon Forbidden West - #105 - der Stock [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen bei Burnouts verwirrende Episodentitel. Der Sachverhalt ist wie folgt. Wir sind heute natürlich nicht die ganze Zeit damit beschäftigt irgendwelche vertrockneten Holzstöcke zu sammeln oder irgendetwas Anderes mit Holz zu tun wenn wir doch einen hervorragenden Speer besitzen der in seiner Handwerkskunst durchaus keine Konkurrenz fürchten muss. Stattdessen besuchen wir ein Rebellenlager mit gleichen Namen. Als wir neulich wichtige Daten über die Söhne des Prometheus gefunden haben wurde ich ja durchaus ein wenig neugierig. Damals, im ersten Teil gab es auch Banditenlager, aber die waren in ihrer Gesamtheit ziemlich langweilig und außer ein paar kurzweilige Schleich und Meuchelaktionen gab es da nichts zu holen. Wenn man hier aber ein wenig Geschichte abholen kann bin ich plötzlich sehr viel motivierter einige dieser Lager aus zu heben. Das Lager um das es heute geht heißt daher "Der Stock", kein besonders spannender Name und die Frage steht auch immer noch im Raum: Wer benennt die Dinger. Aber ich nehme einmal an das sich Aloy diese Dinge sowieso nur einfach ausdenkt, insbesondere wenn sie absolut keine Referenz zu irgendetwas hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 21.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #106
+
+* Titel: `Horizon Forbidden West - #106 - Rebellen-Außenposten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir nicht ganz sicher warum sie eigentlich die "Rebellen" heißen. Regallas Gefolgsleute sind, in vielerlei Hinsicht mehr organisiert als die eigentlich Tenakth, man könnte fast von einer anderen Kultur reden. Quasi Neo-Tenakth, eine neue Kultur die sich von der ursprünglichen abgespalten hat. Letztendlich spielt es wohl keine Rolle wie man sie wohl nennt, am Ende des Tages sind die alle tot. Das liegt wohl dann an Aloy die die diversen Lager besucht und Tot und Verderben seht. Ich finde das alles ist irgendwie ein wenig unpassend zu dem was Aloy sonst so tut. Andererseits kann man wahrscheinlich nicht davon ausgehen das sie den selben Anspruch an den Wert des menschlichen Lebens hat als die von mir. Und doch, es wirkt komisch Aloy dabei zu sehen wie sie Menschen absticht, und nicht Roboter. Ludonarrative Dissonanz?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 21.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

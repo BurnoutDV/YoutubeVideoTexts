@@ -6669,6 +6669,91 @@
   Aufnahme vom 24.06.2022 - #1664 - ##17 - S3
   ```
 
+##### #1665
+
+* Titel: `Let's Play ESO #1665 ##18 - ein mysteriöses Leiden [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 18 des High-Isle DLCs - Sitzung 3 
+  
+  Wir sind also im ehemaligen Anwesen jetzt Proto-Krankenhaus in dem anscheinend diejenigen verarztetet werden die im Krieg schwer verletzt wurden. Ich vermute das auch einige von ihnen nicht nur körperliche sondern auch seelische Narben davon getragen haben. Und doch, das was die Patienten jetzt haben scheint ein wenig anders zu sein als das was man vom Krieg mitgenommen hat. Ich mag diese Quest übrigens sehr, es ist absolut nicht klar was genau hier vorliegt, es gibt diverse Spuren die in verschiedene Richtung weisen und nicht alles ist sofort klar. Wenn man sich im Nachhinein anschaut um was es geht waren die Zeichen natürlich ziemlich klar, das die Lösung am Ende dann ein wenig Deus Ex Machina ist mindert das Erlebnis aber kaum. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 24.06.2022 - #1665 - ##18 - S3
+  ```
+
+##### #1666
+
+* Titel: `Let's Play ESO #1666 ##19 - Seraphynes Kuss [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 19 des High-Isle DLCs - Sitzung 3 
+  
+  Und dann kam es dann doch plötzlich ganz anders. Es ist wohl durchaus davon auszugehen das andere Leute bestimmt schon richtig geraten haben was die Ursache der seltsamen Krankheit hier im Herrenhaus der Standhaften war, aber ich lag definitiv falsch. Einige inkonsistente Dinge sind mir aber schon aufgefallen. Das man Blut zur Heilung nutzen kann ist mir ehrlich gesagt neu. Es gibt eine Serie namens True Blood in dem der lokale Vampirismus etwas radikaler ist, Sonnenlicht ist da ein großes Ding (aber nicht UV-Licht) allerdings können die Vampire auch Menschen mit ihren Blut heilen, mit einigen Nebeneffekten. Die gleiche Welt verfügt außerdem über Feen und anderen witzigen Wesen die herumlaufen. Das Ganze spielt dann auch noch irgendwo in der Provinz von Amerika was dem Ganzen einen gewissen Charm gibt. Aber in dieser Welt sind wir nicht, stattdessen befinden wir uns immer noch auf den hohen Inseln. Aber ich möchte mich nicht zu sehr beschweren, insgesamt erscheint die Motivation unseres Lokalbösewicht eigentlich plausibel und das Handeln erst einmal nachvollziehbar, vielleicht nicht moralisch vertretbar, aber nachvollziehbar.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 24.06.2022 - #1666 - ##19 - S3
+  ```
+
+##### #1667
+
+* Titel: `Let's Play ESO #1667 ##20 - der Fluch aller Flaggen [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 20 des High-Isle DLCs - Sitzung 3 
+  
+  Vor echt langer Zeit gab es einmal die Flotte aller Flaggen. Logischerweise finden wir deswegen auch das Eiland aller Flaggen auf dem eine Art Museum steht um diese Flotte und alle Leute die mit gefahren sind zu würdigen. So richtig klar ist übrigens immer noch nicht ob die Kreken wirklich an der thrassischen Pest schuld waren oder ob man sich nur gedacht hat das man eine entfernte Insel versenken könnte. Das wirft ein gewisses moralisches Licht auf die gesamte Geschichte die wir aber nicht weiter beachten wollen. Geschichte wird schließlich von den Gewinnern geschrieben. Aber passend zum Eiland gibt es übrigens auch einen Fluch aller Flaggen. Ist es nicht schön wenn alles so schön "on-brand" ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 24.06.2022 - #1667 - ##20 - S3
+  ```
+
+##### #1668
+
+* Titel: `Let's Play ESO #1668 ##21 - Renwic Moorfelds Andenken [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 21 des High-Isle DLCs - Sitzung 3 
+  
+  Man sagt das eine Person drei Tode stirbt, physisch, dann in den Gedanken der Personen den dieser jemand kannte und dann das letzte Mal wenn die letzte Tat ausläuft, das letzte geschwungene Rat ausläuft und die letzte Spur im Sand verweht wird. Astronauten die auf dem Mond waren haben ziemlich viel Unsterblichkeit vor sich. Auf Tamriel bzw. Nirn ist das alles nicht so ganz einfach. Manche Leute werden vergessen und werden jemand Anderes, die Person die sie einst bewohnt haben hört auf zu existieren und etwas Neues fängt an. Andere bleiben Legenden und bestehen viel länger fort. Aber auch normalen Sterblichen kann ein Andenken gewährt werden. Umso schlimmer ist es dann wenn jemand Anderes der Meinung ist das man ein Andenken auslöschen möchte. Und hier könnte es auch wieder politisch werden, die Vergangenheit nicht zu vergessen ist eine wichtige Sache. Etwas das Kindern im Geschichtsunterricht viel zu selten beigebracht wird, oder das Konzept selbst nicht erwähnt wird. Geschichte ist wichtig, auch die die unwichtig erscheint. Und besonders dann wenn man ein verfluchter Geist ist der nicht eher ruhen kann ehe sein Name wieder auf einer Plakete steht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 24.06.2022 - #1668 - ##21 - S3
+  ```
+
+##### #1669
+
+* Titel: `Let's Play ESO #1669 ##22 - Leute von Bedeutung [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 22 des High-Isle DLCs - Sitzung 3 
+  
+  Die einfachen Leute zählen nichts, egal ob Elf, Mensch oder Tierrasse. Letztendlich spielt es für die Mächtigen der Welt keine Rolle was man ist, welche Geschichte einen antreibt oder wie man lebt. Wichtig ist nur das man in einen Konflikt eine Spielfigur darstellt die verheizt werden kann. Ein reiner numerischer Wert, ein Wert über dessen Minderung man sein Bedauernd von hohen Balkonen aussprechen kann..um dann im Folgesatz über die großen Errungenschaften zu schwadronieren. Aber die Individuen die Genullt werden sehen das wesentlich anders. Manchen mag es egal sein, Anderen ist es wichtig. Dritte interessiert das große Spiel vielleicht überhaupt aber sind dennoch willens vom Spiel zu profitieren. Das kann funktionieren wenn man die eigene Interaktion auf ein Minimum beschränkt. Letztendlich fliegt man aber immer blind, alles ist so groß und komplex das nur Glück dabei helfen kann Untiefen zu umschiffen. Eine Tatsache über die auch ein Hafenmeister bestens Bescheid wissen sollte. Sie sagen er habe aus Gier gehandelt, aber stimmt das? Heute werfen wir ein paar Informationen zusammen um dann herauszufinden das es an jeder Ecke Verräter gibt. Wenn kann man noch trauen? Der Person die es nicht für nötig hielt ein Spionagenetzwerk zu etablieren? Ich sollte nach einer Gehaltserhöhung fragen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 28.06.2022 - #1669 - ##22 - S3
+  ```
+
 ##### #Nummer
 
 * Titel: ``

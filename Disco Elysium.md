@@ -1228,6 +1228,81 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #82
+
+* Titel: `Disco Elysium - #82 - kapitalistische Freiheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Disco Elysium greift verschiedene Themen auf. So werden Drogensucht und generell der Konsum von allen möglichen Mitteln nicht gerade selten erwähnt. Aber auch soziale Themen wie Armut bleiben nicht im Hintertreffen. Und natürlich reden wir auch über verschiedene Systeme. Die Moralintere erinnert schon ein wenig an die EU und viele Aspekte der Welt finden irgendwo ihr Equivalent, alle zu erkennen würde wahrscheinlich wesentlich tiefere Erkenntnisse verlange als ich si habe, aber einige Dinge kann ich sehen. Evrart hat uns mehrfach versucht zu bestechen, nicht bei allen Leuten wählt er dieses Vorgehen, scheinbar verfügt er auch einfach nicht über genügend Geld. Stattdessen versucht er so oft wie es geht die Schwächeren hereinzulegen und auf Glatteis zu führen. Wir als Agent der Moralinternen sind doch bestimmt verpflichtet in solchen Fällen einzugreifen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 20.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #83
+
+* Titel: `Disco Elysium - #83 - kryptozoologischer Fortschritt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Du dachtest Harry ist fertig mit der Kryptozoologie? Mitnichten, ein Harrier du Bois lässt sich doch durch so einfache Dinge wie Fakten und die völlige Abwesenheit von Tatsachen ablenken, wir reiten den Zug weiter. Das und weil es Erfahrungspunkte gibt die wir vielleicht doch noch in Autorität investieren sollten damit wir dann in der Lage sind einen gewissen Bandenführer einmal zu erklären wie die Sachlage ausschaut. Aber bis es soweit ist müssen wir wohl einen kleinen Jungen auf Speed manipulieren und dazu bringen auf uns zu hören, kann ja eigentlich gar nicht so schwer sein oder? Desweiteren erfahren wir mehr über Phasmiden als ich jemals wissen wollte. Interessant ist aber immerhin der Augenzeugenbericht, allerdings halte ich Kinder in der Regel für nicht besonders vertrauenswürdig, insbesondere wenn man bedenkt wie weich Erinnerungen über die Zeit werden können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 20.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #84
+
+* Titel: `Disco Elysium - #84 - Phasmidenbericht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann erfahren wir noch mehr die Phasmiden und Kryptozoologie, irgendwann wird auch bald mal gut sein. Ich würde mich übrigens wesentlich besser fühlen wenn wir den Fall bereits in Sack und Tüten hätten und die ganze Nebengeschichte hier nur machen würde um unseren Täter in die Sicherheit zu wiegen das wir gar keine Gefahr darstellen, aber die traurige Realität sieht wohl so aus das wir das alles nur tun damit morgen vielleicht ein besserer Tag sein kann und ich dann neue Erkenntnisse einfahre. Wir verschwenden also ziemlich wortwörtlich unsere Zeit an trivialen Sachen damit es schneller morgen wird. Natürlich könnten wir auch einfach ins Bett gehen und warten bis es der nächste Tag ist, aber dann würden wir nie erfahren was es mit dem Grau auf sich hat, und ich habe da die Ahnung das es da noch ein paar Geheimnisse auf zu klären gibt. Selbst wenn wir vielleicht nur Triviales über die Realität erfahren wäre es das aber dennoch wert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 20.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #85
+
+* Titel: `Disco Elysium - #85 - Bebauungsplan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwische mich in letzter Zeit immer wieder wie ich in Rants über Korruption gerate. Kleine Tangente dazu, ich habe während der Hochzeit der ganzen Corona-Zeit sehr oft Familienväter, Anfang/Mitte Vierzig gesehen die am meisten abgedreht waren. Kinder unter 10 Jahre, Frau irgendwie mit bei und selbst Plakat halten oder sogar den Rucksack mit Pamphleten voll geklebt. Das ist ein bestimmter Typus, ich habe große Angst das es da ein bestimmtes Alter bei Männern gibt wo es zu solchen Dingen kommt. Und dann ist da noch die für mich so offensichtlich wahrgenommene Korruption, die Mauschelein und Absprachen in bestimmten Bereichen des Lebens die scheinbar ohne Strafe seit Jahrzehnten gefröhnt werden kann. Das macht die Welt irgendwie unsicher. Und doch, konkrete Beweise habe ich nicht. Mein größtes Problem ist das Bauwesen. Ich habe diverse Berichte von Familie und Bekannten die im Baugewerbe unterwegs sind und waren das es hier eine Menge Absprachen und komische Dinge gibt. Und doch, selbst erlebt habe ich es noch nie. Ich merke an mir selbst wie eine ungesunde Paranoia gegenüber dem Bauwesen entwickel. Aber das Ressentiment scheint nicht ganz allein zu sein. Heutiges Beispiel, ein virtueller Mafiaboss der Leute über Konstruktion abzocken möchte. Und wir sind auch noch der Steigbügelhalter! Ist das nicht fantastisch?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 20.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #86
+
+* Titel: `Disco Elysium - #86 - zerbrochene Träume [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal frage ich mich warum manche Menschen noch leben. Das ist enorm zynisch. Aber auch irgendwie wahr. Einige Leute haben ihre Religion die ihnen quasi verbietet eine schnelle Abkürzung zu nehmen. Aber Andere sind anscheinend nicht so religiös, und doch erzählen sie davon das ihnen nichts mehr Spaß macht und keinen Sinn ergibt. Und doch machen sie weiter, ich glaube das diese Leute durchaus noch das Leben schätzen, aber halt gerne meckern. Die überwiegende Mehrheit hat aber irgendwie einen Sinn im Leben gefunden, eine Mission, etwas das sie Anderen gegenüber verpflichtet. Pflege, Mitgefühl, das Verlangen die Welt doch noch irgendwie ein wenig besser zu machen. Wieder andere haben einen Kindheitstraum, eine Vision die sie unbedingt in der Realität sehen wollen. Zum Beispiel irgendwelche mysteriösen Insekten zu entdecken. Und wieder andere lassen irgendwann ihre Träume sterben weil die grausame Realität das Unterfangen einfach zu unmöglich macht. Eventuell sind wir heute der Überbringer einer grausamen Realität, zu viel Stimme der Wahrheit gewesen. Ich fühle mich deswegen schlecht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 27.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

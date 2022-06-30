@@ -1655,6 +1655,81 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #107
+
+* Titel: `Horizon Forbidden West - #107 - Spuren der Prometheus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann an dieser Stelle schon einmal spoilern das wir nicht herausfinden wo der Name der Söhne des Prometheus herkommt. Wir dürfen wohl weiterhin vermuten das es entweder Far Zenith oder Sylens war, aber wo der diesen Namen her hat ist dann auch nicht ganz klar. Zur Erinnerung, Prometheus war der Kerl der den Göttern das Feuer gestohlen hat und zur Strafe an einem Stein gekettet wurde wo ihm ein großer Falke jeden Tag aufs Neue die Leber raus gehackt hat..oder immer noch tut? Man rette den Mann! Das Feuer ist natürlich eine Metapher für die Selbsterkenntnis, Vergleichbares findet man auch in der christlichen Religion mit dem Baum der Erkenntnis und dessen Früchte (wahrscheinlich auch eher eine Dattel, Äpfel wachsen im mittleren Osten nicht). So ganz sicher bin ich mir aber nicht welche Erkenntnisse die Söhne des Prometheus bis jetzt erlangt haben, klar sie nutzen alte Welt Technik bzw. auch neue Welt Dinge wie Maschinenwaffen, aber damit sind sie nun wirklich keine Vorreiter. Der Einsatz von Kommunikation und Foki ist hingegegen schon ein wenig neuer, wieviele es davon wohl noch in der Welt gibt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 21.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #108
+
+* Titel: `Horizon Forbidden West - #108 - Durchbrochener Stein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird interessanter. Vormals sah die Lage ja so aus das wir nicht so recht wussten was genau mit den Söhnen des Prometheus (warum eigentlich nur Söhne, ich habe schon ziemlich viele Frauen gesehen, die Oseram machen da einen guten Punkt das sie zuhause im Anrecht einfacher weniger sind und sich hier halt entfalten können, auch wenn das aktuell ein wenig gegen unsere Interessen geht) auf sich hat. Aber die Lage scheint sich zu verfestigen. Heute besuchen wir einen Ort namens "Durchbrochener Stein". Wir finden hier eine Bunkeranlage mit noch funktionierender Stromversorgung, soweit ich das erkennen kann gäbe es sogar noch tiefere Stockwerke, die können wir bloß einfach nicht betreten weil die Tür ein wenig Schutt vor sich hat. Am Ende zerstören wir natürlich alles, man darf sich aber schon fragen wie viele solcher Einrichtungen es noch auf der Welt gibt und wie viel länger der Strom noch läuft. Wie viel Wissen über das Leben der Menschen hier noch lauert das wir leider gezwungen sind zu zerstören. Auch zerstören tun wir die Rebellion von Regalla, Stück für Stück.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 21.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #109
+
+* Titel: `Horizon Forbidden West - #109 - die erste Schmiede [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Oseram haben ein gesellschaftliches Problem. Wir sind uns immer noch nicht ganz sicher ob Zero Dawn soweit an der Genetik herumgefummelt hat das die Muskeln von Frauen kompakter und Stärker sind, oder ob es einfach ein kultureller Effekt ist. Was wir aber wissen ist das auch die weiblichen Oseram genauso innovativ und erfinderisch (das ist doch eigentlich das gleiche Wort) sein können wie die Männer, wenn nicht sogar ein wenig mehr. Und doch sieht ihre Gesellschaft da eine klare zwei Klassengesellschaft vor, auch wenn wir bis her nichts so recht über das Anrecht und die Kultur der Oseram erfahren haben. Wahrscheinlich wäre ein Ausflug in die dortige Region auch nicht so spannend, ich stelle mir immer Zwerge vor, und man würde wohl die Hälfte der Zeit Aloy von oben herab behandeln, und das wäre ziemlich schockierend. Als Spieler. Aber die Oseram Frauen haben ja einen Ort gefunden an dem sie sein dürfen, die Rebellion von Regallah, zu unserem Unvergnügen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 21.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #110
+
+* Titel: `Horizon Forbidden West - #110 - der Geschmack des Sieges [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bisher hat sich Horizon wirklich sehr damit zurückgehalten uns irgendwie durch die Welt zu schicken und sinnlose Dinge zu sammeln. Heute ist es dann doch einmal soweit und wir tun genau das. Eigentlich müssen wir übrigens nur ein paar Gänseeier sammeln und dann ist die gesamte Geschichte schon durch. Aus irgendwelchen Gründen hassen Tenakth Dinge zu essen die sie nicht blutig über den Jordan gebracht haben, insofern er noch existiert. Davon einmal abgesehen sind wir heute ein wenig Offroad unterwegs und schauen uns einfach die Welt ist. Man nennt das Ganze wohl Environmental Storytelling. Eine hohe Kunst, viele Spiele tun gerne im Namen des Game-Loops das Gegenteil. Völlig unlogische Orte werden erschaffen, der Klassiker sind Gebäude ohne Badezimmer, im Spielkontext erfüllen die halt einfach wenig Sinn. Und zuletzt finden wir sogar noch ein bisschen Klatsch über eine der Zeniths. Ein guter Tag.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 21.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #111
+
+* Titel: `Horizon Forbidden West - #111 - Im Nebel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin nicht etwas davon entfernt den Schreiber der Welt Inkonsistenz vorzuwerfen, einfach weil ich mir selbst nicht sicher bin. Als wir damals mit Aloy in der Zero Dawn Anlage bzw. eigentlich in Sonnenfall waren, dem Ort an dem GAIA entwickelt wurde, da fanden wir dort einige Datein die über die Arbeit sprachen. Wie die Proben aus der gesamten Welt gesammelt wurden und das menschliche Genom gesichert wurde. Irgendwo dort wurde auch das Leuchtturmprotokoll und die Veränderung des Erbgutes besprochen. Einer der Punkte war es auch das Erbgut zu verbessern, Gattaka ähnlich, aber man erreicht keinen gemeinsamen Konsensus. Was man aber tat war Erbkrankheiten zu entfernen, anscheinend war die Technik weit genug fortgeschritten das man sich sicher genug war das man genau das Richtige tut. Gedächtnisverlust mit dem Alter, Demenzerscheinungen und Alzheimer liegen irgendwo auf den Genen bzw. haben Trigger die aber wieder auf die Gene zurückliegen. Ich weiß persönlich grade nicht genau wo der Stand der Forschung steht. Auf jeden Fall sollte diese Defekte nicht vorliegen. Die Menschen existieren, wenn ich mich recht erinnere, seit ungefähr 300 Jahren, zu wenig Zeit um ernsthafte Schäden davongetragen zu haben. Und doch, der Aufhänger der heutigen Episode ist ein alter Mann der im Nebel seiner Erinnerungen ist. Hat es etwas mit den Farben zu tun den sich die Tenakth auf die Haut schmieren? Schwermetallanreicherung? Es wird leider nicht weiter erklärt, nur das es etwas ist das manchmal bei Kaplanen auftritt. Das ist sehr schade, und möglicherweise inkosistent.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 21.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

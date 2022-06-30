@@ -1303,6 +1303,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #87
+
+* Titel: `Disco Elysium - #87 - Klassje Amandou [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man trifft sich immer zweimal im Leben, sagt man zumindest, und wenn man sich anschaut unter welchen Bedingungen und Ereignissen man Leuten begegnet möchte ich das fast glauben. Und doch macht mich der Gedanke melancholisch. Nehmen wir einmal an es eine unumstößliche Wahrheit ist und man wirklich jede Person die man einmal trifft noch ein zweites Mal trifft. Wie wird das gezählt? Fäßt man das in Blöcken zusammen, oder ist nur eine zweite Begegnung irgendeiner Art garantiert und alles danach ist völlig offen. Oder gibt es da Mindestabstände. Ist es das Zweitere gibt es einige Menschen bei denen ich traurig bin das ich das zweite Mal bereits hinter mir habe. Und auch bin ich gespannt wie ich andere Leute wieder treffen werden. Wo werden sie auftauchen? Aber was zählt als Treffen, wirklich treffen und reden oder nur am gleichen Ort sein? Wer weiß, vielleicht bin ich so mancher Person schon quasi über den Weg gelaufen, nur wenige Minuten getrennt von einander. Ob ich diesen Gedanken mag. Heute trifft Harrier jemanden wieder, Klassje, wir erinnern uns, Miss Oranje Disco Dancer, ganz vom Anfang. Sie stand rauchend am Geländer, aber warum?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 27.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

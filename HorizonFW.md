@@ -1730,6 +1730,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #112
+
+* Titel: `Horizon Forbidden West - #112 - Danurs Beuteverträge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wieder einmal Zeit für eine Beutevertragsquests. Dieses Mal aber auch die Letzte. Das weiß ich weil ich ja sehen kann wie viele Beutevertragstexte es noch so gibt und die die wir heute machen sind dann die letzten. Es geht natürlich wieder einmal darum eine Rüstung zu erstellen, Teile zu sammeln und eventuell vielleichta auch darum zu erfahren wer am besten die Oseramgruppe führen kann. Im Allgemeinen möchte ich übrigens sagen das die Durchhaltekraft der Oseram wirklich bemerkenswert ist. Tief im unbekannten Land, umgeben von tödlichen Maschinen, Regallas Rebellen an jeder Ecke und voller Bedrohungen, der Anführer tot, und doch, sie machen weiter. Dieser Lebenswille und die Bereitschaft den Weg immer weiter zu gehen ist schon ziemlich beeindruckend. Ich frage mich allerdings wie lange man wirklich gebraucht hat bis hier her zu reisen, wie viele Wochen mussten die Oseram mit ihren schweren Wagen durch die Welt ziehen? Wie lange es auch war, jetzt ist die schnelle Aloy da und erledigt schnell alle Probleme. Und wir lernen etwas Neues, bestimmte Gegner können andere Buffen. Das habe ich zwar schon gesehen aber nicht 1 und 1 zusammen gezählt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 22.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #113
+
+* Titel: `Horizon Forbidden West - #113 - die beste Weste im Westen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lange und weit waren wir unterwegs, haben allen Expeditionen von Keruf geholfen, haben Maschinen erledigt und die Arbeit von 100 Oseram Meisterjägern erledigt, das alles für ein großes Ziel. Wir waren auf der Jagd nach der ultimativen Weste, eine Rüstung die ihres Gleichen sucht. Dafür war es mir natürlich nicht zu schade auch ein wenig zu verhandeln. Stellt sich doch glatt heraus das der gute Keruf nicht der fairste aller Geschäftsleute ist. Zum Glück ist die Androhung von Gewalt ein probates Mittel um bessere Verhandlungsgrundlagen zu schaffen. Die Rüstung ist übrigens ziemlicher Schrott. Aloy ist einfach nicht gut im Nahkampf, und das was wir erhalten hat eine komplette Skillung die auf Tuchfühlung ausgelegt ist. Da verzichte ich doch dankend. A pro pro Tuchfühlung, es stellt sich doch glatt heraus das wir da noch ein paar schöne Missionen haben die erfordern das wir Leuten volles Pfund aufs Maul hauen, das können wir doch mal eben machen oder? Bestimmt bringt es am Ende irgendetwas.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 28.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

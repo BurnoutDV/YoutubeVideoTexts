@@ -6754,6 +6754,27 @@
   Aufnahme vom 28.06.2022 - #1669 - ##22 - S3
   ```
 
+##### #1670
+
+* Titel: `Let's Play ESO #1670 ##23 - der Hafenmeister [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 23 des High-Isle DLCs - Sitzung 3 
+  
+  Heute wird es ein wenig mehr politisch als ich das eigentlich gewollt hätte. Eventuell vielleicht verliere ich mich in einen nicht besonders faktenbasierten Rant über Korruption, ich muss allerdings sagen das es thematisch schon ein wenig passt. Oder vielleicht zu weit geht. Wie dem auch sei, es stellt sich doch glatt heraus das der Orden der Emporstrebenden durchaus über einige liquide Mittel verfügt und dadurch in der Lage war einen Hafenmeister zu bestechen. Was genau das bringen soll? Ich habe absolut keine Ahnung, aber ich bin mir sicher das die geistigen Überflieger vom Orden durchaus einen Plan haben. Es ist aber auch wahr das wir jetzt am Fall dran sind, es wird also Zeit das unsere Gegner einige offensichtlich Fehler machen die es uns ermöglichen irgendwie weiter zu kommen und unsere verlorenen Herrscher aufzutreiben. Sind ja schließlich keine Schlüsselanhänger die Leute. Da jetzt also die Zeit für Fehler ist, hier der Erste. Sie haben den Hafenmeister entführt, ihn also komplett nutzlos zu machen um dafür irgendetwas zu erfahren. Das riecht ein wenig nach Verzweiflung, aber ich spare mir solche Urteile bis wir eine solide Faktenbasis haben. Für den Moment reicht es mir über Baukorruption zu ranten.
+  
+  0:00 Gameplay
+  9:35 Sinnloser Rant
+  12:58 Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 28.06.2022 - #1670 - ##23 - S3
+  ```
+
 ##### #Nummer
 
 * Titel: ``

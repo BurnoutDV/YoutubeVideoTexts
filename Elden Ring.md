@@ -193,6 +193,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #13
+
+* Titel: `Elden Ring - #13 - fehlende Macht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alle vergangenen Dark Souls, Demon Souls und auch Bloodborne Spiele (also das eine) zeichnen sich dadurch aus das es Bereiche gibt in denen normale Gegner umherlaufen die man zwar überwinden kann aber auch einfach ignorieren könnte. Und dann gibt es da noch diese anderen Leute, diese sogenannten Bosse die man töten muss damit man bestimmte Bereiche betreten kann. Natürlich kann man immer zurück laufen und solange alte Gegner kloppen bis man stark genug ist, außer man spielt Dark Souls 2, dann kann man das halt eben nicht machen. Wir sind am Anfang dieser Episode immer noch in Caelid, aber so richtig schön ist es da nicht, also gehen wir wieder woanders hin und versuchen Margit zu legen. Der ist leider ein wenig stärker als ich das gerne hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 2, Aufnahme vom 22.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #14
+
+* Titel: `Elden Ring - #14 - an der Küste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich benenne Youtube Videos, für Spiele die enorm geschichtslastig ist sind diese Titel immer sehr zutreffend. Für andere Spiele ist es nicht ganz so einfach, man kann natürlich immer Bosse und Gegner als Grundlage für eine Aussage benutzen, aber manchmal ist man im Dazwischen. Man erkundet in allen Richtungen so ein wenig ohne wirklich irgendwo an zu kommen. Laut meinen Notizen heißt diese Episode "an der Küste". Ich habe grade mal ein wenig durchgeklickt, und wenn ich ehrlich bin, ich war maximal in der Nähe einer Klippe aber so richtig an der Küste..kaum. Fakt ist das ich umherlaufe um stärker zu werden damit olle Margit umkippt. Über den ich übrigens auch jetzt, Stand Episode 40 gar nichts weiß, der Typ war dort, haute mich und irgendwann wird er sterben. Aber wer zur Hölle war der Kerl? Das Memo habe ich leider verpasst.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 3, Aufnahme vom 23.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

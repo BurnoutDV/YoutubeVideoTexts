@@ -1318,6 +1318,52 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #88
+
+* Titel: `Disco Elysium - #88 - Lügenzwiebelschalen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wer eine gute Lüge hat hat nicht nur eine. Stattdessen hat man ein Lügengebäude. Oft spricht man von diesem metaphorischen Bauwerk so das es auseinander fällt sobald eine Lücke gefunden wird und die Gesamtlüge aufgelöst wird. Das muss aber nicht sein. Wenn man es richtig angeht kann man immer noch eine Geschichte beibehalten obwohl Teile der erzählten Geschichte nicht mehr stimmt oder eindeutig verifiziert wird. Bonuspunkte gibt es auch dafür wenn man falsche Fährten legt und eine Lüge eigentlich partiell die Wahrheit ist aber im Kontext der darüber liegenden Lüge nicht der Wahrheit entsprechen kann und selbst die Fakten in eine andere Richtung zeigt. Generell und überhaupt kann man da viel tun wenn man es richtig angeht. Natürlich ist das selten notwendig. Normalerweise reicht es indem man einfach die Lügenfähigkeiten eines 5-jährigen anlegt: "nö". 
+  Heute läuft es nicht ganz so einfach, unser imaginärer Gegenspieler hat sich anscheinend Mühe gegeben, das ist schön das gibt uns Arbeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 27.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #89
+
+* Titel: `Disco Elysium - #89 - grauer Schrecken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Realität selbst ist anscheinend vom großen Nichts bedroht. Das alles wirkt auf dem ersten Blick aber wesentlich schlimmer als es wohl ist. Zum einen wissen wir ja schon das das Grau nicht nur nimmt sondern auch gibt. Ob das etwas Gutes ist stellen wir einmal kurz in Frage, aber es scheint doch so als würde es mit Menschen und Erinnerungen im Speziellen interagieren. Das klingt doch schon einmal ziemlich intelligent. Außerdem macht es damit die Menschen zu etwas Besonderem. Irgendetwas im menschlichen Geist ist anders das dafür sorgt das das Grau damit interagiert. Und man kann sich anscheinend dadurch werfen. Das Ferngrau wirkt in der Tat ein wenig bedrohlich, andererseits scheint die Tiefe des Graus einen Unterschied zu machen. Das Grau hat also doch irgendwie Struktur, und wenn es nur die Entfernung zur Realität hat. Das Grau ist also nicht unbedingt das Grauen. Allem in allem sehe ich hier durchaus Hoffnung das es alles am Ende gar nicht so schlimm ist. Wer weiß, vielleicht zieht sich das Grau auch periodisch zurück und wir befinden uns nur in einer Wachsstumsperiode. So oder so, es dauert noch tausende von Jahren bis das alles relevant wird, damit kann man umgehen, denke ich doch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 27.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #90
+
+* Titel: `Disco Elysium - #90 - Grautransporte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen jetzt was das Grau ist. Das Grau nimmt, aber das Grau gibt auch. Es wird wohl Zeit uns noch einmal mit der Graufahrerin zu reden. Das Ende allen Seins ist natürlich irgendwie ein ziemliches Ding, aber so richtig schlimm ist das doch bestimmt nicht oder? Es gibt ja durchaus auch Positives zu berichten, wenn man lange Genug durch das Grau geschleudert wird erlangt man anscheinend Erinnerungen und kann von den Dingen träumen und sehen die man selber nie erlebt hat. Praktisch ist auch das es scheinbar oben drauf auch noch Kontext gibt. Die Erinnerungen die man erhält haben also Namen, Orten und Personen die man zwar selber nicht kennt, sind aber mehr als nur Bilder. Interessant wäre jetzt aber noch ob wir diese Erinnerungen verifizieren können oder ob diese Dinge einfach nie passiert sind und nur eine Art andere Realität darstellen. Langfristig braucht man wohl eine Art Geller-Feld um vernünftig durch das Grau zu reisen, und vielleicht gibt es ja noch andere Welten hinter dem Ferngrau, hinter dem Ort hinter dem die Realität zusammenbricht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 27.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

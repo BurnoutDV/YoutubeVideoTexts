@@ -1760,6 +1760,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #114
+
+* Titel: `Horizon Forbidden West - #114 - das Fortdauern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zeit schreitet stets vor ran und was einst war wird zur Geschichte, wird zur Legende bis es schließlich vergessen wird. Tradition wird zu Brauchtum, Brauchtum wird zu vergessenen Ritual. Und doch, die Menschen nehmen Dinge so war als gebe es sie schon seit Ewigkeiten obwohl sie ziemlich neu sind. Da wird dann vom alljährlichen irgendetwas Fest gesprochen als wäre es eine feste Größe, oder den einem Typen im Dorf, als gäbe es sie schon ewig, in Wirklichkeit handelt es sich aber nur um eine kleine Zeitspanne, wenige Jahre. Das Fortdauern ist anscheinend auch so eine Sache, so wie alle Leute es mir erklären ist man schon seit Ewigkeiten sehr darum bemüht diese Arenenringe zu betreiben, sich zu bemühen und sich allgemein als stark Krieger darzustellen um dann am Ende gegen das legendäre Fortdauern anzukämpfen. Aber wie lange tun die Tenakth das wirklich? Es stellt sich heraus, seit nicht einmal 20 Jahren, und doch klangen die Kampfesringe so als wäre es eine Tradition die schon sehr lange andauert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 28.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #115
+
+* Titel: `Horizon Forbidden West - #115 - das Blutjoch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Verseuchung der Pflanzen, die die es auf Dauer sehr schwer machen wird von den Tieren und Früchten der Welt zu leben scheint auf eine bestimmte Überdüngung durch eine Reihe von Maschinen zurückzugehen. Heute lernen wir das die eigentliche Verseuchung sehr dauerhaft ist, so dauerhaft das es anscheinend reicht wenn man genügend große Mengen an versuchten Wasser in einem Becken lässt und dann einen Wasserfall so verstopft das die Brühe immer noch ausreichend viel drin bleibt. Das wirft allerdings Fragen auf: Was macht das Zeug dann im Meer, weil dort wird es ultimativ hinlaufen, und davor habe ich ja doch ein wenig Angst. Anscheinend ist die Seuche doch so potent das sie verdünnt im Wasser schon ausreicht um Leute krank zu machen, ist das nicht enorm dramatisch? Oder gibt es im Meer große Maschinen die sich unabhängig von der Landoperation dazu wenden die Gifte zu zerlegen? Ich habe übrigens außerdem noch ein wenig Angst was die Schmieröle im Wasser angeht. Von anderen Aufzeichnungen wissen wir das es offenbar keine gute Idee ist sie zu trinken, im Trinkwasser kann das doch auch keine gute Sache sein oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 28.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #116
+
+* Titel: `Horizon Forbidden West - #116 - die lange Küste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal benenne ich Episoden nach dem ich sie aufgenommen habe so das ich im Anschluss sehr verwirrt bin wenn ich dann eine halbe Woche hier sitze und den Klappentext schreiben soll. Bei anderen ist der Fall ziemlich klar, aus den wenigen Worten ergibt sich ganz gut der Inhalt. Nicht so in der dieser Episode, aber ich kann auflösen, es handelt sich um eine Ruine in der sich noch seltsam viel Zeug bewegt. Warum dieser Ort unbedingt die lange Küste heißt kann ich übrigens unmöglich sagen. Vom Aussehen her handelt es sich aber wohl um ein Kino mit noch heute funktionierenden Fahrstuhl. Als ich damals meine kritische Sicht der Dinge bei dem immer noch verschiebbaren Kran abgegeben habe hätte ich ja nicht gedacht das die Lächerlichkeit noch so weit geht. Heute also: noch funktionierende Fahrstühle und Motoren die anscheinend irgendwelche Boxen/Lampen gehalten haben. Nach 1000 Jahren in der Witterung. Ich kann akzeptieren das die Sci-Fi Energiequellen die die Menschheit in ihren letzten Jahren hatte enorm langlebig waren aber das noch irgendwelche Mechaniken und Antriebstechniken funktionieren? Das offensichtlich verrostetes Stahl noch irgendwie Dinge bewegen lässt. Da hört es dann doch irgendwie auf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 28.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

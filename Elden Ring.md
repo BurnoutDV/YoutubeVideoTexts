@@ -223,6 +223,96 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #15
+
+* Titel: `Elden Ring - #15 - Nur zu Besuch in Siotra [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die große Faszination an Open World Spielen ist auch das man dreimal falsch abbiegen kann und auf einmal ist man in der Schwarzweite, oder aber in Siotra wie es scheint. Ich habe absolut keine Ahnung um was für einen Ort es sich hier handelt, wir sind jetzt halt da und laufen ein wenig umher. Da ich in vergangenen Jahren bereits in anderen Spielen von From Soft gelernt habe wie man erfolgreich an Gegner vorbei kommt obwohl man eigentlich brutal underlevelt ist stellt das auch hier kein Problem für mich da, die wenigstens Feinde sind darauf ausgelegt mich tatsächlich aufzuhalten. Wir laufen heute also durch mehre Stockwerke, das macht Spaß und ist sehr erfüllend. Auch wichtig in jedem Open World Spiel ist aber auch der Sinn dafür wann es an der Zeit ist einfach aufzuhören und wieder zurück zu gehen, zumindest das macht mir Elden Ring sehr einfach.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 3, Aufnahme vom 23.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #16
+
+* Titel: `Elden Ring - #16 - Kriegsgefäß Alexander [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mich wundert ehrlich gesagt nicht mehr besonderes viel bei From Soft Spielen. Heute treffen wir ein freundliches Kriegsgefäß namens Alexander, es ist auf einer großen Mission, was genau er eigentlich vor hat kann ich jetzt auch nicht sagen aber es ist bestimmt wichtig. Ein Kriegsgefäß ist anscheinend lebender Ton der durch die Welt streift und Dinge tut. Warum man überhaupt zu diesem Schritt gegangen ist kann ich für den Moment aber nicht auflösen. Später finden wir aber noch mehr von diesen tönernen Kampfmaschinen und finden heraus das es anscheinend eine Art Belagerungsgerät ist das man über Mauern wirft um Dinge zu tun. Wie gut das wirklich geklappt hat kann ich jetzt aber schlecht sagen, diese Art von Spielen geizt immer sehr mit den Augenzeugenberichten von Zeitgenossen, bedauerlicherweise.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 3, Aufnahme vom 23.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #17
+
+* Titel: `Elden Ring - #17 - Grab eines Randvolkshelden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt ist irgendwie, tot, oder vielleicht einfach nur in der Zeit gefroren weil Dinge geschehen sind, es gibt auf jeden Fall nicht mehr besonders viel Neues. Allerdings ist das den Leuten, damals als sie noch eine Art von langsamer Zivilisation hatten, aufgefallen. Das führte dazu das man anscheinend die letzte große Generation besonders episch verewigt hat, oder das ist einfach eine Eigenschaft dieser Region. Was auch immer wahr ist, hier finden wir also das gewaltige Grab eines Helden. Um ganz genau zu sein verrät uns unsere Namensintuition das es sich um das Grab eines Randvolkshelden handelt. Was für eine Art genau jetzt ein Volksheld ist und ob es das Volk vom Rand ist oder einfach nur so das Randvolk, das geht nicht klar hervor. Weiter stellt sich natürlich die Frage ob es der Rand der Welt ist oder nur der Rand des Reiches oder oder. Eine Sache ist aber sicher, die Baumeister haben keine halben Sachen gemacht, die Anlage ist riesig und die automatische Verteidigung inklusive Fluch funktioniert großartig. Zu meinem Leidwesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 3, Aufnahme vom 23.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #18
+
+* Titel: `Elden Ring - #18 - der lohnenswerte Keller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, natürlich sind wir im Gegensatz zur letzten Episode nicht auf einmal völlig woanders. Tatsächlich ist diese Episode ziemlich sehr so wie die letzte. Wir sind immer noch im Grab des Randvolkshelden, wir erinnern uns, ein sehr tiefes Grab. Es gibt  da einige Höhenmeter zu überwinden. Zum Glück gibt es ein paar Apparaturen die es ein wenig spannender machen. Wären diese Fallen nicht würden wir einfach jedes Mal 3 Minuten runter laufen ohne das irgendetwas passiert. Aber es  gibt auch gute Nachrichten, neben irgendwelchen Baumgeistern, umherfahrenden Klingen und Geistern findet sich auch ein weiterer Geist in den Tiefen. Diesen zu erschlagen ist natürlich auch Teil unserer großen Mission, und selbstverständlich lohnt sich das Unterfangen auch gewaltig. Daher habe ich diese Episode, völlig zu Recht, "der lohnenswerte Keller" genannt. Hier schwingt natürlich keine Ironie mit, wo kämen wir da auch hin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 3, Aufnahme vom 23.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #19
+
+* Titel: `Elden Ring - #19 - Ausritt nach Süden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  GENUG MIT STAUBIGEN GRÄBERN! Mir dürstet es nach Sonne, frischer Luft und ein wenig Freiheit. Es ist also für den Moment erst einmal ein un geplündertes Grab, aber seien wir ehrlich, wir können nun wirklich nicht ewig unter irgendwelchen feuchten Sargdeckeln stöbern wenn es dort draußen eine ganze Welt zu entdecken gibt. Vielleicht bietet der Süden auch endlich die Herausforderung die wir schon immer einmal haben wollten. Im Klartext, eine Herausforderung die wir auch tatsächlich tot kriegen und uns nicht heillos überfordert. Etwas an dem wir wachsen können, andere Spiele machen das ja auch so, der dunkle Lord schickt uns ja nicht direkt die Elite entgegen sondern die Truppen die er entbehren kann, Truppen die wir mit Leichtigkeit besiegen können und die uns helfen zu wachsen. Ich bin mir sicher der Süden wird genau so ein Ort. Allerdings sehe ich das ich schon bald wieder irgendwo herum laufen werde wo ich nicht sein sollte. Das ist einfach das was ich tue.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 3, Aufnahme vom 23.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #20
+
+* Titel: `Elden Ring - #20 - der Halbmenschenkönig [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Süden bringt Glück! Wir waren ja schon einmal hier haben dann aber nach relativ kurzer Zeit doch wieder die Richtung gewechselt um uns anderen Dingen zuzuwenden. Jetzt gehen wir den diversen Spuren die sich hier finden doch einmal etwas genauer nach, man weiß ja nie welche Schätze es noch aufzustöbern gibt. Zum Beispiel finden wir den König der Halbmenschen, was auch immer ein Halbmensch ist, das ist leider ein Thema das nicht so direkt geklärt wurde und niemand wird uns einen Glossar geben, dessen bin ich mir ziemlich sicher. Wenn wir ein paar Rüstungs- und Waffenteile auftreiben bin ich mir allerdings sicher das wir die Geschichte fragmentarisch zusammentragen können und zumindest eine sehr grobe Vorstellung gewinnen können um was für Wesen es sich bei den Halbmenschen handelt. Wichtig ist für den Moment aber auch nur das wir ihren König erschlagen und ein bestimmt sehr wichtiges Szepter klauen für das wir auch 0 Verwendung haben, aber ich sage ja immer "Haben ist besser als Brauchen". Insofern, ein guter Tag nicht wahr?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 3, Aufnahme vom 23.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

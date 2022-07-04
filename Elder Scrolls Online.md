@@ -6775,6 +6775,57 @@
   Aufnahme vom 28.06.2022 - #1670 - ##23 - S3
   ```
 
+##### #1671
+
+* Titel: `Let's Play ESO #1671 ##24 - die wichtigen Dienstboten [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 24 des High-Isle DLCs - Sitzung 3 
+  
+  Wir befinden uns aktuell in einem etwas seltsamen Geflecht von Anstellungen und irgendwie hängt da auch ein gewisser Fürst Bacaro mit drin. Der Mann gibt von sich selbst an das er sich um die Sorgen und Nöte der einfachen Leute kümmert und die großen Friedensverhandlungen aus humanitären Gründen angestoßen hat. Wie dem aber auch sei, heute geht es um seine Dienstboten. Die sind nämlich plötzlich verschwunden und deswegen müssen wir dem hinterher jagen. Ich weiß mittlerweile übrigens auch wie diese Quest ausgeht und ich habe absolut keine Ahnung warum wir uns überhaupt am Anfang um diese Diener bemüht haben. Was war der Aufhänge, verlassen kann man sich auf jeden Fall darauf das spätestens in einer halben Stunde niemand mehr nach den Leuten kräht die ja so wertvoll waren aber keine Eskorte erhalten habe. Sagen wir es so, bereits als wir die Mission angefangen haben war relativ klar das die Diener tot sein werden, wir sind in einer Hauptquest und die Leute sind nicht vom Adel, was soll schon groß passieren?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 30.06.2022 - #1671 - ##24 - S3
+  ```
+
+##### 1672
+
+* Titel: `Let's Play ESO #1672 ##25 - Adelsabschaum [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 25 des High-Isle DLCs - Sitzung 3 
+  
+  Wir dürfen heute eine Partie besuchen, gute Nachrichten übrigens, ich ziehe mich natürlich entsprechend an, zumindest in dem was Mirri und Bastian in ihrer Kiste mit sich herumsprechen. Es ist leider auch nicht die Art von Party wo ich am Ende die einzige Person bin die übrig ist. Generell und überhaupt bin ich aber auch davon ab den Adel komplett auslöschen zu wollen. Rein logitisch wäre der entsprechende Machtwechsel ziemlich schmerzhaft. Mir selbst fehlt definitiv die Expertise um ein neues System zu etablieren, und wenn man die Dinge einfach laufen lässt kommen entweder Heuschrecken von Außerhalb und schnappen sich was geht, insbesondere in Tamriel Existenzbedrohend, oder aber lokale Banditenlords errichten in wenigen Generationen das gleiche System erneut. Vielleicht sogar mit den gleichen Titeln wie zuvor da man sich ja auf historische Namen für Legitimität stützen kann. Einen permanenten Wechsel zu einer egalitären Gesellschaft braucht eine Menge guter Verwalter, und die haben wir im Moment nicht zur Hand. Letztendlich ist es mir ein echtes Rätsel wie man von diesem ganzen Monarchiezeug überhaupt wegkommt ohne direkt von allen Seiten angegriffen zu werden. Daher erleiden wir die Party heute stumm und stellen einfach ein paar Frage, wir haben ja schließlich noch einen gut bezahlten Handlangerbedarf, der füllt bestimmt die Ewigkeit aus.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 30.06.2022 - #1672 - ##25 - S3
+  ```
+
+##### #1673
+
+* Titel: `Let's Play ESO #1673 ##26 - Taumeln und Schwanken [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 26 des High-Isle DLCs - Sitzung 3 
+  
+  Natürlich erfahren wir auf der Party eher oberflächliches Zeug wenn man mit den anwesenden Adeligen spricht, man muss sich auch vor Augen halten das jede einzelne Person hier eine Schlange im Krokodilloch ist die genau weiß das die geringste Schwäche zur Vernichtung der gesamten Familie führen kann. Das politische Parkett ist gefährlich, zu solchen Veranstaltungen schickt man keine Idioten sondern knallharte Taktiker? Das hübsche Mädchen mit den offenen Augen das von der Welt schwärmt, 10 Jahre Ausbildung in Intrige und königlicher Politik. Der junge Adelssohn der die Frauen und älteren Damen umschwärmt? Er kennt alle Tricks und wurde von Vaters Kurtissanen in allen Techniken eingeweiht um im Bett Informationen zu sammeln und der kleine unauffällige Giftmord ist definitiv auch drin. Es ist gefährlich hier, umso kürzer wir hier sind um so besser, auch wenn es in meinem Fall eher eine Stressvermeidungsstrategie ist als eine echte Lebensgefahr. So oder so müssen wir hier vorsichtig sein, wie schön das es andere, einfältigere Gestalten gibt die wir als auffälliges Leuchtfeuer vorschicken können.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 03.07.2022 - #1673 - ##26 - S3
+  ```
+
 ##### #Nummer
 
 * Titel: ``

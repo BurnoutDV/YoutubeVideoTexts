@@ -1805,6 +1805,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #117
+
+* Titel: `Horizon Forbidden West - #117 - Seefahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir fahren heute über das Meer. Es ist unbekannt ob irgendwelche der anderen Zivilisationen die wir schon kennen gelernt haben überhaupt die Idee hatten einmal auf das Meer zu fahren, aber Amerika ist als Ausgangspunkt auch eher ungeeignet, insbesondere die Westküste hat nicht unbedingt viele lohnenswerte Ziele auf dem ersten Blick. In Europa wäre dies auf jeden Fall wesentlich leichter gewesen. Allerdings erfahren wir auch das die Quen wohl doch ein wenig Hilfe bei der Konstruktion hatten. Wie genau das aussah vermag ich aber für den Moment nicht zu sagen. Wie dem aber auch sei, wir setzen erst einmal über und besuchen Landfall, zumindest ist das unser Plan. Ärgerlicherweise wird der Ort mit dem Boot von einem ziemlich großen Biest bewacht. Das zu besiegen ist übrigens völlig optional, ich tue es dennoch, einfach weil ich kann. Und dann fahren wir zur See. Es überrascht mich schon ein wenig das Aloy überhaupt ein Konzept hat was ein Boot ist und wie man dieses benutzt. Ihr Fokus kann ihr hier wohl kaum geholfen haben, oder war auf der ursprünglichen Kopie ein Geschichtsband darauf das etwas darüber erzählt hat wie die antiken Menschen solche Gefährte benutzt haben? Unbekannt. Umso mehr brauchen wir Apollo. Die große Frage im Raum ist aber immer noch woher es die Quen wussten ohne Apollo zu haben, ich ahne hier immer noch eine große Verschwörung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 28.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #118
+
+* Titel: `Horizon Forbidden West - #118 - Landfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir ein paar Meter weiter, das Heben eines Langhalses hat auf jeden Fall dabei geholfen schon im Vorfeld einen anständigen Überblick über die Gesamtsituation zu erfahren und jetzt sind wir auch bereit mit den Quen zu reden, die empfangen uns übrigens mit Fanfaren und ziemlicher Freude. Wir werden auch zugleich ihren CEO vorgespielt, nur das sie es Seo aussprechen, anscheinend unwissend über Phonetik und Buchstaben. Alles in Allem sehr faszinierend und doch ist es sehr besorgniserregend. Leider sind wir immer noch ziemlich langsam unterwegs und ein Besuch bei den Quen erscheint mir doch recht unwahrscheinlich. Wir brauchen dringend vernünftige Flugwesen um Distanzen zu überqueren um nachzuforschen woher die Überseeler ihre Informationen herhaben. Eine überlebende Elysiumkolonie die irgendwie all die Jahrzehnte überdauert hat und dann am Ende doch wesentliches Wissen verloren hat? Eine Vault Situation, viele Generationen von Menschen die letztendlich das was man von der alten Welt wusste ins unbekannte verzerrte? Aber wo kamen dann die alten Foki her? Oder handelt es sich um eine klandestine Backup-Operation die absichtlich alte Hardware zur Verfügung gestellt hat um andere Ziele zu erreichen. Eventuell die Daten einer tangential stehenden Entität mit eigenen Zielen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 28.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

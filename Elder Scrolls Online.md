@@ -6826,6 +6826,42 @@
   Aufnahme vom 03.07.2022 - #1673 - ##26 - S3
   ```
 
+##### #1674
+
+* Titel: `Let's Play ESO #1674 ##27 - eine Warnung [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 27 des High-Isle DLCs - Sitzung 3 
+  
+  Ich möchte noch einmal daran erinnern das wir ziemlich erfolgreich Molag Bal in seine Schranken gewiesen haben. Kritiker 
+  würden jetzt daran erinnern das wir durchaus Hilfe hatten. Das stimmt und alleine hätten wir wirklich gar keine Chance 
+  gehabt. Dann war da aber auch noch die Geschichte mit den Drachen in Elseweyr, wieder hatten wir Hilfe, ABER das hat den Prozess nur beschleunigt. Wir wären durchaus in der Lage gewesen den großen Drachen der die Welt verschlingen wollte selbst zu erschlagen, es hätte nur echt lange gedauert. Jetzt sind wir, die gleiche Heldin, also auf den Systren Inseln, in Anstellung irgendeiner altersdementen Fürstin die größtenteils auf den Ruhm vergangener Tage ruht und erhalten  eine Warnung. Unser Gegner macht den typischen Bösewicht Shtick, er tanz umher, spricht Drohungen aus und möchte uns erklären das wir keine Chance haben. Das ist außerordentlich merkwürdig. Hätte er die Macht um seine Drohung wahr zu machen wäre es bereits passiert. Wir dürfen also davon ausgehen das er es einfach nicht kann oder Zeit schinden möchte. Das ist durchaus wahrscheinlich, mit gewissen Ritualen kann man Macht aufsparen und in großen Stößen nutzen. Der Sturm der die Schiffe versenkte ist nicht weg zu diskutieren, durchaus mächtige Magie, keine Frage. Aber wir sind eben mächtiger. Wie stark genau wir sind ist relativ unklar, aber ich gehe stark davon aus das wir den Magus sehr aus dem Gleichgewicht werfen könnten. Und doch, tun wir Nichts. Das ist schon ein wenig komisch oder? Immerhin finden wir heraus das andere Parteien auf der Insel schon einmal etwas von Vorsprung durch Information gehört haben. Das beruhigt ein wenig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 03.07.2022 - #1674 - ##27 - S3
+  ```
+
+##### #1675
+
+* Titel: `Let's Play ESO #1675 ##28 - ein Schaf in Not [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 28 des High-Isle DLCs - Sitzung 3 
+  
+  Gute Neuigkeiten, wir sind mit der Hauptquest für den Moment fertig. Es folgen noch 5 weitere große Missionen aber für hier und jetzt ist Pause. Stattdessen gucken wir uns ein paar schöne Nebenmissionen in der Nähe ein. Außerdem retten wir ein Schaf. Soviel sei schon verraten. Außerdem lernen wir einen neuen Gegnertyp kennen, die sogenannten Hadoliden. Ich bin mir nicht ganz so sicher um was es sich hier eigentlich handelt. Vom Aussehen her haben wir es mit einer halbwegs intelligenten Rasse von Rieseninsekten, wahrscheinlich Gottesanbeterinnen zu tun. Die ganz großen Exemplare sind auch in der Lage Waffen zu tragen. Diese Wesen haben anscheinend ein Schaf namens Lingusterchen entführt. Warum auch immer sie das Tier nicht direkt an Ort und Stelle gefressen haben kann ich übrigens nicht sagen. Wie dem aber auch sei, wir jagen also heute durch eine Höhle um einen Schaf zu retten, und zu verhindern das ein anscheinend geisteskranker Mensch sich selber umbringt. Allerdings ist mir ein Rätsel wie er es bis hier her überhaupt geschafft hat. Zusammenfassend möchte ich sagen das ich außerordentlich verwirrt von dieser Episode bin.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 03.07.2022 - #1675 - ##28 - S3
+  ```
+
 ##### #Nummer
 
 * Titel: ``

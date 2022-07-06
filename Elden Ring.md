@@ -225,7 +225,7 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
 
 ##### #15
 
-* Titel: `Elden Ring - #15 - Nur zu Besuch in Siotra [Let's Play; ger; Blind]`
+* Titel: `Elden Ring - #15 - Nur zu Besuch in Siofra [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
@@ -310,6 +310,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Elden Ring vorerst am Donnerstag
   Sitzung 3, Aufnahme vom 23.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #21
+
+* Titel: `Elden Ring - #21 - Margit das grausame Mal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Niemand achtet auf die Titel eines Lets Plays, für die meisten Leute wird es wohl am wichtigsten sein wenn da eine große Zahl dran steht und man das Ding in Reihenfolge gucken kann. Zumindest geht es mir so, das da noch ein Titel dran ist ist dann für die Suche recht relevant wenn andere Leute vorbeischauen und nach bestimmten Inhalten suchen, dann ist es recht nützlich wenn man hier auch hilfreich ist so das die Leute auch dran bleiben. Wir besiegen also heute Margit das grausame Mal, es handelt sich um irgendeine Art von Wesen die uns schon in der Vergangenheit enorm genervt hat, aber bis hierhin sind wir immer wieder an ihm gescheitert. Das wäre ja taktisch unklug gewesen die Episode nach meinem Peiniger zu benennen, daher heißt diese Episode nur aus einem einzigen logischen Schritt so. Übrigens hätte man sich den Kampf wohl etwas leichter machen können wenn man vorher zu Monsieur Patches gelaufen wäre um dort einen Gegenstand zu kaufen. Darauf hätte man ja auch erst einmal kommen müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 3, Aufnahme vom 23.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #22
+
+* Titel: `Elden Ring - #22 - Sturmschleier Ritter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wäre keine echte Burg wenn es neben den Knaben, Knappen und Freudenmädchen nicht auch ein paar echte gestandene Ritter gebe. Ich frage mich übrigens wirklich wie es die Ritter unserer Welt über die Jahrhunderte geschafft haben so gute PR zu haben. Es klingt doch ziemlich unwahrscheinlich das irgendwelche Adeligen in glänzender Rüstung die mehr wert ist als ein ganzer Bauernhof mit allen Tieren darauf in irgendeiner weise das Sinnbild des Anstandes waren. Der Zyniker in mir vermutet eher das der übliche, daher gelaufene Ritter eher weniger edel war und mir menschlich. Und doch, die Plattenträger sind in der Geschichte immer irgendwelche Avatare des Guten die keine Angst kennen oder wenn doch diese zumindest gut überwunden haben. All dies spielt aber für die Ritter hier auf Burg Sturmschleier keine Rolle, stattdessen ist mir unser überleben wichtiger.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 4, Aufnahme vom 24.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #23
+
+* Titel: `Elden Ring - #23 - Sturmschleier Dächer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die gute alte Burg Sturmschleier ähnelt in ihrem Gesamtkonzept sehr ein klassischen Dark Souls Map, die Entfernung zwischen den sicheren Hafen erscheint groß, die Gegner überwältigend und generell und überhaupt schleicht sich so ein Gefühl der Unsicherheit in die Knochen während man von Ecke zu Ecke kriecht. Insofern ist die Burg ein voller Erfolg, auch wenn es sich etwas schlecht anfühlt hier durch die Gegend zu kriechen, aber das ist doch etwas Gutes oder? Was wir allerdings nicht machen ist das Erkunden jeder einzelnen Tür bzw. Hütte auf der Suche nach irgendwelchen Schätzen. Stattdessen tun wir das was jeder vernünftige Abenteurer machen würde, wir erkunden die Dächer und versuchen einen allgemeinen Überblick über die Angelegenheit zu gewinnen, man weiß ja nie wann man den kürzesten Fluchtweg kennen muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 4, Aufnahme vom 24.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #24
+
+* Titel: `Elden Ring - #24 - das Haupttor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Selbstverständlich hat jede Feste einen anderen Weg in sie hinein, dafür sind die meisten Dinge auch einfach zu dreidimensional als das nicht der Fall sein könnte. Da wir es hier nicht mit eine fantastischen, magischen Barriere zu tun haben die uns daran hindert einzutreten würden wir einen solchen Weg bestimmt auch finden. Weiter ist der Zustand der Mauer auch so das ich vermute das wir mit ein wenig Kletterfähigkeit durchaus auch hier einen Weg finden würde. All das ist aber weniger relevant für mich, weil wir nehmen heute den Haupteingang. Das ist recht einfach zu erklären. Ich bin mir nicht ganz sicher was genau mit der Welt passiert ist, nur das es anscheinend schon länger so ist wie es ist. Die einfachen Leute sind einfach in einer Art Dämmerschlaf, spüren sie doch weder Hunger noch Durst, manche wandern umher sind aber geistig nicht da. Die großen Gestalten der Welt sind in irgendeine Art Gedankenschleife gefangen und tun immer und immer wieder das Gleiche ohne je etwas zu verändern. Das Alles sorgt dafür das die Leute einrosten. Wenn nun plötzlich Bewegung geschieht dauert es ein Bisschen bis sich überhaupt jemand bewegen kann. Diese Trägheit machen wir uns zu Nutzen. Eigentlich ein Wunder das nicht schon jemand Anderes, vor uns, auf diese Idee kam und so das gesamte Schloss gestürmt hat. Aber eventuell hat diese Taktik auch ihre Risiken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 5, Aufnahme vom 29.04.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 

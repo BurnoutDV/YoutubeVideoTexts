@@ -1364,6 +1364,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #91
+
+* Titel: `Disco Elysium - #91 - Martin Martinaise [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir lernen immer neue Menschen kennen, das liegt unter anderem daran das wir die Leute auch vergessen haben und die Leute die wir kannten kennen wir jetzt halt einfach nicht mehr. Ein gewisser Herr von und zu Abwärtsspirale hat ein gewisses Talent damit Geschichten zu erzählen. Eine nützliche Fähigkeit die er, so wie ich das sehe, sehr daran verschwendet von seinem vorherigen Leben zu schwadronieren. Aber es  gibt auch gute Nachrichten, er hat noch mehr Geschichten auf Lager die er durchaus bereit ist gegen ausreichende Mengen Alkohol zu überlassen. So erfahren wir heute zum Beispiel von Martin Martinaise und ungezählten Schätzen die irgendwie umher liegen und nur darauf warten gehoben zu werden. Außerdem wird uns verständlich gemacht das quasi Nichts zu hoch konzeptionell sein kann. Insgesamt ist heute ein besonders großer Geschichtsstag. Ich mag das.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 27.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #92
+
+* Titel: `Disco Elysium - #92 - 41-44-47-11-17-361-451-67-451 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal bin ich ziemlich langweilig und nehme die Optionen die mir am sinnvollsten erscheinen weil ich Kitsuragi so sehr schätze das ich mich nicht gegen ihn stellen will. Allerdings haben wir da immer noch das kleine Problem das wir dadurch immer weiter vom Rollenspiel weg kommen und gar nicht so richtig Zeit damit verbringen jemand Anderes zu sein. Harrier du Bois war jemand und es ist vielleicht nicht die beste Idee wieder er zu sein, und doch, sein Leben war anscheinend schon  ziemlich spannend. Daher wählen wir heute das Telefon und ruinieren eine Familie, zumindest hoffe ich das. Chaos für die Göttin des Chaos in einer Welt die sowieso so gut wie keine Ordnung hat. Nur fraglich was aus den Kindern wird, und doch, sollten sie es überleben war dies vielleicht der Katalysator um alles zu verändern, oder das Ende von Allem. Und dann wählen wir da noch eine andere Nummer. Und das ist interessant, anscheinend kann man irgendwie durch das Grau hindurch telefonieren. Werden die Signale per Funk übertragen oder gibt es eine Möglichkeit feste, physische Kabel einfach mitten durch zu legen und zu erwarten das diese dann auch funktionieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 27.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

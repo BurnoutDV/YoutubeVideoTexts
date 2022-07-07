@@ -6862,14 +6862,21 @@
   Aufnahme vom 03.07.2022 - #1675 - ##28 - S3
   ```
 
-##### #Nummer
+##### #1676
 
-* Titel: ``
+* Titel: `Let's Play ESO #1676 ##29 - das Turnier des Herzens [Hochinsel]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 29 des High-Isle DLCs - Sitzung 3 
+  
+  Was wir bei all der schlechten Geschichte und anscheinend Deus Ex Machina nicht vergessen dürfen ist das wir immer noch auf einer Fantasy Bretonen Insel wohnen. Wir wollen also mehr über die Bretonen selbst erfahren, für den Moment kam dabei ja noch nicht soviel heraus, klar, hier und dort sehen wir schon Andeutungen aber so richtig lebendig wird die Welt dadurch noch nicht. Gedanklich sehe ich immer das Königreich Toussaint (aus Witcher) vor mir, es ist vielleicht nicht ganz so malerisch und die meisten Monster sind auch hier Menschen und wenn sie dann doch Monster sind, nicht so detailreich, aber das passt schon. Also gehört natürlich auch ein Ritterturnier dazu, interessant ist übrigens das hier gleich ein Stück Realität mit herein kommt. Oft haben wir es ja das diese ganze heile Fantasy-Ritterwelt irgendwie im Vakuum existiert und quasi freischwebend existiert ohne das besonders auf die Details und Fehler einer solchen Kultur eingegangen wird. Langweilige logistische Fragen fangen beispielsweise schon damit an wie das Turnier finanziert wird, wie all die Teilnehmer sich finanzieren und wie viele Ritter und Knappen realistisch in X Zeit auftauchen können. Übrigens auch interessant, da wir uns immer noch auf Tamriel befinden gibt es selbstverständlich auch weibliche Ritter (Ritterin?), die haben wir schon woanders erlebt und werden in der Regel Damen genannt, soweit so normal. Jetzt kommt aber das Problem auf, in einer Gesellschaft in der es für eine Frau völlig akzeptabel ist das man zur Waffe greift und in den Krieg zieht, in dieser Gesellschaft kann man gleichzeitig die Hand der eigenen Tochter versprechen wenn man beim Turnier gut abschneidet? Was wenn eine Dame das Turnier gewinnt und diese oder die Tochter nicht wirklich die Neigung dazu hat? Ich finde an dieser Stelle hätten sie den ganzen Weg gehen sollen und direkt die Hand des Sohnes versprechen sollen, das hätte die gesamte Geschichte wesentlich spannender gemacht. Wenn wir Leute schon wie Vieh verschachern kann man auch gegen ein paar mehr Konventionen verstoßen und die Absurdität der ganzen Geschichte aufzeigen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 03.07.2022 - #1676 - ##29 - S3
   ```
 
 ##### #TEMPLATE

@@ -1394,6 +1394,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #93
+
+* Titel: `Disco Elysium - #93 - Kontakt-Mirko [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schon einmal Trivial Pursuit gespielt? Es ist eine seltsame Mischung aus Mensch-Ärger-Dich-Nicht und Trivia Fragen. Das Problem ist nur das das Spiel ziemlich schlecht altert, und das man quasi das Wissen der gesamten BUNTE-Ausgabe der letzten 30 Jahre braucht. Richtig interessant wird es übrigens auch wenn man ein Trivial Pursuit Spiel von vor 20 Jahren hat, dann kommen da so tolle Fragen wie "Wer gewann die Silbermedaille im Hechtsprung 1982?". Selbst wenn es 1983 wäre, woher soll ich das wissen? Generell gibt es eine Menge Nischenberühmtheiten auf der Welt, in dem Sport dem ich Verfolge fallen mir auch so ein paar Namen ein von denen die breite Öffentlichkeit wahrscheinlich noch nie irgendetwas gehört hat. Insbesondere bei der Jugend sind die Sportler vergangener Jahrzehnte eher wenig beliebt, um nicht zu sagen irrelevant. Natürlich gibt es da ein paar Ausnahmen die es irgendwie durch die Jahre geschafft haben, aber ich würde behaupten, in so gut wie allen Fällen stimmt das. Und das ist dann auch der Grund warum Harrier heute etwas von Kontakt Mirko erzählt, um der Menschheit wieder an der Freude vergangener Sport-Stars zu geben. Und weil ich das Wissen der Enzyklopädie nicht verschwenden möchte. Im Englischen klappt der Wortwitz mit "Mike" und "mic" aber noch ein wenig besser. Naja, wir haben es ja gehört.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 03.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

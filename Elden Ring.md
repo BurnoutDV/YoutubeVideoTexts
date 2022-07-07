@@ -373,6 +373,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #25
+
+* Titel: `Elden Ring - #25 - Sturmschleier Verteidigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auch wenn wir gefühlt schon ewig in der großen Festung Sturmschleier sind so ist es doch so das wir noch nicht ganz fertig sind, das würden wir nämlich daran sehen das wir fertig wären (duh). Und eventuell wäre der Tod von Godrick auch so ein Indiz. Aber wir kommen vor ran, wir finden immer mehr Spuren einer ehemaligen Invasion, und was eigentlich noch viel wichtiger ist, einen Einsatz der Kriegsgefäße. Ich bin mir allerdings immer noch nicht so ganz im Klaren wer es für eine gute Idee hielt irgendwelche Infrastruktur mit Tonkrügen anzugreifen die anscheinend über die Mauer geschleudert wurden, so wie es aussieht, teilweise auch durch die Mauer. Irgendeine Art von Magie wird wohl beteiligt gewesen sein, etwas das wir uns im Moment eher nicht vorstellen können. Und doch gibt es noch heute eine Verteidigung, vielleicht wurde sie auch gestern erst aufgestellt, Zeit ist ein seltsames Konzept oder nicht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 5, Aufnahme vom 29.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #26
+
+* Titel: `Elden Ring - #26 - Godrick der Verpflanzte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist soweit, nur 13 Stunden in Elden Ring und wir stehen endlich vor dem ersten großen Boss. Ich bin mir etwas unsicher mit wem wir ihn vergleichen wollen, wahrscheinlich mit den Wächtern des Abyss aus Dark Souls 3 oder Ornstein und Smaug in Dark Souls 1. Godrick ist der erste richtige Boss der in Sachen Lore schon recht bedeutend ist, sein Tod wird uns einige Runen, aber viel wichtiger, viele Ruhmen bringen. Er ist eines der Primärziele unser großen Mission, unser Queste. All die anderen Leute, Patches, Margit, zich mechanische Katzen, all sie hätten wir locker und ohne Problem ignorieren können, aber Godrick muss sterben. Zur Person, es handelt sich anscheinend um den schwächsten der Familie mit einer seltsamen Obsession für Drachen, weiter mag er es wohl Leuten die Gliedmaßen aus zu reissen und woanders anzubauen. Das führt zu ärgerlichen Defiziten bei einer Mehrheit der Beteiligten und ist daher verachtungswürdig. Aber, wir müssen Godrick auch seine Fähigkeiten in der Biologie hoch anrechnen. Wenn man sich einmal anschaut wie das mit den Freiheitsgraden der menschlichen Armee ist sind wir echt gut darin Dinge zu erreichen, das geschieht durch eine größere Anzahl von Sehnen und Muskeln auf dem Rücken und der Brust. Wenn man vier Armee hat wird die gesamte involvierte Logistik wesentlich schwieriger, natürlich hat niemand gesagt das vier Arme auch die gleiche Freiheit haben wie zwei, aber Godrick hört hier ja nicht auf, er bringt dutzende Gliedmaßen an einem Körper, und alle funktionieren (augenscheinlich?)! Das ist ein wissenschaftlicher Durchbruch, leider ist der Prinzling nicht in Stimmung seine vergangenen Erfolge mit uns zu diskutieren und spricht dagegen lieber von dem was kommen wird. Seiner Meinung nach unser Tod, ich kann dem nur Zustimmen, habe aber noch Einwände was die Details angeht. Auf in den Kampf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 5, Aufnahme vom 29.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

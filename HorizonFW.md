@@ -1835,6 +1835,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #120
+
+* Titel: `Horizon Forbidden West - #119 - Theben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese Episode ist enorm wichtig. Es ist sogar ein wenig schade das wir nur eine davon haben weil halt alles innerhalb von 43 Minuten geschehen ist, für eine Hauptquest übrigens gradezu eine geringe Zeit. Also, fangen wir von Vorne an. Als damals die Welt unterging und klar wurde das der Schwarm Stück für Stück die Welt auffressen würde da hat das Ganze 14 Monate gedauert und insbesondere in Amerika war ein wenig mehr Zeit da die Katastrophe irgendwo im Südpazifik began. Übrigens ist es nach gerade großartig das FARO anscheinend Maschinen gebaut hat die einfach durch den Ozean laufen können, wahrscheinlich dauert das ein wenig länger aber zumindest die Horus waren dazu in der Lage, wahrscheinlich liegt der Ozean bis heute noch mit tausenden Kopesh und Scarab voll die es nicht geschafft haben. Nun, da so viel Zeit war und da Ted Faro nicht als erste Tat des Tages unter Hausarrest gestellt wurde hat er die Zeit genutzt um sich seinen eigenen persönlichen Rückzugsort mit angeschlossener geothermaler Quelle zu bauen. Für das Geld wäre es wohl durchaus möglich gewesen einige Elysiums mehr zu errichten, aber was weiß ich schon. Und Ted wollte wohl in Luxus gehen, die Einrichtung die wir betreten hat anscheinend jede Menge große leere Räume, ist sehr linear aufgebaut und hat ganzen 7 Leuten oder so Platz geboten. Erfahren tun wir nur von einem geistigen Führer, einem Arzt mit seiner Tochter sowie einer unbekannten Anzahl an Konkubinen. Für alle Beteiligten war das Leben im Bunker wohl weniger erfreulich. Ich darf also feststellen das Theben so oder so eine Todesfalle war. Immerhin finden wir einige viele Tagebücher über das was ungefähr geschehen ist, auch wenn der Verbleib der nicht namentlich genannten Gestalten unbekannt ist. Mir ist allerdings immer noch ein Rätsel wie es überhaupt soweit kommen konnte, warum hat kein beherzter Ingenieur das Leben von Ted Faro wesentlich früher beendet? Anscheinend hat er Leute ja ohne Wachen genervt, meistens Nachts, mit irgendwelchen Plänen. Warum hat überhaupt irgendjemand Backdoors für ihn gebaut die auch funktionieren? Wäre es nicht viel schlauer gewesen Hintertüren zu errichten die nicht funktionieren, getestet haben könnte er das ja unmöglich. So viele offene Fragen die wohl leider nur mit Plot-Armor erklärt werden können. Die zweite Erklärung wäre auch zu deprimierend: Die Darstellung ist realistisch und reiche Leute können machen was sie wollen und nur ganz wenige haben überhaupt die Courage etwas zu tun wenn ihr eigenes Wohl auf dem Spiel steht. Das Ende der Welt ist wahrscheinlich auch ziemlich unwirklich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 28.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1409,6 +1409,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #94
+
+* Titel: `Disco Elysium - #94 - anodische Musik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Musik bewegt die Menschen, oder macht es leichter bestimmte Emotionen zu spüren, tatsächlich höre ich in diesem Moment, während ich das hier schreibe Musik. Kein Metal, den höre ich zur Entspannung, zum "Arbeiten" ist es mehr etwas Eintöniges, oder in diesem Dark Techno Mixes, 120 BPM Musik, Bass House, irgendetwas in der Richtung. Man stelle sich vor das es ungefähr 3 Uhr Nachts ist, in meinem Arbeitszimmer sind nur einige wenige flackernde LEDs zu sehen und allgemein sehe ich von der Seite aus wie eine außerweltliche Gestalt die sich langsam zum Klang der Geräusche bewegt, der Blick bar jeder Menschlichkeit. So ist es aber nicht, stattdessen sitze ich mit meinem üblichen Resting Bitch Face vor dem Rechner, ziehe Grimassen wenn ich besonders schlechte Worte geschrieben habe und hacke meinen Text hier rein. Wir wissen nicht wie Harry reagiert, aber ich ahne das der Bulle mit Kunststudium einiges zur Musik zu sagen hätte wenn er nur die entsprechende Muße dazu finden könnte. Heute erfahren wir etwas über die anodische Musik, ich nehme an das es sich hier bei um etwas wie Minimal handelt, eine Musikrichtung mit der ich persönlich echt wenig anfangen kann, aber ich bin da sehr inklusiv, wenn die Leute das hören wollen dann sei es so. Außerdem erfahren wir noch von irgendwelchen abgebrochenen Musikfanatikern. Insgesamt übrigens ein sehr angenehmes Zelt, auch wenn es ein wenig an eine Drogenhölle erinnert, aber das gehört wohl zur Musik auch dazu.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 03.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -403,6 +403,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #27
+
+* Titel: `Elden Ring - #27 - Schätze des Gaeltunnels [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gegen bestimmte Gegner sind wir einfach nicht qualifiziert. Das könnte daran liegen das ich dazu neige andauernd irgendwohin zu gehen wo ich nicht sein soll oder weil ich eine DEX Klasse spiele ohne so richtig die Spielweise verinnerlicht zu haben. Oder weil bestimmte Gegnertypen nicht aus weichen Fleisch sondern aus harten Kristall sind. In diesem Fall ist es dann ziemlich schwierig die entsprechenden Leute tot zu kriegen, sehr viel später werden wir noch einen Weg finden, aber bis es soweit ist stehen wir hier vor Herausforderungen. Solche Herausforderungen halten mich aber nicht davon ab dennoch alles mit zu nehmen das nicht niet- und nagelfest verschraubt ist. Kristalle, Schmiedesteine und Truhen zum Beispiel. Natürlich kann man auch einfach panisch durch die Gänge laufen, aber wenn man ein gewisses Niveau an Technik hat kommt man sogar anders durch die einzelnen Abschnitte. Man muss nur wissen wie. Und das ist die Geschichte wie wir heute ein wenig reicher werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 5, Aufnahme vom 29.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #28
+
+* Titel: `Elden Ring - #28 - Greyolls Drachenhügel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder einmal komplett woanders. Eine Auffälligkeit ist übrigens das wir immer und ständig an Orten sind an denen wir auf keinen Fall sein sollten. Die gute Nachricht ist aber das wir auf dem Weg durch diese unwirtlichen Lande in der Lage sind auch einige herumliegenden Runen einzusacken und die werden uns später definitiv noch sehr nützlich sein. Seien wir doch ehrlich, hätte ich die entsprechenden Runen erst eingesammelt wenn ich regulär eine Chance hätte in diesem Gebiet zu haben wären sie absolut wertlos gewesen, aber so wie die Dinge stehen greifen wir hier gut ab. Es gibt leider nur ein einziges Problem mit der Gesamtsituation: der Ort heißt Greyolls Drachenhügel. Dem aufmerksamen Beobachter könnte möglicherweise eine Idee kommen warum dieser Ort so heißt und welche Art von geflügelter Echse es hier in gewisser Stückzahl gibt. All das stellt aber nur ein oberflächliches Problem für die Geschwindigkeit von Sturmwind da, wir sind Wind, wir sind Geschwindigkeit und wir werden immer weiter kommen, bis wir wieder in bekannte Lande ankommen. Ganz gewiss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 5, Aufnahme vom 29.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

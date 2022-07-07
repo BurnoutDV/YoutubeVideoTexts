@@ -6879,6 +6879,33 @@
   Aufnahme vom 03.07.2022 - #1676 - ##29 - S3
   ```
 
+##### #1677
+
+* Titel: `Let's Play ESO #1677 ##30 - Geschichte von Miriette La Courageuse [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 30 des High-Isle DLCs - Sitzung 5
+  
+  Mittlerweile müsste ich es wirklich gewohnt sein als einfacher Handlanger hingestellt zu werden. Es ist alles ein wenig komisch, wenn die Welt wüsste wer wir sind und was wir schon alles getan haben hätten wir bestimmt des Öfteren Probleme mit den Leuten. Nicht das die Menschen direkt vor Ehrfurcht erstarren würden, es wäre aber bestimmt schwieriger aus manche Situationen wieder heraus zu kommen. Insbesondere wenn sich langsam aber sich die Gerüchte um unsere Person ansammeln würden. Die Geschichte mit dem Vampirismus könnten wir bestimmt recht lange geheim halten, aber ich hätte ja schon ein wenig Angst das man einfach Dinge verbreitet die irgendwelche Taten erklären sollen die schlicht nicht stimmen. Irgendwelche Bünde mit Daedra oder so die meine eigene Beteiligung klein redet. Oder aber das ich nur der Handlanger von Abnur Tharn oder sonste wer bin. Die Geschichte kann da grausam sein. Nun, heute bin ich der Handlanger von Halbritterin Isobel Veloise die anscheinend um die Hand der schönen Aurelia anhalten will, oder eben nicht, es ist nicht ganz so einfach.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 07.07.2022 - #1677 - ##30 - S5
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #TEMPLATE
 
 * Beschreibung:

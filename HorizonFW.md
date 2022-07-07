@@ -1850,12 +1850,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #120
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #120 - die Gefährten, Teil 3 [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir haben wieder einmal ein neues Team Mitglied in die Bande mit aufgenommen. Langsam aber sich müssen wir uns wirklich Sorgen darüber machen das wir genügend Betten zur Verfügung haben. Und das nicht alle Leute die Gänge mit irgendwelchen Grünzeug vollstellen das innerhalb der Basis sowieso nicht wächst. Ich finde es übrigens ziemlich unglaubwürdig das es keine Reinigungsroboter gibt die in der Anlage unterwegs sind. Also auch das sie nicht schon vorher aktiv waren. Die Überwachungsstation wurde offensichtlich nach Plan gebaut, relativ früh würde ich vermuten, und dann einfach so gelassen? Klar, die Ankunft der Menschen war ein wenig früher geplant aber hier sieht alles so aus als hätte fast die gesamten 1000 Jahre leer gestanden. Nun, wie dem aber auch sei, wir sprechen wieder einmal mit allen Leuten die so in der Basis hausen, allerdings nicht mit Alva, dem neusten Mitglied der Truppe. Die hat eine Quest für uns und daher sprechen wir das auch nicht sofort an. Wie Alva sich wohl bei den restlichen Leuten integriert, die Quen scheinen sehr darum bemüht zu sein ihre Wahrsager keinerlei Ausbildung in Sachen Selbstverteidigung zu geben, und wenn man bedenkt was alles zu tun ist hatten wir bisher eine Menge Glück, man könnte fast sagen, unmenschliche Mengen an Glück. Andererseits scheint die restliche Menschheit keines zu haben. Vielleicht ging das auch mit den fiesen Erbkrankheiten verloren? Hören wir uns also an was die Crew zu den neuen Dinge und Informationen zu sagen hat die wir jetzt haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 05.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```

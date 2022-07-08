@@ -1864,3 +1864,28 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Sitzung 17, Aufnahme vom 05.07.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
+
+##### #121
+
+* Titel: `Horizon Forbidden West - #121 - das Andenken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute geht es um Kotalos Arm, wir erinnern uns, der den er damals beim ersten Überfall von Regala auf die Gesandschaft verloren hat und jetzt irgendwie Ersatz gefunden haben. Um diesen Arm zu erstellen hat er die Hilfe einer KI in Anspruch genommen die in etwa 3 Mal so schlau ist wie ein Mensch, wie auch immer das gemessen wird. Weiter haben wir Forschungsdaten aus dem Far Zenith Komplex gestohlen, also dem Ort an dem man Daten findet die quasi die blutende Kante der menschlichen Forschung und Fortschritt darstellen, kein anderer Platz wird bessere und vollständigere Daten enthalten. Das ist auch ziemlich logisch weil die Anlage anscheinend nie vom Faro Schwarm angegriffen wurde, wir also nicht Restdaten plündern müssen sondern noch saftige Geräte vorfinden. Aber nicht nur Daten, auch Bauteile haben wir dort mit gehen lassen, modernste künstliche Muskeln, all das um jetzt endlich Kotallo einen neuen Arm zu geben. Übrigens ist es sehr bedauerlich das wir nicht im englischen Sprachraum unterwegs sind, das Wortspielt "Armed and Ready" oder "an armed Telnakth" hätte sich sowas von angeboten. Im Deutschen fällt mir leider kein schön Pun ein, so ist dann wohl das Leben. All das dauert übrigens so 8 Minuten, die restliche Zeit tun wir halt andere Dinge.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 05.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

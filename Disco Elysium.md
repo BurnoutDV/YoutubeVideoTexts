@@ -1424,6 +1424,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #95
+
+* Titel: `Disco Elysium - #95 - Monodynamisch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Musik geht durch das Ohr direkt in die Seele. Das hatten wir schon einmal so, tatsächlich ist es auch so das der Gehörsinn kein Sinn ist den wir willentlich ausstellen können. Heute erfahren wir neben der hohen Kunst der anodischen Musik auch noch von den Freuden der monodynamischen Musik, für die Leute die nur einen Lautsprecher haben. Eventuell ist das auch etwas was sich die jungen Kids auch nur spontan ausgedacht haben. Wer kann das schon genau sagen? Aber es dient uns als Indiz was noch so Schönes für uns an Dingen im Zelt zu entdecken gibt. Weil, wir wissen natürlich auch das wenn man richtig Disco haben will dann braucht man auch noch andere Dinge damit die Welt die man um sich wahrnimmt auch die richtige Farbe hat, passend zur Musik. Außerdem versuchen wir immer noch irgendwie mit dem örtlichen Gotteshaus Kontakt aufzunehmen, eine Besichtigung schwebt uns davor aber der Pastor will aus irgendwelchen Gründen nicht mit uns reden. Ein Mysterium.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 03.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

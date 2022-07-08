@@ -6896,6 +6896,23 @@
   Aufnahme vom 07.07.2022 - #1677 - ##30 - S5
   ```
 
+##### #1678
+
+* Titel: `Let's Play ESO #1678 ##31 - Schlüssel und Gedicht [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 31 des High-Isle DLCs - Sitzung 5
+  
+  Ein wahrer Ritter ist Experte in allen Klassen. Da ist natürlich der Kampf, aber auch in Edelmann(und Dame)tum, sie besitzt perfekte Manieren und weiß sich am Hof zu benehmen. Dazu gehört selbstverständlich auch der sichere Umgang in Wort und Schrift. In einer Welt in der die Fähigkeit zu Lesen nicht selbstverständlich ist durchaus erwähnenswert ist. Aber es geht noch weiter, nicht nur Lesen und Schreiben muss das moderne Ritter können, nein, auch Lyrik und Poesi dürfen nicht fremd sein. Die gute Nachricht ist aber, der Orden des Albatros verlangt zwar ein Gedicht, aber es ist nicht direkt Teil der Prüfung. Stattdessen sollen wir irgendeine Harfe, Laute oder Klavier bergen, ich habe ehrlich gesagt nicht zugehört. Irgendein Geist ist auch beteiligt, das ist dann wohl der langweilige Teil. Der spannende Part kommt am Anfang, die Tür ist zu und wir dürfen sie nicht eintreten. Das ist ein echter Ärger. Da wollen wir doch mal als lyrische Aushilfsritterin zur Tat schreiten..und den Schlüssel auftreiben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 07.07.2022 - #1678 - ##31 - S5
+  ```
+
 ##### #Nummer
 
 * Titel: ``

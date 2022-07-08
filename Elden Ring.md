@@ -433,6 +433,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #29
+
+* Titel: `Elden Ring - #29 - Halbinsel der Tränen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Orte die wir nicht sofort betreten können weil wir dafür erst irgendwelche Bosse besiegen müssen oder weil wir sie mit unserer aktuellen Ausrüstung nicht erreichen können. Und dann gibt es da noch die Orte die wir durchaus betreten können aber es nicht besonders klug ist. Heute reiten wir mehr oder wenig nur im Kreis und genießen die große Welt. Man könnte das als Allegorie auf das Leben sehen, wir sind quasi im Teenanger-Alter und wollen uns einfach nicht festlegen. Deswegen tauchen wir einfach überall unsere Zehen hinein um zu schauen wie die Dinge aussehen. Man könnte es auch so interpretieren das wir nicht bereit sind uns auf eine bestimmte Sache einzulassen. Irgendwelche Höhlen zu erkunden und gegen Gegner zu kämpfen ist schwierig, einfach nur vom Rücken des Sturmwinds zu schreiten ist so viel einfacher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 5, Aufnahme vom 29.04.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #30
+
+* Titel: `Elden Ring - #30 - Leidensdorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Egal ob wir uns in irgendwelchen gotischen Städten die den üblichen Horror den die Invasion von Wesen außerhalb der Realität mit sich bringt ausgesetzt sind, in einer sterbenden Welt umherlaufen oder auf den Spuren eines Königs sind der einfach alles wollte, irgendwie gibt es immer ein paar Konstanten. Die Welt ist am Arsch. Egal wo wir sind, alle Welten von Miyaziki sind absolut kaputt, Nichts sieht mehr so aus als könnte es gerettet werden. Man könnte wohl argumentieren das die Mission des Helden so wichtig ist weil sie irgendwie auf magische Weise alles wieder so machen kann das die Welt wieder lebt. Andererseits stellt sich doch eigentlich die Frage warum wir tun was wir tun? Weil uns nichts Besseres einfallen? Oder weil wir Königin der Asche werden wollen? Über das Nichts herrschen wollen. Die Welt schien bereits vor dem großen Kataklysmus ziemlich am Ende zu sein. Ein weiter Punkt für diese Theorie ist der Ort den wir heute betreten, er nennt sich Leidensdorf. Welche einladener und freundlicher Name? Aber ich kann versichern, uns geht es immer noch gut.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 6, Aufnahme vom 08.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

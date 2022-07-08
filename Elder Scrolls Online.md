@@ -6913,6 +6913,23 @@
   Aufnahme vom 07.07.2022 - #1678 - ##31 - S5
   ```
 
+##### #32
+
+* Titel: `Let's Play ESO #1679 ##32 - Sir Brenvale [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 32 des High-Isle DLCs - Sitzung 5
+  
+  In der letzten Episode haben wir die Möglichkeit diskutiert das es sich theoretisch beim großen, goldenen Instrument von Sir Brenvale ja nicht unbedingt um eine Laute handeln muss. Was wenn der Mann ein Virtuose am Cella war oder seiner Liebe dem Flügel galt? Als wahrer Ritter hätte er sein Instrument natürlich immer mit dabei, wenn das Gerät dann auch noch aus reinem Gold ist wäre es durchaus angebracht ein paar Möbelpacker mit zubringen. Kleiner Spoiler, die Laute ist wirklich nur eine Laute mit leicht abgeblätterter Goldfarbe. Was wir allerdings neben einer Menge Spinnen auch noch vorfinden sind Untote, nicht unbedingt wenige. Und natürlich auch den Geist den Sir Brenvale ursprünglich gesucht hatte. Das Alles haben wir ja bereits tausend Mal gesehen, doch das waren in der Regel verlassene Gräber irgendwo im Nirgendwo, seit Generationen vergessen. Hier handelt es sich um die Krypta in der Generation von Systren-Ritter begraben sind. Warum genau toleriert man Untote hier? Ist das untot sein eine natürliche Folge der Welt? Ist das Universum einfach so voller Leben das Leichen einfach anfangen auf zu erstehen, gäbe es keine Leichen würden auch völlig andere Dinge anfangen zu "leben"? So oder so sieht das nach einer ernsthaften Untoten-Plage aus. Haben sich etwa all die Ritter die doch soviel darauf geben ihre Ehre zu wahren sich gedacht "naja, solange die in der Gruft sind passt das schon". Oder sieht man die lebenden Toten als erweiterte Sicherheitsvorkehrung wie Mumien in Pyramiden? Irgendetwas ist doch faul hier, ob die Duforts so reich geworden sind weil sie Jahr um Jahr das Geld für den Friedhofswärter gespart haben?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 07.07.2022 - #1679 - ##32 - S5
+  ```
+
 ##### #Nummer
 
 * Titel: ``

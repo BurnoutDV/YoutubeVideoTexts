@@ -1439,6 +1439,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #96
+
+* Titel: `Disco Elysium - #96 - Kirche der Stille [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich ist die Kirche die wir heute betreten Dolores Dei gewidmet und anscheinend die Letzte ihrer Art, früher gab es noch Andere aber diese hier ist die Letzte die noch existiert. Interessant ist das Gebäude insofern das es noch steht und absolut unbeschädigt ist trotz der Dinge die hier wohl in der Vergangenheit geschehen sind. Keine zufällige Artillerieschelle von einem der Schiffsgeschütze hat den Turm in Mitleidenschaft gezogen, kein skrupelloser Immobilienhai hat die Einrichtung in einen Club verwandelt oder das Gebäude abgerissen um ein Einkaufszentrum in Strandnähe zu bauen. Einer der Gründe dafür dürfte ein seltsames Phänomen sein, ganz in der Mitte der Kirche wird alles ein wenig weniger laut. Ein seltsames Phänomen über das wir später bestimmt noch etwas mehr erfahren werden, für den Moment suchen wir aber nach dem Krabenmann. Es stellt sich dann recht schnell heraus das es sich um eine Person mit dem Namen Tiago handelt, viel mehr erfahren wir über ihn auch nicht, aber immerhin können wir mit ihm reden und einige Informationen erhalten, wenn auch nicht alle Informationen die es so gibt. So oder so wird uns wohl das ganze Mysterium mit der Kirche so einiges an Zeit kosten, das ist nie gut wenn man doch eigentlich einen Mordfall zu ermitteln hat. Aber was will man sagen, das Leben ist halt voller Nebenaufgaben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 03.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

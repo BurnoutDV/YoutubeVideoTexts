@@ -463,6 +463,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #31
+
+* Titel: `Elden Ring - #31 - Burg Morne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich waren wir bereits in der letzten Episode hier und haben sogar schon einmal zwischendurch vorbeigeschaut aber jetzt sind wir wirklich hier. Wir erkunden heute Burg Morne. Die Diener haben anscheinend einen Aufstand gegen die rechtmäßigen Herrscher der Burg geprobt. Die Herrscher die hier schon seit Generationen ihren Familiensitz und daher das angestammte Recht haben zu herrschen. Ganz klarer Fall. Warum genau die Diener aussehen wie komische hybriden aus Tiermenschen und Chimären an denen jemand Adlerflügel rangetackert hat kann mir aber niemand erklären. Bestimmt gab es irgendwo ein Stück Lore das uns erklärt wie es dazu kommen konnte, bis ich das aber gefunden habe müssen wir uns wohl einfach darüber aufregen das die Leute hier partiell fliegen können und ziemlich nerven. Wir suchen übrigens einen gewissen Vater von jemanden dem wir auf dem Weg hier her getroffen haben. Das ist eine Quest. Ich glaube nicht das ich irgendwelche Quests im ersten Spieldurchlauf schaffe, aber vielleicht geschehen ja noch Zeichen und Wunder.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 6, Aufnahme vom 08.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #32
+
+* Titel: `Elden Ring - #32 - Katzenwächter und Baumgeist [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben uns durch Godricks Burg ziemlich durchgequält, das lag eventuell daran das ich eigentlich hätte erst woanders langlaufen sollen und daher nicht alles in der richtigen Reihenfolge gemacht habe. Das schöne an dieser Art von Spiel ist aber das das nicht zwingend notwendig ist, wenn man ein wenig die Ausweichrolle beherrscht ist es durchaus möglich Dinge zu töten die wesentlich stärker sind als man selbst, es dauert dann einfach nur länger. Umso frustrierender aber auch wenn man dann kurz vor knapp stirbt weil man einen Fehler gemacht hat. Die Schwierigkeit eines Gegners ergibt sich also aus der Länge des Kampfes bei gegebener Kraft und Lebenspunktetiefe. Ganz einfach alles oder? Heute holen wir etwas nach das wir bis her übersehen haben, gibt es doch scheinbar Dungeons die uns von Statuen gezeigt werden, die könnten wir zwar auch so finden aber die Statuen helfen uns. In den Kellern finden wir übrigens auch wieder unsere Lieblingsfreunde aus dem Gargoyle Quartett, und natürlich einen mechanischen Wächter mit Anti-Käse-Pattern. Großartig. Ermutigt durch unserem neusten Erfolg besuchen wir dann noch einen alten Bekannten. Schon schön was man in so knapp 32 Minuten alles schaffen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 6, Aufnahme vom 08.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1872,7 +1872,23 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
 * Beschreibung:
 
   ```markdown
-  Heute geht es um Kotalos Arm, wir erinnern uns, der den er damals beim ersten Überfall von Regala auf die Gesandschaft verloren hat und jetzt irgendwie Ersatz gefunden haben. Um diesen Arm zu erstellen hat er die Hilfe einer KI in Anspruch genommen die in etwa 3 Mal so schlau ist wie ein Mensch, wie auch immer das gemessen wird. Weiter haben wir Forschungsdaten aus dem Far Zenith Komplex gestohlen, also dem Ort an dem man Daten findet die quasi die blutende Kante der menschlichen Forschung und Fortschritt darstellen, kein anderer Platz wird bessere und vollständigere Daten enthalten. Das ist auch ziemlich logisch weil die Anlage anscheinend nie vom Faro Schwarm angegriffen wurde, wir also nicht Restdaten plündern müssen sondern noch saftige Geräte vorfinden. Aber nicht nur Daten, auch Bauteile haben wir dort mit gehen lassen, modernste künstliche Muskeln, all das um jetzt endlich Kotallo einen neuen Arm zu geben. Übrigens ist es sehr bedauerlich das wir nicht im englischen Sprachraum unterwegs sind, das Wortspielt "Armed and Ready" oder "an armed Telnakth" hätte sich sowas von angeboten. Im Deutschen fällt mir leider kein schön Pun ein, so ist dann wohl das Leben. All das dauert übrigens so 8 Minuten, die restliche Zeit tun wir halt andere Dinge.
+  Heute geht es um Kotalos Arm, wir erinnern uns, der den er damals beim ersten Überfall von Regala auf die Gesandschaft verloren hat und jetzt irgendwie Ersatz gefunden haben. Um diesen Arm zu erstellen hat er die Hilfe einer KI in Anspruch genommen die in etwa 3 Mal so schlau ist wie ein Mensch, wie auch immer das gemessen wird. Weiter haben wir Forschungsdaten aus dem Far Zenith Komplex gestohlen, also dem Ort an dem man Daten findet die quasi die blutende Kante der menschlichen Forschung und Fortschritt darstellen, kein anderer Platz wird bessere und vollständigere Daten enthalten. Das ist auch ziemlich logisch weil die Anlage anscheinend nie vom Faro Schwarm angegriffen wurde, wir also nicht Restdaten plündern müssen sondern noch saftige Geräte vorfinden. Aber nicht nur Daten, auch Bauteile haben wir dort mit gehen lassen, modernste künstliche Muskeln, all das um jetzt endlich Kotallo einen neuen Arm zu geben. Übrigens ist es sehr bedauerlich das wir nicht im englischen Sprachraum unterwegs sind, das Wortspielt "Armed and Ready" oder "an armed Telnakth" hätte sich sowas von angeboten. Im Deutschen fällt mir leider kein schön Pun ein, so ist dann wohl das Leben. All das dauert übrigens so 8 Minuten, die restliche Zeit tun wir halt andere Dinge. Das wir nebenbei noch eine Karte von San Francisco und die absolut unterbewaffneten Späher der Quen finden verschweigen wir einfach mal. In dieser Episode geht es definitiv um Kotallo.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 05.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #122
+
+* Titel: `Horizon Forbidden West - #122 - San Francisco [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gerne würde ich behaupten das wir in der heutigen Episode die Reste von San Francisco erkunden und den ein oder anderen Anhaltspunkt dafür finden was einst in dieser großen Stadt los gewesen ist. Die Realität sieht aber so aus das quasi nichts übrig ist. Natürlich ist die Brücke immer noch rot, wenn ich mich recht entsinne wird die echte 
+  Brücke fast durchgängig gestrichen damit sie ihren speziellen Rot-Ton dauerhaft beibehält. Aber klar, es ist eben ein Wahrzeichen, das hält auch einmal tausend Jahre ohne neue Farbe durch, von der Brücke selbst ist aber nicht so viel übrig, man fragt sich doch wirklich warum sich ein Horus ausgerechnet da niedergelassen hat wo er jetzt ist. Ansonsten finden wir aber wirklich nicht viel, wir können noch mit ein paar von den Quen reden aber der Expeditionstrupp ist nicht unbedingt für seine Gesprächigkeit bekannt. Das System der Quen erscheint ziemlich strikt, es ist mir wirklich ein Rätsel wo sie all die Begrifflichkeiten her haben, und wie sie innerhalb kürzester Zeit das Gefühl von Striktheit und einer Nation die ihren Kaiser blind folgt erschaffen haben. Generell und überhaupt erwarte ich eigentlich eine sehr gute Erklärung dafür das die Quen so sind wie sie sind die scheinbar nicht mehr kommt. Ansonsten erfreuen wir uns ein wenig an dem environmental Storytelling. Nebenbei bemerkt fällt mir dann übrigens auf das es anscheinend ziemlich viele Open World Log-Files gibt. Ich habe bloß leider immer noch keine davon gefunden. Das ist bedauerlich.
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.

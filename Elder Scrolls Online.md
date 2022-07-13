@@ -6930,6 +6930,78 @@
   Aufnahme vom 07.07.2022 - #1679 - ##32 - S5
   ```
 
+##### #1680
+
+* Titel: `Let's Play ESO #1680 ##33 - Rotherz's Heft [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 33 des High-Isle DLCs - Sitzung 5
+  
+  Physik muss ein wenig anders im Elder Scrolls Universum funktionieren, Dinge rosten einfacher langsamer oder die Metalle die von den Leuten als Stahl bezeichnet werden sind eigentlich gar kein Stahl sondern irgendetwas Anderes. Möglich wäre es durchaus, eine klassische Regel für Fantasy ist ja das man die reale Welt als Standard nimmt und dann an bestimmten Stellen erweitert. Theoretisch könnte man natürlich auch damit spielen das die Welt nur normal aussieht aber in Wirklichkeit völlig anders ist und Physik, Material und viele Aspekte des Lebens ganz anders funktionieren. Wenn man dies allerdings tut ist jede Veränderung eine Belastung für den Leser oder Zuschauer. Daher ist es wenig klug diese Route zu gehen, wird eine Welt zu komplex kann sich niemand mehr merken was eigentlich los ist. Warum erzähle ich das? Weil wir heute eine legendäre Waffe finden die anscheinend noch nicht durch irgendwelche spielenden Kinder oder Jogger aufgelesen wurde. Eigentlich ist es auch nur ein Teil einer legendären Waffe und wir haben absolut keine Prüfung unternommen ob es überhaupt das richtige Heft ist. Ein wenig seltsam ist auch das nur die legendäre Klinge Rotzherz überlebt hat und nicht an der gleichen Stelle, immerhin Austragungsort einer Schlacht, noch jede Menge andere halb-verrosteter Waffen herumlagen. Alles in Allem hätte man hier wohl noch eine Ebene Komplexität zumuten können anstatt einfach zu behaupten das das Schwert noch da ist. Alternativ sind 1000 Jahre in Wirklichkeit eher so 50 und Zeit in Elder Scrolls wird einfach anders gezählt.
+  
+  0:00 - Willkommen, Willkommen
+  1:05 - BUCH: der verrückte Baron Densil
+  6:43 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 07.07.2022 - #1680 - ##33 - S5
+  ```
+
+##### #1681
+
+* Titel: `Let's Play ESO #1681 ##34 - Dame Isobel Veloise [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 34 des High-Isle DLCs - Sitzung 5
+  
+  Zum Ritter geschlagen zu werden ist auf jeden Fall ein Ereignis das nicht jeden Tag geschieht, in aktiven Kriegstagen darf man aber wohl damit rechnen das es ein paar mehr Beförderungen als normalerweise gibt. Ich kann mir durchaus vorstellen das es in Friedenszeiten durchaus Probleme damit gibt das man irgendwann zu viele Ritter hat. So ein stehendes Herr ist ja ziemlich teuer und macht nicht viel wenn man es nicht einsetzt. Außerdem muss man die Leute irgendwie beschäftigt halten, am Ende kommen die noch auf irgendwelche dummen Ideen. Ritter sind nun, zumindest meistens, keine Elitetruppen einer bestehenden Armee sondern halt Adelige die wahrscheinlich ihre eigenen kleinen Truppen befehligen, die genaue Organisation wechselt wahrscheinlich je nach Periode ziemlich, aber es kann definitiv nicht unendlich viele von ihnen geben. Ich behaupte daher einfach mal das man es künstlich schwerer machen muss Ritter zu werden damit nicht alles komplett überläuft. Insofern hat unsere gute Isobel heute Glück, das sie sich dann entschließt sich jemanden anzuschließen kann ich nicht so richtig gut heißen. Wir werden sehen wo mit ihr die Reise hin geht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 07.07.2022 - #1681 - ##34 - S5
+  ```
+
+##### #1682
+
+* Titel: `Let's Play ESO #1682 ##35 - der verdorbene Hain [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 35 des High-Isle DLCs - Sitzung 5
+  
+  Irgendwie ist zwischendurch der Teil passiert in dem ich aufgegeben habe mich für die Hauptquest zu interessieren, aber keine Angst, diese Zeit kommt wieder und ich werde gewisse wieder versuchen die Anführer der Allianz zu finden und irgendwie die Friedensverhandlungen auf Tamriel weiter vor ran zu treiben auch wenn eigentlich jetzt schon klar ist das das alles eher nichts werden wird weil irgendwie muss ja der große Konflikt in der Mitte der Karte erhalten bleiben. Zur Sache, wir betreten heute einen Hain, davon sieht man zwar nicht viel aber es soll einer sein also ist es einer. An diesem von Waldgeistern bewohnten Orten leben auch die Druiden, hier die vom Steinlehrezirkel, und gehen ihrer Arbeit nach und pflegen die Natur. Anscheinend ist Druide sein eine hoch angesehene Position und sogar einige Ritter kommen hier her um als Knappe oder sogar danach zu lernen was es wirklich bedeutet ein wahrer Bretone zu sein. Logischerweise heißt die Philosophie der Druiden auch "der wahre Weg". Niemand muss Angst haben, ich komme gut ohne "das ist der Weg" Sprüch durch.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 11.07.2022 - #1682 - ##35 - S5
+  ```
+
+##### #1683
+
+* Titel: `Let's Play ESO #1683 ##36 - der Immerwuchs [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 36 des High-Isle DLCs - Sitzung 5
+  
+  Wenn man einen heiligen Hain hat dann ist der eigentlich erst komplett wenn man auch einen heiligen Geist hat der sich um das Wohl dieses Hains kümmert. Nun ist es nicht so das es im Elder Scrolls Universum implizierte Manifestation gibt, oder narrative Manifestation (Dinge geschehen weil das dazu gehört, Dinge geschehen weil es die Erzählung so will) sondern man muss dafür arbeiten. Nun ist es so das Naturgeister ein wenig wie eine künstliche Lebensform sind, sie werden quasi Fiat Via mäßig aus dem Nichts erschaffen und sind dann da. Im Gegensatz zu zum Beispiel menschlichen Kindern kommen sie aber mit einer gewissen Grundintelligenz und Verständnis für die Welt um die herum sie erschaffen wurden. Gleichzeitig bedeutet das aber auch das der Geist nicht notwendigerweise eine tiefere Bindung zu irgendeinen Flecken Wald hat. Lange Geschichte kurz, die ersten Druiden haben also einen Waldgeist aus dem Nichts beschworen, dann ein paar magische Ketten gewoben damit das Vieh nicht abhaut und dann die darauffolgenden Generationen damit betraut aufzupassen. Und jetzt, einige wenige tausend Jahre später läuft das aus dem Ruder. Ein Klassiker.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 11.07.2022 - #1683 - ##36 - S5
+  ```
+
 ##### #Nummer
 
 * Titel: ``

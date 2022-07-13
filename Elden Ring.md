@@ -493,6 +493,81 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #33
+
+* Titel: `Elden Ring - #33 - Godricks Macht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ja vor einiger Zeit Godrick ein wenig toter gemacht als er eigentlich schon vorher war. Das hat er uns zwar ziemlich übel genommen aber technisch gesehen kann er uns nichts mehr. Das liegt schon alleine daran das wir jetzt seine Macht haben die irgendwie in einem Stück der Gesamtmacht steht. Leider war der gute Godrick nur ein sehr entfernter Cousin der Familie oder so. Um es kurz zu machen, er war zwar schon irgendwie etwas Besonderes im Verhältnis zu den restlichen Leuten die auf dem Schloss so herumliefen, aber im großen Bild der Welt war er nur ein ziemlich kleines Licht. Und doch, wir aktivieren heute seine Macht. Es dauert zwar ein wenig das zu verstehen, aber letztendlich funktioniert es wohl wie die Glut in Dark Souls 3, nur das wir uns halt den Buff aussuchen können der am Ende dabei herum kommt. Und das er ziemlich effektiv ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 6, Aufnahme vom 08.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #34
+
+* Titel: `Elden Ring - #34 - Liurnia [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben jetzt die Macht von Godrick, was wir noch nicht haben ist die Macht über die gesamte Welt, das bedeutet  das wir nun ein wenig weiter ziehen. Unser nächster Halt heißt daher "Liurnia", Langform ist übrigens Mecklemburg-Vorpommern. Viele viele See, ziemlich viel Wasser. Natürlich ein außerordentlich mobiler Tibiasseefahrer (ich gucke jetzt nicht nach wie man den richtig schreibt) und generell und überhaupt neue Gegner. Natürlich nicht nur, bei solchen Gelegenheiten erfahren wir auch von den altbekannten Leuten und wie sie uns das Leben zur Hölle machen können. Freuen wir uns also auf eine neues, freundliches Gebiet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 6, Aufnahme vom 08.05.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #35
+
+* Titel: `Elden Ring - #35 - Stein-Pavillion am See [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Niemand soll sagen das Liurnia nicht ein schöner beschaulicher Ort ist an dem man nicht die ein oder andere Urlaubswoche verbringen kann. Heute entdecken wir zum Beispiel einen kleinen Pavillion, in der Nähe leben zwar auch ein paar außerordentlich unfreundliche Gesellen aber es ist doch auch beschaulich oder? Es wird übrigens nicht der letzte Pavillion sein, entweder sah das große Seenland irgendwann einmal ein wenig anders aus und wurde dann überflutet oder aber irgendwann jemand hatte einen seltsamen Faible für Pavillione aus Stein und besaß genug Macht, Einfluss oder Geld um es einfach passieren zu lassen. Von dem was wir bisher von der Welt gesehen haben wäre das eine absolut plausible Erklärung für die Dinge die wir sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 7, Aufnahme vom 23.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #36
+
+* Titel: `Elden Ring - #36 - das Dorf der Albinaurics [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und endlich betreten wir wieder einmal Spuren der Zivilisation. Wir erinnern uns noch gut an das letzte Stück Besiedlung das wir betreten haben. Überall Untote, Zombies, komische Schamanen, Tiermenschen und generell und überhaupt Leute die uns hauen wollten. Oder beschießen. Generell und überhaupt scheint es ein echtes Problem zu sein friedliche Behausungen in dieser unwirtlichen Welt aufzutreiben. Die Albinaurics hätten vielleicht sogar freundliche Wesen sein können aber anscheinend kamen andere, weniger freundliche Gesellen vorbei und haben der gesamten Geschichte ein jehes Ende versetzt. Und so sind wir wieder in dieser Lage das wir zwar einen Ort näher kennen lernen aber leider einfach nicht mit den Locals reden können. Immerhin gibt es zwei kleine Ausnahmen, davon aber abgesehen bin ich nicht sehr angetan von der allgemeinen Gastfreundschaft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 7, Aufnahme vom 23.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #37
+
+* Titel: `Elden Ring - #37 - Torstadt der Akademie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwann sind wir einmal einen Magier begegnet der meinte das er eigentlich in Raya Lucaria studiert aber dann irgendwie Dinge geschehen und er jetzt leider nicht mehr reinkommt und er uns fragte ob wir nicht zufällig einen Schlüssel auf Tasche haben. Hatten wir nicht. Heute kommen wir zur Torstadt der Akademie und fragen uns das gleiche noch einmal. Die Torstadt scheint schon ein wenig länger von der eigentlichen Akademie abgeschottet zu sein und eine Flut gab es wohl auch in den letzten 30 Jahren. Ob so etwas wie Zeit überhaupt ohne Marika existiert ist übrigens nicht wirklich klar für mich. Es könnte durchaus sein das Dinge wie Tod, Zeit oder Jahreszeiten einfach nur abstrakte Konzepte sind die irgendwelche Gelehrte in ihren Büchern kennen aber nicht wirklich existieren. So oder dürfen wir heute irgendwelche komischen Krötenmenschen hauen und ein paar Soldaten austricksen. Letztendlich ändert das aber auch nichts daran das wir immer noch keinen Schlüssel haben. Immerhin finden wir einen Hinweis auf den Ort wo vielleicht einer sein könnte. Leider bin ich nicht besonders gut in solchen Karte und Kompass Geschichten. Fragt meinen ehemaligen Ausbilder und Gruppe die mit mir an der Spitze locker zwei Kilometer falsch gelaufen sind. Gute Zeiten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 7, Aufnahme vom 23.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

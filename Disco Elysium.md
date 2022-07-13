@@ -1454,6 +1454,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #97
+
+* Titel: `Disco Elysium - #97 - Funkprotokoll [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube ich habe fundamental nicht verstanden wie Funkcomputer funktionieren. Ich dachte erst das das erste Objekt das wir gefunden hatten einfach nur eine Art von Backup in der Cloud hatten und wir deswegen mit der Gegenstelle in irgendwo reden mussten. Aber so ist es wohl nicht, tatsächlich rechnet das Gerät im Äther! Zumindest habe ich das jetzt so verstanden, wie sonst kann die Qualität einer Antenne darüber bestimmen wie gut und schnell die Berechnungen sind die am Ende herum kommen. So richtig erklären möchte uns das Konzept aber niemand weil die einzige Person die wir heute treffen, Soona die Programmiererin nicht besonders gesprächig ist was bestimmte Themen angeht. Auch so erfahren wir eine Menge Dinge aber Nichts davon hilft uns so richtig weiter. Das ist ein wenig schade, aber immerhin wissen wir das es ein weiteres Mysterium in der Welt gibt das wir eigentlich lösen sollten wenn die Zeit es zulassen würde. Leider steht das nicht wirklich in unserer Stellenbeschreibung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 03.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #98
+
+* Titel: `Disco Elysium - #98 - Dolores Dei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht oft ist man in Gegenwart lebender Götter, die Leute im Elder Scrolls Universum können davon berichten aber ansonsten ist das halt nicht so oft der Fall. Es könnte auch damit zu tun das ein Gott den man anfassen und anschauen kann irgendwie weniger göttlich wird. So wie das Mysterium an Wert verliert wenn es aufgeklärt wird oder ein Schrecken weniger schrecklich wird wenn man seine Grenzen sehen kann so ist es auch bei den großen religiösen Dingern. Das ist sogar recht witzig wenn man bedenkt das entsprechende Götter immer noch omnipotent sind und eventuell sogar allwissend, wenn das die Definition eines Gottes ist. Dolores Dei war kein Gott, nur eine lebende Heilige, zumindest für einige Zeit, aber nicht insignifikant. Ihre Geschichte ist ein wenig sehr mysteriöse und eigentlich möchte ich auch gar keine Aufklärung was genau sie jetzt war. Es steht aber auch nicht zu vermuten das wir eine Aufklärung erhalten. Schließlich ist das nicht unser Auftrag, wir sind hier um einen Mord zu klären und nicht die metaphysischen Geheimnisse der Realität anzugehen. Aber wir könnten es ja vielleicht als Nebenauftrag einrichten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 03.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #99
+
+* Titel: `Disco Elysium - #99 - 2mm Loch in der Realität [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Realität besteht aus kleinen Inseln irgendwo im Grau. Das Grau ist irgendwie das undefinierte Nichts, quasi die Dunkelheit vor der Schöpfung (wenn man Texte vom gleichen Tag vergleicht findet man bei mir eine seltsame Religiöse Strähne, weird). Ich frage mich immer noch wie die ersten Isolas entdeckt wurden, aber bei dieser hier hatte Dolores Dei eine ziemlich große Rolle und das hier ist ihre Kirche. Viel wichtiger ist aber auch das diese Kirch um ein kleines Stück in der Realität gebaut wurde. Es ist jetzt ein wenig unklar bei was es sich um dieses Loch eigentlich genau handelt. Auf der einen Seite könnte es ein kleines, konzentriertes Stück Ferngrau sein das irgendwie komprimiert wurde, vielleicht befinden wir uns auch genau im ursprünglichen Zentrum der Isola und die Entstehung einer Insel geschieht so das sich ein Stück Grau zu einer Art Singularität zurückzieht während von Außen ganz langsam das Grau nachrückt. Spinnen wir weiter. Die Singularität erzeugt eine Art Gravitationsdruck nach Außen der aber nicht auf die normale Materie wirkt sondern nur auf das Grau, deswegen wird die Isola nur langsam verschlungen, in der Geschwindigkeit des Abnehmens der Grau-"Masse". Warum passiert das? Ist es Ergebnis einer künstlichen Schöpfung, ein Intelligentes Eingreifen? Weiß Dolores Dei mehr, war sie wirklich ein Alien das eine neue Isola erschaffen hat und daher die Erkundung antrieb? War es nur Mittel zum Zweck oder ging es wirklich um diese Isola? So oder so ist ein 2 mm Loch in der Realität außerordentlich interessant. Ob der Effekt einen quadratischen Verlauf haben kann? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 03.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #100
+
+* Titel: `Disco Elysium - #100 - diese schöne Lederjacke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir uns in der letzten Episode damit beschäftigt haben wie die Realität aufgebaut ist und wie auch eher nicht kommen wir heute zu ein wenig einfacheren Geschichten. Zum Beispiel gibt es diese Gang, sie nennt sich glaube ich die Totenköpfe (are we the baddies?). Und dann gibt es da noch diese Jugendlichen ohne Perspektive die sich gerne dieser Straßengang anschließen wollen. Aktuell haben sie noch nicht einmal Anwärterstatus aber sie träumen doch sehr davon. Scheinbar ist es übrigens auch ein ziemlich ernsthaftes Geschäft als Gangmitglied und da werden Dinge nicht nur einfach so Larri Farri gemacht. Und jetzt kommen wir ins Spiel. Unsere beiden jungen Proto-Aspiranten haben nämlich ein Interessen an Kitsuragis Wagen gefunden und tragen außerdem ein paar schöne Lederjacken. Lederjacken mit sehr interessanten Stats. Wie wäre es jetzt wenn wir ein wenig das Zwielicht sprechen lassen und uns der Sache ein wenig mehr annehmen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 11.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

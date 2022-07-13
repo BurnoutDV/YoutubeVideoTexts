@@ -1896,6 +1896,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #123
+
+* Titel: `Horizon Forbidden West - #123 - Insel der Türme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht welcher Aspekt von San Francisco besonders erwähnenswert ist aber das es eine Stadt mit Hochhäusern ist hätte ich spontan nicht gedacht. Auf der anderen Seite war schon in Fallout 1 die Stadt als "Boneyard" bekannt weil die ganzen ausgebrannten Ruinen nur noch ihre Metallstruktur hinterlassen haben und das Ganze sah dann halt so aus als wäre es das eine gewaltige Ansammlung von Skeletten. Heute erkunden wir die Stadt der Türme noch ein wenig mehr, es verwundert mich aber schon das wir eigentlich noch so viele Reste der Bauwerke sehen, nicht nur das Wind und Wetter scheinbar relativ gnädig waren, nein, auch keine Katastrophe geschah in all der Zeit, nur weil die Menschen weg waren heißt es ja noch nicht das Gebäude nicht auch einmal so spontan abbrennen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 05.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #124
+
+* Titel: `Horizon Forbidden West - #124 - Brutstätte: Chi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach einiger Zeit verschwimmt alles was man am Tag so erlebt zu einer einzigen Suppe und ein Tag erscheint wie der Andere. Davor habe ich ein wenig Angst, das das Leben zu einer grauen Masse wird die an jeder Stelle gleich aussieht, ohne Unterschiede, ohne Textur. Mit den Brutstätten ist es ein wenig ähnlich, man hat sich zwar Mühe gegeben das Ganze ein wenig abwechslungsreich zu gestalten aber ich bin auch echt ein wenig froh das es sich hier um die Letzte ihrer Art handelt. Ich weiß auch nicht was man hätte besser machen können. Im ersten Teil waren die Brutstätten halt noch sehr mysteriös weil absolut nicht klar war wie sie entstanden sind und warum sie so aussehen wie sie aussehen. Das wissen wir aber jetzt, und dadurch das sie erst nach dem Kollaps gebaut wurden ist es auch unwahrscheinlich das irgendwie Notizen herumliegen. Eventuell Einschlüsse von alter Welt Technik die aufgrund der Atmosphäre der Brutstätte noch perfekt erhalten sind? Ich weiß es nicht, diese hier schaffen wir in der üblichen Zeit von 40 bis zu 50 Minuten. Viel schneller wäre mit meiner Trantütigkeit leider nicht möglich gewesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 05.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #125
+
+* Titel: `Horizon Forbidden West - #125 - Motivationsansprache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Ende der Welt rückt näher, wieder einmal. Was genau die Zeniths eigentlich den ganzen Tag treiben während ich mich mit Kampfquests beschäftige ist ziemlich fraglich aber eigentlich müssen sie auch gar nichts tun, das Ende der Welt kommt so oder so näher und schon bald haben sie ihr Ziel erreicht. Letztendlich haben sie wohl hunderte von Jahren auf Dinge gewartet, warum jetzt also auf einmal in Eile verfallen? Und doch kann ich mich des Eindrucks nicht erwägen das das große Ende noch kommt. Natürlich könnte es auch sein das sie bereits einen Agenten in unseren Reihen haben. Ich bin übrigens immer noch ziemlich ungehalten das das Implantat das Beta am Anfang gehabt hat nicht erklärt wurde. Wie dem aber auch sei, sollte sie eine feindliche Agentin sein scheint sie ziemlich gut in dieser Schauspielkunst zu sein. Sogar so gut das wir heute eine echte Motivationsrede halten müssen um sie wieder auf Linie zu bekommen. Erstaunlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 05.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #126
+
+* Titel: `Horizon Forbidden West - #126 - Verbotenes Vermächnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wie genau die Quen funktionieren wissen wir immer noch nicht, weiter sogar, wir werden es wohl nie herausfinden. Einfach weil das hier die vorletzte Mission ist die wir mit den Quen haben. Das finde ich aus einer Worldbuilding Sicht ziemlich schwach und ich muss auch zugeben das ich hier ein wenig enttäuscht von Horizon bin. Das Vermächtnis der Quen wird immer wieder erwähnt und wir erfahren auch hier und da ein paar Brocken aber es bleibt immer noch zu wenig fassbar, es ist zu nebulös. Ich weiß immer noch nicht was man sich darunter vorstellen muss. Ist es ein einzelner Computer mit ein paar Terminals. Lagen dort ein paar Fokus Prototypen herum oder war es eine Forschungsanlage für das Vermitteln von Wissen mittels Holografie. Wir wissen einfach gar nichts. Nur das die Reichen und Mächtigen, in diesem Fall anscheinend die Kaiserfamilie und mit ihnen die Aufseher dieses Wissen versuchen soweit möglich zu limitieren. Das geht soweit das es sogar verbotenes Wissen gibt. Immerhin hat man einen schönen Weg gefunden die uralten Far Zenith Mitglieder und einige andere Leute zu Gottheiten zu erklären. Logischerweise ist dann natürlich alles was nicht so gut an diesen Leuten war auch verboten. Heute entdecken wir ein paar Graustufen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 05.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

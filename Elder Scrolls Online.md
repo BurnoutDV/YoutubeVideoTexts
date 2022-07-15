@@ -7002,6 +7002,63 @@
   Aufnahme vom 11.07.2022 - #1683 - ##36 - S5
   ```
 
+##### #1684
+
+* Titel: `Let's Play ESO #1684 ##37 - das Allwelken [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 37 des High-Isle DLCs - Sitzung 5
+  
+  Zustand der Lage: Der heilige Hain war den örtlichen Druiden einfach nicht heilig genug. Also haben sie aus dem Nichts einen Waldgeist beschworen der dann an das Land gekettet wurde damit der Hain ein echter heiliger Hain wird weil es natürlich eine lokale Gottheit gibt. Selbstverständlich hat dieser Geist mehre Aspekte (bedeutet das rein metaphysisch das es sich eigentlich um ein gesammeltes Bewusstsein handelt und das man mehre Seelen dafür genutzt hat?), einer dieser Aspekte ist nicht ganz so positiv wie die Anderen. Man könnte auch argumentieren das alles was lebt irgendwann vergeht und deshalb der Verfall ein völlig normaler Teil des Zykluses ist, aber das haben die Druiden bis jetzt ziemlich geflissentlich ignoriert. Auf jeden Fall ist der hier als negativ benannte Teil wohl ein wenig mächtig geworden und deswegen tun wir jetzt Dinge um dafür zu sorgen das nicht alles den Bach runter geht. Am Ende haben wir natürlich Erfolg weil sich jede Bedrohung mit genügend Feuerball besiegen lässt. Ist das nicht angenehm?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 11.07.2022 - #1684 - ##37 - S5
+  ```
+
+##### #1685
+
+* Titel: `Let's Play ESO #1685 ##38 - ein Kartenstück [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 38 des High-Isle DLCs - Sitzung 6
+  
+  Und wir erreichen schon wieder den Bereich wo mir in der unmittelbaren Umgebung die Quests ausgehen.  Das ist nicht weiter verwunderlich. Aufträge sind kein nachwachsender Rohstoff, wenn man nicht vorsichtig vorgeht sind alle schneller verbraucht als man gucken kann. Nun sind wir also hier und das ist die Lage. Natürlich hatte ich bereits einen Plan und wir gehen heute auch einer Spur nach, doch es stellt sich doch glatt heraus das wir eigentlich nur die örtliche Sammelquest gefunden haben. Ich würde jetzt stark davon ausgehen das wir noch ein paar mehr Leichen finden werden. Ich bin übrigens ziemlich verunsichert warum genau sie dieses Piratenthema eigentlich grade im Kontext der Bretonen abziehen wollen wo es bereits die etablierten Maormer gibt die einen interessanten Twist zulassen würden. Nun, es gibt natürlich auch einen Schatz und mit genügend Teilen der Karte könnte man diesen auch finden. Was ich übrigens nicht verstehe, wenn es einfach nur die Teile einer Karte sind, wenn derjenige der das Ziel hat eine beliebige andere Karte findet kann sie oder er doch ziemlich einfach den Ort einfach nur aus dem Ausschnitt deduzieren oder? Natürlich vor raus gesetzt die Karte ist nicht himmelschreiend ungenau.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 15.07.2022 - #1685 - ##38 - S6
+  ```
+
+##### #1686
+
+* Titel: `Let's Play ESO #1686 ##39 - ein Turm voller Ärger [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 39 des High-Isle DLCs - Sitzung 6
+  
+  Nachdem wir irgendwie zur örtlichen Werft gekommen sind, wahrscheinlich dem wirtschaftlichen Höhepunkt des Systren Archipels habe ich mich natürlich schnell zurückgezogen, wollen wir doch nicht unnötig schnell vor ran schreiten. Stattdessen kümmern wir uns heute um einen magischen Turm. Bzw. eigentlich magischen Ereignissen die hier irgendwie stattfinden ohne das ich dir jetzt genau sagen kann woran das liegt. Aber keine Angst, das kriegen wir noch heraus. Dafür ist Aliya die Heldin bekannt, für lückenlose Aufklärung von unerklärlichen Ereignissen. Meistens ist es sogar so einfach das wir einfach irgendwelche Bücher lesen und schon geht es vorwärts. Bücher die übrigens niemand anderes gelesen hat und uns völlig neues Wissen bringen. Außerdem treffen wir eine Person namens Funke, ihres Zeichens Khajiit Magierin. Soweit ich weiß sind die Katzenmenschen nicht unbedingt die Großmeister wenn es um Magie geht. Funke ist auf jeden Fall dafür verantwortlich das die Dinge so aus dem Ufer laufen wie es gerade der Fall ist..oder auch nicht?
+  
+  0:00 - Gameplay
+  12:01 - BUCH: Seekunde für arkane Anwendungen
+  14:24 - fehlerhaftes Physikwissen
+  14:55 - BUCH: Die Trauer des Windes
+  17:47 - "Gameplay"
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 15.07.2022 - #1686 - ##39 - S6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

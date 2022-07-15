@@ -1514,6 +1514,52 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #101
+
+* Titel: `Disco Elysium - #101 - Kunstankauf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich werde jetzt etwas ein wenig simpler erklären als es eigentlich ist, aber so ist das nun mal bei komplexen Geschichten, wenn man sie vereinfacht dann erklärt man eigentlich ein Model und nicht die Realität. Und eventuell habe ich es auch nicht ganz richtig verstanden, das hilft auch nicht unbedingt. Also Kunstkauf. Du gehst zu irgendeinen Künstler hin und kaufst Kunst, was das jetzt genau ist spielt erst einmal keine Rolle, wichtig ist "plausible deniability", im Zweifel muss es also irgendwie glaubhaft sein das das auch Kunst ist. Jetzt gehst du zu deinem Kumpel den Kunstkenner der eine Galerie hat. Der schätzt das Werk auf 10 Millionen, danach tauscht ihr irgendwelchen Dinge im Wert von 10 Millionen aus und schreibt euch beide schön einen Aufwand von 10 Millionen auf und das ihr ja soviel Geld bewegt habt. Fertig, in ein paar Jahren geht dann die Runde wieder los. Der Künstler hat natürlich Nichts davon, der kriegt nur ein Taschengeld. Das der gesamte Kunstwerk absolut virtuell ist sollte spätestens klar sein seit dem Kunstbetrüger gutes Geld machen können. Alte Meister nachmachen bringt unendlich Geld, aber selber genau so malen kostet dich Farbe und Leinwand und bringt genau Nichts. Ohne das es irgendeinen erkennbaren Unterschied gibt. Alternativ geht natürlich auch das irgendein reicher Idiot glaubt das die Kunst wirklich irgendetwas wert ist oder weil er sich einfach reich vor Anderen fühlen will. Dann besorgst du dir billig Kunst und verkaufst sie dann teuer nach dem du ein paar Speech Checks geschafft hast. Legen wir also mit Schritt 1 los.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 11.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #102
+
+* Titel: `Disco Elysium - #102 - steigendes Eigenkapital [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir setzten direkt an wo wir aufgehört haben. Schritt 2, Idioten finden und inhärent wertlose Kunst unterjubeln und dann fett Geld machen. Leider  gibt es da ein paar kleine logistische Probleme. Wir wissen immerhin sofort wer unser Opfer ist, es gab da zwar schon ein paar Optionen aber die waren absolut nicht realistisch, also haben wir halt das getan was logisch ist, wir sind zum ultrareichen Lichtbrecher gelatscht. Der weiß auch am wenigstens über uns, das macht es leichter ihn hereinzulegen. Allerdings könnte es durchaus sein das er in der Lage ist das "Kunstwerk" wirklich mit Gewinn zu verkaufen, so genau kann man das nie wissen. Zurück zum logistischen Problem. Wir wussten ja schon das Herr Lichtbrecher eigentlich kaum Bargeld mit sich führt (obwohl fraglich ist wie viel eigentlich "kaum Bargeld" ist). Stattdessen erhalten wir etwas das vielleicht genauso gut wie Geld ist aber leider nicht direkt im Supermarkt handelbar ist. Das ist natürlich ein Problem. Netto sind wir also immer noch 25 Real im Minus weil wir mit unserem neuen Vermögen leider absolut nichts anfangen können. Das ist ein wenig ärgerlich.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 11.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #103
+
+* Titel: `Disco Elysium - #103 - Marketing-Stratege der Extraklasse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Geld, irgendwie. Wir sind quasi ein Kunstmäzen, jetzt müssten wir daraus nur noch einen Job machen und schon könnten wir bald ewig so weitermachen und immer reicher werden. Das Problem ist das uns unser Reichtum noch keinen praktischen Nutzen bringt, einfach weil die Leute nicht wissen das wir tatsächlich über Geld verfügen. Das ist auch das Interessante an Geld, wenn man es einmal hat kommt meistens noch mehr dazu weil Leute sich mit einen gut stellen wollen. Nur Idioten vergeben Geld einfach so, aber wenn man sich bei denen einschmeicheln möchte die schon haben kann man durchaus investieren. Jetzt stellt sich natürlich auch ein wenig die Frage wie sicher Revachol für halbwegs reiche Lichtverbieger ist, insbesondere wenn man sich die Präsenz der BMR in der Region anschaut. Spontan würde ich aber vermuten das sie eher inexistent ist. Wir sollten also vielleicht ein wenig in der Zustimmung der Bevölkerung steigen, einfach ein wenig Wohlwollen generieren. Dafür brauchen wir aber einen Experten, wir ziehen also los auf die nächste Queste, der Suche nach dem ultimativen Marketingstrategen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 11.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

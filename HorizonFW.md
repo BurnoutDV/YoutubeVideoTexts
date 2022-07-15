@@ -1956,6 +1956,46 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #127
+
+* Titel: `Horizon Forbidden West - #127 - Jagdgebiet Regenhand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das hier ist übrigens nicht einmal das letzte Jagdgebiet, es ist nur das was durch Zufall in der Nähe ist als ich mich heute dazu beschlossen habe loszulegen. Ich vermute allerdings das es sich durchaus um das schwerster aller Jagdgebiete handeln könnte. Die Bedingungen für ein erfolgreich abgeschlossenes Abzeichen sind auf jeden Fall ziemlich anstrengend. Auch schön ist das man es entweder in der besten Zeit oder gar nicht schafft, zumindest so wie die Aufgaben aufgebaut sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 18, Aufnahme vom 12.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #128
+
+* Titel: `Horizon Forbidden West - #128 - die Maschinenrennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir müssen uns sputen, der Untergang der Welt ist nur noch wenige Wochen entfern und bevor es soweit ist möchte ich alles gesehen haben. Es ist übrigens nicht so das ich das jetzt einfach so hinnehme das die Welt untergehe und einfach dem Hedonismus nachgehe, nur, sobald die  Welt gerettet ist ist bestimmt auch gar keine Zeit mehr irgendetwas Anderes zu tun weil gewiss irgendetwas schief geht und das wollen wir ja nun wirklich nicht. Daher machen wir heute schnell all die schönen Rennen die noch aus standen und versuchen herauszufinden wer sich hinter dem Helm befindet. Außerdem frage ich mich wirklich wo genau diese entlaufenden Tenakth-Rebellen ihre Reittiere her haben. Wenn ich so darüber nachdenke so hat das Maschinenreiten etwas von Motorrad-Jugendkultur oder? Junge Leute die alles riskieren um sich auf gefährlichen Maschinen zu beweisen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 18, Aufnahme vom 12.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

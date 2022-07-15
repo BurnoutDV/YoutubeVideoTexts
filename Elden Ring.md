@@ -568,6 +568,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #38
+
+* Titel: `Elden Ring - #38 - Bis zum Wegesende [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man mich länger schauen würde würden Muster auffallen. Wahrscheinlich sogar mehr als mir auffallen. Mir ist zum Beispiel Folgendes aufgefallen: immer wenn irgendwelche Episoden was mit Wegesende, lose Ende oder überhaupt Ende im Titel haben ist das in der Regel die Episode in der ich ziemlich dämlich um her laufe und absolut nicht das finde was mich vorwärts bringt. Natürlich könnte man jetzt solche Episoden einfach raus schneiden und wenn ich nicht unter völliger Selbstunterschätzung leide habe ich in solchen Filler Episoden auch nicht besonders viel Interessantes zu sagen. Allerdings bin ich einfach zu faul, und du die hier in der Küche steht und grade das Gemüse macht ist es doch letztendlich auch egal was ich tue wenn ich nicht gerade mit einem Boss beschäftigt bin oder? Schöne Hintergrundbeschallung damit du dich nicht so allein fühlst, das ist alles um das es geht. Und das erfülle ich doch, hoffe ich zumindest.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 7, Aufnahme vom 23.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #39
+
+* Titel: `Elden Ring - #39 - Erdbaumgeist [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gefunden habe ich zwar immer noch Nichts was mich wirklich meinem Ziel näher bringt aber dafür könnte ich wahrscheinlich auch einfach den Zeichen der Gnade folgen wenn ich das wirklich wollte. Stattdessen finden wir heute einen Erdbaumgeist, ohne nachzugucken würde ich behaupten das es diesen Gegnertyp einmal öfter gibt und das ich ihn schon getroffen habe. Aber das alles ist gar kein Problem, dieses Mal schaffen wir es ganz bestimmt. Allerdings ist mir ein wenig unklar welches Interesse ich überhaupt daran habe den Erdbaum weiter zu beschädigen. Soweit ich das verstanden habe ist der Erdbaum relativ wichtig und die Leute sind schon kaputt genug weil es da einen Vorfall gab. Aber nun gut, das Vieh will uns hauen und wir wollen es uns hauen. Der Sachverhalt ist einfach. Außerdem lernen wir den Wert der Knochenmiliz kennen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 7, Aufnahme vom 23.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #40
+
+* Titel: `Elden Ring - #40 - Kristallhöhle von Raya Lucaria [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir eigentlich recht sicher das ich eigentlich nach Raya Lucaria rein soll, dort irgendwelche Dinge tun und dann meinen Weg fortsetzen. Ich bin mir allerdings nicht so ganz sicher wie ich das umsetzen soll. Daher laufen wir einfach weiter orientierungslos durch die Welt und finden stattdessen eine Kristallhöhle. Mittlerweile habe ich aber gute Erfahrung mit solchen Einrichtungen gemacht und kenne daher schon ein paar Tricks. Was auch immer mit den Bergarbeiter geschehen ist hat sie recht hart werden lassen. Zum Glück habe ich da einen einfach Trick bei dem ich um die Leute herumrenne, ich denke doch sehr das das in aller Zukunft ein einfaches und probates Mittel sein wird um diese Art von Gegner zu umschiffen. Solange sie nur alleine kommen kann ich auch keinen Nachteil erkennen. Ich meine, solange es bei den Bergarbeiter bleibt und nicht andere, ebenso immune Gegner kommen ist doch alles sicher oder? Oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 7, Aufnahme vom 23.06.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

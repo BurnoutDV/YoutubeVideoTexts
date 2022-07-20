@@ -1560,6 +1560,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #104
+
+* Titel: `Disco Elysium - #104 - feindliche Übernahme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Begriff feindliche Übernahme hat lange Zeit für mich keinen Sinn ergeben. Firmen sind Firmen und entweder kauft man die oder man tut das eben nicht. Nun sind börsennotierte Firmen aber öffentlich gehandelt und anscheinend kann man nur sehr begrenzt darüber entscheiden wer was kauft, und wer auch immer eine bestimmte Anzahl an Anteilen besitzt kann über Eck über die Organisation der Firma entscheiden. In der Regel setzt man wohl den CEO ein der aus logischen Gründen auch einen Anteil an der Unternehmung hat, man muss die Leute ja motiviert halten. Eine feindliche Übernahme ist wenn man gegen den Willen der derzeitigen Besitzer Anteile (meistens via Strohmänner) kauft und dann alle Anteile kombiniert um plötzlich eine Mehrheit zu haben, passieren kann das natürlich nur wenn auch wirklich mehr als 50% der Aktien verfügbar sind. So hatte ich es zumindest verstanden und eben aus dem Gedächtnis zitiert. Unser guter Gewerkschaftsführer geht einen leicht anderen Weg, hier passiert das ganze ohne Aktien, stattdessen wird einfach der Besitz in..nun..Besitz genommen. Normalerweise hat man für so etwas eine Staatsmacht die sich einmischt wenn Leute versuchen Dinge einfach für sich selbst zu erklären. Daher besticht man als ordentlicher Geschäftsmann auch die Politik damit die Dinge rund laufen und man das Recht des Stärkeren durchsetzen kann. Wir wissen bereits das Martinaise da ein wenig anders ist und das die Gewerkschaft de facto die Polizei ersetzt. Wenn jetzt aber el Commandante die Produktionsgüter ergreift dann kontrolliert er ja auch die Durchsetzung des Gesetztes und kann sich einfach dazu entscheiden nichts zu tun. Und so sieht der Plan von Evrart aus, ich bin ja ziemlich gespannt was als Nächstes kommt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 11.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #105
+
+* Titel: `Disco Elysium - #105 - der grüne Lastwagen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Zeit vergeht, und das zwar schnell. Es ist Tag 4 und wir haben eigentlich immer noch keine Ergebnisse. Klar, Tag 1 war voll im Zeichen der Realititätsfindung und Tag 2 haben wir auch ein wenig Zeit darauf verwendet herauszufinden wer wir eigentlich sind. Aber spätestens an Tag 3 hätten wir doch langsam ein wenig genug gehabt haben sollen oder? Mittags sollte doch der Fall im Sack gewesen sein, aber dem ist natürlich nicht so. Ich bin mir nicht sicher ob Disco Elysium überhaupt irgendwelche Pfade hat oder ob man beim zweiten Spieldurchgang quasi schon weiß wer der Täter war und sich voll auf die sozialistische Revolution konzentrieren kann. Wie dem aber auch jetzt wirklich sei, wichtig ist der grüne Lastwagen der uns sagt wer die Drogen durch die Gegend schiebt. Wir finden einen interessanten Hinweis in Form eines Fußabdrucks und etwas das uns anscheinend ein wenig zu groß ist. Aber wir machen Fortschritte, große Fortschritte, und das nur weil wir mit einem Lastwagen interagiert haben mit dem wir vorher nicht interagieren konnten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 11.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #106
+
+* Titel: `Disco Elysium - #106 - die kleinste Kirche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt ist am Ende! Wenn nicht heute dann morgen und wenn nicht morgen dann ganz bestimmt übermorgen. Allerdings gibt es noch eine kleine Hoffnung. Und diese Hoffnung heißt Disco. Und deshalb wollen wir heute singen. Der alte Harry, den Harry den das alte Reptiliengehirn immer anspricht hat Musik irgendwie geholfen, oder auch irgendwie nicht. Es ist eigentlich ziemlich unklar, hat Harry die alten Lieder gehört weil es irgendetwas in ihm berührt hat oder tat er es weil es so weh tat. Wie ein Masochist der sich selber Schmerzen zufügt weil es weh tut und doch gut tut? Was hat den alten Harry angetrieben? Wir wissen es einfach nicht, nichts von der Person die einmal war ist mehr da. Es gibt hier und dort zwar Teile, ein paar Fetzen die irgendwie zusammengefügt werden können aber die Person ist weg, Harry Du Bois hat aufgehört zu existieren und an seiner Stelle steht Harry du Bois, eine andere Person und doch der gleiche Körper. Nebenbei bemerkt, wir müssen offensichtlich mit den Altlasten unseres Vorgängers klar kommen, das ist ein echtes Problem, zumindest auf mittlere Sicht. Hoffen wir das wir das irgendwie abwenden können. Abe erst singen wir.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 11.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #107
+
+* Titel: `Disco Elysium - #107 - Flippuragi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Gedächtnis ist nicht immer das Beste. Allerdings gibt es da eine gewisse Selektion, umso mehr Erinnerungen an dem dran sind was einst Harry ausgemacht hat oder schlimmer noch mit Dora zu tun hat ist weg. Es ist ein wenig wie ein Erdbeben in einer Stadt. Direkt im Epizentrum ist es am Schlimmsten. Wahrscheinlich ist Dora dort, vielleicht aber auch etwas Anderes und Dora ist nur sehr nahe. Andere Erinnerungen sind wesentlich weiter weg, zum Beispiel alles was uns die Enzyklopädie gibt, diese Informationen sind ziemlich gut habhaft. Dinge die direkt mit dem Dienst zu tun haben liegen irgendwo auf halben Weg dahin. Zum Beispiel Gerüchte über andere Reviere oder Dinge die wir im Dienstgeschehen gesehen haben. Unsere direkten Kollegen liegen leider ein wenig näher dran, daher können wir uns kaum an sie erinnern. Zum Glück war Kim Kitsuragi noch nie ein direkter Kollege, wir haben also tatsächlich ein paar Erinnerungen. Nur hatten wir halt nie mit ihm interagiert, zumindest nicht direkt. Aber Gerüchte, die haben wir aber gehört, und das führt uns zur heutigen Episoden und dessen Titel. Zum Glück weiß Kim davon nichts.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 18.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

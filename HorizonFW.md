@@ -1986,14 +1986,79 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #129
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #129 - der göttliche Schmied [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  In einem anderen Spiel hatte ich unlängst eine Quest in der Druiden sich einen Waldgeist beschworen haben und diesen dann an einem Ort banden damit ihr Hain ein wenig heiliger wird. Wenn man sich anschaut wie eine höhere KI aussieht hat man prinzipiell das gleiche Ding. Man beschwört sich quasi aus dem Nichts mittels geheimer Mittel ein Bewusstsein und das agiert dann als Wächter. CYAN hat die Caldera eines Vulkans überwacht, quasi ein magischer Geister der sich um das Gleichgewicht der Natur kümmert. Gibt man dem Geist aber soviel macht das er selbst seine Schöpfer überwinden kann hat man sich ziemlich schnell einen Gott geschaffen. So geschehen quasi mit HEPHAESTUS, die Menschen der Welt beten die Maschinentiere an und wenn man sich deren Schöpfer und ihr fortschrittliches Design anschaut sollte man das auch. Zu schade das sich der Schmied der Götter nicht allzu sehr um irgendwelche Anbetung kümmert. Das könnte sich aber nach genügend Zeit ändern, für den Moment scheint er sich aber ziemlich sicher zu sein das er relativ einfach damit davon kommt einfach weiter mehr Roboter zu bauen die in seinem Namen Dinge tun. Und doch brauchen wir den Götterschmied, wer sonst soll unsere große Armee bauen die die Zeniths zu Fall bringt und damit endlich wieder Frieden auf der Welt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 18, Aufnahme vom 12.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #130
+
+* Titel: `Horizon Forbidden West - #130 - die Umgehung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir bauen heute keine Autobahn und müssen deswegen Teile der Strecke wegen Bauarbeiten sperren. Auch wenn es faktisch richtig ist das wir ein wenig bauen müssen um unsere Ziele zu erreichen. Ich finde es übrigens beeindruckend das die von einer KI geschaffenen Brutstättenkerne leichter für Menschen zu reparieren sind als moderne Handies. Oder hat irgendjemand Beta mit einem Torx-Secure Schraubenzieher rumbasteln sehen? Nun, zur Sache, es ist so das wir HEPHAESTUS wieder in GAIA integrieren müssen obwohl der Schmid mittlerweile selbst mächtig herangewachsen ist, wahrscheinlich sogar um ein vielfaches mächtiger als er früher war. Das bedeutet das wir eine Menge heuristische Dichte abgreifen könnten (der Begriff ergibt übrigens keinen echten Sinn, mir sind Suchheuristiken bekannt aber dann hört es auf...) andererseits gibt es wohl keine lebenden KI Ingenieure mehr, daher wäre es eventuell fatal veränderten Code mit aufzunehmen. Daher müssen wir wieder alles auf Anfang stecken. Übrigens ist das noch wesentlich unlogischer, das große Ding bei KI ist ja eben das niemand versteht wie die Dinge passieren. Code der keinen erkennbaren Zweck hat könnte unter Umständen über 10 Ecken zum Ergebnis beitragen, einfach weil das halt im Training so entstanden ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 18, Aufnahme vom 12.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #131
+
+* Titel: `Horizon Forbidden West - #131 - Frühstück am Meer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir spielen mal wieder das Wortspiele Spiel, am besten hätte es noch in irgendeiner Sprache geklappt in der Meer nicht Meer geschrieben wird sondern irgendwie sehr ähnlich aber doch anders. Außerdem habe ich hier ein leichtes Problem. Gelegentlich sehe ich ja Inhalte zu Medien auf Youtube vorbeiflackern, und ich kann sagen ich bin enorm gut aus kleinsten Hinweisen Brücken zu bauen. Gestern hatte ich beispielsweise nur irgendetwas übereinen Schauspieler einer Serie gesehen die ich grade gucke und mein Gehirn hat für mich das Denken um drei Ecken gemacht um zu deduzieren was das zu bedeuten hat. Mittlerweile habe ich weiter geguckt und ich hatte natürlich recht. Obwohl, in diesem Fall hatte ich recht, ich hätte auch schief liegen können, lag ich aber nicht. Und jetzt komme ich daher mit diesem Titel und schlimmer noch, diesem Thumbnail. Ich habe nur wenige Zuschauer, da muss ich ja schon Angst haben Leute zu vergraulen die sich nicht spoilern lassen wollen. Andererseits ist das Bild ohne Kontext auch relativ unaussagekräftig. Aber ich mache mir dennoch ein wenig Sorgen. Zum Inhalt, wir essen Frühstück und hören Worte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 18, Aufnahme vom 12.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #132
+
+* Titel: `Horizon Forbidden West - #132 - Bewältigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neben dem eigenen Tod fürchtet man als halbwegs empathischer Mensch auch durch aus das Ableben von Verwandten und guten Freunden. Das ist immer ein wenig schwierig zu verarbeiten. Man verbringt soviel Zeit mit jemanden, jemand der immer da war, jemand den man so gut kannte, und dann gibt es diese Person auf einmal nicht. Menschen neigen sich dazu an Hoffnung zu klammern, aber für Hoffnung braucht es Eventualitäten und irgendwo noch einen Raum der es möglich macht das die Dinge noch anders stehen könnten. Der Tod ist in dieser Hinsicht ziemlich eindeutig und radikal. Kein erkennbarer Raum für Interpretation oder Möglichkeiten. Dann heißt es Abschied nehmen, für ein letztes Mal und irgendwie die Dinge überwinden, irgendwie die darüber hinweg kommen das die Dinge gelaufen sind wie sie gelaufen sind. Das tun wir heute, glücklicherweise hat Zo dafür eine gewisse Ausbildung und kann diese sogar an sich selber anwenden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 18, Aufnahme vom 12.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #133
+
+* Titel: `Horizon Forbidden West - #133 - die Flügel der Zehn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Flugfähigkeit ist ein außerordentlich mächtiges Talent, eines das es ermöglicht Grenzen und Wege zu überwinden die in der Vergangenheit unüberwindbar erschienen. Es hat aber außerdem den Nachteil das Hindernisse die vorher eine spannende Herausforderung waren auf einmal zu einer eher einfach Angelegenheit werden und kaum noch etwas bereit halten. Aloy selbst wird es wohl ganz recht sein, ich kann mir vorstellen das nach einigen Stunden durch die Welt reiten es ziemlich langweilig wird und man wirklich keine Lust mehr hat auf dem Rücken einer Maschine zu sitzen, insbesondere wenn man bedenkt das die Viecher nie dafür gebaut wurden geritten zu werden und dementsprechend viel Ergonomie auf dem Rücken bieten. Sonnenflügler übrigens auch nicht aber es geht immerhin schneller. Außerdem kann man damit Tod auf seine Feinde regnen lasse, eine Fähigkeit die man nicht unterschätzen sollte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 18, Aufnahme vom 12.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #Nummer

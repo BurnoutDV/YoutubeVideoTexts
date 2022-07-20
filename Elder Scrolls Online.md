@@ -7059,6 +7059,74 @@
   Aufnahme vom 15.07.2022 - #1686 - ##39 - S6
   ```
 
+##### #1687
+
+* Titel: `Let's Play ESO #1687 ##40 - tierische Illusion [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 40 des High-Isle DLCs - Sitzung 6
+  
+  Ich weiß das es vor einigen Jahren einen relativ erfolgreichen Post von jemanden auf Reddit gab der Skyrim komplett nur mit Illusionsmagie durchgespielt hat, ohne selbst je jemanden zu verletzten. Quasi der volle Pazifismusrun. Die meisten Zeit kann man ja einfach vor Gegner davon rennen, sich unsichtbar machen oder einfach alle für sich kämpfen lassen. Mit genügend Illusion kann man Freund und Feind nicht mehr unterscheiden und beste Freunde werden sich in blanken Hass gegenseitig bis auf den letzten Knochen hassen. Illusionen manipulieren Geist und Wahrnehmung und können oft zu erstaunlichen Ergebnissen führen. Ich erinnere immer wieder gerne an die verzauberte Vase von Narsis Dren der wirklich selber dachte das er eine Vase sei obwohl er rein faktisch wusste das er keine Vase ist. Wahrlich mächtige Magie wenn man es genau nimmt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 17.07.2022 - #1687 - ##40 - S6
+  ```
+
+##### #1688
+
+* Titel: `Let's Play ESO #1688 ##41 - der Spiegelweg [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 41 des High-Isle DLCs - Sitzung 6
+  
+  Heute geht es um Zauberbücher. Wir brauchen nämlich Eines um Dinge zu tun, Dinge wie einen anderen kaputten Zauber zu reparieren. Wir erinnern uns das Magie in Elder Scrolls in der Regel von der Sonne ausgeht (außer man ist nicht so vertraut mit der Sonne, dann gibt es andere Quellen). Irgendwie kommen da dann Zaubersprüche, Zauberbücher, Mikrorunen, große Runen und das ganze andere Zeug hinein. Wahrscheinlich ist es ziemlich gefährlich pure Magie zu verwenden und ein paar Abstraktionsebenen mittels Papier helfen den sterblichen Geist das Ganze besser zu verstehen. Wie genau man jetzt fertige Zaubersprüche dafür verwenden kann andere Zaubersprüche zu verändern, ich habe absolut keine Ahnung. Wie dem aber auch sei, wie legen einfach einmal los und gucken mal wie weit wir kommen. Eventuell töten wir bei der Gelegenheit auch noch die Windtrauer.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 17.07.2022 - #1688 - ##41 - S6
+  ```
+
+##### #1689
+
+* Titel: `Let's Play ESO #1689 ##42 - Funke die Magierin [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 42 des High-Isle DLCs - Sitzung 6
+  
+  Wir haben eine Katze adoptiert. Nicht unbedingt geplant und doch ein wenig sehr schnell, man könnte fast sagen viel zu schnell. Die gute Isobel war noch nicht einmal richtig getestet und eingefahren da kommt schon die nächste Begleiterin. Wir haben jetzt also eine Khajiit Vagabundin die nicht in der dritten Person von sich redet und anscheinend ein viel zu großes Talent für Magie hat, größer als für sie selber gut wäre. Nun gut, schauen wir uns also an was man mit Funke alles machen kann, jetzt brauche ich nur noch die Motivation ihre täglichen Aufgaben zu machen um sie besser bei Stimmung zu halten. Aber das ist etwas das wir uns ja nicht anschauen müssen. Jetzt haben wir also Funke und machen uns auf irgendwo Feuer zu legen, hat jemand Stroh rumliegen sehen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 17.07.2022 - #1689 - ##42 - S6
+  ```
+
+##### #1690
+
+* Titel: `Let's Play ESO #1690 ##43 - Spur am Steinlehrezirkel [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 43 des High-Isle DLCs - Sitzung 6
+  
+  Wir haben drei Spuren die wir verfolgen. Es geht darum unsere verlorenen Anführer der Allianzen zu finden. Ich möchte diese Stelle nutzen um daran zu erinnern das man in dieser Welt nicht nur durch Erbschaft König wird. Es mag zwar so scheinen aber ganz so weit sind wir noch nicht in Sachen Verweichlichung. Wer die Nord führen will sollte schon ein besserer Krieger sein und Ayrenn hatte eine ziemlich wilde Vergangenheit und sollte eigentlich durchaus in der Lage sein ihr eigenes Stück Heldentum zu begehen. Daher kann es eventuell ziemlich egal sein was wir tun, unsere vermissten Würdenträger sind keine Niemande, keine Bürokraten und sicher keine Prinzessin in Not. Umso überraschender ist es eigentlich das wir noch von keinen von ihnen gehört haben. Da uns das ein wenig beunruhigt forschen wir jetzt nach wie das Verschwinden überhaupt geschehen ist. Unser erster Haltepunkt ist ein vergessener Druidenzirkel nahe dem Steinlehrehain, wir erinnern uns, ich war erst neulich dort. Die Erkenntnis die ich mitnehme ist auf jeden Fall das der emporstrebende Magus ein Skriptkiddie ist und nicht über echte Macht verfügt. Als die Seekrecken Dinge taten war die Magie zwar grausam aber von ihnen ausgelöst, als die Maormer Rituale sprachen war das ihre Macht. Der Magus scheint ohne externe Quellen keine größeren Werke zu verbringen. Weiter noch, er kann die Macht nicht einmal selber lenken. Für das Endergebnis war das natürlich unerheblich, allerdings wird der Punkt kommen wenn wir ihn gegenüber treten, und diesen Moment müssen wir also nicht fürchten. Wir hätten ihn damals sofort engagen sollen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 20.07.2022 - #1690 - ##43 - S6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

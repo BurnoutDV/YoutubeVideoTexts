@@ -613,6 +613,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #41
+
+* Titel: `Elden Ring - #41 - Spur eines Toten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was wir heute machen ist relativ einfach erklärt. Ich habe mir ein paar Videos von Carbot angeguckt und da war zu sehen das man in Castle Morne anscheinend noch mit dem Vater der Frau reden konnte der wir einmal in der Vergangenheit vor den Toren begegnet sind. Das habe ich offensichtlich noch nicht getan also wollte ich das nachreichen. Ich kann dir lieben Zuschauer eine Menge Zeit sparen, weil es wird am Ende herauskommen das der Burgherr gar nicht mehr da ist weil ich ja schon den lokalen Boss umgehauen habe. Der Mann den wir suchen ist also ziemlich wahrscheinlich bereits tot, da können wir dann leider auch nichts mehr dran ändern. Bevor ich das bemerke laufen wir aber ziemlich lange im Kreis und sind einfach nur verwirrt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 8, Aufnahme vom 07.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #42
+
+* Titel: `Elden Ring - #42 - Magma-Geduld [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bekannterweise töten Angst den Geist und ist nicht gut wenn man anstrengende Dinge gewinnen möchte. Also Folgendes, es gab da noch ein paar kleinere Bosse irgendwo in der Welt von denen ich wusste die ich jetzt einmal spontan erledige. Einer davon ist ein gewisses Magmawesen das ich auf jeden Fall auch noch schaffe, aber bis es soweit ist dauert es noch ein wenig und das liegt halt daran das ich Angst habe. Angst vor dem Versagen das dann in Ungeduld umschlägt wenn die Möglichkeit im Raum steht das man es schnell beenden kann. Aber das ist eine Lüge, eine Falle die die Ungeduldigen dazu verleiten soll ihre Konzentration zu brechen. Wer versucht ein schnelles Ende zu erzwingen wird scheitern. Daher haben wir heute viel Geduld.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 8, Aufnahme vom 07.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #43
+
+* Titel: `Elden Ring - #43 - Kristallhöhle der Akademie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bisher hat noch niemand so richtig erklärt warum die Magie so mit den Kristallen zusammenhängt, aber in Dark Souls war da ja auch irgendetwas. Es gibt aber da noch offene Fragen, zum Beispiel ob man die Kristalle braucht um Magie zu wirken und sie deswegen abgebaut werden oder ob sie eher so etwas wie ein Fokus sind, eine Möglichkeit besser die Macht zu leiten? Wie dem aber auch sei, es gibt scheinbar ein paar Langzeitfolgen. Nicht nur sind die Diener der Magier ziemlich sehr aus Kristall, was wahrscheinlich Teil des Designs ist, sondern auch die Magier selbst sehen so aus als hätten sie Teile der Kristalle in sich drin. Und ich bin mir eigentlich ziemlich sicher das jene Kristalle sich auch Stück für Stück auf die geistige Gesundheit auswirken. Das würde auch erklären warum die diplomatisch Lösung bis hier hin so wenig Erfolg hatte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 8, Aufnahme vom 07.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #44
+
+* Titel: `Elden Ring - #44 - Zaubererinsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie bin ich jetzt einmal um Raya Lucaria herum gelaufen und habe den Eingang nicht gefunden, bzw. den Schlüssel zum Eingang nicht. Technisch  gesehen waren wir sogar zwischenzeitlich dort aber auch nicht so richtig da. Wie dem aber auch sei, heute betreten wir die Zaubererinsel, hier finden wir viele verschiedene Wunder und Gegenstände die wir noch gar nicht haben. Zum Beispiel eine andere Art von Steinschlüsseln, grade als sich die Dinger angefangen haben zu sammeln gibt es jetzt andere, das war ja eigentlich auch klar. Immerhin kommen wir zurück an den Anfang und können uns noch einmal herzlich dafür rächen das es am Anfang so viele Unannehmlichkeiten gab. Das ist zwar nicht unbedingt  das was ich gesucht habe aber auf seiner eigenen Art und Weise schon befriedigend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 8, Aufnahme vom 07.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

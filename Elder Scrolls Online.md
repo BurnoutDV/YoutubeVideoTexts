@@ -7127,6 +7127,24 @@
   Aufnahme vom 20.07.2022 - #1690 - ##43 - S6
   ```
 
+##### #1691
+
+* Titel: `Let's Play ESO #1691 ##44 - Spur in der Draioch Grotte [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 44 des High-Isle DLCs - Sitzung 6
+  
+  Wenn man Mitverschwörer hat gibt es drei Varianten die man gehen kann wie man mit den Leuten verfährt die man benutzt um seine Ziele zu erreichen. Wenn es sich um reiche Menschen handelt die einen später noch nützlich sein könnten oder deren plötzliches Ableben unnötige Aufmerksamkeit erzeugt sollte man sie einfach bezahlen und das tun was man vor hatte bzw. die Dinge so arrangieren das man das auch tatsächlich kann. Ultimativ muss man sie allerdings dennoch töten weil sie unweigerlich anfangen werden die Sache zu Erpressen, aber das kann man ja auch nach der Machtergreifung machen, hier geht es um Zeit. Sind die Leute arm, unwichtig oder besitzen kein soziales Netzwerk entfernt man sie aus der Zuckerwatte des Lebens sobald ihre Aufgabe erfüllt ist, Bonuspunkte wenn sie bei der Erfüllung der Aufgabe sterben, idealerweise hat man vorher etwas von Himmelreich oder Belohnung in der nächsten Welt erzählt. In der dritten Variante handelt es sich um Überzeugungstäter, Leute die wirklich dabei sind, man hat sie zwar ursprünglich angeheuert weil sie in der richtigen Position waren aber dann stellte sich heraus das sie bei den eigenen Plänen mit dabei sind. Diese sollte man erst recht bei der erst besten Gelegenheit entfernen. Fanatiker sind Gift für jeden rationalen Plan und könnten, wenn weiter eingesetzt, eine Gefahr darstellen. Im Umkehrschluss schlussfolgert daraus aber auch, wenn man sich von ominösen Leuten bezahlen lassen möchte, man definitiv auf Vorkasse besteht, den Auftrag ausführt wenn er nicht selbstmörderisch ist und dann nicht zum Treffpunkt auftaucht in der Hoffnung das die Verschwörer glauben das man bei der Erfüllung umgekommen ist. Wenn die Menge stimmt könnte es sich durchaus lohnen diesen Weg zu gehen, das Risiko ist dann auch nicht höher als in irgendeiner Armee zu sterben, aber das verlangt ziemlich viel Augenmaß und Informationen die man in der Regel nicht hat. Von daher schlussfolgere ich das, ein logisch agierender Verschwörer niemals ein guter Geschäftspartner ist. Anders sieht es bei kleinerer Korruption aus, fürs Wegschauen bezahlt werden hat eine niedrige Schwelle und kann wiederholt werden ohne das es großartig auffällt und Verschwörer könnte tatsächlich aus taktischen Gründen davon ablassen mörderisch zu werden, insbesondere weil viele dieser "Verschwörer" eigentlich nur Kriminelle sind die wenig Interesse an irgendwelcher Aufmerksamkeit haben. Es sei den man wird vom Joker oder Leuten mit starken Prinzipien bestochen, dann ist es eigentlich auch egal. Insbesondere Fanatiker töten einen so oder so, wenn man sich nicht bestechen lässt weil man im Weg steht, und wenn man sich bestechen lässt dann weil man ja gierig ist und den Pfad des Geldes folgt. Idealerweise bleibt man immer schön unwichtig in der zweiten Reihe, das limitiert Potenzial, verlängert aber Leben.
+  Nach diesem kurzem Exkurs, mir ist absolut unklar warum man auf einer wichtige Mission irgendwelche Rekruten mit nimmt. Haben die Reiche keine Geheimdienste? Die Augen der Königin sind doch ein Ding? Arbeiten hier echt alle reaktiv? Nun entschuldigt mich, ich nutze diese Plothole als Pool für die Stadt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 20.07.2022 - #1691 - ##44 - S6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

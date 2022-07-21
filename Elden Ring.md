@@ -673,6 +673,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #45
+
+* Titel: `Elden Ring - #45 - westliches Liurnia [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ein wenig die Vermutung das ich es erfolgreich geschafft habe Raya Lucaria zu überspringen. Wir sind daran vorbeigeritten, haben ein paar Inseln erkundet und sogar einen Magieturm von innen gesehen und dann halt weiter gegangen, und jetzt sind wir hier, ein Stück weiter und viel weiter weg von der Akademie der Magier als wir vorher waren. Nicht nur von einem Schlüssel entfernt sondern auch physisch von den Toren der Stadt entfernt. Aber ich bin mir sicher mir wird noch rechtzeitig einfallen das ich da wieder hin muss um irgendetwas zu tun. Das ist ziemlich normal, im ersten Spieldurchlauf weißt man ja meistens nicht was man eigentlich tut. Ich erinner an Dark Souls 1 wo wir irgendwelche Glocken bimmeln lassen sollten, das hat irgendein NPC mal im Nebensatz erwähnt wenn man ihm nach dem Zustand der Erdbeeren in seinem Garten gefragt hat. Und trotzdem sind wir irgendwie durch gekommen, später wurde dann alles wesentlich klarer als man dann im Gespräch mit Anderem erfahren hat warum man überhaupt in diesen lustigen Keller gelaufen ist. Also erkunden wir jetzt Liurnia, warum auch nicht, die ganze Welt steht uns offen, nutzen wir das doch!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 8, Aufnahme vom 07.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

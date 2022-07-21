@@ -2061,12 +2061,23 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #134
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #134 - Jagdgebiet Steilgebirge [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Also, ich habe ja eigentlich gesagt wir machen dann gleich noch Hauptquest und dann ist das Spiel vorbei. Nun ist es aber so das ich am Aufnahmetag jede Menge Zeit hatte und ich das Horizon Erlebnis noch ein wenig haben wollte. Daher mache ich jetzt erst einmal noch ein paar Dinge, insbesondere weil ich doch jetzt ein tolles Flugvieh habe mit dem wir die Welt aus einer ganz anderen Perspektive sehen können. Daher schaue ich mir jetzt das Jagdgebiet im Steilgebirge von Oben und dann auch von Unten an. Ich dachte ich könnte das durchaus schneller schaffen und das wäre auch möglich gewesen wenn ich über die richtigen Ansätze verfügt hätte. Aber hey, immerhin lernen wir wie bestimmte Waffen funktionieren und kriegen noch einmal ein paar Basics kurz vor Ende des Spieles beigebracht. An sich finde ich es aber nicht gut das die Jagdgebiete jetzt zum Tutorial verkommen sind und keine richtige Herausforderung mehr sind. Also außer die das ich das Spiel nicht richtig bedienen kann.
+  
+  0:00 - Gameplay
+  4:30 - Frostprüfung
+  7:17 - Häckslerprüfung
+  14:51 - Plasmastoß-Prüfung
+  33:12 - erfolgreiche Plasma Prüfung
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 19.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```

@@ -1620,6 +1620,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #108
+
+* Titel: `Disco Elysium - #108 - Persona [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann mir ja einfach nicht helfen, in den letzten Tage neige ich irgendwie dazu mich mehr und mehr mit dem Fall zu beschäftigen. Klassische Polizeiarbeit könnte man sagen, man befragt Zeugen, findet Lücken im Alibi von Leuten und vergleicht Aussagen um dann am Ende das ganze Bild der Wahrheit herauszufiltern. Vorbei sind die Zeiten in denen wir in irgendwelchen dunklen Kellern herumgesucht haben und versuchten die Natur der Realität zu ergründen. Tatsache ist das wir wohl keinen wissenschaftlichen Durchbruch in Sachen Grau erzielen werden, aber unser Fall, der ist grundsolide. Ein wenig bedauern tue ich das ja schon und es gibt bestimmt ein paar Mysterien die wir eigentlich erkunden sollten, aber die Menschen laufen uns bestimmt auch nicht weg. Also sprechen wir noch einmal mit Klassje und über den seltsamen Fall der da ihre Aussage ist die sich schon ein wenig mit dem beißt was die Hardies sagten. Ihre Worte klingen müde, ihre Stimmung angespannt. Und doch...was ist wenn es nur ein Teil einer Persona ist, eine künstliche Persönlichkeit die oben drauf liegt und die echte Person verbirgt. Wen können wir eigentlich überhaupt noch trauen hier draußen? Uns selbst auf jeden Fall nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 18.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

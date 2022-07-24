@@ -1635,6 +1635,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #109
+
+* Titel: `Disco Elysium - #109 - Datenabgleich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Aussagen, dann haben wir andere Aussagen. Schon Sherlock Holmes wusste zu berichten das man die Wahrheit erfährt in dem man die Gesamtheit allen Wissens nimmt, dann die Unwahrheit abzieht (wichtig, Unwahrheit, keine Lügen, Lügen setzt vor raus das es Intention gibt). Das machen wir jetzt praktisch auch, nachdem wir mit allen möglichen Leuten geredet haben die irgendwie in der Lage und bereit sind mit uns zu kommunizieren klären wir jetzt langsam aber sicher die Nebel des Verbrechens auf. Was wir für den Moment wissen ist das der Tote in der Nähe von Klassje war als er starb, wir wissen außerdem das die Hardie Boys mit dabei gewesen sind und ziemlich sehr daran beteiligt waren den Mord durch eine andere Art von Mord zu vertuschen. Insgesamt scheinen uns alle Parteien nur Teile der Wahrheit zu erzählen, das ist auch nicht weiter schlimm, das stand zu erwarten. Allerdings rutscht man damit im Kreise der Verdächtigen ein wenig nach oben wenn man uns zu viele schlechte Lügen erzählt. Wie wohl das Spiel läuft wenn man absolut keine Schauspielkünste hat und gar nicht in der Lage ist Lügen zu erkennen? Wahrscheinlich einfacher, wir verhaften einfach irgendjemanden und nennen es dann eine erfolgreiche Ermittlung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 18.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #110
+
+* Titel: `Disco Elysium - #110 - rhetorischer Druckkopftopf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Aussagen angehört, aufgeschrieben wieder angehört, nachfragt und dann noch einmal nachgeschaut was geschehen ist. Jetzt sind wir an dem Punkt gekommen an dem man dann auch einmal vergleicht und bewertet. Und wir finden heraus, die Schauspielkunst ist unzufrieden und wir brauchen ein paar echte Antworten. Offensichtlich ist das was wir bisher gehört habe eine Menge Bullenscheiße und das erkennen wir auch daran das wir ein Bulle sind. Es wird also Zeit die harten Bandagen anzusetzen und einmal ein paar echte Antworten herauszupressen. Ein wenig ärgerlich ist natürlich das mir meine eigene Empathie hier ein wenig im Wege steht, es ist durchaus möglich das es Klassje war die unseren Kumpel umgebracht hat und es wirklich die Liebe war die ihn getötet hat. Wortwörtlich. Wir müssen immer noch beachten wie die Kugel in ihm eindrang, durch das Gaumensegel oben in den Schädel. In was für eine Position muss man sein um das zu bewerkstelligen? Außerdem ein ziemlich guter Schuss oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 18.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

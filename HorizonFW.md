@@ -2081,3 +2081,43 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Sitzung 19, Aufnahme vom 19.07.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
+
+##### #135
+
+* Titel: `Horizon Forbidden West - #135 - der erste Flug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Folgentitel ist bereits eine Lüge enthalten, wir haben heute nicht den ersten Flug, und es ist ziemlich wahrscheinlich das schon irgendjemand Anderes von einem Sturmvogel gegriffen wurde. Zum Beispiel unser Luftballon der irgendwo in der Wüste herumstand. Davon einmal abgesehen fliegen wir heute auch nicht zum ersten Mal. Allerdings bezieht sich der Titel dieser Episode auch mehr darauf das irgendeine Tenakth sich von einem größeren Vogel hat greifen lassen, etwas das eher ungesund ist. Dementsprechend finden wir auch keine Teile mehr die darüber sprechen das die Person noch am Leben ist, aber die Kultur der Tenakth scheint sowieso keinen besonders großen Wert darauf zu legen das irgendjemand überlebt. Wir fliegen also heute mit unserem treuen Vogel durch die Gegend und finden irgendwelche Teile, außerdem dürfen wir noch einen gewissen Gegner jagen dessen Herz wir sowieso gut gebrauchen können. Ich bin übrigens ziemlich unentschieden was ich von diesen "Flug-Quests" halten soll, irgendwie fühlen sie sich sehr im Nachhinein reingeschoben, so als wollten sie dem Fliegen noch ein wenig mehr Sinn als für eine Mission geben, aber am Ende war es dann doch ziemlich halbgar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 19.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #136
+
+* Titel: `Horizon Forbidden West - #136 - der Heimweg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Quen sind mit ihren Schiffen irgendwie über den Ozean gekommen und jetzt sind sie nun mal hier, von der Anzahl an Personen die wir so sehen gibt es eigentlich ziemlich viele von ihnen. Was wir allerdings auch sehen ist das viele ihrer Schiffe nicht mehr im besten Zustand sind. Weiter scheint ihr technologisches Know-How genau dafür zu reichen über den Ozean zu reisen, aber auch nicht viel mehr, und das Personal an Bord weiß auch nicht unbedingt wie man alle Gerätschaften bedient die sie dabei haben. Wäre die Situation nicht so verzweifelt gewesen wäre man wahrscheinlich nie willens gewesen so teure Dinger rüber zu fahren. Was ich mich allerdings frage ist ob die Quen auch neues Wissen genieren. Natürlich finden sie in den Ruinen der alten Welt viele Informationen und Daten die sie, richtig kombiniert, durchaus dazu benutzen können neue System aufzubauen. Also das Wissen der Vergangenheit nutzen um daraus neues Wissen zu erhalten, quasi auf den Schulter von Giganten zu stehen. Allerdings stellt sich ein wenig die Frage ob man, in einer Kultur die so darauf ausgelegt ist altes Wissen zu verwenden überhaupt in der Lage ist den eigenen geistigen Kompass auf Morgen auszurichten. In diesem Fall hilft ihnen jetzt Aloy, aber was machen die Quen bei sich zuhause? Verzweifeln?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 19.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

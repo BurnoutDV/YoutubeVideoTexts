@@ -6540,7 +6540,31 @@
 
 ##### #1657
 
-* Titel: `Let's Play ESO #1657 ##11 - Ermittlerin Vala, Vorgelesen Teil 2 [Hochinsel]`
+* Titel: `Let's Play ESO #1657 ##10 - Ermittlerin Vala, Vorgelesen Teil 1 [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 10 des High-Isle DLCs - Sitzung 2 
+  
+  Es gibt da ein wenig Rückstand in der lokalen Bibliothek, das ist quasi ein Spiegelbild meiner echten Liste an Büchern die ich noch lesen wollte. Glücklicherweise können wir diesen Rückstand in nicht einmal 40 Minuten nachholen. Es geht natürlich um die Ermittlerin Vala Bücher. Da sich unsere aktuelle Auftraggeberin ja für besonderes kompetent hält und angeblich selbst die Autorin der erwähnten Romane ist wäre jetzt vielleicht ein guter Moment um uns ihre Abenteuer durch die Augen der Fiktion einmal im Detail anzuschauen. Also lese ich ein paar Bücher vor. Es wird bestimmt glorios.
+  
+  0:00 - Anmoderation
+  1:20 - BUCH: Ermittlerin Vala: Das Scherbengefolge, Teil 1
+  5:47 - BUCH: Ermittlerin Vala: Das Scherbengefolge, Teil 2
+  10:32 - BUCH: Ermittelerin Vala: Das Scherbengefolge, Teil 3
+  15:47 - BUCH: Ermittlerin Vala und der nüchterne Nord
+  20:04 - Abmoderation
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 15.06.2022 - #1657 - ##10 - S2
+  ```
+
+##### #1658
+
+* Titel: `Let's Play ESO #1658 ##11 - Ermittlerin Vala, Vorgelesen Teil 2 [Hochinsel]`
 
 * Beschreibung:
 
@@ -7139,10 +7163,47 @@
   Wenn man Mitverschwörer hat gibt es drei Varianten die man gehen kann wie man mit den Leuten verfährt die man benutzt um seine Ziele zu erreichen. Wenn es sich um reiche Menschen handelt die einen später noch nützlich sein könnten oder deren plötzliches Ableben unnötige Aufmerksamkeit erzeugt sollte man sie einfach bezahlen und das tun was man vor hatte bzw. die Dinge so arrangieren das man das auch tatsächlich kann. Ultimativ muss man sie allerdings dennoch töten weil sie unweigerlich anfangen werden die Sache zu Erpressen, aber das kann man ja auch nach der Machtergreifung machen, hier geht es um Zeit. Sind die Leute arm, unwichtig oder besitzen kein soziales Netzwerk entfernt man sie aus der Zuckerwatte des Lebens sobald ihre Aufgabe erfüllt ist, Bonuspunkte wenn sie bei der Erfüllung der Aufgabe sterben, idealerweise hat man vorher etwas von Himmelreich oder Belohnung in der nächsten Welt erzählt. In der dritten Variante handelt es sich um Überzeugungstäter, Leute die wirklich dabei sind, man hat sie zwar ursprünglich angeheuert weil sie in der richtigen Position waren aber dann stellte sich heraus das sie bei den eigenen Plänen mit dabei sind. Diese sollte man erst recht bei der erst besten Gelegenheit entfernen. Fanatiker sind Gift für jeden rationalen Plan und könnten, wenn weiter eingesetzt, eine Gefahr darstellen. Im Umkehrschluss schlussfolgert daraus aber auch, wenn man sich von ominösen Leuten bezahlen lassen möchte, man definitiv auf Vorkasse besteht, den Auftrag ausführt wenn er nicht selbstmörderisch ist und dann nicht zum Treffpunkt auftaucht in der Hoffnung das die Verschwörer glauben das man bei der Erfüllung umgekommen ist. Wenn die Menge stimmt könnte es sich durchaus lohnen diesen Weg zu gehen, das Risiko ist dann auch nicht höher als in irgendeiner Armee zu sterben, aber das verlangt ziemlich viel Augenmaß und Informationen die man in der Regel nicht hat. Von daher schlussfolgere ich das, ein logisch agierender Verschwörer niemals ein guter Geschäftspartner ist. Anders sieht es bei kleinerer Korruption aus, fürs Wegschauen bezahlt werden hat eine niedrige Schwelle und kann wiederholt werden ohne das es großartig auffällt und Verschwörer könnte tatsächlich aus taktischen Gründen davon ablassen mörderisch zu werden, insbesondere weil viele dieser "Verschwörer" eigentlich nur Kriminelle sind die wenig Interesse an irgendwelcher Aufmerksamkeit haben. Es sei den man wird vom Joker oder Leuten mit starken Prinzipien bestochen, dann ist es eigentlich auch egal. Insbesondere Fanatiker töten einen so oder so, wenn man sich nicht bestechen lässt weil man im Weg steht, und wenn man sich bestechen lässt dann weil man ja gierig ist und den Pfad des Geldes folgt. Idealerweise bleibt man immer schön unwichtig in der zweiten Reihe, das limitiert Potenzial, verlängert aber Leben.
   Nach diesem kurzem Exkurs, mir ist absolut unklar warum man auf einer wichtige Mission irgendwelche Rekruten mit nimmt. Haben die Reiche keine Geheimdienste? Die Augen der Königin sind doch ein Ding? Arbeiten hier echt alle reaktiv? Nun entschuldigt mich, ich nutze diese Plothole als Pool für die Stadt.
   
+  0:00 - Gameplay
+  16:24 - BUCH: In der Gewalt der Grauenssegel
+  
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
   Aufnahme vom 20.07.2022 - #1691 - ##44 - S6
+  ```
+
+##### #1692
+
+* Titel: `Let's Play ESO #1692 ##45 - Spur an den Docks [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 45 des High-Isle DLCs - Sitzung 7
+  
+  Wir finden neue Beweise, Hinweise und andere Dinge an der lokalen Werft. Übrigens auch die größte Werft, auch bekannt als die wichtigste Werft der Insel. Wir erinnern uns das sich das Hau Dufort unter anderen dadurch finanziert das es große Schiffe herstellt. Ich frage mich übrigens wirklich wo eigentlich das Holz her kommt, bisher habe ich noch keine großen Wälder gesehen und wenn das alles schon solange geht dann sollte doch echte Aufforstung ein Ding sein oder? Zurück zum Thema, die Werft wurde offensichtlich vom Orden übernommen. Warum wissen wir nicht, anscheinend nur um einen Gefangenen dort auf zu bewahren, das ist zwar unfassbar praktisch für uns ergibt aber taktisch überhaupt keinen Sinn. Weiter noch sollte es doch dem Haus Dufort ein wenig auffallen das ihre wichtigste Werft besetzt wurde oder? Wir wissen aus den Unterlagen von Elea das sie durchaus etwas besitzt das man Spionagenetzwerk nennen könnte. Natürlich sind solche Aufgaben immer und gerne auf verschiedene Mitglieder der Familie aufgeteilt, und doch, welcher Neffe betreibt die für die Familie so wichtige Werft? Wenn ein solcher Vorfall nicht gemeldet wurde dann doch bestimmt weil das auch so gewollt wurde oder? Warum stolpern wir nicht andauernd in die Agenten von anderen Fürsten und Adeligen, es gibt ja offensichtlich einen Bedarf an Informationen. Die Spur ist übrigens ein alter Bekannter, ein wenig komisch das er überhaupt noch lebt wenn man bedenkt das er eigentlich nichts weiß was nicht auch öffentlich bekannt sein sollte. Gut, der Mann selbst gibt an Kontakte zum lokalen Untergrund zu haben, warum und wieso wird hier nicht weiter erklärt. Eigentlich sehr komisch das wir hier nicht schon aus reiner Neugier nachhaken durften. Lange Geschichte kurz, nächster Stop ist dann wohl wieder das Alraunenhaus.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 22.07.2022 - #1692 - ##45 - S7
+  ```
+
+##### #1693
+
+* Titel: `Let's Play ESO #1693 ##46 - Zeugen auf Landgang [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 46 des High-Isle DLCs - Sitzung 7
+  
+  Heute finden wir eine Überlebende, eine Bootsmann um genau zu sein, das eröffnet neben her noch eine kleine Genderdebatte und in wie weit Frauen alleine durch die Sprache als Bürger zweiter Klasse behandelt werden. Immerhin ist die gute kein Argonier oder Khajiit, ansonsten würde es richtig lustig werden. Zum Glück ist all das aber nicht wirklich ein Thema und wesentlich interessanter als was die Person ist ist was sie zu sagen hat. Ich hatte anscheinend auch damit recht das die einzelnen Repräsentanten der großen Nationen durchaus in der Lage sind sich selbst zu beschützen, wir haben offensichtlich noch nicht das Niveau von Luxus erreicht in dem Herrscher irgendwelche greisen Männer sind die selbst nichts mehr auf dem Schlachtfeld leisten können. Je länger ich darüber nachdenke umso vorteilhafter ist es eigentlich das man Herrscher auswechselt wenn sie nichts mehr auf dem Schlachtfeld ausrichten können. Man braucht ja niemanden der an vorderster Front herumsteht, aber wer körperlich keine Kampagne mit machen kann ist wahrscheinlich einfach zu alt um das Land ordentlich zu führen. Damit verschließt man sich leider ein wenig den Zugriff auf einige weniger körperlich fähige Denker, aber die Gefahr eine Gerontokratie ist auch nicht unbedingt verheißungsvoll.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 22.07.2022 - #1693 - ##46 - S7
   ```
 
 ##### #Nummer

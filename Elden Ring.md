@@ -688,6 +688,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #46
+
+* Titel: `Elden Ring - #46 - Caria Anwesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben zwar Raya Lucario komplett ignoriert aber das ist ja auch nicht weiter schlimm, stattdessen finde ich eine neue Bedrohung in Form des Caria Anwesens. Der Weg dorthin war aber weitaus weniger beschwerlich als es ursprünglich erschien. Klar, es gab da ein paar magische Fallen, aber wenn man ehrlich ist kann man an denen einfach vorbeireiten, andere Brücken sind da wesentlich schwerer zu überqueren. Jetzt sind wir also im Anwesen und haben eine handvoll Probleme. Aber keine Angst, nachdem ich mit all dem hier fertig bin erfahre ich dann das Feuer die absolute Lösung ist um den örtlichen Beschützern Einhalt zu gebieten. Die stumpfe, pure Kraft und Blutungseffekt Variante funktioniert natürlich auch, ist dann halt aber einfach nicht so schön sauber.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 8, Aufnahme vom 07.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #47
+
+* Titel: `Elden Ring - #47 - Drachen & Riesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein wenig orientierungslos, also so rein theoretisch weiß ich das ich wohl als nächstes nach Raya Lucaria die Schulbank drücken sollte, aber mein magisches Talent ist quasi nicht existent, insofern erscheint es mir ziemlich unsinnig in eine Akademie für Magier zu gehen, vor allen Dingen weil es sich bestimmt um eine Bande von Snobs handelt die Neulinge erst einmal durch 20 Rituale laufen lassen. Irgendwelche Spießrutenläufe, unsinniger Quatsch der halt von der akademischen Laufbahn ablenkt, Dinge die wir auf keinen Fall wollen und generell und überhaupt müssen wir am Ende bestimmt alle töten, und so richtig kann das doch auch nicht im Interesse aller Leute sein oder? Also gehen wir heute Drachen jagen, meine Angst vor der Drachen hat sich ja ein wenig aufgelöst, klar, die Viecher sind immer noch recht gefährlich, aber so viele wie wir mittlerweile getroffen haben macht das einzelne, feurige Individuum weniger beeindruckend. Außerdem gibt es da noch so nervige Riesen die weg müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 9, Aufnahme vom 14.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

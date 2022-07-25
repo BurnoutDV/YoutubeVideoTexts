@@ -2112,6 +2112,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #137
+
+* Titel: `Horizon Forbidden West - #137 - Schatzinsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch nicht fertig mit dem Fliegen. Ich gebe zu das ich das gerne ein wenig ausnutze, das liegt aber auch daran das wir halt vorher nicht fliegen konnten und einige Orte die man so auf der Karte sehen echt weit entfernt sind und weniger viel Spaß machen erkundet zu werden. Aber jetzt haben wir ja die Möglichkeit ziemlich zügig an bestimmte Orte die wir vorher nur theoretisch gesehen haben zu gelangen, da wäre es doch ziemlich dumm wenn wir das nicht auch tun würden, einfach schon um unserer Neugier genüge zu tun. Also betreten wir heute ein paar Inseln, es gibt nicht besonders viele davon aber die die wir finden sind auch mehr Halbinseln. Interessant ist auf jeden Fall das Monument und die Gedenkstätte die sich hier findet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 19.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #138
+
+* Titel: `Horizon Forbidden West - #138 - eine denkwürdige Jagd [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann finde ich plötzlich noch eine Nebenquest. Ich habe nie einen dezidierten Screenshot für den Himmelsclan bzw. für die Gegend gemacht. Tatsächlich hätte ich ja noch ein Bild das die Eiswüste zeigt aber da gehen wir heute gar nicht hin. Stattdessen gehen wir runter in die gewaltigen Bäume wo eine der Siedlungen der Tenakth einst war. Dann kamen wohl die Kletterkiefer und das alles erledigte sich. Stellt sich doch glatt heraus das Bäume nur dann einen defensiven Bonus bieten wenn die Feinde nicht klettern können. Es stellt sich wirklich die Frage ob die Maschinen nicht auf Dauer eine existentielle Bedrohnung für alle Menschen auf der Welt darstellen wird. Die ersten Maschinen waren leicht mit Pfeil und Bogen bejagbar. Bei Dingen wie den Donnerkiefer oder Schlachtrücken habe ich aber schon ernsthafte Zweifel das selbst eine größere Anzahl von Jägern wirklich eine Chance hat. Selbst mit Teilen von kleineren Maschinen und ziemlich guten Sprengstoff sind die Aussichten ohne gutes Liefersystem doch eher gering. Aber vielleicht braucht es einfach nur eine Spezialistin wie Aloy, die kümmert sich dann darum.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 19.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

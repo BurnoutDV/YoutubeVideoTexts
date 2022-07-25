@@ -7206,6 +7206,23 @@
   Aufnahme vom 22.07.2022 - #1693 - ##46 - S7
   ```
 
+##### #1694
+
+* Titel: `Let's Play ESO #1694 ##47 - Schiffwrackuntiefen [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 47 des High-Isle DLCs - Sitzung 7
+  
+  Also natürlich waren wir bereits hier, in den Schiffswrackuntiefen, also handelt es sich gar nicht um einen neuen Ort, es war sogar eine Hauptmission die mich hierher führte. Dennoch bin ich ja immer noch im Team der strikten Missionstrennung und deshalb wurde das Alles auch gar nicht weiter erwähnt. Jetzt sind wir wieder hier. Ich kann an den Untiefen als Ort der existiert leider nicht all zu viel kritisieren. Das es Meeresströmungen gibt die unpraktisch sind kommt vor. Ein wenig komisch ist schon das hier so viele große Schiffe liegen, man möchte doch meinen das man mit den großen Pötten weniger schnell abtreibt und darauf auch eher erfahrene Kapitäne zu finden sind. Und wenn es so gefährlich ist das auch Erfahrung nichts bringt, dann sollte man die Route komplett meiden oder? Nun, die Anwesenheit von Piraten ist auch nicht weiter verwunderlich. Insofern, wäre maximal fraglich warum man nicht mit Magie und Ingenieurstum diese Untiefen irgendwie abschwächen konnte, es scheint ja ein echtes Problem zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 22.07.2022 - #1694 - ##47 - S7
+  ```
+
 ##### #Nummer
 
 * Titel: ``

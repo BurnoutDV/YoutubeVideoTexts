@@ -1665,6 +1665,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #111
+
+* Titel: `Disco Elysium - #111 - Endstation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jeder geht irgendwohin um irgendwo an zu kommen. Wenn man weit genug rauszoomt ist das für das ganze Leben wahr. Aber irgendwann ist halt Endstation, irgendwann kann man nicht mehr fliehen, keinen Ort mehr betreten der nicht schon bekannt ist, keine Ecke zum Verkriechen und kein Schatten um der Sonne zu entkommen. Wie ein Heuschreckenschwarm grast man alles leer bis es Nichts mehr gibt. In dieser Welt mag das vielleicht wahr sein, aber in der Welt von Annouk Meijer-Smit könnt es noch irgendwo im fernen Grau einen Ort geben den noch niemand kennt der ihr als Versteck dienen könnten, so richtig vorher sagen kann das niemand. Aber fürs erste ist Revanchol und Martinaise wirklich wohl der letzte Ort der existiert. Es gibt immer noch einige ungeklärte Punkte, offene Wunden und Dinge die noch nicht angesprochen wurden. Es gibt da also jemanden der am allerletzten Ort angekommen sind, und jetzt sind wir hier, potenziell dazu bereit alles nieder zu reissen. Wie die Heuschrecken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 18.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #112
+
+* Titel: `Disco Elysium - #112 - Katarzine Alasije [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann haben wir da noch eine Erkenntnis. Eine Erkenntnis die dazu führt das die verschiedenen Teile unserer selbst plötzlich gar nicht mehr so offen und freundlich sind wie sie es sonst immer tun. Das ist echt komisch, in der Regel sind die Aspekte relativ neutral und halten sich grob an die Rolle die sie spielen, aber heute ist das anders. Es ist fast so als wäre jeder Teil von uns ein wenig sauer, wütend fast ob der Täuschung die sich uns heute bietet. All das wirft eine Menge fragen auf, bin ich es selbst der hier einer ordentlichen Ermittlung im Wege steht, sind wir noch in der Lage mit Augenmaß die Situation zu behandeln oder ist bereits zu spät, haben wir uns heillos in einem Netz aus Lügen, Täuschung und Emotionen verfangen und sind selbst zu tief drin um das alles noch vernünftig und kühl zu behandeln. Von allem was wir so wissen wäre es wohl das sicherste Klassje für den Moment festzunehmen. Wenn das was sie gesagt hat stimmt wäre das aber sinnlos weil sie sowieso nirgendwohin kann, andererseits wenn stimmt was sie noch gesagt hat wäre eine Festnahme sogar ihr Tod. Wir würden uns irgendwie des Mordes verantwortlich machen, das wäre nicht sehr moralisch, auch wenn dieser Mord quasi eine direkte Folge einer Korruption des moralischen System ist. Andererseits wissen wir bereits das das Individuum für das System gar nicht soviel zählt, ein gewisses Maß an Korruption also durchaus toleriert werden kann aus der Sicht der Gesamtkonstruktion, für Klassje wäre das allerdings schlecht. Ich frage mich nur woher sie soviel über die internen Abläufe der BMR weiß.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 18.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1674,3 +1704,4 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   ```markdown
   Hier
   ```
+

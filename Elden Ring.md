@@ -718,6 +718,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #48
+
+* Titel: `Elden Ring - #48 - giftige Sackgassen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In Soulsbourne Spielen war es noch nie so das man einfach nur in eine Sackgasse gelaufen ist, quasi in der Höhle hinter dem Wasserfall einfach nichts gefunden hat sondern natürlich war da dann immer noch eine Falle oder vielleicht auch ein besonders großer Gegner gegen den man natürlich keine Chance hatte. In der Regel war es aber natürlich so das die Gefahr irgendetwas ist gegen das man wirklich gar keine Chance hat. Zum Beispiel Gift, oder alternativ natürlich auch Rotfäule. Immerhin laufen wir heute nicht einfach in eine Sumpf sondern die Lieferung der ungesunden Stoffe wird immerhin ein wenig persönlicher übernommen, vielleicht sollten wir einfach ein paar Google Eyes an die Viecher rankleben damit es noch ein bisschen nahbarer wird...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 9, Aufnahme vom 14.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #49
+
+* Titel: `Elden Ring - #49 - Am Abgrund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute geht es dem Ende zu, wortwörtlich und auch irgendwie moralisch. Sitzung 9 umfasst nur 3 Episoden, die sind im Durchschnitt ein wenig länger als es bei herkömmlichen Episoden der Fall ist (ob das etwas Gutes ist kann ich nicht sagen) aber hier endet dann auch schon die Sitzung. Sei es das Wetter oder auch die Laune, manchmal kann man einfach nicht mehr. Der Tag fängt eigentlich ziemlich gut an, wir erkunden neue Gebiete, sterben ein paar Mal durch Unvorsicht aber im Großen und Ganzen läuft es doch eigentlich. Man merkt daran das es ein schlechter Tag in Sachen Moral ist wenn eine Sache einen völlig fertig machen kann. Zum Beispiel komische Fledermäuse die absolut lächerlich viel Schaden haben und über eine One-Hit-Kombo verfügen für die man kein sauberes Counterplay zur Hand hat. Und so endet die heutige Episode, am Abgrund.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 9, Aufnahme vom 14.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

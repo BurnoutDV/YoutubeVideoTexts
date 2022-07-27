@@ -7223,6 +7223,40 @@
   Aufnahme vom 22.07.2022 - #1694 - ##47 - S7
   ```
 
+##### #1695
+
+* Titel: `Let's Play ESO #1695 ##48 - die Weisheit der Druiden [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 48 des High-Isle DLCs - Sitzung 7
+  
+  Druiden sind in einer sehr seltsamen Position was mein persönliches Wertungssystem angeht. Auf der einen Seite sind sie irgendwie mit der Natur verbunden, versuchen den Kreislauf des Lebens zu schützen und sind in der Regel irgendwelche langbärtigen Opas die mit Bäumen kuscheln oder sexbessessene Zauberinnen mit Naturthema. Von den Klischees einmal abgesehen bleibt aber dennoch ein starkes Naturthema und das hat recht extreme Ansichten. Schon so mancher unbedarfter Wanderer hat sich dann am falschen Ende einer "zeremoniellen" Sichel wieder gesehen. Es gibt da Dinge die tolerieren Druiden überhaupt nicht, und wenn man dann im Wege steht ist das ein Problem. Auch hängt immer ein wenig im Raum wie dogmatisch eigentlich der Druide ist mit dem man grade interagiert. Vielleicht hat er einen guten Tag und lässt die Sichel stecken, aber vielleicht ist er schlecht aufgestanden und ein zerbrochener Ast ist direkt Grund den Boden zu Düngen. Und so sieht das auch mit der Weisheit aus, wie viel davon ist wirklich überliefertes Wissen und wie viel einfach nur unreflektiertes Dogma aus antiker Zeit?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1695 - ##48 - S7
+  ```
+
+##### #1696
+
+* Titel: `Let's Play ESO #1696 ##49 - Garicksruh [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 49 des High-Isle DLCs - Sitzung 7
+  
+  Die erste große Systren Insel ist ja eigentlich ziemlich langweilig, irgendwie sind die weiten Felder einfach nicht gefüllt und es fühlt sich nicht so richtig ritterlich an. Auch das irgendwelche Ritter zur See fahren kann ich irgendwie nicht so ganz ernst nehmen. Generell und überhaupt ist dieses Knights-X-Pirates Dingsi ein wenig komisch. Daher überrascht es auch nicht das wir quasi so gut wie keine Ritter finden können. Selbst das örtliche Turnier hat ja davon gesprochen das es sehr schwer ist genügend Teilnehmer zu finden. Eine mögliche Erklärung ist einfach das der ganze gute Bauplatz schon vor langer Zeit verbraucht wurde und jetzt einfach keine neuen Ritter mehr einziehen können, alle Burgen sind schon errichten und wurden dann zur Fahrt aller Flaggen verlassen. Als ehrenhafter Ritter kann man dann natürlich auf keinen Fall das Andenken eines Anderen beschmutzen. Das erscheint doch logisch oder? Nicht? Oh, schade. Nun gut, aber Garicksruh steht trotzdem seit fast 1500 Jahre leer, und ist dafür in noch bemerkenswerten Zustand.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1696 - ##49 - S7
+  ```
+
 ##### #Nummer
 
 * Titel: ``

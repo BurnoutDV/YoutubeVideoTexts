@@ -2142,6 +2142,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #139
+
+* Titel: `Horizon Forbidden West - #139 - Motive [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das heutige Thumbnail hat absolut überhaupt nichts mit dem Inhalt zu tun, tatsächlich habe ich es nur wiederverwendet weil ich unnötig viel Mühe auf ein "One-Shot" Bild gesetzt habe und dadurch den Langhals pixelgenau freigeschnitten hatte. Generell und überhaupt bin ich auf mein Thumbnail Game in Horizon ziemlich stolz, zu schade das es im großen Vergleich nur sehr durchschnittlich ist und doch bin ich seltsam zufrieden damit wie gut die Dinge geklappt haben. Von den ersten 20 Episoden einmal abgesehen die doch ein wenig generischer waren. Wie dem aber auch sei, es gäbe sowieso kein richtiges Bild um die heutige Folge zusammenzufassen, maximal eine intelligente Kollage hätte vielleicht alle Personen zusammenbringen können. Was wir heute tun ist relativ einfach, wir laufen umher und sprechen mit allen Leuten die in der Basis umherlaufen und stehen. Das sind jetzt ein wenig mehr Menschen (?) als es sonst der Fall war, kurzum, es gibt echt viel zu sagen bevor es richtig los geht. Daher dauert es eine ganze Episode all diese Dinge abzufrühstücken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 19.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #140
+
+* Titel: `Horizon Forbidden West - #140 - ein letztes Getränk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir brechen immer noch nicht auf, ja es ist immer noch der Abend vor der Schlacht. Wenn man bedenkt was wir eigentlich vor haben ist es vielleicht aber auch gar nicht so schlecht den Moment noch etwas zu genießen. Man darf auch nicht vergessen das ein Angriff auf die Basis von Far Zenith eine ernsthafte Gefahr von Leib und Leben darstellt. Was wir vorhaben ist ungeheuerlich, viele unserer Annahmen sind nicht besonders sicher und unsere Informationen könnten durchaus veraltet sein. Kurzum, Leute werden sterben, vielleicht sogar Aloy selbst, jetzt wo es Beta gibt muss sie ja nicht mehr zwingend überleben, solange ein Klon von Elisabeth Sobeck am Leben ist gibt es Hoffnung, und selbst dann, GAIA ist bereits wieder hergestellt, technisch gesehen brauchen wir gar keine Klone mehr um uralte Terraforming Technologie zu manipulieren. Selbst HEPHAESTUS ist schon gefangen, wir müssen eigentlich nur noch die Pläne der Zeniths durchkreuzen, koste es was es wolle. Daher nehmen wir uns noch einmal Zeit für ein letztes Getränk.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 19.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

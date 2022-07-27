@@ -1695,6 +1695,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #113
+
+* Titel: `Disco Elysium - #113 - Ergib dich der Nacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich untersuchen wir heute auch Boje 11 und finden eine Menge Dinge heraus die andere Leute bestimmt uns nicht herausfinden lassen wollten. Was wir leider nicht werden ist reich, aber das ist alles überhaupt gar kein Problem wir haben ja schließlich immer noch die Fotokopie eines Aktienpapiers das uns bestimmt irgendwie auch Geld bedeutet. Wie das genau funktioniert wissen wir aber immer noch nicht. Außerdem lauschen wir irgendwelchen lustigen Nachtliedern die uns bestimmt gut in den Schlaf wiegen wenn wir uns darüber ein paar Gedanken beim Einschlafen machen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 18.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #114
+
+* Titel: `Disco Elysium - #114 - die Bullensau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt immer wieder Überraschungen wenn man in der Nacht an irgendwelchen Orten tritt und auf einmal ein grelles Leuchten erkennt. Heute zum Beispiel laufen wir in die Bullensau. Das ist eine absolute Überraschung wenn man davon ausgeht das wir doch eigentlich selber der Bulle sind. Zumindest nennt uns Cuno immer so. Aber sei es wie es, viel wichtiger ist es doch was wir in den Händen der Bullensau sehen, den Revolver eines Leutnants, anscheinend sogar dreiläufig es einen Mann seines Ranges zusteht. Das alles ist ein bisschen verstörend weil man ja doch eher weniger von der eigenen Waffen erschossen werden möchte. Aber keine Angst, heute wird es kein Game Over geben, schließlich ist Harry durchaus ein Meister der Diplomatie und weiß wie man mit Leuten umgeht die sich selbst für einen Bullen halten. Also gehen wir ans Werk um die Gefahr zu bannen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 25.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1704,4 +1734,3 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   ```markdown
   Hier
   ```
-

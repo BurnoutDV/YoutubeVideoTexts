@@ -748,6 +748,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #50
+
+* Titel: `Elden Ring - #50 - fliegender Wutanfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir gehen heute in die zweite Runde. Wo wir das letzte Mal resigniert abgebrochen haben gehen wir heute einen anderen Weg. Jede Menge Wut. Leider funktioniert die Taktik des wundersamen Hulks bei mir leider einfach nicht so gut, insofern falle ich hier in leichten Zorn. Die gute Nachricht ist aber das ich den nächsten 5 Episoden dafür sehr ruhig bleibe und einfach gar nichts passiert weil wir einfach so mit völliger Ruhe und Zurückhaltung gut durchkommen. Leider werden trotz aller innerer Mitte die nervigen Fledermaus-irgendwas-Hybriden kein Stück einfacher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 10, Aufnahme vom 21.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #51
+
+* Titel: `Elden Ring #51 - Materialsuche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Viel zu lange habe ich mich auf die immer gleichen Waffen verlassen. Die Zeit ist gekommen ein wenig in die Welt hinauszuziehen und Dinge zu finden die uns ein wenig weiterhelfen können, zum Beispiel neue Waffen und viel wichtiger, die Gegenstände zum Upgrade der Waffen. Es ist übrigens nicht notwendig mich darauf hinzuweisen, mir wird noch rechtzeitig bewusst das ich für die niedrig leveligen Schmiedesteine einfach die Schwester in der Feste hätte befragen können. Aber so eine Rundreise von einem Händler zum Anderen hat ja auch Vorteil, zum Beispiel finden wir jede Menge Dinge, reden mit den lokal ansässigen Bewohner und lernen ganz allgemein gesagt die Leute mal richtig kennen. All das wäre nicht passiert wenn wir die Ausrüstung die wir gebraucht hätten einfach in der Zentrale bestellt hätten. Seien wir also glücklich das die Dinge gelaufen sind wie sie sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 10, Aufnahme vom 21.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1725,12 +1725,47 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
-##### #Nummer
+##### #115
 
-* Titel: ``
+* Titel: `Disco Elysium - #115 - ballistischer Rundgang [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Als wir oben bei Klassje waren (nennen wir sie für den Moment noch so) haben wir etwas vergessen. Unser Harry ist ja ziemlich gut darin Ballistik zu betreiben oder sich generell und überhaupt vorzustellen wie Dinge geschehen sind. Nur muss man das dann auch tatsächlich machen. Schon als wir uns angehört haben wie genau Leylys gestorben ist habe ich mich gefragt wie genau die Kugel eigentlich in seinen Mund gekommen ist. Ein Schuss von direkt hinter dem Fenster ist ziemlich wahrscheinlich, aber wir haben eigentlich gar keine Informationen das dem tatsächlich so war, es liegt also durchaus im Bereich des Möglichen das die Kugel von viel weiter weg kam. Ich bin mir zwar nicht sicher wie genau das mit der Geometrie klappt, aber dadurch das das Dach flach ist, vielleicht? Im richtigen Winkel, bei gutem Wetter und wenig Wind? So oder so, wir finden das heraus, alternative Theorien wollen geprüft werden und es ist ja nicht so das uns die Zeit ausgeht oder? Also nehmen wir einen kleinen Spaziergang durch die Nacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 25.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #116
+
+* Titel: `Disco Elysium - #116 - verdammte Sozialarbeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind Cop, und anscheinend eher für Mordermittlung als für Jugendkriminalität zuständig. Könnte Kitsuragi hier sein würde er dem bestimmt zu stimmen. Aber da wir uns eh nicht daran erinnern können was wir einst in der Vergangenheit taten ist es auch ziemlich egal ob wir einmal eine Abneigung gegen Kinder hatten oder nicht. So richtig wissen können wir es definitiv nicht aber im Moment läuft es ja ganz gut. Leider habe ich viel zu viel Moral die ich mit mir herumtrage und deswegen treffen wir heute erzieherische Maßnahmen. Und eventuell auch weil wir den Stoff einfach nicht haben den Cuno haben wollte. Ich weiß ehrlich gesagt nicht so richtig wo das Zeug hin ist, im Zweifel habe ich es aber den Typen von der Abwärtsspirale gegeben. So genau wissen tue ich das aber wirklich nicht. Spielt aber auch keine Rolle, das zwingt uns nur dazu ein noch besserer Mensch zu sein. Ist es nicht schön wie das Universum will das wir Erfolg haben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 25.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #117
+
+* Titel: `Disco Elysium - #117 - das Tal der Köpfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Geschichten in denen es darum geht wie jemand Erfolg hatte sind ja bestimmt immer sehr inspirierend. Man kann sich ein Beispiel daran nehmen wie jemand es ganz groß heraus gebracht hat. Der Zyniker in mir fragt sich aber immer wie viel die Familie im Hintergrund dafür gesorgt hat das die richtig Leute aufmerksam wurden und dann sich die Dinge entwickeln konnten. Generell und überhaupt werde ich immer sehr zynisch wenn ich höre mit welcher Leichtigkeit irgendjemand es zu irgendetwas gebracht hat. Da schwingt bestimmt auch ein gewisser Neid mit obwohl ich selber gar keinen Versuch gestartet habe. (Außer auf Youtube aber die Analyse ist kurz: am Markt vorbei entwickelt). Viel interessanter ist doch wenn Dinge scheitern. Wenn ein Geschäft richtig in den Sand gesetzt wird. In der Regel liegt es natürlich an Leuten, mangelnden Personal, das falsche Personal oder der guten alten Vetternwirtschaft. Die hat man zwar immer aber wenn das Geschäft so schon nicht so gut läuft dann fällt das erst recht auf. Oder Gier. Anstatt fähige Manager einzustellen tut es dann der Cousin der eigentlich gar keine Arbeitsmoral hat. Muss aber nicht sein. Gelegentlich ist es wirklich die Welt. Der große Plan war einfach schlecht, die Ambitionen zu hoch oder die Konkurrenz zu schlecht. Vielleicht haben auch dritte ein dezidiertes Missfallen an der eigenen Unternehmung gefunden und aktiv manipuliert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 25.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```

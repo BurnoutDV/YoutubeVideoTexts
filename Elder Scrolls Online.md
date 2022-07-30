@@ -7257,14 +7257,58 @@
   Aufnahme vom 26.07.2022 - #1696 - ##49 - S7
   ```
 
-##### #Nummer
+##### #1697
 
-* Titel: ``
+* Titel: `Let's Play ESO #1697 ##50 - Wettlauf um die Ehre [Hochinsel]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 50 des High-Isle DLCs - Sitzung 7
+  
+  Das Konzept der Ehre erscheint mir ein wenig seltsam, eventuell liegt es daran das es defacto das Gegenteil von Pragmatismus ist. Man tut Dinge weil sie einen richtig erscheinen, nicht weil sie objektiv richtig sind. Das macht mich fertig, nicht nur agieren Menschen (und Mer) absolut irrational in den meisten Situationen (etwas das sie wohl menschlich bzw. elfisch macht) aber sich dann noch hinzustellen und mit dem Kopf vor raus in die Irrationalität hineinzuspringen erscheint doch ein wenig seltsam. Ich kann absolut verstehen das man Dinge wie Ehre als Vehikel benutzt um Vertrauen zu erschleichen (hallo dunkle Seite) weil Leute dann denken das man sie nicht verrät obwohl ihre Handlungen gegen die ursprüngliche Mission gehen. Aber Ehre dann wirklich bis zum Ende durch zu ziehen? Warum, wofür, für wen? So wie es aussieht tut es unser guter Cynric Ginise für die Liebe zur einer Frau die schon seit mindestens 1500 Jahren tot ist. Ich muss aber sagen das ich Amunara vollkommen verstehen kann und ich bin ziemlich enttäuscht das hier die Rollenspiel-Komponente fehlt sich einfach strikt dagegen zu entscheiden das zu tun was der Geist will. Oder im letzten Moment eine 180 Grad Wendung zu machen. Aber nicht zu schnell, zu erst müssen wir überhaupt den Schild erlangen, natürlich wird uns das gelingen, nur die Frage ist zu welchen Preis. Ehre ist übrigens in Ordnung wenn sie genutzt wird um Moral zu verteidigen, aber das passiert dann auch nur um Leuten die Ehre über alles setzen eigentlich moralisches Handeln zu erklären, und das ist in sich schon ein Systemproblem.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1697 - ##50 - S7
+  ```
+
+##### #1698
+
+* Titel: `Let's Play ESO #1698 ##51 - Prüfung der Würdigkeit [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 51 des High-Isle DLCs - Sitzung 7
+  
+  Würdigkeit hat tatsächlich ziemlich wenig mit Würde zu tun. Letztendlich geht es nur darum das irgendjemand den wir gar nicht so gut kennen darüber entscheidet das wir etwas verdienen. Die Regeln sind dabei völlig willkürlich was größtenteils daran liegt das der Geist der uns hier überwacht schon seit tausenden von Jahren hier rumlungert und daher irgendwelche Moralvorstellungen aus dem letzten Jahrtausend nachhängt. Aber die gute Nachricht ist das wir als böser, blutsaugender Vampir der ab und zu mal ein paar gute Dinge tut durchaus noch in diese Moralgebilde fallen und deswegen ziemlich gut durchkommen. Anscheinend darf man nur kein Nekromant sein und schon läuft das. War übrigens auch ganz schön Pech das wir zufällig genau an dem Tag vorbei kamen, einen Tag früher oder später und alles wäre anders gelaufen.
+  
+  0:44 BUCH: die Delikatessen von Hochinsel
+  3:22 Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1698 - ##51 - S7
+  ```
+
+##### #1699
+
+* Titel: `Let's Play ESO #1699 ##52 - Dame Madach und Knappe Rayan [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 52 des High-Isle DLCs - Sitzung 8
+  
+  Eigentlich habe ich ja gesagt das ich auf gutes Wetter warten möchte bis ich los ziehe um mir den Turm der Karmesinmünze anzuschauen aber hier stehe ich. Wir erfahren heute einiges an Geschichte, so wissen wir jetzt zum Beispiel das es einst die sogenannte Münzbarone gegeben hat die sich vor allen Dingen durch ihre Gier ausgezeichnet haben. Deren Unternehmungen müssen aber eigentlich ganz gut gelaufen sein, weil wenn man sich einmal anschaut wie groß die Festung ist die wir heute betreten ist Gonfalon nichts dagegen. Überhaupt ist es einer der größten Anlagen die ich seit langem gesehen habe. Natürlich schlägt hier wieder die Skalierung von Videospielen zu. Die großen Allianzstädte usw. sind natürlich viel größer in "echt", aber dazu würden auch viele tausend Hütten im Armutsviertel gehören die wirklich niemanden etwas bedeuten. Hier ist so gut wie alles relevant und deshalb ist auch alles da. Ahja, wir treffen außerdem noch einen jungen Knappen aus dem Orden das Albatros. Spannender Bursche, und so belesen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1699 - ##52 - S8
   ```
 
 ##### #TEMPLATE

@@ -2172,6 +2172,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #141
+
+* Titel: `Horizon Forbidden West - #141 - Singularität [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt mehre Arten von Singularitäten die mir bekannt wären. Da wäre einmal das schwarze Loch, ein einzelner Punkt an dem alles auf einem Punkt ist. Technisch gesehen stimmt das wohl nicht, auch schwarze Löcher haben eine gewissen Größe im Raum und das was wir davon sehen können ist aber nicht das schwarze Loch, das was wir nicht sehen ist quasi das Loch in der Realität. Und dann hätten wir da noch die technische Singularität, wenn der Maschinengeist schlau genug ist bessere Kopien von sich selbst zu erstellen und dann einfach fröhlich vor sich her iteriert. Das setzt natürlich irgendwie vorraus das das Problem in Software und nicht Hardware zu lösen ist, andernfalls hört das irgendwann wieder auf, oder die Maschinen verschlingen alles um immer weiter zu wachsen, ein Doomsday Szenario das jetzt noch nicht so oft passiert ist. Meistens machen die Maschinen einfach so alles kaputt. Warum diese Mission, die definitiv auch die letzte ist jetzt so heißt wie sie heißt kann ich aber nicht sagen, vielleicht weil sie alle Leute an einem Ort befinden? Zumindest alle Leute die nicht tot sind, wenn das ein kleiner Trost ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 19.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -2181,3 +2196,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   ```markdown
   Hier
   ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+## Fazit
+
+Ich will nicht sagen das ich von Horizon Forbidden West enttäuscht bin. Das Spiel hat eigentlich genau das geliefert was schon der Vorgänger hatte, Maschinen, mittelalterliche Waffen mit einen gewissen Twist und einen schönen Mix aus Alt und Neu. Problematisch ist aber das das Narrativ für ein poliertes Auftreten nach hinten getreten ist. Die Kämpfe, das Abschießen von Bauteilen und die generelle Ausrüstungsprogression fühlen sich alle wesentlich polierter als im Vorgänger an, auch das Klettern funktioniert wesentlich dynamischer und analoger als es noch im Vorgänger der Fall war. Das Hinzufügen zusätzlicher Pfade und alternativer Griffe lässt das Aufsteigen an Felswänden wesentlich realistischer erscheinen, ärgerlich ist das einige Sprung und Kletterrätsel so analog sind das nicht ganz klar ist wie es manchmal weitergeht oder das Aloy einfach in den Abgrund springt obwohl man eigentlich nur auf die gegenüberliegende Seite hopsen wollte. Die zusätzlichen Werkzeuge die die Rätsel auflockern sollten wurden meiner Meinung nach viel zu inflationär genutzt, auch das sich sowohl die Explosionsglimmer als auch die mechanischen Pflanzen nach einer kurzen Story-Einführung nur noch simple Loot-Punkte sind ist enorm enttäuschend, aber insbesondere der Lastenzug den schon Lara Croft so sehr geliebt hat wurde einfach viel zu sehr genutzt. Hier wurde soviel Potenzial verschenkt, anstatt die Blumen zu etwas zu Besonderes zu machen und damit kleine Geschichten zu erzählen sind sie oftmals fast schon zufällig verteilt, klar, hier und dort findet sich ein wenig *environmental story telling*. Auch die Rätsel der Ruinen sind so dermaßen lächerlich an den Haaren herbeigezogen das es sich mir die Fußnägel hervor rollen. Die Rätsel für sich sind verständlich und ergeben irgendwie noch Sinn, aber das ich glauben soll das eine tausend Jahre alte Batterie noch Ladung hat geht vielleicht gerade so, aber das in einer völlig zerstören Ruine noch eine Leitung richtig intakt ist und dann noch genügend Infrastruktur vorhanden ist um 1000 Jahre Wind, Regen und Wetter zu ignorieren so das der Fahrstuhl noch geht ist echt viel verlangt. Den Vogel schießt aber ein gewaltiger Verladeturm ab der nach 10 Jahrhunderten immer noch geschmeidig auf Rollen läuft. Selbst wenn das Ding aus modernsten Horizon-Metall besteht das auch nach all der Zeit nicht rostet sind Dreckablagerung durchaus ein Sinn. Das größte Problem sehe ich aber in der kleinen und großen Geschichte. Das große Geheimniss um Zero Dawn ist schon heraus und auch herauszufinden was mit der alten Welt geschehen ist stellt kein Geheimnis mehr dar. An dieser Stelle traten hier die de facto Außerirdischen von Sirius, aber da man von ihnen außerhalb der Hauptmission kaum etwas sieht bleibt das Mysterium hier sehr zurück. Es gibt eine Menge Log-Dateien die irgendwo in der Welt liegen die ich einfach nicht gefunden habe die vielleicht noch etwas mehr zu den Leuten erzählt hätten, aber die habe ich halt einfach nie gefunden. Generell ist es sehr schade das man wohl jedes Log nur an einer Stelle finden kann, bei einer gewaltigen Welt verringert das doch sehr die Wahrscheinlichkeit irgendetwas aufzustöbern. Den Zeniths hätte hier sicherlich geholfen wenn sie mehr in der Welt integriert gewesen wären und anstelle der Söhne des Prometheus getreten wären, als graue Eminenz von deren Existenz wir erst wesentlich später voll erfahren hätten, mehr Mysterium, weniger epische Kämpfe. Ich will nicht sagen das ich enttäuscht bin aber ich hatte mir auf jeden Fall mehr erfahren, insbesondere der Ausblick auf den dritten Teil verlangt nach einer Deus Ex Machina die sich jetzt schon anfühlen wird wie Bullshit..oder es wird ein Mass Effect 3 Ende.

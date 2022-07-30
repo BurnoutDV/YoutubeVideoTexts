@@ -778,6 +778,86 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #52
+
+* Titel: `Elden Ring - #52 - Zurück in Sturmschleier Castle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Backtracken ist wichtig für eine gesunde Ernährung und der Erhaltung der geistigen Leistungsfähigkeit, das ist inbesondere dann wahr wenn man sich ein wenig zu schwach fühlt und daher ein wenig durch die Gegend ziehen wollen ohne direkt von jedem Gegner mit nur einem einzelnen Schlag aus dem Leben genommen zu werden. Wir begeben uns also zurück nach Burg Sturmschleier, leider hat sich hier gar nicht so viel geändert. Es stellt sich doch glatt heraus das die Ritter mit den langen Speeren immer noch ein echtes Problem darstellen und gar nicht so leicht kaputt gehen wie ich dachte, und fangen wir erst gar nicht damit an das es die dummen Greifvögel immer noch gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 10, Aufnahme vom 21.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #53
+
+* Titel: `Elden Ring - #53 - Akademie von Raya Lucaria [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir gehen jetzt endlich noch einmal die Schulbank drücken. Es gibt nur ein Problem, anscheinend haben wir den Schlüssel verlegt. Aber das ist überhaupt gar kein Problem, ein anderer, ebenso fleißiger Student wie wir hat seinen Schlüssel an einem geheimen Ort hinterlegt so dass es uns ein leichtes sein wird doch noch Eingang zu erhalten. Zeit ist in diesen Spielen immer ein sehr seltsamer Begriff, deswegen ist auch absolut nicht tödlich wie lange genau eigentlich der Abschluss der Akademie jetzt her ist, klar ist aber für alle Beteiligten eigentlich das im Inneren Dinge geschehen die vielleicht nicht unbedingt förderlich für die geistige Gesundheit aller Beteiligten ist. Aber wer weiß, vielleicht war die Akademie auch schon immer ein so verfluchter Ort und das was wir sehen ist eigentlich das tägliche Geschäft und es wirkt nur so absonderlich weil mein Wertekompass zu hoch eingestellt ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 10, Aufnahme vom 21.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #54
+
+* Titel: `Elden Ring - #54 - der rote Wolf von Radagon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich muss schon sagen, meine Studien der arkanen Künste, der Kristalle, des Meteors und Asteroid gehen absolut hervorragend vor ran. Sogar so gut das wir heute einen großen roten Wolf sehen. Ob das Leben der normalen Studenten eher voller Drogen ist oder ob man das Leben in der Akademie sehr ernst nimmt. Wer nicht spurt oder den Vorstellungen eines idealen Akademikers entspricht wird ausgesiebt. Versagen kann durchaus den Tod in einer magischen Schule bedeuten. So genau weiß man das nie, selbst in Hogwarts wurden regelmäßig Schüler über die Klinge geschickt und den alten Göttern geopfert. Der Mann mit dem Rauschebart hat das dann zwar versucht als Schulunfall und das Wirken eines dunklen Magiers versucht zu verkaufen, aber wir alle wissen das man, um die Magie in der Welt zu halten, manchmal ein paar junge Opfer bringen muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 10, Aufnahme vom 21.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #55
+
+* Titel: `Elden Ring - #55 - Dächer der Akademie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube das der Weg zu einer wirklich egalitären Gesellschaft über Bildung führt. Wenn wir wieder Verschwörungen nachgehen wollen dann wissen das auch die "Eliten" die aktiv daran gearbeitet haben das Bildung nicht jedermann zur Verfügung steht. Das hat dann dazu geführt das die Leute im Allgemeinen nicht zu erleuchtend und wissenschaftsgewand sind wie sie es eigentlich sein sollten und dann fällt man Populisten in den Arm die schwer zu kontrollieren sind. Zurück in der Raya Lucaria sieht unsere Situation ähnlich aus, es scheint als das man nicht einfach jeder Person die die Lehrstätte betritt einfach so Bildung anbietet. Stattdessen muss man sich wohl irgendeinen der große Häuser anschließen um dann dort langsam in der Hierarchie aufzusteigen bis mann endlich irgendetwas tun kann. Darauf habe ich ehrlich gesagt keine Lust und auch nicht die Zeit dafür, daher gehen wir heute über die Dächer und erkunden doch mal alternative Wege zur Bildung. Kann ja eigentlich alles nicht so schwer sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 10, Aufnahme vom 21.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

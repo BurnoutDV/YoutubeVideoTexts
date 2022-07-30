@@ -1769,3 +1769,80 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Sitzung 17, Aufnahme vom 25.07.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
+
+##### #118
+
+* Titel: `Disco Elysium - #118 - Erkenntnis im Wasser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da noch ein wenig Dialog den wir bisher ausgespart haben, leider wird es an der Stelle auch ein wenig anachronistisch, bestimmte Gespräche hätten wir schon viel früher mit Joyce hätten führen sollen aber leider kam es einfach nicht dazu, zu wenig Fähigkeiten. Jetzt habe ich endlich das was es braucht um die entscheidenden Fragen zu stellen und das wird dann natürlich ein wenig wild. Auf einmal erfahren wir ganz neue Sachen über die Welt, unseren Auftraggeber und die rechtlichen Dinge. Wir erfahren außerdem noch ein wenig mehr darüber was es eigentlich mit den Söldnern auf sich hat, es geht sogar soweit das wir ziemlich genau heraus kriegen warum sie hier sind und was sie vor haben. Aber auch was sie eigentlich tun sollten, und welche Uhr jetzt läuft. Alles in Allem muss ich sagen das es ein ganz schöner Brocken in Sachen Zeit ist der sich hier vor uns auftut. Wer hätte gedacht das wir zu so später Stunden am Pier noch solche Dinge erfahren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 25.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #119
+
+* Titel: `Disco Elysium - #119 - orajenische Wassertraße [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man durch die Astralebene wandert dann verbindet einen eine kleine silberne Schnur mit dem eigenen Körper in der realen Welt. Sollte man den Weg zurück verlieren wäre das extrem fatal, das Gleiche gilt aber auch wenn man stirbt während man zwischen den Welten umherwandert, keinen Körper mehr hat. Oder aber wenn man dem Tode nahe ist und bereits an der Pforte stirbt, dann keine silberne Schnur zu haben wäre ziemlich fatal. Für die meisten Menschen ist es ein echtes Problem irgendwo zu stranden, keinen Weg nach Hause mehr zu finden. Wenn es nur physische Barrieren sind die einen aufhalten ist es wahrscheinlich leichter auszuhalten als wenn es politische Gründe sind, das eigene Land ein Gefängnis ist. Ein kleiner Horror der Reise zu den Sternen, auf einem fernen Planeten zu stehen, in die Sterne zu starren und sich zu fragen wie man jemals wieder nach Hause zu seinem liebsten kommt. Oder wenn der interstellare Antrieb Dinge tut und man nicht mehr weiß wo überhaupt zuhause ist. Die Szenarien sind wirklich vielfältig. Die alten Seeleute wussten auch um dieses Problem und hatten eine Lösung, eine Lösung die auch Leylys anwandte, auch wenn wohl aus weniger praktischen Gründen, eine Karte aller Wege.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 25.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  
+  silberne Schnur, Leylys
+  ```
+
+##### #120
+
+* Titel: `Disco Elysium - #120 - Nachtschmöker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Nacht wird langsam alt, dadurch das Revachol nicht wirklich eine Club Szene hat, oder zumindest nicht der Teil in dem wir uns gerade befinden ist nach 22 Uhr nicht mehr all zu viel los und wir müssen dann wohl auf einen neuen Tag warten. Interessant wäre auch ein thematisch leicht anderes Spiel das in Jamrock in einer Art Clubszene spielen würde, aber die Magie die Disco Elysium hat funktioniert wohl nur in dem abgerockten Teil den wir sehen. Da es jetzt schon recht spät ist, ich die Zeit aber gerne zum denken nutzen will hilft nur Eines: Wir holen noch einmal ein paar deprimierende Bücher mit graader Literatur heraus und lesen die Geschichte einer kurzen Liebe und eines ganzen, langweiligen Lebens. Ich weiß nicht warum man so etwas schreiben sollte aber manche Leute haben daran wohl Freude, oder es ist auch einfach nur eine Art die eigenen Emotionen zu ordnen, quasi Schreiben zum Selbstzweck. Die gute Nachricht ist allerdings das wir von den negativen Effekten nicht soviel haben weil wir danach einfach wieder schlafen. Leider ist das Reptiliengehirn nicht so in Stimmung. Schade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 25.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

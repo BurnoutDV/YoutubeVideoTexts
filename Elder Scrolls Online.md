@@ -7311,6 +7311,94 @@
   Aufnahme vom 26.07.2022 - #1699 - ##52 - S8
   ```
 
+##### #1700
+
+* Titel: `Let's Play ESO #1700 ##53 - die symbolische Waffe [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 53 des High-Isle DLCs - Sitzung 8
+  
+  Ich hatte mich doch dazu entschieden den lokalen Karmesinturm zu erkunden der sich als ziemlich beeindruckende Anlage herausstellt, auch muss ich sagen das der Zustand dieser eigentlich historischen Anlage ganz hervorragend ist. Übrigens ist es auch ziemlich witzig das aufgrund der technischen Stagnation im Elder Scrolls Universum diese großen Mauern immer noch ziemlich neu und brauchbar sind. Eigentlich sind die meisten Burgen und Festungen die man so kennt aus einer relativ kurzen Periode in der Zeitgeschichte und doch gibt es erstaunlich viele. Man stelle sich einmal vor wenn man tausende Jahre von Mittelalter hat wie viel Landschaft mit irgendwelchen Burgen vollgeklatscht wird, am Ende sieht das wie in einem MMO mit Housing aus. Übrigens ist das eines der Gebiete wo man sieht das die Komprimierung von langweiligen Gebieten und Bauland an echte Probleme stößt. Wenn die Wildnis realistisch nur wenige Quadratkilometer hat und dann jeder Spieler ein Eigenheim haben will hat man ganz schnell Probleme damit das das Bauland richtig dolle knapp wird, und dabei wollen die Leute nicht einmal einen Anschluss an die Stadtwerke. Zurück zum Thema, wir tun heute etwas magisches, hochkonzeptionelles, wir bauen eine Waffe aus Gedanken und ich finde die gesamte Prämisse fantastisch, das ist mal richtig tolle Fantasy, ein Höhepunkt der Fantasie der hier in einem offenen Verließ fast schon weg gesclossen wurde. Ich bin hellauf begeistert. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1700 - ##53 - S8
+  ```
+
+##### #1701
+
+* Titel: `Let's Play ESO #1701 ##54 - moralische Tiefpunkte [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 54 des High-Isle DLCs - Sitzung 8
+  
+  Es war ja schon länger klar das unser nächster Halt die Gefängnis Insel Amenos ist. Die gute Fürstin Davaux ist durchaus bereit uns ein paar Informationen über diesen Ort näher zu bringen. Es handelt sich um eine relativ unbesiedelte Insel, später finden wir noch heraus das es wohl eine Miene gibt, Bodenschätze sind also in irgendeinen Verhältnis vorhanden. Weiter ist die Insel von seltsamen Strömungen umgeben die ein Entkommen sehr schwierig macht, wie genau das funktioniert kann mir aber niemand so genau erklären. Ich kann aber verstehen das hochseetüchtige Flöße zu bauen durchaus schwierig sein könnte. Auf die Insel schickt man Verbrecher, Deserteure (auch Verbrecher), in Ungnade gefallene Adelige und natürlich politische Feinde. Mir stellt sich jetzt ein wenig die Frage was für ein System direkt offizielle politische Feinde als Gruppe definiert. Entweder du hast eine vernünftige Anklage für die Leute und kannst sie mit geltenden Recht einfach einen Kopf kürzer machen oder eben nicht. Dieses Leute ohne genaue Anschuldigung an einen fernen Ort verbannen ist nie irgendwie moralisch zu verteidigen. Außerdem handelt es sich zudem noch um ein magisches Gefängnis, die Leute die in den Dschungel geschickt werden sind irgendwie verzaubert so dass sie sterben wenn sie den Wald verlassen. Warum? Die im Lager könnte man zur Not wieder rausholen falls man die Leute noch einmal braucht, aber anscheinend gibt es auch keine echte Haftzeit, einmal auf Amenos, immer dort. Aber die im Dschungel, warum nicht gleich vor Ort hinrichten anstatt sich die Mühen eines Potenzials zu machen. Reintegrationsmaßnahmen in die Gesellschaft kann ich nicht erkennen, die Leute jemals wieder frei zu lassen auch nicht. Also warum dann die Mühe mit dem Dschungel, die Wahrscheinlichkeit ist ganz gut das die Leute da eh umkommen, will man sein Gewissen erleichtern es nicht direkt getan zu haben? Das wiegt eher noch schwerer in meinen Augen. Ich warte noch auf eine gute Erklärung, aber mit so einem institutionalisierten System haben die Bretonen bei mir moralisch absolut verloren. Rittertum am arsch. Die ganze Story ist fast genauso abgefuckt wie Askaban.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1701 - ##54 - S8
+  ```
+
+##### #1702
+
+* Titel: `Let's Play ESO #1702 ##55 - in Ketten gesetzt [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 55 des High-Isle DLCs - Sitzung 8
+  
+  Es hat sich ja schon abgezeichnet, und jetzt wird es soweit, wir haben unsere eigene kleine Episode von Prison Break. Leider ist ein MMO so ziemlich das schlechteste Vehikel eine solche Situation irgendwie zu transportieren. Wir fahren jetzt also nach Amenos, gekleidet natürlich in Lumpen und wahrscheinlich auch ohne Waffen. Von der Insel selbst kann man nicht wegteleportieren (das erfahren wir ein wenig später aber ich erwähne es schon einmal). Warum wird übrigens nicht erklärt soweit wie ich bis her gespielt habe, ich warte also noch. Unseres ganzes Wiederauferstehen würde auch nicht so gut klappen weil wir ja an der nächsten Leyline Verbindung wieder auftauchen, und davon gibt es auf Amenos einige. Wenn das jetzt alles wäre müssten wir tatsächlich ein wenig kreativ werden, eventuell so lange raus schwimmen bis wir in Reichweite eines anderen Wegpunktes kommen, das wäre bestimmt anstrengend und würde uns einige Versuche kosten. Aber wir haben ja noch Asse. Zu erst sind wir ein Vampir, je nach Ausrichtung sollten wir in der Lage sein niedere Sterbliche zu mesmerisieren, können uns in einen Schwarm Fledermäuse, Insekten oder Nebel verwandeln. Sich im Schutz der Nacht an Bord eines Schiffes zu gelangen sollte absolut kein Problem sein. Das wir entdeckt werden ist absolut unwahrscheinlich weil wir jeden Matrosen einfach verwirren könnten. Weiter sind wir wahrscheinlich mächtig genug um einfach den gesamten Amenos Posten auf Bevölkerung 0 zu setzen. Aber da hört es nicht auf, das mit den Wegschreinen ist auch eine Möglichkeit zu reisen, das können zwar nur wir (und theoretisch alle anderen Wesen die nicht von Nirn sind) aber das sollte nicht durch irgendwelche Anti-Teleport Magie beschränkt werden. Zuletzt gäbe es noch die Möglichkeit einfach durch ein anderes Reich zu springen, ein Portal nach Oblivion oder Arteum ist eventuell auch drin, aber das könnte tatsächlich am Teleportverbot scheitern. Immer vo rrausgesetzt das die Anti-Portal Magie stark genug ist um uns überhaupt abzuhalten. Alternativ könnten wir als Nebel auch über das Meer fliegen. Oder, falls wir keine Luft brauchen, auf dem Grund des Meeres laufen, aber da bin ich mir nicht so sicher. Wir sind schließlich ein Vampir, kein Zombie. Aber um das abzuschließen, Amenos ist als Gefängnis nicht wirklich adäquat und ich fühle mich exakt 0 eingeschränkt. Das die MMO Mechaniken das eh nicht tun verbessert die Situation nicht wirklich. Immerhin könnte es tatsächlich schwierig sein andere zu retten..obwohl wir da ja immer noch die "Amenos-Außenposten auslöschen" Taktik funktionieren könnte.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1702 - ##55 - S8
+  ```
+
+##### #1703
+
+* Titel: `Let's Play ESO #1703 ##56 - Dschungel von Amenos [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 56 des High-Isle DLCs - Sitzung 8
+  
+  In den Beiworten (so nennen wir die Beschreibung hier jetzt einfach), der letzten Episode war ich ja ziemlich negativ was die ganze Prämisse mit der Gefängnisinsel Amenos angeht. Das Konzept ist hirnrissig, risikobehaftet und zudem auch noch unnütz teuer in einer Welt in der es wesentlich bessere Lösungen gibt die moralisch sogar weniger angreifbar sind, falls das überhaupt noch jemand interessiert. Natürlich darf man auch nicht vergessen das es immer meine Moral ist die ich hier als Maßstab anlege. Egal. Heute geht es um den Wald, Amenos hat ein völlig anderes Klima als die andere Insel von Systen. Anstatt irgendwelche Sonnenblumenfelder mit der gelegentlich Burg auf einem größeren Hügel haben wir hier wilden Dschungel mit tollen Tieren und raue Klippen. Alles in Allem wohl eine vulkanische Insel mit einer Menge Exotik. Und das gefällt mir sehr gut. Ich erwähne es beiläufig beim Spielen, aber das alles erscheint mir wie verschenktes Potenzial. Im Artbook zu Dishonored 2, wir wissen ja, das Spiel spielt größtenteils in Karnaca, ein Szenewechsel zu Teil 1, einer Stadt die am Rande eines Dschungels mit absolut massiven Bäumen gebaut wurde. Manche Bäume sind so groß das sie nie gefällt wurden. Und doch haben wir da Zivilisation. Die lustige bretonische Insel von Systen sieht dagegen aus wie das Ritterwunderland, inklusive Turnierplatz und der ein oder anderen Burg (die von einer einzelnen, 1500 Jahre alten Festung an der Küste überragt wird). Und es passt überhaupt nicht zu Amenos. Die Gefängnisinsel ist großartig, mir gefällt sie und ich frage mich wirklich was das mit den Klimazonen soll. Daher hätte ich mir gewünscht sie hätten halt eine zivilisierte aber im Kern immer noch wilde Variante von Amenos auf der Hauptinsel gehabt und dann die vollständig wilde Variante hier. Ist aber nicht passiert. Schade, aber der Dschungel gefällt mir echt gut, besser als der Argonier Sumpf.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1703 - ##56 - S8
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #TEMPLATE
 
 * Beschreibung:

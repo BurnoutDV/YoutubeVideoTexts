@@ -838,24 +838,109 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
-##### #Nummer
+##### #56
 
-* Titel: ``
+* Titel: `Elden Ring - #56 - Kirche der Gelübde [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich kann mich ehrlich gesagt gar nicht mehr so richtig erinnern was wir in dieser tollen Episode eigentlich Schönes gemacht haben, eventuell weil seit dem doch schon zwei Wochen vergangen sind. Reden wir stattdessen über Gelübde. Das ist quasi ein religiöses Versprechen. Man leistet es wohl nicht vor der nächstbesten Autoritätsperson sondern vor Gott/in die durch einen nahen Priester (aka eine Autoritätsperson?) repräsentiert wird. Die Klassiker sind Dinge wie Schweigegelübde oder Keuschheitsgelübde, nicht völlig Wahnsinnige hängen da auch einen Zeitraum ran. Das bringt uns auch gleich zur täglichen Runde Religionsbashing. Die ganze Zölibatgeschichte hat ja im Kern dazu gedient das irgendwelche Bischöfe nicht an ihre eigenen Kinder das Amt vererben. Die Idee ist ja ganz nett aber die menschlichen Konsequenzen waren wohl absolut absehbar. Auf der anderen Seite war wahrscheinlich völlig klar was die Alternative wäre: man sagt die eigenen Kinder sind nicht die Eigenen und werden abgegeben. Das hätte man hart überwachen müssen. Klar, einige karrieregeile Arschlöcher ziehen komplett empathiefrei durch aber genug Leute kommen damit dann so Mitte 30 oder 40 in eine ernsthafte Glaubenskrise, und das ist ein Problem. Ich behaupte mal das den Leuten schon damals klar war das die höheren Ämter in etwa so religiös waren wie die Dachsparren der Kirche. Alles Ritual, wenig Substanz. Kurzum, ich halte Gelübde für absoluten Quatsch. Entweder du meinst etwas dir selbst gegenüber ernst oder lässt es, den komischen imaginären August was beweisen zu wollen ist doch nur eine Krücke. Immerhin haben die Elden Ring Götter ein wenig Substanz.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 11, Aufnahme vom 26.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
-##### #Nummer
+##### #57
 
-* Titel: ``
+* Titel: `Elden Ring - #57 - Rennala des Vollmondes [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Zumindest die Geschichte um Rennala und das Adelshaus Caria ist relativ klar umrissen weil uns der Märchenonkel da auf Stand gebracht hat und es da nicht soviel Zweifel gab. Die Sachlage ist wohl die das man sich hat versucht zu konsolidieren und das hat am Ende damit geendet das der gute und doch so treue Mann von Rennala sie verlassen hat als mehr Macht im Raum stand. Übrig bliebt dann quasi nur noch ein Hülle ihrer selbst. In der Vergangenheit war die gute wohl halbwegs mächtig und das spüren wir dann zwischenzeitlich noch einmal, davon abgesehen sind die Tage der Glorie aber auch vorbei, der desolate Zustand der Raya Lucaria spricht da schon Bände. Der gesamte Kampf erinnert mich übrigens an die Vollmondbestie aus Bloodborne, aber das ist bestimmt bloß Zufall.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 11, Aufnahme vom 26.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #58
+
+* Titel: `Elden Ring - #58 - Carianischer Lehrsaal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kling zwar so als wären wir immer noch in Raya Lucaria aber das stimmt überhaupt nicht, viel mehr ist es so das wir jetzt völlig woanders sind und das entsprechende Gebäude nur zufälligerweise zu Caria dazu gehört. Hier finden wir eine ziemlich große, mehrstöckige Einrichtung die uns irgendwo hin führt. Leider sind meine Fähigkeiten zu beschränkt um hier tatsächlich einen echten Wechsel bzw. Veränderungen zu erreichen, daher sterben wir nur ein paar Mal, hauen jemanden um und dann gehen wir wieder. Das trifft zwar auf eigentlich alle meine Expeditionen zu aber dieses Mal ist es besonders arg weil kein großes Erfolgserlebnis im Mittelpunkt steht. Sei es drum, wir kommen wieder.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 11, Aufnahme vom 26.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #59
+
+* Titel: `Elden Ring - #59 - Saurons Auge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Also eigentlich handelt es sich um den Turm des Zorns und das Konzept des Zorns haben wir in irgendeinen schönen Dorf ganz im Süden bereits kennen gelernt, aber hier dürfen wir es noch einmal extrem mehr sehen. Wie ich bereits in der nächsten Folge angemerkt haben werde ist das Konzept Zorn kein Stück anders als Wahnsinn den man in Bloodborne erhält von bestimmten vieläugigen Gegnern, im Großen ist Elden Ring halt auch ein Best of Off aller bekannten Teile. Da ich Demon Souls aber nie gespielt habe gibt es hier zumindest ein wenig Überraschungspotenzial von Dingen die man vielleicht schon woanders kennt aber ich halt nicht. Ansonsten merkt man mir hier eine gewisse Übermüdung an, immer daran zu sehen das ich alles für ein bisschen unfair halte. Es geht mir aber gut und schon bald werde ich den Wahnsinn oder auch den Zorn überwunden haben ohne darüber all zu viel gemeckert zu haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 11, Aufnahme vom 26.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #60
+
+* Titel: `Elden Ring - #60 - Shabriris Geheul [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neulich habe ich ihn noch als Saurons Turm bezeichnet aber es handelt sich wohl eher um den Turm des Wahnsinns, eines Art Krankheit die sich bei den Menschen ausgebreitet hat und dazu geführt hat das das Land selbst sich ein wenig verändert hat. Ganz klar ist übrigens nicht ob es sich wirklich um echte Menschen handelt bei den Leuten die wir sehen, klar, die meisten Wesen sind irgendwie humanoid aber es könnte sich genauso gut um irgendwelche Schöpfungen aus finsteren Labors handeln. Siehe auch die Tiermenschen die wir in Burg Morne bereits getroffen haben. Kurzgesagt ist nicht so ganz klar was den Wahnsinn jetzt eigentlich ausmacht, nur das ein Kerl namens Shabriri wohl ganz vorne mit dabei war beim allgemeinen wahnsinnig sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 12, Aufnahme vom 09.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #61
+
+* Titel: `Elden Ring - #61 - Mausoleums Besuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Mausoleum ist ein Grab für Leute mir Geld. Gräber liegen in der Regel ebenerdig und man kommt ohne weitere, große Probleme an die Grabsteine heran. Aber wie schaut das mit den Mausoleen und größeren Grabstätten aus? Ganz früher, in meiner ersten Stadt gab es einen Friedhof auf dem kleinere aber doch schon richtige Gebäude am Gedenken an die verstorbenen standen. Diese Einrichtungen hatten auch eine kleine Tür. Können die Angehörigen jederzeit hinein treten oder meldet man so etwas beim Friedshofswärter im Vorfeld an? Was genau die Mausoleen in Elden Ring bewahren ist mir allerdings nicht ganz bewusst, immerhin kriegen wir aber heute heraus wie man die Dinger öffnen kann ohne das es allzu peinlich wird. Am Ende schaffe ich es sogar ein komplexeres Rätsel zu lösen, darauf bin ich ja schon ein wenig stolz.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 12, Aufnahme vom 09.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #62
+
+* Titel: `Elden Ring - #62 - Katakombe der schwarze Klinge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Zufall wird gewollt haben das ich in nächster Zeit noch mehr von den Assassinen der schwarzen Klinge treffen werde. Ich weiß nicht genau was es mit diesen Leuten überhaupt auf sich hat aber es gibt von ihnen offensichtlich direkt einen ganzen Orden. Vielleicht finden sich irgendwo in hohen Bergen auch ein Kloster in denen Mönche in die hohe Kunst des Attentats ausgebildet werden. Was genau sich hinter der Kutte versteckt können wir nicht sehen, klar ist aber das unsere bisherigen Fähigkeiten nur knapp ausreichend sind um die Umgebung zu erkunden und dabei zu überleben. Aber wir finden auch ein paar Geheimnisse, alternative Wege und interessante Vergabelungen. Vom Gesamtwerk möchte ich mich über die Katakombe auf jeden Fall nicht beschweren, es gab Einiges an Spaß, das kann man wohl sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 12, Aufnahme vom 09.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
 ##### #Nummer

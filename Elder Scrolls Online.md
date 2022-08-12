@@ -6816,7 +6816,7 @@
   Aufnahme vom 30.06.2022 - #1671 - ##24 - S3
   ```
 
-##### 1672
+##### #1672
 
 * Titel: `Let's Play ESO #1672 ##25 - Adelsabschaum [Hochinsel]`
 
@@ -6937,7 +6937,7 @@
   Aufnahme vom 07.07.2022 - #1678 - ##31 - S5
   ```
 
-##### #32
+##### #1679
 
 * Titel: `Let's Play ESO #1679 ##32 - Sir Brenvale [Hochinsel]`
 
@@ -7379,14 +7379,107 @@
   Aufnahme vom 26.07.2022 - #1703 - ##56 - S8
   ```
 
-##### #Nummer
+##### #1704
 
-* Titel: ``
+* Titel: `Let's Play ESO #1704 ##57 - Königin am Meer [Hochinsel]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 57 des High-Isle DLCs - Sitzung 8
+  
+  Wenn es um pure persönliche Macht geht dann glaube ich das Königin Ayrenn definitiv die mächtigste von den drei großen Herrschern ist. Klar, Jorunn ist ein großer Nordkrieger und kann im Zweifel noch so einige Bresche schlagen und sein Gesandter Irnsgar war das letzte Mal als wir ihn sahen auch nicht ganz unfit, aber letztendlich ist er nur Fleisch. (Man könnte wohl argumentieren das große Herrscher irgendwie ein wenig stärker und besser sind als Normalsterbliche, eventuell ein Glaubenskonzept?). Emeric ist Diplomat und hatte definitiv kriegerische Tage aber das ist lange her. Ayrenn ist jung, selbst für eine Mer, sie verfügt außerdem über lange reisende Erfahrung und verfügt noch über weitreichende magische Fähigkeiten. Von allen Anführern muss man bei ihr wohl am wenigstens Angst haben das sie verschütt geht, außerdem hat sie einen funktionierenden Spionageapparat. Möchte man meinen. Aber halt auch Fraktionen die sie nicht mögen und eventuell aktiv gegen sie arbeiten. Aber es ist doch eigentlich ganz schön unsere geliebte Königin einmal wieder zu sehen. Ich bin mir nicht ganz sicher wie das mit Zugehörigkeit aussieht, aber technisch gesehen sind wir wohl noch immer Bürgerin des Aldemeri Dominions...
+  
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1704 - ##57 - S8
+  ```
+
+##### #1705
+
+* Titel: `Let's Play ESO #1705 ##58 - Großkönig in Höhle [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 58 des High-Isle DLCs - Sitzung 8
+  
+  Unsere anderen beiden großen Herrscher heißen nur stumpf "Königin" und "(Skalden)König", also völlig normale Anführer für ein Reich einer bestimmter Größe. Nur Emeric musste es ein wenig übertreiben und hat sich den tollen Titel des Großkönigs ausgedacht. Solche Dinge passieren wenn man sich aus irgendwelchen politischen Gründen nicht Kaiser nennen will. Wenn man es aber ein wenig dreht, wendet und vielleicht sogar schüttelt macht es aber alles keinen Unterschied, es handelt sich um irgendwelche Warlords in x-ter Generation die andere, ähnliche alte Warlord-Familien anführen und zwischenzeitlich einen PR-Experten angeheuert haben um die Macht ein wenig zu zementieren, schon weil das Durchsetzen mit starken Armen auf Dauer echt anstrengend werden kann.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.07.2022 - #1705 - ##58 - S8
+  ```
+
+##### #1706
+
+* Titel: `Let's Play ESO #1706 ##59 - Prinz in Festung [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 59 des High-Isle DLCs - Sitzung 9
+  
+  Last but not least, unvergessen und natürlich genauso wichtig wie die beiden anderen, der diplomatische Nachwachs es Ebenerz-Paktes in Form von Prinz-Irnskar, seines Zeichens großer Sohn des mächtigen Jorunn, seines Zeichens Skaldenkönig. Irnskar hat leider absolut kein Talent an der Laute und auch sein Gesang ist bestenfalls mittelmäßig. Das hat schon in der Vergangenheit zu Unstimmigkeiten geführt und ich behaupte jetzt einfach das das der wahre Grund ist warum er jetzt hier ist. Der Prinz hat es irgendwie geschafft sich gefangen zu nehmen, mir absolut unverständlich wie genau er das geschafft hat, sollte es etwa am Ende so sein das eine einzelne Person einfach keine Chance gegen Masse hat. Immerhin hat er es aber auch vollbracht am Leben zu bleiben, und ich finde das ist ein großes Plus, weil so können wir ihn dann auch wirklich noch retten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 08.08.2022 - #1706 - ##59 - S9
+  ```
+
+##### #1707
+
+* Titel: `Let's Play ESO #1707 ##60 - Fluchtschiff [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 60 des High-Isle DLCs - Sitzung 9
+  
+  Man kann sich von Amenos nicht einfach weg teleportieren, das ist ein echtes Problem für die magisch veranlagten Gefangenen die sich hier aufhalten, allerdings gibt es davon wahrscheinlich nicht all zu viele. Der genaue Ursprung dieser Eigenschaft der Insel ist übrigens unbekannt, insofern müsste man davon ausgehen das ein entsprechender Magier mit genügend Zeit durchaus einen Weg um das "Schild" finden kann, eine aktive Kontrolle ist es ja nicht. Über die Geschichte mit "den Dschungel nie wieder verlassen" wissen wir allerdings noch nichts. Wie immer gibt es aber Ausnahmen von der Regel, zum Beispiel können andere Leute sich doch ganz einfach von der Insel verabschieden, auch wenn es ein wenig anders aussieht als das womit ich rechnen würde. Wie dem aber auch sei, dieser Weg steht nicht uns zur Verfügung und daher brauchen wir einen anderen Weg, wir fahren also ganz stumpf Boot. Nachdem Ayrenn, die zufälligerweise über See-Elfen Knowhow verfügt den gewaltigen Sturm weg zaubert. Einfach das Alles.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 08.08.2022 - #1707 - ##60 - S9
+  ```
+
+##### #1708
+
+* Titel: `Let's Play ESO #1708 ##61 - Bedrohungspotenzial [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 61 des High-Isle DLCs - Sitzung 9
+  
+  Wir haben den Orden der Emporstrebenden leicht und eventuell minimal unterschätzt. Es handelt sich aber trotzdem nur um eine Splittergruppe mit außerordentlich limitierten Potenzial. Das die bretonische Gesellschaft überhaupt so durchlässig für die bisherigen subversiven Tätigkeiten war spricht aber dafür das die Verschwörer zumindest einige Unterstützer in der herrschenden Klasse hat die vielleicht nicht direkt involviert werden wollen aber kreativ weg schauen. Wenn man das Ganze ein wenig intensiver analysiert würde man hier bestimmt einige Hinweise finden. Wie dem aber auch sei, sie haben die Hilfe eines großen Rituals und sorgfältiger Vorbereitung gebraucht um überhaupt einen Schlag durch zu führen. Später haben sie versucht ihre schlampige Arbeit zu beenden waren da aber außerordentlich dilettantisch. Mit einem nicht vorhandenen Spionagenetzwerk war es uns möglich quasi alles was sie versucht haben zu negieren. Und jetzt, jetzt nachdem wir unsere großen Würdenträger alle zurückhaben, sicher auf Hochinsel eingefahren sind, will man uns erzählen das der Orden immer noch eine Bedrohung ist? Das erscheint mir sehr weit hergeholt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 08.08.2022 - #1708 - ##61 - S9
+  ```
+
+##### #1709
+
+* Titel: `Let's Play ESO #1709 ##62 - das lange Spiel [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 62 des High-Isle DLCs - Sitzung 9
+  
+  Ich bemängele ja immer wieder das wir viel zu selten verraten werden oder das die Dinge viel zu oft genau so sind wie sie scheinen. Es gibt gute Neuigkeiten, heute sind die Dinge in etwa so wie sie scheinen aber auch nicht genau, und dann sind da auch noch Dinge die komplett anders sind. Also zur Sache. Wir sind wieder zurück auf Amenos, wir erinnern uns, diese Gefängnisinsel die moralisch so angreifbar ist wie ein Bürgerkrieg in Afrika. Alles hier ist falsch, da stört es dann auch niemand das wir heute für offensichtlich unehrliche Menschen arbeiten. Weil letztendlich ist doch hier niemand auch nur ansatzweise aufrecht oder ehrenhaft. Das fängt bei den Wachen des Lagers an die bestimmte Personen einfach nicht in den Dschungel schicken, ein mysteriöses Verfahren das verhindert das man die Insel verlassen kann und dann noch ein Adelshaus das die Vorgänge im Lager angeblich überwacht und unter Kontrolle hat während auf der gesamten Insel Verbrecher frei herumlaufen können.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 12.08.2022 - #1709 - ##62 - S9
   ```
 
 ##### #Nummer

@@ -143,12 +143,17 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #10
 
-* Titel: ``
+* Titel: `GreedFall - #10 - Gouverneurspalasttreppen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir sind immer noch ganz frisch in Neu-Seréne und ich kann jetzt schon sagen das es noch eine ganze Weile dauern wird bis wir irgendetwas signifikantes schaffen. Ich mache mir ja ein wenig Sorgen das mein methodisches Vorgehen das versucht jedes Gramm Inhalt aus einem Spiel heraus zu holen sich bei einem großen Projekt wie GreedFall sehr rächen wird, einfach weil es viel zu lange dauern wird. Soweit ich das verstanden habe ist ein Nachfolger in der Produktion und meine große Angst ist das ich das Spiel noch nicht fertig hab wenn der Nachfolger heraus kommt. Heute nähern wir uns auf jeden Fall schon einmal den großen Palast des Gouverneures, auch bekannt als unser guter Cousin Constantin den wir neulich noch aus der Gosse gezogen haben. Nach 3 Monaten auf See sind wir aber bestimmt ein wenig erschöpft und da kommt es ja wie gerufen das wir eine neue Gesprächspartnerin auf den Treppen auflesen, außerdem wird irgendwie angedeutet das unsere lustige Narbe im Gesicht irgendetwas zu bedeuten hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 2, Aufnahme vom 11.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```

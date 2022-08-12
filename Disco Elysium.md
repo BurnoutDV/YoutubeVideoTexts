@@ -1817,24 +1817,154 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
-##### #Nummer
+##### #121
 
-* Titel: ``
+* Titel: `Disco Elysium - #121 - die schwere Botschaft [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich könnte bestimmte Jobs nicht wirklich ausüben, zum Beispiel den eines Polizisten oder den eines Arztes. Letzteres auch wegen der Arbeitszeiten oder den unmenschlichen Ansprüchen die unsere Gesellschaft für diese Leute etabliert hat. Besonders schwer würde es mir aber in den beiden Berufen fallen Leuten zu berichten das ihre Angehörigen nicht mehr unter uns sind. Die gesamte Ermittlung eines Mordes hört sich für's Erste interessant an und es ist irgendwie möglich die menschliche Tragödie auszublenden und sich auf die Fakten zu beschränkten. Aber im echten Leben sind Menschen nicht wirklich schwarz und weiß. Die Mörderin wollte es vielleicht nicht wirklich tun oder es gibt enorm komplexe Gründe die das Gesetz so nicht abbbildet. Oder das Opfer war nur in einer Verkettung von miesen Umständen geraten die dazu führten das jemand zum Messer griff. Aber selbst wenn wir nicht mit Verdächtigen oder Täterinnen reden ist es nicht so leicht mit den Menschen zu sprechen deren Bruder, Ehefrau oder Cousin nie wieder nach Hause kommen würde. Der einfache Weg wäre es wahrscheinlich es stoisch anzugehen, aber wie lange kann man das machen bis es einen zerbricht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 01.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
-##### #Nummer
+##### #122
 
-* Titel: ``
+* Titel: `Disco Elysium - #122 - der Rest der Rüstung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Heute tun wir zwei Sachen. Zum einen versuchen wir noch einmal das Ding wo wir jemanden mitteilen das ein naher Angehöriger gestorben ist, nur dieses Mal ohne die Hilfe der Empathie und mit einem deutlichen Loch in der Tasche in der ich das Taktgefühl aufbewahre. Das klappt wie man es erwarten würde, leider sind meine restlichen Fähigkeiten immer noch viel zu hoch und sorgen dafür das die gesamte Situation kein kompletter Reinfall wird. Dann beschäftigen wir uns noch mit einer anderen Geschichte die wir eigentlich schon seit Tag Eins haben und die ich einfach nur vergessen hatte. Es gab da doch noch eine Rüstung deren Teile wir nicht finden konnten, die Schuhe sind ja leider schon weg, aber es gibt bestimmt noch etwas Anderes das wir finden können. Wir müssen nur die richtigen Leute fragen, also wackeln wir los, mischen ein paar Leute auf und hören was es zu wissen gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 01.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #123
+
+* Titel: `Disco Elysium - #123 - Kvalsund-Kombiwerkzeug KR+2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da eine Kirche, diese Kirche würde sich hervorragend dafür eignen dort einen anodischen Tanzclub einzurichten, allerdings braucht es dafür etwas Wohlwollen gewisser Programmiererin. Und die hat eigene Projekte an denen sie forschen möchte. Irgendetwas mit dem doch recht plötzlichen Datenverlust in Fortress Accident. Eine unerklärliche Löschung von Daten und allen Backups die damit zu tun hatten, und gewissermaßen wohl auch eine Reinwaschung ihres Namens. Das Finden der wahren Ursache des Scheiterns des großen Planens. Aber hier sind wir auch selber daran interessiert, wir wissen ja bereits das es ein kleines Loch in der Realität gibt, jetzt brauchen wir noch die Informationen die uns helfen die genaue Position der Information zu finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 01.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #124
+
+* Titel: `Disco Elysium - #124 - die externe Kopie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fortress Accident hatte gewaltige Pläne, aber es war letztendlich nicht die überfliegenden Ambitionen und die sich immer mehr erweiternde Roadmap die das große Projekt zum Scheitern hat bringen lassen. Stattdessen hat ein gewaltiger Datenverlust dem ein Ende gesetzt, alles was das Team erschaffen hatte, alle Mühen, plötzlich waren die Dinge weg. Und auch das Backup ist einfach verschwunden, obwohl es sich offline im Keller unter dem Gebäude befunden hat, und selbst wenn er ganz woanders gewesen wäre hätte dies wohl nichts geändert. Und doch suchen wir heute die externe Kopie weil man sie noch für etwas gebrauchen kann. Selbstverständlich sind wir aber auch neugierig und schauen was sich noch auf dem Filamentspeicher befindet. Und liefern dann das gute Stück ab.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 01.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #125
+
+* Titel: `Disco Elysium - #125 - anodischer Humanismus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben dafür gesorgt das irgendwelche Kids die laut Musik in einem Zelt gehört haben jetzt ganz woanders sitzen, nämlich in einer andächtigen Kirche. Die hat zwar schon seit ein paar Jahrhunderten nichts mehr mit Dolores Dei zu tun aber dennoch ist der Ort immer noch ihr geweiht, und das hat bestimmt noch irgendetwas zu bedeuten. Aber dadurch das wir die Jungs (und das eine Mädel) jetzt tatsächlich unter den heiligen Hallen bekommen haben können wir jetzt auch mit den Leuten reden, bzw. richtig mit den Leuten reden. Ganz vorne in der Reihe der Menschen mit denen wir vorher noch nicht richtig gesprochen haben ist Noid. Es stellt sich relativ schnell heraus das er so heißt weil es die Kurzform von "Paranoid" ist. Der gute Mann hat etwas gegen herrschende Ordnung und findet viele Dinge ziemlich verdächtig, aber das ist aller gar kein Problem, wir sind jetzt ja schließlich einer von den Guten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 01.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #126
+
+* Titel: `Disco Elysium - #126 - Kirche der anodischen Musik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Musik ist etwas sehr menschliches und bewegt die Menschen. Irgendwelche Rhythmen die man benutzen kann um Emotionen und Regungen einzufangen. Kommunikation die über die Sprache hinweg geht. Wie genau das mit der anodischen Musik funktioniert kann ich übrigens nicht sagen. Aber Musik kann auch etwas sehr Verbindendes, fast schon religiöses sein, aber das trifft wohl auf alles zu das die Leute zusammenbringt. Schlimm wird es erst wenn man aktiv von den anderen abkapselt. Davon einmal abgesehen haben wir jetzt aber tatsächlich eine echte Kirche für die anodische Musik gefunden. Ein prächtiges Gebäude aus 300 Jahre alten Kiefernholz das anscheinend auch ein Loch in der Welt zurückhält, oder auch nicht, wie  genau das alles funktioniert kann eigentlich keiner sagen. Sicher wissen wir aber das hier noch große Dinge geschehen werden...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 01.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #127
+
+* Titel: `Disco Elysium - #127 - der 2mm Ursprung des Grau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Grau ist und das Grau wächst. Es steht zu vermuten das es Orte gibt an denen sich Realität im Grau bildet, wir wissen nicht wie das geschieht oder ob überhaupt. Es ist nur eine Vermutung, vielleicht kann man dem Grau auch absichtlich ein Stück Welt abringen. Dolores Dei wusste das es diese Insulinde gab, und die Schuldreine war eventuell nicht ganz menschlich. War sie ein Alien der ein Stück Welt innerhalb des Graus erschaffen hat? Soweit wir wissen gibt es die Löcher in der Realität nicht auf den anderen Welten, andernfalls wäre das alles doch ein wenig bekannter, oder? Und doch wussten die ersten Siedler was zu tun ist. Man sagt das das Grau immer weiter wächst und irgendwann die gesamte Welt verschlingen wird, jede Welt. Was wenn Dolores Dei ein hochtechnologischer Alien war der diese Insulinde komplett erschaffen hat oder hat erschaffen lassen um etwas zu erreichen, vielleicht weil es für den menschlichen Fortschritt notwendig war, vielleicht weil die anderen Insulinden viel zu weit im Ferngrau liegen. Eine Haltestelle wurde gebraucht, also erschuf man eine Insel im Nichts mit künstlichen Mitteln. Aber anders als natürlich entstandene Realität hat das Verfahren Fehler, winzige Fehler, konzentrierte Stellen des Graus die das Verfahren nicht bekämpfen kann. Kleine Tupfer genau in der Mitte des Einflussgebietes die nicht weggehen, fast perfekt aber doch nicht perfekt. Daher wurde auch das Wissen mitgeteilt wie man die Kirchen baut und was zu tun war. Alles Theorie, aber Fakt ist das wir ein Loch in der Realität gefunden haben das scheinbar alles zu beeinflussen scheint, auch und besonders Funkcomputer. Das ist besorgniserregend. Wie weit ist der Einfluss des Graus wirklich?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 01.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #128
+
+* Titel: `Disco Elysium - #128 - mehr hardcore [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben die Musik in die Kirche gebracht und damit irgendwie auch etwas Religiöses daraus gemacht, aber je nachdem wen man fragt spielt es dafür eigentlich keine Rolle welches Gebäude man als elektronischen Tanzclub nutzt. Aber irgendetwas stimmt mit der Musik noch nicht, unsere Konzeptbildung merkt an das das gewisse Extra fehlt und wir ganz dringend etwas tun müssen. Und daher gehen wir jetzt daher und suchen nach einen noch krasseren Beat den wir irgendwie in die Musik mit einbinden können. Welch Glück aber auch das wir die Stimme der Welt selbst hören und daher ein paar praktische Hinweise uns auf den rechten Weg führen, kann das Leben nicht manchmal schön sein?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 08.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #129
+
+* Titel: `Disco Elysium - #129 - Beat des Frontalangriffes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird Zeit für eine echte Lärmattacke. Der neue Beat den wir aus den quasi magischen Band gefunden haben ist vielleicht ganz gut und passt auch irgendwie seltsam gut zu der Musik die wir bereits hatten aber da fehlt noch etwas. Wir brauchen den echten Angriff der Musik, einen richtigen Frontalangriff, eine Offensive auf die der Wüstenfuchs stolz wäre (schwierige Referenz?). Ein Attentat auf die Gehörmuscheln, ein Massaker auf den Feldern des Lärms. Und wie erreichen wir das? Wie kommen wir zu diesen absolut apokalyptischen Sound? Ganz einfach, indem wir den wahren Ton des Weltenendes nehmen, das Geräusch das geschieht wenn die Welt und damit auch alles Leben ihr endgültiges Ende nimmt, wir haben zum Glück die Technologie und wir werden sie auch benutzen. Es wird Zeit für den richtig oberkrassen hardcore beat!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 08.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #130
+
+* Titel: `Disco Elysium - #130 - O pasăre de argint [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Silbervogel, so heißt die heutige Episode. Das ist für den Moment allerdings nicht so wichtig. Stattdessen reden wir weiter mit den Ravern (oder wie auch immer man die Genießer der anodischen Musik nennen kann). Es gibt da zum Beispiel noch Acele die immer noch nach den Geräuschen mit Kontakt-Mirko horcht, immer mit der Hoffnung einen total abgefahrenen Sound ausfindig zu machen der die Natur der Musik neu definiert. Vielleicht müsste sie ihr Mikrofon einfach nur näher ans Grau halten? Wann sonst hat man schon Gelegenheit ein Stück Ferngrau zum Greifen zu haben ohne sich mit dem restlichen Grau herumzuärgern. Acele redet jetzt mit uns, willens ein paar Worte zu wechseln nachdem sie am Anfang ziemlich verschlossen war. Die Tatsache das wir eine Bulle sind hat sie anscheinend zuerst ein wenig sehr abgeschreckt. Interessant ist übrigens auch das wir soviel über bestimmte Vorgänge, Sprachen und generell Sachen wissen, fast schon auffällig wie wir wie ein Terrier an einer Sache verbissen weiter arbeiten...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 08.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
 ##### #Nummer

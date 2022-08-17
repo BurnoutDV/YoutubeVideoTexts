@@ -157,3 +157,88 @@
   Sitzung 2, Aufnahme vom 11.08.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
+
+##### #11
+
+* Titel: `GreedFall - #11 - Groschengardenbesuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ob wir jemals erfahren warum die Groschengarde so heißt wie sie heißt? An sich klingt der Name ja schon so ein wenig als wenn man seine Söldner auf Wish bestellt und dann halt nimmt was man kriegt. Wir besuchen auf jeden Fall die örtliche Niederlassung der Groschengarde. Ich bin mir übrigens auch unsicher ob es sich hier einfach um Peak-Kapitalismus handelt das man als reiche Händlergemeinschaft den kompletten militärischen Arm einfach in die Privatwirtschaft ausgelagert hat und daraus so eine Art eigenes Volk geschaffen hat das dann natürlich ganz andere Rechte besitzt als echte Mitglieder der Händlerkongregation. Immerhin gibt es hier Einiges zu erzählen und wir erfahren auch neue Dinge, also eine lohnenswerte Reise.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 2, Aufnahme vom 11.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #12
+
+* Titel: `GreedFall - #12 - Reiners Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gutes Personal ist schwer zu finden. Diese Platitüde wird immer und immer wieder wiederholt aber es ist auch wahr. Es ist wirklich schwierig fähiges und gleichzeitig verlässliches Personal zu finden. Klar, Talent findet man an jeder Ecke, aber meistens ist es ja die Kombination von verschiedenen Eigenschaften die man haben will und da erreicht man recht schnell einen Mangel. Daher ist man stets bemüht einmal erkanntes, gutes Personal nach Möglichkeit zu halten und dessen Ausbildung zu fördern. Unser guter Kurt hat anscheinend  eine Auge für solche Dinge und hat vor ein paar Monaten einen Kerl namens Reiner in Seréne aufgesammelt und kurze Zeit später auf die Insel verschifft. Jetzt ist von dem Kerl aber keine Spur mehr, sollte er dann doch auf einmal fahnenflüchtig geworden sein oder hat am Ende sogar jemand Anderes erkannt welches Potenzial da geschlummert hat?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 2, Aufnahme vom 11.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #13
+
+* Titel: `GreedFall - #13 - phantomartige Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendetwas ist hier seltsam faul, aber eine konkrete Wortmeldung fehlt uns einfach. Es ist ein wenig ärgerlich das das was wir suchen wohl nur aus dem Kopf von anderen Leuten zu bekommen ist. Gedankenlesen können wir nicht und die Menge an Überwachungskameras, Platzwärtern oder Tür-Logs ist außerordentlich gering. Oder anders gesagt, außer Fragen können wir kaum etwas Anderes tun um der Wahrheit näher zu kommen. Leider ist es aber auch so das die Garde wohl nicht über Dinge die in der Garde geschehen mit nicht-Garde Mitgliedern reden und das ist dann außerordentlich schwierig. Zum Glück gibt es ja Kurt, aber Eines steht jetzt schon fest, es gibt hier ein Geheimnis zu entdecken, und das finde ich absolut fantastisch. Doch die Spuren bleiben weiterhin nebulös, niemand möchte etwas gesehen haben, ob wir uns selbst zum Ziel mit unseren Fragen gemacht haben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 2, Aufnahme vom 11.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #14
+
+* Titel: `GreedFall - #14 - Furcht der Händler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Furcht ist ein mächtiges Mittel, manchmal träume ich davon wie ein anderes Leben wohl wäre in dem ich mich dazu entschieden hätte nicht nur aufrührerische Texte in Videobeschreibungen von nicht geschauten Youtube Videos zu schreiben sonder wirklich politisch aktiv zu werden. Gegen die Korruption vor zu gehen, Verbrechen bekämpfen und alles wieder "richtig" machen. Der zynische Realist in mir merkt an das die Verbrecher bereits einen Vorsprung haben, insbesondere organisierte Kriminalität sollte Mittel haben Leute mit Angst zu reagieren, spätestens wenn man Familie hat ist man bereits erpressbar. Aber selbst wenn man ein egoistischer Einzelgänger ist der sein Ding durchzieht sind es die Vorgesetzten nicht. Oder schlimmer noch, die Grundannahme das die vorhandenen Institutionen nicht schon durch und durch verdorben sind ist wohl generell falsch. Wenn man also anfangen würde etwas gegen Mauscheleien, Seilschaften und Selbstbedienung zu tun müsste man sich seine Verbündeten sehr genau suchen. Und selbst wenn man auf der grünen Wiese anfängt ist immer noch nicht gesagt das nicht jemand im Schatten eingeknickt ist weil seine kleine Nichte krank wurde. Es reagiert die Angst und die Unsicherheit, am Ende ist jeder für sich hinter seinen Augen alleine, und das kann und wird man ausnutzen. So auch heute, wir versuchen herauszufinden warum und von wem Händler erpresst werden und die reden einfach nicht mit uns, aus Angst. Da hilft nur Eines, mehr Angst machen und danach Plot-Armor missbrauchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 2, Aufnahme vom 11.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #15
+
+* Titel: `GreedFall - #15 - Konzession zur Arena [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Episodentitel ist maximal verwirrend weil er überhaupt nichts mit der gespielten Realität zu tun hat. Folgendes, wir beschäftigen uns mit einem Händler der Eingeborenen den anscheinend andauernd seine Waren abgenommen wird. Anstatt das der Mann aber aufgibt wird er immer und immer wieder mit neuen Dingen beliefert. Das ist alles leicht zu erklären, es mangelt einfach an einer entsprechenden Konzession, das ist auch keine Überraschung, schließlich will man das der Handel geordnet abläuft, wo kämen wir dann da hin wenn einfach jeder sein Zeug verkaufen könnte. Zum Einen hätten wir da den Qualitätssicherungsaspekt und zum Anderen auch das man dadurch effektiv die eigenen Spezies kontrollieren kann, nicht das noch jemand mit einem besseren Produkt daher kommt und den eigenen Freunden das Geschäftig streitig macht. Man kann da auch in Nuancen vorgehen und einfach nur jeden Tag überprüfen ob das mit der Konzession seine Richtigkeit hat. Aber das würden die ehrbaren Händler ja nie tun. Und dann haben wir da noch die Groschengarde die scheinbar eine Arena betreiben und mit Gefangenen betreiben. Interessant hier ran ist auch das das Thema Bürgerrechte noch einmal aufgenommen wird. Weil, allgemeine Menschenrechte gibt es nicht, übrigens ein interessantes Stück Information das man im Hinterkopf halten sollte wenn man im Ausland ist, die minimalen Rechte die man nur als Mensch hat könnten durchaus ein wenig unter dem liegen was man von zuhause kennt. Im Falle der Insel ist es wohl so das die Eingeborenen absolut gar keine Rechte habe, da kann man sie auch einfach in Eilabfertigung in die Arena werfen. Und jetzt kommen wir ins Spiel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 2, Aufnahme vom 11.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

@@ -7482,6 +7482,126 @@
   Aufnahme vom 12.08.2022 - #1709 - ##62 - S9
   ```
 
+##### #1710
+
+* Titel: `Let's Play ESO #1710 ##63 - die Systren-Schwestern [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 63 des High-Isle DLCs - Sitzung 9
+  
+  Ich muss kleine Absätze wie den den ich hier eigentlich schreiben wollte immer mit einigen Disclaimern schreiben nur für die unwahrscheinliche Chance das du das hier liest und du dich von mir beeinflussen lässt. Also los, ich habe eher rudimentäre Ahnung von Literatur und wie man so rein von der theoretischen Sicht her eine Geschichte aufbaut und bin da eigentlich nur in der Beobachterrolle, ich habe da mal ein wenig was gelesen aber das können wir eher als Überfliegen bezeichnen. Das gesagt..
+  Ich finde das es für World-Building unfassbar wichtig ist das ein Ort eine Geschichte hat, oder eigentlich alles eine Geschichte hat. Das führt leider dazu das man sich Geschichten und Geschehnisse ausdenken muss die der Spieler nie erkunden kann. Sagen wir wir haben irgendwelche abgebrannten Bauerhöfe. Eventuell schreibt man dafür eine ganze kleine Geschichte wie die Familie gelitten hat und alles, und letztendlich dient es nur dazu den Aufbau und die Zeitschiene vernünftig einzubauen. Eine kleine Geschichte wie die der Systrenschwestern kann so etwas auch erreichen. Über die Schwestern und was sie taten erfahren wir eigentlich wenig, sie sind nur Geschichte für das was wir heute tun. Dennoch spannend. Das Tagebuch das wir finden ist allerdings ein wengi lächerlich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 12.08.2022 - #1710 - ##63 - S9
+  ```
+
+##### #1711
+
+* Titel: `Let's Play ESO #1711 ##64 - Romantik unter Dieben [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 64 des High-Isle DLCs - Sitzung 9
+  
+  Ärgerlicherweise nehmen wir heute nur noch die halbe Episode "das lange Spiel" mit, aber mein Wille ist es ja nun wirklich nicht das Video solange wie möglich zu strecken nur damit alles genau aufgeht. Was wir aber in der ersten Hälfte erleben ist das ein gewisses Diebespaar sich schon schön gegenseitig den Ball zu spielt. Ich weiß nicht so recht ob ich ihre Philosophie auch nur nachvollziehen kann, ihre Gesamtannahme und Vorgehensweise erscheint mir doch ein wenig sehr extrem und ich habe das Gefühl das man durchaus eine gesündere Beziehung mit Vertrauen führen könnte. Aber wie dem auch sein, all das ist ziemlich süß und letztendlich dürfen wir sogar noch mit dem großen Betrug am Ende rechnen. Nachdem wir damit fertig sind müssen wir leider raus in den Dschungel um eine weitere Quest zu finden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 12.08.2022 - #1711 - ##64 - S9
+  ```
+
+##### #1712
+
+* Titel: `Let's Play ESO #1712 ##65 - Eines Vaters Stolz [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 65 des High-Isle DLCs - Sitzung 10
+  
+  Und wir sind immer noch auf der Insel der Sklaventreiber, ungesetzlichen Gefangennahme und magische Gefängnisse. Heute haben wir es mit einem Charakter zu tun die anscheinend noch nie die echte Welt gesehen hatte und sich damit absolut glücklich schätzen darf. Vorhang auf für Meryline Barthel, die Gute ist Thaumvokalistin, heißt das sie nicht richtig zaubern kann sondern ihre Stimme dafür nutzt. Man könnte es als eine Art Behinderungen in den arkanen Künsten sehen, oder aber als Möglichkeit die Grundfesten der Realität selbst anzugreifen. Wie dem aber auch sei, unsere liebe Meryline träumt davon etwas Gutes für die Welt zu tun, anscheinend ist sie auch auf Amenos aufgewachsen, eine Tatsache die ihren moralischen Kompass ein wenig verwirrt zu haben scheint. Außerdem hat sie noch Gewalt gesehen, das erscheint mir sehr schwer vorstellbar aber vielleicht hat sie immer die Augen geschlossen wenn es grade einmal kritisch geworden ist. Wie dem aber auch sei, ihre Eltern wollen sie scheinbar vor allem Beschützen was schlecht auf der Welt ist und das hat uns dann an den heutigen Tag gebracht. Ihr Vater ist übrigens der lokale Ober-Peitschenschwinger der Mine, das macht ihn direkt sympatisch. Aber er gibt den armen Gefangenen ja nur eine Möglichkeit sich etwas dazu zu verdienen...
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 15.08.2022 - #1712 - ##65 - S10
+  ```
+
+##### #1713
+
+* Titel: `Let's Play ESO #1713 ##66 - der Anti-Hadoliden Song [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 66 des High-Isle DLCs - Sitzung 10
+  
+  Die klassische Barden-Klasse (heh) in Fantasy ist immer ein wenig unterrepräsentiert. Das liegt wohl daran das Musik machen für die breite Masse nicht so spannend ist oder das es einfach keine spannende Charakterklasse ist die man irgendwie leveln kann. Meistens sind irgendwelche Nebencharaktere Barden die absolut nicht für den Kampf taugen. In ESO haben wir bis jetzt Jorunn den Skaldenkönig kennen gelernt der angeblich so manchen Vers geschmettert hat während er in der Schlacht stand, da war aber Nichts magisches bei. Barden haben diese seltsame Nicht-Magie, es ist nichts Arkanes wie wenn jemand einen Feuerbolzen wirft oder die Luft gefrieren lässt, stattdessen geschehen Dinge ohne das man es direkt Magie nennen könnte, vielleicht ist es auch nur Einbildung oder die Wahrnehmung der Zuschauer/Zuhöhrer die sich verändert und nicht der Boden auf dem man steht. Aber ein ausreichend hochleveliger Barde kann wortwörtlich so gut die Musik erklingen lassen das die Steine erweichen..oder sie bilden sich das nur ein, das ist schwer zu sagen. Niedere Wesen mit Rhythmen zu beeinflussen ist dagegen keine Magie. Welche Glück aber auch das die eigentlich recht intelligenten Hadoliden darauf anzusprechen scheinen. So bauen wir heute einen großen Mückenzirper auf der die Krabbelviecher abwehrt. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 15.08.2022 - #1713 - ##66 - S10
+  ```
+
+##### #1714
+
+* Titel: `Let's Play ESO #1714 ##67 - Freiheitsstreben [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 67 des High-Isle DLCs - Sitzung 10
+  
+  Menschen (und wahrscheinlich auch Mer) neigen dazu in irgendeiner Hinsicht nach Freiheit zu streben. Wenn man Vivec glaubt sind wir wohl alle irgendwie Gefangene der Realität und so gesehen hat er ja auch recht, irgendwo fangen die Grenzen an. Wie ein Tier mit einem großen Gehege werden wir uns unserer Grenzen vielleicht nie bewusst oder sie sind zwar sichtbar aber so locker das man sie als Rahmenbedingung akzeptiert. Vieles davon ist wohl auch Gewohnheit und natürlich das Wissen ob der Freiheit außerhalb der aktuelle Situation. Übrigens weiß ich nicht genau wie die Wachen eigentlich einen Bevölkerungszuwachs durch neue Kinder behandeln. An sich bedeutet das ja Leute auf Amenos leben die sich selbst nichts zu Schulden haben kommen lassen und dennoch in Gefangenschaft sind, das erscheint recht unfair. Aber es geht ja noch weiter, heute erfahren wir das es neben in den Dschungel geworfen werden noch ein weiteres nerviges Schicksal geben kann, man wird als Spielstein bei einer Menschenjagd genutzt. Ob das moralisch auf der gleichen Stufe steht wie das Einsperren von eigentlich unschuldigen Kindern von Gefangenen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 17.08.2022 - #1714 - ##67 - S10
+  ```
+
+##### #1715
+
+* Titel: `Let's Play ESO #1715 ##68 - Walfall [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 68 des High-Isle DLCs - Sitzung 10
+  
+  Amenos ist eine Gefängnisinsel. Soweit wir wissen gibt es zwar ein paar Bodenschätze aber die beschränken sich größtenteils auf irgendwelche Muscheln die andere Sklaven aus der Erde holen. Ansonsten kommt man halt ziemlich schlecht von dem Brocken über und generell und überhaupt scheint die generell Idee relativ solide zu sein. Warum es sich jetzt unbedingt um eine Dschungelinsel handeln muss und warum die einzelnen Gefangenen sich nicht schon lange in Lager geteilt haben ist mir allerdings nicht ganz klar, weil offensichtlich rekrutieren sich ja die Leute die dort landen aus verschiedenen Gruppierungen. Nun, eine Insel also. Heute betreten wir Walfall, eine Insel die wahrscheinlich entstand als ein Blumentopf und ein Wal durch das Wirken der "Herz aus Gold" in der Luft erschienen und Walfall sind halt die Reste davon. Es handelt sich um eine Insel die so lächerlich nahe an Hochinsel dran ist das man quasi eine Brücke bauen könnte. Unser Floss reicht also aus um bis dahin zu kommen, aber leider nicht um weiter zu fahren? Alles ist ein wenig komisch hier. In Walfall selbst bringen wir noch ein paar reiche Säcke um, aber die Befriedung hält sich auf ein Minimum.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 17.08.2022 - #1715 - ##68 - S10
+  ```
+
+##### #1716
+
+* Titel: `Let's Play ESO #1716 ##69 - die Schädelzahnküste [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 69 des High-Isle DLCs - Sitzung 10
+  
+  Wir kenne Kapitän Jamila bereits. Am Anfang bin ich zwar komplett auf der falschen Fährte weil da eine gewisse Verwechslung vorliegt aber dann sehe ich schon noch die Wahrheit, keine Angst, ich google hauptberuflich Probleme, ich kriege das alles hin. Zum Thema, es gibt doch einen Bereich von Amenos den ich noch gar nicht bereist habe. Ich weiß was ihr jetzt denkt, wie kann das sein, er meckert doch immer das das alles so klein ist. Tja, anscheinend war ich nachlässig und habe es geschafft immer genau woanders ab zu biegen sodass wir ein gutes Viertel der Insel einfach noch nicht gesehen haben. Aber alles gar kein Problem (erneut, generell haben wir nie Probleme sondern nur Herausforderungen), erkunden wir heute die Schädelzahnküste. Die Tatsache das unsere gute Kapitän Jamila übrigens regelmäßig auf der Insel anlegt und die anderen Gefangenen hier das noch nicht gesehen haben oder die Gute sogar für Fluchtleistungen bezahlen macht es ein wenig komisch, andererseits gibt es ja noch die mysteriöse "Abfertigung". An die ich übrigens immer noch nicht glaube. Soviel also zum Thema das die Strömungen um die Insel absolut unüberwindlich sind. Mir ist übrigens auch nicht so richtig klar wie man ein Schiff verlieren kann und dann noch die Hoffnung besitzen das man es irgendwie wieder erhält.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 17.08.2022 - #1716 - ##69 - S10
+  ```
+
 ##### #Nummer
 
 * Titel: ``

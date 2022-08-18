@@ -233,12 +233,17 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #16
 
-* Titel: ``
+* Titel: `GreedFall - #16 - Wanderschuhe [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Der Titel ist eine Lüge, wie so oft in letzter Zeit (ich erwische mich ziemlich oft das als initialen Text zu schreiben, man kann Kängurus einfach nicht trauen). Wir können uns überhaupt keine Wanderschuhe leisten, stattdessen reisen wir heute nur ein wenig durch die Gegend. Mir war im Vorfeld überhaupt nicht bewusst wie man eigentlich die Welt erkundet, von der Karte her nahm ich an das es sich um ein klassisches Open World Spiel handelt, aber das Ansatz der hier verfolgt wird ist ein wenig klassischer, ein wenig wie in alten Zeiten als man noch "Maps" hatte die man über Ladezonen aneinander gebunden hat. Eigentlich finde ich diese Art der Spielwelt Präsentation gar nicht so schlecht weil es einen mehr Gefühl für die Größe eines Ortes gibt. In Open World Spielen ist oft alles ein wenig gequetscht weil niemand das hundertste Haus von irgendwelchen Proletariern sehen will. Dadurch das wir wirklich auf einer Karte reisen entsteht ein Gefühl von Weite und die Reise wird dadurch realer. Noch besser wäre natürlich wenn wir wirklich all die Strecke durchlaufen würden aber dann gebe es eine Menge Nichts in dem einfach nichts ist. Auch nicht besser.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 2, Aufnahme vom 11.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```

@@ -943,6 +943,97 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #63
+
+* Titel: `Elden Ring - #63 - Katakombenschemen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als Heldin in der Welt von Elden Ring verbringen wir wirklich viel Zeit damit irgendwelche Keller zu erkunden. Das alles erinnert ein wenig an die klassische Soulsborneerfahrung wenn wir von einem tiefen Ort zum nächsten hechten, auf der Dauer kann das aber ziemlich ermüdend sein. Aber was bleibt uns den anderes übrig? Die Außenwelt ist doch ziemlich langweilig und hat außer ein paar Karawanen nicht wirklich viel zu bieten, Karawanen und halt Zugänge zu irgendwelchen Dungeons. Darin befinden sich dann interessante Bosse, heute zum Beispiel der Katakombenschemen. Übrigens nicht mein Lieblingsgegner. Ich sehe übrigens nicht das ich jemals das gesamte Spiel noch einmal spiele sondern beim zweiten Mal eher weg-nope.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 12, Aufnahme vom 09.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #64
+
+* Titel: `Elden Ring - #64 - Lantenna die Albenauric [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lange haben wir sie gesucht und heute gebe ich dann endlich auf. Gesucht war eine Albenauric namens Lantenna die irgendwie eine Hälfte eines Amuletts mit sich herum trägt. Wir wissen leider absolut nicht was es damit eigentlich auf sich hat und der Hinweis den wir erhielten wo die Gute sein sollte war leider auch ziemlich Sinn befreit. Zwar wissen wir jetzt das man sie an einer Ruine findet aber leider ist die entsprechende Ruine nicht bezeichnet und das Seenland ist ziemlich groß und auch kleinteilig. Wir erinnern uns außerdem an die Anwesenheit anderer ungelöster Rätsel in dieser Region, da ist eine verschwundene Frau noch nicht einmal das größte Ärgernis. Aber heute finden wir sie, nicht weil ich so ein krasser Spürhund bin oder zufällig das Schwert eines Spürhundes besitze sondern weil ich mir ganz stumpf von außerweltlichen Quellen helfen lasse. Es würde aber auch niemanden Spaß machen wenn ich drei Stunden jeden Winkel absuch oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 12, Aufnahme vom 09.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #65
+
+* Titel: `Elden Ring - #65 - Entstellte Katakomben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt ziemlich neu in der Altus-Hochebene angekommen. Es handelt sich um ein ganz neues Gebiet das schon ein wenig anders aussieht, wichtiger Bestandteil davon ist auch das hier jetzt andere Gegner herumlaufen, andere Gegner die natürlich auch neue Spezialfähigkeiten haben. Ganz neu im Petto sind zum Beispiel die Parfümeure, anscheinend irgendeine Spezialisierung von Alchemisten die mit ihren Mittelchen besondere Dinge tun. Die Bande ist ein wenig lästig weil sie scheinbar auch an irgendwelchen Tieren Experimente gemacht haben und das Ergebnis geht uns heute dezent auf den Sack. Warum die Katakombe in der wir heute sind übrigens entstellt ist kann ich nicht wirklich sagen, eventuell ist ja gar nicht die Einrichtung entstellt sondern das was darin ist. Wir finden auf jeden Fall eine Menge Tiermenschen die ja durchaus so aussehen als hätte Aldia seine Pfoten und Wurzeln im Spiel. Daher würde wahrscheinlich viel davon sprechen das dies der Ursprung des Ortsnamens ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 12, Aufnahme vom 09.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #66
+
+* Titel: `Elden Ring - #66 - Höhle der Weisen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Spoiler für die heutige Episode, wir werden absolut keine Weisen treffen. Dafür aber finden wir einen Dungeon mit gleichen Namen, irreführend wie ich noch einmal deutlich feststellen möchte. Nun, wir dem aber auch sei, was wir auch finden ist ein wahres Feuerwerk an Illusionswänden. Und hier sehen wir dann auch gleich die große Schwäche von Geheimtüren und versteckten Räumen. Sobald man einmal einen gefunden hat oder sogar noch schlimmer zwei, ist jede Wand verdächtig, jedes Bücherregal wird ganz genau unter die Lupe genommen und jeder Fackelhalter wird noch einmal auf seine Hebeligkeit geprüft, es könnte ja immer sein das sich doch noch ein weiterer Schatz hinter irgendeiner Wand versteckt, und da möchte man schließlich sicher gehen das man nichts verpasst oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 12, Aufnahme vom 09.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #67
+
+* Titel: `Elden Ring - #67 - Ruinen von Lux [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich hängen wir heute nicht nur in den Ruinen von Lux herum aber es ist immerhin die eine Sache die wir heute am meisten machen, neben den ganzen Kleinzeug mit dem wir uns auseinander setzen. Das liegt aber größtenteils daran das ich versuche mit meinem ATP (All-Terrain-Pony(es hat sich voll gelohnt das abzukürzen)) einen Berg zu erklimmen den ich auch einfach von der anderen Seite aus hätte anreiten können. Endlich oben angekommen finden wir natürlich einen Kerker vor und darin befindet sich ein weiterer Halbmenschkönig, die scheinen nicht besonders selten zu sein, fairerweise muss man aber wohl anmerken das die einzelnen Königreiche schon recht weit von einander entfernt liegen. Diese hier ist übrigens eine Königin namens Gilika, wir wissen nichts über sie und da sie jetzt gleich tot gewesen sein wird wird es über sie auch nichts zu mehr zu erfahren..
+  Weiter trafen wir kurz vorher noch den uralten Drachen Lanssseax der aber leider absolut gar keinen Bock auf uns hat und einfach wegflattert, das ist nicht der erste Drache der diesen Move hinlegt. Ziemlich klug vom Schuppentier aber auch sehr unbefriedigend. Wo sind die Riesen mit den Drachentötergroßbogen wenn man sie einmal braucht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 13, Aufnahme vom 16.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #68
+
+* Titel: `Elden Ring - #68 - trügerischer Turm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erkunden weiter und finden immer wieder interessante Dinge. Zum Beispiel heute eine Kirche, einen Magierturm und irgendwelche komischen Viecher im Wald die eine Art Todesnebel von sich absondern können. Der Turm ist dieses Mal ein wenig sehr unsichtbar und irgendwie durch ein Rätsel geschützt das wir einfach nicht lösen können. Es fehlt das letzte Siegel (wie so oft) und damit ist dann alles nicht mehr so einfach, ich habe sogar ein Photo von der Karte gemacht um mir zu helfen, aber das alles war vergebens, letztendlich werden wir scheitern. Aber wir bedecken Fläche. Mir fehlt übrigens so ein wenig die Option das wir so erkundbaren Nebel auf der Karte haben um zu sehen wo wir schon überall waren, das würde es leichter machen zu wissen welche Ecken man schon alle gesehen hat und wo man vielleicht noch einmal vorbeireiten müsste. Man kann sich ja schließlich nicht alles merken oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 13, Aufnahme vom 16.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

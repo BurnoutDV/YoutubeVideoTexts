@@ -1967,6 +1967,126 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #131
+
+* Titel: `Disco Elysium - #131 - Disco Elysium [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und hier ist sie, die Episode die nach dem Spiel benannt ist. Ich habe jetzt nicht die Geduld nachzugucken ob ich das bereits schon einmal getan habe aber ich glaube das hier könnte tatsächlich das erste Mal sein das es so ist. Aber es ist auch sehr passend, ich weiß nichts über den Entwicklungsprozess des Spieles aber so wie es ausschaut wissen einige Zuschauer mehr darüber und berichten mir gelegentlich Dinge darüber. Das ist ziemlich nützlich, weil der Name Disco Elysium ist schon ziemlich einzigartig was so Spiele angeht und ich habe einige Zeit darüber gerätselt was es damit auf sich hat. Stellt sich doch glatt heraus das es jetzt der Name einer Kirche für anodischen Musik ist, ein sehr magischer Ort und vielleicht sogar ein großer Rückzugsort. Immerhin handelt es sich nicht um eine Drogenküche. Das ist doch auch gute Idee oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 08.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #132
+
+* Titel: `Disco Elysium - #132 - Logik der Tat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder fest in unserem großen Fall dran. Unsere aktuelle Hauptverdächtige heißt Ruby und hat wohl aus Eifersucht gehandelt, so richtig wissen tun wir das aber noch nicht. Wir brauchen also mehr Informationen und die können wir uns wohl nur von Ruby selber abholen, bisher waren wir ja auch ziemlich gut darin Leute abzukochen. Aber um Ruby zu finden müssen wir wohl noch einmal Titus sprechen. Der könnte ja durchaus wissen wo das achte Hardy Girl zu finden ist. Aber bevor er uns etwas verrät müssen wir wohl ein wenig seine Glaubensbasis angreifen. Die gute Nachricht ist aber das wir dafür nur unsere Logik brauchen, eine Eigenschaft in der wir eine Menge Punkte haben und natürlich auch über die Ausrüstung verfügen um hin zu kommen wo wir hin wollen. Also zerren wir heute an den Grundfesten des Falles und wenden die Brechstange der Logik an, etwas das wir wahrscheinlich schon viel früher hätten tun sollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 08.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #133
+
+* Titel: `Disco Elysium - #133 - drei Phasen der Beweisführung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind ein Mann des Gesetzes, oder besser gesagt Harry ist das, ich selbst zweifel da ein wenig an meiner Kompetenz und Fähigkeit tatsächlich immer fair und von allen Seiten gleichermaßen heranzugehen, aber das kann wohl auch niemand so richtig von sich behaupten. Harry ist vielleicht dadurch das er nichts über die Welt weiß fairer als so manch anderer. Und doch müssen wir heute die Beweise ein wenig in die richtige Richtung lenken damit wir aus Titus das notwendige Wissen für unsere weitere Ermittlung heraus kriegen. Wir fangen also damit an unsere verdächtige Zielperson ein wenig in Zweifel zurücken, Lücken auf zu machen und die vorhandenen Fakten als Keil zu nutzen um zu spalten und Misstrauen zu sehen. Wahrscheinlich kann man auch genau das vorwerfen, die BMR geht umher und sät Zweifel an der Integrität der eigenen Gesellschaft. Eigentlich sollte das auch als positiver Dienst wahrgenommen werden aber manchmal ist es nicht so einfach die Botschaft vom Überbringer der Nachricht zu unterscheiden. Wie wir es aber auch anstellen, am Ende knacken wir die Person die vor uns steht, einfach weil wir wohl ein Talent dafür haben. Und weil die Skillchecks das so wollten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 08.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #134
+
+* Titel: `Disco Elysium - #134 - der menschliche Dosenöffner [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend sind wir ein Dosenöffner, sogar so gut darin das man Angst davor hat. Generell und überhaupt ist es doch schön das zumindest eine Person weiß wer wir eigentlich sind und was wir vor haben. Den wir wissen das nicht. Wie dem aber auch sei, leider macht unser unfassbar guter Ruf unseren Job hier ein wenig schwerer als er sonst hätte sein können. Wäre es nicht schön wenn uns einfach niemand kennen würde und wir einfach nur unser Ding durchziehen könnte, völlig frei von den Vorurteilen eines voran galoppierenden Rufes? Oder, wenn wir schon verrucht und verrufen sind, zumindest etwas Positives davon kommen würde, Geld wäre für den Anfang schon einmal ganz gut würde ich behaupten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 08.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #135
+
+* Titel: `Disco Elysium - #135 - Sägemehl unter der Diele [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn die Bullen morgen früh um 5 bei mir vor der Tür stehen würde um die Bude zu durchsuchen würden sie wahrscheinlich alles finden was ich so da habe, mir fällt zwar spontan nichts ein was strafrechtlich relevant wäre aber irgendetwas ließe sich bestimmt konstruieren und wenn nicht könnte man auch etwas platzieren. Neben dreisten Unterstellungen habe ich die mundane Beobachtung zu bieten das sich in einer modernen Wohnung mit Betonwänden nur wenig verstecken lässt. Allerdings gibt es hier und dort eine Trockenbauwand. Mit genügend Wille könnte man wohl hinter dieser den ein oder anderen Schatz verstecken. Oder man macht sich die Dielen zu nutzen. Ansonsten bin ich mir ziemlich sicher das die meisten üblichen Verstecke den Beamten bereits bekannt sind, ein wenig Erfahrung werden die ja wohl mitbringen, möchte man meinen. Und doch, so ein kleines Versteck das sich hinter einem Gegenstand befindet der eigentlich fest sein sollte bringt bestimmt gute Erfolge. Ich habe zum Beispiel beim Einzug ein Dokument zwischen Einbauküche und Wand fallen lassen, das ist jetzt ziemlich dolle Weg. Ich glaube es war nur ein Pflegehinweis für den Boden und mit genügend Mühe bekommt man es bestimmt wieder, und doch ist es sehr gut versteckt, ob die Beamten das finden würden? Harry würde es auf jeden Fall auftreiben können, Harry kann so etwas.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 15.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #136
+
+* Titel: `Disco Elysium - #136 - windumtoste Teleportation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Art und Weise wie sich das Grau auf die Realität auswirkt und wie die Gedanken und Erinnerungen der Lebenden und auch Toten sich scheinbar auf das auswirken was ist und was sein wird lässt mich irgendwie glauben das es eine gewisse Menge an Magie in der Welt von Disco Elysium gibt. Vielleicht ist es auch nicht unbedingt magische Magie sondern irgendetwas das ein wenig näher an der Wissenschaft dran ist und vielleicht könnte man es sogar irgendwie mit Messgeräten messen aber für den Moment haben wir nicht viel mehr Erklärungen als Bauchgefühl. Und das ist ziemlich okay, unser Bauchgefühl bzw. Rückenschaudern hat uns schon oft weitergeführt, uns Dinge über die Welt gesagt und uns zu Orten geführt von denen wir eigentlich gar nicht wussten. Die Stimme der Stadt ist stark in uns und das machen wir uns auch zu Nutzen. Aber es ist ja nicht nur der Wind der uns die Hinweise einflüstert, es ist auch unser Inneres das Mittel und Wege findet quasi Unmögliches zu schaffen, so teleportieren wir uns heute mit purer Willenskraft. Herrlich!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 15.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #137
+
+* Titel: `Disco Elysium - #137 - Graudistanz-Kompressor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe am Anfang die Erklärung mit den Insulindien die sich im Grau verstecken ein wenig falsch verstanden. Ich dachte das man schon immer davon wusste das es verschiedene Inseln im Grau gibt und das man sie mit entsprechenden Mitteln erreiche konnte und das dieser Brocken im Nichts halt nur besonders weit weg ist. Das war ein wenig falsch, anscheinend muss man nicht zwingend fliegen, man könnte auch über die südliche Motorstraße fahren oder man nimmt ein Boot, irgendwie ist das grau stoffliche genug das man es durchsegeln kann, aber wie das so richtig funktioniert vermag ich nicht zu sagen. Und die Existenz der anderen Inseln ist auch erst seit relativ kurzer Zeit bekannt, aber nur diese Insulinde ist scheinbar unbewohnt. Was irgendwie dafür spricht  das sie eher neu ist, quasi einfach so aus dem Nichts erschaffen, siehe auch den 2mm Punkt im Raum. Und es gibt scheinbar eine Möglichkeit durch das Grau hinweg zu kommunizieren, offensichtlich auch, schließlich haben wir auch unsere Ex-Freundin angerufen und das hätte wohl kaum funktioniert wenn wir nicht dadurch sprechen könnten. Und interessanter noch, man kann nicht nur kurz durch das Grau segeln, anscheinend ist es auch möglich eine Funkstation im Grau zu parken und die funktioniert dann auch irgendwie. Für größere Strecken, etwas das auch im Grau immer noch zu sein scheint, braucht man wohl mehre Relais-Stationen. Das alles ist furchtbar interessant und absolut bedeutungslos für den Moment. Stellt sich heraus das im direkten Graudistanz-Kompressionsstrahl zu stehen nicht gesund ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 15.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #138
+
+* Titel: `Disco Elysium - #138 - Dosenöffner Harry [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hatten schon einmal eine Episode, erst vor Kurzem die das Wort Dosenöffner im Titel hatte. Damals wussten wir noch nicht so recht was mit der Begrifflichkeit gemeint war, aber jetzt ist alles ein wenig klarer weil wir netterweise aufgeklärt wurden. Wir haben eine Person namens Ruby getroffen, wir erinnern uns, das achte Hardie-Girl das wir bisher immer vermisst haben, die mit dem einen etwas mehr abgelaufenen Schuh. Die Gute ist leider ziemlich fähig wenn es darum geht irgendwelche Geräte aufzubauen und wir müssen ihr leider einige Fragen stellen während wir unter den Früchten ihrer Forschungsdranges leiden. Ärgerlich aber nicht abzuändern, würden wir das Gerät zu früh zerstören gibt es nervige Konsequenzen die meine Rhetorikfähigkeiten und ich nicht bereit sind zu tragen. Öffnen wir also ein paar Dosen während wir die neuste Morgenmagazin Sendung über Funk hören, ich kann mir quasi Nichts Besseres vorstellen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 15.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

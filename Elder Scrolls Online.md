@@ -7602,6 +7602,152 @@
   Aufnahme vom 17.08.2022 - #1716 - ##69 - S10
   ```
 
+##### #1717
+
+* Titel: `Let's Play ESO #1717 ##70 - Flossenohrige [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 70 des High-Isle DLCs - Sitzung 10
+  
+  Anscheinend sind Meereselfen nicht besonders beliebt bei den restlichen Völkern Tamriels, das könnte eventuell an eher latenten Angewohnheit liegen andauernd Sommersend aber auch die restlichen Inseln zu invasiveren. Der Sklavenhandel könnte auch etwas damit zu tun haben, auch wenn noch ein wenig fraglich ist an wen genau sie eigentlich ihre errungene Arbeitskraft verkaufen. Nachdem ich ein wenig nachgeschaut habe was eigentlich der genaue Hintergrund bei den Maormern ist fragt man sich aber schon ein wenig warum es eigentlich keine Fahnenflüchtigen gibt, wahrscheinlich weil die restliche Gesellschaft nicht besonders inklusiv gegenüber Völkern ist die anders aussehen als alle anderen. Heute verbringen wir viel Zeit mit Trivia, das tue ich manchmal.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 19.08.2022 - #1717 - ##70 - S10
+  ```
+
+##### #1718
+
+* Titel: `Let's Play ESO #1718 ##71 - die verschwundene Vagabund [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 71 des High-Isle DLCs - Sitzung 10
+  
+  Schiffe sind kein Schlüssel den man aus Versehen auf der Veranda liegen lassen kann, eigentlich haben Schlüssel und Schiffe bis auf ein paar Buchstaben überhaupt keine Gemeinsamkeiten, und doch wurde hier und heute ein Schiff verloren. Das stimmt so nicht ganz, eigentlich war es bereits vor drei Episoden, ich habe es nur geschafft mich elendig lange mit unnötigen Informationen, Laufarbeit und anderen Dingen aufzuhalten so das das Schiff noch nicht gerettet/geborgen obwohl das schon lange unser Plan gewesen wäre. Übrigens sind die Gewässer von Amenos eigentlich kaum passierbar und es ist enorm schwer mit einem Boot an die Küste zu kommen ohne zu zerschellen, einzig die Route zum Außenposten ist halbwegs passierbar. Und aus diesem Grund finden wir andauernd irgendwelche Schiff an der Küste von Amenos. Weil es quasi unmöglich ist, wenn man kein Meisterkapitän und Navigator ist, in einem Stück an den Stränden der Insel zu landen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 19.08.2022 - #1718 - ##71 - S10
+  ```
+
+##### #1720
+
+* Titel: `Let's Play ESO #1720 ##73 - Magus Spuren [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 73 des High-Isle DLCs - Sitzung 10
+  
+  Wir sind dem großen aufstrebenden Magus auf der Spur. Er wäre eventuell gar nicht so groß und aufstrebend wenn er wirklich etwas drauf hätte. Wir wissen bis jetzt von ihm das er die Magie der Vulkane nutzt um seine eigene Magie entsprechend zu verstärken. Soweit wir das sehen können ist diese Art der Magie nicht ganz kostenlos und es gibt durchaus einen Preis für sein handeln das sich in einer Umweltkatastrophe ausdrücken könnte. Gelernt hat er die Fähigkeit wahrscheinlich von einen der Druiden Zirkel auch wenn bisher fraglich ist wie er es geschafft hat diese Zirkel davon zu überzeugen mit ihm zu reden. Aber das spielt für den Moment keine Rolle, wir wollen den Mann, idealerweise sogar lebend, schließlich gibt es da ein paar Pläne die wir verhindern wollen, und das tun wir am Besten wenn wir ihn zum Reden bringen, also folgen wir ein paar Spuren die vielversprechend ausschauen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 24.08.2022 - #1720 - ##73 - S10
+  ```
+
+##### #1721
+
+* Titel: `Let's Play ESO #1721 ##74 - Nebelschlundhöhle [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 74 des High-Isle DLCs - Sitzung 11
+  
+  Ich bin ein wenig im Verzug geraten mit dem Schreiben dieser Beschreibungen. Wenn du das hier also liest kann es durchaus sein das meine Erinnerung nicht mehr ganz so frisch ist und ich daher Dinge beschreibe die so gar nicht passiert sind. Und dieser Text ist ein großer Teil des Inhalts. Sehr meta. Das Problem ist nämlich das ich mich überhaupt nicht erinnern kann was wir in dieser Höhle überhaupt getan haben. Unsere Spure hat irgendwie in die Nebelschlundhöhle geführt aber was dort passiert ist kann ich gar nicht sagen. Anscheinend haben wir nur irgendwelche Rekrutierungsunterlagen gefunden, das ist aber nicht sonderlich spannend und wir wären wohl auch gut ohne diesen Abstecher ausgekommen, ganz davon abgesehen das das alles schon hätte lange beendet sein können wenn wir den emporstrebenden Magus beim ersten Mal einfach eine daedrische Scherbe an den Kopf gehauen hätten, besonders mächtig im direkten Kampf scheint er ja nicht zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 24.08.2022 - #1721 - ##74 - S11
+  ```
+
+##### #1722
+
+* Titel: `Let's Play ESO #1722 ##75 - einen Magus fangen [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 75 des High-Isle DLCs - Sitzung 11
+  
+  Falsche Werbeversprechen! Wir fangen den großen emporstrebenden Magus heute nicht. Das liegt schon daran das der Plot ihn weiterhin braucht, aber so ist das nun Mal wenn die Dinge Plotarmor haben. Stellen wir uns doch einfach mal vor das das hier eine DnD Kampagne wäre und der Gamemaster nach einiger Zeit bereit ist unseren Argumenten klein beizugeben und wir den Magus einfach mit ein wenig normaler Magie aus den latschen hauen. Weil, besonders viel periphere Sicht hat der doch in dem Helm nicht oder? Wenn wir da ein wenig anwinkeln hat er so eine Scherbe schneller im Kopf als es ihm klar ist. Offensichtlich sind wir ziemlich gut in dieser Art von Magie, wahrscheinlich hat niemand auf ganz Tamriel soviel Praxis wie wir darin. Aber dann wäre die Geschichte ziemlich schnell vorbei oder? Weil ohne Magus hat der emporstrebende Fürst recht wenig in der Hand. Meisterhafte Verschwörungen sind offensichtlich nicht so seins, bei allem was er tat verließ er sich eigentlich auf die rohe Kraft die der Magus mit brachte. Irgendwie stört es mich wenn andere Leute die nicht ich sind Plotarmor haben, was soll das denn bitte auch?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 24.08.2022 - #1722 - ##75 - S11
+  ```
+
+##### #1723
+
+* Titel: `Let's Play ESO #1723 ##76 - die Silberschwan [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 76 des High-Isle DLCs - Sitzung 11
+  
+  Die große Familie Dufort beherrscht Hochinsel und außerdem noch das profitable Geschäft des Flottenbaus. Was mich hier ein wenig irritiert das uns ernsthaft glauben gemacht werden soll das das Verschwinden von mehren Schiffen nicht auffällt. Mittlerweile kenne wir ja die Pläne des großen Magus (was macht eigentlich der Fürst den ganzen Tag, von dem hören wir schon wieder Nichts), und die bestehen darin ziemlich stumpf ein gut befestigtes Fort auf einer Insel anzugreifen. Wenn die Dinge also nicht ganz so glatt laufen, völlig unabhängig von unserem Einmischen, sind danach ein Großteil seiner Truppen tot und die Herrscher der Welt eventuell auch, vielleicht, wenn sie nicht wieder einfach entkommen, so wehrhaft sie sind. Schlimm ist aber das Schiffe für einzelne Personen in einer Welt der Magie überhaupt so einen hohen Stellenwert haben. Ich kann ja verstehen das das Verschiffen von Waren mittels magischer Türen eher teuer ist und nicht besonders lukrativ oder das bestimmte Güter einfach konventionell durch die Welt gehen müssen. Aber warum genau muss man bitte seine Truppen mit Schiffen transportieren, und insbesondere, warum braucht der Magus ein Schiff? Auf jeden Fall begeben wir uns heute zum Flagschiff der Herzogin Dufort, ich hätte im Vorfeld ja durchaus Wetten angenommen das sie der aufstrebende Fürst ist. Es wäre ja nicht das erste Mal das eine Vollrüstung das wahre Geschlecht verbirgt. Aber dafür ist es jetzt zu spät, heute sehen wir was davon ausgezahlt wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 29.08.2022 - #1723 - ##76 - S11
+  ```
+
+##### #1724
+
+* Titel: `Let's Play ESO #1724 ##77 - der umständlichste Plan [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 77 des High-Isle DLCs - Sitzung 11
+  
+  Sie haben es mal wieder geschafft. Ich Rante. Und zwar laut, in einer Art und Weise die ich selber widerlich finde. Immer und immer wieder sage ich mir das ich irgendetwas übersehen muss. Es kann nicht anders sein oder? Es gibt irgendeine kleine Information die mir nicht mitgeteilt wurde die ich leider verpasst habe oder? Also, wie ich es aufgenommen habe: Die drei Herrscher bzw. Vertreter sind jetzt auf der Insel aller Flaggen. Außer des örtlichen Fort und einer Gedenkstätte gibt es dort nicht viel. Valessea hat die Schutzzauber um die drei Würdenträger verstärkt und wiederhergestellt. Aus irgendeinen Grund möchte der aufstrebende Magus die Insel mit einer Flotte angreifen. Einer Flotte die er vorher irgendwo außerhalb der Sichtweite von Hochinsel gelagert hat. Diese Flotte hat er irgendwie requiriert ohne das es jemand bemerkt hat und niemand Meldung verlauten ließ. Auch hat die Abwesenheit dieser Menge an Schiffen keine Probleme woanders herbeigeführt. Die Insel aller Flaggen ist kein einsames Eiland sondern eine kleine Landmasse im Inneren von Hochinsel. Es steht zu vermuten das man an den Seiten der Zugänge große Ballisten oder Ähnliches aufgestellt hat um den Seeweg unmöglich zu machen für feindliche Truppen. Schiffe sind nicht für ihre Geschwindigkeit bekannt, insbesondere im Landinneren müssten Hochseeschiffe wahrscheinlich gezogen werden weil die Fahrrinnentiefe nicht ausreichend ist. Königin Ayrenn hat sich auf Amenos hin und her teleportiert und kommentiert das es innerhalb von Amenos möglich ist. Eine ähnliche Beschränkung für Hochinsel ist nicht bekannt. Relativ oft war es ein Plotgegenstand das Teleportation teuer ist aber zumindest in einer Instanz wurde es genutzt um Elitetruppen hinter feindlichen Linien abzusetzen. Translokation ist als Magie nicht unendlich schwer, nichts für den Novizen aber jeder halbwegs fähiger Magier kann das halt. Der Spielercharakter nutzt eine andere Art des Schnellreisens (wir lösen unsere Seele von Mundus und reisen über Leylines, quasi). Der Magus kann sich teleportieren wie er mehrfach bewiesen hat. Wir auch. Ayrenn kann definitiv Leute mitnehmen. Hochelfen sind sehr magiebegabt und haben viele fähige Kampfmagier. WARUM ZUR HÖLLE BRAUCHEN WIR ALSO EIN SCHIFF? WARUM ZUR HÖLLE BRAUCHT DER MAGUS EIN SCHIFF?! WARUM KÖNNEN WIR UNS NICHT EINFACH DIREKT IN DIE FESTE TELEPORTIEREN? Und warum wären die Würdenträger überhaupt nur eine Sekunde in Gefahr? In dem Moment in dem eine feindliche Flotte am Horizont auftaucht können sie doch einfach abhauen. Warum überhaupt den Kampf suchen? Welchen Sinn hat das alles? Es ist so verflucht unwahrscheinlich das man mit mehren Hochseeschiffen überhaupt unentdeckt bleibt. Gibt es hier eine größere Verschwörung, ist der Orden der Emporstrebenden wirklich alle? Wenn ja, warum sagt uns das keiner? Und warum zur Hölle war es so wichtig den Magus vorm Auslaufen abzuhalten wenn wir jetzt mehre Tage Zeit haben ein Schiff in Buxtehude Süd abzuholen, mühsam zu überführen um dann in drei Tagen zu sein wenn wir in 10 Minuten vor Ort sein könnten. NICHTS ERGIBT SINN. Würde ich nicht an meinen Haaren hängen hätte ich jetzt eine Glatze. Wirklich, mich macht das fertig, wie kann die Story so kacke sein. Kann sie doch nicht, es muss doch irgendwo ein Buch geben das das alles gut weg erklärt. Irgendwo!
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 29.08.2022 - #1724 - ##77 - S11
+  ```
+
+##### #1725
+
+* Titel: `Let's Play ESO #1725 ##78 - Nerïdensang [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 78 des High-Isle DLCs - Sitzung 11
+  
+  Okay, es ist soweit, wir tun es. Wir gehen heute daher, reisen einmal zu einer weit abgelegenen Bucht nachdem wir kurz in Gonfalon waren um ein Schiff zu klauen. Wir stehlen es übrigens nicht so wirklich, offensichtlich handeln wir im Auftrag der höchsten Gewalt in der weltlichen Welt die es so gibt. Es handelt sich um das Schiff das ursprünglich der Verwalter nehmen sollte. Aber anstatt das wir schnell ein paar Flaggen fälschen und irgendein Schiff schnappen klauen wir ein sehr spezifisches Schiff um damit "unerkannt" in die Bucht zu segeln. Wie vorher die Truppen des Magus das Gleiche taten ist nicht weiter beleuchtet. Aber es geht ja noch weiter, wir tun all das damit der aufstrebende Magus nicht weiß das wir kommen. Natürlich ist ihm vollkommen klar das wir kommen, aber dafür musste er ja selber mit Boot fahren. Wären wir also einfach sofort los geritten anstatt auf die Flut zu warten wären wir schon lange auf der Insel aller Flaggen und wieder weg bevor unser guter Herzog irgendetwas hätte tun können.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 29.08.2022 - #1725 - ##78 - S11
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

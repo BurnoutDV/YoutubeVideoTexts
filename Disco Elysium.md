@@ -2087,6 +2087,111 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #139
+
+* Titel: `Disco Elysium - #139 - Aufrührer Tagebuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fremde Unterlagen zu lesen kann außerordentlich interessant sein. Allerdings glaube ich das nicht besonderes viele Leute ihr Leben in einer Art und Weise schriftlich verfassen so das es einen Sinn ergibt. Menschen neigen dazu irgendwelche Notizen zu machen aber fein säuberlich aufgeschriebenes Wissen und Geschichte in chronologischer Reihenfolge wird man wohl eher selten finden. Früher(tm) gab es scheinbar eine gewisse Tradition Tagebuch und damit auch Protokoll über das Leben zu führen. Ob dieses Protokoll in den meisten Fällen noch irgendwelchen Wert besitzen kann. Natürlich hat man auch eine Menge privates Zeug dabei, Gefühle, kleine Ereignisse, aber was will man davon schon noch wissen. Geübte Historiker können aber bestimmt ein wenig rekonstruieren. Und dann hat man aber noch Leute die uns genau das geben was wir schon immer wissen wollten, fein säuberlich zusammen getragene Beweise die man quasi so wie sie sind direkt übernehmen kann. Das ist dann schon ganz praktisch. Heute lesen wir das Tagebuch einer Aufrührerin, das ist außerordentlich wichtig. So weit wir wissen wurde es nicht verfälscht und bietet uns damit einen zweiten Blickwinkel auf die Ereignisse, quasi unbezahlbar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 15.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #140
+
+* Titel: `Disco Elysium - #140 - Volta do Mar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir fliegen über das Meer in Gedanken wenn wir schlafen. Ich persönlich war nie jemand der besonders oft an das Meer gedacht hat oder davon geträumt hat auf einem Schiff zu segeln. Das liegt aber wohl auch daran das jedes Mal wenn ich auf einem Gewässer war vor allen Dingen Motorenlärm zu hören war. Ich würde behaupten das es auch auf einem größeren Segelschiff relativ laut zu geht aber das diese Lautstärke etwas Anderes als das Dröhnen der Motoren und Antriebswelle ist. Motorengeräusche sind bis auf wenige Ausnahmen ziemlich nervig und so ziemlich das Gegenteil von romantisch. Daher also keine besonderen Gefühlen für die Wellen und das Meer, und doch, irgendwie verspricht ein Strand und damit der Blick auf die Wogen auch ein Abenteuer. Es ist wohl weniger spannend wenn man mehr oder weniger weiß was auf einen wartet. Anders sieht es mit dem Grau aus, nur das es hier den leichten Preis des eigenen Selbst gibt das man eventuell verlieren kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 15.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #141
+
+* Titel: `Disco Elysium - #141 - Söldnertribunal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Anfang dieser Episode werde ich noch gewarnt das es eventuell schwer sein könnte das was jetzt kommt noch eine eine einzige Episode zu legen, und es wird sich herausstellen das das absolut wahr ist, wir fahren ein wenig in die Überlänge, gar kein Problem, ein wenig längeres Geplänkel aber alles in Allem geht das schon. Was nicht so gut geht sind die Ereignisse die heute passieren. Disco Elysium erreicht langsam aber sich einen wichtigen Punkt in seiner Geschichten, einen Punkt ab dem es kein Zurück mehr gibt. Ein Punkt der dazu führt das Menschen sterben, Menschen mit denen wir dann nicht mehr reden können und die dann einfach nicht mehr sind. Und das Schlimmste ist, je nachdem wie wir uns entschieden haben und hätten hätten die Dinge anders laufen können. Jeder der am Ende tot ist geht irgendwie auf uns zurück.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 15.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #143
+
+* Titel: `Disco Elysium - #142 - Lesestunde in der Vergangenheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder zurück in der Realität in der alle Leute noch Leben, und das tun sie auch bis wir uns dafür entscheiden einzuschreiten. Das ist auch immer so eine Sache, wenn der Lieblingsbuchcharakter stirbt kann man immer zurückblättern und sie lebt wieder, aber halt nur bis wir wieder diesen Punkt in der Geschichte erleben. Ein Argument dafür Bücher und Filme nur ein einziges Mal zu lesen bzw. schauen, damit alles im Fluss bleibt, in dem Moment in dem wir in die Vergangenheit gehen oder hin und her Zeitreisen wird alles irgendwie komisch und die Geschichte wirkt weniger real. Und aus diesem Grund mag ich keine Zeitreisegeschichte, irgendwie gibt es immer das Element das alles unlogisch und kaputt macht. Stellen wir uns das heute eher wie eine alternative Realität vor in der Harry einen halben Meter vor dem Tribunal gemerkt hat das er eigentlich noch dringend etwas über Dolores Dei lernen möchte und daher noch eine kleine Lesestunde eingelegt hat. Und vielleicht auch um ein paar Gedanken zu Ende zu denken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 22.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #143
+
+* Titel: `Disco Elysium - #143 - alternative Schießerei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, oder wir sind immer noch? Es ist alles schwierig, wichtig ist aber das es sich nicht um eine Zeitreise handelt, wir sind nicht zurückgegangen um die Dinge besser hinzustellen, wir sind in einer anderen Realität, in einer Realität des Lesens. Aber auch hier ist die Schießerei am Ende eine unaufschiebbare Sache, es wird immer dazu kommen, egal wie wir es Drehen oder Wenden. Und deswegen sind wir jetzt wieder hier, beim Söldnertribunal. Nur diesmal wissen wir ja bereits was kommen wird und was wir tun können. Und vielleicht sind uns die Würfel ein wenig mehr hold weil wir die richtige Kleidung tragen. Sei es wie es sei, wir gehen also rein in den festen Wissen das Leute sterben werden, aber vielleicht haben wir eine Change, vielleicht haben wir die Möglichkeit mit ein wenig Initiative alles richtig zu machen und die Verluste auf ein Minimum zu beschränken. Aber wenn das alles passiert ist, dann werden wir zurück gehen, zurück in unsere langweilige Realität in der so viele Menschen gestorben sind, aber das ist für Später, jetzt wird es erst einmal Zeit eine Menge Dialoge durch zu klicken und zu hoffen das ich Nichts Falsches auswähle.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 22.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #144
+
+* Titel: `Disco Elysium - #144 - der Morgen danach [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dieses Mal ist es absolut, wir sind wieder da wo wir angefangen haben, in der Realität in der Harry nicht auf einmal die tolle Idee hatte noch schnell ein paar Bücher über Dolores Dei zu lesen, stattdessen sind wir direkt in die Aktion und haben unser Bestes gegeben. Offensichtlich war unser Bestes nicht gut genug und Menschen starben, ich habe sogar schon wieder vergessen wir eigentlich sein und ihr Leben gelassen hat, aber es waren wohl ein wenig mehr Leute als in der anderen Realität. Und jetzt gehen wir damit um, jetzt denken wir darüber nach und lassen unsere Gedanken nicht von unserem Fall abbringen. Trotz allem, dem Lynchmord der gar keiner war, das Söldnertribunal und all die Dinge, trotz dieser kleinen Hindernisse sind wir immer noch dran um den wahren Mörder zu finden. Auch gut wäre übrigens ein Motiv, das wäre verdammt nützlich um ein wenig Licht ins Dunkel zu bringen. An dieser Stelle bin ich mir aber auch nicht einmal so richtig sicher wer das wahre Ziel war, war es wirklich Leyly? War er nur ein Mittel um einen Krieg anzufangen? Galt der Schuss eigentlich Klassje aber es war nicht möglich eine zweite Kugel abzufeuern. Hat jemand vorhergesehen das es zu der der Katastrophe kommen wird zu der es gekommen ist? Oder war es doch etwas Persönliches? Warum sollte unser Mörder immer noch in der Nähe sein? War es Garte?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 22.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #145
+
+* Titel: `Disco Elysium - #145 - Blutspuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spuren von dem was vor zwei Tagen geschehen ist sind wirklich überall, offensichtlich war das Tribunal ein großes Ereignis. Ich bin persönlich etwas erstaunt über dem was passiert ist. Wir haben zwischenzeitlich gelernt das automatische Waffen nach dem Krieg bzw. der Revolution verboten wurden, warum genau also war das Blutbad so groß? Klar, es waren drei Söldner in einer Art Rüstung die von normalen Waffen eher wenig durchdrungen werden kann, aber zwei Söldner waren bereits am Boden als wir fielen, wer genau hat noch geschossen? Wo kamen all die Kugeln her? Soweit ich das verstanden habe haben alle Leute, inklusive der Söldner Vorderladergewehre die eher umständlich nach zu laden sind. Eine Kugel die Elizabeth galt hat Glen entschärft, gehen wir davon aus das die kleinen Waffen doppelläufig sind. Die große Kniffte haben wir vermieden und die Kugel ging irgendwo hin, die Frau wollte auf Kim schießen wurde aber vorher erschossen. Bleibt nur noch Korty, wie viele Kugeln genau hatte er in seiner Waffe? Eine traf uns, als vielleicht noch eine zweite und dritte wenn wir großzügig sind. Wie genau konnte Angus in einem Kugelhagel sterben? Wer hat bitte geschossen? Irgendwie passen die Ereignisse hier überhaupt nicht, nach all der sorgfältigen Planung und hinarbeiten auf diesem Moment gehen diese Sachen alle nicht auf? Das ist doch seltsam oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 22.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

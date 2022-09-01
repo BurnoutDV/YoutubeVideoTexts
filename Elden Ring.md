@@ -1034,6 +1034,216 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #69
+
+* Titel: `Elden Ring - #69 - Treppen der Hauptstadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es geht wirklich erstaunlich schnell vor ran. Ich frage mich ja jetzt schon ob ich den ganzen Ritt durch Caelid aus Versehen verpasst habe weil ich mit meinem alternativen Weg auf das Altus Plateau das Finden und Suchen nach einem Siegel völlig vermieden habe. Und eines davon sollte wohl in der blutigen Wüste von Caelid sein, vielleicht sollte ich mir das verfluchte Gebiet noch einmal anschauen und einmal sehen wie gut die örtlichen Gegner jetzt für mich zu töten sind. Das würde aber leider auch bedeuten das ich wieder durch Caelid laufen müsste. Stattdessen reiten wir heute einfach die Treppe hoch, das hat auch einen gewissen Gewinnfaktor, weil es stellt sich glatt heraus das es in der Nähe des großen Eldenbaumes eine Menge Samen gibt die wir in unsere Flasche kippen können, das macht natürlich unser Leben wesentlich einfacher. Wir hätten früher her kommen sollen, aber den Wurm hätten wir wohl nicht früher geschafft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 13, Aufnahme vom 16.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #70
+
+* Titel: `Elden Ring - #70 - Echos der Vergangenheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in der Hauptstadt, also eigentlich noch nicht wirklich, wie es sich für eine gute Stadt gehört gibt es eine Ober und Unterstadt. Alte Gothic-Veteranen wissen bereits das es nicht so einfach in die Oberstadt zu kommen. Daher schauen wir uns zu erst die nähere Umgebung an die wir betreten können ohne das wir in der Bank des Gouverneurs mehre tausend Goldstücke ablegen müssen. Und wir finden natürlich auch alte Bekannte, das ist auch völlig logisch, schließlich sammeln sich die Leute in den großen Städten weil es dort die meisten Möglichkeiten gibt. Die Gebäude wirken übrigens sehr mächtig aber auch ziemlich leer, von der Bevölkerung die hier eigentlich überall herumlaufen müssten sehe ich keine einzige Person. Mögliche Erklärung könnten die riesen großen Bolzen sein die hier überall im Boden stecken, wieder ein Ort mit den Spuren einer Belagerung die nie wieder geflickt wurden, diese Welt wirkt wirklich sehr statisch, eingefroren in der Zeit. Aber wie das alles funktioniert, keine Ahnung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 13, Aufnahme vom 16.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #71
+
+* Titel: `Elden Ring - #71 - Grab des heiligen Helden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einer Welt wie der von Elden Ring weiß ich nicht so wirklich was einen heiligen Helden wirklich aus macht. Ich denke mal das das auch nicht so richtig definiert ist und die Leute einfach irgendwelche Dinge sagen. Es könnte auch sein das unser Spielcharakter einfach nicht so gut darin ist die Ortschilder zu lesen und etwas völlig anderes vorne dran stand. Richtig wissen werden wir es wohl nie, aber sicher ist das wir im Inneren eher keine Helden finden, stattdessen gibt es hier aber unbesiegbare Gegner für die wir ein ganz neues Gimmick brauchen um sie zu erschlagen. Immer wieder schön wenn die gleichen Abklatschdungeons doch noch ein innovatives Feature haben. Ich kriege dadurch übrigens ein wenig Angst vor dem Ort an dem alle Sache gleichzeitig getestet werden, lustige Glockengegner mit fiesen Fernkampf angriff die man nicht treffen kann bevor man sie nichts ins Licht gelockt hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 13, Aufnahme vom 16.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #72
+
+* Titel: `Elden Ring - #72 - Karawanenüberfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Postkutschenraub ist eine außerordentlich lukrative Geschichte, eine einsame Kutsche mit Schätzen, Nachrichten und anderen interessanten Dingen die man sich einfach so irgendwo im Nirgendwo greifen kann. Aus dem gleichen Grund haben die meisten Staaten auch ein echtes Problem damit wenn man anfängt ihre Kutschen zu überfallen, oder Boote, oder Züge. Eigentlich gibt es da echt viel Möglichkeiten. In dieser anscheinend eingefrorenen Welt von Elden Ring und all diesen komischen Bäumen scheint es keine echte Zivilisation mehr zu geben, keinen echten Grund mehr Nachrichten durch die Welt zu schicken und erst recht keine Waren. Und doch, finden wir große unpraktische Kutschen, gezogen von Riesen und hinten ist eine kleine Truhe mit Schätzen. Man hat sogar daran gedacht eine Wache aufzustellen, aber sind wir einmal ehrlich, mit genügend Beute in Aussicht hat das noch nie jemanden aufgehalten. Und ich bi nicht irgendjemand, ich überfalle einfach so, auch ohne Beute, einfach nur für das Gefühl.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 13, Aufnahme vom 16.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #73
+
+* Titel: `Elden Ring - #73 - Wurmgesicht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt neben den riesigen und gewaltigen Erdenbaum noch ein paar andere, die sogenannten niederen Erdenbäume, bewacht werden sie von eigentlich immer den gleichen Wächter. Das ist auf Dauer ein wenig langweilig und daher gibt es auch Variation, wir haben schon leicht andere Bäume getroffen, dann gibt es natürlich verschiedene Level und dann sind da auch noch ganze andere Varianten. Zum Beispiel die komischen Wurmgesichter. Ich weiß nicht genau was für Wesen sie eigentlich sind, ich befürchte das sie nie so richtig erklärt werden oder das wir auch nur irgendetwas Geschriebenes finden werden wie sie funktionieren. Allerdings, da wäre noch die Sache mit dem Effekt den sie machen, anscheinend kann man ihn nicht überleben, wie genau existieren die Wesen selber noch? Wie genau hat der Baum bisher überlebt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 13, Aufnahme vom 16.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #74
+
+* Titel: `Elden Ring - #74 - Drachenhügelkäse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe zu, als ich diesen Titel geschrieben habe habe ich nicht an etwas zu Essen gedacht. Stellen wir uns aber für den Moment eine hochkommerzialisierte Fantasywelt vor. Irgendwie haben Wesen wie Drachen und all die anderen Viecher trotz Industrialisierung überlebt und sind in einigen Ecken der Welt noch zu finden, oder es gibt Regionen mitten drin die man eher nicht betreten kann. Hexer helfen da auch nicht. Und jetzt betreiben wir eine nahe Kuhfarm, wäre es nicht logisch das wir unserem Käse einen coolen Namen geben wie"Drachenhügelkäse"? Das ist das Produkt das ich euch heute verkaufen möchte. Drachenhügelkäse schmeckt vollmündig und ein wenig rauchig, alles in Allem ein rundes Geschmackserlebnis, kaufen sie noch heute. Oder aber ich habe einfach nur das Wort Cheese eingedeutscht und wir töten heute einen Drachen auf die feigste Variante die ich mir vorstellen kann. Oder wir erlösen. Ich bin mir ein wenig unsicher wie lange das Vieh schon da lag wo es liegt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 14, Aufnahme vom 23.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #75
+
+* Titel: `Elden Ring - #75 - Caelids Feuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich waren wir schon in der letzten Episode in Caelid aber da hieß das Gebiet noch offiziell "Drachenhügel", diese Ungenauigkeit beseitigen wir heute in dem wir weiter westlich reiten und uns noch einmal intensiv das Gebiet anschauen das wir beim letzten Mal doch so sehr umgangen haben. Ich glaube mittlerweile sind wir weit genug um hier klar zu kommen. Zumindest glaube ich das. Die schlechte Nachricht ist leider das Caelid trotzdem kein Stück hübscher geworden ist und der Ort auch nicht lebensfreundlicher geworden ist. Immerhin tötet uns nicht mehr alles nur wenn es uns anschaut, angenehm ist es aber dennoch nicht. Da würde eigentlich nur ein großer Flammenwerfer helfen um all das was wir in Caelid sehen den Flammen zu übergeben und zu hoffen das aus der Asche etwas wachsen kann das vielleicht besser ist. Eine schwache Hoffnung, aber auch kein Argument für großflächiges Abbrennen von Caelid. Und hier habe ich gute Nachrichten, wir müssen das gar nicht selber machen, die entsprechenden Spezialisten sind bereits vor Ort.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 14, Aufnahme vom 23.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #76
+
+* Titel: `Elden Ring - #76 - Zurück nach Siofra [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erinnern uns dunkel? In Siofra, da waren noch so Dinge. Es regt mich ein wenig auf wie wenig klar das Besuchen von bestimmten Orten in Elden Ringe eigentlich ist. So wie es aussieht könnte man bestimmte Abschnitte einfach komplett verpassen wenn man sich richtig Mühe gibt einmal nicht aufzupassen. Zum Beispiel wenn man nur einmal die Woche spielt und dann nicht mehr weiß was man letzte Woche tun sollte. Da mich aber Chat und Kommentare erinnert haben gehen wir heute noch einmal nach Siofra, da gibt es wohl noch den Wolfsritter Blaidd der noch irgendeine Art Quest für uns hat. Was es damit auf sich hat ist absolut nicht klar und wir machen jetzt einfach mal. Vielleicht kommt ja irgendetwas dabei herum, und wenn nicht, haben wir uns immerhin an den Gegnern gerecht die hier leben und uns sonst immer so genervt haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 14, Aufnahme vom 23.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #77
+
+* Titel: `Elden Ring - #77 - Fahrstuhl ins Glück [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fahrstühle sind Magie! Wenn man nicht weiß wie sie funktionieren oder noch nie in einem war dann schließen sich die Türen in einem unscheinbaren Kasten und dann wenn sie sich wieder öffnen dann ist man plötzlich woanders. Vielleicht gab es vorher ein wenig Geruckel oder seltsame Geräusche, vielleicht sogar ein Gefühl der Schwerelosigkeit oder besonderen Schwere aber das hat doch bestimmt nichts zu bedeuten, oder? Es gibt da natürlich noch die Modelle mit transparenten Wänden, die sind ein wenig weniger magisch, man sieht ja irgendwie was passiert und die Türen sind meistens auch transparent. Und doch, Treppen steigen ist schon ein wenig anstrengender. Heute fahren wir Fahrstuhl, nicht ganz freiwillig weil eigentlich wollte ich ja Siofra erkunden aber ich bin immer da wohin mich das Glück treibt, und wenn das Glück glaubt das es in Caelid schön ist um diese Jahreszeit dann gehen wir da wohl hin. Leider trifft mich hier eine tiefe Erkenntnis, es ist nie schön in Caelid, egal wie das Wetter ist. Außerdem, gibt es überhaupt Jahreszeiten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 14, Aufnahme vom 23.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #78
+
+* Titel: `Elden Ring - #78 - Sellia, Stadt der Siegel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es rächt sich ein wenig das wir so neugierig waren, und mit "wir" meine ich in diesem Fall eindeutig mich. Ich wollte die Welt sehen, erfahren was hinter dem Horizont liegt und natürlich was es noch so alles Schönes gibt. Gefunden habe ich Caelid, Drachen und eine Stadt mit einer sehr langen Brücke. Alles nicht unbedingt die besten aller Tourismus Destinationen aber man kann wohl nicht ganz wählerisch sein. Auf dieser Reise waren wir auch in Sellia, der Stadt der Zauberer, was genau passiert ist vermag ich nicht zu sagen, aber die Stadt ist nicht mehr im besten Zustand und die Bewohner sehen doch schon ein wenig abgebrochen aus. Ansonsten finden wir hier aber alles was wir in Raya Lucaria auch getroffen haben: Marionetten und Magier. Außerdem ziemlich viele Laienmagier die nicht so viel können. Und dann gibt es da noch die Siegel. Zum Glück sind die mit keinen komischen Geistertieren verbunden, stattdessen gibt es Parkour und Feuer zu entzünden. Welchen Sinn diese Siegel wohl jemals hatten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 14, Aufnahme vom 23.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6 
+  ```
+
+##### #79
+
+* Titel: `Elden Ring - #79 - Ahnengeist [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hey, wir sind wieder zurück in Siofra. Zumindest sieht das Vorschaubild so aus, während ich diese Zeilen schreibe werter Leser bin ich mit mit 179 km/h unterwegs und darf mich auf das ICE Internet der deutschen Bahn verlassen. Das Alles spielt aber keine Rolle für das was in dieser Episode geschah. Nach einer kurzen Expedition an der Oberfläche besinne ich mich meiner eigentlichen Werte und gehe wieder nach Schwarzweite, err, ich meine natürlich Siofra. Es gibt hier noch irgendwelche komischen Fackeln und einen Ort auf der anderen Seite der Brücke. Leider sind die Lücken in der Brücke ein wenig sehr groß, das macht das überqueren auch mit Sturmwind zu einem eher schwierigen Unterfangen. Aber das Glück ist mir hold, stellt sich doch glatt heraus das ein magischer Steinschlüssel uns genau dahin bringt wo ich eh hinwollte. Man könnte aber auch wohl von Pech sprechen weil der Gegnertyp den wir dann treffen die eine Art ist die ich partout nicht tot kriege, einfach weil ich kein Talent habe. Das ist ärgerlich, aus Rache für mein Versagen töten wir dann einen Hirsch. Das klingt doch fair oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 14, Aufnahme vom 23.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #80
+
+* Titel: `Elden Ring - #80 - trockenes Siofra [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, ich habe leider keine Möglichkeit gefunden den Fluss von Siofra zum erliegen zu bringen und damit all die nervigen Dinge den Lebensarm abzuklemmen. Das wäre auch zu einfach gewesen, stattdessen wollten wir hier unten eigentlich irgendetwas tun aber kommen halt nicht so recht weiter weil es hier keinen richtigen Gegner mehr gibt. Klar, wir haben den uralten Ahnengeist einen Kopf kürzer gemacht und das war sicherlich eine große Tat und bestimmt sehr gut, aber so richtig Zufrieden macht mich das auch nicht. Der Punkt ist wohl gekommen an dem man sich fragt "wofür eigentlich". Ich weiß es nicht, nur das uns Siofra nicht mehr viel zu bieten, außer viel zu starke Bogenschützen die nerven. Das und Landoktopi.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 14, Aufnahme vom 23.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #81
+
+* Titel: `Elden Ring - #81 - voller Zettel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das ist jetzt ein wenig irregulär. Diese Episode ist nicht nach irgendwelchen Dingen benannt die ich in der Spielwelt gefunden habe sondern nach etwas das Meta ist. In diversen Kommentaren haben Leute angemerkt was ich noch so schön vergessen und übersehen habe, es wird doch mal Zeit das wir diese übersehenden Stellen endlich mal abarbeiten. Und daher reiten wir heute wild durch die Welt während ich eine gar nicht einmal so imaginäre Liste Stück für Stück abstreiche, immer der völligen Erfüllung aller Ziele immer näher. Ich hoffe das stellt den ein oder anderen Zuschauer zufrieden. Mir fällt auch mehr und mehr auf das Elden Ring eigentlich als Youtube Spiel völlig ungeeignet ist, viele Sachen möchte man dem Banausen direkt sagen anstatt zu hoffen das er es so findet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 15, Aufnahme vom 30.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #82
+
+* Titel: `Elden Ring - #82 - Kenneth Haigth [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich damals in Liurnia und danach in Raya Lucaria rum gelaufen war es doch zwischenzeitlich gar nicht einmal so leicht. Fast so als hätte es Teile der Karte gesehen die ich ein wenig übersehen habe und wo ich noch wichtige Erfahrungspunkte hätte einsammeln können. Einer dieser Orte war definitiv die Festung Haigth. Hier lagert übrigens eines der Amulette das wir für den großen Fahrstuhl von Dectus brauchen, wenn man davon absieht das wir eigentlich keine besondere Notwendigkeit für den doofigen Fahrstuhl haben, ein wenig hat sich schon so offenbart. Und ich durfte mir sagen lassen das die große Leiche im Innenhof der Burg wohl die Tiermenschen-Mutter war was dann wohl auch der Grund sein dürfe warum die werten Herrschaften ein wenig schlecht gelaunt waren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 15, Aufnahme vom 30.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

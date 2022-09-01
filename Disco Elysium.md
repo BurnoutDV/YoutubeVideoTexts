@@ -2192,6 +2192,81 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
+##### #146
+
+* Titel: `Disco Elysium - #146 - Melancholie des Danach [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt ist das große Söldnertribunal schon ein wenig her, noch nicht lange, eigentlich nur ein paar Stunden aber das alleine reicht ja bereits um darüber nachzudenken, die Gedanken darum kreisen zu lassen was eigentlich passiert ist. Wer nicht mehr lebt, wer sich nicht mehr mit uns unterhalten kann und wer nie wieder Zeugenaussagen machen kann. All das hätte vielleicht ein wenig anders laufen können hätten wir uns früher anders entschieden. Aber das ist halt nie passiert. Und jetzt geben wir uns ein wenig der Melancholie hin, ich mache das auch ganz gerne, es ist nur wichtig wann man damit aufhört, nicht das man es zu sehr übertreibt, das wäre dann nicht förderlich für unsere Mordermittlung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 22.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #147
+
+* Titel: `Disco Elysium - #147 - Reif dür die Insel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles deutet darauf hin, wir müssen dringend zu einer Insel fahren. Die Insel beherbergt einen alten Flak-Turm aus der Zeit der Revolution als die Kommunisten versuchten die Welt ein wenig besser zu machen. Man kann aus der Zukunft wohl nicht sagen das sie etwas erreicht haben aber vielleicht hätten sie mit ihrer großen Weltrevolution etwas großes erreicht. Wahrscheinlich ist aber wohl das das große Gespenst des Kommunismus für die Menschen keine guten Folgen gehabt hätte. Die grundlegende Idee von Masow sind bestimmt ganz ehrenhaft, aber seien wir ehrlich, Menschen sind nicht für die Ideale gemacht. Aber das liegt alles in der Vergangenheit, genau wie der Mord an einem Söldner den wir aufklären wollen, bisher haben wir ganz gut Fortschritt gemacht aber ganz gelöst ist der Fall noch nicht. Es bleibt also nur noch eines, wir müssen zu dieser mysteriösen Luftabwehrinsel und schauen ob wir noch weitere Hinweise finden, vielleicht ist unser Täter sogar noch nahe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 22.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #148
+
+* Titel: `Disco Elysium - #148 - Dick Mullen und die Verwechslung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist jetzt noch gar nicht so spät, wir könnten einfach die frühen Abendstunden nutzen und schön zur Insel fahren, dort ein paar Hinweise ausgraben, vielleicht sogar noch ein wenig echte Detektivarbeit betreiben und mit den neuen Spuren oder sogar einen dringend Tatverdächtigen zurückkehren. Das oder wir holen eines unser letzten Bücher raus und lesen bis um 21 Uhr um dann richtig schön früh schlafen zu gehen damit wir am nächsten Tag erholt sind um nicht übermüdet oder unkonzentriert auf der Insel anzukommen, das will ja auch keiner, wir wollen schließlich nichts übersehen oder? Also lesen wir und erfahren wie ein echter Detektiv wie Dick Mullen einen Fall angeht, das er dabei für sich selbst recherchiert macht es nicht unbedingt besser.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 22.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #149
+
+* Titel: `Disco Elysium - #149 - Lampentransaktion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt nicht mehr viel was wir tun können. Und das führt dazu das ich umher renne und mir andere Dinge anschaue. Noch weiß ich noch nicht das Disco Elysium noch jede Menge Inhalt für mich zu bieten hat und ich hier nur meine Zeit mit sinnlosen Aktionen verschwende und ich es schon bald bereuen werde das ich eine Lampe gekauft habe. Was ich übrigens immer noch nicht weiß ob es irgendwie möglich gewesen wäre 700 Reaís einfach so zu haben um die Lampe auch ohne Aktienoptionen zu erwerben. Nun, auf jeden Fall tun wir das, wir kaufen eine Lampe und haben dann keine Möglichkeit damit etwas zu tun, ich wusste bereits das es so sein wird, aber irgendwie ist es auch eine schöne Allegorie auf das Leben selbst oder? Man hat all das schöne Geld und was dann nicht mehr was man mit der Ware tun kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #150
+
+* Titel: `Disco Elysium - #150 - Pfandverleih [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Spiel neigt sich dem Ende und ich habe ehrlich gesagt ein wenig Angst das Harry sehr bald an einen Herzinfarkt sterben wird oder von einem seiner Kollegen aus dem Leben genommen wird. Daher hat es wohl nicht mehr besonders viel Sinn noch lange an irgendwelchen Daten zu hängen mit denen wir eh nichts mehr tun können. Sagen will ich damit das wir heute den großen Produktionsplan verkaufen damit wir endlich wieder flüssig sein können. Die gute Nachricht ist aber auch das wir hier überraschenderweise noch zu Geld kommen. Was wir leider nicht tun ist eine FALN-Hose finden. Die fehlt noch ein wenig für unsere vollständiges FALN-Reiter Set. Ob wir dann auf den großen Gaul von König Philip hätten reiten können? Wie dem aber auch sei, es wird also Zeit Dinge zu verpfänden, zu schade eigentlich auch das wir unsere übermäßig teure Lampe nicht einfach verkaufen können. Direkt wieder an Roy.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

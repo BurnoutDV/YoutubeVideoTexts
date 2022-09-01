@@ -247,3 +247,233 @@
   Sitzung 2, Aufnahme vom 11.08.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
+
+##### #17
+
+* Titel: `GreedFall - #17 - alte Eisenmine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Greedfall gibt mir die wunderschöne Möglichkeit Episoden so zu benennen das man sie beim besten Willen auf keinen Fall auf Youtube oder vielleicht sogar Google beim Suchen findet. Die heutige Folge wollte ich zum Beispiel ursprünglich "die Mine von Glendgnámvár" nennen. So heißt die Region, nach den Walknochen die es hier wohl angeschwemmt hat. Wir betreten tatsächlich auch eine Mine und reden sogar mit ein paar Leuten die sich hier aufhalten, aber das alles ist eher so eine Kulisse zu der wir später noch einmal zurückkehren, daher wollte ich die ganze Minengeschichte nicht so aufbauschen. Auffällig ist aber das die Mine nicht von den Siedlern erbaut wurde, die Einrichtung ist Bestand und eventuell sogar schon unter Denkmalschutz. Ansonsten erfahren wir aber leider ziemlich wenig, das ist ein wenig traurig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 3, Aufnahme vom 18.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #18
+
+* Titel: `GreedFall - #18 - die Sísaig Cnaimse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hatten einen so guten Run damit Episoden nach Namen der Eingeborenen zu benennen und dann habe ich die letzte Folge einfach "die alte Eisenmine" genannt. Aber keine Angst, die folgenden Episoden werden noch eine schöne Menge an guten, schwer auszusprechenden Namen beinhalten. Ich weiß immer noch nicht so richtig wo genau die Sprachwurzeln liegen aber ich würde vermuten das es sich um eine Mischung aus irisch, walisisch oder vielleicht sogar keltisch handeln könnte. Das Aussehen der Ureinwohner gibt uns auf jeden Fall relativ wenig Hinweise darauf welcher Kultur man sich hier ein paar Inspirationen hat bedient. (Meistens schreibe ich das hier als "One-Take", ich schreibe drauf los und hoffe dann irgendwie den Satz zu retten, so als würde ich mit Papier und Stift schreiben, daher wirkt der hier ein wenig komisch). Die Sísaig Cnaimse sind übrigens der lokale Stamm, anscheinend die Knochenschnitzer, Insel weit bekannt für ihre Kunst die wohl gerne gehandelt wird. Mir kommen da irgendwie Dishonored Assoziationen auf weil wir hier geschnitzte Walknochen haben die irgendwie auch Magie besitzen. Die Sísaig Cnaimse sind gute Händler und daher ein wenig freundlicher als die anderen Stämme, außerdem haben wir ihnen bereits geholfen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 3, Aufnahme vom 18.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #19
+
+* Titel: `GreedFall - #19 - Nádaig magamen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, Begriffe die nie irgendjemand googlen wird. Immerhin handelt es sich in diesem Falle um den Namen eines Bosses. Nádaig ist anscheinend eine Art von Gegner, eventuell handelt es sich um einen Wächter den es in verschiedenen Variationen geben kann. Das hier ist also die "magamen" Variante, konkret ist das ein Speer werfendes Wurzelbiest das durch die Gegend springt und glücklicherweise unsere uns heilenden Begleiter komplett ignoriert. Wir try harden das Ding natürlich, gibt ja auch absolut kein Grund nicht sofort jeden Boss zu legen den wir sehen, insbesondere wenn man sich die Menge an Heiltränken die wir mit uns herumtragen anschaut, das muss man doch nutzen. Ich habe allerdings den leichten Verdacht das wir eigentlich noch nicht hier sein sollten und eigentlich ein Auftrag für diese Art von Boss erlassen werden sollte. Ich bin da übrigens wirklich gespannt ob das dann tatsächlich jemand befiehlt, und wenn ja, wer? Werden es die Eingeborenen sein die ja irgendwie mit den Wächter in Verbindung stehen und der Auftrag kommt zustande weil irgendetwas nicht stimmt. Oder wird es unser guter Cousin sein weil der Wächter wichtige Geschäftsinteressen im Wege steht? Alternativ könnte es natürlich auch sein das ein Forscher sich eine Leiche wünscht die man untersuchen kann. Noch ist alles möglich, nebenbei spoilert uns der Kodex übrigens ein Stück Handlung, das ist schon witzig, aber an sich wirft das dann auch mehr Fragen auf als es beantwortet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 3, Aufnahme vom 18.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #20
+
+* Titel: `GreedFall - #20 - der Familienname [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Namen sind wichtig. Diesen Text habe ich mittlerweile schon fünfmal geschrieben, zumindest soweit ich mich erinnern kann. Das liegt einfach ein wenig daran das sie es sind. Namen definieren und zumindest die menschliche Psyche braucht Namen und Bezeichnungen für einfach alles. Es muss nicht unbedingt etwas Verbales sein. Aber die Definition des Selbst ist wichtig, wenn es keinen Namen gibt dann etwas Anderes das die eigene Persönlichkeit definiert, aber irgendetwas ist da immer. Irgendwas das definiert wer man ist, das definiert wie man ist und was andere zu erwarten haben. In einem entsprechend großen Kontext können sich auch andere etwas unter einem Namen vorstellen und haben direkt Assoziationen mit einer Bezeichnung oder einen Familiennamen. Daher tun die Nauten gut daran genau das zu nehmen wenn sie eine Gabe des Meeres aufnehmen. Aber auch ein Grund warum man neugierig wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 3, Aufnahme vom 18.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #21
+
+* Titel: `GreedFall - #21 - Dí e kíden nádaigeis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der große Ort der Schlacht. Die kleine Insel auf der wir uns befinden hatte wohl schon immer seine Probleme mit irgendwelchen Leuten die ihre Reichtümer ernten wollten. In diesem Sinne ist die Insel wirklich besonders. Andere Reiche haben eine Menge gar nichts und dann hier und dort vielleicht ein paar Reichtümer aber auf Teer Fradee sieht die ganze Sache anders aus. An jeder Ecke finden sich Reichtümer, Pflanzen die noch niemand kennt und natürlich auch Tiere die auf dem Festland schon lange ausgerottet wurden. Es könnte aber auch genau diese hemmungslose Gier gewesen sein die dazu geführt hat das das Festland nicht mehr so viele Ressouren zu bieten hat die Teer Fradee so anziehend macht. Aber wir wissen das die aktuellen Festländer nicht die ersten waren, die Ruinen die wir heute sehen sind deutliches Zeichen dafür.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 3, Aufnahme vom 18.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #22
+
+* Titel: `GreedFall - #22 - die roten Wälder [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da mache ich heute wieder einmal einen Fehler und laufe durch die Gegend und schaue mir die Landschaft rund um das große Schlachtfeld an. Irgendwie glaube ich immer noch das ich Dinge entdecken könnten. Wahrscheinlich fehlt mir so etwas wie ein brüderlicher Rat oder so der mir sagt das ich anstatt mich erst um zu sehen ich lieber eine Quest finden sollte die mich in die Gegend führt. Der Witz daran ist aber auch das es ja durchaus ein wenig abseits der Pfade Dinge zu entdecken gibt, zum Beispiel die Altare die uns Skillpunkte geben. Die sind ja nicht Teil irgendwelcher Quest sondern liegen noch zusätzlich in der Gegend herum, würde ich hier nicht erkunden würde ich sie nicht finden. Die roten Wälder haben übrigens nichts mit der Gegend by Prypjat zu tun, reiner Zufall und wesentlich weniger Stalker, Mutanten und Anomalien. Zumindest letztere kann ich aber nicht ausschließen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 3, Aufnahme vom 18.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #23
+
+* Titel: `GreedFall - #23 - Dorf Vedrhais [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Eingeborenen haben so etwas wie eine gemeinsame Identität, wahrscheinlich erschaffen durch einen gemeinsamen Feind in der Vergangenheit oder einfach einer lange Koexistenz auf der Insel mit relativ beschränkten Raum. Offensichtlich Feindseligkeiten sind uns nicht bekannt aber es spricht wohl Einiges dafür das die einzelnen Stämme sich nicht immer geliebt haben. Einen weiteren Stamm lernen wir heute kennen. Es handelt sich um die Leute von Siora die quasi so etwas wie unsere neuen besten Freunden werden könnten wenn sie ihre Leute entsprechend unter Kontrolle haben. Leider können wir auf die Stelle nicht nachprüfen was aus ihrer Mutter geworden ist, es gibt da noch diese Geschichte mit Vasco und die hat leider Priorität, daher wird es wohl noch eine kurze Weile dauern bis es wieder richtig weiter geht. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 3, Aufnahme vom 18.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #24
+
+* Titel: `GreedFall - #24 - Champion der Arena [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Nachhinein hätte ich wohl noch ein wenig mit der Arena warten können. Die Sachlage ist die das ich es aber nicht auf mich sitzen lassen kann eine Herausforderung wie die Arena einfach so stehen zu lassen, und wenn wir später ganz dolle stark sind dann wäre es wahrscheinlich auch nicht mehr so schwer hier zu siegen. Was wir also machen ist das Ganze zu try harden. Seit dem letzten Versuch ist ja auch ein wenig Zeit vergangen und wir sind stärker geworden. Das erlaubt es uns größere Gegnerhorden ohne Problem umzuhauen, wie in der letzten Episode ja bereits bewiesen wurde. Eine Sache fehlt aber noch, die große Krönung unser Arena-Laufbahn die wir heute angehen. Es ist nicht ganz einfach, aber da ich hier stehe und davon erzähle werde ich es wohl am Ende geschafft haben. Andernfalls würde man nie wieder davon hören.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 4, Aufnahme vom 25.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #25
+
+* Titel: `GreedFall - #25 - auf den Spuren des Meervolkes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind noch nicht lange auf Teer Fradee aber so wie es scheint gibt es bereits Mysterien die aufgeklärt werden müssen. Mysterien für die sich anscheinend niemand anderes interessiert. Das alleine ist schon ziemlich verdächtig oder? Wir finden eindeutige Spuren einer Vorläuferzivilisation oder zumindest von einer Erstbesiedlung und gleichzeitig die Beweise das die damaligen Ureinwohner erfolgreich den Versuch zurückgeschlagen haben ihre Insel zu erobern. Man möchte meinen so etwas erzeugt ein wenig mehr Neugier und eventuell auch Vorsicht. Man könnte fast sagen das es ein Thema ist das man vielleicht als Erstes klären möchte. Wer waren die Fremden, die Ureinwohner reden nur vom "Meervolk" aber da wir bisher keine Fischmenschen gesehen haben kann das einfach alles heißen. Die Nauten wissen auch nichts, oder behaupten das zumindest. Es geht sogar noch weiter, da wir alle, zumindest meine Gruppe, relativ jung sind, könnte es durchaus sein das unsere eigenen Leute Geheimnisse gehütet haben ohne jemals Bescheid zu sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 4, Aufnahme vom 25.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #26
+
+* Titel: `GreedFall - #26 - Ruinen von Dídri [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Theorien. Ich erläutere das schnell bevor uns die Wahrheit im Wege steht, das wäre außerordentlich hinderlich für meine Verschwörungstheorien. Also, wir wissen aktuell Nichts über die genaue Zeitlinie der Festlandbewohner bzw. die Völker des Kontinents, nicht im Detail. Was wir aber wissen ist das vor ungefähr 300 Jahren die Leute von Thélemen ziemlich plötzlich angefangen haben die Magie zu entdecken und religiös geworden sind. Grund dafür war ein Prophet namens Matheus der wohl maßgeblichen Anteil hatte. Später verschwand der Heilige mit einigen seiner Jünger und die Hinterbliebenden gründeten dann den Gottesstaat. Wir wissen das vor ungefähr ähnlicher Zeit die Eingeborenen einen erbitterten Krieg gegen das "Meeresvolk" kämpfen. Was wenn dieses Volk gar nicht vom Kontinent kam sondern einem anderen Ort der vielleicht nicht mehr existiert oder so weit weg ist das es nur eine große Expeditionsflotte gab. Nach dem Fehlschlag auf Teer Fradee war man gezwungen weiter zu ziehen und die wenigen Überlebenden haben dann die Gründung der heutigen Zivilisationen zur Folge gehabt. Oder anders, haben sich in deren Aufstieg kräftig beteiligt so das sie zu den Nationen werden konnten die sie heute sind. Nur von Matheus wissen wir weil sein Ansatz offensichtlicher war als der der anderen beiden Nationen. Heute finden wir dann Beweise die diese Theorie völlig zerstören. Schade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 4, Aufnahme vom 25.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #27
+
+* Titel: `GreedFall - #27 - Wenshaganaw [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das große Geheimnis des Meeresvolkes ist erkundet, wir machen weiter auf der Tagesordnung. Eigentlich soll ich noch irgendwelchen Würdenträgern meine Aufwartung machen aber das ist ziemlich langweilig wenn es Geheimnisse zu erkunden gibt. Wir laufen also los und erkunden die Welt. Heute gehen wir nach Wenshaganaw, den Ort der vielen Flüsse, oder so, meine Aufzeichnungen enthalten diese Information leider nicht und ich gucke jetzt bestimmt nicht nach. Wir hätten auf keinen Fall zu diesem Ort kommen sollen. Machen können wir nämlich absolut gar nichts in der Region. Die Landschaft zu genießen ist eine Option könnte man noch sagen, davon aber einmal abgesehen ist einfach alles statisch. Ich brauche wirklich einen Guide der mir sagt wo ich wann hin kann damit die Illusion erhalten bleibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 4, Aufnahme vom 25.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #28
+
+* Titel: `GreedFall - #28 - Vígyígidaw [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder im roten Wald. Und nein wir können hier immer noch nichts machen, aber es hieß ja das ich die alten Ruinen erkunden soll, irgendwo da liegt noch eine gute Waffe und die holen wir uns jetzt. Da ich die Begleiter Aufgabe von Vasco immer noch nicht getan habe und daher keine Ahnung habe was aus seinen Bruder geworden hängen wir hier auch ein wenig in der Luft, unfähig diese einfache Suchen und Zurückbringen Quest für Sioras Mutter zu erledigen. Ob sich das negativ auf die Gesundheit der Königin auswirkt das wir sehr viel Zeit damit verbringen durch die Welt zu reisen? Ich kann es mir ehrlich gesagt nicht vorstellen, aber ich ahne das wir irgendwann einmal Zeit sensitive Missionen haben und dann ist die große Stunde der Schnellreisekarren gekommen. Bis dahin laufen wir alles zu Fuß.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 4, Aufnahme vom 25.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #29
+
+* Titel: `GreedFall - #29 - Hikmet [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe mich geschlagen, anstatt weiter sinnlos durch die Welt zu ziehen besuchen wir heute Hikmet. Es handelt sich um die Hauptstadt und eigentlich richtige Niederlassung der Brückenallianz. Umgeben ist diese bereits von nicht ganz so freundlichen Eingeborenen die offensichtlich etwas planen. Aber das ist ja nicht unser Problem oder? Schließlich sind wir neutrale Händler die sich aus den Belangen der anderen Nationen raushalten. Wenn die untereinander Krieg führen wollen dann geht uns das nichts an. Es sei denn man bezahlt uns gutes Geld dafür das wir uns dafür interessieren. Dann könnte es durchaus sein das wir doch noch eine gewichtete Meinung haben. Kurzum, ähnlich wie die Groschengarde ist es durchaus möglich unsere Loyalität zu kaufen. Ärgerlicherweise glaube nicht alle Leute an diese Philosophie und ich warte immer noch darauf das uns irgendjemand mit gutem Geld bestechen will. Meine Finanzen könnten es definitiv gebrauchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 4, Aufnahme vom 25.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #30
+
+* Titel: `GreedFall - #30 - Doneia Egsregaw [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, ich denke mir diese Worte nicht aus. Es handelt sich wirklich um echte Namen der einzelnen Fraktionen. In diesem Fall sind es die Eingeborenen, hier wohl ein eher kriegerischer Clan der sich um den Überfall von irgendwelchen Karawanen sorgt. Das ist außerordentlich schlecht für uns, schließlich sind wir die Händlerkongregation und das geht nun wirklich nicht. Ein klassisches No-Go. Die einzelnen Nationen und Stämme mögen ja gerne Krieg gegeneinander führen aber eine Unterbrechung des Waren und noch wichtiger Gold-flusses ist absolut nicht akzeptabel. Also gehen wir die Art von diplomatische Mission bei der wir eine Menge Köpfe einschlagen um dann ein paar vernünftige klärende Worte zu führen. Außerdem schauen wir endlich nach was es mit Vascos Bruder auf sich hat und dann ist da auch noch die Sache mit dem Handelsabkommen mit den weniger kriegerischen Plänen. Wie wohl die nicht so handelsaffinen Stämme darüber denken?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 4, Aufnahme vom 25.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

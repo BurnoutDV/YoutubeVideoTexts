@@ -476,6 +476,7 @@
   >
   > Zeitreisen sind eine wirklich häufige Trophe in diversen Filmen, Literatur und generell und überhaupt. Wir sind jetzt schon seit einigen Minuten in der Vergangenheit und bisher hat uns noch niemand umgebracht. Generell sind unsere Reisen in die Vergangenheit immer ein wenig komisch. Zu interaktionsreich quasi. Was wenn wir einen Schmetterling zerquetschen. Schlimmer war es nur in Trübmoor wo die Visionen aus der Vergangenheit direkt erkannt haben das wir Zeitreisende sind. Das war wirklich ziemlich nervig. Das passiert hier nicht, man hält uns für Teil des Establissments, allerdings betont man weiterhin das man den Chimern den Sieg bringen will. Und dabei betont man wer die Chimer sind.
   > Quest(s) in dieser Episode:
+  >
   > - die Brüder werden auferstehen
   > - verdächtige Stille
   >   Wöchentlich auch Live auf Twitch: https://www.twitch.tv/burnoutdv 20 - 23 Uhr
@@ -7738,14 +7739,21 @@
   Aufnahme vom 29.08.2022 - #1725 - ##78 - S11
   ```
 
-##### #Nummer
+##### #1726
 
-* Titel: ``
+* Titel: `Let's Play ESO #1726 ##79 - die sinnloseste Rettung [Hochinsel]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 79 des High-Isle DLCs - Sitzung 12
+  
+  Achtung, wildes Gekreische ob schlechter Handlung. Die Sachlage ist also die, ich wiederhole mich hier. Wir sind auf dem Eiland aller Flaggen, einen Ort den wir absolut mühsam mit einem extra gestohlenen Schiff erreicht haben. Hier steht eine Garnison die uns überraschenderweise ohne lange Diskussion direkt durch die Haupttür rein lässt. Vollständig umzingelt, keine Spur der eigentlichen Verteidiger. Später erfahren das man das Herannahen des Ordens absolut nicht absehen konnte. Das wir bereits im Vorfeld wussten das sie etwas planen und deswegen Alarmstufe Rot durchaus angebracht wäre hat hier scheinbar niemanden interessiert. Die schweren Abwehrwaffen auf den Zinnen sind wohl auch Sparmaßnahmen zum Opfer gefallen. Hier wäre übrigens ein großartiger Sub-Plot drin gewesen. Stelle wir uns kurz vor das die Korruption durch den Orden schon lange geht und da die Ressourcen für einen Schatten Ritterorden irgendwo her kommen müssen wurde lange gespart. Immer wieder hätten wir Spuren von schlechten Rüstungen und Waffen gefunden, und hier wären dann die Abwehrwaffen kaputt. Das hätte soviel erklärt. Aber in der Situation sind wir nicht. Stattdessen wollen Leute auf deren Schultern das Schicksal ganzer Nationen ruht sich sinnlos in den Kampf werfen um den Gegnern ein "blaues Auge" zu verpassen. Eine Geste die vielleicht in Heldenfilmen gut aussieht aber in jedem anderen Fall ziemlich dumm ist. Schlimmer noch, wir haben massig Fluchtwege und Optionen, warum genau sollten wir es mit einem "Last Stand" probieren?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 01.09.2022 - #1726 - ##79 - S12
   ```
 
 ##### #Nummer

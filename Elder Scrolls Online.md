@@ -7756,14 +7756,21 @@
   Aufnahme vom 01.09.2022 - #1726 - ##79 - S12
   ```
 
-##### #Nummer
+##### #1727
 
-* Titel: ``
+* Titel: `Let's Play ESO #1727 ##80 - anstrengungsloser Sieg [Hochinsel]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 80 des High-Isle DLCs - Sitzung 12
+  
+  Der Spielercharakter und damit ihr wie auch ich sind Aliya. Hochelfin, Auge der Königin, Agent Emerics, Befreierin von Bauernhöfen, Schrecken der Banditen, Piratin, Vampir und natürlich auch Liebhaber (offscreen). Wir haben bereits gegen daedrische Fürsten, mächtige Liche und jahrtausende alte Erzvampire gekämpft. Unser Gegner heute ist ein drittklassiger Magier der sich irgendwie die Unterstützung einiger missgelaunter Druiden zu sichern konnte. Seine Magie ist bestenfalls wackelig und funktioniert in der Regel nur mit langer Vorbereitung. Und doch sind wir irgendwie in die Situation gekommen das wir den Typen noch nicht einen Feuerball an den Kopf geworfen haben. Weil das hätte er sicherlich nicht überlebt. Heute ist dann endlich der Punkt gekommen, wir gehen in den direkten Kampf. Habe ich schon erwähnt das wir eigenhändig uralte Drachen vernichtet haben? Wir sollten einen Lehrling oder so aufnehmen damit wir den dann nächstes Mal an unserer Stelle losschicken können. Verdammtes Helden-Lohndumping.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 01.09.2022 - #1727 - ##80 - S12
   ```
 
 ##### #TEMPLATE

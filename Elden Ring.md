@@ -1244,12 +1244,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
-##### #Nummer
+##### #83
 
-* Titel: ``
+* Titel: `Elden Ring - #83 - Turm der Rückkehr [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und es hört nicht auf. Auf der langen Zettelreise auf der Suche nach Orten die ich irgendwie vergessen habe springen wir immer noch in Limgrave herum (ich glaube zumindest das es zu Limgrave gehört). Neben einem niederen Erdenbaum haben wir hier auch noch diverse Land-Oktopoden die wir dank absoluter Stärker einfach umhauen ohne das die besonders viel machen können. Und dann gibt es da noch einen komischen Magierknast mit dem wir absolut nichts anfangen können weil die Person die darin sitzt eigentlich schon an anderer Stelle wohnt. Zuletzt sei noch der Turm der Rückkehr erwähnt. Ich bin mir ein wenig unsicher ob ich einen Weg übersehen habe aber ich mag die Teleporterfallen, irgendwie bringen die uns immer wieder zu interessanten Orten. Ich mag interessante Orte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 15, Aufnahme vom 30.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```

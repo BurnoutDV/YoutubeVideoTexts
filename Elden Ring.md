@@ -1258,3 +1258,193 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Sitzung 15, Aufnahme vom 30.08.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
+
+##### #84
+
+* Titel: `Elden Ring - #84 - Nur zu Besuch in Festung Rotmähne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Festung Rotmähne war gar nicht so einfach zu erreichen, um dort hin zu gelangen müssen wir eine unpassierbare Brücke überqueren und dann noch einige andere Gefahren überwinden. Aber das ist eigentlich nicht der Grund warum es Festung Rotmähne überhaupt gibt. Stattdessen ist es wohl der Ort an dem wir uns mit Radahn anlegen werden. Aber dieser Tag wird nicht heute sein, andere ebenso drängende Dinge erwarten mich. Um genau zu sein will ich einfach meinen Quest-Verlauf mit Ranni so weit bekommen das wir hier auch wirklich sein sollen. Mein freihes Erkunden hat sich also wieder einmal gerächt. Daher gehen wir dann woanders hin, vielleicht einen Magier suchen, vielleicht eine roten Wolf töten, wer kann das schon vorher sagen? Was es auch sein mag, Festung Rotmähne ist nicht vergessen und wir werden schon bald hierher zurückkehren, darauf kann man sich verlassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 16, Aufnahme vom 06.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #85
+
+* Titel: `Elden Ring - #85 - geschmeidige Waffen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ja jetzt schon die ein oder andere Kriegsasche gefunden, und weil dem so ist möchte ich doch einmal schauen ob ich nicht noch etwas für meine Ausrüstung tun kann. Daher gehen wir heute zum lokalen Schmied daher und schauen doch einmal was der alles für mich hat. Insgesamt bin ich ein wenig enttäuscht von dem Kriegsaschensystem, es erscheint mir ein wenig restriktiv, so das es zu keinen Experimenten einlädt weil man nur alles einmal machen kann. Aber das ist wohl die Natur der Sache, das man im Leben Entscheidungen treffen muss und dann auf diesen Entscheidungen sitzt bis der Zyklus erneut beginnt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 16, Aufnahme vom 06.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #86
+
+* Titel: `Elden Ring - #86 - Sternengeißel Radahn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich dachte eigentlich das olle Radahn sehr wichtig für die Gesamtsituation ist und wir ihn auf jeden Fall besiegt haben sollten. So wie die Dinge aber aussehen ist der gute Mann völlig optional. Mittlerweile haben wir dann auch erfahren das aus dem großen General nicht mehr so viel geworden ist nachdem er einige entscheidende Siege gefeiert hat. Die Kurzfassung ist wohl das er sich mit etwas infiziert hat das sich da Rotfäule nennt und dagegen kann man wohl nichts machen. Auch ärgerlich ist aber das die Fäule nicht tötet, oder zumindest Radahn eher nicht dadurch sterben kann. Deshalb läuft er noch immer umher und irgendwelche alten Gefolgsleute von ihm haben anscheinend entschieden das man daraus ja auch ein herrliches Kampfturnier machen kann. Und so stehen wir jetzt da und kämpfen einen kleinen epischen Kampf. Zum Glück müssen wir nicht alleine sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 16, Aufnahme vom 06.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #87
+
+* Titel: `Elden Ring - #87 - Nokron, die ewige Stadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen übrigens nicht ob Nokron jetzt wirklich eine ewige Stadt ist oder einfach nur so genannt wird. Das Wort "ewig" wird in solchen Zusammenhängen ja gerne und inflationär genutzt, aber seien wir ehrlich, nichts hält so richtig dolle ewig. Von Nokron sehen wir heute eigentlich auch gar nicht soviel, wir steigen zwar in einen tiefen Keller ab der eigentlich die oberen Etage eines Gebäudes ist, aber so richtig vorstellen das hier irgendwelche Leute wohnen kann ich mir ehrlich gesagt nicht. Und doch soll es so. Bzw. wohnten, mittlerweile finden wir nur noch Untote und etwas das aussieht wie  Damaszenerstahl-Schleim. Eventuell haben diese Schleime irgendetwas mit dem Untergang der Stadt zu tun, weil davon müssen wir wohl ausgehen, die Stadt ist untergegangen und hat aufgehört zu sein. Wie alles in der Elden Ring Welt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 16, Aufnahme vom 06.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #88
+
+* Titel: `Elden Ring - #88 - Stadt der billigen Kopien [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bestimmte Kulturen sehen das Nachahmen oder sogar stumpfe Nachmachen von geistigen Werken sehr unterschiedlich. Da gibt es zum Beispiel den Spruch das Nachahmer die höchste Form der Anerkennung ist. Das mag so sein, meine eigene Kultur bemüht sich aber wirklich sehr nicht einfach nur das nach zu machen was bereits ist sondern neue Wege zu beschreiten und möglichst originell zu sein. Das führt zu Problemen. Es gibt da etwas das sich limitierter Design-Raum nennt. Durch diverse Umstände kann man mit bestimmten Konzepten oder Richtung nur so viel tun bevor man irgendeine Art von Grenze trifft. Zum Beispiel Toaster. Klar kann man noch irgendwelche Muster einbrennen oder mehr als einen Schacht haben, aber der allgemeine Designspace für flaches Brot das warm gemacht wird ist doch recht überschaubar. Man kann eventuell noch einen Jingle abspielen wenn das Brot fertig ist, aber dann sind wir wirklich am Ende. Das hält die Leute natürlich nicht davon ab zich verschiedene Toaster Varianten herzustellen. Und doch, eine genaue Kopie ist immer noch verlockend. Insbesondere wenn es sich um etwas Komplexes handelt. Im kalten Krieg haben die Russen beispielsweise ein Flugzeug nachgebaut, inklusiver eine geflickten Stelle, weil ihnen wirklich nicht klar war wie was funktioniert. Den Leuten von Nokron kann man das nun wirklich nicht vorwerfen, ihre Kopien sind schon anders und doch gleich. Am Ende aber doch irgendwie nicht perfekt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 16, Aufnahme vom 06.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #89
+
+* Titel: `Elden Ring - #89 - Aquäduktklippen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aquädukte sind ein leicht komisches Gerät. Auf der einen Seite sind sie der Höhepunkt oder zumindest ein Teil des Höhepunkts einer antiken Gesellschaft. Eine Gesellschaft die es so weit gebracht hat und dann doch irgendwie untergegangen ist. Es gibt bestimmt Anthropologen die sich damit näher beschäftigt haben. Ich weiß nicht warum das römische Reich untergegangen ist, vielleicht weiß es auch niemand. Eventuell war es die fehlende Philosophie, das Konzept einer Gesellschaft war einfach nicht weit genug entwickelt und die Grundlage ihrer Kultur war zu fehlerhaft. Vielleicht hat auch einfach nur die Technik gefehlt ein gewaltiges Reich zu verwalten. Die herrschende Klasse wurde zu gierig, oder oder? Vielleicht aber waren es aber auch nur externe Umstände. Am Ende blieben aber die Aquädukte. Sie lösen ein sehr spezifisches Problem wenn die dieselbetriebende Wasserpumpe noch nicht erfunden wurde. Ob die Gesellschaft in Elden Ring überhaupt irgendwelche Lore abgekriegt hat? Ob irgendjemand sich etwas zum technologischen Fortschritt in Nokron ausgedacht hat? Wir werden es wohl nicht erfahren, sowas steht in der Regel nicht in Gegenstandsbeschreibungen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 16, Aufnahme vom 06.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #90
+
+* Titel: `Elden Ring - #90 - unterirdische Inquisitionskammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mache genauso weiter wie ich aufgehört habe, oder man könnte auch argumentieren das ich nie aufgehört habe. Wir machen also Folgendes. Ich erkunde wild von einem Ort zum Nächsten und schaue wo ich noch so überall landen kann. Dazu lasse ich mich heute zum Beispiel fressen um einen neuen Ort kennen zu lernen. Eigentlich dachte ich das ich irgendwie in Leyendell herauskomme aber das hat dann ja doch nicht so richtig geklappt. Daher laufen wir heute ein wenig verwundert durch irgendwelche Kellergeschosse. Immerhin haben wir aber herausgekriegt das die komischen umher fahrenden eisernen Jungfrauen wohl ursprünglich dafür gebaut wurden um Leute zu entführen. Das die meisten dabei wohl eher umkommen als irgendwo heraus zu kommen ist dann wohl auch egal. Wir kommen aber auf jeden Fall heute wo an, und zwar im Keller. Und dann da wo viel Lava herumliegt. Immerhin scheint das heiße Zeug wesentlich weniger tödlich zu sein als noch in anderen Ablegern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 16, Aufnahme vom 06.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #91
+
+* Titel: `Elden Ring - #91 - Wyndham [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir wieder an der Oberfläche, es hat aber auch nun wirklich niemand gedacht das ich mich durch eine kleine Horde von komischen Entführungsjungern besonders lange aufhalten lasse. Insbesondere wenn man bedenkt das ich gar nicht so recht weiß wo die Dinger mich jetzt noch hin entführen wollen. Anscheinend sind wir ja jetzt am Ursprung dieser seltsamen Maschinen Hier erwartet uns aber noch die ein oder andere Überraschung. Zum Beispiel kommen wir gar nicht so ohne Weiteres an die Karte der entsprechenden Region. Ich hätte wirklich gedacht das wir einfach nur das Gebäude verlassen müssen und schon sind wir dort. Es hat für mich aber den Anschein als würde hier ein wenig vertikal gebaut, und für solche Strukturen haben wir leider einfach keine Karten. Das ist tragisch aber man kann wohl nicht alles habe. Immerhin können wir das schön Wyndham erkunden, ein kleines lauschiges Dorf in der nord-östlichen Region. Sogar alte Freunde treffen wir hier.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 16, Aufnahme vom 06.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #92
+
+* Titel: `Elden Ring - #92 - Donnerstromhöhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Problem: Ich mag es nicht graue, weiße oder wie auch immer farbige Flecken auf der Landkarte zu haben. Da wo die sind könnten auch Details sein, und ich will Details haben. Problematisch ist jetzt allerdings das wir dazu einen Schrein finden müssen in dem sich die Karte für die aktuelle Region aufhält. Jetzt ist es leider so das ich gar nicht so leicht da hin komme wo meine viel zu graue Karte sagt die detaillierte Karte sich aufhält. Als erstes habe ich versucht über eine Brücke zu laufen, leider hat sich dann herausgestellt das die Brücke kaputt ist. Also musste ich irgendwie improvisieren. Heute versuchen wir durch irgendeine Höhle zu krabbeln. Ich kann übrigens schon jetzt sagen das das nicht so gut klappt wie ich es mir erhofft habe, allerdings finden wir dafür eine Überraschung in den Tiefen der Höhle, und das ist doch wunderschön oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 17, Aufnahme vom 13.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #93
+
+* Titel: `Elden Ring - #93 - Einsiedlerdorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir beim nächsten Versuch endlich einmal auf der Oberseite des Hauses Vulkan anzukommen. Heute laufen wir durch ein Dorf, und ja, offensichtlich führt uns das weg von dem Ort an dem wir eigentlich hin wollen aber wenn der Weg doch so interessant ist, dann gehen wir ihn halt lang. Und dann finden wir heute ein Dorf voller Einsiedler, was an sich schon ein Oxymoron ist, wie auch sonst soll das funktionieren das es Leute gibt die für sich sein wollen aber dann in einem Dorf wohnen. Oder vielleicht besteht das Dorf auf einer großen Personengruppe die beschlossen hat nicht mehr dort zu sein und jetzt halt hier ist. So richtig viele Leute treffen wir aber nicht, stattdessen machen wir mal wieder Bekanntschaft mit einem Bären. Ich persönlich liebe ja die großen Beeren, die kann man dann Pflücken und Essen. Oder man bringt sie dazu irgendwelche Dinge zu hauen. Außerdem finden wir dann noch eine weitere Tiermenschenkönigin, wo auch immer die Bande her kommt und was die eigentlich von der Welt wollen. Die hier hat sogar Unterstützung von einer kleinen Gruppe Magier, das erzählt bestimmt irgendeine Geschichte. Ich bin nur zu doof dafür.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 17, Aufnahme vom 13.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #94
+
+* Titel: `Elden Ring - #94 - Neuntes Gelmirlager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, ich habe absolut gar keine Ahnung wo die anderen 8 Gelmirlager sind, diese Episode heißt auch nur so weil mir wirklich Nichts besseres eingefallen ist. Letztendlich laufe ich viel durch die Gegend, finde geheimnisvolle Orte und nachdem ich sie dann gefunden habe lifte ich besagte Geheimnisse was dann wiederum diese Orte unfassbar uninteressant macht und ich ziehe weiter. Außerdem renne ich vor Bossgegnern weg auf die ich absolut keine Lust habe um sie dann später irgendwann einmal zu besiegen wenn ich absolut overpowered bin und es mir tatsächlich leicht fällt. Für den Moment reiten wir also einfach nur daher, kaufen ein paar Souvenirs und ignorieren alle Sternenbestien die versuchen uns über den Haufen zu laufen. So ist das Leben als Erkunderin, außerdem reiten wir zwischendurch das das neunte Gelmirlager, aber das ist wirklich purer Zufall.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 17, Aufnahme vom 13.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #95
+
+* Titel: `Elden Ring - #95 - Haus Vulkan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und endlich haben wir es geschafft. Wir sind in den heiligen Hallen von Haus Vulkan. Es gibt nur ein minimal ärgerliches Detail, ich habe absolut keine Ahnung was es mit dem Haus auf sich hat. Vor der Tür stehen Wesen die anscheinend dem Wahnsinn zum Opfer gefallen sind, das haben wir schon an anderen Orten gesehen und muss für sich jetzt noch nichts bedeuten. Dann haben wir da noch die Tatsache das das Haus möchte das wir einen Schwur in ihren Namen leisten. Die vielen verschlossenen Türen die ich bisher nicht öffnen kann sprechen irgendwie dafür das es sich bei dem Haus um eine Alternative zur Tafel der Gnade handelt. Vielleicht die "böse" Fraktion, da wir noch gar nicht so richtig wissen ob das was wir tun wirklich zur guten Seite gehört ist das natürlich ein wenig schwierig zu bestimmen. Andererseits sind die Leute im Haus Vulkan die die eine unterirdische Inquisititionskammer haben und ihre Entführungsjungfern durch die Weltgeschichte fahren lassen, das spricht jetzt nicht unbedingt für die lauteren Absichten. Das in blutrot gehaltene Hausthema kombiniert mit dem aktiven Vulkan in fußläufiger Umgebung hat schon ein paar Andeutungen in Sachen "secret, evil Lair". Aber das kann natürlich alles täuschen, so richtig sicher ist das ja nie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 17, Aufnahme vom 13.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

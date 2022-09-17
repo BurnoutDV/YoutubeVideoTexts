@@ -458,14 +458,260 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #31
 
-* Titel: ``
+* Titel: `GreedFall - #31 - Leichenrückführung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Okay, ich spoiler an dieser Stelle schon einmal das wir Sioras Mutter zwar ein einem Stück finden sie aber nicht mehr am Leben ist. Das kommt jetzt nicht wirklich als eine Überraschung, insbesondere wenn man bedenkt das wir Constantin bereits erzählt haben das wir die Gute nicht mehr retten konnten. Alles soweit wie erwartet, das hier die Brückenallianz aber aus irgendwelchen Gründen ein größeres Interesse an der Leiche hat und gerne einmal die Gezeichneten entführen lässt lässt irgendwie vermuten das wir tief unter Hikmet wahrscheinlich einige alchemistische Folterkeller finden in denen man versucht das Gewebe der Realität auseinander zu nehmen in dem man Menschen in Streifen schneidet und unter ein Mikroskop packt. Ich bin mir sicher das alles wird noch ziemlich unangenehm. Die Frage ist bloß für wen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 5, Aufnahme vom 01.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #32
+
+* Titel: `GreedFall - #32 - Einmal Naute, immer Naute [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir jagen heuten den Spuren der Oriflamme hinterher. Es handelt sich um ein Schiff. Bei "Ori" muss ich immer an die Endgegner aus den späteren Stargate Episoden denken. Da sich dort wild aus Latein geliehen wurde und es auch ein Spiel namens "Ori and the blind Forest" gibt vermutet ich einfach mal das diese drei Buchstaben irgendwelche Bedeutung haben.
+  Ich habe nachgeschaut. Es könnte kaum ungenauer sein. Anscheinend kann es je nach Variante Knochen, Mund, Gesicht, Bein, Gebein, Maul oder Mündung heißen. Und das ist nur eine Webseite die mir das vorschlägt. Da alle Leute die dieses Schiff betreffen tot sind würde ich mal davon ausgehen das es sich um die "Gebeine-Flamme" handelt, oder vielleicht doch um die "Knochen-Flamme"? Welchen Sinn auch immer das hat. Oder aber es ist wortwörtlich ein Knochenschiff? Vielleicht fand aber auch irgendjemand den Namen nur cool. Was wir auf jeden Fall finden ist der neuste Versuch irgendwelche Viecher von Teer Fradee herunter zu schaffen. Mit mäßigen Erfolg.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 5, Aufnahme vom 01.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #33
+
+* Titel: `GreedFall - #33 - eine sonderbare Allianz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen neigen dazu andere Menschen gerne in irgendwelche Schubladen zu stecken. Das kann man kritisieren ist aber eigentlich ein notwendiger Überlebensreflex. Wenn man schnelle Entscheidungen braucht sind Nuancen nichts das man sich leisten kann, wer langsam ist stirbt. Oder zieht den Kürzeren. Daher kann man schon verstehen das man zur schnellen Einordnung Leute nach groben Gruppen beurteilt, alles natürlich für größere Gemeinschaft nicht von Nutzen aber darauf sind Menschen offensichtlich nicht ausgelegt. Nun haben wir bei den Eingeborenen von Teer Fradee eine mitnichten homogene Gruppen. Es gibt offensichtlich eine größere Menge geteilter Kultur, bemerkenswert eigentlich für eine Bevölkerung dieser Größe auf einer so kleinen Insel. Und doch wäre es falsch anzunehmen das sie eines Geistes sind. Und daher sollte es nicht überraschend das manch Stamm anders handelt als ein Anderer. Und dann wäre da natürlich noch die Sache mit den Individuen. Menschen handelt selten als Kollektiv.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 5, Aufnahme vom 01.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #34
+
+* Titel: `GreedFall - #34 - San Matheus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind auf einmal schon wieder ganz woanders. Heute betreten wir die weltliche Entsprechung des Lichts auf Teer Fradee, die Außenfiale von Theléme. San Matheus. Es handelt sich um einen Ort der Andacht, des Glaubens und natürlich auch der Inquisition. Es kann ja schließlich nicht sein das alles Leute immer fest im Glauben sind. Daher braucht man den festen Arm der Befrager um sicher zu stellen das die Zügel der Hingabe nicht ein wenig locker sitzen. Außerdem leben dort auch ganz normale Menschen, ich würde wagen zu behaupten das für das einfache Volk es keinen  großen Unterschied macht unter wen man wirklich lebt. Offensichtlich gibt es so etwas wie eine Proto-Nationalidentität aber davon einmal abgesehen scheinen die normalen Menschen nicht besonders sehr mit ihrer jeweiligen Fraktion in Verbindung zu stehen. Bei den Wachen, Soldaten und besonderen Bediensteten sieht es allerdings ein wenig anders aus. Da trifft man mitunter schon ein wenig Fanatismus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 5, Aufnahme vom 01.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #35
+
+* Titel: `GreedFall - #35 - Spur der Laster [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und natürlich ist da wo viel Licht auch eine Menge Schatten. Das können wir natürlich ausnutzen, als guter Diplomat vertrauen wir wohl nur selten darauf das wir alles mit einem Handel lösen können. Stattdessen brauchen wir auch ein wenig Überzeugung durch Wissen. Vorsprung durch Wissen ist in jeder Verhandlung von großen Vorteil, aus einer Position der Schwäche heraus zu operieren möglich, aber irgendeinen Trumpf sollte man schon haben. Andernfalls kommt nicht besonders viel heraus, außer das man aufdiktiert kriegt was passieren soll. Und hier stehen wir, irgendwie tief unter dem Palast von San Matheus und versuchen herauszufinden ob die höchste Instanz der Autorität auf der Insel vielleicht ein wenig zu sehr den fleischlichen Gelüsten zu geneigt ist. Wir wissen aktuell eigentlich gar nichts über die Religion des Lichts. Es könnte durchaus sein das körperliche Exzesse nicht direkt verurteilt werden, es ist schon ziemlich christlich sich keusch und zurückhaltend zu geben, andere Religionen können einen vollständig anderen Weg gehen. Allerdings ist die Kontrolle junger Männer immer ein gutes Mittel um eine wütende Armee zu halten, insofern ist sexuelle Freiheit wahrscheinlich nicht einer der 5 Säulen des großen Glaubens ans Licht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 5, Aufnahme vom 01.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #36
+
+* Titel: `GreedFall - #36 - Elster und Zuckerstange [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Handlung wird dicker - im Deutschen klingt es irgendwie nicht so gut wie in einer anderen, nicht weiter genannten Sprache. Wir haben mittlerweile einen kleinen Dungeon unterhalb des Palasts entdeckt der gut vor den Augen der Öffentlichkeit versteckt ist. Ich bin mir nicht ganz sicher ob es so gut ist solche Dinge direkt im Palast stattfinden zu lassen, andererseits hat man da wohl am meisten Interesse, eine andere Lokalität könnte Dritte einladen zu handeln. Erstaunlich ist aber wie weit wir eigentlich kommen den Untergrund zu durchsuchen. Eigentlich kennen wir ja niemand in San Matheus der uns als Informant hilfreich sein könnte und doch schaffen wir es mit Gewalt und ein wenig Charm Ermittlungen anzustellen. Und das nicht einmal aus einer Position der Autorität, weil die haben wir hier nicht. Selbstverständlich besuchen wir heute einen Geldverleiher, zwar ist das ein beliebter Verschwörungsspruch: qui bono, aber ganz von der Hand zu weisen ist es nicht. Dem Geld zu folgen funktioniert eigentlich ganz gut. Nicht immer profitiert jemand, und manchmal ist einfach nur Chaos das Ziel aber als Arbeitshypothese fällt mir eigentlich nichts Besseres ein. Also folgen wir dem Geld. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 5, Aufnahme vom 01.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #37
+
+* Titel: `GreedFall - #37 - nächtliche Ausbildung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist komisch, früher als man jung war hat man sich gegen Regeln aufgelehnt, oft weil sie einfach im Weg standen. Und doch, wenn man älter wird erhalten manche Regeln plötzlich einen Sinn. Andere hingegen nicht, vielleicht weil sie sich immer noch wie Bevormundung anfühlen, wie Regeln die im Weg stehen vor dem was man tun will und von dem man weiß was besser ist. Regeln die aus Ignoranz für die Realität oder zu breit getroffen wurden. Aber es gibt auch nützliche Regeln, Regeln die Macht einschränken, bestimmtes Verhalten sanktionieren von dem in der Vergangenheit bekannt war das es zu einer Menge Problemen führt wenn man den Leuten zu viel Freiheit lässt. Genau wie Gesetze gibt es immer eine Interpretationsrahmen, so gesehen sind Regeln und Gesetze das Gleiche, nur wer sie durchsetzt unterscheidet sich. Und dann gibt es da noch die die glauben für sie gelten die Regeln nicht. In der großen Gruppe wäre solch Ansicht aber nicht klug, daher schafft man sich kleine Blasen in denen man tun kann wie man denkt. Eine solche Blase finden wir heute.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 5, Aufnahme vom 01.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #38
+
+* Titel: `GreedFall - #38 - die Ehre der Groschengarde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ehre ist ein sehr interessantes Konzept. In der Vergangenheit habe ich Ehre als generelle Annahme abgelehnt. Insbesondere Dinge wie ein Ehrenmord oder Leute die sich in ihrer Ehre beleidigt fühlen waren dafür die Gründe. Das Leute ausfallend werden, insbesondere gegenüber Dritten weil sie sich in ihrer Ehre angegriffen fühlen klingt für mich sehr nach einem fragilen Ego und einem Hang dazu die eigene Unsicherheit nach Außen zu projizieren. Allerdings kommen andere Fragen auf die auch die Ehre betreffen. Gehen wir einmal davon aus wir haben eine Armee, wie genau ist diese Armee an uns gebunden? Wie können wir sicherstellen das nicht nur unser schöner Schlachtplan beim Feindkontakt zerbricht sondern auch die Loyalität unserer doch so tapferen Krieger? Die Antwort ist einfach, wir lassen die Bande einen Schwur schwören, einen Schwur der sie windet. Damit das klappt braucht unsere Gesellschaft einen allgemein üblichen Ehrenkodex der Leute ohne Ehre aus der Gemeinschaft verbannt. Mir wäre noch wichtig das diese Ehre personengebunden ist, nur man selbst kann die eigene Ehre verletzen oder Reduzieren, die Idee das das durch Andere geht und man dann Satisfaktion fordern möchte erscheint mir nach wie vor wie das Gebrabbel eines Wahnsinnigen. Schwüre, Eide und Worte funktionieren nur dann wenn es ein System dahinter gibt. Alternativ könnte man noch an die Gier des Individuums appellieren, aber der Erfolg ist wechselhaft und die erste Maßnahme ist definitiv billiger. Und das bringt uns zur Groschengarde, offensichtlich sind das Mietschwerter aber sie besitzen wohl auch Ehre. Faszinierend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 6, Aufnahme vom 09.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #39
+
+* Titel: `GreedFall - #39 - Gelehrte auf Expedition [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hach, der Außeneinsatz im Feld. Für einen Biologen auf jeden Fall sehr erhebend, für mich als eher theoretischen Wissenschaftler gibt es allerdings wenige Gründe die Sicherheit des Instituts zu verlassen. Aber auch andere Wissenschaftsrichtungen verlangt es regelmäßig nach einem kleinen Spaziergang an ferne Orte. Ich kann mir durchaus vorstellen das es da einen gewissen Reiz gibt, aber ich persönlich würde maximal Tagestripps für Versuche in Erwägung ziehen, und bei meinem aktuellen Feld wohl eher nicht einmal das. Wie dem aber auch sei, ich bin ja nicht einmal ein richtiger Wissenschaftler, die Leute deren Leichen wir heute treffen waren das aber. Streng genommen finden wir nur eine Leiche aber es besteht doch sicherlich kein Zweifel daran das wir noch mehr Leichen ausgraben werden oder? Schließlich wurden die auch so unbewaffneten Wissenschaftler von Eingeborenen angegriffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 6, Aufnahme vom 09.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #40
+
+* Titel: `GreedFall - #40 - Rettung des Wissens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wissen ist Macht und Wissen aus Ignoranz zu verlieren ist ein Frevel. Eventuell sehen andere Leute das anders und manche halten Wissen wahrscheinlich sogar gefährlich. Das kann aus verschiedenen Richtungen kommen. Die Einen fürchten um ihre Macht weil alles was sie nur tun darauf basiert das sie einen Vorsprung im Wissen um eine Sache oder ein Konzept haben. Andere bevormunden, vielleicht sogar aus guten Grund. In Angst das eine Person nicht damit umgehen kann wenn Wissen bekannt ist, oder eine Gesellschaft. Man stelle sich einmal vor es wäre allgemein bekannt das alles Sein von einem großen grauen Nebel umringt ist und dieser Nebel langsam aber sich immer weiter vor ran schreitet? Was machen Leute ohne ein Verständnis für langfristige Folgen mit dem Wissen einer Dampfmaschine oder eines Otto-Motors? In der Geschichte haben wir viele Beispiele dafür das Leute mit Ambitionen aber mangelnden Weitblick mit Wissen getan haben. Und doch, heute retten wir Wissen, größtenteils weil es sich nur um Botaniker handelt und ich spontan nicht wüsste was schief gehen könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 6, Aufnahme vom 09.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #41
+
+* Titel: `GreedFall - #41 - Aphras Neugier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ach in meiner Brust schlagen zwei Herzen. Auf der einen Seite kann ich verstehen das die Eingeborenen ihre Geheimnisse beschützen wollen, das sie nicht den Vorteil weg geben wollen der vielleicht ihr Leben rettet für den Fall das die Ambitionen der Besucher aus Übersee noch stärker werden. Und doch, ich bin schon neugierig und Aphras Forschung geht genau in die Richtung in die ich auch erkunden möchte um herauszufinden was es eigentlich mit den En ol menawi auf sich hat, wie sie entstehen und warum der Hälfte der Einwohner hier Pflanzen im Gesicht zu wachsen scheinen. Das muss doch enorm stören wenn man sich versucht die Haare zu schneiden oder? Und so geben wir nach, natürlich zögerlich aber letztendlich doch voller Willen alles zu wissen, alles zu erfahren was die Stämme vor uns versteckt haben. Das Einzige auf das wir hoffen können ist ausreichend Feingefühl um keine Katastrophe herbei zu beschwören.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 6, Aufnahme vom 09.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #42
+
+* Titel: `GreedFall - #42 - Aphras Völlerei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Durst nach Wissen zu haben ist eine Frage der Moderation. Ich sprach bereits über die Gefahren die der Drang nach Wissen mit sich bringt. Welche Gefahren lauern wenn man ohne jede Rücksicht nach mehr und mehr Erkenntnis suchen. Es gibt nur soviel wie man erfahren kann wenn man aus der Entfernung zuschaut. Irgendwann muss man näher ran, interagieren und damit steigt die Gefahr das man irgendetwas zerstören. Wenn Aphra mit der Welt interagiert tut die Welt das Selbe auch mit ihr, Aktio und Reaction. Wichtige fundamentale Prinzipien die eventuell noch gar nicht bekannt sind. Meine Sorge gilt aber der Welt, was passiert wenn Aphra ihre Erkenntnisse verteilt, publiziert und der gesamten Brückenallianz zur Verfügung stellt? Was werden die Menschen mit der Erkenntnis tun, wie sieht die neutrale Bewertung von dem aus was wir erfahren? Wird es jemand geben der Stoppen möchte was wir sehen? Aphras Neugier kennt definitiv keine Grenzen und so erkunden wir heute weiter, forschen mehr nach was es noch zu wissen gibt. Jetzt bleibt nur noch offen ob das was sie sieht vielleicht auch etwas in ihren Wegen verändert. Reactio und so...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 6, Aufnahme vom 09.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #43
+
+* Titel: `GreedFall - #43 - die strittige Lichtung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind De Sardet, nicht nur furchteinflössender Einzelkämpfer und Cousin des Gouverneurs der Kongregation der Händler sondern auch Diplomat. Man könnte sogar sagen das wir Chefdiplomat sind. Die Welt von Teer Fradee ist noch relativ klein und die Anzahl der Menschen die wir tägliche treffen ist begrenzt. All das führt dazu das wir uns noch um viel mehr Probleme selber kümmern können. Eine kleine private Theorie meinerseits ist das es zu viele Menschen gibt und wir als kollektives Bewusstsein nicht die Mittel haben vernünftig Aufgaben aufzuteilen die traditionell von einer einzelnen Person ausgeübt wurden. Zum Beispiel Diplomatie, man stelle sich einmal vor das parallel zu unserem Tun auch noch eine Diplomatin namens De Sordet herumlaufen würde. Würde sie die gleichen Entscheidungen treffen? Würde sie so handeln wie wir, würde es ein kongruentes Bild der Händlerkongregation ergeben oder sind wir doch schon mehr ein freier Colt als wir es zugeben wollen? Heute kümmern wir uns um die Belange der Eingeborenen, es geht um eine bestimmte heilige Lichtung, anscheinend wurden Nutzungsrechte für einen uns unbekannten Betrag übertragen aber die genauen Regeln scheinen nicht klar kommuniziert worden zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 6, Aufnahme vom 09.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #44
+
+* Titel: `GreedFall - #44 - die verbotene Mine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hey, es ist Donnerstag und wir besuchen eine verfluchte Mine, sehr originell (Aufnahme war an einem Freitag, Veröffentlichung am 15.09.22, tatsächlich ein Donnerstag). Aber jetzt kommt der Kracher, wir besuchen überhaupt keine verfluchte Mine. In der Tat ist der Ort aus ziemlich mundane Gründen verboten. Es ist nämlich so das die Mine einsturz-gefährdet ist, anscheinend geht sie wohl auf die ersten Siedler vor einigen hundert Jahren zurück die sich hier auf der Insel aufgehalten haben. Irgendwie, und ich habe keine Ahnung was für eine Schweizer Käse der Berg sein soll, aber ein weiteres Graben in der Mine könnte wohl dafür sorgen das der nahe Berg einstürzt. Dadurch könnten wiederum tausende Sterben. Mir ist absolut nicht klar wie das funktionieren soll wenn man sieht das in den meisten Dörfern vielleicht 50 Leute wohnen und kein Dorf auch nur in der Nähe des Berges zu erkennen ist. Es sei den der Einbruch würde ein Ereignis auslösen das nicht direkt mit dem Berg zusammenhängt. Wie dem aber auch sei, die Gefahr ist eigentlich gebannt, man hat wohlweislich verhandelt und sich geeinigt das die Mine auf keinen Fall genutzt werden soll. Und doch wird sie das jetzt, sogar mit Sklavenarbeitern. Die rekrutieren sich natürlich aus den Eingeborenen, das alleine ist schon ein ziemlicher Affront und ich frage mich wirklich wie genau ein einzelnen Kaufmann gedenkt diese Geschichte auf Dauer geheim zu halten. Anscheinend möchte er aber Leute bestechen, einen solchen Versuch sehen wir heute. Nun ist es leider so das der gute De Sardet alles Gold hat was er braucht, aber die Taschen mit Gerechtigkeit sind ärgerlich leer. Da hilft nur eins, und es reimt sich mit Selbstjustiz, wenn mein ein schlechter Poet ist und Haus auf Haus reimt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 6, Aufnahme vom 09.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #45
+
+* Titel: `GreedFall - #45 - das Bindungsritual [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Känguru ist ein freies Wesen. Irgendwie, ganz alleine würde es wahrscheinlich irgendwelchen Raubtieren zum Opfer fallen. Und doch, ich habe irgendwie ein wenig Probleme mit irgendwelchen Bindungen. Wir sind natürlich wieder einmal im Auftrag von Aphra unterwegs, wir erinnern uns, die Gute hat quasi einen endlosen Drang nach Wissen und das kann ich irgendwie nachvollziehen. Daher forschen auch wir weiter nach und versuchen herauszufinden wie genau es dazu kommt das sich die Eingeborenen irgendwie an die Insel und der Natur binden. Wir genau es funktioniert und mit welchen Mächten gesprochen wird ist mir übrigens nicht klar. Aber heute erfahren wir immerhin wie der eigentliche Prozess abläuft. Und welche Leute anscheinend dafür verantwortlich sind das nicht wenige der jungen Inselbewohner und On ol Menawi verschwunden sind. Das ist immerhin eine Spur der wir zu einem späteren Zeitpunkt nachforschen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 6, Aufnahme vom 09.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #46
+
+* Titel: `GreedFall - #46 - Inquisition [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein ganz klares Zeichen dafür das deine Religion über jeden Zweifel erhaben ist und auf jeden Fall den Segen Gottes hat ist ja immer wenn man eine Schlägerbande unterhält die dafür sorgt das kritische Stimmen ganz schnell verstummen, meistens sogar recht abrupt oder verbunden mit dem Übergang in Schreie wenn das Feuer der Gerechtigkeit den Sündern von unten erwärmt. Realistisch gesprochen ist es natürlich vollkommen verständlich das immer die Religionen weiter kommen die dreckig, gemein und mit möglichst vielen Repressallien kommen. Erstens lockt das genau die Art von Persönlichkeit an die mit Gewalt die Überlegenheit der eigenen Gruppe beweisen will und Zweitens sind die weniger Radikalen Gruppen offensichtliches und erstes Opfer der gewaltbereiten. Wie viele Lehren und Religionen wohl schon ausgestorben sind weil sie nicht aggressiv rekrutiert haben? Ausgestorben einfach nur weil die Leute langsam alt geworden sind. Oder auch einfach nur verdrängt wurden, mit genügend Druck kriegt man eigentlich jeden "Sünder" zum rechten Weg bekehrt. Wahrscheinlich gibt es dazu sogar statistische Studien wie viele Leute man pro 100000 Einwohner verbrennen darf um das Optimum an Konvertierungen zu erreichen. So oder so, die reine Existenz einer Inquisition in Abwesenheit des Warp ist schon Beweis dafür das deine Religion ein fragiles Ego hat und sich nur mit Gewalt zu behaupten weiß.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 7, Aufnahme vom 15.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #47
+
+* Titel: `GreedFall - #47 - Ärger in Eden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode hatte ich noch gar nicht erwähnt, aber heute sind wir in der Religionskritik-Woche. Offensichtlich kann ich den Mummenschatz-Kaspern nicht besonders viel abgewinnen und das zeigt sich auch. Man kann mir jetzt vorwerfen das ich nicht objektiv bin und das kann ich nicht einmal von der Hand abweisen. Aber es stellt sich doch ein wenig die Frage warum ich das überhaupt tun sollte. Mir erscheint nicht das Religionen irgendeine Grundlage für ein Gespräch offerieren. Ihre Erstannahme ist das ihr unsichtbarer, imaginärer Freund im Himmel irgendetwas gesagt hat. Darauf stützt sich die ganze Authoritätskette, alles was danach kommt basiert auf diese Annahme, die gesamte Philosophie, Menschlichkeit, Hingabe, Verbote, Gesetze, einfach alles. Aber ich lehne diese Grundannahme ab weil nicht verifizierbar. Wenn es jetzt noch ein zweites oder drittes Standbein geben würde, dann könnte man Teilen vielleicht zu stimmen, aber selbst dann ist die Gesamtkonzeption vergiftet durch Aberglaube. Zurück zum Spiel. Wir finden einen Ort vor der Eden genannt ist, offenbar an abrahamitische Religionen angelegt, der Ort des perfekten Paradies bevor die Menschen sich abgewandt haben. Oder den Sündenfall begangen haben. Tatsächlich handelt es sich aber wohl um einen Ort an dem bis vor kurzem noch ein vollständiger Stamm der Eingeborenen gewohnt haben. Jetzt ist die Bevölkerung ein wenig ausgedünnt und wir finden eine seltsame Fusion von Thelemé Fanatikern und einigen traurig schauenden Resten vor. Und natürlich gibt es vor Ort Probleme. Als ich vorhin davon sprach das die Grundannahme ja ist das es irgendeine höhere Instanz gibt die irgendwie wohlwollend oder eben nicht auf die Leute herabblickt habe ich die Beweisführung abgegeben. Das haben sich auch die Gläubigen des Lichts gedacht und suchen nach deutlichen Zeichen für den Ursprung ihrer Religion. Und den hoffen sie hier zu finden, in Form von irgendwelchen Steintafeln. Was sie wohl tun wenn herauskommt das die Dinge doch nicht ganz so sind wie sie dachten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 7, Aufnahme vom 15.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #Nummer

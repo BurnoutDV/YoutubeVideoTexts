@@ -2267,12 +2267,182 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFu
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```
 
-##### #Nummer
+##### #151
 
-* Titel: ``
+* Titel: `Disco Elysium - #151 - Suzeränität [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich kann nicht sagen das ich Brettspiele wirklich liebe. Das liegt aber auch vielleicht daran das man für die Guten davon irgendwie immer ein wenig mehr Zeit braucht, und natürlich eine Menge Leute mit denen man sich am besten öfter treffen kann für den Fall das man nicht in einer Sitzung fertig wird. Und dann braucht man auch noch ähnlich große Motivation, so ein Brettspiel kann eine große Ablenkung sein. Mit der allgemeinen Verfügbarkeit von Computer hat die Komplexität von wirklich großen Brettspielen wahrscheinlich abgenommen. 20 Regelbücher zu besitzen erscheint mir eher wenig sinnvoll wenn der Moment an dem man einen Computer mit dem Rechnen beauftragt schon lange überwunden ist. Und doch spielen wir heute, mitteim Regen und an der freien Luft eine Runde Suzerenität mit Kim, ist das nicht schön?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #152
+
+* Titel: `Disco Elysium - #152 - guter Nachtschlaf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es eventuell geschafft noch einen neuen Tag anzufangen obwohl doch eigentlich schon alles geschafft war. Das ist sehr ehrenwert wie ich finde. Ich klopfe mir jetzt also einmal selbst auf die Schulter für meine gute Tat. Warum eine gute Tat? Ganz einfach, Harry scheint langsam aber sich mit sich selbst ins Reine zu kommen, immer noch nicht so richtig aber doch ein Stück. Wie dem aber auch sei, das bedeutet auch das wir ganz gut schlafen können und auch ein wenig ausgeruhter sind als es für gewöhnlich der Fall ist. Und an diesem neuen Morgen schreiten wir jetzt zur Tat, wichtig ist aber auch das wir gut geschlafen haben. Bemerkenswert finde ich aber auch das es anscheinend die vorletzte Nacht ist, unser Gehirn hat es zumindest so gesagt. 10 Tage, das ist alles was ein kleiner Cop aus Jamrock an Zeit hat einen 8 Tage alten Mordfall zu klären.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #153
+
+* Titel: `Disco Elysium - #153 - Roo A72 und SadFM [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren bereits vor einigen Episoden reif für die Insel, aber heute habe ich leider keine Ausrede mehr. Wirklich, ich hätte mich gerne noch einmal hingelegt, tief geschlafen und darüber philosophiert ob es eine Punktlandung ist wenn man alles am letzten Abend gelöst hat, am besten kurz nach Mitternacht, das hätte auf jeden Fall eine gewisse dramatisch Geschichte gehabt. Das gesamte Rätsel am vorletzten Tag zu lösen erscheint irgendwie komisch. So als würde der Held nicht 5 vor 12 ankommen sondern 20 nach 10, mit genügend Zeit das er sich noch ein Bier zapfen kann bevor der Oberbösewicht erschlagen wird. Immerhin erfahren wir heute ein wenig über die Technik der Welt, zum Beispiel wie unser Boot heißt (es handelt sich um ein Roo A72) und dann hören wir noch ein wenig Radio, wie auch immer sich ein Sender mit Namen "SadFM" dauerhaft halten kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #154
+
+* Titel: `Disco Elysium - #154 - entwertete Eintrittskarte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann passiert noch das hier. Heute ist die Episode ein wenig länger. Tatsächlich wusste ich das die Szene die wir heute sehen kommen wir, allerdings hatte ich sie ein wenig anders im Gedächtnis. Auf Steam gab es verschiedene Bilder bzw. in einem Interview mit dem Voice Actor ebenso und eines davon war die Szene die ich heute gesehen habe. Ich hatte irgendwie schon befürchtet das wir sie verpassen. Verlassen werden ist nicht leicht, je nachdem wie man drauf ist kann man daran sehr knabbern. Wahrscheinlich das große Problem mit jungen Beziehungen, bzw. Beziehungen von jungen Leuten. Alles ist im Flux, es gibt noch viele sich bewegende Teile, das kann schön sein und hält alles ein wenig frisch, allerdings ist es problematisch wenn man sich nicht mehr in die gleiche Richtung bewegt sondern voneinander weg. Und das ist ein Problem, ein Problem das sich tief eingräbt. Harry ist anscheinend besonders anfällig dafür.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #155
+
+* Titel: `Disco Elysium - #155 - Scharfschützennest [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Puzzleteile fallen langsam zusammen. Interessanterweise übrigens haben wir im Buchladen kein Puzzle erwerben können, dabei wäre das doch so ein schöner Zeitvertreib gewesen, aber so wie die Dinge stehen können wir wohl nichts tun das einem echten Puzzle ähnelt. Aber das ist auch gar nicht notwendig, viel besser sogar, wir können wesentlich komplexere 4D Puzzle zusammenbauen die uns helfen einen Mordfall aufzuklären. In den Worten von Sherlock Holmes schließen wir alles Mögliche aus bis es nur noch eine Möglichkeit gibt und das muss dann wohl die Wahrheit sein. Daher sind wir auch auf dieser Insel. Wir wissen das der Schuss nicht vom Dach gekommen sein kann, niemand hat einen Schuss gehört, Klassje hätte wahrscheinlich auch einen Schalldämpfer wahrgenommen, selbst wenn eine solche Entwicklung in dieser Realität existiert. Und hier haben wir sie jetzt, die letzte Möglichkeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #156
+
+* Titel: `Disco Elysium - #156 - das Geständnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben einen Verdächtigen, die Person die wir im Verdacht haben ist sogar sehr verdächtig, das liegt unter anderem daran das sie eine Waffe bei hat die exakt die Munition verschießt mit der auch unser Toter erschossen wurde. Eine genaue Übereinstimmung mit den Riefen des Laufes wäre wahrscheinlich auch irgendwie möglich, aber dafür habe ich zu wenig Ahnung von Ballistik. Aber selbst wenn ist das, soweit ich das verstanden habe, eher eine Methode um Beweise sicher zu machen, keine Ermittlungsmethode. Und dann haben wir da auch noch diese kleine Sache die sich ein Geständnis nennt. Ich mag Geständnisse, da muss man sich viel weniger zusammenreimen und eventuell füllen sich noch ein paar Lücken die vorher nicht klar waren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #157
+
+* Titel: `Disco Elysium - #157 - Das wahre Motiv [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ja schon ein Geständnis, das alleine scheint aber nicht auszureichen. Leute mit glühenden Eisen und Peitschen können ebenfalls Geständnisse erhalten. Es reicht vielleicht wenn ein kleines Kind zugibt das es die Kekse gestohlen hat, aber für einen Erwachsenen brauchen wir mehr. Wir brauchen eine Begründung, wir brauchen ein Warum. Einfach nur zu wissen wer es war genügt Harrier Du Bois nicht. Kim Kitsuragi vielleicht auch nicht, in jedem Fall sind wir durch und durch Polizist und nicht nur eine Bürgermiliz was das angeht. Und deswegen bohren wir weiter, um zu erfahren warum jemand tut was er tat. Wie es dazu kam, was die Umstände sind, nicht nur die Platte Erklärung sondern wirkliche Abgründe. Alles nicht so einfach wie ich verstanden habe aber wir wären nicht da wo wir jetzt sind wenn wir nicht die Fähigkeiten besitzen würden um so weit zu kommen. Ein Zirkelschluss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #158
+
+* Titel: `Disco Elysium - #158 - Von Cnidarier und Radiärsymmetriker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal erlebt ein Harrier Du Boise einen ganz normale Dienstag-Nachmittag und manchmal ist es ein nicht ganz so normaler Tag. Heute ist es wohl einer aus der zweiten Kategorie. Nicht nur haben wir endlich unseren Täter gefunden, nein wir haben auch noch ein seltenes Phänomen Kraft unserer Sinne entdeckt, ich finde das verdient schon ein wenig Anerkennung, außerdem finden wir heute raus was die Welt im Innersten Zusammenhält. Oder wir bilden uns das alles nur ein, das richtig einzuordnen ist wohl nicht ganz so einfach, aber die Tatsache die bleibt ist die das die Fallen die ein gewisser Kryptozoologe aufgestellt hat einfach viel zu klein gewesen wären. Und jetzt reden wir halt mit unserer Entdeckung, ich würde behaupten es ist wieder einmal unser übernatürlicher Sinn für das Schaudern der hier hilft die Brücke der Kommunikation zu überwinden. Ein wahrlich praktisches Talent.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 29.08.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #159
+
+* Titel: `Disco Elysium - #159 - die Elster [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend gibt es zumindest einige Vögel in der Welt von Disco Elysium wie auch in der unsrigen. Eine davon ist die Elster. Tatsächlich werden wir heute aber nicht zum Ornithologen sondern stattdessen zum glücklichen Finder von einem Ausweis und einem Helm. Ärgerlicherweise ist was wir nicht finden das Bündel von Geld das hier eigentlich sein sollte. Das ist ziemlich ärgerlich weil wir das doch so gut gebrauchen könnten. Einzige Aufgabe wäre es wohl gewesen Kim davon zu überzeugen das wir es dringender als die Asservatenkammer brauchen. Ob Harry noch irgendwelche Ersparnisse hat? Wir haben jetzt zwar die Fotokopie einer Besitzerurkunde an irgendeiner Quecksilbermine aber so richtig direkt können wir daraus ja auch kein Geld machen oder? Wie dem aber auch sei, das Nest einer Elster enthält so manche interessante Sache und das ist doch einen Blick wert oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #160
+
+* Titel: `Disco Elysium - #160 - Kopf am Welttonband [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In den letzten Jahren besonders präsent aber meines Wissens erst neuerdings wirklich auch benannt worden ist das sogenannte "Doomscrolling". Der Begriff ist relativ leicht erklärt, in unser Smartphone basierten Welt werden Inhalte endlos nachgeladen, ewig kann man den Feed entlang scrollen und unten wird es immer neue Daten, Bilder und Nachrichten geben. Immer mehr, nie zu Ende, endlos dreht sich die Schlange. Früher hatte man Pagination, Internet-Veteranen erinnern sich noch an die legendäre zweite Google Seite in Zeiten höchster Verzweiflung. Doom-Scrolling ist wenn man die Nachrichten entlang geht und immer mehr vom Elend der Welt liest. Rein statistisch sind viele Dinge besser geworden. Insbesondere Kriminalität ist in Deutschland stetig runter gegangen, und doch haben die Leute mehr Angst den je raus zu gehen. Der unbegrenzte Zugang zu Nachrichten ohne die Fähigkeit zu filtern macht das mit einen. Auf der Insulinde sieht das ein wenig anders aus, aber als Cop kriegt man eine Menge mit, da hat man immer den Kopf am Weltton-Band.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #161
+
+* Titel: `Disco Elysium - #161 - Wer ist Harrier Du Bois? [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen seit ziemlich langer Zeit eigentlich das wir Harry sind. Teile von uns haben uns sogar schon Harry genannt bevor wir überhaupt herausgefunden haben wer wir eigentlich sind. Später stellte sich dann auch noch heraus das wir Harrier Du Bois heißen, einen akzeptablen Rang innerhalb der zivilen Bürgermiliz von Revachol besitzen und einiges an Geschichte mit uns herum tragen. Die genauen Details wissen wir zwar immer noch nicht aber das kann sich ja heute ändern. Wir begegnen also unseren alten Kollegen, tatsächlich arbeiten sie eigentlich sogar immer noch mit uns zusammen, auch wenn das außerhalb unserer Erinnerungen liegt. Sogar die Frau mit dem Pferdegesicht ist dabei. Und heute kommt dann auch die Bombe, wir erfahren endlich was es mit Harry wirklich auf sich hat, wie er die Art von Person geworden ist die er mittlerweile ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
+  ```
+
+##### #162
+
+* Titel: `Disco Elysium - #162 - Abspann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir. Es ist Zeit für das Ende. In der Regel schreibe ich nach einigen Wochen, Monaten oder Jahren eine Zusammenfassung was ich über das Spiel gedacht habe in die Beschreibung der Playlist und ich bin mir sicher das das bald passieren wird, aber für den Moment kann ich schon sagen das Disco Elysium ein wahrlich fantastisches Spiel ist. Angeblich haben die Entwickler 20 Jahre damit verbracht die Spielwelt zu bauen und das merkt man auch. Bisher haben wir nur einen winzige Teil der bekannten Welt erkundet und wenn es wirklich für Alles und Überall Geschichte gibt wäre da noch so viel zu erkunden. Für den Moment sind wir aber fertig. Ob wir Harry noch einmal treffen werden? Wenn, dann wohl nicht als Protagonist, schließlich wissen wir jetzt wer er ist, seine Geschichte ist vielleicht nicht zu Ende erzählt aber doch irgendwie abgeschlossen. Wenn wir mehr von der Welt erfahren wollen müssen wir wohl jemand anderes sein. Nur die Zukunft kann uns zeigen was das wohl sein mag, schauen wir doch einfach welche Geschichte die Welt des Graus noch erzählen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Disco Elysium auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_q5WI9Ve59R_o9bhPFuO6
   ```

@@ -7773,6 +7773,254 @@
   Aufnahme vom 01.09.2022 - #1727 - ##80 - S12
   ```
 
+##### #1728
+
+* Titel: `Let's Play ESO #1728 ##81 - die Todesmut-Feste [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 81 des High-Isle DLCs - Sitzung 12
+  
+  Es gibt noch immer kleine Orte die wir gar nicht erkundet haben, fast kommt es mir so vor als wäre ich beim Erkunden der Welt ein wenig zu vorsichtig gewesen. In der Regel ist es ja so das ich nicht zu weit von den Orten rennen möchte die mir die Hauptquest zeigt, aber im Falle von Hochinsel war es wirklich schwierig eine klare Linie zu erkunden. Die Nordseite der Insel wurde von uns so gut wie gar nicht besucht und doch sind wir irgendwie durchgelaufen. Eine richtig klare Struktur konnte ich auf jeden Fall nicht erkennen. Heute betreten wir daher mehr oder weniger nachträglich die Todesmut-Feste. Eine weitere Ruhestätte eines großen Ritterordens den niemand zu vermissen scheint oder sich Sorgen macht was wohl aus ihm geworfen ist. Daher kommen wir jetzt in die Gleichung und Nullen ein wenig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 05.09.2022 - #1728 - ##81 - S12
+  ```
+
+##### #1729
+
+* Titel: `Let's Play ESO #1729 ##82 - In Geheimnissen und Schatten [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 82 des High-Isle DLCs - Sitzung 12
+  
+  Die Todesmut-Feste kostet uns erstaunlich viel Zeit dafür das hier eigentlich nicht soviel los ist. Ich habe mich ja schon ein wenig in Worten darüber ausgelassen aber ich will es auch gerne noch einmal tun. Wir haben hier also eine Festung eines großen Ritterordens der einst sehr bekannt war und von hohen Ehren, und jetzt, nur wenige Jahrhunderte später erinnert sich niemand mehr an sie und es gibt auch niemanden der sich um den Verbleib der großen Feste Gedanken macht? Es ist ja nicht so das eine Burg einfach so für sich steht, wenn nicht belagert wird ein solcher Ort konstant versorgt, Waren werden verschifft, Leute ausgebildet und im Umland wohnen wahrscheinlich auch einige Bauern die für das Essen jener Ritter und Soldaten verantwortlich sind. Warum also scheint es absolut nie jemanden zu kümmern was daraus wurde, oder wenn es bekannt wäre, wäre es vielleicht nicht irgendwie sinnvoll ein paar Warnungen um die Burg aufzustellen damit niemand diesem verfluchten Ort zu nahe kommt? Oder vertraut man einfach darauf das irgendwann schon ein Abenteurer kommt der die Probleme löst ohne dafür Geld von der Krone zu verlangen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 05.09.2022 - #1729 - ##82 - S12
+  ```
+
+##### #1730
+
+* Titel: `Let's Play ESO #1730 ##83 - der lange Weg nach Hause [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 83 des High-Isle DLCs - Sitzung 12
+  
+  "die Nadel bewegen", wäre ein weiteres Beispiel für das was ich heute angesprochen habe, grade erst in der Zeitung gelesen. "Pushing the needle" ist ein englisches Idiom das sich einfach nicht so richtig übersetzen lässt, genau wie foxdevilswild im Englischen ein wenig komisch klingen würde. Nun ja, wie dem aber auch sei, es ist schon sehr interessant das wir mit nur ein wenig Hilfe und drei Kartenstücken in der Lage sind einen Schatz zu haben der dann jemand Anderes dazu ermutigt und ermöglicht zurück in die alte Heimat zu gehen. Heimat ist generell so ein Begriff. Welche Heimat hat ein Känguru. In irgendeinen anderen Spiel habe ich darüber philosophiert das es nur wenige Orte gibt zu denen man wirklich jemals zurückkehren kann. Zeit wartet nie und der Ort mag vielleicht der Gleiche sein aber die Welt ist eine Andere und so kann man eigentlich nie am gleichen Platz mehrfach stehen, aber vielleicht ist das dann noch immer Heimat. Oder ist Heimat ein zeitloses Gefühl, ein Ort den man nicht betritt sondern lebt? Unser guter Kapitän scheint nicht für Philosophie in diese Richtung zu gebrauchen zu sein, schade.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 05.09.2022 - #1730 - ##83 - S12
+  ```
+
+##### #1731
+
+* Titel: `Let's Play ESO #1731 ##84 - Sengende Schatzsuche [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 84 des High-Isle DLCs - Sitzung 12
+  
+  Es gibt doch noch einen einzelnen Dungeon den wir nicht erkundet haben. Es handelt sich um den Feuertopf, ein Ort der ein wenig komisch benannt ist, insbesondere wenn man bedenkt das er gar keinen richtigen Deckel hat. Die eigentlich Quest die uns hier erwartet ist ein wenig sehr langweilig. Wir retten irgendwelche Spinner die eine schnelle Mark machen wollten, am Ende sind sie uns dankbar und werden jetzt bestimmt unsagbar reich. Wow. Interessanter ist eigentlich das das hier die ungefähr tausendste Höhle ist in der wir rumhängen die von draußen einen eher unscheinbaren Eingang hat, aber wenn wir drinnen sind können wir durch gewaltigen Löcher in der nicht minder gewaltigen Decke ferne Städte erkennen, große Wasserfälle und ganze Ökosystem finden wir hier, Nichts von dem was man hätte draußen erahnen können. Das stört mich ehrlich gesagt ein wenig, sehr.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 05.09.2022 - #1731 - ##84 - S12
+  ```
+
+##### #1732
+
+* Titel: `Let's Play ESO #1732 ##85 - Empyrische Briese [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 85 des High-Isle DLCs - Sitzung 12
+  
+  Und wir sind wirklich am Boden des Fasses angekommen, wir kratzen quasi den Fassboden. Und das bedeutet das es wirklich nichts mehr für eine einzelne Elfe zu tun gibt auf Hochinsel. Wir können natürlich noch an einer Siegesfeier teilnehmen, aber das werden wir so oder so tun, dafür müssen wir uns nicht bemühen. Selbstverständlich steht noch die eine Sache aus die ich viel zu lange vor mir hergeschoben habe. Das tut mir natürlich unendlich leid aber Begleiterpunkte zu farmen dauert ein wenig. Aber wir überbrücken heute die Zeit indem wir uns ein wirklich großes Schiff angucken, ein Schiff das wirklich hochseetüchtig aussieht im Gegensatz zu den ganzen kleinen Schaluppen die wir bisher so im Dienst der verschiedenen Leute gesehen haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 05.09.2022 - #1732 - ##85 - S12
+  ```
+
+##### #1732
+
+* Titel: `Let's Play ESO #1733 ##87 - das Korallenrätsel [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 86 des High-Isle DLCs - Sitzung 13
+  
+  Gute Neuigkeiten, ich habe es geschafft eine weitere kleine Quest zu finden, das verschafft mir noch mehr Zeit die ich mit irgendwelchen anderen Dingen verbringen kann und das ist doch nun wirklich fantastisch oder? Heute geht unser Weg also in die Korallenhöhle, wir waren eigentlich sogar schon einmal da und haben einen gewissen Großkönig aufgelesen, daher konnten wir damals auch keine andere Mission machen und irgendwelchen weniger wichtigen Leuten helfen. Jetzt ist aber endlich Zeit, wir gut das Rettungen und Ritualopfer nie irgendwie dringend sind und man sich da durchaus ein wenig Zeit lassen kann bis Dinge geschehen. Außerdem erfahren wir auch noch das die Möglichkeit besteht das ein gefangener Pirat von seinem Kapitän gegen Gold ausgelöst werden kann. So wird das nichts mit dem Ende der Piraterie, insbesondere wenn man bedenkt wie grausam einige der Meereselfen sind. Das alles ergibt also relativ wenig Sinn. Aber immerhin ist den Maormern auch direkt bekannt das das was sie tun ungehörig ist. Yeah?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 10.09.2022 - #1733 - ##87 - S13
+  ```
+
+##### #1733
+
+* Titel: `Let's Play ESO #1733 ##87 - Funkes kalte Spur [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 87 des High-Isle DLCs - Sitzung 13
+  
+  Wir haben ein wenig Vertrauen in unsere Begleiter aufgebaut und es stellt sich heraus das Funke eine dunkle Vergangenheit hat. Irgendwie. Einst hat sie zusammen mit anderen Straßenkindern auf den Straßen von Himmelswacht gewohnt. Wo genau das gewesen sein soll ist mir allerdings ein Rätsel weil Himmelswacht einfach nicht über eine größere Mengen an Gassen verfügt, außerdem passt das Alter von dem sie erzählt nicht so richtig zusammen. Generell und überhaupt ergibt das Alles relativ wenig Sinn. Im ersten Moment klang es halt so das sie als kleines Kätzchen auf den Straßen gelebt hat, aber dann war das alles nur ein paar Jahre her, quasi seitdem sie beim guten Zauberermeister war. Das passt hinten und vorne nicht, entweder hier steckt noch ein weiteres Geheimnis hinter oder jemand hat vermieden einen richtigen Zeitstrahl zu etablieren.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 10.09.2022 - #1733 - ##87 - S13
+  ```
+
+##### #1735
+
+* Titel: `Let's Play ESO #1735 ##88 - Jhaka der Pahmar [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 88 des High-Isle DLCs - Sitzung 13
+  
+  Das Thema Sklaverei hatten wir eigentlich schon im Morrowind DLC reichhaltig durchgesprochen. Größtenteils ist die Erkenntnis die das sich Sklaverei nie so richtig lohnt wenn es die Sklaven einen zu schwer machen und es noch andere Leute auf dem Markt gibt. Wenn es ausreichend viele Leute gibt die man immer durch verschleißen kann, man sadistisch veranlagt ist und sich um die eigene geistige Gesundheit keine Sorgen machen muss geht da aber eventuell trotzdem etwas. Unser neuer Freund Jhaka war anscheinend ziemlich lange Sklave der Dunkelelfen und hat dabei gutes Geld verdient, was wir leider nicht rausgekriegt haben ist warum irgendwelche Banditen eine größeren Khajiit gekauft haben, was sie damit vor hatten und warum der Tavernenbesitzer seine "Goldgrube" nicht einfach gesund gepflegt hat. Es erscheint mir irgendwie absolut unwahrscheinlich das jemand so wenig Geschäftssinn hat. Na wie dem auch sei, mir bleibt verwehrt ein signifikantes Blutbad anzurichten, vielleicht auch ganz gut so. Am Ende spricht sich das rum.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 10.09.2022 - #1735 - ##88 - S13
+  ```
+
+##### #1736
+
+* Titel: `Let's Play ESO #1736 ##89 - Kaltes Blut, Alter Schmerz [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 89 des High-Isle DLCs - Sitzung 13
+  
+  Wenn einen die Vergangenheit wieder einholt ist das in der Regel nie etwas Gutes. Selten kommt es vor das Leute etwas hinter sich gelassen haben das sie dann wieder einholt wenn es etwas war an das man gerne zurückgedacht hat. Der Auftragskiller im Frühruhestand denkt ja auch nicht voller guter Gedanken an die Schreie seiner Opfer zurück, es sei den er ist ein Psychopath, aber dann stellt sich ein wenig die Frage warum sie aufgehört hat. Also können wir davon ausgehen das es etwas Schlechtes ist wenn einen Erinnerungen plagen. Ich persönlich habe da maximal so Duschmomente wenn ich mich an Situationen erinnere in denen ich unendlich peinliche Dinge gesagt habe. Ich hoffe inständig das sich niemand sonst an diese hochnotpeinlichen Situationen aus ferner Vergangenheit erinnern kann.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 10.09.2022 - #1736 - ##89 - S13
+  ```
+
+##### #1737
+
+* Titel: `Let's Play ESO #1737 ##90 - Silbertritts warme Spur [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 90 des High-Isle DLCs - Sitzung 13
+  
+  Die Angelegenheiten von Funke liegen relativ weit in der Vergangenheit. Es ist uns tatsächlich absolut nicht bekannt über welchen Zeitraum in Jahren wir hier reden. Weiter wissen wir auch wenig bis Nichts darüber wie lange es dauert wie lange verschiedene Khajiit Geschmacksrichtungen brauchen bis sie erwachsen sind oder zumindest so aussehen als wäre das der Fall. Und was bei Funke noch als Kindheit qualifiziert. Lange Geschichte kurz, die Einschätzung wann die Vergangenheit und bestimmte Ereignisse waren können wir wirklich nicht absehen. Aber, es scheint so als wären die Spuren die wir am Anfang hatten nicht alle kalt. Stattdessen wird es sogar wärmer. Auch wenn es aktuell sehr so aussieht als würde uns unsere nächste Adresse zu einem Greis und danach zu einer Leiche führen, oder einem sehr traurigen Käfig. Aber vielleicht gibt es ja noch irgendwo Aufzeichnungen die uns dann weiterhelfen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 10.09.2022 - #1737 - ##90 - S13
+  ```
+
+##### #1738
+
+* Titel: `Let's Play ESO #1738 ##91 - Silbertritts leuchtene Augen [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 91 des High-Isle DLCs - Sitzung 13
+  
+  Personen und insbesondere Freunde erscheinen in den Erzählungen von anderen Leuten immer ein wenig größer oder vielleicht auch kleiner als sie es in der Wirklichkeit sind. Bis vor Kurzem ging ich übrigens davon aus das Funkes kleine Straßengang aus vier Khajit bestand. Das ist soweit nicht richtig, anscheinend handelte es sich viel mehr um zwei Khajit, einer Waldelfin und einer Rothwardonin. Insofern kann man schon jetzt davon ausgehen das Silbertritt wesentlich kleiner ist oder war als in meiner Vorstellung weil Waldelfen halt nun mal kleiner sind als die meisten anderen Leuten. Das hilft wahrscheinlich beim Klettern durch die Bäume. Diese Laubelfen. Unsere Spur hat uns in die Tiefen von Schattefenn geführt. Man kann nicht direkt sagen das die Dschungel verlassen sind aber so richtig lebendig ist es hier auch nicht, die Bevölkerungsdichte könnte man durchaus schon als ländlich bezeichnen. In solchen Landstrichen gibt es dann natürlich auch dunkle Höhlen und verlassene Ruinen. Und in solchen Ruinen lauern Banditen oder Schlimmeres.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 10.09.2022 - #1738 - ##91 - S13
+  ```
+
+##### #92
+
+* Titel: `Let's Play ESO #1739 ##92 - Grün vor Neid [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 92 des High-Isle DLCs - Sitzung 14
+  
+  Mir fällt auf das ich in Situationen wie diesen hier immer einen kleinen Schwank aus meiner eigenen Jugend erzähle. Aber etwas Besseres fällt mir nicht ein. Der Titel der heutigen Episode ist der Questname und nachdem ich das gute Stück jetzt beendet habe habe ich leider immer noch keine Vorstellung warum sie so heißt. Zurück zu meiner Jugend. Als der Mond noch jung und ich ein kleiner Bub war der Aberglaube noch ein wenig mehr in der Welt. Das Internet war zwar schon erfunden aber noch nicht verbreitet. Kommunikation noch lokal und Menschen waren generell ein wenig mehr auf das Dorf oder die Stadt in der sie lebten fokussiert. Meine Großeltern väterlichseits erzählten mir eines Tages von der Bedeutung von Farben. Rot wie die Liebe, Lila das Glück und Gründ der Neid. Ich fand es immer komisch das Grün nicht die Farbe des Glückes ist. Kleeblätter sind grün, da erscheint das doch irgendwie logisch. Wenn ich jetzt, Äonen später darüber nachdenke, würde ich vermuten das es daran lag das Purpur früher eine sehr seltene Farbe war und damit auch wertvoll. Es zu tragen hieß wohl das man recht glücklich war. Und neidische Menschen sind grün. Meine eigene Haltung zu Neid hat sich ein wenig gewandelt im Laufe der Jahre. Ich bin mir ziemlich sicher das ich recht oft neidisch bin, das liegt aber eher daran das ich in vielen Situationen nicht daran glaube das bestimmte Leute ihre Position oder Reichtum wirklich verdient haben. Und wenn Korruption, Seilschaften und Kontakte dafür verantwortlich sind das man in einer guten Position ist dann kann ich das nicht respektieren. Und mache mich damit selbst zu einem Zwiegesicht. Weil, viel was ich selbst erreicht habe ist das Ergebnis von Glück. Wo zieht man da die Grenze? Brauchen wir eine bessere Gesellschaft damit Glück nicht mehr so wichtig ist? Auf jeden Fall bin ich nicht grün, aber ich hatte mal überlegt meine Haare grün zu färben, mit 16 oder so. Hab ich dann nicht gemacht, später sah ich mal jemanden mit grünen Haaren. Wenn man nicht grade ein E-Girl ist sieht das auch ziemlich doof aus fürchte ich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 16.09.2022 - #1739 - ##92 - S14
+  ```
+
+##### #1740
+
+* Titel: `Let's Play ESO #1740 ##93 - das Smaragdauge [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 93 des High-Isle DLCs - Sitzung 14
+  
+  Die Elder Scrolls Welt ist alle, ich bin mir da übrigens immer noch ein wenig unsicher wie ich sie genau bezeichne. Entweder als Nirn oder Tamriel. Wobei Ersteres die ganze Ebene ist und das Zweite nur der Kontinent auf dem wir die ganze Zeit herumlaufen. Da gibt es dann noch ein wenig Metaphysik mit den verschiedenen Zeiten und das die Kontinente quasi die vorherige "Kalpa" und die Kommende symbolisieren während man sie durchaus physisch bereisen kann, auch wenn andere Orte wie Atmora irgendwie nicht mehr sind oder vom ewigen Frost überzogen wurden. Der Nerevarine wird nach Akavir gegangen sein wenn er denn bald wiedergeboren wird. Und das ist dann ja eigentlich die nächste Zeit die aber noch nicht bereit ist. Und doch, jetzt in diesem Moment leben da Spinnen, Drachen und irgendwie auch Menschen. Selbst Tamriel ist als, ein paar tausend Jahre sind definitiv schon vergangen und dann haben auch noch Völker von woanders Dinge mitgebracht. Was ich damit sagen will, es ist ziemlich wahrscheinlich das man irgendwie in der Wüste, einen fernen Wald oder einem hohen Berg unter einigen Steinen ein Artefakt von immenser Macht finden kann. Man kann sich das ein wenig wie nuklearer Müll vorstellen. Das Zeug geht nicht kaputt, maximal ganz langsam, ist maximal gefährlich und irgendwann wird es sicher entdeckt werden. Es handelt sich nicht um an sich verfluchte Gegenstände die die Wahrscheinlichkeit beeinflussen und gefunden werden wollen wie zum Beispiel der eine Ring. Aber wenn sie gefunden werden können sie das Leben enorm ändern. Anscheinend hat eine Familie ein Artefakt gefunden, später erfahren wir das es "das Smaragdauge" heißt, das über gewaltige Macht verfügt. Das verzerrt Menschen, und das hat wohl auch dafür gesorgt das Lied entführt wurde, weil die vergessenen Erbauer des Artefakts Grenzen eingebaut haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 16.09.2022 - #1740 - ##93 - S14
+  ```
+
+##### #1741
+
+* Titel: `Let's Play ESO #1741 ##94 - Lied's Befreiung [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 94 des High-Isle DLCs - Sitzung 14
+  
+  Ich bin nicht stolz auf den Titel dieser Episode. Er ist so simpel, so einfach und so stumpf. Wir gehen also heute unserer Spur hinterher und finden Lied. Ganz einfach, wir werden übrigens auch ihren Vater töten, praktischerweise auch den Anführer des Smaragdauges was der Organisation einem empfindlichen Schlag versetzt. Vielleicht sogar den Anfang vom Ende markiert. Und doch wünschte ich mir das es anders gelaufen wäre. Das hier schließt Funkes Questreihe ab und ich hätte mir wirklich eine andere Geschichte zu erleben erhofft. Zum Beispiel hätten wir Jakha und Silbertritt gleich am Anfang gefunden, die beiden sind unterschiedlich genug um mit auf der Reise genommen zu werden, sie waren ja eh die ganze Zeit dabei. Diese ganze Straßenkindstory war von Anfang an ein wenig inkonsistent und an sich ist es ja auch Funkes Geschichte und doch..ein wenig mehr Interaktion, Konflikt zwischen den beiden wieder vereinten Gefährten wäre gut gewesen. In der zweiten Quest hätten wir dann Lied befreit, aber nicht direkt aus dem Kontakt mit dem Artefakt sondern irgendwo woanders, natürlich nachdem wir erst verschiedenen Spuren hinter her gejagt hätten und vielleicht sogar überraschend. Man stelle sich vor das wir eigentlich verschiedene Informationen befragen, vielleicht sogar einer toten Spur hinter her laufen, noch einmal zurückgehen und dann einfach so Lied finden weil ein Agent des Smaradgauges unvorsichtig wurde. Und dann, in der dritten Quest suchen wir das Artefakt selbst und versuchen die Organisation aufzuhalten. Hier hätten wir dann Interaktion zwischen den vier Kindheitsfreunden und uns. Wieder jagen wir Spuren nach, haben partielle Einsichten von Lied selbst und natürlich die Unterstützung des Königs der uns weiter Puzzleteile zur Verfügung steht. Alles in einer Atmosphäre in der uns Agenten des Smaragdauges nachjagen und wir uns vor Spionen vor sehen müssen. Am Ende landen wir dann da wo wir landen, aber wir sind es nicht die den letzten Schlag landet sondern Funke selbst. Das Ende bleibt natürlich offen und es nicht klar ob das Smaragdauge wirklich geschlagen ist, ihre mächtige Vorhersehung ist vielleicht Geschichte aber sie haben immer noch Geld und Einfluss. Es könnte immer eine Runde Zwei geben. Nur die Zeit wird zeigen was wird. Vorhang runter, Applaus. Nächstes Abenteuer. Oder so. Die Details sind bestimmt schwieriger und ich habe nicht das Handwerkszeug das zu schreiben, schade.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 16.09.2022 - #1741 - ##94 - S14
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #TEMPLATE
 
 * Beschreibung:

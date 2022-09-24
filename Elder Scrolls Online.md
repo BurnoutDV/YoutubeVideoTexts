@@ -8011,6 +8011,74 @@
   Aufnahme vom 16.09.2022 - #1741 - ##94 - S14
   ```
 
+##### #1742
+
+* Titel: `Let's Play ESO #1742 ##95 - das verlorene Symbole [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 95 des High-Isle DLCs - Sitzung 15
+  
+  Symbole sind für die Menschen wichtig, so wie auch Ikonen oder Banner. Etwas was die Leute sehen können und daran glauben. Natürlich ist es für das Individuum nicht so einfach aber in der großen Masse ist das Symbol alle. Ein Zeichen das eine Gemeinschaft, eine Philosophie oder eine Religion darstellt ohne das man darüber viele Worte verlieren muss. Etwas das Gefühle erweckt oder bestimmte Assoziationen erweckt. Alle das ist heute aber ein wenig anders, das Symbol das heute verloren gegangen ist ist das des Hauses Veloise, anscheinend ein größeres Handelshaus. Warum das zu gelassen das die  eigene, einzige Tochter sich dem gefährlichen Handwerk des Rittertums hin gibt ist mir übrigens nicht ganz klar, aber das setzt uns auf die heutige Schnitzeljagd.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 21.09.2022 - #1742 - ##95 - S15
+  ```
+
+##### #1743
+
+* Titel: `Let's Play ESO #1743 ##96 - Kiv's praktische Spuren [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 96 des High-Isle DLCs - Sitzung 15
+  
+  Nein, ich hab spontan keine Ahnung wie man die Spur von Kiv hätte besser verfolgen können, aber das er wirklich durch die gesamte Realität reißt macht es nicht besser. Es ist also wieder einmal Zeit ein System zu erwähnen. Nennen wir es "Suspension of Disbelieve Punkte". Das Konzept erwähne ich ja öfter, Pferde müssen wie Pferde funktionieren damit Drachen fliegen können. Eine Welt kann nur so fremd sein bis sie nicht mehr vom Konsumenten angenommen wird, und das schlägt sich in einer quantifizierbaren Ressourcen nieder. Die Tatsache das Kiv überall wo wir hingehen Tagebuchseiten und Mitwisser hinterlässt schlägt schon sehr auf meinem Bullshit-O-Meter aus. Mann kann ja durchaus Punkte zurückgewinnen in dem man die Mechanik der Welt erklärt oder eine gute übergeordnete Erklärung dazu dient die auffällige Ansammlung von praktischen Spuren zu erklären. Zum Beispiel könnte der Siegelring einen realitätserschütternden Fluch in sich tragen der dem nicht rechtmäßigen Besitzer ein spezifisches Pech beschert von wahren Besitzer gefunden zu werden. Das ist zwar nicht leichter zu verdauen aber das würde gut erklären warum wir es so leicht haben. Dann brauchen wir nur noch eine gute Erklärung warum der Ring so wäre, und immer so weiter, die Geschichte erzählt sich quasi von alleine oder? Haben wir aber nicht. Zurück zum Thema. Richtig viele Punkte kostet auch das wir wirklich gesamt Tamriel vermessen, von links nach recht, von unten nach oben. Schiffe brauchen Zeit, wir können laut Kanon in Nullzeit reisen, das ist zwar etwas obskure Lore aber sie existiert, Isobel könnte wohl aber nicht mit. Und dennoch, das macht mich fertig, wie 'casual' wir durch die Weltgeschichte reisen, als wäre Entfernung Nichts. Vielleicht können wir deshalb keine "Heroes Journey" haben, es gibt keine Strecke zu überwinden. Wie dem aber auch sei, wir kommen dann auch irgendwann wo an, bestimmt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 21.09.2022 - #1743 - ##96 - S15
+  ```
+
+##### #1744
+
+* Titel: `Let's Play ESO #1744 ##97 - Liebhaberspur [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 97 des High-Isle DLCs - Sitzung 15
+  
+  Und wieder finden wir Kiv Lindres nicht, keine Angst, am Ende werden wir entweder ihn oder seine Leiche finden. Was wir aber stattdessen finden ist eine Reihe von verschmähten Liebschaften seinerseits. Man würde ja auch normalerweise glauben das der Titel "Liebhaberspur" impliziert das es vielleicht eine Spur für Liebhaber einer bestimmten Richtung ist, vielleicht der schmalzigen Liebeskomödien. Oder das wir vielleicht die Spur eines Liebhabers finden. Aber nein, ganz anders, stattdessen erlaubt uns das Deutsche hier tatsächlich erstaunlich viel Ungenauigkeit und was wir stattdessen vorfinden sind diverse Liebhaber. Immerhin muss man dem guten Kiv zu Gute halten das er weder Rasse noch Geschlecht sieht. Er sieht nur Personen die er verführen und dann ausrauben kann. Das ist eine Art von egalitäre Sichtweise wie man sie nur selten trifft. Ärgerlicherweise ist der Rest der Person wohl nicht ganz so mehrheitsfähig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 21.09.2022 - #1744 - ##97 - S152
+  ```
+
+##### #1745
+
+* Titel: `Let's Play ESO #1745 ##98 - Kiv Lindres [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 98 des High-Isle DLCs - Sitzung 15
+  
+  Ich gebe zu ich hab das hier ganz schön in die Länge gezogen. Das tut mir irgendwie ein wenig leid, dafür das es sich hier bis her um die wesentlich schlechtere Questreihe gehandelt hat ist es schon erstaunlich das wir uns so lange damit aufgehalten haben. Andererseits mussten wir auch mehrfach durch die gesamte Welt reisen, so etwas kostet Zeit, und dann fällt mir noch zu jedem Ort irgendetwas ein, meistens irgendwelche Nostalgie. Wir treffen dann übrigens den ach so schönen Kiv, meine Erwartungen waren ehrlich gesagt schon niedrig aber die Spielgrafik enttäuscht dann noch einmal umso mehr, Kiv sieht halt aus wie ein 08/15 Dunkelelf, so viel sei schein einmal verraten. Generell und überhaupt ist das Ende dieser Quest aber auch im Gesamten sehr anti-klimatisch, klar, wir können noch ein wenig puritanische Gerechtigkeit walten lassen aber das war es dann auch schon.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 21.09.2022 - #1745 - ##98 - S15
+  ```
+
 ##### #Nummer
 
 * Titel: ``

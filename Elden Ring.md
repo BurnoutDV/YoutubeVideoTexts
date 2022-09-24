@@ -1439,6 +1439,81 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #96
+
+* Titel: `Elden Ring - #96 - Schlossplatz Rotmähne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Festung Rotmähne ist noch nicht fertig, das erwähnte ich ja bereits in der Vergangenheit. Natürlich, Radahn ist besiegt und damit das große Festival geschafft, aber das war ja nicht der einzige Grund da zu sein wo wir waren oder? Stattdessen gibt es ja immer noch die Burg mit all ihren Burgzinnen, Geheimnissen und eventuell versteckten Schätzen. Ich muss aber sagen das ich relativ enttäuscht von dem bin was wir hier vorfinden. Bis auf die Schwertlöwen die wir bereits in der Vergangenheit zu Fall gebracht haben scheint die Einrichtung nichts Originelles zu besitzen. Für einen solche geschichtsträchtige Ort mit einer gewissen Signifikanz bin ich doch recht enttäuscht. Und das Tor geht auch nicht auf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 17, Aufnahme vom 13.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #97
+
+* Titel: `Elden Ring - #97 - Heilighornland 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jeder liebt Wiederholungen. Dinge die einem einmal Spaß gemacht haben als man sie zum ersten Mal gesehen hatte machen sicherlich auch beim zweiten Mal wirklich viel Spaß oder? Und daher gehen wir heute wieder in das Heilighornland. Es ist übrigens faszinierend das es sogar exakt gleich aktiviert wie wie beim ersten Mal das wir in einem waren. Und wieder begegnet uns irgendein komischer Ahnengeist. Man muss fairerweise sagen das dieser durchaus ein wenig stärker ist und uns ein wenig mehr Zusetzt. Aber natürlich habe ich meine Begleiter weise gewählt und daher gibt es natürlich keine Probleme, wie sollte es auch sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 17, Aufnahme vom 13.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #98
+
+* Titel: `Elden Ring - #98 - Tiefen von Tiefwurz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wer hätte es gedacht, wenn man sich extrem viel Mühe gibt irgendwelche Gargyls zu besiegen landet man auf einmal ganz woanders. Zum Beispiel in einer Region unterhalb von Leyndell, was genau wir hier eigentlich wollen ist mir übrigens beim besten Willen nicht klar, aber ich habe mich immerhin sehr bemüht hier her zu kommen, und jetzt wo wir da sind können wir das Gebiet ja immerhin erkunden. Ich persönlich finde die riesigen Ameisen übrigens nicht besonders anziehend. Irgendwie ist das ein Gegnertyp den ich eher nicht leiden kann. Irgendetwas an den Viecher ist verstörend, und damit meine ich nicht den viel zu kleinen Kopf der gute Kopftreffer eher schwierig macht. Ich sollte wirklich dieses Ameisen-Easter Egg spielen...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 17, Aufnahme vom 13.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #99
+
+* Titel: `Elden Ring - #99 - Mausoleumswächter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um es kurz zu machen, wenn du Inhalt erwartest, hier ist er nicht. In dieser Episode renne ich sinnlos umher und jage einem Phantom nach nur um dann zu realisieren das mein Weg nicht der Richtige war. Glücklicherweise farmen wir immerhin ein paar Seelen/Runen dabei, aber das was hier tue ist an sich falsch. Meine Erinnerung hat mir einen Streich gespielt. Aber keine Angst, gleich am Anfang der nächsten Episode werde ich mich erinnern was ich falsch tat und alles richtig stellen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 18, Aufnahme vom 20.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #100
+
+* Titel: `Elden Ring - #100 - vertrauenswürdige Reisesärge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Reisesarg ist ein Wort das man außerhalb von Fantasie nicht wirklich lesen wird. Denke ich. Auf der anderen Seite wurde die Queen neulich beerdigt und der Sarg von Schottland nach London überstellt, ich denke mal wir könnten hier ein Argument machen das es sich auch um eine Reisesarg handelte. Aber zurück zum Thema. Die meisten Särge sind mehr eine Endhaltestelle, ein letzter Ruheort als Erinnerung für das gedacht was war. Manchmal sogar als Wegwerfbehältnis für die Verbrennung. Die Reisesärge die ich im Sinne habe sind mehr für die Art von Toten gedacht die sich noch ganz gut bewegen können. In alten Vampirsagen heißt es zum Beispiel das ein Vampir nicht die Erde seiner Heimat verlassen kann. Die einfachste Lösung ist wohl einfach immer ein wenig Erde mit zu bringen. Auch stellt sich die Frage was passiert wenn der entsprechende Blutsauger von dem Boden entfernt wird die ihm bindet. Muss sie dann sofort zurückkehren oder ist das eine Grenze die einfach nur überschritten werden muss? Wie dem aber auch sei, der Reisesarg den wir heute nutzen hat nicht einmal Strickzeug drin. Und er ist ein wenig magisch, von Erde sieht man aber nichts, vielleicht auch ganz gut so, am Ende wird sonst noch unser schöner Schal dreckig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 18, Aufnahme vom 20.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

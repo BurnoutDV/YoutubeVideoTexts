@@ -714,6 +714,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #48
+
+* Titel: `GreedFall - #48 - die heiligen Tafeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man seiner Religion irgendeine Art von Legitimität verschaffen will hilft es auf jeden Fall wenn man so etwas wie heilige Orte, heilige Objekte und selbstverständlich auch heilige Worte hat. In der Regel kommt das Ritual dann auch relativ schnell danach. Das alles hilft enorm, schließlich ist das etwas an das man sich festhalten kann, etwas auf das man seinen Glauben stellen kann. Und das ist dann wohl auch der Fluch des ewigen Zweifels. Die gleiche Kraft die es erlaubt wissenschaftlichen Fortschritt und philosophische Entwicklung zu gewährleisten macht es enorm schwer an irgendetwas zu glauben. Man stelle sich vor ein paar krasse Zufälle geschehen, ein günstige Rettung einer nahen Person. Man könnte das als Gnade Gottes sehen, aber der Zweifler sieht hier nur ein paar günstige Würfelwürfe. Das reine Wort oder eine triviale Aneinanderreihung von Ereignissen ist einfach nicht genug. Hat man jetzt aber Artefakte oder etwas das ein wenig solider die Existenz eines großes Gottes beweist sieht die Sache vielleicht schon anders aus. Für den Moment haben wir aber echt wenig Hinweise das das Licht existiert. Da gäbe es zum Beispiel die Magie der Theléme Fraktion, die funktioniert, aber beweist das irgendetwas vom Licht? Stattdessen finden wir heute die Tafeln des großen Gründers, hier hoffen sich die Gläubigen neues Futter zu finden, aber was wenn der Inhalt genau dem widerspricht an das sie immer geglaubt haben? Wie manövriert sich der Klerus dann heraus? Es bleibt spannend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 7, Aufnahme vom 15.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #49
+
+* Titel: `GreedFall - #49 - Pakt gegen Gefallen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Nauten sind wie eine Fraktion aus Wheel of Time, ja, das schlägt sich absolut in mein Denken nieder, so bin ich halt, was ich lese und erlebe beeinflusst meine Art Dinge zu vergleichen ziemlich stark. Ich glaube verschiedene andere Fantasy und Sci-Fi Welten haben auch die Klischee-Händler. Absolut hart und unrealistisch tief drin in ihrer Philosophie aber halt auch an ihr Wort gebunden, wenn auch nur an dem Wortlaut. Lange Geschichte kurz, wenn man mit den Nauten handelt dann geben sie was man verlangt hat sollte man die eigene Seite der Verhandlung erfüllt haben. Und das tun wir ja immer, schließlich sind wir der Legat der Händlerkongregation (ich mag das Wort Legat irgendwie mehr als Verhandler, Diplomat oder sonstewas). Und da wir zu unserem Wort stehen tun das auch die Nauten, und so erfahren wir heute von Dingen die wir irgendwie schon wussten, größtenteils weil wir das entsprechende Wissen aus dem Glossar geholt haben der wohl nicht so ganz mit Progression im Geist geschrieben wurde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 7, Aufnahme vom 15.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #50
+
+* Titel: `GreedFall - #50 - Nautengeheimnisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte in der letzten Folge das wir etwas für die Nauten tun und wir dafür Geheimnisse erfahren und dabei implizierte ich das wir das Geheimniss bereits in seiner Fülle kannten. Dem ist selbstverständlich nicht ganz so, insbesondere weil wir den Gefallen noch gar nicht erfüllt haben. Aber keine Angst. Das machen wir dann heute. Nebenbei finden wir außerdem noch heraus das die Nauten ebenfalls finstere Geheimnisse für sich behalten haben. Andauernd glaubt man das die große, mächtige Magie der Meere ihnen dabei hilft die See zu navigieren. Heute finden wir wertvolles Gerät, Gerät das aber nicht den Hauch von Magie trägt. Was das angeht haben wir aber auch noch keine echte Erklärung erfahren wie die Magie eigentlich funktioniert oder hätten irgendwelche magischen Geräte gesehen. Hier muss man übrigens auch unterscheiden. Handelt es sich um ein magisches Artefakt das irgendetwas tut oder um eine magische Maschine die nach außen normale Realität repräsentiert aber Innen mit Magie läuft. Für die Gerätschaften der Nauten können wir übrigens beides verneinen, beides läuft Innen mit normaler Realität, das ist fast schon enttäuschend, spricht aber auch dafür das die technische Entwicklung der Menschen irgendwie stecken geblieben ist wenn die Nauten das schon länger so betreiben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 7, Aufnahme vom 15.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #51
+
+* Titel: `GreedFall - #51 - das Geheimnis der Prinzen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und hier sind wir wieder, zurück in Neu-Serené und mit der Erwartung endlich mehr darüber zu erfahren warum es so viele Bauwerke der Händlerkongregation auf der Insel gibt. Wir wissen das sie hier waren aber vorher hat uns niemand gebriefed und es hieße doch vorher das man nichts von der Insel wusste und sie erst vor wenigen Jahren entdeckt wurde. Nun, ich kann das Geheimnis hier direkt ausschreiben weil es am Anfang der Episode vorkam. Die Handelsprinzen waren immer im Bilde, es gab keinen Zeitpunkt an dem sie nicht zur Insel gefahren sind, kleinere Expeditionen sind immer wieder zur Insel aufgebrochen und haben irgendwelche Dinge getan. Warum man dann zugelassen hat das das große Geheimnis verkauft wurde ist allerdings noch unklar. Richtig ist aber das sich dadurch auch unser eigener Ursprung wesentlich besser klärt. Jetzt ist allerdings noch die Frage warum wir, als Kind einer Doneigad eigentlich nicht ein Geschenk der See sind wenn die Nauten in der Hinsicht doch so klare Regeln haben. Aber diskutieren wir das Thema nicht weiter, ich glaube nicht das die Nauten mit Mitte 20 anfangen werden mich plötzlich zu adoptieren. Wichtig ist jedoch das uns diese besondere Stellung und Mischung aus beiden Welten wohl eine gewisse Brückenrolle wesentlich besser wahrnehmen lässt. Wir sind quasi der geborene Diplomat, schon immer gewesen. Nachdem wir das jetzt erfahren haben geschehen noch ein paar andere Dinge, darüber rede ich dann aber beim nächsten Mal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 7, Aufnahme vom 15.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #52
+
+* Titel: `GreedFall - #52 - Hochverrat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wisst ihr noch neulich als ich mit Kurt im Wald rum gehangen habe? Wir waren ein wenig spazieren und fanden ziemlich zufällig ein Ausbildungslager der Groschengarde. Darin hat man wohl die nächtliche Ausbildung praktiziert, einen Umstand der von Kurt nicht all zu leicht aufgenommen wurde. Außerdem haben wir noch diverse Rekruten mit unserer goldenen Zunge davon überreden können das ihr Streben ziemlich Sinn befreit ist und sie sich langsam aber sicher einmal zusammenreißen sollten. Eventuell haben wir bei der Gelegenheit auch die Bedrohung eines Umsturzes und groß ausgeführten Putsches seitens der Groschengarde entdeckt. Uns wurde dann gesagt das Kurt sich darum kümmert das genau diese Bemühungen zunichte gemacht werden. Nun, jetzt sind wir hier, und sieh an, die Groschengarde im Großen und Ganzen ist wohl bemüht zu putschen. Wie genau das die Junta jetzt machen will ist mir übrigens nicht bewusst, weil letztendlich basiert alles was die Handelskongregation hat darauf das man weiß das man sich auf sie verlassen kann, und mit einer Puppe an der Spitze erscheint mir das wenig wahrscheinlich, und das Militär hat die Garde ja eh schon immer gestellt. Wen genau wollen sie also ersetzen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 7, Aufnahme vom 15.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

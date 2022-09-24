@@ -83,6 +83,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #6
+
+* Titel: `Yakuza 5 - #6 - Ansinnen an die Götter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Religion ist ein großes Ding. So allgemein und generell. Ich glaube in Japan hat man relativ vereinten Glauben was den allgemeinen Ansatz angeht. Ich glaube weiter das die besonders krassen christlichen Fanatiker eher in Korea zu finden sind, aber wahrscheinlich  gibt es auch welche in Japan. Ein Teil der klassischen Ausübung besteht wohl darin das man die Götter der kleinen Dinge anbetet. Jeder Gegenstand hat eine kleine Gottheit bzw. einen Geist in sich dem man Opfer darbringen kann oder sollte. Wenn man jetzt einen großen Gefallen braucht dann bringt man sein Anliegen vor den Göttern und dann gibt es natürlich auch noch eine Opfergabe. Und wenn alles gut läuft erscheint Kazuma Kiryu um deine Probleme zu lösen. So weit ich weiß spricht er aber kein gutes Englisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 1, Aufnahme vom 12.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #7
+
+* Titel: `Yakuza 5 - #7 - ein Kollege in Not [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kiryu bzw. Taichi ist jetzt Taxifahrer. Mann kann noch nicht sagen das er besonders gut darin ist. Von einem Fahrer wird, so erfahren wir eigentlich erst später, wird eine gewisse Menge an Redetalent verlangt, die Fähigkeit wie beim Friseur den Fahrgast zu unterhalten und in einem angenehmen aber wahrscheinlich seichten Gespräch zu halten um die Zeit zu vertreiben. Ein bisschen wie eine Geisha, nur komplett anders. Taichi macht das alles noch nicht lange und kennt daher nicht alle Gepflogenheit die damit einher gehen, aber was er weiß ist das es blinkendes Taxi-Schild bedeutet das der Fahrer in Schwierigkeiten ist und das er Rettung benötigt. Anscheinend übrigens ein Wissen das sich noch nicht allgemein herumgesprochen hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 1, Aufnahme vom 12.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #8
+
+* Titel: `Yakuza 5 - #8 - eine andere Haruka [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Geschichte neigt dazu sich zu wiederholen, Dinge die einst geschahen können wieder passieren und Erfahrung vom ersten Mal sollten genutzt werden um bei der unweigerlichen Wiederholung nicht die gleichen Fehler zu begehen. Manche Ereignisse sind so generisch das sie wahrlich immer wieder geschehen, wenn auch ein paar Vorzeichen anders sind. Das sind dann die Story die die Geschichte durchziehen und die man in verschiedenen Kulturen kennt. Ein Klassiker ist das junge Liebhaber das die Hand einer anderen Person verlangt aber aufgrund elterlicher Vorurteile nicht kann. Kiryu erlebt heute allerdings eine Geschichte die so oft nicht geschieht, auch interessant, es ist ein wenig mehr gleich als nur ein Mann und ein Leuchtturm, sehr viel mehr sogar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 19.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #9
+
+* Titel: `Yakuza 5 - #9 - Drachen-Meeresfrüchte-Schale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen in der Welt der außerordentlich gestelzten Übersetzungen. Ich kann nicht sagen das ich mich besonders schuldig fühle. Wenn ich mehr Zeit und eventuell sogar eines von diesen unseligen Oxford Büchern hätte wäre ich vielleicht in der Lage eine Übersetzung zu erstellen die manchmal fast schon professionell wäre. Aber so ist es halt nicht, stattdessen übersetze ich laienhaft simultan mit dem erstbesten Wort das mir einfällt. Das ist manchmal ein wenig lustig, zumindest für mich, ich kenne ja offensichtlich die Bedeutung eines Wortes in beiden Sprachen und manchmal passen beide Seiten nicht perfekt aber mir fällt auf die schnelle kein besseres deutschen Äquivalent ein. Ironischerweise leidet meine Übersetzungsfähigkeit also unter meiner Unkenntnis der deutschen Sprache. Alternativ finde ich auch tolle Übersetzung wie diese großartige Bindestrich Konstruktion. Bis wir ein besseres Wort finden bleibt das jetzt auch so denke ich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 19.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #10
+
+* Titel: `Yakuza 5 - #10 - Komakis Training [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder. Aus Erfahrung aus 5 anderen Yakuza Spielen kann ich sagen das es sich lohnt die Questreihe die einen neue Fähigkeiten bringt so früh wie möglich zu machen.  Klar, ich könnte auch einfach den Schwierigkeitsgrad senken, aber das wollen wir doch nicht oder? Also werden wir einfach so schnell wie möglich OP und gewinnen dann halt ganz normal weil wir viel mächtiger sind als alle anderen. Alles was wir dafür tun müssen ist irgendeinen kleinen Jungen so lange aufs Maul hauen bis er sagt das er genug hat. Kann eigentlich gar nicht so schwer sein. Es stellt sich natürlich heraus das der Junge ziemlich resistent ist und am Ende muss ich mich auf eine kleine Käsetaktik verlassen aber es geht sich dann doch aus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 19.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

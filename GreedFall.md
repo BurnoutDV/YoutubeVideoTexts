@@ -789,6 +789,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #53
+
+* Titel: `GreedFall - #53 - Tierna harh Kadachtas [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen zurück in dem Spiel wo ich mir alle Mühe gebe die Namen der Eingeborenen richtig auszusprechen. Ich bin übrigens sehr dankbar das es nicht auf irgendeine tatsächliche Kultur basiert. Man stelle sich einmal vor in 10 Jahren wäre ich eine große Youtube Ikone und dann findet irgendjemand dieses Video hier in dem ich irgendwelche Namen indigener Völker falsch ausspreche und röstet mich dafür auf Twitter. Ich könnte es kaum aushalten. Aber das kann mir ja alles nicht passieren, zum Einen weil die Zeit der Grassroot Youtuber vorbei ist (oder nie existierte?) und weil die Namen ja alles ausgedacht sind. Eine gewisse Konsistenz findet sich auf jeden Fall in der Sprache und bestimmte Begriffe tauchen immer wieder auf. Die weiseste aller Frauen beziehungsweise die Chef-Schamanin hat aber einen Namen mit dem ich mich wirklich sehr schwer tue. Immerhin finden wir die Gute ohne großartige Probleme, leider fällt es uns nicht ganz so leicht sie auch dazu zu bringen uns zu zuhören. Aphra mit zu nehmen war auf jeden Fall ein Fehler.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 8, Aufnahme vom 22.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #54
+
+* Titel: `GreedFall - #54 - Wurzelpassage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wie ich schon bemerkte stellt sich heraus das die Kommunikation mit Erzpriestern manchmal ein wenig schwerer ist als man das auf dem ersten Blick glauben mag. Und so kommt es das wir heute ein wenig Verfolgen müssen. Immerhin, und ich würde behaupten das ist eigentlich etwas Gutes, beschäftigen wir uns dabei auch gleich noch ein wenig mit der Kultur der Eingeborenen. Wir erfahren viel darüber wie sie irgendwelche Türen absichern und wie sie mit der Magie ihrer Welt interagieren. Ob wir mit dem Wissen zu einem späteren Zeitpunkt noch irgendetwas anfangen sei für das Erste erst einmal dahingestellt, aber wichtig ist das wir jetzt wissen wie wir die oberste Priesterin die vielleicht eine Heilung für den Malichor kennt finden können. Wenn sie solange lebt und und nicht selbst in eine Todesfalle fällt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 8, Aufnahme vom 22.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

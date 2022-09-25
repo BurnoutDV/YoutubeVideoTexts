@@ -158,6 +158,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #11
+
+* Titel: `Yakuza 5 - #11 - Rennfahrer Suzuki [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kazuma Kiryu war eine Person mit vielen Talenten, aber diese Person die einst der vierte Vorsitzende des großen und mächtigen Tojo Clan gewesen war existiert nicht mehr. Man kann nicht direkt sagen das Kiryu tot ist, aber er ist einfach nicht mehr verfügbar. Was aber bleibt ist eine Person mit einem anderen Namen die über viele Talente verfügt. Kommunikation gehört übrigens nicht dazu, klar, der Mann der sich Taichi nennt kann klare Worte sprechen und weiß sich auch mit seinen Fäusten auszudrücken, allerdings gibt es auch Grenzen. Zum Beispiel hat er nie gelernt Smalltalk zu betreiben, und das setzt sich jetzt in den Weg. Immerhin können wir der Situation entkommen in dem wir stattdessen ein Rennen fahren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 19.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #12
+
+* Titel: `Yakuza 5 - #12 - Tatsuya der Gourmet [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Berufe die ich nicht beneide liegen größtenteils in der Serviceindustrie aber auch in der Pflege, und das nicht nur wegen der schlechten Bezahlung. Tatsächlich bin ich einfach nicht gut darin mit irgendwelchen Leuten zu reden oder mich mit Idioten abzugeben und dennoch ein freundliches Gesicht zu behalten. Ich würde nicht behaupten das ich schlauer als die meisten Leute bin, aber es gibt schon ein paar Leute die mir definitiv weniger kompetent als ich selbst vorkommen, und solchen Leuten gegenüber freundlich zu bleiben viele mir doch recht schwer. Was einen aber entgeht sind die Charaktere die man dabei trifft, manchmal sind Menschen ja auch angenehm. Ich glaube nicht das man oft dauerhafte Freundschaften aus solchen Interaktionen erhält, aber es ist immerhin abwechslungsreich andere Leute zu treffen, neue Ideen auf zu sammeln und einfach nur zu sein. Das macht Taichi hier sehr gut, am Ende geht er sogar noch essen, ob das zur Arbeitszeit dazu zählt? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 19.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

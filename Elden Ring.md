@@ -1514,6 +1514,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #101
+
+* Titel: `Elden Ring - #101 - Ainsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gute Neuigkeiten, ich habe einen weiteren Keller gefunden. Grade dann wenn man glaubt das man eigentlich gar nicht mehr so viel Oberwelt erkunden kann dann findet man noch mehr unter der Erde. Die Welt die wir damals in Siofra gefunden haben war nicht unbedingt klein, aber es hört natürlich nicht so einfach auf. Stattdessen finden wir immer noch einmal ein wenig mehr, wie sollte es auch anders sein? Der Ort den wir heute betreten heißt Ainsel, später werden wir übrigens herausfinden das ich hier schon hätte sehr viel früher hätte gehen können, ich hab den Ort nur irgendwie übersehen und daher ist das einfach nicht passiert. Vielleicht war das auch mein Glück, es gibt hier unten einige Schrecken die mir mit dem richtigen Level bestimmt Einiges an Kopfzerbrechen bereitet hätten, so sind sie vielleicht nervig aber nichts das mich wirklich aufhält. Und so schreiten wir vor ran, immer damit beschäftigt Dinge zu finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 18, Aufnahme vom 20.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #102
+
+* Titel: `Elden Ring - #102 - Ainsel, rückwärts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzen Episode war es nicht ganz klar aber spätestens jetzt ist es offensichtlich, wir sind am falschen Eingang in Ainsel heran getreten. Um genau zu sein scheint es sich um eine Art Ausgang zu handeln an dem wir ankamen, das würde vielleicht auch erklären warum der Sarg nicht magisch den Wasserfall heraufgeschwebt ist sondern hinunter. Wie dem aber auch sei, wir sind jetzt da und das heißt dann wohl auch das wir uns genauso gut alle anderen Orte angucken können die es so gibt, aber klar ist das wir alles Rückwärts machen. Das bedeutet aber auch das die Gegner immer leichter werden je weiter wir kommen. Eigentlich sehr interessant übrigens das man ja auch richtig herum laufen können und zumindest die kleinen Trashmobs hätten mich bestimmt ganz schön aufgeregt wenn sie auf einmal so viel stärker gewesen wären als sie vorher waren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 18, Aufnahme vom 20.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

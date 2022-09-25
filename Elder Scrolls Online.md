@@ -8079,6 +8079,23 @@
   Aufnahme vom 21.09.2022 - #1745 - ##98 - S15
   ```
 
+##### #1746
+
+* Titel: `Let's Play ESO #1746 ##99 - die Bitte einer Mutter [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 99 des High-Isle DLCs - Sitzung 15
+  
+  Wir hoppeln weiter, größtenteils weil es das ist was Kängurus halt so machen. Hoppeln, durch die Welt springen und irgendwelche Aufgaben lösen. Der letzte Teil ist relativ untypisch, aber technisch gesehen ist es auch nicht besonders normal für Hochelfen. Man könnte also durchaus behaupten das wir ein ungewöhnliches Verhalten an den Tag legen. Die Welt retten und so, manchmal sind es aber auch kleinere Sachen die uns nach vorne bringen. Heute zum Beispiel werden wir von einer Mutter in Belangen ihrer Tochter gerufen. Die Gute ist nicht in dem Sinne verschwunden aber doch irgendwie gegangen, und da das Mädchen offensichtlich nicht erwachsen ist kann man ihr auch nicht erlauben sich eigenständig durch die Welt zu bewegen, und daher verfolgen wir sie natürlich. Anstatt direkt los zu segeln schnitzeln wir aber wieder ein wenig umher. Darin haben wir ja mittlerweile Übung.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 21.09.2022 - #1746 - ##99 - S15
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -8096,6 +8096,23 @@
   Aufnahme vom 21.09.2022 - #1746 - ##99 - S15
   ```
 
+##### #1747
+
+* Titel: `Let's Play ESO #1747 ##100 - Seedorn-Umschlag [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 100 des High-Isle DLCs - Sitzung 16
+  
+  Es geht weiter, das ist generell eine Sache mit dem Leben, es geht immer weiter. Wenn es nicht mehr weiter geht hat man sich wohl zur Ruhe gelegt und wartet darauf das es irgendwann wieder einmal weiter geht. Wir sind aber wach und eventuell sogar nie im Schlummer. Daher erledigen wir auch immer wieder irgendwelche kleinen Quests obwohl wir eigentlich soviel andere tolle Dinge tun könnten. Dieses Mal haben wir zum Beispiel den Auftrag eine verzogene Tochter einer Adeligen zu retten. Die Aufgabe ist schon deswegen extra langweilig weil das Gör nicht entführt wurde oder sich in die Fängen daedrischer Mächte begeben hat. Viel mehr hat sie sich selbst dazu entschieden das Elternhaus zu verlassen. Dazu muss man auch sagen das Aurelia nicht 14 oder so ist sondern durchaus äußerlich als erwachsene Frau durchgehen würde, das liegt unter anderem daran das sie ungefähr Mitte 20 ist. Leider scheint sie das letzte Jahrzehnt damit verbracht zu haben in ihrer Schönheit zu baden und keine nennenswerten Fähigkeiten aufzusammeln. Und deswegen werden wir gebraucht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.09.2022 - #1747 - ##100 - S16
+  ```
+
 ##### #Nummer
 
 * Titel: ``

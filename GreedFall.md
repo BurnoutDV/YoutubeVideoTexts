@@ -819,6 +819,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #55
+
+* Titel: `GreedFall - #55 - Lügen, Unwahrheiten und Täuschung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als Diplomat sind wir eine Person unseres Wortes, das heißt wir haben eigentlich Nichts außer unsere Reputation, wenn wir etwas verhandeln und am Ende kommt heraus das wir nicht ehrlich waren sollten entweder alle Zeugen tot sind, das verhandelne Reich untergegangen und wir im Ruhestand. Wir brauchen das einfach, diese Sicherheit. Aber auch andersherum brauchen wir starke Partner, wenn man mit einem Reich verhandelt von dem man weiß das es sich an keine Deals hält steht man als Diplomat ziemlich alleine da. Und da wir Gesandter der Handelskongregation sind ist es sogar noch wichtiger das sich Leute an die Deals halten die wir abschließen. Waren ohne zu Bezahlen zu nehmen ist ziemlich schlecht für das Geschäft. All das erzähle ich weil wir heute hintergangen werden. Das überrascht mich übrigens ein wenig, im Vorfeld gab es absolut keine Andeutungen das wir verfolgt werden und plötzlich ist da ein Spion. Auch ist ein wenig fraglich wie der Mann in der Lage gewesen sein sollte uns zu verfolgen, schließlich war unser Weg nicht einfach und erforderte durchaus einige Fähigkeiten. Schlimmer noch, der Mann war uns vor raus, auf dem Weg zu einem eigentlich unbekannten Ort. Mysteriös. Aber wie das so ist, wenn das Vertrauen einmal gebrochen ist gibt es keinen Grund das jemand weiter lebt. Spionen trauen wir grundsätzlich nicht. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 8, Aufnahme vom 22.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

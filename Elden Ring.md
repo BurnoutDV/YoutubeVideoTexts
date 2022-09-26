@@ -1544,6 +1544,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #103
+
+* Titel: `Elden Ring - #103 - Nokstella, die ewige Stadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Spätestens jetzt wird einen wohl klar das die Marke "ewige Stadt" nicht etwa eine einzigartige Bezeichnung ist die einen bestimmten Ort bezeichnet oder vielleicht sogar ein Adjektiv darstellt das eine Alleinstellung impliziert. Es ist nicht "die Stadt" oder "DIE ewige Stadt", viel mehr ist es ein Sammelbegriff für anscheinend unterirdische Städte. Wir fanden bereits Nokron, eine namenlose und jetzt halt Nokstella, es würde mich also nicht überraschend weitere Städte zu finden. Was genau das Label verbirgt ist mir allerdings noch nicht ganz klar. Anscheinend handelt es sich um Völker die aus Gründen vor den Sternen geflohen sind und sich unter der Erde ein künstliches Reich gegründet hatten. All das hat offensichtlich nicht geholfen, das was wir finden sieht schon sehr nach Ruinen und nicht nach einem funktionierenden Ort aus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 18, Aufnahme vom 20.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

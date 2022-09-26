@@ -188,6 +188,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #13
+
+* Titel: `Yakuza 5 - #13 - ein einfacher Mann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Taichi Suzuki ist ein Taxifahrer. Eventuell beschäftigt er sich auch manchmal mit den einfachen Freuden des Lebens, man hat sogar gesehen das er einen Hostess-Club besucht. In dieser Hinsicht ist er nicht viel anders als viele andere hart arbeitende japanische Angestellt. Denke ich jetzt einfach mal. Ich habe ehrlich gesagt keine Ahnung wie das mundane Leben einer normalen Person in Japan aussieht, aber wahrscheinlich ist es größtenteils langweilig. Ob die alleinige bewusste Beobachtung eines normalen Arbeiterlebens schon dafür sorgen könnte das die Person die die Arbeit vollbringt nachdenklich wird und die eigenen Lebensentscheidungen in Frage stellt? Oder sind die Leute selbstsicher genug und sich in ihrer eigenen Position sicher genug das sie nicht mehr in Frage stellen wo und was sie sind? Ob es jetzt das Eine, das Andere oder etwas dazwischen ist, ich bin mir ziemlich sicher das sich trotz der projektierten Stärke, ein gewisser Kazuma Kiryu nicht so sicher ist was er eigentlich ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 19.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

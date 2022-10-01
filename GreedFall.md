@@ -834,6 +834,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #56
+
+* Titel: `GreedFall - #56 - Im Herzen der Rebellion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es fällt erstaunlich leicht sich auf die Seite der Eingeborenen zu stellen, das liegt vielleicht eventuell daran das wir vom Blut der Bewohner sind aber auch mit meiner eigenen Moral sind die Handlungen der Kolonialisten auch schwierig zu vereinbaren. Ich frage mich ob es vielleicht möglich gewesen wäre uns irgendwie mehr in die Gier einzuführen, uns irgendwie einen Grund zu geben das wir mehr die Seite der Brückenallianz oder der Herscharen des Lichts zu ergreifen. Dafür bräuchten wir natürlich einen gewissen Eigennutz, oder vielleicht auch mehr Überzeugung. Aktuell sieht es ja so aus das alle Parteien die sich auf der Insel niedergelassen haben eher aus Gier agieren. Das kann man aber auch schon im Titel ablesen. Insofern ist es leicht die Moralkeule zu schwingen. Und auch wenn de Sardet immer diplomatisch navigiert, es ist nicht zu verschweigen das wir eine klare Präferenz haben was das Vorgehen angeht, und eventuell steht uns sogar unsere eigene Moral im Weg und gegen die Interessen der Händlerkongregation. Ob wir wirklich und wahrhaftig unseren Meistern dienen in dem wir den Eingeborenen helfen eine Revolution zu starten kann ich nicht sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 8, Aufnahme vom 22.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #57
+
+* Titel: `GreedFall - #57 - Im Namen der Wissenschaft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Drang Grenzen zu verschieben scheint ein Ding der menschlichen Natur zu sein, nicht nur in Greedfall, sondern generell. Zum Beispiel wenn es um Wissen geht, Wissenschaft ist essentiell genau das, man rüttelt solange am Baum und schreibt dann auf was runter fällt. In der Regel ist das nicht viel, aber manchmal ist das auch eine ganze Menge. Hier gibt es aber Grenzen innerhalb der Grenzen. Man kann hier eine ganze Podiumsdiskussion anfangen. Wo beginnt die Grenze der Wissenschaft, was ist noch vertretbar. Das ist natürlich auch eine gesellschaftliche Frage. Beispiel, Stammzellen, enorm wichtig für die Forschung aber für eine christlich geprägte Gesellschaft durchaus ein wenig strittig wenn die einzige Quelle unbefruchtete Eizellen sind. Der Verzicht auf diese wirft aber die Forschung ordentlich zurück und könnte auch einen wirtschaftlichen Nachteil darstellen. Die Wissenschaftler der Brückenallianz sind es nicht gewohnt das man Grenzen hat, auch sind sie verzweifelt, der Malichor scheint große Teile der Bevölkerung zu treffen und wichtiger, auch die Reichen und Mächtigen. Wer getroffen wird scheint nicht absehbar. Das ist ein Problem. Das führt dann dazu das man die Moral ganz hinten anstellt, auch wenn ich noch nie den Eindruck hatte das die Brückenallianz jemals welche hatte. Allerdings gibt es auch praktische Gründe Grenzen zu ziehen, das was wir heute sehen erscheint mir außerordentlich ineffizient, Experimente an lebenden Subjekten ohne Bremsen oder Rahmenregelwerk kann auch völlig in die falsche Richtung gehen. Im Falle der Brückenallianz versucht man wohl etwas mit der Brechstange zu erreichen was eher einen Schraubenzieher braucht. Moralisch ist es definitiv falsch, selbst in einer losen Definition. Schade das wir keinen Nauten-Pressesprecher erreichen konnten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 8, Aufnahme vom 22.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #58
+
+* Titel: `GreedFall - #58 - dämonischer Kult [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist sehr interessant in einer Welt mit Magie die völlige Abwesenheit von Göttern zu sehen. Wir wissen mittlerweile das die Eingeborenen nicht immer über die Magie mit den Ranken verfügt habt und es sich um eine direkte Folge von der Hingabe zum Gott der Insel handelt. So weit so gut, wir nutzen das Wort Gott hier aber sehr leichtfertig, letztendlich könnte es sich genauso gut um einen Geist handeln. Auch das ist ein ungenaues Wort, bisher wissen wir nicht was mit den Toten passiert, es könnte durchaus sein das Leute die sterben wirklich tot sind und wir kein Konzept einer ewigen Seele haben. So oder so sehen wir aber ein Konzept und versuchen es mit christlichen/abrahamitischen Werkzeugen zu analysieren. Daher kommen wir heute auch zum Konzept Dämon. Eine Art gefallener Engel. Wahrscheinlich wäre die Begrifflichkeit "böser Geist" zu treffender aber die Gläubigen des Lichts sind halt diejenigen die die Benennung übernommen haben daher fahren wir jetzt wohl mit "Dämon". Unsere Prämisse ist aber die Gleiche, wir haben Hinweise darauf das hier in der Tat eine dunkle Macht unterwegs ist. Welcher Art genau können wir leider nicht sagen, daher ermitteln wir ein wenig. Einige Spuren deuten auch auf einen Blutkult hin, in der Regel und insbesondere in der Fantasy ist Blut mit einem Opfer verbunden, der Zahlung von Lebensessenz für einen unnatürlichen Vorteil. Die Getreuen von allem was gut und heilig ist können das natürlich nicht gut heißen. Aber eventuell muss nicht alles mit Blut schlecht sein, wir wissen nicht welche Regeln hier gelten, vielleicht sind sie auch nicht fassbar. Was ich aber verurteile ist das sich die Leute andauernd in die Handinnenflächen schneiden, das ist wirklich der dümmste Ort den ich mir vorstellen kann, das heilt richtig schlecht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 8, Aufnahme vom 22.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #59
+
+* Titel: `GreedFall - #59 - finstere Blutkulte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere Ermittlungen laufen ein wenig schleppend, eventuell liegt das auch daran das die vorherigen Untersuchungen von Leuten durchgeführt wurden die noch weniger neutral sind als wir. Wenn man direkt mit der Prämisse ran geht das man nur Wilde ohne jede Kultur vor sich hat und diesen Leuten auch jede Eigeninitiative abspricht dann wird es auch ein wenig schwierig offene Ohren für die eigenen Theorien zu finden. Eventuell könnte es aber auch sein das die Leute einfach nicht davon sprechen wollen was sie im Geheimen tun. Weil es halt geheim ist. Natürlich können das die tapferen Krieger des Lichts aus Thélème nicht akzeptieren aber so richtig weiter kommen sie halt auch nicht. Da sind wir wesentlich besser positioniert und können uns unseren Weg charmanter frei zaubern. Zaubern tun übrigens auch die Eingeborenen und das was wir heute sehen sieht durchaus ein wenig wie ein dämonischer Kult aus, aber das kann natürlich täuschen. Framing ist alles und die Art und Weise wie wir die Realität sehen kann durchaus ein wenig zu viele Vorurteile tragen. Daher fragen wir heute nach einer zweiten Meinung und werden prompt in den Sumpf geschickt auf das uns ein weiser Mann etwas erzählen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 8, Aufnahme vom 22.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #60
+
+* Titel: `GreedFall - #60 - Spiegelbild im Sumpf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind nicht nur auf der Suche nach Erkenntnis sondern auch nach uns selbst. Das wird zu einem späteren Zeitpunkt sogar noch relevanter, aber selbst jetzt versuchen wir mehr über das zu erfahren was die Welt bewegt. Wir wissen nicht ob der Mittelpunkt der Welt wirklich in Tír Fradì liegt und man hier auch nach der Ursache für Ereignisse von weit weg suchen muss oder ob es sich um ein eher lokales Phänomen handelt das sich nur breit getreten hat. So oder so kann mehr Erkenntnis und Verständnis für die Mechaniken die hier geschehen aber nur hilfreich sein. Inwiefern es mir aber hilft weitere Nadaíg umzuhauen kann ich aber nicht sagen. Nachdem wir jetzt erfahren haben das es sich eigentlich nur um Doneiga handelt die sich vollständig der Erde hingegeben haben und irgendwann einmal denkende und fühlende Menschen waren fällt es mir irgendwie schwer Genugtuung dabei zu empfinden ein solches Wesen zu besiegen. Obwohl wir immer noch nicht so richtig wissen wie viel von der ursprünglichen Person noch da ist. Aber wer weiß, vielleicht finden wir heute mehr als nur Sumpfgas, nasse Kleidung und verwirrte Einsiedler. Ist das vielleicht der erste Schritt zur Erleuchtung?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 9, Aufnahme vom 29.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

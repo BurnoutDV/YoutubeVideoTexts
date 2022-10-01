@@ -8113,6 +8113,91 @@
   Aufnahme vom 26.09.2022 - #1747 - ##100 - S16
   ```
 
+##### #1748
+
+* Titel: `Let's Play ESO #1748 ##101 - inkompetente Ignoranz [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 101 des High-Isle DLCs - Sitzung 16
+  
+  Wenn jemand inkompetent ist kann man da vielleicht noch etwas machen, eventuell kann man sogar mit einer Menge harter Arbeit Kompetenz heranzüchten und daraus eine selbstständig handelnde Person erschaffen. Ich bin mir nicht sicher ob ich selbst überhaupt als so jemand durchgehen würde, aber sicher ist, Aurelia ist weit weg von jeder Kompetenz. Und dann ist da auch noch diese Ignoranz, irgendwie erscheint es mir so als würde sie sich für die Hauptperson in einer Geschichte handeln, quasi eine Mary Sue der alles irgendwie zufällt. Die Ergebnisse sprechen aber für sich, allem Anschein nach fällt Aurelia überhaupt nichts zu, alles was wir bisher gesehen haben war eine absolute Enttäuschung. Nicht nur scheint sie zwischenmenschlich nicht sehr hellsichtig zu sein, auch ihre allgemeine Menschenkenntnisse können bestenfalls als rudimentär beschrieben werden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 26.09.2022 - #1748 - ##101 - S16
+  ```
+
+##### #1749
+
+* Titel: `Let's Play ESO #1749 ##102 - Prinzessin Detektiv [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 102 des High-Isle DLCs - Sitzung 16
+  
+  Hey, gute Neuigkeiten es gibt Neues von Aurelia, unserer stetigen Begleiterin. Ach ne, das war ja Isobel, unsere furchtlose Ritterin die uns in Kämpfen oft als Ornament dient wenn sie wieder rumliegt und träumt. Ich weiß ehrlich gesagt immer noch nicht so recht was diese ganze Questreihe überhaupt mit Isobel zu tun hat. Klar, der Siegelring hat zum Handelshaus gehört, ihn zurückzuholen war anscheinend halbwegs wichtig und doch scheint mir all das ganze Drumherum mit olle Aurelia ein wenig unnötig. Ich meine, es handelt sich um die Kindheitsfreundin von Isobel, okay. Beide sind jetzt erwachsende Frauen und können ihre eigenen Entscheidungen fällen, warum müssen wir mit involviert werden, und viel wichtiger, warum interessiert es Isobel überhaupt. Offensichtlich wurde sie ziemlich hart zurückgewiesen, sogar noch härter wenn man sich vor Augen führt das Aurelia das Werben von Isobel nicht einmal wahr genommen hat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 28.09.2022 - #1749 - ##102 - S16
+  ```
+
+##### #1750
+
+* Titel: `Let's Play ESO #1750 ##103 - Amateuerermittlerin [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 103 des High-Isle DLCs - Sitzung 16
+  
+  Unfähigkeit und Amateuerhaftigkeit sind nicht das Gleiche. Jemand der unfähig ist kann geholfen werden, man kann etwas lehren und eventuell wird aus der nicht-Fähigkeit dann doch etwas, man kann schließlich Leute befähigen. Aber wenn jemand ein Dilettant ist, sich am besten selber nichts sagen lässt, selbst überzeugt von den eigenen Fähigkeiten? Wehe uns vor dem Dilettanten mit zu viel Selbstsicherheit. Aurelia Jourvel ist definitiv Zweiteres. So weit wir sehen können hat sie keinerlei klassische Bildung genossen und ich habe echt keine Ahnung welchen Plan genau ihre Mutter mit ihr hatte. Sie zu verheiraten erscheint grob gefährlich, sie auf die Welt los zu lassen noch mehr. Sollte sie vielleicht einen Unfall erleiden bevor  sie das 10te Lebensjahr erreicht und irgendetwas klappte nicht? Das werden wir wohl nicht mehr erfahren, aber die Situation sind jetzt halt so aus, wir haben jemanden vom hohen Stand mit viel zu viel Einfluss aber absolut keiner Kapazität damit irgendetwas sinnvolles zu tun. Das Ergebnis dieses wandelnden Desasters sehen wir dann auch heute erneut. Am Ende driftet es aber dann komplett ab und mir fällt auch nichts mehr ein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 28.09.2022 - #1750 - ##103 - S16
+  ```
+
+##### #1751
+
+* Titel: `Let's Play ESO #1751 ##104 - Eine Chance auf Frieden [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 104 des High-Isle DLCs - Sitzung 16
+  
+  Frieden ist eine großartige Sache für alle Jene die ihn genießen können. Als Individuum wünscht man sich auf jeden Fall maximal ruhige Zeiten, das Umgekehrte ist nicht umsonst ein Fluch. Allerdings hat Frieden auch einen großen Nachteil, es ist schwierig Geschichten darin zu erzählen. Die Natur der Menschen neigt dazu Konflikte auf zu machen, komplett ohne ihn zu leben ist wahrscheinlich gar nicht möglich, ist es doch das was ihn vor ran treibt. Leider fordert dieser Antrieb schreckliche Opfer. Aber selbst zu Friedenszeiten, wenn die Grenzen stabil sind und die Großen und Mächtigen zufrieden sind mit dem was sie tun handeln andere. Vielleicht sind es kleinere Fürsten die untereinander ihre Untergebenen ausspielen. Das ist der Schauplatz für Liebesdramen und Verwechslungsgeschichten. Nichts was die Welt bedroht aber eine eher subtile Herangehensweise. Nachteilig ist die Abwesenheit von großen Konflikten aber auch für die kleinen Leute. Eigentlich ist es immer schlimm für die kleinen Leute. In Friedenszeiten zementieren die mit der Macht ihre Position und machen einen Aufstieg schwerer und in Krisenzeiten gehört man zu den Ersten die verheizt werden. Allerdings gibt es im zweiten Fall auch Hoffnung, Chaos bedeutet Unruhe, eine Erschütterung der Ordnung, das macht Grenzen durchlässig und was einst fest ist nun weich. Am Ende eines langen Konfliktes kann man plötzlich ganz woanders stehen. Wahrscheinlich liegt man eher, in einem flachen Grab, und die Mehrzahl der einfachen Leute hat wahrscheinlich kein Bestreben irgendwie aufzusteigen solange das Leben vorher beschaulich war. Aber die wenigen die Unzufrieden waren finden sich vielleicht jetzt in einer besseren Position. Alles ist unsicher und an sich wirft man eine Menge Würfel.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 28.09.2022 - #1751 - ##104 - S16
+  ```
+
+##### #1752
+
+* Titel: `Let's Play ESO #1752 ##105 - Ball von Hochinsel [Hochinsel]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 105 des High-Isle DLCs - Sitzung 16
+  
+  Der Titel ist eine Lüge. Das schreibe ich in letzter Zeit ganz schön oft, aber hey, immerhin habe ich keine Clickbait Thumbnails, ich bin mir allerdings auch nicht sicher ob ich das bei meinem Content tatsächlich mit Erfolg durchziehen könnte. Andererseits kann ich nur schwer einschätzen wie andere Leute funktionieren, vielleicht würde es ja doch klappen, einfach weil andere Leute anders denken als ich es tun, aber dann, dann wären die Leute hier? Will man das? Wie dem aber auch sei, es ist wieder einmal Zeit für die große Verabschiedung, ich habe das heute einmal zweigeteilt weil ich ein wenig Spannung erhalten wollte ob der letzte Dialog vielleicht noch einmal etwas offenbart, aber eigentlich ist schon relativ klar das es das nicht tut. Schließlich brauchen wir ja noch irgendeinen Gegner für das nächste Story DLC, übrigens merke ich vom Jahr der Bretonen aktuell noch nicht ganz so viel. Eine intensive Kritik könnte ich eventuell morgen noch einmal äußern, aber im Großen und Ganzen scheint mir das das Writing und das Bestreben eine gute Geschichte zu erzählen völlig verloren gegangen ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 30.09.2022 - #1752 - ##105 - S16
+  ```
+
 ##### #Nummer
 
 * Titel: ``

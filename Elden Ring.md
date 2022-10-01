@@ -1559,6 +1559,81 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #104
+
+* Titel: `Elden Ring - #104 - Spuren des Scharlach [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da so ein paar Konzepte die ich nicht ganz verstanden habe. Eines davon ist zum Beispiel die Scharlachfäule. Wir wissen das sich Radahn das Zeug zugetragen hat und anscheinend ist er ein so großer Held das selbst der Zerfall seines gesamten Körpers durch die Fäule ihn nicht davon abgehalten hat weiter am Leben zu bleiben, oder zumindest im Unleben. Die Person die er einst war ist nicht mehr, soviel ist sicher. Aber jetzt nachdem er besiegt wurde ist das auch alles ziemlich egal. Und doch, wir können uns ebenfalls an der Fäule anstecken, aber der Effekt hält nicht lange, er nervt zwar aber hat nur eine beschränkte dauer, und im Gegensatz zum Todesnebel bringt uns die Fäule auch nicht sofort um. Warum reagieren die Befleckten anders auf diese Fäule und was löst sie eigentlich aus, wo kommt sie her? Ich bin mir relativ sicher das wenn wir uns entsprechende Gegenstände und Waffen durchlesen würden kämen wir der ganzen Geschichte bestimmt auf die Schliche. Normale Leute verlieren übrigens Gliedmaßen durch die Krankheit, und anscheinend kann man es wirklich nicht heilen, aber immerhin kann man den Fortschritt vollständig anhalten. Wohin uns das wohl noch führt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 18, Aufnahme vom 20.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #105
+
+* Titel: `Elden Ring - #105 - der Fäulnissee [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ehrlich gesagt aufgehört zu zählen wie viele Giftseen wir mittlerweile gefunden haben. Es sind nicht wenige und der Vorrat scheint unendlich zu sein, grade wenn man meint das war es jetzt finden wir noch Einen. Fäulnis ist auch nur Gift+, in den Vorgängern gab es Toxin, das war aggressives Gift, der Unterschied hier ist dann wohl das Scharlachfäule aktiv Stücke aus uns raus reißt, das ist zwar ärgerlich endet aber nichts am grundlegenden Konzept. Bis hier her konnten wir aber die meisten Giftseen aktiv vermeiden in dem wir einfach hoch zu Ross saßen und das tödliche Zeug einfach nicht berührt haben. Angenehm. Jetzt hat sich das aber geändert, stattdessen müssen wir durch das Zeug durch watten. Neulich hatten wir ja schon einen Lavasee, der war ähnlich anstrengend auch wenn Lava insgesamt wesentlich umgänglicher geworden ist. Immerhin gibt es keine ausrüstungszerstörende Seen, schon einfach deswegen weil unsere Ausrüstung nicht kaputt gehen kann. Das wird auch höchste Zeit, die ganze Haltbarkeitsgeschichte hat mir ehrlich gesagt nie irgendetwas gegeben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring vorerst am Donnerstag
+  Sitzung 18, Aufnahme vom 20.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #106
+
+* Titel: `Elden Ring - #106 - Astel, Ausgeburt des Abgrundes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich stellen wir uns nur wenige Minuten lang Astel, das liegt einfach daran das wir so unfassbar gut sind, und weil ich natürlich weiß welche Begleiter man für welchen Kampf beschwören muss. Eventuell aber sind wir auch schon ein wenig überlevelig für das Gebiet in dem wir uns grade herumtreiben, das macht es wesentlich einfach Gegnern so viel Schaden zu geben das sie umkippen bevor sie selber auf die Idee kommen uns gefährlich zu werden. Die allseits verachtete zweite Phase mit One-Hit-Kombos ist ja allgemein bekannt. Dazu kommt es aber nicht wenn man über ein Großschwert des Todes verfügt das Gegner einfach ohne großen Aufwand aus dem Leben entfernt. Oder Unleben. Existenz jenseits der Sterne oder was auch immer ich da tue wenn ich das Dingens mit meinem Schwert bearbeite. Aber um die Geschichte abzukürzen, wir haben natürlich Erfolg. Wie auch sonst. Jetzt ist bloß die Frage, was haben wir davon. Astel hat anscheinend von irgendeiner ewigen Stadt (tm) die Sterne gestohlen. Bis jetzt hatte noch jede Stadt die wir gesehen hatten ihr eigenes Firmament, insofern war es wohl keine die wir bisher betreten haben. Ob es irgendwo die dunkle ewige Stadt gibt? Und wenn ja, fallen wir noch über sie?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 27.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #107
+
+* Titel: `Elden Ring - #107 - Arsenal des großen Gefäßes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, eine weitere "offene Handlungen" oder "loose Fäden" Episode. Langsam aber sicher nimmt das aber ab, bald schon so bald wird uns nichts Anderes mehr übrig bleiben als nach Leyendell zu gehen und es alles zu beenden. Soweit ich das sehen kann wäre das aber sowieso nicht das Ende. Das Haus Vulkan gibt es aber auch noch. So viele Möglichkeiten, so wenig Zeit. Heute besiegen wir aber einen alten Bekannten, einen Kampf mit einem gewissen Zufallselement, die Arena des großen Gefäßes, ein epischer Kampf den ich zugegebenermaßen eher durch guten Käse und meinen Fähigkeiten gewinne Gegner maximal davon abzuhalten irgendetwas zu tun, wenn mir das passieren würde würde ich mich ganz schön aufregen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 27.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #108
+
+* Titel: `Elden Ring - #108 - Festung Gael [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe gerne zu das ich in das große Festival des Kampfes eher durch Zufall gestolpert bin. Ursprünglich wollte ich ja nur über eine Brücke rüber. Hätte es da nicht so großen Widerstand gegeben wäre ich gar nicht auf die Idee gekommen das so sehr zu forcieren. Aber dann war es halt so und ich war halt neugierig. Es stellt sich jetzt natürlich, natürlich, heraus das wir auch ganz anders hätten über die Brücke kommen können. Ich weiß ehrlich gesagt auch nicht so recht was ich überhaupt getan habe um den Teleporter zu aktivieren der mich dann über die Brücke und direkt in die Feste brachte. Aber mit einem kleinen praktischen Weg durch die Festung Gael und dem Besiegen eines einzigen Schwertlöwen wäre ich wohl auch dort angekommen. Danach wäre ich wahrscheinlich hart an Radahn selbst gescheitert, aber hier sind wir, jetzt nachdem alle Schlachten geschlagen sind und erkunden eine völlig sinnlos gewordene Festung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 27.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

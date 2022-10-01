@@ -203,6 +203,66 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #14
+
+* Titel: `Yakuza 5 - #14 - Von einem fernen Lande [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute gedenken wir der Kinder die Kiryu zurückgelassen hat, wir wissen übrigens immer noch nicht so richtig warum er das getan hat, von allem was wir bisher erfahren haben hat er dabei Haruka zurückgelassen oder ist sogar aktiv von ihr davon gelaufen. Warum er das getan hat ist nicht klar, aber anscheinend gab es da ein Zerwürfnis. Vielleicht war es auch einfach das Geld, einen traumhaften Ort wie Okinawa zu verlassen kann ich mir ehrlich gesagt nicht so richtig vorstellen, solange man über entsprechende Finanzen verfügt scheint es sich mir um einen sehr schönen Ort zum Leben zu handeln. Wie dem aber auch sei, wir schicken heute Geld nach Okinawa damit sich die Kinder irgendwelches Spielzeug leisten können. Ich bin mir ehrlich gesagt fast sicher das das alles am Ende darauf hinauslaufen wird das sie mit dem Geld etwas völlig Anderes machen und es nicht so kommt wie Kiryu sich das vorgestellt hat. Aber immerhin haben wir gutes Geld versendet, nur wissen wir halt nicht ob es auch an kommt. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 19.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #15
+
+* Titel: `Yakuza 5 - #15 - der glitzernde Meteor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben unser ganzes Geld verprasse, Zeit neues Geld mit illegalen Straßenrennen zu verdienen. Eigentlich fahren wir aber gar nicht auf der Straße sondern auf der örtlichen Autobahn bzw. Umgehungsstraße, immerhin ist das ein wenig sicherer aber dennoch gefährdenden wir irgendwelche Leute damit. Außerdem kann ich die günstige Gelegenheit dazu nutzen meine Meinung über Kleidung und Empowerment kund zu geben, ich weiß, danach hat niemand gefragt aber dennoch will ich die Gelegenheit nicht ungenutzt lassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #16
+
+* Titel: `Yakuza 5 - #16 - der pflichtvergessene Sohn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich komme leider nicht so richtig dazu die ganze Geschichte während der Rennen zu diskutieren, also machen wir es hier. Heute treffen wir eine Mutter die ihren Sohn sucht. Mutti möchte das der Sohn etwas Vernünftiges tut und einen Job hat. Den hat er jetzt übrigens auch, irgendwie, er ist jetzt Rennfahrer, in Straßenrennen. Wie genau man da überhaupt ein regelmäßiges Einkommen geniert kann ich übrigens nicht sagen. Was mich hier aber ein wenig stört das Mutti eigentlich nur wichtig ist das ihr Sohn einen Job hat, egal was für einen, egal was das für ihn bedeutet oder was er dafür erleiden muss. An sich ist die Mutter hier also ziemlich egoistisch, sie möchte aus Gründen ihres eigenen Prestiges das ihr Sprößling arbeitet. Das er dabei vielleicht eigene Wünsche oder irgendeine Art von Erfüllung nach gehen möchte ist ihr egal. Hauptsache sie kann ihren Nachbarn erzählen das er jetzt arbeitet. Das finde ich ziemlich unfair. Das der junge Mann jetzt nicht unbedingt ein Arbeitswunder ist sei jetzt einmal dahingestellt. Den Sohn jetzt aber direkt als "unfaithful" hinzustellen geht aber nun wirklich zu weit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #17
+
+* Titel: `Yakuza 5 - #17 - ein König, ein Kollege [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kiryus endlose Suche nach dem besten Rennfahrer der Nation geht weiter, auch wenn unser Fangnetz sich eigentlich nur auf eine kleine Stadt beschränkt. Wir versuchen dennoch das Beste zu geben und haben damit auch guten Erfolg. Leider können wir nicht direkt die großen vier Könige besiegen sondern müssen uns erst einmal vorsichtig und langsam durch alle kleineren Gegner darunter schlagen. Es wäre ja auch soviel einfacher wenn wir einfach direkt den Anführer der Devil Killers duellieren können, aber dafür müsste der auch einmal aus dem Buschwerk kommen. Es wird sogar noch viel schlimmer, sogar unsere eigenen Kollegen wollen nicht so recht glauben das wir das Zeug zum großen Rennfahrer haben, das ist eine echte Enttäuschung! Da kämpft man so hart die Ehre der Firma zu verteidigen und dann so etwas. Wie dem aber auch sei, wir gewinnen natürlich am Ende und zeigen es ihnen alles, in diesem alten Drachen steckt noch eine Menge Feuer!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

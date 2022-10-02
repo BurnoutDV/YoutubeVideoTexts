@@ -8198,14 +8198,23 @@
   Aufnahme vom 30.09.2022 - #1752 - ##105 - S16
   ```
 
-##### #Nummer
+##### #1753
 
-* Titel: ``
+* Titel: `Let's Play ESO #1753 ##106 - Frieden in unseren Lebzeiten? [Hochinsel]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 106 des High-Isle DLCs - Sitzung 16
+  
+  Anscheinend gibt es das nächste DLC Prolog bereits zu spielen. Nun. Zurück zum hier und jetzt und generell. Wir sind jetzt aber wirklich am Ende, durch eine zufällige Wende der Dinge hatte ich mich dazu entschieden die übliche Rekapitulationsepisode dieses Mal zwei zu teilen und das war vielleicht auch ganz gut so weil es sonst relativ lange gedauert hätte alles abzuhandeln. Negativ fällt übrigens schon einmal auf das ich echt Schwierigkeiten habe mich bei den meisten Personen zu erinnern wer sie eigentlich waren. Das ist sehr sehr schlecht, ich meine, wie gut kann eine Geschichte gewesen sein wenn ich mich nicht so richtig daran erinnern kann wie ihre Protagonisten geheißen haben? In der letzten Episode sprach ich mich ja bereits darüber aus wie schlecht Frieden für das Narrativ ist. In der Welt in der man selber lebt ist Frieden meistens ein zu bevorzugender Zustand, aber wenn ich Geschichte erzählen will dann brauchen wir zumindest einen Krieg oder anderen Konflikt zwischen "Gut" und "Böse" im Hintergrund. Interessant wird es wenn beide Seiten gute Gründe haben und man gar nicht so richtig klar sagen kann wer recht hat. Der Krieg der drei Banner geht aber relativ stumpf um Gebietsgewinn und Kontrolle der Hauptstadt, insofern weiß ich nicht so richtig was man verhandeln will. Andererseits weiß ich auch nicht was die drei Reiche die letzten 8 Jahre getan haben, klar, militärische Kampagnen dauern bestimmt eine ganze Weile, der 30 jährige Krieg hat sich ja auch ein Stück gezogen. Aber wir leben in einer Welt der Magie. Jeder halbwegs talentierte Kampfmagier ist quasi das Äquivalent zu einem modernen Sturmgeschütz, Kommunikation sollte defacto verzögerungsfrei sein was den Nebel des Krieges auf ein Minimum reduziert. Klar, einen klassischen Kavallerieangriff können wir machen aber einfach den gegnerischen Kommandoposten mit Assassinen infiltrieren klingt eher wie das was man tun will. Sollte ja auch kein Problem sein, Teleportmagie scheint ziemlich oft und zuverlässig und gut zu funktionieren, und selbst wenn nicht, ob man jetzt 50000 Soldatenwesen auf dem Feld opfert oder 1000 durch Portal wirft bis man den gegnerischen König trifft sollte kein Unterschied machen. Kommen wir mal vom Sesselgeneral weg zur eigentlichen Kritik. Das hier ist das "Jahr der Bretonen". Bisher habe ich erlebt das es auf Hochinsel irgendwelche Ritterorden gibt und zwischendurch haben wir auch gesehen wie sie in Aktion aussehen, das war ein wenig enttäuschend. Gefunden haben wir untereinander zerstrittene Ritter die sich gegenseitig versuchen das Wasser abzugraben, einen gescheiterter Albatrossritter dessen Geist wird retten mussten und mehre verfluchte Festen direkt auf der Insel selbst, in einer Gegend die von sich selbst behauptet das sie extra Ritterorden für solche Sachen hat. Was machen die den ganzen Tag? Wer bezahlt die? Dann fanden wir noch heraus das Meereselfen den Handel beeinträchtige, das Piratenthema hatten wir ja schon im Jingle und wirkt ein wenig deplatziert, außer das die Meereselfen halt lustige Gegner waren scheint sich niemand so richtig darum zu kümmern. Die Hochelfen haben das wenigstens ernst genommen und hatten sogar eine Lovestory, ganz davon ab das Maormer halt Elfen und keine Bretonen sind. Was noch? Ach ja, Kultur, bisher haben wir erfahren das die Aristokratie weinerlich Kleinkinder erzieht (Aurelia, Merylinn) die anscheinend von selbst nicht in der Lage sind ihren Weg aus einem nassen Pappkarton raus navigieren (englisches Idiom übrigens) können. Dann gibt es da noch die Druidenorden die sehr transplantiert wirken, im Vorfeld hat man außer dem Wyrd echt nichts davon mitgekriegt und wenn ich mich recht erinnere waren die Wyrd-Schwestern ziemlich isoliert (an der Stelle frage mich ob es heutzutage noch möglich wäre einen reinen Männerorden ohne Frauen Gegenstück überhaupt einzubauen, und wenn nein, warum das Gegenteil aber okay ist?). Wir haben also von Adeligen, Druiden und Piraten erfahren, was die einfachen Leute den ganzen Tag tun, woran sie im speziellen glauben oder was sie jetzt von anderen Leuten unterscheidet haben wir irgendwie nicht erfahren. Kombiniert mit dem schlechtesten Narrativ von allen DLCs vergebe ich hier 2 von 10 Sternen, und damit bin ich gnädig.
+  
+  Bin ich zu harsch, habe ich etwas vergessen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
+  Aufnahme vom 30.09.2022 - #1753 - ##106 - S16
   ```
 
 ##### #TEMPLATE

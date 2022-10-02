@@ -909,6 +909,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #61
+
+* Titel: `GreedFall - #61 - Verbrechen der Inquisition [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie ist es ja schon verlockend der Inquisition anzugehören, man kann sich darauf verlassen das die eigene Mission gerecht und gut ist und man darf auch noch die eigene sadistische Ader ausleben, es sei denn man verabscheut diese Art des Handwerks dann ist es ein wenig ärgerlich das man Stück für Stück die eigene Vernunft verliert und letztendlich durchdreht. Von Außen gesehen ist die Inquisition aber ziemlich furchteinflößend, besonders wenn sie Nachts kommt und einen einfach einsackt. Und das wahrscheinlich ohne großartige rechtliche Grundlagen, schlimm auch wenn die Inquisition ein wenig zu gründlich arbeitet und dann am Ende auch in den eigenen Reihen sucht, Stück für Stück frisst sie sich dann auf. Dann macht der Job nicht ganz so viel Spaß. Davon einmal abgesehen das die meisten Inquisitionen eher Anti-Fun sind. So übrigens auch die heilige Inquisition des Lichtes die eigentlich weniger nach Ketzern auf Teer Fradee sucht sondern Leute eher versucht zu bekehren, quasi die zweite Kolonne der Missionare, mit glühenden Zangen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 9, Aufnahme vom 29.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

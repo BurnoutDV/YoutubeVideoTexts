@@ -263,6 +263,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #18
+
+* Titel: `Yakuza 5 - #18 - der kühle Yoshimi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man in der Schule ist kristallisieren sich ja immer so verschiedene Charaktere heraus, die sind zwar nicht wirklich tief aber jedes der Kinder will sich ja irgendwie von den anderen abheben. Oder aber wenn man in einer Anime-Schule ist, dann gibt es einmal die Kids mit den bunten Haare die auf jedem Fall im Team Hauptperson sind und dann die ganzen anderen Unauffälligen die halt ganz normal aussehen und ihre Schuluniform halt so tragen wie es die Kleiderordnung vorsieht, vielleicht auch deswegen weil sie damit auch nicht davon kommen würden wenn sie es anders machen würden. Die Schule ist nun mal aber schon seit einer Weile vorbei und soweit ich das sehen kann haben wir hier auch keine Anime Situation vor uns, und doch fahren wir Straßenrennen und der eine Kerl hat halt auch einen Namen, aber das kommt wohl davon wenn man sich als einer der vier Könige bezeichnet. So richtig kühl ist der Typ aber am Ende auch nicht, unweigerlich verliert er, wie sollte es auch anders sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1634,6 +1634,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #109
+
+* Titel: `Elden Ring - #109 - Maleigh Marais [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wie wieder ganz woanders, das liegt aber auch größtenteils daran das ich jetzt wirklich genug davon ab in irgendwelchen dunklen Kellern herumzuspringen, das wird echt langweilig mit der Zeit. Stattdessen gucken wir uns heute den Grundstücksmarkt und insbesondere das Angebot an Gebrauchtschlössern an die die Gegend zu bieten hat. Vielleicht könnte ich, wenn ich noch ein wenig und ein bisschen mehr, Runen sparen durchaus in der nächster Zeit über den Kauf eines solchen Anwesens nachdenken, für die Zeit des danach. Bisher hat noch niemand gesagt ob man mit dem Titel des Eldenfürstens auch tatsächlich Ländereien und Häuser erhält. Klar hatten die bisherigen Leute die wir besucht hatten immer irgendwelche Burgen aber so richtig in ihren individuellen Besitz waren diese auch nicht, das war mehr so eine Familiengeschichte, und jetzt irgendwo rein zu heiraten klingt nach ganz schöner Arbeit. Also kaufen wir die Bude gleich. Die Anlage die wir heute anschauen gehört technisch gesehen schon jemanden, sein Name ist Maleigh Marais aber es handelt sich um das letzte lebende Mitglied einer Linie, und da kann man doch bestimmt was regeln. Jetzt müssen wir nur noch den Nachlassverwalter finden...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 27.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

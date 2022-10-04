@@ -1649,6 +1649,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #110
+
+* Titel: `Elden Ring - #110 - die Schattenfeste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Trotz niedriger Grundstückspreise kann ich mich nicht so richtig für die Schattenfesten begeistern. Klar der Ort bietet eine Menge, giftige Sümpfe zur Verteidigung, hohe Türme, sogar einen Saal gibt es, aber irgendetwas stört mich. Eventuell hängt es damit zusammen das die Kosten für eine ordentliche Renovierung durchaus teuer sein könnten und den initialen Kaufpreis übersteigen. Immerhin war unsere Besichtigung aber nicht ganz umsonst, am Ende finden wir einen weiteren Arm und das klingt doch eigentlich nach einer praktischen Sache, mit einem dritten Arm können wir definitiv noch eine Menge machen, und vielleicht finden wir sogar jemand der an so einem Gerät Interesse haben könnten, oder sie...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 27.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #111
+
+* Titel: `Elden Ring - #111 - Carianischer Lehrsaal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ortswechsel. Unser gesamtes Abenteuer läuft ja ein wenig wie eine endlose To-Do Liste, es ist nicht so das wir es besonders eilig damit haben Eldenfürst zu werden, das liegt unter anderem auch daran das ich auch keine Ahnung habe was daraus die Konsequenz ist. Eventuell ist das Erfüllen der Aufgabe auch gar nicht so erstrebenswert, was wenn das eine Menge Verantwortung bedeutet und man dann auf einmal für Leute Entscheidungen fällen muss? Das wollen wir doch eigentlich gar nicht, es ist ja nicht so das unsere Reise uns bisher auf so einen Fall vorbereitet hat. Bisher sah es generell eher so aus das wir lernen wie man am besten auf sich selbst und einer ausgesuchten Person aufpasst die wir aber eigentlich nur als Opferknabe beschwört haben. Insofern ist uns die Krone auch gar nicht so recht und wir stellen stattdessen lieber die Welt auf den Kopf. Das machen wir heute übrigens wortwörtlich, hat uns doch Ranni ein praktisches Werkzeug mitgegeben mit dem wir im Lehrsaal noch mehr Dinge tun können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 27.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

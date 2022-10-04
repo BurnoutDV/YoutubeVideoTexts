@@ -924,6 +924,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #62
+
+* Titel: `GreedFall - #62 - Kompromat im Licht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man mächtige Leute kontrollieren will ist man entweder selber ziemlich mächtig oder man hat etwas das die Macht ins Wanken bringen kann. Man muss natürlich immer wissen um was für ein Erpressungsmaterial es sich handelt. Hat man etwas das einfach alles in Schutt und Asche bringen kann sollte man es vielleicht nicht für kleine Gefallen nutzen, das geht bestimmt eine ganze Weile gut aber jede Instanz könnte unser Opfer dazu bringen ein wenig mehr nach Wegen zu suchen der Falle zu entgehen. Hat man nur schwaches Material muss man vorsichtig sein was man sich erpresst, zu Große Geschichten oder zu Mutiges auftreten könnte durchaus dazu führen das sich jemand überlegen könnte das die Konsequenzen vielleicht doch gar nicht so schrecklich sind. Kurzum, arrogant oder herrisch mit jeder Art von Kompromat aufzutreten erscheint nicht angebracht. Interessant ist es aber erst so richtig wenn man dann doch gezwungen ist das zu tun was man eigentlich nicht tun wollte, das Material zur Erpressung auch tatsächlich anzuwenden. Idealerweise lebt man dann selbst noch und die Veröffentlichung ist nicht durch einen Totmannschalter erfolgt. Heute bringen wir etwas ans Licht, und ein wenig bleibt auch verborgen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 9, Aufnahme vom 29.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #63
+
+* Titel: `GreedFall - #63 - die unverfälschte Wahrheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Etwas das gerne bei historischen Berichten vergessen wird ist das die Aufzeichnungen die zum Zeitpunkt der Ereignisse erstellt werden selten die Besten und Genausten sind. Historiker sind auch Untertan von irgendjemanden und diese Herrscher haben manchmal ein wenig Interesse daran das die Realität für die Geschichte anders aussieht als es sich vielleicht wirklich zugetragen hat. Da war ein Herrscher auf einmal wahnsinnig und so manche Grausamkeit der eigenen Seite wird der Anderen angedichtet, wer soll das auch widerlegen? Die Gegenseite hat ja offensichtlich verloren und ist in keiner Position davon zu erzählen, und in einigen Generationen sind die Aufzeichnungen der Königstreuen das Einzige was bleibt. Man könne es also als heilige Pflicht betrachten die tatsächlich Ereignisse fest zu halten und Geschichte unabhängig von den Beteiligten zu erzählen, keine leichte Aufgabe, aber sicherlich eine ehrenhafte. Stellt sich nur noch die Frage wer den Spaß eigentlich finanziert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 9, Aufnahme vom 29.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

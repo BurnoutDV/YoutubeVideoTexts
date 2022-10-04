@@ -278,6 +278,46 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #19
+
+* Titel: `Yakuza 5 - #19 - das finale Rennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon ist es soweit, wenn man den Teil des Rennens herausschneidet in dem man Fährt ist so eine größere Ansammlung von Straßenrennen relativ schnell vorbei, auch wenn ich sagen muss das wir schon recht viel Zeit damit verbracht haben die Fürs und Wieders der gesamten Geschichte zu erfahren. Jetzt ist es aber auch vorbei, wir besiegen den letzten der 4 Könige und damit sollte der Spuk dann aber auch vorbei sein, weil schließlich war das doch die Aufgabe die wir vom Polizeichef erhalten hatten oder? Solange Rennen fahren bis die Devil Killers zerschlagen sind, Haken dran und erledigt. Sobald das durch ist können wir auch nicht mehr so richtig unsaktioniert weiter machen oder? Was ich damit sagen will, die Finalität der gesamten Geschichte ist eigentlich garantiert, Kiryu hält sich schließlich an das Gesetzt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #20
+
+* Titel: `Yakuza 5 - #20 - versuchte Geiselnahme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das das Fahren der Rennen nicht nur Selbstzweck war sondern auch noch zusätzliche Missionen freigeschalten hat, dadurch haben wir jetzt auch die Möglichkeit Menschen wirklich zu helfen und andere zu retten. Allerdings glaube ich das für diese Mission eigentlich vorgesehen war das man den Renn-Circuit noch nicht komplett durchgespielt hat und sein Taxi bis zur Unkenntlich getuned hatte, weil das was sich da uns heute bietet ist ja schneller gewonnen als man gucken kann. Und doch, die Geschichte die wir erleben ist eine relativ ernste Geschichte. Immerhin ist es moralisch relativ einfach Position zu beziehen. Der Mann der die Entführung veranlasst hat ist zwar ein wenig ins Hintertreffen geraten weil sich reiche Leute gegen ihm gestellt haben aber dafür das er ein gieriger Mistkerl ist können die reichen Säcke ja wirklich nichts.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -308,14 +308,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
-##### #Nummer
+##### #21
 
-* Titel: ``
+* Titel: `Yakuza 5 - #21 - der Mixer [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Eine Sache die ich sehr an der Realität bedauere ist das Menschen nicht in der Lage sind komplexe Kausal-Beziehungen zu sehen und schlimmer noch, diese komplexen Beziehungen werden auch nach längeren Verlauf nicht in Verbindung gebracht. Die Ferndiagnose der japanischen Gesellschaft ist wohl die das die ganze Geschlechterproblematik nicht auf den neusten Stand ist und nie der modernen Welt angepasst wurde, andererseits wurden aber Teile der neueren Arbeitskultur importiert, das aber mit 133% Effektivität was dann dazu führt das die Leute kaum noch Freizeit haben. Es geht natürlich noch weiter, irgendwelche alten Traditionen bleiben bestehen sodass man sich sinnlos in die Arbeit vertieft und mehr Schein als Sein hat, und am Ende kommt man heraus wo man ist, beim Schlechtesten aus beiden Welten. Eines der Symptome dieser ziemlich komplexen Problematik ist das man als Mann Probleme hats eine Frau zu finden und als Frau die Möglichkeit Single zu bleiben doch recht attraktiv ist, weil die einzigen Männer die offen herumlaufen halt keinen Job haben. Einer der Lösungsansätze ist sich selber zu heiraten. Oder zu einem Mixer zu gehen, quasi ein Blind-Date mit mehreren Leuten, in der Hoffnung das irgendwie etwas passiert. Jetzt haben wir aber das Problem das die Leute auch keine Freunde haben und stattdessen ihre Arbeitskollegen mitbringen. Und das ist wie Kiryu hier gelandet ist. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
 ##### #Nummer

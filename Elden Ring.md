@@ -1679,6 +1679,134 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #112
+
+* Titel: `Elden Ring - #112 - Drachenbaumwächter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir schauen heute in die Zukunft, außerdem betreten wir jetzt endlich einmal Leyendell, einen Ort den ich eigentlich schon hätte dreimal betreten können, aber irgendwie habe ich dann doch irgendwo noch eine Ablenkung gefunden. Wenn in irgendwelchen Sci-Fi Serien, Filmen oder auch Fantasy das Ende der Welt oder die Realität nach dem Kollaps gezeigt wird hat man oft das was man heute sieht, fliegende Felsbrocken die um einem endlosen Strudel treiben, schwaches Licht und keine Hoffnung für das Leben. Alternativ könnte man auch sauren Regen und einen ausgedörrten Planeten vor sich haben. Der Ort den wir heute betreten ähnelt dem schon sehr, auch wenn die vielen Drachen erahnen lassen das es irgendwo noch etwas geben muss. Zurück zur großen goldenen Hauptstadt, neben dem Sand der scheinbar überall herum liegt scheint hier eigentlich noch recht viel gut zu laufen. Das ist doch erfreulich oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 27.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #113
+
+* Titel: `Elden Ring - #113 - Straßenbalkon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir mitten drin, man glaubt es aber kaum, aber wir, eine einfache Befleckte haben es bis in die Hauptstadt Leyendell geschafft, und auf dem Weg dahin haben wir sogar einige der großen anderen Fürsten besiegt ohne das uns das all zu große Probleme gemacht hätte. Ich frage mich allerdings warum es noch niemand von den anderen Tafelrunden Leuten probiert hat, anscheinend haben sie ja ähnliche Pläne. Ich ahne daher das wir irgendwann einmal in der Tafelrunde einen plötzlichen Unfall erleben werden, schließlich hat uns bereits einmal ein Ritter versucht unser Leben und damit wahrscheinlich auch unsere große Rune zu nehmen. Wäre es nicht für jeden angehenden Eldenlord ein großes Fest einfach darauf zu warten bis man zuschlagen kann ohne sich die Mühe machen zu müssen vor die Tür zu treten? Offensichtlich erstatten wir ja regelmäßig Bericht beim örtlichen Schmied und scheinbar ist man auch generell sehr gut darüber informiert wie weit wir gekommen sind. Zumindest die relevanten Leute wussten zu jedem Zeitpunkt Bescheid.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 07.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #114
+
+* Titel: `Elden Ring - #114 - Hauptstadtwall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen sind wir heute nicht nur in der großen, goldenen Hauptstadt sondern auch ein wenig in der Provinz. Wir erinnern uns das wir zwischenzeitlich irgendeinen Mädchen oder vielleicht auch schon junger Frau namens Millicent geholfen haben. Die Gute hat wohl zwischenzeitlich einen Arm an der roten Fäulnis verloren, das macht es ihr wahrscheinlich ziemlich schwer ihre Mission fortzusetzen. Die gute Nachricht ist aber das wir ja hier sind um den Tag zu retten. Und es hat sich scheinbar ein Portal aus der Sekiro Welt geöffnet, weil aus diesem Ort fällt die heutige Prothese wohl ab. Oder fiel ab, wir haben das Ding ja schon und überreichen sie ja einfach nur. Ich bin mir sicher das sich Millicent darüber sehr freut, auch wenn man sich fragen muss ob die Prothese nicht eventuell auch Nachteile hat. Und wenn nicht, warum hat nicht jeder Schwertmeister der Welt einen solchen Arm? Zurück in Leyendell versuche ich mich wieder einmal an einem Gargoyl, das macht mir immer wieder gewaltig Spaß. Glaubt man gar nicht oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 07.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #115
+
+* Titel: `Elden Ring - #115 - Leyndell, Kanalisation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich hat eine Stadt wie Leyendell auch eine Kanalisation. Wir erinnern uns an vergangene Klassiker wie Dark Souls 1, 2 und 3, oder auch Bloodborne, alles Spiele die uns großartige Kanalisationen gebracht haben. Hier noch einmal die "Facts". Enge Gänge an denen unser Großschwert abprallt, in der Regel viel zu schnelle Gegner oder fiese AoE Effekte die es quasi unmöglich machen vorwärts, rückwärts und erst recht nicht seitwärts zu gehen. Die Kanalisation ist natürlich noch ein halbwegs fröhlicher Ort, hier gibt es noch relativ breite Gänge in denen wir navigieren können. Wo die ganzen Hände aus dem Caria Anwesen herkommen kann ich übrigens nicht so recht sagen aber sie nerven mich immer noch, auch wenn die bekannte Taktik von "volles Mett aufs Maul" scheinbar immer noch klappt. Schlimmer als die Kanalisation kann es aber wohl kaum werden oder? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 07.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #116
+
+* Titel: `Elden Ring - #116 - Unterirdisches Reservat der Scham [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode erzählte ich von der Existenz enger Gänge die es viel zu schwer machen überhaupt irgendwie zu navigieren, ja, und was soll ich sagen, hier sind wir dann auch. Außerdem laufen hier irgendwelche Mal-Viecher rum, ihr wisst schon, die aus "Mal-Töter" Viecher. Die Male sind anscheinend diese lustigen Hörner, Dornen oder wie auch immer man es bezeichnen will die aus den Leuten wachsen. Ein ähnlicher Effekt wie wir ihn übrigens auch beim Todesnebel sehen. Was das alles zu bedeuten hat kann ich übrigens nicht sagen. Ich verbringe meine Zeit aber eh eher damit schreiend weg zu laufen um dann an irgendwelchen Ratten zu sterben, das macht mein Leben auch wesentlich besser. Mir düngt übrigens durchaus das es sich hier um ein Gebiet handelt das ich eigentlich nicht so früh hätte betreten sollen, aber hier sind wir nun mal, jetzt kann man sich auch durchschlagen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 08.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #117
+
+* Titel: `Elden Ring - #117 - Unterirdische Straßen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist jetzt übrigens nicht so das wir die unterirdischen Hallen der Schande innerhalb von einer Episode hinter uns gelassen haben, es ist nur so das ich nicht mehr als eine Episode mit dem gleichen Namen benennen will. Und die Gelegenheit ist halt günstig die Episoden nach Orten zu benennen an den Rasten können, von mir auch immer wieder gerne als Leuchtfeuer genannt, obwohl es sich eigentlich um Orte der verlorenen und jetzt wieder gefundenen Gnade handelt. Aber ganz ehrlich, mir sind die guten alten Leuchtfeuer irgendwie lieber als dieser neumodischen Magiekram. Das Licht hat einfach nicht das richtige Flackern und kommt nicht so recht rüber. Unabhängig davon hauen wir heute weiterhin unser Schwert gegen irgendwelche Wände während diverse Gegner einfach ohne Probleme durch die Wand durchschlagen, AoE spammen oder zielsuchende Geschosse um sich schießen. Was auch immer mich schneller umbringt. Aber, wir machen Fortschritt. Es scheint vielleicht nicht so, aber jeder Tod bringt mich ein paar Schritte weiter, öffnet eine Tür oder entsperrt eine Leiter, und so kriechen wir vor ran, stetig, ständig, unbeirrt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 08.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #118
+
+* Titel: `Elden Ring - #118 - multipler Regizid [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem ich jetzt ziemliche viele Episoden lang einfach gar nichts gerissen habe kann ich jetzt endlich zugegeben das ich nur meine Kraft gesammelt habe für den großen Schlag. Heute gibt es richtig aufs Maul und ich setze zum dreifach Schlag an. Heute bringen wir alles um das eventuell jemals Hoffnung auf den Thron gehabt haben könnte wenn es den in die richtige Situation gekommen wäre. Es ist ja nicht so das wir wollen das uns jemand diese Eldenfürstgeschichte streitig machen soll. Fangen wir also im Keller an, da läuft anscheinend irgend so ein Kollege herum der meint er sei das große Licht. Leider finden wir dann 5 Meter weiter eine Barriere und wir müssen doch wieder abdrehen. Dann begegnen wir völlig überraschend dem Geist von Godfrey, der Gute war bestimmt einmal ziemlich mächtig aber dem ist halt einfach nicht mehr so, das merkt man auch. Zuletzt finden wir dann noch einen Kerl namens Morgott, ich bin der Meinung ich hab ihn schon einmal getroffen als er sich Margit genannt hat aber so richtig sicher bin ich da nun auch nicht. Gehen wir einfach davon aus das es der gleiche Kerl ist. Wir kennen seinen Namen aber bereits aus den zwei Barrieren die wir an anderen Stellen gefunden haben. Offensichtlich sind wir also auf Kurs.
+  
+  0:00 - Gameplay
+  1:06 - BOSS: Mohg, das Mal
+  3:38 - Gameplay
+  8:46 - BOSS: Godfrey, Erster Eldenfürst
+  9:20 - Gameplay
+  17:16 - BOSS: Morgott, König des Mals
+  18:49 - Gameplay
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 08.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #119
+
+* Titel: `Elden Ring - #119 - Sellias Versteck [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und die Zeit ist wieder einmal reif das ich in die Komplettlösung schaue, klar könnte ich jetzt auch ewig umherlaufen, aber wer hat dafür schon Zeit. Leider überfliege ich die Guides meistens nur und wenn die Dinge dann doch ein wenig besser versteckt sind als ich das ursprünglich angenommen habe dann dauert es halt ein wenig länger. Heute zum Beispiel, hier sind wir an Sellens Quest dran, die möchte nämlich das wir einen Meister Lusat finden, das ist aber leider nicht ganz so einfach weil der gute in irgendeinem Keller abhängt der anscheinend ganz gut versteckt ist. Ziemlich gut übrigens sogar, hinter einer Illusionswand, gefolgt von weiteren Illusionswänden und am Ende ist das auch noch eine ziemlich finstere Höhle am Ende der Welt. Aber hey, am Ende finde ich alles, und ärgere mich nur minimal mit dem Kampf gegen irgendwelche Kristallianer herum, ist das nicht toll? Nein ist es nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 21, Aufnahme vom 11.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1687,4 +1815,3 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
 
   ```markdown
   Hier
-  ```

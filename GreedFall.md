@@ -954,6 +954,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #64
+
+* Titel: `GreedFall - #64 - Dogma & Schisma [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erfahrungsgemäß ist den Leuten sehr wichtig einen stabilen Glauben zu haben. Wenn man an etwas glaubt tut man das ja in der Regel auf so einer passiven Art, das ist halt was man tut, Sonntag geht man in die Kirche und wenn jemand stirbt dann haut man die Leute halt mit den richtigen Riten in den Sand. Man kann die Religion aber auch zu seinem Lebensinhalt machen und sich maximal dafür engagieren, an sich ist das auch nichts Anderes als wenn man sich für seinen Gartenverein besonders viel interessiert. Solche Leute brauchen Systeme, sonst funktioniert das auch alles nicht. Allerdings kann man es hier auch übertreiben, insbesondere Religion hinter der ja angeblich ein großer und gütiger Schöpfergott steht übertreiben es gerne. Interessanterweise begeht man auch gerne Grausamkeiten im Namen besagten Schöpfergottes. Richtig kritisch wird es aber wenn irgendjemand die Grundfesten angeht, klar man sich mit andersgläubigen auseinander setzen und vielleicht sogar eine Art Wettbewerb starten, aber wenn Leute ankommen und den Glauben selbst angreifen, dann wird es kritisch. Umso döffer wenn der Angriff von der Wurzel der eigenen Religion kommt. Das ist dann ein wenig peinlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 9, Aufnahme vom 29.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #65
+
+* Titel: `GreedFall - #65 - Arelwin's Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel ist wieder sehr großartig, weil es ist absolut nicht klar wer zur Hölle eigentlich Arelwin ist. Das erwähne ich natürlich jetzt auch nicht hier, es handelt sich aber offensichtlich um eine Person die uns irgendwie wichtig ist aber leider zwischenzeitlich verschollen ist. Wer genau es jetzt war kommt natürlich nicht heraus, wie kann man auch wirklich wissen wer eine Person war oder ist die man nie getroffen hat. Wir könnten jetzt eine Akte anlegen, ganz oben würde stehen "Arelwin", dann gibt es bestimmt eine paar statistische Einträge wie Geburtsdatum, Beruf und eventuelle Familienverhältnisse, aber am Ende wissen wir immer noch nicht was für eine Art Person wir da eigentlich suchen. Das bringt uns dann zurück zu dem Eintrag mit den Familienverhältnissen, wenn wir die echte Person nicht finden können dann könnten wir immerhin nahe Verwandte suchen und so vielleicht ein wenig Wissen erlangen, das wäre doch bestimmt nicht das Schlechteste oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 9, Aufnahme vom 29.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #66
+
+* Titel: `GreedFall - #66 - die weiße Rose [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich wollte diese Episode ursprünglich anders nennen. Es geht grundsätzlich um eine verschwundene Nautin und anscheinend auch einem Fall von Geheimnisverrat. Die Nauten operieren ja ziemlich viel auf der Basis von geheimen Wissen das nicht in die falschen Hände geraten sollte. Allerdings ist mir absolut unklar warum man dafür unbedingt jemanden braucht der die Geheimnisse willentlich verkauft. Wir hatten bereits herausgefunden das die Brückenallianz in der Lage war eine größere Anzahl an Nauten auf Landgang zu entführen und Wochen wenn nicht sogar monatelang in Gefangenschaft zu halten ohne das dies eine größere Folge für die Entführer hatte. Wenn man jetzt also wirklich an den Wegen der Nauten interessiert wäre müsste es doch eigentlich ein Leichtes sein diverse Mitglieder der Seefahrer solange zu foltern bis man ein konklusives Bild der Technik hat. Das setzt natürlich auch vor raus das man weiß das es sich um Technik handelt, aber irgendwer wird das schon verraten oder? Warum also jetzt, warum nach hunderten von Jahren das jemand auf die Idee kommt die Geheimnisse zu verkaufen? Alles ein wenig sehr verdächtig oder? Daher halte ich mich noch damit zurück eine schuldige Person zu benennen bevor wir nicht ausreichend Beweise haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 9, Aufnahme vom 29.09.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

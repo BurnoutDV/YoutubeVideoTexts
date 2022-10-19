@@ -323,6 +323,46 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #22
+
+* Titel: `Yakuza 5 - #22 - Alles für einen Freund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Treue, insbesondere dem Arbeitgeber gegenüber ist den Japanern sehr wichtig, glaube ich zumindest, habe ich irgendwo einmal gelesen. Wie dem aber auch sei, Kiryu hat durchaus einigen Grund tatsächlich dankbar zu sein weil er scheinbar relativ planlos in diese kleine Provinzstadt gekommen ist. Ich weiß übrigens noch nicht so richtig wie es überhaupt dazu kommen konnte. Allerdings bin ich mir sicher das wir am Ende alles erfahren haben werden, bis es soweit ist fahren wir aber noch ein paar Rennen, um einem alten Freund zu helfen. Oder eher einem Neuen, sechs Monate zählen wohl eher selten als "alter Freund". Kleines Trivia ohne Quelle zu dem Thema: man lernt am ehesten dauerhafte Freunde kennen wenn man mit Leuten viele Dinge in einem relativ kurzen Zeitraum dauert, also gemeinsame Reisen, Grundausbildung, Erstie-Wochen oder so ein Quatsch halt. Das gemeinsame Erlebnis schweißt zusammen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 17.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #23
+
+* Titel: `Yakuza 5 - #23 - das allerletzte Rennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt ist es aber wirklich fast geschafft. Wir setzen uns noch einmal in unser Taxi mit dem festen Vorwand tatsächlich schnell und nicht unbedingt sicher ans Ziel zu kommen. Ich frage mich übrigens bei all diesen Rennen wie genau die ganzen Daten gemessen werden. Mit 2022 Tech könnte ich mir durchaus vorstellen das man mit relativ erreichbaren Aufwand an Material und Technik ziemlich genaue Daten während der Fahrt erheben könnte die ein faires Rennen auf einer Ring-Autobahn rund um eine Stadt durchaus sehr genau ermöglichen würden. Wie man das alles 2012 gestaltet hätte vermag ich nicht zu sagen, ist schon erstaunlich wie 10 Jahre das Verständnis von Technik doch gewaltig ändern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 17.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

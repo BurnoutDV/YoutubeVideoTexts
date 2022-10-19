@@ -1807,6 +1807,95 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #120
+
+* Titel: `Elden Ring - #120 - Mondlicht Altar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Wetter und die Uhrzeit sind Dinge die in den Zwischenlanden definitiv eine Sache ist die mehr als nur Optional sein kann. Heute sind wir zum Beispiel an einem Ort der immer irgendwie im Mondlicht liegt, das ist besonders dann interessant wenn es 5 Meter weiter (und 50 tiefer) helllichter Tag ist. Wir wollen uns nicht ewig hier aufhalten und es gibt auffällig wenig hier zu sehen, ich gehe aber mal davon aus das es für die diversen Tiere die überall herumspringen ganz angenehm ist das es hier so gut wie keine anderen Leute gibt, das verlängert auf jeden Fall das Leben. Leider trifft das Gleiche nicht auf uns zu, größtenteils weil wir einfach viel zu neugierig sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 21, Aufnahme vom 11.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+
+##### #121
+
+* Titel: `Elden Ring - #121 - Hochplateau des Mondes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Mondlicht scheint weiterhin absolut strahlend und erhellt damit unseren Weg. Ich möchte an der Stelle aber anmerken das das Mondlicht eigentlich nicht in dem Sinne strahlt sondern reflektiert wird. Jetzt stellt sich natürlich die interessante Frage wie das alles mit einem magischen Mond funktioniert. Ist die Illusion die uns die Welt im Mondlicht gehüllt zeigt nur individuell und wir denken nur wir stehen im Mondlicht während uns in Wirklichkeit die Sonne die Haut verbrennt? Wird die Insel von einer Kuppel umgeben die wie der künstliche Sternenhimmel in den ewigen Städten funktioniert und an den Rändern gibt es sehr intelligente Magie oder hat sich wirklich jemand die Mühe gemacht den Einfluss des Mondes um die Welt herum zu lenken um diesen Effekt zu erzeugen? Viele gute Fragen auf die ich absolut keine Antwort habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 21, Aufnahme vom 11.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #122
+
+* Titel: `Elden Ring - #122 - tote Tafelrunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel ist ein wenig polemisch, aber wir haben wieder einmal den gleichen Fall wie wir ihn in Dark Souls 3 oder auch in Bloodborne hatten. Der Ort den wir als Nexus benutzen und der uns quasi eine Heimat biete ist irgendwie aus der Zeit gefallen und existiert woanders noch einmal. Oder wird woanders existieren, wir befinden uns nur in einer alternativen Version davon, vielleicht einem Traum oder einer Vergangenheit in der alles noch intakt war. Auch in der echten Tafelrunde ist nicht alles in bester Ordnung aber es scheint doch so als wäre hier noch etwas vorhanden. Wie genau Zeit in den Zwischenlanden funktioniert vermag ich nicht zu sagen aber sicher ist das wir heute quasi eine Replik des Ortes durchstreiten den wir schon kennen. Aber was wird passiert gewesen sein? Werden wir es je erfahren? Die Toten scheinen eher nicht zu reden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 21, Aufnahme vom 11.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #123
+
+* Titel: `Elden Ring - #123 - Urschimmerstein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich doch glatt heraus das die großen Magier von Raya Lucaria herausgefunden haben wie man ewig lebt. Quasi ist es die Altered Carbon Taktik. Anstatt das man seine Seele im Körper verankert lässt (interessante metaphysische Frage wo das genau ist, im Herzen oder im Gehirn? Oder doch eher eine allgemeine Verkettung wie bei Shadowrun wo zuviel Metal dafür sorgt das sich die Seele nicht halten kann?) packt man das gute Stück auf einen externen Datenspeicher den man intern lagert. Damit kann man dann auch vorher unüberwindbare Ketten sprengen indem man sich einfach auf einen anderen Körper hochlädt. Alles was man jetzt noch braucht ist einen zuverlässigen Wirt, ob man dafür jetzt irgendwelche Konstrukte, Marionetten oder einfach den Laborassistenten nimmt ist am Ende ja auch egal oder? Auch ein Klassiker für diese Art der Unsterblichkeit sind übrigens die eigenen Kinder. Das Wiki erzählt mir dann übrigens noch das die Schimmersteinzauberer aber dazu neigen es zu übertreiben und ihre Essenz kombinieren, die Ergebnisse sind wohl nicht so toll. Schade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 21, Aufnahme vom 11.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #124
+
+* Titel: `Elden Ring - #124 - Leyendells Schätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich mir den Weg zum Erdenbaum frei gemordet habe hatte ich relativ wenig Zeit mich richtig umsehen, es stellt sich doch glatt heraus das es durchaus noch die ein oder andere Ecke gibt die ich vorher nicht betreten hatte. Das holen wir jetzt selbstverständlich nach, es wäre ja auch ziemlich doof von mir irgendwelche Schätze liegen zu lassen nachdem ich die Tore der Hauptstadt quasi sperrangelweit geöffnet habe und alle Wächter ermordet zurücklasse. Nicht auszudenken wenn irgendwelche Plünderer die Waren einsacken die von Rechtswegen mir gehören. Also laufen wir noch einmal über die Dächer und schauen uns das alles ganz genau an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 21, Aufnahme vom 11.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #125
+
+* Titel: `Elden Ring - #125 - Heilige Türme von Ost-Altus & Caelid [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt aber schnell, viel zu lange schon habe ich mich damit aufgehalten irgendwie durch die Gegend zu springen und eine Menge nichts zu tun, das ändern wir jetzt endlich und machen uns auf den Weg die Lande nördlich von Leyendell zu bereisen, das kann eigentlich gar nicht so lange dauern wenn ich mich ein wenig anstrenge oder? Aber da fehlte doch noch eine Sache oder? Richtig, in Caelid stand noch so ein verdammter Turm herum und den haben wir technisch gesehen noch gar nicht erkundet, was wenn wir wieder einmal eine Rune einsetzen wollen und diese auch benutzen wollen? Dann können wir das nicht weil wir sie noch nicht eingestaucht haben, also machen wir uns auf und finden einen Weg den großen Turm herauf. Wie dem aber auch sei, in der Hauptstadt gibt es auch einen Turm, kurios ist allerdings warum es sich um den Turm von "Ost-Altus" handelt, das impliziert die Existenz von mindestens einem weiteren Turm, vielleicht sogar noch drei weitere, für jede Himmelsrichtung einen, an einem wichtigen Ort wie der Hauptstadt scheint mir das durchaus im Rahmen des Möglichen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 21, Aufnahme vom 11.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1815,3 +1904,14 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
 
   ```markdown
   Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

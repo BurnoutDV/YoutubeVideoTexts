@@ -1896,14 +1896,94 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
-##### #Nummer
+##### #126
 
-* Titel: ``
+* Titel: `Elden Ring - #126 - Im Keller des Hauses Vulkan [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt immer noch offene Stellen, ich glaube auch nicht das es mir jemals möglich sein wird alle Orte in einem Durchlauf gesehen zu haben. Dafür hätte ich mir am Anfang eine schöne Papierliste ausdrucken müssen auf der ich dann jede Etappe abgehakt hätte. Habe ich aber nicht, und daher laufen wir ein wenig orientierungslos durch die Welt aber da sind ja immer noch so ein paar Orte die ich mir trotzdem angucken kann die nicht ganz so versteckt sind. Zum Beispiel kann man dem Haus Vulkan beitreten und dann vor Ort noch ein wenig im Keller rumstromern. Es geht sogar soweit das es Illusionswände im Anwesen gibt, wer hätte das gedacht? Und das führt dazu das wir entdecken das der Keller ziemlich umfangreich ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 22, Aufnahme vom 18.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #127
+
+* Titel: `Elden Ring - #127 - Im Vulkan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute wird es heiß, stellt sich doch glatt heraus das der Großteil von Haus Vulkan nicht verbrannt ist wie ich ursprünglich annahm sondern viel mehr noch fast vollständig zugänglich ist. Die ehemals stolzen Mitglieder des Hauses sind wohl ein wenig verbraucht und stehen für Interviews nicht mehr zur Verfügung aber am Ende kriege ich doch noch ein paar Antworten. Man muss nur die richtigen Fragen stellen, zum Beispiel ob sie Runen für mich haben. Und natürlich haben sie das, also schlage ich mich ein wenig durch, wate durch Lava und erfreue mich an einer völlig neuen Zone die ich beinahe übersehen hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 22, Aufnahme vom 18.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #128
+
+* Titel: `Elden Ring - #128 - Fragmentträger Rykard [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Soweit ich das verstanden habe müssen wir nicht zwingend alle Teile der Fragmente einsacken um zum Eldenbaum zu kommen, so wie es aussieht würde es vollkommen ausreichen wenn wir die Bude einfach nur niederbrennen und dann danach greifen was sich in seinem Inneren befindet. Eventuell können wir auf das Verbrennen verzichten wenn wir es schaffen alle Teile einzusammeln. Ein Teil davon habe ich heute zum Beispiel erreicht, wir begegnen nämlich Fragmentträger Rykard, anscheinend einst ein ziemlich großes Tier und wie ich später erfahre anscheinend auch der Fürst von Herrin Tanith, das bringt uns natürlich in einer sehr seltsamen Position ihr gegenüber. Aber davon einmal abgesehen war Rykard schon ein wenig komisch, am Ende sollte es aber niemanden überraschen das wir letztendlich siegreich waren, und das ohne all zu viel Aufwand. Gut oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 22, Aufnahme vom 18.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #129
+
+* Titel: `Elden Ring - #129 - der versiegelte Tunnel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der versiegelte Tunnel oder auch "wie ich googlen musste um endlich die Klangperle für die 3er und 4er Schmiedesteine zu finden. Das nervt mich ja schon länger und langsam aber sicher brauche ich den Stuff halt um verschiedene Sachen zu testen und wenn man dann noch ewig seinem Gear hinter her rennen musst macht das ja auch keinen Spaß mehr. Kleiner Funfact hier aber auch, der Gang führt uns dann auch noch zu einem weiteren heiligen Turm wo wir dann die Seele von Fragmentträger Rykard direkt mal einschmelzen kann. Ich habe wirklich nur nach der Perle gesucht, das wir hier noch an der Hintertür quasi  einen Zugang zu etwas finden das wir sowieso gesucht haben ist natürlich ein äußerst nützlicher Zufall wie ich sagen möchte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 22, Aufnahme vom 18.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #130
+
+* Titel: `Elden Ring - #130 - Katakomben von Leyndell [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich bin ich heute auf den Spuren des Dungfressers habe mich auf dem Weg aber leicht verlaufen, das führt dazu das ich heute ganz woanders herauskomme. Namentlich ist das eine kleine Katakombe die sich quasi im bereits versiegelten Bereich der Kanalisation von Leyendell befindet. Was ich damit sagen will, der Platz ist richtig schwer zu erreichen und ich kann mir nicht so richtig vorstellen das es irgendjemanden leicht fällt hier die toten Würdenträger der Stadt zu begraben weil wenn man hier irgendetwas hin bringen will muss man sich schon ganz schön anstrengen. Es kann natürlich immer noch sein das es irgendwo einen geheimen Fahrstuhl gibt oder die Katakomben auch einfach nur voll sind, so oder so war das Design der Einrichtung aber schon ein wenig verwirrend, nächstes Mal nehme ich Glimmersteine mit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 22, Aufnahme vom 18.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #131
+
+* Titel: `Elden Ring - #131 - der Dungfresser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir im Nachhinein nicht so ganz sicher wie ich das Aufnehmen soll was heute anscheinen passiert. Die Prämisse ist die das der Dungfresser anscheinend irgendeine Art von Fluch an die Leute verbreitet hat die er tötete. Diese Art von Fluch geht irgendwie davon aus das die Menschen (?) eine Art Leben nach dem Tod haben von dem sie aber nach einer Weile wieder zurückgehen. Es gibt also einen Teil der Leute der ziemlich ewig ist. Diesen ewigen Teil kann man aber manipulieren und dafür sorgen das ein Fluch an diesen Personen/Seelen oder wie auch immer hängt. Wenn jetzt eine solche gezeichnete Seele Nachkommen hat (ein Thema das bis jetzt so gar nicht aufkam weil anscheinend alles irgendwie statisch ist) dann ist diese Seele ebenso mit verflucht, also quasi über die physische Route. Wenn man bedenkt das durch das Recycling der Seelen unendlich viel Distanz überbrückt wird müsste im Laufe der Zeit alles verflucht sein. Außerdem sind einige wenige der Fluchkinder wohl auch in der Lage den Fluch noch weiter zu verbreiten, über ihre eigenen Nachkommen hinaus. Kurzum ist es nur noch eine Frage der Zeit bis es alle erwischt hat. Was die Konsequenz daraus ist ist nicht klar, aber irgendwie erscheint es mir doch recht böse. Oder der Dungfresser ist einfach irre und nichts von dem was er sagt passiert wirklich. Ich habe absolut keine Ahnung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 22, Aufnahme vom 18.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
 ##### #Nummer

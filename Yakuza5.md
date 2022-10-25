@@ -353,14 +353,94 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
-##### #Nummer
+##### #24
 
-* Titel: ``
+* Titel: `Yakuza 5 - #24 - Kapitel 3 [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Yakuza Spiele sind nicht, oder waren es zumindest nicht, so aufgebaut wie ein klassisches Bühnenstück mit fünf Akten, weil sonst wäre es auch ein wenig komisch das wir jetzt schon im dritten Akt sind. Sind wir aber nicht, stattdessen befinden wir uns immer noch im ersten Teil aber davon dem dritten Kapitel. Ich habe noch nicht so ganz verstanden was es genau ausmacht ein bestimmtes Kapitel zu erreichen, nur das es dann eventuell eine andere Tageszeit ist und man ein paar mehr Nebenquests tun kann. In dieser Hinsicht bin ich aber auf dem allerneusten Stand und es bleibt quasi nichts zu tun. Darauf bin ich ja schon ein wenig stolz. Also machen wir einfach weiter und sehen wohin uns die Reise noch bringt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 17.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #25
+
+* Titel: `Yakuza 5 - #25 - die Spannung steigt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Viele junge Autoren machen anscheinend den Fehler das sie ihre Geschichte mit einem großen Glossar an Informationen beginnen. Das ist vielleicht ganz schön wenn man sich wirklich für solche Dinge interessiert, für die breite Masse ist das aber eher unangenehm, wer will sich schon voll in eine Welt rein denken ohne das man überhaupt weiß ob die Welt es wert ist, oder der Dialog. Yakuza 5 setzt Wissen aus den Vorgängern vor raus, aber fängt so an als wäre es ein völlig neues Spiel. Hier und dort werden Dinge erwähnt und wir wissen das irgendetwas passiert ist, eigentlich wissen wir sogar genau was geschah aber nicht so richtig warum. Das wissen wir auch immer noch nicht, aber immerhin erfahren wir langsam was vor uns liegt und was uns noch so alles treffen könnte. Und ein wenig Vergangenheit gibt es auch, wenn auch eher spärlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 17.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #26
+
+* Titel: `Yakuza 5 - #26 - erkenntnisreiche Taxifahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als Taxifahrer kriegt man wahrscheinlich eine Menge mit, wahrscheinlich auch gleichzeitig ein ziemlich unvollständiges Bild der Realität, aber man hat zumindest Ansätze, wenn man dann noch an den richtigen Stellen nachhakt kann man bestimmt einiges über die Welt und ihre aktuellen Geschehnisse erfahren. Mein Traum wäre es trotzdem nicht, das Wissen scheint mir doch ein wenig sehr dünn durch zu kommen. Als Spion ein Netzwerk an Taxifahrer zu besitzen die das aufgeschnappte berichten könnte aber ziemlich nützlich sein wenn man Informationen vergleichen und verknüpfen kann. Als Einzelperson sind die Brocken ja doch recht nutzlos, es sei den man hakt nach und hat richtig dolle viel Glück bei der Investigation, dann kommen schon einmal ein paar Diamanten rum.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 17.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #27
+
+* Titel: `Yakuza 5 - #27 - Siegerstraßen-Turnier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kiryu ist nicht mehr der Jüngste, das große Ding in den Yakuza Spielen ist ja generell das Kiryu eigentlich nie der Jüngste war. In Zero war er halt noch recht jung aber seine allerbesten Jahre hat er quasi im Knast verbracht. Und doch gibt es da anscheinen ein Martial Arts Turnier an dem wir mehr oder weniger freiwillig teilnehmen, alles was wir dafür tun müssen ist irgendwelche random Dudes auf der Straße zu verprügeln. Das klingt alles schrecklich spannend aber ich frage mich wirklich ob nicht irgendwann ein jüngerer Kerl ankommt und einfach so gewinnt, einfach weil er jünger ist. Da kann dann auch Technik und Reputation wenig gegen machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 17.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #28
+
+* Titel: `Yakuza 5 - #28 - Masaru Watase [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwann einmal, und das kann nicht mehr lange dauern, müssen die alten Yakuza alle sein die sich noch an Kazuma Kiryu erinnern, wenn man direkte Inspiration von den echten japanischen Mafiaverbänden ziehen will gibt es wohl bald gar keine Yakuza mehr und dafür mehr klassische "White-Collar" Crimes, also die guten alten Diebstähle im großen Stil in Form von Banken, Kickbacks und ganz normaler Korruption mit weniger viel harter Erpressung. Nicht einmal das Verbrechen ist dann für die kleinen Leute da. Für Kiryu kann dieser Zeitpunkt wohl nicht früh genug kommen aber im Moment gibt es noch viel zu viele die vom legendären Drachen von Dojima gehört haben. So auch Masaru Watase, der anscheinend interessante Pläne für uns hat. Das das war er plant ein wenig an Größenwahn erinnert ist wahrscheinlich kein Zufall, andererseits kennen wir das aber auch schon von Gegner bei Yakuza. Wie auch sonst soll die aberwitzige Story anfangen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 17.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #29
+
+* Titel: `Yakuza 5 - #29 - der Komaki Gegenschlag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Tag heute geht ein wenig langsamer los, die Ausgangslage ist die das ich gar nicht mehr so richtig weiß was ich beim letzten Mal gemacht habe weil ich mich natürlich wie immer nicht richtig vorbereitet habe. Das rächt sich jetzt und daher laufe ich ein wenig orientierungslos durch die Gegend. Aber keine Angst, ich verwende die Zeit gut um mich ausreichend auf zu regen. Die Sachlage ist die das ich auch im sechsten Yakuza Spiel immer noch nicht so richtig weiß wie eigentlich das Spiel funktioniert. Die Kämpfe wollen irgendwie stilvoll sein aber letztendlich habe ich immer noch keine Ahnung was ich gegen Gegner machen die einfach nur stumpf blocken. Anscheinend kann ich die guten Blocks nicht auflösen und die Art von Gegenschlag die meine Gegner zur Verfügung haben stehen mir einfach nicht zur Verfügung. Das ist ein wenig traurig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 24.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
 ##### #Nummer

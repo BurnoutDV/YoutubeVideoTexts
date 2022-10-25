@@ -999,6 +999,82 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
+##### #67
+
+* Titel: `GreedFall - #67 - Claras Verzweiflung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Familie ist die Hölle. Irgendwie, besonders wenn die Leute aus irgendwelchen Gründen ein Interesse daran haben über das eigene Leben zu bestimmen. Dafür gibt es verschiedene Gründe, zum Beispiel wirtschaftliche Vorteile. Der Klassiker ist ja die Hand der hoffentlich schönen Tochter an einem reichen Geschäftspartner mit Sohn zu veräußern um einen besonders guten Deal zu erhalten oder Dynastien zu gründen. In der Greedfall-Welt ist das wahrscheinlich weniger ein Ding weil Frauen in den meisten Kulturen so etwas wie Parität in Rechten zu haben scheinen. Wenn es wirtschaftliche Gründe gibt könnte man sich los reißen in dem man diese Gründe irgendwie zu nichte macht, nicht einfach aber ein klarer Weg. Jetzt gibt es aber Gründe wie Glaube, Moral oder einfach nur Ehre. Das ist ein echtes Problem. Spurlos unterzutauchen und alle Verfolger brutal umzubringen erscheint mir als die einzige Möglichkeit hier einen sauberen Schnitt zu machen, aber selbst dann kann man sich nicht sicher sein nicht trotzdem noch verfolgt zu werden. Das Ganze kann zu einem gewissen Grad der Verzweiflung führen wenn man merkt wie klein die Welt letztendlich wirklich ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 10, Aufnahme vom 20.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #68
+
+* Titel: `GreedFall - #68 - der Feind im Inneren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mittlerweile wissen wir ziemlich zweifelsfrei das unsere gute Clara nicht wirklich daran interessiert war irgendwelche Geheimnisse zu verkaufen, das erklärt auch warum sie so glücklich mit den Nauten war. Sie hatte einfach keine Grund ihre neue Familie zu verraten und hat sich wirklich wohl gefühlt. Problematisch ist jetzt leider das das noch nicht das (tragische) Ende vom Lied ist. Viel mehr ist es so das es immer noch eine zusätzliche Stufe gibt. Und es wurde auch plötzlich politisch, ich mag es ja nicht besonders wenn das passiert. Das macht viele Situationen ziemlich unangenehm weil man nicht mehr einfach nur handeln kann sondern vorsichtig sein muss wann man was und wo sagt. Gut das wir bereits Diplomat sind und daher durchaus einiges Talent in der dieser Richtung besitzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 10, Aufnahme vom 20.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #69
+
+* Titel: `GreedFall - #69 - Rechnungen begleichen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Egon vergessen! Die Verbrecherorganisation die sich neben der ganzen Putschgeschichte außerdem noch in der Groschengarde befindet. Das alles ist ein wenig befremdlich weil es sich ja schon so anfühlt als müsste die Garde auch einige Mitglieder bei Egon verloren haben wenn die Putsch-Fraktion bereinigt wurde. Anscheinend ist dem aber nicht so und wir haben hier immer noch eine große Bedrohung. Das die Söldner direkt Quelle für zwei größere Schwierigkeiten sind lässt mich ja doch ein wenig daran zweifeln das es so klug ist das eigene Militär an Schlägern mit Ehre aus zu lagern, nicht immer macht es Sinn externe Dienstleister für etwas anzuwerben. Insbesondere Militäraufgaben aber auch den Polizeiteil kann ich mir irgendwie nur schwer in der Hand einer Organisation vorstellen die nicht direkt am restlichen Machtapparat angebunden ist. Da könnte der ein oder andere Kommandant doch ein wenig ambitioniert werden oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 10, Aufnahme vom 20.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #70
+
+* Titel: `GreedFall - #70 - Schmuggelware [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man Spiele spielt darf man nicht vergessen das unsere Moralvorstellungen in der westlichen Welt und insbesondere Mitteleuropa eher die Ausnahme als die Regel sind. Die Spieleentwickler bringen natürlich auch einen gewissen Grundtenor an Meinung mit in so einem Spiel. Wir haben zum Beispiel wesentlich prominenter Frauen in wichtige politischen als auch wirtschaftlichen Rollen um eine gewissen Repräsentation auf zu bringen, das ist wichtig aber für eine Welt mit dem Wissenschaftlichen Niveau der Renaissance nicht so wahrscheinlich. Auf der anderen Seite wirkt eine Welt wie die von Gothic außerordentlich befremdlich in der die einzigen Frauen die wir treffen Kurtisanen, Ehefrauen und eine Patty sind. Davon einmal abgesehen gibt es aber auch Moralvorstellung abseits der Geschlechter, zum Beispiel Menschenrechte, Meinungsfreiheit und solche kleine Dinge die man leicht übersieht. Aber auch das Konzept das andere Leute nichts sind das man einfach so besitzen kann. Hier macht man gerne die Trennung zwischen Hautfarbe oder Geschlecht aber alles in allem ist das Etwas das man eher selten aktiv gelebt vor sich sieht. Das Verbrechen von Egon heute ist also nicht Menschenhandel, bei allem was wir wissen ist das in keinem der Reiche strafbar, sondern der Schmuggel von Waren ohne Genehmigung durch die Nauten. Die haben vielleicht auch etwas gegen Menschenhandel aber in erster Linie ist das nicht was das Problem darstellt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 10, Aufnahme vom 20.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #71
+
+* Titel: `GreedFall - #71 - Schmutziger Handel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Quasi die Fortsetzung der Beschreibung aus Episode 70...
+  Wir dürfen also nicht davon ausgehen das man auf dem Land der Händlerkongregation etwas Schlechtes daran findet Menschen zu besitzen und wie Vieh zu halten. Generell vertrete ich die Meinung das es falsch ist jemanden als Besitztum zu betrachten, außerdem würde ich aber zusätzlich noch das Argument aufmachen das es eventuell sogar unwirtschaftlich ist. Solange man sich nicht besonders daran erfreut jemanden aus einem Überlegenheitsgefühl zu knechten und zu kontrollieren sind Sklaven ja doch eine recht teure Angelegenheit. Klar kann man die zu Tode arbeiten, aber wenn man auch nur minimal höhere Tätigkeiten hat und diese eine gewisse Ausbildung brauchen muss man die Leute auch schonen. Und dann braucht man Aufseher, die auch keine harten Rassisten sein dürfen sonst ruinieren sie die Arbeitskraft. Und dann gibt es da noch das alte Sprichtwort: "Slave labour, you get what you pay for". Oder aber auch "Pay peanuts, get monkeys". Im Englischen einfach schöner. Und doch, müssen wir akzeptieren das nicht alle gesellschaftlichen Regeln hier die gleichen sind, und selbst wenn Sir de Sardet das anders sieht muss das noch nicht heißen das es auch die Reiche so sehen, als Diplomat kann er hier nur selten eine harte Meinung durchdrücken und muss sich zurückhaltend ausdrücken. Das kann manchmal nicht so leicht sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 10, Aufnahme vom 20.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

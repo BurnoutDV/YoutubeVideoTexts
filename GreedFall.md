@@ -1075,7 +1075,393 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #72
+
+* Titel: `GreedFall - #72 - Vertrauensverlust [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Groschengarde funktioniert unter der Annahme das die Söldner, sobald man sie einmal bezahlt hat, treu bleiben egal was danach kommt. Zumindest denke ich einmal das das die Grundannahme ist, anders kann ich mir nicht vorstellen wie irgendeine Reich überhaupt in Erwägung ziehen würde eine eigene Armee für eine Söldnertruppe zu ersetzen. Warum man das überhaupt tun sollte und wie es soweit kommen konnte ist für mich noch nicht abschließend geklärt aber vielleicht steht die große und absolut einleuchtende Erklärung auch im Glossar und ich habe sie einfach noch nicht gelesen. Heute sehen wir Dinge die ein wenig abträglich in Sachen des Vertrauens in der Groschengarde sind. Was ich mich auch frage ist ob die Groschengarde gegen sich selbst ins Feld ziehen würde. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 10, Aufnahme vom 20.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #73
+
+* Titel: `GreedFall - #73 - Probleme in Wenshaveye [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist relativ erstaunlich wie wenig Schutz die Eingeborenen eigentlich gegen Probleme von Außen haben. Jetzt ist die Ankunft der Festländer durchaus etwas das man als größeres Ereignis ansehen kann aber dennoch hätte ich gedacht das sie ein wenig besser damit umgehen können insbesondere weil die einzelnen Stämme ja miteinander im Kontakt stehen. Argumentativ anführen könnte man wohl das die Probleme alle gleichermaßen betreffen und wer das Pech hat in der Nähe der Brückenallianz zu wohnen hat wohl auch keinen Spaß, nicht das die Experten aus Théléme unbedingt besser sind. Wie dem aber auch sei, zum Glück ist Sir de Sardet hier um den Tag zu retten. Das machen wir in dem wir einfach all die Probleme lösen die die Ureinwohner nicht selbst lösen können und hoffen dann darauf das am Ende ewige Dankbarkeit die Belohnung ist, eine Währung die wir gut gebrauchen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 10, Aufnahme vom 20.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #74
+
+* Titel: `GreedFall - #74 - ein verschwundenes Paar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt gewisse Klischees die einfach geschehen ob man will oder nicht. Natürlich kann man die Augen rollen und behaupten das irgendetwas viel zu klischeehaft ist aber die Wahrheit ist einfach das solche Vorurteile ja nicht von alleine entstehen sondern durchaus eine Grundlage in der Realität haben. Zum Beispiel wenn es genau zwei vermisste Personen gibt und beide eher jung sind. Recht wahrscheinlich ist auch ihr Geschlecht unterschiedlich aber das ist nicht immer zwingend eine Bedingung. Generell gilt, zwei junge Leute plötzlich weg, klingt nach Pärchen. Daher fragen wir uns heute ein wenig durch und treffen außerdem noch einen Bruder Hilarius (das ist nicht weiter wichtig aber ich fand den Namen witzig) und dann finden wir Spuren. Bei Vermisstenfällen ist es meistens nicht besonders gut wenn die Leute länger weg sind, und das gilt wohl erst recht nicht wenn man es mit einer lebensfeindlichen Insel zu tun hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 11, Aufnahme vom 27.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #75
+
+* Titel: `GreedFall - #75 - Linderung der Schmerzen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die genaue Natur des Malichor ist nach wie vor nicht bekannt allerdings haben wir ja zwischendurch erfahren das die Krankheit anscheinend regulär übertragen werden kann oder zumindest so modifiziert werden kann damit genau dies geschieht. Ihre Heilung scheint aber nicht ganz so trivial zu sein. Wenn jemand krank ist und die Heilung länger auf sich warten lässt ist es zumindest schon ein kleiner Trost wenn man einen Weg hat die Schmerzen oder Symptome zu mildern. Nach langer und intensiver Suche haben wir endlich etwas gefunden das unseren geliebten Cousin wohl die Erleichterung bringen sollte die uns weitere Zeit kauft. Auch wenn unsere Optionen und Joker Stück für Stück weniger werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 11, Aufnahme vom 27.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #76
+
+* Titel: `GreedFall - #76 - Glendan der Ratsvorsteher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein Loch gestopft, der Kahn sinkt natürlich einfach weiter jetzt aber langsamer. Also machen wir uns an das nächste Großprojekt. Es hat sich doch glatt herausgestellt das man nicht so einfach mit On ol mi frichtinim reden kann. Viel mehr ist das ein Privileg das nur dem Hochkönig der Insel vor enthalten ist. Besagter Hochkönig heißt übrigens Vinbarr und ist wohl schon seit längerer Zeit verschollen. Nicht direkt vermisst, eher weg gewandert und niemand weiß wo er ist. Der Mann ist durchaus mächtig und sollte in der Lage sein sich selbst zu schützen allerdings geht er wohl gerne auf Wellness Urlaube in den tiefen Wald und bleibt dann dort eine Weile. Bevor wir aber soweit kommen müssen wir uns noch mit dem Hofhalter herumärgern. Gut das niemand mitgezählt hat wie oft wir schon kreuz und quer über die Insel gereist sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 11, Aufnahme vom 28.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #77
+
+* Titel: `GreedFall - #77 - Versprechen in Stein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir befinden uns jetzt in der dritten Ebene. Ganz oben sind wir ja eigentlich dabei eine Heilung für den Malichor zu finden, im Zuge dessen versuchen wir weiterhin Vinbarr den Hochkönig auf zu treiben und jetzt kommt Siora noch dazu und erzählt das es zuhause in ihrem Dorf Probleme gibt. Anscheinend kennen die Eingeborenen durchaus das geschriebene Wort haben dieses aber nur auf ihre höchsten Priester und einige weniger Auserwählte beschränkt. Allerdings gehört neben der Haltbarmachung von alten religiösen Texten auch das Vertragswesen zu den Einzugsgebieten für geschriebenes Wort. Man meißelt wortwörtlich Absprachen in Stein und parkt dann die entsprechenden Worte an einem bekannten Ort. Nur ist es so das im Falle der Absprache mit Theleme und Sioras Stamm der entsprechende Stein wohl zerstört wurde, und jetzt möchte man das wir einfach so dem Wort der Priester glauben. Das erscheint etwas fischig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 11, Aufnahme vom 28.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #78
+
+* Titel: `GreedFall - #78 - Begräbnisritual [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben ist für die Lebenden aber ohne ordentlichen Abschluss könnte es schwer fallen das Leben weiter zu führen ohne das der Schatten Jener die vorher da waren niederschlagen weiter zu führen. Deswegen hat man Rituale wie Beerdigungen, eine feste Zeremonie die es einfacher macht Abschied zu geben. Das ist insbesondere dann wichtig wenn die eigene Religion auch noch vor sieht das man nur von der Natur leiht und am Ende eines Lebenszykluses wieder zurück in die Erde gegeben wird. Dann ist ein solches Ritual soviel wichtiger und daher helfen wir natürlich heute ein eben solches durchzuführen. Insgesamt wirkt Sioras Stamm aber sehr unvorbereitet, wir müssen mehre Bestandteile selber mitbringen obwohl doch nach der Schlacht größere Mengen zur Verfügung stehen sollten oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 11, Aufnahme vom 28.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #79
+
+* Titel: `GreedFall - #79 - Viper im Wald [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann ist auf einmal Constantin weg, aber das hat auch etwas Gutes. Wir können uns nämlich offiziell mit dem de Vespe DLC auseinander setzen. Das würde nämlich nicht funktionieren wenn unser verehrter Cousin grade verfügbar wäre. Stattdessen erfahren wir das sich eine weitere Fraktion aus dem Heimatland auf der Insel niedergelassen hat und angefangen hat ein Kontor und die Alkoholproduktion hoch zu fahren. Oder auch nicht, das hier ist schließlich kein Anno. Aber immerhin eine kleine Niederlassung gibt es wirklich und die Intentionen dieser weiteren Fraktion sind uns absolut fremd. Aber auch im Allgemeinen haben wir bisher kaum etwas von "unserer" Fraktion erfahren, klar gab es da ein paar korrupte Händler, aber von den großen Fürsten hört man weniger viel. Anscheinend ist der Einfluss der de Orsays einfach stark genug um die Anderen von der Insel fern zu halten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 12, Aufnahme vom 01.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #80
+
+* Titel: `GreedFall - #80 - Aurélia De Vespe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da ist sie dann auch, unsere Gegenspielerin für den Abend. Letztendlich könnten wir das Ganze wohl ziemlich schnell erledigen wenn wir uns nicht sehr zurückhalten müssten weil es politische Gründe gibt inaktiv zu bleiben. Allerdings finde ich das Aurelia ihre eigene Position und die Sicherheit der Insel massiv überschätzt. Wären wir wirklich skrupellos könnten wir sie bereits bei dieser ersten Begegnung ohne größere Probleme beseitigen und niemand wüsste das wir es gewesen wären. Von daher ist der Aufbau außerhalb der etablierten Zivilisation ein wenig seltsam anmutend, die Sicherheit einer kleinen Gruppe Siedler ohne echte Militärunterstützung erscheint doch bestenfalls fragwürdig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 12, Aufnahme vom 01.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #81
+
+* Titel: `GreedFall - #81 - halbherzige Hinterhältigkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere neue beste Freundin Aurélia zeigt ihre Karten wirklich früh, das steht auch in der Kritik dieses DLCs und ich kann dem voll und ganz zustimmen. Bekannterweise spiele ich ja ziemlich lange und verbringe oft auch Zeit damit Alternativen zu besprechen oder Gedanken auszuformulieren und dennoch ist nach nicht einmal einer Stunde eigentlich völlig klar wie uns die gute Aurélia aufs Kreuz legen will. Das Ganze ist echt ziemlich halbherzig sagt uns aber das sie sich ziemlich schlecht über uns informiert hat. Da die Quest von einem bestimmten Stand innerhalb der Hauptquest abhängt sind wir auch immer ungefähr gleich stark  wenn wir hier sind und das was uns vorgesetzt wird ist eine ernsthafte Beleidigung meiner Sinne. Obwohl, fairerweise muss man sagen das in einer anderen Realität in der Menschen nicht 20 Schusswunden aushalten ein guter fünf Mann Hinterhalt durchaus Erfolg gehabt hätte, nur in dieser Realität sind wir nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 12, Aufnahme vom 01.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #82
+
+* Titel: `GreedFall - #82 - Madame Lavoisin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute begegnen wir einen der coolsten Charaktere im DLC. Madame Lavoisin, anscheinend nach einer historischen Person benannt. Während Aurelia de Vesper halt irgendwie unnahbar erscheint und eigentlich das Äquivalent zu Konstantin ist handelt es sich bei Lavoisine um jemanden die im Feld zu finden ist. Eine Person die die praktische Arbeit verrichtet und dafür sorgt das Dinge geschehen. Wir stehen vielleicht auf unterschiedlichen Seiten des Konflikts aber mit einer solchen Person kann ich irgendwie sympathisieren. Jemand der solide Arbeit ausführt und nicht nur darüber redet. Eine andere Geschichte hätte zum Beispiel auch sein können das wir Madame Lavoisin viel früher bereits als Gegenspielerin vorgestellt bekommen und sich erst nach und nach herausstellt das sie im Auftrag der de Vespes steht. Das allerdings wäre dann wohl eine längere Geschichte gewesen. Auch ihr Outfit bzw. generell die Rüstung der Assasssinen hat irgendwie auch einen gewissen Style. Leider bleibt uns die gute nur eine sehr kurze Zeit erhalten weil sie ärgerlicherweise den Fehler macht sich nicht nur auf öffentliche Auftritte und hinterhältige Tätigkeiten zu beschränken. Stattdessen wird sie direkt gegen uns aktiv. Und das, so können Massengräber bezeugen, ist eine außerordentlich schlechte Idee seit wir den großen AoE Stun gelevelt haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 12, Aufnahme vom 01.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #83
+
+* Titel: `GreedFall - #83 - exzellente Fälschung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine perfekte Fälschung ist nicht vom Original zu unterscheiden. Wer kann schon sagen was wirklich ein Original ausmacht. Solange wir nicht weitere Eigenschaften finden die über die Physik hinaus gehen wäre es theoretisch möglich eine absolute perfekte Kopie zu erstellen die im Moment ihrer Erstellung das Wort Kopie direkt durch "Zweitausgabe" ersetzt, aus einem Unikat wird eine Kleinserie von zwei. Rein wissenschaftlich betrachtet kann nichts für alle Zeit einzigartig bleiben. Es sei den natürlich wir finden eine spirituelle Komponente die irgendwie den Schöpfer, die Zeit oder irgendetwas Anderes einzigartiges enthält das Dritte nicht nachstellen können. Etwas so plumpes wie das Siegel einer Familie kann aber auf keinen Fall diese Rolle ausfüllen. Daher wissen wir ziemlich sicher das das Dokument das wir heute finden eher eine Fälschung ist. Ärgerlicherweise ist eine gute Fälschung fast so etwas wie das Original. Ohne sehr konkrete Beweise macht es das sehr schwierig in guter Absicht eine Anklage zu erheben ohne eine Restgefahr zu haben das man aufläuft. Die Fälschung in diesem Fall ist nicht das Siegel selbst sondern das womit es gefertigt wurde, das bringt Rauschen und Unschärfe ins System. Wir müssen also eine Ebene höher gehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 12, Aufnahme vom 01.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #84
+
+* Titel: `GreedFall - #84 - Kompromat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Wort Kompromat kommt eigentlich aus dem russischen, richtiger wäre "kompromittierendes Material", gerne benutzt im Zusammenhang mit Erpressungen. Allerdings hat man dann das Problem das man ein extrem unhandliches Wort durch die Gegend schwingen muss, daher nutzen wir heute und für alle Zeit wohl dieses schöne Kompott Wort das aus der mittlerweile etwas ferneren Vergangenheit kommt. Zur Sache. Es geht natürlich darum das die gute Aurelia passive Macht über uns auswirkt in dem sie damit droht bestimmte Daten der Öffentlichkeit preis zu geben, das können wir natürlich nur mit Gewalt verhindern allerdings stelle ich auch ein wenig in Frage wie gut die de Vespers tatsächlich im Daten sammeln sind. Das was wir bisher gesehen haben war bestenfalls mittelmäßig. Daten die Lücken aufweisen bieten uns wunderbare Möglichkeiten diese Aussagen anzugreifen in dem wir Dinge bekannt geben die offensichtlich falsch sind und dann auch öffentlich bezeugt werden. Generell erscheint mir aber diese ganze Erpressungsgeschichte nicht besonders gut möglich zu sein wenn man bedenkt das die Öffentlichkeit bisher ziemlich unwichtig war und mir kann doch keiner erzählen das die anderen Handelsprinzen nicht durchaus die Hälfte von dem wissen was wir heute finden. Insbesondere den Ursprung von Sir de Sardet sollte doch eigentlich jeden bekannt gewesen sein der 2 und 2 zusammen zählen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 12, Aufnahme vom 01.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #85
+
+* Titel: `GreedFall - #85 - Ende der Verschwörung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und das war es dann auch schon wieder mit dem "de Vespe" DLC. Ich kann eigentlich nur das Gleiche sagen wie diverse Reviewer auf Steam. Es ist zwar schön das sie die ganzen original Synchronsprecher des Hauptspieles noch einmal angestellt haben um zusätzliche Voice Lines zu sprechen aber Aureliá wirkt einfach ein wenig eindimensional. Ein großer Verschwörer mit undurchsichtiger Agenda darf gerne ein wenig vielschichtiger sein und nicht direkt bei der erstbesten Gelegenheiten mit den eigenen Absichten hinterm Berg hervorkommen. An sich hat die Gute ja direkt gezeigt was sie vorhat und wo ihre Möglichkeiten liegen. Das wir im Zuge dieser Geschichte auch noch einen negativ Bonus bei Theléme eingefangen haben ist dann nur noch die Sahne oben drauf. Aber am Ende sind wir fertig, eine ganz nette Geschichte und es passt zum Rest aber das Narrativ hätte definitiv besser aufgebaut werden können. Insbesondere wenn man bedenkt das die ganze "wir zetteln jetzt die Revolution an" Substory doch ein wenig schnell und aufgeworfen wirkte. Machen wir damit weiter Konstantin aufzutreiben und danach eine Heilung für sein Leiden zu finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 12, Aufnahme vom 01.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #86
+
+* Titel: `GreedFall - #86 - Céra [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich seine Partnerin fürs Leben aussucht muss man ziemlich aufpassen. Zum Einen bindet man sich ja nicht wirklich für das Leben und könnte ja theoretisch noch einmal Wechseln. Das Alles wäre dann halt nur mit einem entsprechenden Preis verbunden. Zum Anderen gibt es da ja so Dinge wie Emotionen die es einen oft schwerer machen richtig zu handeln. Und im Nachhinein ist man immer irgendwie schlauer. Zur Sache, Céra ist die Lebensgefährtin, Partnerin oder wie auch immer man es bezeichnen will von Vinbarr, seines Zeichens gewählter Hochkönig der Eingeborenen auf Tír Fradí. Soweit so gut, unser bester Kumpel Vinbarr den wir eigentlich ganz dringend etwas fragen wollen ist leider verschwunden. Da liegt der Gedanke doch nahe das seine Vertrate weiß wo er sich aufhält. Umso ärgerlicher ist es dann das sie ebenso verschwunden ist. Aber laut Aussage der lokalen Einwohner weiß sie ebenso wenig. Das ist bestimmt frustrierend. Und ein Aspekt den man gerne vergisst. Partner des Häuptlings zu sein ist eine Sache, aber wenn der dann plötzlich Hochkönig mit Standleitung zum Gott der Insel wird kann es schwierig werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 13, Aufnahme vom 09.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #87
+
+* Titel: `GreedFall - #87 - Spuren des Hochkönigs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Vinbarr immer noch nichte gefunden, das liegt aber auch  größtenteils daran das es eine Reihe von versteckten und gleichzeitig auch sehr verschlossenen Höhlen auf der Insel gibt die die Priester der Eingeborenen nutzen um in Abgeschiedenheit zu meditieren und eventuell auch mit dem Geister der Insel zu kommunizieren. Das dafür überhaupt Schlösser und Barrieren notwendig sind scheint ein wenig seltsam zu sein. Bisher haben wir es eigentlich nicht beobachtet das es unter den Eingeborenen Verbrecher gibt, nur Rebellen die sich ein wenig weniger an die Philosophie des Restes halten. Aber vielleicht handelt es sich auch um eine Vorsichtsmaßnahme die im Nachgang der Invasion des Meeresvolkes geschehen ist. Genau wissen tun wir es nicht und vielleicht erfahren wir das dann auch nicht mehr. So oder so stört der Umstand sehr weil dadurch Vinbarr einfach hinter irgendwelchen Mauern verschwinden kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 13, Aufnahme vom 09.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #88
+
+* Titel: `GreedFall - #88 - mysteriöse Kampfspuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen definitiv noch nicht alles was die Insel zu bieten hat. Dafür gibt es verschiedene Datenpunkte. Der Größte ist aber der das die ursprünglichen Handelsfürsten die sich auf Tír Fradí niedergelassen haben von einer wesentlich  größeren Macht bezwungen wurden als alles was wir bisher gesehen haben. Daher ist es nicht völlig überraschend das wir heute Spuren von etwas finden das wir bisher noch nicht persönlich getroffen haben. Namentlich sind das wohl Lavaspuren und jede Menge tote Leute. Alles in Allem bietet sich uns ein wirklich chaotisches Bild und ich bin mir nicht einmal sicher welche Fraktion hier jetzt eingegriffen hat, klar ist jedoch das, wer auch immer unser Gegenspieler ist, diesmal alles Register gezogen hat um den Marsch richtig zu blasen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 13, Aufnahme vom 10.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #89
+
+* Titel: `GreedFall - #89 - falsche Anschuldigungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich dachte wirklich das wir große Fortschritte mit einem offenen Sir de Sardet machen, einen Mann von Welt der auch versteht das es Ansichten außerhalb seiner eigenen Welt gibt. Eine Person die die eigenen Nöte ein wenig nach Hinten stellt um ein vollständiges Bild zu erhalten. Jemand der willens ist nicht vorschnell zu handeln sondern mit gesundem Augenmaß in die Katastrophe zu schreiten. Heute stellt sich dann heraus das all die großen diplomatischen Erfolge die wir bisher erzielt haben eigentlich Nichts Anderes als purer Zufall waren. Heute beleidigen wir unsere Verbündeten und Skeptiker gleichermaßen und machen uns definitiv keine Freude, alles nur in der Hoffnung einige wenige Minuten zu sparen bei einer Unternehmung die bereits Tage als Reisezeit mit sich bringt. Ich bin sehr enttäuscht von de Sardet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 13, Aufnahme vom 10.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #90
+
+* Titel: `GreedFall - #90 - Ritual der Toten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind leider ziemlich weit am Ende der Geschichte und das bedeutet leider auch das viele Dinge in sehr kurzer Zeit geschehen ohne das besonders viel zwischenzeitlich geredet wird. Heute führen wir zum Beispiel ganz am Anfang das Ritual der Toten durch. Darin sehen wir das Person B Schuld am Tod von Catasach ist. Nun ist das Ritual selbst schon ziemlich erwähnenswert. Wir wissen das die On Ol Menawi irgendwie mit der Insel, der Natur oder der Welt verbunden sind. Daher ist es nicht so überraschend das ein Teil von Ihnen weiter existiert wenn der physische Körper stirbt. Ich würde sogar soweit gehen zu behaupten das noch deutlich mehr da ist als nur die Erinnerung der letzten paar Sekunden vor dem Tod aber dieser Zugriff nur dem Geist der Insel selbst zu steht. Das ist für sich schon spannend, aber es hört ja nicht auf. Person B ist uns bereits lose bekannt und wir haben direkt eine Spur die uns zu Person C führt. C. kennen wir bereits aus einer früheren Eskapade, wir haben diese Person leider enttäuscht und nicht so gehandelt wie es sich C. gewünscht hätte. Das ist außerordentlich ärgerlich und das führt dann zu einer Eskalation die ich wirklich gerne vermieden hätte. Letztendlich nimmt C. ein tragisches Ende von dem ich wirklich gerne gewusst hätte wie ich es verhindern kann. Aber jetzt ist es halt geschehen. Immerhin wissen wir nun wie wir zu B. kommen weil unseren vorherigen Recherchen hier bereits einen gangbaren Weg gezeigt haben. Wenig überraschend finden wir das B und machen weiter. Fraglich ist allerdings warum B. überhaupt da ist wo wir diese Person vermutet haben obwohl es sich doch um eine große Insel handelt und eigentlich jede Lichtung irgendwo von dort bis hier auch funktioniert hätte. Und damit sind wir dann am Ende der Episode, aber letztendlich waren es eigentlich drei Erzählabschnitte die jede für sich eine Episode verdient hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 13, Aufnahme vom 10.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #91
+
+* Titel: `GreedFall - #91 - drei Anwärter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der König ist tot, lang lebe der König. Ich glaube die Philosophie dahinter ist in einer ähnlichen Richtung zu finden wie "the Show must go on". Es muss immer eine Kontinuuität geben bis es nichts mehr gibt, daher ist der Tod eines Königs vielleicht ein großes, tragisches Ereignis aber Eines mit dem die Leute gerechnet haben und für das es Pläne gibt. Allerdings ist hier ein wenig schwierig das die Rituale der Eingeborenen langwierig sind und schneller Wechsel ihre Kultur ziemlich zerstören kann. So ist die aktuelle Sachlage die das fast die Hälfte aller normalen Häuptlinge bereits tot sind, das schränkt die Anzahl der möglichen Hochkönige ein wenig ein, namentlich sind das nur noch drei Kandidaten, Dunncas, Deidre und Ullas (glaube ich, der Handelskasper halt). Und das Beste ist, anscheinend können wir die Wahl maßgeblich beeinflussen, ist das nicht fantastisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 13, Aufnahme vom 11.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #91
+
+* Titel: `GreedFall - #92 - die Krone des Hochkönigs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um zu Entscheiden wer eine hohe Position der Macht einnehmen darf werden oft verschiedenste Wege genutzt. Oft gibt es auch eine gewisse Vorauswahl die mögliche Kandidaten in Geschlecht, Abstammung oder, ganz selten, auch Befähigung eingrenzt. Das alles ist bereits geschehen und so gesehen gab es durchaus eine sinnvolle Vorauswahl die sicherstellt das nicht der Dorftrottel zum König gewählt wird. Weiter scheint das System aktiv dafür zu sorgen das keine Höflinge mit rein reden, ärgerlicherweise gibt es aber dennoch Einfluss in Form einer viel gesichtigen Gottheit über die wir eigentlich nicht so richtig viel wissen. Aber es gibt eine Möglichkeit zu schummeln. Stellt sich doch glatt heraus das quasi sicher die Position an jemanden geht der oder die eine gewisse Krone bei sich trägt. Quasi schon gekrönt ist bevor es überhaupt los geht, das bringt natürlich auch einen Weg mit sich damit wir die Wahl manipulieren können. Praktisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 13, Aufnahme vom 11.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #92
+
+* Titel: `GreedFall - #92 - die Krone des Hochkönigs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um zu Entscheiden wer eine hohe Position der Macht einnehmen darf werden oft verschiedenste Wege genutzt. Oft gibt es auch eine gewisse Vorauswahl die mögliche Kandidaten in Geschlecht, Abstammung oder, ganz selten, auch Befähigung eingrenzt. Das alles ist bereits geschehen und so gesehen gab es durchaus eine sinnvolle Vorauswahl die sicherstellt das nicht der Dorftrottel zum König gewählt wird. Weiter scheint das System aktiv dafür zu sorgen das keine Höflinge mit rein reden, ärgerlicherweise gibt es aber dennoch Einfluss in Form einer viel gesichtigen Gottheit über die wir eigentlich nicht so richtig viel wissen. Aber es gibt eine Möglichkeit zu schummeln. Stellt sich doch glatt heraus das quasi sicher die Position an jemanden geht der oder die eine gewisse Krone bei sich trägt. Quasi schon gekrönt ist bevor es überhaupt los geht, das bringt natürlich auch einen Weg mit sich damit wir die Wahl manipulieren können. Praktisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 13, Aufnahme vom 11.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+  ```
+
+##### #93
+
+* Titel: `GreedFall - #93 - plötzliche Angriffe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Seltsame Dinge gehen vor sich. Auf den ersten Blick sieht es so aus als das unsere Verbündeten von wilden Tieren angegriffen werden. Das ist ein wenig seltsam wenn man bedenkt das die Brückenallianz bereits seit mehr als einer Dekade auf der Insel zu finden ist. Generell und überhaupt ist dies ein neuer Kurs in den Dingen der für mich ein wenig unerwartet kommt. Die Sachlage ist die das unzählige Eingeborene bereits unter der Knute des Löwen und der goldenen Sonne leiden musste. Bisher hat man sich aber noch nicht für drastische Maßnahmen entschieden. Das wirkt ein wenig seltsam insbesondere wenn man bedenkt das die Leute offensichtlich sich sehr bewusst sind was die letzte Besiedlung der Insel zur Folge hat. Von dieser Richtung her hätte ich also viel eher bereits mit einer Reaktion gerechnet, da diese noch nicht erfolgt ist bin ich ein wenig überrascht sie jetzt zu sehen. Das wiederum können wir dann wohl als Indiz werten das der Angriff nicht von Seiten der Eingeborenen erfolgt ist und hier eine dritte Macht am Spiel ist. Ein interessanter Gedanke, eine plötzliche dritte Kraft die sich vorher nicht zu erkennen gegeben hat deren Handeln vorher nur im Hintergrund zu erkennen war und jetzt erst gewahr wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 14, Aufnahme vom 22.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+
+##### #94
+
+* Titel: `GreedFall - #94 - umgreifende Korruption [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere dritte Macht (eigentlich die fünfte Macht weil wir ja 4 Fraktionen haben die wir schon kennen, eventuell 5 wenn wir En ol míl frichtimen als eigene Fraktion ansehen wollen die nur lose verbündet ist) scheint nicht ganz mit den Werten der Insel einher zu gehen. Wir wissen also ziemlich sicher das die Korruption die wir vom Festland kennen jetzt auch auf der Insel angekommen ist. Schwarzer Rauch der aus den Tieren die die Angriffe vollzogen haben war ja eigentlich schon Hinweis genug. Korrumpierte Wächter machen das Gesamtbild nicht unbedingt besser. Oder kurzum, es scheint so als könne man die Bindungen die die Eingeborenen mit der Insel eingehen "hacken" und sich zu nutze machen. Wenn wir doch nur einen Hinweis hätten wer zu einer solchen Tat fähig sein könnte. Es müsste sich um eine Entität handeln die erst vor Kurzem zur Macht gefunden hat, jemand mit einer gewissen Skrupellosigkeit und fehlenden Verständnis für die kleinen Dinge und großen Zusammenhänge. Zu schade das wir wirklich niemanden kennen der auf diese Definition passt. Tangente an der Stelle: ist es nicht schön wie in Spielen, aber auch Fantasy die Kräfte des Bösen eigentlich immer sicher color-coded sind. Schwarzer Rauch, rote Auge, all das gibt uns doch die schöne Illusion das man das Böse an seiner Korruption erkennen kann. Rein "evolutions-biologisch" gesprochen wäre es aber doch viel sinnvoller wenn die Kräfte der Korruption und Perversion wunderschön wären, goldenes Licht, Heiligenschein und übermenschliche Schönheit um offensichtliche Schwäche auszunutzen. Das wird viel zu selten genutzt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 14, Aufnahme vom 22.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+
+##### #95
+
+* Titel: `GreedFall - #95 - eindeutige Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die große Überraschung ist ein wenig wenig überraschend, es stellt sich doch glatt heraus das die große dunkle Bedrohung ziemlich sicher von unserem eigenen Cousin ausgeht den wir erst vor Kurzem mit großer Mühe gerettet haben. Ironisch eigentlich wie die Gnade und das Mitleid des großen Schamanen Catasach sich am Ende als großer Fehler herausgestellt hat weil Constantin genau die Art von Mensch ist von der uns all die Eingeborenen immer gewarnt haben. Ein Mensch die Bindungen nur als Einbahnstraße sieht und sie im vollen Gewissen einsetzt mehr Macht zu erhalten. Natürlich haben wir dafür absolut keine Beweise und offensichtlich glauben wir an das Gute im Blut unseres doch so geliebten Cousins, aber wenn wir ehrlich sind waren die Zeichen schon irgendwie da. Nur weil er vorher zu faul oder einfach zu abgelenkt war um sich den Streben nach Macht hinzugeben heißt das ja nicht das er damit nicht spontan anfangen kann. Und so finden wir heute immer mehr Hinweise darauf das die Angriffe eher eine Art Ablenkung für uns und vielleicht auch für die anderen Kräfte waren um ein wenig Zeit zu kaufen für den letzten großen Sturm.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 14, Aufnahme vom 22.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+
+##### #96
+
+* Titel: `GreedFall - #96 - der finstere Doneigada [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wissen wir bereits was Phase ist und selbst wenn man sehr konservativ zu dem Verhalten von Constantin herangehen will dann sprechen doch irgendwie alle Spuren und Hinweise dafür das unser guter Cousin ein wenig abgedriftet ist jede Menge Leiden über die Insel gebracht hat. Man kann das jetzt schlecht mit dem was die anderen Fraktionen getan haben abwägen aber bis auf die Geschichte mit der Sklaven betriebenen Mine wissen wir eigentlich von keinen größeren Vergehen der Handelskongregation, insofern ist die Wirkung schon ziemlich erheblich, das wird unsere weiteren diplomatischen Bemühungen bestimmt nicht einfacher machen. Nun finden wir Hinweise und Erzählungen auf einen finsteren Schamanen der Eingeborenen oder zumindest jemand der aussieht wie ein Doneigada, man muss kein Genie sein um hier eine Vermutung anzustellen wer dafür verantwortlich ist. Wer hätte gedacht das so eine kleine Sache der Insel so viel Finsternis bringt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 14, Aufnahme vom 23.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+
+##### #97
 
 * Titel: ``
 
@@ -1083,4 +1469,12 @@
 
   ```markdown
   Hier
-  ```
+
+##### #98
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier

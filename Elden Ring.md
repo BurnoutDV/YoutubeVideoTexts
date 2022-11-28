@@ -1986,6 +1986,426 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #132
+
+* Titel: `Elden Ring - #132 - Berggipfel der Riesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute sind wir ganz kurz und immerhin für ein kurzes Intervall im Berggipfel der Riesen, ich betone das extra so sehr weil ich mich in den kommenden Episoden ganz oft ablenken lasse und daher nicht besonders lange in diesen Bergen umherspringen werde was wiederum dazu führt das die Fortschritte in dieser neuen Region eher geringfügig sind. Zum Beispiel weiß ich noch nicht so recht was es eigentlich mit diesen Riesen auf sich hat von denen hier gesprochen wird. Gemeint werden ja wohl nicht die Viecher sein die wir vor Karren gespannt unten in Limgrave gefunden haben. Auf der anderen Seite haben wir bisher nur einen der Begleiter von Ranni gesehen der scheinbar ein Riese zu sein schien, aber wo ist der Rest? Sind sie schon lange ausgestorben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 22, Aufnahme vom 18.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #133
+
+* Titel: `Elden Ring - #133 - ausstehende Termine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bilde mir ein das ich mich dem Ende des Spiels nähere, daher tue ich jetzt ein paar Dinge die wieder zurück in den alten Landen stattfinden einfach weil ich glaube das ich das noch schnell erledigen sollte. Nicht alles davon ist so einfach schon deswegen weil ich nur eine sehr grobe Vorstellung habe wo ich eigentlich hin muss. Daher laufen wir heute durch Tag und Nacht und kümmern uns um die diversen Plätze an denen wir eventuell noch etwas haben liegen lassen. Zum Beispiel diese eine Höhle in der Arena von Radahn die ich bis her eher ignoriert habe. Jetzt wo ich das hier schreibe fällt mir auch noch ein das es da noch so eine Runenbärhöhle gibt die ich vollständig vergessen habe. Naja, es gibt auf jeden Fall noch genug schöne Orte. Ob man es jemals schaffen kann beim ersten Mal alle Orte zu sehen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 23, Aufnahme vom 25.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #134
+
+* Titel: `Elden Ring - #134 - eisiger Erdenbaum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin immer noch nicht 100% zufrieden welcher Qualität die Arznei-Flasche ist, daher begeben wir uns immer noch zu jedem Erdenbaum den wir finden können. Heute finden wir eine solche Einrichtung (also ein Baum) mitten in der Eiswüste. Der große Eisdrache Borealisis hat sich als eher wenig kooperativ herausgestellt daher versuche ich es an einer anderen Stelle und ignoriere das Flatterviech vorerst, schon deswegen weil es keinen Spaß macht seine Runen aus einem weißen Nebel von Eis zu bergen in dem man absolut nichts sieht. Schon irgendwie witzig das irgendein Eisdrache der bisher schwerste Gegner von den Drachen zu sein scheint während Greyoll, der größte aller Drache eigentlich ziemlich besiegbar war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 23, Aufnahme vom 25.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #135
+
+* Titel: `Elden Ring - #135 - Todesrittenvogel im Eis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die eisigen Weiten der Riesengipfel haben wir mittlerweile hinter uns gelassen. Das lag auch daran das wir zu keinem Zeitpunkt wirklich eine Tundra vorlag oder man überhaupt hätte von Weiten sprechen kann. Tatsächlich gab es so etwas wie einen zugefrorenen Fluss und auch See, das stellt übrigens dann auch die Frage wann es hier eigentlich warm ist? Die Landschaft impliziert ja irgendwie das es hier einmal warm oder zumindest wärmer war und dadurch die Pflanzen wachsen konnten. Jetzt sind wir aber wirklich auf den Bergen und treffen tolle Viecher, das liegt aber, soweit ich das sehen kann, daran das es halt grade Nacht ist, das viel mir bloß nicht auf. Immerhin machen wir Fortschritte, wenn auch nur mit Hilfe der Tränenkopie, ohne die würde ich wesentlich länger an manchen Stellen hängen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 23, Aufnahme vom 27.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #136
+
+* Titel: `Elden Ring - #136 - nächtliche Versäumnisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mehr als nur einmal wurde ich auf die Existenz von Nachtbossen hingewiesen. Ich werde es wohl nie schaffen alle ihrer Art zu bezwingen, schon deswegen nicht weil ich nicht weiß wo ich eigentlich hin muss. Aber heute reiten wir nach Caelid um dort einige alte Dinge zu entsorgen und endlich für Ruhe zu sorgen, insbesondere bezüglich eines gewissen Altar für Drachenmagie. Irgendwie gibt es nämlich ganze Regionen in Caelid die ich ärgerlicherweise ein wenig übersehen habe, das lag aber vielleicht auch daran das ich dieses Scharlachfäulegebiet einfach nicht mag. Ob sich das Zeug eigentlich ausbreitet? Ist das tatsächlich ein Prozess oder ist die Grenze zu Caelid genau der Ort wo die Scharlachfäule aufhört?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 23, Aufnahme vom 29.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #137
+
+* Titel: `Elden Ring - #137 - Katakomben der Kriegsopfer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es gibt doch noch einen Ort in der großen Arena die außerdem das Grab von General Radahn ist die ich noch nicht besucht habe, es handelt sich um die "Katakomben der Kriegsopfer". Für mich ist an dieser Stelle nicht so ganz klar ob es sich um die ursprünglichen Soldaten handelte die, als Radahn noch im Vollbesitz seiner Kräfte war, fielen oder jene die später versuchten den von Scharlach verseuchten General zu Fall zu bringen und scheiterten. Die Einrichtung selbst ist mit der Fäule verseucht aber das kann man quasi über alle Orte sagen die wir in Caelid finden. Und es ist vielleicht ganz gut das ich erst jetzt kam, die diversen Gegner die hier herumlaufen sind relativ kampfstark. Das wäre ärgerlich gewesen schwächer zu sein als ich hier das erste Mal erschien.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 23, Aufnahme vom 29.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #138
+
+* Titel: `Elden Ring - #138 - Schloss Sol [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn irgendetwas in unserer Welt oder Literatur "Sol" heißt hat es in der Regel etwas mit der Sonne zu tun. Ich bin mir allerdings nicht so ganz sicher ob dies auch für Schloss Sol wahr ist. Der Ort regt mich auf jeden Fall mächtig auf und ich komme hier nicht so gut vor ran wie ich es gerne hätte. Stellen wir ihn uns einfach als eine Miniatur Version von Schloss Sturmschleier vor. Die Soldaten sind sogar quasi die Gleichen, glaube ich zumindest, insbesondere die gefürchteten Raben feiern ein Comeback um das niemand gebeten hat. Die Sachlage ist anscheinend die das irgendwelche Krieger hier in den verbotenen Norden, dem Land der Riesen verbannt wurden. Die Kälte macht anscheinend hart weil jene die überlebt haben sind in der Tat ziemlich stark. Eigentlich finden wir aber nur wilde Wölfe und Vögel wieder, der Rest wird wohl technisch gesehen von Geistern dargestellt. Kurzum, Leute die nicht Bluten können, so etwas ist immer ein wenig unschicklich für meine Art des Schadens.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 23, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #139
+
+* Titel: `Elden Ring - #139 - Kommandant Niall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, heute droht uns ein Bosskampf, und nein, zu diesem Zeitpunkt ist mir nicht bewusst das ich den Talisman den ich wohl hier finde durchaus brauchen könnte. Stattdessen rege ich mich gut über Kommandant Niall auf. Ich weiß übrigens nicht so recht wie ich weitergekommen wäre wenn ich nie die Imitatorträne genutzt hätte. Mittlerweile ist sie ein essentieller Bestandteil meiner Gesamttaktik und ohne ihre Hilfe hätte ich absolut keine Hoffnung in diesem Spiel zu bestehen. Ich kann mir nur ausmalen welche Frustration ich erfahren hätte würde ich versuchen alle Bosse alleine zu bestreiten. Im Fall des Kommandanten ist es aber eigentlich kaum verwunderlich das ich zum Klon greife, schließlich beschwört sich der Festungsgeneral ja auch einige Begleiter die uns doch sehr im Wege stehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 23, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #140
+
+* Titel: `Elden Ring - #140 - Höhle des Geisterrufers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder bei Kriechgeschwindigkeit in Sachen Fortschritt. Eigentlich wollte ich durch den Schnee reisen und mich um einen gewissen Drachen kümmern bzw. eigentlich auch nicht und das Vieh eher ignorieren aber dann fand ich eine kleine Höhle die Schutz vor den eisigen Winden versprach. Gleichzeitig stellt sich natürlich auch die Frage was genau eine Befleckte eigentlich ist? Bin ich so etwas wie untot oder ein ähnlicher Zustand der uns erlaubt viele weltliche Sorgen zu ignorieren oder handelt es sich eher um etwas das uns sehr normal sein lässt und wir frieren wirklich? Wie dem aber auch sei, in der Höhle herrscht ein angenehmes Klima, es ist tatsächlich sogar so warm das hier Schnecken wohnen, faszinierend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 23, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #141
+
+* Titel: `Elden Ring - #141 - Vyke, Ritter der Tafelrundfeste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fortschritt! Und das auch nur weil ich an irgendwelchen Festungen vorbeireite und mir stattdessen einen Magierturm anschaue, einen Magierturm der voller verschlossener Türen ist und eigentlich nur wie ein einziger Schlauch aufgebaut ist. Irgendetwas scheinen die Magier an diesem Design zu mögen, vielleicht weil man ihn so verteidigen kann, ich weiß es nicht und wir können auch noch beim nächsten Mal darüber nachdenken. Wir kommen fürs Erste sowieso nicht rein und daher kümmern wir uns um andere Dinge. Zum Beispiel gibt es da dieses Siegelgefängniss. Was es genau mit diesen Gefängnissen auf sich hat weiß ich nicht, aber manchmal kommen sie mir vor wie ein kleines Portal in andere Welt, eine Welt in der die Dinge anders gelaufen sind und wir dort gegen die Helden von dort kämpfen. Heute ist das halt Vyke.  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24, Aufnahme vom 03.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #142
+
+* Titel: `Elden Ring - #142 - Regenbogenstufen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt ist es aber an der Zeit den Weg des Unsichtbaren zu gehen. Es heißt das der Schnee den Weg offenbart, ärgerlicherweise scheint in den Zwischenlanden alles ein wenig unstofflich zu sein und so ist auch der Schnee Nichts was wirklich existiert sodass es liegen bleibt. Das wieder rum führt dazu das wir heute ein Rätsel nicht ganz so gut lösen können. Zum Glück erinnere ich mich noch gut an den Weg zu Seath und habe daher einen sehr alten Trick im Peto. Den hole ich dann heute heraus, schade das trotz enormer Mengen RAM es mir nicht erlaubt ist 100 Regenbogensteine gleichzeitig auf den Boden zu halten, das hätte meinen Tag noch wesentlich besser gemacht. Aber ich bin gnädig. Ich gebe mich mit diesem Zustand einfach zufrieden und das passt dann schon, irgendwie. Trotzdem irgendwie ärgerlich, ich hätte gerne die Regenbogenbrücke gesehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24, Aufnahme vom 05.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #143
+
+* Titel: `Elden Ring - #143 - Wächtergarnison des Feuers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dank einer Imitatorträne gibt es mich de Facto zweimal und mein anderes Ich ist auch noch wesentlich stärker als ich es bin, das nutze ich natürlich weidlich aus immer wenn es um Bosse geht, daher komme ich eigentlich ziemlich gut durch wenn ich an Stellen gelange an denen ich vielleicht normalerweise doch ein wenig länger brauchen würde. Heute stürme ich eine Wächtergarnison, die heißt übrigens auch genau so, den Namenszusatz "des Feuers" habe ich mir jetzt ausgedacht weil um und in der Feste jede Menge dieser lustigen Flammenpriester herumlaufen, auch wenn einige von ihnen jetzt wohl eher Frostjünger sind, einfach weil sie erfroren sind, das wiederum strahlt eine gewisse Ironie aus, da möchte ich nicht lügen und behaupten das ich nicht geschmunzelt hätte. Hach diese dummen Feuerjünger...leider machen sie mir trotzdem das Leben schwer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24, Aufnahme vom 05.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #144
+
+* Titel: `Elden Ring - #144 - Drachenhügelrelike [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Anfang der heutigen Episode haben wir es mit leicht veränderten Farben zu tun. Keine Angst, das ist überhaupt gar kein Grund alarmiert zu sein. Viel mehr ist aber auch so das wir jetzt plötzlich mehr Auflösung und damit mehr Pixel haben. Ich bin mir allerdings unsicher ob 60fps für ein Spiel wie Elden Ring nicht sogar besser wären einfach damit man schnelle Bewegungen besser erkennen kann. Zum Thema, auf Greyolls Drachenhügel gibt es noch versteckte Schätze. Wir erinnern uns das ich Greyoll selbst schon vor einiger Zeit aus dem Leben entfernt haben aber einige andere Relikte einfach auf der Strecke geblieben sind, zum Beispiel die Höhle mit den Runenbären drin der übrigens nur ein kleiner Gegner ist. Die echte Bedrohung liegt viel tiefer und ist irgendwie auch kleiner.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24, Aufnahme vom 07.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #145
+
+* Titel: `Elden Ring - #145 - Geheimpfad zum Haligbaum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin anscheinend wirklich gut darin neue Wege zu finden. Oder auch irgendwie nicht. Weil da wo wir heute hingehen wäre ich nicht hingegangen hätte mir nicht jemand gesagt das es den Weg gibt. Bis in alle Ewigkeit hätte ich mich gewundert wie zur Hölle man an diesen anderen Ort kommt den ich zwar von oben sehen könnte aber ein Abstieg den Berg herab eher von geringen Erfolg gekrönt sein würde. Nun, es stellt sich heraus das wir am Fahrstuhl den wir schon kennen einfach ein anderes Amulett hochhalten können und schon fährt das Ding nach unten. Ich gebe gerne zu das meine geistige Kapazität nicht gewaltig ist, daher hat das natürlich auch ein wenig gedauert bis ich wusste was Phase ist. Aber jetzt ist ja alles gut und wir machen uns auf den Weg. Ob das die besten Entscheidung war vermag ich nicht zu sagen aber jetzt sind wir da und dort und das ist doch eine gute Nachricht. Der Haligbaum ist bestimmt schon bald in Sichtweite.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24, Aufnahme vom 07.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #146
+
+* Titel: `Elden Ring - #146 - Geweihte Schneefeldkatakomben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der heutigen Episode rege ich mich eventuell ein wenig auf. Das kommt davon wenn spät in der Nacht ein Spiel aufnimmt bei dem man eigentlich wesentlich ruhiger sein sollte damit man am Ende alles mit einer gewissen Gelassenheit kommentieren kann. Die Höhle bzw. das Grabmal das wir heute betreten ist aber auch sehr anstrengend. Das liegt unter Anderem daran das ich einfach nicht genug Lebenspunkte für das was ich vorhabe besitze. Insofern haut mich alles mit wenigen Schlägen um. Ich selbst bin natürlich auch eine ziemliche Glaskanone, mein Schaden stimmt aber irgendwie hinkt es doch ein wenig in Sachen Widerstandskraft. Ich bin mir allerdings auch gar nicht so sicher ob ich noch besonders viel machen könnte. Das Schlimmste sind aber auch Gegner die kaum ein Fenster für Gegenschläge zulassen und mich Ausnehmen wie eine Weihnachtsgans sobald sie auch nur eine Gelegenheit sehen. Dann macht es relativ wenig Spaß komplett aus dem Leben geroffelt zu werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24, Aufnahme vom 07.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #148
+
+* Titel: `Elden Ring - #148 - Schneekutsche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schon ganz am Anfang hat uns das Spiel beigebracht das es sich als lohnend erweisen könnte eine Kutsche zu überfallen. Praktisch war es das übrigens nicht weil dann in den entsprechenden Kutschen nur Mist drin war und ich wohl besser darin beraten wäre es einfach zu lassen, insbesondere weil die Riesen die das Ding ziehen doch ein wenig lästig zu töten sind. Die gute Nachricht, die Kutsche zu überfallen ist tatsächlich ziemlich lukrativ und so wie es aussieht hätte ich durchaus eine gute Chance einige Level zu erhalten in dem ich immer und immer wieder die Wächter umhaue und meine Tricks benutze um die Zugriesen dem garaus zu machen. Die Fracht ist übrigens immer noch ziemlich wertlos, wenn auch ein wenig besser als beim letzten Mal.
+  
+  nter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25, Aufnahme vom 11.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #149
+
+* Titel: `Elden Ring - #149 - Schneeskapaden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man könnte mir durchaus vorwerfen das ich manchmal ein wenig orientierungslos bin. Heute finden wir zum Beispiel einen weiteren Magieturm, leider stellt sich heraus das zwei meiner beliebten Lösungsansätze irgendwie nicht so recht funktionieren. Der erste Versuch wäre es ja immer irgendwelche Geistviecher umzubringen, der Zweite einfach oben irgendwo durch ein Fenster. Es stellt sich leider heraus das Beides nichts möglich ist, so wie es aussieht sind Albinaurics ein wenig schlauer als das. Es bleibt uns also nur noch der Rückzug und sich darüber zu wundern wo die ganzen großen Magierabscheulichkeiten her kommen. Bestimmt könnte man da irgendwo noch Geschichte erfahren aber ich bin leider nicht schlau genug um das zu tun.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25, Aufnahme vom 11.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #150
+
+* Titel: `Elden Ring - #150 - Yeloughs Wahnsinn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß eigentlich immer noch nicht so recht wer jetzt eigentlich Yelough ist aber das spielt auch keine Rolle. Fakt ist der das wir uns heute die Tunnel von Yelough Anix anschauen, was Anix in diesen Zusammenhang bedeuten soll kann ich beim besten willen nicht sagen aber da wir wenig später weitere Ruinen des Wahnsinns mit noch mehr Yelough Beeren finden würde ich behaupten das es da irgendeine Art von Zusammenhang gibt. Was ich auch nicht genau sagen kann warum die Wahnsinnsdörfer und insbesondere die Wahnsinnsriesen eigentlich so breit verteilt sind. Es ergibt alles nicht so recht Sinn und ich habe auch gar keine Vorstellung warum die Dinge sind wie sie sind, Erklärungen sucht man bis jetzt vergebens. Aber vielleicht müsste ich auch einfach nur einmal zu den drei Fingern gehen und alles würde viel klarer werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25, Aufnahme vom 11.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #151
+
+* Titel: `Elden Ring - #151 - Mohgwyns Blutsumpf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wennn ich ein guter Spieler wäre würde diese Episode "Mohg, Fürst des Blutes" heißen. Diese Episode heißt allerdings nicht so, das kann nur Eines bedeuten: ich versage bitterlich und sterbe einmal zu oft. Die gute Nachricht ist allerdings das wir lächerlich reich werden während wir das tun. Reichtum ist natürlich relativ weil am Ende sind es auch nur Runen aber Runen sind ja quasi wie Geld wenn man die richtigen Leute findet die bereit sind mit uns einen Handel einzuschlagen. Also werden wir reich, aber nicht ohne vorher knapp 200K oder so an ärgerlichen Begegnungen zu verlieren, dennoch leicht verdientes Geld das mir keine großen Probleme gemacht hat. Die lustigen Vögel kommen erst morgen so richtig zum Einsatz, und die sind ja auch eine ganz andere Geschichte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25, Aufnahme vom 13.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #152
+
+* Titel: `Elden Ring - #152 - Dynastiemausoleum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt in den Zwischenlanden ziemlich viele tote Leute oder welche die quasi tot sind. Wie genau man die Untoten rechnen soll weiß ich ehrlich gesagt nicht. Fakt ist, so richtig lebendig sind die meisten Leute die wir so treffen nicht, allerdings sind sie auch nicht so richtig tot. Insbesondere wenn man sich anschaut mit welcher Ausdauer irgendwelche Knochengerüste Altäre aufbauen und sich dem Gebet hingeben muss man doch davon ausgehen das die Definition des Todes ein wenig lockerer ist als in anderen Welten. Wie sich das dann mit Familiendynastien verhält kann ich übrigens auch nicht sagen, allerdings wäre auch noch zu bedenken das es sich vielleicht auch um ein neues Phänomen handelt und in der Vergangenheit alles ganz normal war, vielleicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25, Aufnahme vom 13.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #153
+
+* Titel: `Elden Ring - #153 - Mohg, Fürst des Blutes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach und nach fällt einfach alles was ich weiß zusammen. Zum Beispiel habe ich eigentlich überhaupt keine Ahnung wer genau Mohg eigentlich ist, was der Kerl mit Miquella zu schaffen hat oder wie überhaupt die ganze Geschichte zusammen passen soll. Später wurde mir dann gesagt das Miquella zwar noch irgendwie lebt und der Körper sogar noch irgendwie atmet aber das das auch gar nicht so wichtig ist. Vom Blutfürsten haben wir auf jeden Fall schon ein paar Mal gehört aber was es so richtig mit ihm auf sich hat kann ich jetzt auch nicht ohne Weiteres sagen. Wichtig ist aber, wir hauen ihn heute um, nicht zuletzt dank der tatkräftigen Hilfe des Reduvias das wir quasi von einem der Anhänger des Blutes ganz am Anfang erhalten haben. Das ist dann irgendwie schon ironisch oder? Außerdem scheint Mohg übrigens mit Morgoth verwandt zu sein, wer es jetzt wirklich weiter gebraucht hat vermag ich aber echt nicht zu sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25, Aufnahme vom 13.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #154
+
+* Titel: `Elden Ring - #154 - Ruinen der Abtrünnigen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Albinaurics wollen irgendwie außerhalb der Dinge stehen, insbesondere der Dinge die mit den Eldenfürsten und der Gnade zu tun haben. Das klappt aber nur sehr bedingt weil sie halt in den Landen der Gnade wohnen und dort zuhause sind wo auch ziemlich viele Erdenbäume herumstehen, die übrigens scheinbar hervorragend im Schnee wachsen. Wie dem aber auch sei, irgendetwas stimmt nicht mit diesen Wesen. Von außen sehen sie sehr aus wie die normalen Menschen die wir kennen aber dann sind sie doch irgendwie anders und andere Völker scheinen sie nicht besonders zu mögen. Heute finden wir dann noch heraus das jemand versucht hat ihnen zu helfen. Einen friedlichen Rückzugsort zu finden. Aber warum war das notwendig. Und warum sehen die Albinaurics so seltsam unterschiedlich aus. Antworten gibt es heute keine, dafür aber mehr Fragen. Schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25, Aufnahme vom 13.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #155
+
+* Titel: `Elden Ring - #155 - Haligbaumstadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir fangen von oben an. Das ist auch total logisch, wenn man einen großen Baum hat dann steigt man auf keinen Fall den ganzen weiten Weg nach oben um sich dort dann den obersten Boss zu stellen. Das ist vielleicht auch ganz günstig, weil das würde auch bedeuten das unser großer Endkampf gegen die Herring des Hauses in den Zweigen stattfinden würde und wir kriegen heute relativ schnell heraus warum das absolut keinen Spaß machen würde. Also klettern wir langsam herab und finden heraus was es genau mit diesem Haligbaum eigentlich auf sich hat. Warum genau das Blattwerkträgergeärt auch außerhalb des Kontinents quasi im Meer steht kann ich mir übrigens nicht wirklich vorstellen und so richtig erklärt hat es auch keiner. Andererseits erscheint es so das viel so mundane Geschichte auch eher nicht bekannt ist oder schon vor Äonen verschwunden ist, einfach weil dies das Zeitalter der Schwerter und Gnade ist, nicht das der Bürokraten und Architekten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 26, Aufnahme vom 21.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #156
+
+* Titel: `Elden Ring - #156 - Schatten einer goldenen Zeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich müsste die komplette Episode eher "Lorretta, Ritterin des Haligbaumes" heißen aber wir beschäftigen uns eigentlich gar nicht so lange mit ihr und an sich sind wir wirklich nur in den letzten drei Minuten bei ihr, die restliche Zeit verbringen ich damit durch die Ruinen dessen zu springen die einst wohl einmal eine große Stadt war. Eventuell handelte es sich auch um eine Tempelanlage, weiter unten sehen wir ja eine eher klassischere Stadt die wohl eher den gewöhnlichen Menschen Unterschlupf geboten hat. Was einst war, wer hier gelebt, gewirkt und erschaffen hat erfahren wir aber einfach nicht mehr. Viel mehr finden wir lange Gänge die außer einigen Tiermenschen schon vor langer Zeit verlassen wurden. Wahrscheinlich ist es wohl wirklich das sich hier Priester aufhielten die eher wenige persönliche Gegenstände besaßen, außer Reliquien finden wir auch nicht besonders viel das sich auf zu heben lohnt, insbesondere keine Aufzeichnungen von dem was hier geschehen ist. Eigentlich finden wir nur Schatten und Verblasstes.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 26, Aufnahme vom 22.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #157
+
+* Titel: `Elden Ring - #157 - Elphael [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bäume sind aus irgendwelchen Gründen ein wichtiges Thema in der Welt von Elden Ring und wohl insbesondere in den Zwischenlanden, es ist auch absolut nicht klar was genau so ein Erdenbaum eigentlich ist und was der Unterschied zu einem Haligbaum ist oder ob die Dinger überhaupt irgendeine Verwandtschaft aufweisen. Was wir aber mittlerweile wissen ist das die Fledermäuse darüber jammern das ihre Welt einmal anders gewesen war und das nicht besonders viel dafür spricht das die "Gnade" etwas Gutes ist. Auch haben wir technisch noch keine andere Kraft des Guten identifizieren können, nur verschiedene Stufen von Grau. Die Bäume könnten also genauso gut die sichtbaren Zeichen einer Infektion, eines Krebses sein der auf der Welt tumort und wir sind ein Träger dieser Pestilenz und unser Tun und Handeln für die zwei Finger tut nichts Anderes als ihre Agenda weiter zu führen. Wir können die Bäume nicht verstehen, es könnte durchaus sein das sie so fremd sind das wir nicht einmal begreifen warum wir tun was wir tun oder was die ultimative Konsequenz ist. Davon einmal abgesehen steht der Baum nicht direkt im Wasser, es handelt sich also nicht um Reis sondern um einen "normalen" Baum der einfach nur über ein künstliches Fundament verfügt. Und irgendwann muss irgendjemand angefangen haben dieses zu errichten. Was wohl ausgerechnet zu diesen Ort geführt hat?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 26, Aufnahme vom 22.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #158
+
+* Titel: `Elden Ring - #158 - Meeresblick [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Elphael ist eigentlich recht schön. Klar, es geht eine gewisse Menge an Reinfäule umher und man kann nicht übersehen das der Ort schon einmal bessere Zeiten gesehen hat aber wenn man bedenkt das über uns kalte, harte Felsen sind und wir hier in einem relativ temperierten Baum bzw. in dessen Wurzeln stehen könnte die Gesamtsituation schlechter sein. Weit draußen sehen wir das Meer, keine großen Wellen sind zu erkennen aber auch keine Inseln, Schiffe oder vielleicht sogar schwimmende Siedlungen außer Elphael und der Haligbaum selbst. Es ist nicht bekannt ob man dort draußen noch irgendwie etwas finden könnte. Wenn ich das recht verstanden habe gibt es aber durchaus sinnvollen Grund warum dort draußen noch jemand sein könnte, oder zumindest ein alter verfallenes Land. Marika und die ganze Geschichte mit der Gnade kam von irgendwoher, es könnte natürlich auch sein das sie ebenfalls von den Sterne kam aber sicher wissen tun wir das nicht. So oder so wäre es vielleicht gar keine schlechte Idee ein Schiff zu bauen und einfach auf das Meer hinaus zu segeln, weg von der Pestilenz und dem Verfall, zu neuen Ufern. Das ist aber keine Option, und so bleibt uns nichts anderes über als einen schnellen, schmachtenden, sehnsüchtigen Blick an den Horizont zu werfen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 26, Aufnahme vom 24.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #159
+
+* Titel: `Elden Ring - #159 - finstere Gassen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich ist der Abschnitt den ich heute erkunde richtig dolle klein und es lohnt sich eigentlich kaum darüber zu reden und doch dauert es am Ende fast 2 Stunden alles richtig zu erkunden. Nachdem wir den Hauptweg und danach die "Strand"-Promenade erkundet haben bleibt eigentlich nur noch der Weg der dazwischen liegt. Leider enthält der einige unliebsame Zeitgenossen was dazu führt das ich eine Menge Zeit daran verliere wieder und wieder meinen Schatz an Seelen zu regenerieren. Die Zeit hätte ich natürlich auch besser anlegen können und einfach in das Farmen von unschuldigen Albinaruics im Blutpalast verbringen können. Leider bin ich aber so neugierig und so kommt es ich micht heute durch vielleicht 200 Meter Gasse/Straße quäle nur um am Ende quasi genau da heraus zu kommen wo ich schon vor so langer Zeit mit flinken Füßen und einigen gut abgepassten Rollen gekommen bin. Letztendlich wäre es mir aber ein echtes Leben wie man das hier alles in einem Abwasch schaffen soll ohne ihre gesamten Ressourcen zu verbrennen. Vielleicht bin ich aber auch einfach nicht genug.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 26, Aufnahme vom 25.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #160
+
+* Titel: `Elden Ring - #160 - Malenias Abstieg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Überlänge! Das kann eigentlich nur eine Sache heißen: ich mache etwas das mir so wichtig ist das ich dafür bereit bin gegen meine doch so hochgehaltenen Zeiten zu verstoßen. Da wir ja bereits wissen wo genau wir eigentlich rum hängen kann man sich ja auch schon vorstellen was hier Phase ist. Ganz tief unten im Haligbaum gibt es nämlich jemanden den wir unbedingt kennen lernen wollen. Soweit ich das mit der Lore aber sehen kann hätten wir eigentlich nicht viel mehr machen müssen als abzuwarten. Kurz Malenia aufwecken und dann einfach ein paar Wochen warten bis die Scharlachfäule sie niederstreckt. Stattdessen gehe ich natürlich den direkten Weg und kümmere mich um das Problem auf eine wesentlich direktere Art und Weise. Leider war auch ein wenig mein Ehrgeiz geweckt und dann habe ich doch ein wenig geschummelt. Ob ich es schaffe Malenia unter 100 Versuchen zu besiegen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 26, Aufnahme vom 25.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

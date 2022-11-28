@@ -443,6 +443,391 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #30
+
+* Titel: `Yakuza 5 - #30 - Valery Garret [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Von einem Yakuza Teil zum Anderen vergesse ich immer wieder die Namen von irgendwelchen Nebencharakteren, dabei haben die durchaus den ein oder anderen Cameo auftritt. Heute treffen wir zum Beispiel einen Dude namens Valery Garret, anscheinend ein Mann, ich dachte ja kurz das Valery ein Name nur für Frauen ist aber so kann man sich wohl täuschen. Den guten Valery hauen wir dann auch ziemlich volles Pfund aufs Maul und damit hat sich dann das Siegerstraßen Turnier hier in der Stadt quasi auch erledigt. Anscheinend ist dieser Kiryu, trotz das ein wenig Zeit vergangen ist, immer noch wesentlich fitter als andere Kiryus am Anfang der Geschichte. Wie sonst waren wir in der Lage trotz regelmäßigen Taxifahrens in der Lage einen Kämpfer der monatelang trainiert hat mit solcher Leichtigkeit die Stirn zu bieten. Eine interessante Information, außerdem fotografieren wir heute irgendwelche Creeps.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 24.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #31
+
+* Titel: `Yakuza 5 - #31 - Yamagase Hauptquartier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die großen Zeiten des Taxifahrens sind wohl für den Moment vorbei und wir müssen uns einmal mehr um Yakuza Dinge kümmern. Die Sachlage ist jetzt also die das wir irgendwie mit dem Boss des Yamagase Clans reden müssen um ihn vor einer dringenden Bedrohung zu warnen. Aber natürlich will man uns nicht einfach so zur Audienz durchlassen aber das es nicht so einfach sein wird war ja bereits vorher klar. Daher müssen wir uns mit unseren Fäusten einen Weg bahnen bis wir endlich da sind wo wir hin wollten. Ich habe übrigens die Größte und Macht des Clans unterschätzt. Es hieß das er nur einige hundert Mitglieder hat aber eine Unternehmung dieser Größe scheint bereits in der Lage zu sein signifikante Mengen an Geld zu bewegen, anders kann ich mir die reichhaltige Einrichtung nicht erklären.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 24.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #32
+
+* Titel: `Yakuza 5 - #32 - explosiver Abgang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind in das Hauptquartier der örtlichen Yakuza vom Yamagase Clan eigentlich ohne größere Probleme eingedrungen, leider wurde unser Versuch Aoyama aufzuhalten erfolgreich verhindert, größtenteils weil wir einfach nur sinnlos daneben stand während all die Dinge passiert sind. Also sind wir jetzt in der Lage in der wir sind und müssen wieder verabschieden. Auch interessant ist das wir eigentlich ziemlich viel Zeit haben irgendwelche Schläger zu Fall zu bringen während unser Widersacher ohne großartige Probleme in der Lage ist aus dem Saal zu schlendern, die Täuschung quasi perfekt. Ich frage mich wirklich was überhaupt sein Plan gewesen wäre wenn Kiryu nicht aufgetaucht wäre. Aber schön das die Dinge passiert sind wie sie passierten, das macht doch eine tolle Geschichte oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 24.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #33
+
+* Titel: `Yakuza 5 - #33 - Geständnisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Yakuza Spiele haben immer eine sehr sehr ähnliche Formel: als Erstes sind wir irgendwie in einer neuen Umgebung oder irgendetwas ist Anders als im Vorgänger, größtenteils weil Zeit vergangen ist und daher nicht völlig klar ist wie wir in die jetzige Situation geraten sind, dann erfahren wir langsam wie wir hier her geraten sind aber natürlich nicht alles, dann geschehen wieder ein paar mehr Dinge und alles explodiert und die jetzige Situation wird instabil und kollabiert dann letztendlich. Dann wird es eine Action Szene geben an dessen Ende wir dann erfahren das alles gar nicht so ist wie wir dachten, aber da wir durch unsere Fähigkeiten unseren Wert bewiesen haben erklärt uns dann jemand was Phase ist. Wir sind jetzt an diesem Punkt, heute wird uns also etwas erklärt. Ist das nicht schön?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 24.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #34
+
+* Titel: `Yakuza 5 - #34 - Hors d'Ouvre Morosawa [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, im Alltag, immerhin ist es der Alltag des Kazuma Kiryu aber immer noch ein Alltag. Normalerweise hört man davon ja nicht viel, die strahlende Heldin befreit den Prinzen aus den Fängen des gefährlichen Onkels und kehrt dann zurück nach Hause. Was dann geschieht wird eher selten bis nie erklärt und man hört schon gar keine Sagen darüber. Kiryus Geschchte ist in dem Sinne auch noch nicht abgeschlossen aber diese Zwischenphasen zwischen zwei Abenteuer sind auch selten Gegenstand von großen Heldenepen. Immerhin ist es aber das Leben von Kazuma und daher ist auch der Alltag relativ spannend. Zum Beispiel die Begegnung mit einem anscheinend 60 Jahre alten Wrestler der jetzt wirklich sein letztes Match haben will. Spannend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 24.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #35
+
+* Titel: `Yakuza 5 - #35 - ein Neuanfang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kiryu ist irgendwie in diesem kleinen Städtchen hängen geblieben. Wir wissen nicht ob er einfach kein Geld mehr hatte weiter zu reisen oder ob es einfach die Umstände waren die ihn haben diesen Ort aussuchen lassen, aber jetzt sind wir hier und ein Mann namens Suzuki hat quasi einen Neuanfang begonnen. Aber damit ist er nicht alleine, auch andere Leute scheinen ihr altes Leben nicht besonders zu lieben und so treffen wir heute einen alten Türsteher der immer weiter die Leiter aufgestiegen ist. Nicht immer kann man den Erfolg alter Tage noch einmal replizieren, aber genau das Gleiche erneut zu tun ist in der Regel ja nicht der Wille der Menschen. Und so überrascht es nicht das heute einige Variablen ein wenig anders sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 24.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #36
+
+* Titel: `Yakuza 5 - #36 - Sosukes letzte Lektion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt in der sechsten Sitzung und irgendwie habe ich das Gefühl das dieser Yakuza Teil sich ganz schön in die Länge ziehen wird. Aber immerhin konnten wir in Sachen Nebenquests bereits einige Lasten von unseren Schultern nehmen. Jetzt fehlt uns nur noch ein paar Kampflektionen zu erfahren damit auch ein gewisser junge mit Nachnamen Komaki uns endlich in Ruhe lässt. Leider müssen wir ihn dafür wohl einmal richtig dolle verprügeln aber wir lernen ja auch etwas dabei. Tatsächlich ist es sogar so das der Junge selbst sich auch etwas Neues ausgedacht hat und das erfahren wir dann ebenso heute. Das scheint mir durchaus eine sehr interessante Entwicklung zu sein wenn man bedenkt das ein so junger Kämpfer wie Sosuke noch viele Jahre des Trainings vor sich haben könnte. Was der Junge wohl noch alles erfinden könnte?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #37
+
+* Titel: `Yakuza 5 - #37 - Kiryu der Schauspieler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eigentlich ja schon fast lächerlich wie viele Talente der Mythos Kazuma Kiryu hat. Das könnte aber auch daran liegen das er auch schon richtig viele Jahre hinter sich hat. In den meisten Spielen, Filmen und Büchern lernt man einen eher jungen Helden kennen, eine junge Person die durch ihre Naivität entweder für den ebenso jungen Leser nahbar ist oder an vergangene Tage erinnern soll. Davon gibt es natürlich Ausnahmen oder ganze Bände die eher erwachsenere oder erfahrene Charaktere haben die dann in der Lage sind aus den Pool ihrer Erfahrung zu schöpfen um so manches Problem auf wesentlich souveräner Art und Weise zu lösen. So auch Kiryu, in den 80er Jahren hat er sich sogar als Immobilienverwalter versucht, er kennt viele Rollen des zivilen Lebens und nicht nur die Facetten des Yakuza Daseins, das macht ihn vielschichtig und halt auch fähig in andere Rollen zu schlüpfen. Umso besser wenn die Rolle sowieso das ist was Kiryu vor ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #38
+
+* Titel: `Yakuza 5 - #38 - rote Trainingsanzüge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Yakuza Anhänger die wir bisher in den Spielen gesehen haben kann man grob in zwei Kategorien teilen. Auf der einen Seite haben wir die Anzugträger die aussehen wie normale Geschäftsleute, ein wenig overdressed und manchmal ist ein Teil ihres Outfits ein wenig seltsam oder weicht von der Norm ab was eventuell einen gewissen Verdacht aufbringt das wir es nicht nur mit legalen Geschäften zu tun haben. Und dann gibt es da noch die anderen, Majima war da zum Beispiel ganz weit vorne, andere sehen einfach direkt aus wie russische Gangster und sind voll im Product Placement Game drin (drei englische Wörter hintereinander Oo). Letztere Kategorie suchen wir heute, es handelt sich scheinbar um die Anhänger von Yahata. Also auf auf zur Jagd.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #39
+
+* Titel: `Yakuza 5 - #39 - Yahatas Spuren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist nicht leicht jemanden zu finden der nicht gefunden werden will. In der Regel hat man es ja mit Leuten zu tun die irgendwie in einem sozialen Netzwerk hängen aber manchmal gibt es zusätzliche Probleme. Zum Beispiel wenn die gesuchte Person ein hochrangiker Yakuza ist der sich alle Mühe gibt außerhalb der Gesellschaft zu stehen und in einer Parallelwelt auf beste Versorgung mit allem hoffen kann das es ihm leicht macht durch den Tag zu kommen. Dann gibt es nur einen Weg weiter zu kommen, man fragt sich höflich bei den Leuten durch die ihm nahestehen. Immerhin tragen diese praktische Uniformen, andererseits hätten wir ein echtes Problem gehabt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #40
+
+* Titel: `Yakuza 5 - #40 - Yahatas Wellnesscenter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Person die wir suchen, Yahata, seines Zeichens Kapitän der Familie die nach ihn benannt ist wurde unlängst verletzt. Mittlerweile konnten wir immerhin bestätigen das er tatsächlich überlebt hat, eine Überraschung. An sich lag der gute Mann anscheinend bewusstlos ziemlich direkt neben einer Bombe, oder zumindest im selben Raum. Das er dennoch nur die Verletzungen der Prügelei zu verzeichnen hat spricht dafür das es noch einige andere treue Yahata  Truppen gab die sich um ihn gekümmert haben als der Rest versucht hat Kiryu in irgendeiner Kapazität aufzuhalten. Und jetzt lässt er es sich gut gehen bis ein wenig Gras über die gesamte Angelegenheit gewachsen ist. Offensichtlich haben wir nicht soviel Zeit und finden ihn heute im Spá. Quasi.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #41
+
+* Titel: `Yakuza 5 - #41 - Sosukes Erkenntnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir mit Yahata gesprochen haben wurde relativ schnell klar das wir wohl nicht mehr lange am gleichen Ort bleiben und sich eine große, finale Schlacht andeutet. Für ein solches Ereignis müssen wir natürlich gut vorbereitet sein und daher reden wir noch einmal ein letztes Mal mit Sosuke der ja eigentlich noch einen großen Kampf mit uns austragen wollte. Ich kann aber direkt sagen das dem wohl eher nicht so ist und wir stattdessen eher ein intensives Gespräch haben. Ärgerlicherweise möchte er am Ende Geld von uns haben und wir wissen ja bereits das die gesamte Kohle im Waisenheim steckt. Also müssen wir dann wohl zum Pfandleiher und ein wenig die Träume eines jungen Mannes subventionieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #42
+
+* Titel: `Yakuza 5 - #42 - Feuerwerk am Pier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und hier sind wir am Ende von Kiryus Reise, oder vielleicht auch nicht. Der Mann selbst scheint sich sehr sicher zu sein das er erreichen kann was er sich vornimmt und die Präsenz des Tojo Clans in der gesamten Region ganz einfach reduzieren kann. Wie genau das funktionieren soll und warum er meint das niemand ihn einfach niederschießt ist mir allerdings nicht ganz klar. Immerhin wird immer wieder betont das die ganzen neuen Yakuza nur für das Geld dabei sind, es wäre doch also nahe liegend das sie daher auch pragmatische Wege wählen und sich nicht an ehrenvolle Gepflogenheiten wie früher halten. Sollte Kiryu allerdings trotz aller Widrigkeiten in der Lage sein lebendig herauszugehen frage ich mich wirklich was er noch tun will. Offensichtlich ist Daigo freiwillig verschwunden, aber bisher haben wir noch von keinen Agenten gehört die in seinem Namen gehandelt haben, bis auf seine Leibwache, und deren Zweck scheint doch eher simpel zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 31.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #43
+
+* Titel: `Yakuza 5 - #43 - Abschnitt 2, der letzte Abend [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte sehr mit Haruka gerechnet, insbesondere weil die Beschreibung der Essensfähigkeiten bereits Tanzkämpfe erwähnt hat und mir es irgendwie logisch erschien das nach Kiryu Haruka erscheint die uns dann zeigt wie es zu der Trennung gekommen ist und wie ihr Leben aktuell so läuft. Anscheinend ist dies aber nicht der Fall und wir dürfen in diesem Abschnitt kein Idol werden. Wie auch immer ihre Geschichte dann am Ende mit den harten Yakuza zusammenhängt. Also sind wir einmal mehr Taiga, der, so wie es ausschaut erneut ins Gefängnis gehen möchte. Das passiert natürlich nicht heute, zu erst gibt es einen kleine Blick auf das Kamurocho im Dezember 2010 um dann 2 Jahre in die Zukunft zu springen damit der gute Mann auch in der richtigen Zeit ist. Das sorgt aber auch dafür das er ein wenig getrennt von den Ereignissen in Toyko ist. Das wird sich bestimmt nicht irgendwie negativ oder anderweitig schlecht auswirken. Also fangen wir mit dem Ende der Freiheit an, und das tut man wohl am besten mit einer Mahlzeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 07.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #44
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #45
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #46
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #47
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #48
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #49
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #50
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #51
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #52
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #53
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #54
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #55
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #56
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #57
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #58
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #59
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #60
+
+* Titel: `Yakuza 5 - #60 - Bergrettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Berge können tükisch sein wenn es um das Wetter geht. Allgemein ist es ja bereits ein wenig kühler als auf dem flachen, niedrigen Land. Dann gibt es da noch eingrenzende Faktoren wie schlechte Wege oder unzugängliche Abschnitte  die plötzliche Veränderungen ein wenig nerviger machen als es normalerweise der Fall ist. Dazu kommt dann aber auch noch das das Wetter sehr überraschend oder zumindest nicht leicht vorhersagbar umschwingen kann und wenn man dann nicht vorbereitet ist hat man ein großes Problem. In der Regel ist es so das Wanderer die Gefahren unterschätzen, klischeehaft hat man jetzt irgendwelche jungen Leute mit Flipflops in den Alpen vor Augen. Das Problem kann aber auch weiter gehen, eigentlich gute Ausrüstung die extremeren Bedingungen einfach nicht gewachsen ist. Wer sich selbst in einem Schneesturm wiederfindet kann eigentlich nicht genügend Jacken anziehen um das Ganze ohne Schutz zu überstehen. Das ist der Punkt an dem die Bergrettung ins Spiel kommt, fraglich ist nur wie das geschehen soll wenn es sich um ein ganz kleines Dorf handelt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 21.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

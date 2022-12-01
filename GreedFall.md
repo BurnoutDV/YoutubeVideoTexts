@@ -1463,18 +1463,35 @@
 
 ##### #97
 
-* Titel: ``
+* Titel: `GreedFall - #97 - gesammelte Vorbereitung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es geht langsam los, wir setzen zur letzten großen Schlacht gegen die Mächte des Bösen ein die wir ehrenhaft aufhalten werden. Ein wenig seltsam ist dabei das die Mächte des Bösen anscheinend von unserem eigenen Cousin gesteuert werden und er auch irgendwie eine "nobles" Ziel vor Augen hat das wir bestimmt nach einiger Überzeugung nach voll ziehen können. Davon einmal abgesehen ist es doch erstaunlich wie viele Verbündete wir wirklich brauchen um die Verteidigungen und Angriffe zu überwinden die da auf uns zu kommen. Wir erinnern uns daran das die Eingeborenen seit Jahren von den Kleriker aus Thelémé und den Alchemisten klein gehalten werden. Ganze Stämme wurden entführt und und abgeschlachtet. Jetzt auf einmal ist ein daher gelaufener Doneigada in der Lage ausreichend Tier zu mobilisieren um uns praktisch alles ab zu verlangen. Diese Option hatten die anderen Eingeborenen also auch die ganze Zeit. Klar, das wäre gegen ihre Prinzipien gegangen aber man hätte mit wesentlich weniger Truppen auch einzelne Ziele heraus suchen können. Stattdessen war ihr oberster Anführer Vinbarr immer noch unsicher wie er fortfahren sollte. Ein Glück für die Kolonisten und ein weiteres Zeichen ihrer Arroganz. Immerhin in dieser Welt gibt es ausgleichende Gerechtigkeit durch Magie die es den Schwachen ermöglicht zurück zu kämpfen. Davon einmal abgesehen kann natürlich auch diese Macht pervertiert werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 14, Aufnahme vom 23.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
 
 ##### #98
 
-* Titel: ``
+* Titel: `GreedFall - #98 - der Götterbaum [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Alternativer Episodentitel: Finale.
+  
+  Das habe ich übrigens schon lange nicht mehr gemacht, eine Episode "Finale" zu nenne, das hat sich einfach nicht angeboten. Es ist ein wenig schade das ich in 98 Episoden nie einen guten Screenshot gefunden habe den ich als alternatives Thumbnail nutzen konnte, aber so richtig zufrieden war ich halt nie mit dem was ich so gesehen habe. Und das bringt uns dann auch schon zum zentralen Punkt an der ganzen Sache. Das Vieh das wir da auf dem Cover sehen, das kam genau einmal vor und dann irgendwie nie wieder. Klar es war riesen groß und verletzt aber ich kann mich nicht erinnern das wir genau diese Art von Wächter noch einmal getroffen haben. Es sei den das war das Vieh vom Endkampf aber das kann ich nicht sicher sagen. Nun sind wir am Ende des Abenteuer und alles was mir bleibt ist meine Enttäuschung auszudrücken das unsere Begleiter nicht einmal mit bis zum letzten Kampf mit kamen sondern vorher abgebogen sind um eine Vulkanlandschaft zu bewachen. Das war ein wenig antiklimatisch, insbesondere wenn man bedenkt das wir uns so lange um die Brüder gekümmert haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Donnerstagsslot, Rollenspiele, gerne auch mit Nostalgiefaktor.
+  Sitzung 14, Aufnahme vom 23.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
+
+## 2 Fazit
+
+> **Note**
+> Alles in Allem kann ich Greedfall empfehlen, denke ich. Allerdings bin ich mir auch ziemlich sicher das die Entwickler wesentlich besser damit gefahren wären das Spiel einfach nicht Open World zu machen. De facto ist es das nämlich sowieso nicht weil wenn man aus der vorgesehenen Ordnung ausbricht entweder überhaupt nicht weiter kommt weil man leere Kulissen vor findet oder man spoilert sich Dinge die später erst relevant werden. Genial ist auf jeden Fall die Prämisse selbst ein Diplomat zu sein der dadurch in jeder Nation willkommen ist und guten Grund hat mit den Reichen und Mächtigen zu reden ohne das wir dafür ein wichtiger etablierter Charakter sein müssen. Klar, wir sind mächtig und irgendwie auch wichtig aber halt nicht so wichtig das man uns nicht auch der üblichen Behandlung anzutun die man auch gewöhnlichen Abenteurer antun würde, wie zum Beispiel praktische Unfälle wenn man zu viel raus findet. Das das auch unser Handeln ein wenig einschränkt ist bedauerlich aber das wird dadurch gelöst das wir oft Dinge entweder gesetzestreu oder prinzipientreu erledigen können und so entweder zum skrupellosen Diplomaten werden oder zum Völkerverständiger. Schade eigentlich das es eigentlich keine guten Gründe gibt mehr im Sinne der Händlerkongregation oder für den unmittelbaren Gewinn zu handeln. Dafür das wir eine mächtige Fraktion vertreten sehen wir eigentlich ziemlich wenig unserer eigenen Seite die mehr oder weniger nur Statist da ist. Auch sonst habe ich bei der konkreten Umsetzung von Dingen Kritik an zu merken, die grundlegenden Ideen sind teilweise genial, aber die handwerkliche Durchführung lässt oft zu wünschen übrig, das macht Hoffnung für einen Nachfolger. Wenn die gleichen Entwickler an dem Projekt arbeiten die aus den vorherigen Teil gefundene Erfahrung richtig umsetzen können.

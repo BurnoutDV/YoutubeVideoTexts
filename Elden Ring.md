@@ -2406,6 +2406,126 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #161
+
+* Titel: `Elden Ring - #161 - Millicents Blüte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wäre eine schöne Sache wenn man die Gewissheit hätte das Kinder ihre Ziele erreichen und Träume wahr werden. Das scheitert natürlich schon dann wenn man sieht das einige Träume nicht ganz mit der Realität zusammenspielen, oder sich gegenseitig ausschließen. Schließlich kann nur eine Person oberster Anführer eines Planeten sein, eine Aufgabe von der also nicht alle träumen können. Die Realität geht aber noch ein wenig weiter und ist oft ziemlich deprimierend, Leute sterben lange bevor sie auch nur den Ansatz ihres Traumes erfüllt haben, oder versacken in irgendwelchen Aufgaben, Dienstleistungen die sie tun müssen um einfach nur überleben zu können, unfähig jemals eine Chance zu haben auch den Ansatz einer Erfüllung anzufangen, oder die Energie dafür zu haben. In der halbtoten Welt der Zwischenlande ist zumindest Zeit nicht wirklich das Problem. Die meisten Leute scheinen nicht mehr besonders viel zu tun. Insofern eine gute Bühne für jemanden wie Millicent die ihren Traum nachjagt etwas Malenia zurück zu geben. Das könnte allerdings jetzt ein wenig schwierig werden weil wir die Göttin der Fäulnis bereits erschlagen haben, vielleicht ist das auch ganz gut so, so wie es aussieht ist sie ja die Quelle für die Fäulnis überall, keine Malenia, keine Fäulnis. Das Problem an Millicent ist nur das es gar nicht ihr Traum ist den sie hier lebt, stattdessen handelt sie im Auftrag von jemand Anderen, Gorwryn um genau zu sein. Wie genau sie das erkannt hat ist mir allerdings schleierhaft. Ich bin mir übrigens auch nicht sicher ob sie jetzt wirkliche seine leibliche Tochter ist oder das nur ein Begriff darstellt den er verwendet hat weil er sich so fühlt. So oder so hat man das nicht selten das Eltern durch ihre Kinder leben wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 26, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #162
+
+* Titel: `Elden Ring - #162 - das Feuer der Riesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die ganze Episode im großen Haligbaum war ja eigentlich ziemlich optional und soweit ich das sehen kann war das alles nur dafür da um ein Ende abzuwenden das ich eh nicht mehr machen kann weil ich den Propheten der drei Finger umgebracht habe und eventuell auch weil ich vergessen habe welche Geste man machen muss um die Tür im Keller zu öffnen. Das bedeutet aber auch das wir uns wieder auf Kurs befinden und den Berg eines gewissen Riesen besuchen damit wir dort das Feuer klauen können. Das ist schon fast poetisch wie ich finde, wir gehen zu einem hohen Berg um dort das Feuer zu holen. Nur halt nicht als Allegorie auf die Erkenntnis oder den Verlust der Unschuld sondern sehr wortwörtlich. So gesehen macht das aber auch das die Riesen so eine Art Götter-Olymp sind, dazu beitragen würde auch das sie eigentlich gar nicht klassisch humanoid aussehen, das gesamte Aussehen scheint ja nur Show zu sein und der wahre Riese ist ein ganzes Stück bizarrer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 26, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #163
+
+* Titel: `Elden Ring - #163 - Ruinen der Zeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und mit "Ruinen der Zeit" meine ich eigentlich Farum Azula aber aus irgendwelchen Gründen habe ich mich dagegen entschieden die einfachen SEO Punkte abzulehnen und stattdessen einen Titel gewählt den bestimmt nie irgendjemand googeln wird. Also sind wir jetzt hier, einst hatten wir ja bereits einen Blick auf diesen Ort, einen fernen Ort der irgendwie außerhalb der Dinge übert dem Meer liegt. Fraglich ist übrigens ob Farum Azula wirklich dort ist oder das was wir sehen nur eine Art Riss in der Realität bzw. vielleicht auch nur der Zeit ist und wenn man physisch da hin fliegen würde man man Farum Azula vom Festland sieht nichts ist oder doch ein Riss in der Welt der unsichtbar da vor liegt. Wie dem aber auch sei, was wirklich mit diesem Ort passiert ist wissen wir nicht, nur das die Bewohner dieses Ortes anscheinend Bestien sind, zumindest aus unserem Blickwinkel. Sie selbst würden sich wohl als untergegangene Hochkultur sehen, was jetzt aber genau passiert ist das diese Welt zerbrochen ist vermag ich nicht zu sagen, noch nicht, vielleicht nie. Was wir aber wissen ist das es nicht normal ist wenn Dinge einfach in der Welt schweben. Und es gibt hier Drachen, Erzdrachen sogar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 27, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #164
+
+* Titel: `Elden Ring - #164 - Sturmbalkon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es muss so etwas wie eine Heldin geben die sich mehr wie eine Erkunderin versteht als als eigentliche Heldin der Geschichte. Jemand der vor raus geht und all die Dinge benennt. Bis zu einem gewissen Punkt hätte das Vyke sein können, der eine Dude der es immerhin bis zur Hauptstadt geschafft hat aber dann einmal in den Keller und damit auch in den Wahnsinn abgebogen ist. Den können wir also jetzt sicher raus nehmen und davon ausgehen das er nicht der Kerl war der es bis nach Farum Azula geschafft hat. Und doch wird das Leuchtfeuer das wir heute besuchen ja nicht immer "Sturmbalkon" geheißen haben. Relativ gesehen ist der gewaltige Sturm der die Stadt, den Ort oder Tempel in der Luft durchbohrt ja eher eine neue Entwicklung. Vielleicht aber auch nicht, das würde dann zumindest die Benennung erklären. Sollte das Ding aber neu sein muss jemand vor uns hier gewesen sein und die Gnaden benannt haben. Durchaus möglich das es gar nicht so lange her ist, Alexander ist ja schließlich am Horizont zu sehen und den haben wir neulich erst noch beim Riesen gesehen. Ob er eigentlich da war um sich im Feuer zu härten? War das der Hinweis den ich hätte verstehen sollen als er im Vulkan gemeckert hat das er nicht heiß genug ist? Unabhängig davon biegen wir heute auch ein wenig ab, es gibt immer noch ein paar Orte die ich vergessen habe und mir dank des Coop Runs bewusst werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 27, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #165
+
+* Titel: `Elden Ring - #165 - Bestientempel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Beschreibung hatte ich es ja schon angedeutet, aber mir ist absolut nicht klar ob Farum Azula jetzt wirklich eine ganze Stadt gewesen ist die irgendwo auf einer Insel oder vielleicht sogar einem Kontinent steht und die Bewohner dann Dingen taten und der Wirbelsturm das Epizentrum darstellte und deshalb noch teilweise vorhanden ist oder ob es sich nur um einen Tempel handelt der um ein bestimmtes Phänomen herum gebaut wurde, dieses Phänomen dann akut wurde und es jetzt das ist was es ist. Alternativ könnte es natürlich auch sein das der große Wirbelsturm schon immer da war und Farum Azula eher so etwas wie ein Raumschiff war das den Sturm als Vehikel genutzt hat, eventuell sogar selbst erzeugte um damit einen gewaltigen fliegenden Tempel durch die Gegend zu bewegen. Dann kollabierte der Antrieb und weil das Ding eine Art Zeitmagie verwendet ist dann alles inmitten der Zerstörung erstarrt die aber nur die festen Teile betrifft. Die Bewohner wurden wieder wild (auch wenn irgendwelche Beschreibungen andeuten das die Wildheit eher weniger geworden ist) und beleben die Ruinen noch heute. Alternativ wiederholt sich auch immer der gleiche Tag für die die wir Bestien nennen. Da ich die Schrift an den Wänden nicht lesen kann habe ich den heutigen Abschnitt dann "Bestientempel" benannt, aber so richtig Beweise habe ich eigentlich nicht das es einer ist, nur das es ein tempelartiger Sakralbau ist der von Bestien bewohnt wird. Aber wenn man sich Archäologen näher anguckt dann ist "religiöse" Gründe immer der Fallback wenn man Sachen nicht erklären kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 27, Aufnahme vom 02.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #166
+
+* Titel: `Elden Ring - #166 - Drachentempel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind schon wieder in einem Tempel, aber dieses Mal ist es tatsächlich einer der auch als solcher bezeichnet wird. Natürlich dient er den Drachen die es auch zu Hauf rund um Farum Azula gibt, was auch immer die Viecher eigentlich den ganzen Tag konsumieren, andererseits kann man sich die Frage auch auf Greyolls Drachenhügel stellen. Wir dürfen wohl davon ausgehen das Drachen eher keine Fleischfresser sind und eher Magie aus der Luft saugen oder Ähnliches. Wie dem aber auch sei, die alten Bestien von Azula haben offensichtlich die Drachen verehrt und wir wissen bereits das die großen Drachen früher die Welt beherrscht haben bis die Gnade und die Erdenbäume kamen. Die Drachen die wir jetzt in den Zwischenlanden sehen sind auch eher korrumpiert und bedienen immer nur einen bestimmten Aspekt der Magie aber nicht die ursprünglichen roten Blitze die wir hier sehen. Handelt es sich vielleicht gar nicht um echte Drachen sondern nur um Nachbauten. Selbst der große Drache in Leyendell hat nur zwei anstatt vier Flügel. Was genau jetzt die Götterskalpen hier machen weiß ich aber trotzdem nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 27, Aufnahme vom 02.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #167
+
+* Titel: `Elden Ring - #167 - der Weg des Kriegers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Also wir sind immer noch in Farum Azula und ich habe nicht aus Versehen Sekiro wieder angemacht um den letzten Endkampf zu bestehen. Stattdessen sind wir jetzt wieder richtig drin. Seit einige Episoden wollte ich ja zu Alexander dem großen Kriegsgefäß aber jetzt ist es endlich soweit das wir auch wirklich dort ankommen. Was jetzt kommt war eigentlich relativ logisch wenn man darüber nach denkt. Alexander wollte immer der größte Krieger werden den es jemals gegeben hat. Nach seiner Performance bei Radahn war er ein wenig geknickt das er so wenig Hilfe sein könnte und hat viel dafür getan besser zu werden. Allerdings scheinen die Kriegsgefäße eher darauf ausgelegt zu sein eine Belagerungswaffe darzustellen. Man wirft sie per Luftlandung ab, die machen Ärger und in der Zwischenzeit können die echten Truppen einrücken. Das gesamte Konzept ist also ein wenig eingeschränkt. Das hindert Alexander natürlich nicht daran trotzdem zu streben. Ärgerlicherweise haben wir neulich erst Malenia gelegt, das bedeutet aber auch das wir eine der größten Kriegerinnen sind die jemals existiert haben. Die Logik ist also die das man nur der mächtigste Krieger sein kann wenn man die Person besiegt die aktuell den Titel hält. Das sind dann wohl wir...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 27, Aufnahme vom 02.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #168
+
+* Titel: `Elden Ring - #168 - Splitter des Tempels [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß immer noch nicht warum und wie Farum Azula existiert. Man sagt sich es zerfällt schon seit dem Anfang der Zeit aber so genau wissen tun wir das auch nicht. Bisher ist alles was wir gelesen haben eher Hörensagen und Dinge die man sich halt so erzählt, kurzum, Dinge die sich genauso gut irgendein Barde im Weinrausch ausgedacht haben könnte. Was wir allerdings sehen können ist das die Drachverehrung auf jeden Fall ein großes Ding für die Leute war und es anscheinend mehr als nur einen Tempel gibt, so richtig kommen wir aber auch nicht weiter in der Ergründung von dem was Farum Azula einmal gewesen ist. Es ist ja noch nicht mal klar ob das hier alles ein großer Sakralbaute ist oder ob es auch zivile Infrastruktur gibt die vielleicht einfach zerfallen ist oder wie es genau hier her geraten ist. Übrigens ist auch ein wenig unklar wie wir überhaupt hier angekommen sind, weil an sich wollten wir ja nur den großen Erdenbaum abbrennen und haben dafür anscheinend unsere Maid geopfert. Im Nachhinein war das vielleicht nicht die beste Idee.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 28, Aufnahme vom 04.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

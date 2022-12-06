@@ -655,132 +655,163 @@
 
 ##### #44
 
-* Titel: ``
+* Titel: `Yakuza 5 - #44 - Verabschiedungsrunde [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich kann direkt sagen das anscheinend nicht heraus kommt warum genau unser guter Freund und Protagonist Taiga überhaupt im Knast landet. Was wir aber wissen ist das er den Zeitpunkt seiner Abholung ziemlich genau kennt, genauer, er weiß sogar wann und wie er weg geschnappt wird. Das ist ziemlich faszinierend wenn man bedenkt das die Cops ja doch eigentlich daran interessiert sein sollten nicht den Eindruck zu erwecken das die Yakuza sie in der Tasche haben. Auf der anderen Seite gibt ja Date auch zu Protokoll das Stabilität am Wichtigsten. In dieser Hinsicht ähneln sie philosophisch auch eher dem Patrizier von Ankh-Morpork. Man akzeptiert das Verbrechen eine fundamentale Konstante menschlichen Zusammenlebens ist und dribbelt um diesen Fakt herum. Also entscheidet man sich Yakuza zu haben die wenigstens stramme Japaner sind und dafür sorgen keine anderen Fremdgewächse das Sonnenlicht abgreifen. Das Minderheiten, Jugendliche und insbesondere Frauen in Drogen und Prostitutionsringe darunter leiden ist für das gesamtgesellschaftliche Wohl nur von sekundärer Bedeutung behaupte ich einmal. Wie dem aber auch sei, den Fakt können wir auf jeden Fall dazu nutzen uns angemessen von einigen Leuten zu verabschieden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 07.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
 ##### #45
 
-* Titel: ``
+* Titel: `Yakuza 5 - #45 - hoch in den Norden [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Anscheinend muss man um als Yakuza ernst genommen werden in den Knast gehen. Traditionsgemäß macht man das wohl für einige Jahre damit man genügend Credibility einsacken kann wenn man wieder draußen ist. Warum genau und wieso kann ich nicht erklären und ich habe irgendwie die Ahnung das ich das nie können werde. Das von allen Leuten unser bester Freund Taiga noch einmal hinter schwedische Gardinen muss ist mir allerdings ein ziemliches Rätsel. Man möchte doch eigentlich meinen das der Mann nach 25 Jahren Knast eigentlich genügend Glaubwürdigkeit für zwei Leute eingesackt hat. Auf der anderen Seite haben wir dann Kerls wie Majima der anscheinend noch nie einen Knast für länger als ein paar Stunden von innen gesehen hat. Das gesamte Verfahren erscheint mit in Zeiten der zunehmenden Instabilität aber ziemlich unsicher. An sich ist das ein wenig wie eine Vertrauensprüfung an alle anderen die Draußen sind. Man kann nichts tun während man Drinnen ist, die Institution die genutzt wird ist immer noch nominell unabhängig. Der Tojo Clan ist im Flux und die Zeiten werden immer schneller, in den 80er Jahren waren zwei Jahre vielleicht eine akzeptable Zeit, aber wie sieht das heutzutage aus? Unsere Reise geht auf jeden Fall in den Norden, ein beliebter Move, Gefangenenlager irgendwie errichten wo es absolut keinen Spaß macht an der frischen Luft zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 7, Aufnahme vom 07.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #46
 
-* Titel: ``
+* Titel: `Yakuza 5 - #46 - eisige Hölle [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Unser gewähltes Gefängnis befindet sich hoch im Norden. Hier ist es kalt, aber das ist halt einfach wie Hokkeido ist. Interessanterweise müsste es theoretisch ja auch einen Sommer auf der Insel geben, schließlich wachsen da auch irgendwo Bäume und das passiert ja bestimmt nicht im tiefsten Winter. Ich habe noch nie auch nur  ein Bild von Hokkeido im Sommer gesehen, oder wenn, dann nicht so das es als die Winterinsel ausgewiesen wurde. Wie dem aber auch sei, es ist keine eisige Hölle weil das Wetter manchmal ein wenig frisch ist sondern weil seit Neusten einige Mitinsassen ein wenig unfreundlich sind. Der Knast ist anscheinend auf Yakuza ausgelegt, nicht so wie die legendäre Justizvollzugsanstalt Nummer 2 auf Okinawa aber schon ein wenig. Umso verwunderlicher ist es das die Aufseher die Sachlage nicht so gut im Griff haben, aber das könnte auch der politische Wille sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 7, Aufnahme vom 07.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #47
 
-* Titel: ``
+* Titel: `Yakuza 5 - #47 - Gedankenpalast [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  „Die Gedanken sind frei“, das wird gerne einmal gesungen um zu symbolisieren das man niemals richtig gefangen sein kann. Der Zyniker in mir erkennt diese Worte als eine Art Lüge an, vielleicht kann man die Gedanken nicht wirklich lenken ohne enorm technisch einzugreifen, aber mit ausreichend Aufwand kann man dafür sorgen das die Leute nur noch die richtigen Gedanken denken und sich anfangen selbst zu zensieren. Letztendlich läuft das dann darauf hinaus das sich Menschen wegen imaginärer Grenzen und Gesetze zurückhalten obwohl sie physisch nichts aufhalten würde. Das nennt man wohl im Allgemeinen Zivilisation aber die extreme Variante davon kann wesentlich weiter gehen. Unser kleiner Winterpalast ist allerdings nicht so extrem, und es ist uns sogar erlaubt den lokalen Hostessclub aufzusuchen, zwar nur in unserer Fantasie aber das ist ja am Ende fast das Gleiche nicht wahr?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 7, Aufnahme vom 07.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #48
 
-* Titel: ``
+* Titel: `Yakuza 5 - #48 - Träume und Wirklichkeit [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wenn man sich wirklich tief in seinen Träumen verliert kann es schnell vorkommen das man für einen kurzen Moment nicht mehr weiß was Realität ist und was nur erträumt war. Interessant wird es auch wenn die Erinnerung an einem Traum noch so wirklich erscheint das man sich später nicht mehr sicher ist was wahr ist. Vielleicht fängt so der Wahnsinn an, wenn das Gefühl was Realität und was nicht Realität ist langsam und mehr verschwindet bis Nichts mehr bleibt was klar aussagt das es sich nur um einen Traum oder eine falsche Erinnerung handelt. Saejima hat es hier noch relativ leicht, schließlich braucht er die Hilfe eines Erzählers um sich überhaupt im Traum zu verankern. Ein wenig farbarm die gesamte Geschichte, aber trotzdem ein schöner weg um der Realität für einen kurzen Moment zu entkommen. Ob die Wächter etwas gegen solche Ausflüge hätten oder ob es zu den Vergnügungen gehört die durchaus ein zustimmendes Nicken verdienen würden?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 7, Aufnahme vom 07.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #49
 
-* Titel: ``
+* Titel: `Yakuza 5 - #49 - die Tat [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt immer das eine Ereignis auf das man später alles Andere zurückführen kann, oder zumindest das eine Ereignis von dem man weiß. Der erste Stein wurde vielleicht in Wirklichkeit ganz woanders geworfen, vor einer langen Zeit. Eine Beobachtung die eine ganze Persönlichkeit ausgelöst hat die wir erst viel später manifestiert und tätigend sehen. So richtig sagen kann man das nur in den seltensten Fällen, schön ist aber wenn man die entsprechenden Momente zufälligerweise auf Video hat oder es zumindest ein Photo aus der Zeit gibt das einen gewissen historischen Kontext liefert. Heute fängt alles mit einer Tat an, ein Täter der so offensichtlich schuldig ist das er fast schon wieder auffällig erscheint. Wachen die gerne den einfache Weg wählen anstatt tiefgehende Analysen vom Stapel zu lassen. Etwas das verdächtig nach einer Verschwörung aussieht, Fakten die nicht passen. Aber was können wir schon tun, wir selbst sind nicht beteiligt und ein einfacher Gefangener hat doch nur in der Reichweite seiner Ketten überhaupt Möglichkeiten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 7, Aufnahme vom 07.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #50
 
-* Titel: ``
+* Titel: `Yakuza 5 - #50 - der Informationshändler [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es stellt sich doch glatt heraus das einfache Gefangene doch einige Möglichkeiten haben. Manche Leute haben immer noch Kontakte nach Draußen oder Fähigkeiten die es ermöglichen im vorhandenen Gitter eine Lücke auszunutzen. Wie genau die Dinge immer funktionieren kann ich nicht sagen aber es ist evident das sie funktionieren. Gefängnisse können in ihrer Natur keine völlig dichten Entitäten sein, dafür bräuchte es mehr Personal und das würde viel Geld kosten das die Gesellschaft im Allgemeinen nicht hat. Es ist eine recht einfache Gleichung,  Gefangene haben so gut wie Nichts aber Zeit kann ihnen nicht genommen werden. Wächter haben Arbeitszeit, ein Leben außerhalb und besitzen vieles das sich vielleicht mehr anbieten würde. Man kann hohe Mauern bauen, abgesperrte Räume und die Sicherheit auf ein Maximum beschränken, was man aber nicht kann ist die Leute davon abzuhalten zu denken. Oder krank zu werden. Das ist ein Problem, könnten die Leute nicht mehr richtig denken wäre es ihnen auch nicht möglich über die Strafe zu reflektieren, von der Außenwelt zu träumen. Was wenn wir die Leute nur in ein künstliches Koma versetzen würden und einfach 10 Jahre abwarten bis sie wieder aufwachen. Wäre das einfacher, alle moralischen Implikationen einmal abgetan, wäre das überhaupt noch im Sinne der ursprünglichen Erfindung?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 8, Aufnahme vom 14.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #51
 
-* Titel: ``
+* Titel: `Yakuza 5 - #51 - die Begnadignug [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Alle Taten des Menschen brauchen irgendeine Motivation. Die Grundprämisse des Gefängnisses ist das die Leute keine Freiheit mehr haben und die Freiheit das ist was sie wollen. Daher muss man wohl Gründe erschaffen warum die Leute sich gut führen. In der Regel droht man mit vorzeitiger Freiheit bei guter Führung. Manchmal kommt es auch vor das Leute begnadigt werden, eine Mechanik die man missbrauchen kann und die wohl aus einer Zeit kommt als es noch Königinnen gab die ihren loyalen Untergebenen aus irgendwelchen Gründen vorzeitig etwas geben wollten. Vielleicht auch um für die eigenen Sünden zu büßen. Natürlich kann man auch Sachgründe anführen, Menschen die zu alt oder zu krank sind kann in einem Gefängnis nicht wirklich die Pflege angeboten werden wie außerhalb. Oder aber die Leute sind einfach keine Gefahr mehr. Aber heute geht es wohl eher um die gute Führung, anscheinend ist das auch ein Ding was als gegeben betrachtet wird. Wenn man für drei Jahre verurteilt wird und nicht auffällig wird gibt es zwei. Selbst jemand der sich des Mordes schuldig gemacht hat kann auf verkürzten Aufenthalt hoffen. Faszinierend diese menschliche Natur.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 8, Aufnahme vom 14.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #52
 
-* Titel: ``
+* Titel: `Yakuza 5 - #52 - eine Kette von Ereignissen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Das Menschen an das Gute in Anderen glauben kommt erstaunlich oft vor. Ich muss zugeben das ich das selbst viel zu oft tue, oft wird man enttäuscht, aber manchmal auch einfach nicht und es macht wohl nicht viel Sinn weiter zu machen wenn man für immer davon ausgehen würde das nie etwas Kreatives, Gutes oder zumindest Neutrales aus den Menschen herauskommen könnte. Unsere Sachlage ist jetzt also wie folgt, Saejima ist offensichtlich ein Yakuza der aus Ehrengründen seine Strafe absitzt und dabei absichtlich unauffällig ist um möglichst schnell wieder draußen zu sein. Das versteht auch der vorstehende Wärter der ein solches Verhalten nicht gut heißt. Allerdings haben sich jetzt neuerdings die Dinge geändert was wiederum zu einer Sachänderung der Haltung führt. Interessant zu erwähnen wäre übrigens auch die moralische Perspektive das wenn jemand verprügelt wird beide Parteien schuldig sind weil ja der Geschlagene die andere Seite dazu gebracht hat handgreiflich zu werden, beide Seiten sind also gleich schuld. Das ist ein wenig irre, aber so ist wohl die menschliche Natur. Auch irre ist das unser oberster Wärter gar nichts für uns tun kann weil der offizielle Dienstweg ein wenig komisch ist. Anders als sonst, das ist nicht nur auffällig sondern auch sehr besorgniserregend. Daher müssen wir zu einem alternativen Weg greifen, einen erstaunlich abgesegneten Weg.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 8, Aufnahme vom 14.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #53
 
-* Titel: ``
+* Titel: `Yakuza 5 - #53 - Reich der Vorstellung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Der Titel gibt es eigentlich schon weg, wieder einmal sind wir im Gedankenpalast, der Welt zwischen Traum und Wirklichkeit, einen Platz an dem wir tun können was auch immer wir lustig sind. Ich bin mir nicht sicher ob ich jemals wirklich luzide geträumt habe aber ich meine mich daran zu erinnern das ich mehrfach schon das Gefühl hatte das ich träume während ich das tat. Aber dann versuchte ich Dinge zu tun die mir nicht besonders vertraut waren und das hat ziemlich schnell die Illusion gebrochen was dazu führt das man entweder aufwacht oder in eine ungesteuerte Traumwelt fällt. Die Möglichkeiten sind also begrenzt, das Gehirn kann nur erschaffen was es kennt und von dort aus verändern und extrapolieren, aber für völlig Neues Zeug braucht es mehr Chaos und weniger Kontrolle. Oder Stimulanz von der Wirklichkeit. Und das ist der Grund warum wir uns heute ein wenig Stimulanz aus der Realität holen. Mauern engen eh viel zu sehr ein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 8, Aufnahme vom 14.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #54
 
-* Titel: ``
+* Titel: `Yakuza 5 - #54 - planmäßiger Ausbruch [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich kann mir ehrlich gesagt nicht so richtig vorstellen wie Leute aus Gefängnissen erfolgreich ausbrechen. Alle Bilder die ich vor Augen habe sind Anlagen mit hohen Mauern, engen Gängen und Insassen die ständig mit elektronischen Augen überwacht werden. Keine Möglichkeit jemals dem potenziellen Blick zu entkommen. Und doch, anscheinend ist es möglich. Ein nicht kleiner Teil davon geht wahrscheinlich auf bestochene Wachen, Erpressung oder anderer externer Hilfe zurück. Aber es spricht wohl auch Einiges dafür das nicht alle Gefängnisse der Welt ein perfektes Nest darstellen, wahrscheinlich ist eher das Gegenteil der Fall. Westliche Gefängnisse liefern wohl auch weniger Gründe zu fliehen wie auch Möglichkeiten. Ein echtes Höllenloch könnte dazu motivieren die eigene Strafe tiefer zu bereuen, dabei zu sterben oder aber bessere Ausbruchspläne zu schmieden die vielleicht mit einer abgestochenen Wache anfangen könnte. Oder einen praktischen Fluchttunnel. Das Festhalten von drittklassigen Gefangenen ist eventuell auch kein Prioritätsprojekt, durchaus möglich das das Gebäude eher nach genutzt wird, oder schon sehr lange als Knast dient. Alles möglich. Wir brechen heute mit einem Schlüssel aus, das sollte in der Theorie kinderleicht sein, leider gibt es Komplikationen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 8, Aufnahme vom 14.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #55
 
-* Titel: ``
+* Titel: `Yakuza 5 - #55 - Yama-Oroshi [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Gute Neuigkeiten, ich kann endlich aufhören darüber zu philosophieren wie  das Leben im Gefängnis ist, eine Erfahrung die ich nie hoffe selbst zu tun. Auf der einen Seite wäre endlich Zeit zum Denken, auf der anderen Seite habe ich eigentlich nicht viel fertig zu denken, nur die Gedanken physisch umzusetzen, und das ist außerordentlich schwierig wenn man nur beschränkten Zugriff auf  Materialien hat, nicht einmal das Lernen einer Sprache erscheint mir besonders sicher zu sein, und das obwohl ich mir das immer vorgenommen habe.
+  
+  Jetzt sind wir auf jeden Fall im Wald. Vor einigen Episoden habe ich ja erwähnt das man Gefängnisse gerne irgendwo errichtet wo es absolut keinen Spaß macht draußen zu sein, oder wo man nicht stehen kann. Inseln mit viel Wellengang bieten sich grade zu an, aber Wasser im Allgemeinen ist gut. Gefrorenes Wasser ist aber auch richtig gut, gerne auch richtig weit draußen so dass es nicht fußläufig möglich ist weg zu kommen. Die wenigsten Ausbrecher werden wohl alleine an ausreichende Winterausrüstung kommen. Bonuspunkte wenn die Gegend nicht hinreichend kartografiert ist. Als I-Tüpfelchen könnte es natürlich auch noch gefährliche Tiere geben, Bären zum Beispiel. Wir nehmen heute natürlich alles mit, das geht dann soweit das uns nur ein Wunder retten kann. Da wir ein Spiel spielen das ein Narrativ erzählen will kann man sich aber auf Wunder verlassen, das gibt eine gewisse Sicherheit und fördert die Risikobereitschaft. Bis es dann auf einmal keine Wunder mehr gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 8, Aufnahme vom 14.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #56
 
-* Titel: ``
+* Titel: `Yakuza 5 - #56 - Dorfgemeinschaft [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und auf einmal sind wir ganz woanders. Nicht jeder Knast hat Mauern und Gitter. Manchmal ist es auch einfach nur das Wetter das uns davon abhält weiter zu ziehen. Wir sind jetzt also in einem eingeschneiten Bergdorf das nur sehr schwer für die Außenwelt zugänglich ist. Eigentlich die perfekte Deckung für zwei entflohene Sträflinge, wenn wir hier unseren Aufenthalt einige Zeit verlängern können sollten wir absolut in der Lage sein unsere Spuren zu verwischen. Natürlich wird die örtliche Polizei initial eine Menge tun um uns zu erwischen, es wäre ja durchaus davon auszugehen das wir uns in die nächstbeste Großstadt absetzen, einfach weil es dort am meisten Möglichkeiten gibt. Personalmangel, Budget und die allgemeine Weihnachtsstimmung könnten aber dazu führen das man uns eher früher als später vergessen wird. Die Aufmerksamkeit kann nicht lange auf einer Stelle bleiben, als dieses Abenteuer anfing merkte ich an das wir in schnellen Zeiten leben. Das kann auch einmal zu unserem Vorteil gereichen. Jetzt müssen wir uns also nur noch mit den Dorfis anfreunden und darauf hoffen das keiner irgendetwas merkt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 8, Aufnahme vom 14.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #57

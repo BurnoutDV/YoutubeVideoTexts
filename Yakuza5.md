@@ -816,22 +816,26 @@
 
 ##### #57
 
-* Titel: ``
+* Titel: `Yakuza 5 - #57 - die erste Jagd [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Anscheinend sind wir jetzt Jäger. Aber so ist das halt manchmal im Leben, eben ist man noch einer von 200 Buchhaltern bei Sardinen Food Logistics und plötzlich sitzt man neben einer gut aussehenden jungen Frau die anscheinend die Welt retten will und nicht schüchtern damit ist explizite Andeutungen zu machen was nach dem bestandenen Abenteuer wartet. Oft denkt man sich „hier stehe ich, ein ganz normaler Staubsaugervertreter und das hier sind die Führer der freien Welt die mich um Rat fragen“. Passiert andauernd. Warum also nicht „hier bin ich, ein entflohener Sträfling der 25 Jahre gedacht hat das er 20 Leute kaltblütig in einem Ramen Laden erschossen hat, die Leute hier geben mir eine doppelläufige Schrotflinte und 50 Schuss Munition in die Hand damit ich Wild jagen gehen kann.“ Aber genau das ist passiert, nicht ganz uneigennützig muss man auch sagen, schließlich haben wir eine Mission und die können wir nicht erfüllen wenn man verhungert ist. Also machen wir uns wohl mal daran richtig viel über das Jagdgeschäft zu lernen, das woanders grade Einiges passiert spielt ja wohl für den Moment keine Rolle oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 9, Aufnahme vom 21.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #58
 
-* Titel: ``
+* Titel: `Yakuza 5 - #58 - Hasenfallen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Als Jäger müssen wir uns ja nicht nur darauf beschränken Großwild mit der Flinte nieder zu schießen, tatsächlich erscheint das wie eine sehr anstrengende Tätigkeit. Rehe sind nicht taub und sich wirklich im hohen Schnee an zu schleichen erscheint mir wie eine Tätigkeit die eher selten klappt, Hochsitze habe ich noch keine gesehen und ansonsten habe ich absolut keine Ahnung von Jagen. Kaninchen zu schießen und danach einzelne Schrottteilchen aus dem Fell zu entfernen klingt sogar nach noch mehr Arbeit. Tatsächlich gibt es aber Jäger die ihr ganzes Leben noch nie eine Flinte in die Hand genommen haben, es muss ja auch nicht immer Großwild sein, stattdessen kann man auch ein paar schöne Fallen aufstellen und in der Zwischenzeit in seiner Jagdhütte rum sitzen und warten bis sich etwas ergibt. Generell bin ich übrigens was die Jagd angeht von Bambi geprägt worden, ich hatte da so eine Hörspielkassette und ich sehe Jäger instinktiv als Feinde an, auch wenn es noch so unfair ist und die guten Männer (ich sehe selten Jägerinnen) sind quasi auch nur ein Teil der Nahrungskette, insbesondere im raubtierarmen Deutschland sogar notwendig. Trotzdem Fallen für flauschige Kleintiere zu stellen fühlt sich dreckig an, zum Glück sind die Tierchen nur virtuell.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 9, Aufnahme vom 21.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #59

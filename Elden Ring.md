@@ -2526,6 +2526,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #169
+
+* Titel: `Elden Ring - #169 - An der großen Brücke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ist es nicht schön wenn ich Episoden so eindeutig bezeichne? Heute befinden wir uns nämlich unter einer großen Brücke, gleichzeitig heißt ein Leuchtfeuer auch so so das der Titel sogar doppelt Bedeutung hat. Unsere Position unterhalb der Brücke liegt aber sehr nahe an dem großen runden Ding das ich spontan mal als Arena verstehen würde. Dort drin werde ich wohl irgendeine Art von Feind finden, aber soweit müssten wir natürlich auch erst einmal kommen, ein Drachenbaumritter wartet vor der Tür. Und solange der nicht bezwungen ist haben wir keine Chance weiter zu kommen. Natürlich ist es auch nicht möglich einen solchen Ritter zu überwinden aber bevor ich das tue schaue ich mir lieber noch einmal die örtlichen Dächer an, vielleicht findet sich ja noch der ein oder andere schöne Ort den wir besuchen können um unsere Zeit hier im schönen Farum Azula noch ein wenig in die Länge zu ziehen. NPC Invader hatten wir schon lange nicht mehr, wird eigentlich mal wieder Zeit. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 28, Aufnahme vom 04.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

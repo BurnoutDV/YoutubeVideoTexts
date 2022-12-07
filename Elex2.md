@@ -107,6 +107,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
 
 ##### #Nummer
 
+* Titel: `Elex 2 - #7 - Frühjahrsputz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja die Quest die wir heute machen heißt halt echt so, ich hab mir das nicht ausgedacht und wir machen ihn dann wirklich, den Frühjahrsputz, schwer damit beschäftigt irgendwelche Ratten zu töten. Dafür das der große Dr. Dawkins einen mächtigen Roboterarm und bestimmt einige Waffen zur Verfügung hat kann er offenbar keine Zeit für etwas aufwenden das er auch auf den Weg zurück zu seiner Basis hätet in Angriff nehmen können. Wie dem aber auch sei, dann machen wir das halt wenn der feine Herr Doktor nicht dazu gebracht werden kann seiner Arbeit nach zu gehen und lieber Zeit damit verbringen "Wissenschaft" zu betreiben. Zurück zum Thema, wir haben es mit der typischen MMO Quest zu tun, erschlage 5 Ratten, bringe mir ihre Pelze. Nur das wir nicht einmal die Fähigkeiten haben auch nur einen Pelz aus einer Ratte raus zu schneiden, das muss man nämlich erst leveln. Und selbstverständlich auch die Zeit des Lehrers mit Geld aufwerten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 01.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

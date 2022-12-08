@@ -120,6 +120,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #8
+
+* Titel: `Elex 2 - #8 - Gardok der Baumeister[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein kleines Problem das die Bastion hat ist das alles von Ruinen bedeckt ist. Oder anders gesehen, die Gebäude die eigentlich eine mächtige Einrichtung aus machen sollten sind eine große Ruine. Daher brauchen wir dringend Personal das sich mal darum kümmert die ganzen Steine einzusammeln, und dann brauchen wir noch mehr Personal das sich darum kümmert die Steine wieder in der richtigen Reihenfolge aufeinander zu setzen. Als ersten Schritt heuern wir aber trotzdem den Kerl an der das ganze überwacht und die Gedanken hat und entscheidet in welcher Reihenfolge das am besten passiert. Obwohl, es hört sich tatsächlich so an als würde der Mann alleine arbeiten wollen, schließlich sollen wir ihm persönlich einen Hammer bringen. Ob er alles alleine aufbauen will? Wenn ich das recht verstanden habe ist der Mann schon ein wenig älter. Schauen wir doch einmal wohin die Reise geht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 01.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -840,12 +840,14 @@
 
 ##### #59
 
-* Titel: ``
+* Titel: `Yakuza 5 - #59 - Frucht der Berge [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Also rein theoretisch wäre es uns durchaus möglich in den Bergen auch einfach ein paar Pflanzen zu pflücken, es gibt da wohl Pilze, ein bissle Blätterzeug und noch einige andere interessante Dinge die man mit genügend Ausdauer aus dem Bergwald holen könnte. Aber wenn wir ehrlich sind wissen wir auch das Pilzesammeln nicht die Rechnung zahlt, weder für die Ausrüstung noch für den Magen. Bei kalten Wetter mit schwerer Kleidung herumzulaufen ist verdammt teuer in diesen Aspekten und so ein wenig Gemüse kann nur ein Nebenverdienst sein. Also handelt es sich bei dieser Frucht natürlich um den Jagderfolg, quasi das Ergebnis der Pirsch, auch wenn ich weniger pirsche und mehr Cowboy spiele der wahllos in den Wald rein ballert und dann heraus holt was liegen bleibt. Das wir zahlreich Tiere weg laufen lassen die wir nur angeschossen haben verschweigen wir mal lieber. Nein nein, das Reh verendet bestimmt nicht irgendwie grausam an seinen Wunden wo es wohl noch eine ganze Weile lebendig herumliegt bis es dann endlich vorbei ist, ungenutzt verschimmelt. Obwohl, der letzte Teil wird wohl in einem Wald nicht passieren der notorisch für seine zahlreichen Bären ist. Immerhin müssen wir uns also nicht vorwerfen lassen Ressourcen zu verschwenden. Aber hey, wir werden immerhin ganz gut reich mit unseren ersten Bemühungen, und dabei sind wir noch nicht einmal ein Meisterjäger. Es hätte wohl schlechter für uns laufen können. Ein stabiles Einkommen frisch aus dem Knast heraus, sogar ein wenig Respekt der Bergbevölkerung haben wir uns verdient, das sieht doch gar nicht so schlecht aus oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 9, Aufnahme vom 21.11.2022 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
   ```
 
 ##### #60
@@ -860,6 +862,156 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Yakuza 5 Remastered auf dem Montags Slot.
   Sitzung 9, Aufnahme vom 21.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #61
+
+* Titel: `Yakuza 5 - #61 - Bärenjagd [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bären sind eigentlich ziemlich gefährlich. Die meisten Menschen haben so gut wie keine Chance im direkten Kampf gegen ein solches Tier. Weder Muskelkraft noch gezielte Faustschläge sollten mehr erreichen als das Tier sauer zu machen. Was man allerdings tun könnte wäre sich zu bewaffnen. Ich frage mich ob es 2,30 Muskelberge gibt die eventuell gegen einen Bären bessere Chancen hätte, zumindest gegen nicht ganz so Gewaltige. Allerdings haben Menschen keine Krallen und ihre Haut ist ziemlich weich. All das wurde aber irgendwann eher eine theoretische Überlegung als man anfing Waffentechnologie zu verbessern. Ich würde annehmen das eine Armbrust bereits gute Ergebnisse erzielen würde, auch wenn das Nachladen wohl potenziell tödlich sein könnte. Moderne Feuerwaffen sollten hingegen gar kein Problem haben das Fell bzw. die Haut eines Bären zu durchdringen. Saejima hat allerdings eine Schrotflinte, hier sehe ich durchaus noch Potenzial für den Bären. Umso mehr müssen wir uns vorsehen, glücklicherweise stellen sich die Bären am Ende als eine keine allzu große Bedrohung heraus, das wäre auch sehr ärgerlich gewesen, schließlich brauchen wir doch Teile.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 21.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #62
+
+* Titel: `Yakuza 5 - #62 - Todoraki der Berggeist [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man kann mir ja wirklich nicht vorwerfen das ich immer nur das Gleiche tue. Stattdessen fröhne ich heute der Abwechslung. Bisher hatten wir ja das Problem das wir immer in die Wildnis hinaus mussten wenn wir etwas erleben wollte, aber es stellt sich doch glatt heraus das man auch im Herzen des Dorfes durchaus ein Abenteuer erleben kann. Daher machen wir das heute dann auch, es gibt da nämlich eine Familie von Berggeistern die wohl bereit sind uns neue Dinge beizubringen wenn wir nur die richtigen Opfergaben geben und dann einen kleinen Kampf gewinnen. Entweder verfügt der alte Mann über starke Psychopharmaka oder aber es ist etwas dran an der Geschichte. Die Fähigkeit Feuerbälle zu werfen ist ja doch eher nichts was normalerweilse älteren Männern zur Verfügung steht. Daher würde ich davon ausgehen das wir hier tatsächlich etwas auf der Spur sind. Wenn ich jetzt nur wüsste wie viele Geister es eigentlich gibt und wo wir zeitnah die ganzen Opfergaben herkriegen sollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 21.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #63
+
+* Titel: `Yakuza 5 - #63 - Köderbeseitigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gute Neuigkeiten! Wir haben jetzt einen professionellen Dorftrottel. Dessen erste Tat ist es auch in einem harten Winter den ganzen Wald mit Bärenköder aus zu legen damit die ganzen Viecher raus kommen und nach Nahrung suchen, so ein einzelner Köder hält ja schließlich nicht lange vor. Genau genommen bin ich mir übrigens nicht so ganz sicher ob Bären überhaupt aus dem Winterschlaf ohne größere Probleme aufwachen könnten, und selbst wenn sie es dann tun würden, weiß ich nicht ob sie dann auch in der Lage sind wieder schlafen könnten. Soweit ich weiß braucht so ein Winterschlaf eine gewissen Menge an Vorbereitung und das involviert eine Reihe von Beeren und anderen Pflanzen die man wohl in der Mitte des Winters eher nicht finden wird. Aber unsere Mission ist so oder so klar, wir springen los um so schnell wie möglich so viele Köder wie möglich zu entfernen, und vielleicht können wir noch eine Katastrophe vermeiden. Und wenn nicht, haben wir eine schöne Sammlung von Bärenfellen die wir mit Gewinn verkaufen können am Ende.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 21.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #64
+
+* Titel: `Yakuza 5 - #64 - Ikazuchi der Berggeist [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wieder einmal ein Berggeist und dieser ist sogar stärker als der vorherige. Da wir nichts essen oder trinken bevor wir die Gestalten sehen muss ich davon ausgehen das unser guter weise alter Mann ein guter Chemiker ist und die Luft im Vorfeld mit irgendetwas benebelt hat. Das würde auch erklären warum die Opfer manchmal nicht funktionieren und manchmal schon, die entsprechende Traumchemikalie ist einfach nicht bereit. Und dann hauen wir im Drogenrausch ordentlich einen aufs Maul bis die Wirkung nachlässt. Ich gehe aber davon aus das es nicht der alte Mann selbst ist der hier den Prügelknaben mimt, andererseits hätte er sich wohl schon eine weitere Garnitur Kauleisten zu legen müssen. Immerhin machen wir das nicht alle umsonst und am Ende haben wir sogar ein bisschen was gelernt, wer weiß wann wir das noch zu großen Gewinn nutzen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #65
+
+* Titel: `Yakuza 5 - #65 - Narumis Möglichkeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Narumi heißt übrigens der Kerl den ich in der letzten Episode als Dorftrottel bezeichnet habe. Das ist wohl nicht ganz korrekt weil der gute Mann eigentlich überhaupt nichts mit dem Dorf zu tun hat und soweit ich das erkennen kann möchte auch das Dorf so wenig wie nur irgend möglich mit Narumi zu tun haben. Der Mann ist wohl Jäger und betreibt das Ganze mehr so als Hobby als als Lebensgrundlage. Daher könnte man annehmen das er nur zum Spaß tötet. Das ist aber wohl auch nicht so ganz richtig, wenn man näher hinschaut drängt sich mir doch ein wenig der Eindruck auf das er es hauptsächlich tut um vor anderen Leuten gut dar zu stehen. Das macht es nicht besser, nur genau so schlecht. Egoistisch ist es so oder so. Wir retten ihn heute vor dem sicheren Tod auf dem Berg. Das ist gut für ihn, weil dadurch wird er noch in Zukunft Möglichkeiten haben. Und Möglichkeiten sind doch eigentlich alles im Leben oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #66
+
+* Titel: `Yakuza 5 - #66 - der Peilsender [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einer der Gründe warum das Yama Oroshi wohl solange sein Unwesen treiben konnte ist wohl auch der das man den Bären nur dann trifft wenn man es nicht gebrauchen kann. Nicht nur ist das Vieh erheblich besser als normaler Bären gegen Kugeln geschützt und verfügt über einen wortwörtlichen Dickschädel, auch ist es außerordentlich schwer gegen ein Tier an zu treten das sich seine Kämpfe aussucht. Man kann nie wissen wo der große Bär ist, nur das er nahe ist, bereit zu zuschlagen wenn sich eine Chance bietet. Ein tierischer Opportunist der ersten Stunde. Um diesen Nachteil auszugleichen brauchen wir also ein wenig Intelligenz. An dieser Stelle dürfen wir dann wohl Narumi danken, der hatte die brillante Idee einen Peilsender zu verwenden um dann das Tier an einem Ort zu stellen an dem es vielleicht nicht optimal bewaffnet ist. Zum Beispiel in seiner eigenen Höhle. Oder vielleicht auch lieber außerhalb eines Schneesturmes. Damit uns das gelingt müssen wir den großen, schrecklichen Bären ja nur noch einmal irgendwie treffen um überhaupt den Sender zu verteilen. Das klingt doch nach einem absolut soliden Plan oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #67
+
+* Titel: `Yakuza 5 - #67 - eine letzte Jagd? [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Peilsender ist dran, wir haben ein Signal, sogar unser guter Kumpel Okudera ist wieder halbwegs auf den Beinen. Wir könnten also sogar mit dem alten Mann zusammen auf die Reise gehen und endlich dem Schrecken der Berge ein Ende setzen. Das würde aber auch bedeuten das dem alten Mann nichts mehr bleibt. Ich weiß nicht ob es so gut ist sein ganzes Leben an einem weißen Wal zu binden der, sobald einmal gefangen, ja keinen weiteren Ansporn mehr liefern kann sich irgendwie zu entwickeln. Also schinden wir Zeit, zum Beispiel in dem wir noch einmal gegen einen Berggeist kämpfen, die werden auch immer grimmiger aber am Ende sind wir dennoch siegreich. Bleibt also nur noch ein letzter Gang in die Berge und die Gewissheit das die die letzte Jagd gewesen sein wird wenn wir erfolgreich waren. Irgendwie ein tröstener Gedanke, anderseits habe ich eigentlich nur den Drang mit etwas fertig zu werden wenn es ein anderes Projekt gibt das woanders auf mich wartet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #68
+
+* Titel: `Yakuza 5 - #68 - Kiyoshi Sato [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor 10 Jahren ist aus der Justizvollzugsanstalt den Berg rauf ein Sträfling ausgebrochen um etwas zu tun. Das wissen wir jetzt nachdem wir lange und tief gebohrt haben. Dieser Umstand hat in irgendeiner Hinsicht mit Okudera-Han zu tun der über diesen Vorfall wohl am allermeisten weiß, leider für den Moment aber wohl nicht so gesprächig ist. Was wir aber auch wissen ist das die Dorfbewohner wesentlich mehr darüber wissen als sie uns am Anfang gesagt haben, es ist sogar so das sie quasi alles wissen und sich nur dafür entschieden haben keine Fakten zu nennen um nicht im Zweifel so da zu stehen als würde sie irgendeine Art von Schuld treffen. Das ist ziemlich interessant, außer den Namen Kiyoshi Sato haben wir leider nicht viel, aber das kann ja vielleicht noch was werden oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #69
+
+* Titel: `Yakuza 5 - #69 - der Schrecken der Berge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist dann wohl doch endlich soweit, wir gehen auf unsere letzte große Jagd, auf unsere letzte große Fahrt bei der wir versuchen den ebenso großen wie bösen Yama-Oroshi nieder zu ringen und unseren Weggefährten Okudera-Han zu retten der wie ein Mentor zu uns war. Das wird nicht einfach, das Wetter sieht zwar für den Moment stabil aus aber das kann sich in den Bergen sehr schnell ändern. Jeder Besuch ist ein Risiko und auch ein Schneemobil ist kein Garant dafür das wir am Ende sicher sind oder schnell genug zurück in die Siedlung fliehen können. Aber heute wird es dann wohl so weit sein, wir stellen uns dem großen Schrecken der Berge. Ich frage mich ja wie viel die Menschen dem Bären einfach nur in die Pfoten gelegt haben und wie viel wirklich das Handeln eines Tieres war das sich seine Beute ganz genau angeschaut hat und daher weiß was zu tun ist. Vielleicht aus Erfahrung, vielleicht aus Zufall, aber ein wenig wird wohl mindestens die Hochstilisierung durch die Menschen sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #70
+
+* Titel: `Yakuza 5 - #70 - die große Jagd [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute auch mit Überlänge. Unsere Mission ist es erneut zu jagen und wahrscheinlich ein wenig Reich dabei zu werden. Das bedeutet aber auch das wir uns wieder in die Berge wagen müssen. Leider ist die Bedienung und das allgemeine Handlung der Jagd ein wenig zu sehr unscharf um uns eine echte Bedrohung zu bieten. Immerhin ist das System nicht unnötig unpraktisch. Ursprünglich ging ich ja davon aus das man nur die wenigen Gegenstände vom Berg nehmen kann die auch mit ins Inventar passen. Da man aber magisch einfach alles nach Hause teleportieren kann was zu viel ist spart man sich eine Menge Wege. Und das macht es eigentlich recht komfortable, ein wenig paradox ist das die Viecher die eigentlich die größte Bedrohung in den Bergen darstellen sollte am einfachsten zu beseitigen ist. Ich bin mir übrigens relativ sicher das auch Bären keine lauten Geräusch mögen und unter Umständen vor dem Ton einer Schrotflinte fliehen würden. Zum Zeitpunkt an dem ich das hier schreibe weiß ich übrigens gar nicht mehr warum ich überhaupt ursprünglich die Hügel ging, aber es war nicht um sich meiner Angst der Kälte oder Bären gegenüber zu stellen. Aber hey, am Ende sind wir reich, ich denke das ist etwas. Damit flieht es sich doch viel leichter vor dem Gesetz.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 

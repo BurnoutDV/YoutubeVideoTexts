@@ -2541,6 +2541,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
+##### #170
+
+* Titel: `Elden Ring - #170 - Maliketh, die schwarze Klinge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube das Maliketh eine große Nummer ist, leider habe ich absolut keine Ahnung wer das überhaupt sein soll weil ich entweder wieder einmal nicht aufgepasst habe oder die Information bisher sehr intransparent mitgeteilt wurde. Wie dem aber auch sei, der gute Maliketh hat irgendetwas das wir dringend brauchen um ein Sakrileg zu begehen. Allerdings glaube ich das es sehr darauf ankommt wie man die eigene Religion anfässt oder ob man überhaupt an das glaubt das die anderen Leute als Sakrileg definieren. Den großen Baum abzufackeln wird wohl allgemein von den Folgenden der Gnade als großes Ding angesehen aber niemand hat uns eigentlich jemals gefragt ob wir überhaupt mit dabei sind. Oder ob wir überhaupt dahinter steht, eigentlich wurde mit uns nur geredet und wir haben nie so richtig reagiert. Kann uns also am Ende keiner vorwerfen das wir die großen Prinzipien verraten haben oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 28, Aufnahme vom 04.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

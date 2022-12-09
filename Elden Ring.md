@@ -2556,12 +2556,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
 
-##### #Nummer
+##### #171
 
-* Titel: ``
+* Titel: `Elden Ring - #171 - Drachenfürst Placidusax [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt noch einige überraschend wichtige Persönlichkeiten im Keller des zerfallenen Farum Azula, ich würde sogar soweit gehen und behaupten das es sich bei dieser Person um einer DER Personen handelt. Kurzum, wir werden heute einen Drachen finden. Der Titel hat es ja schon ein wenig verraten, dagegen kann ich aber wenig tun, außer natürlich ich würde irgendwelche kryptischen Hinweise nutzen aber das mache ich heute einfach mal nicht. Vielleicht kommt ja noch irgendjemand bei mir vorbei und guckt sich das ganze Thema an. Der Weg zum Drachen führt übrigens mehr oder weniger zwingend an meinen besten Freunden den Vögeln vorbei und ich gebe zu das ich nicht beim ersten maximal erfolgreich bin, aber manchmal kann man sich ja auch irren und das falsche Geheimnis finden. Davon einmal abgesehen wüsste ich jetzt wirklich gerne was mit dem dritten Kopf von Placidusax passiert ist, offensichtlich hatte das Tier mal drei. Ob das etwas mit den drei bzw. zwei Fingern zu tun hat die an manchen Orten rumhängen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 28, Aufnahme vom 08.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```

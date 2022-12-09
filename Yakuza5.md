@@ -1015,6 +1015,24 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #71
+
+* Titel: `Yakuza 5 - #71 - nach Tsukimino [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gute Neuigkeiten allerseits, wir verlassen endlich den bärenverseuchten Wald von irgendwo bei den Bergen und fahren jetzt in die große Stadt. Ich bin übrigens immer wieder fasziniert wo überall Zivilisation existiert. Generell gibt es da ja ein paar Parameter die es zu bedenken gibt. Eine Agrargesellschaft kann so und so viele Menschen pro Fläche versorgen und erlaubt nur die Verdichtung die X-weit gehen kann. Dann kam die Industrialisierung und viele Menschen stürmten vom Land in die Städte weil das Land einfach nicht mehr die gleichen Möglichkeiten bot. Und weil die Arbeit mehr verdichtet in den neuen Fabriken war. Soweit so gut. Allerdings müsste man doch trotzdem erwarten das Städte nur an Orten entstehen die auch irgendeinen Zug haben. Tsukimino ist für den Moment für gar nichts bekannt, außer ihr Schneefest. Aber das ist ja wohl nicht warum die Stadt existiert oder? Wahrscheinlich ist es auch irgendwann einmal warm in Hokkeido, aber ich kann mir trotzdem nicht vorstellen das die Leute das Wetter so gut finden. Also warum gibt es die Stadt? 
+  
+  Okay, ich habe das mal eben nach gegoggelt, also, das "echte" Tsukimino heißt eigentlich Sapporo, das ist wesentlich aussprechbarer, und wir sind wohl im "Susukino" Bezirk. Die Mitte der Spielkarte sollte irgendwo hier liegen: 43°03'20.6"N 141°21'12.0"E Das Schneefestival gibt es auch in echt.
+  Es handelt sich um eine Stadt mit 1,9 Millionen Einwohner, durchaus beeindruckend eigentlich. Interessanterweise finde ich in Sachen Wirtschaft nur das die Stadt Touristen anzieht, ein paar Bierbrauer hat und ansonsten noch ein wenig IT hat. Im Nebensatz wird doch noch erwähnt das es sich um das Produktionszentrum der Region handelt in allen möglichen Waren. Ich gehe jetzt also einfach einmal davon aus das die Stadt einen echt günstigen Hafen hat und daher alle Industrie zu sich gezogen hat. Alternativ war es einfach nur Zufall und irgendein Bürgermeister hat in den ersten Tagen der Industrialisierung gute Entscheidungen für die Bedeutung der Stadt getroffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

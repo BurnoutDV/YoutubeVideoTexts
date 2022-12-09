@@ -135,6 +135,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #9
+
+* Titel: `Elex 2 - #9 - erzwungene Gefahrenlage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel klingt zwar so als hätte ich ihn mir ausgedacht aber er komtm genau so vom Spiel. Und mir fällt außerdem auf das ich vom ersten Teil quasi alles vergessen habe. Anscheinend hatten wir in diesem Teil einen Begleiter namens Falk der nominell zu den Templern gehört und gleichzeitig ein hochintelligenter Androide ist und damit den meisten gewöhnlichen Robotern weit überlegen ist. Wenn man sich mal so anschaut wie die restlichen Maschinen die die Fraktionen zur Verfügung haben so drauf sind muss man Falk als ein Wunderwerk der Technik erkennen. Es gibt bloß leider einen kleinen Fehler. Der gute Mann hat zwar das Erscheinungsbildes eines erwachsenen Mannes, aber leider hat er nur das Wissen aber nicht die emotionale Stabilität eines gealterten Lebewesens. Das ist irgendwie schlecht. Finde ich. Vor allen Dingen aber auch weil es uns dazu bringt uns in Gefahr zu begeben und am Ende sogar die Arbeit alleine zu machen, auch bekannt als "Viecher mit dem Jetpack tot cheesen".
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 01.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

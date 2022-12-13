@@ -1033,6 +1033,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #72
+
+* Titel: `Yakuza 5 - #72 - Weihnachtsmann der Gerechtigkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube ich weiß so grob wo die ganze Geschichte mit dem Weihnachtsmann her kommt. Aus einer anderen kommt auf jeden Fall der Nikolaus und irgendwie passt da auch noch bestimmt Knecht Ruprecht rein, der verhaut aber die Kinder und ist wohl nicht mehr so ganz modern. Oder ist der Nikolaus Knecht Ruprecht? Ich werde es nicht googlen. Spielt aber auch keine Rolle weil heute sind sowieso wir der große Schläger, unsere Opfer sind zwar ein wenig ältere Kinder aber wir können wohl sicher davon ausgehen das die Blagen absolut selber schuld daran sind das wir uns ihrer annehmen. Ein wenig fraglich ist aber dennoch wo unser lieber Aushilfsweihnachtsmann eigentlich die zweite Uniform her hat. Diese Nebenmission wirft auf jeden Fall ein paar interessante Fragen auf, das mag ich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #73
+
+* Titel: `Yakuza 5 - #73 - die Kraft des Guten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute habe ich mal ausnahmsweise die Episode nicht nach irgendeiner Quest benannt sondern danach das wir immer ein wenig planlos umherlaufen und dann aus Versehen Gutes für die Welt tun. In einer direkten und unmittelbaren Form ist ein Kerl wie Saejima ja eine Kraft die die Welt zum Besseren wenden kann. Er hat hohe moralische Ansprüche die er auch mit seinen Fäusten durch zu setzen vermag, gleichzeitig hat er in diesem Universum auch die Stärke tatsächlich dadurch etwas Besonderes zu sein. Das alles was er tut am Ende darauf hinaus läuft das er einer kriminellen Organisation hilft und dieser Peergroup seine ewige Treue geschworen hat macht die guten Taten dann in der größeren Perspektive aber wieder völlig sinnlos. Mal davon abgesehen das es sehr so aussieht als wäre die japanische Gesellschaft in mindestens dieser Spielwelt durch und durch korrupt. Und doch funktioniert das System trotzdem noch. Heute setzen wir uns also wieder ein wenig für die Welt ein, aber die Korruption geht trotzdem weiter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #74
+
+* Titel: `Yakuza 5 - #74 - Ideno der große Erfinder [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Früher, als ganz dolle damals, vor so langer Zeit, mochte ich Daniel Düsentrieb. Der Erfinder von Entenhausen. Aber auch schon damals machte ich mir Sorgen das man ja andauernd neue tolle Idee haben muss damit man Erfinder sein kann. Und wo sollen die dann alle her kommen? Ein wenig später wurde ich dann Ingenieur und theoretisch wohl auch Wissenschaftler. In dieser tollen Doppelaufgabe weiß ich das man eigentlich echt selten etwas Neues erfindet. In der Regel sieht es eher so aus das man Physik, Chemie oder Biologie erforscht und dann mit der Erkenntnis versucht etwas Anderes zu erschaffen. Das ist dann meistens der Übergang von Wissenschaft zu Ingenieurstum. Oft hat man auch ein spezifisches Problem und versucht dann an etwas Vorhandenen zu iterieren bis man etwas hat das komplett anders ist. Oder einfach nur das neue verbesserte Objekt. Heute zum Beispiel Taschenwärmer, eine Person namens Ideno hat sich nämlich gedacht das man hier noch mal nachfassen muss. Das Ergebnis ist in der Tat faszinierend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #75
+
+* Titel: `Yakuza 5 - #75 - Schneefestvorbereitung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab ja zwischenzeitlich recherchiert wo eigentlich dieser Ort liegt und deduziert das es sich um Sapporo handelt und wie auch die besten Lügen sowenig Unwahrheit wie möglich enthalten hat die beste Fiktion eine solide Grundlage in der Realität. Warum sich auch komplett neue Orte ausdenken wenn die Realität eine solide Grundlage für Alles bietet und man nur dort adaptieren muss wo es das Narrativ verlangt. Das echte Sapporo hat also auch ein Schneefest, tatsächlich ist der Ort sogar ziemlich bekannt dafür. Als Hauptstadt der gesamten Präfektur ist es aber eigentlich nicht überraschend das die Leute ein wenig mehr Geld in Kultur investieren. Initial dachte ich ja das Wintertourismus quasi die Haupteinnahmequelle für Hokkeido ist aber natürlich gibt es hier auch Bodenschätze und es ist ja auch nicht immer Winter. Jetzt ist es das aber und daher wird das Schneefest vorbereitet bzw. abgehalten und das muss natürlich auch beworben sein. Mir ist nur rätselhaft wie man den Schnee davon abhält oll zu werden, das muss ich noch recherchieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #76
+
+* Titel: `Yakuza 5 - #76 - die Feinschmeckerin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn jemand einen Gourmet erwähnt, einen Sternekoch oder halt einen Feinschmecker denke ich automatisch immer an einem Mann, meistens einen etwas Korpulenten, man hat da so ein Bild. Das die entsprechenden Personen auch Frauen sein können ist wohl die Kernaussage hinter gendergerechter Sprache. Ohne die Diskussion jetzt all zu zu vertiefen war das wirklich etwas das mir bewusst geworden ist als ich diese Quest benannt habe. Nebenbei bemekrt ist es auch paradox das man zwar Frauen eher in der Küche verortet aber sobald es zum Beruf wird hat man eher den dicken Chefkoch vor Augen. Wie dem aber auch sei, das richtige und leckerste Essen zu finden ist gar nicht so einfach. Erst unlängst sprach ich mit einem Kollegen der verzweifelt einen guten Inder in der Stadt sucht. Er probiert wohl seit Ewigkeiten alle durch und es ist einfach nichts Gutes bei. Das ist tragisch und anstrengend. Umso besser natürlich wenn man auf Empfehlungen reagiert, wenn es noch gute Tipps gibt umso besser abe eine vertraute Person die solide Ratschläge gibt ist nicht zu verachten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

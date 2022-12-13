@@ -2570,3 +2570,68 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrY
   Sitzung 28, Aufnahme vom 08.12.2022
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
   ```
+
+##### #172
+
+* Titel: `Elden Ring - #172 - persönliche Schicksale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schon bald werden wir uns nach Leyndell aufmachen und uns endlich dem Erdenbaum und alles was ihn vielleicht noch bewachen könnte stellen. Aber bevor das passiert müssen wir uns noch um ein paar kleine Schicksale kümmern. Wie wir ja bereits wissen gibt es noch unfertige Geschichten in der Welt da draußen. Daher machen wir uns heute auf dem Weg um zu schauen wie es mit Nepehli Loux, Kenneth Haight und unseren besten alten Freund von allen Welten, Patches eigentlich genau geht. Ich gebe zu das ich dafür ein wenig googlen musste, aber es kann ja auch nicht alles so einfach sein. Zumindest einiger der Schicksale sind in dieser Hinsicht nicht ganz so mies. Das ist doch schon einmal eine Erleichterung oder? Und danach kümmern wir uns dann aber wirklich um unser eigenes Schicksal, ich finde dafür wird es auch langsam Zeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 28, Aufnahme vom 08.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #173
+
+* Titel: `Elden Ring - #173 - Leyndell, Aschene Hauptstadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben es endlich geschafft. Leyndell ist abgebrannt, das hat man also davon wenn man seine Hauptstadt im Schatten eines gewaltigen Baumes errichtet. Ich glaube es wurde mir sogar erklärt warum wir die Rune des Todes dafür gebraucht haben, Ranni hat ja bereits mit einem Splitter dieser Macht irgendwie Erfolg gehabt und jetzt sind wir halt dran ebenso ein wenig Erfolg zu feiern. Was genau wir jetzt erreicht haben ist nicht so ganz klar aber je weiter wir vor ran kommen umso mehr sieht es danach aus das unsere Taten eher durch andere gelenkt werden und wir selbst nicht wirklich in der Lage sind überhaupt eine informierte Entscheidung über unsere Schritte zu fällen. Egal wohin wir gehen scheint die Propaganda der Gnade zu herrschen und Wahrheit ist nicht von Lüge zu trennen. Es gibt keine Referenz in den Zwischenlanden die uns einen moralische Nullpunkt erlaubt. Die einen sagen das wir ein gewaltiges Sakrileg begehen aber wiederum Andere meinen das es kein großes Ding ist. Eventuell war unsere Fingerjungfer ja eine Quelle der Wahrheit, aber wir haben sie leider als Zündstein unserer Ambitionen genutzt und sie steht uns nicht mehr zur Verfügung. Vielleicht wussten auch die Feuerriesen was zu tun war. Und eventuell war der uralte Erzdrache das was man eine moralische Instanz nennen kann. Immerhin können wir uns wohl damit trösten das es in ganz Leyndell auch vor dem Feuer nicht wirklich viele Bewohner gab.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 28, Aufnahme vom 08.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #174
+
+* Titel: `Elden Ring - #174 - das Innere des Erdenbaums [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist es endlich soweit, wir betreten die Dornen und schauen uns das Innere an. Nachdem wir beim letzten Mal schon Ofnir besiegt haben der anscheinend genauso befleckt war wie wir geht es jetzt an die Halbgötter. Irgendwie scheint es hier eine gewisse Menge Klassizismus zu geben, weil die Halbgötter und Götter wollen uns scheinbar nicht gönnen das wir Eldenfürst werden. Wir erinnern uns das schon olle Margith am Anfang vehement dagegen war und uns als Idiot bezeichnet hat. Dann kam Ofnir und hat quasi genau das Gleiche gesagt. Interessanterweise haben die Leute die wir besiegen konnten ganz andere Töne angesprochen. Malenia schien zum Beispiel ziemlich beeindruckt von unserer Leistung und meinte wir hätten alle Eigenschaft eines echte Fürsten. Godfrey sieht das übrigens ähnlich, allerdings glaubt er nicht das wir dann wirklich das Zeug dazu haben aber immerhin geht er davon aus das wir es theoretisch schaffen könnten wenn er nicht wäre. Aber er ist halt, und daher wird das dann wohl eher nichts. Soviel dazu also. Und dann gehen wir in den Baum und kriegen auf den Kopf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 28, Aufnahme vom 08.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+##### #175
+
+* Titel: `Elden Ring - #175 - Eldenbestie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird Zeit für das letzte große Gefecht. Wir stellen uns der Eldenbestie entgegen. Was das genau sein soll wissen wir so richtig erst am Ende und dann eigentlich auch nicht. Ich kann schon mal ein wenig vorweg nehmen, anscheinend handelt es sich um die Manifestation der Gnade. Quasi die Gestaltgewordene goldene Ordnung. Was das jetzt genau heißen soll vermag ich nicht zu berichten aber die Beschreibung der möglichen Gegenstände die wir am Ende erschaffen können lässt es so klingen als wäre der Eldenring irgendwie kaputt gegangen, dann wurde der Versuch unternommen daran etwas zu reparieren und das hat aber auch nicht geklappt. Die Eldenbestie hielt Radagon irgendwie gefangen oder zumindest in Stase, wenn man sich anschaut was das Vieh mit uns zwischendurch macht sieht es auch sehr ähnlich aus. Letztendlich bin ich genau so schlau wie zuvor und kann maximal einige Vermutungen anstellen. Ob jetzt das gewählte Ende für die normalen Leute unbedingt besser ist kann ich übrigens echt nicht sagen. Sind 1000 Jahre viel? Vermag ich auch nicht zu sagen, vielleicht vergeht viel Zeit für alle Leute ohne große Probleme. Die Zwischenlande erschienen bis her nicht wie ein Ort an dem Zeit irgendeine Rolle gespielt hat. Wichtig ist, mit dem Ende dieser Episode haben wir Elden Ring aber offiziell durchgespielt, da es noch 5 andere Enden gibt müsste ich jetzt eigentlich noch ein paar Mal ran aber ich fürchte das Spiel ist einfach viel zu lang um es mehrfach zu machen. Ernsthaft, irgendwie habe ich exakt gar keine Lust noch mal selber ran zu gehen, es war die meiste Zeit angenehm aber einige Abschnitte waren anstrengend und es zog sich halt wirklich lange. Das einzige was ich also versprechen kann ist den Koop Run.
+  
+  572 mal bin ich gestorben, das ist schon ganz ordentlich, und dabei bin ich doch eigentlich in meiner besten soulsbornering Form seit ewig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 29, Aufnahme vom 11.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMjblMlmJnVZ4sOZuvwrYu6
+  ```
+
+## Fazit
+

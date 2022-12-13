@@ -150,6 +150,91 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #10
+
+* Titel: `Elex 2 - #10 - Wandertag zum Fort [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich neige irgendwie dazu in Open World Spielen dazu irgendwo hin zu rennen. Das passiert erstaunlich oft. Ich meine, das ist auch irgendwie der Sinn von Open World oder? Tatsache ist aber das viele Spiele das sich eher so als Logo an die Brust geheftet haben obwohl sie eigentlich lieber eine Spielwelt hätten die man nach und nach freischalten kann. Meistens wird das dann aber sowieso dadurch gelöst das es irgendwelche Gegner gibt die man par tout nicht tot krieg und in den entsprechenden Dörfern die Aufträge alle einen Freigang in die Natur involvieren. Die Welt ist also nicht so wirklich frei und genauso ist es natürlich hier auch. Heute laufen wir zum Fort, das ist die ehemalige Basis der Outlaws die jetzt aber wohl ein wenig überwachsen ist. Wir erinnern uns das das eigentlich ein Bunker mitten in der Wüste gewesen war der unten eine Müllkippe besaß. Davon sehen wir nicht mehr viel diese Tage. Heute kommen wir aber auch nur grade so an, die Viecher die in der Nähe herumlaufen lassen es aber so aussehen als würden wir nicht besonders weit kommen wenn wir es hier wirklich versuchen würden. Immerhin schafft es Falk für mich die Banditen zu tanken die wir auf dem Weg dorthin töten, das ist eine gewisse Erleichterung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 1, Aufnahme vom 01.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #11
+
+* Titel: `Elex 2 - #11 - Rattenplage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt am Fort kommen aber gar nicht durch die Vordertür weil irgendwelche komischen Torwächter der Meinung sind das sie uns einfach so blockieren können. Die Tatsache das wir ein Jetpack besitzen lassen wir jetzt erst einmal außen vor. Da uns aber kein Einlass gewährt wird schauen wir uns also ein wenig in der Außenwelt um und sprechen mal mit den Leuten die im Schatten der Stadt arbeiten. Ob sie durch das große Tor dürfen ist uns nicht bekannt aber es spricht Einiges dafür das außer uns wirklich absolut jeder durch das Tor darf. Ich finde es ja auch ein wenig befremdlich das sich Jax gesamte Stärke durch seine Ausrüstung definiert und nicht etwa durch seine Fähigkeiten. Zumindest sein unwiderstehliches Charisma hätte doch erhalten bleiben sollen oder? Nur weil man ein paar Jahre als Einsiedler lebt heißt das ja noch lange nicht das man wieder alles vergessen hat. Wie dem aber auch sei, helfen wir doch erstmal jenen Arbeitern und schauen dann ob wir uns nicht irgendwo einen Gefallen abluchsen können. Oder wir schweben einfach ein paar Meter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 06.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #12
+
+* Titel: `Elex 2 - #12 - Ich steh hier, du stehst hier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als mir der lustige Torwächter von der Tür gesagt hat das ich nicht rein darf war ich natürlich absolut dazu angehalten trotzdem rein zu gehen. Und jetzt stehen wir hier. Ärgerlicherweise scheint jede einzelne Wache zu wissen wer sich in der Stadt aufhalten darf und wer nicht. Auch maximal interessant das ein Kerl alleine darüber entscheiden darf wer rein kommt und wir nicht und alle auch sich danach richten. Ob die Leute weiter oben wissen was für einen kleinen Tyrannen die sich da vor die Tür gestellt haben? Wie dem aber auch sei, wir müssen ja trotzdem rein und mit irgendwelchen Warlords sprechen die unserem zukünftigen Kriegsherren einen Gefallen schulden. Also gehen wir nicht zur Tür aber über die Mauer rein und fliegen mehrfach raus. Immerhin treffen wir auch eine gute Ansammlung an extrem zwielichtigen Charakteren die sich nicht so sehr dafür interessieren warum wir hier überhaupt sind. Ich bin mir allerdings nicht so sicher ob man wirklich ehemaligen Outlaws die quasi am Rande der Legalität operieren auch nur einen Pfennig als Startgeld geben möchte. Insbesondere wenn wir am Anfang selber nicht soviel Geld haben. Immerhin hat er aber eine gute Logik warum wir ihn vertrauen sollen. Quasi ein Schnabeltier-Reim. Übrigens stellt sich wirklich die Frage warum der Kerl hier drin ist aber wir nicht einmal durch den Haupteingang treten dürfen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 06.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #13
+
+* Titel: `Elex 2 - #13 - erste, kleine Schritte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder einmal bin ich mir nicht ganz sicher ob es sich um einen Questnamen oder um etwas handelt das ich mir selber ausgedacht habe. Tatsache ist aber das wir wirklich langsam warm in der Welt werden. Meine persönliche Aufgabe ist und bleibt es aber weiterhin so schnell wie möglich einen Exploit zu finden und absolut übermächtig zu werden. Wenn ich dafür 1000 Dolche schmieden muss dann tue ich das übrigens auch. Davon einmal abgesehen stehen wir aber leider noch ganz am Anfang und wagen uns heute dann ein wenig raus um unsere Bastion langsam wachsen zu lassen. Ich gehe einmal davon aus das der Ausbaustatus der Einrichtung darüber bestimmt wie weit wir im Spiel sind und ab einem bestimmten Zeitpunkt wird etwas passieren. Unsicher bin ich mir noch ob dieses physische Bauen einer Einrichtung ein gutes Erzählvehikel ist um eine Geschichte vorran zu bringen. Die Einführung und wie wir überhaupt in diese Situation gekommen sind war auf jeden Fall eher so mittel finde ich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 06.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #14
+
+* Titel: `Elex 2 - #14 - Teilen aus Nächstenliebe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen zurück zu den lustigen Experimenten die ein Androide betreiben muss weil sein Erbauer ihn anscheinend nur der Form nach fertiggestellt hat und die mentale Entwicklung an wichtigen Stellen ausließ. Wahrscheinlich wäre das alles gar nicht so ein großes Problem wenn man dann nicht erwarten würde das unser künstlicher Mensch mit echten Menschen interagieren soll. So rein theoretisch bin ich fast der Meinung das es besser gewesen wäre einen vorhandenen, geistig stabilen Menschen in einen künstlichen Körper zu verfrachten und damit das ganze Problem mit dem Piloten zu umgehen. Heute verteilen wir zum Beispiel irgendwelche Dinge an andere Leute weil unser hochintelligenter Blecheimer wissen möchte wie sich Nächstenliebe anfühlt. Ich dachte immer das der große Gewinn von Androiden ist das sie eben keine Gefühle haben. Andernfalls wäre es doch kaum sinnvoll menschliche aussehende Agenten zu konstruieren oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 06.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

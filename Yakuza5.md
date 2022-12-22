@@ -1108,6 +1108,145 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #77
+
+* Titel: `Yakuza 5 - #77 - Kiyotakas Rätsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute klingt von der Beschreibung alles ein wenig herrlicher als es dann am Ende und in der Praxis wirklich ist. Also, die Sachlage ist die das wir in ein geheimes Casino wollen um uns dort über irgendwelche Yakuza zu informieren. Ärgerlicherweise ist es leider so das seit Baba das letzte Mal dort war der Eintritt ein wenige erschwert wurde. Man kann nicht einfach mehr dem Barkeeper ein wenig Geld zuschieben und durch die Tür kommen. Stattdessen muss man sich jetzt durch eine lange Kette von Leuten durchfragen und gut genug beweisen das man wirklich rein will. Integraler Bestandteil der großen Mission ist ein Kerl namens Kiyotaka, der wohnt scheinbar auf der Straße und für das beneide ich ihn nicht. Allerdings würde ich behaupten das sein Leben durchaus ein paar positive Seiten hat wenn er einen solch wichtigen Teil für das lokale Verbrechen bearbeitet, in der Regel werden solche Dienste irgendwie vergütet und ich bin mir sicher das Geld kommt dem Mann an kalten Tagen sehr gelegen. Wir enden also mit einem Cliffhänger und Rätsel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 28.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #78
+
+* Titel: `Yakuza 5 - #78 - ambitionierter Kasinobesuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Faszination Glücksspiel ist irgendwie an mir vorbei gegangen. Genau wie Faszination Besäufnis bei Weihnachtsfeier. Eventuell sind das auch einfach nur Relikte der Vergangenheit als man noch richtige Männer und richtige Frauen und vor allen Dingen keinen Computerspiele hatte. Die Glücksspiele haben wir mittlerweile ganz gut digitalisiert und auch die Kasinos gibt es irgendwie in Form von Lootboxen. Allerdings existieren die physischen Orte weiter. Und doch kann ich nicht so richtig erkennen wo der Drang darin liegt sich absichtlich da rein zu werfen. Wenn ich ab und an mal am Rad drehen kann, ein wenig wie einmal im Jahr auf dem Jahrmarkt sehe ich da noch irgendwie Spaß darin. Aber wenn es darum geht das Ganze als eine Art Freizeitbeschäftigung zu sehen die sinnlos Geld verbrennt mit einer geringen Chance viel zu gewinnen? Die normale Ausrede ist ja das es eher um den Kitzel geht und das es ja immer einen großen Gewinn geben könnte, das Potenzial. Die Erwartung. Aber dann könnte ich genauso gut etwas Online bestellen und den Nervenkitzel genießen der da Lieferbote heißt. Quasi das Gleiche Ding aber es ist relativ sicher das ich am Ende sogar etwas habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 15.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #79
+
+* Titel: `Yakuza 5 - #79 - das Streichholzmädchen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist nicht das erste Mal das wir diese Geschichte erleben. Es geht um das Streichholzmädchen. Ich habe immer noch keinerlei Recherche veranstaltet um mehr zu wissen oder tiefere Aufklärung liefern zu können. Die Geschichte ist relativ einfach erzählt, das kleine Streichholzmädchen versucht an Heiligabend Streichhölzer zu verkaufen um irgendwie Geld für ihre hungerne Familie ran zu kriegen, dann stirbt es an der Kälte und wird dann von den Engeln in den Himmel getragen. Es sei den Gevatter Tod ist vorher mit Albert da um sie ins Warme zu bringen. Der Weihnachtsmann kann Leben schenken. Oder es kommt halt ein ex-Yakuza namens Taiga Saejima der sich darum kümmert das das gute Mädel eine warme Suppe kriegt und ein wenig Unterstützung beim Verkauf der Hölzchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 15.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #80
+
+* Titel: `Yakuza 5 - #80 - Himuras Vermächtnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir damals, vor so langer Zeit im Gefängnis gesessen haben da hatten wir ja nicht nur Baba in unserer Zelle sondern noch zwei andere Kerle. Einer davon hieß Himura, soweit wir wissen war er ein Cop in der Morddirektion der es mit der Dienstvorschrift nicht so genau nahm. Was wir so von seinen Fähigkeiten gesehen haben war er nicht völlig unfähig, besaß aber wohl die ein oder andere moralische Schwäche. Er erzählte uns auch von Sapporo und dem dortigen Vergnügungsbezirk, erst durch ihn haben wir überhaupt erfahren was die Stadt eigentlich wirklich zu bieten gehabt hat. Heute erfahren wir dann von Dritten was man über ihn noch so wissen kann, man kann nicht direkt sagen das wir seinen Namen reinwaschen oder sein Vermächtnis verbessern, aber immerhin haben wir jetzt ein vollständigeres Bild.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 15.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #81
+
+* Titel: `Yakuza 5 - #81 - Oshimas Vermächtnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Welch Zufall aber auch, heute erfahren wir dann auch welche Spuren die andere Person in unserer Zelle bei den Leuten hinterlassen hat. Wir erinnern uns, ein Dieb, der Beste soweit wir das wissen. Sein Name war und ist Oshima und man hat ihn nie gefasst. Eines seiner Merkmale war es wohl das er nur die Korrupten und Bösen bestohlen hat. Leider befinden sich diese Leute immer gerne in Position der Macht und diese Macht wissen sie auch zu benutzen wenn der Rechtsweg aus bestimmten Gründen nicht möglich ist. Mir stellt sich ein wenig die Frage wie das restliche Netzwerk von Oshima aussieht, nur weil man etwas gestohlen hat wird es ja nicht automatisch zu Geld. Dazu gehört ja doch Einiges. Wahrscheinlich auch einer der Gründe warum es neben einfacher Beschaffungskriminalität nicht mehr Verbrechen gibt die über einen direkten Nutzen hinaus gehen. Wenn ich morgen einen Baumarkt leerräume hätte ich absolut keine Ahnung was ich mit 200 Festmetenr Kiefer machen könnte. Mit den entsprechenden Kontakten wird man aber wohl selbst einen Mahagonischreibtisch los. Und nun erfahren wir welche anderen Leben ein Meisterdieb ohne Spuren noch berührt hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 15.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #82
+
+* Titel: `Yakuza 5 - #82 - Schnellballkampf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein ich habe absolut keine Erklärung wie wir immer in solche Situationen geraten aber das ist wohl einer dieser Dinge im Leben, plötzlich ist die Welt enorm absurd und keiner glaubt es am Ende. Tatsächlich ist es so das die Verfilmungen von manche Biografien sogar reduziert werden mussten weil das Leben der Menschen ein wenig unglaubwürdig wirkt und Kinozuschauer ohne weitere Quellen nicht in der Lage wäre die Geschichte als wahrheitsbasierend anzunehmen. Es gibt ein Zitat, wahrscheinlich von Mark Twain, das Realität sich an keine Regeln halten muss während Fiktion plausibel sein muss. Diese inhärente Limitierung macht die Grenzfälle der menschlichen Erfahrung ein wenig schwer zu bannen. Aber auch davon abgesehen ist es durchaus völlig plausibel als entlaufender Sträfling plötzlich bei einem professionellen Schneeballkampf mit zu machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 15.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #83
+
+* Titel: `Yakuza 5 - #83 - die Fusionsküche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte einmal auf Twitter für ungefähr fünf Minuten den schlechten Witz das es früher Fusionsküche hieß und jetzt halt kulturelle Aneignung. Die entsprechenden Hintergründe erkläre ich heute und wie es dazu kam aber mir fällt leider auf das die es eher in die Ecke des Humor von "ich bin 50 und das ist witzig" passt anstatt das es wirklich richtig humoristisch ist. Das ist ein wenig ärgerlich aber ich gehe halt wieder ins stille Kämmerchen und denke mir etwas Neues aus. Bestimmt. Bis dahin schauen wir uns doch einmal an was unser bester Freund Tatsuya aus den Erkenntnissen gezaubert hat die er bis jetzt hier eingesammelt hat, schließlich haben wir ihm ja auch großartig geholfen und sind dabei sogar ein Meistergourmet geworden. Und ich dachte immer man muss dafür erst tausende Mahlzeiten essen bis man die Nuancen heraus hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 15.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #7
+
+* Titel: `Elden Ring Coop - #7 - Gier nach Drachen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man einen neuen Run anfängt nimmt man sich in der Regel irgendetwas vor. Ich habe zum Beispiel irgendwann einmal angefangen Bloodborne erneut zu spielen weil ich unbedingt einen Magierun machen wollte, das ist in dem Spiel aber nicht so einfach und ich hatte mir natürlich vorher keinen Guide angeschaut. Naja, davon einmal aber abgesehen habe ich schon ein wenig Erfahrung wenn es um das Spielen von EldenSoulsBorne Spielen geht, man weiß schon grob was man erwarten kann und kann dann auch los legen. Also zur Sache, ich habe mir halt gedacht das ich dieses Mal auf Glauben spielen möchte weil ich doch relativ viele Dinge gesehen habe die damit ganz gut funktionieren könnten. Das ganze Gnade und goldene Ordnung Zeug scheint sich ja durchaus auch um Glaube zu drehen. Davon aber einmal abgesehen haben sich andere Leute gedacht das sie es sich gerne einmal mit Drachenmagie versuchen wollen. Und jetzt sind sie halt da und tun das auch. Da wird man dann aber auch ein wenig gierig wenn es um Drachenseelen geht, die alten Knauserköppe geben die ja auch nicht freiwillig her.
+  
+  Stichworte: Runenbär, Klangperlenjäger, Alexander, Hochstraßen-Höhle, Wächtergolem, Tibiasee, Greyl, Greyoll, Drachenkommunion
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 2, Aufnahme vom 27.10.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #8
+
+* Titel: `Elden Ring Coop - #8 - Halbmenschen, Giftpflanzen & Schuppenscheusal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin offensichtlich ein Genie wenn es darum geht, kurze, prägnante Titel zu finden die die Gesamtheit einer Stunde in einem einzigen Wort bzw. einem kurzen Satz zusammenzufassen. Aber seien wir ehrlich, das kann halt auch niemand. Eine Stunde ist in der Regel viel zu lang, wäre es möglich würde halt in der Stunde absolut nichts passieren und dann wäre es sogar noch langweiliger. Daher lieber diese Realität in der ich mich der Länge von Animes nähere. Falls du diese Referenz nicht verstehst weil es einfach nicht deine Bubble ist. Irgendwann in letzter Zeit haben Animes angefangen (also die japanischen Zeichentrickserien) besonders lange Titel zu nutzen weil sich das anscheinend besser verkauft, das Niveau haben wir noch nicht ganz erreicht, auch weil es auf mobilen Geräten ziemlich doof aussehen würde. Also, dann ist ja alles klar, wir tun heute was hier steht und damit hat sich das. Der Fortschritt ist nicht so groß wie ich das gerne hätte und ich bin ehrlich gesagt ein wenig enttäuscht das wir keine vernünftie Rüstung finden können. Das nervt mich echt ziemlich. 
+  
+  Stichwort: Irina, Drachenfeuer, Halbmenschen, Magierturm, Aussichtsturm, Giftpflanzen, Tunnel von Morne, Schuppenscheusal, Halbmenschenkönigin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 3, Aufnahme vom 03.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

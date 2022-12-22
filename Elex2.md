@@ -225,14 +225,124 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
-##### #Nummer
+##### #15
 
-* Titel: ``
+* Titel: `Elex 2 - #15 - Dragan und die Jungs [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Unser Spiel hat irgendwie damit angefangen das unser Haus geplättet wurde, dann haben wir unseren Sohn gesucht der sich anscheinend in der Obhut seiner Mutter befindet. Besagte Mutter ist Caja die die Vereinbarkeit von Beruf und Mutterschuft durchaus als machbar ansieht. Das realisiert sie größtenteils in dem sie Erziehungsrolle größtenteils auf Andere auslagert, also quasi genau das was Jax auch gemacht hat. Durchaus eine logische Entscheidung, Kindererziehung ist nicht für jeden Etwas und man kann da durchaus eine Menge falsch machen, warum also nicht Ressourcen zusammenlegen und das von einigen Leuten hauptberuflich machen lassen? Die logische Folge ist dann aber auch das Caja ihren beruflichen Zielen nachgeht. Eines dieser Ziele heißt Dragan, anscheinend ein sogenannter Mokron. Wir wissen absolut nichts über diese Gruppierung, nur das sie anscheinend die Berserker an einem nahen Weltenherz überfallen haben. Das will gebüßt werden, und deswegen sind wir jetzt hier.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 06.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #16
+
+* Titel: `Elex 2 - #16 - das Billy Idol Konzert [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gleich am Anfang haben wir ein Radio gehört das darüber gesprochen hat das es wohl ein Konzert ganz in der Nähe gibt. Natürlich gibt es auch einen Ort für Konzerte und natürlich gibt es in dieser quasi post-apokalyptischen Welt auch reisende Künstler. Die Fähigkeit gute Verstärker zu bauen ist wohl nie verloren gegangen. Und so stehen wir da und genießen heute ein Konzert. Es handelt sich natürlich um einen echten Künstler und das Lied existiert natürlich auch. Wenn ich mich recht entsinne ist es sogar eines der bekannteren Lieder. Und ich frage mich wirklich warum zur Hölle ist das überhaupt in dem Spiel? Es wirkt absolut künstlich, wir müssen nichts dafür tun. Wir gehen dahin und los geht die Musik. Keine Questreihe, einfach nur Musik ohne jede Arbeit. Und es erscheint auch noch absolut unnötig, welche Verbindung hat die Firma bitte mit dieser Musik? Was ist bitte die Referenz. Für mich sieht das aktuell so aus als hätte irgendein Manager Kickbacks dafür erhalten eine Band einzukaufen und das ist das Ergebnis. Auf jeden Fall absolut lieblos.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 06.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #17
+
+* Titel: `Elex 2 - #17 - Gemeinschaft am Scheideweg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie habe ich das Gefühl das es zwischen dem ersten und zweiten Teil eine kurze Erklärung verpasst habe. Vielleicht auch einen Kurzfilm oder sogar eine Spielfilmserie. Ich kann es nicht genau erklären, definitiv fehlt mir aber etwas. Oder es war nur das Ende von Elex 1 das bestimmte Endscreens hatte an die ich mich nicht erinnern kann. Wir wussten am Ende vom letzten Spiel bereits das die Religion der Kleriker auf falsche Annahmen basiert und wohl irgendwie künstlich erschaffen wurde. Das das ultimativ dazu führt das ordentlich Personal abfällt war nicht völlig überraschend und doch ist mir nicht ganz klar wo wir jetzt eigentlich stehen. Die Kleriker im Vorgänger hatten eine Menge alte Welt Technologie und auch einige Neuentwicklungen, größtenteils waren sie damals auf einem ähnlichen Stand wie die Albs. Auch wenn Details nicht erklärt wurden hatten sie dennoch Computer, Produktionsstraßen und Roboter, und jetzt ist das irgendwie alles weg. Ihre Basen sind immer noch in umgebaute Burgen, aber wie sie zu dem Punkt kamen an dem sie jetzt sind wurde nicht gesagt, zumindest nicht mir.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 2, Aufnahme vom 06.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #18
+
+* Titel: `Elex 2 - #18 - Herrin des Wissens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Kleriker sind tief gefallen, und das führt auch dazu das jetzt Personal genutzt wird das in der Vergangenheit nicht einmal die Mindeststandards für Kompetenz erfüllt hat. Oder vielleicht noch nicht lange genug dabei war, zum Beispiel Eva. Die Gute war schon immer ein wenig sehr an das Wissen der Kleriker interessiert kam allerdings als Quereinsteiger zu den Fanatikern. In letzter Zeit hat sich aber wohl Einiges geändert und jetzt stehen wir in der Situation in der wir uns halt befinden. Immerhin ist Eva nicht nutzlos, sie kann uns ja durchaus etwas beibringen und ihre Art und Weise ist auch ein wenig sympathisch. Als Begleiter wäre sie wohl nicht zu gebrauchen aber auf der anderen Seite will sie das vielleicht auch nicht. Erwähnenswert ist übrigens immer noch das Aussehen der Rüstungen die die Frauen bei den Klerikern tragen. Es sieht ein wenig so aus als trügen sie einen hautengen Jumpsuit aus einer lederartigen Stoffsubstanz und da drüber dann Hartschalen Unterwäsche. So richtig gemütlich schaut es nicht aus, aber es stellt wohl sicher das die richtigen Körperteile betont werden. Ein wenig seltsam ist das schon.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 13.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #19
+
+* Titel: `Elex 2 - #19 - Klerikerangebot [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und noch eine Episode bei der Gesellschaft die scheinbar ein echtes Nachwuchs und generell Personalproblem hat. Früher musste man quasi betteln um in die hohen Reihen der ehrwürdigen Kleriker aufgenommen zu werden und in der Suppenküche auch nur einen leeren Teller zu erhalten. Das hat sich wohl seit einiger Zeit geändert und jetzt sind wir bei Leuten die ernsthaft in Erwägung ziehen uns ohne großartige Gründe anzuwerben und damit mit einer seltenen Rüstung zu ködern. Das Ganze ist ein wenig seltsam, offensichtlich sind die Kleriker nicht mehr in der Lage mehr dieser Rüstung her zustellen und damit wohl auch nicht das gute Stück im Zweifel zu reparieren. Warum genau also sollten wir uns ein tragbares Artefakt schnappen das wir am Ende gar nicht wirklich und praktisch nutzen können. Oder das wäre meine Überlegung wenn in diesem Spiel es eine Überlegung wert wäre das Rüstungen kaputt geht wenn man sie zu hart berührt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 13.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #20
+
+* Titel: `Elex 2 - #20 - Spione im Land [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ausnahmsweise bin ich einmal nicht unglücklich darüber das ich ein wenig zu weit vor gelaufen bin und Dinge gesehen habe die ich eigentlich noch nicht so richtig hätte sehen sollen. Zumindest hat mir absolut niemand gesagt das ich die Kleriker suchen soll, die wohnen wohl auf irgendeiner alten Burg hier in der Nähe. Das habe ich ganz alleine hinbekommen. Hätten wir das nicht getan hätte die Quest die wir mit Caja heute machen noch viele weniger Kontext als sie es so schon hat. Die Berserker (immer noch ein dämlicher Name) sind scheinbar jetzt die dominierende Spezies hier in der Gegend und die Kleriker sind tief gefallen, gleichwohl stehen die beiden Fraktionen immer noch in Konkurrenz zu einander. Daher wäre es nicht ungewöhnlich wenn die eine Fraktion die andere ausspioniert. Jetzt waren wir aber bereits bei Beiden in der Basis, die Kleriker haben kaum die Mittel ihre eigenen Leute mit Uniformen aus zu statten und die Berserker treiben Handel. Warum also genau finden wir heute eine größere Anzahl an autonomen Drohnen die angeblich spionieren? Das ergibt irgendwie keinen Sinn oder? Caja glaubt das natürlich nicht und wir müssen noch mehr Beweise sammeln. Ärgerlicherweise habe ich ein wenig das Gefühl das ich für diese Gegner meine Skillpunkte durchaus falsch investiert habe. Mir mangelt es sehr an Fernkampffähigkeiten. Das nervt doch ein wenig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 13.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #21
+
+* Titel: `Elex 2 - #21 - Erik der Fuchs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neuer Begleiter, er nennt sich Fox und wir haben keine Ahnung wie er eigentlich richtig heißt und eventuell werden wir das auch nie erfahren. Die beste Möglichkeit irgendwo neu anzufangen ist auf jeden Fall einen neuen Namen anzunehmen und am besten irgendwo auf zu tauchen wo es absolut unwahrscheinlich ist das einen irgendjemand erkennt. Als Mann bietet es sich definitiv an auf Bart bzw. glattrasiert umzusteigen, was man alles als Frau tun kann könnte ich spontan nicht sagen aber ich denke mal das einen Frisur und Mode eine Menge bietet. Eventuell einfach mal einen guten Buzzcut ausprobieren? Ich nenne Fox aber einfach einmal Erik weil wir natürlich genau wissen wessen Stimme wir da hören, und das ist irgendwie etwas Schlechtes oder? Wenn man bei einer Stimme eine bestimmte Person vor Augen hat und dann ist diese Stimme aber nicht mehr diese Person, das verwirrt dann doch ein wenig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 13.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #22
+
+* Titel: `Elex 2 - #22 - Jagdausflug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir sagt echt viel das ich definitiv etwas Anderes hätte am Anfang tun sollen anstatt durch die Welt zu ziehen und wild Leute anzusprechen, aber hier sind wir nun einmal. Heute versuchen wir einen Kerl namens Fox der aber eigentlich Erik heißt zu beweisen was für ein harter Kerl wir sind. Wenn man sich den Jax aus dem ersten Teil vor Augen hält stimmt das sogar aber irgendwie haben wir einen großen Teil unser Kraft verloren. Wie genau das funktionieren soll kann ich mir übrigens echt nicht erklären weil eigentlich ist doch gar nicht viel passiert. Klar wir wurden von dem einen Vieh kurz gebissen aber seit dem haben wir doch die ein oder andere Verletzung erhalten und das war dann auch kein großes Problem. Wie dem aber auch sei, wir sind schwach, Fox ist minimal stärker und trotzdem erschaffen wir die Illusion das wir es voll drauf haben, und das machen wir mit Cheese, generell meine Lieblingswaffe wenn es darum geht ein Spiel nicht all zu lange zu strecken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 13.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
 ##### #Nummer
@@ -244,3 +354,4 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   ```markdown
   Hier
   ```
+

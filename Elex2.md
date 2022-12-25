@@ -345,6 +345,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #23
+
+* Titel: `Elex 2 - #23 - die Kunst des Levelns [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Leveln will auch gelernt sein, oder zumindest mit einer gewissen Taktik verfolgt werden. Ich bin mir allerdings ein wenig unsicher ob ich es heute nicht sogar falsch mache weil ich am Ende zwar ganz gut heraus komme aber leider immer noch exakt genauso schwach bin wie vorher. In Elex bzw. eigentlich allen Piranha Bytes Spielen gibt es immer exakt das gleiche System wie 2002, neben Skillpunkten gibt es auch Lernpunkte die künstlich beschränken wie viele Fähigkeiten wir am Ende wirklich lernen können. Skillpunkte brauchen wir aber um die Voraussetzungen für die Fähigkeiten zu erfüllen. Später ist das in der Regel kein Problem mehr, insbesondere weil die Skillpunkte irgendwann weniger wert werden (ein Umstand über dem das Interface eher nicht informiert). Es gibt allerdings auch die Möglichkeit mit Lernpunkten das Leveln selbst zu verbessern bzw. Skillpunkte zu erhalten. Das Ganze spielt sich dann ein wenig wie ein Kombodeck in verschiedenen Kartenspielen. Wir haben Ressourcen und müssen die nur in der richtigen Reihenfolge verwenden. Das tue ich heute auch, in der Hoffnung das Lernpunkte nicht am Ende die Ressource sind an die es mir mangelt. Obwohl auch ein wenig fragwürdig ist ob sich "100% mehr Exp" auf Bücher wirklich lohnt, ich würde Pi * Daumen abschätzen das eher nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 13.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #24
+
+* Titel: `Elex 2 - #24 - Carakis Scan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dadurch das unsere Karte uns nicht so richtig darüber aufklärt welche Region wo ist und wie die entsprechenden Regionen auch tatsächlich heißen ist für mich ein Menge Ratespiel involviert. Die Gegend in der wir unsere Basis haben heißt aber anscheinend Carakis, das ist auch ein Name den ich in der Vergangenheit schon einmal gehört habe. Eventuell ist es aber auch der gesamte Planet oder der Kontinent, so genau weiß man das ja einfach nicht. Wie dem aber auch sei, die Invasoren die eine echte Bedrohung darstellen scheinen sich langsam auszubreiten und ihre Fänge um das Land zu werfen. Wahrscheinlich möchte man absolut sicher gehen das es keinen realistischen Widerstand gibt und man kann von Fortunas Gnade reden das bisher unsere Bastion noch nicht gefunden wurde. Oder aber, das sie bereits gesehen wurde und nicht als Bedrohung wahrgenommen werden konnte aufgrund des absolut desolaten Zustandes der Einrichtung. Heute scannen wir aber zurück, ob der Verlust von Spähern dafür sorgt das man dieser Region besonders viel Aufmerksamkeit zuteil werden lässt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 20.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #25
+
+* Titel: `Elex 2 - #25 - Tomsontown Schnelldurchgang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, ich habe absolut keine Ahnung was es mit Tomsontown überhaupt auf sich hat. Keinerlei Lore über die Städte der alten Zivilisation. Ob es dort irgendetwas von Bedeutung gibt oder was es mit den Banditen dort auf sich hat. Generell und überhaupt ist es wohl schon ein Wunder das wir den Namen kennen. An der Stelle sei noch erwähnt das ich die Namensgebung von Piranha Bytes seit je her sehr seltsam finde. Schon im ersten Gothic hießen die großen Vögel "Scavenger", wer macht sowas? Das Ding war ein deutsches Open-World Spiel, warum irgendwelche englischen Namen hinein werfen? Das ist jetzt nicht einmal ein Sprachpuristen-Ding, es ist nur so das es extrem so wirkt als wollte man sich einen Coolness Faktor aus den englischen Namen holen, war dann aber nicht bereit den ganzen Weg zu gehen. Alles in Allem wirkt dieser seltsame Mix aus englischen und deutschen Namen extrem komisch. Warum heißt der Ort den wir heute betreten nicht Thomasstadt (auch schon ein seltsamer Name) oder irgendetwas wesentlich realistischeres, Grünstädt an der Weil oder so. Dann noch die Fraktionsnamen, die immer noch stumpf als Gilden bezeichnet werden. Das ist vielleicht ein kühles Wort, aber bei Gilde denke ich an Handwerker die den Zugang zum Markt aus Gatekeeping Gründen beschränken. Was übrigens nicht unbedingt schlecht ist, wenn man weiß das ein Gilden-Handwerker Qualitätsstandard XY hat und man für seine Gulden ordentliche Leistung bekommt, dann ist das durchaus positiv. Die alternative wäre ewiger Preisverfall und grade so gut-genug Arbeit. Volksgruppen sind aber keine Gilden, hinter den Berserkern steht ja auch eine ganze Kultur, eine Religion, eine Art zu Leben. Gruppierung wäre das richtige Wort gewesen, und selbst dann heißt man nicht Berserker, das ist ein Krieger im Kampfesrausch. Worte haben Bedeutung, Kommunikation funktioniert weil bestimmte Kombinationen aus Lauten eine vorher definierte Landschaft malen. Wenn man Worte einfach willkürlicher verwendet wird es nicht besser. Bei den englischen Worten fällt das übrigens nur nicht so auf, oder wie viele Hinterlassenschaften haben die Scavenger so geplündert? Die großen Vögel sehen mir ehrlich gesagt nicht aus wie Aasfresser. Bei den Namen dieser Instanz war ich dabei noch nicht einmal, ich sag nur "Skyands". Bitte was? Himmelsvolk. Invasoren. Ch'thun. Omnivore. All das wäre besser als "Skyands". Schade das ich nicht genügend Reichweite habe um jemals eine kohärente Antwort darauf zu erhalten warum man dachte das diese Namensschemen oder besser gesagt ihr Mangel, eine gute Idee waren. Vielleicht nur damit die Leute darüber reden? Virales Marketing hatte schon ganz andere Blüten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 20.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #26
+
+* Titel: `Elex 2 - #26 - Alb-Hinterlassenschaften [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen mittlerweile das die Kleriker sich irgendwie von den Albs haben vertreiben lassen. Eine Fraktion die übrigens immer noch sehr stark ist und nur seit dem Wegfall des Hybriden nicht mehr ganz so ambitioniert unterwegs ist. Aber anscheinend auch gleichzeitig ambitioniert genug um die große Festung der von Schisma erschütterten Kleriker Fraktion zu überfallen und alle Leute dort erfolgreich zu vertreiben. Mit dem Fall der Jünger von Calaan (ein wesentlich besserer Name?) starb aber auch eine weitere Techfraktion. Die Maschinen die sie noch haben haben sie halt noch, aber innerhalb kürzester Zeit wird die Hightech nicht mehr benutzbar sei, es sei den die Kleriker haben ihr Zeug aus irgendwelchen Gründen selbst erhaltend gebaut. Da die Technik der Albs aber sehr ähnlich aussieht vermute ich einmal das es sich eigentlich um Muster der alten Zivilisation handelt und die werden wohl in irgendeiner Art kapitalistische Maßstäbe gesetzt haben, das Zeug wird also eher keinen Fluff besitzen und einen gewaltigen Industriekomplex voraus setzen. Umso wichtiger ist es also jetzt die Hinterlassenschaften der Albs, und insbesondere ihre Maschinen zu finden um daraus einen Rest von Zivilisation zu extrahieren. Und um eventuell eine Bedrohung von dem Fort abzuwenden. Wäre ja nicht aus zu denken wenn unser Feind, die großartig benannten Skyands, die Technologie der anderen nutzen würde um uns subtil auszuspionieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 20.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -354,4 +414,3 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   ```markdown
   Hier
   ```
-

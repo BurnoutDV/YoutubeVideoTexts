@@ -1213,38 +1213,64 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
-##### #7
+##### #84
 
-* Titel: `Elden Ring Coop - #7 - Gier nach Drachen [Let's Play; ger; Blind]`
+* Titel: `Yakuza 5 - #84 - Daizo Kitakatas Entführung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Wenn man einen neuen Run anfängt nimmt man sich in der Regel irgendetwas vor. Ich habe zum Beispiel irgendwann einmal angefangen Bloodborne erneut zu spielen weil ich unbedingt einen Magierun machen wollte, das ist in dem Spiel aber nicht so einfach und ich hatte mir natürlich vorher keinen Guide angeschaut. Naja, davon einmal aber abgesehen habe ich schon ein wenig Erfahrung wenn es um das Spielen von EldenSoulsBorne Spielen geht, man weiß schon grob was man erwarten kann und kann dann auch los legen. Also zur Sache, ich habe mir halt gedacht das ich dieses Mal auf Glauben spielen möchte weil ich doch relativ viele Dinge gesehen habe die damit ganz gut funktionieren könnten. Das ganze Gnade und goldene Ordnung Zeug scheint sich ja durchaus auch um Glaube zu drehen. Davon aber einmal abgesehen haben sich andere Leute gedacht das sie es sich gerne einmal mit Drachenmagie versuchen wollen. Und jetzt sind sie halt da und tun das auch. Da wird man dann aber auch ein wenig gierig wenn es um Drachenseelen geht, die alten Knauserköppe geben die ja auch nicht freiwillig her.
-  
-  Stichworte: Runenbär, Klangperlenjäger, Alexander, Hochstraßen-Höhle, Wächtergolem, Tibiasee, Greyl, Greyoll, Drachenkommunion
+  Wie so oft wenn es um Verbrechen geht habe ich absolut keine Ahnung wie man sie begehen würde und wie man dann weiter macht. Heute im Fokus: Entführungen. Wenn es darum geht irgendwelche zufälligen Leute abzuholen sollte es einfach relativ einfach sein, in der Theorie. Die meisten Leute haben eine gewisse Routine, die klischeehaften Parkhäuser halte ich durchaus für einen guten Ansatz und wenn man nicht an einem bestimmten Zeitpunkt gebunden ist und sich beim Verfolgen nicht völlig doof anstellt sollte man ja wohl in der Lage sein die Person günstig zu erwischen. Sollte das Ziel ein Mann sein könnte es ein wenig schwieriger werden als bei einer Frau aber im Großen und Ganzen bedeutet das auch nur das man mehr Leute braucht. Betäubungsmittel oder andere stumpfe Gewalt würde ich allerdings ausschließen. Das setzt natürlich immer vorraus das die Person nicht einfach überzeugbar ist. Jemanden zu einem bestimmten Ort mit einer Falle zu locken könnte durchaus einfacher sein als ein dunkles Parkhaus. Von offener Straße in Lieferwagen zu zehren ist hingegen ein wenig schwierig in der Spätfolge. Und dann ist natürlich noch die Frage wie man weiter forfährt. Meistens will man ja Lösegeld, so eine Übergabe erscheint mir maximal schwierig zu sein.
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
-  Elden Ring am Dark Souls Dienstag
-  Sitzung 2, Aufnahme vom 27.10.2022
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 19.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
-##### #8
+##### #85
 
-* Titel: `Elden Ring Coop - #8 - Halbmenschen, Giftpflanzen & Schuppenscheusal [Let's Play; ger; Blind]`
+* Titel: `Yakuza 5 - #85 - Klärungsgespräch [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Ich bin offensichtlich ein Genie wenn es darum geht, kurze, prägnante Titel zu finden die die Gesamtheit einer Stunde in einem einzigen Wort bzw. einem kurzen Satz zusammenzufassen. Aber seien wir ehrlich, das kann halt auch niemand. Eine Stunde ist in der Regel viel zu lang, wäre es möglich würde halt in der Stunde absolut nichts passieren und dann wäre es sogar noch langweiliger. Daher lieber diese Realität in der ich mich der Länge von Animes nähere. Falls du diese Referenz nicht verstehst weil es einfach nicht deine Bubble ist. Irgendwann in letzter Zeit haben Animes angefangen (also die japanischen Zeichentrickserien) besonders lange Titel zu nutzen weil sich das anscheinend besser verkauft, das Niveau haben wir noch nicht ganz erreicht, auch weil es auf mobilen Geräten ziemlich doof aussehen würde. Also, dann ist ja alles klar, wir tun heute was hier steht und damit hat sich das. Der Fortschritt ist nicht so groß wie ich das gerne hätte und ich bin ehrlich gesagt ein wenig enttäuscht das wir keine vernünftie Rüstung finden können. Das nervt mich echt ziemlich. 
-  
-  Stichwort: Irina, Drachenfeuer, Halbmenschen, Magierturm, Aussichtsturm, Giftpflanzen, Tunnel von Morne, Schuppenscheusal, Halbmenschenkönigin.
+  Ich bin ein großer Fan davon Dinge auszusprechen. Natürlich immer leichter gesagt als getan. Quasi immer sind jede Menge Gefühle involviert und nüchtern über etwas zu sprechen ist gar nicht so einfach wenn die Erinnerungen wieder hochkochen und man sich zu emotionalen Antworten hinreissen lässt. Der Saejima Ansatz involviert eine Menge Muskelkraft und könnte unter Umständen sogar ein wenig besser sein als das was ich vorschlage. Allerdings gibt es auch hier klare Grenzen. Nicht jeder ist dazu bereit mit den Fäusten zu sprechen, und erst recht nicht jeder andere ist nach einer solchen Unterhaltung bereit noch einmal positiv auf die Sache zurück zu blicken. Heute gibt es eine Menge Klärungsbedarf, stellt sich doch glatt heraus das die Dinge doch ein wenig anders sind als gedacht. Die große Frage ist nur ob wir überhaupt in der Lage waren das Skript zu brechen oder immer noch strikt nach den Fäden eines Puppenspielers handeln und jede Freiheit nur eine Illusion darstellt.
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
-  Elden Ring am Dark Souls Dienstag
-  Sitzung 3, Aufnahme vom 03.11.2022
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 19.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #86
+
+* Titel: `Yakuza 5 - #86 - die graue Eminenz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Begriff der grauen Eminenz ist etwas das anscheinend nicht ganz so allgemein gültig ist und auch nicht überall zu finden ist. Eine Eminenz ist ein hoher kirchlicher Würdenträger und ich würde vermuten das der Begriff auch ursprünglich irgendwo aus der Richtung kommt. Technisch gesehen handelt es sich auch eher um einen Titel als eine konkrete Jobbezeichnung. Wenn die hohe Würdigkeit grau ist handelt es sich um jemanden der in den Schatten agiert, eine Person die alle die Fäden zieht ohne das man es merkt. Oft zeugt sich das daran das man sieht das Dinge auffällig zufällig geschehen. Wenn es gut gemacht ist sieht man nicht einmal das, nur mit intensiver retrospektiver Betrachtung von Geschehnissen kann man zumindest einen Verdacht entwickeln. Sollte man versuchen die Eminenz in Flagrante zu erwischen sind die Chancen eher gering. Heute erfahren wir immerhin im laufenden Prozess das es eine solche Eminenz gibt, aber so richtig klar wird nicht ob wir jetzt die Pläne unterbrochen haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 19.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #87
+
+* Titel: `Yakuza 5 - #87 - Karriereentscheidungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mein eigener Lebenstil lässt mich nicht unbedingt reich an Erfahrung sein. Das liegt aber auch daran das ich nie irgendwie gescoutet wurde, ich glaube das passiert Männern auch einfach weniger, besonders nicht in Deutschland wo es keine große Idol Kultur gibt. Aber auch später war es für mich nie so eine richtige Entscheidung hart Karriere zu machen. Alles in Allem scheint es das nicht wert zu sein, Gesundheit und Jugend scheint eine Ressource zu sein die man einfach nicht zu bekommt. Alles was ich also damals und irgendwie auch heute davon investiert hätte wäre unwiederbringlich weg und der Nutzen wäre außerordentlich zweifelhaft gewesen. Letztendlich scheint man mit der ganzen Hussle-Kultur vor allen Dingen den Leuten zu helfen die weit oben sitzen und Rekordprofite einfahren. Es sieht beinahe so aus als würden Teile der Industrie (sowohl die Medien als auch die technischen Richtungen) darauf vertrauen das es junge Leute gibt die sich für wenig Geld wesentlich länger als acht Stunden den Körper vernichten. Im Falle von Tanz und Gesang ist das aber irgendwie auch logisch, wenn man X Stunden Training braucht um gut zu sein und die Kombination aus Alter und Talent die Formel ist die es braucht ist es umso logischer das man die Zeit intensiv nutzen muss. Und doch, die Art und Weise wie wir sie heute sehen erscheint mit aus meinen westlichen Augen sehr abstoßend. Ich werde wohl nach Abschluss des Spiels ein wenig recherchieren müssen ob es Stimme gibt die aus dem asiatischen Raum kommen und wie sie diesen Arc bewerten. Es wirkt alles sehr manipulativ und die Erfolgswahrscheinlichkeit aus der Vergangenheitssicht erscheint mir doch ein wenig schlecht. Kiryu hat sich hier wohl in eine Situation manövrieren lassen die seine Art zu Leben stark überfordert und ich weiß nicht so recht wie er sich da hätte raus reden sollen. Davon einmal abgesehen hoffe ich wirklich sehr das dieser Abschnitt mit seinen Tanzkämpfen nicht zu lang ist, das alles könnte schnell ermüdend werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 19.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
 ##### #Nummer

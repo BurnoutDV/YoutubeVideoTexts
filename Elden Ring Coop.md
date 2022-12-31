@@ -219,6 +219,91 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
+##### #13
+
+* Titel: `Elden Ring Coop - #13 - Godrick der Verpflanzte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Fürsten müssen sterben damit wir leben können. Oder so, eigentlich ist überhaupt nicht so richtig klar was wir eigentlich überhaupt treiben. Das ist etwas das mich an Elden Ring immer ein wenig verwirrt hat. Auch jetzt beim zweiten Mal ist mir noch nicht so ganz klar warum genau Godrick eigentlich sterben muss. Klar, er nervt, dropt wichtige Dinge und seine Fürstenrune wird uns noch in der ein oder anderen Situation ziemlich nützlich sein. Davon aber abgesehen haben wir nicht wirklich eine Verwendung für seinen Tod. An sich könnten wir es auch zum Eldenbaum ohne seine Hilfe schaffen, oder sein Ableben. Aber wahrscheinlich ist es die alte Frage des Machtwechsels, wenn man einen klaren Schnitt haben will muss man dafür sorgen das vom alten System nichts mehr übrig bleibt. Wir kämpfen uns heute also durch die diversen Kammern, der Küche, dem Speisesaal und dann letztendlichen zum Thronhof um dem Verpflanzten gut aufs Fressbrett zu geben. Außerdem treffen wir noch einen freundlichen Magier namens Rogier und erkunden die örtliche Kelleretage, alles sehr spannend. Ich glaube übrigens nicht das wir moralische Bedenken ob der ganzen Verpflanzung haben.
+  
+  Stichworte: Sturmschleier, Innenhof, Kammer an Aufzugsseite, Küche, Speisesaal, Rogier, Godrick, Untergrund, Baumdämon, Götterbrücke, Sturmhügel
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 4, Aufnahme vom 10.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #14
+
+* Titel: `Elden Ring Coop - #14 - Liurnia das Seenland [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Godrick tot, Sturmfeste geplündert, Rune aktiviert, höchste Zeit weiter zu ziehen. Nächster Stop ist dann übrigens das Seenland Liurnia, auch bekannt als Mecklemburg-Vorpommern, viele Seen (eigentlich ein Großer) und eine Menge nervige Dinge, zum Glück aber keine Mücken. Das ist übrigens etwas über das ich echt dankbar bin. Man hat zwar jede Menge Giftnebel Dinge, Pflanzen mit Gift, komische Glockentypen und sogar einen veritablen Giftsee, aber was man nicht hat sind größere Schwärme an Mücken. Und kleine Ureinwohner die mit ihren Flammenatem unfassbar viel Schaden machen (das ist eine Diablo 2 Referenz). Alles in Allem ist es wohl eher ein Flachwassergebiet als ein richtiger, nerviger Sumpf. Wir reisen heute auch ein wenig vor um eventuell vielleicht schon einmal ein paar Waffen in Besitz zu bringen. Das bedeutet auch sich auch durch einige stärkere Gegner zu schlagen aber das hat uns ja noch nie aufgehalten oder? Also nutzen wir die Möglichkeiten der offenen Welt und reiten nach vor, die große Akademie einst-weil ignoriert.
+  
+  Stichworte: Tafel der Gnade, Fingerleser, Liurnia, Iji, Caria Anwesen, Siegelgefängnis der Niedertracht, Adan, Kristallhöhle am See, Bluthundritter
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 4, Aufnahme vom 10.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #15
+
+* Titel: `Elden Ring Coop - #15 - Liurnia bei Nacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Etwas das ich bei meinem ersten Durchlauf komplett ignoriert habe ist die Existenz von Nachtbossen. So richtig zufällig spawnen die ja nicht, es ist ja auch auch im Namen. Es handelt sich schließlich um einen nächtlichen Chefgegner, und nicht um einen bei Tageslicht herumspringenden Strolch. Und ich war halt nie Nachts unterwegs, da sieht man weniger und man kann sich gar nicht so richtig im Glanz der Sonne sehen. Was bringt es auch eine Rüstung zu polieren wenn man dann nicht gut zu sehen ist. Es stellt sich aber doch glatt heraus das ich dadurch eine Menge verpasst habe. Neben Liurnia besuchen wir heute außerdem noch ein Grab und gehen dort in ehrwürdiger Ehrfurcht gegen einen finsteren Dämonen vor. Oder zumindest glaube ich das, vielleicht sind die Geschwüre ja auch etwas Gutes. Außerdem finden wir noch den Krabbenkocher, der ist mir ehrlich gesagt komplett entgangen beim ersten Mal, aber ich hab auch die dazugehörige Quest nicht gemacht. Und dann lernen wir noch den Schrecken der Seen kennen, die Scharfschützenlanguste.
+  
+  Stichworte: Randvolksheldengrab, Todesvogel, Liurnia, Nacht, Baumgeist mit Geschwüren, Krabbenkocherhütte, Sniper, Rosenkirche, Templerviertel, Avatar
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 4, Aufnahme vom 10.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #16
+
+* Titel: `Elden Ring Coop - #16 - die Schlabbe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich vermeide es in der Regel Episoden noch irgendwelchen Inside-Jokes zu benennen, fairerweise muss ich auch sagen das ich die meisten vergesse. So kleiner "Insider" sind auch eher das Privileg von engen Freundeskreisen oder wirklich großen Mediengrößen, dann sind es zwar keine kleinen Witze mehr sondern eher "geheime" Erkennungsmerkmale in der Fanschaft aber das Prinzip bleibt bestehen. Also erkläre ich das ganze Ding einmal richtig langweilig: Schon Dark Souls 3 hatte große Krabben in verschiedenen Geschmacksrichtungen, irgendjemand im Entwicklungsdepartment hat offensichtlich ein Ding für die Teile. In Elden Ring hat sich das sogar ein wenig weiterentwickelt. Die Krabben sehen meistens immer noch gleich aus aber manche von ihnen haben ein leicht anderes Aussehen das eine zusätzliche Fähigkeit indiziet. Statt dem normalen Wassernebel können diese Viecher dann entweder einen Todesnebel oder auch einen Schlafnebel. Respektiv handelt es sich dann um eine Tabbe oder halt Schlabbe. Heute treffen wir die Schlabbe. Die kann sonst nichts, außer Trinasatem ausstoßen und uns damit in den Schlaf wiegen. Und hey, außerdem treffen wir heute ein paar sehr tote Albinaurics, Lantenna und Landschaften. Und die ersten Probleme mit den NPC Quests werden Gewahr. Sehr schade eigentlich.
+  
+  Stichworte: Verpflanzte, schöne Insel, Patchesproblem, Liurnia, Giftsee, Schlabbe, Kistrallianer, Dorf der Albinaurics, Maltöter, Lantenna
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 5, Aufnahme vom 24.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #17
+
+* Titel: `Elden Ring Coop - #17 - Torstadt der Akademie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir gehen natürlich auf keinen Fall heute schon in die Akademie, dafür gibt es noch viel zu viel Liurnia zu erkunden. Daher reiten wir heute nur sehr sehr gründlich durch die Torstadt und wühlen durch die Ruinen um auch die letzte Rune auf zutreiben. Wir finden auch einen Kerl namens Diallos der immer noch seine Kammerzofe Lanya gesucht hat, immerhin hat er sie mittlerweile gefunden. Wir haben allerdings auch die ein oder andere Sache aufgetrieben, zum Beispiel Reinfäule-Ritter, mit denen habe ich eigentlich viel später gerechnet aber so wie es aussieht kann man in einem Open World Spiel doch noch ein paar neue Sachen finden. Mir ist übrigens nicht klar warum die Torstadt eigentlich überhaupt so aussieht, klar ist Raya Lucaria selbst ein wenig ruiniert aus, aber die Gegend herum sollte nicht so kaputt sein oder?
+  
+  Stichworte: Torstadt der Akademie, Lanya, Diallos, Kristalltunnel, Sprungrätsel, Kristallianer, Ensha, Todesritenvogel, Stillwasserhöhle, Reinfäule-Ritter 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 5, Aufnahme vom 24.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

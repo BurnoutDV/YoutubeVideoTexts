@@ -405,6 +405,46 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #27
+
+* Titel: `Elex 2 - #27 - Spähtruppen des Feindes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die sogenannten Skyands kommen aus dem Himmel, deswegen heißen sie ja so wie sie heißen. Man möchte daher annehmen das sie die beste Aufklärung haben die man sich nur vorstellen kann. Ich hab ehrlich gesagt schon wieder das meiste vom Elex Worldbuilding vergessen aber es gibt da diesen Radiomoderator der immer behauptet das er aus dem Orbit sendet, vielleicht stimmt das. Wenn das wirklich so ist gibt es zumindest irgendwelche Infrastruktur im Weltraum bzw. welche dorthin. Ob diese irgendeine militärische Qualität hat vermag ich nicht zu sagen. Überwachungssatelliten sind auch nicht die Wunderwaffe der Spionage nach der es vielleicht klingt. Es gibt Physik die im Wege steht, die Wellenlänge des Lichts, atmosphärische Verzerrung durch die Luft selbst und Beschränkungen die größtenteils mit der verwendeten Linsengröße zu tun haben. Kurzum, nur weil man vom Weltraum aus Augen hat heißt das nicht das man alles sieht. Aber das ist auch gar nicht notwendig, außer den Albs dürfte niemand mehr funktionierende Flugzeuge haben, der Luftraum sollte also frei sein. Abkürzend stelle ich also fest das es echt nicht viele Gründe für Bodentruppen zum Erkunden gibt, eventuell einige Spezialisten die Einrichtungen vor Ort in Betrieb nehmen aber im Gesamtbild erscheint mir ein Bombardement vom Orbit die einfachste Möglichkeit für eine weltraumfahrende Zivilisation eine bodengebundene Spezies zu erobern. Eventuell wurde aber bereits das als unnötig entschieden und man ist direkt zum Ausbeuten der natürlichen Ressourcen übergegangen. So oder so bin ich extrem unsicher ob es sich wirklich um Späher der Feinde handelt und nicht nur schwer bewaffneten Spaziergängern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 20.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #28
+
+* Titel: `Elex 2 - #28 - Verräter unter uns [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist kaum zu glauben, auf der eine Seite wird der Kern der Menschheit durch Aliens bedroht auf der anderen Seite haben wir scheinbar untreue Element in unseren Reihen. Es ist kaum zu glauben das in einer solchen Situation jemand an sich selbst denkt, und mit kaum meine ich absolut. Das setzt natürlich großes Vertrauen voraus. Chaos ist eine gute Möglichkeit einmal mehr richtig aufzusteigen, oder zumindest die richtigen Hebel in Bewegung zu setzen, dafür sollte man aber auch schon eine gewisse Position der Stärke in irgendeiner Hinsicht haben die man dann in neue Macht umwandeln kann. Also ja, mit Verrätern ist immer zu rechnen obwohl es in diesem Fall wohl nicht so ganz passend ist. Die Personen die hier in Frage kommen verkaufen uns ja nicht direkt sondern sind nur nicht vollkommen treu. Das ist zwar auch nicht der Höhepunkt der Ehrlichkeit aber weit von aktiven Verrat entfernt, und erst recht kein Hochverrat. Es stellt sich also die Frage ob die moralische Grundlage von Caja ein wenig beschädigt ist das sie ein wenig Profitgier direkt als Verrat benennt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 20.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1273,6 +1273,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #88
+
+* Titel: `Yakuza 5 - #88 - leere Drohungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Älter werden hat nicht viele Vorteile, ich würde sogar behaupten das es eigentlich überhaupt gar keine gibt. Schließlich zerfällt man langsam, das was die Leute in der Regel als Positiv ansehen ist nur ein Nebeneffekt, und doch ist es eben dieser Nebeneffekt den ich heute bei Haruka ein wenig  vermissen. Ob es das Leben in einem Waisenhaus oder das sie einfach zu jung war als die wirklich schlimmen Dinge geschahen, aber Haruka erscheint mir doch ein wenig Naiv zu sein. Andererseits hat sich Kiryu ebenso übertölpeln lassen in der letzten Episode. Es spricht wahrscheinlich für Kiryu das er seine Adoptivtochter vor all den Untiefen und den dunklen Seiten der Yakuza entfernt gehalten hat und ihre Unschuld zu einem gewissen Satz wohl intakt halten konnte. Auf der anderen Seite war es vielleicht ein wenig kurzsichtig zu hoffen das es nie wieder Probleme im Leben geben könnte und das man seine einzige Tochter nicht ein wenig besser vorbereitet in die Probleme schicken möchte.Namentlich, wenn einen Leute versuchen etwas zu drohen. Haruka ist anscheinend die einzige relevante Darstellerin für Dyna Chair records, würde es da nicht recht einfach sein ihre Drohungen zu entlarven. Auf eine bessere Verhandlungsposition auf zu steigen? Oder ist das alles nur Wunschdenken und die Agentur würde beim geringsten Zeichen von Widerstand abriegeln?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 19.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #89
+
+* Titel: `Yakuza 5 - #89 - Nachtspaziergang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin in einem Dorf groß geworden, technisch gesehen bin ich auch ein paar Mal umgezogen aber es war immer entweder eine Kleinstadt, ein Vor-Ort oder halt ein Dorf. Alles drei irgendwie die gleiche Art von Ort, kleine Zivilisationsansammlungen die Nachts wirklich leer sind. Natürlich hat man trotzdem Verwandschaft und irgendjemand von denen wohnt dann schon in einer großen Stadt. Ich kann Toyko und Berlin nicht direkt vergleichen, und Berlin war in meinem Fall die große Stadt. Verwandtschaft wohnte damals in Hellersdorf, das ist anscheinend nicht so der sicherste aller Orte wenn man ein bestimmtes Alter erreicht hat, aber damals als ich noch richtig jung war kamen mir die Blöcke von Berlin-Hellersdorf wie ein einziges Farbenmeer vor. Spannend, und wenn ich die Möglichkeit dazu hatte habe ich es mir auch nicht nehmen lassen ein wenig zu erkunden. Insofern kann ich der 16-jährigen Haruka wohl kaum verwehren auch ein wenig rum zu kommen, auch wenn es einige Ecken gibt die so aussehen als würde wir sie eher nicht als berühmtes Pop-Idol betreten. Ich frage mich übrigens auch wie genau das japanische Barkeep mit der Kontrolle des richtigen Alters nehmen. Offensichtlich ist unsere Heldin ziemlich groß, wenn sie mit genügend Selbstvertrauen in die Bar einreiten würde, würde man sie dann bedienen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 26.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #90
+
+* Titel: `Yakuza 5 - #90 - Kampf im Tanz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht warum alles immer so ein wenig kriegerisch sein muss, aber ich vermute mal das es das ist was Menschen überhaupt erfolgreich gemacht hat, die endlose Wettbewerbswilligkeit. Von der gratis Laien-Anthropologiestunde einmal abgesehen ist es natürlich das ludonarrativ das uns hier her treibt. Ich weiß nicht so ganz was die Kritiker zu den Tanzspielen gesagt haben aber ich würde einmal behaupten das es schon den Flow ein wenig bricht. Ich mag sie, für den Moment noch, an sich handelt es sich ja auch nur um die Minispiele die wir schon aus den Vorgängern kennen, dieses Mal als Storyspiel. Eventuell vielleicht aber auch weil der Hauptentwickler nur ungern sehen möchte wie Frauen sich prügeln. Die restliche Gewalt scheint soweit okay zu sein, aber Gewalt von Frauen, zumindest physische scheint keine Option zu sein. Kiryu hat wirklich einen hervorragenden Job darin gemacht Haruka von der Außenwelt ab zu schirmen. Immerhin zeigt sie uns eine recht weiche Seele. Und einen ziemlichen gemeinen Tanzstil mit dem sie gute Punkte machen kann um ihre eigenen Fähigkeiten zu verbessern. Laufen wir also durch die Stadt und tanzen die Asphalt zu Staub. (Ich bin mir relativ sicher das Asphalt nicht dazu neigt zu Staub zu zerfallen)
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 26.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #91
+
+* Titel: `Yakuza 5 - #91 - Straßenkampftanz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da draußen die Gegend ist nicht sicher, das liegt aber auch irgendwie daran das Haruka sich größtenteils in einem Vergnügungsbezirk herumtreibt, im krassen Gegensatz zu den wahrscheinlich viel häufigeren vorkommenden Wohnbezirken die über all woanders sind und auch wesentlich sicherer sind. Aber heute ist alles ein wenig anders, normalerweise werden wir alle fünf Meter von irgendwelchen verlaufenen Hosts oder Möchtegern-Schlägern aufgestöbert die anscheinend den ganzen Tag nichts besseres zu tun haben als im Krankenhaus zu liegen nachdem sie unweigerlich von uns dort hin befördert werden. Aber heute sieht der Fall ein wenig anders aus, wir fordern die Leute heraus die quasi schon auf uns warten. Schlimmer aber, manche von ihnen sind sich zu fein es überhaupt mit uns auf zu nehmen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 26.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #92
+
+* Titel: `Yakuza 5 - #92 - Händeschüttelereignis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die ganze Geschichte mit den Idols in Japan und in Korea ist mir eigentlich nur sehr am Rande bekannt. Das Meiste was man immer wieder so lässt geht auch eigentlich über K-Pop Idole, das liegt aber wohl auch daran das die koreanische Regierung meines Wissens sehr darum bemüht ist Kultur zu exportieren, wenn man den Kultursieg erreichen will erscheint das auch wie eine gute Idee zu sein. Verglichen mit den Ausgabe für Militär ist doch ein wenig Geld für ein paar Fake-Sänger quasi geschenkt. Da Idols aber eh nicht wirklich richtige Musiker sind (zumindest von allem was ich so gesehen habe) ist es ja dann auch relativ egal das sie keine Zeit damit verbringen Gitarre oder so zu üben. Stattdessen kann man zum Händeschütteln gehen, ich verstehe es zwar nicht so richtig aber meine aktuelle Theorie ist das man quasi Liebe im industriellen Maßstab verkauft, und dazu gehört auch ein wenig Körperkontakt. Daher laden wir all die Nerds, err, Fans ein, ordentlich die Flossen locker zu machen, das Ganze ist natürlich nicht umsonst, nur das Haruka leider keinen Cent dafür sieht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 26.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

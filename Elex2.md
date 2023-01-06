@@ -435,14 +435,154 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
-##### #Nummer
+##### #29
 
-* Titel: ``
+* Titel: `Elex 2 - #29 - Außendienst [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die Bennenung der verschiedenen Quests ergibt nicht besonders viel Sinn für mich. Die Heutige heißt übrigens "Außendienst". Das impliziert irgendwie das "Innendienst" ein Ding ist und wahrscheinlich gibt es durchaus Arbeiten die eine vornehmlich drinne stattfindene Tätigkeit involvieren, ich argumentiere aber hier gerne das die meisten Leute ihr ganzes Leben an der frischen Luft sind. Außer ein paar Verwalter und vielleicht Tränkepanscher gibt es eigentlich nicht all zu viel Potenzial für Arbeiten im Inneren. Daher ist es auch ein wenig befremdlich vom Außendienst zu sprechen wenn wir das tun was wir sowieso immer tun. Vielleicht wäre das Wort Exkursion ein wenig angemessener, wenn wir auf Reise gehen und die Landschaft anschauen und eventuelle eine paar Bösewichte zu Fall bringen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 20.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #30
+
+* Titel: `Elex 2 - #30 - Arbeit von Thorhild [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So rein theoretisch müssen wir wohl nur für eine Person Arbeit erledigen aber ich glaube das ich die Erfahrungspunkte noch gut gebrauchen kann, und da ich ja am Anfang ganz andere Dinge getan habe wird es wohl nicht die schlechteste Idee sein uns auch bei der Truppe der Berserker einzuschleimen. Ein wenig komisch ist aber schon das wir quasi sofort eine Fraktion finden und von den anderen noch nicht einmal die Basis gesehen haben. Technisch gesehen könnten wir wohl bei den Klerikern anheuern, aber die haben uns ja schon zu den Albs verwiesen, einfach weil sie überhaupt keine Uniformen mehr haben und selbst die repräsentativen Wachen am Tor geplünderte Rüstungen anderer Fraktionen tragen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 20.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #31
+
+* Titel: `Elex 2 - #31 - Scrappy, der Schrottvogel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen Scrappy bereits aus dem letzten Teil, es ist ein typischer Piranh Bytes Name aber ich verbinde absolut nichts mit dem Typen. Irgendein Schrotthändler der bei den Outlaws abhängt und den wir bestimmt irgendwie auch aufs Kreuz gelegt haben. Aber warum, wieso und viel wichtiger, wir genau, das vermag ich absolut nicht zu sagen. Immerhin erinnert er sich an uns und hat sogar eine positive Meinung. Ich weiß übrigens nicht genau was ein "Schrottvogel" ist, aber ein anderes Spiel hat einen Boss der Scrapbeak heißt und ein Schnabel ist ja irgendwie ein Vogelteil und daher ist der "Scrappy" in diesem Spiel offensichtlich ein Schrottvogel, warum also nicht auch unser netter Outlaw Dude in diesem Teil. An sich müsste das auch eine wichtige Aufgabe sein, die Aufbereitung von Schrott, die Ressourcen der Welt sollte für niedrige Technologien ja bereits ausgebeutet sein, altes Material einzuschmelzen also die einzige Quelle..naja, auf jeden Fall schickt uns Scrappy auch direkt los nach der nahegelegenden Eisenmine zu schauen..weil Baum.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 29.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #32
+
+* Titel: `Elex 2 - #32 - Zugang zum Fort [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich werde es wohl noch ein paar Mal sagen, aber es ist wirklich unfassbar wie sie immer und immer wieder die gleiche Formel wiederholen. Ich weiß nicht was man anders machen könnte aber dieses "du darfst nicht in die Stadt weil x" ist ein wenig komisch wenn man bedenkt das die Leute halt auch Handel treiben und dabei gibt es nicht einmal Gründe wie "du siehst zu arm aus" oder "wir sind im Krieg", nein, stattdessen heißt der Grund "dein Gesicht gefällt uns nicht". Was für einen Nachtclub vielleicht irgendwie okay sein könnte aber nicht für eine Stadt. Und dann ist da noch die Tatsache das es genau dieses exakte Motiv war das wir schon in einer Reihe von mittlerweile 7 Spielen hatten, wenn auch nicht in allen. Es langweilt ein wenig und kommt doch arg unkreativ vor oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 29.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #33
+
+* Titel: `Elex 2 - #33 - Flugreise zur Oberstadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In die Stadt zu kommen ist nicht unbedingt ein originelles Problem oder sogar ein Neues. Aber dann auch nicht in die Oberstadt gelassen zu werden ist gleichwohl kein Höhepunkt der Innovation, tatsächlich ist es wohl eher so als ob wir das alles so schon einmal gesehen haben. Immerhin hat man sich sogar im Vorgänger über diesen Umstand lustig gemacht nur um jetzt die gleiche Trophe doch noch einmal ab zu fahren, und so stehen wir hier. Bereit alles dafür zu tun um in die Oberstadt gelassen zu werden und dann eine Audienz beim mächtigen Herrscher Rat zu erhalten. Ich frage mich übrigens wirklich wie es dazu kommen konnte, Rat erscheint doch ein wenig sehr unlogisch als Vertrauensträger und man möchte doch meinne das die Berserker ein wenig Menschenkenntnis besitzen und sich nicht durch eine Ratte täuschen lassen. Aber hier sind wir. Wo wir aber auch sind ist im höchsten Punkt der Einrichtung, niemand hat anscheinend daran gedacht ein Flugschild ein zurichten. Fatale Fehler wenn wir ein Attentäter wären.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 29.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #34
+
+* Titel: `Elex 2 - #34 - Kindermysterien [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was man so wirklich braucht um Kindern eine gute Kindheit zu bieten ist nicht so richtig bekannt. Man hat wohl so eine ungefähre Ahnung aber in der Regel steht eine gute Kindheit ziemlich im Gegensatz zu den ambitionierten Zielen aller anderen Beteiligten Personen inklusive der Eltern. Daher machen wir das wohl einfach nicht, aber ich nehme stark an das eine gewisse lose Hand zum Ausleben von Kreativität ziemlich wichtig ist. Ideal wäre wahrscheinlich auch irgendeine hinterhältige Motivation um zufällige Erlebnisse gut zu steuern aber das klingt doch wieder ziemlich teuer also lass uns lieber das mit dem Frontalunterricht machen, das klingt dann doch ein wenig einfacher oder? Davon einmal abgesehen kann die ungebundene, referenzlose Fantasie von Kindern ziemlich interessante Blüten treiben, heute sind wir beispielsweise Gegenstand einer Ermittlung, und dabei haben wir wirklich niemanden umgebracht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 29.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #35
+
+* Titel: `Elex 2 - #35 - Scrappys Minenprobleme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neulich (vor drei Episoden) habe ich ja bereits ausgeführt warum es so wichtig ist die alten Ruinen nach allem was auch nur ansatzweise wertvoll ist zu durchsuchen. Ziemlich wahrscheinlich hat die letzte Zivilisation alle einfachen Minen ausgebeutet, Brennstoff, Rohmaterialien und seltene Erden werden kaum an der Oberfläche zu finden sein. Daher ist es essentiell den Schrott und die Überbleibsel von dem was einst war zusammen zu tragen und nach Qualität zu ordnen wenn man neue Dinge bauen möchte. Das fängt schon damit an das man qualitativ hochwertigen Stahl ja nicht komplett neu erschaffen muss sondern vorhandene Quellen anzapfen könnte. So gesehen ist es mit etwas Wissen wohl einfacher einen Prozess zu starten als komplett bei 0 anzufangen. Ich verstehe deswegen auch vollkommen warum Scrappy so wichtig ist..nur um dann daran erinnert zu werden das es offenbar in direkter Laufnähe zum örtlichen Lager eine Eisenmine gibt in der man quasi direkt an der Oberfläche Eisenbrocken findet. Seltsam ist aber das man hier überhaupt gräbt, wäre es nicht einfach große Gruben zu graben? Oder widerspricht das der Philosophie der Berserker?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 29.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #36
+
+* Titel: `Elex 2 - #36 - Ivans Proviant [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal bin ich vergesslich. Dann kommt es zu Situationen wie dieser hier: "Wer zur Hölle ist Ivan?" Außer einer der Namen die man sofort für eine ganze Nation sieht. Wie dem aber auch sei, der spezifische Ivan in diesem Fall ist ein Kerl namens Ivan der für die Mokrons arbeitet. Ich schreibe arbeiten weil ich in einigen Episoden einen Dude treffe der das Tun der Mokrons irgendwie als Firma beschreibt auch wenn niemand von den lebenden Menschen außer Adam sich überhaupt an Konstrukte wie Firmen erinnern sollte. Bisher zusammen gestückelt habe ich mir von den Nokrons nur das sie anscheinend in einer tiefen Höhle wohnen die wohl auch als Mine bekannt ist. Daher verkaufen sie Dinge wie Gasmasken und überfallen gelegentlich ihre Nachbarn. Die gesamte Kultur scheint ein wenig auf Zwang ausgerichtet zu sein, daher überrascht es auch das der Händler ganz alleine unterwegs ist. Immerhin ist ihm erlaubt einen Markstand zu haben, das ist schon echt großzügig von den Berserkern. Schade das man absolut nicht sehen kann das es so etwas wie regen Handel in der Region gibt. Alle was wir sehen ist eine Torwache die uns abzocken will und impliziert das nicht all zu viele Leute überhaupt in die Stadt kommen. Ob das die Berserker Vorstellung von Humor ist? Einen Händler einen Stand anbieten aber Kunden keine Möglichkeit bieten zu ihm zu kommen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 29.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #37
+
+* Titel: `Elex 2 - #37 - Thornhilds Werkzeuge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man die Welt rettet tut man das selten für noble Beweggründe wie das Vaterland oder der Hingabe zur Pflicht. Wenn man dann auf dem Friedhof steht und die Grabrede hält werden solche Dinge ganz gerne angeführt aber generell und überhaupt sorgen sich die meisten Menschen eher um ihre unmittelbare Familie oder Freunde. Warum genau ich mich jetzt also mit Thornhild beschäftige kann ich absolut nicht sagen, sie ist weder das ein noch das Andere. Eventuell bin ich aber einfach nur neugierig, weil ich sehen will wohin ihre Reise geht und was noch alles passieren wird. Weil das tut Elex 2 bis jetzt ganz gut, kleine Geschichten der Leute und Kulturen zu erzählen. Insgesamt scheint es bei den großen Dingen zu scheitern aber das steht ja noch nicht entgültig fest, vielleicht kommt der große Twist ja noch, man weiß ja nie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 29.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #38
+
+* Titel: `Elex 2 - #38 - Astrid und der Unhold [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe wieder etwas gefunden an dem ich rummeckern und kritisieren kann! Elex 2 macht es mir aber auch tatsächlich relativ einfach in dieser Hinsicht. Also, folgende Sachlage in dieser Episode. Absolut zufällig bin ich aus Versehen in eine Quest mit der anderen Torwache, Galdar, gestolpert bei der es darum geht irgendwelche Viecher zu töten. Ich habe keine Ahnung welche das waren aber die hatten bestimmt einen leicht anderen Namen und deswegen weiß man das sie zu einer Quest gehört haben. Während ich also rumlief tötete ich diese Viecher die offensichtlich eine schlimme Gefahr für das Fort darstellten. Da wir diese jetzt beseitigt haben gibt es eine neue Mission: ein Unhold hat sich zu nahe an das Fort heran getraut, die geschickten Berserker starben und dadurch hat das Vieh Blut geleckt und verweilt jetzt. Drei Meter von dem See an dem das Vieh haust wohnt Astrid deren Begleiter unlängst verstarb (Zusammenhang unbekannt, aber möglich). Astrid ist Öko-Jäger und bejagt nur soviel wie gebraucht wird, ob damit ihr eigenes Auskommen oder das der gesamten Gemeinschaft gemeint ist bleibt ebenso unklar. Aber das ist erst einmal ihre Ansage, wenn sie am Ende wegen Faulheit verbannt wird weil die Leute hungern ist sie daran selber schuld. Unhold sind jetzt aber mutantige Wesen die nur noch entfernt an das ursprüngliche Wesen erinnern das sie einst waren. Es handelt sich um grotesk verzerrte Experiment der Albs (glaube ich zumindest) die durch die Welt wandern und wahllos Mensch und Tier angreifen. Da Astrid persönlich aber noch kein Problem mit diesen Unhold hatte will sie selber nicht in Erscheinung treten. Das Ganze wird uns als großes moralisches Dilemma präsentiert. Ich habe die Situation natürlich schon wunderschön geframed aber im der Kern steht: Monster, eventuell intelligent, töten wahllos. Die Zivilisation die wir sehen ist bei Weitem noch nicht so weit um sich den Luxus von umherziehenden Monstern zu erlauben. Falsch verstandener Pazifismus sorgt hier also nur für mehr Leid. Daher sehe ich hier keine Dilemma sondern nur eine sture Person. Vom Writing her eher eine 2/10 Geschichte. Aber hey, wir dürfen in der Hütte ihres verstorbenen Partners schlafen (unklar ob dieser romantisch involviert war).
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 03.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
 ##### #Nummer

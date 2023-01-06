@@ -1348,6 +1348,111 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #93
+
+* Titel: `Yakuza 5 - #93 - Publikumsaquise [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Idol zu werden ist anscheinend harte Arbeit und definitiv nichts was von alleine oder ohne Hilfe passiert. Sogar ziemlich viel Hilfe, ich würde an der Stelle natürlich gerne die Massen an Fans anführen die das alles erst möglich machen und genau um die geht es heute auch. Aber nicht zu vergessen darf man auch die großen weiten Netzwerke die ordentlich davon profitieren wenn ein Idol richtig groß wird. All das Merch das man verkaufen kann, die gemieteten Auftritte und generell und überhaupt die kommerziellen Anwendungen. Mich wundert übrigens das man die Idols nicht wenigstens ein bisschen besser bezahlt und stattdessen wie Sklaven hält. Klar, eine gewisse finanzielle Abhängigkeit erscheint sehr klug zu sein, aber warum sie so tief runter halten? Hat jemand den absoluten Tiefstpunkt kalkuliert an dem man ein Idol grade so noch hält und dann aus Gier entschieden das man das tut damit an anderer Stelle die Profite richtig hoch gehen? Das erscheint mir alles so sehr falsch zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 26.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #94
+
+* Titel: `Yakuza 5 - #94 - T-Set, die Konkurrenz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man wird nicht einfach so im Vakuum Idol, es gibt immer noch andere. Und keine Agentur wäre wahrscheinlich so wahnsinnig all ihr Geld auf eine Karte zu setzen, das ist vielleicht auch der Grund warum man den einzelnen Idols so wenig zahlt, sie sind ersetzbar, austauschbar und es ist bestimmt ziemlich klug eine ganze Gruppe als Marke zu führen anstatt eine einzelne Person. Das macht es eigentlich umso seltsamer das Haruka quasi die Marke ist. Ihre Erscheinung, ihre Persönlichkeit ist das was Haruka ausmacht. Das ist doch ein wenig seltsam oder? Was ist wenn Haruka plötzlich entscheiden sollte ihren eigenen Weg zu gehen. Klar es gibt da verschiedene Verträge aber sollte sie nicht irgendwie in der Lage sein aus dieser Lage zu kommen. Und dann? Außer irgendwelche Verträge, welche Hebel hat Dyna Chair ihr gegenüber? Oder ist das wie bei Monarchien, sobald jemand aufmuckt verbünden sich alle und schlagen die Aufrührer in nie gekannter Kooperation nieder? Hat jemand versucht den Idol Markt zu demokratisieren? Wahrscheinlich nicht. T-Set ist auf jeden Fall unsere direkte Konkurrenz, von irgendwelchen Anderen erfahren wir nichts, aber wir sind ja auch schon im Finale. Das Set in diesem Fall besteht aus zwei Leuten, das ist auch nicht unbedingt eine Armee.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 26.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #95
+
+* Titel: `Yakuza 5 - #95 - Schönheitsgeheimnisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich würde ja gerne behaupten das Äußeres nicht besonders viel Bedeutung hat und hätte man ein hässliches Kind könnte man es durchaus versuchen das zu erklären, aber wir alle wisse das das eine Lüge ist. Aussehen ist einfach alles. Studien [Quelle benötigt] zeigen das hübsche Menschen es einfacher bei Vorstellungsgesprächen haben, generell von ihren Mitmenschen als schlauer und kompetenter wahrgenommen werden obwohl sie das Gleiche leisten wie all die Anderen. Um als hässlicher Mensch durch zu kommen muss man schon sehr viel besser sein. Schönheit kann natürlich auch ein Fluch sein, wenn eine Gesellschaft ein wenig weniger freiheitlich entwickelt ist kann es durchaus sein das sich nicht wohlmeinende Leute sich die Schönheit einfach nehmen. Oder ausnutzen. Insbesondere als junges Mädchen muss man da wohl ziemlich aufpassen, auch interessant wird es aber auch wenn die Jugend langsam schwindet. Mit 16 muss sich Haruka aber eigentlich keine Sorgen machen. Und doch, heute wird uns gesagt das sie schon ziemlich gut aussieht und noch einmal eine Schippe drauf werfen kann, damit erreicht sie dann wohl ein Aussehen das für viele Menschen selbst mit Hilfsmitteln unerreichbar ist, das wieder rum ist ziemlich sinister und traurig für die Gesellschaft als Ganzes.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 26.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #96
+
+* Titel: `Yakuza 5 - #96 - Straßen des Tanzes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich muss damit aufhören mich mit irgendwelchen Leuten auf der Straße mit Tanzkämpfen zu duellieren, weil das dauert ewig lange und mir gehen langsam aber sicher die guten Namen aus. Um es kurz zu machen, in diese Aufnahme steige ich mit einem größeren Host (auf Twitch) rein der mich dazu gezwungen hat ein wenig schneller zu starten als ich das gewollt hätte. Leider machen wir heute nur Tanzkämpfe und sonst nichts über das ich mich aufregen könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 02.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #97
+
+* Titel: `Yakuza 5 - #97 - der Profi-Ratgeber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gestehe! Ich habe in meinem Leben schon Ratgeber gekauft. Vor gar nicht so langer Zeit, es ist ein Buch bei dem es darum geht weniger faul zu sein und sich mehr auf Aufgaben zu konzentrieren. Soweit ich das Ding gelesen habe erschienen die Worte darin auch irgendwie sinnvoll, es gab aber nur ein kleines Problem..ich war zu faul das Buch zu lesen. Davon einmal abgesehen besitze ich diverse Ratgeber wie man Prosa schreibt und per Proxy sogar wie man gut malt. Ich habe keinen davon besonders aufmerksam gelesen, das ist zwar sehr schade aber wer hat auch bitte die Zeit dafür. Im Allgemeinen habe ich allerdings den Eindruck das Ratgeber schreiben eine gute Beschäftigung ist wenn man gutes Geld an naiven Menschen verdienen möchte ohne sich besonders anzustrengen. Insbesondere das Ende kann man wahrscheinlich ziemlich schwach gestalten weil die ich echt annehme das die meisten Leute wie ich sind, anfangen zu lesen, ein paar gute Tipps sehen, weiterempfehlen und dann den Rest liegen lassen. Haruka hat übrigens auch absolut gar keine Zeit, ich weiß wirklich nicht was sie mit einem Ratgeber will, sie braucht entweder schnelle praktische Lektionen von einem Instruktor oder weniger Ablenkung. Sie hat ja nicht einmal einen langen Arbeitsweg auf dem sie eventuell Podcasts hören könnte. Immerhin sehen wir ein paar Buchläden von innen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 02.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #98
+
+* Titel: `Yakuza 5 - #98 - plötzliche Freistellung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich schreibe die Titel ja meistens direkt nach der Aufnahme wenn die Erinnerung noch frisch ist um die Episode so gut wie es nur geht zusammen zu fassen. Es stellt sich glatt heraus das es manchmal sehr verwirrend ist wenn nur wenige Tage vergangen sind. Der heutige Titel bezieht sich auf den Tanzlehrer. Das Wort Freistellung habe ich gewählt weil Entlassung ein wenig zu grob klingt und auch nicht ganz richtig ist. Ich weiß nicht wie genau Menschen in Medienjobs angestellt sind und wie es in Japan läuft. Ich stelle mir vor das man seine eigene "Ich-AG" ist bzw. für einen Art Zeitarbeitsfirma arbeitet und dann unter zeitlich begrenzten Verträgen für die entsprechenden Labels arbeitet. Nur schwer kann ich mir vorstellen das die Tanzlehrer hauptberuflich im Auftrag der Agentur arbeiten, das ist wahrscheinlich zu unflexibil, aber unmöglich ist es nicht. Unser Tanzlehrer hatte anscheinend einen individuellen Vertrag, man hört immer viel von den Knebelverträgen der Musikindustrie für die Idols und Bands, aber wie das mit dem Support-Personal aussieht weiß ich auch wieder nicht, ich würde aber spontan vermuten das nicht besser. Wäre es ein normales Angestelltenverhältnis ist es wahrscheinlich recht schwer Leute zu entlassen. Die genauen Arbeiterrechte kenne ich natürlich nicht, aber es herrschen keine amerikanischen Verhältnisse, dessen bin ich mir sicher. Die Japaner haben auch die Technik des Leute zur Kündigung treiben perfektioniert. In der Regel stellt man dafür irgendwelche Leute in dunkle Ecken ab wo sie Bullshit machen so dass sie sich gut langweilen. In Deutschland wäre das wegen Arbeitsrecht eher schwierig und ich könnte mir durchaus vorstellen das auch die Japaner zwischen durch ihre Rechtslage leicht verbessert haben. Hier greift man daher gerne zur Freistellung mit ordentlichen Kündigung, dann ist man die Leute sofort los muss sie aber noch ein paar Monate bezahlen, aber sie machen auch keinen Schaden mehr oder sähen Unmut. Als Lehrling sollte man übrigens niemals nie nicht eine Freistellung akzeptieren wenn man nicht echt gute Gründe hat bzw. schon die nächste Stelle bereit. Hat man mir mal gesagt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 02.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #99
+
+* Titel: `Yakuza 5 - #99 - Christina der Lehrer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode fühlt sich ein wenig wie Verrat an. Oder auch irgendwie nicht weil wir einen Charakter hinter gehen von dem wir quasi noch nichts wissen. Die Lage ist die das es ja jemanden gab der uns die Tanzkämpfe über die ich mich in letzter Zeit das ein oder andere Mal aufgeregt habe vorgestellt hat. Stellt sich doch glatt heraus das wir bei der Suche nach einem legendären Tanzlehrer genau diese Person finden. Diese Person hat genau wie Haruka Träume aber scheint stumpf einfach kein Talent zu haben. Das ist ziemlich traurig. Talentlosigkeit ist quasi genauso schlimm wie nie die Möglichkeit gehabt zu haben einen Traum zu versuchen, definitiv aber noch über der Lage das man zu arm ist um irgendetwas zu machen und stattdessen anderen dabei zu sieht wie sie ihre Träume auf dem Silbertablett gereicht kriegen. Mich irritiert übrigens das der legendäre Tanzlehrer Christina heißt aber das der Nachname ist. Selbstverständlich kann das ein legitimer Nachname sein aber ein weniger verwirrender Name wäre für mich auch okay gewesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 02.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

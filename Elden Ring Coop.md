@@ -304,6 +304,108 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
+##### #18
+
+* Titel: `Elden Ring Coop - #18 - Südhochstraße von Luirnia [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Liurnia ist eigentlich ziemlich groß und mir fällt immer mehr auf das ich beim ersten Mal ein wenig ignorant war, das liegt abe auch daran das ich bestimmte Teile erst sehr viel später besucht habe und daher die gewaltige Größe in Teile gesägt wurde. Heute sind wir extrem gründlich und schauen uns wirklich jede Ecke an damit wir uns ganz sicher sind das wir auch wirklich alles gesehen haben. Beispielsweise widme ich die heutige Stunde einfach nur der südlichen Hochstraße. Das bedeutet aber quasi auch das jeder einzelne Grashalm untersucht und analysiert wird, man weiß ja nie wo sich nicht noch ein seltener Gegenstand versteckt den wir auf keinen Fall vergessen können.
+  
+  Stichworte: Süchhochstraße, Amulet der zwei Finger, Brücke der Torstadt, Katakomben am Klippenfuß, Wachhund, Tibiasee, Tafel der Gnade
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 5, Aufnahme vom 24.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #19
+
+* Titel: `Elden Ring Coop - #19 - Dächer von Raya Lucaria [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Raya Lucaria, die große Stadt der Magie, der Ort an dem junge Leute lernen richtig Magie zu wirken, eine Lehrstätte sondergleichen für die Menschen und Andere die der Magie irgendwie mächtig sind. Es gibt anscheinend verschiedene Schulen der Macht und die entsprechenden Häuser scheinen auch recht eifersüchtig auf die Macht untereinander zu sein. All das wird bestimmt noch einmal interessant, heute gucken wir uns aber lieber die Dächer der Universität an, davon ausgehend das es wirklich eine Universität und nicht ein Palast mit angebundenen Lehrsaal an. Man muss nämlich wissen das wir eigentlich heimlich Handwerksmeister sind und daher die hohe Kunst in den Ziegeln der Dächer anschauen wollen. Um dies auch zu tun steigen wir heute also auf die Dächer und gehen rein, leider haben die restlichen Magier etwas gegen unsere Tätigkeit, es zieht sich also.
+  
+  Stichworte: Torstadt, Tempelviertel, Schimmersteindrache Smarag, Raya Lucaria, großer Fahrstuhl, Schulklassenraum, Radagon, Dächer
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 5, Aufnahme vom 24.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #20
+
+* Titel: `Elden Ring Coop - #20 - Rennala, Königin des Vollmondes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Dächer sind untersucht, die letzte Schindel in Position gesetzt und der letzte Schatz der einst vergessen wurde gefunden. Jetzt bleibt uns also gar nicht mehr so viel als uns Rennala zu stellen. Die Anstaltsleiterin, Königin und auch verrückte Forscherin. Irgendetwas tun die Leute ja auch noch selbst wenn die Welt ein wenig statisch und eingefroren wirkt, fast so als hätte sich die letzten tausend Jahre nichts bewegt. Wie dem aber auch sei, wir haben natürlich überhaupt gar kein Problem damit die Königin des Mondes umzuhauen, schließlich sind wir Profis und auch etwaige Mondritter waren noch nie ein Problem für unsere Fähigkeiten, warum sollte das also jetzt losgehen?
+  
+  Stichworte: Forum der Debatte, Klangperlenjäger, Kirche der Gelübde, Ritter Moongrum, Rennala, Vollmond
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 6, Aufnahme vom 26.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #21
+
+* Titel: `Elden Ring Coop - #21 - die vier Glockentürme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute (und auch generell, aber besonders heute) tun wir eigentlich viele verschiedene Sachen. Zum Beispiel besuchen wir eine lustige Schnecke die uns eine falsche Realität vorspielt. Diese Viecher werden wir noch einmal öfter treffen und ich wüsste wirklich gerne warum es soviele verschiedene Schnecken gibt. Da sie nicht besonders "tanky" oder riesig sind nimmt man sie nicht so wahr wie die Schlabben und Tabben dieser Welt. Und doch gibt es eine erstaunliche Auswahl an ihnen. Die Schnecken sind aber nicht das was heute wichtig ist, stattdessen widmen wir unsere Gedanken den vier Glockentürmen, ich kann nicht so recht sagen was es mit diesen auf sich hat abe es scheint eine Art Fenster in eine vergangene und zukünftige Welt zu sein die wir noch nicht und nicht mehr betreten können. Außer durch das magische Portal das hier wohnt. Dank der Ausnutzung eines Bugs können wir sogar alle 4 am selben Tag öffnen. Ist das nicht schön?
+  
+  Stichworte: Katakombe am Wegesende, Geisterruferschnecke, Edgar der Rächer, Ritter Bals, Kristallhöhle der Akademie, die vier Glockentürme
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 6, Aufnahme vom 26.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #22
+
+* Titel: `Elden Ring Coop - #22 - östliches Tafelland [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Liurnia hat soviel Region das wir immer noch da rum hängen, und dabei haben wir uns grade mit Rennala beschäftigt, ganz Raya Lucaria geklärt und arbeiten immer noch an der ganzen Geschichte. Das alles dauert also an, immerhin haben wir ein Ziel, die nächste große Adresse ist das Caria Anwesen, bis es aber soweit ist schauen wir uns noch an was der obere Osten der Map zu bieten hat. Nebenbei finden wir aber noch ein paar andere Dinge und ich schäme mich auch nicht hier ein wenig zu schummeln, einfach weil es beim ersten Mal schon sehr nervig die ganzen Turmrätsel zu lösen für die es einfach nur Arbeit ist die korrekte Lösung zu finden. Ja, die Ironie ist mir bewusst, weil ich mich immer und immer wieder darüber beschwere das ich Rätsel in Spielen suche die ein wenig schwerer sind und sie nie bekomme. Und dann kommen schwere Rätsel und ich meckere trotzdem, liegt aber auch eher daran das es sich hier eher um die Vorschlaghammer Art von Rätseln handelt. Aber hey, am Ende haben wir mehr Zauberslots und das ist doch auch etwas.
+  
+  Stichworte: Zaubererinsel, Testus Turm, Carianischer Lehrsaal, Fahrstuhl nach Ainsel, östliches Tafelland
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 6, Aufnahme vom 26.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #23
+
+* Titel: `Elden Ring Coop - #23 - wandernde Mausoleen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Je länger ich mich mit Soulsborne Spielen auseinander setze umso weniger neige ich dazu Boss-Seelen zu ploppen. Ganz am Anfang ist man unwissend und weiß nicht das man sie zu besonderen Waffen machen kann, dann weiß man das und baut sich spezielle Waffen und ganz am Ende behält man sie aus irgendwelchen symbolischen Gründen ohne sie eigentlich je einzusetzen, praktischerweise weiß man ja schon vorher was es als Belohnung gibt. Elden Ring hat dieses Problem sogar ein wenig gelöst in dem man die Bossseelen duplizieren kann ohne sie physisch zu verlieren. Allerdings werden sie nicht verdoppelt sondern man erhällt nur eine weitere Instanz, andernfalls könnte man wirklich sehr viele Runen nutzen wenn man die gute alte 1-2-4-8-16-32-64 Folge machen würde, dann würde ein Durchgang einiges an Gewinn versprochen. Aber das funktioniert nicht so, ich habe es getestet. 
+  
+  Stichworte: Katakombe am Wegesende, Geisterruferschnecke, Edgar der Rächer, Ritter Bals, Kristallhöhle der Akademie, die vier Glockentürme
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 7, Aufnahme vom 29.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

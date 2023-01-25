@@ -585,6 +585,276 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #39
+
+* Titel: `Elex 2 - #39 - Setzerprobleme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube es wurde uns im ersten Teil halbwegs brauchbar erklärt. Ich fass einmal aus dem Gedächtnis zusammen. Die Berserker (immer noch ein dummer Name) pflanzen bestimmte Pflanzen die aus irgendwelchen Gründen im Wasser ertränkt werden müssen an und nähern sie mit Mana. Sobald diese Pflanzen groß genug sind kann man sie in die Welt hinaus fahren und dann sammeln sie das latente Elex der Welt ein und wandeln es in mehr Mana um. Wie genau dieser Prozess angefangen hat und wo das erste Mana her kommt ist unklar. Das ist integraler Bestandteil der Kultur der Berserker und die konvertierten Outlaws haben offensichtlich ein wenig Probleme damit den gesamten Prozess als wichtig auf zu fassen. Was sie aber auch noch als wichtig sehen ist für Arbeit bezahlt werden damit die Wirtschaft und auch die Küche läuft. Laufen wir also heute in das Problem das wir irgendwie Geld für die Setzer finden müssen, eine langwierige Angelegenheit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 03.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #40
+
+* Titel: `Elex 2 - #40 - Leuchtturmlandstreicher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin zu doof Nebenquests zu machen. Ich glaube das die Quest so war das wir von irgendeinen Typen gehört haben der in der Nähe der Berserker Basis herum lungert. Warum das so wichtig ist und warum solche Leute erkannt werden während in den Wäldern irgendwelche Monster herumstreifen können ohne das es irgendjemanden stört ist unklar. Das schreibe ich in letzter Zeit oft wenn ich was von Elex kommentiere "es ist unklar". Wenn man spielt fällt das nicht immer sofort auf und ich thematisiere das dann auch nicht weiter, sollte ich aber wohl. Warum ist irgendein Penner wichtig? Wie dem aber auch sei, ich finde ihn auch nicht und gehe stattdessen zum Leuchtturm bei dem anscheinend auch Leute gesichtet wurden. Wie genau die Berserker zu den Mokrons stehen wissen wir immer noch nicht, sicher ist aber das man nicht bei Sicht anfängt zu schießen. Wie auch immer es ist, es ist ziemlich wahrscheinlich das wir auch am Leuchtturm Mokrons auftreiben, und natürlich ist dem auch so. Etwas verwundern tut mich aber das die dabei so creepy sein müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 03.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #41
+
+* Titel: `Elex 2 - #41 - Kir der Mutige [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Helden gibt es in vielen Formen und ich habe sogar gehört das nicht alle Umhänge tragen. Wie dem aber auch sei, Feiglinge gibt es auch in sehr vielen verschiedenen Formen. Da hätten wir die Mitläufer die auch die schrecklichsten Dinge tragen solange es sie selber nicht betrifft. Wahrscheinlich braucht man die sogar wenn man einen richtig guten Unrechtsstaat aufbauen will. Wir hätten in der gleichen Ecke auch die Leute die für einen persönlichen Vorteil einfach alles machen ohne das sie sich jemals auflehnen oder so etwas wie Moral in ihren Weg kommen lassen. Ganz klassisch haben wir auch die Leute die einfach nur Angst um ihre Familie haben und daher Gefahren aus dem Weg laufen. Andere sind vielleicht einfach nicht so risko-affin und sind gut darin Schwierigkeiten aus dem Weg zu gehen. Heute treffen wir Kir. Seine Geschichte ist recht kurz, er wurde jung von den Morkons entführt, hat Probleme mit deren gelebter Kultur, ich nehme an er kann nicht so recht davon profitieren, und sich daher entschieden der Organisation den Rücken zu kehren. Richtig interessant ist aber auch das die Morkons den Vorfall für wichtig genug hielten um Häscher mit auf die Jagd zu schicken, gut, technisch gesehen waren die eh schon unterwegs um zu Rekrutieren aber es scheint mir es wäre einfacher gewesen den guten Kir einfach als tot zu deklarieren. Um seine Verfolger haben wir uns ja bereits gekümmert, jetzt müssen wir nur noch Kir helfen. Für jemanden der in der wahrscheinlich ziemlich harten Umgebung der Mokrons aufgewachsen ist scheint er mir aber ziemlich zart besaite zu sein. Das er auch keinerlei Motivation und Kraft hat sich noch die letzten fünf Meter zu den Berserkern durch zu schlagen lässt mich irgendwie wundern wie er es überhaupt geschafft hatte weg zu laufen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 03.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #42
+
+* Titel: `Elex 2 - #42 - Marwin der Lehrling [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die grundlegende Verwaltungsstruktur der Berserker ist mir immer noch ein wenig unklar, sie wirkt auch ein wenig un durchdacht. Generell und überhaupt habe ich überhaupt Zweifel das hier irgendetwas klappt, aber vielleicht ist es ja der starken Einzelleistung von Individuen zu verdanken das sich die Rädchen der Gesellschaft noch drehen. Das Rat der lokale Anführer ist scheint mir auf jeden Fall ein Unding zu sein. Neulich las ich das die maximale Größe eines zentral regierten Imperiums durch die Geschwindigkeit mit der Entscheidungen der "Regierung" reisen können ist. Kurzum, wenn das Schnellste Transportmittel von Esel gezogene Karren sind kann dein Reich einfach nicht so groß werden, oder du musst wichtige Kompetenzen an lokale Verwalter abtreten, die könnten dann aber auch auf dumme Ideen nach mehr Autonomie kommen. Ich erzähle das weil die Berserker als Volksgruppe in einer ähnlichen Situation sind. Bisher habe ich keine Funkgeräte oder mana-basierte Kommunikation erkennen können, wir dürfen also davon ausgehen das spazierende Boten alles sind. Goliet ist nicht wirklich weit entfern aber dennoch hätte ich niemals einen nicht 100% Bio-Berserker wie Rat auf den Thron gesetzt, immerhin sind aber wohl seine "Minister" von der richtigen Ideologie und können delegieren. Allerdings haben wir immer noch mächtige Probleme wie die Ausbildung von Setzern und heute auch Wissenstransfer. Aus irgendwelchen Gründen hat sich einer der besseren Heiler zum Fort abgesetzt. Das ist ärgerlich, aber wenn man jetzt neue Lehrlinge ausbilden möchte müsste man auch diese den langen Weg von Goliet bis zum Fort schicken, das ist anstrengend. Und erlaubt jede Menge Fehler. Wie zum Beispiel das der Lehrling über den unser Meisterheiler absolut nichts weiß auf dem Weg überfallen, ermordet und dann durch einen feindlichen Agenten ersetzt wird. Das es grade die Outlaws sein sollen die einen solchen Plan schmieden erscheint etwas unglaubwürdig aber was weiß ich schon.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 03.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #43
+
+* Titel: `Elex 2 - #43 - Freunde helfen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, es ist schon wieder eine Falk Quest. Was auch sonst, ansonsten versucht niemand mehr ein Mensch zu werden. Tatsächlich sind alle anderen Leute eher darin bestrebt weniger menschlich zu sein, wie zum Beispiel die Albs die eher davon weg wollen Emotionen zu spüren. Schon interessant das Falk bei den Albs eigentlich wesentlich mehr aufblühen könnte wenn da nicht so das kleine Problem wäre das er wohl nicht für voll genommen wird weil er die direktive nach der nächsten Evolutionsstufe nicht verfolgen kann. Egal, wir helfen also heute irgendwelchen Leute um uns dann eine wichtige Lektion abzuholen die in solchen Fällen immer auftritt. Undank ist der Welt Lohn. Man könnte fast meinen die meisten Leute mögen es eher weniger wenn man ihnen oberflächlich hilft und damit unwissentlich sogar das Leben schwerer macht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 03.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #44
+
+* Titel: `Elex 2 - #44 - Ateris-Scan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es geht los, wir scannen die ganze Welt. Ich möchte mich eigentlich gar nicht zu sehr aufs Worldbuilding lehnen, weil das setzt voraus das hier alles konsistent und durchdacht ist, und das war bis jetzt nicht der Fall. Oder ich erinnere mich einfach zu oft falsch. Generell und überhaupt scheint es bei den Piranha Bytes Spielen ja eher um das Hier und Jetzt zu gehen als um das Gestern oder der Welt als Solches. Das ist eine unfaire Verallgemeinerung weil vom ursprünglichen Piranha Bytes das irgendwann einmal 2002 oder so Gothic gemacht hat quasi niemand mehr da ist. Aber es kann ja durchaus sein das sich eine gewissen Kultur über die Jahre unabhängig vom Personal  etabliert hat. Wie dem aber auch sei, wir scannen also heute mit Crony irgendwelche Skyand Vorstöße und kommen zu dem Entschluss das die richtig doll alte Infrastruktur die halt in der Welt noch herumsteht für ihre eigenen Zwecke nutzen. Wir wissen nicht so recht ob es seit dem richtigen technischen Fortschritt gegeben habt oder ob die Tech der Albs und Kleriker ehe so ein Mittelding von Perfektionierung und Wiederentdecken alter Technologie ist. Aber das Zeug steht seit fast 100 Jahren an der freien Natur und war Wind und Regen ausgesetzt, wie gut kann die Hardware noch sein? Außerdem, zerfällt Silizium nicht irgendwann? Dinge über die ich noch nie nachgedacht habe, wie Apokalypse sicher ist moderne Hardware. Und wie weit in der Zeit müsste man zurück gehen damit man Hardware ewig betreiben kann. Zumindest passiv gekühlte Sachen haben ja quasi keine beweglichen Teile.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 03.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #45
+
+* Titel: `Elex 2 - #45 - Tavar-Scan mit Umwegen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Namen der Orte sind übrigens für mich völlig ohne jede Bedeutung. Tavar, Arteris, es spielt alles gar keine Rolle. Da wir noch nie eine Karte gesehen haben die die einzelnen Regionen abgrenzt und ich NPCs eher so mittel zuhöre wenn sie über die Welt reden. Aber wir scannen das jetzt halt alles. Und mit scannen meine ich eigentlich das wir immer stärker werdende Gruppen von Skyands tot ballern. Das machen wir mittlerweile mit ordentlich Käse, haben wir doch unlängst einen durchaus brauchbaren Bogen gefunden der es uns scheinbar ermöglicht Gegner gut einzeln anzulocken. Das unser Schaden mittlerweile ganz annehmbar ist ist auch ganz praktisch. Allerdings erfahren wir heute auch das die Invasoren die vorhandene Infrastruktur und deren Rechenkapazität anscheinend für eigene Zwecke nutzen. Das erscheint ein wenig an den Haaren heran gezogen. Die meiste Infrastruktur wird nicht grade Hochleistungs-Hardware verbaut haben und wenn man in der Lage ist aus den Sternen zu kommen sollte man doch ein wenig bessere Hardware haben oder? So oder so wäre es wahrscheinlich klüger die quasi autonomen Roboter der Albs oder Kleriker mit Massen an Zombies zu überhäufen und dann deren Prozessoren klauen, die sind bestimmt leistungsfähiger.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 10.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #46
+
+* Titel: `Elex 2 - #46 - üble Typen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen irgendwie die Menschlichkeit entziehen ist der erste und sichere Weg junge Menschen, aber vor allen Dingen Männer im Krieg, davon zu überzeugen das eine Schlacht irgendwie moralisch zu rechtfertigen. Der grobe Verlust von Leben ist einfach schwierig zu verkraften aber man fühlt sich ein wenig besser wenn man sich von dem Mensch in Mensch verabschiedet und lieber vom "Feind" oder "Barbaren", wahlweise auch "Ungläubige" spricht. Die Worte "üble Typen" hingegen qualifzieren in meinen Augen einfach nicht für diese Art von Beschäftigung. Klar, das ist schon eine Stufe über "Lausbuben" aber auch nicht so richtig ernst zu nehmen oder? Das Ergebnis ist aber dennoch ziemlich das Gleiche, zum Glück ist Jax trotz anders lautender Botschaften ein emotionsloser Bastard der einfach durchzieht und dafür sorgt das die Dinge geschehen. Wir sind quasi eine geladene Waffe die man nur in eine Richtung zeigen muss, und genau das tut Fox mit uns. Ich trau dem Typen nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 10.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #47
+
+* Titel: `Elex 2 - #47 - Emotionsarmut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Emotionen sind eine schwierige Geschichte. Fest steht wohl ziemlich sicher das man sie braucht, allerdings hätten wir dann noch den Datenpunkt das viele Top Manager und führende Führungspersonen (heh) anscheinend psyopathische bzw. soziopathische Tendenzen haben. Wenn man es wirklich effizient haben will braucht man also Leute die wenig für andere Spüren. Aber das ist ja nur Empathie, andere Emotionen haben diese Leute offensichtlich, zum Beispiel Gier. Das Verlangen mehr zu haben und unersättlichen Hunger. Jetzt könnte man durchaus argumentieren das die Welt in dem Zustand ist wo sie ist weil viel zu viele Leute unersättlich sind. Andererseits würden wir wohl noch auf Bäumen sitzen wenn alle zufrieden mit der Gesamtsituation sind. Schon De Satre wusste das Unzufriedenheit der Motor des Fortschritts ist. Die Albs haben Direktiven die quasi diese Gier nach mehr ersetzen, sie wollen immer besser werden und sich auf die "nächste Stufe" bringen. Wie auch immer das definiert ist. Die völlige Abwesenheit von Emotionen scheint effizient zu sein, eventuell macht das aber auch leicht zu manipulieren wenn Dinge als logische Entscheidung präsentiert werden und die Informationslage ein vorhersehbares handeln erlaubt. Dadurch könnte ein dritter Akteure perfekt manipulieren ohne jemals Ungewissheit befürchten zu müssen. Abstrahiert war das ja auch das Thema der Albs im ersten Teil. Ob die Entwickler in diese Richtung gedacht haben weiß ich aber nicht. Ich spreche ja gerne negativ über das Writing, andererseits bin ich aber wirklich kein Author oder überhaupt jemand mit praktischer Erfahrung, es könnte also durchaus sein das da zu wenig zu traue. Wie dem aber auch sei, die neuen Albs probieren mal was. Auch weil ihnen der Stoff aus geht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 10.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #48
+
+* Titel: `Elex 2 - #48 - das Depot [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin verwirrt und ich habe immer mehr das Gefühl das der Präsentation der Dinge in Elex 2 die uns erklärt was zwischen den ersten und zweiten Teil passiert ist extrem schlecht war. Klar kann man von der Welt lernen und Dinge Stück für Stück erfahren, allerdings sollte man dann meinen das Jax die Dinge auch nicht weiß. Das stimmt allerdings nicht, Jax weiß offensichtlich was Phase ist und nur wir als Zuschauer stehen verwirrt da. Heute zum Beispiel warum das Depot jetzt die große Zentrale der Albs ist. Initial nahm ich an das es sich nur um einen wichtigen Außenposten handelt aber das ist wohl nicht der Fall, es war ein Außenposten und ist jetzt die Zentrale. Anscheinend, und das ist jetzt eine grobe Vermutung basierend auf Wissen von späteren Episoden, haben die Albs zwar die Kleriker und Ignadon überfallen aber wurden im Gegenzug von den Skyands zurück gedrängt. Wann genau das passiert ist bleibt unklar und ich bin durchaus der Meinung das das ein legtimer Negativpunkt im Writing ist. Und zwar ein gewaltiger, wie konnte das bitte passieren? Hatte niemand eine Übersicht was das Spiel wo mitteilt? Das Pacing ist auf jeden Fall komplett durcheinander. Allerdings kann ich mir kaum vorstellen das wir noch großartig andere Orte hätten bereisen müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 10.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #49
+
+* Titel: `Elex 2 - #49 - Nyra die Machinistin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mein Spieldurchlauf von Elex 1 ist schon wieder eine Weile her und ich habe durchaus einige Personen vergessen. Ich habe Nyra übrigens mental verwechselt, zum Glück habe ich ja Aufnahmen von alles was ich so spiele also konnte ich einfach nachschauen. Also, Elex 1 Episode 41 - "Caja" hat eine Szene mit Nyra. Ich glaube da kam noch eine Quest die ein wenig später kam mit einem Kerl namens Fenk. Wir haben Nyra also in der Kuppelstadt der Kleriker getroffen, einen Experiment die Leute in einer Art Festung zu schützen, mit übrigens völliger Unklarheit wie genau die Kleriker solch eine Technologie hatten wenn man sich ihren aktuellen Stand anschaut. In besagter Kuppelstadt haben wir verschiedene Leute getroffen, von allen Kulturen, auch Caja die anscheinend damals den Berserkern abgeschworen hat auf ihrer Suche nach dem Wissen. Und dann halt Nyra die da wohl in einer kleinen Enklave abhing, ich dachte sie wäre die eine Person gewesen die für die Kleriker Technik gemacht hat, aber das war dann wohl doch jemand anderes. Auf jeden Fall gibt es Nyra immer noch und sie scheint weiterhin ein wenig gefühlskalt zu sein und schon damals gab es die tollen Sätze "Nyra wird sich das merken". Wir sie nicht, die meisten Dinge die ich so tue scheinen keinen Einfluss zu haben. Insbesondere wenn man sich Gefühlen abgeschworen hat und unser Handeln sowieso nüchtern beurteilt wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 10.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #50
+
+* Titel: `Elex 2 - #50 - Albs mit Entzugserscheinungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Albs haben sich ja einen neuen Weg ausgedacht mit ihrem Elex Konsum umzugehen. Die offizielle Linie ist wohl das Jax trotz erheblichen Entzug in der Lage war den Hybriden zu Fall zu bringen während die normalen Albs keine Fähigkeiten in der Richtung besaßen. Offensichtlich ist hemmungsloser Elex Konsum also nicht der Weg den man gehen muss wenn man Perfektion anstrebt. So weit die Propaganda. Die Realität ist aber wohl auch das durch den Verlust von fast allen (oder sogar wirklich jedes einzelnen) Extraktoren einfach nicht mehr genügend Stoff zu Verfügung steht. Also hat man sich ein kompliziertes Verteilungssystem ausgedacht, und damit auch eine Mehrklassengesellschaft erschaffen. Ob den Albs das bewusst ist? Wahrscheinlich eher nicht. Interessant ist auch das sich plötzlich die Individualität wieder zeigt, etwas das die Albs vorher als großen Vorteil hatten, persönliche Befindlichkeiten waren weniger wichtig, nun haben die einzelnen Leute wieder Pläne und schlimmer noch, auch eigenes Verlangen. Auch erwähnenswert ist das manche Albs ganz gut mit ihren Emotionen umgehen können und andere auch ohne Elex keine haben. Und dann sind da noch die Junkies die ohne Stoff quasi nicht funktionieren können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 10.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #51
+
+* Titel: `Elex 2 - #51 - Handeln mit Hank [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man in einem Spiel das Maximum heraus holen will muss man in der Lage sein zu antizipieren wie sich die Dinge entwicklen und welche Entscheidungen was zur Folge haben. Beispiel ist die Wahl einer Fraktion. Ich habe mir sagen lassen das ich in diesem Teil wohl auch komplett fraktionslos bleiben könnte. Wir werden sehen ob das eine Variante für mich ist. Ich bin mir aber auch recht sicher das wenn ich mich einer Gruppe anschließen würde, dann würden die Anderen nicht mehr soviel mit mir zu tun haben wollen. Das wäre so als würden wir uns verheiraten, natürlich hätten die restlichen Leute dann nur wenig Interesse an uns auf dem Partnermarkt. Wir müssen also das moralisch fragwürdige tun und uns schön alles offen und warm halten bevor wir irgendeine Entscheidungen fällen um so viel wie möglich abzugreifen. Mit den Outlaws hatten wir noch gar keinen Kontakt, aber heute nutzen wir einmal unseren Kontakt mit Hank, anscheinend einem Outlaw der noch im Fort lebt und handeln ein wenig mit ihm. Es ist absolut klar das er uns irgendwie betrügen will, aber ich tue das hier für die Geschichte, und ich bin reich. Also lassen wir uns darauf ein und schauen doch einmal wo wir hier raus kommen. Vielleicht endet es ja nicht in einem Massaker, da bin ich ja immer hoffnungsvoll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 10.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #Nummer
+
+* Titel: `Elex 2 - #52 - Coras Expedition [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich damals meinen ersten Job gesucht habe war es gar nicht so einfach etwas zu finden bei dem man am besten so gut wie nie die Arbeitsstätte verlässt. Mittlerweile hat sich das ein wenig gewandelt. Es gibt da ungeschriebene Regeln und Praktiken die man nicht so laut aussprechen möchte. Eine davon ist die das man Firmenreisen auch dazu nutzt privat etwas raus zu holen. Davon wissen alle, aber es ist wohl ein Mittel um die Moral hoch zu halten. Man fährt zwar weg von der Familie aber man hat auch etwas davon. Ärgerlicherweise gab es dann neulich so eine kleine Pandemie und das hat viel verändert. Auf der einen Seite habe ich jetzt viel mehr Homeoffice was sau praktisch ist weil ich sehr viel faul, auf der anderen Seite bedeutet das aber leider auch das dieses ganze Reisen wesentlich zurück gegangen ist. Kongress finden remote statt, dann kann man sie zwar besser konsumieren aber man fährt auch nicht nach Südamerika. Kurzum, da wo ich arbeite geht man nicht all zu oft ins Ausland. Forscher haben dieses Problem wirklich oft, maximal ein paar Kongresse. Es sei denn man findet die Mittel und kann auf Expedition bzw. Exkursion gehen um im Feld eine Studie durch zu führen. Das ist dann meistens auch der Plot von irgendwelchen Filmen. Die einsame Forschungsexpedition die sich ins Unbekannte traut. Spannend! Und genau deswegen möchte Cora in die Eiswüste, weil sie kein Bock mehr hat drinnen zu sitzen. Oder weil sie die entsprechenden Proben wirklich nicht einfach von einem Kriegstrupp holen lassen kann. Interessanterweise ist der Haupt-Absagegrund Personalmangel, steht es wirklich so schlecht um die Albs?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 17.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #53
+
+* Titel: `Elex 2 - #53 - Gewebeproben für Cora [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich frage mich manchmal wirklich was die Albs in den letzten 100 Jahren eigentlich gemacht haben. Klar, ein wenig Zeit ging bestimmt darin weg das sie sich konsolidiert haben aber danach müsste doch eigentlich viel Zeit gewesen sein Prozesse zu etablieren. Das ist übrigens ein großes Problem wenn man Sci-Fi und in Teilen auch wenn man Fantasy schreibt. Wenn man sich die menschliche Entwicklung als Maßstab setzt dann geht Forschung eigentlich wirklich rasant. Klar, aus der Perspektive einer Lebensspanne passiert nur selten revolutionär viel wie in der ersten, zweiten und eventuell jetzt dritten industriellen Revolution. Schon alleine wenn man sich das Mittelalter anguckt. Es gab ja nicht DAS Mittelalter, ganz vorne hat man Holzpalisaden und eher primitive Rüstungen, später gewaltige Festungen und die ersten Pulverwaffen die dann Mauern obsolet machten. Will man jetzt Mysterien haben braucht es aber am besten tausende Jahre von Geschichte, Traditionen, alte Gesellschaften oder Organisationen die schon ewig existierten. Wenn es aber andauernd Veränderung gab dann wird das schnell sehr komplex oder für den Plot übermäßig tief. Das ist ein Riesenproblem. Schlimmer noch in Sci-Fi, warum stagniert das Reich. Sind wir zufällig in den ersten 100 Jahren der interstellaren Expansion oder warum laufen die immer noch mit Tech rum gegen die wir sehr leicht ankommen. Selbst wenn man nicht überlicht schnell reisen kann fragt man sich dann aber doch warum die Heimatwelt technisch auf einen so niedrigen Stand ist. Man braucht also gute Gründe warum es nicht voran geht, eine solide Ausrede. Religion ist da ganz vorne dabei, plausibel, nachvollziehbar und völlig irrational. Das geht immer. Alternativ gibt es eine stetige Katastrophe und das Wunder verschiebt sich dahin das die Zivilisation die wir anschauen überhaupt noch existiert. Alternativ, die Gesellschaft ist wesentlich stabiler und nicht so volatil wie es Menschen sind. Weniger Fortschritt weil die meisten Leute zufrieden sind und nur einige Ausreißer überhaupt richtig forschen. Gehen wir jetzt einfach mal davon aus das es bei den Albs genau so ist, ich sagte ja bereits das Emotionen wichtig sind wenn mann unzufrieden sein will. Und deswegen müssen wir händisch raus um Gewebeproben einzusacken und haben keine bessere Methode dafür. Und deswegen müssen wir auch unsere Subjekte töten anstatt das Ganze in vitro vollziehen zu können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 17.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #54
+
+* Titel: `Elex 2 - #54 - ein speziell gelagerter Sonderfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Korruption ist ein echtes Problem in der Welt. An sich handelt es sich aber auch nur um einen Begriff der eine ganze Familie an verschiedenen menschlichen Verhaltensweisen abbildert. Ich würde mir nicht heraus nehmen wollen das alles analysieren zu können, aber die Kurzfassung ist wohl das man nie so recht wissen kann ob Dritte wirklich vertrauenswürdig ist. Eine Gesellschaft ist nur so stark wie ihr schwächstes Mitglied und wenn ich mein Fahrrad unangeschlossen auf der Straßes stehen lasse habe ich irgendwie das Vertrauen das alle andere Leute mindestens so ehrlich sind wie ich. Dieses Niveau an Zivilisation ist nur sehr schwer zu erreichen. Insbesondere wenn Ressourcen knapp sind kann es schnell passieren das manche Leute Angst bekommen das sie nicht genug abkriegen. Sei es nun aus Mangel an eigener Fähigkeit oder einfach nur durch Missgunst. Ironischerweise sorgt die Existenz dieses Verhaltens dafür das man am Ende mehr Ressourcen braucht als wenn niemand irgendjemand etwas neiden würde. Aus verschiedenen Gründen ist diese Art von Utopia aber nicht so recht erreichbar. Relevant wird das weil wir neulich von der Torwache abgezogen wurden, der gute Striker wollte uns offensichtlich übertölpeln. Es stellt sich heute heraus das er mit diesem Verhalten nicht selten zu Gange ist. Ich fürchte nur leider das es sich nicht um einen Einzelfall bei den ehemaligen Outlaws handelt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 17.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #55
+
+* Titel: `Elex 2 - #55 - Skibbors Lebensversicherung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Normalerweise versteht man unter einer Lebensversicherung ein Konzept das für die Hinterbliebenden da ist wenn man selber vorzeitig verstirbt damit man niemanden in Schwierigkeiten hinterlässt. Man wettet quasi mit der Versicherung das man nicht stirbt und falls man es doch tut kümmert sich diese Versicherungsgesellschaft halt um das Wohl der Nachfahren bzw. Partner. Die meisten Menschen führen ein ziemlich langweiliges Leben so das die Chancen zu sterben relativ gering sind. Man kann und tut da Statistiken gegeneinander aufrechnen, Raucher oder Nichtraucher, wie oft wird das Auto genutzt, Geschäftsreisen, eine Reihe von Parametern halt. Führt man jetzt aber ein sehr risikoreiches Leben, zum Beispiel im Dienste des organisierten Verbrechens kann eine Lebensversicherung etwas ganz Anderes sein. Ein Konzept das einem am Leben hält, eine Sache, ein Verbündeter oder einfach nur Informationen die dafür sorgt das die richtigen Leute still halten. Skibbor hat die zweite Variante, die erste ist auch Mangels Zivilisation eher unwahrscheinlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 17.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #56
+
+* Titel: `Elex 2 - #56 - Skibbors Tresor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wisst ihr noch als ich das mit der Lebensversicherung erzählt habe und wie man sicherstellt das man auch auf der schiefen Bahn eine gewisse Gradlinigkeit behält? Nun, es stellt sich doch glatt heraus das der gute Skibbor anscheinend nicht sorgfältig genug gewesen ist. Als Spion der Albs hatte er ein ziemlich riskantes Leben und seine verschiedenen Aufträge könnten eventuell noch eine zweite Agenda beinhalten, vielleicht persönliche Ziele, vielleicht wurde auch umgedreht. Wir wissen es nicht. Was wir aber wissen ist das der gute Skibbor wohl das ein oder andere Geheimnis hatte. Geheimnisse die er mit ins Grab genommen hat. Jetzt ist es an uns das Leben und Wirken des Skibbors wieder zu sammen zu puzzlen. Erste Schwierigkeit wird heraus zu finden ob er ein Verräter, Ziel oder unbeteiligte Person war die bei einem Anschlag nur am falschen Ort war. Hinweise auf die Siedlung der Kleriker lässt mich aber daran zweifeln das Skibbor sich nur vertan hatte. Das was er uns vorher gesagt hat macht auch ein wenig nachdenklich. Ich schließe übrigens immer noch die Möglichkeit nicht aus das er seinen Tod fingiert hat. Das wäre sehr spannend oder? Wir treffen heute übrigens außerdem noch die Konkurrenz, oder Mitbewerber, Mitspion, Mitermittle? Es ist ein wenig unklar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 17.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

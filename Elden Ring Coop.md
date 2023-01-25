@@ -406,6 +406,278 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
+##### #24
+
+* Titel: `Elden Ring Coop - #24 - das schnelle Altus-Plateau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind noch gar nicht bereit nach Altus zu gehen. Irgendwie könnten wir aber auch wenn wir wollten wirklich. An sich hält uns nichts auf, der große Drache ist besiegt und Caelid ist irgendwie auch ziemlich optional. Allerdings ist das nicht unser Stil, oder eigentlich eher der von Alex der in der Hinsicht viel mehr Aufmerksamkeit auf Vollständigkeit legt als ich es tue. Bevor wir nach Altus können muss eigentlich Ainsel, Caelid und natürlich auch Siofra gelöst werden, eine Priese Nokron wird wohl auch nicht umgänglich sein, kurzum, da wartet noch eine Menge Arbeit auf uns. Und doch sind wir hier, ganz nahe bei der Hauptstadt. Der Grund dafür ist relativ einfach, ich will mein Schwert haben, das liegt aber leider in Leyendell im Thronsaal. Um dort hin zu kommen müssen wir also durch Altus rennen und das ist ein weiter weg. Eventuell sind wir auch ein wenig unterlevelig, aber immerhin gibt es hier einige goldene Saaten die wir sonst erst viel später erhalten hätten, also haben wir immerhin das. Wir laufen also ein wenig durch, und sterben eventuell ein wenig öfter als das üblich ist.
+  
+  Stichworte: Gurranq, Glockenmausoleum, die Klamm, ruinenübersäter Abgrund, Magmalindwurm Makar, Altus-Plateau, Lansseax, Randgebiet der Hauptstadt
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 7, Aufnahme vom 29.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #25
+
+* Titel: `Elden Ring Coop - #25 - die Leyendell Exkursion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt geht alles ganz schnell. Wir laufen heute nach Leyendell, ein wenig über das Altus Plateau und schon sind wir in der Hauptstadt ohne das uns irgendjemand wirklich aufhalten kann, wir sind schließlich gut. Eine kleine Sache gibt es da allerdings die uns doch noch ein wenig im Weg steht. Der Drachenbaumritter der vor dem Dienstboteneingang steht durch den wir eigentlich gehen wollen. Stellt sich doch glatt heraus das das ein ganz schöner Brocken ist den wir mit unseren aktuellen Waffen einfach nicht tot kriegen. Da hilft nur ein taktischer Rückzug, in diesem Fall übrigens sehr weit. Wir laufen zurück bis nach Caelid zum Schrein der Drachen. Dort wohnt, nicht weit entfern ein großer Drache namens Ekzyke, den hat Malenia damals ziemlich übel mitgespielt. Es handelt sich um einen Drachen des Zerfalls, und wenn man ihn besiegt erhält man seine Fähigkeit. Daher machen wir das. Mit dieser finsteren Macht können wir dann zurück zu den Toren der großen Stadt, durch die Straßen schleichen und dann das Schwert der geheimen Worte bergen. Mein Ziel.
+  
+  Stichworte: Auriza, Drachenbaumwächter, Verfallender Ekzykes, Leyendell, Straßenbalkon, steinernder Drache, Hauptstadtkirche, Schwert der geheimen Worte
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 7, Aufnahme vom 29.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #26
+
+* Titel: `Elden Ring Coop - #26 - Vykes Dorf der rasenden Flamme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute finden wir dann endlich das Schwert der geheimen Worte und gehen mit diesem Schatz wieder zurück wo eigentlich unser Platz ist. Nicht oft passiert es das Leute die sich zu so hohen Positionen aufschwingen ohne Protest und Gegenwehr wieder zurück gehen. Aber wir tun das, zurück zum Turm von Sauron und dem Dorf der rasenden Flamme. Gleichzeitig rätseln wir aber auch noch einmal an Magiertürmen. Da die Magier irgendwie ja auch mit Raya Lucaria zu tun haben sind wir auch dort noch einmal. Ärgerlicherweise verdammen wir damit eine gut meinende Seele auch zum tode. Immerhin kann er sich aber noch seinen Wunsch erfüllen, zurück an die Akademie zu kehren um seine Forschungen vorran zu treiben. Wie schade das es dieses Ende nehmen musste, aber sein wir ehrlich, so richtig überrascht waren wir nie oder? Den Abschluss bildet dann noch ein Kerl namens Vyke der es in seiner Realität schon echt weit gebracht hat bis er der rasenden Flamme zum Opfer gefallen ist. Das war ein wenig ärgerlich fürchte ich, aber wir machen das bestimmt besser.
+  
+  Stichworte: Dungfresser, Osttor, Dunkelkavallarist, Kirche von Bellum, Fahrstuhl, Saurons Turm, Dorf des Wahnsinns, Dorf der rasender Flamme, konvertierter Randturm, Vyke
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 7, Aufnahme vom 29.11.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #27
+
+* Titel: `Elden Ring Coop - #27 - carianisches Hand-Anwesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint eine gewisse Obsession mit Fingern und Händen in den Zwischenlanden zu herrschend. Bis her weiß ich schon von den zwei Fingern, den drei Fingern und natürlich auch von den Händen die in den Anwesen von Caria und einigen anderen ausgesuchten Orten herumlungern. Ich vermute es handelt sich um das Ergebnis eines, wie ich annehmen muss, erfolgreichen Experiments mehr Finger pro Hand zu schaffen als jemals jemand Hände hat. Die Verpflanzten Viecher von Godrick scheinen ja irgendwie in die gleiche Richtung zu gehen, der Ansatz ist nur ein wenig anders, die Überlegung ist halt nur möglichst viele Gliedmaßen mit Händen dran an einem Körper zu bauen um dann wieder ganz viele Finger zu haben. Irgendwie müsste also eine Truppe von Leuten ohne Arme herumlaufen.
+  
+  Stichworte: Liurnia, carianische Ruinen, königliches Gespenst, Iji, Caria Anwesen, Garten, Hände, Töpfe, Ritterin Loretta, Adula, Pidia
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 8, Aufnahme vom 09.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #28
+
+* Titel: `Elden Ring Coop - #28 - Vom Gipfel zum Keller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Englischen würde diese Episode übrigens "From the Pinnacle to the Pit" heißen, was ein wesentlich besserer Titel wäre als das was wir hier haben. Damit wäre es auch eine Referenz, gedanklich habe ich auch den gleichnamigen Ghost Song vor Ohren. Außerdem ist der Titel sachlich falsch, es ist ja nicht so das wir heute den Gipfel der Riesen betreten haben und uns von dort aus zu Astel begeben. Das wird alles noch passieren aber ziemlich wahrscheinlich nicht in einer Episode. Der Gipfel ist Rannis Turm wo es leichte Schwierigkeiten für unsere Mission gibt und die Grube ist einfach nur Siofra. Wir waren ja bereits schon einmal da und heute erkunden wir das Gelände ein wenig tiefer und genauer als wir das letzte Mal getan haben. Auch lernen wir die Lehmmenschen noch ein bisschen besser kennen, man weiß ja nie welche großartigen Geschichten diese noch für uns vorbereitet haben.
+  
+  Stichworte: Anwesen von Caria, Seitengräber, Rannis Turm, Rogier, Seluvius Turm, Siofra, Lehmmenschen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 8, Aufnahme vom 09.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #29
+
+* Titel: `Elden Ring Coop - #29 - Heilighornland mit Drachenblut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir fällt auf das ich in meinen Stichworten sowohl Lehm- als auch Tonmenschen aufgeführt habe. Ich glaube nicht das irgendeiner der Lehmtypen gebrannt wurde, und wenn doch haben wir vielleicht den Ursprung der lebendigen Gefäße gefunden. Das wäre eine interessante Erkenntnis und würde auch bedeuten das die Viecher gar nicht ihr Inhalt bzw. diese Innereien sind sondern stattdessen vor allen Dingen aus der Hülle bestehen. Davon einmal abgesehen kommen wir heute übrigens richtig viel rum, nicht nur schauen wir uns die großen und kleinen Teile von Siofra an, nein wir fahren auch den langen Fahrstuhl hoch nach Caelid um an einen einzigartigen Ort zu kommen den man sonst auf dem Fußweg eher nicht erreicht. So wie Caelid aussieht könnte ich mir aber durchaus vorstellen das man nur sehr selten daran Interesse hat tatsächlich den Aufzug nach oben zu nutzen, bei der Fahrzeit und dem völligen Mangel an Geländern kann ich das auch absolut nicht verübeln. Leider fällt auf das die Herausforderung des großen Gefäßes einfach ein wenig zu viel für uns ist und wir daher erst andere Aufgaben erledigen müssen bevor wir hier weiter machen können. Beispielsweise gäbe es da noch Drachenblutsoldaten die darauf warten von uns erschlagen zu werden. Was es genau mit denen auf sich hat ist mir übrigens auch nicht klar, insgesamt gibt es davon drei Stück aber warum man sie findet wo man sie findet möchte uns natürlich wie immer niemand erklären. Warum auch? Zuletzte erschlagen wir noch einen Ahnengeist, ich bin mir ziemlich sicher das das ein eher größeres Sakrileg ist.
+  
+  Stichworte: Siofra, Caelid Fahrstuhl, Ritter der großen Gefäße, Onyxfurt, Lehmmenschen, Tonmenschen, Drachenblutsoldat, Ahnengeist
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 8, Aufnahme vom 09.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #30
+
+* Titel: `Elden Ring Coop - #30 - Kurztrip Ainsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Umso länger wir hier spielen desto länger ist mein eigener Spieldurchlauf her und man vergisst manche Sachen. Zum Beispiel wie groß oder lange ein Ort dauert. Zum Bleistift habe ich die gesamte Ainsel Geschichte ja eher rückwärts gefunden und den ursprünglichen Teil erst im Nachhinein gemacht, daher habe ich keinerlei Vorstellung wie lange das alles so dauert. Stellt sich doch glatt heraus das, sollte man nicht so oft sterben, eigentlichtlich ziemlich schnell durch kommt. Wir machen also heute die gesamte Ainsel Geschichte in einer absoluten Rekordzeit, vergleichen mit meinem letzten Durchgang. Aber keine Angst, wir kommen noch einmal her um dann die Rest einzusammeln. Das gibt uns aber auch Zeit schon kurz die Füße nach Caelid zu strecken, einem Ort dem wir wohl durchaus noch etwas Zeit widmen werden.
+  
+  Stichworte: Ranni, Ainsel, Ameisen, Tonmenschen, Sternenwesen, Drachenblutsoldat aus Nokstella, Caelid, Gaeltunnel, Kutsche, Feuerruinen, verlassene Höhle
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 9, Aufnahme vom 14.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #31
+
+* Titel: `Elden Ring Coop - #31 - Festung Gael und Umgebung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon sind wir mitten in Caelid. Anscheinend hat sich Alex sogar auf das Gebiet gefreut, ich kann das nicht so recht sagen. Von Anfang an war mir Caelid sehr suspekt, das liegt aber auch daran das ich die klassische Route über die verzauberte Truhe beim Agael See genommen habe und die erste Reise nach Caelid durchaus als Schock wahrgenommen werden kann. Plötzlich ist man in einer alptraumhaften Welt voller verrotteten Monster und ohne richtigen Pflanzen. Alles scheint entweder vor langer Zeit zu sterben oder liegt grade so noch im Sterben. Es sieht ein wenig aus wie das Ende der Welt, eine sich stetig ausbreitende Fäulnis hat alles erfasst und es sieht nicht so aus als würde dieses Land jemals wieder das werden was es einst war. Wenn man dann noch nicht einmal die Hintergründe kennt wird das alles nicht besser und der erste Eindruck brennt sich ein.
+  
+  Stichworte: verlassene Höhle, Reinfäule Ritter, Gaeltunnel, Velorene Ruinen, Magmalindwurm, Fia, Festung Gael, Festung Rotmähne
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 9, Aufnahme vom 14.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #32
+
+* Titel: `Elden Ring Coop - #32 - Meteorklinge, Kerkerhöhle und Todesritenvogel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Expedition nach Caelid dauert an, wir streifen sogar ein wenig die Region die man allgemeine als Ionia kennt. Ich bin mir allerdings nicht ganz sicher ob man das tatsächlich als einen anderen Ort zählen kann oder ob es einfach mehr der Ionia-See ist der zwischendurch ein wenig mit Fäulnis übergelaufen ist und jetzt halt so aussieht wie er aussieht. Generell kann man aber heute kein festes Thema festmachen, das passiert halt wenn man durch Orte durchläuft die man irgendwie schon kennt und daher nie lange an einem Ort bleibt. Am ehesten überrascht es mich noch Zeichen des Wahnsinns auch hier im Land der Fäulnis zu sehen, als ob eine Krankheit nicht schon ausgereicht hat. Am Ende stellen wir uns den Schrecken der Nacht, die erstaunlich stark sind.
+  
+  Stichworte: Rotmähne, Festung Gael, Caelid, Ionia, Meteorklinge, Kerkerhöhle, Rasender Duellant, Parkour, Dunkelkavallerist, Todesritenvogel
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 9, Aufnahme vom 14.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #33
+
+* Titel: `Elden Ring Coop - #33 - Straße der Weisen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und hier sind wir wieder, der Episode in jeder Aufnahme, Spiel oder wie auch immer gestaffelten Einheit in der ich mir Gedanken mache wie die Orte wohl vor der großen Katastrophe ausgesehen haben. Generell etwas das nicht oft beleuchtet wird, in der Regel kriegt man immer nur einen kleinen Einblick in die Zeit davor oder in die Welt nach dem Niedergang des dunklen Lords. Was passiert 1000 Jahre nachdem Sauron besiegt wurde? Die Menschen würden wahrscheinlich immer noch Krieg führen und Leid über die Welt bringen aber ein dunkler Einfluss wäre weg. Oder wie war das tägliche Leben im goldenen Zeitalter einer X-Beliebigen Fantasywelt. Wie war das Leben als Marika noch richtig am Leben war? Hatten die Leute dennoch Probleme, gab es herzogliche Wachen die Mordfällen hinterher recherchiert haben oder war das Gewaltmonopol schon immer korrupt? Und wie sah Caelid vor der Fäulnis aus? Wir wissen es nicht und werden es nie erfahren, und auch nicht warum der Ort Straße der Weisen heißt. Welche Weisen?
+  
+  Stichworte: Caelid, Hunde, Katakomben von Caelid, Belagerungscamp, Straße der Weisen, Milicent, Reinfäule, Gowry, O'Neil
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 22.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #34
+
+* Titel: `Elden Ring Coop - #34 - Stinkendes Sellia [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Letzte Episode habe ich mich gefragt warum es eine Straße der Weisen gibt und nach wem sie wohl benannt ist. Eventuell ja nach den Zauberern aus Sellia, anscheinend einer weiteren Brutstätte der Magie die bloß ärgerlicherweise das Pech gehabt hatte genau da zu wohnen wo die Scharlachfäule ausgebrochen ist. Die gute Nachricht ist aber das die Stadt selbst ziemlich von der Fäulnis verschont geblieben ist, es gibt aber wohl Anzeichen das Raya Lucaria die Stadt nicht sehr gemocht hat. Völlig zerstört ist sie nämlich dennoch und wir finden kaum einen Stein auf den Anderen. Immerhin sind noch einige der Schätze anwesend, auch wenn ich mich ein wenig frage wie sich die Anwesenheit der Nox-Schwertmaiden hier erklärt. Wie kamen sie hier her und eigentlich noch viel wichtiger, warum?
+  
+  Stichworte: Caelid, Runenbär, großes Gefäß, Herz von Aeonia, Selia, Noxschwertmaid, Kirche der Seuche, Sellias Versteck, Stinkende Krstiallianer
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 22.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #35
+
+* Titel: `Elden Ring Coop - #35 - Sternengeißel Radahn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, bei Radahn. Es war klar das wir hier eines Tages enden würden, das ist einfach der Lauf der Dinge. Um mächtiger zu werden müssen wir töten was mächtig ist und Radahn in all seinen Wahnsinn steht uns dabei im Wege und wir gleichzeitig als Sprungbrett betrachtet. Radahn bewacht den Zugang zu einem für uns wichtigen Bereich und außer ihn zu Fall zu bringen habe ich auch keine klugen Ideen wie wir sonst unter die Erde kommen solle, also im wörtlichen Sinne, nicht metaphorisch. Der große Abraumbagger wurde noch nicht erfunden und generell scheinen grabende Zaubersprüche sich auf ein absolutes Minimum wie Schotter zu beschränken. Da hilft also nur eine Teilnahme am großen Festival und zu hoffen das wir bereits stark genug sind gegen den großen Krieger mit dem kleinen Pferd zu bestehen.
+  
+  Stichworte: Caelid, Festung Rotmähne, Schwertlöwe, Sternengeißel Radahn, Blaidd, Katakomben der Kriegsopfer, Stinkender Baumgeist
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 22.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #36
+
+* Titel: `Elden Ring Coop - #36 - Festung Rotmähne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Radahn mag zwar meisterhaft von uns besiegt worden sein aber das ist noch nicht das Ende seines Vermächtnisses, ein so mächtiger Kriegsmeister hinterlässt Spuren in der Welt, insbesondere der Ort an dem das große Festival vorbereitet und abgehalten wurde ist immer noch ein Ort von militärischer Bedeutung und das heißt wiederum für uns das es hier auch etwas zu holen gibt. Wir machen uns also auf und schauen uns an welche unbekannten Schätze vorher hinter verschlossener Tür gelegen haben. Die Löwen haben wir ja bereits aus dem Leben entfernt aber das war ja noch nicht Alles. Außerdem finden wir noch ein paar andere Reste die sich in Caelid aufhalten.
+  
+  Stichworte: Caelid, Gowry, Millicent, Baumgeist, Schmelztiegelritter, Festung Rotmähne, Entführungsmaid, Vorfeld
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 23.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #37
+
+* Titel: `Elden Ring Coop - #37 - Greyolls Drachenhügel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen erstaunlich oft am Drachenhügel vorbei. Das liegt aber auch daran das wir gerne Drachen hauen und auf dem Drachenhügel kann man doch wohl damit rechnen das der entsprechende Drache hier auch wohnt. Heute widmen wir uns übrigens einer wilden Mischung aus Aufträgen deswegen auch die reine Ortsbezeichnung. Tatsächlich ist der Drachenhügel eigentlich recht anspruchsvoll und alleine wäre ich wahrscheinlich schon am Klangperlenjäger 30 Minuten lang gescheitert aber mit der Kraft der Freundschaft ist alles ein wenig einfacher. Auch spannend sind die stinkenden Erdenbaumavatare die mit ihrer Scharlachfäule durchaus ein Problem für uns beide darstellen, unsere Immunität ist halt einfach nicht so hoch das wir da einfach drinnen stehen können. Immerhin erkranken wir nicht dauerhaft an der Scharlachfäule was wohl im Canon genau das ist was eigentlich mit einem passieren würde wenn man sich der ganzen Geschichte aussetzt. Glück gehabt also.
+  
+  Stichworte: Greyolls Drachenhügel, Sellias Tor, Stinkender Avatar, niedere Erdenbaumkatakomben, Klangperlenjäger, Kriegsmagier Hugues
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 23.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #38
+
+* Titel: `Elden Ring Coop - #38 - der Scam Golem [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So effektiv wir auch beim Besteigen des Drachenhügels waren, heute verschwenden wir die ganze Zeit wieder. Wir suchen nämlich das Bild eines Gemäldes und es stellt sich doch glatt heraus das das richtig dolle schwer ist weil der Ort an dem wir dann am Ende hin müssen ziemlich uneindeutig zu finden ist und ohne Hinweis wäre ich da auch nie drauf gekommen. Hier sind wir also und laufen herum und suchen uns quasi tot, am Ende hilft aber wirklich nur das Internet. Bewacht wird der Ort übrigens von einem großen Golem der anscheinend nicht die üblichen Schwachstellen hat und über interessante Fähigkeiten verfügt. Das ist erwähnenswert weil ich mich nicht daran erinnern kann das es andere Golems gab die über diese Fähigkeiten verfügten. Man würde bei einem so mächtigen Gegner auch eine große Belohnung erwarten, aber wie man vielleicht schon am Titel erahnen können sehen unsere Gefühle ein wenig anders aus.
+  
+  Stichworte: Festung Faroth, Gemäldesuche, Bannkreisgolem, Drachenhügelhöhle, Bestienmensch, Dunkelkavallerist, Greyll
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 23.12.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #39
+
+* Titel: `Elden Ring Coop - #39 - Heiliger Turm von Caelid [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute sind wir voll im Namen der Religion unterwegs. Es ist übrigens interessant wie Glaube als Attribut ein ziemlich unklares Konzept ist. Sind wir einfach stark im Glauben an egal was? Leveln wir in Wirklichkeit das Ignoranzattribut? Weil an sich gibt es ja verschiedene Magien die wir mit unserem "Glauben" betreiben und die offensichtlich auch stärker werden dadurch das wir fester im Glauben werden. Es gibt da zum Beispiel die Dornenaposteln, die Götterskalpen (wir treffen heute jemanden davon) und damit die Leute von der schwarzen Flamme. Ob die wiederum mit der schwarzen Klinge und dem Zeichen des Todes zusammenhängen kann ich auch gar nicht so recht sagen. Selbstverständlich gibt es da auch noch die goldene Ordnung und eventuell haben die Girls und Boys von der Ordnung nicht direkt was mit der Gnade und Marikas Clique zu tun. Oder vielleicht auch doch, das kann man bestimmt nachschlagen, aber während ich das hier tippe weiß ich es halt wirklich nicht. Das erzähle ich heute alles weil wir den heiligen Turm von Caelid besteigen, einen Ort voller Scharlachfäule, übrigens auch Gegenstand von Anbetung. Warum und in welcher Religion das Ding jetzt heilig ist bleibt unklar, wahrscheinlich der Gnade gegenüber weil wir ja dort etwas mit Runen machen. Im Keller wohnen aber die Schwarzflammis. Und Ringsherum ist Fäulnis. Es ist alles so verwirrend, wir sollten einfach alles abbrennen denke ich.
+  
+  Stichworte: Verehrer der schwarzen Klinge, Heiliger Turm von Caelid, Apostel der Götterskalpe
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 11, Aufnahme vom 06.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

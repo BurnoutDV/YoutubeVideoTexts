@@ -1453,6 +1453,156 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #100
+
+* Titel: `Yakuza 5 - #100 - Rampenlichtrealität [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal frage ich mich ob die Scheinwelt die die Medien aufbauen irgendwann nicht zerbricht. Wenn man ins Theater vor 200 Jahren gegangen ist hat man die Künstler und Schauspieler gesehen und hat natürlich nur die Bühne gesehen, Wenige werden sich für das was zwischen den Vorstellungen passiert ist interessiert haben. Heuzutage sieht das ein wenig anders aus, man braucht keine Hören-Sagen Geschichten sondern hat alles in Bild, Ton und zusammen als Video, und doch, die Leute glauben die Lüge auch weiterhin. Aber das liegt wohl daran das der Kern einer guten Lüge darin besteht das die Leute es glauben wollen. Menschen möchten sich ablenken lassen, die Glanzwelt sehen, den Glamour. Wer interessiert sich da schon für die dunklen Seiten der Medien. Vielleicht möchte man auch glauben das die Dinge in letzter Zeit besser geworden ist. Und vielleicht ist das objektiv auch passiert, aber wer kann das schon genau sagen? Es ist ja nicht so das hier unabhängige Untersuchungen und Überwachung stattfindet. Haruka ist ein abgeklärter Charakter, ich glaube ich habe sie falsch eingeschätzt, ihre ganze Freundlichkeit, Unschuld und Naivität scheint mir mehr Fassade zu sein als ich annahm. Heute zeigt die Dunkelheit der Medien ihre Zähne und doch scheint sie davon kaum beeinflusst zu sein, so als ob sie moralisch und seelisch schon lange damit abgeschlossen hat und es nur noch als einen lächerlichen Teil dieser kleinen Taschenwelt sieht, etwas, das andere Künstler noch nicht erreicht haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 02.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #101
+
+* Titel: `Yakuza 5 - #101 - Talk Show Profi Haruka [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich fürchte es wird ein wenig repetetiv. Irgendwie wie ein wenig das Leben, wenn man zu lange schaut entwickelt das Leben ziemlich schnell Muster. Es ist ein wenig seltsam, aber man neigt irgendwie dazu das wunderbare ganz schnell als mundan wahrzunehmen. Elektrizität, fließend Wasser, Bäume oder Smartphones, nur wenige Monate und schon gehört das einfach dazu. Und so ist das auch mit den Talk Show auftritten, die Struktur ist immer gleich, Menschen brauchen Struktur. In den feinen Details gibt es natürlich Unterschiede. So ist es zum Beispiel so das Haruka immer andere Fragen beantwortet und es gibt auch immer ein anderes Thema. Wenn man sich so einen Tagesablauf anschaut verändert sich auch immer wieder nur die Details aber die grobe Struktur bleibt meistens genau gleich. Wir müssen uns also die Details anschauen damit uns nicht ganz so schnell langweilig wird, und daher sammeln wir heute Lächeln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 02.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #102
+
+* Titel: `Yakuza 5 - #102 - ein Lächeln für die Welt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, wir besuchen immer noch alle Fernsehshows der Welt, ich weiß ich weiß, das dauert einfach alles zu lange. Aber was will man tun? Wir brauchen schließlich die Fans und dafür ist es ziemlich wichtig sich ein wenig beliebt zu machen und das eigene Gesicht raus in die Welt zu bringen. Außerdem müssen wir doch so süß wie nur irgendwie möglich erscheinen, man stelle sich mal vor ein angehendes Idol wäre absolut abgeklärt und würde keinerlei Unschuld zeigen. Um hier einmal einen Schritt weiter raus zu gehen, ein 16 jähriges Mädchen ist in dieser nervigen Zwischenphase zwischen Erwachsen und Kind sein, allerdings, wie unschuldig ist man da noch? Und wie unschuldig darf man tatsächlich noch sein. Auf der einen Seite fragt man sich doch inwiefern man jemanden an das Leben heranlassen möchte. Und was erwarten die Fans? Ist es nicht schon eine Lüge an sich selbst das ein Idol im Medienbusiness existieren kann und gleichzeitig diese jugendliche Unwissenheit über die Menschheit als ganzes projekzieren kann?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 02.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #103
+
+* Titel: `Yakuza 5 - #103 - Viele Fragen an [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist fast schon ironisch. Auf der einen Seite basiert das ganze Geschäftsmodel von Idols anscheinend darauf das es genügend junge Mädchen gibt die auch eines werden wollen ohne einen klaren Weg dorthin zu haben. Dann basiert die Methode wie man Idol wird mehr auf Zufall, in der Gen Lotterie und dann auch bei der Entdeckung. Und doch dreht sich dann alles darum wie man in diese Position kommt und wie das Leben so ist. Und die Antworten müssten eigentlich alle in die selbe Gruppe bzw. Größenordnung fallen, einfach weil das Leben von Oben diktiert wird. Welche innovativen Antworten kann man sich also von jemanden wie Haruka wünschen? Die Allgemeinheit weiß natürlich nicht das ihre Vergangenheit wirklich besonders ist, aber die Persona die sie in jedem Fall spielt ist generisch wie es nur sein kann. Ob es nicht irgendwann langweilig wird, oder ist das nur der Zynusmus von viel zu viele Jahren Beobachtungen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 16.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #104
+
+* Titel: `Yakuza 5 - #104 - Harukas Interviews [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Quasi die Fortsetzung der letzten Beschreibung. Haruka ist ein Produkt, sie verkauft sich, nicht direkt ihren Körper, mehr die Vorstellung ihres Körpers, das ist etwas das sich wesentlich besser kommerzialisieren lässt. Wenn eine Kurtisane nur ihren Körper anbietet dann kann sie das nur zu sovielen Kunden tun bis sie auseinander bricht. Aber Haruka kann sich X Mühe geben und es ist eigentlich nur die Bevölkerung Japans die ihre mögliche Popularität beschränkt. Mit steigender Bekanntheit wollen die Menschen natürlich mehr über sie wissen und wenn diese Antworten interessant sind dann kann es sein das sich sogar neue Leute für sie begeistern können. Allerdings frage ich mich wirklich was Haruka Neues bieten kann? Wenn man alle Antworten aller Idols die jemals gewesen waren zusammen wirft, destilliert und diese Essenz gegen die Worte von Haruka evaluiert dürfte nicht mehr besonders viel übrig bleiben. Davon ausgehend das sie in der Lage ist ihre Maske ausreichend gut aufrecht zu erhalten, aber darin sollte sie Profi sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 16.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #105
+
+* Titel: `Yakuza 5 - #105 - die Game Show [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab immer mehr das Gefühl das ein Idol eher so etwas wie ein künstlich geschaffener C-Promi ist. Nicht das das jetzt in anderen Medien anders wäre, aber ein klassischer C-Promi ist ja eigentlich ein mittel erfolgreicher Künstler oder Moderator. Unsere Idols werden hingegen aus dem Vakuum gegriffen und dieses ganze Singen und Tanzen scheint eher Mittel zum Zweck zu sein. So wie wenn die amerikanischen College Footballer irgendetwas studieren einfach damit sie im College sind um an der Liga teilnehmen zu können (das ist wohl irgendwie ein akademisches Problem habe ich mal gelesen). Wie dem aber auch sei, ich komme darauf weil wir heute an einer Gameshow teilnehmen, einfach weil wir halt in Nähe sind und die original Kandidatin abgesagt hat. So etwas kommt anscheinend vor, man lädt irgendwelche Promis ein und die machen dann mit. Es geht hier also mehr um die Personen als um die eigentlich Show, das ist hier zu lande, glaube ich zumindest, ein wenig anders. Ein wenig mehr spielt der Inhalt schon eine Rolle, beim Wer wird Millionär ist der Gewinner ja auch nicht so wichtig sondern ob man die Fragen selber gewusst hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 16.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #106
+
+* Titel: `Yakuza 5 - #106 - Sotenbori Gourmet [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Haruka Kapitel gibt mir erstaunlich viele Möglichkeiten über die Ernährung und dem täglichen Leben abseits der Bühne über Idols zu sprechen. Leider weiß ich da gar nicht so viel drüber wie ich gerne wüsste um darüber sprechen zu können. Aber die Kurzfassung ist das man als Idol eher nicht so viel isst. Zwar hat sie in einem Interview gesagt das sie soviel Sport macht das sie quasi essen kann was sie will aber ich glaube das ist auch nicht die ganze Wahrheit. Ich habe mir wie immer keine Analysen angeschaut, aber ich vermute das Tänzer und insbesondere die die es richtig weit treiben ernsthafte Mengen an Muskeln aufbauen. Ich stelle jetzt die komplett unfundierte Theorie in den Raum das das aber auch nicht wirklich gewollt sein kann. Man stelle sich mal vor unser 16 jähriges Idol sieht auf einmal stark gebaut und kräftig aus. Ich dachte der ganze Shtick von Idols ist das sie verletzlich und unschuldig erscheinen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 16.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #107
+
+* Titel: `Yakuza 5 - #107 - Maki von den Hipstern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Noch einmal jung sein - das ist ein Wunsch oder ein Art Verlangen das man mit dem älter werden öfter einmal spürt. Man meint damit natürlich die guten Tage, die spaßigen Tage die einem im Gedächtnis geblieben sind. Die vielen guten Momente. Das Problem am jung sein ist das man keinerlei Erfahrung mit der Welt hat, man ist wunderbar ignorant für all die Probleme da draußen und irgendwie läuft der Tag schon vor sich hin. Dinge die man später sofort als Problem sehen würde kann man ersteinmal machen weil vorher nicht abzusehen ist das hier irgendetwas schief gehen könnte. Hach, wie schön. Ich hatte nie eine feste Clique oder irgendeine feste Peergroup, aber ich könnte mir durchaus vorstellen das so etwas sehr angenehm sein kann. Wenn man eine gute Routine hat und es einen so vor kommt als würden die Tage nie vergehen. So zum Beispiel Maki von den Hipstern, sie hat ihre Tanzgruppe und ein gemeinsames Ziel. Aber der Tag an dem sie von Haruka Sawamura besiegt wurden werden sie so schnell nicht vergessen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 16.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #108
+
+* Titel: `Yakuza 5 - #108 - Aya, die House Queen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir gehen langsam aber sich die schwärmenden Sätze für die gute Jugendzeit aus. Ich werde da immer ziemlich nostalgisch aber wer wird das nicht? Einige Leute, das ist wer, ich kenne da so ein paar Leute die fest im Hier und Jetzt leben, für solche Menschen sind wahrscheinlich solche Geschichten nichts. Ich persönlich genieße das sehr, auch wenn die Repräsentation in Life is Strange oder ähnliche Spielen ein wenig besser ist. Harukas Slice of Life ist ein wenig weniger spannend, eventuell aber auch weil ich mit diesem ganzen Tanzen und Idol Leben so wenig anfangen kann. Ich bin einfach zynisch. Das ganze Umhertanzen erscheint mir halt verdorben zu sein, einfach weil man am Ende in einer Industrie arbeitet die sich kein Stück für den Tanz interessiert oder auch nur den Ansatz der Kunst. Letztendlich ist alles durch kommerzialisiert und weil dieser Gegensatz so groß zu den Ambitionen und Träumen der freien Tänzer ist lässt es mich eher hohl zurück. Zu schade das wir Ayas Träume vom House Tanzen je unterbrechen müssen, einfach weil Haruka zu gut ist. Andererseits ist sie ja bereits ein Champion der Industrie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 16, Aufnahme vom 16.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #109
+
+* Titel: `Yakuza 5 - #109 - ein ganz normales Oberstufenmädchen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bei all dem Schwärmen für die einfachen Tage und welch interessante Leben die freien Tänzer haben dürfen wir aber nicht vergessen das Haruka ihr Leben bereits einen Einschlag gegeben hat den sie vielleicht später bereuen wird. Etwas das auch nur von risikoaffinen Teenager entschieden werden kann. Langweilige Erwachsene würden das Langzeitrisiko sehen und sich viel häufiger gegen eine Karriere in den Medien entscheiden. Und das Machtgefälle in das man sich begibt in dem man als Idol unter Vertrag geht ist quasi vernichtend. Dadurch das sie auf Schulbildung verzichtet und ihr Lebenslauf ein dickes Loch erhält hat sie quasi keine Alternativen sich von ihren Vertragspartner zu trennen, und das ist ein riesiges Problem. Als Frau kommt dann auch noch die Erwartungshaltung der japanischen Gesellschaft hinzu, auch wenn ich ihr nicht einmal absehen kann wie hier die Möglichkeiten von Ex-Idolen aussehen. Daher ist es wohl umso wichtiger die wenigen Tage der Normalität zu feiern. Zu schade nur wenn das die anderen Leute nicht so sehen und sich lieber in der reflektierten Sonne schmücken wollen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 23.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

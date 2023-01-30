@@ -678,6 +678,108 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
+##### #40
+
+* Titel: `Elden Ring Coop - #40 - Nokron, Stadt am Siofra [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir gar nicht so recht sicher ob Nokron wirklich direkt am Siofra liegt, an sich ist das Wasser zwar irgendwo dort unten aber bei einer ganzen Stadt die unter der Erde liegt kann man wohl kaum davon reden das es eine Stadt an einem Fluß ist. Solche Designationen sind wohl eher für oberirdische und mehr 2-Dimensionale Orte reserviert. Wie dem aber auch sei, Nokron ist und wir erkunden den Ort, schon weil es hier angeblich eine dunkle Klinge gibt die wir noch für etwas gebrauchen können und werden. Aber eines nach dem Anderen. Zu erst müssen wir klettern, erkunden und rätseln. Und dann eventuell uns selbst gegenüber stehen.
+  
+  Stichworte: Nokron, die ewige Stadt, Imitator-Träne, Heilighornland, Badewasser, Parry King, Tapferer Gargoyl
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 11, Aufnahme vom 06.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #41
+
+* Titel: `Elden Ring Coop - #41 - heilige Städte der Nacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da sind wir wieder, bei der großen Frage was eigentlich heilig definiert. Sicher ist das es definitiv nicht dadurch festgelegt wird das das Licht besonders hell erscheint. Weil der Ort den wir heute betreten kann man wirklich nichts vom Licht zu sprechen. Stattdessen scheint man hier eher die Dunkelheit zu verehren und das ist in Ordnung. Wir verurteilen das in keiner Weise. Schließlich sagt man ja auch das der Tod der große Gleichmacher ist und tatsächlich scheint man auch den Tod hier unten an zu beten. Insofern ist es ja auch nicht verwunderlicher das wir den Glauben so gleich annehmen und versuchen uns ein wenig am Praktikum zu versuchen. Außerdem besuchen wir erneut das Heilighornland, eventuell ist es auch der gleiche Ort. So richtig klar geht das alles nicht hervor. Letztendlich erwartet uns dann sogar noch eine Belohnung von unserer guten Ranni die wir aber wohl nie wieder sehen werden.
+  
+  Stichworte: Nokron, Gargoyls, Wasserfall-Sarg, Königlicher Ahnengeist, Heilighornland, heilige Städte der Nacht, Rannis Geschenk, Lehrsaal
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 11, Aufnahme vom 06.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #42
+
+* Titel: `Elden Ring Coop - #42 - Tiefen von Nokstella [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen wohl nicht umhin einen Keller nach den anderen zu erkunden, aber wenn man die ganze Sache nüchtern betrachtet gibt es auch nicht all zu viele Alternativen. Entweder wir gondeln in irgendwelchen Kellern umher oder springen über die Dächer von Burgen. Die einzige Alternative wäre es noch über freie Landschaften zu reiten aber das haben wir ja vorher schon gemacht und da langweilten wir uns ja schon ein wenig wenn es nicht unbedingt komische Bosse gibt die uns volles Pfund aufs Maul geben wollen. Was also bleibt ist wirklich nur von Höhle zu Höhle zu laufen. Oder aber unterirdische Städte zu besuchen. Warum es nicht nur eine sondern gleich drei unterirdische Orte die nicht näher benannt wurden gibt kann ich nicht erklären weil ich einfach nicht sattelfest genug in der Lore bin. Nokstella ist auf jeden Fall nach Nokron der zweite Ort dieser Art und hier scheint man ein wenig mit den Quecksilber Schleimen ausgerastet zu sein. Aber all das hält uns ja auch nicht den ganzen Tag auf, wir ändern also unsere Laufrichtung und schauen uns lieber noch einmal die verdrehte Welt des carianischen Lehrsaals an.
+  
+  Stichworte: Carianischer Lehrsaal, Präzeptorin Miriam, Götterskalpe, Heiliger Turm von Liurnia, Ainsel, Quecksilber Tränen, Ameisen, Nokstella
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 09.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #43
+
+* Titel: `Elden Ring Coop - #43 - DER Fäulnissee [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So mancher Dark Souls Veteran erinnert sich mit einem gewissen Wehmut an den ersten Besuch in der guten alten Schandstadt. So ein schöner Ort mit einer Menge Gift. Einen Ort den man eigentlich nicht mehr missen möchte. Einen Ort voller Verzweiflung, Toxin und wunderschöner, angenehmer Erinnerungen. Das wissen auch die Entwickler von Fromsoft und haben sich gedacht das sie in ihrem neusten Magnus Opus nicht nur einen Gift oder Toxinsee haben wollen sondern ganz dolle viele. Und weil das noch nicht gereicht hat hat man sich Fäulnis ausgedacht, das ist quasi genau wie Gift nur das es rot ist. Und das man einen ganzen unterirdischen See damit füllen kann. Warum genau der Fäulnissee überhaupt existiert vermag ich gar nicht zu sagne aber wahrscheinlich hat Malenia damit zu tun, als Ursprung des Ganzen kann man sich eigentlich nicht vorstellen das sie nicht dafür verantwortlich ist. Wir werfen uns also in Schale, bewaffnen uns mit unseren besten Anrufungen und gehen auf Erkundungstour.
+  
+  Stichworte: Nokstella, die ewige Stadt, Rollkugel, Fäulnissee, Flamme Heile Mich, Drachenblutsoldaten, verwesender Baumgeist
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 09.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #44
+
+* Titel: `Elden Ring Coop - #44 - Mondlichtalter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Trotz einiger Wiedrigkeiten und der Tatsache das der COOP Mod offensichtlich nicht dafür ausgelegt ist NPC Quests sauber runter zu spielen haben wir es am Ende ja doch irgendwie hinbekommen. Und deshalb stehen wir jetzt hier, wir hauen noch kurz Astel um, aber für Krieger unseres Kalibers ist das natürlich überhaupt gar kein Problem und schon stehen wir oben drauf, beim Mondlichtaltar. Ein Ort der mir übrigens einige Nerven gekostet hat weil ich damals auf meinen einsamen Solo Abenteuern wirklich sehr gefragt habe wie zur Hölle man da oben auf diesen Felsbrocken rauf kommt. Das man durch eine unterirdische Höhle muss, dann ein Sternenwesen erschlagen und noch irgendwoher ein geheimes Siegel finden muss um dann eine magische Barriere zu überwinden war irgendwie von unten nicht absehbar. Jetzt sind wir aber da, geben Adula auf den Kopp und schauen uns dann noch an was der Schildkrötenturm für uns im Peto hat. Alles eine runde Sache eigentlich, so rund wie ein Siegelgefängnis...
+  
+  Stichworte: Astel, Ausgeburt des Abgrundes, Dunkelmondring, Mondlichtaltar, Schimmersteindrache, Adula, Ranni, Chelonas Turm, Alecto, Oberhaupt der schwarzen Klinge
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 09.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #45
+
+* Titel: `Elden Ring Coop - #45 - Badewasser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist endlich soweit, wir lassen das Badewasser ein! Hintergrund ist der das es ein mit Weisheit skalierendes Stück Ausrüstung gibt das wir im oberen Siofra geborgen haben und irgendwie mit dem Ahnenhorn zusammenhängt das für die meisten Kämpfe völlig sinnlos ist und auch nicht ganz zu unserem sonstigen Stil passt. Außerdem würden uns die meisten Gegner auch einfach mit zwei Schlag fertig machen, aber wir kommen jetzt nach Altus. Sachlage ist die das wir ein wenig zu viel Zeit in Caelid verbracht haben, kaum gestorben sind und dementsprechend stark sind. Das Balancing kann in einem derart offenen Spiel nicht immer perfekt sein und so kommt es das wir manchmal zu stark und manchmal zu schwach sind. Heute sind wir ein wenig zu stark für eine Tricia und ihre Bestie. Aber das ist auch der ideale Zeitpunkt einmal richtig das Badewasser einzugießen. Wir machen heute auch noch eine Menge anderen Quatsch, aber das ist nun wirklich nicht wichtig.
+  
+  Stichworte: Alecto, Ritter des großen Gefäßes, Entstellte Katakomben, Tricia, Badewasser, Ruinen des Parfümeurs, Nekromant Garris, Höhle der Weisen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 09.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

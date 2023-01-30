@@ -1603,6 +1603,96 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #110
+
+* Titel: `Yakuza 5 - #110 - Scherben eines Traumes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Harukas Traum ist immer noch intakt, wie soll sich das auch ändern wenn wir die Hauptquest nicht weiterspielen? Es geht heute nämlich um den Traum einer anderen Person. Tatsächlich ist es ja so das eigentlich fast jede Person die mit Haruka in einem professionellen Konkurrenzverhältnis steht früher oder später ein Problem haben wird. Wir sind aktuell der Protagonist und als solcher müssen wir ganz gut gewinnen um irgendwie den Anforderungen und Erwartungen gerecht zu werden. Also gewinnen wir, ganz doll viel. Leider bleiben dabei einige Leute zurück. Leute die sich eigentlich viel Mühe gegeben haben und in einer fairen Welt hätten wohl auch sie Erfolg, aber haben sie ihn dann auch? Wahrscheinlich nicht, das Leben ist unfair und so ist auch die Existenz in einem Spiel in dem man nicht die Hauptperson ist. Aber noch ist nicht aller Tage abend, vielleicht können wir unserer besten Freundin doch noch adäquat helfen. Irgendwie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 23.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #111
+
+* Titel: `Yakuza 5 - #111 - Tanz Kampf Gipfeltreffen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin immer wieder überrascht für welches Nischenhobby, Tätigkeit, Fachgruppe oder irgendwie anders definierte Randerscheinung offizielle Kongresse und regelmäßige Treffen existieren. Das ist nicht nur der Zwergkaninchenzüchterverein, nein, wir haben es eher mit dem Zwergkaninchen die einen kleinen braunen Fleck über den linken Auge haben Verein zu tun. Absolut also keine Überraschung das es natürlich ein Treffen für verschiedene Tanzarten gibt. Was mich allerdings ein wenig mehr verwirrt ist das die Räumlichkeiten doch ziemlich winzig sind. Da hätte ich irgendwie etwas Größeres erwartet. Aber vielleicht liegt es auch einfach daran das das Wort Kongress bzw. Summit von mir leicht falsch übersetzt wurde. Das ist natürlich immer eine Möglichkeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 23.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #112
+
+* Titel: `Yakuza 5 - #112 - Comedy Versuche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir sicher das es Agenturen gar nicht einmal so gut finden wenn sich Idols irgendwelche Sidehussles anlachen und darin am Ende gut sind. Normalerweise sollte das aber kein Problem sein, wenn man schon das Dating verbietet aber das oft gar nicht einmal so relevant ist weil eh keine Zeit dafür ist welche Gefahr gibt es dann schon das unser Lieblingsidol noch nebenbei einen Töpferkurs anfängt? Machen wir ja heute auch nicht, heute gehen wir ein wenig Comedy machen, etwas das zeitmäßig auch nur in dem seltsamen Universum möglich ist in dem wir einen Tanzkurs, diverse Straßentänze und eine komplette Freundesdramageschichte in der Zeit zwischen Aufstehen und "ich muss zum Tanzlehrgang" quetschen können. Ich kenne das eigentlich nur von langweiligen Samstagmorgen als ich ungefähr 6 war, viel zu früh wach und meine Eltern noch mindestens 4 Stunden geschlafen haben, damals ist die Zeit einfach nicht vergangen. Harukas Leben fühlt sich eher so an als sollte viel mehr Zeit vergehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 23.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### 113
+
+* Titel: `Yakuza 5 - #113 - Comedy Expertin Haruka [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode haben wir grade einmal unsere Zehen in das Tiefe Wasser des Humors getaucht, aber heute sind wir quasi Profi. An sich muss man Haruka aber zu Gute halten das sie von Anfang an schon ein Naturtalent in dieser ganzen Manzai Geschichte war. Sie verhält sich auf der Bühne, inklusive der ganzen körperlichen den-Typen-hauen Geschichte wie ein echter Comedian, fast so als hätte sie ihre ganze Jugend damit verbracht entsprechende Schauspiele betrachtet. Etwas bemerkenswert ist das die gute eigentlich erst 16 Jahre alt ist. Aber andererseits ist das auch nicht mehr das Alter in dem man blauäugige Gutgläubigkeit und Unschuld in allen Belangen erwarten kann. Ob es der Agentur aber gefällt wenn wir jetzt das Idol sein effektiv jederzeit verlassen können weil man sich quasi ganz woanders bereits etabliert hat. Was wohl das Mindestalter für selbstständig agierende Moderatorinnen ist? Ab welchem Alter wird man wohl im japanischen Fernsehen als Showmaster ernst genommen oder ist diese Profession den Männern vor enthalten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 23.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #114
+
+* Titel: `Yakuza 5 - #114 - Ulala, das Top-Idol [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir alle haben Vorurteile. Das ist das was Menschen ausmacht. Um in halbwegs akzeptabler Zeit auf Situationen zu reagieren braucht es einfach ein Konzept, Schubladen mit denen man etwas Neues oder Unbekanntes einordnen kann. Quasi eine kleine Vorauswahl, diese Vorurteile können sich unter Umständen als falsch herausstellen und sogar hinderlich sein weil man sie aus einer schlechten Quelle bezogen hat. Und dann wäre da auch noch die kleine Sache mit dem Anwendungsbereich, Erfahrungen die man ein ganzes Leben in der kleinen Heimatstadt gemacht hat können sich plötzlich als falsch erweisen wenn man in eine Großstadt zieht, oder sogar das eigene Land verlässt. Feste Annahmen und Grenzwerte für soziale Interaktionen finden auf einmal keine Anwendung mehr weil neue Leute in ganz anderen Parametern agieren. Immerhin gibt es auch hier und dort Konstanten. Zum Beispiel der Umgang von dicken Leuten mit zu viel Selbstbewusstsein. Das Thema ist komplex, aber wenn man anfängt das eigene Übergewicht mit "mehrgewichtig" zu umschreiben weiß man das man ein Problem hat. Sich gesund zu ernähren ist nicht einfach und es kann durchaus Gründe geben ärgerlich viel Gewicht zu zu legen, aber diese sind selten, viel seltener als man glauben möchte. Und selbst dann ist es kein Grund von sich selbst als etwas Besseres zu denken nur weil man dick ist. Ich vermute hier ein Problem mit dem eigenen Selbstwertgefühl, und auch das ist verständlich. Aber wenn das so weit durchschlägt das man blind für die Realität wird ist an der Gesellschaft einen Spiegel vor zu halten..obwohl das auch wieder nur zu einer Gegenbewegung führen könnte. Oder aber wir lassen die Physik ihr Ding machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 23.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #115
+
+* Titel: `Yakuza 5 - #115 - Idol-Restauranttester [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man kann über die restlichen Idols sagen was man will, aber Haruka ist auf jeden Fall außerordentlich begabt was verschiedene bunte Jobs angeht. Das stellt dann aber auch die Frage ob nicht relativ viele Leute quasi ein Talent für alles ein wenig haben aber nie die Gelegenheit dazu haben. Oder einfach nie auch nur in die Nähe einer entsprechenden Situation kommen. Wie dem aber auch sei, heute ist sie tatsächlich nur mittelmäßig, wahrscheinlich auch weil ich am Steuer bin. Ich möchte zu meiner Verteidigung aber vor bringen das die Auswahlmöglichkeiten einen nur sehr eingeschränkten Ausblick auf die später gesagten Worte gegeben haben. Aber hey, dank ihrer großartigen Persönlichkeit sind die Leute am Ende dann doch irgendwie zufrieden. Das muss das Haruka Lächeln(tm) sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 17, Aufnahme vom 23.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1612,3 +1702,4 @@
   ```markdown
   Hier
   ```
+

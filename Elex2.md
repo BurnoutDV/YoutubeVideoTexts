@@ -855,6 +855,96 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #57
+
+* Titel: `Elex 2 - #57 - Spaziergang mit Zarik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mal wieder raus aufs Land zu gehen war ja eigentlich schon länger unser Traum. Das letzte Mal als wir einen entspannten Abend hatten viel ein ziemlich großes Ding auf unser Haus und seit dem ist eigentlich nur noch Stress. Da klingt das Angebot von Zarik mit ihm ein wenig raus spazieren zu gehen doch eigentlich gar nicht so schlecht oder? Und so kommt es das wir heute einen sehr langen Weg hinaus in die Welt gehen können. Leider sind unsere beiden Alb-Reisegefährten nicht sehr gespräch und durchaus wortkark. Das macht es ein wenig leichter die Natur zu genießen aber die Struktur der Reise selbst ist dadurch auch ein wenig Regide. Niemand hier nimmt sich die Zeit die schönen Dinge im Leben zu genießen, oder dem plötzlichen Todesfall einiger Kleriker-Scouts nach zu forschen die anscheinend auf halben Weg zum Lager der Albs ein jähes Ende gefunden haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 17.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #58
+
+* Titel: `Elex 2 - #58 - U-Bahntunnel Banditen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kritisiere wieder. Folgendes Problem. Die Welt von Elex hat offensichtlich ein fiskalpolitisches Ereignis hinter sich hat sich dann aber wieder relativ gut erholt, erstaunlich schnell sogar. Große Teile der alten Zivilisation liegen nur noch in Ruinen, öffentlicher Nahverkehr liegt offensichtlich brach, gewaltige Hochhäuser sind nur noch Gerippe und auch kleinere Anlagen sind bis auf wenige Seitenmauern zerfallen. Von ehemaliger Technik existiert nur partiell etwas, selbst Einrichtungen in tiefen Ecken sind bis zur Unerkennbarkeit zerfallen. Es wäre für die Überlebenden also völlig unmöglich gewesen alles neu zu starten einfach weil alles kaputt war. Außer dieser eine U-Bahn Tunnel den wir heute betreten. Sehen wir jetzt einfach mal davon ab das wir etwas betreten das aussieht wie eine innerstädtische Haltestelle die aber mitten im Nirgendwo, weit weg von anderen Gebäuden gelegen. Schlimmer noch, offensichtlich funktioniert die Belüftung noch oder irgendwo muss ein mächtiger Kamineffekt für Zugluft sorgen, anders kann ich wirklich nicht empfehlen in tiefen Höhle ein Nachtlager zu errichten. So oder so übrigens nicht die beste Position. Etwaige Feinden könnten die Höhlen mit Leichtigkeit ausräuchern. Die Anlage ist einfach zu groß dafür.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 17.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #59
+
+* Titel: `Elex 2 - #59 - die echten Outlaws [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erinnern uns das damals im ersten Teil, also vor mittlerweile einigen Jahren die Outlaws im Fort unter der guten Herrschaft von Baxter gelebt haben. Das hat sich mit der Invasion der Berserker geändert, wie genau alles abgelaufen ist kann man im Nachhinein nicht mehr sagen, es scheint auch generell niemand wirklich daran interessiert zu sein die Geschichte nieder zu schreiben und selbst wenn könnte man wohl den Chroniken der einzelnen Fraktionen nur partiell glauben und die ganze Wahrheit wird wohl einfach im Nebel der Zeit verschwinden. Zum Glück sind die Details aber auch ein wenig nebensächlich, wichtig ist das es sie noch gibt, die echten Outlaws. Die Leute ohne Regeln, die Freigeister, Halsabschneider und moralarme Diebe. Eine unmögliche Gesellschaft. Es ist nicht unmöglich einen Stamm zu haben der sich auf Überfalltaktiken verlässt und zumindest teilweise das sesshafte Leben mit den Produkten anderer Völker alimentiert. So etwas kam historisch durchaus einige Male vor. Aber wen genau überfallen die Outlaws bitte? Die Kleriker definitiv nicht, vor den Albs sind sie unterlegen und die Berserker haben sie anscheinend nicht standhalten können. Die Gesellschaft der Outlaws scheint inhärent unproduktiv zu sein wenn es nicht um Schnaps zu gehen. Klar, hier und dort gibt es ein paar Händler aber wie genau funktioniert die Gesellschaft? Es ist zwar schön und gut sich ein paar Punks aber als Gemeinschaft vorzustellen, aber das skaliert halt einfach nicht. Einige wenige die sich parasitär von der sonstigen Gesellschaft mitschleppen lassen, okay. Aber das ist dann halt eine Gegenströmung, aber wenn das dann die Mehrheit ist, dann kollabiert doch alles. Oder sind die wenigen Outlaws die was schaffen so produktiv das sie alle tragen können. Oder gibt es unbekannte Völker hinter den Bergen die als Versorger herhalten?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 24.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #60
+
+* Titel: `Elex 2 - #60 - ohne Stadtwache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gesellschaft ist ein echt schwieriges Konzept. Und Komplex. Einfache Lösungen neigen ärgerlicherweise nicht zu funktionieren, es sei den jemand hat vorher alles kompliziert im Hintergrund vorbereitet damit es dann doch funktioniert aber die Wahrheit ist dann natürlich immer noch nicht so einfach. Das Konzept keine Regeln und keine Polizei zu haben klappt eventuell für Jugendliche aber die traurige Wahrheit ist das Menschen in ihrer natürlichen Varietät einen gewissen Gegendruck brauchen. Genau wie das Konzept keine Stadtwache zu haben und dann zu hoffen das die Gesellschaft noch irgendwie funktioniert. Tatsächlich hat der Krater sogar so etwas wie eine Stadtwache, nur unter anderem Namen und sie setzen nicht so richtig alle Gesetze durch die natürlich nirgendwo niedergeschrieben sind aber ein gewisses Konzept an Ordnung existiert trotzdem. Das es für Händler keinen Schutz gibt und der gewöhnliche Gemüse-Dealer damit rechnen muss bei Gelegenheit überfallen und erpresst zu werden wird sich bestimmt sehr gesund auf die gesamtwirtschaftliche Lage der Ansiedlung auswirken. Eigentlich ist es überhaupt ein Wunder das man als Outlaw mehr als eine Mahlzeit am Tag hat, aber anscheinend gibt es ja gewaltige Nahrungsspeicher irgendwo da draußen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 24.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #61
+
+* Titel: `Elex 2 - #61 - der Schieberdistrikt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja wir sind wieder hier, nachdem ich schon so viel Freude daran hatte die Landkarte zu lesen die eigentlich nicht so wirklich irgendeine Unterteilung hat oder uns irgendjemand überhaupt in die Regionen eingeführt hat erfahren wir jetzt auch das die Stadt im Krater anscheinend auch Distrikte hat. Ich bin hier sehr großzügig, es handelt sich bestenfalls um eine Ansammlung von Hütten, nicht eine Stadt. Und dennoch will sie unterteilt sein. Ärgerlicherweise sieht man davon absolut gar nichts und das Einzige was wir überhaupt erkennen können ist eine Ansammlung von Wellblechhütten die im nächsten Regen definitiv keinen Schutz bieten. Die Gesellschaftsstruktur der Outlaws ergibt absolut keinen Sinn und so tun es auch ihre Benennungschemen für Stadtteile nicht. Der Schieberdistrikt ist übrigens das Händlerviertel nur anders benannt. Das Wort "Distrikt" erweckt in mir auch die Vorstellung eines größeren Ortes als Viertel, aber realistisch gesehen sind es vier Hütten. Wer hier überhaupt handelt und wie man von "Schieben" sprechen kann wenn es keine Gesetze gibt ist mir übrigens auch nicht ganz klar. Ich nehme erneut an das die "Rule of Cool" erneut angewandt wurde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 24.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #62
+
+* Titel: `Elex 2 - #62 - Hector von den Krallen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Elex 1 ist immer noch lange her und mit jedem Tag ist es ein wenig länger. Etwas an das ich mich allerdings erinnern kann ist das wir in der Kuppelstadt der Kleriker zwischenzeitlich irgendwelchen Dieben geholfen haben den Ort zu verlassen um dann eine neues Leben jenseits der Berge zu beginnen. Das fand ich deswegen interessant weil "jenseits der Berge" impliziert das wir wirklich nur einen kleinen Ausschnitt der Welt sehen und dort draußen noch einige interessante Dinge sind die zur Not die Welt beeinflussen können ohne das man direkt die Deus Ex Machina anwerfen muss. Mit den Alieninvasoren ist das natürlich dennoch passiert aber es wäre nicht strikt notwendig gewesen. Einer der Diebe, sie hießen anscheinend Krallen, war Hector. Immerhin bleibt seine Dankbarkeit für geleistete Dienste noch ein wenig erhalten und er verrät uns sogar seine genialen Bereicherungspläne. Das kann man immerhin an den Outlaws schätzen. In der Regel sind sie ziemlich ehrlich und wenn nicht das, dann direkt. Und mit ehrlich meine ich natürlich das sie Halsabschneider und nur auf ihren eigenen Vorteil hinaus sind aber dennoch einfach die Wahrheit raus hauen wenn sie sich überlegen fühlen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 24.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

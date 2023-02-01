@@ -780,6 +780,74 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
+##### #46
+
+* Titel: `Elden Ring Coop - #46 - der Vulkanstrom [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute betreten wir einen wichtige Ort, eigentlich sogar viele wichtige Orte. Einer davon ist natürlich die Ruinen von Wyndham, wir und ich insbesondere wissen nicht so recht was das für eine Ort war, wir kennen den Namen. Das ist eine Menge wenn man bedenkt das wir keine Namen hören, keine Geschichten, keine Taverne betreten in denen man sich Geistergeschichten austauscht oder überhaupt irgendwelche Dinge tut um die Welt ein wenig mit Tiefe anzureichen. Alles was wir haben ist Schrift aus dem Nichts die uns über die exakte Bezeichnung des Ortes im kollektiven Gedächtnis informiert. Offensichtlich sind wir nicht Teil davon und kriegen alles nur stückchenweise mitgeteilt. Viel wichtiger ist aber das wir den Vulkanstrom entlang reiten, dort lassen sich interessante Dinge finden. Wie zum Beispiel Vulkanstein aus dem man wiederum hervorragende Wurfgegenstände bauen kann. Eine ressource die außerordentlich nützlich sein kann. Und auch ist. Dann gehen wir weiter und machen im Schnelldurchlauf eine Höhle und eine Festung. Beides nicht ganz so wichtig fürchte ich.
+  
+  Stichworte: Altus, Tibiaseefahrer, Ruinen von Wyndham, Wachhund des Erdenbaumbegräbnisses, Vulkanstrom, Vulkanstein, Donnerstromhöhle, Spross der Fäulnis, Festung Laiidd
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 15.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #47
+
+* Titel: `Elden Ring Coop - #47 - Helden von Gelmir [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich es nicht besser wüsste würde ich ja glatt behaupten das die Zeit der Helden schon vorbei ist und wir wieder einmal zu spät kommen. Obwohl, irgendwie weiß ich es ja nicht besser. Die Welt befindet sich in einem seltsamen Zustand der Stabilität. Wenn man sich eine abklingende Amplitude vorstellt, sagen wir von einer angeschlagenene Saite, dann sind wir ganz am Ende. Dinge die sich verändern tun das nur noch minimal, alles Andere ist wie es ist. Raya Lucaria eine Ruine, Radahn ewig rastlos und doch zirkular. Fäulnis an einer Stelle und ausgebreitet. Irgendwie haben Leute noch Pläne aber tatsächlich etwas tun können sie nicht, Dinge die eben passiert sind könnten genauso gut schon hunderte Jahre vergangen sein, der Wechsel von Tag und Nacht bestimmt nur das Licht macht aber anscheinend keinen großen Unterschied für die restliche Welt. Und so verhält es sich auch mit den Helden, wir finden ihre Gräber und manchmal auch ihre Gefängnisse, was wir aber nicht finden ist sie an der Seite der wichtige Leute. Es gab scheinbar einmal Helden die Dinge versucht haben, und dann haben sie es nicht mehr getan.
+  
+  Stichworte: Einsiedlerdorf, Königin Maggie, Grab des Helden von Gelmir, Streitwagen, Azor, heldenhafter roter Wold
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 15.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #48
+
+* Titel: `Elden Ring Coop - #48 - Im Auftrag von Herrin Tanith [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mord ist falsch und das Blut der Opfer zu trinken hilft auch überhaupt nicht wenn man am Ende die eigenen Taten vor einem zivilen Gericht verteidigen möchte. Allerdings haben wir einen kleinen Datenpunkt, die Welt befindet sich im Stillstand. Wenn es etwas so wie eine Zivilgesellschaft gibt dann befindet sie sich nicht in den Zwischenlanden und auch nicht in Farum Azula (das kann ich schon einmal sagen). Wir müssten also nur ein Militärgericht fürchten, und das geht davon aus das grundlegendes Rechtswesen überhaupt schon entwickelt und etabliert wurde. Viel spricht dafür das dies nicht der Fall ist. Lange Geschichte kurz, die Einzigen die wir fürchten müssen wenn wir gegen geschriebene und ungeschriebene Regeln der Gesellschaft verstoßen sind eigentlich nur die verurteilenden Blicke anderer Befleckter. Oder auch nicht, wenn wir schnell genug mit dem Schwert sind und ihnen die Augen ausstechen. Und deshalb sind wir heute im Auftrag von Tanith unterwegs, nennen wir sie für den Moment "Herrin" damit sie zufrieden ist, aber an sich ist ihr Tod eigentlich schon beschlossene Sache, wir warten nur noch auf den richtigen Zeitpunkt.
+  
+  Stichworte: Gelmir, Haus Vulkan, Istvan, Königin Margot, ausgewachsene Sternfallbestie, Krummfinger, Rekusanten, Spötterzunge
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 15.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #49
+
+* Titel: `Elden Ring Coop - #49 - unterirdische Inquisitionskammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es macht enorm Spaß ein Spiel wie Elden Ring zu Zweit zu spielen, und am Ende die Dinge nur einmal machen zu müssen. Unter anderem ist dem so weil man zu Zweit einfach viel mehr Orte kennt. Eine Welt so groß und komplex wie die Zwischenlande laden einfach nur dazu ein das man Dinge vergisst oder sogar nicht einmal kennt weil man sie beim ersten Mal nicht betreten hat und daher auch nichts von ihnen weiß. Dank geteiltem Gedächtnis wissen wir aber gemeinsam einfach mehr. Heute erzähle ich zum Beispiel die Geschichte von der unterirdischen Inquisitionskammer. Es handelt sich um einen verbotenen Ort und ich frage mich nicht auch ob man von hier nicht sogar direkt die Innereien des Hauses Vulkan betreten könnte. Machen wir aber nicht, wir gehen schön die vorgesehenen Wege ab und erkunden die Landschaft systematisch. Wir werden noch rechtzeitig genug den Rest des Hauses sehen, das kann ich versichern. Wir kennen schließlich den Weg.
+  
+  Stichworte: Baumgeist mit Geschwüren, Pfad der Weisen, Anastasie, Entführungsjungfer, Haus Vulkan, Inquisitionskammer, Steingräbertroll
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 13, Aufnahme vom 19.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

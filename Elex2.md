@@ -945,6 +945,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #63
+
+* Titel: `Elex 2 - #63 - 50 Kaffeebohnen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn Aufträge wirklich so unfassbar dämlich sind das sie eigentlich nur als Scherz gemeint sind dann gehe ich stark davon aus das das Spiel mich auf halben Weg durch den Auftrag unterbricht und mich wissen lässt das ich das eigentliche Missionsziel gar nicht erfüllen muss. Heute sollen wir Vorräte für irgendeinen Dude besorgen der scheinbar Ärger mit der örtlichen Kopfgeldjägergilde hat. Soweit so gut, wir helfen ja immer wieder gerne, auch den Outlaws. Allerdings stellt sich relativ schnell heraus das er das ernst meint. Die restlichen Sachen sind schnell besorgt aber es stellt sich heraus das nicht 50 Kaffeebohnen sondern 50 Sack Kaffeebohnen bestellt werden. Wo auch immer wir die auftreiben sollen. Generell fragt sich allerdings wo überhaupt Kaffee her kommen soll. Die Pflanze wächst offensichtlich nicht überall, eine Rösterei habe ich bisher nicht gesehen und Transport von Gütern über weite Distanzen scheint in völliger Abwesenheit von Transportmittel außer bei den Albs auch eher unwahrscheinlich zu sein. Woher zur Hölle kommt der Kaffee? Und wo soll ich den herkriegen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 24.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #64
+
+* Titel: `Elex 2 - #64 - Viper der Planer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab in der Vergangenheit, und damit meine ich natürlich die Beschreibung der letzten Episode, festgestellt das die Outlaws seltsam ehrlich sind. Natürlich hintergehen die einen, natürlich versuchen die nur auf ihren eigenen Vorteil aus zu sein aber auf der anderen Seite scheinen sie es auch sehr darauf anzulegen vorher Bescheid zu sagen wenn sie einen hereinlegen. Heutiger Studienpunkt ist dann ein Kerl namens Viper, der ist anscheinend der große Architekt hinter allem was wir so beobachtet haben. Besser noch, Viper war scheinbar in der Lage eine Menge Dinge zu organisieren ohne dabei selber in Erscheinung zu treten. Und jetzt will er sich auf einmal mit uns persönlich treffen. Nur um uns dann mitzuteilen das er uns loswerden will. Das erscheint in einer Welt in der ein einzelneer Elexetor ganze Städte in Schutt und Asche legen kann ein wenig mutig. Wir sind jetzt zwar nicht direkt einer aber die Quicksavetaste sitzt mir schon locker, und ads missbrauche ich natürlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 24.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

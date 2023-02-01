@@ -1693,6 +1693,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #116
+
+* Titel: `Yakuza 5 - #116 - Fanpost aus Okinawa [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hey, es ist mal wieder soweit ich kann einen Ich-Bezug herstellen und Perspektive herstellen. Oder auch irgendwie nicht. Wenn du das hier liest bist du einer von vielleicht fünf, eher weniger Personen die diese Beschreibungen überhaupt liest. Außerdem bin ich jetzt schon weniger "beliebt" als die virtuelle Haruka es ist. Sie hat immerhin einige tausend Fans, vielleicht sogar noch wesentlich mehr Leute die sie kennen. Der Anteil an Leuten die dann wirklich Fanpost schreiben oder sich zu einem bestimmten Thema melden ist auf jeden Fall nicht so hoch und doch kriegt sie ja sogar Geschenke. Meine "Fanpost" sind Kommentare unter Videos die auf das eingehen was ich gesagt habe oder die Art und Weise wie ich spiele. Ich mache mir deswegen übrigens oft Gedanken, auch wenn es oft einfach ins Nichts geht, ich erkläre meine Taten, erläutere Gedankengegänge und letztendlich weiß ich nie ob der Abyss lauscht. All diese Probleme hat Haruka nicht wenn sie direkte Fanpost beantwortet, sie kann sich sicher sein das die Leute ihr an den metaphorischen Lippen hängen. Und das ist doch irgendwie ein schönes Gefühl. Andererseits ist das auch problematisch, die falschen Worte können echte Konsequenzen haben die man nur sehr schwer vorhersehen kann. Eine zu vorsichtige Antwort kann aber wiederum als künstlich wahrgenommen werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 30.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #117
+
+* Titel: `Yakuza 5 - #117 - Sprachtraining [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sprache ist wichtig, Sprache definiert wer wir sind, wie wir Denken und was wir vorhaben. Man sagt sich viel darüber. Unlängst (viele Monde her) las ich die Theorie das die Art und Weise wie Deutschsprachler denken anders als die von beispielsweise englischsprachigen Menschen ist weil man im Deutschen schon vorher wissen muss wie ein Satz endet und daher gezwungen ist den Mund erst zu öffnen wenn man eine Strategie hat. Währenddessen kann man im Englischen erst einmal anfangen und dann schauen wo man landet. Ich glaube das ist ein wenig viel Attributierung zu einem wesentlich größeren Konzept, aber als Grundgedanken bestimmt interessant. Heute lernen wir mit Haruka wie man richtiges Japanisch spricht, bzw. weil wir ja eine englische Übersetzung vor uns haben, lernen wir wie man einen korrekten englischen Satz formt, und ich gebe zu das wir hier das Ende meiner Fähigkeiten erreicht haben, ich bin einfach nicht gut genug darin um Nuancen zu erkennen, ein Großteil meiner Sprachbildung fand im Internet statt, formelle Regeln sind für mich nur ein Nachgedanke.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 30.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1702,4 +1732,3 @@
   ```markdown
   Hier
   ```
-

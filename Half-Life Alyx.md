@@ -126,12 +126,32 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKj
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
   ```
 
-##### #Nummer
+##### #8
 
-* Titel: ``
+* Titel: `Half-Life: Alyx - #8 - Fairview Junction [Let's Play; ger; Blind, VR]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich wollte diese Episode erst "das Weichenstellwerk" nennen aber das hätte irgendwie dem Moment nicht die Dramatik gegeben den es verdient. Es handelt sich um ein Drehkreuz, ein Ort an dem man sich für eine Richtung entscheidet, ein bedeutender Ort, eine geschichtsträchtiger Ort. Für uns zumindest, alles was wir bisher getan haben läuft auf diese Sache hinaus, wir sind ausgezogen weil wir nach Fairview Junction wollte, hier ist der Scheideweg, der Ort an dem sich entscheidet ob wir die Welt irgendwie besser machen können oder nicht. Und das bedeutet auch das es jetzt ein wenig schwerer wird. Vorbei sind die leichten und langsamen Begegnungen mit dem Feind, ab jetzt ändert sich eine Menge. Auch weil wir offensichtlich vorhaben einen Transport der Combine zu überfallen, das kann nicht unbedingt dafür sorgen das wir uns beliebt machen. Davon einmal abgesehen sind die Zeiten vorbei in denen ich die "Hole Road" als Lochstraße übersetze, auch grade das wahrscheinlich der "subtile" Witz des Englischbuch Autors war das ich damals in der 8ten Klasse vor mir hatte. Wir sind jedenfalls hier und wir sind gekommen um Chaos zu säen, ich bin mir sicher das wir das schaffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 2, Aufnahme vom 25.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #9
+
+* Titel: `Half-Life: Alyx - #9 - die Superwaffe [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, es handelt sich leider nicht um eine Superwaffel sondern nur um ein Gerät zur Zerstörung, glauben wir zumindest. So ganz klar ist es eigentlich auch nicht bei was es sich um die Waffe handelt, nur das wir sie haben wollen, wir die Möglichkeit haben und der Weg gar nicht so weit ist. Der Titel dieser Episode ist also schon einmal völlig unpassend. Speziell heute haben wir überhaupt nichts mit der Superwaffe zu tun und wir hören nur ganz am Rande von ihr, ich kann auch direkt beruhigen das wir das gesamte Kapitel eigentlich nichts mit dieser Waffe zu schaffen haben. Sie existiert halt irgendwo und wir komme noch nicht heran. Eigentlich könnte heute auch "U-Bahn Schächte", "Wartungsgänge" (hatten wir quasi schon) oder auch "Tunnelkomplex" heißen. Interessant ist das das Spiel quasi eine Hommage an alte Spiele heraus holt. Heute besorgen wir uns nämlich verschiedene, farbige Keycards. Eventuell wäre also auch der Name "Keycards" ganz gut gewesen, sagt genauso wenig aus klingt aber immerhin ein wenig mehrdeutig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 2, Aufnahme vom 25.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
   ```

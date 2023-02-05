@@ -155,3 +155,73 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKj
   Sitzung 2, Aufnahme vom 25.01.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
   ```
+
+##### #10
+
+* Titel: `Half-Life: Alyx - #10 - Polarstern [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Generationen von Autoren vor uns und wahrscheinlich, insofern nicht vorher die Aliens kommen, nach uns, werden den Polarstern nutzen. Als Sinnbild, als Wort, als Metapher für das Ziel das uns vor Augen steht. Eine Seefahrt, eine Reise, eine Erkundung in eine unbekannte Welt oder Erfahrung. Der Nordstern ist immer dort um uns bei der Navigation zu helfen. Und so ist es auch heute mit euch, Alyx und mir. Wir sind schon ein tolles Gespann. Der Nordstern in diesem Fall, ist ein Hotel mit dem schönen Namen "Northern Star", technisch gesehen könnte das wohl auch was Anderes als Sirius sein aber wir wissen alle was gemeint ist. Interessant eigentlich das der Vortigaunt den Namen konzeptionell erfasst hat. Warum genau die Combine eigentlich andauernd darauf bestehen irgendwelche unbekannten Bausubstanzen als Grundlage für ihre eigenen Installationen zu nehmen vermag ich nicht zu sagen, aber es gibt uns auf jeden Fall einen schönen durchmischten Look. Und das ist wie wir versucht haben in ein Hotel ein zu brechen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 2, Aufnahme vom 25.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #11
+
+* Titel: `Half-Life: Alyx - #11 - Hotel Nordstern [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist schon ein wenig gemein eine Episode quasi genauso zu benennen wie die vorherige. Praktisch gesehen könnte ich sogar den gleichen Text wiederholen wie in der letzten und Niemand würde etwas merken, größtenteils weil das hier niemand liest. Kleiner Meta-Gedanke dazu, wenn das hier wirklich jemand lesen würde, setzt das nicht irgendwie ein übergroßes Interesse an meinen Gedanken voraus. Quasi eine ungesunde Entwicklung eines para-sozialen Beziehungsgeflechts? Auf der anderen Seite schreibe ich das hier gerne weil ich gerne noch etwas den Episoden hinzufügen möchte, meistens einige Tage nach der eigentlich Aufnahme, dann wenn sich die Gedanken ein wenig gesetzt haben. In der Regel fällt einen dann ja doch noch etwas ein. Heute übrigens nicht, das Hotel ist halt ein Hotel. Ein altertümliches Hotel tatsächlich, mit lange Gängen und einzelnen Zimmern, viele Etagen sind auch verfallen, aber ich vermute es war nicht das hochqualitativste aller Hotels als es noch in seiner Blüte stand. Ich frage mich nur wann das war. Vor dem Angriff der Combines oder wirklich genau bis zum großen Angriff und der Kapitulation der Erde?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 2, Aufnahme vom 27.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #12
+
+* Titel: `Half-Life: Alyx - #12 - Blitz-Hund [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Normalerweise bin ich selbst dafür verantwortliche das Gegner seltsame Namen haben. Aus verschiedenen Gründen kommt es ja immer wieder vor das Dinge einfach nicht richtig heißen. Größtenteils aber wohl weil es die Immersion brechen würde wenn Charaktere auf einmal wissen würden wie irgendwelche Dinge heißen die sie noch nie zuvor getroffen haben. Oder weil vielleicht unser Ballermann Held nicht unbedingt der größten Kryptozoologe ist und daher keine direkten Parallen ziehen kann. Alternativ geht man die Nerd Route und benennt außerweltliche Viecher einfach nach DnD Monstern, siehe auch Stranger Things dafür. Alyx ist zwar kein stumpfer Ballermann sondern eher selbstgelehrte Freiheitskämpferin aber ihre Namensfindungsfähigkeiten lassen noch ein wenig zu wünschen übrig. Daher heißt das Monster des Tages "Lightning Dog". Ich war einmal so frei und hab das übersetzt. Theoretisch gibt es übrigens Untertitel, die würden dann so schweben. Aber ich hab sie einfach nicht aktiviert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 2, Aufnahme vom 27.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #13
+
+* Titel: `Half-Life: Alyx - #13 - Wucherungen [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann die Combine nicht so richtig einschätzen. Soweit ich das verstanden habe sind sie nicht nur eine Alien Rasse sondern irgendwie ein Konglomerat, aber da meine Half-Life 2 Tage schon wieder eine Weile her sind und ich damals quasi überhaupt nicht auf die Lore geachtet habe kann ich das Ganze auch nicht so richtig einschätzen. Was mir allerdings sehr komisch vorkommt ist die schleichende Xen Verseuchung die wir hier und dort und überall finden. Es scheint ein wenig so als würde man die interdimensionalen Portale nicht ganz so gut verstehen wie man das vielleicht gerne hätte und das führt dazu das sich hin und wieder und hier und dort Zeug einschleicht. Aus irgendeinem Grund scheinen die Combine selbst aber daran interessiert zu sein dagegen zu kämpfen. Oder sind die Spuren des Reinigungszeugs das wir finden noch rein menschlich? Die gesamte Zeitlinie ist mir leider absolut nicht klar aber es erscheint schon ein wenig so als würde man sich um die Erde sorgen. Nicht viel, und eher so wie man seine Haussklaven regelmäßig wäscht um die Läuse fern zu halten, aber halt auch eine Comichafte Unterdrückung. Das hindert dann aber auch niemanden daran mitten in den Wucherungen wichtige Infrastruktur zu errichten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 2, Aufnahme vom 27.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

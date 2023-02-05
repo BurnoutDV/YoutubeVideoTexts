@@ -1723,6 +1723,66 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #118
+
+* Titel: `Yakuza 5 - #118 - Licht und Schatten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Problem am Gewinnen ist das man in der Regel nicht an PvE Ereignissen teilnimmt und das Leben keine echten NPCs hat. Wir sind jetzt in einem Spiel insofern ist das jetzt eigentlich gar nicht so wichtig. Nimmt man aber einmal kurz den Vorhang weg und sieht das Ganze hier mehr so als Slice of Life Geschichte dann wird gewahr das die ganzen Leuten die Haruka in der Prinzessinnen Liga platt gemacht hat ja auch andere Idols waren die jetzt halt nicht gewinnen können. Und für Viele bedeutet das wohl das Ende der Karriere. Die Kapazität ganz oben ist definitiv dünn, klar, es gibt noch andere Wege aber die verschiedenen Agenturen müssen gnadenlos aussortieren wenn sie nicht zu oft auf schlechte Pferde setzen wollen. Klar, einige Mädels (und Jungs i guess?) haben vielleicht Potenzial wenn man länger in sie investieren würde aber dafür hat ja nun wirklich niemand Mittel. Also wird aussortiert was nicht Leistung bringt. Jemanden zu treffen den dieses Schicksal ereilt kann daher ein wenig traurig sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 30.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #119
+
+* Titel: `Yakuza 5 - #119 - SBR 99 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auch wenn man es vermuten könnte, meinen ersten Manga habe ich mit 32 gelesen, also vor knapp einen Monat. Das kam weil ich wissen wollte wie ein Anime aus geht bzw. weiter geht. Animes habe ich schon ein paar geschaut, selbst im zarten Alter von 18 oder so. Und dennoch waren davon kaum Slice of Life Animes oder generell irgendwelche die sich mit dem täglichen Leben des typischen Japaners beschäftigt. Diese ganze Mittelschulegeschichte kenne ich eigentlich auch nur aus Mob Psycho 100 und die nehmen sich wirklich nicht ernst. Kurzum, mein Bild der japanischen Gesellschaft ist überrascht detailarm und von Medien verzerrt. Das heißt aber auch das ich absolut nicht einschätzen kann inwiefern Idols wirklich so ein riesen Ding in der täglichen Gesellschaft sind. Das es so etwas wie regionale Fernsehsender gibt die sich nur auf ganz kleine Gebiete wie die örtliche Stadt und vielleicht umliegende Länderein begrenzen kenne ich daher auch nur von den Amerikanern. Keine Ahnung wie realistisch Sotenbori TV ist. Oder aber kleine lokale Idol Wettbewerbe, damit sowas klappt muss es aber echt viel Geld in dem Geschäft geben damit es so viele junge Glücksritter gibt. Haruka macht heute auch mit beim großen Goldrausch, und da wir unsere Skills ausgemaxt haben läuft das auch ganz gut.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 30.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #120
+
+* Titel: `Yakuza 5 - #120 - Watami vs. Watamin-chi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einem klassischen Dating Sim oder so hätten wir uns jetzt wahrscheinlich zwischen zwei Jungs entscheiden müssen. Aber wir dürfen nicht vergessen, trotz all der Dinge spielen wir immer noch ein Yakuza Spiel. Ich fürchte übrigens das früher oder später das dicke Ende kommt und die Dinge in der Prinzessinnen-Liga sich auf einmal ganz schnell ins Dunkel abwenden oder Dinge im Medienbusiness auf einmal nicht mehr ganz so sonnig und gut abgehen wie es ursprünglich den Anschein hatte. Genießen wir also die Momente voller Freundschaft, Gemeinschaftlichkeit und Freude die wir haben während wir ein noch nicht so ganz bekanntes Idol sind. Heute zum Beispiel beim Versuch das Postermädchen für irgendeine Restaurantkette zu werden. Ich weiß übrigens nicht wie üblich so etwas wirklich ist. Ich könnte mir aber durchaus vorstellen das es durchaus gelegentlich vorkommt. Trotzdem ein bisschen komisch eine Sechszehnjährige auf allen möglichen Werbematerialien abzudrucken. Aber vielleicht ist Poster-Girl mehr wie eine Markenbotschafterin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 30.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #121
+
+* Titel: `Yakuza 5 - #121 - Idol Arbeitstag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  All das was wir bisher mit Haruka erlebt haben, die Freundschaft, die Emotionen und die Fürsorge für Andere ist etwas das nur im Zeitkontinuum des ewigen Vormittags möglich war. Das wahre Idol-Leben, insofern ich mich überhaupt traue davon zu sprechen, erlaubt wohl eher keine solche Interaktionen. Einfach schon aus Zeitmangel. Jetzt sind wir aber für den Moment erst einmal fertig mit den Nebenmissionen und das bedeutet das wir uns wieder dem Kerngeschäft zu wenden. Das bedeutet aber auch das wir sehen wie die Zeit verrinnt. Es gibt hier eine gewisse ludonarrative Dissonanz (immer noch eines meiner Lieblingswörter) zwischen dem was wir in den Nebenmissionen tun und welche Reichweite die entsprechenden Gigs haben und wie klein dann das ist was wir in der Hauptquest tun. Heute treten wir zum Beispiel in einem kleinen Hinterhof als Ersatz für Jemanden auf. Das passt nicht so richtig zu den tausenden Leuten die uns eigentlich mittlerweile kennen sollten, und diese tausend sind ja nur Fans, viele Leute mehr haben uns zumindest einmal gesehen, besonders wenn man bedenkt wie oft wir schon in irgendwelchen Quizshows waren. Und was wir auch sehen, wie lange das alles dauert. Vor Ort ankommen, auf die Bühne steigen, zwischen verschiedenen Acts abwarten, eine Stunde Händeschütteln das für uns glücklicherweise nur 60 Sekunden dauert und schon ist man in den späten Abendstunden. Und da hatten wir eigentlich kaum Tanztraining.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 30.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

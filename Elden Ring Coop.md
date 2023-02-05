@@ -848,6 +848,76 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
+##### #50
+
+* Titel: `Elden Ring Coop - #50 - Elmo in der Schattenburg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich heißt der Kerl den wir heute besuchen ein wenig anders. Wenn ich das hier richtig meinen Notizen entnehme wird er eigentlich "Elemer" genannt was sich irgendwie nicht so ganz sauber ausspricht. Stellen wir uns also lieber Muppet mit dem roten Fell vor. Lustigerweise habe ich eine besondere Verbindung zu Elmo..der Schlüsselanhänger für den Gästeschlüssel meiner Tante hat einen Elmo dran, ich besuche sie relativ oft. Genug Trivia von mir, zurück zum Thema. Der gute Elmo ist relativ kampfstark, dafür war der Rest der Schattenburg erstaunlich einfach. Es gibt einige Orte die mich wesentlich mehr abgefuckt haben als die Schattenburg aber sie war dennoch relativ weit oben, das liegt auch an diesen komischen vielarmigen Fluchviechern. Die sind zwar immer noch nervig, aber zu Zweit kommt man doch ein wenig besser durch. Vielleicht liegt es aber auch an der eingebauten Giftimmunität. Das hilft echt viel wenn dauerhafter Schaden einfach kein Problem ist.
+  
+  Stichworte: die Schattenburg, Lied des Helden, Giftsumpf, Unholde, Elemer von den Dornen, Milicent, Godefroy der Verpflanzte
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 13, Aufnahme vom 19.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #51
+
+* Titel: `Elden Ring Coop - #51 - Wurmgesichts Waldruinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab mal wieder gelogen! Direkt ins Gesicht und das auch noch im Titel! Was bin ich doch für ein Schuft. Weil, es ist so, es gibt gar keine Immobilien die Wurmgesicht gehören, die sind viel mehr dem Waldvolk zugehörig das die entsprechenden Eigentumsrechte ungeteilt für sich beansprucht. Wurmgesicht selbst und seine Todesnebelgang besetzen zwar hin und wieder einige Liegenschaften und die darauf befindlichen Immobilien für Liebhaber auf von Eigentum kann nicht die Rede sein. Etwas Anderes zu behaupten wäre fiese Verleumdnung. Wie dem aber auch sei, Wurmgesicht ist ja auch nur einer von den vielen Kerls die im dunklen Wald hausen. Es hilft absolut nicht das diese Episode in der Nacht spielt und man daher die Hand vor Augen nicht sieht. Und wenn das nicht reicht kommt auch noch übler Nebel dazu, übler, tödlicher Nebel. So schön kann das Leben sein. Oder so nebelig.
+  
+  Stichworte: Wurmgesicht, Brücke, versteckter Turm, Ruinen des Waldvolkes, Altustunnel, Kristallianer, Schutz des Erdenbaumes, Sturmblutruinen
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 13, Aufnahme vom 19.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #52
+
+* Titel: `Elden Ring Coop - #52 - die Schwabenkeule [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir machen heute eigentlich unfassbar viel, fast schon monumentale Sachen, man kann jetzt nicht direkt sagen das wir Marika oder die Bestie heute legen aber es kommt dem schon relativ nahe. Zum Beispiel besiegen wir heute ganz am Ende sogar den großen Drachen Lansseax, Mitglied der Saxophone Gang die anscheinend ein wenig Chaos über die Zwischenlande gebracht hat. Das ist aber eigentlich gar nicht so wichtig, viel wichtiger ist das wir das Windmühlendorf plündern das sich scheinbar grade in irgendeiner Art Party zu befinden scheint. Wichtiger eigentlich fast noch, die Party dient wohl irgendwie dazu Leute zu häuten und deswegen kann sich die Götterskalpe eine neue Kutte leisten. Denke ich zumindest. Wichtiger aber noch, viel wichtiger als Marika oder alles Andere ist der Fund der Schwabenkeule. Technisch gesehen treiben wir auch das Schwabenmesser auf aber das ist dann nicht mehr so wichtig gegenüber der fundamentalen Erkenntnis das wir eine Waffe finden die Zusatzseelen bringt. Leider ist der Effekt ein Festwert und der silberne Ring bringt prozentual einfach mehr. Selbst der schwäbische Partner muss einsehen das das Ding nutzlos ist, zum jetzigen Zeitpunkt zumindest.
+  
+  Der "ultimative" Farm Trick ist übrigens Azur mit der Keule zu hauen, wenn  einem mal wieder richtig langweilig ist. Oder man geht wie alle Anderen auch zu Moghs Blutpalast. 
+  
+  Stichworte: Sturmblutruinen, Altus-Plateau, Mühlen, Opfer, Tänzer, Dominula, Windmühlendorf, Apostel der Götterskalpe, Uralter Drache Lansseax
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 13, Aufnahme vom 19.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #53
+
+* Titel: `Elden Ring Coop - #53 - Leyndell Vorland [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es geht los, jetzt kommen die ganzen Leyndell Episoden und wir nähern uns vor allem der Phase in der es nur noch jeden zweiten Tag eine Episode Enten Ring gibt. Das liegt einfach daran das jede Episode eine Stunde lang ist. Das wiederum tue ich weil ich mit Alex gemütlich spiele und eigentlich keine Lust habe alle 20 - 30 Minuten dumme Ab & Anmoderationen zu machen. Das reicht mir ehrlich gesagt schon wenn ich das stündlich mache, es ist halt irgendwie weird. Ohne jetzt ins Detail zu gehen, ich komme mir immer wie so ein 13jähriges Poserkid vor das ein Video mit "Hallo Fans" beginnt. Davon abgesehen kommen wir jetzt Leyndell näher, es dauert noch ein wenig bis wir wirklich in der Stadt sind, größtenteils liegt das aber auch daran das wir sehr gründlich die Umlande durchsuchen, sicherstellend das wir auch gar nichts übersehen, nicht auszudenken wenn wir am Ende ohne bestimmte Schätze auskommen müssten. Dann wäre ich sehr traurig. Und Alex sein Schwabenherz wahrscheinlich auch, mehr noch als ich denke ich.
+  
+  Stichworte: Grab des heiligen Helden, Uralter Held von Zamor, Dunkelkavallarist, Königin Gilika, Sternenfallbestie, Baumwächter
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 14, Aufnahme vom 25.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

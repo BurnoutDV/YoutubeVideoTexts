@@ -975,6 +975,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #65
+
+* Titel: `Elex 2 - #65 - Brüder & Schwestern im Geiste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es soll durchaus vorkommen das man aufwächst und irgendwie das Gefühl hat das man nicht so richtig hineinpasst in das was die Gesellschaft für einen bereit hält. Soweit ich das überschauen kann geht das den meisten Leuten bis zu einem gewissen Grad genauso. Was aber auch vorkommt ist das man irgendwo ankommt und sich denkt "das sind meine Menschen". Ich persönlich habe das in der Regel bei der typischen Crowd die man bei Metal-Konzerten finden kann aber das ist bei jedem anders. Die Albs haben sich anscheinend gedacht das die Kleriker quasi ihre alten Freunde sind. Wenn ich mich recht erinnere waren die ersten Albs auch Kleriker die ein wenig zu tief am Elex geschnüffelt haben. Seit dem ist technisch dann aber auch nicht mehr viel passiert. Ich nahm zu erst an das die Albs schlau genug waren um aus dem Nichts Technik zu erschaffen, aber wenn man sich die parellen anguckt haben die Albs eigentlich nur mehr von der Technik während die Kleriker quasi auf Altbestände sitzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 24.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #66
+
+* Titel: `Elex 2 - #66 - Klerikerhändler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Kultur der Kleriker ist am Sterben. Ich kann mir eigentlich kaum erklären warum es sie überhaupt noch gibt. Alles was sie zusammengehalten hat und ihnen Kraft gab war der Glaube an Calan und daran das sie im Rahmen irgendeines großen Planes handeln. Das ist offensichtlich nicht der Fall und die Beweise dagegen haben sich mehr und mehr verfestigt. Und es weiß auch jeder, wie kann eine Gesellschaft existieren wenn sie keine Vision mehr hat, wieso hat niemand eine neue Vision gehabt, wieso war niemand in der Lage das zu nehmen was war und etwas Neues zu erschaffen. Klar so etwas erfordert Zeit und eine gewisse Kreativität aber es gibt durchaus gute und stabile Gründe warum man als technologisch hochstehende Gemeinschaft weiter machen könnte. Das wäre eigentlich sogar direkt als neue Mission zu sehen, man wird halt ein bissle wie der Adeptus Mechanicus und sucht alte Technologie und solche Dinge. Eine neue Mission, ein neues Ziel. Etwas das zusammenhält. Stattdessen haben wir Trübsal, und anscheinend Händler die nicht in der Lage sind ihre Waren zu beschützen und dann beim Wegrennen ihre Waffen verlieren. Das flößt auf jeden Fall ein Gefühl der Sicherheit ein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 31.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #67
+
+* Titel: `Elex 2 - #67 - Tomsontown Mitte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Yeah, wir sind wieder in Tomsontown. Wenn du das hier liest während die Folge läuft, idealerweise wenn sie noch nicht vorbei ist, du darfst jetzt skippen. Ich renne die ganze Episode durch die Stadt und suche einen Kerl namens Dixxon und finde ihn nicht. Keine Spur. Der ist in irgendeiner Höhle und ich bin einfach zu doof. Wie dem aber auch sei, wir waren ja schon einmal in der Stadt, aber mittlerweile machen wir ja halbwegs Schaden, das bedeutet das wir in der Lage sind auch mal etwas tot zu machen, leider dauert es dennoch noch recht lange bis die Gegner wirklich umkippen. Immerhin ist die Zeit von Ewigkeiten zu "realistisch lange" gesunken. Und das ist dann irgendwie Hauptinhalt der Episode, ich weiß auch gar nicht was ich noch hoffe zu finden. Geld wird es ja wohl nicht sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 31.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #68
+
+* Titel: `Elex 2 - #68 - gefütterte Rottmolche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hey Hoy, es ist ich mit dem schlechten Deutsch das so klingt als wäre es eine Wort-für-Wort Übersetzung aus dem Englischen. In der heutigen Episode tun wir auch wieder Nichts außer uns auf viel zu lange Kämpfe gegen irgendwelche Rottmolche einzulassen und die mit unserem Bogen nieder zu ringen. Ich glaube das Alles könnte ich wesentlich einfacher haben wenn ich einfach ein wenig gewartet hätte und dann die entsprechenden Aufträge erledigt hätte. Schon deswegen weil ich mich dann nicht auf einem Dach hätte verstecken müssen. Davon einmal abgesehen passiert heute echt nicht viel. Ich muss langsam wirklich aufhören Orte zu plündern, es ist ja nicht so das es noch irgendetwas gibt das ich mir mehr kaufen kann wenn ich noch 20 Schrott mehr plündere.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 31.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

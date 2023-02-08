@@ -918,6 +918,57 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
+##### #54
+
+* Titel: `Elden Ring Coop - #54 - Vorstadt Leyndell [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode waren wir im Vorland von Leyndell, heute sind wir in der Vorstadt, das ist ein wichtiger Unterschied. Man stelle sich vor das hier eigentlich die etwas wohlhabeneren Bauern und vielleicht niedere Händler und Kaufleute wohnen. Handwerke findet man hier bestimmt definitiv auch, es ist eine große Stadt, ihr Reichtum offensichtlich. Eventuell sogar niedriger Adel könnte hier hausen. Was wir stattdessen finden ist eine Kirche, ein paar kaputte Gebäude und eigentlich nicht viel mehr. Eventuell hat man das gesamte Gebiet auch einfach nur errichtet weil man das irgendwie witzig fand. Ich kann es wirklich nicht sagen. Es ist auf jeden Fall nervig leer und dabei wäre da soviel Potenzial gewesen. Das führt aber auch dazu das wir recht schnell fertig mit diesem Bereich werden. Die übrige Zeit nutzen wir schnell noch Blaidd und ein paar Gargoyls um die Ecke zu bringen, soll ja keiner sagen das wir nicht gründlich sind.
+  
+  Stichworte: Baumgeist, Niederer Erdenbaumkirche, Gurranq, Verehrer der Schwarzen Klinge, Blaidd der Halbwolf, Pidia, Gargoyl, Todesvogel
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 14, Aufnahme vom 25.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #55
+
+* Titel: `Elden Ring Coop - #55 - Aurizas Gräber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, ich habe absolut gar keine Ahnung wer Auriza war, ist oder sein wird. Vielleicht ist es auch nicht jemand sondern ein Titel was zumindest die Größe des Grabes erklären würde. Eventuell auch eine Familie, das würde immerhin den Namen erklären. Oder es ist die Bezeichnung für eine Region die nicht mehr ist, warum auch immer. Oder eines fernen Landes und deren Helden haben hier ihr Ende gefunden? Was auch immer es auch sein mag, wir besuchen gleich zwei Orte die mit dem Namen in Verbindung stehen. Der eine ist einfach nur ein wenig rätselhaft und das ist nicht weiter schlimm, der andere hat aber nette Überraschungen und fahrende Wägen was uns schon ein wenig den Tag versaut. Das es hier den ein oder anderen Bug gibt macht es nicht besser.
+  
+  Stichworte: Aussichtsturm der Hochstraße, Versiegelter Tunnel, Onyxfürst, Seitengruft von Auriza, Teleportfalle, Grabhüterduellant, Grab des Helden von Auriza
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 14, Aufnahme vom 25.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #56
+
+* Titel: `Elden Ring Coop - #56 - Leyndell [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir endlich. Es hat wirklich lange gedauert aber wir sind da. Die goldene Stadt, die Stadt des Erdenbaumes. Die Zentrale. Der Ort von dem Königin Marika aus geherrscht hat. Was hier passierte ging direkt in die Geschichte ein. Leider wissen wir so gut wie nichts über den Ort. Klar, es wird immer viel davon erzählt aber so richtige Details sind eigentlich ziemlich knapp und es könnte sich genauso gut um eine Kulisse handeln. Hier und dort sind bestimmt Dinge passiert und wir sollen in der Lage sein im Staub zu erkennen was einst war, aber irgendwie auch nicht. Der Ort ist tot, so tot wie nur ein Ort sein kann. Eventuell kamen die Parfümeure später und besetzen den quasi toten Körper der Stadt, aber alles an Details ist nicht ganz klar. Eigentlich gar nicht. Zum Glück ist unsere Aufgabe einfach, wir töten alles was uns im Weg steht und wenn wir damit fertig sind ziehen wir weiter bis die ganze Welt brennt. Bei unserem aktuellen Tempo kann das auch nicht mehr so lange dauern.
+  
+  Stichworte: Grab des Helden von Auriza, Schmelztiegelritter Ordovis, Straßenbalkon, Leyndell,Hauptstadtwall, goldene Dächer, Baumgeist
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 14, Aufnahme vom 25.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

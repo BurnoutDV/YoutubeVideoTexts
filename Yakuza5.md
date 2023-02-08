@@ -1783,6 +1783,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #122
+
+* Titel: `Yakuza 5 - #122 - der Kniefall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab manchmal das Gefühl das ich ein Alien in einer fremden Welt bin. Das scheint aber nicht unbedingt selten zu sein, alle Anderen machen nur einfach mit, irgendwie. Vielleicht fühlt sich ja irgendjemand wohl aber ich habe den Eindruck das Gesellschaft das Ergebnis aller Erwartungen ist die man halt an einen Gesellschaft. Das Ergebnis ist ein wenig unmöglich aber es funktioniert ja auch irgendwie. Das gesagt, das ist wie ich über "meine" Gesellschaft denke, alles wirkt irgendwie fremd, kleinere Nuancen gehen einfach verloren und manchmal trampelt man in Fettnäpfchen. Und jetzt stellt man sich das mit fremden Kulturen vor. Ich habe nur einen sehr synthetischen Blick auf asiatische Kulturkreise und insbesondere die japanischen Gepflogenheiten. Ehre und das Gesicht zu wahren scheint irgendwie wichtig zu sein aber was es emotional heißt kann ich absolut nicht einordnen. Wie signifikant ist so ein Kniefall? Ist es peinlich aber irgendwie etwas das durchaus vorkommt? Ist es eine einzigartige Geschichte und absolut grausam das von jemanden zu verlangen? Ich kann es echt nicht sagen. Von dem was wir so sehen würde ich aber annehmen das es schon eine Sache ist die man nicht mal eben weg lächelt. Der emotionale Einschlag prallt trotzdem an mir ab.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 18, Aufnahme vom 30.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #123
+
+* Titel: `Yakuza 5 - #123 - das harte Training [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird wieder einmal Zeit für den großen Aluhut mit Krempe. In letzter Zeit setze ich den wirklich oft auf, meistens wenn ich über ein kontroverses Thema reden möchte mir aber klar ist das ich Behauptungen aufstelle die gewagt sind und ein wenig sich aus der Faktenbasis nicht ergeben. Hot Take: die meisten Ausbildungsberufe dauern viel zu lange und die relevanten Skills könnte man auch in 9 Monaten oder so vermitteln aber die billige Arbeitskraft ist einfach viel zu geil für 36. Das ist bestimmt nicht allgemein gültig und würde voraussetzen das man wirklich ausbildet und nicht "training on the job" macht. Der japanische Künstler Katsushika Hokusai (der mit der Welle) hat von sich gesagt das er mit 90 (oder war es 80?) Jahren vielleicht anfangen kann endlich echte Kunst zu machen. Das sagt einem eigentlich schon alles was man über die japanische Ansicht wissen muss: wenn es gut sein soll muss es schwer sein. Keine Shortcuts möglich, Dinge müssen lange dauern und schwer sein sonst gelten sie nicht. Das kann ich auch nicht direkt belegen und ich hab auch keine Anthropologen auf der Kurzwahl. Leider dauern andere Sachen wirklich ewig lange, Geige spielen zum Beispiel, da muss man jung anfangen sonst wird das allgemein nichts. Oder gut tanzen, Gymnastik oder Akrobatik. Hier ist aber eher die Uhr ein Problem. Der Körper muss wirklich jung sein damit man hier eine Chance hat. Niemand will ein altes Idol sehen und Gymnastik ist halt ein junge Leute Sport wenn es um Höchstleistungen geht. Das Problem ist also nicht notwendigerweise lange etwas zu lernen aber die benötige Lernzeit in wenig Zeit zu quetschen damit man noch Jugend über hat. Und deswegen muss Haruka so hart trainieren, sie ist "bereits" 16, die Jahre laufen davon.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #124
+
+* Titel: `Yakuza 5 - #124 - Muter & Tochter Illusion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben ist eine Illusion. Frieden ist eine Illusion. Stabilität ebenso. Vergangenheit eine Erinnerung die sich verändern kann, Zukunft ein ungewisser Nebel. Letztendlich zählt nur das Hier und Jetzt, der Moment in dem man lebt und was man daraus macht. Der Jetzt-Moment wird aber besser wenn man in dieser komischen Vergangenheit die richtigen Entscheidungen gedacht hat und die die möglichen Zukünfte vorbereitet hat. Soviel also dazu im Moment zu leben. Wenn man nicht einen unsichtbaren Benefaktor hat klappt das leider nicht so gut. Und doch, für Haruka die nie eine richtige Mutter hatte ist das Gefühl für den Moment vielleicht mehr wert als es so manche Zukunft gehabt haben könnte. Wie leicht es doch ist sich in so einem Fall kurz der Illusion hin zu geben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

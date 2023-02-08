@@ -216,6 +216,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKj
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
   ```
 
+##### #14
+
+* Titel: `Half-Life: Alyx - #14 - Dachzugang [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann schon einmal sagen, wir kommen heute nicht auf dem Dach an, das ist aber auch völlig logisch. Die Episode heißt ja auch Dachzugang und nicht Dachspaziergang oder Aussichtspunkt. Logischerweise hängen wir daher immer noch in den zerfallenen Resten des Nordstern-Hotels herum und schauen uns an was von der ursprünglichen Bausubstanz noch da ist. Die allgemeine Beurteilung ist wohl "nicht mehr besonders viel". Ich bin kein Bauingenieuer oder Statiker und kann es deswegen nicht so richtig einschätzen, aber entweder hat das Hotel einen wirklich stabilen Kern oder die Aufbauten der Combine haben stabilisierende Wirkung. Andernfalls kann ich mir nicht so richtig vorstellen das das Gebäude noch lange hält. So wie es aktuell aussieht macht es auf jeden Fall nicht lange. Und das ist völlig unabhängig davon inwiefern der Schleim die Wände zusätzlich noch angreift. Und wir haben weitere Begegnungen mit unserem Lieblingsgegnertyp. Wenn die Viecher nur nicht so kugelsicher wären...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 2, Aufnahme vom 30.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #15
+
+* Titel: `Half-Life: Alyx - #15 - Gefangenenbefreiung [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird langsam zum Hobby, wir befreien irgendwelche Leute. Bisher lief das aber noch ganz gut, das ist wohl das Gute wenn man in einem Unrechtsregime lebt, in der Regel kann man sich relativ sicher sein das man das richtige tut wenn man irgendwelche Ketten sprengt. Schwieriger wird es wenn man zwar für sich deklariert das das System in dem man lebt unmenschlich und nicht gerecht ist es aber doch irgendwie partiell schon noch gewisse Grundsätze hat. Es ist leicht gegen einen Tyrannen oder Despoten zu rebellieren. Wenn es schlecht genug um das Essen steht kriegt man vielleicht sogar die Massen mobilisiert wenn man irgendwo Momentum auffängt. Aber was ist wenn der Tyrann nur in der Hauptstadt schlimm ist, die Fürsten sind so lalal, aber im Allgemeinen läuft der Laden. Die Hälfte der Lokalpolitiker steckt zwar etwas ein aber morgens die Müllabfuhr kommt eigentlich immer. Es kann schon mal vorkommen das man ohne Beweise wegen "Steuern" verhaftet wird, aber in der Regel hält sich die Justiz an echte Grundsätze. Sowas versaut einen echt dent Tag. Korruption hat viele Stufen und wir können dankbar sein das die Combine so absolut sind. Man stelle sich vor die Vortigaunts wären irgendwelche Schwerverbrecher von einer fremden Dimension die es nur darauf anlegen möglichst viel Chaos in die Welt zu bringen. Hinter den Kulissen ihre Macht und Kräfte nutzen um Leute gegeneinander auf zu wiegeln. Und das alles würde man erst zwanzig Jahre später heraus finden. Aber das ist das Gute wenn man glaubt man gehört zu den Guten, in der Regel stellt man sich solche Fragen nicht. Deswegen war was wir heute getan haben auch etwas Gutes. Oder  es dient immerhin unserer Agenda, das ist die Argumentation für den Fall das es sich hinterher als nicht so gut heraustellt. Die Lage ist ernst genug, da können wir quasi alles weg erklären. Das ist macht es ganz angenehm.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 3, Aufnahme vom 31.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #16
+
+* Titel: `Half-Life: Alyx - #16 - Apartmentblöcke [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab tatsächlich mal in einem Neubaublock gewohnt..aber das war in einer kleinen Stadt mit weniger als 5000 Einwohner und es war einer von drei Blöcken in einer Reihe. Durchaus ein Ergebnis des sozialistischen Wohnungsbaus in Ostdeutschland. Damals waren die Dinger übrigens absolut Stand der Technik. Es wird zwar immer viel negativ darüber geredet aber die Alternative in der DDR waren wirklich marode Häuser die entweder noch von vor dem Krieg stammten ohne jemals richtig modernisiert worden zu sein oder schlecht gebaute Hütten mit mangelnden Material. Insofern war so ein Neubaublock ein echter Fortschritt, fließend Wasser, Strom und das Klo als Raum und nicht auf dem Hausflur. In so einer richtigen Plattensiedlung habe ich aber nie gewohnt. Deren Ruf hat sich über die Jahre auch ein wenig geändert denke ich. Verwandtschaft hat einst in Hellersdorf, Berlin gewohnt. In den mittleren 90er ging es da noch so halbwegs, glaube ich, ich war jung. Später kam der Ruf auf den so Apartmentblöcke halt haben. Gerne wird diese Bauweise aber auch für Level in Spielen genutzt, und ich kann auch verstehen warum. Mit ein paar Wanddurchbrüche kann man quasi modular alles bauen. Und einen gewissen Charm hat das auch alles. Besuchen wir heute also ein paar Hausflure und gucken ob wir Festnetzverträge im Haustür-Direktvertrieb an die Frau kriegen. Und erschießen ein paar Combine.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 3, Aufnahme vom 03.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

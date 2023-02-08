@@ -1035,6 +1035,41 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #69
+
+* Titel: `Elex 2 - #69 - versiegelte Rationen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der heutigen Episode geht es nur ganz am Rande um irgendwelche Rationen, versiegelt oder nicht. Fakt ist das man Vorräte immer gut verstauen muss wenn man noch länger von ihnen etwas haben will. Was man auch gut verstauen sollte sind die Forschungsnotizen über die finsteren Experimente an lebendigen Menschen/Albs. Insbesondere wenn die Ergebnisse das Gegenteil von optimal sind. Es scheint so als wäre das dunkle Elex doch sehr anders als das andere Elex, egal in welcher Dosierung scheint das Ergebnis immer gleich desaströs, egal was passiert, positiv ist es nicht. Und heute finden wir Beweise dafür das selbst die Albs nicht völlig gnadenlos Experimente durchführen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 31.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

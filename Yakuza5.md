@@ -1828,6 +1828,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #125
+
+* Titel: `Yakuza 5 - #125 - plötzlicher Absturz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man kennt es eventuell, man überdenkt alles was man tut, ist so voller Zweifel das man in dem Moment in dem etwas gut läuft auf einmal Angst hat das es dann doch plötzlich schief läuft. Typischer Fall wenn sich mehre glückliche Ereignisse hintereinander ereignen, oder aber die extreme Variante, es geht nur nichts schief. Das kann schon der ganz normale Weg zur Arbeit oder Schule sein. Einmal kommt nicht die Bahn zu spät, es regnet nicht und man hat auch nichts vergessen. Absolut unwahrscheinlich. Man will es gar nicht wahr haben. Die Angst vor dem Absturz ist real. Wenn ich im Medienbusiness arbeiten würde hätte ich diese Angst auch. Ständig muss man Leistung zeigen, jede nächste Aktion muss gut sein. Schon so manch Künstler hat plötzlich kein Bein mehr auf die Bühne gekriegt weil irgendetwas sich verändert hat. Da wird man schnell abergläubisch. Von Park-san erfahren wir heute wie schnell so etwas gehen kann. Außerdem wird es Zeit für einen Kapitelwechsel, und das bedeutet das wir auch ein drastisches Ereignis brauchen um die Dinge entsprechen aus klingen zu lassen. Hier wird geliefert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

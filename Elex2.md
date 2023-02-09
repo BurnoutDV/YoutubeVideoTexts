@@ -1050,24 +1050,49 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
-##### #Nummer
+##### #70
 
-* Titel: ``
+* Titel: `Elex 2 - #70 - freies Erkunden [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Hey, da sind wir wieder, bei diesen Nicht-Episoden. Der Name alleine sagt schon das ich 20 Sekunden nach der Aufnahme keine Idee hatte wie ich das hier nenne. Einziges Highlight der Episode ist ein Kerl namens Anto der uns bittet irgendeinen Tresor zu öffnen. Dann hintergeht er uns genau wie er angedeutet hat und das ist dann sein Ende. Eventuell hat er noch irgendetwas mit einem anderen Charakter zu tun bzw. einem Log aber was weiß ich schon? Die Begegnung war auf jeden Fall kurz und viel zu gering um sie weiter zu vertiefen. Tatsächlich finden wir ja irgendwelche Audio-Logs die uns irgendwie etwas über die Welt erklären sollen, aber ich will ehrlich sein, das Worldbuilding ist schlecht. Das hat man alles schon besser  gesehen. 2002 wäre das vielleicht okay gewesen, da hätte man sich über jedes vertonte Stück gefreut, aber der technische Stand geht weiter. Und ganz ehrlich, irgendwelche lieblosen Logs ohne echt Tonabmischung, kohärenten Gedanken dahinter oder brauchbare Tiefe braucht es einfach nicht. Wenn man dazu nicht in der Lage ist hätte man auch gleich die Open World lassen können. Und das ist denke ich das Problem. Man war nicht bereit alles einzuschränken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 31.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
-##### #Nummer
+##### #71
 
-* Titel: ``
+* Titel: `Elex 2 - #71 - Baxters Propaganda [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Was ist schon Propaganda? Was ist unerwünschte Wahrheit? Was ist die Wahrheit? Was ist Information, was ist Fakt? Wer ein striktes Regime führt macht sich angreifbar, ob berechtig oder nicht. Andererseits kann eine offene Gesellschaft durchaus anfällig für subversive Beeinflussung sein, ein offener Geist ist ja durchaus eine Festung mit offenen Toren..oder so. Informationen sind Macht, der Zugriff darauf auch. Das ist ein wenig wie bei der Gewalt, man möchte möglichst ein Monopol darauf haben. Praktisch ist das nicht möglich weil eine gewisse Menge an Gewalt auch praktisch für alles andere gebraucht wird, und bei Informationen ist das nicht anders. Allerdings gibt es Grenzen, und wenn in der Stadt üble Nachrede eines eigentlich schon besiegten Feindes hängt möchte man doch dagegen vorgehen oder? Heute beginnen wir mit der Untersuchung, die Offenheit der Berserker scheint sich ja zu rächen. An der Torwoche Striker soll es aber nicht gelegen haben, der hat schließlich immer alles richtig gemacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 31.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #72
+
+* Titel: `Elex 2 - #72 - der Maulwurfsbau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein ich weiß nicht warum diese Episode so heißt. Die Quest wurde halt so genannt aber ich kann mir nicht ganz erklären warum eigentlich. Ein Maulwurf ist in der Regel eine Person die eine andere Organisation im Auftrag Dritter oder einfach nur sich selbst untergräbt. Das findet hier irgendwie statt aber deswegen würde ich meine Zentrale nicht direkt "der Maulwurfsbau" nennen, insbesondere weil die Viecher so weit ich weiß eh alleine unterwegs sind. Wir kennen die Krallen übrigens schon um die es hier geht, und nicht nur weil wir Hector bereits getroffen haben sondern auch aus dem letzten Teil als es sich um eine Gruppe unabhängiger Diebe handelte. Ich will ehrlich sein, die Welt von Elex hat einfach nicht genügend feste Grenzen, Staaten oder sonstige Strukturen um irgendwelche Geheimgesellschaften zu tragen. Es hat einfach keinen Sinn. Warum eine Verschwörung anzetteln wenn sich absolut niemand dafür interessiert das man aus den Schatten Dinge tut. Die Welt ist apathisch, unorganisiert und einen Moment von der Invasion durch Aliens entfernt. Niemand tat irgendetwas um das zu verhindern und hier stehen wir jetzt. Das die Krallen überhaupt einen Namen hat hat mir ein Cosplay Gefühl als alles Andere.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 31.01.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
 ##### #Nummer

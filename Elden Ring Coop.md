@@ -969,6 +969,23 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
+##### #57
+
+* Titel: `Elden Ring Coop - #57 - Straßenbalkon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese Episode ist zu Ehren des wichtigsten Ortes in Leyndell benannt. Manche mögen vielleicht sagen das Marikas Schlafgemächer oder irgendein anderer Ort wesentlich heiliger, praktischer oder einfach nur besser ist, aber ich sage das der Straßenbalkon die Spitze der Stadt ist. Im übertragenden Sinne, die Baumkrone haben wir bisher noch gar nicht erreicht, aber das kann ja noch werden. Es ist halt einfach so der Balkon jeden Ort der Stadt einen ungefähr gleich guten Zugriff gibt. Und daher liebe ich diesen Ort, daher kommen wir da auch einmal öfter vorbei. Und dann betreten wir auch noch offiziell zum ersten Mal den Ort der später oder früher einmal die Tafel der Gnade gewesen sein wird. Oder irgendwie so, wie genau das jetzt eigentlich funktioniert vermag ich wirklich nicht sagen, aber ich bin mir sicher da ist irgendwo eine Logik drin, ich verstehe sie nur nicht.
+  
+  Stichworte: Leyndell, Straßenbalkon, Gassen, Baumgeist, Haupttor, Torgargoyl, Tafel der Gnade, Isolierter heiliger Turm
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 15, Aufnahme vom 02.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

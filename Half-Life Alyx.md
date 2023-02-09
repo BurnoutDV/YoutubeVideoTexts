@@ -261,6 +261,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKj
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
   ```
 
+##### #17
+
+* Titel: `Half-Life: Alyx - #17 - Industrieanlage [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen zurück zu Burnouts allgemein gültige Titel. City 17 ist scheinbar nie so ganz der Industrialisierung entwachsen und das merkt man. Unser Quarantänebezirk hat eine Menge Infrastruktur, Fabriken aber auch Wohnhäuser dicht an dicht. Alles was wir bisher gesehen haben deutet schon sehr darauf hin das wir uns quasi in einer völlig durchmischten Lokalität befinden. Hier zu wohnen war bestimmt nicht immer ganz angenehm, besonders wenn die Industrie am lärmen war. Allerdings befand sich der der Ort scheinbar auch auf dem aufsteigenden Ast. Seit längerer Zeit ist hier zwar nichts mehr passiert aber die halb fertigen verlassenen Bauruinen und Werkhöfe lassen doch darauf schließen das es hier einst der Plan war ein wenig anzubauen. Und dann kamen die Combine und haben irgendwelche willkürlichen Orte mit ihren Dingen versucht. So richtig die Logik hinter ihren Vorgehen haben wir immer noch nicht verstanden aber vielleicht werden wir das auch nie tun können. Es hat schließlich einen Grund warum wir es hier mit Aliens zu tun haben und nicht Menschen aus einer anderen Zivilisation.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 3, Aufnahme vom 03.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

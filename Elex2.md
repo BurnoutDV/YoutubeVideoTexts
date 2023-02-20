@@ -1095,6 +1095,106 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #73
+
+* Titel: `Elex 2 - #73 - Kontrastmittel im Gehirn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist immer wieder schön wenn man sich von der Wissenschaft, Vernunft und allgemein jeder internen Logik komplett verabschiedet. Es handelt sich um ein Thema das ich immer und immer wieder gerne erwähne und es nicht sich "Suspension of Disbelieve", man könnte es auch auf Deutsch ausdrücken aber als englisches Wort ist es quasi ein Eigenname was mir ganz gut gefällt. Zur Sache, es gibt da etwas das sich Blut-Hirn-Schranke nennt, und jetzt kommt der Teil wo ich selber eigentlich so gut wie keine Ahnung habe, aber, der Hauptsinn davon ist das Gehirn das relativ empfindlich auf Dinge reagiert vor äußeren Einflüssen zu schützen. Einer der Gründe warum die Dinge wie die Tollwut so ärgerlich sind. Wenn man jetzt also ein Kontrastmittel irgendwie in das Gehirn kriegen würde in dem unsere Mutanten das Zeug nur fressen, dann hätten wir genauso gut auch einfach nur die Leichen einsammeln können. Die Quest die wir heute tun ergibt also nicht besonders viel Sinn. Und das wäre okay, wenn es eine gute Pseudo-Erklärung gegeben hätte. Gab es aber nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 09.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #74
+
+* Titel: `Elex 2 - #74 - Tore der Morkons [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da noch so eine kleine Fraktion die ich bisher nicht weiter beachtet habe. Es handelt sich um die Morkons, offensichtlich. Am Anfang wurden sie relativ viel erwähnt und dann waren sie plötzlich gar nicht mehr so wichtig. Angefangen hat bei denen alles damit das sie irgendwelche Weltenherzen angegriffen haben und wir dann Dragan und seinen Boys mal erklärt haben wie der Laden hier läuft. Dann gab es da zwischenzeitlich noch diesen einen Händler in der Hauptstadt der Berserker aber davon abgesehen war es das wirklich. Hier und dort haben wir noch eine kleinere Patroille gefunden aber das hat uns jetzt nicht wirklich glauben lassen das es sich um eine ernsthafte Fraktion handelt. Stellt sich doch glatt heraus, das ist eine echte "Gilde" mit Basis und allem drum und dran. Heute finden wir den Zugang zu ihren Einrichtungen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 09.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #75
+
+* Titel: `Elex 2 - #75 - Leben im Untergrund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Völlig von der Außenwelt abgeschottet zu leben ist echt schwer. Neben den psychologischen Folgen gibt es da auch harte technische Probleme die man nicht einfach so wegreden kann. Die Fallout Spiele haben da tatsächlich relativ viel Lore geliefert. Die eigentlichen Vaults sind auch wesentlich größer als sie in den Spielen immer dargestellt werden. Im Fallout Universum wurden die Bunker ja ursprünglich angelegt um zu testen wie Menschen in bestimmten Situationen reagieren weil sich die geheime Schattenregierung überlegt hat das sie eigentlich den Planeten verlassen will aber das mit den Raumschiffen noch nicht fertig geforscht war. Neben den Test-Vaults sind aber auch echt viele Kontroll-Vaults gescheitert, einfach weil Leben im Untergrund halt nicht einfach ist. Und jetzt kommen die Morkons die scheinbar in einem ehemaligen U-Bahn Tunnel leben, oder einer unterirdischen Fernverkehrsstation, vielleicht ist es auch Stuttgart 21, ich weiß es nicht. Und angeblich waren sie hier echt lange eingeschlossen. Ich stelle mir das irgendwie schwer vor. Immerhin wird zwischenzeitlich eine Luftaufbereitung benannt, wie auch immer die noch funktioniert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 09.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #76
+
+* Titel: `Elex 2 - #76 - Gostas Keller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben der Morkons ist auf jeden Fall kein Leichtes. Ich muss übrigens anerkennen das die Kultur immerhin irgendwie Sinn ergibt. Die Fehler sind nicht ganz so offensichtlich wie es vorher bei anderen Kulturen waren die wir so getroffen haben. Klar, hier und dort gibt es durchaus noch ein paar Lücken wie das die Nahrungsversorgung alleine auf Ratten basiert haben soll, das erscheint mir eher Notfallessen und keine regelmäßige Erhaltung zu sein, mal davon abgesehen das absolut unklar ist was die Ratten dann fressen. Aber der Rest der Kultur und die relative Striktheit scheint auch Sinn zu ergeben. Umso größer also die Überraschung das wir eine Bar vorfinden. Auf der anderen Seite wird das immerhin damit erklärt das es wohl verschiedene Fraktionen gibt und nicht alle von ihnen sind so strikt was die Einhaltung von Regeln angeht, insbesondere weil man sich unsicher ist was die Regeln überhaupt sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 09.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #77
+
+* Titel: `Elex 2 - #77 - Victors Großfantasie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich werde mich nicht den Morkons anschließen, das ist ja schon einmal klar. Einfach weil mir ihre Art zu Leben und auch ihre Philosophie nicht so wirklich zu sagt. Außerdem gibt es, wie wir übrigens sehr viel später erfahren noch einen Gesinnungs-Check den ich als Gutmensch leider nicht bestehe. Daher werden wir wohl die Person Victor nicht weiter kennen lernen aber er hat wohl irgendetwas mit den Maschinen zu tun. A pro pro Maschinen. Ich habe irgendwie das Gefühl das wir hier eine kleine aber nicht grade leicht zu übersehende Logik-Lücke vor uns haben. Weil wir können wirklich niemanden zu den Viechern fragen, etwas das einen signifikanten Vorteil bietet. Weil seien wir mal ehrlich, bis jetzt habe ich nichts gesehen das den Morkons irgendwie nützlich sein könnte. Interessant ist auch das Victor davon redet irgendwie die Welt zu erobern sobald die anderen Gesellschaften geschwächt sind, aber das ergibt überhaupt keinen Sinn wenn die Kernphilosophie darin besteht konstant zu bleiben. Komischer Kerl.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 09.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #78
+
+* Titel: `Elex 2 - #78 - Nasty [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Beinahe dachte ich wir verpassen einfach einen Charakter und sie kommt dann doch nicht vor, aber es gibt gute Nachrichten. So wie es scheint möchte sich Nasty doch noch irgendwie unserer Gruppierung anschließen. Ich verstehe zwar nicht so richtig wie genau sie jetzt bei den Morkons mit dabei ist weil sie nicht so richtig dazu gehören zu scheint aber was weiß ich schon. Im letzten Teil haben wir irgendeine unheilbare Krankheit bei ihr geheilt und jetzt hat sie auf einmal viele Dinge getan. Ich habe übrigens komplett vergessen das sie einen Bruder namens Logan hatte und das der im Vorgänger irgendwie wichtig war. Wie dem aber auch sei, die Gute möchte tatsächlich etwas von uns und wir können ihr auch helfen. Mir ist absolut nicht klar ob wir Nasty überhaupt haben wollen, so richtig als Bereicherung sehe ich sie auf jeden Fall nicht an aber ich kann ja wohl kaum das Potenzial von Missionen abschlagen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 09.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

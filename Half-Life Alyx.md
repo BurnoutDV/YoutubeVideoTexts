@@ -276,6 +276,96 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKj
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
   ```
 
+##### #18
+
+* Titel: `Half-Life: Alyx - #18 - Rohbau [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Baustellen haben eine gewisse Anziehung. Eine zeitlang hatte ich sogar mal eine vor der Haustür, neben dem Lärm den eine solche Geschichte mit sich bringt ist es ganz faszinierend zu sehen wie Stück für Stück etwas wächst. Quasi vom Grundstein bis zur fertigen Wand. Als Kind konnte mich so etwas sogar noch wesentlich mehr begeistern. Ich kenne auch erwachsene Personen die noch heute gerne Baustellen angucken. Wenn man unbedingt will handelt es sich wohl um leblose Ausdrücke menschlichen Lebens. Etwas das von Menschenhand geschaffen wird, quasi überlebensgroß, ein Monument ihres Strebens, ein Zeichen des Fortschritts sogar. Auch wenn man die Versiegelung von Flächen wohl eher kritisch sehen sollte. Den Rohbau den wir heute durchschreiten ist aber das Schlimmste aus beiden Welten. Zum Einen kann man nicht hoffen das er jemals fertig wird, aber die Natur ist schon beschädigt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 3, Aufnahme vom 03.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #19
+
+* Titel: `Half-Life: Alyx - #19 - Tretminen [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine wichtige Erkenntnis die mir irgendwann einfach mal so kam aber die absolut trivial ist ist die das Türen nutzlos sind wenn sie niemand bewacht. Jedes Schloss kann geknackt werden, jede Mauer überwunden und jeder Fluss durch schwommen werden. Gitter kaufen nur Zeit, Wände gewähren nur Aufschub. Hat man es mit einem adaptiven Gegner zu tun gibt es Nichts was auf Dauer für Ruhe sorgen kann. Dagegen hilft nur ebenso adaptive Verteidigungsmaßnahmen, und alles was statisch ist kann nicht adaptieren. Lange Geschichte kurz, Minen sind absolut nutzlos. Es sei den es gibt Gründe für Dynamik, zum Beispiel wenn man verfolgt wird oder nur ein enges Zeitfenster hat. Aber das kann halt nur passieren wenn es dann auch andere aktive Bewacher gibt. Wir haben heute keine solche Eile, und wäre meine Gier nicht hätten wir den Raum auch in Rekordzeit durchdringen können. Obwohl man wohl davon ausgehen dürfte das die meisten echten Minen eher nicht so offensichtlich Auslöser haben. Andererseits könnte man die Dinger auch als Abschreckung nutzen, aber dann, ein Schild hätte den gleichen Effekt und würde die Überwindung nicht so einfach machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 3, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #20
+
+* Titel: `Half-Life: Alyx - #20 - verlassene Baustelle [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Die gleiche Philosophie die für einen Rohbau gilt gilt natürlich auch für eine Baustelle. Tatsächlich sind wir ja quasi immer noch am selben Ort und ich war einfach nur langsam. Eine Baustelle hat aber im Gegensatz zu einem verlassenen Rohbau auch noch ein paar andere Elemente wie zum Beispiel liegen gelassene Werkzeuge und Ausrüstungsgegenstände. Das Meiste davon wird wahrscheinlich von irgendeinen Arbeitgeber gestellt worden sein, aber so wie die Welt sich plötzlich verändert hat ist wohl sehr davon aus zu gehen das auch einige persönliche Gegenstände dabei sind. Bauen ist standardisiert und ich kann mir ehrlich gesagt nicht vorstellen das es besonderes viele Möglichkeiten gibt hier abzuweichen. Und doch, ein wenig von der Persönlichkeit der Leute die hier einst bauten wird wohl noch übrig sein. Ob wir davon auch noch Spuren finden können oder einfach nur Combine erschießen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 3, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #21
+
+* Titel: `Half-Life: Alyx - #21 - Jeff's Vodka Destile [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein wenig überrascht, aber anscheinend haben die Combine die menschliche Kultur ganz schön runtergefahren, oder zumindest scheint es so das es nicht einmal mehr Alkohol gibt. Das überrascht schon ein wenig wenn man bedenkt das es doch das Handling der Leute wesentlich einfacher machen sollte. Andererseits liegen überall Bierflaschen herum. Vielleicht gibt es nur keinen harten Alkohol, wir befinden uns immerhin in Osteuropa, einiges spricht dafür das hier regionale Politik gemacht wurde. Letztendlich bin ich mir aber auch nicht sicher warum die Menschheit überhaupt existiert. Was dafür aber sicher existiert ist Jeff. Und der Grund warum die Leute keinen Wodka haben ist wohl auch der das Jeff einfach keinen abgibt. Das ist sehr egoistisch vom guten Jeff, andererseits scheint er ein recht erfreulicher Zeitgenosse zu sein, so Alles im Allem. Würde ich jetzt einmal behaupten. Aber zu nahe sollte man ihm wohl auch nicht kommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 3, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #22
+
+* Titel: `Half-Life: Alyx - #22 - Gefühl der Hilflosigkeit [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig seltsam und ich muss es wohl ein Testament der Spieldesigns und auch der Präsentation in VR nennen, aber ich fühle mich in Half Life Alyx tatsächlich hilflos. Zumindest in der aktuellen Situation. Ich habe schon einige Horrorspiele gespielt. Zum Beispiel gibt es ein Outlast Lets Play das ich nie veröffentlicht habe. Outlast hat einige Szenen in denen man vor Leuten weg rennt und quasi hemmungslos verfolgt wird. Und doch habe ich mich nie so richtig gefürchtet weil ich mich nicht so richtig rein versetzen konnte. Das gelingt mir in Alyx wesentlich besser. Es mangelt vielleicht immer noch an Feedback und so richtig merkt man nichts wenn man Schläge kassiert, und doch ist man irgendwie näher dran. Ich gebe aber auch gerne zu das meine Teleportfähigkeit das Ganze ein wenig abschwächt. Und doch, ich habe ein wenig Angst vor Jeff. Nicht panische Angst und darin findet sich definitiv auch eine Mischung aus genervt sein weil Jeff mir einfach nur im Weg steht. Und doch kann ich mich des Gefühls nicht erwehren das nicht mehr alles in meiner Kontrolle liegt, und das ist dann wohl die Definition von Hilflosigkeit. Am Ende sind all meine Superkräfte nicht besonders viel im Angesicht vom Jeff den Mutanten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 4, Aufnahme vom 15.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #23
+
+* Titel: `Half-Life: Alyx - #23 - Ameisentunnel [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann mir ja auch nichts Besseres vorstellen wenn man durch einen Gang läuft der von irgendwelchen Viechern gegraben wurde die wir gar nicht so richtig identifizieren können. Obwohl, doch, schon, und zwar wenn man bereits weiß das es sich um Ameisenlöwen handelt und wir haben ja eine ganz gute Erinnerung was ein "Antlion" eigentlich genug ist. Was mich aber wirklich interessiert würde ist wer die Dinger eigentlich benannt hat. Waren es die Combine selbst die dann irgendeine Art von automatischer Übersetzung benutzt haben und das Ergebniss war halt ein wenig seltsam? Wie dem aber auch sei, heute betreten wir einen Zoo. Ich bin absolut begeistert. Die exotischen Tiere wurden schon alle aufgefressen aber wenn ich mir diesen Alptraum aus Beton mal so anschaue habe ich auch irgendwie das Gefühl das es besser so ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 4, Aufnahme vom 15.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

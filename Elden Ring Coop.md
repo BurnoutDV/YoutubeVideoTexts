@@ -986,7 +986,92 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
-##### #Nummer
+##### #58
+
+* Titel: `Elden Ring Coop - #58 - der Ententhron [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube nicht das irgendjemand Grund zur Beschwerde gehabt hätte wenn unsere Reise genau hier ein Ende gefunden hätte. Wenn man den Weg zum Eldenthron gelaufen wäre, ein paar Gegner besiegt und dann sich selbst auf den großen Thron gesetzt hätte. Aber so wie die Dinge stehen waren und sind weder Godfrey noch Morgot besonders beeindruckend, insofern war eigentlich ziemlich klar das es nicht ganz so einfach ablaufen kann. Und hier stehen wir also wieder. Zwar in der Lage die mächtigen Bewacher des Eldenbaums zu besiegen aber letztendlich war es alles für Nichts weil die Tür selbst verschlossen ist. Die mächtigen Dornen bewachen die innerste Kammer und machen es mehr als eindeutig das niemand jemals den Baum betreten hat. All die Dinge die geschehen sind lassen irgendwie daran zweifeln das die öffentliche Geschichtsschreibung des Ortes wirklich von wert ist.
+  
+  Stichworte: Goldmaske, Godfrey, Erster Eldenfürst, Kirche von Marika, Morgot, König des Mals, Eldenbaum, Radagons Lichtklinge, Marika
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 15, Aufnahme vom 02.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #59
+
+* Titel: `Elden Ring Coop - #59 - Tiefen von Tiefwurz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Höhen der Hauptstadt haben für uns absolut kein Problem dargestellt. Egal wieviele Stufen wir in Leyndell genommen haben, egal welche Balkone wir erkundet haben, nie gab es eine Ecke an der ein Gegner auf uns gelauert hat der ein wahres Problem war. Aber jetzt ist es soweit, wir gehen eine ganz andere Richtung ein. Interessant ist allerdings auch das wir nicht in die Kanalisation gehen, stattdessen erkunden wir eine andere Tiefe unterhalb von Leyndell. Die Tiefen von Tiefwurz, ein leicht dämlicher Name übrigens. Aber dennoch ein wichtiger Ort, ein Ort zu dem die Wurzeln des Eldenbaumes reichen, und man fragt sich doch ob nicht auch hier ein guter Ansatz wäre das Gewächs zu Fall zu bringen. Und man fragt sich ob nicht hier irgendwo der ursprüngliche Schmelztiegel herumstand. Vor langer Zeit.
+  
+  Stichworte: Tiefen von Eldenwurz, Ameisen, Eldenstern, Fluchfrösche, Schmelztiegelritterin Siluria, Mausoleum
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 15, Aufnahme vom 02.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #60
+
+* Titel: `Elden Ring Coop - #60 - Fias Schicksal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht warum wir in die Tiefen gekommen sind. Letztendlich sind wir zwei Weggefährten die einen Weg gehen den sie nicht erklären. Wir beschreiten unmögliche Pfade und finden unmögliche Eingänge um eigentlich Nichts zu tun. Wir besiegen alle Feinde, überwinden alle Hindernisse um dann letztendlich nicht besonders viel zu tun. Letztendlich ist es doch nur unser Wunsch mehr von der Welt zu sehen und am Ende, wenn wir alles in unser Gedächtnis gespeichert haben überlassen wir diese verfluchten Zwischenlande wieder sich selbst. Es gibt allerdings noch eine andere Möglichkeit. Eine Gefährtin auf dem Sterbebett hat uns eine andere Möglichkeit angeboten. Ein Weg die Dinge ein wenig dramatisch am Ende zu beenden. Eine Möglichkeit alles in Dunkelheit gehen zu lassen und damit den natürlichen Zyklus einmal mehr zu beginnen. Das klingt irgendwie entfernt vertraut.
+  
+  Stichworte: Wurzeltiefen, Fias Held, Lionel Löwenherz, Fia, Lichdrache Fortissax, Todesgewitter, Leyndell Kanalisation, Brunnen, Reservat der Scham. Dungfresser
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 15, Aufnahme vom 02.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #61
+
+* Titel: `Elden Ring Coop - #61 - Unterirdisches Reservat der Scham [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  "Leichen im Keller haben" ist ein sehr häufiges Sprichwort, glaube ich zumindest, so richtig einschätzen kann ich solche Dinge ja nicht. Ohne statistische Sprachwissenschaften werden wir es wohl auch nicht einfach erfahren. Aber zumindest kommt es mir so vor. Zurück zur Sache, meistens meint man damit nicht wortwörtliche Leichen weil das außerordentlich unpraktisch wäre, irgendwann fangen die an zu stinken und letztendlich gibt es da immer irgendwelche Jogger die deinene Leichenvorrat finden. In einer Welt wie die in der sich die Zwischenlande befinden könnte es aber durchaus sein das die wortwörtlichen Leichen im Keller immer noch leben, oder es sich um verbannte Male handelt die hier noch rumlaufen. Wie genau das rein technisch funktioniert und wie das System der Kanalisation läuft erklärt uns natürlich wieder niemand. Sicher ist aber das wo viel Licht ist gibt es auch viel Schatten, und deswegen ist die Beleuchtung die wir heute in den Rohren finden auch eher so mittel-gut.
+  
+  Stichworte: Unterirdisches Reservat der Scham, Mal, Rohre, Kanalisation, Tunnel, Fluchfrösche, Basilisken, Schleim, Schnecken, Dungfresser
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 16, Aufnahme vom 07.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #62
+
+* Titel: `Elden Ring Coop - #62 - Tiefen des Wahnsinns [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als es hieß das es ein paar Leichen im Keller der Hauptstadt gibt war noch nicht ganz klar wieviele Leichen es tatsächlich sind. Stellt sich doch glatt heraus, es sind ein paar mehr. Tonnenweise sogar. Wie genau die Wahnsinnsjünger jetzt funktionieren kann ich immer noch nicht sagen, aber ich bin mir recht sicher das die Typen die wir in den Dörfern treffen noch in einem frühen Zustand waren. Von der allgemeinen Menge an Fleisch auf den Knochen würde ich aber vermuten das der Wahnsinn einen dazu bringt das man vergisst zu essen. Das ist ein wenig ärgerlich denke ich einmal. Ansonsten gibt es eigentlich gar nicht so viel hier unten zu finden, nur das es halt ein dunkles Geheimnis gibt und das uns Melina sehr dafür abredet in diese Richtung weiter zu investigieren.
+  
+  Stichworte: Mohg, das Mal, Kathedrale der Verlorenen, Wahnsinn, Verrückte, Tiefen von Tiefwurz, Ameisen, Esgar, Priester des Blutes
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 16, Aufnahme vom 07.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #63
 
 * Titel: ``
 

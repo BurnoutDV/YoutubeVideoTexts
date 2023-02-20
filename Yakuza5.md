@@ -1843,6 +1843,151 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #126
+
+* Titel: `Yakuza 5 - #126 - berechtigter Zweifel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für die meisten von uns stellt der Tod eine Eventualität dar an die man eher nicht denken möchte. Letztendlich ist es etwas das man ganz nach hinten schieben kann. Manchmal hat man Pech aber dann ist das eher ein Problem anderer Leute. Eines der größten Errungenschaften unserer modernen Welt ist es das es außerordentlich unwahrscheinlich ist das man außerhalb der eigenen Kontrolle stirbt. Natürlich, Unfälle passieren, Autos existieren und manchmal stehen die Sterne genau falsch. Aber die großen Probleme wie Krieg oder plötzlich einfallende Banditen sind eher unwahrscheinlich. Bleibt also nur noch das was man sich selbst einbrockt, unnötige Risiken, oder der plötzliche Verlust des Lebenswillen. Ein häufiges Argument gegen den Freitod ist das man den anderen Leuten einen Scherbenhaufen hinterlässt, ein Argument das mir sehr schwierig erscheint irgendwie praktisch zu sein. Allerdings stellt es auch die Grundlage für Zweifel da wenn ein plötzlicher Sprung vom Dach ein wenig zu verdächtig aussieht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #127
+
+* Titel: `Yakuza 5 - #127 - ein unwahrscheinliches Team [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Geschichte muss irgendwie weiter gehen und Haruka alleine ist definitiv nicht in der Lage die etwas seltsamen Umstände des Ablebens von Park-San zu erkunden. Aber Akiyama kann das tun, eigentlich könnte er das auch alleine und doch, irgendwie muss Haruka ja mitmachen. Wenn wir es so sehen wollen ist Kiryu der Dreh- und Angelpunkt der Serie, irgendwie muss er beteiligt sein. Haruka ist Kiryus Tochter in jeder Hinsicht außer Blut. (Unnötiger Nebengedanke: der Sprichwort "Blut ist dicker als Wasser" wird immer falsch verstanden. Gemeint ist das Geburtswasser und das Blut der Vereinigung, also genau anderherum als volkstümlich angewandt). Also solche kann sie quasi als sein Avatar agieren während wir mit Akiyama herumrennen. Ich bin ein wenig traurig das sie keine aktivere Rolle übernimmt aber auf der anderen Seite ist es vielleicht gut das immerhin irgendjemand Probleme ohne Gewalt lösen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #128
+
+* Titel: `Yakuza 5 - #128 - Daijiri Saigo [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß das ich extra zurückgegangen bin um mir abzuschreiben wie man den Namen richtig schreibt und doch fange ich schon wieder an zu Zweifeln. Daijiri Saigo ist ein Kerl den wir schon im letzten Teil kennen gelernt haben. Als Army-Cosplayer tut er irgendwie so als hätte er sehr viel Erfahrung darin Militär zu sein aber die Realität sieht wohl ein wenig anders aus. Dennoch scheint er irgendwie Akiyamas Ausbilder zu sein. Und das Irgendwie möchte ich an der Stelle noch einmal hervorheben. Erklären kann ich es nicht und ich kann mich auch nicht mehr so richtig an diesen Charakter aus dem Vorgänger erinnern, nur das er auf einem Dach rumstand und seinen Lehrling immer irgendwelche Weisheiten erzählt hat. Von Details weiß ich aber nichts mehr. Es ist allerdings ein wenig beeindruckend wie viel Mittel der gute Mann aufbringen kann um unsere Fähigkeiten zu testen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #129
+
+* Titel: `Yakuza 5 - #129 - alte Verhaltensmuster [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Leben heißt Veränderung. Und doch streben Menschen immer nach Stillstand, nach einer konservativen Lösung, langsamer Veränderung anstatt plötzlicher Revolution. Fast so als würden wir auf einem instinktiven Niveau wissen das Chaos nicht kontrollierbar ist und nur denen dient die es verursacht, und vielleicht nicht mal dort. Sich zu verändern heißt einen neuen Aspekt von sich selsbt zu akzeptieren oder einen alten los zu werden. Sei es das Verlangen nach Rache, Lethargie oder einfach nur ein kleiner Traum. Los lassen und wieder anfassen scheint ein beständiges Thema zu sein. Und doch, manchmal findet man sich wieder und tut Dinge von denen man lange dachte das man sie hinter sich gelassen hat. Rauchen ist ein klassisches Beispiel. Oder Geld verleihen. Allerdings bin ich mir ziemlich sicher das das bereits zu den Tätigkeiten von Akiyama gehört, das Leben von Menschen zu beeinflussen indem er beurteilt was sie tun. Die alten Verhaltensmuster sind also nicht direkt ein Rückfall heute, eher die Fortsetzung von dem was war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 19, Aufnahme vom 06.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #130
+
+* Titel: `Yakuza 5 - #130 - Nanakos Traum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Träume zu haben ist eine wirklich häufige Trophe in quasi jeder Geschichte. Selten kommt es vor das ein Protagonist in eine Situation geworfen wird und von Anfang bis Ende nur irgendwie mit macht. Eine aktive Rolle benötigt halt auch eine aktive Aufgabe, meistens in Form einer Mission oder eines Traums. Jetzt könnten wir uns über Definition streiten aber ich behaupte jetzt einfach mal das Vieles ein "Traum" ist was man eher als Ziel im Leben, Mission oder einfach nur als Aufgabe betrachtet. Man stellt sich etwas vor das sein soll und sucht dann einen Weg wie man dahin kommt. Ein wenig problematisch wird es wenn man dafür Kompromisse machen muss. So ein Traum erfüllt sich nicht so einfach und wenn es nicht sehr einfach sein soll gibt es meistens irgendwelche Opfer. Ich persönlich habe zum Beispiel gar keine richtigen Träume, einfach weil ich zuviel Angst habe das es am Ende nichts wird. Oder nicht möglich ist. Und doch, vielleicht ist da doch ein geheimer Traum von dem ich mich nur nicht traue ihn aus zu sprechen und deswegen tue ich nie dafür. Anders als ich hat die "Hauptperson" des Tages Nanako aber tatsächlich einen Traum. Ob es ein guter Traum ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 13.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #131
+
+* Titel: `Yakuza 5 - #131 - der Neue im Geschäft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Akiyama wirkt zwar wie jemand der schon seit Ewigkeiten Dinge tut und seine Selbstsicherheit verkauft diesen Eindruck definitiv ziemlich gut, aber die Realität ist das man schon ein sehr enges Netzwerk braucht wenn man sich wirklich in eine Gruppe einfügen will. Kurzum, Osaka ist fremdes Land für unseren Helden im roten Anzug, und wie auch in Toyko könnte es durchaus sein das Menschen Anstoß daran nehmen das er einfach so Geld verleiht. Die Art und Weise wie er es tut ist ja ein wenig kompliziert und ich bezweifle das die feinen Details jemals durch Mundpropaganda weiter getragen werden. Die unwichtigen Details wie zinslos, ohne Versicherung und beliebige Höhe hingegen schaffen es um die ganze Welt. Nicht ganz so weit aber immerhin ausreichend weit schaffen es die bezahlten Schläger die wir heute treffen. Scheint es doch fast so als hätte man es auf uns abgesehen. Das hindert doch nur die Ermittlungen!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 13.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #132
+
+* Titel: `Yakuza 5 - #132 - der verfluchte PrintCircle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neulich sprach ich über Träume. Vielleicht wäre es ein Traum an das Übernatürliche zu glauben. Das wäre doch irgendwie schön oder? In dem Moment in dem wir etwas erleben das sich durch Physik nicht erklären lässt oder Erscheinungen hoch komplexe Dinge tun die auch eine Erweiterung der bekannten Wissenschaft nur schwerlich weg reden könnte wird es nämlich richtig spannend. Ab da an ist nämlich klar das es noch richtig dolle was zu entdecken gibt. Vielleicht gibt es ganz neue Regeln, vielleicht findet es aber auch auf einer ganz anderen "Ebene" statt, wie 6-dimensionale Objekte die in unseren 3-dimensionalen Raum hineinreichen (denke Finger die in einen Teich tauchen). So oder so würde uns eine Bestätigung übernatürlicher Phänomene zeigen das es etwas gibt, das wir damit interagieren können (wie ist erst einmal egal) und eventuell sogar irgendeine komisch geartete Hoffnung. Lange Geschichte kurz, das wäre höchst spannend. Und es würde so einige Weltreligionen wirklich unglücklich machen, nichts ist schlimmer für eine Religion als heraus zu finden das es ihren Gott wirklich gibt. So weit gehen wir heute nicht, aber dennoch stellt sich doch die Frage was genau Akiyama heute wieder gefunden hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 13.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #133
+
+* Titel: `Yakuza 5 - #133 - subventionierte Beziehung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir nicht so richtig sicher wie ich auf diesen Titel gekommen bin, eventuell habe ich es sogar gesagt, viel spricht dafür das ich ihn 1:1 übersetzt habe. Es gibt da recht viel beachten, beim Übersetzen, und Englisch und Deutsch sind eigentlich ziemlich kompatibel, keine komischen Sprachkonzepten, Zusatzsymbole oder Zweitbedeutungen durch tonale Zeichen. Von allem was ich so mitbekommen habe macht es überhaupt keinen Spaß Japanisch gut zu übersetzen, es gibt da wohl Nuancen die einfach verloren gehen wenn man nicht aufpasst. Das Prinzip der bezahlten Beziehungen kennen wir bereits aus anderen Yakuza Teilen, letztendlich ist wohl alles käuflich, und warum sollte es immer nur körperliche Liebe sein? Ich habe allerdings immer mehr den Verdacht das die Yakuza Spiele die wahren Umstände ein wenig rosiger darstellen als sie am Ende tatsächlich sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 13.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #134
+
+* Titel: `Yakuza 5 - #134 - Erdbeeren-Maya [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man es im Medienbusiness zu irgendetwas bringen will dann muss man schon irgendwie besonders sein. Ich habe irgendwann mal für die Nische Youtube herausgefunden das es zwei von drei Dingen braucht und Glück quasi der Joker das Tüpfelchen oben drauf ist. Fähigkeit, Humor und Technik. Wenn dein Werk zwar technisch schwach ist aber es trotzdem lustig ist während du noch ganz gut dabei bist kann es klappen. Sehr fähig zu sein und technische Perfektion zu erreichen ist auch okay, und so geht es immer weiter. Jeder der Kombinationen funktioniert irgendwie. Alles drei zu besitzen wäre natürlich ideal. Im erweiterten Medienbusiness gibt es aber noch andere Bedingungen. Klassischerweise ist optische Schönheit schon mal ein guter Anfang, die richtige Persönlichkeit kann je nach Richtung des Geschäfts auch praktisch sein, aber in der Regel reicht es wohl die richtige Persönlichkeit zu simulieren. Letztendlich ist es alles nur eine große Performance, es gibt also kein Grund wirklich die Person zu sein die man vorgibt, aber es macht es einfacher. Das hat sich bestimmt auch unser neusten Krönchen Erdbeeren Maya gedacht, die gute spielt eine etwas seltsame Rolle aber ihr Management glaubt wohl das es eine gute Idee sei. Wir dürfen das heute ausbaden. Ist das nicht toll?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 13.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

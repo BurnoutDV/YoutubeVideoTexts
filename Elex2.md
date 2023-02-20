@@ -1185,14 +1185,64 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
-##### #Nummer
+##### #79
 
-* Titel: ``
+* Titel: `Elex 2 - #79 - Herrin des Blutschreins [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir sind noch nicht so ganz durch mit den Morkons, in der Breite haben wir jetzt erst einmal alles gesehen und was jetzt eigentlich nur noch bleibt ist dem Verein bei zu treten. Das will ich ja, wie bereits mehrfach gesagt, eigentlich nicht tun. Aber ich werde es natürlich trotzdem anberaumen. Unsere erste Aufgabe führt uns zu zwei der Unteranführer der Gruppierung bzw. meiner allererster Gang führ explizit zur Herrin des Blutschreins. Dafür muss man wohl verstehen das die Morkons ziemlich geil darauf sind sich selbst zu geißeln aber das nur so weit treiben dürfen das sie nicht sterben. Ob dabei irgendeine Art von Magie, Kraft oder Besonderheit heraus kommt kann ich gar nicht so direkt sagen, aber allen Anschein nach sind die Blutjünger eher die richtigen Outlaws. Oder anders gesagt, die Fraktion der Morkons sieht mir mehr wie die Endzeit Mad Max Gruppe aus von denen ich mir immer gewünscht hätte das es die Outlaws wären. Zumindest ergibt ihre Logistik und Sozialstruktur irgendwie Sinn. Und die Herrin des Blutschreins ist ein wenig herrisch, wer hätte das gedacht. Immerhin gibt es ein wenig mehr Lore die es zu erkunden gibt. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 09.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #80
+
+* Titel: `Elex 2 - #80 - fette Beute mit Vlad [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen sind in ihren Grundfesten eigentlich gar nicht so übel. Die Meisten wollen einfach nur durch den Tag kommen und tun halt was notwendig ist um in ihrer geweiligen Gesellschaft auf zu gehen. Was dann die Gesellschaft vorgibt und was gut und was recht ist wird dann durch einen mehrheitlichen Konsensus beschlossen. Und welche der vielen Mehrheiten die die Gesellschaften ausmacht dann am Ende den Rest dominiert bestimmt dann wohl das Überleben der einzelnen Gruppen. Das ist ein in sich unfairer Prozess. Gesellschaften mit schlechten und eigentlich weniger guten Ansichten könnten einfach nur durch eine günstige geografische Position besser klar kommen und sich durch setzen obwohl vielleicht an anderer Stelle wesentlich bessere Gesellschaften existieren. Die Morkons sind definitiv in einer nicht idealen Stellung und ich gebe ihnen keine große Zukunft, aber für den Moment existieren sie halt noch. Heute erleben wir ein wenig mehr die Jünger des Stillstands bei der Arbeit. Letztendlich handelt es sich wohl um eine Gesinnungsprüfung und nicht um eine Jagd aber ich bin wirklich unsicher wie man hier am besten reagieren sollte. Aber hey, es stellt sich immerhin heraus das man auch die Morkons bestechen kann, sie sind halt doch ein wenig sehr wie wir anderen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 14.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #81
+
+* Titel: `Elex 2 - #81 - Ivikas Bauernopfer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir fällt immer wieder und im Besonderen auch durch Spiele auf wie "ein Leben" eine Währung ist. Ein Menschenleben kann nicht aufgewogen werden und hat immer den gleichen Wert. Für Individuen ist vielleicht eine bestimmte Person mehr wert aber für Gruppen und der "Allgemeinheit" scheint das Leben so austauschbar zu sein. Wenn jemand stirbt muss es immer mindestens einen Täter geben. Irgendjemand muss bestraft werden, wenn schlimme Dinge geschehen muss es irgendwie einen Verursacher geben. Wenn Wiedergutmachung verlangt wird soll das Blut mindestens einer Person vergessen werden. Wenn der ultimative Preis bezahlt wird damit etwas glaubwürdiger wird dann muss eine Person vortreten. Es spielt keine Rolle wer es ist, erst einmal muss es nur jemand sein. Das ist irgendwie komisch. Aus irgendwelchen Gründen scheint es letztendlich nur wichtig zu sein DAS es jemanden gibt und gar nicht so sehr wer es ist. Wenn irgendwo eine Brücke einstürzt dann muss jemand verantwortlich sein. Je nach Niveau der Korruption ist das entweder der ausführende Bauarbeiter, der planende Ingenieur oder der CEO der Firma die unterschrieben hat das günstige Materialien genutzt werden. Hauptsache ist, irgendjemand ist verantwortlich. Manchmal kommt es tatsächlich auch vor das Verantwortung durch einen Schwamm gedrückt wird und am Ende alle ein bisschen schuld sind und damit eigentlich niemand. Aber meistens braucht es ein Opfer. Blut für den Blutgott und so. Heute lassen wir irgendeinen Schwarzmarkthändler über die Klinge springen. Ich habe keine Besondere Bindung zu dem Kerl, ich weiß nicht mehr wer es ist. Mir wurde nur gesagt das unsere Geschichte eine solide Grundlage ist und ein Leben ist anscheinend die Währung die eine Grundlage bezahlt. Also lassen wir jemand den ultimativen Preis bezahlen, wer ist eigentlich egal. Ich denke das ist etwas für das ich Elex 2 und seinen eigentlich ziemlich kruden Writing danken darf, ich bin hier angekommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 14.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #82
+
+* Titel: `Elex 2 - #82 - ein unerwünschter Morkon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich beendent wir eine Quest die wir schon echt lange an der Hacke haben. Ganz früher, als wir das erste Mal im Fort aufgetaucht sind gab es da einen Morkon den die Berserker eigentlich gar nicht da haben wollten. Der Mann weigert sich aber die Stadt zu verlassen solange er nicht bestimmte Mengen an Vorräten mit sich bringen kann. Dafür hatte er auch eigentlich einen Deal mit der Barkeeperin gemacht aber dann sind Dinge schief gegangen. Jetzt sind wir wieder hier weil Dinge nicht mehr ganz so schief sind. Zwischenzeitlich haben wir aber auch erfahren das es nicht so  aussieht als wäre das normaler Verhalten für Morkons. Eigentlich sollen die Leute die raus gehen doch gar nicht handeln sondern einfach nur irgendwelche Karawanen überfallen. Ich bin mir übrigens ein wenig unsicher was das für eine Taktik sein soll. Spätestens nach drei oder vier Überfälle sollte man doch meinen das die Leute die die Karawanen organisieren gegen steuern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 14.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
 ##### #Nummer

@@ -1978,14 +1978,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
-##### #Nummer
+##### #135
 
-* Titel: ``
+* Titel: `Yakuza 5 - #135 - das Geldverleiherprinzip [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Das Geschäft des Geldverleihs ist wirklich sehr sehr alt. Es gibt da bestimmte historische Gründe die dazu geführt haben das wiederum ebenso bestimmte Volksgruppen mehr in das Geschäft des Geldverleihen eingestiegen sind als Andere. Die Natur der Sache sorgt dann dafür das jene Volksgruppen damit durchaus ein wenig Gewinn machen, und wenn man Schulden hat wäre es doch sehr interessant wenn die Schuldeneintreiber nie kommen oder? Wenn einem die eigene Kultur verbietet Geld zu verleihen gibt es da auch eine klare Grenze an Gruppierungen wer Geld verleiht. Der Bedarf geht ja nicht weg, irgendwer braucht immer mehr Geld als sie grade zur Verfügung hat. Das Wichtigste ist aber auch nur an Leute zu verleihen die die Kohle wieder zurück zahlen, und auf keinen Fall auf die Idee kommen die Meute auf zu stacheln. Ein paar schwarze Schafe gibt es immer, aber damit ist wohl zu rechnen. In fernöstlichen Comic ist es aber ein häufiges Thema das Leute Schulden erben. Akiyama missachtet diese Regeln nicht direkt, aber er agiert unorthodox.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 13.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
 ##### #Nummer

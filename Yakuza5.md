@@ -1993,6 +1993,171 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #136
+
+* Titel: `Yakuza 5 - #136 - die Kunst des Feilschens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Richtig zu verhandeln ist eine wirklich hohe Kunst bei der es maximal darauf ankommt seinen Gegenüber zu lesen und idealerweise auch gut zu manipulieren. Wie genau man das macht kommt wohl sehr auf den Händler an aber ich würde sehr damit rechnen das ältere Händler quasi schon alles gesehen haben und wenn sie dann darauf eingehen das jemand feilscht dann eher aus einer gewissen Sentimalität weil sie sich gebauchpinselt fühlen und nicht weil das Geschick so gut war. Die Kansai Methode des Feilschens erscheint mir auf jende Fall ein wenig komisch und ich frage mich wirklich inwiefern sie irgendwie der Realität entspricht. Ich werde es wohl nie erfahren, das erscheint mir wie so ein kleines, nischiges Stück Wissen das man wirklich vor Ort jemand kennen lernen müsste der zufälligerweise in diesen Kreisen verkehrt. Und vielleicht gibt es noch eine Epochenbeschränkung auf die Materie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 20, Aufnahme vom 13.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #137
+
+* Titel: `Yakuza 5 - #137 - Wiederholungstäter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab auf meinem Schreibtisch diverse Zettel rumliegen. Viele enthalten Zitate die ich irgendwie einleuchtend fand. Eines davon ist "Once is happenstance. Twice is coincidence. Trice is absurd incompetence". Kurzum, wenn etwas dreimal passiert wird es wirklich wirklich verdächtig, aber schon die erste Wiederholung lässt die ein oder andere Augenbraue in die Höhe schießen. Heute passiert etwas ein zweites Mal und man stellt sich doch wirklich die Frage wie kompetent die (noch) vorgestellte Gegenseite ist. Bei allen Verschwörungen und bei Erwachsenen geht man ja immer irgendwie davon aus das die beteiligten Personen hochgradig komplexe Pläne ausführen können und irgendwie alles klappt. Und dann sieht man die Realität. Praktisch ist es natürlich wenn man die japanischen Kansai-Cops auf der eigenen Seite hat, also praktisch für die Gegenseite. Weil dann sind die Sachen alle einfach und schnell gelöst.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 20.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #138
+
+* Titel: `Yakuza 5 - #138 - alternative Ermittlungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kleiner Exkurs: Wenn es heißt das jeder ersetzbar ist dann ist das in der Regel tatsächlich die Wahrheit. Kein Mitarbeiter ist unersetzlich bzw. so gut wie keiner, manchmal steht und fällt wirklich alles mit einer Person. Was in dieser Aussage aber oft vergessen wird ist das es da verschiedene Grade gibt. Wenn jemand zwar ersetzbar ist aber der Versuch dies zu tun die Firma bzw. die Organisation sehr knapp am Ruin vorbei schrammt und nichts anderes schief gehen kann dann ist man an sich trotzdem unersetzlich. Aber auch davon ab ist das Individuum wesentlich relevanter als man aus den Sprüchen der Arbeitgeberverbände so hören möchte. Ein klassisches Beispiel ist wie ein motivierter Mitarbeiter der wirklich gute Arbeit leisten will den Unterschied macht ob Dinge gelingen oder nicht. Meistens wird einen das dann nicht gedankt, aber das ist eine andere Geschichte. Halten wir das im Hinterkopf. Wenn es um Ermittlungen bei der Polizei geht dann kann man sich in zivilisierten Ländern eigentlich halbwegs darauf verlassen das zumindest bei den großen Geschichten wie Mord durchaus jemand hinter hängt. Es sei denn alle sind überlastet. Bietet der Fall aber eine einfache Erklärung wie "Gangkriminalität, wurde random erschossen, kann man nichts machen" oder "klarer Fall von Freitod mit einem Hauch Unsicherheit" wird es kritisch. Insbesondere wenn man als Angehöriger die Person besser als das kennt. Dann macht es einen gewaltigen Unterscheid ob der zuständige Ermittler nur sein Bier im Sinn hat oder ob da jemand dran klebt die der Sache auf dem Grund gehen will.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 20.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #139
+
+* Titel: `Yakuza 5 - #139 - Prinzessinen Liga, Runde 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich noch hauptamtlich Haruka gespielt habe habe ich mich ja sehr bemüht die meisten ihrer Quest zu erledigen, ausgenommen natürlich die langweiligen Händeschüttel-Events, die braucht nun wirklich niemand. Davon hat sich ihr Fähigkeitenkatalog wesentlich erweitert und man kann durchaus sagen das die Gute mittlerweile eine Meisterin des Idol-Tanzes ist. Ich frage mich zwar wie gut man wirklich im Singen sein kann wenn man so ein wenig Training aber nicht die echten Jahre der Praxis hatte, aber wahrscheinlich spielt das auch keine Rolle. So oder so sind wir hervorragend für die kommende Runde der Liga vorbereitet. Ich frage mich wirklich wie T-Set jemals gedacht haben das sie gegen jemanden ankommen die wesentlich mehr als 24 Stunden in einem Tag hat. Arme Idioten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 20.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #140
+
+* Titel: `Yakuza 5 - #140 - die Stalker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sich nicht sicher zu fühlen ist seltsamerweise ein Gefühl das ich bisher nur ganz selten hatte, und wenn war es eher ein sehr konkreter Anlass als ein allgemeines Gefühl. Ich kann es mir allerdings vorstellen, wahrscheinlich aber auch nur eine Annährung an das richtige Gefühl. Ich stelle es mir schrecklich vor, wenn man sich in seinem eigenen Heim nicht sicher fühlt, immer diese Kribbeln im Rücken hat das da jemand einen Beobachtet und vielleicht aus der nächsten Ecke jemand springt. Es nimmt die ganze Freude am Allein-Sein, den Spaß an tiefer Einsamkeit in der Nacht, überschattet durch die Angst das da jemand sein könnte. Um einen Stalker zu erhalten muss man eigentlich gar nicht viel tun, es reicht für irgendjemanden faszinierend zu sein. Und dafür reicht auch schon Aussehen, aber manchmal ist es auch eine bestimmte Persönlichkeit. Das ist ein wenig traurig weil es bedeutet das sich Leute verstellen um weniger interessant zu sein und dadurch die Leute im Mittel auch langweiliger werden. Die Existenz einiger nerviger Gestalten die obsessiv sind macht also für den Rest Interaktion kaputt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 20.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #141
+
+* Titel: `Yakuza 5 - #141 - Geld und Stolz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Akiyama lebt noch nicht vollständig in der Gegenwart. Es gibt noch einige Sachen die in seiner Vergangenheit liegen und die bis heute nicht gelöst wurden. Man hat solche Sachen immer wieder. Manchmal entscheidet man sich das man eher alles zurück lässt anstatt das die Angelegenheiten geklärt werden. Und wenn man genügend Distanz und Zeit hinter sich bringt dann klappt das eigentlich auch ganz gut. Es ist vielleicht ein gerne genutztes Vehikel in Geschichten aber in der Realität ist es durchaus möglich einfach die Dinger hinter sich zu lassen. Wir sind hier aber in einem Spiel und damit auch einem Narrativ. Logischerweise kann Shun Akiyama also nicht einfach vor seinen Problemen weglaufen. Und hier sind wir dann. Die Vergangenheit klopft an der Tür und würde sich gerne ein wenig Geld ausleihen. Fantastisch. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 20.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #142
+
+* Titel: `Yakuza 5 - #142 - Gourmet die Vierte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gut zu essen ist ja eigentlich ganz schön und gut aber ich muss wirklich sagen das es mich doch ein wenig langweilt zum vierten Mal Tatsuya zu treffen und noch einmal irgendwelche Restaurants zu treffen. Ob die vier Charaktere jemals begreifen das sie alle bei der gleichen Person gelernt haben? Wenn sie sich überhaupt jemals treffen sollten. So oder so steht ja auch noch nicht fest ob alle Leute am Ende der Geschichte hier überleben. Für den Moment mache ich die Quest aber schnell, oder fange zumindest an zu suchen, so richtig motiviert bin ich wirklich nicht. Und auch nicht motidreit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 20.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #143
+
+* Titel: `Yakuza 5 - #143 - eine Quelle der Kraft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn es um Motivation geht gibt es ganz verschiedene Quellen von denen Menschen ihre Kraft schöpfen. Manche Leute haben einen Traum oder Verlangen das sie unbedingt wahr werden lassen wollen. Andere wollen die Wegbereiter für die kommenden Generation sein (und damit wohl auch ihre eigene Dynastie gründen) und wieder andere tun Dinge einfach nur weil sie es können. Die meisten Leute sind wahrscheinlich ziemlich ziellos und tun einfach nur soviel um von einen Tag in den Nächsten zu kommen. Ich nehme einfach mal an das aus einer solchen Herangehensweise eher keine großen Wunder entstehen aber ich könnte mich durchaus täuschen. Manchmal habe ich aber eher das Gefühl das vor allen Dingen die egoistischen Arschlöcher diejenigen sind die motiviert sind Dinge in der Welt zu tun und den Antrieb haben Unmenschliches zu tun. Wie schön ist es doch zu sehen das wir heute eine kleine Geschichte von jemanden haben der nicht direkt Tod und Verderben über die Welt bringen will.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 21, Aufnahme vom 20.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #144
+
+* Titel: `Yakuza 5 - #144 - der Fälscher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird mal wieder Zeit für peinliche Kindheitserinnerungen. Die Geschichte ist absolut tangential und hat quasi nichts mit dem Inhalt der Episode zu tun. Ich erzähle sie trotzdem einfach damit hier Text steht. Und weil ich sie sonst bestimmt vergesse und das hier ist quasi der beste Ort. Ich habe eine Anzahl an Cousins, einer von denen stammt von der Tante ab die ich nicht so gut leiden kann. Dieser Cousin hatte irgendwann in den mittleren 2000er Jahren einen alten Apple Laptop, damals schon Antik und auf dessen Desktop lag eine Verknüpfung die mit "Fälscherwerkstatt" bezeichnet war. Es handelte sich einfach nur um den Shortcut für das Paint-Äquivalent auf was auch immer welcher Mac Version das war. Mehr nicht. Aber aus irgendwelchen Gründen hatte mein jüngerer Cousin damals einen harten Drang zur Dramatik und hat das Program so benannt. Fun Fact, früher wurden Macs für Grafikarbeiten bevorzugt weil sie den RAM besser genutzt haben. Heutzutage ist das wahrscheinlich eher so ein Hipsterding. Und das ist woran ich denken muss wenn ich von irgendwelchen Fälschern höre. Ich muss immer an diese "Fälscherwerkstatt" Verknüpfung auf diesen portablen Mac denken. Heute betreten wir dann tatsächlich auch eine Werkstatt eines Fälschers aber es ist zum Glück ein wenig spannender als meine eigene Kindheit. Weil die könnte man eher nicht verfilmen, das Spiel hier schon.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 27.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #145
+
+* Titel: `Yakuza 5 - #145 - Präsident Katsuya [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wichtige Leute sind in der Regel sehr beschäftigt. Irgendwie ist das aber auch komisch, an sich steige ich doch in einer Organisation auf und werde mächtiger und mächtiger damit ich mehr vom Leben habe. Wenn es aber bedeutet Kopf einer Vereinigung zu sein und quasi nur noch in dieser Funktion zu leben dann war doch der gesamte Aufwand eigentlich umsonst. Auf der anderen Seite bedeutet das aber auch das nur diejenigen Leute Anführer einer Organisation sind die sich in einer solchen Rolle auch als erfüllt betrachten. Was die Leute ursprünglich einmal waren kann man aber vorher nicht immer sagen, unser heutiger Präsident mit Namen Katsuya war anscheinend irgendwann einmal Schauspieler, stellt sich doch glatt heraus das er noch ein paar andere Geschäfte hat. Verdächtig auf jeden Fall, aber angeblich unschuldig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 27.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #146
+
+* Titel: `Yakuza 5 - #146 - die große Entscheidung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Situationen in Spielen mit denen ich irgendwie mitfühlen kann und dann wieder auch nicht. Die heutige Episode zeigt etwas das ich absolut nicht nachvollziehen kann. Große Entscheidungen an denen alles hängt. In der Regel besteht mein Leben und ich nehme an das vieler Anderer auch aus einer langen Reihe von kleinen Entscheidungen die dann am Ende den Pfad bestimmt haben. Haruka fällt heute eine von den ganz großen Entscheidungen, und noch viel interessanter, anscheinend können wir das wirklich tun. Ich bin ja tatsächlich ein wenig gespannt wo uns das hin führt. Davon einmal abgesehen tue ich mich mit großen Entscheidungen schwer. Dazu kann es eigentlich nur kommen wenn es extreme Umstände gibt oder bis dahin alle kleinen Entscheidungen aufgeschoben wurden und das Große Ding "morgen" als Anlass genommen wurde sich dann zu entscheiden. Und dann ist es auf einmal morgen. Nämlich heute. Das stelle ich mir schrecklich vor.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 27.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

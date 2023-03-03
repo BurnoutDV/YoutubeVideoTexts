@@ -1073,10 +1073,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
 
 ##### #63
 
-* Titel: ``
+* Titel: `Elden Ring Coop - #64 - verbotenes Schneeland [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Aus irgendwelchen Gründen gehen andere Leute davon aus das die Regeln der Zwischenlande für Befleckte gelten. Die Ausgangslage sieht irgendwie so aus das wir den Eldenthron besteigen sollen, warum und wie wird nicht so direkt erklärt. Irgendwann auf halben Weg kommt aber sowieso heraus das es sich um Scam handelt, wie wir auch daran sehen können das die Dornen wohl länger nicht mehr aufgegangen sind. Oder niemals waren? Wir wissen es gar nicht so genau. Fakt ist jedenfalls das es keine echten Herrscher mehr gibt die hier irgendetwas verwalten. Die Welt wird größtenteils von Momentum angetrieben und das läuft langsam aus wie ein Ball auf einer Straße. Letztendlich könnten wir auch einfach ein paar tausend Jahre warten und dann wäre alles zu Ende. All diese Worte um sagen das ich das Verbot für irgendetwas nicht nachempfinden kann. Welches Gesetzt will uns bitte binden wenn es sowieso keine echte Regierung gibt die uns zurückhalten kann.
+  
+  Stichworte: Katakomben des Riesengipfels, Baumgeist, Borealis der eisige Nebel, Refugium der Bestien
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 16, Aufnahme vom 07.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```

@@ -1245,6 +1245,171 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #83
+
+* Titel: `Elex 2 - #83 - Reisebegleiter Ivan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Begleiter und dann gibt es Begleiter. Wir befinden uns heute in der zweiten Variante die anscheinend eher so etwas wie eine Eskortmission ist nur das wir tatsächlich eskortiert werden. So wie wir die Morkons kennen tatsächlich in die Sklaverei aber das muss uns ja nicht beunruhigen, wir haben ja bereits die Bekanntschaft der Tieflinge gemacht und freies Geleit zugesichert bekommen. Auch wenn so ein wenig fraglich ist wie es wohl wäre wenn man ganz plötzlich sagen würde das man doch nicht mehr gehen darf. Wahrscheinlich einer der großen Misstrauenspunkte wenn man Bunkerbewohner besucht. Was wenn die eine zweite geheime Etage haben in der sie Leute einsperren die eigentlich nur zu Gast waren. Das ist dann ein wenig so wie wenn einen das Irrenhaus einfach da behält. Was will man tun wenn die Gesellschaft als Ganzes durchgedreht ist? Soweit sind wir aber auch noch nicht, ersteinmal müssen wir überhaupt den weiten Weg schaffen, und der Weg ist, überrschend, weit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 14.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #84
+
+* Titel: `Elex 2 - #84 - doppeltes Vertrauen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vertrauen ist gut aber Kontrolle ist besser, hat zumindest Lenin gesagt wenn ich das richtig zitiere und wir wissen ja alle das der gute Mann ein echter Menschenfreund war. Davon einmal abgesehen ist echtes Vertrauen echt selten, ich besitze es zum Beispiel gar nicht. Man könnte argumentieren das man ein Idiot sein muss um jemanden wirklich zu vertrauen aber andererseits ist das bestimmt auch ein gutes Gefühl, wenn man sich sicher ist das es jemanden gibt der wirklich so tut wie gesagt wurde. Fast ein wenig wie Liebe, wahrscheinlich auch das gleiche Konzept. Immer wenn ich jemanden Vertraue dann geht es entweder um nichts Wichtiges oder aber tief in mir drin habe ich bereits den Verrat vor Augen. Das nervt ein wenig, weil es führt auch dazu das man Dinge mit wesentlich mehr Sicherheitsfaktor planen muss als man eigentlich sollte, das kostet Geld. Wenn man kein Vertrauen hat und immer eine Powerbank herumschleppt, oder warme Klamotten falls man weite Strecken laufen muss. Wie schön muss es erst sein doppeltes Vertrauen zu genießen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 14.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #85
+
+* Titel: `Elex 2 - #85 - Khans Henker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mittlerweile sind wir über die Kultur der Morkons schon ziemlich gut informiert. In Essenz versuchen sie die Zahlen konstant zu halten weil sie halt in einem Bunker leben und der nur so und so viele Leute gleichzeitig unterstützen kann. Das gleiche Thema wurde auch schon in den Fallout spielen erkundet, und wahrscheinlich noch einigen anderen, aber so eine Vault springt direkt vor Augen. Da gibt es echt große moralische Probleme, letztendlich braucht es immer eine gewisse Anzahl an jungen Leuten die Arbeiten können und Leute die abartig alt werden entwickeln sich zu einem echten Problem, sei es in Platz, Nahrung oder Luft. Andererseits kann uneingeschränktes Vermehren das gleiche Problem herbeiführen, und wenn Menschen für Eines bekannt sind dann endloses Wachstum. Die Morkons haben die einfache Lösung das sie regelmäßig die Schwachen aussieben. Was aber wenn man selbst im Alter noch stark bleibt und sich einfach niemand findet? Dann muss man auf ein Wunder hoffen, darf ich vorstellen, Wunderjax.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 14.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #86
+
+* Titel: `Elex 2 - #86 - Baxter, Duke von Arteris [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein wenig erstaunt wieviele ehemalige Machtbar in dieser Welt noch in der Gegend zu finden sind. Man möchte meinen das volatile Kulturen wie die der Outlaws dazu neigen sehr regelmäßig ihre Warlords zu wechseln, ja ich weiß der Titel ist für die Berserker reserviert aber an sich ist es doch das was die Outlaws eher haben. Einen starken Mann der mit einem engen Zirkel über ein bestimmtes Gebiet herrscht und in bestimmten Fällen wahrscheinlich noch einige Leute mehr auf den Plan rufen kann. Quasi ein Clanchef, ich könnte mir keinen Grund vorstellen wie man mit einer einfachen Recht-des-Stärkeren Regierungsform mehr Reichweite erreichen könnte. Aber in einer solchen Umgebung würde ich auch damit rechnen das relativ oft die Macht ihren Besitzer wechselt, letztendlich gibt es ja kaum harte Grenzen die die Macht zementieren. Insofern bin ich sehr überrascht Baxter am Leben zu sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 14.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #87
+
+* Titel: `Elex 2 - #87 - Rat, die Ratte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man muss fairerweise sagen das es später noch irgendwie erklärt wird wie ein Typ wie Rat es am Ende geschafft hat die Anführerschaft bei den Berserkern für einen Außenposten zu erlangen, er erklärt dann später auch noch das er durchaus unter Beobachtung von den wahren Kräften in Goliet steht. Und doch frage ich mich doch sehr wie es sein kann das Rat überhaupt erlaubt ist als Berserker zu posieren. Kann er wirklich die Magie nutzen und hat irgendwie den Einklang mit dem Mana erlernt? Wäre er dazu überhaupt in der Lage? Kann es wirklich jeder oder ist das so eine Sache die genau wie die Benutzung von Elex eine gewisse mentale Festigkeit braucht? Aber dafür wäre Rat wohl arrogant genug um von sich genügend überzeugt zu sein das er der Kraft stand halten kann. Rat hat sich übrigens gar nicht so sehr verändert, zum Beispiel ist sein name jetzt von "Crazy Rat" zu verkürzt "Rat" geworden. Das macht es nicht besser das ich andauernd Rat wie Ratschlag als wie Ratte lese. Nervige Namenswahl aber der Fehler wurde ja quasi schon im Vorgänger mit den unnötigen Anglizismen gemacht. Ich bin ja wirklich kein Sprachpurist, aber wir haben hier ein echt lächerliches Niveau erreicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 23.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #88
+
+* Titel: `Elex 2 - #88 - Rat's Paranoia [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wer einmal an der Macht ist kann sich durchaus Sorgen machen das Andere kommen um die Macht wieder weg zu nehmen. Nur wenn diese dann Erfolg haben, dann haben diese Leute auch wieder Angst. Wir befinden uns aktuell in der Mitte eines solchen Zyklus, Rat hat sich anscheinend ganz gut gefestig und besitzt durchaus Informationen um seine aktuelle Position auf dem Thron ganz gut halten zu können aber doch fürchtet er wohl um seine Macht. Immerhin glaubt er sofort an unsere Kompetenz, das ist eigentlich ziemlich nett von ihm, die meisten anderen Leute behandeln uns immer wie Abschaum. Solange es seinen eigenen Zielen dient kann Rat also durchaus über simple Dinge wie Rang oder Geschichte hin weg sehen. Aber vielleicht ist es auch grade unsere Geschichte die ihm sicher glauben lässt das wir ihn nicht verraten haben, bis her. Die Eröffnung das es einen Grund zur Sorge gibt lässt uns gleichzeitig wissen das es eine andere Seite gibt der wir uns theoretisch anschließen könnten um Rat zu schaden, aber vielleicht kennen wir diese andere Fraktion sogar schon.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 23.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #89
+
+* Titel: `Elex 2 - #89 - ein einfacher Werker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich ist die Zeit gekommen einer Fraktion bei zu treten. Der Ärger ist jetzt aber das wir zu diesem Zeitpunkt bereits bei allen Fraktionen waren und diverse Quest erfüllt haben. Und wenn man ehrlich ist dann unterscheidet sich die Schwierigkeit schon sehr von Fraktion zu Fraktion. Die Albs hatten eine mehrstufige Verschwörung mit einem hochkarätigen Outlaw als letzte Instanz die es zu überwinden gab. Die Berserker haben uns dagegen auf ein paar einfache Touren geschickt die eher zu dem passen was jemand tun müsste um einer Fraktion bei zu treten. Alles was danach kam, insbesondere der Teil mit der Ermittlung war ein wenig lächerlich viel von jemanden verlangt der eigentlich nur mit dem Boss reden will. Ich kann mir auch nicht vorstellen das es besonders gut für die Mitgliederwerbung ist wenn nur der oberste lokale Anführer Leute aufnehmen kann. Auf der anderen Seite scheinen die Berserker ja eine Gemeinschaft zu sein die sich eher aus Familie rekrutiert, nur das wir davon nicht so viel merken, einfach weil das lokale Dorf ja doch eher aus Outlaws besteht die kein Bock hatten umzuziehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 23.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #90
+
+* Titel: `Elex 2 - #90 - Tilas Wundermittel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Suche nach dem Alchemistischen Weg aus Blei Gold zu machen ist eine ziemlich alte Trophe, irgendwie ist da auch meist ein Gegenstand involviert der sich Stein der Weisen nennt und wenn man schon in der Ecke ist findet man die Quelle der ewigen Jugend auch nicht viel weiter weg. Mit roher Gewalt und viel zu viel Wissenschaft kann man zumindest Blei in Gold verwandeln, das Ganze ist sogar relativ trivial weil wir hier gar nicht soviel Fusion brauchen, technisch ist es dennoch aufwendig und, das ist der große Punkt, echt teuer. Ansonsten macht Atomphysik leider nicht gut mit, und ein schönes alternative Welt Szenario für die Tungusta Explosion ist ein eben solches Experiment anstatt ein schöner Meteoriten Einschlag. Was genau Tilas jetzt eigentlich erschaffen will ist mir nicht klar aber irgendwie in die Richtung Trank der Jugend wird es schon gehen, wenn auch nur als Nebeneffekt von großer physischer Stärke. Eventuell will er auch einfach nur alle Wunden heilen, aber das klingt schon wieder sehr nach Zellregeneration.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 23.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #91
+
+* Titel: `Elex 2 - #91 - das Trollwurz Gegenmittel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ein Alchemist an einer besonderen und quasi magischen Formeln arbeitet dann kann es durchasu sein das es beim ersten Versuch nicht klappt. In diesem Fall sollte man auf keinem Fall seinen eigenen Stoff probieren, dafür hat man ja schließlich die niederen Lehrlinge und Gehilfen. Wenn am Ende doch was extrem Gutes bei rum kommt dann kann man ja immer noch behaupten das man es absichtlich und aus Liebe getan hat. Sollte es dann doch Nebeneffekte geben und man realisiert ein wenig zu spät das die Person die es getroffen hat doch wichtig sein, dann wird es schwierig. In der Regel tut es ein triviales Gegenmittel nicht, wir haben zwar sonst für alles ein Gegengift gegen einfach alles, aber hier liegt der Fall anders. Welch Glück aber auch das der neue und junge Lehrling den Tilas angestellt hat durchaus kompetent ist und schon weiß was zu tun ist. Und natürlich sind es nervige große Viecher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 23.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #92
+
+* Titel: `Elex 2 - #92 - 5 Leben für ein paar Stiefel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In Computerspielen aber auch oft Geschichten wird das menschliche Leben immer ziemlich gering geschätzt. Und das ist auch okay, wir haben es mit einer harten Welt zu tun und das individuelle Leben zählt nicht viel. Oder das wäre zumindest so wenn es vorher etabliert werden würde das dem so ist. Andernfalls kommt die Härte der Welt nicht so richtig rüber. Es ist leicht Charaktere einfach nur als gesichtslose Schläger zu sehen und genau das ist es auch was den emotionalen Schaden auf ein Minimum senkt. Früher gab es die gute alte Killerspiele-Debatte aber das war so ein wenig neben der Spur. Leute werden nicht zur Mörder weil sie in Spielen töten. Letztendlich sind es halt nur ein paar Pixel. Allerdings ist das von einer anderen Seite auch irgendwie schade. Wenn die Gegner und ihre Leben nicht mehr so viel zählen dann sind die Tode der eigenen Seite auch irgendwie sinnlos. Bzw. das Sterben von Leuten verliert den Einschlag und dadurch wird die Welt irgendwie leer. Hinter den fünf Schlägern die heute sterben sollten ja eigentlich 1 bis 5 Familien stehen, vielleicht liebende Eltern, eine Kindheit, Freunde. Solche Dinge halt, jedes Leben irgendwie individuell.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 23.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #93
+
+* Titel: `Elex 2 - #93 - die Wunder der Magie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt ja bei den Berserkern, das heißt nicht nur das wir ein wenig aussehen wie ein Baumschmuser und einige neue Freunde erhalten sondern auch das wir Magie lernen dürfen. Wie das genau passiert wird übrigens nicht geklärt. Wir können dann einfach Magie nachdem wir mit der richtigen Person gesprochen haben. Es wird auch nicht erklärt wie wir auf einmal in der Lage sind Tiere auszuweiden, aber das scheint mir immer noch relativ klar, ich meine, es ist halt nur Wissen. Aber Magie? Aber irgendwie benutzen wir Mana das in unserem Körper ist oder auf einmal erscheint um plötzlich eine lebende Waffe zu werden. Das wird nicht erklärt. Wir werfen irgendwelche Skillpunkte auf die Angelegenheit und schon können wir das. Hier wäre ein wenig Lore vielleicht gar nicht so schlecht. Insbesondere weil Jax als ehemaliger Elexetor wahrscheinlich es ein wenig leichter hat, die Konzepte sollte ja verwandt sein oder? Wissen wir aber auch nicht, so richtig Erklärung habe ich in der Richtung noch nicht erfahren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 23.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

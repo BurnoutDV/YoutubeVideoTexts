@@ -1410,6 +1410,216 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #94
+
+* Titel: `Elex 2 - #94 - Kuppelruinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich habe ich diesen Ort nur aufgesucht weil ich meine neu erworbenen Fähigkeiten austesten wollte, stellt sich doch glatt heraus das hier eine beachtliche Anzahl an Monstern wohnt und gleichzeitig so etwas wie eine eigene kleine Zivilisation stattfindet. Natürlich handelt es sich wieder um irgendwelche Banditen die offensichtlich davon leben die nahen Karawanen zu überfallen. Leider können wir nicht mit ihnen reden noch unterscheiden sie sich irgendwie signifikant von anderen Banditen obwohl ihre Position ja doch eher einzigartig ist. Das ist irgendwie schade, ich hätte hier eine Menge Potenzial gesehen ein paar schöne Geschichten zu erzählen. Immerhin haben wir hier ordentlich viel Gelegenheit unsere neuen Fähigkeiten zu testen und festzustellen das unser derzeitiger AOE Zauberspruch eigentlich für absolut nichts zu haben ist, selbst die niederen Banditen sind nicht beeindruckt. Und erst recht nicht gegen die viel zu starken Monster die hier überall hausen, wie die Banditen wohl bis jetzt überlebt haben. Die Konzentration der Viecher ist immerhin ein Highlight. Übrigens auch noch wichtig, die Kuppelruinen haben nichts mit der Kuppelstadt aus dem Vorgänger zu tun, das war ein anderer Ort.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 28.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #Nummer
+
+* Titel: `Elex 2 - #95 - Mitgliedsbuch der Krallen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich Anfange eine illegale Vereinigung zu führen erscheint mir das Führen eines Mitgliedbuches keine gute Idee. Andererseits muss man irgendwie seine Ränge verwalten. Das ist ein echtes Problem. Irgendwann kann man sich einfach nicht mehr merken wer was kann oder wie eingestellt ist. Neulich wurde eine größere Excel-Liste der letzten Generation geleaked. Darin standen auch so Dinge wie "bricht beim Verhör" zusammen. Das mag erst einmal ziemlich verdächtig erscheinen, aber eigentlich ist das ziemlich Standard. Wenn ich jemanden einstelle der für mich zwielichtige Versicherungen verkauft sollte in den Daten auch stehen "hat kein Gewissen" oder "kann Moral an zweiter Stelle stellen". Und wenn man lange Demos vor hat ist eine gewisse mentale Stärke wichtig. Bei Dieben ist das auch nicht ganz unwichtig, was man allerdings vielleicht in Betracht ziehen sollte ist die Namen irgendwie zu anonymisieren. Zweiteilig oder vielleicht sogar dreiteilige Daten zu haben erscheint wie ein guter Ansatz. Die Chance das ein einziger Dieb die gesamte Organisation offenbaren kann ist irgendwie unpraktisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 28.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #96
+
+* Titel: `Elex 2 - #96 - Yasmas Diebesverträge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich lang und breit in der Beschreibung darüber gesprochen wie absolut wichtig es ist keine Mitgliederliste zu haben. Die habe ich natürlich prompt geklaut. Damit könnte ich jetzte alle Niederlassungen der Krallen in Verlegenheit bringen, insbesondere wenn ich die falschen Namen in das richtige Ohr flüstere. Das würde ich natürlich niemals tun. Vorerst zumindest nicht. Dazu besteht ja auch kein Grund. Heute beschäftigen wir uns daher erst einmal mit der anderen Seite. So wie es aussieht gibt es nämlich noch Dinge zu klauen und ich wäre doch wohl schön doof wenn ich die Erfahrungspunkte einfach so auf der Straße liegen lassen würde oder? Nie würde ich das tun. Daher beschäftigen wir uns heute mit Yasma, die Gute ist übrigens ziemlich durchgedreht. Schon weil sie anscheinend seit Ewigkeiten im Keller wohnt und sich nie vor die Tür trauen kann. Das ist schon ein wenig seltsam das sie überhaupt noch hier herumläuft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 28.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #97
+
+* Titel: `Elex 2 - #97 - schlechte Spieldesign [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann mich sehr lebendig daran erinnern das eine Spielezeitschrift die ich früher immer physisch gelesen habe gerne auch die KI eines Spieles getestet hat. Namentlich ging es bei dem Bericht an dem ich mich erinnern kann um Far Cry. Das Spiel hatte damals nämlich eine halbwegs brauchbare Gegner KI die einen ordentlich in die Zange genommen hat wenn man nicht aufpasste. In der Praxis sah das dann so aus das selbst wenn man gecheatet hat die Gegner noch halbwegs reagiert haben und nicht einfach nur dumm rum standen. Der Gegenentwurf zu solchen Gegner sind Skripts. Man kennt das, man rennt über eine bestimmte Grenze und auf einmal erscheinen Feinde aus allen Richtungen, oder plötzlich taucht ein besonders starker Widersacher mit dem großen Gewehr auf. Oder aber Gegner die bei bestimmten Taten immer exakt gleich reagieren, beispielsweise Anfangen zu laufen wenn man einen Heiltrank rausholt. Besonders nervig ist das aber wenn Dinge die eigentlich nicht nur stumpfe Skillchecks sein sollten geskripte sind. Das sieht dann so aus das man unter Gauner 2 einfach nicht durchschleichen kann obwohl wirklich niemand in die entsprechende Richtung schaut. Das nervt sehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 28.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #98
+
+* Titel: `Elex 2 - #98 - Diplomatie 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man es ernst mit diplomatischen Verhandlungen und vorsichtigen Ausstrecken von Fühler meint dann muss man außerordentlich behutsam vorgehen. Selbst direkt Beleidigungen muss man wohl oder übel weg stecken und es gibt nicht viel das man mit direkten Worten ansprechen kann ohne Gefahr zu laufen die eigene Mission zu gefährenden. Dies sind absolute Grundlagen und ich kann nicht behaupten das ich in dieser Hinsicht ein Experte bin. Auch außerhalb höchster diplomatischer Ämter habe ich schon so manches Fettnäpfchen betreten. Teilweise aber auch weil ich einfach nicht bereit war mich den Konventionen der Gesellschaft zu beugen. Das tut Nasty übrigens auch nicht, aber ich glaube sie übertreibt ein wenig in ihrer großen Mission es den Leuten mal so richtig zu zeigen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 28.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #99
+
+* Titel: `Elex 2 - #99 - Viel zu dicke Lippen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt durchaus Situationen in denen es angemessen ist dicke Lippe zu riskieren. Umgangsprachlich gesagt, ein wenig zu übertreiben und Leuten in einem konfrontativen Tonfall zu begegnen. Zum Beispiel wenn man es mit Leuten zu tun hat die ihrerseits ein wenig übertreiben und versuchen sich so eine Position im sozialen Gefüge zu erschleichen die ihnen offensichtlich nicht zu steht. Insbesondere dann wichtig wenn andere Parteien nicht sehen können das es sich um eine Betrüger oder Wichtigtuer handelt. In solchen Fällen kann es gar nicht wichtig genug sein Leute in ihre Schranken zu weisen. Oder andersherum, man versucht sich etwas mit projizierter Stärke zu ergaunern das man eigentlich gar nicht haben sollte. Und dann gibt es Situationen in denen es eher unklug erscheint.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 28.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #100
+
+* Titel: `Elex 2 - #100 - die aussichtslosen Fälle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man Menschen führt ist es für führende Personen mitunter ziemlich wichtig ihre Untergebenen nicht im vollem Umfang zu informieren. Das ist wichtig wenn man den Leuten nicht völlig vertrauen kann oder sie einfach nicht für fähig hält mit allen Fakten gleichzeitig um gehen zu wissen. Wenn man Leute hat die das wissen und dennoch bereit sind im vollen Wissen das sie quasi blind handeln und dennoch tun was man ihnen sagt, dann hat man wohl gutes Personal. Im Umkehrschluss ist es ein gutes Zeichen wenn man mehr Informationen erhält als für die Erledigung einer Aufgabe von Nöten sind. Das lässt darauf schließen das der Auftraggeber Schrägstrich Vorgesetze darauf vertraut das man mit den zusätzlichen Informationen umgehen kann oder unter Umständen auch in der Lage ist eigenständige Entscheidungen zu treffen sollte sich die Gegebenheit im Feld ändern. Der informationsarme Fall birgt aber auch eine Menge Missbrauchspotenzial. Zum Beispiel wenn man Aufgaben genau so stellt das sie schief gehen müssen und man dann dem Unterling die Schuld dafür zuschiebt. Das kann viele Gründe haben, aber da man ja im Dunkeln gelassen wird kann man darüber nicht einmal spekulieren. Blinde Treue ist halt eben das, blind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 14, Aufnahme vom 28.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #101
+
+* Titel: `Elex 2 - #101 - Feuerregen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin alt, nicht unbedingt biblisch alt aber doch schon alt genug um eigentlich in allen Dingen erfahren genug zu sein um nicht mehr in einfache Probleme zu laufen und die erst beste Falle mit zunehmen. Kurzum, das Alter in dem man eigentlich genau weiß was man will und deswegen sehr gerichtet darauf hin arbeiten kann. Seit ziemlich Anfang des Spieles habe ich gesagt das ich eine Möglichkeit brauche das Spiel zu cheesen weil ich genau weiß das es am Ende wieder irgendwelche Bullshit-Kämpfe geben wird die überhaupt gar keinen Spaß machen und ich mich daran nicht aufhängen will. Dann bin ich bei den Berserkern eingestiegen und hätte gleich Feuerregen lernen können. Stattdessen habe ich mich erst einmal für andere Fähigkeiten entschieden. Kenner erinnern sich beim Feuerregen noch an den gleichnamigen Magie Zauberspruch aus Gothic 2. Seit dem hat sich bei Piranha Bytes vielleicht das gesamte Personal einmal geändert, aber der Zauberspruch ist immer noch genauso overpowered wie eh und je. Ich ärgere mich schon ein wenig das ich überhaupt versucht habe mit der Feuerwelle rum zu krebsen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 07.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #102
+
+* Titel: `Elex 2 - #102 - Passus 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich! Nach nicht einmal 101 Episoden und damit knapp 33 Stunden Spiel habe ich es endlich geschafft das zweite Kapitel zu erreichen. Ich möchte aber gerne zugeben das ich wesentlich schneller hätte sein können wenn ich einfach nicht jede Fraktion soweit gespielt hätte wie es eben möglich gewesen wäre. Aber sein wir ehrlich, ich werde ELEX 2 nie wieder anfassen wenn ich einmal durch bin, es ist ja nicht so das das Spiel unbedingt zu einem zweiten Durchspielen einläd. Die Kampfmechaniken sind simpel, die Bewegungen bestensfalls okay und die Geschichte verändert sich auch überhaupt nicht, völlig unabhängig von dem was wir entscheiden. Daher nehme ich mir meine Zeit alles maximal zu erleben. Und um genügend Gelegenheit zu haben richtig gut meckern zu können. Und jetzt meckern wir halt über das zweite Kapitel. Erfahrungsgemäß sollte das aber schneller gehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 07.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #103
+
+* Titel: `Elex 2 - #103 - Lila ist das neue Blau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich liebe ja kulturelle Referenzen, leider bin ich meistens nicht so drin das ich sie gerne einmal verpasst. In diesem Fall verstehe ich es aber sogar. Es gibt eine Serie die "Orange is the new Black" heißt, in der geht es um, wenn ich mich recht erinnere, irgendwelche Frauen im Knast. Und dort trägt man halt auffällige Gefängniskleidung die eben Orange ist. Davon abgesehen gibt es noch ein paar mehr Referenzen die alle darauf hinaus laufen das X jetzt das neue Z ist. Kurzum, das ganze Ding ist ein wenig flach aber wollen wir uns mal nicht zu sehr beschweren. Rein von der Lore her ist das Lila aber auf jeden Fall nicht das neue Blau. Das neue Zeug ist wesentlich volatiler und  definitiv nichts für experimentierfreudige Menschen, der Tod ist eigentlich quasi garantiert und nicht nur eine Chance wie beim Elex.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 07.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #104
+
+* Titel: `Elex 2 - #104 - Skyaniden Forschung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich einen Planeten erobern wollte würde ich wohl damit anfangen aus dem Orbit zu bombardieren und nachdem ein guter Teil der örtlichen Bevölkerung verstorben ist in Verhandlung mit den lokalen Anführer treten. Wenn es keine Weltregierung gibt wird das natürlich ein wenig schwierig. Generell würde ich aber behaupten das man als raumfahrene Kultur eigentlich kaum Grund hat überhaupt mit der lokalen Fauna zu interagieren. Sollte man aus irgendwelchen Gründen hinter den Bodenschätzen her seien die man nicht so im Weltraum findet sehe ich nicht viel Grund dafür die lokale Bevölkerung zu nutzen. Offensichtlich bin ich in der Lage durch das Weltall zu reisen, warum brauche ich irgendwelche Primitivlinge und ihre Bergbaukunst? Es sei den es gibt irgendwelche magischen Gründe bei denen das Leid von Bewusstseinen mir zusätzlich etwas bringt. Orbitales Bombardement ist scheinbar immer die beste Wahl, am besten ohne Vorwarnung. Machtzentren identifizieren und platt machen. Den Rest mit Bodentruppen aufwischen. Schnell, brutal und effizient. Und vor allen Dingen kein Stress mit den Locals. Alternativ kann man natürlich auch irgendwelche pocken-verseuchten Decken verteilen. Oder die hypothetische Weltregierung unterwandern und im Verlauf eines ewig langen Prozesses die Zivilisation von Innen an die Wand fahren. Das Endergebnis sind aber trotzdem zerstörte Städte. Oder man wirft einen Metoerd mit einem seltsamen Material auf die Welt, wartet 100 Jahre und invasiert dann halbherzig mit sich selbst verbreitenden Bodentruppen die aber der örtlichen Fauna jede Menge Zeit zum reagieren gibt. Und zum Erforschen deiner Bodentruppen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 07.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #105
+
+* Titel: `Elex 2 - #105 - Selbst vor Ort [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt bestimmte Charaktere und Personengruppen von denen man sich einfach nicht vorstellen kann das man sie in Person trifft. Sagen wir hochrangige Politiker die in einer Bibliothek sitzen und sich wirklich selbst in ein Thema einlesen, oder der Tech-Firmenchef der selber Designs verbessert und verfeinert anstatt nur zu entscheiden. Meistens sind das auch Leute die mächtig überqualifiziert sind, es gibt da beispielsweise die Anekdote von Bill Gates der einen Windows Support Call bei einer Call-Center Besuch übernommen hat. Seit dem wurde das aber eh alles ausgelagert. In der Sci-Fi oder Fantasy ist das dann auch gerne der übermächtige Schlachtfeldkommandant der selbst so stark ist wie 10 Männer, beispielsweise wenn in 40K ein Primarch auf einmal neben den normalen Space Marines steht. Rechnet man nicht mit. Bei Dawkins habe ich nicht ein solches Gefühl. Und doch nimmt er sich heute diese Rolle heraus. Wie schade das wir absolut nichts finden und unsere eigene Erkundung quasi nur billige Kullissen zeigt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 07.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #106
+
+* Titel: `Elex 2 - #106 - Wissen ist Macht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Tat ist Wissen Macht aber auch nur sehr indirekt. Für jemanden der mit einer Menge Fantasy Büchern aufgewachsen ist war Macht immer etwas das man direkt hat. Persönliche Macht die man direkt auf die Welt anwenden kann ohne das man dafür durch irgendwelche Ringe springen muss. Wissen funktioniert ähnlich wie Macht die man durch andere Personen erhält. Indirekt, natürlich ist eine Armee aus tausenden Leuten, Männern mit Waffen, fähigen Verwalterinnen und Herrscharen an Bediensten absolut fantastisch und sehr mächtig, und trotzdem kann eine einzelne Fischgräte immer noch das Ende bedeuten. Echte Macht sieht für mich so aus das man über diesen Dingen steht. Aber vielleicht ist das auch etwas das beruhigend ist, Macht ist immer kontextbezogen. So zum Beispiel die Macht durch Wissen. Klar würde Baxter direkt aus den Latschen kippen wenn Bully direkt Hand anlegen würde. Aber das passiert nicht, weil unser guter Duke hat Vorsprung durch Wissen. Wissen das er nutzt um in einer günstigen Position zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 07.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #107
+
+* Titel: `Elex 2 - #107 - Flut der Lernpunkte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neulich hatte ich eine Episode mit den schönen Titel "Feuerregen", alternativ hätte ich sie auch "der Cheese mit dem Zauber" nennen können. Elex 2 hat ein enormes Balance Problem. Normalerweise ist das in Single Player Spielen eigentlich kein großes Problem und wenn man durch irgendetwas OP wird ist das in der Regel okay weil daran ist ja nichts Schlechtes oder? Das Machtgefühl zu haben und durch Horden von Gegner zu rollen ist ja irgendwie Teil der Erfahrung. Das haben wir mit dem Feuerregen ja jetzt auch erreicht, einziger verbleibender starker Gegner sind Kampfbots wegen ihres DPS. Aber an anderen Stellen krankt es erheblich. So lohnen sich die Fähigkeiten zum Steigern der gewonnen Erfahrung aus Büchern zum Beispiel überhaupt, und auch andere Fähigkeiten aus der Kategorie Lernen-lernen sind eher mittelgut auf einer Skala von Gut bis mittelgut. Kurzum, es gibt echt viele Fähigkeiten die einfach nichts tun oder keine Berechtigung in einer Welt haben in der man nicht alles leveln kann. Auf der anderen Seite dieser harten Realität finden wir den Alchemieskill. Um einen Skillpunkttrank herzustellen brauchen wir nur 20 Elex und irgendwelchen Alkohol der an jeder Ecke zu finden ist. Den Trank zu trinken hat keinen Nachteil. Selbst nachdem ich hunderte Elex verschwendet habe habe ich immer noch genügend um 6 Stück sofort her stellen zu können. Selbst bei absolut gar keinen Interessen an Alchemie kann ich jetzt also Netto 3 Punkt erlangen ohne irgendwelche Nachteile zu erfahren. In welcher Welt würde ich nicht Alchemie lernen? Das ist einfach schlechtes Design, weil defacto treffe ich keine Entscheidung mehr. Warum spiele ich dann überhaupt noch ein Spiel wenn es sowieso nur einen Weg gibt zu spielen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 15, Aufnahme vom 07.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

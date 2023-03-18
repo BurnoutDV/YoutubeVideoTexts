@@ -1620,6 +1620,22 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #108
+
+* Titel: `Elex 2 - #108 - Kontrollknoten-Netzwerk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind zurück im Advocatus Diaboli Modus. Hier argumentieren wir was wir als Alieninvasor gemacht hätten. Oder besser gesagt was nicht. In den ersten Stunden der Invasion hätte ich definitiv die Zentren der lokalen Herrscher mit überwältigender Macht angegriffen, je nach Ressourcen mit allen Truppen in sequentieller Reihenfolge. Eine vollständige Vernichtung ist zu diesem Zeitpunkt noch nicht von Nöten. In der Beobachtungsphase haben wir ja bereits herausgefunden wo wir zuschlagen müssen um einen geordneten Widerstand zu brechen bevor er entsteht. Danach etablieren wir uns auf der Oberfläche um nicht auf Versorgungsfahrten aus dem Orbit abhängig zu sein. Sobald diese Brückenköpfe etabliert sind machen wir uns systematisch daran die lokale Fauna für unsere Zwecke um zu funktionieren. 
+  Was ich auf keinen Fall machen würde wäre dagegen: uralte halb verrostete Tech der vorherigen Zivilisation finden (die die wir mit dem bereits unlogischen Erstschlag vor 100 Jahren vernichtet haben) und sicher stellen das diese nicht gegen mich verwendet wird. Das würde ich schon deswegen nicht tun weil nach 100 Jahren niemand weiß wie das Zeug funktioniert, es schon lange eingesetzt hätte und jedes Szenario in dem das überhaupt ein Problem werden würde, hätte ich bereits der lokalen Bevölkerung erlaubt einen langen und persistenten Widerstand gegen mich zu organisieren. Da es ist niemals zu diesem Fall kommen kann muss ich meine Truppen auch nicht auf eine kleinteilige Schrottjagd nach für mich fremder Technologie schicken die _eventuell_ problematisch werden könnte. Die Skyaniden machen genau das, ich bin echt gespannt ob das noch irgendwie erklärt wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 14.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1292,6 +1292,23 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
+##### #76
+
+* Titel: `Elden Ring Coop - #76 - Tröte des Todes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich dachte eigentlich das, nachdem wir das Badewasser mehrfach eingelassen haben das es jetzt endlich an der Zeit ist die Dinge ein wenig ernster zu nehmen, aber es stellt sich doch glatt heraus das das gar nicht notwendig ist. Die komischen Bandagierten auf den Bäumen dieser Welt lassen manchmal ein Musikinstrument fallen. Ein Instrument das auch zum Werkzeug des Todes werden kann. Und hier sind wir nun und tun genau das. Der stumpfe Schaden wenn man das gute Stück als Tröte benutzt ist eher so mittelgut, aber als Etwas das man spielen kann eignet es sich ganz hervorragend. Ich muss sagen das ich selten so viel Spaß mit einem Weapon Art hatte, insbesondere wenn es sich als ansatzweise effektiv herausstellt.
+  
+  Stichworte: Haligbaum, Stadt, Parkour, Riesentröter, Bubbles, Loretta, Ritterin des Haligbaumes, Millicent, Elphael
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 02.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
 ##### #Nummer
 
 * Titel: ``

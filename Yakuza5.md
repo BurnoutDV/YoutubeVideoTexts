@@ -2158,6 +2158,216 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #147
+
+* Titel: `Yakuza 5 - #147 - Prinzessinnen Liga Finale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich komme nicht so ganz mit wie genau ein Idol Wettbewerb überhaupt funktioniert, irgendwie ist ja die Beliebtheit ein wichtiger Faktor und das ist wohl in dem Gewerbe auch wichtiger als faktische Fähigkeiten. Dennoch ist mir ein Rätsel wie das mit drei Runden funktioniert. Weil es handelt sich ja offensichtlich nicht um ein Best-Of-3 weil dann hätten wir ja bereits nach zwei Runden gewonnen. Für ein Fernsehformat wäre das dann auch ein wenig enttäuschend. Dennoch glaube ich das für die Zuschauer Harukas bisherige Performance eher enttäuschend sein muss. Wir haben das Tee-Set bis jetzt jede Runde abgezogen und haben mit einem deutlichen Vorsprung gewonnen. Welcher Zuschauer kann da wirklich noch Begeisterung oder Aufregung verspüren. Auch als Aufbau ist es irgendwie hohl. Entweder die vorherigen zwei Runden waren komplett sinnlos oder das Finale zählt eigentlich gar nichts mehr und egal was wir jetzt tun, gewonnen haben wir eigentlich schon. Trotzdem geben wir uns natürlich noch alle Mühe, das schulden wir den Zuschauern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 27.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #148
+
+* Titel: `Yakuza 5 - #148 - anonymer Besuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich lebe in einer Welt und persönlichen Umfeld in der ich keinen Besuch erwarte. Es passiert einfach nicht das irgendwelche Freunde oder Bekannten an meiner Tür klingeln würden. Früher hat mir meine Mutter immer eingebläut sauber zu sein, wahrscheinlich genau deswegen. Es könnte ja jederzeit Besuch kommen. Praktisch gesehen passiert das in meinem Leben einfach nicht. Trotzdem stelle ich mir manchmal vor das eine geheimnisvolle Person am Hauseingang auf mich warten würde. Mit ziemlicher Sicherheit würde es sich um den Gerichtsvollzieher oder irgendetwas in der Richtung handeln. Ein positives Szenario kann ich mir irgendwie nicht wirklich vorstellen. Das ist vielleicht einer der Vorteile eines Geschäfts, man erhält jeden Tag überraschenden Besuch. Leute kommen vorbei von denen man noch nie zuvor etwas gehört hat. Das sind dann auch Leute die man nicht treffen will, aber man kann wohl nicht alles haben. Akiyama sollte es eigentlich gewohnt sein Besuch zu erhalten. Allerdings hat sich der Besucher heute angekündigt, das ist ungewöhnlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 27.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #149
+
+* Titel: `Yakuza 5 - #149 - Ousaka Enterprises [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwann muss es einmal einen Punkt in der Geschichte gegeben haben in der es nur Firmen gegeben hat die für sich gestanden haben. Kriminell waren wahrscheinlich schon damals so einige. Ich kann das auch irgendwie verstehen. Ursprünglich gab es irgendwo einen zentralen Herrscher der das Geld abgeschöpft hat und man selbst steht als reputabler Kaufmann wie ein Idiot da weil man nie die Höhen erreichen kann wie diese feinen Jäcken die nichts für ihren Reichtum getan haben. Da ist es leicht sich ein Netzwerk voller Rechtschaffenheit aufzubauen um selber eine Art Gegengewicht zu entwickeln. Ich will nicht implizieren das jede Unternehmung irgendwann unehrlich wird aber manchmal kommt es einen so vor. Man darf aber nie vergessen das auch Firmen aus vielen Individuen bestehen die vielleicht ein gemeinsames Ziel nach Draußen haben, aber immer noch unter der Haut ein vielschichtiger Prozess sind. Und dann gibt es da noch Firmen wie die Ousaka Enterprises die wir heute besuchen. Die ist einfach nur zwielichtig und wahrscheinlich hat jeder einzelne "Mitarbeiter" fest vor illegales zu tun.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 27.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #150
+
+* Titel: `Yakuza 5 - #150 - die Erpressung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man Leute dazu bringen möchte etwas zu tun hat man meistens mehre Möglichkeiten, je nachdem wie weit man bereit ist zu gehen. Grundsätzlich kann man natürlich lieb fragen, aber das erfordert eigentlich für Alles das irgendwie relevant ist eine gewisse Menge an Vertrauen was wieder rum eine Menge Zeit verbraucht die man meistens nicht hat. Dann kann man natürlich noch versuchen zu bestechen, einfach ein wenig Geld und schon gehen die Probleme weg. Das kann natürlich auch einfach nicht klappen wenn die Person so etwas wie Moral hat. Gewalt ist auch immer wieder ein probates Mittel, ab diesem Zeitpunkt sind wir aber an dem Punkt an dem man argumentieren könnte das jeder käuflich ist. Es ist nur eine Frage des Preises. Menschen denken zu erst immer an Geld, aber manchmal ist es auch Sicherheit für Familie, oder Bekannte. nur die wenigstens Menschen sind wirklich gar nicht angreifbar. Einen Umstand den heute auch Haruka feststellen musste. Und so kommen wir in eine neue Situation.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 27.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #151
+
+* Titel: `Yakuza 5 - #151 - Shin-Osaka Station [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erreichen Bahngleis 10 und damit auch das Ende dieses Kapitels. Ich bin übrigens ein wenig überrascht wie lange sich diese Episode eigentlich noch hingezogen hat. Ich habe wirklich sehr damit gerechnet das wir nur kurz zum Bahnhof gehen, ein wenig Zwischensequenz sehen und dann das Kapitel wechselt. Ich kann jetzt schon einmal sagen das wir dann aber in der nächsten Episode den Charakter wechseln und ich zu faul war den Schnitt so zu ändern das es mehr Sinn ergeben würde. Das hat man davon wenn man es mit einem faulen Youtuber zu tun hat der alles soweit weg optimiert hat das er keine weiteren Mühen darin setzen möchte Post-Production zu betreiben. Davon weg kann ich zum Inhalt der Episode quasi absolut nicht sagen außer das ich mich im Zuge eines geplanten Japan Urlaubes über einige Orte informiert hatte und da ich vorher keine einzige Stadt in Japan kannte ich mich total darüber freue das am Bahngleis Nagoya ausgeschrieben steht, ein Ort an dem ich eventuell hin wollte. Ich werde mich in späteren Episoden nicht mehr so sehr über Nagoya freuen, aus Gründen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 06.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #152
+
+* Titel: `Yakuza 5 - #152 - Teil4, Kapitel 1 - Verlorener Ruhm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ihr könnt ja gar nicht ahnen wie sehr ich überrascht bin das wir eine weitere Person kennen lernen. Wirklich, ich habe damit echt nicht gerechnet. Das Bild bei Steam hat ja eine gewisse Anzahl an Personen auf dem Cover und ich habe ja mit Absicht nicht darauf geachtet. Stellt sich heraus, das hätte ich vielleicht doch lieber tun sollen. Weil jetzt bin ich ein wenig verwirrt das wir doch noch jemanden treffen. Ich habe wirklich damit gerechnet das ich jetzt nach Toyko gehe und damit mit unseren drei Charakteren die Geschichte beende und dann endlich einmal fertig bin. Es ist ja nicht so das ich mich direkt langweile, aber langsam aber sicher könnte die Geschichte doch einmal enden. Ich muss leider sagen das die Nebenmissionen einfach nicht spannend sind um mich noch sehr viel länger bei der Stange zu halten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 06.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #153
+
+* Titel: `Yakuza 5 - #153 - Kubota Security [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Sicherheitsunternehmen zu betreiben klingt irgendwie interessant. Oder auch nicht, vielleicht ein wenig stressig. In den meisten Fällen passiert einfach gar nichts, es ist ein wenig wie ein Gebäude zu bewachen und 99% der Zeit kommt niemand vorbei. Bis dann doch jemand kommt. Wenn es Zuschläge für besondere Vorfälle gibt dann wünscht man sich vielleicht ein wenig Action, aber in den meisten Fällen würde man sich als Wache ja doch eher einen ruhigen Abend wünschen. Bis dann irgendwann doch die Verbrecher vorbei kommen. Oder man nutzt seine besondere Position aus um ein wenig Gewinn daraus zu schlagen. Das Ganze zu verwalten erscheint mir übrigens auch stressig, es ist nicht direkt so als würde man Leute in den Krieg schicken, aber trotzdem könnte immer etwas passieren. Unser Kontakt heute mit der Sicherheitsfirma ist aber ein wenig oberflächlicher. Immerhin erfahren wir das die Gesellschaft nicht bis in der letzten Ecke verdorben ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 06.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #154
+
+* Titel: `Yakuza 5 - #154 - Gehaltscheck [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt hat eine Menge sozialer Probleme und ich habe keine Lösung dafür. Später haben wir noch eine Episode mit einem Politiker und ich gehe in viel zu viel Details darauf ein, aber im Großen und Ganzen läuft es wohl auf "eat the rich" hinaus. Die Tatsache das Leute von einer Rechnung zur nächsten Fallen, von einer Gehaltszahlung irgendwie zu einer weiteren Humpeln und quasi gezwungen sind Schulden auf zu nehmen scheint mir irgendwie nicht richtig wenn man in einer der reichsten Industrienationen wohnt. Aber was weiß ich schon von solchen Dingen? Unser neuer Held hat durchaus Probleme mit seinem Geld, daher freut er sich umso mehr darüber endlich bezahlt zu werden. Ist das nicht ein guter Tag? In einer so harschen Welt in der Geld sehr knapp ist. Aber es hat schon einen Grund warum überhaupt Schulden vor liegen...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 06.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #155
+
+* Titel: `Yakuza 5 - #155 - Leben auf Hunger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht was echter Hunger ist und doch habe ich davor wirklich Angst. Was ich kenne ist das Gefühl der Schwäche wenn man den zweiten Hunger versucht zu ignorieren. Zumindest für mich sieht das so aus das ich einmal Hunger habe, das geht nach einiger Zeit weg, dann habe ich wieder Hunger, und wenn ich das auch nicht als Anlass nehme nichts zu tun wird es nervig. Meine letzte Erfahrung dieser Art war mit 11 auf einer Klassenwanderung, ich hatte beim Frühstück kein Hunger durfte aber im Gehen nichts Essen. Das war ein wenig traumatisch, und doch hatte ich immer etwas zu essen in meiner Nähe. Die echte Verzweiflung und Agonie wirklich nichts zu essen zu haben habe ich nie erlebt, noch verspüre ich den Wunsch das auch zu tun. Ich kann mir aber gut vorstellen das Menschen gewaltvoll und irrational werden wenn sie harten Hunger verspüren. Nicht umsonst sagt man das die Zivilisation nur zwei Mahlzeiten von der Barberei entfernt ist. Einen Umstand den auch unser Held heute feststellt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 06.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #156
+
+* Titel: `Yakuza 5 - #156 - der vermummte Mann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe in den letzten Episoden immer wieder erwähnt das ich selbst eine Reise nach Japan in näherer Zukunft vor habe. Im Zuge der Vorbereitung und Vorfreude hat meine Freundin diverse Youtuber und Reiseblogger aufgestöbert die über Dinge erzählen. Ein interessantes Detail das für mich herausstach war das in einigen älteren Videos für die (angenommen amerikanische) Zuschauerschaft bestimmte Konzepte der japanischen Gesellschaft erklärt werden, eines davon das Tragen von Masken wenn man sich krank fühlt. Ein Umstand der eigentlich allgemein bekannt sein sollte wenn man sich ein wenig mit dem Ausland auseinander gesetzt hat. Schließlich handelt es sich doch um ein bekannteres Bild aus Videos über asiatische Länder. Eben dieser Umstand gesellschaftlicher Akzeptanz für Gesichtsmasken macht es aber auch einfach unter zu tauchen. Einen Umstand den sich wohl auch ein maskierter Mann zu nutzen gemacht hat. Gegen Überwachung hilft es übrigens nur partiell. An dieser Stelle wird gerne Gang bzw. Schritterkennung eingeworfen. Das ist nur ein Mosaik, zusammen kommt eine ganze Reihe von Techniken, aber eine Maske ist immerhin ein guter Anfang.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 06.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #157
+
+* Titel: `Yakuza 5 - #157 - Baseball Drama [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab dann erfahren das Baseball anscheinend in Japan eine ziemliche Sache ist, wie das Ganze so richtig funktioniert vermag ich immer noch nicht zu sagen aber irgendwie erinnert es mich an ein Spiel aus dem Sportunterricht, Brennball. Der Name war bestimmt regional unterschiedlich. Nicht meinen tue ich Zwei-Felder-Ball, oder Völkerball, das ist was Anderes. Wie dem aber auch sei, egal wie beliebt konkret Baseball jetzt ist, jeder Sport der auch nur ein wenig kommerzialisiert ist hat auch seine Profi-Liga. Und dort wird mit ganz harten Bandagen gespielt, weil am Ende geht es um eine Menge Geld und insbesondere im Leistungssport kann man nicht einfach mit 35 anfangen eine Karriere zu haben. Da hat man eine Chance und wenn das nicht klappt kann es das durchaus gewesen sein. Beispielsweise ist es bei Gymnastik sogar so das man im falschen Jahr geboren sein kann und dann ist grade keine Olympiade wenn man 16 ist und dann war es das. Im Baseball sollte es nicht ganz so schlimm sein, seine Chance entdeckt zu werden zu verpassen ist dennoch ein Problem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 06.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #158
+
+* Titel: `Yakuza 5 - #158 - Wolle Party machen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wie es der Zufall so will versuche ich grade Japanisch zu lernen, das ist gar nicht so einfach. Schon weil es eine völlig fremde Sprache ist die mit den mir bisher bekannten Sprachen quasi keine Ähnlichkeit hat. Hin zu kommt noch die absolut katastrophale Schriftsprache die zu lernen einen erheblichen Teil meiner Zeit kostet, aber ohne geht es eher schwieriger. Und das sage ich hier aus meiner gemütlichen Position in meiner europäischen Welthauptstadt. Und jetzt stelle man sich mal vor man wird unter Versprechung von einem besseren Leben ins Land gelockt und landet dann als leichtes Mädchen auf der Straße das irgendwie mit C2 Kenntnissen versuchen soll Männer flach zu legen. Das stelle ich mir doch ein wenig schwer vor. Und auch ein klein wenig illegal. Yakuza erzählt hier die vierte oder sogar fünfte Iteration der gleichen Geschichte und weist wahrscheinlich damit auch auf soziale Probleme in Japan hin. Zumindest würde ich vermuten das das hier die Intention der Kunst ist. Was hier also leicht anfängt wiegt eigentlich ziemlich schwer. Wo sind bloß die absurden Quests von Yakuza Zero hin?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 13.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #159
+
+* Titel: `Yakuza 5 - #159 - schmutziges Herz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Selbstbewusstsein ist so eine fragile Sache, ich überlege immer noch wie man überhaupt irgendjemanden hier ein gesundes Verständnis vermitteln soll. Das Ganze ist solch ein Balance-Akt den man dann auch noch immer wieder neu erfinden muss. Ist man sich seiner zu sicher das wird man arrogant und selbstgefällig und auch wenn das Leben keine Literatur ist so führt so etwas doch früher oder später zu Problemen, auch wenn man sie vielleicht nicht einmal selber wahrnimmt. Hat man aber zu wenig davon dann fühlt man sich einfach schlecht. Eine häufige Falle ist beispielsweise das man sein Selbstbewusstsein darauf begründet das man hübsch ist, insbesondere bei jungen Frauen nicht unbedingt selten. Allerdings haben alle jungen Leute die Angewohnheit irgendwann mittel-alte Leute zu werden. Und dann gehen die Fragen los, der eigene Verfall kann schwer zu ertragen sein. Und jetzt stelle man sich einmal vor man befindet sich in einer Kultur in der auf genau so ein Umstand noch einmal mit Nachdruck hingewiesen wird und die äußerliche Schönheit einer Frau einen hohen Stellenwert besitzt. Übrigens kann das auch andere Sachen betreffen, beispielsweise wenn man Selbstwert aus Fähigkeiten zieht und dann merkt das man nicht mehr so wie früher kann. Mein Rat an die jungen Leute ist dann wohl früh sich breit aufzustellen damit man noch ein paar mehr Standbeine hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 13.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #160
+
+* Titel: `Yakuza 5 - #160 - eine besondere Mahlzeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe irgendwie ein Deja vu, ich hab in Gedanken vor mir wie ich die Beschreibung dieser Episode bereits geschrieben habe. Oder es liegt daran das sich unser Hauptcharakter in einer Situation befand die die des heute beobachteten NPCs nicht unähnlich war. Es handelt sich sogar um einen werten Kollegen, wir dürfen also ausgehen das er sich in einer sehr ähnlichen Lage befindet. Ich kann mich also nur wiederholen, echten Hunger habe ich noch nie verspürt noch den Wunsch das zu tun. So oder so stelle ich es mir aber schrecklich vor. Dann noch die Disziplin zu haben besonders wählerisch bei der Auswahl zu sein braucht schon einen besondere Willen. Davon einmal abgesehen ist es aber schon verständlich das man möchte das das aufgewandte Geld mit maximaler Effizient eingesetzt wird so dass man so satt wie möglich wird. Ich habe keine Ahnung was man aktuell kaufen kann was den maximalen Nährwert hat. Vielleicht sind es gar nicht mehr Nudeln mit Ketchup, aber so weit ich das gehört habe ist das wohl der Klassiker. Wenn man es noch ein wenig fancier möchte gibt es natürlich auch immer Spaghetti Carbonara, hab ich mal gelesen...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 13.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

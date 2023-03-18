@@ -1073,6 +1073,23 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
 
 ##### #63
 
+* Titel: `Elden Ring Coop - #63 - Zugang zum verbotenen Land [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die verbotenen Lande sind vor allen Dingen deswegen verboten weil das so kommuniziert wurde, ein guter Grund außer "weil ich das so sage" wurde uns nicht geliefert. Ich darf also davon ausgehen das die ehemals herrschende Klasse hier etwas versteckt hat. Wir haben uns bisher nicht durch Verbote oder Tabus aufhalten lassen und so sollte es keine Überraschung sein das wir heute auch nicht lange zögern uns Zugang zu diesen Landen zu verschaffen. Immerhin wissen wir bereits das hier irgendwo die Flamme der Riesen herumliegt, etwas das Marika und ihre Gang wohl nicht in der Lage war vollständig aus der Welt zu verbannen. Die Barriere war zum Glück nur von Morgoth, man stelle sich vor die Macht für die Zugangssperre in die Nordlande würde direkt aus dem Inneren des Erdbaumes kommen, dann hätten wir ein echtes Problem. Und so setzen wir uns über die Dinge hinweg und gehen in den Schnee, immerhin können wir auf dem Weg noch die große Rune wiederherstellen.
+  
+  Stichworte: Leyndell, grausamer Zwilling, Randgebiete der Hauptstadt, heiliger Turm von Ost-Altus, Verbotende Lande, Schwarze Klinge
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 16, Aufnahme vom 07.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #64
+
 * Titel: `Elden Ring Coop - #64 - verbotenes Schneeland [Let's Play; ger; Blind]`
 
 * Beschreibung:
@@ -1086,4 +1103,201 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Elden Ring am Dark Souls Dienstag
   Sitzung 16, Aufnahme vom 07.02.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #65
+
+* Titel: `Elden Ring Coop - #65 - verschneites Blut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es fällt mir manchmal ein wenig später gute Titel für Episoden zu finden, das erwähne ich auch gelegentlich. Heute reiten wir durch die verschneiten verbotenen Lande die es nördlich der Hauptstad gibt, wir sind dabei ein wenig planlos und finden einige viele Dinge aber irgendwie auch nichts. Das große Highlight unserer Tour ist aber das Attentat auf einem Typen namens Juno Hoslow, wir erinnern uns eventuell an ihm weil er gelegentlich erwähnt hat das die Geschichte seines Hauses in Blut geschrieben ist. Heute fügen wir ein weiteres Kapitel hinzu aber es könnte durchaus das Schlusswort sein, je nachdem ob sich noch irgendwelche entfernten Verwandten finden lassen. Bis dahin haben wir aber noch eine gute Rüstung und eine immerhin interessante Waffe erhalten. Das ist doch eigentlich gut, und dafür mussten wir nur die letzten Reste der Moral über Board werfen die wir hatten.
+  
+  Stichworte: Eisfluß, Eis-Händler, Hütte des Erhabenen, Juno Hoslow, Haus Vulkan, Höhle des Geisterrufers, Erste Kirche von Marika, Bastion des Feuers
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 17, Aufnahme vom 16.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #66
+
+* Titel: `Elden Ring Coop - #66 - ketzerische Sternengucker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen Gründen sind diverse Geschmacksrichtungen des Glaubens ketzerisch, irgendwelche Magiearten werden als falsch angesehen und generell und überhaupt scheint man sehr dazu zu neigen von allen möglichen Dingen als verboten und ketzerisch zu reden. Heute zum Beispiel die Sternengucker, irgendetwas war mit der Magie der Sterne und wir erinnern uns daran das Radahn aber durchaus ein gutes Standing hatte mit seiner Gravitationsmagie. Ich kann jetzt aber nicht behaupten das ich das alles durchschaue. Wir wissen auch nicht aus welcher Perspektive diese Anschuldigungen getroffen werden. Betrachten sich die Magier der Sterne selbst als Ketzer gegenüber der goldenen Ordnung oder erfahren wir nur die ganze Zeit die Propaganda von Marika und ihre Truppe und es gibt da draußen noch wesentlich tolerantere Leute und wir haben sie bloß leider nicht getroffen. Immerhin ist auch Goldmaske hier und versucht irgendwie Wahrheiten und Philosophie zu finden. Einen Umstand den unser guter Priester der Ordnung gar nicht einmal so gut findet.
+  
+  Stichworte: Grabstein der Riesen, Gebetsbuch der Riesen, Ritter Vyke, Ketzerischer Turm, Avatar des Erdenbaumes, Ruinen der Sternengucker, Goldmaske
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 17, Aufnahme vom 16.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #67
+
+* Titel: `Elden Ring Coop - #67 - Schloss Sol [Let's Play; ger]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist bitter kalt hier oben im Norden, aber es ist eigentlich fast schon sicher das das trotzdem nicht der Grund ist warum der Zugang zu den nördlichen Ländern ehrenvollen Bürgern von Leyndell versagt ist. Man möchte wohl eher nicht seine Bevölkerung vor der Kälte schützen. Eher geht es um die Möglichkeiten und Blasphemie die sich im Land der Riesen immer noch finden lässt. Aber soweit sind wir noch nicht. Es gibt noch andere Dinge in den unnachgiebigen Eisfeldern, zum Beispiel der Astrologenturm, die Sternengucker oder aber sogar Schloss Sol. Darin halten sich irgendwelche Verbannten auf und mir ist beim besten Willen auch nicht ganz klar warum diese Leute verbannt wurden aber sie wurden es und sehen ein wenig aus wie die üblichen Getreuen die wir auch woanders getroffen haben. Nur das es für sie ein wenig kalt war. Einzige Ausnahme ist der Kommandant, so richtig erklärt ist hier aber auch nichts.
+  
+  Stichworte: Aurelia & Aureliette, Astrologenturm, Todesritenvogel, Schloss Sol, Löwenbestie, Kommandant Niall
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 17, Aufnahme vom 16.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #68
+
+* Titel: `Elden Ring Coop - #68 - Geheimpfad zum Haligbaum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Haligbaum ist irgenwdie heilig und ich bin mir sicher hätte ich in der Lore richtig aufgepasst wüsste ich das bestimmt auch, aber so wie die Dinge stehen habe ich keinerlei Ahnung wie das Ding eigentlich zum Eldenbaum steht. Davon können wir aber später noch einmal reden, schließlich kommen wir ja da noch einmal an, das sollte ja bereits klar sein. Sprechen wir lieber über den geheimen Weg der uns hier hin geführt hat. Das war wirklich eine lange Reise die uns hier her gebracht hat. Zu erst mussten wir Lantenna finden, dann durch die ganze Welt reisen und die verlorenen Soldaten von was auch immer überwinden um dann endlich die andere Seite zu erringen. Das geschafft musste man noch ein kleines Rätsel lösen und erst dann betritt man wirklich die geheimen Hallen. Und mit diesem Schritt sind wir noch lange nicht beim Haligbaum, viel mehr sind wir im Oktopoden Wunderland.
+  
+  Stichworte: Verbotene Lande, Geheimpfad zum Haligbaum, Oktopoden, geweihtes Schneefeld, Karawane, Stinkender Avatar
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 17, Aufnahme vom 16.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #69
+
+* Titel: `Elden Ring Coop - #69 - Ruinen von Yelough Anix [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich muss leider sagen das Elden Ring dazu neigt alle Gegner irgendwie wieder zu benutzen, selbst Bosse von denen man eigentlich dachte das sie irgendwie einzigartig sind kommen dann noch einmal vor. Heute haben wir es irgendwie mit dem Ursprung des Wahnsinns zu tun, hier auf den hohen geweihten Schneefeldern kommt nämlich scheinbar alles her was wir in den unteren Ländern finden. Das ist irgendwie sie klischeehaft, als wäre die Bevölkerung der Zwischenlande in Wirklichkeit ursprünglich aus diesen kalten Landen. Und deswegen ist es jetzt halt verboten hier vorbei zu kommen. Das geht aber ehrlich gesagt auch nicht so richtig auf aber leider verrät uns die Welt nicht wirklich etwas darüber was wir hier finden. Nur das die Leute wie Shabriri irgendwie auch zu diesem Ort gefunden haben, der aktuelle Sitz der Wahnsinnsflamme ist ja unter der Hauptstadt. Und doch haben wir wir eine klare Verbindung zu all den anderen Städten des Wahnsinns, ob mich hier mal irgendjemand aufklären kann? Ich bin leicht verwirrt.
+  
+  Stichworte: Ordina, Stadt der Lithurgie, Stinkender Avatar, geweihtes Schneefeld, Ruinen von Yelough Anix, Astel, Sterne der Finsternis
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 18, Aufnahme vom 21.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #70
+
+* Titel: `Elden Ring Coop - #70 - Palast der Mohgwyn-Dynastie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das allererste was irgendwelche Leute die es irgendwie zu nur ein wenig Geld bringen tun ist anscheinend sich einen Palast zuzulegen. Ich bin mir nicht ganz sicher was daran die große Anziehungskraft ist. Ja ich kann mir durchaus vorstellen für bestimmte Tätigkeiten einen eigenen Raum zu haben und eine größere Halle als Eingangsbereich kann ich auch noch irgendwie einsehen. Aber warum genau braucht man dann gleich einen ganzen Palast? Würde es nicht reichen sich ein größeres Gebäude zu zulegen? Letztendlich kann man die meisten Räume eh nicht so wirklich nutzen und ich kann mir durchaus vorstellen das einige der Räumlichkeiten einfach verstauben wenn man da nicht jeden Tag tonnenweise Personal rüber laufen lässt. Das klingt irgendwie unnötig und verschwenderisch. Noch mehr wenn alles mit Blut überzogen ist.
+  
+  Stichworte: Runenbär, Blutadeliger, Mohgwyn Palast, Palastallee, Blutvögel, Namenlose Weiße Maske, Blutsee, Mausoleum der Mohgwyn-Dynastie
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 18, Aufnahme vom 21.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #71
+
+* Titel: `Elden Ring Coop - #71 - Mohg, Fürst des Blutes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir bereisen eine Welt in der heilig nicht so wirklich heilig ist, und verboten auch nicht verboten auch eher relativ zu sehen ist. Und dann haben wir da noch die Dinge mit dem Blut. Klar, auf den ersten Blick wirkt es etwas verwerflich die ganze Magie mit dem Blut zu haben und die Blutadeligen wirken auch ein wenig furchteinflößend, aber die Wahrheit ist wohl das wir kaum einschätzen können ob das was wir heute sehen wirklich böse ist oder einfach nur zum guten Ton gehört. Eine gute Einordnung habe ich in jedem Fall nicht. Das was Mohg tut erscheint aber nicht besonders freundlich zu sein wenn man bedenkt das Miquella scheinbar nicht ganz freiwillig bei der Geschichte mit dabei ist. Daher beenden wir das Elend, schließlich jagen wir sowieso alle Fürsten die wir finden können und die Freude heute und hier einen Fürsten abzutreffen ist ja doch recht groß oder?
+  
+  Stichworte: Palastallee, Mohgwyn, Palast, Meteorregen, Mausoleum der Mohgwyn-Dynastie, Mohg, Fürst des Blutes
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 18, Aufnahme vom 21.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #72
+
+* Titel: `Elden Ring Coop - #72 - Theodorix's verlorene Höhle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind tief in den Schneelanden, und wenn alles gut läuft sind wir gar nicht einmal mehr so lange vor Ort. Zum Beispiel haben wir bereits einige Höhlen gefunden, den geheimen Weg in die lokalen Blutschlösser gefunden und schon bald auch alle verbleibenden Drachen erledigt. Alles was jetzt noch bleibt ist eigentlich schnell ein paar letzten Hinweise nachzugehen und sobald das getan ist können wir uns überlegen wie wir am besten in den Haligbaum hinein kommen. Alles in Allem also keine große Sache für ein Expertenteam wie wir. Machen wir also die letzten losen Fäden fest und schreiten weiter auf unserem Weg des Erfolges.
+  
+  Stichworte: Ordina, Stadt der Lithurgie, Mauseleum, Anastasia, Theodorix, Kreuzfahrerscheusal, Höhle der Verlorenen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 18, Aufnahme vom 21.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #73
+
+* Titel: `Elden Ring Coop - #73 - Stinkende Wachhunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich stinken die Wachhunde gar nicht gegen die wir heute antreten. Ich habe nur die Eigenschaft des eigentlich stinkenden Gegners am Ende einer Katakombe mit der des eigentlichen Bosses zusammen gelegt. Weil es stellt sich doch glatt heraus das so ein Grabhüterduellant eigentlich gar kein größeres Problem darstellt. Das Gleiche kann man aber nicht über die magisch begabten Wachhunde sagen die mit ihrem doch recht großen Lebenspunktepool und physischer Stärke wieder einmal eine echte Mauer sind. Am Ende gibt es natürlich nichts das uns wirklich aufhält aber trotzdem ist es schon ein wenig nervig gegen einen Gegner zu sterben der doch wesentlich schwächer sein sollte.
+  
+  Stichworte: geweihte Schneefelder, Katakomben, Stinkender Grabhüterduellant, Turm der Albinaurics
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 02.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #74
+
+* Titel: `Elden Ring Coop - #74 - Schneeschrecken der Nacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Viele Orte haben zwei Seiten. Wenn das warme Licht der Sonne scheint versteckt sich so mancher Schrecken oder bestimmte Jäger ziehen es eher vor sich nicht sehen zu lassen, einfach weil sie sonst zu früh gesehen werden und alle ihre Mühen umsonst sein könnten, einfach weil die Beute laufen kann und dann bringt das ja alles nichts. Und dann in der Nacht erlebt man eine ganz andere Seite, beispielsweise in Städten wenn das lustige Café auf einmal zur Bar wird, oder bestimmte Plätze von ganz anderen Gestalten bewohnt werden. Die Nacht kann schon etwas Magisches haben. Oder von Möchtergernringgeistern verseucht sein die uns doch tatsächlich davon abhalten wollen noch einmal die Karawane zu überfallen. Oder komische Singvögel mit schlechter Aussprache. Zum Glück haben wir da ein Allheilmittel.
+  
+  Stichworte: Runenbär, Geisterdrachenblutsoldat, Karawane, Todesritenvogel, Dunkelkavallarist, Ordina, Siegelgefängnis, Flammen, Leuchtfeuer
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 02.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #75
+
+* Titel: `Elden Ring Coop - #75 - Krone des Haligbaumes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist nicht unbedingt eine Reise vom tiefsten Punkt der Welt bis zum höchsten, zumindest nicht ohne ein paar Zwischenhalte aber dennoch kommen wir heute hoch hinaus. Wir besuchen den Haligbaum, nicht sofort, als Erstes müssen wir ja auch noch den Weg dorthin finden. Und dann stellt sich auch noch die Frage ob die Krone überhaupt noch als Baum gezählt werden kann wenn die eigentlichen Bauwerke ja doch eher innerhalb der tieferen Äste liegen. Was genau der Haligbaum ist kann ich übrigens auch nicht sagen, aber ich würde vermuten das er sich thematisch vom Eldenbaum darin unterscheidet das er tatsächlich zugänglich ist und zumindest als es noch nicht alles voller Seuche war wahrscheinlich ein ganz angenehmer Ort gewesen zu sein scheint. Was den Baum als Pflanze genau angeht vermag ich aber auch nichts zu sagen. Und wir werden es wohl nie erfahren.
+  
+  Stichworte: Ordina, Haligbaum, Krone, Tröter, Ameisen, Blasen, Fäulnis, Äonia, Schmetterlinge
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 19, Aufnahme vom 02.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```

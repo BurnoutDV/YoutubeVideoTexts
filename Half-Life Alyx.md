@@ -366,6 +366,111 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKj
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
   ```
 
+##### #24
+
+* Titel: `Half-Life: Alyx - #24 - Zoo-Besichtigung [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich war schon lange nicht mehr in einem Zoo. Und dabei lebe ich in einer Stadt in der es einen echt guten gibt. Einen guten Zoo zu haben ist eine wirklich seltene Geschichte. Das liegt wohl daran das man sich irgendwann anfängt schuldig zu fühlen weil all diese Tiere eigentlich gar nicht da sein sollten. Ich bezweifle allerdings sich die meisten Tiere so tief Gedanken machen, die freuen sich wahrscheinlich eher darüber das sie regelmäßig zu essen bekommen und die einzigen gefährlichen Raubtiere hinterm Zaun stehen. Ich habe einmal gelesen das die Giraffen während der Pandemie tatsächlich die Menschen vermisst haben. Also nicht alles schlecht. Zurück zu unserem Zoo hier, offensichtlich kriegen die Tiere nicht mehr regelmäßig zu essen und sind eher selbst die Nahrung. Allerdings war es wahrscheinlich auch vor der Invasion gar nicht einmal so schön hier, die Gegend sieht recht kühl aus, die Betonwände machen auf jeden Fall depressiv, ob das auch die Tiere gespürt haben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 4, Aufnahme vom 22.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #25
+
+* Titel: `Half-Life: Alyx - #25 - Pausenraum [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Pausenräume sind irgendwie magische mundane Räume. Ich habe in meiner langen beruflichen Karriere schon einige gesehen. Da sind die Frühstücksräume einer Werkstatt die eigentlich nur einmal am Morgen kurz betreten werden die selbstverständlich den obligatorischen Titten-Kalender hängen haben. Wenn es weibliche Monteure gibt hängt daneben übrigens der nackte Oberkörper Männer Kalender, Gleichberechtigung geht voran. Büro Pausenräume sind ein wenig mundaner, in der Regel haben sie nicht soviel Charm wie die von Werkstätten, alles ist irgendwie grau, man darf mit einer Mikrowelle rechnen die eventuell nicht vom Arbeitergeber stammt. Mutige Firmen haben hier auch einen Sandwichmaker. Auch interessant sind die Pausenräume bzw. Teeküchen in Agenturen, hier fließt mehr Geld und eventuell findet man sogar den klischeehaften Kickertisch. Gesehen habe ich bis jetzt nur einen für Billiard aber das ist ja fast das Gleiche oder? Hier hat man auch die beste Chance eine Bilderwand mit dem Mitarbeiter des Monats zu finden, wie auch immer sich das bestimmt. Allen Räumen gleich ist das sie gleichzeitig voller Leben und doch irgendwie fern davon sind. Menschen leben hier, aber nur kurz und dann wieder nicht, und dann, ist der Ort doch wieder leblos. Ich weiß nicht so wirklich wie ein Pausenraum in einem Zoo aussieht, also muss ich wohl hinnehmen was wir heute sehen. Bestimmt haben die Leute von Valve einige Zoos hinter den Kulissen besichtig, ganz bestimmt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 4, Aufnahme vom 22.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #26
+
+* Titel: `Half-Life: Alyx - #26 - Enthüllungen [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode hat ganz schön viele Fortschritte. Ich schreibe diese Texte ja oft schon bevor die Episode öffentlich wird aber heute bin ich ein wenig spät dran. Daher schrieb ich auch die letzten beiden Episoden in einem Rutsch. In der letzten Folge waren wir noch im Pausenraum und in dieser passiert eigentlich so viel auf einmal. Wir sehen wie die Antlions ausgesagt werden, warum auch immer. Wir überqueren eine große Barriere, wir haben einen großartigen Kampf und dann erfahren wir auch noch wichtige Storydinge. Ganz am Ende sterben wir sogar beinahe. Das sind alles eine Menge Punkte und entsprechend gar nicht so meinem langsamen Vorgehen das ich sonst immer an den Tag lege.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 4, Aufnahme vom 22.02.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #27
+
+* Titel: `Half-Life: Alyx - #27 - Brachwasseranreicherung [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Der gesperrte Sektor enthält einige Dinge und die Combine sind im Großen und Ganzen immer noch irgendwelche inter dimensionalen Aliens die eventuell nicht genau so agieren würden wie es menschliche Unterdrücker tun würden. Die Absperrung könnte also durchaus etwas damit zu tun haben das es hier echt gefährlich ist und die gesundheitlichen Folgen für einen normalen Menschen durchaus außerordentlich schlecht sein könnten. Bisher nahm ich an das die ganze Situation entstand weil irgendeine Invasionswaffe ein wenig zu gut funktioniert hat und man den Schaden doch ein wenig eindämmen musste. Aber wenn man sich anschaut was die Combine noch so alles in dieser Zone treiben habe ich eher das Gefühl das es sich um ein abgesperrtes Labor handelt und wir jede Menge gescheiterte Experimente sehen. Das der große Bunker hier ebenfalls verankert ist spricht wohl eher für den doch eher exklusiven Zugang zu diesem Ort. So oder so werde ich nicht von allen Maschinen die wir sehen schlau. Die Antlions zu melken sei ja wie es sei, aber warum eine extra, fixe Installation haben um den Bioabfall in ein ausgetrocknetes Flussbett zu kippen? Das gibt mir echt Rätsel auf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 5, Aufnahme vom 10.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #28
+
+* Titel: `Half-Life: Alyx - #28 - Ameisen-Verladestation [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Kampfsituation die wir heute in der Verladestation oder wie auch immer wir dieses mehrgleisige Ding hier nennen wollen war eine der besten Kampfszenen die ich bis her in VR hatte. Das ist größtenteils dem geschuldet das sich so gut wie keine Gegner besonders schnell bewegen und wir daher mit unseren Waffen ein wenig mehr Zeit zum Zielen haben, zusätzlich verhilft uns dann der Teleport auch noch dabei feindlicher Aggression effektiv auszuweichen. Offensichtlich wurde das das Spiel dafür gebaut. Mit kontinuirlicher Bewegung wäre das hier auf jeden Fall etwas Anderes gewesen. Man merkt aber das wir uns dem Ende nähern, der Grad der Bombastikkeit nimmt stetig zu.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 5, Aufnahme vom 10.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #29
+
+* Titel: `Half-Life: Alyx - #29 - bewaffneter Raubüberfall [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht warum dieses Kapitel so heißt. Ja, wir sind bewaffnet aber das sind auch die Combine und wir dringen jetzt auch nicht unbedingt in einen zivilen Raum ein. Ich glaube kaum das man noch von Überfall sprechen kann wenn alle beteiligten Kombantanten von irgendwelchen Mächten sind. Technisch gesehen ist Alyx Vance zwar keine Soldatin sonder quasi-Freiheitskämpferin aber das hebt sie halt auch in den Rang einer Kombattantin und damit kein Zivilist mehr. Jede Art von Raub die wir damit durchführen ist dann wohl eher "Plündern" und das Ding mit dem Bewaffnet ist bereits mit unserem Status abgegolten. Es ist übrigens ein Wunder das wir bis hier hin überlebt haben. Das werden sich bestimmt auch die Combine gedacht haben. Gordon hat immerhin einen ziemlich guten Anzug, aber Alyx hat nicht mehr als eine Lederjacke und ein paar Jeans um ihren Körper zu beschützen. Die Qualität ihrer Kleidung muss wirklich fantastisch sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 5, Aufnahme vom 10.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
+##### #30
+
+* Titel: `Half-Life: Alyx - #30 - der Kollaps [Let's Play; ger; Blind, VR]`
+
+* Beschreibung:
+
+  ```markdown
+  Reiche haben die Eigenschaft irgendwann einmal zu fallen. Das Gleiche trifft auch auf so ziemlich alles Andere zu. Wenn irgendetwas existiert zerfällt es eigentlich ab dem Moment seiner Entstehung. Für Festplattenspeicher gibt es beispielsweise nur zwei Zustände: unbrauchbar und auf dem Weg unbrauchbar zu werden. Das Konzept einer intakten Sache existiert nicht, nur verschiedene Zustände des fortschreitenden Verfalls. Und doch gibt es Dinge die sehr lange existieren, weil immer und immer wieder Teile ersetzt werden. Alyx zum Beispiel, mittlerweile sind wir 98% Alien Saft den wir uns in die Venen gehauen haben um Knochenbrüche, Schusswunden, Verbrennung und abgerissene Körperteile zu heilen. Eine Sache die aber noch nicht kollabiert ist, ist die "Vault" die immer noch im Himmel der Quarantänezone schwebt. Das müssen wir ändern, und das machen wir wohl am besten mit möglichst rabiaten Mitteln. Oder wir infiltrieren die Anlage ohne das je jemand erfährt das wir da waren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 5, Aufnahme vom 10.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -2368,6 +2368,303 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #161
+
+* Titel: `Yakuza 5 - #161 - Wahlkampfansprache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode hat massive Überlänge und ist so ein wenig der Grund warum diese Sitzung nur sechs Episoden umfasst. Inhaltlich setzen wir uns mit einem Politiker auseinander bzw. jemand der ein solcher werden möchte. Ich stelle mir eigentlich immer ganz gerne vor das die Leute am Anfang ihrer politischen Karriere tatsächlich hohe Ideale haben. Beispielsweise glauben sie an das Gute im Menschen, sind normal, haben ihre Fehler zu denen sie auch stehen und sind vielleicht auch irgendwie witzig. Vielleicht war nur ein fehlender Fahrradweg der Anlass sich zu engagieren. Und dann geht alles schief. Man muss eskalieren und die witzigen Dinge die man am Anfang gemacht hat beißen einen. Man wird bitterer, vorsichtiger, die Presse zerreißt jedes falsche Wort und jeder Schritt muss geplant werden. Und am Ende ist man nur noch ein Realo der seine alten Ideale für die gelebte Realpolitik völlig vergessen hat. Was ich eher nicht sehe ist das man direkt mit den Illusionen anfängt die ein Berufspolitiker von sich lässt. Auch vorstellen kann ich mir das man gleich von Anfang an damit ran geht möglichst korrupt zu sein und Einfluss zu missbrauchen. Ich kann das verstehen, nicht unterstützen aber verstehen. Die Episode ist jetzt so lang weil ich mich enorm an die wirtschaftsliberalen bzw. konservativen Sichtweisen des Charakters störe. Fairerweise muss ich aber auch sagen das ich keinen echten Standpunkt habe den man als Wahlkampfslogan nutzen könnte. Es ist mehr eine „so nicht“ Haltung, ein wenig anders als „dagegen“ aber nicht viel. Problematisch daran ist auch das ich moralische Ansprüche stelle, mir aber nicht so ganz sicher bin ob ich in der Lage wäre diese Fahne hoch zu halten wenn ich mit den gleichen Probleme konfrontiert wäre. Wahrscheinlich eher nicht. Das „Gute“ ist aber,  die Yakuza Spiele ziehen immer wieder gerne parallelen zu echter Politik und Geschichte, und ich meine genau solche Vorschläge sind auch schon im echten Japan geschehen. Wir können uns also angucken wie gut das dann alles klappt. Und wahrscheinlich auch zu geringeren Teil in Korea.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 24, Aufnahme vom 13.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
+  ```
+
+##### #62
+
+* Titel: `Yakuza 5 - #162 - der alte Talentsucher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eine traurige Wahrheit, aber wir sind nicht alle dafür geschaffen große Baseballstars zu werden. Ich stelle mir da vor das es da verschiedene Parameter gibt die alle irgendwie zu treffen müssen. Beispielsweise reicht es nicht aus die perfekten körperlichen Voraussetzungen zu haben wenn es einfach an Antrieb oder Koordination fehlt. Dann kann es auch gerne mal an Möglichkeit fehlen. Was ist wenn die weltbeste Eishockey Spielerin in Süd-Afrika geboren wird. Das ist generell eine Tragödie auch abseits von Sport, wenn man wegen kulturellen Unsinn Leute benachteiligt, beispielsweise ihrer Kaste wegen. Neben der geistigen Haltung, der mentalen Stärke initial gut genug zu werden und überhaupt Möglichkeit zu haben es auszuprobieren braucht es dann natürlich auch noch die Förderung um es zu etwas ganz Großen zu bringen. Wir können hier wohl eine Parallele zu den Idols ziehen. Bei denen macht man aber Massenabfertigung, und dank einem intelligenten Schuldensystem kann man es sich auch locker erlaube Fehlschüsse zu haben so das man initial nur nach Aussehen sortieren muss und Talent zur Erstanwerbung sekundär ist. Jetzt sind wir aber im Baseball und deswegen braucht es fähiges Fachpersonal wie unseren guten Scout hier. Aber nur Leute zu entdecken reicht ja auch nicht, man muss sie dann noch an sich ketten. Ganz wichtig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 13.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #163
+
+* Titel: `Yakuza 5 - #163 - ein Tag hinterm Tresen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es bisher vermeiden im Einzelhandel zu arbeiten. Wenn man bedenkt mit welcher Grundhaltung ich Leute so begegne ist das vielleicht auch besser. Wahrscheinlich wäre meine Laune nach dem dritten mies gelaunten Kunden auch absolut im Keller. Und dann ist da natürlich auch noch die Sache mit dem Kopfrechnen oder das Denken an kleine Dinge. Wahrscheinlich ist es in den meisten Fällen gar nicht so schlimm Dinge zu vergessen und so richtig anspruchsvoll kann die Aufgabe eines Kassierers auch nicht sein. Sonst wäre es kein Aushilfsjob. Allerdings kann ich mir sehr gut vorstellen das es einen großen Unterschied zwischen "seine Arbeit erledigen" und "seine Arbeit gut erledigen" gibt. Einfach weil es da Nuancen gibt und Dinge im Allgemeinen mehr Spaß machen wenn man es mit Leute zu tun hat die wissen was sie da tun und nicht nur grade so durchs Skript stolpern. Shinada ist eventuell nicht der größte Experte wenn es darum geht Leute zu bedienen, aber immerhin ist er ganz gut darin Diebe zu fangen. Und das ist doch auch Etwas.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 13.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #164
+
+* Titel: `Yakuza 5 - #164 - Selbstrettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht jedem ist es gegeben sich selbst zu retten. Ganz allgemein gesagt ist das eine der leicht verspäteten Erkenntnisse für mich. Man kann sich nicht immer auf sich selbst verlassen. Menschen sind keine verteilten Entitäten, wenn unsere Körper unter Angriff stehen kann man sehr schnell in eine Situation kommen in der man selber nichts mehr tun kann und weil es kein Backup oder andere Ausweichpläne gibt ist es dann ziemlich schnell vorbei. Was ich sagen will, man kann sich wie beim Schach in eine Situation manövrieren ohne es zu merken und 20 Züge später merkt man das es echte Probleme in Kürze gibt aber zum Zeitpunkt dieser Erkenntnis ist es schon lange zu spät. Und das ist dann der Moment wo man ein Sicherheitsnetz braucht. Vertraute an die man herantreten kann um das Unglück doch noch abzuweden. Idealerweise sogar Agenten die man einsetzen kann von denen die Gegenseite, sofern sie intelligent ist, nichts weiß um einen unerwarteten Vorteil zu besitzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 20.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #165
+
+* Titel: `Yakuza 5 - #165 - ein echter Job [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Shinada hat leichte Geldprobleme seit dem Vorfall vor ein paar Jahren und die Tatsache das es Kredithaie gibt die ihre Aufgabe ernst nehmen verbessert seine Situation auch nicht unbedingt. Wie schön wäre es doch da einen Job zu haben der einen stetigen Strom an Einkommen bringt und der es dann ermöglich die Schulden relativ bald zurück zu zahlen. Ich weiß nicht wie genau es sich mit den Zinsen bei den Mafiakrediten verhält aber ich habe den ganz dringenden Verdacht das man eigentlich keine Chance hat hier wieder vom Haken zu kommen. Andererseits muss man wohl aus Geldverleiher mit ein wenig Feingefühl an die Sache heran gehen. Wenn man zuviel Geld abschöpft könnten sich die Leute recht schnell überlegen das sie es gleich ganz lassen. Ehrlich gesagt wundert mich ein wenig das dies nicht noch viel öfter funktioniert. Die Menschen ewig in irgendwelchen halblegalen Schulden zu binden erscheint dennoch wie eine Falle der man unter Umständen auch noch anders als mit einer größeren Zahlung entkommen könnte. Wie das dann in der praktischen Ausführung aussieht weiß ich nicht aber ein stabiler Job in einer anderen Stadt wäre so oder so ein Anfang. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 20.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #166
+
+* Titel: `Yakuza 5 - #166 - Hühnchenrennen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich frage mich wirklich woher der Wille kommt irgendwelche Tiere gegeneinander anzutreten zu lassen, aber man könnte es vielleicht als erstes Zeichen der Zivilisation sehen. Die Entscheidung des kollektiven Bewusstseins das es nicht in Ordnung ist Menschen gegeneinander kämpfen zu lassen, also muss es jemand anders tun. Das es generell falsch ist nur zum Spaß irgendwelche Wesen dazu zu bringen sich umzubringen kommt dann bestimmt auch irgendwann. Aber es gibt ja auch noch Zwischenschritte, heute lernen wir zum Beispiel das es so etwas wie Hühnchenrennen gibt. So weit ich das sehen kann ist das eher ein Trainer und Ausbilderberuf aber auch wir als ungelernter können irgendwie mit mitmachen. Ich weiß wirklich nicht wo ich hier gelandet bin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 20.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #167
+
+* Titel: `Yakuza 5 - #167 - die richtige Reihenfolge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Shinada kann übrigens noch mehr als einen Baseballschläger ganz besonders schlagen. Der Mann hat durchaus Talent für andere Dinge. Generell erscheint mir Baseball wie ein Sport der auch etwas klügere Charaktere unterstützen könnte. Bei manchen Fussballern hat man ja durchaus das Gefühl das es sich nicht unbedingt um die hellsten Kerzen auf der Torte handelt aber hier sehe ich Potenzial. Und so ist es vielleicht weniger überraschend das der gute Shinada doch gar nicht so schlecht in dieser Journalisten Rolle ist die er immer vorgibt als Broterwerb zu tun. Er ist zum Beispiel gut genug um handschriftliche Notizen wieder in der richtigen Reihenfolge zusammenzusetzen. Das ist eine große Fähigkeit oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 20.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #168
+
+* Titel: `Yakuza 5 - #168 - der perfekte Punkt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Perfektion in irgendetwas zu erreichen ist ein ziemlich anstrengender Weg den man sich wirklich sehr überlegen sollte bevor man sich auf eben jenen macht. Das Ding ist halt das man die ersten 80% ziemlich einfach schafft und die nächste 15% sind eigentlich auch relativ gut möglich. Danach wird es dann langsam echt schwer. Weitere 4% brauchen schon echte Hingabe, aber wenn man dann noch irgendwo 0,95% mehr finden will macht man sich schon ziemlich fertig. In der Regel würde ich daher behaupten das es sich absolut nicht lohnt. Alles Streben ist immer eine Abwägung zwischen Gut und teuer. Zeit ist wortwörtlich und auch im übertragenden Sinne Geld. Niemand schenkt dir Zeit zurück, also ist Sparsamkeit nicht unwichtig. Unnötige Perfektion einfach nur der Perfektion wegen erscheint also nur in den seltensten Fällen wie eine gute Idee. Warum erzähle ich das alles? Ich kann mich nicht erinnern worin es in dieser Episode geht aber der Name lässt mich glauben das es irgendetwas mit Perfektion war. Wenn nicht war das hier völlig unzusammenhängende Philosophie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 20.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #169
+
+* Titel: `Yakuza 5 - #169 - Wunderwürfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Sport scheint es eine gewisse Linguistische Wortwahl zu geben die Sprachen überschreitet. Beispielsweise gibt es immer wieder irgendwelche "Wunder"-Irgendwas, es gibt Jahrhundertleistungen und generell und überhaupt ist man mit Superlativen nicht grade sparsam wenn es sich irgendwie anbietet. In diesem Fall könnte es auch daran liegen das die Japaner in ihren Baseball maßgeblich von den Amerikanern geprägt worden und die klischeehafterweise ja sehr dazu neigen mal richtig zu übertreiben wenn es sich irgendwie anbietet. Heute haben wir es mit einem kleinen Kind zu tun der anscheinend so etwas wie einen Wunderball bieten kann. Faszinierenderweise scheint Shinada das auch so zu sehen und dabei hat der Junge nicht einmal ein Team. Sehr respekteinflößend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 20.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #170
+
+* Titel: `Yakuza 5 - #170 - Wunderschläger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Sportbereich haben wir es nicht nur mit Wunderwerfern und deren zugehörigen Wunderwürfen zu tun, jetzt finden wir auch noch heraus das es soetwas wie Wunderschläger gibt. Generell und überhaupt befinden wir uns mittlerweile tief im Kaninchenbau des Baseball. Eine Welt die ich selbst hoffentlich nie erfahren werde. Es von Außen durch die Linse eines Spieles zu sehen ist allerdings schon ein wenig faszinierend. Generell und überhaupt gibt es hier definitiv eine Menge Fiktion aber manche Geschichte halte ich nicht für besonders weit hergeholt. Wir wissen ja bereits das Sportler und deren Fans zu einigen Fanatismus neigen und selbst unter sich entwickeln man sich ständig weiter. Irgendwie muss man sich ja auch vom Pöbel und den Leuten außerhalb der eigenen Bubble abheben oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 20.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #171
+
+* Titel: `Yakuza 5 - #171 - Profi-Träume [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es hört nicht auf, wir gehen hier von einem Profi Ding zum Anderen. Anekdoten Zeit. Ganz damals in der 6ten Klasse fragte eine Geschichtslehrerin in die Klasse was einem Profi von einem Amateuer unterscheidet. Ich weiß nicht mehr was ich gesagt habe, aber es lief wohl irgendwie darauf hinaus das ich meinte "mit mehr Hingabe". Die Definition der Lehrerin war das man Geld damit verdienen muss um sich als Profi zu bezeichnen. Zumindest kann ich mich daran erinnern. Die korrekte Definition wäre wohl den Lebensunterhalte allein von dieser Tätigkeit zu bestreiten. Das ist bei Sport immer ein wenig schwer. In Deutschland mit Fußball aber durchaus schon möglich. Generell ist es aber schwer mit Sport wirklich dauerhaft Geld zu verdienen. Viele Sportarten brauchen das man jung ist und das ist man nun einmal nicht ewig. Und nur wenigen ist es gegeben danach Trainer oder Kommentator zu werden. Das braucht ja auch irgendwie ein wenig Affinität, und hat kaum Überschneidung mit anderen Attributen die ein Sportler mit bringt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 27.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #171
+
+* Titel: `Yakuza 5 - #172 - die harte Realität [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es groß im Sport heraus zu bringen ist nur wenigen in die Wiege gelegt. Einige können sich hoch arbeiten, aber die Ansprüche sind groß. Die Industrie verlangt das es eine Menge Leute gibt die sich darum bemühen Profisportler zu werden. Man muss jung anfangen, Jugendsportvereine aufbauen in denen Scouts nach aufkommenden Talent Ausschau halten können. Man braucht eine Armee an Hoffnungsvollen damit man ein paar Auserwählte finden kann die letztendlich es wert sind weiter ausgebildet zu werden. Die Verluste sind erheblich. Man kann das seelische Leid ein wenig abschwächen in dem man auch für niedere Spielklassen Vereinesspiele oder Amateuerliegen hat die auch weniger fähigen Spielern noch ein Auffangbecken bieten. Und doch, irgendwer bleibt immer zurück. Irgendjemandes Träume platze. Egal was man macht, irgendwer bleibt immer zurück. Und manchmal kommt es das sich jemand so sehr anstrengt und dann kommt doch nichts heraus. Was sagt man zu so einer Person? "Das Leben ist eben unfair?". Erscheint kaum fair.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 27.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #173
+
+* Titel: `Yakuza 5 - #173 - Kinei Highs Team [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es reisst nicht ab, wir beschäftigen uns wieder mit irgendwelchen Leuten die versuchen es ganz groß herauszubringen. Beim letzten Mal hatten wir es mit jemanden zu tun der keine besonders guten Chancen hatte noch groß heraus zu kommen, schon wegen des Alters. Heute sieht die Geschichte doch sehr anders aus. Die Chancen sind gar nicht einmal so schlecht aber der gesamte Weg zum Profitum ist mit Steinen und Fallen gespickt. Ein kleiner Fehler könnte sich als fatal herausstellen. Eine Verletzung zum falschen Zeitpunkt und alles ist vorbei. In solchen Zeiten ist es enorm wichtig richtig zu handeln und sich keinen Fehltritt zu erlauben. Es gibt bereits genügend externe Umstände die dazu führen könnte das man am Ende keinen Erfolg hat, warum sich also noch selbst Steine in den Weg legen. Aber, die Jugend ist an die Jugend verschwendet, also passieren Dinge.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 27.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #174
+
+* Titel: `Yakuza 5 - #174 - das alte Eisen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mittlerweile haben wir dann auch alle Lebensphasen eines Profispielers durch. Erst haben wir die Hoffnungsvollen, dann haben wir die die es nicht geschafft haben als sie jung waren und dann hatten wir zu letzt jene die es noch schaffen könne und durchaus noch Einiges vor sich haben können. Und nun, zum Abschluss haben wir jene die es quasi geschafft haben. So wie es aussieht gibt es aber im Profisport auch Positionen die zwar auf dem Feld stehen aber dennoch nicht an einem Spiel teilnehmen. Ich bin mir zwar nicht so ganz sicher ob es wirklich die gesamte Aufgabe eines Ballwerfers ist Schläger auszubilden aber anscheinend gibt es durchaus etwas zu tun selbst wenn man nicht im faktischen Rampenlicht steht. Ich verstehe aber immer noch absolut nichts von Baseball und die gesamte Welt geht an mir vorbei. Aber das muss ja nichts Schlechtes sein, es scheint auf jeden Fall das diese Position eine längere Halbwertszeit haben als die von offensiveren Rollen draußen auf dem Feld.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 27.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #175
+
+* Titel: `Yakuza 5 - #175 - Profi-Ratschläge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Shinada war eines Tages einmal ein Profi. Für nur sehr kurze Zeit und ich frage mich ob er überhaupt jemals dafür bezahlt wurde für das was er getan hat. Letztendlich hat er ja ein Spiel gewonnen auch wenn er am nächsten Tag entlassen wurde. Also fragt sich doch schon ein wenig ob man da komplett ohne Abfindung gehen gelassen wird oder ob die Vertragssituation für diese Variante eine fristlose Entlassung vorsieht bei der auch nichts mehr bezahlt werden muss. Aber er ist jetzt ja auch reicht an Lebenserfahrung, also kann man wohl damit rechnen das die Ratschläge die er gibt, insbesondere jene die mit Baseball zu tun haben durchaus solide sein könnten. Daher geben wir heute einige dieser Ratschläge, Tipps wie vom Profi.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 26, Aufnahme vom 27.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
+  ```
+
+##### #176
+
+* Titel: `Yakuza 5 - #176 - im Herzen unschuldig [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man durch eine größer angelegte Verschwörung reingelegt wird und man quasi nur selbst weiß das man unschuldig ist kann ich mir das nur enorm nervig vorstellen. Die meisten Menschen neigen nicht daran zu glauben das es so etwas wie eine größere, konzentrierte Aktion gegen eine Einzelperson gibt. Normalerweise trifft man ja auch nicht die Illuminaten im Hintergrund die alles daran setzten ein bestimmtes Leben zu zerstören. Statistisch gesehen ist es auch ziemlich schwierig eine Verschwörung von bestimmter Größe am Leben zu erhalten ohne das es irgendjemand merkt. Aber wenn das Ziel irgendein Junior Spieler ist könnte es durchaus sein das einfach niemand die Zeichen sehen kann.  Es mangelt auch so ein wenig an Motiven, das ist wie wenn ein Serienmörder seine Opfer wahllos ohne festes Profil aussucht. In den meisten Fällen vermutet man ja die Täter in der Familie bzw. näheren Bekanntenkreis. Das was man halt so kennt. Man stelle sich eine Organisation vor die einfach nur ohne System das Leben von anderen Menschen völlig rücksichtslos zur Hölle macht. Einfach nur so, komplett ohne Indiz und Logik. Würde irgendjemand glauben das Behörde XY hinter einen her ist wenn die Lebensrealität für alle Anderen tangential davon ist? In so einer Situation war Shinada, aber immerhin, jetzt 15 Jahre später, sind Leute in der Lage den Inhalt seines Herzens zu sehen. Kann man das Erfolg nennen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 26, Aufnahme vom 27.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
+  ```
+
+##### #177
+
+* Titel: `Yakuza 5 - #177 - das finale Duell [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es hat gar nicht lange gedauert und schon haben wir es geschafft. Wir haben alle Nebenmissionen von Shinada zu einem erfolgreichen Abschluss gebracht. Jetzt gibt es nur noch eine Person die wir von unserer Unschuld überzeugen müssen. Natürlich auch die schwerste Person. Jemand für dem Baseball alles war und der nie in der Lage war weiter zu machen. Ich sehe so etwas immer kritsch. Wenn man sich an einer Sache verklammert und dann einfach nicht weiter machen kann. Und dann sehe ich mich selbst auch an Konzepte oder Träume der Vergangenheit klammern. Nostalgie kann eine ziemlich harte Droge sein wenn man nicht aufpasst. Ehe man sich versieht lebt man in einer Halluzination der Vergangenheit, blind für die Gegenwart. Immerhin ist es nicht das Problem das die alten Tage so großartig waren, eher das Gegenteil. Und doch kann hier jemand nicht weitermachen bis er den perfekten Ball geworfen hat. Alles was jetzt noch bleibt ist es jenen Ball zu treffen und in den Orbit zu befördern. Das sollte doch leicht sein oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 26, Aufnahme vom 27.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
+  ```
+
+##### #178
+
+* Titel: `Yakuza 5 - #178 - kurz keine Realität [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Tagträume sind ziemlich normal. Manchmal frage ich mich allerdings ob ich nicht zu wenig einfach einmal in den Tag träume. Ich komme zu dieser Aussage weil ich mich immer wieder dabei erwische wie ich nicht in die Luft starre um meine Gedanken treiben zu lassen sondern stattdessen versuche irgendetwas zu tun während ich mich noch einmal mit anderen Dingen abzulenken. Man könnte wohl fast von einer Art Sucht nach irgendwelchen Informationen oder Aufgaben reden. Genug von mir. Shinada unternimmt öfter Spaziergänge und war unlängst gezwungen seiner Vergangenheit noch einmal gegenüber zu stehen. Das hat natürlich unangenehme Erinnerungen geweckt. Und was ist schöner als von einer anderen Welt zu träumen? Gemeinsam mit jemanden anderen zu träumen. Wie schade wenn man diesen Traum schneller unterbrechen muss als einen lieb ist. Viel zu schnell war wieder Realität. Allerdings könnte man fast glauben das für unseren Baseballprofi nicht alles reine Fantasie war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 27, Aufnahme vom 03.04.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
+  ```
+
+##### #179
+
+* Titel: `Yakuza 5 - #179 - Leo Ayanokoji [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich verachte Adelige. Oder reiche Leute. Das ist ein relativ allgemeingültiges Resentiment gegenüber Menschen einer bestimmten Gruppe. Eventuell ist da auch ein wenig Neid dabei aber das als Argument zu sehen erscheint mir eher wie eine Nebelkerze. Der Großteil der reichen Leute sind nicht reich weil sie so toll sind sondern weil ihre Eltern reich waren, die vielleicht wirklich etwas konnten. Schlimmer sind Menschen aus Dynastien reicher Familien. Hier glaubt man man ist auserwählt, hat eine Stufe erreicht die normale Menschen niemals erreichen kann. Kurzum, ich hasse Menschen die sich für etwas Besseres halten. Also wirklich hassen, so mit starken Gefühlen, sehr ungewöhnlich. Man kann sich auch völlig ohne Reichtum für etwas Besseres halten oder reich sein ohne es raus hängen zu lassen, ein Umstand den vor allen Dingen das alte Geld weiß. Wer nicht angibt reich zu sein läuft weniger Gefahr Leuten zu begegnen die etwas vom Reichtum abhaben zu wollen. Oder man verlässt einfach nicht die eigenen Zirkel. In Japan wurden, soweit ich weiß, alle ehemaligen Adeligen ihre Titel entzogen und nur die Kaiserfamilie selbst durfte den Namen behalten, die japanische Prinzessin hat dann wohl geheiratet und dank patriarchalischen System sollte es dann das wohl gewesen sein. Wäre ja auch nicht so gesehen das die gute Frau jemanden von höherer Abstammung zur Auswahl gehabt hätte. Ob es im echten Japan noch Leute gibt die sich für vom Adel halten weiß ich nicht, aber wir finden heute die Karikatur einer solchen Person. Immerhin hat er Geld und ihm wurde beigebracht wie man kämpft. Das können wir nutzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 27, Aufnahme vom 03.04.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
+  ```
+
+##### #180
+
+* Titel: `Yakuza 5 - #180 - Lektionen über das Leben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben uns quasi einen Streuner angelacht, sein Name ist irgendetwas Leo, heißt anscheinend wirklich Leo (insofern gehe ich davon aus das er nicht wirklich "Leo" heißt sondern irgendetwas Anderes das aber darauf hinaus laufen würde) und so jemand ist offensichtlich von hoher Geburt. Die gute Nachricht ist aber das der Typ außerdem ziemlich naiv ist, soetwas lässt sich ausnutzen und wir kriegen freie Lektionen in Sachen Martial Arts aus der Geschichte raus. Das ist eigentlich auch ganz nett, hatten wir doch selber nie die Zeit und das Geld solche Lektionen zu erhalten, einen Umstand der wohl einer gefloppten Baseball-Karriere geschuldet ist. Immerhin sind wir jetzt gut muskelös so das wir die neuen Techniken direkt mit maximaler Effizienz umsetzen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 03.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #Nummer
+
+* Titel: `Yakuza 5 - #181 - freies Sprechen mit Frauen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt nachdem der Kindergarten doch schon ein paar Jahre hinter mir liegt frage ich mich ob man etwas hätte tun können was Männer und Frauen angeht. Wenn man ganz klein ist dann ist alles kein Problem. Mädchen und Jungen spielen zusammen und richtige Unterschiede gibt es auch nicht. Dann irgendwann geht die Schule los und spätestens dann hängt man irgendwie nur noch sehr wenig mit dem anderen Geschlecht ab. Dann irgendwann später fängt man sich wieder an für einander zu interessieren aber das ist dann eher eine andere Art von Interesse. Und wenn man dann ein wenig awkward ist oder die Art von Frau die man gerne treffen würde in der eigenen Peergroup nicht existiert hat man irgendwie ein Problem. Dann kann es ganz schnell sein das man gar nicht so richtig weiß wie man mit dem anderen Geschlecht umgeht, einfach weil man auch nichts darüber weiß. Wahrscheinlich passiert das auch Frauen, aber darüber weiß ich nichts. Wie gut wenn man für genau so einen Zweck die Elite der Unterhaltungsindustrie mieten kann um zu lernen wie man ein richtiges Gespräch führt. Das ist dann zwar immer noch eine Illusion aber doch auch eine Erfahrung an der man wachsen kann. Mit dem Selbstbewusstsein ist das ja so eine Sache, die Halluzination selbstbewusst zu sein ist ja quasi das gleiche wie es wirklich zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 03.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

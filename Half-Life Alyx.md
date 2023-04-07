@@ -471,12 +471,18 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKj
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
   ```
 
-##### #Nummer
+##### #31
 
-* Titel: ``
+* Titel: `Half-Life: Alyx - #31 - das Innere [Let's Play; ger; Blind, VR]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wenn wir kurz davon ausgehen das ich ganz doll viele Persönlichkeiten haben die sich mit mir (der Hauptpersönlichkeit) streiten, dann gab es rege Diskussionen wie ich diese Episode nenne. In der Vergangenheit habe ich die letzte Folge eines Let's Plays gerne Finale genannt. Dann bin ich davon weg und habe eher etwas Inhaltliches gewählt aber das fand ich auf Dauer auch ein wenig zu "spoilery". 'Das Innere' ist definitiv keine Glanzleistung aber es gibt einen Twist der schon im Vorfeld kommuniziert wurde, ich war bloß einfach zu dumm um ihn zu sehen. Erst so ungefähr mitte der Episode fällt mir auf das ich eventuell ein wenig naiv mit den mir präsentierten Fakten umgegangen bin und wieder einmal nicht nachgedacht habe. So etwas ärgert mich immer sehr, weil eigentlich halte ich mich doch für klug und so. Anscheinend eine Illusion.
+  Spielerisch war das hier noch einmal ein wunderschöner Twist der Dinge, enge Gänge, ganz neue Fähigkeiten, nur das Granatenwerfen war ein wenig unsinnig. Dann gibt es am Ende noch einmal ein wenig Story Exposition die wohl auch Fragen für die kommenden Jahre aufwerfen wird. Alles in Allem bin und war ich sehr begeistert von Half-Life Alyx, man hätte wohl noch mehr machen können und hat sich hier und dort zurückgehalten was technische Erkundung angeht. Wenn ich bedenke wie oft ich gegen meinen Tisch gehauen habe, war das wohl nicht das Schlechteste.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  VR Lets Play, ohne Stream aufgenommen. Valve Index
+  Sitzung 5, Aufnahme vom 10.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMVprCxsiT8cbisegqWKju1
   ```

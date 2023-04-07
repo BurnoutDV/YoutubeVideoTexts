@@ -1636,12 +1636,278 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
-##### #Nummer
+##### #109
 
-* Titel: ``
+* Titel: `Elex 2 - #109 - Datenaustausch [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Eigentlich renne ich heute die ganze Episode nur umher um zu versuchen noch mehr Elex zu kaufen, auch wenn ich ehrlich gesagt gar nicht so richtig weiß was ich dann mit diesen Ressourcen machen soll. Bzw. was ich noch mit den Skillpunkten leveln soll die dabei herausfallen. Was ich dann außerdem noch mache ist den großen Zentralrechner der Kleriker anzuzapfen. Anscheinend habe ich es bis jetzt nicht ganz verstanden aber der große und zentrale Knoten der in einer Kirche ziemlich offen und angreifbar steht, ist wohl die zentrale Verwaltung aller Kampfroboter der Kleriker. Anscheinend gibt es ein paar Fehler im System und die Robots agieren irrational und haben beispielsweise uns angegriffen. Das das eventuell durch die Alien-Invasoren ausgelöst worden sein könnte ist nicht bekannt. Fest steht aber das der alte Bordcomputer der Rakete die nie gestartet ist scheinbar schon mehrfach umgezogen wurde immer noch irgendwie funktioniert. Ich bin ein wenig erstaunt das die Kleriker noch wissen wie man mit der Technik umgeht aber dann keinen Grund darin sehen ihre Tech ein wenig zu schützen. WIr haben das Ding auf jeden Fall drahtlos gehackt. Bzw. hacken lassen. Das kommt davon wenn man keine WLan Passwörter verteilt. Anfängerfehler.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 14.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #110
+
+* Titel: `Elex 2 - #110 - Dem eigenen Volke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die eigenen Wurzeln und damit alles von dem man kommt in Frage zu stellen kann eine ziemlich harte Sache für Manche sein. Man wächst ja nicht in einem neutralen leeren Raum sondern immer in einer Art Gesellschaft die einen prägt und den eigenen Wertekatalog festlegt. Ich finde es daher ziemlich wichtig auch einmal andere Kulturen und Ansichten kennen zu lernen einfach um einen Wasserstand der eigenen Ansichten zu haben. Wo steht man selbst und sind die Werte die man vertritt eigentlich überhaupt vertretenswert oder ist man das Produkt eines Unrechtssystems. Es braucht nämlich eine ganze Menge um das einfach so zu merken. Oft sind Unterschiede ja eher subtil und die Risse an die man ansetzen könnte so klein das man sie ohne Hilfe nicht sieht. Wenn man jetzt aber die Ansichten vieler anderer Leute gesehen hat kommt man eventuell irgendwann zu dem Punkt das man in Frage stellt was dem Kern der eigenen Leute ausmacht. Annahmen die man für unverrückbar hielt sind auf einmal auf sandigen Boden erbaut. So etwas nennt man auch einen Kulturschock, und das kann ziemlich heftig sein. Je nach Delta natürlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 14.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #111
+
+* Titel: `Elex 2 - #111 - der erste Wüstenteufel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir finden nach 110 Episoden nicht plötzlich eine neue Fraktion oder einen anderen Gegnertyp. Bei den Wüstenteufeln handelt es sich viel mehr um eine kleine Gang von der wir wirklich noch nichts gehört haben können weil sie nur aus fünf Mitgliedern bestand. Aber anscheinend gibt es sie auch alle noch und wären sogar theoretisch bereit für neue Schandttaten, nur doof das unser bester Kumpel Bully nicht dabei ist. Irgendwie hat er es geschafft beim Duke in Ungnade zu fallen. Soweit ich das gehört habe hat er es nicht geschafft seine Aufgaben zu erfüllen und das kann ja nun wirklich niemandere Anderes Schuld als die von Bully sein oder? Nun ziehen wir also durch die Lande und sagen irgendwelchen Schwerverbrechern Bescheid das sie sich für den nächsten großen Bruch vorbereiten sollen. Ich wiederhole es hier gerne noch einmal, am Ende geht es bestimmt darum olle Bully möglichst schmerzhaft zu Entsorgen und wir heuern dafür selbst die Attentäter an. Das wird großartig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 14.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #112
+
+* Titel: `Elex 2 - #112 - der Weg zum Erzberserker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann mich nicht so wirklich an irgendein Spiel erinnern in dem das Aufsteigen in einer Gesellschaft irgendwie glaubhaft war. Ich kann mich dunkel daran erinnern das es in Morrowind einen ziemlich langen Weg durch die Magiergilde gab aber ich weiß auch nicht mehr wie das geendet hat. Auf jeden Fall nicht als Gildenmeister. Ich sehe hier auch direkt zwei Probleme, zum Einen müsste es ja wahrscheinlich Jahre wenn nicht sogar Jahrzehnte dauern bis an die oberste Position zu gelangen, insbesondere weil es ja auch andere Mitglieder gibt die aufsteigen wollen. Selbst unter absolut besonderen Umständen, sagen wir größeren Ausfall der vorhandenen Infrastruktur, selbst dann kann ich mir nicht vorstellen das irgendeine echte Organisation ein noch so talentiertes Individuum bis auf die höchste Position befördern würden. Das zweite Problem besteht darin das man von hochrangigen Mitgliedern wohl gewisse Organisationsaufgaben erwarten darf und das widerspricht wohl doch eher dem Geist eines Spiels. Oder würdet ihr plötzlich gerne Schreibtischaufgaben erledigen? Die gute Nachricht ist das Elex zumindest dieses Problem umgeht, wir erreichen nicht den höchsten Rang, aber das Erzberserkertum ist schon ziemlich gut oben und verfügt dennoch über eine gewisse Autonomie. Immerhin kann auch erklärt werden das Rat uns quasi befördert weil wir uns ja schon in der Vergangenheit bewiesen hatten. Und dennoch, eine Blitzbeförderung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 14.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #113
+
+* Titel: `Elex 2 - #113 - Diplomatische Verwicklungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hab ich schon erwähnt das es ziemlich schwer ist sich mit irgendwelchen Leuten zu vertragen? Im Idealfall läuft das natürlich alles von selbst aber in der Regel hat man es mit Leuten zu tun die in der eigenen, fortgesetzten Existenz nicht direkt einen Mehrwert sehen. Das ist alles nicht so schlimm wenn man selber mächtiger ist und doch will man ja eigentlich nicht in sinnlosen Scharmützeln Leute verlieren die man eigentlich recht lieb gewonnen hat. Schlimmer noch wenn man tatsächlich unterlegen ist. Meistens ist man aber grob gleichauf oder kann es eher nicht abschätzen bis man es darauf ankommen lässt. Die Grundsituation ist dann die das man selber bereits ist Zugeständnisse zu machen aber die Gegenseite gerne den ganzen Kuchen will. Dann kommt es darauf an die eigene Position so zu verkaufen das die andere Seite ein wenig lernt und man vielleicht davon überzeugen kann das man selber einen Punkt hat. Alles nicht so einfach und ich bin mir sicher das Nasty sich noch nie Gedanken darum gemacht hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 14.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #114
+
+* Titel: `Elex 2 - #114 - Offene Rechnungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einen Groll zu hegen ist wirklich anstrengend. Für alle Beteiligten. Wenn man es selber ist muss man die eigene Wut die ganze Zeit neues Futter geben und selbst dann ist die Gefahr recht groß das man über die Jahre langsam aber sicher milde wird. Wenn man das Ziel eines Grolls ist kann es sogar noch schlimmer sein, irgenwann taucht da jemand auf den man seit Jahren nicht gesehen hat, aber anstatt über alte Zeiten zu reden wird plötzlich alles ganz dolle Ernst und man muss sich mit der Vergangenheit beschäftigen, als ob da jemand Lust drauf hat. Die Gefahr ist auf jeden Fall recht groß das einen ein solcher Groll auf Dauer von Innen heraus auffrisst und man am Ende nur noch der Avatar des Grolls ist und die eigentliche Person die den Groll einmal verspürte verschwindet vollständig hinter der Wut und dem angestauten Hass. Können wir eine solche Person wirklich unterstützen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 16, Aufnahme vom 14.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #115
+
+* Titel: `Elex 2 - #115 - nächste Stufer der Menschlichkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschlichkeit kann man nicht direkt definieren. Und wenn man es doch tut stellt sich relativ schnell heraus das Menschen oft ziemlich unmenschlich handeln. Es könnte daran liegen das wir immer noch die selben Affen sind die nur eine schlechte gepatchte "Software" besitzen die irgendwie mit den modernen Zeiten umgehen will. Wenn es zu Fehlern kommt fällt man da ganz schnell auf die alte Grundtechnologie zurück und dann passiert nicht mehr so viel im Oberstübchen. Und dennoch will Falk genau dies replizieren. Warum er dabei nicht einfach einen statistischen Ansatz verfolgt und wahllos Leute beobachtet und am Ende daraus eine Schlussfolgerung zieht ist mir aber nicht so ganz klar. Stattdessen will er es an ausgesuchten Beispielen in der Tiefe erfahren, wohl wissend das seine Erkenntnisse damit umso mehr vorgefiltert sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 21.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #116
+
+* Titel: `Elex 2 - #116 - falscher  Gefallen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wo habe ich diesen Titel her? Manchmal schreibe ich diese Texte erst einige Tage, selten sogar Wochen später weil ich durch andere Sachen abgelenkt werde. Dann ist die Aufnahme schon zwei Wochen her und ich kann mich an den Inhalt einer individuellen Episode nicht mehr so gut erinnern. Diese hier habe ich sogar durchgeskippt und ich weiß dennoch nicht was ich mir dabei gedacht habe. Ich ziehe meinen letzten Joker und schaue in die Aufzeichnungen...das hilft nicht. Die Aufzeichnungen sagen nur das die Episode schon immer "falscher Gefallen" hieß, ich muss wohl davon ausgehen das es sich um den vorgesehenden Namen handelt. Was an einem Gefallen den man tatsächlich leistet falsch sein soll kann ich leider nicht sagen. Wenn die Arbeit am Ende nicht gemacht wird dann wüsste ich durchaus was gemeint ist. Was wir aber heute tun ist wie immer echte Arbeit, insofern bin ich doch ein wenig verwirrt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 21.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #117
+
+* Titel: `Elex 2 - #117 - Seifenoper [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bei der letzten Episode wusste ich nicht so recht worum es eigentlich ging. Dieses Problem habe ich hier und heute nicht. Ich kritisiere ja wirklich viel von der Story, die Art und Weise wie Dinge geschrieben sind und wie bestimmte Geschichten präsentiert werden. Das mache ich immer. Das gibt mir leider sehr wenig Raum wenn ich eine wirklich wirklich schlechte Erzählung sehe. Wenn ich eine Mission bzw. Quest habe die so schlecht ist das ich es noch einmal extra betonen möchte. Wie auch kann ich betonen das ich die Art und Weise wie etwas rübergebracht bekomme nicht nur schlecht ist sondern grade zu dilletantisch. Ich habe keine Worte. Seifenoper umfasst eigentlich nur einen winzigen Teil von der Menge an Verachtung die ich verspüre wenn ich die heutige Quest von Fox spiele. Ich will in dieser Beschreibung nicht zu viel in die Details bzw. Spoiler gehen, allerdings gehen mir eh die Worte aus. Es ist unfassbar wie tief man mit einem einfachen Spiel sinken kann. Wir erreichen heute ein Niveau jenseits des schlechte Story Tellings. Wir durchbrechen den Boden des Geschmacks und erreichen das Niveau einer Wochentagsnachmittagssendung. Wie konnte sich irgendjemand der das hier abgenommen hat denken das das eine gute Idee gewesen war. Alles wäre besser gewesen als das hier, selbst die Quest einfach weg zu lassen und Fox im Knast versauern zu lassen. Ernsthaft. Ich habe physische Schmerzen von der Geschichte. Das ist dann wohl das was man einen Verris nennt. Immerhin bleibt es wohl im Gedächtnis.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 21.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #118
+
+* Titel: `Elex 2 - #118 - Schadensbegrenzung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eine absolute Überraschung die in ihrer Gesamtheit nach gerade zu perfekt ist, aber es stellt sich doch glatt heraus das man den Morkons nicht trauen kann. Ich meine, wer hätte das ahnen können? Wir haben die Fraktion ja in komprimierter Form kennen gelernt, Bunker Bewohner die genau auf ihre Bevölkerung blicken. Die gleichen Leute die auch einfach so durch das Land ziehen, Morden und Plündern und dann behaupten das es sich um eine einzelne Gruppe gehandelt hat. Natürlich sind das auch die gleichen Leute die Menschen entführen und dann so lange in einen Käfig sperren bis man mit macht. Es handelt sich quasi um Stockholm-Syndrom die Fraktion. Das man bei solchen Leuten nur mit wenig Empathie und einem gewissen Mangel an Rücksicht für di e ganze Welt vorfindet trifft euch bestimmt genauso überraschend wie mich. Nun, heute sind wir da um zumindest ein wenig davon wieder grade zu rücken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 21.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #119
+
+* Titel: `Elex 2 - #119 - Passus 3: Zusammenrottung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Während ich das hier schreibe bin ich immer noch in dem Kapitel und ich weiß ehrlich gesagt noch nicht so richtig was genau hier zusammengerottet wird. Das Wort ist auch eine sehr interessante Wahl. Normalerweise spricht man ja eher vom Zusammenrotten wenn sich Leute die sich eher nicht so mögen endlich zusammen tun um etwas zu erreichen. Aber bisher sehe ich das noch nicht so richtig kommen. Die einzelnen Fraktionen außer die Berserker sehen einfach keine Notwendigkeit darin etwas für die Zukunft zu tun. Am ehesten noch die Kleriker aber die hängen halt uralten Dingen hinter her und man kann nicht wirklich sagen das sie einen guten Plan für das was da kommt haben. Insbesondere das was man tun könnte selbst wenn die Katastrophe abgewehrt ist scheint mir nicht besonders gut durchgeplant zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 17, Aufnahme vom 21.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #120
+
+* Titel: `Elex 2 - #120 - Stimmkollektiv des Derivat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neues Kapitel bzw. Passus heißt auch das wir uns wieder mit den Begleiteraufgaben anfangen dürfen. Meine Wahl fällt hier natürlich zuerst auf Caja, die Gute hat ja schon immer ein besonderes Verhältnis zum Elex gehabt und da macht es dann umso mehr Spaß zu sehen was sie von dem neuen Elex hält. Ich muss allerdings sagen das die Erklärung bzw. die Art und Weise wie das Elex und seine versteckte Natur im Vorgänger angeführt wurden hat mir im Vorgänger der auch entsprechend benannt wurde wesentlich besser gefallen. Alles in Allem habe ich das Gefühl das in diesem Teil die Qualitätskontrolle bzw. das abschließende Aufpolieren der Qualität irgendwie arg vernachlässigt wurde. Das ist sehr schade aber so etwas kommt wohl vor. Immerhin habe ich dadurch umso mehr Gelegenheit mich über Dinge zu beschweren. Man stelle sich vor Elex 2 wäre einfach nur ein mittelmäßiges Spiel ohne echte Angriffsflächen zu liefern. Dinge die zu durchschnittlich sind sind am Ende wahrscheinlich sogar schlimmer als jene die einfach sehr schlecht in vielerlei Hinsicht sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 17, Aufnahme vom 21.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #121
+
+* Titel: `Elex 2 - #121 - die größte Gefahr der Menschheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich definieren müsste was ich für die größte Gefahr der Menschen halten würde wäre mein erster Gedanke auf jeden Fall die Menschen selber. Das Leben wäre aber auf jeden Fall wesentlich einfach wenn die größte Gefahr etwas wäre das man sich gemeinschaftlich als Gefahr sehen kann. Einen großen Gegner unter dem man sich vereinigen kann. Andererseits würde wahrscheinlich jede weltraumreisende Zivilisation diesen Umstand sofort erkennen oder bereits aus zahllosen ähnlichen Expeditionen bereits kennen und ausnutzen. Warum auch sinnlos Bodentruppen versenden wenn man subtil und subversiv die Bevölkerung gegeneinander aufbringen kann. Andererseits habe ich ja schon argumentiert das man auch erst einmal ordentlich vom Orbit bombardiert und sich das mit den Bodentruppen aufspart bis man anfängt tatsächlich Ressourcen abzubauen. Insbesondere bei Magalan sehe ich auch nicht viel Potenzial irgendwelche Infrastruktur in Schuss zu lassen. Dafür müsste es ja erst einmal welche geben die sich zu retten lohnt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 17, Aufnahme vom 21.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #122
+
+* Titel: `Elex 2 - #122 - der schwarze Schakal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bullys ehemalige Bande bestand ja aus einer Gruppe harter Kerle. Das sie sich einfach so einfach aufgeteilt haben ist ein wenig komisch. Offenbar handelte es sich ja um eine Bande von echt fähigen Personal. Warum setzt man eine solche Gruppe von eigentlich fähigen Leuten nicht öfter für verschiedene Zwecke ein. Oder hatte der gute Baxter soviel Angst vor die theoretische Möglichkeit das Bully eines Tages aufmucken könnte das er all die Jahre auf enorm nützliche Werkzeuge verzichtet hat nur um im Zweifel ein Ass im Ärmel zu haben? Das erscheint doch ein wenig weit hergeholt. Ob die Leute von Magalan überhaupt wissen was ein Schakal ist? So gesehen haben wir eigentlich noch keine anderen, normalen Tiere gesehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 18, Aufnahme vom 28.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #123
+
+* Titel: `Elex 2 - #123 - intelligente Scans [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ja wirklich gehofft das die Skyaniden irgendeine gute Taktik hinter dem Plündern von alter Technologie haben. Aber anscheinend ist dem nicht so. Aus irgendwelchen Gründen braucht eine hochtechnologische Zivilisation die aus dem Weltraum kommt Zugriff auf lokales Gerät um jenes Gerät gegen die ursprünglichen Schöpfer zu benutzen. Problematisch ist bloß das von den eigentlichen Erschaffern jener Technologie quasi niemand mehr lebt (es sei den wir finden jetzt spontan noch einen Bunker mit Pre-Apokalypse Menschen). Generell erscheint die gesamte Kampagne mögliche Technik die seit 100 Jahren in der Wildnis verrottet unbrauchbar zu machen ziemlich optimistisch. Ich sehe es halt einfach nicht das es irgendeine Notwendigkeit gibt. Und wenn man sich gegen alle Eventualitäten absichern wollte, wäre es da nicht logischer die einfach zu identifizierenden Bevölkerungszentren vom Orbit zu bombardieren? Das ist ein wiederkehrendes Thema. Viele komplexe Ansätze und Ideen werden mit der Frage „Warum nicht einfach vom Orbit nuken“ invalidiert. Also, warum sich mit sowieso dysfunktionaler Technik abtun?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 18, Aufnahme vom 28.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #124
+
+* Titel: `Elex 2 - #124 - kommisarische Übernahme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß wirklich nicht warum ich diese Episode so benannt habe.  Wahrscheinlich einfach weil ich diese Art der Wortwahl interessant fand. Wir haben ja bereits festgestellt das jeder Realismus oder gesichertes Worldbuilding einfach nicht stattgefunden hat. Wäre das der Fall würden wir vor einem sehr anderen Spiel stehen. Es ist vollkommen klar das Elex 2 eher durch keine oder nur wenige Revisionen gegangen ist. Und an sich ist es auch in vielen Fällen nicht so wichtig oder? Es wäre wahrscheinlich sogar ziemlich irritierend wenn Charaktere einfach nicht die Sprachbildung hätten um bestimmte Konzepte klar und deutlich dar zustellen oder? Dennoch muss ich ein wenig bei dem Gedanken Schmunzeln das ein bildungsferner Mensch wie Nasty wirklich über das Konzept einer kommissarischen Übernahme ihrer Tätigkeiten als Ressortleiterin Bastion spricht. Man würde von ihr nicht wirklich erwartet das das die Worte sind die sie wählt oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 18, Aufnahme vom 28.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #125
+
+* Titel: `Elex 2 - #125 - Sherry und Logan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich fange immer mehr an den Fähigkeiten von Nasty zu zweifeln. Wenn sie bei manchen ihrer ehemaligen Vertrauten ein wenig Hilfe braucht kann man das ja durchaus glauben. Es handelt sich schließlich um mächtige Leute, aber mit der Zeit wird das jetzt ein wenig lächerlich. Die gute Frau kriegt anscheinend gar nichts auf die Kette. Wir erinnern uns das sie in der Vergangenheit die Armeen der Kleriker in den glorreichen Sturm auf die Basis der Albs angeführt hat. Diese Zeiten sind anscheinend schon lange vorbei und das was von Nasty übrig bleibt ist nur noch ein schwacher Abklatsch von dem was sie einst war. Es fragt sich doch wirklich wie sie überhaupt in der Lage war die Morkons davon zu überzeugen das sie es wert war etwas von der Rattenfleischsuppe abzubekommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 18, Aufnahme vom 28.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #126
+
+* Titel: `Elex 2 - #126 - Große Verantwortung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Von den Standardthumbnails die man für diese Episode auswählen kann sind zwei eine Unterhaltung mit Nasty und eines die 5 Sekunden in denen ein Troll vor mir stehen kann bevor der Feuerregen zuschlägt. Ich fand den Troll einfach wesentlich passender für das was heute passiert. An sich übrigens nicht grade eine Menge aber ich beende endlich die Begleiterquest von Nasty. Hätte ich gewusst was auf mich zu kommt hätte ich diese Reihe übrigens komplett ignoriert. Außer mir weitere Munition in meinen unproduktiven Rants zu geben hat diese Aufgabe eigentlich nichts fürs gemacht und das finde ich sehr schade. Auch Nebengeschichten sollten die Welt irgendwie reicher machen, selbst wenn wir von der Welt wegnehmen. Aber die traurige Realität ist wohl das wir eigentlich nicht mehr von Welt wissen. Über die Kultur der Outlaws haben wir auf jeden Fall nichts in Erfahrung bringen können und auch Nastys ehemalige Herrschaft im Fort ist kein Stück klarer für mich geworden. Wie da der Brudermord rein passt vermag ich auch nicht zu sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 18, Aufnahme vom 28.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #127
+
+* Titel: `Elex 2 - #127 - große Verantwortung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir machen selbstverständlich lückenlos weiter mit den Begleitermissionen. Der letzte Ausflug war ein wenig unzufriedenstellend aber ich bin mir sicher das wenn wir das Vater-Sohn Verhältnis von Erik reparieren dann wird alles wesentlich besser. Wir hatten im Rahmen dieser Questreihe bereits einem Moment an dem ich spontan den Drang hatte mich zu übergeben, was kann also noch schlimmer werden? Ich habe das feste Gefühl das wir bereits den absoluten Tiefspunkt erreicht haben. Insofern gibt es eigentlich nichts mehr zu befürchten oder? Und wer weiß, vielleicht gibt es ja noch einem globalen Tief jetzt doch noch ein zumindest lokales Maximum das mir erlaubt auch etwas Gutes in der gesamten Geschichte zu sehen, das kann man ja vorher nie wissen und vieles in diesem Let’s Play funktioniert ja bereits nach dem Prinzip Hoffnung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 18, Aufnahme vom 28.03.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #128
+
+* Titel: `Elex 2 - #128 - Wardeks neue Pläne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn sich herausstellt das die Geschichte nicht mehr großartig weitergeht dann brauchen wir ein Hilfsmittel, quasi ein Eingreifen Gottes das dafür sorgt das unsere Geschichte noch irgendwie weiter gehen kann. Aktuell sieht die Situation ja so aus das die Skyands zwar spielerisch inkompetent sind aber rein von der Spielwelt und wie sie wahr genommen werden absolut übermächtig sind. Die drohende Niederlage der Menschheit hängt eigentlich nur noch davon ab wann die Skyaniden entscheiden das wir überrannt werden. Kurzum, die Lage ist absolut verzweifelt. Insbesondere weil wir eigentlich nichts über unseren Feind wissen. Klar haben wir an manchen Orten kleinere Erfolge und können die Truppen zurückschlagen, aber die Methoden des Feindes werden besser und effizienter. Wie können wir mit so einer geteilten Menschheit auf den Sieg hoffen? Die Antwort heißt Wardek. Und schon geht das irgendwie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 18, Aufnahme vom 28.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```

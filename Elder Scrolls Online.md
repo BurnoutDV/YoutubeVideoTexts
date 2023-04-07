@@ -8217,6 +8217,324 @@
   Aufnahme vom 30.09.2022 - #1753 - ##106 - S16
   ```
 
+## Firesong
+
+##### #1754
+
+* Titel: `Let's Play ESO #1754 ##1 - Das Verweilen des Druidenkönigs [Firesong Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 1 des Firesong DLCs / Prolog - Sitzung 1
+  
+  Es geht weiter. Es ist schon wieder eine Weile her seit dem ich das letzte Mal ESO gespielt habe und ich kann mich nach fast einem halben Jahr nur noch so halb an die Geschichte des letzten Teiles erinnern. Das liegt aber eventuell auch daran das ich vom letzten DLC nicht unbedingt die besten Erinnerungen habe und ich daher nicht besonders viel Positives damit verbinde. Wahrscheinlich wichtig zum Erinnern ist das Wissen um die verschiedenen Druidenstämme die man auf den Hochinseln treffen kann. Es gibt ziemlich sicher drei, nicht zwei oder vier. Jeder dieser Stämme bzw. Siedlungen hat eine leicht andere Philosophie und wir haben bisher vor allen Dingen mit dem Steinlehrekreis interagiert. Die sind zwar ein wenig zurückhaltend gegenüber Fremden aber nicht völlig feindselig. So sind wir anscheinend zu dem Job gekommen den wir heute an Land geangelt haben. Der Titel der Episode gibt absolut keine Auskunft darüber worum es heute geht, aber das braucht es ja nicht oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.03.2023 - #1754 - ##1 - S1
+  ```
+
+##### #1755
+
+* Titel: `Let's Play ESO #1755 ##2 - Feuersang-Lager [Firesong Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 2 des Firesong DLCs / Prolog - Sitzung 1
+  
+  Und schon sind wir auf einmal in Glenumbra. Ich bin ehrlich gesagt ein wenig überrascht das wir uns auf einmal auf dem Festland wiederfinden aber man muss wohl davon ausgehen das man den Prolog spielen könnte ohne das Hauptspiel zu spielen, daher keine Besuche auf Hochinsel. Wir treffen den Wyrd wieder und ich muss ganz ehrlich sagen, ich habe völlig vergessen das es überhaupt zwei Wyrds gab. Ich kann mich an dem den wir heute besuchen noch ein wenig erinnern, aber der den wir in der nächsten Episode treffen hat absolut keine bewusste Erinnerung bei mir hinterlassen. Zur Erinnerung, Wyrds sind quasi Druiden-Schwesterschaften die der normalen urbanen Kultur noch ein wenig weniger zustimmen. Das sie dennoch lächerlich wenig gegen Eindringlinge in ihre Domäne tun können ist ein Armutszeugnis und stellt wirklich in Frage warum sie überhaupt noch existieren. Hätte nicht irgendeine Banditenbande oder Nekromantenvereinigung lange ihr Ende einleiten müssen? Wie dem aber auch sei, wir erkunden heute die verschiedenen Niederlassungen des Feuersang die sich scheinbar ohne Probleme im tiefen Wald ausbreiten konnten. Spannend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.03.2023 - #1755 - ##2 - S1
+  ```
+
+##### #1756
+
+* Titel: `Let's Play ESO #1756 ##3 - Naturgeist-Stätte [Firesong Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 3 des Firesong DLCs / Prolog - Sitzung 1
+  
+  Es gibt bestimmte Fantasy-Konzepte die immer und immer wieder auftauchen. Aus diesen Ideen können wir dann unser "Theorycrafting" ziehen ohne die eigene Fantasie über Gebühr zu beanspruchen. Punkt 1 wäre zum Beispiel das bestimmte Wesenheiten Macht dadurch gewinnen das Leute an sie glauben oder sie allgemein anbeten. Wie diese Wesen genau aussehen können ist unterschiedlich aber das Grundprinzip bleibt ja das gleiche. Das Ganze wird dann irgendwie zur selbst erfüllenden Prophezeiung, wenn man stark an den örtlichen Hausgeist glaubt dann kann der auch ein paar Wünsche erfüllen. Das ist wie Götter geboren werden, kleine Geister die es groß raus gebracht haben. Unser Naturgeist ist anscheinend nicht von dieser Kategorie, weil offensichtlich weiß ja niemand das er überhaupt existiert. Dann gebe es da noch die Variante das bestimmte Wesenheiten die Manifestation eines Ortes sind, quasi der Avatar des Konzepts. Je nach dem wie groß das "Ding" dann ist umso mächtiger der Avatar. Der Avatar einer Sonne oder des Konzepts des Schmerzes wäre dann wesentlich mächtiger als der Avatar dieses Steines da drüben. Mit Neriiden haben wir sogar Elder Scrolls Beispiel für solche Wesen, allerdings korreliert ihre Macht in der Regel nicht mit der Größe der Quelle, soweit ich weiß. Und dann haben wir da noch Reservoire von natürlich vorkommender Magie, ein Nexus an dem Macht fließen kann und sich sammelt und irgendwann gewinnt diese Macht durch ihr "Gewicht" eine Persönlichkeit bzw. einen eigenen Willen und dadurch manifestiert sich dann halt ein Geist. Was wir jetzt hier genau haben weiß ich noch nicht, allerdings gibt es hier wahrscheinlich eine Paralelle zu dem was wir bei dem Steinlehrekreis gesehen haben. Und aus irgendeinen Grund wurde das Vieh versiegelt, da fragt man sich doch warum oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.03.2023 - #1756 - ##3 - S1
+  ```
+
+##### #1757
+
+* Titel: `Let's Play ESO #1757 ##4 - Frii [Firesong Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 4 des Firesong DLCs / Prolog - Sitzung 1
+  
+  Die Druiden vom Feuersang Zirkel sind anscheinend damit beschäftigt irgendeine Art von Geist zu befreien und danach dieses Vieh irgendwie zu unterwerfen. Allerdings ist mir nicht so ganz klar wie genau man eigentlich einen mächtigen Geist unterwirft, weil technisch gesehen ist das halt ein mächtiger Geist der, Trommelwirbel, Macht hat. Wie genau bringt man so etwas unter Kontrolle? Ein Geist der nicht nur Zugriff auf andere Wege als man selbst hat sondern auch in reiner Machtausbildung mehr ist erscheint mir ein wenig schwer ohne Tricks zu kontrollieren. So gesehen kann man die ganze Diskussion über künstliche Intelligenz hier her übertragen, mit wohl dem wichtigen Unterschied das sich Geister normalerweise nicht selbst weiterentwickeln weil sie eine Singularität erreichen. Und doch erschafft man quasi aus dem Nichts ein Bewusstsein das offenbar zu eigenen Entscheidungen fähig ist. Die Mechaniken der Welt lassen es irgendwie zu das man Geister erschaffen, rufen oder nähern kann die mächtiger sind als der Beschwörer selbst, es stellt sich aber wirklich die Kontrollfrage. Der wahre Name ist es auf jeden Fall nicht, wir wissen das es Frii heißt aber daran ändert es nichts. Ab nächste Episode gibt's übrigens praktische Neopronomen um den Geist nicht mehr es zu nennen. Es wird glorios.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 24.03.2023 - #1757 - ##4 - S1
+  ```
+
+##### #1758
+
+* Titel: `Let's Play ESO #1758 ##5 - Neopronomen [Firesong Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 5 des Firesong DLCs / Prolog - Sitzung 1
+  
+  Ich habe mich wieder einmal ein wenig darin getäuscht wie lange so ein Prolog geht. Logischerweise handelt es sich ja nur um eine einzelne Mission von eher fragwürdiger Tiefe die uns halt auf das nächste DLC einstimmen sollte. Ich weiß nicht ob im Falle von Firesong schon vorher klar war das man das gute Stück am Ende eh verschenkt und der Teaser daher nicht so gut sein muss, aber wir sind am Ende. Es ist zwar nicht direkt 5 Sekunden nach dem Ende der letzten Episode aber doch quasi einige wenige Minuten nachdem wir durchs Portal schreiten. Die gute Nachricht ist, ich habe es dennoch geschafft die Episode auf eine epische Länge von 22 Minuten zu "strecken". Das mache ich natürlich nicht in dem ich schnell irgendwelche Bücher vor lese sondern indem ich neue Themen entdecke. Witzig ist übrigens auch das ich mir zwischenzeitlich noch dachte "hmm, dieser Geist ist in keiner Weise übersexualisiert" und dann noch ein wenig später "warum genau sollte eigentlich ein Geist ein Geschlecht haben wenn Fortpflanzung eh kein Ding ist". Die Antwort auf die zweite Frage ist in der Regel das die Wahrnehmung der Wesen die Realität und damit auch die Geister verändert. Der anscheinend mächtige Naturgeist Frii hat aber wirklich kein Geschlecht. Das bringt uns in eine missliche sprachliche Lage. Im Englischen kann man relativ problemlos einfach "they" raushauen wenn man nicht weiß welches Geschlecht jemand hat oder wenn die Person sich einfach nicht so identifiziert (und man das selbst akzeptiert). Das Deutsche will da präziser sein hat aber in der 1.0 Version keine Möglichkeiten. Aber alles gar kein Problem. Findige Leute haben einen Vorschlag für eine Erweiterung der Sprache gefunden. Heute zeigt sich das mit "ser" und "sey", ein wenig verwirrend aber was soll's. Dennoch fühlt es sich sehr umständlich an. Die Dinger heißen übrigens Neopronomen und sich nicht Teil der deutschen Sprache, aber die lebt ja bekanntlich und die größte Hürde wär es genügend Leute dazu zu bringen sie zu verwenden. Mal sehen wohin die Reise hier geht. Erwähnenswert ist das Firmen sehr gerne inklusiv mit solchen Dingen erscheinen. Es kostet quasi nichts andere Wörter aussprechen zu lassen und es bringt imaginäre Punkte bei einer Fraktion ein während eine andere davon kaum betroffen ist. Was hier wirklich die Intention ist kann man also gar nichts so schnell sagen. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 24.03.2023 - #1758 - ##5 - S1
+  ```
+
+##### #1759
+
+* Titel: `Let's Play ESO #1759 ##6 - Ankunft in Galen [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 6 des Firesong DLCs - Sitzung 1
+  
+  Und schon sind wir endlich auf der Insel auf der wir schon die ganze Zeit herumrennen sollten. Wir wir bereits aus dem Prolog wissen gibt es hier wohl ebenso Probleme wie schon auf Hochinsel. Aktuell sieht es aber eher so aus als hätten wir es mit lokalen Problemchen zu tun. Das die Meereselfen unter der Flagge des Grauenssegel unterwegs sind und anscheinend konzentriert die örtlichen Inseln stürmen ist irgendwie besorgniserregend aber auch nicht so besonders. Wie viel Zeit wohl vergehen müsste bis die Siedler der jetzigen Maormer von anderen Meereselfen überfallen werden würden selbst wenn sie Erfolg hätten? So richtig Zeit die Ankunft in Galen zu feiern haben wir übrigens nicht. Wir komme an und werden quasi sofort von irgendwelchen Bienen los geschickt uns um deren Probleme zu kümmern. Man fragt sich wirklich wofür die einfachen Leute überhaupt diese Adeligen durch füttern. Ihre Seite des Vertrages scheinen sie ja nicht einzuhalten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 24.03.2023 - #1759 - ##6 - S1
+  ```
+
+##### #1760
+
+* Titel: `Let's Play ESO #1760 ##7 - amphibische Beuteoperation [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 7 des Firesong DLCs - Sitzung 1
+  
+  Auch bekannt als Landeoperation, Etablierung eines Brückenkopfes oder Plündern und Brandschatzen. Eine Mischung aus Land und Wasserüberfall ist immer ein wenig kompliziert. Das Meer ist traditionsgemäß nicht der beste Ausgangspunkt für jede Art von Invasion oder Überfall und eine motivierte Verteidigerin die bereits im Vorfeld über einen derartigen Plan informiert ist wird immer in einer gewaltigen Vorteilssituation sein wenn es um die Abwehr von feuchten Offensiven geht. Und das ist lange bevor die wirklich mächtigen Schiffsgeschütze erfunden wurden. Historisch gibt es durchaus einige sehr erfolgreiche Fälle von seefahrenden Nationen die von der Sicherheit ihrer Boote aus ganze Nationen unterworfen haben, aber die sogenannte Kannonenbootdiplomatie funktioniert vor allen Dingen dann gut wenn man auch tatsächlich Kannonenboote zur Verfügung hat. Wir sind uns ziemlich sicher das die Maormer das nicht tun. Und magiebasierende Schiffsgeschütze haben wir bisher nicht gesehen, wir dürfen also wohl davon ausgehen das sich Feuerbälle nicht für große Bombardements eigenen. Es bleibt also nur Eines wenn man sicherstellen möchte das man vom Schiff gut ans Land kommt und dann maximalen Erfolg beim Überfallen erzielt. Man stellt sicher das der Feind bzw. Opfer nicht weiß das man kommt. Am einfachsten ist es wohl dafür bei Nacht zu kommen oder im Vorfeld die Lage auszuspähen um einen guten Moment abzupassen. Dieser Teil hat offensichtlich gut geklappt, nur hat man dabei anscheinend vergessen die Landgeschütze zu zerstören. Das erscheint mir ein wenig unverzeihlich. Ob die Maormer in der Regel eher Fischerdörfer anstatt Festungen überfallen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 24.03.2023 - #1760 - ##7 - S1
+  ```
+
+##### #1761
+
+* Titel: `Let's Play ESO #1761 ##8 - Ahnengezeiten-Dorf [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 8 des Firesong DLCs - Sitzung 2
+  
+  Sich die Art und Weise vorzustellen wie größere Ansammlungen von Druiden leben fällt mir irgendwie ein wenig schwer. Alles hängt wohl davon ab um was für Druiden es sich handelt, aber im Allgemeinen sind es wohl Leute die im Einklang mit der Natur leben. Was aber wenn es nicht nur der eine Dorfdruide sondern eine ganze Gemeinschaft ist? Handelt es sich dann wirklich um nur "heilige" Personen die halt anstatt einen Gott die Natur anbeten oder ist es eher eine Volksgruppe mit einer bestimmten Art von Lebensweise. Bei einzelnen Druiden kann ich mir ja durchaus vorstellen das sie irgendwie Harmonie erreichen und von der Natur gefüttert werden oder so. Bei größeren Menschenmengen, auch wenn es nur ein paar Dutzend sind fällt mir das aber irgendwie schwer vor vor Augen zu sehen. Ab einem bestimmten Zeitpunkt ist Nahrungsbeschaffung ein ernsthaftes Problem und bestimmte Dinge der Zivilisation sind nicht so einfach zu bekommen. Allerdings könnte ich mir durchaus vorstellen das naturverbundene Druiden in "echt" wesentlich nackter und weniger gepflegt wären als die Exemplare die wir hier vor uns sehen. Es könnte aber auch sein das die mit denen wir interagieren auch ihre Ausgeh"uniform" tragen um nicht so zwischen den anderen Völkern auf zu fallen. Das Dorf der Ahnengezeiten-Druiden das wir heute sehen sind ein wenig wie eine Mischung aus Miraculix Hütte und einem Fischerdorf aus. So ganz habe ich das Konzept noch nicht verstanden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 28.03.2023 - #1761
+  ```
+
+##### #1762
+
+* Titel: `Let's Play ESO #1762 ##9 - Sonnenkluftbucht [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 9 des Firesong DLCs - Sitzung 2
+  
+  Orte werden gerne von den ersten Entdeckern benannt. Ich bin mir nicht so ganz sicher wer vor den Bretonen auf Galen war aber eventuell habe diese Wesen keine Aufzeichnungen hinterlassen. Wir sollten eigentlich wissen wann die Bretonen nach Galen zum ersten Mal kamen. Ich nehme einmal an das das war bevor man wirklich etablierte Entdecker hatte die ihre Erkenntnisse zurück nach Hause geschickt haben. Daher vermute ich das der Ort von den ersten Siedlern benannt wurde. Warum genau etwas eine Sonnenkluft ist kann ich leider nicht sagen, aber es handelt sich sowieso nicht wirklich um einen sonnigen Ort. Wir wissen bereits das hier die Gefangenen des Gezeitenzirkels aufbewahrt werden. Was allerdings interessant ist das wir auch Maormer treffen. Nicht wirklich interessant weil wir ja schon vom Grauenssegel gehört haben. Allerdings passiert hier und heute noch ein wenig mehr als man auf den ersten Blick vermutet hätte. Eine Entwicklung die sich als hoch interessant her raus stellen könnte. Wenn die entsprechende Geschichte entsprechen ausgeschmückt wird. Ich hoffe es sehr.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 28.03.2023 - #1762
+  ```
+
+##### #1763
+
+* Titel: `Let's Play ESO #1763 ##10 - Stadtbummel in Vastyr [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 10 des Firesong DLCs - Sitzung 2
+  
+  Eigentlich will ich ja nur zurück nach Vastyr laufen um Bericht zu erstatten aber es hat sich irgendwie ergeben das ich nicht sofort vor Ort ankomme und ein wenig umher laufe um dann in die Diebesgilde bzw. dem lokalen Untergrundunterschlupf abzubiegen. Es wäre übrigens mal ein interessanter Wechsel wenn der lokale Untergrund irgendwo wäre man ihn eher nicht vermuten würde. Als Teil des höheren Viertels, im Hinterzimmer edler Leute oder als komplette Schattenstraße mitten im Händlerbezirk. Allerdings ist es irgendwie nur schwer vorstellbar das sich irgendeine Art von großen Gesetzlosen Unterschlupf lange innerhalb einer Stadt halten kann. Irgendwer redet immer, wenn man keine übernatürlichen Methoden hat um einen Ort geheim zu halten kann ich mir kaum vorstellen das solch ein Unterschlupf wirklich funktionieren würde. Immerhin sehen wir ein wenig von der Stadt und ihrer Umgebung. Und ich kann ein wenig über Dinge die nicht direkt mit dem Spiel zu tun haben reden. Eine typische ESO Episode also.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 30.03.2023 - #1763
+  ```
+
+##### #1764
+
+* Titel: `Let's Play ESO #1764 ##11 - Vastyr, Rankenviertel [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 11 des Firesong DLCs - Sitzung 2
+  
+  Ich gebe zu das die Episodenbeschreibung ein wenig lügt. Eigentlich sind wir nur sehr kurz im Rankenviertel, das liegt aber auch vielleicht daran das das Rankenviertel wirklich klein ist. Dafür kann ich zum x-ten Mal darüber sprechen das bestimmte Gebiete in Spielen halt nur sehr klein dargestellt werden weil große Wohngebiete in Wirklichkeit zwar eben groß sind aber leider auch echt dolle langweilig. Und wenn wir ehrlich sein wollen hat man da auch nicht so richtig viel Bock drauf oder? Ich meine, warum nicht mal eben 20 Minuten lang durch belanglose Gassen laufen. Klar, gelegentlich könnte man von irgendwelchen Räubern angefallen werden, aber wer dachte Novigrad war groß sollte sich vor Augen halten das tausende Leute auf engen Raum irgendwo sein müssen. Und früher bzw. mit Mittelaltertechnologie kann man einfach nicht so gut in die Höhe bauen. Selbst mit Stundenbetten wird es nicht unendlich dicht. Davon einmal abgesehen das es auch nicht unendlich viele Gründe gibt in einer vor-industriellen Welt in einer Stadt zu wohnen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 31.03.2023 - #1764
+  ```
+
+##### #1765
+
+* Titel: `Let's Play ESO #1765 ##12 - der Draoife [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 12 des Firesong DLCs - Sitzung 2
+  
+  Ob es jetzt Ratsversammlung, Thing oder einfach nur Stammestreffen heißt, immer wenn wir eingeladen werden kommt es eigentlich zu einem Vorfall. Man stelle sich einmal vor irgendein Spiel würde uns zu einer Veranstaltung führen und dann passiert absolut gar nichts, 45 Minuten Sitzung und Vorträge für irgendeine Verhandlung über die Bedeutung von Mehlwürmern ohne das irgendetwas passiert. Das wäre definitiv sehr spannend und würde mir viel Gelegenheit geben über Dinge zu reden. Welch Glück aber auch das das nie passiert. Der Draoife, anscheinend das große Treffen aller Köpfer der Druiden ist hier auch nicht anders. Natürlich passiert eine Menge. Natürlich gibt es Verrat und natürlich wird der Konflikt auch nicht friedlich gelöst. Hat das irgendjemand erwartet?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 01.04.2023 - #1765
+  ```
+
+##### #1766
+
+* Titel: `Let's Play ESO #1766 ##13 - Stefan, das Druckmittel [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 13 des Firesong DLCs - Sitzung 2
+  
+  In einer Welt ohne Magie ist es normalerweise so das wichtige Personen, wenn man sie einmal außerhalb ihrer Paläste der Macht trifft sie auch nur normale Menschen sind. Eventuell haben sie eine bessere Bildung genossen, vielleicht haben sie auch eine bessere Verfassung weil sie eine grundlegend anders aufgebaute Ernährung haben. Und doch sind sie empfindlich wie alle anderen auch. Eine zu schnelle Bewegung, eine Unfall, ein Hinfallen und schon könnte es vorbei sein. Es ist sehr schwierig für einen normalen Menschen ein Held zu sein. Letztendlich sind die Leute die wir als Held kennen auch nur glückliche Gewinnertypen die vor allen Dingen richtig viel Glück hatten. Ein Umstand der eher etwas mit Lotto als mit Fähigkeit zu tun hat. Lange Geschichte kurz, seine wichtigen Leute an die Front zu lassen kann nicht lange gut gehen. Anders sieht das in einer magischen Welt aus. Die Götter lächeln auf jene von nobler Abstammung, Magie und andere Hilfsmittel könnten es durchaus erlauben das ein adeliger Sohn wesentlich sicherer ist als der Bauer neben ihm. All das ist aber vollkommen egal wenn der entsprechende Adelige die Mittel nicht besitzt und ein verdammter Idiot ist. Und so kommen wir in die Lage in der wir heute sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 02.04.2023 - #1766
+  ```
+
+##### #1767
+
+* Titel: `Let's Play ESO #1767 ##14 - Drachenfrosch-Dilemma [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 14 des Firesong DLCs - Sitzung 2
+  
+  Die heutige Episode ist absolut irreführend benannt. Und das nicht einmal von mir, nein es war tatsächlich wer auch immer diese Quest benannt hat, eventuell auch nur die Person die sie übersetzte. Wie dem aber auch sei. Das Dilemma entsteht dadurch das es absolut keines gibt. Normalerweise würde man jetzt irgendwelche moralischen Fragen erwarten. Irgendetwas das tief geht und uns wieder einmal daran zweifeln lässt ob es überhaupt irgendwelche Gerechtigkeit in der Welt gibt. Stattdessen wollen nur irgendwelche Banditen einen Frosch klauen und der Besitzer wird rechtzeitig informiert. Es handelt sich hier um eine klassische Matze-Geschichte. Absolut nichts ist passiert und absolut nichts wird passieren. Immerhin kündigt sich auch direkt gleich im Anschluss die nächste Geschichte an die verspricht ein wenig spannender zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 03.04.2023 - #1767
+  ```
+
+##### #1768
+
+* Titel: `Let's Play ESO #1768 ##15 - Kiku und die Düsterlaterne [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 15 des Firesong DLCs - Sitzung 3
+  
+  Irgendwann  einmal habe ich damit angefangen mir andauernd um die Logistik der Dinge Sorgen zu machen. Das stört mich. Mit Logistik meine ich übrigens ganz flapsig etwas das eigentlich gar nichts mit den Transport von Waren zu tun hat. Es beinhaltet das zwar aber halt nicht nur. Aber auch drin sind halt so Sachen wie man bestimmte Tätigkeiten einfach praktisch umsetzt. Zum Beispiel Rache an irgendwelche Piraten nehmen die dafür gesorgt haben das die eigenen Piraten (natürlich wesentlich ehrenwerter) in hoher See zu Tode kamen. Wie macht man das mit der Rache? Bräuchte man nicht erst einmal eine Crew? Ein Schiff. Dann wahrscheinlich noch Informationen über die entsprechende andere Crew die damals beteiligt gewesen war? Was wenn sich die Mannschaft eines Meereselfenschiffes nach Landgang neu verteilt? Wie machen wir das dann. Verfolgen wir die einzelnen Mitglieder, angefangen beim Schiffsjungen bis hoch zur Kapitänin? Das klingt nach Arbeit und wie kommen wir überhaupt an diese Information? So viele offene Fragen verderben mir den Spaß an einfacher Fantasy. Andere Leute können sich einfach an einen Gedanken wärmen und das erste was ich mache ist anzufangen zu rechnen. Mein Kopf ist gut, es dauert nicht lange bis ich mit dem Ergebnis zurückkomme das etwas praktisch unmöglich ist. Das ist aber dann noch deprimierender als Dinge die einfach durch den Vorgang des logischen Nachdenkens verdorben werden. Was ich damit sagen will. Eine in Nebel hüllender Laterne ist ganz nett aber nicht weltbewegend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 03.04.2023 - #1768
+  ```
+
+##### #1769
+
+* Titel: `Let's Play ESO #1769 ##16 - Razum-Bar [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 16 des Firesong DLCs - Sitzung 3
+  
+  Viele Abenteuer beginnen in irgendwelchen Kneipen. Als natürlicher Ort an denen sich verschiedenste Leute treffen und an denen man sich erfrischen und ausruhen kann. In einer größeren Gruppe zu reisen und dann an einem Ort zu rasten ist übrigens ein großartiges Gefühl. Ich kann mich dunkel an eine solche Reise erinnern und ich denke gerne an diese Tage zurück. Insbesondere weil ein Schlafsaal mit 10 Leuten zu buchen echt günstig ist. All die Vorteile eines Hotelzimmers ohne die Nachteile geteilter Betten. In einer Welt die durch Aedra und Daedra gleichermaßen gelenkt wird ist es auch nicht ganz abwegig das man "zufällig" alte Bekannte wieder trifft die man aus anderen Abenteuern kennt. Hätte ich heute nicht soviel Quatsch nebenher erzählt wären wir übrigens schon lange mit Razum-Dar auf Tour und würden das Wirken eine Piratenkapitäns einschränken. Aber so wie die Dinge stehen mache ich das eben nicht und erzähle euch stattdessen etwas über den Untergang des Abendlandes und Butzengläser.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 05.04.2023 - #1769
+  ```
+
+##### #1770
+
+* Titel: `Let's Play ESO #1770 ##17 - gemeine Schläger [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 17 des Firesong DLCs - Sitzung 3
+  
+  Das Konzept der bezahlten Schläger ist wirklich verlockend. Man stelle sich vor man hätte ein paar moralisch flexible Muskeln zur Verfügung mit denen man Probleme sehr einfach und effizient lösen kann. Immer wieder hat man ja im alltäglichen Leben das Problem das man der Rache des kleinen Mannes begegnet. Dann läuft man dann Leute entgegen die irgendwie eine Nische gefunden haben in der sie sich enorm mächtig fühlen können ohne das man die Leute überhaupt angreifen kann. Wenn man sich jemals unter der Gnade einer solchen Person befunden hat weiß man warum man sie bezahlte Schläger wünscht. Es ist so ein wenig die Antithese zum Gewaltmonopol des Staates aber an sich auch nahe dran an der praktischen Realität für die meisten Menschen. Zumindest die Illusion bzw. Androhung von Gewalt trifft man ja doch relativ oft. Die Androhung von nicht besonders plastischen Rechtstreiten hat man auch gerne mal, aber es fühlt sich einfach nicht so real an. Die Gewalt heute würde real werden, aber nur wenn die bezahlten Schläger auch tatsächlich zum Zuge kommen. Zum Glück sind solche Leute in der Regel auch nicht so schlau.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 05.04.2023 - #1770
+  ```
+
+##### #1771
+
+* Titel: `Let's Play ESO #1771 ##18 - die Kartenspielhölle [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 18 des Firesong DLCs - Sitzung 3
+  
+  Wisst ihr noch wie ich im letzten DLC irgendwie versucht habe dieses Ruhm Kartenspiel zu spielen und schon damals befand das es ein absolut unnötiges Dings ist und ich auf jeden Fall besser dran bin wenn ich es einfach komplett ignoriere. Logischerweise habe ich dann auch nicht weiter in der Richtung investigiert und das bringt uns dann auch direkt zum heutigen Tage. Da bin ich also mit Razum-Dar unterwegs und er eröffnet mir das wir es mit einer Casino Royal Situation zu tun haben. Ich muss also plötzlich aus dem Nichts ein absoluter Champion im Ruhm spielen werden. Einfach so, aus der Kalten. Das Problem an Ruhm ist auch, das die Spiele, selbst wenn man ein absolut fantastischer Spieler ist, richtig dolle lange dauern. Und es stellt sich heraus, ich bin eher nicht so der gute Spieler. Schauen wir uns also diesen Unfall in Zeitlupe an.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 06.04.2023 - #1771
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #TEMPLATE
 
 * Beschreibung:

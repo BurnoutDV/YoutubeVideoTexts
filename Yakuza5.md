@@ -2665,6 +2665,18 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #182
+
+* Titel: `Yakuza 5 - #182 - modische Neuorientierung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin wahrscheinlich die letzte Person die man nach modischen Tipps fragen möchte. Mein Verständnis für Mode besteht aus verschiedenen Varianten von Metalband T-Shirts und irgendwelchen einfarbigen Stoffhosen, nennen wir sie mal Slacks. Tatsächlich habe ich mehr Meinung über Frauenmode als über die die ich trage, größtenteils aus Gaffer-Gründen, aber das sollte niemand überraschen. Wie dem aber auch sei, 24/7 wie ein Cosplay einer längst vergangenen Zeit herum zu laufen, insbesondere nachdem vor echt langer Zeit der ganzen Mummenschanz abgeschafft wurde würde auch ich als ein wenig exzentrisch empfinden. Aber das ist wohl genau das Ding, der gute Mann ist halt eben das, exzentrisch. Und das ist er weil er reich ist. Wäre er von niederer Geburt also kurzum, arm, dann wäre er einfach nur ein komischer Spinner. Aber wenn man reich ist gibt es andere Maßstäbe. Es ist wirklich ein Wunder das unser guter Leo nicht schon früher jemanden gefunden hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 27, Aufnahme vom 03.04.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -8525,6 +8525,23 @@
   Aufnahme vom 06.04.2023 - #1771
   ```
 
+##### #1772
+
+* Titel: `Let's Play ESO #1772 ##19 - Kapitän Rotklinge [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 19 des Firesong DLCs - Sitzung 3 
+  
+  Ich bin ein wenig enttäuscht. Aber aus anderen Gründen als sonst! Normalerweise beschwere ich mich ja regelmäßig in diversen Spielen das bestimmte Charaktere nicht richtig aufgebaut werden oder ausreichend vor erklärt werden. Ich glaube auch das das in Spielen gar nicht so einfach ist. Eventuell gibt es ja eine wunderschöne Hintergrundgeschichte für Nebencharaktere aber die liegt halt in einem Buch oder einem optionalen Dialog den der Spieler einfach verpasst. Jeden eine große Exposition zuzumuten wäre auch ein wenig zu viel verlangt. Das Problem haben wir hier nicht. Stattdessen fand ich ein gerade vorgestellten Charakter von der Grundfassung eigentlich ziemlich interessant und hätte so gerne mehr über die Person gehört. Aber leider läuft es darauf hinaus das wir kurz ein paar Kristallzapfen herbei zaubern und diese große Mission ist schon wieder vorbei. Sehr schade eigentlich. Ich hätte wirklich gedacht das unser Charakter Rotklinge Potenzial gehabt hätte und für einige Quests mehr gut gewesen wäre. Ein wiederkehrender Bösewicht der uns durch seinen scharfen Verstand bei der Stange hält. Aber das war wohl ein wenig zu viel erhofft. Ich hab in dieser Episode noch ein wenig ungeschickt herum geschnitten weil ich das Ende nicht so schnell hab kommen sehen. Man sehe mir das nach.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr 
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe 
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E 
+  Aufnahme vom 06.04.2023 - #1772
+  ```
+
 ##### #Nummer
 
 * Titel: ``

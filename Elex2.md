@@ -1911,3 +1911,25 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Sitzung 18, Aufnahme vom 28.03.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
+
+##### #129
+
+* Titel: `Elex 2 - #129 - Lehrjahre [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es liegt nahe den guten alten Spruch „Lehrjahre sind keine Herrenjahre“ raus zu hauen. Aber den hasse ich immer noch, schon weil es klar zeigt das man Ausbildungsjahre eher als Möglichkeit betrachtet billige Arbeitskraft aus Teilen der Bevölkerung zu extrahieren die sich nicht wehren kann. Wie dem aber auch sei, wir, und damit meine ich Jax, lebt ja in einer Art Mittelalter. Die Mischung ist ein wenig komisch und ich fände es tatsächlich interessant eine besser umgesetzte Prämisse dieser Art zu sehen, aber wir haben halt was wir haben. In einer solchen Welt fängt man auf jeden Fall früher an seine Kinder in die weite Welt zu schicken damit sie eine Ausbildung genießen können. Und deswegen entsorgen wir heute Dex. Wir überlassen es ihm aber irgendwie selbst die Entscheidung zu treffen wo er hin möchte. Ich bin mir nicht so sich ob ich Kindern unter 16 oder vor mir aus auch 14 überhaupt zu trauen würde irgendeine Art von Entscheidung selber zu treffen, aber letztendlich kommt das wohl aus Individuum an. Dex hat wohl heftig am Elex geschnüffelt, auch kein Wunder bei den Eltern, und sollte daher wohl ein wenig vernünftiger als ähnliche Altersgenossen sein, hoffe ich einmal. Daher beantworten wir heute einen schnellen Fragebogen und schon geht es ab.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 19, Aufnahme vom 04.04.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

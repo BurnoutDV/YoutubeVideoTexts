@@ -2677,6 +2677,81 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 27, Aufnahme vom 03.04.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #183
+
+* Titel: `Yakuza 5 - #183 - ein echtes Abenteuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf ein Abenteuer zu gehen ist in der heutigen modernen Welt eher eine Sache die von Kindern übernommen wird aber für Erwachsene eher nicht vorkommen. Das liegt eventuell auch daran das die meisten Abenteuer eher darauf hinaus laufen das man sich böse verletzt oder einfach nur eine Touristenfalle nach der anderen abklappert. Daher ist es heute umso erwähnenswerter das wir den Spuren von Uno folgen und tatsächlich soetwas wie ein Abenteuer erleben ohne das unser Leben direkt bedroht wird. Das finde ich tatsächlich ziemlich gut. Yeah, Abenteuer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 03.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #184
+
+* Titel: `Yakuza 5 - #184 - der alte Masseur  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Masseur zu werden ist etwas das ich noch nie in Betracht gezogen habe. Eine Option wäre es allerdings wenn man das Augenlicht verliert, eventuell trauen einen dann einen auch bestimmte Leute dann sogar mehr als sie es normalerweise tun würden. Nichts sehen zu können kann auch so manchen Job retten, so wie auch taub zu sein. Wenn die Leute davon ausgehen das man absolut sicher sein kann das eine Person nicht spioniert oder zumindest nicht mitliest kann für bestimmte Geschäfte außerordentlich beruhigend sein. So mancher mächtiger Herrscher in Geschichten nutzt genau so eine Situation aus, manchmal um unmenschlicher zu erscheinen, manchmal um weise zu sein weil es eine kluge Vorgehensweise ist um feindlichen Spionen entgegen zu wirken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 03.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #185
+
+* Titel: `Yakuza 5 - #185 - Spuren von Verschwörung  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im echten Leben hat man es ja eigentlich nicht so oft mit irgendwelchen Verschwörungen zu tun. Insbesondere in Deutschland kommt es auch echt selten vor das man irgendwelchen korrupten Leuten begegnet. Korruption passiert eher in Form von Politik, höheren Deals wo es direkt um Millionen geht, nicht beim Busfahrer der dich nicht mitnehmen will wenn du nicht spendest. Außer dem Fall Gunstl Mollath wäre mir spontan auch gar kein Fall bekannt. Viel verwirrender ist es dann auch wenn man auf einmal mitten drin ist. Oder wenn Dinge die man vorher für Zufall gehalten hat aufgrund eines einzelnen Hinweises auf einmal anfangen auseinander zu fallen. Normalerweise fangen solche Dinge aber langsam an. Hier passt ein Fakt nicht zu einem Anderen, dort kommt der zeitliche Ablauf von Ereignissen nicht hin wenn alle die Wahrheit sagen würden. Und kleine Notlügen erscheinen auf einmal doch wie ein wenig mehr. Und dann sind plötzliche Entlassungen ein wenig mehr als nur eine Sperrung auf Lebenszeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #186
+
+* Titel: `Yakuza 5 - #186 - Kapitel 3: Preis der Wahrheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Krieg ist die Wahrheit oft das erste Opfer, Zyniker würden sogar sagen sogar das Erste. Abseits von Konflikten ist die Wahrheit aber oft auch ziemlich unbequem. Niemand möchte sich wirklich mit der gesamten Wahrheit auseinander setzen. Klar, hier und dort ein paar Fakten ist ja noch okay, aber wenn man dann auf einmal anfängt Wahrheit zu sammeln, all die kleine Schatten beleuchtet, die feinen Kanten zu erkennen gibt die normalerweise in freundlicher Unschärfe liegen, dann neigen Menschen dazu sich schnell abzuwenden. Viele Leute verbringen nicht wenig Zeit damit die Wahrheit zu verstecken, einzugraben und stille Gebete zu sprechen das nie irgendjemand danach suchen würde. Manchmal werden diese Gebete erhört, und manchmal sind andere Leute interessiert. Neugierig und bereit den Preis zu zahlen den ein Geheimnis verlangt, die Münze zu geben die aus einem halben Fakt die ganze Wahrheit macht. Manchmal ist der Preis gering, ein andermal verlangt es nach Blut. Zu welchen Längen die Menschen doch bereit sind um ihre kleinen Geheimnisse zu bewahren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #187
+
+* Titel: `Yakuza 5 - #187 - Warenhaus 62 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man illegale Dinge tut sollte man währenddessen keine anderen verbotenen Sachen tun. Das erreicht man am Besten indem man keine Aufmerksamkeit erregt. Und wo erregt man keine Aufmerksamkeit, wo keine Zeugen sind. Idealerweise sind große Lagerhäuser vorhanden, noch besser wenn sie irgendwo am Hafen sind. Die Offenheit des Meeres erlaubt es in der Regel sehr einfach Waren im Schutz der Nacht in nicht offensichtlichen Pfaden weg zu transportieren. Beispielsweise weit in die Meeresströmungen hinaus, und beispielsweise eine Leiche. Das Alles ist deswegen relevant weil der Preis von dem ich letztes Mal erzählt habe noch nicht ganz abbezahlt ist. Neben einer direkten Zahlung in Blut gibt es auch noch Zinsen. Und Da kann es offensichtlich nur eine Person geben die diese Zinsen bezahlt. Es geht also an den Hafen, auf den Spuren einer Entführung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``

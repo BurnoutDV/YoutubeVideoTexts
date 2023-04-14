@@ -1924,6 +1924,96 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele. Sitzung 19, Aufnahme vom 04.04.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #130
+
+* Titel: `Elex 2 - #130 - Vormarsch gegen die Berserker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht mehr so recht was ich sagen soll. Vielleicht „Fortuna sei gepriesen das ich mich für die Fraktion mit dem AoE Zauber der völliger overpowered ist entschieden haben“? Weil das ist auf jeden Fall der Fall. Inhaltlich ist der Alieninvader der über scheinbar unendliche Truppen, Macht und Potenzial besitzt immer noch damit beschäftigt Siedlungen der einzelnen Fraktionen mit Bodentruppen anzugehen. Das man keinerlei schweres Gerät oder mechanisierte Einheiten hat könnte man eventuell dem Zustand der Straße zu schreiben, aber wo sind dann die Flugeinheiten? Für unseren Feuerregen macht es das natürlich alles ein wenig einfacher. Und so laufen wir heute umher und töten irgendwelche Viecher die doch eigentlich von den Mauern aus wesentlich einfacher zu töten gewesen wären. Immerhin rekrutieren wir dabei gleich noch ein paar neue Mitstreiter. Also haben wir das für uns, ich denke das ist gut.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 04.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #131
+
+* Titel: `Elex 2 - #131 - Stimmen aus der Dunkelheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ganz was Neues. Nicht nur hat unser Feind defacto unendliche Bodentruppen, kann die sowieso schon mutierten Bestien der Welt auf seine Seite ziehen, nein jetzt wird auch noch ein Angriff auf unsere Computersystem vollführt. Das mag jetzt ein wenig komisch erscheinen weil wir sind ja nicht die Albs und wenn man so ein wenig nachdenkt haben wir außer Crony und vielleicht drei Adjutoren über unsere Leute verteilt absolut keine Elektronik. Es sei denn man möchte Dawkins Arm mitzählen aber das ist dann schon echt viel verlangt. Stellt sich doch glatt heraus das wir es bis hier her irgendwie geschafft haben einen Krieg gegen eine Weltraumzivilisation zu führen ohne Zugriff auf Sofortkommunikation zu haben. Das ist echt faszinierend. Das hält unsere Gegner aber anscheinend nicht davon ab uns abzuhören. Noch faszinierender.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 04.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #132
+
+* Titel: `Elex 2 - #132 - Ärger im Talkessel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jax ist eine Ein-Planeten-Armee. Es ist mir ein absolutes Rätsel warum die Berserker noch nicht die Welt erobert haben wenn sie solche Fähigkeiten verkaufen. Aber eventuell liegt es daran das die wiederholte Benutzung von Mana nicht so gesund sind und wir und vielleicht auch Caja ziemliche Ausnahmetalente sind. Fest steht aber auch das mir beim besten Willen nicht klar ist wofür wir überhaupt Verbündete brauchen. Schon bei den Morkons wurde so oft betont das wir die Kampfkraft der gesamten Menschheit brauchen und daher alle Streitigkeiten legen müssen. Aber immer wenn es darauf ankommt geht Jax alleine mit vielleicht einen Begleiter damit es nicht so langweilig wird los und löst das Problem. Das ist jetzt schon vier Mal passiert und heute ist das fünfte Mal. In diesem Fall müssen wir aber nur irgendwelche weit verteilten Wildtieren auslöschen. Das hätten doch die Outlaws auch selber geschafft oder? Ich meine, denen mangelt es doch bestimmt an Essen, warum nicht mal Wildschweine jagen gehen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 04.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #133
+
+* Titel: `Elex 2 - #133 - Pflichtverständnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann nicht sagen das ich das Konzept Pflicht vollständig verstehe. Ich sehe das sich Leute aus Schuldgefühl einer Sache gegenüber verpflichtet fühlen aber meiner Meinung nach gehen die meisten Leute ein wenig zu weit was das angeht, in der Regel geht es ja eher nicht um das Ende der Welt oder? Und dann ist da noch diese völlig lächerliche Hingabe für Dinge die eigentlich überhaupt nicht wichtig sind. Insbesondere Regeln die nie jemand in Frage gestellt hat. Auf Nachfrage kommt dann auch gerne die Antwort das man das ja schon immer so gemacht hat. Und dann gibt es da noch die Pflicht gegenüber der Tradition. Man tut etwas weil etwas von seinen Vorfahren ja schon so gemacht wurde und das sich so gehört. Hat sich da nie jemand hingestellt und aufgehört das zu tun? Oder hören wir von diesen Leuten einfach nicht so viel weil sie glücklich und zufrieden woanders sind? Davon einmal abgesehen wird es dann aber wieder kritisch wenn wirklich das Ende der Welt droht und die Leute sich plötzlich nicht mehr am Arbeitsplatz befinden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 04.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #134
+
+* Titel: `Elex 2 - #134 - versprengte Truppen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Personal zu rekrutieren ist immer ein wenig aufwendig. Hier und da kann man ein Schnäppchen schießen weil die Konkurrenz nur Erdnüsse bezahlt für ihre absoluten Topkräfte. Gerne auch aus falsch verstandenen Optimierungswillen oder weil es halt so geht. Da kann man natürlich ansetzen. In der Regel muss man sich sein Talent aber selber heranzüchten, oder in Kooperationen für hohen Aufwand zeitweilig übernehmen. Klar ist aber das es alles andere als einfach ist die richtigen Leute zu haben und wenn man sich dann erst einmal etabliert hat wird das ja nicht einfacher. Um den hohen Standard zu halten muss man sich wirklich anstrengen. Wenn man auf einmal anfängt alles zu einfach zu machen könnten sich Fraktionen gründen oder andere denken lieber an sich selbst. Da bekannte Größen zu haben ist Gold wert. Gut das unser großartiger Commander Thialg anscheinend ein paar Namen kennt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 04.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #135
+
+* Titel: `Elex 2 - #135 - Erkenntnisses & Erinnerungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schaut mal, es ist Wardek. Den hatte ich ehrlich gesagt schon wieder völlig vergessen. Klar, er kam zwischenzeitlich in dieser einen Quest mit Dex vor aber im Großen und Ganzen kann ich mich halt wenig an die Ereignisse aus dem Vorgänger erinnern und irgendwelche imaginären Vaterfiguren die im Kontext der Albs sowieso nur sehr eingeschränkt Sinn ergeben habe ich schon wieder völlig vergessen. Unsere Mächtegern-Vaterfigur will sich aber wieder in unser Leben drängen und behauptet das er ein paar heiße Informationen für uns hat. Der Wahrheitsgehalt dieser Aussage lässt sich in den verfallenen Häusern der einstigen Zivilisation eher nicht überprüfen aber wir glauben ihm doch einfach mal. Alles was wir tun müssen ist es eine Brutstätte des Feindes zu besuchen und dort den Zentralrechner zu finden. Es ist sehr verwunderlich das es überhaupt Technologie gibt mit der wir interfacen können wenn man bedenkt das wir es doch mit einer Alienrasse zu tun haben. Aber vielleicht ist das hier ein wenig wie bei Stargate, da konnte das SG-1 Tablet auch überraschend viel Technologie und Protokolle.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 04.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``

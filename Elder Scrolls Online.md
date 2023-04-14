@@ -8542,6 +8542,108 @@
   Aufnahme vom 06.04.2023 - #1772
   ```
 
+##### #1773
+
+* Titel: `Let's Play ESO #1773 ##20 - Würze des Lebens [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 20 des Firesong DLCs - Sitzung 3 
+  
+  Ja, diese Mission ist nicht nach einem höheren Konzept benannt sondern der Tatsache nach das wir heute einem Koch helfen. Anscheinend handelt es sich um eine tägliche Aufgabe weil es am Ende sagt das ich eine tägliche Aufgabe erfüllt habe, aber es wurde mir nicht als solche angezeigt. Heute geht es also darum das perfekte Gericht mit den Zutaten zu kochen die uns auf Galen zur Verfügung stehen. Extra zu diesem Zweck ist anscheinend ein großer Koch angereist. Wie genau das jetzt in der Praxis abläuft vermag ich aber auch nicht zu sagen. Von dem was ich so sehen kann hat Galen im Prinzip nichts was nicht auch andere Ecken der Welt zu bieten haben. Aber wir sehen wohl das auf Nirn das Prinzip gilt das einfach alles essbar sein muss. Wie sonst erkläre ich mir das es scheinbar möglich ist Wesen in die Pfanne zu hauen die eigentlich mehr Elementare als tatsächlich Tiere zu sein. Und auch Wesen die von der reinen Biologie her komplett unterschiedlich als ein Wald und Wiesenmensch sein kann ist wohl mit genug Gewürz sehr einfach verdaulich. Bonuspunkte wenn man das Gewürz direkt neben an pflückt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr 
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe 
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E 
+  Aufnahme vom 06.04.2023 - #1773
+  ```
+
+##### #1774
+
+* Titel: `Let's Play ESO #1774 ##21 - Galens Ruf der Pflicht [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 21 des Firesong DLCs - Sitzung 3
+  
+  Irgendwann gehen mir bestimmt die Ideen aus wie ich diese Episode nennen werde. Also diesen Archetyp der Episode. Jedes Mal wenn ich einen neuen DLC anfange muss sie ja irgendwann einmal kommen. Die Folge in der ich mich damit beschäftige was man dieses Mal für Nebenaufgaben machen kann. Fairerweise muss man aber sagen das durchaus einige Informationen über die Welt in diesen zu erfahren sind. Also laufen wir heute ein wenig hin und her und lassen uns erzählen warum es so unfassbar wichtig ist irgendwelche Nebenaufgaben zu erfüllen und damit quasi die Systren im Alleingang zu retten. Genauere Details kann ich euch übrigens auch nicht nennen. Nur das es halt irgendwie wichtig ist. Aber was daran im Speziellen? Echt gar keine Ahnung. Aber hier ein paar Namen der Auftraggeber, einfach weil ich sie eh aufgeschrieben habe: Juline Courcelles für Soloaufträge, Druide Gastoc für die Gruppendinger und Druidin Aishabeh ist für die Vulkane zuständig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 10.04.2023 - #1774
+  ```
+
+##### #1775
+
+* Titel: `Let's Play ESO #1775 ##22 - Wilde-Systen Touren [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 22 des Firesong DLCs - Sitzung 4
+  
+  Tourismus! Tatsächlich übrigens ein Ding das es schon zu Zeiten der Römer gab. Man verbindet es ja irgendwie mit modernen Zeiten aber an sich gibt es das Verlangen andere Länder zu sehen schon seit jeher. Früher war es halt nur ein wenig schwerer. Als Bauer träumt man vielleicht in jungen Jahren von fernen Ländern aber der Feudalherr, familäre Verpflichtungen und generell und überhaupt langweilige Dinge halten einen davon ab. Ein Handwerksmeister könnte aber durchaus mal ans Meer fahren oder andere Städte besuchen, vielleicht auch nur unter dem Vorwand irgendwelchen Geschäften nach zu gehen. Sobald man eine bürgerliche Mittelschicht hat kann man aber davon aus gehen das es relativ viel Tourismus gibt. Wie genau die Elder Scrolls Welt in der ersten Ära in dieser Hinsicht aussieht vermag ich nicht zu sagen. Was wir allerdings treffen sind diverse Fürsten ohne Ländereien die anscheinend viel Zeit haben auf Tour zu gehen. Es wäre also durchaus damit zu rechnen das es Kunden für dieses Geschäft gibt. Nur die Gefahren sind ein wenig höher als bei einer Pauschaltour. Also muss jemand vor erkunden. Gut das wir hier sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 10.04.2023 - #1775
+  ```
+
+##### #1776
+
+* Titel: `Let's Play ESO #1776 ##23 - Fluten des Niedergangs [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 23 des Firesong DLCs - Sitzung 4
+  
+  Gute Nachrichten! Wir machen mit der Hauptquest weiter, aber keine Angst, wir kriegen auch sofort eine Zusammenfassung von dem was eigentlich passiert ist als wir uns beim letzten Mal mit der Quest auseinander gesetzt haben. Hier noch einmal die Schnellfassung. Die Feuernation hat angegriffen, der Avatar ist immer noch nicht auffindbar also übernehmen wir und das natürlich auch kompetent. Nicht so kompetent ist der Sohn des örtlichen Machthabers, der hat sich nämlich entführen lassen. Stefan ist übrigens sein Name, das könnte noch wichtig sein. Stefan ist übrigens schon ein wenig älter, daher kann sein Vater ihn nicht einfach abschreiben und ist daher doch ein wenig daran interessiert seinen Sohn zurück zu erhalten. Allerdings glaubt er auch nicht das sich die Entführer auf ewig an ihren Worten halten, daher braucht er eine Alternative. Und die sind wir, hab ich schon erwähnt das ich kompetent bin?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 12.04.2023 - #1776
+  ```
+
+##### #1777
+
+* Titel: `Let's Play ESO #1777 ##24 - Erzdruiden Ellic und Rahval [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 24 des Firesong DLCs - Sitzung 4
+  
+  Es stellt sich übrigens heute heraus das Erzdruide auch eher so ein Rang wie Erzberserker wie in einem anderen, hier nicht näher genannten Spiel, ist. Um es kurz zu fassen, ich ging irgendwie davon aus der Erzdruide halt der höchste „Rang“ in einer beliebigen Kommune aus Druiden ist. In diesem Fall wären das wohl die drei Zirkel die wir schon kennen gelernt haben. Soweit ich das sehen kann leben die Druiden in kleinen Dörfern wo sie halt ihre Druidendinge tun. An sich sind das auch ganz normale Gemeinschaften die halt eine spezielle Religion haben. Auch wenn das vielleicht andere Fraktionen gerne anders sehen würde und sie unter einem anderen Banner vereinigt sehen wollen. An und für sich stellt ich mir das unter den Motto „Erster unter Gleichen“ vor. Es gibt zwar einen Erzdruiden an den sich externe Kräfte wenden kann, jemand der Außenkommunikation erledigt und eventuell auch noch ein paar andere Pflichten erledigt, aber im Großen und Ganzen bleibt es dabei. In dieser Hinsicht lag ich anscheinend falsch, weil heute wir die Existenz anderer Erzdruiden benannt. Das verwirrt mich ehrlich gesagt ein wenig. Außerdem erfahren wir noch wo genau wir unsere Geißeln finden, aber das ist erst einmal nicht so wichtig. Die sind auch morgen noch da.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 12.04.2023 - #1777
+  ```
+
+##### #1778
+
+* Titel: `Let's Play ESO #1778 ##25 - Siravaens Blutfehde [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 25 des Firesong DLCs - Sitzung 4
+  
+  Eine Blutfehde zu haben erscheint mir wie keine gute Idee. Im vorliegenden Fall ist die Situation aber wohl nicht ganz so arg. Ich hätte das Wort jetzt so definiert das es zwei oder mehr Familien gibt die sich gegenseitig im ewigen Clinch liegen und ab und an stirbt jemand das dann die jeweils andere Partei als Anlass sieht ihrerseits irgendwelche anderen Grausamkeiten zu begründen. Die Realität sieht aber hier wohl ein wenig anders aus, weniger ewig. Ein Kapitän ist dem fanatischen Lich-Anführer der Maormer immer noch treu, ein Anderer hat sich weltlicheren Zielen zu gewandt und dabei auch gleich noch größere Mengen anderer Kapitäne überzeugt. Die Fanatiker mögen das nicht und daher gehen sie jetzt dagegen vor. Unsere örtliche Fanatikerin heißt Siravaen und zufälligerweise ist unser Feind auch ihr Feind also ist sie für den Moment unser Freund. Mein Vertrauen in diese spezielle Meereselfe ist nahezu Null. Sie selbst sagt ja das sie Orgnum treu ergeben ist, als Hochelfin ist sie daher ziemlich sicher unsere Erbfeindin. In diesem Fall wohl eine echte Blutfehde die über eine Familie hinaus geht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 14.04.2023 - #1778
+  ```
+
 ##### #Nummer
 
 * Titel: ``

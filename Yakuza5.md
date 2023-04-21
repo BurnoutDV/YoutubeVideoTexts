@@ -2752,6 +2752,111 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #188
+
+* Titel: `Yakuza 5 - #188 - ein kurzer Triumph [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein kurzer Sieg ist wahrscheinlich besser als gar kein Sieg. Und doch kann es durchaus vorkommen das sich ein schneller Sieg der nicht lange hält weil es im großen Zusammenhang doch eher eine Niederlage gibt nicht so gut an. Shinada erzielt heute immerhin einen kleinen temporären Sieg über die lokale „Mafia“. Und wir haben eine ziemlich wichtige Spur wo es als nächstes hin geht. Klar war ja von Anfang an eigentlich schon das wir nach Tokio wollen. Und so grob zeichnet sich sogar schon ab wie wir unsere anderen Protagonisten treffen. Interessant ist aber eigentlich auch das Shinada im Gegensatz zu allen anderen Leuten wirklich gar keinen Kontakt mit der Mafia bisher hatte. Also gar keinen. Er dachte zwar er sei ihnen schon begegnet, aber das stimmt ja so auch nicht. Wie er wohl reagiert?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #189
+
+* Titel: `Yakuza 5 - #189 - der große Wurf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin auf diesen Titel besonders stolz, und zwar weil, Achtung, ich erkläre jetzt den Witz. Weil Shinada ja Baseballspieler war und da gibt es scheinbar so etwas wie große Würfe. Also ist quasi alles was der gute Mann macht immer irgendeine Art von Baseball Allegorie. Warum damit also jetzt aufhören wo wir ihn schon ein wenig besser kennen gelernt haben. Ich muss übrigens einmal, ganz unabhängig vom aktuellen Thema, sagen das mir Shinada nicht so richtig ans Herz gewachsen ist. Das liegt einfach daran das ich mit dieser Sportbesessenheit einfach nichts anfangen kann. Sich sein Leben einer Sache hingeben kann ich nicht. Nie hatte ich das Verlangen mein ganzes Sein in eine Sache zu gießen. Dafür waren meine eigenen Interessen immer zu breit. Vielleicht bin ich deswegen kein Experte in Irgendetwas.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #190
+
+* Titel: `Yakuza 5 - #190 - Daddy Papa [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man möchte ja meinen wir sind jetzt in einer sehr ernsten Welt des Spielbetruges, einer Schattenorganisation die bereit ist ihre eigenen Mitglieder umzubringen um ein Geheimnis zu wahren und eine Bürgerwehr in der wirklich jeder beteiligt ist. Und dann gehen wir drei Meter weiter und begegnen irgendwelchen Authoren die aus irgendwelchen Gründen Sprachen absolut flüssig sprechen und bereit sind mit uns einen Tag zu verbringen. Das Outfit aus Algenblättern hebt nicht einmal mehr meine Augenbrauen weil ich mittlerweile so abgestumpft bin das ich es einfach nur noch hinnehme während ich weiter schreite. Das ist vielleicht auch ganz gut. Abgehärtet gegen weirde Sachen zu helfen hilft schon enorm durch das Leben zu kommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #191
+
+* Titel: `Yakuza 5 - #191 - Miki Murai [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind beinahe fertig mit Allem was man mit Shinada tun kann. Es gibt da nur noch eine einzige Nebenmission die wir laut Questlog noch erledigen können. Diese Sache war vorher nicht möglich weil die Menschen die einst die Bevölkerung gestellt haben im Wege standen. Aber jetzt sind einige Plätze in der Gesellschaft frei geworden und das nutzen die jungen Menschen natürlich aus. Etwas das ich übrigens über Japan gelesen habe, trotz überalterter Gesellschaft ist es wohl für junge Menschen schwierig Arbeit zu finden. Dann noch Arbeit zu haben die einen nicht ziemlich schnell die Seele aussaugt kann gar nicht so einfach sein, insbesondere wenn man eine Frau ist, und am besten keine Kinder will. Dann wird es echt hart. Wie dem aber auch sei, es geht heute sogar um eine Frau die arbeitet (welche besondere Sache). Ihr tut der Kiefer weh, soviel haben wir tatsächlich schon an anderer Stelle gehört. Jetzt müssen wir nur noch herausfinden warum dem so ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #192
+
+* Titel: `Yakuza 5 - #192 - attraktiver Reichtum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Reichtum macht definitiv ziemlich attraktiv. Das alleine reicht natürlich nicht. Wichtig ist es auch die Karten richtig zu spielen und mit dem Reichtum nicht zu offensiv anzugeben. Aber einen intelligenten Moneydigger zu kriegen kann eigentlich nicht so schwer sein. Wenn man sich gar keine Mühe gibt erhält man auf jeden Fall eine Freundin/Frau die ziemlich direkt hinter dem eigenen Geld hinter her ist. Aber das will man ja in der Regel nicht. An sich ist der Deal ja kaum anders als wenn man sich eine Prostituierte für schnellen Spaß heranholt. Nur das der Deal ein wenig länger geht, unter Umständen sind sogar Kinder involviert. Und die Simulation von Gefühlen. Zu Bedauern sind jene die nicht merken das sie nur wegen ihres Geldes umgarnt werden. Ich würde aber vermuten das so manche 50 jährige die ihre 30er und 40er mit Arbeiten verbracht haben sich vollkommen bewusst sind das die attraktive 27jährige nur ein Ziel hat. Kompliziert wird es allerdings wenn man Geld hat, am schlimmsten noch berühmt ist und versucht irgendwie tatsächlich einen echten Partner zu finden. Für diesen Fall habe ich keinerlei Tipps. Aber das Suchen gestaltet sich wohl ähnlich schwer wie wenn man mittellos ist, weil das Geld kann und darf man auf keinen Fall direkt einsetzen, helfen wird es aber bestimmt trotzdem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 17.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #193
+
+* Titel: `Yakuza 5 - #193 - ein nobler Freund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einen echten Freund zu haben bedeutet wirklich eine Menge. Ich wüsste allerdings nicht was es bedeutet, alles was ich habe ist eine ungefähre Vorstellung wie es sich anfühlt. Freunde finden ist schwierig, ich würde sogar sagen schwieriger als einen Partner. Bei Beziehungen hat man immer noch sexuelle Anziehung als Mörtel für eventuelle Schwächen und Risse die sich auftun die es leichter machen Zeiten der Not zu überbrücken. Bei einer reinen Freundschaft muss es hingegen wirklich alleine das Gefühl der Freundschaft tun, die Beziehung ist in ihrer Reinform also wohl sogar hochwertiger. Einen noblen Freund zu haben ist dann wohl so etwas wie ein Freund², quadratisch gut wie ein Normaler. Oder der Typ ist einfach nur von Adel. Letztendlich bringt es uns aber auch nicht wirklich viel, klar, wir haben Leo gezeigt was es bedeutet eine Beziehung anzufangen aber ich habe irgendwie die Ahnung das er uns schon bald verfluchen wird.  Tja, Zeit die Stadt zu verlassen denke ich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 17.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #194
+
+* Titel: `Yakuza 5 - #194 - ein alter Wohltäter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Letzte Episode hatten wir einen noblen Freund heute stellt sich heraus das ein alter Bekannter anscheinend seines Zeichens ein nobler Wohltäter war und sogar ein wenig sein eigenes Leben dafür gefährdet hat. Oder auch nicht so richtig, von Allem was wir so über Shinadas alten Freund bzw. Bekannten wissen hatte dieser nie irgendwelche Sorgen was seine Zukunft und künftigen Beschäftigungen angeht, er wurde wortwörtlich in seine Arbeit hinein geboren. Allerdings überrascht es mich doch ziemlich diese Verbindung von Shinada und der allgemeinen Geschichte die wir überall woanders gesehen haben zu sehen. Aber wie im Netz einer Spinne scheine alle Leute irgendwie beteiligt zu sein. An allem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 17.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -2761,3 +2866,4 @@
   ```markdown
   Hier
   ```
+

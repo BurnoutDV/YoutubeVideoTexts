@@ -8644,6 +8644,125 @@
   Aufnahme vom 14.04.2023 - #1778
   ```
 
+##### #1779
+
+* Titel: `Let's Play ESO #1779 ##26 - Rettungen in Kastell Tonnere [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 27 des Firesong DLCs - Sitzung 4
+  
+  Menschen zu retten fühlt sich immer ganz gut an. Schließlich ist man für den Moment die Heldin der Stunde und kann sich mächtig etwas darauf einbilden das man die Welt ein klein wenig besser gemacht hat. Das Ganze birgt allerdings ein persönliches Risiko. Manchmal liest man die Situation falsch oder Auftraggeber führen einen hinters Licht. Beispielsweise wenn die Prinzessin "entführt" wurde aber in Wirklichkeit sie eigentlich nur versucht den patriarchalischen Fängen des Vaters zu entkommen weil ihre Interesse an Dynastieerhalt weniger ausgeprägt ist. Oder aber die Zielperson ist nicht mehr zu retten weil sie beispielsweise bereits tot ist. Wenn man dann vorher angekündigt hat jemanden zurück zu bringen überlegt man quasi den gesamten Weg was man am besten sagen kann. Das Abenteuer einfach fallen zu lassen ist leider keine Option, als unsterbliche Heldin wider Willen ist die Chance ziemlich hoch das man noch einmal in die Gegend kommt. Glücklicherweise läuft heute alles glatt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 14.04.2023 - #1780 - ##27 - S4
+  ```
+
+##### #1780
+
+* Titel: `Let's Play ESO #1780 ##27 - Maormer Zwist [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 27 des Firesong DLCs - Sitzung 4
+  
+  Hätte ich ein Team würde ich sagen das es im Team eine rege Diskussion gab wie ich diese Episode nennen möchte. Ohne jetzt zu viel ins Detail zu gehen, wir haben eine Meereselfin getroffen die im Namen ihres Königs Rache an einen Kapitän üben möchte der seine persönlichen Ziele über die der Gemeinschaft gestellt hat. Das können wir soweit recht wertneutral sehen bis wir Kontext hinzufügen. Besagter König ist natürlich Orgnum von dem mir das Wiki verrät das er defacto Lichkönig der Maormer ist und für 100% aller Angriffe auf Summerset verantwortlich ist. Als Hochelfin finden wir das weniger prickelnd. Daher sind Titel wie "gerechte Vergeltung" auch eher weniger zutreffend. Mal ganz davon abgesehen das es ein wenig generisch wäre. Wir wissen übrigens nicht ob Siravaen tatsächlich im Auftrag oder nur im Namen von Orgnum handelt. Der Unterschied ist gar nicht mal so klein. So oder so hat sie aber scheinbar nur sich selbst als Werkzeug, und jetzt dann wohl bald ein paar Leute mehr. Unabhängig davon bringt sie ja nicht wirklich Gerechtigkeit über die anderen Seeelfen. Von reiner Rache kann aber auch nicht die Rede sein. Im Raum sind also noch "Orgnums Vollstreckering", "Siravaens Befreiungsversuch", und "Maormer Zwist". Tatsächlich hieß die Episode bis vor drei Minuten noch wie die erste Variante, aber ich hab mich jetzt doch unentschieden und die letzte genommen. Zwar auch ein wenig generisch aber es ist ein wenig offener und erlaubt Interpretation. Rein vom SEO wäre bestimmt die mittlere Variante die Beste. Aber ich finde das ist nicht ganz ehrlich, wir befreien zwei Leute, das ist qualifiziert nicht so recht wenn man weiß das es ein ganzes Schiff an Mannschaft gibt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 14.04.2023 - #1780 - ##27 - S4
+  ```
+
+##### #1781
+
+* Titel: `Let's Play ESO #1781 ##28 - Vortag des Sturmes [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 28 des Firesong DLCs - Sitzung 4
+  
+  Ich persönlich mag das Gefühl eines aufkommenden Sturmes. Die schwere Schwüle bevor der Regen den Boden berührt und das erste Donnern zu hören ist. In der Vergangenheit hat man diese Wettererscheinungen wohl eher mit Angst und einer gewissen Furcht um die Ernte verbunden aber in der modernen Welt bin ich in der Hinsicht ziemlich beruhigt. Und dann gibt es da noch dieses andere Gefühl eines aufbauenden Sturmes. Wenn man weiß das schlimme Dinge passieren werden, das Unausweichliche kommt, schlimmer nur wenn man nicht genau weiß wann es passiert, die stumme Hoffnung das es vielleicht doch nicht passiert aber dann doch eintritt. Einer meiner Alptraumvorstellungen ist es auf die eigene Hinrichtung in Unschuld zu warten. Zu wissen das die gesamte Welt verrückt geworden ist oder aus irrationalen Gründen meinen Tod will. Wenn sich irgendwie ein System etabliert hat das eine gesichtslose Maschine betreibt die letztendlich zu einem unausweichlichen Ereignis führt. Vergleichbar wohl auch in einer mittelalterlichen Armee zu dienen und in einer der ersten Reihen der Phalanx zu stehen, wohl wissend das man nur dafür da ist die erste Welle aufzuhalten bis die echte Infanterie übernimmt. Im Lager am Vorabend zu sitzen wohl wissend das der Morgengrauen den Tod bringt. Dieses Gefühl des Sturms. Das ist es auch was theoretisch unsere Charaktere und unsere Protagonisten verspüren sollte. Als doppelt unsterblicher Vampir-Elf-Simulakrum ist die Angst aber wohl eher pure Schauspielkunst. Was könnte _uns_ schon schlimmsten Falls passieren? Die Liste ist erstaunlich lang, aber es involviert das Wissen um was wir sind, und das haben die Meereselfen nicht, insofern sind wir relativ sicher. Wir können nur sterben, und das ist nicht so schlimm. Dramatischer wäre der Tod unserer Begleiter, aber auch nur weil wir dann neue suchen müssen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 16.04.2023 - #1781 - ##28 - S4
+  ```
+
+##### #1782
+
+* Titel: `Let's Play ESO #1782 ##29 - Sir Stefans Idee [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 29 des Firesong DLCs - Sitzung 5
+  
+  Die ganze Motivation hinter einem Adelsgeschlecht und einer designierten Führungskaste ist ja die das man Leute hat die von klein auf darauf ausgebildet werden das Reich zu führen und sich dann hoffentlich ein wenig kompetenter zeigen als irgendwelche Amateure denen man die Aufgaben nur für ein paar Jahre überträgt. Die Erklärung kam definitiv im Nachhinein, zu erst ging es natürlich um Machterhalt. Aber Machterhalt und das was man hat verteidigen hat ja zum Glück eine relativ große Überschneidung wenn es um Bedrohungen von Außen geht. Kurzum, einmal traue ich tatsächlich Adeligen zu ihren Job machen zu können. Solange es nicht grade eine größere Masse liquider Mittel gibt, sprich ein enorm gut funktionierendes Bankwesen das es erlaubt sich einfach außer Landes zu schleichen wenn die Dinge nicht zu laufen, gehe ich tatsächlich davon aus das ein Fürst hier eine Kernkompetenz hat. Der Logik folgend klingt der Titel „Sir Stefans Idee“ vielleicht erst einmal negativ oder lässt zumindest einen ironischen Unterton meinerseits vermuten, aber das Gegenteil ist der Fall. Das ist quasi der einzige Bereich wo ich den Leuten irgendetwas zu traue und eine klare Schwäche in einer Massenbewegung sehen würde. Schnelle Maßnahmen gehen von Oben wesentlich besser als wenn man erst einen Konsensus erreichen muss.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 18.04.2023 - #1782 - ##29 - S5
+  ```
+
+##### #1783
+
+* Titel: `Let's Play ESO #1783 ##30 - Glimmerbergsee [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 30 des Firesong DLCs - Sitzung 5
+  
+  Sehen wir den Tatsachen ins Gesicht, Galen ist nicht besonders groß. Insofern ist es nicht verwunderlich das wir bereits an jedem Ort waren. Aber hier liegt der Daedra einmal mehr im Detail. Stellt sich doch glatt heraus das es durchaus noch kleine Ecken zwischen den Orten die wir schon kennen gibt die wir noch gar nicht erkundet haben. Ein solcher Ort ist der Glimmerbergsee. Der Name erinnert mich aus irgendwelchen Gründen an Mirrodin, wenn dir das nichts sagt ist das kein Problem und spielt eigentlich auch keine Rolle. Wie dem aber auch sei, es handelt sich anscheinend um eine Enklave des Steinlehrezirkels, also eine weitere Hochburg der Druiden die hier wohl eine größere Siedlung betreiben. Was genau die Druiden eigentlich den ganzen Tag machen kann ich übrigens immer noch nicht sagen. Mir fehlt immer mehr die Strandepisode in der wir uns einfach nur entspannen, einen knappen Bikini anziehen und ein wenig über das alltägliche, nicht-katastrophale Leben der Bretonen erfahren die die Reihen der Druiden ausmachen. Nebenbei bemerkt sehen wir heute übrigens mehr nicht-Bretonen als Bretonen bei den Druiden. Ich kann aber beruhigen, das ist dann beim nächsten Mal wieder anders. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 18.04.2023 - #1783 - ##30 - S5
+  ```
+
+##### #1784
+
+* Titel: `Let's Play ESO #1784 ##31 - Ewigflammenfackel [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 31 des Firesong DLCs - Sitzung 5
+  
+  Eine Flamme zu haben die ewig brennt ist ziemlich praktisch. Zum Beispiel wenn man in die Industrialisierung geht und der Bedarf nach einer großen Menge Energie auf einmal ziemlich real ist. Allerdings wurde hier noch nicht geklärt ob die blaue Flamme tatsächlich auch Wärme abgibt oder nur Licht. Letztendlich ist Licht ja auch eine Form von Energie aber der Unterschied zwischen Wärme von einer Flamme und dem Licht einer solchen ist schon ziemlich erheblich. Das Thema kommt übrigens öfter auf, eigentlich ist so eine magische Flamme ja auch nur eine Art Leiter der Magie in Licht umsetzt ohne das es dafür einen aktiven Magier braucht. Wie unendlich die Macht auf Nirn tatsächlich ist vermag ich nicht zu sagen aber spätestens wenn wir die Magieindustralisierung anfangen werden wir das wohl herausfinden. Generell eine Überlegung die mich in letzter Zeit öfter plagt. Eine Dampfmaschine ist nicht schlimm, aber wenn man auf einmal Millionen hat? Genau das Gleiche mit ewigen Flammen. Wie viele magische Fackeln kann man produzieren bis man die Magie-Ozon Schicht schwächt?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 18.04.2023 - #1784 - ##31 - S5
+  ```
+
+##### #1785
+
+* Titel: `Let's Play ESO #1785 ##32 - Clohaigh [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 32 des Firesong DLCs - Sitzung 5
+  
+  Orte mit komischen Namen? Haben wir heute. Tatsächlich handelt es sich um eine uralte Druidenstätte die irgendwie von den Druiden vergessen wurde obwohl sie signifikante historische Aufzeichnungen enthält. Ähnlich dem Wachstumszyklen der Argonier könnte ich aber verstehen das die Druiden sich nicht all zu sehr für die Vergangenheit interessieren außer für jene die ihnen explizit zu bewahren aufgegeben wurde. Wie genau die Gesellschaft der Druiden funktioniert ist leider noch nicht heraus gekommen aber wir können wohl keine wirtschaftlichen Maßstäbe ansetzen. Dieser Ort wurde also wohl nicht verlassen weil es sich nicht mehr gelohnt hat hier Naturgeister anzubeten. Viel mehr war es vielleicht ein Verlust von Interesse oder neue und junge Generationen dachten sich das andere Orte einfach mehr Aufmerksamkeit verdienen. Vielleicht ist es auch ganz gut so, andernfalls könnten wir nicht halb verwitterte Steinsäulen interpretieren die uns genau sagen was wir wissen wollen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 18.04.2023 - #1785 - ##32 - S5
+  ```
+
 ##### #Nummer
 
 * Titel: ``

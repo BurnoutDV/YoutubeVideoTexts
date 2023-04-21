@@ -2014,6 +2014,96 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #136
+
+* Titel: `Elex 2 - #136 - Zentralrechner Betara [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Yeah, wir sind wieder damit beschäftigt irgendwelche Former zu übernehmen. Interessant ist übrigens das die Technik die wir in den verschieden Einrichtungen der Skyands finden absolut keine Modernität zu erkennen geben. Teilweise sehen die Einrichtungen sogar schlimmer aus als das was wir vom Technikstandard Maggalan gewohnt sind. Wie kann es sein das die einzige Zivilisation die auch nur ein wenig modern aussieht eigentlich die Albs sind. Muss man erst ein emotionsloser Roboter sein bevor man überhaupt darüber nachdenkt saubere Technik zu errichten. Es gab einmal einen quasi Fantasyroman namens „Enwor“. Ich habe in meiner Jugend nur den 8ten, 9ten und 10ten Teil gelesen (das war gar nicht verwunderlich). In dieser Welt gab es auch Alientechnik die aber steril war, ganz anders als die wilde Natur der sonstigen Welt. Kalt, aus Metall und frei von jeder Individualität. Visuell könnte man sich vielleicht die Combine Technik aus Half Life 2 vorstellen. In der Richtung sind wir hier unterwegs. Das was wir von den Skyands sehen ist so etwas von nicht das was ich mir vorgestellt hätte. Ob es dafür vielleicht einen Grund gibt?….
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 20, Aufnahme vom 11.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #136
+
+* Titel: `Elex 2 - #137 - der Rest der Former [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ein Alieninvasor vorbei kommt möchte man ja meinen das die Brückenköpfe die er tatsächlich auf dem Planeten errichtet absolut uneinnehmbar sind. Bei gelandeten Schiffen rechne ich eigentlich mit unzerstörbaren Festungen die genügend Feuerkraft mit bringen um den gesamten Planeten in Asche zu landen. Schon von der Logik her muss jeder Angreifer der auf ein orbitales Bombardement verzichtet so mächtig und selbst sicher sein teure Interstellarschiffe auf einen Planeten ab zu setzen. Der Flug von und in den Orbit ist nach den uns bekannten Gesetzen der Physik nicht billig und selbst wenn es fortschrittliche Triebwerke gibt dann kann man wohl davon ausgehen das es immer noch langweilige Kosten für bestimmte Vorgänge gibt. Warum also auf einen Planeten landen? Anscheinend um die Atmosphäre zu verändern. Wir erinnern uns noch an die Infinite Skies Dinger, anscheinend war das nur für eine Quest relevant. Was genau die Former jetzt machen ist auch noch nicht ganz klar, nur das wir sie jetzt abschalten. Wie praktisch aber auch das alle genau hier gelandet sind wo wir grade sind. Man stelle sich vor man hätte sich irgendeine andere Stelle des Planeten ausgesucht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 20, Aufnahme vom 11.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #138
+
+* Titel: `Elex 2 - #138 - heißer Draht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt öfter das Motiv der Dualität. Auf der einen Seite möchte man zum Beispiel einen unterwürfigen Partner der tut was man ihm sagt, aber gleichzeitig will man auch jemanden haben der an der eigenen Seite für sich selbst kämpfen kann. Man möchte gute Mitarbeiter aber gleichzeitig will man wenig zahlen. Zwei Seiten einer Medaille. Wir wollen zum Beispiel ein Invasion von Aliens haben die kompetent genug sind um in ihrem Erstschlag alle notwendige Truppen absetzen und innerhalb weniger Stunden breite Gebiete verseucht haben und sich die Fauna für ihre Zwecke zu nutzen gemacht haben. Der gleiche Gegner muss aber schwach und langsam genug sein damit wir es mit einer Horde von Steinzeitmenschen schaffen diese zu besiegen. Enorm helfen tut es in diesem Fall wenn man es mit Idioten zu tun hat. Und da sind wir wieder bei Dualität. Auf der einen Seite werden wir höchst intelligent über unsere Infrastruktur überwacht, aber dann ist es möglich Geheimnisse über eben jene Verbindung abzufangen. Schon Praktisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 20, Aufnahme vom 11.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #139
+
+* Titel: `Elex 2 - #139 - Angreifendes Alles [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir haben wieder einmal einen Moment in der Geschichte erreicht in der wir eigenständig alle angreifende Viecher abwehren müssen die sich unser Gegner spontan aus gedacht hat. Es ist absolut fantastisch. Wofür genau wir die fünfte Macht aufgebaut haben ist beim besten Willen nicht verständlich wenn wir am Ende doch alles selber machen. Eventuell als Meinungsverstärker wenn wir mit Leuten verhandeln. Aber da die praktische Macht unserer Leute ja sowieso bei 0 liegt hätten wir auch genau so gut auch einfach so tun können als ob es die fünfte Macht gibt. Eventuell hätte es auch eine kleine Truppe von Attentätern getan die alle gegnerischen Scouts erledigt die versuchen etwas zu sehen. Oder wir hätten uns einfach Bunkeranlagen ausgedacht und vorne an der Tür schwere Roboter gestellt. Übrigens muss ich bei fünfter Macht immer an die dritte Macht von Perry Rhodan denken. Ein Name der wesentlich mehr Sinn ergibt. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 20, Aufnahme vom 11.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #140
+
+* Titel: `Elex 2 - #140 - größte Bedrohungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben eine Katastrophe überwunden und natürlich gibt es direkt noch eine. Ich möchte übrigens daran erinnern das wir nicht irgendwelchen Fischerdörfern auf dem platten Land (eh) aushelfen sondern befestigten Städten. Man möchte doch eigentlich meinen das eben solche Orte durchaus in der Lage sein sollten irgendwelche Viecher ab zu wehren. Insbesondere die Berserker haben doch eigentlich genügend eigene Magier die ihre Probleme auf lösen sollten. Wie genau haben sie dann bitte die Welt bis her erobert? Die benutzen doch auch nichts Anderes als die Magie die wir einsetzen, wo genau liegt also bitte das Problem? Stattdessen müssen wir hier loslegen und Kammerjäger spielen. Mittlerweile bin ich schon ein wenig genervt. Auch von einem Spielentwickler der meint das Massenkämpfe der heilige Gral der Spielentwicklung sind. Das kann ich vielleicht bei einem jungen Modentwickler entschuldigen, aber nicht bei einem Studio mit 20 Jahren Geschichte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 20, Aufnahme vom 11.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #141
+
+* Titel: `Elex 2 - #141 - Prinzipal Tayaak [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es wird endlich Zeit für das große Facepalmen. Ich will in dieser Beschreibung noch nicht soviel sagen weil wir technisch gesehen erst in der nächsten wissen was in dieser gesagt wurde, davon ausgehend das du die Beschreibung vor der Episode liest, was ich einfach einmal annehmen muss. Aber sagen wir so, die Qualität an Facepalm kann ich eigentlich kaum in Worte fassen. Die Story war bisher nur ein Vehikel um irgendwie die bereits vorhandene Welt weiter zu verwenden, aber der lahme Twist der uns heute erwartet gräbt noch ein Mal ein wenig tiefer in den Dreck. Mir ist echt ein absolutes Rätsel wie man der Meinung war das diese Geschichte irgendwie Sinn ergibt oder so fertig ist. Es fühlt sich alles so an als hätten drittklassige Autoren eine grobe Geschichte zusammengespaxt und dann alles genau so belassen. Oder vielleicht es ihren Untergebenen überlassen die irgendwie versucht haben daraus etwas Kohärentes zu machen. Der Plan ist definitiv gescheitert. Das dann anscheinend auch absolut niemand in der Lage zu sein scheint die richtigen Worte benutzen zu können um allgemeine bekannte Konzepte zu beschreiben ist dann nur noch die Kirsche auf dem Kuchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 20, Aufnahme vom 11.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -2023,3 +2113,4 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   ```markdown
   Hier
   ```
+

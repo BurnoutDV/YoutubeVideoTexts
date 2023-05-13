@@ -2857,13 +2857,390 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
-##### #Nummer
+##### #195
 
-* Titel: ``
+* Titel: `Yakuza 5 - #195 - Sawada [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wenn man sich in bestimmten Zirkeln aufhält dann begegnet man Leuten in einer großen Welt andauernd. Es ist ein wenig seltsam, physisch ist man vielleicht hunderte Kilometer von einander entfernt aber kaum geht man auf irgendeinen Kongress, einer Geschäftsreise oder Messe und schon trifft man Menschen die man schon seit Ewigkeiten kennt. Ich kann da keine persönlichen Erfahrungen aus erster Hand hin zu geben aber ich weiß das dem so ist. Zum Beispiel wenn man sich in einen bestimmten Fachbereich befindet und alte Studienkollegen wieder trifft obwohl man sie seit 10 Jahren nicht gesehen hat. Das kann durchaus vorkommen wenn man nur nischig genug ist. Bei Baseball Spielern kann ich mir durchaus vorstellen das es andauernd passiert, einfach schon weil ab einer bestimmten Höhe der Liga nicht mehr all zu viele Leute existieren und man sich durchaus andauernd auf dem Feld begegnet, und dann natürlich auch zu sozialen Ereignissen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 17.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
   ```
 
+##### #196
+
+* Titel: `Yakuza 5 - #196 - der siebte Wurf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich dachte eigentlich das die Sieben im Japanischen keine besondere Bedeutung hat und diese Ehre eher bei der Vier und der Acht liegt, aber anscheinend habe ich mich getäuscht. Der siebte Wurf ist auf jeden Fall ein ganz Besonderer für Shinada der damals mit dem siebten Wurf seinen Homerun in einem entscheidenden Spiel gelandet hat. Mittlerweile wissen wir aber auch das es eigentlich egal gewesen wäre was auch immer Shinada getan hätte. Das Ergebnis wäre immer das Gleiche gewesen. So wie die Dinge gelaufen sind war es immer klar das irgendjemand die Schuld auf sich nehmen musste und das diese Person niemand anderes als unser Baseballschläger schwingende Protagonist sein wird. Und so sind wir jetzt wieder hier, in der Vergangenheit und Gegenwart gleichzeitig. Ereignisse die zeitlos erscheinen und sich doch wieder wiederholen. Irgendwie kommt einen alles doch ein wenig zyklisch vor oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 17.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #197
+
+* Titel: `Yakuza 5 - #197 - Zurück in Tokyo [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Dinge scheinen sich ein wenig zu zu spitzen. So sieht es zum Beispiel so aus als würde dann doch alles in Tokyo enden. Das ist eigentlich keine Überraschung. Eine so große Stadt bietet quasi unendliche Möglichkeiten in der kriminellen Betätigung und da wo viele Menschen wohnen kann man auch viele Dinge tun. Und so überrascht es nicht das wir uns dann am Ende mit allen Charakteren hier in der Stadt der Städte befinden. Eine gewaltige Hauptstadt die dafür gesorgt hat das ganze Landstriche quasi entvölkert sind weil nirgendwo sonst so viele Möglichkeiten bestehen, oder überhaupt irgendwelche. In Tokyo überraschen uns dann noch andere lustige Menschen wie irgendwelche Schläger die offensichtlich nicht genügend Respekt vor Kiryu haben. Ich wünschte wirklich das die Straßenschläger der Welt Photos herumreichen würden für Leute die man auf keinen Fall ärgern sollte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 17.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #198
+
+* Titel: `Yakuza 5 - #198 - Eine Legende kehrt zurück [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich waren wir schon in der letzten Episode zurück in Tokyo aber jetzt sind wir es auch ganz offiziell. Das liegt unter anderem daran das es halt eine Menge Zwischensequenzen gab und wenn man sich nicht frei bewegen kann dann betrachte ich die Rückkehr als nicht vollständig. Insofern kann ich erst jetzt wirklich sagen das wir es geschafft haben in Kamurocho richtig Fuß zu fassen. Und natürlich werden wir verfolgt. Vielleicht wissen die gemeinen Schläger auf der Straße nicht wer Kazuma Kiryu ist, die wichtigen Leute auf die es wirklich ankommt wissen es noch immer und haben es nie vergessen. Auch hier also keine Überraschung das wir plötzlich einen Schatten haben. Immerhin ist es ein uns bekannter Schatten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 17.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #199
+
+* Titel: `Yakuza 5 - #199 - blutige Informationen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gerne wird gesagt das alles irgendeinen Preis hat. Und wenn man wirklich alles in einem gewissen makroskopischen Sinne anschaut dann mag das wohl stimmen. Atmen ist nicht umsonst, irgendwo muss es Pflanzen geben die CO2 in Sauerstoff aufspalten. Zu gehen ist nicht umsonst, irgendwer muss die Straßen bauen, Schuhe müssen gekauft und hergestellt werden. Alles hängt irgendwie zusammen, aber wenn man lange genug wartet verschmieren sich die Umstände und es ist nicht mehr so ganz klar wo eigentlich was her kommt. Manche Beziehungen sind hingegen ein wenig klarer. Zum Beispiel wenn man Informationen möchte und die Person die die Informationen hat nur dann bereit ist zu handeln wenn man einen besonderen Preis zahlt. Heute im Angebot, Blut gegen Informationen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 24.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #200
+
+* Titel: `Yakuza 5 - #200 - hohe Summen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend fange ich jetzt eine Serie mit üblichen Trophen der Philosophie an. Gestern hatten wir „alles hat einen Preis“ heute setzen wir das fort mit „jeder hat einen Preis“. Wenn man ganz schmal denkt dann sagt man gerne das man nicht bereit ist für kein Geld der Welt die eigenen Ideale auf zu geben. Dabei ist für Geld bestochen zu werden noch das geringste übel. Einen Menschen zu finden der keine Schwäche hat ist quasi unmöglich. Irgendwo gibt es immer Familie, den Lieblingshund, einen besonderen Gegenstand oder auch nur einen guten Freund. Einen Agenten ohne jede Bindung zu haben ist etwas wahrlich seltenes und etwas das man wohl mühsam suchen muss. Und ein wenig unmenschlich. Wie kann man erwarten das jemand voller Hingabe sich einer Sache widmet aber dennoch keine Bindungen hat? Spontan würde ich sagen das Fanatismus die Antwort ist, man kann kaum jemanden damit erpressen das man ein Glaubenssystem im Hinterhof erschießt. Davon einmal abgesehen kommt man an die meisten Leute ganz gut ran. Heute haben wir es erst einmal mit dem Klassiker zu tun, Geld, davon eine ganze Menge, leider ist Akiyama nicht die Art von Person die auf Geld besonders viel gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 24.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #201
+
+* Titel: `Yakuza 5 - #201 - ein böser Junge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich beschwere mich beim Studium diverser Sprachen immer wieder gerne das Wörter eine doppelte Bedeutung haben oder man schon eine ziemlich tiefe Kenntnis der Sprache haben muss damit man die Nuancen versteht die eine doppelte Bedeutung aufdecken. Heute haben wir es mit den Worten „ein böser Junge“ zu tun. Im Deutschen ist die Bedeutung eigentlich ziemlich klar, in der Regel beziehen wir uns auf ein schlecht erzogenes Kind pre-pubertären Alters. Im Englischen kann ein „bad boy“ allerdings auch etwas Gutes sein, irgendwie. Wenn es um Sex geht können die seltsamsten Konzepte auf einmal etwas Gutes sein. Heute geht es um Sex, irgendwie, in gewisser Hinsicht. Vielleicht, so ganz klar ist mir das bei den Hostessen immer noch nicht aber mein Konsensus ist bisher das Hostessen einen gewissen Spielraum haben und dieser inkludiert manchmal ob sie mit Kunden schlafen oder nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 24.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #202
+
+* Titel: `Yakuza 5 - #202 - eine Überraschungsanfrage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder in der Hauptquest. Dieses Mal sind wir wieder Akiyama der ein gewisses Interesse daran hat das Haruka im Japan Dome auftritt. Umso verwunderlicher ist es wenn dann ein ehemaliger Baseball Spieler auftaucht der plötzlich alles versucht um zu verhindern das dieses Konzert stattfindet. Generell und überhaupt ist es aber ein wenig ineffektiv wie der gute Shinada seinen Plan aufgebaut hat. Man könnte fast sagen das er zwar das Herz am rechten Fleck hat es aber nicht so aussieht als würde er besonders klug sein. Ein Geldverleiher der keine Bedingungen stellt ist ein wenig zu gut um wahr zu sein und die Himmelsfinanz hat da in der Tat eine paar Bedingungen die vorher nicht erwähnt werden. In jedem Fall zeichnet sich hier aber der Schatten von etwas Großem ab.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 24.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #203
+
+* Titel: `Yakuza 5 - #203 - MAO Inc. [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich würde den Inhalt der heutigen Episode gerne kritisieren allerdings habe ich keine Ahnung wie das Showbusiness funktioniert. Und damit meine ich nicht die Leute die auf der Bühne rumspringen und die man am Ende im Fernsehen sieht sondern die Organisation dahinter. Zum Beispiel wie man eine Halle mietet, wie entschieden wird welches Personal welche Gewerke bedient. Welche Technik man vom Veranstalter gestellt bekommt und was man alles selber mit bringen muss. Wie das koordiniert und abgerechnet wird. Für große Stadien könnte ich mir vorstellen das es durchaus einige Leute braucht die sich um die Koordination kümmern. Das Büro das wir heute finden ist doch relativ klein, aber es könnte durchaus sein das das einfach nur ist wie es wirklich ist und ich mir alles viel zu kompliziert und groß vorstelle. Oder die Leute das alles nur improvisieren und die System so groß sein müssten sie dann aber nicht profitabel sind und alles mit Panzertape zusammen hält.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 24.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #204
+
+* Titel: `Yakuza 5 - #204 - die Überlebenden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Normalerweise möchte ich mit dem Titel irgendetwas aussagen oder idealerweise sogar zusammenfassen was passiert ist. Das kann ich hier irgendwie nicht. Weil das Ding ist, auf der einen Seite machen wir hier die Komaki Quest fertig, dann sind wir kurz zurück in Fukuoka um dort ein kleines Computerproblem zu lösen bzw. lösen zu lassen und dann passiert eigentlich auch sonst nicht besonders viel. Kurzum, ich habe keine Ahnung warum diese Episode „die Überlebenden“ heißt. Vielleicht meine ich die Daten auf dem Computer der Taxifirma? Ich habe wirklich keine Ahnung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 24.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #205
+
+* Titel: `Yakuza 5 - #205 - Reh Eintopf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem ich in der letzten Episode überhaupt nicht wusste was ich mit dem Titel gemeint habe, mir aber auch kein Besserer eingefallen ist um das Ganze zu beschreiben ist der heutige Titel einfach nur schlecht, dafür aber ziemlich beschreibend. Das Thumbnail müsste eigentlich ein ganz Anderes sein aber lassen wir die Katze mal im Dorf und jagen lieber noch einmal ein paar Rehe, das war immerhin mein Lieblingsminispiel, da freue ich mich ja richtig das ich das noch einmal spielen darf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 24.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #206
+
+* Titel: `Yakuza 5 - #206 - Großstadt Träume [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man auf dem Dorf wohnt neigt man dazu die große Stadt in der Nähe oder vielleicht sogar weiter Ferne zu romantisieren. Das kann ich mir ziemlich gut vorstellen, in Medien werden jene Orte immer als Plätze der Möglichkeiten dargestellt. Und das stimmt auch. Gerne vergessen wird aber auch das viele andere Menschen ebenfalls ihre große Chance ergreifen wollen. Und das führt dann zu einem gewissen Verlust an Menschlichkeit. Oder Gnade. Oder Zusammenhalt. Kurzum, es ist ziemlich wahrscheinlich das man irgendwelchen Leuten begegnet die es sich zur Aufgabe gemacht haben nicht selbst an ihrem Glück zu schmieden sondern einfach das Glück von anderen Leuten in kleinen Teilen zu nehmen um davon zu profitieren. Und das macht die Stadt-Erfahrung für alle Beteiligten irgendwie ein wenig schlechter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 04.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #207
+
+* Titel: `Yakuza 5 - #207 - Notfall-Wartung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man etwas wartet gehe ich davon aus das es sich um einen im Vorhinein geplanten Routineprozess handelt der zur Aufrechterhaltung der Funktionsweise eines Systems dient. Ganz wichtig dabei ist das allen Beteiligten und Nutzern bereits vorher klar war das diese Tätigkeit an Tag X durchgeführt wird und dass in dem Zeitraum der normale Dienst nicht stattfindet. Dies macht es in der Regel immer ein wenig schwierig ein gutes Wartungsfenster zu finden weil Personen mit besonders viel Einfluss natürlich nicht die besten Stunden aufgeben wollen in denen sie eventuell irgendjemand anderes erklären müssen das der ausgeschriebene Dienst nicht verfügbar ist. Wenn man es plötzlich mit einer Überraschungswartung zu tun hat ist es schon sehr absehbar und allen Leuten sollte eigentlich sofort klar sein das es wohl doch eher keine Wartung war die statt fand.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 04.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #208
+
+* Titel: `Yakuza 5 - #208 - Kamurochō Hügel Hotel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzen Episode habe ich mich durch Blut, Schweiß und Tränen gekämpft um jetzt endlich den Einkaufsteil der Hügel hinter mir zu lassen nur um jetzt ein Hotel zu betreten. Es ist übrigens wirklich fantastisch das wir uns gegen irgendwelche Schläger stellen müssen. Man stelle sich einmal vor es wäre wirklich niemand da und alle Türen wären einfach nur verschlossen. Hätten wir irgendeinen Ansatzpunkt wie wir vor ran kommen und wo wir überhaupt hin müssen? Ich denke nicht, wahrscheinlich würden wir tagelang durch leere Gänge an verschlossenen Zugängen vorbei irren und nie das finden was wir eigentlich suchen. Das wäre auf jeden Fall ziemlich nervig
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 04.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #209
+
+* Titel: `Yakuza 5 - #209 - Last Man Standing [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man irgendwie erreichen will das es am Ende einen großen epischen Brawl gibt dann kann man sich sicher sein das die Yakuza Spiele in der Hinsicht absolut liefern können. Und daher ist wahrscheinlich niemand überrascht uns auf einem Dach zu sehen und 4 unsere großen Protagonisten und Antagonisten gleichzeitig zu treffen die sich jetzt gepflegt gegenseitig aufs Brett geben. Wofür das Ganze gut sein soll und warum auch immer das jetzt das ultimative Zeichen soll ist mir übrigens beim besten Willen nicht klar aber das ist jetzt wohl wie die Dinge laufen also schauen wir uns das jetzt halt an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 04.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #210
+
+* Titel: `Yakuza 5 - #210 - der wahre Hintermann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Ereignisse der letzten 200 Episoden wurde durch eine Person in Bewegung gesetzt. Hätte man am Anfang besser aufgepasst oder vielleicht sogar zwischendurch wäre gewiss schon lange absehbar gewesen um wen es sich handelt oder wohin die Reise geht, aber so wie die Dinge stehen und mit jeder Menge Unterbrechungen durch lange Nebenquest Marathone kann ich leider absolut keine Vermutungen anstellen wer jetzt der große Gegenspieler sein mögen. Glücklicherweise müssen wir nicht lange darauf warten das sich jemand zeigt und wir erfahren endlich einmal mehr über die ganzen vielen Hintergründe die wir vorher nicht haben gesehen. Praktisch, da muss ich nicht selber denken. Ob das jetzt alles irgendwie logisch ist vermag ich nicht zu sagen aber ganz bestimmt hat alles Hand und Fuß.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 04.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #211
+
+* Titel: `Yakuza 5 - #211 - Super Team [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir fällt durchaus auf das ich eigentlich keine Ahnung von den inneren Abläufen von J-Pop Bands (und damit natürlich auch von K-Pop Bands) habe, aber mir drängt sich durchaus das Gefühl auf das man nicht so besonders viel Rücksicht auf das Individuum setzt. Klar, auf der einen Seite ist es immer sehr wichtig das die einzelnen Gesichter bekannt erscheinen, keine öffentliche Beziehung führen damit man sie als Schwarm vermarkten kann, aber auf der anderen Seite sind sie dennoch austauschbar. Nicht besonders relevant als Person, nur als Marketingobjekt, idealerweise würde diese kleine Welt wohl es wohl sehen wenn alle Bands aus Puppen bestehen würden die von immer anderen Leuten bedient werden sodass es noch einfach wäre die Personen auszutauschen. Daher verwundert es wohl nicht das hier jemand den Vorschlag gemacht hat eine Superband zu gründen und alle Beteiligten das nicht einmal ungewöhnlich finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 04.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #212
+
+* Titel: `Yakuza 5 - #212 - Singen & Tanzen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Showbusiness ist vor Allem erst einmal ein Geschäft, es geht darum einen Traum an Leute zu verkaufen ohne irgendwelche Schritte zu begehen die tatsächlich auch die Umsetzung dieses Traumes beinhalten. Und doch gibt es immer noch die Musik, das Tanzen und all die Dinge die ursprünglich einmal nicht kommerzialisiert waren. Wenn man nicht so genau hinschaut könnte man der Illusion erliegen das all diese Dinge irgendwie auch noch lebendig sind und nur schlafen. Das diese menschlichen Regungen doch mehr sind als nur ein Vehikel um mehr Absatz zu erreichen. Ob dem dann auch tatsächlich so ist kann ich nicht sagen. Aber soweit ich das erkennen kann scheint Haruka ihren Job auch in dieser Hinsicht zu lieben, und das ist doch irgendwie inspirierend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 04.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #213
+
+* Titel: `Yakuza 5 - #213 - drei Freunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einen guten Freund zu finden ist wirklich schwer, also schwer schwer. Wahrscheinlich sogar schwieriger als einen Partner zu finden. In einer Liebesbeziehung hat man eine Menge Emotionen die dabei helfen können über Schwierigkeiten drüber zu bügeln, bei einer Freundschaft geht das nicht ganz so gut. Eine tiefe Freundschaft ist quasi wie eine Beziehung ohne Stützräder und damit schon ziemlich heilig. Auf der anderen Seite findet man dann aber die guten Freunde an den ungewöhnlichsten Orten ohne das man es vorher vermuten würde. Von Außen sieht das dann alles sogar noch ein wenig seltsamer aus wenn man nicht einmal vermuten würde das diese Person mit jemanden befreundet ist. Dies ist auch heute bei dem uns vorliegenden Beispiel der Fall. Die Verbindung ergibt sich ein wenig spät für uns, wäre sie früher aufgefallen hätte man vielleicht so manche Karte anders spielen können, immerhin erklärt es aber auch gewisse Ereignisse.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 05.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #214
+
+* Titel: `Yakuza 5 - #214 - nach eigenen Regeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für sich selbst zu entscheiden was man tut ist ein unfassbarer Luxus den sich nur ganz wenige leisten können. Damit kombiniert wäre es natürlich wünschenswert wenn ausreichend fundierte moralische Vorstellungen vorliegen. Aber genau das ist es auch was Menschen einschränkt. Rein moralisch gesprochen fängt meine Freiheit da an wo die der anderen aufhört, wenn man aber auf viele Andere Rücksicht nimmt hat man am Ende vielleicht gar nicht mehr so viel Freiheit. Es kommt gerne vor das dann Leute über die Grenzen hinaus springen und unter dem Vorwand der Freiheit andere verletzen oder Dinge zerstören. Jugendliche die Grenzen austesten sind hier ein Klassiker..oder Serienmörder. Davon abgesehen gibt es aber auch genügend Einschränkungen die erst bewusst werden wenn man näher hinschaut oder es probiert. Als Diktator in Afrika hat man defacto eine Menge Macht aber die eigenen Möglichkeiten sind durchaus eingeschränkt. Wenn es der eigene Begriff von Freiheit ist als Hausfrau und Mutter zu leben kann man auch als Frau im mittleren Osten Freiheit genießen. Interessant wird es wenn man unkonventionell handelt, und selbst das ist ein Begriff der außerordentlich dehnbar ist. An einem Ort kann das schon das Verlangen sein die Haare zu offen zu tragen oder Auto zu fahren, woanders jeden Tag an einem anderen Ort auf zu wachen und dennoch einer stabilen Beschäftigung nach zu gehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 05.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #215
+
+* Titel: `Yakuza 5 - #215 - 4 Kerle, 1 Plan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir haben es geschafft, wir sind an dem Punkt angelangt an dem wir alle Charaktere spielen können. Ich war wohl ein wenig zu ungeduldig was das angeht und hätte einfach nur warten müssen. Das bedeutet auch das wir endlich losziehen können um ein Restaurant zu retten. Oder auch nicht weil die Quest irgendeine weitere Bedingung braucht und es mich dann doch nicht so sehr interessiert als das ich es unbedingt sehen möchte. Was aber auch noch ein wenig relevant ist, ist wie wir hier her gekommen sind, anscheinend gibt es doch noch einige Charaktere die lebendiger sind als gedacht, stellt sich mir nur die Frage warum von allen Leuten Park sterben musste, das ergibt irgendwie nicht so richtig Sinn oder? Oder macht es deswegen diesen einen Tod umso bedeutsamer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 05.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #216
+
+* Titel: `Yakuza 5 - #216 - Spezialitäten aus jeder Region [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Liebe geht durch den Magen aber auch eine Menge andere Emotionen. Ich erinnere mich zum Beispiel noch sehr gut an eine Pizza die ich in Prag gegessen habe, mein 18-jähriges Ich fand die absolut hervorragend. Vielleicht habe ich mittlerweile bessere Pizzen gegessen, aber die Erinnerung an den Moment bleibt. Tatsächlich nicht an den Geschmack, sondern an die Situation in der ich diese Pizza gegessen haben, an die Wendeltreppe das runter zum Klo ging und die Ecke in der es war. Ob die Erinnerung noch gut genug ist um den Ort wieder zu finden, ob er noch existiert und ob die Pizza nicht eigentlich mittelmäßig war vermag ich nicht zu sagen, und doch blieb ein Eindruck hängen. Jetzt verbindet man Pizza nicht direkt mit Tschechien aber in der Regel tut man bestimmte Essen mit Orten verknüpfen. Das dachte sich auch ein Koch den wir heute treffen, wie gut das wir geballte Expertise aus ganz Japan haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 05.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #217
+
+* Titel: `Yakuza 5 - #217 - Aufteilung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Spätestens seit Scooby Doo wissen wir das es immer die absolut beste Idee ist sich aufzuhalten wenn es eine Bedrohung gibt aber man leider nicht genau weiß wo sich diese eben aufhält. Von Geister und Monstern einmal abgesehen kann es aber auch durchaus Situationen geben in denen man seine Kräfte teilen muss weil bestimmte Geschichten einfach parallel geschehen müssen und nicht sequentiell geschehen dürfen. Meistens drückt dann besonders die Zeit und es ist außerordentlich wichtig für jeden Unterauftrag auch die richtige Person aus zu wählen. Andere Spiele hätten uns vielleicht die Wahl gelassen, in Yakuza geschieht das automatisch. Ich hätte mich eventuell auch leicht anders entschieden, aber vielleicht auch in dem Wissen das bestimmte Personen nur Zeit kaufen müssen und nicht zwingend überleben. So oder so wird es jetzt also Zeit für die heroischen Akte der Einzelpersonen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 05.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #218
+
+* Titel: `Yakuza 5 - #218 - der große Auftritt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ohne jetzt zu viel ins Detail zu gehen, ich bin ein wenig traurig das ich das große Debut von Haruka nicht selber spielen darf, das wäre irgendwie ein interessanter Kontrast zu der Geschichte mit den Leuten die sich prügeln. Auf der anderen Seite wären das dann wohl alle Songs gewesen und das hätte eine ganze Weile gedauert, und das in einem Spiel das sowieso schon viel zu lang ist. Insofern vielleicht auch ganz gut so. Aber viel wichtiger eigentlich, das große Debut scheint tatsächlich statt zu finden. Es passiert und Haruka singt zusammen mit T-Set. Außerdem prügeln sich noch ein paar Leute aber das ist ja nicht so wichtig oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 05.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```
+
+##### #219
+
+* Titel: `Yakuza 5 - #219 - der größte Geldverleiher der Geschichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird wohl Zeit für das große Finale, und so wie es aussieht ist es dies Mal sogar an Akiyama im Rampenlicht zu stehen. Irgendwie hat sich unser Geldverleiher der Herzen in diese Geschichte gewieselt ohne das so recht zu erkennen ist was er eigentlich hier zu tun hat. Klar, er kennt einige der beteiligten Personen und hat auch schon mit Haruka zu tun gehabt, aber davon abgesehen das die ganze Geschichte in seiner Heimatzentrale geschieht scheint mir hier nicht besonders viel mit ihm zusammen zu hängen. Ich denke man kann es einen gewissen Ehrenbegriff zu rechnen das er dennoch dabei ist und es bis zum Ende durchzieht. Die schlechte Nachricht ist allerdings das das auch bedeutet das wir gegen extrem nervige Gegner kämpfen müssen, und das mit einem Charakter den ich so gut wie nicht auf diesen Fall vorbereitet habe. In einer perfekten Welt hätte ich wohl die gesammelten Millionen der Charaktere genutzt um allen eine ideale Ausrüstung zu geben. Das tat ich aber nicht, hier sind wir also.
+  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Yakuza 5 Remastered auf dem Montags Slot. Sitzung 32, Aufnahme vom 05.05.2023 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG 
+  ```
+
+##### #220
+
+* Titel: `Yakuza 5 - #220 - die unüberwindbare Mauer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es fasziniert mich immer wieder wie in den Yakuza Spielen Alter scheinbar keine relevante Metrik ist. Kazuma Kiryu ist Definitionsgemäß schon ziemlich alt. Das Spiel spielt ja sogar mehrfach darauf an. Im vierten Teil dated er kurz eine Hostess die eher auf ältere Männer steht die mehr traditionelle Rollenbilder bevorzugt und in diesem wird mehrfach erwähnt das Kiryu durchaus einer von den Jungs ist die bei der Taxifirma arbeiten und sehr gut in die Allgemeinheit hinein passt. Und doch, anscheinend ist der gute Kiryu immer noch die Mauer, der Brandwall, die Nordwand. Ich war versucht die Episode „die Eiger-Mordwand“ zu nennen aber das hätte wieder keinen Sinn ergeben im Zusammenhang mit Japan und ich kenne mich mit japanischen Bergen nicht aus und selbst wenn würde es auch dann keinen Sinn ergeben. Also habe ich es gelassen. Davon abgesehen passiert in dieser Überlänge Episode dann alles was noch aus stand. Wir sehen das große finale von Harukas Debut und sehen wie sich Kiryu durch kämpft. Ich muss übrigens sagen das ich ein wenig enttäuscht vom Ende bin. Zum einen die Entscheidungen die bestimmte Charaktere treffen und dann die Kürze des Epilogs ist irgendwie ein wenig flach und nicht näher erklärt. Etwas mehr Abschluss hätte ich mir schon erhofft, aber man kann wohl immer damit rechnen das Yakuza 6 ja auch noch ein Ding ist, dann sogar mit der Engine von Kiwami 2, also ein großes visuelles Plus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 5 Remastered auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 05.05.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMik9f9zcVvEW65NulbH4jG
+  ```

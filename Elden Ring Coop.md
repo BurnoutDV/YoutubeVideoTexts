@@ -1309,12 +1309,334 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbF
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```
 
-##### #Nummer
+##### #77
 
-* Titel: ``
+* Titel: `Elden Ring Coop - #77 - Elphael, Stütze des Haligbaumes [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ein stabiles Fundament für all seine Operationen zu haben ist von außerordentlicher Wichtigkeit, ist es da verwunderlich das auch ein gestandener Baum wie der Haligbaum über ein eben solches verfügt? Es ist ein wenig befremdlich erst die Krone zu durchsuchen und dann immer tiefer vor zu dringen, auf der anderen Seite kann eine Zivilisation die über Teleporter verfügt wohl nicht an den gleichen Maßstäben gemessen werden wie Andere. Außerdem kann man im Keller eines Baumes wesentlich besser Dinge verstecken als das in der Krone funktioniert hätte in der man bereits alles aus hunderten Metern erkannt hätte, insofern will ich mich mal nicht zu sehr über diese augenscheinlich umgekehrte Reihenfolge auslassen und mich eher darüber freuen das wir in der Stütze noch so viele schöne Dinge erleben werden.
+  
+  Stichworte: Elphael, Stütze des Haligbaumes, Parkour, Riesentröter, Marikas Wundsiegel, Ballustrade, Reinfäule, Innenwall, Baumgeist
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 09.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #78
+
+* Titel: `Elden Ring Coop - #78 - das Innere des Haligbaumes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stichworte: Elphael, Innenwall, Scharlachfäule, Asche des Haligbaumes, Kanalisation, Schaben, Kirche
+  
+  Offensichtlich trägt der Haligbaum noch Blätter und scheint irgendwie auch zu leben aber das kann man über große Teile der Zwischenlande sagen, irgendwie scheint es zu leben. Aber dann auch wieder nicht, die Wesen die es bewohnen ziehen wie Zombies durch die Gegend und alles wirkt irgendwie wie schlecht eingelegt, ich bin mir also nicht so wirklich sicher von wie lebendig wir tatsächlich im Zusammenhang mit irgendetwas von den Zwischenlanden reden können. Sicher ist aber auch das das Innere des großen Baumes durchaus einigen Platz bietet, in Anbetracht der Menge an Anlagen und Bauten die wir vorfinden muss man aber wohl davon ausgehen das dieser Zustand durchaus schon eine Weile andauert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 09.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #79
+
+* Titel: `Elden Ring Coop - #79 - Millicents Schwestern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stichworte: Elphael, Innenwall, Scharlachfäule, Asche des Haligbaumes, Kanalisation, Schaben, Kirche
+  
+  Es wäre kein richtiges From Soft Spielerlebnis wenn wir im Verlauf unseres Abenteuers nicht irgendwelche obskuren Quests erledigen würden die sich mit dem Schicksal von Personen beschäftigen die wir getroffen haben. Immer zu bedenken ist allerdings das es sich um unsere Geschichte handelt und höchstens wir ein Happy End verdienen, alle Anderen werden wahrscheinlich ultimativ leiden. Was genau das Ziel von Millicent war werden wir wohl nie so richtig erfahren, aber von allem was wir so sehen hatte sie selbst auch nie ein echtes Ziel und wurde stattdessen zum Werkzeug für den Willen eines Anderen ausgebildet, immerhin wird ihr Leben und Leiden uns am Ende ermöglichen Dinge zu tun die ansonsten verschlossen bleiben würde, von dieser Perspektive möchte ich ihr daher danken auch wenn ich mir irgendwie ein wesentlich besseres Ende für sie gewünscht hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 09.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #80
+
+* Titel: `Elden Ring Coop - #80 - Malenia, Miquellas Klinge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stichworte: Elphael, Innenwall, Scharlachfäule, Asche des Haligbaumes, Kanalisation, Schaben, Kirche
+  
+  Gute Neuigkeiten, wir sind bei Malenia! Die schlechte Nachricht ist das wir kein Arkan+Blutungsbuild sind, es könnte also durchaus sein das sich das hier ein wenig in die Länge zieht. Für den Moment möchte ich aber die ersten Gehversuche bei Malenia noch in einem Stück halten weil der spannende Teil ja doch irgendwie ist wie man einem Gegner das erste Mal begegnet. Für mich ist es nicht wirklich das erste Mal ich muss allerdings sagen das Malli mit Blutungsschaden wesentlich einfach war und ich die Hälfte der Angriffe nicht einmal gesehen hat die sie heute und hier an den Tag legt. Insofern gibt es auch für mich noch etwas überraschendes zu entdecken und das ist doch wirklich großartig oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 09.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #81
+
+* Titel: `Elden Ring Coop - #81 - vulkanische Häuser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stichworte: Kapelle, Eiserne Jungfrau, Schlangenmenschen, Lava, Vulkan, Kerkergemeinde, Magmalindwurm, Flammenbrücke, Haus Vulkan
+  
+  Neben all den Fehlversuchen bei Malenia hätten wir ja beinahe das Haus Vulkan vergessen. Aber keine Angst ,wenn es irgendetwas gibt das uns davon ablenken kann das wir in einer echt problematischen Lage sind und es vielleicht wirklich nicht schaffen sollten einen Boss zu besiegen nehmen wir einfach alles was wir tun könnten. Und so besuchen wir heute den großen Vulkan der das Haus Vulkan aus macht. Hier finden wir eine Menge Echsenmenschen, Lava die irgendwie keinen Schaden macht und andere Freuden. Wichtiger ist aber das wir unseren guten alten Bullshit durch ziehen können den Malenia einfach nicht durch gehen lässt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 20, Aufnahme vom 09.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #82
+
+* Titel: `Elden Ring Coop - #82 - Rykard, Fürst der Blasphemie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stichworte: Vulkankessel, Kerkertiefen, Götterverschlingende Schlange, Rykard, Fürst der Blashphemie, Riesenspeer.
+  
+  In jedem Soulsbourne Teil kann man eigentlich mit mindestens einen Boss rechnen der wesentlich einfacher wird wenn man sich auf ein bestimmtes Gimmick einlässt. Heute wäre das ein gewaltiger Speer der den Kampf grade zu trivial macht. Yhorm lässt grüßen. Da wir aber sowieso schon massiv überlevelt sind machen wir das eben nicht und gehen den langen, grausamen Weg. Das ist insofern problematisch als das man Rykard nicht so wirklich im Nahkampf angreifen kann. Die große böse Schlange ist von einer Menge Lava umgeben und das macht es eher schwierig sich zu nähern. Aber keine Angst, wir haben genügend Fähigkeiten und Ausdauer um letztendlich jede Art von Gegner zu besiegen. Heute Rykard, morgen Malenia!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 21, Aufnahme vom 16.03.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #83
+
+* Titel: `Elden Ring Coop - #83 - Malenia Zusammenschnitt Teil 1 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stichworte: Malenia, Vulkanfeste, Rykards Leiche
+  
+  Das hier ist der erste Teil aller Malenia Versuche, das Ganze wurde einfach viel zu lang deswegen habe ich es zusammen geschnitten. Der Anfang ist die normale Episode wie sie quasi die Fortsetzung von 82 ist und dann gibt es viele Stunden Material. Wenn du dir wirklich alle Versuche und jede Mengen Stunden Fails angucken willst gibt es das Zeug in der Playlist die weiter unten in der Playlist verlinkt ist.
+  
+  0:00 - Normales Spiels / Lets Play
+  23:30 - Start des Zusammenschnitts
+  29:53 - Der Radagon Talisman
+  38:17 - Ende Aufnahme 84
+  42:32 - Große Feuerbälle
+  45:03 - Adulas Mondklinge
+  47:49 - Tod 295
+  49:08 - Ende Aufnahme 85
+  52:04 - Imitator-Tränen Plan
+  55:39 - Der Ersatzspieler
+  56:47 - Eleonoras Stangenwaffe
+  01:01:03 - Bluttungsschwarm 
+  01:06:13 - Todessammlung
+  01:07:20 - Malenia ist ein Shinobi
+  01:08:49 - neue Ideen
+  01:11:59 - Ende Aufnahme 87
+  01:24:11 - Neues vom Parry King
+  
+  
+  Alle Versuche als extra Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMfpzi6KZjUcxM1TaV6yk1H
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 22, Aufnahme vom 16.03, 23.04, 26.03, 30.04, 01.04, 02.04, 06.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #83,5
+
+* Titel: `Elden Ring Coop - #83,5 - Malenia Zusammenschnitt Teil 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stichworte: Malenia, Rattenfarm, Nachbereitung
+  
+  Und hier ist dann der zweite Teil der großen Malenia Saga. Liest du überhaupt noch mit. Interessiert das überhaupt jemanden? Habe ich mir völlig umsonst die Mühe gemacht all diese Dinge zusammen zu schneiden. Ich fürchte schon oder? Ich meine, wer interessiert sich schon für die unzähligen Fehlversuche von irgendwelchen Dudes im Internet? Ich hätte es wohl einfach so wie es ist hochladen sollen und nie auch nur eine Sekunde daran verschwenden sollen es irgendwie cool zu machen. Das deprimiert mich schon sehr, aber wahrscheinlich ist das der Schmerz am Sein selbst. Man tut etwas und eigentlich interessiert es niemanden. Wie dem aber auch sei, unten die Playlist mit all den nicht geschnittenen Videos falls dich irgendetwas interessiert.
+  
+  0:00 - Neue Idee in Aufnahme 89
+  04:49 Kontrollierter Tod 357
+  06:12 Scharlachröte
+  06:50 Versuch 361
+  09:09 Ekzyke Plan V2
+  12:15 Ende Aufnahme 90
+  13:29 Agenda Runenbogen
+  19:22 Strategieupgrade Drache
+  22:17 neue Runenbögen
+  27:13 eingespieltes Team
+  30:58 der dritte Kritische
+  31:58 Malenia Cheese
+  32:56 Unfall 434
+  34:53 Tod 438
+  37:37 Tod 444
+  39:10 brandneue Wege
+  41:52 Aufnahme 95
+  48:11 Zusatzkommentar aus dem Schnittraum
+  50:13 der Rest von "Episode 83"
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 22, Aufnahme vom 16.03, 23.04, 26.03, 30.04, 01.04, 02.04, 06.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #84
+
+* Titel: `Elden Ring Coop - #84 - heroische Riesentöter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns mit großen Schritten dem Ende. Alles was jetzt noch kommt ist eigentlich sehr nahe an dem klassischen Souls-Spielen dran. Ein einziger Ort den man mehr oder weniger linear durch geht und am Ende kommt dann ein Boss und dann ist dann bestimmt auch das Spiel vorbei. Bevor es aber so weit ist erkunden wir den letzten noch existierenden Dungeon, es handelt sich um das Grab der Riesentöter und ich habe keine bewusste Erinnerung daran. Das könnte unter Umständen aber auch daran liegen das ich hier während meines Solo-Runs einfach nicht wahr, der Zugang ist ja doch ein wenig versteckt.
+  
+  Stichworte: Reservat der Scham, rasende Flammen, Grab des heroischen Riesentöters, Uralter Held von Zamor, Hände, Vögel, Kirche der Ruhe
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 23, Aufnahme vom 06.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #85
+
+* Titel: `Elden Ring Coop - #85 - der Feuerriese [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich hätten wir die heutige Episode in Frieden lösen können. Zumindest hatte ich die Lore so verstanden das die Feuerriesen sowieso nicht besonders grün mit dem Verhalten der goldenen Ordnung und alles was mit den Eldenbäumen zusammenhängt sind. Insofern wäre es doch überhaupt gar kein Ding gewesen wenn wir einmal kurz nachfragen würden ob wir den Kessel mal eben mitnutzen könnten und schon brennt der Baum. Aber nein, anscheinend müssen wir alles mit Streit und Zwist beenden. Also töten wir heute den Feuerriese. Es hat übrigens keiner gesagt das das Vieh humanoid sein muss und so richtig ist er es wohl auch nicht. Was wohl die Geschichte dahinter ist das eben genau dieser Riese überlebt hat?
+  
+  Stichworte: Kirche der Ruhe, Riesenhände, steinwerfende Riesen, Feuerriese, Flamme der Riesen, Schmelztiegel
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24?, Aufnahme vom 13.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #85
+
+* Titel: `Elden Ring Coop - #85 - der Feuerriese [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich hätten wir die heutige Episode in Frieden lösen können. Zumindest hatte ich die Lore so verstanden das die Feuerriesen sowieso nicht besonders grün mit dem Verhalten der goldenen Ordnung und alles was mit den Eldenbäumen zusammenhängt sind. Insofern wäre es doch überhaupt gar kein Ding gewesen wenn wir einmal kurz nachfragen würden ob wir den Kessel mal eben mitnutzen könnten und schon brennt der Baum. Aber nein, anscheinend müssen wir alles mit Streit und Zwist beenden. Also töten wir heute den Feuerriese. Es hat übrigens keiner gesagt das das Vieh humanoid sein muss und so richtig ist er es wohl auch nicht. Was wohl die Geschichte dahinter ist das eben genau dieser Riese überlebt hat?
+  
+  Stichworte: Kirche der Ruhe, Riesenhände, steinwerfende Riesen, Feuerriese, Flamme der Riesen, Schmelztiegel
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24?, Aufnahme vom 13.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #86
+
+* Titel: `Elden Ring Coop - #86 - verfallenes Farum Azula[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zeit und Raum sind insbesondere in Soulsbourne Spielen immer eine sehr relative Sache. Bloodborne hat immer noch die Ausrede das es alles ein großer Traum ist und die kosmischen Wesen irgendwie an der Realität nagen, die gleiche Ausrede hat Elden Ring nicht. Ich weiß auch nicht wie viel von dem was wir so tun Spielmechanik ist und wie viel dann wieder in Sachen Geschichte und Hintergrundwelt fällt. So oder so ist Farum Azula schon seit einer Weile ein wenig verfallen. Warum genau es in der Mitte einen gewaltigen Sturm gibt und was es mit den Urdrachen auf sich hat wird jetzt erst einmal nicht weiter erklärt. Der Anführer der Saxofon Gang hat auf jeden Fall einmal Leyndell angegriffen, also können wir wohl davon ausgehen das der Verfall von Fazum Azula und das ganze Zeug auf dem Land etwas auseinander liegt. Aber das wissen wir auch nur wenn wir Logik auf das Problem werfen. Und das muss ja nicht notwendigerweise etwas Gutes sein. Oder Wahres. Wir sind jetzt und hier jedenfalls da und hauen Bestienmenschen um.
+  
+  Stichworte: Farum Azula, Verfallenes Bestiengrab, Blitzschlag des uralten Drachens, Sturmbalkon, Duo der Götterskalpe
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24?, Aufnahme vom 13.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #87
+
+* Titel: `Elden Ring Coop - #87 - Scherben am Sturmbalkon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen gut vor ran. Das habe ich mittlerweile schon echt oft geschrieben. Liegt aber auch daran das wir meistens sehr überlevelt sind und uns durch die meisten Sachen einfach durchschmelzen. Gar kein Problem. Und dann gibt es da wieder nervige Gegner an denen wir uns ein wenig aufhalten. Das könnte aber auch daran liegen das wir bestimmte Gegnertypen einfach nicht mehr so ernst nehmen und irgendwie rumderpen anstatt logisch und gut abgesprochen irgendwelche Taktiken durch zu probieren. Daher dauert es heute auch ein wenig länger bis wir ein gewisses dynamisches Duo hinter uns gebracht haben. Aber keine Angst, wir treffen noch einen alten Bekannten und das ist doch wohl einfach fantastisch oder? Alte Bekannte treffen ist immer gut, besonders im Jagdverein.
+  
+  Stichworte: Duo der Götterskalpen, Uralter Drachen, Kampfgefäß Alexander, Scherben, Drachentempel Aufgang
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24?, Aufnahme vom 13.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #88
+
+* Titel: `Elden Ring Coop - #88 - Dachentempel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein das ist kein Schreibfehler. Es handelt sich in der Tat um den Dachentempel, weil es gibt hier eine Menge Dach und außerdem handelt es sich um einen Tempel. Ich gebe übrigens gerne zu das ich alleine Placidusax niemals nie nicht gefunden hätte. Außerdem hätte ich gerne mehr Hintergrundgeschichte. Offensichtlich ist unser guter Drachenfürst ein eigentlich dreiköpfiger Drache dem ein Kopf abhanden gekommen ist. Warum? Wer war das bzw. wie kann das überhaupt passieren das man einfach so den Kopf verlieren und trotzdem weiter macht. Wie genau sind wir an das Ende der Zeit gekommen oder ist das Zentrum von Farum Azula einfach ein Ort an dem es nicht wirklich Zeit gibt. Ist alles was wir wahrnehmen nur eine Illusion und nichts ist so richtig echt?
+  
+  Stichworte: Drachentempel Aufgang, Vögel, Adler, Exilritter, Placidusax, Drachenfürst, Zentrum des Sturms
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 24?, Aufnahme vom 13.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #89
+
+* Titel: `Elden Ring Coop - #89 - Platzidusax [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Große Drachen sind irgendwie ein wenig unsere Spezialität geworden. Es ist ja nicht so als hätten wir nicht schon eine Menge von denen zu Fall gebracht. Alles angefangen hat damals mit Aghel dem wir am gleichnamigen See um seine Flamme beraubt haben. Was wir genau gegen die Drachen haben ist auch nicht wirklich abschließend geklärt, aber da sie uns meistens als erstes angreifen müssen wir uns um die moralischen Implikationen unseres Handels zum Glück keine Sorgen machen und können einfach loslegen. Ich meine, wer sollte sich am Ende auch beschweren? Die herrschende Regierung der Welt? Ich bezweifle es doch mal ganz stark.
+  
+  Stichworte: Drachenfürst Placidusax, Drachentempel Dach, Placidusax' Untergang, die große Tröte, Bestienkleriker
+  
+  Die große Tröte auch als Short: https://youtube.com/shorts/cqEJcXu5ZFY bzw. als Schnellschnitt: https://youtu.be/KymBTNsCHy8
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25?, Aufnahme vom 20.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #90
+
+* Titel: `Elden Ring Coop - #90 - Zurück am Baum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen sind wir nicht sofort wieder am guten alten Erdenbaum aber doch schon relativ schnell. Leyndell hat sich seit unserem letzten Besuch ein wenig verändert und wir sollen wir glauben das es sich um Asche handelt die jetzt überall liegt. So richtig klar ist das aber nicht. Anscheinend ist ein wenig Zeit seit unserem letzten Besuch vergangen und mir ist nicht so ganz klar wo und wann wir jetzt eigentlich genau sind . Klar ist nur, den Schaden den wir angerichtet haben kriegt man wohl so schnell nicht mehr hin. Immerhin mussten wir aber nicht tausende Mode abwarten bis sich die Finger einmal entschieden haben. Aber das haben sie jetzt auch davon das sie sich gegen einfache Befleckte wie uns auflehnen wollten. So gesehen ist das hier auch eine Erfolgsgeschichte, wir sind nicht bereit zurück zu stecken nur weil irgend jemand sagt das man ein Halbgott sein muss um den Thron zu besteigen. Wir holen uns den Ententhron, gar kein Problem!
+  
+  Stichworte: Maliketh, die schwarze Klinge, Leyndell, Aschene Hauptstadt, Gargoyl, Sir Gideon Ofnir der Allwissende, Godfrey
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25?, Aufnahme vom 20.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
+  ```
+
+##### #91
+
+* Titel: `Elden Ring Coop - #91 - das Inneres des Eldenbaums [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir, erneut beim Ententhron und dieses Mal lassen wir uns nicht davon aufhalten das es hier irgendwelche komischen Dornen gibt. Wir sind nämlich besser als das. Und das irgendein Typ uns weiterhin von Oben herab behandelt trotz der Dinge die wir erreicht haben ist auch nicht in Ordnung. Es ist Zeit für die Rache. Ich weiß zwar nicht genau wofür aber anhand der Dinge die alle Leute zu uns sagen vermute ich schon das man uns irgendwie Unrecht getan hat. Ich fühle mich daher nicht schlecht den großen Baum abgebrannt zu haben, und auch nicht dafür das Leyndell jetzt so aussieht, daran sind die Leute selber schuld. Sich dann auch noch von einem selbsternannten großen Kriege durch die Gegend treten zu lassen ist ebenfalls kein Grund langsamer zu machen. Und das komische Wabelwesen am Ende ist uns eigentlich auch egal. Heute ist der Tag der Abrechnung gekommen. TOGETHA!
+  
+  Stichworte: Godfrey, Erster Eldenfürst, Hourah Loux, der Krieger, Eldenthron, Radagon von der goldene Ordnung, Eldenbestie, Goldene Welle, heiliges Reliktschwert
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring am Dark Souls Dienstag
+  Sitzung 25?, Aufnahme vom 20.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOboCVZg2HGyL7O0AGKbFAs
   ```

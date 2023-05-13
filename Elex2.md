@@ -2104,13 +2104,77 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqx
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
-##### #Nummer
+##### #142
 
-* Titel: ``
+* Titel: `Elex 2 - #142 - Verräter an der Menschheit [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die gesamte Menschheit zu verraten ist nicht besonders einfach, in der Regel bedeutet Verrat das einen die Leute vorher vertraut haben und das ist halt wirklich schwierig wenn man nicht einmal weiß wer du bist. Wenn man es aber schafft die eigene Rasse an irgendwelche Aliens zu verkaufen dann ist das schon eine ziemliche Leistung auf die man, nicht unbedingt stolz, aber die schon besonders ist. Und so sehen wir heute die große Leistung die ein gewisser Herr Dawkins erreicht hat. Wir dachten ja bereits er habe sich gewaltig die Sporen damit verdient das er 100 Jahre lang der Hybrid war, aber es scheint doch so das seine Verbrechen noch ein wenig tiefer gehen als sie ursprünglich erschienen. Ist das nicht fantastisch? Außerdem fällt die Story nun wirklich komplett auseinander.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 20, Aufnahme vom 11.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
   ```
 
+##### #143
+
+* Titel: `Elex 2 - #143 - das fremde Land [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir befinden uns im Endspurt. Und damit meine ich das wir nur noch wenige Episoden brauchen bis wir endlich Elex 2 hinter uns lassen können. Alles was wir noch tun müssen ist ein paar Skyaniden zu töten und dann die große Festung zu stürmen. Warum wir genau noch einen Angriff auf das Umland verhindern müssen ist mir übrigens absolut nicht klar. Von allem was wir so gesehen haben sind die Skyaniden zentral geführt. Ob sie jetzt die Regionen überrennen oder nicht macht doch gar keinen Unterschied mehr für uns. Man könnte argumentieren das wir ja die Unterstützung der Leute brauchen aber das Machtgefühle das wir hier tagtäglich erleben ist so hoch das wir letztendlich eh die gesamte Arbeit machen. Was ist also der Punkt irgendwelche Invasionen zu verhindern wenn es doch einfacher und effektiver wäre direkt die Festung des „Bösen“ zu stürmen. Ich bin, wie immer, verwirrt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 21, Aufnahme vom 18.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #144
+
+* Titel: `Elex 2 - #144 - Stimmen des Geists [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Geister in der Maschine ist eine ziemlich häufige Trophe. Die Grundannahme ist quasi das es echte künstliche Intelligenz nicht gibt und man gar keine künstlichen Lebewesen erschaffen kann. Eine Ki fängt also nie an irgendwann einmal ein echtes Bewusstsein zu entwickeln. Stattdessen schafft man passende Hardware und dann packt man Menschen von einer fleischlichen Hülle in eine elektronische. Damit erreicht man dann am Ende den gleichen Effekt aber es ist dann doch ein wenig anders. Das machen wir heute quasi auch, warum auch immer wir dafür ausgerechnet unseren eigenen Sohn nehmen müssen und warum wir nicht einfach ein Loch in Cassandras Außenhülle sprengen können ist mir ein absolutes Rätsel. Oder warum die anderen Basen nicht über einen ähnlichen Schutzmechanismus verfügen. Fragen über Fragen, und ich ahne das es ein wenig spät für Antworten ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 21, Aufnahme vom 18.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #145
+
+* Titel: `Elex 2 - #145 - Maschinenübernahme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich damals Shadowrun gelesen haben (also schon das Tabletop das ich selbst nie gespielt habe aber davon halt geschriebene Romane) fand ich es immer ein wenig komisch das die Decker quasi alles hacken können. Oder auch in Cyberpunk, anscheinend ist jede Infrastruktur mega offen und kann eigentlich von jedem mit dem passenden Dosenöffner ohne größere Probleme geöffnet werden. Wenn ich mir dann aber heutzutage anschaue wie wir mehr und mehr Mündigkeit für System an irgendwelchen neuronalen Netze abgeben die recht schnell Opfer für prompt engineering werden (früher nannte man das social engineering als man noch Menschen am Telefon dazu gebracht hat das Passwort zu verraten). Insofern ist es wieder wesentlich glaubhafter das unendlich komplexe System eigentlich von jedem der über genügend Motivation verfügt eigentlich ohne Weiteres geknackt werden kann. Daher überrascht mich diese plötzliche Wende heute überhaupt nicht, alles Andere was damit zusammen hängt hingegen schon.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 21, Aufnahme vom 18.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```
+
+##### #147
+
+* Titel: `Elex 2 - #146 - der Veränderlichen / Finale [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben es geschafft, also noch nicht so richtig aber das hier ist jetzt wirklich die letzte Episode. Wir treffen ihn endlich, den großen Veränderlichen, die ach so großartige Bedrohung die wir auf keinen Fall besiegen können. Es ist schon ein wenig lächerlich wenn der Endboss nicht die Kumulation aller Fähigkeiten ist die wir bisher erreicht haben sondern nur ein stumpfer Kampf bei dem wir einfach zwei Manatränke trinken ist und dann einfach abwarten bis der zugegeben recht lange Lebenspunkte Balken unseres Gegners sich dem Nullpunkt nähert. Dann können wir unendlich lange fliegen und den Rest der Episode quatsche ich noch darüber was noch so alles schief gegangen ist bei der Entwicklung dieses Spieles. Im großen und Ganzen würde ich es aber darauf zusammenfassen das man absolut nicht bereit war Kritik anzunehmen oder vielleicht auch nicht fähig war Probleme zu sehen und dann, noch viel wichtiger, tatsächlich auch zu beheben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 21, Aufnahme vom 18.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNJiCdIFrUfCYfLgfeZqxMl
+  ```

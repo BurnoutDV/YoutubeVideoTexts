@@ -2187,24 +2187,34 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWX
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
-##### #Nummer
+##### #142
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #142 - Nemesis [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Offenbar sind wir jetzt am Ende angelangt und wir haben es tatsächlich geschafft nicht noch mehr Begleiter dauerhaft zu verlieren. Das ist schon mal in sich ein großes Plus. Ärgerlicherweise sieht die aktuelle Lage aber wohl so aus das die Zeniths zu bekämpfen maximal eine Zwischenetappe auf unserer großen Mission war die Welt zu retten. Generell und überhaupt ist es auch sehr faszinierend wie wir immer weiter die Ziellinie verschieben bei egal was wir tun. Erst retten wir die Welt vor Hades, dann stellt sich doch glatt heraus das wir mit Hades gar nicht so richtig fertig sind und dann wenig später kommt doch glatt heraus das die gesamte Geschichte mit den freien KIs ein wenig mehr als nur Zufall war. Es wäre auch eine ziemlich große Lücke gewesen wenn sich ein so spezifisches Verhalten wie das Aufspalten von GAIA einfach so ergeben hätte weil aus dem Kosmos ein Signal kam. Nun, es stellt sich doch dann heraus das die Lage nicht ganz so eindeutig ist wie man das dachte und der nächste Feind bereits am Horizont lauert. Wie genau man gegen diesen Gegner ankommen will ist mir aber absolut nicht klar. Schon gegen eine terrestrische Bedrohung haben ja quasi nur die Deus Ex Machina Lösungen der alten Welt geholfen, aber hier kommt etwas gänzlich Neues auf uns zu. Wie soll da die alte Technik neue Lösungen bieten? Die Wissenschaftler die hätten iterieren können sind schon lange tot.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 19, Aufnahme vom 19.07.2022
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ##### #Nummer
 
-* Titel: ``
+* Titel: `Horizon Forbidden West - #143 - Abschlussgespräche [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich bin ein wenig sehr spät zur Party aber mir ist dann doch nach nur fast einem Jahr aufgefallen das ich leicht vergessen haben mich am Ende des Spieles noch mit all unseren Begleitcharakteren zu unterhalten. Zum Glück hatte ich die Idee jetzt, quasi einen Tag bevor ich das DLC spiele, daher habe ich quasi Informationen aus der Zukunft und kann die günstige Gelegenheit direkt nutzen schon einmal wieder in Horizon bzw. seiner Spielmechanik rein zu kommen. Das ist etwas Gutes oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung ??, Aufnahme vom 24.04.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNiCrrtr2uAfRBjZkVEWXgB
   ```
 
 ## Fazit

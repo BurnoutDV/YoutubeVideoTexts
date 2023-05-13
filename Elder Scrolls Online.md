@@ -8763,6 +8763,369 @@
   Aufnahme vom 18.04.2023 - #1785 - ##32 - S5
   ```
 
+##### #1786
+
+* Titel: `Let's Play ESO #1786 ##33 - Druidenpfade [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 33 des Firesong DLCs - Sitzung 5
+  
+  Heute verliere ich mich ein wenig in tangentiellen Diskussionen. Das liegt daran das wir heute ganz plötzlich eine Person treffe die ich außerhalb der Mauern eher nicht erwartet hätte. Diese Person kann deswegen da sein weil sie bestimmte Wege kennt und eine wichtige Nachricht selbt an uns, eine wichtige Person überbringen kann. Das ist absolut faszinierend wenn man die momentan Lage bedenkt und das die Person eigentlich ziemlich wichtig in Vastyr gewesen wäre. Generell und überhaupt ist es aber auch erstaunlich das noch niemand auf Nirn eine billige Möglichkeit gefunden hat mittels Magie sofort und überall zu kommunizieren. Aber das würde wohl die Dynamik der Welt ein wenig ändern.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.04.2023 - #1786 - ##33 - S5
+  ```
+
+##### #1787
+
+* Titel: `Let's Play ESO #1787 ##34 - Geisterpartikel [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 34 des Firesong DLCs - Sitzung 5
+  
+  Es gibt Geschichten die sich ein wenig entwickeln und von denen ich am Anfang nichts Gutes dachte. Die heutige Geschichte ist sogar ein wenig länger als ich gedacht hätte und zweitens ist sie sogar ein wenig tiefer als es zu erst erschien. Aber stellen wir erst einmal das offensichtliche fest, es sieht zwar so aus als würden die Druiden im Einklang mit der Natur leben aber an sich handelt es sich auch nur um Technik die eine bestimmte Verkleidung trägt. Nehmen wir einmal die großen Geister die unter diversen Siedlungen hausen und quasi als Allzweck-Waffe dienen. Manche dieser Geister machen mehr als nur Schutz und haben auch noch einen zusätzlichen Zweck. Aber Alles in Allem scheint es mir so als wären die Geister vor allen Dingen dafür da Menschen die Arbeit ab zu nehmen und langfristig Aufgaben zu erfüllen die die Lebensspanne des Wald und Wiesendruiden übersteigt. Das ist fast ein wenig so als benutzt man künstliche Intelligenz. Das niemand so richtig in der Lage ist die Geister zu verstehen oder mit ihnen klar zu kommunizieren fügt noch etwas Würze hinzu. Problematisch wird es aber wenn unsere künstlich aus dem Grün erschaffende Intelligenz eine Situation nicht mehr verarbeiten kann, zum Beispiel wenn Druiden Druiden angreifen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.04.2023 - #1787 - ##34 - S5
+  ```
+
+##### #1788
+
+* Titel: `Let's Play ESO #1788 ##35 - Geist von Y'ffres Pfad [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 35 des Firesong DLCs - Sitzung 5
+  
+  Ich bleibe jetzt übrigens bei meiner "Geister sind quasi KI" Haltung. Das liegt auch einfach daran das der Vergleich sich einfach aufdrängt. Zumindest aus der Sicht der heutigen Zeit. Die Gedanken der Menschen werden bekannterweise immer von den Ideen der Zeit geformt. Früher hat man sich zum Beispiel vorgestellt das das Gehirn aus Zahnrädern besteht, dann wie eine Dampfmaschine, später elektrisch und dann wie ein Computerchip. Mit den aktuellen neuronalen Netzwerken die wir für LLMs und anderen Techniken verwenden (ich bin tatsächlich nicht so tief drin) sind, soweit ich das sehen kann, ziemlich nahe dran wie das Gehirn wirklich funktioniert. Nur um Größenordnungen ineffizienter wenn man sich den Energieverbrauch eines Gehirns anguckt und dann was eine handelsübliche Grafikkarte verbrennt. Wie der Verbrauch von Geistern ausschaut kann ich leider nicht sagen, aber er ist bestimmt nicht gering. Andererseits scheint absoluter magischer Energieverbrauch eher selten ein Problem zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.04.2023 - #1788 - ##35 - S5
+  ```
+
+##### #1789
+
+* Titel: `Let's Play ESO #1789 ##36 - die Verrückte Jungfer [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 36 des Firesong DLCs - Sitzung 6
+  
+  Es handelt sich übrigens um ein Schiff. Ein Gedanke der mir übrigens so gekommen ist der aber im Spiel wahrscheinlich eher nicht weiter beleuchtet wird. Aus irgendwelchen nicht näher genannten Gründen ist die Elder Scrolls Welt in weiten Teilen ziemlich gleichberechtigt. Wir haben zwar immer noch gelegentlich traditionelle Rollenbilder aber im Großen und Ganzen finden wir Frauen auch in den selben Rollen wie Männer. Ich muss also davon ausgehen das es zumindest keine ausschlaggebenden physischen Unterschiede zwischen den Geschlechtern gibt, gäbe es mehr Magier würde ich es aber auf die Magie schieben. Das alles gesagt, bei den elfischen Völkern könnte ich mir durchaus vorstellen das Dinge wie die Geburt und Schwangerschaft nur eine außerordentlich kurze Periode im Gesamtleben der Elfen ausmacht und daher vielleicht nicht ganz so wichtig für einen Karriereweg ist. Warum genau heißt dann aber das Schiff „die verrückte Jungfer“? Weil das impliziert ja irgendwie das die „Unschuld“ bzw. die Jungefräulichkeit etwas ist das in irgendeiner Form gesellschaftlich besonders ist. Irgendwie passt das nicht zusammen. Auf der anderen Seite wissen wir ja nichts über das Leben der Meereselfen, also ist alles möglich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.04.2023 - #1789 - ##36 - S6
+  ```
+
+##### #1790
+
+* Titel: `Let's Play ESO #1790 ##37 - Meeresfürst Nalos [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 37 des Firesong DLCs - Sitzung 6
+  
+  Wenn man einen Erzfeind hat hat man auch gleichzeitig ein Ziel im Leben. Das muss eine ziemliche einfache Sache sein. Normalerweise hängt man ja irgendwie im Leben und ist sich nicht so recht sicher was man eigentlich tut und warum man die Dinge überhaupt noch weiter verfolgt. Aber hat man einen Erzfeind ergibt das Leben auf einmal richtig dolle einen Sinn. Man hat ein klares Ziel vor Augen und die nächsten Schritte sind eigentlich auch ziemlich klar. Man besiegt diesen Erzfeind und dann wird alles wieder gut. Klingt doch absolut logisch oder? Einer dieser Erzfeinde heißt Meeresfürst Nalos, wie genau er diesen Titel erhalten hat ist mir zwar nicht klar aber er ist definitiv jemandes Erzfeind. Aber was macht man wenn man einen solchen Feind dann doch überwunden hat?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 26.04.2023 - #1790 - ##37 - S6
+  ```
+
+##### #1791
+
+* Titel: `Let's Play ESO #1791 ##38 - Kathedraleneinsturz [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 38 des Firesong DLCs - Sitzung 6
+  
+  In Zeiten der Not und des Krieges ist die Kirche eine sichere Anlaufstelle. Das hat natürlich System und man könnte durchaus verdammten das religiöse Häuser in den fetten Jahren vorgesorgt haben aber fairerweise hätten das auch alle anderen tun können. Und doch sieht man da eine gewisse Strategie die es den Leuten erlaubt in ihren Köpfen die Verbindung zwischen Kirche und Sicherheit herzustellen. Wenn es sich um einen Kriegsfall handelt und die andere Partei auch zum selben Glauben gehört dann kann man vielleicht sogar darauf hoffen das man aus religiösen Gründen Gottesgebäude außen vor lässt. Darauf würde ich aber im Allgemeinen nicht wetten. Menschen sind ziemliche Tiere wenn es um Extremsituationen geht. Wenn man es jedoch mit einer außerordentlich diversen Horde zu tun hat bietet so eine Kathedrale vielleicht nicht mehr die Art von Schutz die man sich so vorstellen würde. Das dies so ist bemerken wir dann heute, das und die Folgen die eine solche Fehleinschätzung haben kann.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 28.04.2023 - #1791 - ##38 - S6
+  ```
+
+##### #1792
+
+* Titel: `Let's Play ESO #1792 ##39 - der Ozean der Zeit [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 39 des Firesong DLCs - Sitzung 6
+  
+  Wenn man ganz tief in die Philosophie geht könnte man unter Umständen zur Erkenntnis kommen das das Leben in sich nicht besonders viel Sinn hat und wir einfach nur sind. In dieser Folge stellen dann Geister ein eher seltsames Phänomen da. Handelt es sich doch um Seelen die mit dem Leben noch nicht abschließen können. Insofern haben die Menschen dann Zeit ihres Lebens soviel Sinn in diesem gefunden das sie weiter daran festhalten wollen. Oder an einer Sache, einer Aufgabe oder einer Pflicht. Meistens findet man die Geister von irgendwelchen Rittern wieder die einen heiligen Schwur geschworen haben und anscheinend der Tod keine valide Ausrede ist auf zu hören. Je mächtiger der Drang zu leben umso stärker ist auch der Geist. In der Regel gibt es aber die feste Tatsache das Geister nichts „Neues“ mehr erschaffen. Es geht immer nur um das fertig stellen der angefangenen Aufgabe. Wie man das dann genau mit dem Lieben des Meeres macht weiß ich aber auch nicht. Erschwerend kommt aber auf jeden Fall hinzu das Geister dazu neigen die Realität nicht richtig wahrzunehmen. So können mal eben Jahrzehnte verschwimmen oder der Zeitpunkt des eigenen Todes wird als eben grade erst wahrgenommen. Letztendlich habe ich mit diesen Worten aber wohl schon mehr Gedanken in die Gesamtsituation der Quest gesteckt als es die ursprünglichen Questschreiber sich gedacht haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 28.04.2023 - #1792 - ##39 - S6
+  ```
+
+##### #1793
+
+* Titel: `Let's Play ESO #1793 ##40 - Arbeitsaussicht auf der Kippe [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 40 des Firesong DLCs - Sitzung 6
+  
+  Es gibt sehr interessante Nebenquests die irgendetwas über die Welt erzählen und dann haben wir auch noch die Geschichten die uns eher etwas über unsere Welt erzählen. Ich wüsste wirklich gerne wer welche Quest geschrieben hat, ich würde an der Stelle einfach einmal davon ausgehen das zumindest im Format einer Nebenquest eine einzelne Person dafür verantwortlich ist. Die heutige Quest ist total belanglos, das liegt aber auch daran das es sich eigentlich auch nur um die Mission handelt die uns einen Ort näher erklären soll. Interessant ist allerdings das wir jemanden begleiten der sich nicht darum kümmert das seine Arbeit gut ist sondern nur das die Dinge die er tun soll nach den Worten des Auftrags erfüllt sind. Das geht sogar so weit das es ihm scheinbar gar nicht kümmert was die weitreichenden Konsequenzen sind. Auch interessant ist der Verweis auf untergeordnete Auftragnehmer. Unser "Held" ist nicht ganz direkt beim Haus Monard angestellt. Um genauer zu sein ist er erst an vierter Stelle. Ich kann mir irgendwie nicht so richtig vorstellen das das im Sinne des Adels ist. Sind nicht sonst "Hoflieferanten" immer sehr stolz auf ihre Rolle?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 01.05.2023 - #1793 - ##40 - S6
+  ```
+
+##### #1794
+
+* Titel: `Let's Play ESO #1794 ##41 - der Traum von Kasorayn [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 41 des Firesong DLCs - Sitzung 6
+  
+  Einen Traum zu haben ist enorm wichtig. Was sind wir schon ohne Träume, Wünsche und Pläne für die Zukunft. Als ich neulich über Geister sprach war es ein enorm wichtiges Element das die Geister nur noch das vervollständigen was sie zu Lebzeiten angefangen haben und keine eigenen, neuen Projekte anfangen. Ein ähnliches Problem kann übrigens auch noch lebenden Leuten passieren. Man stellt eine Sache fertig und hat nichts mehr was danach kommt. Der Klassiker ist hier das Erreichen der Rente. Etwas auf das Menschen sehr lange hinarbeiten aber dann ist man plötzlich da und weiß gar nicht mehr so richtig was zu tun ist. Und dann werden die Leute von innen Hohl und wissen nichts mehr mit sich anzufangen. Umso schöner ist es doch das Kasorayn einen Traum hatte der über die Jahrtausende überdauert hat. Ein wenig ärgerlich ist das für die Leute die sich in der Kathedrale von Vastyr versteckt haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 02.05.2023 - #1794 - ##41 - S6
+  ```
+
+##### #1795
+
+* Titel: `Let's Play ESO #1795 ##42 - Efeuheim [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 42 des Firesong DLCs - Sitzung 6
+  
+  Eigentlich sind wir heute nicht so wirklich in Efeuheim, stattdessen springen wir vor der Tür Links und Rechts herum ohne so richtig herein zu kommen. Immerhin ergeht es unseren Widersacher ganz genauso. Auch Superdrudin Orlaith lässt sich anscheinend von einer unfreundlichen Steinwand aufhalten. Ich bin immer wieder sehr beeindruckt wenn es keine Möglichkeit gibt irgendwie in eine Einrichtung einzudringen die offensichtlich keine aktive Verteidigung besitzt. Die übliche Trophe ist es aber wohl das man nur als Invasor von einem fremden Land der nicht die lokale Kultur kennt sich einfach so  durch Wände sprengen darf. Gutes Beispiel dürfte dafür einfach jeder Gegner von Tomb Raider sein. Wir sind aber kein Widersacher von Lara Croft, also muss es doch auf der alt her gebrachten Methode laufen..mit dem Lösen von „Rätseln“.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 02.05.2023 - #1795 - ##42 - S6
+  ```
+
+##### #1796
+
+* Titel: `Let's Play ESO #1796 ##43 - Visionen am Efeuthron [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 43 des Firesong DLCs - Sitzung 7
+  
+  Kontext ist quasi alles in einer jeden Gesellschaft. Ohne Kontext und der Möglichkeit für andere Leute neuen Kontext zu schaffen kann quasi jede Geschichte umgestellt werden wie es grade zum aktuellen Narrativ passt. Beispielsweise gibt es ein, und das ist jetzt eine Geschichte aus dem Gedächtnis, in berühmtes Bild aus dem Vietnam-Krieg in der ein Mann einen anderen mit einer Pistole erschießt. Ohne Kontext gibt es sehr viele Interpretationen des Vorfalls. Ich meine mich zu erinnern das der Erschossende diverse Gräultaten in umliegenden Dörfern vollbracht hat und der Schütze das beste Maß an Gerechtigkeit liefern konnte was in dem Moment möglich war. Und doch gibt es eine Menge Emotionen die für den Erschossenden Mitleid spüren lassen.
+  Ich hab mal eben gegoogelt, das Ding hat einen eigenen Wikipedia Eintrag: 
+  https://en.wikipedia.org/wiki/Execution_of_Nguy%E1%BB%85n_V%C4%83n_L%C3%A9m
+  
+  Es handelt sich anscheinend um die Erschießung von Nguyễn Văn Lém durch General Nguyễn Ngọc Loan. Es ist übrigens nicht so ganz klar ob Lém jetzt wirklich Schuld war oder nicht.
+  
+  Zurück in die Welt der Fantasy, wir wollen wissen was genau sich Kasorayn eigentlich bei der ganzen Geschichte gedacht hat. Und deswegen steigen wir heute in die Visionen der Vergangenheit ein, glücklicherweise hat jemand in der Vergangenheit daran gedacht das man so etwas wie Kontext braucht. Wirklich großartig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 05.05.2023 - #1796 - ##43 - S7
+  ```
+
+##### #1797
+
+* Titel: `Let's Play ESO #1797 ##44 - Aivens Erinnerungen [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 44 des Firesong DLCs - Sitzung 7
+  
+  In die Erinnerungen anderer Leute einzutauchen wäre auf jeden Fall eine Erfahrung für die man gutes Geld bezahlen würde. Leider fürchte ich das die meisten Erinnerungen wesentlich ausgefranster sind als man meinen möchte. Wenn man sich erinnert ist es ja auch mehr ein Gefühl einer Situation, Bilder und Farben aber der größte Teil des Inhalts kommt eigentlich aus dem Jetzt. Einer der Gründe warum Zeugenaussagen immer ein wenig unzuverlässig sind. Man erinnert sich nicht wirklich an damals sondern an das letzte Mal das man sich erinnert hat. Oder so in der Art habe ich das einmal gelesen. Aiven hat wahrscheinlich Magie benutzt insofern können wir uns wohl darauf verlassen das die Dinge wirklich genau so geschehen sind und es sich nicht um eine Fabrikation handelt. Andererseits, woher sollten wir wissen das er sich nicht alles ausgedacht hat?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 05.05.2023 - #1797 - ##44 - S7
+  ```
+
+##### #1798
+
+* Titel: `Let's Play ESO #1798 ##45 - Orlaiths Ultimatum [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 45 des Firesong DLCs - Sitzung 7
+  
+  Nachdem die Großaktion mit dem Angriff auf Vastyr nicht so richtig geklappt hat scheint es so als würde unsere Gegenspielerin sich durchaus neue Taktiken ausdenken. ich bin allerdings ein wenig überrascht das die Gefangenen die das Grauenssegel gemacht hat einfach so den Feuersang-Druiden übergeben wurde. Wie dem aber auch sei, Erpressung ist auf jeden Fall eine nette Methode das zu bekommen was man will. Eventuell wäre das auch von Anfang an die wesentlich bessere Methode gewesen. Offensichtlich haben wir ja ein weiches Herz und sind leicht zu manipulieren, warum nicht direkt dort ansetzen? Ein kalter Taktiker hätte sich jetzt vielleicht aber auch überlegt ob es nicht besser wäre im Interesse aller Leute das Opfer zu bringen und die Entführten einfach über die Klinge springen zu lassen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 05.05.2023 - #1798 - ##45 - S7
+  ```
+
+##### #1799
+
+* Titel: `Let's Play ESO #1799 ##46 - das Meer ist aufgewühlt [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 46 des Firesong DLCs - Sitzung 7
+  
+  Heute treffen wir eine alte Bekannte wieder: Quen. Wir erinnern uns daran das wir einmal, vor ewiger Zeit, einer Hochelfin bei der Diebesgilde geholfen haben die die Spuren ihres Vaters gesucht hat. Die hat sie dann auch gefunden aber am Ende hat sie auch eine neue Familie bei der Diebesgilde ihr Eigen nennen können. Und das ist die Situation in der sie sich jetzt immer noch befindet. Wenn man als Dieb langfristig es zu etwas bringen will muss man wohl groß denken. Klar, eine schöne südliche Küstenstadt wieder und wieder auszurauben ist bestimmt ganz angenehm aber auf Dauer gibt es auch dort nur beschränkt Dinge abzuholen. Also erweitert die Diebesgilde scheinbar ihren Dunstkreis.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 09.05.2023 - #1799 - ##46 - S7
+  ```
+
+##### #1800
+
+* Titel: `Let's Play ESO #1800 ##47 - Ritual des Lebensbeginns [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 47 des Firesong DLCs - Sitzung 7
+  
+  Fruchtbarkeit ist in vielen Naturvölkern eine große Sache. Wahrscheinlich kann man darüber eine Menge Philosophieren und je mehr die Rolle einer Frau auf die Geburt beschränkt wird umso wichtiger wird wohl auch das Thema, aber auch für Männer ist es nicht ganz unwichtig besonders fruchtbar zu sein. Wenn dann die Gesellschaft ein wenig weiter entwickelt wird könnte es durchaus sein das es auch andere Gründe gibt die eher gegen die Gründung einer Familie sprechen. Vielleicht ist es auch so den Druiden von einst ergangen. Zwischen all dem Naturgeist anbeten und vorbereiten war vielleicht doch ein wenig wenig Zeit sich um die mundanen Dinge zu kümmern. Und daher ersann man etwas. Warum man direkt so künstlich in den Lauf der Natur eingreifen wollte ist mir zwar nicht klar aber ich finde es eh schon erstaunlich das es diese Nebenquest in ESO geschafft hat. Das Spiel ist immer hin ab 12, und hier haben wir ein Artefakt das die Leute so horny macht das sie sich nicht mehr gegenseitig umbringen, das ist schon was.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 09.05.2023 - #1800 - ##47 - S7
+  ```
+
+##### #1801
+
+* Titel: `Let's Play ESO #1801 ##48 - unbekanntes, aktiviertes Relikt [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 48 des Firesong DLCs - Sitzung 7
+  
+  Es ist immer eine gute Idee sich in die Nähe magischer Artefakte zu begeben. Dieses hier ist eigentlich besonders beeindruckend wenn man bedenkt das es von Bretonenhand geschaffen wurde und anscheinend in der Lage ist beliebige Wesen in seiner Nähe zu manipulieren. Wir wissen allerdings nicht ob es nicht vielleicht Einschränkungen gibt. Die Seefahrer der Maormer sind offensichtlich im besten Alter und außerdem Elfen die wahrscheinlich eh lange „jung“ sind. Ob das Artefakt auch in der Lage wäre Rentner oder gar minderjährige zu manipulieren ist zum Glück nicht weiter geklärt, klar ist aber das auch magiebegabte Personen eher nicht verschont bleiben. Wir können auf jeden Fall von Glück reden das der ursprüngliche Sinn des Artefakts erhalten blieb, man stelle sich vor es würde den Willen am Leben nehmen oder alle in einer blutrünstige Raserei verfallen lassen. Bei der Reichweite und Stärke wäre das definitiv ein gewaltiges Problem für Bevölkerungszentren.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 09.05.2023 - #1801 - ##48 - S7
+  ```
+
+##### #1802
+
+* Titel: `Let's Play ESO #1802 ##49 - Verflucht und Vernadelt [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 49 des Firesong DLCs - Sitzung 7
+  
+  Dafür das Galen nur die letzte Ecke der Welt ist und eigentlich von den Zentren der Macht so weit wie nur möglich entfernt ist bin ich doch ziemlich erstaunt wie viele mächtige, magische Artefakte wir hier finden. Im Gegensatz zu dem Ritual der Fruchtbarkeit bin ich hier aber nicht wirklich willens die Prämisse zu kaufen. Wir haben einen Gegenstand der mit einer so starken Magie verzaubert ist das er zwei Personen dauerhaft umformen kann, dabei geschieht der Effekt in einer sehr kontrollierten Art und Weise und der Auslöser hat tatsächlich auch einen Weg den Effekt rückgängig zu mache indem man die Steinplatte wieder repariert. Natürlich nicht einfach so sondern auf einer ganz besonderen Weise aber die ist glücklicherweise auch noch beschrieben. Das ist ein wenig weit hergeholt. Oder sollen wir glauben das die Macht der Druiden wirklich so groß ist. Warum steht dann Galen noch, ich hätte erwartet das der letzte Konflikt der Druiden dann bereits für die Vernichtung der Insel gesorgt hätte. So oder so haben unsere beiden Hobbydiebe Joslin und Octin jetzt ein echtes Problem.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 09.05.2023 - #1802 - ##49 - S7
+  ```
+
+##### #1803
+
+* Titel: `Let's Play ESO #1803 ##50 - Baum & Geist [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 50 des Firesong DLCs - Sitzung 8
+  
+  Dauerhafte Verwandlung ist eine außerordentlich schwierige Angelegenheit, zumindest auf Nirn. In verschiedenen Fantasy Settings gibt es immer wieder böse Hexen und Zauberer die mit Leichtigkeit Personen verwandeln, aber in der Regel kommt es zu Dingen wie dem morphologischen Eigenfeld oder der Eigenwahrnehmung die die Form bestimmt. Interessant wird es dann wenn man Magie hat die heilt und man sich fragt nach welcher Blaupause die Leute geheilt werden. Hier kann man dann entweder erklären das die Heiler göttliche Eingebung haben und für einen kurzen Moment mit völliger Klarheit sehen wie ein Körper beschaffen sein muss. Oder es gibt so etwas wie eine Gewohnheit zu der der Körper zurückkehrt. Interessant wird es dann wenn Leute fest daran glauben das sie im falschen Körper sind oder keine Beine haben sollten, bewirkt dann genügend starke Heilung eine völlige Veränderung? Wir können aber davon ausgehen das in dieser Welt eher die Richtung göttliche Eingebung eingeschlagen wird, große Meister haben lieber Illusion und eine Veränderung des Geistes genutzt um jemanden glauben zu lassen er sei eine Flasche. Quasi die Brechstangenmethode der Verwandlung. Man manipuliert Gewicht, Aussehen, Geist des Opfers und einige andere Parameter um die Illusion einer Verwandlung zu erreichen, aber letztendlich hat man es nicht wirklich physisch getan, damit umgeht man auch Probleme wie das bestimmte Körper einen menschlichen Geist nicht völlig halten können. Der Fluchtverwandlungszauber hat diese Eventualitäten aber sogar für die Übergangsphase bedacht, das ist irgendwie erstaunlich. Ich glaube aber das meine Seelenfallen-Transplantations Idee durchaus Erfolg haben könnte, es wäre bloß ein wenig unheilig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 09.05.2023 - #1803 - ##50 - S8
+  ```
+
+##### #1804
+
+* Titel: `Let's Play ESO #1804 ##51 - Wächter von Y'ffelon [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 51 des Firesong DLCs - Sitzung 8
+  
+  Es wird Zeit das wir uns wieder den wirklich wichtigen Dingen widmen, zum Beispiel der Tatsache das die verbleibende Erzdruidin Orlaith immer noch die aufrechten Bürger Vastyrs bedroht und das können wir ja nun wirklich nicht so stehen lassen. Wir machen uns also auf dafür zu sorgen das die Erzdruidin zu Fall gebracht wird. Dafür denken wir uns einen genialen Plan aus der involviert das der Naturgeist der kaum ein paar Monate alt ist eine raffinierte Finte durchführt und wir im genau richtigen Moment eingreifen um das Blatt zu wenden, ich kann mir nicht vorstellen was hier schief gehen könnte und daher legen wir einfach los. Sogar unsere Lieblingsmeerelfin macht mit.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 09.05.2023 - #1804 - ##51 - S8
+  ```
+
+##### #1805
+
+* Titel: `Let's Play ESO #1805 ##52 - Schlacht auf hoher See [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 52 des Firesong DLCs - Sitzung 8
+  
+  Eine Seeschlacht ist etwas das in der Theorie ziemlich spannend klingt aber in Spielen einfach nicht so richtig umzusetzen ist. Das liegt eventuell aber auch daran das es nur im Film so richtig gut aussieht und alle kleinen Teile eher bekannte Dinge sind die einfach nur einen maritimen Anstrich haben. Schwertkämpfe an Deck sind bestimmt spannend aber könnte man auch an Land machen. Von einer Balliste abgeschossen werden und bei lebendigen Leib zu verbrennen klingt auch maximal spannend. Im größeren Sinne die Schiffe gegeneinander fahren zu sehen klingt auch spannend aber wenn man mitten drin steht ist es eher mäßig. Kurzum, ich hätte Seeschlachten eher auf Sea of Thieves oder Blackwake beschränken.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 09.05.2023 - #1805 - ##52 - S8
+  ```
+
+##### #1806
+
+* Titel: `Let's Play ESO #1806 ##53 - Erzdruidin Orlaith [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 53 des Firesong DLCs - Sitzung 8
+  
+  Und da sind wir auch schon, im Herzen des Vulkans, der Zentrale der Feuersangdruiden die uns so viel Kummer bereitet haben. Es wirkt ein wenig seltsam das wir so leicht bis hier her vorgedrungen sind. Handelt es sich nicht um den heiligsten aller Orte der Druiden von Hoch Insel? Macht sich der andauernde Personalverlust durch unsere wiederholten Blutbade doch noch bemerkbar und wir haben jetzt ein leichteres Spiel weil wir uns wieder und wieder durch Horden von Druiden geschlagen haben? Allerdings stellt sich dann auch ein wenig die Frage warum es überhaupt so viele Feuersangdruiden gab. Die wohnen schließlich auf einer Vulkaninsel, wie genau werden die ganzen Münder ernährt und ist es nicht irgendwie ungesund eines großes Vulkans zu leben, allein die Schwefelbelastung kann nicht so gesund sein oder? Und wenn all diese Druiden gebraucht werden, wer genau kümmert sich um den Vulkan jetzt da wir uns durch die letzten Truppen geschlagen haben?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 09.05.2023 - #1806 - ##53 - S8
+  ```
+
 ##### #Nummer
 
 * Titel: ``

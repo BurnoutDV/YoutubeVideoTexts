@@ -390,3 +390,18 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO9p5x7MgcDFR05gYPDQr
   Sitzung 3, Aufnahme vom 08.05.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO9p5x7MgcDFR05gYPDQrAo
   ```
+
+##### #26
+
+* Titel: `Horizon:FW Burning Shores - #26 - ein Freund im Dunkeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab da eine Sache übersehen! Es gibt doch glatt noch eine Nebenmission und das bei dem allgemeinen Mangel an Solchen in diesem DLC. Damit ist dann aber übrigens auch vorbei, es sind exakt 3 Nebenmissionen die es überhaupt gibt und das hier ist dann wohl die Dritte. Aber hey, beinahe hätte ich sie übersehen, quasi ein Viertel des DLCs einfach vergessen. Eventuell ein Fünftel wenn man die eine Brutstätte die wir zwischenzeitlich fanden noch mitzählt. Diese Mission hat übrigens alles. Eine Geschichte der alten Welt, ein wenig Sprache aus den letzen Tagen und auch moderne Inhalte die Aloy mit der Welt verbinden. Und sogar einen emotionalen Moment am Ende. Ich bin wahrlich beeindruckt wie hier wirklich einfach alles zusammen kommt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 19.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO9p5x7MgcDFR05gYPDQrAo
+  ```

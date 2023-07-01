@@ -108,6 +108,139 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
+##### #8
+
+* Titel: `God of War - #8 - Hain der Zuflucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein kleiner Teil von mir sehnt sich danach im Wald zu leben, sich der Einsamkeit hinzugeben und einfach nur im Wald zu sein. Das ist ungefähr so lange idylisch wie es nicht regnet, nicht Sommer ist oder anders ungemütlich. Netto sind das so drei Tage im Jahr. Die restliche Zeit ist man konstant damit beschäftigt Ameisen abzuwehren, nass zu sein oder zu frieren. Leben im Wald ist wirklich kein Spaß und es hat wohl seinen Grund warum Menschen dazu neigen als Erstes alle mögliche Natur zu töten. Die Waldhexe ist ziemlich sicher kein Mensch. Zum jetzigen Zeitpunkt (also während ich das hier schreibe) habe ich noch keine Ahnung ob der Identität. Meine Lektionen nordische Mythologie sind ein Weilchen her und damit will ich sagen haben nie stattgefunden. Ins Blau vermutet würde ich aber sagen das wir es hier mit einer der Wanen zu tun haben, die anderen Götter die halt nicht in Asgard wohnen. In der Regel sind das etwas Götter die der Natur nahe stehen, man kennt unter Anderem Freyr und Freya. Weiter wird noch erwähnt das sie anscheinend Geschwisterheirat okay finden. Warum auch immer das explizit erwähnt wird. Der Geschichtenerzähle Kvasir ist anscheinend auch ein Wane, ich hatte mir den immer als eine Art Zwerg vorgestellt. Wie dem aber auch sei. Frau Waldhexe ist entweder irgendeine Wane die ich nicht kenne oder eine bekannte Person wie Freya in Verkleidung. Allerdings hat die blondes Haar und hängt irgendwie mit Thor im Bunde. Aber so wie die Dinge hier laufen könnte durchaus etwas im Argen liegen mit der Beziehung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 2, Aufnahme vom 22.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #9Titel: `God of War - #9 - der See der Neun [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist ein guter Tag, wir treffen nämlich ein super süßes Reptil. Es hätte nur noch süßer sein können wenn es eine Fell hätte. Allerdings kombiniert sich das nicht so gut mit dem Leben am Wasser. Kratos ist wie immer nur minimal begeistert aber Atreus kann zumindest ein wenig Begeisterung aufbringen. Leider scheitert es ein wenig an der Kommunikation mit dem Tier aber sie scheint offensichtlich intelligent und man könnte sogar sagen das sie uns hilft. Was sie offen legt ist anscheinend der See der Neun. Das steht glücklicherweise dran und später erzählt uns auch jemand wie der Ort heißt, das macht es leichter ihn später zu referenzieren. Es dauert übrigens ärgerlich lange bis ich raffe das sich die Neun hier auf die Neun auf die Neun Welten von Yggdrasil beziehen. Ihr wisst schon, die anderen Regionen. Wir befinden uns aktuell in Midgard aber irgendwie kann man bestimmt umher reisen. Alles Weitere wird später noch erklärt also gehe ich darauf nicht weiter ein, meine Erklärung wäre eh unvollständig. Es ist ja nicht gesagt das die Spiellogik und Geschichte auch der tatsächlichen Mythologie folgt. Insbesondere wenn die nordische Geschichte stark durch christliche Missionare verseucht wurde. Und das ist ganz davon abgesehen das es eine mündliche Überlieferung war, die sind in der Regel schon nicht so genau. Das Wasser sieht übrigens dezent kalt aus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 2, Aufnahme vom 22.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #10
+
+* Titel: `God of War - #10 - Geister der See [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind technisch gesehen immer noch in Midgard, wir finden zwar Spuren von Magie aber so richtig klar ist ja sowieso nicht wo wir eigentlich geografisch sind. Prinzipiell könnten wir auch in einer Zeit vor der Zeit sein. Wenn man unbedingt dieses Universum in Unseres einbauen will könnte man sogar behaupten das unser modernes Zeitalter eigentlich erst nach dem Ragnarök der Götter angefangen hat zu existieren und wir quasi auf den Trümmern der Welt von einst wohnen. Das würde auch erklären warum es erstaunlich wenig Midgardschlange in dieser Welt gibt und die Welt eine Kugel ist. Auch Geister vermisst man in dieser Welt erheblich was wohl daran liegt das die Toten nicht mehr nach Asgard aufsteigen, könnten. Wahrscheinlich ist die gesamte Magie einfach kaputt. Hier funktioniert sie noch und außerdem gibt es eine Nebenquest, und wenn ich eines liebe dann sind es Nebenquests.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 2, Aufnahme vom 22.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #11
+
+* Titel: `God of War - #11 - Vanaheim-Turm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir reisen heute nicht nach Vanaheim, zwischendurch nehme ich sogar an das wir uns bereits in Vanaheim befinden nur weil wir dem Turm betreten aber anscheinend funktioniert das Ganze nicht so wie ich mir das vorstelle. Kurzum, ich dachte der See der Neun liegt nicht wirklich in Midgard sondern in irgendeiner transdimensionalen Kreuzung und wenn wir uns physisch in eine Richtung begeben kommen wir halt woanders raus. Stattdessen sind die Türme wohl eher symbolisch bzw. funktionieren eher als Leuchtturm Schrägstrich Signalgeber. Die eigentlichen Welten liegen in Superposition zueinander und sind wohl für normale Sterbliche eher nicht zugänglich. Ich bin mir recht sicher das Kratos irgendwie Löcher in der Realität schaffen könnte um einen Weg zu bahnen aber das wäre bestimmt nicht gut für die strukturelle Integrität der Realität. Kurzum, der Berg zu dem wir hinwollen ist tatsächlich in Midgard aber um da hinzukommen müssen wir durch einen Tunnel dessen Eingang zufällig halt auch der Vanaheim Turm ist. Klar soweit?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 2, Aufnahme vom 22.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #12
+
+* Titel: `God of War - #12 - Vorland [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vorland ist ein wunderschöner Gummibegriff. Erst unlängst habe ich mich über ungenaue Formulierungen die nur aus einem Wort bestehen aufregt. Entweder ist der Kontextrahmen sehr lokal so das das Wort nur eine Sache meinen kann oder der Begriff selbst ist absolut spezifisch bzw. dramatisch und funktioniert daher. Das ist hier alles nicht der Fall, ich hab mir den Namen allerdings nicht ausgedacht, das ist einfach was auf dem Bildschirm steht und daher nehme ich den Begriff einfach so wie er ist. Interessanterweise wird es damit dann doch zu einem Wort das durch seine Lokalität wieder an Bedeutung gewinnt. Gemeint ist hier anscheinend das Vorland das wir hinter dem Vanaheim Turm finden. Es handelt sich um den direkten Bereich vor dem höchsten Berg der Welt. Mir ist übrigens absolut nicht klar was damit gemeint ist. Spontan wäre mir auch nicht bekannt das die nordische Mythologie überhaupt besondere Berge hat. In Schweden oder Norwegen finden sich jetzt nicht direkt herausstechende Berge die mir spontan einfallen, und Dänemark ist definitiv raus. Oder ist das ganze metaphorischer gemeint?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 2, Aufnahme vom 22.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #13
+
+* Titel: `God of War - #13 - Odin's schwarzer Atem [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir befinden uns, soweit ich das ersehen kann, immer noch mitten im Reich der nordischen Mythologie. Wie genau die Welten funktionieren vermag ich leider nicht zu sagen aber ich stelle sie mir wie abgeschlossene Kugeln, sagen wir mal wie eine Schneekugel vor die man nur sehr schwer verlassen oder betreten kann. Diese Kugeln enthalten gewissermaßen ein Universum, nicht eine Landmasse, es handelt sich schließlich um eine fünfdimensionale Kugel. Man kann ewig darin herumrennen und wird keine Grenze finden. Bzw. irgendwie doch, weil zumindest Midgard hat einen Weltenrand und ich nehme einmal stark an das auch die anderen Reiche irgendwann einfach aufhören. Und nein, man kommt eher nicht nach Asgard in dem man in Vanaheim von der Kante segelt. Das die nordischen Götter irgendwie ein wenig weniger absolute Götter sind als es bei den Christen der Fall ist ist bestimmt schon aufgefallen. Dennoch hat ein gewisse Odin wohl größtenteils das Sagen, deswegen ist es wohl auch so das er uns einfach den Weg versperren kann. Allmächtig und insbesondere allwissend ist er aber nicht, sonst hätte er nicht Baldur vor schicken müssen, oder seine Rabenbrigade. Aber er steht uns im Weg, mit Atem. Das stört. Jetzt müssen wir einen Umweg nehmen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 2, Aufnahme vom 22.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #14
+
+* Titel: `God of War - #14 - Ankunft in Alfheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schaut wer es ist, wir finden die mysteriöse Waldhexe wieder. Nebenher erwähnt sich noch das sie eventuell vielleicht nicht direkt ein Mensch ist und vielleicht auch entfernt etwas mit den Göttern dieser Welt zu tun hat. Das setzt ihre Identität und die des Schweines wahrscheinlich ordentlich in Perspektive und wenn man jetzt wüsste welcher nordische Gott sich in Tiere verwandeln kann bzw. insbesondere Wildschweine wären wir bestimmt ein Schritt weiter. Ich weiß es leider nicht und kann jetzt maximal Freya und Freyr in den Raum werfen aber die Hexe hat erwähnt das das besondere Wildschwein aus einer anderen Welt stammt und könnte damit einen Ort außerhalb der Schneekugel meinen. Wir erfahren heute außerdem warum ich vorher gesagt habe das die Schneekugeln fünf-dimensional sind und nicht die vierte „Raumdimension“ ausmachen. Der Raum ist bereits in Benutzung, durch die verschiedenen Welten von Yggdrasil, die liegen nämlich in Superposition. Daher auch kein einfaches Reisen in das Reich der Zwerge oder Ähnliches. Allerdings könnten die Schneekugeln auch einfach an einem anderen Ort innerhalb der vierdimensionalen Schneekugeln liegen. Das ganze Gerede von Dimensionen ist übrigens nicht absolut. An sich ist das rein von der Vorstellung eine zusätzliche Existenzebene die sich überlagert, wie Stockwerke eines Gebäudes. Heute wechseln wir die Etage, nach Albheim. Übrigens ist nicht gesagt das die Ebenen der nordischen Mythologie nur eine Dimension sind, es könnte durchaus sein das unser „Fahrstuhl“ nur laterale Bewegungen erlaubt, die Welt aber mehr Dimensionen hat, und sich dort halt die Welt der Griechen usw. versteckt. Lange Geschichte kurz, wir reisen und die Hexe darf nicht mit weil Odin es so gesagt hat. Oder jemand Anderes, aber Odin ist schon einmal ganz vorne in der Liste.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 2, Aufnahme vom 22.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #15
+
+* Titel: `God of War - #15 - redundantes Backtracking [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist genug von dem komischen Gequatsche über Dimensionen, Fahrstühlen und Schneekugeln. Wir sind jetzt in Albheim, wir wollen das Licht um Odin’s Atem weg zu kriegen und sonst zählt nichts für unsere Mission. Daher ist es auch nicht verwunderlich das wir uns überhaupt nicht ablenken lassen, vergessen das wir das eine Steindings nicht zu Ende gedreht haben oder irgendeine der anderen Dinge. Stattdessen gucken wir uns an was es noch so Schönes zu finden gibt. An sich übrigens nicht viel, es gibt da quasi zwei Seiten neben dem Eingang in dem wir hineingefahren sind und darin finden wir halt wieder irgendwelche Rätsel von denen ich mir aber nicht sicher bin ob ich sie Lösen kann. Ich könnte übrigens aber verstehe das am Anfang nicht, daher werden wir später noch einmal zurück kehren. Immerhin gibt es noch ein wenig Vater-Sohn-Dialog.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 3, Aufnahme vom 29.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #16
+
+* Titel: `God of War - #16 - Ringtempel-Graben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  „Wirklich in den Graben?“, dies ist ein Zitat von einem etwas älteren Spiel und du kriegst ein Bienchen wenn du errätst welches das war. Eventuell war für mich auch einfach nur die deutsche Synchronisation ikonisch bzw. prägend. Wer vermag das schon am Ende noch zu sagen? Tatsächlich kriege ich heute meinen Unsinn zusammen und wir gehen dann doch mal die Geschichte mit dem Licht von Alfheim und dem Bifröst an, kann ja auch nicht sein das wir ewig nach Schätzen suchen. Dazu muss ich aber noch sagen das ich eigentlich all die Rätsel die ich in der letzten Episode nicht geschafft habe durchaus hätte machen können, ich habe bloß nicht richtig hingeschaut bzw. mir war halt einfach nicht bewusst worauf es ankommt. Dazu später mehr. Für den Moment ist erst einmal nur wichtig das die Dunkelalben uns nicht so richtig mögen und uns erbitterten Widerstand leisten. Das ist zwar gut und schön aber am Ende wäre es vielleicht einfach klüger gewesen uns machen zu lassen und nachdem wir weg sind wieder alles einzunehmen. Aber was weiß ich schon von Alben-Kriegstaktik.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 3, Aufnahme vom 29.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -257,6 +257,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
+##### #18
+
+* Titel: `Jedi Survivor - #18 - Basaltwald [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Etwas direkt einen Wald zu nennen nur weil es ein paar Pflanzen gibt halte ich für ein wenig übertrieben. Schlimmer wäre es nur wenn der Name dadurch zu Stande kommt weil es halt Basaltsäulen sind die eine Art Wald ausmachen. Um ehrlich zu sein sehen diese nämlich nicht so als wären sie jemals echte Bäume gewesen. Davon einmal aber abgesehen funktioniert die Geologie meines Wissens sowieso so nicht. Immerhin gibt es ein wenig Abwechslung auch wenn du komischen dicken Viecher immer noch hier sind. An sich sollten wir wohl dankbar sein da sie doch recht leicht besiegbar sind und gar nicht so wenig Erfahrung bringen. Wenn ich irgendeinen Gegner abfarmen würde, dann wären das diese.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 27.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #19
+
+* Titel: `Jedi Survivor - #19 - Kammer der Vernunft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend war zur Zeit der hohen Republik Koboh eine Meditations und Ausbildungswelt. Dieser Zustand hat definitiv früher aufgehört als es die alte Republik getan hat. So richtig klar ist allerdings nicht warum. Offensichtlich gibt es hier einige Anlagen die von einem relativ hohen technischen Standard sprechen und das bedeutet auch das es hier Einiges zu holen gibt. Alleine die Schwebebrücken scheinen mir doch recht fortschrittlich und man fragt sich warum in den letzten zweihundert oder so Jahren niemand hier vorbei kam. Insbesondere wenn es ja durchaus Jedi gibt die schon ein wenig länger dabei ist. Zwar spricht sich die Macht bzw. die weißen Jedi dagegen aus das Leben künstlich zu verlängern (behaupte ich mal) aber sie scheint dessen ja auch zuträglich zu sein. Warum also war noch nie jemand hier? Oder war das hier der Lonly-Galaxy Geheimtipp für angehende Jedi-Meister und Cal hat nur noch nie was davon gehört?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 27.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #20
+
+* Titel: `Jedi Survivor - #20 - Waldanlage [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Zeit der hohen Republik ist anscheinend doch gar nicht so lange her. Ich hatte das erst irgendwie ein wenig mit der alten Republik durcheinander gebracht die technisch übrigens auch nicht weiter oder zurück war. Die Technik im Star Wars Universum hat scheinbar ein Plateau erreicht das nur gelegentlich von irgendwelchen uralten Zivilisationen überragt wird die dann auch direkt die Galaxie mit ihren automatischen Fertigungsstraßen überrollen. Aber zum Glück war das Ding durch die Macht betrieben und nicht so einfach zu betreiben. Also, jetzt die definitive Aussage, die hohe Republik war die Höchstphase die von -100 bis -500 vor der Skywalker Zeit lag und anscheinend hat man sich da die äußeren Galaxie Gegenden angeschaut bis Dinge geschahen und deswegen findet man jetzt da niemanden mehr. Bis die Leute kein Bock mehr aufs Imperium hatten und doch wieder her kamen. Die Waldanlage ist anscheinend einer der typischen Stile aus der Zeit. Den ewig langen Artikel habe ich mir jetzt allerdings nicht durchgelesen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 27.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #21
+
+* Titel: `Jedi Survivor - #21 - Dagan Gera [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe übrigens mittlerweile ein wenig mehr nachgelesen und herausgefunden das die Hohe Republik anscheinend ein relativ neues Thema ist, das erklärt meine Verwirrung. Dafür das es eigentlich gar nicht so lange her ist sieht das Zeug übrigens doch schon ganz schön kaputt aus. Wie dem aber auch sei, Bacta tauchte das letzte Mal in den Republic Commando Spielen für mich auf aber ich glaube es wurde auch in allen Battlefront Teilen erwähnt. Soweit ich das verstanden habe packt man Leute einfach in Tanks von den Zeug und dann werden die schon wieder irgendwie heilig. Ich gehe stark davon aus das man damit keine Gliedmaßen nachwachsen lassen kann, ginge das hätte Anikan keine mechanischen Teile anbauen müssen. Übrigens auch interessant, die künstliche Hand die Luke und Anikan am Ende haben, ist die stärker als eine biologische Hand? Wenn ja, gibt es Transhumanisten bzw. Trans-Aliens im Star Wars Universum die sich Stück für Stück in mechanische Teile auflösen á la W40K Techpriester? Ich gehe übrigens stark davon aus das wir Dagan Gera auch mit einem mechanischen Arm sehen werden wenn wir ihn wieder treffen. Heute treffen wir ihn zum ersten Mal, aber irgendwie scheint er ein wenig sauer auf die Welt zu sein. Das ist ein wiederholendes Thema mit Jedi: Der Rat entscheidet irgendetwas und die Leute sind dann sauer ob der Entscheidung weil sie nicht nachvollziehbar ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 3, Aufnahme vom 27.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #22
+
+* Titel: `Jedi Survivor - #22 - der falsche Weg zurück [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit der Orientierung ist es manchmal nicht einfach. Ich bin allerdings selber schuld. Habe ich doch selbst die ganzen Hinweise für Rätsel deaktiviert weil ich das unkompromittierten Spielerlebnisse der frühen 2000er haben wollte. Eventuell nicht immer die beste Idee. Aber die Alternative ist halt auch das Aloy mir alle 20 Sekunden erzählt was die Lösung ist, und das wäre in diesem Spiel ein wenig seltsam oder? Wenn irgendwelche rothaarigen Weltenretter plötzlich von der Seite reinquatschen oder? Auf der Haben-Seite finde ich tatsächlich noch ein paar Kisten die ich beim ersten Durchlauf tatsächlich übersehen habe. So richtig etwas bringen tut mir das allerdings auch nicht weil es sich nur um kosmetische Gegenstände handelt. Ich bin übrigens was das angeht ein wenig zwiegespalten. Auf der einen Seite ist es schön das es etwas zu entdecken und zu vervollständigen gibt, aber der anderen Seite fühlt es sich auch nicht so wirklich gut an wenn es nur ein paar Farbschemata sind. Vielleicht sollte ich aber auch dankbar sein das es sich hier nicht um DLC-Inhalte handelt. Am liebsten würde ich Geschichte finden, Dinge die die Welt mehr mit Liebe und Tiefe fühlen, aber das ist dann wohl das Star Wars Universum, flach wie ein Pfütze, weit wie das Meer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 04.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

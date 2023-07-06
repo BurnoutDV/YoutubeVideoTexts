@@ -241,6 +241,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
+##### #17
+
+* Titel: `God of War - #17 - der Ringtempel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mir in der Zwischenzeit übrigens eine Zusammenfassung von der Handlung der bisherigen Teile angeschaut, also quasi dem Quasi-Vorgänger. Es stellt sich heraus das es allgemein keine gute Idee ist Kratos in einen Tempel zu lassen. Historisch hat das ziemlich schlecht für alle Beteiligten geendet und ich verstehe nicht so ganz wer jemals daran gedacht hat hier Widerstand zu leisten, eventuell sind die Dunkelalben auch einfach schlecht informiert wer Kratos eigentlich genau ist. So oder so ist es das hier ja ein anderer Pantheon und so können wir vielleicht noch die ein oder andere Person überraschen. Zumindest sind wir aber jetzt ersteinmal da und kommen damit dem Licht der Alben näher um unseren guten alten Bifröst aufzuladen. Ich ahne übrigens das wir uns wohl früher oder später Odin direkt entgegenstellen müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 3, Aufnahme vom 29.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #18
+
+* Titel: `God of War - #18 - das Licht von Alfheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da wir uns jetzt in einer anderen Realität bzw. Welt befinden ist es nicht ganz unwahrscheinlich das die Regeln des Sterbens hier auch ein wenig anders funktionieren. Soweit ich das mit bekommen habe ist der originale Kratos einige Male gestorben, ungefähr dreimal. Zwischenzeitlich hat er auch an den Fäden der Zeit gezogen und ein wenig das Gewebe des Schicksals umgebaut, ein Trick den man eigentlich ziemlich oft machen könnte wenn man nun wirklich wollte. In der griechischen Mythologie ist es durchaus möglich Leute von den Toten zurück zu bringen. Oder vielleicht auch nicht, alle Fälle von denen ich weiß liefen darauf hinaus das die Person es am Ende dann doch nicht geschafft hat was irgendwie dafür spricht das es vielleicht doch nicht in den Fähigkeiten der Götter liegt und sie nur die Illusion erzeugen das sie es könne und dann im letzten Moment Tricks spielen. In der nordischen Mythologie ist die Wiederauferstehung eigentlich schon fest eingeplant und der Bereich zwischen Leben und Tot eher fließend. Aber so gesehen gibt es auch kein echtes Konzept für eine Seele? Kwasir (ein Wanengott) wurde ja auch einfach erschlagen und zu  Met verarbeitet. Der Effekt der Poesie blieb da, aber die Person war anscheinend danach weg. Alles ein wenig komisch. Aber so wie ich das verstanden habe gehen die Bewusstseine in das Licht von Alfheim. Wie lange sie da bleiben bis sie wieder verwendet werden oder ob sie wieder verwendet werden ist mir nicht so richtig klar. Fest steht aber das man wohl erst einmal rein gehen kann. Fragt sich nur noch ob man etwas raus bringen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 3, Aufnahme vom 29.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #19
+
+* Titel: `God of War - #19 - Pubertätsbegin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit unserem kleinen Trip in das Licht von Alfheim haben wir anscheinend etwas ausgelöst. Sohn hat auf einmal Laune und wird aufmüpfig. Ich kann dazu übrigens absolut keine Erfahrung beisteuern. Ich selbst war meinen Eltern gegenüber so halbwegs aufmüpfig aber an sich gab es nicht besonders viel gegen das ich mich auflehnen musste. Insofern ist das vielleicht eher ein Phänomen konservativer Eltern die sehr strikte Regeln haben die aus einem der Gemütlichkeit entstandenen Status Quo hervorgehen? (was ein Satz). Was ich sagen will, wenn die Eltern mehr Kette geben hat man weniger Stress. Oder so. Keine Ahnung. Sohn nervt jetzt auf jeden Fall ganz schön rum und klingt so als würde er sich ein paar saftige Wochen Hausarrest einhandeln, leider brauchen wir ihn wohl noch eine Weile daher ist das grade keine Option. Aber wir kommen darauf zurück. Immerhin zeigt Kratos ein paar Gefühle.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 3, Aufnahme vom 29.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #20
+
+* Titel: `God of War - #20 - Schätze im Licht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Licht von Alfheim blüht wieder, jetzt müssen wir nur noch zurücklaufen und mit dem Bifröst bewaffnet zum schwarzen Atem von Odin laufen und schon können wir die Asche von Mutti im Winde zerstreuen. Ich frage mich übrigens was wohl passiert wäre wenn das mit der Wiederbelebung durch Alfheim Licht funktioniert hätte? Zum einen, wir wissen nicht woran sie gestorben ist? Eine Krankheit oder etwas Erbliches? Wenn man Leute zurückbringt würde ich behaupten erhält man sie in einem idealen Zustand zurück, allerdings würde das bei Erberkrankungen ja auch nichts bringen oder? Da ist das Problem ja eher in den Genen und ich bezweifle das das Licht da helfen kann. Das schreit nach Experimenten, ärgerlicherweise sehen die meisten Weltregionen und Tempelhüter so etwas als Blasphemie an und Kratos scheint mir auch nicht der größte Wissenschaftler zu sein. Schade eigentlich. Zurück zum Thema, dadurch das jetzt Licht an ist kommen wir an ein paar Kisten heran die vorher zu waren und können unsere Hacksilber Vorräte aufstocken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 3, Aufnahme vom 29.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #21
+
+* Titel: `God of War - #21 - der Mittelpunkt der Welten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß das sehr zu schätzen wenn Namen beschreibend sind. Zum Beispiel ist Midgard in der Mitte aller Welten. Das macht es also sehr leicht zu lokalisieren. Außerdem ist es die Welt der Sterblichen. Das bringt uns übrigens zu einer gewissen Hexe zurück. Ist ihr Fluch vielleicht das sie unter den Sterblichen leben muss? Ich bezweifle übrigens das wir hier gute Erklärung mit physischer Ausbreitung und der Geschichte der Vorgänger finden werden. In den alten GoW Spielen hat Kratos ja den Pantheon zu Fall gebracht und die griechischen Götter (zusammen mit den Titanen) größtenteils aus der Welt getilgt. Nur Athena in Geistform kam wohl davon. Dann hat er das Übel und die Hoffnung in die Welt gelassen (dazu auch die Frage, wenn das Übel in der Kiste war, was genau hat dann der Krieg dargestellt den er geführt hat, fällt das nicht unter Übel?). Er hat also die Macht Zeus (und aller Götter?) den Menschen gegeben. Das waren aber die Menschen von Griechenland und offensichtlich ist eine Welt nicht ganz so riesig wie es ursprünglich klingt. Meine aktuelle Theorie ist Parallelwelten. Wie dem aber auch sei, wir sind zurück, könnten die Hexe besuchen oder uns um Nebenmissionen kümmern. Oder aber wir gehen unserer eigentlichen Mission nach und beerdigen endlich Kratos Frau. Wie auch immer er überhaupt Faye kennen gelernt hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 3, Aufnahme vom 29.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
 ##### #Nummer
 
 * Titel: ``

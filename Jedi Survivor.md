@@ -332,6 +332,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
+##### #23
+
+* Titel: `Jedi Survivor - #23 - Nekko [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nekko ist übrigens ein Reittier und keine schlecht geschriebene japanische Katze. Ich weiß nicht so richtig warum Cal Cestis jetzt zur Disney-Prinzessin wird aber anscheinend ist das jetzt die Richtung in der wir gehen. Zu erst haben wir uns irgendwelche Flugviecher geschnappt und jetzt reiten wir auch noch. Klar, mit der Macht kann Cal niedere Wesen versklaven und für seine Zwecke nutzen, das ist ganz natürlich für einen dunklen Magier seines Levels. Aber es fühlt sich irgendwie komisch an das jeder zweitere Sturmtruppler ein Jetpack mit sich herumschleppt und es definitiv auch kleine kompakte Fahrzeuge gibt und wir dennoch darauf vertrauen das die lokale Fauna grade bereit ist uns durch die Gegend zu kutschieren. Generell ist es von einer spielerischen Perspektive auch irgendwie seltsam wenn man für bestimmte Rätsel erst einmal ein Reittier suchen muss. Weil es ist ja nicht so das wir das Vieh jetzt immer zur Hand haben. Nein nein, wir müssen es zu erst finden. Nicht die größte Hürde aber auch irgendwie weird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 04.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #24
+
+* Titel: `Jedi Survivor - #24 - Greezie-peasy [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erlaube mir heute ein schlechtes Wortspiel weil eigentlich nicht wirklich viel passiert. Wir sind zurück in der Basis und reden mit den ganzen Leuten die sich an der Bar aufhalten. Hier gibt es eine erstaunliche Menge an Dialog die die Spielwelt auch nicht so wirklich reicher macht. Das ist alles ein wenig seltsam. Um hier ein wenig aus zu schweifen. Ich habe das Gefühl das ich nicht so richtig Spaß habe. Normalerweise ist die große Stärke von Spielen ja das man anders als in einem Buch die Welt mit wesentlich mehr Inhalt füllen kann. Ein Film oder eine Serie folgt einer Geschichte kann aber im Hintergrund kleine Easter Eggs oder auch Andeutungen verstecken. Klug gewählte Winkel bereiten die Möglichkeit für spätere Wendungen vor. In Büchern ist die Wortwahl wichtig aber ein Autor kann nie zu beschreibend werden. Anders in Spielen. All die Mühe die sich ein Schreiberling macht um die Welt aus zu bauen, all das kann man mindestens noch in einem Codex bzw. Wiki ablegen und als optionale Inhalte packen. Zum Beispiel in den Dialogen von Nebencharakteren oder halt in einer Bar. Aber wenn wir hier mit Leuten reden kommt es mir so vor als würden sie nur Nonsens reden. Die Erwähnung irgendwelcher andorianischer Scabraten ist irgendwie sinnlos wenn ich genau weiß das das keinerlei Rolle spielt. Der Name könnte auch aus einer Scrabble Runde für Legastheniker kommen. Es fühlt sich wie ein potemkisches Dorf an, als würden wir eher an den Rändern der Illusion rütteln anstatt die Hintergründe zu erkunden. Die Welt kommt mehr leerer anstatt voller vor wenn ich mit den Leuten in der Cantina rede.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 04.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #25
+
+* Titel: `Jedi Survivor - #25 - Bargespräche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte das ich die letzte Episode nach einem Pun benannt habe weil diese hier so heißt wie die letzte auch hätte heißen müssen? Ja? Gut. Also, wir reden mit diversen Leuten und gucken uns die Möglichkeiten an die uns die Cantina zu bieten hat. Es gibt hier einen Garten inklusive eines eigenen Minispiels. Kleine Vorhersage für den Moment, die Cantina wird irgendwann im Lategame gesprengt und all das dient nur dazu damit wir eine emotionale Bindung zu unserem „zuhause“ aufbauen können. Und damit bringen wir dann Cal die letzte Lektion der Revolution bei, der Freiheitskämpfer hat keinen sicheren Hafen, keine Heimat und kein Zuhause bis die Revolution durchgeführt wurde. Deswegen kämpft er unermüdlich, damit man eines Tages einen Ort Zuhause nennen kann. Naja, ansonsten finden wir noch heraus das Zee tatsächlich sinnvolles Zeug verkauft und das wir wohl Fische sammeln gehen müssen. Das wiederum bedeutet wohl das ich in nächster Zeit mal wieder tauchen gehe. Lustigerweise ist unser nächster Stop ein Wüstenplanet (ja, wie immer in Star Wars, ein Planet = ein Biom), da werden wohl also nicht so erfolgreich sein. Aber keine Angst, bis jetzt hat uns noch jedes Star Wars Spiel nach Kashyyyk geführt, da gibt es Wasser, ich bin mir sicher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 04.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

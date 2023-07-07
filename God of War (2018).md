@@ -316,6 +316,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
+##### #22
+
+* Titel: `God of War - #22 - Fafnirs Schatzkammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich tue heute etwas untypisches. Ich lese nach bevor ich die Episodenbeschreibung schreibe und nicht mitten drin. Also, meiner Erinnerung nach war Fafnir bzw. Fáfnir ein Drache und das stimmt auch so weit, aber es handelte sich wohl ursprünglich um einen Zwerg der dann zum Drachen aus Gier wurde. Eventuell war irgendwie Loki, ein als Otter verwandelter Bruder und Wehrgeld involviert. Die Geschichte erläutere ich jetzt nicht weiter. Auf jeden Fall war der gute Fafnir schon vorher gierig, dafür muss man anscheinend kein Drache sein. Von einem Wetzstein lese ich nichts aber der gute Zwerg/Drache hatte durchaus einige Schätze. Eine kleine interessante Sache an der Stelle aber übrigens, Sindri erwähnt das er Fafnir seit mehr als 100 Winter nicht gesehen hat und ein anderer Charakter erwähnt das er seit 109 Winter in dem Zustand ist in dem er ist. Ich kann mich jetzt spontan nicht genau erinnern aber ich glaube ein ähnlicher Zeitraum wurde bereits mehrfach an anderer Stelle erwähnt. Wenn es hier irgendeine Konsistenz gibt und das nicht einfach nur das Äquivalent von „viele Jahre sind vergangen“ ist, dann war vor 109 Jahren irgendetwas. Bzw. Winter. Wer weiß schon wie Zeit genau in Midgard vergeht. Die Schatzkammer selbst ist übrigens eine ziemliche Enttäuschung. Ich frage mich wirklich was die Plünderer eigentlich mit dem Gold machen. Die einzigen Händler die wir kennen nehmen eher Silber.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 3, Aufnahme vom 29.06.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #23
+
+* Titel: `God of War - #23 - Wald-Vergessener [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist auf jeden Fall eine sehr gute Idee einen schwereren Gegner anzugreifen wenn man grade eine neue Sitzung anfängt. Ich erwähne das ja öfter, ich spiele in der Regel drei Stunden jeden Donnerstag. Das bedeutet auch das immer eine Woche zwischen die Sitzungen liegt, was wiederum dazu führt das ich mich in der neuen Woche nicht mehr genau an alle Feinheiten der Steuerung erinnern kann. Das wiederum ist manchmal ein wenig von Nachteil. Zum Beispiel wenn man eigentlich alle Feinheiten und Tiefen der eigenen Fähigkeiten braucht. Heute kämpfen wir dann ein paar Runden zu viel gegen einen Wald-Vergessenen. Unter Anderem auch weil ich meinem Schild viel zu wenig zutraue und stattdessen lieber mit dem eisenharten Gesicht von Kratos tanke. Am Ende bauen wir dann noch ein wenig Ausrüstung hin und her. Inhaltlich nicht die Stärkste Folge. Solltest du das hier vorher lesen, ich würde behaupten das hier kann man ignorieren oder zumindest nebenher was lesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 4, Aufnahme vom 06.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #24
+
+* Titel: `God of War - #24 - durch den schwarzem Atem [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe viele Zeit damit verbracht diese zu verschwenden. Aber jetzt sind die Möglichkeiten aufgebraucht nichts mehr zu tun. Soweit ich das erkennen kann waren wir quasi überall wo man hätte sein können und es bleibt nur noch der Aufstieg. Wir gehen also zurück ins Vorland und besiegen den Atem von Odin. Hier stellen sich selbstverständlich ein paar Fragen: wie mächtig ist Odin wirklich? Die anderen Asen die wir bisher trafen war mächtig aber nicht unbesiegbar und ich kann mir nicht so richtig vorstellen was ein Typ wie Baldur machen würde wenn man ihn in Beton eingießt. Außer Stärke hatte der doch nichts oder? Was genau kann also Odin. Hat er echte göttliche Macht oder sind das eher Taschenspielertricks. Warum kann das Licht aus dem anscheinend alles Leben kommt den Atem so einfach entfernen. Alle anderen Leute haben es so verkauft das das Wort Odins Gesetz ist aber sein Atem ist überwindbar? Wie finden hinterher noch andere Beispiel seiner Macht und da scheint es absoluter. Warum kann man den Atem also so leicht überwinden? Ludo narrative Dissonanz? Oder glauben die Charaktere nur das die Macht nicht brechbar ist aber in Wirklichkeit gibt es durchaus Möglichkeiten für unsere Waldhexe die Welten zu bereisen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 4, Aufnahme vom 06.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
 ##### #Nummer
 
 * Titel: ``

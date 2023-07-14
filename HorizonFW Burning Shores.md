@@ -2,19 +2,6 @@
 
 * tags = `walter londra,lets play,ingame,playthrough,story,text,audiolog,speedrun,erklärung,zusammenfassung,aloy,rost,elisabet sobeck,oswald dalgaar,far zenith,odysse,sirius,GAIA,raumhafen,raumschiff,quen,brennende küste, burning shores, los angeles,hollywood,heavens cent,seyko,sternenhöhe,flotten-ende,rheng,admiral gerrit,brenik,kernspaltungsmotor,fokus`
 
-##### # Copy & Pasta
-
-```
-Horizon:FW Burning Shores - #12 - Halle der Auferstehung [Let's Play; ger; Blind]
-
-Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
-Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
-Sitzung 1, Aufnahme vom 25.04.2023
-Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO9p5x7MgcDFR05gYPDQrAo
-```
-
-
-
 ##### #1
 
 * Titel: `Horizon:FW Burning Shores - #1 - Aloy, die Bruchpilotin [Let's Play; ger; Blind]`

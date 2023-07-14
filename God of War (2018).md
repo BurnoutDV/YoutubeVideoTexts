@@ -361,6 +361,81 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
+##### #25
+
+* Titel: `God of War - #25 - alte, tote Höhlen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben einen Berg betreten und es hat irgendwie etwas von Minas Moria. In mehrfacher Hinsicht sogar. Genau wie die uralten Zwergenminen hat der Ort einmal Zwerge beheimatet (naja, Dvergr, quasi das Gleiche) und jetzt halt eben nicht mehr. Außerdem habe ich ja schon mehrfach gesagt das es mir so vorkommt als wären wir am Anfang der Endzeit hier. Die großen Schlachten sind größtenteils schon geschlagen und alles was noch fehlt ist der letzte Angriff zum Weltenende. Die Götter wandern zwischen den Sterblichen und scheinen nicht besser zu sein. Die Sterblichen sind größtenteils verstorben und nur noch wenige Orte haben überhaupt Spuren von Leben in sich. Die Orte die wir betreten sind Grabstätte und Monumente einstiger Glorie. Die großen Taten liegen in der Vergangenheit. Die Zeit der Pioniere lange hinter allem was noch ist. Und so betreten wir einen Ort der alt und tot ist. Eine lange Zeit ist vergangen zwischen den letzten Bewohner und noch länger seit den Erbauern. Keine Riesenspinnen oder Balrogs. Immerhin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 4, Aufnahme vom 06.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #26
+
+* Titel: `God of War - #26 - Herz des Berges [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der höchste Berg von Midgard (dazu später mehr) ist erstaunlich ausgehöhlt. Wenn man sich anschaut wie viel offenen Platz wir durchlaufen fragt man sich wirklich warum das Ding noch nicht von alleine kollabiert ist. Entweder war der Berg voller wertvoller Rohstoffe (eher unwahrscheinlich) oder aber man hatte den festen Drang sich darin zu errichten. Weil der Berg aber so hohl ist haben wir auch eine Menge zu erkunden, immerhin passt sogar ein praktischer Fahrstuhl in sein Inneres. Den müssen wir zwar erst aktivieren aber eigentlich ist es am Ende gar nicht so schwer. Leider kommen wir wohl einige Jahre zu spät, ich würde vermuten mehr als 100, weniger als 200. Irgendwo dazwischen hätten wir wohl noch jemanden antreffen können. Obwohl, wir treffen ja anscheinend Sindri der vielleicht die Fallen im Betrieb hält.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 4, Aufnahme vom 06.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #27
+
+* Titel: `God of War - #27 - die Klammer des Aufstiegs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich erwähnt das das Herz des Berges eigentlich eher hohl ist, anscheinend ausgelöst durch Generationen von Riesen, Zwergen oder wem auch immer. Eventuell war es auch nur eine Generation. Die Geschichten erwähnen immer wieder das die Asen, Wanen und Riesen Söhne und Töchter haben, aber irgendwie haben die dann nie eine Geschichte hinter sich oder die entsprechenden Wesen leben schon ewig. Es ist alles ein wenig verworren, so als hätte die Welt nicht wirklich eine Geschichte oder wäre irgendwann eingefroren worden. Bei vielen nordischen Geschichte habe ich nicht so richtig das Gefühl das wir es mit einem Kontinuum zu tun haben. Loki und Thor fahren durch die Gegend und erleben irgendwelche Dinge. Aber wann war das im Vergleich zur restlichen Schöpfung? War das alles nur ein Sommer oder kurz nach dem Krieg zwischen Asen und Wanen? Es ist irgendwie alles völlig unklar, Odin macht anscheinend schon länger mit und insbesondere viele der Zwerge scheinen auch öfter einmal aufzutauchen. Und dann wieder nicht. Und jetzt sind wir an einem Ort mit funktionierender Technik aber keinen Leuten. Keine Nachtlager, nur zurückgelassene Werkzeuge.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 4, Aufnahme vom 06.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #28
+
+* Titel: `God of War - #28 - ein Drache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Episode hier hieß ursprünglich in meinen Unterlagen "der Drache". Natürlich hätte ich eventuell bedenken sollen das Drachen keine singuläre Rasse sind, im Gegenteil, es gibt offensichtlich eine Menge Drachen die durch die Blätter Yggdrasils fliegen oder kriechen. Ob das ganze Ding mit dem vergesslichen Eichhörnchen, dem Drache und dem Adler eigentlich noch kompatibel mit der Art und Weise wie Reisen in diesem Spiel funktioniert ist? Ich würde annehmen das Ratatoskr (Schreibweise ggf. abweichend) einfach zwischen den Dimensionen bzw. in der vierten Ebenen kriechen kann, sich quasi wie in einen Kobel zwängt und Nachrichten wie eine Nuss mit nimmt. Um das Eichhörnchen geht es aber heute nicht sondern um einen Drachen. Das Vieh hat keinen Namen, später treffen wir noch Drache mit Namen deswegen die Unterscheidung. Das Schuppenwesen ist leider relativ resistent aber letztendlich ist es meine Gier die mir hier einen Tod beschert. Irgendwie ironisch das ich grade im Kampf gegen einen Drachen durch Gier sterbe oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 4, Aufnahme vom 06.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #29
+
+* Titel: `God of War - #29 - der Gipfel des Berges [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon ist es soweit, wir sind quasi ganz oben auf dem höchsten Berg von Midgard. Unglücklicherweise gibt es eine kleine semantische Auslegung der aktuellen Lage. Faye hat scheinbar gesagt das sie möchte das ihre Asche vom höchsten Berg aller neun Welten verstreut wird. Klar, das ist jetzt eine kleine Wortspielerei aber technisch gesehen befinden wir uns nur auf dem höchsten Berg von Midgard, übrigens auch sehr praktisch das sich eben jener Berg so nahe befindet. Eventuell sollten wir aber auch einfach noch einmal kurz zurück zum Licht von Albheim laufen und Faye einfach selber fragen, vielleicht wusste sie ja nichts von Jötunheim. Das ist aber dann auch wieder sehr unwahrscheinlich, sie wusste ja ansonsten alles was die Geschichten angeht. Ob wir jemals mehr über Faye erfahren? War sie ein Mensch oder eine Göttin bzw. Halb-Göttin wie es Kratos war? Das ganze Thema ist ein wenig unklar hier und es stellt weitere offene Punkte in den Raum, zum Beispiel ob es mit Sohn vielleicht noch mehr auf sich hat als man auf den ersten Blick vermuten lässt. Der Junge ist ja schon recht effektiv, für einen Zwölfjährigen ist seine Performance auf jeden Fall nicht so schlecht. Zurück zum Thema, wir sind am falschen Ort und müssen woanders hin, und da alles außer Gleichgewicht geraten ist kommen wir auch nicht so einfach überall hin. Zeit sich jemanden mit Wissen zu schnappen, die Person zu töten, wieder zu beleben und dann heraus zu finden wo es weiter geht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 4, Aufnahme vom 06.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
 ##### #Nummer
 
 * Titel: ``

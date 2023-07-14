@@ -377,6 +377,96 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
+##### #26
+
+* Titel: `Jedi Survivor - #26 - der Rancor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht warum ich das tue was ich viel zu oft tue. Mich an viel zu schweren Gegner versuche um dann 20 Mal daran zu sterben. Gewissermaßen suche ich auf einfach die Herausforderung, etwas das ich in Jedi Survivor nicht immer habe. Klar, ich sterbe auch an anderen Gegner aber gewissermaßen ist es doch nicht das Gleiche durch Übermut zu sterben als an Bullshit. Der Rancor ist übrigens voller Bullshit. Oder Rancordung? Wie dem auch sei, das Einzige was uns hier so lange hin hält ist eine Insta-Death-Grab-Attack der man nicht präventiv ausweichen kann sondern in der letzte Sekunden davon rollen muss. Das ist schon ziemlich nervig. Für die Schwere die der Rancor mit sich bringt habe ich ein wenig das Gefühl das wir das hier hätten später machen sollen. Andererseits gibt es eigentlich nichts was uns stärker machen kann. Unser Laserschwert macht ziemlich sicher die gleiche Menge an Schaden und alle Fähigkeiten die wir leveln können kosten am Ende auch Macht die ein begrenzter Rohstoff ist. Durch den Angriff der uns sofort aus dem Leben nimmt ist auch die Menge an Estus eher unrelevant.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 04.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #27
+
+* Titel: `Jedi Survivor - #27 - Zersplitterte Tradition [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich ist genau dann wenn wir ankommen ein großer Sandsturm und wir können nicht einfach bei unserem Ziel landen. Auch können wir nicht abwarten weil wir haben es ja so dringend. Es wird sich übrigens später herausstellen das all das völliger Quatsch war und wir genauso gut im Orbit sitzen hätten können. Naja, wie dem aber auch sei, wir bewegen uns ja auch nicht unbedingt mit Eile vor ran und deswegen gucken wir uns heute einen Riss an. Technisch gesehen haben wir schon einmal einen gesehen nur ich bin nicht bis ran gekommen. Bei den Rissen handelt es sich anscheinend um Herausforderungen die man irgendwie schaffen muss. Soweit ich das sehen kann gibt es kein echtes Zeitlimit und der Timer der mitläuft ist eher als Bestenliste zu verstehen. Da Cal aber durchaus verschiedene Fähigkeiten haben kann weiß nicht wie repräsentativ das Ganze jetzt wirklich ist. Dieser Riss heißt „zersplitterte Traditionen“. So wirklich erklärt wird das Ganze nicht aber der beschränkte Raum macht den Kampf schon anspruchsvoll. Und meine schlechte Waffenwahl. Das Doppelschwert hätte bestimmt mehr gebracht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 04.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #28
+
+* Titel: `Jedi Survivor - #28 - die Eskorte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das was wir betreten wollen ist eine Art Geheimbasis. Zumindest scheint es so zu sein und der Logik folgt es auch. Das Imperium kann andere Machtnutzer neben sich scheinbar nur sehr schwer dulden auch wenn mir nicht so ganz klar ist warum irgendwelche Pseudojedi eine große Gefahr darstellen. Letztendlich waren es Blaster und Logistik die die galaktische Republik zu Fall gebracht haben und ein paar Machtmönche konnten daran auch nichts ändern. Klar, die Jedi haben vorher immer viel aus den Schatten heraus gewirkt aber die tatsächliche Macht ist doch eher gering. Selbst wenn man die Ritter in die Schlacht wirft scheinen sie nicht besonders mächtig zu sein. Es ist ein wahres Glück für sie das die Hauptwaffe im Universum unfassbar ungenaue Blaster zu sein scheinen die man mit ein wenig Machtfähigkeit leicht ablenken kann. Im großen und Ganzen ist ein Laserschwert auch nicht viel besser als ein Vibromesser oder eine Ausklappbare Monofilament-Axt (die sollte es im Star Wars Universum geben oder?). Zurück zum Thema, da die Basis geheim ist führt uns jemand hin. Dieser Jemand ist die Anchoretin. Ein Name der mir sehr bekannt vor kommt, haben wir doch eine Person gleichen Namens erst „neulich“ in ESO getroffen. Hier natürlich etwas komplett Anderes aber grundsätzlich bedeutet es wohl Wissensbewahrer oder so?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 4, Aufnahme vom 04.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #29
+
+* Titel: `Jedi Survivor - #29 - das Spamel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen zur neusten Episode von komisch benannten Tieren im Star Wars Universum. Das heutige Exemplar ist anscheinend selbsterklärend, es handelt sich um ein Spamel, ich weiß noch nicht wie das Vieh auf English heißt und ich mache mir jetzt auch nicht die Mühe es nach zu schauen aber es ist wohl die Mischung aus Kamel und irgendetwas mit wirklich langen Beinen. Sollte es wirklich ein Spinnenkamel sein? Wenn das der Fall ist bin ich absolut enttäuscht das das Vieh nicht mindestens sechs Beine hat und auf eine sehr creepy Art und Weise durch den Wüstensand schreitet. Wie dem aber auch sei, das Vieh ist heute unser Taxi durch die Wüste. Aus irgendwelchen Gründen haben die imperialen Sturmtruppen keine eigenen Bodenfahrzeuge mit gebracht und sich alle von der mobilen Luftunterstützung absetzen lassen. Von einem operativen Standpunkt finde ich das ein wenig ambitioniert aber in diesem Fall ist es sogar effektiv. Wieder einmal müssen wir unsere Fähigkeit "geistige Versklavung" einsetzen um die lokale Fauna zu unterwerfen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 11.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #30
+
+* Titel: `Jedi Survivor - #30 - Wüstensturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie wird das in meiner jüngeren Spielegeschichte eine sich wiederholende Sache. Wenn ich jedesmal einen Euro dafür hätte das sich eine aufflackernden Liebesaffaire in einem Sandsturm andeutet..dann hätte ich zwei Euro. Aber schon komisch das es zweimal passiert ist (CP77 die andere Instanz). Wir sitzen also in einem Sandsturm, vorher haben wir gemeinschaftlich romantisch Sturmtruppler ermordet (die haben bestimmt auch irgendwo Familie, sind ja keine Klone mehr) und jetzt teilen wir uns Wärme in einer Höhle. Dann am nächsten Tag laufen wir durch eine geschützte Höhle die wir auch locker mitten im Sturm hätten passieren können. Aber hey, ein Argument nehme ich hin, unseren Spuren wurden verdeckt. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 11.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #31
+
+* Titel: `Jedi Survivor - #31 - der versteckte Pfad [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gute Nachrichten! Dies hier ist keine Filler-Episode, keine Strand-Folge in der ich nur die nähere Bedeutung von Loot kennen lerne aber sonst nichts passiert. Oft habe ich es im Rahmen von Let's Plays das ich halt wirklich nur reines Gameplay ohne Story habe. Manchmal erzähle ich in solchen Episoden etwas, manchmal auch nicht. Ein besserer Youtube würde solchen Content gnadenlos zusammenschneiden und den Inhalt so zusammenbauen das unnötige Pausen bzw. Farmaktionen fallen gelassen werden. Das würde ich zwar eh nicht machen aber heute ist das auch gar nicht notwendig. Der versteckte Pfad ist nämlich nicht nur ein Ort oder vielleicht der Name eines Hinweises sondern viel mehr der tatsächliche Name einer Organisation. Was es genau damit auf sich hat kann ich hier noch gar nicht so im Detail sagen, aber wir erfahren es ja dann auch heute. Irgendwann, in der Folge, ziemlich am Anfang eigentlich sogar. Und dann laufe ich herum und farme doch wieder Kisten mit unnötigen Cosmetics. Ja ich bin ein Loot Goblin, es tut mir leid.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 11.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

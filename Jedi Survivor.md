@@ -467,6 +467,31 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
+##### #32
+
+* Titel: `Jedi Survivor - #32 - Jedhas Sackgassen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben dann ja die Geheimbasis gefunden und jetzt dürfen wir eigentlich wieder den Planeten verlassen. Aber bevor das passiert sehe ich mich ein wenig um. Das wäre doch gelacht wenn ich so tolle Ausrüstung erhalte und dann nicht meine Anwesenheit dazu nutze ein paar mehr Geheimnisse zu ergründen. Als wir mit dem Spamel das erste Mal los ritten sah ich hier und dort einige Ecken an denen wir hätten abbiegen konnten, aber wir durften halt nicht. Weil das Spiel das halt so wollte. Jetzt ist der große Sandsturm ja vorbei und die Gelegenheit ist dann wohl mehr als günstig den Weg zu erkunden und zu schauen wie viele Schätze wir durch die unnötige Eile wir verpasst haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 11.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

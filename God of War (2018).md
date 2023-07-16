@@ -436,6 +436,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
+##### #30
+
+* Titel: `God of War - #30 - herausforderne Risse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich lasse mich persönlich ein wenig viel von irgendwelchen Herausforderungen ablenken. Das ist dann wohl ein gutes, erstes Review zu der Leistung die God of War für mich abliefert. Tatsächlich spielt sich das Spiel ziemlich dynamisch und flüssig. Es ist von 2018 und ich bin immer noch der Meinung das das quasi eine Ewigkeit her ist. Aber Horizon: Zero Dawn ist auch aus diesem Jahr und so unfassbar viel hat sich grafisch in den letzten 5 Jahren eigentlich auch nicht getan. Trotzdem ordne ich God of War rein gedanklich eher bei Darksiders 1 oder irgendwelchen anderen Spielen zwischen 2010 und 2014 ein. Das ist offensichtlich nicht richtig. Wir haben es hier mit einem komplexen und tiefen Spiel zu tun in dem ein Kampf auf viele verschiedene Methoden angegangen werden kann. Story passiert heute nicht wirklich aber immerhin erhalten wir ein paar Gegenstände nachdem ich mich ewig lange an wenigen Gegner wieder und wieder versuche.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 5, Aufnahme vom 13.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #31
+
+* Titel: `God of War - #31 - zurück zur Schildkröte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben den schlausten Mann aus ganz Midgard am Gürtel. Aktuell geht es ihm nicht so gut, das liegt aber auch eventuell daran das wir ihm den Kopf abgeschlagen haben. Später wird jemand feststellen das wir einen sauberen Schlag geleistet haben. Wenn man bedenkt was wir mit der Axt noch so den ganzen Tag machen kann man wohl den herstellenden Zwergen ihren Respekt ausdrücken. Ehre wem Ehre gebührt und Brok und Sindri haben offensichtlich gute Ware hergestellt. Aber darum geht es gar nicht. Das Problem ist das Kratos einfach nicht magisch ist. Er ist zwar ein quasi unsterblicher Kriegsgott mit enormen Kräften aber wenn es um das direkte Wirken von Zaubersprüchen oder dem erschaffen magischer Konstrukte geht ist er quasi nutzlos. Daher brauchen wir eine Expertin für das Wiederbeleben der kürzlich verstorbenen. Ich bin ein wenig überrascht das das so einfach funktioniert, Faye war ja anscheinend endgültig weg. Andererseits, vielleicht hatte Kratos auch einfach nicht den Willen hier ein zugreifen. Oder er sollte nicht. Wie dem auch sei, die Hexe wohnt bei der Schildkröte, und deswegen fahren wir da jetzt hin. Bald. Sehr bald. Ganz bestimmt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 5, Aufnahme vom 13.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
 ##### #Nummer
 
 * Titel: ``

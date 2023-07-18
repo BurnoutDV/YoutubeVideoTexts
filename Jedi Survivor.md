@@ -482,14 +482,34 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
-##### #Nummer
+##### #33
 
-* Titel: ``
+* Titel: `Jedi Survivor - #33 - automatisierte Fertigungsanlage [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Nein ich habe absolut gar keine Ahnung was für eine Fertigungsanlage wir hier vorfinden! Ich wiederhole mich und es fängt an mich wirklich zu nerven. Alles im Star Wars Universum ist Kulisse. In einem Film ergibt das vielleicht noch so halbwegs Sinn aber sobald man mehr Kontext hat fängt die Illusion immer mehr zu bröckeln an. Was ich bisher erfahren habe war das wir auf dem Mond eine Forschungsanlage finden. Was wir stattdessen finden ist ein Antenne und ein wenig anderes Zeug das wohl zur Forschung dazu gehört und irgendwelche Dinge die nach Fertigung aussehen aber komplett falsch zusammengepuzzelt sind. Wir haben Gänge mit irgendwelchen Brutzlnern an der Seite als würden wir das Innere eines Industrietoasters betreten, aber in Wirklichkeit ist das der Boteneingang. Wir finden gewaltige Förderbänder aber keine entsprechenden Frachhäfen. Noch finden wir irgendwelche Hinweise was überhaupt hergestellt wird. Servitoren laufen umher und warnen uns die Station zu verlassen, Steuerpulte sind hier und dort zu finden aber kein Hinweis darauf was hier überhaupt hergestellt wurde, noch Werkzeug das uns vielleicht Hinweise gibt. Wäre uns der Ort als Jedi-Trainingsstätte für ein bestimmtes Szenario verkauft worden wäre es glaubhafter gewesen (aus irgendwelchen Gründen findet man Jedi ziemlich oft in Fabriken, muss die Lichtstimmung sein).
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 11.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #34
+
+* Titel: `Jedi Survivor - #34 - Montagebereich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mein Rant von gestern geht nahtlos weiter. Jetzt sind wir nicht mehr in der Fertigungsstrecke sondern im Montagebereich. Es ist immer noch nicht klar was hier montiert wird. Ich wiederhole mich also einmal mehr: das ist alles nur eine Kulisse. Ich verstehe es wirklich nicht und es stört mich wahrscheinlich viel zu sehr. Aber mir fällt es sehr schwer meine „Arbeit“ zu machen. Während ich Spiele habe ich ja an sich nicht viel zu tun außer meine Umgebung zu analysieren, klar, ab und an gibt es auch Gegner und nicht immer rede ich nur aber doch schon viel. Um Reden zu können brauche ich aber auch etwas über das man reden kann. Star Wars Spiele sind notorisch schlecht darin. Es gibt natürlich immer die Story aber die holt mich ehrlich gesagt noch gar nicht ab. Ja klar, Tanalorr, total toll das man vor dem Imperium sicher ist, aber wem interessierts? Der Outer Rim scheint auch okay zu sein, gibt genügend verlassene Planeten die keine Sau kennt. Siehe Zeffo. Oder die Welt auf der die Inquisition gehaust hat, da war ja sonst nichts, bewohnbare Planeten scheinen ja nun echt keine Seltenheit zu sein. Jedes kriminelle Syndikat schafft es ja anscheinend unbehelligt zu bleiben. Dann gibt es noch die Umgebung. In Dead Space 3, das zugegeben auch nicht die beste Story hatte gab es im ersten Akt das große Mysterium um die Flotte der alten Menschen. Das war spannend. Riesige Schlachtschiffe die im Orbit hängen und offensichtlich tot sind, und hier und da Geschichte oder Umgebung die etwas erzählt. Das macht mir Spaß. Man stelle sich Space Hulk Deathwing aber anstatt mit Astartes als Forscher vor. Jahrtausende alte Raumschiffe die aus dem Warp gefallen sind. Die Geschichten die die verzerrten Logs erzählen, der Wahnsinn der mit dem kommt. Das ist interessant. Solange es irgendwie konsistent ist. Und das ist Star Wars halt gar nicht, jedes Gebäude ist nur ein Gegenstand auf dem Set, jede Anlage, jedes technische Gerät ist nicht mehr als ein angemalter Joghurt Becher. Alles ist Fake. Quasi die ultimative Hingabe an charakterfokussierter Story. Die Welt, die Technik, die Werkzeuge, all das spielt keine Rolle. Regeln können sich in Sekunden ändern und was wir sehen spielt keine Rolle. Es dient nur als schöner Hintergrund für die Reise des Herren. Es gibt keine Bedeutung die wir ersehen können. Keine Schlussfolgerungen oder Vermutungen über die Taten der hohen Republik. Kein zweites Thema, keine versteckte Geschichte die sich Stück für Stück entfaltet. Da ist nichts! Die gesamte Anlage ist absolut austauschbar und maximal ein Portfolio für den Designer der die Dinge entworfen hat. Nie hat auch nur ein Ingenieur drüber geschaut um die Illusion von Sinnhaftigkeit zu erzeugen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 11.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
 ##### #Nummer

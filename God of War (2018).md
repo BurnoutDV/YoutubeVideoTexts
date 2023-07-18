@@ -466,6 +466,36 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
+##### #32
+
+* Titel: `God of War - #32 - Mimirs Auferstehung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähne ja immer wieder gerne das die nordische Mythologie dicke Lücken hat weil christliche Missionare sich wirklich viel Mühe gegeben haben. Das kann man ihnen nicht einmal zum Vorwurf machen, letztendlich ist es ziemlich schlecht fremde Ideen neben den eigenen zu zu lassen. Aber sie hätten ja ruhig vorher ein geheimes Archiv anlegen können für dann später. Also jetzt. Wie dem aber auch sei, die nordischen Götter sind im Großen und Ganzen keine Wohltäter, ABER Wiederauferstehung geht im Reich von Odin wesentlich schneller als bei den Christen im mittleren Osten. Wochenlang warten damit der Heiland wieder da ist? Den einzigen Sohn Gottes? Warum dauert das für ein allmächtiges Wesen so lange? Freya ist nicht direkt die oberste Göttin sondern eher eine mächtige Magienutzerin aber das ist ja eh die häufigste Erklärung für Göttlichkeit und kriegt das ziemlich gut hin. Technisch gesehen ist es keine voll Wiederauferstehung weil wir nur Mimirs Kopf zum Leben erwecken, ein bisschen wie die Köpfe im Glas von Futurama aber für uns reicht das. Hier haben wir übrigens wieder ein schönes Beispiel für tangentiale Superkräfte. Das reine zum Leben erwecken würde uns ja nicht viel bringen, die Magie muss hier also eine Reihe von Zusatzfunktionen erfüllen. Zum Beispiel Lungen simulieren, weil sonst könnte er ja nicht reden, oder Blutfluss und Nährstoffe für das Gehirn und die Augen schaffen. Wir erfahren übrigens außerdem noch das die Hexe im Wald durchaus Freya ist, ich hatte das ja schon vermutet aber war mir nicht 100% sicher weil ich in Betracht zog das man vielleicht nicht direkt alle bekannten Namen beim ersten Aufschlag verwursten will. Ich hab außerdem Freya mit Sif verwechselt. Sowas kommt vor, die Schmiedebrüder heißen übrigens Brokk und Eitri in den Geschichten die ich lass, aber Sindri ist wohl auch eine Lesart. Namen sind immer schwierig. Kratos mag aus irgendwelchen Gründen keine Götter. Unerklärlich. Ich bin mir übrigens nicht ganz sicher ob Mimir wirklich ein Mensch-Mensch ist. Kurzes Suchen ergibt das Mimir eher „Wesenheit“ ist und die Quelle der Weisheit. Witzigerweise wird er wohl immer geköpft und Mimirs Kopf herum zu tragen ist anscheinend ein Ding allerdings sind die Sagen sich nicht einige wie er den Kopf abgetrennt bekam. Nun, diese Frage hat Kratos für uns geklärt. Das wäre also geklärt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 5, Aufnahme vom 13.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #33
+
+* Titel: `God of War - #33 - Fafnirs Ketten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Drachen sind inhärent magische Wesen. Unter Anderem deswegen weil ihre Logistik sonst ziemlich absurd wäre. Makrofauna hat das Problem das sie eine Menge Energie braucht und damit ein Ökosystem solche Wesen unterhalten kann braucht es wirklich gute Gründe. Normalerweise hängt es mit der Umgebungstemperatur zusammen, umso wärmer umso größer die Tiere der Welt bzw. Region. Echsen sind nicht direkt dafür geeignet in kalten Gegenden um her zu laufen, ich würde also eher mit aztekisch angehauchten Federdrachen rechnen. Da wir aber immer noch in der nordischen Mythologie sind erhalten wir stattdessen Zwergen-Drachen. Nicht das Fafnir besonders klein ist aber er war halt einst ein Drache. Jetzt sollte er theoretisch ein wenig mächtiger als vorher sein aber das ganze Feuer werfen und Fliegen wird bestimmt nicht durch normale Nahrungsaufnahme „finanziert“. Sonst müsste er jeden Tag eine Herde Schafe oder Kühe essen. Ich kann mir nicht vorstellen das Gesellschaften mit regelmäßigen Drachenangriffen lange funktioniert. Entweder schlafen Drachen also fast immer oder sie brauchen wesentlich weniger Essen als allgemeine angenommen wird. Klassischerweise kann man behaupten das Drachen Gestaltwandler sind und nur sehr selten in ihrer wahren Form an zu finden sind, aus den gleichen logistischen Gründen die oben stehen. Fafnir kann aber all das nicht und ist trotzdem wohl schon länger angekettet. Ich vermute daher das es dann wohl Magie ist die ihn am Leben hält. Eventuell hat er trotzdem mächtig Hunger. Das erklärt zumindest seine Laune. Aber vielleicht ist er auch immer so, was weiß ich schon?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 5, Aufnahme vom 13.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
 ##### #Nummer
 
 * Titel: ``

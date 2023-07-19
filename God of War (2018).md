@@ -496,6 +496,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
+##### #34
+
+* Titel: `God of War - #34 - Mimirs Geschichten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich passiert heute gar nicht so viel, ich versuche nur irgendwelche Leuchtfeuer für irgendwelche Walküren anzumachen, kombiniert übrigens mit dem Wissen von einigen anderen Dingen die in den kommenden Episoden kommen ahne und befürchte ich das das noch einmal relevant sein wird. Bis es aber soweit ist fahren wir von einem Punkt zum nächsten und sprechen Namen. Wie lange es wohl dauern würde alle bekannten Namen der Walküren auszusprechen und zu hoffen das das reicht die Fackeln anzukriegen ohne die gesamte Sprache zu können? An sich brauchen wir ja nur die phonetische Schreibweise der Namen, so schwer kann das doch eigentlich nicht sein oder? Wie dem aber auch sei, während wir von einem Ort zum Nächsten fahren erzählt uns Mimir auch ein wenig von der Welt. Ärgerlicherweise sind unsere Paddelfahrten nicht ganz so lang, aber ich kann diese Art der Geschichtserzählung dennoch gut heißen. Wir erfahren eine Menge über die Welt um uns herum und können die Deltas mit den Sagen prüfen und wissen so wo und wann wir in der Geschichte stehen. Nicht die schlechtes Art und Weise Wissen zu vermitteln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 5, Aufnahme vom 13.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
 ##### #Nummer
 
 * Titel: ``

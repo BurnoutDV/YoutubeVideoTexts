@@ -512,6 +512,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
+##### #35
+
+* Titel: `Jedi Survivor - #35 - plötzliche Erkenntnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser Ausflug auf der lokalen Fabrikationsanlage nimmt ein ziemlich abruptes Ende. Wirklich, ich bin ziemlich überrascht ob des schnelle Endes unseres Ausfluges. In einem Moment sind wir noch schwer damit beschäftigt uns von einer sinnlosen Kulisse zur nächsten zu Kämpfe und im nächsten Moment sind wir dann plötzlich fertig und gehen wieder. Klar, zwischenzeitlich lernen wir noch mit der "Parierstange" zu kämpfen. Es ist übrigens, soweit ich das verstanden haben, absolut kein Problem ein Laserschwert als nicht-Jedi zu führen. Letztendlich funktioniert das Ding ja auch nicht anders als die Elektroschwerter die sowieso jede zweite Truppe mit sich herumschlept. Monofilamentdraht sollte eigentlich (unter wahrscheinlich anderen Namen) auch existieren. Vom Effekt also nicht so sehr anders. Die ganze Geschichte mit den Kyberkristallen ist wahrscheinlich ein wenig schwierig wenn man nicht machtempfindlich ist aber letztendlich ist das ja eh alles nur Kulisse und Ausrede um irgendwie "Rule of Cool" zu erklären. Keine besonders gute Erklärung wie ich feststellen möchte. Wir sehen auf jeden Fall eine Vision und ziehen sofort weiter. Weil wir natürlich in diesem Moment erkennen das das ist wofür wir gekommen sind und nicht mehr weiter gucken müssen. Keinen Zweifel ob die Dinge die wir fanden überhaupt auswertbar sind. Die Macht und so. Hilft auch bei Unsicherheiten, heißt ja auch "vertraue nur der Macht".
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 5, Aufnahme vom 11.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

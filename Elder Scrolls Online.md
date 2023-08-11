@@ -9126,14 +9126,244 @@
   Aufnahme vom 09.05.2023 - #1806 - ##53 - S8
   ```
 
-##### #Nummer
+##### #1807
 
-* Titel: ``
+* Titel: `Let's Play ESO #1807 ##54 - eingesperrte Anführer [Firesong]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 54 des Firesong DLCs - Sitzung 9
+  
+  Kann sich noch jemand an den Plot des letzten DLCs erinnern? Also das was vor Firesang kam, das das auf Hochinsel gespielt hat? Da ging es doch um irgendeinen Orden der Aufstrebenen oder so und deren prominentestes Mitglied ist irgendwann untergetaucht und nie wieder in Erscheinung getreten. Was wir wissen das ein anderes Mitglied dieses Ordens enge Verbindungen zum herrschenden Adelshaus auf Hochinsel hat. Um genauer zu sein handelte es sich um den Bruder der aktuellen Herzogin. Außerdem ziemlich relevant auch, die enorme Truppenstärke und Menge an Material die dieser emporstrebende Orden zur Verfügung hat. Fast schon als hätte man die Unterstützung einer größeren Wirtschaftsmacht. Naja, war bestimmt alles nicht so wichtig weil wir haben uns jetzt ja um die Feuersang Druiden gekümmert und was interessiert mich auch mein Gewäsch von gestern. Es gab da übrigens eine kleine Verbindung in der besagter Magus die Hilfe der Feuersang Druiden hatte. Das Allwelken kam in all dieser Erzählung aber nicht vor und generell und überhaupt sind die Verbindungen dünn gesäht. Aber es scheint irgendjemanden ist aufgefallen das wir hier ein Stück Geschichte haben das nicht abgeschlossen wurde und deshalb machen wir das jetzt schnell noch auf dem letzten Meter.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.07.2023 - #1807 - ##54 - S9
+  ```
+
+##### #1808
+
+* Titel: `Let's Play ESO #1808 ##55 - Lawine der Zufälle [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 55 des Firesong DLCs - Sitzung 9
+  
+  Es gibt ein Zitat von Ian Fleming das ich in verschiedenen Versionen kenne, hier eine (übersetzt). "Einmal ist Zufall, zweimal ist Fügung, dreimal ist eine feindliche Operation" ich kenne es auch mit "dreimal ist absolute Inkompetenz". Immer wenn sich Zufälle häufen wird man aufmerksam, klar, man kann den Aluhut erst einmal locker halten und nicht gleiche jede Verkettung von ungünstigen Umständen ist der finsterere Plan der Schattenregierung. Wenn man allerdings bereits gegen eine solche Organisation kämpft und sicher weiß das es jemanden gibt der gegen einen konspiriert werden Zufälle plötzlich sehr verdächtig. Wie zum Beispiel da die Gegenseite den vollen Namen eines Informanten kennt, das die Werft eines Adelshaus die von hohem taktischen Wert ist ERNEUT übernommen wird oder das wichtige Verhandlungen wegen ominöser Umstände verzögert werden obwohl das Risiko dadurch kein Stück mehr wird. Heute fallen wir von einem seltsamen Vorfall in den nächsten, und zusätzlich haben wir natürlich auch noch Aktionen des Feindes die offensichtlich sind. Aber das meine ich ja nicht einmal. Obwohl wir eventuell das aktive Trinken des Giftes wohl eher in die Kategorie "absolute Inkompetenz" packen können. Immerhin das ist "on-brand" für Fürstin Arabelle.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.07.2023 - #1808 - ##55 - S9
+  ```
+
+##### #1809
+
+* Titel: `Let's Play ESO #1809 ##56 - Einzigartiger Bernstein [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 56 des Firesong DLCs - Sitzung 9
+  
+  Es ist also Gift. Wenig originell im Allgemeinen aber im Kontext dieser Geschichte tatsächlich eine Neuerung. Meine einzige Kritik ist nur das es kein Kontaktgift im Brief selber war sondern in einer Flasche geliefert wurde. Der Versuch war bestenfalls dilettantisch wäre das hier eine andere Geschichte würde ich sogar vermuten das das Gift eine aktive Ablenkung von Ressourcen ist. Ein vergiftetes Getränk mit einem untypischen Geruch, wer genau fällt auf so etwas hinein? Insbesondere weil Wein wahrscheinlich einfach nie nach Knoblauch riecht. Könnte es vielleicht sein das der „Giftanschlag“ nur dazu diente uns woanders hin zu schicken während die wahren Strippenzieher im Hintergrund einen weiteren Tag erkauft haben? Geht es wirklich um uns, sind wir der Hauptcharakter oder steht eigentlich jemand Anderes im Fokus? War es überhaupt vorgesehen Fürstin Arabelle zu vergiften oder sollte man nur erschrecken weil ein Kompetenzwunder wie Inspektorin Valla doch niemals ein offensichtlich vergiftetes Getränk trinken würde? Der Kreis der Verdächtigen ist nicht unfassbar groß, der Wein ist scheinbar gar nicht so günstig zu haben und nur von einem Händler. Unsere Spuren führen uns also wieder zurück in die Gemächer des Lokaladels.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 21.07.2023 - #1809 - ##56 - S9
+  ```
+
+##### #1810
+
+* Titel: `Let's Play ESO #1810 ##57 - Küstenvogel-Express [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 57 des Firesong DLCs - Sitzung 9
+  
+  Mit Speditionsunternehmungen kann man eine Menge Geld machen habe ich gehört. Tatsächlich kenne ich über Eck sogar jemanden der ein solches Unternehmen betreibt und soweit ich das sehen kann nagen diese Leute nicht am Hungertuch. Wichtig ist es aber in dem Fall die Ausfahrten nicht selber vorzunehmen sondern machen zu lassen. Ich habe außerdem gehört das es heutzutage sehr schwer ist Fahrer zu bekommen. Das könnte an den allgemeinen Arbeitsbedingungen liegen oder das durch die Gegend fahren diese Jahre nicht mehr so romantisch wie früher ist. Was weiß ich schon? In jedem Fall würde mein entfernter Bekannter wohl ehern icht fragwürdige Lieferungen annehmen und irgendwelche Dinge von A nach B transportieren ohne zu fragen was da eigentlich drin ist. Für solche Geschäfte braucht man dann doch den Küstenvogel-Express.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 23.07.2023 - #1810 - ##57 - S9
+  ```
+
+##### #1811
+
+* Titel: `Let's Play ESO #1811 ##58 - eine Scherbe des Grüns [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 58 des Firesong DLCs - Sitzung 9
+  
+  Es kommt dann doch alles zusammen. Heute fügt sich dann die ganze Geschichte mit den Feuersangdruiden und dem Orden der Emporstrebenden dann doch noch zu einem Ganzen. Zumindest sieht es so aus. Ich möchte allerdings zum wiederholten Male betonen das man in der Regel solche Dinge ein wenig vorbereitet. Man setzt hier und dort kryptische Hinweise hin. Das ist in der Literatur ein sehr schwieriges Gleichgewicht und setzt auch einen gewissen Mangel an Stolz auf Seiten des Autors vor raus. Es gab schon einige Autoren die ihre Bücher verändert haben nur weil Fans mit den vorhandenen Hinweisen die richtige Story geschlussfolgert haben bevor es soweit war. Wenn das passiert ist das aber kein Beinbruch, es geschieht einfach. Natürlich setzt das trotzdem ein gutes Gefühl für die Geschichte vor aus, idealerweise ist die richtige Schlussfolgerung in einem Haufen vieler Falscher. Wenn es aber gar keine Spuren gibt und plötzlich Dinge geschehen redet man wohl von einer Deus Ex Machina, das direkte Eingreifen einer höheren Macht, und damit meine ich nicht die lokalen Götter sondern den Autor. Das passiert mehr oder weniger hier, oder mein Gedächtnis lässt mich in Stich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 23.07.2023 - #1811 - ##58 - S9
+  ```
+
+##### #1812
+
+* Titel: `Let's Play ESO #1812 ##59 - der verborgene Fürst [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 59 des Firesong DLCs - Sitzung 9
+  
+  Und heute ist es endlich soweit. Ich darf versprechen das wir in dieser Episode herausfinden wann wer emporstrebende Fürst ist. Es war ja lange Zeit ein großes Mysterium, Charaktere kamen und gingen, aber nur wenige haben uns auf den ganzen Weg begleitet. Wer könnte er sein, der große Meister im Verborgenen, der Anführer der schier endlosen Maßen an stumpfen Rittern die sich uns verzweifelt in den Wege gestellt haben nur um dann lebendig in ihrer eigenen Rüstung gegart zu werden. Wer nur wer könnte sein? Ist es jemand der sehr offensichtlich ist, handelt es sich vielleicht sogar um eine Frau in einer Wendung der Ereignisse die wir nicht haben kommen sehen? Wer weiß, wer könnte es wissen? Was werden wir finden? Ein Tagebuch mit all den Beweisen die wir seit Tag 1 vermissen. Eindeutige Hinweise die all die subtilen Andeutungen ersetzen die man bei einer solchen Operation eigentlich erwartet hätte. Es sei auch noch einmal daran erinnert das es quasi unmöglich ist eine Verschwörung mit mehr als 100 Leuten auch nur wenige Tage am Leben zu erhalten. Irgendwann quatscht immer einer, und sei es nur im Suff. Ein gutes Spionagenetzwerk hätte das Ruck Zuck gefasst.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 23.07.2023 - #1812 - ##59 - S9
+  ```
+
+##### #1813
+
+* Titel: `Let's Play ESO #1813 ##60 - emporstrebende Schnüfflerin [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 60 des Firesong DLCs - Sitzung 9
+  
+  Ich würde ja gerne behaupten das ich ziemlich gut darin bin Rätsel zu lösen, aber Momentan laufe ich eher auf der Sparflamme der geistigen Erkenntnisse, daher will ich mit dieser Behauptung ein wenig vorsichtiger sein. Was wir aber für uns beanspruchen können ist das wir das tun des Emporstrebenden Fürsten komplett aufgeklärt haben. Deswegen haben wir uns jetzt auch absolut den Titel der aufstrebenden Schnüfflerin verdient gemacht. Ich hoffe zumindest das der Titel an mich geht und damit nicht die Leistung von Fürstin Arabelle gemeint ist. Die hat nun wirklich gar nichts für die Leute getan und bisher kann ich mich nicht erinnern das sie unsere Suche nach irgendwelchen Bösewichten auch nur ein wenig vorwärts gebracht hat. Es ist ein wenig fragwürdig wie wir selbst herausgefunden haben wer der Fürst ist, man könnte sogar sagen, das er sich quasi selbst offenbart hat. Hätte er uns nicht so eine gute Spur gegeben hätte er noch viel mehr Vorsprung. Allerdings ist wirklich fraglich wofür er diesen Vorsprung überhaupt braucht, von Allem was wir wissen bringt sein gesamtes Tun einfach nichts. Aber bestimmt gibt es da noch einmal eine Geschichtsrevision.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 03.08.2023 - #1813 - ##60 - S9
+  ```
+
+##### #1814
+
+* Titel: `Let's Play ESO #1814 ##61 - die grüne Geißel [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 61 des Firesong DLCs - Sitzung 9
+  
+  Es gibt immer wieder Situationen in denen Autoren komplett feststecken weil sich eine Geschichte einfach nicht mehr logisch lösen lässt. Das ist ziemlich ärgerlich und wenn man die Welt wirklich wasserdicht gebaut hat kann man sich als Gefangener seiner eigenen Welt wiederfinden. Es gibt einfach keinen Weg einen Konflikt noch zu lösen oder verschiedene Geschichtsstränge zusammen zu führen ohne Regeln der Welt zu verletzen, und das würde die Qualität der Geschichte verringern. Das Gleiche kommt natürlich auch in Serien und Filmen vor, hier ist es aber meistens so das die Autoren nur immer eine Staffel schreiben und nur eine sehr ungenaue Skizze des weiteren Verlaufs haben. Wie praktisch ist es doch da wenn man einfach die Worte von gestern vergisst und sich neue Tatsache schafft. In der Realität macht man das zum Beispiel auch gerne, warum	 nicht auch in der Fiktion. Und so werden dann heute gleich direkt einige Fakten umgestoßen. Ich bin mir nicht 100% sicher weil mein Gedächtnis hier über Monate verteilt ist, aber einige der „Fakten“ die uns heute präsentiert werden scheinen mir brandneu zu sein und nicht gut in der Geschichte gereift. Der unmittelbare Effekt dieser plötzlichen Veränderung der Realität ist das die dumme Prophezeiung auf einmal doch Biss hat. Juhu, Spannung!
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 03.08.2023 - #1814 - ##61 - S9
+  ```
+
+##### #62
+
+* Titel: `Let's Play ESO #1815 ##62 - Bacaros Geisterbeschwörung [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 62 des Firesong DLCs - Sitzung 9
+  
+  Ich gebe zu das ist ein wenig eine Filler-Episode. Wir gehen nicht direkt an den Strand aber wer heute mit der großen Auflösung des Konflikts gerechnet hat den muss ich leider enttäuschen. Natürlich ist es nicht so das wir Bacaro einfach aufhalten indem wir ihn hinter laufen und bei der ersten Gelegenheit ein paar Feuerbälle an den Kopf werfen. Das wäre ja nun wirklich zu einfach und liegt ja so gar nicht in unserer Macht. Seit wann haben wir auch jemals Konflikte mit Gewalt gelöst. Generell fühlt sich das hier übrigens jetzt eher wie ein Prolog an in dem wir schon mal eingestimmt werden mit wem wir es in Zukunft zu tun haben und warum die Person so mächtig ist. Am Ende des Weges werden wir natürlich mächtig umgehauen und dann verbringen wir ein ganzes DLC damit Macht zu sammeln um den großen, bösen Fürsten zu schlagen. Das wird aber wohl eher nicht passieren. Wenn die restlichen Handlanger von der Qualität des heutigen Geistes sind mache ich mir übrigens absolut keine Sorgen. Naja, der junge Druide hat halt auch wenig Erfahrung.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 05.08.2023 - #1815 - ##62 - S9
+  ```
+
+##### #63
+
+* Titel: `Let's Play ESO #1816 ##63 - der Geist des Feuersangberges [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 63 des Firesong DLCs - Sitzung 9
+  
+  Es wird mir wohl nie ganz klar sein wie genau man Geister als Energiequelle nutzen kann und wie die Insignien des Druidenkönigs von den wir mehrfach und in aller Eindringlichkeit gehört haben das sie in sich selbst keinerlei Funktion haben dafür genutzt werden können irgendwelche Geister zu beschwören. Wichtig ist aber das mir ebenso schleierhaft ist wie es eigentlich überhaupt soweit hätte kommen können. Wir erinnern uns das die Feuersangdruiden nach der ganzen Orlaith Geschichte Reue geschworen haben, wo genau sind die also eigentlich alle? Ist ja schön und gut das sich ein paar sofort unter Bacaro wieder gefunden haben, aber das erklärt immer noch nicht wo die "guten" Feuersang waren. Alle im Urlaub wenn man sie später fragt oder was? Und wo die die Flotte irgendeiner der beteiligten Fraktionen. Es war doch völlig klar das der große Vulkan das Ziel und die Quelle der Macht war. Warum ist es nicht möglich einen einzelnen mittellosen Irren zu stoppen? Wo sind die Kampfmagier von Haus Monard. Wo war die Courage aller beteiligten Ritter? Es kommt mir fast so vor als müsste ich alle Arbeit alleine erledigen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 05.08.2023 - #1816 - ##63 - S9
+  ```
+
+##### #1817
+
+* Titel: `Let's Play ESO #1817 ##64 - Und nun vielleicht...Frieden? [Firesong]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 64 des Firesong DLCs - Sitzung 9
+  
+  Und da sind wir wieder einmal. Eine weitere Episode mit massiver Überlänge. Eigentlich wrappen wir nur die Handlung von dem DLC ab das wir grade gespielt haben, aber erneut unterschätze ich wie lange es doch dauert mit allen beteiligten Personen zu sprechen. Natürlich möchte ich das möglichst gründlich abfrühstücken, aber ich hätte das auch nur ungern in mehr als eine Episode geteilt. Schauen wir uns also an wie es weiter geht jetzt nach dem die Pläne des aufstrebenden Fürsten entgültig vereitelt wurden. Ich habe in letzter Zeit ein paar Bücher gelesen und mich an deren Ende ein wenig geärgert das es relativ wenig Material gab nachdem alles vorbei ist. Vielleicht will sich der Autor einfach keine Wege verbauen. Diese Angst müssen wir hier nicht haben, das Ganze Epilog Thema zieht sich auch am Ende nochmal mächtig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Firesong Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOoCHzMhV2oDWlesTUCE_6E
+  Aufnahme vom 05.08.2023 - #1817 - ##64 - S9
+  ```
+
+## Nekrom
+
+##### #1818
+
+* Titel: `Let's Play ESO #1818 ##1 - Auge des Schicksals [Nekrom Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 1 des Nekrom Prologs - Sitzung 1
+  
+  Hochinsel ist vorbei, Zeit für das Festland und wahrscheinlich bald wieder eine weitere Ebene von Oblivion, dunkle Stimmen raunen schon jetzt das es wohl nach Apokrypha geht, noch ist das aber alles noch nicht passiert. Ein wenig in dieser Episode, ich bin so spät dran das es das Hauptspiel des DLCs bereits lange gibt und ich zusammen mit dem Prolog direkt loslegen kann. Ich habe allerdings vergessen das  es den Prolog überhaupt gibt und daher geht es ein wenig seltsam los. Immerhin habe ich mich gerade noch rechtzeitig erinnert das es in der Regel so etwas wie einen Prolog überhaupt gibt, leider haben die wenigen Sekunden Haupt-DLC bereits ein wenig den Prolog gespoilert, oder vielleicht auch nicht, dazu aber später mehr. Fangen wir also an.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 09.08.2023 - #1818 - ##1 - S1
+  ```
+
+##### #1819
+
+* Titel: `Let's Play ESO #1819 ##2 - die Smaragdglyphic [Nekrom Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 2 des Nekrom Prologs - Sitzung 1
+  
+  Anscheinend sind Glyphiken etwas das direkt von unseren besten Freund dem Fürsten des Wissens stammt. Wie die Dinger jetzt genau nach Nirn gekommen sind und warum er nicht wie jeder normale Daedra die fraglichen Gegenstände direkt manifestieren kann ist mir absolut nicht klar aber das grundlegende Konzept ist ganz witzig. Ich kann an der Stelle schon einmal Spoilern das die Konzepte die am Ende manifestiert werden absolut simpel sind und ich wirklich nicht weiß warum wir uns so viel Mühe gemacht haben. Wirklich nicht. Aber die Wege der Daedra sind wohl für normale Sterbliche völlig unverständlich also nehmen wir das jetzt einfach einmal so hin. Unsere Reise wäre auch viel kürzer. Ob wir uns Zeit sparen hätten können wenn wir einfach angeboten hätten aus eigener Kraft in Apokrypha einzudringen? Allerdings habe ich gehört das das gar nicht so einfach sein soll, zumindest im Vergleich zu den anderen Reichen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 09.08.2023 - #1819 - ##2 - S1
+  ```
+
+##### #1820
+
+* Titel: `Let's Play ESO #1820 ##3 - Augenatrophie [Nekrom Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 3 des Nekrom Prologs - Sitzung 1
+  
+  Heute mache ich intelligente Wortspiele. Ich erkläre es um jeglichen Witz heraus zu nehmen. Hermeus Mora hat offensichtlich wie alle Daedra einige Anhänger die sich irgendwo in der Welt versteckt halten. Immerhin kann ich so halbwegs verstehen warum sie ihn anbeten. Das Wesen bietet immerhin exklusiven Zugriff auf Wissen an, ich vermute allerdings das Vieles davon von nicht besonders hohen Wert ist weil es immer noch ein Handel ist und ich würde fast darauf wetten das ein Daedra-Fürst die guten Brocken für sich behält. Mit dem Wissen scheint es aber generell nicht so weit her zu sein wenn man sich den Nebel anschaut durch den wir uns heute kämpfen müssen. Wie bei allen Daedra kann ich nie so richtig einschätzen wie wichtig ihnen ihre sterblichen Anhänger sind. Klar, nach Außen sagen sie immer das es nur Werkzeuge sind die einfach weg geworfen werden wenn sie nicht mehr nützlich sind aber der Verlust einer guten Säge kann auch schmerzen. Persönliche Zuneigung würde ich ausschließen wollen aber man weiß nie, schon so einige niedrige Daedra sind den Sterblichen ein wenig zu nahe gekommen, warum nicht auch die Großen. Der Wissensfürst muss auf jeden Fall bald seine Werkzeugkiste ein wenig aufstocken, der aktuelle Bestand schwindet. Seine Anhänger heißen übrigens Augen, manchmal auch mit irgendwelchen Suffixen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 09.08.2023 - #1820 - ##3 - S1
   ```
 
 ##### #TEMPLATE
@@ -9141,13 +9371,13 @@
 * Beschreibung:
 
   ```markdown
-  Episode 8 des High-Isle DLCs - Sitzung 2 
+  Episode 1 des Nekrom Prologs - Sitzung 1
   
-  Let's Play ESO #1655 ##8 - kein vollkommender Fehlschlag [Hochinsel]
+  Let's Play ESO #1818 ##1 - Auge des Schicksals [Nekrom Prolog]
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
-  Hochinsel Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNNPfQ-D5ovmZeJgGD_rEDY
-  Aufnahme vom 14.06.2022 - #1655 - ##8 - S2
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 09.08.2023 - #1818 - ##1 - S1
   ```
 

@@ -511,12 +511,347 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
-##### #Nummer
+##### #35
 
-* Titel: ``
+* Titel: `God of War - #35 - flacherer Neunweltensee [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Mir ist wirklich kein besserer Titel eingefallen. Der See der neun Welten ist jetzt wesentlich flacher als vorher. Das liegt daran das Jörni sich ein wenig erhoben hat und wir jetzt Zugriff auf noch mehr Orte haben. Leider war ich nicht so richtig in der Lage das in einem Titel zu verfassen. Was ich damit aber sagen will ist das wir noch mehr umherfahren können und irgendwelche Schätze heben können. Es gibt übrigens zwei Arten von Gegnern: die die etwas Schaden machen und dann  recht schnell sterben und jene die mich in zwei Schlägen aus dem Leben nehmen. Tatsächlich bevorzuge ich die zweite Art weil ich das meistens nur zwei oder drei Heinzel sind und denen kann man ausweichen. Wenn ich mich zu mächtig fühle kann es manchmal schief gehen weil ich mich selbst überschätze. Inhaltlich passiert heute leider nicht ganz soviel, größtenteils weil wir halt nur von einem Ort zum nächsten fahren und schauen welche Schätze es noch so gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 5, Aufnahme vom 13.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #36
+
+* Titel: `God of War - #36 - Thamurs Grab [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Umso mehr wir die Welt bereisen umso mehr finden wir tragische Geschichten. Wir haben bereits von zerstrittenen Zwergen gehört, von Göttinnen die nicht mehr nach Hause können und jetzt auch von toten Riesen. Größtenteils scheint das Leid der Welt von den Asen aus zu gehen, im Speziellen vielleicht sogar von den Ambitionen einer einzelnen Person: Odin. Das heutige Opfer übermäßigen Blutdurstes ist aber einen seiner Söhne zum Opfer gefallen: Thor. Ob wir ihn persönlich noch treffen ist nicht so ganz klar aber ich könnte mir durchaus vorstellen das unser Konflikt mit Baldur noch eine zweite Runde erhält. Thamur ist so oder so ein tragischer Fall, er wollte nur seinen Sohn finden und jetzt finden wir was am Ende daraus geworden ist. Allerdings habe ich ein wenig Sorge was für Kraft Thor hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 5, Aufnahme vom 13.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #37
+
+* Titel: `God of War - #37 - dickes Eis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bei meinem letzten Ausflug über die Physik eines Hammers haben wir ja eigentlich schon festgestellt das wir die Welt der rationalen Naturwissenschaften weit hinter uns gelassen haben. (Mir fällt grade auf das ich die Episoden in falscher Reihenfolge beschreibe. Falls du das hier wirklich liest, die Beschreibung mit dem Hammer kommt dann in der nächsten Folge) Physik und Materialeigenschaften ist eher etwas für Menschen die keinen Zugriff auf göttliche Wunder haben, auch wenn ich mich frage wie olle Baldur auf ein größeres Panzerabwehrgeschoss oder eine Stange Dynamit reagieren würde. Die ganze Fragestellung geht aber noch ein Stück weiter. Wir wissen das Kratos ziemlich stark ist, irgendwelche Steine die locker 500 kg wiegen kann er relativ leicht weg heben, aber er hat ja auch ein paar Muskeln. Dann gab es andere Szenen in denen er relativ effizient auch größere Dinge bewegt hat. Offensichtlich gibt es aber Grenzen, zumindest sieht er gelegentlich recht angestrengt aus wenn etwas tut. Unserer heutiger Endboss ist anscheinend das dicke Eis das uns davon abhält die Nadel eines Meißels zu erhalten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 6, Aufnahme vom 20.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #38
+
+* Titel: `God of War - #38 - Thamurs Hammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man so von den Riesen hört dann sind die in der Regel gar nicht so groß. Bei Thamur liegt der Fall ein wenig anders. Als der Frostriese durch Thors blutrünstige Hand starb fiel ein wahrhafter Gigant. Riesen beleidigen die Realität, ihre schiere Größe lässt es quasi unmöglich sein das ihre Existenz sich lang fortsetzt. Die Häuser der Riesen müssten jede Statik verletzen und generell und überhaupt funktioniert so vieles mit den Dingen die wir kennen nicht wenn man die Maßstäbe eines Riesen annimmt. Was aber wahrscheinlich wirklich funktionieren würde ist der Hammer von Thamur. Das Ding ist zwar gewaltig und ein Stahlhammer dieser Größe drückt sich wahrscheinlich langsam in den Boden, aber dennoch glaube ich das die statische Last zumindest funktioniert und das Teil nicht unter seinem Eigengewicht zusammenbricht. Wie man jetzt einen so gewaltigen Hammer schmiedet und wie lange das Abkühlen dauert...das vermag ich nicht zu sagen. Ich hab die Statik übrigens nicht durchgerechnet, könnte durchaus sein das es vielleicht passt aber man ihn nicht benutzen könnte. Wie schon gesagt, Physik macht bei Riesen eher nicht so mit, zumindest nicht in dieser Dimension.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 6, Aufnahme vom 20.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #39
+
+* Titel: `God of War - #39 - Magni und Modi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte nie einen Bruder. Ich frage mich aber wirklich was das nicht alles geändert hätte wenn man in seiner Kindheit mit jemanden aufgewachsen wäre der einen sehr nahe steht. Ich hatte an der Stelle einen Cousin, aber wenn ich ehrlich bin habe ich den auch nicht so oft gesehen und in letzter Zeit habe ich mich auch von ihm entfernt. Ich sehe wie andere Menschen mit ihren Geschwistern interagieren und scheinbar gibt es da immer noch so eine Art Band, etwas auf das man immer wieder zurück kommt. Theoretisch könnte man das auch mit wildfremden Leuten tun, Menschen die man auf dem Weg durch das Leben aufgelesen hat und einfach in Kontakt bleiben, aber doch tut man es doch am Ende eher nicht. Also frage ich mich oft wie es wohl wäre eine Schwester oder einen Bruder zu haben. Und wie es dann wohl ist wenn man ein Geschwisterteil verliert. Wie ist es wenn direkt vor der eigenen Nase der Bruder erschlagen wird. Was löst das wohl in einem aus? Die Nordleute haben eine ziemlich dicke Kultur darum das man in der Schlacht fallen sollte und nicht im Bett, aber wie hält man das bei den Göttern? Halten die sich auch daran?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 6, Aufnahme vom 20.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #40
+
+* Titel: `God of War - #40 - die Walküre [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man alte, versiegelte Orte findet und man dann weniger später über eine noch lebende Person bzw. Wesen stolpert sollte man sich sorgen machen. Zum Einen warum jemand hier anscheinend vergessen und für immer eingesperrt wurde, und was wohl der Grund dafür gewesen sein könnte. Wir wissen immerhin ziemlich schnell das es sich um eine Walküre handelt. Aus den SoulsBorn Spielen habe ich die Erkenntnis genommen das die schwierigsten Gegner immer die sind die so groß wie man selbst ist und tatsächlich ist die durchschnittliche Walküre kaum größer als Kratos selbst. Es könnte also Probleme am Horizont geben. Die heutige Episode ist übrigens doppelt lang weil mich eventuell ein wenig der Ehrgeiz gepackt hat. Das war natürlich grundlegend falsch, ich hätte viel kälter und kalkulierter vor gehen sollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 6, Aufnahme vom 20.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #41
+
+* Titel: `God of War - #41 - Gedanken der Hoffnung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder im Lande der Nebenmissionen und daher ist der heutige Titel auch nicht ganz so ernst zu nehmen wie es normalerweise der Fall ist. Wir haben nicht plötzlich irgendwelche komischen Gedanken und sein wir ehrlich, der Gott des Krieges ist nicht unbedingt die Person die besonders viele Gedanken der Hoffnung verteilt. Eigentlich eher im Gegenteil, seine Aufgabe ist es Menschen Gedanken der Aufgabe zu vermitteln, macht zumindest seinen Job wesentlich einfacher. Wie dem aber auch sei, es geht hier um die Möglichkeit mit den Toten zu sprechen. Atreus tote Mutter war, soweit wir es zumindest wissen, nur ein normaler Mensch, ihre Seele müsste daher den normalen Weg aller Toten gegangen sein. Von Allem was wir so gesehen haben ist es durchaus möglich eine solche Person wieder zurück zu holen, auch wenn es keinen klaren Pfad für Wiederauferstehung gibt, so scheint es doch zumindest mehre Ansätze zu geben. Mit den Toten zu reden sollte auch nicht all zu schwer sein. Daher ist es doch durchaus wahrscheinlich das wir den Worten eines anderen Geistes glauben dürfen. Oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 6, Aufnahme vom 20.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #42
+
+* Titel: `God of War - #42 - Völundr-Minen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte das wir im Nebenquestgebiet sind oder? Heute gehen wir in die Völundr-Minen. Das ist ein Thema mit dem mir Brok eigentlich schon seit einiger Zeit auf die Nerven ging. Das liegt auch eventuell daran das er wirklich sehr einen speziellen Gegenstand haben will, so wie sein Bruder es nach einem bestimmten Schleifstein gelüstet. Beiden können wir ihren Wunsch aber auch nicht sofort erfüllen. Wir erfahren bei der Gelegenheit übrigens auch das es scheinbar nicht mehr besonders viele Lebende gibt. Von Allem was wir so gesehen haben funktioniert der Tot nicht mehr so richtig gut aber den Lebenden scheint es auch nicht so gut zu gehen. Zumindest haben wir bisher noch keinen anderen Zwerg getroffen und unser Versuch einen Freund von Brok zu kontaktieren hat bisher auch nicht so gut funktioniert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 6, Aufnahme vom 20.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #43
+
+* Titel: `God of War - #43 - Ausflug nach Muspelheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird ja immer wieder von 9 Welten geredet, wir waren bis jetzt in 2 und ich bezweifle irgendwie das wir in diesem Spiel noch Asgard betreten. Bleiben als für den Moment 6 andere Welten die uns noch völlig offen stehen und die eigentlich noch bereist werden wollen. Es stellt sich doch glatt heraus das wir vor gar nicht langer Zeit die Rune für Muspelheim gefunden haben, das Heim des Feuerriesen Sutr. Sutr ist übrigens ein weiterer von diesen Riesen die wirklich den Namen verdienen und ist wirklich gigantisch. Nehme ich zumindest an, weil bisher haben wir von ihm nicht so besonders viel gefunden außer ein wenig Lava. Was der gute Sutr aber hat ist eine Menge nervige Viecher die er uns als Herausforderung präsentieren möchte. Ein wenig schade das es außerhalb der einzelnen Dinge in den anderen Orten nichts zu erkunden gibt, auch wenn das wahrscheinlich das Spiel unnötig aufgebläht hätte. Aber nur den Tyr-Tempel und sonst nichts zu sehen ist fast schon enttäuschend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 6, Aufnahme vom 20.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #44
+
+* Titel: `God of War - #44 - Scheitern im Muspelheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte es ja beim letzten Mal schon angedeutet, ich bin eigentlich nur nach Muspelheim gekommen um mich kurz um zu sehen, die Möglichkeit ganz oben auf den Hügel von Sutr zu kommen klingt übrigens trotzdem ziemlich interessant, leider kommt dann die Realität in den Weg die da heißt das ich ein schlechter Spieler bin und es wohl leider nicht schaffen werde. Aber das ist gar nicht so dramatisch, es gibt anscheinend Punkte für einen partiellen Erfolg und so haben wir am Ende immerhin ein wenig Feuer inspirierte Klamotten erworben die uns auf unseren weiteren Pfad bestimmt noch ziemlich nützlich sein werden. Es ärgert mich dennoch ein wenig mehr als es sollte das ich das letzte Level der letzten Herausforderung so knapp nicht geschafft haben. Aber da hat mir wohl einfach der Joker und vielleicht auch die Durchhaltekraft gefehlt. Machbar wäre es auf jeden Fall.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 7, Aufnahme vom 27.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #45
+
+* Titel: `God of War - #45 - Hustenanfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig ironisch. Während ich das hier schreibe huste ich grade selber ziemlich nervig. Allerdings habe ich nicht direkt die gleichen Vorrausetzungen wie Atreus. Es stellt sich ein wenig die Frage ob wir Sohn nicht dadurch gefährdet haben weil wir unvorsichtig waren. Kratos ist ziemlich unzerstörbar und in der Regel kann er mit ziemlicher Leichtigkeit durch die Gegend springen und selbst wenn jemand mit einer Falle auf ihn wartet gibt es eigentlich keine großen Probleme, was soll die Gegenseite auch tun? Den Gott der Zerstörung, Vernichtung und Göttertodes aufhalten? Das klingt doch schon ein wenig sehr optimistisch. Das Problem ist jetzt aber das unser Mann nicht mehr alleine unterwegs ist und jetzt so etwas wie Verantwortung zu übernehmen hat. Dementsprechend müssen wir uns jetzt an jemanden wenden der vielleicht ein wenig Ahnung von der Behandlung von Göttern hat. Jemand mit genügend eigenen Problemen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 7, Aufnahme vom 27.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #46
+
+* Titel: `God of War - #46 - Ausflug nach Helheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kratos kennt sich wirklich gut damit aus in das Reich der Toten zu gehen um die Seelen der Verstorbenen zu sprechen. Zumindest was ich so in der Zusammenfassung gesehen habe war der gute Gott des Krieges quasi Stammgast am Styx und Charon schon Vielfahrerrabatt anbietet. Das nördliche Reich der Toten heißt Helheim und eigentlich ist für mich gar nicht so genau klar ob die Toten wirklich hier verbleiben. Offensichtlich wandern sie hier durch aber wir wissen auch das irgendetwas mit dem Sterben nicht so korrekt funktioniert. Und dann haben wir noch erfahren das letztendlich alle Seelen in das Licht von Alfheim treten, wann genau das passiert ist allerdings nicht so klar. Was wir auch erfahren das für die Nordmänner im Bett zu sterben quasi eine Todsünde ist. Das ist übrigens als Lebensphilosphie ein wenig selbsthassend und erscheint mir auch ziemlich unpraktisch für all diejenigen die entweder nicht aktiv am Krieg teilnehmen wollen oder vielleicht gar nicht können. Und es fühlt sich wohl auch ein wenig wie ein Schlag ins Gesicht wenn man zu den Personen gehört die die entsprechenden "heldenhaften" Krieger gebiert und aufzieht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 7, Aufnahme vom 27.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #47
+
+* Titel: `God of War - #47 - Brücke der Verdammten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen ja jetzt das wer nicht im Kampf fällt kann nicht nach Walhalla, aber so wie es auch aussieht ist das mittlerweile eh egal weil die Valkyren die dafür verantwortlich sind eh grade nicht mit machen nachdem sie von Odin eingesperrt wurden. Von dem was ich sehen kann gibt es auch gar nicht so besonders viele von ihnen, nur so ungefähr 8, und die zwei die wir bisher befreit haben machen wohl nicht den Unterschied. Auf der Brücke laufen aber definitiv die Leute umher die es nicht geschafft haben "richtig" zu sterben. Allerdings stellt sich auch die Frage was die nordische Religion von Leuten hält die völlig unverschuldet gestorben sind. Bisher haben wir ziemlich wenig Menschen da draußen gesehen, könnte es eventuell sein das größere Teile der Menschheit an Naturkatastrophen, wie zum Beispiel plötzliche Fluten weil die Weltenschlange sich reposioniert hat gestorben sind? Immerhin ist die Brücke auch das Ende unseres Ausfluges, man muss ja auch wirklich nicht den ganzen Weg gehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 7, Aufnahme vom 27.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #48
+
+* Titel: `God of War - #48 - Heilmittel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen im Lande der einfach beschriebenen Episodentitel die leider absolut nichts aussagen. Heute präsentiere ich "Heilmittel". Das ist absolut fantastisch. Außerdem ist die Begrifflichkeit bestimmt auch falsch. Junge geht es ja nicht schlecht weil der per se krank ist sondern weil er nicht weiß das er selbst ein Gott ist und das es deswegen irgendwie eine Diskrepanz gibt. Wie auch immer das funktioniert. Aber Freya hat ja gemeint das wir nur irgendwelche Herzen von total willkürlichen Wächtern brauchen und schon kann sie den Leuten wieder auf den Damm helfen. Wie genau das funktioniert ist mir auch nicht klar, aber ich habe irgendwie den leichten Eindruck das Logik hier keine echte Rolle spielt. Aber so ist das halt bei der Mythologie, Dinge sind nur dann kompliziert wenn es für die Handlung gebraucht wird, ansonsten kriegen die Protagonisten es scheinbar sofort hin, insofern mache ich mir da bei Freya keine Probleme. Die Chance das sie das Zusammenbrauen von einem super nischigen Trank den sie bestimmt noch nie gemacht hat gegen die Wand fährt ist quasi gleich null.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 7, Aufnahme vom 27.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #49
+
+* Titel: `God of War - #49 - Portal zur Gier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wisst ihr was wir lange schon nicht mehr hatten? Backtracking! Und endlich können wir uns auch beliebig durch die Gegend teleportieren. Das nutzen wir natürlich reichhaltig dazu aus endlich die letzten verlorenen Schätze zu bergen die wir ganz am Anfang vergessen haben. Da wird nichts Besonderes drin sein, vielleicht zweistellige Mengen an Hacksilber, aber darauf kommt es ja nun wirklich nicht an. Allerdings finde ich auch noch eine andere Sache, und die hat es ein wenig in sich. Wer hätte gedacht was für interessante Sachen sich quasi direkt unter der Hütte von Faye und Kratos versteckt hält. Wie lange man diese Kammer wohl hier schon hätten finden können? Ob Odin überhaupt noch weiß wo er welche Sache versteckt hat?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 7, Aufnahme vom 27.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #50
+
+* Titel: `God of War - #50 - Pfad der Walküren [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben bisher, durch irgendein Wunder, zwei Walküren besiegt. Jetzt ist noch nicht so ganz klar was wir mit diesem Wissen tun aber es ist scheinbar ein Anfang. 25% um genau zu sein wenn man bedenkt das es anscheinend 8 Walküren gibt die irgendwo in irgendwelchen Kerkern abhängen. Wie es jetzt genau weiter geht ist noch ziemlich offen aber Freya erwähnte das das Verschwinden der Walküren wohl ein Problem für die natürliche Ordnung darstellt und irgendwo fiel auch die Vermutung das wohl Odin mehr oder weniger direkt an den Problemen der Welt beteiligt ist. Was es jetzt genau ist können wir zum jetzigen Zeitpunkt noch nicht sagen, aber immerhin haben wir schon einmal den Ort gefunden an dem wir Dinge hinstellen können damit es weiter geht. Oder alles besser läuft. Wer weiß das schon?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 7, Aufnahme vom 27.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #Nummer
+
+* Titel: `God of War - #51 - leichter Übermut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neue Sitzung, neues Glück. Und ich habe vergessen das wir eben eine Hauptquest abgeschlossen haben, dadurch alle Gegner ärgerlich viel stärker geworden sind und unser aktuelles Level einfach nicht ausreicht eben jene Gegner zu überwinden. Das führt leider dazu das extrem viele Begegnungen sehr frustrierend sind. Das Spiel schummelt hier auch ein wenig glaube ich, aber nicht genug um den Kampf völlig einseitig zu machen. Ich habe also die ganze Zeit die seichte Hoffnung das ich das dennoch irgendwie gewinnen kann, aber am Ende habe ich natürlich kein Erfolg. Wie sollte ich auch. Die Gegner sind mir ja extrem über. Das hält mich natürlich nicht davon ab mich zum Gespött der Leute zu machen. Und das ist dann das Video.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 03.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #52
+
+* Titel: `God of War - #52 - Vater & Sohn Ausflug nach Helheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren neulich kurz in Helheim weil wir ein Ersazherz für unseren Sohn brauchten. Der gute JUNGE hatte ja leider ein kleines Leiden und da brauchte es halt Spezialmedizin. Während dieses Ausfluges ist uns aber auch aufgefallen das es noch ein paar Türen gab für dessen Öffnung ich leider noch ein wenig Hilfe gebraucht hätte. Damals standen die Fähigkeiten des Jungen leider nicht zu Verfügung. Dies hat sich aber jetzt geändert und daher besuchen wir den Ort noch einmal. Das und weil ich ihm natürlich nicht die unfassbare Freude vorenthalten möchte die ein kleiner Ausflug in das Reich der Toten noch so mit sich bringt. Am Ende ist die Reise aber ziemlich schmerzhaft weil anscheinend auch noch andere Dinge in Helheim gelagert wurden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 03.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #53
+
+* Titel: `God of War - #53 - Walküre in Albheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Letztes Mal haben wir eine Walküre in Helheim gefunden, da steht es doch sehr zu vermuten das wir auch in den anderen Welten noch welche auftreiben können. Und so ist es natürlich. Heute gehen wir also nach Albheim um eine weitere dieser Türen von Odin zu öffnen. Außerdem gibt es an einem Ort noch eine Truhe von der ich mir absolut sicher war das ich sie noch nicht öffnen konnte als ich das letzte Mal dort war. Es stellt sich doch glatt heraus das ich das durchaus gekonnt hätte ich nur leicht zu doof war. Das bin ich auch heute noch aber am Ende schaffe ich es dann doch. Was ich aber nicht schaffe ist die Walküre zu besiegen. Entweder sind die Kämpfe wirklich schwer oder ich bin einfach zu doof.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 03.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #54
+
+* Titel: `God of War - #54 - Tyrs Kratosspieß [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Name der heutigen Episode hätte so viel besser sein können aber ich habe mich für die Variante entschieden die möglichst lächerlich ist. Hintergrund ist das wir heute noch einmal versuchen Tyrs Tempel zu betreten, ein Unterfangen das beim letzten Mal nicht so erfolgreich war. Das läuft ein wenig besser dieses Mal allerdings stellt sich doch glatt heraus das die Bude eine verdammte Todesfalle ist. Immerhin erfahren wir das es scheinbar durchaus möglich ist auch in den Einflussbereich der anderen Götter zu reisen wenn man sich nur genügend Mühe gibt. Dem guten Tyr ist das scheinbar gelungen, oder andere sind zu ihm gekommen, wie genau die Geschenke es zu ihm geschafft haben ist nicht ersichtlich. Interessanterweise sind Kratos Taten anscheinend schon ein wenig länger her wenn man bedenkt das die Erinnerung an seine Taten soweit zum Kulturgut gehört das irgendwelche zufälligen Amphoren sein Bildnis enthalten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 03.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #55
+
+* Titel: `God of War - #55 - Weinverkostung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neben den leicht angerosteten Kulturschätzen und die Rune von Jötunheim finden wir auch noch ein paar Gegenstände von tatsächlichen praktischen Wert im Grab von Tyr. Und die Erkenntnis das Kratos anscheinend Messer aus Material aus Griechenland erschaffen hat. Ob das später noch einmal relevant ist kann ich noch nicht einschätzen aber ich bin ziemlich beeindruckt das Wein in einer Amphore noch gut ist. Andererseits sollten die Dinger relativ dicht sein und es ist nun wirklich kalt in Midgard, könnte also durchaus sein das sich der Wein da eine Weile hält. Oder sie trinken beide Essig und Kratos kann sich nur nicht erinnern wie guter Wein schmeckt. Ich kann mir auch nicht wirklich vorstellen das er ein großer Fan von Met ist. Aber immerhin kann man den frisch von Heidrun zapfen. Ob die Ziege noch einmal vorkommt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 03.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #56
+
+* Titel: `God of War - #56 - neue Herausforderungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht so recht warum ich tue was ich tue. Offensichtlich stürze ich mich von einer Herausforderung in die Nächste ohne dabei wirklich ein Ziel zu verfolgen. Zum Beispiel versuche ich irgendwelche viel zu starken Gegner zu besiegen die ich wohl doch lieber erst später angehen soll. Das Problem hier ist auch das God of War nicht völlig fair ist. Die meisten Feinde kann man zwar irgendwie ausspielen in dem man sich einfach nicht treffen lässt, aber völlig narrenfrei ist diese Taktik nicht und manchmal passiert es einfach das man dennoch erwischt wird. Besonders auffällig ist das wenn Gegner die eigentlich dafür bekannt sind Fernkampf zu benutzen doch plötzlich ihren Zauberstab heben um mich zu verletzten. Das ist dann schon ziemlich störend und wirft mich enorm zurück. Dennoch gebe ich mein Bestes mich heute dieser Herausforderung zu stellen. Leider bringt es auch absolut nichts. Am Ende erhalte ich ein paar magere Gegenstände die mich auch nicht wirklich auf meinen Pfad weiter bringen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 03.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #57
+
+* Titel: `God of War - #57 - Otrs Gefangenschaft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie in der fernen Zukunft wird es bestimmte eine Drachenrechts-Organisation geben die sich gegen das Gefangennehmen von Drachen stellen wird. Oder für, je nachdem ob Drachen grade frei durch die Welt fliegen und Schafsherden auffressen oder halt eben nicht. An sich bin ich ziemlich indifferent was Drachen angeht aber mir ist noch nicht so ganz klar wo genau die im Öko-System ihren Platz finden. In dieser Hinsicht sind Drachen ein wenig wie Menschen. An sich tun sie nichts was die Welt irgendwie besser macht und die Kosten für ihre Erhaltung sind nach gerade zu gewaltig. Auf der anderen Seite scheint es so als könnte man einen Drachen auch gut ohne weiteres Futter halten. Zumindest habe ich bisher keinen gewaltigen Haufen an Knochen oder anderen Überresten gesehen der darauf hindeutet das Drachen etwas Anderes tun als zu ihren Vergnügen zu fressen. Oder Gold zu horten. Im Falle von Fafnir war der Zwerg ja nicht einmal immer ein Drache. Heute geht es aber um Otr, der Name sagt mir absolut gar nichts, aber anscheinend war irgendein Zwerg daran schuld das er in Gefangenschaft geriet. Wie auch immer man überhaupt einen Drachen fängt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 03.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```

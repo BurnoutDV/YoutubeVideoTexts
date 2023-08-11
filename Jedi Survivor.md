@@ -527,6 +527,286 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
+##### #36
+
+* Titel: `Jedi Survivor - #36 - die Musiker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht so richtig was ich eigentlich überhaupt in diesem Spiel hier mache. Langsam aber sicher reift in mir die Erkenntnis das ich vielleicht einfach stumpf die Hauptquest ablaufen sollte anstatt die offene Welt zu nutzen. Offenbar entsteht dadurch nur Schmerz und am Ende rege ich mich unnötig auf. Gutes Beispiel heute zum Beispiel die Musiker. Ich verfolge diese Nebenquest nicht einmal aktiv aber ich sehe halt das es sie gibt. Was ich mir erhofft habe war halt irgendeine Art von Belohnung und vielleicht sogar eine gewisse Menge an Worldbuilding. Was ich stattdessen kriege sind drei Zeilen Dialog und danach das Gefühl das ich wieder einmal nur durch eine leere Kulisse gelaufen bin. Das einzige was halbwegs glaubhaft bis jetzt war waren die Tierställe. Alles Andere sieht so sehr nach „Technikhintergrund, verfallen, #42“ aus das man es kaum glauben kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #37
+
+* Titel: `Jedi Survivor - #37 - Fort Kah'lin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen zu einer weiteren Episode „Burnout meckert an Star Wars herum“. Ich mache es aber kurz. Zu erst die Fakten, wir betreten einen Ort der laut Karte „Fort Kah’lin“ heißt. Ich habe absolut keine Ahnung ob dieser Ort nach einer Person, einen Fluss oder einer Rasse an Wesen benannt wurde. Wir finden später heraus das hier wohl mal andere Banditen als die Bedlam Raider gehaust haben. Okay. Ansonsten ergibt aber echt wenig davon Sinn. Wir finden eine Menge, und ich meine eine Menge Leichen von Handelskonföderationsdruiden und ich darf wohl davon ausgehen das sie diejenigen waren die diese Festung gebaut haben. Oder vielleicht auch nicht, Baustile sind offensichtlich Schall und Rauch. Generell und überhaupt weiß ich aber auch nichts davon das die Konföderation überhaupt irgendwelche Bauwerke auf Planeten errichtet haben. Geschenkt. Was  wir auch sehen ist eine gewaltige Anzahl an noch aktiven Droiden inklusive ganzer Dropships. Warum garniert man die ganze Landschaft mit Droidenleichen wenn man die Viecher selber einsetzt? Wen will man damit Angst machen? Da wir sonst absolut nichts über die Raider wissen außer das sie ja so brutal sind und die Leute drangsalieren fällt es mir schwer mir hier ein Bild zu machen. Die gesamte Einrichtung ist aber weit offen, verfügt über eine Art Wehrgang und würde in einem realistischen Engagement ungefähr 10 Sekunden halten und danach durch Artillerie komplett zerfetzt werden. Der Aufbau ergibt keinen Sinn und selbst mit versperrten Gängen wird es nicht besser. Das Ganze wirkt wie ein weiteres Stück Vergnügungspark über das sich niemand Gedanken gemacht hat und das einfach nur da ist. Das Highlight ist aber definitiv der Oggdo Bogdo am Ende. Auf dem komme ich aber noch in der nächsten Episode zu sprechen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #38
+
+* Titel: `Jedi Survivor - #38 - Lavaspalten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gute Nachrichten, wir finden endlich heraus wer die letzte Person im Saloon ist die einfach nicht mit uns reden wollte. Anscheinend besitzt Caij Vanda kein eigenes Bett oder Haus und deswegen sehen wir sie so oft in der Bar schlafen. Oder aber sie überwacht die Leute aus ihrer Nische und das zählt alles zu ihrem Beruf. Es ist nicht so ganz klar wie sie in die letzte Ecke gekommen ist in der wir sie heute finden, aber es ist offensichtlich das Cal Kestis anscheinend der letzte Idiot ist der noch kein Jetpack erstanden hat. Bei seinem chronischen Mangel an Geld kann ich das schon irgendwie verstehen, aber es ist ja nicht so als hätten wir in letzter Zeit eine Menge Sturmtruppler mit Jetpacks erschlagen. In einigen Fällen hatten wir es ein wenig eilig, aber in den Meisten war danach Ruhe. Es kann mir doch keiner erzählen das beim Jetpack auf einmal harte DRM Maßnahmen greifen und in einem Universum in dem alle Technik irgendwie funktioniert das nicht mehr geht. Klar, es würde uns die ganzen Kletterpassagen und Rätsel kaputt machen und langsam habe ich das Gefühl das es sich mehr um ein Running Gag als alles Andere handelt, aber dennoch hätte ich gerne eine bessere Erklärung warum Karl noch keines hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #39
+
+* Titel: `Jedi Survivor - #39 - Aufwind [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Endlich geht es aufwärts, weil heute haben wir Aufwind! Ich war kurz davor das standmäßige Thumbnail von dieser Episode einfach zu lassen aber dann war ich doch zu faul und es gibt das Generische. Darauf zu sehen war Karl wie er an einem Gleiter hängt und durch die Gegend segelt. Das machen wir heute viel und es regt mich ein wenig auf. Die Mechanik ist an sich bereits nervig genug, aber das Spiel schummelt offensichtlich damit das man an bestimmten Stellen viel schneller absagt als an Anderen. Diese Art von Leveldesign Schummelei ist natürlich auch schon okay weil man ja nicht ewig Zeit hat solche Sequenzen aus zu tarieren. Ich sage das es okay ist aber ich finde es nicht okay. Es ist eine faule Art Probleme zu lösen und technisch gesehen Pfusch. Was es vor allen Dingen auch macht ist mich künstlich zu beschränken. Ich mag es viel mehr wenn man das Spiel brechen kann einfach weil Mechaniken absolut konsistent funktionieren und man dann Ecken findet an denen man Orte erreicht die man eigentlich nicht erreichen soll. Das fühlt sich dann wie ein kleiner persönlicher Sieg an. Aber anscheinend war es wichtiger das alle Leute genau den Pfad gehen den sie gehen sollen und es keine Abweichungen gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #40
+
+* Titel: `Jedi Survivor - #40 - Kochender Fels [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin grade zu begeistert von der fast schon diversen Landschaft die uns Koboh liefern kann. Klar, irgendwie ist der Planet immer ein wenig Heiß und hat einen Hauch Dschungel, aber für eine Star Wars Planeten ist die sich veränderne Landschaft quasi schon avantgard und modern wenn es darum geht unterschiedlich zu sein. Fairerweise muss man aber auch feststellen das die Gegend um unseren Landeplatz nicht all zu viel anders aussehen sollte, wir sind ja maximal ein paar Kilometer gereist, wie sehr kann sich da schon das lokale Klima oder die landschaftliche Gestaltung ändern? Planeten sind riesig. Absolut gigantisch, deswegen ist es auch so unwahrscheinlich die gesamte Oberfläche mit Stadt zu überziehen…
+  Der kochende Fels ist übrigens eine ziemlich gefährliche Gegend, da helfen auch keine Jedi-Kräfte. Lava ist einfach Fakt, da kann man nicht viel tun wenn man einmal zu nahe kommt. Deswegen sind wir heute besonders vorsichtig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #41
+
+* Titel: `Jedi Survivor - #41 - Echos der Katastrophe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen das Koboh nicht immer so aussah wie es jetzt aktuell aussieht. Was genau damals zu Zeiten der hohen Republik geschah haben wir uns aber noch nicht so richtig zusammen bauen können. Sicher ist aber das seit dem noch nicht all zu viele Leute durch die Gegend gezogen sind, eine größere Menge der Zeugnisse der alten Zeit sind offensichtlich noch da, fast schon unberührt. Aber irgendetwas hat schnell und hart angegriffen und dafür gesorgt das es hier echte Probleme für die Jedi vor Ort gab. So viele Probleme das wir heutzutage kaum noch etwas von ihnen finden. Aber so wenige Probleme das die Lebenserhaltung für einen frisch gefallenen Jedi noch fast ein Jahrhundert in Takt geblieben ist. Eventuell gab es die kochenden Felsen auch vorher noch nicht, allerdings lässt das wiederum darauf schließen das der Planet vielleicht vorher schon ein wenig instabil war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #42
+
+* Titel: `Jedi Survivor - #42 - ein außergewöhnliches Gerät [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Gerät um das es heute in der Beschreibung geht ist eigentlich nur Nebenschauplatz und so dolle außergewöhnlich ist es eigentlich auch nicht wenn man sich die Geschichte einmal ein wenig mehr bei Licht anschaut. Es handelt sich scheinbar um Navigationsdaten vom Jungfernflug nach Tanalorr der von unserem neuen besten Freund Dagan Gera unternommen wurde. So richtig klar ist das aber auch nicht, eventuell leite ich hier auch falsch ab und die Schlussfolgerung ist völlig falsch. Wie dem aber auch sei, wir haben jetzt zwei der Gerät und weil das bei technischen Geräten so ist können wir jetzt einfach die Dinger zusammensetzen und schon haben wir bestimmt alles was wir für einen kleinen Abstecher zur Außenbasis brauchen. Oder vielleicht auch nicht, das wäre zumindest verdammt schnell und ich glaube nicht das wir es so einfach haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 6, Aufnahme vom 19.07.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #43
+
+* Titel: `Jedi Survivor - #43 - Pfad der Hartnäckigkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin was die Bewertung von Prüfungen des Geistes und der mentalen Fähigkeiten angeht sehr zwiegespalten. In der ganzen Star Wars Welt ist das immer wieder ein Ding. Junge Jedi und Padawane dürfen sich irgendwelchen Prüfungen stellen die ihnen dann Erkenntnisse oder Einsichten gewähren sollen. Dabei gibt es dann meistens eine richtige Lösung und Herangehensweise die vom Meister gut geheißen wird während andere pragmatischere Lösungen die vielleicht schneller, offensichtlicher oder einfach strikt besser sind als nicht gut befunden weil sie ja Zeichen der dunklen Seite der Macht sind. Oder weil der individuelle Meister einfach nicht der Meinung ist das es eine gute Lösung war. Das Problem hat man öfter wenn man in einer echten analogen Welt eine sehr digitale Philosophie anwendet. Und mit Einem kann man sich bei den Jedi sicher sein, dogmatisch sind die das die Schwarte kracht. Immerhin müssen wir bei unserer kleinen Prüfung an gar nichts glauben und etwaige Meister die unser Verhalten beurteilen sind schon länger nicht gesehen worden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 04.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #44
+
+* Titel: `Jedi Survivor - #44 - Narkis-Hochland [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es weht ein Hauch von Open World durch das Spiel. Ich bin mir nicht ganz sicher ob Fallen Order err pardon, Jedi Survivor nicht eine leichte Identitätskriese damit hat. Schon im Vorgänger gab es Abschnitte die gewissermaßen ein gewisses Backtracking verlangt haben und man ist durchaus noch einmal an Orte vorbei gekommen die man am Anfang gar nicht betreten konnte. So richtig offen war das aber zu dem Zeitpunkt nicht. Jetzt können wir relativ frei durch die Landschaft laufen, letztendlich gibt uns das aber auch nur einen sehr oberflächlichen Anschein von Freiheit. Genauso gut könnten wir auch zu Wegpunkten in einem Menü reisen die uns an den Anfang der jeweiligen Kletterrätsel setzen würden und wir hätten es eigentlich genauso wie es jetzt ist. Immerhin sehen wir schon ein paar Appetithappen von dem was uns später erwartet sobald wir die Fähigkeit haben uns an diese fliegenden Dinger zu hängen die wir immer überall herumfliegen sehen. Eventuell ist das aber auch sehr nervig, das vermag ich nun wirklich noch nicht zu sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 04.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #45
+
+* Titel: `Jedi Survivor - #45 - Pfeifender Abhang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zumindest in Sachen Klettern können wir uns echt nicht beschweren das uns das Spiel keine Herausforderungen bietet. Allerdings fragt man sich doch was wohl mit dem Universum passier wäre wenn bestimmte Abhänge nur ein kleines Stück weiter gewesen wären, ein Griff im Fels ein wenig instabiler oder die Sprungkraft von Karl einmal nicht ganz so stark wäre. Die meisten Bewegungen die wir so machen sind immer wieder außerordentlich knapp. Da fragt man sich doch ob die Macht nicht wesentlich aktiver die Welt manipuliert damit die Dinge spannend bleiben als man allgemein denkt. Generell und überhaupt habe ich die Macht ziemlich oft im Verdacht wenn sich die unwahrscheinlichen Zufälle im Star Wars Universum ansammeln. So kann man immerhin eine Menge weg erklären.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 04.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #46
+
+* Titel: `Jedi Survivor - #46 - Stürmischer Tafelberg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Reihe „Orte mit Wind“ geht heute in die nächste Runde. Wir befinden uns nach wie vor auf Jedha, den Planeten mit Wüste und scheinbar nur aus Wüste. Das Universum ist wirklich groß und von Allem was wir so gesehen haben sind bewohnbare Planeten im Star Wars Universum nicht wirklich selten. Eventuell hat irgendeine frühere Intelligenz eine Menge Umlaufbahnen angepasst und eine große Menge von Ressourcen und Zeit darauf verwendet mehr Orte in die habitale Zone zu hieven. Anders kann ich mir das Alles eh nicht erklären. Wie dem aber auch sei. Warum genau entscheidet man in einer solchen Welt voller Möglichkeit für den Wüstenplaneten mit scheinbar absolut keinen brauchbaren Features? Die Spamele würde ich jetzt nicht unbedingt als positives Feature sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 04.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #47
+
+* Titel: `Jedi Survivor - #47 - ausgediente Brücke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe einen zusätzlichen Erklärungsansatz warum es noch so viele Menschen auf Jeddah gibt. Eventuell gab es im Star Wars Universum ein paralleles Ereignis zur lange Nacht wie bei 40K. Eine Zeit in der die Raumfahrt nicht mehr möglich war und die einzelnen Außenposten der Zivilisation von einander getrennt waren und jeder auf sich gestellt wurde. Das würde zumindest die doch recht beeindruckenden Tempel erklären die wir aus der Ferne sehen. Allerdings würde es nicht erklären warum man überhaupt auf einen Planeten voller Wüste landet. Vielleicht ein Unfall? Generell und überhaupt ist die Technik in der Star Wars Welt aber immer so ein wenig wilder Westen Hightech. Manche Sachen scheinen weit über der Industrialisierung zu stehen, Anderes nicht. Es ist alles irgendwie ein Weltraum Märchen. Das macht mich mehr fertig als es dürfte. Ich rannte heute übrigens ziemlich lang über eine unsichtbare Wand die anscheinend da ist weil man die Richtung die ich einschlagen will nicht entlang soll. Klar, das ist in erster Ordnung mein Fehler und war auch ein wenig dumm. Und doch, die Tatsache das sich dieser Weg überhaupt angeboten hat und ohne Wand auch sehr möglich gewesen war ist dennoch schlechtes Design. Und damit steht doch die Kernaussage meiner Kritik oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 04.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #Nummer
+
+* Titel: `Jedi Survivor - #48 - absolutes Vertrauen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute erleben wir etwas das im Nachhinein als „kurz“ betitelt wurde und in einer Situation geschieht in der absolut keine Zeit dafür war irgendetwas zu erklären. Wir erinnern uns dunkel daran das Karls alter Meister Jaro Tapal meinte das er nur der Macht vertrauen sollte und sonst absolut niemanden. Heute vertraut er noch jemand Anderen. Und zwar ziemlich absolut, letztendlich ist es aber auch nicht anders  als wenn er olle Bode in den Abgrund folgt. Es ist jetzt nicht so das die Menge an Vertrauen anders viel ist. Der Tod droht, jemand hat eine Lösung, welche Wahl hatte Karl wirklich. Daher bin ich mir nicht so ganz sicher warum das hier so aufgebauscht wird. Hier noch ein Hot-Take und ein kleines Novum.
+  
+  --SPOILER WARNUNG FÜR DIESE EPISODE--
+  
+  Mir ist absolut nicht klar warum Merrin Zeit für einen Kuss hat aber warum darum jetzt ein Aufriss gemacht wird das Karl in das Portal springen muss. Es gab keine andere Möglichkeit und warum sollte er jetzt auf einmal Zweifel an den Fähigkeiten von Merrin haben? Wo wir schon dabei sind das auseinander zu pflücken, ich bin kein Fan davon das Merrin hier augenscheinlich den Kuss dazu benutzt Karls Vertrauen zu gewinnen. Wir könnten das wohlwollend auslegen das sie sich selbst unsicher ist was sein könnte und daher die letzte Gelegenheit nutzt die ihr bleibt um eine unerfüllte Variante zumindest etwas wahr werden zu lassen um nicht mit Reue zu sterben. Wenn wir nicht ganz so wohlwollend sind ist die Lektion an die junge Generation und insbesondere Mädchen das, wenn ein Junge nicht überzeugt ist oder Zweifel hat, ein wenig körperlicher Kontakt einen Mangel an Argumenten einfach ausgleichen kann und man einfache Mittel der Manipulation beliebig einsetzen kann. Vielleicht zerdenke ich das auch einfach.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 04.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #49
+
+* Titel: `Jedi Survivor - #49 - Erkenntnisse aus dem Archiv [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt eine sehr häufige Trophe die man in Filmen, Literatur und auch in Hörspielen wieder findet. Es handelt sich um „die Weißheit der Alten“. Entweder man sieht hier leichte Propaganda der älteren Generation die weiter relevant bleiben möchte (eine Aluhut Theorie) oder man hat es mit einer regressierenden Gesellschaft zu tun. Das ist generell und überhaupt ein Problem wenn man davon ausgeht das sich Technik und auch Philosophie eigentlich immer weiter entwickelt. Letztendlich hat die Vergangenheit außer Lehren eigentlich ziemlich wenig Praktisches zu bieten. Alles was einst wichtig war ist mittlerweile nicht mehr auf den neusten Stand. Aus Archiven kann man also wenig ziehen das für das Hier und jetzt wirklich wichtig ist. Wenn man davon ausgeht das wir im Heute weiter sind als im Gestern. Im Falle von Star Wars scheint sich das Universum in einem ständigen Rückschritt zu befinden. So genau sagen kann man das aber auch nicht weil Technik eh eher Magie als Sci-Fi ist. Irgendwann fiel das Statement das Imperium Tech modern ist, aber modern ist auch relativ. Anscheinend hat sich ja seit der Zeit der alten Republik kaum was getan, und schon damals waren uralte Alien-Roboter stärker als heutige Tech. Was ich damit sagen will, ausnahmsweise können wir tatsächlich für das Heute relevante Informationen aus dem Archiv ziehen weil anscheinend alles vergessen wurde und wir weiter unten am Berg stehen als Gestern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 7, Aufnahme vom 04.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #50
+
+* Titel: `Jedi Survivor - #50 - Pfad der Wiederherstellung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir machen heute natürlich nicht nur den Pfad der Wiederherstellung, das wäre ja ein wenig komisch, solange dauert es ja nun wirklich nicht so ein paar uralte Jedi-Murmelspiele zu lösen. Nein, stattdessen beschäftige ich mich heute intensiv mit den Weltenrissen oder wie auch immer die Dinger hier eigentlich heißen. Ich bin nicht begeistert. Das eine Ding was ich größtenteils off-screen fertig gemacht habe hat mich schon ein wenig aufgeregt weil halt absolut nicht klar war wie man mit einer Konfiguration die offensichtlich nicht darauf ausgelegt ist gegen viele Gegner zu kämpfen eben genau jenes macht. Davon einmal abgesehen verrät die Steuerung mich in diesem Kampf mehrfach. Danach reise ich durch die Wüste und finde die nächste Herausforderung hinter einer grünen Wand. Es handelt sich dieses Mal um einen Parkour anstatt eines Kampfes. Das Ganze ist aber ein wenig sehr unfair ausgerichtet meiner Meinung nach, und noch viel schlimmer, der größte Feind hier ist offensichtlich die Kamera. Mir ist wirklich nicht klar warum man nicht für eine solche, durchaus starre Herausforderung feste Kamerawinkel installiert hat. Ich gebe mir wirklich alle Mühe, aber die Tatsache das es keine Checkpoints gibt und die ich so viel Zeit schon alleine für den Anfang gebraucht habe lässt jeden Wunsch das hier zu schaffen in mir sterben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #51
+
+* Titel: `Jedi Survivor - #51 - goldener Skriton [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Herausforderungen die die Wüste für mich zu bieten hat sind noch nicht am Ende. Völlig klar ist das wir nicht alles tun können was wir unter dem Sand oder auch darüber finden können. Offensichtlich gibt es noch irgendetwas womit wir uns an diese Ballone festhalten können und solange wir das nicht können gibt es einfach Dinge die uns nicht zugänglich sind. Aber es gibt ja noch Gerüchte die kein Problem mit dem Zugang haben, zum Beispiel das des goldenen Skritons. Warum das Vieh grade Gold sein muss vermag ich wirklich nicht zu sagen aber ich finde es schon ein starkes Stück das uns Merrin hier einfach so alleine rein laufen lässt. Es stellt sich doch wirklich die Frage warum? Erst gibt sie uns einen kurzen Kuss in einer Leben und Tod Situation um uns zu versichern das es jemanden gibt der Karl etwas bedeutet und dann begeben wir uns in eine weitere (unnötig) gefährliche Lage und Merrin stellt sich einfach nur in die Tür und meint das wir das schon schaffen? Ist sie sich der Fähigkeiten von Herrn Kestis wirklich so sicher, hat sie keine Zweifel? Weiß sie das er es für sein Ego braucht den großen Skriton selbst zu besiegen? Unter uns gesagt, so doll war das Vieh nun auch nicht, als man sie nicht angreifen konnte weil sie von unter dem Sand kamen waren sie irgendwie furchterregender.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #52
+
+* Titel: `Jedi Survivor - #52 - grüne Wände auf Coruscant [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen, mir völlig unerklärlichen Gründen, können wir zurück nach Coruscant fliegen. Es ist ja nicht so das Karl nicht schon alleine wegen seines Status als Jedi ein gesuchter Verbrecher ist und wir offensichtlich in einem Universum unterwegs sind in dem man anscheinend mit Leichtigkeit beliebige Personen in einer Datenbank nachgucken kann (referenziert Mandalorianer erste Staffel).  Karl ist also eine Kontrolle davon entfernt entdeckt zu sein. Dann ist Coruscant auch noch der am dichtesten besiedelte Planet des Universums, ich muss doch davon ausgehen das hier Kontrollen und Sicherheit besonders groß sind und nicht irgendeinen Raumschiff einfach so in den Welt- und Luftraum rund um den Planeten eindringt. Insbesondere wenn jenes Schiff definitiv zu gesuchten Verbrechern zählt, nicht nur Karl sollte auf Abschusslisten stehen, die Mantis sicherlich auch, und selbst wenn Transponder gefälscht sind so gibt es doch bestimmte andere Erkennungsmerkmale wie Triebwerkssignaturen oder äußere Kennzeichnungen die uns recht schnell aufdecken sollten. Und selbst wenn wir auf der Oberfläche landen, was passiert wenn wir auf halben Weg entdeckt werden? Es ist mir schon ein Rätsel wie wir überhaupt beim ersten Mal mitten von einer Kernwelt entkommen konnten. Zu guter Letzt gibt es auch noch die ziemlich gute Chance das mindestens ein Mitglied der Inquisition auf dem Planeten aktiv ist und auf der Suche nach machtfähigen Kindern ist, da sollte doch ein Karl Kestis enorm auffallen der seine Macht nutzt. Aber spätestens der erste Sturmtruppler der ihn sieht und nach Verstärkung ruft sollte alle Alarmglocken wecken. Was tun wir also hier? Mal davon abgesehen das uns offensichtlich die Fähigkeiten fehlen alles zu öffnen und es sinnlose Shortcuts gibt. Von der Karte her gibt es aber auch sonst nichts zu tun hier, keine zukünftigen Quests. Oder übersehe ich etwas? Alles ein wenig sehr seltsam.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

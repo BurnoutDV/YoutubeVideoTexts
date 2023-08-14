@@ -855,3 +855,103 @@
   Sitzung 8, Aufnahme vom 03.07.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
+
+##### #58
+
+* Titel: `God of War - #58 - Burg des Zwergenkönigs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich würde ich erwarten das Zwerge anderen Zwergen als König vorstehen und das man in der Regel unter sich bleibt was die Rassen angeht. Aber generell und überhaupt scheint es so zu sein das alle Wesen die nicht direkt Menschen sind den normalen Volk doch als eher mythisch vorkommt. Letztendlich wissen wir auch nicht so recht was wirklich einen Gott in der nordischen Mythologie ausmacht. Klar, Thor ist besonders stark, Odin besonders verschlagen und Baldur scheint keinen Schmerz zu spüren, aber letztendlich ist das auch eher so ein quirk. Die Zwerge scheinen kollektiv in der Lage zu sein Zeit und Raum zu ignorieren und können irgendwie ohne größere Probleme zwischen den Welten reisen während wir eine gewaltige Maschine nutzen müssen die dann nicht einmal beliebige Orte erreichen kann. Die Alben haben auch irgendwie etwas an sich, und sei es nur Nervigkeit. Wanen und Asen scheinen sich relativ ähnlich zu sein. Was also macht jetzt ein Typ wie Kratos besonders aus? Auf jeden Fall ist es nicht verwunderlich das Menschen initial bereit waren einem Zwerge zu folgen. Aber man sieht ja was das gebracht hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 10.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #59
+
+* Titel: `God of War - #59 - Todesinsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das hier ist ein Zweiteiler, und falls du diese Beschreibung liest und tatsächlich weißt was ich falsche mache, in der nächsten Episode verstehe ich es dann auch, wenn auch nicht ohne vorher nach gelesen zu haben warum ich ein großer Vollidiot bin. Zur Sache. Die Todesinseln heißen nicht so weil sie irgendwelchen Menschen den Tod bringen sondern weil die Leute halt hier zu Tode kamen. Anscheinend ist es durchaus möglich von Asgard zu stellen ohne das man direkt in erster Instanz aufgehalten wird. Seltsamerweise weiß Odin bzw. in diesem Fall das nicht zu schätzen. Ich finde das ein wenig seltsam weil ich dachte das die Philosophie der Nordmänner Oportunismus begünstigt aber vielleicht habe ich das auch falsch interpretiert. Auf jeden Fall sind die Leute die nicht in der Lage sind ihr Zeug direkt zu schützen oder Diebe abzuhalten durchaus in der Lage später Rache zu üben. Hier sehen wir die Rest einer solchen Racheaktion. Die meisten der Schätze sind aber wohl leider endgültig versunken. Was mich ein wenig verwundert zurück lässt. Es ging scheinbar doch nicht so wirklich um die Schätze?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 10.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #60
+
+* Titel: `God of War - #60 - Insel der Toten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der ursprüngliche Titel der Episode war eigentlich irgendetwas mit Explosionen weil ich dann doch verstanden habe das die Insel der Toten bzw. Toteninsel eigentlich nichts Anderes ist als die Truhen die wir schon bei den Licht und Dunkelalben gesehen haben. Um etwas zu öffnen müssen wir die Axt im richtigen Winkel werfen und schon geht eine Barriere auf. Es ist quasi das exakt gleiche Rätsel aber mit Explosionen anstatt magischer Ranken die dann weg gehen. Es wäre ein wenig peinlich wenn es noch einen anderen Ort gibt der dann wirklich „Insel der Toten“ heißt aber da dieser Ort im Englischen „isle of the death“ heißt vermute ich mal das dem nicht so ist, normalerweise achten Spieleentwickler bzw. Storyschreiber darauf das solche Namensdopplungen nicht passieren es sei es ist integraler Bestandteil des Spiels. Allem in Allem dauert das alles aber länger als ich es gerne hätte. Insbesondere weil ich erneut ein Idiot bin der nicht den Weg vor seinen Augen sieht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 10.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #61
+
+* Titel: `God of War - #61 - kleine Leute Probleme [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich heraus das es keine gute Idee ist Kindern zu erzählen das sie wortwörtlich etwas Besseres sind. Generell und überhaupt hasse ich den Gedanken das es Menschen gibt die von sich selbst glauben das sie irgendwie inhärent über andere stehen. Das ist auch etwas das mich an Sklaverei, insbesondere wenn es keine direkten Merkmale gibt die die Leute unterscheidet fasziniert. Menschen blicken empathielos auf andere Menschen hinab weil diese unter ihnen stehen, aber letztendlich ist es eine Halskette, ein Satz Klamotten und Peitschenhiebe die eben jene Menschen in exakt dieselbe Position versetzen würde. Davon einmal abgesehen könnte man durchaus manche Probleme wohl als die Probleme kleiner Leute betiteln auch wenn es nicht so recht fair ist. Manche Menschen sind aber auch kleinlich. Und dennoch, sich einfach so über die armen Zwerge stellen zu wollen die signifikant unsere Ausrüstung verbessert haben geht einfach zu weit. Und klar, ich argumentiere hier hauptsächlich aus einem utilitaristischen Motiv heraus aber auch mit dem Hintergedanken das die Gefühle der anderen Wesen durchaus nicht völlig egal sind. Aber das ist vielleicht auch ein wenig komplex für ein Kind gedacht. Aber ein Gott zu sein ist wohl auch ein komplexer Zustand, es da halbwegs vernünftig ins Erwachsenleben zu schaffen ist wohl schwierig. Das erklärt dann wohl auch so Einiges.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 10.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #62
+
+* Titel: `God of War - #62 - zurück im Berg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Portal in das Reich der Riesen steht aus irgendwelchen Gründen ganz oben auf dem höchsten Berg von Midgard. Warum genau das so ist ist mir absolut nicht klar aber meine Erinnerung an diese Erklärung ist schon ein wenig angefressen, es könnte also durchaus sein das es noch ein paar mehr dieser Portale gibt und die Anderen nur nicht so praktisch und gut erreichbar für uns auffindbar sind. Wie dem aber auch sei, wir müssen also noch einmal ganz nach oben auf den höchsten Berg von Midgard steigen. Habe ich eigentlich schon erwähnt das es sich um den höchsten Berg handelt? Ich glaube nicht. Das bedeutet das es unfassbar anstrengend ist, und ich denke wir können uns noch richtig glücklich schätzen das nette Zwerge und davor Riesen das Ding vorher ausgehöhlt haben so das es eine Menge Infrastruktur gibt. Man stelle sich einmal vor wir hätten das Ding auf der Außenseite ohne echte Ausrüstung besteigen müssen. Heute erschwerend kommt hinzu das Sohn anscheinend findet das jetzt der absolut perfekte Moment für eine Anfall von Pubertät ist, ich bin da anderer Meinung aber was will man machen? Genau, glaube das der Controller kaputt ist weil der Junge einfach nicht mehr tut was er soll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 10.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #63
+
+* Titel: `God of War - #63 - praktischer Fahrstuhl [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hey, gute Neuigkeiten! Wir müssen nicht den ganzen Weg nach oben noch einmal klettern oder einen herrlich gefährlichen Haken dafür nutzen irgendwie weiter zu kommen. Auch das große Drachenproblem sollte eigentlich nicht wieder aufkommen. Stattdessen finden wir nur eine saumäßig praktischen Fahrstuhl der uns direkt in die obersten Stockwerke der Berges bringt. Das ändert leider nichts daran das Junge schon wieder nur am Jammern, Quängeln und Zwerge beleidigen ist. Da fragt man sich wirklich wer das Kind überhaupt erzogen hat und wo die gute Kinderstube hin ist. In letzter Zeit hat der Lemurensohn (danke dafür) sogar angefangen seine eigene Mutter zu beleidigen. Das ist bemerkenswert, normalerweise beleidigen Kinder in dem Alter eigentlich nur die Mütter anderer Lemuresöhne. Da wir aber noch nicht so viele andere Kinder getroffen haben ist das vielleicht auch verständlich. Oder es wäre soviel schlimmer wenn es noch andere Kinder geben würde. Eine Frage bleibt mir allerdings, wenn der Fahrstuhl durch die Gewächse von Hel versperrt waren, wo genau kam dieses Helgewächs eigentlich her? Entsteht das einfach zufällig an irgendwelchen Orten in allen neun Welten oder muss man das hinterfragen? Kann das einen zufällig erwischen? Man schläft abends ein und am nächsten Morgen ist zufällig die Tür zugewuchert? Das klingt schrecklich unpraktisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 8, Aufnahme vom 10.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

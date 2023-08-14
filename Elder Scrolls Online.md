@@ -9366,6 +9366,33 @@
   Aufnahme vom 09.08.2023 - #1820 - ##3 - S1
   ```
 
+##### #1821
+
+* Titel: `Let's Play ESO #1821 ##4 - Vertragsunterzeichnung [Nekrom Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 4 des Nekrom Prologs - Sitzung 1
+  
+  Die Top10 der Dinge die man bei der Interaktion mit daedrischen Fürsten auf jeden Fall vermeiden sollte ist das Unterschreiben von irgendwelchen Dingen. Mir fällt auch eben in diesem Moment ein das sie eigentlich als daedrische Prinzen bezeichnet werden aber letztendlich spielt die Semantik der Benennung wohl nur eine sehr untergeordnete Rolle. Wie dem auch sei, es stellt sich ein wenig die Frage wie die Verträge überhaupt funktionieren. In der klassischen Mythologie sind Dämonen an Verträge gebunden weil das halt so ist. In anderen Fantasy Welten verändert ein magischer Vertrag irgendwie die Realität und wenn man quasi schwört bestimmte Dinge nicht zu sagen oder nicht zu lügen dann geht das einfach nicht (siehe Rad der Zeit) aber wie genau die Mechanik in Elder Scrolls funktioniert weiß ich ehrlich gesagt nicht. Ich bin mir auch spontan nicht sicher ob das jemals erwähnt wurde das Verträge überhaupt ein Ding sind. Weil letztendlich ist das Problem mit Daedra doch das sie absolut nicht vertrauenswürdig sind und das man sie quasi mit bindender Magie dazu bringe muss das zu tun was man von ihnen will. Was genau kann aber bitte einen Prinzen binden? Welche höhere Instanz setzt die Rahmenbedingungen des Vertrages um? Was sind die Strafen wenn Anforderungen nicht erfüllt sind. Hermaeus Mora wird nicht müde zu erwähnen das es sich um einen starken Vertrag handelt der ihn daran hindert gegen unsere Interesse zu handeln, aber wirkliche Beweise das dem auch so ist habe ich bisher nicht gesehen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 09.08.2023 - #1821 - ##4 - S1
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #TEMPLATE
 
 * Beschreibung:

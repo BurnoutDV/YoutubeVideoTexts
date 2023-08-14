@@ -787,24 +787,64 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
-##### #Nummer
+##### #53
 
-* Titel: ``
+* Titel: `Jedi Survivor - #53 - Holo-Taktiken [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Anscheinend gibt es in Jedi Survivor ein Spiel bei dem man sich noch einmal seine Lieblingsgegner in einer Art AI Match gegeneinander antreten lassen kann. Das Ganze kommt mir vor wie eine schöne Zweitverwertung der Def-Tools aber irgendwie auch ganz amüsant so als Sandbox. Letztendlich kann man das Ganze wohl irgendwie brechen und falls ich die restlichen Belohnungen noch haben will werde ich wohl einfach nachschauen was man tun muss um alle Runden zu gewinnen ohne sich groß anzustrengen. Für den Moment aber tatsächlich recht erheiternd. Wenn man selber spielt und nicht grade aufnimmt lädt das auf jeden Fall zu Experimenten ein. Ob sie das vorher als Feature verkauft haben? Das die Kämpfe mal so mal so auslaufen lässt aber auch eine gewisse Tendenz der KI zum Vorschein kommen nicht ganz deterministisch unterwegs zu sein. Auch schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #54
+
+* Titel: `Jedi Survivor - #54 - grüne Enttäuschung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben aus Jedha zwei neue Fähigkeit mit gebracht. Der große Punkt ist das wir jetzt durch grüne Wände springen können und damit sind einige Orte auf Koboh auf einmal erreichbar die vorher durch verschlossene Türen abgesperrt wurden. Also können wir etwas tun das sich backtracking nennt. Etwas unglücklich ist aber das ich wahrscheinlich sogar noch einmal zu all diesen Orten gehen muss weil uns anscheinend noch mindestens eine Jedi Fähigkeit und ein Gadget fehlt das uns dann wirklich alle Wege eröffnet. Es wird aber noch viel besser, wir können jetzt durch grüne Wände laufen und dann finden wir außer ziemlich viele Rollminen absolut gar nichts. Das ist schon echt enttäuschend. Außerdem können wir bei der guten Gelegenheit auch gleich nach die Jahwa Siedlung anschauen. Hier gibt es immerhin etwas zu tun. Was auch immer es dann letztendlich bringt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #55
+
+* Titel: `Jedi Survivor - #55 - Skoova Stev [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt da einen Berg, und es gibt da einen Fischtank. Das mag jetzt auf den ersten Blick keinen Zusammenhang ergeben aber dazu kommen wir gleich noch. So wie es aussieht habe ich wieder einmal ein extrem wichtige Feature des Spiels übersehen weil ich irgendwann die Schnauze voll hatte die Orte auf Koboh zu erkunden weil es ja doch irgendwie nichts zu tun gab. Also bin ich nie nach Norden gegangen. Es stellt sich doch glatt heraus das es hier noch ein ziemlich großes Areal gibt das wir bis jetzt einfach  nicht gemacht haben. Fairerweise muss man aber wohl sagen das wir ohne grüne Wände Gerät auch nicht besonders weit gekommen wären. Bevor es aber soweit kommt treffen wir einen weiteren komischen Alien namens Skoova Stev. Das Alles ist immer wieder faszinierend, das es jede einzelne Alienart immer nur einmal gibt und die nie unter sich bleiben oder zumindest mehre ihrer Spezies gleichzeitig auftreten. Ist das Universum voller tragischer Geschichte in der Gruppen getrennt wurden oder sind die meisten Aliens die wir so treffen einfach nicht besonders repräsentativ für ihr Volk?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
 ##### #Nummer
 
-* Titel: ``
+* Titel: `Jedi Survivor - #56 - imperiale Bergbasis feat. Rick [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Das hier ist eine längere Episode, erwachsen dadurch das ich immer gedacht habe das es ja gleich vorbei sein sollte. Imperiale Basen sind mir immer wieder ein Rätsel. Nicht das sie quasi unauffällig an irgendwelche Berghänge errichtet wurden, das macht man wahrscheinlich so wenn man nur einen planetaren Stützpunkt mit Hangarbereichen braucht. Nein, sondern das die Dinger innen drin immer ziemlich makellosen Boden haben. Glänzend gar. Du kannst noch so ein Hightech Material haben, Staub lagert sich halt an oder liegt zumindest rum. Ja, die Existenz von den kleinen schwarzen eckigen imperialen Saugrobotern ist mir absolut bewusst. Aber ich sehe die Bande nicht dauerhaft durchs Bild wieseln und das wäre quasi nötig um diese Hochglanzoptik zu halten. Ansonsten passiert heute so viel das es eigentlich zwei Episoden gewesen wäre. Wir finden ein Gadget das eigentlich gar nicht mal so unwichtig ist, wir besiegen endlose Gegnerhorden und beschwören damit wahrscheinlich den Zorn des Imperators auf uns und wir besiegen Rick. Letzterer tut mir übrigens ziemlich leid, der wollte bestimmt nur seine Arbeit machen und hat nun wirklich niemanden etwas getan.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 8, Aufnahme vom 08.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
 ##### #Nummer

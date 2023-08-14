@@ -9383,6 +9383,130 @@
   Aufnahme vom 09.08.2023 - #1821 - ##4 - S1
   ```
 
+##### #1822
+
+* Titel: `Let's Play ESO #1822 ##1 - Umland von Nekrom [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 1 des Nekrom DLC - Sitzung 1
+  
+  Und wir sind schon wieder in einer Sitzung 1, Episode 1. Das kommt unter Anderem daher das das vorher halt ein Prolog war und die sind halt einfach nicht lang. Wir kommen also heute zur Sache. Ein wenig neugierig bin ich schon was gewesen wäre wenn ich nicht den Prolog mit der Vertragsunterzeichnung unterschrieben hätte, aber ich werde es wohl nie erfahren. Wir sind jetzt auf jedem Fall im Umland von Nekrom, das ist eine Stadt die anscheinend insbesondere von den Telvanni frequentiert wird. Die Telvanni sind eine Untergruppe der Dunkelelfen und im Allgemeinen die die am wenigstens beliebt bei allen Leuten sind die nicht selber Telvanni sind. Außerdem scheint man in Nekrom das mit der Totenanbetung noch ein wenig ernster zu nehmen als woanders. An der Stelle sei dann auch gleich noch auf das Tamriel Rebuilt Projekt verweisen. Einem Morrowind Mod der anscheinend schon seit 20 Jahren besteht und sich mit dem realistischen Nachbau von ganz Morrowind in der Engine von TESIII versteht. Also nicht nur die Insel Vvardenfell und eine kleine Insel oben dran. Wenn wir schon dabei sind sei auch noch erwähnt das es scheinbar OpenMW gibt, einen Weg Morrowind noch einmal in einer aufgebohrten Grafikengine zu spielen. Am Ende noch ein paar Links:
+  Die Tamriel Rebuilt Karte von Nekrom: https://gamemap.uesp.net/tr/?layer=world&x=328584&y=-108118&zoom=6.131
+  Das Tamriel Rebuilt Projekt selbst: https://www.tamriel-rebuilt.org/
+  OpenMW: https://openmw.org
+  
+  Und damit gebe ich zurück nach ESO, aber falls du doch noch einmal Morrowind spielen wolltest, hier würde ich anfangen.
+   
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 12.08.2023 - #1822 - ##1 - S1
+  ```
+
+##### #1823
+
+* Titel: `Let's Play ESO #1823 ##2 - Buchbinderei von Nekrom [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 2 des Nekrom DLC - Sitzung 1
+  
+  Nach einem kurzen, stummen Gespräch mit unserem neuen Herrn und Meister gehen wir jetzt übrigens wirklich nach Nekrom wie ich es ursprünglich versprochen habe. Nebenbei bemerkt ist das Fehlen von bestimmten Stimmen anscheinend ein Bug der Patchversion die ich grade spiele. Leider wir das nicht vor Episode 1829 gelöst. Bis dahin begegnen wir leider noch ein paar anderen Geistern die alle nicht reden werden. Aber dann wieder. Versprochen. Wie dem aber auch sei. Bücher verbindet man irgendwie mit Wissen, mit Informationen und mit etwas das man gut behandeln sollte. Menschen sind sehr ehrfürchtig was Bücher angeht, bis sie dann wieder brennen. Aber sie brennen auch deswegen weil andere Menschen das Wissen fürchten das ihr eigenes System schlecht aussehen könnte. Aber Bücher sind auch ein kommerzieller Gegenstand. Niemand bindet heutzutage mehr Bücher, aber auf Nirn tut man das wohl noch, und daher ist es doch passend das eine nicht-Agentin des Fürsten des Wissens ihr Hauptquartier in einer Buchbinderei errichtet hat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 12.08.2023 - #1823 - ##2 - S1
+  ```
+
+##### #1824
+
+* Titel: `Let's Play ESO #1824 ##3 - der Geist des Schicksals [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 3 des Nekrom DLC - Sitzung 1
+  
+  Der heutige Episodentitel wird uns vom Titel der Quest gebracht die wir dann tatsächlich auch machen. Es handelt sich um die Mission in Rendys die sich mit einem alten Telvanni-Turm beschäftigt. Unsere Gegenspieler sind natürlich auch schon da insofern sind wir wohl an der richtigen Adresse. Faszinierend ist das alles ein wenig aber irgendwie kommt mir die ganze Geschichte mit den Schicksalsfäden doch ein wenig sehr hanebüchend vor und mir ist immer noch nicht so ganz klar warum olle Mora eigentlich mich für seine Pläne braucht. Offensichtlich hat er wesentlich bessere Möglichkeiten und hätte schon viel früher handeln können. Auch deprimierend ist das die Existenz der Schicksalsfäden impliziert das die Zukunft relativ statisch ist. Klar, der Prinz selber spricht von unterschiedlichen Varianten die eintreten könnten, aber keine der Varianten ist wirklich unwahrscheinlich und nichts. Warum noch etwas machen wenn die Zukunft eh in festen Pfaden liegt? Aber vielleicht ist das auch eine Allegorie auf die Linearität von Videospielen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.08.2023 - #1824 - ##3 - S1
+  ```
+
+##### #1825
+
+* Titel: `Let's Play ESO #1825 ##4 - alter Turm von Rendys [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 4 des Nekrom DLC - Sitzung 1
+  
+  Das die Telvanni in irgendwelchen Pilzen wohnen war mir bereits seit Längerem bekannt und ich bin sogar ein wenig enttäuscht das sie hier wegen Limitierungen der Engine die Levitationstunnel als Türen umgesetzt haben. In TESIII war es noch so das man selber hochfliegen musste, wenn man kein Magier ist hat man halt Pech gehabt und konnte sich nicht bewegen. Was mir nicht bewusst war das die Telvanni soviel statische Magie verwenden. Die Tatsache das sie in großen Pilzen leben die ziemlich organisch über ein Fundament rüberwuchern lässt doch eher vermuten das sie ziemlich aktiv ihre Zentralen verändert. Aber anscheinend kann auch 20 Jahre nach dem Verschwinden eines Meisters eine Anlage mühelos den Ort abriegeln und Eindringlinge draußen halten. Das ist ziemlich beeindruckend wenn man an all die Macht und Zeit denkt die dabei drauf gegangen sind dies zu erstellen. Andererseits ist das ein übliches Problem mit Magie und Langlebigkeit. Magie kann so gut wie alles erschaffen wenn man nur genügend Mühe hineinsteckt. Wenn die Sachen nicht sehr schnell zerfallen kann ein einzelner Zaubermeister über Jahrhunderte ein gewaltiges Sammelsurium an Artefakten erschaffen die dann landminenartig irgendwann in der Erde vergraben werden. Insofern sollten wir wohl diese Episode eher "Ewigkeitskosten der Magie" nennen, aber das gibt wohl gar keine Klicks oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.08.2023 - #1825 - ##4 - S1
+  ```
+
+##### #1826
+
+* Titel: `Let's Play ESO #1826 ##5 - Ald Isra [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 5 des Nekrom DLC - Sitzung 1
+  
+  Wir kommen heute überraschend schnell an den Ort von dem ich dachte das er erst später von uns beehrt werden wird: Ald Isra. Ich tue jetzt einfach mal so als hätte ich schon früher davon gehört aber in der Realität wurde der Ort auch für mich auch gerade erste erwähnt. Es ist dennoch ein wichtiger Treffpunkt der Telvanni an der sich Räte treffen bzw. die Vertreter der Meister gegenseitig Dinge vorwerfen und manchmal vielleicht sogar Beschlüsse geschlossen werden wenn es einen gemeinsamen Konkurrenten gibt gegen den man sich verbünden kann. Auch wenn die Telvanni-Meister wohl selbst eher selten dort anzutreffen sind würde ich dennoch behaupten das es sich um einen wichtige Ort handelt. Wir sehen kurz die Münder anderer Meister, aber offensichtlich ist das im Moment nicht der Pfad unseres Schicksals. Stattdessen sprechen wir mit dem Mund von Shelreni, einem Khajiit. Ich rante bereits in der Aufnahme darüber aber ich wiederhole es gerne noch einmal, wo kommt auf einmal diese In-World Diversität her? Das wir uns gesellschaftlich inklusiver gestalten wollen ist dringend nötig, aber warum sind die Dunkelelfen auf einmal nicht mehr krass rassistisch? Habe ich etwas verpasst?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.08.2023 - #1826 - ##5 - S1
+  ```
+
+##### #1827
+
+* Titel: `Let's Play ESO #1827 ##6 - Meln der Mundlose [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 6 des Nekrom DLC - Sitzung 1
+  
+  Ursprünglich wollte ich eine andere Episode nach unserem guten Freund Meln benennen aber es stellt sich heraus das tote Telvanni-Meister doch wesentlich relevanter sind als ich dachte. Die Dunmer sind im Allgemeinen ziemlich speziell was das Sterben angeht. Während die Khajiit anscheinend in die ewigen Sande gehen und daher der Wiedergeburt nicht zur Verfügung stehen, andere Leute in Hircines ewiger Jagd landen oder die Ewigkeit als Sklave Molag Bals fristen (auch wenn das relativ ist, anscheinend kommen irgendwann Abenteurer durch und befreien zufällig Leute) scheinen die Dunkelelfen nicht so wirklich zu sterben. Es scheint fast so als wäre es eine Wahl die man treffen kann wenn man nur genügend Willen hat. Und fehlenden Willen können wir Meln wohl echt nicht vorwerfen. Es offenbart aber auch eine Schwäche in einem Plan, normalerweise schweigen die Toten und es ist echt anstrengend eine einmal verstorbene Person wieder zu kriegen. Da Meln aber nie fort war findet man ihn halt auch dort wo er war. Der Tod ist also nicht ganz so entgültig, ich würde vermuten das auch die Dunmer Geister irgendwann aufhören zu sein und sich selbst recyceln oder einfach so verschwinden, aber bis das passiert muss wohl ein wenig mehr geschehen als es normalerweise der Fall ist. Zum Beispiel die gesamte erweiterte Familie stirbt oder ähnliche Tragödien, oder niemand besucht das Grab. Außerdem enthalten in dieser Episode ist ein schneller Rant über Sicherheit, aber das brauche ich hier nicht weiter aus zu rollen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.08.2023 - #1827 - ##6 - S1
+  ```
+
+##### #1828
+
+* Titel: `Let's Play ESO #1828 ##7 - Quarantäne der Toten [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 7 des Nekrom DLC - Sitzung 1
+  
+  Das man Nekropolen abschließt, insbesondere in Zeiten von marodierenden Nekromanten ist keine besondere Überraschung und ich wäre im Gegenzug überrascht wenn man einfach riskiert das Oma Erna einen zweiten Frühling nach ihrem Ableben erlebt. Das möchte man in der Regel vermeiden. Bei den Dunmer und anscheinend speziell bei den Telvanni sieht man das aber ein wenig anders. Die verstorbenen Ahnen sind ziemlich heilig und wenn man wirklich will kann man wohl auch mit ihnen reden, man braucht nur ein wichtiges Anliegen und die Hoffnung das die Geister einen guten Tag haben. Was genau die Ahnen sonst so machen ist mir nicht klar, aber ich vermute das die Geister eher in einer Art Dämmerzustand sind und nur aktiv werden wenn man genügend Kerzen auf den Tisch schmeißt. Was daran so toll ist sich von seiner lang toten Verwandtschaft verurteilen zu lassen kann ich nicht so ganz nach vollziehen aber das ist bei den meisten Traditionen so. Vielleicht gibt es ja gelegentlich ein paar gute Ratschläge. Daher ist es ein wenig Seltsam das die Nekropole von Nekrom tatsächlich geschlossen ist und ein Grund zu investigieren.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.08.2023 - #1828 - ##7 - S1
+  ```
+
 ##### #Nummer
 
 * Titel: ``

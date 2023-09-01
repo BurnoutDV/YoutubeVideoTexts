@@ -832,7 +832,7 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
-##### #Nummer
+##### #56
 
 * Titel: `Jedi Survivor - #56 - imperiale Bergbasis feat. Rick [Let's Play; ger; Blind]`
 
@@ -844,6 +844,171 @@
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Sitzung 8, Aufnahme vom 08.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #57
+
+* Titel: `Jedi Survivor - #57 - Kobohs Gerüchte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Warum genau man irgendwelche Nebenmissionen als Gerüchte bezeichnet entzieht sich ein wenig meiner Kenntnis. Wären es wirklich Gerüchte sollte es doch gelegentlich vorkommen das wir einen Ort betreten und einfach nichts vorfinden. Tatsächlich ist es aber so das wir eigentlich immer über irgendwelche Dinge stolpern wenn wir raus gehen um nach dem Ursprung des Gesagten zu gehen. Ich muss allerdings sagen das Backtracking bzw. freies Erkunden in Jedi Survivor irgendwie keinen Spaß macht. Die Hälfte der Zeit können wir einfach nicht weiter machen weil uns irgendwelche Fähigkeiten fehlen und dann müssen wir unsere Reise praktisch abbrechen. Das stört mich ziemlich und nimmt mir doch sehr dem Spaß am Erkunden. Es erscheint alles so sinnlos, in die Welt zu ziehen und sich Dinge anzuschauen wenn man alle 5 Meter einfach nicht weiter kommt. Es fühlt sich weniger wie eine offene Welt und mehr wie eine zersplitterte lineare Umgebung an.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 22.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #58
+
+* Titel: `Jedi Survivor - #58 - drei Großtiere [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch auf Koboh und damit auch meiner großen Mission alles zu tun was ich tun kann. Heute sterben wir beinahe. Das ist ein wenig hervorhebenswert weil ich ja normalerweise richtig sterbe und mich dann aufrege. Außerdem besiege ich meinen Erzfeind die Oggdo-Brut, ich erspare euch aber den Großteil der Fehlversuche und komme direkt zum entscheidenen Kampf. Letztendlich war es aber wohl der Zufall der mir hier geholfen hat und nicht irgendeine Fähigkeit meinerseits, weil eigentlich habe ich ja keine revolutionär neuen Taktiken genutzt. Insofern wird es daran wohl eher nicht liegen. Auch bei den drei Großtieren die aus irgendwelchen Gründen alle in einer Höhle wohnen und sich nicht schon lange gegenseitig die Köpfe eingeschlagen haben besiegen wir letztendlich eher durch Zufall als durch Fähigkeiten. In diesem Fall sogar durch einen Bug und nicht schieres Glück. Aber es ist ein Sieg den ich nehme. Ich fühle mich mit der Steuerung nie sicher genug um Kämpfe gegen viele Gegner kontrolliert nennen zu können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 22.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #59
+
+* Titel: `Jedi Survivor - #59 - Klebriges Moor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem sich das Erkunden von Koboh als genauso langweilig und letztendlich auch fruchtlos herausgestellt hat wie beim letzten Mal (warum genau tue ich das eigentlich?) begeben wir uns jetzt wieder auf die Spuren der Hauptquest. Glücklicherweise hatte ich bereits einen Wegpunkt ganz in der Nähe so das wir eigentlich gar nicht soweit reisen müssen. Wir betreten also heute einen Moor. Hier ist ein „Lucrehulk“ abgestürzt, anscheinend der runde, kugelförmige Teil eines Raumschiffes der Handelsförderation. Ich weiß nicht ob es irgendwo im Extended Universe eine Erklärung gibt warum die Schiffe überhaupt so aussahen, warum man die Kugel einzeln entfernen kann oder wie ein Raumschiff dieser Größe überhaupt in einem Stück abstürzen kann. Ich werde es auch nicht nachschauen. Aber im Zweifel ist die Erklärung sowieso: die Wege der Macht sind unergründlich. Die Basis der Bedlam Raiders hat es auf jeden Fall geschafft genau im einzigen Sumpf weit und breit abzustürzen. Klar gibt es das Teer Zeug auch woanders aber eigentlich nur hier ist soviel davon. Ich kann mir allerdings nicht vorstellen das diese Teerseen besonders tief sind, eine dämpfende Wirkung möchte ich daher bereits im Vorfeld ausschließen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 22.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #60
+
+* Titel: `Jedi Survivor - #60 - Lucrehulk Eingang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir den Moor betreten haben wäre auch ohne weiteren Auftrag bekannt gewesen das wir selbstverständlich das riesige, abgestürzte Raumschiff betreten. Die schiere Größe des Lucrehulk ist wahrlich beeindruckend und ich nehme jetzt einfach einmal an das noch Teile der System aktiv sind die das Schiff in ihrem Zustand halten. Nebenbei bemerkt ist die Kugel als Design tatsächlich für Raumschiffe glaubhafter als die übliche Aerodynamische Konfiguration die wir sehen. Im Weltraum kann man technisch gesehen auch einfach mit einem Würfel durch die Welt fliegen und es sollte eigentlich keinen Nachteil haben, außer das die Leute eventuell fürchten das man sie assimiliert, aber vielleicht haben sie sogar recht. Der rein statische Druck von einer so großen Konstruktion muss allerdings gewaltig sein und ich kann mir nicht so gut vorstellen das man wirklich ein Raumschiff dafür konzipiert auf einem Planeten zu landen. Später wird sich herausstellen das dem in der Tat so ist, aber ich weiß immer noch nicht so recht warum. Wie dem aber auch sei, heute gehen wir erst einmal rein, Türen müssen wir glücklicherweise nicht suchen, es gibt das ein oder andere Loch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 22.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #61
+
+* Titel: `Jedi Survivor - #61 - Lucrehulk Kern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Grade noch am Eingang, heute sind wir schon im Kern des  gewaltigen Schiffes der mittlerweile inexistenten Handelsförderation. Obwohl, das prüfe ich doch mal eben. Auf zur Wookiepedia! --- Ahja, quasi inexistent. Anscheinend hat das Imperium die gesamte Gesellschaft verstaatlicht. Sicherlich bei  gleichzeitiger Entschädigung in voller Höhe der Anteilseigner, das ist etwas wo das Imperium bestimmt korrekt gehandelt hat. Also, wir sind am Kern und könnten jetzt das gesamte Ding einfach sprengen, dadurch würden wir Zee vielleicht nicht retten aber ich bin mir ziemlich sicher das wir unsere ärgsten Gegenspieler Dagan und Rayvis damit effizient und schnell aufhalten würden. Außerdem wäre es ein großer Schlag gegen ihre Ressourcen und Truppen. Aber was weiß ich schon, es könnte durchaus sein das die Kernüberladung eines Schiffs dieser Größe wirklich nicht so gesund für den restlichen Planeten wäre und Fluchtkapseln habe ich bis jetzt noch keine gesehen die uns einen guten Abgang gewährleisten können. Also lassen wir den Kern für den Moment in Ruhe und gehen lieber persönlicher vor.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 22.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #62
+
+* Titel: `Jedi Survivor - #62 - andere Perspektiven [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neue Blickwinkel zu gewinnen kann sehr befreiend sein. Oder beängstigend. Schon die Vorstellung auf einmal eine sehr viele größere Welt sehen zu können oder den winzigen Schimmer etwas Größerem wahrzunehmen kann Menschen in nackte Angst versetzen. Das Unbekannte ist immer eine ziemlich feste Größe auf die man sich verlassen kann. Das Unbekannte ist dort Draußen und wartet nur darauf dich zu überfallen. Das Unbekannte plant im Dunkeln wie es dich überraschen kann. Wenn du raus gehst um es dir anzuschauen und es am Ende gar nicht so schlimm ist, dann war das gar nicht das Unbekannte sondern nur das Bekannte in leicht anderer Form. Aber das Unbekannte wartet immer noch irgendwo dort Draußen. Nur für dich. Und das macht Angst. Und das ist das Ding mit den anderen Perspektiven. Wenn man plötzlich von der Decke hängt erscheinen Formen und Muster anders, wenn man die Möbel umstellt sehen die Dinge auf einmal doch ein wenig anders aus. Oder vielleicht ist es auch nur das Arrangement der Bücher im Regal. Es gibt viele Möglichkeiten neue Perspektiven zu erlangen. Durch einen Lucrehulk zu springen und Droiden zu Schrott zu verwandeln ist nur ein von vielen Methoden. Warum genau grade hier jetzt eine plötzliche Vision uns darüber aufklärt wie man die Macht nutzen kann um Geschütztürme zu zerquetschen kann ich jetzt aber auch nicht erklären.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 22.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #63
+
+* Titel: `Jedi Survivor - #63 - Super-Rettungskapseln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Seit Anbeginn der Nautik wusste man das es durchaus von Vorteil sein könnte wenn man auf seinem großen Gefährt kleinere Gefährte aufbewahrt mit denen man zu anderen Schiffen übersetzen kann. Zum Beispiel wenn man keine vollständige Landungsoperation vornehmen will oder es schlichtweg keinen richtigen Landungssteg gibt. Die logische Folge in Raumschiffen ist das man auch hier Fähren hat. Aber die Entwicklung hier ist nicht abgeschlossen, in Notfällen möchte man etwas haben mit dem man sich vom Hauptschiff absetzen kann und gerettet werden kann. Eine autarke Einheit die vielleicht keine vollständige Überfahrt gewährt aber zumindest ein Verweilen bis Hilfe kommt. Schließlich leben wir in einer Gesellschaft und wo ein Schiff ist gibt es auch Andere. Die Großraumer der Separatisten der galaktischen Handelsförderation haben zwar massiv auf Roboter gesetzt aber ein wenig biologisches Personal hatte auch sie. Dennoch wundert es mich das sie so viele Rettungskapseln haben. Wir nutzen heute eine solche. An sich tun wir auch noch andere Dinge aber das ist alles nicht so wichtig. Wichtig für Rettungskapseln ist auch das sie nicht nur von sich aus funktionieren sondern auch schwere Schäden des Mutterschiffes überleben. Es ist von daher nicht so überraschend das auch nach einer katastrophalen Landung diese noch funktional sind. Ich muss also davon ausgehen das wir heute Standardverhalten einer Handelsförderations-Rettungskapsel erleben. Klar, die Dinger sind nicht wirklich für Atmosphäre und Schwerkraftfeld ausgelegt, aber nehmen wir einmal an wir hätten den Reaktor überladen. Mit dem Teil wären wir doch niemals weit genug weg gekommen? Wer hat sich das Teil bitte schön ausgedacht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 9, Aufnahme vom 22.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #64
+
+* Titel: `Jedi Survivor - #64 - Kammer der Verbindung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ganz Koboh ist voller Kammern die irgendwie Jedi auf irgendwelche Herausforderungen vorbereiten sollen. Das Ganze stößt mir ein wenig sauer auf weil wir hier sogar Stück für Stück ein wenig Lore dazu kriegen und die Erklärung sieht mit jeder Sekunde dümmer aus. Ursprünglich nahm ich an das hier Padawane trainiert wurden, die Namen lassen ja auf das Erlangen von irgendwelchen Tugenden schließen. Nun ist es aber so das zum einen so gut wie keine Kammer ohne die Werkzeuge möglich wären die wir haben und zum Anderen die Kammern anscheinend für volle Jedi ausgelegt sind. Das macht das alles wieder ein wenig seltsam. Weil wofür genau trainiert man um nach Tanalor zu kommen? Der Flug ist zwar recht kompliziert aber sobald man vor Ort ist handelt es sich wohl um eine paradiesische Welt auf der keine echte Bedrohung droht. Wofür also vorbereiten, und warum genau so? Das alles ergibt relativ wenig Sinn und ich habe auch nicht so richtig vor Augen wie das „Training“ in irgendeiner Weise dabei helfen könnte besser auf einen neuen Planeten klar zu kommen. Mal davon abgesehen das es wohl zivile Protokolle für die Erstbesiedlung geben muss oder? Kann ja nicht direkt der erste Planet sein auf dem man Fuß fasst.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 29.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #65
+
+* Titel: `Jedi Survivor - #65 - Strahlen am Himmel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich könnte es bestimmt nachgucken aber spontan könnte ich nicht die Ursprungsgeschichte von „Chem Trails“ erzählen. Aber ich stelle es mir so vor das irgendwann irgendwelche Dudes im Vollrausch und/oder bekifft in den Himmel geguckt haben und die Kondensstreifen von Flugzeugen sahen und sich dazu eine Verschwörungstheorie ausgedacht haben. Ich bin mir ziemlich sich das das Ganze als Witz angefangen hat. Genau wie mit der flachen Erde. Schon die alten Griechen wussten so grob wie die Erde aussieht, der Grieche Eratosthenes hat das mit einem Kalender und einem Holzlineal rausgekriegt und sogar den Erdumfang halbwegs korrekt errechnet, einfach in dem er Schatten zur Sommersonnenwende zwischen Alexandria und Syene verglichen hat. Also keine neue Erkenntnis. Und dennoch kann ich irgendwie die Logik dahinter verstehen, man sieht komische Streifen am Himmel und denkt die Regierung hat mal wieder etwas vor. Das setzte natürlich einen tiefen und festen Glauben an die allmächtige Regierung vor raus. Wie dem aber auch sei. Kondensstreifen sind ja doch relativ subtile. Wenn man sich aber den mächtigen Energiestrahl aus der Waldanlage anschaut könnte man schon eher an eine Verschwörung glauben. Vernichtungslaser. Atmosphärenvergifter. Normalerweise, wenn man Licht durch Luft strahlt sieht man davon nicht viel, wenn man Nebel drauf wirft sieht man etwas mehr weil dann das Licht halt in die Masse streut. Der Strahl der zum Mond geht ist wahrscheinlich mehr als nur Licht, aber die Tatsache das man das Ding fett in normaler Luft sehen kann sollte die Vermutung nahelegen das das Ding irgendwie mit de Atmosphäre des Planeten Koboh interagiert. So richtig gesund kann das eigentlich nicht sein oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 29.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #66
+
+* Titel: `Jedi Survivor - #66 - Kammer der Klarheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen zurück in einer weiteren Kammer. Diese hier wäre sogar quasi ohne die Hilfe von BD-1 lösbar, wenn ich mich richtig erinnere. Das ist immerhin ein Novum. Welche Lektion genau man hier lernt außer das man eventuell durch irgendwelche großen Blöcke zerquetscht wird ist mir allerdings nicht klar. Generell ist das etwas das ich für meinen Geschmack zu oft sage: das mir Dinge nicht klar sind. Oder zumindest nachvollziehbar. Klar, man wollte einfach kleine, isolierte Herausforderungen hinstellen die der Spieler machen kann um Verbesserung zu finden. Soweit verstehe ich das ja, aber hier hätte ich mir irgendwie eine bessere Erklärung gewünscht. Möglich wäre zum Beispiel gewesen das die Kammer selbst leer ist und wir meditieren und dann dort diese Rätsel lösen, aber dann ähnelte es wohl den Rissen zu sehr, die auch nicht wirklich erklärt worden sind. Diese Höhle ist aber deswegen bemerkenswert weil ich sie am Anfang falsch löse und dann erst später merke das mein Lösungsweg wahrscheinlich eher nicht der Offizielle war. Schade aber auch. Aber hey, es gab einmal mal einen anderen Weg.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 29.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #67
+
+* Titel: `Jedi Survivor - #67 - Schätze am Damm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben beinahe alle Fähigkeiten. Das heißt das wir wieder einmal eine Runde Backtracking betreiben. Nein, ich weiß wirklich nicht warum ich das tue. Ich weiß das viele meiner „Kollegen“ dazu neigen Spiele nur sehr flach und quasi nur die Hauptquest durchzuspielen. Und so möchte ich eigentlich nicht enden. Quasi nur darauf fixiert schnell ein paar Videos für den ersten Eindruck zu machen und dann das Projekt schnellstmöglich abfrühstücken. Allerdings stellt sich doch wirklich die Frage wofür ich mir das antue. Ab und an gibt es ein paar nette Geschichten vom Angler, das aber einmal außen vor gelassen passiert eigentlich nie irgendetwas. Wir finden keine besonders tollen Gegenstände, wir besiegen keine besonders starken Gegner. Eigentlich finden wir nur irgendwelche kosmetischen Gegenstände die keinerlei Wert haben. Oder wir finden Währung für kosmetische Gegenstände, auch nicht unbedingt besser. Das sind sie nämlich, diese Schätze die wir heute am Damm auftreiben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 29.08.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 

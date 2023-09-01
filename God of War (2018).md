@@ -946,6 +946,141 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
+##### #64
+
+* Titel: `God of War - #64 - Portal nach Jötunheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist endlich soweit, wir reisen nach Jötunheim und bringen Fayes Asche  endlich dahin wo wir versprochen haben sie zu bringen, zum höchsten aller Berge in allen 9 Welten. Kann ja auch so schwer eigentlich nicht sein oder? Kurz noch die Rune zeichnen und schon sind wir da. Ärgerlicherweise hat sich Sohn ja in letzter Zeit als ein wenig aufmüpfig herausgestellt aber das ist dann wohl nichts was uns auf lange Sicht wirklich stören sollte. Der Junge renkt sich schon wieder ein nehme ich einmal an, das nächste Trauma kommt bestimmt. Aber bis dahin sind wir schon längst in der Welt der Riesen und haben die Asche verstreut. Ich frage mich ja trotzdem ein wenig wo genau wir eigentlich raus kommen wenn wir durch das Portal auf dem höchsten Berg Midgards gehen. Sind wir dann praktisch in der Nähe oder wartet dann die nächste Bergsteigertour auf uns und das Ganze wird sich noch richtig lange ziehen. Mann kann wohl kaum damit rechnen das jeder Berg vollständig ausgehöhlt und mit einem Fahrstuhl versehen ist oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #65
+
+* Titel: `God of War - #65 - Visionen der Qual [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon wieder sind wir in Helheim, mir ist fast so als hätten wir den Ort erst vor 5 Minuten verlassen. Die schlechte Nachricht ist das Baldur auch da ist, die Gute ist das er anscheinend auch nicht frei von den Visionen von Hel ist und der „junge“ Mann hat wohl einige Traumata die er nie überwunden hat. Das weiß die Göttin der Toten auszunutzen. Ärgerlicherweise hat unser guter Kratos auch so einige Leichen im Keller und kann sich auf so Einiges freuen. Klar ist, wir müssen hier schnell wieder raus, der höchste Berg in allein neuen Welten ist definitiv kein Eisberg und daher ist jetzt schon klar das wir hier weg müssen. Nur die Frage nach dem Wie ist noch ein wenig offen, aber ich bin mir sicher das wir schon bald eine hölzerne Antwort mit der Geschwindigkeit des Feuers Spartas finden. Oder irgendwie so etwas, kann ja auf jeden Fall nicht lange dauern oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #66
+
+* Titel: `God of War - #66 - Charterflug durch Helheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als Gott des Krieges verdient man in der Regel nicht so gut. Klar, der Job bringt einige Reisen mit sich und manchmal kann man auch etwas von der Front nach Hause bringen, letztendlich brauchen die Leute die man besiegt ja ihren Besitz nicht mehr. Aber diese Leute sind in der Regel auch arme Schlucker insofern ist die Beute nicht so gewaltig. Was ich damit sagen will, wir können uns keine luxuriösen Methoden der Reise leisten. Ich weiß immer noch nicht so recht wie Kratos überhaupt in der nordischen Mythologie gelandet ist aber er wird da schon Wege gehabt haben. Irgendein Zuschauer behauptet ja weiterhin das er entführt wurde aber vielleicht ist er auch einfach nur so lange zu Fuß gelaufen bis kein Land mehr kam und hat sich da nieder gelassen. So oder so können wir uns nur Economy auf dem Hel-Flug 25-7 zu Tyrs Tempel leisten und das bedeutet 3te Klasse und jede Menge Eigenanteil an der Arbeit die uns zu unserem gewünschten Zielort führt. Der Flug ist wortwörtlich die Hölle, auch wenn mir wirklich nicht klar ist warum die Hel-läufer SO motiviert sind uns aufzuhalten. Das grenzt ja schon an Mobbing.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #67
+
+* Titel: `God of War - #67 - Umweg über Nilfheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja klar, natürlich könnten wir direkt aus Helheim zurück nach Midgard kehren und die frische Luft atmen, aber manchmal möchte man sich ja ein wenig fordern. Und deswegen gehen wir heute nach Niflheim. Das könnten wir theoretisch schon eine ganze Weile tun aber irgendwie kam das Thema bis jetzt nicht auf. Aber alles gar kein Problem. Jetzt sind wir ja hier und können uns noch einmal richtig darum kümmern. In Niflheim werde ich ziemlich viel Zeit verbringen, unter Anderen weil das ein Ort ist der sich immer wieder in seinen Ausgangszustand versetzt und man hier farmen kann. Theoretisch auch Erfahrungspunkte und Geld aber eigentlich interessieren tun uns die Nebel. Aus denen kann man wohl Rüstungen herstellen. Was man aber auch tun kann ist das Zeug einzuatmen, und, oh große Überraschung. Das ist nicht besonders gesund. Anscheinend gab es hier einen Zwerg namens Ivaldi der sich irgendwie mit Odin in den Haaren hatte, und wie solche Geschichte halt enden hat der Zwergenmeister dann seine Hallen mit tödlichen Nebel gefüllt weil man das halt so tut als Zwerg wenn man nicht möchte das die Leute am eigenen Zeug herum rühren. Die gute Nachricht ist aber das es kein Todesnebel ist und wir schon ein wenig darin umherlaufen können. Aber halt auch nur ein wenig bis wir ein Atemgerät oder so finden. Im Großen und Ganzen ist das hier alles Nichts was ich lang in der Aufnahme zeigen möchte weil es sich wohl doch ein wenig ziehen könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #68
+
+* Titel: `God of War - #68 - Gullveigs Versprechen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt gelegentlich, sagen wir selten, vor das ich mich ein wenig sehr spät daran erinnere das es noch offene Missionen gibt. Zum Beispiel die mit Gullveig. Gullveig war, zumindest wenn man den Worten ihres Lovers glauben darf zu ihren Lebzeiten eine mächtige Hexe die mit den Toten reden konnte. Inwiefern das jetzt vertrauenswürdig ist, insbesondere wenn man bedenkt das die Seidr-Magie eigentlich etwas Schlechtes ist kann ich spontan nicht sagen. Letztendlich ist Macht selbst ja nicht verwerflich und es kommt ganz darauf an was man damit tut. Und wir wurden ja nun wirklich nett darum gebeten. Also sammeln wir die Knochen einer Person die schon länger tot ist, ein Zustand der anscheinend verhindert das man in das Totenreich gehen kann. Und als Bonus wird uns sogar ein kurzes Gespräch mit Faye versprochen, da bin ich ja mal gespannt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #69
+
+* Titel: `God of War - #69 - Tyr's andere Seite [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Titel ist, wie so oft, vollkommen irreführend. Ich erhoffe mir dadurch selbstverständlich mehr Clicks, aber wenn wir ehrlich sind habe ich diesen Gedanken schon aufgegeben und es wird wohl nicht mehr lange dauern bis ich mit Youtube endgültig aufhöre. Die Anzahl der Kommentare in den letzten 4 Wochen (Null) motiviert mich nicht unbedingt irgendwie weiter zu machen. Zurück zum (Meta-)Thema, wir drehen natürlich nicht Tyr selber um, das wäre auch außerordentlich schwierig, er ist bereits tot und ich würde mal davon ausgehen das er verbrannt wurde, vorzugsweise auf einem Boot das aufs Meer raus gefahren ist. Was aber noch steht ist sein Tempel und den kann man anscheinend wirklich drehen. Die innere Kammer ist eine einzige gelagerte Kugel die mit recht dicken Ketten festgemacht ist. Dies ist eine neue Information und aus irgendwelchen Gründen hat man sich gedacht das es eines Tages notwendig ist den Tempel zu drehen. Also tun wir das jetzt weil vielleicht heute der Tag ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #70
+
+* Titel: `God of War - #70 - der Eintrachtstein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe tatsächlich nach der Aufnahme und Stream noch einmal darüber nach gedacht was Eintracht eigentlich ist. Mir fiel dabei auf das das Wort eigentlich gar nicht so oft vor kommt. Außerhalb von Vereinsbezeichnungen wie „Eintracht Wolmirstedt“ findet man das Wort quasi gar nicht. Oder zumindest ich tue das nicht. Aber vielleicht täusche ich mich auch und ich befinde mich in einer Sprachbubble. Eintracht, das ist wenn alle an einem Strang ziehen. Wenn man mit genügend Diplomatie Leute davon überzeugt hat das die Differenzen eigentlich gar nicht so groß sind und das man der anderen Seite vertrauen kann. Das trotz das die Zeiten mager sind man gemeinsam dennoch Großes schaffen kann weil man mit entsprechenden Mengen von Einigkeit Skaleneffekte nutzen kann und Synergien bildet. Genau so hat das bestimmt Tyr mit einem Flipchart den Riesen und anderen Kulturen erklärt und das ist jetzt auch warum wir den Eintracht-Stein finden. Weil wir wissen wie ein Flipchart aussieht. Ganz genau. Und dann springen wir vom Ast.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #71
+
+* Titel: `God of War - #71 - Fall durch die Welten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben also den Jötunheim-Turm gefunden, er war die ganze Zeit da, hier im Zwischenraum der irgendwie die neun Welten verbindet. Wie das Alles genau funktioniert hat natürlich wieder keiner gesagt aber das will man vielleicht auch nicht wissen. An sich haben wir eigentlich ausreichend Lore erhalten die die Welten soweit erklärt und den Rest können wir uns vorstellen. Das ist eigentlich auch ziemlich wichtig, man stelle sich vor den Storyschreibern fällt in einem DLC noch etwas ein was total cool wäre aber sie können es nicht tun weil sie vorher das Konzept tot erklärt haben und deswegen keinerlei Optionen mehr erlaubt. Das wäre fatal. Aber all das liegt weit von mir und ist ein wenig hochtrabend. Stattdessen rege ich mich darüber auf das ich wieder gegen meine Lieblingsfeinde die Dunkelalben kämpfen darf, die ich mit ihrer Nebelfähigkeit und quasi garantierten Treffer immer noch ziemlich unfair finde, insbesondere weil sie sich effektiv meiner Macht entziehen können. Das ist nicht in Ordnung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #72
+
+* Titel: `God of War - #72 - Northri-Festung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen an einem der Orte an denen ich schon hätte lange sein können. Ich habe ein leichtes Problem mit der Karte von God of War. Hauptsächlich ist es das ich glaubte das die Welt wesentlich größer ist als sie es am Ende war. Stellt sich doch glatt heraus das der Ort ganz im Norden der Karte doch gar nicht so weit draußen ist wie ich immer dachte und ich nur eine kleine Höhle hätte entlang fahren können. Hätte ich das gewusst hätte ich mir nicht so lange das Gejammere von Sindri angehört und hätte mich auch viel schneller um seinen Wetzstein gekümmert. Außerdem suchen wir übrigens noch den Sohn eines Häschers der von eben jenen hinterrücks ermordet wurde. Ich vermute das wir am Ende eher eine Leiche finden werden weil wir bisher nicht besonders viele lebende Menschen getroffen haben. Wenn ich so darüber nachdenke, eigentlich nur die paar ganz am Anfang, seit dem sind es alles nur Geister und Hel-Läufer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -9507,6 +9507,143 @@
   Aufnahme vom 13.08.2023 - #1828 - ##7 - S1
   ```
 
+##### #1829
+
+* Titel: `Let's Play ESO #1829 ##8 - Spuren der Fäulnis [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 8 des Nekrom DLC - Sitzung 2
+  
+  Wenn ich an Fäulnis denke denke ich zu erst an Nurgle, das liegt aber auch daran das ich in letzter Zeit so einige W40K Bücher gelesen haben aber eher nicht so viele Texte die sich mit der Lore von Elder Scrolls beschäftigen. Offensichtlich ist die hiesige Fäulnis natürlich mit Peryite verbunden, dem Daedra der Fäulnis, ich kann nicht wirklich behaupten das ich eine Menge über ihn weiß aber zum Glück gibt es ja für solche Gelegenheiten Lesematerial und ich kann das alles nachschlagen. Stellt sich doch glatt heraus das man die Welt der Dunkelelfen relativ einfach mit einem Schiff infiltrieren kann, dank strikter Gesellschaftsordnung stellt dann am Ende auch niemand in Frage wenn man einfach behauptet man arbeitet für den Tempel und braucht entsprechenden Zugriff.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 25.08.2023 - #1829 - ##8 - S2
+  ```
+
+##### #1830
+
+* Titel: `Let's Play ESO #1830 ##9 - Nekropole von Nekrom [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 9 des Nekrom DLC - Sitzung 2
+  
+  Ich hätte eigentlich gedacht das die Nekropole quasi das ist was Nekrom ausmacht aber so wie es aussieht gibt es durchaus noch ein wenig mehr als die Anbetung der Toten. Schließlich handelt es sich ja auch immer noch um eine Siedlung und da wohnen halt auch Menschen. Demzufolge macht es schon irgendwie Sinn zu spezifizieren das wir heute tatsächlich in der eigentlichen Nekropole von Nekrom eingeritten sind. Ich finde übrigens das die Tiefe und Größe des Ortes nicht so richtig rüber kommt. Klar, das Layout deutet schon an das es ein wenig mehr Fläche gibt aber eigentlich ist das ja ein gewaltiger Komplex der auch in die Tiefe geht und an sich müsste der Platz relativ eng sein. Würde ich zumindest annehmen. Aber davon merkt man halt nicht so viel. Eventuell sind die breiten Gänge aber auch ausnahmsweise wirklich glaubhaft weil man ja für Anbetung schon etwas Raum braucht. Es wäre ja auch wirklich niemanden geholfen wenn man seine Kerzen andauernd wieder aufstellen muss weil die schusseligen Nachbarn an einem vorbeischreiten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 25.08.2023 - #1830 - ##9 - S2
+  ```
+
+##### #1831
+
+* Titel: `Let's Play ESO #1831 ##10 - Fulcrum Obscura [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 10 des Nekrom DLC - Sitzung 2
+  
+  Eigentlich machen wir heute ein wenig mehr als nur das Fulcrum Obscura zu finden. Am Anfang der Episode behaupte ich noch das wir es nicht erhalten werden weil unsere Gegner uns ja doch den einen oder anderen Schritt vor raus sind, allerdings lag ich ein wenig falsch aber auch richtig. Es ist schwierig zu erklären, oder auch nicht, aber nicht hier halt. Ich möchte nur warnen das wir heute eventuell schon die nächste Quest anfangen, einfach weil ich entweder zu lange in der letzten Episode gequatscht habe oder mich in dieser nicht lange genug mit irgendwelchen Kämpfen aufgehalten habe. Aber ich will ehrlich sein, ich habe wirklich wenig Interesse daran lange mit Leuten zu kämpfen die doch nur austauschbare Gegner sind die wir so schon tausende Male gesehen haben. Da ist einfach keine Spannung drin.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 25.08.2023 - #1831 - ##10 - S2
+  ```
+
+##### #1832
+
+* Titel: `Let's Play ESO #1832 ##11 - Siedlung Alavelis [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 11 des Nekrom DLC - Sitzung 2
+  
+  In jungen Jahren romantisiert man das Leben in einer anderen Zeitperiode ganz gerne. In der Regel gilt aber das es noch nie so lebenswert war wie jetzt. Das könnte in den kommenden Jahren eventuell ein wenig abnehmen und am Ende stellt sich vielleicht sogar heraus das die frühen 2000er die ideale Zeit waren zu Leben. Aber das weiß man ja immer erst später. Sicher ist aber das das Leben im Mittelalter für die Allgemeinheit eher nicht so angenehm ist. Selbst in einer Welt voller Magie in der man einige extrem unpraktische Dinge wie mangelnde Hygiene und tödliche Krankheiten durch Magie abfedern kann ist das Leben für den einfachen Bauern eher nicht so schön. Und selbst Könige haben wohl nicht das Beste aller Leben. Die kalte und dunkle Wahrheit ist wohl das die meisten Leute kaum Magie in sich haben und eine stärkere Grippe durchaus das Ende bedeuten kann ohne das sie irgendetwas dagegen tun können. Auf Nirn kommt noch das zusätzliche Risiko hinzu das irgendwelche Daedra-Kultisten plötzlich das eigene Heimatdorf als Ausgangspunkt für die nächste große Verehrung annehmen und schon hat man den Salat. In diesem Fall ist das mit dem Dorf Alavelis passiert. Es fällt uns erstaunlich schwer irgendwelche Minenarbeiter zu finden, oder überhaupt Leute. Alles ist wie ein großer Alptraum. Und das ist Etwas gegen das man als einfacher Bauer einfach gar nichts tun kann.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 28.08.2023 - #1832 - ##11 - S2
+  ```
+
+##### #1833
+
+* Titel: `Let's Play ESO #1833 ##12 - Sprung nach Apocrypha [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 12 des Nekrom DLC - Sitzung 2
+  
+  
+  Ich muss zugeben, und das tue ich ungern, das ich nicht so früh mit einer Reise nach Apokrypha gerechnet hätte. Klar, theoretisch stand uns die Möglichkeit schon immer offen, spätestens seit wir die Buchbinderei in Nekrom besucht hatten aber ich hätte durchaus damit gerechnet das wir noch ein ganzes Stück mehr Schicksalsfäden in Nirn verfolgen bis wir uns wirklich in eine Ebene des Vergessenes begeben. Das gibt uns Gelegenheit direkt ein großes Stück Kritik auszulagern. Es ist bestimmt nicht das erste Mal aber dieses Mal fällt es ganz speziell und viel auf, die Engine von Elder Scrolls Online ist einfach komplett aus der Zeit gefallen. High Fantasy ist nicht wirklich ein Genre das man mit Minimal-Grafik darstellen kann. Die Plastik-Gummi Optik von WarCraft hat immer ganz gut funktioniert und ist definitiv ein Grafikstil den man sich länger und besser erhalten kann, aber für Elder Scrolls wäre es doch ein gewaltiger Stilbruch. Ärgerlicherweise ist aber auch der aktuelle Zustand der grafischen Details bedauernswert. Der Wahnsinn von Apocrypha kommt einfach nicht richtig rüber. Magie und überdimensionale Wesen werden in Film und Fernsehen ungern viel benutzt weil Spezialeffekte halt teuer sind, aber um eine Illusion ordentlich zu verkaufen kommt man manchmal nicht darum herum. In Spielen ist das eigentlich ein gelöstes Problem und Ebenen des Reiches des Vergessens gab es ja sogar schon im Hauptspiel. Und doch bin ich von Apocrypha extrem enttäuscht. Ich habe mittlerweile ein paar Screenshots von Skyrim angeguckt, und es sah gar nicht so viel anders aus, und doch besser. Insgesamt muss ich sagen das ich Design hier in ESO auf die Engine schiebe und für nicht gut befinde. Es sieht halt aus wie eine grüne Variante einer beliebigen anderen Ebene mit niedrig aufgelösten Texturen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 28.08.2023 - #1833 - ##12 - S2
+  ```
+
+##### #1834
+
+* Titel: `Let's Play ESO #1834 ##13 - drei Namen des Wissenden [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 13 des Nekrom DLC - Sitzung 2
+  
+  Wir sind also in einer Ebene des Vergessens. Ich versuche mich nicht mehr zu sehr darüber aufzuregen das die grafische Repräsentation an meiner Illusion nagt und konzentriere mich wieder auf den Inhalt. Die Daedra-Fürsten sind ziemlich alt, wahrscheinlich älter als fast alle Sterblichen und ihr Ursprung ist relativ nebulös. Anscheinend gab es eine Art Ur-Daedra was mich glauben lässt das die Haltbarkeit der Daedra durchaus begrenzt ist und wenn wir uns Sheogorath anschauen könnte es auch sein das die Macht und der Titel durchaus nicht für ewig ist. Mit einer langen Existenz kommen auch eine Menge Namen einher. Das kann man schon einfach mit verschiedenen Sprachen erklären. Ich würde hier ja gerne ein wenig mehr in die Nerdecke verschwinden aber ich beschränke mich auf ein simples Beispiel: Die Japaner (jaja, ich versuche grade Japanisch zu lernen, ich Weeb) haben für Leihwörter aus anderen Sprachen einen eigenen Schriftsatz, nennt sich Katakana, ursprünglich konzipiert um damit Worte in Sanskrit zu schreiben. Als beiläufiger Beobachter sieht man aber meistens nur die englischen Leihwörter (das japanische Wort für Murmel ist aber beispielsweise portugiesischen Ursprungs). Teilweise erkennt man die aber kaum wieder, zum Beispiel „Konbini“ bzw. コンビニsteht aber eigentlich für „Convenience Store“,  oder ビール für Bier bzw. Biiru kommt aus dem Englischen „beer“. Das Japanische hat aber keine Endungen auf nur „R“ also wird daraus ein „ru“. Das Deutsche ist da relativ großzügig aber hier gibt es auch Konstrukte die einfach nicht nativ funktionieren und ein Wort als fremd erscheinen lassen. Und so werden Wörter eingedeutscht, einjapanischt oder welche Sprache man auch immer grade spricht. Und damit erklärt sich warum eine quasi-Gottheit die mehre Jahrtausende umfasst viele verschiedenen Namen haben die teilweise nur eine entfernte Verwandtschaft aufweisen. Umso spannender ist dann aber auch das Konzept des wahren Namens, oft haben solche Benennungen dann Macht über das Benannte. Ob das hier der Fall ist, insbesondere beim Fürsten der Geheimnisse? Man kann nur spekulieren.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 30.08.2023 - #1834 - ##13 - S2
+  ```
+
+##### #1835
+
+* Titel: `Let's Play ESO #1835 ##14 - drei abgeschlossene Stränge des Schicksals [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 14 des Nekrom DLC - Sitzung 2
+  
+  Eine Aufgabe erfolgreich hinter sich gebracht zu haben ist manchmal schon Lohn genug. Für mich in der Regel nicht. Letztendlich muss Alles irgendwie Sinn ergeben und einfach nur etwas getan zu haben ohne zu wissen wie die Dinge im großen Kontext stehen kann durchaus ziemlich unzufrieden stellend sein. Heute schließen wir dann die erste Mission für Hermaeus Mora ab und schließen damit sogar direkt vier Quests und haben vier Schicksalsfäden bis zum Ende verfolgt. Am Ende gibt es 664 Gold und einen Klaps auf den Rücken aber was wir wirklich getan haben ist nicht so richtig klar. Sicherlich haben wir irgendwie die Welt ein wenig besser gemacht aber das bringt die Bewohner von Alavelis auch nicht zurück aus dem Wahnsinn, Tod oder Fängen von Vaermina. Über die ominöse Bedrohung für Nirn und wie genau der Untergang eines daedrischen Fürsten uns irgendwie negativ beeinflussen kann haben wir auch noch nicht erfahren. Bisher haben wir nach wie vor nur das Wort einer Entität die notorisch dafür bekannt ist Wissen zu horten und zu einer Spezies gehört die notorisch lügt wenn man sie nicht hart vertraglich bindend. Einen solchen Vertrag haben wir zwar irgendwie unterzeichnet aber die genaue Formulierung hat mein Anwalt auch noch nicht gesehen. Kurzum, ich kann hier niemanden trauen. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 30.08.2023 - #1835 - ##14 - S2
+  ```
+
+##### #1836
+
+* Titel: `Let's Play ESO #1836 ##15 - Llaros Kopfschmerzen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 15 des Nekrom DLC - Sitzung 3
+  
+  Kopfschmerzen oder Migräne können das Schlimmste in den Leuten hervorrufen. Das ist aber auch vor allen Dingen dann ein Problem wenn der Charakter einer Person bereits nicht besonders gut war und durch die Schmerzen dann noch schlimmer gemacht wird. Es kann dann schon einmal vorkommen das Menschen wie ein verletztes Tier reagieren und ausfällig werden. Für Dunkelelfen oder irgendwelche Mer gilt natürlich das Gleiche. Wie schön das wir heute einen findigen Alchemisten finden der anscheinend das Problem am Schopfe fasst und ein für alle Male eine Lösung findet. Unser Patient ist ein gewisser Llaro, offensichtlich natürlich ein Telvanni, nicht im höchsten Rang aber auch nicht im Niedrigsten. Soweit ich das bisher beobachten konnte ist es relativ gefährlich in den Rängen der Telvanni unterwegs zu sein wenn man nicht schnell genug aufsteigt oder für Aufstieg sorgen kann. Schon deswegen weil andere Leute eventuell nachrücken wollen und wenn man sich als Blocker erweist wäre es natürlich sehr schade wenn man dringend ein Gegenmittel für Gebrechen bräuchte. Ich frage mich nur warum die Leute mich andauernd benutzen möchten anstatt ehrlich um ein gildensanktioniertes Attentat zu fragen. Das wäre doch alles kein Problem. Für den richtigen Taler bin ich gerne bereit Leute aus der Zuckerwatte des Lebens zu schneiden. Aber nein, unser Auftraggeber muss sich ja wieder so intelligent fühlen. Das ist schon ein wenig sehr belastend finde ich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 01.09.2023 - #1836 - ##15 - S2
+  ```
+
 ##### #Nummer
 
 * Titel: ``

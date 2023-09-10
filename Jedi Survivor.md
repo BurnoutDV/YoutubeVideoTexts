@@ -1012,6 +1012,111 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
+##### #68
+
+* Titel: `Jedi Survivor - #68 - Kammer der Loslösung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir machen wieder irgendwelche Kammern. Langsam habe ich wirklich den Überblick verloren worin es in dieser ging. Stellt sich doch glatt heraus das die Hälfte der Episode überhaupt nicht in der namensgebenden Kammer war. Stattdessen habe ich eine Menge Backtracking betrieben und einen Typen namens Vashtan Wolfe im ehrenhaften Duell besiegt, das die Waffe seiner Wahl ein Laserschwert war ohne das er damit wirklich umgehen kann ist ja nicht wirklich meine Schuld. Letztendlich braucht man aber nicht wirklich die Macht um eine Plasmaklinge umher zu schwingen, es geht wahrscheinlich ein wenig besser wenn man die Zukunft erahnen kann, aber brauchen tut man es nicht. Dann hören wir uns ein wenig Seemannsgarn an und dann kümmern wir uns tatsächlich um die Kammer der Loslösung, die übrigens nicht so besonders schwer war, da habe ich Schlimmeres gesehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 29.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #69
+
+* Titel: `Jedi Survivor - #69 - Zurück zum Mond [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf der super geheimen Mondbasis mit den unerklärten Stücken von Technik gab es immer noch Gänge die wir beim letzten Mal nicht betreten konnten. Außerdem lagen da hier und dort noch ein paar Artefakte herum, ich muss aber ganz ehrlich sagen, so richtig mögen tue ich das Szenario mit dem Mond nicht. Letztendlich könnte es auch ein riesiges Raumschiff im Orbit von Koboh sein das á la Dead Space 3 irgendwie verlassen und voller Schrecken ist. Kleine Teile die vielleicht von den Raidern erobert wurden und andere mit kosmischen Schrecken gefüllt. Das ist aber nicht so, stattdessen erhalten wir irgendwelche gewaltigen Anlagen die unerklärt Zwecke erfüllen. Wir sehen sich drehende Gastanks die anscheinend seit mehr als hundert Jahren auf ihren schmierungsfreien Lagern umhertreiben ohne das sich je jemand darum kümmern musste. Wir finden Anlagen mit funktionierenden Fahrstühlen die viele Jahrzehnte ohne Pflege ohne Probleme überstanden haben. Und all das besuchen wir auch noch in dem wir durch die Laser der irgendetwas tut springen weil es scheinbar keine alternativen Wege in das innere Forschungszentrum gibt. Sich durch ein Fenster mit dem Laserschwert von Außen durch zu brennen war definitiv keine Lösung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 29.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #70
+
+* Titel: `Jedi Survivor - #70 - Kriegertod [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ehrenhaft zu sterben ist vor allen Dingen dann etwas wenn man in einer Kultur lebt in der solche Dinge tatsächlich auch anerkannt werden oder es zumindest Vorteile für die Hinterbliebenen gibt wenn man tatsächlich seine Rolle in der Gesellschaft erfüllt. Rayvis war offensichtlich ziemlich davon überzeugt das sein Weg der Richtige ist. Offensichtlich hat er mehre Jahrzehnte damit verbraucht den einen Typen zu finden der er sein Leben schuldig ist und dann hatte er sogar Erfolg. Letztendlich würde ich persönlich es eher vermeiden überhaupt zu sterben, aber die Aussicht einen schnellen, und am besten überraschenden Tod zu haben anstatt langsam auf dem Boden einer fremden Welt zu verbluten erscheint ein wenig besser. Warum genau wir Rayvis jetzt dieses Privileg gönnen wollen ist mir allerdings nicht klar. An sich hat uns das Alien ziemliche Schwierigkeiten eingebrockt, aber wir sind wohl die Guten und deswegen tun wir gute Dinge. Völlig klar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 10, Aufnahme vom 29.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #71
+
+* Titel: `Jedi Survivor - #71 - Pfad der Überzeugung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind zurück auf Jedha, ich jammere ja gerne und viel darüber das wir viel zu viel Zeit auf Koboh verbringen und quasi nie richtig coole Orte bereisen, das ändert sich jetzt und wir kümmern uns endlich um die letzten Prüfung auf diesem Planeten die wir bisher noch nicht angehen konnten weil uns offensichtlich der erweiterte Greifhaken gefehlt hat. Jetzt da dieser Mangel beseitigt ist können wir loslegen, ich muss aber sagen das dieses Rätsel hier schon echt happig ist. Ich weiß nicht ob es auf niedrigeren Schwierigkeitsgraden einfacher wäre oder man einfach mehr Zeit hat, aber die Geschwindigkeit mit der man hier von A nach B springen muss verlangt schon eine ziemliche Menge an Präzision die ich so nicht erwartet hätte. Letztendlich schaffe ich es natürlich. Auch interessant sind die Unterhaltungen die wir noch mit unserer Crew führen können obwohl ich dachte das wir alles erschöpft haben. Merrin möchte das Thema nicht weiter vertiefen, was irgendwie schade ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #72
+
+* Titel: `Jedi Survivor - #72 - Schatzkarte von Jedha [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  All unsere Mühen und die ständige Persistenz durch die ich mich selbstverständlich ausgezeichnet habe führen uns heute tief in das Innere der alten Anlagen von Jedha. Glücklicherweise scheint die Technologie selbst auf der Macht zu basieren und so funktioniert selbst in der tiefsten Wüste ein Fahrstuhl noch grade zu hervorragend und wir haben keine Probleme in das Innere eines Monolithen zu kommen. Manchmal wünschte ich mir aber wirklich das wir einfach den Weg des Imperiums gehen könnten und anstatt irgendwelche Rätsel mit gewaltigen Mühen zu knacken einfach uns durch die Wand durch Sprengstoffen würden. Aber dann ginge ja vielleicht etwas kaputt. Nachdem wir damit fertig sind und eine ziemlich nutzlose Karte aller „Geld“ Vorkommen erhalten verurteilen wir noch eine Person zum Tode indem wir sie per Gedankenkontrolle völlig durcheinander nehmen (ich wollte eigentlich eine andere Wortwahl wählen um klarer zu machen was wir hier eigentlich tun aber ich habe ein wenig Angst vor dem Youtube Algorhitmus).  Ich weiß nicht wie wir moralisch verteidigen können was Karl tut. Er bringt eine Person ohne Not dazu von einem Handeln ab zu sehen das ziemlich sicher keinerlei Folgen haben würde auch wenn sich Karl irgendetwas herbei phantasiert, ganz davon abgesehen das das Imperium eh hier ist um Kybber Steine für ihren Todesstern abzubauen. Natürlich weiß er nicht das Jedha demnächst gesprengt wird aber dennoch finde ich Karls handeln ziemlich frei von moralischen Grundsätzen denen er sich angeblich verschrieben hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #73
+
+* Titel: `Jedi Survivor - #73 - Kobohs Höhen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen Gründen ist Koboh die zentrale Welt in der es um Jedi Survivor geht, irgendwie auch logisch wenn man bedenkt das sich die gesamte Story darum dreht das es sich ja hier um den Zugangspunkt nach Tanalorr handelt. Allerdings ist es in Star Wars auch so das jeder Planet immer nur genau eine Klimazone bzw. Region hat und das man, wenn man einen anderen Ort sehen will, man woanders hinfliegen muss. Das tun wir halt nicht wirklich, klar es gibt noch ein paar verschiedene Orte und die Tatsache das Karl ein gesuchter Verbrecher ist macht es ein wenig schwierig für ihn besonders viel durch die Gegend zu reisen oder sich an Orten blicken zu lassen die dichter bevölkert sind. Und doch, eine gewisse Diversität wäre schon irgendwie schön gewesen, insbesondere weil Geschichten im Star Wars Universum immer mehr zusammen zu brechen scheinen je mehr man sich mit einem Ort beschäftigt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #74
+
+* Titel: `Jedi Survivor - #74 - Raider Ausgrabungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht nur irgendwelche Leute auf Jeddha denen wir komplett den Geist zerstört haben und ihr legitimes Interesse nach Flucht verwehrt haben graben kulturelle Schätze auf dem Planeten aus auf dem wir uns befinden. Auch unter den Raidern scheint es das ein oder andere Individuum zu geben das sich für Hinweise für die Vergangenheit interessiert zu geben. Es ist nicht so das Rayvis unbedingt einen Schlüssel haben wollte um irgendwelche Türen zu öffnen haben wollte, nein, es stellt sich doch glatt heraus das es durchaus auch andere, weniger hochrangige Mitglieder geben kann die ihre eigenen Träume und Wünsche haben. Wie genau ich diesen Außenposten eigentlich übersehen habe ist mir nicht so ganz klar aber es lag eventuell daran das man eine sehr schwere Dachabdeckung entfernen musste, und das konnten wir ja nicht bis wir neulich eine plötzliche Eingebung hatten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

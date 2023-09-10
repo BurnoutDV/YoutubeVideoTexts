@@ -9641,17 +9641,160 @@
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
-  Aufnahme vom 01.09.2023 - #1836 - ##15 - S2
+  Aufnahme vom 01.09.2023 - #1836 - ##15 - S3
   ```
 
-##### #Nummer
+##### #1837
 
-* Titel: ``
+* Titel: `Let's Play ESO #1837 ##16 - Schatten aufspüren [Nekrom]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 16 des Nekrom DLC - Sitzung 3
+  
+  Meine Damen und Herren, ich darf heute stolz und erneut Ald Isra präsentieren. Das ist schon deswegen interessant weil wir zwar zuerst irgendeiner anderen Dunkelelfin begegnen die uns nicht so viel weiter interessiert wir aber kurz später eine alte Bekannte treffen. Naryu. Ich weiß nicht genau wie es dazu gekommen ist, aber irgendwie mag ich die gute alte Naryu, das sie ihres Zeichens eine Auftragskillerin ist und schon wirklich viele Leute auf den Gewissen hat, selber keines zu besitzen scheint und generell und überhaupt ziemlich offen mit ihrer Tätigkeit ist sollte uns wohl nicht weiter bedrücken. Auf der anderen Seite ist ihre spielerische Leichtigkeit manchmal auch ganz angenehm, insbesondere für jemanden der den Tod in keinster Weise zu fürchten hat, am Ende stehen wir eh wieder auf. Die Gute wurde anscheinend gerufen um jemanden umzubringen, und natürlich ist das alles nicht so einfach wenn wir da sind sonst wäre sie ja schon wieder weg, stellt sich doch glatt heraus das die Identität des Ziels nicht bekannt ist. Man kann tatsächlich die Morag Tong engagieren ein unbekanntes Ziel zu töten und dann auch noch ein wenig Investigation für die gleiche Menge an Geld zu bekommen. Das doch einfach großartig oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 02.09.2023 - #1837 - ##16 - S3
+  ```
+
+##### #1838
+
+* Titel: `Let's Play ESO #1838 ##17 - der riechende Diener [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 17 des Nekrom DLC - Sitzung 3
+  
+  Unsere kleine Mordgeschichte zieht sich immer noch ein wenig in die Länge und der spannenste Teil ist eigentlich das bisher noch niemand gestorben zu sein scheint. Allerdings verdichtet sich der Tatverdacht doch schon arg und wenn wir wirklich in eine Ecke gedrängt wären könnten wir wohl schon ganz gut raten wenn wir umbringen müssen. Letztendlich stellt ja auch niemand die Morag Tong in Frage und wir könnten wohl einfach irgendjemand über den Jordan (oder einen beliebigen anderen Fluss) bringen und es würde absolut keinen Unterschied für den Moment machen. Wenn dann der Spion weiterhin aktiv werden würde wäre es natürlich ein wenig seltsam und würde ein schlechtes Licht auf die Leistung der Gilde werfen, aber bis dahin sind wir ja eh schon weiter gezogen. Es ist ja nicht so das wir irgendetwas mit den Morag Tong abseits von Naryu zu tun haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 03.09.2023 - #1838 - ##17 - S3
+  ```
+
+##### #1839
+
+* Titel: `Let's Play ESO #1839 ##18 - Operation Siphon [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 18 des Nekrom DLC - Sitzung 3
+  
+  Das Haus Dres, quasi die Widersache im internen Dunkelelfen Hausstreit der Telvanni, hat ein Lager ganz in der Nähe von Ald Isra. Warum genau die Telvanni das tolerieren ist mir ein absolutes Rätsel. Es kann mir doch niemand sagen das sie nicht davon wissen, insbesondere wenn einer der Diener bereits dafür bestraft wurden Dres-ling den Weg zum lokalen Brunnen gezeigt zu haben. Wo soll der den bitte hergekommen sein, oder fand das einfach niemand verdächtig und hat das einfach so geschehen lassen? Sind die Telvanni am Ende so strikt das es niemand wagt seltsame Beobachtungen nach oben zu melden? Das könnte tatsächlich sein, denke ich. Aber dann wäre da immer noch der Fakt das die Wachen scheinbar beliebige Leute angreifen und uns ohne mit den Wimpern zu zucken getötet hätten, das wirkt ein wenig harsch für Leute die eigentlich gar nicht da sein sollten. Sind wir etwas die Erste die nahe genug heran gekommen ist? Irgendwie klingt das doch alles ein wenig unwahrscheinlich oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 04.09.2023 - #1839 - ##18 - S3
+  ```
+
+##### #1840
+
+* Titel: `Let's Play ESO #1840 ##19 - strikt nach Auftragsschrieb [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 19 des Nekrom DLC - Sitzung 3
+  
+  Sich genau an die Aufgabe zu halten die einen auferlegt wurde ist nicht ganz so einfach. Meistens kommt das Leben dazu und man wird irgendwie dazu angehalten kreativ zu werden. Oder aber es ist anders, die Aufgabe die man hat sieht eigentlich ein sehr striktes Vorgehen vor aber die Realität die sich vor den eigenen Augen aufbaut hat nur noch entfernt mit dem zu tun was im Handbuch steht, in diesem Fall kann man entweder abbrechen oder eine neue Lösung suchen. Ich würde jetzt argumentieren das viele Problem auf der Welt damit los gehen das jemand entschieden hat das sie das Problem leider nicht angehen kann weil es ja nicht im Handbuch, der Vorschrift oder der Ausbildung erwähnt wurde. Und dann passiert einfach nichts. Da es ja nicht dokumentiert ist wird natürlich auch absolut niemand informiert. Und dann geht die Gesellschaft zu Grunde. Und doch kann es auch gute Gründe geben einfach nicht einzugreifen. Zum Beispiel wenn man Leute im Auftrag anderer Leute umbringt. Dann tut man am besten genau das was gesagt wurde und verkompliziert die Lage nicht zusätzlich. Schließlich will man beim nächsten Mal auch wieder angeheuert werden, und da ist Diskretion wichtig. Finde ich zumindest.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 04.09.2023 - #1840 - ##19 - S3
+  ```
+
+##### #1841 ##20
+
+* Titel: `Let's Play ESO #1841 ##20 - Naryus Scheitern [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 20 des Nekrom DLC - Sitzung 3
+  
+  Völlig übertriebene reißerische Titel kann ich! Glaube ich zumindest. Also, die Lage ist wie folgt. Wir sind aktuell in der Gegend um Nekrom unterwegs weil Naryu uns im letzten Auftrag gesagt hat sie würde uns in der örtlichen Taverne treffen. Man kann echt von Glück sprechen das es in ganz Nekrom genau eine Taverne gibt. Man würde ja eigentlich erwarten das die diversen Herbergen und Schenken weit über die Stadt verteilt sind weil das Konzept des öffentlichen Nahverkehrs eher nicht existiert und man auch in nächster Zeit nicht mit einer Buslinie oder U-Bahn rechnen darf. Und doch finde ich sie initial nicht. Das ist nicht besonders überraschend bei meinen Fähigkeiten. Dafür sehen wir eine Menge so von Nekrom und das ist ja eigentlich auch ganz schön weil man sich namensgebene Orte immer genau angucken sollte damit man ein gutes Gefühl für die Gegend kriegt. In diesem Fall ist es die Erkenntnis das die Telvanni das mit ihren Begräbnissen übertreiben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 05.09.2023 - #1841 - ##20 - S3
+  ```
+
+##### #1842 ##21
+
+* Titel: `Let's Play ESO #1842 ##21 - die zweischneidige Klinge [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 21 des Nekrom DLC - Sitzung 3
+  
+  Wie es der Zufall so will stolpere ich von einer Nebenmission in die Nächste. Das ist nicht so ungewöhnlich wenn ein DLC frisch und unverbraucht ist und ich nutze das natürlich gerne um ein Gefühl für die Welt zu kriegen, insbesondere wenn die Grafik oder die allgemeine Anordnung der restlichen Bühnenstücke vielleicht nicht das ganze Bild der Gesellschaft rüber bringt das die Erschaffer eigentlich für uns gewinnen wollten. Heute treffen wir einen Argonier der sich anscheinend nicht mehr an sein Leben erinnern kann, nur noch an seinem Namen „Gerissen-wie-die-Nacht“. Ich bin ein wenig fern vom Allgemeinwissen Argonier als das ich diesen Namen jetzt einordnen kann, aber das was wir in den ersten 20 Minuten von dem Kerl erfahren ist wohl das er es faustdick hinter den Ohren hat und offensichtlich keine Probleme damit hat Leben zu nehmen oder sich die Hände schmutzig zu machen. Das ist alles recht faszinierend aber noch bin ich noch nicht ganz überzeugt von der Qualität unseres zukünftigen Freundes. Man ist nämlich ganz sicher gegangen um uns zu zeigen das es sich um eine Begleiterquest handelt, es gibt jetzt ein eigenes Symbol. Außerdem gibt es mal wieder einen Skillcheck, ich bin ja hellauf begeistert.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 05.09.2023 - #1842 - ##21 - S3
+  ```
+
+##### #1843##22
+
+* Titel: `Let's Play ESO #1843 ##21 - Reynilas Zeltlager [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 21 des Nekrom DLC - Sitzung 4
+  
+  Die Telvanni scheinen sich im Allgemeinen nicht wirklich dafür zu interessieren was in ihrem Gebiet vor sich geht. Man würde ja meinen das in einer Welt voller Magie durchaus einige zivilisatorische Fortschritte, insbesondere wenn sie der Überwachung und Monetarisierung von einstmals freien Lebensbereichen dienen durchaus bereits ihren Eintritt in den praktischen Gebrauch hatte. Aber, es sieht wohl nicht so aus, heißt, man kann sich sehr leicht abseits der Wege eine kleine Lagerstätte errichten und hat keinerlei Probleme wild zu kampieren. Außer natürlich man wird von Söldnern überfallen. Mir fällt übrigens auf das ich hier ein echtes Problem habe der Geschichte zu folgen weil ich in verschiedenen Sitzungen gespielt habe und deswegen nicht ganz konkret wusste wer hier zu jedem Zeitpunkt wo anzutreffen ist. Sicher ist aber das das Zeltlager einer gewissen Reynila gehört (unserer Zielperson) und das die zwei Laternen die da stehen irgendwie im Zusammenhang stehen, weiter erklärt wird das aber nicht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 08.09.2023 - #1843 - ##21 - S4
+  ```
+
+##### #1844#23
+
+* Titel: `Let's Play ESO #1844 ##22 - Mevei Andros [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 22 des Nekrom DLC - Sitzung 4
+  
+  Ja, ich benenne jetzt einfach nur Episode nach irgendwelchen Episoden ohne das direkt in den Kontext zu stellen. Der kommt hier, in die Beschreibung die man auf manchen Geräten überhaupt nicht lesen kann. Das ist sehr schlau von mir und deswegen tue ich das auch, weil es in meinem Kopf 2010 ist und Let’s Plays noch voll beliebt sind. Also, Mevei ist anscheinend die Frau (man heiratet anscheinend direkt, irgendwie sind Leute nie nur Lebenspartner oder „wahre Liebe“) von Reynila die so etwas wie einen kleinen Privatkrieg zur Befreiung von Sklaven führt. Das ist aber kein allgemeiner Krieg gegen die Telvanni selbst sondern nur gegen einen bestimmten Meister der uns vorerst nur unter dem Namen „der Erneuerer“ bekannt ist. Es würde mich nicht wundern wenn später heraus kommt das es der oberste Anführer war. Oder jemand von dem wir noch nie etwas gehört hatten. Das könnte natürlich auch sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 08.09.2023 - #1844 - ##22 - S4
+  ```
+
+##### #1845
+
+* Titel: `Let's Play ESO #1845 ##23 - Gerissen-wie-die-Nacht [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 23 des Nekrom DLC - Sitzung 4
+  
+  Ich hätte natürlich auch direkt die erste Mission „Gerissen-wie-die-Nacht“ nennen können. Es handelt sich offensichtlich um unseren zukünftigen Begleiter. Da wir bereits wissen wie die Dinge ausgehen oder zumindest das Feld kennen in denen die Dinge fallen können schränkt das natürlich auch die Ereignisse ein. Ich bin allerdings überhaupt nicht damit einverstanden wie die Dinge am Ende dieser Mission dann letztendlich laufen. Es kommt mir doch recht faul vor. Die Art wie hier wieder Charaktere abgeschlossen werden ohne dabei besonders gründlich zu sein stört mich sehr. Natürlich kann man nicht jede Geschichte erkunden und der Held kann nicht jeden Pfad erkennen, insbesondere in einem MMO ist es wohl nur schwerlich möglich tausende verzweigende Schicksale kongruent zu halten, insbesondere wenn diese miteinander interagieren. Und doch, so wie wir heute am Ende da stehen bin ich doch ein wenig unzufrieden. Aber, und das ist ein wichtiges Aber, wir haben einen neuen Begleiter an der Backe. Mein Ersteindruck ist leider das es kein besonders interessanter Charakter ist, die gröbsten Storypunkte haben wir ja eigentlich schon geklärt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 08.09.2023 - #1845 - ##23 - S4
   ```
 
 ##### #TEMPLATE

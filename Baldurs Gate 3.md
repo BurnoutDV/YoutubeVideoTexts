@@ -272,7 +272,132 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #18
+
+* Titel: `Baldur's Gate 3 - #18 - Hund & Teufel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als der alte Faust damals den Dämon Mephisto beschworen hat kam der auch als Hund mit auf die Reisen, es ist also nicht ungewöhnlich einen Höllenhund an seiner Seite zu haben. Viecher wie Cerberus haben da durchaus Präzedenz und die Welt ist wahrlich nicht arm an besessenen Tieren aber insbesondere Hunden. Das heutige Tier scheint aber noch normal zu sein und durch eine glückliche Fügung der Ereignisse sind wir auch in der Lage mit einem Hund zu reden. Ärgerlicherweise ist das dann auch nur heute möglich und so richtig viel bringt das auch nicht. Ich weiß nicht welchen Mehrwert es hätte einen Hund zu adoptieren aber wenn sich die Gelegenheit bietet werde ich das wohl tun. Was wir aber stattdessen adoptieren können ist unseren eigenen kleinen Dämon. Eigentlich handelt es sich um einen Tiefling aber immerhin das Herz ist wahrhaftig höllisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #19
+
+* Titel: `Baldur's Gate 3 - #19 - das Zollhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Karlach hat uns gebeten ihre Verfolger los zu werden. Ich ahne irgendwie das es sich bei dieser Quest um eine Mission handelt die wir eigentlich erst später angehen sollten und das ich mich deswegen ein wenig unnötig aufrege. Aber zum Glück bin ich ja kein Neuling und habe schon das ein oder andere Larian-Spiel gesehen und habe daher eine ganze Palette an Optionen im Blick die jemanden mit weniger Erfahrung vielleicht durchaus entgehen würden. Also tue ich heute das was ich nicht unbedingt am besten kann aber doch sehr dazu neige zu tun: ich try harde meinen Weg durch eine Kampfsituation die ich eigentlich nicht schaffen sollte weil meine Gegner um Welten stärker sind als ich. Aber so etwas hat mich ja noch nie aufgehalten oder? Also kümmern wir uns um ein paar Leute die definitiv keine normalen Pilger Tyrs sind, hoffe ich zumindest. Es wäre ein wenig awkward wenn sich am Ende herausstellt das es sich um Doppelagenten handelt und wir in Schwierigkeiten sind weil wir ein wenig Selbstjustiz haben walten lassen. Auf der anderen Seite, keine Zeugen, kein Verbrechen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #20
+
+* Titel: `Baldur's Gate 3 - #20 - Karlachs Feuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Karlach ist technisch gesehen ein Tiefling, kein Dämon, auch wenn Wyll, die Klinge der Grenzlande das vielleicht anders sieht. Dieses Missverständnis müssen wir zu einem späteren Zeitpunkt auflösen, aber für den Moment haben wir andere Probleme. Zum Beispiel das das unsere neue beste Freundin Karlach uns um einen ziemlich großen Gefallen gebeten hat, und statt das ich einfach zum Monddorf gehe und ein paar Goblins erschlage laufe ich natürlich direkt da hin wo ich geschickt werde um ein paar Verfolger auszuschalten. Die geben sich immer noch als Paladine von Tyr aus und eventuell entgeht mir hier ein Händler. Ich habe übrigens immer noch den Verdacht das eigentlich erst wesentlich später hier hätte erscheinen sollte und ich wohl ein wenig Inhalt versehentlich übersprungen habe. Auf der anderen Seite, das hier ist Dungeons and Dragons, wenn ich alternative Pfade wählen kann dann wird das Spiel das wohl in irgendeiner Weise auch als Möglichkeit beinhalten. Wir beginnen heute übrigens damit das wir ein paar Möbel verrücken. Ein großer Spaß.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #21
+
+* Titel: `Baldur's Gate 3 - #22 - sonnig-dornige Sümpfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  
+  ```
+
+##### #22
+
+* Titel: `Baldur's Gate 3 - #22 - sonnig-dornige Sümpfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein wenig führungslos was unsere weiteren Schritte angeht. Klar, wenn es nach Lazael geht sollten wir so schnell wie möglich die nächstbeste Brutstätte der Gith aufsuchen aber ich habe die schleichende Angst das es nicht ganz so einfach sein wird wie man es uns verkauft und das es vielleicht eine sehr pragmatische Lösung für die Infektion gibt die nicht direkt involviert das wir überleben. Oder es gibt eine Lösung aber sie ist irgendwie aufwendig und damit in irgendeiner Währung teuer und nur Auserwählten vorbehalten und nicht für irgendwelche Leute die einfach so bei einer Krippe aufschlagen. Also gehen wir noch nicht dort hin, aber wohin dann? Tiefer in den Wald und Halsin zu suchen klingt ebenfalls recht interessant und dann sehe ich den Sumpf. Eigentlich ist es eher ein überwachsendes Gewässer. Es gibt hier erstaunlich viel Sonne, allerdings ist die Anwesenheit von diversen Blutspuren nicht unbedingt erfrischend und dann wäre da noch das Ding mit den Dornenäpfeln. Ich glaube hier ist etwas faul.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 04.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #23
+
+* Titel: `Baldur's Gate 3 - #23 - modriger Sumpf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich lag nicht falsch. Beim Sumpf handelt es sich durchaus um einen Ort an dem nicht alles so ist wie es scheint. Das war eigentlich schon klar, und das etwas mit Ethel nicht stimmt hätten wir uns vielleicht auch schon vorher denken können. Wenn wir durch die Gegend laufen finden wir immer wieder überraschend viele Bücher die grob und entfernt etwas mit dem zu tun haben was wir sind oder tun. Es ist wirklich erstaunlich, als würde eine Entität über uns „wachen“ und uns sehr subtil Hinweise zu spielen. Den Hinweis für diese Begegnung habe ich übrigens komplett übersehen und erst wesentlich später realisiert. Aber so weit sind wir noch gar nicht, fürs Erste müssen wir erst einmal unseren Weg bahnen und schauen ob wir hier im Sumpf noch etwas retten können. Die gute Nachricht ist das es überraschend viel in diesem völlig mit Fallen verseuchten Sumpf zu holen gibt. Es ist fast so als wäre so mancher Abenteurer bereits hier verstorben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 04.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #24
+
+* Titel: `Baldur's Gate 3 - #24 - Ethels Gallerie der Schrecken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich schreibe wirklich viele dieser Beschreibungen. Manche tiefer, manche flacher. Manchmal ist es ein wenig Küchentisch-Philosophie über Fantasy oder Sci-Fi Welten. Neulich habe ich in einer ESO Episode darüber sinniert wie viel mehr man Leute foltern kann wenn man Magie hat. (ich glaube es war ESO#1845) Mit Magie hat man Zugriff auf Dinge die man sonst nur sehr angestrengt oder fast gar nicht erreicht. Zum Beispiel die Psyche, sonst braucht es ein Handtuch und Wasser um zumindest entfernt etwas in der Richtung zu erreichen. Man kann Schmerzen hinzufügen die gar keine echten Verletzungen sind weil man direkten Zugriff auf Nervenenden hat und könnte damit theoretisch die Qual für eine Person bis in die Unendlichkeit ausbreiten. Heilmagie ermöglicht es Körper weit über ihr normales Verfallsdatum zu erhalten. Das Alles wäre natürlich ziemlich sinnlos wenn man wirklich auf Ergebnisse aus ist. Unter Folter kommt selten gutes Material raus und wenn man nur Geständnisse braucht kann man recht schnell aufhören. Wenn man jetzt aber eine wirklich sadistische Ader hat oder Qual als eine Art von ritueller Reinigung sieht, dann wird es extrem. Prinzipiell ist Magie ja auch nur Macht, und letztendlich sind zumindest die Menschen immer noch die gleichen Affen. Und was allgemeine Intelligenz angeht scheinen die anderen Spezies und Monster auch nicht so viel anders zu funktionieren. Und das führt uns in den Folterkeller der grünen Vettel, einem außerordentlich mächtigen, magischen Wesen das keine Verbindung zu menschlicher Moral besitzt. Wir sehen nur eine kleine Galerie, die Vorstellung was mit all den anderen Leuten geschehen ist die hier waren und ihre Wünsche verdreht bekamen verbleibt beim Zuschauer. Meine Fantasie ist wirklich kreativ :/
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 04.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #25
+
+* Titel: `Baldur's Gate 3 - #25 - vergängliches Flüstern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht wie es sich anfühlt den Verstand zu verlieren, wahrscheinlich merkt man es nur teilweise oder kurzzeitig selbst und die restliche Zeit ist man ignorant. Die meisten Menschen merken ja auch nicht wenn man „dumm“ ist, allerdings weiß ich wie frustrierend es ist durch Nebel zu denken weil man einfach nicht so schnell ist. Jetzt stelle man sich aber das Szenario vor das man immer noch bei guter geistiger Gesundheit ist aber etwas Anderes Besitz ergreift und man einfach zu schwach ist um sich dagegen zu wehren oder dauerhaft Widerstand zu leisten und man nur manchmal in der Lage ist sich entgegen zu stemmen. Die restliche Zeit sieht man zwar durch die eigenen Augen kann aber nichts tun während ein anderer Teil des Selbst den Befehlen einer Anderen folgt. Das Grauen das hier involviert ist kann nicht genügend unterstrichen werden. Ich erwähnte bereits das grüne Vettel nicht für ihre Moral und Gnade bekannt sind. Anscheinend gibt es Leute die irgendwie, vielleicht durch Tricks, oder einem Handel davon überzeugt wurden die Maske aufzusetzen. Erstaunlich finde ich allerdings das diejenigen die sich gelegentlich wehren können nicht in der Lage sind die Maske abzusetzen. Aber das ist wohl ein Krabbeneimereffekt. Sobald sich jemand befreit greifen die anderen Masken ein. Ins Blaue vermute ich auch, das ein gedankenkontrollierender Effekt stärker wird umso länger er anhält und die mentalen Verteidigungsfähigkeiten schwächer werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 04.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #26
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #27
 
 * Titel: ``
 

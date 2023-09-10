@@ -1081,6 +1081,116 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
+##### #73
+
+* Titel: `God of War - #73 - Vandrids Reue [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Reue und Bedauern sind nahe Verwandte und fußen grundlegend auf Taten die man nicht mehr ungeschehen machen kann. Ganz am Anfang gibt es vielleicht noch Missgeschicke die zwar ärgerlich sind  aber fundamental unbedeutend für die weitere Welt sind, aber später im Leben gibt es immer mehr Fehler die wesentlich schwerwiegender sind. Das liegt einfach daran das man die einfachen Fehlerchen vermeidet, hoffe ich zumindest. Der heutige, kleinere Ausrutscher von dem man schlecht zurück kommen kann ist der Mord an dem eigenen Vater. Beim letzten Mal nahmen wir an das es aus Gier war, aber es stellt sich doch glatt heraus das es hier noch ein paar Nuancen gab und wir eventuell in der Vergangenheit vorschnell geurteilt hatten. Kleinere Erinnerung, es geht um die Häscher die den guten Schmiedestein aus Fafnirs Hort geklaut hatten und dessen Anführer vom eigenen Sohn ermordet wurde. Stellt sich heraus das mit einer solchen Grundlage im Verrat das weitere Überleben alles andere als sicher war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #74
+
+* Titel: `God of War - #74 - Nilfheim Farm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir eigentlich relativ sicher das ich den Rest des Spiels ganz gut auch ohne weitere Werkzeuge schaffen könnte, und doch gibt es hier und dort noch Möglichkeiten zusätzliche Ausrüstung zu erhalten. Kernstück dieser Expedition ist zum großen Teil Nilfheim und zu kleinere auch Muspelheim wo es Herausforderungen gibt die sich wiederholen bzw. Ausrüstung geben. Ich mache einige dieser Dinge im Hintergrund und ohne Aufnahme weil ich nicht glaube das es einen großen Mehrwert bringen würde meine Mühen komplett abzufilmen, insbesondere weil es wirklich ziemlich repetitiv ist. Und ja, der Gedanke das ich einfach den Schwierigkeitsgrad verringern kann ist mir leider ein wenig sehr später gekommen. Wie dem aber auch sei, eine Runde möchte ich zumindest einmal aufgenommen haben, und dafür ist diese Episode da.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #75
+
+* Titel: `God of War - #75 - Hildr in Nilfheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur damit wir uns verstehen, Hildr ist eine Walküre und ich bin mir echt nicht sicher ob ich wirklich jede der Kriegerinnen fair auf dem Schwierigkeitsgrad besiegen will auf dem ich aktuelle Spiele, das könnte sich nämlich ganz schön die Länge ziehen. Im Falle von Hildr kommt aber auch noch erschwerend hinzu das wir quasi dauerhaft in den giftigen Nebeln von Nilfheim umher tanzen müssen. Das ist allerdings nicht das größte Problem sondern eher das Hildr ziemlich kampfstark und offensichtlich immun gegen die Nebel ist. Letztendlich zieht sich das hier also alles ein wenig länger als ich das gerne gehabt hätte, aber hey, wir haben eine weitere Walküre geschafft und bald können wir den ganzen Hof mit ihnen füllen und sehen dann was aus der Welt geworden ist. Hoffentlich zumindest.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #76
+
+* Titel: `God of War - #76 - tote Fracht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  „tote Fracht“ ist übrigens wirklich der Titel der Mission die wir heute abschließen. Inhaltlich geht es darum das irgendein Kapitän anscheinend seine Crew verloren hatte und jetzt gerne von uns hätte das wir sie zur Ruhe setzen. Das ist eine etwas komische Beschreibung des Personals wie ich finde. Warum genau sind die toten Seeleute „tote Fracht“? Das ergibt für mich wenig Sinn, auch klingt es so als hätten wir hier ein übersetztes Idiom vor Augen das im Deutschen halt keinen Sinn ergibt. [schnelles googlen] Anscheinend ist es wirklich so das „tote Fracht“, zumindest im Englischen Ware ist die eigentlich verschifft werden sollte aber es nicht wurde. Das ergibt auch irgendwie Sinn, die Toten sollten ja eigentlich aus dieser Welt weiterziehen, tun es aber nicht. Daher spielen wir die Rolle des Fährmannes und helfen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #77
+
+* Titel: `God of War - #77 - Deus Ex Malachit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Saga des Kerls der Andwari hieß ist noch nicht vorbei, ich habe nur übersehen das wir uns schon lange um ihn hätten kümmern können. Dieses Versäumnis hole ich aber jetzt nach, wir hatten ja bereits seinen Ring gefunden und jetzt stellt sich doch glatt heraus das sein Ring auch reden kann weil er es irgendwie geschafft hat seine Seele in den Ring zu zaubern. Ob das jetzt ein besseres Schicksal ist als vom Seelenfresser gefressen zu werden kann ich echt nicht sagen. Die ganze Geschichte mit den Seelenfressern muss übrigens schon ziemlich lange her sein weil sie es ja irgendwie in die allgemeine Kulturgeschichte geschafft haben, und das passiert nicht wenn Andwaris Experimente erst ein paar Jahre her sind. Das ist jetzt kein bahnbrechender Spoiler, Andwari hat scheinbar an den großen Steingolems herumexperimentiert weil er schnelle Golems haben wollte. Wie genau die Alchemie der Zwerge funktioniert hat bisher noch niemand gesagt und ich fürchte auch das die Geschichte die aus der Perspektive der Menschen geschrieben ist da nicht viel ins Detail geht. Und letztendlich wäre es dann auch nicht mehr fantastisch oder? Kratos selbst ist definitiv nicht an Magie interessiert, er bezahlt lieber Handwerker für ihn eine Axt herzustellen und dann ist es auch gut.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 10, Aufnahme vom 24.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #78
+
+* Titel: `God of War - #78 - Ivaldis Fluch und Göndal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir nähern uns erfolgreich dem Ende des Spieles, das bedeutet aber auch das die verbleibenden Nebenmissionen die uns noch offen stehen leider alle ein wenig anstrengend sind. Dieses Mal habe ich sogar schon versucht die Mühen ein wenig abzuschwächen und habe das nervige Farmen zusammengeschnitten und präsentiere quasi nur noch das Ergebnis. Ich glaube all das was ich gemacht habe eigentlich gar nicht notwendig ist und ich auch gut das restliche Spiel ohne all diese Upgrades beenden könnte. Ärgerlicherweise ist es aber auch so das mein anderes Großprojekt, die Walküren ohne die Upgrade wahrscheinlich noch schwieriger sein wird und ich gedenke doch das ich alle Bosse im Stream/Aufnahme auch auf hohen Schwierigkeitsgrad schaffe. Wem ich etwas in einem 5 Jahre alten Spiel beweisen will weiß ich allerdings auch nicht. Wahrscheinlich mir selbst, egoistisch von mir wenn ich so darüber nachdenke. Der zweite Teil der Episode ist dementsprechend von Göndal geprägt die in Muspelheim residiert, aber nicht wirklich gefangen ist soweit ich das sehen kann.
+  
+  0:00 Einführung
+  0:34 Zusammenfassung Nilfheim
+  3:09 Zusammenfassung Muspelheim
+  4:41 der Rest der Episode
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 12, Aufnahme vom 07.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #79
+
+* Titel: `God of War - #79 - Róta und Olrun [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt noch mehr Walküren zu besiegen. Juhu, das Ganze dauert viel zu lange und im Nachhinein hätte ich wohl einfach nur den erfolgreichen Versuch abfilmen sollen und euch die restlichen vielen, vielen Versuchen ersparen sollen aber so schlau war ich nicht und jetzt sind wir hier. So wie es scheint gibt es in jedem Nicht-Midgard Reich eine Walküre die da irgendwie hingeraten ist. Der Transport ist mir nicht ganz klar aber ich vermute einmal das man den Tempel von Tyr nicht zwingend braucht und man auch durchaus mit anderen Mitteln eine Walküre in ein anderes Reich verfrachten und einsperren könnte wenn man genügend Macht hat. Auf geht es also nach Helheim und gleich danach nach Alfheim.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 12, Aufnahme vom 07.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
 ##### #Nummer
 
 * Titel: ``

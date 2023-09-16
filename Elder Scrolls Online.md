@@ -9748,53 +9748,165 @@
 
 ##### #1843##22
 
-* Titel: `Let's Play ESO #1843 ##21 - Reynilas Zeltlager [Nekrom]`
-
-* Beschreibung:
-
-  ```markdown
-  Episode 21 des Nekrom DLC - Sitzung 4
-  
-  Die Telvanni scheinen sich im Allgemeinen nicht wirklich dafür zu interessieren was in ihrem Gebiet vor sich geht. Man würde ja meinen das in einer Welt voller Magie durchaus einige zivilisatorische Fortschritte, insbesondere wenn sie der Überwachung und Monetarisierung von einstmals freien Lebensbereichen dienen durchaus bereits ihren Eintritt in den praktischen Gebrauch hatte. Aber, es sieht wohl nicht so aus, heißt, man kann sich sehr leicht abseits der Wege eine kleine Lagerstätte errichten und hat keinerlei Probleme wild zu kampieren. Außer natürlich man wird von Söldnern überfallen. Mir fällt übrigens auf das ich hier ein echtes Problem habe der Geschichte zu folgen weil ich in verschiedenen Sitzungen gespielt habe und deswegen nicht ganz konkret wusste wer hier zu jedem Zeitpunkt wo anzutreffen ist. Sicher ist aber das das Zeltlager einer gewissen Reynila gehört (unserer Zielperson) und das die zwei Laternen die da stehen irgendwie im Zusammenhang stehen, weiter erklärt wird das aber nicht.
-  
-  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
-  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
-  Aufnahme vom 08.09.2023 - #1843 - ##21 - S4
-  ```
-
-##### #1844#23
-
-* Titel: `Let's Play ESO #1844 ##22 - Mevei Andros [Nekrom]`
+* Titel: `Let's Play ESO #1843 ##22 - Reynilas Zeltlager [Nekrom]`
 
 * Beschreibung:
 
   ```markdown
   Episode 22 des Nekrom DLC - Sitzung 4
   
-  Ja, ich benenne jetzt einfach nur Episode nach irgendwelchen Episoden ohne das direkt in den Kontext zu stellen. Der kommt hier, in die Beschreibung die man auf manchen Geräten überhaupt nicht lesen kann. Das ist sehr schlau von mir und deswegen tue ich das auch, weil es in meinem Kopf 2010 ist und Let’s Plays noch voll beliebt sind. Also, Mevei ist anscheinend die Frau (man heiratet anscheinend direkt, irgendwie sind Leute nie nur Lebenspartner oder „wahre Liebe“) von Reynila die so etwas wie einen kleinen Privatkrieg zur Befreiung von Sklaven führt. Das ist aber kein allgemeiner Krieg gegen die Telvanni selbst sondern nur gegen einen bestimmten Meister der uns vorerst nur unter dem Namen „der Erneuerer“ bekannt ist. Es würde mich nicht wundern wenn später heraus kommt das es der oberste Anführer war. Oder jemand von dem wir noch nie etwas gehört hatten. Das könnte natürlich auch sein.
+  Die Telvanni scheinen sich im Allgemeinen nicht wirklich dafür zu interessieren was in ihrem Gebiet vor sich geht. Man würde ja meinen das in einer Welt voller Magie durchaus einige zivilisatorische Fortschritte, insbesondere wenn sie der Überwachung und Monetarisierung von einstmals freien Lebensbereichen dienen durchaus bereits ihren Eintritt in den praktischen Gebrauch hatte. Aber, es sieht wohl nicht so aus, heißt, man kann sich sehr leicht abseits der Wege eine kleine Lagerstätte errichten und hat keinerlei Probleme wild zu kampieren. Außer natürlich man wird von Söldnern überfallen. Mir fällt übrigens auf das ich hier ein echtes Problem habe der Geschichte zu folgen weil ich in verschiedenen Sitzungen gespielt habe und deswegen nicht ganz konkret wusste wer hier zu jedem Zeitpunkt wo anzutreffen ist. Sicher ist aber das das Zeltlager einer gewissen Reynila gehört (unserer Zielperson) und das die zwei Laternen die da stehen irgendwie im Zusammenhang stehen, weiter erklärt wird das aber nicht.
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
-  Aufnahme vom 08.09.2023 - #1844 - ##22 - S4
+  Aufnahme vom 08.09.2023 - #1843 - ##22 - S4
   ```
 
-##### #1845
+##### #1844#23
 
-* Titel: `Let's Play ESO #1845 ##23 - Gerissen-wie-die-Nacht [Nekrom]`
+* Titel: `Let's Play ESO #1844 ##23 - Mevei Andros [Nekrom]`
 
 * Beschreibung:
 
   ```markdown
   Episode 23 des Nekrom DLC - Sitzung 4
   
+  Ja, ich benenne jetzt einfach nur Episode nach irgendwelchen Episoden ohne das direkt in den Kontext zu stellen. Der kommt hier, in die Beschreibung die man auf manchen Geräten überhaupt nicht lesen kann. Das ist sehr schlau von mir und deswegen tue ich das auch, weil es in meinem Kopf 2010 ist und Let’s Plays noch voll beliebt sind. Also, Mevei ist anscheinend die Frau (man heiratet anscheinend direkt, irgendwie sind Leute nie nur Lebenspartner oder „wahre Liebe“) von Reynila die so etwas wie einen kleinen Privatkrieg zur Befreiung von Sklaven führt. Das ist aber kein allgemeiner Krieg gegen die Telvanni selbst sondern nur gegen einen bestimmten Meister der uns vorerst nur unter dem Namen „der Erneuerer“ bekannt ist. Es würde mich nicht wundern wenn später heraus kommt das es der oberste Anführer war. Oder jemand von dem wir noch nie etwas gehört hatten. Das könnte natürlich auch sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 08.09.2023 - #1844 - ##23 - S4
+  ```
+
+##### #1845
+
+* Titel: `Let's Play ESO #1845 ##24 - Gerissen-wie-die-Nacht [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 24 des Nekrom DLC - Sitzung 4
+  
   Ich hätte natürlich auch direkt die erste Mission „Gerissen-wie-die-Nacht“ nennen können. Es handelt sich offensichtlich um unseren zukünftigen Begleiter. Da wir bereits wissen wie die Dinge ausgehen oder zumindest das Feld kennen in denen die Dinge fallen können schränkt das natürlich auch die Ereignisse ein. Ich bin allerdings überhaupt nicht damit einverstanden wie die Dinge am Ende dieser Mission dann letztendlich laufen. Es kommt mir doch recht faul vor. Die Art wie hier wieder Charaktere abgeschlossen werden ohne dabei besonders gründlich zu sein stört mich sehr. Natürlich kann man nicht jede Geschichte erkunden und der Held kann nicht jeden Pfad erkennen, insbesondere in einem MMO ist es wohl nur schwerlich möglich tausende verzweigende Schicksale kongruent zu halten, insbesondere wenn diese miteinander interagieren. Und doch, so wie wir heute am Ende da stehen bin ich doch ein wenig unzufrieden. Aber, und das ist ein wichtiges Aber, wir haben einen neuen Begleiter an der Backe. Mein Ersteindruck ist leider das es kein besonders interessanter Charakter ist, die gröbsten Storypunkte haben wir ja eigentlich schon geklärt.
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
-  Aufnahme vom 08.09.2023 - #1845 - ##23 - S4
+  Aufnahme vom 08.09.2023 - #1845 - ##24 - S4
+  ```
+
+##### #1845
+
+* Titel: `Let's Play ESO #1845 ##25 - Insel Gorne [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 25 des Nekrom DLC - Sitzung 4
+  
+  Eigentlich waren wir ja schon da und haben uns den Ort angeschaut aber ich war doch sehr bemüht nicht zu sehr nach Links und Rechts zu schauen. Heute wird es also endlich Zeit für den echten, ersten Eindruck der Insel Gorne. Wir wissen bereits das es sich um das Hauptquartier eines Telvanni-Meisters handelt. Allerdings sind die neuen Informationen die wir dann heute Erfahren ein wenig mehr verstörend wenn man bedenkt das Reynila aus irgendwelchen Gründen glaubt das sie unbedingt hier ihre weitere Flucht fortsetzen muss. Die Ortswahl ergibt jetzt noch wenig Sinn als sie es vorher tat und ich bin ein wenig verwundert ob der Entscheidung.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 11.09.2023 - #1845 - ##25 - S4
+  ```
+
+##### #1847
+
+* Titel: `Let's Play ESO #1847 ##26 - Prisma der moribunden Weißheit [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 26 des Nekrom DLC - Sitzung 4
+  
+  Wissen und Wahnsinn sind schon ziemlich nahe zusammen und wenn man bedenkt wie grausam die Welt dort draußen ist kann man sich leicht vorstellen das zu viel Wissen nicht gut für die eigene Psyche ist. In der normalen Welt in der wir uns meistens befinden gibt es auch einige Schrecken die einen normalen Geist wohl ziemlich schnell in den Ruin führen kann und Ignoranz ist ein gutes Schild gegen diese Abgründe. Was aber wenn man in einer magischen Welt lebt in der schon viele viele Generationen von Göttern diverse Dinge getan haben und der Stoff der Realität eher ein Flickenteppich ist. Wenn jetzt jemand ein wenig Licht auf die Sache scheinen würde könnte man quasi sicher davon ausgehen das ein Geist daran zerbricht. Ich würde behaupten das man sich dagegen wappnen kann und mit genügend Vorbereitung sind wahrscheinlich die meisten Psychosen abwendbar, aber wenn man auf einmal alles erlebt dann ist da nicht viel zu tun. Ich gehe davon aus das das Prisma der moribunden Weißheit genau so vorgeht. An sich ist es auch nur ein Werkzeug, aber Eines das definitiv nicht sicher zu benutzen ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 11.09.2023 - #1847 - ##26 - S4
+  ```
+
+##### #1848
+
+* Titel: `Let's Play ESO #1848 ##27 - der Oberste Katalogisierer [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 27 des Nekrom DLC - Sitzung 4
+  
+  Diese Folge könnte auch, und sollte vielleicht auch, „Abenteurer gesucht“ heißen. Das ist sie, die eine Episode in der ich mich mit den täglichen Aufgaben beschäftige die ich dann vielleicht heimlich im Hintergrund erledige ohne darüber großartig Kommentare zu verlieren. In einigen anderen DLCs haben diese Nebenmissionen ein wenig über die Welt erzählt oder zusätzlichen Kontext geliefert. Ich kann leider nur berichten das dies anscheinend eher nicht der Fall ist. Es gibt nicht einmal einen zweiten Experten den wir um weitere Informationen fragen können. Das Einzige was wir erfahren ist das es irgendwie notwendig ist andauernd mal so eben in das Reich des Vergessens zu springen und dort irgendwelche Gefahren zu beseitigen. Das ist auch schon deswegen interessant weil wir ja eigentlich im Prolog ein riesen Buhai daraus gemacht haben überhaupt irgendwie nach Apocrypha zu kommen um mit Hermeus Mora zu reden. Hätten wir gewusst wie einfach der Übergang ist wäre es natürlich viel einfacher gewesen direkt dem Fürsten gegenüber zu treten. Immerhin ist der Name „oberster Katalogisierer“ ganz witzig, übrigens auch ein Job der durch die digitale Transformation ziemlich gut zu ersetzen ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.09.2023 - #1848 - ##27 - S4
+  ```
+
+##### #1849
+
+* Titel: `Let's Play ESO #1849 ##28 - ein verborgenes Schicksal [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 28 des Nekrom DLC - Sitzung 4
+  
+  Hauptquests zu spielen ist mehr und mehr etwas für mich geworden das ich ungern mache. Das liegt an einer positiven Wendung der Dinge. Im Hauptinhalt, also dem was das ursprüngliche ESO vor langer langer Zeit einmal ausgemacht hat gibt es eine Menge Nebenmissionen die eigentlich nur langweilige Filler waren. Da sind dann Aufträge die ziemlich wortwörtlich „sammle 10 Felle von wilden Wölfen“ sind. In den DLCs gibt es solche Missionen zwar auch, aber in der Regel dienen sie nur dazu irgendeine Prämisse vorzubereiten oder eine Geschichte zu erzählen. Das kann ich noch verzeihen, insbesondere wenn sich das sammeln auf das Bereisen fremder Orte und begrenzter Mengen beschränkt. Wenn ich dann irgendeinen Alchemisten Zutaten bringen muss um dann mehr über das Leben der Telvanni zu erfahren dann ist das so. Hauptmissionen gibt es nicht so viele, wenn ich hier zu schnell bin habe ich am Ende hier schon alles erledigt bevor ich das Gebiet erkundet habe.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 15.09.2023 - #1848 - ##28 - S4
+  ```
+
+##### #1850
+
+* Titel: `Let's Play ESO #1849 ##29 - die Chiffrenhalde [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 29 des Nekrom DLC - Sitzung 5
+  
+  Heute lernen wir das das Wissen in Apocrypha vielleicht durch eine große Menge an Büchern symbolisiert wird aber erst wenn man es tatsächlich aufschlägt gibt es tatsächlich auch Informationen darin. Insofern ist es vollkommen in Ordnung die Bücherberge als Baumaterial zu benutzen. Es ist ja nicht so das man damit wortwörtlich Wissen vergräbt. Man sorgt nur dafür das es weniger Möglichkeiten gibt Wissen zu entdecken aber das sollte keine Rolle spielen nehme ich an. Ich gehe außerdem davon aus das das meiste Wissen in Apocrypha absolut nutzlos ist. Wenn es sich wirklich um ALLES Wissen handelt, jedes Wort das jemals geschrieben wurde, und wir wissen das mindestens Tamriel eine ganz gute Lese- und Schreibfähigkeit in der Masse hat, dann sind da wirklich viele Tagebücher bei. Ich frage mich ob es außerdem eine automatische Übersetzungsfunktion gibt, also das man quasi nicht direkt die Worte des Verfassers liest sondern die Gedanken. Das macht natürlich Gedichte und sonstige Poesie ein wenig schwierig. Worauf ich hinaus will, es ist echt viel Information und die Speicherdichte von Büchern ist eher so mittel. Es wundert mich gar nicht das es wortwörtlich eine Halde ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 16.09.2023 - #1849 - ##29 - S5
+  ```
+
+##### #1851
+
+* Titel: `Let's Play ESO #1851 ##30 - verbotenes Wissen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 30 des Nekrom DLC - Sitzung 5
+  
+  Sperrige Titel kann ich. Mir ist wirklich einfach nichts Besseres eingefallen . Zur späteren Referenz falls mir hier beim Schreiben doch noch etwas Geniales kommt, aktuell ist der Titel „Apocryphas Sicherheitsvorkehrungen“. Inhaltlich geht es darum das es in Hermeus Moras Reich in Potenzia quasi alles Wissen gibt das es zu wissen gibt aber nicht alles davon verfügbar ist. Quasi kommt man eigentlich nur an die „langweiligen“ Sachen ran. Wenn man versucht „wie beende ich alle Existenz“ zu finden dann funktioniert das einfach nicht weil das anscheinend eine Sicherheitsstufe braucht, und das System funktioniert nicht automatisch. Was allerdings automatisch funktioniert ist das was quasi „on the fly“ dafür sorgt das kritisches Wissen schnell aufgelöst wird. Das passiert nicht sofort und mit genügend Ausdauer könnte man wohl doch noch etwas rausholen, aber dennoch, ein sehr ärgerliches System. Aber vielleicht arbeitet es auch zu unserem Vorteil, ohne seine Existenz hätten wir uns wahrscheinlich auch schon alle aufgelöst. Ach ich habs, ich nenne die Episode um! Meta-Fun Fact, ich habe noch nie eine Episode „verbotenes Wissen“ genannt, in keinem Spiel. Es gibt zwar eine Menge Videos mit Wissen im Namen, aber das ist das erste mit so einem Titel das ich habe. Manche Namen kommen echt oft vor weil ich überraschenderweise immer wieder in gleiche Bahnen denke.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 16.09.2023 - #1851 - ##30 - S5
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```
 
 ##### #TEMPLATE

@@ -1117,6 +1117,113 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
+##### #75
+
+* Titel: `Jedi Survivor - #75 - Rollminenfabrik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kratzen wirklich am Boden der Missionen die noch offen sind. Einer der Punkte die mir schon lange ein Dorn im Augen sind ist die Rollminenfabrik. Interessanterweise handelt es sich dabei um einen Ort den ich schon vor langer Zeit hätte erkunden können nur einfach dazu nicht in der Lage war. Nun, nach neuster Forschung stellt sich doch glatt heraus das das „nicht in der Lage sein“ eher ein Zustand ist der von mir selbst als durch Karls Fähigkeiten zustande kam. Tatsache ist am Ende doch das wir schon lange lange hätten einbrechen können und das Rätsel um die Rollminen lösen können. Immerhin sind Rollminen nicht selbst replizierend mit dem Ziel die gesamte Bevölkerung des Planeten auszulöschen. Das wäre aber auch ein sehr interessantes Szenario. Eines gegen das Karl absolut nichts machen könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #76
+
+* Titel: `Jedi Survivor - #76 - Phon'Qi Höhlen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollte ich heute nur das kleine Mysterium einer Hütte am Berg überprüfen, fiel dann in einen Keller und von dort an ging es eigentlich nur noch bergab. Wirklich, es geht heute wirklich tief runter, so tief das wir sogar noch ein weiteres Wesen der Finsternis treffen. Damit hatte ich überhaupt nicht gerechnet und es nervt mich ein wenig das wir wirklich nicht stärker werden. Klar, wir haben hier und da ein paar neue Fähigkeiten aber letztendlich kosten die uns die gleiche Ressource wie das Zeug das wir früher schon konnten und rein von der Taktik ist es einfach klüger das was wir schon immer getan haben zu tun. Insofern ändert sich quasi nichts an der Qualität oder Tiefe des Kampfes der heute vor uns liegt. Die gute Nachricht übrigens, das Geheimnis der Hütte bleibt weiterhin unaufgedeckt, weil daran sind wir irgendwie vorbei gefallen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #77
+
+* Titel: `Jedi Survivor - #77 - drei Doppelschwerter auf einmal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Urjef Mekor, Sebb Eshan, "Fürstin" Patren
+  
+  In den tiefen Höhlen unter dem Berg gibt es ein gewaltiges Netzwerk. Hinter verschiedenen Türen warten scheinbar Söldner auf uns die irgendwie von Ray’vis den Auftrag erhielten nach Geheimnissen zu suchen. Nach aktuellem Stand sind sie aber gar nicht mehr dahinter her sondern viel mehr nach unserer Haut. Ich weiß nicht wer Urjef Mekor ist oder ob wir ihn kennen sollten. Noch nie habe ich von Sebb Eshan gehört und könnte mir vorstellen warum er unbedingt mit Laserschwerter umherläuft und auch „Fürstin“ Patren sagt mir leider gar nichts. Und das ist wieder einmal typisch Star Wars, uns werden irgendwelche Leute, Orte, Namen oder Tiere präsentiert ohne das es dafür auch nur den Ansatz von irgendwelchen Erklärungen gibt. Und das nervt. Warum sich überhaupt die Mühe machen und irgendwelche Namen schreiben und nicht einfach mit Söldner 1 oder „grüner Kopfgeldjäger“ gehen. Nein, stattdessen haben wir Namen für gesichtslose Niemande die wir dann eh umhauen. Zumindest ein wenig Lore hätte ich schon gerne gehabt warum jetzt gefühlt jeder Kopfgeldjäger ein Laserschwert hat. Klar, das sind beliebte Trophäen aber damit umzugehen ist ja auch nicht ganz einfach.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 11, Aufnahme vom 05.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #78
+
+* Titel: `Jedi Survivor - #78 - Geheimnisse von Koboh [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube dem Ende nahe zu kommen, das bedeutet aber auch das es nicht besonders viel gibt das ich nicht entdecken kann wenn ich mir richtig viel Mühe gebe. Bedeutet also auch das ich nur noch die richtige Tür finden muss und schon bin ich quasi drin. Natürlich ist es in der Praxis dann doch nicht ganz so einfach aber viel ist es nicht mehr. Was mich noch am meisten wurmt ist das es eine Stelle gibt die man angeblich nur mit gut zu reden erreichen kann ich beim letzten Mal aber zu doof war irgendwie mit der lokalen Fauna zu interagieren. Ich glaube übrigens das ich das schon von Anfang an hätte machen können. Das es sich hier um den besten Aussichtspunkt auf ganz Koboh handelt möchte ich übrigens in Frage stellen. Schon in der nächsten Episode erreichen wir einen Ort der nach wesentlich besseren Ausblick aussieht ohne das wir irgendwelche Riesenbrontos bequatschen müssen auf ihnen herum zu klettern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #79
+
+* Titel: `Jedi Survivor - #79 - Gipfelkamm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren eigentlich sogar schon einmal ganz oben auf dem Berg, und dann kam auf einmal eine kleinere Öffnung und wir hatten keine Möglichkeit mehr weiter zu kommen. Angeblich wollte mir BD-1 auch noch irgendwie Informationen dazu geben aber das ist dann irgendwie nicht passiert und am Ende bin ich dann doch lieber woanders hingegangen. Nun ist jedoch endlich die Zeit das wir dort weitermachen wo wir aufgehört haben. Nebenbei bemerkt, erinnert sich noch irgendjemand wo es in der letzten Episode oder so hieß das es die beste Aussicht auf ganz Koboh neben diesem komischen Riesendino gibt und ich das angezweifelt habe? Nun, jetzt sind wir quasi über den Wolken und ich finde schon das es da ein wenig schöner ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #80
+
+* Titel: `Jedi Survivor - #80 - Observatorium, untere Ebene [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die hohe Republik hatte definitiv zu viel Geld und zu wenig Verstand. Klar, offensichtlich gab es rund um Koboh eine Menge zu erkunden aber ich kann nicht so richtig nachvollziehen warum man zum Beobachten von irgendwelchen Orten stationäre Anlagen aufstellen muss wenn Raumschiffe von der Größe der Lucrehulks definitiv ebenfalls möglich sind. Warum baut man eine gewaltige Beobachtungsstation auf einem Planeten am Rande von Nichts. Realistisch gesehen bleibt man vielleicht ein paar Jahrzehnte vor Ort und dann zieht man weiter. Fairerweise könnte es natürlich durchaus sein das die gesamte Konstruktion absolut transportable ist und das dieser Schritt nur nie durchgeführt werden konnte. Aber vielleicht sollte ich mir auch nicht so viele Gedanken machen. Der gesamte Aufbau der Anlage selbst ergibt ehrlich gesagt für mich auch nicht soviel Sinn. Lassen wir das einfach.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #81
+
+* Titel: `Jedi Survivor - #81 - Spitze des Observatoriums [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wollten hoch hinaus und heute sind wir es dann auch. Ich weiß übrigens nicht so richtig warum genau unser Widersacher sich jetzt am Ende genau hier gesammelt hat. Offensichtlich möchte er auch einen Streit mit dem Imperium vom Zaun brechen und findet den aktuellen Zustand der Jedi mehr als nur bedauerlich. Was mich allerdings ein wenig verwirrt ist das Dagan Gera überhaupt so sehr darauf bestanden hat sich direkt der dunklen Seite der Macht zu zu wenden. Mir scheint das auch die alten Jedi da ziemlich binär denken. Anstand ein Schisma auszurufen war die einzige logische Schlussfolgerung scheinbar sich öffensichtlich dem Dunklen zu bekennen und dann weiter darüber zu lamentieren das die alten Jedi offensichtlich blind waren. Oder sind. Und ich finde da hat er absolut recht, eine Menge Probleme der alten Repulik (also alt im Sinne von, jetzt gibt es halt das Imperium wo sie einst war) mit den Jedi laufen halt darauf hinaus das die Jedi in ihrer Philosophie viel zu dogmatisch waren. Warum also direkt so aggressiv und unnötig impulsiv reagieren? Eine andere Frage die sich übrigens auch stellt ist warum Dagan so lange in diesem Bakta-Tank lag und quasi die Jahrhunderte überdauert hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1191,7 +1191,142 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
-##### #Nummer
+##### #80
+
+* Titel: `God of War - #80 - Geirdriful und Eir [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ein wenig die Angst das es jetzt in den folgenden und kommenden Episoden eigentlich nicht besonders spannend wird. Natürlich bemühe ich mich die einzelnen Walküren auf hohen Schwierigkeitsgrad zu besiegen und wenn man irgendwie darin interessiert wäre wie ich Dinge angehe dann könnte man sich das schon ansehen aber irgendwie bezweifle ich das das wirklich jemand will. Eigentlich könnte ich hier auch einen 5 Sekundenteaser machen der kurz die Attacken verpackt und dann direkt weiter zum nächsten Gegner geht. Ich würde ja hier oder generell eine Frage stellen aber ich habe das leichte Gefühl das es sowieso niemand sieht, interessiert oder wenn doch, nicht genug als das man dafür Rückmeldung gibt. Also tue ich einfach mein Ding.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 12, Aufnahme vom 07.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #81
+
+* Titel: `God of War - #81 - Sigrún [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und hier sind wir auch schon am Ende unserer lustigen Kreuzfahrt gegen all die Walküren. Es war natürlich ziemlich klar das die oberste aller Walküren natürlich auch all die Fähigkeiten ihrer Unterlinge kann. Das bedeutet leider auch das sie mindestens drei Variationen des nervigen Greifens und von oben herab stürzen hat. All diese Angriffe die mich immer so genervt haben. Nicht zu vergessen die Bodenseuche aus Feuer und natürlich der Eissplitterhagel den man so schlecht sieht wenn man mitten in der Rage-Kombo ist und die es vollkommen verhindert das man sich so heilt. Auch mit den Klingen des Apollo wird es schwer wenn unsere Walküre im schlimmsten Moment entweder ihren Kokon webt oder einfach weg fliegt weil das kann man halt machen wenn man Flügel hat. Kurzum, ich schäme mir für nichts. Aber hey, wir erfahren noch ein wenig Hintergrundgeschichte zu den anderen Walküren die wir besiegt haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 12, Aufnahme vom 07.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #82
+
+* Titel: `God of War - #82 - Konunsgard [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und auf der Liste der Orte die ich schon lange hätten bereisen können hacken wir heute die letzte Adresse ab. Es handelt sich um Konunsgard, anscheinend die zweite Stätte an der der große Zwergenkönig einst geherrscht hat. Im Allgemeinen ist es wirklich erstaunlich wie schnell und vergänglich eigentlich bestimmte Perioden sind. Von all den vielen Western her würde man ja glauben das es eine lange Zeit in Amerika war, aber letztendlich waren es wenige Jahrzehnte, das Gleiche mit der Hochzeit der Piraten. Alles instabile Zustände der Welt die sich als Setting irgendwie interessant anhören aber schwierig irgendwie stabil zu halten. Und so klingt auch die Herrschaft des Zwergenkönigs nach einer stabilen Zeit, einer langen Periode des Friedens und später vielleicht auch den Wahnsinns. Aber alles was wir finden sind die Toten und zerfallene Gebäude. Fast so, als wäre es gar nicht so lange gewesen. Hier ist bestimmt irgendwo eine Lektion.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 12, Aufnahme vom 07.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #83
+
+* Titel: `God of War - #83 - Reginns Feuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ein ganz cooles Standbild aus der Standauswahl von Bildern für diese Episode. Um genau zu sein das aus 11:01 . Ich bin allerdings zu faul nur dafür jetzt ein eigenes Thumbnail zu erstellen also passiert das einfach nicht und wir geben uns mit dem zufrieden was wir eh schon die ganze Zeit hatten. Reginn ist der letzte Drache den wir befreien können und sobald wir das getan haben erhalten wir auch die letzte Drachenträne die wir brauchen um unser Amulet mit den Slots auszubauen. Das ist ziemlich wichtig weil ich zusätzliche Ausrüstungsslots schon als ziemlich wichtig empfinde. Und so stehen wir da und öffnen die Ketten eines Drachens. So richtig klar was die Viecher dann tun und wo sie hinfliegen ist übrigens auch nicht. Aber ich nehme einfach einmal an das es doch recht viel Land um den See der Neun herum gibt das wir nie gesehen haben. Irgendwo müssten ja die restlichen Leute auch noch wohnen. So ein Drache hat bestimmt einen schrecklichen Verbrauch an Nahrung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 12, Aufnahme vom 07.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #84
+
+* Titel: `God of War - #84 - Gelobt sei der König [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der kleine Ausflug nach Konunsgard hat sich wesentlich länger in die Länge gezogen als ich das gedacht hätte. Aber es war ja auch viel zu tun, erst haben wir einen Drachen befreit, dann noch tonnenweise toter Gefolgsleute aus dem Weg geräumt und letztendlich sogar den König selbst geborgen. Am Ende stellt sich aber heraus das er selbst wohl fehlgeleitet war und wir hier wohl eine wichtige Lektion fürs Leben herausholen könnten. Wenn wir das den unbedingt wollten. Was wir aber auch tun können ist hier noch ein wenig mehr unsere Ausrüstung zu verbessern, ärgerlicherweise haben wir eigentlich nicht wirklich einen Grund das zu tun. Die ist bereits so gut wie es halt eben sein kann und im Großen und Ganzen weiß ich auch nicht für welche Schlachten wir mehre Rüstungen brauchen könnten. Es ist ja nicht so das wir irgendwelche Armeen anführen oder persönlich eben solche zu Fall bringen. Viel mehr kämpfen wir auf einer Partisanenebene gegen vereinzelte Zellen von Draugr die den Schuss nicht gehört haben. Wer braucht da schon eine Rüstung aus den unfassbaren Konzepten von Dingen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 12, Aufnahme vom 07.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #85
+
+* Titel: `God of War - #85 - letzte Erledigungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wirklich, wir nähren uns den Ende und dann nimmt unsere Reise ein Ende. Aber bevor es soweit ist möchte ich noch ganz kurz meine Ausrüstung ein wenig testen. Ich gebe zu das ich vielleicht die Geschichte mit Sigrunn ein wenig langsamer hätte angehen sollen damit meine gute Ausrüstung wenigstens einmal noch einen richtigen Einsatz sieht. Aber genug davon, es fehlen wirklich noch ein paar kleinere Dinge. Es ist wahrscheinlich nichts Wichtiges. Winzigkeiten im Vergleich zu all dem was wir noch so getan haben und doch nervt es mich ein wenig. Namentlich ist das vor allem das es noch zwei Weltenrissen mangelt. Ich dachte eigentlich ich hätte alle geschlossen aber offensichtlich war das nur in Nilfheim der Fall. In Midgard müssen wir hier wohl noch einmal ran und das ist was wir heute tun. Das Problem ist hier nur das ich gar nicht weiß wo eigentlich der andere Riss ist. Die gute Nachricht ist aber auch das wir noch einen legendären Troll besiegen dürfen. Ich weiß aber wirklich nicht warum der überhaupt auf der Karte herumläuft. Bzw. wir einen Karteneintrag dafür haben. Mysteriös.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 13, Aufnahme vom 14.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #86
+
+* Titel: `God of War - #86 - Muspelheim Farmeinsatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder bei einer Episode die ich eigentlich gar nicht machen wollte. Wenn du, wie auch ich, für die Story hier bist kannst du diese Episode komplett überspringen. Es passiert absolut nichts. Ich dachte eigentlich das es sich vielleicht wirklich lohnen würde in Muspelheim noch einmal die letzte Quest zu erledigen bzw. den letzten großen Kampf den die Stimme beschworen hat und dann irgendetwas zu sehen, vielleicht sogar einen kleinen Blick auf auf Sutr, aber nichts davon passiert. Es handelt sich nur um eine endlose Farmquest die immerhin ein wenig weniger anstrengend als die ganze Geschichte in Nilfheim ist. Ich habe den schlimmsten Teil natürlich zusammengeschnitten. Aber mein Kampf gegen die Zeit habe ich in einem Stück drinnen gelassen, und wenn ich so darüber nachdenke hätte ich das vielleicht auch minimieren sollen. Immerhin habe ich am Ende genügend Geld um mir neue Ausrüstung zu kaufen, wenn auch nicht genügend Materialien.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 13, Aufnahme vom 14.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
+  ```
+
+##### #87
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #88
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #89
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #90
 
 * Titel: ``
 

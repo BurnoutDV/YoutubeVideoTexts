@@ -319,12 +319,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
 ##### #21
 
-* Titel: `Baldur's Gate 3 - #22 - sonnig-dornige Sümpfe [Let's Play; ger; Blind]`
+* Titel: `Baldur's Gate 3 - #21 - Schmiedekeller [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
+  Eigentlich wollen wir ja nur ein wenig Metal bergen und das tun wir dann heute auch. Das wir zwischenzeitlich noch mit irgendwelchen Goblins reden müssen stand zwar nicht auf dem Plan aber immerhin werden wir nicht direkt angegriffen. Insofern möchte ich mich übrigens nicht weiter beschweren und stattdessen Steilkliffs Keller erkunden. Ich übersehe es zwar in dieser Episode, aber der Meister spricht sogar kurz darüber das er das Hölleneisen gefunden bzw. erhalten hat aber damit nicht besonders viel anfangen kann weil er nicht über die notwendigen Werkzeuge verfügt es auch richtig zu schmelzen oder überhaupt irgendwie zu bearbeiten. Und ich kann den Mann verstehen, wenn man Materialien nicht bearbeiten kann sind die besten Eigenschaften ziemlich wertlos. Um genau zu sein ist das ein großer Punkt in der Materialwissenschaft. Wenn die Kohlenstoffnanoröhren absolut fantastische Werte haben aber es keine Möglichkeit gibt sie praktisch zu formen oder zu produzieren könnten sie, was das Ingenieurstum angeht, nicht existieren.
   
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 28.08.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #22
@@ -389,15 +394,95 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
 ##### #26
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #26 - falsche Fährte [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich habe die Sache mit der Vettel dann doch für den Moment begraben, es hat ja nun wirklich keinen Sinn sich die Zähne an etwas auszubeissen was wir später bestimmt mit Leichtigkeit erledigen können. Bis es also hier so weit ist dauert es dann doch wohl noch eine Weile. Das bedeutet aber nicht das uns der Rest des Sumpfes verschlossen bleibt. Im Gegenteil, viel mehr lauern hier weitere Interessante Schätze die nur darauf warten gehoben zu werden und das tun wir dann auch. Bzw. wir versuchen es und treffen irgendwelche Baumwesen. Was wir eigentlich tun wollten war Kagha auf die Spur zu kommen aber es stellt sich wohl heraus das nur an den Treffpunkt zu gehen wohl nicht ausreicht wenn man nicht darauf ausgelegt ist irgendwelche Spuren zu finden. Und so finden wir heute absolut gar nichts. Bedauerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 04.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #27
+
+* Titel: `Baldur's Gate 3 - #27 - bessere Helden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man keine Ahnung hat was so richtig gut ist und was später noch auf uns zukommen könnte ist es auch ziemlich schwierig informierte Entscheidungen zu treffen. Ich habe mich mittlerweile damit abgefunden das die Entscheidungen die ich heute treffe mich wahrscheinlich morgen wieder beißen werden. Insofern legen wir einfach einmal los und schauen dann wo wir ankommen. Letztendlich ist da nicht viel was ich tun kann und irgendwann muss man ja auch die Fehler machen aus denen man dann lernt. Wir steigen also heute einmal kollektiv auf Stufe 4 auf und damit können wir eine kleine Subklasse bzw. eine Unterspezialisierung wählen, das macht uns schon ziemlich mächtig und verschafft uns eine gewisse Flexibilität. Es dauert also eine ganze Weile bis ich Entscheidungen treffen kann weil ich zu erst ein wenig Text lesen muss. Wenn du das hier liest bevor die Episode vor rüber ist weil du den ganzen LevelUp Prozess langweilig findest, hier kommt nicht mehr viel mehr als das. Man kann guten Gewissens abschalten und in der nächsten Folge weiter machen. Mit dann gestärkten Helden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 04.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #28
+
+* Titel: `Baldur's Gate 3 - #28 - Monddorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen waren wir bereits im Monddorf und waren dort auch in der Lage die örtliche Bevölkerung (Goblins) davon zu überzeugen das wir nur auf der Durchreise und das sie uns gefälligst in Ruhe lassen sollen. Das nutzen wir jetzt natürlich aus um eine Tasche Goblins nach der anderen aufzureiben um die künstlichen Erfahrungspunkte zu konsumieren die sich tief im Fleisch der kleinen Monster verbergen. Letztendlich sind wir natürlich das wahre Monster aber das muss ja die Öffentlichkeit nicht wissen. Nichts ist heilig genug wenn es Erfahrungspunkte verspricht und die beste Methode mich zur Gnade zu bringen ist wenn es anstatt deiner Haut einen besseren Fisch gibt. Kurzum, das hier könnte auch „das Massaker vom Monddorf“ heißen aber die Goblins wohnen ja nicht wirklich hier. Von allem was wir so sehen können ist die letzte, reguläre Bevölkerung schon vor einiger Zeit ausgeflogen und die Gobbos plündern nur noch die spärlichen Reste von dem was einst war. Nicht das wir ihnen das freiwillig überlassen würde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 4, Aufnahme vom 04.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #29
+
+* Titel: `Baldur's Gate 3 - #29 - thayanischer Keller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich haben die Goblins noch einige Schätze im Monddorf übersehen, es konnte ja gar nicht anders sein, und so finden wir heute den Keller des örtlichen Apothekers, Ilyn Toth der allen Anschein nach ein Flüchtling aus den östlichen Herzlanden war. Was genau dazwischen und generell und überhaupt passiert ist ist noch nicht klar aber das ist ja alles kein Problem für den Moment. Zu erst müssen wir seine Schätze finden und das gestaltet sich nicht besonders einfach da es mehre Ebenen der Verteidigung gibt. Auch problematisch ist das wir eigentlich gar nicht so recht wissen mit was wir es eigentlich zu tun haben, und von allem was ich so gesehen habe sind die Dinge in der Dungeon und Dragons Welt wirklich gefährlich. Wissen kann einen verzehren, nicht nur ein wenig unangenehm sein. Wo man sonst Gedanken hat die mietfrei im Kopf wohnen hat man hier wahrlich nagende Gedanken und es hat wohl seinen Grund warum die wirklich finsteren Schinken mit dicken Ketten verschlossen sind, nicht nur um Diebstahl zu vermeiden sondern auch die Außenwelt zu schützen. Aber, ich greife wieder einmal vor, retten wir den Gnom und erkunden dann den Keller.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 11.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #30
+
+* Titel: `Baldur's Gate 3 - #30 - Apotheker Geheimnis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wirkt für unsere heutige Zeit ein wenig seltsam, aber in der Vergangenheit waren Geheimnisse noch viel wichtiger als heute. Klar, Industriespionage ist immer noch ein Ding und Menschen tun gut daran nicht alle Erkenntnisse in die Welt hinaus zu posaunen, aber technisch gesehen funktioniert Fortschritt für eine Spezies so das man Wissen für die breite Masse zur Verfügung stellt. Das ganze nennt sich angeblich Wagenhebereffekt, weil das neue Wissen quasi die Rastung ist auf der man die Zivilisation aufbaut. Wenn man jetzt böse Konkurrenz in Form anderer Völker oder böser Möchte hat ist das natürlich ein wenig schwierig. Warum genau ein Apotheker sein Wissen hütet kann ich nicht genau erklären, außer vielleicht weil ansonsten irgendwelche Bauern die ganzen guten Kräuter horten würde n und der Apotheker arbeitslos wird oder nicht mehr richtig behandeln kann. Oder vielleicht weil sein Wissen aus einer anderen Region kommt und man eventuell nicht ganz so viel Verständnis für diese Quelle des Wissens hat. Bücher über Nekromantie sind aber nie etwas von dem man den Nachbarn erzählen sollte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 11.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #31
+
+* Titel: `Baldur's Gate 3 - #31 - flüsterne Tiefen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich sehe es als ein außerordentlich schlechtes Zeichen wenn die Tiefen von irgendeinen Ort anfangen zu flüstern. Ich habe da immer das Gefühl das mich irgendetwas dazu verleiten möchte in die Tiefen zu gehen und mich dort zu fressen. Die Wahrheit ist ziemlich nahe dran. Allerdings geht meine Gruppe natürlich in den festen Gewissen rein das wir Spinnen treffen werden. Zum einen haben wir die Netze bereits bei einem der anderen Zugänge gesehen und zum Anderen war der Fall ja doch relativ klar. Und dann finden wir auch noch die Bücher von irgendwelchen Leuten die Lolth anbeten und ich finde das ist doch ein recht klares Zeichen dafür das wir ganz unten eine extrem große Spinne finden werden die uns wahrscheinlich mächtig auf den Sack geben wird. Und uns in den Sack tut. Und dann für später verwahrt. Und dann unsere Leiche frisst. Großartige Aussichten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 11.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #Nummer
 
 * Titel: ``
 

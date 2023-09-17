@@ -1298,40 +1298,65 @@
 
 ##### #87
 
-* Titel: ``
+* Titel: `God of War - #87 - Rabenklippe [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wirklich, wir sind an der letzten Adresse, ab hier geht es dann nur noch bergauf. Heißt aber auch das wir die Rabeklippe zuerst erklimmen müssen. Das ist eigentlich ziemlich einfach aber es handelt sich scheinbar um einen Rätselparkour den ich bis hier hin komplett vergessen habe. Offensichtlich waren wir schon einmal in der Vergangenheit hier, aber das war bevor die große Schlange das Wasser weiter gesenkt hat. Und das ist schon wieder eine Weile her. Also machen wir uns auf und rennen noch mal schnell durch um irgendwelche sinnlosen Punkte zu sammeln die mir dann im kommenden Endkampf leider überhaupt nicht helfen werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 13, Aufnahme vom 14.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
 ##### #88
 
-* Titel: ``
+* Titel: `God of War - #88 - finaler Endkampf [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Diese Episode hieß zuerst „im Bauch der Bestie“ und dann „Liebe einer Mutter“. Dann hatte ich noch überlegt ein eigenes Thumbnail zu malen und habe mich letztendlich dagegen entschieden. Man sieht es schon an der Länge, fast 38 Minuten, das wird dann wohl irgendetwas sein das man schlecht in Teile schneiden kann. Könnte ich es, hätte ich es getan. Es wird also Zeit für den Endkampf. Ich bin übrigens ein wenig enttäuscht das der Endkampf wirklich gegen gegen Baldur stattfindet. Ich habe irgendwie gehofft das es hier noch ein wenig Varianz gibt. Klar, das alles wurde Stück für Stück aufgebaut. Mit Freya die wir „zufällig“ im Wald als Hexe treffen die natürlich Baldurs Mutter ist, der Sohn der wenig vorher an unserer Tür geklopft hat. Der seine Mutter dafür hasst das sie ihn so sehr liebt das sie allen Schmerz von ihm halten wollte. Der von Kratos ein Geheimnis erfahren wollte uns uns immer wieder Probleme gemacht hat. Was nicht klar war war natürlich der Kampf selbst. Der ist zugegeben ziemlich episch und greift wieder andere Element vom Anfang und in der Mitte auf. Man hat wirklich das Gefühl das alle Teile des Spiels involviert sind und am Ende alles irgendwie Sinn ergeben hat. Natürlich hebeln wir Baldurs Schwäche aus. Dafür gab es sogar ein wenig Vorschattierung, auch wenn mir die exakte Mechanik wie es später passiert nicht gefällt. Ungewiss und ein wenig überraschend ist hingegen der Ausgang im Detail. Hier hätte ich etwas Anderes erwartet und bin ganz zufrieden das die Dinge so liefen wie sie liefen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 13, Aufnahme vom 14.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
 ##### #89
 
-* Titel: ``
+* Titel: `God of War - #89 - Fayes Asche [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Nach all der Aufregung ist es jetzt eigentlich geschafft. Wir haben all die Gefahren überwunden und das was noch kommen könnte dauert noch eine Weile. Wir kommen endlich nach Jötunheim und das Portal führt praktischerweise auch direkt _auf_ den höchsten Berg ohne das wir uns noch lange bemühen müssen irgendwelche ungemütlichen Gebirge zu erklimmen bzw. zu durchwandern. Und damit haben wir es dann. Ich finde die Erklärung die wir dann auf den allerletzten Meter finden noch relativ interessant auch wenn die Implikationen nicht so ganz klar sind und ich es auch nicht wage anhand anderer wager Hinweise irgendwie einen Zusammenhang mit der eigentlichen nordischen Mythologie herzustellen, insbesondere weil die ja auch auf mündliche Überlieferungen basiert und nicht vollständig konsistent ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 13, Aufnahme vom 14.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
 
 ##### #90
 
-* Titel: ``
+* Titel: `God of War - #90 - Epilog [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Willkommen zur Episode nach der letzten Episode. Das Let’s Play hat definitiv nur 89 Folgen und das hier ist quasi die Episode danach. Es gibt noch ein wenig Inhalt jetzt nachdem wir zurück in Midgard sind. Es ist nicht viel und es würde eigentlich keine 20 Minuten füllen aber zum Glück erzählt uns Mimir noch eine Geschichte. Ich frage mich übrigens wirklich was jetzt aus Mimir wird. Wird er auch weiterhin als untoter Kopf an irgendeiner Hüfte hängen oder kann ihm vielleicht jemand helfen wieder einen richtigen Körper zu erhalten. Klar ist das Freya wohl nicht mehr zur Verfügung steht. Insbesondere wenn man bedenkt das sich wohl einiges verändert hat in der Zeit in der wir in Jötunheim waren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Retro" Spiele (von 2018 wow)
+  Sitzung 13, Aufnahme vom 14.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPwLiAME1c68dE00D1iBRVE
   ```
+
+## Fazit
+
+Zusammenfassend würde ich sagen ich hatte Spaß an God of War. Kratos als Außenseiter der irgendwie die Geschichte ein wenig durcheinander bringt ist eine Interessante Wiederbelebung eines anscheinend älteren Charakters. Es wäre natürlich auch möglich gewesen eine neue Person einzuführen aber dann hätte man wohl noch mehr erklären müssen wen man hier überhaupt spielt. Die Existenz von Sohn hat das Spiel auf jeden Fall reicher gemacht und der zusätzliche Begleiter in Mimir der quasi historischen Kontext gibt den man nicht selber lesen muss ist auch eine schöne Idee. Ich bin mir unsicher ob ich es wirklich so gut finde das hier die nordische Mythologie quasi als Themenpark genutzt wurde um irgendwie eine reiche Hintergrundwelt zu haben. Das die Asen im Allgemeinen nicht so gut weg kommen war zu erwarten, ist aber ein wenig weg von dem was ich so aus der nordischen Mythologie kenne die ja schon eine gewissen Heldenverehrung zelebriert und den Kriegertod als höchstes Ziel avisiert. Das hier kritisch mit den Idealen der Nordmänner von einst umgegangen wird ist aber durchaus legitim. Ich habe parallel noch den Manga Vinland Sage gelesen der sich auch mit der Philosophie im Norden auseinander setzt und wie wenig konstruktiv eigentlich eine Religion ist die darum fußt möglichst spektakulär zu sterben und die ewige Kälte für Jene verspricht die im Bett sterben, oder Frauen sind. Oder Kinder. Oder zu schwach. Man könnte die gesamte Geschichte auch als großes Propaganda Stück der Riesen betrachten die hier definitiv am besten weg kommen.  Im Zentrum stehen Kratos und sein Sohn und der Rest der Geschichte windet sich darum. Ich habe mir zwischenzeitlich ein wenig zu viele Gedanken darum gemacht wie genau die Reise zwischen den Welten oder bestimmte magische Objekte funktionieren. Zum Glück spielen wir einen Haudrauf-Typen der eigentlich nichts mit Magie am Hut hat und steigen daher nicht tiefer in die Materie ein. Jeder Versuch die mystische Macht zu erklären hätte wahrscheinlich auch eh nicht geklappt. Ein wenig schade finde ich das die Menschen selbst ein wenig sehr kurz kommen. Am Ende wird der Fimbulwinter eingeläutet aber eigentlich kommt es mir schon am Anfang des Spiels so vor als würden wir uns in einer sterbenden Welt befinden. Quasi die letzten Atemzüge einer Geschichte sehen. Das das keinen der Protagonisten zu stören scheint  finde ich ein wenig seltsam. Andererseits war auch wenig Zeit für Introspektion. Und doch, ein paar Menschen die irgendwie zusammen gekauert die ausfallende Ernte beklagen hätten vielleicht noch emotional etwas rausholen können. Aber im Zentrum der Geschichte geht es um Götter, Zwerge und andere Wesen. Der nordische Götterbegriff ist dabei ein wenig schwammiger als er es vielleicht in anderen Mythologien der Fall ist. Bei den Griechen war das alles ein wenig klarer. 
+Der Hauptwidersacher Baldur lässt definitiv Luft für einen Nachfolger offen bzw. große Namen können sich uns noch entgegenstellen. Der Entwickler hat hier klar sein Pulver zurückgehalten um im nächsten Ableger noch ein wenig Potenzial nach oben zu erhalten. Ansonsten wurde viel Geschichte erzählt ohne dabei kompliziert zu sein. Rein von der Mechanik und dem reinen Spiel hat sich God of War keine Blöße gegeben. Bis auf die fliegenden Gegner (Alben, Walküren) habe ich keine Beschwerden. Der Kampf hat sich größtenteils nachvollziehbar und reaktiv gezeigt. Kletter und Laufsequenzen haben gut funktioniert und Rätsel waren transparent. Das man nicht frei springen kann war ein kleiner Gewohnheitsfaktor, hat mir am Ende aber wahrscheinlich geholfen nicht unnötig herumzuprobieren. Auch gefallen hat mir das die Ausrüstung so viele Möglichkeit zum Upgraden hatte und den eigenen Spielstil angepasst werden konnte. Auch wenn ich es dann für die Hauptmission gar nicht gebraucht hatte.

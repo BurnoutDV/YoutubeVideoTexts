@@ -482,6 +482,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #32
+
+* Titel: `Baldur's Gate 3 - #32 - teuflischer Handel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sobald man etwas hat das andere haben wollen kann man sich sicher sein das Leute um die Ecke kommen und Angebote machen. Man kann das zum Beispiel sehen wenn dubiöse Autohändler in jeder Karre Visitenkarten hinterlassen. Hier sieht jemand das Potenzial einen Handel einzugehen und dann am Ende noch irgendwie Profit zu machen. Klar ist das der Händler nicht vollkommen ehrlich ist und das „geheime“ Wissen dazu nutzen möchte den eigenen Profit zu erhöhen. Dämonen sind ähnlich soweit ich das verstanden haben. In der Regel kommt man zu ihnen wenn man etwas will und nur selten erscheinen sie von selbst. Und das ist dann wahrscheinlich eher kein Zufall sondern der Umstand das man etwas hat das der Dämon davon einen Vorteil hat. Natürlich möchte sie oder er uns das nicht wissen lassen. Stattdessen wird es sich so darstellen das wir etwas vom Dämon wollen und der Handel uns etwas kostet weil wir ja etwas gewinnen. Mir ist allerdings nicht ganz klar was Dämonen überhaupt motiviert. Gibt es irgendwo eine Instanz die über Menschen und Hölle steht die Sterbliche im Allgemeinen schützt und es nur wenige Lücken gibt die es der Hölle überhaupt erlaubt zu interagieren? Wenn man sich mit der Welt auskennen würde wüsste man das wahrscheinlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 11.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

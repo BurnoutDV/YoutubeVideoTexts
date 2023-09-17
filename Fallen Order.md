@@ -944,3 +944,73 @@
   Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOVp-z_oKAa47j59p2ypxDj
   ```
+
+##### #82
+
+* Titel: `Jedi Survivor - #82 - Missionsnachbesprechung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine Sache die viel zu selten gemacht wird ist das sogenannte „Debriefing“. Es kann aber auch ein wenig stören. Ich erinnere mich noch ein wenig an die Tage in denen ich aktiv LoL gespielt habe und wir hatten einen Typen in der Gruppe der immer lange und tief noch einmal analysieren wollte was im letzten Spiel schief gegangen ist. Das kann man machen wenn man einen sehr guten Spielstil hat und eine gewisse Konsistenz erreicht hat die es lohnenswert macht aktiv gegen bestimmte Regungen gegenzusteuern. In der Regel ist aber alles so vom Zufall beeinflusst das wir kaum etwas wirklich gewollte getan haben. Einzelsituationen waren wesentlich bedeutender als die allgemeine Taktik. Und doch, für Profis ist die Nachbesprechung absolut wichtig. Und deswegen redet Karl jetzt noch schnell mit allen Begleitern darüber was wir bis hier hin erreicht haben. Schließlich wollen wir ja keine Fehler im nächsten Schritt machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #83
+
+* Titel: `Jedi Survivor - #83 -  Zersplitterte Boßheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wenn ich mich dem Ende eines Spieles nähere kommt es vor das ich noch mit Brechen und Mühen versuche alle Nebenmissionen schnell zu erledigen. Dazu gehört auch die Haxion Brut zu erledigen. Nach aktuellem Stand ist es aber ziemlich egal ob und wie wir die Dinge tun. Die Tatsache das die einzelnen Kopfgeldjäger auch an irgendwelchen Orten herumstehen macht das Alles nicht viel besser. Warum genau müssen wir bitte nach Couroscant fliegen um uns den Kopfgeldjägern zu stellen wenn wir einfach warten könnten bis die uns finden oder komplett die Fährte verlieren und anderen Köpfen nachjagen. Manchmal fühlt es sich fast so an als wolle unsere Auftraggeberin das Geld für uns einstreichen in dem sie uns dort hin schickt. Wie dem aber auch sei, ich mache mich also auf in die innere Welt nur um dort kurz enttäuscht zu werden und noch einen weiteren Realitätsriss zu finden. Der, so zumindest meine Einschätzung, eventuell sogar auf schwer ganz gut möglich wäre. Wenn ich die Geduld dafür hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #84
+
+* Titel: `Jedi Survivor - #84 - Verrat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich spoilere mit dem Titel natürlich ein wenig den Inhalt der Episode. Aber wenn man mal ganz fest die Hand aufs Herz legt war vollkommen klar das es dazu kommen wird und das die Dinge passieren die passiert sind. Wir werden verraten. Das war absolut absehbar. Viel zu einfach war bis jetzt unser Weg und irgendwie ist die Handlung auch in der Sicht vorhersehbar. An sich habe ich mit dem Verrat schon von Anfang an gerechnet und hatte eigentlich gedacht das er vielleicht ein wenig früher passiert damit das nicht am Ende der große Aufhänger ist. Aber da wir keinen wirklichen großen Gegenspieler wie im ersten Teil mit der zweiten Schwester hatten war es eigentlich klar das wir noch einen Freund brauchen der dann keiner mehr ist. Jetzt bleibt nur noch zu hoffen das die Motive am Ende ein wenig nachvollziehbarer sind als das was sie zuerst erscheinen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #85
+
+* Titel: `Jedi Survivor - #85 - wahre Stärke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe darauf verzichtet diese Episode „wahre Macht“ zu nennen. Aber es würde auch passen. Die Sache mit den Jedi ist in Spielen meistens das man die ganze Kraft und das Ausmaß nie so richtig zeigen kann. Zum einen „dürfen“ gute Machtbenutzer nur sehr selten aus dem vollen Schöpfen, vollständig ungebremster Machteinsatz ist halt leider etwas das nur der dunklen Seite regelmäßig zur Verfügung steht. Wenn man zu den Guten gehört ist das leider die letzte Eskalierungsstufe und wenn man bis dahin kommt ist vorher schon Einiges schief gegangen. Insbesondere Karl kommt mir aber einfach nicht mächtig vor, nur fleißig. Klar, er kann größere Mengen an Gegnern irgendwie ausschalten aber er springt dabei halt umher wie ein Kaninchen auf der Flucht. Ich sehe keine Überlegenheit, keine Kontrolle der Situation. Kein koordinierter Kampf der die Gegner wissen lässt das sie eigentlich nur eine Maus sind mit denen gespielt wird. Die Sturmtruppler reden immer wieder davon das sie es schaffen könnten. Und sie haben recht! Wenn Lord Vader auftritt ist klar das alle kleinen Fußsoldaten direkt aufgeben können. Anikin spielt nicht rum und schreitet majestätisch *durch* den Pöbel hindurch. Man merkt das hier die Macht Gewicht hat, eine unaufhaltsame Gewalt wie die Flut, eine Lawine des Verderbens. Aber da wir das nicht selber haben können spielen wir halt zur Abwechslung jemand der nicht Karl ist. Absolut absehbar ist aber auch wie das hier ausgehen wird. Schon wegen dem was oben steht, die Guten dürfen nur mächtig sein wenn es das letzte Gefecht ist. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

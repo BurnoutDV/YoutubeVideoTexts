@@ -9899,6 +9899,23 @@
   Aufnahme vom 16.09.2023 - #1851 - ##30 - S5
   ```
 
+##### #1852
+
+* Titel: `Let's Play ESO #1852 ##31 - Chroma Incognito [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 31 des Nekrom DLC - Sitzung 5
+  
+  Der heutige Episodentitel ist ein wenig, zufällig. Und mir fällt auf das ich in letzter Zeit häufiger darüber spreche. Das wir hier jetzt öfter so komische Titel haben ist es auch deswegen weil ich viel zu langsam vor ran komme während ich Stück für Stück jeden einzelnen Teil von Apokrypha thematisch auseinander nehmen. Heute versuchen wir zum Beispiel wieder einmal einen fundamentalen Teil der Wahrheit herauszufinden in dem wir irgendwie an Hermeus Mora selbst vor bei operieren. Ich habe mehr und mehr den Verdacht das ich irgendetwas falsch verstanden habe, wie sonst ist zu erklären das wir uns nicht direkt an den Fürsten des Wissens wenden können um zu erfahren was wir wollen und stattdessen irgendwelche Umwege laufen. Das Alles verwirrt mich ein wenig mehr als es sollte finde ich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 16.09.2023 - #1852 - ##31 - S5
+  ```
+
 ##### #Nummer
 
 * Titel: ``

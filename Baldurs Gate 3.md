@@ -497,12 +497,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #33
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #33 - die vierte Rast [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es dauert erstaunlich lange eine Pause einzulegen. Währe es eine Sache von 5 Minuten schnell den Tag zu wechseln hätte ich es schon lange getan. Die Tatsache das wir heute das vierte Mal rasten bedeutet aber auch das es dann morgen der fünfte Tag ist seit wir den Parasiten der Illithiden erhalten haben. Wenn man Laezel glauben darf hätten wir schon lange lange übernommen werden müssen. Auf der anderen Seite haben wir auf dem Schiff der Tentakligen am Anfang auch gesehen das es scheinbar ein bestimmtes Gerät braucht um die Verwandlung auszulösen und vielleicht funktioniert es auch nur genauso mit der Art von Parasit die wir erhalten haben. Oder aber wir sind etwas völlig Anderes. Ich weiß absolut nichts über die Illithiden und ich fürchte das sich das aktuell ein wenig zeigt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 11.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```

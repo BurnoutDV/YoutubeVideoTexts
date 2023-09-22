@@ -1224,34 +1224,95 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
-##### #Nummer
+##### #82
 
-* Titel: ``
+* Titel: `Jedi Survivor - #82 - Missionsnachbesprechung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Eine Sache die viel zu selten gemacht wird ist das sogenannte „Debriefing“. Es kann aber auch ein wenig stören. Ich erinnere mich noch ein wenig an die Tage in denen ich aktiv LoL gespielt habe und wir hatten einen Typen in der Gruppe der immer lange und tief noch einmal analysieren wollte was im letzten Spiel schief gegangen ist. Das kann man machen wenn man einen sehr guten Spielstil hat und eine gewisse Konsistenz erreicht hat die es lohnenswert macht aktiv gegen bestimmte Regungen gegenzusteuern. In der Regel ist aber alles so vom Zufall beeinflusst das wir kaum etwas wirklich gewollte getan haben. Einzelsituationen waren wesentlich bedeutender als die allgemeine Taktik. Und doch, für Profis ist die Nachbesprechung absolut wichtig. Und deswegen redet Karl jetzt noch schnell mit allen Begleitern darüber was wir bis hier hin erreicht haben. Schließlich wollen wir ja keine Fehler im nächsten Schritt machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
-##### #Nummer
+##### #83
 
-* Titel: ``
+* Titel: `Jedi Survivor - #83 -  Zersplitterte Boßheit [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Immer wenn ich mich dem Ende eines Spieles nähere kommt es vor das ich noch mit Brechen und Mühen versuche alle Nebenmissionen schnell zu erledigen. Dazu gehört auch die Haxion Brut zu erledigen. Nach aktuellem Stand ist es aber ziemlich egal ob und wie wir die Dinge tun. Die Tatsache das die einzelnen Kopfgeldjäger auch an irgendwelchen Orten herumstehen macht das Alles nicht viel besser. Warum genau müssen wir bitte nach Couroscant fliegen um uns den Kopfgeldjägern zu stellen wenn wir einfach warten könnten bis die uns finden oder komplett die Fährte verlieren und anderen Köpfen nachjagen. Manchmal fühlt es sich fast so an als wolle unsere Auftraggeberin das Geld für uns einstreichen in dem sie uns dort hin schickt. Wie dem aber auch sei, ich mache mich also auf in die innere Welt nur um dort kurz enttäuscht zu werden und noch einen weiteren Realitätsriss zu finden. Der, so zumindest meine Einschätzung, eventuell sogar auf schwer ganz gut möglich wäre. Wenn ich die Geduld dafür hätte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
-##### #Nummer
+##### #84
 
-* Titel: ``
+* Titel: `Jedi Survivor - #84 - Verrat [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich spoilere mit dem Titel natürlich ein wenig den Inhalt der Episode. Aber wenn man mal ganz fest die Hand aufs Herz legt war vollkommen klar das es dazu kommen wird und das die Dinge passieren die passiert sind. Wir werden verraten. Das war absolut absehbar. Viel zu einfach war bis jetzt unser Weg und irgendwie ist die Handlung auch in der Sicht vorhersehbar. An sich habe ich mit dem Verrat schon von Anfang an gerechnet und hatte eigentlich gedacht das er vielleicht ein wenig früher passiert damit das nicht am Ende der große Aufhänger ist. Aber da wir keinen wirklichen großen Gegenspieler wie im ersten Teil mit der zweiten Schwester hatten war es eigentlich klar das wir noch einen Freund brauchen der dann keiner mehr ist. Jetzt bleibt nur noch zu hoffen das die Motive am Ende ein wenig nachvollziehbarer sind als das was sie zuerst erscheinen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #85
+
+* Titel: `Jedi Survivor - #85 - wahre Stärke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe darauf verzichtet diese Episode „wahre Macht“ zu nennen. Aber es würde auch passen. Die Sache mit den Jedi ist in Spielen meistens das man die ganze Kraft und das Ausmaß nie so richtig zeigen kann. Zum einen „dürfen“ gute Machtbenutzer nur sehr selten aus dem vollen Schöpfen, vollständig ungebremster Machteinsatz ist halt leider etwas das nur der dunklen Seite regelmäßig zur Verfügung steht. Wenn man zu den Guten gehört ist das leider die letzte Eskalierungsstufe und wenn man bis dahin kommt ist vorher schon Einiges schief gegangen. Insbesondere Karl kommt mir aber einfach nicht mächtig vor, nur fleißig. Klar, er kann größere Mengen an Gegnern irgendwie ausschalten aber er springt dabei halt umher wie ein Kaninchen auf der Flucht. Ich sehe keine Überlegenheit, keine Kontrolle der Situation. Kein koordinierter Kampf der die Gegner wissen lässt das sie eigentlich nur eine Maus sind mit denen gespielt wird. Die Sturmtruppler reden immer wieder davon das sie es schaffen könnten. Und sie haben recht! Wenn Lord Vader auftritt ist klar das alle kleinen Fußsoldaten direkt aufgeben können. Anikin spielt nicht rum und schreitet majestätisch *durch* den Pöbel hindurch. Man merkt das hier die Macht Gewicht hat, eine unaufhaltsame Gewalt wie die Flut, eine Lawine des Verderbens. Aber da wir das nicht selber haben können spielen wir halt zur Abwechslung jemand der nicht Karl ist. Absolut absehbar ist aber auch wie das hier ausgehen wird. Schon wegen dem was oben steht, die Guten dürfen nur mächtig sein wenn es das letzte Gefecht ist. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 12, Aufnahme vom 12.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #86
+
+* Titel: `Jedi Survivor - #86 - Kili Oso [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  
+  Ein echt großes Problem an Open-World Spielen ist das die Welt manchmal einfach nicht den Zustand der aktuellen Hauptquest widerspiegeln kann. Das bricht die Immersion schon erheblich. Das Versprechen ist ja das man eigentlich alles machen kann solange bis das Spiel wirklich vorbei ist, manchmal sogar danach. Das führt aber dazu das drastische Ereignisse entweder diese Freiheit beschneiden und zu langen Tunnelsequenzen führen, oder aber das sich die Realität ein wenig von dem unterscheidet was wir in den Cutscenes sehen. In Jedi Survivor ist Letzteres der Fall. Die große Zuflucht der Anachoreten wurde zwar eben vom Imperium überfallen und Darth Vader selbst ist aufgetreten, aber jetzt ist auch schon wieder alles gut. Ein riesiger Bohrer hat einen Tempel durchwühlt, aber jetzt durchsucht niemand mehr den Ort weil es wird schon Nichts übrig sein. Warum sehen wir keine imperialen Geheimdienstler die Ruinen auf Hinweise durchsuchen. Angeblich ist das Imperium doch so effizient darin Leute zu finden und zu überwachen. Wo haben die all diese Informationen her wenn sie anscheinend keine Spurensicherung betreiben? Und dann wäre da auch noch das Ding mit den Leuten die jetzt eigentlich sehr weit weg sein sollten. Schwester Task hängt anscheinend weiter ab. Das ist schon sehr verstörend. Klar, ein paar mehr Imperiale Patrouillen rennen schon durch die Gegend aber das war es dann auch. Das alleine ist übrigens auch ein harter Anachronismus. Offensichtlich verfügt das Imperium über sowohl Funkgeräte als auch ein Drohnennetzwerk. Wenn die Wüste irgendwelche Rebellen hat schicke ich doch nicht meine Bodentruppen und schweres Gerät in den Sand um sinnlos auf und ab zu marschieren. Stattdessen schicke ich einen Schwarm semi-autarker Roboter los und schaue dann ob die was entdecken. Wenn irgendwelche Drohnen abgeschossen werden kann man immer noch ein bewaffnetes Team per Luftlandung absetzen um nach dem Rechten zu schauen. Und wenn die Ruinen in denen ich meine Spurensicherung geschickt habe von irgendwelchen Kopfgeldjägern zusammengeschossen werden, dann prüft man das auch nach. Oder haben die Imperialen sich einfach bezahlen lassen? Anders kann ich mir nicht erklären das Kili Oso ganz allein abhängt. Ich weiß übrigens nicht so recht warum der Typ überhaupt gehofft hat das wir irgendwo auftauchen. Geld gibt es ja offensichtlich nicht dafür Sorc Tormos Handlanger auszuschalten. Handeln wir etwa aus Pflichtgefühl? Ekelhaft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 19.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #87
+
+* Titel: `Jedi Survivor - #87 - Seemannsgarn der Wüste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte behauptet das es jetzt Schlag auf Schlag geht und wir ja eigentlich wirklich fertig mit Allem sind was wir noch so tun könnten. Das stimmt offensichtlich nicht und es gibt doch noch ein paar Geheimnisse zu entdecken. Womit ich aber nicht gerechnet habe war das wir weitere Geschichten von Skoova Stev hören. Schon deswegen nicht weil wir auf Jedha sind und das ist nun mal ein anderer Planet der doch ein wenig weit weg von Koboh ist und ich bis her nicht den Eindruck hatte das Skoova irgendeine Form der interstellaren Fortbewegung zur Verfügung hatte. Ich lag offensichtlich falsch und wir finden ihn heute gleich zweimal. Außerdem erlegen wir noch irgendeine Art von Wüstenmonster, aber das wirklich nur als Fußnote, so doll war das Vieh nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 19.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
 ##### #Nummer

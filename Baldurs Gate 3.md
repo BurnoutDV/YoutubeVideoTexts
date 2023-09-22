@@ -511,3 +511,64 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Sitzung 5, Aufnahme vom 11.09.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
+
+##### #34
+
+* Titel: `Baldur's Gate 3 - #34 - Lump der Feinschmecker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Intelligente Wesen sind nicht gleich. Davon kann man ziemlich sicher ausgehen auch wenn letztendlich wahre Gewissheit wohl niemals zu erlangen ist und es sich wohl immer ein paar Eigenschaften finden lassen mit denen man in einer lokalen Gruppe Gleichheit definieren kann. Ich möchte darauf hinaus laufen das nicht alle Oger dumm sind. Klar, im Durchschnitt kann man wohl sehr damit rechnen das ein x-beliebiger Oger den man irgendwo findet nicht grade die hellste Kerze auf der Torte ist, aber irgendwo ist auch das Oger-Genie, ganz weit außen in der Glockenkurve. Es könnte natürlich sein das die Gesellschaft hier direkt aussortiert, aber theoretisch wäre ein Oger-Wissenschaftler denkbar. Aber Intelligenz alleine würde nicht ausreichen, nur schneller denken zu können bringt nicht all das was auch die Persönlichkeit ausmacht die es braucht die Intelligenz auch anzuwenden. Und das bringt uns zu Lump, einem Oger der offensichtlich ein wenig redegewandter als der Rest ist. Letztendlich ist er aber immer noch ein Oger. Und nicht der eine intelligente Oger, er hatte nur Glück beim Plündern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 11.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #35
+
+* Titel: `Baldur's Gate 3 - #35 - Goblinlager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte neulich unter irgendeinem Spiel darüber philosophiert (nennen wir es großzügig mal so) wie bestimmte Genres eigentlich nur ein kurzer, vergänglicher Zustand waren der ein instabiles Gleichgewicht braucht das nicht von langer Dauer sein kann, Wilder Westen oder Piraten zum Beispiel. Ein wenig mehr technischer Fortschritt und schon funktioniert das System nicht. Das Gleiche trifft auch auf bestimmte Formen der Gesellschaft zu. Nomaden brauchen eine bestimmte Landschaft und können eine gewisse Größe nicht übersteigen, andernfalls braucht es schon sehr gute externe Quellen an Nahrung, Energie oder Durchhaltevermögen einen Zustand aufrecht zu erhalten. Mein Lieblingsthema sind hier die „Raider“ in den Fallout Spielen. In den ersten beiden Teilen war es ein wenig nach dem Öffnen der ersten Bunker und die Gesellschaft kam langsam wieder auf, quasi Post-Post Apokalypse. Es ist irgendwie glaubhaft das in irgendwelchen Ruinen noch ein paar Leute von Überfällen von Siedlungen leben. Aber dann hat man Fallout 3 und 4 die wesentlich später spielen. Gesellschaften sind schon etabliert. Die Vorstellung das es noch irgendwo einen Supermarkt gibt der Konserven drin hat oder irgendwelche Gerätschaften in Kellern noch laufen und nicht schon lange geplündert wurden ist irgendwie unglaubwürdig. Die Zeit der Raider, Banditen die andere Gruppen überfallen kann nicht lange sein. Die überfallenden Gruppen investieren entweder in Verteidigung, werden ausgelöscht bzw. assimiliert oder fliegen. Maximal Überfälle über eine sehr große Entfernung wären noch möglich so das individuelle Angriffe nur in weiten Abständen erfolgen. Und das bringt uns zu den Goblins. Die hausen hier wie die Könige, aber langfristig kann die Operation nicht sein. Der alte Tempel ist vielleicht eine gute Zentrale, aber die Gegend kann einen so großen Goblinstamm einfach nicht erhalten. Es sei den natürlich, jemand Anderes versorgt die örtlichen Goblins. Fütter künstlich ihre Reihen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 5, Aufnahme vom 11.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #36
+
+* Titel: `Baldur's Gate 3 - #36 - betrunkene Wachen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  
+  Ich erwähnte bereits das die größe dieses Goblinstammes nicht wirklich Sinn ergibt und eine externe Quelle hier Versorgungslieferungen leisten muss. Wir wissen jetzt das es wohl der Absolute bzw. die Absolute oder das Absolute ist? So ganz klar ist das nicht. Wie dem aber auch sei, Goblins leben offensichtlich einen leicht hedonistischen Stil und feiern alle Feste die so fallen. Wo genau die Mengen an Vorräten her kommen die sie haben ist zwar nicht klar aber immerhin kennen wir die grobe Quelle. Irgendjemand möchte das die Goblins in der Nähe bleiben und weiter die Leute überfallen. Warum und weshalb genau bleibt wohl noch für eine Weile unklar. Aber eine gute Sache kommt dabei heraus. Bei aller Angst die die Tieflinge vor den Gobbos haben, so richtig kampfstark sind die bis auf ein paar Ausnahmen eher nicht. Und sie neigen dazu auf Arbeit zu trinken. Also gibt es einen Wachposten der zwar irgendwie begoblint ist aber danach hört es dann auch auf. Das macht es natürlich schrecklich leicht für uns einfach unseren Pfad fortzusetzen jeden einzelnen Goblin abzuschlachten, insbesondere wenn niemand im Rausch zu merken scheint das sich die Reihen lüften. Das ist schon irgendwie angenehm.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 18.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #37
+
+* Titel: `Baldur's Gate 3 - #37 - Dror Ragzlin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Theoretisch hätten wir uns wirklich lange und intensiv durch die Goblinfestung quatschen können. Offensichtlich wäre es nicht wirklich notwendig gewesen irgendjemanden zu töten und so richtig versucht haben die Goblins auch nicht das Gespräch zu suchen. Fairerweise wussten sie aber auch nicht das wir überhaupt existieren. Und dann gaben wir ihnen auch nicht die Chance, es hätte schon eine enorme Menge an Pazifismus erfordert nachdem wir angefangen haben anzugreifen noch um Frieden zu bitten. Unser erstes Ziel das wir heute aus den Schatten angreifen ist ein Dude namens Dror Ragzlin. Wir kennen den Namen bereits, bei unserem gescheiterten Täuschungsversuch am Tor haben wir sogar behauptet in seinem Auftrag da zu sein. Jetzt töten wir ihn als Erstes. Später wird sich noch herausstellen das wir damit nicht direkt der Schlange ihren Kopf abschlagen aber zumindest die Reihen ein wenig ausdünnen. Der Kampf ist hart und im Nachgang frage ich mich schon ob wir nicht politisch etwas tun hätten können. Aber nicht in diesem Lauf. Goblins sind Schmutz und wir tun das was man gerechterweise mit ihnen tut, sie wie räudige Tiere abschlachten. Klingt extrem? Aber das ist jetzt die Haltung für die ich mich entschieden habe und niemand in unserer Party scheint damit wirklich Probleme zu haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 18.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```

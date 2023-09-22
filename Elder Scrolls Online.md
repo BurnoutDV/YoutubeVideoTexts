@@ -9916,6 +9916,58 @@
   Aufnahme vom 16.09.2023 - #1852 - ##31 - S5
   ```
 
+##### #1853
+
+* Titel: `Let's Play ESO #1853 ##32 - das Endlose Panoptikum [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 32 des Nekrom DLC - Sitzung 5
+  
+  Gelegentlich kann es vorkommen das das geschriebene Wort besser ist als ein visuelles Medium. Das setzt natürlich ein wenig vor raus das man eine gewisse Vorstellungskraft hat und tatsächlich etwas vor dem inneren Auge sieht wenn man sich etwas vorstellen will. Es gibt Menschen die wirklich keine Vorstellungskraft haben bzw. das schon aber halt keine Bilder in ihrem Kopf sehen. Das nennt sich dann Aphasie und ist irgendwie schwer zu vermitteln weil es ja nichts ist bei dem man den Unterschied sehen kann. Für solche Menschen sind, so vermute ich zumindest, Comics und Graphic Novels wesentlich angenehmer als nur Wände aus Text. Allerdings gibt es hier eine kleine Ausnahme. Wenn man sich das Unvorstellbare vorstellen soll. Ein Klassiker ist die Unendlichkeit. Menschen sind wirklich schlecht darin sich Dinge wie das Universum konzeptionell vorzustellen. Vor Augen hat man einen mittelgroßen Raum in dem vielleicht eine Schweiz oder vielleicht sogar nur ein Lichtenstein reinpasst. Das ist aber keine Unendlichkeit, das ist nur ein wenig mehr als ein Fussballfeld. Das Endlose Panoptikum ist auch so ein Ort den man sich nicht vorstellen kann. Dafür das es unmöglich sein sollte es dar zu stellen ist das Leveldesign aber ganz okay geworden. Und um das zu beurteilen gehen wir da heute hin.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 19.09.2023 - #1853 - ##32 - S5
+  ```
+
+##### #1854
+
+* Titel: `Let's Play ESO #1854 ##33 - Splitter eines Traumes [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 33 des Nekrom DLC - Sitzung 5
+  
+  
+  Träume sind sehr interessant, besonders wenn man nur so halb wach daliegt und man dann wirklich detailreiche Träume hat. Aber am Ende kann man sich kaum an etwas erinnern. Ich hatte erst gestern einen interessanten und weird detailreichen Traum. Während ich langsam aufwachte erinnerte mich mich noch gut an die einzelnen Teile und wie seltsam das alles war, aber auch wie tief dieser Blick in eine Fantasiewelt ging. Mittlerweile weiß ich nur noch das ich einen komischen Traum hatte, aber nicht mehr den Inhalt. Das ist irgendwie ein wenig seltsam. Und jetzt stelle man sich vor man hätte einen Traum mit einer echten Erkenntnis, mit einer echten Idee, etwas das Einblicke in die Wirklichkeit gibt. Und dann ist diese Erinnerung plötzlich weg und man weiß nur noch das es da etwas gab. Der Rest einer Erinnerung an eine Erinnerung. Und dann geht man zur Göttin der Träume die eröffnet das jemand Anderes eingegriffen hat. Ob das ist was Torvesard motiviert? Ein wenig problematisch an unserer Mission für Hermeus Mora ist übrigens auch das ich schon irgendwie neugierig bin was das Geheimnis ist das die Realität zerstört. Geistig bin ich also dem auserkorenen Gegner näher als unserem Auftraggeber. Das ist irgendwie schlecht oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 19.09.2023 - #1854 - ##33 - S5
+  ```
+
+##### #1855 
+
+* Titel: `Let's Play ESO #1855 ##33 - Gerissene Erinnerungen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 34 des Nekrom DLC - Sitzung 5
+  
+  Nein, ich weiß auch nicht wie die auf die Quest-Namen kommen. Für den Fall das du das hier liest und nicht die Episode geschaut hast. Wie angekündigt kümmere ich mich heute um die Mission mit Gerissen-wie-die-Nacht bzw. Sharp-as-Night im Englischen, ein wesentlich handlicherer Name. Wie dem aber auch sei, wir haben gar nicht so viele offene Enden mit dem Argonier wie ich ursprünglich annahm. Dadurch das seine Befreierin vorzeitig verstarb wurde ein Menge Drama heraus genommen und eigentlich bleibt nur noch der Telvanni-Meister der sich „der Erneuerer“ nennt. Das der Gute keinen echten Namen hat verwirrt mich ein wenig und ich hoffe wirklich das es einen guten Grund dafür gibt. Für den Moment haben wir aber gar keine Spur dorthin sondern nur zum ehemaligen Auftraggeber von Gerissen, ein Dunkelelf namens Federo Endril. Nebenbei wird noch das Konzept der universellen Briefpost eingeführt. Anscheinend gibt es auf ganz Tamriel ein funktionierendes Nachrichtensystem.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 22.09.2023 - #1855 - ##34 - S5
+  ```
+
 ##### #Nummer
 
 * Titel: ``

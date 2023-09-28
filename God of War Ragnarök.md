@@ -30,6 +30,21 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
+##### #2
+
+* Titel: `GoW Ragnarök - #2 - Björn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe übrigens wirklich versucht ein besseres Thumbnail für diese Episode zu finden, da der Anfang ja sehr aktionsreich ist, sogar vielleicht Eines das genau aus dieser Folge entnommen ist und den Titel visualisiert. Leider sind die sehr bewegten Zwischensequenzen eben das, sehr bewusst. Ich bin die Frames einzeln durchgegangen. Kein einziger davon ist scharf, das liegt wahrscheinlich an der Grafikengine und visuellen Tricks die hier oben drauf liegen, aber das ganze Bild ist sehr verwaschen. Das hat etwas sehr filmisches aber leider ist es auch nicht sehr gut geeignet geile Screenshots zu machen. Inhaltlich kann ich eigentlich kaum etwas sagen ohne die Gesamtsitutation zu beschreiben aber nur soviel: die Jagd nach dem Bären um die Bewegungsabläufe und ein paar schwache Gegner auf zu führen ist ganz nett gemacht. Und das „große“ Finale unserer Suche hat auch etwas. Jetzt müssen wir nur noch herausfinden was ich mit Björn überhaupt meine. Handelt es sich um einen mächtigen Nordmann der uns ganz abseits der ganzen Götter als Widersacher entgegengestellt wird? Ein großer Anführer der nicht unser Antagonist ist sonder ein eventuell Unterstützer?  Wir werden es sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 1, Aufnahme vom 21.09.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
 ##### #Nummer
 
 * Titel: ``

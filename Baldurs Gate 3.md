@@ -572,3 +572,113 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Sitzung 6, Aufnahme vom 18.09.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
+
+##### #38
+
+* Titel: `Baldur's Gate 3 - #38 - Priesterin Gutt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist absehbar, wir werden uns jetzt Stück für Stück bei den Besetzern der Goblinfeste durch morden bis niemand mehr steht. Es könnte allerdings eine Weile dauern bis wir damit fertig sind. Wesentlich leichter wäre unsere Aufgabe wahrscheinlich wenn wir anfangen würden mit irgendwelchen Leute zu reden anstatt direkt los zu schießen. Aber wo wäre da der Spaß? Außerdem haben wir ja bereits etabliert das nur ein toter Goblin ein guter Goblin ist, inkompatibel mit der modernen Gesellschaft. Also handeln wir entsprechend und stellen Fragen später. Ein Vorgehen das übrigens sogar halbwegs funktioniert weil wir ja mit Toten reden können, zumindest so ein wenig, in der Regel wollen sie ja nichts mehr mit ihren Mördern zu tun haben. Dennoch frage ich mich ob es nicht vielleicht einen Mittelweg gegeben hätte bei dem wir uns ein wenig klüger verhalten hätten ohne direkt die gesamte Feste gegen uns aufzubringen. Die Trommeln Stück für Stück zu zerstören wäre auf jeden Fall ein Weg gewesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 18.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #39
+
+* Titel: `Baldur's Gate 3 - #39 - Goblingefangene [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir werden später erfahren das Goblins anscheinend eine größere Menge an Viechern aufbewahren. Diese müssen gefüttert werden, von dem was wir bisher gesehen haben sind sie aber nicht die größten Jäger oder generell Leute die viel auf Organisation legen. Zum Glück gibt es eine einfache Lösung für die Probleme der Goblins. Man nimmt Gefangene und verfüttert diese dann später an die Goblins. Allerdings stellt sich mir ein wenig die Frage wer genau sich noch von Goblins gefangen nehmen lässt wenn sowieso klar ist das man nur als lebende Vorratskammer gehalten wird. Anscheinend ein Typ namens Volo, seines Zeichens wohl größter Barde der Welt. Ich habe ein wenig das Gefühl das das Risiko das er eingegangen ist ganz schön groß war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 18.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #`40
+
+* Titel: `Baldur's Gate 3 - #40 - Unterreich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin offensichtlich in Dungeon and Dragons nicht so bewandert und kenne mich wesentlich weniger mit der Welt aus als man es von jemanden erwarten würde der das Ganze auf Youtube spielt. Ich überlege wirklich ernsthaft ob ich genau wegen dieser Unerfahrenheit das gesamte „Projekt“ einfach fallen lasse. Welchen Mehrwert kann ich schon bieten? Wäre es nicht besser wenn hier jemand spielen würde der tatsächlich etwas hinzuzufügen hätte. Jemand der sich mit der Welt aus kennt und genau erklären kann was genau das Unterreich ist und wie es funktioniert. Dungeons steckt ja offensichtlich im Namen aber ich glaube nicht das das wirklich einer ist. Viel mehr handelt es sich wohl um einen Ort an dem eine gesamte Parallelzivilisation stattfindet. Ich weiß übrigens wirklich nicht wie das hier weg erklärt werden soll. Also rein von einer logischen Perspektive, irgendwann fällt man ja darauf zurück, und wir sehen hier eine gewaltige Höhle die kaum Stützpfeiler hat. Wie genau hält das alles und warum ist noch nicht alles eingestürzt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 18.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #41
+
+* Titel: `Baldur's Gate 3 - #41 - Erzdruide Halsin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mein kleiner Ausflug in das Unterreich wurde ja eigentlich nur dadurch bedingt das wir mitten in Goblinauslöschung in ein Loch gefallen sind. Aus irgendwelchen Gründen haben ja irgendwelche Selûne Anhänger ein tieferes Loch gegraben und ihren Tempel zufällig auf diesen Eingang gestellt. Ob die Absoluten das wussten oder zumindest in der tieferen Struktur den Tempel deshalb als Lagerstätte genutzt haben ist gar nicht einmal so klar für mich. Wie dem aber auch sei, wir sind zurück an der Oberfläche und befreien den örtlichen Bären aus seinem Käfig. Uns ist natürlich und selbstverständlich absolut klar um wem es sich um diesen Bären handelt aber die Goblins haben das scheinbar nicht vollständig durchdringen. Oder zumindest nicht alle von ihnen. Das Handeln von Goblins ist aber auch schwer nach zu vollziehen. Damit verschieben wir aber die Erkundung des Unterreiches definitiv auf einen anderen Tag. Sicherlich kommen wir aber zurück, schließlich gibt es dort Erfahrungspunkte abzuholen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 18.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #42
+
+* Titel: `Baldur's Gate 3 - #42 - Sieg über die Goblins [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt sind wir dem Sieg so nahe. Auch wenn man es auf den ersten Blick vielleicht meinen möchte, wir sind nicht direkt böse. Schattenherz hat vielleicht einen nicht so überzeugenden Namen aber von dem was ich so zusammen gesammelt habe sind Shar-Anhänger im Großen und Ganzen zwar verachtet aber auch nicht einfach nur böse um böse zu sein. Die Wahrheit ist ja oft auch ein wenig komplexer als man es auf dem ersten Blick sehen kann. Also helfen wir. Und die beste Hilfe besteht darin das wir aus einem Meer von Blut wandeln und einen Goblin nach dem Anderen abschlachten um sicher zu stellen das sie keine Gefahr mehr darstellen. Allerdings finde ich es ein wenig fraglich das wir unbedingt die Anhänger alle umbringen müssen. Wenn wir Draußen und Drinnen alle kleinen Goblins die Lebenszeit verkürzen hätten wir wohl auch kein Goblinproblem mehr. Aber das ist auch nicht so wichtig, wir machen einfach Beides und dann schauen wir mal wie es mit der Lust aussieht irgendwelche Druiden zu bedrohen. Unsere letzte Widersacherin ist eine Drown der Absoluten, Wächterin der Nacht Minthara, in einem anderen Leben hätten wir vielleicht ihr Freund sein können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 18.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #43
+
+* Titel: `Baldur's Gate 3 - #43 - kleine Siegesfeier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ziemlich wichtig die kleinen Siege zu feiern. Wenn man ewig dem großen Erfolg, dem einen, alles definierenden Moment hinter her jagt kann es durchaus sein das man lange bevor es soweit ist aufgibt weil sich der große Erfolg, wenn überhaupt, erst nach vielen Jahrzehnten einstellt. Ich habe absolut keine Ahnung wie lange Halbelfen so leben aber der Wurm in unserem Kopf verhindert wahrscheinlich eh das wir alt bevor wir irgendwelche großen Ziele erreichen. Daher feiern wir heute ein wenig kleiner und freuen uns das wir die Tieflinge von der Goblinbedrohung gerettet haben. Interessanterweise ist jedes einzelne Thumbnail für die Episode heute ein Tiefling bzw. Wyll der anscheinend offiziell jetzt ein Teufel ist aber eher aussieht wie ein Tiefling wie ich finde. Aber hey, hoch die Tassen und schauen inwieweit wir das leben genießen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 25.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

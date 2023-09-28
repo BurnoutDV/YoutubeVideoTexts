@@ -1315,12 +1315,95 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
 
-##### #Nummer
+##### #88
 
-* Titel: ``
+* Titel: `Jedi Survivor - #88 - Nova Garon [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Im letzten Spiel haben wir auch relativ am Ende einen Ort betreten der vorher nicht zugänglich gewesen ist. Anscheinend wiederholt sich das Muster, es irritiert mich aber ein wenig das wir hier noch irgendwelche Gegenstände looten können. Davon einmal abgesehen sehen wir eine gewaltige Basis des Imperiums. Später wird sich noch herausstellen das es sich in Wirklichkeit eigentlich um ein Lager eines Zweiges der imperialen Überwachung handelt, scheinbar dem ISB. Defacto ist das so etwas wie die nicht so geheime Imperiumspolizei die halt Spionage und staatliche Gewalt verbindet. Nova Garon ist nicht direkt ein Hauptquartier aber eine lokale Verwaltungsbasis. Dennoch erscheint sie mir doch ein wenig gewaltig. Wir erinnern uns das das Imperium noch gar nicht so lange aktiv ist, knapp ein Jahrzehnt. Und doch gibt es hier eine gewaltige Niederlassung die ziemlich ausufernd aussieht. Wann wurde all das hier erbaut? Ist es nicht irgendwie schwierig Materialien in den Weltraum zu schleppen, wo kamen die ganzen Arbeiter her? Das ist ja keine Pyramide wo man ein paar Bauern die auf die Nilflut warten abstellt sondern hoch technische Arbeit für die es Experten braucht. Experten die man entsprechend nicht einfach nach getaner Arbeit entsorgen kann. Und wir dürfen davon ausgehen das das hier nur eine Basis ist, eine von ganz vielen. Das haut irgendwie alles nicht hin und ich würde mir wirklich wünschen Star Wars würde irgendetwas dafür tun die Welten halbwegs glaubhaft zu betreiben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 19.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
   ```
+
+##### #89
+
+* Titel: `Jedi Survivor - #89 - Lank Denvik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Imperium ist nicht alt. Selbst zu seiner Hochzeit war es grade einmal 20 Jahre her das die alten Jedi gefallen sind und Befehl 66 ausgeführt wurde. Die Leute die das Imperium in all seinen Feinheiten angetrieben hat müssen irgendwoher gekommen sein. Das Imperium, das aus anscheinend ausschließlich Menschen besteht, meistens Männer, glatt rasiert mit einem gewissen Hang zur Autorität und gleichzeitig Korruption. Das Imperium das in tausenden Welten existiert und wirkt. Das ist eigentlich nur möglich wenn das Personal auch vorher schon irgendwie da war und sich nur eine kleine Rasur zu gelegt hat. Dieses Thema wird in den mir bekannten Medien leider nie aufgefasst aber jetzt wo ich so darüber nachdenke ist das eigentlich ziemlich interessant. Nach dem zweiten Weltkrieg sind viele Altnazis in Deutschland nicht in den Ruhestand gegangen. Das waren Richter, Polizisten oder Verwaltungsbeamte die gebraucht wurden. Ein großer Punkt der 68er Generation. Die Nazis sind nie wirklich aus dem Apparat gegangen. Effiziente Verwaltung kommt nicht von irgendwoher, die Leute die unter einer rechten Regierung den Laden geschmissen haben taten dies davor unter einer demokratischen. Die Kultur stammt aus dem Kaiserreich. Und so muss ich annehmen das das Imperium, das zumindest einige leichte Anleihen einer nationalistischen Bewegung des 30er Jahre Deutschlands hat, ebenso Personal aus den Ruinen der galaktischen Republik rekrutiert hat. Irgendwann vor 40 Jahren hat also ein junger Lank Denvik seine Karriere als Kommandant einer ISB-Station als kleiner Kadett angefangen. Welche Entscheidungen wohl dazu geführt haben das er dort gelandet ist wo er jetzt ist? Hat er Stück für Stück die Moral über Bord geworfen oder hatte er nie welche? Gab es einen inneren Konflikt oder war da nichts zu korrumpieren. Hat sich eigentlich nichts an der Person selbst geändert und nur die Uniform wurde getauscht, oder gab es eine Entscheidung. Wie viele Andere haben diese Entscheidung getroffen, und was geschah mit jenen die einen anderen Weg wählten? Star Wars kann diese Fragen stellen, aber nicht beantworten. Leider.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 19.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #90
+
+* Titel: `Jedi Survivor - #90 - Unter der Uniform des Feindes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Uniformen sind etwas Herrliches. So viel worüber man reden kann. Uniformen erzeugen Einigkeit wo vorher keine zu sehen waren. Es erleichtert es so sehr „wir“ und „die“ zu definieren. Es macht es so einfach sich einer Gruppe zugehörig zu führen. Es nimmt ein Stück Individualismus und fügt einer Person einem Ganzen hinzu. Eine einsame Uniform erlaubt immer noch die Zuordnung. Es ist quasi das All-in-One Vorurteilspaket für Leute die wenig nachdenken wollen. Es ist außerdem eine wunderbare Schwäche die man ausnutzen kann wenn man sich die Annahme der Autorität der Uniform zu Nutzen macht. Eine Gruppe Uniformierter wirkt einschüchternd, eine Uniform mit Bedeutung und Hierarchie kann ein ganzes System auf das bloße Ansehen reduzieren. Oder angesehen werden. Ausweisdokumente können durch gelebte Kultur, Obrigkeitshörigkeit und Gehorsam ausgetauscht werden. Modernere Armeen und Organisationen sind natürlich in dieser Hinsicht ein wenig weiter entwickelter. Das Imperium hingegen scheint im Kern immer noch eine gewisse preußische Gehorsamkeit zu besitzen, und für alles Andere hat man ja die Macht. Ob sich Karl irgendwie falsch fühlt die Uniform seines Feindes zu tragen anstatt die der toten Kampfmönche denen er einst angehörte?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 19.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #91
+
+* Titel: `Jedi Survivor - #91 - Ausrichtungskontrollzentrum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser kleiner Spaßausflug nach Nova Garon ist vorbei, wir haben immer noch exakt null Kompasse und die Gesamtsituation ist nicht signifikant besser geworden außer das wir benutzt worden waren. Zum Glück offenbart sich anscheinend eine alternative Lösung die wir jetzt stattdessen anstreben können und die uns technisch gesehen von Anfang an zur Verfügung stand. Sie war nur ziemlich riskant. Soweit ich das aber verstanden haben reicht ein Durchflug des Abyss nicht aus um daraus einen Kompass zu erstellen. Wie genau besagter Kompass übrigens funktioniert wird nicht weiter erklärt. Es ist nur ein Gerät das man anscheinend irgendwie nachbauen kann und damit fliegt es sich problemlos durch den Abyss was normal nicht möglich ist. Außer, man hat drei Stationen die man genau darauf ausrichtet und man dann den mächtigen Energiestrahl folgt der uns den Weg bahnt. Wie genau das alles funktioniert weiß ich auch nicht, aber es scheint so als wären meine vielen Stunden der Arbeit in den verschiedenen Kammern der Hohen Republik nicht ganz umsonst gewesen. Stellt sich doch glatt heraus das wir sowie so hin gemusst hätten. Ich bin übrigens ein wenig vom Imperium enttäuscht in diesem Teil. Klar, wir hatten ein paar Probleme mit ihnen, aber dafür das sie die Galaxie quasi im Würgegriff haben merke ich nicht viel von ihrer Allmacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 19.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #92
+
+* Titel: `Jedi Survivor - #92 - Flug nach Tanalorr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An sich ist das grobe Zeug ja schon bekannt. Kontrollstation, Leitstrahl, wir fliegen durch. Da es ein komisches Ende wäre wenn wir auf einmal alle im Weltraum verloren gehen würden brauchen wir eigentlich gar nicht weiter darüber reden. In dem Moment in dem klar wurde das wir die Reise antreten war auch klar das es entweder klappt oder irgendwas verhindert das wir abheben. Abheben schaffen wir, das Thema ist also durch. Kommen wir zu einem anderen Thema: Logistik. Nehmen wir einmal an wir haben am Ende den Schlüssel nach Tanalorr, das ist nicht unbedingt gegeben, es könnte ja durchaus sein das dieser während des Kampfes zerstört wird und wir damit auf dem Planeten für absehbare Zeit stranden. Aber nehmen wir an wir würden ihn bekommen. Was dann? Wir bauen ein neues Netzwerk auf das darauf beruht das unsere Zentrale nicht einnehmbar ist weil nur wir die gefährlichen Untiefen durchfliegen können die der Abyss darstellt. Soweit so gut. Aber wir führt man das dann durch, wenn auch nur ein einziger Schlüssel verloren geht war es das gewesen. Ein entsprechend motivierter Gegner kann einen einzigen Fehler zu unser aller Untergang verwandeln. Und selbst wenn das Imperium nicht direkt aufmerksam wird so spricht eine Menge dafür das es irgendwann bemerken wird das etwas nicht stimmt. Und selbst wenn nicht sofort ein Schlüssel verloren geht, irgendwann wird es passieren. Die Logistik einen leeren Planeten komplett zu versorgen ist nicht einfach. Wir wissen das man mit einem kleinen Schiff durch kommt, und wir wissen auch das bereits ein Tempel errichtet wurde. Baumaterial wurde also transportiert, aber nicht wie viel genau. Gibt es vielleicht harte Grenzen was man transportieren kann? Und wie sicher ist dieser Kompass wirklich? Vielleicht geht ja auch ein von hundert Schiffen trotzdem verloren. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 19.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+##### #93
+
+* Titel: `Jedi Survivor - #93 - das Ende der Reise [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und das ist dann auch die letzte Episode. Das Ende des Weges, Abschluss einer Reise. Wir haben auf dem Weg Leute kennen gelernt, verloren, verabschiedet und sind wahrscheinlich auch ein Stück daran gewachsen. Man kann nicht sagen das Cal Kestis das Härteste aller Leben hat aber er hat sich schon einiger Bedrohungen auf seinem Weg gestellt. Und damit sind wir dann auch auf Tanalorr angekommen und schließen ein paar Stränge. Bevor wir das aber tun stellen sich noch ein paar schwierige Fragen. Eine davon ist zum Beispiel wie genau sich Bode das eigentlich vorgestellt hat. Tanalorr ist ein Planet ohne Zivilisation, ohne Infrastruktur oder irgendwelcher Technik. Das einzige das überhaupt da ist sind ein paar alte Steine die von den Jedi der hohen Republik in Auftrag gegeben wurde. Dahinter könnte durchaus noch ein wenig Technik stehen aber ich habe das nicht so verstanden das es sich um eine vollkommen autarke Enklave handelt. Auch wissen wir von dem Planeten eigentlich nichts. Vielleicht sieht ja alles ganz traumhaft aus aber letztendlich wächst nichts auf der Oberfläche. Was war also Bodes Traum? Alle paar Wochen kurz irgendwo hin fliegen und Vorräte kaufen? Wie finanziert er das? Und fällt das nicht auf? In der Datenbank des Imperiums sollte er sein, und außer vor überraschenden „no-knock-raids“ schützt ihn das alles überhaupt nicht. Fragen über Fragen. Die wir übrigens nicht klären. Das hier ist die letzte Episode, es gibt einen Ausblick, es gibt ein wenig Abschluss aber alle Fragen sind wirklich bei Weitem nicht geklärt. Aber wir wissen, zu Episode 9, wenn Rei den Imperator erneut umbringt, da gibt es keinen Karl, niemand hat den Namen Kestis gehört. Wenn Luke den Todesstern sprengt hört man nichts von anderen Jedi. Wenn der Mandalorianer durch die Welt sieht ist Asokah alleine.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Der Dienstagsslot, kein besonderes Thema, neue und alte Spiele.
+  Sitzung 13, Aufnahme vom 19.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN5V8Dsbhcq32bCPXG5LJYB
+  ```
+
+## Fazit
+

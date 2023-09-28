@@ -9968,6 +9968,91 @@
   Aufnahme vom 22.09.2023 - #1855 - ##34 - S5
   ```
 
+##### #1856
+
+* Titel: `Let's Play ESO #1856 ##35 - Federo Endril [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 35 des Nekrom DLC - Sitzung 5
+  
+  Soweit ich das verstanden habe ist Mord immer noch relativ illegal in so gut wie allen Ländern die wir sonst noch so bereisen. Von dem was ich so verstanden habe was Gerissen-wie-die-Nacht so hauptberuflich getrieben hat hat er wohl gelegentlich, öfter Leute umgebracht. Wie genau kann es also sein das der Typ der ihm Aufträge erteilt hat nicht regelmäßig Besuch von der Morag Tong erhält weil er in ihr Gebiet eindringt oder zumindest von den örtlichen Authoritäten. Oder ist das bei den Telvanni so das es eigentlich ziemlich egal ist was das geschriebene Gesetzt sagt solange die richtigen Leute die Aufträge erteilen? Wie dem auch sei, in einer solchen Umgebung kann man sich keine Fehltritte erlauben, und Federo hat sich scheinbar mindestens einen Fehltritt erlaubt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 22.09.2023 - #1856 - ##35 - S5
+  ```
+
+##### #1857
+
+* Titel: `Let's Play ESO #1857 ##36 - schwaches Kompromat [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 36 des Nekrom DLC - Sitzung 6
+  
+  Wenn man Leute erpressen will hat man in der Regel irgendwelche kompromittierendes Material das man benutzt um ein Ziel zu erreichen. Siehe auch Greedfall#84 für eine längere Beschreibung dazu (gtCIywXxBq0). Die Möglichkeiten von Erpressung sind erstaunlich eingeschränkt je nachdem was für Material man hat. Wenn man eine sehr konservative Gesellschaft hat nutzt man gerne junge, attraktive Frauen um männliche Politiker in außerehelichen Situationen zu bringen, das kann aber auch nach hinten los gehen wenn die entsprechende Person überraschend wenig Scham empfindet oder aber sich seiner Wählerschaft sehr bewusst ist. Es gibt da viele Parameter. Egal wie gut das Material ist, alles hat seine Grenzen. Klar kann man Leute mit Peinlichkeit weit bringen aber irgendwann erscheint der Verlust des eigenen Ansehens vielleicht einfach geringer als Landesverrat. Man fängt auch normalerweise langsam an. Auch beliebt ist das Gegenattentat, entweder direkt durch bezahlte Klingen oder eigenes Kompromat. So oder so ist die Qualität entscheidend. Das Material das uns heute vor liegt ist so schwach das es den Geschmack von vierfach verwässerter Suppe schwächen würde. Immerhin ist es ein Hinweis, aber als Material zur Erpressung absolut ungeeignet.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 24.09.2023 - #1857 - ##36 - S5
+  ```
+
+##### #1858
+
+* Titel: `Let's Play ESO #1858 ##37 - Tyranit-Branntkalk [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 37 des Nekrom DLC - Sitzung 6
+  
+  Heute klären wir wichtige Fragen. Tatsächlich sogar nicht nur was es mit Gerissen-wie-die-Nacht auf sich hat sondern auch aus welchen Material die dunkeln Anker von Molag Bal bestehen. Das kommt ein wenig unerwartet aber ich freue mich immer wieder wenn es tiefere Erklärungen zu vorher nicht näher erläuterten Umständen gibt. Klar, es birgt immer noch das Risiko das wir später Dinge erfahren die die Aussagen die wir heute sehen vollständig widersprechen und dann sind wir in einer schwierigen Lage was das Vertrauen in die Informationen angeht die wir heraus finden, ich sprach in der Vergangenheit öfter darüber das dies die Fähigkeit Theory-Crafting zu betreiben erheblich einschränkt. Und doch ist es faszinierend, dieses kleine Detail das auch andere Leute das Potenzial eines Metalls gesehen haben das aus einer anderen Welt stammte.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 25.09.2023 - #1858 - ##37 - S5
+  ```
+
+##### #1859
+
+* Titel: `Let's Play ESO #1859 ##38 - ferne, finstere Vergangenheit [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 38 des Nekrom DLC - Sitzung 6
+  
+  Unsere Hingabe zu Gerissen-wie-die-Nacht hört so schnell nicht auf, wenn man einmal an einer solchen Geschichte dran ist sollte man auch nicht zu schnell locker lassen finde ich. Insbesondere weil wir hier quasi eine kontinuirliche Geschichte erzählt bekommen die sich eigentlich ziemlich losgelöst von der eigentlichen Story befindet. Ich muss auch zugeben das ich von dem was Gerissen zugestoßen ist wesentlich faszinierter bin als das was draußen in der Außenwelt abgeht. Klar, eine kleine Geschichte, die Ambitionen einer einzelnen Person und wir als Beobachter von Außen, das alles ist nicht so bedeutend wie das Ende der Welt. Aber sein wir ehrlich, das Bretonen-DLC hat versucht kleine Brötchen zu backen und am Ende war dann doch wieder alles riesig groß. Da ist das Alles hier schon wesentlich angenehmer und familiärer. A pro pro Familie, auch hier gibt es Bewegung und wir müssen uns wohl schwierigen Fragen stellen, ganz vorne voran: wie viel der Erinnerungen die man ansammelt macht eine Person aus?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 27.09.2023 - #1859 - ##38 - S5
+  ```
+
+##### #1860
+
+* Titel: `Let's Play ESO #1860 ##39 - Gerissens Widerstand [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 39 des Nekrom DLC - Sitzung 6
+  
+  Die Fähigkeit mentaler Folter zu widerstehen ist bei Menschen unterschiedlich stark ausgeprägt, aber die Meisten sind wohl eher empfindlich dagegen. Meine kleine Küchenpsychologieerklärung dafür ist die das man schon gelegentlich physischen Schmerz ausgesetzt ist, manchmal vielleicht ziemlich starken, sei es durch Krankheit, Unfälle oder anderen weniger angenehmen Randbedingungen. Aber körperlich unversehrt wird man nur selten an seine Grenzen gebracht. In einer Welt der Magie ist mentale Widerstandskraft durchaus relevant, insbesondere wenn jeder zweite Zauberer damit anfängt Bezaubern, Gedanken lesen oder Emotionen beeinflussen zu werfen. In einer solchen Welt ist es imperativ in der Lage zu sein Paroli zu bieten und auch ohne Vorbereitung etwas Zeit heraus zu holen. Anscheinend ist Gerissen-wie-die-Nacht in der Lage besonders gut Widerstand zu leisten, sogar über den normalen physischen Rahmen hinaus. Leider haben wir bisher nicht erfahren warum dem so ist, was ihn so besonders macht. Aber das ist wohl auch die Frage die sich unser Widersacher der Stunde, Sondivel, fragt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 28.09.2023 - #1860 - ##39 - S6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

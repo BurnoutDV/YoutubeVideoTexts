@@ -10053,6 +10053,57 @@
   Aufnahme vom 28.09.2023 - #1860 - ##39 - S6
   ```
 
+##### #1861
+
+* Titel: `Let's Play ESO #1861 ##40 - Den Weg zur Freiheit erhellen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 40 des Nekrom DLC - Sitzung 6
+  
+  Freiheit ist ein wichtiges Gut. Wenn man selbst in Freiheit lebt ist es wahrscheinlich schwierig sich in die Thematik wirklich rein zu fühlen, und wie bei so vielen Sachen merkt man erst wie sehr man etwas hatte wenn es weg ist. Zum Beispel Freiheit. Im Falle der Argonier von Sondivel wurden diese in die Sklaverei geboren. Das macht das Schicksal nicht leichter aber das Perfide an systemischer Sklaverei ist ja das das der Sklave selbst eigentlich gar nicht mehr weiß das es eine Alternative gibt und Hilfe eigentlich nur von Außen kommt. Weiter ist es ziemlich schwierig zu entkommen wenn man durch offensichtliche, physische Merkmale von der Restbevölkerung zu unterscheiden ist. Oder wenn Personen mit eben jenen Merkmalen nicht frei herumlaufen. Das macht die Suche nach Freiheit ein wenig kompliziert. Tamriel ist allerdings ein großer Kontinent und die Lande der Telvanni nicht unendlich. Das ist aber auch nicht so wichtig wenn bestimmte Dunkelelfen Fraktionen der Meinung sind das sie ihren „Besitz“ überall hin verfolgen können. Dann braucht es definitiv eine übergeordnete Macht die für Klarheit sorgt. In dieser Geschichte sind wir die übergeordnete Macht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 28.09.2023 - #1861 - ##40 - S6
+  ```
+
+##### #1862
+
+* Titel: `Let's Play ESO #1862 ##41 - Elistrenne Sternblume [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 41 des Nekrom DLC - Sitzung 6
+  
+  So richtige, echte klassische Elfennamen haben wir wirklich selten. Ich erwähne das nur mal so nebenbei weil ich es ja auch im Video anspreche. Beim Duschen ist mir dann wenig später nach dieser Aufnahme der Gedanke gekommen das es eigentlich sehr schade ist das kein Spiel von dem ich weiß lokalisierte Namen anbietet. Insbesondere so Namen wie „Hammer der Gnade“, „Bringer des Frühlings“ oder „Elbenfreund“ sind halt nicht besonders gut lokalisierbar. Die meisten Roleplay Server von denen ich weiß sind in einer Sprache aber hier gibt es ja auch Abstufungen. Wenn man also sein leichtes RP betreiben will kann man da andere Spiele schwerlich mitnehmen. Wäre es nicht fantastisch wenn man einfach für jede Sprache die man irgendwie grob spricht seinen Namen hinzufügen könnte? Das würde natürlich Schwierigkeiten machen in dem Moment in dem sich die Leute nicht daran halten und irgendwelche Beleidigungen in anderen Sprachen nehmen oder die Frage aufkommt wie oft man das ändern darf. Die zusätzliche Option einen Namen peinlich falsch zu übersetzen kommt aber auch hinzu.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 28.09.2023 - #1862 - ##41 - S6
+  ```
+
+##### #1862
+
+* Titel: `Let's Play ESO #1862 ##42 - Meister Sondivel* [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 42 des Nekrom DLC - Sitzung 6
+  
+  Neben der richtigen Aneinanderreihung der Worte ist es auch eine große Fähigkeit als Autor die korrekte Länge für das eigene Werk zu finden. In der Regel hat man für so etwas auch Editoren die dafür sorgen das Beschreibungen von Orten nicht zu ausufernd werden oder Dialoge nicht zu viel Fluff enthalten. Die Länge einer Geschichte zu bestimmen fällt allerdings mehr in den Aufgabenbereich des Autors, es ist wohl schwierig Kapitel 72 im Nachhinein weg zu streichen wenn man sich in Kapitel 73 darauf bezieht. Oft sehe ich das eine Geschichte ein wenig zu viel erzählt, ich würde an der Stelle behaupten das das Medium Manga und Animé hier besonders gerne das Opfer ist. Externe Kräfte sagen das sich etwas gut verkauft also wird die Geschichte weitergeführt obwohl eigentlich alles durch ist. Ich weiß nicht ob das hier auch der Fall ist, ob irgendein Schreiber sich eine gute Geschichte für Gerissen-wie-die-Nacht ausgedacht hat und dann nur Budget für drei  Begleitermissionen erhielt, aber ich meine das es eine zu wenig ist. Die Geschichte um Magister Sondivel fühlt sich nicht zu Ende erzählt an. Es gibt offene Punkte, wir haben wenig über unseren Widersacher erfahren und über unser ursprüngliches Ziel Reynila und ihr Tun für den Telvanni wissen wir auch nur Bruchstücke.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 28.09.2023 - #1863 - ##42 - S6
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -663,14 +663,94 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #44
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #44 - Personalrotation [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich spiele auf dem mittleren Schwierigkeitsgrade, trotzdem sind einige Kämpfe ziemlich schwer die ich mir aufgebürdet habe. Das liegt aber auch daran das ich nicht besonderes klug bin und immer noch viel zu stumpf an Situationen herangehe anstatt davon aus zu gehen das hier jemand eine Geschichte geschrieben hat die es durchaus belohnt ein wenig klüger die Dinge anzugehen. Das merke ich immer wieder wenn ich mit einem zweiten Charakter spiele. Mit diesem Charakter ist mir auch aufgefallen das die Schattenherz die ich nicht kontrolliere und Lae’zel sich ziemlich in den Haaren haben. Das ist in diesem Spieldurchlauf nicht der Fall, größtenteils weil ich halt Schattenherz bin und weniger rumstänker.  Das erzähle ich deswegen weil wir heute besagte Gith’yanki wieder mit ins Team nehmen um uns um eine andere Quest zu kümmern bei der es vielleicht vom Vorteil wäre sie dabei zu haben. Das bedeutet leider auch das Karlach auf der Ersatzbank sitzt, im Nachhinein übrigens nicht die beste Entscheidung aber das konnte ich ja nicht wissen. Trotzdem finde ich es schön das ich Baldurs Gate 3 so spielen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 25.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #45
+
+* Titel: `Baldur's Gate 3 - #45 - Gnollüberfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe komplett vergessen was Gnolle sind. Wenn ich mich sehr bemühe mich zu erinnern dann weiß ich das es welche in Warcraft 3 gab, und wahrscheinlich dort auch nur weil das ursprüngliche Warcraft sich seine Fantasy-Welt woanders zusammengeklaut hat. Ich habe nie so richtig darüber nachgedacht, aber die kleinen Charakterfenster von Gnollen waren in der Tat immer Viecher die doch Hyänen ein wenig ähnlich aussahen. Nein, ich habe nie auch nur einen Gedanken darüber verschwendet, aber als wir heute eine anscheinend überfressende Hyäne sehen, ein Tier das ich übrigens hier in der Gegend überhaupt nicht erwartet hätte, da fügt sich dann alles zusammen und ich weiß was Gnolle genau sind. Größtenteils aber auch weil meine Charaktere das wissen und mich über diesen Umstand informieren. Stellt sich doch glatt heraus das Gnolle durchaus unfreundliche Zeitgenossen sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 25.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #46
+
+* Titel: `Baldur's Gate 3 - #46 - verbotene Schätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und hier haben wir dann eine ganze Episode in der ich mich gute 30 Minuten damit auseinander setze was in einer Truhe drin ist ohne die Konsequenzen dafür tragen zu wollen. Das ist deswegen erwähnenswert weil ich damit ein wenig meine eigenen Regeln verletzte. Damit es so ansatzweise spannend bleibt versuche ich eigentlich nicht andauernd und bei jeder Gelegenheit die irgendwie doof ist zu laden. Dazu zählt dann halt auch nicht Würfe zu savescummen oder schlecht verlaufende Kämpfe so zu nehmen wie sie fallen. Das könnte sich im nach hinein natürlich noch rächen wenn Ressource alle sind die ich vorher verbraucht habe. Für den Moment ist das aber nicht so wichtig, ich mache eine Kiste auf weil ich neugierig bin. Und damit senke ich ein wenig den Wiederspielwert für mich, und den Spielwert für dich als Zuschauer. Also irgendwie. Eventuell würde ich ja diese Kiste noch einmal öffnen, aber halt im nächsten Durchlauf. Und vielleicht fragst du dich ja was in der Kiste ist und machst dafür das Spiel noch einmal an. Und das wäre ja wirklich in Larians Sinne oder? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 25.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #47
+
+* Titel: `Baldur's Gate 3 - #47 - Waukeens Ruh [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Waukeehs Ruh ist eine Raststätte, Gaststätte, Taverne. Ort an dem man für die Nacht seine Kutsche parken kann. Die Logistik einer solchen Einrichtung ist für mich nicht so wirklich greifbar. Kleine Exkurs-Überlegung. Bauern bauen irgendwelche Nahrungsdinge an und liefern diese in die Stadt. Eine Gaststätte sitzt aber am Weg aber nicht direkt in der Stadt. Dennoch muss es für Reisende ausreichend frische Lebensmittel und Versorgung für Tier und Mensch geben. Weiter bietet man gewiss auch ein paar Annehmlichkeiten und praktische Gegenstände für die Reise an. Die Versorgung solcher Waren muss also sichergestellt werden und gleichzeitig müssen besagte Reisende dies auch finanzieren. Dann muss noch Personal angestellt werden und ebenfalls unterhalten. Waukeens Ruh ist aber eine alleinstehende Taverne. Ich frage mich wirklich wie das funktionieren soll. Klar, auf einer langen Strecke muss man irgendwann einmal Rast machen, aber wie genau wohnt das Personal hier? Rotiert man die Leute regelmäßig mit ihrem Heimatdorf oder finden sich genügend Aussätzige damit das irgendwie funktioniert? Immerhin ist es schön einmal eine solche Gaststätte in 3d zu sehen. All die Überlegungen von Oben sind übrigens grade nicht so relevant weil die Bude brennt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 25.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #48
+
+* Titel: `Baldur's Gate 3 - #48 - Drachensichtung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man könnte meinen das hier ist Episode 5 oder so als wir am Fernglas standen und in weiter Ferne einen Drachen gesehen haben. Aber weit gefehlt. Es stellt sich heraus das auch die sehr militärischen Githyankie ein wenig ineffektiv sind wenn es darum geht ein ziemlich kleines Artefakt zu finden. Daher fliegen sie immer noch im Kreis um die Landschaft und suchen nach irgendwelchen Auffälligkeiten die sie dann irgendwie zum Artefakt führen sollen. Wir haben für den Moment noch nicht alle Informationen, aber es sieht ein wenig so aus als wäre der einzige Grund das der Nautoloid angegriffen wurde der war das Schattenherz mit dem Artefakt an Bord war. Aber das wissen wir natürlich nicht wirklich und es handelt sich nur um eine Vermutung meinerseits. Das wiederum stellt aber wieder die Frage für wen genau dieser Drachenreiter genau arbeitet. Weil die Larve die wir haben scheint vom gleichen Stamm wie die zu sein die das Absolute darstellt. Eine Larve an der auch allgemeines Interesse herrscht. Klar ist aber auch das er nicht für die Königin der Gith unterwegs ist. Es ist wirklich absolut offen wie viele Fraktionen hier am Werk sind, klar ist aber auch das wir mitten drin ist. Wie gut das wir im Lügen und Täuschen talentiert sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 25.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #49
+
+* Titel: `Baldur's Gate 3 - #49 - Überraschungen im Unterreich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf der Oberfläche nähern wir uns langsam aber sich den Grenzen der Welt. Das macht mich ein wenig melancholisch. Es gibt keine schwarzen Stellen mehr auf der Karte (aus irgendwelchen Gründen sagt man normalerweise „weiße Stellen“) die wir noch nicht betreten haben. Das heißt aber auch das wir wohl quasi bereit für das nächste Kapitel sind. Und hätten wir nicht den einen Zugang zum Unterreich im Tempel von Selûne gefunden hätten würden wir jetzt auch schon auf halben Weg zu den Türmen des Mondaufganges sein, durch das verfluchte Land. Eventuell hat uns auch noch ein gewisser Druide vor den Gefahren der Reise gewarnt und einen alternativen Weg vorgeschlagen. Und doch, man hätte das hier leicht verpassen können. Was wir aber auch wissen ist das ein Weg von einem doch recht starken Monster bewacht wird, und ein anderer zumindest mit einem Überfall beginnt. Allerdings sind wir jetzt stärker als zuvor, das könnten wir also ausnutzen und vielleicht noch einmal einen Versuch wagen. Wir gehen also in den Untergrund und werden leicht überrascht...nicht nur von den Pilzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 25.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #Nummer

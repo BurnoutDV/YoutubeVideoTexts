@@ -424,12 +424,12 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
 ##### #28
 
-* Titel: `Baldur's Gate 3 - #28 - Monddorf [Let's Play; ger; Blind]`
+* Titel: `Baldur's Gate 3 - #28 - Mondhafen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Technisch gesehen waren wir bereits im Monddorf und waren dort auch in der Lage die örtliche Bevölkerung (Goblins) davon zu überzeugen das wir nur auf der Durchreise und das sie uns gefälligst in Ruhe lassen sollen. Das nutzen wir jetzt natürlich aus um eine Tasche Goblins nach der anderen aufzureiben um die künstlichen Erfahrungspunkte zu konsumieren die sich tief im Fleisch der kleinen Monster verbergen. Letztendlich sind wir natürlich das wahre Monster aber das muss ja die Öffentlichkeit nicht wissen. Nichts ist heilig genug wenn es Erfahrungspunkte verspricht und die beste Methode mich zur Gnade zu bringen ist wenn es anstatt deiner Haut einen besseren Fisch gibt. Kurzum, das hier könnte auch „das Massaker vom Monddorf“ heißen aber die Goblins wohnen ja nicht wirklich hier. Von allem was wir so sehen können ist die letzte, reguläre Bevölkerung schon vor einiger Zeit ausgeflogen und die Gobbos plündern nur noch die spärlichen Reste von dem was einst war. Nicht das wir ihnen das freiwillig überlassen würde.
+  Technisch gesehen waren wir bereits in Mondhafen und waren dort auch in der Lage die örtliche Bevölkerung (Goblins) davon zu überzeugen das wir nur auf der Durchreise und das sie uns gefälligst in Ruhe lassen sollen. Das nutzen wir jetzt natürlich aus um eine Tasche Goblins nach der anderen aufzureiben um die künstlichen Erfahrungspunkte zu konsumieren die sich tief im Fleisch der kleinen Monster verbergen. Letztendlich sind wir natürlich das wahre Monster aber das muss ja die Öffentlichkeit nicht wissen. Nichts ist heilig genug wenn es Erfahrungspunkte verspricht und die beste Methode mich zur Gnade zu bringen ist wenn es anstatt deiner Haut einen besseren Fisch gibt. Kurzum, das hier könnte auch „das Massaker vom Monddorf“ heißen aber die Goblins wohnen ja nicht wirklich hier. Von allem was wir so sehen können ist die letzte, reguläre Bevölkerung schon vor einiger Zeit ausgeflogen und die Gobbos plündern nur noch die spärlichen Reste von dem was einst war. Nicht das wir ihnen das freiwillig überlassen würde.
   
   Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
   Baldur's Gate 3 auf dem Montags Slot.
@@ -753,7 +753,127 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #50
+
+* Titel: `Baldur's Gate 3 - #50 - Pilzgäste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einer anderen, nicht näher genannten Fantasy-Welt ist es so das alles was ein wenig zu viel Macht bzw. Magie inne hat Intelligenz entwickelt. Man könnte sich das Ganze dann so vorstellen das Bewusstsein etwas ist das inhärent in der Welt drin steckt und ständig versucht sich irgendwie zu manifestieren. Quasi eine eigenständige Kraft. Wenn ich den Erzählungen von Lazarus richtig zu gehört habe dann ist dem auch so. Wer stirbt wird zu einer formlosen Masse an Leben aber die muss halt irgendwo hin. Und so ist alles was von Magie erfüllt oder auch nur berührt ist ziemlich schnell bewusst und eventuell auch intelligent. Wie genau das bei den Pilzen funktioniert kann ich auf den ersten Blick nicht sagen aber offensichtlich gibt es hier Intelligenz, wenn auch nur etwas konzentrierter. Und so sind wir heute zu Gast bei Pilzen. Auch eine neue Erfahrung an die ich vorher gar nicht gedacht habe das ich sie haben könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 26.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #51
+
+* Titel: `Baldur's Gate 3 - #51 - traumhafte Begleiter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ganz am Anfang haben wir einen Begleiter ausgewählt. An sich haben wir nur die äußere Gestalt dieser Person gewählt und alles Andere war irgendwie auch egal. Stellt sich doch glatt heraus das diese Person sogar noch einmal wichtig wird. Die Tatsache das wir diesen jemand selber gewählt haben lässt natürlich einige Spekulation zu. Zum Beispiel wer genau das da eigentlich ist und warum diese Person so unbedingt möchte das wir die Kräfte unserer Larve benutzen. Die Person kommt gönnerhaft rüber und von allem was wir sehen können wirkt sie so als würde sie uns helfen wollen. Das ist ein wenig verdächtig, wir erinnern uns daran das ein sterbender Illithid uns dazu bringen wollte das wir ihn lieben. Warum sollten wir also irgendwelchen Traumgestalten trauen, insbesondere wenn uns versichert wird das wir uns nicht verwandeln werden? Wie genau möchte diese Person aus der Entfernung das bitte erreichen? Und viel verdächtiger, jeder unserer Begleiter der eine Larve im Kopf hat, hat den gleichen Traum, immer ein anderer Begleiter. Das wirkt ein wenig verdächtig oder? Unser „Gönner“ merkt doch sogar an das er wenig Zeit hat, aber genügend Zeit für alle Leute im Camp?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 26.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #52
+
+* Titel: `Baldur's Gate 3 - #52 - Vettel-Versprechen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen Gründen sind finstere Wesen nicht in der Lage ihre eigenen niederen Bedürfnisse zu unterdrücken. Ob es ein Djinn oder irgendwelche komischen Vogelviecher im Wald sind, es ist einfach nicht möglich einen vernünftigen Handel mit ihnen abzuschließen. Beim Geist in der Flasche ist das irgendwie noch verständlich, irgendwann hat ein mächtiger Magier diesen an ein Gefäß gebunden und muss jetzt Wünsche erfüllen. Klar das er bzw. sie sich da gerne ein wenig wehrt und den Widerstand halt im Detail aufbaut. Aber die Rabenvettel geht ihre Handel aus eigenen Stücken ein und natürlich wenden sich nur die Verzweifelten an sie, und doch, kann sie einfach nicht leisten was sie verspricht oder sehen wir nur die Fälle in denen die Vettel nie vor hatte zu liefern weil das gewünschte technisch gesehen außerhalb ihrer Macht liegt sie aber dennoch zu stimmt? Können grüne Vettel nicht ablehnen und sind einfach nur stolz und verbergen dann ihre Unfähigkeit hinter einer Maske aus Arroganz und Niedertracht? Mein Mitleid hält sich in jedem Fall in Grenzen, zum Glück sind wir mittlerweile auch mächtig genug um hier klare Tatsachen zu schaffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 26.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #53
+
+* Titel: `Baldur's Gate 3 - #53 - Pilzesammeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Episode mit der Vettel war ja mehr eine Unterbrechung des Programms als alles andere, ein loser Faden den ich noch schnell zu Ende bringen wollte bevor ich mich woanders verliere. Und wenn ich mir die Dinge so anschaue, so war das nicht die schlechteste Idee. Leider habe ich auch das Gefühl das ich noch so einige Opfer der Vettel hätte retten können wenn ich nicht schon im Vorfeld versucht hätte mit blinden Aktionismus Leuten zu helfen. Die sind jetzt leider tot. Oder waren es vielleicht schon immer, so genau kann ich das echt nicht sagen. Zurück zu den Pilzen. Man kann echt von Glück reden das das Unterreich soviel selbstleuchtende Pilze hat, das macht es wesentlich einfacher zu sehen, auch wenn wir eine Gruppe aus Abenteurern haben die eh im Dunkeln sehen können, und halt Gale. Und wir verlieren uns natürlich, in den Pilzen, das kommt nicht überraschend, hätte ich nur trotzdem gerne vermieden. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 26.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #54
+
+* Titel: `Baldur's Gate 3 - #54 - Sussurverzauberung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Beim Spielen mit einem zweiten Char ist mir aufgefallen das ich, wenn ich richtig gut aufgepasst hätte, schon in Steilkliffs Werkstatt erfahren hätte was ich alles brauche und das ich die Rinde des Sussurbaumes nur im Unterreich finden kann. Seit dem ich in Mondhafen war ist aber durchaus ein wenig Zeit vergangen und ich bin nicht besonders gut darin meine Notizen auf ein Neues durch zu lesen. So sind wir ein wenig verwirrt und an den aktuellen Stand der Dinge angekommen. Also, Rinde von großen Baum macht es möglich ganz besondere Waffen zu erschaffen. Aus Spielgründen geht das aber nur für drei verschiedene Gegenstände, einem Großschwert, einem Dolch und einer Sichel. Ich weiß nicht wer freiwillig mit einer Sichel kämpft also bleiben eigentlich nur zwei echte Optionen. Und doch, schon interessant wie wir hier eine ganze besondere Waffe erschaffen können nur weil wir sehr aufmerksam waren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 26.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #55
+
+* Titel: `Baldur's Gate 3 - #55 - Strandzwerge im Unterreich [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Unterreich ist seine ganz eigene Welt. Es gibt bestimmt irgendwo ganz große Erklärungen wie das hier alles funktioniert und ich vermute einmal das die Deckenhöhe gar nicht so hoch ist wie es eigentlich von Außen aussieht. Und doch, hier gibt es Leben, und davon nicht grade wenig. Die Pilze haben wir ja schon getroffen, geflohene Gedankenschinder sind auch schon aufgetaucht und generell und überhaupt finden wir so einige Leute an jeder Ecke. Heute zum Beispiel Zwerge, die halten irgendwelche Halblinge gefangen die wir eigentlich ganz gerne befreien wollten aber bis jetzt ist das noch nicht passiert. Heute finden wir zum Beispiel die ersten Spuren dieser Halblinge, wenn auch ein wenig spät. Ob wir hätten schneller sein können? Ich bin übrigens ein wenig verwirrt wie motiviert die Zwerge waren unbedingt ihre Arbeitssklaven zurück zu holen. Wissen sie das sie sich in einer prekären Situation befinden und wollen daher vermeiden das überhaupt jemand von ihnen erfährt oder ist das einfach nur ein kulturelles Ding? Gleichzeitig heilen wir auch noch die Demenz einer Person. Ich weiß nicht ob das moralisch in allen Richtungen ein Sieg war, aber geistig zu verwesen halte ich für keinen guten Zustand.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 26.09.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #56
+
+* Titel: `Baldur's Gate 3 - #56 - Pilzkreis zur Oberfläche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es bisher irgendwie geschafft nur einen einzigen Weg in das Unterreich zu finden. Das ist erstaunlich wenn man bedenkt das es eigentlich wesentlich mehr Wege geben müsste. Die andere Seite eines Zentharim Fahrstuhles sahen wir ja schon, nur kein Weg dort hin zu kommen. Aber außer dem Abstieg unter der großen Festung der Selûne sah es bisher sehr dünn aus. Heute ist es endlich soweit, wir finden einen echte, benutzbaren Weg an die Oberfläche, und, wie ich annehmen möchte, auch einen Weg zurück wenn wir uns wirklich Mühe gegeben hätten. Es handelt sich um einen magischen Pilzkreis, ich möchte übrigens feststellen das Pilze auch in „echt“ gerne in Kreisen wachsen, das hängt mit der Art und Weise des Netzwerkes im Untergrund zusammen und ermöglicht keine übergangslose Transportation von einem Ort zum Anderen. Schade eigentlich. Teleporter-Problem einmal nicht beachtet. Und dann „finden“ wir auch noch einen kleinen Turm. Mehr dazu beim nächsten Mal, er ist nicht direkt bewacht aber frei zugänglich nun auch nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 03.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #57
+
+* Titel: `Baldur's Gate 3 - #57 - Lenores arkaner Turm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So wie Kinder Sandburgen am Strand aufbauen so neigen Magier anscheinend dazu hohe Türme zu errichten. Meistens finden wir die entsprechenden Bauwerke in einem desolaten Zustand. Oder in einem sehr neuen weil irgendjemand daran gedacht reparierende Magie zu erschaffen. Im Falle von Lenore, zumindest glaube ich das so die ehemalige Besitzerin heißt gibt es aber eine zentrale Energieversorgung die wohl technisch gesehen „Dampfkraft“ mittels Verbrennung von Ssusurblüten ist, ich weiß nicht was passiert wenn wir unseren gesamten Vorrat an Blättern rein werfen würden, aber eine Blüte scheint das gesamte Bauwerk zu betreiben. Das Einzige was autark betrieben wurde sind die verteilten Geschütztürme, respektive Magiegeschütztürme. Die sind anscheinend auch nach Jahrzehnten der Vernachlässigung in der Lage niedere Eindringlinge ziemlich effizient abzuwehren. Außer natürlich Astarion den Meister-Infiltrator. Aber gehen wir nicht zu weit mit diesem Gedanken. Das all diese Dinge irgendwie passieren werden ist ja klar, die Details sind ja das was die Geschichte ausmacht. Aber zurück zu Lenore und den Magiern. Warum genau bauen sie Türme? Warum im Unterreich, und wie? Ich würde ja spontan vermuten das man eine größere Anzahl an beschworenen Leichen hin stellt und dann geht es los, aber das ist dennoch Einiges an Arbeit. Es ist ja nicht so das nur weil man Magie benutzt alle Baumaterialien sofort zur Verfügung stehen. Oder gibt es spezialisierte Dienstleistungen für Magier die eine Unterkunft errichten wollen die Rohmaterial für einen guten Preis an wirklich jeden Ort bringen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 03.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #58
 
 * Titel: ``
 

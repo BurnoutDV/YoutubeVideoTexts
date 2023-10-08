@@ -165,6 +165,21 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
+##### #11
+
+* Titel: `GoW Ragnarök - #11 - Ræb der Skalde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur weil die Zwerge für ihr Handwerker und Fähigkeiten bei der Herstellung von Dingen bekannt ist heißt das ja nicht das alle Zwerge begnadete Schmiede sind. Bestimmt sind da einige da die ihre Leben eher im Flechtwerk oder der Kürschnerei sehen. Oder aber dem Lied. Und so ist es eigentlich gar nicht so überraschend das wir einen Skalden treffen. Ich muss übrigens sagen das seine Erwähnung im Titel ein wenig Übertreibung ist, wir sehen den Zwerg für ein paar Minuten und dann ziehen wir weiter, die restlichen 17 Minuten machen wir etwas Anderes anstatt mit irgendwelchen Kleinkünstlern zu interagieren. Und doch, ich muss davon ausgehen das es sogar Zwerge gibt die einfach gar nichts können. Die nächste Frage die sich mir übrigens stellt ist ob es auch weibliche Zwerge gibt oder ob wir hier wieder so eine Scheibenwelt Situation haben. Aber ich glaube wir haben schon weibliche Zwergenleichen gesehen. Vielleicht folgt später mehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 2, Aufnahme vom 28.09.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
 ##### #Nummer
 
 * Titel: ``

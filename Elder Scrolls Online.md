@@ -10087,9 +10087,9 @@
   Aufnahme vom 28.09.2023 - #1862 - ##41 - S6
   ```
 
-##### #1862
+##### #1863
 
-* Titel: `Let's Play ESO #1862 ##42 - Meister Sondivel* [Nekrom]`
+* Titel: `Let's Play ESO #1863 ##42 - Meister Sondivel* [Nekrom]`
 
 * Beschreibung:
 
@@ -10104,14 +10104,91 @@
   Aufnahme vom 28.09.2023 - #1863 - ##42 - S6
   ```
 
-##### #Nummer
+##### #1864
 
-* Titel: ``
+* Titel: `Let's Play ESO #1864 ##43 - der Preis des Wissens [Nekrom]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 43 des Nekrom DLC - Sitzung 7
+  
+  Was ich hier tue ist der Versuch die Ereignisquest alleine zu machen. Weil ich mir nicht vorher durchgelesen habe worum es eigentlich geht stelle ich auch erst am Ende fest das es irgendwie nicht geht. Ich habe leider keine Ahnung und Maßstab wie viel Narrativ ich und damit auch du wenn du nur mich schauen würdest verpassen würdest. 
+  Die grundlegende Prämisse ist aber durchaus interessant. Den Fürsten des Wissens eben jenes Wissen abzunehmen erscheint mir ziemlich verlockend allerdings sehe ich da durchaus Probleme in der praktischen Durchführung. Für mich als planende Person geht eine Menge solcher Vorbereitungen darin drauf sicher zu stellen das die Annahmen die man getroffen hat auch korrekt sind bevor man den großen roten Knopf drückt. Bei Arkanem und generell Magie und allem was damit zusammenhängt ist das aber oft nicht gegeben. Das liegt ein wenig in der Natur der Sache. Wäre Magie vollständig erforscht könnten Leute ziemlich verrückte Sachen damit machen. Zauberei ist ja eigentlich nur deswegen so wundersam weil nie so ganz klar ist mit welchen Kräften man genau spielt. Und das ist genau der Punkt wenn es zu Sachen der Planbarkeit kommt. Das Ganze ist ein Spiel mit dem Feuer. Ein wenig gefährlich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 02.10.2023 - #1864 - ##43 - S7
+  ```
+
+##### #1865
+
+* Titel: `Let's Play ESO #1865 ##44 - Deckmantel der Täuschung [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 44 des Nekrom DLC - Sitzung 7
+  
+  Und wir sind zurück in der Hauptquest.
+  Damit gehen auch so einige Probleme einher, ganz überraschend können es andere Zauberkundige wohl anscheinend sehen wenn man einen daedrischen Pakt eingegangen hat. Das ist außerordentlich interessant zu wissen wo es doch eine ziemlich große Menge von Daedra-Anhängern gibt die offensichtlich noch mit der normalen Gesellschaft interagieren und sich eher wie der mittwochliche Bridge-Club zum Verehren ihrer „Gottheit“ treffen. Weiter wissen wir das es verschiedene Gruppierungen gibt die viel daran setzen den Einfluss der Daedra in Tamriel möglichst radikal zu begrenzen. Das sind Fanatiker, auf beiden Seiten. Wenn es jetzt aber so etwas wie eine eindeutige, mögliche Zuordnung, sogar nach Fürst gibt, dann stellt sich doch ein wenig die Frage warum es überhaupt ein Anhänger Problem gibt. Klar, die Fähigkeit ist selten, aber mit genügend Fanatismus sollte es doch durchaus möglich sein ziemlich sicher die gesamte Dorfbevölkerung regelmäßig zu kontrollieren. Auch Kultisten müssen essen, und das bedeutet die kaufen irgendwo ein. Wo ich so darüber nachdenke erinnert mich das an einem gewissen Kult von Fanatikern aus dem Rad der Zeit. Wenn ihr euch das bildlich vorstellen wollt, die habe ich gedanklich vor Augen, nur das sie halt im Dienste von Stendarr.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 02.10.2023 - #1865 - ##44 - S7
+  ```
+
+##### #1866
+
+* Titel: `Let's Play ESO #1866 ##45 - Versammlungshalle von Tel Huulen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 45 des Nekrom DLC - Sitzung 7
+  
+  Beim letzten Mal bin ich gar nicht dazu gekommen irgendetwas über den Mantel der Täuschung zu erzielen die ich im Titel referenziert habe. Den tragen wir natürlich immer noch, aber bis jetzt kam das halt noch nicht so richtig zur Geltung. Ich hab das alles mit dem Zeichen erzählt weil ich das für irgendwie ein wenig komisch halte. Der Deckmantel schützt uns also vor dem argwöhnischen Blick der Telvanni-Meister die das Zeichen sofort erkennen würden. Allerdings bezweifle ich irgendwie das das eine Funktion ihrer Macht ist und mehr so ein Ding wo sie so mächtig und gewandt in allen Bereichen der Magie sind das sie solche Erkennung halt parallel zu allem Anderen werfen, man muss ja offensichtlich vor Attentaten auf der Hut sein. Wenn jetzt also ein besonders motivierter Arm von Stendarr aufmarschiert sollten das doch einige Akolythen durchaus erlernen können oder? Zurück zum Thema, wir sind mal wieder in Tel Huulen und schleichen uns durch die Türkontrolle, nicht das erste Mal.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 04.10.2023 - #1866 - ##45 - S7
+  ```
+
+##### #1867
+
+* Titel: `Let's Play ESO #1867 ##46 - Konklave der Telvanni [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 46 des Nekrom DLC - Sitzung 7
+  
+  In der letzten Episode waren wir in der Versammlungshalle von Tel Huulen, da spielt technisch gesehen auch das Konklave der Meister statt aber wir kamen irgendwie nur bis zur ersten Tür. Dann haben wir unsere quasi gefälschte Einladungskarte vorgezeigt und jetzt sind wir immer noch nicht da wo wir eigentlich hin wollten. Das ist ein wenig das Problem mit wichtigen Leuten, die sind tatsächlich wichtig. Klar, wir meinen es in diesem Falle ernst, aber von allem was ich so von der Kultur der Telvanni gesehen haben wird Speichellecken groß geschrieben. Das bedeutet aber auch das man sich als Meister andauernd irgendwelchen aufdringlichen Bittstellern entgegenwerfen muss. Deswegen hat man ja diese Münder. Ich frage mich ob es irgendwie ein formalisiertes Spionagesystem gibt das Analog „Augen“ heißt. Hat ja Ayrenn auch. Wie dem aber auch sei, wir müssen uns also weiter durchschlagen. Zum Glück gibt es ja immer noch magische Gewalt und wir müssen dieses Mal nicht mit irgendwelche komischen Dunkelelfen reden..fast nicht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 04.10.2023 - #1867 - ##46 - S7
+  ```
+
+##### #1868
+
+* Titel: `Let's Play ESO #1868 ##47 - Schwarzbuch Ritual [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 47 des Nekrom DLC - Sitzung 7
+  
+  Ich glaube immer noch das Daedra schrecklich langweilig ist. Anders ist eigentlich kaum zu erklären was sie mit ihrer Macht tun. Klar, gelegentlich begeben sie sich in größere Konflikte mit anderen Fürsten aber von allem was ich so sehe haben sie es geschafft über Jahrtausende und Zeitalter gleich in Nummern zu bleiben ohne das einer den Anderen ausgelöscht hat. Gelegentlich schlagen die Ambitionen ein wenig über aber bis jetzt gab es immer ein Korrektiv. Das ist ein erstaunliches Gleichgewicht. Entweder ist die Stabilität inhärent im System drin oder jemand sorgt sich aktiv darum dafür ein zu treten während gleichzeitig nicht direkt gegen die Ursache der Instabilität vorgegangen wird. Eine Quelle solcher Instabilitäten ist Hermeus Mora und heute prominent, seine Schwarzbücher. Klar, der Fürst des Wissens handelt  gerne für anderes Wissens aber per Definition hat er ja eigentlich schon alle. Ich kann mir das alles nur erklären das auch er, der angeblich für die Stabilität der Schicksalstränge eintritt, dafür sorgt das es zu Wellen im glatten See der Existenz kommt. Und deswegen kriegen wir auch keine Hilfe wenn wir ein Panoptikum stürmen wollen, der feine Herr Fürst hat Laune und will unterhalten werden. Dank unserer Bindung kann er uns wahrscheinlich ziemlich genau beobachten. Ach wie schön.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 04.10.2023 - #1868 - ##47 - S7
   ```
 
 ##### #TEMPLATE

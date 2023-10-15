@@ -875,10 +875,105 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
 ##### #58
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #58 - Bernhards Blitze [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Den Turm eines Zauberers zu erkunden ist immer wieder und aufs Neue interessant. Ich vergleiche das gerne mit einer Profession die ich selber teilweise inne habe, dem entwickeln von Software. Wenn man den „Turm“ eines Softwareentwicklers oder noch schlimmer Hardware-Enthuasiasten öffnet wird man auch so einige Beispiele für Einzelteilfertigung finden. Es gibt erstaunliche kleine Dinge die man mit genügend Willen herstellen kann die es nie in die Serienfertigung schaffen. Bei reinen Softwareprogrammierern sind das meistens nur Skripte die auf einer bestimmten Maschine laufen und schon sehr speziell sind. Bei Mikrocontroller-Typen können das auch mal selbst geätzte Leiterplatten und selbst zusammengelötetes Zeug sein. Aber all das ist halt doch irgendwie mundan und nicht so spannend wie das Lebenswerk eines Magiers die wahrscheinlich Jahrzehnte Zeit hatte etwas wirklich physisches quasi aus dem Nichts zu erschaffen. Und heute stehen wir vor einer dieser Kreationen, nennen wir sie einmal spontan Bernhard. Ich Savescumme heute, es tut mir ein wenig Leid. Andererseits, ist es wirklich savescummen wenn man sowieso laden muss? Wie dem auch sei, die Tatsache das es umarmen kann ist irgendwie auch traurig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 03.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #59
+
+* Titel: `Baldur's Gate 3 - #59 - Im Auge des Betrachters [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe gesagt das ich nicht soviel savescummen werde, das heißt aber auch nicht das ich es nicht gar nicht tue. Eine der etwas explorativen Benutzungen des Speicherknopfes war unsere Begegnung mit dem Beobachter vor einiger Zeit. Damals haben wir ziemlich heftig auf den Kopf gekriegt und ich habe dann schnell beschlossen das es sich nicht um einen Kampf handelt den ich heute gewinnen kann. Nun ist seit dem schon ein wenig Zeit vergangen und ich denke wir können einen neuen Versuch wagen. Ich bin übrigens ziemlich überrascht wie viel anders die Kämpfe laufen wenn man nur ein Level stärker ist und über einige Optionen mehr verfügt die man nutzen kann. Wirklich, es erstaunt mich zutiefst.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 03.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #60
+
+* Titel: `Baldur's Gate 3 - #60 - BOOOAL [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir immer noch ein wenig unsicher, aber wenn ich das recht verstanden habe ist das was wir heute erleben ein Easter Egg das es schon in vergangenen DnD Spielen gab. Oder vielleicht auch nicht, so oder so habe ich das Gefühl das mir Kontext fehlt. Davon einmal abgesehen ist die Sachlage aber wie folgt. Wir finden irgendwelche Frösche die etwas anbeten, dann richten wir ein kleines Blutbad an und dann später finden wir ein Buch das sich an Baal wendet, einen der Todesgötter wenn ich das richtig verstanden habe. BOOOAL, die sogenannten Gottheit die wir getötet haben war real, es war ein Feenwesen das nicht völlig schwach war. Wir haben ähnliche Wesenheiten bereits gesehen als wir die Diener der Vettel besiegt haben, tatsächlich handelte es sich dort um genau diese Feen, nämlich Rotkappen. Jetzt weiß ich nur noch nicht ob man solche Wesenheiten mit Gebeten anlockt, aber anscheinend haben Opfer irgendeine Auswirkung. Schattenherz spürt das die Anbetung Energie in die Luft pumpt, und wenn das ein wahrnehmbarer Effekt ist dann nehme ich einmal an das es „real“ ist. Und wenn etwas real ist dann tut es Dinge oder? Anbetung ohne Ziel sucht sich wahrscheinlich ein Gefäß wenn man lange genug wartet und wir haben das Ergebnis der Anbetung getroffen. Denke ich zumindest. Ich basiere diese Theorie auf andere Fantasy-Welten die aus Büchern kenne.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 03.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #61
+
+* Titel: `Baldur's Gate 3 - #61 - Zhentarim Keller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß noch nicht so ganz genau was die Zhentarim eigentlich sind aber von dem was ich jetzt schemenhaft erfahren habe könnte es gar nicht so schlecht sein in ihrer Gunst zu stehen, daher machen wir einfach einmal weiter wo wir im Moment stehen ohne die umherreisenden Händler weiter zu erzürnen. Wissen tue ich das es sich um Leute handelt die illegal handeln, anders ist nicht zu erklären das sie versuchen den Truppen der Stadtwache von Baldurs Tor auszuweichen, das würden sie wohl kaum tun wenn sie sich im Licht des Gesetzes bewegen würden. Außerdem sind sie wohl Händler und bieten allerlei Waren feil die wir natürlich gerne nehmen. Und ich war bisher ziemlich doof überhaupt ihren Keller zu finden weil ich dreimal im selben Raum im Kreis gelaufen bin und einfach nicht in der Lage war die Geheimtür zu entdecken. Ich bin mir sicher zwischenzeitlich hat mir jemand auch einen Hinweis gegeben und ich hätte durchaus nicht ganz so dämlich sein müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 03.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #62
+
+* Titel: `Baldur's Gate 3 - #62 - Tiefen-Bootsfahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Unterreich ist gewaltig, gewaltiger als ich initial angenommen hatte. Klar, das ist irgendwie ein wichtiges Element von Dungeons & Dragons, ist ja quasi schon im Namen, auch wenn ich mir nicht ganz sicher bin das es sich tatsächlich um einen Dungeon handelt. Aber das das Unterreich groß genug ist das man darin Boot fahren kann überrascht mich dann doch schon ein wenig. So groß ist diese Oberwelt also, wir können stundenlang uns vom Wind (?) treiben lassen und kommen doch nirgendwo an. Immerhin handelt es sich um einen Unterwasserfluss und nicht einem Unterwassersee, andernfalls hätten wir eventuell sogar Problem wieder zurück zu finden weil der Weg vollkommen unklar ist. Klar, wir können im Dunkeln sehen, aber die Reichweite dafür ist auch nur 12 Meter, das erscheint mir ein wenig wenig wenn man navigieren will.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 03.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #63
+
+* Titel: `Baldur's Gate 3 - #63 - Herdenmeister Skarjall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute benennen wir eine Episode zu Ehren einer Person, um genau zu sein einer Person die nicht unbedingt durch ihre Gnade bekannt ist, der Meister der Herden, Skarjall. Ich glaube nicht das es sich hier um einen besonders hohen Rang handelt aber ich könnte mich natürlich auch täuschen. Die Sachlage ist halt die das er immer noch der Kerl ist der auf die Viecher aufpassen soll. Und dann kommt halt noch hinzu das die Tiefenzwerge irgendwie ein wenig ruppig sind. Man kann sich des Eindruckes einfach nicht erwehren das sie dem Leben eher negativ eingestellt sind und Fremden eher mit Gewalt als mit Neugier begegnen. Im großen und Ganzen kann ich sie wohl ein wenig verstehen, das Leben unter der Erde ist nicht ganz einfach und wir sollten uns wohl glücklich schätzen das wir sie einen nach dem Anderen töten können ohne uns direkt mit der ganzen Horde ärgern zu müssen weil sie uns für jemanden halten der dem Absoluten angehört.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #64
+
+* Titel: `Baldur's Gate 3 - #64 - Zwergengier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwo her kommt das Klischee her das Zwerge besonders gierig sind es es ständig nach irgendwelchen Schätzen verlangt. Oder zumindest versuchen diese zu erlangen und quasi alles dafür tun reicher zu werden, insbesondere in irgendwelchen tiefen Minen Bergbau zu betreiben. Ich kann da nicht wirklich etwas zu sagen außer das wir uns diese Gier zu nutzen machen können. Stellt sich doch glatt heraus das nicht alle anwesenden Tiefenzwerge tatsächlich den Absoluten angehören und hier externe Kräfte angeheuert wurden. Spricht das etwa dafür das die Personaldecke vielleicht doch gar nicht so tief ist und wir vielleicht hier die erste große Schwäche sehen die wir ausnutzen können?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```

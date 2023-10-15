@@ -10191,6 +10191,142 @@
   Aufnahme vom 04.10.2023 - #1868 - ##47 - S7
   ```
 
+##### #1869
+
+* Titel: `Let's Play ESO #1869 ##48 - Bedauernswerte Gesandte [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 48 des Nekrom DLC - Sitzung 7
+  
+  „Hasse die Nachricht, nicht den Boten“ ist so oder so ähnlich eine oft beschworene Formel. Aus irgendwelchen Gründen können Leute in Machtpositionen nicht mit wirklich schlechten Nachrichten umgehen und haben die emotionale Selbstkontrolle eines Kleinkindes. Eventuell weil diese Personen in die Macht geboren wurden und daher nie in ihre Schranken gewiesen werden mussten. Leidtragend ist dann meistens der Sendbote der Nachricht. Je nachdem wer die Nachricht überbringt kann es aber auch sein das die Wut durchaus an einen geliebten Diener der Sendenten ausgelassen werden kann und es durchaus nicht ganz grundlos geschieht. Ich weiß nicht ob Daedra in die Macht geboren werden, oder Daedra überhaupt geboren werden und ihre Anzahl ziemlich konstant ist. An sich sind sie ja unsterblich was aber auch nicht nicht-vergänglich heißt. Was wir bisher von Madame Caprice gesehen haben lässt sie aber nicht als besonders rachsüchtig erscheinen, insofern kann ich kaum einschätzen ob Hezehk wirklich so bedauernswert ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 07.10.2023 - #1869 - ##48 - S7
+  ```
+
+##### #1870
+
+* Titel: `Let's Play ESO #1870 ##49 - das Verschleierte Forum [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 49 des Nekrom DLC - Sitzung 7
+  
+  Mir fällt so auf, während ich diese Worte schreibe, das ich eigentlich kaum etwas für diese Episode zu sagen habe. Wir befinden uns in der Mitte einer Quest und diese hier endet auch ein wenig abrupt weil sich dann doch alles ein wenig länger als gedacht gezogen hat. Aber so richtig Worte habe ich auch nicht. Ich könnte davon erzählen wie sehr ich die Namen der Hermeus Mora Orte genieße. Die meisten Plätze die wir besuchen haben irgendwelche Adjektiv-Namen die ich passend finde. Das gibt dem ganzen ein leicht obskures Gefühl was wohl wahrscheinlich auch das ist was die Entwickler sich vorgestellt haben. Definitive Aussagen könnte ich aber auch nur treffen wenn ich mir alle Übersetzungen anschauen würde. In der Episode denke ich noch darüber nach was genau ein Forum ist, das kann ich mir also im Text hier sparen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 07.10.2023 - #1870 - ##49 - S7
+  ```
+
+##### #1871
+
+* Titel: `Let's Play ESO #1871 ##50 - Hezehks Geheimnis [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 50 des Nekrom DLC - Sitzung 7
+  
+  Wir hatten das Thema ja eigentlich schon einmal, aber Geheimnisse sind eine ziemlich große Währung unter den Daedra, und wenn sie jemand kennen würde würden sie an Wert verlieren. Mir ist allerdings nicht direkt klar wie und ob sich die Daedra untereinander wirklich auf einen Transportstandard geeinigt haben und man deswegen Geheimnisse als sich selbst versteckende Gegenstände verkleiden kann oder ob das einfach die Natur der Sache ist und wenn genügend Leute daran glaube  dann passiert das einfach. Wie dem aber auch sei, heute erfahren wir ein Geheimnis. Sogar zwei wenn man bedenkt das es natürlich auch noch eine Belohnung für diesen Auftrag gibt. Ich finde das Konzept eines Geheimnisses als Bezahlung für unsere geleisteten Dienste ja ziemlich avant-garde, hat zumindest noch keiner etwas gemacht. Aber irgendwie setzt diese Ökonomie der Geheimnisse auch vor raus das andere Leute die Dinger verteilen um damit woanders einen Gefallen zu erhalten. Das ist ein wenig seltsam weil man sich ja quasi niemanden so richtig anvertraut sondern eher aus dem tiefsten Herzen spricht nur um eine Art Handel zu vollziehen. Komisches Konzept, aber erfreulich fremdartig, das ist was ich mir mehr in Fantasy wünsche. Unkonventionelle Welten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 07.10.2023 - #1871 - ##50 - S7
+  ```
+
+##### #1872
+
+* Titel: `Let's Play ESO #1872 ##51 - Es braucht einen Dieb, um einen Dieb zu fangen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 51 des Nekrom DLC - Sitzung 8
+  
+  Im Titel steht der Name der Quest die wir heute tun. Das was wir erleben hat absolut nichts damit zu tun, und ich kann auch schon sagen das von dem was ich bisher gesehen habe mir noch nicht ganz klar ist auf was diese Geschichte hinaus läuft. Aber das ist ja das Schöne zu diesem Zeitpunkt. Ich bin oft enttäuscht wie mittelmäßig irgendwelche Missionen sind die wir irgendwo in der Wildnis annehmen, und dabei sollte ich mich doch darüber freuen das ich nicht zum zehnten Mal 20 Wolfsfelle einsammle. Die Art und Weise wie ESO aufgebaut ist macht es nur sehr selten notwendig x Gegner zu töten oder Y Dinge abzubauen. Das ist schon fast erfreulich. Und meistens wird irgendeine Art von Geschichte erzählt. Ärgerlicherweise heißt das aber auch das die Geschichte in der Mitte der Bühne steht, mechanisch gibt es nicht viel also muss das Wort überzeugen, und das tut es nicht immer.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 11.10.2023 - #1872 - ##51 - S8
+  ```
+
+##### #1872
+
+* Titel: `Let's Play ESO #1873 ##52 - Baandari Geschichten [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 52 des Nekrom DLC - Sitzung 8
+  
+  Es ist nicht so das wir nicht schon in der Vergangenheit Baandari getroffen haben. Wenn man fahrendes Volk braucht dann bieten sich diese Kajiit auf jeden Fall sehr an, es ist allerdings ein wenig verwunderlich das wir nie andere Leute umherfahren sehen. Wenn es umherreisende Leute gibt dann sind es eigentlich Baandari und nichts Anderes. Das ist ein wenig seltsam wenn man darüber nachdenkt. Wie dem aber auch sei, vielleicht will uns ja nur jemand helfen und die Tatsachen vereinfachen. Die Sachlage ist jetzt wie folgt. Fahrendes Volk steht immer unter einem gewissen Verdacht. Das liegt halt einfach daran das Menschen und anscheinend auch Elfen grundlegend misstrauisch gegenüber Neulingen sind, und wenn auf einmal eine ganze Gruppe von Fremden auftaucht dann wird man wohl extra schnell misstrauisch. Daher investigieren wir heute und erfahren ein wenig über die Geschichte der Reisenden. Ich weiß trotzdem immer noch nicht so recht was sie dazu gebracht hat so tief in das Land der Telvanni zu fahren. Das hätte ich ja eher nicht getan. Aber vielleicht hat sich der Älteste der Gruppe etwas dabei gedacht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 11.10.2023 - #1873 - ##52 - S8
+  ```
+
+##### #1874
+
+* Titel: `Let's Play ESO #1874 ##53 - die Lerche von Rosgard [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 53 des Nekrom DLC - Sitzung 8
+  
+  Ich habe eine seltsame Präferenz für kompromisslose Verbrecher. Wenn ich jemanden vor mir hat die mir sagt das sie definitiv nur für das Geld bei der Sache ist oder jemand Anderes mir erklärt das Mord nur ein Geschäft ist und die politischen Umstände vollkommen egal sind kann ich das respektieren. Als Auftragskiller muss man natürlich immer ein wenig den Raum lesen aber sich nicht um irgendwelche Waisenkinder zu kümmern ist durchaus konsequent. Und wenn man dann doch kurz helfen eingreift dann ist das ein Bonus mit dem niemand gerechnet hat aber vollkommen möglich. Kommt man allerdings aus der anderen Richtung, ist man bekennender Pazifist aber dann offenbart sich eine Situation die ganz ohne Gewalt nicht zu überwinden ist muss man plötzlich Kompromisse eingehen..und die eigene Mission wirkt ein wenig unglaubwürdig. Die Lerche von Rosgard könnte beides sein, aber für den Moment steht das Urteil noch aus, eine fertig definierte Mission steht noch aus. Ich persönlich halte ihn für einen kleinen Robin Hood der stiehlt um anderen zu helfen, und da Monarchen diese Welt regieren kann man wohl damit rechnen an jeder Ecke Ungerechtigkeit zu finden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.10.2023 - #1874 - ##53 - S8
+  ```
+
+##### #1875
+
+* Titel: `Let's Play ESO #1875 ##54 - das Auge von Baan Dar [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 54 des Nekrom DLC - Sitzung 8
+  
+  Nicht alle Artefakte sind immer sehr mächtig und bergen einen gewaltigen Wert in sich. Letztendlich spielt es aber auch keine Rolle was eine Sache objektiv wert ist, also eine delikate Berechnung von Verfügbarkeit, Nutzbarkeit und Bedarf, sondern viel mehr was jemand dafür bereit ist zu zahlen. So ist es zum Beispiel auch mit einem Gegenstand wie dem Auge von Baan Dar. Die Dunkelelfen glauben offensichtlich daran das sie eines Tages einen großen Wert daraus erhalten können, sie müssen nur noch ein wenig mehr studieren und dann wird sich alles schon zeigen. Die Khajiit wissen das es ein wenig anders ist. Andererseits befinden wir uns in einer Welt in der Glaube Berge versetzen kann, es wäre also durchaus möglich das nur genügend Leute wirklich daran glauben müssen das das Auge etwas tun kann und dann kann es das wirklich. Auch wenn in Elder Scrolls der Effekt wesentlich schwächer ist und erst ab einer gewissen kritischen Grenze wirklich eintritt. Siehe auch Talos zu dem Thema.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.10.2023 - #1875 - ##54 - S8
+  ```
+
+##### #1876
+
+* Titel: `Let's Play ESO #1876 ##55 - der Schicksalsweberschlüssel [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 55 des Nekrom DLC - Sitzung 8
+  
+  Mir ist nicht so ganz klar wie genau man eigentlich am Schicksal herumspielen will ohne das es schrecklich schief geht. Soweit ich das verstanden habe bewacht Hermeus Mora, jetzt auf einmal, das Schicksal und sorgt dafür das die möglichen Dinge auch in der richtigen Reihenfolge geschehen. Ich möchte anmerken das das für mich nicht besonders viel Sinn ergibt weil „Schicksal“ ja doch irgendwie impliziert das die Dinge fest stehen. Wenn jetzt jeder sich ein wenig mit Magie beschäftigt und ein Abendkurs in Teesatzlesen investiert hat auf einmal daran herumspielen kann scheint es ja gar nicht so fest zu sein. Oder muss ich davon ausgehen das sich jedes Mal die Realität auflöst wenn man versucht daran etwas zu ändern?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 15.10.2023 - #1876 - ##55 - S8
+  ```
+
 ##### #TEMPLATE
 
 * Beschreibung:

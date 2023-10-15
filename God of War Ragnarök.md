@@ -180,6 +180,186 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
+##### #12
+
+* Titel: `GoW Ragnarök - #12 - Althjofs Maschine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt drei Maschinen in der unmittelbaren Umgebung von Nidavellir die anscheinend stark genug sind um die gesamte Umgebung zu verpesten, da es eine signifikante Auswirkung auf die Zwergengesellschaft hat muss ich davon ausgehen das die Welt der Zwerge nicht besonderes groß ist und das ein nomadisches Weiterziehen und Raubbau an anderer Stelle eher nicht möglich ist. Es könnte natürlich auch sein das die Welt in der sich die Zwerge aufhalten ein wenig mehr magisch ist als andere und die Ressourcen im Berg und den Minen irgendwie immer neu kommen und das erklärt wie es möglich ist mit nur einer so kleinen Abdeckung von Gebiet all die großen Werke zu bauen. Nur weil man eine Grube gräbt heißt das ja auch noch nicht das dabei eine Menge Metall raus kommt, in der Regel muss man nämlich noch veredeln und das letztendliche Volumen an Erde das am Ende bewegt wird ist ziemlich groß. Wie gut wenn man dafür Maschinen hat, wie schlecht wenn diese Maschinen dann die Landschaft unbewohnbar machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 2, Aufnahme vom 28.09.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #13
+
+* Titel: `GoW Ragnarök - #13 - Leuchtturmschlüssel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Leuchtturm dient dazu das große Schiffe die aus weiter Ferne kommen in der Lage sind die Küste abzuschätzen. Kombiniert mit einer Karte kann man gut erahnen wo sich die Küste und wo Untiefen befinden. Das ist ziemlich wichtig wenn man auch Nachts entlang der Küste segeln will ohne auf Grund zu laufen. Daher ist es auch relativ wichtig das ein Leuchtturmwärter stets im Dienst ist und die Feuer am Brennen hält. Tut er dies nicht könnte es zu ziemlich massiven Problemen führen. Warum genau die Zwerge jetzt einen Leuchtturm für ihren wirklich kleinen See haben kann ich wirklich nicht sagen. Vielleicht haben sie von dem Konzept gehört und sich gedacht das man sich einfach mal ein solches Bauwerk hinstellen könnte? Ich will eigentlich nicht einmal weiter spekulieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 2, Aufnahme vom 28.09.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #14
+
+* Titel: `GoW Ragnarök - #14 - Lyngbakr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mythologie gibt immer eine Menge her wenn es um irgendwelche fantastische Tierwesen (und wo man sie finden kann) geht. Meistens sind die Beschreibungen nicht besonders genau und wenn man das Ganze analysiert findet man wahrscheinlich relativ oft die gleichen Ursprünge. Große Unterwasserwesen sind aber definitiv eine gute Konstante auf die man sich irgendwie berufen kann. Ich, der wieder keine Ahnung von der Tiefe der nordischen Lore hat kann euch aber auch nicht sagen ob und wie tief jetzt die Grundlage für ein „Lyngbakr“ Vieh existiert. In Valheim gibt es auch schwimmende Inseln die eigentlich große Unterwasserviecher sind also vermute ich einmal das es irgendetwas in der Richtung schon geben wird. Was jetzt der Ursprung der Legende sein könnte weiß ich aber trotzdem nicht. Bei Terry Pratchett gibt es eine Insel die durch Vulkangase an der Oberfläche gehalten wird die dann wieder absinkt nach einiger Zeit. Dann wäre noch das Ding wo die Welt auf den Rücken einer Schildkröte getragen wird, aber das ist wieder ganz woanders. Kurzum, ich habe keine Ahnung wo man sie hier hat inspirieren hat lassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 2, Aufnahme vom 28.09.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #15
+
+* Titel: `GoW Ragnarök - #15 - die Last der Ketten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gefangenschaft die wirklich lange dauert besteht selten aus Ketten. Klar kann man irgendwelche Leute anketten, daraus ergeben sich aber logistische Probleme wie das sich die Stellen wo die Ketten anliegen entzünden können. Offenbar gibt es dieses Problem bei gewaltigen Inselwesen nicht aber dennoch eine praktische Überlegung. Nein, wenn man dauerhaft jemand gefangen halten will braucht es Ketten im Geist. Etwas das nicht einfach durch über motivierte Jugendliche mit einem Bolzenschneider entfernt werden kann. Der Klassiker hier sind übrigens Elefanten. Die werden in jungen Jahren an die Gefangenschaft durch starke Ketten gewöhnt und wenn sie dann groß sind dann reicht schon ein einfacher Strick um das gewaltige Tier aufzuhalten. Der Kampfeswillen ist gebrochen, das kann man auch später noch machen, dauert aber dann länger. Oder aber man fängt direkt mit geistigen Ketten an, Verpflichtungen, Ausnutzen von Familienbanden oder quasi Erpressung. Das macht einen guten Käfig aus den man nicht einmal bemerkt. Oder man macht doch das mit dem Eisen, irgendwann braucht man das auch nicht mehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 3, Aufnahme vom 05.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #16
+
+* Titel: `GoW Ragnarök - #16 - Radsvinn & Madvitnis Maschinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte das Prinzip von Maschinen schon erläutert als wir die erste aus geschalten haben, daher habe ich leicht Schwierigkeiten das Thema erneut auf zu wärmen. Sprechen wir über etwas, und mit Sprechen meine ich das ich darüber schreibe und du vielleicht meine Gedanken liest. War auch immer du bist. Ich finde es bemerkenswert wie viele irgendwie geartete politische Botschaften God of War hier als Spiel verpackt hat. Klar, man könnte jetzt auch darüber reden wie Industrialisierung die Menschen vom Produkt ihres Tuns entfremdet hat, aber das tut das Spiel ja schon. Ich bin mir übrigens unsicher ob es daran liegt das GoW ein Spiel mit einer „ab 18“ Freigabe ist das man relativ einfach über solche Themen reden kann. Andere Spiele, ganz vorne, ESO, das ab 12 Jahren freigegeben ist vermeidet harte Themen immer und bei jeder Gelegenheit. Das geht sogar soweit das einst scharfe Fraktionen in neueren DLCs weichgespült sind. Die Bösen sind halt irgendwie böse, aber eine nummerierte Liste ihrer Verbrechen sucht man vergebens. Ich denke wir können daher für die Ehrlichkeit danken, auch wenn der ein oder andere es vielleicht als störend empfindet wenn Spiele die der Entspannung dienen schwere Botschaften transportieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 3, Aufnahme vom 05.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #17
+
+* Titel: `GoW Ragnarök - #17 - Durlin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Müsste ich den Widerstand anführen hätte ich nicht den Hauch einer Ahnung wie man das angeht. Davon ausgehend das es eine gerechte Sache ist. Wenn man nur irgendeine kriminelle Organisation ist sind die Dinge ja oft einfacher, man sitzt irgendwo im Hintergrund und dadurch das alle Leute profitieren wollen muss man eigentlich nur dafür sorgen das überambitionierte Mitglieder ihres Platzes verwiesen werden, aber grundlegend sind ja alle motiviert. Beim Widerstand sieht das jetzt ein wenig anders aus, der Unterdrücker hat gewiss Macht, ist groß und bietet vielleicht sogar Belohnungen für Kooperation, selbst wenn er noch so grausam ist wird es Leute geben die damit argumentieren das man bestimmte Dinge nicht tun könnte oder doch das Gespräch suchen muss. Man muss charismatisch sein, Leute beruhigen, Planen können. Das alles macht einen zur Zielscheibe, und das ist schlecht. „Die Sache“ sollte natürlich auch ohne die eigene Person oben gehalten werden, aber interne Streitigkeiten sind vorprogrammiert wenn man die Leute nicht hart auf Linie hält. Und dafür muss man wahrscheinlich persönlich anwesend sein. Das macht einen selbst verwundbar. Anfällig für Attentate, oder schlimmer, Gefangennahme. Was genau  Durlin passiert ist vermögen wir nicht zu sagen, aber anscheinend hat er die selben Probleme gefunden. Wie wohl Laufey einfach so weg gekommen ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 3, Aufnahme vom 05.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #18
+
+* Titel: `GoW Ragnarök - #18 - Zwergenbahn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Erfindung von Schienen greift der Erfindung von selbstfahrenden Zügen weit vor, aber ich bin mir fast sicher das der Bergbau maßgeblich daran beteiligt war zu bestimmten wie Züge aussehen. Dazu noch die Erwähnung der witzigen Geschichte mit dem Space Shuttle und den Pferden. Die geht so: das Spaceshuttle wird per Schiene zum Startplatz transportiert. Dabei ist ein limitierender Faktor die Spurbreite, die sich, in langer Kette, von der Breite zweier Pferdehintern ableitet weil das die Menge an Pferd war die man hinter einem großen Streitwagen gepackt hat. Alles jetzt nicht unendlich interessant, aber das die Zwerge Bergbau betreiben brauche ich auch niemanden zu erzählen. Interessant daran ist aber auf jeden Fall das sie das angeblich schon seit Ewigkeiten tun. Regeneriert sich das Metall von Svartelfheim oder ist man einfach nur ineffektiv? Früher haben Minenorte Generationen gehalten, mit heutigen Bergbau ist das wohl nicht mehr der Fall.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 3, Aufnahme vom 05.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #19
+
+* Titel: `GoW Ragnarök - #19 - Jarnsmida-Tagebau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Unterschied zwischen Tagebau und „normalen“ Bergbau könnte größer nicht sein. Bei dem einen muss man sich gewahr sein das die Decke einstürzt, Wasser durchbricht oder Grubengas eine tödliche Gefahr darstellt. Außerdem ist es ziemlich teuer und enge Gänge machen die gesamte Veranstaltung auch eher wenig angenehm. Tagebau ist da schon schöner, zumindest in der praktischen Durchführung, vom Landschaftsbild ist es natürlich vernichtend. Das heißt aber auch nicht das es nicht auch zu großen Einstürzen in der Nähe von Bergbaumine gibt wo dann einfach die Erde nach sackt und ganze Ortschaften plötzlich in ein Loch fallen. Und doch ist der Tagebau ein wunderschönes Bild für die Zerstörungswut und naturferne des Menschen. Es gibt Tagebaue die man vom Weltall aus sehen kann, und das ist schon erschreckend. Es handelt sich quasi um ein Monument an die Gier des Menschen. Ich habe außerdem einmal in einem Archäologie Buch gelernt das nichts zu dauerhaft wie ein Loch ist. Heute betreten wir also einen archäologisch wertvollen Ort. Quasi. Irgendwie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 3, Aufnahme vom 05.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #20
+
+* Titel: `GoW Ragnarök - #20 - der Apfelkern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zwerge tun Zwergendinge, wie zum Beispiel große Tunnel zu graben, allerdings ist die Deckenhöhe doch auffällig hoch. Moderne Bergbauanlagen, zumindest die Videos von Salztunneln die ich bisher so gesehen haben hatte immer ziemlich viel Platz nach oben, aber wenn man manuell mit der Spitzhacke hacken muss hätte ich erwartet das es eher aussieht wie meine Minecraft-Ausgrabungen. Ein dünner Tunnel bis zu einem Flöz und dann eine bauchige Höhle, halt so groß wie das Vorkommen von was auch immer war. Der Ort den wir heute betreten nennt sich aus irgendwelchen Gründen „der Apfelkern“. Wo genau der Name her kommt und wer ihn vergeben hat werden wir wohl zeitnah nicht erfahren, aber irgendwo hier soll Tyr sein der sich hinter irgendeiner Tür versteckt. Die Witze dazu schreiben wir später noch. Am meisten nervt mich aber das Sohn so unfassbar optimistisch und fast schon wahnig ist. Der Gute braucht echt dringend einen Reality-Check.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 3, Aufnahme vom 05.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #21
+
+* Titel: `GoW Ragnarök - #21 - leere Kammern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um den Witz schnell tot zu erklären, so rein phonetisch klingt Tyr halt doch irgendwie sehr wie das Wort Tür, und daher bietet es sich total an diesen Witz zu machen. Das setzt natürlich auch vor raus das wir ihn dann tatsächlich auch finden. An sich war es aber klar das wir Erfolg haben werden. Die Dramatik verlangt es quasi, und das der große Gott des Krieges der Nordmänner in Ketten liegt und sofort bereit wäre den großen Konflikt wieder auf zu nehmen erscheint auch eher unwahrscheinlich. Von allem was wir bisher gehört haben ist Tyr doch eher ein friedlicher Kerl der sich viel um Volksverständigung bemüht hat, die meisten Leute dachten auch das er tot ist, also nicht unbedingt die Art von Person die mit einem Knall aus der Sache heraus gegangen ist. Also können wir nicht nach langer Suche Tyr finden und dann eskaliert die Geschichte zum Endgame. Viel wahrscheinlich ist es das wir ihn früh finden und er uns dann irgendwie mit dem übrigen Mysterium hilft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 4, Aufnahme vom 12.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #22
+
+* Titel: `GoW Ragnarök - #22 - Tür zu Tyr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um den Witz schnell tot zu erklären, so rein phonetisch klingt Tyr halt doch irgendwie sehr wie das Wort Tür, und daher bietet es sich total an diesen Witz zu machen. Das setzt natürlich auch vor raus das wir ihn dann tatsächlich auch finden. An sich war es aber klar das wir Erfolg haben werden. Die Dramatik verlangt es quasi, und das der große Gott des Krieges der Nordmänner in Ketten liegt und sofort bereit wäre den großen Konflikt wieder auf zu nehmen erscheint auch eher unwahrscheinlich. Von allem was wir bisher gehört haben ist Tyr doch eher ein friedlicher Kerl der sich viel um Volksverständigung bemüht hat, die meisten Leute dachten auch das er tot ist, also nicht unbedingt die Art von Person die mit einem Knall aus der Sache heraus gegangen ist. Also können wir nicht nach langer Suche Tyr finden und dann eskaliert die Geschichte zum Endgame. Viel wahrscheinlich ist es das wir ihn früh finden und er uns dann irgendwie mit dem übrigen Mysterium hilft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 4, Aufnahme vom 12.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #23
+
+* Titel: `GoW Ragnarök - #23 - der gebrochene Gott [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es schon einmal erwähnt, aber ich tue es auch gerne noch einmal. Nordische Götter sind nicht wirklich so richtige, allmächtige Wesen die aus einem völlig anderen Holz geschnitzt sind als Menschen. Das könnte ein wenig an der Genese liegen. Würde ich mir einen Gott vorstellen wäre dieser ziemlich abstrakt und hätte wohl kaum etwas mit den Menschen zu tun, das liegt aber auch daran das ich ziemlich viel Sci-Fi ausgesetzt war und daher zumindest bemüht bin fremde Dinge zu erschaffen. In der christlichen Religion wissen wir das Menschen nach dem Abbild geschaffen wurden, daher wäre davon aus zu gehen das rein optisch Gott aussieht wie eine Frau aus dem nahen Osten, oder ein Mann, je nachdem wer grade das sagen hat in solchen Fragen. Bei der griechischen und nordischen Mythologie, zumindest diese Gemeinsamkeit würde ich gerne sehen, ist es aber mehr so als wären die Götter noch wesentlich menschlicher und fehlerbehafteter als in der abrahamitischen Auslegung. Kein ferner Vater der irgendwelche Dinge schafft sondern Königinnen mit viel zu viel Macht und magischen Kräften an den Fingerspitzen. Aber solche Personen können auch brechen, Tramata erleben und einfach keinen Willen mehr haben Dinge zu tun. Und das erleben wir wohl grade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 4, Aufnahme vom 12.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
 ##### #Nummer
 
 * Titel: ``

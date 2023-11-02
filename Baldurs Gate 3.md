@@ -977,3 +977,253 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Sitzung 10, Aufnahme vom 10.10.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
+
+##### #65
+
+* Titel: `Baldur's Gate 3 - #65 - Shars Silberbesteck [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Avatar dieser Reise ist Schattenherz. Das verhindert ein wenig das ich das Voice Over von Jennifer English hören kann, sorgt aber auch dafür das wir im Kopf einer Person sind die sonst nur von Außen zu hören ist. Schattenherz lebt für Shar, würde alles vergessen nur um ihrer Göttin zu dienen. Ich habe den Verdacht das ich eher die ketzerische Stimme in ihrem Hinterkopf wäre, quasi ihr kleiner persönlicher atheistischer Drang, und ja, mir ist bewusst das die diversen Götter ziemlich real sind, wenn auch meistens ignorant oder zumindest subtil. Heute klauen wir das Silberbesteck von Shar. Also nicht ihr Persönliches sondern das ihrer Priesterschaft von vor ziemlich langer Zeit. Als Anbeterin der Göttin selbst könnten wir wohl argumentieren das wir es einen neuen Zweck zuführen indem wir es für Geld verkaufen um den Shar Anhängern dieser Tage zu helfen anstatt das das Zeug weiter in irgendeinen Keller anläuft. Und doch, es fühlt sich ein wenig frevelig an was wir tun. Andererseits, wir hätten auch einfach Astarion vorschicken können und nicht so genau hinschauen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #66
+
+* Titel: `Baldur's Gate 3 - #66 - Grymschmiede [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe den leichten Verdacht das bei den Teleportpunkten die Namen leicht durcheinander gebracht wurden. Wir werden die eigentliche Schmiede später noch betreten und es wird natürlich ein großartiges Erlebnis. Allerdings heißt das Fort das wir schon die ganze Zeit durchwandern offiziell „Gyrmschmiede“ was ziemlich präzise der Ort zu sein scheint den man besuchen muss wenn man vor hat Adamant zu schmieden. Ein quasi legendäres Metall. Und außerdem wahrscheinlich genau das was die Gnome und auch Zwerge hier in der Gegend gesucht haben aber dann eher nicht fanden weil sie sich durch kleinere Einbrüche haben aufhalten lassen anstatt einmal ein wenig herum zu turnen. Leider ist mir der genaue Zeitstrahl immer noch ein Rätsel, größtenteils wohl weil ich nicht richtig zugehört habe. Aber es stellt sich irgendwie so da das es zwei verschiedene Perioden von Baumeistern hier gab. Einmal die ursprünglichen Shar-Anhänger und dann die Dunklen Justizare unter Kethric Thorm. Glaube ich zumindest. Und dann kam die Höllenbrigade und hat alles kaputt gemacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #67
+
+* Titel: `Baldur's Gate 3 - #67 - Kammern der Dunkelheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neben den unzähligen Gnomen die die Zwerge zu Tode gearbeitet haben sind sie erstaunlich unproduktiv wenn es um das Finden von Kammern und Orten geht. Aber eventuell liegt es auch einfach daran das sie nicht wirklich daran gearbeitet haben. Letztendlich waren sie auf Befehl von Nere hier, und der interessiert sich vielleicht gar nicht für die anliegenden Räume. Und Zwerge scheinen, bis auf den einen Steinmetz der mir das ganze Zeug abgekauft hat, auch nicht besonders neugierig zu sein. Vielleicht ist das einfach kein guter Verhaltenszweig den man verfolgen sollte wenn man sich hunderte Meter unter der Erde befindet und in Minen arbeitet. Neugier könnte sich da schnell als außerordentlich fatal herausstellen, und das will ja nun wirklich niemand oder? Doch! Wir sind natürlich neugierig und erkunden die halb zerfallenen Kammern die seit Ewigkeiten niemand betreten hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #68
+
+* Titel: `Baldur's Gate 3 - #68 - Uraltes Fort [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und jetzt sind wir beim zweiten Teil der falsch benannten Orte. Letztendlich spielt es wohl keine Rolle wenn man das Spiel auf Deutsch spielt dann verbindet man ja die richtigen Namen mit den richtigen Orten, nur das die Bezeichnung aller Wahrscheinlichkeit nach falsch ist. Aber ich schweife ab. Das uralte Fort ist quasi die Schmiede wo tatsächlich auch der Hammer hängt. Hier haben die uralten Shar-Anhänger versucht irgendetwas zu tun. Anscheinend das Geheimnis der Adamantschmiede von den Selûniten Anhängern zu stehlen und nach zu ahmen. Offensichtlich braucht es dafür große Hitze und die richtige Kalibrierung. Es zeigt sich außerdem das nur die Pläne für etwas zu haben nicht ausreicht um dann ein sinnvolles Produkt her zu stellen. Also wurde hier auch Forschung betrieben. Forschung die scheinbar große Mengen des verfügbaren Mythril-Erzes bereits verbraucht hat. Ein Umstand den ich später noch als bedauerlich einstufen werde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #69
+
+* Titel: `Baldur's Gate 3 - #69 - grymmiger Grym [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Forscher und Experten von Shar haben an irgendetwas geforscht, nicht nur dem Schmieden von Rüstungen und Waffen aus Adamant, auch wenn das sicherlich eines der Ziele der Anlage war. Ich bin übrigens sehr beeindruckt das die fragile Einstellung immer noch hervorrangend funktioniert, trotz das die Höllenbrigade mitten durch gelaufen ist. In dieser Abteilung der Geschichte weiß ich übrigens immer noch nicht so ganz was eigentlich vorgefallen ist. Hat Kethric Thorm irgendeine Art von Pakt eingewilligt und die Höllenbrut kam dann um zu kassieren? So richtig klar ist mir das auf jeden Fall nicht, nur das man hier mächtig gewütet hat, und was auch immer man vorbereiten wollte um die Höllenbrigade abzuwehren hat offensichtlich nicht ausgereicht. Hätte sie doch die animierten Rüstungen nur ein wenig verbessert und welche aus Adamant gebaut, man hätte quasi eine unstoppbare Kampfmaschine gehabt solange sie nicht in der Lava steht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #70
+
+* Titel: `Baldur's Gate 3 - #70 - Goblinversprengte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe etwas vergessen! Ja, das kommt andauernd vor, aber dieses Mal habe ich es wirklich ziemlich verschwitzt. Stellt sich doch glatt heraus das es noch ein paar Goblins gibt die im Camp herumlaufen. Wir kennen diese Goblins auch als „Erfahrungspunkte auf zwei Beinen“. Wir müssen sie nur pflücken. Und genau das machen wir heute, ich wünschte es wäre noch leichter aber ein paar kleine Opfer müssen gebracht werden. Um ganz ehrlich zu sein habe ich das Camp bereits einmal in einen Anfall von Neugier leer gemacht, das ist überhaupt warum ich mich daran erinnere. Damals habe ich allerdings alle Zaubersprüche genutzt die ich hatte und es war quasi der Gesamtinhalt  einer großen Rast der mich durchgebracht hat. Dafür ging es echt schnell, auch wenn viele kleine Gegner immer noch nicht so gut auszuschalten sind wie ich das gerne hätte. Begehen wir heute also ein kleines Massaker, alles im Namen des „Guten“. Schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #71
+
+* Titel: `Baldur's Gate 3 - #71 - Sprengung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Akt 1 ist so gut wie vorbei und jetzt sind wir halt an dem Punkt an dem ich nur noch schnell die letzten losen Ende zusammenbinde. Ich werde immer ein wenig nostalgisch in solchen Situationen, aber das ist eigentlich gar nicht notwendig weil es ja nur ein Akt-Ende ist. Dennoch gibt es hier ein klares Ende. Vor allen Dingen das von einigen Leben. Beispielsweise wollen wir es doch den Pilzen nicht vorenthalten Neres Kopf zu erhalten. Um das hin zu kriegen müssen wir ihn aber leider zu erst frei sprengen. Nebenher bin ich ganz glücklich das ich mich nicht schon früher genährt habe, andernfalls würde ja die Zeit laufen und das wollen wir ja nun wirklich nicht. Also sprengen wir heute dann einmal den Tunnel. Wie genau die Personen auf der anderen Seite das zu überleben hoffen ist mir zwar nicht klar aber das wird schon irgendwie werden. Und dann ist es wohl Zeit für den zweiten Teil unseres genialen Plans alle Zwerge zu töten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #72
+
+* Titel: `Baldur's Gate 3 - #72 - Neres Kopf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einer anderen Realität habe ich Karlach getötet, und in dieser Realität habe ich auch ihren Kopf abgeschnitten bevor ich die geniale Idee hatte mit ihr zu reden. Diesen Fehler wiederhole ich auch heute. Die meisten Leuten weigern sich ja strikt mit ihren Mörder zu sprechen, aber bestimmte Charaktere kann man überzeugen. Ich bin mir eigentlich sicher das Nere genau eine solche Person gewesen wäre. Ärgerlicherweise war ich hier mal wieder ein wenig zu schnell mit dem Messer. Aber jetzt ist das halt eine Entscheidung die ich gefällt habe, eine Entscheidung die ich quasi bewusst gemacht habe. Ich habe mich nicht in dem Sinne verklickt. Es ist passiert. Daher lade ich nicht. Ich stehe also zu meinen Fehlern..für die vielen Male die ich es sonst nicht tue. Außerdem führen wir diverse Gespräche, schließlich müssen wir ja auch noch die Freiheit von einigen Gnomen erreichen. Und das können wir vielleicht ausnahmsweise ohne Waffen erreichen. Das ist eigentlich auch ganz schön.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #73
+
+* Titel: `Baldur's Gate 3 - #73 - Adamantdilemma [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ist es noch ein Dilemma wenn man eigentlich kein moralisches Problem hat sondern eher die eigene Gier im Wege steht? Wir können einen weiteren Adamant-Gegenstand herstellen und es ist nicht so ganz klar was das sein soll. Leider hilft hier auch nicht viel Anderes als ein paar Mal zu Laden und dann zu speichern weil ich ja vorher nicht weiß was dabei heraus kommt. Allerdings ist jetzt eigentlich schon klar das Waffen und Rüstungen aus Adamant besonders haltbar sind aber ansonsten nicht übermäßig magisch sind. Es wäre also wohl durchaus denkbar das wir mit einer Rüstung einfach am Besten fahren. Auch bin ich mir nicht ganz sicher ob wir überhaupt noch einmal etwas finden das tatsächlich besser ist als das was wir jetzt erhalten. Klar, wir sind erst in Kapitel 1, aber wie lange kann das Spiel schon noch gehen? Daher bin ich heute ein wenig unsicher mit welchem zweiten Gegenstand ich weiter mache, schade auch das wir keine Vorlagen für alle möglichen Formen haben. Eine leichte Rüstung wäre durchaus auch interessant gewesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #74
+
+* Titel: `Baldur's Gate 3 - #74 - Fahrstuhl in Akt 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Vorfeld war nicht so ganz klar was es jetzt genau heißt die Reise in den zweiten Akt anzutreten, aber so wie die Dinge stehen können wir ohne größere Probleme auch einfach wieder zurück gehen und haben also nicht die größte Hürde zu überwinden. Allerdings lässt mich der riesige Pop-Up der kommt ein wenig glauben das sich Dinge verändern wenn wir vor ran gehen. Ein wenig unlogisch war es ja schon das wir quasi ohne Zeitverlust von einem Ort zu einem Anderen reisen können. Warum nicht auch von einem Kapitel unserer Reise zu einem Anderen. Aber jetzt geht es nach oben, in die schattigen Lande die so sehr verflucht sind das man sie quasi nicht betreten kann. Was uns wohl dort erwartet? Feinde, Freunde? Finden wir es heraus!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 10.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #75
+
+* Titel: `Baldur's Gate 3 - #75 - Schattenfluch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird zwar erst später richtig erklärt aber ich greife hier einmal ein wenig vor. Das was man handelsüblich als Magie kennt ist eigentlich nur das Gewebe der Magie die von Mystra ausgeht. Technisch gesehen auch nur eine Art von göttlicher Intervention, zumindest so wie ich das verstanden habe. Es geht noch ein wenig mehr in die Tiefe aber im Großen und Ganzen ist es den Göttern nicht erlaubt direkt in die Geschehnisse der Welt einzugreifen. Aber dauerhafte Bedingungen wie das Gewebe zu schaffen ist irgendwie okay. Magier sind also quasi nichts Anderes als quasi agnostische Priester Mystras die halt keine Gebete aufsagen sondern Formeln, im Prinzip aber das Gleiche. Das Mystra in der Lage ist soviel Macht den Sterblichen zur Verfügung zu stellen während sie gleichzeitig ihre Position als Göttin behaupten kann spricht auf jeden Fall für ihren Einfluss. Wie auch immer das metaphysisch funktioniert. Aber es gibt auch andere Götter, während das Gewebe von Mystra scheinbar unauffällig alles durchdringt scheint deren Einfluss klarer zu sein. Heute begegnen wir dem Schattenfluch, anscheinend das Äquivalent von Shar zum Gewebe. Allerdings können wir es nicht nutzen und es schadet den Leuten aktiv. Ob es sich um ein fehlgeschlagenes Experiment handelt das Shar nicht wirklich gut geheißen hat?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 24.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #76
+
+* Titel: `Baldur's Gate 3 - #76 - Überfall in den Schatten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir laufen durch eine ewige Nacht, wir sollten absolut nicht davon überrascht sein alle paar Meter überfallen zu werden. Und natürlich passiert genau das auch heute. Es wird noch öfter passieren. Jedes Wesen das sich in den Untiefen des Schattenfluches so lange aufhalten kann muss gewissermaßen mächtig und bösartig sein. Oder ein treuer Anhänger von Shar. Oder vielleicht auch Selûne, ich würde durchaus vermuten das Priester der Mondgöttin hier aktiven Schutz erhalten wenn sie mächtig genug sind. Immerhin sind es heute nicht wir die überfallen werden, aber keine Angst, das passiert auch noch und das ist quasi heute nur die erste Vorschau auf all das Elend das uns erwartet. Ich habe nicht das Gefühl das wir besonders gut gerüstet sind. Es fühlt sich eher so an  als wären wir knapp stark genug um mit Glück zu überleben, aber nicht so als wären wir bereit uns den Gefahren zu stellen die sich hier auftun.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 24.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #77
+
+* Titel: `Baldur's Gate 3 - #77 - Würgegriff der Dunkelheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mittelfristig werden mir wohl die Episodentitel ausgehen die unsere Situation beschreibt, aber heute handelt es sich tatsächlich nur um ein Metapher. Wir begegnen Wesen die uns durchaus Würgen und ich möchte auch anmerken das wir enormes Glück hatten als wir uns ihnen gestellt haben. Hätte sie die Initiative gehabt und all unsere Leute zeitgleich getrennt und auseinander gezogen, hätten wir ein gewaltiges Problem gehabt und wären wohl alle in den finsteren Tiefen der Nacht gestorben. Das die Dunkelheit an manchen Stellen Fackeln auslöscht ist übrigens interessant, ich frage mich wie stark eine physische Lichtquelle wohl sein müsste damit dies nicht mehr passiert. Würde Thermit reichen? Ein nukleares Feuer? Sicherlich gibt es hier Grenzen oder? Das setzt natürlich auch voraus das in dieser Welt überhaupt irgendetwas funktioniert was mehr Hightech als Dampf-Maschinen ist. Und selbst die scheinen ja eine gewisse magische Komponente zu haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 24.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #78
+
+* Titel: `Baldur's Gate 3 - #78 - Gasthaus zum letzten Licht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich braucht es eine freundliche Niederlassung inmitten all der Schwärze. Es ist nicht einfach ein freundliches Gesicht zu sehen, umso erfreulicher ist es doch das wir jetzt doch an einem Ort ankommen an dem wir einen kurzen Moment durchatmen können. Überraschenderweise sehen wir aber nicht nur eine kleine Armee der Harfner sondern auch schon bekannte Gesichter. Gesichter die wir wohl eigentlich nicht vor Baldurs Tor wiedersehen wollten. Man kann bei den örtlichen Zivilisten wohl durchaus davon sprechen das sie hier gestrandet sind, hier, in den Tiefen der Dunkelheit. Mir scheint das die Lande sehr unsicher geworden sind seit die Absoluten beschlossen haben ihren Würgegriff zu verschärfen. Wie schön das wir eine Fackel in der Dunkelheit gefunden haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 24.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #79
+
+* Titel: `Baldur's Gate 3 - #79 - Geheimkeller des Widerstands [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir haben nicht plötzlich den Ort oder das Szenario gewechselt. Wir finden nur Dinge aus einer Zeit als es hier in der Landschaft rund um die Mondlichttürme noch ein wenig anders aussah. Ich würde übrigens behaupten das nicht alle Shar-Anhänger gleich sind. Nicht alle Gläubigen über einen Kamm zu scheren sind. Möchte ich zumindest hoffen, andernfalls dienen wir eventuell aktuell den falschen Leuten und sollten vielleicht doch noch schnell überlegen das Team zu wechseln. Die Sachlage ist auf jeden Fall die das vor einiger Zeit ein großer Mann namens Ketheric Thorm die Landschaft hier beherrscht hat und die vorher vorherschenden Glauben an Selûne durch Shar versucht hat zu ersetzen. Aber mit Religion ist es nicht immer ganz so einfach und es braucht in der Regel ein oder zwei Generationen bis man hier wirklich einen Wechsel vollziehen kann. Andernfalls braucht es eine Menge Gewalt. Da die Götter aber durchaus real sind und offensichtliche Segen aussprechen können gibt es gute Gründe im Untergrund weiterhin Anbetung zu betreiben und Altäre zu errichten. Und das ist was wir heute finden. Einen geheimen Untergrund der es sich zur Aufgabe gemacht hat trotz der Knute der Shariten die Fahne für Selûne hoch zu halten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 24.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #80
+
+* Titel: `Baldur's Gate 3 - #80 - Schankstube des letzten Lichts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stellt sich doch glatt heraus das der Besuch eines Gasthauses ein wenig länger dauert als nur eine Episode, insbesondere wenn man sich auch noch den lokalen Keller und Anleger anschaut. Das alles dauert fürchterlich lange und deswegen brauche ich jetzt noch eine zweite Episode tatsächlich das eigentliche Gasthaus zu erkunden und nicht nur die eigentliche Raststätte. Alles eine Definitionsfrage, aber wir kommen voran und lange kann es eigentlich nicht mehr dauern bis wir weiter ziehen. Für den Moment reden wir aber noch mit den Leuten in der Schankstube. Ich nehme einmal an das die Harfner tatsächlich größere Mengen Alkohol mit sich geführt haben. Das Zeug das hier seit einigen Jahrzehnten in den Schatten herumlag kann eigentlich nicht mehr gut sein oder? Und was soll Roland sonst trinken? Sind die Harfner in Wirklichkeit eine Bande umherziehender Alkoholiker.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 24.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

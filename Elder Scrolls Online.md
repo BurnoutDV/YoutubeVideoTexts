@@ -10327,6 +10327,271 @@
   Aufnahme vom 15.10.2023 - #1876 - ##55 - S8
   ```
 
+##### #1877
+
+* Titel: `Let's Play ESO #1877 ##56 - Tem, das Omen des Schicksals [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 56 des Nekrom DLC - Sitzung 8
+  
+  Als es neulich hieß das wir „einen“ Daedra beschwören um heraus zu finden wo sich eine alte Kollegin unseres neuen besten Freundes Azandar befindet dachte ich wirklich das es sich um irgendeinen Beobachter oder Wachling handelt der halt zufällig ausgewählt wird. Wie genau das funktioniert ist mir übrigens auch nicht klar. Klar, du kannst irgendwelche Dremora in Nirn beschwören um spontan einen Kampfgefährten bei dir zu haben, aber wie läuft das wenn man sich mit der eher klassischen Dämonenbeschwörung befasst? Ein Wesen aus einer anderen Dimension herbeizurufen um Informationen zu erlangen? Darüber erzählen die Spiele in der Regel nichts. Und was das alles noch interessanter macht, wie sieht das mechanisch aus wenn man von einer daedrischen Ebene in die nächste beschwört? Auf jeden Fall stellt sich heraus das Tem kein normaler Daedra ist und das es hier ein wenig mehr auf sich hat als ein paar Worte zu sprechen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 15.10.2023 - #1877 - ##56 - S8
+  ```
+
+##### #1878
+
+* Titel: `Let's Play ESO #1878 ##57 - Martina Arbor [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 57 des Nekrom DLC - Sitzung 8
+  
+  Experten für obskure Ecken der Daedra und Ebenenforschung findet man nicht überall. Da kann es durchaus lohnenswert sein eine längere Suche zu beginnen. Unsere Suche führt uns zu Martina Arbor, anscheinend einer Expertin auf dem Gebiet auf dem sich auch Azandar bewegt. Wir wissen bis her nur das sie die gemeinsame Arbeit mit ihm aufgegeben hat aber nicht so richtig warum. Interessant ist das sie anscheinend auch an einer sehr ähnlichen Geschichte geforscht hat wie er. Im Hinblick auf weitere Erkenntnisse die wir heute erhalten finde ich es auch interessant das Azandar sein Problem mit dem Schicksalsfaden hat der ihn verfolgt noch nicht so lange hat. Könnte es vielleicht einen Zusammenhang zwischen dem was Martina entdeckt hat und was Azandar hat geben? Vielleicht bringt uns die Zukunft Anworten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 15.10.2023 - #1878 - ##57 - S8
+  ```
+
+##### #1879
+
+* Titel: `Let's Play ESO #1879 ##58 - Schicksalsfäden [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 58 des Nekrom DLC - Sitzung 9
+  
+  Schicksal definiert sich für mich immer noch als etwas das ziemlich fest und unausweichlich da steht. Davon zu wissen stelle ich mir ziemlich depremierend vor, weil es doch auch bedeutet das egal was jemand tut, es vollkommen egal ist. Die Ereignisse standen schon im Vorfeld fest und alle Akteure sind nur Marionetten die den vorgegebenen Ablauf der Realität durchspielen. Kaum mehr als unbezahlte Schauspieler die für irgendeine verborgene Gottheit durch die Bewegungen eines Skriptes gehen der schon geschrieben wurde. Insofern könnte man durchaus nachvollziehen warum man hier ein wenig Kontrolle gewinnen will. Ich frage mich allerdings schon wie das überhaupt möglich sein soll wenn alles bereits fest steht. Wie kann das Ende des Schicksals festgeschrieben stehen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 19.10.2023 - #1879 - ##58 - S9
+  ```
+
+##### #1880
+
+* Titel: `Let's Play ESO #1880 ##59 - abgeschlossen, ausgeführt, angefangen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 59 des Nekrom DLC - Sitzung 9
+  
+  Ich gebe mir wirklich Mühe, für dich, du unbekannter Leser meiner Texte der vielleicht nie etwas sagt aber doch liest. Oder nicht einmal liest aber ganz passiv im Hintergrund guckst. Vielleicht merkt man es nicht, vielleicht ist es auch nur der minimale Standard den ich versuche zu halten dessen Erreichen dir nicht einmal bemerkenswert erscheint. Ich spreche davon das die einzelnen Episoden irgendwie einen halbwegs sauberen Abschluss haben so dass, wenn du die „Episoden“ guckst sie auch irgendwie ein Ende und ein Anfang finden. Ganz früher habe ich debattiert ob ich anmoderieren sollte oder lieber kontinuierlich aufnehme und dann in Pausen einfach schneide. Seit dem ist viel Zeit vergangen. Mittlerweile gehe ich sogar noch weiter, ich bemühe mich das Quests abgeschlossen sind, oder zumindest sinnvoll eine Pause finden wenn ich eine Folge beende. Das klappt erstaunlich oft. Manchmal auch weil ich im Nachgang noch einmal die Schere ansetze. Heute gelingt es mir nicht. Erst erwische ich die letzten 2 Minuten eines Quest Endes, dann finde ich eine weird kurze Quest und fange dann noch etwas an das anscheinend eine Stunde geht. Ärgerlich. Ich hoffe du kannst mir verzeihen unbekanntes Wesen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 19.10.2023 - #1880 - ##59 - S9
+  ```
+
+##### #1881
+
+* Titel: `Let's Play ESO #1881 ##60 - Kemel-Ze [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 60 des Nekrom DLC - Sitzung 9
+  
+  In der letzten Beschreibung, wir könnte sie auch „Briefe an den Zuschauer“ nennen, schrieb ich das ich eine Quest angefangen habe die eine Stunde dauert. Zum Aufnahmezeitpunkt wusste ich das natürlich noch nicht. Tatsächlich hätte dies auch Episode 1881 und 1882 sein können. Aber so eine richtig gute Stelle zum Teilen war auch nicht. Als mir auffiel das sich das hier eventuell noch ein wenig zieht waren wir schon bei 30 Minuten, und das ist eine schlechte Stelle um so etwas zu erwähnen. Kemel-Ze bietet erstaunlich viel. Ich hatte den Ort in der Vergangenheit bereits einmal betreten für eine andere Quest aber heute gehen wir wirklich tief. Es stellt sich doch glatt heraus das es sich um einen durchaus signifikanten Platz handelt. Eine Stätte der Lehre, der Forschung und an eine an der Sotha Sil selbst seine Ausbildung erfahren hat. Das ist ziemlich wichtig, weil am Ende ist das hier eine kleine Mini-Stadt der Uhrwerke. Und das ist in sich schon beeindruckend. Ich fürchte fast das ich zur Aufnahme nicht in der richtigen geistigen Verfassung war um diesen Umstand genügend zu würdigen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 19.10.2023 - #1881 - ##60 - S9
+  ```
+
+##### #1882
+
+* Titel: `Let's Play ESO #1882 ##61 - Wahnsinn im Wind [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 61 des Nekrom DLC - Sitzung 9
+  
+  Ich fürchte mit der Wahnsinns Diskussion werde ich mich noch das ein oder andere Mal auseinander setzen müssen. Aber letztendlich sind wir wieder am Anfangspunkt, es ist völlig unklar wie man eigentlich Wahnsinn definieren will. Läuft das so wie bei Cyberpunk bzw. Shadowrun das man Stück für Stück in manische Phasen abdriftet und sich selbst verliert, Episoden des Kontrollverlusts bis man nur noch ein geiferndes Wesen ist? Oder ist es mehr schleichend, intrusive Gedanken die den normalen Ablauf gefährden. Abstruse Abbiegungen im Vorgang des Denkens die dann mehr und mehr nicht mehr korrigiert werden können bis man selbst nicht mehr in der Lage ist zu unterscheiden was passiert ist. Anscheinend sind Chiffren besonders anfällig für den Wahnsinn, vielleicht sind sie auch immer kurz davor, und so war heute ein einzelner Agent einer unbekannten Macht in der Lage eine ganze Einrichtung zu Fall zu bringen. Faszinierend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 22.10.2023 - #1882 - ##61 - S9
+  ```
+
+##### #1883
+
+* Titel: `Let's Play ESO #1883 ##62 - das Numinose Grimoire [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 62 des Nekrom DLC - Sitzung 9
+  
+  Heute sehen wir den Anfang einer Sammelquest. Zu der kann ich noch gar nicht soviel sagen weil wir sie heute nicht fertigstellen werden, schon weil es sich ein wenig zieht. Ich glaube eigentlich ist vorgesehen das man die Quest einfach mal so nebenher abliefert und dann später macht wenn man zufällig alle Teile gefunden hat. Ich schummle in solchen Fällen aber immer ganz gerne und lasse mir einfach anzeigen wo alle Teile sind damit ich nicht suchen muss. Als ich gesehen habe das wir mit Band 2 anfangen hatte ich natürlich noch keine Ahnung um was es sich handeln wird, hätte es aber durchaus für möglich gehalten das dies der Titel der Quest ist und es sich beispielsweise um einen Autor dreht der versucht einen Nachfolger zu schreiben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 23.10.2023 - #1883 - ##62 - S9
+  ```
+
+##### #1884
+
+* Titel: `Let's Play ESO #1884 ##63 - der numinose Ritus [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 63 des Nekrom DLC - Sitzung 9
+  
+  Wenn man ein Buch findet das sich mit einem numinosen Ritual auseinander setzt spricht ja auch Einiges dafür das man auch jemanden findet der dann besagtes Ritual auch tatsächlich durchführt. Faszinierend ist eigentlich nur das sich ein Magier für genau diesen Weg entschieden hat. Letztendlich ging es um die ewige Frage wie man der eigenen Sterblichkeit entkommen kann. Ich bin hier ein wenig enttäuscht von der Kreativität des entsprechenden Magiers, klar, er war bereits alt, aber sich in einen Geist zu verwandeln scheint mir wirklich nicht die beste Methode zu sein. Ein Lich zu werden ist auch nicht so einfach, aber wenn man sich berühmte Zauberwirker so anschaut, so muss es konventionelle Taktiken geben die ganz gut funktionieren. Schritt 1 wäre natürlich immer sich in eine langlebige Rasse zu verwandeln, das kann eigentlich nicht so schwer sein, auch wenn wir dafür keine direkten Beispiele haben. Dann wäre natürlich noch Seelentransfer in einem anderen Körper, das erfordert nur ein Opfer sollte aber doch wirklich möglich sein wenn man das Wissen von Apocrypha hat. Aber nein, stattdessen soll es ein wissensverzehender Geist sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 23.10.2023 - #1884 - ##63 - S9
+  ```
+
+##### #1885
+
+* Titel: `Let's Play ESO #1885 ##64 - Verrätergeschäft in Camonnaruhn [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 64 des Nekrom DLC - Sitzung 9
+  
+  Kaum haben wir die Unsterblichkeit eines Individuums verhindert sind wir auch schon an der nächsten Adresse um das Leben Anderer zu beenden. Sich in Dunkelelfen Politik einzumischen ist allgemein wohl eher eine mittelgute Idee aber wenn man wirklich nur als Auftragnehmer unterwegs ist, was kann schon schief gehen? Der Fall hier ist auch relativ einfach, irgendjemand fand das Handeln einer bestimmten Person im größeren Kontext nicht gut und daher muss man das Problem jetzt aus der Zuckerwatte des Lebens herausschneiden. Etwas doof für die entsprechende Person die eventuell nicht ganz die Atmosphäre gelesen hat, aber irgendjemand muss ja Schuld sein. Wir retten nur ein paar Geißeln, das wird uns hoffentlich vor etwaigen Repressalien verschonen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 25.10.2023 - #1885 - ##64 - S9
+  ```
+
+##### #1886
+
+* Titel: `Let's Play ESO #1886 ##65 - Azandars arkane Bobine [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 65 des Nekrom DLC - Sitzung 9
+  
+  Themenwechsel, wir beschäftigen uns nicht mehr mit Dunkelelfenpolitik sondern mit zerfaserten Schicksalen. Das ganze Thema ist übrigens für mich nur so mittelmäßig interessant. Klar, irgendwie schön das wir uns einmal mit ein wenig mehr esoterischen Aspekten auseinander setzen, mit einem fantastischen Element das nicht einfach durch Logik erklärt werden kann. Andererseits scheint mir die interne Logik der Schicksalsstränge nicht so richtig aufgearbeitet zu sein. Selbst wenn das alles am Ende zusammenpasst und wirklich gut erklärt worden ist, so ist mir halt nicht klar ob das jetzt alle wirklich in die Welt passt. Definitiv anfühlen tut es sich das alles nach Traumlogik und dem Prinzip „weil wir das jetzt so festlegen“ funktioniert, ohne das es dafür vorher definierte Regeln gibt. Oder wenn Regeln nicht das richtige Wort ist, Andeutungen das die Welt das Konzept Schicksalsfaden überhaupt unterstützt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 26.10.2023 - #1886 - ##65 - S9
+  ```
+
+##### #1887
+
+* Titel: `Let's Play ESO #1887 ##66 - Unbeschrittene Pfade [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 66 des Nekrom DLC - Sitzung 9
+  
+  Wenn man forscht betritt man in der Regel unerkundete Ecken der Wissenschaft. Bis man aber an diesen metaphorischen Winkeln der Dunkelheit ist muss man sich vorher durch ein Labyrinth an vorhandenen Wissen kämpfen. Man sagt ja nicht umsonst das jede Forschung auf den Schultern seiner Vorgänger steht. Bei der arkanen Forschung ist das alles ein wenig undurchsichtiger. Jetzt ist mir aber auch nicht ganz klar ob Magie in ihrer Lebendigkeit einfach zu komplex ist und man nicht systematisch heran gehen kann oder ob sie sich sogar bewusst dagegen wehrt einfach analytisch auseinander genommen zu werden. Auf jeden Fall endet die Forschung der Magie in der Regel eher so das man eine Dschungelexpedition startet anstatt die Grenze des Wissens ein wenig nach vorne zu schieben. Man bahnt sich einen neuen Pfad und sucht sich Wege die weniger Widerstand bieten. Und auf diesen Wegen befinden wir uns jetzt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 26.10.2023 - #1887 - ##66 - S9
+  ```
+
+##### #1888
+
+* Titel: `Let's Play ESO #1888 ##67 - die Wirren des Widersachers [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 67 des Nekrom DLC - Sitzung 9
+  
+  Einen echten Nemesis zu haben ist anstrengend. Es kommt mir sehr so vor als hätte ich genau diese Zeile schon einmal geschrieben, das Thema ist also rein philosophisch für mich nicht neu. Und hier sind wir großzügig, scheint es mir doch das es an Tiefe mangelt. Besser wäre es aber einen Rivalen zu haben, jemand der parallel auf das Gleiche Ziel hin arbeitet und eventuell sogar knappe Ressourcen dabei verbraucht aber nicht direkt antagonistisch agiert. Weil das ist dann so wie der Nachbar der nur darauf wartet das man die Treppe nicht fegt, ausmisst ob der Müll auch richtig steht und Schlag 10 die Bullen ruft wenn es zu laut ist. Solche Leute will man nicht im Leben haben. Zu Azandars Pech ist die Morag Tong wohl keine Option für seine Probleme. Da es in dieser Welt auch keine Ghost Busters gibt braucht es wohl einen Ansatz der ein wenig mehr „hands-on“ ist. Persönlicher, individueller. Solche Lösungen sind in der Regel echt teuer, und wir reden hier nicht von Geld.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 26.10.2023 - #1888 - ##67 - S9
+  ```
+
+##### #1889
+
+* Titel: `Let's Play ESO #1889 ##68 - Ametrische Intervallkammer [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 68 des Nekrom DLC - Sitzung 9
+  
+  Als ich vor ein paar Episoden lamentiert habe das die ganze Geschichte mit Azandar und den Schicksalsträngen nicht wirklich auf vorhandene Lore fußen kann habe ich die Dwermer vergessen. Mit ihrer tonalen Architektur haben sie irgendwie die Realität verändert und wir hatten schon mehrfach Fälle das genau das noch einmal passiert ist. Es handelt sich um offensichtlich ziemlich gefährlicher Technologie die das Gefüge allen Seins direkt beeinflussen kann. Welch Glück eigentlich das es noch nicht in die falschen Hände geraten ist. Andererseits gibt es auch Hinweise darauf das ein Eingreiftrupp auftaucht wenn es zu bunt wird. In einer Dwermerstätte hatten wir ja bereits eine Begegnung mit Realitätsreisenden. Aber das erklärt auf jeden Fall eine Menge, und auch wie die Geschichte hier überhaupt so bizarr schief gehen konnte. Alles was mit tonaler Architektur geschieht geht eigentlich immer irgendwie komisch zur Seite. Nie irgendwie gradeaus oder nachvollziehbar. In dieser spezifischen Ecke der Lore bin ich auch einfach nicht tief genug drin um dazu mehr zu sagen. Nur das damit quasi alle Seltsamkeiten irgendwie erklärt sind. Irgendwie.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 30.10.2023 - #1889 - ##68 - S9
+  ```
+
+##### #1890
+
+* Titel: `Let's Play ESO #1890 ##69 - Palimpset der Entwirrung [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 69 des Nekrom DLC - Sitzung 9
+  
+  Es gibt einen Joker für all unsere Probleme. Ärgerlicherweise liegt dieser Joker in der Bogentränke, den einen Ort den ich wirklich am wenigstens leiden kann. Wie dem aber auch sei, es scheint sich um ein magisches Artefakt zu handeln das genau einmal jemanden helfen kann. Bei der Fülle an magischen Objekten und legendären Grimoiren habe ich aber den leichten Verdacht das man jeden Tag ein einzigartiges, einmal Dings nutzen kann und man nie besonders schwer suchen muss. Wir haben immerhin Zugriff auf Apocrypha und scheinbar stört sich auch niemand daran das wir in irgendwelche heiligen Orte einfach einbrechen und uns schnappen was wir wollen. Irgendwelche Chiffren arbeiten jahrhundertelang als Boten um eventuell eine niedere Position in diesem Archiv zu erhalten und wir treten einfach die Vordertür ein, zerstören ein paar Daedra und gehen mit dem was wir wollen wieder heraus. All das ohne irgendwelche langfristigen Folgen fürchten zu müssen, zumindest habe ich bisher noch von keinen gehört. Das bricht ein wenig den Schrecken des daedrischen finde ich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 30.10.2023 - #1890 - ##69 - S9
+  ```
+
+##### #1891
+
+* Titel: `Let's Play ESO #1891 ##70 - Erläuterung der Blutstein Rubrik [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 70 des Nekrom DLC - Sitzung 9
+  
+  Der heutige Titel wird präsentiert von: meinen schlechten Sinn für Humor. Ein Erklärungsversuch: wir sammeln heute drei verschiedene Gegenstände, Natriins Erläuterungen, eine ätherische Rubrik und einen Blutstein. Insbesondere letzter ergibt für mich übrigen wenig Sinn und eine Rubrik stellt für mich auch nichts da was man anfassen kann, aber jetzt sind wir hier und sollen die Dinger sammeln. Ausgeschrieben wäre das als Titel aber viel zu lange gewesen. Also dachte ich mir, wenn ich die Worte auf einer bestimmten Weise anordne, kommt etwas heraus das sich ein wenig wie ein Satz anfühlt. Etwas das logisch und gleichzeitig unlogisch ist. Ein wenig Wahnsinn in einer Welt die nach Ordnung schreit. Ein wenige verqueres (boah, ich hasse es das das Wort so versucht ist) Denken in einer Geschichte die bereits tausend Ecken hat. Außerdem erfahren wir ein wenig über den jungen Azandar, wenn auch nur kleine Bruchstücke und Einblicke. Aber könnte die Geschichte wirklich eine Langform von dem was er früher tat vertragen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 30.10.2023 - #1891 - ##70 - S9
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #TEMPLATE
 
 * Beschreibung:

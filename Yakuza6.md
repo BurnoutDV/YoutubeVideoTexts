@@ -181,3 +181,135 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
   Sitzung 2, Aufnahme vom 09.10.2023
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
+
+##### #12
+
+* Titel: `Yakuza 6 - #12 - Ich, Hiji [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erstaunlicherweise beschäftigt sich diese Episode mit einem recht interessanten Thema. Künstlicher Intelligenz und was die Seele ist. Oder so ungefähr. An sich spoilere ich den gesamten Inhalt der Episode aber sei es drum, ich würde das Thema gerne noch einmal in Schrift bereden. Vorweg, das ausreichend intelligente „Software“ auf aktueller, mobiler Hardware läuft ist ein wenig unwahrscheinlich, die meisten Spracherkennungs-Netzwerke die wir aktuell haben wären schon auf guten Laptops unterhalb von Echtzeitgeschwindigkeit, und da haben wir noch nicht den Teil wo ChatGPT mäßig auf Worte eingegangen wird. Selbstständiges Denken ist wahrscheinlich noch teurer, andererseits, das Gehirn läuft auch mit 2,5 Watt oder so. Aber nehmen wir an, jeder hat seine eigene, kleine künstliche Intelligenz auf dem Handy. Was passiert wenn das Gerät verloren geht, oder zerstört wird. Ist das dann nicht gleichzeitig ein Grund für eine Beerdigung. Und wie genau machen wir das mit den Backups. Menschen sind schwierig zu kopieren, aber ein Datenkonstrukt wäre gesamtheitlich zu erfassen. Wie genau behandeln wir das moralisch?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 2, Aufnahme vom 09.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #13
+
+* Titel: `Yakuza 6 - #13 - Höflichkeitsbesuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man als ehemaliger Yakuza-Patriarch mal wieder in der Stadt ist kommt man anscheinend nicht darum herum einen kleinen Besuch im Hauptquartier der Vereinigung abzulegen. Das machen wir dann heute auch. Während ich das hier schreibe frage ich mich übrigens ein wenig wie Kiryu überhaupt jemals in der Lage gewesen ist das Angebot abzulehnen Patriarch zu sein. Bei allen anderen Belangen hat er sich eigentlich immer der Not der Stunde gewidmet und Aufgaben übernommen wenn sich niemand gefunden hat. Und grade bei einem so wichtigen Amt wie das des führenden Kanto-Yakuza war er in der Lage Nein zu sagen? Bei einem Job bei dem man wirklich den besten der Besten braucht? Für eine Rolle für die er grade zu geschaffen war? Da war er in der Lage abzulehnen? Auch andere, moderne Yakuza sind davon ein wenig verwirrt und wissen die Entscheidung nicht ganz so zu würdigen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 2, Aufnahme vom 09.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #14
+
+* Titel: `Yakuza 6 - #14 - ein wahrer Fan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht nur das man sich als Kazuma Kiryu mit seiner eigenen Vergangenheit herumschlagen muss, neuerdings gibt es da auch noch die Legende von Haruka Sawamura die es in gewisser Weise zu einer größeren Berühmtheit gebracht hat als Kiryu es je möglich gehabt hat, wenn auch auf ihrer eigenen Art und Weise. Während bestimmte Personen Kiryus Namen noch heute flüstern wenn sie bei der fünften Sake angekommen sind, so ist Harukas Name schon lange wieder verblasst. Er brannte nur kurz hell und weit und erlosch dann rasend schnell, wahrscheinlich zur großen Enttäuschung all der Personen die sie zu dem gemacht haben was sie kurz war. Und doch, hier und da gibt es noch Echos, ein Klingen eines Namens der in Ungnade fiel. Ein Nachhallen von Tönen längst vergangenen Schritten. Auf dessen Spuren befindet sich heute Kiryu, der Name seiner Tochter ist noch nicht ganz vergessen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 2, Aufnahme vom 09.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #15
+
+* Titel: `Yakuza 6 - #15 - Troublr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben in diesem Teil eine nicht grade subtile Smartphone Platzierung. Ich weiß nicht genau welches Telefon es darstellen soll, vielleicht war es auch nie in Europa verfügbar aber ich kann gerne ein wenig über Sony Telefone ranten. In der Tat besaß ich mehre Sony Ericsson Telefone in der Vergangenheit. Das Erste, ein W810i, noch aus der Pre-Smartphone Era war in der Tat ein ziemlich nettes Gerät. Ein Verwandter besaß ein Nachfolgertelefon der Walkman Series an das ich mich für sein „sleakes“ Design erinnere, ich glaube das Display war schon damals hochauflösend oder so. Die anderen Telefone die ich von Sony hatte waren dagegen nicht so stellar. Bei zweien starb mir die Batterie nach 3 Jahren und beide hatten eine eher suboptimale Kamera. Das ist erstaunlich wenn man bedenkt das Sony vor allem für Kameras bekannt ist. Vielleicht aber auch nur anekdotisch weil ich nie Flagship Modelle gekauft habe. So richtig zufrieden war ich auf jeden Fall nie. Für Kiryu ist das wohl alles egal, für ihn ist nur interessant das er die App Troublr nutzen kann um Leute zu verprügeln. Das machen wir heute.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 3, Aufnahme vom 16.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #16
+
+* Titel: `Yakuza 6 - #16 - Besuch vom Jugendamt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hey du! Leser meine Beschreibungstexte. Ich weiß es das dich gibt! Auch wenn nur weil es quasi implizit ist, wenn du diese Worte liest hast du gelesen. Ouroboros und so. Zum Thema, mit dem deutschen Jugendamt habe ich nur begrenzt Erfahrung aber dafür keine Guten. In meinem Fall handelte es sich um ein Sachbearbeiter der Sachwerte weit unter Wert verkauft hat um Rechnungen zu bezahlen obwohl noch ausreichende Bar-Vermögen vorhanden waren. Kurzum, Korruption. Ansonsten habe ich auch nur Hörensagen, in dem Sinne das es sich um Menschen handelt die selten im Sinne des Kindes handeln das eigentlich Hauptgegenstand ihrer Arbeit ist. Ich glaube ich kann das erklären, es handelt sich um eine Behörde, ein Amt, das Prozesse verfolgt. Menschen sind aber nur selten prozesstauglich, und insbesondere jene nicht die noch jung sind. Hier treffen also zwei Welten aufeinander. Und wenn man einen geordneten 9-5 Job hat dann sind solche dynamischen Vorgänge natürlich Gift und zu Ignorieren. Kiryu kürzt den bürokratischen Prozess aber ein wenig ab, auch wenn ich mir immer noch ziemlich unsicher bin das es sich wirklich um eine Kind von Haruka handelt, hier vermuten die diversen Charaktere ein wenig viel meiner Meinung nach.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 3, Aufnahme vom 16.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #17
+
+* Titel: `Yakuza 6 - #17 - Ankunft in Hiroshima [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich war schon einmal in Hiroshima. Schöne Stadt eigentlich, nicht so hektisch wie Tokyo und die örtliche Straßenbahn sieht ein wenig antik aus. Die Boulderhalle war leider ein wenig sehr weit von meinem Hotel entfernt, also kann ich über die leider gar nichts sagen. Auf jeden Fall keine zerbombte Großstadt die grün leuchtet. Was aufgrund der Historie vielleicht etwas ist was man vermuten könnte. Die Stadt selbst bietet ein großes Museum, ein paar Einkaufsstraßen, Schreine auf dem Dach eines Kaufhauses und natürlich den Hiroshima Dome, die letzten Überbleibsel der Handwerkskammer die die Atombombe als Skelett überstanden hat. All das ist richtig doll uninteressant für Kiryu, er geht nicht in das Stadtzentrum sondern in irgendeinen kleinen, verschlafenen Bezirk südlich der eigentlichen Stadt. Aber vielleicht besucht er ja noch die Insel mit den Rehen, die war auch ganz nice.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 3, Aufnahme vom 16.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #18
+
+* Titel: `Yakuza 6 - #18 - Babygeschrei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß echt nicht warum die Mechanik in dieses Spiel eingebaut wurde. Wenn du dir ersparen willst wie ich mich aufrege und Babygeschrei klingt, überspringe diese Episode.
+  
+  Kein weiterer Text. Grmpf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 3, Aufnahme vom 16.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #19
+
+* Titel: `Yakuza 6 - #19 - Sportveranstaltung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sport ist Mord. So oder so ähnlich hat irgendjemand in meiner Vergangenheit über eben jene Leibesertüchtigung geredet. Meine eigene Stellung sieht mittlerweile ein wenig anders aus. Nicht jeder Sport ist für jede Person und ich kann durchaus verstehen das in der Schule ein lebenslanger Hass für bestimmte Disziplinen entstehen kann. Das muss aber nicht so sein und es gibt durchaus Nischen für den ein oder Anderen die vielleicht nicht ganz so offensichtlich sind. Und dann wäre da natürlich auch noch der Team Aspekt, gemeinsam zu spielen und etwas zu erreichen oder so gar nur zu verlieren kann etwas Besonderes sein. Die Art von Sport in der sich Kiryu heute versucht hat damit allerdings wenig zu tun. Viel mehr ist es der Vorwand um Leute zu treffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 3, Aufnahme vom 16.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

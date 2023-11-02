@@ -360,6 +360,231 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
+##### #24
+
+* Titel: `GoW Ragnarök - #24 - Nachtwanderung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich einst ein kleiner Junge war habe ich mich auch öfter Nachts rausgeschlichen. Das Ding war nur, so gerne ich auch in einer Stadt gewohnt hätte, so lebte ich doch in einem kleinen verschlafenen Dorf. Dir größte Gefahr wären eventuell Wildschweine gewesen, aber dafür hätte man sich wirklich weit heraus wagen müssen. Es gab auch keine nächtliche Weggefährten mit denen ich gemeinsam in die wilde, nächtliche Welt hinaus gehen konnte. Das hat mir Atreus weit voraus. Andererseits hatte ich auch nie das reale Risiko bei meinen Expeditionen zu sterben oder irgendwelchen wütenden Göttern zu begegnen die der Meinung waren das mein Leben verwirkt ist. Letztendlich ist dann wohl alles in Wage. Ich weiß nicht ob man Atreus Handeln verurteilen kann, aber am Ende hat es Kratos ja selber gesagt: „Der Junge will seine eigenen Fehler begehen“. Ich habe keine tollen Erziehungstipps für diesen Fall, aber wahrscheinlich fällt es in den Aufgabenbereich eines Elter die Auswirkungen dieser Fehler zu minimieren. Schauen wir doch einmal wie groß der Einschlag unseres jungen Gottes ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 4, Aufnahme vom 12.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #25
+
+* Titel: `GoW Ragnarök - #25 - emanzipierter Alleingang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Framing ist das halbe Leben. Ein schönes Englisches Wörtchen das ich gar nicht so gut übersetzen kann selbst wenn ich wirklich müsste. Wir setzen Worte in den Rahmen. So wie ein goldener Rahmen ein schlechtes Bild edler erscheinen lassen kann so kann man Taten mit den richtigen Worten und unnötigen Ausschmückungen wesentlich besser hinstellen als sie es eigentlich waren wenn man sie im harschen Licht des Tages beurteilt. Deswegen sind wir auch in der Nacht unterwegs. Heute stelle ich also das Vorgehen von Atreus als „Emanzipation“ da. Der Begriff wird gerne verwendet um steigende Unabhängigkeit von einstmals unterdrückten Menschen auszudrücken, auf Kinder also nur bedingt anwendbar, ich finde aber das geht schon klar. Für den ersten Teil unserer Reise hatten wir ja noch Sindri als Begleiter, aber mit dem verkrachen wer es uns dann heute auch noch, so das wir jetzt wieder alleine da stehen. Unabhängigkeit. Süß und kühl. Auch gut das Atreus anscheinend nicht wirklich kalt werden kann. Er spürt die Element zwar aber so richtig ausmachen tun sie ihn offensichtlich nichts. Andernfalls wäre er wahrscheinlich schon lange tot. Welch Glück aber auch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 4, Aufnahme vom 12.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #26
+
+* Titel: `GoW Ragnarök - #26 - alte Freynde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dies ist immer noch die gleiche Aufnahme in der wir auch Tyr befreit haben. Als ich nach dem ehemaligen Kriegsgott gesucht habe machte ich eine Menge Tür Wortspiele. Das war anscheinend infektiös und so hat es sich enorm angeboten mit dem Thema weiter zu machen. Wir treffen heute Freya, wie auch immer gut die Idee auch sein mag. Das ist erwähnenswert weil Freya nicht nur eine Wanengöttin sondern auch eine Freundin ist. Und irgendwie auch eine Feindin nachdem sie zwischenzeitlich geschworen hat Kratos und irgendwie auch Atreus zu töten dafür das wir ihren Sohn getötet haben. Wenn auch eigentlich nur um ihr Leben zu retten. Ich frage mich übrigens wirklich was eigentlich aus Baldur wurde. Der Gute ist schließlich im Kampf gefallen. Müsste er sich jetzt nicht in den Reihen der Einherjer befinden? Das ist doch quasi der schnellste Weg zur Wiederbelebung oder? Freya ist übrigens immer noch ein wenig sauer. Unerklärlich das.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 4, Aufnahme vom 12.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #27
+
+* Titel: `GoW Ragnarök - #27 - Zwischen den Welten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sindris Haus liegt irgendwo zwischen den Zweigen des Baumes Yggdrasil. Es ist wahrscheinlich schwer zu erfassen wie groß der Baum eigentlich wirklich ist. Ob es sich wirklich um eine Pflanze handelt oder es nur das Konzept ist das die Menschen am ehesten verstehen können. Es könnte sich auch um ein gewaltiges Bürohaus handeln wenn wir moderne Menschen wären. Sind wir aber nicht. Wenn es aber ein Büro wäre, was wäre dann das Eichhörnchen das ihn bewacht? Ein Hausmeister mit finnischen Namen? Unser Hausmeister heißt aber heute Ratatöskr und scheint recht gesellig zu sein. Freundlich gar. Außerdem mit einem gesegneten Appetit. Wir hängen also nicht wirklich zwischen den Welten fest, viel mehr verweilen wir weil wir können. Und dann gehen wir woanders hin weil es uns das Eichhörnchen erlaubt. Flauschiges Tier mit garstigen Unter-Persönlichkeiten. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 4, Aufnahme vom 12.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #28
+
+* Titel: `GoW Ragnarök - #28 - Da ist eine Lücke! [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich möchte feststellen das da vorne eine Lücke ist. Und damit willkommen zurück in Albheim. Den Ort wo sich alles um das Licht und den ewigen Konflikt der Alben dreht. Mittlerweile sind unsere Reflektionen die sich um den Krieg und ewigen Konflikt drehen ein wenig erwachsener geworden. Außerdem haben wir direkt zwei Kriegsgötter bei uns die beide eher davon reden sich aus Konflikten eher fern zu halten während die dritte Partei ein Junge in schwierigen Jahren ist. Einem Alter in dem man verzweifelt nach Halt, Anschluss und Orientierung sucht. Kurzum, nicht grade dafür geeignet um das beste Fundament für den Konflikt zu haben der sich hier grade entfaltet. Und dann setzt es eines Tages im Kopf aus und man sagt immer und immer wieder das Gleiche. Eigentlich schade das dies Atreus zustoßen musste, aber manchmal erwischt es halt die Besten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 4, Aufnahme vom 12.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #29
+
+* Titel: `GoW Ragnarök - #29 - Von Licht und Dämmerstein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir drängt sich ja ein wenig der Verdacht auf das es ein gewisses Licht und Schatten Thema bei den Alben gibt und das sich hier Nacht und Tag andauernd abwechseln. Und eventuell haben wir auch das Gleichgewicht durch unser eingreifen durcheinander gebracht. Andererseits scheint das auch keine Rolle mehr zu spielen wenn das Ende der Zeit gekommen ist. Welchen Wert hat schon der Konflikt der Alben untereinander und ihr ewiger Streit um das Licht wenn es am Ende nichts mehr gibt und alles was war aufhört zu sein? Immerhin lernen wir auf diesen letzten Meter noch einmal wie man mit Dämmersteinen umgeht. Manchmal frage ich mich aber schon ob und wie der Konflikt der Alben friedlich gelöst werden könnte..und wer die Rechnung für die Sachbeschädigung durch griechische Götter bezahlt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 4, Aufnahme vom 12.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #30
+
+* Titel: `GoW Ragnarök - #30 - Fahrstuhl im Licht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Allgemein sagt man wohl das man eher nicht ins Licht gehen soll, aber von allem was wir hier so sehen ist das Licht eine echte Sache die man sich näher anschauen kann. Interessant ist auch das man normalerweise nicht so einfach in das Licht gehen kann ohne verbrannt zu werden. Als Sindri damals seinen Bruder gerettet hat muss er das irgendwie anders angegangen sein. Jetzt stellt sich ein wenig die Frage was der Unterschied zwischen in das Licht gehen und die vier Seelenfragmente zu retten ist. Und ob es überhaupt möglich wäre die Leute fertig aus dem Licht zu ziehen selbst wenn man so wie Kratos ist und scheinbar ohne größere Probleme darin umherlaufen kann. All das ist aber heute nicht weiter relevant weil wir ja das Licht nur als Fahrstuhl nutzen und nicht als Quelle der Nekromantie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 5, Aufnahme vom 19.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #31
+
+* Titel: `GoW Ragnarök - #31 - Groas Prophezeiung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Visionen der Zukunft sind ein wenig kompliziert. An sich funktionieren sie nur in Geschichten und so gesehen ist die „Vision“ die eine Autorin für ihr Werk hat ja auch nichts Anderes als eine Gewissheit über die Beschaffenheit der Zukunft. In diesem Fall ist die Autorin aber eine allmächtiger Schöpferin von dem was sein wird und immer gewesen ist. Auch wenn es dort beim Schreiben auch unterschiedliche Ansätze gibt und sich so mancher Autor doch überraschen lässt wie sich die Charaktere entwickeln, quasi wie ein kleines Mini-Rollenspiel im Kopf. Wenn aber die Personen in der Geschichte von ihrem Schicksal wissen dann wird es schwierig. Arthur Dent konnte sich immer sicher sein das er alles überlebt bis ein bestimmter Ort erreicht war. Später wird übrigens jemand sagen das Schicksal so nicht funktioniert. Angeblich. Wenn aber bekannt ist wie die Realität ausgeht und man selbst eine wichtige Person darin ist, und wirklich namentlich erwähnt wird, dann ist es eigentlich egal was man bis dahin tut. Oft sind solche Visionen dann ein wenig ungenau und die genauen Umstände sind nicht ersichtlich so das ein wenig Flexibilität drin ist, auch schon um das erzählerische Narrativ mit Spannung zu versorgen. Alternativ sind Visionen auch nur eine Momentaufnahme der kollabierten Wahrscheinlichkeitsmatrix und das alleinige Wissen dessen ermöglicht es Veränderungen vorzunehmen. Manchmal inkludiert die Berechnung diese Einmischung aber der Zustand ist bestenfalls metastabil. Wenn man genug wahren Zufall rein gießt zerbricht alles. Ob Sohn zufällig ein paar gute Detektoren für Kernzerfall hat?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 5, Aufnahme vom 19.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #32
+
+* Titel: `GoW Ragnarök - #32 - Vorgeschmack des Krieges [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Verhältnis zum Krieg wechselt sich ein wenig mit dem Alter. An und für sich kann man sich nüchtern kaum einen guten Grund dafür vorstellen, die Vernichtung von Mensch und Material ist in jedem Fall erheblich und die verlorene Zeit ist auch nicht zu vernachlässigen. Und doch sind es alte Männer die entscheiden das Junge sterben müssen. Mit genügend Vorbereitung sind die jungen Menschen auch noch ziemlich begeistert davon in den Krieg zu ziehen. Das kann man natürlich ein wenig besser verkaufen wenn der entsprechende Konflikt weit von der Heimat entfernt ist und nicht so viel von den Grausamkeiten nach Hause dringt. Und am besten vorher nichts von den Folgen zu sehen ist. Für Atreus könnte das ein wenig kippen wenn man sich die wiederholten Konflikte der Alben anschaut. Letztendlich ist es eine endlose Folge von Zerstörung und Leid. So richtig erhebend ist das nicht, und Lust auf mehr macht es auch nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 5, Aufnahme vom 19.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #33
+
+* Titel: `GoW Ragnarök - #33 - die Tiefe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einen Ort „die Tiefen“ zu nennen ist nicht besonders aussagekräftig. Rein sprachlich gesehen muss man solche Aussagen immer in einen Kontext setzen, in diesem Fall spielen wir God of War Ragnarök und ich bin mir relativ sicher das es nur einen einzigen Ort gibt der tatsächlich „Die Tiefen“ heißt. Richtig spezifisch sind aber irgendwelche tieferen Höhlen in einen kleinen, den Dunkelalben zugehörigen Abschnitt der Wüste in der Nähe des Lichts gemeint. In Albheim. Damit ist so halbwegs klar welche Höhle ich gemeint haben könnte, aber wenn wir uns noch ein wenig umsehen würden halte ich es nicht für unwahrscheinlich das wir nicht auch noch andere Höhlen finden die sehr ähnlich sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 5, Aufnahme vom 19.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #34
+
+* Titel: `GoW Ragnarök - #34 - Geheimnisse der Sande [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wüsten sind faszinierend. Ich spreche irgendwie andauernd über das Thema wenn es um Spiele geht. Leider umfasst Wüsten auch das man eine Menge Gebiet hat in dem sich absolut nichts befindet. Nicht besonders viele Wüsten sind auch endlose Sandmeere, gerne hat man es eher mit Steinen und unwirtlicher Landschaft zu tun die immerhin ein wenig für das Auge liefert. So auch hier, klar, Sand ist da aber es ist ja nicht so das wir endlose Sande sehen. Vielleicht wenn wir uns ein wenig raus wagen würden dann wäre da am Ende nur Sand, aber dann gebe es da auch nichts und ich bin mir echt nicht sicher wie viel Nahrung oder Wasser so ein Gott und Gott-Riesen-Hybrid wirklich braucht. So oder so wäre es aber echt langweilig, also gucken wir uns diesen Teil der Wüste eher nicht an und gehen nur da hin wo es spannend ist. Und das ist dann der Inhalt der Episode.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 5, Aufnahme vom 19.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #35
+
+* Titel: `GoW Ragnarök - #35 - Wüstenhass [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich würde ja gerne behaupten das sich der Titel nur auf die Hasserfüllten bezieht aber auch selbst bin in diesem Bild. Selbstverständlich bin ich selber auch ein wenig Schuld das ich den Schwierigkeitsgrad gewählt habe den ich wählte und am Ende gibt es nicht einmal ein Achivement für die Qual weil ich ja an einigen Stellen den Schwierigkeitsgrade gesenkt habe. Aber ich tue das ja nicht nur dafür. Meine Logik ist die das es relativ sinnlos für mich wäre irgendwelche Verbesserungen an der Ausrüstung und so weiter vorzunehmen wenn ich am Ende sowieso alle Gegner mit Leichtigkeit besiegen könnte. Daher brauche ich den Schwierigkeitsgrad auch damit meine Verbesserungen auch wirklich einen Einschlag haben. Und deswegen rege ich mich heute über etwas auf das absolut vermeidbar gewesen wäre.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 5, Aufnahme vom 17.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #36
+
+* Titel: `GoW Ragnarök - #36 - Traum vom Eisenwald [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Legendäre Orte zu erreichen ist meistens eher schwierig, andernfalls würde es sich um reguläre Orte handeln und man könnte einfach eine Bahn-Karte zum Hbf Eisenwald kaufen. Das können wir nicht und müssen stattdessen von dem Ort träumen, wie auch immer er eigentlich dann am Ende aussieht. Dazu kommt übrigens noch eine andere Sache die man als wachsender Gott bzw. auch Magiekundiger beachten muss: versehentlicher Machteinsatz. Insbesondere wenn man es mit einem doch eher lockeren Magiesystem zu tun hat wie das der nordischen Götter. Scheinbar reicht es schon die richtige Wörter zu sagen oder teilweise einfach nur eine falsche Gestik auszuführen um Effekte zu erzeugen. Klar, wenn es darum gehen würde tatsächlich etwas Bestimmtes zu erreichen wäre das alles nicht so einfach, aber die Gefahr irgendeinen Effekt im Schlaf hervorzurufen ist schon nicht Null. Und deswegen sind wir jetzt plötzlich ganz woanders. Allerdings muss man wohl davon ausgehen das es hier ein paar Effekte gibt die zusammen spielen. Und doch, aus Versehen das Bett in Flammen zu setzen scheint mir durchaus etwas zu sein das passieren kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 5, Aufnahme vom 17.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #37
+
+* Titel: `GoW Ragnarök - #37 - Eisenwald Parkour [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir beim letzten Mal bereits vom Eisenwald geträumt haben begeben wir uns heute einfach einmal auf eine kleine Tour durch eben jenen und tanzen hier und dort umher. Mir ist übrigens immer noch nicht so ganz klar wie viel Schlaf so ein heranwachsender Gott nun wirklich braucht. Offensichtlich gehen Kratos und Atreus gelegentlich schlafen und rasten. Sohn träumt sogar gelegentlich von Dingen, und doch, braucht er das auch oder ist es mehr eine Gewohnheit? In der letzten Nacht war er draußen in Midgard und hat mit Freya geredet und kam erst wieder zum Frühstück zurück. Und jetzt ist er wieder unterwegs, und das an einem Ort von dem wir bereits wissen das mehr Zeit vergeht als eigentlich sollte. Jötunheim ist ein Ort der Zeitverzerrung, nicht nur der Riesen. Aber immerhin wirkt das Wetter doch ein wenig freundlicher als es woanders der Fall ist. Und dann ist da auch noch dieses Mädchen mit der spielerischen Natur.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 6, Aufnahme vom 26.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #38
+
+* Titel: `GoW Ragnarök - #38 - Angrbodas Baumhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Geschichten habe auch immer wieder ein fantastisches Element. Ein Element das dafür sorgt das die Geschichte eigentlich keinen Sinn ergibt oder einfach nicht möglich sein kann. Im Falle von Angrboda gibt es da gleich mehre verschiedene Element die ihr Leben eigentlich nicht weiter logisch machen. Punkt 1 ist das sie allein in einem Wald lebt der offensichtlich ziemlich gefährlich ist, von Draugr überfallen zu werden fand sie nicht besonderes erwähnenswert und doch wandern nie welche bei ihr Vorbei wenn sie schläft? Dann ist es das Bauen von Dingen. Selbst relativ simple Dinge der Zivilisation erfordern eine relativ lange Kette an Handwerkern die Ausgangsprodukte und so weiter herstellen. Klar, alleine im Wald Leben klingt ganz interessant, aber nur Seil zu haben kann schon eine Weile dauern. Immerhin hat sie Magie, auch wenn diese wohl eher farbbasierend ist. Und dann wäre da noch Zeit, wir wissen nicht wie schnell der Tag in Jötunheim vergeht, aber das was sie alles tut scheint einfach nicht in einen normalen Tag zu passen, besonders wenn sie sich noch parallel um irgendwelche Bilder kümmert und ihre Kunst verbessert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 6, Aufnahme vom 26.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -369,3 +594,7 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   ```markdown
   Hier
   ```
+  
+  
+  
+  > Mehrfach Erwähnung von 4 Seelenteilen lässt vermuten das das später wichtig ist. Kratos nicht vom Licht verbrannt.

@@ -304,6 +304,187 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
 
+##### #20
+
+* Titel: `Yakuza 6 - #20 - Nachtspaziergang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich liebe Nachtspaziergänge. Irgendwie hat es etwas Beruhigendes durch einen Ort zu laufen der eigentlich viel mehr Menschen haben sollte aber dann fast verlassen ist. Außerdem sieht man Bedrohungen von weiter weg. Nachts durch irgendwelche Wälder zu latschen lässt mich immer glauben das gleich ein Raubtier aus dem Gebüsch springt und mich böse überrascht. Aber in einer Stadt, wenn es ausreichend hell ist, das geht. Bonuspunkte wenn es warm ist. Mir ist übrigens absolut klar das das keine universal geteilte Meinung ist und für einige Menschen durchaus auch etwas Bedrohliches darstellt. Deswegen ist es wichtig das die Stadt nicht völlig leer ist, nur ein wenig leerer als sonst. Oder man heißt Kazuma Kiryu und hat die feste Gewissheit das jede Bedrohung ohne größere Probleme erledigt werden kann. Das geht natürlich auch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 3, Aufnahme vom 16.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #21
+
+* Titel: `Yakuza 6 - #21 - Fremdeinfluss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  „Mögest du in interessanten Zeiten leben“ – chinesischer Fluch
+  Warum erwähne ich das? Weil interessante Zeiten immer wieder relativ sind. Wenn man instabilen Umgebungen groß geworden ist wünscht man sich vielleicht nichts mehr als ein wenig Ruhe im Leben und ein zuhause das auch in zwei Wochen noch am selben Platz ist. Wieder andere könnten sich durchaus langweilen weil ihr Leben wie auf Schienen abläuft und sie das Gefühl haben das man nichts dagegen tun kann. Stillstand ist aber nicht nur eine Funktion der äußeren Faktoren sondern der Wahrnehmung. Vielleicht geschehen Dinge dynamisch und sogar chaotisch bedingt durch nicht vorhersehbare Gründe aber das letztendliche Ergebnis ist dennoch kategorisch gleich. Konventionen und Verhalten kann dafür Sorgen das eine Vielzahl von Möglichkeiten am Ende auf eine geringe Anzahl an Dingen eingedampft wird. Wenn jemand etwas tut erfolgt eine Reaktion die immer gleich ist. Die Reaktion endet in einen neuen Zustand der Welt aber dieser Zustand ist vorherbestimmt und wenn man weit genug heraus geht ergibt sich daraus eine Handlungsmatrix die in sich wieder statisch ist und ein eigentlich dynamisches Leben wiederum fest und unveränderlich macht. So wie das Nachtleben in einer kleinen Hafenstadt. Bis ein externer Einfluss auftaucht und die Tradition bricht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 3, Aufnahme vom 16.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #22
+
+* Titel: `Yakuza 6 - #22 - Kneipenschlägerei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da ich mich selten in Nachtclubs herumtreibe habe ich quasi keine persönliche Erfahrung mit Schlägereien. Schlimmstenfalls ist einmal eine Geschehen aber weder ich noch Leute die ich kenne waren daran beteiligt. Ich halte den Gesamtprozess allerdings für gefährlicher als eine normale Schlägerei. Kneipen verfügen in der Regel über eine Anzahl von gefährlichen Hieb und Stichwaffen. Weiter sind betrunkene weniger anfälliger für Schmerz und besitzen wahrscheinlich auch nicht die gleichen logischen Gedanken die ein nüchterner Mensch sein Eigen nennt. Ich will damit sagen, das Ganze könnte ziemlich gefährlich für alle Beteiligten werden, man sollte es wohl daher eher vermeiden in eine hinein zu geraten. Und besonders nicht mit Hafenarbeiter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 4, Aufnahme vom 23.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #23
+
+* Titel: `Yakuza 6 - #23 - Probleme von letzter Nacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Taten folgen Handlungen und Handlungen folgen Taten. Quasi nichts bleibt ohne irgendeine Art von Folge und etwas das gestern getan wurde könnte vielleicht heute dafür sorgen das Leute etwas Weiteres tun. Kazuma Kiryu ist ein externer Einfluss der in das Schicksal der Menschen eingreift. Mit Schicksal meine ich eigentlich Tradition die aber einen gewissen Charakter von Schicksal hat. Aber selbst für eine plötzliche Quelle der Veränderung wie Kiryu gibt es eine Regulierung. Ein Prozess der sich mit einer solchen Störung auseinander setzt und den normalen Kurs der Tradition wiederherstellt. Die Folgen seines Eingreifens werden heute offensichtlich. Ob Kiryu wirklich wusste was im Detail geschehen mag ist nicht bekannt, da er aber nie Leichen hinterlässt muss man leider davon ausgehen das seine Widersacher nun bestens informiert sind. Das hat man davon wenn man der anderen Seite die Informationshoheit überlässt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 4, Aufnahme vom 23.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #24
+
+* Titel: `Yakuza 6 - #24 - ein guter Rat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Genug von den dunklen Mafiageschichten, Zeit wieder zurück in die Themen vom letzten Teil zu gehen. Damals hat Haruka ein wenig das Idol Business durcheinander gewirbelt auch wenn man wohl nicht damit rechnen kann das sie langfristig irgendeine Art von positiver Veränderung erreicht hat. Aber auch für ihre Handlungen gibt es eine Konsequenz in der Welt, viele junge Mädchen und potenzielle kommende Idols haben ihr Handeln gesehen und diese vielleicht in ihren Denken verändert. Und so sind wir hier, mitten in zwei Geschichten in der uns gute Ratschläge über Bande mitgegeben werden. Ratschläge die die Zukunft junger Leute betreffen. Manchmal denke ich mir das der Spruch das die Jungend an die Jungen verschwendet ist vielleicht gar nicht so falsch ist. Aber letztendlich ist es wohl ein Teil des Jugendlich sein auch das man nicht so viel weiß und nur glaubt Dinge zu wissen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 4, Aufnahme vom 23.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #25
+
+* Titel: `Yakuza 6 - #25 - Sünde der Väter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für die Handlung der heutigen Episode hat es wirklich ziemlich lange gedauert bis ich die Verbindung in meinem Kopf aufgebaut habe und mich erinnert habe. Kein Wunder, ich spiele das hier 2023 und die ursprüngliche Geschichte habe ich 2017 durchgespielt. Zwischendurch wundere ich mich noch das Kiryu sich nicht daran erinnern konnte einen ähnlichen Vorfall damals in Osaka gesehen zu haben aber es war nicht er der damals den Kult aufgelöst hat. Viel mehr war es Majima der damals eingegriffen hat und ein junges Mädchen aus den Fängen eines Kultes befreit hat. Heute liegt der Fall ein wenig anders und scheinbar ist der Anführer der Gemeinschaft weniger an körperlichen Gefälligkeiten sondern an finanziellen Geschenken interessiert. Das macht ökonomisch auf jeden Fall mehr Sinn, ist aber nicht ganz so skandalös. In der Realität sind entsprechende Anführer aber hinter beiden her, das macht Nichts besser.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 4, Aufnahme vom 23.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #26
+
+* Titel: `Yakuza 6 - #26 - das Mädchen das durch die Zeit sprang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich so darüber nachdenke, dann denke ich erstaunlich oft darüber nach was passieren würde wenn ich Zeitreisen würde. In der Regel beachte ich aber nur die Variante in der ich das was ich aktuell bei mir trage und ich zurück in das Jahr 1995 oder so fallen würde. Je nachdem wie weit zurück hätte ich kein Geld, ziemlich unsolides Verständnis für Geschichte und auf jeden Fall nicht genügend Wissen um irgendetwas zu beweisen. Egal wann und wo, ohne Netzwerk ist die Vergangenheit auf jeden Fall ein schwieriger Ort. Die Kartoffelroute wäre wohl sich bei irgendeiner Behörde zu melden die danach absolut keine Ahnung hat was sie mit einem Anfangen soll. So rein isoliert sieht man ja aus wie ein Wahnsinniger ohne Identität. Und selbst wenn man Ausweisdokumente mit sich führt wären die ja noch nicht gültig. Die heutige Variante, einfach in den Körper des eigenen 15 jährigen selbst oder irgendetwas in der Richtung teleportiert zu werden löst viele Probleme. Allerdings wäre es echt anstrengend noch einmal da anzukommen wo man heute ist. Das Studium war zwar spaßig, aber all das noch einmal zu tun um am Ende den Abschluss zu haben, das wäre schon irgendwie anstrengend. Und dann ist da noch das Ding wenn man Kinder hat. Genau die gleiche genetische Konfiguration noch einmal hinzukriegen ist quasi unmöglich und da haben wir noch nicht über die Schwierigkeit gesprochen den gleichen Partner noch einmal kennen zu lernen. Oder wenn dieser nicht die 100% Seelengefährtin fürs Leben war..geht man das Risiko ein und geht einen anderen Weg? Das ganze Gedankenspiel macht echt viele Fragen auf. Immerhin könnte ich hier einen kleinen Wohlstand mit spezifischen Zukunftswissen erwirtschaften, nicht genug für den Ruhestand, aber etwas das die Spitzen nimmt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 4, Aufnahme vom 23.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #27
+
+* Titel: `Yakuza 6 - #27 - die Närrin die träumt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Träume. Ich vermisse es Träume zu haben. Also die die man im wachen Zustand hat. Tatsächlich träume ich ziemlich viel wenn ich schlafe. Das ich mich daran erinnern kann ist wahrscheinlich ein eher schlechtes Zeichen weil es dafür spricht das ich nicht besonders tief weg war und in einer Mischung aus Wach und Schlaf dahin treibe. Irgendwie hat es etwas poetisches für mich von der Närrin die träumte zu schreiben. Eine Person mit einen Wunsch, einem Ziel, einem übergeordneten Kompass für ihre Taten. Etwas das einen Menschen antreiben kann und einen Anker in unruhigen Zeiten gibt. Es hilft wenn dieser Traum aus Etappen besteht, aus Dingen die man erreichen kann und die einen einfach zu formulierenden Plan beinhalten. Ich persönlich hätte gerne Dinge wie Antigravitation oder Überlichtschnelle-Raumschifftriebwerke. Wo fängt man da an, vorrausgesetzt ich bin überhaupt intelligent genug? Partikelphysik im Physikstudium vertiefen und dann irgendwie Forschungsmittel auftreiben? Wenn man nicht klug genug ist müsste man erst irgendetwas mit Biologie/Medizin machen um sich selbst zu verbessern, und dann wird die Lebenszeit knapp und müsste hier auch noch an etwas arbeiten. Die meisten Leute sterben dann an Altersschwäche und das macht diese Art von Ziel irgendwie ärgerlich. Alternativ könnte man auch einfach Kinder in Afrika verhungern lassen und lächerlich reich werden. Und damit finanziert man dann die Eierköpfe die das Zeug von Oben stellvertretend entwickeln. Der Traum Idol zu werden ist überschaubar, er hat leider auch ein paar harte Ecken die zu einem sofortigen Platzen führen können. Das ist irgendwie schlecht. Und doch, auch träumerisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 4, Aufnahme vom 23.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #28
+
+* Titel: `Yakuza 6 - #28 - eine ausgeflippte Situation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir eben erst eine kleine Zeitreisegeschichten hatten die vielleicht oder vielleicht auch nicht wahr ist bin ich ein wenig angesoftet und tatsächlich fast bereit die Körpertauschgeschichte zu glauben die sich uns heute bietet. Ich finde übrigens das Ende der ganzen Geschichte ein wenig seltsam und das Verhalten des Chef-Butlers auch ein wenig befremdlich, ich vermute allerdings das hier ein kulturelles Element mitspielt das zu erfassen ich einfach nicht in der Lage bin. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 4, Aufnahme vom 23.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #29
+
+* Titel: `Yakuza 6 - #29 - das Team versammeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe immer noch gar keine Ahnung von Baseball und meine Lust mehr darüber zu lernen sinkt auch mit jedem Mal das ich überkomplizierte Abläufe davon sehe. Baseball ist einfach so eine Sportart die ich abseits von Charly Brown auch noch nie so richtig bewusst wahrgenommen habe. Tatsächlich ist es aber wohl so das während des zweiten Weltkrieges Baseball und seine Fans soweit verteilt war das man es als Spionagetest nutzen konnte. Generell und überhaupt wäre ich aber in jeder Situation in der mich irgendjemand versucht mittels Sportfragen zu verifizieren sofort raus. Wenn mein Leben davon abhängt zu wissen wer in der deutschen Bundesliga spielt, dann bin ich tot. Kiryu scheint es da ein wenig besser zu gehen, er scheint nicht ganz den Hang zum Baseball wie Majima zu haben, aber immerhin hat er ein paar Fähigkeiten. Eventuell schwappen auch seine Reaktionen aus Faustkämpfen in den Sport über.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 5, Aufnahme vom 30.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #30
+
+* Titel: `Yakuza 6 - #30 - Oh-No! Es ist Ono-Michio [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich vor ein paar Monaten in Japan war habe ich exakt null Maskottchen gesehen! Das war wirklich enttäuschend! Alles was ich bisher so über Japan erfahren habe hat mich glauben lassen das man quasi an jeder Ecke über ein Maskottchen eines Nudelrestaurants, Sehenswürdigkeit oder Wahrzeichen fallen würde. Alles was ich gesehen habe waren kleine Stofftiere der Viecher aber keine Leute die als das eigentliche Maskottchen rumgerannt sind. Meine Enttäuschung hätte nicht größer sein können. Andererseits wäre ich sehr irritiert gewesen wenn ich ein Wesen wie Ono-Michio getroffen hätte. Es ist wahrscheinlich auch gar nicht so einfach ein gutes Wappentier für beliebige Dinge zu finden die dann am Ende nicht total cringe sind. Ich habe übrigens eben das Wort Maskottchen drei Mal falsch geschrieben bis ich mal nachgeschaut habe wie man es richtig schreibt. Mit zwei ‚t‘. Das Wort kommt übrigens aus dem Französischen von ‚mascotte‘ wie Person, Tier oder Gegenstand als Glücksbringer, in anderen Sprachen kann es auch noch Glücksbringer oder Hexe heißen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 5, Aufnahme vom 30.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #31
+
+* Titel: `Yakuza 6 - #31 - die Nummer 2 der Gegend [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was schlechte Titel angeht finde ich das ich den Vogel mit dieser Episode abgeschossen habe. Es sagt absolut nichts aus bis es quasi fast vorbei ist. Also versuche ich das zu erklären. Ich hätte vielleicht direkt den Namen des Typen schreiben können, aber das wäre auch ohne große aussagekräftig gewesen. Ich hätte einen Manga-artigen Titel wählen können wo der Titel eigentlich der Beschreibungstext ist. Das wäre dann gewesen „ich prügel mich durch eine Horde von unwichtige Yakuza um den großen Boss der lokalen Bande zu beeindrucken weil ich Informationen von ihnen erhalten will ohne ihnen direkt zu schaden und so schulden sie mir Dankbarkeit“. Youtube hat ein Zeichenlimit auf 100 Zeichen und einiges geht davon bei mir schon für Overhead drauf. Kurzum, diese Variante ist eher nicht möglich für uns. Machen wir einfach weiter.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 5, Aufnahme vom 30.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
 ##### #Nummer
 
 * Titel: ``

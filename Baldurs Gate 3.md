@@ -1218,6 +1218,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #81
+
+* Titel: `Baldur's Gate 3 - #81 - neue teuflische Angebote [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben bietet eine breite Auswahl an Schicksalschlägen für alle Leute. Kindstot, Ehemann untreu, Haarausfall, für jeden ist etwas dabei. In einer normalen, leicht magiearmen Welt kann man bei vielen Probleme nicht viel machen und bei Anderen einfach gar nichts. Tote Leute bleiben in der Regel tot und wenn der Stand der Forschung keine realistische Wirkung offeriert war es das dann. Natürlich kann man sich immer noch irgendeinem Pseudoglauben entgegenwerfen und versuchen den Darmkrebs mit einer strengen Chia-Samen Diät zu bekämpfen, aber was weiß ich schon. Anders sieht es aus wenn die Götter wirklich existieren, Magier die Welt bereisen und Teufel an jeder Kreuzung warten. Der Teufel steckt aber leider im Detail, oder eben nicht. Praktische Probleme erwarten die Leid geplagten. Der handelsübliche Magier ist eher teuer und eventuell auch einfach nur ein Aufschneiden, Dämonen verlangen hohe Preise und meistens kommt man nicht gut weg. Der Knalle war aber bis jetzt die Rabenvettel. Wir haben nur ihre Experimente gesehen aber ich gehe irgendwie davon aus das die Viecher im Großen und Ganzen nicht so mächtig sind wie sie vorgeben. Vollständige Wiederbelebung ist einfach nicht drin, schwere Krankheiten kann man nur oberflächlich heilen. Da werden dann Tricks gefunden die nominell die Anforderung erfüllen aber das echte Ergebnis ist einfach nicht zu haben. Teufel sind soweit ich das verstanden habe aber tatsächlich „ehrlich“. Insofern sollte man Raphaels Angebot vielleicht nicht so weit und schnell ausschlagen. Allerdings gibt es hier bestimmt auch Pferdefüße, und damit meine ich nicht den Halb-Gambion selbst. Und dann wäre da natürlich noch die Frage des Preises.  Vielleicht doch tiefe Gebete?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 24.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #82
+
+* Titel: `Baldur's Gate 3 - #82 - tausend Taschen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neue Sitzung, neues Glück. Zwischen den Sitzungen habe ich sogar Zuschauerfeedback erhalten. Das ist in einem Langformat wie diesen hier außerhalb des Livestreams nicht besonders häufig. Ich selbst schaue mir einige Baldur’s Gate 3 Let’s Plays an aber halt nur nebenher und bei den meisten bin ich nicht weiter als das Goblincamp. Wie dem aber auch jetzt genau sei, die Quintessenz war das ich auf einen wichtigen Fehler hingewiesen wurde. Ich habe ewig lange eine Amulett gesucht, stellt sich doch glatt heraus das ich das gute Stück schon wirklich lange hatte. Daher sind wir jetzt wieder zurück auf Linie, aber bevor es soweit ist reden wir noch mit den Repräsentanten der flammenden Faust und erfahren ein paar interessante Dinge über die Politik von Baldurs Tor. Weiter erfahren wir das Karlachs alter Arbeitgeber mit dabei war, der anscheinend in den letzten 10 Jahren einige Fortschritte gemacht hat. Stichwort, eiserne Wächter. Da weiß ich doch schon was uns in der großen Stadt erwartet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 31.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #83
+
+* Titel: `Baldur's Gate 3 - #83 - Nacht in den Schatten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Schattenlande sind groß und wir können nicht innerhalb eines einzigen Tages einfach hindurch schreiten. Also legen wir uns schlafen, ein wenig schade das es keine extra Camp-Animation bzw. Hintergrund für das Gasthaus zum letzten Licht gibt, weil eigentlich nächtigen wir hier. Das tue ich natürlich auch weil ich weiß das uns ein großer Kampf erwartet. Ein großer Kampf der bestimmt ziemlich anstrengend sein wird und für den ich vorbereitete Zaubersprüche brauche, wäre ja auch noch schöner wenn ich noch einmal unvorbereitet in irgendeinen Kampf laufe. Also gehen wir beruhigt schlafen und dann gibt es ein kleines Gespräch mit Jaheira. Da unsere gesammelte Truppe aber alle etwas zu sagen hat ist so ein Nachtlager keine schnelle Angelegenheit und alles zieht sich ein wenig in die Länge. Und so kommt es das eine kleine Übernachtung mit Gesprächen 30 Minuten dauert. So spielt das Leben. Oder das Spiel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 31.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #84
+
+* Titel: `Baldur's Gate 3 - #84 - Selûnes Licht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich gebe zu das ich keinen besonders guten Job darin mache Schattenherz zu spielen. Dabei sollte sie eigentlich die einfachste der Begleiterinnen sein zu spielen. Schließlich hat sie den Großteil ihrer Persönlichkeit vergessen. Sie wurde auf eine geheime Mission geschickt ein Artefakt zu besorgen und sie ist die letzte Überlebende. Davon einmal abgesehen hat sie alles vergessen was mit ihr zusammen hängt. Egal was wir also tun was später nicht zu ihrer Persönlichkeit passt können wir also darauf schieben das die Erinnerungen Löcher haben. Ein grundlegendes Feature das sie ausmacht ist aber der Hass auf Selûne da sie die Konkurrenzgöttin Shar anbetet, etwas das Allgemein irgendwie nicht soviel Zustimmung findet wie das tägliche Gebet zu Mondgöttin. Ich bin leider nicht ganz so gut darin das nach zu vollziehen. Vielleicht fehlt mir nur die Fähigkeit zum blinden Hass. Oder aber es sind die fehlenden, unterdrückten Erinnerungen an ein ganzes Leben in einem geheimen Kloster der Shar in Baldurs Tor. So oder so halte ich diese doch sehr ergebnisorientierte Haltung meiner Schattenherz zu einer Pristerin von Selûne für ein wenig unwahrscheinlich. Das könnte man fast schon als Blasphemie auslegen, das wir bereit sind ohne große Diskussion zu kooperieren. Immerhin können wir trotzdem Blut und Morde vollziehen. Das ist schon einmal etwas.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 31.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

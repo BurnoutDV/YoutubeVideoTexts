@@ -585,6 +585,81 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
+##### #39
+
+* Titel: `GoW Ragnarök - #39 - Steinhüpfen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für diese Episode bin ich tief in mich gegangen und habe nach den richtigen Namen gesucht. Es ist nämlich so das ich dieses Ding wo man einen Stein wirft damit er von der Oberfläche abprallt regional ganz unterschiedlich nennt und ich drei verschiedene Begriffe im Kopf hatte die sich nicht so richtig angehört haben, mal davon abgesehen das ich keine Ahnung habe wie man „Flitscherstein“ schreiben soll. Naja, eine kurze Durchsuchung des Internets hat dann den Begriff ergeben den wir hier haben. Der Trick bei der Durchführung dieses Tricks ist meiner Meinung nach aber vor Allem einen möglichst flachen Stein zu finden der eine gute Mischung aus Gewicht und Größe hat. Irgendwelche runden Brocken werden es nicht bringen, dann braucht es noch einen halbwegs flachen Winkel und Schmackes und dann wird das schon etwas. Wahrscheinlich gibt es irgendwo da draußen Leute die daraus eine Wissenschaft gemacht haben. Atreus gehört auf jeden Fall nicht zu ihnen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 6, Aufnahme vom 26.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+  
+##### #40
+
+* Titel: `GoW Ragnarök - #40 - Pfad der Jötnar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Pfad der von den Riesen betreten wurde sollte eigentlich nicht so schwer zu finden sein, es handelt sich ja schließlich um Riesen. Aber soweit ich das verstanden habe waren die Jötnar als sie noch in größerer Zahl lebten eher friedliche Wesen. Aber auch nicht immer, nur jetzt wo es quasi keine mehr gibt kann man es sich wohl auch kaum noch leisten von irgendwelchen Aggressionen zu sprechen. Wir haben den Pfad der Riesen bereits einmal gesehen, eine große Ansammlung von Leichen und toten Körpern. Die Wesen selbst seit scheinbar ewiger Zeit tot. Es stellt sich ein wenig die Frage warum die Leichen nicht schon lange verfault sind aber vielleicht funktioniert das mit den Körper der Riesen auch einfach nicht. Oder aber die Hüllen werden später noch einmal gebraucht und werden von mächtiger Magie in ihren derzeitigen Zustand gehalten. Falls jemand beispielsweise die Seelen der Riesen ausgelagert hätte oder so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 6, Aufnahme vom 26.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+  
+##### #41
+
+* Titel: `GoW Ragnarök - #41 - Iđis Senke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit Ausnahme von Midgard scheinen alle neun Welten eher klein zu sein, mehr ein Themenpark als eine echte Welt die sich in die Unendlichkeit erstreckt und gewaltige Ausmaße annimmt. Daher ist es nicht verwunderlich das wir in unserem kurzen Ausflug nach Jötunheim der zudem irgendwie auch noch ein Traum ist eine Menge verschiedener Plätze sehen. Heute begeben wir uns sogar unter Tage damit wir noch mehr von dem knappen Platz sehen, weite Reisen sind ja offensichtlich nicht möglich also müssen wir die dritte Dimension nutzen. Auch faszinierend ist die Abgestumpftheit mit der jeder an tödliche Gefahren heran geht. Atreus hat schon eine Menge gesehen und ist auch im richtigen Alter um seine eigene Unverwundbarkeit für richtig zu halten, aber Angrboda könnte doch ein ein wenig sicheres Leben genossen haben und muss sich nicht direkt in jede Gefahr werfen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 6, Aufnahme vom 26.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+  
+##### #42
+
+* Titel: `GoW Ragnarök - #42 - Grýla [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Verwandtschaft ist immer eine schwierige Sache. Klar kann man auch ganz gut ohne die buckelige Bande auskommen, aber wenn man nicht grade in einer sehr dichten, meist religiösen Gemeinschaft lebt ist es schwer enge Freunde zu haben die einen in Notsituationen aushelfen. Bei Verwandten hat man zumindest irgendwie noch das Gefühl das man zusammen halten muss, selbst wenn die Tante vielleicht bei jedem Treffen irgendwelche rassistischen Kommentare raus hat die gegen jede Überzeugung spricht die man selber hat. Freundschaft die so tief und langwierig ist hat man eher selten und selbst wenn, nicht in der Masse in der man Verwandte akzeptiert. Im Fall von Angrboda hat sich die Verwandtschaft ein wenig ausgedünnt aber eine einzelne Person bleibt noch, es handelt sich um Grýla, die Mutter ihres Vaters. Eine Person über die wir eigentlich nichts wissen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 6, Aufnahme vom 26.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+  
+##### #43
+
+* Titel: `GoW Ragnarök - #43 - Hinterhofkeilerei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Wetter in Jötunheim war definitiv angenehmer als es in Midgard war. Allerdings kann all das gute Wetter uns ja auch nicht vergessen lassen das da draußen eine Welt auf uns wartet die eventuell gerettet werden will, und vielleicht sogar noch einen Anführer braucht der sich darum kümmert das Ragnarök dann auch in geregelten Bahnen abläuft. Das alles ist noch Zukunftsmusik, wir dürfen aber auch nicht vergessen das in Jötunheim die Zeit ein wenig schneller vergeht als sie es in der restlichen Welt tut. Für langlebige Wesen wie Zwerge und Riesen wahrscheinlich eher ein kleineres Problem und bei der relativen Länge unseres Aufenthalts auch eher sekundär, aber es gibt ja durchaus noch einige Dinge bei denen wir gegen die Zeit spielen. Odin wird wohl irgendwann einmal herausfinden wo genau sich gewisse Zwerge verstecken und wo Tyr abgeblieben ist. Und wenn das soweit ist taucht Thor auf, erfahrungsgemäß nervt dieser gewaltig. Irgendwann wird es passieren, aber es wäre vielleicht gut wenn wir bis dahin gut vorbereitet sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 6, Aufnahme vom 26.10.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+  
 ##### #Nummer
 
 * Titel: ``
@@ -594,7 +669,6 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   ```markdown
   Hier
   ```
-  
-  
-  
+
   > Mehrfach Erwähnung von 4 Seelenteilen lässt vermuten das das später wichtig ist. Kratos nicht vom Licht verbrannt.
+

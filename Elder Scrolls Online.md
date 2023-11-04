@@ -10582,6 +10582,23 @@
   Aufnahme vom 30.10.2023 - #1891 - ##70 - S9
   ```
 
+##### #1892
+
+* Titel: `Let's Play ESO #1892 ##71 - Runenform der Zerstörung [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 71 des Nekrom DLC - Sitzung 9
+  
+  Heute findet unser Ausflug mit Azandar ein Ende. Da wir nicht die Realität in einer Nebenmission verändern können war eigentlich schon vorher klar wie die Dinge ausgehen. Und das ist ein wenig schade. Oft hat man Geschichte in denen am Anfang bereits klar ist wie die Dinge am Ende stehen, aber der Weg kann durchaus interessant sein der dahin führt. Insbesondere wenn die Abbiegungen die man genommen hat den Pfad alles Andere als grade haben sein lassen. Unser Weg durch die Realität mit Azandar war ein wenig weniger linear aber am Ende nicht besonders spannend wie ich fand. Wir haben ein wenig über seinen Weg durch die Geschichte erfahren, haben Etappen seines Handelns gesehen, aber so richtig wissen wer Azandar jetzt ist tue ich trotzdem nicht. Es ist komisch, wir haben einige Informationen erhalten aber jetzt da wir hier stehen wirkt er immer noch blutleer, das ist unbefriedigend. Also schicken wir ihn wohl zurück wo er her kam und fahren weiter mit Mirri durch die Gegend. Bis wir neue Begleiter finden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 03.11.2023 - #1892 - ##71 - S11
+  ```
+
 ##### #Nummer
 
 * Titel: ``

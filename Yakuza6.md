@@ -485,6 +485,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
 
+##### #32
+
+* Titel: `Yakuza 6 - #32 - Erlaubnis zu sprechen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  „Erlaubnis zu sprechen Sir?“ ist ein Satz den ich eher im Militär vermutet hätte und tatsächlich wird er natürlich nicht so ausgesprochen. Tatsächlich wäre „Sir“ auch eher „Madam“ und so ganz klar was genau die Leute aufhält ist auch nicht. Definitiv sicher ist aber an die lokale Bevölkerung ein Bande von Schauspielern verloren gegangen. Klar, die örtlichen Yakuza haben quasi sofort ihre Karten auf den Tisch gepackt, aber letztendlich wurden wir immer noch ziemlich darin getäuscht was eigentlich los war. Heute machen sich dann endlich Kiryus Mühen der Diplomatie bezahlt und er erhält das Wissen das er so lange gesucht hat. Auffällig ist aber das wirklich alle Leute die wir bisher gefragt haben dicht gehalten haben, das ist schon enorm auffällig. Normalerweise quatscht doch immer jemand, ich kann mir irgendwie kaum vorstellen das eine ganze Ortsgruppe von Leuten so kohärent und fest im Zusammenhalt ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 5, Aufnahme vom 30.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #33
+
+* Titel: `Yakuza 6 - #33 - JUSTIS [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur ein Problem zu haben hat Kazuma Kiryu natürlich nie gereicht und so finden wir endlich heraus was es mit der Clan-Creator Geschichte auf unseren Handy eigentlich auf sich hat. Wer hier ein beruhigtes Minispiel vermutet hat hat irgendwie Recht aber auch Unrecht. Am Handy direkt spielen wir gar nichts, wir verwalten nur. Eigentlich auch ein witziger Gedanke, man stelle sich vor das organisierte Verbrechen würde sich eine eigene App schreiben die die Bande komplett durchorganisiert und plant. Wäre natürlich schlecht wenn auch nur ein Gerät in die Hände der Behörden fallen würde aber irgendetwas ist ja immer. Ich muss sagen, ich bin nicht besonders begeistert, insbesondere weil wir diese Art von Minispiel bereits in Yakuza 2 Kiwami gesehen haben, wahrscheinlich gab es das hier als Erstes, und dennoch. Auf Dauer ist es sterbenslangweilig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 5, Aufnahme vom 30.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
 ##### #Nummer
 
 * Titel: ``

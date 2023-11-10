@@ -10470,7 +10470,7 @@
 * Beschreibung:
 
   ```markdown
-  Episode 64 des Nekrom DLC - Sitzung 9
+  Episode 64 des Nekrom DLC - Sitzung 10
   
   Kaum haben wir die Unsterblichkeit eines Individuums verhindert sind wir auch schon an der nächsten Adresse um das Leben Anderer zu beenden. Sich in Dunkelelfen Politik einzumischen ist allgemein wohl eher eine mittelgute Idee aber wenn man wirklich nur als Auftragnehmer unterwegs ist, was kann schon schief gehen? Der Fall hier ist auch relativ einfach, irgendjemand fand das Handeln einer bestimmten Person im größeren Kontext nicht gut und daher muss man das Problem jetzt aus der Zuckerwatte des Lebens herausschneiden. Etwas doof für die entsprechende Person die eventuell nicht ganz die Atmosphäre gelesen hat, aber irgendjemand muss ja Schuld sein. Wir retten nur ein paar Geißeln, das wird uns hoffentlich vor etwaigen Repressalien verschonen.
   
@@ -10487,7 +10487,7 @@
 * Beschreibung:
 
   ```markdown
-  Episode 65 des Nekrom DLC - Sitzung 9
+  Episode 65 des Nekrom DLC - Sitzung 10
   
   Themenwechsel, wir beschäftigen uns nicht mehr mit Dunkelelfenpolitik sondern mit zerfaserten Schicksalen. Das ganze Thema ist übrigens für mich nur so mittelmäßig interessant. Klar, irgendwie schön das wir uns einmal mit ein wenig mehr esoterischen Aspekten auseinander setzen, mit einem fantastischen Element das nicht einfach durch Logik erklärt werden kann. Andererseits scheint mir die interne Logik der Schicksalsstränge nicht so richtig aufgearbeitet zu sein. Selbst wenn das alles am Ende zusammenpasst und wirklich gut erklärt worden ist, so ist mir halt nicht klar ob das jetzt alle wirklich in die Welt passt. Definitiv anfühlen tut es sich das alles nach Traumlogik und dem Prinzip „weil wir das jetzt so festlegen“ funktioniert, ohne das es dafür vorher definierte Regeln gibt. Oder wenn Regeln nicht das richtige Wort ist, Andeutungen das die Welt das Konzept Schicksalsfaden überhaupt unterstützt.
   
@@ -10504,7 +10504,7 @@
 * Beschreibung:
 
   ```markdown
-  Episode 66 des Nekrom DLC - Sitzung 9
+  Episode 66 des Nekrom DLC - Sitzung 10
   
   Wenn man forscht betritt man in der Regel unerkundete Ecken der Wissenschaft. Bis man aber an diesen metaphorischen Winkeln der Dunkelheit ist muss man sich vorher durch ein Labyrinth an vorhandenen Wissen kämpfen. Man sagt ja nicht umsonst das jede Forschung auf den Schultern seiner Vorgänger steht. Bei der arkanen Forschung ist das alles ein wenig undurchsichtiger. Jetzt ist mir aber auch nicht ganz klar ob Magie in ihrer Lebendigkeit einfach zu komplex ist und man nicht systematisch heran gehen kann oder ob sie sich sogar bewusst dagegen wehrt einfach analytisch auseinander genommen zu werden. Auf jeden Fall endet die Forschung der Magie in der Regel eher so das man eine Dschungelexpedition startet anstatt die Grenze des Wissens ein wenig nach vorne zu schieben. Man bahnt sich einen neuen Pfad und sucht sich Wege die weniger Widerstand bieten. Und auf diesen Wegen befinden wir uns jetzt.
   
@@ -10521,7 +10521,7 @@
 * Beschreibung:
 
   ```markdown
-  Episode 67 des Nekrom DLC - Sitzung 9
+  Episode 67 des Nekrom DLC - Sitzung 10
   
   Einen echten Nemesis zu haben ist anstrengend. Es kommt mir sehr so vor als hätte ich genau diese Zeile schon einmal geschrieben, das Thema ist also rein philosophisch für mich nicht neu. Und hier sind wir großzügig, scheint es mir doch das es an Tiefe mangelt. Besser wäre es aber einen Rivalen zu haben, jemand der parallel auf das Gleiche Ziel hin arbeitet und eventuell sogar knappe Ressourcen dabei verbraucht aber nicht direkt antagonistisch agiert. Weil das ist dann so wie der Nachbar der nur darauf wartet das man die Treppe nicht fegt, ausmisst ob der Müll auch richtig steht und Schlag 10 die Bullen ruft wenn es zu laut ist. Solche Leute will man nicht im Leben haben. Zu Azandars Pech ist die Morag Tong wohl keine Option für seine Probleme. Da es in dieser Welt auch keine Ghost Busters gibt braucht es wohl einen Ansatz der ein wenig mehr „hands-on“ ist. Persönlicher, individueller. Solche Lösungen sind in der Regel echt teuer, und wir reden hier nicht von Geld.
   
@@ -10538,7 +10538,7 @@
 * Beschreibung:
 
   ```markdown
-  Episode 68 des Nekrom DLC - Sitzung 9
+  Episode 68 des Nekrom DLC - Sitzung 10
   
   Als ich vor ein paar Episoden lamentiert habe das die ganze Geschichte mit Azandar und den Schicksalsträngen nicht wirklich auf vorhandene Lore fußen kann habe ich die Dwermer vergessen. Mit ihrer tonalen Architektur haben sie irgendwie die Realität verändert und wir hatten schon mehrfach Fälle das genau das noch einmal passiert ist. Es handelt sich um offensichtlich ziemlich gefährlicher Technologie die das Gefüge allen Seins direkt beeinflussen kann. Welch Glück eigentlich das es noch nicht in die falschen Hände geraten ist. Andererseits gibt es auch Hinweise darauf das ein Eingreiftrupp auftaucht wenn es zu bunt wird. In einer Dwermerstätte hatten wir ja bereits eine Begegnung mit Realitätsreisenden. Aber das erklärt auf jeden Fall eine Menge, und auch wie die Geschichte hier überhaupt so bizarr schief gehen konnte. Alles was mit tonaler Architektur geschieht geht eigentlich immer irgendwie komisch zur Seite. Nie irgendwie gradeaus oder nachvollziehbar. In dieser spezifischen Ecke der Lore bin ich auch einfach nicht tief genug drin um dazu mehr zu sagen. Nur das damit quasi alle Seltsamkeiten irgendwie erklärt sind. Irgendwie.
   
@@ -10555,7 +10555,7 @@
 * Beschreibung:
 
   ```markdown
-  Episode 69 des Nekrom DLC - Sitzung 9
+  Episode 69 des Nekrom DLC - Sitzung 10
   
   Es gibt einen Joker für all unsere Probleme. Ärgerlicherweise liegt dieser Joker in der Bogentränke, den einen Ort den ich wirklich am wenigstens leiden kann. Wie dem aber auch sei, es scheint sich um ein magisches Artefakt zu handeln das genau einmal jemanden helfen kann. Bei der Fülle an magischen Objekten und legendären Grimoiren habe ich aber den leichten Verdacht das man jeden Tag ein einzigartiges, einmal Dings nutzen kann und man nie besonders schwer suchen muss. Wir haben immerhin Zugriff auf Apocrypha und scheinbar stört sich auch niemand daran das wir in irgendwelche heiligen Orte einfach einbrechen und uns schnappen was wir wollen. Irgendwelche Chiffren arbeiten jahrhundertelang als Boten um eventuell eine niedere Position in diesem Archiv zu erhalten und wir treten einfach die Vordertür ein, zerstören ein paar Daedra und gehen mit dem was wir wollen wieder heraus. All das ohne irgendwelche langfristigen Folgen fürchten zu müssen, zumindest habe ich bisher noch von keinen gehört. Das bricht ein wenig den Schrecken des daedrischen finde ich.
   
@@ -10572,9 +10572,9 @@
 * Beschreibung:
 
   ```markdown
-  Episode 70 des Nekrom DLC - Sitzung 9
+  Episode 70 des Nekrom DLC - Sitzung 10
   
-  Der heutige Titel wird präsentiert von: meinen schlechten Sinn für Humor. Ein Erklärungsversuch: wir sammeln heute drei verschiedene Gegenstände, Natriins Erläuterungen, eine ätherische Rubrik und einen Blutstein. Insbesondere letzter ergibt für mich übrigen wenig Sinn und eine Rubrik stellt für mich auch nichts da was man anfassen kann, aber jetzt sind wir hier und sollen die Dinger sammeln. Ausgeschrieben wäre das als Titel aber viel zu lange gewesen. Also dachte ich mir, wenn ich die Worte auf einer bestimmten Weise anordne, kommt etwas heraus das sich ein wenig wie ein Satz anfühlt. Etwas das logisch und gleichzeitig unlogisch ist. Ein wenig Wahnsinn in einer Welt die nach Ordnung schreit. Ein wenige verqueres (boah, ich hasse es das das Wort so versucht ist) Denken in einer Geschichte die bereits tausend Ecken hat. Außerdem erfahren wir ein wenig über den jungen Azandar, wenn auch nur kleine Bruchstücke und Einblicke. Aber könnte die Geschichte wirklich eine Langform von dem was er früher tat vertragen?
+  Der heutige Titel wird präsentiert von: meinen schlechten Sinn für Humor. Ein Erklärungsversuch: wir sammeln heute drei verschiedene Gegenstände, Natriins Erläuterungen, eine ätherische Rubrik und einen Blutstein. Insbesondere letzter ergibt für mich übrigen wenig Sinn und eine Rubrik stellt für mich auch nichts da was man anfassen kann, aber jetzt sind wir hier und sollen die Dinger sammeln. Ausgeschrieben wäre das als Titel aber viel zu lange gewesen. Also dachte ich mir, wenn ich die Worte auf einer bestimmten Weise anordne, kommt etwas heraus das sich ein wenig wie ein Satz anfühlt. Etwas das logisch und gleichzeitig unlogisch ist. Ein wenig Wahnsinn in einer Welt die nach Ordnung schreit. Ein wenige verqueres (boah, ich hasse es das das Wort so versucht ist) Denken in einer Geschichte die bereits tausend Ecken hat. Außergit comdem erfahren wir ein wenig über den jungen Azandar, wenn auch nur kleine Bruchstücke und Einblicke. Aber könnte die Geschichte wirklich eine Langform von dem was er früher tat vertragen?
   
   Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
@@ -10589,7 +10589,7 @@
 * Beschreibung:
 
   ```markdown
-  Episode 71 des Nekrom DLC - Sitzung 9
+  Episode 71 des Nekrom DLC - Sitzung 11
   
   Heute findet unser Ausflug mit Azandar ein Ende. Da wir nicht die Realität in einer Nebenmission verändern können war eigentlich schon vorher klar wie die Dinge ausgehen. Und das ist ein wenig schade. Oft hat man Geschichte in denen am Anfang bereits klar ist wie die Dinge am Ende stehen, aber der Weg kann durchaus interessant sein der dahin führt. Insbesondere wenn die Abbiegungen die man genommen hat den Pfad alles Andere als grade haben sein lassen. Unser Weg durch die Realität mit Azandar war ein wenig weniger linear aber am Ende nicht besonders spannend wie ich fand. Wir haben ein wenig über seinen Weg durch die Geschichte erfahren, haben Etappen seines Handelns gesehen, aber so richtig wissen wer Azandar jetzt ist tue ich trotzdem nicht. Es ist komisch, wir haben einige Informationen erhalten aber jetzt da wir hier stehen wirkt er immer noch blutleer, das ist unbefriedigend. Also schicken wir ihn wohl zurück wo er her kam und fahren weiter mit Mirri durch die Gegend. Bis wir neue Begleiter finden.
   
@@ -10597,6 +10597,74 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
   Aufnahme vom 03.11.2023 - #1892 - ##71 - S11
+  ```
+
+##### #1893
+
+* Titel: `Let's Play ESO #1893 ##72 - die wilde Galerie [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 72 des Nekrom DLC - Sitzung 11
+  
+  Der morsche Hermes hat natürlich auch eine persönliche Menagerie. Es ist eine Weile her das wir eine solche Ausstellung betreten hatten, um genau zu sein handelte es sich um die Einrichtung der Königin der Hochelfen und war auf Summerset. Schade das wir solche Orte nie besuchen können wenn nicht grade alles am brennen ist. Neben den üblichen Exponaten lernen wir heute auch einen Kerl namens Morian Zenas kennen der anscheinend ebenfalls zur Ausstellung gehört. Meine Wortwahl ist hier allerdings ein wenig ungenau, es ist nicht wirklich ein Ort zu dem man als Chiffre hingeht um einen gemütlichen Samstagnachmittag verklingen zu lassen und vielleicht noch ein paar Fotos schießt. Es handelt sich viel mehr um eine Forschungsstätte die nur auf den ersten Blick so aussieht als handelte es sich um einen Tierpark. Ich nehme an das es Magie ein wenig einfacher macht die verschiedenen Wesen zu halten.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 05.11.2023 - #1893 - ##72 - S11
+  ```
+
+##### #1894
+
+* Titel: `Let's Play ESO #1894 ##73 - Flucht der geistig Gesunden [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 73 des Nekrom DLC - Sitzung 11
+  
+  Die Dinge über die man so alltäglich nachdenkt wenn man grade unter der Dusche steht oder wenn man auf den öffentlichen Nahverkehr warten ändern sich mit zunehmenden Alter. Vielleicht das prägendste über das ich oft nachdenke, wie sich meine Art zu denken mit mehr Erfahrung geändert hat. Interessant wäre noch ob das an chemischen Veränderungen in mir oder wirklich an gesammelter Erfahrung und Wissen das als Fundament dient liegt. Und in diesen Gedanken frage ich mich oft was es heißt vernünftig zu sein, was geistige Gesundheit ist, insbesondere in großen Städten sieht man öfter Leute durch die Gegend laufen die offensichtlich nicht ganz beisammen sind. Aber auch in alltäglichen Leuten könnte irgendwo unter der Oberfläche der Wahnsinn lauern. Oder eine tiefe Depression, auch nur eine weitere Ausprägung einer gewissen mentalen Instabilität. Was ich fragen will, wer ist schon geistig gesund?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 05.11.2023 - #1894 - ##73
+  ```
+
+##### #1895
+
+* Titel: `Let's Play ESO #1895 ##74 - das Allbekannte [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 74 des Nekrom DLC - Sitzung 11
+  
+  Elder Scrolls Lore geht ziemlich tief und gelegentlich erwähne ich mein bruckstückhaftes Wissen auch gegenüber dir, dem Zuschauer. Leider muss ich da immer wieder sagen das ich mich nicht wirklich an alles erinnern kann, und selbst wenn, ich dann nicht weiß wie genau und gut das entsprechende Wissen eigentlich ist. Oder, noch wichtiger eigentlich fast, ob das Wissen auch aktuell Kanon ist und der offiziellen Erzählung folgt. Insbesondere die obskuren Konzepte wie der Godhead oder SHIM habe ich ja bereits das ein oder andere Mal erwähnt ohne mir wirklich sicher zu sein ob es das wirklich ist. Heute erfahren wir von einer Wahrheit, ein Wissen über die Realität das so mächtig ist das es eine Person zerstören kann, wenn man den Verantwortlichen glauben darf dann sterben Menschen einfach wenn sie es erfahren. Bis auf Morian Zenas, der hat überlebt, irgendwie. Aber was könnte dieses Wissen sein das so schrecklich ist das es Körper und Geist gleichermaßen zerstört? Meine persönliche Theorie ist es das es der unwiderlegbare Beweis ist das man als NPC in einem Computerspiel existiert und nur ein paar wenige Zeilen Text ist. Das kann eine Person schon zerstören oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 05.11.2023 - #1895 - ##74
+  ```
+
+##### #1896
+
+* Titel: `Let's Play ESO #1896 ##75 - Ein neues Kapitel aufschlagen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 75 des Nekrom DLC - Sitzung 11
+  
+  Ich bin ideenlos was ich zu dieser Episode schreiben soll. Das ist übrigens ein Klassiker, wenn einen nichts einfällt schreibt man einfach darüber wie einen nichts einfällt damit man irgendetwas geschrieben hat und während man diesem Prozess nachgeht kommt dann noch irgendein Gedanke. Bestimmt. Fakt ist aber das die Episode zwar irgendwie passiert, die Geschichte wird auch erlebt aber es ist ein wenig eine nicht Geschichte. Die Charaktere sind potenziell interessant aber wir erfahren halt nicht so richtig etwas über sie das erfahrenswert ist. Es werden keine Konflikte aufgemacht, niemand stirbt, keine Dramatik und am Ende ist die Konklusion ein seichtes „ja das wird schon alles wieder“. Keine gestorbenen Kollegen die bedauert werden, keine interessanten Geschichten von den Reisen zwischen den Ebenen oder ein paar Haken über das Leben einer Familie die scheinbar nicht wirklich zu den Regierungen Nirns gehört. Die ganzen planetaren Wanderer könnten wesentlich mehr Tiefe haben, aber da müsste man irgendwo anfangen. Hier, als Einzelstück, macht das irgendwie nichts mit mir.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 08.11.2023 - #1896 - ##75
   ```
 
 ##### #Nummer

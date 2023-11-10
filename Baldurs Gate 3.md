@@ -1278,6 +1278,96 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #85
+
+* Titel: `Baldur's Gate 3 - #85 - abgesagter Hinterhalt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig seltsam, aber der Inhalt der gesamten Episode heute ist der das wir nicht auf einen Überfall gehen. Das ist ein wenig ärgerlich weil wir doch eigentlich die heilige Laterne brauchen die es uns ermöglicht in der tiefsten Dunkelheit zu wandeln. Bis wir das Ding erworben haben gibt es durchaus tiefe, praktische Probleme die sich uns in den Weg zur Kethric Thorm stellen. Aber Eines nach den Anderen. Die Schattenlande sind offensichtlich noch nicht fertig erkundet und es gibt noch andere Ecken die wir uns anschauen können. Außerdem müssen wir nicht irgendwelche armen Harfner in den Tod schicken wenn wir den geplanten Überfall absagen und stattdessen einen anderen Weg suchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 31.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #86
+
+* Titel: `Baldur's Gate 3 - #86 - Haus in tiefen Schatten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Schattenlande sind ein wenig das was passiert wenn der tödliche Nebel Stück für Stück die gesamte Insel eingenommen hat und dann noch einmal ein paar hundert Jahre vergangen sind. Und doch finden wir erstaunlich viele Leute die sich in den Schattenlanden aufhalten. Klar, die meisten von denen sind tot oder seltsame Geister, aber wir sind hier auch nicht völlig alleine unter den Lebenden. Und so finden wir heute ein freundliches Kind das sich anscheinend ein wenig von den Schatten hat auffressen lassen. Leider weiß ich nicht so wirklich warum wir überhaupt hier waren, ich bin mir fast sicher das ich einem Questpfeil gefolgt bin aber was genau wir jetzt hier versucht haben zu finden entzieht sich meiner Kenntnis. Am Ende, nachdem alle Geister verbannt sind fühlt es sich ein wenig so an als hätte ich etwas übersehen und eine Geschichte falsch gelöst. Eine Erzählung die nicht zu Ende ist aber für uns beendet ist. Bedauerlich, vielleicht hat der nächste Charakter ja mehr Glück.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 31.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #87
+
+* Titel: `Baldur's Gate 3 - #87 - Bergpfad Rückseite [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ein wenig übersehen das mehre Wege nach Rom führen, bzw. zu den Türmen des Mondaufganges. Es gibt da anscheinend einen kleinen Bergpfad den ich immer für den Zugang zu Kapitel 2 gehalten habe aber so wie die Dinge stehen handelt es sich nur um einen Bereich des ersten Kapitels mit einer Warnung bevor man weiterzieht. Das Ganze ist auch ein wenig unklar. So wie es aussieht ist die Warnung dafür da das sich die gesamte Gruppe versammelt wenn man diesen Durchgang betritt und eventuelle Beschwörungen verschwinden. Ins Unterreich konnte man einfach so reisen ohne das eine solche Warnung aufgetaucht ist. Ich bin daher ein wenig durcheinander geraten und hätte diesen gesamten Abschnitt beinahe übersehen. Und dabei wollte doch La’ezel unbedingt zu einer Krippe der Githyanki um sich dort heilen zu lassen. Wir kommen jetzt von der anderen Seite und treffen scheinbar den örtlichen Zonenboss, eine Horde Untoter. Die hätten uns wohl normalerweise den Eingang in die Schattenlande verwehrt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 31.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #88
+
+* Titel: `Baldur's Gate 3 - #88 - Kloster Rosenmorg [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt eine Götter in dieser Welt, ich bin mir immer noch nicht ganz sicher wie die Schwerküste, Niewinter und die anderen Regionen genau zusammen hängen aber die Götter dort scheinen übergreifend zu sein. Langsam aber sicher komme ich auch in das Thema rein. Wir haben schon von Shar, Selûne, Silvanus und Myrkul gehört. Dann wäre da noch Baal und der Typ der bei uns im Camp steht ist wohl angeblich der ehemalige Gott der Toten dessen Rolle sich jetzt auf drei Leute aufgeteilt hat. Lovithar oder so haben wir verpasst und der eine Goblin im Lager hat auch noch die ursprüngliche Goblin-Gottheit erwähnt, Muglip oder so. Heute neu dazu kommt Lanthander, der Gott des Sonnenaufgangs, Fruchtbarkeit und noch andere Sachen. Was er anscheinend nicht ist ist der Gott der Gith’yani Abwehr weil seine Jünger in diesem doch recht beeindruckend großen Kloster sind alle tot. Und das Kloster eine Ruine, aber wahrscheinlich sind ein paar Level 10 Drachen durchaus ein Problem. Später erfahren wir das sie sogar Luftabwehrlaser gehabt hätten, aber anscheinend nicht genug. Außerdem ist das hier Episode 89 und fast 90 weil ich noch mal eben schnell vor Ende des Streams fertig werden wollte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 31.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #89
+
+* Titel: `Baldur's Gate 3 - #89 - ein wenig Blasphemie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es hat einige Zeit gedauert aber ich bin jetzt doch dann endlich zu der Erkenntnis gekommen das Vlaakith, die große ewige Anführerin und Königin der Gith’yanki anscheinend ein Lich ist. Wie genau sich Lich in DnD präzise definieren weiß ich nicht aber es wird wohl irgendetwas mit grob untot, böse und egoistisch sein. Das würde ich zumindest aufgrund des Quellmaterials einfach mal ins Blaue schießen. Lich sind egoistisch weil sie länger am Leben bleiben sein wollen als es eigentlich vorgesehen war und um das zu erreichen opfern sie halt die Lebenden. Wie genau man zu einem Lich wird ist mir ebenfalls nicht bekannt aber in Menschenopfer liegt definitiv macht. Inwiefern also die Königin der Gith’ wirklich vertrauenswürdig ist und inwieweit das Alles ein Kult ist vermag ich gar nicht zu sagen. Fakt ist aber auch das wir Spuren des anderen Kerls namens Orpheus gefunden haben der angeblich der wahre Anführer sein soll. Teile unser Begleiter stehen da sehr radikal dagegen, aber der Verdacht verdichtet sich. Ein wenig zumindest.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 05.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #90
+
+* Titel: `Baldur's Gate 3 - #90 - Kith'rak Therezzyn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich an dieser Aufnahme zurückdenke hat der Aufenthalt im Kloster Rosenmorg und das ganze Umhergeirre in der Krippe wirklich lange gedauert. Wenn ich mir die Episodentitel aber heute so angucke, dann geht das hier eigentlich ziemlich fix und wir treffen heute schon den Anführer der lokalen Krippe. Übrigens ein Ausbildungszentrum und tatsächlich auch wirklich Bruttstätte für neue Gith’yanki, weil irgendwie legen die Viecher Eier, so richtig herausgefunden warum sie das tun haben wir aber noch nicht. Anscheinend haben die Gedankenschinder daran ihren Anteil aber nähere Details sind wohl nicht bekannt. Interessanterweise ist ja mindestens Lae’zel sexpositiv und scheint diesen Fakt auch gerne zu betonen. Ich gehe also davon aus das entsprechende Organe verhanden sind aber nicht mehr so wie einmal geplant funktionieren. Ob wir irgendwo noch die Reste eines größeren Genlabors finden in dem die Gith erschaffen wurden? Davon einmal abgesehen ist es ein Fehler Lae’zel für Dialoge nach Vorne zu schicken, das läuft bei ihr einfach nicht. Keinerlei Taktgefühl diese Krieger.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 05.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

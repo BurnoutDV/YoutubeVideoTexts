@@ -660,6 +660,82 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
   
+
+##### #44
+
+* Titel: `GoW Ragnarök - #44 - Vanaheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn das so weiter geht dann sehen wir wirklich noch alle Reiche die es gibt. Vielleicht nicht so sehr im Detail wie es im letzten Teil der Fall war aber auch schon da war ja unser Ausflug nach Albheim auch eher kurz. Definitiv sehen werden wir noch Muspelheim, schließlich wurde uns schon versprochen das dort Herausforderungen auf uns warten. Svartelfheim durften wir ja schon bereisen und es spricht Einiges dafür das wir noch einmal wiederkehren werden um die verbleibenden Türen und Winkel zu untersuchen. Technisch gesehen war nur Sohn in Jötunheim aber der hat auch die Propheizeiung des es ihm eines Tages nach Asgard treibt. Fehlt eigentlich nur noch Helheim aber es wird sich bestimmt noch eine schöne Gelegenheit bieten bei der wir einmal mehr in die Hölle absteigen und die Seele von irgendjemanden retten. Es kommt mir fast so vor als würde dafür Midgard ein wenig kürzer fallen. Es ist ja auch alles ziemlich vereist und die meisten Orte sind jetzt unzugänglich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 7, Aufnahme vom 02.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #45
+
+* Titel: `GoW Ragnarök - #45 - Freyr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vielleicht hat die ursprüngliche nordische Sprache ein wenig einfachere Unterscheidung zwischen Freyr und Freya gemacht, aber die Art und Weise wie ich es ausspreche macht die Unterscheidung tatsächlich ziemlich kompliziert. Heute lernen wir aber den Bruder der Göttin kennen, der ist logischerweise ebenfalls auch ein Gott auch wenn noch nicht so richtig klar ist was einen Gott genau aus macht. Wenn es nur der Zugriff auf Magie ist dann ist quasi jeder ein Gott und von dem was wir später so sehen scheinen die Vanen eigentlich ziemlich normale Menschen zu sein die halt nur in einem anderen Reich leben. Insofern scheint dieser ganze Quatsch mit dem Sterben und nach Helheim gehen wenn man ein Mensch ist doch ziemlich oberflächlich. Oder Vanen, Asen und Menschen sind exakt das gleiche Zeug und unterscheiden sich nur durch ihr Wissen und dem Zugriff auf ökonomische Mittel. Es könnte aber auch ein wenig am Ursprungsmaterial liegen das es hier nur ungenaue Bestimmungen gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 7, Aufnahme vom 02.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #46
+
+* Titel: `GoW Ragnarök - #46 - Dschungeldurchquerung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Von dem Typen der Episodentitel wie „verbleibende Fäden“ und „einige Aufgaben“ erschaffen hat wird heute „Dschungeldurchquerung“ präsentiert. Das ist ein wunderschönes Komponentenwort das nicht nativen Sprechern bestimmt einige Schwierigkeiten bereitet. Ja, ich hätte das Ding auch einfach nach dem Ort benennen können den wir tatsächlich durchreisen, aber da es ein wenig unklar ist wie zutreffend und beschreibend diese Namen sind habe ich mich für diese Bezeichnung entschieden. Der Name ist ja auch Programm. Wir durchqueren einen Dschungel, mit dabei ist ein Zwerg und seit quasi eben auch ein Falke der uns nützliche Tipps gibt. Mit nützlich meine ich übrigens sinnloses Gequatsche. Mimir ist auch noch dabei, wenn wir so weiter machen ist unsere Party bald riesig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 7, Aufnahme vom 02.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #47
+
+* Titel: `GoW Ragnarök - #47 - das verlassene Dorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir wird immer nebulöser was genau die Vanen als Götter qualifiziert. Von dem was wir jetzt sehen haben sie in irgendwelchen Hütten in einer leicht afrika-artigen Umgebung mit ein wenig weniger nervigen Büschen gewohnt. Die Steinbauten von vorher erweckten zumindest den Anschein das es hier eine große Zivilisation gab, aber wenn Freya anmerkt das sie in diesem Dorf groß geworden ist und nebenan ein paar wichtige Dinger aus Stein stehen passt das nicht zusammen. Wer ist bitte schön in der Lage riesige Steingebäude zu bauen die einzig und allein sakralen Zwecken dienen aber der Rest der Leute wohnt dann in Hütten. Insbesondere wenn diese Hütten auch nicht völlig zerfallen sind sondern durchaus nach einer soliden Bauweise aussehen. Hochentwickelt gar. Irgendwie passt das in meinem Kopf nicht zusammen. Die einzige Erklärung die ich spontan hätte das irgendwann in der Vergangenheit jemand mit viel Macht und Wissen das Steinzeug gebaut hat und dann dieses Wissen verkam und die vorhandene Bevölkerung hat halt was da war genutzt konnte aber nicht mehr erstellen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 7, Aufnahme vom 02.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #48
+
+* Titel: `GoW Ragnarök - #48 - Weltenbaumwurzeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Weltenbaum ist ein ein wenig komisches Konzept. Wenn man es irgendwie in die Geschichten packt und nur nebenbei erwähnt das es das Ding halt gibt, oben wohnt der Adler und unten der Drache, dann geht das alles erst einmal klar. Aber wenn man sich das Ganze dann als physisches Konzept vorstellen muss das irgendwie für normale Menschen erlebbar sein soll wird es schnell schwierig. Der Weltenbaum durchdringt alle Ebene und ist quasi der Grund für alle Orte. Auf der anderen Seite sehen die anderen Welten größtenteils so wie Midgard, also das was man kennt aus. Dementsprechend würde man nicht damit rechnen das da irgendwo ein großer Baum am Horizont zu sehen ist. Obwohl er das natürlich logischerweise tun müsste wenn man bedenkt das die Welt eine Scheibe ist. Alles nicht so einfach. Aber die Wurzel des Weltenbaumes sind unten, ziemlich sicher. Und die Welten sind oben. Warum also genau sollten wir in Vanaheim Wurzeln des Weltenbaumes finden? Weil Yggdrasil ein Konzept ist und Baum nur was wir sehen, es könnte auch ein Bürohaus sein. Oder so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 7, Aufnahme vom 02.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -670,5 +746,26 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Hier
   ```
 
-  > Mehrfach Erwähnung von 4 Seelenteilen lässt vermuten das das später wichtig ist. Kratos nicht vom Licht verbrannt.
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+
+> Mehrfach Erwähnung von 4 Seelenteilen lässt vermuten das das später wichtig ist. Kratos nicht vom Licht verbrannt.
 

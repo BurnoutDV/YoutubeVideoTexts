@@ -736,14 +736,36 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
-##### #Nummer
+##### #49
 
-* Titel: ``
+* Titel: `GoW Ragnarök - #49 - Freiheit [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir sind mal wieder hier, in dem Moment, in der Ecke, wo es zu klären gilt was Freiheit jetzt genau ist. Ich kann es nicht genau sagen, jeder definiert Freiheit ein wenig anders. Dann gibt es da so Dinge wie finanzielle Freiheit, und je länger man darüber nachdenkt um so mehr Ketten entdeckt man die einen Binden. Wahre Freiheit zu besitzen könnte auch ziemlich langweilig sein wenn man nicht kreativ ist. Nicht zwingend abhängig von jemanden zu sein ist schon einmal ein guter Anfang von Freiheit. Klar, man ist vielleicht finanziell abhängig weil man sonst nichts essen kann, aber die Quelle der Finanzen ist relativ weit offen, das ist dann eine fraktionelle Freiheit die vielleicht ein guter Kompromiss darstellt. Wenn man wortwörtlich in Ketten liegt ist Freiheit einfacher zu definieren. Schwieriger wird es wenn die Ketten nicht sichtbar sind. Kleiner Schwank aus der Familie, ich glaube das mein Opa immer Förster werden wollte und wohl am liebsten dann so mit 80 als Single irgendwo im Wald einen Herzinfarkt erlegen wäre. Da er aber der älteste Sohn war, gab es Pflichten, Bindungen aus sozialen Gründen, Versprechungen dem Vater gegenüber. Und so war mein Opa nie so richtig frei. Zum jetzigen Zeitpunkt lebt er noch, morgen ist sein Geburtstag, ich denke oft an ihn, aber ich könnte ihm nie sagen das es Freiheit ist die er sein ganzes Leben nicht hatte. Zu abstrakt, zu komplex. In Spielen ist das einfacher. Freyas Freiheit hängt zwar auch nicht an eisernen Ketten, aber an welchen aus Holz und Magie, da kann eine große Axt helfen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 7, Aufnahme vom 02.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #50
+
+* Titel: `Let's Play ESO #1897 ##76 - Unter böswilligen Sternen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 76 des Nekrom DLC - Sitzung 11
+  
+  Es kommt mir langsam der Verdacht das der Fürst der Geheimnisse vor Allem eine gute PR hat und eigentlich gar nicht soviel Macht in Sachen Wissen, Zukunft und Geheimnisse hat wie er immer vorgibt. Also jetzt inhärent meine ich. Er hat das natürlich mittlerweile alles, besitzt Zugriff und kann diese Dienste auch anbieten. Aber das kann der morsche Hermes halt nicht weil er ein Daedrafürst ist und ihm das in die metaphorische Wiege gelegt wurde sondern weil er einige Jahrhunderte darauf angelegt hat Leute zu sammeln die für ihn verschieden Weissagungstechniken quasi permanent durchführen, die Informationen danach filtern und aussortieren und dann komprimiert dem großen Fürsten zur Verfügung stellen. Mit den Geheimnissen verhält es sich dann ähnlich, weil ja jeder weiß das Hermes hier Geheimnisse aufstapelt kommen die Leute damit natürlich auch zu ihm gerannt und opfern das Zeug für andere Geheimnisse. Da man prinzipiell das gleiche Wissen mehrfach verschachern kann kommt da mit der Zeit richtig was zusammen. Umso wichtiger ist es natürlich das die OpSec von allerhöchster Qualität ist. Und das ist der Grund warum wir heute komische Dinge im Sternenkloster erleben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 10.11.2023 - #1897 - ##76
   ```
 
 ##### #Nummer

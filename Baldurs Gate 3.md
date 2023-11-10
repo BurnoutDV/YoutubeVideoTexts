@@ -1368,6 +1368,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #91
+
+* Titel: `Baldur's Gate 3 - #91 - das Zaith'isk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wortwörtlich seit Ewigkeiten hängt uns Lae’zel in den Ohren das ihre Leute in der nächsten Krippe eine Möglichkeit haben die Larven der Gedankenschinder wieder zu entfernen. Mir is allerdings ein wenig rätselhaft wann genau das eigentlich sooft gebraucht wird. Von Allem was wir gesehen haben sind die Gedankenschinder psyonisch ziemlich stark und die Verwandlung dauert nur ein paar Tage. Was ist also der Einsatzzweck? Trupp wird überwältigt und die Überlebenden werden als Brutkästen genutzt, Befreiungstruppe kommt innerhalb weniger Stunden und holt ihre Leute raus? Bei Allem was wir so gehört haben scheinen mit insbesondere die Gith’yanki als Volksgruppe keine Leute zu sein die eine große „niemand wird zurückgelassen“ Politik fahren. Klar, so etwas kann vorteilhaft sein wenn man die Moral der Truppe hochhalten will und man sich als Infanterist darauf verlassen kann das man raus geholt wird solange man noch atmet..oder es politisch opportun ist. Aber das Gedankengut Nietzsches scheint ja doch recht tief zu stecken. Warum hat man also so ein Gerät wenn es einfacher wäre Infizierte einfacher der Klinge zu übergeben? Es sei den natürlich das Gerät macht gar nicht das was alle immer sagen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 05.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #92
+
+* Titel: `Baldur's Gate 3 - #92 - Astralreisen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute passiert echt eine Menge. Nebenbei bemerkt spiele ich ja parallel noch mit einem zweiten Char langsam das Spiel ebenfalls nach, ich bin bei Weitem noch nicht so weit wie ich es hier bin und ich treffe auch ein paar andere Entscheidungen. Aber Lae’zel und Schattenherz sind dort auch Teil meines Kernteams nur das ich nicht selber Schattenherz bin, daher sehe ich dort die ganzen Dialoge und Interaktionen die mir jetzt entgehen weil ich die Entscheidungen für die Shar-Jüngerin treffe. Und von dem was ich so sehen kann ist es ein echtes Wunder das wir als Schattenherz überhaupt zusammen mit Lae’zel ins örtliche Kloster von Lanthander gekommen sind. Das hätte wohl eher eigentlich nicht passieren dürfen wenn man nicht unbedingt eine Zunge aus Silber hat um die Leute zu bequatschen. Aber dadurch das eine Stimme fehlt die die Stimmung hochkocht und wir zudem einmal mit ihr das Bett geteilt haben waren die Wogen bisher erstaunlich glatt. Heute gibt es allerdings ein paar Kanten, das dürfte an den Lichs liegen die wir heute treffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 05.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

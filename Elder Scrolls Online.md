@@ -10667,6 +10667,23 @@
   Aufnahme vom 08.11.2023 - #1896 - ##75
   ```
 
+##### #1897
+
+* Titel: `Let's Play ESO #1897 ##76 - Unter böswilligen Sternen [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 76 des Nekrom DLC - Sitzung 11
+  
+  Es kommt mir langsam der Verdacht das der Fürst der Geheimnisse vor Allem eine gute PR hat und eigentlich gar nicht soviel Macht in Sachen Wissen, Zukunft und Geheimnisse hat wie er immer vorgibt. Also jetzt inhärent meine ich. Er hat das natürlich mittlerweile alles, besitzt Zugriff und kann diese Dienste auch anbieten. Aber das kann der morsche Hermes halt nicht weil er ein Daedrafürst ist und ihm das in die metaphorische Wiege gelegt wurde sondern weil er einige Jahrhunderte darauf angelegt hat Leute zu sammeln die für ihn verschieden Weissagungstechniken quasi permanent durchführen, die Informationen danach filtern und aussortieren und dann komprimiert dem großen Fürsten zur Verfügung stellen. Mit den Geheimnissen verhält es sich dann ähnlich, weil ja jeder weiß das Hermes hier Geheimnisse aufstapelt kommen die Leute damit natürlich auch zu ihm gerannt und opfern das Zeug für andere Geheimnisse. Da man prinzipiell das gleiche Wissen mehrfach verschachern kann kommt da mit der Zeit richtig was zusammen. Umso wichtiger ist es natürlich das die OpSec von allerhöchster Qualität ist. Und das ist der Grund warum wir heute komische Dinge im Sternenkloster erleben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 10.11.2023 - #1897 - ##76
+  ```
+
 ##### #Nummer
 
 * Titel: ``

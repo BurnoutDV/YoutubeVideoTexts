@@ -515,6 +515,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
 
+##### #34
+
+* Titel: `Yakuza 6 - #34 - Rekrutierung einer Straßengang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neben irgendwelchen Straßengangs treffen wir heute übrigens noch einen Bekannten aus Yakuza 0 (glaube ich?), aber das verfolgen wir erst ein einer anderen Episode weiter. Davon abgesehen hauen wir irgendwelche wildfremden Leute auf offener Straße zusammen und kümmern uns dann um irgendwelche komischen Straßenkämpfe aus der sich die Polizei anscheinend selber fern hält. Ich kann mir das übrigens ganz gut vorstellen. Solange keine Unbeteiligten erwischt werden halte ich das gar nicht einmal für so unwahrscheinlich das die Polizei hier nicht eingreift. Hooligan-Gruppen die aufeinander losgehen werden hier zu lande auch eher zögerlich auseinander gezogen und meistens erst nachdem die ersten Schläge schon lange verhallt sind. Es ist auch wesentlich einfacher die Leute am Boden zu verhaften als eine aktive Schlägerei aufhalten zu wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 5, Aufnahme vom 30.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #35
+
+* Titel: `Yakuza 6 - #35 - Straßenkämpfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es bleibt so mittelmäßig spannend. Die Mechanik die wir heute sehen konnten wir bereits in Yakuza 2 Kiwami bewundern das auf der gleichen Grafikengine wie dieser Teil basierte, glaube ich zumindest. In der Regel prüfe ich nicht das Faktenwissen wenn ich diese Beschreibungen schreibe aber ich bin mir relativ gut sicher. Sicher genug es nicht nach zu schlagen und das Argument steht ja. Die Mechanik ist bekannt, nur das wir beim letzten Mal Majimas Baustellentruppe hatten die sich irgendwie gegen die Konkurrenz durchgesetzt hat. Das machen wir heute natürlich nicht. Stattdessen geht es um handfeste Straßenkämpfe mit gewaltigen Gangs die mehr Belegschaft haben als die meisten mittelgroßen Yakuza-Versammlungen und eigentlich ein ziemlicher großer Fleck auf dem Radar des Gesetzes sein sollten. Klar, man kann davon ausgehen das die Bullen etwas zögerlich sind, aber im Großen und Ganzen habe ich schon Vertrauen darin das die echte japanische Polizei ein wenig aktiver gegen solche Bewegungen vorgeht. Aber das ist dann wohl die große Fantasie in den Yakuza Spielen. Straßenkämpfe mit Handgranaten und weit und breit kein einziger Cop.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 5, Aufnahme vom 30.10.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #36
+
+* Titel: `Yakuza 6 - #36 - Aussichtspunkte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wichtige Gespräche kann man viel besser führen wenn man eine gute Aussicht hat, dann kann der Geist wandern während man nach den richtigen Worten sucht um das zu sagen für das man eigentlich her gekommen ist. In der Hinsicht ist Japan ziemlich angenehm, gefühlt gibt es an jeder Ecke irgendwelche Berge die man sich angucken kann und auf die man hoch latschen könnte wenn man richtig Lust hat. Oder man nimmt die Seilbahn. Sich irgendetwas außerhalb der Städte anzuschauen ist leider eine Sache die ich nicht wirklich gemacht habe als ich das letzte Mal da war. Ein anderer Punkt ist das ich immer ziemlich nervös bin wenn ich solche Szenen sehe. Irgendetwas passiert immer wenn wichtige Dialoge geschehen sollen und es ein öffentlicher Ort ist der viele Zugänge hat. Irgendetwas geht schief, irgendjemand wird angeschossen und nie werden die wichtigen Dinge zu erst gesagt so das wir am Ende nicht alles erfahren was zu erfahren ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 6, Aufnahme vom 06.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #37
+
+* Titel: `Yakuza 6 - #37 - (un)koordinierter Überfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin kein Verbrechensgenie und ich bin mir ziemlich sicher das meine guten Ideen bei Kontakt mit der tatsächlichen Praxis irgendetwas zu überfallen sicherlich auf ziemlich viele Probleme stoßen werden. Und doch glaube ich das ich mit einer halben Stunde Vorlauf durchaus ein paar Probleme lösen könnte die Kiryu und seine Gang heute haben. Zum Beispiel das Ding mit dem Ablauf. Und der Plannung. Und der Durchführung. Klar, im Idealfall will man auch vorher ein wenig geübt haben wir man vorgeht aber das ist zeitlich nicht im Rahmen. Ein Einsatz á la Spezialeinheit ist mit 30 Minuten Vorplannung nicht ohne eingespieltes Team möglich, und selbst dann gibt es immer noch verdammt viele Unbekannte. Sicher wäre aber das man als erste Tat des Tages einen Beobachter abstellt und sich die Sachlage genau anschaut. Also mindestens ab dem Zeitpunkt ab dem man beschließt los zu legen. Das spielt hier in der Moderne, den Beobachter konstant per Telefon einzubinden sollte überhaupt gar kein Problem sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 6, Aufnahme vom 06.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
 ##### #Nummer
 
 * Titel: ``

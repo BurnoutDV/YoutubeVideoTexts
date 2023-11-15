@@ -1398,6 +1398,156 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #93
+
+* Titel: `Baldur's Gate 3 - #93 - Gith Erfahrungsschätze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach einer kleinen aber irgendwie auch nicht so erfolgreichen Astralreise stellt sich neben einer wirklich nicht weiter relevanten Glaubenskrise heraus das es da noch einige Gith’yanki gibt die nicht direkt mitbekommen haben das wir noch leben. Allgemein hat sich scheinbar herumgesprochen das wir uns verweigert haben zu sterben und das Wort eins Inquisitors ist scheinbar ziemlich absolut. Das heißt aber auch das es eine Menge Krieger gibt die durchaus sehr bereit sind uns eine Menge Erfahrungspunkte zu geben. Und mit geben meine ich das sie die fallen lassen wenn sie zufälligerweise durch unsere Hand einen fatalen Unfall erleiden. Lae’zel selbst ist momentan viel zu geschockt als das sie groß Gegenwehr leidet also können wir einfach los legen. Was folgt ist ganz gewiss kein Blutbad.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 05.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #94
+
+* Titel: `Baldur's Gate 3 - #94 - große Blasphemie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen haben wir bereits die größte Blasphemie für einen Gith begangen die man so allgemein begehen kann, wir haben uns dem direkten Befehl der Lich-Göttin bzw. Königin verwehrt. Aber einfach so zu sterben ist nun wirklich keine Entscheidung für uns die wir so treffen können. Es gibt scheinbar eine Welt zu retten und so eine Aufgabe nimmt man doch nicht einfach so auf die leichte Schulter oder? Daher machten wir weitere, löschten alle Zeugen aus und nahmen eine nicht geringe Menge an Erfahrungspunkte mit uns. Ärgerlicherweise haben wir die Person umgebracht die unser Gith’yanki EI dankend angenommen hätte aber da kann man jetzt auch nichts mehr tun. Und doch ist es scheinbar möglich noch ein wenig weiter in den Höllen der Blasphemie abzusinken, das gilt natürlich alles nur für Lae’zel, als Schattenherz müssten wir uns schon Herrin Shar gegenüber versündigen und bisher sieht es doch eher so aus als wären wir hier gut auf Kurs und würden eigentlich auch das genau Gegenteil anstreben. Aber Shar war bis jetzt auch sehr ehrlich zu uns und hat nicht versucht uns für niedere Zwecke zu missbrauchen oder als Treibstoff für ihre Gottmaschine. Sich jetzt aber noch mit jemanden zu verbünden könnte durchaus als weiterer Nagel gesehen werden. Aber was weiß ich schon von Gith-Kultur.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 05.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #95
+
+* Titel: `Baldur's Gate 3 - #95 - Laterne im Dunkeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser kleiner Ausflug in die helle Welt des Lanthander war von großen Erfolg gekörnt, wir halten jetzt seinen Streitkolben in der Hand der uns in den dunkelsten Stunden den Weg weisen kann und sogar Gale sollte jetzt in der Lage sein auch Dinge zu sehen. Leider ist der Schattenfluch sogar noch stärker als eine x-beliebige heilige Waffe und daher brauchen wir immer noch eine mächtige Kraft gegen das Dunkel. Immerhin leuchtet Lanthanders Waffe auch weiterhin und spendet so ein wenig Licht, es ist bloß nicht genug um auch tatsächlich die ganze Gruppe zu schützen. Oder überhaupt irgendjemand. Also überfallen wir dann doch endlich einmal die große Spinne die uns schon beim letzten Mal im Weg stand. Ich weiß übrigens immer noch nicht ob eine Drinne zu sein jetzt eine Bestrafung oder die höchste Belohnung für die Anhänger Lolths ist. Ich meine vernommen zu haben das zwischendurch irgendjemand jemand Anderes gedroht hat die Person in eine Drinne zu verwandeln, aber vielleicht gilt das auch nur für Leute die nicht der Spinnengöttin gegenüber verschworen sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 14, Aufnahme vom 05.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #96
+
+* Titel: `Baldur's Gate 3 - #96 - Rolands Rettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stück für Stück werfe ich alle Prinzipien über Bord. Man sagt ja auch immer das der Weg zur Hölle mit Anwälten gepflastert ist..oder mit guten Vorsätzen. Und so benutze ich mehr und mehr die Ladefunktion die es mir ermöglicht ehemalige Fehler ungeschehen zu machen. Zum Beispiel ist beim letzten Mal irgendwie Roland umgekommen. Das wollte ich gar nicht aber ich hätte wohl wenn dann eingreifen müssen um seinen Tod zu verhindern. Mein Team aufteilen müssen oder irgendetwas in der Richtung unternehmen sollen. Das tat ich aber nicht weil ich es gar nicht bemerkt habe. Plötzlich ist sein Questpfeil verschwunden, mitten im Kampf. Ich argumentiere dennoch das es sich um einen Bug handelte und das es daher gerechtfertig ist das ich noch einmal Lade und den Kampf ein wenig anders führe als beim ersten Mal. Allerdings fällt auf das ich Erfahrung gesammelt habe. Das Ergebnis ist also wesentlich vorteilhafter als beim letzten Mal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 07.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #97
+
+* Titel: `Baldur's Gate 3 - #97 - Reithwin Zollhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zölle sind ein wichtiges Instrument. Wie auch Beamte und Mitarbeiter zu haben die sich mit der Mission und nicht irgendwelchen niederen Beweggründen identifizieren. Ich habe keine Ahnung wo man solches Personal her bekommt. Abseits von religiösen Fanatismus und vielleicht die monarchistischten Diener der Krone kann ich mir kaum einen Menschen vorstellen der wirklich für seine Sache dauerhaft brennen kann. Das dauerhafte ist hier das große Problem. Für einen funktionierenden Verwaltungsapparat möchte man gut geölte Räder haben. Leute die verkörpern wofür der Staat steht. Ich argumentiere daher das es kaum möglich ist einen wirklich guten Rechtsstaat auf der persönlichen Gier der Menschen auf zu bauen. Man stelle sich vor ein Zöllner würde sich das Geld selber in der Tasche stecken oder sich mit dem Reichtum der durch den Handel zu Stande kommen identifizieren. Und dabei vollständig missachten worum es geht. Eine Stadt, ein Staat oder eine Regierung die reichen Handeln hat gibt den Händlern und Menschen eine stabile Grundlage in der sie ihre Geschäfte durchführen können. Sicherheit durch die Stadtwache und einige andere Dienste. Diese Dienste wollen bezahlt werden, und Sicherheit ist natürlich auch eine Funktion der Zufriedenheit der Bevölkerung, daher geht auch Geld für Bildung, Suppenküchen und anderen zivilisatorischen Errungenschaften drauf. Und das muss wieder rein kommen. Aber wofür kein Geld rein kommt ist für Prunkpaläste, Goldrüstungen oder privaten Annehmlichkeiten die über das Maß des Lohnes hinaus gehen. Wenn man versucht dafür auch noch Steuern ein zu behalten könnten man mittelfristig sehr seinen Stand in Gefahr bringen. Das ist noch sehr simpel gedacht, aber damit genau das passiert bräuchte man Leute die an die Mission glauben und zumindest mit einem Auge das große Ganze gesehen haben. Beim Zöllner von Reithwin war dies offensichtlich nicht der Fall.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 07.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #98
+
+* Titel: `Baldur's Gate 3 - #98 - Gerringothe Thorm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es hat etwas gedauert aber ich habe dann auch irgendwann verstanden das Ketheric Thorm nicht nur der lokale Warlord war der mit seinem Glauben an Shar hier einiges an Schwierigkeiten vollbracht hat sondern auch zu einer alten Familie gehört hat die wohl schon seit Generationen die Kontrolle über das gesamte Gebiet um Reithwin in der Hand hatte. Wo dann auf einmal die vielen willigen Anhänger der Shar her kamen ist mir nicht bewusst aber es ist schon ein wenig seltsam das dafür auf einmal Armeen dort waren, insbesondere wenn man sich anschaut wie wenig der Glaube an Shar eigentlich für die breite Masse geeignet ist. Shariten entsagen sich der Liebe, Gefühlen und geben sich dem Verlust hin. Von der Grundstruktur ist das schon ein wenig parasitisch, eine solche Religion kann eigentlich nur als Underdog funktionieren. Das alles wird später noch einmal wichtig wenn wir uns mehr das Stadtbild anschauen. Für den Moment ist aber vor allen Dingen wichtige das die Thorms eine Familie waren. Und wie das zu guten Nepotismus bzw. Adelsgeschlechtern gehört setzt man auch die liebe Verwandtschaft an wichtigen Punkten in der Verwaltung ein. Und so überrascht es nicht das Gerringothe Thorm im Zollhaus sitzt. Wir trafen sie bereits beim letzten Mal. Sie hatte scheinbar irgendwann einmal soetwas wie ein Gewissen. Das hat sicher aber mittlerweile auch erledigt. Und wir sehen quasi nur noch den Geist des Bedauerns.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 07.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #99
+
+* Titel: `Baldur's Gate 3 - #99 - Steinmetzgilde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir unsicher. Wie immer eigentlich, wahre Sicherheit hat man selten und wer sie oft empfindet sollte dringend prüfen ob man die Realität richtig verarbeitet. Heute bin ich mir unsicher ob die Tatsache das die Steinmetzgilde der Kern des Widerstands gegen Ketheric Thorm ist eine direkte Referenz zu den Freimaurern ist oder eher eine Beobachtung das genau dieser Berufsstand besonders befähigt dazu ist. In einer vor-industralisierten Gesellschaft, weit weg von Beton und Stahlbauten ist die Kunst eines Steinmetzes auch außerhalb von Kunst und Ornamenten enorm gefragt. Baumaterialien müssen geschaffen werden, reiche Personen bezahlen Geld für möglichst akkurate Erzeugnisse und die breite Palette an Einsatzmöglichkeiten gibt der Gilde selbst Einfluss in unterschiedlichsten Gesellschaftsschichten sowie die Möglichkeit an verschiedenen Stellen Kontakte zu knüpfen und wichtige Personen zu verbinden. Das Gleiche könnte aber auch für eine ganze Bandbreite anderer Professionen wahr sein. Daher bin ich mir unsicher. Aber ich weiß auch nichts über die Freimaurer und deren Ursprünge.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 07.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #100
+
+* Titel: `Baldur's Gate 3 - #100 - Friedhof und Fisch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist Episode 100 und zum jetzigen Zeitpunkt habe ich immer noch kein Thumbnail „gemalt“ und damit meine ich das ich nicht die Episoden durchgeskippt habe um eine gute Ansicht einer Zwischensequenz zu benutzen die ich dann mit Zahlen versehen kann. Da wir es mittlerweile 100 Episoden lang geschafft haben weiß ich auch nicht mehr so recht ob das nun wirklich noch passieren wird. Aber vorgenommen habe ich es mir auf jeden Fall immer noch. Zur Sachlage: man möchte meinen das ich mir für die 100ste Folge etwas Besonderes vorgenommen habe, aber sein wir ehrlich, es ist ein Let’s Play und wenn ich damals bei meinen LoL Casts nichts gemacht habe kommt jetzt hier auch nichts. Stattdessen braten wir kleinere Fische. Interessant ist eigentlich das wir das Modell der Fischmenschen tatsächlich noch einmal wieder sehen. Ich hatte eigentlich gedacht das es sie wirklich nur für ein Easter-Egg gibt aber scheinbar haben wir sie erneut gefunden. Nur dieses Mal sind ihre Fischaugen sogar noch toter als beim letzten Mal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 07.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #101
+
+* Titel: `Baldur's Gate 3 - #101 - verfluchte Leichenberge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwann stumpft man vor den Grauen ab die man so täglich sieht. So geht es medizinischen Personal, so geht es Soldaten im Krieg. Menschen sind erstaunlich resilent wenn es darum geht mit Trauma zu leben und einfach weiter zu funktionieren. Die Narben die sich dadurch in die Gesellschaft reiben sind natürlich nicht zu unterschätzen. Neulich las ich (das ist Code für: ich habe das nicht nachgeprüft, fand aber die Hypothese erwähnenswert) das vor dem ersten Weltkrieg die Männer die in den Krieg zogen wesentlich gefühlsbetonter in ihren Briefen geschrieben haben. Weiter stand dort das das typische männliche Klischee vom stoischen Mann der alles schweigend erträgt maßgeblich von den Nachkriegsgenerationen der beiden Kriege geprägt wurde und vorher nicht so präsent war. Aufgrund von globaler Bevölkerung kann ich mir das nicht so recht vorstellen das dies der Hauptgrund ist allerdings kann ich mir gut vorstellen wie Kriegsheimkehrer und Jugendliche die aus brennenden Städten geflohen sind sich nicht so recht damit einfinden können über ihre Erfahrungen zu reden. Das könnte schon eine Auswirkung auf die Leute haben. Die Menschen und Elfen in Reithwin hatten in dieser Hinsicht „Glück“. Sie sind alle tot.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 07.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #102
+
+* Titel: `Baldur's Gate 3 - #102 - Proben der Shar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Götter lieben es ihre Gläubigen auf die Probe zu stellen. Das stellt wiederum interessante Fragen. Wenn man davon ausgeht das ein Gott wirklich per Definition allwissend und allmächtig ist dann spielt die ganze Existenz keine Rolle. Der Sinn einer Prüfung ist definitiv nicht um zu sehen ob jemand genügend Hingabe hat oder in der Lage ist etwas durchzuführen. Dies ist bereits eine Tatsache, so oder so. Es handelt sich um Wissen das gewusst werden kann. Dein Gott weiß also bereits ob du die Prüfung schaffen kannst. Wenn aber bereits Gewissheit besteht kann es eigentlich nur Neugier oder Langeweile sein die dazu treiben eine Prüfung anzubieten. Ich schlussfolgere also daraus das Götter, wenn mächtig, sehr leicht zu langweilen sind und ein kleinkindliches Gemüt haben und sich darüber freuen wenn Wesen mit beschränkter Autonomie Dinge tun selbst wenn das Ergebnis vorher fest steht. Alternativ ist dein Gott nur sehr mächtig und definitiv nicht allwissend, in diesem Fall ist es eigentlich nur dann Glaube wenn man naiv ist, für alle Anderen Leute handelt es sich um eine transaktionale Beziehung. Wir tun etwas für die „Gottheit“ und erhalten dafür etwas zurück. Hier sollte man dann aber auch gleich stark hoffen das die entsprechende Macht wirklich nicht so viel weiß und nicht durch die Illusion von Hingabe schauen kann. Ein Umstand der mir unwahrscheinlich erscheint, nach langer Beobachtung sollte zumindest gute Menschen und Elfenkenntnis vorliegen die es ermöglichen sollte Schausteller zu entlarven. Aber vielleicht ist es den Göttern auch einfach egal solange lustig getanzt wird, und das bringt uns wieder zu den Prüfungen zurück.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 15, Aufnahme vom 07.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

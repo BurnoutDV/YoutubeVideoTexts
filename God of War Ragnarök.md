@@ -753,29 +753,77 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
 
 ##### #50
 
-* Titel: `Let's Play ESO #1897 ##76 - Unter böswilligen Sternen [Nekrom]`
+* Titel: `GoW Ragnarök - #50 - Du und ich gegen die Welt [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Episode 76 des Nekrom DLC - Sitzung 11
+  Es fällt mir nicht leicht gute Titel zu finden. Wahrscheinlich achtet so gut wie niemand darauf. Dafür gibt es ja schließlich eine Playlist die man einfach hintereinander weg gucken kann und es ist ja auch nicht so das irgendjemand nach irgendwelchen meiner komischen Titel schaut. Je länger ich darüber nachdenke desto sinnfreier kommen mir diese Titel ehrlich gesagt vor. Wie dem aber auch sei. Es sollte absolut klar sein das unser gewöhnlicher Kriegsgott definitiv keine Person für so einen Ausdruck ist. Er würde einfach niemals nie nicht sagen „du und ich gegen die Welt“. Zumindest jetzt nicht mehr. Soweit ich das sehen kann sind alle Leute die er dafür nutzen könnte schon lange gestorben und eventuelle Geschwister sind schon eine Weile nicht mehr präsent. Also muss es wohl jemand anderes sein der sich zu dieser Aussage hinreißen lässt, und so ist es auch.
   
-  Es kommt mir langsam der Verdacht das der Fürst der Geheimnisse vor Allem eine gute PR hat und eigentlich gar nicht soviel Macht in Sachen Wissen, Zukunft und Geheimnisse hat wie er immer vorgibt. Also jetzt inhärent meine ich. Er hat das natürlich mittlerweile alles, besitzt Zugriff und kann diese Dienste auch anbieten. Aber das kann der morsche Hermes halt nicht weil er ein Daedrafürst ist und ihm das in die metaphorische Wiege gelegt wurde sondern weil er einige Jahrhunderte darauf angelegt hat Leute zu sammeln die für ihn verschieden Weissagungstechniken quasi permanent durchführen, die Informationen danach filtern und aussortieren und dann komprimiert dem großen Fürsten zur Verfügung stellen. Mit den Geheimnissen verhält es sich dann ähnlich, weil ja jeder weiß das Hermes hier Geheimnisse aufstapelt kommen die Leute damit natürlich auch zu ihm gerannt und opfern das Zeug für andere Geheimnisse. Da man prinzipiell das gleiche Wissen mehrfach verschachern kann kommt da mit der Zeit richtig was zusammen. Umso wichtiger ist es natürlich das die OpSec von allerhöchster Qualität ist. Und das ist der Grund warum wir heute komische Dinge im Sternenkloster erleben.
-  
-  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
-  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
-  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
-  Aufnahme vom 10.11.2023 - #1897 - ##76
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 7, Aufnahme vom 02.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
-##### #Nummer
+##### #51
 
-* Titel: ``
+* Titel: `GoW Ragnarök - #51 - Kanufahrt mit Freya [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es kann durchaus einen praktischen Nutzen haben ein Kanu zu fahren. In der heutigen Zeit handelt es sich bei solchen Ausflügen aber in der Regel schon um eine reine Vergnügungsfahrt und nur wenn man sehr unwirtliches Gelände bereist ist ein Boot zur Fortbewegung anderen Maßnahmen überlegen. Ein ungezähmter Fluß kann auch einige Gefahren bieten. In dieser Hinsicht scheint Vanaheim aber über einen gewissen Frieden zu verfügen und wir können relativ entspannt paddeln ohne das wir uns all zu sehr anstrengen müssen. Tatsächlich gleitet das Boot ziemlich gut über das Wasser ohne das es größere Probleme gibt. Man könnte es also fast schon romantisch nennen. Und dann erzählt Mimir noch Geschichte, wer weiß wie lange wir noch durch die Gegend fahren, daher ist die Geschwindigkeit mit der wir heute vorwärts kommen nicht so groß wie sie vielleicht sein könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 8, Aufnahme vom 09.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #52
+
+* Titel: `GoW Ragnarök - #52 - Astrids Garten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich ist der Garten den wir heute besuchen und von der Unreinheit Asgards befreien ein wenig anders bezeichnet. Offiziell heißt das Ding auch noch mal ganz anders aber anscheinend war die letzte Gärtnerin eine Person namens Astrid. Das alles ist ein wenig kurios für mich, Freya hat anscheinend Odin geheiratet, dann gab es eine Periode des Friedens und es gab genügend Zeit um Baldur groß zu ziehen oder zumindest auf ein gewisses Alter zu bringen. Irgendwann zwischendurch wurde dann Vanaheim überfallen und die Leute die dort einst lebten sind jetzt größtenteils tot oder der alten Magie verfallen. Wie viel Zeit in Jahreszeiten jetzt aber wirklich vergangen ist ist ein großes Fragezeichen. Zwerge und Götter können anscheinend ziemlich alt werden und auch die Riesen erscheinen doch zeitlos. Freya meint das sie Astrid kenne, also wie lange genau war sie weg? Oder gab es zwischenzeitlich noch Höflichkeitsbesuche in der alten Heimat? Wenn man früher seine Tochter in ein anderes Königreich weg verheiratet hat sah man diese in der Regel nicht mehr so oft wieder bzw. die ihre Heimat nicht mehr. Aber Götter sollten das Transportproblem doch gelöst haben oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 8, Aufnahme vom 09.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #53
+
+* Titel: `GoW Ragnarök - #53 - Klippenruinen  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist erstaunlich wie alles was Asgard tut auf Zerstörung hinausläuft. Als ultra mobile Armee sind die Einherjer natürlich nicht darauf angewiesen Stellungen zu halten oder irgendwelche Versorgungslinien her zu stellen. Das führt zu der seltsamen Situation das man eigentlich nur eine relativ kleine Truppe braucht um sicher zu stellen das die vernichtete Bevölkerung nicht versucht wieder auf zu begehren und wenn doch was passiert hat man die Verstärkung schnell an der Hand. Dadurch gibt es aber auch keine Infrastruktur wie man es bei einer normalen Besetzung erwarten würde. Wäre es so würden wir viel mehr intakte Einrichtungen sehen, Verwaltungsgebäude und Verladeplätze die für Logistik so wichtig sind. Stattdessen finden wir überall Ruinen, heute zum Beispiel welche an einer Klippe. Aber der Begriff beschreibt kaum einen einzigartigen Ort.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 8, Aufnahme vom 09.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #54
+
+* Titel: `GoW Ragnarök - #54 - Fall der Göttin  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das der Titel in Präsenz geschrieben ist liegt nur daran das die entsprechende Mission so heißt, die eigentliche Göttin um die es hier geht ist schon vor langer Zeit gefallen. Gelegentlich erwähne ich ja das ich es ein wenig bedauerlich finde, aus der Sicht der heutigen Zeit, das viele der nordischen Geschichten nicht wirklich Heldinnen haben. Selbst die Göttinnen sind meistens kaum mehr als Opfer für Lokis Späße oder Faustpfände bei irgendwelchen Wetten die Odin und seine Gang veranstalten. Ich las das dies eventuell mehr Schuld der christlichen Missionare sein könnte die eine bestimmte Philosophie verfolgt haben, aber genauso gut könnte es auch sein das es auch von Anfang an nicht besonders viele Geschichten mit mutigen Mädchen gab und auch keine Gebrüder Grimm herumliefen um diese Geschichten aufzuschreiben. Das ist echt ein großes Problem mit oralen Geschichten, sie sind schnell vergessen. Geschichten sind mächtig, was wenn wir wirklich Sagen und Legenden von mächtigen Kriegerinnen gehabt hätten, von schlauen, unabhängigen Frauen die sich gegen Männer durch gesetzt haben. Wäre es dann so einfach eine Rolle als Hausfrau und Mutter zu verkaufen. Historisch ist davon auszugehen das es immer ein paar Frauen gab die, auch dank genetischer Veranlagung,waren, das Schwert aufnahmen oder andere weniger traditionelle Rollen übernahmen. Ich würde aber argumentieren das eine weniger hochentwickelte Zivilisation die viel Wert auf körperliche Arbeit legt und einen geringen Automatisierungsgrade aufweist eher weniger viel Potenzial für solche Tätigkeiten der Frauen aufweist. Ich könnte mich täuschen. Worauf ich hinaus will ist aber das Freya noch am ehesten als Rollenmodell dienen könnte, im Spiel ist sie, soweit ich die Ursprungssagen gelesen habe, aber ein wenig wichtiger gemacht worden. Und doch, wenn man eine solche Göttin als Bewohner Vanaheims anbetet und dann ist sie auf einmal weg, könnte man schon ein wenig sauer sein oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 8, Aufnahme vom 09.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
 ##### #Nummer

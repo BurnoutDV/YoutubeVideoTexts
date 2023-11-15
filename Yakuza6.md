@@ -575,6 +575,92 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
 
+##### #38
+
+* Titel: `Yakuza 6 - #38 - Geschäftsessen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren eben noch damit beschäftigt irgendwelchen Leuten auf die Futterluke zu hauen und im nächsten sind wir damit beschäftigt selber Dinge zu essen. Und tatsächlich keine Fäuste. Mir scheint das wir den Punkt erreicht haben an dem Kazuma Kiryu aus Situationen nur mit seiner Reputation allein heraus und rein kommen könnte. Ärgerlicherweise sieht es aber so aus das das alles eigentlich nicht wirklich mit in Kiryus Lebensplan passt und er eigentlich auch ziemlich hineingezogen wurde. Schließlich retten wir Schulfreundin eines Typen der uns neulich noch in einer Bar verprügeln wollte und dann später beschloss das wir sein Bruder sind. Alles recht verwirrend und von Kiryus Seite her ist eigentlich gar nicht so viel passiert. Wie jetzt so ein Essen ausgeht war eigentlich ziemlich klar. Ich wäre auch selbst ziemlich überrascht gewesen wenn sich der gute Kazuma am Ende dafür entschieden hätte bei irgendwelchen Machtspielen mit zu machen. Für solche Späße ist er doch eigentlich schon viel zu alt. Insbesondere wenn man bedenkt das er sich ja extra noch einmal drei Jahre in den Knast gesetzt hat weil er genau diese Vergangenheitsspuren vermeiden wollte. Das war im Nachgang natürlich auch nicht die beste Idee. Aber das ist halt wo einem die Ehre hin führt. Ein wenig Pragmatismus wäre vielleicht doch gut gewesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 6, Aufnahme vom 06.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #39
+
+* Titel: `Yakuza 6 - #39 - Kapitel 6 - Spuren im Sand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der ursprüngliche Titel dieser Episode war „Kapitel 6 – Fußstapfen“ mit dem Doppelminus ist das zum Glück überhaupt nicht verwirrend. Ich habe mich dann aber doch dagegen entschieden „Footprints“ als Fußstapfen oder einfach nur Fußspuren zu übersetzen. Ich kenne aktuell leider den Kontext gar nicht aber ich habe mich für die leicht künstlerischere Variante „Spuren im Sand“ entschieden weil es etwas ausdrückt was vergangen ist aber noch nicht so lange. Wir verfolgen Harukas Spuren, den Abdruck den sie in der Welt hinterlassen hat. Bei Spuren im Sand denke ich an etwas das ein wenig vergänglicher ist als die Spuren in festeren Oberflächen die man vielleicht noch Jahre später findet. Eigentlich auch kurios wie Spuren in Staub manchmal länger erhalten bleiben als im Sand, weil Staub da liegt so selten Dinge geschehen. Und Haruka hat einen Eindruck hinterlassen, er wird wahrscheinlich nicht ewig halten und irgendwann wird ihre Berührung von dem Ort verschwinden an dem sie war, aber für den Moment sehen wir noch die Nachbeben ihres Tuns. Und das ist doch irgendwie auch schön. Oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 6, Aufnahme vom 06.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #40
+
+* Titel: `Yakuza 6 - #40 - die Rückkehr des Taschen-Kreis-Kriegers [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eines Tages wird mir bestimmt eine gute Übersetzung für „Pocket Circuit Fighter“ einfallen, aber dieser Tag ist offensichtlich nicht heute. An sich sind das ja Matchbox Autos oder wie auch immer der jeweilige Markenname heißt. Und bestimmt gibt es irgendwo auch einen Generica Begriff da für. Ich selbst habe die Dinger nur als altes Spielzeug das bereits aus der Mode gefallen ist wahrgenommen. Bei mir hat das Zeug auch nicht mehr so gut funktioniert hat dafür aber eine Menge Batterien verschlungen. Und eventuell fehlte mir damals in dem Alter auch einfach das Feingefühl mit diesen kleinen Autos umzugehen. Aber darum geht es heute auch gar nicht. Heute geht es um einen Vater der es irgendwie geschafft hat sich von seinem eigenen Sohn zu entfremden obwohl man unter einem Dach wohnt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 6, Aufnahme vom 06.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #41
+
+* Titel: `Yakuza 6 - #41 - Der Fluch von Onomichi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Quest kann nicht in diesem Zustand des Spieles beendet werden. Anscheinend kehren wir später zurück und dann wäre das möglich, aber für den Moment ist da nichts zu machen. Nur für den Fall das du das hier googelst und aus irgendwelchen Gründen wirklich als Erstes in die Beschreibung guckst.
+  Zur Sache: Die Yakuza Spiele haben einen seltsamen Grad zwischen übernatürlichen Ereignissen und Trickbetrügern die uns dann nur wieder glauben lassen wollen das irgendwelchen Dinge wirklich passieren. Bei den Geistern die wir heute treffen müssen wir wohl davon ausgehen das es sie wirklich gibt und nicht im Busch mehre Leute mit Betäubungspfeilen stehen und ein ganzes Team aus Ninjas das dafür sorgt das keine Zeugen auftauchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 6, Aufnahme vom 06.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #42
+
+* Titel: `Yakuza 6 - #42 - alte Freunde in Kamurocho [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was ist schlimmer, an einen neuen Ort zu kommen und niemanden zu kennen oder an einen bekannten Ort zurückzukehren und fest zu stellen das alle Leute die man einst kannte nicht mehr da sind. Die Antwort ist wahrscheinlich die Nummer 2, zumindest für Leute wie mich die enorm nostalgisch sind. Wenn ich zu viel Zeit an einen Ort verbringe denke ich ziemlich oft daran zurück wie ich damals mit jemanden Dinge erlebt habe oder welche Ereignisse sich abgespielt haben. Wenn man sich das Ganze ein wenig aus der Entfernung anschaut ist es eigentlich nicht viel Zeit die irgendwie passiert ist, zumindest strukturell hat sich in meiner Betrachtung wenig verändert. Keine Wälder die plötzlich da sind wo Felder waren, oder Gebäude auf den Wiesen meiner Jugend. Größtenteils ist es dafür einfach nicht lange genug her. Aber in einer Stadt wie Tokio reichen schon wenige Jahre um einfach alles zu verändern. Die Stadt ist in stetigen Wandeln, was gestern war könnte heute schon vergessen sein oder morgen eine Legende.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 6, Aufnahme vom 06.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

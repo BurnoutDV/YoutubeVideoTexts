@@ -10684,6 +10684,91 @@
   Aufnahme vom 10.11.2023 - #1897 - ##76
   ```
 
+##### #1898
+
+* Titel: `Let's Play ESO #1898 ##77 - die morbide Beobachterin [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 77 des Nekrom DLC - Sitzung 11
+  
+  Wahrlich nur ein Beobachter zu sein muss ein ziemlich harter Job sein. Wenn man einen normalen Menschen nimmt interessiert sie sich irgendwann für das Leben ihrer beobachteten Objekte, selbst Wissenschaftler die ihre Versuchstiere anschauen entwickeln zumindest ein oberflächliches Interesse am Leben ihrer Subjekte. Mit genügend Professionalismus beeinträchtigt das natürlich nicht die Arbeit. Dennoch kann es hart sein nicht einzugreifen. Schwerer wird es wenn man nicht eingreifen kann und man sich das Scheitern von Leuten anschauen muss. Ich stelle mir manchmal vor wie es wäre wenn der Geist eines verstorbenen Verwandten mein Leben beobachten würde. Die Dinge die ich tue, wie ich täglich meine Zeit verschwende diese Beschreibungen zu schreiben oder anderen sinnlosen Tätigkeiten nach gehe. Ich frage mich allerdings ob es nicht vielleicht sogar noch schwerer wäre zu beobachten und dann entscheiden zu müssen ob man eingreift oder ob es noch nicht notwendig ist. Ein stiller Beobachter der sicherstellen soll das Dinge richtig geschehen und nur manchmal ein Korrektiv ist. Wann gibt man die passive Rolle auf und greift ein. Eine Frage der Balance, eine schwierige wie ich finde.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 08.11.2023 - #1898 - ##77
+  ```
+
+##### #1899
+
+* Titel: `Let's Play ESO #1899 ##78 - Klafterbrandung [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 78 des Nekrom DLC - Sitzung 12
+  
+  Es ist ein wenig seltsam für eine Quest einen Ort zu bereisen den man eigentlich schon zu einem früheren Zeitpunkt bereist hat weil irgendwelche anderen Nebenquests sich halt gedacht hatten das es sich um einen schönen Ort handelt an dem man eine Mission mal vorbeiführen lassen kann. Tatsächlich ist die Klafterbrandung aber wirklich mein Lieblingsort von den Instanzen in Apokrypha, nicht das es wirklich eine Instanz ist aber ihr wisst was ich meine. Es liegt aber auch eventuell daran das es sich nicht um einen abgeschlossenen Keller wie bei all den anderen Orten handelt die wir noch so besucht haben. Hier wird die ganze Tentakelgeschichte vom morschen Hermes noch einmal richtig aufgearbeitet. Morian Zenas mag ihn vielleicht so nennen, und ich jetzt auch, aber für die ehrfürchtigen Seefahrer kennt man ihn als Herm’us Mora. Auch phonetisch ein wenig das Gleiche. Wie wohl der Erstkontakt aussah? Hat sich der große Fürst persönlich vorgestellt und der Klang des Namens hat sich dann durch die Zeitalter gezogen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 12.11.2023 - #1899 - ##78
+  ```
+
+##### #1900
+
+* Titel: `Let's Play ESO #1900 ##79 - Wogen des Schicksals [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 79 des Nekrom DLC - Sitzung 12
+  
+  Ein Konzept das in dieser Episode auftaucht das ich durchaus noch ein weiteres Mal beleuchtenswert finde ist wie oft es scheinbar möglich ist die Seelen von Schutzbefohlenen zu verkaufen. Da wären selbstverständlich Eltern die ihre Kinder irgendwie an einen Pakt binden, manchmal sogar noch vor der ersten Geburt, oder militärische Anführer die ihre Armee irgendwie untervermieten bzw. Kapitäne die irgendwie ihre Crew mit in einen Pakt binden können ohne das diese nur gefragt werden. Oder noch besser, ein Herrscher wie ein König oder Kaiser der die Bevölkerung einfach per Dekret an Daedra x oder y binden kann. Niemand hat den gewählt, und was ist aus dem guten alten „ich arbeite hier nur“ geworden. Die meisten Seeleute werden wahrscheinlich zu ihrem Kapitän kein besonders tiefes Vertrauensverhältnis führen. Ob man dagegen Regress anmelden kann? Zumindest die klassischen Dämonen sind an Gesetze und deren genauen Wortlaut gebunden, nicht umsonst verbindet man Anwälte mit dem Teufel. Wenn man also hinreichend argumentieren kann das man zwar auf dem Boot eines Kapitäns war aber das eine gegenseitige Beziehung war und kein Abhängigkeitsverhältnis, kommt man dann aus der ganzen Geschichte wieder raus?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 12.11.2023 - #1900 - ##79
+  ```
+
+##### #1901
+
+* Titel: `Let's Play ESO #1901 ##80 - die Korporathek [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 80 des Nekrom DLC - Sitzung 12
+  
+  Aus privater Erfahrung weiß ich das irgendetwas mit der Endung „-thek“ meistens in irgendwelchen Bibliotheken zu finden ist. Da ich kein Latein gelernt habe noch nicht willens bin jetzt mal eben nach zu schauen weiß ich leider auch nicht was es heißt. Aber das ist ja alles gar kein Problem. Wir machen einfach weiter. Der zweite Bestandteil der „Korporathek“ sieht ein wenig aus wie „korporal“, also etwas das einen physischen Körper hat. So wie man korporale Geister anfassen könnte bzw. sie einen, was meistens der wichtigere Teil ist. Wenn etwas inkorporal ist dann kann man es nicht berühren, interessant ist auch das mein Schreibprogramm nicht einmal wahrhaben will das korporal ein Wort ist. Das alles wissend hätte ich trotzdem nicht gedacht das man in einer Korporathek Körper aufbewahrt. Man hätte es sich vielleicht denken können wenn man mehr Ahnung von Sprachen hat, aber da bin ich ja offensichtlich die falsche Adresse.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.11.2023 - #1901 - ##80
+  ```
+
+##### #1902
+
+* Titel: `Let's Play ESO #1902 ##81 - Gedankenverloren [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 81 des Nekrom DLC - Sitzung 12
+  
+  Meine Theorie das der morsche Hermes eigentlich gar keine echten Talente besitzt die irgendetwas mit Wissen oder Zukunftssicht zu tun hat verstärkt sich immer mehr. Der Teil mit den Tentakeln und Herr des Meeres ist ebenfalls nur Branding soweit ich das sehen kann. Prinzipiell könnte man bestimmt jeden Daedra auf hoher See anbeten und entsprechende Pakte vollziehen, aber Hermes würde das vielleicht nicht gut finden. Möglich wäre es definitiv. Der Morsche ist also so wie alle anderen daedrische Prinzen, nicht mächtiger aber auch nicht weniger mächtig. Allerdings verfügt er in seiner Domäne über einige Fähigkeiten die man kreativ nutzen kann, wie das Informationen quasi ohne Reibung fließen. Wenn man jetzt ein paar Quellen von Informationen auf macht, dann könnte man dies benutzen um einen Nimbus der Allwissenheit zu erzeugen. Was die Träumer angeht bin ich mir nicht ganz sicher ob er damit irgendwelche Regeln umgeht, es fühlt sich aber definitiv so an.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.11.2023 - #1902 - ##81
+  ```
+
 ##### #Nummer
 
 * Titel: ``

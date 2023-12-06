@@ -5,11 +5,11 @@
 ##### # Copy & Pasta
 
 ```
-Yakuza 6 - #7 - Zufallsfunde [Let's Play; ger; Blind]
+Yakuza 6 - #62 - das wichtige Kind [Let's Play; ger; Blind]
 
 Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
 Yakuza 6 auf dem Montags, 18 Uhr Slot.
-Sitzung 1, Aufnahme vom 04.10.2023
+Sitzung 9, Aufnahme vom 27.11.2023
 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
 ```
 
@@ -651,14 +651,319 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
 
-##### #Nummer
+##### #43
 
-* Titel: ``
+* Titel: `Yakuza 6 - #43 - Club Stardust [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Der Stardust Club stellt eine einen besonderen Ort in Kiryus Leben da. Im ersten Teil sehen wir, bevor alles oder irgendetwas passiert einen jungen Mann vor dem Ort stehen der dann irgendwann der Club sein wird der darüber spricht etwas wirklich Neues zu probieren. Dann 10 Jahre später sehen wir das Ergebnis der Mühen dieser Person, oder zumindest muss ich davon ausgehen das es die gleiche Person ist. Etwas an einem Ort aufzubauen ist eine Tätigkeit die nicht jedem liegt, oder auch nicht jedem gegeben ist. Ein Lokal zu errichten braucht Zeit und Geduld, den Willen sesshaft zu werden und die Bereitschaft Mobilität auf zu geben. Wenn man von einem sicheren Hafen spricht zu dem man immer zurück kommen kann, dann muss auch klar sein das hinter dem Tresen jemand ist der dafür sorgt das dieser Hafen auch Schiffe annimmt. Natürlich könnte es auch einen Hafen mit wechselnden Personal geben, aber oft spricht man von der gleichen Person. Nancys Hafentaverne, die zerschlagende Trommel oder Herthas Bierstube. Man weiß was einen dort erwartet. Und so war es einst auch beim Stardust.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 7, Aufnahme vom 13.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #44
+
+* Titel: `Yakuza 6 - #44 - der Verkörperung des Sportsgeists [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Einen Gegner zu haben der wirklich und wahrhaftig in der Lage ist zu verlieren ohne wirklich alle Mittel auszuschöpfen bzw. sich an vorherige Absprachen hält ist selten. Es bedeutet eine Niederlage mit allen Konsequenzen zu akzeptieren. Es ist natürlich leicht zu sagen das man beim Romee verloren hat, aber wenn wirklich Dinge auf dem Spiel stehen sieht das Alles ein wenig anders aus. Abfallen von der Weltrangliste, verlorene Sponsorenverträge oder Ansehen das verloren geht. Die Möglichkeiten hier sind manigfaltig. Und das ist nur der Sport, im echten Leben gibt es Situationen die man einfach nicht verlieren kann. Und dann dennoch zu sagen das der Andere gewann und man bei seinem Wort bleibt braucht echte Stärke. Und wahrscheinlich einen soliden Plan B. Ich bin mir allerdings unsicher ob man es noch als Sportsgeist benennen kann wenn die Niederlage bereits mit einfaktoriert ist. Von noch weiter weg betrachtet, gibt man wirklich Alles wenn man schon damit rechnet das eine Niederlage eine der möglichen Konsequenzen des eingeschlagenen Kurses ist? Hier kommt es dann wohl auf das Individuum an und wie diese Person ihr Leben angeht. Ich persönlich würde argumentieren das nicht für Misslingen der eigenen Pläne zumindest skizzenhaft vor raus zu sorgen leichtsinnig ist. Natürlich gibt es hier Opportunitätskosten, das Planen und Vorbereiten eines Fallbacks kostet Zeit und vielleicht sogar Ressourcen die den Hauptplan nützen könnten. Und das ist wohl der Punkt bei der man eine Risikoabschätzung leisten muss..und wissen sollte wie viel man wirklich selber leisten kann. Selbstüberschätzung ist ein langsamer aber tödlicher Mörder.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 7, Aufnahme vom 13.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #45
+
+* Titel: `Yakuza 6 - #45 - alles für die Klicks [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin zu alt um das Internet zu verstehen, und dabei sehe ich mich eigentlich als noch ziemlich jung an. Das Hinterjagen nach Clicks und unbedingter Aufmerksamkeit hat für mich rein konzeptionell nie so richtig geklickt. Und das schreibe ich in der Beschreibung des 45ten Videos meines 200sten Let’s Play oder so. Um ehrlich zu sein weiß ich nie was ich getan hätte wenn ich richtig groß raus mit einfachen Gameplay gekommen wäre. Immerhin wäre ich in einer Nische, ich stelle mir das ein wenig wie beim Sex vor, wenn es funktioniert macht man einfach mit dem weiter was man grade tut und das sollte dann schon klappen. Natürlich nicht dauerhaft, wenn wir die Metapher weiterführen wollen ist es natürlich schon wichtig gelegentlich die Stellung zu wechseln und innovativ zu sein. Selbstreflektierend muss ich hier anmerken das ich ziemlich in dieser Mission faile. Ich mache immer noch das Gleiche das 2010 erfolgreich war, etwas verfeinert aber nicht weiterentwickelt. Aber das ist Youtube, der Weg zur Monetarisierung ist klar, entweder Werbung auf massige Videos oder man verfeinert Videos und bittet über andere Outlets zusätzliche Service für zahlende Kunden an. Je nach Tief sogar in verschiedenen Abstufungen. Das Live Angebot sollte man natürlich nicht unterschätzen und sicherlich sind Spenden auch ein Weg die Miete zu zahlen. Aber was wenn man auf Social Media berühmt wird? Offensichtlich macht man Werbung die man mit den Worten „hey Leute, ich hab euch noch gar nicht X von Y gezeigt“, aber dafür bräuchte man erst Follower die einer Person folgen und nicht nur einen Typ Videos. Letztendlich will man wohl einen Personenkult aufbauen..aber auch nicht zu creepy sonst folgen die einen Heim. Letztendlich verstehe ich es nur sehr synthetisch aber nicht so das es mich motivieren würde in der Richtung zu investieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 7, Aufnahme vom 13.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #46
+
+* Titel: `Yakuza 6 - #46 - Sackgasse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen zurück zur Hauptquest. Oder willkommen am Ende. Die heutige Episode heißt auf jeden Fall nicht Sackgasse weil wir enorm weiter kommen und alle Fragen die wir noch hatten beantwortet worden sind. Stattdessen sind wir wieder einmal direkt Verdächtiger in einem Mordfall. Ich bin übrigens sehr überrascht das wir noch nicht den Charakter gewechselt haben. Ich habe mich selbstverständlich nicht vorher informiert, aber aktuell sieht es sehr so aus als würden wir wirklich nur Kiryu spielen was eine ganz neue Entwicklung wäre. Wenn ich mir allerdings anschaue wie lange sich der Vorgänger gezogen hat finde ich das vielleicht gar nicht so schlecht. Übrigens ein zweischneidiges Schwert, klar sind lange Geschichten ja ganz schön, und das Medium eines Computerspieles ermöglicht es sehr gut variable Länge zu bieten, trotzdem ist irgendwann meine Geduld am Ende. Yakuza 5 hat definitiv zu lange gedauert zu zu viele Story-Stränge aufgebaut die dann ultimativ relativ sinnlos waren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 7, Aufnahme vom 13.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #47
+
+* Titel: `Yakuza 6 - #47 - Gefallen für einen alten Freund [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich schreibe diese Beschreibung ein wenig später aber das Timing könnte nicht besser sein. Vor wenigen Minuten erst erhielt ich eine SMS die von meinem Lieblingssohn kam, er bat mich dringend auf der Nummer von der er mir die SMS geschrieben hat doch auf Whatsapp zu schreiben. Er hat ein neues Handy. Ich bin mir ziemlich sicher das der kleine Racker schon wieder sein Portmoneai verloren hat, und ganz bestimmt ist er am Ende der Welt und braucht ganz schnell Geld für einen medizinischen Notfall irgendwo in Fernostasien. Wie er dort einen neue, deutsche Nummer erhalten hat bleibt später zu klären. Klarer Fall, er braucht das Geld dringend. Wenn ich jetzt noch einen Sohn hätte wäre das übrigens noch wenigstens ein bisschen interessant. Ich erwähne am Ende dieser Episode die Möglichkeit mit engen Bekannten vorher Codes abzusprechen, paranoid aber vielleicht eines Tages wichtig. Was ich vergessen habe zur Sprache zu bringen ist das man ja nicht nur Codephrasen für Entführungsszenarien sondern auch für diese Fälle, das könnte ja wirklich mal eintreffen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 7, Aufnahme vom 13.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #48
+
+* Titel: `Yakuza 6 - #48 - Schau was der Drachen angeschleppt hat [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Normalerweise ist es der Hund oder die Katze die irgendwelche Dinge nach Hause bringen, nur für den Fall das es absolut nicht klar war auf was ich mich heute und hier beziehe. Da wir aber nach irgendwelchen Katzen suchen hat sich der Schreiber des Episodentitels ein wenig kreativ entfaltet. Und das war nicht ich, ich habe das nur übersetzt. In Rahmen meiner Möglichkeiten. Ansonsten schreibe ich hier nichts mehr, alles was mir zu Katzen Cafés sagen kann sage ich in der Episode selbst. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 7, Aufnahme vom 13.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #49
+
+* Titel: `Yakuza 6 - #49 - erste Drohung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal denke ich darüber nach wie ich als Verbrecher auf der Welt agieren würde. Man kennt das, man sieht einen Film wie die Bösen einen dummen Fehler nach den Anderen machen. Eine Mini-Serie die mir spontan einfällt wäre Haus des Geldes in der der quasi Hauptprotagonist eigentlich alles wichtig gemacht hat und sehr an die ganzen Details gedacht hatte und die Polizei dennoch quasi alle Lücken findet. In dieser Situation hätte ich kaum Vorschläge, die meisten Fehler waren am Ende mehr menschlicher Natur als alles Andere. Aber ein häufiger, sich wiederholender Fehler in der internationalen Verbrechernatur scheint es zu sein das man mit der Gegenseite redet. Kommunikation ist auch menschlich, aber wenn man ganz strikt vorgeht, dann wüsste die Gegenseite nie das man überhaupt existiert. Kein Spott am Ende, nur stummer Professionalismus. Ein wenig anders sieht das natürlich aus wenn man mit den Leuten arbeiten will, dann muss man kommunizieren. Kiryu trifft heute einen solchen Fall, die Täter sind allerdings nicht direkt vom professionellen Niveau eines Professors. Welch Glück aber auch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 8, Aufnahme vom 20.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #50
+
+* Titel: `Yakuza 6 - #50 - Sojis große Mission [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Soji ist ein Roboter den ein Typ von seiner Freundin geschenkt bekommen hat. Um das gleich mal aufzulösen. Das ist nicht das Interessante an dieser Mission. Erwähnenswert ist das es sich schon um die zweite Episode handelt in der es irgendwie darum geht das eine Art von künstlicher Intelligenz ihre normalen Parameter verlassen hat und wesentlich mehr leistet als sie eigentlich leisten sollte. In diesem Fall handelt es sich aber nicht einmal um eine künstliche Intelligenz sondern um einen kleinen Saugroboter. Aus Erfahrung kann ich sagen das die Dinger nicht besonders viel Rechenkraft mit sich herumschleppen. Generell scheint das aber die Prämisse vieler KI Filme und Bücher zu sein. Die Hardware ist wesentlich leistungsfähiger als die Menschen geglaubt haben. Wenn man bedenkt das das menschliche Gehirn mit 2,5 Watt klar kommt und der Laptop auf dem ich das hier schreibe das doppelte braucht scheint mir diese Annahme gar nicht so weit her geholt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 8, Aufnahme vom 20.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #51
+
+* Titel: `Yakuza 6 - #51 - Folge der Drohne! [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Letztes Mal hatten wir Soji den fahrend Roboter, heute haben wir es mit einer fliegenden Drohe zu tun. Ein weiterer Anfall von künstlicher Intelligenz? Bei Saugrobotern ist es eher ein Kosten/Nutzending das die Teile nicht so leistungsfähig sind. In der Regel braucht man nicht soviel Rechenkraft, aber an sich wäre das Gewicht für Batterien da, aber da wo Batterien sind könnte auch Platz für Dreck sein. Bei Drohnen, wie bei allen Dingen die fliegen, ist jeder Kram wichtig. Man kann hier also nicht so einfach ein wenig mehr Rechenzyklen verbauen als man eigentlich braucht. Diese logischen Überlegungen haben einen Geschichtenschreiber natürlich noch nie davon abgehalten alles ein wenig aufzuhübschen, aber vielleicht gibt es heute ja eine andere Lösung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 8, Aufnahme vom 20.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #52
+
+* Titel: `Yakuza 6 - #52 - eine explosive Angelegenheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neulich haben wir uns um irgendwelche explodierenden Mülltonnen gekümmert. Daher wäre es naheliegend das wir uns dann heute mit dem gleichen Sachverhalt bzw. dessen Fortsetzung auseinander setzen. Aber nein, weit gefehlt! Stattdessen geht es um die Troublr Dinger die uns seit einiger Zeit verfolgen und heute platzt hier richtig die Bombe. Oder halt auch irgendwie nicht. Es wäre fast schon verlockend gewesen es einfach mal darauf ankommen zu lassen und zu schauen was wirklich passiert wenn wir einfach abwarten. Das Kiryu das Problem selber lösen will anstatt die Behörden einzuschalten ist aber auch wieder sehr typisch. Letztendlich scheitert es aber fast daran das ich nicht weiß wie man auf die Dächer kommt. Den Ort habe ich quasi sofort gesehen, auch wenn ich wahrscheinlich die falsche Sache vor Augen hatte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 8, Aufnahme vom 20.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #53
+
+* Titel: `Yakuza 6 - #53 - der Kabedon König [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Rein inhaltlich beschäftigen wir uns heute mit starken Toback. Sogar an mehren Fronten wenn ich so darüber nachdenke. Ganz am Anfang haben wir das nicht zu vernachlässigende Problem das es wirklich Leute gibt die in ihrem Idol oder Lieblingsstar soviel sehen das sie bereit wären Gewalttaten in dessen Namen zu verüben. Das ist nicht ideal und ich könnte mir einige bessere Verwendungen der Zeit vorstellen. Und dann haben wir da noch den Grund warum diese Fans sauer waren. Der sogenannte Kabedon Prinz scheint einen ganz bestimmten Move sehr gut gelernt zu haben, und das ist irgendwie kritisch. Die Fähigkeit Leute zu lesen ist eine ziemlich seltene Sache, ich kann es ganz sicher nicht, daher neigen Menschen dazu zu vereinfachen und generelle, einfach zu folgende Regeln zu erdenken. Zum Beispiel das Frauen nur Desinteresse spielen und erobert werden wollen. Das führt zu üblen Situationen, oder sogar tatsächlich zum Erfolg weil man jungen Mädchen beibringt das man immer höflich und nett sein soll. Keine leichte Episode das heute. Wahrlich nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 8, Aufnahme vom 20.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #54
+
+* Titel: `Yakuza 6 - #54 - explosive Bedrohung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute spielen wir eigentlich ganz viel Dart, zum Glück eines der leichteren Minispiele. Aber nebenher laufen wir auch noch irgendwelchen verdeckten Sprengsätzen hinterher. Es ist mir immer noch ein Rätsel warum das unter der Pflicht und Tun eines ehemaligen Yakuza fällt. Insbesondere wenn dem sein vorher genanntes Missionsstatement zu sein scheint das er eigentlich nichts tun will das nicht direkt mit Haruka zu tun hat. Was genau tut Kiryu also eigentlich hier? Dart spielen..das ist wohl die Antwort.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 8, Aufnahme vom 20.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #55
+
+* Titel: `Yakuza 6 - #55 - taktische Besprechung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So gut wie nichts ist schlimmer als das Unbekannte. Wenn absolut nicht klar ist was sein wird oder sein könnte und man irgendwie darauf angewiesen ist alles auf sich zu kommen zu lassen. Viel besser ist es doch wenn man zumindest einen wagen Plan hat, oder zumindest eine Ahnung. Dann kann man sich etwas ausdenken, Eventualitäten planen und den Geist mit dem beschäftigen was da kommen mag. Kiryu weiß wenig von dem was sein wird aber hat zumindest ein paar Vermutungen ob der Dinge die auf ihn zu kommen, und eigentlich noch wichtiger, er hat eine ziemlich genaue Vorstellung wie seine Gegenspieler funktionieren. Es wird also Zeit für eine kleine Plannungsrunde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 8, Aufnahme vom 20.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #56
+
+* Titel: `Yakuza 6 - #56 - neugeborene Rivalität [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sich sicher ist das man einen Gegner besiegt hat sollte man ebenfalls sicherstellen das es keine Kinder gibt. Oder andere nahe Verwandte die sich eventuell versucht fühlen in ein paar Jahren bittere Rache zu schwören. Wie genau man das Problem angeht ist ein wenig offen, es gibt da durchaus Varianten die nicht auf ein großflächiges Ableben aller Beteiligten hinausläuft, aber von Außen betrachtet scheint das die wesentlich einfachere Methode zu sein. Das Andere ist wohl eher was für Puristen und Leute die das Leben auf Ironman genießen. Kiryu hat vor vielen Monden die Schlangen Blumen Triade zu Fall gebracht. Das tat er nicht unbedingt absichtlich aber letztendlich ist es das trotzdem was geschah. Und das ohne selbst jemanden zu töten, diese kritischen Bewegungen haben natürlich Andere übernommen. Das hindert allerdings niemanden daran ihm die Schuld dafür zu geben, und das bringt uns ins Hier und Jetzt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 9, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #57
+
+* Titel: `Yakuza 6 - #57 - Gespräch im 6ten Stock [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Von einer kompetenten Gegenpartei verfolgt zu werden kann ziemlich hart sein. An sich weiß man nie wann man beobachtet wird und wann nicht. Niedere Gegner würden schon frühzeitig und quasi beim Erstkontakt anfangen Horden an Schlägern auf das Problem zu werden. Wenn man also einen Moment in Frieden hat kann man sich auch sicher das die Gegenseite aktuell im Unklaren ist. Bei einem guten Gegner hat man diesen Luxus nicht. Es ist durchaus möglich das man schon lange im Visier ist und der Jäger nur auf der Lauer liegt, einen günstigen Moment abwartet oder noch Kräfte sammelt. Wenn er zuschlägt dann erst wenn es zu spät ist und mit solch erdrückender Macht das es kein Entrinnen mehr gibt. Unsere Gegner sind nicht ganz so mächtig und besitzen durchaus Grenzen, aber es ist auch davon auszugehen das sie ziemlich kompetent sind. Daher hat Akiyama durchaus recht wenn er ein wenig vorsichtiger ist als es vielleicht notwendig wäre. Verräter und Spione könnten überall sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 9, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #58
+
+* Titel: `Yakuza 6 - #58 - Akiyamas Schleichpfad [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kiryus Plan war es einfach zur Vordertür hinein zu stürmen und solange auf Leute einzuprügeln bis irgendjemand freiwillig eine Antwort von sich gibt. Offensichtlich mangelt es hier ein wenig an Finesse und man möchte auch meinen das er in den letzten Jahren ein wenig Expertise gesammelt hat. Aber vielleicht hat der lange währende Einfluss von Majima auch abgefärbt. Also befragen wir einen Experten für solche Dinge und machen es dann anders. Allerdings vermute ich sehr das es letztendlich auch egal ist was genau wir planen und es dann doch darauf hinausläuft das wir auch gleich Plan K wie Kiryu hätten machen können. Aber was weiß ich schon von solchen Dingen, ich wäre am Ende wirklich überrascht wenn das mit dem Schleichen echt klappen würde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 9, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #59
+
+* Titel: `Yakuza 6 - #59 - Big Ed und bigger Lo [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Yakuza 6 spielt schon relativ nahe am Hier und Jetzt. Also quasi in der Gegenwart. Wenn ich mir die Zeit in der ich selbst lebe anschaue hat sich in den letzten 30 Jahren doch so einiges getan. Technisch ging es ganz schön voran und das was früher war hat sich massiv verändert. Eine der Veränderungen die ich glaube zu sehen ist die das es nicht mehr so viele Spitznamen gibt. Oder vielleicht waren sie auch schon immer nur das Ergebnis einer anderen Kultur der ich nie angehört habe. Ich meine damit nicht so einfach Spitznamen wie ein Matthias der zum Matze wird, sondern größere Benennungen, Leute die plötzlich Big Ed oder Long Horn Johnson werden, Namen die eine bestimmte Tat beschreiben die lange in der Vergangenheit liegt aber die die Leute referenzieren. Big Ed ist vielleicht jetzt im Moment groß, aber es könnte durchaus sein das er in den nächsten Jahren an Gewicht verliert, aber die Leute würden ihn wahrscheinlich immer noch so nennen. Solche Namen brauchen eine gewisse Menge an Mundpropaganda und Zeit. Und ich glaube das die Zeiten schnelllebiger geworden sind, und in dieser Geschwindigkeit lagern sich keine komplizierten Spitznamen an. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 9, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #60
+
+* Titel: `Yakuza 6 - #60 - wichtige Treffen[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich sind alle Treffen irgendwie ein wenig wichtig, für irgendjemanden. Wenn man ein berühmter Schauspieler ist schätzt man das Treffen mit irgendwelchen Fans vielleicht so sehr im Einzelnen, aber für die andere Seite ist es ein wichtiger Tag, und das allgemeine Ansehen könnte sich als Funktion aller Treffen abbilden was das einzelne Treffen auch einer gewissen Wichtigkeit zumisst. Menschen sind nicht gut bei solchen kleinen inkrementellen Effekten, und trotzdem ist eine Begegnung ein Austausch. Eine Wechsel von Informationen der uns aus dem Gefängnis unserer eigenen Überlegungen befreit und neue Perspektiven eröffnen kann. Manchmal sind solche Begegnungen aber auch weniger angenehm, zum Beispiel wenn ein Gegenspieler auf einmal freundlich zu Tisch kommt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 9, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #61
+
+* Titel: `Yakuza 6 - #61 - Shangri-La [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen Shanri-La, es handelte sich sich einst um ein Freudenhaus mit besonderen Ansprüchen und eventuell sind wir auch ein wenig schuld daran das der Ort jetzt so aussieht wie er aussieht. Allerdings würde ich das vor Gericht niemals eingestehen und die Taten einer anderen Person so zu verantworten ist schon eine sehr gestreckte Behauptung. Immerhin wird uns die Geschichte des Ortes auch handlich zusammengefasst so das wir uns gar nicht allzu sehr daran erinner müssen.  Ein Gebäude das offiziell verlassen ist aber mitten in der Stadt steht bleibt natürlich nicht lange verlassen. Wenn es kalt und regnerisch ist während man selbst keine Aussicht auf ein Dach über den Kopf hat lässt einen schnell vergessen das eventuell die Statik eines halb zerstörten Gebäudes nicht mehr ganz intakt ist. Viel wichtiger ist dann die andere Seite der Zerstörung, die die noch nicht vollständig ist. Ob wir heute noch ein wenig mehr Zerstörung hin zu fügen können?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 9, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #62
+
+* Titel: `Yakuza 6 - #62 - das wichtige Kind [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben immer noch eine Menge Fragen, unser Treffen mit Big Lo war irgendwie weniger informativ als man initial annehmen könnte, größtenteils weil uns der Mann nur halb so viel verraten hat wie er uns hat glauben lassen das er würde. Wir stehen also immer noch ziemlich unwissend da und haben quasi mehr Fragezeichen als Ausrufungszeichen im Kopf. Sicher ist aber das Haruto doch noch ein wenig wichtiger ist als wir initial angenommen haben. Die Hauptfrage ob es sich wirklich um Harukas Kind handelt wurde übrigens noch nicht erklärt. Die Möglichkeit besteht immer noch das sie es nur als ihr eigenes legal ausgegeben hat um dem armen Ding das mögliche Schicksal als Weise zu ersparen. Ich persönlich fände es einfach schöner wenn sich Haruka noch ein paar Jahre des Lebens ohne die Bürde eines Kindes erfreuen könnte, auf der anderen Seite passt es sehr zu ihrem Charakter sich aufopferungswillig für eine andere Person einzusetzen. Und wer bin ich schon mir das Schicksal für einen Charakter herbei zu wünschen der nicht echt ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 9, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #63
+
+* Titel: `Yakuza 6 - #63 - Geister der Vergangenheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine Sache die sich durch die Yakuza Serie immer wieder durchzieht ist das die Vergangenheit die Personen und Protagonisten einholt. Von den Fällen in denen jemand in der Lage war seiner alten Vergangenheit vollständig zu entfliehen erfahren wir einfach nie. Dann gebe es ja auch nichts zu erzählen und die Geschichte wäre recht kurz. Man stelle sich vor Kiryu würde im stolzen Alter von 75 bei einer Sake erzählen das er mal ein wichtiger Yakuza war, und dann beendet er mit dem nächsten Halbsatz und sagt „aber dann bin ich ausgestiegen und habe eine Waisenheim aufgemacht“. Das wäre ein wenig anti-klimatisch und wir könnte nichts erzählen. Stattdessen erfahren wir die Geschichte einer Person die nach Tokyo gegangen ist um großen Träumen nach zu jagen und dann irgendwie in Schwierigkeiten mit dem organisierten Verbrechen geraten ist. Das nach einer Heirat und der Geburt eines Kindes auffällt das ein Partner vielleicht doch nicht der Richtige für das Leben ist scheint auch generell eine etwas ältere Geschichte zu sein. Eine Erzählung so häufig das ich vermuten würde das ihre echten Vorbilder viel zu oft auftreten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 10, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
 
 ##### #Nummer

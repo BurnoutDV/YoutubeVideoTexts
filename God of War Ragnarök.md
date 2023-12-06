@@ -5,11 +5,11 @@
 ##### # Copy & Pasta
 
 ```
-GoW Ragnarök - #13 - Leuchtturmschlüssel [Let's Play; ger; Blind]
+GoW Ragnarök - #72 - die Ruderer[Let's Play; ger; Blind]
 
 Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
 Donnerstagsslot, "Spiele" 
-Sitzung 2, Aufnahme vom 28.09.2023
+Sitzung 11, Aufnahme vom 30.11.2023
 Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
 ```
 
@@ -826,6 +826,164 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
+##### #55
+
+* Titel: `GoW Ragnarök - #55 - Freyas fehlender Frieden  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Inneren Frieden zu erreichen ist wirklich schwer. Der beste Weg diesen Zustand zu erreichen ist wohl sich von allem zu lösen und völlig im Nichts zu schweben. Das ist ohne eine größere Gemeinschaft gleichgesinnter die sich ebenfalls diesem Ziel nähern aber kaum möglich. Es gibt da Einiges an Logistik die letztendlich dazu führt das man doch in irgendeiner Weise mit der Welt interagieren muss und das bedeutet auch das man Ansatzpunkte für einen Riss in der Fassade des Friedens schafft. Natürlich muss das nicht zwingend irgendjemand ausnutzen und vielleicht hält sich der Frieden ja. Das Alles ist aber nicht Freyas Problem. Soweit ich das jetzt verstanden habe hat sie relativ viel Zeit ihres Lebens damit verbracht der Gott ihrer Leute zu sein, wo auch immer die abgeblieben sind. Und mit der ganzen Hochzeitsgeschichte ging dann alles den Bach runter, und seit dem fehlt ihr ein wenig die innere Ruhe und diese Ruhe hätte sie gerne wieder zurück. Aber wenn man einmal weit außerhalb der Balance gefallen ist kann es sehr schwer sein, mit dem Gewicht der Erfahrung und Erlebnisse im Rücken, noch einmal dort hin zurück zu finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 8, Aufnahme vom 09.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+##### #56
+
+* Titel: `GoW Ragnarök - #56 - Bewusstsein für die Toten  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Titel die man in mehren, möglichen Wegen interpretieren kann sind definitiv einer meiner Favoriten. In diesem Fall beziehen wir uns darauf das man der Toten wohl gedenken sollte. Die meisten Menschen habe, soweit ich das sehen kann, zu Lebzeiten einen gewissen Teil gehabt der man nicht weg werfen sollte. Oft ist damit auch verbunden das Personen viele Charakterzüge haben die diese Personen nicht besonders nett sein lässt, aber dann gibt es irgendwo einen Funken der dafür sorgt das ich Verständnis für diese Leute habe. Zumindest ein bisschen. Das muss nicht notwendigerweise etwas an meiner Reaktion oder Abneigung an der Person ändern. Aber doch kann man die positiven Charaktereigenschaften von jemanden durchaus hervorheben wenn diese Person nicht mehr lebt um für sich selbst zu sprechen. Prinzipiell muss man dafür auch nicht einmal sterben, manchmal trifft man sich halt nie wieder, und selbst dann kann man sich an bestimmte Charakterzüge von Jemanden erinnern. Zumindest wenn man ein großer nostalgischer Softie wie ich ist. Oder man tötet die zombifizierten, durch Seidr-Magie verfluchten Reste jener Freunde die man einst schätzte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 8, Aufnahme vom 09.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+##### #57
+
+* Titel: `GoW Ragnarök - #57 - Abreise von Vanaheim  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vanaheim scheint mir ein wenig größer zu sein als das was wir in Svartelfheim sehen konnten. Das Alles könnte aber enorm täuschen weil wir nur auf einen Hügel waren und vielleicht sind die neun Welten ja doch wesentlich breiter in der Ausdehnung als es auf den ersten Blick aussieht. Auf der anderen Seite hat auch noch niemand gesagt was geschieht wenn wir einfach anfangen würden in irgendeine Richtung zu laufen, meistens sind da ja auch Flüße, Berge oder gar Wälder die uns aufhalten würden. Und soweit ich das auch verstanden haben wartet in der nordischen Mythologie am Ende der Welt einfach nur ein Rand von dem man runter fallen kann. Stellt sich nur die Frage wie es da aussieht. Wohnen Leute bis ganz nahe am Rand oder wird es irgendwie komisch wenn man den Rand schon näher kommt. So etwas passiert manchmal, als freundliche Warnung das man nicht weiter gehen soll. Feuer verbrennen schneller, Dinge fangen an zu levitieren oder normale Physik funktioniert plötzlich sehr viel anders. Ein Klassiker sind auch rotierende Magnetfelder die Navigation wesentlich schwieriger machen. All das interessiert uns aber eigentlich nicht so wirklich. Vanaheim hat definitiv noch Fläche aber wir dürfen sie halt nicht jetzt bereisen, daher schmolle ich jetzt und gehe nach Albheim, dort gibt es anscheinend auch noch offene Rechnungen die beglichen werden wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 8, Aufnahme vom 09.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #Nummer
+
+* Titel: `GoW Ragnarök - #58 - das Alben-Heiligtum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Szenewechsel, wir sind wieder in Albheim, einem Ort an dem es immer noch einen aktiven Krieg zwischen Alben und Alben gibt. Das sich die beiden Arten massiv von einander unterscheiden scheint irgendwie niemand irgendwie erwähnenswert zu finden. Die Dunkelalben haben ziemlich offensichtliche Flügel während die Lichtalben dies nicht tun. Jene Flügel scheinen mir auch durchaus einen Vorteil im Kampf dar zu stellen also kann ich mir eigentlich gar nicht vorstellen das sich die Licthalben vielleicht aus rituellen Grünen diese entfernen lassen, zu mal sie auch ansonsten äußerlich sehr unterschiedlich ansehen, wenn die beiden in Vanaheim eine Referenz sind. Ich bin mir also nicht so ganz sicher inwiefern man wirklich noch von einem Volk sprechen kann. Der Ort den wir heute betreten ist anscheinend beiden Geschmacksrichtungen heilig. Technisch gesehen handelt es sich eigentlich auch nur um eine Bibliothek, aber es wäre nicht das erste Mal das sich irgendwelche Leute bei der Begrenzung von Wissen und dem Halten eines Herrschaftsanspruches ein wenig mehr Mühe geben also sie sollten. Aber eventuell steht ja auch darin das die Alben eigentlich wirklich zwei unterschiedliche Völker sind und der Frieden erst dann erreicht wird wenn es nur noch eines der beiden Völker gibt. Das wäre dann natürlich dem Frieden nicht so zuträglich. Insbesondere wenn man bedenkt das der einzige Grund warum Odin noch nicht eingegriffen hat wohl wahrscheinlich der ist das sich die Alben gut miteinander beschäftigen. Auf der anderen Seite haben sich auch, sobald sie einmal das Licht haben, nicht besonders ambitioniert gewirkt.Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 UhrDonnerstagsslot, "Spiele" Sitzung 9, Aufnahme vom 16.11.2023Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #59
+
+* Titel: `GoW Ragnarök - #59 - Lied der Sande [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einer Fantasie-Reihe die ich gelesen habe sind Lieder und Töne sehr wichtig. Und die Menschen die in der Welt leben sind nicht wirklich in der Lage diese Töne der Welt wahrzunehmen, aber andere Rassen sind es. Ich würde nicht so weit gehen und davon erzählen das jeder Ort sein Lied hat. Dank jahrelangen Missbrauch von viel zu lauter Musik fällt es mir schwer wahre Stille oder Abgeschiedenheit wirklich zu genießen, die Wahrscheinlichkeit ist ziemlich hoch das ich plötzlich einen nervigen Hochton im Ohr habe, etwas das an lauten Orten nicht passiert. Aber ich kann sehen bzw. Hören das manchmal ein Ort durchaus seinen eigenen Klang hat. Das Meer zum Beispiel, eine Stadt in der Nacht oder einfach nur ein Wald im Sommer. Über Wüsten möchte ich allerdings keine Aussage treffen. Ich habe noch nie eine von Nahen gesehen und kann daher absolut gar keine Meinung äußern. Aber hier, in Albheim, hört Kratos das Lied der Sande.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 9, Aufnahme vom 16.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #60
+
+* Titel: `GoW Ragnarök - #60 - Freyrs Gaben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwann wenn ich fertig mit diesem Spiel bin muss ich daran denken mir einen Zeitstrahl anzuschauen der mir erläutert wie die ganzen Ereignisse die vor der eigentlichen Handlung in dieser alternativen nordischen Geschichte zusammenhängen. Mein jetziger Stand ist das vor grauer Vorzeit die Welten von einander getrennt waren oder nicht wirklich etwas voneinander wussten bis ein Riese den Vanen beigebracht hat zu reisen. Freya und Freyr taten dies ziemlich viel und so kam es das die Alben Freyr schon früh kennen gelernt haben. Dann ist das mit dem Licht passiert und der ewige Krieg hat sich hier entfacht. Aber dadurch das Freyr quasi gemeinsame Geschichte war hat man ihn trotzdem irgendwie verehrt und deswegen finden wir auch Altäre zu seinen Ehren. Ja, ich glaube so ungefähr geht die Geschichte. Und weil das dann wohl so war „finden“ wir heute einen großen Schrein der zu Ehren des Vasen-Gottes erbaut wurde. Was auch immer eigentlich einen Gott definiert. Das haben wir leider noch nicht herausgefunden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 9, Aufnahme vom 16.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #61
+
+* Titel: `GoW Ragnarök - #61 - Frost-Phantom [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich genieße das sehr wenn mir Spiele abwechslungsreiche Gegner entgegenwerfen. Manchmal dauert es aber ziemlich lange gegen eben jene Gegner anzukommen. Heute begegnen wir einem Phantom, speziel, der Frostvariante  eines Solchen. Das ist deswegen bemerkenswert weil wir diesen großartigen Fund in der Wüste erreichen. Damit hätte ich spontan nicht gerechnet aber irgendwie passieren ja am Ende immer wieder solche Dinge. Der Kampf gegen das Wesen ist relativ anstrengend und zieht sich. Viel mehr kann ich dazu aber auch nicht sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 9, Aufnahme vom 16.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #62
+
+* Titel: `GoW Ragnarök - #62 - Schotterwanst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wenn man glaubt das man mit einem Gebiet fertig ist ergibt sich dann doch noch plötzlich etwas. Heute finden wir einen leibhaftigen Drachen, oder viel mehr, einen Lindwurm. Kratos kennt offensichtlich den Unterschied nicht und so macht sich Mimir auch nicht die Mühe diesen zu erläutern. Das Vieh namens Schotterwanst das wir heute bekämpfen hat keine Flügel und wurde scheinbar sehr lange von den Alben gefangen genommen. Natürlich ist das Tier sauer, warum wir es aber gleich töten sollen ist mir ehrlich gesagt nicht ganz klar. Drachen scheinen selten zu sein, und im Vorgänger haben wir auch alle Drachen die wir getroffen haben befreit und fliegen lassen. Nach unserem unlängsten Mord an Nidhöggr hätte ich ja gedacht das wir uns hier vielleicht ein wenig zurückhalten, aber offensichtlich habe ich mich getäuscht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 9, Aufnahme vom 16.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #63
+
+* Titel: `GoW Ragnarök - #63 - Der Ausreißer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neulich, oder von der Aufnahme dieser Episode aus gesehen, sogar in der Zukunft, habe ich darüber nachgedacht wie es wohl wäre in einem nicht ganz so netten Elternhaushalt aufzuwachsen.  Je nach Lebensphase, Alter, Erfahrung und Freundeskreis könnte es hier eine ganze Anzahl an Szenarien geben, aber häufiger als nicht würde man sich wohl in einer Situation wieder finden in der man wirklich nicht entfliehen könnte. Als Mädchen in einem streng religiösen Haushalt in einem Land das Frauen nicht viele Rechte zuspricht könnte es wortwörtlich unmöglich sein sich alleine durch zu schlagen. Und selbst wenn die rechtliche Situation aussieht, was wenn es sich um ein wirklich großes Land handelt und man irgendwo im Nirgendwo wohnt? Wie weg kommen? Womit eine solche Reise finanzieren? Eine Menge offener Fragen die Atreus alle nicht beantworten muss weil er bereits die Antworten hat. Ihm stehen quasi alle 9 Welten offen ohne das er sich dafür großartig bemühen muss. Eine Riesenfähigkeit soweit ich das sehen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 9, Aufnahme vom 16.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #64
+
+* Titel: `GoW Ragnarök - #64 - Ida-Ebene [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir uns dafür entschieden haben Odins Einladung anzunehmen hielt  dieser es natürlich nicht für selbstverständlich uns einfach direkt in sein persönliches Langhaus oder Ähnliches zu holen. Stattdessen setzen uns seine Raben irgendwo auf der Ida-Ebene ab, anscheinend der Ort der vor den Toren des eigentlichen Asgards liegt. Wir haben hier übrigens wieder die gleiche Verwirrung wie bei den Zwergen, sowohl die Welt als auch die zentrale Stadt bzw. Niederlassung trägt den gleichen Namen, das macht es nicht unbedingt einfacher die beiden Konzepte bzw. Dinge von einander zu unterscheiden. Immerhin lernen wir heute das nicht alle Menschen aus Midgard in der Kälte gestorben sind, ein paar Auserwählte wurden anscheinend von Odins Gnaden gerettet. Ich frage mich ja wirklich welche finsteren Pläne der Einäugige mit diesen Menschen hegt und ob er damit versucht irgendwie das anstehende Ragnarök bzw. Fimbulwinter zu umschiffen. Weil irgendwie fühlt es sich alles ein wenig so an als würde er versuchen die Symptome dessen zu bekämpfen das das Ende der Welt ansagt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 9, Aufnahme vom 16.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #65
+
+* Titel: `GoW Ragnarök - #65 - Ankunft in Gladsheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich noch behauptet das Asgard sowohl der Name der Welt als auch der des Ortes ist an dem die Asen leben. Anscheinend war das nicht ganz richtig oder es gibt noch mehr Namen als ich ursprünglich vermutet habe. Es stell sich doch glatt heraus das es wohl „Gladsheim“ heißt, Heimat der Einherjer, einiger Asen und geretteter Menschen. Es ist eine seltsame Mischung aus Militärlager und Dorf. Anscheinend gibt es hier wohl auch ein paar nicht ganz so göttliche Asen, aber im Großen und Ganzen ist dies wohl Heim der Götter. Interessant ist auch wie manche Sachen genannt werden. Fast so als hätte Odin von diesen Konzepten via verbotenem Wissen erfahren und versucht jetzt diese, in einer seltsamen Art von Cargo Cult, umzusetzen. Soweit kommen wir heute aber nun auch nicht, zuerst dürfen wir uns noch mit Heimdall ärgern. Der hat die ärgerliche Fähigkeit Gedanken lesen zu können was es ein wenig schwer macht einen fairen 1 gegen 1 Kampf gegen ihn zu gewinnen, auch wenn ein wenig fraglich ist inwiefern ihm das Wissen das über herannahende Pfeile ermächtigt diese tatsächlich auch zu fangen. Heimdall trägt das Gjallerhorn und hat später noch eine Rolle zu spielen, soweit ich weiß wird er aber am Ende vom Wolf verschlungen. Das ist dann wohl der Teil auf dem wir uns noch freuen dürfen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 10, Aufnahme vom 23.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -836,6 +994,57 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Hier
   ```
 
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+### Theorien
 
 > Mehrfach Erwähnung von 4 Seelenteilen lässt vermuten das das später wichtig ist. Kratos nicht vom Licht verbrannt.
 

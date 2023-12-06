@@ -10769,6 +10769,244 @@
   Aufnahme vom 13.11.2023 - #1902 - ##81
   ```
 
+##### #1903
+
+* Titel: `Let's Play ESO #1903 ##82 - der Dolchsturz-Unhold [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 82 des Nekrom DLC - Sitzung 12
+  
+  Das ursprüngliche Konzept der Korporathek habe ich so verstanden das Sterbliche ihren Körper und Geist Hermeus Mora leihen und ihnen Hermes dafür irgendetwas gibt. Ich vermute das der Morsche die Träumer wirklich sehr braucht wenn er bereit ist für einen eigentlich einfachen Service bereit ist echtes Wissen und Gefallen einzutauschen. Mir ist allerdings noch unklar inwieweit man jetzt altert während man verwahrt wird. Die eine Chiffre die hier herumsteht hat es so klingen lassen das manche Leute ihr ganzes Leben in der „Matrix“ verbringen. Auf der anderen Seite hat sich der sogenannte Dolchsturz-Unhold für 500 Jahre verpflichtet. Das klingt doch ein wenig länger als die normale Lebensspanne für Mensch oder Mer. Wenn der Körper weiter zerfällt während er träumt ist es ziemlich klar das sich hier jemand einen Fluchtplan ausgedacht hat. Wenn er es nicht tut ist er einfach nur ungeduldig. Bei 500 Jahren könnte man das aber eventuell auch ein wenig nachvollziehen. Mir war allerdings auch nicht bewusst das die Träumer direkten Einfluss auf die gesamte Mechanik haben. Ursprünglich hatte ich es eher als Übergabe einer Ressource verstanden während man quasi bewusstlos rumliegt. Das macht den Deal für Leute die ihrem Zeitalter entfliehen wollen auch wesentlich attraktiver. Vielleicht leiden wir hier aber auch unter kollidierenden Informationen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 13.11.2023 - #1903 - ##82
+  ```
+
+##### #1904
+
+* Titel: `Let's Play ESO #1904 ##83 - Gipfelpunkt des quälenden Auges [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 83 des Nekrom DLC - Sitzung 12
+  
+  Das quälende Auge ist, für diejenigen von uns die das bereits schon wieder vergessen haben und auch die Hauptquest nur noch in entfernter Erinnerung haben, das Schwarzbuch das unser bester Freund Meln der Mundlose zeitweilig ausgeliehen bekommen hat. Normalerweise wird es aber woanders aufbewahrt, und zwar hier, am Gipfelpunkt des quälenden Auges. Bisher hat es niemand erwähnt und daher gibt es keinen Grund anzunehmen das dem so ist, aber es erscheint mir nicht unwahrscheinlich das es so etwas wie Tourismus in Apokrypha gibt. Es gibt soviel Exponate und Ausstellungsstücke, da wäre es doch eine Verschwendung all das Zeug nur für den Fürsten der Geheimnisse auszustellen oder? Wahrscheinlich müssen entsprechende Agenturen ein wenig mehr betonen das die Touren die sie anbieten technisch gesehen nicht offiziell sind und die toten Daedra und Chiffren am Wegesrand nicht Teil der Ausstellung sind, aber möglich wäre es oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 15.11.2023 - #1904 - ##83
+  ```
+
+##### #1905
+
+* Titel: `Let's Play ESO #1905 ##84 - Wissenshunger [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 84 des Nekrom DLC - Sitzung 12
+  
+  Wissenshunger ist definitiv ein positiv belegtes Wort. In dem imaginären Szenario in dem Eltern mir ihre Kinder zur Ausbildung in den arkanen Künsten, Arithmetik oder technische Mechanik I überlassen würden, könnte ich mir eigentlich nichts Besseres vorstellen als ein junges Wesen das sich mehr Wissen aneignen will. In meiner durchaus nicht perfekten Philosophie ist es eine große Sünde Wissen und Kenntnisse vor zu enthalten weil man glaubt das das jemand nicht wissen müsse. Oder das jene Nischenkenntnis über einen historischen Fakt niemand zu interessieren hat. Oder noch schlimmer, wenn man selbst etwas nicht weiß und diese Ignoranz mit harten Worten versucht zu überdecken. Natürlich dicht gefolgt von falsches Wissen vehement als wahr hin zu stellen. Zweifel sind erlaubt, nur wer zweifelt kann sich verbessern. Natürlich gibt es in der Überlegung ein paar größere Abers die größtenteils mit der Logistik der Lehre zu tun haben. Man kann ja nicht einer Person alles zeigen was es gibt und dann die anderen zurücklassen. Das wäre ein wenig unfair. Aber dennoch, wenn jemand einen wahren Appetit nach Wissen zeigt ist das etwas Erhebenes, wie kann man das verweigern? Unser heutiger Quest NPC kann das offenbar, das hängt aber wohl auch damit zusammen das die Dremnaken das Wissen nicht multiplizieren sondern wahrhaftig verschlingen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 15.11.2023 - #1905 - ##84
+  ```
+
+##### #1906
+
+* Titel: `Let's Play ESO #1906 ##85 - Anchre-Eiermine [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 85 des Nekrom DLC - Sitzung 12
+  
+  In der heutigen Episode rede ich echt viel über Arbeiter und deren Rechte. Eventuell hat mich dazu motiviert das sich grade der alljährliche Arbeiterkampf abspielt. Leider habe ich nicht wirklich einen Überblick über die gesamte sozialökonomische Bandbreite. Ein Umstand der übrigens immer wieder eingefordert wird wenn Leute auf der Straße gehen und gerechte Löhne fördern. Das Jobs wegfallen würden und Geschäfte schließen müssten. Auf der anderen Seite finden sich keine Arbeitskräfte weil sich niemand mehr eine Miete leisten könnte wenn man in der Gastro arbeiten würde. Wenn dann aber der Markt regelt und sich ein Geschäft einfach als unprofitable herausstellt, dann ist das auch wieder nicht gut. Aber solange es tausende von Millionäre durch Erbe und Aktienrenditen gibt, Menschen die nichts für ihren Wohlstand tun und leistungslos Geld verdienen glaube ich nicht das das System gerechte Löhne nicht verkraften würde. Und die Existenz eines einzigen Milliardärs ist wohl Grund genug weiter auf die Straße zu gehen und Ausgleich zu fordern. In dieser Quest geht es übrigens um eine Kwama-Mine die wahrscheinlich nicht bestreikt wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 15.11.2023 - #1906 - ##85
+  ```
+
+##### #1907
+
+* Titel: `Let's Play ESO #1907 ##86 - Gebürgt [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 86 des Nekrom DLC - Sitzung 13
+  
+  Wir sind immer noch in der Mine in der wir schon gestern waren. Das überrascht auch nicht, stand ich doch nur vor dem Eingang und habe mich intensiv darüber ausgelassen wie die Arbeiter eigentlich sofort die Arbeit niederlegen sollten und eine Kommune gründen sollten. Heute stellt sich heraus das ich mit diesem Plan wohl ein wenig spät dran bin, überraschenderweise leben nicht mehr besonders viele von den Leuten die hier anscheinend das Bruttosozialprodukt nach oben treiben, und die Nahrungsversorgung von Nekrom sicherstellen. Sollte dem wirklich so sein bin ich übrigens ziemlich überrascht wie parasitisch diese Dunkelelfen eigentlich leben. Außerdem sehr anfällig, die Anzahl der Kwama-Minen ist scheinbar ziemlich überschaubar, ein guter Kommandotrupp könnte hier mit einigen wenigen Agententätigkeiten die Nahrungsversorgung ganzer Landstriche lahm legen. Es herrscht immer noch Krieg da draußen, man vergisst das nur leicht. Ja ich weiß, die Telvanni machen offiziell nicht mit, aber das ist in bestimmten taktischen Erwägungen nicht einmal so interessant. Wenn es schlecht für den Dolchsturz-Pakt läuft könnte sich das ganz schnell ändern.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 20.11.2023 - #1907 - ##86
+  ```
+
+##### #1908
+
+* Titel: `Let's Play ESO #1908 ##87 - Liebeskrank [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 87 des Nekrom DLC - Sitzung 13
+  
+  Liebe ist ein schwieriges Konzept. Wenn wir es maximal unromantisch sehen wollen dann handelt es sich um Gehirnchemie die uns dazu bringen soll insbesondere Mitglieder des anderen Geschlechts zu mögen ohne das wir die Person eigentlich besonders gut kennen. Ein evolutionärer Trick der ziemlich gut funktioniert weil es offensichtlich eine Menge Leute gibt. Wir alle sind irgendwie das Ergebnis unserer Emotionen und diejenigen die nicht über genügend Anziehungskraft verfügen haben halt keine Nachkommen und von denen hören wir nicht mehr soviel. Obwohl es technisch gesehen wohl nur einer der beiden Parteien mit einer starken emotionalen Basis braucht, die andere Partei könnte durchaus sehr unwillens sein. Ähnlich schwierige Themen spreche ich heute auch in der Episode selbst an. Das war natürlich völlig unnötig. Die Liebe um die es heute geht ist sogar erwidert und wir dürfen einmal mehr als strahlende Dame für die Liebe auftreten. Zu besiegen gilt es eine finstere Mutter die ihren Sohn anscheinend vor einer einfachen Dienerin fortreißen will.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 24.11.2023 - #1908 - ##87
+  ```
+
+##### #1909
+
+* Titel: `Let's Play ESO #1909 ##88 - Tel Dreloth [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 88 des Nekrom DLC - Sitzung 13
+  
+  Wir lesen heute ein Buch über die Telvanni das noch einmal alle offenen Fragen klärt wie oder warum wir andauernd irgendwelche Außenposten der Dunkelelfen mitten im Nirgendwo finden. Offensichtlich trauen die sich gegenseitig nicht und daher versucht man sich vor anderen Meister zu isolieren. Das Ganze kommt mir wie ein ziemlicher, logistischer Alptraum vor, aber was weiß ich schon über Dunkelelfengepflogenheiten. Eventuell könnte es aber auch so sein das die langlebigen Elfen es nicht so schlimm finden wenn man einmal ein paar Wochen dafür braucht um von einer Siedlung zur nächsten zu fahren. Oder es ist sogar Absicht, Besuch will ja nun wirklich niemand empfangen. Tel Dreloth ist ein weiterer viel zu großer Pilz der auch nicht einmal besonders gut gepflegt ist, anscheinend könnten die großen Pilze auch ein wenig besser aussehen, wenn sich nur ein fähiger Mykomant regelmäßig darum kümmern würde. Ich bleibe aber bei der Meinung das ich es für keine gute Idee halte Pilze als Grundlage für das eigene Heim zu nutzen. Einfach viel zu feucht das Zeug.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 24.11.2023 - #1909 - ##88
+  ```
+
+##### #1910
+
+* Titel: `Let's Play ESO #1910 ##89 - Delmon-Mycota [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 89 des Nekrom DLC - Sitzung 13
+  
+  Neben den paar Pilzen die wir essen können sind Pilze im großen und Ganzen eher gefährlich als nützlich. Natürlich darf man wirklich nicht vergessen das sie Dinge können die andere Pflanzen einfach nicht zu leisten vermögen, das Wachstum bei nur geringen Lichtmengen ist zum Beispiel ein nicht zu verachtener Standortvorteil wenn man plötzlich in einer Höhle wohnt. Pilzsporen, also die Art und Weise wie sich Pilze außerhalb ihres teilweise gewaltigen Netzwerkes ausbreiten können aber zu ernsthaften Gesundheitsproblemen führen. Pilzbefall in kritischen Stellen des Körpers sind unter Umständen so dramatisch das man großflächig ansetzen kann. Bekannterweise sind sie widerstandsfähig, und das was wir als Pilze sehen sind ja nur die Organe mit  denen sie sich fortpflanzen, der eigentlich Pilz geht viel tiefer und ist nur schwer los zu werden. Wenn man ein Heilmittel auf Pilze basieren lässt führt das zu Problemen. Heute beenden wir die Quest liebeskrank, und ich habe ein wenig gegen Ende vergessen der Mutter Vorwürfe zu machen. Wäre es nicht ihr Ehrgeiz gewesen hätte es gar keine Probleme gegeben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 24.11.2023 - #1910 - ##89
+  ```
+
+##### #1911
+
+* Titel: `Let's Play ESO #1911 ##90 - eine Misere des Schicksals [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 90 des Nekrom DLC - Sitzung 13
+  
+  Das Schicksal ist bekannterweise launig, und das auch ohne das irgendjemand daran herumfummelt. Für unseren heutigen Fall muss man aber auch sagen das wir immer noch keinen konkreten Beweis dafür haben das die Wahrheit die Hermeus Mora versteckt hat wirklich die Realität zerstört. Auch scheinen sich alle Effekte die mit ihm zu tun haben wirklich nur auf seine Ebene zu beschränken. Klar, Torvesard und Fäulniskrone waren anscheinend sehr gut in der Lage einen Fürsten von seiner eigenen Ebene abzuschneiden und bei all der Wichtigkeit die Hermes immer für sich selbst behaupten, scheinen die einzigen Leute die das überhaupt mit zu kriegen Leute zu sein die ihn auch anbeten. Das sind gar nicht mal so viele Personen. Vielleicht gibt es noch eine Auswirkung auf unsere allgemeine Realität, aber für den Moment müssen wir wohl davon ausgehen das der Morsche Dude ein wenig übertrieben hat, oder in typischer Daedra-Manier einfach nur log.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 24.11.2023 - #1911 - ##90
+  ```
+
+##### #1912
+
+* Titel: `Let's Play ESO #1912 ##91 - leicht angesäuerte Geister [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 91 des Nekrom DLC - Sitzung 13
+  
+  Wenn es jemanden gibt der ganz viele Geister auf echt lange Zeit einlagert dann sind es wohl die Dunkelelfen. Unter normalen Umständen würde ich jetzt über die moralische Tiefe dieser Praxis reden wollen aber allen Anschein sind die meisten, wenn nicht sogar alle Ahnengeister freiwillig da und könnten jederzeit gehen. Einige von ihnen wirken allerdings ein wenig mehr wie demente Verwandte als alles andere wenn man sich so anhört was der örtliche Ahnenpfleger von sich gibt. Es hat aber nichts damit zu tun das eine Person eine Telvanni ist oder nicht das sie dableiben, sondern eher das eine Person das mächtige Gefühl hat vor unvollendeten Dingen zu stehen. Wie sich das genau misst ist mir nicht klar aber ich vermute das die eigene Wahrnehmung hier kritisch ist. Ein Bauer der nie weiter als 10 Kilometer von seinem Hof gekommen ist könnte sich theoretisch auch so fühlen, aber das es passiert ist eher unwahrscheinlich. Eine Meisterin wie Shelreni hat dagegen ziemlich gute Chancen, insbesondere nach all dem was passiert ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 27.11.2023 - #1912 - ##91
+  ```
+
+##### #1913
+
+* Titel: `Let's Play ESO #1913 ##92 - gezwungene Realität [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 92 des Nekrom DLC - Sitzung 13
+  
+  In irgendeiner Meta-Ebene ist die gesamte Elder Scrolls Welt ein Traum. Auch unsere Welt könnte der Traum eines gewaltigen Wesens sein, oder nur eine Simulation in einem übergeordneten Computer den irgendwelche Wissenschaftler im Schuhschrank stehen haben. Oder Realität ist eine dünne Scheibe die auf der wabernden Oberfläche des Möglichkeitenraums schwimmt. Egal welche Variante man sich ausdenkt, irgendeine dafür muss heute dafür herhalten das die Realität wie wir sie sehen veränderlich ist. Technisch gesehen macht Magie genau das, magische Kräfte durchdringen alles und erschaffen und vernichten. Und doch gibt es physikalische Gesetze die auch gut ohne Magie auskommen. Je nachdem in welche Welt man sich befindet ist Magie ein fundamentaler Teil der Realität oder nur ein Zusatzparagraph in der Formel aus der alles ist. Fest steht aber das die Realität auch manipuliert werden kann, manchmal braucht man dafür Magie, woanders kann es jeder Wille tun, woanders reicht schon Ignoranz. Manchmal ist es auch der Wille der die Wirklichkeit verändert und das wird dann als Magie wahrgenommen. In jedem dieser Fälle ist es aber auch das manipulieren des realen Raumes das was ihn schwächt. Tut man das zu viel und konzentriert könnten sich Löcher bilden. Und das wäre schlecht. Heute ist es etwas Gutes, aber ob es dafür nicht noch einen Preis gibt?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 29.11.2023 - #1913 - ##92
+  ```
+
+##### #1914
+
+* Titel: `Let's Play ESO #1914 ##93 - Mythosgewölbe [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 93 des Nekrom DLC - Sitzung 13
+  
+  Rein technisch gesehen betreten wir heute nicht das Mythosgewölbe sondern die Erinnerung daran, da dies hier Burnout aus der Zukunft schreibt weiß ich sogar schon das dieser Unterschied noch einmal relevant sein wird und ich darauf zu einem späteren Zeitpunkt zurück kommen werde. Aber was macht das eigentlich für einen Unterschied wenn man sich in einem Reich befindet das sich eh zur Hälfte aus irgendwelchen ausgedachten Regeln ableitet und die feste Materie die man als Realität wahrnimmt nicht viel mehr als ein solider Traum ist. Man möchte ja meinen da die Grenze zwischen Traum und Realität eher etwas für Vaermina ist aber auch Hermeus Mora scheint hier ein wenig Wissen zu verfügen, vielleicht sogar eine ganze Menge die er bloß einfach nicht zeigen will. Wie dem aber auch sei, das Mythosgewölbe ist ein weiterer von diesen legendären Orten von denen Hermes eigentlich nicht möchte das wir überhaupt wissen das sie existieren. Deswegen gehen wir da heute hin.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 29.11.2023 - #1914 - ##93
+  ```
+
+##### #1915 ##94
+
+* Titel: `Let's Play ESO #1915 ##94 - Glyphik der Verborgenen Pfade [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 93 des Nekrom DLC - Sitzung 13
+  
+  Es gibt scheinbar drei verschiedene Glyphiken die irgendetwas besonderes bedeuten. Aber vielleicht ist es auch die Zahl drei. Ärgerlicherweise kommt der morsche Hermes nicht einer Bedienungsanleitung oder zumindest einer grundlegenden Erklärung seiner Funktionsweisen. Also ist es ein wenig unklar um was es eigentlich geht wenn er über Dinge in der Vergangenheit spricht. Die Glyphic der verborgenen Pfade bzw. Wege, ich habe beide Schreibweisen hier, scheint ein Objekt zu sein oder vielleicht auch nur die Idee eines Objektes. Darin befindet sich ein Teil des großen Geheimnisses das anscheinend in der Lage ist die Realität selbst zu zerstören. Schade ist eigentlich das wir immer noch nicht einmal einen Hinweis darüber erhalten haben wie genau dies geschehen könnte.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 03.12.2023 - #1915 - ##94
+  ```
+
+##### #1916 ## 95
+
+* Titel: `Let's Play ESO #1916 ##95 - ein ungesundes Schicksal [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 95 des Nekrom DLC - Sitzung 13
+  
+  Der morsche Hermes spricht immer wieder davon das die Offenbarung eines großen Geheimnisses die gesamte Realität zu Fall bringen könnte. Es verwundert mich sehr das dies noch nicht an anderer Stelle oder zu einer anderen Zeit bereits mehrfach geschehen ist. Wenn man sich die Größe der Welt und die Anzahl an Geistern darin anschaut ist schon wirklich viel Zeit vergangen in der alles hätte enden können. Offensichtlich haben zum Beispiel die Dwermer mit ihrer tonalen Architektur etwas gefunden das die Realität sehr direkt beeinflussen kann, es ist wirklich unglaubwürdig das es noch nirgendwo anders eine parallel Entwicklung gab. Ich würde ja argumentieren das irgendwelche verborgenen Kräfte hinter den Kulissen dafür sorgen das es dazu nicht kommen kann, aber wir haben auf unseren Reisen bereits mehrfach Relikte der alten Dwermer gefunden. Wenn es eine oder mehre Mächte geben würde die dies überwacht, dann dürfte man diese Artefakte doch auch nicht finden oder? Zumindest die Psijik scheinen besorgt zu sein, aber proaktiv handeln tun sie nicht. Und wie würden sie auf anderen Kontinenten eingreifen? Dann wäre da noch die ganze Geschichte mit den Türmen die die Realität zusammentackern, ebenfalls schon öfter angegriffen worden. Und doch, die Realität hält. Aber dieses Mal ist alles in Bedrängnis? Zumindest Apokrypha ist es aber wirklich, weil offensichtlich geht es jenen die sich damit verbunden haben nicht gut, aber wie genau funktioniert das? So viele Fragen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 03.12.2023 - #1916 - ##95
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -10779,7 +11017,7 @@
   Hier
   ```
 
-##### #TEMPLATE
+##### ##TEMPLATE
 
 * Beschreibung:
 

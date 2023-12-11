@@ -11007,6 +11007,108 @@
   Aufnahme vom 03.12.2023 - #1916 - ##95
   ```
 
+##### #1917##96
+
+* Titel: `Let's Play ESO #1917 ##96 - gewobenes Schicksal [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 96 des Nekrom DLC - Sitzung 14
+  
+  Es ist immer noch ziemlich unsicher ob das Schicksal tatsächlich ein Konzept ist das wirklich und wahrhaftig so existiert wie es beschrieben wird. Also jetzt hier und in der erdachten Realität einer jeden Geschichte und Spielwelt. Im Rad der Zeit ist die Geschichte anscheinend für den Großteil der Menschen fest und scheinbar ist das ebenso bekannt wie weitverbreitet. Alle Lebewesen die nicht eine ganz kleinen auserwählten Gruppe angehören sind defacto Marionetten die ein Schauspiel und Bühne für die wenigen Auserwählten aufspielen die tatsächlich etwas an den vorgeschriebenen Lauf des Schicksals ändern können. In anderen Welten ist die Zukunft zwar nicht fest geschrieben aber quasi allmächtige Wesen können die wahrscheinlichste Entwicklung des Schicksals mit einer quasi omnipräsenten Sicht vorhersagen so dass es in so gut wie allen Fällen so aussieht als wäre es ein echtes Schicksal das nicht geändert werden kann. Um in einen solchen Fall auszubrechen müsste man eine Quelle wahren Zufalls finden und dann das eigene Handeln von Münzwürfen abhängig machen. Interessanterweise las ich das auch der menschliche Geist größtenteils deterministisch handelt, bei großen Entscheidungen ist ziemlich absehbar wie sich jemand entscheidet und das Gehirn kennt die Antwort bereits bevor es überhaupt bewusst ist. Freien Willen hat man eher bei kleinen Entscheidungen, aber viele kleine Entscheidungen machen ebenso die Großen aus. Hier in Apokrypha meint man eher das Gewebe der Realität wenn man vom Schicksal spricht. Und die Realität ist vielleicht ein Traum, mit genügend Willen kann man den Traum biegen und ein paar Fetzen wahrer machen als Andere. Und deswegen, entscheiden wir heute das es ein Portal nach Mythos gibt, und deswegen ist das jetzt so.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 06.12.2023 - #1917 - ##96
+  ```
+
+##### #1918##97
+
+* Titel: `Let's Play ESO #1918 ##97 - Verderbnismanufaktur [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 97 des Nekrom DLC - Sitzung 14
+  
+  Manus heißt Hand auf Latein. Soweit so gut, eine Manufaktur ist dementsprechend ein Ort an dem Dinge händisch gefertigt werden. Das Verderben das Apokrypha ergriffen hat ist zweifelsohne das Ergebnis der besonderen Zuneigung durch Peryite der durch seinen treuen Anhänger Fäulniskrone wirkt. Ich tue mich aber trotzdem schwer die Fetische die er zur Verbreitung des stinkenden Einflusses nutzt als Manufakturen zu nutzen. Sie selbst sind ziemlich wahrscheinlich das Ergebnis händischer Tätigkeit, aber ihre Funktion ist automatisch, sie produzieren kontinuierlich ohne weiteres Zutun Fäulnis und stören damit die Verbindung des Fürsten des Wissens zu seiner eigenen Ebene, eine beeindruckende Demonstration von Macht. Ich frage mich auch ob es möglich wäre den gleichen Effekt irgendwie einfacher zu erhalten, ohne das ganze drum und dran das mit dem Fürsten des Verfalls einhergeht. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 06.12.2023 - #1918 - ##97
+  ```
+
+##### #1919##98
+
+* Titel: `Let's Play ESO #1919 ##98 - Glyphik der verlorenen Erinnerung [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 98 des Nekrom DLC - Sitzung 14
+  
+  Wir erinnern uns vielleicht eventuell daran das wir ganz am Anfang, bevor wir beim morschen Hermes unter Vertrag standen irgendwelche Glyphiken gesammelt haben um einen tatsächlichen Vertrag abzuschließen. Es ist immer noch unklar wer genau die Durchsetzung dieses Vertrages erzwingen kann und was genau passiert wenn dagegen verstoßen wird aber die ganze Geschichte mit den Glyphiken kommt anscheinend zurück. Ein wenig unklar ist immer noch um was es sich eigentlich handelt. Letztes Mal haben sie die Gestalt von ein paar Gegenstände angenommen aber dieses Mal bleibt es die seltsame Ansammlung von Geometrie. Ob wir jemals erfahren werden was es eigentlich sein soll? Interessant ist aber immer noch das Mora immer wieder erwähnt das wir ja eine gute Wahl vom Schicksal waren. Fast so als wäre es seine Herrin die ihn zu seinem Lieblingsschoßtier erklärt hat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 06.12.2023 - #1919 - ##98
+  ```
+
+##### #1920##99
+
+* Titel: `Let's Play ESO #1920 ##99 - die Chronik des Schicksals [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 99 des Nekrom DLC - Sitzung 14
+  
+  Seltsam. Ich habe deutlich das Gefühl das ich die Beschreibung dieser Episode schon geschrieben habe. Sie war lang, ich habe darüber geredet wie das geschriebene Wort die Geschichte beeinflusst wenn es keine Vergangenheit gibt. Und jetzt wo ich diese Worte verfasse fällt mir wieder ein das ich sie gesagt habe. Ich entschuldige mich dafür, bei dir, die das hier tatsächlich liest. Ich hätte die ganzen Überlegungen schreiben sollen, viel zu wortreich und wahrscheinlich auch zu wirr um es beim ersten Versuch direkt richtig zu formulieren. An sich hätten wir heute übrigens schon anfangen können die Hauptquest abzuschließen aber ich habe mir halt Zeit gelassen, und jetzt haben wir hier 25 Minuten in denen fast gar nichts passiert, ist das nicht fantastisch?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 09.12.2023 - #1920 - ##90
+  ```
+
+##### #1921##100
+
+* Titel: `Let's Play ESO #1921 ##100 - Erinnerungen an Ithelia [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 100 des Nekrom DLC - Sitzung 14
+  
+  Ich bin wirklich erleichtert das wir nicht hängen gelassen werden. Heute erfahren wir ganz genau was es mit der vergessenen Erinnerung auf sich hatte die wir der ganzen Zeit hinter her gejagt sind. Außerdem gibt es ein paar ganze nette Effekte für die wahrscheinlich 80% des Budgets drauf gegangen ist. Allerdings frage ich mich auch ob man das Ganze nicht wesentlich spannender hätte machen können wenn das echte Geheimnis niemals heraus gekommen wäre. Wenn wir wirklich nur winzige Einblicke erhalten hätten, Fragmente die extra so ausgesucht sind das sie ganz viele Möglichkeiten zulassen. Offensichtlich lösen wir den Konflikt ja nicht der in diesem DLC auf gemacht wurde. Technisch gesehen wissen wir jetzt aber auch das der Fürst der Geheimnisse die Wahrheit ganz schön gebogen hat um seinen Standpunkt zu verteidigen. Am Ende haben wir immer noch nur sein Wort das uns angeblich beweist das es so wichtig war seine Taten zu decken. 
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 09.12.2023 - #1920 - ##100
+  ```
+
+##### #1922##101
+
+* Titel: `Let's Play ESO #1922 ##101 - Eintrag in die Chroniken von Apokrypha [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 101 des Nekrom DLC - Sitzung 14
+  
+  Das gleiche Thema dauert jetzt ein wenig zu lange an. Also das mit der Geschichte und das, wenn man über etwas schreibt und niemand da ist um eine Gegendarstellung zu verfassen, das was man schrieb früher oder später die neue Realität wird. Apokrypha funktioniert scheinbar ähnlich nur das es eine Instanz gibt die das alles ein wenig formeller macht und man eventuell davon ausgehen kann das die Beschreibung objektiv ist. Das setzt aber auch vor raus das man der entsprechenden Geschichtschreibenden Instanz traut. Der morsche Hermes hat immerhin ein ziemliches Aufheben darum gemacht das er einmal die Geschichte umgeschrieben hat, also muss man wohl davon aus gehen das er das nicht so oft tut...oder aber es war alles nur Schauspiel. Kleine Agendageschichte, ich las heute erst das große der nordischen Geschichte „tainted by Missionaries“ sind. Also Revision von Geschichten mehr im Sinne der Leute die versucht haben Jesus nach Skandinavien zu bringen. Das fängt mit den alten Göttern an und geht auch über so schöne Themen wie Frauenrechte, wäre ja auch irgendwie doof wenn man von Töchtern schreibt die auf Abenteuer gehen wenn die eigene Religion Frauen lieber am Herd sieht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 09.12.2023 - #1922 - ##101
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -11017,7 +11119,7 @@
   Hier
   ```
 
-##### ##TEMPLATE
+##### ###TEMPLATE
 
 * Beschreibung:
 

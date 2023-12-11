@@ -2178,6 +2178,156 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #145
+
+* Titel: `Baldur's Gate 3 - #145 - alle Möglichkeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin orientierungslos, und ich möchte nichts verpassen. Das ist ein echtes Problem, das Verlangen ist groß einen Guide anzuschauen um sicher zu gehen das ich nichts übersehe. Auf der anderen Seite würde es den Wiederspielwert enorm erhöhen wenn ich einfach an ein paar Sachen vorbei laufen würde ohne vorher zu wissen was wo ist und dann vielleicht beim zweiten Mal ein wenig anders gehe. Eigentlich stehen uns alle Wege offen aber die Reihenfolge könnte wichtig sein, und es ist nicht ganz klar welcher dieser Wege am besten als Erstes eingeschlagen wird. Und vielleicht wäre es auch unklug einen Pfad vor den Anderen zu wählen weil das vielleicht meinen Pfad versperrt. Also laufen wir heute Kreuz und Quer, reden mit den Leichen der Toten, befragen die Lebenden und prüfen ob uns irgendjemand etwas verkaufen will.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 03.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #146
+
+* Titel: `Baldur's Gate 3 - #146 - Naaber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für manche Dinge wäre es vielleicht nicht schlecht gewesen wenn ich die Vorgänger gespielt hätte. Zum Beispiel für einen Typen namens Naaber. Angeblich gab es bereits in den vorherigen Teilen einen NPC namens Nuuber und Neeber die eine sehr ähnliche Haltung aufgewiesen haben. Veteranen der deutschen Spielegeschichte erinnern sich vielleicht auch noch an Mud aus Gothic. Dieser war aber wesentlich nerviger als dieser Charakter. Ich bin mir nicht ganz sicher was ich von einem so klaren Bruch der vierten Wand halten soll. Aber letztendlich schreiten wir wohl durch eine Welt in der die meisten Leute keine Abenteurer sind und sich auch nicht in das enge Gerüst von Abenteurerklassen zwängen. Dennoch ist es ein wenig lächerlich zu sehen wie Naaber versucht einen Paladin oder Kleriker zu mimen. In einer Welt in der die Götter ziemlich real sind und unter Umständen rachsüchtig sein könnten erscheint es mir nicht besonders klug zu sein so zu tun als würde man an irgendetwas glauben. Andererseits scheinen die meisten Gottheiten nicht direkt mit den göttlichen Feuer anzurücken, wenn wir irgendwann in der Zukunft Tempelraub begehen gibt es auch nur ein paar kleine Flüche oben drauf ohne das direkt Lathander selbst vom Himmel steigt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 03.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #147
+
+* Titel: `Baldur's Gate 3 - #147 - Harfner Bericht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend gibt es eine Menge Leute die tief in der Geschichte von Baldur’s Gate drin sind. Ich nicht. Insofern habe ich nur eine ungefähre Ahnung um was es sich bei den Harfner eigentlich genau handelt und wie lange die Organisation eigentlich schon besteht. Von allem was ich so erkennen kann ist Jaheira nicht die Gründerin und später wird sie uns das auch noch erklären. Sie ist einfach nur eine Heldin die ihren Weg durch die Welt gefunden hat und jetzt auch beim nächsten Abenteuer teilnimmt. Es handelt sich auch nicht um eine Eliteorganisation wie ich ursprünglich geglaubt habe. Keine absoluten Spezialisten, sie sind ein wenig breiter aufgestellt, Harfner Michael ist also nicht gleichzeitig Spezialist Michael sondern durchaus kaum mehr als ein normaler Schwertmann oder Schütze wie die meisten anderen Armeen. Eventuell mit mehr Mission im Herzen. Aber dann gibt es noch die Geheimdiensttätigkeiten. In dieser Hinsicht sind die Harfner wohl verstohlener als die Meisten Anderen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 03.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #148
+
+* Titel: `Baldur's Gate 3 - #148 - Sharess' Liebkosung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin immer wieder ein wenig fasziniert wenn Medien in jedweder Formen die Fundamente der Gesellschaft in Frage stellen. Zumindest meine Umgebung ist sehr durch westlich Werte und damit auch christlich geprägt. Das geht tiefer als irgendwelche Sakralbauten in bester Innenstadtlage. Die Bibel mit ihren Wurzeln in einer sehr kargen Region ist nicht dafür bekannt Ausschweifungen zu unterstützen. Das Priester dann dennoch keine Gelegenheit auslassen alle möglichen Regeln zu brechen sagt viel über die menschliche Kultur aus. Insbesondere in Sachen Sex sind die Christen nicht besonders offen, andere Kulturen haben da andere Ansätze aber die Welt wurde dann mehr oder weniger von Christen erobert und davon hört man dann auch am meisten. Das der größte Kulturexporteur der Welt ursprünglich von den Christen abstammt die den Europäern zu radikal waren tut sein Übrigens. Diese Grundfeste wird selten angezweifelt. Auch in Fantasy nicht. In einer Welt in der Magie zur Verfügung steht muss man wohl davon ausgehen das körperliche Stärke ein wenig weniger wichtig ist und außerdem Verhütungsmittel verfügbarer sind. Außerdem universelle Heilungen für Krankheiten. Das könnte einen dazu führen das Menschen, Elfen und andere Wesen ein wenig experimenteller in ihren Vorlieben und der Offenheit werden. Ich habe noch nie eine öffentlich Werbung für eine lokal arbeitende Domina gesehen, am ehesten kann ich mich dunkel an einen Bericht aus Bayern erinnern wo sich die lokale Dorfbevölkerung empört hat. Hier, an den Toren Baldurs Tor kann ein solches Geschäft an der Hauptstraße leben und Leute stehen davor und diskutieren öffentlich ob sie den Service in Anspruch nehmen. Gut, es ist immer noch eine Stadt und wir waren vor Kurzem erst in einem Zirkus der auch ein wenig von der Norm weg war. Aber wenn unsere Begleiter ein Maßstab sind, dann sind die Wesen in Faerûn einfach wesentlich weniger sexuell unterdrückt als anders wo. Ich schlussfolgere, die Begleiter sind nicht Horny AF sondern dein persönlicher Maßstab ist von einer christlichen Erziehung geprägt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 03.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #149
+
+* Titel: `Baldur's Gate 3 - #149 - Verzückung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich in der Beschreibung einen langen Text über sexuelle Freizügigkeit geschrieben. Und Kultur. Heute treffen wir die Drown-Geschwister die ganz darauf spezialisiert sind Freude zu bringen. Eventuell hätte ich mir den Text für heute aufsparen können und heute darüber nachdenken sollen warum zur Hölle der Ort Shars Liebkossung heißt, Shar, eine Göttin die in der Allgemeinheit nicht besonders beliebt ist, besonders weil es defacto ein Todeskult ist der definitiv Todesopfer zum Aufstieg braucht. Nicht nur persönlicher Verlust sondern auch der Anderer. Hier, in diesem Haus der Freuden scheint man im Allgemeinen aber eher das Glück zu vermehren als es zu verringern. Der Name erscheint mir also ein wenig falsch gewählt. Aber vielleicht ist es auch einfach die falsche Interpretation von meiner Seite. So oder so schweben wir grade in Sachen Beziehung ein wenig in der Leere nach dem sich Lae’zel uns plötzlich und sehr überraschend versagt hat. Aber das heißt ja nicht das wir unerfüllt sind. Andererseits sind die meisten Mitglieder meiner Party ziemlich jung, oder quasi unsterblich und damit immer noch jung. Man könnte durchaus vermuten das es hier ein paar aufgestaute Emotionen gibt, insbesondere bei all den Adrenalin. Jeder Kampf könnte unser Letzter sein, das wühlt auf!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 03.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #150
+
+* Titel: `Baldur's Gate 3 - #150 - DAS Angebot [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Leben besteht aus einer langen Kette von Entscheidungen. Viele kleine Entscheidungen führen zu einer Großen und viele Große Entscheidungen sind dann das Leben das man geführt hat. Meistens schwimmt man hier aber nicht alleine sondern erzählt andauernd und oft Informationen von allen Seiten. Oder man erhält neue Gründe den eigenen Standpunkt zu überdenken. Der Vorteil in einem Computerspiel ist das man in der Regel ein wenig außerhalb der Dinge steht und daher mit Abstand entscheiden kann. Im wahren Leben würde diese Option nicht zu Verfügung stehen. Und das macht mich zu einem schlechten Rollenspieler, etwas an das ich arbeiten muss. Ich fälle meine Entscheidungen in dem Bewusstsein das dies womöglich das einzige Mal sein wird das ich jemals Baldur’s Gate durchspiele weil ich nicht unendlich viel Zeit habe. Das führt aber auch dazu das ich ganz andere Grundlagen für meinen Weg wähle als es Schattenherz wirklich tun würde. Die Entscheidung in den Tiefen der Schatten ist ein gutes Beispiel dafür. Heute erhalten wir ein gutes Geschäftsangebot, ein Angebot das unsere ehemalige Partnerin sofort annehmen würden. Ich bin allerdings zögerlich, es mangelt an Informationen und ich habe Abstand der es mir erlaubt logisch an die Sache heran zu gehen. Natürlich immer vor raus gesetzt das ich nichts vergessen oder ignoriert habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 03.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #151
+
+* Titel: `Baldur's Gate 3 - #151 - Vlaakiths verlockende Angebote [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir müssen ziemlich wichtig sein, diverse Leute machen uns Angebote und versuchen uns Ware abzukaufen. Bisher hatte das leider alles nur mit dem Prisma zu tun, das ist ein wenig ärgerlich. Es geht den diversen Parteien also gar nicht um uns sondern nur um das was wir besitzen, und so wie es aussieht tun sie das auch nur weil das Prisma ziemlich dicht an uns dran hängt. Wäre dem nicht so würden sie uns alle wie eine heiße Kartoffel liegen lassen. Heute dran ist Königin Vlaakith die ärgerlicherweise einfach so erscheinen kann. Ich hatte wirklich gehofft das ihr Auftauchen im Kloster eine Folge des dort stationierten Gerätes war aber es sieht wohl ganz so aus als das sie in der Tat sehr sehr mächtig ist. Das ist ärgerlich. Die Grenzen der Macht die ein einfacher Mensch, Elf oder Gith’yanki erreichen kann hat ein Ende. Und wir sind sehr nahe dran, wenn es gegen einen Gegner wie die selbsternannte Königin der Gith’ geht weiß ich nicht so recht wie wir noch vorgehen sollen. Insbesondere weil die Orpheus Frage immer noch ungeklärt ist. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 22, Aufnahme vom 03.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #152
+
+* Titel: `Baldur's Gate 3 - #152 - freier Durchgang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neue Aufnahme neues Glück..und es stellt sich doch glatt heraus das ich mir es wohl ein wenig schwer gemacht habe als ich darüber nachgedacht habe wie ich am besten in die Stadt selbst herein komme. Als es hieß das die Tore geschlossen sind dachte ich das quasi alles unter Qurantäne steht. Die Wahrheit ist aber wohl viel mehr das ein paar Flüchtlinge nicht mehr hereingelassen werden aber Leute mit den entsprechenden Unterlagen können wohl jederzeit eintreten. Das macht unsere Arbeit natürlich wesentlich einfacher. Ärgerlicherweise möchte uns auch ein gewisser Gortash sehen. Das ist im Moment grade ein wenig lästig weil wir ihn ja eigentlich töten wollen, aber dies direkt vor der versammelten Mannschaft zu tun erscheint wie keine gute Idee die wir ernsthaft verfolgen sollten. Es ist aber möglich. Ich habe es probiert, es hat einige Ressourcen und Geldmittel für Lazarus gekostet aber am Ende war Gortash tot und meine Truppe am Leben. Trotzdem wird das wohl nicht der Weg sein den ich am Ende gehen möchte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #153
+
+* Titel: `Baldur's Gate 3 - #153 - die Krönungszeronomie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nein, wir haben es nicht geschafft zwischen der Letzten und dieser Episode plötzlich irgendwie selbst auf den Thron zu steigen. Witzigerweise könnte das mit dem Blut von Wyll, insofern er lange genug überlebt, sogar noch eine Möglichkeit sein die wir später in Betracht ziehen werden, oder auch nicht, das wäre auch eine Menge Verantwortung. Selbstverständlich handelt es sich um die Krönung von Gortash, anscheinend war es eines seiner Ziele mit der Infektion von Ravengard genau dies einzuleiten. Wir könnten das natürlich verhindern, aber außer einer Menge Arbeit und größeren Mengen vergossenen Blutes ergibt sich kein echter praktischer Wert daraus. Die Mitglieder der flammenden Faust sind vielleicht nicht die größten Sympathieträger aber letztendlich stellen sie am ehesten das da was eine Polizei in der Stadt ist, und die meisten Mitglieder sind wohl keine Anhänger Gortashs. Viel mehr handelt es sich um einfache Leute die eine Arbeit in der Wache annahmen und sich durch Eide verpflichtet fühlen der Sache zu dienen. Und, ob gekrönt oder nicht, am Ende ist es wohl nur ein Titel, von allem was wir so sehen können hatte Gortash bereits vorher schon die alleinige Macht in der Stadt inne, die restlichen Leute vom Adel scheinen entweder passiv oder Mitläufer zu sein. Also was ändert eine Krone auf seinem Kopf? Am Ende müssen wir so oder so durch Meere aus Blut waten wenn wir irgendetwas bewegen wollen. Vielleicht ergibt sich später zumindest eine Möglichkeit die zivilen Opfer ein wenig zu beschränken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #154
+
+* Titel: `Baldur's Gate 3 - #154 - Halsin der Bär [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sex ist ein erstaunlich schwieriges Thema und ich bin mir nicht ganz sicher ob ich wirklich den Christen die ganze Schuld geben kann. Wenn viel zu junge Kinder selber Nachwuchs haben ist das ein Problem. Auf der anderen Seite ist die Verhinderung von sexueller Aufklärung ein aktives Kontrollmittel von reaktionären Kräften. Um es kurz zu machen, das ist die Episode in der wir Sex mit Halsin haben, der lebt nicht unbedingt monogam aber wir schlafen ja auch nur mit ihm und wollen ihn nicht heiraten oder seine Bärenjungen austragen. Wir haben leider noch nicht erfahren wie die Shariten zu oberflächlichen Beziehungen stehen, nur das sie feste Bindungen im Sinne der Familie wohl eher vermeiden wollen. Aber sollten sich die Anhänger Shars als keusch herausstellen dürfen wir wohl vermuten das die Selûniten absolut sexpositiv sind. Die Szene selbst mit Halsin fällt übrigens meiner Meinung nach unter schwachen Softcore, das ist nicht mal wirklich pornografisch, wir sehen ein angedeutetes orales Vorspiel und das war es mehr oder weniger. Witzigerweise hat Youtube das schon vor Veröffentlichung erkannt, interessant eigentlich. Beim Sex mit Lae’zel war das egal, und die Gute deutet an das sie zumindest ein paar Seile verwendet um alles ein wenig würziger zu machen..oder das ist nur in meiner Phantasie. Mein grundlegendes Problem ist das wir nach jedem Kampf durch große Blutpfützen latschen und das allgemein okay ist. Das vernichten von Leben, blutige Entscheidungen und Massenmord sind moralisch also mehr okay als die potenzielle Schöpfung von Leben? Oder geht es um die Sünde der Lust ohne konkrete Absicht Nachwuchs zu zeugen? Ich habe hier Schwierigkeiten den Standpunkt der Welt nach zu vollziehen, anscheinend bin ich ja in einer Minderheit, an manchen Orten der Welt ist es Paaren sogar verboten Händchen zu halten weil irgendwelche Urahnen sich daran ach so sehr gestört hat. Da diese Menschen auf der ganzen Welt so viel Einfluss haben schlussfolgere ich übrigens das sexuelle Frustration ein großer Antrieb in der Welt ist. Die anderen Leute waren damit beschäftigt Spaß zu haben. Ich würde vermuten das diese Meinung nicht besonders neu ist. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

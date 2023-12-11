@@ -966,6 +966,83 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
 
+##### #64
+
+* Titel: `Yakuza 6 - #64 - Spuren des Patriarchen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Wort Patriarch hat in jüngster Zeit eine leicht negative Konnotation für mich erhalten. Und wenn sie es nicht hat dann muss ich dabei an italienische Mafiafamilien denken. Mir ist klar das zwischen Pate und Patriarch Welten liegen aber das ändert ja nichts daran das kriminelle Organisationen nicht selten familiär organisiert sind, deswegen ja auch Mafiafamilie. Das macht es aber auch ein wenig schwer in eine solche Vereinigung einzusteigen, frühstens wenn eine typische Großfamilie nicht mehr die Personalnot der Organisation stopfen kann. Unabhängig davon ist das typische Patriarch in seinem Rollenbild wahrscheinlich ein Problem das den Großteil der Leute betrifft die nicht in direkter Nachfolge zum derzeitigen Patriarch stehen. Übertragen gesprochen ist das Patriarchat das gerne beschworen wird ein nicht zu leugnendes Problem, aber selbst  für die Leute denen vorgeworfen wird davon zu profitieren nur ein schwer fassbares Konzept. All das ist Kiryu völlig egal weil er hinter einer physischen Person hinter her jagt die tatsächlich Patriarch einer Familie ist die nicht auf Blutsbanden basiert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 10, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #65
+
+* Titel: `Yakuza 6 - #65 - das Gesetz des Blutes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute ist eine große Episode. Es wird uns eine Menge erklärt und wir erfahren endlich was wirklich los ist und wie die Dinge gelaufen sind die dazu geführt haben das wir in der Situation sind in der wir halt eben sind. Weil ich darüber reden möchte, ab hier also Spoiler für diese Episode:
+  
+  Ich bin ein bissle enttäuscht das es wirklich Harukas Kind ist, in meinem Kopf ist die Gute immer noch so ca. 16 aber an sich ist sie eine junge Frau Anfang 20, solche Menschen haben Sex und Kinder. Trotzdem irgendwie komisch, ist es vielleicht weil man den Charakter hat aufwachsen sehen? Und dann ist da natürlich auch noch mein persönlicher Werte-Kanon der einfach nicht vorsieht das man mit Anfang 20 sich schon einem Kind hingibt. In einer traditionellen Welt ist das natürlich völlig normal, insbesondere für Frauen. Das eigene Leben hört dann erst einmal auf, und von allem was ich so über die gesellschaftliche Erwartung an eine gute japanische Frau gelesen habe ist es dann auch so. Wenn ich daran zurück denke wie grün ich mit Anfang 20 war scheint mir das aber nicht die beste Idee zu sein. Ich habe ein paar Freunde die jünger sind als ich, und eine davon ist 23. Diese Bekannte wäre definitiv nicht in dem Alter Kinder groß zu ziehen. Von der Frage einmal abgesehen, das mit der Blutsfolge und dem Erben, kann man machen, ist ein lang geübtes System von diversen Adeligen auf der ganzen Welt. Kann mal so und mal so laufen. Attentate sind da natürlich immer ein Problem. Etwas mehr Loyalität der Sache gegenüber hätte es aber vielleicht auch getan.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 10, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #66
+
+* Titel: `Yakuza 6 - #66 - Babyjagt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein intelligentes Wesen sollte man nicht unterschätzen. Bei jungen Menschen bin ich mir nicht so sicher wie intelligent die Viecher wirklich sind. Das Gehirn braucht ziemlich viel Zeit zu lernen und sich zu entwickeln. Wenn man eine parallele zur „KI“-Forschung ziehen möchte braucht es erst eine ziemlich große Reihe von Trainingsdaten die es glücklicherweise selbst erzeugt. Zumindest soweit klappt der Vergleich ganz gut, das junge und plastische Gehirn braucht tonnenweise Stimuli um zu verstehen wie die Welt funktioniert und um mit allen Sinnen klar zu kommen. Das es dabei seinen noch ziemlich schlecht funktionierenden Körper anweist durch die Welt zu flitzen ist eher ungut. Immerhin ist das aber nicht unser Problem heute, sondern eher das das Kind entführt wurde, aber glücklicherweise ist das kein Problem das wir nicht beheben können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 10, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #67
+
+* Titel: `Yakuza 6 - #67 - weiter mit der Leiter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und der Titel für einen wirklich schlechten Episoden-Titel geht dann wohl an diese Episode. Ich wusste nicht so recht wie ich sie nennen sollte und jemand hat im Chat einen schlechten Wortwitz gemacht. Manchmal nehme ich das dann als Titel. Rein auf der Metaebene gesprochen weiß ich auch nicht so recht ob ich das mit den Titeln vielleicht nicht ganz lassen sollte. Es scheint das die Leute eher so etwas wie VOD Channel anschauen und da heißen die Dinger dann auch nur Teil 1 bis 25 oder so. Vielleicht wäre das auch was für mich. Oder ich lasse das alles einfach komplett. Viel weniger Aufwand und niemand würde mich vermissen oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 10, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #68
+
+* Titel: `Yakuza 6 - #68 - Offenbarung zwischen Salzwasser und Stahl [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lange oder umständliche Titel versuche ich schon mit Respekt vor den mobilen Nutzern zu vermeiden. Aber manchmal hilft es ja nichts. Also heute ein Titel der ein wenig länger und zudem wenig beschreibend ist. Die Grundidee war das, wenn ich schon keine Klarheit in wenige Worte komprimiert bekomme ich es zumindest ein wenig poetisch klingen lasse. Ich kann natürlich nicht versprechen das es dann auch gut wird, besondere Talente oder Fähigkeiten würde ich mir hier eher nicht zusprechen. Zur Sache, mitten in der Nacht haben wir einen Agenten einer koreanischen Mafia verfolgt, eine Gruppierung die zusätzlich zu unseren lokalen Yakuza, den Chinesen und natürlich dem Tojo-Clan mit in die allgemeine Gemengelage eingreifen. Das alles ist furchtbar nervig und erzeugt eine Menge Chaos. Das die Koreaner aber nicht in der Lage sein sollten alleine soviel Erfolg zu haben ist mir vorher gar nicht in den Sinn gekommen, das liegt aber eventuell auch daran das ich nicht einmal im Ansatz darüber nach gedacht habe, oder das Kiryu nicht besonders viele Datenpunkte eingesammelt hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 10, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
 ##### #Nummer
 
 * Titel: ``

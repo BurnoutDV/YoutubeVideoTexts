@@ -984,14 +984,214 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
-##### #Nummer
+##### #66
 
-* Titel: ``
+* Titel: `GoW Ragnarök - #66 - Thrúd und Ingrid [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Was die Asen so angeht so handelt es sich ja letztendlich um die gleichen Wesen wie das was die Wanen sind. Soweit ich das jedenfalls sehen kann. Es ist wirklich schwer fest zu stellen was jetzt eigentlich einen Gott ausmacht. Handelt es sich jetzt um normale Menschen die irgendwie einen Splitter absoluter Macht gefunden haben. Wurden die ersten Götter einfach nur nach dem Abbild der Menschen erschaffen, sind sie alle Gestaltwandler die nicht ob ihrer Fähigkeiten wissen? Für mich fest steht allerdings das die Asen eigentlich ziemlich stumpf sind. So ganz allgemein. Die Wanen haben einen Hang zu einer besonderen Art von Magie und haben in ihren Sümpfen Dinge gebaut, die Zwerge strotzen vor Erfindungsgeist und Individualismus (soweit ich das sehen kann), die Alben haben ihren kollektiven Krieg. Fraglich ist auch wo die Zwergen oder Albengötter sind, aber soweit ich das verstanden haben sind Alben auch recht langlebig und individuelle Macht scheint auch ein komischer Begriff zu sein. Worauf ich hinaus will ist das außer Odin der allgemeine Ase eher nicht intelligent ist und genauso stumpf ist wie es der äußere Schein ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 10, Aufnahme vom 23.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #67
+
+* Titel: `GoW Ragnarök - #67 - Surts Schrein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir dürfen Quality-Time mit Thor verbringen. Das ist eine seltene Gelegenheit bei der wir nicht mit den Asen im Krieg sind. Ärgerlicherweise wurde Atreus wie ein Anfänger in diese Situation durch Odin manövriert der vielleicht nicht viel klüger als der Rest der Asen ist, aber ein großer Hort von Erfahrungen kann quasi Weisheit genauso gut simulieren. Thor selbst scheint einen kleineren Krieg gegen alle Riesen zu führen und scheint diese aus irgendwelchen Gründen zu hassen. Warum ist mir absolut nicht klar, hat es vielleicht etwas mit seiner Mutter zu tun? Irgendetwas wurde hier auf jeden Fall verdrängt und hat sich in Zorn verwandelt. Es gibt dort draußen aber noch ein paar Riesen, zum Beispiel Surtr, und hier wird es interessant. Einige Riesen scheinen fundamental für die Welt zu sein, Surtr zum Beispiel aber auch die Weltenschlange, diese Riesen wurden nicht Opfer von Thors Kreuzzug. Interessant oder? Kann er nicht oder ist selbst Thor bewusst das ein solches Vorgehen die Realität massiv beschädigen würde? Die Sagen und Legenden des Nordens haben ja ein paar wichtige Namen, das wäre schon doof wenn die plötzlich verschwinden würden oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 10, Aufnahme vom 23.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #68
+
+* Titel: `GoW Ragnarök - #68 - erste Nacht in Asgard [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Preis für den besten Charakterwechsel geht übrigens definitiv an die Szene in dieser Episode. Davon abgesehen verwirrt mich der Tages und Nachtwechsel in den neun Welten. Aus irgendeinen Grund steht Midgard in der Mitte, die Welt in der die Menschen traditionsgemäß hausen. Aber dennoch ist nicht so ganz klar wie es jetzt genau funktioniert. Welche Form die Welt hat ist auch absolut nicht ersichtlich, bis jetzt war ich nicht in der Lage eine Krümmung zu erkennen, aber es könnte auch durchaus sein das wir nicht hoch genug geflogen sind. All das wäre nicht so wichtig wenn Kratos nicht aus Griechenland kommen würde. Dadurch das ein nordischer Gott anwesend ist und Tyr in der Lage war Artefakte von überall woanders mit zu bringen muss es einen Ebene des Verständnisses für die verschiedenen Reiche geben. Und in der nordischen Welt wird Tag und Nacht durch zwei Wölfe verursacht, in der ägyptischen durch einen großen Käfer der die Sonne schiebt. Die Frage ist also eigentlich, wenn es in Asgard Nacht ist, geht auch in Sparta die Sonne unter?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 10, Aufnahme vom 23.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #69
+
+* Titel: `GoW Ragnarök - #69 - eiskaltes Midgard [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder zurück! Midgar, das Zentrum der neun Welt, der Nabel der Welt, Heimat der Midgardschlange und Ort vieler Sehenswürdigkeiten. Und aktuell meterhoch von einem alles vernichtenden Schnee bedeckt. Wenn man nicht grade darauf ausgelegt ist irgendwelche anderen Leute zu überfallen oder Ressourcen gehortet hat ist das eigentlich ein sicheres Todesurteil. Wenn man ein wenig darüber nachdenkt ist ein Winter ein ziemlich krasses Ereignis. Mein erster Gedanke geht übrigens immer zu Rimworld, dort gibt es, je nachdem wo man wohnt, auch Winter für die man sich vorbereiten muss. Aber dort hat man auch ziemlich schnell Zugriff auf Klimaanlagen. Auch antike Völker waren in der Lage Lebensmittel zu kühlen, aber genügend Überschuss für eine vorher nicht bestimmbare Zeit zu schaffen könnte schwierig sein. Insbesondere wenn man vorher vielleicht eine Dürre hat oder andere, äußere Umstände die Vorräte bereits gefährlich reduziert haben. Und das alles sieht nicht vorher das man plötzlich einen Winter hat der drei Jahre lang geht, die Leute in Frostpunk wussten immerhin was kommt und haben sich vorbereitet. Aber außer ein wenig Magie haben die Bewohner Midgards doch nichts. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 10, Aufnahme vom 23.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #70
+
+* Titel: `GoW Ragnarök - #70 - Kol-Räuber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode sprach ich darüber das so gut wie niemand die Katastrophe die der Fimbulwinter darstellt überleben kann und das es maximal die Magie gibt. Oder aber man wird maximal blutrünstig und überfällt jeden anderen Stamm der sich nur auftreiben lässt. Wenn es zusätzlich noch andere Gruppierungen existieren die genauso vorgehen und man sich dann immer mehr und mehr konsolidiert, dann könnte man in der Lage sein ziemlich weit zu kommen. Vielleicht sogar durch den Winter. Ich verstehe übrigens nicht warum der Fokus so groß darauf ist das die Kor-Räuber Wölfe fressen. Fleischfresse sind, soweit ich weiß, keine besonders gute Nahrungsquelle wenn man sie züchten würde, aber ansonsten ist ein Wolf auch nicht besser oder schlechter als ein Reh. Wahrscheinlich ist die Fleischqualität ein wenig anders, aber irgendwo auf der Welt isst man auch Hunde, Wölfe bieten immerhin noch guten Pelz.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 10, Aufnahme vom 23.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #71
+
+* Titel: `GoW Ragnarök - #71 - Risse im Eis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein großes Problem im letzten Teil, ich möchte sogar sagen, ein großes Thema, waren die Weltenrisse. Genau erklärt was sie eigentlich sind wurde nicht, aber scheinbar reisen ja auch gewisse Drachen durch Weltenrisse, also vermute ich einmal das die Abriegelung der Welten durch Odin nicht ganz so absolut war wie er uns vielleicht glauben machen möchte. Da Midgard das Zentrum aller Welt ist dürfen wir wohl davon ausgehen das man hier auch die meisten Risse findet. Aber nicht nur das, in der Welt aus Eis gibt es auch andere Schwächungen. Zum Beispiel die meiner Nerven wenn ich noch einen fliegenden Alb sehen muss. Die sind wirklich albtraumhaft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 10, Aufnahme vom 23.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #72
+
+* Titel: `GoW Ragnarök - #72 - die Ruderer[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist faszinierend wie alles um den See der Neun herum einmal in einem Zeitalter des Reichtums gelebt haben muss. Nicht nur der Tempel von Tyr sondern auch die umgebenden Regionen haben reiche und große Bauwerke die vermuten lassen das es hier einst Reichtum gab. Es könnte natürlich durchaus sein das all dies auf den Rücken einfacher Bauern errichtet wurde die furchtbar hungern mussten. Das gibt dem ganzen sicherlich einen sauren Geschmack, aber große Statuen wie die Ruderer lassen unwillkürlich an eine bessere Zeit denken. Und jetzt sind sie zerstört und ihre Einzelteile liegen unter dem Schnee vergraben. Wenn irgendwann der Winter endet werden die Überlebenden sicherlich die Teile für Werkzeuge oder Waffen verwenden. Niemand wird sich um die Geschichte kümmern, niemand wird sich dafür interessieren was einst war. Und ich würde den nachfolgenden Generationen auch keinen Vorwurf machen das sie all dies vergessen und nie an die Ruderer denken oder sich erinnern die hier einst standen . Aber mich macht es melancholisch, melancholisch für eine Zeit die es nur in meiner Fantasie gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 11, Aufnahme vom 30.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #73
+
+* Titel: `GoW Ragnarök - #73 - der verlassene Außenposten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die großen Baumeister sind offensichtlich die Zwerge aber ich bin immer noch erstaunt wie faul die Asen eigentlich sind und wie wenig fancy Asgard eigentlich war. Gedanklich hatte ich eine Stadt erwartet die ein wenig wie Markarth aus Skyrim aussieht. Große Steingebäude die vielleicht von einem weniger steinigen Dorf umgeben sind. Das der Gott der Nordmänner in einem Langhaus wohnt passt ja auch irgendwie, und vielleicht hat mich da auch Marvel infiziert die ihre „Asen“ tatsächlich in irgendwelchen Palästen wohnen lässt. Aber definitiv auch Schuld ist die Tatsache das wir in Midgard andauernd über Bauwerke fallen die wesentlich größer, besser und beeindruckender sind als was Asgard zu bieten hat. Selbst ihre große Mauer ist eigentlich nur ein gewaltiger Müllhaufen aus aufgetürmten Steinen die wahrscheinlich das gesamte Reich aller Oberflächensteine beraubt hat. Der „Außenposten“ den wir heute betreten sieht auf jeden Fall schon mehr nach einem Herrschersitz aus als Odins kurzes Langhaus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 11, Aufnahme vom 30.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #74
+
+* Titel: `GoW Ragnarök - #74 - Sigruns Schatzkammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erinnern uns bestimmt noch an Sigrún, eine Schwester meiner Oma und anscheinend auch die Anführerin der Walkürenschar. Im letzten Teil haben wir sie befreit aber ansonsten kaum etwas über sie erfahren. Die meisten Walküren waren auch mehr verwirrt als alles Andere und daher nicht so wirklich ansprechbar. Soweit ich das verstanden haben war keine Walküre einfach nur das Produkt magischer Mittel sondern irgendwann einmal eine sterbliche Seele die den Mantel und die Aufgabe des Allvaters angenommen hat. Wie genau das passiert ist uns nicht klar, aber ich nehme an das die entsprechenden Frauen einen gewissen kriegerischen Geist haben müssen und sich irgendwie qualifizieren. Es hilft anscheinend enorm wenn man aus einem adeligen Haus mit tragischer Vergangenheit kommt. Soweit wir das erkennen können ist dies der Fall bei Sigrún. Was mir übrigens auch neu war ist das der gute Mimir eine Beziehung mit ihr hatte. Wann genau das war vermag aber wieder einmal keiner zu sagen. Das ist ein durchgehendes Problem. Immer sind die Dinge irgendwann passiert aber niemand sagt genau wann, manchmal sogar nicht einmal was vorher oder nachher war. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 11, Aufnahme vom 30.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #75
+
+* Titel: `GoW Ragnarök - #75 - Spur der Nornen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da wir eine tragische Familiengeschicht abgeschlossen haben erkunden wir jetzt unsere eigene Geschichte und wohin diese vielleicht führen wird. Kratos hatte bereits in seiner Vergangenheit Kontakt mit den Moiren, anscheinend die Weissagerinnen aus der griechischen Mythologie, dazu kann ich jetzt wenig sagen, ich war nicht dabei. Aber wir wissen mittlerweile das die Moiren wohl ein wenig egoistisch waren und das Schicksal für sich selbst beeinflusst hatten. Ihr wisst schon, Börsenwerte manipuliert und solche Dinge. Da das überhaupt nicht okay ist und in die freie Marktwirtschaft eingreift hat Kratos die Sache auch sofort beendet. Bei den Nornen könnten wir eventuell nicht ganz so leichtes Spiel haben, Punkt eins warum es schwer sein könnte ist auch schon das sie schwer zu finden sind. Glücklicherweise haben wir fähige Schnüffelwölfe. Das wird unser Probleme bestimmte reduzieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 11, Aufnahme vom 30.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #76
+
+* Titel: `GoW Ragnarök - #76 - Brunnen von Urð [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mir zwischenzeitlich, während ich das hier gespielt habe, erklären lassen das die drei Nornen jeweils ein Geist der Weihnacht sind. Vergangenheit, Gegenwart und Zukunft. Der Brunnen in dem wir uns derzeit befinden ist aber wohl der Brunnen der Zukunft und zeigt uns daher das was sein wird bzw. sein kann. Nicht das wir tatsächlich heute dort ankommen. Der Weg zu den Nornen ist lang, aber interessanterweise lassen sie uns zumindest, wenn auch widerwillig, durch. Haben sie vielleicht gesehen das das Erscheinen eines griechischen Kriegsgott eine Unvermeidlichkeit ist und eine weiter Verzögerung keinen Sinn machen würde? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 11, Aufnahme vom 30.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #77
+
+* Titel: `GoW Ragnarök - #77 - Visionen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt genügend Leute die von den Geistern der Vergangenheit geplagt sind. Waren die Eindrücke in der Vergangenheit stark genug ist es schwer überhaupt in der Gegenwart zu leben weil das was man erlebt hat so einen großen Einfluss hat das das was kommt oder ist in den Hintergrund tritt. Als Götter sollten sowohl Freya als auch Kratos ein wenig stabiler gebaut sein. Wie genau sich das ausdrückt vermag ich übrigens nicht zu sagen, der Grieche war einst ein sterblicher Mann, also solcher sollte er eigentlich nicht viel besser sein. Aber eventuell ist der Unterschied subtil, ein wenig mehr Resilienz, ein wenig weniger Anfälligkeit gegen Trauma. All das ist aber nur sekundär wenn man gegen eine Partei kämpft die sich die Schwächen die durch alte Erinnerungen erwachsen aktiv zu Nutze machen. Und so kämpfen wir heute wortwörtlich gegen die Geister der Vergangenheit. Immer lassen sie auch Loot fallen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 11, Aufnahme vom 30.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #78
+
+* Titel: `GoW Ragnarök - #78 - der Schicksalsspruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Schicksal zu kennen kann eine harte Bürde sein, zu wissen was sein wird belastet jeden Augenblick in dem noch nicht eingetreten ist was man weiß. Es kann aber auch erleichternd sein wenn man einen sehr spezifischen Fakt kennt und sich daher in vielen Situationen sicher sein kann das keine Gefahr droht weil die Bedingungen nicht richtig sind. Es kann aber auch zu einem Gefühl der falschen Sicherheit führen wenn die bloße Kenntnis des ehemaligen Schicksals ein neues herbei führt. Dann weiß man aber auch immerhin das die eigenen Taten Bedeutung haben. Der Unterschied von festen Schicksal zu wahrscheinlichen Schicksal ist eben ob man nur ein Darsteller auf dem Brett der Geschichte ist oder tatsächlich ein Teilnehmer in der Entwicklung der Umstände. Zumindest in dieser Hinsicht geben uns die Nornen Hoffnung, die Zukunft ist nicht fest, nur haben sie anscheinend auf genügen Informationen Zugriff so das sie sicher sagen können was sein wird. Sogar so weit das sie einzelne Worte kennen, das ist nervenaufreibend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 11, Aufnahme vom 30.11.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #79
+
+* Titel: `GoW Ragnarök - #79 - Theaterkritik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ursprünglich hieß diese Episode irgendetwas mit „thespische Kritik“, aber es stellt sich doch glatt heraus das es keine direkte 1:1 Übersetzung von „thesbian“ ins Deutsche gibt und das es daher nicht möglich gewesen wäre einen solchen Titel zu wählen ohne nicht auch Besuch von den Eingreiftruppen des Dudens zu erhalten. Der übrigens nicht die offizielle Quelle der Wahrheit für die deutsche Sprache ist. Die Überschrift bezieht sich aber so oder so auf die Tatsache das Mimir relativ viel über Griechenland und deren Schauspiele weiß. Was genau der „klügste“ Mann der Welt eigentlich genau ist haben wir immer noch nicht geklärt, aber scheinbar fand er in seiner Jugend Zeit durch die Welten zu reisen um sich Dinge anzuschauen. Vielleicht ist es aber auch genau jenes Wissen das Odin ermöglicht hat der tyrannische Gott zu werden der er jetzt ist. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 12, Aufnahme vom 08.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
 ##### #Nummer
@@ -1004,45 +1204,7 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Hier
   ```
 
-##### #Nummer
 
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
-
-##### #Nummer
-
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
-
-##### #Nummer
-
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
-
-##### #Nummer
-
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
 
 ### Theorien
 

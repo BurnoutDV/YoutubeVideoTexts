@@ -2328,6 +2328,723 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #155
+
+* Titel: `Baldur's Gate 3 - #155 - Sturmküstentabernakel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einer Welt in der die Götter real sind würde ich ein wenig mehr Streit erwarten als das was wir sehen. Allem Anschein nach sind die einzelnen Gottheiten damit zufrieden wenn nur ein paar Leute sie jeweils anbeten und der Rest der Leute nur bei besonderen Gelegenheiten auf Religion zurück greifen. Oder überhaupt irgendjemanden anbeten. Wir wissen das die Thorms offensichtlich eine Familie war die sich Selûne zugeschrieben hat und auch die gesamte Stadt Reithwin hing irgendwie mit der Mondgöttin im Bunde. Aber ich glaube das eine solche Gemeinschaft eher ungewöhnlich ist, insbesondere weil das Sturmküstentabernakel bis auf den Multi-Priester einfach nur leer ist. Wären die Leute im Allgemeinen religiös würde man mehr Menschen und Elfen erwarten oder? Immerhin gibt es hier auch ein paar Tempelschätze.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #156
+
+* Titel: `Baldur's Gate 3 - #156 - Taverne Elfengesang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ursprünglich nahm ich an das es sich bei Shares Liebkosung ebenfalls um eine Taverne handelt, aber wir wissen ja mittlerweile besser das es sich wohl eher um ein Ort handelt den man nur für ein paar Stunden anmietet anstatt das man dort einige Nächte verbringt. Die Taverne Elfengesang ist also tatsächlich der erste Ort den wir betreten der eine echte, aktive Taverne darstellt. Als wir damals Waukehs Ruh betraten brannte der gesamte Ort und die Taverne zum letzten Licht war nicht wirklich eine aktive Stätte an der sich müde Wanderer ausruhen konnten. Elfengesang ist natürlich nur eine Taverne in der Unterstadt, aber soweit ich das verstanden habe ist der Ort schon ein wenig legendär. Zumindest hat eine gewisse Bardin davon gesprochen das sie unbedingt hier auftreten wollte und die Lektionen ihrer Meisterin umsetzen wollte. Außerdem verlieren wir uns ab hier in eine wilde Kette aus Nebenmissionen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #157
+
+* Titel: `Baldur's Gate 3 - #157 - Versteck der Ritter des Schilds [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Imperator hat uns zwischenzeitlich erklärt was genau es sich eigentlich mit den Rittern des Schildes auf sich hatte aber ich muss leider sagen das ich das Meiste davon schon wieder vergessen haben. Irgendetwas von einer Handelsgemeinschaft, Geld ist Macht und mit genügend Macht kann man wohl Welten bewegen. Es muss einige Mitglieder geben, nicht nur Herzogin Stelmane die nicht mehr unter den Lebenden weilt. Aber hier im Versteck der Ritter des Schildes finden wir außer ein paar Spionageberichte keine Hinweise darauf das es sie wirklich gibt. Immerhin müssen wir nicht ein vollständig leeres Lager durchsuchen und erhalten stattdessen ein wenig Unterhaltung in Form von Besuchern aus dem Zwischenreich. Und doch frage ich mich schon was genau die Ritter eigentlich gemacht haben, oder was sie immer noch tun. Neben den Harfnern und den Gilden scheinen sie ja eine gewisse Macht dargestellt zu haben, und dann ist da auch noch ein Typ namens Gortasch der wohl am Ende alles zu Ende gebracht hat. Ob unser Imperator einfach nicht darüber nachgedacht hat das die Illithiden von jemanden kontrolliert wurden oder handelte es sich um eine neue Operation? In den Vergangenheitsvisionen sahen wir das am Anfang das Ältestenhirn keine Krone von Karsus am Anfang trug als er sich verwandelte. Einige Details des aktuellen Zeitstranges sind einfach viel zu nebulös. Wir brauchen mehr Daten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #158
+
+* Titel: `Baldur's Gate 3 - #158 - Unterstadt-Kanalisation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf der einen Seite ist es sehr logisch das, wenn man im Keller eine weitere Tür findet die nach unten führt, das man dann irgendwann im Kanalisationssystem der Stadt heraus kommt. Ich bin dennoch überrascht. Ein wenig zumindest. Wenn ich mir die Karte so anschaue gibt es hier eine ganze Menge zu sehen und wir werden wohl in nächster Zeit nicht heraus kommen. Außerdem haben wir scheinbar ohne es zu merken unsere Party ein wenig verkleinert. Das ist außerordentlich bedauerlich erklärt aber das Verhalten mindestens eines Begleiters unseres Teams. Ich frage mich ob wir die Larve irgendwie nutzen können um sie zu finden. Oder hat sich unsere kleine, süße Gith’yanki bereits in einen Gedankenschinder verwandelt jetzt wo der Schutz durch das astrale Prisma nicht mehr besteht? Das ist etwas über das ich noch keine Sekunde nach gedacht habe, aber das jemand von unserer Gruppe physisch getrennt wird könnte ein echtes Problem darstellen. Andererseits verbleiben die meisten Leute auch so im Camp und das scheint relativ egal zu sein. Zum Glück kann niemand von uns behaupten ein Geruchssinn zu haben, also marschieren wir einfach weiter. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 23, Aufnahme vom 05.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #159
+
+* Titel: `Baldur's Gate 3 - #159 - Uralter Hort [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das was wir heute als Kanalisation sehen war natürlich nicht immer das Abwassersystem. Die genaue Geschichte von Faerûn ist mir natürlich nicht bekannt aber es spricht Einiges dafür das sich die Welt auf diesem Stand der Technik bereits seit einiger Zeit befindet. Dementsprechend sind Entwicklungen wie die Kanalisation schon länger bekannt aber nicht weiter entwickelt. So gesehen hatten die alten Römer dieses Konzept ja auch bereits entdeckt. In einer Welt in der Technik aber nur mehr angewandt wird aber nicht weiterentwickelt kann man damit rechnen das die Anwendung dafür breiter ist. Das entspricht in etwa dem was wir sehen. Was wir aber auch sehen ist das es hier unten Einrichtungen und Baustile gibt die nicht zu dem der Stadt über uns passen. Wir laufen also nicht nur durch das Abwassersystem sondern auch durch die Vergangenheit der Stadt. Zu schade das wir keinen balduranischen Historiker mit in der Party haben der uns alles über die Entdeckungen erzählen könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 10.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #160
+
+* Titel: `Baldur's Gate 3 - #160 - Ferntöter des Bhaal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir stehen zwar noch nicht vor der Tür aber es gibt wohl eine Bhaal Enklave unter Baldurs Tor. Das kommt nicht völlig überraschend, die Hinweise auf die Tätigkeiten eines relativ großen Bhaalkultes haben uns bis hier her bereits  verfolgt. Richtige Infrastruktur zu finden ist allerdings noch etwas Anderes. Klar, hier und dort ein paar Kultisten die jeden Dienstag einen Raum über einem Schankraum anmieten ist eine Sache. Einen gewaltigen Tempel mit uralten Blutflecken zu haben ist hingegen etwas ganz Anderes. Mir fehlt übrigens ein wenig der Kontext was genau wir heute treffen. Anscheinend gibt es mehre Wege in den Tempel des Bhaal, oder zumindest bis zur Tür. Entweder man tötet bestimmte Leute von einer Liste oder man kämpft sich durch und zeigt damit das man stark genug ist. Es könnte allerdings auch sein das der Ferntöter eher eine Sicherheitsvorkehrung ist die Option ihn zu besiegen eher die interne Erklärung dafür ist das er versagen kann. Mittlerweile sind wir fast Level 12 und damit am Ende der Fahnenstange angekommen, quasi Halbgötter auf Faerûns Boden. Ich würde daher also schlussfolgern das der Geist des Bhaal der uns heute zu töten versucht eigentlich alle normalen Sterblichen ohne größere Probleme aus dem Leben entfernt. Oder ich überschätze unsere Macht massiv. Letztendlich schummeln wir aber wohl auch ein wenig mit den latenten Kräften der Illithiden die in uns lauern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 10.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #161
+
+* Titel: `Baldur's Gate 3 - #161 - Seelenpakt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mag die Hexenmeisterklasse nicht weil sie nur wenige Zauberslots pro kurze Rast haben, diese Stellen sich zwar wieder nach einer eben solchen kurzen Rast wieder her aber meistens braucht man all seine Zauber an einem Zeitpunkt und dann hat man nach drei Runden nur noch unheilvollen Strahl und das war es dann. Im Nahkampf taugt die Klasse auch nichts weil sie eine Glaskanone ist. Die andere Magie die zur Verfügung steht ist nur einmal pro Zauberspruch verfügbar, das alles schränkt doch arg ein. Das eigentliche Problem ist aber wohl das man seine Seele an einen Dämonen verkauft der dann zur Macht verhilft. Ich kann mir allerdings vorstellen das man als normaler Bürger der Welt eher kein Zugriff auf das Gewebe hat und dann ist wohl ein solcher Pakt die einzige Möglichkeit überhaupt etwas in der Welt zu bewegen. Insofern kann man Wyll auch verstehen, ein einfacher Krieger kann einfach nicht das leisten, besonders nicht mit 13 was ein paktierter Hexenmeister kann. Ärgerlich ist dabei aber wirklich das man anscheinend direkt seine Seele abgibt. Hier ist übrigens auch der Punkt wo ich mir unsicher bin, sieht der Pakt immer den Verkauf der Seele vor oder ist es mehr ein Handel in dem man Dienste zur Verfügung stellt und die eigene Seele eher der Pfand ist der verloren geht wenn man etwas falsch macht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 10.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #162
+
+* Titel: `Baldur's Gate 3 - #162 - Verlassene Zisterne [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin immer noch sehr darüber erstaunt das Baldurs Tor irgendwie eine funktionierende Kanalisation hat. Wir werden später erfahren das anscheinend irgendwelche Kobold-Klans dafür bezahlt werden bestimmte Dreckmengen weg zu bewegen. Das erscheint mir auch wie eine gute Fantasy-Lösung. In einer Welt in der es die verschiedensten intelligenten Rassen gibt ist ja eigentlich auch zu erwarten das es Wesen gibt die bereit sind für wenig Gold im Abfall zu arbeiten weil dies ihren natürlichen Habitat ähnlich ist. Zum jetzigen Zeitpunkt wissen wir das aber noch nicht und wir kämpfen uns eher durch größere Mengen Abfall und Schlamm durch. Immerhin sind die Abwasserkanäle nicht übermäßig feindlich. Will sagen, es könnte alles wesentlich schlimmer sein oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 10.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #163
+
+* Titel: `Baldur's Gate 3 - #163 - Unterseebootwerft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dinge die ich auf jeden Fall nicht erwartet habe bei meiner Erkundung zu finden war eine Unterseebootwerft. Wir finden noch ein paar andere Dinge heraus die wir wahrscheinlich erst später sehen wollen. Ich fürchte leider das wir hier ein wenig aufpassen müssen in welcher Reihenfolge wir Geschichten anfangen. In einem anderen Spiel namens Greedfall war das extrem, da gab es genau eine Reihenfolge für viele Quests aber es war durchaus möglich vorher an Orten an zu kommen, nur das es dann dort einfach nichts gab. Baldur’s Gate ist an sich wesentlich widerstandsfähiger, aber insbesondere hier im letzten Akt fürchte ich es einfach zu viel ist. In einer perfekten Welt würde es natürlich Pfade für jede Permutation geben aber dort sind wir nicht. Das soll es nicht entschuldigen, es ist sehr schlecht wenn die Immersion zusammenbricht. Aber ich kann mich ja immerhin bemühen nicht absichtlich zu viel an der Kulisse zu rütteln. Wir gehen also ganz schnell wieder raus. Es irritiert mich übrigens immer ein wenig quasi moderne Technik in einer Fantasy-Welt zu sehen. Logischerweise haben nicht alle Völker und Individuen Zugriff auf Magie so dass man sich andere Wege sucht. Und doch würde ich erwarten das die Welt weitaus weniger statisch wäre wenn es ständigen Fortschritt geben würde. Von der Erfindung der Dampfmaschine bis zur vollen Industrialisierung hat es nicht besonders lange gedauert. Aber vielleicht sind andere Völker auch einfach nicht so gierig, und wirtschaftlich gibt es vielleicht auch weniger Druck wenn es schon Magie hat. Oder aber, Dämonen und Götter sabotieren aktiv die weiter Entwicklung. So oder so, ich finde das immer schwer weg zu erklären außer ein „das ist jetzt so“. Was wahrscheinlich für die DnD Welt der Fall ist.
+  Ich habe ein wenig recherchiert, und damit meine ich ich habe die obersten drei Google-Ergebnisse angeklickt. Ergebnis ist wie ich es mir gedacht habe, die Leute wollen Mittelalterwelt haben und die kriegen sie. Alternative Erklärungen ist das größere, zivilisatorische Fortschritte diverse Monster, Drachen und Dämonen anlocken die dann ganz schnell die Gesellschaft nach unten ziehen. Außerdem wäre da noch zu bedenken das auch es da draußen jede Menge Ruinen von ehemaligen Reichen gibt die irgendwie untergegangen sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 10.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #164
+
+* Titel: `Baldur's Gate 3 - #164 - Ermittlerin Urquell [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erinnert sich noch jemand an den toten Kleriker, den verschwundenen Clown und den anderen Flüchtlingen die wir neulich in der Kanalisation fanden? Nun, ich tue das und deswegen reden wir heute mit Ermittlerin Urquell. Das ist die Partnerin des betrunkenen Holifanten den wir vor einiger Zeit getroffen haben. Das es sich um ein göttliches Wesen handelt das genau das Gegenteil von dem darstellt was es sein soll ist übrigens auch ein Mysterium in sich aber scheinbar Keines das wir heute oder morgen erkunden werden. Stattdessen prüfen wir nach was die gute Frau über die Bhaalisten weiß. Da wäre außerdem noch die Geschichte mit der toten Herzogin die scheinbar nicht viel mehr als eine Puppe für den Imperator war. Und dennoch hat er uns ziemlich glaubhaft vorgespielt das ihr Ableben für sie viel bedeutet hat. Das ist interessant. Was genau der Imperator will weiß ich übrigens immer noch nicht, aber ich habe Zweifel. In die andere Richtung tatsächlich, also die das er uns tatsächlich helfen will bzw. natürlich will er das, aber das er nicht 100% eigennützig arbeitet. Klar, er zielt auf seine eigenen Ziele ab und braucht unsere Hände um für ihn zu handeln, aber eventuell meint er es ernst damit das er der Welt nicht direkt schaden will. Dazu erfahren wir aber heute nicht mehr, stattdessen finden wir heraus das die flammende Faust als zivile Hilfskraft eher keinen Wert für den normalen Bürger hat. Adelige sind einfach so viel mehr wert das die Ermittlerin sofort weg läuft als sie erfährt das wichtige Leute auf der Todesliste stehen. Großartiges Rechtssystem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 10.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #165
+
+* Titel: `Baldur's Gate 3 - #165 - Pressefreiheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Konzept der vierten Gewalt macht nicht wirklich Sinn wenn man keine Gewaltentrennung im politischen Aufbau der Stadt hat. Welche Staatsform man Baldurs Tor am ehesten zurechnen kann vermag ich nicht zu sagen. Aber Demokratie mit getrennter Staatsmacht und Justiz ist es definitiv nicht. Wir wissen das die flammende Faust Ermittlungen und dann anscheinend auch Vollzug der Strafen durchführt, eventuell gibt es bei politisch wichtige Fällen noch einen Herzog der die gesamte Geschichte überwacht, aber für das normale Volk ist die flammende Faust wohl der „one-stop-justice“ Punkt wo man alles machen kann, von der Verhaftung bis hin zum Verhungern im nahen Kerker. Die Faust selbst ist defacto eine Privatarmee mit Geschichte die eher einer privatisierten Staatsmacht ähnelt als einem Vehikel einer demokratisch legitimierten Regierung. Allerdings scheint es eine Art Proto-“Demokratie“ mit Sternchen zu geben. Wenn eine bestimmte Sache das Volk zu sehr aufbringt könnte es durchaus sein das daraus auch eine Veränderung erwächst. Insofern ist eine funktionierende Propagandamaschine um den Volkszorn zu lenken außerordentlich wertvoll. Und das bringt uns zu Baldurs Ohr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 24, Aufnahme vom 10.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #166
+
+* Titel: `Baldur's Gate 3 - #166 - Meerviecher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur weil Faerûn eine grob mittelalterliche Welt mit erhöhten Zerstörungspotenzial ist heißt das ja nicht das es nicht auch gebraucht wird. Die Welt außerhalb der Mauern der Stadt kann ziemlich mörderisch sein. Drachen die ganze Kleinstädte alleine einäschern können. Eulenbären die jeden Bauern einfach verschlingen können und marodierende Goblinhorden machen das Leben auch auf dem Land zu keinem Zuckerschlecken. Das Leben ist kurz und nicht wenige Wesen trachten danach diesen Zustand aktiv zu verkürzen. Es hat vielleicht seinen Grund warum die industrielle Revolution noch nicht abgehoben hat. Aber auch wenn man sich innerhalb der Stadt befindet heißt das ja nicht das man sicher ist, zumindest wenn man sich in der Unterstadt und schlimmstenfalls sogar noch am Hafen aufhält.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 17.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #167
+
+* Titel: `Baldur's Gate 3 - #167 - Waffen & Wein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt dort draußen noch eine Menge Häuser die wir noch nicht besucht haben, und als außerordentlicher Mörderhobo besuchen wir natürlich jedes einzelne Haus, schon um zu schauen was die Leute so Schönes für uns verborgen haben. Stellt sich doch glatt heraus, eine ganze Menge. Und viele der ach so braven Bürger von Baldurs Tor sind gar nicht einmal so brav. Mal davon abgesehen das die Hälfte von ihnen bereits in ihren eigenen Häusern ermordet wurde. Da wäre zum Beispiel der eine Typ der ein wenig zu nahe an den Geheimnissen von Gortash dran war. Und dann wäre da noch der andere Typ der direkt für Gortash infernalisches Metall an den Mann gebracht hat. Offiziell natürlich ein Weinhändler par excellence der Mann. Aber in seinem Keller lauert das Verbrechen. Es ist doch immer wieder erstaunlich was man so alles findet wenn man die Keller der Leute durchsucht. Ich wollte grade schreiben das ein Spiel in dem man die Inquisition ist bestimmt auch interessant ist, aber, das Spiel existiert ja schon und heißt Tyranny. Zumindest ist dessen Inhalt schon ziemlich nahe dran.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 17.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #168
+
+* Titel: `Baldur's Gate 3 - #168 - Unterstadtrundgang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte das es jede Menge Häuser gibt die wir in der Unterstadt noch untersuchen können. Natürlich dauert nicht jedes Einzelne davon 30 Minuten, manchmal sind die Leute doch schon eher das was sie zu sein scheinen. Und dann gibt es natürlich auch noch eine Menge mehr Gebäude die wir eher nicht betreten können weil das den Rahmen sprengen würde. Und sein wir einmal ehrlich, spätestens nach dem dritten Haus würde es ein wenig langweilig werden. Klar, jedes Leben ist einzigartig und jede Geschichte anders. Aber wenn man genügend Einzelschicksale gesehen hat dann bilden sich Muster und Wiederholungen. Und wenn man dann nicht in eine bestimmte Person investiert ist, dann ist das auch nicht besonders spannend. Insofern bin ich recht dankbar dafür das die Häuser die ich betrete auch etwas zu berichten haben. Meistens jedenfalls. Die Welt ist voller Dinge und die werden wir uns jetzt anschauen, langsam, systematisch. Stück für Stück.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 17.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #169
+
+* Titel: `Baldur's Gate 3 - #169 - Überlebende der Vettel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir damals das Lager von Tante Ethel leer geräumt haben da fanden wir auch Briefe. Tantchen stand anscheinend in Kommunikation mit anderen Vetteln oder zumindest eben so verdorbenen Wesen die ihre Ansichten und Perversionen teilten. Ursprung dieser Nachrichten war wohl Baldurs Tor aber keine Namen wurden genannt oder weitere Anhaltspunkte die uns jetzt dienlich sein könnten. Oder vielleicht auch doch, aber ich habe natürlich alles vergessen und, machen wir uns nicht lächerlich, ich werde jetzt nicht den gewaltigen Stapel an Dokumenten durchschauen den wir haben, nicht ohne ein besseres Verwaltungssystem zu haben. Aber das muss ich gar nicht. Es gibt ja noch den Verein der Vettelüberlebenden. Gleichgesinnte die ihre Ärger darüber kund tun das sie einst in die Arme bzw. Klauen einer Rabenvettel gelaufen sind. Anscheinend gibt es ja mehr als nur die grüne Vettel. Allerdings ist ein solcher Verein auch ein gutes Ziel für eben jene Wesen die sie überwunden zu haben glauben. Das macht mir ein wenig Sorgen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 17.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #170
+
+* Titel: `Baldur's Gate 3 - #170 - Kapitän Grimmig [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt scheinbar immer noch ein Vettelproblem und so wie es aussieht hatte ich die eine Vettel die wir beim letzten Mal bereits kennen gelernt hatten leicht unterschätzt. Wer hätte gedacht das es sich hier um trickreiche und gemeine Wesen handelt die alles dafür tun ihren eigenen Tod zu vermeiden und Feuerball ins Gesicht nicht als letztes Wort akzeptieren. Ein kleines Mädchen wir vermisst aber scheinbar weiß nur ihre Mutter überhaupt das dieses Kind jemals existiert hat. Jetzt gibt es hier zwei Möglichkeiten, entweder unsere Vettel ist mächtig genug einen Geist so subtil und nachhaltig zu manipulieren das jemand glaubt das sie ein Kind hatte, mit all den Erinnerungen, Namen und Dingen, und wahrscheinlich einer perversen Freude an der Qualen dieser Person. Oder aber das ein paar wichtige Personen manipuliert wurden um die Mutter unglaubwürdig hin zu stellen. Die Tatsache das die Vertreterin der flammenden Faust aber alle paar Sekunden die Erinnerung verliert steigert die Glaubwürdigkeit der Mutter enorm. Insofern können wir wohl davon ausgehen das Vetteln keine völlig überlegende Intelligenzen sind sondern einfach nur unglaublich grausam. Das Ende unserer Ermittlungen führt uns zu Kapitän Grimmig, eine Person mit der wir sogar schon kurz gesprochen hatten. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 17.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #171
+
+* Titel: `Baldur's Gate 3 - #171 - Vanras Rettung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vanra existiert. Das ist schon einmal ein Stück Information das wir uns mühsam erkämpft haben. Außerdem ist die Vettel mit der wir es zu tun haben anscheinend schon wieder Tante Ethel, eine unpraktische Tatsache die bedeutet das wir Vetteln wirklich nicht so einfach töten können. Zudem wir auch noch Dinge über den Fortpflanzungszyklus von Rabenvetteln erfahren. So wie es aussieht sind sie keine echte, eigene Rasse sondern eher so etwas wie verfluchte Menschen bzw. wahrscheinlich eher Humanoiden. Wir haben erfahren das eine Vettel ein Kind auffrisst und dann irgendwann später das Kind als junge Vettel gebiert. Wie das dann genau aussieht wissen wir nicht und wie die Veränderung genau abläuft auch nicht. Interessant wäre auch zu wissen ob es unbedingt ein Mädchen sein muss oder ob das Geschlecht des Kindes eigentlich egal ist und es ähnlich wie bei den Gedankenschindern eigentlich nur als Gerüst für das finale Wesen gebraucht wird. Viele offene Fragen die wir aber alle nicht beantwortet haben wollen. Daher recherchieren wir noch ein wenig, versuchen ein paar Geheimnisse zu erfahren und schlagen dann zu. Mich ärgert bei diesen Begegnungen übrigens immer wieder das wir nicht mehr stärker werden können. Wenn es jetzt schwer geht, wird es nicht mehr leichter gehen in Zukunft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 17.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #172
+
+* Titel: `Baldur's Gate 3 - #172 - der Aasmystiker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als Totenbeschwörer hat man es oft nicht leicht, das allgemeine Stigma umgibt einen dauerhaft und der fackelschwingende Mob ist oft nicht besonders fern. Daher muss man sich wohl oder übel in den Untergrund begeben und vor der Öffentlichkeit verstecken. So auch der Aasmystiker von dessen Existenz wir irgendwie durch Zufall erfahren haben nachdem wir irgendwelche Leichen geplündert hatten. Technisch gesehen haben wir sogar vorher schon von ihm gehört, nämlich als wir sein Hirn in einem Glas gefunden hatten. Das ist aber für den Moment nicht so wichtig, es stellt sich doch glatt heraus das der feine Herr Aasmystiker wohl einige Dinge in der Stadt bewegt, zum Beispiel hat er auch irgendwie Kontakt mit unserem besten Freund und Künstler Oskar Fevras gehabt. Die Ghule die er im oberen Stockwerk seines Hauses aufbewahrt sich allerdings weniger bejahend und ich fürchte ich werde den großen Mystiker des Aases früher oder später töten müssen. Nachdem sich seine Nützlichkeit erschöpft hat, für den Moment werden wir wohl seine Expertise noch brauchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 25, Aufnahme vom 17.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #173
+
+* Titel: `Baldur's Gate 3 - #173 - interessante Mordopfer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir fällt grade mit einiger Verspätung auf das ich in einer Beschreibung von vor ein paar Tagen ein wenig vorgegriffen habe. Aber jetzt ist es auch „zu spät“. Und damit meine ich das ich zu faul bin um irgendetwas dagegen zu tun. Aber Eines nach dem Anderen. Es sind nicht mehr so viele Häuser übrig die wir noch nicht erkundet haben und die die es noch gibt sind auch nicht so groß, keine Anwesen in denen eine ganze Horde Geister spuken könnte oder so. Neben interessanten Leichen finden wir heute auch interessante Lebende Personen mit einer Mischung aus Körper-Horror und noch viel interessanteren Notizen die sich mit Experimenten von Gedankenschinderlarven auseinander setzen. Leider sind wir bei dem Thema immer noch nicht wirklich weiter als wir es seit Anfang des Spieles sind. Nichts scheint zu helfen weil unsere Larve eine andere Art von Magie nutzt als das was in der Welt üblich ist. Rein technisch gesehen meine ich aber auch immer noch das die Mischung aus Sterben und wahre Auferstehung eigentlich unser Problem lösen sollte. Die Larven scheinen das Gehirn zu verlassen wenn der Wirt stirbt, insofern sollte das doch eigentlich genau so funktionieren wie man es erwartet. Jetzt braucht es nur noch ein wenig Vertrauen in unsere Gefährten und für knapp 500 Gold könnten wir alle frei sein. Aber ob wir dann überhaupt noch Zugriff auf die Dienste von Lazarus haben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 19.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #174
+
+* Titel: `Baldur's Gate 3 - #174 - zu Besuch in Gortashs Gemächer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn wir ein wenig zurückdenken erinnern wir uns vielleicht daran das der gute jetzt Erzherzog Gortash uns ein gutes Angebot gemacht hat. Anscheinend wäre er absolut willens mit uns die Macht zu teilen wenn wir nur für ihn Orin ausschalten. Das klingt ein wenig zu gut um wahr zu sein und daher ist in dieser Richtung noch nicht so viel geschehen. Als wir aber damals eine Wahrnehmungsprüfung gemacht haben kam heraus das er es wirklich ernst meint. Nachteilig ist natürlich das wir immer noch eine Gedankenschinderlarve im Kopf haben und das verschafft uns doch eher einen Nachteil. Und doch...Gortash hat Angst. Warum genau können wir nur vermuten aber sicher wissen wir es eben nicht. Der Besuch bei seinen Eltern hat aber gezeigt das er dazu neigt viele Aufzeichnungen anzufertigen. Eine Schwäche die wir ausnutzen können. Alles was wir tun müssen ist also seine Gemächer auf zu suchen und eben jene Unterlagen die seine Strategie besprechen durch zu lesen. Ich gebe zu das ich hier ein wenig savescumme und ich fühle mich ein wenig schlecht. Allerdings ist der Verlauf der Dinge wenn man von seinem Tisch klaut auch ein wenig unlogisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 19.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #175
+
+* Titel: `Baldur's Gate 3 - #175 - Haus der Trauer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man merkt daran das wir uns dem Ende nähren weil wir jetzt langsam aber sicher einige Geschichten abschließen. Da wir selber Schattenherz und nicht irgendein Tav sind (ich musste das übrigens googlen, anscheinend ist Tav der Standardname wenn man gar nichts wählt, das war mir nicht bekannt) sehen wir alles aus der Innenperspektive. Ich muss übrigens sagen das das ein wenig seltsam ist weil die ganze Performance von Jennifer English ein wenig im internen Dialog verloren geht und uns stattdessen Amelia Tyler unterhalten muss die allerdings ein wenig distanzierter ist, schon weil sie es ja nicht selber ist. Aber ich greife vor, für den Moment nähern wir uns erst einmal dem Haus der Trauer, scheinbar einer Front für die Anhänger Shars in Baldurs Tor. Der Ort an dem Schattenherz ihre gesamte Jugend, und weil sie ein Halbelf ist, wahrscheinlich mehre Jahrzehnte verbracht hat. Und als guter Todeskult lässt man natürlich auch nicht zu das die jungen Rekruten all zu früh wieder heraus gelassen werden. Ich vermute also das sie die Außenwelt nur sehr selten und unter kontrollierten Umständen gesehen hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 19.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #176
+
+* Titel: `Baldur's Gate 3 - #176 - Viconia DeVir [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mich darüber informieren lassen das, wenn man Baldur’s Gate 1 und 2 gespielt hätte, man Viconia DeVir kennen würde. Ich tue es nicht weil ich es halt nicht getan habe. Wir erleben hier aber etwas sehr Wichtiges. Larian bindet alte Charaktere in die Geschichte ein um zusätzliche Punkte bei der Crowd abzuholen die hier voller Nostalgie durchwandern. Für mich ist diese Drow aber absolut bedeutungslos, eine Kultanführerin die sich anscheinend gegen den expliziten Willen ihrer Göttin gestellt hat aber dennoch weiter machen kann. Welche Rolle und Geschichte Viconia exakt hat vermag ich nicht zu sagen. Wir erfahren das sie vorher in Tiefwasser aktiv war und dann, so lesen wir später in ihren Unterlagen, das Shar selbst oder irgendwelche Umstände sie dazu zwangen neu anzufangen. Ich nehme mit das Götter launisch sind und wenn man aus irgendwelchen Gründen nicht in die persönlichen Pläne passt jede Menge an Hingabe einfach nicht ausreicht. Ich würde fast behaupten das auch Götter einige ihrer Anhänger ein wenig zu fanatisch finden und ein Mittelmaß oder zumindest eine moderierte Höhe an Anbetung anstatt blinden Fanatismus bevorzugen. Wahrscheinlich schon alleine weil die Rekrutierung von mehr Gläubigen wesentlich einfacher ist wenn die eigenen Anhänger nicht geifernde Zeloten sind.
+  
+  Ein bisschen Meta und Off-Topic übrigens, es ist sehr praktisch sowohl Englisch als auch Deutsch parallel zu nutzen. „Baldur’s Gate“ ist offensichtlich das Spiel und „Baldurs Tor“ ist der tatsächliche Ort innerhalb der Spielwelt. Irgendeinen Vorteil muss unser bilinguales Abenteuer hier auch haben oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 19.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #177
+
+* Titel: `Baldur's Gate 3 - #177 - Kloster der Düsteren Umarmung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Anbetung von Shar könnte in der Theorie auch etwas Gutes sein. Zumindest wenn Religionen in Faeûn so funktionieren würden wie sie es in unserer Welt tun. Die zentralen Prinzipien der Anbetung sind die Abwesenheit von Trauer, Kummer oder Verlust, quasi der Verlust selbst. Und auch wenn viele diesweltliche Experten eher dazu raten sich mit seinen Verlusten und Trauergeschichten auseinander zu setzen so scheint es mir nicht völlig abwegig das es vielleicht auch eine ganz gute Idee sein könnte einfach alles zu vergessen und sich anderen Dingen zu zu wenden. Wie nachhaltig das Alles ist vermag ich für den Moment nicht zu sagen, aber wenn man eine Gemeinschaft hat die einen hier ein ganzes Leben begleitet, vielleicht klappt das auch. Solange die schlechten Erinnerungen mit neuen Überdecken bis man von dem alten Zeug quasi nichts mehr hat. Außerdem gäbe es da ja noch die Magie die es ermöglichen würde hier ein wenig permanent nach zu helfen. Für eine solche Religion die den Verlust und das Loslassen predigt könnte man wohl auch irgendwie in der breiteren Bevölkerung eine Nische finden. Und irgendwie ist das auch die Front die das Haus der Trauer gefahren ist. Allerdings wären wir dann nicht bei der Reaktion auf Shariten die wir sonst haben. Weil da wäre noch das Zeug mit dem Vergießen von Blut der Selûniten, den ewigen Zwist der Schwestern oder das rituelle Opfern der eigenen Erinnerungen auch wenn diese nicht schlecht sind. Das rituelle Lehren von Kampf, Heimlichkeit und Verhörtechnik könnte sicherlich den ein oder anderen Stadtstaat auf der Suche nach Geheimdienstexperten ansprechen. Die Jünge des Loviatar scheinen sich ja auch an Beliebtheit zu erfreuen wenn man einen Folterexperten braucht. Hier predigt Shar übrigens das man effizient sein soll und sich nicht den Gefühlen hin geben. Quasi ein Pluspunkt, auch wenn die Opfer ihn wohl nicht zu schätzen wissen werden. Das eigentliche Problem an der Sharanbetung ist also eigentlich Shar selber die ihre Anbeter dazu bringt ziemlich grauenhaft zu sein und in eine sehr tangentialen Richtung zur Gesellschaft zu locken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 19.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #178
+
+* Titel: `Baldur's Gate 3 - #178 - Totenbeschwörung für Anfänger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #179
+
+* Titel: `Baldur's Gate 3 - #179 - Friedhof, Krypten und Lustgärten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So eine Stadt besteht ja aus mehr als nur ein paar Leute die darin wohnen. Neben all den vielen Wohnhäusern und den Menschen die irgendwo herum laufen gibt es selbstverständlich auch Geschäfte, und noch viel wichtiger, Gärten, Plätze und Infrastruktur. All die schönen Sachen die das Leben lebenswert machen. Oder zumindest das Stadtleben angenehmer. Man stelle sich vor man hätte nur dicht gepackte Gebäude und sonst gar nichts. Ganz am Anfang haben wir ein Buch gefunden das irgendwelche Bauern vor der großen Stadt warnt, ob sich Leute wirklich so das Leben vorstellen? Letztendlich wäre es auch nicht so einfach als einfaches Landei in die große Stadt zu gehen, aber die Dichte an Diensten ist ja der Grund überhaupt in ihr zu leben. Wo wäre ein angehender Totenbeschwörer ohne eine gut gefüllte Krypta, oder was würde ein Poet ohne die Lustgärten der Stadt machen? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 26, Aufnahme vom 19.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #180
+
+* Titel: `Baldur's Gate 3 - #180 - Dolors Gewandung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die richtige Kleidung bedeutet quasi alles. Wir wissen aber auch das ein ordentlicher Haarschnitt und Körperbau auch den letzten Fetzen gut aussehen lassen können. Generell und überhaupt glaube ich das der Ausspruch „Kleider machen Leute“ eine frühe Version von Marketing seitens der Schneidergilden der Welt sind. Und doch gibt es genügend Leute die sich von entsprechend ansprechender Klammote durchaus überzeugen lassen. Und damit meine ich nicht nur sehr knappen und dünnen Stoff auf weiblichen Rundungen. Noch immer glaubt man das Leute im Anzug hoch seriös sind obwohl doch eigentlich jeder Bänker genau dieses Kostüm trägt, eine Berufsgruppe die nicht für ihr gesellschaftliches Ansehen bekannt ist..oder zumindest sollte. Mit all diesen Wissen gehen wir heute dennoch in ein Kleidungsfachgeschäft, hier erwartet uns eine große Überraschung, und ich meine nicht den Preis der angebotenen Waren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 22.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #181
+
+* Titel: `Baldur's Gate 3 - #181 - Elarrathin-Residenz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wissen nicht viel über unsere Begleiter. Klar kennen wir ihre Fähigkeiten und was sie in einem Kampf mit auf den Tisch bringen können, aber was wissen wir wirklich über sie selbst? Was wissen wir von ihrem Privatleben und was sie früher einmal getrieben haben? Für uns selbst, also hier Schattenherz haben wir mittlerweile Einiges erfahren nachdem absolut nicht klar war was eigentlich Phase ist was aber immerhin erklärt werden konnte. Was Gale in seiner Vergangenheit in Tiefwasser getrieben hat ist relativ klar aber Details sind uns auch nicht bekannt. Und so geht es immer weiter bis zu unserem neusten Begleiter Jaheira. Wir wissen das ihr Abenteuer eigentlich schon vorbei ist und doch ist sie an unserer Seite. Aber theoretisch müssten da draußen Kinder, Familie und Freunde sein. Nicht nur die Harfner die sie anführt, mehr als nur ein paar idealistisch Söldner. Wenn man so alt wie Jaheira ist kennt man Leute und es ist quasi ein Wunder das wir noch niemanden getroffen haben. Heute ändert sich das.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 22.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #182
+
+* Titel: `Baldur's Gate 3 - #182 - Jannath Anwesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir befinden uns technisch gesehen immer noch in der Unterstadt, also den Teil der Örtlichkeit in der unter allen Umständen auch der letzte Pöbel eingelassen wird. Wenn man nicht vorher beim Versuch die Wyrmbrücke zu überqueren blockiert wird. Wie genau das Stadtsystem in Baldurs Tor funktioniert vermag ich aber sowieso nicht zu sagen. Es ist ziemlich wahrscheinlich das unter normalen Umständen einfache Bürger durchaus auch ihre Geschäfte in der Oberstadt verrichten können und es nur den besonderen Umständen und der drohenden Invasion geschuldet ist das Zugänge so blockiert werden wie sie es werden. Und doch frage ich mich warum eine angesehene Familie wie die Janaths ein Haus, vielleicht sogar das Haus hier in der Unterstadt betreiben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 22.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #183
+
+* Titel: `Baldur's Gate 3 - #183 - Poltergeist [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Übernatürliche ist in unserer Welt deshalb so interessant weil ansonsten alles irgendwie langweilig ist. In einer lang vergangenen Zeit dachte man das Menschen in fremden Ländern völlig anders aussahen oder das es in Afrika eine ganz andere Welt sei. Heutzutage ist dieser Zauber des Fremden wesentlich schwächer, auch weil wir ein Stück näher zusammengerückt sind, aber auch weil die fantastischen Dinge wesentlich weniger wahrscheinlich sind. Wenn jetzt plötzlich die Möbel fliegen ist das neben der offensichtlichen Traumagefahr auch ziemlich spannend. Etwas das die normale Physik verletzt ist enorm spannend und verlangt weitere Untersuchung. Unter Umständen könnte es bedeuten das alles was wir über die Welt wissen falsch ist und sich ein völlig neuer Ansatz bietet. In Faerûn deutet eher alles darauf hin das mächtige Nekromantie am Wirken ist und irgendetwas aus der Fugenebene Dinge tut. Wenn man sich die Stärke der Wesen anschaut die wir heute vorfinden handelt es sich allerdings schon um einen starken Ausbruch des Untoten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 22.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #184
+
+* Titel: `Baldur's Gate 3 - #184 - Bessene Künstler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man normalerweise davon spricht das ein Künstler besessen ist dann meint man eher damit das sie eine Idee oder Vision plagt und sie an nichts Anderes mehr denken können. Ich kann das irgendwie auch verstehen, wenn ich selbst auch eher weniger mit solchen Phänomenen zu tun hatte. Zumindest nie so stark, aber ich glaube wie es sich anfühlen könnte. Und so gesehen war bzw. ist der gute Oskar ja auch besessen. Sogar in mehrfacher Hinsicht, einmal ganz klassisch von einer Idee und dann auch noch einmal ziemlich klassisch von einem Geist. Wie wir mittlerweile wissen hat er sich das wohl selber zu gefügt weil er ein verdammter Egomane ist und einfach nicht los lassen kannte. Ich weiß übrigens immer noch nicht was mit den Toten in der Fugenebene geschieht, aber ich würde vermuten das sie nicht ewig dort bleiben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 22.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #185
+
+* Titel: `Baldur's Gate 3 - #185 - Kerris traurige Gedanken [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte bereits das Oskar ein ziemlich egoistischer Typ ist der vor allen Dingen sich selber im Mittelpunkt der Geschichte sieht. Das trifft auch auf einen Vorfall mit einer jungen Frau namens Kerri zu die scheinbar einst mit Oskar das Bett geteilt hat und die wohl die Person ist an die er gedacht hast als er im Angesicht der drohenden Hochzeit mit Dame Jannath aus der Stadt floh. Zwischenzeitlich war er sich wohl ziemlich sicher das er eigentlich doch wieder zurück in die Stadt will, wohl größtenteils auch weil seine Liebschaft mittlerweile tot war. Und natürlich glaubte er das er daran schuld war, weil Kerri über die kurze Liebschaft nicht hinweg kommen konnte und schmachtend den Freitod wählte. In der Realität war es natürlich ein wenig anders aber das spielt ja erst einmal keine Rolle, für Oskar sowieso nicht. Interessant finde ich aber das man Geister mit genügend Aufwand und den richtigen Worten wieder auf diese Ebene einnorden kann und quasi sie bei vollsten Verstand zurück erhält. Wenn die Seele willens wäre könnte man sie wahrscheinlich auch wieder verpflanzen. Aber das ist dann wohl erweiterte Nekromantie und so richtig Ahnung haben wir da auch nicht von..mal davon abgesehen das Kerri wohl nicht mehr so einfach zu retten wäre. Tragisch. Wirklich, die ganze Geschichte hat mich schon nachdenklich gemacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 22.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #186
+
+* Titel: `Baldur's Gate 3 - #186 - Baldurs Verladehafen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich die Geschichte richtig gelesen habe, dann hat das alles mit Baldurs Tor angefangen weil ein mächtiger Held namens Balduran so manche Heldentat verbracht hat und das was früher quasi nur der Abschnitt um das eine Tor der Stadt die vorher hier war ist wesentlich reicher geworden und daraus wurde dann die Stadt die es heute ist. Allerdings scheint man den Namen Baldurans auch so oft und überall zu Ehren. Ich finde es daher absolut nicht abwegig das auch kleinere Dinge im Namen Baldurans benannt wurden. Zum Beispiel der graue Hafen oder wie auch immer der Ort eigentlich richtig heißt den ich heute besuche. Es ist logischerweise sowieso Baldurans Verladehafen und dort finden wir sogar einen alten Bekannten der sich scheinbar Ärger eingehandelt hat. Ich weiß übrigens wirklich nicht warum, klar, es gibt eine Menge Gründe den guten Volokamp irgendwie böse zu sein, aber außer das er ein mittelmäßiger Lügner mit Hang zur Selbstüberschätzung ist scheint er sich wirklich nicht viel zu Schaden kommen lassen. Ob die Absolute einfach nur gründlich ist oder hat Gortasch hier einen tieferen, persönlichen Wunsch den Schriftsteller leiden zu lassen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 27, Aufnahme vom 22.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #187
+
+* Titel: `Baldur's Gate 3 - #187 - Gildenhalle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gilden sind eine Art von Protektionismus. Außerdem stellen sie sicher das wenn man einen Handwerker engagiert gewisse Standards getroffen werden. Das ist nicht die offizielle Definition sondern das was ich im Kopf habe und wie ich meine das es ist . Die Realität kann anders aussehen. In der Theorie hat das System viel Gutes, schon weil es sicher stellt das gewissen Mindestansprüche getroffen werden und nicht jeder die Preise unterbieten kann. Ärgerlicherweise gilt das aber auch umgekehrt, je nach Organisationsgrad kann die Gilde genau bestimmen wer etwas tun darf und wie viel es kostet. Außerdem neigen Gildenmeister zu Korruption, nicht durch ihre Position sondern weil die Position Macht bringt und da wären wir wieder bei dem alten Spiel. Auch schwierig wird es wenn wir uns in schnellen Zeiten befinden. Eine Institution die Stabilität bewahrt kann nicht gleichzeitig Innovation umsetzen, aber ihre Anwesenheit unterdrückt Neuerungen durch Dritte. Veränderungen müsste also vom Inneren kommen, und es ist nie gesagt das die Aufnahme in eine Gilde einfach, günstig oder gar egalitär ist. All das ist aber für Baldurs Tor egal, die Gilde ist in diesem Fall die Diebesgilde und die scheinen jeden zu nehmen der bereit ist sich lose mit zu organisieren. Soweit wir wissen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #188
+
+* Titel: `Baldur's Gate 3 - #188 - Neunfinger Astele Keene [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben irgendwann die bewusste Entscheidung getroffen Jaheira mit zu nehmen. Eine Entscheidung die dazu geführt hat das wir so manche Tür die wir sonst hätten eintreten müssen mit Handkuss geöffnet kriegten. Nicht jeder war ganz so zuvorkommend aber man sieht doch schon eine gewisse Präferenz für die Begleiter einer bekannten Heldin. Die richtigen Leute wissen wer sie war und was sie tat und vielleicht noch tun könnte. Das die Druidin in den Schatten von Reithwin beinahe ihr Ende gefunden hätte wissen nur wir und so treten wir heute vor der Anführerin der Diebesgilde, nicht gebeugt sondern stolz erhoben und dabei nicht als Feind betrachtet, schon weil wir eine bekannte Größe dabei haben. Das hätte auch anders laufen können. Aber auch gut das wir uns nicht besonders heldenhaft fühlen, andernfalls gäbe es nur eine Lösung wie wir mit den diebischen Bewohnern der Kanalisationshallen umzugehen hätten. Zum Glück sind wir moralisch flexibel. Aber Diebe brauchen Glück, also überrascht es auch nicht das Astele Keene einmal mehr Glück hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #189
+
+* Titel: `Baldur's Gate 3 - #189 - das Kontor [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsere eigentliche Mission ist es immer noch Minsc zu finden und bis jetzt haben wir da nicht all zu viel Glück gehabt, immerhin ist unsere Suche bei der Diebesgilde nicht völlig leer ausgegangen und wir haben eine nächste Adresse an die wir uns wenden können. Ich bin übrigens recht glücklich das wir uns die städtische Bank nicht vorher schon angeguckt haben, sonst hätten wir am Ende Inhalte vorweg genommen. Zu der Bank selbst kommen wir übrigens beim nächsten Mal noch einmal im Detail, für den Moment finde ich es wichtig zu diskutieren das es nicht ganz wichtig ist in welcher Reihenfolge man die Dinge tut. Klar, ich gebe mir jetzt Mühe alles in seinen vorgegebenen Gang zu tun, aber wenn wir zu erst in der Bank gewesen wären und erst später in der Diebesgilde wäre es ein leichtes gewesen sich vorzustellen das wir genau in dem Moment in der Neunfinger die Falle hat zuschnappen lassen ankamen. An sich ist meine Art zu spielen sogar anstrengender und ich würde argumentieren das es angenehmer wäre sich einfach fallen zu lassen und die Dinge auf sich zukommen zu lassen anstatt dauernd zu laden um sicher zu sein das alles nach Plan wie eine Perlenkette läuft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #190
+
+* Titel: `Baldur's Gate 3 - #190 - Bankraub [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  „Was ist ein Einbruch in eine Bank gegen die Gründung einer Bank?“.  Dieses Zitat aus der Dreigroschenoper von Berthold Brecht kommt mir öfter in den Kopf wenn ich an Banken denke. Und damit wäre der Kulturauftrag dieses Jahr auch wieder erfüllt. Rein praktisch gesehen ist eine Bank eine logische Institution, ein Ort an dem Leute ihr Geld lagern weil private Mittel oder das Kopfkissen ab einer bestimmten Menge nicht mehr adäquat sind. Außerdem gibt es noch das zusätzliche Problem das eine Bank auch dabei helfen kann Gold das auf eine bestimmte Materie basiert, meistens Gold durch eine Substitution zu ersetzen. Die Bank garantiert das ein Exemplar des fälschungssicheren Ersatzes eine bestimmte Menge der schweren Materials wert ist. Der nächste Schritt ist es dann mehr solche Ersatzmarken auszugeben als es eigentlich Materie gibt weil ja nie alle Leute gleichzeitig ihre Materie wollen. Mit dem virtuellen Ersatzdings, nennen wir es einmal Geld, kann man aber dennoch so arbeiten als wäre es die Materie. Im nächsten Schritt entkoppelt man dann das Geld vollständig von irgendwelchen schweren Dingen und schon hat man quasi eine moderne Bank. Es geht noch ein wenig weiter aber Faerûn ist in Sachen Bankwesen noch beim ersten Schritt, dem Einlagern von schweren Dingen und anderen Wertgegenständen.  Irgendwo hier kann man definitiv falsch abbiegen, aber für den Moment ist es sehr lohnenswert tatsächlich in den Tresor einzubrechen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr Baldur's Gate 3 auf dem Montags Slot. Sitzung 28, Aufnahme vom 10.01.2024 Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #191
+
+* Titel: `Baldur's Gate 3 - #191 - Geldhafen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor zwei Episoden habe ich darüber geredet das es mir enorm wichtig ist einzelnen Quests in der richtigen Reihenfolge anzugehen damit ein Konzept namens Immersion geachtet wird. Man sieht wie ernst es mir mit diesen Dingen ist wenn ich anfange einfach irgendwelche Leute umzubringen. Ich finde es ein wenig ironisch das die Bank als Institution fest in der Hand der Diebesgilde ist, überraschen tut es mich allerdings nicht. Das Gortasch als großer Fürst natürlich auch seine Wachen hier abstellt finde ich weniger erbaulich, und das hier Schiffe aus den Türmen des Mondaufganges anliegen noch weniger. Mir fällt grade spontan ein das im zweiten der Nolan Batmanfilmen die Banken auch der Mafia gehören und als der Joker am Anfang die Bude überfällt der Bankier genau damit droht. Was mich also viel mehr überrascht ist das es in Baldurs Tor nicht mehr „White-Collar Crime“ gibt.  Die Diebesgilde die anscheinend alles hier kontrolliert wohnt noch in den Abwässerkanälen und nicht in den Palästen der Gesellschaft. Ein wenig anachronistisch, aber ich nehme mich in meiner Kritik zurück, wir wollen eine Fantasiewelt und keine Dystopie oder? Wie dem auch sei, die Wachen der Bank, zumindest teilweise, glauben wirklich das sie für eine ehrliche Einrichtung arbeiten. Ihr Tod ist definitiv ein Verbrechen das ich als strahlender Held nicht weg diskutieren kann. Andererseits, bis vor ein paar Tagen waren wir noch fanatischer Shar-Anhänger und Selûne scheint mir auch nicht die größte aller Moralaposteln zu sein, zumindest ihr Avatar ist recht mörderisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 10.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #192
+
+* Titel: `Baldur's Gate 3 - #192 - Dockturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So weit ich das verstanden habe war der Kampf unten im Kloster der Trauer der Schwerste oder sollte zumindest der Schwierigste sein. Meine neueste Herausforderung ist es aber so wenig Ressourcen in einem Kampf wie möglich zu verbrauchen, und ich muss sagen das es erstaunlich schwer wird wenn man nicht andauernd Zugriff auf Level 6 Feuerbälle hat. Allerdings bin ich generell und überhaupt kein großer Plan des Magiesystems von Dungeon und Dragons, ich habe mir allerdings auch noch nicht angeschaut wie es in anderen Pen & Paper Spielen gehandhabt wird. Nach meinen Verständnis gibt es im Spieldesign das grundlegende Problem das Spieler bzw. der DM auf alle Details und sich ändernde Zahlen aufpassen müssen. Das kann, selbst wenn man es aufschriebt, schnell zu Problemen führen. Daher gibt es System wie die Spellslots in DnD die es wesentlich einfacher machen aus Erinnerung zu rekonstruieren was einst geschah. Hätte man dynamisches Mana das vielleicht sogar noch über Zeit regenerieren würde wäre das Komplexität die zusätzlich zu vielen anderen Dingen den Spielfluss und damit die Geschichte durch  Mathe aufhalten. Das wir nach einer ganzen Episode Bankhafen erst jetzt am Dockturm sind liegt aber nicht an Mathe, das macht das Spiel für uns, sondern weil ich versuche möglichst sparsam durch zu kommen. Sagt er und verbraucht für diesen Einsatz mehre Tränke der Unsichtbarkeit, eine sehr endliche Ressource.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 11.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #193
+
+* Titel: `Baldur's Gate 3 - #193 - Boo und Minsc [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser ganzes Abenteuer in die Abgründe der Bank und all den vielen toten Wachen die hoffentlich nicht auf uns zurückfallen sind eigentlich nur geschehen weil Jaheira meinte das sie am Anfang ihres Abenteuers ihren alten Gefährten Minsc zurücklassen musste. Dieser arbeitet offensichtlich nun für die Absoluten und nennt sich jetzt der Steinfürst, warum erfahren wir übrigens später noch, oder heute? Klar ist das der gute Opfer der guten alten Illithiden Wurmbehandlung geworden ist, ein ärgerlicher Umstand für den wir nur eine Heilung haben die zudem auch noch eher kurzzeitig ist. Und eine aktive Komponente verlangt, eine aktive Komponente die unter Umständen auch überlastet werden könnte. Wir könnten Minsc also retten, und damit wohl auch seinen Weltraumhamster sobald wir diesen ebenfalls auch gefunden haben. Oder wir tun das alles nicht und schließen hier und jetzt dieses Kapitel ab. Ich weiß nichts über Minsc, außer das er kein Barbar ist, auch wenn er so aussieht. Stattdessen ist er wohl ein Waldpirscher, eine Art Legolas. Aber irgendwie fehlt ihm ein wenig die Schläue, und die Geschichte mit den Hamster macht mich einfach nur fertig. Kurzum, ich habe keine Ahnung was ich von ihm halten soll, und das ist wohl auch sein Plan.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 11.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #194
+
+* Titel: `Baldur's Gate 3 - #194 - lang ersehnte Rast [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir nicht so ganz sicher ob eine regelmäßige Rast wirklich so wichtig ist wenn man nicht zu viele Magier im Team hat. Krieger können quasi unendlich lange weiter machen solange man genügend Beute holt um sich mit Heiltränken zu heilen. Ich habe am Anfang so wenig Rasten wie möglich vergehen lassen weil ich Angst hatte ich das die ganze Gedankenschindergeschichte sonst eines Tages passiert. Diese Angst war offensichtlich ein wenig unbegründet und ich hätte so oft die Matratze rausholen können wie ich will. Dadurch habe ich einige Geschichtsentwicklungen verpasst wie zum Beispiel die Romanze mit Lae’zel die einfach nie geschehen ist weil ich in Akt 2 vielleicht dreimal geschlafen habe. Der letzte Tag in Baldurs Tor war aber besonders lang weil ich die Presse aufhalten wollte und nicht so richtig wusste wie. Das ging sogar so weit das ich das Personal rotiert habe, das Alles ist jetzt aber vorbei und wir gehen nun ins Bett. Nach so langer Zeit. Ein wenig schade das ich meine Eltern nicht vernünftig retten konnte. Schade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 28, Aufnahme vom 11.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #195
+
+* Titel: `Baldur's Gate 3 - #195 - ein kurzer Tag [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem der letzte Tag unfassbar lang war und ich es übrigens immer noch bedauerlich finde das es in der Stadt keine zweite Tageszeit gibt die das Setting verändert, dauert der heutige Tag nicht ganz so lange. Eigentlich will ich nur sehen was sich alles seit dem letzten Mal verändert hat und dann ganz schnell wieder ins Bett gehen um 100% ausgeruht die großen, offenen Sachen noch anzugehen die mir noch offen stehen. Daher laufen wir heute nur ein wenig durch. Es ist nicht so das heute nichts passiert, aber Dinge dauern nun einmal ein wenig Zeit und dann gibt es ein wenig Leerlauf. Es wäre wohl klug für solche Situationen ein wenig Gedanken vorgeschrieben bereit zu halten um sie im Zweifel vor zu bringen während man umher läuft und nach Dingen sucht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 16.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #196
+
+* Titel: `Baldur's Gate 3 - #196 - mehrfache Rast [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ein paar offene Handlungsstränge von denen ich dachte das wir sie noch irgendwie anders lösen können aber sie enden leider einfach so. Ich fürchte das das die Konsequenz eines unfassbar komplexen Spieles ist das jetzt hier ein wenig an den Rändern ausfranst und kein echter, lebender DM hier ist um irgendwelche Partikularinteressen noch zu einem würdigen Ende zu führen. So hätte ich gerne eine Kombination mit dem Aasmystiker, der Nekromantie von Thay und den Vettelopfern gefunden. Auch ist es ein wenig schade das wir nicht mit den Bewusstlosen des Vereins sprechen können und sie jetzt einfach weg sind. Oder was mit Mol geschehen ist, wir kennen sie von Anfang an an und jetzt scheint sie damit zufrieden zu sein in irgendeiner Ecke in der Diebesgilde zu stehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 16.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #197
+
+* Titel: `Baldur's Gate 3 - #197 - Zaubererzubehör [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ganz oft gerastet und jetzt ist es endlich wieder an der Zeit auch tatsächlich Dinge zu tun damit wir auch mal ein wenig vor ran kommen. Als ersten Schritt wäre es wohl an der Zeit Dinge zu tun die wir schon viel zu lange auf geschoben haben, Shoppen gehen! Wir sind in einer großen Stadt, haben viel zu viel Gold und haben außer ein paar verstaubten Spielzeugen eigentlich bisher so gut wie nichts eingekauft. Das ändern wir jetzt, also reiten wir in den Laden Zaubererzubehör ein. Ich könnte mir übrigens vorstellen das es relativ anstrengend sein müsste so viele Magier in der Stadt zu haben. Was wir bisher gesehen haben handelt es sich um recht verschrobenes Volk, und dann hat man davon auf einmal eine halbe Armee in diversen Häusern, genügend um einen dezidierten Zauberladen zu erklären? Das klingt nach harten Zeiten. Parallel dazu finden wir hier auch den Zauberer Loroakan der immer noch nach dem Nachtlied findet um damit irgendetwas zu tun. Wir erinnern uns außerdem daran das Rolan doch als Lehrling für genau diesen Zauberer aufgenommen wurde. Und ratet doch einmal wer hier an der Kasse steht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 16.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #198
+
+* Titel: `Baldur's Gate 3 - #198 - die Lampe des Dschinis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind schon einigen Dschinis begegnet und jetzt wo ich über den Fall ein wenig nachdenke habe ich nicht einmal eine gute Baseline für Flaschengeister. Weil mein Wissen beschränkt sich quasi auf genau das was ich grade gesagt habe, ein Geist in der Flasche. Im Witcher Universum handelt es sich um quasi Elementarwesen mit geringer Eigenintelligenz aber immenser Macht aus einer anderen Ebene die dennoch stark genug sind auch komplexe Wünsche umzusetzen. Ob der Wunsch eines Dschinns wie ein Affenkrallenwunsch, also genau im Wortlaut wie gewünscht aber so ausgeführt das es dennoch maximal schädlich ist ist nicht so ganz klar. Dämonen und Teufel scheinen ja ebenfalls Wünsche zu erfüllen, und im Gegensatz zu Vetteln scheint zumindest hier die Erfüllung ein wenig mehr an dem dran zu sein was man sich wirklich gewünscht hat ohne das man beim Wording gewaltig aufpassen muss. Oder anders, aus einem Teufel kriegt man, wenn man ein geübter Dämonologe ist und genau weiß was man verlangen kann, eventuell wirklich heraus was man möchte. Ein Dschinni wird immer alles tun um den Wunsch um zu biegen. Aber eventuell auch nicht. Hier bin ich ein wenig unsicher ob dem wirklich so ist. Vielleicht sind sie hier auch treu. Die Tatsache das ein Magier ein solches Wesen aber ziemlich unbefreibar in eine Öllampe gesperrt hat spricht ein wenig dafür das insbesondere dieser Dschini nicht sehr zuverlässig war.
+  
+  24:35 - Die Lösung für das Lampenrätsel
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 18.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #199
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #200
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #201
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #202
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #203
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #204
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

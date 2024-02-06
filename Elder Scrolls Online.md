@@ -11109,6 +11109,23 @@
   Aufnahme vom 09.12.2023 - #1922 - ##101
   ```
 
+##### #1923##102
+
+* Titel: `Let's Play ESO #1923 ##102 - Gadayns Rede [Nekrom]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 102 des Nekrom DLC - Sitzung 14
+  
+  Eine Rede vor fremden Leuten zu halten ist nicht immer so ganz einfach, je nach dem wie sehr man sich bemüht nicht übermäßig negativ auf zu fallen, oder wie hoch die Wahrscheinlichkeit ist das die Leute die einen zuhören später noch einmal wichtig werden. Für Gadayn ist der heutige Tag heute besonders brisant. Weil die Zuschauerschaft vor der er unbedingt heute reden möchte wird ihm wohl noch ein paar Jahrzehnte verfolgen. An sich interessant ist aber auch das wir einen Charakter treffen der quasi mit seinem ganz normalen Leben nach dem Abenteuer weiter macht. Die meisten Leute die wir während unserer Ausfahrten treffen kommen aus Umständen die es eher schwierig machen wieder dort weiter zu machen wo man heraus gerissen wurde. Allerdings hat sich bei den Wächtern der Toten von Nekrom kaum etwas getan, es ist eigentlich schon fast ein Wunder wie lange wir es geschafft haben den guten Vikar mit zu schleppen obwohl der Einfluss auf sein Leben eigentlich relativ gering war.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Nekrom Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wMHYHHFm-6HWfKxIuI8BQME
+  Aufnahme vom 09.12.2023 - #1923 - ##102
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1043,7 +1043,262 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
 
-##### #Nummer
+##### #69
+
+* Titel: `Yakuza 6 - #69 - Vater und Sohn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe zum Inhalt dieser Episode quasi nichts zu sagen. Dafür ein paar persönliche Zweifel bzw. Gedanken die mir grade so gekommen sind. Ich glaube spontan das es für einen Vater in einer modernen Welt schwieriger sein könnte einen Sohn großzuziehen als eine Tochter. Bzw. als Mutter für eine Tochter zu sein. Die Gesellschaft hat sich weiterentwickelt, vielleicht nicht so viel wie sie es tun müsste um einer modernen Menschheit gerecht zu werden aber doch weiter entwickelt. Ich bin mir relativ sicher das in Japan diese ganze Entwicklung noch ein wenig hängt, aber im Großen und Ganzen hat sich da schon Einiges getan. Das moderne Frauenbild hat in Europa mittlerweile einige Iterationen durch und ist bestimmt noch nicht am Ende. Aber für junge Männer scheint es mir noch mehr Lücken zu geben. Und ich fange noch nicht einmal mit toxischer Männlichkeit an, außer es zu erwähnen. Wo steht ein junger Mann in einer modernen Gesellschaft? Als alleiniger Versorger der Familie wohl nicht, als gefühlvoller Partner? Als Fels in der Brandung der seiner Partnerin Halt verspricht? Aber ist das dann gleichberechtigt. Klar ist, ein klassisches Rollenbild zu vermitteln ist es nicht, und doch scheint die Gesellschaft keine klaren Signale zu senden. Ich habe keine Antworten, nur Fragen an ein theoretisches Konstrukt. Ein wenig thematischer, das sind Fragen die sich unser Vater hier nicht stellen muss, noch nicht. Aber vielleicht nach seinem Abenteuer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 10, Aufnahme vom 27.11.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #70
+
+* Titel: `Yakuza 6 - #70 - schlechtester Augenblick [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt da ich dies hier schreibe und den Titel lese den ich seinerzeit zur Erstellung des Videos gemacht habe bin ich mir ein wenig unsicher ob es für Kiryu eigentlich jemals einen guten Zeitpunkt gab sich mit irgendwelchen Dingen auseinander zu setzen. Wann hat sich ein Kazuma jemals gedacht, hey, jetzt wäre ein echt guter Moment für einen kleinen Bandenkrieg, eine Entführung oder einfach nur interessante Zeiten im Allgemeinen? Eigentlich nie ,vielleicht ganz am Anfang als er noch wirklich jung und unabhängig von quasi fast allem war. Aber eigentlich hatte er schon damals seinen Bruder und die Leute aus dem Waisenheim. So richtig frei alles zu tun und Zeit zu verschwenden war er eigentlich nie. Logischerweise ist heute nicht nur ein schlechter Augenblick sondern der Schlechteste von Allen. Zumindest für Heute. Morgen bringt das Potenzial mit sich einen noch schlechteren Augenblick zu haben. Fantastisch!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 11, Aufnahme vom 24.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #71
+
+* Titel: `Yakuza 6 - #71 - brennende Verhandlung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man verhandelt dann am besten nicht unter Zeitdruck. Andererseits kann bei Verhandlungen bei dem beide Seiten unendlich viel Zeit haben und ewiges Taktieren quasi voll erlaubt ist und nur Vorteile bringt ein wenig unentspannt sein. Manch einer würde es sogar als anstrengend bezeichnen. Unter solchen Umständen würde ich davon abraten nicht ohne einen Vorwand auf zu tauchen der es vielleicht ermöglichen würde den Gesamtprozess signifikant zu beschleunigen. Zum Beispiel wenn alles brennt, dann geht ganz plötzlich alles sehr schnell und man muss sich gar keine Sorgen machen das sich irgendjemand Zeit lässt, alles ist plötzlich dringend und den Leuten brennt wortwörtlich etwas unter den Füßen. Herrlich die plötzliche Entscheidungsgeschwindigkeit mit der die Leute daher kommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 11, Aufnahme vom 24.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #72
+
+* Titel: `Yakuza 6 - #72 - das Geheimnis von Onomichi [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Keine Angst, heute klären wir noch nicht das große Geheimnis von Onomichi auf, vielleicht sogar nie, das kann ich noch gar nicht sagen. Aber wir erfahren zumindest das es überhaupt eine Sache ist und das sie wohl sehr geheim ist. Geheim genug das es einen Killer gibt der dafür sorgt das das Geheimnis immer gut bewahrt bleibt. Immer nach dem Motto „drei können ein Geheimnis bewahren wenn zwei tot sind“. Die Tatsache das wir jetzt davon wissen macht uns immerhin nicht zum Ziel und eventuell könnten wir die Dinge jetzt auch einfach so belassen wie sie sind ohne all zu viel Staub auf zu wirbeln. Es ist vielleicht ganz nett zu wissen das es ein großes Geheimnis gibt aber solange wir glaubhaft machen können das wir es eh nicht kennen sieht die Situation eigentlich ziemlich gelöst aus. Hier wäre also ein guter Zeitpunkt um einfach mal Stop zu machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 11, Aufnahme vom 24.12.2023
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #73
+
+* Titel: `Yakuza 6 - #73 - Schlüssel des Geheimnisses [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wäre ja viel zu einfach wenn wir einfach genau das Geheimnis erfahren würden was so viele Jahre mit soviel Mühe vermieden wurde an die Öffentlichkeit zu reichen. Und so erhalten wir heute nur den Schlüssel zu der eventuellen Möglichkeit ein Geheimnis zu erfahren. Rein logisch betrachtet, mit der Anmerkung das Logik nicht etwas sein wird das hier die Geschichte erklärt, sollte jede Spur die 40 Jahre alt ist definitiv ins Leere führen weil die Leute die das Geheimnis bewahren natürlich gründlich gearbeitet haben und daher alle Spuren die noch da sein könnten schon lange verwischt sind. Aber so funktionieren die Dinge in Spielen nicht. Und daher bin ich mir sicher wir haben heute den ersten Schritt auf einer großen Schnitzeljagd gemacht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 12, Aufnahme vom 24.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #74
+
+* Titel: `Yakuza 6 - #74 - nach rechts gewischt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns immer noch ziemlich schnell dem Ende des Spiels, aber bevor es soweit ist lockt die Gelegenheit noch einmal die Annehmlichkeiten der großen Stadt zu genießen. Ich bin mir übrigens echt unsicher was tiefe kulturelle Eigenschaften von Japanern angeht. Klar, es gibt eine öffentliche Darstellung der Kultur und gewisse Klischees haben ihre Reise bereits mehrfach um die Welt gemacht. Aber Menschen sind im Allgemeinen doch mehr ähnlich als unterschiedlich. Worauf ich hinaus will ist das der handelsübliche Japaner eher zurückhaltend sein soll und die ganze Sex Geschichte wird eher in Nebensätzen erwähnt. In den Spielen sowieso. Aber so rein statistisch müsste es auch eine Menge Frauen in Japan geben die einfach nur horny sind und insbesondere in Städten dies auch ausleben. Lag Kiryu also so falsch damit nicht sofort mit Scam zu rechnen? Oder ist es einfach sein Schicksal das jede Begegnung dort draußen für ihn mit Betrug endet?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 12, Aufnahme vom 24.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #75
+
+* Titel: `Yakuza 6 - #75 - Familienbindung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Familie ist eine grausame Sache, aber auch sehr nützlich. Normalerweise, also quasi der nicht Familienfall der eigentlich gar nicht so normal ist, sieht vor das man sich Leute aussucht und andere Leute in irgendeiner vorselektierten Situation kennen lernt und dann, wenn es irgendwie funkt, man sich näher kommt und daraus eventuell Freundschaften entstehen. Aber oft stellt man dann nach einer Weile fest das die Chemie doch nicht so gut ist, oder nur in einem bestimmten Kontext die Freundschaft florieren konnte. Klassisches Beispiel sind Urlaube. Familie hingegen hat man, meistens ist man initial gar nicht einmal so nahe beieinander und man gewöhnt sich dann irgendwie an die Situation. Dafür ist die Verbindung unabhängig von irgendwelchen Umständen. Bei der Gelegenheit sei noch erwähnt das ich es sehr witzig finde das bei solchen Gelegenheiten, insbesondere wenn man mit der Familie brechen will, der Spruch „Blut ist dicker als Wasser“ angeführt wird. Soweit ich das gelesen habe ist dies aber genau falsch herum. Das Blut der Vereidigung ist dicker als das Wasser der Gebärmutter. Im Englischen klingt es ehrlich gesagt ein wenig besser: „The blood of the covenant is thicker than the water of the womb“. Naja, thematisch sprechen wir aber sowieso nicht von einer Blutsfamilie und mehr von geschworenen Partnerschaften was uns wieder an die „Blood of the covenant“ Geschichte ran bringt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 12, Aufnahme vom 24.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #76
+
+* Titel: `Yakuza 6 - #76 - Gedichtsteine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir ziemlich sicher das ich Suspension of Disbelief bereits öfter erwähnt habe. Ich bin mir eigentlich sogar sicher. Die Grundprämisse ist relativ einfach. Wenn meine Fantasy-Welt Drachen hat ist das vollkommen glaubhaft im Kontext der Welt. Wenn mein Hauptcharakter auf einmal ohne vorherige Erklärung dreimal so intelligent ist oder handelsübliche Menschen plötzlich freundlich, zuvorkommend und gnädig sind ist das verdächtig, insbesondere wenn es kein Trick ist. Solche Inkonsistenz kann eine Erzählung vollständig zerstören weil man sich nicht mehr darauf verlassen kann das bestimmte Elemente und Motive absichtlich platziert wurden sondern vielleicht nur das Ergebnis von schlechten Handwerk sind. Bei den Gedichtsteinen die wir überall in Onomichi finden ist es nicht ganz so schlimm, es ist ein wenig unlogisch das wir hier eine Schnitzeljagd haben aber es ist auch nicht das Ende der Welt. Dennoch wird das später auch nicht erklärt warum die Hinweise dahin führen wohin sie führen. Und das ist schrecklich schade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 12, Aufnahme vom 24.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #77
+
+* Titel: `Yakuza 6 - #77 - das Grab von Yamano Dodai [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hinweise die zu einem Schatz führen oder andere Objekte die offensichtlich in der Welt stehen die aber nur den Eingeweihten einen Sinn ergeben sieht man eher selten. Der Hauptgrund ist meiner bescheidenen Meinung nach das es Kinder gibt. Wenn es irgendjemand mit viel zu viel Zeit gibt dann sind es Kinder die nichts besseres zu tun haben als solange an irgendwelchen Dingen herum zu spielen bis sich etwas ergibt. Alternativ muss man damit rechnen das irgendwelche gut im Wald versteckten Anlagen von Joggern überrannt werden bevor der Zement trocken ist. Irgendetwas geheim zu bauen ist wohl ziemlich unmöglich wenn man bedenkt wie viele Leute daran beteiligt sind, und wie öffentlich auch ein Wald ist. Hätte man jetzt irgendwelche abgelegenen Orte in Sibirien zur Auswahl würde es wohl ein wenig besser aussehen, aber immer noch nicht fantastisch. Wir finden heute einen Hinweis in einem Grab, das dürfte kulturell für Japaner ein wenig versteckter sein, aber dennoch nicht sicher genug für 40 Jahre fürchte ich. Oh meine gute Immersion!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 12, Aufnahme vom 24.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #78
+
+* Titel: `Yakuza 6 - #78 - Iwami Schiffswerft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn es um Korruption bei Schiffen geht habe ich absolut keine Ahnung. Ich nehme an das sie existiert. Aber größtenteils erst wenn das Schiff fertig ist. Insbesondere Reedereien fahren gerne unter irgendeiner Flagge die am meisten Vorteile und am wenigsten Nachteile bringt. Wenn ich es recht verstehe fahren die wenigsten Container-Schiffe mit deutscher oder überhaupt europäischer Beflaggung. Das ist dann ein wenig ärgerlich wenn die international durchmischte Crew sich mit der Tatsache konfrontiert sieht das ihre Firma pleite ist und sie jetzt irgendwo an irgendeinen Hafen liegen und niemand in der Lage ist den Papierkram zu bezahlen damit das Schiff wieder in Bewegung kommt. Getankt wird oder man selbst überhaupt einreisen, geschweige denn nach Hause kommen kann. Beim Schiffsbau selbst habe ich nur sehr begrenzt Erfahrung, Freunde haben auf einer Werft gelernt und ich war mal beim Vorstellungsgespräch für eine Firma. Zum Glück haben die mich damals nicht genommen, die MV Werften sind nur wenige Jahre später Pleite gegangen, und ich könnte mir bessere Orte zum Wohnen vorstellen als Wismar. Zurück nach Japan versuchen wir jetzt das große Geheimnis auf zu decken. Und so wie es aussieht finden wir etwas.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 12, Aufnahme vom 24.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #79
+
+* Titel: `Yakuza 6 - #79 - Geheimniskaskade [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man ein Geheimnis erfährt dann besteht dieses meistens aus irgendeinen anderem. Das ist wahrscheinlich auch der Hauptgrund warum gewissen Leute so sehr daran interessiert waren das es gar nicht erst los geht mit der Offenbarung des großen Geheimnisses von Onomichi. Jetzt ist es aber wohl passiert und damit sind die Fluttore offen. In diesem Fall anscheinend sogar wortwörtlich. Wir ignorieren weiterhin das 90 Jahre alte Mechaniken aus irgendwelchen Gründen noch absolut fantastisch funktionieren und wir uns grade ein gewaltiges Schiff anschauen. Das Schiff für sich ist übrigens auch nur ein riesengroßes Fragezeichen. Wenn Kurusu nicht von sich aus angefangen hätte uns jede Menge Kontext zu liefern wäre es absolut nichtssagend gewesen. Klar, für die richtigen Leute ist es wohl der erste Risse in der Rüstung der Korruption, aber für uns, also Kiryu, sagt es nichts, aber auch gar nichts aus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 12, Aufnahme vom 24.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #80
+
+* Titel: `Yakuza 6 - #80 - ohne Vergebung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel der heutigen Episode war tatsächlich einige Überlegung meinerseits wert. Ich habe echt darüber nachgedacht, aber mir fiel einfach nichts Besseres ein. Thematisch heißen soll es das die Leute die uns antagonistisch gegenüber stehen ohne Vergebung sind. Oder vergebungslos? Auf Rache aus? Sie vergeben auf jeden Fall nicht. Das ist quasi die Quintessenz die ich hier versuche mit zwei Worten zu transportieren. Das ist deswegen wichtig weil ansonsten die Geschichte vorbei wäre. All die Dinge die noch so parallel geschehen sind gehen uns ja eigentlich nichts an oder? Es ist ja schön und gut das die Iwami Schiffswert ein Vehikel für Korruption war, auch interessant aber nicht so wichtig was der Tsuneo so getrieben hat. All das hat weder mit Kiryu noch mit Haruka zu tun. Das war das Tun der Saio Triade und von Kuruse selbst der versucht hat das Geheimnis zu bewahren. Da sich das jetzt erledigt hat sind wir wohl raus. Möchte man meinen...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 13, Aufnahme vom 29.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #81
+
+* Titel: `Yakuza 6 - #81 - die Vorhut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn Feinde heran nahen und diese dann viel zu leicht zurückgeschlagen werden muss man sich oft fragen ob der Gegner einen selbst massiv unterschätzt hat oder ob es sich einfach nur um eine schlechte Vorhut gehandelt hat. Ein paar Amateure in Sachen Erkundung die aber Teil einer wesentlich größeren Gruppe sind. Wenn Zweiteres zutrifft hat man immerhin durch das Versagen der Späher einen kleinen Vorteil, meistens Zeit, der es erlaubt selber zurück zu schlagen oder einen geordneten Rückzug anzutreten der nur schwerlich möglich ist sobald der Feind an der sprichwörtlichen Tür steht. Heute begegnen wir also der Vorhut die definitiv Teil eines größeren Objekts ist. Wir dürfen wohl außerdem davon ausgehen das die Vorhut selbst aus Arroganz gehandelt hat, die bloße Anwesenheit der Vorhut aber wohl weniger ein taktischer Fehler als ein kulturelles Problem ist. Wenn man als erstes vor Ort ist hat man ohne direkte Anweisung wenig Grund nicht direkt rein zu gehen, das das enorm unklug sein könnte ist auch egal, insbesondere wenn man die eigenen Fähigkeiten massiv überschätzt. Eventuell ist das hier aber auch eine Frank Grimes Situation, in einem realitätsnahen Szenario kann ein Mann noch so stark sein, die doppelte Überzahl sollte in jedem Fall reichen. Aber hier in Yakuza-Logik Land ist das bei weitem nicht genug. Kiryu ist Level 99, da machen 20 Level 5er einfach nichts.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 13, Aufnahme vom 29.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #82
+
+* Titel: `Yakuza 6 - #82 - der alte Mann und das Meer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir unterbrechen die laufen Story um eine Nebenquest anzufangen. Wie ich jetzt weiß handelt es sich leider auch um eine Geschichte die erst prozessieren würde wenn ich es eine bestimmte Menge lang gespielt hätte. Unter Umständen, und das ist ein großer Umstand, hätte ich diese Mission off-screen durch gespielt und dann nur die Storyteile zusammengeschnitten weil der Aufwand nicht so gewaltig zu sein scheint. Es ist halt nur langweilig. Zumindest mit Maus und Tastatur bzw. eigentlich nur Maus, ist es das harpunieren von Fischen trivial einfach und nur der Hai macht echte Probleme. Ein Umstand der wahrscheinlich davon bereinigt wird das ich dann irgendwann eine bessere Harpune bekomme. Allerdings ist es immer das gleiche Level bis wir ein neues Freischalten, und soviel Zeit habe ich heute, zum Tag der Aufnahme nicht, ich hatte mir doch fest vorgenommen fertig zu werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 13, Aufnahme vom 29.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #83
+
+* Titel: `Yakuza 6 - #83 - fehlende Worte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Dinge entwickeln sich hier plötzlich ziemlich schnell einem Ende entgegen. Und so wie es aussieht ist Kiryu mittlerweile ein alter Mann. Ich bedauere ihn ein wenig, seine besten Jahre hat er damit verbracht im Gefängnis zu sitzen und dann hat er sogar freiwillig eine Schippe aus irgendwelchen falsch verstandenen Stolz drauf gelegt. Alles in Allem ist die Gesamtsituation ein wenig komisch. Andererseits konnte er wohl seinen Rang als legendärer Yakuza auch grade so gut halten weil er die längste Zeit aus dem großen Bild verschwunden war und gar nicht so viel auf den Straßen zu finden war. Das alles macht jemanden wie Majima übrigens zu einer noch viel größeren Gestalt, der war all die Jahre da, nie woanders und hat eigentlich kontinuierlich durchgezogen. Und jetzt ist wohl die Zeit gekommen das man mit jemanden reden müsste und Weisheiten bräuchte, aber es kommen keine Worte. Und das ist sehr schade. Oder vielleicht auch gut, so kann auch niemand verletzt werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 13, Aufnahme vom 29.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #84
+
+* Titel: `Yakuza 6 - #84 - Sturm des Turms[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt wirklich selten vor das man den Luxus hat das ein Gegner eine feste Position hat die man stürmen kann. Das ist kein seltenes Problem, die Polizei hat es genauso wie der Zoll. Wenn man als Ziel sowieso eine breite Masse hat oder eher die mittlere Führungsetage in Teilen erreichen will ist es definitiv einfacher. Der Capo war natürlich nirgends dabei und es gibt absolut keine Beweise das hier jemand die Befehle gegeben hat. Sollte es doch Zeugen geben schaffen die es überraschend selten in den Gerichtssaal. So zumindest die Klischees. Die Quintessenz ist aber das man wirklich Schwierigkeiten hat irgendjemanden von ganz oben überhaupt im Büro anzutreffen wenn man mit purer Gewalt vorgeht. Klar, wenn man eingeladen wird sind alle da und die Türen stehen offen. Aber schon wenn man unten anklopft steigt unser Bösewicht höchstwahrscheinlich in den Executive-Fahrstuhl in den Kellerbunker, oder dem Heli, oder was auch immer. Fähiges Personal ist nicht so fähig weil es dazu neigt Bedrohungen klein zu reden. Daher ist es zwar heute schön das wir den Turm, also mal wieder den Millenium Tower, stürmen wollen, aber die Chance da noch jemanden von Relevanz zu treffen erscheint mir gering.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 13, Aufnahme vom 29.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #85
+
+* Titel: `Yakuza 6 - #85 - Ruf nach Vergeltung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte bereits erwähnt das das mit dem Sturm wahrscheinlich eher nicht so klappen wird. Heute sehen wir genau welches Elend uns erwartet. Ich finde die Szene übrigens sehr schön, von einer Schreiberperspektive. Sie ruft starke Emotionen hervor, sie wirkt erstickend und macht irgendwie hilflos. Einfach großartig! Für die beteiligten Personen natürlich nicht aber dennoch großartig. Sehr filmisch auch, wie eine plötzlich stehender LKW in dem man mit 140 rein rast, eine Gemüselaster in einer engen Kurve und dem Motorrad, der plötzliche Halt, die völlig überraschende 180 Grad Wende ist großartig. Fantastisch gar. Wir mussten diesen Moment leider ziemlich aufwendig herrichten, die Bühne zu setzten hat lange gedauert und war voller Umwege, aber jetzt kommt endlich alles zusammen. Und so erleben wir heute eine Eskalationsstufe wie ich sie nicht für möglich gehalten hätte. Auch wenn die praktische Durchführung am Ende wohl kaum von dem abweichen wird was ursprünglich geplant war. Dennoch, starker Moment!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 13, Aufnahme vom 29.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
+  ```
+
+##### #86
 
 * Titel: ``
 
@@ -1052,3 +1307,7 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
   ```markdown
   Hier
   ```
+
+## Fazit
+
+Yakuza 6 war wesentlich kürzer als der Vorgänger. Und das fand ich auch gut so. Mir ist absolut bewusst das ich quasi 50% des Spieles ignoriert habe weil ich quasi so gut wie keine Grindmission angefasst habe und mir auch exakt 0 Caberet-Clubs von innen angesehen habe. Dadurch habe ich natürlich einige Dinge verpasst. Erfreut haben mich die Nebenquests die ich gespielt habe aber dennoch sehr, sie waren viel mehr im Sinne von Yakuza 0, teilweise viel weniger ernst und irgendwie lustig. Das habe ich in einigen vergangenen Teilen doch sehr vermisst. Die Hauptmission war in diesem Teil wesentlich weniger verstrickt und verteilt. Das heißt nicht das es dennoch eine gute Menge an Komplexität gegeben hat. Allem in Allem bin ich sehr zufrieden mit Yakuza 6, auch wenn mir das Schicksal und die persönliche Entwicklung von Haruka nicht so sehr gefallen hat, ich hätte sie gerne in einer anderen Rolle als Mutter mit 19 gesehen. Aber das ist wohl das Schicksal eines gescheiterten Idols, da macht man keine Karriere als Zahnradingenieurin mehr. Die Art und Weise wie Kiryus eigene Geschichte endet hat mir hingegen sehr gut gefallen, auch wenn ich bereits weiß das es wohl nicht das Ende sein wird. Davon abgesehen war es ein wenig schade das wir wenig über das Leben anderer Charaktere die wir aus den Vorgängern kennen erfahren haben. Andererseits sind deren Geschichten bereits erzählt und sowieso hätte das dann wohl die Geschichte unnötig aufgebläht. Den überraschenden Twist in der Mitte mit Harutos Vater habe ich auf jeden Fall nicht kommen gesehen, auch wenn ich es ein wenig komisch finde das überhaupt und gar nicht erklärt wird ob die beiden jetzt etwas füreinander empfinden oder ob das eher so ein kleines romantisches Treffen in einem schwachen Moment war. Anscheinend ist Haruka ja willens ihr Leben mit ihm zu verbringen, aber ob die Beziehung überhaupt irgendeine Art von Stabilität aufweißt wissen wir nicht.

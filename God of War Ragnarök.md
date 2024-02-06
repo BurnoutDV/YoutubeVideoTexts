@@ -1194,6 +1194,488 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
+##### #80
+
+* Titel: `GoW Ragnarök - #80 - Versorgungstunnel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was genau ein Versorgungstunnel ist klären wir bereits innerhalb der Episode. Anscheinend ein langer Keller. Wir sind dann übrigens zurück im Reich der Zwerge. Du weißt schon, dem Ort an dem die Zwerge in Ketten gehalten werden und quasi an ihren eigenen Untergang arbeiten. Hier wollen wir ein großes Schmiedewerk herstellen lassen. Ein nicht ganz einfaches Unterfangen. Und doch befindet sich dieser Tunnel erstaunlich nahe an dem Ort an dem wir hin wollen. Für den Moment aber noch egal, zu erst müssen wir aus einem Tunnel entkommen der offensichtlich verseucht ist weil sich seit Ewigkeiten niemand mehr darum gekümmert hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 12, Aufnahme vom 08.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #81
+
+* Titel: `GoW Ragnarök - #81 - Myrkr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal mache ich mir viele Gedanken darüber wie ich eine Episode benenne. Manchmal nicht. Diesen Text habe ich quasi schon einmal geschrieben. Diese Episode heißt Myrkr, ihre Aufnahme ist jetzt wo ich das hier schreibe 11 Tage her, ich kann mich an nichts mehr erinnern, nur das ich sie nach den Tunneln benannt habe in denen wir waren. Aber ich weiß nicht mehr warum. Faszinierend wie schnell man Dinge vergisst oder einzelne Gelegenheiten. Und dabei habe ich hier ein gewaltiges Videotagebuch aller Spiele die ich jemals gespielt habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 12, Aufnahme vom 08.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #82
+
+* Titel: `GoW Ragnarök - #82 - die Schmiede [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da Kratos ein großer Feind vom Schwimmen ist und wir bis her noch nicht das zwergenmagische Tauchgerät gefunden haben gibt es für uns kaum eine Möglichkeit irgendwelche Wasserwesen zu treffen die nicht freiwillig aus ihrem feuchten Biome gekrochen kommen. Umso praktischer ist es doch das wir heute eine Tauchkugel benutzen dürfen und dadurch auch mal ein wenig mehr sehen als uns das Kelpie neulich gezeigt hat. Allerdings frage ich mich schon ob die Dame sich nicht ein wenig langweilt, der Bergsee sieht nicht besondere tief oder breit aus und so oft kommen bestimmt keine Zwerge vorbei die sich legendäre Waffen schmieden lassen wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 12, Aufnahme vom 08.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #83
+
+* Titel: `GoW Ragnarök - #83 - Draupnir-Speer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon haben wir eine neue Waffe. Mir ist noch nicht ganz klar was der Einsatzzweck ist oder wie genau uns das gute Stück gegen Heimdall helfen soll. Wirklich nicht. Die Waffe beherrscht Windmagie und damit eine völlig neue Kategorie von Magie auf die wir bisher noch keinen Zugriff hatten. Technisch gesehen ist Wind aber auch nur kinetische Energie die in der Luft getragen wird. Aber den Speer als kinetische Waffe zu bezeichnen wäre wohl ein wenig falsch, er hat ja schon ein wenig mehr als Gewicht an sich. Zum Beispiel auch Magie die es uns ermöglicht Orte zu erreichen die wir vorher nicht betreten konnten. Allerdings frage ich mich wirklich wie nachhaltig ein Ring oder Speer ist der sich endlos repliziert. Führt das nicht logistisch zu Problemen. Selbst wenn der Speer von einem Bewusstsein geworfen werden müsste könnte man ziemlich schnell Armeen damit ausstatten, auch wenn scheinbar einige Kopien wieder verschwinden wenn wir die Fähigkeit nutzen. Aber dafür ist es wohl magisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 12, Aufnahme vom 08.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #84
+
+* Titel: `GoW Ragnarök - #84 - Bahngespräch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In dieser Episode passiert viel und dann doch nicht viel. Wir kriegen ein paar schöne Kamerawinkel die wir für Screenshots nutzen können. Aber rein inhaltlich fand ich das wir uns nicht wirklich fortbewegen. Klar, es gibt Gespräche die irgendeine Art von Information enthalten aber der Gehalt und Wert dieser Informationen kommt mir doch ein wenig sehr gering vor.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 12, Aufnahme vom 08.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #85
+
+* Titel: `GoW Ragnarök - #85 - Ormstunga [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe rein konzeptionell ein Problem mit God of War Ragnarök. Und das ist das Gegnerdesign. Anscheinend stehe ich damit ziemlich alleine weil ich die Kritik von anderen Leuten noch nicht so gehört habe, oder ich hörte nicht hin. Aber mich regen mobile Gegner auf. Im Vorgänger hatte ich mich bereits maßlos über die viel zu schnellen Dunkelalben aufgeregt. Aber das war ein isolierter Fall, selbst die Tatzelwürmer waren gar nicht so schnell unterwegs wie es zu erst aussah. Kratos ist ein alter Kriegsgott, ein Haudrauf der Titanen zu Fall bringt. In der zweiten Installation begegnen mir andauernd Feinde die wie wild um mich herum springen. Eine Eigenschaft die mit seiner Art des Fernkampfes kaum kompatibel ist, dann gibt es einen verzögerten Block der es quasi unmöglich macht wirklich zu reagieren wenn es schnell gehen muss. Klar kann man wunderbar Blocken, wenn man weiß das etwas kommt. Aber echte Reaktionen wenn es wirklich eilig ist sind einfach nicht drin. Und das macht es echt schwierig höhere Schwierigkeitsgrade ernst zu nehmen. Es kommt mir alles wie ein unnötig frustrierendes Glücksspiel vor wenn Gegner wild hin und her springen und einfach nicht sterben aber mit einem schlechten Kamerawinkel meinen Untergang bringen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 12, Aufnahme vom 08.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #86
+
+* Titel: `GoW Ragnarök - #86 - Beigaðr der Grausige[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bezugnehmend auf meine Kritik von Episode 85 geht es hier quasi nahtlos weiter. Dieses Mal sogar mit einem ganzen Gegnertyp. Der immer wieder kommt. Kratos Ausrüstung und Fähigkeiten gehen irgendwie davon aus das man gegen viele kleine Gegner kämpft die bei Schlägen zurückweichen oder zumindest in irgendeiner Weise reagieren. Sollte ein Gegner dagegen immun sein muss er selbst mobil werden weil der alte Kriegsgott eigentlich nicht so viel aushält. Viele seiner Fähigkeiten gehen davon aus das Ziele semi-statisch in der Gegend rumstehen und zumindest für die Dauer eines Angriffes keine Gegenangriffe starten oder verschwinden. Sowohl Beigaðr als auch seine Geschwister sind hypermobil und reagieren überhaupt nicht auf das was Kratos tut. Eine Fähigkeit sorgt dafür das er kurz stecken bleibt, aber bei allem anderen ist es nicht garantiert das eine Reaktion erfolgt. Das macht den Kampf ziemlich langweilig weil ich mich auf wenige, sich wiederholende Taktiken stützen muss. Kombiniert mit der Unfähigkeit Angriffe erfolgreich zu Blocken macht es diese Art von Kampf sehr ermüdend. Auf höheren Schwierigkeitsgraden würfle ich quasi bei jeder Offensive ob ich Erfolg habe oder nicht. Und wenn die Würfel zwei oder dreimal falsch fallen war es das. Und deswegen spiele ich das hier auf Story-Mode bei diesen Kämpfen. Ich mag die Herausforderung, aber nicht wenn es einfach nur dumm ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 13, Aufnahme vom 14.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #87
+
+* Titel: `GoW Ragnarök - #87 - windiges Niðavellir [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An sich ist das Reich der Zwerge nicht mehr oder weniger windiger geworden seit wir das letzte Mal da gewesen sind, allerdings haben wir jetzt die Macht des Windes auf unserer Seite. In den 90er Jahren gab es einmal eine Serie namens „Mystic Knights“ (ich hab das neulich erst nachgeschaut, ist ja nicht das ich so etwas sofort wüsste). Die Waffen die Kratos hier Stück für Stück sammelt erinnern mich ein wenig daran. Nur das wir halt alle Waffen für uns behalten. Atreus kann sich seine eigene Magie zusammen suchen. Wenn er irgendwie das Schwert aus Odins Krallen befreien kann dann hätte er ja schon einmal Blitze zur Verfügung und Gestaltwandeln ist doch bestimmt auch ein Element oder? Kurzum, dies hier ist die Reste suchen Episode. Ärgerlicherweise werden wir das bald noch einmal machen müssen..weil ich nicht sehr klug bin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 13, Aufnahme vom 14.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #88
+
+* Titel: `GoW Ragnarök - #88 - unerreichbare Orte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe damals als ich zusammen mit Sohn Tyr gesucht habe ein Portal ausgelassen bevor wir uns in das Apfelgehäuse niedergelassen haben. Das rächt sich nun da wir keinen weiteren Zugang in dieses Gebiet finden. Die Lore die wir damals genutzt haben steht nicht mehr zur Verfügung und generell und überhaupt scheint der Ort ziemlich schwer erreichbar zu sein. Das Alles wäre nicht weiter tragisch aber wir wissen das es dort noch Schätze gibt die wir mit unserem neuen Luftspeer jetzt erreichen können. Nur können wir eben nicht den Ort erreichen der vor dem Ort liegt der jetzt erreichbar wäre. Später wird sich natürlich herausstellen das das nicht ganz stimmt und ich nur von der falschen Seite heran gegangen bin, aber alles was ich heute versuche verläuft sich im Nichts, und das ist sehr schade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 13, Aufnahme vom 14.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #89
+
+* Titel: `GoW Ragnarök - #89 - ermüdendene Träume [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Von seiner Vergangenheit verfolgt zu werden kann ermüdend sein. So göttlich unser guter Kratos auch sein mag, im Kern scheint er immer noch sehr menschlich zu sein, und vielleicht ist es auch eben das was die von Menschen geschaffenen Götter auszeichnet. Im Kern sind sie immer noch sehr menschlich, vielleicht sogar wesentlich menschlicher als es die eigentlichen Sterblichen sind. Quasi die konzentrierte Menschlichkeit, ein laufendes Kondensat von dem was es heißt menschlich zu sein. Im Allgemeinen sind wir ja nicht besonders gute Wesen und manchmal stellt man sich Götter auch eher als ideale Variante eines Menschen vor, als Verkörperung der bestmöglichen Ausprägung einer bestimmten Eigenschaft. Gütig, unbewegbar, gnädig, großzügig, verstehend oder einfach nur liebend. Doch Kratos is auch trauernd, für das was hätte sein können, für das was nie geworden ist und für die Leben die er verloren hat. Und so verfolgt es ihn in seine Träume, wenn er schläft und alles noch einmal erlebt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 13, Aufnahme vom 14.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #90
+
+* Titel: `GoW Ragnarök - #90 - kalter Atem [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Maske von der Odin nur einen einzigen Teil gefunden hat scheint irgendetwas mit der Schöpfung an sich zu tun haben. Weit über das hinausgehend was die Götter dieser oder einer anderen Welt ausmacht. Vielleicht verschafft sie Zugang zu einer Kategorie geheimen Wissen das auch über die der örtlichen Gottheiten hinaus geht, vielleicht ist sie aber nur das Äquivalent von Dinosaurierknochen oder gewaltigen Lettern die sagen das jemand hier war. Eine Visitenkarte der Schöpfergestalt die vorher da war. Fragment einer vorherigen Generation, nicht mehr oder weniger verstehend als diese Generation, nur älter. Wir wissen es nicht, aber allen Anschein nach finden wir ein weiteres und vielleicht letztes Stück der Maske im kalten Helheim. Ich würde allerdings vermuten das die Kälte Helheims nicht unbedingt vom Schnee, Eis oder anderen natürlichen Umständen kommt sondern das die Kälte eher in den Knochen der Bewohner liegt. Eine inhärente Kälte die alles durchdringt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 13, Aufnahme vom 14.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #91
+
+* Titel: `GoW Ragnarök - #91 - Garmr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In letzter Zeit sind die fantastischen Wesen die wir in den neun Welten so gefunden haben ein wenig zurückgegangen. In Albheim gab es die zwei Hafguffas und im Zwergenreich fanden wir das Lyngbakr (oder so) Vieh das Mimir anscheinend hat anketten lassen, davon aber abgesehen ging es bisher wirklich. Aber heute finden wir einen riesigen Wolf. Mittlerweile weiß ich auch was es mit dem Vieh auf sich hat, aber es hätte zu diesem Zeitpunkt natürlich absolut niemand ahnen können das der Wolf nicht ohne guten Grund angekettet ist. Schließlich gab es auch im letzten Teil irgendwelche Drachen für die eigentlich niemand so eine richtig gute Begründung hatte. Und wir haben einen gewisse Geschichte darin Wesen wieder in die Welt zu lassen. Tatsache ist halt auch das Ragnarök bevorsteht und wenn das passiert schwindet die Magie der Welten und die Gefangenen von einst können wieder frei in der Welt umherziehen. Insofern erfüllen wir doch eigentlich nur einen Teil der Prophezeiung oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 13, Aufnahme vom 14.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #92
+
+* Titel: `GoW Ragnarök - #92 - zusätzliche Weltenrisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Reisen zwischen den Welten war nach Dekret von Odin nicht mehr ganz so einfach und man brauchte dafür mächtige Hilfsmittel wie den Tempel von Tyr, bereits in der Vergangenheit war es aber bestimmten Wesen wie den Zwergen scheinbar ohne großartige Probleme möglich von einem Ort zum Anderen zu reisen. Das ist jetzt mit dem drohenden Ende der Welten oder zumindest Asgard wenn man Groá glauben darf, ein wenig einfacher geworden. Bereits im Vorgänger kannten wir die Weltenrissen die an einigen Orten zu finden waren. Diese waren aber eher isolierte Phänomene die nicht zu einem bestimmten Ort sondern eher in eine Art Taschendimension geführt haben. Einen kleinen abgeschlossenen Ort der vor Ewigkeiten versiegelt wurde. Vielleicht war es auch eine direkte Verbindung nach Helheim, so ganz klar war das ehrlich gesagt nicht. Heute ist aber alles ein wenig anders, es stellt sich doch glatt heraus das der kleine, flauschige Wolf den wir unlängst befreit haben anscheinend dafür bekannt ist Löcher in den Stoff der Realität zu reißen. Das ist nun ein wenig ärgerlich, aber ich bin mir sicher wir können da drum herum arbeiten wenn wir uns nur richtig Mühe geben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 13, Aufnahme vom 14.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #93
+
+* Titel: `GoW Ragnarök - #93 - Schiffswerft der Gefallenen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel der hier oben steht steht da nur weil das einer der Orte ist die wir heute durchreiten. Und mit Reiten meine ich natürlich das wir laufen, ein Reittier hatten wir bisher noch nie und bisher sieht es auch nicht so aus das wir in nächster Zeit eines haben werden. Wenn man es einmal von dem leicht anachronistischen Yak absehen will das zumindest Sohn im Eisenwald kurz ausgeführt hat. Der Name Schiffswerft impliziert irgendwie das es neue Schiffe in Helheim gibt und damit auch das Dinge hergestellt werden. In dieser oder einer anderen Episode wundere ich mich auch darüber wo eigentlich die Bauwerke her kommen die wir überall sehen. Sind sie Echos von etwas das einst oder vielleicht sogar immer noch irgendwo in Midgard oder ähnlichen Orten existiert oder sind sie eine völlig alleinstehende Schöpfung des Totenreiches, erbaut und erdacht von den Gefallenen und ihren Aufseher? Ich habe keine Antworten und ich bin mir auch nicht sicher inwieweit die Mythologie auf solche logistischen Fragen eingehen würde. Das ist generell immer so das Ding, wenn man tolle Geschichten über ein Boot aus den Knochen der Toten hat stellt niemand die Fragen wie das alles hält. Wie seetüchtig das Gefährt in der Praxis dann ist oder wie man ein solches Schiff letztendlich dann baut. Für die Geschichte selbst ist es auch nicht wichtig, aber wenn man ein magisch konsistentes Universum haben will muss man ärgerlicherweise irgendwann einmal anfangen diese Fragen zu klären. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 14, Aufnahme vom 21.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #94
+
+* Titel: `GoW Ragnarök - #94 - Wächter von Gjöll [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mich dann zwischendurch ein wenig über Garm bzw. Garmr belesen. Der Wolf ist anscheinend recht bekannt und sollte eigentlich am Ende im Zweikampf mit Tyr fallen, das kann er aber auch nur tun wenn er sein Gefängnis verlässt und sich Tyr überhaupt auf einen Kampf einlässt. Die ganze Sage fällt ein wenig auseinander wenn sich der ehemalige Kriegsgott einfach dem Pazifismus hingibt und sich einfach vom Wolf fressen lässt. Gjöll ist übrigens der Fluss den wir sogar im Vorgänger schon einmal kurz befahren haben, zumindest bis wir beschlossen haben das fliegende Schiffe ein wesentlich besseres Fortbewegungsmittel sind und wir halt so weiter fuhren.  Wovor und gegen wen ein Fluss im Land der Toten genau bewacht wird kann ich übrigens auch nicht beantworten, aber es ist bestimmt sehr sehr wichtig das dies geschieht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 14, Aufnahme vom 21.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #95
+
+* Titel: `GoW Ragnarök - #95 - der beste aller Hunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich möchte noch einmal für das Protokoll feststellen das Garmr eigentlich ein Wolf und maximal ein Wolfshund ist, wie genau die Domestizierung von Wölfen im alten Norden der Antike bereits fortgeschritten war kann ich nicht sagen aber ich würde annehmen das zumindest die Römer später dann durchaus schon brauchbare Hunde hatten, allerdings war die Hochzeit der Wikinger auch wesentlich später als die klassische Antike wenn ich das recht zuordne. Es könnte also durchaus sein das unser guter Kratos einige Jahrhunderte damit zu gebracht hat durch die Welten zu reisen. Zurück zum Thema, wenn wir den besten aller Hunde töten kann er übrigens auch nicht mehr Tyr am Tag des Ragnarök zerfleischen. Allerdings hat auch niemand gesagt das wir es tun werden, als Kratos. Insofern zerfasert die Prophezeiung für den Tag des jüngsten Gerichts in der nordischen Religion immer mehr und mehr, aber das hat man halt davon wenn man den Einfluss fremder Götter zu lange erduldet. Odin ist also schuld, eindeutig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 14, Aufnahme vom 21.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #96
+
+* Titel: `GoW Ragnarök - #96 - das eigene Schicksal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir die gesamte Story mit Garmr anscheinend doch noch entschärft haben ohne die gesamte Prophezeiung über Bord zu werfen haben wir jetzt anscheinend auch Vater und Sohn wieder zusammen gebracht. Da wäre zwar noch der Datenpunkt das Loki bei Odin den Stallburschen macht und Kratos von Heimdall oder Thor erschlagen wird, alle davon wissen und es noch nicht passiert ist. Allerdings könnte durchaus noch irgendetwas geschehen das dieses Ereignis dennoch geschehen lässt. Oder aber, durch externe Ereignisse oder Einflüsse die die Nornen nicht haben kommen sehen hat sich dieses Schicksal verändert. ODER aber, die Nornen haben zwar diese mögliche Abbiegung der Realität präferiert aber ihr Versuch der Einflussnahme ist doch deutlich weniger stark als wir allgemein angenommen haben. Alternativ ist es auch einfach das drohende Ragnarök das sich auch auf die Fähigkeit der Nornen auswirkt die Zukunft gut vorher zu sehen. Zu viele bewegliche Teile machen es einfach unmöglich gute Wahrscheinlichkeiten abzugeben, aber um den Schein zu waren reden die Nornen halt immer noch ominös und machen einfach weiter. Ach wie schön, diese Unsicherheit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 14, Aufnahme vom 21.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #97
+
+* Titel: `GoW Ragnarök - #97 - Miklimannr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus mir nicht völlig verständlichen Gründen kommt es andauernd und quasi ohne Pause vor das wir in irgendwelche Höhlen und abgelegenen Orten Trolle finden. Das ist gar nicht so witzig wie es vielleicht klingt. Ein Troll ist im Großen bzw. sehr großen und Ganzen eigentlich auch ein sehr angenehmer Gegner. Im Gegensatz zu irgendwelchen anderen Leute in Schwertgefängnissen oder Alben sind sie nicht übertrieben schnell und verkörpern wesentlich besser die bevorzugte Beute von Kratos. Langsame aber starke Gegner zu denen der ehemalige Kriegsgott relativ schnell ist. Es ist einfach unfassbar frustrierend gegen einen Gegner zu kämpfen der schneller als man selbst ist und dann auch noch wenig Schaden zu machen und gleichzeitig wenig aus zuhalten. Kurzum, der Miklimannr könnte uns genauso schnell töten wie es die Alben oder andere Gegner tun, aber er ist fair, in dem Sinne das er langsam ist und unsere Fähigkeiten wesentlich besser auf seine Bewegungen ausgelegt sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 14, Aufnahme vom 21.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #98
+
+* Titel: `GoW Ragnarök - #98 - künstliche Grenzen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Echte Open-World Spiele haben sie, nicht so dolle Open-World Spiele besitzen sie erst recht und lineare Shooter bemühen sich meistens nicht einmal sie zu verstecken. Kartengrenzen! Es gibt sie überall. So offen eine Welt auch sein mag, irgendwo ist halt leider Schluss. Einige Spiele haben kreative Ansätze, spontan fallen mir die Helikopter aus Far Cry oder die Leviathane aus Subnautica ein. Manchmal gibt es da auch eine graue Zone in der man technisch gesehen nicht sein darf aber wenn man sich wirklich anstrengt dann kann man da schon irgendwie wohnen. Obwohl ich das in Subnautica nie versucht habe, eine Basis in der Deadzone zu bauen, wäre definitiv sau unpraktisch. Zurück zum Thema, God of War ist mehr ein Themenpark als eine offene Welt. Man darf ab und an von der Leine ab aber es ist relativ klar kommuniziert das es nicht weit geht. Das ist nicht besonders gut umgesetzt finde ich. Zum Beispiel wirkt Svartelfheim echt klein, irgendwie wird mir impliziert das es halt genau die eine Stadt Nidavellir und ein paar Augvangr Umländer gibt und dann war es das, die Welt endet einfach. Das ist schade, die Illusion von mehr Land hätte ich sehr genossen. Als letzter Gedanke fällt mir noch ein das man in Valheim wortwörtlich vom Rand der Welt fallen würde, das müsste theoretisch hier auch passieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 14, Aufnahme vom 21.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+  
+  
+
+##### #99
+
+* Titel: `GoW Ragnarök - #99 - Muspelheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt verschiedene Unterhaltungsformate auf Youtube über die ich mir immer wieder Gedanken mache. Mein persönlicher Favorit zum Zuschauen ist die Review + VOD-Channel Seite. Offensichtlich mache ich das nicht selber, ich habe einfach nicht die Zeit um für jedes Spiel das ich spiele ein Review zu schreiben und schneiden. Das ist wirklich aufwendig und man müsste sich eventuell Notizen beim Spielen machen. Aber ich mache auch nicht ganz VOD, ich gebe mir wirklich Mühe im laufenden Let’s Play Zeit zu sparen wo es nur geht so das das Video auf Youtube dann so viel relevantes Gameplay und Story enthält wie halt nur geht.  Wäre ich ein reiner Twitch-Streamer könnte ich Dinge wie den Muspelheim Farm einfach an einen dezidierten Tag machen, oder in einem acht Stunden Stream zwischenschieben. Aber da ich ein ausgestorbenes Konzept verfolge sind wir jetzt hier. Bei der einen Muspelheim Episode in der ich das „Live“ einmal ausprobiere und dann wahrscheinlich nie wieder anfasse.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 14, Aufnahme vom 21.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #100
+
+* Titel: `GoW Ragnarök - #100 - Hjalti, Svipdagr und Illskas Schwestern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht warum ich manchmal tue was ich tue. Ich sage erst das ich mich vor allem darum bemühe das Gameplay kurz zu halten, mich auf die Geschichte zu stürzen und dann falle ich kopfüber in die Endgame Bosse und versuche wirklich alles sie anscheinend viel zu früh zu besiegen. Davon einmal abgesehen das ich die Mechaniken nicht so großartig finde und der Meinung bin das rein Gameplay technisch einige Dinge nicht ausreichend optimiert wurden um frustrationsfreies Spielen zu erlauben. So sollten die gefangenen Ritter von WemAuchImmer eigentlich wesentlich früher besiegbar sein. An sich haben die zwar eine Menge Bullshit Angriffe aber mit einigen guten Parries möchte man doch meinen das das alles gar nicht so ein Problem wird. Tatsache ist aber das ich komplett weg geroffelt werden. Und selbst auf den niedrigsten Schwierigkeitsgrad merke ich das ich diesen Gegner noch nicht angreifen sollte. Das ist unangenehm. Warum ich es trotzdem tue? Ich habe ja gar keine Ahnung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 14, Aufnahme vom 21.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #101
+
+* Titel: `GoW Ragnarök - #101 - Hildisvini [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig lange her aber wir treffen heute einen Charakter den wir bereits kennen. Als Schwein. Leider wird nicht so wirklich erklärt warum der gute Hildisvinni so ist wie er ist. Anscheinend war er ja Freyas Berater aber warum er sich außerhalb von Vanaheim nicht verwandeln kann, warum unbedingt ein Wildschwein und viele andere Dinge gehören absolut zu den Unbekannten die uns wohl in nächster Zeit nicht erklärt werden. Immerhin wissen wir aber wo wir als nächstes hin müssen und was wir im Wald finden müssen. Zumindest so halb, für einen ganz kurzen Moment hatte ich sogar befürchtet das Kratos und Sohn auf einmal nichts mehr zu tun haben. Das wäre ja schrecklich gewesen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 14, Aufnahme vom 21.12.2023
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #102
+
+* Titel: `GoW Ragnarök - #102 - dem Mond hinterher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben den Mond verloren. Deswegen sind jetzt die Wölfe maulig und die Gesamtsituation ist ein wenig unüberschaubar für mich. An sich sollte es ja kein Problem sein nur weil der Mond weg ist. Offensichtlich folgt die Welt ja eh nicht irgendwelchen Naturgesetzen. Vanaheim sieht vielleicht aus wie ein normaler Dschungel aber im Großen und Ganzen handelt es sich um einen magischen Ort in dem die Pflanzen nicht wirklich Licht brauchen. Andernfalls wäre ein dauerhafter Tag natürlich ziemlich fatal. Allerdings bin ich mir nicht ganz sicher ob vielleicht Tropenpflanzen vielleicht mit ständigen Licht gut klar kommen solange es regelmäßig regnet und irgendwie magisch das Wasser nach kommt. Insofern könnte man dann die Welt vielleicht dann größtenteils auf bekannten Naturgesetzen aufbauen und muss nur an guten Stellen ein paar magische Abkürzungen nehmen. Das ist aber für den Moment alles egal, wir haben fest vor den Mond zurück zu holen. Irgendwie. Ob man den Vanaheim Mond irgendwie bereisen kann oder ist er nur die sichtbare Repräsentation eines Konzeptes?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 15, Aufnahme vom 25.01.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #103
+
+* Titel: `GoW Ragnarök - #103 - Schlüssel zur Nacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir finden heute den Mond. Das war vorher nicht so ganz klar das wir ihn überhaupt jagen aber ich hatte ja schon in der letzten Episode darüber philosophiert wie das genau funktionieren soll. Aber letztendlich sind wir wohl in einer Welt des Glaubens, der Magie und der Wunder. Insbesondere weil Vanaheim auch nicht Midgard ist. Es kann durchaus sein das man in Midgard außer Seidr quasi gar keine Möglichkeiten hat Magie von sich aus zu wirken und alles was so an magischen Dingen findet geht auf die Zwerge oder vagabundierende Götter zurück. Das hat natürlich die Bewohner dieses Reiches auch nicht davon abgehalten zur verbotenen Seidr Magie zu greifen, aber die wird erst später wieder wichtig. Viel interessanter ist das solche Dinge wie der Mond anscheinend mit einem Artefakt eingefangen werden können. Das es das Artefakt überhaupt irgendwo gab ist in sich schon interessant, aber auch ein wenig besorgniserregend. Man stelle sich vor jemand hätte an einem Dienstag den Mond eingefangen und diesen dann tief im Meer ohne Spuren versenkt. Der wäre doch verloren! Zum Glück handeln hier die Truppen Odins, die sind wesentlich transparenter. Und jetzt halten wir die Schlüssel zum Tagwechsel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 15, Aufnahme vom 25.01.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #104
+
+* Titel: `GoW Ragnarök - #104 - Macht über Licht und Dunkel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kann schon ein wenig ermüdend sein andauernd darüber zu reden wie ein plötzlicher Tag und Nachtwechsel die lokale Flora und auch Fauna ziemlich durcheinander bringt. Langsam reicht es auch, Midgard ist nach drei Jahren Winter immer noch nicht untergegangen und den Menschen dort geht es soweit ich das erkennen kann absolut prächtig. Warum sollte also in Vanaheim so ein kleines zeitlich begrenztes Ereignis jetzt einen riesigen Unterschied macht. Wir können jetzt frei Wechseln ob es Tag oder Nacht ist. Ich nehme an das in der Vergangenheit dies eine Macht war die eher selten genutzt wurde und ich möchte nicht der Programmierer sein der dies in irgendeine Art von Geschäftsplannungslogik einbauen muss. Auch aber agrikulturell orientiere Gesellschaften haben bestimmt die ein oder andere Schwierigkeit mit plötzlichen Wechseln in den Lichtverhältnissen. Oder du bist kriminell. Stell dir das mal vor! Da will man grade im Schutz der Dunkelheit in eine Bank einbrechen und plötzlich ist es helllichter Tag, da erkennt man zwar das Werkzeug besser aber eventuell auch die Wache. Das erscheint mir alles sehr ärgerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 15, Aufnahme vom 25.01.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #105
+
+* Titel: `GoW Ragnarök - #105 - Heimdalls Übermut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man sein Leben immer zurücksteckt und lieber nachgibt dann kann das am Ende auch nichts Gutes ergeben. Verschiedene Philosophen haben das bereits ausreichend beleuchtet, aber die Quientessenz bleibt eigentlich bei „Wen der Klügere nachgibt gewinnen die Dummen.“ Die echte Lebenslektion ist wohl das man mit einer Menge Erfahrung abwägen muss ob sich ein Kampf wirklich lohnt oder ob man guten Gewissens einfach Dickköpfen ihren Willen lassen kann weil es eigentlich gar nicht so wichtig ist. Letztendlich schafft das trotzdem eine Kultur in der Leute mit lautem Geschreie ziemlich weit kommen aber das ist dann wohl der Nebeneffekt davon das man nicht für alles Energie hat. Kommen wir zu Heimdall, ich habe all das erzählt um den Kontrast zu setzen. Es gibt verschiedene Typen Mensch (und Gott) die durch ihre Erziehung glauben das ihnen die Welt gehört, verzogene Kinder, insbesondere Leute vom „Adel“ und andere Reiche. Durch gelebte Praxis in ihren wichtigen formenden Jahren haben sie gelernt das es eigentlich kein Problem gibt das nicht das Geld ihrer Eltern bzw. dessen Einfluss kaufen kann. Im Fall des Gjallarhorn Trägers ist es aber wohl die Gewissheit das ihm nichts überraschen kann. In einem 1 gegen 1 Szenario ist dies bestimmt auch wahr, aber ich habe den Eindruck das Heimdalls geistige Kapazität doch eher gering ist. Klüger als andere Asen aber definitiv kein Ausnahmetalent. Die einfachste Taktik wäre es also ihn mit Unausweichlichkeiten zu überfordern. Pfeilhagel ohne Lücken, koordinierte Formationstaktiken, solche Dinge. Alles wo es keine echte Reaktion gibt. Dann bleibt nur der Rückzug aber dazu sollte die eingebrannte Arroganz ihn nicht befähigen. Und hier haben wir dann wohl auch die Schwachstelle gefunden. Arroganz. Jetzt brauchen wir nur noch einen römischen Phallanxtrupp.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 15, Aufnahme vom 25.01.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #106
+
+* Titel: `GoW Ragnarök - #106 - Gefängnisausbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Soweit ich die Geschichte studiert habe, und das ist wirklich nicht tief oder intensiv, so gab es in der Vergangenheit nicht wirklich Gefängnisse im heutigen Sinne. Ein Gefangener kostet Geld, braucht Wächter und verschlingt Nahrung ohne Gegenwert. Wenn man jemanden wegsperrt so kerkert man diese Person wohl eher ein und lässt sie langsam verhungern, was auch eine Hinrichtungsmethode ist, oder man macht sich Arbeitslager oder andere Formen der Zwangsarbeit zu nutze. Hohe politische Gefangene waren dann halt zu Gast oder wurden vielleicht wirklich in etwas aufbewahrt was zumindest grob unseren heutigen Gefängnissen ähnlich aussah. Es verwundert daher nicht das wir Freyr nicht im besten Zustand auffinden. Allerdings ist mir ein wenig rätselhaft wie genau man den Gott überhaupt festhalten kann. Als wir Odins Edikt gegen das Weltenwandern untergraben haben und der Fimbulwinter die alte Magie ungültig gemacht hat hätte er doch eigentlich auch wieder durch die Welten reisen können müssen, ganz ohne Tempel oder Tür, oder? Naja, die Einherjer haben bestimmt ihre Methoden und das ist hier alles ganz plausibel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 15, Aufnahme vom 25.01.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #107
+
+* Titel: `GoW Ragnarök - #107 - Helkas Spur [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir damals, also vor ungefähr 5 Minuten, Freyr befreit haben gab es leider Verluste. Ein heldenhaftes Opfer wie ich mir habe sagen lassen. Eines das notwendig war weil anscheinend die legendären Streiter Freyrs allesamt nicht in der Lage sind einen Luft-zu-Luft Kampf gegen wenige Wyvern zu gewinnen. Ich möchte noch einmal feststellen das Freya, Sohn als auch die Dunkelalbin potentes Fernkampfgerät an Bord haben. Sohn kann zusätzlich noch magische Falken herbeirufen, Freya kann zu einem werden und verfügt auch über sonstige Magie. Nicht zu vergessen auch die wortwörtlich unendliche Flute an Speeren die Kratos mit der Kraft eines Gottes in die Luft schleudern kann die in der Lage sein sollten einfach alles zu treffen und die es außerdem erlauben präventiv Luftraum zu saturieren. Stattdessen musste der Springer mit dem Großschwert, also einer effektiven Reichweite von etwa zwei Metern los laufen und das Problem, irgendwie, lösen. Das war eine ziemlich Sache und deswegen machen wir uns dann wohl heute auf um Vergebung zu betteln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 15, Aufnahme vom 25.01.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #108
+
+* Titel: `GoW Ragnarök - #108 - der Krater [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Soweit ich das sehen kann handelt es sich bei dem Gebiet das wir heute betreten haben um ein völlig optionales Gelände das wir vollständig missachten können. Es ist mir nicht bekannt ob sich irgendwelche Nebenmissionen auf den Verlauf des Endes auswirken aber ich würde es nicht vermuten. Insofern wird diese Gegend nur dazu dienen die Tätigkeiten von Odin bzw. der Asen im Allgemeinen näher bei zu bringen. Was ich zu dem Zeitpunkt an dem ich das hier schreibe noch nicht weiß ist wie groß das alles doch am Ende ist. Gewaltig könnte man fast sagen, eine ganz andere Region mit eigener Gestaltung und sogar Untergebieten. Ein wenig wie Midgard im Vorgänger, verschiedene kleinere Missionen die uns Hintergründe und eventuell sogar näher an das Mysterium des gefrorenen Blitzes heranbringen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 15, Aufnahme vom 25.01.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #109
+
+* Titel: `GoW Ragnarök - #109 - die Senke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich den Krater betreten hatte war mir nicht bewusst das es noch ein Anderes Gebiet namens die Senke gibt. Klar ist aber das es hier scheinbar eine schiere Fülle von Drachen zu finden gibt. Das ist insofern interessant als das die Gegend ja doch recht verdorrt und ausgestorben auf den ersten Blick anmutet. Aber ich würde vermuten das Drachen zumindest konventionell Hunger haben. Vielleicht brauchen sie die Nahrung nicht zwingend für ihr Überleben aber sie essen definitiv. „Fressen“ wäre wahrscheinlich präziser als das Drachen nicht grade für ihre Klasse und Eleganz beim Verspeisen von Nahrung bekannt sind. Gibt es hier vielleicht ein Geheimnis das tiefer als nur der eine kleine Krater und die Reste einer Vanenzivilisation geht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 16, Aufnahme vom 01.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #110
+
+* Titel: `GoW Ragnarök - #110 - Landdrache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode erwähnte ich Drachen und schon finden wir doch glatt einen. Dies ist nicht der erste Landdrache der uns über dem Weg läuft. Aber auch erst der Zweite. Ein Landdrache ist was meine Meinung angeht auch nur ein Dinosaurier, etwas mit dem ich eigentlich immer rechne wenn ich einen Fantasie Dschungel betrete. Dinos sind einfach die logische Wahl wenn man irgendetwas exotischen in einer grünen Hölle braucht. Alternativ könnte man natürlich auch Predatoren mit Laserkanonen oder Insektenschwärme heranziehen aber das wäre wohl für das aktuelle Setting ein wenig unpassend. Dinos hat es immerhin in der Gegend des heutigen Dänemark gegeben soweit ich weiß, insofern nicht völlig unwahrscheinlich das irgendwelche antiken Bauern über die Knochen solcher gefallen sind und sich Geschichte dazu ausgedacht haben die es dann auch in der nordischen Mythologie geschafft haben.  Ich fürchte bloß leider das eine so großartige Quelle für Knochenmehl nicht ungenutzt gelassen wurde und viele, leichter zu findende Spuren von Dinosauriern schon lange zu Düngern verarbeitet wurden. Das ist mir grade spontan eingefallen, keine Ahnung wie viel Realitätsgehalt diese Aussagen hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 16, Aufnahme vom 01.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #111
+
+* Titel: `GoW Ragnarök - #111 - Wunschbrunnen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit Wünschen soll man ja generell eher vorsichtig sein, die meisten Wunsch-erfüllenden Entitäten neigen dazu dem Ganzen einen gewissen Twist zu geben und das ist dann meistens ziemlich unangenehm. Tatsächlich gehören Wunschbrunnen aber eher zu den Dingern die, wenn sie dann Wünsche wirklich erfüllen, eigentlich keine Nebeneffekte haben. Vielleicht liegt das daran das man die Dinger, wenn auch nur symbolisch bezahlt. Wenn man so darüber nachdenkt dann sind die meisten anderen Wunscherfüller eher aus einer Zwangslage heraus. Der Dschinni kommt aus der Flasche, die Affenpfote wurde ja irgendwann entfernt und die Fee muss man erst einmal fangen. Nicht so der Brunnen, der steht einfach da und wartet darauf das man mit seinen Wünschen um die Ecke kommt. Tolles Gerät. Wir finden heute einen solchen und werden dann in Zukunft daran erinnert das er existiert. Großartig!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 16, Aufnahme vom 01.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1203,8 +1685,6 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   ```markdown
   Hier
   ```
-
-
 
 ### Theorien
 

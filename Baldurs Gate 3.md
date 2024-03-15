@@ -2987,55 +2987,170 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
 ##### #199
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #199 - tharchiatische Kodex [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich hätte nicht gedacht das sich einige Dinge so lange in die Länge ziehen wie die Nekromantie von Thay. Das Werk selbst haben wir ja ziemlich früh gefunden, das Lesen stellt sich dann als ein wenig ärgerlich heraus aber im Großen und Ganzen dachte ich eigentlich das die Sache schon abgeschlossen war. Ein wenig komisch ist das wir nie mehr über das Projekt des Nekromanten erfahren haben der unten im Keller des Monddorfes geforscht hat. Das ist ein wenig schade weil wir ja durchaus Interesse daran gehabt hätten Menschen tatsächlich und wahrhaftig wieder zu erwecken. Da ich wenig googlen kann ist mein Wissen im Moment auch ein wenig unvollständig aber ich glaube das es im DnD Universum absolut möglich ist jemanden wieder richtig ins Leben zu holen. So ganz ohne irgendwelche Nebenbedingungen. Es ist nur teuer und schwer, eine Aufgabe die wir eventuell nicht gewachsen sind. Lazarus aber sagt das es im Prinzip möglich ist, er selbst ist ein Gott oder besser der Schreiber der Götter wenn ich das recht verstanden habe, Myrkul hat Isobel wahrhaftig zurück ins Leben gebracht aber wir als Schattenherz verfügen ja auch über die Fähigkeit der göttlichen Intervention. Es ist ja nicht so das ich die jemals nutze, da könnte ich genauso gut Maryas Mann zurück bringen oder so etwas. Wir lesen heute den tharchiatischen Kodex und die Lösung der Probleme eine jungen Frau gehören leider nicht dazu. Anscheinend ist es ihr Schicksal sich einfach mit dem abzufinden was geschah. Das stellt mich unzufrieden, sollte aber wohl im Erwartungsrahmen sein. Was für eine Geschichte wäre es wohl wenn am Ende alle glücklich sind? Ein Märchen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 18.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #200
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #200 - Ramaziths Turm [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Diese Episode ist besonders! Du hast es bestimmt schon erraten, auf dem Thumbnail ist nicht Schattenherz, also meine Progonistin sonder Lorroakan der Magier. Eine ganz schöne Weichnudel, aber sie haben es hingekriegt ihm wirklich gute, arrogante Posen zu verschaffen und die entsprechenden Screenshots haben mir zu gut gefallen um ihn nicht darauf abzubilden. Ich weiß allerdings immer noch nicht warum es sich eigentlich um Ramaziths Turm handelt und nicht Lorroakans Turm, wahrscheinlich weil er das Ding nicht gebaut hat. In Anbetracht der Tatsache das es hier auch noch Schätze zu heben gibt die er noch nicht entdeckt hat würde ich auch vermuten das er sich gar nicht all zu sehr für das Bauen von Türmen interessiert. Hier bräuchte man ein wenig Hintergrundwissen von Dungeon and Dragons, aber ich würde einfach mal in den Raum stellen das das Erbauen von Türmen bei Magiern in der Vergangenheit beliebter war. Die Baugenehmigung für ein so gewaltiges Gebäude innerhalb der Stadtmauern wäre wohl in den modernen Tagen eher schwierig zu bekommen. Ich finde übrigens das die Höhe des Turmes ein wenig sehr übertrieben ist. Müsste man das Bauwerk nicht von weit weg sehen oder ist das alles Teil einer optischen Illusion die sich der ursprüngliche Erbauer hat ausgedacht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 18.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #201
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #201 - Lorroakans Unsterblichkeit [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Unsterblichkeit scheint nicht ganz trivial zu sein. Wahrscheinlich auch weil die Welt letztendlich von den Göttern beherrscht wird und diese Eigenschaft mit ihnen verbunden wird. Also sind von Haus aus nur ihre Diener und Abkömmlinge wesentlich robuster. Dennoch gibt es ein paar Wege die Sterblichkeit los zu werden, ein Beispiel haben wir nur sehr unweit von hier in Form von Vater Aas. Der gut Mann ist eine totlose Mumie und das kommt anscheinend mit einigen Nachteilen. Eine Andere Methode wäre der Vampirismus aber das mit dem Sonnenlicht ist schon ein echter Showstopper. Dann wäre da noch Vlaakith die ein Lich ist, soweit ich das verstanden habe nicht all zu anders als der Weg den Vater Aas genommen hat. Bei den meisten dieser Methode kommt oben drauf auch noch das man nicht nur nicht altert sondern auch wirklich nicht sterben kann. Die Vettel Taktik mit den Sporen erscheint mir aber bis her am Besten zu sein. Leider setzt sie auch ein gewisses Setup voraus. Bewegt man sich zu weit vom eigenen Bau weg gibt es unter Umständen Probleme. Lorroakan möchte aber die Freiheit genießen..um dann wahrscheinlich 90% der Zeit doch in seinem Turm zu hocken. Er gibt sogar in seinen eigenen Aufzeichnungen zu das er andere Wege nutzen könnte, aber stattdessen wählt er diesen. Ich bin übrigens überrascht das er noch so jung aussieht. Ich vermutete ja initial das er nahe der Schwelle des Todes steht und daher ein wenig Eile walten lassen muss, was auch erklären würde warum er keine einfacheren Methoden wählen kann. Aber nein, stattdessen steht er in der Blüte seiner Jugend und ich verstehe wirklich nicht was das hier alles soll. Und nun sind wir an dem Punkt an dem jemand ein hohes Risiko eingegangen ist und nun auch der ebenso hohe Preis fällig wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 29, Aufnahme vom 18.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #202
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #202 - Audienz bei Mystra [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir haben uns erfolgreich mit einem potenziellen Unsterblichen angelegt und das Problem im Keim erstickt. Machen wir weiter, schließlich haben wir nicht den ganzen Tag Zeit und einen ganzen Koffer voller Probleme. Und ich meine Probleme, keine Herausforderungen wie einen vielleicht irgendein Business Seminar verkaufen will. Das sind auch keine dornigen Chancen oder Herausforderungen. Es sind stumpf Probleme. Dinge die im Weg stehen und unseren eh schon verkorksten Weg durch die Realität ein weiteres Stück schwerer machen. Heute geht es um unseren Magier, wie auch sonst bei dem Titel. Technisch gesehen ist Mystra wohl für alle Magier zuständig und jeder Zauberer von Rang ist quasi eine Priesterin der Mystra ob sie nun will oder nicht. Konkret geht es aber heute um Gale. Der alte Sturmwind hatte ja einst etwas mit der Göttin der Magie und sieht jetzt eine Möglichkeit noch einmal eine Chance zu erhalten. Mit eventuell ziemlich krassen Konsequenzen. Die ganze Geschichte mit der Krone von Karsus ist übrigens ein wenig komisch finde ich. Aber das liegt wohl daran das ich die Metaphysik nicht verstehe. Anscheinend können die Götter generell nicht direkt eingreifen es sei den sie haben einen „Casus Belli“, zum Beispiel wenn jemand ihren Tempel schändet, und selbst dann nicht ganz direkt. Warum genau Vlaakith dann in einer Szene in der Lage ist uns einfach zu töten ist mir übrigens nicht klar. Nur so kann ich mir erklären das sie weder in der Lage war die Krone direkt zu greifen noch sie später aus den sieben Höllen zu bergen. Und genau das ist das was wir jetzt verhandeln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 23.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #203
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #203 - Hof des Tribunals des Mordgottes [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir vermissen immer noch Lae’zel und langsam wird es echt mal Zeit das wir die Gute retten. Wenn alles so läuft wie ich mir das vorstelle. Und es ist nicht gesagt das es das auch tun wird. Aber damit es überhaupt so weit kommt müssen wir wohl in den Tempel des Bhaal einbrechen. Ein Vorhaben das letztes Mal daran gescheitert ist das die Tür nicht aufgehen wollte. Und ja, ich habe auch versucht die Wand daneben zu zerstören, das ging auch nicht. Wir müssen also einen entsprechend relevanten Vertreter des Mordkultes irgendwo anders in der Stadt auftreiben und dann solange Vorsprechen bis wir haben was wir brauchen. Mit Vorsprechen meine ich natürlich radikale Mittel der Überzeugung, es ist ja nicht so als hätten wir irgendetwas mit diesem Mordkult zu tun. Allerdings haben wir seinen diversen Dienern eine Menge Hände abgenommen, insofern hätten wir eventuell wirklich den regulären Weg gehen können. Habe ich aber nicht vor.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 23.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #204
+
+* Titel: `Baldur's Gate 3 - #204 - Sarevok Anchev [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Veteranen der Baldur’s Gate Spiele kennen Sarevok Anchev bereits als Oberbösewicht und Bhaalbrut der vergangenen Spiele. Letztendlich wiederholt sich die Geschichte hier sogar ein wenig, nur das wir halt Schattenherz sind und nicht jemand Anderes der eventuell ein wenig mehr in dieser Geschichte eingebunden ist. Davon einmal abgesehen bin ich auch ein wenig sehr überrascht das Bhaal sich überhaupt so sehr um seine Anhänger kümmert das hier einfach jemand wieder zurück ins Leben gebracht wird. Klar, der Typ war ziemlich hochrangig aber es überrascht mich dennoch. Auch das es überhaupt möglich ist, wir sehen eine Selûne beispielsweise nicht einfach eine wichtige Priesterin wieder bringen. Aber eventuell leben hohe geistliche bestimmter Götter auch besonders lange und es ist alles ein wenig subtiler. Oder aber die toten Drei können Personen generell ein wenig mehr aus dem Tod zurückholen weil sie dem Sterben konzeptionell näher sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 23.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #205
+
+* Titel: `Baldur's Gate 3 - #205 - Orins Mordaltar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bedauere die Dinge die in dieser  Episode geschehen sehr. Ich wünschte ich hätte die Situation anders gelöst, aber wir befinden uns am Ende der Geschichte und es wird wohl endlich Zeit das wir die Konsequenzen unseres Handels spüren. Ich muss übrigens zugeben das ich mir wünschte das ich schon früher damit angefangen hätte zu tryharden. Nicht auf dem höchsten Schwierigkeitsgrad zu spielen, das klingt nach einer zu großen Herausforderung, aber zumindest keine Situationen zu laden wenn sie nicht darauf hinaus laufen wenn mein Team stirbt. Ich weiß das ich insbesondere am Anfang ziemlich aggressiv den Ladebutton gedrückt habe. Und daher mache ich solche Dinge wie heute, ich sage welche Entscheidung gilt und alles was ich dann tue ist nur um meine Neugier zu stillen. Aber die Kanonentscheidung wurde bereits gefällt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 23.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #206
+
+* Titel: `Baldur's Gate 3 - #206 - das letzte Narrenteil [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Toten sind tot und da wir anscheinend keine wahre Wiederbelebung haben oder andere Methoden besitzen unsere Probleme mit roher, magischer Gewalt zu lösen müssen wir wohl den Weg gehen den das Spiel für uns vorgesehen hat. Übrigens auch tot ist auch der Narr des Zirkus seit er von Bhaalisten getötet und zerstückelt wurde. Warum genau sie insbesondere mit dem Narren so gründlich und tief gehen waren kann ich auch nicht sagen und eventuell habe ich hier zu auch eine Notiz übersehen, aber wichtig ist das wir definitiv alle Teile nun haben und man ihn wieder zusammen setzen kann. Und das ist doch wohl eine gute Nachricht. Weil damit geht eine der letzten wahren Nebenmissionen von unserem inneren schwarzen Brett und der Weg wird immer klarer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 27.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #207
+
+* Titel: `Baldur's Gate 3 - #207 - Umberlees Haus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Umberlee ist anscheinend die örtliche Göttin des Meeres. Wenn man dem führenden und leider viel zu früh verstorbenen Experten auf dem Gebiet für Götter und Metaphysik, Sir Terry Pratchett, glauben darf, so ziehen Götter ihre Macht aus der Menge an Seelen die an ihnen glauben. Das ganze wird dann noch ein wenig unscharf weil Glaube keine binäre Währung ist, ein flammender Fanatiker kann unter Umständen mehr wert sein als 20 Kirchgänger die das Ganze eher als Routine sehen. Obwohl Sir Terry in seinem Standardwerk „wahre Götter“ auch erwähnt das Fanatiker durchaus völlig frei vom Glauben sein können. Im selbigen Werk vermerkt er aber auch das Meeresgötter immer mächtig sind weil es auf hoher See ziemlich schwierig ist nicht an irgendetwas zu glauben. Insofern ist der opulente Palast der Umberlee fast schon übertrieben, aber ich kann jetzt schon sagen das eine interessante Rüstung als Belohnung winkt, und das ist für mich Grund über Vieles hinweg zu sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 27.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #208
+
+* Titel: `Baldur's Gate 3 - #208 - Gießerei der Stahlwache [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Etwas das ich definitiv schon viel früher hätte machen sollen ist ein Besuch der Stahlwache. Die kleinen Roboter machen uns offensichtlich Schwierigkeiten und soweit wir wissen könnte es einen einfachen Weg geben sie auszuschalten. Wir wissen das Gortasch eine Vorstellung einer perfekten Welt hat und die besteht darin das alles und jeder eine ferngesteuerte Drohne ist. Ferngesteuert heißt in diesem Fall also auch das es irgendwo ein Kontrollzentrum geben muss. Das könnte natürlich als völlige Überraschung irgendwo in der Oberstadt stehen aber ich würde spontan davon ausgehen das es sich irgendwo im Keller der Schmiede befindet in der die Gondier ihre ach so tolle Stahlwache herstellen. Außerdem kann ich mich als Held aufspielen und irgendwelchen Gnomen helfen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 30, Aufnahme vom 27.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #209
+
+* Titel: `Baldur's Gate 3 - #209 - Laborebene der Gießerei [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben eine ungefähre Vorstellung wie genau die Stahlwache gebaut wurde. Wir wissen das Gortasch, neben seinen Ambitionen, durchaus ein nicht ganz unfähiger Mechaniker ist. Anscheinend war er zum Beispiel auch in der Lage ein Gerät zu bauen das die absolute Gehorsamkeit der Gondier erzwingen konnte. Das und ein wenig sozialer Druck, allerdings frage ich mich schon ein wenig ob das gute alte Sprengstoffhalsband wirklich die beste aller Idee war. Ein nuancierter Ansatz erscheint mir durchaus besser, aber wahrscheinlich glauben Baniten einfach nicht an nuanciert oder Dingen wie „Zuckerbrot und Peitsche“. Immerhin finden wir die Laborebene und in der finden wir dann auch heraus wie die Würstchen hergestellt werden. Das ist ein direkt übersetztes Sprichwort aus dem Amerikanischen „how the sausage is made“ und spielt auf eine Filmreihe an. Die Bevölkerung Baldurs Tor weiß natürlich nichts über all die schönen Dinge die mitten in ihrer Stadt geschehen. Und wahrscheinlich will sie das auch nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 31.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #Nummer
 
 * Titel: ``
 
@@ -3053,4 +3168,141 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
   ```markdown
   Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #241
+
+* Titel: `Baldur's Gate 3 - #241 - Epilog [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und damit sind wir am Ende angelangt, bzw. eigentlich sind wir schon darüber hinaus. Dies ist die Episode mit dem Feature das ich nur habe weil ich schön langsam gespielt habe und es daher Larian erlaubt war ein wenig zu patchen. Wir sind jetzt nämlich in der wunderschönen Position das Lager des Wiedersehens sehen zu dürfen. Eine Sache die es ursprünglich nicht im Spiel gab. Wir können noch einmal mit all unseren Begleitern reden. Ist das nicht schön?
+  
+  
+  0:00 Einladung
+  4:53 Dialoge: Milil
+  6:44 Dialoge: Karlach
+  9:18 Dialoge: Volo
+  11:20 Alle Briefe
+  25:13 Dialoge: Wyll
+  30:00 Dialoge: Astarion
+  34:33 Kleidertruhe
+  36:23 Dialoge: Gale
+  40:34 Dialoge: Halsin
+  51:23 Dialoge: Jaheira
+  54:52 Dialoge: Minsc
+  58:40 Lazarus Bibliothek
+  01:00:00 Zeitungen, Baldurs Ohr
+  01:03:20 Lazarus Abschlussworte
+  01:06:20 Abspann
+  01:08:47 Letzte Kommentare
+  01:14:31 After Credits
+  01:17:10 Visper Cora, privater Durchlauf
+  01:19:13 Meine Abschlussworte
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 36, Aufnahme vom 05.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```

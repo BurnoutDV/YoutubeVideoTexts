@@ -1,6 +1,6 @@
 ## Yakuza 6 - Song of Life / Inochi no Uta ( いのちの歌 )
 
-* tags = `Kazuma Kiryu,Gion,Daigo,Dojima,Tojo Clan,Toyko,Shinjuku,Lets Play,gameplay,playthrough,übersetzung,translated,german,deutsch,cheats,first try,blind,akiyama,morning glory,kamurochi,saio,ed,2016,hiroshima,haruto,live dub`
+* tags = `yakuza 6,song of life,kiryu,kazuma,deutsch,dubbed,subbed,2016,haruka,haruto,Akiyama,heihaza,jingweon,tsuneo,iwami,someya,tojo,Takeru,kurusu,nagumo,saio,yuta,goro majima,taiga,saejima,hirose,JUSTIS,date,schiffe,schiffswerft,yamamoto,hiroshima,tokyo,shinjuku,yamano dodai,onomichi,sugai,yuta usami,daidoji,tatsukawa,joon-gi han,ka long,bantam,omi alliance,kamurocho,stardust,shanri-la,little asia,morning glory,tonkotsu,いのちの歌,Inochi no Uta, lets play, daigo dojima, gameplay, ingame`
 
 ##### # Copy & Pasta
 
@@ -1300,12 +1300,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvR
 
 ##### #86
 
-* Titel: ``
+* Titel: `Yakuza 6 - #86 - Tod [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Damit eine Geschichte Bedeutung hat braucht sie Fallhöhe. Etwas muss passieren das bestimmte Vorgänge in Gang setzt die sich so nicht mehr umkehren lassen. Wäre alles nur ein kleiner Umweg wäre alles irgendwie hohl. Soweit so klar. Was ich nicht verstehe ist warum viele Menschen ihr Leben so leben als müsste es eine Geschichte sein. Es dürfen nicht alle glücklich sein weil sonst die Welt langweilig ist? Jemand anderes muss leiden damit der Kontrast inwiefern es mir besser geht größer ist? Das passiert erstaunlich oft. Eine der weniger leicht umkehrbaren Geschichten ist der Tod. Zeitreisegeschichten und jene in denen man Leute wieder aufheben kann sind daher besonders gefährlich. Der Tod droht an Bedeutung zu verlieren. In den meisten Medien sollte man sich aber immer die goldene Regel vor Augen halten, wer nicht vor laufender „Kamera“ stirbt ist nicht tot. Dazu eine persönliche Note, in meinem Leben sind erst zwei Leute die mir wirklich wichtig waren gestorben, langsam komme ich in das Alter in dem es wohl noch mehr sein werden, aber bei beidem habe ich nie eine Leiche gesehen. Ein kleiner Teil von mir will einfach nicht wahrhaben das jene Menschen von mir gegangen sind. Aber doch weiß ich es das mein Leben kein Film ist. Und so sollte man sich wohl immer bewusst sein das die Zeit die einem mit jemanden bleibt begrenzt ist und die die man hat sollte man nutzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Yakuza 6 auf dem Montags, 18 Uhr Slot.
+  Sitzung 13, Aufnahme vom 29.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN6R6dmaPfBKNLjDpSGvRUy
   ```
 
 ## Fazit

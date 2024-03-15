@@ -1676,6 +1676,366 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
   ```
 
+##### #112
+
+* Titel: `GoW Ragnarök - #112 - Krater bei Nacht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Einführung von Skjöll und Hati in unsere Werkzeugrepositorium hat dazu geführt das wir die Welt jetzt in ganz anderen Augen sehen können. Schlimmer noch, rein theoretisch sollten wir jetzt in der Lage sein den Himmel in allen neun Welten zu manipulieren, soweit ich das verstanden habe ist das Himmelsfirmament etwas Allgemeines und nichts das durch eine Grenze unterbrochen wird. Nur das Reich zwischen den Reichen, also auf dem Weltenbaum selbst liegt in einem dauerhaften Dämmerzustand. Ob wir damit irgendwie Odin nerven könnten? Wahrscheinlich nicht, der sitzt ja eh den ganzen Tag in seinem Keller rum und brütet vor sich her. Es bleibt also den großen Krater in der Nacht zu besichtigen. Dadurch stehen die Pflanzen ein wenig anders und wir können vorher unzugängliche Wege beschreiten. Das alles haben wir ja schon gemacht. Das letzte Mal das wir einen solchen Pfad beschritten haben war auf einmal Heimdall tot und wir ein Gjallahorn reicher. Das war eine Tragödie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 16, Aufnahme vom 01.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #113
+
+* Titel: `GoW Ragnarök - #113 - Rückkehr des Flusses [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Land ohne Wasser ist ein totes Land. Oder anders, Wasser bedeutet Leben. Das ist zumindest auf der Erde so. Bei Ammoniak basierenden Lebensformen wäre das vielleicht alles ein wenig anders aber da wir uns in der nordischen Mythologie befinden die sich aktiv an der menschlichen Zivilisation orientiert können wir wohl davon ausgehen das die alten Nordleute eher selten über die mögliche Existenz von Wesen nachgedacht haben die einen anderen Grundstoff als Wasser und Sauerstoff benutzen. Allerdings haben sie wohl aus Versehen deren Existenz vorbereitet in Form der Riesen und anderer Wesen die quasi pure Energie oder ein klassisches Element sind. Siehe auch Surtr der Feuerriese oder Frostriesen wie Tamur. Diese sind aber wohl eher von Magie betrieben als von Wasser. Sie könnten vielleicht Wasser sehr gut gebrauchen, aber wenn es hier einen Engpass gibt, dann fließt Magie in die Lücken und füllt das Verlangen. Diesen Luxus haben nicht alle Wesen, und deswegen machen wir heute rückgängig was Odin getan hat, wir drehen das Wasser auf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 16, Aufnahme vom 01.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #114
+
+* Titel: `GoW Ragnarök - #114 - der Dschungel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir das Wasser haben laufen lassen können wir jetzt endlich die grüne Hölle erkunden. Die Tatsache das all die vielen Pflanzen jetzt sogar noch mehr Wasser zur Verfügung haben ist bestimmt nicht gut wenn man in nächster Zeit vor hat die alten Ruinen der Vanen zu erkunden. Es fehlt ein wenig eine zivilisatorische Hand die hier für ein wenig Ruhe und Ordnung sorgt. Oder halt auch Vanen die in Harmonie mit der Natur leben. Wir wissen tatsächlich so gut wie gar nichts über die Art und Weise wie das Leben der ehemaligen Bewohner hier war. Vielleicht waren die Bauwerke und Tempel auch wunderschön in die Bäume und Hügel integriert, aber es spricht einiges dafür das sie einfach in den Dschungel rein gebaut haben und jetzt, nachdem sie ein paar Jahre weg waren, der Wald sich sein Recht wieder zurück geholt hat. In dem Sinne war das Landwohl nur geborgt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 16, Aufnahme vom 01.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #115
+
+* Titel: `GoW Ragnarök - #115 - Drachenjagd [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es waren keine Drachen die uns bei der Flucht aus dem örtlichen Gefängnis haben abstürzen lassen, aber es war ein Drache der unser Boot vom Himmel geholt hat als wir ein zweites Mal in die Lüfte stiegen und den Spuren von Birgir folgten. Die Gesamtsituation ist jetzt nicht so schlecht, zumindest für uns nicht. Aber allgemein scheinen Drachen eher schlecht für die Lande zu sein. Als wir damals in Midgard welche trafen handelte es sich um verwandelte Zwerge mit denen man irgendwie, zumindest so ein wenig, reden konnte. Und mit reden meine ich das wir sie befreit haben und sie dann irgendwann aufgehört haben uns zu verbrennen. Von einer wirklich harmonischen Beziehung kann echt nicht die Rede sein. Die Drachen hier im Krater sind aber eher grausam und anstrengend, grade zu nachtragend. Das können wir nicht weiter erlauben, und daher gehen wir heute auf die Jagd.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 16, Aufnahme vom 01.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #116
+
+* Titel: `GoW Ragnarök - #116 - der Leichenfresser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich erwähnte in der letzten Episode das wir Drachen jagen. Mehr oder weniger aus Prinzip, es ist ja nicht so das wir wirklich eine dringende Notwendigkeit haben Drachen zu töten. Klar, die Viecher stehen ein wenig im Weg und greifen uns andauernd von den Seiten an. Wenn wir mit dem Luftschiff versuchen würden davon zu schweben wäre es bestimmt schwierig, aber wir haben ja Portale. Und eigentlich wollen wir nur Birgir retten. Alle anderen Leute sind schon seit langer Zeit tot und Drachen können Geister nicht fressen. Generell haben die Drachen hier anscheinend so gut wie keine spirituelle Komponente. Klar, die großen Raubtiere können Elemente beherrschen, aber davon einmal abgesehen sind ihre Möglichkeiten eingeschränkt. Das alles gesagt, töten wir heute den Leichenfresser. Irgendwann entscheide ich mich dafür eine Art Taktik anzuwenden und Muster zu erkennen. Ab dem Zeitpunkt geht das auch alles ein wenig besser. Das ist auch ganz gut so, das Wissen werden wir später noch einmal benutzen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 17, Aufnahme vom 0(.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #117
+
+* Titel: `GoW Ragnarök - #117 - Wasserwege [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit den geöffneten Schleusentoren und den nervigen Drachenviechern die nicht mehr in der Luft rumhängen können wir jetzt endlich Boot fahren. Das war vorher nicht möglich weil der Krater wirklich nur das war. Ein episch zerstörter Ort der leider völlig ausgetrocknet war. Ohne Wasser kein Boot, zumindest kein normales, und das schwebende Boot hatte ja leider die ärgerliche Drachenproblematik. Ich erwähnte ja oben schon das wir das mit den Drachen eigentlich in den Griff bekommen haben wollen, aber laut meinem Tagebuch sind da noch ein paar offen. Fahren wir also erst einmal wieder das traditionelle Wasserboot und schauen uns an wo wir heute raus kommen. Immerhin scheint es so als würden wir uns langsam aber sich hier dem Ende nähern. Das wird auch langsam einmal Zeit. Für einen optionalen Teil zieht sich das hier alles ganz schön lang und bietet relativ wenig Geschichte. Das finde ich nicht gut.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 17, Aufnahme vom 08.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #118
+
+* Titel: `GoW Ragnarök - #118 - Jørgen der Eidwächter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eine Weile her, aber wir sind gekommen weil wir einen Typen namens Birgir gesucht haben. Angeblich lebt er noch und wartet eigentlich nur darauf das wir ihn retten kommen. Vom Prinzip her sind wir seiner Rettung schon ziemlich nahe. Der Wasserweg ist, bildlich gesprochen, geebnet und es fehlt nur noch ein kleines Schloss und schon sind wir da. Aber das ist ja nicht wirklich warum wir hier in der Gegend sind. Anscheinend gibt es hier ein Geheimnis, die gute Faye hatte hier scheinbar Geschichte. Wir erinnern uns daran das Thor anmerkte das es nicht das erste Mal ist das sein Blitz gefror. Auch hier befindet sich ein ebensolcher, gefrorener Blitz. Wir haben Geister deren Geschichte noch nicht fertig erzählt ist. Die Drachen wollen auch nicht unerwähnt bleiben. Und dann sind da noch die Springer, hühnenhafte Krieger die auf „dem Pfad“ sind. Was genau diesen Pfad ausmacht wissen wir nicht, uns ist aber schon bekannt das Birgir sich scheinbar gegen den Pfad entschieden hat. Vielleicht erfahren wir heute warum.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 17, Aufnahme vom 08.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #119
+
+* Titel: `GoW Ragnarök - #119 - Dreki sind Drachen! [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mittlerweile den ein oder anderen Drachen besiegt. Meines Wissens handelt es sich bei Drachen um große Echsen die vielleicht aber vielleicht auch nicht fliegen können. Da die Existenz von Landdrachen gegeben ist können wir es leider nicht auf geflügelte Feuerspeiende Monster beschränken. Allerdings wusste ich nicht das die Definition sogar noch weiter geht und habe mich daher gewundert warum ich angeblich schon soviele Drachen getötet habe. Es stellt sich doch glatt heraus das, völlig logisch, wenn es Drachen für Land und Luft gibt natürlich auch eine Wasserart existiert. Und diese Art heißt anscheinend Dreki. Das erklärt so Einiges und meine Statistiken werden damit wesentlich klarer. Allerdings würde ich dennoch vermuten das nur die fliegenden Exemplare wahre Drachen, als Draco Nobilis sind, so wie Sumpfdrachen eigentlich auch nicht wirklich unter diese Kategorie fallen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 17, Aufnahme vom 08.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #120
+
+* Titel: `GoW Ragnarök - #120 - die Ebene [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren jetzt im Krater und der Senke, beides Namen die schon ziemlich gleich klingende Orte beschreiben. Anscheinend gibt es aber noch einen kleinen, dritten Abschnitt der sich die Ebene nennt. SO richtig getrennt wie die anderen beiden Orte ist dieser aber nicht. Es handelt sich um ein ziemlich überschaubares Stück Land gegenüber von dort wo wir gelandet sind. Viel zu holen gibt es dort auch nicht aber es wird wohl trotzdem eine Weile dauern bis wir hier alles gesehen haben. Erkunden wir also diese Ebene. Ich persönlich muss bei dem Namen aber eher an weite Steppen und einen Blick der bis an den Horizont geht denken. Das Gebiet das wir heute durchschreiten könnte auch „die zerklüffteten Felsen“ heißen. Aber wahrscheinlich wollten die Entwickler diversere Namen anstreben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 17, Aufnahme vom 08.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #121
+
+* Titel: `GoW Ragnarök - #121 - das purpurrote Grauen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wilde Drachen scheinen ein Ding zu sein. Letztendlich müssen sie das ja auch, die Drachen die wir in Midgard getroffen haben waren zwar verwandelte Zwerge aber es wäre wohl außerordentlich unwahrscheinlich das irgendeine Magie in etwas verwandeln würde das es vorher gar nicht gegeben hat. Jetzt wäre allerdings noch festzustellen ob wirklich alle Drachen die wir in Midgard getroffen haben verwandelte Wesen waren oder ob das eher sehr spezifisch für die paar Zwerge die wir trafen war. Oder anders gesagt, sind Drachen in Midgard heimisch, und wenn nein, woher kommen sie? Wenn man nach Pratchett geht dann laben sich Drachen an reiner Magie. Gibt es nicht genügend magische Hintergrundstrahlung dann verschwinden sie in eine Art Taschendimension und tauchen erst wieder auf wenn sich die Gezeiten geändert haben. Vielleicht erlebt Midgard aktuell eine solche Magieflaute, insbesondere durch den Fimbulwinter. Hier in Vanaheim scheinen die Dinge aber noch ein wenig anders zu stehen, ich frage mich nur wer den Viechern die Namen gegeben hat. Oder ist das etwas das später durch Atreus attributiert wurde?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 17, Aufnahme vom 08.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #122
+
+* Titel: `GoW Ragnarök - #122 - Hertha die Hasserfüllte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend habe ich mich die letzten paar Male immer und immer wieder verlesen. Ich dachte immer es heißt „der Hasserfüllte“ aber es war wohl „die Hasserfüllte“. Zumindest hatte ich es so verstanden das wir technisch gesehen immer gegen das gleiche Draugr Wesen gekämpft haben als wir die entsprechenden Löcher fanden. Dieses hier ist aber das Letzte und damit haben wir das Spiel wahrscheinlich auch so gut wie beendet oder? Alle Draugr tot, was gibt es da noch mehr zu tun? Erwähnenswert ist das ich das hier beinahe auch so geschafft hätte. Leider dann doch nicht so richtig und ich musste wieder einmal den Weg der Schande in das Optionsmenü antreten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 17, Aufnahme vom 08.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #123
+
+* Titel: `GoW Ragnarök - #123 - Wasser in der Senke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich damals die große Wassersperre geöffnet habe hatte ich gar nicht daran gedacht das es ja auch die Senke betrifft. So heißt der Landstrich der am weitesten von der Wasserquelle entfernt ist und in dem wir ganz am Anfang waren. Dort gab es einen weiteren Drachen den ich aber schon wieder völlig vergessen hatte. Das liegt aber eventuell auch ein wenig daran das Drachen von Weitem alle sehr gleich aussehen und ich beim besten Willen nicht den Feldstecher zur Hand hatte um die unterschiedlichen Drachen korrekt und sofort zu unterscheiden. Will sagen, ich dachte ich hatte das Vieh bereits schon woanders getötet aber dem war offensichtlich nicht so und jetzt sind wir in der Situation das hier noch ein ganzer Abschnitt fehlt obwohl ich dachte das ich schon alles erledigt hatte. Also schippern wir noch einmal fröhlich im Kreis, kämpfen gegen irgendwelche Berserker und finden dann noch einen Drachen. Toll.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 18, Aufnahme vom 16.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #124
+
+* Titel: `GoW Ragnarök - #124 - der Aschentyrann [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon wieder treffen wir einen Drachen. Allerdings möchte ich feststellen das ich mich gegen alles was Feuer ist ein wenig mehr zu wehren weiß als gegen Eis, Elektro oder Giftdrachen. Das liegt einfach an Fayes Axt, technisch gesehen wäre wohl was auch immer gegen Wind empfindlich ist auch ein leichtes Ziel für uns aber ich habe keine Ahnung was das sein soll. Soweit ich das verstanden habe hat Kratos seine ursprünglichen Klingen aus Griechenland eher mit Feuer gefüllt, ein Fakt, soviel kann ich schon einmal sagen, noch einmal in naher Zukunft relevant wird. Aber jetzt, hier im hohen Norden ist das Eis der Axt wesentlich relevanter und mehr zu unserem Markenzeichen geworden. Das geht sogar soweit als das wir die erste Zeit eigentlich nur die Axt verwendet haben für die Dinge die wir taten. Bis die Gegner kamen die sich von der Axt nicht haben beeindrucken lassen. Die natürliche Evolution davon waren die Elementschilde, aber direkte Resistenz bis zum Tod haben keine Gegner mehr. Der Aschetyrann selbst ist ein Drache und als solcher muss ich leider sagen das der Draupnir Speer schon wieder einen viel zu guten Job macht. Das bedauere ich sehr, wo ich die Kiste doch am Anfang so verflucht habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 18 Aufnahme vom 16.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #125
+
+* Titel: `GoW Ragnarök - #125 - die ungezähmte Wut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind eigentlich fertig mit dem Krater und damit können wir dann wohl anfangen Ragnarök beginnen zu lassen. Die Randbedingungen dafür haben wir ja schon lange, das Gjallarhorn das das Ende aller Welten bzw. der Grenze der Welten einleitet. Ich frage mich übrigens wie genau das funktioniert und wer sich all diese Mechaniken ausgedacht hat. Das Alles funktioniert ein wenig zu gut. Zu flüssig. Was nicht so gut funktioniert ist die Natur in der Senke, dem Krater oder generell in Vanaheim. Die ungezähmte Wut ist scheinbar eine Art Elementarwesen das die Gestalt einer behuften Zentaurin annimmt. Was genau das Wesen darstellen soll weiß ich übrigens nicht aber klar ist das man eher schwierig mit ihr reden kann. War sie schon immer so oder ist es ein Geist des Landes der durch die Zerstörung die Asgard gebracht hat in den Wahnsinn getrieben wurde? Ich glaube wir haben ein paar heiße Vermutungen erhalten, aber konkrete Details entziehen sich uns immer noch. Und bald ist sie tot, auch wenn wir wohl eh nie Fragen hätten stellen können, so ist die Chance jetzt endgültig vertan.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 18 Aufnahme vom 16.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #126
+
+* Titel: `GoW Ragnarök - #126 - das taktisch Klügste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Viele Dinge im Leben geschehen weil Leute emotional handeln, oder weil eine starke Asymmetrie von Informationen vorliegt. Das unterscheidet das Leben von Schach. Menschen müssen Entscheidungen auf Basis von Sichtweisen treffen die nicht notwendigerweise alles abbilden. Es wird sogar noch fraktaler, neben böser Gegenspieler von deren Existenz man eventuell überhaupt nichts weiß die absichtlich dafür sorgen das man nur Teile einer Prophezeiung erfährt gibt es auch ideologisch geprägte Entscheidungen, weil, wenn man anerkennen würde das das was man tut keinen Sinn mehr ergibt man alles aufgeben müsste was einen ausmacht. Umso mehr bewundere ich Leute die gegen ihre eigene Natur gehen und ab einem bestimmten Punkt einfach sagen „joa, das wars dann wohl“. Allerdings würde ich mir für mich selber wünschen niemals in eine solche Sackgasse zu kommen, einen Punkt an dem man einfach gar nichts mehr tun kann. Interessanter wird es aber wenn die Gegenseite diese Sackgasse antizipiert aber die Sturköpfigkeit die mit reiner Gewalt gegen dieses Ende ankämpft am Ende doch noch gewinnt. Komplett andere Spiel, aber die Feuer Szene gegen Ende von Shadow of the Tomb Raider ist ein solcher Moment. Ein normaler Mensch würde brechen aber Lara Croft wird einfach zum Avatar der Wut und bricht durch. Und das bringt uns zu Kratos, dem Gott des Krieges, der Wut und Zorn. Der hier, nachdem alle bekannten Fakten offen liegen, auch gegen seine Natur handelt und loslassen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 18 Aufnahme vom 16.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #127
+
+* Titel: `GoW Ragnarök - #127 - neue Übersetzungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Übersetzungen sind oft wesentlich schwerer als es den Laien so vorschwebt. Aus dem guten alten Englischunterricht oder vielleicht sogar Franzözisch kennt man das ja, Texte übersetzen. Deutsch ist zwar nicht direkt eine romanische Sprache aber dennoch transportieren sich viele Konzepte ziemlich gut von A nach B ohne das man großartige Hürden überwinden muss. Hier und da gibt es Sprichwörter die wörtlich übersetzt nur sehr bedingt Sinn ergeben aber Dinge wie „Hals und Beinbruch“ und „break a leg“ haben sogar den selben Ursprung. Wenn man aber Sprachräume versucht zu übersetzen die nichts mit einander zu tun haben wird es interessant. Afrikanische Sprachen haben heutzutage europäischen Einfluss, aber antike Schriften eher nicht, oder südamerikanische Steinplatten. Oder generell alles aus Fernasien. Selbst wenn man alle Worte kennt und die Übersetzung rein nominell vollkommen klar ist erlauben manche Sprachen Interpretation. Insbesondere bei Sprachen die nicht lange oder quasi gar nicht in Schriftform existiert haben. Dann gibt es zusätzliche Informationen die nicht korrekt in die Schrift mit einfließen und zusätzlicher Kontext gebraucht wird. Daher funktioniert Atreus magische Übersetzungsfunktion auch nur fehlerhaft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 18 Aufnahme vom 16.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #128
+
+* Titel: `GoW Ragnarök - #128 - die ewige Kluft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bei 9 Welten ist es manchmal ein wenig schwierig die verschiedenen Orte von einander sauber abzutrennen. Midgard und Asgard scheinen sich zum Beispiel nicht wirklich großartig von einander zu unterscheiden. Helheim und Nilfheim sind irgendwie beides Orte an denen es sehr kalt ist. Die eine Welt hat nur einen grisgrämigen Raben rumstehen der die Toten überwacht und die Andere glänzt in diesem Spiel durch Eiskristalle. Ansonsten war Nilfheim aber bisher eine ziemlich Enttäuschung. Heute finden wir dann aber doch noch Verwendung für diesen Ort. Anscheinend ist hier der Platz des ersten Atems, was mich glauben lässt das Nilfheim eine sehr alte Welt ist die nur jetzt nicht mehr so richtig in Benutzung ist. Können Welten aus dem Baum fallen und doch Neue ersetzt werden? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 18 Aufnahme vom 16.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #129
+
+* Titel: `GoW Ragnarök - #129 - Jenseits des Schreis des ersten Atems [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das letzte Stück der Maske findet sich nicht wie ursprünglich gedacht in Helheim sondern in Nilfheim. Der Unterschied bei der Umgebungstemperatur ist ohne genaues Messgerät aber wohl eher nicht feststellbar. Ich weiß immer noch nicht ob die Orte die ein wenig verlassener sind etwas darstellen sollen das vor der jetzigen Zeit existiert hat. Quasi die verfallenen Ruinen aus einer andere Zeit an die sich niemand mehr erinnern kann. Das Rad der Zeit dreht immer weiter und aus Legenden werden Mythen bis diese auch vergessen werden. Und am Ende bleiben nur noch ein paar Eis überzogene Steine an einem fernen Ort. Was wir aber auch finden ist das letzte Maskenstück. Aber warum ist es als „Schreis des ersten Atems“ bekannt? Ist das einfach nur der Name für Nilfheim selbst, oder hat es damit mehr auf sich? Das spiel liefert keine Antworten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 18 Aufnahme vom 16.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #130
+
+* Titel: `GoW Ragnarök - #130 - Suche nach Vitalität [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe schon öfter versucht in God of War ein gewisses Min-Maxing zu betreiben und der gesamte Prozess wird nicht grade dadurch erleichtert das es quasi keine konkreten Werte zu den meisten Fähigkeiten gibt. Es stehen zwar Zahlen dran die mir sagen das es so und so viel Vitalität gibt, allerdings ist das nur ein sehr unvollständiges Bild. Mir fehlen tiefe Einblicke wie Gegner agieren, wie deren Zahlen aussehen und ob und wie weit eine bestimmte Kombination in praktischen Werten wirklich einer anderen überlegen ist. Um das zu erfahren müsste man Tests machen. Tests die durch den Verlauf des Spiels immer schneller und schneller obsolet werden. Und auch enorm den Spielspaß unterbrechen. Das alles gesagt, ein paar Sachen hätte ich schon gerne getestet. Und deswegen suche ich heute nach einer Möglichkeit auf 175 Vitalität zu kommen um eine bestimmte Rune zu tragen. Es klappt so leidlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 19 Aufnahme vom 22.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #131
+
+* Titel: `GoW Ragnarök - #131 - Diskrepanz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lügen fallen auf wenn man sie mit der Wahrheit vergleicht. Oder so. Das praktische Problem in der oft sehr realen Welt ist ein eher philosophisches. Es fängt damit an das es gar nicht so einfach ist zu definieren was eigentlich die Realität ist. Streng genommen sind die eigenen Sinne nicht besonders verlässlich. Wer jemals unter dem Einfluss von Schmerztabletten, Fieber oder, Fortuna bewahre, Drogen stand, weiß was ich meine. Manchmal ist das was man sieht und wahrnimmt einfach nicht das was wirklich ist. Oder was der allgemeine Konsensus der Realität ist. Was bleibt ist der Vergleich mit einer internen Logik, wie konsistent etwas ist, ob sich Muster ergeben oder die dargestellte Realität in sich selbst unschlüssig bleibt. Kurzum, ein guter Lügner kümmert sich darum das das Gesamtkonstrukt stabil ist. Heute finden wir einen Lügner mit einer Diskrepanz. Auch wenn zu einem hohen Preis.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 19 Aufnahme vom 22.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #132
+
+* Titel: `GoW Ragnarök - #132 - Trauerbewältigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit dem Ableben einer geliebten Person umzugehen ist nicht einfach. Insbesondere wenn man sich noch nicht mit dem Gedanken angefreundet hat, oder wenn der Tod plötzlich kam. So viele Worte die noch nicht gesagt wurden, Projekte die nie realisiert wurden und Abenteuer die nicht abgeschlossen wurde. Für die andere Seite hat die Reise ein vorzeitiges Ende gefunden, und wir können nicht wissen ob und wie die andere Seite weiter macht. Gehen wir davon aus das die verstorbene Person sich dieser Tatsache gewahr ist, trauert sie auch um das eigene verstorbene Leben? Mehr noch als wir weil sie weiß das sie getrennt wurde von dem Leben das sie hatte. So gesehen ist der eigene Tod die wesentlich größere Tragödie als für die Anderen. Denen bleibt die Ungewissheit und all die anderen Leute. Man selbst, als Toter, würde alleine da stehen, am Anfang einer neuen Reise ohne all jene mit denen man unterwegs war. Aber solche Gedanken bringen uns nicht weiter, wir sind die Anderen, und wir haben eine Reise zu vollenden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 19 Aufnahme vom 22.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #133
+
+* Titel: `GoW Ragnarök - #133 - Brennende Klippen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Grade noch am Rande der Realität auf einen großen Baum finden wir uns jetzt in den unendlichen Feuern Muspelheims wieder. Genau wie seine eisigen Gegenstücke ist es kein Ort an dem Menschen lange, wenn überhaupt, überleben könnten. Und doch gibt es hier Dinge. Die geschmolzenen Spuren von Bauwerke, weggeworfene Waffen und Zeugnisse von irgendjemanden der hier einmal war. Sind es nur Echos von anderen Kämpfen die auf Midgard stattgefunden haben? Sind es die Überbleibsel einer Expedition in die feurigen Lande, oder war Muspelheim nicht immer die heiße Hölle die es heute ist. Kleiner Exkurs in die religiöse Ansicht, soweit ich weiß ist Muspelheim nicht die Hölle wie sie die Christen benennen (oder Dante). Dafür haben wir Helheim, einen kalten Ort. Feuer ist voller Leben, energiereich und mit dem Potenzial eine neue Flamme zu entfachen. Aber eine Welt aus Eis und Frost, das ist eine tote Welt. Allerdings sieht man das vielleicht ein wenig anders wenn man in der Wüste seine Religion gründet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 19 Aufnahme vom 22.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #134
+
+* Titel: `GoW Ragnarök - #134 - Surtrs Herz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Ende aller Tage kommt der Feuerriese Surtr und beginnt den Sturm auf Asgard. Wie genau die echte nordische Prophezeiung aussieht vermag ich nicht zu sagen, aber irgendwie in der Richtung wird es gewesen sein. Das er dabei sich selbst mit einem anderen Riesen verschmelzen muss wäre mir nicht bekannt, aber ich kann auch nicht grade ein Studium der nordischen Religionen vorweisen. Klar ist aber auch das Surtr selbst anscheinend niemand dazu gefragt hat was von ihm erwartet wird. Das ist eigentlich auch ziemlich interessant. Surtr weiß natürlich was von ihm erwartet wird, aber nach seiner Meinung hat natürlich auch niemand gefragt. Er selbst kann mit einfachen Nichtsttun quasi das Ende allen Seins einfach vor sich her schieben. Die allgemeinen Mechaniken sind aber sowieso nicht klar, Groas Propheizung hat anscheinend viele Teile der Geschichte vorhergesagt, und doch gibt es Platz für Entscheidungen. Aber wer genau löst zum Beispiel den Fimbulwinter aus? Nur weil Baldur gestorben ist wird es auf einmal kalt? Oder war die Möglichkeitsmatrix aller Entscheidungen so gering das Baldur einfach im richtigen Moment eines kurzen magischen Minimums fallen würde. Oder anders gesagt, der „Wetterumschwung“ stand schon fest aber der Tod Baldurs war die eigentliche Entscheidung? Zumindest Surtr verhält sich aber immerhin grob ans Skript und fügt sich einfach dem was sein soll. Sehr zuvorkommend von ihm.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 19 Aufnahme vom 22.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
+##### #135
+
+* Titel: `GoW Ragnarök - #135 - die Rabenwächterin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Grade eben hatte ich mir noch vorgenommen möglichst gestern Ragnarök herbei zu führen und das laute Horn zu blasen, damit wirklich die echte Endzeit einzuleiten und mit dem ganzen Quatsch fertig zu sein. Stellt sich aber doch glatt heraus, wir sind noch gar nicht so weit und müssen uns noch ein wenig gedulden. Es gibt da noch die Sache mit den Raben, haben wir doch bei Surtrs Schmiede glatt den letzten Vogel gefunden. Das sieht Odin übrigens auch sehr ähnlich, den feurigen Schmied zu bewachen. Ich frage mich allerdings warum er ihn nicht einfach von Thor hat töten lassen, hätte das nicht die gesamte Prophezeiung zerstört? Wie dem aber auch sei, mit dem Spionagenetzwerk ist jetzt definitiv vorbei, weil wir besiegen die Rabenwächterin (auf einfach) und damit hat sich das dann auch getan. Das bringt die Kinderseelen zwar auch nicht mehr zurück aber wir haben getan was wir tun konnten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Donnerstagsslot, "Spiele" 
+  Sitzung 19 Aufnahme vom 22.02.2024
+  Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9OI2FGMXVzVYfzq
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -1686,7 +2046,62 @@ Playlist: https://www.youtube.com/watch?v=f0l-rIubEKQ&list=PLAFz5ZZJ21wP0AntRr9O
   Hier
   ```
 
-### Theorien
+##### #Nummer
 
-> Mehrfach Erwähnung von 4 Seelenteilen lässt vermuten das das später wichtig ist. Kratos nicht vom Licht verbrannt.
+* Titel: ``
 
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

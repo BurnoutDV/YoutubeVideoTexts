@@ -3150,74 +3150,109 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #210
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #210 - Stahlwachen Kontrollzentrum [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt Momente in denen ich ein wenig bereue das ich nicht auf Taktiker spiele, einfach für die Herausforderung. Andererseits würde es wohl darauf hinaus laufen das die Party mehrfach an den meisten Begegnungen sterben würde und eine Menge Zeit vergeht bis ich in der Lage bin Situationen zu lösen. Aber ich hätte wohl mehr lange Raste und das wäre gar nicht einmal so schlecht. Zurück zum Thema: wir sind im inneren Kontrollzentrum der Stahlwache. So wie es scheint hat sich hier jemand ein mechanisches Gehirn gebaut. Oder besser, ein Cyborg-Illithiden zusammengeklöppelt. Das ist eigentlich wesentlich besser als die ganze Geschichte mit der Krone von Karsus. Wenn man genau regulieren kann wie gut das mechanische Gehirn denken kann und jederzeit in der Lage ist es abzuschalten ist das definitiv mehr Kontrolle als sich auf Magie B zu verlassen. Wir sind übrigens nicht hier um alles zu sprengen. Wir könnten zwar aber das ist nicht unsere Art, wir sind doch die Guten. Glaube ich zumindest. So rein rechnerisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 31.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #211
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #211 - Tauchbootfahrt [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es ist ein wenig seltsam sich erst in die inneren Tiefen einer Einrichtung zu kämpfen um dann zu merken das man hier nicht weiter kommt und wohl die Geiseln befreien muss die sich an einem anderen Ort befindet. Fast schon ein wenig Immersionsbrechend. Damit unser Vorgehen überhaupt noch Erfolg haben könnte müssten wir eigentlich unser komplettes B-Team abstellen und alle Baniten davon abhalten die Schmiede der Gondier zu betreten. Und zwar so das niemand Alarm schlägt. Auch wenn es nicht besonders klug zu sein scheint Bane anzubeten oder sich irgendwie mit den toten Drei einzulassen, so sind die Anhänger nicht nur brutal sondern auch durchaus zum Denken in der Lage. Leicht wäre es zu denken das Menschen und Elfen die der Brutalität nachhängen auch einfache Denker sind, aber leider ist es wohl so das man für echte Grausamkeit auch Intelligenz braucht. Und wir müssen davon ausgehen das nicht alle Baniten grausame Mörderer und Folterer sind die ohne nach zu denken in unsere Fallen laufen. Das alles wäre kein Problem wenn wir eine Priesterin hätten die auf Täuschung spezialisiert ist, leider hat sie vor einer Weile dem Pfad des Lebens geschworen und ist außerdem mit einer anderen Sachen beschäftigt: einer Tauchbootfahrt! Es ist wohl davon ausgehen das nicht mehr all zu viele Gnome leben wenn und falls wir wieder auftauchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 31.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #212
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #212 - der Eisenthron [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wenn ich die Vorgänger gespielt hätte dann hätte ich den Besuch des Eisenthrons eventuell ein mehr genießen können und hätte mich weit zu dem zurückgeworfen gefühlt das in den ersten beiden Teilen geschehen ist. Ich bin ehrlich gesagt überrascht in wie weit die Handlung des Spieles doch mit den Vorgängern zu tun hat. Ich habe mir natürlich eine Zusammenfassung vorher angeschaut, jetzt in Episode 212 habe ich natürlich so gut wie alles vergessen aber ganz am Anfang sah es doch mehr so aus als würden wir eher nicht mehr in die alten Geschichten einsteigen und die Bedrohung sah auch sehr anders aus. Aber es ist ja nicht aller Tage Abend, es gibt ja durchaus noch einige neue Charaktere wie zum Beispiel den guten Herrn Ravengard und sein Verhältnis zu irgendwelchen Dämonen. Stellt sich doch glatt heraus das wir durchaus Wyll in Freiheit und seinen Vater gerettet haben können. Alles nur eine Frage der Geschwindigkeit und des richtige Vorgehens. Und so laufen wir heute los und lassen uns auch nicht von irgendwelchen niederen Cambions aufhalten. Ihre Fähigkeit einfach überall zu erscheinen ist allerdings faszinierend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 31.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #213
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #213 - Runenpulverbombe [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt diverse Sprichwörter die beschreiben das man zwei Sachen gleichzeitig haben möchte die sich gegenüber stehen. „Wasch mich doch mach den Pelz nicht nass“. „Auf zwei Hochzeiten tanzen“ und aus dem Englischen, in letzter Zeit oft eingedeutscht gesehen „Den Kuchen haben und ihn essen“. Bei dem Sprichwort gibt es einen guten Throwback zu Theodore Kaczynski und der Tatsache das es für mich keinen Sinn ergibt. Ob die zunehmende Übernahme von englischen Sprichwörtern in der deutschen Sprache zu einen amerikanischen Kultursieg führt? Oder es zumindest Spionen einfacher macht? Heute übrigens egal, weil mir geht es darum das ich versucht habe alle zufrieden zu stellen in dem ich ein salomonisches Urteil gefällt habe. Das hat schon immer gut und überall funktioniert, damals bei Geralt mit Yennefer und Triss war das ja auch ein echter Schlager. Und heute tue ich es wieder. Die Eisenhand Gnome scheinen mir ein wenig radikal aber ich kann sie schon ein wenig verstehen. Den Gondiern wurde aber auch mies mitgespielt und ich kann nicht ganz abschätzen inwieweit sie an der aktuellen Situation wirklich selber schuld sind, nur das es hier wohl parallelen zu den Vorgängern gibt als die anderen Gnome die Mittäter waren. Naja, letztendlich habe ich ein paar Geiseln befreit, das Blutbad konnte ich nicht verhindern, die Bombe zünde ich trotzdem und zufrieden mit mir ist wirklich niemand. Mischen acomplüscht würde ich sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 31.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #214
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #214 - Feuerwerke [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es passiert wieder eine ganze Menge. Nach der Befreiung der restlichen Gondier und Herzog Ravengard gibt es natürlich einige Zeilen Gesprächsbedarf. Aber dann will ich ja auch noch inhaltlich etwas leisten und dann kommt Eines zum Anderen und ein Gebäude in der Unterstadt explodiert. Ich bin mir allerdings sicher das ich damit nichts zu tun habe und niemand, insbesondere nicht die flammende Faust, sich das Problem näher anschauen sollte. Wenn ich es so recht bedenke werden die aber wohl eh keine Zeit dafür haben, jetzt wo die Stahlwache ausgefallen ist gibt es bestimmt eine Menge Laufarbeit die durch die Wache erledigt werden muss. Wer kann sich da schon um ein paar Explosionen in einem Feuerwerksladen kümmern. Es ist schließlich ein Laden in dem man erwarten würde das Dinge explodieren, also alles ganz normal. Immerhin können wir eine ziemliche Show genießen. Das werte ich als Pluspunkt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 31, Aufnahme vom 31.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #215
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #215 - Einkaufsbummel [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Aus dem Gedächtnis: eine der Gründe für den Niedergang der UDSSR war der das die Führungsriege den Glauben an den Kommunismus verloren hat. Ich bin mir nicht sicher ob sie jemals wirklich daran geglaubt hat aber die Anekdote ist wohl das ein besuchender Ministerpräsident nicht glauben konnte welchen Reichtum es in amerikanischen Supermärkten gab. Aber nachdem er drei verschiedene Läden abgeklappert hat war er wohl überzeugt. Den Luxus alles einfach einkaufen zu können ist einer der Annehmlichkeiten einer großen Stadt die ich selber auch sehr genieße. Die logistischen Anforderungen die sich dadurch ergeben sieht man oft gar nicht, aber sie sind da. In unserem Fall hier wollen wir nur ein paar Heiltränke, aber eine Metropole wie Baldurs Tor könnte sicherlich auch ein wenig ungewöhnlichere Wünsche erfüllen wenn wir nur ein wenig erkundet hätten und an den richtigen Türen geklopft hätten. Wahrlich magisch. In einem kleinen Dorf gibt es am Markttag das was die lokalen Bauern halt anbauen plus was auch immer ein fahrender Händler mit sich führt und nicht schon im letzten Dorf verkauft hat. Hier, an dem Juwel der Schwertküste gibt es einfach alles..nur nicht die guten Heiltränke.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Dienstags Slot.
+  Sitzung 32, Aufnahme vom 06.02.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #216
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #216 - Mammons Dietrich [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Nein, wir gehen heute nicht in die Höllen! Wir sprechen nur mit der guten Frau Helsik die irgendwie in einem Verhältnis mit Korrila steht aber ich habe keinerlei Ahnung in welchen und mir drängt sich die Ahnung auf das hier eine Geschichte erzählt wird die komplett an mir vorbei gegangen ist, vielleicht auch weil ich nicht klug genug bin sie zu verstehen. Wie dem auch sei, wir schauen nur bei des Teufels Preis kurz vorbei um das Angebote zu prüfen. Vielleicht gibt es ja sogar ein paar profane Dinge wie Heiltränke. So gesehen ist es eigentlich auch ziemlich wahrscheinlich das es profane Dinge gibt, das Gegenteil dazu wäre wohl Geistliches und das werden wir wohl nicht finden. Es ist übrigens ein wenig asymetrisch das es zwar Dämonen  und die vielen Höllen gibt aber das exakte Gegenstück, Deva und Asimir eigentlich nicht so richtig besuchbar sind. Es heißt zwar man beschwört sie aus irgendeiner Ebene aber man kann jetzt nicht direkt in Mystras Reich anklopfen oder anders irgendwie dort hin gelangen. Soweit ich weiß, oder das ist alles beschrieben und ich habe nur nichts davon gehört. Wie dem aber auch sei, wir wollen da ja auch gar nicht hin und auf keinen Fall den orphischen Hammer bergen. Nein nein. Stattdessen informieren wir uns nur über die theoretische Möglichkeit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 06.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #Nummer

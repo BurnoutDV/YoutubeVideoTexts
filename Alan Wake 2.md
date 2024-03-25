@@ -541,6 +541,155 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #36
+
+* Titel: `Alan Wake 2 - #36 - Wald- und Bergreime [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ja, wir sind fertig mit dem großen Endboss dieses Kapitels und ich bin mir sicher wenn wir zurück gehen würden würde auch irgendetwas passieren. Aber jetzt nach Bright Falls zurückzukehren erscheint mir falsch. Alan Wake 2 bietet nicht direkt offene Wege, aber die Tatsache das wir aus einem Übergang zurück sind bedeutet in der Regel das sich etwas verändert hat. Irgendwie hängt der Wasserspiegel und die Menge an Flut mit dem dunklen Ort zusammen. Fast so als würde sich irgendwo unten die physische Manifestation all der Dunkelheit finden und das Wasser verdrängen. Wenn man sich gegen eine Finsternis durchsetzt dann verschwindet auch diese Masse und das Wasser geht zurück. Wäre dem so würde das aber auch bedeutet das man moralische Schuld messen könnte. In Gewicht, kg wäre zwar nicht die Einheit die ich mir bei emotionaler Bürde vorgestellt hätte  aber so scheint es zu sein..oder Wasserverdrängung in Kubikmeter. Das wäre dann noch seltsamer. Auf jeden Fall schauen wir uns jetzt an welche kleinen Reime wir noch auftreiben können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 11.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #37
+
+* Titel: `Alan Wake 2 - #37 - trockene Wohnwägen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und auf einmal sind die Wohnwägen die wir bei unserem letzten Besuch nicht betreten können trocken und wir können ein wenig mehr erkunden. Auffällig ist aber das gar kein Wasser oder Reste von Wasser dort liegen wo vorher, nur wenige Stunden vorher die Fluten herrschten. Das ist ein wenig seltsam und scheint mir eher wie eine retrograde Veränderung der Wirklichkeit zu sein. Später gehen wir zurück nach Watery und die Leute dort reden ebenfalls darüber das die Flut zurück gegangen ist. Aber der physische Effekt ist halt nicht der. Zumal, wir sind an einem See, wo genau kommt hier eine Flut her? Das kann doch eigentlich nur passieren wenn Schnee in größeren Massen abschmilzt oder? Habe ich aber zugegeben gar keine Ahnung von. Meine neue Theorie ist aber das die Leute morgen behaupten werden das es nie einen Wasserhochstand gab, manche Leute können aber vielleicht eine wage Erinnerung haben. Das spricht wohl dafür das die Veränderungen des dunklen Ortes eine gewisse Trägheit im Geist der Menschen überwinden müssen. Interessanter wäre auch noch ob Tiere ebenfalls neue Erinnerungen bekommen, und wenn ja, wie schnell.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 11.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #38
+
+* Titel: `Alan Wake 2 - #38 - Spuren des Reimmeisters [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das federal Bureau of Control weiß offensichtlich das der dunkle Ort existiert. Das überrascht nicht, als Jesse Faden haben wir es ja sogar gesehen und zudem erlebt wie die Dunkelheit eine Etage des Bureaus selbst belegt hat. Es handelt sich offensichtlich um eine sehr mächtige Quelle der Veränderung die scheinbar auch transportiert werden kann. Wer lange genug in der Dunkelheit verweilt nimmt scheinbar Teile in sich auf und am Ende ist sie dann mobil. Das stellt natürlich Fragen auf, wie zum Beispiel ob die Dunkelheit schon lange im Cauldron Lake herrscht und Leute wie die Andersons lange Zeit erfolgreich in der Lage waren sie zurück zu halten oder ob sie eigentlich ein relativ neues Phänomen ist und der Einsatz der drei Rocker ein erster Korken war aber nicht die letzte einer langen Folge von Maßnahmen gegen die hereinbrechende Finsternis.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 11.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #39
+
+* Titel: `Alan Wake 2 - #39 - das Musical [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein wenig Musik erweitert schon das Leben. Die heutigen Episode ist quasi wortlos von meiner Seite. Das ist ein wenig schade weil ich mich ja sonst immer gerne damit brüste das ich schon irgendwie das Spiel erweitere und etwas hinzuzufügen habe. Aber das ist leider hier wirklich nicht der Fall. Stattdessen nehme ich quasi die gleiche Rolle wie auch du werter Zuschauer ein. Ich lehne mich nach hinten und schaue mir das alles in Ruhe an. Interessant finde ich eigentlich nur das Alan Wake 2 es viel mehr schafft ein Film oder eine Serie zu sein als es Quantum Break war..das ja extra dieses Serienfeature hatte.
+   	
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 11.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+
+##### #40
+
+* Titel: `Alan Wake 2 - #40 - Schleifen und Traumlogik [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich liebe Traumlogik. Leider macht sie es nicht unbedingt leichter sich an Träume zu erinnern. Etwas das ich übrigens sehr gerne mache. Mich in Träumen schwelgen und dann daran erinnern. Ich frage mich allerdings ob das so eine gute Idee ist. Man hat ja oft schon Probleme das Leben als Solches zu erfassen wenn die Tage einfach so an einem vorbeiziehen wenn man keine festen Erinnerungen in seinem täglichen Leben macht. Und wenn man dann noch sein Gedächtnis mit falschen Erinnerungen anreichert kann das ja eigentlich nicht gut sein oder?  Für Wake wird es schon nicht so schlimm sein, er lebt ja quasi nur im Traum und erlebt kein echtes Leben insofern ist das bestimmt total okay. Nachteilig ist aber auch das man in Träumen manchmal bestimmte Dinge nicht tun kann. Man kennt das vielleicht wenn man ein wenig Kontrolle über seinen Traum erlangt hat und dann versucht total verrückt zu werden, der Klassiker wäre es jemand anderes zu sein. Einmal versucht ich mir recht simpel einfach nur vorzustellen wie es wäre zwei Meter groß zu sein und  der Traum ist daran einfach zerschellt. Das kann am dunklen Ort nicht passieren, stattdessen findet der Traum andere Methoden Dinge zu vermeiden die nicht sein sollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 11.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #665
+
+* Titel: `Alan Wake 2 - #41 - Zimmer 665 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die 665 scheint aus irgendwelchen Gründen einen gewissen Wiederholungsgrad in diesem Spiel zu haben. Aus Control kenne ich sie nur als Türcode für das älteste Haus ganz am Anfang. Casper Darling macht einen Scherz darüber wie es beinahe teuflisch ist und wir sehen später auch noch einmal wie sehr das mit dem „beinahe teuflisch“ auch ein plus eins hat. Insgesamt finde ich es sehr faszinierend das die Zahl hier so oft auftaucht, und was wir dann noch in der Sequenz sehen. Insgesamt, und alles in Allem bin ich sehr sehr fasziniert von dem was ich sehe. Es stellt sich aber immer wieder die Frage wie viel man tatsächlich auf die Goldwaage legen dürfen und wie viel einfach nur das Rauschen diverser Symboliken ist die einfach so durch den Raum fliegen und nur Verwirren wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 6, Aufnahme vom 11.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #42
+
+* Titel: `Alan Wake 2 - #42 - die Eingangshalle [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben einen neuen Tatort. Das Oceanview hotel war bisher eigentlich ein relativ friedlicher Ort im allgemeinen Standard des dunklen Ortes. Klar, hier und dort gibt es ein paar Schatten die uns auch hauen wollen aber ich würde behaupten das man durchaus von einem moderaten Ort sprechen kann. Schlafen würde ich wahrscheinlich in keinem der Zimmer aber es ist auch nicht schlecht. Jetzt wo es sich um einen Tatort handelt können die Dinge eigentlich nur noch bergab gehen. Wir steigen also ein in das Bühnenbild und in das magische Stück das eine Schauspieltruppe ausführt. Unsere Darsteller sind natürlich Kultisten, da die des Wortes sich noch erholen müssen kommen heute die Partner vom Baum dran. Die kennen wir bereits und ich bin mir auch ziemlich sicher das die Leute vom Asset-Department sehr glücklich sind das sie so einfach damit durchkommen die gleichen Elemente wieder und wieder zu verwenden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 18.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #43
+
+* Titel: `Alan Wake 2 - #43 - Proberaum 202[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt dort draußen ganze Welten die man als Laie nicht sieht. Und damit meine ich quasi Laie in allem, nicht nur der klassischen Bedeutung. Wenn man nicht im Show Business ist kennt man nur die leuchtende und funkelnde Front des Geschäfts. Beispielsweise las ich neulich wie schlimm die Zustände an deutschen Musikhochschulen sind.  Das geht natürlich noch weiter und zieht sich durch alle Gewerke. Wie das Handwerk fuscht, wie sich das Bauamt bestechen lässt, die Übergriffe im Theater, der Druck zum Hungern beim Ballett und so weiter und so fort. Es ist wahrscheinlich nicht alles schlecht, das wäre statistisch unwahrscheinlich und niemand würde irgendetwas tun wenn es die ganze Zeit nur Leid wäre. Und so kann der Proberaum der in Zimmer 202 errichtet wurde auch einfach nur ein ganz normaler Raum sein. Ein Ort an dem man wirklich seine Texte durch gegangen ist. Oder aber, etwas ganz Anderes. Ein finsterer Platz voller Niedertracht, ein blutiger Ort. Oder ein heller Platz. Soviel Potenzial, soviel Unklarheit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 18.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #44
+
+* Titel: `Alan Wake 2 - #44 - Spur des Teufels [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Konzept des Widersachers, eines böswilligen Mitspieler auf der Reise durch das Leben ist kein neues Konzept. Ich persönlich bin da sehr ein großer Anhänger der „Hölle, das sind die anderen Menschen“ Philosophie, aber das kann sich auch wieder ändern. Tatsache ist das es im Allgemeinen wohl keinen Teufel per se gibt. Niemanden der sich wirklich aktiv gegen das Streben der Menschen stellt. Aber es ist eine schöne Idee, das all das Schlechte, die Gier und das egoistische Verlangen der Leute das soviel Unglück bringt gar nicht in ihrer Natur selbst liegt sondern auf den Einfluss einer fremden Macht liegt. Das kann wunderschön davon ablenken das man wohl selbst für das verantwortlich ist was geschieht und, das im Großen und Ganzen, die Welt wohl echt unfair ist. In einer Welt in der es einen Narrativ gibt, in der das Wort Realität formt, da ist aber wirklich Platz für eine Manifestation des schlechten Einflusses. Und so gehen wir heute zu dem Zimmer wo diese Person scheinbar residiert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 18.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #45
+
+* Titel: `Alan Wake 2 - #45 - vorbeiziehende Schiffe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mag Träume. Manchmal genieße ich die kleine Reise auf die ich des Nachts gezogen werde und mache mir allerhöchstens Sorgen das zu intensive Träume mich von der Erholung ablenken die ich eigentlich haben sollte wenn ich schlafe. Schwierig würde es werden wenn ich plötzlich versuchen würde aus dem Inhalt meiner Träume Inhalt zu ziehen. Und schlimmer noch, wenn man wüsste das wirklich auf der anderen Seite jemand ist die Kontakt aufnehmen will. Ein anderes Bewusstsein die durch die schmale Brücke und den Fragmenten meines Seins irgendwie konkrete Informationen durch kriegen will. In anderen Fantasy und Sci-Fi Universen funktioniert intergalaktische oder transdimensionale Kommunikation manchmal über diesen Weg. Das erscheint mir ziemlich unbrauchbar wenn man wirklich harte Daten braucht. Es ist ein wenig so als würde man sehr verrauscht Nachrichten im analogen Radio hören und basierend auf diese Nachrichten sein Weltbild formen. Bestenfalls gefährlich. Und doch ist das die einzige Art der Unterhaltung die Alan Wake und Saga Anderson haben. Ob es gut genug ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 18.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

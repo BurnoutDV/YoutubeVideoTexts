@@ -90,6 +90,116 @@ Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4E
   Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
+##### #6
+
+* Titel: `Metro Exodus - #6 - Aurora [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Name sind wichtig. Sie geben den Menschen etwas woran sie sich festhalten können. Etwas um die Dinge um sie herum mental einzuordnen und der Welt als Solches eine Struktur zu geben. Deswegen geben wir den Dingen Namen und fühlen uns unwohl wenn man Leute nur als „Praktikant 1“ bezeichnet oder andere entmenschlichende Bezeichnungen verwendet. Ein Name deutet Vertrautheit an, ein Name beschreibt. Und so benennen wir unsere unlängst erworbene Lok. Wie wertvoll wohl ein solches Gefährt im modernen Russland ist wenn man sich den allgemeinen Zustand der Welt so anschaut? Die Schienen scheinen sich ja noch in einem guten Zustand zu befinden und generell und überhaupt bin ich doch sehr überrascht was für eine realistische Reiseoption die Bahn noch darstellt. Aber wenn man seine Strecken nicht seit 40 Jahren runter wirtschaftet dann ist so etwas vielleicht wahrscheinlicher. Andererseits, rein aus Nachrichten über Schwierigkeiten bei russische Logistik und leeren Depots würde ich vermuten das Infrastruktur der Nummer 1 Punkt ist an dem man oben ein wenig Geld abschöpfen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 1, Aufnahme vom 19.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #7
+
+* Titel: `Metro Exodus - #7 - außerplanmäßiger Halt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Zustand des postapokalyptischen Schienennetzes erstaunt mich wirklich sehr. Man möchte ja eigentlich meinen das nachdem alle größeren Bevölkerungszentren getroffen wurden das auch Transportwege nicht mehr wirklich benutzbar sind. Wir wissen allerdings auch nicht ob Artyom und seine Truppe nicht bei jeder Weichenstellung angehalten haben um diese manuell umzustellen. Sicher ist das man wohl eher nicht durch kleinere Städte gefahren ist. Da wir jetzt ja wissen das es da draußen noch Menschen gibt ist wohl davon auszugehen das in anderen Städten Banden unterwegs sind die einen Zug als willkommene Quelle für Einkünfte sehen. Und doch, wir sind wirklich weit gekommen und machen erst jetzt halt. Irgendwo an der Wolga. Eine ziemlich wichtige Stelle wenn man sich anschaut wie große die Brücke ist die wir überqueren wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 1, Aufnahme vom 19.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #8
+
+* Titel: `Metro Exodus - #8 - der Kult [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich finden wir einen Kult! Das war vollkommen klar. Menschen in Not und mitten in Problemen suchen nach Antworten und erst wenn es wirklich gut läuft fangen Philosophen an den Status Quo wirklich in Frage zu stellen. Religionen waren seit je her ein gutes Mittel um eine gemeinsame Pen & Paper Kampagne zu fahren ohne das man sich all zu viel neue Lore für sein Weltbild ausdenken muss. Ein wenig Boutique Religion hat auch noch niemanden geschadet und ein paar Anpassungen hier und dort können den ganzen Unterschied darstellen den es braucht um erfolgreiche größere Bevölkerungsmengen zu manipulieren. Im ersten Metro Buch begegnet Artyom verschiedenen Bevölkerungsgruppen die ganz verschiedene Ansichten darüber haben was passiert ist, aber religiös motivierte Gruppierungen trifft man öfter. Neben den üblichen Nationalisten und Kommunisten. Auf die warte ich hier aber auch nur.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #9
+
+* Titel: `Metro Exodus - #9 - Militärbahnhof [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenig überraschend führt uns Metro Exodus aus der großen Stadt und damit auch den engen Gängen heraus. Das bedeutet aber leider auch das das Spiel überraschend offen ist. Das ist eigentlich überhaupt nicht unerwartet und führt leider auch dazu das ich tue was ich immer tue, ich erkunde und renne komplett frei von meiner Hauptquest durch die Gegend. Heute besuchen wir beispielsweise einen Hafen, Bahnhof oder Verladestelle. Im Titel habe ich geschrieben das es sich um einen „Militärbahnhof“ handelt. Das dem wirklich so ist kann ich nicht wirklich belegen. Da wir aber bisher noch keine Bunker gefunden haben ist an der Behauptung wohl nicht zu viel dran. Ich fühle mich übrigens immer noch wie ein Stalker. Jetzt fehlen nur noch ein paar witzige Anomalien und wir sind komplett da. Und was das angeht habe weiß ich ja schon was  die nächsten Episoden mit sich bringen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #10
+
+* Titel: `Metro Exodus - #10 - Crests Werkstätte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir werden in Zukunft einen Typen namens Crest finden. Das ist noch nicht passiert wird aber in absehbarer Zukunft geschehen oder geschah schon. Auf jeden Fall ist der Typ der Grund warum wir gefühlt alle zwei Meter eine Werkstatt mit ein wenig Ausrüstung finden an der wir unsere Waffen und Gegenstände verbessern können. Was übrigens noch nicht geklärt wurde ist was die Leute hier eigentlich essen. Ich glaube ja nicht das man die Murloks fressen kann und kleinere Fische im radioaktiven Wasser sehen mir auf den ersten Blick auch nicht direkt wie das beste Essen aus. Wir haben noch ein paar Schweine auf unserem Weg nach draußen gesehen, aber eine reine fleischbasierende Diät erscheint doch eher unwahrscheinlich. Und dann ist da jemand wie Crest der augenscheinlich versteckt vor den Paladinen des Kultes lebt. Was genau isst er? Alte Armee Konserven? Was essen wir? Pilze und Fleisch haltbar zu machen ist nicht die einfachste Aufgabe und ich habe den Verdacht das niemand Vitamintabletten auf die Überraschungszugreise mitgenommen hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #11
+
+* Titel: `Metro Exodus - #11 - Bahndepot [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Züge sind ziemlich wichtig für unser weiteres Spiel und daher überrascht es mich überhaupt nicht das wir heute ein Bahndepot besuchen. Es erscheint mir aber auch so als würde ich hier ein wenig vorgreifen. Zentral bleibt aber nach wie vor ob es richtig oder falsch ist Banditen zu töten. Der Bodycount von Artyom steigt steil in die Höhe und mit jeder Nacht wird es schlimmer und schlimmer. Wir sind die Inkarnation des Todes und ich fürchte das es eines Tages eine Abrechnung dafür gibt. Natürlich tun die Banditen nichts Gutes und die lokalen Zivilisten scheinen ganz glücklich über unser Handeln zu sein, aber jede Person die wir töten ist ein Mensch weniger. Die ganze Welt ist in Flammen aufgegangen und das Leben ist so viel schwerer geworden und wir tun nichts Anderes als das Leben noch weiter zu verkleinern. Können wir da überhaupt moralisch sein. Ist nicht jede Existenz irgendwie wert erhalten zu werden. Und machen wir es uns nicht ein wenig zu leicht mit unserem Mord und Totschlag. Schlimmer noch, ich bin inkonsequent. Würde ich wirklich alle Leute umbringen würde es am Ende keine Zeugen geben. Aber so bin ich still und heimlich so lange ich kann und schieße mich nur raus wenn es nicht mehr anders geht. Das schadet dem Mysterium. Wir könnten den Spartaner Mythos mächtig untermauern wenn wir einfach nur leere Hallen zurücklassen würden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

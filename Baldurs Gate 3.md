@@ -3255,7 +3255,52 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #217
+
+* Titel: `Baldur's Gate 3 - #217 - Szarr-Palast [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Je nachdem nach welcher Interpretation des klassischen Vampirs man geht kann es schon ganz schön nerven Untot zu sein. Es gibt da am einen Ende des Spektrums die Stephene Mayer Variante die scheinbar einfach nur overpowered ist und man sich prinzipiell nur an dunklen Orten herumtreiben muss und mit dunklen Orten ist nicht-direktes Sonnenlicht gemeint. Dann gibt es noch die DSA Vampire die scheinbar bei der kleinsten Berührung mit Sonnenlicht komplett zu Staub zerfallen, kombiniert mit einer mittelalterlichen Welt ist das natürlich eher schlecht. Die typischen DnD Vampire scheinen eine Mittelposition einzunehmen. Sie können theoretisch im Licht stehen aber nicht lange und verbrennen langsam. Soweit ich das verstanden habe würde ein großer Schirm theoretisch reichen. Und doch ist raus gehen eher nicht wirklich eine Option. Volle Vampire haben zwar immer noch das Sonnenproblem aber sollten zumindest von ihrer reinen Macht in der Lage sein gut an Blut zu kommen. Bei der handelsüblichen Vampirbrut sieht es hingegen ein wenig anders aus, sie haben kaum Kräfte und genießen dennoch die gleichen Einschränkungen. Und besitzen keine Paläste.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 06.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #218
+
+* Titel: `Baldur's Gate 3 - #218 - Cazadors Ballsaal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode sprach ich über die Nachteile eines Vampirs und das insbesondere Bruten es nicht so leicht haben. Man darf wohl dankbar sein das vollwertige Vampire ihre Macht ziemlich eifersüchtig beschützen und nicht darauf vertrauen das es neben ihnen noch andere „Lords“ gibt. Man stelle sich vor sie würden Netzwerke aufbauen die mehr auf Vertrauen und weicher Macht basieren. Die Beziehung eines Brutlings zu seinem Erzeuger gewährt direkte Macht, aber es schränkt gleichzeitig die Größe der gesamten Vampirniederlassung ein. Andererseits werden sie auch verdammt alt ohne dabei wirklich zu altern, insofern nicht professionelle Vampirjäger alle paar Jahre dafür sorgen das entsprechend verdächtige Adelige zu offen agieren können kann allein das Potenzial von enorm langfristigen Plänen dafür sorgen das größere Mengen Geld erwirtschaftet werden. Vampire sind selten arm, zumindest nicht in den üblichen Trophen. Aber das liegt vielleicht auch daran das diejenigen ohne Macht und Einfluss die sie zum Schutz verwenden können einfach nicht erwähnenswert für irgendwelche Geschichten sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 06.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #219
+
+* Titel: `Baldur's Gate 3 - #219 - Ritual des unheiligen Aufstiegs [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein bekanntes Vampirproblem ist das Sonnenlicht nicht so gesund ist, das macht ein offenes Agieren schwierig und erlaubt es außerdem ziemlich einfach entdeckt zu werden. Dazu kommen noch andere Schwächen wie eine traditionelle Schwäche gegenüber Knoblauch und Silber. Ich habe zu wenig Wissen in Sachen Dungeon and Dragons Lore aber ich würde spontan vermuten das der ursprüngliche Vampirfluch auch auf die Neun Höllen zurückgeht und so ist es nicht verwunderlich das die Macht der Höllen auch hier dafür Sorgen kann die Limitierungen zu umgehen. Allgemein gilt wohl das man mit genügend Macht einfach alles ignorieren kann, aber genügend Macht ist Nichts das einfach herumliegt oder ohne Risiken zu erhalten ist. Man kann nicht einfach jeden Tag 10 Macht abfüllen und dann in ein paar Jahren genügend Macht haben um große Wunder zu vollbringen. Was allerdings möglich ist, ist eine Menge Seelen für sich zu beanspruchen und dann einen Pakt mit den Höllen zu machen um für einen entsprechenden Preis ein gewünschtes Ergebnis zu verhandeln. Von allem was wir wissen sind die Höllen relativ zuverlässig genau das zu liefern was sie versprechen. Und andere Leute ihre Seelen zu verkaufen ist immer ein wenig süßer als das mit der eigenen zu tun. Und das bringt uns zum Ritual des unheiligen Aufstiegs. Anscheinend ein stehendes Angebot der Hölle aus einem Vampir einen aufgestiegenen Vampir zu machen, und das nur für den schmalen Preis von 7000 Seelen. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 06.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #220
 
 * Titel: ``
 
@@ -3265,7 +3310,7 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Hier
   ```
 
-##### #Nummer
+##### #221
 
 * Titel: ``
 
@@ -3275,7 +3320,7 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Hier
   ```
 
-##### #Nummer
+##### #222
 
 * Titel: ``
 
@@ -3285,7 +3330,7 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Hier
   ```
 
-##### #Nummer
+##### #223
 
 * Titel: ``
 
@@ -3295,7 +3340,167 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
   Hier
   ```
 
-##### #Nummer
+##### #224
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #225
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #226
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #227
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #228
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #229
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #230
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #231
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #232
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #233
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #234
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #235
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #236
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #237
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #238
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #239
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #240
 
 * Titel: ``
 

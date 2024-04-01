@@ -690,6 +690,111 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #46
+
+* Titel: `Alan Wake 2 - #46 - Bundesbehörde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist, soweit ich das überblicken kann, eine echt häufige Trophe in allen Filmen und Serien bei denen man Polizisten oder Detektive als Protagonisten hat irgendwann die Bundesbehörde vorbei kommt und sich den Fall schnappt. Dann kann das die Heldin nicht einsehen und macht auf eigene Faust weiter. Dreimal darfst du raten was heute passiert. An sich ist das FBC ja auch eine Behörde wie das FBI und ich frage mich wirklich inwiefern die Einordnung in das restliche Konstrukt amerikanischer Behörden aussieht. Letztendlich ist es aber wohl auch egal wie die rechtliche Seite aussieht. Das FBC ist mit Macht und Personal vor Ort und Saga ist ziemlich alleine. Aus der Perspektive der Behörde tut das FBC wohl das Beste für die Allgemeinheit aber für das Individuum ist das nicht immer das Beste.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 18.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #47
+
+* Titel: `Alan Wake 2 - #47 - Bunker Woods [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein sehr amerikanisches Problem was definitiv nicht als Problem wahrgenommen wird ist das Amerika riesengroß ist und absolut keine traditionell benannte Landschaft hat. Soweit ich weiß. Mein gefährliches Halbwissen ist das die Ureinwohner Land und den Boden eher als etwas gesehen haben das man sich geliehen hat. Das Dorf oder die Niederlassung hat sich schon längere Zeit an einem Ort gefunden aber niemand hätte behaupten das es deren Eigentum ist. Insofern sind die meisten Orte wohl auch noch ohne Namen als die Siedler ankamen. Warum die lokalen Wälder jetzt Bunker Woods heißen kann ich auch nicht sagen. Mein linguistisches Wissen ist grade nicht so tief drin, aber ich glaube das ein Bunker im Englischen auch mehr als nur diese Betonkonstruktion sein kann. Oder der Wald ist wirklich nach der Anlage unter dem Altenheim benannt von der wir erst später erfahren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 18.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #48
+
+* Titel: `Alan Wake 2 - #48 - Valhalla Altenheim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe Angst vor dem Alter. Das scheint mir eine anstrengende Zeit zu sein, und je nachdem wie man sein Leben gelebt hat könnte es auch eher „Warten auf den Tod“ oder aber „die goldenen Jahre“ sein. Oder irgendetwas dazwischen. So oder so lassen die körperlichen Fähigkeiten nach und auch der Geist könnte ein wenig getrübt sein. Einzige Gnade ist das der Verfall allmählich kommt und man in der Regel wohl nicht realisiert wie sehr man schon nachgelassen hat. Ich kenne das nur wenn man krank ist und auf einmal nicht mehr so klar denken kann oder sich versucht durch eine Wolke durch zu denken. Auch abstoßend ist das Verhalten der meisten Altenpfleger die vielleicht wohlwollend sind aber doch irgendwie herablassend und bevormundend. Alte Menschen werden wieder zu Kindern und das sieht von Außen schwierig aus. Da Altenpfleger ihren Job aber nicht erst seit gestern machen nehme ich an das es sich um getestet Verhalten handelt das am meisten Erfolg hat. Die Vorstellung lässt mich trotzdem gruseln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 7, Aufnahme vom 18.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #49
+
+* Titel: `Alan Wake 2 - #49 - Wellness Center [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Zusammenhang mit alten Leuten benutzt man gerne Euphemismen um Dinge zu beschreiben die eigentlich unangenehm sind aber irgendwie dann doch notwendig sind. Zum Beispiel die regelmäßige medizinische Behandlung der Insassen. Das Valhalla Altenheim ist übrigens eine großartige Einrichtung. Es gibt nicht all zu viele Leute die darin sind, es ist also mehr ein kleines Dorf, nebenan befindet sich das Wellness-Center das zwar eher aussieht wie eine Station in einen wesentlich größeren Krankenhaus,aber was von der Ausrüstung zu erkennen ist lässt vermuten das man hier eine gute Behandlung erhalten könnte. Das ist gut. Alles steht und fällt jetzt wohl mit einem kompetenten Arzt, aber das hat man oft im Leben. Siehe auch: Journalisten liegen nur zufällig bei dem einen Thema falsch von dem ich Ahnung habe und sind sonst immer ein Quell der Weißheit. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #50
+
+* Titel: `Alan Wake 2 - #50 - Thors Handel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es bleibt weiterhin ein wenig unklar ob die Familie Anderson deren Mitglied Saga wohl ist ihre Fähigkeiten wirklich hat weil sie dauerhaft reinkarnierten Götter der alten Zeit sind oder weil sie mit irgendeiner Entität einen Deal geschlossen haben. Von allem was wir so sehen können sind sie normale Menschen die aber einen leichten Knack haben. Ein interessanter Ansatz für Magie und wie sie wohl in unserer langweiligen Realität funktionieren würde. Keine großen Feuerbälle sondern eher unscheinbar Veränderungen und Erweiterungen der normalen Physik. Gedanken die nicht von einem selbst stammen, vielleicht erhöhte Fitness oder die Fähigkeit Dinge zu tragen die eigentlich zu schwer sind. Kleine Dinge, keine Superkräfte, keine Feuerball-Magie. Kleine Dinge. Heute erfahren wir von dem Dunklen. Unklar bleibt für den Moment ob es sich hier um Sagas Vater handelt oder um den Avatar der Dunkelheit selbst. 1987 war Tom Zane bereits im See, insofern wäre beides möglich. Da Saga Phänotyp dafür spricht das ihr Vater nicht weiß mitteleuropäisch ist und mir nur eine einzige andere Person einfällt die in der aktuellen Story erwähnt wurde die nicht hellerer Hautfarbe ist, ist die Schlussfolgerung wohl das unser guter alter Freund Herr Tür Sagas Vater ist. Das würde eventuell auch erklären warum sie mächtiger als Thor und Odin zu sein scheint. Der gute alte Bill Tür.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #51
+
+* Titel: `Alan Wake 2 - #51 - finsterer Keller [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser hauptsächlicher Feind im Umgang mit allem was am Cauldron Lake liegt ist die Dunkelheit. Finsternis ist nicht gleich Finsternis aber im Großen und Ganzen kann man wohl sagen das sobald es ein wenig dunkler wird die finsteren Gedanken in den Menschen Wurzeln schlangen und wenn man da Lücken und Löcher in der Seele hat kann es schnell bergab gehen. Was liegt da näher als sich den örtlichen Keller näher anzuschauen. Faszinierend ist eigentlich auch das das ganze Altenheim ein Schlüsselkarten basierendes System hat. Ich persönlich habe etwas gegen elektronischen Verschlusssystemen muss aber einsehen das physische Schlüssel mit noch so komplizierten Muster Sicherheitsgrenzen haben. Aber dann hat man so Fälle wie wo der große Facebook Switch abgeraucht ist und die Verwalter für die physischen Server nicht mehr ins Datencenter gekommen sind. Wir müssen zum Glück nur einen Generator neu starten, aber ich muss schon sagen das Sagas Taschenlampe durchaus ein wenig heller scheinen könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #52
+
+* Titel: `Alan Wake 2 - #52 - Asgards alte Götter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das große Ding mit den Göttern ist das sie quasi immer da seiende Authoritätspersonen darstellen. Aus der Sicht eines Kindes oder Haustieres erscheinen die Eltern ähnlich, Monolithen die immer gleich sind während man sich selbst andauernd verändert. Figuren die man nur von unten sieht die Moral und Wissen vorgeben das man niemals anzweifeln würde. Eine Element das ich in jüngerer Literatur und Medien öfter sehe ist das Konzept des alternden Gottes, und auch wenn die katholische Kirche es nicht wahr haben will, auch der abrahamitische Gott ist mittlerweile ziemlich veraltet. Die strenge Vaterfigur die gerne mal für einen kleinen Fehltritt oder sogar konsequenzenloses Nichtbeachten der Anweisungen ein Leben fordert ist einfach nicht mehr zeitgemäß. Neil Gaiman hat es in American Gods quasi auch beleuchtet. Das Zeil der antiken Anbetung ändert sich, Terry Pratchett hat es in Small Gods ebenfalls quasi metaphysisch erklärt, Götter erhalten Macht durch Glaube, wenn der Glaube schwindet so auch die Macht. Bei Pratchett sind Götter aber immer noch kleine Geister die auch komplett ohne Gläubige existieren. Und so ähnlich stelle ich mir das auch bei den alten Göttern der nordischen Religion vor. Sie existieren auch weiterhin, hier sogar mächtiger, aktuell Inkarniert als ältere Rockmusiker aber immer noch nicht machtlos. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

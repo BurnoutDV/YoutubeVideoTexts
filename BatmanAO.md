@@ -165,6 +165,111 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
   ```
 
+##### #11
+
+* Titel: `Batman: Arkham Origins - #11 - GCPD Hauptquartier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie endet jede Reise die ich mit Batman mache darin das ich das Hauptquartier der Bullen infiltriere. Oder zumindest die örtliche Niederlassung die es in dem Spiel gibt. In Asylum war es eher ein Sicherheitsbüro und technisch gesehen auch kein Polizeihauptquartier aber das war schon relativ nahe dran. Zurück zum Thema, als Batman, ein bekannter Vigilante der für die Cops ein Dorn im Auge ist könnte es eventuell unklug sein sich im Gebäude erwischen zu lassen. Glücklicherweise wird Gotham und auch all seine Gebäude wohl von den Hoffnungen und Träumen vergangener Generationen zusammengehalten, und damit will ich sagen, alles ist aus Pappmaché und es gibt ungefähr 1000 Wege in eine Anlage die eigentlich gesichert sein sollte. Warum Wayne Enterprises das staatliche Überwachungsmonopol noch nicht aufgekauft hat weiß ich aber auch nicht. Das hätte uns definitiv den nervigen Trip zur Datenbank gespart.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 2, Aufnahme vom 21.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #12
+
+* Titel: `Batman: Arkham Origins - #12 - SWAT Patrouillen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die normale Polizei ist wohl ziemlich korrupt aber es hält sich noch insoweit in Grenzen als das sie irgendwie noch die Reste eines Gewissens haben. Anders sieht es wohl bei  den SWAT Einheiten aus. Mein Wissen über die entsprechenden Abteilungen in deutschen Behörden ist nur außerordentlich begrenzt aber es kommt hier wohl auch sehr darauf an von wo die entsprechende Einheit des SEK her kommt. Eine gewisse Grundstimmung gegenüber linken Demonstranten und Blindheit gegenüber rechten Demos sagt man beispielsweise sächsischen Polizisten zu. Das habe ich auch schon selbst beobachtet, wie in einer Straße die rechten Leute mit verbotenen Symbolen schwenkend durch die Stadt ziehen und ein Bully am Rand guckt während wortwörtlich eine Querstraße weiter 20 Gegendemonstranten von einer Hunderschaft eingekesselt wird. Obwohl, das ist wohl eher Bereitschaftspolizei und nicht des SEK, von denen erwarte ich tatsächlich das sie wesentlich weniger bestochen sind als die Jungs in Blau die Batman heute trifft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 2, Aufnahme vom 21.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #13
+
+* Titel: `Batman: Arkham Origins - #13 - Gefängnisaufstand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich sind wir gar nicht in einem Gefängnis aber dennoch gibt es Gefangene. Wenn ich mir dir den Zustand von Gotham so angucke und man davon ausgehen muss das sich eine Gesellschaft durch die Mitte der Bevölkerung bildet könnte man eigentlich meinen das die friedliche Minderheit kein Recht hat die Stadt so zu kontrollieren wie sie es tut. Eigentlich ist es sogar ein wenig seltsam das Gotham überhaupt so funktioniert wie es tut. Ist es nicht ein großes Argument für das erste Amend der Amis immer das man, im Zustand einer korrupten oder repressiven Regierung das Mandat mit Gewalt aus der breiten Masse zurückholen kann? Soweit wie die Stadt schon ist möchte man meinen das das bereits vor einiger Zeit geschehen sein muss. Offensichtlich gibt es eine obere Kruste der Gesellschaft die gut lebt während ein Großteil der Leute in der Stadt in Kriminalität versinkt. Es scheint ja auch normal zu sein das es an Heiligabend eine Ausgangssperre gibt. Alles in Allem weiß ich zu wenig über das Batman Universum, aber ich habe ein wenig das Gefühl das die ganze Prämisse nicht funktioniert wenn Gotham wirklich so korrupt ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 2, Aufnahme vom 21.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #14
+
+* Titel: `Batman: Arkham Origins - #14 - GCPD Kellergeschoss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein großes „Problem“ das die Amerikaner allgemein haben ist das sie keine Geschichte besitzen. Klar, das Land ist auch nicht mehr ganz taufrisch aber wenn die gesamte Historie maximal 500 Jahre zurückreicht und an vielen Stellen eigentlich nur 200 Jahr umfasst sind Dinge wie Traditionen ein wenig schwierig zu erklären. Auch wenn dafür wohl ein paar Generationen reichen. Ein weiteres, zumindest in Gotham vorhandenes Problem scheint zu sein das die Stadt und Alles überall nur in schnellen Zeiten erbaut wurde. Keine uralten Fundamente die bis in alle Ewigkeiten halten. Stattdessen hat man etwas das sich wohl Alt-Gotham nennt das unterhalb der aktuellen Stadt liegt und größtenteils als Spät-Industrialisierungsbauten besteht. In Arkham Knight sehen wir das Ganze ja auch noch ein wenig näher. Es hat irgendwie auch einen netten Touch aber wenn ich mir anschaue wie das Kellergeschoss einer doch recht wichtigen Behörde in der Stadt aussieht habe ich schon ein wenig Angst das eines Tages einfach alles verschluckt werden wird. Und das auch ohne irgendwelche, völlig hypothetischen, Sprengstoffe im Keller.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 2, Aufnahme vom 21.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #15
+
+* Titel: `Batman: Arkham Origins - #15 - Leute mit Hüten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir fällt auf das ich ein schlechtes Pacing in den Episoden wie ich sie auf Youtube hochlade habe. Das könnte man mit titanischen Aufwand lösen. Ich müsste zum Beispiel die Tonspur des Kommentars ein wenig auseinander nehmen und die Anfänge und Enden anders schneiden. Da ich aber versuche die ganze Arbeit bei der Aufnahme zu machen und generell recht fault bin passiert das halt nicht. Was wir also heute sehen ist das ich den Keller des GCPD verlasse und mich noch ein wenig darüber aufrege wo die wortwörtlichen Tonnen an Waren her kommen die eigentlich nicht hier sein sollten. Und dann treffen wir ein paar ferngesteuerte Marionetten die uns einen Tanz vorführen. So richtig weiter und vollständig geht es dann aber erst in der nächsten Episode. Und das meine ich mit Pacing. An sich spiele ich ja nur ein Spiel und 20 Minuten ist nicht immer die beste Richtzeit, aber Batman ist echt ziemlich inkonsistent. Das ist auch zum Spielen recht ärgerlich wenn man nur beschränkt Zeit hat und noch etwas fertig machen will.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 3, Aufnahme vom 28.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #16
+
+* Titel: `Batman: Arkham Origins - #16 - Kaninchenbau [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Arkham Spiele bzw. die Reihe hat ein paar Konstanten bzw. Elemente die scheinbar in jedem Teil drin sind. Eine davon sind die Traumsequenzen bzw. die Szenen in denen Batman irgendwie verwirrt wird und sich dank seiner mentalen Stärke den Weg durch den Versuch der Hypnose seiner Gegner kämpft. So kann er mit reiner Willensstärke Neurotoxinen widerstehen und dem Versuch der mentalen Beeinflussung entgegen wirken. Warum genau ein Bruce Wayne, aus gut behüteten Haushalt die mentale Stärke dafür besitzen sollte ist nicht weiter erklärt. Aber wir können wohl davon ausgehen das er sonst nicht Batman geworden wäre. Und die Geschichte wäre auch recht langweilig wenn er beim Erstkontakt mit einem technisch versierten Gegner aus den Latschen kippen würde. Und so steigen wir heute in den Kaninchenbau hinab, mit den festen Ziel auch wieder auf zu steigen. Wie viel wohl real von dem ist was wir sehen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 3, Aufnahme vom 28.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bbs
+  ```
+
+##### #17
+
+* Titel: `Batman: Arkham Origins - #17 - Banküberfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Batman ist ein Vigilant. Ein Zivilist der sich in den Kopf gesetzt hat ein Problem im aktuellen System der Gesellschaft in die eigene Hand zu nehmen anstatt durch die Institutionen zu gehen. Das kann man verstehen, Menschen die in die Politik gehen könnten schnell von der Versuchung vom Pfad abgeführt werden, jene die standhaft bleiben könnten sich plötzlich medialen Druck ausgesetzt sehen oder ihr Ruderboot explodiert plötzlich und überraschend. Weniger dramatisch wäre auch ein Skandal in einem Thema das die Gesellschaft aktuell nicht akzeptabel findet. Der Glaube das die legitimen, politischen Wege zu einer Veränderung der Gesellschaft führen können verlangt eine Menge Hingabe. Ich glaube nicht daran. Die Theorie ist das es einen unsichtbaren Gegenspieler gibt, es muss sich nicht einmal um eine aktive Macht die koordiniert agiert handeln. Genauso gut könnte es der summierte Vektor verschiedener Interessen sein der aber dennoch das Ergebnis hat das die eigene Veränderungen auf erheblichen Widerstand trifft. Sei es der Medien Mogul der von der aktuellen Situationen profitiert oder kriminelle Elemente die genügend Reichweite haben um auf direkte Gewalt verzichten zu können. Denkbar wäre beispielsweise eine Medienkampagne, kombiniert mit gefälschten Beweisen einer korrupten Staatsanwaltschaft oder ein langgezogener rechtlicher Prozess der einfach nur Zeit kostet. Das könnte aus verschiedenen Richtungen kommen ohne das es eine echte Verschwörung gibt. Und welche echte Veränderung hat jemals Begeisterungsstürme bei den Reichen und Mächtigen ausgelöst. Ich kann also verstehen das wir Bruce Wayne nicht am Rednerpult sehen. Wäre er aber nicht reich stünden wir vor einem anderen praktischen Problem. Verbrechensbekämpfung ist echt teuer, Eliteausbildung gibt es nicht umsonst beim Mönchsorden an der Ecke und all die Spielzeuge die die asymmetrische Machtausübung zulassen gibt es nicht im beim Dollar General. Man spricht dann von Beschaffungskriminalität, etwas das der sauberen Weste von Batman doch ein wenig im Wege stehen würde. Wie glücklich doch das wir bereits reich sind. Aber das allgemeine Problem in Gotham ist Armut durch Korruption und daher müssen aufstrebende Verbrecher erst einmal ein paar Banken knacken. Und das führt uns zum Inhalt der Episode.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 3, Aufnahme vom 28.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
 ##### #Nummer
 
 * Titel: ``

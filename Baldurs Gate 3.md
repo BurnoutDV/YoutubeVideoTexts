@@ -3347,52 +3347,77 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
 ##### #223
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #223 - Flügel des Hoffnungshauses [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Raphaels tolles Haus der Hoffnung ist eigentlich gar nichts so groß. Es ist auch nicht winzig. Für ein Gebäude das in den Höhen von Avernus fliegt und wahrscheinlich ziemlich mobil ist, ist es schon nicht schlecht. Nur halt nicht so gewaltig wie er es am Anfang hat klingen lassen. Heute erkunden wir die restlichen Räume die uns die Einrichtung noch zu bieten hat. Es ist wirklich gut das gequälte Seelen den ganzen Tag leiden und nicht gelegentlich irgendwo schlafen müssen. Oder vielleicht müssen sie das und sie kippen einfach dem Boden um. Auf jeden Fall gibt es außer dem Vergnügungsbad keine echten Ausruhmöglichkeiten im Haus der Hoffnung. Das war zu erwarten aber im Großen und Ganzen wirkt es halt weniger wie ein Haus und mehr wie ein militärisches Schiff das durch die Welten fliegt. Ich frage mich ob es auch in anderen Ebenen als den neun Höllen flugfähig wäre.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 33, Aufnahme vom 13.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #224
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #224 - der orphische Hammer [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Der orphische Hammer ist angeblich die Versicherung gegen Verträge in der Hölle und in der Lage alle Ketten zu sprengen. Unklar ist jetzt ob das Ding wirklich nach Prinz Orpheus benannt ist oder komplett unabhängig geschaffen wurde. Klar ist aber das es sich nicht um eine direkte Antwort auf das Gefängnis von Orpheus handelt. Das hat die erste Vlaakith sich irgendwie mit den Höllen verhandelt ohne das die genauen Details klar sind. Infernalische Fesseln sehen wir jetzt aber an zwei Stellen. Irgendwie hat Raphael es geschafft Hoffnung so zu binden, wahrscheinlich etwas das sonst nicht notwendig wäre wenn man mit den Leuten Verträge hat, da die Gute sich aber geweigert hat mussten andere Mittel her. Wie aber bricht man die infernalischen Fesseln dann? Sind Dämonen wirklich in der Lage Ketten zu wirken die sie selbst nicht brechen können? Oder braucht es die direkte Intervention eines Erzdämons um hier zu wirken. Sind es nur Grenzen für uns Sterbliche oder ist es so wie Mizora sagt, das es Verwandlungen gibt die selbst sie nicht rückgängig machen kann? In jedem Fall haben wir jetzt den Joker in Hammerform.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 33, Aufnahme vom 13.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #225
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #225 - Raphael, Herr des Hauses [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Raphael verfolgt uns seit Anfang des Spieles. Schon früh hat er uns Aufwartung gemacht und versucht uns zu verführen. Wir haben seinen Avancen immer wieder widerstanden, was aber auch daran liegt das ich die Entscheidungen treffe und weiß was mich grob erwartet. Wenn die Gefahr einer Verwandlung so real gewesen wäre wie er es am Anfang hat klingen lassen und wir nicht gewusst hätten das es verschiedene Akte gibt und wir da irgendwie ankommen müssen, dann wäre es vielleicht schwerer gewesen sein Angebot anzunehmen. Schattenherz hätte vielleicht nicht gewusst wie man mit dem Angebot eines höllischen Ränkeschmied umgehen sollen. Zum Glück hatten wir aber sowieso Karlach und Wyll bei die beide eine recht entschiedene Meinung zum Thema Pakte haben. Und doch, es hätte alles ganz anders laufen können. Raphael ist, soweit ich das verstanden habe, sogar nur ein halber Gambion, das Produkt einer Beziehung, wahrscheinlich gewalttätiger Natur eines Menschen mit einem Höllenwesen. Die meisten Gambions die wir so treffen sind nicht übertrieben mächtig aber Raphael hat dank seines Alters schon eine gewisse Macht gezeigt. Aber letztendlich ist er dennoch kein Erzteufel. Vielleicht tut er gerne so als hätte er gewaltige Macht, aber es ist recht wahrscheinlich das die echten Herrscher der Hölle eher auf ihn herabschauen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 33, Aufnahme vom 13.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #226
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #226 - Zurück in Fâerun [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Der Episodentitel könnte nicht ungenauer sein. Es gab jetzt schon mehre Gelegenheiten bei denen wir zurück in Faerûn waren. Ganz am Anfang beispielsweise hatten wir uns auch in Avernus befinden, dann könnten man argumentieren das weder die Astralebene des Prismas noch das Schattenfell noch wirklich auf der materiellen Welt liegen und wenn wir von dort zurückkehren wir durchaus zurück in Faerûn sind. Heute beziehe ich mich aber natürlich darauf das wir das Haus der Hoffnung verlassen und uns wieder unseren verbleibenden Aufgaben widmen. Dazu gehört eine Menge Dialog. Es war uns leider nicht möglich Korilla zu retten aber das war ja eigentlich vorher schon klar, das wir nicht alle retten können. Immerhin konnten wir aber ein paar Verträge ergreifen und eine entfernte Freundin freikaufen, auch wenn sie wohl nie davon erfahren wird. Was das auch für ein glücklicher Zufall sein muss. Da macht man einen infernalischen Vertrag, erntet die Früchte bzw. die Haben-Seite des Kontraktes und dann kommen irgendwelche Abenteurer daher und töten den Teufel mit dem man den Vertrag hatte. Ich frage mich allerdings was passiert wenn ein anderer Dämon das Dokument finden würde bzw. wenn es einfach in der Hölle verbleibt. Es scheint als hätten diese geschriebenen Worte Macht über die Durchsetzung durch den Dämon hinaus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 33, Aufnahme vom 13.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #227
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #227 - Weg zum Wyrmweg [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Unser Questlog schrumpft. Das ist ärgerlich, ich will nicht das die Reise ein Ende hat. Es gibt am Anfang von solchen Spielen das überwältigende Gefühl das noch eine Menge Inhalt auf uns wartet und man interessante neue Mechaniken durch Probieren erfahren kann. All das endet jetzt bald, es ist ziemlich überschaubar was noch vor uns liegt. Ansur finden, Gortash töten und dann das Gehirn zum Selbstmord zwingen. Das ist alles was noch aussteht. Irgendwie depremierend wenn die Liste so überschaubar und so klar ist. Vielleicht bereue ich es ein wenig das ich quasi alle Nebenquests die man so in einem Durchlauf machen kann gemacht habe. Das Einzige was fehlt ist übrigens Minthara, die stand einfach nicht zur Auswahl auf der Patchversion auf der ich gespielt habe. Jetzt machen wir uns also auf den Drachen zu finden. Dazu müssen wir wiederum den Wyrmweg finden, wir laufen also zum Weg zum Wyrmweg. Der liegt ärgerlicherweise unter der Wyrmfeste, es müssen also wohl noch ein paar Unschuldige sterben weil wir in den Keller wollen. Bedauerlich, aber letztendlich ist es wohl ein wenig spät sich über das Blut an unseren Händen Gedanken zu machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 33, Aufnahme vom 13.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #228

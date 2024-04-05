@@ -180,44 +180,94 @@ Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4E
   Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
-##### #Nummer
+##### #12
 
-* Titel: ``
+* Titel: `Metro Exodus - #12 - Elektrizität [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich hatte irgendwelche Grundlagen der Elektronik in Physik in der Schule. Dann Elektrotechnik für zwei Semester im Studium, gleichzeitig unterstützt durch Physik. Was weiß ich davon noch? URI also Spannung ist Widerstand Mal Stromstärke. Das ist quasi alles was ich mitgenommen haben. Im Umkehrschluss auch noch das hohe Spannung und niedrige Stromstärke die gleiche Leistung hat wie niedrige Spannung aber hohe Stromstärke. Mehr Spannung weniger Verlust. Wenn man Messgerät hat nutzt man im professionellen Bereich die Stromstärke für die Daten weil die Spannung von der Länge des Kabels abhängig ist. Und was mache ich mit all dem Wissen? Gar nichts, im Apokalypse Fall könnte ich definitiv keine elektrischen Anlagen mehr in Betrieb nehme oder notdürftig irgendetwas reparieren. Komplexe Computertechnik steht eh komplett außer Frage, dahinter steht eine gewaltige Kette aus Vorprodukten die man nur schwer replizieren kann. Lange Geschichte, kurzer Sinn: ich kann schon verstehen das Strom durchaus als Teufelswerk interpretiert werden kann. Und dann kommen da noch solche Dinge wie die Steine hinzu denen wir das Denken beigebracht haben. Das würde ich auch verteufeln. Tatsächlich treffen wir heute eine Anomalie, ein Phänomen das es anscheinend schon in Moskau gab, ich habe es nur völlig vergessen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
-##### #Nummer
+##### #13
 
-* Titel: ``
+* Titel: `Metro Exodus - #13 - Die Deponie [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Eine Sache die ich mir immer wieder vorstelle wenn ich die Bilder meiner Großeltern anschaue ist, wie es wohl war als die Welt noch weniger Menschen hat. An sich gibt es ja wirklich viel Fläche und gar nicht so viele Personen die man kennen kann. Insbesondere wenn man schnelle Transportmittel weg nimmt bleiben die meisten Leute ja doch in ihrer eigenen kleinen Blase. Aber wesentlich interessanter wird es dann noch wenn vorher ganz viele Menschen da waren und dann nicht mehr. All der viele Platz der vorher für irgendetwas genutzt wurde hinterlässt ungenutzte Orte. Das macht auch militärische Anlagen in der Arktis oder anderen Plätzen interessant die nicht so schnell von der Natur überwuchert werden. Oder grade. Beton ist nicht unendlich haltbar aber im Gegensatz zu irgendwelchen römischen Forts hält es quasi ewig. Man kann also Jahrzehnte später noch etwas finden, Plätze an denen einst Menschen ihre Stätten errichtet haben. Orte die früher eine Funktion erfüllt haben, und dann nicht mehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 30.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
-##### #Nummer
+##### #14
 
-* Titel: ``
+* Titel: `Metro Exodus - #14 - Versorgungsfahrt [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich habe nicht wirklich das Gefühl das Artyom Teil einer Spezialeinheit ist. Dafür machen mir die anderen Leute zu wenig. Andererseits, wir sind anscheinend der designierte Vorwärts-Späher der Spartaner. Die Vorhut. Spähen tut jemand Anderes. Wir gehen rein und schauen uns die Sachen direkt ein, wir interagieren und wenn es sein muss, töten. Wir sind die Macht die dafür sorgt das der der Rest der Truppe nicht alleine in die Angelegenheit laufen muss. Das sorgt aber auch oft dafür das wir sehr alleine handeln. Und das Andere mit Anfragen an uns heran rücken. Im Zuge unserer Aufgabe werden uns auch Freiheiten gewährt. Andere militärische Einheiten haben strikte Disziplin und genaue Befehle. Ein Spezialist hat die Erlaubnis zum Selberdenken, vielleicht eine wesentlich größere Bürde als die Lizenz zum Töten. Am Ende müssen wir uns dafür verantworten was passiert und warum es passiert ist. Andere können immer behaupten das sie nur Befehlen gefolgt sind, nicht so wir. Und so gehen wir heute auf die Suche nach einem Teddybären.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 30.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
-##### #Nummer
+##### #15
 
-* Titel: ``
+* Titel: `Metro Exodus - #15 - Geiseltankstelle [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Man kennt das. Man fährt durch die Wüste mit seinen Geiseln und dann sterben die auf einmal an so Dingen wie Unterernährung. Da hilft nur eines! Die Geiseltankstelle! Auf einer etwas ernsteren Stufe gesprochen ist die Gesamtsituation ein wenig bizarr. Die meisten Menschen der Welt sind tot, verstrahlt, verhungert oder an diversen Krankheiten ohne Behandlung gestorben. Alt werden in der Apokalypse ist definitiv nicht so einfach. Und doch gibt es da Leute die noch mehr Menschen töten. Was genau das Ziel der Banditen ist scheint für mich übrigens überhaupt nicht transparent. Sie haben sich irgendwelche von den frei herumlaufenden Zarfisch-Anhängern geschnappt und nun was? Wollen sie Geld, Waffen oder Munition erpressen? Mir scheint nicht das Silantius jemand ist der besonders viel Wert auf seine warmen Körper legt. Im Gegenteil, anscheinend verfeuert er regelmäßig Leute gegen die „elektrischen Dämonen“. Gerne direkt nach der Morgenmesse. So jemand ist wohl kaum bereit 1000 Gefangene für eine Geisel zu tauschen. Das wissen wohl auch die Banditen und das sieht man am Zustand der Leute die wir heute nicht mehr befreien können. Es schwebt immer noch drohend die Frage nach dem Warum. Die Antwort birgt Wahnsinn.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 30.03.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #16
+
+* Titel: `Metro Exodus - #16 - Katzenfisch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mir Teile dieser Episode tatsächlich mittlerweile mehrfach angehört. Wir erfahren hier etwas das so bisher nicht in den Metrospielen drin war. Oder mir nicht aufgefallen war weil ich 2013 unaufmerksam war. Die wichtige Bemerkung hier ist das die Katzenfische gewaltig gewachsen sind nachdem man etwas an ihnen versucht hat und die anderen Viecher davon nicht so betroffen waren. Ein kleiner Ausflug in das Fallout Universum. Strahlung alleine kann zwar zu Mutationen führen aber wer Superkräfte erwartet wird wohl recht schnell an Krebs oder direkt den Symptomen der Strahlenvergiftung erlegen. Im super kapitalistischen Universum gibt es daher das geheime FEV, Force Evolution Virus, das für bekannte Gegner wie die Supermutanten sorgt. Soweit ich mich erinnern kann ist es aber in geringen Mengen auch in die restliche Umwelt gekommen und das hat dafür gesorgt das ziemlich viele Tiere sich angepasst haben. Wenn das russische Äquivalent jetzt hier ähnlich vorgegangen ist würde das durchaus erklären warum so eine gute Diversität an mutierten Viechern gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 3, Aufnahme vom 02.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #17
+
+* Titel: `Metro Exodus - #17 - Teddybär [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mache keine großen Umstände darum zuzugeben das ich im Haushalt über eine größere Menge Kuscheltiere verfüge. Die Viecher liegen überall herum, auf der Couch, im Bett und auf dem Ohrensessel. Verschiedenste Größen. Manche von ihnen sind groß genug das ein erwachsener Mann sie umarmen kann, andere sind eher komisch geformte Kopfkissen. Und doch sind sie da, ich kann deren Existenz nicht auf meine Freundin alleine schieben, schließlich habe ich einige selbst gekauft. Ich mag das „Viechzeug“ (wie es der Spediteur ausgedrückt hat den wir für den letzten Umzug angeheuert haben). Es ist weich und ist immer da. Irgendwie baut man auch eine emotionale Bindung zu toten Dingen auf. Sei es weil es eine Erinnerung oder ganz viele Erinnerungen verbindet oder einfach weil es ein weiches Kissen war als man sich einmal ausgeheult hat. Natürlich retten wir also heute den Teddybären aus den Händen der fiesen Flugviecher. Der Bär selbst ist dann nicht besonders flauschig aber 21 Jahre nach der Apokalypse muss man wohl bei der Flauschigkeit Abstriche machen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 3, Aufnahme vom 02.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
 ##### #Nummer

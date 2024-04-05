@@ -795,6 +795,96 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #53
+
+* Titel: `Alan Wake 2 - #53 - Anger's Remorse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Satz der mir seit Ewigkeiten ins Gehirn gebrannt ist, ist der „Flavour“-Text einer Magic the Gathering Karte. Ohne es jetzt nachzugucken war die Karte Zorn oder so und der Text sagte sinngemäß „Ein Moment der Wut, ein Leben der Reue“.  Ein wenig neuer waren die Worte eines Arbeitskollegen vor ein paar Monaten: „Treffe niemals dauerhafte Entscheidungen wütend.“ Bewaffnet mit diesen trivialen Weisheiten gehen wir dann in die heutige Episode. Wer genau Sagas Vater war oder ist bleibt für den Moment ungeklärt aber es scheint so als hätte der gute Thor irgendwie einen Anteil daran gehabt das Freya die heimische Farm verlassen hat. Wie genau das alles zusammenhängt und wie die langweiligen Details der gesamten Geschichte aussehen wird wohl unklar bleiben aber ich wäre nicht überrascht wenn sich am Ende herausstellt das alles so vorherbestimmt war oder beim letzten Mal genau so auch schon geschehen ist. Geplant oder nicht, die Akteure in diesem Spiel sind sich ihrer Rolle aber bewusst und haben auch Emotionen wie Reue über die Dinge die sie getan haben. Und so suchen wir heute ein Unikat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #54
+
+* Titel: `Alan Wake 2 - #54 - ein verliebtes Mädchen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Liebe kann grausam sein, insbesondere wenn sie nicht erwidert wird. Aber anders als in vielen Medien dargestellt ist meine Erfahrung das sich Zuneigung asymmetrisch entwickelt. Bei manchen gibt es nur eine kleine Differenz die dann mittelfristig angeglichen werden kann, aber nur zu oft gibt es einen großen Unterschied. Da gibt es dann das Mädchen das sich Hals über Kopf in einen Jüngling verliebt während dieser nur ein einfacher Spielmann ist der nur nach einem Bett für eine Nacht sucht. Aber auch in der gleichen Klischeekiste, die beiden Teenanger die sich Hals über Kopf ineinander verlieben und nicht mehr von einander lassen können. Aus persönlicher Erfahrung kann ich sagen das man da durchaus auch mit Hormonhöchststand ein wenig sehr verkopft ran gehen kann. Das macht dann am Ende alles kaputt. Aber auch ältere Menschen sind nicht immun gegen solche Regungen. Und wie alles im Leben ist es die Balance die hier schnell fehlen kann und zu fatalen Entscheidungen führen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #55
+
+* Titel: `Alan Wake 2 - #55 - Sonnenaufgang an der Küste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist gar nicht so wirklich klar ob jetzt wirklich Sonnenaufgang ist. Nach jeder Reise in den dunklen Ort scheint es ein wenig heller in der Welt zu sein. Aber es könnte auch sein das es immer noch er gleiche Abend ist, in den Bergen wird es früh dunkel und die Schatten sind schon früh lang. Und doch ist hier Sonne. Aber die Aufzeichnungen der Bewohner des Altenheims sprechen davon das die Lichter plötzlich schwächer erscheinen und die Finsternis an Schwere gewinnt. Es ist wohl davon auszugehen das wir nicht die ganze Nacht in den Fängen des Dunkel verbracht haben. Andererseits ist es schwer zu sagen wie viel Zeit wirklich am dunklen Ort vergangen ist. Wenn wir es bis zu Alan Wake schaffen würden könnten wir wahrscheinlich ihn fragen, von allen Personen sollte er am Wenigstens von den Ereignissen betroffen sein. Es könnte aber auch sein das das Bureau of Control Gegenmaßnahmen gegen Realitätsverzerrung besitzt. Mit ausreichend Schwarzstein könnte man vielleicht etwas tun. Oder vielleicht auch nicht, die Schatten in den Wäldern sind ja auch noch aktiv.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 8, Aufnahme vom 27.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #56
+
+* Titel: `Alan Wake 2 - #56 - Monster-Süßigkeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel macht es nicht so wirklich klar aber ich beziehe mich hier auf die Reime die wir an anderen Orten noch vergessen haben. Komplett Meta und eigentlich hat es auch nichts mit der Episode zu tun, aber ich mache mir ein wenig Sorgen das es so aussieht als hätte ich mir im Vorfeld irgendwie eine Lösung angeschaut. Insbesondere bei dem Rätsel mit dem Schiff gehe ich so durch als hätte ich genau gewusst was ich tun muss. Ich versichere das dem nicht so ist. Ich weiß nicht was ich das letzte Mal anders gemacht habe oder wie ich damals falsch gedacht hatte, aber dieses Mal erschien mir die Lösung einfach logisch. Und bei allen verbleibenden Rätsel ging es irgendwie erstaunlich flüssig von der Hand ohne das ich mich übermäßig dafür anstrengen musste. Vielleicht war ich beim letzten Mal einfach nur ein wenig müde. Ich weiß es nicht, aber so ist das Rätsel definitiv schnell gelöst und ich bin ein wenig glücklich das es so gelaufen ist. Trotz Verklicken und eigentlich falschen Ort bin ich also gut durchgekommen. Schön oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 01.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #57
+
+* Titel: `Alan Wake 2 - #57 - Mehr Reime [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie wird das hier immer mehr zu der „Kunstform“ ‚Burnout‘ beschreibt Dinge die er an sich selber beobachtet hat während er immer mehr vergreist. Heute ist es die praktische Anwendung des Zitats „there is no art without limitation“. Autor bestimmt bekannt aber traditionell recherchiere ich für diese Texte hier nicht. Liest glaube ich eh niemand und ist mehr Teil meines eigenen kreativen Outputs. Wie dem aber auch sei. Kunst in Reimen zu finden viel mir früher immer sehr schwer. Tut es jetzt auch noch, allerdings verstehe ich es zumindest auf einer sehr synthetischen Art. Ein Reim zwingt dazu eine Botschaft in ein sehr spezielles Format zu drücken und speziell zu beschränken. Das liegt nicht Jeden und die richtige Ausführung kann schon sehr schwierig sein. Für den dunklen Ort und seine Macht braucht es auch eine gewisse Schöpfungshöhe. Diese bis auf den Millimeter zu vermessen ist wohl Aufgabe der Wissenschaftler des Bureau. Ich freue mich auf ihre weiteren Erkenntnisse.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 01.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #58
+
+* Titel: `Alan Wake 2 - #58 - Unter der Oberfläche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ein Wort für die Angst vor Tiefen. Thallasphobie oder irgendwie so. Ich hatte nie Latein in der Schule deswegen sind mir die genauen Schreibweisen nicht so geläufig und ich mache bestimmt dumme Rechtschreibfehler bei Dingen die so in Latein nicht funktionieren. Wie wenn Amerikaner deutsche Wörter schreiben und Buchstabenfolgen aufbringen die gar nicht existieren, einfach weil sie zu wenig Kontakt hatten. Die Angst vor der Tiefe beruht quasi auf das gleiche Konzept, dem Unbekannten. Zu wenig Vertrautheit mit der Materie und dem Unwissen über das was unter dem Wasser liegt. Alles was man von oben sieht ist eine schwarze, unergründliche Tiefe. Es ist schwer da nicht die Phantasie spielen zu lassen. Heute tauchen wir tiefer ein, immer tiefer. Dafür das wir den dunklen Ort verlassen wollen sind wir sogar ziemlich viel damit beschäftigt in seinen Irrungen umherzuschwimmen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 01.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

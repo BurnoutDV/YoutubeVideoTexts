@@ -270,6 +270,96 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
   ```
 
+##### #18
+
+* Titel: `Batman: Arkham Origins - #18 - Shiva [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Batman ist Fundamentalist. Ich bin mir aber relativ unsicher ob er wirklich einen kohärenten Plan hat wie er langfristig die Probleme Gothams lösen will. Soweit ich das verstanden habe hat er durchaus ein Netzwerk aus Waisenhäusern und anderen Einrichtungen die der Bevölkerung Gothams von der anderen Seite her helfen sollen. Allerdings ist mir nicht so ganz klar ob er einfach von Tag zu Tag bzw. Nacht zu Nacht handelt um das eigentliche Verbrechen in der Stadt eigenhändig zu bekämpfen oder ob wir ihn halt immer nur sehen wenn es grade einen besonderen Bösewicht gibt der der Aufmerksamkeit eines Experten bedarf. So oder so ist der Ansatz, soweit ich ihn verstanden haben als minimalinvasiv zu sehen. Er versucht die Stadt von dem Krebs zu befreien der die Kriminalität und das Verbrechen ist. Und dabei geht er außerordentlich behutsam vor, keine Toten, immer darum bemüht den Pfad der Gerechtigkeit zu gehen und so viele Leute wie nur irgend möglich zurück ins Licht zu führen, wie ein Schäfer der jedes Schaf einzeln behüten will. Shiva vertritt da einen anderen Ansatz. Für sie ist die breite Masse eher eine Herde die krank ist, und dann wird die Herde halt gekeult um Platz für die nächste Generation zu machen mit der man mehr Profit machen kann. Für das Individuum ist Batmans Ansatz definitiv wesentlich besser, aber für die Stadt als Solches bin ich mir nicht so sicher. Der dritte Weg wäre aber wohl das Problem einfach zu belassen und woanders hin zu gehen wo man noch etwas retten kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 3, Aufnahme vom 28.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #19
+
+* Titel: `Batman: Arkham Origins - #19 - Sionis Stahlwerk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Damals als ich Arkham City gespielt habe habe ich mich bereits ausreichend darüber ausgelassen das es unwahrscheinlich ist das ein Stahlwerk auch nur in der Nähe einer Stadt steht. Aber was weiß ich schon, vielleicht ergibt das historisch irgendwie Sinn. Ich habe schon einmal ein Stahlwerk von Innen gesehen, die Dinger sind gewaltig. Im Normalfall stellt man ja nicht einfach so Stahl her sondern formt das Endergebnis noch in eine Form, auch als Bramme bekannt. Große, dickere Platten. Flachstahl ist eine häufige Auslieferungsform für Stahl und die Herstellung dieser Erzeugnisse muss irgendwie und wichtiger, auch irgendwo dargestellt werden. Das braucht eine Menge Platz. Außerdem gibt es eine gewisse Unfallgefahr, flüssiges Metall ist übrigens in der Regel schneller als ein Mensch laufen kann. Und sehr heiß. Für die Position am Wasser spricht die Zulieferung von hochwertigen Eisenerzen und Kohle. Beispielsweise in Deutschland gibt es gar kein gutes Eisenerz, so das es ökonomischer ist das Rohmaterial her zu transportieren. Soweit gehe ich also mit. Aber für ein Stahlwerk ist die Gesamtanlage einfach zu klein. Und zu geschlossen. Kurzum, das ist eine Front für illegales Glücksspiel oder so!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 3, Aufnahme vom 28.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #20
+
+* Titel: `Batman: Arkham Origins - #20 - Schlangengift [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Früher, also mittlerweile, ganz früher, als ich noch ein Kind war, hatte ich ein eher naives Verständnis von Giften. Eine häufige Trophe in Filmen und Büchern ist das der Held vergiftet wird aber dann noch rechtzeitig das Gegengift findet. Bei den meisten Giften ist das schlichtweg falsch, oder es funktioniert zumindest bei Weitem nicht so einfach wie es klingt. Schwermetalle sind beispielsweise giftig aber ihr Effekt akkumuliert im Körper und ist eher schwierig rückgängig zu machen. Nervengifte können tatsächlich mit dem richtigen Stoff entgegengewirkt wird, diese Stoffe sind aber von sich aus auch gefährlich oder direkt tödlich. Bei Schlangengiften sieht es dann noch ein Stück anders aus, hier kann man teilweise tatsächlich etwas tun, aber man muss ziemlich schnell sein. Relativ viele Gifte sind auch nicht direkt tödlich sondern lähmen nur die Muskulatur, wenn man die Person also künstlich beatmet kommt man auch so ganz gut durch. Das die Muskeln sich dabei verkrampfen ist allerdings weniger gesund. Alles in Allem soll es kein schönes Erlebnis sein, und ohne Beatmung erstickt man einfach stumpf. Auch unschön bei Lähmungen, wenn man erblindet weil man mit offenen Augen in der Sonne liegt. Bei injizierten Giften verkürzt ein erhöhter Herzschlag definitiv die Lebensdauer, eiliges Laufen zum Gegengift könnte sich also als fatal herausstellen. All das gesagt, Batman ist Batman und powered einfach durch, weil er Batman ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 3, Aufnahme vom 28.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #21
+
+* Titel: `Batman: Arkham Origins - #21 - Hoteleingang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die nächsten paar Episoden werden dann im Royal Hotel stattfinden. Einen Ort der gefühlt zehnmal so groß ist wie das restliche Gotham. Oder so wird es zumindest angedeutet. Und außerdem ist dieser Ort eine weitere Erinnerung daran das wir uns in einem Comic ohne Cell-Shading befinden. Offensichtlich sind die meisten Element massiv übertrieben. Wir sehen wieder eine gewaltige Anzahl an Sprengstoff, Fässern und sonstige Kulisse herumliegen die unmöglich in einer Nacht her gebracht werden konnte. Und wenn doch wäre die Armee die dafür gebraucht werden würde soviel größer wie Gothams Bevölkerung das es schon lächerlich wäre auch nur darüber nach zu denken. Hinzu kommt noch das eine solche Armee bezahlt werden will und so wie es aussieht wurde der ganze Blackmask Plan erst vor wenigen Tagen in die Tat umgesetzt. Ich bin mir also ziemlich sicher das es das alles nur eine visuelle Übertreibung war.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 3, Aufnahme vom 28.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #22
+
+* Titel: `Batman: Arkham Origins - #22 - elektrischer Auftritt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In den nachfolgenden Teilen erhält Batman frische Ausrüstung dadurch das er Dinge die er noch nicht fertig getestet hat per Batwing nach versorgen lässt. Offensichtlich hat er verschiedene Ausrüstungsgegenstände bereites erforscht und getestet ist sich aber unsicher ob er diese auch wirklich in den täglichen Einsatz bringen will. Es könnte auch sein das ihm die ganze Ausrüstung zu viel wird und er gerne die Menge an Dingen am Utility-Belt beschränken möchte und dann durch die Handlung gezwungen wird weiteres Zeug von Alfred anliefern zu lassen. Das ergibt alles irgendwie Sinn und folgt einer angenehmen, internen Logik die es einfach macht zu verdauen wie die Dinge funktionieren. Arkham Origins wirft all das über Bord und wir sind in der Lage mit unserem Handschuhreplikator mal eben die Technologie von der Leiche eines gefallenen Gegners ab zu kupfern ohne das wir viel mehr machen müssen als die Person zu berühren. Das ist in der Tat mächtiges Mojo von das die Gegner Batmans nur träumen können. Es macht außerdem das Spiel wesentlich einfacher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 4, Aufnahme vom 04.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
+##### #23
+
+* Titel: `Batman: Arkham Origins - #23 - Jokers Achterbahn [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zum Glück habe ich dich ja schon mental darauf vorbereitet das wir uns in einer Comic Welt befinden in der alles ein wenig überzeichnet ist. Das erklärt auch wie die ganzen bösen Jungs keine schwere Gehirnerschütterung davon tragen und wir uns nicht schuldig fühlen müssen das die Battarangs die Leute in Stücke schneiden. Daher macht die Achterbahn von Joker auch sehr viel Sinn. Das ganze Material das über Personalaufzüge herangeschafft wurde und die gewaltige Konstruktion ohne Hilfsbauten hingestellt wurde, und das alles in der Zeit in der Joker die Kontrolle übernommen hat, also quasi seit Anbruch der Nacht. Immerhin können wir auch ein paar Angestellte des Hotels retten. Wenn man sich allerdings die Größe des Gebäudes anschaut muss man wohl leider damit rechnen das hunderte von Leute die hier einfach nur ihren Dienst versehen haben bereits das zeitliche gesegnet haben. Es gibt halt nur einen Batman aber echt viele Verbrecher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Batman: Arhkam Origins auf dem Donnerstags Slot, 20 Uhr Release.
+  Sitzung 4, Aufnahme vom 04.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wNCsTZ4wFUq1PwF04iwF-bb
+  ```
+
 ##### #Nummer
 
 * Titel: ``

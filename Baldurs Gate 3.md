@@ -3302,32 +3302,47 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
 ##### #220
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #220 - infernalische Transposition [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Themenwechsel! Grade waren wir noch extra lange damit beschäftigt zu entscheiden ob wir unserem Hausvampir zusätzliche Kräfte geben und schon sind wir auf einmal in Fetzen in der Hölle. Wie genau Avernus funktioniert weiß ich leider immer noch nicht aber ich habe den Verdacht das es nicht sehr angenehm ist. Man kann seine Seele an irgendwelche Gambions und Erzdämonen verkaufen. Man muss scheinbar nicht sterben um in Avernus zu landen aber es hilft auf jeden Fall. Da man seine Seele bindet und nicht seinen Körper kommt man aus der Geschichte wohl auch nicht so einfach heraus. Den tatsächlich physischen Vertrag zu finden und zu vernichten soll irgendwie helfen aber man würde wohl keine Pakte mit Dämonen schließen wenn man dazu in der Lage wäre. Allerdings gibt es Möglichkeit sich rein zu schleichen, und das ist genau da wo wir heute anfangen. Beim Schleichen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 06.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #221
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #221 - Hoffnung [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Auch aus der Perspektive von jemanden der das Spiel durchgespielt hat kann ich immer noch nicht sagen was genau jetzt an Hoffnung so besonders ist. Sie ist kein Aesimar oder irgendetwas Ähnliches. Allem Anschein nach ist sie ein normaler Goldzwerg dessen Name durch Zufall Hoffnung ist. Das ergibt nicht besonders viel Sinn. Also, warum sie wichtig ist. Ihr Name ist halt ein Name, und insbesondere im Englischen ist Hope ja ein ziemlich normaler Frauenname. Hoffnung ist ein schönes Konzept, Hoffnung kann man quasi immer bis zum bitteren Ende haben. So lange ich atme hoffe ich. Vielleicht hat es Raphael auch einfach nur gefallen jemanden in Gewahrsam zu haben der Hoffnung heißt. Oder hier spielt noch mehr herein und ich verstehe es einfach nicht. Hoffnung ist besonders. Anders als die restlichen Insassen ist sie nicht mit einem Vertrag an das Haus der Hoffnung gebunden sondern mit echten, infernalischen Ketten. Die gleichen Dinger die auch Orpheus mit sich herumschleppt. Der orphische Hammer ist scheinbar das Einzige was sie brechen kann, allerdings frage ich mich wie wahr das sein kann wenn hier jemand namens Hoffnung sitzt und mit der gleichen Technologie gehalten wird. Und ob das Haus der Hoffnung ursprünglich von Hoffnung erbaut wurde. Viel zu viele unbeantwortete Fragen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 32, Aufnahme vom 06.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #222
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #222 - Raphaels Boudoir [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Mittlerweile weiß ich wie diese Geschichte auch hätte laufen können und ich bin mir ziemlich sicher das ich es mir zu schwer gemacht habe. Das Haus der Hoffnung ist nicht nur ein Ort der verdammten Seelen und Hoffnungslosigkeit, Sammelplatz für Menschen und Elfen die von Raphael dazu gebracht wurden Pakte einzugehen um Verzweiflung aufzulösen die er selbst erst verursacht hat. Das ist übrigens ein interessantes Element, wie oft die Leute in ihren Aussichtslosigkeit zu einem Deal gegriffen haben den Raphael dann mit einem anderen Deal erfüllt und diese dann gegeneinander ausgespielt werden. Auch Mizora handelt so, es ist schon faszinierend wie sich die Dinge entwickeln das bei jeder Gelegenheit die Dinge so laufen. Aber all das Planen und Schmieden ist auch anstrengend. Und deshalb gibt es das Boudoir das eine lange Rast verspricht. In kürzester Zeit. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 33, Aufnahme vom 13.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #223

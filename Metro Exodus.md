@@ -270,6 +270,576 @@ Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4E
   Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
+##### #18
+
+* Titel: `Metro Exodus - #18 - Waggonlieferung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir Moskau verlassen haben hatten wir nicht viel mehr dabei als eine Lok. Die ist zwar an sich mächtig und auch ganz nützlich um das marode Schienennetz Russlands zu bereisen aber es gibt da auch Grenzen, zum Beispiel Grenzen in Sachen Komfort. Wir sind nicht exakt wenige Leute und so wie es aussieht haben wir sogar noch neue Leute aufgenommen, das führt dazu wir ein wenig Platz brauchen um alle unter zu bringe. Glücklicherweise habe ich ja schon vor Kurzem einen kleinen Waggon gefunden und alle Banditen die das Ding bewachen umgebracht bzw. solange gewürgt bis ihnen die Luft ausgegangen ist und sie aufgrund des Traumas wahrscheinlich auch das Leben ausgehaucht haben. Aber das war immerhin die pazifistische Lösung. Jetzt haben wir sogar noch eine kleine Diesel-Lok gefunden. Damit sind wir dann auch in der Lage zu rangieren und einen Wagen abzuschleppen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 3, Aufnahme vom 02.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #19
+
+* Titel: `Metro Exodus - #19 - am Hafen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es sieht so aus als würde die Fahrt via Schiene im Prinzip auch außerhalb der Metro eigentlich ganz gut funktionieren. Aber damit man hier gut vor ran kommt braucht es relativ schwere Maschinen und einen stetigen Zufluss an Treibstoff für den Triebwagen, ich glaube nicht das man noch auf die Elektrifizierung der Strecke zu hoffen braucht. Neben Schienen hat man traditionell Kanäle und Flüsse dafür genutzt. Ich habe absolut gar keine Informationen über das Vorhandensein von Kanälen im Herzland Russlands aber Flüsse gibt es ein paar, mindestens die Wolga und sicherlich auch ein paar Nebenarme. In alter Vergangenheit haben sich Städte und Zivilisationen gerne in der Nähe von Gewässern gebildet. Nicht nur für den leichten Zugang zu Trinkwasser sondern auch für den Transportweg. Und so überrascht es uns nicht das wir ein paar Händler zu Wasser auftreiben können. Mit deren Hilfe werden wir in der Lage sein näher an die Brücke heran zu kommen die wir passieren wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 3, Aufnahme vom 02.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #20
+
+* Titel: `Metro Exodus - #20 - Infiltration [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In den letzten Metro Spielen habe ich nicht unbedingt versucht heimlich zu spielen. Das ist aber auch schon alles so lange her das es eigentlich auch gar nicht mehr wahr ist. Alles war anders damals und ich war vielleicht auch ein wenig aggressiver drauf. Das hat mich damals auch nicht daran gehindert beispielsweise Dishonored zu spielen aber in Metro habe ich nicht versucht menschliche Verluste auf ein Minimum zu begrenzen. Leider muss ich feststellen das es sich hier echt um kein Schleichtspiel handelt. Die Performance und die Art wie einen Gegner erkennen können obwohl es kein klares Sichtfeld gibt ist schon sehr deprimierend. Da ich es aber dennoch so will dauert das heute alles ein wenig länger. Letztendlich war es aber wohl auch egal weil es für die Handlung keine Rolle spielt das ich nicht alle niedergeschossen habe. Aber das weiß ich noch nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 3, Aufnahme vom 02.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #21
+
+* Titel: `Metro Exodus - #21 - Durchfahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich unterschätze immer wieder gerne was für gewaltige, natürliche Grenzen eigentlich Flüsse darstellen. Klar kann man theoretisch durch schwimmen, aber auch mit viel Übung macht die Strömung das zu einem riskanten Unternehmen. Aber das ist auch nicht der Punkt, selbst wenn man einen Fluss wie die Wolga schwimmend im Winter überqueren könnten ist damit ja noch nichts transportiert, und wenn irgendjemand in der Truppe nicht ganz so fit ist löst das auch nichts. Schlimmer noch, dann ist man zwar auf der anderen Seite aber so richtig weiter kommen tut man nicht. Man braucht also entweder eine sehr flache Stelle, ein Floss oder eine Brücke. Soweit ich das verstanden habe sind moderne Brücken relativ widerstandsfähig und würden auch den nuklearen Winter initial ganz gut überstehen. Wir nähern uns heute einer Eisenbahnbrücke die wir schon seit einiger Zeit beobachten. Leider hat man in der Vergangenheit wohl der Schifffahrt ein wenig zu viel Bedeutung zugesprochen und deswegen kann sich das Ding bewegen. Das ist vor einiger Zeit passiert, und die aktuelle Position ist nicht die die wir gerne hätten. Da muss man etwas tun.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 3, Aufnahme vom 02.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #22
+
+* Titel: `Metro Exodus - #22 - Blinder Glaube [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben besteht aus einer endlosen Abfolge von Halt-Bedingungen. Oder anders gesagt „uns unterscheidet von einem Computer das wir irgendwann eine Grenze setzen“. Zumindest in der Theorie. Je länger ich mir das anschaue umso mehr erscheint es mir das eine richtige Mitte zu finden und genügend Datenpunkten zu haben um ein „das ist normal“ bzw. eine realistische Entfernungsabschätzung vom Normal abzugeben eigentlich alles ist was das älter werden aus macht. Umso schlimmer ist es dann noch Leute zu sehen die nie zu diesem Schritt über gegangen sind oder ganz bewusst sagen „das hier ist immer gut, egal was ist“. Sei es Religion, Partei oder Vertrauen. Auf der anderen Seite steht da noch das ewig Misstrauen. Auf welchem Fundament soll man eine Beziehung bauen wenn alles in Frage gestellt wird. Charaktere in unserer Crew scheinen heute ein wenig zu sehr in die eine Richtung zu fallen. Das ist bemerkenswert wenn man bedenkt das ansonsten immer alle viel zu misstrauisch sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 3, Aufnahme vom 02.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #23
+
+* Titel: `Metro Exodus - #23 - die Regierung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich etwas über Vertrauen nachgedacht. Ich nutze die günstige Gelegenheit um blindes Vertrauen und falschen Glauben an die Führung durch Andere zu mahnen. Das ganze Thema ist auch recht „lustig“ weil ich immer noch darauf warte das ich einer Führung, Geschäftsleitung oder Regierung begegne, oder zumindest von höre die tatsächlich kompetent ist. Selbst diejenigen die nach Außen halbwegs stabil erscheinen werden fraktal immer mehr zur Katastrophe. Ein klassisches Beispiel sind Großkonzerne, von Außen scheint der Erfolg ja für eine straffe Organisation und effiziente Abläufe zu sprechen, aber intern sieht es dann eher so aus als würde man trotz all dem irgendwie noch im grünen Bereich heraus kommen. Um das Ganze kurz zu machen, wenn nach der Post-Apokalypse ein Besuch bei der Regierung ansteht die sich offensichtlich aus den Resten der Vorkriegs-Regierung gebildet hat, wäre ich ein wenig skeptisch ob deren Kompetenz. An sich sind das ja immer noch die gleichen Affen im Anzug.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 4, Aufnahme vom 09.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #24
+
+* Titel: `Metro Exodus - #24 - Herr Doktor Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir werden leider nie erfahren, zumindest nicht wenn man diesem Spieldurchgang folgt, was jetzt eigentlich genau in der Arche passiert ist. Wir erfahren das die Einrichtung scheinbar gebaut wurde, als Bauplan wurde die D6 Anlage in Moskau herangezogen oder vielleicht wurden sogar beide gleichzeitig in Betrieb genommen. Nur das hier nie jemand rechtzeitig an kam. An sich habe ich die Geschichte jetzt auch schon in diversen Medien mehrfach gehört, die wichtigen Atomschutzbunker werden leider erst nach dem großen Knall fertig und die einzigen Leute die dadurch gerettet werden sind die Bauarbeiter. Leider kommen die eigentlichen Versorgungslieferungen auch nicht vor Fertigstellung so das man zwar einen veritablen Bunker hat aber nicht den Rest. Die Existenz der Anlage im Jamatau lässt aber vermuten das es irgendwo anders, eventuell sogar noch versteckter noch andere Einrichtungen dieser Art gibt. Es gibt ja doch recht viel Ural und da würde ich nicht nur eine Basis planen. Vom ausgebildeten Personal sind definitiv nicht all zu viele Leute bereits vor Ort geblieben, aber scheinbar hat es auch ein Arzt geschafft. Weiter lesen wir noch das es die Leute irgendwie durch eine eingeschleppte Krankheit entschärft hat, aber Details entziehen sich uns leider. Das ist sehr schade. Ich hätte zum Beispiel gerne gewusst warum der Herr Doktor eigentlich noch am Leben und anscheinend auch irgendwie bei Verstand ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 4, Aufnahme vom 09.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #25
+
+* Titel: `Metro Exodus - #25 - kaspische Wüste [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich war im Vorfeld absolut nicht über die Handlung von Metro Exodus informiert. Das bedeutet auch das ich keine Ahnung habe wo die Reise endet oder welche Orte wir noch zu erwarten haben. Ich muss allerdings sagen das es mich ein wenig überrascht auf einmal Wüstensand zu sehen. Ich verbinde die Reihe mit Eis, Kälte, Strahlung und irgendwelchen halb zerfallenen Metro-Tunneln und irgendwie ist das ganze Bahn-Thema ja schon eine starke Entfernung von der ursprünglichen „DNA“ der Serie. Aber zumindest für ein Spiel muss man sich wohl doch irgendwann einmal neu erfinden. Insofern will ich mich nicht zu laut wundern. Allerdings scheinen wir uns jetzt endgültig in eine Mad Max Richtung zu entwickeln. Allem Anschein nach kann unsere Bahn auch mit Diesel laufen und uns ging grade die Kohle aus. Außerdem haben wir unlängst ein paar Autos gesichtet. Kombiniert mit den Temperaturen habe ich eine ungefähre Vermutung in welche Richtung die Reise geht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 4, Aufnahme vom 09.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #26
+
+* Titel: `Metro Exodus - #26 - staubige Reifen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor einigen Episoden habe ich noch beschreiben wie der Unterschied zwischen russischer und amerikanischer Post-Apokalypse zu sein scheint das man in dem einem Szenario mit selbstgebauten Autos durch die Wüste fährt und in dem Anderen mit einer geklauten Lok durch die Tundra. Stellt sich doch glatt heraus das ich wohl ein wenig früh gesprochen habe. Mir ist allerdings noch nicht ganz klar warum die Karre die wir heute finden so offen ist. Wüstensand existiert. Viecher die überall umherspringen auch und es kann nun echt nicht das Problem sein das ein schwereres Auto nicht vom Fleck kommen würde. Insofern kann ich das doch recht offene Design des heute neu erhaltenen Automobils nicht ganz nachvollziehen. Immerhin erreichen wir aber keine Höchstgeschwindigkeit, es ist also kein direktes Mad Max Szenario. Es sieht nicht so aus als würden wir uns in nächster Zeit Rennen mit den Bewohnern von Wasserstadt liefern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 4, Aufnahme vom 09.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #27
+
+* Titel: `Metro Exodus - #27 - der Leuchtturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Leuchttürme haben einen wunderbaren Symbolismus. Selbst wenn es weit und breit kein Wasser gibt sind sie doch ein Zeichen der Orientierung, ein Ort den man von weiter Entfernung sehen kann, und heute auch unser Ziel. Wir wissen es noch nicht, aber anscheinend gab es gegen den örtlichen Baron in der Vergangenheit ziemlich viel Widerstand. Dieser hat sich dank einer brutalen Kampagne über die Jahre aufgelöst. Ob und in wie fern das alles als Gesellschaft Sinn ergibt kann ich übrigens nicht sagen noch möchte ich darüber eigentlich zu lange nachdenken. Nehmen wir einfach hin das es eine holde Maid in Not auf einem Turm gibt die wir irgendwie retten müssen. Besagte holde Maid konnte bis Dato wohl ganz gut auf sich selbst aufpassen. Das liegt wohl auch an ihren Fähigkeiten aber zu einem gewissen Anteil muss wohl auch die Inkompetenz ihrer Verfolger daran schuld sein. Hier ergeben sich auch logistische Probleme die ich eigentlich auch nicht betrachten will. Ziel ist es auch erst einmal den Leuchtturm zu erreichen, alles Andere betrachten wir später.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 4, Aufnahme vom 09.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #28
+
+* Titel: `Metro Exodus - #28 - Caspian-1 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird Zeit für ein bisschen klassischen Horror. Ich weiß das Exodus an sich nach Elden Ring raus kam aber ich habe die Spiele halt in einer anderen Reihenfolge gespielt und deswegen ziehe ich jetzt den Vergleich. In Elden Ring gibt es so genannte „Legacy Dungeons“ das sind Zonen die mehr wie das klassische Dark Souls Erlebnis sind ohne das man großartig frei reisen kann. Beispielsweise ähnelt Sturmwind Schloss doch sehr der Untoten Burg aus DS1. Aber das Spiel selbst ist dann noch ein wenig mehr und es gibt auch so kleine, sich wiederholende Höhlen die auch sehr an Erlebnisse aus Dark Souls 2 erinnern. Oder an die Kelch Dungeons aus Bloodborne. In Metro ist man traditionsgemäß viel in irgendwelchen Tunneln umhergelaufen, bzw. als ausgebildeter Spartaner in Last Light dann auch an der Oberfläche aber dennoch in kontrollierter Umgebung. Heute betreten wir Caspian-1, eine Satelliten-Überwachungsstation der ehemaligen Regierung die die eigentlichen Einschläge bestens überlebt hat. Leider kam es dann zu anderen, noch nicht näher genannten Problemen die dafür gesorgt haben das die wirklich tiefe Anlage ausstarb. Ich finde das immer faszinierend, schon in Stalker, das diese ganzen russischen Bunker die irgendwo rumstehen, mit diesen gewaltigen Treppenaufgängen wie in einem Neubaublock ja irgendwo eine Vorlage gefunden haben. Sie also wahrscheinlich irgendwie, wenn nicht sogar genau so, existiert haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 4, Aufnahme vom 09.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #29
+
+* Titel: `Metro Exodus - #29 - Wüstensturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Draußen regnet es während ich das hier schreibe. Ich mag Regen, solange ich drinne sitze, oder noch besser, eine dünne Schicht Schutz vor den Gezeiten habe und nicht alleine bin. Aus irgendwelchen Gründen finde ich das Gefühl in einem Zelt mit Anderen zu sitzen während es regnet seltsam beruhigend. Meistens passiert das auf Festivals und dann muss bzw. will man noch irgendwo hin und dann macht es nicht mehr ganz so viel Spaß. Aber dennoch, dieses Gefühl geborgen zu sein während draußen die Natur wütet ist ganz angenehm für mich. Solange es nicht zu kalt ist. Ich weiß nicht wie mein Verhältnis zu Wüstenstürme steht. Es gibt eine Szene der Art in Cyberpunk 2077 die mich glauben lässt das es ein ähnliches Gefühl erzeugen könnte. Aber wahrscheinlich braucht es ein wenig mehr als nur eine dünne Zeltplane. Insbesondere wenn man bedenkt das Sand die echte Gefahr mit sich bringt jemanden einzugraben. Siehe auch den Dokumentarfilm Dune in dieser Angelegenheit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 4, Aufnahme vom 09.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #30
+
+* Titel: `Metro Exodus - #30 - Wüstenschrottplatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man lagert alte Flugzeuge gerne in der Wüste. Die Bedingungen dort sind so das man ziemlich lange das ganze Maschinenzeug erhalten kann um später darauf zugreifen zu können. Wie bei jeder Lagerung gibt es da natürlich Dinge zu beachten. Bei Autos zum Beispiel sollte man darauf achten das der Tank nicht vollständig leer ist (glaube ich), generell alles Gummi enthält oder daraus besteht wird so oder so ablaufen weil Weichmacher ausdünsten und dann alles spröde wird. Eventuell macht man sogar noch regelmäßig Funktionstests um sicher zu stellen das das gelagerte Zeug noch gut ist. In den meisten Fällen kann man nicht einfach einen Bunker öffnen und das alte Zeug sofort einsetzen. Wenn man sich aber gar nicht um die Dinge kümmert die herumliegen, das zerfällt alles. 20 Jahre ohne Wartung in der Wüste haben diesen einstigen Ort auf jeden Fall nicht gut getan. Ich nehme an das es sich um irgendeinen militärischen Stützpunkt handelte, aber jetzt ist es wirklich nur noch ein Ort voller Ghule und Rost.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 16.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #31
+
+* Titel: `Metro Exodus - #31 - Schiffsrumpf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gestrandete Schiffe sind eigentlich gar keine schlechte Zentrale für die post-apokalyptische Welt wenn ich so darüber nachdenke. Die Außenwände sollten relativ dick sein. Rein theoretisch sind sogar elektrische Einrichtungen vorhanden die in irgendeiner Kapazität ein autonomes Handeln und operieren erlauben, je nach Größe des Schiffes. Wie genau das mit dem Hauptmotor zusammenhängt vermag ich natürlich nicht zu sagen. Die Außenhülle aus Metall ist natürlich im Falle eines direkten nuklearen Einschlages eher schlecht, soweit ich mich erinnere wird Stahl zum sekundären Alpha-Strahler wenn es viel Gamma-Strahlung hat. Wenn ich mich korrekt erinnere. Das wäre natürlich eher nachteilig. Ansonsten aber, je nachdem wo das Schiff letztendlich liegen bleibt, nicht die schlechteste Zentrale. Bei Wassereinbruch oder langsam zerfallender interner Struktur gibt es auch eine Menge dunkler Gänge ohne Licht. Und natürlich der Fakt das die meisten Schiffe nicht im besten Zustand am Tag X sind und schon Y viele Jahre hinter sich haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 16.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #32
+
+* Titel: `Metro Exodus - #32 - Flugplatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und mit Flugplatz im Titel meine ich in Wirklichkeit das wir einen weiteren Schrottplatz betreten aber man hier deutlich erkennen kann das die rostenen Schrotthaufen die wir sehen irgendwann einmal Hubschrauber waren. Mir ist tatsächlich nicht so ganz klar was hier die Geschichte sein soll. Ich würde davon ausgehen das am Tag X die Hubschrauber in funktionsfähigen Zustand waren. Die Beschädigung die wir sehen scheint eher oberflächlich im Laufe der Zeit entstanden zu sein, insofern sehe ich nicht so ganz warum sie nicht genutzt wurden. Die Region rund um die Caspian-1 Station wurde anscheinend verschont aber soweit ich das verstanden habe waren sie relativ abgeschnitten. Warum also nicht die vorhandenen Hubschrauber nutzen um sich ein Bild von der unmittelbaren Lage zu machen? Andererseits gab es vielleicht einen Mangel an Personal oder man wollte den „Feind“ nicht darauf aufmerksam machen das hier noch jemand lebt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 16.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #33
+
+* Titel: `Metro Exodus - #33 - bewaffneter Überfall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man vergisst es schnell, aber Artyom ist nicht nur irgendein Bewohner der Metro von Moskau sondern ausgebildeter Spartaner. Der Mann ist das was einer Spezialeinheit in dieser kaputten Welt am nächsten kommt. Er ist ein Überlebender, jemand der hunderte Gefechte und Konfrontationen gesehen und überlebt hat. Eine solche Person ist ein schrecklicher Gegner für andere Leute die wesentlich weniger Erfahrung haben. Und dazu können wir sogar behaupten das wir so etwas wie die moralische Deutungshoheit haben. Klar ist aber auch das das Leben in der Wüste nicht einfach sein wird. Wer hier ein schwacher Anführer ist fällt wahrscheinlich schnell anderen, weniger skrupelbehangenen Leuten zum Opfer. Dennoch frage ich mich inwiefern man wirklich seine Menschlichkeit aufgeben muss wenn es um solche Dinge geht. Klar, quasi jede Geschichte in der Postapokalypse läuft immer gleich und es scheint irgendwie schwer glaubhaft zu sein das das Gute eine Chance haben kann wenn die Bösen es doch so viel einfacher haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 16.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #34
+
+* Titel: `Metro Exodus - #34 - Arsen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die heutige Episode ist ein wenig schwierig. Wir haben es mit einem Namen zu tun. Nicht Ar-sehn sondern eher Ars’en würde ich vermuten. Oder irgendwie so. Vielleicht heißt die Person auch genau wie das Gift. Das würde zumindest ein wenig passen. Der unterliegende Konflikt ist relativ einfach. Bei Arsen handelt es sich um einen der örtliche „Ureinwohner“ der sich gegen die Herrschaft des Barons aufgelehnt hat. Leider ist die Welt nicht besonders gerecht und wenn sich alle gegen einen Verschwören hat man schnell keine Freunde mehr. So oder so. Das ist quasi das Gleiche wie wenn man morgen im faschistischen Regime aufwacht weil man vorher ignorant war. Man sieht sich nur von Gegner umringt und selbst wenn man versuchen würde aus zu brechen wird der eigene Widerstand systemisch gebrochen. Es gibt keine Wand an die man sich lehnen kann, keine Stütze, keine sichere Basis. Unter solchen Umständen kann es sehr schwer wenn nicht sogar unmöglich sein für eine bessere Welt zu kämpfen. Die Vorstellung daran fühlt sich an wie zu ersticken. Keine Luft zum atmen, nichts das man anfassen kann, nur ein Meer aus Hoffnungslosigkeit, kein Grund zum Treten. Und doch hat sich Arsen entschieden zu kämpfen. Und doch hat er versucht etwas zu ändern. Und am Ende erinnern nur wir uns an ihn, ein Außenseiter.  
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 16.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #35
+
+* Titel: `Metro Exodus - #35 - Wasserraub [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine gar nicht so seltene Trophe der Apokalypse ist das man um das Wasser kämpfen muss. Sei es durch klimatische Veränderungen, nuklearen Holocaust oder einfach nur gute alte Umweltverschmutzung. Wasser ist Leben und Städte an Flüssen hatten schon immer mehr als einen Grund warum sie gut liefen. Wer kein sauberes Wasser hat macht nicht lange. Viele Krankheiten werden über dreckiges Wasser verbreitet und generell und überhaupt steht und fällt alles mit dem Wasser und dessen Zugang. Hier können wir dann direkt den Brückenschlag zu Nestlé und der Coca Cola Company machen die in Entwicklungsländern wie der USA oder Brasilien in trockenen Regionen die Wasserhoheit haben während die Leute die dort wohnen nur aus Flaschen beziehen dürfen. In Mitteleuropa ist Wasser ziemlich häufig, unverschmutztes Wasser nicht mehr ganz so, aber im Großen und Ganzen geht es dem Grundwasser noch gut. Wenn aber erst einmal die Wasserkriege ausbrechen könnte das alles ein wenig anders aussehen. Ich würde mir übrigens auch vorstellen das ein Tanklasterraub wie wir ihn heute machen nicht gut bei der Allgemeinheit ankommen würde und harsche Konsequenzen nach sich ziehen würde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 16.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #36
+
+* Titel: `Metro Exodus - #36 - Vorraustrupp [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Letztes Mal erwähnte ich das der Diebstahl von Wasser an einem Ort der nicht mehr besonders viel davon hat wohl nicht besonders freundlich behandelt wird. Ich hatte recht. Das uns die entsprechenden Fraktionen wahrscheinlich sowieso angegriffen hätten stelle ich jetzt einfach mal in die Ecke, das ist kein wichtiger Fakt. Ich finde es übrigens interessant das am Anfang erwähnt wurde das es in der Gegend wohl auch noch andere „Stämme“ gibt die sich nur mit den Leuten der heiligen Flamme nicht mehr anlegen weil diese zu mächtig sind. Ich weiß übrigens immer noch nicht warum ich am Anfang diesen Typen namens Saul verschont habe. Bis jetzt sehe ich hier keinen Unterschied in meiner Behandlung der Banditen des Barons. Aber vielleicht hätte ich auch noch pfleglicher mit dem menschlichen Leben umgehen sollen anstatt alle Männer des Barons die ich sonst so sah über den Haufen zu schießen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 16.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #37
+
+* Titel: `Metro Exodus - #37 - Sklavenquartier [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein reales Problem mit Sklaven ist das es quasi nicht human zu bewerkstelligen ist. Selbst wenn man die ganze Moral beiseite stellt und sich irgendwie heraus redet das man primitive Wilde irgendwie dazu verwendet etwas sinnvolles zu tun weil sie sonst ja nur „herumliegen“ würden weil man einer calvinistischen Arbeitsmoral folgt („idle hands are the devil's tools“) anhängt ist bei Licht betrachtet nicht besonders haltbar. Warum hat man das Recht sich in das Leben anderer Leute ein zu mischen? Um beim Hauptthema zu bleiben, die ganze Geschichte mit den Arbeitssklaven lohnt sich nur solange man alles irgendwie inhuman hält weil man an den Lebensbedingungen spart. Oder am Werkzeug, oder an der Sicherheit, am besten Alles. Sklaven machen nur dann Sinn wenn man in der Lage sein will dem individuellen Leben keine Bedeutung zu zu schreiben. Sei es weil es gefährliche Substanzen gibt, Unterernährung die Profite erhöht oder einfach weil man sich mächtig und wichtig anderen Gegenüber fühlen möchte. Die Argumentation die wir in dieser Instanz gehört haben ist übrigens gar nicht sooo schlecht: Wir versklaven die Leute weil sonst die anderen Banden das Selbe tun und wir dann nicht herrschen könnten. Ich frage mich übrigens wirklich wo die Eingeborenen überhaupt her kommen, aber ich weiß halt absolut nichts über Minderheiten im russischen Grenzland und wie es um die Bildung dieser Schichten so steht. Trotzdem sind die Umstände die wir heute sehen ein wenig sehr barbarisch, aber das waren sie überall woanders wo wir bisher waren irgendwie auch. Da muss man olle Silantius von der Wolga fast lassen das es bei ihm nicht ganz so schlimm zu ging. Ob das jetzt Lob wert ist kann ich aber auch nicht sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 6, Aufnahme vom 23.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #38
+
+* Titel: `Metro Exodus - #38 - Bohrturm [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann mir nicht so richtig vorstellen wie die postapokalyptische Ölförderung eigentlich stattfindet. Ich weiß allerdings auch nicht so richtig viel darüber wie das eigentlich alles abläuft. Das Öl selbst kommt wohl relativ von alleine heraus wenn man es einmal angebohrt hat, natürlich auch nicht unendlich lange und diese Ölblasen unter der Erde können sehr unterschiedlich groß sein. Sicher ist aber auch das damit die Arbeit nicht abgeschlossen ist. Öl in seiner Rohform scheint mir nicht besonders wertvoll zu sein, es verbrennt unsauber und ob es überhaupt als Treibstoff brauchbar ist bezweifle ich mal eben. Zumindest nicht wenn man auch noch vor hat nach 10 Kilometern noch einen Motor zu haben. Wo genau die heilige Flamme Typen jetzt aber ihre Raffinerie versteckt haben vermag ich wirklich nicht zu sagen. Und wie man diese betreibt. Zugeben, ich weiß auch nicht ob man den Prozess eventuell wesentlich kleiner betreiben kann und vielleicht mit relativ viel Handarbeit vielleicht nur einige hundert Liter Brennstoff erzeugen kann der eventuell als Benzin oder Diesel durchgeht. Das würde ja reichen, man braucht ja keine Millionen an Liter mehr, bei ungefähr fünf funktionierenden Autos. Und die kann definitiv keiner nachbauen. Der werte Herr Baron war ja scheinbar vor dem Krieg eine hochrangige Person des örtlichen Ölfeldes, ich würde einfach einmal annehmen das so jemand entweder die richtigen Ingenieure kennt oder vielleicht sogar selbst ein Großteil des benötigten Wissens hat. All das endet natürlich dann heute, für die Freiheit der Menschen ist unser Eingreifen bestimmt nicht schlecht, für die technische Entwicklung in der Region sehe ich aber Schwarz.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 6, Aufnahme vom 23.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #39
+
+* Titel: `Metro Exodus - #39 - Sommer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich an die Metro Spielreihe denke dann sind sonnige und warme Orte auf jeden Fall nicht ganz vorne in meinen Gedanken. Ich stelle mir Sommer in einem Zug übrigens auch nicht sehr angenehm vor. Also, ich weiß das es nicht sehr angenehm ist weil ich schon in Züge gefahren bin die zwar moderner als das was wir hier sehen waren aber immer noch unter der Bezeichnung „Reichsbahn“ fuhren. Gemeint ist übrigens der RE6 nach Chemnitz von Leipzig aus. Einer der wenigen Züge von denen ich weiß das er noch Abteile hat. Manchmal fällt auch einer der beiden Züge aus der die zweit und drittgrößte Stadt Sachsens verbindet, und dann fährt an der Stelle eine absolut übervolle S-Bahn. Das ist fast genauso nervig. Zumindest Überfüllung ist nicht das Problem das unsere wackeren Helden haben. Rein theoretisch würde mich auch ein wenig interessieren wie viele Wägen unsere modifizierte Dampflok eigentlich ziehen kann, weil ein Wagon sollte kaum einen Unterschied machen. Aber das alles ist egal, heute reden wir mit den Leuten und übersehen ein Buch. Und dann finden wir noch heraus welche Probleme wir sonst noch so haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 6, Aufnahme vom 23.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #40
+
+* Titel: `Metro Exodus - #40 - Erkundungsfahrt[Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Etwas das mir immer wieder auffällt das wenn ich Fiktion lese ist das vorhanden sein vor irgendeiner Art Technik oder Magie die es den Leuten ermöglicht miteinander über Entfernungen zu reden. Vielleicht steht die Technik nicht jedem zur Verfügung oder hat irgendwelche Einschränkungen, aber sie existiert. Alternativ wird die Geschichte aus allen Blickwinkeln erzählt damit man im Bilde bleibt. Der Gegenentwurf ist das quasi in jedem Horrorfilm die Kommunikation das erste ist was stirbt. Entweder weil man weiter außerhalb der Zivilisation ist und nichts von Haus aus funktioniert, Akkus ungünstig früh leer gehen oder Technik allgemein versagt sobald das erste Monster auf der Türschwelle steht. Die Menge an Koordination und Abstimmung die man sonst hat ist einfach zu groß. Außerdem gehört die Isoliertheit zum Horror dazu. In der Metro Welt gibt es noch Funkgeräte, aber sie ersetzen kein richtiges Erkunden. Und das ist der Punkt wo dann auch gerne mal die Technik versagen oder verloren gehen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 6, Aufnahme vom 23.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #41
+
+* Titel: `Metro Exodus - #41 - Piratenlager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bis zum jetzigen Zeitpunkt ist es ein wenig unklar mit was für Leuten wir es eigentlich zu tun haben. Wir haben eine Schule durchquert die anscheinend eine Art Sommerlager war in das man seine Kinder schicken konnte während man selber als Erwachsener gearbeitet hat. Die Erwachsenen in dieser Geschichte haben sich wohl ein wenig aufgelöst als die Bomben fielen. Glücklicherweise wurden die Kinder aber nicht alleine gelassen sondern hatten einen Lehrer. Mich überrascht allerdings das es hier nur eine einzige Aufsichtsperson gab. Irgendwann später verstarb der Lehrer dann und die Kinder wurden sich selber überlassen. Ich frage mich allerdings warum die ehemaligen Lehrgebäude und Aufenthaltsräume so zerfallen sind. Wir sehen erste Anzeichen für Baumhäuser und es ist sicher praktischer aus dem Verborgenen zu zu schlagen, aber warum nicht die Infrastruktur nutzen die man sowieso schon hatte? Insbesondere wenn das Tal nicht getroffen wurde dürfte es initial überhaupt keine Zerstörung gegeben haben. Es ergibt nicht viel Sinn das hier alles so geplündert und kaputt wie im restlichen Land aussieht. Aber vielleicht ist das Verhalten der Piraten ein Indiz.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 6, Aufnahme vom 23.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #42
+
+* Titel: `Metro Exodus - #42 - kleiner Waldabschnitt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein völliger Wechsel von der sonstigen Wahrnehmung in Metro die wir heute erleben. Anstatt das wir durch Tunnel, radioaktiv verseuchte Sümpfe oder alte Fabrikhallen laufen finden wir heute einen Wald. Einen Wald fernab jeder Stadt der wirklich noch mit geringer Strahlung aus gekommen ist. Der Untergang der Welt ist den Leuten hier natürlich bekannt, aber an sich ist es dennoch friedlich. Die Natur lebt noch und soweit ich es erkennen kann hätte man hier die letzten 20 Jahre gut leben können. Klar, da gibt es diesen radioaktiv verseuchten Bär und noch ein paar Wölfe, aber im Großen und Ganzen ist das hier ein echt friedlicher Ort und jeder  der hier gewohnt hat kann sich glücklich schätzen. Genießen wir also diesen kurzen Moment des Friedens und der Ruhe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 6, Aufnahme vom 23.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #43
+
+* Titel: `Metro Exodus - #43 - Banditendorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur wenige antike Staaten konnten sich wirklich stehende Heere leisten. In der Regel hat man einen sehr kleinen Kreis an professionellen Kriegern die im Einsatzfall den Rest anleiten. Oder man hat eine Militia die im E-Fall ausgehoben wird. Wenn es dann noch kleiner wird dann sind die Krieger des Stammes wahrscheinlich die Jäger. Oder einfach alle Männer (plus motivierte Frauen?) oder zumindest alle Leute die irgendwie mit einer Waffe umgehen können. Mein Punkt ist das es historisch nur sehr wenige Leute gab die einzig und allein das Kriegshandwerk vollzogen haben. Wenn jede einzelne Person 90% seiner Arbeitskraft braucht um die Gesellschaft zu erhalten dann kann man nicht besonders viele Leute dafür entbehren Waffen zu halten. Mit moderner Landwirtschaft wird das natürlich besser aber da sind wir nicht. In der Post-Apokalyptischen Gesellschaft hat man immer diese umherziehenden Banden die vom Raub und Totschlag leben. Aber realistisch braucht es trotzdem noch irgendjemanden der die Arbeit leistet. Und das kann keine kleine Fraktion sein. Die Existenz eines ganzen Dorfes voller Banditen impliziert entweder das sich diese Bande erst vor sehr kurzer Zeit zusammen gefunden hat, es externe Quellen zur Versorgung gibt oder aber das es eine Menge pazifistischer Stämme in der Nähe gibt die regelmäßig überfallen werden. Die Banditen hier wohnen tatsächlich nicht in dem Dorf, sie sind aber dennoch so zahlreich das man sich schon fragt wie sie sich bis jetzt halten konnten. Ein Körper voller Muskeln braucht eine Menge Kalorien, das sollte man in Zeiten der Knappheit nicht unterschätzen. Die Bedrohung durch Hunger und unreines Wasser ist natürlich nicht so sexy wie ein Mann mit Waffe aber wahrscheinlich das größere Problem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 6, Aufnahme vom 23.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #43
+
+* Titel: `Metro Exodus - #43 - Banditendorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur wenige antike Staaten konnten sich wirklich stehende Heere leisten. In der Regel hat man einen sehr kleinen Kreis an professionellen Kriegern die im Einsatzfall den Rest anleiten. Oder man hat eine Militia die im E-Fall ausgehoben wird. Wenn es dann noch kleiner wird dann sind die Krieger des Stammes wahrscheinlich die Jäger. Oder einfach alle Männer (plus motivierte Frauen?) oder zumindest alle Leute die irgendwie mit einer Waffe umgehen können. Mein Punkt ist das es historisch nur sehr wenige Leute gab die einzig und allein das Kriegshandwerk vollzogen haben. Wenn jede einzelne Person 90% seiner Arbeitskraft braucht um die Gesellschaft zu erhalten dann kann man nicht besonders viele Leute dafür entbehren Waffen zu halten. Mit moderner Landwirtschaft wird das natürlich besser aber da sind wir nicht. In der Post-Apokalyptischen Gesellschaft hat man immer diese umherziehenden Banden die vom Raub und Totschlag leben. Aber realistisch braucht es trotzdem noch irgendjemanden der die Arbeit leistet. Und das kann keine kleine Fraktion sein. Die Existenz eines ganzen Dorfes voller Banditen impliziert entweder das sich diese Bande erst vor sehr kurzer Zeit zusammen gefunden hat, es externe Quellen zur Versorgung gibt oder aber das es eine Menge pazifistischer Stämme in der Nähe gibt die regelmäßig überfallen werden. Die Banditen hier wohnen tatsächlich nicht in dem Dorf, sie sind aber dennoch so zahlreich das man sich schon fragt wie sie sich bis jetzt halten konnten. Ein Körper voller Muskeln braucht eine Menge Kalorien, das sollte man in Zeiten der Knappheit nicht unterschätzen. Die Bedrohung durch Hunger und unreines Wasser ist natürlich nicht so sexy wie ein Mann mit Waffe aber wahrscheinlich das größere Problem.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 6, Aufnahme vom 23.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #44
+
+* Titel: `Metro Exodus - #44 - verdächtige Vorbereiteung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt in diversen Spielen diese Szene in der man einen großen Raum betritt aber initial exakt gar nichts passiert. Dann findet man in diesem Raum, irgendwie versteckt, eine Menge Munition, Heilung und Ausrüstung. Eine Abwandlung davon ist das die Dinge vor dem Raum liegen. Aber so oder so ist es verdächtig wenn man viele Dinge auf einmal findet. Insbesondere wenn man sowieso ein begrenztes Inventar hat und wahrscheinlich nicht alles mit nehmen kann. Nach einiger Zeit erkennt man dieses Muster, und ich kann sagen, ich sehe das Muster heute. Es ist ziemlich auffällig. Natürlich hilft es auch nicht das ich mir vorher noch ein wenig Zeit lasse meine vorherigen Taten zu erkunden und daher leider absolut keine Zeit fürs Payoff bleibt. Aber ich bin mir eigentlich ziemlich sicher das schlimme Dinge geschehen sobald ich die Tür der Kirche anfasse die am Ende des Friedhofs steht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 7, Aufnahme vom 30.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #45
+
+* Titel: `Metro Exodus - #45 - Olga [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es kommt gar nicht so oft vor das wir mit irgendwelchen Leuten wirklich reden. Ich weiß nicht ob es die Post-Apokalypse ist oder einfach nur das allgemeine Misstrauen, aber so richtig offenen Dialog führen wir einfach nicht. Immerhin hat uns Olga schon einen gewissen Vertrauensvorschuss gebracht. Ich bin übrigens ein wenig von der Kultur der Leute hier enttäuscht. Initial, aufgrund das wir Olga als Erstes gesehen hatten, habe ich mit einer etwas egalitäreren Kultur gerechnet. Insgesamt macht es auch relativ wenig Sinn das die ganzen Frauen alle mit Kinderbetreuung in irgendwelchen Innenräumen beschäftigt sind wenn es soviel zu tun ist, und historisch passt das nicht ganz. Der kommunale Kindergarten sollte eigentlich in der sowjetischen Arbeiterkultur eh drin sein. Also was ich sagen will, es gibt exakt null Frauen die hier Wache schieben, oder überhaupt sichtbar sind. Olga ist die absolut einzige Frau die hier irgendeine Rolle spielt. Wir erfahren noch von einer Weiteren, aber das wir gesehen haben war trotzdem das nur Männer die verschiedenen Siedlungen patrouillieren. Bei den Piraten wurde das noch erklärt, aber die Pfadfinder hier sollten eigentlich wesentlich durchmischter sein. Aber hey, immerhin hat Olga das Ruder fest in der Hand und ist sich sicher ihre Leute unter Kontrolle zu haben. Ob das noch für uns relevant ist?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 7, Aufnahme vom 30.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #46
+
+* Titel: `Metro Exodus - #46 - der Admiral [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich mich noch darüber beschwert das wir quasi nie mit irgendjemanden reden, dann haben wir uns an ein paar Leuten vorbei geschlichen und schon sind wir bei der nächsten Person. Ich bin mir ziemlich sicher das sich Strahlung auf den menschlichen Körper sehr unterschiedlich auswirken kann, die häufigste Folge ist relativ simpel, man stirbt einfach an multiplen Organversagen weil sich jene teilweise verflüssigt haben. Das soll ziemlich schmerzhaft sein. Aber das muss nicht zwingend passieren. Ich habe in dieser Hinsicht nur Halbwissen, das ist dafür aber extra gefährlich. Der Herr Admiral scheint aber eh eher auf einer interessanten Messerschneide in Sachen Durchblick und Illusion gefangen zu sein. Es wirkt auf mich so als wüsste er das seine Leute tot sind, und dann tut er doch wieder so als wären sie es nicht. Vielleicht ist es auch einfach das Endstadium mit Stress um zu gehen. Ich kann es wirklich nicht sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 7, Aufnahme vom 30.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #47
+
+* Titel: `Metro Exodus - #47 - der Herr des Waldes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles in der Welt von Metro ist tot, im Begriff zu sterben oder zumindest in Aussicht demnächst das zeitliche zu segnen. Und doch leben andere Dinge um so stärker. Sei es die Bewohner der Moskauer Metro die plötzlich essbare Pilze gefunden haben die vorher nicht heimisch waren oder die diversen, verstrahlten Tiere die auf der Oberfläche herum springen. Man sagt immer das das Leben einen Weg findet, aber das deprimierende an der nuklearen Apokalypse ist auch das es wahrscheinlich kein Ereignis ist von dem man sich wirklich wieder erholen kann. Insbesondere Gorillas aus dem Zoo erscheinen mir doch eher unwahrscheinlich sich durch eine ressourcenarme Umgebung finden zu können. Man muss auch immer bedenken, die Strahlung ist nicht das Schlimmste sondern der Mangel an Nahrung infolge der Strahlung und dem verseuchten Boden. Der Herr des Waldes ist ein echt gewaltiger Bär, und ich kann ja verstehen das so ein Vieh ziemlich kugelsicher erscheint und vielleicht mit Armbrüsten nicht so gut zu überwinden ist. Aber Bären sind auch keine Wundertiere, ein gutes Magazin Kalaschnikov sollte das Tier eigentlich gut aufhalten, und am Ende vielleicht sogar endgültig stoppen wenn man danach lange genug weg rennt. Aber der Wald war üppig und hat zumindest dem Bären viel Nahrung geboten, wie alt er wohl ist? Aber der Wald existiert eh nicht mehr lange, und so ist es nur passend das wir dem Wald den Rücken kehren. Das ganze Kapitel erscheint übrigens relativ sinnlos. Warum ich überhaupt irgendwelche Leute verschont habe ist mir nicht klar und am Ende scheint es recht linear gegangen zu sein, es gibt ein kurzes Handdrücken und schon ziehen wir weiter. Irgendwie ist das unbefriedigend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 7, Aufnahme vom 30.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #48
+
+* Titel: `Metro Exodus - #48 - Herbst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das hier ist eine Filler-Episode. Ich hätte ja gerne behauptet das es sich um eine Strandepisode handelt aber die Jahreszeit lässt das wohl nicht zu und ich weiß auch nicht ob überhaupt irgendjemand unsere Bikinis eingepackt hat, könnte durchaus sein das wir die in Moskau vergessen haben. Die Lage ist allerdings ernst und das Wetter wird konsistent schlechter. Immerhin scheint das Wetter selbst aber nicht unser größtes Problem zu sein. Ich hätte gedacht das bei der Art von Lok wie wir sie fahren es ein echtes Problem darstellt wenn es kälter wird. Die Isolierung sieht ehrlich gesagt nicht besonders gut aus und ich wüsste nicht wie wir die Wärme des Kessels irgendwie in den Wagon überführen können. Aber anscheinend haben wir im Hintergrund einige Male woanders angehalten. Zusätzliches Gepäck wurde angebracht und diverse Exkursionen haben wohl Ausrüstung erbracht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 7, Aufnahme vom 30.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #49
+
+* Titel: `Metro Exodus - #49 - Novosibirsk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eine neue Stadt! Nachdem wir Moskau verlassen haben hätte ich nicht gedacht das wir noch einmal ein Metro System sehen aber hier sind wir. Im ersten Buch wird erwähnt das ja auch andere russische Städte wie St. Petersburg und Novosibirsk über ein Metro System verfügen. Allerdings liegen dort die Tunnel nicht so tief wie in Moskau, was wiederum dazu führt das sie schlechter von der Strahlung abgeschirmt sind. Je nachdem wie gut der Boden ist sind U-Bahn System tiefer oder flacher, es würde ja auch keinen Sinn ergeben unfassbar tief zu graben wenn es auch weniger tief geht. Es sei denn man möchte die U-Bahn noch gleichzeitig als Atomschutzbunker nutzen. Dann wären stabile Schleusentore schon irgendwie wünschenswert. Oder wenn man über eine zweite, geheime Metro unter der ersten verfügt die auch irgendwo Zugänge braucht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 7, Aufnahme vom 30.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #50
+
+* Titel: `Metro Exodus - #50 - Gefreiter Klepnikow [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt überraschend Überlebende in der Metro von Novosibirsk. Wir finden initial eine Menge Leichen, und damit meine ich eine Menge. Wir wussten bereits das die Tiefe der Tunnel eigentlich ein normales Überleben nicht zu gelassen hätte aber man hatte wohl Glück das es sich um eine Fabrikstadt gehandelt hat an der Dinge hergestellt wurden. Ein wenig Schade das die Vorbereitungen für die Post-Apokalypse der alten Welt immer erst kurz vor dem Untergang angefangen werden. Wir hören von einer Substanz die vollständig gegen die Strahlung helfen soll und den Effekte quasi rückgängig macht. Im echten Leben hätte ich keine Ahnung wie das funktionieren soll. Das Problem mit Strahlung ist ja eben das es kein klassisches Gift ist sondern hochenergetische Partikel auf Atom-Ebene die Struktur des Erbmaterials und des Körpers angreifen. Wie genau will man das mit einem Inhalator bekämpfen? Die Aufnahme von radioaktiven Salz kann mit Jod-Tabletten stoppen (gegen die Einlagerung im Körper), Staub mit Gasmasken und direkte Strahlung mit schweren Elementen wie Blei die statistisch die Menge der eingehenden Strahlung reduzieren. Aber wenn die Zellen einmal kaputt sind? Vielleicht Nanobots? Wäre das einzige was mir spontan aus der Sci-Fi Ecke einfällt. Mit dem Fund eines Überlebenden haben wir allerdings auch das Problem das es wohl noch andere gibt, und so wie es aussieht, von dem was wir lesen, wurde hier mit harter Hand gespielt. Wie gastfreundlich werden die Leute also wohl sein?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 7, Aufnahme vom 30.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #51
+
+* Titel: `Metro Exodus - #51 - Schienengewehr [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann mich ehrlich gesagt nicht mehr daran erinnern ob es das Schienengewehr in den Vorgängern gab, vielleicht, vielleicht aber auch nicht. Der Name kommt mir zumindest bekannt vor. Im Gegensatz zu unserer Luftdruck-Kniffte ist das hier auf jeden Fall eine ziemliche Fantasiewaffe. Das Problem mit Rail Guns wie sie häufiger genannt werden ist das man ziemlich genaue Regeltechnik braucht um die Magnete genau richtig um zu kehren, dann das man große Magnetkräfte braucht, also entweder Raumtemperatur Supraleiter hat oder eine ziemliche geile Kühlung die dann natürlich schwer hat. Und dann braucht man natürlich auch ordentlich elektrischen Bumms. Ein perfekter Kondensator könnte hier das Problem wahrscheinlich irgendwie lösen aber es ist ein wenig unwahrscheinlich das sich die entsprechende Erfindung ausgerechnet in Russland in 9 Jahren finden wird, auf der anderen Seite, die Zeiten waren wohl verzweifelt, warum also nicht. Das Schienengewehr macht definitiv bessere Löcher in den Käse und wir können unsere restlichen Waffen eigentlich weg werfen. Ich kann an der Stelle schon mal sagen das ich die Schrottflinte nicht einmal verwenden werde, bis zum Ende.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 8, Aufnahme vom 07.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #52
+
+* Titel: `Metro Exodus - #52 - Monsterblutegel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt verschiedene Arten von Horror. Meistens, wenn es Body-Horror ist kommt irgendwann eine nicht näher definierbare Schleimmasse in Erscheinung. Irgendwelche vage biologische Substanz ohne definierbare Enden oder Anfänge. Alternativ könnten es natürlich auch wuchernde Pilze oder Rotfarne sein. In jedem Fall muss es sich stetig ausbreiten und ein wenig ekelhaft sein. Da Artyom kein Wissenschaftler ist und die letzten Bewohner von Novosibirsk wohl auch nicht werden wir wohl auch keine genauen Informationen darüber erhalten was hier genau vorgefunden wird, aber klar ist, das Zeug mag uns nicht. Neben dem Schleim der initial nichts tun gibt es noch Würmer, die beiden Dinge hängen wohl zusammen, vielleicht ernähren sie sich von Strahlung, wir wissen es nicht, klar ist aber das unser Leben soviel einfach sein könnte wenn der Horror daraus bestehen würde das wir nur einsam und alleine durch dunkle Gänge kriechen müssen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 8, Aufnahme vom 07.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #53
+
+* Titel: `Metro Exodus - #53 - radioaktive Erinnerungen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hatten es schon lange nicht mehr, aber sie sind endlich wieder da. Die Visionen. Ich gebe zu ich verstehe die künstlerische Vision hier nicht so ganz. Mir ist absolut nicht klar ob Artyom einfach nur übernatürliche Fähigkeiten hat durch seinen Kontakt mit den Schwarzen und irgendwie die Erinnerung der Vergangenheit sehen kann während diese Fähigkeit aber gleichzeitig mit starker Strahlung verbunden ist die das ganze antreibt. Oder ist es einfach ein Ausdruck der Strahlung in dieser Welt. Wir wissen das das Metro Universum übernatürlich Phänomene hat, anders als zum Beispiel in der Fallout Serie. Es gibt echte Telepathen, Leute können Gegenstände mit Geisteskraft durch die Gegend werfen und andere sind in der Lage Dritte ihren Willen zu unterwerfen. Das geschieht in den Büchern und ich gehe davon aus das es zur Welt gehört. Außerdem sind die Visionen, so wie wir sie sehen sehr detailreich. Artyom kann sie sich nicht soviel einfach vorstellen. Vielleicht hat er mal einen Film über Panzer oder Flugzeuge gesehen.  Aber die Blickwinkel die wir erhalten sind unwahrscheinlich in irgendwelchen Filmen zu sehen. Woher kommen also die Details? Sind sie nur für uns oder sind die Visionen wenn sie kommen wirklich Bilder der Vergangenheit, durch die Strahlung in die Realität gebrannt? Es gibt in der Roman Reihe „Wächter der Nacht“ ein ähnliches Phänomen das Atombomben anders sind, normalerweise können die „Anderen“ einfach in eine der sieben Ebenen verschwinden, auch wenn die letzten quasi unerreichbar sind. Allerdings brennen nukleare Bomben durch alle durch und man kann nicht „vertikal“ entkommen. Gilt hier das gleiche Prinzip? Sind Artyoms Visionen ein Zugriff auf das Gedächtnis des Ortes?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 8, Aufnahme vom 07.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #54
+
+* Titel: `Metro Exodus - #54 - Das Institut [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ursprünglich dachte ich das der Ort den wir betreten Sirbiskaya heißt. Tatsächlich war das aber die Metro-Station die wir betreten hatten. Der einzige Ort an dem die Metro einen Übergang zu einer anderen Linie hat. Wir betreten heute tatsächlich eher einen Ort der sich das Institut nennt. Dort könnte sich noch ein letzter Vorrat an RENERGAN-F befinde. Zumindest finden wir eine Präsentation die über den Nutzen des Mittels spricht und wenn man den hohen Strahlengehalt der Umgebung bedenkt könnte es durchaus sein das Vorräte in den Tiefen einer Einrichtung noch völlig unberührt sind. Oder völlig von der radioaktiven Strahlung zersetzt wurden und leider nicht mehr den Effekt haben den sie einst hatten. Generell zerfallen die meisten Medikamente über die Zeit und verlieren an Wirksamkeit bis sie gar nichts mehr tun. Ich weiß nicht ob es, insbesondere für dieses Szenario, Möglichkeiten gibt Medikamente irgendwie länger haltbar zu machen, aber es wäre irgendwie sinnvoll wenn dieser Schritt für ein wichtiges Mittel wie RENERGAN-F bewogen wurde oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 8, Aufnahme vom 07.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
 ##### #Nummer
 
 * Titel: ``

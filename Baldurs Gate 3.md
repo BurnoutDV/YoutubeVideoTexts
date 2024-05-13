@@ -3422,12 +3422,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
 ##### #228
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #228 - Wyrmweg [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Jetzt, wo ich diese Zeilen schreibe, lange nachdem ich das Spiel durchgespielt habe frage ich mich schon wie genau die Zeitlinie für den Wyrmweg aussieht. Ich habe versucht Informationen zu finden und die beste Theorie die ich bisher so sah war das der große Drache Ansur tatsächlich schon echt lange hier unten schläft und neueste Entwicklungen nur oben drauf auf das bisherige Erlebnis kamen. Oder irgendwie so. Letztendlich muss man wohl leider feststellen das hier, in den letzten Phasen der Entwicklung von Baldur’s Gate nicht mehr alles ganz kongruent ist wenn es um die vergangene Zeit angeht. Wir sind auf jeden Fall jetzt im Wyrmweg und stellen uns Prüfungen um dann vorgelassen zu werden. Das alles wäre natürlich irgendwie ein wenig langwierig wenn die Stadt tatsächlich brennen würde und wir genau jetzt Hilfe brauchen anstatt in 10 Stunden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 33, Aufnahme vom 13.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #229

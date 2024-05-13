@@ -885,12 +885,352 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #59
 
-* Titel: ``
+* Titel: `Alan Wake 2 - #59 - der falsche Author [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Kreativität beeinflusst die Realität und verändert was war zu dem was ist wie es geschrieben wird. Zumindest im dunklen Ort. Aber dafür braucht es jemanden der tatsächliche Kreativität in die ganze Geschichte steckt. Entfernt gibt es hier ein Thema über das ich mir schon vor langer Zeit einmal Gedanken gemacht habe: Kreativität im Vakuum. Stellen wir uns vor man sitzt im Gefängnis oder auf einer einsamen Insel. Wie kreativ könnte man wirklich sein? Klar, die Gedanken sind nicht so einfach einzusperren und aufzuhalten und erst gestern lass ich einen Artikel über zu Tode Verurteilten die Dungeons and Dragons spielen. Und doch, wenn ich etwas schreiben sollte könnte ich sofort loslegen..bis man sich Gedanken macht wie konsistent das alles ist. Was die echte historische Gesellschaft her gibt und wie wahrscheinlich es ist das ein Szenario so existieren könnte. Ich spreche wieder einmal über etwas das sich im Englischen „Suspension of Disbelief“ heißt und ich rede echt darüber. Aber je glaubhafter die Welt in den mundanen Details ist, umso mehr mentale Kapazität ist für Drachen da. Ohne jetzt all zu tief zu gehen, aber mich machen solche Detailfragen total fertig und ich weiß das Recherche ein wichtiger Teil des Authorenlebens ist. Ist das vielleicht der Grund warum der dunkle Ort Kreativität braucht, Recherche?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 01.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
+
+##### #60
+
+* Titel: `Alan Wake 2 - #60 - verdichtene Dunkelheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine Eingenschaft des dunklen Ort scheint zu sein das je konzentrierter er ist, umso dunkler es ist. Aber selbst im dunklen Ort selbst, also in seinen Tiefen, gibt es helle Flecken. Das bringt uns aber leider nicht ganz so viel weil wir wohl nicht da bleiben können wo wir sind. Wir müssen weiter ziehen und neue Orte entdecken, neue Plätze bereisen und einen weiteren Tatort finden. Das können wir nicht aus der Sicherheit des Lichtes tun. Ganz davon abgesehen bietet uns das Licht auch nur einen gewissen Schutz, größtenteils vor den trivialen Gefahren des Dunkel. Der große Widersache ist dennoch da, immer bereit sich uns entgegen zu stellen und stets auf der Suche nach einer Schwäche in unserer Rüstung. Eine Fehltritt der uns zum Stolpern bringen kann. Alan Wake hat bereits einmal aufgegeben, aber selbst das haben wir vergessen. Ich frage mich warum Thomas Zane nie aufgehört hat zu kämpfen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 01.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #61
+
+* Titel: `Alan Wake 2 - #61 - Dichter Kino [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kennen Thomas Zane bzw. Seine als einen Filmemacher aber der Nachwelt ist er wohl als Dichter bekannt weil das die Rolle war die in einem Film gespielt hat bevor die Welt vergessen hat das er existiert hat. Zumindest diese Welt hat ihn vergessen. Da draußen gibt es sicherlich noch zahlreiche andere Welten die immer noch einen Thomas Seine oder wie auch immer er eigentlich heißt haben. Wir betreten heute das Kino des Dichters, einen Ort an denen nicht Worte sondern Visionen wahr werden. Filme als kreative Schaffensquelle für Alpträume zu nutzen erscheint mir ein wenig schwieriger weil man ja eigentlich Schauspieler braucht. Und nur das Skript zu schreiben reicht wahrscheinlich nicht oder? Oder braucht man nur das geschriebene Wort von dem was kommt, der dunkle Ort erschafft die Schauspieler und Rollen und letztendlich braucht man nur noch etwas Schnitt um das gewünschte Werk Realität werden zu lassen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 01.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #62
+
+* Titel: `Alan Wake 2 - #62 - Fragmente eines Filmes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gab wohl einmal vor langer Zeit eine Zeit in der Trailer die Dinger waren die am Ende eines Filmes kamen. Deswegen auch der Name. Das hat sich dann irgendwann geändert und die Credits wurden auch nach hinten verschoben. Dann, etwas näher an der Gegenwart, gab es auch einmal Filme die nicht komplett im Trailer alle guten Szenen hatten und die halbe Handlung schon gespoilert wurde. Wir befinden uns geistig scheinbar in dieser Zeit, da wir zwar ein Fragment finden aber das absolut nichts darüber verrät was wir später vorfinden werden. Nur ein wenig Vorschattierung ohne das irgendetwas klar ist. Oder klarer wird. Ist das nicht spannend? Die absolute Königsdisziplin wäre es dann noch wenn die Hinweise, später, wenn wir quasi alles wissen, viel mehr Sinn ergeben und wir alles in einen zusammenhängenden Kontext stellen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 9, Aufnahme vom 01.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #63
+
+* Titel: `Alan Wake 2 - #63 - fiktionale Charaktere [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird ein wenig wild. Die meisten Schatten die wir so am dunklen Ort treffen sind nur eben das Schatten. Fragmente von Erinnerungen, Reste von etwas das einst eine vollständige Persönlichkeit war. Soweit ich das verstanden habe kann auch die Macht des dunklen Ortes keine Toten wieder vom Leben erwecken, aber alternative Dimensionen mit lebenden Personen existieren. Die könnte man nutzen. Zumindest lässt mich die Existenz von Jesse Faden daran glauben das sie nicht in der gleichen Welt heraus gekommen ist als die die sie durch ihren Dia-Projektor betreten hat. Und doch, wirkt der Casey den wir immer wieder in den Filmsequenzen sehen real, realer als er es eigentlich sein sollte. Es ist eine Sache wen wir ihn schreiben und damit einen Ort verändern, aber langsam wird es ein wenig seltsam. Es scheint fast so als hätte er ein eigenes Bewusstsein entwickelt. Oder er ist jetzt wirklich hier. Was meine obige Theorie angeht fällt mir grade noch ein, das es nicht ganz unwahrscheinlich ist das sowohl Alan Wake als auch Jesse Faden durch einen Autor in die Realität geholt wurden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 08.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #64
+
+* Titel: `Alan Wake 2 - #64 - Yötön Yö [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir gucken heute einen Film. Der ist überraschend lang. Die ganze Episode passiert also absolut nichts Anderes. Ich interpretiere das Ergebnis ein wenig, allerdings kann ich nicht so recht sagen wie viel wir davon für bare Münze nehmen sollten.
+  
+  Ich habe übrigens ganze 20 Sekunden darauf verbracht zu recherchieren was die nachtlosen Nächte jetzt nun sind. Es ist die Zeit im Jahr wenn die Sonne nicht so richtig untergeht. Anscheinend eignet sich die Zeit dauerhaften Lichts ganz gut für Horror. Siehe auch Midsommar. Das ein Finne diesen Titel wählen würde um aus dem Dunkel zu kommen ergibt jetzt zumindest wieder ein wenig mehr Sinn.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 08.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #65
+
+* Titel: `Alan Wake 2 - #65 - forcierter Perspektivwechsel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der dunkle Ort kann jede Art von Kunst nutzen um Veränderung, erst temporär, dann permanent zu erwirken. Allerdings haben wir so richtig im Einsatz erst das Schriftstellertum und zu einem gewissen Grad auch das Filmemachen gesehen. Mir ist schon nicht so richtig klar wie genau das mit den Filmen funktioniert, aber anscheinend kann auch die Fotografie genutzt werden. Nun mangelt es mir allerdings ein wenig an Vorstellungskraft. Man kann wohl Bilder von Dingen schießen, manche Photographen warten stundenlang auf das richtige Licht oder verbringen viel Zeit damit RAW-Bilder mit den richtigen Einstellungen anzupassen. All das verändert aber nicht fundamental das ursprüngliche Bild. Klar, die Emotionen und die Eindrücke die der richtige Weißabgleich und Darstellung erzeugen kann ist nicht zu unterschätzen, und doch, wo ist die Kunst die es mir erlaubt die Realität zu verändern? Und doch, heute ändern wir die Perspektive auf der wir die Dinge sehen. Namentlich sind wir auf einmal ohne Hausmeister Saga. Das ist neu.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 08.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #66
+
+* Titel: `Alan Wake 2 - #66 - Ferienhäuser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann mir immer noch nicht so richtig vorstellen wie Amerika funktioniert. In modernen Zeiten. Wenn man sich anschaut wie groß Europa im Vergleich zu dem ganzen nordamerikanischen Kontinent ist und wie dicht besiedelt hier eigentlich alle ist, da wirkt das Alles doch sehr verlassen. Die Existenz ganzer Fly-Over-States oder der Tatsache das man mehre Stunden mit Auto fahren muss um von einer größeren Stadt in die Nächste zu kommen macht mich irgendwie ein wenig fertig. Die Konsequenz daraus ist aber auch das das Land aus einer Menge Nicht-Orten besteht. Infrastruktur ist heutzutage richtig teuer und nur weil man sich irgendwo im Wald eine Hütte hinstellt hat die ja nicht automatisch Strom, Wasser oder gar Internet. Und doch gibt es all diese Orte irgendwie im Nichts. Irgendwie haben sie alle ihre eigene Bedeutsamkeit für die Menschen dort. Das es vor, sagen wir einmal, 300 Jahren dort noch niemand gab ist erst einmal egal, Menschen neigen schnell dazu Dinge zu verstetigen. Tourismus ist wahrscheinlich für einige der entfernteren Orte die einzige echte Einnahmequelle, das und Forsthandel. Und wenn das das externe Geld von Außen weg fällt, wie überleben solche Plätze? Oder sterben sie einfach, so wie Minenstädte?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 08.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #67
+
+* Titel: `Alan Wake 2 - #67 - Dämmerung in  Bright Falls [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die grundlegende Erkenntnis die wir bis jetzt mitgenommen haben ist die das man sich wohl sowohl vor dem Wald auch auch vor dem Dunkeln hüten sollte. Die hereinbrechende Nacht ist daher eine eher schlechte Nachricht. Wo wir übrigens schon bei Dunkelheit sind möchte ich übrigens feststellen wie erstaunlich es doch ist das chemische Lichter wie Signalfackeln allgemein ziemlich gut und eigentlich in jeder Situation funktionieren während elektrische Lichter die meiste Zeit versagen oder nur ganz kurz überhaupt genügend Licht aufbringen können um irgendwie Licht ins Dunkel zu bringen. Das ist doch verrückt oder? Selbst die Sonne wird ja durch den Einfluss des Dunkel ziemlich schnell eingeschränkt und verkleinert, aber jetzt ist es wirklich Nacht. Ob uns noch irgendetwas retten kann?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 08.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #68
+
+* Titel: `Alan Wake 2 - #68 - Hightech-Schloss ohne Strom [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es fasziniert mich immer wieder wenn ich Leute sehe die Technik ein wenig zu sehr vertrauen. Auf der anderen Seite mache ich mir oft Dinge schwerer als sie sein müssten weil ich explizit Technik nicht vertraue. Ein klassischer Fall ist zum Beispiel Bargeld. Interessanterweise gab es unlängst einen Fall als sich die Facebook Angestellten aus ihren Datencentern ausgeschlossen sahen weil der zentrale Server der die Routen zu aller anderen Infrastruktur leitet ausfiel und somit auch die Sicherheitsausweise nicht mehr verifiziert werden konnten. Natürlich gab es dafür einen Fallback und letztendlich gibt es immer noch die physische Ebene der Sicherheit. Letztendlich dient jedes Schloss nur dazu Zeit zu schinden bis eine aktive Fraktion auftauchen kann um Dinge zu verändern. Was solange beruhigend ist bis die Zeit davon läuft weil es wichtig wird etwas schnell zu erledigen. Ein Klassiker hier sind Türen wenn das Wasser steigt..oder wenn man in eine Zelle will um mit jemanden zu sprechen während langsam die Sonne sinkt. Dann wäre ein besserer Fallback irgendwie schöner. Und es wäre natürlich auch ein wenig ironisch zu verhungern weil der Service-Techniker eine Zugverspätung hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 08.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #69
+
+* Titel: `Alan Wake 2 - #69 - eine schwarze Wolke [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schwärme sind für Menschen immer schwer zu fassen. Glaube ich jedenfalls. Ich kann mich noch gut daran erinnern wie ich die Skarabäen im ersten Mumien Film ziemlich unheimlich fand, einfach weil es echt viele waren und die Leute aufgefressen hatten. In einer späteren Installation wurde das Problem dann pragmatisch mit einem Flammenwerfer umgangen und alles war wieder gut. Auch beliebt ist schwarzer Rauch als amorphe Bedrohung die nicht so richtig fassbar ist. Und in der Praxis wäre es auch ein wenig wie Schattenboxen zu versuchen einen solchen Schatten aufzuhalten. Und so gestaltet sich auch unsere Bedrohung. Immerhin haben aber auch wir einen breitflächige Waffe die Erfolg verspricht: Licht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 10, Aufnahme vom 08.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #70
+
+* Titel: `Alan Wake 2 - #70 - der Plan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist kurz und gut. Eigentlich ist jetzt alles klar. Wir haben die Informationen, wir haben den Klicker und wir haben sogar die Hilfe einiger mächtiger Verbündete. Ich frage mich allerdings inwiefern Asgards alte Götter wirklich alt sein können oder sind. Ahti erscheint in der Regel als älterer Hausmeister, aber ich hätte nicht gedacht das er schon im Altenheim ist. Auf der anderen ist die äußere Erscheinung für den finnischen Volkshelden offensichtlich nur eine Hülle die er trägt. Mental sind seine Abenteuer vorbei und er trägt die Fackel an die nächste Generation weiter und betrachtet die gesamte Geschichte mehr von der Seite, ab und zu jubelt er auch. Aber dann sind da Thor und Odin. Offensichtlich sind sie älter geworden und spielen in den Belangen der Menschen mit. Und doch, manchmal habe ich das Gefühl das Alles ist nur ein Spiel mit dem sich sehr gelangweilte Personen die Ewigkeit vertreiben. Wir haben also einen Plan, und die Großeltern sind wohl Teil dieses Planes.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 15.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #71
+
+* Titel: `Alan Wake 2 - #71 - Setters Talisman [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Rein von meiner eigenen Veranlagung her neige ich wohl doch ein wenig dazu mich an irgendwelche Details fest zu nagen und dann Ewigkeiten damit zu verbringen jedes Salzkorn einzeln aufzunehmen. Das Format eines Let’s Plays zwingt mich ein wenig dazu das nicht all zu sehr ausarten zu lassen. An sich weiß ich das es nicht all zu viele Zuschauer gibt aber irgendjemand guckt das hier halt schon. Und für genau dich, du mein sehr exklusiver Zuschauer möchte ich das hier interessant halten. Das bedeutet das ich meistens darauf verzichte jeden Quadratzentimer der Spielkarte abzulaufen um irgendwelche Schlüssel, Geheimnisse oder Schätze zu finden. Man kommt auch ganz gut durch indem man das ganze Zeit ignoriert. Und das tue ich auch. Meistens. Heute kommen wir eher durch Zufall noch einmal in Watery an, und dort erhalten wir doch glatt den Talisman um alles zu finden. Da muss ich leider handeln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 15.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #72
+
+* Titel: `Alan Wake 2 - #72 - Sisu [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend ist Sisu das finnische Prinzip der Beharrlichkeit. Ich glaube das ist ein Konzept das sich in verschiedenen Sprachen und Kulturkreisen findet. Ich würde ganz Küchen-antropologisch sogar soweit gehen und behaupten das ein entsprechendes Konzept in Nachhinein erfunden wird um zu erklären warum in der Vergangenheit kein anderer Weg eingeschlagen wurde. Meistens wahrscheinlich weil es wortwörtlich keinen anderen Weg gab, beispielsweise weil die benachbarten Stämme einfach härter drauf waren und man keine Wahl besaß außer die Gesamtsituationen irgendwie aus zu sitzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 15.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #73
+
+* Titel: `Alan Wake 2 - #73 - zum Ufer des Cauldron Lake [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles führt uns immer und immer wieder an diesen See zurück. Das ist nicht wirklich überraschend wenn man aufgepasst hat aber dennoch macht es den Weg nicht leichter. Insbesondere wenn sich herausstellt das wir einen komplett neuen Bereich noch gar nicht betreten haben. Ich bin mir nicht so ganz sicher ob wir hier hätten vorher lang gehen können oder ob es dafür den Tourbus der Andersons gebraucht hätte. So oder so müssen wir also noch ein paar Rätsel lösen, und schlimmer noch, es spricht einiges dafür das die Rätsel die wir gelöst haben noch gar nicht alle sind. Im Gedankenpalast gibt es noch eine Reihe leere Stellen bei den Figuren. Alles also noch nicht so vollständig wie ich gehofft hatte. Andererseits versuche ich doch hauptsächlich die Hauptgeschichte abzuspielen und da kommen wir doch ganz vor ran oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 15.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #74
+
+* Titel: `Alan Wake 2 - #74 - Reime in den Wäldern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint doch sehr so auszusehen als würden wir uns mit dem großen Konzert am Cauldron Lake dem Ende des Spiels sehr rasant nähern. Prinzipiell wurde das ja eigentlich auch schon so kommuniziert aber mich irritiert halt was wir noch so alles finden das es mir komisch vorkommt das jetzt wirklich das Ende ist. Wie dem aber auch sei. Fakt ist das wir noch ein paar Talismane abgreifen und dann hat sich das wirklich erledigt. Man fragt sich aber wirklich was eigentlich aus den Mitarbeitern des Bureaus geworden ist die hier ihre Experimente getan haben. Klar, die Arbeit mit den starken Kräften ist nicht ganz ungefährlich und insbesondere normale Menschen können hier schnell unter die Räder kommen. Aber wir finden nur ihre Aufzeichnungen und Spuren in Takt. Ob sie sich in einem besonders großen Reim verloren haben? Oder sind sie alle am dunklen Ort?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 15.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #75
+
+* Titel: `Alan Wake 2 - #75 - Konzert am Seeufer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir wieder, direkt am Ufer des Cauldron Lake. Als wir das letzte Mal hier waren gab es am Anfang noch eine Überschwemmung und dann hat es genau hier Alan Wake und damit auch irgendwie Mr. Scratch angespült. Aber heute sehen die Dinge ein wenig anders aus. Heute sind wir in der Initiative und verändern die Realität. Wir haben den Klicker und wir haben ein potentes Stück Kreativität, auch wenn nicht immer ganz klar ist wie es von dann an eigentlich weiter geht. Es scheint zumindest so das das was wir erschaffen nicht direkt kausal zusammen hängt. Wake hat in der Vergangenheit Fluchtversuche aus dem dunklen Ort versucht und es nicht geschafft. Auf ewig in einer Schleife gefangen. Können wir hoffen von außerhalb des dunklen Ortes einen bessere Effekt zu erreichen der direkt beim Erstversuch genau das tut was wir hoffen das er tut?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 15.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #76
+
+* Titel: `Alan Wake 2 - #76 - nur ein Wake [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Möglichkeiten und Grenzen des dunklen Ortes sind nicht so ganz klar.  Auch unklar ist inwieweit der Klicker das Produkt des dunklen Ortes ist oder etwas, als Objekt der Macht ist, das sich parallel entwickelt hat und nur zusammen mit dem dunklen Ort gesehen wird weil beide Gegenstände zufällig immer und immer wieder gleichzeitig auftauchen. Was der dunkle Ort anscheinend aber nicht kann ist das Erschaffen von echten Personen. Es können zwar Menschen besessen werden, das auch in größerer Menge und parallel aber es sieht nicht so aus als könnte von Grund auf ohne Weiteres eine neue Person entstehen. Ich bin mir beim guten Casey nicht so ganz sicher, die einzige Person die gesagt hat das sie ihn nicht in die Geschichte geschrieben hat war Wake, und der hat nicht die genausten Erinnerungen. Aber für den Moment schaut es doch sehr so aus als gäbe es nur die Personen die es schon vorher gab. Zumindest außerhalb des dunklen Ortes. Innerhalb des endlosen Ozeans ist wohl alles ein wenig möglich. Das bedeutet aber auch das der Wake den wir damals rausgeholt haben nicht Mr. Scratch war sondern schon der echte Wake und die Entität die Scratch ist, nur mit dran hängt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 11, Aufnahme vom 15.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #77
+
+* Titel: `Alan Wake 2 - #77 - zurück in die Dunkelheit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Konzept das das „Böse“ sich dadurch tarnt das es so tut als wäre es etwas Gutes oder würde im Licht handeln wird meiner Meinung nach gar nicht so viel erkundet. Spontan fällt mir bei Spielen nur Elden Ring ein wo es so ist. Ansonsten kann man die Fraktionen immer ganz gut in Schwarz und Weiß teilen. Selbst wenn es moralisch graue Leute gibt dann sieht man es denen auch an. Selbst wenn die bösen Paläste aus Alabaster bestehen und unbefleckt daher gehen dann dauert es in der Regel keine 5 Minuten bis wir die ersten Blutrituale sehen oder in irgendeinem Nebenraum das übliche Dekor das man von den Bösen erwartet zu sehen ist. Und das ist der Moment wo das Hirschfest ins Spiel kommt. Die Leute hier sehen auf den ersten Blick glücklich aus aber wir wissen das sie es nicht sind. Die Illusion ist nicht besonders tief aber sie ist da. Die Leute wirken glücklich und alles ist so hell und die Sonne scheint. Diese Art der Illusion wäre nicht so besonders hervorhebenswert wenn wir nicht vorher durch Wellen aus Finsternis gelaufen wären. Ich frage mich allerdings was geschieht wenn das Sonnenlicht auf das konzentrierte Dunkel scheint. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 22.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #78
+
+* Titel: `Alan Wake 2 - #78 - Mittelpunkt der Geschichte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Klassischerweise sind Geschichte irgendwie immer sehr gleich aufgebaut. Es gibt eine Einleitung, dann bereitet sich langsam aber sich alles zum großen Höhepunkt auf und dann kommt noch ein wenig Abgesang nach dem erfolgreichen Klimax. Natürlich entspricht irgendwie alles einer Formeln wenn man vorher das unschärfste Gebilde als Muster definiert. Ein wenig mehr im Detail kann es durchaus regionale Höhepunkte oder sogar einzelne lokale Klimaxe geben die innerhalb der Geschichte verstreut sind. Was wirklich der Mittelpunkt einer Geschichte ist vermag ich nicht zu sagen, so oder so handelt es sich dabei aber normalerweise um ein literarisches Gebilde und nicht einen quasi-physischen Ort den man betreten kann. Ein Plot kann sich um eine Person, einen ort oder sogar einen Gegenstand drehen. Manchmal auch um einen Gegenstand der selbst eigentlich egal ist. Beispielsweise der Koffer aus Pulp Fiction kommt mir spontan in den Sinn. Wir betreten also heute den wortwörtlichen Mittelpunkt, in diesem Fall ist es wohl der „Writer’s Room“ im Anwesen. Ich kann mich übrigens nicht erwähnen das dieser Raum in diesem Gebäude war. Aber jetzt ist es anscheinend. Und das ist alles was zählt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 22.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #79
+
+* Titel: `Alan Wake 2 - #79 - überwältigende Angst [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So richtig gesehen haben wir nicht wie Leute dem Dunkel verfallen. Thornton und Mulligan hatten anscheinend eine geheime Schuld, einen Mord den sie sehr bereuten. Nightingale war einfach nur ein verbitterter Mann, soweit wir wissen. Was all die anderen Leute angeht haben wir eigentlich keine wirkliche Ahnung. Wir hätten da zum Beispiel das Person von der Coffee World, wir hören ihre Sprüche immer wieder. Aber warum sind sie dem Dunkel anheim gefallen? Ist es etwas gegen das man als normaler Mensch keine Chance hat? Ist es in der Hinsicht wie das Zischen das sich auch einfach in alle Verstände die nicht geschützt sind nieder lässt? Aber manche Besessene sind definitiv mächtiger als Andere, wodurch wird das ausgelöst. Klar ist aber das eine gewisse mentale Defensive helfen könnte dem Einfluss des Dunkel zu widerstehen. Cynthia Weaver ist auch nicht sofort gefallen und hatte eher durch ihren sich verschlechternden Geisteszustand Probleme, und dem Fehlen einer Lampe. Und es scheint so als würde wir heute von Innen sehen wie es aussieht vom Dunkel in die Finsternis gezogen werden. Aber Saga Anderson ist keine gewöhnliche Person, Saga Anderson ist jemand, jemand der durch Türen geht und Widerstand leisten kann, jemand der für ihre Tochter kämpft und die Realität verbiegt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 22.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #80
+
+* Titel: `Alan Wake 2 - #80 - direkte Kommunikation [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der dunkle Ort ist eine eigene Art von Realität. Die Realität der Menschen ist schon ziemlich langweilig, das gleiche kann man aber nicht über den dunklen Ort sagen. Wenn wir unsere Erkenntnisse aus Control anwenden würde ich aber jetzt die neue Theorie aufstellen das die Welt wie wir sie kennen deswegen so langweilig ist weil Menschen langweilig sind. Im ältesten Haus können nur Objekte existieren die im gemeinschaftlichen Kulturgut der Menschheit angekommen sind. Es spricht also einiges dafür das die Wahrnehmung der Realität diese wieder rum beeinflusst. Offensichtlich gibt es da ein paar Ausnahmen und der Effekt scheint nicht sofort und überall gleich zu gelten. Schwankungen und lokale Maxima sind möglich. Die meisten Leute sehen sich aber nach einer Art Stabilität in ihrem Leben und möchten nicht durch eine zusammenbrechende Realität auf ihren Weg zum Supermarkt unterbrochen werden. Was im ältesten Haus als harte Regel gilt könnte also in der normalen Welt als stetiger Zog manifestieren. Und in der langweiligen normalen Welt können sich Menschen nicht telepathisch austauschen. Allerdings ist Saga Anderson nicht normal, und auch für Alan Wake gelten wohl nicht mehr alle Regeln. Und so können wir die Wand durchbrechen und einfach direkt miteinander reden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 22.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #81
+
+* Titel: `Alan Wake 2 - #81 - das Ende? [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das war es, wir sind am Ende unserer Reise. Wir beschließen einen letzten Plan, schreiben noch kurz im Manuskript und schon ändert sich die Realität ein letztes Mal, auch wenn schon ein wenig fraglich ist ob man das Dunkel tatsächlich so einfach besiegen kann. Danach gibt es noch eine Reihe von Erkenntnissen die vorher so nicht kommen zu sehen waren. Viel davon ist interessanterweise in Filmsequenzen und nicht in Spielgrafik gehalten. Ich finde das übrigens ein wenig seltsam, die Technologie ist definitiv weit genug fortschritten um nicht auf solche Hilfsmittel zurück greifen zu müssen, und doch, tut man es. Geht es vielleicht um den Stil, einer bestimmten Botschaft oder ist es einfach das Verlangen echte Kunst zu schaffen, eine Symfonie aus verschiedenen Medien anstatt sich nur auf eine Kategorie zu beschränken? Wie dem aber auch sei, das Durchspielen schaltet New Game+ frei, das ist ein wenig nervig weil es darin wohl andere Zwischensequenzen und Notizen gibt, ich bin aber viel zu faul um das ganze Spiel noch einmal zu spiele, gleichzeitig aber auch neugierig. Das ist doof.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2 auf dem Montags Slot.
+  Sitzung 12, Aufnahme vom 22.04.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+## Fazit
+

@@ -840,6 +840,23 @@ Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4E
   Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
+##### #55
+
+* Titel: `Metro Exodus - #55 - die lange Fahrt ins Paradies [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe nicht vor noch einmal Metro Exodus zu spielen, daher habe ich mich ein wenig im Wiki belesen um zu schauen was meine Entscheidungen waren. Stellt sich heraus, ich habe in der Wüste wohl zu viele Eingeborene umgebracht und deswegen ist Damir zurück geblieben. Er war nicht direkt sauer aber er war wohl der Meinung das er das tun musste. Im Gegensatz zu Metro Last Light ist das Spiel aber wohl ein wenig gnädiger was die guten und schlechten Entscheidungen angeht und zwei von drei ist wohl gut genug. Mich schockiert dennoch das ich in der Wüste so negativ beurteilt wurde. Ich habe mir soviel Mühe gegeben möglichst gewaltfrei durch zu kommen und jetzt stellt sich heraus das mein Bodycount doch zu hoch war. Im ersten Kapitel wäre wohl Duke einfach gestorben wenn man zu viele von den Männern getötet hätte und im Wald wäre Olga ein wenig sauer geworden und Aljoscha wäre nur verletzt worden, hätte aber kein Blut mehr spenden können. Anscheinend war der Baum den wir in unseren Visionen sehen übrigens vorher auf einem Bild gewesen, ich hatte das nur vergessen. Insofern hätte Artyom sich das alles durchaus vorstellen können. Alternativ wären wir übrigens auf einer ewigen Metro Fahrt gewesen, das klingt auch ganz spannend, ist jetzt aber nicht passiert und ich sollte mich wohl freuen das dies das positive Kanon Ende ist. Wir waren ein guter Artyom und sind mit minimalen Verlusten durchgekommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 8, Aufnahme vom 07.04.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+## DLC
+
 ##### #Nummer
 
 * Titel: ``

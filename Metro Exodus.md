@@ -855,9 +855,235 @@ Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4E
   Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
-## DLC
+## DLC The Two Colonels
 
-##### #Nummer
+##### #56
+
+* Titel: `Metro Exodus DLC1 - #56 - Flammenwerfereinsatz [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Die zwei Oberste
+  
+  Ich habe schon in einer anderen Episode über den Schleim gesprochen. Irgendwie ist das immer so ein Element das in postapokalyptischen Welten vorkommt. Im echten Leben gibt es das Zeug eher selten. Es überrascht mich ein wenig, aber an und für sich gibt es nicht besonders viele Organismen die aggressiv flächig sind. Trotzdem ist es irgendwie eine Urangst der Menschen das es etwas gibt das sich endlos ausbreitet, immer weiter wächst und quasi nicht zu stoppen ist. Der Schleim lebt wahrscheinlich von der Radioaktivität, wäre zumindest logisch. Letztendlich ist Strahlung auch nur Energie die man irgendwie bestimmt nutzen könnte. Ob biologische Organismen sich in der Richtung entwickeln können vermag ich nicht zu sagen, aber vielleicht gab es ja bereits im Vorfeld einen kleinen Schubs und irgendjemand hat in einem tiefen Forschungslabor in der Richtung schon einmal 90% des Wege vorgelaufen. Und jetzt müssen wir mit dem Flammenwerfer ran. Immerhin scheint es genügend Sprit zu geben. Ein kleiner Lichtblick.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 9, Aufnahme vom 14.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #57
+
+* Titel: `Metro Exodus DLC1 - #57 - Überall Schleim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Die zwei Oberste
+  
+  Wenn wir davon ausgehen das der Schleim wirklich Feuchtigkeit und Strahlung als Lebensgrundlage hat dann ist es eigentlich ein Wunder das die Leute von Novosibirsk nicht schon lange verschlungen wurden. Andererseits scheint sich der Organismus ja auch weiter zu entwicklen. Die Würmer die später auch Artyom in wirklich großer Form getroffen hat waren irgendwann kleiner und die Aufzeichnungen der Vorarbeiter sprechen darüber das es sich um ein eher neues Phänomen gehandelt hat. Immerhin kann man als Lichtblick feststellen das wenn die Strahlung die Ausbreitungsbedingung ist, andere Städte und die Landschaften dazwischen relativ sicher sind. Solange niemand ein Stück Schleim absichtlich den langen Weg bis beispielsweise Moskau oder eine andere ähnlich verstrahlte Stadt schleppt. Wie schlimm es wirklich steht vermag man aber auch kaum zu sagen. Wir haben nur die Sibirskaya gesehen, anscheinend einer der besseren Stationen. Vielleicht sieht es woanders, näher an der Oberfläche, schon wesentlich schlimmer aus.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 9, Aufnahme vom 14.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #58
+
+* Titel: `Metro Exodus DLC1 - #58 - der Geheimplan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Die zwei Oberste
+  
+  Im Gegensatz zu Tieren neigen Menschen wirklich nicht dazu sich einfach hinzulegen und zu sterben. Es gibt da vielleicht hier und da eine Person die irgendwann sagt das es jetzt genug ist und das man nichts mehr macht nur um dann doch noch irgendwie ein wenig mit zu helfen. Aber im Großen und Ganzen kann man der Menschheit wohl vorwerfen das man doch recht resilent ist. Das ist wahrscheinlich ein Nebeneffekt wenn man sich seiner eigenen Sterblichkeit bewusst ist und nicht einfach nur in den Tag lebt. Man macht sich darum Sorgen das man auch morgen noch lebt. Die Lage in Novosibirsk ist extrem kritisch. Quasi wie Moskau nur auf Hardmode. Die Stadt ist an sich kleiner was zur Folge hat das es wenige Dinge zu plündern gibt. Dann liegt die U-Bahn wesentlich flacher was wesentlich verringerten Strahlenschutz zur Folge hat. Einziger Glücksfall ist wohl das es hier einige Institute und Forschungseinrichtungen gab, und mindestens eine der Anlagen hatte auch schon einen Durchbruch erzielt. Ein Mittel das die Strahlenkrankheit quasi sofort aufhält. Quasi ein Wundermittel. Aber die Produktionszentren haben nur eine beschränkte Menge hergestellt. Und selbst wenn sie noch existieren würden, die Grundstoffe sind sicherlich nicht mehr existent. Und so wurde das Leben der Menschen künstlich verlängert. Aber irgendwann sind die Vorräte alle. Aber Menschen sind ja resilent, man macht sich also Gedanken für einen Plan B.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 9, Aufnahme vom 04.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #59
+
+* Titel: `Metro Exodus DLC1 - #59 - Neujahrsrede [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Die zwei Oberste
+  
+  Die Metro Romane und auch die Spiele erzählen uns irgendwie viel über die menschliche Natur. Über das Verhalten und die Folgen was passiert wenn extreme Umstände entstehen. Und so sehen wir heute quasi im Schnelldurchlauf wie eine eigentlich stabile Lage sich recht schnell zu einer katastrophalen Lage entwickelt. Wie eine vorher gefeierte Macht die fast 20 Jahre lang für Frieden und Ordnung gesorgt hat plötzlich nicht mehr gefeiert wird. Alles fängt irgendwie damit an das ein weiteres Jahr verstreicht. Wie genau wohl die Zeitmessung in der Metro nach all der Zeit ist? Letztendlich würde es niemanden auffallen wenn man sich um mehre Tage vertan hätte und es auf einmal ganz wann anders ist. Insbesondere wenn man das Licht des Tages einfach nie sieht. Die letzten Episoden haben wir ein funktionierendes Novosibirsk gesehen, aber jetzt ist es wohl Zeit zu erfahren wie es zu dem geworden ist das wir später sehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 9, Aufnahme vom 14.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #60
+
+* Titel: `Metro Exodus DLC1 - #60 - noch schlimmer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Die zwei Oberste
+  
+  Ich hatte einmal gelesen das man große Teile der russischen Geschichte mit den Worten „und dann wurde alles noch schlimmer“ abkürzen kann. Generell habe ich übrigens absolut keine Ahnung wie genau die Geschichte des russischen Volkes aussieht aber spontan wüsste ich auch nicht wann es jemals eine goldene Zeit für das Land das heute als Russland bekannt existierte. Zu Sowjet Zeiten war definitiv auch nicht alles rosig und einige Russen der heutigen Zeit werden wohl die damalige Zeit irgendwie hinter her weinen aber solche Leute hat man immer. Für den Großteil der Leute, insbesondere in den ländlicheren Regionen war es wahrscheinlich nie besonders großartig. Ist das ein guter Indikator? Wenn es der Landbevölkerung gut geht oder der Reichtum eines Landes bis in die strukturschwachen Regionen durchdringt, dann hat man es wohl mit einer guten Regierung zu tun. Vielleicht ist es auch eine gewisse Menge Zynismus der dazu führt das man der Meinung ist das es immer schlimmer geworden ist, eine Extrapolation auf die menschliche Natur geboren aus dem was man in der eigenen Gesellschaft beobachtet hat. Für die Leute in der Metro von Novosibirsk sind die Dinge aber definitiv nicht besser geworden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 9, Aufnahme vom 14.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #61
+
+* Titel: `Metro Exodus DLC1 - #61 - schnelles Sterben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Die zwei Oberste
+  
+  Wenn die Welt zum Untergang verurteilt ist stellt sich die moralische Frage ob man wirklich bis zum allerletzten Moment dabei sein will oder ob man sich dafür entscheidet den schnellen Weg raus zu nehmen. Ein Klassiker ist der Tisch der russisch Roulette am Vortag des Meteoriteneinschlages spielt. Letztendlich ist es wohl schwer für einen selbst zu begreifen das es nichts mehr gibt was man tun kann und das alles verloren ist. Ist das überhaupt eine Erkenntnis die ein normaler Mensch bereit ist zu haben? Und wer vorzeitig aufgibt nimmt sich auch die Chance im Zweifel doch noch etwas zu ändern. Das wäre schon ziemlich dumm wenn man sich in den Abgrund schmeißt nur um dann heraus zu finden das man doch noch einen weiteren Tag hätte atmen können. Einen weitere Atemzug süßer Luft atmen. Aber all das kann man nicht entscheiden wenn jemand Anderes für einen beschlossen hat den Dingen ein Ende zu setzen. Dann ist man tot ohne das man wirklich sicher war das es keinen Augenblick mehr nach diesem gibt. Und das ist dann wohl Mord. Auch wenn andere Leute das vielleicht irgendwie moralisch verteidigen wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 9, Aufnahme vom 14.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #62
+
+* Titel: `Metro Exodus DLC1 - #62 - das Archiv [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Die zwei Oberste
+  
+  Ich habe offensichtlich nicht aufgepasst. Weil ich nicht weiß was das Archiv eigentlich für eine Einrichtung ist. Autarke Anlagen mit Reaktoren die kritisch Leck schlagen kennt man eigentlich nur aus Sci-Fi oder vielleicht auch von U-Booten, andererseits weiß ich nichts über die Kulturen der Welt und wie sie ihre Militärs ausrüsten. Denkbar wäre es schon das man anstatt nur ein paar Dieselgeneratoren auch einfach einen kleinen Reaktor wie in einem U-Boot verbaut um dafür zu sorgen das wichtigen Einrichtungen nicht der Saft ausgeht falls das Schlimmste passiert. Man möchte ja noch Strom für den Gegenschlag haben. Je nachdem wie man so einen Reaktor baut könnte der dann auch kritisch fehlschlagen, aber ich hätte eigentlich gedacht das ein sehr normales Design daraus besteht das die Reaktion einfach unterbrochen wird, in der Brennkammer liegt dann zwar der Atommüll rum aber das wäre dann halt auch irgendwie im Keller hinter Stahlwänden und sollte idealerweise nicht so stark strahlen. Zumindest nicht so das ein kurzer Aufenthalt in den oberen Stockwerken direkt lebensgefährlich ist. Aber was weiß ich schon. Diese Dinge zu googeln würde mich wahrscheinlich auf irgendeine Liste bringen, was auch viel über die Welt in der wir leben aussagt. A pro pro Leben, das ist die letzte Episode der zwei Colonels, ich hätte wirklich gedacht das wir noch eine Weile als Miller herum rennen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 9, Aufnahme vom 14.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+## DLC 2 Sam's Story
+
+##### #63
+
+* Titel: `Metro Exodus - DLC2 - #63 - Wladiwostok [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Sams Story
+  
+  Eine Reise die ist lustig und deswegen kann Sam auch gar nicht genug davon kriegen. Als Amerikaner der nur zufällig in Moskau gelandet ist hat er nach 20 Jahren natürlich ein wenig Heimweh, soweit ziemlich verständlich. Insbesondere wenn absolut nicht klar ist wie es um das Heimatland steht, von Russland haben wir mittlerweile ziemlich viele Satelittenkarten erhalten und es ist wirklich eine Tragödie das die alten Anlagen anscheinend alle nur diesen Teil der Welt beobachten und nicht etwas nach Afrika, Australien oder wenigstens den Rest von Europa schauen. Amerika ist aber auch der mit Abstand am Schlechtesten zu erreichende Ort wenn man sich grade irgendwo in Russland befindet. Nicht das der Landweg irgendwohin, sagen wir China oder Südafrika so viel besser wäre, aber zumindest kann man dahin laufen. Hochseetüchtige Schiffe sollten nach der Apokalypse knapp sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 10, Aufnahme vom 21.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #64
+
+* Titel: `Metro Exodus - DLC2 - #64 - der Kater [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Sams Story
+  
+  Wenn man von einer Person hört die „der Kater“ heißt denkt man entweder an einen exzentrischen Millionär oder einen Mafiaboss. Stellt sich heraus das Zweiteres wohl das ist was wir heute treffen. Neben Militärs scheinen mir gut bewaffnete Verbrecher eine sehr gute Position nach der Apokalypse zu haben. Das sie es geschafft haben ihr Netzwerk 20 Jahre lang zu halten ist aber ziemlich beeindruckend. Nebenbei finde ich es übrigens bedenklich das uns sofort so schnell vertraut wird. Ist das ein Seitenhieb an die russische Kultur das man zuerst prüft ob wir wirklich Amerikaner sind uns aber dann sofort den guten Wein einschenkt? Ist das Vertrauen in die russischen Landsmänner so gering das man dagegen bei der Erstbegegnung mit jemanden Anderes sofort bereit ist den roten Teppich auszurollen? Oder ist es einfach nur ein Mittel um den Plot nach vorne zu bringen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 10, Aufnahme vom 21.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #65
+
+* Titel: `Metro Exodus - DLC2 - #65 - Überschwemmungsgebiet [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Sams Story
+  
+  Ich weiß nicht warum das Wasser immer voller nerviger Viecher sein muss. Klar, da ist Lebensraum und ermöglicht den meisten Organismen relativ leichte Bewegung, aber warum müssen es immer irgendwelche Würmer sein die sich an einen Festklammern? Zumindest erfahren wir späte noch das Wladiwostok relativ verschont geblieben ist und daher die ganze Geschichte mit der Strahlung nicht so relevant war. Das erklärt auch warum hier wohl ein wenig mehr Leben ist, auch wenn es trotzdem seltsam mutiert ist. Oder die Mutanten sind erst hergezogen weil nur weil man gegen Strahlung größtenteils immun ist man ja trotzdem da nicht wohnen muss. Für uns von Bedeutung ist aber eigentlich auch nur das die ganzen Viecher jetzt alle hier sind. Und wir müssen an ihnen vorbei.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 10, Aufnahme vom 21.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #66
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #67
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #68
+
+* Titel: `Metro Exodus - DLC2 - #68 - Korschs Scharfschützen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Sams Story
+  
+  Die Banditen und Räuber in der Metro Welt oder überhaupt irgendwelcher post-apokalyptischer Welten ergeben nicht immer ganz soviel Sinn. Klar, manchmal sind sie ganz gut verständlich, sie nehmen sich von Anderen um am Leben zu bleiben. Aber meistens sind das feste Strukturen die irgendwie so 20 Jahre bestehen sollen und ich frage mich ernsthaft wie das funktionieren soll. Menschen essen relativ viel und wenn man keine eigenen Möglichkeiten hat sich Nahrung dauerhaft und langanhaltend weg zu lagern wird das kompliziert. Die klassischen Fallout-Raider sehe ich da eher sehr problematisch. Das sind faktisch irgendwelche Junkies die es irgendwie schaffen Jahre lang an einem Ort leben zu können ohne das sich irgendjemand um Wartung und Instandhaltung zu kümmern? Die Banditen von Korsch sind da anders. Ja sie sind oportunistisch und schießen auf uns um unsere Habseligkeiten zu erbeuten, ABER an sich haben sie auch ein Geschäft am Laufen. Viecher fangen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 10, Aufnahme vom 21.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #69
+
+* Titel: `Metro Exodus - DLC2 - #69 - eine Nacht mit dem Käpt'n [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  DLC - Sams Story
+  
+  Ich kann aus eigener Erfahrung sagen das es mir ein absolutes Rätsel ist wie Leute ganze Nächte voller Betrunkenen Unsinn haben. Zum Einen werde ich irgendwann ziemlich doll müde und dann ist der Abend gelaufen. Alternativ geht es mir nach irgendwelchen blähenden Bier nicht mehr gut und dann ist auch alles vorbei. So oder so ist selbst mit Vorbereitung die Müdigkeit ein echtes Problem, selbst mit Getränken die irgendwie Koffein enthalten geht es halt nicht ewig vor ran. Und dann hört man von irgendwelchen Dorffesten wo die Leute sich einen Wodka nach den Anderen hinter hauen und es immer WEITER geht. Wie bleiben die Leute wach? Wie überleben sie den nächsten Tag? Wie überlebt irgendjemand irgendetwas. Im Zweifel sind es aber wohl die guten Geschichten die in Erinnerung bleiben. Wenn sich irgendjemand zu Tode trinkt oder einfach nur vom Balkon fällt erzählt wohl niemand etwas vom erfolgreichen Suff-Abend.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Metro Exodus auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 10, Aufnahme vom 21.05.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #70
 
 * Titel: ``
 

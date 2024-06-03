@@ -3437,122 +3437,182 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJi
 
 ##### #229
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #229 - das gerechte Urteil [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Je mehr ich darüber nachdenke desto hohler erscheint es eigentlich das wir uns überhaupt irgendwelchen Prüfungen aus setzen müssen. Die Situation ist ja eigentlich wie folgt: es gibt ein Problem und das kriegen wir selbst offensichtlich nicht hin. Also laufen wir zum großen Drachen Ansur und versuchen die Einmal-Hilfe einzulösen die der alte Balduran anscheinend damals verhandelt hat. Ich weiß nicht wie Bronzedrachen sonst so ihre Zeit verbringen aber offensichtlich ist ihnen die Ewigkeit ja nicht fremd und insofern können sie wohl locker ein paar Hundert Jahre im Keller verbringen und warten. Wenn man jetzt aber so eine Gefängnis-Frei-Karte hat dann möchte man sie eigentlich, wenn der Notfall wirklich eintritt, gerne schnell einsetzen können. So unter dem Motto Notfallhammer, Glas zerbrechen und Zugreifen. Die Schwierigkeiten durch die wir jetzt laufen sind das genaue Gegenteil davon, fast so als würde man gar nicht wollen das wir es zu Ansur schaffen. Weil selbst wenn wir einfach durchlaufen könnten, würde der große Drache der ja scheinbar so mächtig ist nicht selbst entscheiden können ob wir würdig sind oder nicht?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 34, Aufnahme vom 21.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #230
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #230 - Ansur, Herz des Tores [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich weiß leider immer noch relativ wenig über die Hintergründe und Einschätzungen im Dungeon und Dragons Universum. Drachen scheinen, zumindest die die wir Treffen immer 400 Lebenspunkte zu haben und ein paar magische Fähigkeiten auf den Tisch zu bringen. Wir als Spielercharakter können nicht stärker als Level 12 werden weil quasi jede Bedrohung die wir danach noch treffen könnten quasi weltbedrohend sein müsste. Ein Spieler auf Level 17 rennt wahrscheinlich alleine durch Avernus, wer sollte uns da noch realistisch aufhalten? Insofern muss die Party aus Balancegründen ein wenig drunter gehalten werden. Da wir in der Lage sein müssen einen Drachen zu besiegen wird hier scheinbar deswegen auch nicht wirklich abgestuft. Oder vielleicht auch doch? Ich bin mir recht sicher das das was die Gith’yanki reiten eher niedere rote Drachen sind während ein Bronzedrachen wie Ansur wahrscheinlich doch um ein paar Hausnummern größer ist. Ich kann es aber wirklich nicht Abwägen. Ich kann wahrlich nicht sagen was eine Banane in diesem Fall kostet. Ist Ansur in der Form in der wir ihn treffen schwächer oder zu erwarten? Wenn er wirklich nur so stark ist kann er sicherlich die Stadt nicht alleine retten, oder ist die Bedrohung doch so groß?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 34, Aufnahme vom 21.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #231
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #231 - Klinge von Avernus [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Man merkt es zwar nicht wirklich, aber unser ganzer großer Einsatz bei Ansur war eigentlich in Namen von Wyll. Der arme Junge wollte sich ja unbedingt beweisen und sein Vater hat ja auch gemeint das Ansur die definitive Antwort auf all unsere Probleme ist. Immerhin hat der junge Hexenmeister jetzt ein wenig was gelernt und erlangte neue Erkenntnisse wie er die Dinge angehen kann und wird. Das führt aber auch dazu das er ein kleines Rebranding ob seiner persönlichen Marke vornimmt. Wo er einst noch Wyll die Klinge der Grenze war findet man jetzt und bald die Klinge von Avernus. Ich bin mir allerdings nicht so sicherlich ob ich irgendeine Nahkampfwaffe als meine Hauptwaffe gegen Dämonen einsetzen wollte. Es erscheint wesentlich verlockender auf Abstand zu bleiben und das Viehzeug mit Blitzen und Eiszapfen zu bearbeiten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 34, Aufnahme vom 21.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #232
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #232 - Erzherzog Gortasch [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es ist fast schon bezeichnend wie Gortasch eigentlich kaum mehr als eine kleine Randnotiz für unsere weiteren Pläne ist. Wir haben unsere Meinung und Pläne ja bereits offen bekannt gemacht. Enver kann also nicht wirklich überrascht sein das wir gegen ihn vorgehen, ob er sich in seinem Thronraum gefürchtet hat? Wissend das all seine Baniten kaum einen Schutz bieten, mit Schrecken zugeschaut als seine doch so mächtige Stahlwache in sich zerfiel? Oder hat er bis zum letzten Moment daran geglaubt das wir nach Orins Tot doch noch auf andere Gedanken gekommen sind und uns jetzt doch dazu entschieden haben uns mit ihm zu verbünden? All seine Pläne, seine Jahre des Aufstiegs, der Handel mit den Höllen und die tausenden von Seelen die er wahrscheinlich Zariel gegeben hat waren am Ende nichts wert. All seine Anbetung für Bane völlig verschwendet. Und ich bin mir sicher das Bane nicht besonderes großzügig auf Versager schaut. Letztendlich hatten wir das Attentat ja bereits schon einmal mit Astarion vollzogen. Dieses Mal nehmen wir nur den Vorschlaghammer und arbeiten uns methodisch vor. Ein wenig schade um die flammende Faust die sich noch immer hat täuschen lassen. Das sind sicherlich auch gute Frauen und Männer die im Baldurs Tor von Morgen fehlen werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 34, Aufnahme vom 21.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #233
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #233 - unsere feurige Freundin [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich weiß, jetzt wo ich diese Zeilen hier schreibe, wie Karlachs Reise ausgeht. Es stört mich. Aber auf der anderen Seite ist es wohl auch so das jede Geschichte auch ein wenig Tragik braucht. Nicht jede Geschichte muss tragisch sein, nicht jedes Ereignis muss voller Trauer sein, aber letztendlich wäre es keine Geschichte, kein narrativ, wenn am Ende alle glücklich wären und alles irgendwie noch klappt. Allerdings gibt es hier ein paar Logik Lücken. Ich möchte daran erinnern das Gale eine Rolle der wahren Wiederbelebung fallen lässt. Und dann haben wir da noch Jergal der offensichtlich Leute auch einfach so für 100 Gold zurückholen kann. Soweit ich das verstanden habe kann der Zauberspruch der wahren Wiederaufstehung eine Person komplett wiederherstellen. Das mechanische Herz das Karlach in den Höllen erhalten hat ist offensichtlich kein Teil ihrer selbst und auch ein Schaden. Ein Teil ihres Seins den sie verachtet. Karlachs Leben war nicht einfach, als Waise auf den Straßen aufgewachsen, dann ein wenig Hoffnung gegeben nur um letztendlich an einen Erzteufel verkauft zu werden. Und alles was sie immer wollte war sich an Gortasch zu rächen, technisch gesehen wahrscheinlich auch an Zariel, aber ich habe ehrlich gesagt keine Ahnung wie möglich es überhaupt ist einen Erzdämon zu töten, insbesondere für relativ normale Sterbliche. Und jetzt sind wir an dem Punkt. Man merkt das insbesondere im letzten Akt von Baldurs Gate 3 Stränge nicht richtig zusammen laufen, Geschichten fehlen und manche Dinge nicht bis zum Ende erkundet sind. Das wir mit Karlach nicht mehr machen können stört mich aber besonders.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 34, Aufnahme vom 21.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #234
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #234 - Morphische Tümpel [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Eine Geschichte abgeschlossen, Gortasch getötet, Karlach getröstet und schon geht es weiter. Technisch gesehen hatten wir seit unserer Ankunft in Baldurs Tor wahrscheinlich nur zwei oder drei Tage Zeit wirklich zu handeln. Im Spiel war es jetzt natürlich ein wenig länger. Und die Zeit habe ich mir auch genommen. Würde man wirklich so schnell vorgehen müssen wie es das Spiel an bestimmten Stellen impliziert wäre die gesamte Reise ein wenig interessanter zum Wiederspielen, einfach weil die Zeit nicht reichen würde alle Abenteuer zu machen und man Dinge bewusst liegen lassen müsste. Aber das ist halt genau das Problem, woher soll man wissen was wichtig ist und was nicht ohne die Immersion zu brechen. Wie baut man ein Gefühl der Eile auf ohne direkt die Spieler zu hetzen. Und so ist es einfach nicht möglich, ich habe mir alle Zeit der Welt gelassen und jetzt wo mein Questlog leer ist und jedes Haus der Unterstadt durchsucht ist machen wir uns erst auf den Tempel von Bhaal zu erkunden um dort zum morphischen Tümpel zu schreiten. Dem Ort an dem wir angeblich einen Weg zu Hirn finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 35, Aufnahme vom 27.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #235
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #235 - das Nesserhirn [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich weiß zu wenig über Fâerun und die gesamte Dungeon and Dragons Welt und die verbundenen Universen um beurteilen zu können wie Dinge miteinander interagieren. Aber soweit ich das verstanden habe ist ein Ältestengehirn der Illithiden quasi all das wovor wir bei echter KI immer Angst haben. Ein so überlegender Intellekt das er den Menschen oder hier, den meisten anderen Spezies um Welten überlegen ist. Ein Verstand der so große Pläne aufbaut das selbst wenn man denkt man würde gewinnen in Wirklichkeit schon lange verliert. In dem Moment in dem das Hirn Kenntnis der eigenen Existenz hat kann man sich eigentlich sicher das es bereits alle Möglichkeiten abgewogen hat. Sollte man nicht plötzlich Gegenmaßnahmen sehen war man wohl von Anfang an keine Bedrohung. Und selbst wenn, sollten die Gegenmaßnahmen so durchgängig sein das sie ausreichen werden. Beschränkt ist das Ältestenhirn nur durch die Informationen die es erhält, und dafür hat es ja einen größeren Schwarm von zweibeinigen Illithiden die man allgemein als Gedankenfresser kennt. Wesen die in sich schon eine nicht zu verachtende Gehirnkapazität haben, auch wenn sie selten autonom handeln. Das dann die Zeromorphose dafür sorgt das die Seele der Person vollständig vernichtet wird ist ein wenig weird. Oben drauf kommt dann auch noch das die Gith und halt die Illithiden eine Art von Magie verwenden die keine klassische Magie ist, Psyonik. Ich habe es jetzt nicht getestet aber soweit ich das verstanden habe sollte das auch ohne das Gewebe funktionieren. Und damit umgeht es eine Menge Beschränkungen die machthungrige Magier haben. Wie  genau die Gith’zerai und/oder Gith’Yanki jemals den Aufstand geprobt haben ist mir absolut nicht klar. Lange Geschichte kurz, ich glaube wir haben kein Recht zu gewinnen. Und doch, tun wir es trotzdem irgendwie? Warum sind wir anders? Warum kann das Gehirn unsere Handlungen nicht richtig vorhersagen. Gibt es einen Faktor den der Illithidenverstand nicht berechnen kann?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 35, Aufnahme vom 27.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #236
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #236 - die Verbündeten [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Unsere erste große Reise war irgendwie nicht so erfolgreich. Ich habe das große Verlangen diese Szene noch einmal mit Save-Scum anzugehen und so lange neu zu laden bis ich drei D20s Würfle, einfach nur um zu sehen ob es möglich ist hier ein frühes, aber super unwahrscheinliches Ende herbei zu führen. Da wir aber keine Erfolg hatten ist es jetzt wohl an der Zeit Plan B zu aktivieren. Nicht umsonst haben wir so viele Verbündete um uns gescharrt, wäre doch gelacht wenn wir jetzt nicht die Schuld einfordern könnten die sich daraus ergeben hat. Und mit Schuld ist wohl ein wenig Feuerschutz gemeint. 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 35, Aufnahme vom 27.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #237
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #237 - Hof der hohen Hallen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es ist ein wenig schade das wir die obere Stadt von Baldurs Tor nur in Trümmern sehen, andererseits wäre sie wohl auch wesentlich uninteressanter für einen Abenteurer als die Unterstadt. Hier wo der noble Adel wohnt und reiche Händler gibt es wahrscheinlich nur wenig Orte die wirklich für unsereins zugänglich sind und offene Türen bieten würden. Ich stelle mir die Oberstadt wesentlich enger und weniger offen für umherwandernde Menschen vor. Ein Ort an der die einzigen armen Leute Wachen der flammenden Faust sind die dafür sorgen das der Pöbel nicht rein kommt. Ich weiß übrigens immer noch nicht vollständig wie die Regierungsstruktur der Stadt funktioniert, aber die Adelsfamilien haben wohl irgendeinen Anteil daran. Und dann gibt es im Zentrum wohl die Hohe Halle dessen Hof wir heute betreten. Der Ort der letzten Schlacht. Oder der vorletzten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 35, Aufnahme vom 27.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #238
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #238 - Treppen zum Gehirn [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich kann nicht so recht sagen wieso, aber mich beschleicht immer wieder die Faszination wie bestimmte Dinge die vorher als trivial angesehen werden plötzlich unfassbar schwierig sind. Das Gleiche gilt natürlich auch andersherum aber irgendwie habe ich nie eine so progressive und positive Entwicklung erlebt das ich sagen kann das etwas das vorher immens schwer war jetzt mit Leichtigkeit möglich war. Kommunikation, Reisen, Wissen, alles ist einfach in meiner Welt. Aber ich fürchte den Tag an dem es wieder sehr schwer sein wird, die Einfachheit der Vergangenheit durch Regression davon  gewischt. Weniger hochgeistig geht es heute zu. Wir steigen eine Treppe hinauf. Und daher rührt mein ursprünglicher Gedanke. Gestern noch hätte ein Magistrat diese Stufen mit Leichtigkeit erklommen, vielleicht ein wenig  Kurzatmigkeit wäre in Kauf zu nehmen, aber davon abgesehen wäre sie oder er in kurzer Zeit oben gewesen. Heute sieht es ganz anders aus. Der Palast ist ein Schatten seiner selbst, wesentlich luftiger und jede Stufe ist wortwörtlich mit einem Kampf verbunden, für uns.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 35, Aufnahme vom 27.01.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #239
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #239 - auf dem Hirn [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Das Ältestenhirn das wir damals unter den Türmen des Mondlichts gesehen haben war irgendwie kleiner. Das war doch keine optische Täuschung! Ich finde es ein wenig  lächerlich das wir tatsächlich phyisch auf dem Hirn selbst stehen. Ein Hirn das wahrscheinlich sowieso nur der Äußerlichkeit einem menschlichen bzw. humanoiden Gehirn ähnelt. Letztendlich könnte es wohl auch ein fleischlicher Borg-Würfel sein und die Funktion wäre die gleiche. Die Denkfunktion übernimmt psyonische Magie und nicht tatsächliche Neuronen. Soweit ich weiß gibt es reale Probleme mit Signalgeschwindigkeiten in der Computertechnik die dazu führt das es tatsächlich auch neben höheren Preisen Gründe für aufgelöteten RAM direkt am Prozessor gibt, oder warum PCI-e Lanes nicht unendlich lange verlängert werden können. Hochgeschwindigkeits USB Kabel nicht 20 Meter lang sein können und so weit. Und nicht nur wegen der Signalschwächung. Aber darum geht es bei diesem Gehirn wohl nicht mehr. Es ist auch kein normales Ältestengehirn mehr, es ist mehr. So viel mehr. Und das ist ein wenig unheimlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 36, Aufnahme vom 05.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #240
 
-* Titel: ``
+* Titel: `Baldur's Gate 3 - #240 - der Wille des Hirns [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wie bereits vermutet wurden wir von Anfang an getäuscht. Alles war von Anfang an geplant, alles war vorher gesehen und wir haben uns letztendlich wie Marionetten am Faden bewegt. Immer im Takt des Hirns das all die möglichen Zukünfte vorher gesehen hat und selbst die Handlung der toten drei beeinflusst hat. Ich frage mich ob das ein Problem ist das daraus entstanden ist das die Macht des Todes in drei Teile geteilt wurde oder das die aktuellen Lenker dieser Macht einst Menschen waren. Das Buch der Götter das wir ganz am Anfang gefunden haben lässt aber vermuten das die aktuellen Götter und ihre Namen sowieso nicht die ursprünglichen Machtinhaber sind die präsent waren als die Welt erschaffen wurde. Insofern spricht Einiges dafür das auch die anderen Götter in irgendeiner Hinsicht irgendwann einmal sterblich waren. Inwiefern das übrigens Lore ist vermag ich nicht zu sagen, aber klar ist, deren Handeln kann vorhergesehen werden und ausgenutzt. Wenn man ein Ältestenhirn mit viel zu viel Zeit ist. Bis auf eine Sache, am Ende haben wir natürlich Erfolg. Warum? Hätten wir Erfolg haben dürfen, ist der Einfluss Jergals so viel größer, und mit Jergal meine ich übrigens Lazarus, die geheimnisvolle Macht die einfach so jemanden von den Toten erwecken kann. Ohne vorher bei einen der anderen Götter anfragen zu müssen oder zu verhandeln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Baldur's Gate 3 auf dem Montags Slot.
+  Sitzung 36, Aufnahme vom 05.03.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #241

@@ -210,22 +210,94 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM80EUZRfjLJuumFcyOVQ
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM80EUZRfjLJuumFcyOVQ83
   ```
 
-##### #Nummer
+##### #14
 
-* Titel: ``
-
-* Beschreibung:
-
-  ```markdown
-  Hier
-  ```
-
-##### #Nummer
-
-* Titel: ``
+* Titel: `Transistor - #14 - Leistungstest 3 von 7 [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Eine dieser ärgerlichen Dinge im Leben ist das man nie so ganz wissen kann was man wirklich kann wenn man es nicht vorher testet. Wenn man aber nicht seine Talente testet ist absolut nicht klar ob man nicht seine Fähigkeiten verloren hat. Ständig unter Kontrolle zu stehen stresst aber und kann die eigenen Leistungen schmälern. Es kommt wohl auf die Balance an, und dennoch habe ich bis heute Angst meine Leistung unter Beweis zu stellen. Immer verfolgt von der Angst das ich vielleicht morgen nicht in der Lage sein werde tatsächlich zu liefern. Alt zu sein und zurück gelassen zu werden. Red ist noch nicht ganz so weit.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Transistor auf dem Montags Slot.
+  Sitzung 2, Aufnahme vom 27.05.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM80EUZRfjLJuumFcyOVQ83
   ```
+
+##### #15
+
+* Titel: `Transistor - #15 - der Weg zurück [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Ende musste ich im Wiki nachlesen um zu verstehen was hier geschieht. Für den Moment ist aber nur zu wissen das wir uns zwar zum höchsten Turm durchgekämpft haben um jemanden zu finden den wir verantwortlich machen können aber am Ende stellt sich heraus das nur Monster übrig sind und jeder der vielleicht eine Hilfe hätte sein könnte lange nicht mehr am Leben ist. Oder keinen biologischen Körper mehr bewohnt. Es ist alles in Allem eine Tragödie. Aber immerhin gibt es noch eine Hoffnung. Einen Ort wo wir noch jemanden finden könnten der Antworten hat. Leider müssen wir dafür den ganzen weiten Weg wieder zurücklaufen. Das stört.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Transistor auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 03.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM80EUZRfjLJuumFcyOVQ83
+  ```
+
+##### #16
+
+* Titel: `Transistor - #16 - eine Brücke nach Fairview [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Cloudbank war schon immer ein Ort voller Wunder, aber was gefehlt hat war eine Brücke. Eine Brücke die es den einfachen Leute ermöglicht hätte von einem Ort zu Anderem zu gelangen ohne eine teure Fähre in Anspruch zu nehmen. Da es sich um eine absolute Demokratie handelt braucht ein solcher Vorschlag eine genügende Menge an Zuspruch. Ausreichend Leute müssen sich für die Idee aussprechen und dann wir der Vorschlag umgesetzt. Jetzt gibt es so gut wie keine Menschen mehr und wir haben uns das oberste Mandat aus dem Archiv geholt. Eine Brücke kann jetzt einfacher errichtet werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Transistor auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 03.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM80EUZRfjLJuumFcyOVQ83
+  ```
+
+##### #17
+
+* Titel: `Transistor - #17 - zersetzte Insel [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur weil wir uns jetzt woanders befinden heißt das leider nicht das wir weit genug weg sind um der allgemeinen Umwandlung entgegen zu wirken. Die Stadt stirbt auch hier, und man könnte sogar argumentieren das Fairview noch wesentlich mehr mit genommen wurde als es Cloudbank selbst wurde. Kaum etwas bleibt übrig von dem was einst die Heimatstätte von Red war. Der Schaffensort und Bühne für die Aktivitäten einer herausragenden Künstlerin. Es ist eigentlich fast schon tragisch das wir in Spielen immer nur Orte im Umbruch sehen. Eine reine Vision einer Welt die in bester Ordnung ist wäre wohl zu viel verlangt. Eine Utopie zu erleben, durchleben und zu erhalten. Medien stellen Veränderungen da, und wir sind nie da um das mundane Leben zu leben. Warum also hier?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Transistor auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 03.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM80EUZRfjLJuumFcyOVQ83
+  ```
+
+##### #18
+
+* Titel: `Transistor - #18 - Fairview Testdurchgang [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß es zwar noch nicht, aber wir stehen so kurz vor dem Ende. Ich habe ein wenig für mich damit argumentiert das wir ja noch nicht alle Fähigkeiten freigeschalten haben und deswegen logischerweise auch noch nicht am Ende sind, aber so funktionieren die Dinge nicht. Es wäre ja auch zu einfach wenn alles so vorhersehbar wäre. Also versuchen wir heute noch einmal, ein letztes Mal zu beweisen was wir alles so können und versuchen uns daran all unsere Fähigkeiten zu beweisen. Ich würde übrigens behaupten das man an diesen Herausforderungen wahrscheinlich genauso viel Zeit verbrennen kann wie für das eigentliche Spiel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Transistor auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 03.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM80EUZRfjLJuumFcyOVQ83
+  ```
+
+##### #19
+
+* Titel: `Transistor - #19 - die Basis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich musste im Wiki nachlesen um alles zu verstehen. Ob die Leute die im Transistor sind und uns Fähigkeiten leihen wirklich da sind oder nur ihre Erinnerungen digital gespeichert wurden ist absolut nicht klar. Die Farm ist anscheinend irgendein Begriff für das Jenseits der in dieser Welt halt existiert. Aus irgendwelchen Gründen ist es genau einer Person möglich den Transistor zu verlassen und unser Antagonist war scheinbar schon länger da drin. Wir fanden ihn vorher. Aber anders als die Anderen startet er hier einen Ausbruchsversuch. Warum nur eine Person den Transistor verlassen kann ist absolut unklar, aber solche Ausnahmen lassen mich glauben das wir nur nicht genug wissen und das vielleicht auch mehre Leute extrahierbar wären wenn man nur das Wissen hätte. Red besitzt das Wissen nicht. Das Ende habe ich woanders erklärt gefunden. Anders als in Bastion entscheiden wir nicht, the Kid war mehr unser Avatar. Red hat unsere Führung nur angenommen. Sie ist ihre eigene Herrin und alles was sie wollte war mit Unknown zusammen zu sein. Da er nicht aus dem Transistor raus kommt gibt es nur eine logische Möglichkeit. Und da es ihre Entscheidung ist trifft sie diese auch, nicht wir. Und deshalb ist das Ende linear. Aber hey, es  gibt immer noch die Musik und New Game +.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Transistor auf dem Montags Slot.
+  Sitzung 3, Aufnahme vom 03.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM80EUZRfjLJuumFcyOVQ83
+  ```
+
+## Fazit

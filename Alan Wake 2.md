@@ -1234,3 +1234,120 @@
 
 ## Fazit
 
+
+
+## Nightsprings
+
+##### #82
+
+* Titel: `AW2: Nightsprings - #82 -  der größte Fan(atiker) [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf den Inhalt dieser Episode gehe ich absolut nicht ein. Das mache ich ja schon im Video. Widmen wir uns daher eher meinen Überlegungen zum Thema Fans. Einer der Gründe warum dieses Youtube Ding nie so richtig gelaufen ist, ist der das ich nicht daran glaube oder sogar Angst davor habe. Das ist wie ein Ritt mit einem Tiger. Abhängig von der öffentlichen Wahrnehmung wäre ich nicht in der Lage das auszureiten. Wenn ich Erfolg hätte dann nur mit etwas das nicht wirklich ich bin und irgendwann merken die Leute das alles nur eine Fassade ist. Aber was mir richtig Angst macht ist das die Leute es nicht merken. Ich kann es mir kaum vorstellen oder ausmalen, aber eine Welt in der mich Leute wirklich Anbeten macht mir ein wenig Angst. Menschen die so rosarote Brillen aufhaben das sie Denken das ich wirklich etwas könnte oder als moralischer Kompass dienen könnte. Das ist eine schreckliche Vorstellung. Daher gebe ich mir ihr nicht hin. Und das ist halt das Ding, wenn man mit irgendetwas berühmt wird dann steht mit damit halt im öffentlichen Leben, vor vielen vielen Menschen die alle ihre eigene Persönlichkeit haben. Je nachdem für was man bekannt ist kann das die Wahrscheinlichkeiten ein wenig hin und her bewegen, ich würde postulieren, je mehr man sein eigenes Aussehen als Stilmittel nutzt desto schlimmer wird es. Aber mit genügend Reichweite ist es eigentlich egal wie die Chancen sind, mit genügend Würfeln trifft auch ein tausendseitiger Würfel mal die 1. Und davor habe ich ich Angst. Rose ist ziemlich sicher eine 1.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: Nightsprings auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 17.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #83
+
+* Titel: `AW2: Nightsprings - #83 - das Objekt der Begierde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist grade das Idiom „Nutty as a fruit cake“ eingefallen. Offensichtlich englisch, ich weiß nicht wie nussig Fruchtkuchen wirklich ist, aber ganz doll bestimmt. Oder war es „loppy“? Wie dem auch sei, selbst mit nur minimalen Sprachverständnis ist es eigentlich recht offensichtlich was es bedeutet. Rose ist kein schlechter Mensch. Nur Obsessiv. Night Springs hat keine Lektion so weit ich das erkennen kann. Vielleicht können wir irgendwie eine Reininterpretieren wenn man wirklich will aber soweit ich das von hier aus erkennen kann ist es einfach nur eine irre Geschichte die die Seltsamkeit von Night Springs aufzeigen soll. Aus dem Hauptspiel wissen wir ja noch das „Balance slays the demon“ anscheinend eine Bedeutung hat. Wie bereits erwähnt ist Rose so was von nicht im Gleichgewicht. Andererseits hilft es wahrscheinlich erheblich gegen den Wahnsinn den der dunkle Ort bietet an zu kommen. Blinder Glaube, religiöser Wahn oder stumpfer Fanatismus sind definitiv ein gutes Mittel um Täuschungen oder Selbstzweifel zu überkommen. Langfristig wahrscheinlich auch nicht gesund aber in bestimmten Fällen ein gutes Mittel um Widerstand zu leisten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: Nightsprings auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 17.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #84
+
+* Titel: `AW2: Nightsprings - #84 - Nordstern [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein echt häufiges Problem das Menschen haben ist das ihnen irgendwie die Orientierung fehlt. Ich kenne das von mir selbst und ich bin mir sicher das quasi jeder schon mal das Gefühl hatte nicht so recht zu wissen wo man eigentlich hin will oder soll. Wenn man nicht grade einer religiösen Sekten angehört die das Denken komplett für einen Übernimmt wäre es auch sehr ungewöhnlich wenn man immer wüsste was als nächstes zu tun ist. Jesse Faden ist fast ihr ganzes Leben schon auf der Flucht und gleichzeitig auf der Suche nach der gleichen Sache. Immer in der Hoffnung ihren Bruder zu finden. Und die Behörde die hinter all dem steht. Immerhin aber hat sie den Vorteil eine kleinere Orientierung zu haben, ihren eigenen persönlichen Nordstern: Polaris.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: Nightsprings auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 17.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #85
+
+* Titel: `AW2: Nightsprings - #85 - die Durchsickerung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  „Du bist kein Kaffee“. Das denke ich mir auch öfter wenn ich morgens aufwache und mich nicht so fühle als könnte ich irgendwie funktionieren. Da ist selbstverständlich die Reaktion eines Süchtigen auf das Fehlen seines Stoffes. Viele Leute behandeln Kaffee wie eine Religion, ein Ritual dem sie häufig folgen. Ich kann von mir selber auch nicht sagen das ich da abstinent bin, aber die meiste Zeit versuche ich meinen Konsum gering zu halten. Kaffee ist quasi ein flüssiges Versprechen, eine Schuld die eingelöst werden will. Alle Wachheit die man jetzt hat muss man später zurück zahlen. Ganz so transaktionell ist es nicht aber schon ziemlich nahe dran. In diesem Sinne vermeide ich es auch Kaffee als Genussmittel zu trinken wenn ich ihn nicht brauche. Klar, wenn ich Kaffee mache nutze ich aufwendige Verfahren, halbwegs teure Bohnen und ein wenig Feingefühl damit ein guter, genussfähiger Kaffee entsteht, und dieser wird dann auch genossen. Aber Kaffee nur des Rituals wegen trinken finde ich unnötig. Neulich sah ich beispielsweise ältere Menschen mehre Kaffee auf einer sechsstündigen Kaffeefahrt trinken ohne das sie jemals irgendetwas gemacht haben außer da zu sitzen. Vielleicht kriegen sie Rückenprobleme wenn sie einschlafen, aber ansonsten sah ich wenig Sinn. Aber wenn man jetzt magischen Crack-Kaffee hat mit dem man die Welt kontrollieren könnte..das wäre doch mal interessant oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: Nightsprings auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 17.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #86
+
+* Titel: `AW2: Nightsprings - #86 - Zeitbrecher [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und schon wieder sind wir jemand Anderes. Die Nightsprings Episoden sind offensichtlich ziemlich kurz und benutzen nur Assets die wir bereits aus dem Hauptspiel kennen. Ich finde das übrigens ein wenig enttäuschend. Das wir keine neuen fantastischen Orte finden. Das alles hat so ein wenig ein Restrampe-Gefühl. Natürlich gibt es hier und da ein paar Veränderungen aber im Großen und Ganzen scheint es mir doch das gleiche Spiel zu sein und das finde ich irgendwie schade. Insbesondere weil die Nightsprings Geschichten selbst ziemlich flach sind wenn man darüber nachdenkt. Inhaltlich ist es immer eine etwas komplexere Idee die ein wenig in die Länge gezogen wird. Fairerweise muss ich aber auch sagen das zumindest Time Breaker ein paar interessante Twists in Sachen Grafik hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: Nightsprings auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 17.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #87
+
+* Titel: `AW2: Nightsprings - #87 - Meister vieler Welten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Konzept von Multiversen macht mich immer ein wenig fertig. Da ich nie so richtig den Marvel oder D.C. Comics gefolgt bin blieb mir das Konzept auch relativ lange verborgen. Mein erster Kontakt war also „Per Anhalter durch die Galaxis“. Wir erinnern uns das Arthur Dent den Abriss seines Planeten für eine Hyperraumautobahn entkommt und dann später zur Erde zurückkehrt weil sich herausgestellt hat das der Planet in der Multi-Zone des Universums steht. Das wäre an sich nicht interessant, aber zwischendurch trifft Arthur eine Person die ihm zum Partner wird, und diese verschwindet auf irgendeiner Hyperraumreise einfach weil das die Natur seiner Person ist. Seine Freundin kommt am gleichen Ort an, aber nicht in der gleichen Realität. Alleine wie er. Multiversen haben immer zur Folge das, wenn man sich einmal verliert, man sich für immer verloren hat. Wenn es unendliche Variationen von Welten gibt dann ist es ziemlich schwierig, wenn nicht sogar unmöglich, den gleichen Ort zweimal zu finden. Das schwenkt dann auch gleich zu Fragen auf wie was das Bewusstsein ist. Oder was real ist. Nehmen wir an das jedes Mal wenn man durch irgendwas sterben würde man in dieser Realität tatsächlich das Zeitliche segnet aber man selbst in letzter Sekunde dem Unglück entkommt und in einer Parallelwelt weiter macht. Was ist dann mit all den Leuten die man liebt, hasst oder kennt? Aus praktischen Gründen spielt es keine Rolle, aber je nachdem wie viel Wert man auf sich selber als Einheit legt eine Menge. Schlimmer wird es nur noch wenn man Variationen der gleichen Person immer und immer trifft. Jemanden den man so gut kennt aber man andersherum ein Fremder ist. Wie schon gesagt, Multiversen machen mich fertig. Alles wird dadurch beliebig, nichts ist mehr wichtig und alles ist austauschbar. Es nimmt den Leben seine Bedeutung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: Nightsprings auf dem Montags Slot.
+  Sitzung 13, Aufnahme vom 17.06.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+## Fazit Nightsprings
+
+
+
+##### #88
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #89
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

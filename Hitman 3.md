@@ -415,12 +415,62 @@
   Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```
 
-##### #Nummer
+##### #28
 
-* Titel: ``
+* Titel: `Hitman 3 - #28 - Karpaten: Unantastbar [Let's Play; ger]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Bevor ich überhaupt angefangen habe diese Worte zu schreiben war ich bereits drei Sprünge weiter. Fangen wir also mitten in einem Gedanken an der lose mit dem Titel zu tun hat. Allgemein bin ich der Meinung das das Leben zu kurz ist allerdings ist das Sterben von viel zu reichen Leuten eine der wenigen Gnaden die das Leben bietet. Machtwechsel, Übergaben und Generationsübergänge bieten Gelegenheit für Chaos und Chaos hilft denen die sonst fest stecken. „Chaos is a ladder“ ergibt immer mehr Sinn für mich. In der echteren Welt scheint es viel zu viele Leute zu geben die unantastbar sind, praktisch wie theoretisch. Gleichzeitig sterben auch gute Anführer und Vorkämpfer für die bessere Welt von Morgen an Altersschwäche aber viel öfter scheinen es jene zu sein die die Welt aktiv schlechter machen die nur durch das Alter bedroht werden. Das ist sehr schade. Vielleicht bräuchte die Welt mehr Agenten 47 die als Gleichmacher dienen. Andererseits handelt er ja auch nicht allein. Der Hitman ist ein Werkzeug, eine Waffe die vor langer Zeit abgefeuert wurde, unaufhaltsam wie der Löffelmann. Arthur Edwards hat sich scheinbar verschätzt, eine unwahrscheinliche Wende der Dinge wie ich sagen möchte. Man möchte meinen das er nach all den Jahren als Konstante besser sei.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Hitman 3 auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 02.07.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #29
+
+* Titel: `Hitman 3 - #29 - Ambrose Island: Löcher am Strand [Let's Play; ger]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich haben wir Hitman 3 durchgespielt aber IO Interactiv hat sich scheinbar noch einmal dafür entschieden eine letzte Map heraus zu bringen. Irgendwann später kam dann da auch noch der freie Modus, aber ich frage mich wirklich ob man nicht genügend Geld einfach nur stumpf mit Map-Paketen mit neuen Missionen und Varianten hätte machen können. Aber wahrscheinlich nicht, gefreut hätte es mich. Die Bank und die Südseeinsel waren beide hervorragende Erweiterungen für Hitman 2 und ich bin ein wenig traurig das ich sie in meinem Hitman 3 nicht spielen kann weil alles irgendwie dumm ist. A pro pro Südseeinsel, eventuell war das Hauptproblem auch das sich Ideen, Ansätze und Schauplätze irgendwann wiederholen. Irgendwann hat man alle möglichen Anwesen gesehen. Öffentliche Orte wiederholen sich auch und selbst Standorte sind irgendwann sehr gleich. Ambrose Island ist eine Variation, keine vollständig neue Idee mehr.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Hitman 3 auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 02.07.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #30
+
+* Titel: `Hitman 3 - #30 - Ambrose Island: Akkas Leute [Let's Play; ger]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind hier um irgendeine random Piraten umzubringen. Zumindest habe ich das so verstanden. Die ICA ist eine sehr reiche Organisation, ihre Ausrüstung und Bedeutung in der Welt kann nicht klein geredet werden. Alleine die Anlage in China spricht dafür. Wie genau das funktioniert vermag ich nicht zu sagen aber ich würde vermuten, ohne irgendwelche Romane usw. gelesen zu haben das es auch noch andere Dienstleistungen pro Anruf gibt. Spionage als Dienstleistung würde ich ganz nach oben schieben, oder vielleicht andere Söldnertätigkeiten die durch ein privates Informationsnetzwerk gestützt werden. Was jetzt Akka getan haben muss um eine extra Erwähnung zu verdienen weiß ich nicht. Letztendlich ist sie ja nicht unbedingt ein hochqualitatives Ziel. Klar, die Information zu haben wo sie sich grade aufhält wäre ein erster sicherer Schritt, aber sie steht auch nicht im öffentlichen Blick. Ob sie jetzt im Kugelhagel stirbt oder durch einen Unfall macht kaum einen Unterschied oder? Warum also die Aufmerksamkeit einer internationalen Auftragskillerorganisation? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Hitman 3 auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 02.07.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
+  ```
+
+##### #31
+
+* Titel: `Hitman 3 - #31 - Ambrose Island: Ruinen, Agenten und brutale Gewalt [Let's Play; ger]`
+
+* Beschreibung:
+
+  ```markdown
+  Jetzt am Ende hatte ich keine Lust mehr. Ich gebe es ja zu, die Sitzung hat gedroht zu Ende zu gehen und die Mission war noch nicht gelöst. Es gibt auf Ambrose Island mindestens noch drei Dinge die wir hätten tun können die ich dann am Ende nicht getan habe weil ich mich mit stumpfer Gewalt durchgekämpft habe. Aber immerhin konnte ich zivile Verluste auf ein absolutes Minimum beschränken. Allerdings frage ich mich manchmal ob das überhaupt einen Unterschied macht. Ich weiß das irgendein Hitman Teil am Ende jeder Mission eine Art Zeitungsartikel hatte der darüber berichtet hat wie die Dinge sich zugetragen haben in der öffentlichen Wahrnehmung. Wenn aber in England auf dem großen Anwesens der Wessonsmiths ein Todesfall auftritt ist das doch ein wenig etwas Anderes als wenn 32 Menschen auf einer Pazifik Insel zu Tode kommen. Jedes Leben ist unendlich wertvoll, aber das ABER hier ist gewaltig. In der öffentlichen Wahrnehmung ist es ein gewaltiger Unterschied welche Hautfarbe das Leben hat und wo es vorher gelebt hat. Und in der westlichen Welt interessiert sich niemand für Pazifikinseln. Und auf Pazifikinseln ist die Welt eine Andere. Oder vielleicht auch nicht. Ich behaupte das jetzt so, aber ich glaube das zumindest der Tod der weißen Wachen absolut egal für die Leute vor Ort ist. Eventuell hat man nur Angst das jemand Rache übt für den Tod, aber nicht für jene die starben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Hitman 3 auf dem Dienstags Slot, 19 Uhr Release.
+  Sitzung 5, Aufnahme vom 02.07.2024
+  Playlist: https://www.youtube.com/watch?v=lccQZ0gHSN8&list=PLAFz5ZZJ21wNK7cCoY4ELGYHWwAYxcobB
   ```

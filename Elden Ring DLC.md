@@ -120,6 +120,66 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qAy
   ```
 
+##### #8
+
+* Titel: `DLC - #8 - Drachengrube [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Meine Erfahrung mit Drachen in irgendwelchen Spielen von Fromsoft ist sehr gemischt. In Dark Souls waren die Viecher ziemlich legendär und quasi Teil des Schöpfungsmythos. Die die man dann später noch trifft sind eigentlich größtenteils irgendwelche Zombiedrachen die schon weit über ihr normales Haltbarkeitsdatum hinweg sind, und jene die es nicht sind sind ernsthafte Knochenbrecher die einige Mühe von uns Verlangen. Wenn ich jetzt also einen Ort namens Drachengrube betrete wird mir natürlich schon ein wenig mulmig. Auf der anderen Seite sind Drachen die sich in geschlossenen Räumen aufhalten meistens nicht ganz so schlimm, schon deswegen weil sie nicht dämlich durch die Gegend fliegen können. Stattdessen können sie die gesamte Höhle mit Feuer fluten. Das ist definitiv besser, und deswegen gehen wir heute mutig nach vorne.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 2, Aufnahme vom 01.07.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #9
+
+* Titel: `DLC - #9 - die wahren Drachen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine schone etwas ältere Diskussion ist die die definiert bei was es sich um einen echten XY handelt. XY kann an dieser Stelle dann auch wirklich alles sein. Sei es der wahre Patriot, Handwerker oder Meister in einer Kunst deiner Wahl. Ganz speziell könnten wir es auch auf „den wahren Dark Souls“ Spieler beziehen der sich dadurch auszeichnet das er niemals fremde Hilfe akzeptiert und auch keinerlei Hilfsmittel wie Waffen einsetzt. Offensichtlich ist meine Definition dieser Dinge ein wenig lockerer aber im Prinzip läuft es immer darauf hinaus. Heute im Brennpunkt stseht der wahre Drache. Anscheinend unterscheidet man hier zwischen den uralten Drachen, das sind die mit den roten Blitzen und dann den noch etwas Neueren Drachlingen die ein wenig mehr wie klassische Drachen wirken. Wo jetzt genau die Unterscheidung in der Tiefe liegt vermag ich auch nicht zu sagen, aber so wie es scheint mögen die uralten Drachen die Drachlinge nicht. Ob die Drachenpriester jetzt übrigens wirklich voll Team Drache sind kann ich auch nicht sagen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 2, Aufnahme vom 01.07.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #10
+
+* Titel: `DLC - #10 - Charos verstecktes Grab [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Falls es explizit ein Grab von Charo gibt, habe ich es noch nicht gefunden. Diese Nachricht ist geschrieben aus der Perspektive von Episode 17. Aber vielleicht sind die wahren Gräber auch die Freunde die wir auf dem Weg gemacht haben. In diesem Fall finde ich tatsächlich einige Leute die mir bei meinen Reisen durch die schattigen Landen helfen. Zum Beispiel meinen besten Freund den Tibia See Fahrer. Aber auch jede Menge Vogelviecher sind mehr als nur willens mir einen Schnabel zu reichen. Ich weiß das sehr zu schätzen. Schließlich sind wir als Befleckte ziemlich einsam auf unseren Reisen. Das ist generell ein großes Thema. Wir sind grundsätzlich in einer ziemlich feindseligen Welt und viele Leute greifen uns einfach so an ohne jemals Fragen zu stellen. Da ist es fast schon eine Erleichterung jemanden zu treffend er mit uns spricht oder zumindest stumm den Weg zeigt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 2, Aufnahme vom 01.07.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #11
+
+* Titel: `DLC - #11 - feurige Fans [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode erwähnte ich wie glücklich ich darüber bin das ich jetzt endlich ein paar Freunde in Charons verstecktem Grab gefunden habe. Das war natürlich absolut optimistisch übertrieben. In Wirklichkeit hat absolut alles versucht mich zu töten und die einzigen beiden die mir überhaupt geholfen haben waren Latenna und meine Silberträne. Bei beiden weiß ich nicht einmal ob sie wirklich echte Personen sind die noch über Persönlichkeit verfügen. Die Träne ziemlich sicher nicht und bei Latenna muss ich zugeben habe ich nicht so richtig mitbekommen was genau jetzt eigentlich passiert ist als wir sie damals bei ihrem toten Wolf gefunden haben. Aber heute sieht das alles ganz anders aus. Wir finden jemanden der wirklich für uns brennt, jemanda der Feuer und Flamme für uns ist. Es könnte unser bisher größter Fan, oder vielleicht, in Hinblick auf den letzten Riesen, unser zweitgrößter Fan sein. Aber solche Details sollen uns nicht herunter ziehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 2, Aufnahme vom 01.07.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
 ##### #Nummer
 
 * Titel: ``

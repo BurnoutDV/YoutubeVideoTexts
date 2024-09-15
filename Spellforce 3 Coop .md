@@ -44,6 +44,91 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
   ```
 
+##### #3
+
+* Titel: `Spellforce 3 Coop - #3 - Reinheit des Lichts [Let's Play; ger; Blind]`
+
+* Beschreibung:c
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  In einer Welt in der sich Magie überall findet bildet sich natürlich auch eine Religion die gegen Magie ist. Das Ganze ist ein wenig perfide, aber so wie es meistens aussieht ist es so das nicht jeder in der Lage ist die arkanen Kräfte tatsächlich zu wirken. Dann kann es entweder darauf hinaus laufen das wie bei Wheel of Time (in der Age of Legends) magische Geräte gebaut werden die auch von Noobs bedient werden können, oder die mächtigen Magier zur herrschenden Klasse aufsteigen. Magie als Konzept hat die Schönheit das es geltende Regeln der Macht bricht. Im Witcher Universum gibt es nicht wirklich einen Machtunterschied bei Männern und Frauen, außer halt in der Interaktion mit der nicht-magischen Welt. Aber nur weil man mit Macht um sich wirft wird man ja nicht automatisch Weise um sich zurück zu halten. Man hat halt nur eine andere Art von Tyrann. Ein Klassiker ist es dann auch das sich die breite Bevölkerung gegen die Magiekundigen aufwirft, siehe auch die klassische Hexenjagd. Oder aber, auch wieder wie in Wheel of Time, man die Magier einfach versklavt, gerne auch mit der Hilfe eben jener Magier. Das passiert übrigens auch hier, so halb zumindest. Irgendjemand hat ein magisches Gerät gebaut um die Hexen und Zauberer der Welt auszubrennen, wahrscheinlich in dem Glauben das man selbst nie davon erwischt wird. Während wir übrigens beim Thema sind, ist es nicht kurios wie der Begriff Hexe/Witch negativ aufgeladen ist aber Zauberer/Mage eher nicht. Für das englische Sorcerer bin ich mir nicht ganz sicher, Hexenmeister kommt nicht gut weg aber das direkt übersetzte Warlock definitiv auch nicht. Zurück zum Thema, Reinheit des Lichts. Aber wir sind ja ein guter Magier nicht wahr? 
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 1, Aufnahme vom 16.05.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #4
+
+* Titel: `Spellforce 3 Coop - #4 - Liannons Umgebung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Und schon sind wir im Feldeinsatz. Wie immer in solchen Geschichten kann ich jetzt schon vorher sagen das wir am Ende dieser Mission irgendetwas finden das alles ändern wird. Oder irgendetwas geht so schief das wir danach nicht mehr Teil der Armee sind. Das hier ist ein Strategiespiel und wir werden wohl einen Grund haben das wir verschiedene Fraktionen gleichzeitig spielen können. Der Grund warum wir hier sind ist etwas das sich Blutseuche nennt. Darüber hinaus ist man erstaunlich sparsam mit Informationen was immer recht verdächtig ist. Ich weiß nicht was der Goldstandard in solchen Situationen wäre, aber ein längeres Dossier das wie eine Fallakte aufgebaut ist zu erhalten wäre schon irgendwie hilfreich. Informationen wo und wie viel beobachtet wurde. Ein uneingeschränktes Bild auf die Situation, mit welchen Bedrohungen zu rechnen ist und was man bisher alles erfahren hat. Stattdessen kriegen wir eine subjektive Zusammenfassung auf was war und was man denkt was ist. Ohne das es besonders viel Grundlage dafür gibt. Das ist besorgniserregend. Aber vielleicht handelt die menschliche Armee ja immer so, was weiß ich schon.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 1, Aufnahme vom 16.05.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #5
+
+* Titel: `Spellforce 3 Coop - #5 - Elfen Blockade [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Wie genau Elfen im Spellforce Universum funktionieren weiß ich nicht, aber in der Regel sind sie irgendeine Art von Fee die ein wenig menschlicher als die eigentlichen Bewohner des Feenreiches sind. Oder es gibt direkte Überschneidungen. Die neueren Elfen die oft in Spielen vorkommen sind sogar ziemlich menschlich. Quasi Menschen mit spitzen Ohren und ein wenig mehr Arroganz. Eine oft postilierte Auswirkung eines lange Lebens ist das man Pläne macht die ein wenig mehr als nur drei oder vier Jahre umspannen. Das bedeutet auch das man selten direkt und mit Macht eingreifen muss. Zum einen sind die eigenen Taten lange vorher geplant, zum Anderen findet sich über lange Zeit ein anderes Mittel als stumpfe Gewalt. Die Dinge haben quasi einfach mehr Trägheit, wenn man früh genug lenkt kann man eine Menge ohne Kraft erreichen. Daher ist die Anwesenheit der Elfen in Liannon ein wenig seltsam, bzw. ihr direktes Eingreifen. Aber da wir Befehle haben ist das irgendwie dann auch egal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 1, Aufnahme vom 16.05.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #6
+
+* Titel: `Spellforce 3 Coop - #6 - Verraten und Verurteilt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Es hat eine ganze Weile gedauert, aber jetzt ist es endlich soweit, wir werden Verraten, Hintergangen und natürlich auch Verurteilt. Das Alles hat erstaunlich lange gedauert und es geht immerhin nicht auf eine große Verschwörung zurück. Viel mehr war es eine einzelne Person die über so viele Jahre keinen Frieden machen konnte und nicht in der Lage war eine Person von einer anderen zu trennen. Das ist ein wenig schade, aber letztendlich können wir auch nichts daran ändern. Und für die Geschichte war es natürlich sehr wichtig das wir verraten wurden. Wie sonst könnten wir selbst und ohne die Ketten eines Oberkommandos Entscheidungen fällen? Jetzt brauchen wir nur noch eine Möglichkeit unserer Hinrichtung zu entkommen, das ist aber alles gar kein Problem. Wir sind doch der Protagonist und das bedeutet das sich bestimmt noch ein Weg finden wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 2, Aufnahme vom 18.05.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #7
+
+* Titel: `Spellforce 3 Coop - #7 - Flucht aus der Wolfschanze [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Letzte Episode noch verurteilt und schon geht es weiter. Jetzt wird es Zeit für eine ordnungsgemäße Flucht. Das große Problem mit Welten in denen es Magie gibt ist das, das Magieanwender entweder ernsthaften Beschränkungen auferlegt werden müssen oder einfach viel zu mächtig sind um im Knast aufbewahrt zu werden. Im Witcher Universum gibt es Deneritium das Magie unterbindet, woanders ist fließendes Wasser ein ernsthaftes Problem oder man braucht Handschuhe um vernünftig Magie zu wirken. Wie genau Magie im Spellforce Universum gewirkt wird kann ich noch nicht ersehen, aber es scheint so zu sein das man zumindest einen Fokus verwenden kann um es effizienter zu machen. Und dann gibt es da noch diesen Helm der Leuten die der Magie mächtig sind das Gehirn rausbläst. Das ist natürlich auch absolut fantastisch. Oder natürlich man lässt die entsprechenden Gefangenen nicht eine Sekunde alleine und richtet sie direkt nach Urteilsverkündung hin. Da dies nicht passiert vermute ich einmal stark das wir entkommen sollten. Ah, eine Möglichkeit habe ich noch vergessen, in Dragon Age gab es den Remote Killswitch gegen den man nicht vorgehen durfte. Das hat mich immer geärgert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 2, Aufnahme vom 18.05.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -52,4 +137,54 @@
 
   ```markdown
   Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: `Spellforce 3 Coop - #34 - zwielichtige Partnerschaft [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Vertrauen ist etwas Gutes. Umso tragischer ist es das irgendwann in der jüngeren Vergangenheit Leute angefangen haben Vertrauen als eine Art freies Beutegut wahrzunehmen das man noch nicht ausreichend finanziell ausgebeutet hat. Konkret gemeint sind windige Flyerverteiler in der Fußgängerzone, Taschnendiebe die Notlagen vorspielen um Möglichkeiten zu schaffen oder Scammer die am Bahnhof so tun als würden sie nicht nach Hause kommen weil sie ihr Portmonee verloren haben. Wo man in einer idealen Gesellschaft locker einer Person in Not helfen kann ist es in einer Welt in der man damit rechnen muss das man eine ausgestreckte Hand direkt verliert nicht so einfach. Insofern ist ein Bündnis mit einem Typen den wir grade mitten in der Wüste kennen gelernt haben und der uns irgendwie anbietet bei einem Problem zu helfen eventuell ein wenig sketchy.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 7, Aufnahme vom 07.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #35
+
+* Titel: `Spellforce 3 Coop - #35 - Sippenfresser & Zwergenfresser [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Es gibt verschiedene Arten von Leuten. Stellen wir einmal zwei Typen vor: Typ 1 erstarrt in Ehrfurcht wenn er oder sie von einem uralten Bösen versiegelt hinter einem Altar hört. Dann wird noch erwähnt das ein Blutopfer das Übel auf lange Zeit wieder wegsperren könnte und die große Zeit der Entscheidung beginnt. Dann, mit schweren Herzen opfert sich der große Held für das große Alles oder einer der ebenso heldenhaften Begleiter springt in das Feuer um die Welt ein weiteres Mal zu retten.
+  
+  Typ 2 hört das es hier Erfahrungspunkte, Ruhm und Ehre zu holen gibt und unter Umständen sogar noch ein paar seltene Artefakte. Wenn das uralte Böse nicht sterben wollte hätte es nicht aus Erfahrung gemacht sein sollen.
+  
+  Typ 2 besitzt höchstwahrscheinlich eine Quicksave Taste oder hat eine sehr hohe Meinung von sich selbst. Aber so ist das wenn man seine Taktik damit plant das man eventuell ein paar Anläufe braucht und dann über die Möglichkeiten herüber iteriert.
+  
+  Wir sind absolut Typ 2.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 7, Aufnahme vom 07.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
   ```

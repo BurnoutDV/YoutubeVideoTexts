@@ -11126,6 +11126,137 @@
   Aufnahme vom 09.12.2023 - #1923 - ##102
   ```
 
+## Gold Road
+
+##### #1924##1
+
+* Titel: `Let's Play ESO #1924 ##1 - Gefangene des Schicksals [Gold Road Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 1 des Gold Road Prologs - Sitzung 1
+  
+  Die Bedrohung die das plötzliche Aufhören der Realität mit sich bringt ist immer noch nicht vorbei. Ich habe mich übrigens exakt überhaupt nicht damit beschäftigt worum es eigentlich im „Gold Road“ DLC geht. Das habe ich jetzt aber trotzdem für mein hart erarbeitetes Geld erworben. Aber der Reihe nach, anscheinend gibt es ja einen Prolog den wir zu erst spielen müssen. Daher tun wir das und hier sind wir. Beim Prolog. Eine mögliche Erklärung für den Titel die eventuell am Ende völlig falsch ist, ist die das es sich bei Ithelia, der Daedra der Pfade um eine Multiversumsgeschichte handelt. All die vielen Pfade die zu möglichen Zukünften führen sind ein wenig unüberschaubar, aber was ist wenn es einen goldenen Pfad gibt. Eine Straße die zu der best möglichen Zukunft führt? Als Konzept wäre dies bereits ziemlich dumm, schon alleine weil es ein wenig schwer ist zu bestimmten was für eine Art Zukunft für alle erstrebenswert ist. Eine in der die Realität noch existiert wäre natürlich günstig, aber es gibt da doch bestimmt Nuancen. Und am Ende stellt sich doch auch die Frage: Wie viel entscheiden wir wirklich selber?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 09.09.2024 - #1924 - ##1
+  ```
+
+##### #1925##2
+
+* Titel: `Let's Play ESO #1925 ##2 - Mephalas Strang der Geheimnisse [Gold Road Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 2 des Gold Road Prologs - Sitzung 1
+  
+  Wir jagen anscheinend einer Spur hinter her. Einer Spur die sich durch die Realität gräbt und für uns jetzt auch sogar sichtbar ist. Diese Spur wird unser Fährte die wir aufnehmen um den freien Dremora Torvesard zu verfolgen. Wir wissen mittlerweile Einiges über ihn, und doch frage ich mich doch sehr warum es nur den einen gibt. Wurde das beim letzte Mal schon geklärt oder wurde es wirklich noch nie erwähnt. Warum gibt es nicht viele wie ihn? Eine ganze Armee aus treuen Dienern die alle nach einem Weg suchen ihre Fürstin wieder Realität werden zu lassen? So gesehen wissen wir nicht einmal warum sie nicht mehr existiert? Wie wurde sie aus der Realität geschnitten? Wie wurde ihre Geschichte vergessen. Irgendwie muss es einen halbwegs erklärbaren Weg geben diesen Umstand zu erklären, und was das angeht tapsen wir noch ganz schön im Dunklen. Immerhin wissen wir aber jetzt das Mephalas Strang der Geheimnisse irgendetwas damit zu tun hat. Nur das Was ist unklar.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 09.09.2024 - #1925 - ##2
+  ```
+
+##### #1926##3
+
+* Titel: `Let's Play ESO #1926 ##3 - Azuras Lampe [Gold Road Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 3 des Gold Road Prologs - Sitzung 1
+  
+  Ich werde nicht müde zu erwähnen das die gesamte Welt von Elder Scrolls sich quasi in der post-Apokalypse befindet. Oder vielleicht auch schon in der vierten Post-Apokalypse. Zivilisationen sind entstanden, aufgestiegen, gefallen und wieder verschwunden. Die Welt ist voll mit Ruinen von Orten einstiger Macht. Voll mit den verblassten Zeugnissen von dem was einst war. Aber meistens zu wenig um wirklich die Geschichte zu lernen. All das wäre längst vergangene Vergangenheit wenn es da nicht die Daedra und andere Wesen gäbe die sich erinnern. Den meisten Dremora gehen die individuellen Zivilisationen der Sterblichen wahrscheinlich eher am Allerwertesten vorbei, aber einige andere Schreiben mit. Und in all der Zeit kommen ziemlich viele magische Artefakte zustande die man, wenn man nur lange genug gräbt, wieder finden kann. Wir finden heute vielleicht eine alte Lampe die Azura mal gebaut hat. Das ist aus irgendeinen Grund wichtig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 09.09.2024 - #1926 - ##3
+  ```
+
+##### #1927##4
+
+* Titel: `Let's Play ESO #1927 ##4 - Boethias Klinge [Gold Road Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 4 des Gold Road Prologs - Sitzung 1
+  
+  Und natürlich ist die heutige Episode nach einem dritten Daedra benannt. Auffällig ist das es sich dabei um die Drei handelt die sich anscheinend auch damals mit Hermeus Mora verbunden haben. Ein wenig fraglich ist allerdings warum genau das notwendig war und was genau passiert ist das in einem unendlichen Konflikt irgendjemand davon überzeugt werden konnte den Status Quo zu brechen. Ithelia hat theoretisch schon  ziemlich lange existiert, warum auf einmal war es notwendig etwas gegen die bloße Existenz eines Daedra zu tun? Das ist ein wenig unklar für mich. Außerdem lesen wir heute ein paar Bücher vor, ich habe Timestamps hinterlassen damit man diese gemütlich überspringen kann. Inhaltlich sind sie aber sehr interessant. Nicht weil wir eine Menge daraus lernen sondern weil die Geschichte aus der Perspektive khajitischer Daedra Anbeter sich recht faszinierend liest, auch wenn ich nicht viel Zusammenhang herstellen kann.
+  
+  0:00 Gameplay
+  16:27 BUCH: Die Klingenlieder von Boethra Band II
+  20:07 Gameplay
+  25:23 BUCH: Die Klingenlieder von Boethra Band III
+  28:29 BUCH: Die Klingenlieder von Boethra Band V
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 10.09.2024 - #1927 - ##4
+  ```
+
+##### #1928##5
+
+* Titel: `Let's Play ESO #1928 ##5 - Holomayan-Kloster [Gold Road Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 5 des Gold Road Prologs - Sitzung 1
+  
+  Ein Kloster ist ein Ort des Rückzuges, ein Refugium um sicher äußeren Einflüsse der Welt zu erwehren. Es ist wahrscheinlich einfacher sich einem Gott zu näheren wenn man nicht mit den mundanen Einflüssen des Lebens konfrontiert wird. Das es am besten einen möglichst gleichen Tag gibt der die Kreativität so wie möglich stimuliert ist wahrscheinlich ein angenehmer Nebeneffekt. Jetzt frage ich mich wirklich wer ursprünglich auf die Idee mit den Kloster gekommen ist? Waren es Adelige die zu viele Backup Söhne hatten die zeitnah entsorgt werden mussten ohne das es sich negativ auf die eigene Reputation auswirkt? Waren es Geistliche die Rückzugsorte schaffen wollten weil sie das mit der Religion wirklich ernst gemeint haben? Hat sich der eine Zustand zum Anderen entwickelt? Eine gute Sache an Klostern ist auf jeden Fall das sie Informationen erhalten in dem sie sie immer und immer wieder kopieren. Ärgerlich ist dann natürlich wenn sie zum zwanzigsten Mal die Bibel schreiben und dabei irgendwelche griechischen Texte überschreiben weil Pergament knapp ist. Immerhin kann das auf Nirn nicht passieren. Stattdessen wird mit anderen Inhalten überschrieben.
+  
+  0:00 - Gameplay
+  13:57 - BUCH: die Wandergeister
+  16:18 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 10.09.2024 - #1928 - ##5
+  ```
+
+##### #1929##6
+
+* Titel: `Let's Play ESO #1929 ##6 - Schrein der unweigerlichen Geheimnisse [Gold Road Prolog]y`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 6 des Gold Road Prologs - Sitzung 1
+  
+  Erneute frage ich mich wer die ganzen Dinger benennt die mit Hermeus Mora zu tun haben. Gibt es da so Richtlinien vom großen Loremaster der sagt das die Struktur immer auf den zweiten Blick nichts sagen sein muss damit man die Leute zum Denken bringt oder ist es eine einzelne Person die das einfach so leistet ohne das man da wirklich darüber sprechen muss. Wie dem aber auch sei, wir betreten heute den Schrein der unweigerlichen Geheimnisse. Ich würde, vom Namen her vermuten das man hier einen Ort hat der all dem Wissen gewidmet ist das unweigerlich zu einem Geheimnissen werden muss. Sei es verbotene Liebe, Schlachtpläne, Fetische, unerwiderte Liebe oder finstere Morde. All diese kleinen Dinge die nie irgendjemand wissen darf oder die für ach so süße Erpressung am besten geeignet sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 10.09.2024 - #1929 - ##6
+  ```
+
+##### #1930##7
+
+* Titel: `Let's Play ESO #1930 ##7 - Ereignisse auf Schienen [Gold Road Prolog]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 7 des Gold Road Prologs - Sitzung 1
+  
+  Die Definition von Schicksal ist die das das was geschehen ist geschehen musste und das was wir tun eigentlich keine Rolle spielt, jeder nur eine Figur in einer göttlichen Komödie ist und die Tat des Individuums im Spiel der Götter kein Gewicht hat. Fremdgesteuert wandert ein jeder durch die Welt, ewig im Glauben etwas zu bewirken aber letztendlich nur auf ein lange vorher bestimmtes Ziel hinrasend. Das große Motiv, ich erwähnte es bereits in einer anderen Episode in einigen Werken ist der freie Wille. Die Fähigkeit die Geschichte selbst zu beeinflussen und tatsächlich einen Unterschied zu machen. Ignorant für das was sein wird einen Vorschlaghammer an die Realität anzusetzen und das zu tun was auch immer richtig erscheint. Aus dem gleichen Grund kann Sotha Sil auch nicht wirklich eingreifen, oder Hermeus Mora, wer zu viele Pfade kennt wird zu sehr von der Last von dem was kommt gedrückt. Oder irgendwie so. Oder vielleicht wollen die die alle möglichen Zukünfte sehen auch einfach nur ein wenig subtiler vorgehen. Wie dem aber auch sei, ich stelle heute eine Theorie auf und freue mich schon ein wenig das ich danach direkt bestätigt werde. Schön.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 15.09.2024 - #1930 - ##7
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -188,3 +188,121 @@
   Sitzung 7, Aufnahme vom 07.09.2024
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
   ```
+
+##### #36
+
+* Titel: `Spellforce 3 Coop - #36 - das essentielle Katapult [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Wenn man vor hat eine feindliche Stellung einzunehmen ohne tonnenweise Leiternträger anzuheuern die sich darum kümmern das das gegnerische Tor aufgeht, dann braucht man wohl oder übel Belagerungsgerät. Es gibt natürlich noch die alternative Taktik die Verteidiger auszuhungern aber moderne Konservenhaltung oder einfach nur ein gut ausgerüsteter Keller machen solche Pläne zu einem kostspieligen Unterfangen. Ist es doch so das zum Aushungern auch immer zwei Seiten gehören. Die andere Seite muss auch die Belagerung am Laufen halten, also von allen Seiten Truppen in ausreichender Anzahl aufstellen und natürlich genügend Nahrung für die lagernden Soldaten parat haben. Das wieder rum setzt eine ordentliche Logistik vor raus die vielleicht nicht jede umherziehende Armee und sofort zur Verfügung hat. Aber wenn man jetzt ein Katapult hätte, am Besten noch auf einem hohen Hügel stehend, ja dann könnte man da doch was tun oder? Und deswegen ist das Katapult heute essentiell. Eigentlich brauchen wir es gar nicht, aber wir nutzen es dann natürlich trotzdem, schon alleine damit die Quest nicht fehlschlägt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 7, Aufnahme vom 07.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #37
+
+* Titel: `Spellforce 3 Coop - #37 - Whateleys Portalstein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Wir wollen auf eine Insel die sehr weit weg ist. Gleichzeitig sterben ziemlich viele Leute am Blutbrand weil sie anscheinend keine magischen Fähigkeiten haben. Das ist ein kleines Problem weil wir ja nicht wirklich Zeit haben um uns mit den Details von Hochseebooten zu beschäftigen. Also brauchen wir einen besseren Weg der am Besten auch noch wesentlich schneller ist. Ideal wäre es wenn irgendeine Vorläuferzivilisation sich irgendetwas ausgedacht hätte das es uns ermöglicht innerhalb von Sekunden über weiter Teile der Welt zu reisen. Und wie es der Zufall will gibt es natürlich eine solche Einrichtung, und das gar nicht fern von hier. Stellt sich doch glatt heraus das irgendeine Dude in Immerlicht namens Whateley genau an der Geschichte dran war. Ein wenig erfreulich auch das er keinen Erfolg hatte weil ihm irgendwie das gewisse Extra gefehlt hat. Das heißt wir können die ganzen Ähren einsacken und ordentliches Brot damit backen. Großartig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 8, Aufnahme vom 09.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #38
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #39
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #40
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #41
+
+* Titel: `Spellforce 3 Coop - #41 - der zweite Nexusstein [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Wir haben eine relativ antike Anlage die von einer Vorläuferzivilisation anscheinend im nicht besten Zustand überlassen wurde. Spannend ist auch das wir gar nicht wissen wo die Former eigentlich hin sind. Eventuell könnten wir sogar das Fermi Paradox hier bemühen. Eine der möglichen Lösungen ist ja auch das die Wesen eine höhere Daseins-Form erreicht haben und einfach nicht mehr physisch auf dieser Realitätsebene präsent sind. Es würde aber einiges dafür sprechen das das nicht alle Former sondern nur eine kleine Priester oder Herrscherkaste erreicht hat. Wichtig ist aber, die Former haben ihre Technik zwar nicht besonders leicht erkennbar gebaut, allerdings auch sehr robust. Will sagen, das Zeug kann wieder in Betrieb genommen werden. Wir brauchen nur ein paar Bauteile und schon summt der Laden. Und wie es der Zufall so will haben wir grade das zweite Bauteil gefunden und setzen das doch mal eben ein. Was wohl passieren mag?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 8, Aufnahme vom 09.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #42
+
+* Titel: `Spellforce 3 Coop - #42 - das Auge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Jede entsprechend alte Welt ist voller metaphorischer Indianerfriedhöfe die man beim Umgraben der örtlichen Erdmassen auffinden wird. Das wird dann besonders spannend wenn man weiß das es eine Vorläuferzivilisation gegeben hat die durchaus in der Lage war technische Einrichtungen zu schaffen die wesentlich langlebiger sind als das was man in der Jetztzeit baut. Oder in anderen Worten, die alten Massenvernichtungswaffen der Antiker liegen noch irgendwo im Dreck und wenn man zu lange wühlt findet man die auch. Und nur weil die Dinger noch potent sind muss das ja nicht heißen das die ganzen Sicherungsfunktionen auch noch genau so funktionieren wie sie es einst getan haben. Oder man gräbt irgendetwas Anderes aus das definitiv nicht dafür geeignet ist gefunden zu werden. Und das bringt uns dann direkt zum Auge. Hier kommt scheinbar das Signal her das den Blutbrand auslöst. Eigentlich kann es sich nur um ein abgestürztes Alienraumschiff oder überaus potente Magie-Waffe handeln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 9, Aufnahme vom 19.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

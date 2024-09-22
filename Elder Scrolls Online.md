@@ -11257,6 +11257,133 @@
   Aufnahme vom 15.09.2024 - #1930 - ##7
   ```
 
+##### #1931##8
+
+* Titel: `Let's Play ESO #1931 ##8 - in die Westaue [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 8 des Gold Road DLCs - Sitzung 2
+  
+  Und schon ist der Prolog vorbei und wir können uns endlich mit dem eigentlichen DLC auseinandersetzen. Gleich vorweg muss ich aber anmerken das ich mit der "Westaue" absolut gar nichts verbinde. Das Gebiet war in Oblivion, also TES IV damals ja irgendwie mit drin und bestimmt nicht ganz so groß, aber eine besondere Erinnerung ist mir daran nicht geblieben. Damals bin ich halt umhergesprungen und habe irgendwelche Daedrischen Portale geschlossen. Das erzeugt aber nicht unbedingt ein Gefühl der Nostalgie. Als damals das Morrowind DLC heraus kam da war das etwas Besonderes für mich weil Vvardenfell und alles was damit zusammen hängt ein eigenes Spiel war das in sich auch irgendwie weird war. Und weil ich das Spiel gespielt hatte als ich noch ein wenig jünger war. Das hat bestimmt auch geholfen. Wie dem aber auch sei, die Westaue ist anscheinend die Region rund um Skingrad und mir fällt spontan absolut nichts über die Stadt ein. Keine Identität. Aber das schaffen auch nur die wenigstens Spiele. Damit eine Stadt so etwas wie eine "Persönlichkeit gewinnt" müsste dort ein signifikanter Teil des Spieles sein oder der Ort eine gewisse Tiefe haben. Novigrad in Witcher 3 schafft das ja auch nur weil man wirklich viele Dinge dort tut. In einem Elder Scrolls Spiel sind die meisten Städte einfach nur Orte durch die man durchrennt, drei Sachen verkauft und ein paar Quests annimmt. In der Regel sitzt man ja nicht einen Abend in der lokalen Taverne und genießt die Atmosphäre oder so. Generell wartet man eher selten in simulierten Welten, und wenn doch, dann nur in Multiplayer.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 15.09.2024 - #1931 - ##8
+  ```
+
+##### #1932##9
+
+* Titel: `Let's Play ESO #1932 ##9 - Elenglynn [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 89 des Gold Road DLCs - Sitzung 2
+  
+  Ruinen. Das ist alles was wir jemals und immer besuchen. Ich finde das ein wenig deprimierend. Da haben wir ein ganzes Universum voller Macht und Dinge die Stein für die Ewigkeit bewahren können, daedrische Ebene die abgeschlossen von dem normalen Leben in Nirn sind und jede Menge anderer Taschenwelten die eigentlich nur darauf warten von uns erkundet zu werden. Aber egal wo wir hingehen, alles ist immer kaputt. Im Falle der Ayleiden ist es immerhin zu erwarten, ihre Städte haben eine gewisse Antipathie von den Menschen früherer Zeiten davon getragen. Dennoch würde ich gerne öfter einmal durch Orte laufen die so aussehen als wären sie vor fünf Minuten noch bewohnt gewesen. Ich fürchte allerdings das es hier eine gewisse technische Herausforderung gibt. Schon jetzt sehen viele Orte so aus als wären sie halb verlassen. Moos wächst überall und Holz scheint unbehandelt den Elementen ausgesetzt zu sein. Nie sehen wir neue Balken oder frisch geputztes Mauerwerk. Die Monstervielfalt in den künstlichen Höhlen ist übrigens auch nicht zu missachten. Es verwundert mich nur manchmal das die strukturelle Integrität noch erhalten ist obwohl scheinbar seit Jahrhunderten wilde Tiere "herumwohnen".
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 15.09.2024 - #1932 - ##9
+  ```
+
+##### #1933##10
+
+* Titel: `Let's Play ESO #1933 ##10 - Ithelia, Fürsting der Pfade [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 10 des Gold Road DLCs - Sitzung 2
+  
+  Die heutige Episode fange ich ziemlich ruhig an. Ich habe ehrlich gesagt nicht damit gerechnet das wir an diesem dunklen Ort irgendetwas finden das uns direkt weiter führt. Eher eine Spur, ein halb-kalter Hinweis auf das was als nächstes kommt und vielleicht ein paar Schriftfetzen der Leute die vor uns hier waren und bereits alle wichtigen Geheimnisse geborgen haben. Aber, weit gefehlt. Der Titel verrät es schon extrem, wir treffen heute einen Daedra. Ich muss dringend nachlesen wie das mit Daedra in der Zeit des Interregnums aussieht, aber es scheint so als das das der Drachenpakt nicht aktiv ist, eventuell weil niemand auf dem Thron sitzt und die Stadt für sich beansprucht. Das würde auch erklären warum es ein Abkommen von Kalthafen gibt. Generell und überhaupt kommt es aber auch ziemlich selten vor das wir irgendwelche Daedra in humanoider Gestalt treffen. Ithelia hat sich scheinbar enorme Mühe gegeben irgendwie gütig, ehrlich und verletzlich auszusehen. Ohne Zweifel handelt es sich um eine Täuschung, ihre Stärke ist physisch spürbar. Allem Anschein nach hat bereits ihre bloße Anwesenheit die Fäden des Schicksals in der Nähe zerstört. Das ist ja überhaupt der Grund warum wir sie hier gefunden haben. Ich frage mich allerdings ob die vergessliche Daedra nicht noch einige Jahrhunderte hier herumgestanden hätte wenn wir sie versiegelt hätten.
+  
+  0:00 - Gameplay
+  1:03 - Leonaud Niscels Tagebuch
+  2:29 - Gameplay
+  3:58 - Addons
+  4:33 - Gameplay
+  12:32 - Ithelia
+  19:46 - Gameplay
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 18.09.2024 - #1933 - ##10
+  ```
+
+##### #1934##11
+
+* Titel: `Let's Play ESO #1934 ##11 - das Rostwall-Anwesen [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 11 des Gold Road DLCs - Sitzung 2
+  
+  Ich bin zwiegespalten was gewaltige Anwesen angeht. Von einer reinen sozialen Sicht ist die Existenz von Anwesen einer entsprechenden Größe eigentlich schon ein klarer Verstoß gegen jede Gleichheit. Eine Gesellschaft die es erlaubt das jemand gewaltigen Flächen Land für sich alleine in Besitz nimmt und dann auch noch in der Lage ist dieses mit Dienern und Sicherheitsleuten (auch bekannt als "Ritter") dauerhaft zu besetzen spricht schon dagegen das es in der Gesellschaft als Ganzes Gerecht zugeht. Oder es gibt so gewaltigen Reichtum das einfach jeder ein Anwesen hat. Aber dann ist es nichts Besonderes mehr. Andererseits, neulich las ich die Geschichte einer Frau die ziemlich weit unten im englischen Adel, am Anfang ihres Lebens hat sie schöne Sommer auf dem Landgut ihres Vaters verbracht und als sie älter war war sie soweit unten in der Thronfolge das das ganze Besitztums Zeug sie nicht belastet hat. Aber immer halt mit der Option ein wenig auf dem alten Anwesen der Eltern abzuhängen. Die nicht ganz geringen Kosten die sowas mitbringt nicht zu vergessen. Und das ist etwas was ich schon gerne tun würde. In einem gewaltigen Gutshaus umherwandern und alle halbe Stunde in einem anderen Ohrensessel lesen klingt wie etwas das ich gerne tun würde.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 18.09.2024 - #1934 - ##11
+  ```
+
+##### #1935##12
+
+* Titel: `Let's Play ESO #1935 ##12 - das Rostwall-Anwesen [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 12 des Gold Road DLCs - Sitzung 2
+  
+  Eigentlich schaue ich es erst in der nächsten Episode nach, aber hier schon mal die Vorerkenntnis. Eine Legion sind 5200 Mann (oder auch Frau), nicht zwingend genau diese Zahl weil auch das römische Reich die ein oder andere Militärreform hatte und die Anzahl an Soldaten in der Legion daher ein wenig schwankte. Eine Legion besteht aus 10 Kohorten, wenn man von einer gleichen Verteilung ausgeht sind das also immer noch 500 Leute die jetzt einfach weg (und wahrscheinlich tot) sind. Das ist eine ganz schöne Menge. Militärische Gruppengrößen ist eine ziemlich wichtige Sache weil damit eine Menge Verwaltung zusammenhängt. Aber ich hätte vermutet das die kleine Abhandlung die tatsächlich im Rostwall Anwesen rumgestanden hat wohl eher 50 Bewaffnete waren. Das würde zumindest erklären das ein paar Leute verschwinden konnten ohne das es irgendjemand gesehen hat. Allerdings fragt man sich doch wirklich inwieweit es mit der Moral und dem militärischen Selbstverständnis ist wenn man nicht spätestens nach der zweiten Person die weg ist auf höchste Alarmbereitschaft geht. Oder muss man in der colivianischen Armee damit rechnen das man von seinen Kameraden exakt null vermisst wird und alle denken das man wohl geflohen ist. Einfach alle Soldaten als Zahlen zu sehen finde ich hier sehr vereinfacht. Das sind ja Kameraden die sich gegenseitig kennen und wahrscheinlich schon Einiges durch gestanden haben. Das da einfach jemand verschwindet und niemand findet das schlimm ist schon sehr sehr seltsam.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 18.09.2024 - #1935 - ##12
+  ```
+
+##### #1936##13
+
+* Titel: `Let's Play ESO #1936 ##13 - Rostwall-Katakomben [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 13 des Gold Road DLCs - Sitzung 3
+  
+  Wenn Orte einmal alt genug sind dann sind die Chancen ziemlich gut das man auch irgendwelche Kellergewölbe vorfindet. In einer Welt ohne Magie ist die Fähigkeit Dinge kühl zu halten nicht zu verachten. Leider haben die meisten Untergrundinstallationen außerdem den Nachteil das sie meistens ziemlich nass sind, das hängt auch ein wenig mit der Temperatur und dem Taupunkt zusammen, aber da sollten wir wohl besser nicht in die Details gehen. Ich bin mir immer noch nicht ganz so sicher wie weit verbreitet die Fähigkeit zur Magie wirklich ist. Offensichtlich sind alle Protagonisten aller Elder Scrolls Spiele immer dazu in der Lage, aber natürlich sind sie Helden. Ein gewaltiges Risiko in Tamriel ist aber auf jeden Fall das es sich um eine alte Welt handelt. Egal wo man baut man kann sich eigentlich absolut sicher sein irgendeine Vorläuferzivilisation schon einen Tempel an irgendeinen lang vergessenen, dunklen Gott gebaut hat. Ein wenig wie Indianerfriedhof nur krasser. Die Überraschung liegt also ungefähr bei Null als wir heute erfahren das irgendwelche dunklen Mächten den örtlichen Weinkeller als Angriffspunkt missbraucht haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 20.09.2024 - #1936 - ##13
+  ```
+
+##### #1937##14
+
+* Titel: `Let's Play ESO #1937 ##14 - Portalinvasion, Westauen Edition [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 14 des Gold Road DLCs - Sitzung 2
+  
+  Immer wenn grade die Gelegenheit günstig ist wird uns von dem Risiko erzählt das es eine akute Bedrohung durch eine Invasion von Außerhalb durch ein Portal gibt. Ansonsten wird das Thema quasi nie angeschnitten, nur wenn wir ganz schnell irgendwohin müssen dann können sich diverse Spezialisten auf einmal sehr gelenkt von Punkt zu Punkt teleportieren. Und zwar nicht irgendwo hin sondern genau da wo wir auch hin müssen. Im Falle der Ebenen des Vergessens ist die neuste Instanz davon immerhin halbwegs verständlich. Leramil hat die wahrscheinlich explizite Zustimmung von einem Ort zum Anderen zu kommen. Aber wie ist das auf Nirn? Wir haben uns bereits schon mehrfach von einem Sitz der Macht zu einem Anderen teleportiert. Klar, ganze Armeen so zu bewegen ist vielleicht aus verschiedenen Gründen praktisch kaum möglich, aber das ist auch gar nicht nötig. Bereits kleinere Einheiten die versteckt im Hinterland operieren und sich innerhalb von Minuten wieder entfernen können sind taktisch eine absolute Katastrophe. Von den Möglichkeiten im Rahmen der Spionage mal ganz abgesehen. Und doch, bis auf das eine Mal in Elsweyr wurde das nicht einmal erwähnt. Und bei der breiten Anwendungsmöglichkeit würde man doch erwarten das das Thema ein wenig öfter angesprochen wird oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 20.09.2024 - #1937 - ##14
+  ```
+
 ##### #Nummer
 
 * Titel: ``

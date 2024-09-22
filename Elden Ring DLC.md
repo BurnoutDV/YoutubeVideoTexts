@@ -510,6 +510,76 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
   ```
 
+##### #34
+
+* Titel: `Elden Ring DLC - #34 - Messmer der Pfähler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube das der Kampf gegen Messmer ziemlich anstrengend sein könnte. Ein wiederkehrendes Problem das ich aber außerdem sehe ist das die Schwierigkeit vor allem daraus besteht das ich keine Zeit habe Estus bzw. Tränentränke zu trinken. Die Pausen zwischen den einzelnen Angriffen reicht immer genau aus um eine schnelle Attacke rein zu bringen oder einer Sequenz auszuweichen. Aber wenn man sich heilen möchte stehen Gegner sehr oft einfach hyper aggressiv im Bild und tun ihr Bestes um den Heilerfolg zu negieren. Das ist auf Dauer ziemlich anstrengend, insbesondere wenn es bei wirklich jedem Gegner immer und immer wieder passiert. Das macht mir tatsächlich relativ wenig Spaß. Da ich diesen Umstand nicht andauern lassen möchte hole ich mir ein wenig Hilfe daher, ärgerlicherweise wird dadurch der Kampf wieder ein wenig zu einfach. Ich weiß es wäre ein wenig viel verlangt, aber ein anderes Pattern wenn man Gegner mit mehreren Summons oder Freunden bekämpft wäre wirklich sehr willkommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 7, Aufnahme vom 08.08.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #35
+
+* Titel: `Elden Ring DLC - #35 - Schattenbergfried [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin die Sache irgendwie verkehrt herum angegangen. Tatsächlich ist es so das das der Kirchenbezirk wohl eigentlich der hintere Teil der Festung gewesen wäre. Das hindert mich natürlich trotzdem jetzt nicht daran über die Wehranlagen zu laufen aber an sich hätten wir halt alles ein wenig andersherum angehen sollen. Das würde eventuell auch erklären warum wir relativ früh in unserem Erkundungsgang so viele Bosse getroffen haben. An sich kann man aber wohl kaum davon reden das wir die Sache falsch herum angegangen haben, schließlich war der Weg den wir gegangen sind durchaus möglich und ich bin mir tatsächlich keiner Schuld bewusst nur weil ich andersherum gelaufen bin. Nehmen wir uns jetzt also ein wenig die Zeit all die Ecken anzuschauen die ich übersehen habe bevor ich den anscheinenden Herren des Hauses erschlagen habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 7, Aufnahme vom 08.08.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #36
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``
@@ -590,7 +660,112 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
   ```
 
-##### #Nummer
+##### #54
+
+* Titel: `Elden Ring DLC - #54 - unüberwindbare Flammen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird bestimmt irgendwo erklärt. Leider habe ich diese Erklärung absolut verpasst und stattdessen und weiß daher nicht warum die Welt von irgendwelchen riesen großen Ofen-Golems bereist wird. Und eigentlich reisen sie nicht sondern Bewachen eher die Gegend. Warum genau sie das tun und für wen ist absolut nicht geklärt. Man würde ja erwarten das sie vielleicht im Namen Messmers unterwegs sind, weil dessen Hauptthema war ja eigentlich Feuer. Dann finden wir aber die alten Ofengesichter an Orten wieder die eigentlich überhaupt nicht Teil des großen Kreuzzuges sind. Warum sollte Messmer übertrieben große Feuer-Konstrukte an irgendwelchen Flüssen abstellen um dann was zu machen? Auf der anderen Seite wohnt Messmer auf seiner Burg und hat anscheinend die letzten tausend Jahre nicht so richtig Erfolg darin gehabt den von seiner Mutter befohlenen Feldzug zu Ende zu führen. Leider ist mir auch entgangen ob das Absicht war oder ob sich das eher irgendwie so ergeben hat. Aber das ist auch nur die übliche Fortsetzung von der Unklarheit wieso die Welt sich anscheinend in einem Zustand der Statik befindet.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 12, Aufnahme vom 13.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #55
+
+* Titel: `Elden Ring DLC - #55 - Kriegsaschentest [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ein leichtes und eigentlich gar nicht echtes Problem. Ich habe keine Magie in meinem Build aber ich falle andauernd über irgendwelche Zaubersprüche und Fähigkeiten die ich nicht einsetzen kann weil ich weder Glaube noch Weißheit habe und daher das meiste Zeug was es so gibt einfach nicht zur Verfügung steht. Das ist ärgerlich. Wirklich. Stattdessen bleibt mir aber noch die Möglichkeit übrig Waffen für meine Elemente zu verzaubern und dann die Fähigkeiten eben jener ins Spiel zu bringen. Es stellt sich doch glatt heraus das ich mittlerweile eine ganz schöne Menge an Kriegsaschen gefunden habe und daher richtig zur Tat schreiten kann. Da ein solcher Prozess ein wenig andauernd testen wir da heute. Ich kann nicht behaupten das ich das ideale Testfeld gefunden habe, aber wenn es um Sachen Effizienz geht gibt es da zumindest ein ganz gutes Benchmark in Form eines großen Feuergolems der besiegt werden möchte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 12, Aufnahme vom 13.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #56
+
+* Titel: `Elden Ring DLC - #56 - knappe Sprünge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich zu schnell mache ist das DLC ganz schnell vorbei und es gibt nichts mehr zu spielen. Wenn ich alles erkunde dann habe ich im Coop Run mit Jan und Alex gar nichts mehr zu sehen. Aber vor allem kann ich es eigentlich kaum ertragen ganz viele Stelle auszulassen. Wenn mir das Spiel also einen mächtigen Sprungpunkt gibt mit dem man anscheinend durch die Gegend springen kann dann muss ich den natürlich auch nutzen. Das schönen an den Geisterquellen, oder wie auch immer sie eigentlich heißen ist ja auch das sie sehr ungenau sind. Es ist absolut unklar wo genau es eigentlich überall hingehen kann. Durchaus gibt es die Chance das man mit ein wenig Geschick und Genauigkeit an Orte geraten die gar nicht vorgesehen waren. Oder vielleicht war das auch geplant nur nicht ganz so offensichtlich. Daher springe ich heute ein wenig öfter in die Luft. Und dann lande ich ganz kreativ.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 12, Aufnahme vom 13.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #57
+
+* Titel: `Elden Ring DLC - #57 - Romina, Heilige der Knospe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Pacing im Elden Ring DLC kommt mir ein wenig seltsam vor. Ich kann das nicht so genau in Worte fassen. Aber irgendwie fühlt sich das Spiel seltsam leer an. Heute stehen wir vor einem Boss und ich kann direkt sagen das ich ein wenig schummele, und mit schummeln meine ich das ich alle Möglichkeiten nutze die mir halt zur Verfügung stehen. Aber bis wir dort sind reiten wir durch größtenteils leere Gegenden. Und das ist glaube ich das Problem. Die Ruinen von Rauh sind wirklich ziemlich leer, aber die Tatsache das wir das Pferd nutzen können lässt den gesamten Ort noch ein wenig inhaltsloser erscheinen. Dieser lange Gang voller Sammlerbrut ist ja an sich ganz schön, und die Tatsache das der Boden mit Scharlach versucht ist macht das Ganze definitiv zu einem Erlebnis. Aber leider können wir das "Erlebnis" einfach ignorieren indem wir durchreiten und die meisten Gegner die uns sehen sind schon lang hinter einer Kante, also keine Bedrohung. Also reiten wir einfach durch eine Stelle die ansonsten eine ziemlich nervige Stelle gewesen wäre. Nicht das ich das jetzt wieder gut heißen will, aber die Größe des Ortes verstärkt nur umso mehr die Leere der Welt. Vielleicht ist das ja auch Absicht und uns soll ein toter Ort suggeriert werden, aber in mir übrig bleibt nur ein Gefühl der Leere.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 12, Aufnahme vom 13.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #58
+
+* Titel: `Elden Ring DLC - #58 - Siegelbaum [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe wirklich das Gefühl das ich ein Teil der Story irgendwie verpasst habe. Also klar, das Messmer irgendwie von einer magischen Flamme betroffen war und Marika ihn deswegen los geschickt hat. Okay. Aber da bleiben immer noch Fragen offen. Wie zum Beispiel wo das Schattenzeug überhaupt her kommt. Warum ist das überhaupt relevant? Wie kam es dazu und wie kann es sein das Messmer selbst sich nie die Mühe gemacht hat die 20 Minuten Reittour rüber zum Baum auf sich zu nehmen? Warum ist die Welt in genau dem statischen Zustand in dem sie grade ist, warum hat niemand irgendwie weiter gemacht. Was hat es mit St. Trina auf sich und warum ist es so wichtig Miquella zu töten. An sich reagieren wir ja auch nur auf die Dinge die uns die Welt entgegen wirft, aber ich habe schon irgendwie das Gefühl das mir ein wenig mehr Information fehlt als sonst. Klar, die ganzen FromSoft Spiele sind nicht dafür bekannt irgendwelche großen Expositionsblobs zu geben, aber die aktuelle Lage erscheint mir schon exzeptionell informationsarm. Warum überhaupt die Dinge benennen? An sich könnte auch jeder Gegner ??? heißen oder so. Nier Automata war da ziemlich gut drin und es hat auch funktioniert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 12, Aufnahme vom 13.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #59
+
+* Titel: `Elden Ring DLC - #59 - Enir-Ilim [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es geht immer noch zu schnell. Und außerdem sind wir schon wieder in etwas das ich nur als Sakralbau bezeichnen kann. Enir-Ilim erweckt zu keinem Zeitpunkt den Eindruck als würde hier irgendjemand harte körperliche Arbeit machen oder irgendwelche Dinge herstellen. Obwohl, in einer Welt voller Magie kann man bei einem neuen Gebet oder einer Anrufung wohl durchaus von einem Produkt reden das hergestellt wurde. So oder so, es handelt sich um einen heiligen Ort für die Leute die dort wohnen und wahrscheinlich außerdem um einen Magierturm wenn man sich die allgemeine Architektur anschaut. Außerdem erweckt alles ein wenig den Eindruck das es zu lange unter den Schatten stand und deswegen ein wenig zerfallen ist. Oder das war die Ästhetik die sie schon immer haben wollten und meine Einschätzung ist vollkommen falsch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 12, Aufnahme vom 13.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #60
+
+* Titel: `Elden Ring DLC - #60 - Weg zur Reinigungskammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kann nicht direkt sagen das ich weiß was ich tue. Oder wo ich eigentlich bin. Hier fehlen mir jetzt doch ein paar freundliche NPCs die mir ein paar Geschichte davon erzählen wo ich hier eigentlich bin oder was hier einst war. Stattdessen treffen wir eigentlich nur irgendwelche Dudes die ganz fest an Miquella glauben und vorher irgendetwas Anderes getan haben. Alles Dinge die in keinem direkten Zusammenhang zu dem stehen was wir hier tun und auch keine richtige Erklärung zu dem Liefern was wir grade tun. Oder auch nur warum. Das Warum ist generell kaum erklärt. In den Zwischenlanden hatten wir immerhin Gideon der grob gesagt hat das wir die ganzen Kinder von Marika erschlagen sollen. Technisch gesehen sind wir immer noch damit beschäftigt aber seit dem haben wir ja eigentlich auch neue Informationen erhalten oder? Handeln wir im Auftrag von Ranni? Warum ist Miquella überhaupt wichtig, anscheinend war es auch möglich den Erdenbaum abzufackeln ohne das wir alle Teile des Eldenrings zusammengesetzt haben. Was genau tun wir hier? Was hat es mit dem Schattenbau auf sich, und was genau wollen die anderen, wahren Pilger eigentlich machen? Und, ganz wichtig, warum ist uns jeder und alles feindlich? Könnten wir die Dinge nicht einmal in Ruhe durchsprechen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 13, Aufnahme vom 18.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #61
 
 * Titel: ``
 

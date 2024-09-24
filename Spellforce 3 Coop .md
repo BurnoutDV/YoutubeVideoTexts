@@ -287,6 +287,40 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
   ```
 
+##### #43
+
+* Titel: `Spellforce 3 Coop - #43 - Sentenza Noria [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Es gibt für mich zwei Wege ein großer General zu werden. Zum Einen kann man aus einer gut reichen Familie kommen und dann in Friedenszeiten durch eine Mischung aus Nepotismn und nicht völliger Inkompetenz in den Rängen aufsteigen. Alternativ ist man taktisch ein Genie und muss nie irgendwelche Kriege führen in denen die eigenen Chancen von Anfang an bei null liegen. Und auch ganz wichtig, niemand aus der Politik redet aus ideologischen Gründen und lässt einfach machen. So oder so setzt der Job wohl vor raus das man seine Leute und Materialien als prinzipiell opferbar sieht. Jede Truppe, jede Legion, jede Einheit letztendlich nicht mehr als eine weitere Zahl auf der Karte. Verluste sind natürlich zu minimieren, aber für das größere strategische Ziel kann es manchmal sein das man taktische Entscheidungen fällen muss die für das Individuum vor Ort eher schlecht sind. Als ein solcher großer General sieht und tut man gewiss viele Dinge die nicht ideal für die eigene Psyche sind. Oder man stumpft komplett ab, oder man sieht die eigenen Leute als eine andere Lebensform die man einfach opfern kann. Ich muss bei Sentenza übrigens immer an den Typen aus Gothic 2 denken. Das wollte ich noch los werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 9, Aufnahme vom 19.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
+##### #44
+
+* Titel: `Spellforce 3 Coop - #44 - Andra [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Die heutige Episode, und eigentlich auch die nächste ist ein wenig schwer in der Exposition. Auf den Inhalt möchte ich eigentlich gar nicht allzu sehr eingehen. Von der reinen meta-Sicht aus gesehen war das keine gute Episode weil wir beide langen Info-Dumps zugehört haben und sogar zwei Leute nichts machen konnten während man ab und zu manuell Dialoge durchklickt. Für die Präsentation der Story auf diesen Weg bin ich wirklich nicht bereit irgendwelche positiven Worte zu verlieren. Es ist ja nicht so das irgendwelche Dialogpfade existieren oder unsere Entscheidung irgendetwas endet. Statt also einer irgendwie animierten Sequenz klicken wir uns stumpf 30 Minuten durch Dialog der genauso gut auch eingedampft werden könnte. Auch so große Brocken Handlung in einem Stück zu geben finde ich sehr unschicklich. Wenn uns all die Dinge in einer Traumsequenz in der wir uns durchkämpfen müssen oder so erzählt worden wäre hätte man hier noch was machen können, aber so, ziemlich träge das Ganze.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 9, Aufnahme vom 19.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
+  ```
+
 ##### #Nummer
 
 * Titel: ``

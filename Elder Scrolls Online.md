@@ -11384,6 +11384,40 @@
   Aufnahme vom 20.09.2024 - #1937 - ##14
   ```
 
+##### #15
+
+* Titel: `Let's Play ESO #1938 ##15 - Ostumir [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 15 des Gold Road DLCs - Sitzung 2
+  
+  Wenn man sich so ein Reich anschaut dann besteht das aus jede Menge...intelligenten Wesen...oder auch in diesem Fall Menschen. Das erste Hauptproblem geht da los das wir die Annahme machen das die meisten Leuten irgendwie intelligent oder sogar schlau sind. Das geht dann alles in eine große Gesellschaftliche Debatte aber irgendwo müssen die ganzen Leute auch wohnen und idealerweise auch etwas für das Gesamtkunstwerk beitragen. Bei größeren Reichen kann man schon ziemlich gut Arbeit auf bestimme Orte "weg-spezialisieren" und dann bleiben Leute über die auf irgendwelchen Diwanen liegen können um Weintrauben zu essen. Soweit so gut. Auf der anderen Seite haben wir aber auch jede Menge Leute die wir gar nicht direkt verwalten, die einfach nur ihr Ding machen und gelegentlich sackt man ein paar Steuern ein und zieht seiner Wege. Ein solches Dorf war Ostumir. Das hat irgendwas mit Fischfang gemacht und ich hörte auch das der Boden in der Nähe recht reich an Nährstoffen war. Soweit so gut. Dann ist aber plötzlich ein Wald gewachsen und das war vorbei. Und das passiert auch nicht jeden Tag, das so ein Wald wächst. Immerhin wissen wir jetzt aber das der Wald tatsächlich gewachsen ist, und nicht einfach nur aus dem Nichts erschienen ist. Das widerlegt schon einmal einige meiner Theorien. Bei der Annahme von Intelligenz bin ich mir übrigens auch schon nicht mehr ganz sicher. Warum genau man ein Fischerdorf wieder aufbauen will obwohl die Ausgangslage wesentlich schlechter geworden ist erschließt sich mir beispielsweise nicht so ganz.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 20.09.2024 - #1938 - ##15
+  ```
+
+##### #1939##16
+
+* Titel: `Let's Play ESO #1939 ##16 - Grünsprecherin Sorilen [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 16 des Gold Road DLCs - Sitzung 3
+  
+  Das Berufsfeld des Grünsprechers sollten wir in der Theorie schon kennen aber es ist wirklich eine Weile her das wir uns mit der grünen Dame und dem Silvenar beschäftigt haben, aber ich bin mir sicher, irgendwo da wurden auch Grünsprecher erwähnt und wir sind auch einigen begegnet. Auch bekannt ist uns noch vage das Waldelfen in Bäumen wohnen die sie irgendwie verändert haben. In dieser Hinsicht sind sie hier den Dunmer gar nicht so unähnlich die ja quasi das Gleiche mit Pilzen machen. Allerdings muss ich feststellen das die Pilze in der Regel noch schlechter beleuchtet sind und immer ein wenig enger sind. Die meisten Baumbauten der Waldelfen scheinen mir relativ geräumig zu sein was für mich wirklich in Frage stellt wie sehr damit der Baum klar kommt. Müsste man nicht eigentlich U-Boot artige Gänge oder Höhle wie bei den Zwergen erwarten damit der Baum so wenig wie möglich gestört wird? So oder so ist die heutige Vertreterin Sorilen anscheinend eine alte Freundin von Beragon..und mir sofort ein wenig suspekt. Irgendetwas in ihrer Wortwahl und Auftreten lässt mich glauben das sie nicht vertrauenswürdig ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 20.09.2024 - #1939 - ##16
+  ```
+
 ##### #Nummer
 
 * Titel: ``

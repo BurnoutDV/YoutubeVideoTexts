@@ -767,6 +767,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1
 
 ##### #61
 
+* Titel: `Elden Ring DLC - #61 - Vordertreppe am göttlichen Portal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen Gründen gingen die wahren Gläubigen an die Glorie von Miquella davon aus das wir ebenso wie sie geleitet wurden und aus den gleichen Gründen in das Schattenreich gelangt sind. Mir ist wirklich absolut nicht klar wie sie zu dieser Entscheidung gekommen sind oder wie es überhaupt zu dieser Fehleinschätzung kommen konnte. Ehrlich gesagt weiß ich ja selber nicht warum ich bin oder was ich tue. Meistens gehen wir ja irgendwo hin und die anderen greifen mich zu erst an. Eine lange Kette von Selbstverteidigung könnte man quasi sagen. Insofern weiß ich nicht einmal ob ich wirklich da bin um Miquella zu töten, aber vielleicht sprechen ja meine Taten für sich davon das es darauf hinaus läuft. Auf jeden Fall sind jetzt Leute sauer das wir sie anscheinend getäuscht haben, ohne eigentlich jemals viel geredet zu haben. Immerhin waren diese Leute moderat hilfreich auf unserem Weg, und jetzt ist es wohl an der Zeit unsere Dankbarkeit zu zeigen. Ich spüre nichts dabei, nach so langer Zeit ist mein Bedauern völligen Unverständnis und Taubheit gewichen. Ich existiere um Leute zu hauen, und das tue ich, warum auch immer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 13, Aufnahme vom 18.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #62
+
+* Titel: `Elden Ring DLC - #62 - Königin Marigga [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir unsicher. Generell und überhaupt. Einfach bei Allem was die Lore angeht, oder die Hintergründe. Das habe ich eventuell schon zehnmal erwähnt aber es kommt mir immer wieder aufs Neue hoch wenn ich irgendwelche Gegner sehe die irgendwie seltsam sind. Der eine Yoda im Keller war ja ganz witzig, aber generell sind Halbmenschen irgendwie selbstironisch. Schon ganz am Anfang waren sie irgendwie harmlos und selbst die größereren Varianten sind maximal moderat gefährlich. Ihre größte Ausgabe, die Halbmenschen-Königin kann sogar Magie nutzen. Allerdings stellt sich mir hier ein wenig die Frage ob die Halbmenschen vielleicht die Einzigen sind die richtig leben, die Generationen haben und irgendwo in dieser eingefrorenen Welt weitermachen. Das würde vielleicht auch erklären wie es zu Namen wie Marigga kommt. Es klingt ein wenig so als gäbe es eine uralte Erinnerung an Marika aber die richtige Aussprache oder sonstige Details sind leider verloren gegangen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 13, Aufnahme vom 18.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

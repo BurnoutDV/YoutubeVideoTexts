@@ -321,14 +321,21 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
   ```
 
-##### #Nummer
+##### #45
 
-* Titel: ``
+* Titel: `Spellforce 3 Coop - #45 - das Allfeuer [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die Spellforce 3 Kampagne, im Coop
+  
+  Ein Held wächst an den Bedrohungen die sich ihm oder ihr entgegen stellen. Wenn gleich von Anfang an der letzte Bossgegner auftauchen würde hätte man minimale Probleme. Aber in der Regel passiert das nicht, oder der Boss besiegt unseren Protagonisten und wir müssen von ganz unten anfangen. Dann wird Stück für Stück die Schwierigkeit gesteigert bis wir vor dem letzten Endgegner stehen. In einer Welt wie Eo ist das alles nicht so einfach. Die großen Probleme liegen in militärischer Macht und soweit ich das erkennen kann gibt es zwar mächtige Individuen die zwar auch in ihrer magischen oder physischen Macht ordentlich was an den Verhandlungstisch bringen, aber letztendlich schlägt man eine Armee nur mit einer anderen Armee. Oder aber, man bringt so grob in der Mitte ein neues Prinzip rein das es erlaubt vorhandenen Gegnern wesentlich stärker zu sein. Zu diesem Zeitpunkt ist ziemlich klar auf was die Story hinaus läuft. Das große Werkzeug hier heißt Allfeuer. Anscheinend ist das was unter Magie für die Menschen, Elfen und Orks fällt nur ein schwacher Abklatsch von dem was die wahre Macht der Welt ist. Wenn man die richtigen Wege kennt dann geht da noch eine Menge mehr. Und damit ist dann auch plötzlich klar wie unser neuer Erzfeind Ronny die Welt erobern will. Fraglich ist auch ob es hier nicht noch einen negativen Zweiteffekt gibt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Spellforce 3 auf dem Multiplayer Slot.
+  Sitzung 9, Aufnahme vom 19.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOXrr9BKmjnOGc6dQUHKVoz
   ```
 
 ##### #Nummer

@@ -10973,7 +10973,7 @@
   Aufnahme vom 29.11.2023 - #1914 - ##93
   ```
 
-##### #1915 ##94
+##### #1915##94
 
 * Titel: `Let's Play ESO #1915 ##94 - Glyphik der Verborgenen Pfade [Nekrom]`
 
@@ -10990,7 +10990,7 @@
   Aufnahme vom 03.12.2023 - #1915 - ##94
   ```
 
-##### #1916 ## 95
+##### #1916##95
 
 * Titel: `Let's Play ESO #1916 ##95 - ein ungesundes Schicksal [Nekrom]`
 
@@ -11384,7 +11384,7 @@
   Aufnahme vom 20.09.2024 - #1937 - ##14
   ```
 
-##### #15
+##### #1938##15
 
 * Titel: `Let's Play ESO #1938 ##15 - Ostumir [Gold Road]`
 
@@ -11416,6 +11416,142 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
   Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
   Aufnahme vom 20.09.2024 - #1939 - ##16
+  ```
+
+##### #1940##17
+
+* Titel: `Let's Play ESO #1940 ##17 - Wildbrandsamen [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 17 des Gold Road DLCs - Sitzung 4
+  
+  Ich liebe es ja wenn uns ein neues Konzept vorgestellt wird ohne das dieses weiter erklärt wird. Wirklich. Das neue Konzept heißt übrigens Wildbrandsamen. Ich wüsste übrigens auch nicht wie man das irgendwie besser machen könnte. In der realen Welt, wenn nicht klar ist was etwas ist, dann gibt es eine Menge Namen, verschiedene Leute benutzen Begrifflichkeiten und allgemein ist eine klare Benennung der Angelegenheiten ziemlich schwer. In Filmen wird dann gerne eine Szene eingeblendet in der ein Team von Forschern sich schnell auf einen Namen einigt, dann stellt in der nächsten Szene einer der Eierköpfe den eigentlichen Protagonisten vor um was es sich eigentlich handelt und schon steht der Begriff fest. In Spielen bräuchte ein solcher Aufbau ziemlich viel Redundanz damit Spieler nicht daran vorbei laufen. Insofern kann ich das akzeptieren das wir sofort wissen wie die Dinge heißen obwohl eigentlich niemand etabliert hat um was es sich dabei handelt. Aber vielleicht kriegen wir ja später heraus das es dieses Ding schon früher gab. Sorilen ist mir mit jeder Sekunde übrigens suspekter.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.09.2024 - #1940 - ##17
+  ```
+
+##### #1941##18
+
+* Titel: `Let's Play ESO #1941 ##18 - Pfade des Chaos [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 18 des Gold Road DLCs - Sitzung 4
+  
+  Mittlerweile folgen wir Ithelia, zumindest dank der Prologe, schon eine ganze Weile und so richtig habe ich immer noch nicht verstanden inwiefern die Gute so schlecht für die Realität ist. Wir wissen das Hermeus Mora sich ziemlich eindeutig gegen sie ausgesprochen hat, aber das war es dann auch schon. Sie ist ein Daedra bzw. sogar ein Daedrafürst, Herrscherin und Avatar des Spiegelmoors, die Fürstin der Pfade. Daedrafürsten scheinen mir ihrer Aufgabe nicht wirklich verhaftet zu sein noch sind sie zwingend immer so wie sie jetzt sind. Weiter wissen wir das die Rolle übernommen werden kann, der Dude der früher Sheogorath war ist jetzt schon immer ein anderer Typ gewesen worden. Oder so. Das ist aber auch der einzige Fall von dem wir wissen. An sich handelt es sich um "et'ada" die sich ihr eigenes Reich erschaffen haben. Generell und überhaupt stehen wir damit nicht besser da als vorher. Aber der Datenpunkt ist der, das sie, allesamt, schon seit langer Zeit genau das tun was sie jetzt tun. Warum hat sich Ithelia vor relativ kurzer Zeit auf einmal dafür entschieden etwas zu ändern? Soweit ich das sehen kann langweiligen sich die jeweiligen Daedra schon seit wirklich langer Zeit in der Realität und außer ein paar Pläne die die Realität sofort beenden passiert da nichts. Und selbst diese Pläne haben jedes Mal auffällige Lücken, fast so als wollte jemand nicht das sie wirklich realisiert werden. Können wir also davon ausgehen das Ithelia vielleicht gar nicht so schlimm ist? Oder ist es extrem schlimm wenn es auf einmal mehr Akteure in der Realität gibt die ihren eigenen Weg bestimmen können so wie wir. Die meisten Welten funktionieren eher schwerlich wenn alle Leute Spieler sind. Wir wissen aber auch das Ithelia in späteren Ären nicht mehr vorkommt. Man fragt sich ob wir eventuell den guten alten Alduin Verbannungsmove machen und Ithelia weiter in die Zukunft versetzen. Allerdings habe ich keinerlei Hoffnung das Bethesda dann in ES VI die Geschichte gut umsetzt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.09.2024 - #1941 - ##18
+  ```
+
+##### #1942##19
+
+* Titel: `Let's Play ESO #1942 ##19 - verblasstes Scharlachrot [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 19 des Gold Road DLCs - Sitzung 4
+  
+  Die kleine Nebengeschichte die wir uns heute anschauen wird überraschend lange dauern. Das liegt eventuell daran das sie nicht regional begrenzt ist und wir überraschend weit umherreisen. Hätte ich das gewusst wäre ich eventuell später wieder gekommen, aber so ist das mit den Dingen und dem Fluss der Zeit, aus der Natur der Sache heraus kann ich nicht wissen was gewesen sein wird weil ich sonst nicht getan hätte was ich tuen werde und dann existiert die Zukunft von der ich vorher wusste nicht mehr. Also tat ich was ich tat. Viele Worte um zu sagen das die Geschichte die uns erzählt wird ziemlich schlecht ist und ich das auch in Episode 1946 noch einmal ein wenig mehr ausführen werde, wenn auch etwas ad-hoc. Davon abgesehen betreten wir heute zum ersten Mal den örtlichen Unterschlupf der Gesetzlosen und wieder handelt es sich um einen enorm feuchten Ort. Ich frage mich wirklich wie die Leute hier das mit der Gesundheit machen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.09.2024 - #1942 - ##19
+  ```
+
+##### #1943##20
+
+* Titel: `Let's Play ESO #1943 ##20 - die versammelte Bande [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 20 des Gold Road DLCs - Sitzung 4
+  
+  Ich habe bereits angedeutet das ich zum Zeitpunkt an dem ich das hier schreibe die Quest beendet habe und daher nicht mehr überrascht bin. Ich fasse einmal schnell zusammen wer die Scharlachroten überhaupt sind: ehemalige Legionäre unter dem Banner von Kaiser Morica, dem Langhauskaiser den wir aus einem vorherigen DLC halbwegs näher kennen gelernt haben. Der gute Mann war ziemlich ambitioniert und empfand es anscheinend als eine gute Idee zurückkehrende Truppen in den Tod zu schicken anstatt neu zu gruppieren und die vorherige Mannstärke wieder her zustellen. Völlig überraschend haben sich einige Teile der Truppe gedacht das zu fliehen eine sehr viel bessere Idee wäre. Die Scharlachroten selber waren anscheinend auch eher irreguläre Truppen, eine kleine Spezialeinheit, quasi Rogue Trader. Solche Leute eigenen sich für alle Geschichten die nicht Band of Brothers sind wesentlich besser weil man wesentlich diverser in der Aufteilung sein kann. Die vorliegende Truppe ist sogar so divers das keine einzige Rasse zweimal vertreten ist. Nennt mich altmodisch, aber wir sprechen hier immer noch von der kaiserlichen Armee in der ich irgendwie mehr als einen Kaiserlichen erwarten würde. Jetzt hat die Bande ein Problem. Irgendwie sind sie nach ihrer selbst induzierten, vorzeitigen Entlassung auf die kriminelle Bahn abgebogen und das gab dann weitere Probleme. Und jetzt sind hier.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.09.2024 - #1943 - ##20
+  ```
+
+##### #1944##21
+
+* Titel: `Let's Play ESO #1944 ##21 - Naku der Gräber [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 21 des Gold Road DLCs - Sitzung 4
+  
+  Ich habe wirklich Schwierigkeiten darüber hinweg zu kommen wie divers die Truppe der Scharlachroten eigentlich ist. Nicht nur haben wir alles repräsentiert, auch die Talente die man antrifft scheinen mir weit verteilt zu sein. Was mich glauben lässt das die Quest jede Menge Potenzial verschwendet. Zum jetzigen Zeitpunkt war eigentlich schon völlig klar was passiert ist. Familie tragisch im Feuer umgekommen, irgendein Familienmitglied hat überlebt und übt jetzt ein wenig spät Rache weil man nicht an die Leute im Knast ran gekommen ist. Langweilig, vorhersehbar. Wesentlich interessanter wäre es gewesen die einzelnen Leben der Mitglieder der Scharlachroten zu beleuchten, wie sie zur Legion gekommen sind und wie es danach weiter geht. Selbst die Tatsache das sie auch nach Moricars Tot immer noch als Deserteure galten ist eigentlich sogar interessanter. Klar, irgendwie wird wert auf Treue zum Kaiser hingelegt, aber wenn der tot ist und jemand Neues übernimmt möchte man doch eigentlich meinen das ein paar Amenstien ausgesprochen werden. Außerdem fraglich wie besagte Deserteure eigentlich nicht direkt nach ihrer Ergreifung hingerichtet wurden. Oder, warum zur Hölle sie eigentlich in der Westaue verblieben sind, an der Tatsache das sie Kaiserliche sind kann es ja echt nicht liegen. Anscheinend war ja Talent vorhanden. So viele Lücken über die man wirklich nur schwer hinweg sehen kann. Wenn die Kerngeschichte enorm gut oder packend wäre, dann vielleicht, aber so. So sehe ich an jeder Ecke Lücken. Naku ist übrigens ein Idiot, was für ein rassistischer Take auf Khajiit. Was wohl Razum-dar dazu sagen würde?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 26.09.2024 - #1944 - ##21
+  ```
+
+##### #1945##22
+
+* Titel: `Let's Play ESO #1945 ##22 - Caelum-Weingut [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 22 des Gold Road DLCs - Sitzung 4
+  
+  An anderer Stelle hätte man wohl gesagt das sich die Geschichte zuspitzt. Aber beim besten Willen, das passiert einfach nicht. Wir erinnern uns noch an den letzten großen Bruch im Weingut der von vorneherein eine schlechte Idee war, in der unser Hauptquestgeber Hooke leider die Observation gegen den Baum gefahren hat weil er die Hose nicht anhalten konnte und mit der Waldelfe in die Blätter springen musste? Völlige Überraschung, es stellt sich heraus das der ehemalige Hausherr von denen alle dachten das er tot sei hinter den Morden steht. Der, wie ich annehme, adelige Hausherr übrigens der, wie wir später erfahren, durchaus Freunde, Bekannte und Geschäftspartner hatte. Diese doppelte Relation benutze ich um deutlich zu machen das es quasi unmöglich ist das die Diebe nicht mitbekommen haben was passierte. Insbesondere weil die Wachen die gewiss genau wissen warum die Scharlachroten sitzen, das eventuell mal mitgeteilt hatten. Ich sehe hier eine Menge verschwendetes Potenzial. Natürlich, es muss ja nicht immer des Hausmeisters dritte Nicht sein die aus einen völlig anderen Grund Rache übt. Aber so plump beleidigt meine Intelligenz. Ich habe den Verdacht das der Plot für 12-jährige verständlich sein soll. Aber nur weil auf einem Spiel "ab 12 Jahre" drauf steht heißt das ja nicht das man nicht ein wenig anspruchsvolle Geschichten schreiben kann. Die Plotholes werden übrigens weiter mehr. Aber da ich mich bereits in der Episode selbst aufrege, belasse ich es einfach dabei. Allerdings will ich noch einmal hervorheben wie ausgebildete Soldaten die an Feldzügen teilgenommen haben und sogar sowas wie Spezialisten waren, wie kopflose Hühner in Panik geraten und sich von einem Adeligen(?) ohne nennenswerte Ausbildung (außer als Winzer) überrumpeln lassen. Insbesondere die Waldelfe die mehr oder weniger in einer Stadt ohne Mauern zur Natur wohnt. Ernsthaft?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 26.09.2024 - #1945 - ##22
+  ```
+
+##### #1946##23
+
+* Titel: `Let's Play ESO #1946 ##23 - Marcan Caelums Agonie [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 23 des Gold Road DLCs - Sitzung 4
+  
+  Und damit sind wir dann wirklich am Ende der scharlachroten Saga. Ich hoffe wirklich das ich die Charaktere nicht noch einmal wiedersehen muss. Oder sie wenigstens Großartiges erlebt haben wenn wir sie bei der Siegesfeier alle wieder sehen. Über die Geschichte ist alles gesagt denke ich. Also ein anderer Gedanke. Ich lass neulich den Titel eines Artikels "was tun wenn der Partner jung stirbt" also im Sinne von Krankheit. Außerdem sah ich erst gestern eine Arte Doku über das Leben von Franz Kafka der mit 41 an Tuberkulose starb und erst wenige Jahre mit Dora Diamant zusammen lebte. Über Dora hat niemand gesprochen, nur über Kafkas besten Freund der seine Unterlagen entgegen seines Wunsches, nicht verbrannt hat. Wie ging es mit Frau Diamant danach weiter. Ich google das mal eben, aber die Frage die sich mir auch stellt, die ich wohl gleich nicht erfahren werde ist, wie ging es ihr dabei? Wie ist es jemanden zu verlieren der einen so nahe steht. Kann man einfach weiter machen oder ist da dann ein Loch das nie wieder weg geht. Macht man sich Sorgen das man nicht der Leiche des Partners hinterher ins Feuer gesprungen ist? Dora hat übrigens noch geheiratet und starb dann mit 54 an Nierenversagen. Ihre Hingabe zu Kafka hat aber nie jemand bezweifelt. Frau Diamant hat also so stark weiter gemacht wie man nur konnte. Unser Antagonist der Geschichte hier konnte das wohl nicht. Die Geschichte von einem Familienvater der die Vergangenheit nicht ruhen lassen kann ist ziemlich alt und kommt immer wieder auf. Gegen dieses Gerüst habe ich nichts, aber wenn der Bösewicht erst in Akt fünf überhaupt nur inhaltlich erwähnt wird ist es vielleicht ein wenig spät um irgendetwas zu fühlen. Ich persönlich habe exakt null Verbindung zu der Person. Ein paar Briefe ersetzen einfach nicht eine enorm schwache Geschichte ohne vernünftigen Aufbau. Immerhin das deutsche Voice Acting von Marcan Caelum möchte ich noch einmal lobend hervorhebend. Die Schreie der Agonie waren großartig.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 26.09.2024 - #1946 - ##23
+  ```
+
+##### #1947##24
+
+* Titel: `Let's Play ESO #1947 ##24 - Bitterfisch und Scharfzahn [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 24 des Gold Road DLCs - Sitzung 4
+  
+  Neue Nebenmission, neues Glück! Heute geht es um Goblins, außerdem bin ich tief in mich gegangen und möchte weniger kritisch sein. Wir haben also folgende Prämisse, völlig überraschend greifen nahe Goblinstämme die vorher sehr friedlich waren die Nutztiere der umliegenden Farmen an. Glücklicherweise ist eine renommierte Goblinforscherin in der Nähe und außerdem bietet ein Experte für die Goblinjagd seine Dienste feil. Außerdem ist die Nicht des Gutshofbesitzers verschwunden. Das eben jene Nicht die Person war die uns überhaupt auf die Fährte geführt hat möchten wir an dieser Stelle aber kurz verschweigen, als kleineres Detail ist das bestimmt nicht weiter wichtig oder? Die erste Schlussfolgerung die ich habe ist die das der Goblinjäger sich selber Arbeit schafft. Ob das richtig ist sehen wir immer hin schon am Ende dieser Episode was eine erhebliche Zeitersparnis im Vergleich zur letzten Mission ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 26.09.2024 - #1947 - ##24
   ```
 
 ##### #Nummer

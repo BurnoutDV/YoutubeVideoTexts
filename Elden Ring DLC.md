@@ -795,12 +795,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
   ```
 
-##### #Nummer
+##### #63
 
-* Titel: ``
+* Titel: `Elden Ring DLC - #63 - der ewige Tanz [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Mir ist beim besten Willen nicht mehr klar wo ich noch hin muss. Interessanterweise gibt mir hier der Coop-Run ein paar gute Ideen und ich werde später, also in zukünftigen Episoden merken das ich wirklich ziemlich blind war. Aber Eines nach dem Anderen. Für den Moment laufe ich sinnlos durch die Gegend und besiege nebenbei noch einen Gegner den ich für wesentlich stärker gehalten hätte. Die orientalische Tänzerin mit dem ewigen Tanz-Weapon-Art zu cosplayen halte ich übrigens für nicht besonders produktiv. Einfach weil es nicht einmal den Ansatz von Hyper-Armor gibt. Ich weiß wirklich nicht was das werden soll. Aber mit der Rüstung rennen wir jetzt einmal quer durch die Welt. Weil ich kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 13, Aufnahme vom 18.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
   ```

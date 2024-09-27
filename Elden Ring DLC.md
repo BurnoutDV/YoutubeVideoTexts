@@ -809,3 +809,88 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1
   Sitzung 13, Aufnahme vom 18.09.2024
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
   ```
+
+##### #64
+
+* Titel: `Elden Ring DLC - #64 - Ofengesicht Geheimnisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel ist natürlich, wie so oft, absolut irreführend und gar nicht einmal so richtig richtig. Fakt ist das die meisten Ofengesichter einfach umkippen wenn man sie lange genug am Kopf haut. Außerdem heißen die Viecher gar nicht Ofengesichter sondern das ist was sie droppen. Und wenn man weiß das die Ofengolems wohl auch Ofengesichter sein könnten dann braucht man auch keine Hilfe mehr. Fakt ist, wenn man oben Feuertöpfe rein wirft dann wird alles ganz doll schlimm. Aber nur die richtigen Feuertöpfe. Die Kleinen machen einfach gar nichts. Wofür die großen Golems jetzt gebraucht werden ist mir übrigens immer noch nicht ganz klar, ich würde vermuten zum Schmelzen von Scadabaum-Harz weil das ist was wir in ihnen finden, aber so richtig klar ist es mir wirklich nicht. Immerhin erfahren wir heute ein wenig von ihnen. Das ist doch etwas oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 14, Aufnahme vom 26.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #65
+
+* Titel: `Elden Ring DLC - #65 - Ruinierte Schmiede von Taylew [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mag die Schmieden für das was sie sind und würde mir fast wünschen das sie ein wenig länger wären oder vielleicht sogar ein wenig fabrikartiger wären. Wie genau das aussehen mag kann ich jetzt spontan auch nicht sagen, allerdings scheint ja grundlegend die Einrichtung für wesentlich mehr Produktion vorhanden zu sein. Leider wird wohl alles von irgendwelchen Golems erledigt und wie genau das funktioniert wenn es keine regulären Wege von einem Ort zum Anderen gibt kann ich jetzt auch nicht sagen. Auf der anderen Seiten bin ich auch enorm von den Schmieden genervt weil ich einfach nicht gut darin bin sie zu besiegen. Irgendwie klicken die nicht bei mir, ich renne sinnlos umher und lasse mich hauen. Das nervt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 14, Aufnahme vom 26.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #66
+
+* Titel: `Elden Ring DLC - #66 - Ruinen der Tempelstadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das es ein ganzes Gebiet gibt das ich komplett übersehen habe stört mich immer noch sehr. Immerhin war der Weg dahin nicht ganz so offensichtlich wie ein gewisser anderer Pfad den ich ebenfalls völlig übersehen habe. Das beruhigt mich ein wenig, dennoch hätte ich doch wohl in der Lage sein sollen diesen Weg zu finden aber war es nicht. Nun können wir uns endlich die roten Dächer näher anschauen die ich schon vor langer Zeit auf der Karte erspäht hatte. Nur das es sich nicht wirklich um Dächer handelt sondern um gewaltige Tücher die wir auch schon in der Grabfeld Ebene angetroffen haben. Zumindest ein sehr ähnliche Design, nur leicht anders, aber doch irgendwie gleich. Nicht zu vergessen, ein leichtes Sprungrätsel.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 14, Aufnahme vom 26.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #67
+
+* Titel: `Elden Ring DLC - #67 - Bären und Skorpione [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Ort an dem wir uns heute aufhalten nennt sich scheinbar "der Skorpionfluss". Das wissen wir weil wir später eine Höhle betreten werden die passenderweise "Höhle am Skorpionfluss" heißt, warum der Fluss diesen Namen erhalten hat ist zum Glück relativ selbst erklärend. Warum es in dieser Welt nicht nur sehr nervige Bären sondern auch noch gewaltige Skorpione und dann das Gleiche auch noch in fliegend geben muss kann ich wirklich nicht erklären. Immerhin ist hier ein wenig Abwechslung dabei, und wenn man sich ganz doll anstrengt kann man sogar etwas finden das wohl unter den Namen "Bärenanrufung" fällt. Ein ganz neuer Covernant den es vorher nicht gegeben hat. Ist das nicht spannend? Allerdings bezweifle ich das wir noch viel andere Anrufungen dieser Art finden, dafür mangelt es einfach zu sehr an Orten die wir noch besuchen können an denen Bären Sinn ergeben würden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 14, Aufnahme vom 26.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #68
+
+* Titel: `Elden Ring DLC - #68 - Katakomben am Skorpionfluss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Coop Run von dem ich zum Zeitpunkt an dem ich das hier schreibe noch keine einzige Episode veröffentlicht habe läuft ärgerlicherweise ein wenig parallel zu dem was wir hier tun. Das liegt unter Anderem daran das ich dort einen Typen namens "Jan" dabei habe der sehr gut darin ist Dinge zu finden und genau weiß was es bedeutet eine Karte richtig herum zu halten. In direkter Folge entdecken wir mit ihm Wege die ich alleine einfach völlig übersehen habe. Die Existenz von Jan sorgt aber auch dafür das ich bei vielen Problemen auch einfach sagen kann das ich mir das gar nicht näher anschauen muss weil früher oder später ein Jan vorbei kommt und das Problem einfach für mich löst ohne das ich denken muss. Das ist eigentlich sogar sehr schade. Schon allein die Verlockung das mir jemand hilft sorgt dafür das ich faul werde. Ich glaube nicht das ich das gut finde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 14, Aufnahme vom 26.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

@@ -11554,6 +11554,284 @@
   Aufnahme vom 26.09.2024 - #1947 - ##24
   ```
 
+##### #1948##25
+
+* Titel: `Let's Play ESO #1948 ##25 - Waffenstillstand gesucht [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 25 des Gold Road DLCs - Sitzung 4
+  
+  Es fällt mir zunehmend schwerer zu ignorieren das da draußen ziemlich viele intelligente Wesen herumliegen die eigentlich nur von einer ordentlichen memetischen Kultur davon entfernt sind ein wenig mehr als Futtergegner für niedrig levelige Helden zu sein. Goblins sind ein ziemlicher Standardgegner für angehende Weltenretter die es geschafft haben die Schleimphase zu überwinden und jetzt ein wenig mehr Erfahrungspunkte brauchen. Dann kommt noch irgendetwas Anderes und dann wären wir auch schon bei den Minotauren die ein wenig in der selben Situation sind. Wesen die offensichtlich alle Merkmale von Intelligenz und Bewusstsein haben die wir aber trotzdem ohne zu viele Fragen zu stellen abschlachten. Manche Medien anderer Fantasy Welten beleuchten hier gerne ein wenig. Da sind Goblins dann besonders aggressiv oder einfach nicht mit der restlichen Zivilisation kompatibel. Und das wäre alles in Ordnung wenn unser Roleplay damit anfangen würde das wir ziemlich harte Spezifisten wären und nur unsere eigene Zivilisation eine Rolle spielt. Aber so wie ich das sehe sind wir schon ziemlich inklusiv. Ich erinnere daran das auf Hochfels irgendjemand angefangen hat Neopronomen für Waldgeister raus zu holen. Das machen echt nicht viele Leute.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 03.10.2024 - #1948 - ##25
+  ```
+
+##### #1949##26
+
+* Titel: `Let's Play ESO #1949 ##26 - Ausflug nach Sunnamere [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 26 des Gold Road DLCs - Sitzung 4
+  
+  Die ganze Goblingeschichte war zu meiner großen Überraschung übrigens wirklich schnell gelöst und wir können zurück nach Skingrad reisen. Manchmal frage ich mich übrigens ob ich mir nicht eventuell doch vor einem DLC eine halbe Stunde Oberflächerecherche über die Features einer neuen Erweiterung durch zu lesen anstatt nur kurz den Marketing-Blurb zu überfliegen. Da stand bestimmt irgendwas von der Schriftlehre, aber so wie es aussieht ist das auch das Feature mit diesem Update. Meistens gibt es ja pro Jahr immer eine große neue Sache. Sei es eine Klasse wie den Nekromanten damals bei Elseweyr oder das ganze Begleitersytem. Wir beginnen heute die zweite Ära der Schriftgelehrten. Das ist quasi, so werde ich später heraus finden, das Magie Individualisersystem aus Morrowind das zum Glück überhaupt nicht missbrauchbar war. Ich frage mich wirklich ein wenig wo da die Richtung hingehen soll. Entweder es ist nutzlos oder super schwer zu balancieren. Oder unendlich langweilig was es auch gleichzeitig nutzlos machen würde.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 03.10.2024 - #1949 - ##26
+  ```
+
+##### #1950##27
+
+* Titel: `Let's Play ESO #1950 ##27 - Die Schriftlehre [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 27 des Gold Road DLCs - Sitzung 4
+  
+  Und schon sind wir mitten im Inhalt. Ich habe in der Beschreibung der letzten Episode ja schon erwähnt das es sich hier wohl um ein Crafting System handelt das uns noch Einiges an Zeit abverlangen wird falls es nützlich sein möchte. Ich weiß nicht so recht was ich von solchen System halten soll. Für mich als Story-Spieler ist es wohl eher unnötig weil ich niemals in Tiefe damit interagieren werde. Auf der anderen Seite gibt es hier jetzt jede Menge Geschichte und Lore über die Magiergilde die hier mehr oder weniger neu hin zu kommt. Qualitativ kann ich das alles noch nicht so richtig einschätzen, aber immerhin haben wir einen praktischen Tutor der uns die Basics erklärt und soweit klingt das auch alles noch interessant. Ich schreibe diese Worte aus der Perspektive zukünftiger Episoden und weiß das sich das hier alles ein wenig gezogen hat. Etwas zu lange meiner Meinung nach für die Tiefe des gezeigten Inhalts.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 03.10.2024 - #1950 - ##27
+  ```
+
+##### #1951##28
+
+* Titel: `Let's Play ESO #1951 ##28 - Schriftlehre Fragerunde [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 28 des Gold Road DLCs - Sitzung 4
+  
+  Neue Handwerkskunst, neue Fragen und natürlich auch neue Antworten. Ein ganz tolles neues System an dem man bestimmt lange gearbeitet hat. Spontan fallen mir nur das Kartenspiel und das Entdeckungssystem ein die ebenfalls ähnlich groß wirkten. Ich habe nicht mehr aktiv darauf geachtet weil ich nicht so viel Zeit in Mini-Spiele stecke, aber das Kartenspiel scheint mir nicht mehr so richtig aktiv mit Inhalten versorgt zu werden, auf der anderen Seite habe ich auch exakt null Wissen darüber was die Community denkt weil ich außerhalb von ihr agiere. Das Entdecken von Schätzen fand ich ganz interessant, aber da nicht so richtig eine Geschichte dabei erzählt wurde bzw. das als Let's Play wenig relevant erschien habe ich mich damit auch nie mehr als absolut notwendig aus einander gesetzt. Ein großer Fehler damals war das ich das System ein wenig zu schnell hab fallen lassen mit dem Vorsatz noch einmal zurück zu kommen. Praktisch lief das dann darauf hinaus das ich es nie wieder angeschaut habe. Deshalb nehme ich mir heute ein wenig mehr Zeit.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 06.10.2024 - #1951 - ##28
+  ```
+
+##### #1952##29
+
+* Titel: `Let's Play ESO #1952 ##29 - die zweite Ära der Schriftgelehrten [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 29 des Gold Road DLCs - Sitzung 4
+  
+  Und damit hätten wir es. Grundlegend haben wir dann wohl die Schriftlehre freigeschalten. Ein wenig schade ist allerdings das wir anscheinend noch genau null Macht auf der Fähigkeit haben und deswegen praktisch überhaupt nichts mit der Schriftlehre anfangen können. Dafür brauchen wir wohl die Hilfe eines sogenannte Erleuchteten. Etwas das sich später ein wenig so anhört als wäre es eine Art Mini-Daedra nur das es halt kein Daedra ist, keine anderen daedra-artigen Wesen erzeugt und auch nicht mit den restlichen Ebenen von Oblivion im Clinch liegt. Aber davon einmal gesehen ist es wohl eine mächtige Wesenheit die sich eine eigene kleine Domäne erzeugt hat und in der Lage ist Macht zu verleihen. Eventuell handelt es sich auch einfach nur um irgendwelche Splitterwesen von Magnus. Was weiß ich schon. Eventuell kann das jemand der mehr in der Lore drin steht als ich präziser definieren. Wie dem aber auch sei. Unsere Suche nach der perfekten Zauberformel geht also noch weiter und wir müssen mit einem Feder-Hirsch reden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 06.10.2024 - #1952 - ##29
+  ```
+
+##### #1953##30
+
+* Titel: `Let's Play ESO #1953 ##30 - der Flügel des Indrik [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 30 des Gold Road DLCs - Sitzung 5
+  
+  Manchmal wenn ich scherze dann rede ich so als würde ich in einem großen Anwesen wohnen. Gelegentlich, also quasi immer wenn wir irgendwo sind wo sich reiche Leute aufhalten spreche ich auch darüber das ich mir durchaus vorstellen könnte auf einem Anwesen zu residieren. Allerdings scheinen mir die praktischen Probleme ziemlich gewaltig. Es fängt ja schon damit an das Ding zu putzen. Klar kann man dafür Personal anstellen das dann für einen Hungerlohn gnädigerweise in den Gästequartieren wohnen darf aber das ist moralisch schon fragwürdig. Generell und überhaupt halte ich es mittlerweile für moralisch unmöglich etwas größeres zu besitzen als ein großes Haus. Und das auch nur wenn man genügend Kinder hat die man zum Putzen abstellen kann. Anders sieht das aus wenn man ein spektrales Wesen ist das eh nicht an den Regeln der Realität gebunden ist. Dann kann man mindestens seinen eigenen Flügel haben. In diesem Fall ist es eher ein Untergrundnest, aber im Prinzip ist das das doch das selbe oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 06.10.2024 - #1953 - ##30
+  ```
+
+##### #1954##31
+
+* Titel: `Let's Play ESO #1954 ##31 - Fragmente eines Schlüssels [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 31 des Gold Road DLCs - Sitzung 6
+  
+  Manchmal sind die Sachen relativ einfach und man kann etwaige Türen einfach mit roher Gewalt überwinden. Aliya die Hochelfe die gleichzeitig noch ganz gut mit diesem Magie Zeug ist und sich irgendwann mit einer milderen Form des Vampirismus infiziert hat sollte über ausreichend Stärke verfügen. Oder vielleicht auch nicht wenn man bedenkt das die Pforte die wir heute öffnen wollen schon ziemlich magisch ist. Also suchen wir die Spuren des legendären Schlüssels der uns hier weiterhelfen soll. Das wäre übrigens alles nur halb so schlimm wenn wir wenigstens direkt auf den Spuren des Schlüssels wären. Aber nein, stattdessen finden wir Fragmente die wiederum in Teilen unterteilt sind. Meine Lust für die anderen Erleuchteten jeweils 9 verschieden Splitter in der Landschaft zu suchen liegt so ziemlich bei null. Und dann haben wir noch nicht damit angefangen die restlichen Herausforderungen zu überwinden die uns dabei erwarten. Lange Geschichte kurz, ich bin nicht so richtig motiviert diese Handwerksquest weiter zu verfolgen. Eher so motidreit.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 08.10.2024 - #1954 - ##31
+  ```
+
+##### #1955##32
+
+* Titel: `Let's Play ESO #1955 ##32 - Lehre des Indrik [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 32 des Gold Road DLCs - Sitzung 6
+  
+  Ich muss noch einmal fürs Protokoll feststellen das der Indrik der hier im Namen steht natürlich nicht das gewöhnliche Tier ist sondern es sich stattdessen um eine gottähnliche Wesenheit handelt die es sich irgendwie vorgenommen hat mit ihrer Macht genau gar nichts zu tun und deswegen die letzten paar tausend Jahre damit verbracht hat darauf zu warten das sie irgendjemand findet damit sie Wissen weiter verteilen kann. Indriks selbst gelten aber auch partiell als ein wenig heilig wenn ich das richtig in Erinnerung habe, insofern wäre es nicht ganz unwahrscheinlich auch tatsächlich Lehren von einem besseren Hirsch zu erfahren. Hier wollen wir aber pure Macht. An sich wird uns das aber mehr in den Mund gelegt als das wir es wirklich wollen. Eigentlich bin ich nur neugierig und möchte sehen wohin die Reise geht, aber so richtig wollen tue ich die Macht eigentlich nicht. Keine harte Gier das ich jetzt unbedingt durch tausend brennende Ringe springen muss nur um dann eine weitere Fähigkeit die ich wahrscheinlich nie nutzen werde auf den Haufen zu werfen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 08.10.2024 - #1955 - ##32
+  ```
+
+##### #1956##33
+
+* Titel: `Let's Play ESO #1956 ##33 - Indrik Herausforderung [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 33 des Gold Road DLCs - Sitzung 6
+  
+  Nach einer Lehre kommt eine Herausforderung. Alles ganz klar. Zumindest das war der Teil von dem wir aber immerhin schon vorher wussten weil wir gewarnt wurden das uns die mächtigen Wesen nicht einfach so ihre Künste zur Verfügung stellen. Mir fehlt hier übrigens ein wenig sehr die philosophische Betrachtung der Dinge. Wenn man als Hexenmeister einen Pakt mit einem Dämon trifft dann nutzt man ja dessen Macht, meistens im Austausch gegen die eigene Seele wenn man nicht irgendwie aus der Geschichte wieder heraus kommt. Aber wie schaut das hier aus? Die Erleuchteten geben uns einfach so die Macht Dinge zu verändern nachdem wir oberflächlich gezeigt haben das wir eine Aufgabe zu erledigen in der Lage waren? Zurück zu DnD frage ich mich übrigens auch wie das für die entsprechenden Dämonen auf der anderen Seite aussieht. Ist das Macht verleihen eine aktive Geschichte, steht Mizora die ganze Zeit geistig hinter Wyll für jeden einzelnen eldritch blast, oder ist das eher so ein Automatismus den man quasi vergessen kann. Kriegt ein entsprechender Dämon Kopfschmerzen wenn man das mit der Macht zu sehr übertreibt?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 08.10.2024 - #1956 - ##33
+  ```
+
+##### #1957##34
+
+* Titel: `Let's Play ESO #1957 ##34 - Kapitalist der Schriftlehre [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 34 des Gold Road DLCs - Sitzung 6
+  
+  Die Schriftlehre ist quasi abgeschlossen. Wir haben die Macht des Indrik erworben und jetzt ist es nur noch eine Frage der Anwendung was wir mit der Macht tun. Zur Erweiterung unseres Repertoires können wir aber noch verschiedene Schriftwerke nutzen die überall in der Bibliothek verteilt sind. Diese sind ein wenig ungeordnet und wahrscheinlich kennen aktuelle Bibliothekare die Notation der Regale nicht. Außerdem ist eventuell nicht alles genau da wo es vorher war. Zum Glück aber gibt es mächtige Wesen die geneigt sind uns zu Helfen. Dieses mächtige Wesen hießt Kapitalismus. Es gestaltet sich so das das Indrik-Junge das wir quasi gerettet haben einen Dude dabei geholfen hat Bücher zu finden die er uns jetzt verkauft. Der Typ meint vielleicht das er Archivar ist, aber in Wirklichkeit ist das maximal ein Nebenberuf den er für die gute Presse betreibt. Hauptberuflich ist er offensichtlich Blutsauger. Und das sage ich als Vampir! Was eine absolute Frechheit, wir haben wortwörtlich alle Arbeit getan, der Magier ist Mitglied der Magiergilde und wir ebenfalls, und dennoch sollen wir horrende Preise für eine Dienstleistung bezahlen die wir ermöglicht haben. Ich verstehe beim besten Willen nicht wo genau dieser "Archivar" hier ins Bild kommt und was seine Mehrleistung ist. Es sieht für mich sehr offensichtlich so aus als hätte er sich nur zwischen und und dem Wissen gestellt um Profit zu erhaschen. Für keine Arbeit! Was kommt als nächstes, Mietwohnungen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 11.10.2024 - #1957 - ##34
+  ```
+
+##### #1958##35
+
+* Titel: `Let's Play ESO #1958 ##35 - Wo es was zu Erben gibt... [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 35 des Gold Road DLCs - Sitzung 6
+  
+  Ich habe meine einzige Anekdote zum Erben bereits innerhalb der Episode verbraten also kann ich hier nichts mehr dazu schreiben. Aber ich habe gehört das sich Leute gerne ganz schön an die Gurgel gehen wenn Onkel Michael das zeitliche segnet und es ordentlich was ab zu greifen gibt. Eventuell hängt das aber auch mit zerstrittenen Familien zusammen und keiner ordentlichen Aussprache vorher. Oder eventuell ist es auch eher ein Mittelstandsproblem, zu arm um einen regelmäßigen Notartermin zu haben um die Dinge aktuell zu halten, zu reich das es sich lohnt die Familie darüber zu spalten. Das heißt natürlich nicht das es nicht in reichen Häusern auch vorkommt. So aus der Hüfte heraus würde ich aber vermuten das sich einfach gute Dramen und Krimis um Erbe schreiben lassen. Mehr als das es wirklich in den oberen Schichten der Gesellschaft vorkommt. Ich kann mir eigentlich kaum vorstellen das jemand der ein Imperium aufbaut nicht vorher die Dinge genausten geklärt hat. Man will ja schließlich das die Legacy weiter geht, und das klappt überhaupt nicht wenn sich nach dem eigenen Ableben alle gegenseitig in die Haare fallen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 11.10.2024 - #1958 - ##35
+  ```
+
+##### #1959##36
+
+* Titel: `Let's Play ESO #1959 ##36 - das Witterfeld Testament [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 36 des Gold Road DLCs - Sitzung 6
+  
+  Und schon sind wir mitten drin in der Erbschaftsgeschichte die wahrscheinlich auch ein kleiner Mordkrimi ist. Leider sind die Dinge ein wenig sehr offensichtlich, aber wir haben vielleicht noch die Möglichkeit für große Twists. Auf der Bühne stehen die anscheinend unbeteiligte Nicht die nur den Nachlass verwalten will, der verschollene Sohn der pünktlich zum Erben auftauchte. Die Ex-Witwe die all die Jahre auf dem Anwesen gehaust hat und natürlich zwei Mitglieder des Dienstpersonals. Als Witwe des einzigen Sohns ist die Erbpriorität wahrscheinlich nicht so unendlich hoch, aber für eine adelige Familie gibt es überraschend wenig Kinder. Zum nicht mehr existenten Mannes der Verstorbenen wird übrigens kein Wort verloren. Aus der Hüfte hätte ich ja gesagt das die Ex-Witwe die Erblasserin getötet hat und der Sohn ein Schauspieler ist den die Täterin angeheuert hat. Warum das Ganze so kompliziert ist vermag ich nicht zu sagen, aber eventuell reicht Witwe sein nicht zum erben. Das Timing ist aber schon auffällig. Theoretisch wäre auch noch das Personal verdächtig aber das hat bis jetzt noch kein Motiv. Allerdings bietet uns das Testament ein wenig Mysterium, vielleicht gibt es hier noch etwas zu holen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 11.10.2024 - #1959 - ##36
+  ```
+
+##### #1960##37
+
+* Titel: `Let's Play ESO #1960 ##37 - Witterfeld Angehörige [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 37 des Gold Road DLCs - Sitzung 7
+  
+  Man merkt, wenn man darauf achten würde, was eigentlich nur ich tue, behaupte ich einmal, das ich die nächste Episode noch nicht angeguckt habe wenn ich die Beschreibung für die jetzige Schreiben. Nach diesem schönen Schachtelsatz sind wir um die Erkenntnis reicher das ich in der letzten Beschreibung alle Beteiligten Personen aufgezählt habe. Das hätte ich heute tun sollen. Wie dem aber auch sei. Anderes Thema, wir haben keine Ahnung von colivianischen Erbrecht. Es könnte durchaus sein das immer und generell alles an den ältesten Sohn geht wenn es nicht anders behauptet wird. Schließlich heißt es Stammhalter. Mir ist übrigens nicht so ganz klar warum. Wenn eine Frau ein Kind gebiert dann ist es absolut klar das es ihr gehört. Wenn ein Mann ein Kind zeugt vergeht dazwischen eine Menge Zeit. In der Geschichte gab es einige Bemühungen hier einzugreifen, aber eine gewisse Unsicherheit bleibt. Warum sind Mädchen dann nicht die Stammhalterinnen? Ihre Abstammung sollte immer klar sein. Oder ist das Anerkennen von Söhnen und Töchtern mehr ein Feature weil es die Möglichkeit bietet jene Nachkommen jede Legitimität zu entziehen die sich nicht so entwickelt haben wie man das gerne hätte? Warum erzähle ich das alles? Weil mir immer noch völlig unklar ist wer jetzt überhaupt ein Motiv hat. Natürlich nur wenn es überhaupt ums Erben geht. Ich bin mir allerdings ziemlich sicher das keine Kultur mit echter Bürokratie zulässt das das Erbe mit komischen Formulierungen á la "Wer das Rätsel auf vier Pfoten lösen kann" verteilt wird. Insbesondere weil sich das ganz schön ziehen kann.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 15.10.2024 - #1960 - ##37
+  ```
+
+##### #1961##38
+
+* Titel: `Let's Play ESO #1961 ##38 - Witterfelds übliche Verdächtige [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 38 des Gold Road DLCs - Sitzung 7
+  
+  Die Geschichte verdichtet sich. Oder auch nicht. Eventuell vielleicht liegt der Verdacht auf einmal nicht mehr auf der Witwe sondern auf dem Koch der sich anscheinend schon vorher verdächtig verhalten hat. Allerdings gibt es hier verschiedene Aussagen die sich ein wenig gegenseitig widersprechen und mir ist noch unklar ob das am inkonsistenten Writing, schlechter Übersetzung oder einfach Absicht liegt. Ich wiederhole das Gebetsmühlenartig, aber es ist enorm wichtig das man bei so Geschichten sich stellt das alle Namen, Aussagen und so weiter absolut stringent sind. Als Zuschauer und Beobachter ist die Geschichte nur dann immersiv wenn ich davon ausgehen kann das jeder Fehler, jeder falsche Aussage darauf zurück geht das es hier noch etwas zu entdecken gibt, und nicht weil der Übersetzer geschlampt hat oder direkt durch ein neuronales Netz ersetzt wurde. Ohne nachzuschlagen weiß ich spontan übrigens nicht wo der Ausdruck "die üblichen Verdächtigen" her stammt. Aber wenn man so darüber nachdenkt ist das schon ein seltsamer Satz. Es würde doch bedeuten das man einen Satz an Verbrechern hat die immer wieder auftauchen. Verbrecher die erwischt werden, freigelassen und wieder Verbrechen begehen. Daher kennt man die, weil das Wiederholungstäter sind. So wie bei Batman wo man beim Verbrecher der Woche auch die überschaubare Auswahl zwischen Two-Face, den Pinguin, den Joker oder Blackmask hat. Dann gibt es da noch ein paar verwirrte Einzeltäter aber im Großen und Ganzen isses das. (Ich bin mir sicher ich habe jemanden vergessen, mein Batman Wissen ist bestenfalls unvollständig, wenn nicht so gar kriminell lückenhaft.)
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 15.10.2024 - #1961 - ##38
+  ```
+
+##### #1962
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

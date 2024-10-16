@@ -885,6 +885,36 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
   ```
 
+##### #69
+
+* Titel: `Elden Ring DLC - #69 - Wasserstelle des Schlosses [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An sich bin ich mit dem DLC durch und ich glaube auch nicht das ich noch sehr viel stärker werde. Aber dennoch möchte ich doch zumindest schon einmal alles gesehen haben. Also machen wir uns auf den Weg und suchen noch nach der letzten Stelle die fehlt. Ich musste einen Guide nutzen. Klar, ich hätte jetzt viele Stunden dumm herumlaufen können aber letztendlich ist der Zugang den ich gesucht habe doch ein wenig sehr anders als da wo ich ihn vermutet hätte. Und so laufe ich heute einen langen Gang lang, dann ein paar Leitern und schon sind wir unten bei der Wasserversorgung des Schlosses. Tatsächlich haben wir den Ort sogar schon einmal aus der Entfernung gesehen aber wussten nicht wie wir am besten hinkommen. Jetzt sind wir dort. Außerdem sehen wir auch noch die Ruine von Unte. Hier kann man übrigens noch was mit dem Steinschwert machen habe ich durch Zufall nach dieser Aufnahme gelesen. Dazu kommen wir aber noch. Zu erst wollen ein paar Ofengolems besiegt werden. Die findet man übrigens immer seltener.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 15, Aufnahme vom 14.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #70
+
+* Titel: `Elden Ring DLC - #70 - Klausnerfluss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich dachte erst kurz das wir an der Ellac sind. Aber es gibt in den Schattenlanden wohl doch noch mehr als nur einen Fluss. Es ist ein wenig faszinierend. In einem Spiel in dem wir nie eine Karte erhalten die uns die Orte benennt oder überhaupt einen Überblick gibt wie Dinge genannt werden kennen wir doch die Namen der meisten Bauwerke und interessante Orte. Als kleine Tangente, mir ist aufgefallen wie das Wort "POI", also Point of Interest aber halt "Pi Oh Ei" ausgesprochen in meinen täglichen Sprachgebrauch gerutscht ist. Ich frage mich ob das eine direkte Folge von Helldivers 2 ist oder ob es sich einfach als praktisch erwiesen hat ein schnelles Wort für interessante Plätze zu haben. Man könnte es Effizienz nehmen, obwohl ich auch ein wenig die Angst habe das es irgendwann einmal alleine steht ohne das die Ursprünge bekannt sind. Ich verpasse übrigens etwas am Fluss. Ich weiß nicht ob ich dafür noch einmal zurück komme oder ob ich mir das einfach für den Coop Run aufhebe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 15, Aufnahme vom 14.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
 ##### #Nummer
 
 * Titel: ``

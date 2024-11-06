@@ -12064,24 +12064,38 @@
   Aufnahme vom 31.10.2024 - #1977 - ##54
   ```
 
-##### #Nummer
+##### #1978##55
 
-* Titel: ``
+* Titel: `Let's Play ESO #1978 ##55 - erstaunliche Weltlichkeit [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 55 des Gold Road DLCs - Sitzung 10
+  
+  Ich frage mich ob die Leute die die Geschichten schreiben Wesen aus einer anderen Realität für nichts Weiteres als fancy Kostüme halten. Anders ist für mich nicht zu erklären wie wir sonst in eine Situation wie die Heutige kommen. Humanoide Daedra aus einer bisher unbekannten Ebene des Vergessenes greifen eine Burg an. Dazu nutzen sie nicht etwa Magie, Portale und Kampftaktiken die man nur von Wesen erwarten kann die seit Jahrtausenden nichts Anderes trainieren. Stattdessen wird ohne erkennbares Belagerungsgerät ein riesiges Loch in die Mauer gesprengt und dann geht man in den Zweikampf. Das mit dem Loch könnte immer noch die Magie sein von der wir nicht so viel gehört haben. Aber warum ist der eigentliche Angriff der Daedra so gewöhnlich? Und warum hat niemand ein wenig mehr Angst? Klar, das Ganze Ding mit den Weltenankern rund um Molag Bal ist schon wieder eine Minuten her aber dennoch sind Daedra Invasionen der Realität eigentlich nicht so häufig. Ich würde sogar behaupten das die meisten Menschen noch nie einen Daedra gesehen haben, geschweige den wissen was ein Dremora ist. Das sollte das Selbstvertrauen in die Kampffähigkeiten in einer direkten Konfrontation eigentlich erheblich senken. Weiter hätte ich eigentlich gedacht das jeder einzelne Dremora-Krieger das Äquivalent eines langjährigen Kriegsveteranen ist. Aber anscheinend hat man auch als einfacher Soldat im direkten Zweikampf gute Chancen. Ist das die große Kriegerkultur von denen wir so viel in den Deadlands gehört haben?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 31.10.2024 - #1978 - ##55
   ```
 
-##### #Nummer
+##### #1979##56
 
-* Titel: ``
+* Titel: `Let's Play ESO #1979 ##56 - die Stimme des Dorfes [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 56 des Gold Road DLCs - Sitzung 10
+  
+  Die Geschichte mit der Burg ist dann auch vorbei und wir sind zurück in Vashabar. Ich vermute das ich die entsprechende Mission eigentlich schon viel eher hätte spielen sollen aber ich halt einfach mehrfach daran vorbei gelaufen bin. Die Prämisse ist relativ einfach. Eine Bosmer und ein Bosmer lieben sich sehr aber sie gehören Familien an die sich ausschließende Lebensphilosophien anhängen. Erschwerend kommt noch hinzu das die Familien in der Vergangenheit Tragik ertragen mussten und deswegen nur die Väter überlebt haben. Das sorgt dafür das die Hochzeit nicht gültig wäre selbst wenn man einfach so durchzieht. Diese Grundannahme zweifle ich jetzt mangels Informationen auch nicht an. Wichtig ist aber die unterschiedliche Weltanschauung. Auf der einen Seite haben wir den grünen Pfad. Also das was die meisten Bosmer eigentlich den ganzen Tag machen, und auf der anderen Seite sitzt der Dämmerweg. Quasi ein glorifizierter Ahnenkult der die Waldelfen über andere Völker heben will weil die Abstammung ja doch so edel ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 31.10.2024 - #1979 - ##56
   ```
 
 ##### #Nummer

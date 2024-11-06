@@ -1347,7 +1347,47 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #89
+##### #89##2
+
+* Titel: `AW2: The Lake House - #89 ##2 - Gemäldeproduktion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Haus am See scheint einer grundlegenden Frage hinter her zu forschen. Wenn man etwas hat das kreative Erzeugnisse in Realität verändert, wie kreativ muss etwas wirklich sein damit es echte Ergebnisse erzielt? Reicht es wenn das Erschaffene vielleicht nur ein wenig kreativ ist, wie hoch muss die Schöpfungshöhe sein und inwieweit spielt es eine Rolle ob es sich um einen leidenden Künstler gehandelt hat. Ist es vielleicht völlig egal was gemalt wurde Hauptsache die Gefühle die während der Erschaffung da waren waren maximal intensiv? Es gibt da eine erstaunliche Menge an Möglichkeiten wie die Realität aufgebaut sein könnte und wenn man nur dumm herum probiert ohne sich irgendetwas aufzuschreiben dann handelt es sich auch nicht um Wissenschaft. Und deswegen schreibt man so gerne im Federal Bureau of Control. Allerdings hatte ich immer den Eindruck das es gewisse moralische Standards gab. Aber bei einer Außenstelle die sich weit entfernt von Allem befindet sieht man das vielleicht etwas lockerer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 14, Aufnahme vom 30.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #90##3
+
+* Titel: `AW2: The Lake House - #90 ##3 - automatische Schreibmaschinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode haben wir gesehen was passiert wenn man einen einzelnen Künstler wieder und wieder quält bis er zusammenbricht und die Dinge die gemalt werden immer mehr abstrakt werden. Immerhin wissen wir das die Ergebnisse die aus den Gemälden kamen einen gewissen Draht zur Realität hatten, wenn auch nicht so Schöpferisch waren wie es die Romane von Alan Wake sind. Im nächsten Untergeschoss wird ein anderer Ansatz probiert. Hier versucht man das Menschliche komplett heraus zu lassen und nimmt stattdessen Maschinen für den kreativen Prozess. Ich bin mir sicher das es den Meisten nicht verborgen bleibt, aber das ist natürlich, und sehr offensichtlich wie ich finde, eine Betrachtung des aktuellen Hypes for LLMs. Die Technik die benutzt wird ist quasi exakt die Gleiche. Man nimmt ein Ursprungsmaterial und dann versucht man mittels eines Feedback-Loops die Ergebnisse zu erkitzeln die man haben will. Wenn man diese Feedbackrunde noch automatisieren kann um so besser. Aber die Wissenschaftler hier haben auch das selbe Problem wie anderswo. Mit der Zeit geht ihnen das Quellmaterial zum Trainieren aus. Das kann ein Problem sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 14, Aufnahme vom 30.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
 
 * Titel: ``
 

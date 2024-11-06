@@ -1330,16 +1330,21 @@
 
 ## Fazit Nightsprings
 
+## Lake House
 
+##### #88##1
 
-##### #88
-
-* Titel: ``
+* Titel: `AW2: The Lake House - #88 ##1 - das Haus am See [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wenn das Federal Bureau of Control damit anfängt irgendein aktives AWE einzudämmen muss man auch davon ausgehen das die Behörde sich die Umgebung ganz genau anschaut und im Zweifel auch eine Forschungsstation einrichtet um besser zu verstehen was hier eigentlich passiert ist. Tatsächlich war es ja auch eben jene Forschung die es im eigentlichen ältesten Haus geschafft hat auszubrechen bzw. in Direktor Trench zu kriechen um dann einen Großteil des Personals umzubringen. Ich weiß übrigens wirklich nicht wie das Bureau seine Leute rekrutiert. Ich würde ja behaupten das man bei allen FBI und Polizeibeamten die irgendein AWE gesehen haben anfängt, aber das kann doch unmöglich reichen oder? Natürlich sind Ereignisse wie das Cauldron Lake oder das Zischen keine Dinge die andauernd geschehen und ich nehme an das ansonsten ein paar mehr Beamte überleben, aber dennoch. So richtig gut für die Moral kann das nicht sein oder? Immerhin haben die Überlebenden das Gefühl das sie ordentlich etwas bewirkt haben. Betreten wir das Haus am See, einem Ort an dem bestimmt niemand irgendwelche Experimente gemacht hat die dann schrecklich schief gegangen sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 14, Aufnahme vom 30.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #89

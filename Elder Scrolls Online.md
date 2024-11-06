@@ -11792,7 +11792,279 @@
   Aufnahme vom 15.10.2024 - #1961 - ##38
   ```
 
-##### #1962
+##### #1962##39
+
+* Titel: `Let's Play ESO #1962 ##39 - verdächtige Bekennerbriefe [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 39 des Gold Road DLCs - Sitzung 7
+  
+  Wenn man einen unklaren Mordfall hat und dann findet sich plötzlich ein Bekennerschreiben das den Tathergang auf einmal in einem sehr klaren Licht erscheinen lässt dann kann man das natürlich als Zeichen dafür sehen das der Fall jetzt sehr einfach wird oder man muss sich doch noch ein wenig tiefer reinhängen. Wir finden ein solches Schreiben, praktischerweise neben einer Leiche, das ist immer ganz nützlich insbesondere wenn dann auch noch die Tatwaffe ebenfalls in oder an der Leiche ist. Auch gut wenn im Schreiben direkt angesprochen wird das man sich wirklich selbst das Leben genommen hat und alle offenen Punkte geschlossen wurden. Außerordentlich praktisch.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 15.10.2024 - #1962 - ##39
+  ```
+
+##### #1963##40
+
+* Titel: `Let's Play ESO #1963 ##40 - klarer Tathergang [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 40 des Gold Road DLCs - Sitzung 8
+  
+  Nach der letzten Episode haben wir jetzt ja ein klares Bekennerschreiben, der Tathergang ist wesentlich klarer und wir haben glücklicherweise überhaupt keine sich widersprechenden Indizien. Keine Zeugenaussagen die irgendwie so klingen als hätte jemand ein wenig mehr gesehen und getan als die Beweise eigentlich her geben. Insofern ist unsere Anwesenheiten nicht mehr von Nöten und ich würde mir wirklich wünschen dem wäre auch so. Meine letzte Hoffnung das wir irgendwelche Wendungen in dieser Geschichte haben sind übrigens mittlerweile erloschen. Meine Anwesenheit wird also tatsächlich ganz schön auf die Probe gestellt. Ich wäre wirklich gerne nicht mehr hier. Habe ich wirklich die moralische Verpflichtung hier in einem fremden Land irgendwelche Erbstreitigkeiten und Intrigen aufzudecken?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 18.10.2024 - #1963 - ##40
+  ```
+
+##### #1964##41
+
+* Titel: `Let's Play ESO #1964 ##41 - das Witterfeld-Erbe [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 41 des Gold Road DLCs - Sitzung 8
+  
+  Wir haben es geschafft! Die ganze Mordstory ist durch und wir können endlich das Erbe des Witterfeld Anwesen verteilen. Klar, es gab hier und dort ein paar Windungen aber im Großen und Ganzen ist hier quasi alles so gelaufen wir ich das geahnt habe. Immerhin haben wir die kleine Überraschung das die Ehefrau intrigiert hat den originalen Mann umzubringen. Ich hätte hier wirklich gewünscht das es ein wenig komplexer zu geht. Andererseits scheint die Engine nicht so richtig für graduelles, langsames und subtiles Aufklären zu sein das uns vielleicht die Geschichte und persönlichen Befindlichkeiten der einzelnen Protagonisten uns auch einfach nicht so hätte erreichen können. Alles in Allem würde ich wirklich gerne eine Kurzgeschichte dazu schreiben, allerdings kann ich mir nicht vorstellen das ich dafür Zeit finde.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 18.10.2024 - #1964 - ##41
+  ```
+
+##### #1965##42
+
+* Titel: `Let's Play ESO #1965 ##42 - die vielen Pfade [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 42 des Gold Road DLCs - Sitzung 8
+  
+  Ich bin kein großer Fan von Multiversen. Das liegt auch vielleicht daran das ich sie nicht verstehe. Das könnte natürlich auch an der Natur der Sache liegen. Letztendlich ist es ja ein Punkt den alle möglichen Leute hier immer wieder machen das es für Menschen doch ach so unverständlich ist wenn man die vielen Pfade entlang wandert und sich in all den Wirklichkeiten und Möglichkeiten verliert. Das ist auch ein Punkt der mir ein wenig Angst in der abstrakten Hinsicht macht, als das man niemals wieder in der ursprünglichen Realität ankommen würde. In einer Welt bzw. Universum in der es unendlich viele Pfade gibt, da erscheint es doch sehr unwahrscheinlich das man wieder in die ursprüngliche Realität nie wieder findet. Interessant für Leute die auf der Flucht sind, aber nicht für jene die ihrer eigentlichen Welt schon ein wenig verhaftet sind. Wie genau der Zusammenbruch der Realität in der Praxis aussieht hat übrigens auch noch niemand geklärt. Vielleicht finden wir es aber heute raus, in einer dunklen Nacht betreten wir ein Gasthaus in dem seltsame Dinge geschehen...
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 18.10.2024 - #1965 - ##42
+  ```
+
+##### #1966##43
+
+* Titel: `Let's Play ESO #1966 ##43 - Herrin der unbereisten Pfade [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 43 des Gold Road DLCs - Sitzung 8
+  
+  Wir hatten bereits eine Episode mit der Fürstin der vielen Pfade. Da ich Dopplungen dieser Art nicht mag muss heute also ein anderer Titel von Ithelia heran. Übrigens kann ich aktuell nur Sympathie mit Ithelia empfinden. Das sie irgendwie alle relevanten und existierenden Realitäten verschwinden lassen wollte ist natürlich eine sehr ärgerliche Geschichte aber bis jetzt haben wir nur das Wort von Hermeus Mora das dem wirklich auch so sein wird. Und das kommt von jemand der alles Wissen das ist verwaltet und es vielleicht aus eigenen Interesse nicht besonders leiden kann wenn irgendjemand die Realität so gestaltet das sie nicht mehr ganz so vorhersehbar ist. Weil das ist scheinbar was Ithelia tut, sie spielt mit der Kausalität der Dinge die da kommen und das kann durchaus auch etwas Gutes sein. Interessant und wesentlich schlechter wird es aber wohl wenn sie anfängt mit der Kausalität der Dinge die eigentlich immer klappen sollten zu spielen. Wenn auf 2 nicht 3 folgt, oder wenn Dinge nicht richtig von der Gravitation erfasst werden. Aktionen keine direkten Konsequenzen mehr haben. Solche Dinge halt, Dinge bei denen es auf einmal ärgerlich wird und dann kann Sauerstoff plötzlich nicht mehr verstoffwechselt werden. Das wäre recht tödlich für alle Beteiligten in dieser Realität.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 18.10.2024 - #1966 - ##43
+  ```
+
+##### #1967##44
+
+* Titel: `Let's Play ESO #1967 ##44 - Pfadgängerin [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 44 des Gold Road DLCs - Sitzung 8
+  
+  Vor ein paar Episoden erwähnte ich das das Wandeln durch die unterschiedlichen möglichen Realität nichts für Leute ohne festen Magen ist. Und ich bleibe bei diesem Punkt. Allerdings gilt das auch nur wenn man keine Werkzeuge, Hilfsmittel oder sogar einen Führer hat. In unserem Fall bietet sich zufällig eine Daedra-Fürstin deren Spezialität das Bereisen ebener jener Wege ist, an. Die ist vielleicht grade nicht im Vollbesitz all ihrer Kräfte aber das ist gar nicht so schlimm wie man vielleicht meinen möchte. Irgendeine mysteriöse Kraft die wir bei uns haben scheint hoffentlich zu wollen das wir wieder kehren was den ganzen Ausflug zu einer relativ sicheren Sache macht. Ich bin mir immer noch unsicher was eigentlich geschieht wenn man Beute aus einer Realität in die nächste mit nimmt. Aber es scheint so als wäre das gar nicht so ein großes Problem. Schließlich sieht es doch sehr so aus als gebe es keine Realitätslimit für Atome oder irgendetwas in der Richtung. Vielleicht würde der Fall anders stehen wenn wir irgendwelche besonderen Artefakte oder lebende Personen für längere Zeit mit nehmen. Oder die Risse die unsere Beute aus einem anderen Hier erschaffen werden erst in ein paar tausend Jahre relevant. Bei unserer Lebensspanne könnte das aber dennoch auf uns zurückfallen. Das wäre irgendwie ärgerlich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 18.10.2024 - #1967 - ##44
+  ```
+
+##### #1968##45
+
+* Titel: `Let's Play ESO #1968 ##45 - alternative Ithelias [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 45 des Gold Road DLCs - Sitzung 9
+  
+  Was genau passiert ist immer noch nicht ganz klar, aber als wir die erste andere Ithelia trafen die scheinbar relativ unbeeindruckt von unserem Erscheinen war wurde eigentlich schon klar das wir zwar etwas tun was normalerweise Sterbliche nicht unternehmen, so ungewöhnlich sogar das wir einen Titel dafür erhalten haben. Aber andererseits es scheinbar etwas sehr normales im Lebenszyklus einer Ithelia zu sein scheint. Sehr klassisch ist eigentlich wie schön offensichtlich unterschiedlich die verschiedenen Realitäten sind die wir betreten. Andererseits, wir brauchen schließlich bestimmte Bestandteile des Weisentraumes, und ich würde vermuten das gleichartige Ithelias auch gleiche Bestandteile wachsen lassen. Für die Zukunft steht übrigens so ein wenig in Frage wo wir die Pflanzen von der Ithelia herkriegen sollen die ihre Realität zerstört hat. Es sei den die vielen Pfade sind in der Zeit nicht linear. In diesem Fall könnten wir wohl immer im genau gleichen Moment erscheinen. Bzw. nicht wir sondern wer auch immer beim nächsten Mal die Aufgabe hat. So wie es auch aussieht werden wir fies manipuliert und Ithelias Befreiung ist eher ein teilweise unkontrollierter Freigang damit die Realität ein wenig Möglichkeit abbekommt weil es sonst zu anderen Problemen kommt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 23.10.2024 - #1968 - ##45
+  ```
+
+##### #1969##46
+
+* Titel: `Let's Play ESO #1969 ##46 - Weisentraum [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 46 des Gold Road DLCs - Sitzung 9
+  
+  Ein Getränk das durch seine Bestandteile irgendwie in der Lage ist die Herrin der vielen Pfade wieder richtig einzunorden. Nein ich verstehe auch nicht so recht wie das eigentlich alles funktionieren soll. Aber der gesamte Ablauf der Ereignisse lässt schon ein wenig misstrauisch machen. Ein Artefakt einer in diesem Fall feindlichen Daedra hilft uns dabei genau die richtigen Orte zu finden und die richtigen Pfade zu betreten die wir dafür brauchen Ithelia zu helfen? Das lässt mich schon glauben das wir benutzt wurden. Ich mag das ja gar nicht. Auf der anderen Seite versichern uns unsere Verbündeten das Ithelia zu helfen definitiv der richtige Weg war und wir unsere Realität wieder einmal davor bewahrt haben sich entgültig aufzulösen. Und das ist doch eine gute Nachricht oder? Trotzdem, sind wir letztendlich auch nur ein Sklave des Schicksals und die Leute reden uns nur ein das wir etwas tun können?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 23.10.2024 - #1969 - ##46
+  ```
+
+##### #1970##47
+
+* Titel: `Let's Play ESO #1970 ##47 - Samen des Verdachts [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 47 des Gold Road DLCs - Sitzung 9
+  
+  Wir dürfen wohl davon ausgehen das es eine kleine Beschwörung auf dem Land gibt und das in Vashabar die Keimzelle einer neuen Bewegung ist. So zumindest glaubt Graf Calantius, der örtliche Herrscher der aber scheinbar nicht in der Lage ist seinen Herrschaftsanspruch durch zu setzen. Fairerweise könnte man ins Feld führen das man nicht direkt jeden Anspruch mit Gewalt durchdrücken muss, aber es kommt mir schon ein wenig seltsam vor das man es sich als Feudalherr scheinbar leisten kann lange bei solchen Dingen zu fackeln. Wenn das die übliche Antwortzeit auf jede Bedrohung ist würde ich mit das als Dorf zweimal überlegen ob man wirklich Abgaben an jenen Fürsten geben will. Die Leistung die man da raus bekommt scheint ja irgendwie nicht so recht gegeben zu sein. Und das ist doch der Deal bei diesen ganzen Feudalherrschern oder? Die leben in relativen Saus und Braus, aber wenn was ist dann kann man auch erwarten das die "Staats"-Macht auftaucht und das Problem löst weil alle ein gegenseitiges Interesse daran haben. Aber ein Machthaber der nicht in der Lage ist auf seinem eigenen Hof zu kehren kommt mir doch ein wenig suspekt vor oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 23.10.2024 - #1970 - ##47
+  ```
+
+##### #1971##48
+
+* Titel: `Let's Play ESO #1971 ##48 - Vashabar [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 48 des Gold Road DLCs - Sitzung 9
+  
+  Wir waren eigentlich schon in Vashabar. Bis vor ein paar Wochen gab es hier anscheinend eine Menge gar nichts und dann ist plötzlich der Wald explodiert. Das ist natürlich eher schlecht wenn man vor hatte klassischen Ackerbau zu betreiben. Nun wissen wir das Tamriel schon ziemlich alt ist und Nirn erst recht. So einige Katastrophen und Weltuntergänge sind bereits über das Land geflossen und an sich gibt es wohl nichts mehr das nicht in einer gewissen Tiefe die Ruinen der einstigen Zivilisationen enthält. Und dennoch scheint mir das Gebiet auch vorher ziemlich unberührt gewesen zu sein. Land das durch eine gestrichelte Linie jemanden nominell gehört, aber praktisch für niemanden von Bedeutung war. Jetzt hat sich das geändert und einige viele Waldelfen haben plötzlich beschlossen das man sich hier niederlassen könnte. Ich bin ehrlich gesagt ein wenig überrascht wie schnell die Bosmer ihre Behausungen wachsen lassen können. Die sind zwar nicht besonders regendicht, aber da sind sie dennoch. Ich hatte immer irgendwie angenommen das das Baumsingen ein Prozess ist der länger als ein paar Minuten dauert.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 25.10.2024 - #1971 - ##48
+  ```
+
+##### #1972##49
+
+* Titel: `Let's Play ESO #1972 ##49 - Grünsprecherin Darolith [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 49 des Gold Road DLCs - Sitzung 9
+  
+  Ich frage mich wirklich was die Bosmer eigentlich den ganzen Tag machen. Weil immer wenn wir mit irgendeinen Vertreter dieses Volkes reden dann sind sie auch zuhause und auch sehr bereit mit uns zu reden. Fast so als würden sie die meiste Zeit des Tages sowieso nichts tun und quasi nur abwarten bis irgendetwas geschieht das ihre Aufmerksamkeit erfordert. Wie dem aber auch sei. Wir sprechen heute mit einer Grünsprecherin. Davon gibt es ebenfalls erstaunlich viele, also quasi so etwas wie die religiösen Handwerker der Bäume. Zum Teil ist da natürlich auch Glaube bei, aber soweit ich das verstanden habe gibt es auch echte, sehr anfassbare Dienste die so ein Grünsprecher verbringt. Wie auch die Baumsänger. Und all die anderen Posten. Aber vielleicht ist das auch eher ein Prozess den man anstößt und dann wartet man einfach ab bis etwas passiert. Vielleicht ist das wie bei Bären. Durch die doch recht effiziente Art der Ernährung bleibt einfach Zeit übrig sich die Landschaft anzuschauen. Und als Herren der Wälder haben die Waldelfen auch keine Angst vor irgendwelchen Feinden. Und so sitzen sie den ganzen Tag, bereit für uns.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 25.10.2024 - #1972 - ##49
+  ```
+
+##### #1973##50
+
+* Titel: `Let's Play ESO #1973 ##50 - König Nantharion [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 50 des Gold Road DLCs - Sitzung 9
+  
+  Ich kann mir ziemlich schlecht die Titel der diversen Königinnen und Könige von Tamriel merken. Es gibt einfach zu viel davon. Insbesondere wenn jeder Provinz-Statthalter ebenfalls der Meinung ist das ihm oder ihr der Titel eines Königs wesentlich besser steht als alles Andere. Insofern dachte ich für einen kurzen Moment das es sich bei Nantharion in der Tat um den König von Eldenwurz handelt der ja tatsächlich einiges an politischer Macht hat. Dem ist nicht so. Wie bereits erwähnt kann sich ja scheinbar jeder König nennen und genau das ist hier passiert. Tatsächlich hat die Person einen gewissen adeligen Hintergrund aber wie genau das jetzt mit dem Adel und großen Familien bei den Bosmern funktioniert kann ich aus dem Stand auch nicht sagen. Aus praktischen Gründen können wir aber wohl davon sprechen das wir heute mit Dorfvorsteher Nantharion gesprochen haben. Einer sehr zwielichtigen Gestalt die natürlich absolut gar nichts mit der Rückbesinnung zu tun hat. Selbstverständlich nicht, nur mit dem Dämmerpfad.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 25.10.2024 - #1973 - ##50
+  ```
+
+##### #1974##51
+
+* Titel: `Let's Play ESO #1974 ##51 - Hoffnungswurz [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 51 des Gold Road DLCs - Sitzung 10
+  
+  Mir drängt sich der schleichende Verdacht auf das Orte die nach Hoffnung oder irgendetwas anderem Positiven benannt sind und in einer Geschichte vorkommen in der Regel von irgendeinem Unglück überrollt werden bevor überhaupt irgendjemand daran denken kann einen kleinen Trip zurück zu machen um zu berichten wie toll doch die neue Kolonie ist. Ein Gedanke der mir eben so aus der Hüfte kommt ist auch der das die Kolonisten der alten Zeit ganz schön optimistisch waren. Wenn man nicht einmal genügend Vorräte hat um durch den ersten Winter zu kommen und sich irgendwie darauf verlässt das man irgendwie den gleichen Ackerbau usw. am neuen Ort machen kann wie zuhause ist das schon ziemlich sehr optimistisch. Oder einfach nur ignorant. Ich nehme einmal an das sich amerikanische Siedler nicht grade vorher über den Säuregehalt des Bodens und der Menge an Nährstoffen gemacht haben sondern einfach davon ausging das ihr erwählter Gott das schon irgendwie regelt. Die Bosmer haben dieses Problem übrigens nicht, größtenteils weil sie sowieso kein Ackerbau betreiben und weil die Tiere hier in "Colovia" quasi die gleichen Viecher sind wie zuhause. Das macht die Verträglichkeit besser. Wenn jetzt Hoffnungswurz noch eine echte Siedlung wäre...
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 29.10.2024 - #1974 - ##51
+  ```
+
+##### #1975##52
+
+* Titel: `Let's Play ESO #1975 ##52 - gefallene Festung [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 52 des Gold Road DLCs - Sitzung 10
+  
+  Das große Problem was ich bei den Baumschlössern der Bosmer ja sehe ist das das es sich immer noch um einen Baum handelt. Sie betonen immer wieder das sie eigentlich die Natur der Dinge gar nicht so recht anfassen und das es sich im Kern immer noch um einen Baum handelt. Bzw. die ganze Siedlung dann immer noch ein Wald ist. Warum genau jetzt aber Hoffnungswurz so eine riesige Einrichtung ist während nebenan Vasharbar doch wesentlich überschaubarer ist vermag ich übrigens auch nicht zu sagen. Wollte man unbedingt etwas Gewaltiges in direkter Sichtweite der örtlichen Handelsrouten schaffen oder war man am Anfang noch ein wenig vorsichtig und brauchte die Legitimität einer Einrichtung die nicht ganz so gewaltig war. Wie dem aber auch sei, die Festung hat jetzt schon als solche versagt weil sie scheinbar nicht gegen die Magie sicher ist die sie auch erschaffen hat. Ich würde das durchaus als Konstruktionsfehler betiteln.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 30.10.2024 - #1975 - ##52
+  ```
+
+##### #1976##53
+
+* Titel: `Let's Play ESO #1976 ##53 - Feldagardburg [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 53 des Gold Road DLCs - Sitzung 10
+  
+  Die letzte Burg die wir näher angeschaut haben ist dann doch überraschend und ohne große Worte auseinander gefallen. Aber während wir dort waren gab es auch ein paar Dokumente die wir heben konnten. Und die wieder rum sahen dann doch so aus als könnte eine stabilere Festung durchaus in Gefahr sein. Selbstverständlich haben Mirri und ich uns daher direkt aufgemacht und angeschaut wie es einer taktisch wichtigen Burg genau geht. Etwas seltsam ist aber dennoch das Dremora, also Wesen einer anderen Realität, in Massen nach Nirn kommen können und dann auch noch es nötig habe eine physische Burg zu invasieren. Ich sehe ja ein das die anscheinend verbündeten Waldelfen durchaus Interesse an solchen Stellungen haben. Aber was genau wollen Dremora damit tun? Bemannen die danach die Wände? Haben sie ein Ingenieurskorps das die Schäden wiederherstellt?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 31.10.2024 - #1976 - ##53
+  ```
+
+##### #1977##54
+
+* Titel: `Let's Play ESO #1977 ##54 - taktisches Überraschungsportal [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 54 des Gold Road DLCs - Sitzung 10
+  
+  Ich habe mittlerweile das Gefühl das ich mir den Mund fusselig rede jedes Mal wenn ich erneut darüber sprechen muss welches unfassbar gewaltige Potenzial Portale für jede Art von militärische Operation haben. Dabei ist es völlig egal ob es sich nur um einen schnellen Angriff handelt um Chaos zu stiften oder einen längeren Einsatz. Auch ist es eigentlich ziemlich egal ob das Portal teuer ist. Wenn es nicht unbedingt alle Ressourcen des Landes verbraucht ist eigentlich kaum ein Preis zu hoch es nicht zu tun. Selbst wenn neben dem zaubernden Magier nur eine einzige weitere Person mit kommen kann ist die Möglichkeit tief hinter feindlichen Linien, idealerweise hinter sicher geglaubten Perimetern Agent abzuladen immens. Insbesondere weil gefühlt jede Burg die wir bis jetzt gesehen haben gewaltige Kellergewölbe besitzt die es ein leichtes machen würden verkleidete Attentäter abzusetzen. Meistens scheinen Portale sogar wesentlich mehr Mitfahrer zu erlauben. In diesem Fall kann man ganze Stoßtrupps und taktische Spezialeinheiten tief im Feindesland setzen. Die Möglichkeiten sind schier endlos. Keine Ecke ist mehr sicher. Wie also spricht nie jemand darüber außer es handelt sich um ein wichtiges Element der aktuellen Mission?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 31.10.2024 - #1977 - ##54
+  ```
+
+##### #Nummer
 
 * Titel: ``
 

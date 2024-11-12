@@ -1377,6 +1377,96 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
+##### #91##4
+
+* Titel: `AW2: The Lake House - #91 ##4 - Rekursion [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Von einer artistischen Perspektive finde ich es sehr interessant wie das eigentlich sehr kurze Lake House DLC die wichtigsten Element von Control unter einem Dach bringt. Mir ist allerdings nicht so ganz bewusst warum das Haus am See genauso gebaut sein muss wie das älteste Haus? Handelt es sich um eine unterbewusste Entscheidung oder ist der Grund warum das älteste Haus aussieht wie das anonymste Bürogebäude das jemals existiert hat grade weil die typische amerikanische Behörde halt so aussieht wie sie aussieht? Als wir damals dort waren gab es verschiedene Dokumente die darüber gesprochen haben das sich das älteste Haus immer den aktuellem Zeitgeist, bzw. dem kollektiven Glauben der Menschheit anpasst. Es wäre schon sehr interessant was geschehen würde wenn die Menschheit oder irgendeine andere dominante Spezies zwei völlig verschiedenen Meinungen sein würde. Würde sich das Haus dann teilen oder in einem ständigen Wechsel zwischen den beiden Zuständen existieren? Verändert das Wissen darum wie das älteste Haus funktioniert auch das Haus am See obwohl die Quelle der Veränderung hier eigentlich das Dunkle bzw. "der Schatten" ist? Eine konzeptionell andere Kraft soweit ich das verstanden habe. Eventuell denke ich aber auch einfach zu abgetrennt. Für mich sind das Alan Wake AWE, das Zischen, Polaris und die Eigenkraft des ältesten Hauses jeweils verschiedene Kräfte. Allerdings sind manche Objekte der Macht auch völlig unabhängig von den jeweiligen AWEs. Vielleicht müsste ich die Akten doch noch einmal gründlicher lesen. Heute erfahren wir auf jeden Fall Rekursionen. Immer wieder der gleiche Ort aber dann doch anders.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 14, Aufnahme vom 30.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #92##5
+
+* Titel: `AW2: The Lake House - #92 ##5 - Lockdown in Ebene 2 [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das eine Einrichtung wie das Haus am See über verschiedene Funktionen verfügt die in der Lage sein sollten das Personal und aber auch die Exponate drinne zu halten versteht sich von selbst. Leider sehen wir das irgendwie nie in Person. Immer handelt es sich bei den Dingen um Gegenstände und Ereignisse die anscheinend mit absoluter Leichtigkeit ihren Räumen entwischen. Andere Dinge wie der Kühlschrank scheinen sich eher davon abhalten zu halten wild durch die Gegend zu springen wenn sie beobachtet werden aber so richtig zu funktionieren scheint es nicht. Dann kann man die Dinge auch noch in Schwarzstein einschließen, aber auch hier scheint mir das eher ein virtueller Effekt zu sein. Klar, das älteste Haus hat solche Dinge wie die Firebreaks die sehr beeindruckend aussehen. Eine ähnliche Wand habe ich bisher nur in dem Film Colossus gesehen. Und doch, all das was diese Lockdowns machen ist das wir als Protagonist nicht richtig los legen können. Fast so wie Zivilrecht den Arm des Gesetzes davon abhält die bösen Buben zu fangen weil irgendwelche Protokolle eingehalten werden müssen. In einiger Fantasy die ich so gelesen habe kommt es gelegentlich vor das die Schutzrituale von der anderen Seite gezeigt werden. Wie zum Beispiel wenn ein Charakter der irgendwie quasi zu einer Art Fee wird nicht mehr aus einem Salzkreis ausbrechen kann und davon sehr genervt ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 14, Aufnahme vom 30.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #93##6
+
+* Titel: `AW2: The Lake House - #93 ##6 - Schwarzsteinwerfer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schwarzstein ist ein wenig die Universalwaffe des Federal Bureau of Control. Wir wissen bereits wie es gewonnen wird und ich würde vermuten das die Leute die in der Schwarzsteingrube arbeiten sich in der Regel ziemlich sicher fühlen sollten. Wenn nicht grade das Zischen oder irgendeine andere Katastrophe die Realität bedroht scheint mir die bloße Anwesenheit des Zeugs ein Garant für Sicherheit zu sein. Quasi der Basaltboden auf dem die Realität steht. Ein Material das physisch geworden "so nicht" sagt und die Realität wiederherstellt. Das klappt natürlich nicht immer aber manchmal funktioniert es so. Das Schöne an den meisten AWEs ist ja das man sie durchaus mit gewöhnlichen Mitteln lösen kann und wenn man genügend Feingefühl findet gibt es sogar eine richtige Lösung. Eine korrekte Herangehensweise wie man der Lage Herr wird und wie man das Ereignis eindämmt. Nur braucht man dafür in der Regel eine Saga Andersson, einen Alan Wake oder eine Jesse Faden. Kurzum einen Protagonisten. Für uns Normalos wie Kiran Estevez hilft es ein kleines Werkzeug zu haben das die gewöhnlichen Wege um geht. Und hier kommt Schwarzstein ins Bild. Eine schlaue Person namens Karla Livingston war anscheinend besonders kreativ und hat ein kleines Überraschungswerkzeug für uns erschaffen. Sehr nett von ihr. Ich fürchte nur das sie selber tot ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 14, Aufnahme vom 30.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #94##7
+
+* Titel: `AW2: The Lake House - #94 ##7 - unendliche Ambitionen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt verschiedene Studien und Theorien zum Thema Ambitionen und was Menschen antreibt. Ich habe da absolut keinen Überblick und kann auch nicht so richtig einen Durchschnitt geben weil ich auch nur einzelne Stücke hier und dort gesehen habe. Die Kurzfassung ist aber wohl die das Männern im Allgemeinen ambitionierter sind weil das aus einem Rollenbild entstanden ist das man halt immer besser als die anderen Männchen sein will. Jetzt sind Menschen doch einen oder zwei Schritte von Primaten entfernt und es gibt definitiv einige sehr sehr ambitionierte Frauen da draußen. Es ist also nicht direkt ein Geschlechterding. Statistisch vielleicht, aber in der Praxis und konkreten Situation in der man sich wiederfindet kann das dann wieder ganz anders aussehen. Ambitionen treiben uns also an, machen vielleicht sogar aus dem Menschen was er ist. Ambitionen sorgen dafür das Zahlen immer höher gehen muss und niemand damit glücklich ist nur in einer Lehmhütte zu sitzen. Meistens haben Menschen dann aber schon eine gewisse Selbstregulation und übertreiben es nicht völlig. Aber manche Menschen sind auch einfach Psychopathen, oder haben irgendwelche Windungen im Gehirn nicht, der Frontallappen macht weniger mit oder irgendetwas. Und dann kann es vorkommen das eine Person ein wenig mehr ambitioniert ist. Größere Pläne hat. Größenwahn könnte man es auch nennen. Bei vielen Individuen ist das immer noch kein Problem weil große Pläne alleine nicht die Fähigkeit gibt diese auch umzusetzen. Aber wenn man solchen Leuten Macht gibt..oder sie genügend Charisma haben um Macht zu erhalten, dann können Dinge geschehen. Die Marmonts waren wohl nicht immer so, hier liegt wohl eine externe Quelle vor.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 15, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #95##8
+
+* Titel: `AW2: The Lake House - #95 ##8 - Forschungsarchiv [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Lake House ist eigentlich nicht groß. Aber irgendwie ist es trotzdem riesig. Dafür das es sich nur um eine Außenstelle irgendwo im Nirgendwo handelt muss man sich schon ganz schön wundern. Das ist echt viel Beton der hier einfach irgendwie deponiert wurde. Wie genau macht das Bureau of Control das? Gibt es geheime Behördenwege um große Architektur zu schaffen die von Außen kleiner aussieht. Untergrundprojekte sind notorisch nervig und irgendetwas unter der Erde zu bauen ohne vorher ein Loch auszuheben ist auch nicht billig oder einfach. Gibt es so etwas wie kleine älteste Häuser bzw. Ableger von Yggdrasil die man für solche Expansionen und Forschungseinrichtungen nutzen kann? Anders ist die Größe eigentlich nicht zu erklären. Oder es gilt hier einfach die "Rule of Cool" und das passt dann schon alles. Dafür das die Ästethik eigentlich Brutalismus ist bin ich ein viel zu großer Fan der gesamten Angelegenheit. Aber vielleicht sind es auch die riesigen Räume die mich begeistern. Eines ist klar, Heizen will man hier nicht. Wie sich das wohl mit warmer Luft verhält wenn auf einmal ein Ort zu gewaltiger Größe warpt?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 15, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
+##### #96
+
+* Titel: `AW2: The Lake House - #96 ##9 - Lichtschnur [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein großer Fan des Lake House DLCs und es ist wirklich schade das Alan Wake 2 als Ganzes nicht so wirklich zugänglich ist. Ich fürchte allerdings auch das für einige Leute das Spiel auch generell ein wenig verwirrend ist bzw. einfach nicht so zugänglich erscheint weil es minimal fordert. Ich würde an der Stelle jetzt ungern das "man muss ja so intelligent sein um das Remedy-verse zu verstehen" sein aber ein wenig mit denken muss man schon. Allerdings kann sich das Haus am See wohl auch die Kritik geben lassen das es einfach Elemente die bereits in Control etabliert wurden noch einmal aufgreift und wenig innovativ ist. Es erweitert das Konzept ein wenig hier und da aber im Kern ist es mehr vom Gleichen. Heute zum Beispiel das Gesetz der Drei. Ich bin hier ein wenig unsicher ob ich es gut oder schlecht finde. In einem anderen Spiel, namentlich ESO, beschwere ich mich gerne darüber das es keine neuen Charaktere gibt bin dann aber auch traurig das ich alte bekannte Größen nicht wieder treffe wenn ich ein neues DLC spiele und nicht Rigurt oder Razum Dar auftauchen. Oder Naryu. Nach einer kurzen Introspektion würde ich aber schon sagen das ich insgesamt ganz glücklich damit bin das The Lake House uns quasi in ein Mini-ältestes Haus schickt. Doch doch, eigentlich ganz cool.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 15, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
+  ```
+
 ##### #Nummer
 
 * Titel: ``

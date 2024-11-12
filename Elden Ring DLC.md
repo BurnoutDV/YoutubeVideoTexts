@@ -915,7 +915,97 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
   ```
 
-##### #Nummer
+##### #71
+
+* Titel: `Elden Ring DLC - #71 - Dunkellichtkatakomben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich dachte ja eigentlich das wir alles gesehen haben und hatte wirklich nicht damit gerechnet das wenn man an einer random Ecke abbiegt, dann noch ein wenig weiter geht, an einem Schloss vorbei und dann noch ein Stück, das man dann plötzlich unten, am Ende eines Flusses eine riesige Katakombe findet. Doch doch, das alles ist überraschend für mich. Der Name ist auch Programm, es ist größtenteils dunkel und es warten Schrecken an jeder Ecke auf uns. Das ist absolut fantastisch und ich liebe ja nichts mehr als dunkle Ecken. Immerhin gibt es die Option Licht zu machen und trotz eingeschränkter Sicht kommt nicht wirklich ein Verwirreffekt auf da es an Abzweigungen mangelt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 15, Aufnahme vom 14.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #72
+
+* Titel: `Elden Ring DLC - #72 - Abgrundwald [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lange habe ich von diesem Ort geträumt. Dem Abgrundwald. Nicht weil ich schon immer unbedingt an einen sehr lichtarmen Ort kommen wollte der aussieht wie die Freiluftvariante der Dunkellichtkatakomben sondern weil ich die ganze Zeit von oben sehen konnte das es diesen Ort gibt aber keine Möglichkeit gefunden habe irgendwie dort hin zu gelangen. Und jetzt hat sich endlich ein Weg gezeigt und den werden wir natürlich auch ausnutzen und erkunden. Es gibt allerdings ein paar wenige Abstriche die wir hier unten erleben müssen. Einer davon ist zum Beispiel der das es hier nicht besonders viel Licht gibt, das ist überraschend und ich habe es auch grade nicht schon erwähnt. Der nächste ist das unser Pferd Angst hat. Das lässt den gesamten Ort wesentlich größer erscheinend und macht das Reisen durch den Wald ein wenig anstrengend. Und wir können schlechter vor Bedrohungen davon laufen sollten wir einmal Angst haben. Ob das noch relevant wird muss sich noch zeigen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 15, Aufnahme vom 14.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #73
+
+* Titel: `Elden Ring DLC - #73 - Horror im Wahnsinnswald [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lange habe ich von diesem Ort geträumt. Dem Abgrundwald. Nicht weil ich schon immer unbedingt an einen sehr lichtarmen Ort kommen wollte der aussieht wie die Freiluftvariante der Dunkellichtkatakomben sondern weil ich die ganze Zeit von oben sehen konnte das es diesen Ort gibt aber keine Möglichkeit gefunden habe irgendwie dort hin zu gelangen. Und jetzt hat sich endlich ein Weg gezeigt und den werden wir natürlich auch ausnutzen und erkunden. Es gibt allerdings ein paar wenige Abstriche die wir hier unten erleben müssen. Einer davon ist zum Beispiel der das es hier nicht besonders viel Licht gibt, das ist überraschend und ich habe es auch grade nicht schon erwähnt. Der nächste ist das unser Pferd Angst hat. Das lässt den gesamten Ort wesentlich größer erscheinend und macht das Reisen durch den Wald ein wenig anstrengend. Und wir können schlechter vor Bedrohungen davon laufen sollten wir einmal Angst haben. Ob das noch relevant wird muss sich noch zeigen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 15, Aufnahme vom 14.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #74
+
+* Titel: `Elden Ring DLC - #74 - Midras Pfarrhaus [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ehrlich gesagt überrascht. Schon wieder. Es gibt einen Norweger in Japan der sich selbst Mr Yabatan oder so nennt und seine Catch-Phrase ist (auf japanisch) "ich bin sehr überrascht". So fühle ich mich auch grade. Zu erst das ich den Abgrundwald so gefunden habe (nicht wirklich, ich hatte in einen Guide geschaut) und dann das wir hier unten die Chaosflamme finden und jetzt halt das wir ein Pfarrhaus betreten. Mir ist so auf Anhieb nicht ganz bewusst was das eine mit dem Anderen zu tun hat aber ich bin mir sicher früher oder später wird alles offenbart werden und dann schaue ich zurück und werde mir denken das ich doch so dumm in der Vergangenheit war und jetzt so viel schlauer als zuvor bin. Für den Moment setzt hier aber ein wenig Verwirrung ein und die Art und Weise wie Eldensoulsborn Spiele Geschichte erzählen hilft hier auch nicht unbedingt. Draußen vor der Tür liegen Leute rum, aber es ist nicht einmal im Ansatz klar was hier eigentlich Phase ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring: Shadow of the Erdtree am Dark Souls Donnerstag
+  Sitzung 16, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPEPO_yiDm8OHA4JIQRc1qA
+  ```
+
+##### #75
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #76
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #77
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #78
 
 * Titel: ``
 

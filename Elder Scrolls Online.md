@@ -12098,24 +12098,140 @@
   Aufnahme vom 31.10.2024 - #1979 - ##56
   ```
 
-##### #Nummer
+##### #1980
 
-* Titel: ``
+* Titel: `Let's Play ESO #1980 ##57 - Bekannte der Familie [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 57 des Gold Road DLCs - Sitzung 10
+  
+  Gelegentlich kommt in mir die Frage auf ob sich das Verhältnis zu Freunden im Laufe der Jahre verändert hat. Es gibt da auf der einen Seite dieses für mich seltsame Konzept der Patentante oder Onkel wo man anscheinend einen guten Freund noch näher in die Familie reinholt ohne das man die entsprechende Person direkt heiraten muss. Das scheint etwas für Leute zu sein die gerne ihren besten Freund geheiratet hätten aber leider schon in einer Beziehung waren. In meiner eigenen Realität waren Freunde etwas das Eltern zwar hatten aber sie wurden immer als Bekannte bezeichnet, distinktiv anders als das was man als Kind als Freunde hatte. Ganz selten hat man die auch mal gesehen, wahrscheinlich weil die Eltern mit Kind eher selten zu sich eingeladen haben. Grade deswegen kam es mir wohl immer so vor als hätten meine Eltern keine Freunde. Oder sie hatten wirklich keine weil sie umgezogen sind und die ersten mit Kind waren und deshalb sozial aus deren Dunstkreis gefallen sind? Ich weiß es nicht. Insofern kommt es mir komisch vor mit Mitte 30 noch Freunde zu haben, ich weiß nicht inwiefern diese meine eigene Tochter überleben aber vielleicht sind das dann für sie dann auch am Ende "Bekannte".
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 31.10.2024 - #1980 - ##57
   ```
 
-##### #Nummer
+##### #1981
 
-* Titel: ``
+* Titel: `Let's Play ESO #1981 ##58 - Ritus der Vermehrung [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 58 des Gold Road DLCs - Sitzung 11
+  
+  Der Folgentitel ist enorm schlecht. Aber ich habe ihn mir nicht ausgedacht. So heißt das Ritual halt das heute eine zentrale Rolle spielt. Soweit ich das verstanden habe hat es eigentlich überhaupt nichts mit Fortpflanzung zu tun. Klar, es geht hier im konkreten Fall tatsächlich um eine Eheschließung, aber das könnte es auch genauso gut nicht tun. Und nur weil die Leute vielleicht heiraten heißt es ja nicht das sie sofort Kinder werfen. Es handelt sich schließlich um Elfen, die haben, so nehme ich zumindest an, wesentlich weniger biologischen Druck direkt mit Mitte 20 Nachwuchs zu werfen. Zurück zum Thema, eigentlich geht es bei der Rite im Titel mehr um eine Art Dorf Tihng. Es werden alle Leute die da so wohnen gefragt was sie von der Eheschließung halten und wenn keiner zu laut schreit dann passiert das dann halt obwohl normalerweise das OK der Eltern wohl wichtig wäre. Quasi klassische Volksbefragung, außerdem zieht man schön alle Leute in eine Privatangelegenheit rein und kann die gute Gelegenheit nutzen um irgendwelche ideologischen Konflikte aus zu tragen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 05.11.2024 - #1981 - ##58
+  ```
+
+##### #1982
+
+* Titel: `Let's Play ESO #1982 ##59 - Relikte der drei Fürsten [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 59 des Gold Road DLCs - Sitzung 11
+  
+  Neues Thema nachdem wir irgendeine nicht ganz so wichtige Nebenmission letztes Mal schnell abgeschlossen haben. Immerhin keine lange Vererbungsgeschichte wie das eine Mal in dem Anwesen wo es am Ende ziemlich egal erschien. Wir sind wieder in der Hauptquest und dürfen uns an den Prolog erinnern. Oder vielleicht sogar noch weiter zurück. Im gesamten vorherigen DLC war es ja ganz große Geschichte das ein Dremora namens Torvesard versucht hat heraus zu finden wer er eigentlich ist. Dabei kam auch noch heraus das Hermeus Mora nicht sehen kann wo er ist was ihn ziemlich interessant macht. Der Fürst der Geheimnisse blieb aber seinen Namen treu und hat sich bis zum Ende mit Informationen bedeckt gehalten und uns natürlich auch nicht verraten was er weiß obwohl er eigentlich von Anfang an eine gute Vorstellung gehabt haben musste was Torvesard ist und welche Geschmacksrichtung Dremora er ist. Am Ende haben wir erfahren das eine Daedrafürstin namens Ithelia existiert hat und dann nicht mehr und diese irgendwie befreit werden kann. Dann hatten wir einen Prolog, Torvesard hat versucht irgendwelche Artefakte zu finden und dann hatte dann am Ende mit Boethias Klinge Tilger Erfolg nur um dann heraus zu finden das Ithelia ihr Gefängnis bereits verlassen hat. Die Klinge haben wir mittlerweile wieder, die Laterne tauchte eher zufällig auf. Es verbleibt also noch ein Gegenstand von dem wir nur am Rande gehört hatten. Mephalas Strang.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 05.11.2024 - #1982 - ##59
+  ```
+
+##### #1983
+
+* Titel: `Let's Play ESO #1983 ##60 - Niryastare [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 60 des Gold Road DLCs - Sitzung 11
+  
+  Wir erinnern uns doch gewiss noch an den Prolog oder? Es ist schon wieder eine Weile her und ich gebe zu dazwischen lag die ein wenig sehr lange Quest mit dem Erbe, aber wenn wir noch einmal ganz scharf zurückdenken dann wissen wir das es da dieses Thema mit den drei Artefakten der Daedra die Hermeus Mora geholfen haben Ithelia ein zu sperren. Namentlich sind das Mephalas Strang, Boethias Klinge und Azuras Laterne. Ich würde die Theorie in den Raum stellen das es nur eine sehr begrenzte Anzahl solcher Artefakte die einen Teil der Essenz der entsprechenden Fürsten enthält gibt. Eine endliche Ressource wird benötigt um sie herzustellen und ich kann mir einfach nicht vorstellen das die entsprechenden Fürsten willens sind das Risiko einzugehen das ihre gebundenen Artefakte einfach verloren gehen. Umso verwunderlicher ist eigentlich das wir überhaupt etwas finden konnten. Oder anders, das Torvesard in der Lage war etwas zu finden. Bzw. auch nicht. Ich hätte erwartet das man nach getaner Arbeit die entsprechenden Relikte wieder absorbiert um keine Macht in der Reichweite von Sterblichen verbleiben zu lassen. Oder aber die Aufgabe ist noch nicht erfüllt und Dinge wie die Laterne es tat sind durchaus innerhalb der ursprünglichen Missionsparameter. Für Wesen mit außerordentlicher Macht ist es durchaus möglich Pläne zu haben die Jahrtausende spannen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 05.11.2024 - #1983 - ##60
+  ```
+
+##### #1984##61
+
+* Titel: `Let's Play ESO #1984 ##61 - Vier Welkyndsteine [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 61 des Gold Road DLCs - Sitzung 11
+  
+  Wir finden heute eine uralte, verfallene Stadt der Ayleiden wieder die ein Geheimnis enthält. Schon andere Abenteurer waren in der Vergangenheit hier, aber die Tatsache das man noch was holen kann spricht wohl dafür das die Gefahr nicht ganz klein. Es ist allerdings in wenig dumm das wir unbedingt die beiden Artefakte die wir zufällig haben brauchen um den Weg zu offenbaren. Das stört mich, wirklich. Was sind bitte die Chancen das wir genau dann an dem Ort kommen an dem wir die beiden Dinger brauchen die wir fanden und nicht vorher oder einfach viel später? Denkt sich hier niemand "man, das ist aber überaus praktisch". Fast schon zu praktisch möchte ich anmerken. Entweder jemand manipuliert uns hier nicht besonders subtil aus den Schatten heraus oder das Writing ist einfach nicht gut und ich wäre sehr froh wenn das alles ein wenig schwerer gewesen wäre. Ich meine, es ist zwar ganz nett das wir genau die richtigen Werkzeuge haben, aber wenn es einen alternativen Weg oder zumindest eine Erklärung gegeben hätte wie sich das ursprünglich die alten Elfen gedacht haben wäre ich schon glücklicher gewesen. Tilger hat uns praktisch nur erspart ein paar Schutthaufen zu umgehen, aber ohne die Laterne hätten wir kaum etwas erreicht. Die Laterne die wir, so möchte ich feststellen, ganz zufällig in einem Gasthaus fanden wo sie uns praktisch zu flog.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 09.11.2024 - #1984 - ##61
+  ```
+
+##### #1985##62
+
+* Titel: `Let's Play ESO #1985 ##62 - Mephalas Strang der Geheimnisse [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 62 des Gold Road DLCs - Sitzung 11
+  
+  Damals als ich den Prolog gespielt habe konnte er nicht gefunden werden. Aber hier ist er jetzt, der Strang der Geheimnisse. Hergestellt von Mephala um irgendwie gegen Ithelia vor zu gehen. Wahrscheinlich ein Objekt das irgendwie mit der Art und Weise interagiert mit der Ithelia sich normalerweise verborgen hält. Mir ist immer noch ein Rätsel warum diese Artefakte nicht nach getaner Arbeit wieder aufgelöst und resorbiert wurden. Vielleicht ist das gar nicht möglich, andererseits gibt es die großen Fürsten schon seit zehntausenden, wenn nicht sogar Millionen von Jahren, in irgendeiner Form. Wenn alle paar tausend Jahre die Notwendigkeit entsteht Essenz auf zu geben um große Waffen zu erschaffen sehe ich hier ein Problem am Horizont. Aber vielleicht ist das auch so eine Sache wo man prinzipiell etwas abgibt aber eigentlich ändert sich Netto in der Welt nichts. Oder aber die Bestimmung des Objektes war noch gar nicht vorbei. Aktuell habe ich ja die Theorie die mir Leramil ins Ohr gelegt hat ein wenig ins Herz geschlossen das die Realität eine Ithelia braucht und deswegen alle paar tausend Jahre Freigang gewährt wird. Ithelia geht bestimmte Schritte ab und dann wird sie wieder weg gesperrt. Vielleicht ist all das bereits in der Vergangenheit mehrfach passiert.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 09.11.2024 - #1985 - ##62
+  ```
+
+##### #1986##63
+
+* Titel: `Let's Play ESO #1986 ##63 - Kokelige Kekse [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 63 des Gold Road DLCs - Sitzung 11
+  
+  In der heutigen Episode rege ich mich eventuell ein wenig auf. Aber auch nur minimal. An sich sage ich auch schon alles warum ich das tue und wie es dazu kommt. Ich glaube aber auch nicht das ich übertreibe. Das Einzige das für mich noch offen ist inwiefern das Ganze Absicht ist. Haben die Schreiber Graf Calantius wirklich so absolut inkompetent geschrieben? Ist das Absicht das ein so schwacher und eindimensionaler Herrscher in Zeiten der Katastrophen über das Land herrscht und ist das ein Set-Piece damit die Geschichte überhaupt funktioniert? Hat sich jemand Gedanken gemacht und die entsprechenden Variablen so in Stellung gebracht damit überhaupt die Dinge möglich sind die passieren? Ist das Voraussicht damit erklärt wird wie sich die Waldelfen überhaupt ausbreiten konnten? Oder ist das einfach nur die Launen eines einzelnen Schreibers der eine lustige Quest über ein Bärenjunges schreiben wollte der einen dummen Namen hat und ich verstehe den Witz einfach nicht? Ich bin mir absolut unsicher, ich kann keine echten Beweise für die eine oder andere Theorie finden, aber halt auch nicht dagegen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 09.11.2024 - #1986 - ##63
+  ```
+
+##### #1987##64
+
+* Titel: `Let's Play ESO #1987 ##64 - Fürst Svendalmor [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 64 des Gold Road DLCs - Sitzung 11
+  
+  Fürst Svendalmor ist übrigens auch der dumme Bär über den ich mich so aufgeregt habe. Nur damit das von Anfang an klar ist, ich habe es nur geschafft mich so sehr aufzuregen das diese simple Fetch-Quest die wohl eigentlich nur den Grafen vorführen sollte einfach zwei Episoden gedauert hat. Das ist generell ein Muster das mir so auffällt, wenn Missionen oder Spiele gut sind dann habe ich eigentlich kaum Input und die Dinge passieren einfach. Ich spiele einfach durch und da die mechanische Seite von ESO eher relativ langweilig ist passiert auch da nicht so viel und dann ist die Quest durch. Andererseits, wenn etwas enorm schlecht ist oder ich über mehr Kontext verfüge dann neige ich wirklich dazu harte Verrisse spontan runter zu ranten. Das ist eigentlich ein wenig besorgniserregend. Bedeutet es doch das es mir wesentlich leichter fällt Negatives vom Stapel zu lassen als positive Worte zu sagen. Die Quest in der nächsten Episode gefällt mir zum Beispiel wesentlich besser aber ich weiß nicht ob ich das so richtig rüber bringen. Vor allem kann ich nicht einmal so richtig sagen warum ich sie gut finde. Auch wenn die eigentliche Prämisse wahrscheinlich auch eher ein Gag ist. Mehr dazu in Episode 1988.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 09.11.2024 - #1987 - ##64
   ```
 
 ##### #Nummer

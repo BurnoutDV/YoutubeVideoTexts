@@ -1467,14 +1467,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
-##### #Nummer
+##### #97##10
 
-* Titel: ``
+* Titel: `AW2: The Lake House - #97 ##10 - die Marmonts [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ein Marmot ist übrigens ein Murmeltier. Marmont ist einfach ein vage französisch klingender Name. Wir haben von den beiden relativ viel gehört ohne ihnen so richtig begegnet zu sein. Es ist wirklich tragisch. Wenn man in die weiter zurück liegenden Dokumente schaut scheint es so als hätten die beiden sich wirklich sehr geliebt und sehr gut ergänzt. Und dann kam das Lake House. Die Geschichte schreibt es vielleicht so als würden ihre entgegengesetzten Ansätze sie dazu getrieben haben den jeweils anderen immer mehr zu hassen, aber das erscheint mir doch eher wie eine Geschichte von Wake. War es wirklich Wake der diese Worte geschrieben hat oder war es Dunkel das sich einfach nur im Haus am See niedergelassen hat und dann sich selbstständig machte? Von Allem was wir so sehen können waren die beiden ein gutes Ehepaar, vereint in der Forschung aber auch darüber hinaus. Und doch, irgendwann fing es an. Man kann leider gar nichts recht sagen wer angefangen hat, wer zuerst gebrochen ist. Die Einträge der entsprechenden Tagebücher bzw. persönlichen Berichte lassen es so klingen als wäre das Misstrauen und der Hass phasenweise entstanden. Abschwellend und aufschwellend wie das Wasser am Strand bei starkem Wind. Manchmal hat man sich an früher erinnert und dann war man sich wieder feindlich gegenüber. Fraglich ist auch warum keiner von Beiden erkannt hat was passiert bevor es so weit war. Verlassen die Mitarbeiter das Lake House nie? Generell bleiben logistisch einige Fragen offen. Wo hat das ganze Personal gewohnt? Ist wirklich niemand entkommen? Das Dunkel agiert anders als das Zischen. Theoretisch sollte es doch einigen Leuten möglich sein weg zu rennen. Das Zischen frisst sich in den Kopf und weg rennen erscheint schwierig. Aber die Dunkelheit ist physischer, konzentriert, nicht omnipräsent. Insbesondere wenn der Übergang im Keller ist. Ob Jesse Antworten auf diese Fragen findet?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Alan Wake 2: The Lake House auf dem Donnerstags Slot.
+  Sitzung 15, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wM_kaVxlUor1-LGGd0BJijo
   ```
 
 ##### #Nummer

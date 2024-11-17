@@ -70,14 +70,19 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
   ```
 
-##### #Nummer
+##### #5
 
-* Titel: ``
+* Titel: `Outer Wilds: Echoes of the Eye - #5 - Floßfahrt [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Wir wissen aktuell eigentlich noch nicht so wirklich irgendetwas über die Bewohner der Habitatszylinder Einrichtung. Wir wissen wie sie grob aussehen weil sie praktischerweise Bilder hinterlassen haben. Man könnte vermuten das sie ihr Raumschiff nach ihrer Heimatwelt nach gebaut haben. Ein wenig Heimat immer bei sich zu haben scheint mir nicht die schlechteste Idee zu sein. Und das auch hochtechnologisierte Zivilisationen dann, lange nachdem sie eigentlich ihre kleinen Ursprünge hinter sich gelassen haben immer noch alten Traditionen nach hängen ist eine relativ alte Trophe in Sci-Fi. Wir müssen also davon ausgehen das dieses auf Flüssen lang fahren eine alte Tradition ist. Nur hat man wahrscheinlich früher gepaddelt oder irgendwie vom Boden abgestoßen. Die aktuelle Bote kommen eher ohne Paddel und fahren wenn man sie mit Licht anleuchtet. Ein wenig ärgerlich wenn man auf Kerzen vertraut und die ausgehen wenn man sie ins Wasser fallen lässt. Dann würde man den Fluten anheim fallen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Outer Wilds irgendwan aufgenommen, 19 Uhr Release.
+  Sitzung 1, Aufnahme vom 09.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
   ```
 
 ##### # #

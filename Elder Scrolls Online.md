@@ -12234,6 +12234,91 @@
   Aufnahme vom 09.11.2024 - #1987 - ##64
   ```
 
+##### #1988##66
+
+* Titel: `Let's Play ESO #1988 ##65 - Beliennes Selbsterhalt [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 65 des Gold Road DLCs - Sitzung 12
+  
+  Nachdem ich mich in der letzten Episode über einen Bären aufgeregt habe sieht jetzt alles anders aus. Ich kann leider nicht so richtig zu Papier bringen was ich hier so gut finde und diese Episode ist die Vorletzte des aktuellen Aufnahmezyklus, insofern kann ich gar nicht so richtig sagen wie es eigentlich zu Ende geht. Aber ich finde die Prämisse fantastisch. Eine Magierin mit Expertise in daedrischer Magie ist so eitel das sie ihre Mächte nutzt um den perfekten Spiegel zu schaffen. Durch Ithelias Anwesenheit ist aber wortwörtlich Spiegelmagie viel stärker als sonst und sie reflektiert nicht nur sich selbst sondern auch ihre Persönlichkeiten. Diese Persönlichkeiten existieren jetzt als physische Personen die durch die Welt rennen. Wie das alle mechanisch funktioniert kann ich auch nicht erklären aber irgendwann wurde ja schon einmal ausgeführt das Daedra Magie weird ist. Sie muss ja auch irgendwelche Dinge können die normale Magie von Magnus nicht hin kriegt, sonst bräuchte man ja gar nicht verhandeln. Aber es hätte auch immer sein können das der Wabberjack einfach nur ein sehr sehr komplexes Stück Magie-Tech ist das deswegen so weird ist weil ein verrückter Gott wirklich lange daran gearbeitet hat. Dennoch finde ich diese Mission um Welten besser als ein dummes Schoßtier des scheinbar infantilen lokalen Warlords zu suchen. Soviel besser.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 10.11.2024 - #1988 - ##65
+  ```
+
+##### #1989##66
+
+* Titel: `Let's Play ESO #1989 ##66 - Furcht & Vergnügen [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 66 des Gold Road DLCs - Sitzung 12
+  
+  Ich bin mehr und mehr erschrocken davon wie wir eigentlich nur Sklaven unserer Gefühle und Emotionen sind. Im Fallout New Vegas DLC "Old World Blues" hatte man das gegenteilige Problem, Menschen ohne jegliche Gefühle aber auch ohne Bremsen. Die waren dann zwar kaum mehr als ein Gehirn im Glas aber so richtig positiv war das dann auch nicht. Und doch, von Kindern würde man vielleicht erwarten das sie sich leicht einschüchtern lassen, Angst bekommen oder die Neugier Vernunft besiegt. Aber wenn man näher hinschaut dann ist quasi jede Entscheidung von Emotionen getrieben. Da wählt man wie man wählt weil man Angst um seine direkte Zukunft hat obwohl es auf einer Sachebene ab Schritt 2 eigentlich wesentlich besser wäre anders vor zu gehen. Oder man fängt an laut zu werden weil ein Thema doch zu aufgeheizt ist obwohl man eigentlich gar nicht so sehr investiert ist. Ich selbst bin emotional relativ flach, merke aber manchmal wenn doch etwas in mir heraus bricht. Und dann merke ich an anderen Tagen das flache Emotionen auch nicht immer gut sind, zum Beispiel wenn man sich nicht so richtig freuen kann. Ein gesundes Mittel ist hier wohl, wie so oft, der goldene Pfad. Und wahrscheinlich auch abhängig davon was man vorhat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 10.11.2024 - #1989 - ##66
+  ```
+
+##### #1990##67
+
+* Titel: `Let's Play ESO #1990 ##67 - Belienne die Bezaubernde [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 67 des Gold Road DLCs - Sitzung 12
+  
+  Die Quest mit Belienne ist wirklich kurz und sie findet heute ihr Ende. Hätte ich nicht noch ewig darüber gesprochen was mir so an dieser Mission gefällt wären wir auch schon viel früher fertig gewesen. Ich würde vermuten das normale Spieler die einfach nur durch die Nebenmissionen laufen diese Quest eher kaum in Erinnerung halten werden. Von der Struktur ist sie ja auch sehr simpel. Wir rennen an verschiedene Orte, sprechen mit irgendwelchen NPCs und dann ist sie auch schon fertig. Es gibt noch einen mittelmäßigen Zauberstab den wir beim nächsten Pfandleiher billig abstoßen damit er keinen Platz im Inventar verstopft. Und das war es dann aber auch schon. Aber für mich ist das hier eine ziemlich wichtige Mission. Die Kreativität und Vorstellungskraft die hier liegt ist vielleicht im ersten Moment nicht ganz offensichtlich aber ich finde sie sogar erfrischend. In zwei Episoden werden wir irgendeinem Dude begegnen der überfallen wurde und die Struktur der Quest wird quasi aus 100 Metern Entfernung telegrafiert und findet dann auch exakt so statt. Hier haben wir ein ganz anderes Kaliber. Beliennes Selbsterkenntnis, die Zerstückelung der Emotionen und Wesenszüge ist eine komplexe Angelegenheit und vielleicht war es auch nicht intendiert, aber im Großen und Ganzen ist das hier ein enorm tiefes Thema mit weitgreifenden Gedanken. Und am Ende geht es auch darum Teile von sich zu akzeptieren. Etwas das oft im Leben nicht so einfach fällt wenn man sich nicht physisch in seine Wesenszüge zerstückelt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 15.11.2024 - #1990 - ##67
+  ```
+
+##### #1991##68
+
+* Titel: `Let's Play ESO #1991 ##68 - Haldain-Holzfällerlager [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 68 des Gold Road DLCs - Sitzung 12
+  
+  Die heutige Episode ist ein wenig kurz. Das liegt größtenteils daran das das Haldain Holzfällerlager mit einem lang etablierten Konzept bricht. Es gibt keine Quest vor der Tür. Ich weiß nicht so genau warum dem so ist. Vielleicht liegt es am Zustand der Hauptquest oder irgendwelchen anderen Parametern, oder vielleicht war nicht genügend Zeit vor dem Release. Wie dem aber auch sei, es wirkt so als sollte hier etwas sein, aber hier ist einfach nichts. Und deswegen laufen wir jetzt umher und tun quasi nichts, aber der Ort ist auch nicht erfolgreich befreit. Insofern habe ich nicht so richtig eine Idee was ich hätte tun sollen. Vergessen wir diesen Ort einfach denke ich einmal.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 15.11.2024 - #1991 - ##68
+  ```
+
+##### #1992#69
+
+* Titel: `Let's Play ESO #1992 ##69 - Eine Frage der Schicklichkeit [Gold Road]a`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 69 des Gold Road DLCs - Sitzung 12
+  
+  Es gibt einen gewissen Horizont innerhalb dessen Reichweite ich über zukünftige Episoden sprechen kann. Bei den meisten Projekten handelt es sich um etwas sieben oder weniger Episoden weil das die Blocklänge ist in der ich in der Regel aufnehme. Bei ESO muss ich zugeben das es weniger als sieben sind, meistens nur drei oder vier weil ich das zwischendurch in Mittagspausen oder zwischen Abendbrot und Essen mache. Ziemlich zwischen gequetscht. Daher weiß ich in zum Beispiel heute noch nicht wie die Mission ausgehen wird die wir heute nebenher finden. Leider ahne ich schlimmstes. Und das belastet mich sehr. Wirklich, es ist vielleicht nicht so offensichtlich aber diese Falschheit im Writing von ESO macht mich schon fertig. Auf der einen Seite versucht man irgendwie inklusiv mit tollen Neo-Pronomen zu sein aber dann wird in einer Quest das heilige Konstrukt der Ehe nicht einmal in Frage gestellt. Ich bin mir relativ sicher das die heutige Mission damit endet das der ach so tolle Verlobte der Handelsfamilie nicht bekommt was er will. Oder vielleicht auch doch. Ich habe auch davor ein wenig Angst, das mir in einem Rollenspiel keine Wahl und Raum gelassen wird mich zu entfallen. Wir stumpf unserem Auftragsgeber helfen ohne jemals zu hinterfragen ob das was wir tun eigentlich gut und Recht ist. Das das Spiel bereits direkt am Anfang jeden Versuch eines Twists offenbart empfinde ich allerdings als persönlichen Affront.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 15.11.2024 - #1992 - ##69
+  ```
+
 ##### #Nummer
 
 * Titel: ``

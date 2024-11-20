@@ -75,6 +75,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
+##### #5
+
+* Titel: `Asterigos - #5 - die schwarze Straße [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einigen Episoden werden wir den Basar betreten. Das dauert noch ein wenig aber wir waren sogar technisch gesehen schon da. Ganz am Anfang als wir Aphes betreten hatten und durch nebelige Straßen liefen um dann von einem großen Mann überfallen zu werden. Das waren die Wege des Basars. Ein wenig menschenleer, aber dafür gibt es anscheinend Gründe. Das ganze Setting dort hat und wird mich an Fallout New Vegas, das Dead Money DLC erinnern. Diese beklemmenden Straßen und Gassen mit einem leichten Nebel der wahrscheinlich sogar ein wenig tödlich ist. Das ist etwas woran ich denken würde wenn jemand "schwarze Straßen" sagt. Die Realität sieht aber wohl so aus das die Armutsviertel wahrscheinlich nicht wegen ihrer Farbe so heißen. Der Ort selbst ist ein erstaunlich schöner Platz der durch Sonne beschienen wird und malerisch an einer Klippe liegt. Dort zu wohnen ist wahrscheinlich aufgrund der geringen Baustandards dann doch nicht so pittoresk wie ich eben behauptet habe, aber dennoch sieht es nicht nach etwas aus das man mit Fug und Recht als schwarze Straßen bezeichnen könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 1, Aufnahme vom 05.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #6
+
+* Titel: `Asterigos - #6 - innerstädtischer Wall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wälle sind enorm wichtig wenn es darum geht den Pöbel draußen zu halten. Oder Feinde, aber vor allem auch den Pöbel. Es ist ja eine Sache wenn die Gemeinen in der Müllabfuhr arbeiten oder dafür sorgen das das Geschäfte mit Waren beliefert werden, aber es geht nicht das diese "Leute" einfach so da herum lungern wo edle Reiche sind. In diesem Fall heißt die herschende Klasse Aristoi und man unterscheidet wohl noch zwischen Bürgern und Sklaven. Obwohl das Wort Sklave anscheinend eher klassisch besetzt ist. Die Leute sind nicht wirklich versklavt in dem Sinne das sie auf einer Farm arbeiten und alle Lebensumstände durch ihren Besitzer vorgesetzt bekommen, sondern eher das sie rechtlose Tagelöhner sind die schauen müssen das sie nicht morgen verhungern. Viel mehr wissen wir aber auch nicht, bisher hat sich leider noch niemand bei uns gemeldet um die Gesellschaftsstruktur von Aphes im Detail auseinander zu nehmen. Aber da wir als Spieler auch nichts über die Welt von Anbari, deren Gesellschaft und Rechtssystem wissen, außer das sie einen König besitzen, ist das ja eigentlich gar nicht so schlimm. Von der Draußenhaltung ärmerer Leute besitzt der innerstädtische Wall erstaunlich viel Volumen und Lagerstätten. Zum Beispiel auch für Weizenmehl das sich scheinbar immer wieder zurück in seine Säcke findet. Ein Umstand den wir irgendwie ausnutzen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 1, Aufnahme vom 07.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #7
+
+* Titel: `Asterigos - #7 - die Geheiligte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Regierungsstruktur in Aphes ist relativ unklar für Hilda. Ich würde aber einen Versuch wagen es zu erklären. Unter Umständen liege ich sehr falsch: Bürger haben keinen oder nur geringen Einfluss. Die Aristoi wählen unter ihresgleichen Senatoren die wiederum die sogenannten Archone für spezielle Aufgaben ernennen. Wir wissen zum Beispiels bereits das es einen Dude namens Marble gibt der für die Armee zuständig ist. Ob die Senatoren jetzt per Familie zugeteilt werden (was erklären würde warum es auch Frauen in dieser Rolle gibt obwohl man sich allgemein scheinbar gegen Frauenrechte ausspricht) oder ob sie tatsächlich demokratisch gewählt werden ist zum jetzigen Zeitpunkt nicht klar. Und um ehrlich zu sein glaube ich auch nicht das wir noch in nächster Zeit eine Stunde Aphes Völkerkunde genießen werden. Entsprechende Informationen werden wir uns wohl im Vorbeigehen zusammen puzzlen müssen. Vorzugsweise während wir besagtes System eine Leiche nach der Anderen in Flammen aufgehen lassen. Oder Eis. Oder Blitz. Eine Senatorin die am Rande erwähnt wird ist Seryne. Anscheinend (das erfahren wir ehrlich gesagt wesentlich später) war sie mit bei Eumides an Bord ist dann aber irgendwann abgesprungen. Dann hat sie sich irgendwie als Heilige einen Namen bei den örtlichen Sklaven und Rechtelosen verdient und verschwand dann. Im lokalen Tempel treffen wir heute eine Frau die ziemlich exakt so aussieht wie die Erinnerung und Bilder von Seryne die aber stock und steif behauptet das sie nicht die Heilige ist. Das stimmt wahrscheinlich auch, es spricht Einiges dafür das sie eher Buße tut.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 1, Aufnahme vom 07.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -12319,6 +12319,50 @@
   Aufnahme vom 15.11.2024 - #1992 - ##69
   ```
 
+##### #1993##70
+
+* Titel: `Let's Play ESO #1993 ##70 - die Mitgift [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 70 des Gold Road DLCs - Sitzung 13
+  
+  Nach meiner Kritik von der letzten Episode hatte ich bereits mit dem Schlimmsten gerechnet bin dann aber doch überrascht wie es ESO schafft mich erneut zu enttäuschen. Vor Augen muss man sich definitiv halten das die Mission die wir heute spielen weniger eine große Aufgabe und mehr das dazugehörige Erklärungs-Schauspiel für die Höhle ist die wir betreten. Also quasi ein kleines Stück Geschichte damit ein Dungeon nicht einfach so kommentarlos da steht. Eine Erklärung warum es dieses Schloss oder jene Werft gibt und warum da jetzt Bedrohungen herum laufen die sogar uns bedrohen können. Dennoch macht die Quest doch mehr auf als sie eigentlich sollte. Am Ende bin ich übrigens anders enttäuscht als ich erwartet hatte. Ich dachte ja das mir die Wahl gelassen wird zwischen der Hochzeit oder halt den freien Willen der zukünftigen Braut. In der Realität ist es dann aber doch noch ganz anders. Die Entscheidung kommt nie auf und es scheint mir fast so als hätte Zenimax völlig vergessen das wir ein Rollenspiel spielen. Ihr wisst schon, das R in MMORPG. Wir treffen gar keine Entscheidung und letztendlich sind wir nur stummer Beobachter in einem Schauspiel das zwar unser Mitwirken braucht um weiter zu gehen, aber ich würde schon ein wenig mehr von einem Spiel im Jahre 2024 erwarten als ein un-terinteraktiver Theme-Park. Das ist schließlich meine Aufgabe, un-interaktiv zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 17.11.2024 - #1993 - ##70
+  ```
+
+##### #1994##71
+
+* Titel: `Let's Play ESO #1994 ##71 - Ein weiterer Tod in Ontus [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 71 des Gold Road DLCs - Sitzung 13
+  
+  Wir sind jetzt mehrfach durch Ontus geritten und haben dort irgendwelche Dinge nebenher erledigt. Aber so richtig dort gewesen sind wir noch nicht. Das ändert sich heute. Das kleine Dorf ist dann doch ein wenig mehr als nur ein Zwischenhalt für reisende Händler. Wenn ich mir diesen kleinen Exkurs einmal erlauben darf, reisende Händler und die Infrastruktur die man braucht wenn Reisen generell langsamer ist ist etwas das heutigen Dörfern wahrscheinlich enorm fehlt. Ich romantisiere das natürlich enorm, und selbst wenn nicht gibt es immer noch genügend kleine Ortschaften das fernab jeder wichtigen Straße liegen und daher einfach nicht angefahren werden, egal was ist. Zurück zur Romantik. Dörfer sind kleine Zentren für Infrastruktur die die umliegende Agrikultur braucht, beispielsweise ein Schmied, vielleicht eine kleine Niederlassung der Bürokratie des Landes und ein paar Umschlagsplätze für Waren. Wenn jetzt aber außerdem noch Reiseinfrastruktur existiert kommen auch von weiter weg Informationen und Waren an diesen Ort. Vielleicht gibt es zeitlich beschränkt Waren von reisenden Händlern oder ebene jene Reisende lassen mehr Geld in dem Ort als er von sich aus produzieren könnte. Insofern wäre es nichts schlechtes ein Zwischenstopp Ort zu sein. Nur doof wenn die Reisezeit dank Bahnverkehr oder schneller LKWs so gering ist das es keinen Grund mehr gibt zu halten. Oder wenn man keine Karawannenwache mehr durchfüttern muss und der Fahrer die meiste Zeit alleine ist. Ontus ist das aber alles egal. Der Ort ist anscheinend vom örtlichen Steinbruch abhängig. Das erscheint mir auch kein nachhaltiges Geschäft zu sein. Aber im Hier und Jetzt ist das eine wichtige Lebensader. Bis auf die toten Leute, die leben nicht mehr. Und deswegen sind wir hier.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 17.11.2024 - #1994 - ##71
+  ```
+
+##### #1995##71
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

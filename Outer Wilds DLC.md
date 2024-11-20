@@ -85,7 +85,117 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
   ```
 
-##### # #
+##### #6 #
+
+* Titel: `Outer Wilds: Echoes of the Eye - #6 - Verborgene Schlucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe die Episoden nach den Namen benannt die mir das Spiel angezeigt hat. Es ist nicht so das die Schlucht besonders verborgen ist. An sich handelt es sich um ein Habitatsraumschiff und das hat die Form eines Zylinders. Wenn man die allgemein etwas weirde Größenordnung im Outer Wilds Universum so sieht könnte es durchaus sein das die Tonne in "unserer" Realität eigentlich viel größer sein müsste aber hier ist sie es halt nicht. Daher ist es auch sehr überschaubar und so richtig versteckt ist eigentlich nichts das sich auf der Oberfläche befindet. Vielleicht handelt es sich auch um eine Fehlübersetzung und in Wirklichkeit ist gemeint das es sich um eine verbergende Schlucht handelt weil sich dort ein Tempel an das Auge findet? Ich weiß es nicht. Und da wir die Sprache der unbekannten Hirschwesen nicht sprechen gibt es auch nicht wirklich eine Möglichkeit für uns Namen zu erfahren. Und alle Namen die ich mir ausdenke werden noch weniger geklickt als so schon. Insofern bleibt mir kaum eine andere Möglichkeit als die Namen zu nehmen die ich habe oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Outer Wilds irgendwan aufgenommen, 19 Uhr Release.
+  Sitzung 1, Aufnahme vom 09.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
+  ```
+
+##### #7
+
+* Titel: `Outer Wilds: Echoes of the Eye - #7 - Träume vom Feuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es hat ein wenig gedauert, aber ich habe dann doch die andere Hälfte der Realität gefunden die die große Basis der Hirschwesen ausmacht. Stellt sich doch glatt heraus, es gibt hier eine spirituelle Komponente und es gibt wohl einen Grund warum wir hier niemanden mehr sehen bzw. einfach niemand von den Hirschen noch am Leben ist oder herumläuft. Die haben sich alle in eine gemeinsame Traumwelt zurück gezogen. Es scheint sich um eine Art Massenhalluzination zu handeln die man betreten kann in dem man träumt. Es erinnert ein wenig an Inception, allerdings vergeht die Zeit im Inneren nicht signifikant langsamer als in der Außenwelt, daran zu erkennen das wir trotzdem tot sind wenn die 22 Minuten vorbei sind. Aber immerhin gibt es neue Dinge zu entdecken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Outer Wilds irgendwan aufgenommen, 19 Uhr Release.
+  Sitzung 1, Aufnahme vom 09.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
+  ```
+
+##### #8
+
+* Titel: `Outer Wilds: Echoes of the Eye - #8 - Verwucherter Wald [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und erneut benutze ich die Beschreibungen des Spiels. Es handelt sich wohl um eine Art Traumsimulation der alten Welt der Hirschwesen. Warum und wie wissen wir allerdings noch nicht. Ansonsten ist kaum etwas zu sagen außer das die biologischen Körper vielleicht schon seit Jahrzehnten tot sind wenn nicht sogar wesentlich länger aber immerhin der Geist scheint nach wie vor anzudauern. Ob das vorhergesehen wurde? Was passiert wenn man außerhalb des Traumes stirbt aber die Kerze an bleibt. Und was sich auch fragt, sind wirklich alle Hirsche hier im großen Traum an dem was war oder sind die anderen Hirsche woanders hin gegangen? Das Innere der Habitatskapsel sieht schlecht gepflegt aus, was wirklich passiert ist bleibt aber enorm unklar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Outer Wilds irgendwan aufgenommen, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 29.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
+  ```
+
+##### #9
+
+* Titel: `Outer Wilds: Echoes of the Eye - #9 - Sternenscheingrotte [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein weiterer Name aus dem Bordcomputer. Ich frage mich langsam aber sicher woher eigentlich unser Schiff weiß wie die Orte heißen. Das es das Wissen über die einzelnen Loops hinweg behält ist eine ganz andere Sache die ich nicht einmal mehr in Frage stellt. Aber woher wissen wir das es die Sternenscheingrotte ist. Es könnte doch einfach nur die Grotte sein. Und wie viel Licht geben uns die Sterne wirklich. Immerhin kommen langsam die Dinge zusammen und ich habe den Eindruck das wir etwas erfahren. Was ich leider nicht habe ist das Gefühl das wir irgendwie dem großen Geheimnis auf die Spur kommen. Dadurch das es keine Worte gibt die wir lesen können sondern nur Bilder bzw. Diashows ist es nicht ganz so einfach alles nach zu vollziehen was geschah. Es handelt sich eher um Fragmentwissen und der Rest muss irgendwie unsere Fantasie schaffen. Vielleicht gibt uns ja der große Sarg am Ende eine echte Erkenntnis.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Outer Wilds irgenwann aufgenommen, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 29.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
 
 * Titel: ``
 

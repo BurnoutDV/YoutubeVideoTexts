@@ -81,6 +81,54 @@ Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
+##### #5
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #5 - Grabfeld Seenplate [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir kommen vorran! Wirklich. Es ist nicht so das wir immer und immer wieder die gleichen Orte anschauen weil Jan glaubt das wir an einer Ecke ganz unten links übersehen haben das hinter einen umgestürzten Haus vielleicht noch ein Tunnel sein könnte und wir jetzt da hin reiten müssen weil es absolut keinen Wegpunkt in der Nähe gibt. Generell kann ich hier aber wirklich nur wiederholen was ich auch zuvor gesagt habe. Erkunden in Elden Ring ist ja ganz witzig, aber wenn es so viele leere Orte gibt und einfach die Hälfte der Welt nur Landschaft ist wird es doch relativ schnell ziemlich langweilig. Und das DLC ist vielleicht flächentechnisch riesig, aber es scheint nicht so richtig viele "Points of Interest" zu geben. Ich hatte vor Jahren einmal die Idee das man in einem Spiel gewaltige Städte und Orte machen kann, aber wenn man zu weit ins Niemandland läuft dann wird das Spiel langsam Schwarzweiß oder in Städten springt man quasi von einer Gasse in die nächste. Wie man das visuell macht weiß ich nicht, meine Vorstellung ist da etwas unscharf. Es wäre bestimmt nicht leicht so das es auch ungeskriptet klappt. Als grobe Idee würde ich aber vorschlagen wie das Dunkel in Alan Wake 2 funktioniert. Eine solche Technik hätte Shadow of the Erdtree wirklich erheblich geholfen. Man kann die Kulisse im Hintergrund haben, gewaltige Landschaften und alles, aber wenn man hingeht ist sofort klar das die Ecke wirklich tot ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 2, Aufnahme vom 27.08.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #6 
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #6 - Schloss Ensis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zum Zeitpunkt der Veröffentlichung dieser Episoden gibt es hier schon eine ganze Menge auf Vorrat und ich weiß grob wie lang das gesamte Projekt noch andauern wird. Insofern kann ich sagen das wir grade am Anfang eigentlich guten Fortschritt gemacht haben. Und auch generell eigentlich, es ist nur so das das Spiel große leere Gebiete zu bieten hat und wir jemanden im Team haben der sehr gerne Ecken erkundet. Im Hauptspiel gab es da durchaus auch etwas zu finden aber dem ist jetzt halt nicht mehr so. Daher laufen wir jetzt viel durch leere Orte. Das wird aber wieder dadurch ausgeglichen das Jan und Alex beide ziemlich gut in Elden Ring sind und zu Dritt die meisten Bosse nicht so wirklich etwas entgegen zu setzen haben. Ich versuche mich daher mehr und mehr aus den Gefechten heraus zu nehmen und den beiden die Verzweiflung zu überlassen die ich gespürt habe als ich dies hier spielte. Mittelfristig hilft hier natürlich auch das wir durch unser gründliches Suchen auch ziemlich viel Schaden und Resistenz durch die Scadu-Baum Samen haben. Etwas das mein Einzelspieler Charakter nicht die ganze Zeit hatte. Daher geht so mancher Boss eben recht flüssig. Was nicht ganz so flüssig geht ist Schloss Ensis. Es ist groß, lang und hat Geheimnisse die natürlich alle erkundet werden wollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 2, Aufnahme vom 27.08.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #7
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #7 - Rellana, Zwillings-Mondritterin [Let's Play; ger]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Anfang dachte ich ja noch das es Zufall ist das in Elden Ring so viele Charaktere so ähnliche Namen haben. Mit der Zeit wuchs in mir aber die Erkenntnis das es wohl doch Absicht ist. Anders kann ich mir einfach nicht erklären wie es zu Dingen wie Godfrey, Godofry und Godrick kommt. Melenia und Miquelle und jetzt halt auch Rennalla und Rellana. Da kann nur Absicht hinter sein. Die Zwillingsmondritterin hat übrigens wesentlich mehr drauf als die doch recht schläfrige Schwester die erst durch ihre Tochter richtig am Leben gehalten werden musste. Wir haben heute also weniger Probleme mit dem Mond sondern eher das die Mondritterin immer einen von uns mächtig im Gesicht steht und eher nicht dazu neigt sich in Zurückhaltung zu üben. Das Ganze läuft dann auf einen eher stressigen Kampf hinaus den wir natürlich trotzdem ohne größere Probleme überleben einfach weil wir zu dritt sind. Aber kurz dachte ich wirklich das wir hier in Probleme laufen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 2, Aufnahme vom 27.08.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
 ##### #Nummer
 
 * Titel: ``

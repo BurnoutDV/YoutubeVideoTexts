@@ -120,6 +120,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
+##### #8
+
+* Titel: `Asterigos - #8 - Baraad [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das örtliche Regime zu stürzen ist meistens nur der erste, einfache Schritt. An die Stelle eines Resistance Kämpfers in Vichy Frankreich oder eines Staatsfeindes in der DDR erscheint das natürlich absolut zynisch, das Überwinden der Staatsmacht und seines Apparates scheint doch bereits wie eine monumentale Aufgabe die bestenfalls in Generationen errungen werden kann. Und auch nur dann mit Hilfe ausländischer Kräfte die eventuell nicht besonders daran interessiert sind das es eine Folgeregierung gibt. Und doch ist die Machtfrage auch das was einen Diktator wie Putin zwischen seinen Oligarchen am Leben hält. Alle haben viel zu verlieren wenn der Thron neu ausgewürfelt wird und das Vertrauen untereinander ist auch nicht gewaltig. Es gibt ein Brettspiel namens Junta mit dem man das Gefühl hautnah simulieren kann. Großartig, oder auch nicht. Das Spiel macht auch einen Punkt daraus das das individuelle Leben so gut wie nichts zählt, nur die unsterbliche Familie die immer weiter macht ist relevant. Aber die Folgeregierung ist dennoch schwer zu stellen. Wo kriegt man die ganzen bürokratischen Verwalter her? Übernimmt man die wie die Bundesregierung einfach von der vorherigen faschistischen Machtstruktur und hat dann direkt die Nazis im System mit drin? Kann man machen, meistens hat man auch kaum eine Alternative. Aber langfristig führt das zu harten Problemen. Welches System verwendet man? Wie viel Vertrauen hat man wirklich in die anderen Mitrevolutionäre. Nachdem es heute Rum und Cola gab, mit wem kann man morgen noch einen Trinken und wo lauert das Giftattentat? Die Fragen gehen endlos weiter und meistens fällt alles in ein großes Chaos bis der erste fähige Psychopath die Macht unter sich konsolidieren kann. Wenn ein Warlord stirbt ist die Lage quasi nur noch schlimmer, all das Gekämpfe um die Macht, aber kein vorheriger Staatsapparat den man benutzen kann um relativ schnell Strukturen wieder einzuführen. So eine Palastrevolution ist da schon wesentlich besser, aber ändert fundamental nichts. Hilda, ist keine Expertin für Palastrevolutionen. Sie mag vielleicht nicht so wirken, aber im Herzen ist sie ein Schläger. Also legen wir los, Schleifen wir den Unterdrückungsapparat und morgen komme was will!
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 1, Aufnahme vom 07.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
 ##### #Nummer
 
 * Titel: ``

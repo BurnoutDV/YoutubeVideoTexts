@@ -12353,24 +12353,38 @@
   Aufnahme vom 17.11.2024 - #1994 - ##71
   ```
 
-##### #1995##71
+##### #1995##72
 
-* Titel: ``
+* Titel: `Let's Play ESO #1995 ##72 - Erschöpfungsfieber [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 72 des Gold Road DLCs - Sitzung 13
+  
+  Ich bin überrascht. Wir finden heute Kapitalismuskritik wieder. Oder zumindest interpretiere ich das so. Stellt sich doch glatt heraus die lokalen Unternehmen kleinere Probleme mit der Produktivität und dem Absatz hatten. Aber dann sind plötzlich Dinge geschehen und die Leute haben sehr viel produktiver gearbeitet als zuvor. Es ist interessant das die Arbeit ihre neu gewonnene Kraft auch direkt für den Arbeitgeber eingesetzt haben, aber vielleicht ist das in einer Gesellschaft in der man nur Arbeit und dann noch ein wenig Zeit in der lokalen Bar kennt ein wenig anders. Will sagen, in meiner modernen, komfortablen Luxuswelt sehe ich Arbeit als einen Vertrag mit zwei Partnern und der eine Partner bin halt ich, und ich biete nur X Arbeit an. Selbst wenn ich noch so motiviert und kraftvoll wäre würde die zusätzliche Wachheit, Ideenhaftigkeit und Kreativität eher in meine eigenen Projekte gehen als für meinen Arbeitgeber. In diesem Fall scheint die gewonnene Produktivität aber mit einem Preis zu kommen, einige Arbeiter sind bereits tot, mysteriös ist aber das auch eine Heilerin und der vorherige Ermittler an den gleichen Symptomen verstarben. Ich bin sehr gespannt was dann am Ende die Erklärung für dieses Verhalten ist. Und wie sich die örtlichen Arbeitgeber herausreden das sie das zu gelassen haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 17.11.2024 - #1995 - ##72
   ```
 
-##### #Nummer
+##### #1996##73
 
-* Titel: ``
+* Titel: `Let's Play ESO #1996 ##73 - gesteigerte Produktivität [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 73 des Gold Road DLCs - Sitzung 13
+  
+  Vor ein paar Tagen hatte ich in irgendwelchen Tech-News gelesen das irgendein CEO von irgendeiner Tech Firma gesagt hatte das "Wochenenden ein Fehler waren". Das muss man sich auf der Zunge zergehen lassen. Letztendlich kann so eine Aussage nur von jemanden stammen der noch nie hart körperlich oder geistig oder sogar beides gearbeitet hat. Noch nie übermüdet von einer zu knappen Deadline war. Und dann gleichzeitig auch nicht davon profitiert hat. Was die größte Krux an vielen "Mindset" Geschichten ist. Klar kann man für die Aktionäre in die Stratosphäre gehen aber man selber hat davon nichts. Die verhandelte Menge Lohn bleibt konstant, und alle mündlichen Absprachen sind meistens kaum die Schallenergie wert die genutzt wurde um sie zu machen. Ohne jetzt Quellen zu können oder das noch einmal recherchiert zu haben, also Quelle Paulaner Garten, die Produktivität pro individuellen Arbeiter ist seit den 1950er Jahren erheblich gestiegen. Der Lohn hingegen kaum. Das ist nicht ganz richtig, die Lohnabflachung kam später und das Leben im Jahre 2024 ist durchaus wesentlich angenehmer als 1950, und dennoch sollte wesentlich mehr beim Individuum ankommen, tut es aber nicht. Die ganzen industriellen Errungenschaften sollten uns wesentlich näher an Utopia heran bringen. Aber dennoch kann sich ein Jeff Bezos nur eine noch größere Yacht leisten während seine Arbeiter immer gestresster aussehen. Schon komisch. Während in Bezos Kaufmannsladen gelegentlich Leute sterben so scheinen sie es im lokalen Steinbruch noch öfter zu tun. Das ist üblich, aber seit Neustem passiert das wohl ein wenig sehr oft, man könnte fast sagen systemisch. Immerhin ist aber auch der Output gestiegen. So sehr sogar das man sich neuerdings eine veritable Söldnerarmee leisten kann. Der einfache Arbeiter hat hier also anscheinend sein Leben gegen Profite bei der lokalen Söldnerbande getauscht. Das erscheint mir nicht ganz fair.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 19.11.2024 - #1996 - ##73
   ```
 
 ##### ###TEMPLATE

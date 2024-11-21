@@ -129,6 +129,32 @@ Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
+##### #8
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #8 - Festung Nebelriss [Let's Play; ger]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt erstaunlich viele Festungen in den Schattenlanden. Nicht unbedingt mehr als in den Zwischenlanden doch aber auffällig viel. Soweit ich das verstanden habe handelte es sich ja um das Rückzugsgebiet von Miquella und dann ist Marika heran gerückt und hat irgendwie versucht Dinge zu tun. Bzw. eigentlich war es Mesmer der dann richtig den Tee gekocht hat. Allerdings ist mir völlig unklar wer dann die Bauwerke erbaut hat. Hat Mesmer die vorhandenen Festungen von Miquella und wessen Truppen auch immer übernommen oder gab es hier einen mehre Jahrhunderte andauernden Belagerungsplan und man hat es sich erst einmal richtig gemütlich gemacht? Haben wir es hier mit einer aktiven Operation zu tun. Mein Verständnis für die Elden Ring Welt schwindet mit jedem Tag. Irgendetwas geschah durch die Splitterung des Ringes das dafür sorgte das die meisten Leute in einem seltsamen untoten Zustand gefangen sind. Oder auch irgendwie nicht. Aber wie passt das mit Messmer und seinen Festungen zusammen? Ist das alles genau dann passiert als zum großen Angriff geblasen wurde oder kam das alles wesentlich später. Sollen wir glauben das wir uns mitten drin befinden und Mesmer und seine Leute quasi erst seit ganz Kurzem hier sind?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 3, Aufnahme vom 01.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #0
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  
+  ```
+
 ##### #Nummer
 
 * Titel: ``

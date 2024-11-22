@@ -12387,6 +12387,33 @@
   Aufnahme vom 19.11.2024 - #1996 - ##73
   ```
 
+##### #1997##74
+
+* Titel: `Let's Play ESO #1997 ##74 - Ontus Wasserversorgung [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 74 des Gold Road DLCs - Sitzung 13
+  
+  Wasser. Quelle des Lebens. Umso offensichtlicher ist es die örtliche Wasserversorgung zu vergiften wenn man vorhat die lokale Bevölkerung zu entfernen. Normalerweise ist das aber ein Verhalten was fremdländischen Agenten, Wahnsinnigen und psychopathischen Verbrechern vorenthalten bleibt. Man könnte aber durchaus Letzteres hier anführen. Das Vertuschen eines größeren Skandals bei denen mehre Leute durch das Ergebnis von Profitstreben starben und zwei weitere Fachkräfte bei der Verdunklung eben jener Operation ums Leben kamen sind hier ernst zu nehmen. Insgesamt könnte ich mir aber vorstellen das es gar nicht so einfach ist größere Mengen Wasser zu vergiften. Selbst wenn man es zentral einspeist wäre der Verdünnungseffekt bestimmt gewaltig. Sicherlich gibt es auch verschiedene giftige Substanzen die auch in quasi homöopathischen Mengen wirklich noch gefährlich sind. Passenderweise hat es schon mindestens ein Esoteriker geschafft sich mit seinem D10 verdünnten Arsen zu vergiften. Hier also die tägliche Erinnerung daran das Schwermetalle kumulativ wirken. Man wird das Zeug ganz schlecht los wenn es einmal im Körper ist. Davon abgesehen vertraue ich aber darauf das es diverse Kontrollstellen gibt die hoffentlich automatisiert erfassen wenn irgendetwas im Wasser vom Soll abweicht. Ich fürchte bloß fast das sich herausstellt das bei genaueren Hinsehen eine solche Kontrolle nicht ansatzweise so automatisiert ist wie ich das hier grade postuliere. Oder vielleicht doch. Wer weiß?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 19.11.2024 - #1997 - ##74
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### ###TEMPLATE
 
 * Beschreibung:

@@ -145,14 +145,20 @@ Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
-##### #0
+##### #9
 
-* Titel: ``
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #9 - Drachengrube [Let's Play; ger]`
 
 * Beschreibung:
 
   ```markdown
+  Drachen! Das begeistert in der Regel immer alle Anwesenden. Die Gelegenheit ist günstig darüber zu sprechen das wir unfassbares Glück haben das Drachen entweder extrem stolz sind weil sie glauben das sie uns am Boden besiegen können oder extrem dumm weil sie glauben das es nicht ideal wäre einfach in der Luft zu stehen und Feuerbälle zu werfen. Generell ist ein einzelnes fliegendes Katapult absolut tödlich für uns und wir können uns wohl als glücklich schätzen das die Flugechsen nicht so weit denken. Andererseits betreten wir heute eine Grube mit Drachen drin. Ich kann schon einmal spoilern das besagter Drache eigentlich eher ein Wyrm ist, also nicht genau das Gleiche. Eher ein billiger Abklatsch. Und dann noch ein paar knochige Gegner die aus irgendeinem Grund hier herumlaufen. Ob es irgendwo Lore gibt die erklärt wie genau es zu den Untoten in dieser Höhle kam oder ob wir das einfach so hinnehmen müssen?
   
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 3, Aufnahme vom 01.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
 ##### #Nummer

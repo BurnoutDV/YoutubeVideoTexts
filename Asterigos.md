@@ -135,6 +135,21 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
+##### #9
+
+* Titel: `Asterigos - #9 - Kornkammer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind eigentlich immer noch im Kampf mit Baraad. Stellt sich doch glatt heraus das wenn man nie Leben levelt und dann nach zwei Schuss tot ist das man nicht so viel aushält. Eventuell war mein extremer Fokus auf Schaden ein wenig übertrieben. Auf der anderen Seite habe ich das FromSoft Erlebnis ganz gut kopiert. Ich würde mir aber vorstellen das wenn man normal spielt man durchaus ein wesentlich anderes Spiel als ich spielen würde. Eines bei dem man wesentlich öfter nicht andauernd durch die Gegend rollt oder die Dash-Fähigkeit der Dolche massiv missbraucht um nie da zu sein wo man vorher war. Baraad ist eigentlich gar kein schwerer Gegner, ich versuche nur sehr fancy zu sein und es stellt sich glatt heraus das fancy im Kampf dafür sorgt das man ins Gesicht bekommt. Wieder und Wieder. Nachdem ich all meine politischen Überlegungen in der letzten Episode verschossen habe kann ich in dieser kaum noch was sagen. Außer das wir die örtliche Kornkammer wieder und wieder betreten. So weit ich das verstanden habe, ein früher wichtiger Ort, Heutzutage aber eher von geringer Bedeutung weil Niemand essen muss.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 1, Aufnahme vom 07.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
 ##### #Nummer
 
 * Titel: ``

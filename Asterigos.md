@@ -150,7 +150,197 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
-##### #Nummer
+##### #10
+
+* Titel: `Asterigos - #10 - durchwachsende Ergebnisse [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Baraad ist dann tot und alle sind nicht besonders glücklich. Das hat man öfter. Da tut man etwas das endlich Veränderung in die Welt bringt und dann will es auch niemand. Ich kann das verstehen, die Leute brauchen Hoffnung und das Wegfallen einer Führungsperson bedeutet vor Allem das es mehr Unsicherheit und weniger Führung in der Welt gibt. Das alles ein wenig unklarer wird und das man nicht so richtig wissen kann was der morgige Tag bringt. Wenn man jetzt übermäßig motiviert wäre könnte man natürlich auch versuchen selber das Ruder zu übernehmen, aber Erfahrungsgemäß funktioniert das nicht so gut wenn man nicht schon vorher Teil des vorherigen Regimes war und dadurch ein paar Kontakte hatte. Die hohe Kunst der Machtübernahme will gelernt sein. Das weiß bestimmt auch unsere Auftraggeberin die sowieso relativ wenig Interesse daran zu haben scheint in irgendeiner Form Macht zu übernehmen. Stattdessen will sie ja eigentlich versteckt bleiben damit sie weiter ihre eigene Agenda vor ran treiben kann. Wenn dann Unsicherheit im quasi Hinterhof entsteht kann das eigentlich kein gutes Zeichen sein. Dementsprechend ist sie nicht zufrieden mit dem was wir taten. Schade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 1, Aufnahme vom 07.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #11
+
+* Titel: `Asterigos - #11 - Schwarzwasserfluss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind mit der schwarzen Straße fertig und eigentlich waren wir auch schon bei Minerva um uns anzuhören was wir eigentlich noch tun sollen. Aber es gibt da noch ein paar Ecken die ich schon vorher erreichen konnte die ich jetzt schon ganz gerne noch sehen würde. Eine davon ist der Schwarzwasserfluss der mit einem Fahrstuhl unterhalb des Kornspeichers zu erreichen ist. Die Tatsache das die dortigen Gegner mich mit zwei Schuss aus dem Leben nehmen sagt mir entweder das ich doch noch ein wenig Lebenspunkte leveln sollte oder das ich einfach noch nicht dafür bereit bin jenen Ort zu besuchen und vielleicht an einem anderen Tag wieder kommen sollte. In der Regel lasse ich mich aber durch solche Dinge nicht verunsichern und mache trotzdem einfach weiter. Also sterbe ich heute das ein oder andere Mal. An dieser Stelle sei auch erinnert das ich das Perk mitgenommen habe das ich zwar mehr Dinge finde, dafür aber auch mehr Sternenstaub verliere falls ich sterbe. Das ist ein wenig unpraktisch wenn man quasi andauernd stirbt. Aber ich bin mir sicher es lohnt sich sich durchzukämpfen und Hilda wird danach sehr glücklich sein dort zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 2, Aufnahme vom 13.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #12
+
+* Titel: `Asterigos - #12 - Arges Basar [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind an einem neuen Ort! Oder auch nicht, wir waren schon hier nur war der Aufenthalt so kurz das wir es gar nicht mitbekommen haben, und es gab auch kein Schild das uns darüber aufgeklärt hat wo wir uns eigentlich befinden. Das ist übrigens öfter mal ein Problem. Man weiß gar nicht so recht wo man ist weil es keine Schilder gibt die man lesen kann die darüber informieren. Es zieht sich hier ganz gut der Vergleich zum Story Telling in FromSoft Spielen bei denen man eigentlich alles über die Welt aus irgendwelchen Kommentaren erfährt die nebenher fallen oder durch die spärlichen Texte die erscheinen wenn man einen bestimmten Ort betritt. Andere Spiele, wie zum Beispiel Outer Wilds sagen gar nichts darüber aus wo man sich eigentlich befindet oder wie Orte heißen. Das steht dann einfach so im Bordcomputer ohne das es auf irgendeinem Schild lesbar war. Hilda kriegt immerhin ein wenig Feedback durch die lebenden Bewohner von Aphes. Von denen es angeblich noch eine ganze Menge gibt. Ich bin übrigens immer noch der Meinung das 100 Jahre einfach vollkommen ausreichend gewesen wären. Menschen vergessen schnell und ich kann mir die Logistik Leute mit Sternenstaub 1000 Jahre lang zu versorgen einfach nicht vorstellen. Es sei denn man entführt Leute von außerhalb und wandelt sie dann in Staub um oder so. Einfach alles in Form von Sternit aus den Boden zu holen scheint irgendwie nicht so logistisch möglich zu sein. Oder ich habe die initiale Bevölkerung der Stadt weit überschätzt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 2, Aufnahme vom 13.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #13
+
+* Titel: `Asterigos - #13 - Doron der Federgeber [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe wirklich Schwierigkeiten mir eine Karriere als Hohepriester vorzustellen. Das liegt größtenteils an meinen mangelnden Glaube. Aber an sich muss es sich um eine tolle Aufgabe Schrägstrich Berufung handeln wenn man sich voll und ganz dieser geistlichen Geschichte verschreiben kann. Obwohl wahrscheinlich die meisten Leute ohne die entsprechenden Familienverbindungen wohl ihr ganzes Leben einfach nur damit verbringen irgendwelche Küchen zu säubern oder Klostergärten zu fegen. Wenn ich mich recht erinnere diente die Kirche früher als gutes Mittel überschüssige Söhne und auch Töchter zu parken die nicht so recht in den Erbschaftsfolgeplan gepasst hätten. Dort können sie natürlich immer noch Macht ausüben, aber zumindest nichts Erben. Oder vererben. Und das ist enorm wichtig. Aus irgendwelchen Gründen zahlen wir deswegen übrigens auch, also der deutsche Staat jetzt, immer noch irgendwelche Abgaben an die Kirche..für Besitzt das so richtig nie dieser gehört hat. Naja, wie dem auch sei, wenn die Göttin der Monde oder so wirklich existieren würde könnte ich mich da schon irgendwie sehen, so als Priester. Sich so ganz in den Dienst zu stellen und all das. Aber dafür müsste es dann die höhere Macht der man glaubt auch wirklich geben. Die Priester und Gläubigen von Ethrus scheinen mehr so Alchemisten zu sein die mit den Eigenschaften des Fluches herumspielen. Ob Doron der Federgeber wirklich ein heiliger Mann ist vermag ich nicht zu sagen, aber ich würde eher vermuten das nein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 2, Aufnahme vom 13.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #14
+
+* Titel: `Asterigos - #14 - Neues am Rand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir damals, vor wirklich ach so langer Zeit vor den Toren der Stadt Aphes angefangen hatten gab es wirklich wenig Exposition. Das finde ich übrigens sehr schade. Ein kurzer Primer für die Welt aus der Hilda kommt oder zumindest eine schnelle Karte hätten mir wirklich geholfen alles besser zu verstehen. Ganz am Anfang, bevor ich aufgenommen habe hatte ich auch einen Techtest gemacht und das Spiel einfach gestartet und alle Zwischensequenzen übersprungen weil ich keine Spoiler wollte. Aber dann als ich wirklich spielte waren wir genauso schlau wie mit Skip. Hilda wacht auf und das Spiel geht los, keine Erklärung kein Nichts. Mittlerweile ist alles ein wenig klarer, wenn wir jetzt aber rausgehen sind da auch keine bahnbrechend neuen Informationen, aber wir können uns immerhin ein wenig umsehen und Ecken erreichen die ohne Elementar-Sternit nicht verfügbar waren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 2, Aufnahme vom 13.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #15
+
+* Titel: `Asterigos - #15 - Basar, Akademie & Grube [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe theoretisch die Möglichkeit an verschiedene Orte zu gehen. Und ich würde vermuten das die Gegner ungefähr gleich schwer bleiben würden. Das könnte aber auch eine Falle sein. Aus anderen Spielen weiß ich das skalierende Gegner vielleicht in der Theorie ganz gut funktionieren sich aber tiefere Taktiken durchaus dadurch ändern können. Von unserem Trip vor die Stadtmauern wissen wir bereits das die Trash-Pandas dort draußen jetzt wesentlich stärker sind. Wenn jetzt also einer der Endbosse für eine der Abschnitte sich als außerordentlich stark herausstellen sollte und wenn dieser weniger Lebenspunkte hat mit einer selbstmörderischen Taktik trotzdem besiegbar wäre weil sie oder er rechtzeitig umkippt, dann könnte es sein das die gleiche Taktik nicht mehr funktioniert wenn die Extreme stärker sind. Ich halte mich aber gerne strikt an Reihenfolgen wie die Missionen aufgetragen werden. Also zuerst den Basar, dann in die Mine und zuletzt erkunden wir die Akademie die ehrlich gesagt auch am Interessantesten klingt. Insofern spare ich mir das natürlich auch bis zum Ende auf. Eventuell lügt das Spiel auch nur und ich könnte gar nicht an die anderen Orte solange der Basar nicht gelöst ist. Das werden wir aber wohl nicht erfahren. Es ist trotzdem irgendwie schön für eine kurze Zeit mal woanders als in den Nebelgassen zu sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 2, Aufnahme vom 13.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #16
+
+* Titel: `Asterigos - #16 - Dame Marissa [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sollten jemanden retten. Zum Glück hat aber niemand gesagt wie am Leben oder in welcher Form wir die Person treffen sollen. Was auch immer die Anhänger von Ethrus tun, das Endergebnis ihrer Bemühungen sind wohl Leute die sich ein wenig in ein Tier verwandelt haben ohne den ganzen Weg zu gehen. Das alles ist eigentlich ziemlich faszinierend. Was würde passieren wenn Asterigos endet? Ist der neue Zustand eine völlig andere Sache? Quasi kein Zustand der oben drauf liegt sondern eine völlig andere Form der Verwandlung. Ich frage mich übrigens immer noch in was eigentlich Baraad verwandelt wurde, weil es heißt die Sublimierung ist eine Art Totenritual das Apheser mit einem Tier verschmilzt. Aus Erinnerungen wissen wir das Baraad vor hunderten Jahren sublimiert wurde. Was genau also war er? Immerhin bedeutet es aber auch das die Unsterblichkeit der verfluchten Apheser erhalten bleibt. Entweder weil der neue Zustand ebenfalls diese Eigenschaft hat oder es doch nur eine Variation des vorhandenen Fluches ist. Dann wäre jetzt aber die nächste Frage wo die Macht her kommt? Apheser brauchen potenten Sternenstaub um sich am Leben zu halten, Sternenstaub der entweder aus Sternit oder den Toten gewonnen wird. Was brauchen Sublimierte?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 2, Aufnahme vom 13.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #17
+
+* Titel: `Asterigos - #17 - Eulalia, die Beterin [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es scheint bei der Sublimierung eine gewisse Komponente zu geben die die Ethrus Priester nicht im Vorfeld beeinflussen können. Namentlich wäre das der Teil wie viel Vernunft am Ende noch übrig bleibt. Einige der Werwölfe die uns angefallen haben waren kaum mehr als ein Tier, die Harpyien scheinen kaum bei Vernunft zu sein und manche der Priester waren immer noch in der Lage Magie um sich zu werfen. Ich würde es mir so vorstellen das in dem Moment in dem man Sublimiert wird (was auch immer das genau eigentlich bedeutet) das man ein Teil des Tieres in die eigene Persönlichkeit herein kriegt. Und wenn man zu wenig Willensstärke hat dann übernimmt halt das Tier und das war es dann mehr oder weniger. Ob die lustigen Volltiere draußen vor der Stadt die ersten dieser Experimente waren und einfach nur ein wenig zu viel abbekommen haben? Zu Sternenstaub zerfallen sie ja dennoch, wie auch die Sublimierten. Eulalia hat auf jeden Fall einen starken Antrieb, Liebe, Hass, irgendetwas davon. Warum genau sie jetzt aber soviel größer ist als die anderen Harpyien ist mir nicht ganz klar. Vielleicht haben die Ethrus-Priester auch einen gewissen Einfluss darauf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 3, Aufnahme vom 18.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #18
+
+* Titel: `Asterigos - #18 - Ekos Geschenk [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man darf nicht vergessen das Hilda sich in einer völlig fremden Stadt aufhält. Es ist allerdings schon ein kleines Wunder das die Leute von Aphes die gleiche Sprache wie die Anbari spricht. Obwohl ich mit dem Wissen aus zukünftigen Episoden schon eine Vermutung aufstellen würde warum dem so ist. Der Hauptpunkt ist aber das die Leute die wir treffen in uns nichts anderes als eine Barbarin von Außerhalb sehen. Bisher habe ich nicht zu viel über die anderen Nationen und Städte erfahren die zur Zeit von Aphes existiert haben, aber außer die Nation Martunn die scheinbar einen erbitterten Kriege geführt haben gab es scheinbar nicht viel. Eine legendäre Stadt, durch ihre Magie erhöht die ohne Gleichen da stand. Wenn das wirklich die Lage war dann haben die Einwohner der Stadt bestimmt keine hohe Meinung von anderen Leuten. Umso größer ist es doch das wir heute ein Geschenk bekommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 3, Aufnahme vom 18.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #19
+
+* Titel: `Asterigos - #19 - Marissas Lied [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Musik berührt die Menschen. Ich kann selber nicht singen, das macht mich immer ein wenig neidisch wenn Leute mit ihrer Stimme alleine die Leute bewegen können. Das Gleiche gilt auch für Leute die Instrumente spielen können, das könnte man aber wahrscheinlich tatsächlich noch lernen aber die Zeiten in denen man Zeit dafür hat sind wohl leider vorbei. Für die Leute die selbst Musik machen ist das alles aber wahrscheinlich auch ein wenig stressig. Stelle ich mir zumindest vor. Den Druck das man tatsächlich etwas leisten muss und nicht mitten drin aufhören darf. Vor eine Menge zu treten und Aufzuführen. Es gibt Leute die darin große Freude finden. Mich fasziniert aber am Meisten wie die Menschen es schaffen gegen das Gefühl der Versagensangst anzukämpfen. Aber vielleicht haben sie das einfach auch nicht und das kommt mit dem Auftreten mit, das Wissen das man die Leute begeistert und man nicht versagen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 3, Aufnahme vom 18.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #20
+
+* Titel: `Asterigos - #20 - Grubendorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Autarke Zivilisation hinzustellen ist ohne richtig große Hightech oder sehr geringe Ansprüche kaum möglich. Prinzipiell braucht man verschiedene Ressourcentypen am gleichen Ort, meistens an irgendwelchen Flüssen oder so. Wir betreten heute das Grubendorf. Scheinbar die örtliche Niederlassung der Bergarbeiter die aber wohl ihre Arbeit niedergelegt haben. Wie genau sie jetzt überleben ist mir übrigens nicht klar. Die Apheser brauchen keine klassische Nahrung mehr, aber wie genau kommen die Arbeiter hier noch an Sternenstaub? Deren Herstellung aus Sternit ist anscheinend nicht ganz so einfach und braucht spezielles Gerät. Das Grubendorf muss also Handel treiben. Rohmaterialien gegen fertige Produkte tauschen. Eigentlich ist es schon eine größere Überraschung das keine der anderen Gruppierungen hier bereits die Kontrolle übernommen haben. Oder haben die Grubenarbeiter ein Ass im Ärmel das sie uns nicht sofort zeigen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 3, Aufnahme vom 18.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #21
+
+* Titel: `Asterigos - #21 - Shaye der Langfinger [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab kurz nachgeschaut ob es vor Asterigos noch ein anderes Spiel gab und soweit ich das sehen kann war dies nicht der Fall. Heute treffen wir einen Typen der sich selbst als Langfinger bezeichnet aber eigentlich ist sein Name Shaye und scheinbar hat Hilda etwas Vorgeschichte mit ihm. Ich würde vermuten das dies die Art und Weise ist mit der uns das Spiel Anbari und all die Dinge die damit zu tun haben näher bringen will. Bisher wissen wir quasi nichts über die Heimat der Nordwindkrieger. Sie haben einen König, der wurde verflucht und dann endet die lange Liste an Informationen auch schon. Es scheint das Shaye hier zumindest etwas Ordnung rein bringen kann und wir, wenn auch nur indirekt, ein wenig mehr darüber erfahren ob Hilda einfach nur ein Nepo-Baby ist oder tatsächlich schon etwas geleistet hat in ihrer Karriere als Elitekriegerin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 3, Aufnahme vom 18.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #22
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #23
 
 * Titel: ``
 

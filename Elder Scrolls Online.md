@@ -12404,6 +12404,193 @@
   Aufnahme vom 19.11.2024 - #1997 - ##74
   ```
 
+##### #1998#75
+
+* Titel: `Let's Play ESO #1998 ##75 - Ayleïdische Auseinandersetzung [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 75 des Gold Road DLCs - Sitzung 13
+  
+  Es geht um Narsis Dren bevor ich den vergesse zu erwähnen. Wir treffen den Mann heute auch persönlich, vorher sahen wir ihn in Orsinium und im westlichen Himmelsrand. Eventuell auch schon noch an anderen Stellen aber die habe ich dann vollständig vergessen oder ich habe ihn eventuell sogar völlig verpasst. Das ist durchaus möglich und kommt gelegentlich vor. Narsis Dren ist Fantasy Author und schreibt gelegentlich auch historische Fiktion wenn es die Zeiten notwendig machen. Generell würde man ihn wohl als Lügner bezeichnen, er selbst sieht sich als Abenteurer. Tatsächlich muss man ihm aber zu Gute halten das er im Gegensatz zu allen anderen Mitgliedern seiner Zunft enorm vorsichtig ist und man das auch gut daran erkennen kann das er noch am Leben ist. Andere Leute müssen wesentlich fähiger sein um in diesem Geschäft alt zu werden und tatsächlich irgendwo zu sein. Es ist nämlich so das der gute Narsis zwar ein ziemlicher Aufschneider ist, aber an den meisten Orten von denen er schreibt war er ja wirklich. Das ist doch eigentlich eine Menge wert. Und er scheint auch irgendwie charmant zu sein oder ein andere Talent zu besitzen das ihm ermöglicht immer eine bezaubernde Assistentin an seiner Seite zu haben die den Hauptteil der Arbeit erledigt. Zumindest das muss man neidlos anerkennen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 19.11.2024 - #1998 - ##75
+  ```
+
+##### #1999##76
+
+* Titel: `Let's Play ESO #1999 ##76 - Neues von Narsis Dren [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 76 des Gold Road DLCs - Sitzung 13
+  
+  An sich lügt der Titel, es gibt gar nichts Neues von Narsis Dren. An sich macht der Mann immer noch genau das Gleiche wie das letzte Mal das wir ihn gesehen haben. Die Konsequenz beim letzten Mal war das er sich in eine Flasche verwandelt hatte. Eigentlich nicht so richtig, die magische Komponente war damals starke Illusionsmagie die dafür sorgt das man sogar selber glaubt das man eine Flasche ist. Und man irgendwie auch nicht an Dinge stößt während man bewegt wird. Das Ganze ist ein ziemlich interessanter Trick gewesen mit dem man jemanden komplett Bewegungsunfähig machen kann ohne sie oder ihn tatsächlich in etwas Anderes zu verwandeln. Wahre Verwandlung ist schwierig soweit ich das verstanden habe. Aber genug von der Vergangenheit, irgendwie hat sich Herr Dren aus seiner Flaschenform befreit. Ein bedauerlicher Umstand weil jetzt ist er wieder da und bringt Schwierigkeiten über die Welt. Dieses Mal erscheint mir die gesamte Affäre aber irgendwie ernster zu sein. Schon deswegen weil die Rückbesinnung mit beteiligt ist und das kann eigentlich kein gutes Zeichen sein. Und so wie sich das anhört hat er die fanatischen Elfen angeheuert und nicht andersherum, das spricht nicht unbedingt für die Menschen und Merkenntnisse eines Narsis Dren. Was irgendwie übrigens auch glaubhaft macht das er selber an seine eigenen Geschichten glaubt wenn er sich so als Held darstellt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 19.11.2024 - #1999 - ##76
+  ```
+
+##### #2000##77
+
+* Titel: `Let's Play ESO #2000 ##77 - König Dynars Emblem [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 77 des Gold Road DLCs - Sitzung 13
+  
+  Es ist Episode 2000! In Zahlen Zweitausend. Das sind mehr als eintausendneunhunderneunundneunzig! Auf jeden Fall eine ganze Menge. Mir tut das auch alles irgendwie ein wenig Leid. Irgendwer scheint das ja zu gucken aber ich kann wirklich nicht quantifizieren ob es 5 Leute sind die Dinge immer wieder schauen oder ob ich hunderte ESO Zuschauer habe die halt immer wenn Zeit ist eine oder zehn Episoden gucken und halt an verschiedenen Stellen der Playlist sind und deshalb einzelne, insbesondere neuere Videos nicht so viele Views haben obwohl es prinzipiell einige Leute gibt die es gucken. Unabhängig davon sind wir immer noch in den Fängen von Narsis Dren. Keine Angst, ich suche bereits nach einer passenden Falle  in der ich den Mann versenken kann. Es wurden bereits Versteinerungsfallen erwähnt. Wie genau die funktionieren hat niemand beschrieben aber an sich sollten die sehr tödlich sein. Wenn man nicht unbedingt absichtlich Mühe betreibt das die Leute nur von Außen wie Stein aussehen aber innen drin noch weiterleben oder in Stase gehalten werden wäre die einfachste Variante halt tödlich und nicht-tödlich mit Aufwand verbunden. Es könnte natürlich auch sein das das Ganze eigentlich als automatisches Verteidigungssystem geplant war und dann möchte man vielleicht später noch Fragen stellen nachdem man die Leute wieder aufgetaut hat. Aber so richtig wissen kann ich es nicht. Da ich aber fest damit rechne Narsis Dren wieder zu treffen vermute ich mal das er am Ende doch noch irgendwie gerettet wird.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 19.11.2024 - #2000 - ##77
+  ```
+
+##### #2001##78
+
+* Titel: `Let's Play ESO #2001 ##78 - Verschütteter Wein [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 78 des Gold Road DLCs - Sitzung 14
+  
+  Mir ist natürlich sehr bewusst das nicht jede Quest immer gleich um das Schicksal der Welt ringen muss. Und auch nicht jeder Auftraggeber braucht eine Quest die alles oder nichts bedeutet. Wirklich, ich kann das verstehen. Eben das ist ja das Privileg das aus Geld entsteht, man kann dreckigen Pöbel dafür bezahlen die ebenfalls dreckige Arbeit zu erledigen damit man sich selbst nicht die Alabaster weißen Hände schmutzig machen muss. Absolut logisch das man die hungernden Arbeitskräfte ein paar Krümel hinwerfen kann und dann tun die was man ihnen sagt. Egal wie trivial das Problem am Ende eigentlich ist. Und so pöbeln wir heute in eine Höhle um eine gestohlene Weinlieferung zu holen. Da es sich um eine lokale Mission handelt die mehr oder weniger Ortsgebunden ist und nur dazu dient einen bestimmten Platz, in diesem Fall Legionsruhe, einzuführen kann man auch nicht erwarten das wir es hier mit einer größeren Verschwörung zu tun haben. Es werden wohl eher kleine Brötchen gebacken und das wird dann auch wirklich alles sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 27.11.2024 - #2001 - ##78
+  ```
+
+##### #2002##79
+
+* Titel: `Let's Play ESO #2002 ##79 - Blauer Aedral [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 79 des Gold Road DLCs - Sitzung 14
+  
+  Das hier ist eine Fillerfolge. Ich gebe es ganz offen zu. Wie kam es dazu? Die letzte Mission der Legionsruh wird technisch gesehen heute abgeschlossen, aber das passiert in den ersten paar Minuten der Episode und ich kann wirklich nicht behaupten das das nicht absehbar war. Das ist auch ein wenig schade weil ich mir wirklich ein wenig Erklärung zu den Kristallwespen gewünscht hätte und generell etwas Exposition vertragen könnte die die Orte mit mehr Fleisch füllen. Es fühlt sich allerdings so an als wäre das Gold Road DLC hier generell nicht fertig geworden. Das Haldain Holzfällerlager beispielsweise war auch vollständig leer. Oder hier muss die Hauptquest noch weiter gespielt werden, aber hier bin ich ja gefühlt kurz vor dem Ende. Naja, also, der Rest der Episode, besteht darin das ich ein wenig herum reite und die Gegend erkunde. Würde ich das DLC an Tag 1 testen und es wäre frisch heraus gekommen wäre der Überblick über die Quests und Spielerhäuser vielleicht sogar ganz wertvoll. Aber so ist es eher so mittel. Aber hey, immerhin kann ich mich kurz darüber aufregen das die Weinreben im Weingut Spielerhaus anscheinend eine Komfortausstattung sind und im Basismodell nicht enthalten sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 27.11.2024 - #2002 - ##79
+  ```
+
+##### #2003##80
+
+* Titel: `Let's Play ESO #2003 ##80 - Vespera-Valente [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 80 des Gold Road DLCs - Sitzung 14
+  
+  Ein Weingut, Vampire und seltsame Trauben. Außerdem ein Todesfall in jüngerer Vergangenheit. Es gibt hier ein Mysterium. Während ich diese Zeilen schreibe hört mein Wissen auch mit dieser Episode auf. Ich weiß also nicht wie es weitergeht und erlaube es mir nun ein wenig in den Möglichkeiten zu schwelgen. Vielleicht wird diese Quest eine Enttäuschung so wie der Erbfall auf dem anderen Weingut. Es könnte aber auch ein sehr interessanter Vampirplot in Colovia werden. Es gibt hier durchaus einiges an Potenzial. Zu große Ereignisse müssen die Schreiber in der Regel vermeiden, aber ich kann mir durchaus vorstellen wie man hier einen kleinen Mikrokosmos und einen Ausblick auf Ideen geben kann die so zwar nie umgesetzt werden oder aus anderen Gründen nicht funktionieren, aber das kurze Anschauen von möglichen Realitäten ist immer ganz spannend. Konkret spreche ich von der True Blood Variante, künstliches Blut das Vampiren den größten Nachteil nimmt. Das Verlangen nach Blut. An sich ist das natürlich auch ein Zahlenspiel und so wie Vampirismus in dieser Ära funktioniert ist die Sonnen nicht einmal der größte Problem. Das man beim endgültigen Tod bei einem daedrischen Fürsten auftaucht ist ein wenig ärgerlich aber zumindest wird niemand sterben müssen wenn es um das reine Zapfen von Blut geht. Das ist schon mal gut. Soweit ich das verstanden habe sieht die Mathematik aber wohl so aus das ein durchschnittlicher Vampir wesentlich mehr Blut braucht als man gesellschaftsverträglich herstellen kann. Insofern ist vollkommen klar das man bei jeden Vampir einen Junkie vor sich hat der von der Masse lebt ohne selbst zur Gesellschaft beizutragen. Ein bisschen wie Vermieter. Wenn man jetzt aber künstlich Nährstoff herstellen kann dreht sich das Zahlenspiel. Und so eine kleine Vampirarmee klingt gewiss für manche Herrscher durchaus attraktiv.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 27.11.2024 - #2003 - ##80
+  ```
+
+##### #2004##81
+
+* Titel: `Let's Play ESO #2004 ##81 - Valente Vampir Veier [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 81 des Gold Road DLCs - Sitzung 14
+  
+  Ich konnte nicht widerstehen und habe im Titel einen kleinen Wortwitz aufgemacht. Jetzt steht die große Entscheidung an ob ich Meta darüber rede wie ich Beschreibungen schreibe und wie schwer es doch immer wieder ist richtige Titel zu finden oder inwiefern ich es für nicht so wahrscheinlich halt das man als Vampir eine Feier unter offenen Himmel, insbesondere in direkter Nähe von irgendwelchen Bergen haben sollte. Es ist nun mal so das Vampire in der Welt ein paar Feinde haben und Operationssicherheit würde ich an deren Stelle ziemlich groß schreiben. Die klassischen Vampirgeschichten, auch jene in der Welt, drehen sich oft darum das es nicht einfach ist ungesehen die inneren Kreise der Vampirzirkel zu infiltrieren. In Medien wird auch immer wieder gerne betont wie die erhöhten Wahrnehmungsfähigkeiten die handelsüblichen Blutsauger in die Lage versetzten Dinge wie Unsicherheit schnell zu erkennen und so potenzielle Undercover Agent leicht ausfindig machen können. Das wir selbst in diesem Fall ein Vampir sind scheint aber niemanden weiter zu interessieren. Eventuell könnte es aber sein das unsere angenommene Identität nicht ganz ideal ist weil sie zu einer sehr prominenten Person gehört. Manchmal wäre es wohl leichter irgendwelche Hinterbänkler zu ersetzen, die sind dann aber wieder bei den richtig wichtigen Feiern nicht eingeladen. Ein Elend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 30.11.2024 - #2004 - ##81
+  ```
+
+##### #2005##82
+
+* Titel: `Let's Play ESO #2005 ##82 - betörender Wein [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 82 des Gold Road DLCs - Sitzung 14
+  
+  Wir wissen jetzt schon so grob worum es geht aber einige viele Fragen bleiben noch offen. Aber der Reihe nach. Graf Valente hat scheinbar eine Wein kreiert der für Vampire außerordentlich schmackhaft wirkt aber leider ein paar Nebenwirkungen besitzt. Die logische Folge ist das das Produkt wohl durch eine Wirt gefiltert werden muss, wir sprechen hier immer noch von Vampiren. Soweit so gut. Warum genau ist noch unklar aber eventuell ist es wirklich nur der Geschmack. Damit es aber stumpfer wird wird es bestimmt noch irgendwelche zusätzlichen Vorteile geben weil einfach besser schmecken nicht ausgereicht hätte. Warum auch? Und hier wird es dann ein wenig Meta, ich finde es sehr bedauerlich das viele Spiele es sich nicht erlauben subtil zu sein. Klar könnte man jetzt argumentieren das alle Leute für ein Spiel bezahlen aber Features die nicht jeder sehen kann wären dann ja ein wenig Verschwendung. Das läuft dann wohl wieder auf die gute alte Diskussion hinaus ob Spiele Kunst sind oder nicht. Im Falle von ESO fällt mir die Antwort übrigens gar nicht so einfach. Mechanisch komplexe Spiele wie Autorennen oder Fifa sind fast keine Kunst und mehr Spiel, aber dann hat man Dinge wie Dark Souls die spielerisch komplex sind aber dennoch ein mehrschichtiges Storytelling bietene. Und dann gibt es Point and Click Adventures die defacto keine Mechanik bieten aber dennoch eine Geschichte erzählen. ESO fällt grob in die Mitte würde ich jetzt sagen, ich bin aber sehr offen für Argumente in beide Richtungen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 30.11.2024 - #2005 - ##82
+  ```
+
+##### #2006##83
+
+* Titel: `Let's Play ESO #2006 ##83 - Valente Arbeitszimmer [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 83 des Gold Road DLCs - Sitzung 14
+  
+  Ich besitze ein oder zwei Notizbücher. Aber was ich nicht habe ist einen Index. Einen Schlüssel der jemand Anderes erklärt wo genau welches Wissen zu finden ist. Das ist manchmal für mich selbst ein Problem wenn ich versuche Dinge wieder zu finden die ich vor ein paar Jahren niedergeschrieben oder erdacht habe. Und die meisten Leute haben sogar noch weniger Organisation. Deswegen betreiben Dienste der Welt auch große Büros die quasi nichts Anderes machen als Dokumente durch zu sehne und zu katalogisieren. Der große Traum ist natürlich das alles zu automatisieren und diese natürliche Grenze ist ein großer Schutzwall für Privatsphäre. Oder für Verbrechen, aber davon gibt es in absoluten Zahlen weniger, also mache ich hier das Argument auf das analoge Medien durch ihre Masse und die Geschwindigkeit von Analysten Teams eine Grenze darstellen die große Teile unserer Zivilisation definiert. Ich erzähle das weil das schnelle Einbrechen in mein "Arbeitszimmer" auf einer Party wahrscheinlich nicht besonders viele Informationen zu Tage bringen würde. Wenn die entsprechenden wichtigen Dokumente nicht grade auf dem Tisch liegen handelt es sich nur um gewaltige Textblöcke die ohne intimes Wissen über die aktuelle Materie auch noch schwer zu lesen sind. Und doch hat man ziemlich oft genau diese Szene die sich heute abspielt. Wir brechen auf den Ball einer wichtigen Persönlichkeit in sein persönliches Arbeitszimmer ein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 30.11.2024 - #2006 - ##83
+  ```
+
+##### #2007##84
+
+* Titel: `Let's Play ESO #2007 ##84 - Valente-Weinkeller [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 84 des Gold Road DLCs - Sitzung 15
+  
+  Ich hatte ganz früher als ich noch ein echt kleines Kind war einen kleinen Traum davon ein Haus mit einem großen Keller zu besitzen. Oder einem gewaltigen Labyrinth. In Anbetracht eigener Kinder frage ich mich übrigens wie man darauf als Elter reagieren soll? Positiv weil man davon ausgehen kann das das Kind es eh vergisst oder versucht man es sanft ab zu schlagen weil es sonst am Ende noch zur fixen Idee wird? Die Realität war in jedem Fall das Tiefbau verdammt teuer ist und selbst beim Neubau das Anlegen von Kellereinrichtungen nicht ganz günstig ist. Und das auch nur wenn der Boden mit macht. Mit ein wenig zu viel Grundwasser kann man sich direkt davon verabschieden. Das Valente Weingut muss auf irgendwelchen Höhlen stehen, anders kann ich mir nicht erklären das wir eine Höhle wie die heutige vor finden.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 03.12.2024 - #2007 - ##84
+  ```
+
+##### #2008##85
+
+* Titel: `Let's Play ESO #2008 ##85 - Festung Colovia [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 85 des Gold Road DLCs - Sitzung 15
+  
+  Szenenwechsel. Das Valente Weingut war dann nach einer anfänglich doch recht vielversprechenden Geschichte doch recht enttäuschen. Zumindest hatte ich nicht den Eindruck das die Geschichte letztendlich ordentlich ausgeschmückt wurde. Aber vielleicht war es auch genau richtig und es wurde nicht unnötig lange auf eine Sache herum geritten wie es bei einer gewissen Erbschleicherei der Fall gewesen ist. Wir sind jetzt also bei einer weiteren Instanz. Um genauer zu sein bei Festung Colovia, benannt nach dem Land das sie überschaut. Ich habe zugegebenermaßen mir gar keine Gedanken darum gemacht ob die taktische Position irgendeinen Sinn ergibt. Das war bei einigen anderen Festen bisher nicht der Fall, aber wenn hier wichtige Handelsrouten entlangführen kann es durchaus sinnvoll sein das es hier und da eine militärische Präsenz gibt ohne das die Taktik den höchsten Stellenwert hat. Was ich allerdings nicht verstehe wie die Festung überhaupt verloren werden konnte. Sollte man von einer militärischen Einrichtungen in Umständen wie diesen nicht erwarten das die Leute ein wenig mehr in Alarmbereitschaft sind?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 03.12.2024 - #2008 - ##85
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -307,32 +307,66 @@ Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
 
 ##### #19
 
-* Titel: ``
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #19 - Ofenbauer-Lager [Let's Play; deutsch]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und da sind wir an einem Ort den ich selber völlig übersehen habe. Nicht absichtlich natürlich, aber das hat sich halt einfach so ergeben. Dadurch das ich die große Feste selber aus Versehen von der anderen Richtung her angegangen habe habe ich halt nie großartig das Lager erkundet das sich davor befindet. Und als ich dann dort war geschah es sich eigentlich auch nur das ich zwar den Ofengolem besiegt habe, aber nie in Frage gestellt habe ob es noch einen anderen Grund geben könnte warum sich hier einer aufhält. Generell und überhaupt scheinen mir Ofengolems übrigens ein ziemlich schlechtes Mittel zur militärischen Machtprojektion zu sein. Das Gerät scheint mit eher geringer Intelligenz ausgestattet zu sein und scheint sich nicht wirklich für Freund oder Feind zu interessieren. Es könnte natürlich aber auch sein das das eine neuere Entwicklung ist weil die Ofenbauer selbst verschwunden sind. So oder so fand ich nie ihr Lager..weil ich nicht aufgepasst habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 6, Aufnahme vom 24.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
 ##### #20
 
-* Titel: ``
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #20 - Skorpionsfluss [Let's Play; deutsch]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Was genau die Zersplitterung des Elden Ring ausgelöst hat ist mir übrigens immer noch nicht ganz klar. In Dark Souls war es irgendwie mit dem Fluch der Untoten verbunden das die Leute immer und immer wieder kamen. Aber ob es eine richtige Lore Erklärung dafür gibt was wir hier in den Zwischen und Schattenlanden erleben ist mir wirklich nicht klar. Weil wenn die NPCs auch das Gleiche sehen wie wir und in einen ständigen Zyklus des Leben und Sterbens gefangen sind dann muss es für sie ziemlich eintönig sein. In den älteren Spielen gab es noch das Konzept des "hollow" werden. Wenn den Leuten jegliche Menschlichkeit abhanden geht dann verliert irgendwann auch alles Andere seinen Sinn und die Gestalten existieren nur noch. Auf ihre geringsten Funktionen beschränkt. Aber in seiner eigenen Welt ist jeder sein eigener Held, und so geschieht die selbe Geschichte an vielen Orten, aber hier und dort ist Varianz zu finden. Zum Beispiel sind Jan und Alex an einer völlig anderen temporalen Position des Runs hier im Skorpionsfluss. Allerdings nervt mich auch wie gründlich sie hier alles durchsuchen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 6, Aufnahme vom 24.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
 ##### #21
 
-* Titel: ``
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #21 - Katakombe am Skorpionsfluss [Let's Play; deutsch]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich hätte ja behauptet das der Skorpionsfluss bei Weitem nicht genug Inhalt bietet um sich länger als 10 Minuten an ihm aufzuhalten und das man den Fluss, dessen Namen wir übrigens auch nur wegen des folgenden Namens kennen, zusammen mit der Katakombe am Skorpionsfluss in einer Sitzung abhandeln kann. Sitzung sind hier 20 bis 30 Minuten, also die durchschnittliche Zeit die eine Youtube Episode lang ist. Ich persönlich halte das für eine gute Länge. Das ist quasi eine Mittagspause, etwas länger als es für mich dauert ein Teller Nudeln oder irgendeine andere Mahlzeit zu essen. Die Katakomben selbst waren alleine so Mittelgut (du weißt genau auf welcher Skala!). Durch die verschiedenen Pfähle von Marika war es ganz okay selbst wenn man in eine der unteren Ebenen gestorben ist. Hier im Coop haben wir erhöhte Schwierigkeit durch Bugs. Zum Einen können wir die Todesfluch verursachenden Bälle nicht sehen und zum Anderen gibt es jedes Mal einen Malus wenn man stirbt. Das macht die Erkundung doch ein wenig schwerer. Eine interessante Art des Balancing.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 6, Aufnahme vom 24.09.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #22
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #22 - Bärengebrüll [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Egal was wir im DLC finden. Es kommt mir so vor als wäre es zu spät. Oder nicht ausreichend genug. Die meiste Magie die wir so im Laufe des Tages finde ist ein ziemliches Gimmick und wenn man ehrlich ist dann macht von den Anrufungen quasi nichts einen Sinn außer der schwarze Feuerball und vielleicht noch das Scharlachrote Ionia. Alles Andere ist ineffizient, verbraucht zu viel Mana oder ist direkt impraktikabel. Einzige Ausnahme sind feuerfeste Gegner aber auch nur weil der Feueranteil des schwarzen Feuerballs nicht ganz insignifikant ist und man ohne den durchaus noch ein paar Alternativen hat. Die Bärenanrufungen der Bärenkommunion sind nicht wirklich ein Feld der Magie und mir scheint auch das es nur diese beiden Zaubersprüche gibt die wir jetzt gefunden haben. Immerhin gibt es aber ein Kostüm das diese verstärkt. Das war irgendwie schon immer ein FromSoft Ding. Das es sehr nischiges Zeug gab das nicht unbedingt gut war aber manchmal konnte man sich darauf halt vertiefen und nur etwas schlechter als die restliche Crowd sein aber wesentlich cooler als der Rest. Oder so.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 7, Aufnahme vom 10.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
 ##### #Nummer

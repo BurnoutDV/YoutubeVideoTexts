@@ -332,12 +332,17 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
 
 ##### #22
 
-* Titel: ``
+* Titel: `Asterigos - #22 - Stella Mine [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich nehme jetzt einfach mal an das die Mine nach "Stellar" oder irgendwie so benannt wird. Also ihr wisst schon, weil die Sterne für die Apheser eine besondere Bedeutung haben. Die Anbari haben in dieser Hinsicht auch ein paar Rituale, davon erfahren wir allerdings erst wenn wir in der Akademie sind und nicht vorher. Warum wird dann aufgeklärt wenn es soweit ist. Zum Zeitpunkt dieses geschriebenen Textes habe ich leider schon ein wenig sehr weit vor raus gespielt. Daher werde ich jetzt wohl immer Dinge referenzieren die ich eigentlich viel später gesehen habe. Das gibt mir auch zusätzlichen Kontext, könnte für dich, du inexistenter Leser, aber ein wenig verwirrend sein.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 4, Aufnahme vom 26.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
 ##### #23

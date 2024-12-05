@@ -12591,6 +12591,43 @@
   Aufnahme vom 03.12.2024 - #2008 - ##85
   ```
 
+##### #2009##86
+
+* Titel: `Let's Play ESO #2009 ##86 - die schweigende Glocken [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 86 des Gold Road DLCs - Sitzung 15
+  
+  Glocken scheinen mir ein ziemlich schlechtes Mittel zur Informationsübertragung zu sein. Also so im Allgemeinen wenn es um den Einsatzfall wie hier im Beispiel einer belagerten Festung geht. Die Sachlage stellt sich so dar das man eine andere, weit entfernte Truppe benachrichtigen möchte. Schall breitet sich relativ schnell in der Luft aus wird aber unterschiedlich stark gedämpft und Wind ist durchaus ein Faktor. Ein Leuchtfeuer á la Gondor hat den Nachteil das man wirklich jemanden braucht der danach Ausschau hält, dafür ist die Reichweite auf der Erde auf wenige Kilometer beschränkt, je nachdem wie hoch der Fackelturm ist kann man durchaus mit 10 oder vielleicht sogar 20 Kilometer rechnen, aber dann muss das Feuer groß genug sein. Eine Glocke wäre dann vom Vorteil wenn man lokal Leute in einem bestimmten Einzugsgebiet erreichen will. Beispielsweise wenn man Leute zum Gebet rufen will. Dann muss die Glocke auch auch nicht gesehen werden sondern nur gehört. Um die Stadtwache zu benachrichtigen wäre es also durchaus ein gutes und praktisches System. Aber für weit entfernte Truppen die nur in einer Richtung leben? Das erscheint mir doch ein wenig stumpf.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 03.12.2024 - #2009 - ##86
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

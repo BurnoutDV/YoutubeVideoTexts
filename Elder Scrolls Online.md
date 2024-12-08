@@ -12608,24 +12608,55 @@
   Aufnahme vom 03.12.2024 - #2009 - ##86
   ```
 
-##### #Nummer
+##### #2010##87
 
-* Titel: ``
+* Titel: `Let's Play ESO #2010 ##87 - Weg zur Westgrube [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 87 des Gold Road DLCs - Sitzung 15
+  
+  Wenn ich mich nicht unfassbar lange hätte aufhalten lassen wären wir heute bereits halb fertig mit der Quest. Stattdessen laufen wir halt nur hin und gehen ein wenig durch die Tür ohne wirklich viel zu schaffen. Immerhin erlebe ich ein wenig etwas vom Spiel selbst und sehe auch ein paar Mechaniken die ja sonst ziemlich kurz bei den Dingen die ich so tue komme. Jetzt weiß ich bloß nicht ob das überhaupt irgendjemanden interessiert. An sich bin ich ja hier um die Geschichte zu spielen und vielleicht ein paar schlecht recherchierte Informationen zu irgendwelchen Themen vom Stapel zu lassen von denen ich glaube das sie zur aktuellen Sachlage passen. Aber ansonsten nähern wir uns ziemlich schnell dem Ende der Nebenquests und damit auch dem Ende der Goldküste. Ich frage mich was ich dann mache? Etwas Anderes, mehr Nebenquests?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 05.12.2024 - #2010 - ##87
   ```
 
-##### #Nummer
+##### #2011##88
 
 * Titel: ``
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 88 des Gold Road DLCs - Sitzung 15
+  
+  Ich bräuchte eigentlich mal jemand der Elder Scrolls Lore mit mir Fakt-Checkt weil bestimmte Sachen nicht so einfach zu googlen sind wie ich es gerne hätte. Soweit ich das verstanden habe gibt es nicht direkt etwas das die Daedra direkt daran hindert nach Nirn einzudringen. Allerdings hat Sotha Sil das Abkommen von Kalthafen erlassen und irgendwie weiß er wenn ein Daedra-Fürst seine Leute rein lässt. Davon ausgenommen sind offensichtlich Kultisten die sich durch das Flüstern der Macht dazu leiten lassen Porta zu öffnen. Das ist anscheinend okay. Später, in der Zukunft gibt es den Drachenpakt und der hindert dann irgendwie alle Daedra gleichermaßen daran einfach in Nirn einzufallen. Der ist aber aktuell nicht aktiv weil halt niemand auf dem Rubinthron sitzt. So oder so ähnlich war die Geschichte aber um ehrlich zu sein erinnere ich mich nur noch partiell. Da Ithelia nicht Teil des Kalthafen Abkommens war hat sie anscheinend freiere Hand, zumindest nehme ich das an. Und doch braucht man anscheinend einen gewissen Schlüssel wenn man eindringen will. Dieser Schlüssel kann anscheinend irgendeine Sammlung magischer Gegenstände sein. Und das ist wohl was hier die Falle war die der Titel bzw. die Quest referenziert? Wo liege ich falsch?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 05.12.2024 - #2011 - ##88
+  ```
+
+##### #2012##89
+
+* Titel: `Let's Play ESO #2012 ##89 - Westgrube-Handelsposten [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 89 des Gold Road DLCs - Sitzung 15
+  
+  Die Episode mit Face Reveal. Aber eigentlich mit nervigen Bugs die es schwerer machen eine Quest abzugeben weil ich alles doppelt tun muss. Immerhin bringt uns das in die Situation das ich es trotz des mangelnden Inhalts doch noch schaffe die Zeit voll zu kriegen. Wenn auch nur ein wenig erzwungen. Wie dem aber auch sei. Wie genau der Westgrube Handelsposten in "Friedenszeiten" ausgesehen hat kann ich mir übrigens immer noch nicht vorstellen. Das liegt größtenteils daran das er scheinbar irgendwie Untertage zu sein scheint und der primäre Eingang irgendwie nicht so richtig zugänglich wirkt. Um es kurz zu machen, in seinem Gesamtformat wirkt das Ding einfach irgendwie komisch und die paar Häuser die dann drinne sind sehen halt auch seltsam aus. Insbesondere weil ich nicht weiß was davon jetzt Spiegelmoor ist und was Realität
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 05.12.2024 - #2012 - ##89
   ```
 
 ##### #Nummer

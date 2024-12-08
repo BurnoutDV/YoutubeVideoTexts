@@ -369,6 +369,54 @@ Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
+##### #23
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #23 - Taylews ruinierte Schmiede [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben eine weitere Instanz von Lore vor uns die ich nicht verstehe. Heute im Bild. Taylews ruinierte Schmiede. Technisch gesehen sind alle Sternenschmieden die wir finden natürlich zerstört und ruiniert aber ich weiß wirklich nicht warum. Ich meine nicht das wir an irgendwelchen Lore Texten oder Gegenständen vorbeigelaufen sind die uns hier mehr als nur absolut oberflächlich aufklären. Man könnte sogar sagen das das Wissen über diesen Ort zusammen mit ihm zerstört wurde. Das ist sehr schade aber vielleicht auch zu erwarten und eine Eigenschaft die man in einer Welt des stetig zuwachsenden Ruins erwarten sollte. Und doch trauere ich, nicht wirklich, aber metaphorisch um jene Geschichten, jene Freuden und Erfolge die hier einst ihren Platz fanden. Wie alles das zerstört wird geht auch hier etwas verloren. Vielleicht war es nichts Gutes, aber ich möchte daran glauben das es hier etwas Gutes gab und dann verloren wurde. Oder es war ein Werkzeug der Unterdrückung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 7, Aufnahme vom 10.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #24
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #24 - uralte Tempelruinen [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Generell und überhaupt sind eigentlich alle Ruinen, Einrichtungen und Gebäude die wir irgendwo finden immer uralt. Das Wort Ruine impliziert eigentlich auch schon so ein gewisses Alter. Allerdings könnte man wohl argumentieren das in einer Welt in der alles in verschiedenen Zuständen des Verfalls ist das Wort uralt noch einmal extra gebraucht wird um die genaue Einordnung eines Ortes für den Laien näher zu bringen. Oder in kurz, uralt heißt total überraschend das die Dinger wirklich alt sind. Allerdings frage ich mich schon wo eigentlich die Handwerker und Arbeiter sind die dafür sorgen das Orte wie Leyendell halbwegs vernünftig aussehen. Die Stadt befindet sich zwar auch in einem gewissen Zustand des Zerfalls, aber im Gegensatz zu anderen Orte ist sie quasi super modern und im besten Zustand. Die paar Gestalten die in den Gassen herumlaufen können es ja wirklich nicht sein oder? Müsste nicht irgendwo das ein oder andere Gerüst herumstehen von Leuten die Reparaturen an der Stuckatur unternehmen? Irgendetwas in der Richtung?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 7, Aufnahme vom 10.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #25
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #25 - Nebelriss-Katakomben [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Nebelriss Katakomben sind der einzige Ort an dem wir ankamen und gesagt haben das wir jetzt erst einmal in eine andere Richtung weitermachen. Das holen wir jetzt aber nach. Es gibt hier gewisse, sich wiederholende Muster. Die Nebelriss-Katakomben zählt zu den drei stöckigen Orten an dessen Ende wir dann einen bestimmten Gegnertyp finden. Im Koop deswegen ein wenig anstrengend weil das Respawnen am nächsten Marika-Pfahl zwar hervorrangend funktioniert dadurch aber auch ein Malus aufkommt. Die gute Nachricht ist allerdings das der Dungeon nicht resettet. Dadurch gleicht sich das alles ein wenig aus. Letztendlich ist zu Dritt zu spielen aber immer noch ein wenig schummeln. Es braucht schon ziemlich besondere Gegner das unser zahlenmäßiger Vorteil nicht zu einer absoluten Überlegenheit führt solange wir auch nur ansatzweise als Team agieren.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 7, Aufnahme vom 10.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
 ##### #Nummer
 
 * Titel: ``

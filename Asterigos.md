@@ -347,6 +347,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
 
 ##### #23
 
+* Titel: `Asterigos - #23 - Hohlgrube [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Minen sind nicht inhärent langweilig. Aber es fällt mir doch irgendwie schwer in unterirdischen Tunnel, insbesondere bei Spielen die in der dritten Person stattfinden Freude zu empfinden. Das liegt eventuell auch daran das mir einfach die Fantasie fällt. Also nicht meine eigene sondern die die ich erleben kann. Wenn ich einen dunklen Ort mit engen Gängen sehen will könnte ich auch runter in den Keller sehen und ein bisschen Ordnung zwischen den Regalen schaffen. Auch gibt es Höhlen wie beispielsweise die Schwarzweite in Skyrim die absolut fantastisch sind, aber die sind dann auch nicht an einem engen Orten sondern sind gewaltig. Und das war was sie so besonders gemacht hat. Die Stella Mine hat auch ein paar Kavernen und es sieht so aus als würde das Wunder eventuell zu einem späteren Zeitpunkt noch aufkommen. Aber das ist halt nicht heute, heute, heute betreten wir die Hohlgrube und snipen mehr Gegner weg. Zumindest so lange bis aus den langen Gängen verwinkelte Gänge werden und ich nicht mehr die Entfernung nutzen kann.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 4, Aufnahme vom 26.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #24
+
+* Titel: `Asterigos - #24 - die alte Weißbraue [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Wort Vaterfigur hatte für mich nie eine große Bedeutung. Größtenteils weil mein eigener Vater eher so mittel war und als Mentor und Vorbild eher im unteren Drittel rangiert hat. Behaupte ich jetzt ohne den großen, objektiven Vergleich zu haben. Generell und überhaupt war ich nicht so begeistert von seinem Ansatz und Verhältnis. Aber es gibt wohl Leute die sehen in einen Mann der die Welt zeigt etwas Großes. Etwas das man schützen muss, etwas für das man auch sein Leben geben kann. Eine solche Person ist anscheinend die alte Weißbraue für Shaye der als Waise aufwuchs und deswegen nie echte Eltern hatte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 4, Aufnahme vom 26.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #Nummer
+
+* Titel: `Asterigos - #25 - tiefere Mine [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich geht es immer tiefer. Ich erwähne es gelegentlich, eigentlich immer wenn es um Höhlen geht, ich bin im Flachland groß geworden. Schon früh bin ich mit Geschichten und Spielen in Verbindung gekommen die tiefe Höhlen als Inhalt hatten. Lange, gewundene Bergpfade die dann Zugänge zu langen Gängen hatten. Meistens auch so groß das man problemlos darin laufen kann. Keine schmalen Spalten die bei jedem Schritt die Gefahr mit sich bringen das man Hängen bleibt. Keine gefährlichen Abgründe, nein, sanfte Höhlen die zum Erkunden und Räuberjagen einladen. In Elder Scrolls gibt es die Erklärung das Nirn das Fleisch eines Gottes ist und deswegen von Venen und Adern durchzogen ist. Ich frage mich was die Erklärung in Asterigos ist. Klar, wir sind in einer Mine, aber nicht alle Gängen die wir finden sehen gegraben aus. Dafür scheint das alles hier doch ein wenig groß zu sein oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 4, Aufnahme vom 26.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

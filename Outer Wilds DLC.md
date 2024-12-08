@@ -145,44 +145,64 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
   ```
 
-##### #Nummer
+##### #10
 
-* Titel: ``
+* Titel: `Outer Wilds: Echoes of the Eye - #10 - Holzmatrix [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es ist sehr faszinierend wie ich mit der heutigen Entdeckung auf einmal bemerke das es einfach doppelt so viel Inhalt in dem Outer Wilds DLC gibt wie ich ursprünglich angenommen hatte. Das Habitatsraumschiff befindet sich in einem offensichtlich desolaten Zustand aber dennoch können wir zumindest etwas Wissen rausholen. Aber dann finden wir heraus da es anscheinend eine gewaltige Simulation gibt in der sich alle Hirschwesen zurückgezogen haben. Was es genau damit auf sich hat ist absolut unklar aber wir wissen ja bereits das der Bau des Raumschiffes anscheinend die gesamten Ressourcen des Heimatplanetes verbraucht hat. Bei den seltsamen Größenverhältnissen im Outer Wilds Universum ist dies auch nicht überraschend aber trotzdem irgendwie auch komisch. Wie dem aber auch sei. Den Ort den wir betreten mangelt es tendenziell an Licht. Da fragt man sich doch ob die Hirschwesen ewige Nacht einfach mögen oder ob ärgerlicherweise in den letzten 20 Minuten der Realität einfach nur Nacht ist und es vielleicht in ein paar Stunden Tag geben würde, aber wir das einfach nicht erleben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Outer Wilds irgenwann aufgenommen, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 29.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
   ```
 
-##### #Nummer
+##### #11
 
-* Titel: ``
+* Titel: `Outer Wilds: Echoes of the Eye - #11 - singende Geister [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Etwas was wir wahrscheinlich nie erfahren werden, zumindest glaube ich das aus der Perspektive von einigen Episoden aus der Zukunft, ob die Geister die wir in der Holzmatrix sehen tatsächlich noch lebendige Wesen sind. Es spricht Einiges dafür das die physischen Körper der Hirschwesen schon lange tot sind und vielleicht auch nie ein Interesse daran hatten dieses Schicksal zu vermeiden. Quasi eine Art Himmelreich. Ein selbst ausgesuchtes Ende unter den Sternen und Himmel ihres Heimatplaneten auch wenn dieser nur ein Illusion war. Besser als nichts, weil der ursprüngliche Ort war definitiv verloren, also warum nicht die zweitbeste Lösung anstreben. Aber sie scheinend das Ende ihrer Realität auch irgendwie zu feiern. Sie singen! Von den Terminals in echten Welt wissen wir auch das den Hirschwesen definitiv bewusst war das das Universum endet. Die Sterne explodieren, System sind verloren. Von den anderen Nomai wissen wir das es überall so ist. Schon ein wenig seltsam das es überall gleichzeitig passiert, aber letztendlich spielt es auch keine Rolle für die Hirschwesen. Sie hatten das Ende abgesehen, und hier ist es.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Outer Wilds irgenwann aufgenommen, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 29.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
   ```
 
-##### #Nummer
+##### #12
 
-* Titel: ``
+* Titel: `Outer Wilds: Echoes of the Eye - #12 - Lampenprozession [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Und wir erfahren soviel und gleichzeitig eigentlich nichts. Mehr als einmal habe ich mich über Elden Ring, Dark Souls oder sogar Bloodborne beschwert das viele Dinge einfach nur irgendwie gezeigt werden ohne das das Spiel so richtig mit einem spricht. In einer gewissen Hinsicht ist Outer Worlds wesentlich besser. Im Hauptspiel hatten wir eine Menge Text die die Welt mit Fleisch gefüllt haben aber hier im wortlosen Holzkern sieht das alles ein wenig anders aus. Wir müssen irgendwelche Diashows mit Musikeinlage beurteilen und das macht es nicht unbedingt einfacher tatsächlich einen richtigen Sinn aus der gesamten Angelegenheit heraus zu holen. Heute sehen wir zum Beispiel irgendwelche Hirsche wie sie Laternen durch die Landschaft tragen. Das machen sie technisch gesehen alle weil das der Weg ist wie sie in diese Realität gekommen sind, aber so richtig klar ist mir immer noch nicht was es damit auf sich hat. Warum gehen sie dort hin? Wo kommen sie her? Aus den Häuser, natürlich, aber warum, auf ewig? Sind sie in einer ewigen Schleife gefangen die uns auch widerfahren würde aber unsere 20 Minuten sind einfach zu kurz um einen kompletten Durchlauf zu sehen? Soviele Unbekannte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Outer Wilds irgenwann aufgenommen, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 29.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
   ```
 
-##### #Nummer
+##### #13
 
-* Titel: ``
+* Titel: `Outer Wilds: Echoes of the Eye - #13 - Verbotenes Archiv [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich weiß nur das es sich um verbotene Archive handelt weil es auch dran steht. Warum genau und wieso ist absolut nicht klar. Ich könnte allerdings Vermutungen aufstellen. Mache ich natürlich auch, das ist schließlich der Hauptzweck dieser Beschreibungen. Vermutungen zu äußern die dann vielleicht oder vielleicht auch nicht zu treffen. So wie Outer Wilds aufgebaut ist werden wir es aber wohl nie erfahren weil es sich nicht um ein Spiel handelt das mit Antworten um sich wirft. Das Meiste was wir erfahren müssen wir irgendwie aus dem Zusammenhang erschließen, warum sollte es hier anders sein. Also, eventuell haben die Hirschwesen ihren Ursprung vergessen bzw. sie wollen vergessen das es sich um eine Simulation handelt, oder die Art und Weise wie ihr Gedächtnis funktioniert oder generell jedes Bewusstseins das in der Holzmatrix ist, lässt es einfach werden zu vergessen. Auf der anderen Seiten gibt es die großen weckenden Glocken. Es bleibt unklar, aber das Archiv enthält Informationen über die Matrix selbst, insofern ist es vielleicht nur für uns verboten weil die Hirschwesen nicht wollen das wir über die Holzmatrix Dinge lernen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Outer Wilds irgenwann aufgenommen, 19 Uhr Release.
+  Sitzung 2, Aufnahme vom 30.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOhBlxCD9hHwhNpAWBmVM6s
   ```
 
 ##### #Nummer

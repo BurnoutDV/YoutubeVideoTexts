@@ -417,6 +417,102 @@ Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
+##### #26
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #26 - ruinierte Sternenfallschmiede [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich das in Elden Ring bekommen würde was ich mir wünsche wäre ich enttäuscht. Weil das wäre ein intakter Ort. Eine Stadt die noch aktiv ist, eine Stadt die in ihrer Blütezeit steht. Strahlende Ritter die über belebte Straßen schreiten. Große Paraden die unter gleißender Sonne stattfinden und natürlich auch Schmieden die in voller Produktion die Werkzeuge für das Leid in weit entfernten Ländern herstellen. An sich ist mir das Leid in diesem Fall auch egal, ich will nur sehen wie es ausgesehen hätte wenn alle Golemschmiede auf voller Kapazität hergestellt hätten, wie die Schmiede selbst gelaufen wäre und wie geschäftig es an einen solchen Ort wäre. Ein wenig Slice of Life quasi in der lebendigen Welt die Elden Ring versucht zu simulieren. Oder besser gesagt, die Elden Ring versucht zu verkaufen das es sie einst gab. All die Orte, Ruinen, Höhlen und Schlösser müssten ja irgendwann einmal errichtet und eingerichtet worden sein. Aber außer irgendwelche Bestienhöhlen gibt es quasi nichts mehr was irgendwie noch aktiv aussieht. Das macht mich melancholisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 8, Aufnahme vom 27.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #27
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #27 - Ruinen von Moorth [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode schrieb ich erst davon das ich die Orte gerne lebending gesehen hätte. Bei Anderen würde ich gerne eine kleine Zeitraffer Aufnahme haben um zu schauen wie sie auseinander gefallen sind. Quasi ein Verlaufsbild wie aus einer richtigen Städte eine komische Karikatur wie Moorth geworden ist. Wann haben die Leute aufgehört regulär dorthin zu gehen, wann wurden die ersten Bahnen Stoff angebracht. Wann haben die Ritter angefangen die Stiefen zu patrouillieren und wann ist das Wasser gestiegen? Irgendwann muss sich ja jemand gedacht haben das dies ein guter Ort zum Bauen einer Siedlung ist..aber jetzt hat sich alles so sehr geändert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 8, Aufnahme vom 27.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #28
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #28 - Festung des Tadels [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind ein wenig fertig mit der komplett ungelenkten Erkundungstour und haben jetzt eine Phase der Ordnung begonnen. Zu vor sind wir halt einfach nur herumgelaufen und haben uns quasi Orte markiert die ganz interessant am Horizont aussahen. Damit ist es jetzt vorbei und wir reisen auch einmal ein wenig umher wenn wir an einer Ecke zu Ende sind aber wissen das in den uns bekannten Gebieten durchaus noch etwas herum liegt. Und so kommt es das wir heute die Festung des Tadels betreten. Die gesamte Einrichtung hat relativ wenig zu bieten und ich hätte mir bei einer Festung irgendwie mehr vorgestellt. Aber im Großen und Ganzen ist es halt auch genau das, eine kleine militärische Einrichtung die durchaus genau das tut was man erwarten würde. Gewaltige Keller wären eher untypisch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 8, Aufnahme vom 27.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #29
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #29 - Bonny Dorf [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wieder ein Ortswechsel. Quasi eigentlich ein Ort an dem wir schon waren. Nur letztes Mal sah es halt so aus als würde es hier noch ein wenig weiter gehen und das wollten wir nicht und stattdessen lieber andere Sackgassen finden. Das Bonny Dorf ist in Sachen Story relativ wichtig für Marika, der ganzen Schamanengeschichte und all den anderen kleinen weirden Dingern die die Hornherolde hier über die Bühne gebracht haben. Aber was genau erfährt man vor Ort natürlich nicht. Wenn man ganz vorsichtig alle Gegenstandstexte zusammenwirft und noch ein wenig reininterpretiert kommt man irgendwie zur Schlussfolgerung das hier irgendwie Leute zu Fleischklumpen verarbeitet wurden und in Gefäße gesteckt wurden. Und deshalb rennen hier die Fleischer herum.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 8, Aufnahme vom 27.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #30
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #30 - Tiefen des Risses [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Ganz neuer Ort, komplett andere Richtung. Aber etwas das so ausschaut als könnten wir hier etwas finden nachdem sich scheinbar etwas ausgelöst hat. Die Tiefen des Risses sind ein wenig seltsam weil sie so anders als die anderen Teile der Schattenlande sind. Dennoch bin ich ein wenig enttäuscht das quasi wieder einmal gar nichts erklärt wird. Dafür ist es auch Elden Ring. Auch nerven tut ein wenig das es so viele offene, leere Gebiete gibt die man einfach nur durchläuft und ganz gelegentlich irgendwelche Gegner besiegt die vielleicht oder vielleicht auch nicht thematisch passen weil es schwierig ist überhaupt zu beurteilen was das Thema der aktuellen Region ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 8, Aufnahme vom 27.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #31
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #31 - Schattenbergfried [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Risstiefen abgeschlossen, Kurswechsel. Wir schauen uns den Schattenbergfried an. Als ich damals alleine gespielt habe kam ich hier durch den Hintereingang über die Kirche rein und habe dem Haupttor kaum Beachtung geschenkt. Wenn man das jetzt so lesen will und den Humor eines 13jährigen hat versteckt sich bestimmt hier auch ein Scherz. Wie dem aber auch sei, es gibt hier einen kleinen nicht ganz geringen Bug der mich ein wenig genervt hat. Und der kam auch daher das der offizielle Weg wohl so aussieht das man durch das Mesmer Lager reitet und dann den Haupteingang nimmt anstatt ein wenig seltsam durch das gesamte Hinterland reitet, an Magiertürmen und Fleischerdörfer vorbei um dann durch den Dienstboteneingang über den Klerus Einlass zu erlangen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 9, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
 ##### #Nummer
 
 * Titel: ``

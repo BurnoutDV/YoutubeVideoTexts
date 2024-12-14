@@ -375,7 +375,7 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
-##### #Nummer
+##### #25
 
 * Titel: `Asterigos - #25 - tiefere Mine [Let's Play; ger; Blind]`
 
@@ -388,6 +388,91 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Asterigos, Curse of the Stars am Dark Souls Dienstag
   Sitzung 4, Aufnahme vom 26.11.2024
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #26
+
+* Titel: `Asterigos - #26 - Schmiedewerkzeuge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig erstaunlich wieviele Dinge Hilda an ihrer Ausrüstung verbessern kann. Das ist deswegen auch erstaunlich für mich weil wir ja eigentlich aus einer völlig anderen Region der Welt stammen und man meinen möchte das deswegen das Zeug das wir haben nicht so gut kompatibel mit dem ist was in Aphes existiert. Weiter ist Anbaris Militär aus irgendwelchen Gründen wesentlich inklusiver als es Aphes seines ist. Das könnte eventuell daran liegen das im Reichtum weniger notwendigkeit steht alle Leute unter Waffen zu bringen, oder aber die Struktur insgesamt anders aussieht so das Frauen aufgrund ihrer durchschnittlichen Physis als eher hinderlich angesehen werden. Das hat aber auch zur Folge das wir wohl nicht damit rechnen können das es irgendwelche Ausrüstung in Hilda-Größe in der Stadt gibt. Und wenn doch dann nur in so geringen Mengen das es von uns wahrscheinlich nie gefunden wird. Maßanfertigungen brauchen aber viel Zeit und kosten Geld. Und deswegen gehen wir heute pleite..wegen der Maßanfertigungen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 4, Aufnahme vom 26.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #27
+
+* Titel: `Asterigos - #27 - Akademie-Treppen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Phalan-Akademie besteht aus ziemlich vielen Treppen. Ich hatte früher eine Vorstellung wie eine Universität bzw. Akademie aus zu sehen hat und ich muss zugeben, ich wurde schwer enttäuscht. Das Ding ist halt auch das in Filmen und Medien generell immer nur die großen Eliteschulen gezeigt werden, wenn es historische oder fantastische Werke sind dann handelt es sich sowieso um Orte die nur den Reichen vorbehalten sind und nicht wo der gewöhnliche Pöbel etwas lernt. Historisch waren diese Einrichtungen ja auch eher was für die Söhne gut betuchter Häuser und nicht der breiten Masse. Insofern ist es dann nicht verwunderlich das man großartige Säulengänge, reiche Promenaden und tonnenweise Hilfspersonal vor findet das sich um den Erhalt eben jener Einrichtungen kümmert. Will sagen, mit den anderen reichen Freunden über irgendwelche großen Treppen zu flanieren ist wesentlich realistischer und angenehmer wenn man reich ist und alles ringsherum auch. Meine Universität war eher nicht so reich und hatte größtenteils Gebäude aus den 60ern.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 5, Aufnahme vom 01.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #28
+
+* Titel: `Asterigos - #28 - Otto [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Otto ist ein völlig normaler Name. Aber nicht für meinen Jahrgang. Ich verbinde den Namen immer mit einer Beleidigung á la "ganz schöner Otto". Das ist so ein wenig der ältere Bruder des Kevins. Klar, jeder weiß das es sich um einen Namen handelt aber die unterbewusste Wahrnehmung ist dennoch für mich das das jemand ist der komisch ist. Wie dem aber auch sei. Otto ist außerdem ein weiteres Mitglied der Nordwind-Legion, also ein Elitesoldat der zusammen mit dem Kommandanten hier nach Aphes gekommen ist. Soweit wir wissen scheinen die einzelnen Soldaten individuell oder im kleineren Trupp Aufträge für Eumides auszuführen. Genaue Informationen erfahren wir initial nicht, fast so als hätte hier jemand ein Briefing über Hilda und ihre neuen Verbündeten erhalten. Ich bin mir immer noch unsicher inwiefern wir Minerva wirklich trauen können aber der andere Auftragsgeber in der Stadt erscheint mir auch nicht besonders vertrauenswürdig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 5, Aufnahme vom 01.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #29
+
+* Titel: `Asterigos - #29 - magische Ballisten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich haben die Apheser automatische Verteidungsanlagen. Bzw. irgendwie haben sie das auch nicht. Wir erfahren später noch ein wenig mehr über die Magietechniken in Aphes und es scheint mir doch sehr so zu sein als wäre nicht alles ganz so magisch wie es sich initial anhört. Oder um es anders zu formulieren, manche Arten von Magie sind gar nicht so hoch entwickelt und benutzen eher Mechaniken die sich genau so bereits im Leben finden. Und das ist dann irgendwie sogar enttäuschend. Für mich zumindest finde ich. Unabhängig davon glaube ich das, wenn ich es wirklich wollte und es sehr sehr hart probieren würde ich jede einzelne der Ballisten ignorieren könnte. Es wäre zwar sehr anstrengend und bräuchte ziemlich gutes Timing, aber mit ein wenig Aufwand kann man ihren Geschossen wohl entfliehen. Nicht besonders wahrscheinlich und es führt bestimmt zu Zuständen die das Spiel nicht vorgesehen hat, aber es geht, ganz bestimmt. Davon abgesehen weiß ich nicht warum die Ballisten mitten in der Stadt und nicht an den Stadtmauern stehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 5, Aufnahme vom 01.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #30
+
+* Titel: `Asterigos - #30 - Arsenal [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird ziemlich oft betont wie Aphes und seine Legionen damit beschäftigt sind ständig ihre Ausrüstung zu versorgen. Was mich viel mehr wundert ist wie sie die Truppen bei der Stange halten. In der Regel ist Militärdienst doch eher zeitlich beschränkt und nach den ersten paar hunderte Jahren Ausgangsperre durchsetzen erscheint es mir doch ein wenig seltsam das es überhaupt noch eine Treue Seele innerhalb der Legion gibt. Und warum man die offensichtlich nutzlosen Adeligen durchfüttern. Es mag ja eine Sache sein das man die einfachen Leute nicht mehr braucht weil viele Jobs weggefallen sind, aber wieso genau ist es so gekommen das man nach Jahrzehnten immer noch nutzlose Adelige durchfüttern. Soweit wir wissen gibt es keinen Mechanismus den sie haben um die Truppe vom Desertieren abzuhalten. Und selbst wenn nicht alle weggelaufen sind, wie genau hält die Truppe ihre Zahlen hoch? Ich hätte nicht gedacht das nach einem Jahrtausend Ausrüstung das Problem ist, insbesondere wenn man davon ausgehen kann das die Leute auch besser darin werden auf ihr Zeug aufzupassen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 5, Aufnahme vom 01.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
   ```
 
 ##### #Nummer

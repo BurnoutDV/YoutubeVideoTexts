@@ -12659,6 +12659,91 @@
   Aufnahme vom 05.12.2024 - #2012 - ##89
   ```
 
+##### #2013##90
+
+* Titel: `Let's Play ESO #2013 ##90 - Der Deserteuer [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 90 des Gold Road DLCs - Sitzung 16
+  
+  Von der Armee weg zu laufen wird je nach Nation unterschiedlich schwer gesehen. Aber im Allgemeinen eigentlich nie positiv. Manchmal sehen nicht einmal die feindlichen Nationen einen Deserteuer als etwas Gutes. Jemand der quasi seine Familie hinter sich gelassen hat um sich selbst zu retten wird einfach nicht positiv gesehen. Ich habe diesen Text schon einmal irgendwie so geschrieben als wir uns mit den Scharlachroten auseinander gesetzt haben. Und schon damals war meine Erkenntnis das dieses Konzept auch Jahre später, auf großer Fläche, den Leuten die einst wegliefen, insbesondere wenn der Krieg noch sinnloser ist als normalerweise, das Leben schwer zu machen, keine gute Idee ist. Die Mission die wir heute anfangen ist wesentlich zu kurz und ich beende sie nicht in dieser Episode weil ich wirklich angenommen hatte das hier noch ein wenig etwas erkundet wird. Am Ende gibt es eine Art Twist aber alles wirkt irgendwie seltsam und ich kann nicht wirklich behaupten das mir die Botschaft gefallen hat die sich am Ende ergeben hat.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 10.12.2024 - #2013 - ##90
+  ```
+
+##### #2014##91
+
+* Titel: `Let's Play ESO #2014 ##91 - geschriebene Geschichte [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 91 des Gold Road DLCs - Sitzung 16
+  
+  Aus der Kategorie "exta kurze Episoden" präsentiere ich diese hier. Hintergrund ist das die "Der Deserteuer" Quest wesentlich früher und schneller endet als ich es gedacht hätte. Ich finde das Ende hier ein wenig komisch. Wir erfahren dann das die gute Frau Hauptmann anscheinend wirklich genau so unehrlich war wie es ihr Legionär gesagt hat aber ohne das es wirklich eine richtige Nuance gibt. Wir können eine von zwei Entscheidungen treffen und dann endet die Quest auf einmal. Alles was wir noch hören ist wie angekündigt wird das sie den Mann mit ihrer neuen Truppe jagen wird. Wir erfahren keinen Hintergrund warum sie so ist wie sie ist. Keine Erklärung oder irgendetwas. Hier hätte ich mir wesentlich mehr gewünscht. Entweder es gibt hier wirklich etwas wie Besessenheit durch Daedra oder aber eine andere Erklärung. Weil klar war das die gute Frau nicht schon immer so war. Es wird dargelegt das sie sich verändert hat. Die Art und Weise wie sie ihre Feigheit an den Tag legt lässt es aber irgendwie so erscheinen oder fühlen als wäre sie schon immer so gewesen. Als wäre sie halt das Kind aus edlem Hause die sich die Stellung zu nutze gemacht hat und lieber irgendwelche Leute verheizt. Aber dem kann ja nicht sein wenn ihr die Leute vorher getraut haben. Das Bild ist einfach unvollständig. Es fühlt sich so an als hätten wir nur die halbe Quest gespielt, und das ist komisch.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 10.12.2024 - #2014 - ##91
+  ```
+
+##### #2015##92
+
+* Titel: `Let's Play ESO #2015 ##92 - Schrecken der Aue [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 92 des Gold Road DLCs - Sitzung 16
+  
+  Die zweite Vampirstory. Das überrascht mich ehrlich gesagt ein wenig mehr als die meisten anderen Sachen die wir bisher erlebt haben. Das zentrale Stück dieses DLCs sind ja immer noch die Daedra um Ithelia und alles was irgendwie mit Wissen zu tun hat. Damit ausgeklammert sind explizit eigentlich die drei Vampir erstellenden daedrischen Fürsten. Auch wenn ich über die von Sanguine eigentlich auch so nichts weiß. Aber anders als in der letzten Quest mit Haus Rabenwacht ist hier die Geschichte ein wenig anders. Die grundlegende Prämisse ist übrigens ganz interessant weil quasi hier Leute ursprünglich den Fluch an sich genommen haben um das Diebesleben leichter zu machen. Eine andere Sache die ich mich noch frage ist übrigens wie genau das eigentlich für die Seelen läuft die den Fluch umkehren. Ich weiß nicht wie das Ritual in Elder Scrolls Online abläuft bzw. in dieser Zeit, aber an sich sehe ich hier ein ziemlich leicht zu missbrauchendes Loch in der Geschichte. Die ewige Verdammnis im Reich des Vergessens scheint mir ein gute Grund zu sein die Unsterblichkeit über andere Wege an zu visieren, und dennoch, was passiert wenn man aufhört Vampir zu sein? Bleibt man genauso jung wie man war als man infiziert wurde oder kommen all die Jahre auf einmal zurück. Wenn es eine Geschichte mit dem schwarzen Seelenstein war, ist die Person darin dann diejenige die anstatt der eigenen Person ins Reich des Vergessens geschickt wird? Hier gibt es wirklich noch ein paar offene Fragen. Faszinierend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 10.12.2024 - #2015 - ##92
+  ```
+
+##### #2016##93
+
+* Titel: `Let's Play ESO #2016 ##93 - Paniktresorraum [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 93 des Gold Road DLCs - Sitzung 16
+  
+  Ein Tresorraum könnte als Panikraum eigentlich ganz gut funktionieren. Außer das die einzelnen Gänge wahrscheinlich nicht so groß sind als das man dort besonders viel Zeit angenehm verbringen könnte. Und dann wäre da natürlich noch das Problem das ich irgendwie bezweifle das ein solcher Raum in einer mittelalterlichen Welt besonders gut belüftet ist. Und wenn dann die Leute die dort rein wollen sowieso Banditen sind die es nicht nur auf Blut sondern auch tatsächlich auf Schätze abgesehen haben kann man sich nicht einmal darauf verlassen das die Vampire draußen vielleicht nicht wissen das sich Menschen innerhalb der Kammer befinden. Das ist außerordentlich ärgerlich. Zum Glück scheinen es die örtlichen Vampire aber nicht so ernst mit dem Plündern zu meinen, stattdessen schaute man sich schnell in der Eingangshalle um und sind dann wieder gegangen. Wie überaus praktisch.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 12.12.2024 - #2016 - ##93
+  ```
+
+##### #2017##94
+
+* Titel: `Let's Play ESO #2017 ##94 - der übliche Verräter [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 94 des Gold Road DLCs - Sitzung 16
+  
+  Die Leute lieben den Verrat aber nicht den Verräter. Aus irgendwelchen Gründen schwirrt mir dieser Ausspruch seit einiger Zeit im Kopf herum. Das habe ich irgendwo gelesen, sogar den Kontext habe ich vergessen, aber die Worte bleiben. Und es stimmt ja irgendwie. Klar, wenn man selber verraten wird dann mag man nichts an der ganzen Geschichte, aber wenn man profitiert ist der Verrat selbst eine profitable Geschichte. Der Verräter ist aber quasi eine Persona non grata. Warum genau sollte man sich auch weiter um die Person kümmern die schon vorher bereit war alle Ideal über Bord zu werfen. Das erscheint auch einfach nicht logisch. Und doch gibt es mildernde Umstände. So wie Entscheidungen aus einer gewissen moralischen Höhe getroffen werden können so können auch Verräter verschiedene Gründe haben. Diejenigen die einfach nur aus Gier und stumpfen Egoismus entscheiden alles hinter sich zu lassen kann man kaum entschuldigen. Aber andere Leute haben bessere Gründe, wurden erpresst oder haben versucht andere zu retten die halt wichtiger waren. Leben gegeneinander aufzuwägen ist zwar auch nicht soviel besser, aber immerhin besser vorstellbar.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 12.12.2024 - #2017 - ##94
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -12744,6 +12744,179 @@
   Aufnahme vom 12.12.2024 - #2017 - ##94
   ```
 
+##### #2018##95
+
+* Titel: `Let's Play ESO #2018 ##95 - desolates Sutch [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 95 des Gold Road DLCs - Sitzung 16
+  
+  Ich bin immer noch erstaunt das es in Tamriel noch überhaupt funktionierende Städte gibt. Egal wo wir hinkommen, es wirkt immer so als wären die Orte die wir besuchen kurz vor oder bereits hinter dem Abgrund. Ganze Städte die angeblich noch vor Kurzem bewohnt und lebendig waren sind so gut wie ausgestorben. Menschen und Mer die noch vor wenigen Wochen ihr Tagwerk vollzogen sind nicht mehr. In Sutch liegt das übrigens ausnahmsweise nicht an Ithelia und ihrer Freunde aus dem Spiegelmoor. Es hätte genauso gut ein Dienstag vor ein paar Monaten sein können und das Ergebnis wäre quasi exakt das Gleiche geblieben. Es stellt sich aber immer noch die Frage wie sich das mit der Langfristigkeit der Situation einstellt. Wenn man sich das Ganze auf Jahrhunderte anguckt kann es auf jeden Fall nicht funktionieren, so wie ein Ort der von einer Steinmine abhängig ist. Aber hier ist das Ganze schon auf Wochen nicht zu halten. Vampire brauchen Blut, und die Bevölkerung abzuschlachten um sie als Einmal-Drink zu genießen erscheint mir außerordentlich kurzsichtig, selbst wenn man den Großteil zu willenlosen Bruten verwandelt.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 12.12.2024 - #2018 - ##95
+  ```
+
+##### #2019##96
+
+* Titel: `Let's Play ESO #2019 ##96 - Varenswacht [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 96 des Gold Road DLCs - Sitzung 17
+  
+  Eine Festung die immer nach dem aktuellen Herrscher bzw. wer auch immer zu letzt auf dem Thron saß benannt ist erscheint mir ein wenig nach Stress. Gelegentlich wechselt so ein Herrscher ja schon und wenn man dann alle Schilder tauschen muss klingt anstrengend. Vielleicht ist das aber auch ein Zeichen was implizieren soll das die Regierung wesentlich stabiler ist als es in Wirklichkeit am Ende der Fall ist. Natürlich hält der Kaiser 50 Jahre, gar kein Problem das mit den Wegweisern und anderen Niederschriften, das ist ja quasi ewig. In den unruhigen Zeiten die wir bis jetzt so in ESO gesehen haben wäre es aber vielleicht besser die entsprechenden Namen lieber auf Schiefertafeln zu schreiben damit man sie im Wochentakt ändern kann. Obwohl ja zumindest die einzelnen Rubinthron Herrscher durchaus lange da waren, was aber auch nur damit zusammenhängt das die Macht formell übergeben werden muss, und das passiert wohl aktuell eher nicht.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 13.12.2024 - #2019 - ##96
+  ```
+
+##### #2021##98
+
+* Titel: `Let's Play ESO #2020 ##97 - Silorn [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 97 des Gold Road DLCs - Sitzung 17
+  
+  Die große Skingrad und Umgebungs Tournee findet langsam aber sehr sicher ihr Ende und schon bald gibt es nichts mehr zu tun außer sich mit der Hauptquest zu befassen. Das ist natürlich sehr schade, andererseits wurde meinen hohen Ansprüchen auch größtenteils nicht entsprochen und ich bin ein wenig traurig das dem nicht so ist. Eventuell war es der Konsum von viel zu vielen Büchern und anderer Literatur die den absoluten Fokus auf eine gute Geschichte hat und nicht mit Grafik, Spielmechanik oder einer großen, sichtbaren Welt punkten konnte. Silorn ist der Vorletzte Ort unserer Tour. Ein kleiner schnuckeliger Ort, Nekromanten vor Ort und ein mittleres Problem. Aber im Großen und Ganzen scheint es nicht der schlimmste Ort zu sein. So global gesehen, wenn man beispielsweise die Ebene des Vergessens oder die Stadt der Uhrwerke zum Maßstab nimmt. Ob irgendwann in ein paar Hundert Jahren ein ambitionierter Fürst daher kommen wird und all diese Ruinen zu neuen, modernen Städten umbauen wird? Ob Untergrundorte wieder in Mode kommen?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 13.12.2024 - #2020 - ##97
+  ```
+
+##### #2021#98
+
+* Titel: `Let's Play ESO #2021 ##98 - Tod und Titanen [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 98 des Gold Road DLCs - Sitzung 17
+  
+  Wie fast eigentlich immer ist diese Episode nach einem Ort oder dem Titel einer Quest benannt. Rein Meta gesprochen erhoffe ich mir dadurch mehr Zuschauer weil Leute Dinge suchen und dann mein Video ganz oben ist. Mir ist übrigens nicht so ganz klar wie das eigentlich funktioniert, weil eigentlich steht ja groß "Let's Play" davor was jeden sofort darüber informieren sollte das es keinen zusammengefassten Content gibt sondern nur unkomprimiertes Material wo jemand quasi PodCast artig drüber spricht. Aber manchmal hat dann auf einmal irgendein Video wirklich viele Views..aber keine besonders lange Dauer des Anschauens. Tragisch. Konkret ist diese Episode nach einer Quest benannt die wir in Silorn erledigen und ich weiß wirklich nicht warum. Der Tod umgibt uns ja immer irgendwie, aber über welche Titanen hier gesprochen wird ist mir absolut unklar. Vielleicht ist das auch ein Übersetzungsding? Ich weiß es nicht. Abschließend kann ich nur sagen das der Questcharakter dessen Namen ich bereits vergessen habe eigentlich recht sympathisch ist.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 13.12.2024 - #2021 - ##98
+  ```
+
+##### #2022#99
+
+* Titel: `Let's Play ESO #2022 ##99 - Nonungalo [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 99 des Gold Road DLCs - Sitzung 17
+  
+  Und da ist sie! Die letzte Höhle, der letzte Dungeon, die letzte Bedrohung die wir überwinden müssen bevor unsere Reise an der Gold Straße ein Ende nimmt und wir uns endlich der drohenden Zersplitterung der Realität annehmen. Wir waren bereits einmal in Nonungalo, damals als wir die Aspekte von Bellain verfolgt haben, übrigens immer noch meine Lieblingsquest in diesem DLC. An sich finde ich es nicht gut wenn man Orte so kontextlos bereist nur damit eine Mission mehr Laufweg hat, meistens passiert das aber auch nur bei jenen Quests die erst nachträglich in der vorhandenen Spielwelt eingefügt wurde. Warum das hier der Fall ist vermag ich nicht zu sagen. Mit Bellaine waren wir allerdings nicht besonders tief in Nonungalo, das lösen wir heute und schauen uns auch die letzte Ecke der von Ungetier verseuchten Höhle an. Zur Aufnahme war ich ein wenig zwischen Tür und Angel, das merkt man auch, ich nehme mir keine Zeit unnötige Dinge zu ernten. Das bedauere ich im Nachhinein, aber was will man tun?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 14.12.2024 - #2022 - ##99
+  ```
+
+##### #2024#100
+
+* Titel: `Let's Play ESO #2023 ##100 - König Nantharions letzter Zug [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 100 des Gold Road DLCs - Sitzung 17
+  
+  König Nantharion der übrigens kein echter König ist kommt in dieser Episode übrigens nicht vor. Die Quest heißt nur so, aber da es sich um eine Hauptquest handelt wird die Sachlage noch einmal im Detail auseinander genommen und wir kommen so schnell nicht zur Sache. Dafür bin ich übrigens sehr dankbar. Ich habe ärgerlicherweise immer noch keine Annotation dafür welche Episoden sich mit der Hauptquest beschäftigen und welche nur Nebenmissionen ohne Bezug zur eigentlichen DLC Story haben. Daher kann ich aus dem Stand leider gar nicht sagen wie lange es her ist das ich die letzte Hauptmission gespielt habe. Aber muss eine Weile sein, ich kann mich nämlich an wenig erinnern. Irgendwas Ithelia, irgendetwas drohender Realitätskollaps und irgendwelche Waldelfen hat auch noch jemand mit in die Mischung geworfen. Der Plot ergibt ehrlich gesagt nicht mehr Sinn wenn man sich nachträglich versucht an die großen Punkte zu erinnern. Das alles wirkt ein wenig durcheinander. Und insbesondere das Ithelias Leute sich konkret in einer Region auf Nirn bzw. sogar Tamriel beschränken ist wenig nachvollziehbar für mich.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 14.12.2024 - #2023 - ##100
+  ```
+
+##### #2024##101
+
+* Titel: `Let's Play ESO #2024 ##101 - Wildbrandspuren [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 101 des Gold Road DLCs - Sitzung 18
+  
+  Ein gewaltiger Wald lässt sich nicht ohne magisch Hilfe wachsen lassen. Wir wissen bereits das hier ein Werkzeug namens "Wildbrandsamen" genutzt wurde um das Wachstum zu beschleunigen. Dies ist ein Prozess der wohl selbst von den Waldelfen als unnatürlicher angesehen wird. Im Zentrum des neuen Waldes sieht es eigentlich recht normal aus, aber die Randgebiete schauen doch schon ein wenig unheilig aus. Es wundert mich eigentlich sehr das auch nur ein Grünsprecher überhaupt zugestimmt hat hier eine Siedlung zu errichten wenn eigentlich alles dagegen spricht oder zumindest der genaue Ursprung dieser Verderbnis aufgeklärt wurde. Es stellt sich heraus das Nantharion auch noch ein paar mehr Pläne für das Land hat, und diese vereiteln wir heute. Wie günstig das wir ein magischens McGuffin haben das uns genau sagt wo wir hin müssen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 23.12.2024 - #2024 - ##101
+  ```
+
+##### #2025#102
+
+* Titel: `Let's Play ESO #2025 ##102 - verlassene Festung Dirich [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 102 des Gold Road DLCs - Sitzung 18
+  
+  Die Menge an Leerstand in Colovia ist wirklich Wahnsinn. Nicht wirklich verwunderlich aber immer noch ziemlich gewaltig. Das Land ist vom Krieg gezeichnet, viele Töchter und Söhne des Landes sind auf fernen Schlachtfeldern für den Glauben an das Kaiserreich oder einem der letzten Kaiser gestorben. Das Land liegt brach, einst bevölkerte Landstriche sind verlassen, bemannte Festungen wurden aufgegeben und Infrastruktur dem Verfall überlassen. Natürlich lockt das auch Opportunisten an, zwielichtige Gestalten die eine taktisch günstig gelegene Position zu schätzen wissen. Festung Dirich ist von solche Wesen aber bisher verschont geblieben. Stattdessen haben sich hier andere Leute herumgetrieben und ihre Saat hinterlassen. Es ist wahrlich ein Glücksfall das die Samen die den Brand bringen nicht sofort aktiv werden sondern einige Zeit zum wachsen brauchen. Andernfalls wären wir immer zu spät.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 23.12.2024 - #2025 - ##102
+  ```
+
+##### #2026##104
+
+* Titel: `Let's Play ESO #2026 ##103 - Miscarcand [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 103 des Gold Road DLCs - Sitzung 18
+  
+  Ich mag es nicht wenn plötzlich irgendwelche Orte erwähnt werden die vorher nicht irgendwie zumindest beim Namen genannt wurden. Oder anders, mir mangelt es mal wieder an "Foreshadowing". Das Ding wenn große Ereignisse ihre Schatten voraus werfen. Das literarische Stilmittel das mir zeigt das der Autor der Geschichte nicht nur von Szene zu Szene gesprungen ist sondern eine lebendige Welt erschaffen wollte und Dinge mit einander verwoben hat. Zum Beispiel hätte uns im ersten Akt jemand von den wichtigen magischen Städten der Ayleiden erzählen können und Miscarcand in einer langen Liste von wichtigen Orten benennen können. Oder irgendwie anders wäre das Thema der Brunnen schon einmal zur Sprache gekommen. Stattdessen erfahren wir jetzt in der letzten Minute das die eigentlich schon lange bekannten Brunnen auch noch irgendwie für Ithelia nützlich sind. Sehr überraschend.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 23.12.2024 - #2026 - ##103
+  ```
+
+##### #2027##104
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

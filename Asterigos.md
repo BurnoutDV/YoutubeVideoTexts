@@ -465,6 +465,207 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
+##### #32
+
+* Titel: `Asterigos - #32 - Zenturio Aison [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich komme nicht umhin es immer und immer wieder zu erwähnen. Die Personaldecke in Aphes muss extrem dick gewesen sein bevor es zur Kastastrophe kam. Außerdem muss die Indoktrination der willigend Soldaten enorm fett und nachhaltig gewesen sein das man nach so langer Zeit immer noch keine Militärdiktatur eingerichtet hat. Oder irgendwas an dem Fluch sorgt auch dafür das die Körper gleich bleiben aber auch Gedanken ebenso. Anders kann ich mir nicht vorstellen das wir heute den Anführer von Hundertschaften begegnen, der nach dem wir uns durch all seine anderen Truppen geschnetzelt haben, immer noch fest daran glaubt das er seinen Pfad beibehalten kann und einfach im Weg stehen bleiben kann. Letztendlich spielt es für uns aber kaum eine Rolle ob Aison überzeugter Mitläufer ist oder wahnsinner Fanatiker, er steht im Weg und muss weg. Nur ein wenig schade ist wohl das wir damit Ereignisse auslösen die das Retten anderer Leute nicht gewährleistet. Schade.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 5, Aufnahme vom 01.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #33
+
+* Titel: `Asterigos - #33 - Sternenlicht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf einer gewissen Weise scheinen die Bewohner von Aphes das Sternenlicht enorm wichtig zu finden. Wie genau sich das alles erklärt ist unklar aber ihre ganze Ausdrucksform und den wortwörtlichen Fluch der Sterne lässt daraus schließen das es hier eine gewisse Bedeutung für Phänomene gibt die irgendwie mit den Sternen zusammen hängen. Wie dem aber auch sei. Wir haben das eigentlich alles getan was wir sollten, die Waffe ist sichergestellt und was jetzt noch bleibt wäre nur diese zurück zu bringen und uns irgendeiner anderen Mission zu widmen die auf uns zu kommt. Allerdings hatten wir bei der Erkundung der Akademie ja einige Dinge offen gelassen. Denen laufen wir jetzt hinterher, in der Hoffnung das wir sie jetzt noch erledigen können und das unsere Taten doch keine Konsequenzen haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 6, Aufnahme vom 02.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #34
+
+* Titel: `Asterigos - #34 - Konsequenzen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode sprach ich davon das ich hoffe das alles was ich tue rein mechanisch funktioniert und in Wirklichkeit die Welt kein Stück dynamisch ist. In den meisten Spielen ist das auch so und es bricht ein wenig die Immersion wenn man auf solche Dinge ein wenig zu sehr achtet. Natürlich bin ich mir nicht zu schade eben jene Effekte auch soviel und oft wie möglich aus zu nutzen. Leider stellt sich doch heute glatt heraus das Asterigos in einem gewissen Umfang versucht eine lebendige Spielwelt zu simulieren. Und das läuft darauf hinaus das wenn wir die örtliche Hauptquest abgeschlossen haben, die Gezeiten auf einmal anders stehen. Das ist schlecht. Insbesondere weil ich die eine Mission anscheinend schon praktisch abgeschlossen hatte und ich einfach nur hätte mit einem Shortcut zurück gehen müssen. Allerdings weiß ich auch nicht was genau jetzt die Konsequenz aus meinem Handeln ist. Sollte es wirklich nur die seelische Belastung sein, die Schuld die aufgeladen habe und jetzt mit mir umhertragen, oder wird auch physische Auswirkungen auf die Zukunft haben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 6, Aufnahme vom 02.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #35
+
+* Titel: `Asterigos - #35 - Lorbeer-Werkstadt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem ich zuletzt die Lorbeer Sternenschmiede umgebracht habe und daher die herrschende Aristokratie mich wahrscheinlich ein wenig weniger mögen wird, bin ich jetzt im Herzstück der wirtschaftlichen Zentral der Lorbeer und Goldolive Leute. Außerdem erfahren wir hier ein wenig persönliche Geschichte von Minerva und Eumides. Geschichte die uns bis jetzt niemand mitzuteilen für notwendig befunden hat. Generell und überhaupt stellt sich aber auch mehr und mehr heraus das Hilda für ein nützliches Werkzeug gehalten wird, aber Zusammenhänge eher zögerlich mitgeteilt werden. Vielleicht auch aus Angst das man auf der falschen Seite der Geschichte steht und Hilda das früher als später heraus findet und das dann den eigenen Machtambitionen widersprechen würde. Ansonsten finden wir leider gar nicht mehr viel von Wert, nach eintausend Jahren bin ich auch wirklich nicht überrascht das man in den völlig ignorierten Basar Bezirk nichts mehr von Wert findet wenn es nicht aktiv bewacht wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 6, Aufnahme vom 02.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #36
+
+* Titel: `Asterigos - #36 - kumulierte Trauer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn die Ereignisse im Leben sich nicht so entwickeln wie man sich das alles erhofft hat kann es schnell passieren das man verzweifelt. In der Regel passiert das umso schneller umso weniger Möglichkeiten und Alternativen man zu dem aktuell eingeschlagenen Pfad sieht. Wenn die Lage auswegslos aussieht man aber gleichzeitig auch nicht wirklich den Willen hat einfach weiter zu machen dann kann es schnell so erscheinen das noch ein weiterer Weg gefunden wird. Diese Variante wird in der Regel durch Religion, Abhängigkeit oder stumpf Erpressung versucht als möglichst ungangbar wie nur irgend möglich erscheinen zu lassen. Ansonsten hat man das minimale Problem das man größere Bevölkerungsschichten einfach nicht mehr unterdrücken oder arbeiten lassen kann. Oder man hält die Leute so beschäftigt das sie nie Zeit haben wirklich tief über ihre Situation zu reflektieren. Die Einwohner von Aphes haben sehr viel Zeit um über Dinge nach zu denken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 6, Aufnahme vom 02.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #37
+
+* Titel: `Asterigos - #37 - Geschichte des Fluches [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir mehr Fortschritt für Minerva möglich gemacht haben als sie in den letzten tausend Jahren erreicht hat taut sie doch endlich ein wenig auf. Das ändert aber nichts daran das sie uns immer noch wie ein kleines Kind behandelt. Übrigens etwas das sich ein wenig wie ein roter Pfaden durch das ganze Spiel zieht und das ich irgendwie auch zu schätzen weiß. Die Frustration sich andauernd beweisen zu müssen, erfolgreich Dinge zu erledigen und dann dennoch nicht für voll genommen zu werden wird her vor ragend transportiert. Eventuell hat es auch zusätzlich auch noch etwas damit zu tun das Hilda kein Mann ist und damit als Kriegerin in der Gesellschaft von Aphes auch als erwachsene Frau herausstechen würde. Letztendlich sollte es wohl auch keine Rolle spielen was Andere über uns denken, aber dennoch nervt es schon ein wenig wenn man so verurteilt wird. Aber immerhin ist jetzt wohl doch der Zeitpunkt gekommen das wir ein wenig mehr Details zu dem Fall des Fluches und der genauen Zeitlinie erfahren. Letztendlich war es wohl ein Versuch das Leben besser zu machen aber dann ging alles schief. Wie so oft. Man versucht etwas zu verbessern und dann geht alles schief.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 6, Aufnahme vom 02.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #38
+
+* Titel: `Asterigos - #38 - Wachen & Blitzwölfe [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die genaue Mechanik des Fluches ist übrigens immer noch nicht bekannt. Wir haben mittlerweile einige Dinge erfahren, größtenteils das es vorher Experimente mit den Resonatoren gab und das man anscheinend jeden Bürger der Stadt mit Sternit ausrüsten wollte, also nicht nur die reichen Leute. Das fanden wohl einige Leute nicht so überzeugend. Ich wäre übrigens nicht so überrascht wenn am Ende heraus kommt das der Plan von Eumides und Minerva eigentlich gut und ohne Stolpersteine war aber Roxanne irgendwie eingegriffen hat weil sie nicht akzeptieren wollte das die herrschende Ordnung gebrochen wird. 
+  Davon ab wissen wir das die Dinge die wir zum teleportieren benutzen anscheinend Teil des ersten Projektes waren, es wäre also durchaus möglich das von ihnen auch der Einflussbereiches des initialen Fluches ausgeht. Oder vielleicht ist es einfach nur eine Kugel die halt durch Geografie teilweise unterbrochen wird und es deswegen hier und da Ausläufer gibt. Sicher ist aber das die Ecke die wir heute betreten noch voll erwischt wurde. Ich habe übrigens die Ahnung das ich ein wenig unorthodox in den Bereich gestolpert bin und eigentlich hätte anders laufen sollen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 7, Aufnahme vom 04.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #39
+
+* Titel: `Asterigos - #39 - Versorgungsfahrt [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind jetzt zwar offiziell im überfluteten Bezirk angekommen aber leider ist es mal wieder an der Zeit für mich Dinge völlig außerhalb der normalen Abläufe zu machen und wild umher zu laufen um einen bestimmten Zustand her bei zu führen. Und deswegen sind wir jetzt hier wo wir sind. Beim Ausnutzen der Schnellreisemöglichkeiten weil wir können. Später wird sich heraus stellen das das schnelle Herumreisen nicht ganz ohne Risiken ist und das es hier durchaus Grenzen gibt. Wenn das Spiel abstürzt weil man zu faul zum Laufen war dann ist das schon irgendwie ein wenig ärgerlich. Hauptsächlich geht es darum heute ein wenig unsere Ausrüstung auf Vordermann zu bringen und ein paar vergessene Kisten zu heben die erst später aufgefallen sind.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 7, Aufnahme vom 04.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #40
+
+* Titel: `Asterigos - #40 - Jägerdorf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Tiere die zwar vom Fluch getroffen sind, also zu Sternenstaub zerfallen wenn man sie tötet, aber anscheinend dennoch in der Lage sind sich fort zu pflanzen. Und vielleicht auch wesentlich besser mit dem Wahnsinn umgehen können. Das wiederrum bedeutet das es scheinbar eine sich erneuernde Quelle von Sternenstaub in der Nähe von Aphes gibt. Das Problem mit dem König von Anbari könnte also eventuell durch einen Viehtransport und einem kleinen Zuchtregime aufgelöst werden. Vielleicht. Was es aber definitiv heißt ist das es Leute gibt die unabhängig von den Aristoi ein Leben führen können und sich auch nicht ihre Umstände diktieren lassen müssen. Das macht in der Essenz das Jägerdorf aus. Allerdings sind die Margen dünn und nicht jeder kann mit machen. Und ich würde vermuten das wenn zu viele Leute dazu kommen würden, die Probleme schnell größer werden würden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 7, Aufnahme vom 04.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #41
+
+* Titel: `Asterigos - #41 - das Tor der Aigis [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Je länger man sich die Dinge anschaut desto mehr verliert alles irgendwie seine Bedeutung. Es hat wahrscheinlich irgendetwas mit der faszinierenden Fähigkeiten von Menschen zu tun das sie Muster und Wiederholungen in quasi alles erkennen. Je nachdem wie ungenau man sein möchte sind viele Dinge auch irgendwie ähnlich. Das ist wahrscheinlich, vermute ich einmal ohne jede Recherche, ein Überlebensinstinkt. In dem man Situationen in Kategorien und abgespeicherte Muster packt ist man in der Lage viel schneller zu reagieren und kann quasi gespeicherte Programme nutzen. Die gleiche Fähigkeit sorgt aber dafür das die Wunder der Kindheit verschwinden und man Dinge die früher groß und gewaltig gewirkt haben als mundan und langweilig wahrnimmt. Konkret ist das hier das Tour der Aigis. An sich meine auch Hilda und ich mache hier auch mehr eine Annahme. Allerdings kann ich mir nicht vorstellen das sie noch besonders viel Respekt vor irgendwelchen Toren hat, egal wo sie rumstehen. Und so war es vielleicht einst ein großes Ding wenn jemand ein gewaltiges Tor geöffnet hat, heute ist es eher Dienstag. Außerdem frage ich mich übrigens wo die Streitaxt ihre Macht her hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 7, Aufnahme vom 04.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #42
+
+* Titel: `Asterigos - #42 - Schlächter der Geheiligten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Geheiligte lebt noch. Nur für den Fall das es bei dem Titel irgendwelche Verwirrung gibt. Viel mehr handelt es sich um den Vollstrecker der Geheiligten, manchmal gibt es so Titel die man auf verschiedene Arten und Weisen lesen könnte. In diesem Fall handelt es sich halt um den Typen der für die gute Seryne einfach alles tun würde. Das kommt erstaunlich oft vor, ich würde nicht einmal behaupten das es ein Männer oder Frauen Ding ist und einfach behaupten es kann hin und wieder vorkommen das ein Individuum ein Anderes auf ein unerreichbar hohes Podium stellt ohne das die andere Person irgendetwas dagegen tun kann. Dann kommen noch so Dinge wie persönliche Macht oder sogar körperliche Kraft mit in das Verhältnis und von dort an kann sich dann einiges entwickeln. In diesem Fall haben wir anscheinend das Endstadium schon erreicht. Das ist übrigens öfter so ein Ding bei dieser Art von Spielen. Asterigos, so fällt mir grade beim Schreiben dieser Zeilen auf ist da ein wenig ähnlich wie Dark Souls. Das Kampfsystem ist es übrigens nicht. Aber die Welt, nur das die Leute sterben können. Irgendwann wären wohl alle Apheser tot. Aber die Welt selbst ist dennoch in einem fortgeschrittenen Zustand des Verfalls. Gesellschaftlich wie physisch. Im normalen Leben gibt es soviel Flux und Veränderung das man eigentlich nie sieht wie die Dinge laufen wenn man sie bis ganz zu Ende spielt. Aber da hier die Dinge nicht enden sehen wir das Ende einer Beziehung bzw. Verhältnisses wie es erst nach hunderten von Jahren erreicht wird. Das ist ein sich wiederholendes Thema. Dagegen sind erstaunlich viele Leute noch normal.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 7, Aufnahme vom 04.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #43
+
+* Titel: `Asterigos - #43 - kollidierende Philosophie [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube das Spiel versucht irgendeine Art von gesellschaftlicher Nachricht auf zu machen. Ich bin mir nur nicht so sicher was genau es sein soll. Auf der Oberfläche ist es relativ einfach. Wir haben die klassischen Aristoi die durch die Umstände dazu getrieben sind ungewöhnliche Pfade zu beschreiten wie Euminides mit der Nordwindlegion oder Minerva mit der Hilda-Ein-Frau Armee. In der extremen Ecke stehen die anderen Aristoi unter dem Banner von Marble die zu keinen Kompromiss bereit sind und auf der anderen Seite, in einer quasi schrägen Position sind die Leute von Seryne bzw. eigentlich nur sie selber die daran glaubt das die Welt wesentlich besser sein könnte wenn die Aristoi ihre Struktur aufbrechen. Was genau für die Gesellschaft klappt ist unbekannt. Offenbar gab es in der Vergangenheit ein paar Bestrebungen an der Stelle, aber so richtig deutlich ist der Pfad nicht. Wie bei so vielen Dingen. Wenn man das Ergebnis sieht dann scheint die aktuelle bzw. ehemalige Gesellschaft von Aphes irgendwie funktioniert zu haben und hat zu gewissen Höhen geführt ohne das es direkt ein Utopia wurde. Man könnte allerdings argumentieren das der gesamte Reichtum nur auf den Rücken der Sklaven entstand. Oder nicht dauerhaft war, ein System das so oder so dem Kollaps nahe war. Bei vielen großen Konstrukten kann die Saat des Untergangs schon lange blühen und dennoch dauert es einige Zeit bis die Rissen im Mörtel wirklich offenbar werden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 8, Aufnahme vom 11.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

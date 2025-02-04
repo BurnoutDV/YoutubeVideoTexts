@@ -513,7 +513,167 @@ Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```
 
-##### #Nummer
+##### #32
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #32 - Probenlager, unterer Teil [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Schattenbergfried selbst ist eigentlich eine ziemlich kurze und überschaubare Angelegenheit. Wirklich. Man rennt rein, haut dem Nashorn auf dem Kopf, läuft hoch zu Messmer, macht sich einen Tee und dann war es das eigentlich schon. Wirklich, es ist so einfach. Und dann versucht man jeden letzten Schatz im Probenlager zu bergen und man kommt ins Schwitzen. Daher teilen wir die heutige Episode als Teil einer längeren Serien ein. Also dann, Probenlager, unten. Schauen wir doch einmal wie wir weiter hoch kommen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 9, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #33
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #33 - Probenlager, Sprungeskapaden [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man wirklich, ganz sehr wirklich alles sehen will dann läuft es leider darauf hinaus das man im Probenlager eine Menge Tode sterben muss. Oder man ist ein absolutes Genie in solchen Sprunggeschichten und schafft es einfach jedes Mal perfekt zu springen und auch eventuellen Bedrohungen geschickt und mit Voraussicht zu begegnen. Wir besitzen diese Fähigkeiten tatsächlich auch bis zu einem gewissen Grad. Aber zum einen stehen wir uns ja irgendwie im Wege und zum Anderen ist alles was nicht Perfektion ist nicht genug wenn es nur zwei Zustände gibt, tot oder lebendig. Daher springen wir heute ein wenig umher, und natürlich haben wir auch irgendwie ein wenig Spaß dabei.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 9, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #34
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #34 - Messmer der Pfähler [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Als ich damals, quasi vor ewiger Zeit, im Schattenbollwerk war hat sich meine Reise ziemlich hingezogen, aber Messmer den alten Pfähler habe ich auch schnell gefunden. Nur hatte ich es nicht sofort mit ihm aufgenommen. Das lag auch daran das ich dachte das es hinter ihm weiter geht und deswegen nicht zu früh schon den offensichtlichen Weg gehen wollte. Es stellt sich heraus das sein Thronraum nicht der Fortschritt ist den ich damals suchte. Ich frage mich übrigens wirklich warum wir so viele Boss Gegner einfach in ihren Haupträumen sitzen finden. Klar, als große, persönlich kampfstarke Anführer hätte es wenig Sinn für ihn zu fliehen oder sich hinter einem Champion zu verstecken. Aber man würde doch eigentlich erwarten das er vielleicht einen anderen Schauplatz für sein Gefecht nutzen würde. Muss er irgendjemanden etwas beweisen? Warum uns nicht zusammen mit den anderen Feuerrittern angreifen. Warum nicht ein wenig taktisch vorgehen? Stattdessen versucht er sich uns im fairen Kampf zu stellen nur um dann auf die Urschlange zurückzugreifen..etwas das letztendlich dann doch nicht funktioniert. Generell verstehe ich übrigens die Geschichte von Messmer auch nur so halb. Er wurde von Marika entsandt um die Hornherolden aufzuhalten bzw. zu vernichten. Dann ist der Elden Ring zersplittert und das ging dann nicht mehr weiter. Aber warum eigentlich? Wie kam es zu der Entscheidung das mann dann einfach auf ewig rumsitzen wollte?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 9, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #35
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #35 - Ruine von Unte [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht jeder Elden Ring Ausflug ist gleich. Ich weiß das dieses Projekt quasi nicht geschaut wird bei mir, und ich muss sagen ich habe selbst auch kaum Elden Ring Let's Plays geschaut. Also eigentlich genau null, aber außer Dark Souls 1 ist das wohl für alle Teile war. Das Spiel ist einfach zu lang. Aber wenn ich schauen würde dann würde ich wohl auch ein Coop Run mir anschauen, einfach nur um zu sehen ob sechs Augen in der Lage sind wirklich alle Geheimnisse zu finden. Diese Episode hat tatsächlich noch einen Eintrag in meinem Notizbuch weil ich ein Short darüber machen wollte wie sie an der Treppe vorbei gelaufen sind die ich selbst übersah. Aber dann kam Zeit die ich nicht hatte dazu und jetzt stehen wir hier, die Episode schon lange veröffentlicht und ich der darüber redet. Aber hey, die Ruinen von Unte klingen übrigens dramatischer als sie es dann Ende sind, der eigentlich Ort ist doch recht dunkel und Überschaubar.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 9, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #36
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #36 - Klausnerfluss und Fliegendorf [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Klausnerfluss ist anscheinend eher nach dem Konzept der Klausur benannt. Ein Ort an dem man sich zurückzieht. Ein Platz an dem man sicher vor dein Einflüssen der Außenwelt ist, und wenn man sich anschaut wie zerklüftet eigentlich alles ist, dann bin ich durchaus geneigt dieser Einschätzung zuzustimmen. Das haben sich übrigens auch die lokalen Fliegenstämme gedacht. Es ist mir übrigens immer noch unklar was genau die eigentlich darstellen sollen. In Dark Souls 3 gab es die in der gemalten Welt quasi baugleich auch schon und ich weiß wirklich nicht was ich hier sehe. Weder in DS3 noch in ER wird so richtig erklärt was das jetzt für Viecher sind, wo sie herkommen und ob sie irgendeine Gesellschaft haben. Sie sie die Folge von dem was vorher war, sind sie parasitär zur normalen Gesellschaft der Hornherolden? Sind sie das was übrig bleibt wenn man diese auseinander nimmt? War es eine Sklavenrasse die sich los gerissen hat? Soviele Fragen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 9, Aufnahme vom 31.10.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #37
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #37 - Dunkellichtkatakomben [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man den ganzen weiten Weg durch das Schattenbollwerk nimmt, dann den Klausnerfluss hinunterläuft, vorbei an den Fliegen und seltsamen Geräuschen, dann landet man irgendwann an den Pfoten der Dunkellichtkatakomben. Ich nehme übrigens mal nicht an das sich der Name darauf bezieht das es sich um einen sehr dunklen Ort bezieht weil auch all die anderen Katakomben die wir in letzter Zeit betreten haben dunkel, kalt und tot waren. Allerdings haben wir auch unlängst ein Dunkelllichtschwert erhalten insofern könnte vielleicht das Dunkellicht wirklich ein eigenstehender Begriff sein der irgendetwas aussagt. Finden tun wir das gewöhnliche mehr-stöckige Zeug und ein wenig Verwirrung. Wie schön
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 10, Aufnahme vom 03.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #38
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #38 - Abgrundwald [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach dem Dunkeln kommt der Wald des Abgrundes. Ich bin mir übrigens ein wenig unsicher ob man wirklich noch so von einem Abgrund sprechen kann wenn da unten etwas ist. Vom reinen Gefühl impliziert das Wort das ganz unten weder Licht noch irgendetwas ist das weiter erwähnt werden muss. Bei den enormen Höhenunterschieden die wir immer wieder in den Zwischenlanden findet muss man sich natürlich schon fragen wie das Ganze überhaupt zusammen passt und von oben aus gesehen ist es selbstverständlich ein Abgrund. Wenn man dies als Grundannahme nimmt muss man wohl damit rechnen das der Wald von jemanden weiter oben benannt wurde, höchstwahrscheinlich die Hornherolde. Um sie sich in der Höhe ihrer Macht gefragt haben was sich dort unten befindet? Oder haben sie nur die Bäume gesehen und einen Namen vergeben?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 10, Aufnahme vom 03.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #39
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #39 - Wahnsinnshorror [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Wahnsinn ist ein schwaches und doch enorm starkes Konzept. Das die gesamte Kraft jetzt mit Feuer verbunden wird unterscheidet sie von dem was man früher in Bloodborne sehen konnte. Ansonsten ist der Effekt aber irgendwie ähnlich. Der reine Anblick der unbeschreibbaren Grauen reicht aus um Stück für Stück auseinander zu fallen. Leider sind die meisten unserer Gegner aus einem anderen Holz geschnitzt oder haben schon lange den letzten Tropfen Menschlichkeit hinter sich gelassen und sind daher nicht so beeinflussbar wie wir. Schade eigentlich. All die tollen Wahnsinnszaubersprüche die wir haben funktionieren daher nur so mittel. Auf der anderen Seite sind wir immer noch, trotz Spuren der drei Finger, immer noch sehr anfällig für den Wahnsinn. Einen Umstand den wir heute erneut bemerken.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 10, Aufnahme vom 03.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #40
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #40 - Midras Pfarrhaus [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erfahren im Laufe der andauernden Expedition ein wenig etwas von dem was Midras einst für eine Person war. Von allem was wir so sehen konnten war es wohl nicht sein Plan zu dem zu werden was er am Ende wurde. Aber letztendlich ist er in einer grausamen Welt an die falschen Leute geraten und wurde dann so viel manipuliert wie es nur geht. Dann kam das Feuer und die Reste die wir finden sind praktisch nur der ausgebrannte Körper von dem was einst etwas Größeres darstellte. Inwiefern hier gepredigt wurde oder welche Bedeutung das Gebäude am Grund des Abgrundes hatte vermag heute niemand mehr zu sagen und ich bezweifle das wir noch viele Aufzeichnungen finden. Wahnsinn neigt nicht dazu genau Buch zu führen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 10, Aufnahme vom 03.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #41
+
+* Titel: `Elden Ring Coop: Shadow of the Erdtree - #41 - Rätsel und Wölfe [Let's Play; deutsch]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind nicht genau dort zurück wo wir beim letzten Mal waren. Aber unsere Expedition in den Abgrundwald und Midras freundlicher Ruhestätte war wesentlich kürzer als es meine eigenen, private Expedition gewesen ist. Es sei den wir haben etwas Großes übersehen. Das kann ja immer sein, aber dafür haben wir ja eigentlich einen Jan mit genommen, jemand der eigentlich sehr gut darin ist versteckte Ecken zu finden. Und er hat nichts gefunden. Daher suchen wir woanders weiter um mehr Geheimnisse auf zu klären. Als Ansatz haben wir noch ein Gemälderätsel dem wir noch nachgehen wollen, und das tun wir dann heute. Außerdem gibt es hier und dort noch ein paar Wölfe. Und die große Kanone die ich genau einmal einsetze.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Elden Ring manchmal am Dark Souls Dienstag
+  Tagung 10, Aufnahme vom 03.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPoziBX3Z04xcc519fb9MRW
+  Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
+  ```
+
+##### #42
 
 * Titel: ``
 
@@ -522,3 +682,54 @@ Elden Ring Seamless Coop Mod: https://www.nexusmods.com/eldenring/mods/510
   ```markdown
   Hier
   ```
+
+##### #43
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #44
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #45
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #46
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #47
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+

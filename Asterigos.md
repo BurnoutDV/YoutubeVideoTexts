@@ -646,34 +646,49 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
-##### #Nummer
+##### #44
 
-* Titel: ``
+* Titel: `Asterigos - #44 - Schillernde Tiefen [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  In den Tiefen lauert eigentlich immer irgendetwas. Kann man sich quasi darauf verlassen. Die gleiche Annahme trifft sich eigentlich ohne Probleme für verlassene Ruinen alter Burgen und deren Kellergebäude. Auch eventuell nicht mehr bewohnte Villen, Dörfer und quasi alles das irgendeine Art von Struktur oder Unterschlupf bietet hat irgendetwas drin. Man kann hier bestimmt einen gemeinsamen Nenner sehen aber da wir es größtenteils mit von Menschen bewohnten Welten zu tun haben möchte ich einfach behaupten das menschliche Zivilisationen Angst machen und allerlei große Bestien sich lieber verstecken als ihr Glück im Kampf suchen. Zumindest so lange bis junge Nordwind Kriegerinnen namens Hilda mit ihrer praktischen Multiwaffe in eben jene verstecke Vordringen und auf Sightseeing gehen. Jetzt können wir uns zum einen interessante Höhlen anschauen, und zum Anderen unseren Weg mühsam durchkämpfen. Ob ich doch eine robustere Skillung hätte wählen sollen?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 8, Aufnahme vom 11.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
-##### #Nummer
+##### #45
 
-* Titel: ``
+* Titel: `Asterigos - #45 - Untergrundsee [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  In der letzten Episode habe ich behaupten das sich Bestien in den hintersten Winkeln der Welt verstecken weil Menschen grausam sind. Zum richtigen Verstecken braucht man aber auch Unterschlüpfe die zumindest etwas zu bieten haben. Zum Beispiel Wasser. Daher sollte es absolut niemand überraschend das wir heute einen unterirdischen See vorfinden. Irgendwo muss es übrigens auch einen Abfluss geben, irgendeinen Untergrundfluss der wahrscheinlich eher kein Wasser hat, aber wenn man seine kompakte Tauchausrüstung zur Hand nimmt und sich auf den Weg macht könnte man vielleicht auch anders hier in die Tiefen kommen. Wahrscheinlich ist die andere Seite aber irgendein Wasserfall an einer Bergflanke der eher nicht zu erreichen ist..oder der Untergrundfluss ist mehre hundert Kilometer lang. Relativ zu Aphes sind wir relativ tief. Aber wer weiß, vielleicht gibt es irgendwo eine direkte Schwimmlinie von Anbari nach Aphes.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 8, Aufnahme vom 11.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
-##### #Nummer
+##### #46
 
-* Titel: ``
+* Titel: `Asterigos - #46 - Kristallbestien [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Die Kristallisierung ist offenbar kein Prozess der natürlich vorkommt sondern das Ergebnis von was auch immer ganz in der Tief auf uns wartet. Etwas das die Kontrolle über alle intelligenten Wesen übernimmt und sie irgendwie verändert. Die Form des reinen Kristalles ist vielleicht die Endstufe dieser Verwandlung. Es könnte auch sein das es danach noch mehr gibt oder sich sogar ganz andere Sorten von Wesen entwickeln. Letztendlich kann uns das aber zum Glück egal sein solange die entsprechenden Wesen mit ausreichend großzügig applizierter Gewalt umkippen und wir nicht panisch wie ein kleines Mädchen vor unsterblichen Dingen weg laufen müssen. Die Szenen in Spielen hasse ich immer. Wenn man durch die eigene Spielweise eigentlich so über ist das man auch übermächtige Gegner eigentlich vaporisieren könnte aber wegen irgendetwas Storybullshit ein Verfolger einfach nicht ablassen kann und egal was man tut nichts passiert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 8, Aufnahme vom 11.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
 ##### #Nummer

@@ -691,6 +691,51 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
+##### #47
+
+* Titel: `Asterigos - #47 - Astrale Tiefen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ein recht populäres Meme das über die russische Geschichte geht, der Wortlaut ist grob "und dann wurde es schlimmer." Oder auch: "Wenn du dachtest das sie am Boden waren, möchte ich das Augenmerk auf das Grabwerkzeug lenken das sie mit gebracht hatten." Warum erzähle ich das? Weil es heute schon wieder tiefer geht. Wir dachten ja wir sind eigentlich schon wesentlich tiefer als es gehen sollte aber dem ist offensichtlich nicht so. Ich habe übrigens keine Ahnung von Bergwerken und wie das alles mit den Erd-, Sediment- und Felsschichten funktioniert. Soweit ich das verstanden habe kann man durchaus unter Wasserkörper durchtunneln und wenn man dann wie in Minecraft den Fluss von unten angräbt ist das tendenziell schlecht. Das geschieht gelegentlich in einigen Ländern wenn ihre U-Bahn erweitert wird. Das ist dann immer ärgerlich. Zum Glück sind alle Tunnel schon da und wir müssen selber nicht buddeln. Dafür können wir uns umso darüber wundern wie tief das hier eigentlich geht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 8, Aufnahme vom 11.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #48
+
+* Titel: `Asterigos - #48 - Vaterbegegnung  [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Verhältnis von Kindern mit ihren Eltern ist oft so eine Sache. Insbesondere wenn man in unsicheren Zeiten aufwächst. Ganz persönlich gesprochen bin ich in einer relativ stabilen und gleichzeitig interessanten Zeit aufgewachsen. So als Wendekind. Das hat das Verhältnis zu meinem Vater aber nicht beschädigt. Das waren andere Faktoren. Auch mal was Neues. Aber vielleicht hat es dazu beigetragen. Was weiß ich schon. Wie genau es Hilda ergangen ist wissen wir auch noch nicht so richtig, allerdings scheint Harold nicht sehr darüber erfreut zu sein das seine Tochter quasi direkt unter seinem Kommando steht. Das belastet gewiss als Vater, ich hätte wahrscheinlich auch Schwierigkeiten wenn meine Tochter in der gleichen Firma arbeiten würde wie ich, geschweige den wenn sie mit mir im Militär dienen würde. Da könnte man schon ein wenig streng werden weil man das Beste für den Nachwuchs will..ohne das der das unbedingt so interpretiert.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 9, Aufnahme vom 13.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #49
+
+* Titel: `Asterigos - #49 - Aussichtspunkt am Riss [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Erstaunlich oft falle in Spielen über Aussichtspunkte die am Riss, dem Abyss unter irgendwelchen anderen Grenzen liegen. Auf die Spitze getrieben hat das übrigens Alan Wake 2, bzw. eigentlich auch schon Control und im geringeren Umfang Alan Wake 1. Da ist das Konzept des Übergangs ein wichtiges Element. Aber genug davon und zurück zu Hilda. Der Riss hier ist übrigens völlig physisch. Nur eine Kante die wir mit einem stabilen Kletterseil überqueren könnten. Oder wir suchen uns weiter irgendeinen Weg der uns bis nach ganz unten führt. Erstaunlich ist aber auch das auch schon andere Leute hier waren und relativ lange Untersuchungen angestellt hatten. Und das ohne Wahnsinnig zu werden. Das ist aber wohl ein Rätsel für einen anderen Tag.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 9, Aufnahme vom 13.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
 ##### #Nummer
 
 * Titel: ``

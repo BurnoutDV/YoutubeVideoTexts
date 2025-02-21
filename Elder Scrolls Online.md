@@ -12917,14 +12917,21 @@
   Hier
   ```
 
-##### #Nummer
+##### #2038##115
 
-* Titel: ``
+* Titel: `Let's Play ESO #2038 ##115 - das große Vergessen [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 115 des Gold Road DLCs - Sitzung 20
+  
+  Eigentlich hatte ich diese Episode erst mit dem schönen griffigen Titel "Feier der Verbündeten" betitelt. Aber dann habe ich eine mehr als eine Stunde lange Geschichte daraus gemacht weil ich eigentlich nicht mehr anfangen wollte das Ende in Teile zu teilen. Eventuell hätte man, mit dem Wissen was genau kommt. Vielleicht den ein oder anderen Cut noch setzten können, aber aus "dramaturgischer" Sicht sehe ich da auch keinen Sinn mehr darin. Prinzipiell rede ich halt noch einmal mit den ganzen NPCs die wir auf unseren Reisen getroffen haben und ich sage noch schnell ein wenig etwas dazu wenn mir etwas einfällt. Allerdings finde ich es ein wenig befremdlich das quasi die Hälfte der Leute fehlen. Dafür sind jetzt Zivilisaten bzw. einfach unbenannte NPCs da. Ich bin mir nicht ganz sicher ob das die Questgeber sind die eigentlich da sein hätten müssen und die nur da sind damit es nicht so leer aussieht. Das wäre natürlich schade. Ich hatte mir ja eigentlich Mühe gegeben jede einzelne Nebenmission abzuschließen grade damit ich am Ende ein großes Hurrah habe. Das alles ist aber dann doch gar nicht mehr so wichtig weil am Ende eh alle vergessen was war. Das Vergessen wird übrigens ein wenig komisch umgesetzt. Ich fände es wesentlich besser und irgendwie auch absoluter wenn es ohne Lücken auskommen würde. Nicht so stumpf und dumm das alle darüber reden das sie etwas vergessen haben sondern einfach gar nichts mehr wissen. Insbesondere weil es sich eher um einen permanenten Zauber zu handeln scheint. Die Leute zweifeln am Ende ja direkt an was wir sagen, so als würde jemand aktiv die Worte im Sinn zerstreuen. Wenn es einfach nur vergessen wäre müsste man die Leute doch eigentlich daran erinnern können oder? Insbesondere Leute die Wissen horten oder sich mit Daedra auseinander setzen sollten bei der Erwähnung einer bisher unbekannten Fürstin aufhorchen. Stattdessen handeln sie so als würde jemand aktiv eingreifen und schnell die Leute verwirren. Hermeus Mora meint er sei Ur-Daedra, aber eigentlich dürfte auch er diese Fähigkeit nicht besitzen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 11.02.2025 - #2038 - ##115
   ```
 
 ##### ###TEMPLATE

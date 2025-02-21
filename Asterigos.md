@@ -736,6 +736,248 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
+##### #50
+
+* Titel: `Asterigos - #50 - Avatar des Titanen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mal davon abgesehen das H.P. Lovecraft selbst ein ziemlich fragwürdig wenn nicht sogar verabscheungswürdiger Mensch war ist das grundlegende Konzept das er rüberbringt mit dieser Angst vor dem Unbekannten und einer gewaltigen Präsenz ein interessantes Konzept. Im Falle von Lovecraft war das wohl krasser Rassismus und mit Monstern meint er eigentlich Leute anderer Hautfarbe, aber die grundlegende Message kann man literarisch erst einmal mit nehmen. Wenn man als Gegenmacht etwas hat das einen selbst nicht einmal als Feind identifiziert wird es schnell lächerlich. Die Gegenseite ist so gewaltig und allumfassend das man sie nicht einmal erfassen kann und das was man eigentlich vor sich hat ist nicht viel mehr als die physische Repräsentation einer wesentlich größeren Wesenheit. Quasi der Blickwinkel eines Fisches der durch die Oberfläche des Sees Finger durchbrechen sieht, ohne zu wissen das das Wesen zu dem die Finger gehören so viel größer sind. Der Titan ist ein wenig so. Irgendetwas mit den Kristallen scheint nicht zu stimmen, aber was genau ist vollkommen offen und das was wir heute bekämpfen ist quasi nicht mehr als der Schatten der Bedrohung. Aber immerhin können wir hier Zeit kaufen, und das ist alles was wir brauchen. Weil Zeit bedeutet in diesem Fall hunderte von Jahren, und wir brauchen nicht einmal eines. Welch glücklicher Zufall aber auch.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 9, Aufnahme vom 13.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #51
+
+* Titel: `Asterigos - #51 - Abschirmungsversuch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hauptproblem an unüberwindbaren Gegnern ist das die normalen Ansätze einfach ineffizient sind. Das ist so als würde man versuchen einen Panzer mit Bronzedolchen aufzuhalten. Einem Umstand den diverse Protestierende der vergangenen Jahre mit Schrecken feststellen mussten. Insbesondere die Studenten auf dem Tianmen Platz die zuerst von ländlichen Teilen der Armee erschossen wurden und dann von Panzern zulange zermatsch wurden bis sie in die Kanalisation gespült wurden. Da aber glücklicherweise nicht die chinesische Regierung unser Feind ist sondern "nur" ein uralter Titan der wahrscheinlich das gesammelte Bewusstsein einer gesamten Zivilisation darstellt (Wissen aus der Zukunft) ist unsere Aufgabe also sehr einfach. Wir stellen einfach die mittlerweile sehr alten Abschirmungssteine wieder her die zum Glück noch nicht zerstört wurden und dämmen damit die Bedrohung einfach und effizient ein. Und es braucht nur so grob zehn Versuche.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 9, Aufnahme vom 13.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #52
+
+* Titel: `Asterigos - #52 - vergessene Dinge [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Da ist sie wieder. Die Strandepisode im Let's Play. Nur das wir nicht wirklich an den Strand gehen und stattdessen wild umherrennen weil wieder einmal auffällt das wir schon viel weiter sein müssten und uns aber noch etwas fehlt. Also heißt es backtracken und all die Ecken die wir schon gesehen haben noch einmal zu durchstöbern um dann hoffentlich die Missionen alle zu erfüllen so das am Ende weniger Leute sterben. In meinem vergessenen Witcher 3 Let's Play gibt es eine Episode namens "Verbleibende Spuren" die ich so genannt habe weil ich auf der Suche nach übrigen Monstern war. Stellt sich heraus das es eine Quest gleichen Namens gibt die wohl nicht so ganz klar war. Mehre Leute verfluchen mich dafür das ich ja ein völlig irreführenden Titel genutzt habe. Ich kann ja auch nichts dafür das Sprache Einschränkungen unterliegt und es nicht unendlich viele Worte gibt. Wie dem aber auch sei, daran muss ich jedes Mal denken wenn ich eine solche Fillerepisode mache in der ich eigentlich nur das Spiel zu Ende spiele und die eigentlich sehr gegen meinem Credo geht für die Story dazu sein. Natürlich gibt es hier noch Geschichte zu erzählen, aber es ist halt soviel weniger Geschichte als sonst immer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 9, Aufnahme vom 13.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #53
+
+* Titel: `Asterigos - #53 - Tertius-Boulevard [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und Themenwechsel. Nachdem wir eben noch in irgendwelchen Tiefen abgehangen haben sind wir jetzt wieder an der Oberfläche. Das ist auch ganz gut so, auch wenn die schillernden Tiefen nicht unbedingt klaustrophobisch waren, irgendwann sind die Grenzen des guten Geschmacks erreicht und man kann nicht ewig durch irgendwelche "engen" Gängen und dunklen Nischen kriechen und von irgendwelchen Viechern aus den Schatten überrascht werden.
+  
+  Also lassen wir uns jetzt von Leute im strahlenden Sonnenschein überraschen. Leute die mit Bögen auf uns schießen und das Beste der Beste darstellen von dem was die Armee von Aphes noch zu bieten hat. Die ganze Prämisse das die Armee mehr als tausend Jahre lang durchgehalten hat und nicht etwa nach wenigen Jahrzehnten völlig zerbrochen ist spricht ein wenig dafür das Asterigos auch irgendwie dafür gesorgt hat das die Menschen besser mental mit der Ewigkeit klar kommen. Oder geistig statischer werden und weniger flexibel auf die veränderten Umstände reagieren. Quasi in alten Mustern verbleiben ohne aktiv ihre aktuelle Stellung in der Welt anzuzweifeln.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 9, Aufnahme vom 13.12.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #54
+
+* Titel: `Asterigos - #54 - Lorbeer-Anwesen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie finde ich es ein wenig irritierend wie die ganzen Adelshäuser in Aphes einfach nur heißen wie normale Sachen. Aber das liegt auch vielleicht ein wenig daran das man es im Deutschen gewohnt ist das die Dinge entweder etwas auf Französisch heißen oder irgendein uraltes Wort sind das schon lange ihre Bedeutung verloren hat. Ich hab ja oberflächlich mal ein wenig Japanisch gelernt und merke jetzt so langsam wie viele Namen in Animes einfach auch nur Bezeichnungen sind. Yamaguchi heißt auch nur Bergmund, Also Yama=Berg, Kuchi=Mund und das K wird halt weicher. Heißt übrigens in diesem Fall nicht das es wirklich das heißt. Ziemlich viele Dinge werden gleich ausgesprochen, da kommt es dann auf das verwendete Kanji an. In anderen Sprachen ist es nicht ganz so schlimm. Wir wissen mittlerweile das die Anbari irgendwie mit den Aphesern zusammenhängen. Ich persönlich glaube ja immer noch das Hilda eine direkte Nachfahrin von Meteor, dem Bruder von Minerva ist. Aber das könnte auch einfach nicht stimmen. Da wir die Geschichte aber durch Hilda erleben kennt sie natürlich die Worte, und daher heißen die Häuser jetzt wie sie heißen. Daher betreten wir heute Haus Lorbeer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 24.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #55
+
+* Titel: `Asterigos - #55 - Cloaca Kavalla [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mit einer guten Kanalisation steht und fällt die öffentliche Gesundheit, damit eine Stadt und damit wohl auch ein wenig die Zivilsation. Das alles ist nicht so einfach. Klar kommt man damit weg das die Leute alle in Eimer scheißen und man das Zeig dann morgens aus dem Fenster gibt und der Regen wird das dann schon irgendwie weg waschen. Auch gut wenn man noch einen Fluß hinter der Haustür hat, da kann man das dann auch direkt entsorgen. Und bis zu einer bestimmten Bevölkerungsgröße kann das auch alles ganz gut klappen. Vielleicht bringt das sogar Vorteil für die Pflanzen am Fluß mit sich. Aber irgendwann ist es doch ein wenig viel und nicht nur die Geruchsbelastung ist gewaltig. Schritt 1 ist dann wohl es aus den Köpfen der Leute zu kriegen weiterhin all ihren Müll auf die Straße zu werfen. Schritt 2 ist es dann auch tatsächlich ein gutes und solides Abwassersystem zu erschaffen und wichtiger noch, auch tatsächlich zu warten. Es wird Probleme geben und diese stauen sich schnell auf, wortwörtlich. Das muss man dauerhaft im Blick haben. Technische Regression kann hier richtig tödlich sein. Die Einwohner von Aphes verrichten schon länger keine Geschäfte mehr, aber die Kanalisation wird anscheinend trotzdem irgendwie noch gewartet. Das bedeutet dann wohl das man hier einen recht sauberen Ort hat der zwar recht feucht ist aber nicht besonders sehr stinken sollte. Nicht ideal, aber schon ganz okay. Und deswegen schauen wir da heute einmal vorbei.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 24.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #56
+
+* Titel: `Asterigos - #56 - Ethrus Befall [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hätte diese Episode gerne "Ethrus Infestation" genannt weil das für meine Ohren irgendwie dramatischer klingt. Jetzt mache ich aber deutsche Let's Plays und ich kann mir nicht so richtig vorstellen das ich da mehr Erfolg hätte. Mit dem lustigen Akzent den ich immer vorbringe wenn ich versuche Angelsächsisch zu sprechen. Wie dem aber auch sei, ich habe also den tollen englischen Namen den ich im Sinne hatte übersetzt und jetzt sind wir halt hier. Beim Ethrus Befall. Gemeint ist übrigens das sich die Bande wirklich eiskalt eingenistet hat, mitten in der Kanalisation. Die ist zwar nicht mehr wirklich von Müll und Dreck befallen aber dennoch kein schöner Ort zum Leben und mir ist nicht so recht klar warum man genau dort wohnen möchte. Weil genau das tun die Kultisten. Offensichtlich gibt es hier eine gewisse Überschneidung mit Aristoi die einer gewissen politischen Linie folgen, aber es ist halt auch immer noch so das man nicht direkt eine Armee parken muss. Das erzeugt auch logistische Herausforderungen. Soweit ich das gesehen habe gibt es im Basar noch einige Leerstände die man stattdessen hätte nutzen können. Wir säubern heute ein wenig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 24.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #57
+
+* Titel: `Asterigos - #57 - Frostschwinges Lager [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Ethrus überhaupt in der Lage war sich in der Kanalisation unter dem Viertel der Reichen nieder zu lassen hat maßgeblich damit zu tun das es ein paar Insider gegeben hat die zugelassen haben das die Dinge so laufen wie sie laufen. Und deswegen sind wir jetzt hier im Kern des Problems. Anscheinend gibt es eine geheimnisvolle Kollaborateurin namens Frostschwinge die großen Einfluss im Lager der Aristoi hat und in der Lage war einige Wachen der Armee dazu zu bringen in die andere Richtung zu schauen. Außer das es sich um eine Frau handelt wissen wir nicht viel von ihr, nur das es sich wahrscheinlich am Ende um eine Harpyie handeln wird sobald wir sie in die Ecke treiben und es zum unvermeidlichen Bosskampf kommt. Noch ist es aber nicht so weit und wir finden nur die Schläger auf. Aber das ist auch schon einmal ein guter Anfang. Solange nicht das gesamte Militär unterwandert ist kann es durchaus Erfolg haben die fauligen Wurzeln heraus zu reißen. Oder wie auch immer man das euphemistisch ausdrücken will das wir die Verräter zur Strecke bringen weil Hilda einfach so stark ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 24.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #58
+
+* Titel: `Asterigos - #58 - Prüfung der Vergebung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unser ganzer Ausflug in die Kanalisation war eigentlich nur dazu da um zu einer Prüfung zu kommen bei der Minerva irgendwie ihre Unschuld beweisen kann und wir dann irgendwie besser dastehen. Was genau das alles bringen soll ist mir übrigens immer noch nicht klar weil es allem Anschein nach so aussieht als könnten wir auch einfach alles mit brutaler Gewalt erreichen ohne das wir uns die Mühe machen müssen irgendwelche reichen Säcke zu überzeugen die schon seit vielen Jahren viel zu reich sind und in all der Zeit scheinbar keinen Moment der Reflektion gefunden haben. Wie dem aber auch sei, die Prüfung ist wohl ein antikes aphesisches Kulturgut und deswegen kann Marble sie trotz Kriegsrecht nicht verhindern. Das wir uns trotzdem mit irgendwelchen technisch legalen Winkelzügen herumschlagen müssen ist eigentlich von vornherein klar. Auch interessant ist es Minerva im Kampf zu sehen die als Frau in Aphes eigentlich von jeden Konflikt fern gehalten wurde. Kämpfe sind schließlich klar Männersache.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 24.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #59
+
+* Titel: `Asterigos - #59 - Party der Verwandler [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die ganze Geschichte mit Frostschwinge hat noch nicht direkt ein Ende gefunden. Oder irgendwie doch, weil uns wird relativ unzeronominell mitgeteilt das Bion in der Lage war die Verräterin zu fassen und sie leider im Kampf gefallen ist. Das ist irgendwie enttäuschend und auch ein wenig sehr seltsam. Die ganze Zeit die wir durch die Kanalisation gekrochen sind wurde uns diese Gegenspielerin angekündigt und ihre Qualitäten und Fähigkeiten namentlich erwähnt. Nur um dann, jetzt das wir da sind und Zeit für sie hätten ein kleiner Nebensatz diesen Strang der Geschichte einfach schließen. Aber in einem größeren Bild gesehen ist es noch nicht vorbei. Die Aristoi werden immer noch von den Lehren Ethrus unterwandert und eine dieser Operationen scheint direkt an einem Ort statt zu finden den ich schon lange betreten wollte. Die Hinterkammer der großen Bühne. Also springen wir heute dorthin und schauen uns an was es damit auf sich hat.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 10, Aufnahme vom 24.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #60
+
+* Titel: `Asterigos - #60 - Löwe in Zuflucht [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben den Löwen Sternenlicht vor einiger Zeit kennen gelernt bzw. eigentlich getroffen. Besonders in Erinnerung ist seine Fähigkeit geblieben das Spiel zu einem Zustand zu bringen von dem es nicht mehr weiter geht. Das ist ein wenig ärgerlich und hat uns sogar ein wenig Zeit gekostet. Insgesamt aber nicht unendlich dramatisch und jetzt ist das Vieh zurück. Ich tue mich übrigens ein wenig schwer das große Kätzchen zu verstehen. So wie es aussieht können wir Dinge bei ihm abgeben und das mache ich dann auch. In meiner flapsigen nicht besonders aufmerksamen Art und Weise habe ich aber nicht viel weiter darauf geachtet was man noch alles eintauschen kann. Ich habe dann später gelesen das man anscheinend Dinge im Glücksspiel aufgeben kann und es gibt wohl eine gewisse Chance auf eines der seltensten Upgrade Materialien. Soviel Glück haben wir aber natürlich nicht.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 11, Aufnahme vom 29.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #61
+
+* Titel: `Asterigos - #61 - der dunkle Wächter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich werde zu einem späteren Zeitpunkt feststellen das mein Build, wenn man es dann so nennen will eventuell ein wenig stärker ist als das was man noch so hätte spielen können. Eine Schild und Schwert Kombination hätte mir das Leben eventuell ein wenig schwerer gemacht wenn ich nicht an jeder Ecke und Stelle Gegner hätte von der Ferne erschießen können. Der dunkle Wächter ist die unsterbliche Kraft die dafür sorgt das die Gefangenen in Styx nicht ausbrechen. Zum jetzigen Zeitpunkt kennen wir eigentlich noch gar nicht seinen Namen weil der erst später bekannt gegeben wird, aber das ändert wenig für uns wenn wir vor ihm weg rennen. Und ich muss sagen, ich hasse es. In Dead Space gibt es in jedem Teil diese Gegner die einen konstant hinter her rennen und alles was man machen kann ist die Beine abzuschießen. Das hier ist so ähnlich. Unsterbliche bzw. regenerierende Gegner fühlen sich so sehr nach schummeln an. Und es gibt hier nur zwei Möglichkeiten, entweder das Vieh ist wortwörtlich unbesiegbar oder es ist nur durch ein Gimmick zu besiegen. Alles andere führt dazu das Spieler unmögliche Situationen hervorrufen. Ohne Perma Death kann ich aber nicht viel vorschlagen wie man dieses Gefühl eines unüberwindbaren Gegners zum Leben erwecken könnte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 11, Aufnahme vom 29.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #62
+
+* Titel: `Asterigos - #62 - Aganon [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich werde wirklich nicht müde es zu erwähnen. Aber tausend Jahre sind einfach zu lang für alles. Einige Veränderungen, insbesondere gesellschaftlicher Natur außerhalb der großen Stadt brauchen allerdings mehr als hundert Jahre, insofern weiß ich auch nicht so recht was wohl die richtige Menge an Zeit gewesen wäre die zwischen Trinitäten vorliegt. Aber die Tatsache das in Styx für hunderte von Jahren die Gefangenen abgehangen haben und irgendwie das alles geklappt hat erscheint seltsam. Wir haben mittlerweile mit bekommen das hier anscheinend Experimente durch die Physekoi unternommen wurden. Was genau haben diese Leute den ganzen Tag gemacht? Laut den Aufzeichnungen von Marble hat er alle paar Jahrzehnte mit den Leuten gesprochen, aber nicht öfter. Das bedeutet das die Leute in der restlichen Zeit sich selbst überlassen wurden. Wie genau läuft da das tägliche Leben ab? Was genau tut man den ganzen Tag, die Zeit hat ja trotzdem nicht weniger Stunden oder? Experimente brauchen Material, wie kommt es das überhaupt noch irgendetwas steht nach eintausend Jahren. Und wer zur Hölle ist Aganon, wo kommt der auf einmal her und warum hat der seine eigene private Zelle? Das ist doch ein wenig mysteriös oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 11, Aufnahme vom 29.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #63
+
+* Titel: `Asterigos - #63 - Büro des Wärters [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Styx hatte irgendwann einmal einen Wärter. Dann wurde der dunkle Wächter geschaffen und der Mann ist scheinbar arbeitslos geworden. Das ist zumindest die Kurzfassung. Zwischenzeitlich geschah auch noch ein wenig mehr. Zum Beispiel hat Marble mit dem Gefängnis verhandelt um Unliebsame Leute hier abzuladen und generell und überhaupt gab es wohl eine Menge Kommunikation. Allerdings gibt es noch ein paar andere Punkte die fragwürdig sind. So ist Styx selbst anscheinend wie eine Festung von Außen aufgebaut, wenn man erst einmal drin ist kann man anscheinend ziemlich einfach die Stellung halten. Und genau das wurde dann wohl auch gemacht. Es ist nicht so das es einen blutigen Aufstand gab, aber der Archon des Klerus hat wohl irgendwie über die Jahrhunderten seinen Weg verbal in das Herzen des Aufsehers bekommen und von da an war es nur noch eine Frage der Zeit bis er und seine Getreuen vollends die Kontrolle übernommen hatten. Im Büro des ehemaligen Wärters finden wir nur noch sein Tagebuch, aber kaum Spuren von ihm selbst. Nur eine Marke...
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 11, Aufnahme vom 29.01.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #64
+
+* Titel: `Asterigos - #64 - Wiege des Phylakteriums [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kenne das Wort Phylakterium vor Allem im Zusammenhang mit Lichs. Meistens Totenbeschwörer die bereit waren den nächsten Schritt zu gehen. Hier trennt man die Seele vom Körper was es dann ermöglich mit dem Körper zu machen was man möchte. Und anscheinend macht einen das auch unsterblich. Mir ist nicht direkt klar was der große Nachteil des Verfahrens ist. Außer natürlich der offensichtlichen Schwäche das einen die eigenen Seele abhanden kommen kann. Aber dadurch das diese scheinbar drahtlos mit dem Körper verbunden bleibt ist nicht ganz klar wo der Nachteil liegt. Es sei denn natürlich man braucht doch ab und zu Nähe zur eigenen Essenz. Weiter ist es so es in vielen magischen Systemen nicht ganz einfach ist zum Lich zu werden, meistens braucht es eine Menge Menschenopfer und das ist dann moralisch angreifbar und wohl ein wenig verwerflich. Aber sobald ein Lich existiert scheint das ja ein andauernder Zustand zu sein. Es sei den man braucht zusätzliche externe Essenz von anderen Lebewesen, das würde dann aber die Gesamtmaßnahme ein wenig unlogisch erscheinen lassen. Letztendlich hätte man dann ja nur eine Substanzquelle gegen eine andere getauscht. Lichs sind in der Regel ziemlich mächtig, ich weiß also nicht ob es eventuell die Gefahr gibt das man komplett den Körper verlieren und dann als körperloser Geist in der Flasche enden könnte. Das wäre ziemlich ärgerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 03.02.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #65
+
+* Titel: `Asterigos - #65 - Amphisbaena [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jede Episode geht 30 Minuten. Das ist ein wenig länger als mein standard Format von 20 Minuten das sich meiner Meinung nach gut während einer Mahlzeit konsumieren lässt. In Action RPGs wie Asterigos verbringt man aber viel Zeit mit Kämpfe, daher erscheint mir das immer ein guter Kompromiss zwischen unendlich langen Episoden wie früher bei Dark Souls und zu kurzen Folgen in denen nichts passiert. Dennoch bin ich überrascht wie schnell wir eigentlich durch Styx durch sind. Das hier ist die letzte Episode im Kellergewölbe und danach ziehen wir weiter. Gut, diese Folge ist ein wenig über den angepeilten 30 Minuten, aber nicht viel und damit ist dann auch alles abgeschlossen. Der Kampf gegen den dunklen Wächter war wie zu erwarten war nicht besonders spannend, die kleine Arena hat es zwar ein wenig ärgerlicher gemacht, aber nicht so sehr das es zu einer großen Aufgabe wurde. Eigentlich machen wir auch eher Gegner Schwierigkeiten die sich meistens außerhalb meiner Reichweite befinden und die nur kurze Fenster zum Angreifen bieten. Wie zum Beispiel Harpyien. Das war hier nicht der Fall. Wir besiegen also den Boss, gehen ein paar Treppen hoch, finden das Artefakt das wir gesucht haben und das war dann eigentlich auch schon alles.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 03.02.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
 ##### #Nummer
 
 * Titel: ``

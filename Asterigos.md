@@ -978,6 +978,91 @@ Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
   ```
 
+##### #66
+
+* Titel: `Asterigos - #66 - versunkenes Vergessenes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese Episode ist mal wieder nicht richtig bezeichnet. Also doch schon irgendwie. Aber völlig unklar weil ich überhaupt nicht aussage was ich eigentlich tue. Die Kurzfassung wäre aber das ich mich erneut in die versunkenen Ruinen begeben habe und mir dort anschaue was ich noch so alles vergessen habe. Es stellt sich heraus das es sich noch um eine ganze Menge handelt. Das ist das Problem wenn man beim ersten Mal zwar nicht durchrennt aber sich auch nicht ewig lange aufhält und dann verpasst man halt Bestandteile der Map. Zum Beispiel irgendwelche Kisten. Da es aber keine weiteren Outfits mehr freizuschalten gibt habe ich gar nicht das Gefühl das ich soviel verpasst habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 03.02.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #67
+
+* Titel: `Asterigos - #67 - geistiger Beistand [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir heuern heute einen Priester an. Das ist nicht direkt unser Plan gewesen und an sich sucht Hilda auch nicht nach geistigen Beistand, insbesondere weil sie sowieso an den Winden glaubt aber der gute Mann hat sich nun einmal aufgedrängt. Als die Nummer zwei in der religiösen Hackordnung des alten Aphes hat Irineäus durchaus ein wenig Wissen mit zu bringen. Auch nicht vergessen sollte man das die Priester und andere geistliche sehr viel Wissen über die Sterne und Anwendung von Sternit gehortet haben das sie anscheinend nicht ganz so freigiebig heraus gegeben haben. Hier gibt es also durchaus ein Delta das Minerva ganz gut gebrauchen kann. Und so kommt es heute zu Verhandlungen. Ob das auch die üblichen Bewohner der Zuflucht erfreut?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 03.02.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #68
+
+* Titel: `Asterigos - #68 - theologische Stunde [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben jetzt den geistigen Beistand der uns gegen unsere Angststarre hilft und das führt jetzt wiederum dazu das wir uns auch ein paar Lektionen anhören können. Mein persönliches Verhältnis zur Religion ist wegen solcher Dinge übrigens ein wenig schwierig. Die meisten religiösen Strömungen haben durchaus ein paar interessante philosophische Ideen in ihren Lehren drin, nur ist es normalerweise gleichzeitig auch ein wenig durch das ganze restliche Drumherum verseucht. Sich mal in Ruhe hinzusetzen und in tiefer Kontemplation über sich selbst nach zu denken um über die eigene geistige Verfassung im Klaren zu sein ist ja durchaus nichts Schlechtes. Mit jemanden über seine persönlichen Probleme zu sprechen ist ebenfalls keine völlig schlechte Sache. Aber dann ist da halt auch die andere Seite. Harte Glaubensansätze die beispielsweise das Leben von Frauen vollständig diktieren weil sie ihr ach so heiliges Werk wortwörtlich auslegen und die geistige Haltung von vor zweitausend Jahren 1:1 übernehmen wollen. Das ist dann wieder ziemlich traurig. Und macht es halt irgendwie schwierig die wertvollen Teile zu entdecken. Boutique Religionen sind übrigens ein Ding, aber die true believer sind da ziemlich dagegen. Das man die guten Teile einer Religion nimmt und die nervigen Teile einfach auslässt. Wenn man sich natürlich noch irgendwelche göttliche Hilfe erhofft kann ich da durchaus verstehen das die anderen Gläubigen da nicht so mitgehen. Immerhin hat Irineäus nicht wirklich religiösen Eifer, so das wir hier halbwegs frei sprechen können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 03.02.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #69
+
+* Titel: `Asterigos - #69 - Mythen und Legenden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man irgendwann am Anfang richtig aufgepasst hätte dann könnte man sich noch daran erinnern das wir irgendwann in den schillernden Tiefen davon gehört haben das es da eventuell ein wenig mehr über die Ursprünge von Aphes zu erfahren gibt und das es hier historische Aufnahmen über das gibt was einst war. Leider sind die entsprechenden Aufzeichnungen in keinem guten Zustand und die Tatsache das hier seit ein paar Jahrhunderten Zombies aus Kristall herumlaufen hat auch nicht unbedingt für den Gesamtzustand der Lage geholfen. Das Thema ist schon ein wenig länger offen aber bisher war unser Übersetzer leider nicht verfügbar. Dadurch das wir jetzt den religiösen Wissenschaftler rekrutiert haben stehen jetzt unsere Möglichkeiten wesentlich besser und wir können endlich richtig ansetzen. Einzig die Tatsache das wir eine Stehle nie gefunden haben steht jetzt noch im Weg. Hier muss ich dann wohl leider ein wenig Schummeln weil meine Lust alle Ecken noch einmal abzulaufen nachdem ich das schon mehr als zweimal getan habe ist etwas beschränkt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 12, Aufnahme vom 03.02.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #70
+
+* Titel: `Asterigos - #70 - wichtige Informationen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wissen ist Macht und wenn man dann auch noch weiß wo man das Wissen am effektivsten anwenden kann ist es möglich die gesamte Welt zu bewegen. Das setzt natürlich auch ein wenig voraus das die Umgebung stabil genug ist das die Last des Wissens auch in der Lage ist etwas zu bewegen. In Leben oder Tot Situationen bringt Wissen über die politischen Machenschaften des Gegenübers nur sehr bedingt etwas. Da sind es eher praktische Dinge wie die Position von Arterien oder medizinische Vorgeschichte die man haben will. Unabhängig davon ist quasi alles was es zu wissen gibt auch wert zu wissen. Nur manchmal hat man halt Informationen die nicht nützlich erscheinen weil wiederum das Wissen fehlt das den Kontext liefert. Und so geht es auch Hilda. Hier und da finden wir Dokumente, wir finden Informationen, Aufzeichnungen und Niederschriften die initial vielleicht wertlos erscheinen. Aber wer weiß, vielleicht ist diese oder jene Erbschaftsbekundung doch noch für etwas gut sobald wir die richtige Situation finden.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 17-20 Uhr
+  Asterigos, Curse of the Stars am Dark Souls Dienstag
+  Sitzung 13, Aufnahme vom 10.02.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPpCWCCZuRiV-EWugSkeg_u
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

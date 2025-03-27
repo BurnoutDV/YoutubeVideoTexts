@@ -12899,22 +12899,191 @@
 
 ##### #2027##104
 
-* Titel: ``
+* Titel: `Let's Play ESO #2027 ##104 - verdunkeltes Heim [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 104 des Gold Road DLCs - Sitzung 18
+  
+  Ich schreibe diesen Text lange nach dem ich das Spiel durchgespielt habe und schon langsam anfange Details zu vergessen. Aber so richtig glücklich bin ich mit dem Endergebnis nicht. Aber irgendwie war es auch zu erwarten. Die Dinge mussten so geschehen wie sie geschahen und der letztendliche Stand der Dinge war quasi vorher bestimmt. Und an sich könnte man das über das gesamte Leben sagen. Wenn man weit genug heraus geht dann sind eigentlich ziemlich viele Dinge mit einem erwartbaren Anfang und Ende gezeichnet und richtig interessant sind nur die Dinge die dazwischen geschehen sind und wie es dazu kam das das Ende erreicht wurde. Also erfreuen wir uns heute daran das wir sehen wie Ithelia ihren Aufstieg beginnt und wir natürlich nicht in der Lage waren den Prozess aufzuhalten. Das wäre sonst auch irgendwie eine komische Geschichte oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 23.12.2024 - #2027 - ##104
   ```
 
-##### #Nummer
+##### #2028##105
 
-* Titel: ``
+* Titel: `Let's Play ESO #2028 ##105 - Eingesetzter Vollstrecker [Gold Road]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Episode 105 des Gold Road DLCs - Sitzung 18
+  
+  Es gab da mal ein Holzfällerlager das ich mehrfach besucht habe und irgendwie nicht so richtig etwas fand was ich dort tun konnte. Stellt sich doch glatt heraus das ich nur hätte richtig suchen müssen und wenn ich beim ersten Mal schon richtig die Augen geöffnet hätte, dann wäre das alles viel einfach gewesen. Letztendlich ist das Haldain Holzfällerlager kein wichtiger Ort und wir bzw. ich hätte auch sehr gut damit leben können wenn das alles auf ewig ein Mysterium geblieben wäre und ich nie erfahren hätte was hier eigentlich passiert ist oder warum es das Lager überhaupt gibt. Aber dann hat mich doch ein wenig der Ehrgeiz gepackt und ich forschte der Sache nach bevor ich die Hauptquest anfange und dann wahrscheinlich kurz danach dem Allem ein Ende setzten werde.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 23.12.2024 - #2028 - ##105
+  ```
+
+##### #2029##106
+
+* Titel: `Let's Play ESO #2029 ##106 - die unbereiste Straße [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 106 des Gold Road DLCs - Sitzung 19
+  
+  Und jetzt machen wir uns auf den letzten Weg zu gehen und das Ende von Ithelia zu sehen. Es gibt eigentlich kein anderes Ergebnis. Ich werde nicht so tun und behaupten das ich mir vorstellen könnte das irgendwie eine neue Daedra die Welt bewandern wird und dann auf einmal in TES6 vorkommen wird. Also muss es alles irgendwie zyklisch sein. Die unbereiste Straße wird uns also wohl auf einen Weg führen der vielleicht noch nicht betreten wurde aber auch nur einmal gegangen wird. Schon deswegen weil es zu einem Ende führen wird das wohl sehr abschließend ist. Immerhin finde ich es schön das die ganze Geschichte mit Ferngrab hier noch einmal aufgegriffen wird. Allerdings kann ich mir nicht so richtig vorstellen wie das eigentlich mit den Körper der Daedrafürsten funktioniert.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.12.2024 - #2029 - ##106
+  ```
+
+##### #2030##107
+
+* Titel: `Let's Play ESO #2030 ##107 - staubiges Spiegelmoor [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 107 des Gold Road DLCs - Sitzung 19
+  
+  Es ist ein wenig faszinierend das das ferne Ferngrab auf einmal wieder Leben hat. Ich habe ehrlich gesagt nicht kommen gesehen das es hier einen Zusammenhang mit Ithelia gibt und ich habe auch nie so richtig darüber nachgedacht. Auf der einen Seite finde ich es interessant das es so "schnell" eine Besitzerin für die Welt gefunden wird. Andererseits ist es aber auch schade das hier so einfach das Mysterium gelöst wird das man auch einfach so hätte offen lassen können. Fraglich ist jetzt auch was nun mit all den Leuten ist die Ferngrab als Basis für ihren interdimensionalen Handel genutzt haben. Das plötzliche Aufleben von Spiegelmoor kann sich doch eigentlich nicht gut für die Leute auswirken die sich hier quasi in den Knochen einer alten daedrischen Ebenen eingenistet haben.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.12.2024 - #2030 - ##107
+  ```
+
+##### #2031##108
+
+* Titel: `Let's Play ESO #2031 ##108 - Webstuhl der unbereisten Straße [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 108 des Gold Road DLCs - Sitzung 19
+  
+  Das ganze große Ding mit Ithelia ist ja das sie die Herrscherin über Möglichkeiten, Variante und Wege ist die noch nie jemand gesehen hat. Für einen sterblichen Geist ist es wohl ein wenig schwer zu erfassen was sein wird, was sein kann und was niemals sein sollte. Oder was überhaupt sollte definiert. Nach einiger Zeit hat sich unsere Daedra-Göttin aber anscheinend überlegt das sie die Realität direkt anfassen will. Also diese, und nicht nur einen Weg woanders hin einschlagen will. Das wiederum scheint gegen irgendwelche uralten Gesetze zu gehen die aussagen das man die Realität wie sie ist so belassen soll und nicht retrograd am Schicksal drehen sollte. Generell finde ich Geschichten mit Zeitreise Plot immer ein wenig schwierig. Entweder die entsprechenden Geschichtenschmiede vereinfachen die Konsequenzen stark oder das ganze ist ein mentaler Clusterfuck aus dem man nie wieder heraus kommt und in dem Moment in dem man es aus mehren Blickwinkeln sieht bricht alles auseinander. Weil damit die Geschichte Sinn ergibt bräuchte man ja ein Delta zwischen dem was war und was ist. Oder vielleicht auch sein wird. Aber wenn man die Vergangenheit verändert dann ist das die neue und alte Realität. Was auch immer anders war existiert nicht mehr und die einzige Erinnerung ist im Geist eines externen Beobachters, das ist in der Regel der geneigte Leser. Das alles wird dann noch wesentlich komplizierter wenn man weg erklären will warum sich ein Blickpunkt-Charakter noch an irgendetwas erinnern kann. Alles ganz schrecklich. Und deswegen wollen wir heute den Webstuhl der unbereisten Straßen zerstören. Um uns die Kopfschmerzen zu ersparen.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.12.2024 - #2031 - ##108
+  ```
+
+##### #2032##109
+
+* Titel: `Let's Play ESO #2032 ##109 - heilende Auen [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 109 des Gold Road DLCs - Sitzung 19
+  
+  Der Titel dieser Episode verwirrt mich jetzt ein wenig nachdem einige Zeit vergangen ist und ich ihn noch einmal lese ohne das ich vorher eine Beschreibung schrieb. In einem Meta Kontext will ich aussagen das ich wieder einmal viel zu spät dran bin (aber nicht so spät wie in Dragon Age Origins) und die Beschreibung knapp drei Monate später schreibe weil ich erst jetzt die Zeit und Ruhe gefunden habe noch einmal wirklich über den Inhalt der Episode nach zu denken. Das Problem ist nun aber leider, das ich mich an nichts mehr erinnere. Natürlich gibt es Erinnerungen an bestimmte Szenen und Begebenheiten der gesamten Geschichte, aber speziell diese Episode scheint mir doch ein wenig belanglos zu sein. Das ist wahrscheinlich ein guter Indikator dafür das man sie auch einfach auslassen könnte. Der Punkt ist aber, irgendetwas passiert hier und ich habe auch reingeschaut. So wie es aussieht beenden wir eine Geschichte und fangen eine neue an. Mit der Zerstörung des Webstuhls ist die Gefahr die Ithelia repräsentiert natürlich noch nicht gebannt. Wenn es so einfach wäre dann hätte man sie damals nicht wegsperren müssen. Generell und überhaupt stößt mir übrigens die Geschichte mit der von der Zeit vergessenen Daedra immer mehr auf. Das alles erscheint ein wenig undurchdacht zu sein.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.12.2024 - #2032 - ##109
+  ```
+
+##### #2033##110
+
+* Titel: `Let's Play ESO #2033 ##110 - Ithelias Zorn [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 110 des Gold Road DLCs - Sitzung 19
+  
+  Und da sind wir wieder mitten in den Schwierigkeiten. Grade noch hatten wir irgendwie die Westaue gerettet und schon ist Ithelia wieder sauer und wir haben Probleme. Wie genau die jetzt aussehen ist noch nicht feststellbar aber ich bin mir sicher das wenn wir ein wenig weiter erkunden dann sind wir wesentlich schlauer. Das ist das Schöne an Dingen die so spät noch auftreten. Die Ereignisse neigen dazu sich sehr zu ballen und zu überschlagen. Man muss nicht lange warten bis das dicke Ende kommt. Wir stellen also zusammenfassend fest. Ursprünglich wollte Ithelia mit Hilfe des Webstuhls die Vergangenheit retrograd verändern so dass ihre Pläne bereits durchgeführt wurden. Das haben wir vermieden, jetzt ist sie daran Möglichkeiten die noch kommen auszuschließen und damit die Realität selbst zu bedrohen. Ob und wie man das ganze mit der ganzen "Godhead" Geschichte vereinbaren kann oder sollte vermag ich übrigens auch nicht aus zu sagen. Zum Glück ist das aber auch nicht wichtig. Für tiefere Diskussionen in der Lore fehlt mir leider auch ein wenig ein Notizbuch in dem die wichtigen Punkte noch einmal aufgearbeitet sind.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.12.2024 - #2033 - ##110
+  ```
+
+##### #2034##111
+
+* Titel: `Let's Play ESO #2034 ##111 - der zerstörte Webstuhl [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 111 des Gold Road DLCs - Sitzung 19
+  
+  Wir laufen seit quasi hundert Episoden mit Artefakten umher die eigentlich für die letzte Ithelia Iteration benutzt wurden und immer noch ganz gut funktionieren. Damit haben wir das Konzept etabliert das nicht nur die Daedra selbst wirklich ewig und im Kern unzerstörbar sind, sondern das auch die Gegenstände die mit der Macht eben jener Wesen erschaffen wurden auch eine Langlebigkeit inne wohnt die sterbliche Schmiede vergeblich versuchen zu erreichen. Das bedeutet aber auch das der Webstuhl den wir neulich zerstört haben gar nicht so sehr kaputt ist und durchaus noch zur Verfügung steht. Warum sollte er auch nicht. Außerdem können wir so einen Schauplatz wieder verwenden. Nebenher erfahren wir heute auch noch eine Menge Dinge die vorher nicht so angesprochen wurden. Wie zum Beispiel was Ithelia überhaupt motiviert, wie die Dinge rund um ihr Gefolge stehen und wie sich das Schicksal entwickelt. Die Kurzfassung ist das es sich irgendwie um eine selbst erfüllende Prophezeiung handelt. Wir hätten aber auch nicht anders handeln können, weil dann hätte sich die Realität einfach so aufgelöst weil Ithelia in einem Gasthaus chillt und Stück für Stück das Gewebe des Seins zerreißt. Das wäre ja auch nicht besser gewesen oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.12.2024 - #2034 - ##111
+  ```
+
+##### #2035##112
+
+* Titel: `Let's Play ESO #2035 ##112 - der urtümliche Splittertitan [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 112 des Gold Road DLCs - Sitzung 19
+  
+  Und damit kommen wir dann auch zum Klimax. Die Zusammenfassung aller Ereignisse ist dann aber wohl das Ithelia durch unser dilettantisches Eingreifen erst zu dem geworden was ursprünglich unser Eingreifen zur Folge hat. Oder zumindest das was Hermeus Mora vorhergesehen hatte beziehungsweise, und wir sind hier in einer tiefen Kette, das was er geglaubt hat am wahrscheinlichsten in der Möglichkeiten-Matrix zu glauben gesehen hat. Es ist ja nicht so als wäre der Wissende tatsächlich wissend, es ist eher so das er gut in Mathe ist, aber letztendlich ist das hier alles eine ungenaue Kunst und absolute Sicherheit gibt es nicht. Außer für so gut wie alle anderen Sterblichen die nicht durch einen Spieler gesteuert werden. Für die steht das Schicksal eigentlich ziemlich fest und man kann da nichts tun. Genauso wie für alle Daedra, Halbgötter, Aedra und was noch so herumläuft. Letztendlich ist jedes Ereignis das unscharf ist die Folge von einem Spieler der das Gewebe des Schicksals in Schwingung gebracht hat. Wir sind quasi ein Schmetterling. Aus irgendwelchen Gründen ist Ithelia nicht in der Lage sich selbst zu ändern. Irgendwo her speist sich ihre Persönlichkeit und es ist bei Weitem nicht klar warum sie nicht in der Lage ist auch nur etwas Veränderung herein zu bringen. Allerdings ist das auch eine Eigenschaft die ich an älteren Menschen sehe. Vielleicht ist es auch nur eine Funktion des älter Werdens, und in diesem Fall sind alle Daedra wirklich sehr alt. Und doch..ist eine temporäre Veränderung möglich. Hat Ithelia jetzt einen Willen oder ist sie nur ein Automaton der reagiert? Weil das ist die finale Erkenntnis die ich hier heraus ziehe. Daedra haben exakt null eigenen freien Willen und handeln nur wie es ihre Macht gebietet. Oder anders gesagt, die "Person" die wir in der Regel mit dem "Amt" verbunden scheint nicht viel mehr als eine semi-intelligente Interpretation der Gedanken der Macht zu sein die die Ebene für die sie stehen antreibt. Was wieder rum die Frage auf wirft. Wer hat das so gebaut? Der kollektive Wille aller Lebewesen. Die Erwartungshaltung der Daedra selbst zu einander oder eine externe, ungesehene Macht die sich das alles im Traum ausgedacht hat? Ich glaube meine Gedanke ist noch so inkohärent um ihn richtig auszusprechen, aber ich bin nicht bereit tiefer darüber nach zu denken weil es die reale Gefahr gibt das die Autoren von ESO selbst nicht so weit gedacht haben und ich hier grade versuche Rauschen mit Informationen aus verschiedenen Quellen zu interpretieren. Und per Definition kann dabei nur Zufall heraus kommen. Da ich keine kryptographischen Schlüssel signieren will brauche ich das aber nicht. Stattdessen benutzen wir das literarische Ende hier: die finale Interpretation ist dem Leser überlassen.
+  
+  Falls du das bis hier hin gelesen hast, schreib es doch in die Kommentare.
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.12.2024 - #2035 - ##112
+  ```
+
+##### #2036##113
+
+* Titel: `Let's Play ESO #2036 ##113 - das Schicksal der vergessenen Fürstin [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 113 des Gold Road DLCs - Sitzung 19
+  
+  Und damit sind wir am Ende. Ich habe eine Menge Worte in der Beschreibung der letzten Episode geschrieben ( https://youtu.be/C-TcKykJ094 ) die ich hier wohl auch wiederholen könnte aber nicht möchte. Du darfst mir die Schuld dafür geben das ich mein gesamtes Pulver bereits vor dem eigentlichen Klimax verschossen habe weil ich nicht richtig geschaut habe wie viele Episoden noch kommen. Letztendlich ist aber ab hier bzw. eigentlich schon davor alles auf Schienen. Das wiederhole ich doch gerne noch einmal. Es gibt in Oblivion, Morrowind und Skyrim keine Ithelia. Wir finden keine Spur von ihr und ich bin mir recht sicher das das Konzept der verbannten Daedra auch neu erdacht wurde und damals nicht einmal eine Möglichkeit war. Ein häufiger Kniff den ich bei neueren Autoren von Fantasy sehe ist das sie sich Lücken lassen, absichtlich. Lücken für Kurzgeschichten beliebter Charaktere. Wenn diese zum Beispiel für ein paar Tage von der Hauptgeschichte weg sind. Diese Lücken sind enorm praktisch, allerdings muss man auch darauf achten das selbst mit der neuen Geschichte das Endergebnis im Gesamtbild unverändert bleibt. Die einfachste Methode das zu erreichen ist in dem man alle Beteiligten alles vergessen lässt. Kleiner Spoiler, das wird hier genau so geschehen. Andere Autoren die besser sind haben das Ergebnis bereits eingepreist und erklären damit im Nachhinein wo Artefakt XY her kommt. Es gibt da recht viel Spielraum. Das Gesamtkonzept ist aber leider auch ein wenig unbefriedigend wenn sich die Nebengeschichte nie realisiert und man zwar den "Haken" sieht aber nichts dahinter steckt. So oder so, bei einem großen Projekt das durch mehre Jahrzehnte geht und viele kreative oder unkreative Köpfer hinter sich stehen hatte quasi nicht möglich. Insbesondere wenn es noch dritte Faktoren gibt die die Kreativität einschränken. Zum Beispiel der Ruf danach das auch eine Zwölfjährige die Geschichte verstehen soll. Und das führt uns wieder zu dieser Stelle. Wir haben erfahren das die Ayleiden anscheinend eine tiefere Verbindung zu Ithelia hatten. Würde die Daedra der vielen Pfade noch einmal eine Rolle spielen oder wäre bereits ein etabliertes Konzept das irgendwo unter der Oberfläche angedeutet wurde, dann hätten wir in Oblivion wohl Hinweise auf sie gefunden. Einen kleinen Sprung im perfekten Vergessen. Nichts dergleichen ist geschehen. Zumindest so weit ich weiß. Insofern ist vollkommen klar wie das hier ausgeht. Ich sprach ja bereits relativ am Anfang darüber. Jetzt ist der Zeitpunkt gekommen das das Unvermeidliche realisiert wird. Und damit verlieren selbst wir als Spieler jede Möglichkeit das Schicksal zu beeinflussen. Weil eine höhere Macht das so will. Die Storyschreiben von Zenimax und Bethesda. Fühlt sich doch gut an fremdgesteuert zu sein oder?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.12.2024 - #2036 - ##113
+  ```
+
+##### #2037##114
+
+* Titel: `Let's Play ESO #2037 ##114 - In Gedenken an [Gold Road]`
+
+* Beschreibung:
+
+  ```markdown
+  Episode 114 des Gold Road DLCs - Sitzung 19
+  
+  Diese Episode ist so sehr Filler wie sie nur sein kann. Ich kann hier gar nicht so viel dazu schreiben weil ich mich schon der nächsten Episode ausgelassen haben werde. Dies hier könnte auch die letzte sein in der alles verabschiedet wird. Aber erfahrungsgemäß dauert das immer ein wenig länger deswegen tun wir das nicht und warten lieber ab bis ich eine richtige "jetzt ist aber vorbei" Episode habe. Der Titel der Quest heißt "In Gedenken an" keine Punkte oder irgendetwas. Ich bin jetzt großzügig und sehe da Kunst drin. Es ist so als ob wir nicht wüssten an was wir Gedenken. Der Sache der wir gedenken existiert nicht mehr in den Köpfen der Leute. Einfach weg, statt einer guten Erklärung, eine Synonym oder irgendetwas gibt es stattdessen ein Loch. Ein Loch das so groß und seltsam ist das der sterbliche Geist sich sogar weigert darüber auch nur nach zu denken. Wie ein blinder Punkt im mentalen Blickfeld Aller. Eventuell ist es aber auch offen weil nicht ganz klar ist wem wir Gedanken. Den Toten? Jenen die Verschollen sind und nie wieder in dieser Realität sein können oder doch Ithelia, der Daedra die irgendetwas wollte aber nur Sklave ihrer eigenen Macht war? Absolut unklar. Oder vielleicht auch nur für mich weil ich geistig nur fast Zwölf bin und es deswegen nicht sehe. Wer weiß das schon?
+  
+  Mo-Do, So auch Live auf Twitch: https://www.twitch.tv/burnoutdv 17-20 Uhr
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wO_nLvLprFRAyxN3YilrARe
+  Gold Road Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wN4zSdcr2GqPesmrdQ--7gj
+  Aufnahme vom 24.12.2024 - #2037 - ##114
   ```
 
 ##### #2038##115

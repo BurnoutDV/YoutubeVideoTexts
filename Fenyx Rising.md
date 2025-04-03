@@ -406,12 +406,111 @@
 
 ##### #27
 
-* Titel: ``
+* Titel: `Immortals Fenyx Rising - #27 - Kerker: die Aufgabe des Herakles [Let's Play; ger; Blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Diese Episode hieß ganz ursprünglich einfach nur "Die Aufgabe des Herakles". Wie es der Zufall so will hatte ich mich zwischenzeitlich aber schon einmal darüber belesen was so genau vom guten Herakles alles gemacht wurde. Ganz groß im Vordergrund stehen da die zwölf Aufgaben die ihn von einem König (und Bruder?) übertragen wurden. Dazu kommen wir übrigens dann später wenn wir Athena besuchen gehen. Das passiert aber die nächsten 10 Episoden nicht. Daher erst einmal Fokus auf dem was jetzt ist. Wir können bereits sehen das diese Episode ein wenig länger ist als die Üblichen. Das hängt damit zusammen das wir jetzt die Sprungrätsel Hölle betreten und ich soviel Fluchen werde wie schon seit langem nicht mehr. Aber keine Angst, am Ende ist es gewiss all die Mühen wert die ich auf mich genommen habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 5, Aufnahme vom 17.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #28
+
+* Titel: `Immortals Fenyx Rising - #28 - Arena der Standhaftigkeit [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig seltsam das mir die Arena Kämpfe noch am einfachsten fallen. An sich habe ich den Schwierigkeitsgrad ja erheblich erhöht und dadurch ist das ganze Umherspringen ja auch nicht schwerer geworden. Aber ich hätte wirklich gedacht das in einem glatt geleckten Ubisoft Spiel das Umherspringen doch relativ einfach sein sollte. Offensichtlich habe ich mich hier getäuscht und stattdessen ist es eher schwerer als die eigentlichen Kämpfe. Die ich eventuell auch deswegen so einfach hin kriege weil ich genau meine Stärken kenne und auch in die rein spiele anstatt einfach irgendetwas zu machen das nicht funktioniert. Oder aber, ich bin einfach nur alt und Cheese-Taktiken funktionieren halt hervorragend gegen Feinde mit einem Lebenspunktebalken aber nicht so gut wenn man gegen die harte Gravitation ankommen muss. Obwohl es auch hier später noch das Gegenteil zu beweisen gilt.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 5, Aufnahme vom 17.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #29
+
+* Titel: `Immortals Fenyx Rising - #29 - Gift, Kälte und Feuer [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir, in einem weiteren Dungeon der irgendwie total anders ist als die Restlichen. Das liegt wohl daran das sie Teil eines DLCs sind. Ich kann mich übrigens nicht erinnern irgendwelche DLCs gekauft zu haben. Soweit ich weiß ist alles was ich habe eigentlich nur das Grundstück weil es halt sehr günstig als Disc zu haben war. Deswegen spielen wir hier ja auch auf der Playstation obwohl es soviel einfacher für mich wäre das alles einfach auf dem PC zu haben. Eine einzige Sache die mit der aktuellen Hardware habe nicht mehr so relevant ist wäre die das Spiele die auf einem anderen Gerät laufen dafür sorgen das mein Rechner quasi nur noch eine Streamingmachine ist und ich so die volle Leistung für eine reibungslose Enkodierung habe. Aber bei modernen acht Kern-CPUs aus dem roten Hause ist das auch eher nicht relevant. Schon weil quasi kein Spiel alle Kerne ausnutzt und der Prozessor selten die Grenze darstellt.
+  
+  Der komische DLC Dungeon ist übrigens komisch. Ich verstehe die Prämisse mit dem Eis nicht und weiß nicht wie ich damit umgehen soll. Daher gebe ich einfach frustriert auf. Außerdem erkläre ich "schlechtes Spieldesign" und ziehe mich somit aus der Verantwortung.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 5, Aufnahme vom 17.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #30
+
+* Titel: `Immortals Fenyx Rising - #30 - Feuer der Hephaistos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Zu meiner eigentlich großen Begeisterung habe ich immer noch nicht ganz verstanden wie das Spiel eigentlich mechanisch funktioniert. Das ist wirklich erfreulich. Also ernsthaft jetzt. Auch wenn es jetzt vielleicht auf dem ersten Blick nicht so wirkt. Die Überlegung geht ungefähr so: Wenn ich genau weiß wie ein Spiel tickt dann wird es vorhersehbar und damit auch irgendwie langweilig. Das ist nicht gut. Aber im Moment kann ich nie so ganz einschätzen ob eine Situation für mich schaffbar ist oder ob halt auch eben nicht. Im vorliegenden Fall gehe ich relativ lange davon aus das ich gar nichts machen könnte, und dann stellt sich doch heraus das es einen Weg gibt, er bloß schwieriger als ursprünglich gedacht ist. Allerdings bleibt die Frage bestehen ob es vielleicht mit einigen Upgrades doch einfacher sein könnte und ich mir die Sache unnötig schwer gemacht habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 5, Aufnahme vom 17.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #31
+
+* Titel: `Immortals Fenyx Rising - #31 - Schmiede der Götter [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Verschiedene Helden der griechischen Sagen haben Artefakte, Rüstungen und Waffen von den Göttern erhalten. Wenn man ein wenig weiter zurück geht stammen diese Gegenstände häufig aus den Händen von Hephaistos. Der übrigens scheinbar der einzige wirklich schöpferische Gott zu sein scheint. Die Anderen haben alle gelegentlich mal so eine kurze Phase in der sie Dinge erschaffen, aber ansonsten machen sie eher alles mit Blitzen, Flutwellen oder Eifersucht-entfachten Kriegen kaputt. Zeus selbst ist auch nicht wirklich der Schöpfertyp. Am Ende bleibt wohl nur Gaia die definitiv nicht zufrieden mit dem ist was der Göttervater so den ganzen Tag abzieht. Dafür produziert der andauernd irgendwelche Halbgötter mit Sterblichen. Das kann man wohl auch als Schöpfung durchgehen lassen obwohl die eigentliche Erschaffung wohl im Schoss der jeweiligen Frauen liegt. Da lob ich mir doch die nordische Mythologie wo ein Gott schon mal selbst seine Kinder in gewandelter Form austrägt anstatt nur irgendwelche Frauen zu schwängern.
+  
+  Zurück zu den Artefakten, da die alle von Hephaistos stammen müssen die auch irgendwo hergestellt werden. Schließlich glauben die Leute nicht daran das er die Dinge einfach so herstellt. Dafür gibt es dann die große Schmiede. Die ganze Ikonografie sieht sehr wie eine mittelalterliche Schmiede aus, aber ich weiß zu wenig über Schmiedekunst durch die Jahrtausende um das jetzt ernsthaft auseinander nehmen zu können.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 5, Aufnahme vom 17.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #32
+
+* Titel: `Immortals Fenyx Rising - #32 - Ein Durchbruch [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Episodenname ist übrigens dann auch Questname. Es handelt sich natürlich um eine Hauptquest und ich finde die Benennung ehrlich gesagt so mittelmäßig. Klar, wir erreichen heute eine Menge aber ich kann mir nicht so recht vorstellen das das direkt den Titel eines Durchbruches rechtfertigt. Letztendlich haben wir nicht viel mehr erreicht als die Schmiede in Betrieb zu nehmen. Und das war doch recht offensichtlich. Und für einen echten Durchbruch bräuchte man doch eigentlich vorher ein wenig Widerstand oder ein langanhaltendes Problem das man endlich überwunden hat oder? Ich bin ja nur erschienen, hab mich der Sache angenommen und dann war es auch schon vorbei. Jetzt nicht unbedingt das was ich mir unter das Brechen eines Dammes, einer Wand oder einer großen Notsituation bezeichnen würde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 6, Aufnahme vom 25.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #33
+
+* Titel: `Immortals Fenyx Rising - #33 - Gewölbe des Hephaistos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Unsicher ist ob es sich wirklich um das Gewölbe des Hephaistos oder doch eher um den Kerker seiner Seele handelt. Später wird sich allerdings herausstellen das in diesem Fall nicht Typhoon direkt Schuld ist. Oder doch irgendwie schon aber nicht so unmittelbar wie in vielen anderen Fällen. Man kann also durchaus neidlos anerkennen das hier der Titan der Unterwelt durchaus Kreativität an den Tag legt und nicht nur nach Schema F agiert. Die unterschiedlichen Götter wurden auf verschiedenste Weise unschädlich gemacht, auch wenn das Endergebnis schon ein gewisses Muster aufweißt. Das Schöne an den Story Dungeons, Kerkern oder Verließen ist auch das es darin mehr Schätze als in den normalen Orten gibt. Außerdem sind sie meistens doch ein wenig einfacher als irgendwelche Prüfungen des Herakles in denen ich keinen Stich sehe weil ich zu dumm zum Springen bin.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 6, Aufnahme vom 25.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
   ```
 
 ##### #Nummer

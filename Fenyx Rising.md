@@ -513,6 +513,276 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
   ```
 
+##### #34
+
+* Titel: `Immortals Fenyx Rising - #34 - Vater des Erfindens [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus persönlichen Gründen mag ich das Konzept des Erfindens. An der Stelle hole ich mal ein wenig aus und am Ende hat das hier alles wenig mit Hephaistos zu tun. Ich selbst bin irgendwie Ingenieur, ohne jetzt zu sehr ins Detail zu gehen. Als ich noch ein Kind war fand ich Daniel Düsentrieb aus den lustigen Taschenbüchern faszinierend der immer neue Sachen erfunden hat. Oder auch noch abstrakter. Leonardo da Quirm, die Leonardo da'Vinci Variante in den Pratchett Büchern. Ich konnte mir einfach nicht vorstellen wie es ist etwas zu erfinden. Quasi aus dem Nichts eine Idee haben und dann gibt es da etwas das erschaffen wurde. Mittlerweile bin ich etwas erfahrender geworden. Quasi niemand denkt sich einfach so aus dem Vakuum etwas aus. Viel mehr hat man eine solide Basis aus all dem Wissen und den Methoden von dem was vorher war und dann gibt es eine konkrete Fragestellung, ein Problem das gelöst werden muss. Dann bringt man all die Werkzeuge zur Anwendung und die konkrete Implementation des Wissens ist dann die Idee. In der Regel wiederholt man den Bauprozess noch ein paar Mal weil erfahrungsgemäß der erste Versuch nicht so gut ist. Bis eine Idee wirklich serienreif oder zumindest richtig benutzbar ist können Jahre vergehen. Daher ist der Schmiedegott weniger ein Erfinder sondern eher ein Umsetzer der konkret Dinge erschafft, basierend auf das was Andere erforscht haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 6, Aufnahme vom 25.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #35
+
+* Titel: `Immortals Fenyx Rising - #35 - Stellvertreter Steropes [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Spiel hat verschiedene Gegnertypen die mir nicht so ganz schlüssig sind. Zum Beispiel gibt es die Stellvertreter. Ich kann mich an das eine Harpyien noch ganz gut erinnern und es gibt auch eine Quest die darin besteht alle Stellvertreter zu finden und zur Strecke zu bringen. Problematisch ist hier allerdings das es sich eher um eine Kategorie Zwischenboss handelt die so konkret nicht auf der Karte gekennzeichnet werden. Unser alter Freund Steropes war anscheinend irgendwann auch mal im Dienste des Schmiedegottes zuständig und tat irgendwelche Dinge. Wie genau das jetzt aussah wird nicht weiter erklärt. Generell sind Mythen, Sagen und Legenden immer ein wenig seltsam was die Zeit angeht. Und einen Lebenslauf des Zyklopen hat hier auch niemand bedacht ran zu hängen. Das ist eigentlich sehr bedauerlich.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 6, Aufnahme vom 25.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #36
+
+* Titel: `Immortals Fenyx Rising - #36 - Brontes der Brilliante [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Letztes Mal habe ich von Zwischenbossen gesprochen. Stellt sich heraus das es neben Stellvertretern noch eine andere Kategorie gibt die sich in meinen Augen nicht so richtig von den Anderen unterscheidet. Meine beste Theorie für den Moment wäre die das die nicht-Stellvertreter Mini-Bosse irgendwie eine Story haben und halt für die Erzählung zumindest tangential relevant sind. Aber so genau weiß das keiner. Oder vielleicht wüsste man es wenn man das Spiel aufmerksamer als ich spielen würde. Brontes hier war bestimmt auch mal irgendwie wichtig. Und dann kam Typhoon und hat alles verändert. Alles übrigens tragische Schicksale wenn man so will oder?
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 6, Aufnahme vom 25.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #37
+
+* Titel: `Immortals Fenyx Rising - #37 - Nie die Hoffnung aufgeben [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal, also eigentlich ziemlich oft, frage ich mich eigentlich warum ich Episoden so benannt habe wie ich sie benannt habe. Wir kämpfen heute gegen Ozomene für die es wesentlich später übrigens eine Quest gibt. Meine aktuelle Taktik ist einfach noch nicht so gut und nicht perfekt ausgereift. Das erklärt auch warum ich nicht ganz so erfolgreich bin wie ich es gerne wäre. Generell und überhaupt quäle ich mich hier tatsächlich ein wenig ab um dann eine zweifelhafte Menge an Erfolg zu haben. Das ist übrigens etwas das mich an Fenyx stört. Auf der einen Seite ist es mega einsteigerfreundlich mit all diesen Features wie der Karte die man aufklärt, Hilfsprompt an jeder Stelle und doch recht seichte Rätsel. Aber dann gibt es Sprungrätsel die Kaizo Mario erblassen lassen (glatte Übertreibung) und Kämpfe die bockschwer sind ohne das es klar erkennenbar ist. Oder ohne das es Checkpoints gibt. Offensichtlich sollten wir noch nicht hier sein, und ich bin auch selber Schuld. Aber so im Nachgang fällt mir das halt auf.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 6, Aufnahme vom 25.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #38
+
+* Titel: `Immortals Fenyx Rising - #38 - fehlende Spezialfähigkeiten [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  An sich ist Fenyx erstaunlich offen und ich habe das immer mehr das Gefühl das die Zeit der offenen Welt Spiele einfach irgendwie durch ist. Die Tatsache das es irgendwo softe Grenzen anhand von Fähigkeiten oder festen Bossen gibt hält ja auch niemanden wirklich auf. Aber es nimmt der Spielwelt irgendwie auch Glaubhaftigkeit. Im Falle von Immortals Rising war es damit übrigens eh noch nie besonders weiß. Die Tatsache das unsere gesamte Geschichte von Waldorf und Statler aus dem Off kommentiert wird macht das Spiel nicht besonders ernsthaft. Ein ähnliches Spiel aber mit immersiverer Geschichte kann ich mir ehrlich gesagt nur schwer vorstellen. Aber letztendlich ist das Problem wohl das Open World nicht so gut funktioniert wenn die Welt nicht in einer Art Stase ist um glaubhaft zu bleiben. Die ursprüngliche Idee für S.T.A.L.K.E.R. hatte da die Idee das man Dinge verpassen kann wenn man nicht am richtigen Ort ist. Aber das wäre dann wirklich eine Menge verpasster Inhalt..und es wäre wohl schwierig umzusetzen wenn sich verschiedene Geschichten zu anderen Zeitpunkten geschehen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 7, Aufnahme vom 31.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #39
+
+* Titel: `Immortals Fenyx Rising - #39 - Hain des Kleos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Offensichtlich gibt es eine vorgegebene Reihenfolge in der man die Dinge angehen soll, und so wie ich es tue ist es definitiv nicht geplant. Soweit ich das erkennen kann würde ich behaupten das man zu Erst Ares befreien soll, dann geht man über zu Athene und zuletzte kommt Hephaistos. Ich gehe diese Reihenfolge natürlich genau andersherum an weil das einfach ist wie ich funktioniere. Ich habe absolut gar keine Ahnung wer Kleos ist noch habe ich den Namen irgendwo einmal gehört. Es könnte sich um eine Ubisoft Fantasie handeln oder aber um eine obskure Gestalt einer kleineren Sage. Das hat man ja öfter. Besonders im Zusammenhang mit Gamername finde ich manchmal Jahre später heraus das sich jemand nach einem beliebten Nebencharakter aus einer populären Serie benannt hat die ich nur leider überhaupt nicht kannte. Letztes Beispiel in einem Spiel war ein Call of Duty Teil in der der Hauptbösewicht Perseus war und ich einfach die entsprechende Sage einfach nicht kannte.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 7, Aufnahme vom 31.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #40
+
+* Titel: `Immortals Fenyx Rising - #40 - der epische Hydra Kampf [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube das die Macher dieses Spieles einen gewissen Kampfstil vor Augen gehabt haben und das was ich tue ist nicht das hier. Oder aber die Hydra ist nur sehr sehr anfällig dafür das man sie mit einem Bogen anschießt. Es könnte natürlich auch sein das ich einfach viel zu stark für den Bereich bin und im Gegensatz zu quasi allem Anderen die Hydra nicht mit skaliert und sie in Wirklichkeit ein furchterregender Gegner ist. Interessant ist übrigens das man das Schlangenvieh theoretisch sogar abfarmen könnte um jedes Mal ein paar tausend blaue Steinchen zu verdienen was schon ganz interessant wäre. Insbesondere wenn man bedenkt wie leicht es mir eigentlich fällt die Schlange zu Fall zu bringen. Ich habe allerdings den Verdacht das keine Epen darüber geschrieben werden wenn der Kampf so leicht läuft.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 7, Aufnahme vom 31.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #41
+
+* Titel: `Immortals Fenyx Rising - #41 - die Guten, die Bösen und die Kleinen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine weitere Episode die ich nach einer Quest benannt habe. Die Namen von den Dingern sind übrigens ziemlich subtil. Insbesondere wenn man bedenkt das man oft in einer Sache mehre Quest hinter einander macht. In anderen Spielen ist es für mich als Youtuber übrigens relativ lukrativ die Episoden danach zu benennen. Noch heute schreiben Leute unter random Skyrim Episoden das sie die Lösung für eine Mission brauchen, oder die eine Witcher 3 Folge die ich wohl etwas zu sehr nach einer schwierigen Quest benannt habe. Schwierig ist aber nicht der Boss darin sondern etwas zu finden. Und deswegen kommen die Leute zu mir. Aber seit ein paar Jahren ist das wohl auch alles egal. Für Fenyx gilt das aber besonders. Was ich damit sagen will. Ich habe keine Ahnung was das hier für ein Inhalt ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 7, Aufnahme vom 31.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #42
+
+* Titel: `Immortals Fenyx Rising - #42 - Gassi Gehen mit Kerberos [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Prinzip nach dem einige der Verließe benannt wurden ist mir nicht ganz klar. Bei Anderen ist es zumindest relativ offensichtlich zu erkennen woher der Wind pfeift. Cerberus ist, wenn ich mich jetzt spontan richtig erinnere, der drei köpfige Hund der die Tore der Unterwelt bewacht und dafür sorgt das niemand entkommt oder rein kommt der nicht da sein soll. Ein klassischer Torwächter halt. Aus diesem Grund findet man auch jede Menge Software die Kerberos oder andere Namensvarianten hat. Griechisch lässt sich scheinbar nicht immer absolut perfekt in andere westliche Sprachen übersetzen bzw. transkribieren. Wie dem aber auch sei, das Ding hier hat jetzt nicht direkt etwas mit Cerberus zu tun, aber wir müssen immerhin etwas Gassi führen und ich denke das war dann wohl ausreichend genug den Ort bzw. das Verließ so zu benennen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 7, Aufnahme vom 31.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #43
+
+* Titel: `Immortals Fenyx Rising - #43 - Vollbringe Heldentaten! [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In meinem Bestreben dann doch langsam mal ein wenig mit der Geschichte weiter zu kommen beschäftigen wir uns dann heute mit Athene. Wie alle Götter gibt es scheinbar auch hier ein handfestes Problem das unserer Intervention bedarf. Zentral hier ist das wir irgendwelche Heldentaten vollbringen sollen. Nun ist es ja nicht so das wir das nicht schon sowie so tun. All die großen Feinde die wir nieder ringen wären ja, wären sie da draußen in der freien Welt, eine echte Bedrohung für die Bevölkerung, nur das halt niemand mehr da ist der noch bedroht werden kann. Insofern ist es halt ein wenig fraglich was wir hier noch als Heldentat durchgehen lassen können. Auf der anderen Seite lebt von den ursprünglichen Helden auch niemand mehr, oder anders, sie stehen der Menschheit nicht mehr zu Verfügung weil sie dreckige Überläufer sind die es nicht geschafft haben die Welt vor einen kleinen Titanen zu bewahren. Jetzt müssen also wir ran.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 7, Aufnahme vom 31.03.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #44
+
+* Titel: `Immortals Fenyx Rising - #44 - die zwölfte Prüfung des Herakles [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich neige irgendwie dazu mich nicht so richtig mit der Mythologie zu beschäftigen bevor ich irgendwelche Spiele spiele die diese als zentrales Thema haben. Unlängst, also zum Zeitpunkt dieser Beschreibung, habe ich ein wenig etwas über die nordische Mythologie durch gelesen, letztendlich war es wohl ein Liebesroman, aber das Vorwissen über den Inhalt der Edda hätte hier sehr geholfen. Das hatte ich nur partiell. Andererseits sind mir viele der Dinge, insbesondere all das was mit Ragnarök zu tun hat sehr ins Auge gefallen weil ich diese bereits aus God of War kannte. Hätte ich all das Wissen damals schon gehabt hätte ich wesentlich besser kommentieren können. Das Gleiche wiederholt sich jetzt hier bei den Griechen. An und für sich habe ich mir immerhin vorher so grob durchgelesen was der gute Herakles so geleistet hat, aber man kann jetzt nicht wirklich davon reden das ich besonders gut vorbereitet war oder Stunden der Erzählung bereit gehalten habe.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 8, Aufnahme vom 07.04.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #45
+
+* Titel: `Immortals Fenyx Rising - #45 - Athenas Geisterplan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend winkt mit dem Aufstieg in das Heldentum durchaus die ein oder andere Belohnung die ich bloß nicht so richtig zu schätzen weiß, so aus der Perspektive von jemanden der bereits über 30 Jahre in einer anderen Welt gesehen hat. Generell ist das übrigens ein Ding das anscheinend die Autoren diverser Isekai Geschichten gerne vergessen, die Informationsdichte von Geschichten, Ereignissen und historischen Gegegebenheiten die eine durchschnittliche Person in der modernen Welt erfährt ist um soviel mehr als das was jemand im Mittelalter oder der Antike zu sehen bekam. Selbst wenn man aus guten Hause kommt, wenig mit dem täglichen Leben dank Dienern zu tun hat, so ist die Aufnahmerate von Büchern bzw. Schriftgut allein nicht gewaltig. Wenn man dann auch noch viele exklusiv oral übertragende Geschichten hat verlangsamt sich der Prozess noch viel mehr. Lange Rede, leider kaum Sinn, aber ich glaube das ich als Spieler das ganze Heldentum wesentlich weniger zu schätzen weiß als es Fenyx tut die einfach nicht so viel kennt. In meinen Episodennotizen steht noch etwas von einem Helm des Neuolympiers, aber ich kann mich ehrlich gesagt nicht daran erinnern. Auch nicht was es mit dem einäugigen Giganten auf sich hat, insbesondere weil wir nichts anderes als Zyklopen bekämpft haben bisher.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 8, Aufnahme vom 07.04.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #46
+
+* Titel: `Immortals Fenyx Rising - #46 - Athenes Tempelreinigung [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Athene hat offensichtlich ein paar Probleme über die sie nicht mit einfach jedem reden will. Das ist übrigens generell so ein Ding was man öfter bei Leuten sieht. Und ich kann das auch verstehen, wenn man zu gleichgültig damit anfängt über die Dinge zu sprechen die einen beschäftigen ist man ganz schnell in der Lage das Menschen anfangen dieses Wissen gegen einen zu benutzen, darüber zu tratschen oder aktiv die Information aus zu nutzen. Und das ist dann wirklich nicht schön. Ich kann mir auch nicht wirklich vorstellen das das irgendwer will. Wie dem aber auch sei. Athene will jetzt also einen Tempel reinigen, wieso sagt sie nicht wirklich aber letztendlich sind wir ja doch in der schönen Position das wir quasi nichts in Frage stellen und einfach so weiter machen wie bisher. Am Ende wir uns schon der Fluss der Dinge zu dem Tragen was wir sowieso machen sollten, die paar Umwege dahin sind quasi nicht erwähnenswert. Außerdem schauen wir uns noch den Kornspeicher der Demeter an. Auch ein Name der gerne benutzt wird. Ihr wisst schon, das sind die Schwurbler mit den Kuhhörnern am Feldrand und der dezent rechts eingeschlagenen Ideologie.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 8, Aufnahme vom 07.04.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #47
+
+* Titel: `Immortals Fenyx Rising - #47 - Tag des Gerichts [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist keineswegs so das wir heute dann endlich über die Götter urteilen und viel wichtiger auch richten die das Geschick der Sterblichen so oft haben in die Irre geführt. Nein, viel mehr machen wir uns heute daran Athene zu ihrer alten Glorie zu bringen. Ob das wirklich so eine gute Idee ist vermag ich übrigens auch nicht zu sagen. Aber da sie der zweite Gott ist den wir befreien und ihre passive Fähigkeit absolut lächerlich overpowered mit meinem Build ist müssen wir wohl davon ausgehen das die Entwicklung der Dinge wie sie geschah dann doch nicht so schlecht war. Wir schauen uns also im tiefen Gewölbe der Stadtstaat Göttin nach ihrer Essenz und begutachten bei der günstigen Gelegenheit gleich was für andere Leichen da noch im sprichwörtlichen Keller liegen. Letztendlich sind die griechischen Götter auch nur Menschen mit viel zu viel Macht. Also ähnlich den Königen von einst oder den Reichen von Heute. Auch wenn ich es immer noch schwer vorstellbar finde wie viel irdische Macht von einigen Individuen geführt wird.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 8, Aufnahme vom 07.04.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #48
+
+* Titel: `Immortals Fenyx Rising - #48 - Kräfte sammeln [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt einen leicht unangenehmen Loop in verschiedenen Spielen. Und der besteht daraus das man unter Umständen ein wenig grinden muss wenn man irgendetwas spielt was nicht genau auf der perfekten Mittellinie ist. Oder man muss es sowieso tun weil man ein MMO spielt. Wie dem aber auch sei, gelegentlich kommt es halt vor das man seine neuen Fähigkeiten lange und ausdauernd zum Einsatz bringen muss bevor man weiter ziehen kann. Ich bin da etwas zwiegespalten, insbesondere in Single Player Spielen. Auf der einen Seite gibt es da Spiele wie Quantum Break wo neue Fähigkeiten wirklich nur für zwei oder drei Kämpfe relevant bleiben und dann geht es weiter, neue Gegner tauchen auf und alles ist egal. Bei QB war es sogar so schlimm das man manche von den letzten Fähigkeiten quasi nur in zwei Scharmützeln und dem letzten Bosskampf genutzt hat obwohl es eigentlich die interessantesten waren. In Fenyx hatte ich bisher keine super flashy, alles verändernden Fähigkeiten, aber würde es sie geben würde es mir bestimmt weniger aus machen immer und immer wieder die gleichen Zyklopen in Lila Ausführung zu besiegen. Mit immer der gleichen Taktik möchte ich auch feststellen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 9, Aufnahme vom 20.04.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #49
+
+* Titel: `Immortals Fenyx Rising - #49 - Polyphemos der Schreckliche [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gegner die einen eigenen Namen haben sind quasi und eigentlich immer schlechte Nachrichten. Es sei den man spielt Jedi Survivor und der Typ ist der Hausmeister der nach zwei Schlag tot ist. Davon aber einmal abgesehen bedeutet es schon etwas einen Namen zu haben. Man sagt ja nicht umsonst "sich einen Namen machen". In einer Buchreihe von Joe Abercrombie die ich empfehlen würde wenn man Grim Dark mag (aber dann ist auch unnötig weil Abercrombie quasi Platz 1 ist wenn man in Grim Dark einsteigt.) ist es so das die leicht nordisch angelegten Kriegerstämme sogenannte "namend Warriors" haben, also all die Leute die sich irgendwie einen Namen verdient haben, da gibt es dann beispielsweise "Neunfinger" und so weiter. Und genügend "named Men" in seiner Gruppe zu haben ist wohl nicht ganz unwichtig. Ich weiß nicht ob überhaupt und wenn doch wie, sich Polyphemos seinen Namen verdient hat, aber "Poly" als Namensanfang ist wohl im griechischen recht üblich, und im Allgemeinen habe ich ein wenig das Gefühl das die Macher von Fenyx ihre Klischeenamen über Alles lieben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 9, Aufnahme vom 20.04.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #50
+
+* Titel: `Immortals Fenyx Rising - #50 - dreifacher Statistikschaden [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Spiele in denen man richtig rechnen kann und wenn man sich da ordentlich rein fühlt kann man gar nicht einmal so wenig rum min-maxen. Aber manchmal will man das auch vielleicht nicht, dann ist Fenyx auf jeden Fall das Bessere Spiele, dadurch das wir quasi für Nichts richtige Werte in Zahlen haben kann man auch schwer sagen was jetzt mehr bringt und was weniger. Aber mit klaren Aussagen wie "dreifachen" Schaden kann man schon etwas anfangen. Interessanter wird es wenn man so Dinge hat wie "20% Crit Chance", kritischer Schaden generell und überhaupt immer interessant aber auch erst wenn es statisch absehbare Mengen an Angriffen gibt. Wenn man alle 2 Sekunden eine Attacke hat dann sind 0,5% Chance auf einen kritischen Treffer irgendwie nicht so cool. Wenn man 1000 Angriffe die Sekunde macht wird das auf einmal sehr konkreter konstanter Schaden über die Zeit gemittelt. Mit hohen Crit Wahrscheinlichkeiten braucht man dann auch weniger Treffer für das gleiche Gefühl. Ich bin mir eigentlich sicher das hier irgendjemand zu Untersuchungen angestellt hat. Ärgerlich wird es aber mit richtig hohen Krit-Chancen wie 70% aber seltenen Angriffen. Weil es kann dann trotzdem vorkommen das man 4 mal hintereinander nicht kritisch trifft. Die Chance dazu war zwar 0,1% aber das kann dennoch passieren, insbesondere weil jeder Wurf für sich steht, 30% Chance, und das wird ja nicht besser. Wie dem aber auch sei, Mathe ist schon lustig. Und nerdig.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 9, Aufnahme vom 20.04.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
+##### #51
+
+* Titel: `Immortals Fenyx Rising - #51 - Odysseus, Schattenheld [Let's Play; ger; Blind]s`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es wirklich lange aufgeschoben, aber ich habe entschieden das der Zeitpunkt gekommen ist sich mit einem weiteren gefallenen Helden auseinander zu setzen. Die großen Helden waren, soweit wir das sehen konnten kaum mehr als eine sehr kurze Verzögerung für die Pläne von Typhoon. Das spricht nicht unbedingt für sie, aber vielleicht war es auch kein wirklich faires Match. Soweit ich weiß sind die großen griechischen Helden auch eher dafür bekannt Dinge zu besiegen und rein zu legen die zumindest ansatzweise ihre Größe haben. Will sagen, alles was größer als ein Zyklop ist wird wirklich kompliziert. Wie gut für den guten Odysseus das Fenyx nicht wirklich riesig ist und daher gegen und viel bessere Chancen hat. Möchte man zumindest meinen, und vielleicht wäre es auch so wenn ich ansatzweise fair spielen würde.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Immortals Fenyx Rising  wann immer Zeit ist
+  Sitzung 9, Aufnahme vom 20.04.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOmNHex00uC2RbqB2k_kxFJ
+  ```
+
 ##### #Nummer
 
 * Titel: ``

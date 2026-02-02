@@ -220,3 +220,122 @@ https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPVpaCnDjoMs2ZeTvtj2cnt
   Sitzung 2, Aufnahme vom 17.11.2024
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPVpaCnDjoMs2ZeTvtj2cnt
   ```
+
+##### #12
+
+* Titel: `Tactical Breach Wizards - #12 - Frachtzug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich mag es ja wenn Spiele, Filme, Comics oder Geschichten ein wenig Mundanes in die epische Mission rein bringen. Oft wird darüber einfach hinweg gesehen und unsere Helden kommen schon irgendwie von A nach B. Aber was wenn es nicht so einfach ist. Klar, in unserer modernen Welt kommt man ziemlich leicht in die Hauptstädte der Welt. Aber wenn es um die Provinz geht kann es schnell schwierig werden. Einige Inseln sind ohne private Yacht quasi nicht zu erreichen, die Miete horrend und das Personal exorbitant teuer. Schnell kann ein Ausflug recht schwierig werden, insbesondere wenn man nicht vom Militär der jeweiligen Welt gesponsort wird. Nicht umsetzt ist man in vielen Spielen der Anführer einer kleinen Raumflotte oder zumindest Kapitän eines Schiffes. Das macht solche Transportprobleme ein wenig leichter. Jen und die Crew haben es etwas schwerer. Wir müssen den Zug nehmen.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Tactical Breach Wizards wann immer Zeit ist
+  Sitzung 2, Aufnahme vom 17.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPVpaCnDjoMs2ZeTvtj2cnt
+  ```
+
+##### #13
+
+* Titel: `Tactical Breach Wizards - #13 - Straßen von Kalan [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten Episode habe ich erwähnt wie ich es mag wenn Helden sich trivialen Alltagsproblemen stellen müssen die ein wenig der Geschichte im Weg stehen. Heute geht es damit munter weiter. Wir sind jetzt zwar in Kalan angekommen aber eigentlich kennen wir absolut niemanden im Land. Die Sprache scheint zumindest kein Problem zu sein und die eigene magische Kraft hilft anscheinend dabei nicht direkt überfallen zu werden aber so richtig einfach ist es auch nicht. Ohne Informationsnetzwerk, Safe-House oder irgendwelche Infrastruktur bzw. Ortskenntnis steht man ganz schön im Regen und wird wohl letztendlich von der herrschenden Ordnung überrannt. Stellt sich doch glatt heraus das uns die Leute hier schon alleine für unsere Fähigkeiten nicht mögen. Das ist schlecht. Schauen wir doch welche Deus Ex Machina die Authoren für uns vorbereitet haben.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Tactical Breach Wizards wann immer Zeit ist
+  Sitzung 2, Aufnahme vom 17.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPVpaCnDjoMs2ZeTvtj2cnt
+  ```
+
+##### #14
+
+* Titel: `Tactical Breach Wizards - #14 - Kapelle der geschlossenen Faust [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Freunde gefunden. Oder zumindest Verbündete. Das heißt leider aber auch das wir uns jetzt in einer transaktionellen Beziehung befinden und das wiederrum läuft darauf hinaus das wir auch etwas tun müssen für die Dienste unserer neuen besten Freunde. Glücklicherweise überschneidet sich das ziemlich mit dem was wir sowieso vor hatten, quasi laufen wir also keine Umwege. Wir halten immer noch irgendwie Liz und ihre Pläne auf und helfen parallel den örtlichen Widerstand, man könnte fast von einer Win-Win Situation reden aber soweit möchte ich ehrlich gesagt noch nicht gehen, Arbeiten müssen wir ja trotzdem. Wie gut das das wiederum Inhalt des Spieles ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Tactical Breach Wizards wann immer Zeit ist
+  Sitzung 2, Aufnahme vom 17.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPVpaCnDjoMs2ZeTvtj2cnt
+  ```
+
+##### #15
+
+* Titel: `Tactical Breach Wizards - #15 - Choristen [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte ja schon bei unserer Ankunft in Kalan erwähnt das man uns ganz grundlegend für unsere Fähigkeiten nicht mag. Das hat sich nicht in den letzten fünf Minuten geändert. Es wäre auch wohl zu viel verlangt gewesen wenn es ein plötzliches Schisma in den Rängen der Kirche gegeben hätte und die Mehrheit uns auf einmal mit offenen Armen empfangen hätte.
+  
+  Hier übrigens eine kleine Unterbrechung, das Wort Schisma ist mir nicht so eben zu geflogen und es ist ein quasi Wunder das ich weiß das es überhaupt existiert. Dazu eine Kurzgeschichte: Einst als der Mond noch jünger war saß ich in einer S-Bahn in Berlin und irgendwelche Hipster Kids haben sich unterhalten, ein Kernsatz war "Der wusste nicht mal was Schisma heißt". Ich zu dem Zeitpunkt übrigens auch nicht, aber das blieb mir im Gedächtnis und ich habe meine ach so klaffende Wissenslücke gefüllt. In ein paar Spielen und Geschichten kam das Wort wieder auf und damit sind wir wieder im Jetzt.
+  
+  Da uns die Kirche nicht freiwillig mögen will müssen wir halt mit Gewalt Freunde machen, zum Glück haben wir jetzt Dall, die macht es wesentlich einfacher neue Freunde zu treffen, schon weil sie so beweglich ist.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Tactical Breach Wizards wann immer Zeit ist
+  Sitzung 3, Aufnahme vom 21.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPVpaCnDjoMs2ZeTvtj2cnt
+  ```
+
+##### #16
+
+* Titel: `Tactical Breach Wizards - #16 - glänzender Rückzug [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jeder Plannung die eine Offensive beinhaltet sollte eigentlich auch eine Defensive haben. Klar kann man sich einbilden das die brilliante Übermachtstrategie jeden Widerstand im Keim erstickt und es sowieso niemanden geben kann der sich wehrt. Aber realistisch gesprochen sind wir ein vier Personenteam und mit der Übermacht hält es sich in Grenzen, insbesondere wenn man eine strickte Regel hat niemanden zu töten. Das bringt die recht reale Gefahr mit sich das die Eliten des Feindes wieder und wieder kommen und man irgendwann sehr hart überrannt wird. Das wäre unangenehm, deswegen gibt es eine sogenannte Exit-Strategie, das ist angelsächsisch und heißt Ausgang. Eine solche besitzen wir selbstverständlich und heute wenden wir sie ohne Probleme an. Wie nicht anders zu erwarten.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Tactical Breach Wizards wann immer Zeit ist
+  Sitzung 3, Aufnahme vom 21.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPVpaCnDjoMs2ZeTvtj2cnt
+  ```
+
+##### #17
+
+* Titel: `Tactical Breach Wizards - #17 - das B-Team [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die meisten Leute aus meiner Generation kennen noch das A-Team, das muss bei dir werter Zuschauer nicht unbedingt der Fall sein und ich muss zugeben das das bei mir auch schon eine eher ausgehende Serie war die nicht all zu sehr im täglichen Fokus stand. Heute geht es aber um das B-Team, das sind eigentlich alle meiner Leute, weil, wenn wir mal ehrlich sind, ist da keiner von denen der absolute Experte oder Super-Profi. Alles eher Mitglieder der Ronny-Familie (liked wer es noch kennt) die irgendwo ihre Schwächen haben, diese Formel (a bands of misfits) ist übrigens eine ziemlich alte Methode eine Geschichte zu erzählen. Praktisch gesprochen geht es aber heute wirklich um das B-Team in dem Sinne das es die zweite Hälfte unserer Leute ist. Ich wurde neulich auf etwas aufmerksam gemacht das sich Action-Economy nennt. Oder auch warum es so schwierig ist Bosskämpfe in Pen-And-Paper spannend zu machen. Wenn man sehr oft dran kommt dann kann man mehr Dinge machen, und das ist eher schwierig für einen Gegner zu kontern. Und mit vier Leuten haben wir jetzt eine Menge Action Economy, wir sind quasi reich, daher macht uns das Spiel das Leben schwerer.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Tactical Breach Wizards wann immer Zeit ist
+  Sitzung 3, Aufnahme vom 21.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPVpaCnDjoMs2ZeTvtj2cnt
+  ```
+
+##### #18
+
+* Titel: `Tactical Breach Wizards - #18 - Belagerungskleriker [Let's Play; ger; Blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hab die Hintergrundgeschichte von Tactical Breach Wizards nicht zu 100% durchstiegen und ich möchte nicht behaupten das ich alle Details gleichzeitig in der Erinnerung halten kann. Aber die Quintessenz war das nicht besonders viele Leute "magische" Fähigkeiten haben, die Talente entfalten sich zufällig und viele Leute haben da eher kein Glück das es irgendetwas ist das man überhaupt praktisch anwenden kann. Allerdings haben die Leute die das Talent haben gleich noch die Möglichkeit das Ganze weiter zu entwickeln. Und das ist recht mächtig. Genau diesen Umstand der individuellen Macht mag die Kirche von Kalan aber nicht. Man könnte fast denken es handle sich um religiöse Fanatiker. Um die ganze Geschichte abzukürzen, heute haben wir es mit Belagerungsklerikern zu tun, echt gut gepanzerte Truppen des Klerikers die uns den Glauben lehren sollen. Ich bin kein Fan.
+  
+  Unter der Woche Live auf Twitch: twitch.tv/burnoutdv 18-21 Uhr
+  Tactical Breach Wizards wann immer Zeit ist
+  Sitzung 3, Aufnahme vom 21.11.2024
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPVpaCnDjoMs2ZeTvtj2cnt
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```

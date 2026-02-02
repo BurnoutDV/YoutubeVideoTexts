@@ -414,6 +414,44 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
+##### #30
+
+* Titel: `Rogue Trader - 30 - Rykad: Straßen der Hauptstadt [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In einem top-down CRPG wie Rogue Trader wäre eine lebendige Stadt relativ verschwendet. Die Art und Weise wie das Spiel aufgebaut ist gibt es nicht wirklich her das wir mit irgendwelchen Leuten reden. Der initiale Kontakt ist ein wenig zu aufwendig, gleichzeitig sind die Dialoge die im Hintergrund aufploppen bereits anstrengend genug. Kurzum, die Präsentation gibt sich eher mehr für tote Orte mit einigen taktischen Kämpfen und wenigen NPCs her die wir eher visuell als interaktiv erkunden. Wenn etwas passiert dann muss es besonders und wichtig sein weil die Bandbreite der Darstellung es nicht erlaubt das viel nebenher oder im Hintergrund passiert.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 27.11.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #31
+
+* Titel: `Rogue Trader - 31 - Rykad: Oberweg [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Rykad Minoris ist, auch wenn der Name das vielleicht anders impliziert, eine ziemlich große Welt. Ich werde für einen kurzen Moment etwas philosophisch. Im W40K Universum sehen wir Dinge immer im Verlauf von Hunderten von Jahren, der normale Imperiumsbürger stirbt ziemlich früh, aber die Helden der Geschichte haben meistens Zugriff auf lebensverlängernde Maßnahmen, Astartes sind sowieso biologisch unsterblich, Mechanicus Priester scheinen eher an Tech-Häresie zu sterben als an Organversagen und der Adel klammert sich gut fest. Das Besiedeln einer Welt dauert Zeit. Selbst wenn man halb-fertige Gebäude aus dem Orbit einfliegt, auf die Umwelt nichts gibt und schon einen festen Plan hat, bis alles etabliert ist, das dauert. Als Beispiel im echten Leben könnte man sich die Planstädte in China angucken. Bis da wirklich Leben drin ist und alles funktioniert dauert das. Die von Freihändlern besiedelten Welten sind aber schon relativ alt, seit dem ersten Freihandelsbrief sind um die 10000 Jahre vergangen, in der Zeit leben und sterben viele Zivilisationen und Siedlungen. Ich würde behaupten das die meisten Städte auf Rykad Minoris nicht älter als 500 Jahre sind, aber Anhaltspunkte habe ich jetzt auch nicht zur Hand. Nur einen Hauch Logik. Aber da alles was das Imperium baut sowieso immer antike Technik ist könnte das auch alles täuschen. Generell sehe ich irgendwie nie wirklich neue Dinge. Wir scheinen immer gut "abgehangene" Orte zu besuchen die eine Menge Geschichte hinter sich haben.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 27.11.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #32
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

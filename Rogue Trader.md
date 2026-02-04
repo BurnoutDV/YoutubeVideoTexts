@@ -444,12 +444,100 @@
 
 ##### #32
 
-* Titel: ``
+* Titel: `Rogue Trader - 32 - Rykad: blasphemisches Lagerhaus [Let's Play, ger, blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ein großes Problem mit der Häresie im Allgemeinen, also die die sich tatsächlich den Warp"göttern" zu wendet, das funktioniert halt echt. Wenn man irgendwo im mittleren Osten hingerichtet wird weil man an den falschen Flavour von "Gott" glaubt dann war das absolut sinnlos und letztendlich wirklich nur das Machtgeprahle einer etablierten Gruppe durchgeführt durch die ignoranten Massen. Und so gesehen hat das Imperium auch überwiegend ignorante Massen, das heißt aber nicht das da nicht auch ein Kern Wahrheit drin ist. Klar, Auswüchse wie das gesponnene Netz sind schon sehr kurios und auch irgendwie schädlich, ABER sie sorgen nicht dafür das plötzlich Leuten zusätzliche Augen wachsen. Gefühle haben Macht, Blasphemie hat reale Konsequenzen, und ich meine damit nicht die Inquisition die einen heiß in den Nacken atmet. An sich ist es natürlich nicht schlimm (abseits der Inquisition) nicht an den Imperator zu glauben, der Glaube an was Anderes ist das Hauptproblem. Klar, die ganze Imperiums Religion mit der Leiche auf dem goldenen Thron ist ziemlich löchrig und hat eine Menge Fehler, aber eine bessere Alternative ist schwierig her stellbar ohne quasi alles zu zerstören was das Imperium ausmacht. Und das Reich franst an allen Ecken aus, zum Beispiel heute im lokalen Lagerhaus.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 28.11.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #33
+
+* Titel: `Rogue Trader - 33 - Rykad: Adeptus Arbites [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So wie es aussieht integrieren sich die DLCs von Rogue Trader direkt in den Spielverlauf und ich müsste einen neuen Spieldurchgang anfangen wenn ich früher begonnen hätte. Der Adeptus Arbites macht quasi nichts Anderes als die Steuern einzutreiben bzw. dafür zu sorgen das die Gelder dann auch wirklich ankommen. Ich weiß nicht genau mit welcher Währung das alles eigentlich funktioniert. Weil der Zehnt scheint ja wirklich Geld in irgendeiner Form zu sein, viel mehr hätte ich erwartet das man direkt Ressourcen und Personal abführt die man für den dauerhaften Kriegszustand nun einmal braucht. Aber bestimmt erfahren wir später Details. Mit den Steuern zu interagieren ist definitiv für alle Beteiligten kein Vergnügen, für die Leute die sie zahlen sowieso nicht, aber bestimmt auch nicht für jene die versuchen sie zu stehlen. Ich möchte nicht sagen das man nicht auch mit Verbrechen durch kommt, White Collar Crime ist ein Ding und verbreitet genug. Aber bei den Steuern der einfachen Leute verstehen die meisten Organisationen keinen Spaß.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 28.11.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #34
+
+* Titel: `Rogue Trader - 34 - Rykad: Familienvater [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manche Episoden haben eine unfassbare Tragweite, Entscheidungen werden gefällt die für Generationen nachhallen, Sternensysteme beeinflussen oder Millionen von Leben verändern. Und dann begegnen wir einem einzelnen Individuum auf einer eigentlich belanglosen Welt irgendwie im Nirgendwo in der Müllecke der Galaxie. Es könnte quasi keine weniger bedeutenden Begegnung geben. Und doch sind wir jetzt hier und verbringen Zeit. Ich kann den Wert eines Freihändlers nur sehr schwer einschätzen. Auf der einen Seite scheinen wir für das Imperium ja auch wichtig zu sein, auf der anderen Seite sind wir doch eher ein Stück Geschichte das eigentlich gar nicht mehr so aktuell ist und eher neben der großen Maschinerie des Imperiums abläuft. Vom reinen Stundenlohn wäre es aber bestimmt fatal für die Familie und nähere sowie entferntere Verwandtschaft des einfachen Volkes wenn wir unsere Dienste in Rechnung stellen würden. Glücklicherweise sehe ich das hier als Kaffeefahrt an und bin daher großzügig mit meiner Zeit. Ob die Leute das zu schätzen wissen?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 09.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #35
+
+* Titel: `Rogue Trader - 35 - Rykad: Kommandozentrale [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die gesamte planetare Regierung wird wahrscheinlich nicht von der Kommandozentrale die wir heute betreten geführt. Aber der Ort ist schon recht wichtig. Nicht besonders interessantes Trivia an der Stelle übrigens, Schiffe, also in diesem Falle, die Dinger auf Ozeanen, haben eine Brücke, U-boote besitzen hingegen eine Zentrale. Die meisten Sci-Fi Filme, Niederschriften und Hörspiele haben eine Brücke auf ihren Raumschiffen. Zum Beispiel bei Perry Rhodan ist es aber eine Zentrale, anscheinend weil einer der wichtigeren Autoren tatsächlich mal auf einen U-Boot gedient hat. Der gleiche Autor löste gerne Konflikte mit Waffen, der hatte auch einen Spitznamen den ich leider vergessen habe, Kanonen-Kalle oder so. Die Grundidee aber das sich die Zentrale Verwaltung eines Raumschiffes tief im Inneren befindet erscheint mir aber logisch. Weltraum ist groß, jedes Fenster würde exakt gar nichts zeigen. In der Regel landet man nicht auf irgendwelchen Planeten mit dem Flaggschiff bzw. irgendwelchen großen Raumern, die Menge an Energie die man braucht um tausende Tonnen abheben zu lassen ist einfach astronomisch. Irgendwelche Überlegungen für Stromlinienform sind also auch egal. Logisch wäre viel mehr eine Kugelform. Übrigens auch so ein Perry Rhodan Ding...witzigerweise landen die mit ihren Kugeln aber auf Planeten. Ich will die Serie an der Stelle nicht einmal empfehlen, sie ist sehr ein Zeugnis ihrer Zeit..und das merkt man sehr.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 09.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #36
+
+* Titel: `Rogue Trader - 36 - Schiff: Pasqal Haneumann [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben jetzt quasi einen Magos auf dem Schiff. Offiziell hat er sich uns noch nicht dauerhaft angeschlossen, aber so wie die Dinge halt laufen ist es völlig offensichtlich das uns der Mann erhalten bleibt. An der Stelle direkt die erste Überlegung, auch wenn der Adeptus Mechanicus das Fleisch ablehnt scheint es dennoch ein Konzept von Geschlecht zu geben, sei es Hadron oder Pasqual oder aber Opticon-22, irgendwie werden die immer angesprochen. Es könnte natürlich auch sei das die Priester selbst das ganz anders sehen und auf Binhärisch keine solche Unterscheidung existiert und das nur für die restlichen Muggel da draußen ist mit denen man gelegentlich interagieren muss. Davon abgesehen scheint unser neuer Magos relativ normal zu sein, er hat irgendeine Hintergrundgeschichte die sich gewiss später noch offenbaren wird aber für den Moment sehe ich hier keine großen Besonderheiten. Er folgt dem üblichen Credo, erzählt von Lithurgien und behandelt Technik religiös. Keine Besonderheiten..für den Moment.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #37
+
+* Titel: `Rogue Trader - 37 - Rykad: Elektrodynamisches Cenobium [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wurde erwähnt das der Magos den wir neulich aufgegabelt haben nicht unbedingt wirklich uns gehört sondern das der Mann nur temporär in unserem Gefolge abhängt. Das kann sich natürlich noch ändern aber zu erst müssen wir ihm ein wenig helfen. Daher reisen wir ohne Umschweifen zum örtlichen Kraftwerk des Planeten. Informationen aus der Zukunft: anscheinend handelt es sich hier um einen Fusionsreaktor der so gar nicht mehr hergestellt werden kann. Das ist echt faszinierend. Der Adeptus Mechanicus hat auf irgendeiner Welt oder in der Leere einen funktionierenden bzw. größtenteils intakten Fusions-Meiler gefunden und dann kam ein Freihändler daher, hat seine Kontakte spielen lassen und dann wurde das Gerät genau so wie es war auf einem Planeten installiert um die Energieversorgung von einfach allem darauf zu gewährleisten. Es ist wirklich traurig das das Imperium so sehr dem Credo des Mechanicus folgt und einfach keine Innovation akzeptiert. Millionen von Welten könnten von sauberer Energie wirklich profitieren.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #38
+
+* Titel: `Rogue Trader - 38 - Rykad: elektrische Freuden [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich sind wir immer noch im Elektrodynamisches Cenobium bzw. der einfachere Name für diesem Ort, lokales Energiekraftwerk 1, weil im Prinzip isses das aber weil es 40K ist haben wir hier unseren eigenen Flavour an Sklavenrasse die hier ihr Tagwerk verrichtet und weil es natürlich immer noch 40K ist haben wir hier auch noch ein wenig dämonischen Einfluss mit Intelligenz dahinter der scheinbar schlimme Dinge tun möchte. Zusammenfassend möchte ich feststellen das wir wirklich langsam vor ran kommen und quasi jeden Schritt mit Mühe und Blut bestreiten. Alles nicht so einfach im Leben einer Freihändlerin. Ich würde aber behaupten das der ganze Einsatz hier eigentlich eher etwas für eine separates Team ist und nicht unbedingt die Aufmerksamkeit der Chefin erfordert. Aber jetzt sind wir nun mal hier und wir wollen diesen Magos wirklich dringend für das Schiff haben. Also machen wir das selbst..wie so oft.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
 ##### #Nummer

@@ -540,6 +540,51 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
+##### #39
+
+* Titel: `Rogue Trader - 39 - Rykad: Dahr-Impulse VI [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Um ehrlich zu sein lese ich jedes Mal wenn ich "Dahr Impulse" lese "Darth Impulse". Und wir sind gar nicht bei Star Wars. Das ist eine wesentlich optimistischere Welt. Da haben wir zwar die Macht die sich scheinbar als eine Art Universumswillen in die Belange der Menschen einmischt, aber insgesamt läuft das Leben der Leute wesentlich besser. Selbst in den größten Slums scheint es nie so abgefuckt zu sein wie in W40K. Bei der Person die ich oben referenziere (Was ein Weg den Namen nicht noch einmal zu schreiben) handelt es sich allerdings auch wirklich nicht um einen Sith Lord, vom Aussehen her könnte es aber schon passen. Genau wie unser Magos lehnt auch er und seine Gefolgschaft das Fleisch größtenteils ab, hat aber weniger Wege sich der Metallwerdung anzuschließen. Außerdem erfahren wir das alles vorher leider bedauerliche Verwechslungen waren, die ganzen toten Anhänger seines Kreises scheinen gar nicht so viel zu bedeuten. Wenn der ganze Reaktor aber in die Luft fliegt macht es am Ende wohl aber auch keinen Unterschied.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #40
+
+* Titel: `Rogue Trader - 40 - Rykad: Auroras Spiel [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Literatur, und hier ist jetzt gemeint wenn man selber dafür verantwortlich ist das Literatur entsteht gibt es bestimmte Beschränkungen die das echte Leben nicht hat. Wenn man im Freundeskreis drei Philipps (mit verschiedenen Mengen an Ps) hat dann arrangiert man sich irgendwie, vielleicht benennt man einen in Thorben um oder so. Aber wenn das Gleiche in einem Buch vorkommt dann ist das besser ein wichtiger Plotpunkt der irgendwo hin führt oder man lässt das gleich ganz. Namen und gleich klingende Namen sind also eine Ressource. Das mag auf den ersten Blick nicht schlimm sein, aber gute Namen sind knapp, insbesondere wenn man sich in einem bestimmten Thema befindet. Aurora ist ein absoluter Premiumname, die Person die damit herum läuft sollte sehr wichtig sein. Auf gar keinen Fall sollte es sich dabei um einen Kanonenfuttercharakter handeln der keine eigene Persönlichkeit hat und nach einem kurzen Kampf einfach in sich zusammenbricht.
+  Nachdem wir das alles geklärt haben, geht es heute in den Kern des Reaktors wo eine Person namens Aurora auf uns wartet die wir bereits durch das halbe System verfolgt haben.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #41
+
+* Titel: `Rogue Trader - 41 - Schiff: Heinrix von Calox [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Früher und manchmal immer noch, mache ich 20 Minuten Episoden. Ganz früher auf Youtube als Leute noch Let's Plays geguckt haben gab es sogar 15 Minuten Folgen. Das war technisch bedingt, nicht jeder Account durfte längere Videos machen, rein inhaltlich ist eine Viertelstunde aber oft zu kurz um irgendwas relevantes in ungeschnittenen Gameplay mit zu nehmen. Man fragmentiert sich da unnötig die Ereignisse und während ich das hier so schreibe stelle ich auch grundsätzlich alles in Frage was ich tue und habe das Gefühl das es alles recht sinnlos ist. Hallo Winterdepression.
+  
+  Wie dem aber auch sei, wir haben unten im Reaktor Heinrix von Calox kennen gelernt und ihn auch direkt in unserem Freundeskreis aufgenommen, größtenteils weil uns das so befohlen wurde und der Inquisition feindlich gegenüber gestellt zu sein könnte sich eventuell als Fehler herausstellen, also machen wir das nicht. Vorerst. Der gute Mann ist natürlich kein Adeliger aber sein jugendliches Aussehen hat er sich anscheinend mit Biomantie erhalten, einen Pfad der Psyker der mir ehrlich gesagt gar nicht so bekannt war. Generell weiß ich wenig über diese ganzen mundanen Aspekte des täglichen Lebens. Manche Psyker können ziemlich alt werden wenn sie nicht vom Warp gefressen werden, ob es grade diese Biomantie und Beherrschung des eigenen Körpers ist die das ermöglicht?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
 ##### #Nummer
 
 * Titel: ``

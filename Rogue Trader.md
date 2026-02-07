@@ -585,6 +585,119 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
+##### #42
+
+* Titel: `Rogue Trader - 42 - Schiff: Abel Haneumann [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin nicht besonders gnadenlos, etwas das mir wahrscheinlich als echter Freihändler ziemlich schnell das Genick brechen würde. Gnade beinhaltet alle Konsequenzen des eigenen Handels zu kennen oder potentiell katastrophale Folgen zu akzeptieren. Ich spreche andauernd darüber wie die 40K Welt ziemlich hart ist und einfachste Fehlentscheidungen monumentale Kosten verursachen können. Dazu zählt es auch Gnade zu zeigen, oder offene Enden offen zu lassen ohne zu wissen wohin die Geschichte führt. Je weniger echte Individuen um einen herum sind desto besser eigentlich. Je mehr Leute versuchen ihre eigene Geschichte zu schreiben desto mehr Variablen die in den eigenen Erfolg eingreifen können. Abel Haneumann ist so eine Variable, ein offenes Ende das vor erst keinen Abschluss finden wird. Und das ist ein Problem. Durch seine offene Natur lädt er andere dazu ein eine Lösung zu finden und das wieder rum kann zu Problemen führen. Nun spielen wir hier aber ein Spiel, und ich gebe zu ich bin nicht besonders tief im Rollenspiel drin, ich habe da ein wenig Probleme los zu lassen. Aber in diesem Spiel..da möchte ich so viele Geschichten wie möglich sehen, also sehe ich Saaten, Saaten die irgendwann wahrscheinlich zu meinem Untergang sprießen. So viele wie ich verursache muss das einfach passieren, aber wer weiß, vielleicht auch nicht.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #43
+
+* Titel: `Rogue Trader - 43 - Rykad: Triumph [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist unzusammenhängende Anekdoten Zeit. Ich stand neulich auf einer Bühne, vor Menschen. Nicht durch eigene Leistung sondern weil es Karaoke mit Liveband auf einem Craftbeer Festival gab. Ich hab mir ein Lied ausgesucht was ich nur so semi gut konnte, auch weil mir versichert wurde das es ja den Text zum mitsingen gibt. Ich war unfassbar nervös und ich habe das Gefühl ich selber habe quasi gar nichts gesungen und nur der Typ von der Karaoke Band der dafür sorgt das es nicht langweilig wird hat getan. Ich hatte dieses gedankliche Szenario schon öfter, irgendeine Profession auszuüben bei der man öfter auf Bühnen steht, und ich glaube nicht das ich das könnte. Ich hätte einfach zu viel Angst den Text zu vergessen, immer. Die Peinlichkeit gesenkten Blickes aus dem Licht zu treten, alleine die Angst davor, ich könnte das nicht.
+  Gleiches Prinzip für Siegesfeiern, sollte ich jemals im Leben doch noch irgendetwas schaffen und dann gäbe es eine große Preisverleihung mit Laudatio, ich würde mich sowas von tot fühlen. Realistisch kriege ich wahrscheinlich irgendwas improvisiert aber noch Jahre später würde ich in der Erinnerung daran cringen. Und jetzt stell dir vor jemand würde eine große Siegesfeier auf der Hauptstraße abhalten um zu deklarieren das du den Planeten vom Chaos gesäubert hast. Da würde ich lieber alles abbrennen...
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #44
+
+* Titel: `Rogue Trader - 44 - Rykad: Neues vom Oberweg [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir Aurora getötet hatten ging ich wirklich davon aus das wir im Rykad System mit einem relativ klaren Sieg rausgehen und wir fürs Erste mit einem wohligen Gefühl das System verlassen können. Dem war dann aber nicht so. Das überrascht mich ein wenig und dann auch wieder nicht. Das Genre in dem wir uns befinden nennt sich immer wieder gerne Grim Dark. Da 40K etwas cheesy ist nennen es aber manche Leute auch Grim Dank, jeder wie er will. Nur weil alles dunkel, rostig und breiig ist heißt übrigens nicht das es nicht auch Happy Ends geben darf. Es kann durchaus kleine Blasen der Hoffnung, des Friedens oder des Glücks geben, aber im Großen und Ganzen wird nie irgendwas besser und bleibt maximal genauso schlecht wie es vorher war. Das es massiv schlechter wird ist jetzt aber auch nicht so oft. Klar, das Imperium ist massiv, aber zuviel Pech könnte das interstellare Reich relativ schnell in den Abgrund reißen, schon jetzt erscheint alles irgendwie auf Kante genäht zu sein. Ein planetenweiter Ausbruch von Kultisten ist auf jeden Fall auf einer Skala von gut bis mittelgut eher so mittelgut. Das ist ein Ereignis das dazu führt das eine denkende Freihändlerin die Makrokanonen ihres Schiffs großzügig auf die Planetenoberfläche abfeuern lässt. Es gibt da Schlimmeres als den Tod einer Welt. Was übrigens Aurora angeht..wenn man sich ganz dem Warp verschreibt stehen die Chancen wohl ganz gut das der Tod nicht das Ende ist. Das ist dann in der Regel weniger Jesus sondern mehr so Raise of the Evil Dead, aber zumindest kommt irgendetwas zurück. Für die Selbstentfaltung nur so mittel, aber immerhin ist es nicht das Ende.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 18.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #45
+
+* Titel: `Rogue Trader - 45 - Rykad: Wellen des Warp [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn der Warp in die Realität einbricht dann passiert das meistens auf Raumschiffen die irgendwo in der Leere schweben oder sich vielleicht sogar selbst im Warp befinden und nur schwache Geller-Felder haben. Auf Planeten ist das eine ganz andere Hausnummer. Ich habe ehrlich gesagt gar keine Ahnung wie die Metaphysik hier funktioniert aber ich würde mal spontan in den Raum vermuten das entweder Masse im Realraum das Immaterium natürlich davon abhält einfach so rüber zu schwappen, Raumschiffe müssen ja auch erst aus dem System herausfliegen bevor sie springen können oder das es die gesammelten Bewusstseine einer Zivilisation sind. Zweiteres kann ich mir aber ehrlich gesagt nicht vorstellen, weil das würde ja bedeuten das kleinere Außenposten wie Kloster auf Ödniswelten enorm bedroht wären. Vorstellen könnte ich mir eher das es andersherum ist. Kleine Kolonie auf einer großen Welt ist sehr sicher weil es weniger Bewusstseine gibt die Gefühle haben und sich dem Chaos hinwerfen können. Rykad Minoris ist auch wenn der Name etwas anderes impliziert schon eine große Welt, mit einer Sonne. Und doch wabbert jetzt der Warp in den Straßen der Hauptstadt. Das ist ein Indiz dafür das hier irgendwas nicht so gut läuft. Wir sollten eventuell einen Rückzug in Betracht ziehen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #46
+
+* Titel: `Rogue Trader - 46 - Rykad: Wunder der Kategorie 3 [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Adeptus Mechanicus hält die Menschheit wohl mehr zurück als jeder andere Verein im Imperium. Und auf der anderen Seite rettet er sie vielleicht auch. Ich bin mir ziemlich unsicher wie viel die Leute im Allgemeinen von der Geschichte des Imperiums wissen insbesondere weil eine Menge davon wahrscheinlich gegen das geltende Dogma steht das von dem Rest der Einrichtungen propagiert wird. Worauf ich hinaus will ist das die ganzen Computer mit ziemlich viel Mystik beschichtet sind und niemand Dinge einfach nur bedient. Alles ist irgendwie ein Ritual. Wenn man bedenkt das die meisten Maschinen lobotomierte Menschen sind in denen vielleicht oder vielleicht auch nicht ein Rest Persönlichkeit oder altes Wissen eines ganzen Lebens steckt scheint mir das aber mit den Ritualen vielleicht auch nicht die schlechteste Idee zu sein. Das hat man davon wenn Maschinen eigentlich sehr viel mehr könne als sie können sollten weil man seltsame Umwege nimmt damit die örtliche Roboter-Diener-Flotte nicht vom Chaos übernommen wird. Lange Geschichte kurz, wenn man aus Versehen die richtige Kombination an Tasten drückt und dann noch ein Stoßgebet Richtung Imperator raus haut dann kann es schon einmal zu einem Wunder der Kategorie 3 kommen. Das sagt aber auch viel aus, anscheinend passieren Wunder im Zusammenhang mit Technik so oft das man dafür Kategorien und klare Abgrenzungen hat. Ich mag Technik eigentlich wenn sie deterministisch ist.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #47
+
+* Titel: `Rogue Trader - 47 - Schiff: Offiziersupdate [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben einen Meilenstein erreicht, jetzt heißt es wieder Entscheidungen treffen. Rein von der Philosophie übrigens alles schwierig in dem Zusammenhang. Richtige Patentantworten gibt es hier auch nicht. Entweder man lässt seinen Untergebenen zu viel freie Hand und dann stellt sich heraus das sich irgendjemand die Taschen voll gemacht hat, aus Geltungssucht suboptimale Entscheidungen gefällt hat oder einfach nur stumpf inkompetent ist. Vielleicht auch alles drei. Oder mehr. Andererseits ist man selten ein Universalgenie das alles besser kann als alle Leute unter einem, und selbst wenn mangelt es doch ganz gerne an Zeit. Oder man möchte sich vielleicht auch aus persönlicher Entspannung nicht um wirklich alles kümmern. Alles läuft darauf hinaus eine Balance zwischen Micro-Management und Laize Faire zu finden. Wie so oft im Leben, die Mitte und Waage macht es aus. Und deswegen treten jetzt alle möglichen Offiziere vor uns vor dem Thron und erzählen uns was sie heute so besorgt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 20.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #48
+
+* Titel: `Rogue Trader - 48 - Furibundus: Landung auf Footfall [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben soviel von dem Ort gehört, wir haben soviel darüber erfahren, endlich sind wir selber da. Footfall! Die große Anlaufstelle im ganzen Sektor der Coronus Ausdehnung. Ich vermag wirklich nicht zu sagen wie oft wir hier sein werden. Der Weg durch den Warp ist trügerisch und jeder Trip birgt Risiken mit sich. Letztendlich scheint es mir eine gute Idee zu sein oportunistische Sprünge vor zu nehmen. Wenn man schon einmal in der Nähe ist kann man ja mal vorbeischauen. Ich kann aber jetzt schon sagen das das System sich leider in einer Ecke der Karte befindet und das senkt die Chancen das wir dort noch oft vorbei kommen ziemlich. Aber erst einmal landen wir. Auch wenn ich schon viel über den Ort gehört habe weiß ich auch irgendwie nichts. Es fehlt das Gefühl für einen Ort. Das ist ein wenig schwierig zu kommunizieren. Sagen wir, Wissen ist nicht gleich eigenes Wissen. Informationen sind nicht Wissen. Gefühle da mit herein zu bringen ist vielleicht die falsche Formulierung. Sagen wir, Informationen sind Wissen ohne Tiefe, eindimensional. Daher gehen wir vorsichtig vor, wäre ja irgendwie doof wenn wir mit großen Fanfaren auftreten und dann direkt vom Pöbel zerrissen werden.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 20.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #49
+
+* Titel: `Rogue Trader - 49 - Footfall: Leerendock Alpha-Rho [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und es stellt sich doch glatt heraus das vorsichtig zu sein die richtige Entscheidung gewesen war. Kaum sind wir gelandet wird auf uns geschossen. Die Gesetzlosen sind wirklich überall. Das dabei auch noch ein adeliger Vertreter ihr Leben lassen musste ist natürlich sehr tragisch aber das zeigt doch einmal erneut wie vergänglich das Leben ist wenn man nicht der Protagonist in einer Geschichte ist. Von einem Moment zum Anderen wird man dem Plot geopfert und alles ist vorbei. Jahrzehnte der Bemühung, Anstrengung, Speichelleckerei alles in einem Moment des eigentlich geringen Risikos vorbei. Eine Routineaufgabe. Nichts großes. Wir haben dann die Anvers natürlich über den Haufen geschossen, an sich war es auch nur Dienstag. Aber nicht für diese eine Person. Auch für die restlichen Leute im Leerendock Alpha-Rho ist es Dienstag. Vielleicht ist es ein qualitativ schlechterer Tag als Montag, aber an sich auch nur ein weiterer Tag. Ist das Leben nicht grausam?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
 ##### #Nummer
 
 * Titel: ``

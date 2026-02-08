@@ -698,6 +698,52 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
+##### #50
+
+* Titel: `Rogue Trader - 50 - Footfall: Hieronymus Doloroso [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Lieber Zuschauer, falls du das hier liest, oder vielleicht sogar regelmäßig meine diversen Texte liest und nach Jahren der belanglosen Literatur hier angekommen bist, all diese Texte sind auch eine Art Tagebuch, nicht super persönlich aber schon mit Einsichten. Und auch ein Verlauf wie ich langsam älter werde und mich verändere. Dazu zählt übrigens auch die Angst das ich mich irgendwann nicht mehr verändere und in meinen Ansichten einfriere. Das wäre wirklich beängstigend.
+  
+  Ich glaube das es nicht von alleine passiert, aber wenn man sich ein wenig Gedanken macht dann realisiert man auch viele Dinge über sich. Ich bin zum Beispiel ein elender Sammler, sei es physische Dinge als auch Serien von Dingen. Keine Modelleisenbahnen bis jetzt, aber jeder Umzug wird schwieriger weil ich immer mehr Zeug ansammele das ich dann irgendwie ausstellen will. Auch in Spielen tue ich das. Meistens Heiltränke höchster Qualität die ich dann nach dem Endkampf bewundern kann. Oder Charaktere, ich weiß das wir irgendwann auch mindestens einen Xeno in der Gruppe haben werden, ich bin gespannt ob ich das ausbalancieren kann. Aber bis dahin versuche ich erst einmal die Leute zu halten die wir schon haben. Eine dieser Personen ist Argenta, die soll ja eigentlich einen Schrein auf Footfall bewachen. Damit wir sie dauerhaft behalten können müssen wir sie also los lösen. Zum Glück haben wir als Freihändlerin eine Menge Authorität.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.12.2025
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #51
+
+* Titel: `Rogue Trader - 51 - Footfall: der ehrenwerte Meister Bellardo [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus irgendwelchen Gründen fangen wirklich viele dieser Beschreibungen hier mit einem "Ich" an. So auch diese. ICH habe wirklich spät realisiert das es sich bei dem guten "Meister" Bellardo um einen Piraten handelt. Irgendwie ging ich nicht davon aus das die Gesetzlosen so offen handeln. Andererseits ist die meiste Kriminalität die nicht irgendwelche Straßenbanden ist irgendwie in den herrschenden Strukturen verankert, insofern habe ich wohl kein Recht wirklich überrascht zu sein das, bin es aber dennoch. Also, stellt sich heraus das auch Verbrecher ein langes erfülltes Leben haben können und dann irgendwann abtreten und ganz normal beerdigt werden. Nicht alle Leute sterben mitten in ihrer Arbeit oder bei der Erfüllung ihrer Pflicht. Von dem Gedanken zwei Schritte weiter gedacht, das ist ein echtes Problem. Es gibt genügend Leute die ihre Arbeit als ihr Leben sehen und wenn dann die Arbeit weg ist, sei es durch Rente oder weil es sie nicht mehr gibt dann schweben sie in der Leere. Das Arbeit sinnstiftend sein soll ist ein zweischneidiges Schwert. Klar ist es sehr störend wenn man irgendwelche Versicherungsakten A bis F bearbeitet, aber immerhin kann man sich absolut sicher sein das man nur für irgendwas vollkommen bedeutungsloses bezahlt wird und kann sich stattdessen auf private Dinge konzentrieren.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #52
+
+* Titel: `Rogue Trader - 52 - Footfall: Piratenbegräbnis [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So, ich habe dann auch verstanden das Bellardo kein super gesetzestreuer Gentleman war und das erklärt dann auch wo die ganzen Zwielichtigen Gestalten her kommen. Das wird mehr oder weniger sehendes Auge in eine Falle gelaufen sind war natürlich irgendwie doof und das ich das in einer Situation gemacht habe wo ich nicht einfach so laden kann war auch etwas doof. Die Ausführung meinerseits war aber dennoch absolut dämlich. Anstatt nur eine Person in den Ofen der ja wohl eine absolut offensichtliche Falle ist zu schicken und den Rest Draußen zum Bewachen zu lassen habe ich schön alle reingeschickt. Eventuell wäre das auch mechanisch gar keine Option gewesen, aber ich hätte es ja zumindest probieren können. Das folgende Gefecht ist übrigens ziemlich knackig für mich gewesen, zum Zuschauen vielleicht nicht so spannend wenn man nicht super mitfiebert, aber ich fand es gut.
+  
+  Das ist übrigens ein grundlegendes Problem, harte Kämpfe machen für mich das Spiel besser aber auf der anderen Seite behaupte ich ja immer das ich für die Geschichte und das Narrativ hier bin. Kämpfe sind das genaue Gegenteil davon, sie sind ein individuelles Puzzle.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
 ##### #Nummer
 
 * Titel: ``

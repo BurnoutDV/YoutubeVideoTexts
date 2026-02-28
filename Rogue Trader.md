@@ -744,6 +744,363 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
+##### #53
+
+* Titel: `Rogue Trader - 53 - Footfall: Vladyam Tocara [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist ein wenig spät aufgefallen das wir uns in der Koronus Ausdehnung befinden und Terra wirklich weit weg ist. Will sagen, technisch gesehen gilt natürlich das Gesetz des Imperiums mit all seinen Regeln aber praktisch wissen wahrscheinlich alle Beteiligten Bescheid das größere Teile des Einflussbereichs des Imperiums nicht unbedingt jeden Buchstaben dieser Gesetze folgen und lokale Befehlshaber vielleicht ein wenig mehr Macht haben als sie sollten. Wenn jemand wie der Adeptus Arbites vorbei kommt könnte es natürlich Fragen geben aber technisch gesehen ist alles gut solange wie die Steuern gezahlt werden. Wahrscheinlich ist das ein Kompromiss den man einfach eingehen muss wenn man so ein gewaltiges Reich hat aber ein Großteil der Ressourcen für einen ewigen Krieg drauf gehen und es den Leuten nicht so großartig geht. Worauf ich hinaus will ist das der lokale Oberboss gleichzeitig auch die erste Anlaufstelle für Alien-Schmuggelware ist. Alles in einem praktischen Paket das sich Vladyam Tocara nennt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #54
+
+* Titel: `Rogue Trader - 54 - Footfall: Schlacke & Johnny [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Organisierte Diebesbanden sind wie Ratten, sie sind überall und egal wie tief man gräbt, es hat einfach kein Ende. Und dennoch macht sich die edle Freihändlerin heute daran dieses Gesindel endgültig und ein für alle Mal aus zu heben. Das werde ich zumindest im Nachhinein erzählen und nicht das wir von einer Diebesgruppe zur Nächsten stolpere weil ich jede dunkle Ecke erkunde die Footfall für mich zu bieten hat und ich einfach nicht daran glaube das es so etwas wie Kämpfe gibt die man nicht mitnehmen muss. Heute wird es übrigens überraschend knapp weil ich mich ziemlich idiotisch anstelle und einige Entscheidungen fälle die im Nachhinein vielleicht suboptimal waren. Grüße gehen an meinen Truchsess der das Ganze quasi alleine durch gebracht hat.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #55
+
+* Titel: `Rogue Trader - 55 - Footfall: dunkles Versteck [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dank ihre genialen Detektivfähigkeiten hat die Freihändlerin mühelos eines der Nester der Anvers aufgedeckt und dort wertvolle Informationen gehoben. Bewaffnet mit diesem Wissen schreckt sie vor Nichts zurück und setzte ihren Weg unentwegt fort um das illegale Treiben auf Footfall für immer den Gar aus zu machen. Nicht für die Aussicht auf Beute, Waren oder einzigartiger Ausrüstung, nein, einzig und allein aus Pflichtgefühl gegenüber der Sache des Gottimperators, der Pflicht als Freihändlerin und dem Wohle seiner gesalbten Bürger. Natürlich nicht ohne sich vorher ein wenig im Bad des Flaggschiffes zu stärken und den Gestank des Pöbels zumindest im Ansatz los zu werden.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #56
+
+* Titel: `Rogue Trader - 56 - Footfall: Anvers Leichen [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt irgendwo in den weiten des Internets einen Darth Vader Comic, oder ein Mock Up für eine Seite eines Darth Vader Comics, das Panel das ich vor Augen habe ist genauer eines wo der Dialog in der Sprechbubble ist "All I see is that I am surrounded by dead men". Ähnliche Vibes würde ich auch gerne meinen Feinden entgegen bringen. Ärgerlicherweise ist meine persönliche Kampfkraft noch ein wenig von Darth Vader entfernt, aber vielleicht kriegen wir ja unsere Psychonik noch ein wenig gesteigert ohne zum Spawn für eine Warp Kreatur zu werden. Dann erreichen wir eventuell 10% davon. Bis es aber soweit ist machen wir weiter unser Ding mit unserem Gefolge, aus irgendwelchen Gründen brauchen wir das ja. Überleben ist ein guter Grund wie ich finde. Auf der Netto Seite des Lebens frage ich mich allerdings ob unser Verhalten heute das Leben der Menschen wirklich besser macht oder ob das entstandene Machtvakuum eher ein großes Negativ darstellt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #57
+
+* Titel: `Rogue Trader - 57 - Footfall: der letzte Ketzer [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Aus einer ganz persönlichen Perspektive ist es für mich ein wenig schwierig den Unterschied zwischen Ketzern und den Anvers zu sehen, insbesondere weil Letztere ja scheinbar irgendwie auch in die Richtung gingen. Ich kann übrigens auch nicht sagen ob die Anvers jetzt das Chaos verehrt haben oder nicht. Das anwerfen der Lüftungsanlage hat auf jeden Fall ein wenig wie ein Angriff durch Nurgle gewirkt. Die Chaosviecher die im Angriff bei den kleinen Zwischenbossen aufgetaucht sind waren ja eigentlich mehr mein eigenes Problem weil ich da eventuell vielleicht einen kleinen Bruch ausgelöst habe. Heute geht es aber an die aktiven Ketzer die wirklich das Chaos verehren. Die sollten wir übrigens besiegen (das klingt irgendwie so nach Turnier) damit wir Argenta halten dürfen, gemacht hätte ich das so oder so. Schon für die Erfahrungspunkte und die Handelswaren wäre ich bereit gewesen ein paar Leute über den Haufen zu schießen. Aber das es jetzt so gelaufen ist wie es lief ist ein netter Nebeneffekt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #58
+
+* Titel: `Rogue Trader - 58 - Footfall: Quarantänezone [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Soweit ich weiß verfügen wir über keine besonderen Ärzte, Zugang zu besonderen Medikamenten oder anderen Dingen die uns in einem kritischen Fall retten könnten. Was wir haben sind die Kontakte um letztendlich irgendwann dafür zu verhandeln eine besondere Behandlung da zu bekommen wo es sie gibt. Allerdings vermute ich das die meisten "schweren" Erkrankungen die die Leute so haben einfach nur teuer sind zu behandeln. Menschenleben sind billig in diesem Universum. Wenn in den Slums irgendjemand am Husten stirbt dann gibt es da vielleicht eine einfachere Lösung als irgendwelche Medikamente zu verbrauchen die der Adel noch gut gebrauchen kann. Ich bemühe mich heute aber immerhin etwas vom Elend der Leute zu nehmen, schauen wir doch wann wir das nächste Mal in Footfall sind und ob sich etwas ergeben hat. Und hey, immerhin müssen wir nicht testen ob unser Schiffsarzt etwas taugt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 23.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #59
+
+* Titel: `Rogue Trader - 59 - Footfall: Adeptus Amerseco [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So richtig auslooten kann ich immer noch nicht wie legal oder illegal Footfall jetzt ist. Anscheinend kümmert das auch niemanden so richtig. Es gibt zwar Institutionen wie die Inquisition oder halt den Arbites die sich um Teilaspekte des Imperiums kümmern aber halt auch nur um diese. Die Inquisition sucht halt hauptsächlich Ketzer, Xenos und Psyker während der Arbites sogar noch enger gefasste Aufgaben hat, solange die Steuern kommen ist alles Andere auch egal. Das Imperium war vielleicht irgendwann einmal auf hehre Prinzipien gebaut, aber diese Tage sind lang vorbei und alles was wir sehen ist die Leiche eines Reiches die von Maschinen künstlich am Leben gehalten wird, ziemlich wortwörtlich wenn man sich den Imperator selbst einmal anschaut. So überrascht es auch nicht das die Barke die die örtliche Bar darstellt anscheinend irgendwann einmal eine Abteilung der Verwaltung war.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 23.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #60
+
+* Titel: `Rogue Trader - 60 - Footfall: Jaes Schmugglerware [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Subtile kleine Spoiler sind immer ein wenig störend. Ich bin aber selbst Schuld daran. Ich hatte mich mit einem Freund unterhalten der meinte das er Cassia nicht dabei hatte weil er die Piratin hatte. Ich wusste also schon das es eine Piratin geben würde, oder vielleicht doch eher Schmugglerin. Mir ist übrigens seit der Beschreibung der letzten Episode, also ungefähr 5 Minuten, aufgefallen das es vielleicht doch noch jemand geben könnte der sich für den Gedanken des Imperiums interessieren könnte. Jemand der sich dafür einsetzt das nicht nur die Leiche funktioniert sondern auch die Ursprungsgedanken aufgegriffen werden. Jemand mit einer Menge Macht, jemand der überall anerkannt wird im Imperium...eine Freihändlerin. Wir könnte die Veränderung sein. Aber das wäre bestimmt nicht gut für die Profite und ich ahne das es da eine gewisse Menge an Opposition geben könnte, und das klingt anstrengend. Also lassen wir die Sachen doch lieber wie sie sind.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 23.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #61
+
+* Titel: `Rogue Trader - 61 - Footfall: Solomornes Bitte [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ob es gut oder schlecht ist wenn sich ein DLC direkt in das laufende Spiel integriert vermag ich nicht so wirklich zu sagen. Für mich als letzter Let's Player ist es natürlich ein wenig doof wenn die DLCs später raus kommen. Ich kann nicht so einfach einen alten Spielstand laden und dann große Teile des Hauptspieles noch einmal mit den neuen Inhalten machen. Könnte ich schon, wäre aber irgendwie komisch und redundant. Da mich quasi niemand schaut wäre es im Endeffekt auch egal, wo keine Zuschauer sind kann man niemand langweilen. Ich sitze beispielsweise schon seit Ewigkeiten auf dem Cyberpunkt 2077 DLC, das Hauptspiel hat schon niemanden interessiert, aber man braucht auch einen geübten Charakter dafür, und seit dem ich das Spiel gespielt habe gab es drei Overhaul Patches oder so und meine Charakterklasse funktioniert nicht mehr so wie es einmal war. In Rogue Trader habe ich immerhin den Vorteil das ich so spät zur Party war das es schon zwei DLCs gibt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 24.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #62
+
+* Titel: `Rogue Trader - 62 - Schiff: Jae Amira Fathreen Tameri ash Efreet [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jede einzelne Person die in unserem Gefolge ist haben wir bisher besser kennen gelernt. Einige dieser Leute sind sogar Beziehungsoptionen, wie auch immer die Beziehung zu einer Freihändlerin dann am Ende aussieht. Einige Leute sind offensichtlich nicht möglich. Wie genau Pasqual über Romantik denkt kann mir grob vorstellen, Cassia ist ein ziemlich Mutant und ehrlich gesagt ein wenig zu abgehoben. Abelard ist uralt und das wäre awkward wie sau. Kibellah scheint vor allem das Blut zu lieben und sieht sich scheinbar eh nicht als Individuum. Heinrix könnte man tatsächlich an flirten, aber mit der Inquisition im Bett zu sein würde ich eher auf der metaphorischen Ebene halten. Idira wüsste es bereits wenn wir ein Interesse an ihr hätten und da sie keine Reaktion zeigt haben wir das offensichtlich nicht. Argenta könnte man bestimmt in Versuchung führen, allerdings glaube ich das es sich ziemlich negativ auf ihre Psyche auswirken würde wenn sie auf einmal anfangen würde sich als Individuum zu sehen und nicht als Schwester der Schlacht, verheiratet mit dem Imperator. Bleibt also noch Jae die wir grade erst kennen gelernt haben. In Sachen Roleplay ist das hier keine besonders hohe Kunst, ich als Spieler präferiere Frauen, also flirte ich Frauen an, auch wenn ich selbst eine spiele. Die meisten Männer haben scheinbar nichts gegen lesbische Beziehungen, vielleicht weil sie glauben das sie am Ende dennoch bei beiden Frauen, gleichzeitig, eine Chance haben? Wie dem aber auch sei, ich diskriminiere da nicht. Das Abenteuer ruft und ich bin bereit für eine Kaperfahrt..oder so. Mal schauen wie cheesy es wird.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 24.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #63
+
+* Titel: `Rogue Trader - 63 - Schiff: von der heiligen Argenta [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Was mich am Meisten verletzt ist wenn mir Leute nicht vertrauen. Das ist für mich immer so unverständlich. Egal in welcher Welt ich bin, ich bin doch eigentlich ein grundehrlicher Typ, eine grundehrliche Hexe, ein vertrauenswerter Magier oder hier eine absolut integre Freihändlerin. Ich bin quasi immer das Beste was die Menschen erwarten könnten. Es sei den es sind Vorteile drin und ich bin mir sicher ich komme damit durch. Das ist bei Rogue Trader übrigens ein wenig schwierig für mich abzuschätzen. Ich glaube ich unterschätze zu Weil den Fanatismus der Leute gegenüber dem Imperium. Vielleicht würde es irgendjemanden nicht schmecken, aber an sich könnte ich wahrscheinlich wesentlich mehr tun und niemand würde irgendetwas tun. Das hatte ich bereits erwähnt, eine gefährliche Spirale die zu absoluten Exzessen führen könnte. Die gute Argenta hat scheinbar ein solches Verhalten direkt bei uns vermutet, jetzt nachdem wir aber gemeinsam ein paar Ketzer über den Haufen geschossen haben scheint sich hier ein wenig Vertrauen zu entwickeln. Wir erfahren heute also die Geschichte über die richtige Heilige gleichen Namens.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 28.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #64
+
+* Titel: `Rogue Trader - 64 - Schiff: Heinrix Spezialmission [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Technisch gesehen dürfen wir als Freihändler eine Menge Menge Dinge tun, und selbst die Dinge die wir eher nichts so sehr tun dürfen gehen in der Regel irgendwie trotzdem klar solange man es nicht an die große Glocke hängt. Ich hatte auf Footfall angemerkt das sich niemand so richtig für das Prinzip des Imperiums kümmert, klar, die Prozesse werden eingehalten, aber der Gedanke das es eine große Einheit ist wird selten hoch gehalten. Die gemeinsame Mission ist eher eine Ansammlung von pseudo-, quasi- und real-religiösen Praktiken. Und dann gibt es da noch die Inquisition, die stellt nicht etwa die Reinheit des Glaubens sicher sondern die strikte Durchführung der imperialen Gesetze, auch solcher die nicht mehr besonders viel Sinn ergeben. Oder Nuancen vertragen könnten. Generell gilt wohl das je höher im Rang ein Inquisitor steht desto mehr könnte man verhandeln, aber die mittlere Etage ist sehr gefährlich. Die hat Macht aber gleichzeitig auch Eifer. Und hier kommen wir zu Heinrix von Calloux. Wir sind ihn ja grade losgeworden, aber das hat offenbar nicht angehalten und da ist er wieder. Mit einer frischen Mission des Großinquisitors die wir nicht ablehnen können. Einfach fantastisch. Das Alles wäre kein Problem wenn man sich darauf verlassen könnte das die Inquisition einen konkreten Auftrag durchführt von dem wir wissen. Aber als Geheimpolizei könnte es durchaus sein das wir das Ziel der Ermittlung sind, und wenn man genau genug hinschaut lässt sich überall Ketzerei finden, immer. Dafür hat man schließlich Gummiparagraphen. Oder aber wir sind wirklich nicht das Ziel, aber der diensthabende Inquisitor ist etwas sehr dienstbeflissen und nimmt halt das bisschen Extraarbeit einfach noch mit.
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 28.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #65
+
+* Titel: `Rogue Trader - 65 - Schiff: Frachtstrecke [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Jedes größere Raumschiff, insbesondere Leerenschiff ist eine eigene Stadt, vielleicht sogar ein kleines Land. Man muss nicht bis zu den Weltenschiffen der Aeldari gehen um größere Bevölkerungszahlen an Bord eines Raumschiffes vor zu finden. W40K befindet sich hier definitiv in einem extrem des Spektrums. Das Andere ist vollständige Automatisierung aller Prozesse, dann endet das so wie bei "Project Hail Mary", "Blindsight" oder modernen Tankerschiffen auf tatsächlichen Ozeanen. Keine Crew in den Hunderten mehr die sich um das Schiff kümmern, Kameradschaft, kleinere Missetaten unter Deck und keine Privatsphäre sondern nur ein paar hochbezahlte Spezialisten. Es gibt bestimmt noch mehr Sci-Fi wo wenig Personal an Bord ist, aber die oben genannten Werke las ich als Letztes, beides Empfehlungen neben bei bemerkt.
+  
+  Hier haben wir das andere extrem, aus Gründen können wir nicht einfach alles weg automatisieren. Das bedeutet aber auch das wir ganz andere Probleme haben, zum Beispiel brauchen wir unfassbar viel Nahrungsmittel. Menschen haben einen gewissen Grundumsatz und dann leben die ja an Bord. Das alles nicht so einfach, und wir hörten ja schon das bei Reisen durch den Warp durchaus mal das ganze Essen schlecht werden kann. Ganze Sklavenstämme arbeiten für immer in irgendwelchen Löchern des Schiffes und sorgen dafür das sich irgendwas dreht. Oder vor und zurück bewegt. Zentral für all das ist gewiss die Frachtstrecke. Irgendwann fand es anscheinend lustig einen Zug innerhalb eines Raumschiffes zu bauen. Nein nein, keine Hipster Monorail oder Ähnliches, nein, ein Zug, so wie er auch 1848 irgendwo im Wilden Westen umhergefahren wäre, nur etwas schneller. Aber mit der gleichen Abgasnorm so wie es aussieht. Die Lebensumstände innerhalb der Frachtstrecke..und wohl überall woanders, sind ausbaufähig.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 28.01.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #66
+
+* Titel: `Rogue Trader - 66 - Schiff: die Bande von Transportbucht 9 [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welt als Ganzes ist ein furchtbar ungerechter Ort. Wenn man moralische Verantwortung hat sollte man zumindest im Rahmen der Möglichkeiten dagegen etwas tun. Das ist aber alles nicht so einfach. Tägliche Aufgaben, Arbeit, Familie, Schlaf, all das kostet soviel Zeit und am Ende ist kaum noch Zeit übrig irgendetwas zu tun. Etwas weiter raus gezoomt finde ich es auch sehr schwierig irgendwelche dauerhaften Veränderungen zu bewirken. Ein Ideal braucht Leute die daran glauben, und wichtiger noch, muss irgendwie gegen jene verteidigt werden die sich persönlich bereichern wollen oder aus anderen Gründen das Ideal in den Dreck ziehen.
+  
+  Heute finden wir ein paar Banditen, die Bande macht sogar irgendein Argument warum sie keine dreckigen Diebe sind. Die Ursache bzw. Umstände warum es überhaupt eine solche Bande gibt sind relativ klar. Quasi eine ökologische Nische die es ermöglicht hat. Wirft man genügend Spaghetti an die Wand bleibt schon irgendetwas kleben. Hier eine verpasste Patroille der Aufseher, hier ein Bestechungsgeld, zack schon wächst eine solche Struktur. Selbst wenn die Lebensbedingungen besser wäre, nur die Chance wäre geringer. Schon Tolkien hat gesagt das Mauern ohne Männer darauf nichts wert sind. Und so ist es auch mit der Moral. Dummerweise haben wir nicht wirklich eine moralische Instanz an Bord und viele Dinge wurden mehr oder weniger aufgegeben. Prozesse funktionieren, aber genau wie der AdMech kümmert sich niemand um die Details.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 03.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #67
+
+* Titel: `Rogue Trader - 67 - Schiff: das Fass [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich finde es depremierend das die Lebensbedingungen im Valancius Flaggschiff durchaus realistisch erscheinen. Also möglich. Trotz all dem Metall, dem Dreck und den wenigen Essen. Menschen sind verdammt widerstandsfähig, zumindest die ersten 20 bis 30 Jahre. Danach geht es rapide bergab und die Probleme von vorher akkumulieren sich immer mehr. Die metallene Welt erinnert mich an andere Fiktion. In Magic the Gathering, vor dem großen Sellout, gab es eine Metallwelt namens Mirrodin, eine Welt die dem Leben eigentlich total feindlich gegenüber stand, aber irgendwie hat es auch funktioniert. In Elder Scrolls Online gibt es die Stadt der Uhrwerke. Ein Ort der in einer Art Taschendimension existiert und von Normalsterblichen quasi nicht betreten oder verlassen werden kann. Das Wasser dort ist nicht trinkbar, die Hybridwesen nicht essbar und auf der Oberfläche aus Metall und Metalloxiden wächst nichts außer die mechanischen Schöpfungen des Meisters der Ebene, Sotha Sil. Das Raumschiff mit all seinen Kulturen ist quasi genau so, nur mit noch weniger Licht. Ein Ort der völlig im Gegensatz zum Leben steht. Und hier essen die Leute seltsamen Schlamm der sie irgendwie über die Runden bringt. Aus einem großen rostigen Fass.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 03.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #68
+
+* Titel: `Rogue Trader - 68 - Schiff: das Ende des blutigen Pfades [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es hat übrigens eine ganze Weile gedauert, aber unsere Expedition in die Frachtstrecke hat jetzt endlich ein Ende gefunden. Und ich weiß immer noch was ich von all dem was wir gesehen haben halten soll. Elend, Not, seltsame Subkulturen und das alles in unserem Namen, erbaut und verwaltet von wahrscheinlich dutzenen wenn nicht sogar hunderten Generationen von Valancius die alle wichtigere Aufgaben hatten ein Imperium aufzubauen. Aber wenn wir uns mit all den kleinen Dingen beschäftigen würde würden wir wohl das große Ganze aus den Augen verlieren. Das System ist ein lokales Maxima, die sind immer sehr gefährlich. Wir sind jetzt bei Mathe siebte Klasse. Die Kurve die die Effizienz darstellt hat hier einen Sattelpunkt erreicht, wenn wir etwas verändern würde das erst einmal runter gehen, keine Frage. Die Lebensqualität bestimmt auch, oder vielleicht auch nicht. Aber bis die nächste Phase der Stabilität gefunden wir vermag niemand zu sagen. Ein anderes lokales Maxima ist der Kult des blutgesponnenen Netzes. Alle imperialen Kulte faszinieren mich auf einer gewissen Art und Weise. So wie es scheint kann man die solchen auch offiziell sanktionieren lassen. So lange der Imperator im Mittelpunkt steht kann man hier wohl eine Menge machen. Witziger noch, es besteht die wenn auch geringe aber auch sehr reale Hoffnung das Big E (oder I) wirklich auf einer Weise eingreift die man als Wunder betrachten kann. Egal wo man sich in der Galaxie aufhält. Als gierige Freihändlerin nehme ich natürlich jeden Vorteil mit den ich finden kann, aber ich glaube das hier könnte ein Ritt mit einem Tiger werden.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #69
+
+* Titel: `Rogue Trader - 69 - Reise: Trinnitus-System [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind unterwegs! Endlich, es hat ewig gedauert, so viele Angelegenheiten die in der Leere erledigt werden wollen, so viele kleine Geschichten. Es ist ein absolutes Wunder das wir eigentlich überhaupt irgendwo ankommen..oder jemals weg kommen. Bei der Menge an Reisesicherheit in der menschlichen Raumfahrt muss man sich aber schon fragen ob es wirklich so erstrebenswert ist tatsächlich seinen Planeten zu verlassen. Der Imperator war ja damals an etwas dran, auch ihm ist aufgefallen das die überlichtschnelle Reise der Menschen durchaus ein paar Schwächen hat. Aber da offensichtlich niemand hier in Forschung investieren will wird es wohl noch eine zeitlang so bleiben und wir können uns damit abfinden das so Leerenschiffe nach einer gewissen Zeit einfach verschwinden. Was das angeht finde ich es eigentlich ein Wunder das es die von Valancius Linie überhaupt noch gibt. Technisch gesehen müssten wir, also das Adelshaus, seit 10000 Jahren unterwegs sein. Ich würde mehr Unfälle erwarten.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #70
+
+* Titel: `Rogue Trader - 70 - Schiff: Bindungsritual [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir extrem unsicher. Also generell und überhaupt mit all meinen Entscheidungen. Das wäre wohl das Privileg eine ordentliche Ausbildung zu haben. Wenn man so grob eine Vorstellung in welchen Rahmen die Dinge passieren sollten kann man sich daran für zukünftige Entscheidungen orientieren. Andererseits sind wir somit auch frei von Dogma, Vorurteilen und eingefahrenen Wegen. Das macht uns gewissermaßen auch frei. Frei Fehler zu begehen, unter Umständen Fehler die das Ende der gesamte Crew und des großen Hauses von Valancius bedeuten könnten. Immerhin gibt es aber auch andere Fehler die sich eher auf die ferne Zukunft auswirken und mehr persönlicher Natur sind. Zum Beispiel sich mit Kibellah noch mehr zu binden, eine Verbindung die bestimmt keinerlei negative Folgen oder schwere Entscheidungen in der Zukunft haben wird.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 08.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #71  
+
+* Titel: `Rogue Trader - 71 - Telikos Epsilon [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich wollen wir zu unserem Regierungsplaneten und uns auch angemessen vorstellen damit das ganze mit der Dynastie wirklich in Sack und Pack ist. Aber so wie der Warp aufgebaut ist springen wir nicht von einem Ort zum Anderen sondern müssen quasi von einer Pfütze zur nächsten Springen. Oder tausende von Jahren mit Unterlichtgeschwindigkeit durch die Leere segeln. Zweiteres erscheint mir mit einer Crew die scheinbar aus abertausenden Leuten besteht kein realitisches Unterfangen. Also springen wir, und machen halt Zwischenhalte, idealerweise an Orten an denen wir auch etwas tun können. Heute besuchen wir Telikos Epsilon. Dieses System beherbergt die wichtige Agrarwelt Janus. Warum genau man diese Welt nach dem Zweiköpfigen benannt hat vermag ich nicht zu sagen, aber wir sind jetzt da und fangen an Probleme zu lösen. Und im Nachhinein kann ich sagen, ich hätte die Gouverneurin erschießen sollen. Direkt, direkt nach dem Begrüßungsessen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 08.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #72
+
+* Titel: `Rogue Trader - 72 - Janus: Die Scharfschützin [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwie und ganz Ausversehen habe ich Idira bereits zur Scharfschützin ausgebildet. Das führt dazu das die Position der reichweiten Starken Fernkampfexpertin eigentlich schon belegt ist. Andererseits..eigentlich müsste man wirklich mal aufhören andauernd irgendwie zu min-maxen und einfach das Spielen was man will. Und ich habe Bock eine Elfe mit in mein Team aus ultra-rassistischen Menschen mit zu nehmen. Aber ganz soweit sind wir noch nicht, zu Erst müssen wir wohl ein paar Rekrutierungsgespräche führen und vorsichtig die Lage erfühlen. So wie es aussieht sind nicht alle Leute meines Gefolges über den Handel mit Xenos erfreut. Insbesondere Heinrix sieht so aus als würde ihm gleich der Kopf platzen. Ich kann mir das übrigens überhaupt nicht erklären. Ich bin mir sich wenn wir alle nur auf einander zu gehen würden wäre die Welt und auch das ganze Universum ein viel besserer Ort.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #73
+
+* Titel: `Rogue Trader - 73 - Janus: Zeugenbefragung [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben eine kleine Nahrungsmittelkrise an der Hand. Das liegt unter anderem daran das unser Planet Janus hier nicht richtig produziert. Von allen Welten des Imperiums würde ich mir gerne vorstellen das Agrarwelten ganz beschaulich sein sollten. Andererseits haben wir es hier immer noch mit dem Imperium zu tun und irgendwie bezweifle ich das man nachhaltigen Anbau mit Ausblick auf langfristiger Pflege der Natur im Blick hat. Stattdessen wird die Welt wohl auf die Bedürfnisse der Menschen zurecht gestutzt. Trotzdem bestimmt immer noch ein besserer Ort als eine Industriewelt, Raumstation oder auch Thronwelt wenn es um die Sachen Natur geht. Genau wie bei Anno 1800 fängt man ja irgendwann an Welten zu spezialisieren und scheinbar scheinen wir hier im Telikos Epsilon System halt die alleinige Quelle für Nahrungsmittel für die Dynastie derer zu Valancius vor zu finden. Etwas kurzsichtig wenn man die Schwierigkeiten des Warps bedenkt, aber was weiß ich schon von solchen Dingen.
+  
+  Fakt ist aber, der Laden läuft nicht rund und die lokale Gouverneurin behauptet alles wäre super bis auf ein paar kleinere Rebellen. Ich finde das ein wenig unglaubwürdig.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #74
+
+* Titel: `Rogue Trader - 74 - Janus: Dschungelexploration [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich stellt sich nach ungefähr 5 Minuten Befragung heraus das die anwesenden Adeligen nichts raus rücken und wir unsere Informationen woanders abholen müssen. An sich finde ich aber schon das wir eigentlich bereits genügend Informationen erhalten hatten ob die Gouverneurin direkt zu erschießen oder zumindest zu verhaften. Ich wittere Fluchtgefahr. Vielleicht kann man sowas auch diplopmatischer lösen wie die Adeligen auf eine mehrtägige Party an Bord des Schiffes ein zu laden oder irgendetwas in der Richtung. Bestimmt gibt es da subversive Methoden die Leute zu isolieren. Sicher ist mir allerdings das Fisch von Kopf stinkt und das damit quasi die Schuld bereits gefunden ist. Als reiner Dogmatiker würden uns leider viele Spuren entgehen die uns bis hierhin geführt haben, aber manchmal wäre es schon sehr verlockend einfach den Impulsen nach zu geben. Leider verwehrt uns das Spiel zu diesem Zeitpunkt diese Möglichkeit..also werfen wir uns ins Gemüse und gucken mal wir was Leckeres finden.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #75
+
+* Titel: `Rogue Trader - 75 - Janus: rote Spuren im Grün [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Manchmal trifft mich ja so ein Hauch Poesie. Und damit will ich sagen, quasi gar nichts. Heute zum Beispiel. Es gibt überraschend viel Blut im Dschungel von Janus, größtenteils ist das aber auch unsere Schuld weil wir ziemlich viele Rebellen über den Haufen schießen. Ich hätte das übrigens gerne nicht gemacht und mit den Leuten geredet. Es ist ja nicht so das diese Leute professionelle Rebellen seit ihrer Geburt sind sondern bis vor Kurzem noch das ziemlich wichtige Dienstpersonal der von Valancius Farmen darstellte. Jede Person die wir über den Haufen ballern ist damit eine Person weniger die die Glorie des Hauses mehren kann. Und ja, mir ist absolut bewusst das "in the Grim & Dank Reality of the 41th Millinium"" das menschliche Leben nicht so viel zählt. Und dennoch habe ich da ein weiches Herz im Rahmen meiner Möglichkeiten...was nicht besonders viel ist wenn ich ehrlich bin. Was die Poesie angeht..ich habe das Gefühl das es damit nicht besonders weit her ist.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #76
+
+* Titel: `Rogue Trader - 76 - Janus: Muaran [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Leben besteht aus einer langen Reihe von Entscheidungen. Je mehr Macht man hat desto mehr Entscheidungen hat man. Oder besser gesagt, desto mehr wahre Entscheidungen stehen einen offen. Mir ist, so ganz persönlich gesagt, im Leben relativ oft aufgefallen das man eigentlich keine echte Wahl hat. Klar, rein nominell sagt man irgendetwas und es gab irgendwie auch die Option sich auf den Boden zu schmeißen und einfach nichts zu tun, aber realistisch gesehen funktioniert das alles so nicht. Also bliebt nur noch die Auswahl zwischen Ja und sarkastisches Ja. Oder der Pfad den man wählt kommt am Ende sowieso an der gleichen Stelle heraus sodass die Wahl die am Anfang angeblich offen stand doch gar nicht so doll existiert hat. Heute begegnen wir einen Eldari mit dem wir irgendwie auch reden können, aber mir kommt das alles ein wenig seltsam vor und so richtig bereit bin ich auch nicht mit Xenos übermäßig zu interagieren, insbesondere wenn es darauf hinaus läuft diese in meine Siedlung zu integrieren. Und doch frage ich mich..ob es nicht hätte anders laufen können.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #77
+
+* Titel: `Rogue Trader - 77 - Janus: Keller des Exzess [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Wildnis ist besiegt und damit auch scheinbar der Ursprung der Rebellion, auch wenn ich nicht so genau weiß wie ein paar Aeldari es geschafft haben den ganzen Planeten weit läufig zu bewaffnen und es einfachen Bauern ermöglicht haben so große Probleme zu machen. Aber vielleicht sollte man niemals die Möglichkeiten einiger hoch ausgebildeter Agenten unterschätzen und ihr Vermögen die Bevölkerung auf zu wiegeln. Davon einmal abgesehen hat Janus aber auch noch ein ganz Anderes Problem, und das ist die Dekadenz des örtlichen Adels. Generell scheint das wohl ein Gift zu sein das die Welten des Imperiums vergiftet, ein Gift gegen das ich aber quasi nichts machen kann. Es ist ein uraltes Problem, effiziente Verwaltung braucht effiziente Verwalter und die wachsen nicht auf Bäumen. Von einigen Individuen einmal abgesehen ist die gesamte menschliche Zivilisation eigentlich immer ein riesiges Abhängigkeitsgeflecht. Wenn man radikale Veränderung will braucht man entweder ein ganzes Backup System das man in der Westentasche vorbereitet hat oder man muss mit der Konsequenz leben die damit einher geht das man all die Strukturen einreißt die seit Ewigkeiten den Laden am Laufen hielten. Und letztendlich fußt auch unsere eigene Macht darauf das das einfache Volk glaubt das wir den Durchblick haben. Immerhin gibt es aber ein paar Stellen wo wir die Grenze ziehen könne und endlich einmal viel gebrauchte Gerechtigkeit in die Welt bringen können. Zum Beispiel beim Anbeten von Chaosgöttern..oder beim Handeln mit Xenos.
+  
+  Nebenbei, ich glaube die Formulierung "viel gebrauchte Gerechtigkeit" funktioniert im Deutschen nicht so gut. Offensichtlich habe ich an das Englische "much needed Justice" gedacht. Ich lass das jetzt einfach so, aber nur falls du das hier liest und kurz aufgemerkt hast weil irgendetwas seltsam war. Stand Februar 2026 schreibe ich immer noch jeden einzelnen dieser Texte händisch..und liefere dabei wahrscheinlich Trainingsdaten..ich hasse diese Realität.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
 ##### #Nummer
 
 * Titel: ``

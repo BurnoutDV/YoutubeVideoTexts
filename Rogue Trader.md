@@ -1101,6 +1101,48 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
+##### #78
+
+* Titel: `Rogue Trader - 78 - Schiff: Yrelit [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor vielen Jahren, mehr als Jahrzehnt, habe ich angefangen Dragon Age Origin zu spielen. Das Hauptspiel habe ich auch durch, aber bis heute stehen da Episodenbeschreibungen und Thumbnails aus. Das war zu einer Zeit in der jede Episode einen Screenshot aus der Episode hatte. Das hat mich gelähmt. Niemand interessiert sich dafür aber mir ist immer noch bewusst das damit mein gewaltiger Berg an nie beschriebenen Episoden angefangen hat. Mir fällt das grade ein weil ich Dragon Age Origin das erste Mal den Willen in mir geweckt hat mehr zu Meta-Rollenspielen. Also meine Entscheidungen im Rahmen des Spiels durch eine stringente Entscheidungsgrundlage zu begründen. In dem Fall war das das mein Charakter ein Elf war und gleichzeitig Zauberer, anscheinend beides verfolgte Minderheiten im Dragon Age Universum, insbesondere weil Magier genau wie hier in 40K wohl die echte Gefahr mit sich bringen Dämonen in die Realität ein zu laden. Deshalb bewahrt der großer Zaubererturm einen Killswitch für jeden einzelnen Zauberer auf. Als unabhängiger freier Elf der keinen Menschen an seiner (oder ihrer?) Seite braucht fand ich das natürlich inakzeptabel. Lange Geschichte kurz, wenn ich Rollenspiele dann auf jeden Fall keinen pasty white Dude, das bin ich schon im echten Leben. Daher finde ich Elfen immer ganz interessant. Im 40K Universum ist das mit der Durchmischung der Rassen aber ziemlich schwach, und insbesondere das Imperium kennt mächtige Vorurteile. Das macht es natürlich schwierig eine diverse Truppe zu haben. Daher habe ich natürlich sofort den Quoten-Elf rekrutiert als ich konnte. Ihr Name ist Yrelit und sie hasst scheinbar alles was wir so machen. Das beruht im Großen und Ganzen wohl auf Gegenseitigkeit. Ich sehe Konflikte am Horizont.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #79
+
+* Titel: `Rogue Trader - 79 - Schiff: Tarzus Haneumann [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Keiner unserer Begleiter ist scheinbar ein unbeschriebenes Blatt. Das ist relativ normal für das Gefolge einer Freihändlerin, allerdings frage ich mich doch wirklich warum keiner von denen in der Lage war ihren Ballast hinter sich zu lassen. Ich dachte eigentlich das das der normale Lauf der Dinge ist. Die Freihändlerin kommt irgendwohin, sieht Potenzial in einer Person die von den Leuten vor Ort nicht richtig genutzt wird und nimmt diese dann mit. Ende der Geschichte, der die das Person hat dann vielleicht noch ein paar ungeklärte persönliche Anliegen oder emotionale Last aber das wird dann schon. Stattdessen läuft das hier aber andauernd so das sich irgendwelche anderen Leute bei uns melden und davon erzählen das sie Person XY zurück haben wollen weil sie oder er sich irgendwie gegen irgendwas strafbar gemacht hat und das jetzt wichtiger ist als das wir eine gute Teamkombo haben. In diesem Fall ob wir einen Magos haben oder nicht. Ich hätte gerne einen Magos, die Expeditionsflotte hätte wohl gerne das wir keine haben. Das ist ein Szenario das ich nicht gut finde. Dinge die ich nicht gut finde führen zu Konflikten. Insbesondere wenn man mir auf meinen eigenen Schiff Probleme macht. Das macht mein Schiff schon von alleine genug.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 17.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #80
+
+* Titel: `Rogue Trader - 80 - Dargonus: Mundus Valancius [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  80 Episoden, jede mindestens 30 Minuten lang und wir haben es dann doch endlich einmal geschafft auf die Thronwelt des von Valancius Adelshauses zu gelangen. Quasi sind wir also immer noch im Tutorial weil wir ja scheinbar immer noch keine richtige Freihändlerin sind, die entsprechen Zeremonie ist noch nicht geschehen und dauert anscheinen auch noch eine Weile. Für ein kurzlebiges Volk vergeht erstaunlich viel Zeit mit irgendwelchen Prozessen im Imperium. Aber das ist wohl einfach die Kruste von 15000 Jahren Regierung. Da kann sich richtig doll was ansammeln, und irgendjemand der hier frische Ideen rein bringt ist weit und breit nicht zu sehen. Da bleibt also wohl nur geduldig abwarten. Ich muss übrigens sagen das meine eigene Identifikation mit der ganzen Adelshausgeschichte quasi inexistent ist. Klar, es ist ganz nett all die Rechte und Privilegien zu haben, aber das ganze Drumherum, und ich meine nicht nur die Pflichten sondern auch die Politik, Bittsteller und Speichellecker sind mir schon ein wenig ein Dorn im Auge.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 17.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -1143,6 +1143,50 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
+##### #81
+
+* Titel: `Rogue Trader - 81 - Dargonus: Achilleas Scalander [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe immer wieder Schwierigkeiten damit mir komplexe System vorzustellen. Also quasi alles, Insektenbaue, Regierungen, Zivilisationen, einfach alles. Wenn man sich die Details anschaut sind all die Prozesse so unendlich komplexe, fraktal, detailreich bis in die kleinste Ecke. Und doch funktionieren diese Dinge. Aber ich kann nicht erfassen wie. Einige Dinge scheinen einfach in der Natur und Kultur der Menschen zu liegen, historisch gewachsene Strukturen und Erfahrungen aus Hunderten von Jahren an Probieren und Scheitern. An sich muss man sich damit auch eher selten beschäftigen, aber ich habe irgendwo tief im Hinterkopf das ich noch einmal irgendwas Fantasy schreiben will. An sich gibt es mehr als genügend Autoren, viele von ihnen nicht gut aber auch nicht schlecht. Was macht da schon einer mehr. Wie dem aber auch sei, ich schreibe das alles weil die Person die wir heute treffen eines dieser tausend Zahnräder ist die dafür sorgen das diese massiven System irgendwie weiter machen bis in die Unendlichkeit...fraktale Abgründe, überall.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 18.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #82
+
+* Titel: `Rogue Trader - 82 - Dargonus: Gouverneur Drivestem [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Im Beschreibungstext der letzten Episode habe ich lang und unzusammenhängend davon erzählt wie unendlich komplex Regierungen, Verwaltungsapparate und Bürokratie sind. Jedes Zahnrad hat seine Position aber ich habe nie behauptet das es sich um ein unfassbar solides System handelt, nur das es komplex ist und irgendwie funktioniert. Das "irgendwie" ist hier eine sehr tragende Wand für das große Ganze. Das System ist unendlich instabil, an jeder Ecke läuft das Öl aus der Maschine, Mittel versickern und Korruption muss nicht einmal gesucht werden. Wo ein Trog ist da sammeln sich Schweine. Das ist übrigens nicht viel anders in der echten Welt. Würden Regierungen wirklich und wahrhaftig effizient laufen würden wir ganz woanders stehen. Leider sind die System immer noch unendlich komplex, alles was Menschen vermögen ist es ein unendlich komplexe und grade so funktionierendes System zu erschaffen, kein gut organisiertes. Und da wo das Öl raus leckt da sammeln sich jene die sich die Taschen aufmachen, je höher die Position, je größer die Tasche. Und damit habe ich quasi alles was ich von Gouverneur Drivestem halte gesagt. Hätte ich eine Maschine die weniger löchrig wäre würde ich sie jetzt raus holen, aber offensichtlich überlebt Drivestem unser Treffen. Unendlich komplexe Systeme...
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 18.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #83
+
+* Titel: `Rogue Trader - 83 - Dargonus: Hafenbehörde [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor langer Zeit, in einem Let's Play das ein wenig ähnlich wie dieses hier, nur noch vergessener war weil es Witcher 3 war, bin ich im zweiten DLC in eine Bank gegangen um Geld abzuholen, ein vererbtes Bankfach...damals ging ich zu Schalter 1..holte ein Formular und dann verlor ich mich in den Dschungel der Bürokratie. Kenner haben natürlich sofort den Kulturklassiker aus Asterix und Obelix in Rom erkannt. Ich nicht übrigens. Mittlerweile habe ich die Wissenslücke aber zum Glück aufgeholt und deswegen mache ich heute die Referenz und nicht das Spiel.
+  
+  Eventuell sind auch nicht alle Entwickler auf der ganzen Welt durch das gleiche Kulturgut geschädigt. Statt eine Galeere versuchen wir ein imperialen Handelsbrief zu erringen. Könnte aber quasi das gleiche Prozedere sein. Ich möchte nebenher feststellen das wir quasi der oberste Anführer auf diesen und weiteren Planeten sind. Mehr noch, Milliarden an Menschen würden alles für uns tun..aber in den Augen der imperialen Verwaltung ist unser einzinstes Privileg das wir die Wartenummer #1 haben, immer. Alles danach dauert so lange wie es dauert.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
 ##### #Nummer
 
 * Titel: ``

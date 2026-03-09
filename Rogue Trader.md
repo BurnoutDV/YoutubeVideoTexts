@@ -1187,6 +1187,102 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
+##### #84
+
+* Titel: `Rogue Trader - 84 - Schiff: Schwierige Persönlichkeiten [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als Freihändlerin ist es quasi meine Aufgabe irgendwelche Individuen aufzulesen die aus dem Raster fallen, Ketzer, Xenos, unsanktionierte Psyker, ich habe sie alle. Das Problem ist jetzt aber das diese Leute nicht nur unter Umständen ihre eigenen Sorgen haben sondern auch ansonsten Schwierigkeiten mit sich bringen. Cassia beispielsweise verzerrt den Geist der einfachen Leute, Idira reißt Löcher in die Realität und unsere Weltraumelfe ist gar nicht mal so gut darin quasi ungeschützt durch den Warp zu reisen. Das sorgt dafür das wir sehr viel Regierungsarbeit an korrupte Politiker abgeben müssen damit wir genügend Zeit haben die Wogen an anderer Stelle zu glätten. Diese Experten die wir im Gefolge haben sind ja nicht nur schlecht, die können ja durchaus was, viel mehr als es ein einfacher imperialer Soldat kann, aber dafür muss man halt einen Preis zahlen. Ideal wäre natürlich ein Ausnahmetalent ohne Probleme, aber...dazu ein Witz:
+  
+  "In dieses Auto können sie fünf Leute ohne Problem packen." "Ich kenne nicht mal zwei Leute ohne Probleme!"
+  
+  Wie dem aber auch sei, als Freihändlerin wissen wir natürlich um den Wert bestimmter Individuen, und mit unserer goldenen Zunge navigieren wir geschickt die Untiefen der vielen Charaktere.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #85
+
+* Titel: `Rogue Trader - 85 - Schiff: Blutbad [Let's Play, ger, blind]`
+
+* Titel: `Rogue Trader - 85 - Schiff: Waschung in Blut [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Quest die wir heute machen und die uns noch eine Weile beschäftigen wird heißt eigentlich "Waschung in Blut", aber ich fand den anderen Titel irgendwie witziger und jetzt stehen wir hier. Falls du doch den anderen Titel siehst..Youtube hat so ein A/B Feature das ich selten benutze, allerdings wäre das erst bei N⪢500 aussagekräftig und N ist offensichtlich die Anzahl der Zuschauer, in der Regel ist N aber eher ⪡10. Aber das hat mich ja noch nie aufgehalten, mit diesem Newcomer Kanal im 15ten Jahr wachse ich bestimmt ganz doll. So, davon abgesehen, ein feiges Attentat wurde auf uns verübt! Ich frage mich übrigens wirklich was überhaupt ohne das Void DLC passieren würde während man durch die Leere fliegt. Weil all diese Ereignisse die irgendwie zusammengehören und in denen das blutgesponnende Netz verstrickt ist gehören ja zum DLC. Und ja, das ist sofort meine erste Vermutung, die haben in ihrer Höhle große Blutfälle, das sind die ersten Leute an die ich bei sowas denke.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #87
+
+* Titel: `Rogue Trader - 86 - Raum: Langreens Gürtel [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gefühlt könnte ich immer noch auf Footfall angedockt sein und mich irgendwie mit meiner Crew beschäftigen, neben random Attentatsversuche (auf meine Ehre) durch Jae, dem niederen Personal das sich in irgendwelchen Kulten verliert, den Enforcern die mit mehr Brutalität alles schlimmer machen und einem Gefolge mit genügend Probleme für einen ganzen Planeten brauche ich quasi gar keine neuen Orte mehr besuchen. Die ganze Unterhaltung reist quasi mit. Das hat man davon wenn das Raumschiff mehr eine fliegende Stadt ist, und da machen wir uns über die Weltenschiffe der Aeldari lustig, dabei ist unser eigenes Flaggschiff kein Stück anders, nur das es wahrscheinlich noch weniger frei ist.
+  
+  Und doch..heute raffe ich mich auf und fliege mal ein System weiter bevor ich mich wieder in Lokalpolitik verliere.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #88
+
+* Titel: `Rogue Trader - 87 - Langreens: Geplünderte Leerenstation [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe gar nicht so viel Sci-Fi gelesen wie ich eigentlich gerne würde. Ich könnte natürlich auch noch um "gesehen" erweitern aber ich finde das Science Fiction ein echtes Problem hat in Bild gebannt zu werden weil man quasi immer teure Special Effects braucht, andernfalls wird es wie Stargate und spielt nur an Orten die wie kanadischer Wald aussehen oder Star Trek mit tausend verschiedenen Menschen in Karnevalskostüm. Der Fokus liegt dann halt mehr auf die Charakterinteraktion und nicht mehr auf die Weiten des Alls. Stargate: Universe hat das Ganze interessanterweise ganz gut eingefangen, auch wenn es da größtenteils die dreimal überwachsenen Überreste der Zivilisation waren. Aber es gibt da noch soviel mehr. Der Weltraum ist gewaltig, das alleine kann schon Angst machen. Oft kann man übrigens Unterwasserstation und Weltraum quasi austauschen, allerdings ist es leichter an eine Raumstation irgendwo am Rand des Nichts zu glauben als an eine große Einrichtung im Mariannengraben. Worauf ich eigentlich hinaus will: der Weltraum in 40K ist ein wenig kleiner als eigentlich, größtenteils weil die Warpreisen dafür Sorgen das Reisende in der Regal bei Points of Interesst rauskommen und nicht im leeren Raum zwischen den Sternen. Andererseits sorgt es auch dafür das das Leben in einem künstlichen Habitat quasi jede Sekunde spannend ist weil irgendwelche Aliens aus dem Warp springen können und dann kann es ganz schnell gehen..oder andere Menschen die nebenberuflich Piraten sind.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #88
+
+* Titel: `Rogue Trader - 88 - Raum: Vergessener Zwilling [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mein Bordcomputer hat gesagt das ich eine Quest habe die daraus besteht in ein System zu fliegen das sicher der vergessene Zwilling nennt. Das habe ich dann endlich gemacht, zwischendurch wurde ich ungefähr 100 Mal aufgehalten, aber wir sind dann endlich da um letztendlich auch genau gar nichts zu machen. Das ist aber voll okay, schließlich gibt es hier eh nichts außer das der Maschinengeist in den Eingeweiden des Schiffes jetzt glücklich ist. Generell und überhaupt sind Computer im 40K Universum mir ziemlich suspekt. Manche funktionieren ungefähr so deterministisch wie man das erwarten würde, aber der Großteil halt eher gar nicht weil da eine lobotomiertes menschliches Gehirn oder auch zwanzig drin stecken die in einem Zustand des halb träumenden Dahinsiechens sind und deswegen dafür Sorgen das wir eher kein Binär sondern Binhär haben und das ist in der Praxis wohl doch ein ganz schöner Unterschied. Zum Glück muss ich die Treibstoffrechnung nicht selber zahlen und mit jedem Warpsprung sterben auch nicht ein paar hunderte Leute an einem undichten Gellerfeld oder so.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 27.02.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #89
+
+* Titel: `Rogue Trader - 89 - Schiff: der große Lauschangriff [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben Würmer in den Eingeweiden unseres Raumschiffes..und das ist ein Problem. Ich bin übrigens mit dieser Art der Bedrohung überhaupt nicht vertraut, also so gar nicht. Mir war nicht einmal bewusst das ein Konzept wie der vielarmige Imperator überhaupt existiert. Ich weiß auch nicht welcher der Warpgötter dafür verantwortlich ist oder ob das überhaupt einer der Großen ist oder eher irgendeine andere Entität die zwar kleiner aber dennoch echt mächtig ist. Klar ist nur das sich irgendwie Leute die wir schon auf dem Schiff hatten verändert haben. Das ist nicht besonders überraschend, Menschen die irgendetwas anbeten kriegen ziemlich schnell Schuppen oder Hörner, die Veränderungen sind da je nach angebeteter Gottheit eigentlich relativ konsistent. Umso seltsamer ist es eigentlich das Frömme gegenüber dem Imperator keine Veränderungen zur Folge hat..es sei den die normale unmutierte menschliche Form ist bereits die Endstufe, wenn man dann der Logik folgen würde würden der imperiale Glaube ja quasi die Mutationen des restlichen Warps und des Weltraums als Solche gegenwirken. Ich bin aber exakt nicht informiert. Problem ist auf jeden Fall das sich die Diener dieses neuen Feindes quasi perfekt tarnen, wenn wir nicht jeden einzelnen Menschen auf dem Schiff aufschneiden würden kämen wir da nie irgendwo an. Und das möchte ich ehrlich gesagt nicht. Also greifen wir zu einer "technischen" Lösung mit greifbaren Risiko..dem großen mentalen Lauschangriff. Die StaSi wäre stolz auf mich.
+  
+  0:00 Dialoge
+  13:31 Kampf im Warp
+  48:22 Dialoge 
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
 ##### #Nummer
 
 * Titel: ``

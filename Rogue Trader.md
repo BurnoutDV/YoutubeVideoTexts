@@ -1263,6 +1263,14 @@
   Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
   Aufnahme vom 27.02.2026
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  10:03 Level Up Bonanza
+  18:07 Dialoge auf Schiff
+  18:53 Raumerkundung Vergessener Zwilling
+  23:43 Dialoge mit Computer
+  26:24 Raumerkundung
+  
   ```
 
 ##### #89
@@ -1281,6 +1289,60 @@
   Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
   Aufnahme vom 02.03.2026
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #90
+
+* Titel: `Rogue Trader - 90 - Schiff: Plasmatriebwerk-Kammern [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine gute Seite hat dieser ganze Verrat im Inneren ja, wir sehen Teile unseres Schiffes die wir sonst nie bereisen würden. Außerdem fällt auf das es so rein menschlich nicht so gut bestellt ist. Das sollte absolut niemand überraschen, aber so im Detail und unter der Lupe gesehen ist diese Grim Dark Reality of the 41th Millinium schon ziemlich dunkel und man fragt sich ein wenig wofür das Imperium überhaupt kämpft wenn das die Realität ist. Realistisch gesehen wäre das Universum wahrscheinlich wesentlich besser dran ohne all diese Bewusstseine die leiden. Zum Thema, die Plasmatriebwerke sind relativ wichtig, wir haben eine ganze Anzahl an Triebwerken aber jedes Einzelne davon hat eine Bedeutung. Unser Raumschiff kann größtenteils nur gradeaus durch den Raum gleiten, alles Andere müssen wir dann in großartigen Wendemanövern leisten. An sich gibt es übrigens keinen Grund das Raumschiffe wie Flugzeuge gebaut sind. Sie könnten genauso gut Kugeln sein, aber Dinge mit Flügeln oder klarem Vorne und Hinten sehen halt einfach ästhetischer aus.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #91
+
+* Titel: `Rogue Trader - 91 - Schiff: Geist der Vergangenheit [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der Regel spricht man ja eher im übertragenden Sinne davon das einen die Vergangenheit heimsucht. Ich der jetzt in sein viertes Lebensjahrzehnt geht schwelge zum Beispiel viel von meiner verschwendeten Jugend, wie ich meine 20er darauf verballert habe League of Legends zu spielen was sich jetzt im Nachhinein als ziemliche Zeitverschwendung ohne echte Erfolge abzeichnet. Es gibt da noch ein paar andere Dinge die ich irgendwie doch bereue aber alles was mir bleibt ist auf ein Wunder oder Akzeptanz für das Hier und Jetzt und was ich noch verändern kann zu hoffen. Und so stehe ich oft da und denke an das Damals. In anderen Welten ist das Damals ein wenig konkreter, aber ich habe halt kein ehemaliges Leben als Auftragskiller das eine Menge Kollegen, Feinde, Witwen und Halbwaisen mit einer Agenda hinter lässt. Es wird eher niemand auf meinen Hof fahren und mich nach einem letzten großen Auftrag fragen.
+  
+  Zurück im 40K Universum kann es einen passieren das nicht irgendjemand mit seinem Jeep unsere Farm in Kentucky besucht (mal davon abgesehen das das wahrscheinlich eh nukleares Niemandsland ist) sondern das die Geister der Vergangenheit sehr greifbar direkt vorbei kommen egal wo man sich aufhält. Hach, die Wunder des Meer der Träume. Einfach fantastisch.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  18:17 Kampf
+  36:08 Dialoge 
+  ```
+
+##### #92
+
+* Titel: `Rogue Trader - 92 - Schiff: Hirte der Reinen [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So ganz eigentlich wollte ich durch das Universum oder zumindest die Koronus Ausdehnung fliegen um neue System zu erkunden, aber das gewaltige Pulverfass das mein eigenes Schiff ist sorgt dafür das ich nicht wirklich vorran komme. Immerhin können wir davon ausgehen das wir eigentlich sowieso Downtime haben weil als Anführer eines Raumschiffes während eines Warpsprunges einfach absolut gar nichts passiert. Wahrscheinlich müssten wir uns um Kolonieverwaltung kümmern und andere administrative Aufgaben weil sonst die gierigen Verwalter die ganzen Pfründe abschöpfen. Das ist so generell ein wenig unser Problem oder, das wir zwar alles in fähige Hände legen können aber so wie die Dinge laufen kann man sich quasi darauf verlassen das dann direkt der Profit sinkt wenn die Leute nicht extra fähig sind um mehr Effizienz raus zu holen damit ihre eigene Gier ausgeglichen wird.
+  
+  Zurück zum Thema, wir haben Würmer, habe ich schon erwähnt, aber heute kümmern wir uns um die chirurgische Entfernung. Kleines feines Detail ganz am Ende übrigens, die komischen Xenos Anbeter haben sich in der Crypta angesiedelt weil niemand je da hin kommt. Also diese ganze Andacht an all die großen ehemaligen Diener...geht ziemlich ins Leere weil scheinbar nie jemand die Hallen betritt. Das ist irgendwie ironisch oder?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Durchs Dunkle tapern
+  12:50 Kampf
+  1:04:32 Dialoge
   ```
 
 ##### #Nummer

@@ -1345,6 +1345,59 @@
   1:04:32 Dialoge
   ```
 
+##### #93
+
+* Titel: `Rogue Trader - 93 - Schiff: Zwischenverwaltung [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe im Vorbeigehen ja schon erwähnt das, wenn wir die Verwaltung anderen Leuten überlassen man sich quasi darauf verlassen kann das es entweder unmenschlich (siehe die Enforcer) oder einfach nur ineffizient wird (Gouverneure) weil sich alle Beteiligten ein Stück vom Kuchen abschneiden wollen. Und dann gibt es da aber noch die Aufgaben die außer mir einfach niemand anfasst. Zum Beispiel die Grobplannung für die Kolonien, da möchte natürlich am Ende keiner Schuld sein, ist ja auch alles hoch komplex, was wenn da was schief geht oder die falsche strategische Richtung eingeschlagen wurde. Manchmal kann man im Gefolge noch ein wenig Rat erfragen, aber unterschreiben würde da auch keiner für.
+  
+  Komplett andere Geschichte, das hin und herschieben von Ausrüstung, ich habe ein wenig das Gefühl das das Interface von Rogue Trader für die schiere Menge an Equipment die wir da haben, nicht ausgereift genug ist. Mir fehlt hier irgendwie Tiefe. Irgendetwas was mir hilft mehr den Überblick zu bewahren.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 die letzte Episode durchsprechen
+  2:25 Lettard Forius
+  6:52 Level-Up Lvl 23
+  14:33 Kolonie Verwaltung
+  30:52 Inventar Verwaltung
+  ```
+
+##### #94
+
+* Titel: `Rogue Trader - 94 - Mo-Rho 79 [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nicht jedes System das ich betrete hat einen tieferen Grund. Ich würde ja behaupten das mich ein stetiger Erkundungsdrang nach vorne treibt, aber die traurige Realität ist das ich gerne auch irgendwann einmal irgendwo ankommen würde aber das ist halt nicht so einfach wenn man nur begrenzt weit springen kann und nicht so viele Routen kennt. Das führt dazu das wir zumindest kurz irgendwelche System betreten die gar nicht so weiter interessant sind. Andererseits ist jede Reise durch den Warp auch irgendwie gefährlich und wenn man dann schon einmal irgendwo im Realraum angekommen ist wäre es wirklich Verschwendung die Gelegenheit nicht zu nutzen und sich doch vor Ort einmal um zu schauen. Das führt uns dann zu der heutigen Räuberpistole bei der ich wirklich nicht weiß ob ich in irgendeiner Hinsicht eine moralische Entscheidung hätte treffen können. Immerhin gab es eine Raumschlacht bei der ich mich nicht komplett zum Obst gemacht habe, das ist doch was.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raumerkundung
+  3:55 Inventarmanagement
+  9:32 Raumerkundung
+  11:30 Kampf im Weltraum
+  27:15 Dialoge
+  28:45 Raumschiffupgrades
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

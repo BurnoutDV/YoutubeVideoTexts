@@ -15,7 +15,7 @@ Playlist:
 
 ##### #1
 
-* Titel: ``
+* Titel: `Prolog: Eine rote Rose`
 
 * Beschreibung:
 
@@ -25,7 +25,17 @@ Playlist:
   Spielerisch, heißt diese erste Episode immerhin nicht "Charaktererstellung". Wir spielen in jedem Fall Gustave und daran gibt es auch nichts zu rütteln. Ich weiß nicht ob wir irgendwann irgendwelche Begleiter nicht mitnehmen können bzw. die Auswahl haben. Aber für den Moment sieht es so aus als würden wir ein wenig auf Schienen fahren.
   ```
 
-##### # #
+##### #2 #
+
+* Titel: `Prolog: Akzeptanz & Verweigerung`
+
+* Beschreibung:
+
+  ```markdown
+  Es fällt mir ein wenig schwer diese Beschreibung zu schreiben weil seit dem eine Menge Zeit vergangen ist. Der Anfang von Clair Obscure Expedition 33 bringt aber schon ein gewisses Schwergewicht mit sich das man eigentlich gar nicht genug betonen kann. Zumindest die Emotionen und das gesammelte Verständnis einer ganzen Zivilisation für eine unabwendbare Katastrophe kommt sehr gut rüber. Dieser simple Fakt das es morgen einfach einen bestimmten Anteil der Bevölkerung nicht mehr gibt, vielleicht war das alles noch einfacher zu verarbeiten als es Zeit für die 84te Expedition oder so war. Aber jetzt mit der 34...das ist schon verdammt jung, Menschen die grade ihre Richtung gefunden haben werden einfach so aus dem Leben gerissen. Und doch wusste jeder schon vorher das es soweit sein wird. Das ganze ist ein schrecklicher innerer Konflikt der es umso beachtlicher macht das diese Gesellschaft nicht schon lange zerbrochen ist.
+  ```
+
+##### #Nummer
 
 * Titel: ``
 

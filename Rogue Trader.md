@@ -1388,14 +1388,114 @@
   28:45 Raumschiffupgrades
   ```
 
-##### #Nummer
+##### #95
 
-* Titel: ``
+* Titel: `Rogue Trader - 95 - Schiff: die Sünden des Zaccary Weisz [Let's Play, ger, blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Ich hatte es ja eigentlich schon lang und breit dargelegt, aber hier die Wiederholung, es gibt Dinge die einen persönlich einholen und dann gibt es da diese Fälle wenn plötzlich Leute deine Farm besuchen die du dir für den Ruhestand gekauft hast. Das hier ist, erneut, ein Fall der zweiteren Kategorie. Etwas ärgerlich das wir keine richtige Übergabe als Freihändlerin erhalten haben und deswegen jetzt Stück für Stück die Untaten unseres Personals selber entdecken müssen und damit auch deren Leichen im Keller. Im Falle von Zaccary Weisz sind die Leichen natürlich zu erwarten weil diese Leute ihren Kopf in den Warp hängen, da ist es recht wahrscheinlich das da öfter mal was schief geht. Ich finde es übrigens beachtenswert das zumindest die älteren Veteranen Astrophaten scheinbar ziemlich alt werden. Scheinbar hat man gute Überlebenschancen wenn man genügend Erfahrung hat..oder die jungen Lehrlinge werden stattdessen über die Klinge geschickt wenn was passiert. Da es 40K ist vermute ich das Zweitere.
+  
+  Ich bin übrigens innerlich irgendwie immer noch zu sehr auf Happy Ends aus, die ganze Zeit hatte ich irgendwie gehofft das es irgendwie möglich ist die Toten in eine neue Hülle zu packen und wieder zu erwecken..aber das übersteigt wohl ein wenig unser Machtniveau.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raumerkundung
+  1:45 Neues vom Nemesit
+  7:45 Dialoge
+  ```
+
+##### #96
+
+* Titel: `Rogue Trader - 96 - Mundus Nulius: die Heartless [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht so recht was mich dazu getrieben hat nach Mundus Nullius zu fliegen. Für diejenigen die nur die Beschreibung lesen und gar nicht die Episoden schauen, das ist der Austragungsort der Steuereintreibung durch Proktor Solomorne. Im Groben ist die Mission also ein Schiff kampfunfähig zu schießen, dann ein Enterkommando anzuführen und den Kapitän zu stellen und danach den Zehnt wieder zurück in die imperialen Kassen zu führen. Bedeutet also mindestens eine Raumschlacht, dann diverse Gefechte mit einer Menge Verletzungen und dann ein Endkampf gegen einen Kapitän der wahrscheinlich irgendwelche üblen Xeno Waffen oder Ähnliches im Arsenal zur Verfügung hat..und da fragt man sich doch, ist uns das wirklich ein Mann wert der irgendwie nicht einmal in mein Setup passt?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  6:50 Raumschlacht
+  18:09 Dialoge
+  21:26 Erkundung
+  27:17 Kampf
+  ```
+
+##### #97
+
+* Titel: `Rogue Trader - 97 - Im Namen der Steuerfahndung [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Schiffe zu Entern ist quasi garantiert ein Verlustgeschäft. Und ich rede jetzt von der nautischen Variation. Raumschiffe sind noch eine ganz andere Sache. Es gibt auf Youtube diesen mehrteiligen 40K Clip namens Astartes durch einen Fan der wirklich gut in Animation ist. Das ist wie so ein Boarding aussieht wenn man absolute Elite Truppen zur Verfügung hat die die Definition von Übermacht sind. Wir haben das nicht, wir haben quasi einen zusammengewürfelten Haufen an Einzeltätern von denen keiner auch nur ein wenig stabiler als der durchschnittlich Astra Militarum Soldat ist. Solomorne und seine Jungs sind vielleicht etwas besser für so etwas geeignet, aber das sind auch Steuerfanatiker die für ihre Sache sterben würden. Ich nehme an das wir auch jede Menge Enforcer in den Tod schicken, aber im Großen und Ganzen kann ich mir echt nicht viele Gründe vorstellen in einen dunklen, unbekannten Metallkasten der potenziell mit Fallen gefüllt ist zu steigen. Naja, machen tun wir es trotzdem, herzlichen Glückwunsch.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Begrüßung
+  1:00 Level Up 
+  7:40 Proktor Einsatz
+  ```
+
+##### #98
+
+* Titel: `Rogue Trader - 98 - Brücke der Heartless [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die gute Nachricht ist das wir, das ist ein kursives wir, auch wenn du es nicht sehen kannst, es bis zur Brücke der Heartless geschafft haben. Der Proktor und seine Jungs hatten da nicht so viel Glück, aber jetzt sind wir halt hier und machen das Beste daraus. Es fehlt eigentlich nur noch Kapitän Sargona und seine Elitetruppen die sich auf der Brücke gesammelt haben. Mir ist übrigens nicht so ganz klar warum wir uns überhaupt die Mühe machen Sargona persönlich zu stellen. Klar, das mit der Gerechtigkeit klingt ja total süß und alles aber am Ende verurteilen wir den Mann eh zu Tode. Warum also persönlich auftauchen. Wir hätten einfach bestätigen können das er auf der Brücke ist und dann mit der nMakrokanone einmal freundlich die Frontscheibe sprengen. Aber anscheinend war das keine Option. Ich nehme natürlich an das der Zehnt irgendwo im Frachtraum liegt und relativ viel Masse hat. Das Schiff hört ja nicht auf zu funktionieren nur weil die Brücke vaporisiert ist. Aber aus irgendwelchen dramaturgischen Gründen machen wir das jetzt persönlich. Das Desaster ist quasi vorprogrammiert. Mehr dazu in dieser Episode.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  2:42 Solormone Level Up
+  12:58 Kampf auf der Brücke
+  ```
+
+##### #99
+
+* Titel: `Rogue Trader - 99 - ungeschützter Warpsprung [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn du keine Kämpfe magst, kannst du diese Episode komplett überspringen.
+  
+  Beim letzten Mal habe ich mich sehr beeilt schnell an den großen Schalter zu kommen der dafür sorgt das wir nicht in den Warp ohne Gellerfeld springen. Generell frage ich mich übrigens wie das eigentlich überhaupt passiert, soweit ich das verstanden habe kann man nur am Rande eines Systems überhaupt in den Warp übergehen. Auf der anderen Seite, vielleicht ist das auch keine harte Grenze, wir können schließlich auch einen Mini-Warpsprung im Kampf machen. Eventuell ist es bloß nicht besonders klug in der Einflusszone einer Sonne. Was definitiv nicht klug ist ist der vollständige Übergang in das Immaterium ohne Schutzschild. Das droht uns in 5 Runden, aber ich möchte mich nicht immer von Countdowns einschränken lassen, also schicken wir den Typen mit dem gebrochenen Bein los um den Knopf am anderen Ende des Raumes zu drücken.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 14.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  ```
+
+##### #100
+
+* Titel: `Rogue Trader - 100 - Kapitän Sargossas Ende [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die letzte Episode war eine offensichtlich Blamage die ich nur sehr ungern wiederholen möchte. Ich bin hier immer noch extrem gespalten. Entweder den Schwierigkeitsgrad senken oder noch einmal 30 Minuten an die Materie heran gehen. Ich habe kein Zweifel das ich das alles schaffen kann aber irgendwann ist auch mal Schluss. Und da sind wir schon wieder bei der Grundsatzdiskussion, ich behaupte immer und immer wieder das ich vor allem für die Geschichte da bin. Ich kann mir ehrlich gesagt auch nicht so recht vorstellen das sich irgendjemand überhaupt für das Zug um Zug Gameplay interessiert, es sieht nicht besonders flashy aus, neue Dinge erfährt man auch nicht und so richtig Erkenntnisse kann man meiner Meinung nach auch nicht ableiten. Was bringt es also? Mir, Spaß, offensichtlich. Und da sind wir am Punkt, ich mache diese Youtube Videos ja eigentlich damit ich Spiele durchspiele..aber das jemand sie guckt ist mir auch irgendwie wichtig. In die Nichts schreien tue ich ja schon mit diesen Beschreibungstexten oder den Commit Messages auf Codeberg. Ein wenig Zuschauerschaft wäre mir ja dann doch schon wichtig. Aber wer hat heutzutage noch die Zeit für die Minutia einer fremden Person.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 14.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf
+  18:12 Dialoge
   ```
 
 ##### #Nummer

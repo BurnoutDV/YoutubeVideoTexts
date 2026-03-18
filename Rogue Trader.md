@@ -1498,7 +1498,60 @@
   18:12 Dialoge
   ```
 
-##### #Nummer
+##### #101
+
+* Titel: `Rogue Trader - 101 - Schiff: Verbindungszerenomie [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auch wenn man es vielleicht vermuten würde, ich genieße es nicht Titel zu vergeben die gar nichts aussagen. An der Stelle auch gleich das Übliche, defacto guckt das hier sowieso niemand und selbst wenn liest sich niemand in der Massenabfertigung die einzelnen Titel durch und die einzige Person die jemals darüber nachgedacht hat bin ich. Das gesagt, ich bin echt bemüht mit den Titeln nicht die Handlung zu spoilern oder Ereignisse vorweg zu nehmen. Obwohl ich da auch nur immer auf den aktuellen Titel schaue, zukünftige Titel können also durchaus das was in der Zukunft kommen vorhersagen. Verbindungsritual ist jetzt aber wirklich gar nichts aussagend, das ist mir schon bewusst aber wenn ich jetzt erzählt hätte das wir einen Verräter suchen aber Kibellah die Mission alleine machen will dann würde das nicht in den Titel passen. Also beschränke ich diese Episode auf das Wesentliche.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Begrüßung, Mods
+  1:30 Schiffsverwaltung
+  3:20 Raumreisen
+  5:20 Latotians Passage: Unbekannte Ruinen
+  16:25 Dialoge
+  ```
+
+##### #102
+
+* Titel: `Rogue Trader - 102 - Schiff: die Jagd des Blutes [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin über diese Episode und ihrem Inhalt wirklich sehr erfreut. Nicht weil ich so gut performt habe, das war wahrscheinlich leider nur so eher mittelmäßig, sondern weil der Inhalt mal etwas ganz Neues ist. Wir sind nicht der Lord Captain und spielen als jemand Anderes. Und die Art und Weise wie das umgesetzt ist ist auch außerordentlich angenehm. Nicht nur einfach stumpf eine andere Perspektive sondern das wir die Welt wirklich aus Kibellahs Augen sehen, wie sie die Leute sieht, ihre Namen, ihre Gestiken und einfach Alles wie sie das wahrnimmt was wir sonst als Visper Cora von Valancius sehen. Und das ist schon ein anderer Blick in die Welt. Mir fällt übrigens dabei auf das Kibellah hochspezialisiert ist, außerhalb des Flaggschiffes wäre sie wesentlich weniger fähig, einfach weil sie so genau die Gepflogenheiten des Schiffes ausgelegt ist.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  ```
+
+##### #103
+
+* Titel: `Rogue Trader - 103 - Schiff: Tiefen des Verrats [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Verrat tut immer weh. Das liegt einfach an der Natur der Sache. Man kann nicht verraten werden wenn man nicht vertraut, nur wer sich jemanden hingibt kann auch hintergangen werden. Und dann tut das halt auch entsprechend weh. Wie alles gibt es hier Abstufungen, mancher Verrat schmerzt nicht so sehr wie Anderer. Eine Liebschaft kann tief in das Herz stechen, ein Geschäftspartner vielleicht nur eine blutige Wunde schlagen. Manche Verrate sind quasi vorhersehbar und doch hofft man das es nicht so ist. Man sollte sich auch immer vor Augen halten, die Leute lieben den Verrat, aber nicht den Verräter. Heute trifft uns eine Stelle von der ich dachte das sie eigentlich über jeden Zweifel erhaben ist, was nur umso mehr zeigt das kein Ort sicher ist. Kein Verrat zu groß, keine Ketzerei zu gemein. Es ist übrigens ein wenig fraglich wie wir überhaupt bis hier hin gekommen sind, es fühlt sich ein wenig sehr so an als hätte ein DM hier kurz mal so die Sachen gebogen das wir es überhaupt so weit schaffen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  9:40 Kampf
+  29:55 Dialoge
+  ```
+
+##### #104
 
 * Titel: ``
 

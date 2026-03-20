@@ -1553,6 +1553,62 @@
 
 ##### #104
 
+* Titel: `Rogue Trader - 104 - Schiff: Solomorne Anthar [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sobald es ein paar größere Gefechte gab passiert es ganz schnell das ich mich mit meinen Leuten auseinander setzen muss. Die haben schließlich auch eine Menge zu verarbeiten und müssen das gesehene jetzt auch irgendwie durch denken. Oder aber es ist einfach so Zeit vergangen und den Leuten ist wieder etwas neues eingefallen. Ich weiß nicht warum ich hier Seelsorger für mein gesamtes Team spielen muss aber andererseits habe ich ja die Leute ja auch größtenteils angeheuert und so habe ich auch eine gewisse Verantwortung der man wohl nach kommen muss. Ein schlechterer Lord Captain würde das vielleicht an den Kaplan oder irgendjemand Anderem vom Schrein delegieren, aber das würde eventuell Yreliet nicht so gut verstehen. Wir sprechen aber auch mit unserer neuesten Errungenschaft, dem Schuldeneintreiber Solomorne Anthar der einen recht coolen Namen hat, wahrscheinlich wurde der auch genau dafür ausgewählt. Wir erfahren...etwas über ihn, aber auch keine weltbewegenden Erkenntnisse, genau wie Argenta handelt es sich hier wieder um eine Person die eine Aufgabe kennt. Ich finde diese ganze Dienerschaft steht interessanten Persönlichkeiten im Wege.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 17.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Ausrüstung & Levelup
+  10:37 Dialoge
+  14:40 Dialog: Yreliet
+  19:49 Dialog: Solomorne Anthar
+  ```
+
+##### #105
+
+* Titel: `Rogue Trader - 105 - Dargonus: Atlas der Sternenwege [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alternativ heißt diese Episode übrigens auch "Audienz des Hauses Orsellio" auch wenn diese eigentlich bei mir vorbei kommen und eine Audienz bei mir erbeten haben. Im Gegensatz zu irgendwelchen Regenten im Mittelalter machen wir das mit der Audienz nicht ganz so oft und lassen und das richtig was kosten. Und das Schlimmste daran ist das die Leute etwas wollen das ich eigentlich auf gar keinen Fall zulassen möchte. Klar, uns wird vom Haus ziemlich sicher ein Ersatz Navigator angeboten aber ich bin ehrlich gesagt nicht bereit dieses Angebot anzunehmen wenn ich mich mit dem den ich habe schon so gut verstehe und diese schon gezeigt hat das ihre Fähigkeiten sehr gut sind, warum sich mit einer Alternative abgeben? Das das Ganze dann auch noch existiert und wir von Etwas das sich "Atlas der Sternenwege" erfahren konnte nun aber auch wirklich niemand ahnen. Ich hatte es ja schon geäußert, aber es scheint echt so als wäre keiner meiner Begleiter ein unbeschriebenes Blatt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 17.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raumreisen
+  3:47 Audienz des Hauses Orsellio
+  8:08 Kampf
+  18:00 Dialoge
+  ```
+
+##### #106
+
+* Titel: `Rogue Trader - 106 - Dargonus: Bitte des Administratum [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn es um das Vorsprechen diverser wichtiger Persönlichkeiten geht bin ich ziemlich opportunistisch, jede Reise durch den Warp könnte potenziell unsere Letzte sein. Allerdings glaube ich das die Dinge gar nicht so schlimm sind weil das Haus Valancius es anscheinend geschafft hat die letzten 10000 Jahre mit dem gleichen Schiff durch die Leere zu fliegen und es immer noch existiert. Klar, der Warp ist gefährlich, aber wohl eher für das Individuum und nicht für die Idee der Sache. Ich frage mich allerdings was passiert wenn ich irgendwelche Würdenträger einfach ignorieren würde. Das Administratum lässt sich ja offensichtlich gewaltige Zeit mit irgendwelchen Vorgängen und die Steuerfahndung scheint mir auch sehr nach Einzelfall und Lust und Laune zu handeln. Ich bin mir ziemlich sicher das ich die entsprechenden Personen im Zweifel Jahrzehnte lang auf mich warten lassen könnte. Das mache ich jetzt nicht, aber so trocken wie die ganze Veranstaltung dann am Ende doch war frage ich mich doch warum ich es nicht getan habe.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 20.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Eingangsgelaber über Technik
+  4:14 Dialoge
+  24:55 Kolonieverwaltung
+  ```
+
+##### #Nummer
+
 * Titel: ``
 
 * Beschreibung:

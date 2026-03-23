@@ -1607,6 +1607,60 @@
   24:55 Kolonieverwaltung
   ```
 
+##### #107
+
+* Titel: `Rogue Trader - 107 - Schiff: Nemesit der Kelemorph [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Natürlich wäre es viel zu einfach gewesen wenn der Nemesit wirklich einfach nur ein Volksheld bzw. eine Folge von Volkshelden gewesen wäre die sich wirklich in ihrer ganzen Menschlichkeit irgendwie durch gearbeitet hätten. Gut, so wie die Ausgangsbedingungen im Bauch des Schiffes sind war das von Anfang an eine ziemlich unwahrscheinliche Geschichte. Die Enforcer drehen den ganzen Tag nicht nur Däumchen, auch wenn man sich schon fragen muss warum am Ende des Tages entweder ich die Probleme alleine löse oder meine Schlägertruppe die Dinge schlecht angeht. Heute ziehen wir endlich einen Schlussstrich und erschießen den dreiarmigen Unruhestifter der sich so lange hat in meiner Mitte aufgehalten. Allerdings muss man sich schon fragen warum das alles an mir hängen bleibt wenn Theodora dieses Schiff jahrhundertelange hatte. Warum muss das ausgerechnet jetzt passieren wo ich schon genügend andere Probleme habe. Aber wahrscheinlich bedingt das Eine das Andere. Jetzt braucht man einen standfesten Lord Captain, das ist sicher.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 20.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Schiffsverwaltung
+  1:29 Dialoge: Cassia Slash Debriefing
+  10:29 Raumreise
+  11:12 Dialoge
+  16:27 Kampf
+  36:25 Dialoge
+  42:23 Loot
+  ```
+
+##### #108
+
+* Titel: `Rogue Trader - 108 - Schiff: fähige Hände [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich finde es fast ein wenig bedauerlich das Rogue Trader nicht...dichter ist. Andererseits findet das Rollenspiel genau da statt wo das Spiel raum lässt und man nicht nur von einer Situation in die andere läuft. Das ist ein schmaler Grad. Wenn das Spiel ein ultra dichtes Story Feuerwerk ist dann ist das natürlich großartig aber auch ein wenig stressig. Ironischerweise gibt es dann für mich weniger zu tun. Jetzt mal ganz Meta gesprochen. Mir ist auch klar das sich im Jahre 2026 so gut wie niemand mehr Let's Plays anguckt. Maximal live auf twitch weil man dann aktiv eingreifen kann. Und trotzdem mache ich weiter. Wie dem aber auch sei, je mehr ein Spiel von sich aus tut desto weniger Zeit habe ich etwas hinzuzufügen. Wenn ich ein richtiges 40K Genie wäre könnte ich übrigens noch wesentlich mehr brillieren. So kann ich leider nur mit moralischen Einsichten glänzen. Immerhin haben wir davon heute genügend Platz. Wer hätte übrigens gedacht das mein Steuereintreiber Probleme macht. Immerhin scheint er meine Befehlsgewalt ohne zögern anzunehmen.
+  
+  Eventuell ist das auch eine der größten Stärken von Solomorne. Der Mann ist bis auf die Knochen dogmatisch, andererseits akzeptiert er Authorität auch ohne Zögern. Auch wenn es noch so sehr gegen seine untergeordneten Prinzipien geht, aber die Regel Vorgesetzten und auch der Freihändlerin als Gesandte des Imperators zu folgen übertrumpft einfach alles.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  ```
+
+##### #109
+
+* Titel: `Rogue Trader - 109 - Schiff: Raumtorpedodirektkontrollmandat [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Episodentitel wird Euch von dem Steam Frühjahrssale präsentiert. Also eigentlich meiner Wishlist, außer ein Pixelart Spiel habe ich nichts gekauft, wofür auch, ist eh keine Zeit. Aber mir ist dabei aufgefallen das ich ein Spiel namens Planetenverteidigungskanonenkommandant, kurz PVKK auf meiner Wishlist habe. Ich weiß nicht ob ich das jemals spiele aber der Name alleine bringt mich durch dunkle Nächte. In der heutigen Episode gibt es Raumkämpfe und ehrlich gesagt, davon ein wenig zu viele für meinen Geschmack. Wir sind nicht völlig unerfolgreich, das liegt aber auch daran das ich hart schummele. Ich habe keine Problem damit knackige Kämpfe zu meistern, aber ich finde das ich im Weltraum viel zu wenig Optionen habe als das ich da irgendwie brillieren kann. Um ehrlich zu sein ist mir das alles zu stumpf. Daher würde ich das gerne delegieren, kann aber nicht. Immerhin levelt unser Schiff ein wenig so dass zukünftige Kämpfe etwas mehr taktische Tiefe erhalten. Ich frage mich übrigens wirklich was Theodora die letzten 200 Jahre oder so gemacht hat, ihr Schlachtschiff auszubauen auf jeden Fall nicht.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  ```
+
 ##### #Nummer
 
 * Titel: ``

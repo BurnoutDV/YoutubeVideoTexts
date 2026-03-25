@@ -1661,7 +1661,68 @@
   
   ```
 
-##### #Nummer
+##### #110
+
+* Titel: `Rogue Trader - 110 - Vheabos-IV: Tazarra die Erlöserin [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen ohne Bildung machen mir generell Kopfschmerzen. Und das ist ein eher systemisches Problem das echt deprimierend ist. So ganz unmittelbar macht es wenig Spaß mit jemanden zu interagieren der zwar irgendwie in der emotionalen Intelligenz und durch Lebenserfahrung erst einmal ganz normal wirkt, aber dann sich im Laufe eines Gespräches herausstellt das fundamental etwas fehlt und viele Annahmen die die Person hat auf Halbwahrheiten basiert oder fertige gebildete Meinungen sind die die Person von woanders übernommen hat. Das Ganze macht dann auch direkt das Problem auf das man sich immer selbst fragen muss ob man nicht irgendwelche Meinungen von jemanden Anderem übernommen hat. Oder man ist vielleicht einfach nur ignorant weil man ach so viel schlauer ist. In zweiter Ordnung bedeutet Wissen sehr praktisch Macht, viele Dinge flutschen einfach nicht mehr so gut wenn das einfache Volk weiß wie sehr es betrogen wird. Insofern gibt es wohl auch gute taktische Gründe das der einfache Bürger des Imperiums nicht direkt weiß was es mit den Drukhari auf sich hat oder wo der feine Unterschied in diversen Xenos Geschmacksrichtungen besteht, insbesondere wenn die selbe Grundart noch Unterteilungen hat. Das ist wie wenn Aliens auf der Erde landen würden und dann mit Erschrecken feststellen das es nicht die eine Weltsprache gibt und ihre Übersetzer nur auf Süd-Sahara Suaheli trainiert ist.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 24.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raumerkundung
+  2:14 Raumschlacht
+  8:30 Planetenerkundung
+  10:40 Dialoge
+  17:28 Kampf
+  28:40 Dialoge
+  ```
+
+##### #111
+
+* Titel: `Rogue Trader - 111 - Schiff: neugierige Schnüffler [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Willkommen in der Gemenge Episode. Es passieren irgendwelche Dinge die da halt passieren müssen aber so richtig konkret kann ich das jetzt alles nicht benennen. Also konzentriert sich der Titel auf die eine Sache die tatsächlichen einen gewissen narrativen Wert hat. Ich spreche selbstverständlich über unseren guten Proktor Anthar, den haben wir auch noch selber eingeladen weil ich irgendwie dachte das seine Fähigkeiten irgendwann einmal noch wichtig sein könnten. Leider kann er offensichtlich nicht einfach nur entspannen, ein paar Amasec genießen und ansonsten still wie der Rest des Gefolges in irgendeiner Ecke herumliegen und darauf warten das es einen neuen Einsatz gibt. Stattdessen macht er sich "nützlich" und sucht auf dem Schiff einer Freihändlerin nach imperial gesuchten Verbrechern. Das ist konzeptionell übrigens ganz interessant. Wir haben Maschinen die das Blut einer bestimmten Blutlinie ziemlich genau bestimmen können und diese Einrichtungen sind weit verbreitet genug das wir sie immer wieder an verschiedenen Stellen finden. Aber wie funktioniert das mit einer imperiumsweiten Datenbank über Verbrecher oder handelt es sich nur um die Calixis Abteilung? Selbst wenn das Imperium den genetischen Abdruck jeder Person erfasst, und es spricht Einiges dafür das es nicht so ist, wenn man sich die Problem anschaut die wir hatten eine Leiche zuzuordnen, dann wären das immer noch gewaltige Mengen an Daten die irgendwo lagern müssen und regelmäßig aktualisiert werden müssten. Weil niemand stopft damit den Äther voll oder?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 24.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  12:28 Level-Up
+  22:25 Kolonieverwaltung
+  29:00 Footfall
+  ```
+
+##### #112
+
+* Titel: `Rogue Trader - 112 - Footfall: Mutantenquartier [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute entdecke ich dann das wir quasi überall hin können wohin wir wollen, wir müssen nur einen ziemlich hohen Preis dafür bezahlen, aber sobald wir eine Route entdeckt haben ist die Reise quasi für immer kostenlos und so risikoarm wie es nur eine Reise durch den Warp sein kann. Das deckt sich auch ein wenig mit dem was ich von dem großen Vorteil der imperialen Warpreise gelesen gemeint zu haben. Die Menschen im Allgemeinen können wesentlich weiter springen als andere Völker. Die League of Wotan beispielsweise macht viele kleine Sprünge, das dauert aber länger, imperiale Schiffe können das auch falls dem Navigator was zugestoßen ist. Orks lassen sich treiben, Aeldari benutzen den Warp einfach gar nicht und ich weiß ehrlich gesagt nicht so recht was die Tau oder Tyraniden tun, Necrons haben wahrscheinlich ihren eigenen Webway oder so. Davon einmal abgesehen kann ich aus Erfahrungen aus Stellaris sagen das es extrem nervend ist wenn Leute einfach so durch den Warp springen können. Vor vielen Reworks, in den ersten Versionen von Stellaris konnte man sich zwischen drei Antriebsarten entscheiden, neben Warp-Lanes und Sprungportalen gab es da auch das frei herum warpen das einfach nur eine Reichweite hatte. Das ermöglicht es ziemlich simpel quasi überall Kampfschiffe hin zu bringen. Das Alles wurde dann später so verändert das das Sprungtriebwerk nur für Forschungsschiffe oder nur als riskante Technik verfügbar war. Das Imperium macht alles riskant weil Leben wenig zählen, dafür aber auch großartige Erfolge erzielen kann.
+  
+  Nachdem wir das jetzt alles erklärt haben ist ja klar das ich mal eben nach Footfall springe und ein paar Mutanten erschieße. Komplett logisch oder?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 24.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundungen
+  1:35 Kampf
+  12:51 Plündern
+  20:55 Handeln und Upgrades
+  ```
+
+##### #
 
 * Titel: ``
 

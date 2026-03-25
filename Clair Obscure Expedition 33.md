@@ -67,6 +67,36 @@ Playlist:
   Im Gegensatz dazu übrigens ein kleines Stück Philosophie das ich mir einmal erdacht habe, "Tommorow never comes". Das ist nicht wörtlich zu verstehen, der Morgen kommt, sicher. Aber nicht *der* Morgen, der kursive Morgen. Das abstrakte Morgen an dem ich endlich anfange Gitarre zu lernen, der Morgen in dem ich mich richtig meinen Sprachstudien widme oder das Morgen in dem ich lerne richtig zu singen. Dieses Morgen kommt nie. Das ist das ewig Morgen. So wie die Kernfusion immer 10 Jahre in der Zukunft liegt so ist auch diese Dämmerung immer einen Tag weiter entfernt als das Heute. Morgen ist eine Konstante. Die Zukunft bleibt die Zukunft egal wie weit du rennst. Die Zukunft von Heute wird die Gegenwart, aber das Morgen bleibt immer einen Tag entfernt. Tommorow never comes.
   ```
 
+##### #6
+
+* Titel: `Clair Obscure: Expedition 33 - #6 - Chromatischer Lehrgang  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Anfang von Spielen ist immer besonders spannend. Der Entwickler, die Designer und die ganzen anderen Leute mit den coolen Ideen präsentieren ihr Gesamtwerk aber wir können natürlich nicht von Anfang an alles sehen. Nur kleine Abdrücke des großen Stempels der einfach zu gewaltig ist als das wir ihn auf einen Blick erkennen können. Manche Elemente werden erst nach vielen Spielstunden klar oder werden zu nächst nur sehr zurückhaltend erklärt und später ausgewalzt. Ein aufmerksamer Spieler hätte natürlich Motive schon früher erkennen können, aber ich bin da ehrlich, ich bin hier um Spaß zu haben, nicht um wie in der Deutsch Klassenarbeit kleinste Details über zu interpretieren. Das könnte meine erste Schulreferenz seit mehr als einem Jahrzehnt gewesen sein. Aber wir lernen heute etwas, Farbe ist irgendwie wichtig, in vielen Aspekten, und Dinge die chromatisch sind sind besonders stark und droppen interessantere Gegenstände.
+  ```
+
+##### #7
+
+* Titel: `Clair Obscure: Expedition 33 - #7 - Sammelpunkt Indigoblau  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich werde mich in der fernen Zukunft ein wenig oft darüber aufregen das die einzelnen Expeditionen viel zu wenig Informationen zurück geschickt haben. Viele konnten auch nicht, einige der Tagebücher die wir später gefunden haben werden liegen im Epizentrum gewaltiger Schlachten und liegen in den Händen der letzten Person die von dieser Expedition am Leben war. Niemand wäre da gewesen um zurück zu kommunizieren. Das kann aber nicht immer so gewesen sein, einige Dinge scheinen bekannt zu sein, zum Beispiel das grobe Layout der Küste oder zumindest der von Küste sichtbaren Landmarken. Einer davon ist der große Indigobaum der entsprechend Blau ist und den Sammelpunkt schlecht hin darstellt. Von der großen Expedition 33 hat scheinbar so gut wie niemand überlebt, das ist wirklich erschreckend. Die schiere Masse an Leichen die wir schon gefunden haben ist erschreckend. Logischerweise sollte jede Expedition ein wenig kleiner sein als die letzte. Schon aus demographischen Gründen, aber auch weil die Begeisterung für Ausflüge sinkt.
+  ```
+
+##### #8
+
+* Titel: `Clair Obscure: Expedition 33 - #8 - Lager schlagen  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nur weil 95% der Expedition inklusive dem Kapitän und quasi aller Leute die wichtige Aufgaben erfüllen sollen tot sind heißt das ja nicht das wir nicht weiter machen. Der Morgen kommt und damit das auch sei bleibt müssen wir weitermachen. An der Stelle ein kurzer Gedanke warum unser Protagonist überlebt und so viele andere Leute nicht. Es ist jetzt nicht so das Gustave besondere plotarmor hat oder halt extra heraus genommen wird. Viel mehr wäre es ja ziemlich dumm eine Geschichte zu lesen in der der Protagonist nach einem relativ langen Einführungskapitel auf einmal stirbt. Gustave überlebt also nicht weil wir ihn beobachten sondern wir beobachten (und spielen ihn) weil er halt überlebt hat bzw. von Anfang an klar war das er überleben würde. Deswegen ist er unser Protagonist. Für die anderen Leute aus unserer Gruppe kann man das nicht sagen, Maelle ist wahrscheinlich sicher, die taucht definitiv wieder auf, aber Lune könnte jeden Moment eine Klippe herunterfallen.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

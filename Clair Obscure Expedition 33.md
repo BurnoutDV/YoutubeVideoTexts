@@ -97,6 +97,88 @@ Playlist:
   Nur weil 95% der Expedition inklusive dem Kapitän und quasi aller Leute die wichtige Aufgaben erfüllen sollen tot sind heißt das ja nicht das wir nicht weiter machen. Der Morgen kommt und damit das auch sei bleibt müssen wir weitermachen. An der Stelle ein kurzer Gedanke warum unser Protagonist überlebt und so viele andere Leute nicht. Es ist jetzt nicht so das Gustave besondere plotarmor hat oder halt extra heraus genommen wird. Viel mehr wäre es ja ziemlich dumm eine Geschichte zu lesen in der der Protagonist nach einem relativ langen Einführungskapitel auf einmal stirbt. Gustave überlebt also nicht weil wir ihn beobachten sondern wir beobachten (und spielen ihn) weil er halt überlebt hat bzw. von Anfang an klar war das er überleben würde. Deswegen ist er unser Protagonist. Für die anderen Leute aus unserer Gruppe kann man das nicht sagen, Maelle ist wahrscheinlich sicher, die taucht definitiv wieder auf, aber Lune könnte jeden Moment eine Klippe herunterfallen.
   ```
 
+##### #9
+
+* Titel: `Clair Obscure: Expedition 33 - #9 - das Herrenhaus  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mittlerweile diverse Spiele gespielt die in irgendwelchen großen Anwesen spielt und ich würde lügen wenn ich behaupten würde das es mir nicht irgendwie auch ein wenig gefallen würde in einem solchen Gebäude zu nächtigen oder ein paar Nächte und Tage zu verbringen. Soweit ich weiß gibt es solche Gelegenheiten beispielsweise in England, aber der Preis ist natürlich astronomisch. Für die richtige Erfahrung müsste die Einrichtung auch sehr exklusiv sein was den Preis umso mehr in die Höhe treiben würde. Kurzum, ich kann mir das nicht leisten. Nehmen wir das Carlisle Anwesen aus Hitman 3, 5 Leute wohnen da nominell und eine gefühlte Armee aus Dienern, Wachen und anderen Bediensteten die einfach dafür sorgen das der Ort am Laufen gehalten wird. Alles was größer als ein Einfamilienhaus ist, und ich bin mir da nicht einmal sicher, braucht eigentlich dauerhaft und zu jedem Zeitpunkt Wartung und Instandhaltung. Wenn man dann anfängt zu rechnen hat man entweder eine sehr sehr ungleiche Gesellschaft oder eine Unmöglichkeit. Alleine die Personalkosten machen ein Anwesen mit Gut quasi unmöglich. Und moralisch erst recht inakzeptabel. Eine Alternative bietet natürlich Automatisierung, mit genügend unbezahlter Arbeitskraft die kein Bewusstsein braucht kann man zumindest den moralischen Punkt abschwächen. Das Grundstück braucht man zwar immer noch aber so ist es immerhin etwas besser.
+  ```
+
+##### #9
+
+* Titel: `Clair Obscure: Expedition 33 - #9 - das Herrenhaus  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mittlerweile diverse Spiele gespielt die in irgendwelchen großen Anwesen spielt und ich würde lügen wenn ich behaupten würde das es mir nicht irgendwie auch ein wenig gefallen würde in einem solchen Gebäude zu nächtigen oder ein paar Nächte und Tage zu verbringen. Soweit ich weiß gibt es solche Gelegenheiten beispielsweise in England, aber der Preis ist natürlich astronomisch. Für die richtige Erfahrung müsste die Einrichtung auch sehr exklusiv sein was den Preis umso mehr in die Höhe treiben würde. Kurzum, ich kann mir das nicht leisten. Nehmen wir das Carlisle Anwesen aus Hitman 3, 5 Leute wohnen da nominell und eine gefühlte Armee aus Dienern, Wachen und anderen Bediensteten die einfach dafür sorgen das der Ort am Laufen gehalten wird. Alles was größer als ein Einfamilienhaus ist, und ich bin mir da nicht einmal sicher, braucht eigentlich dauerhaft und zu jedem Zeitpunkt Wartung und Instandhaltung. Wenn man dann anfängt zu rechnen hat man entweder eine sehr sehr ungleiche Gesellschaft oder eine Unmöglichkeit. Alleine die Personalkosten machen ein Anwesen mit Gut quasi unmöglich. Und moralisch erst recht inakzeptabel. Eine Alternative bietet natürlich Automatisierung, mit genügend unbezahlter Arbeitskraft die kein Bewusstsein braucht kann man zumindest den moralischen Punkt abschwächen. Das Grundstück braucht man zwar immer noch aber so ist es immerhin etwas besser.
+  ```
+
+##### #10
+
+* Titel: `Clair Obscure: Expedition 33 - #10 - Schiff 68  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  
+  
+  Vor der Expedition des Jahres 33 gab es einige mehr. Wir erfahren später auch genau wie viele Expeditionen mehr es waren. Wir haben ja bereits erfahren das quasi zur Expedition 100 der Bruch kam und seit dem die Uhr runterzählt. Aber es ist ja nicht so das die Leute direkt in Scharen aufgebrochen sind um sich den Kontinent anzuschauen. Viel mehr war man wohl sehr damit beschäftigt zu erst den Rest von Lumiere der noch existiert hat zu sichern. Irgendetwas von einer Schutzkuppel wurde erwähnt und da gab es dann wohl auch noch ein kleines Problem mit den Nahrungsmitteln. All das hat wohl dafür gesorgt das es keine 67 anderen Expeditionen gibt, die übrigens alle erstaunlich wenig zurück gemeldet haben. Wie sonst ist zu erklären das wir uns größtenteils mit gefährlichen Halbwissen herumschlagen. Kleiner Spoiler für die Zukunft der auch egal ist weil das hier ja eh keiner liest, aber nicht alle Expeditionen sind klassisch mit Schiff gefahren. Selbst die Art der Schiffe war unterschiedlich, aber heute finden wir in der Tat einen Klassiker, die Expedition des Jahres 68 vor Null. Sie hatten wohl nicht so viel Glück.
+  ```
+
+##### #11
+
+* Titel: `Clair Obscure: Expedition 33 - #11 - Fliegende Wässer  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Kontinent ist ein fantastischer Ort. Vielleicht ist es auch einfach jeder Ort fantastisch nachdem der Bruch geschah. Ich weiß ehrlich gesagt auch nicht so recht was jetzt eigentlich vor gefallen ist. Im Witcher Universum gab es das Konzept der Sphärenkonjugation was unwissenschaftlich zusammengefasst einfach nur das temporäre Überlappen von zwei Welten war was dann dazu geführt hat das Wesen der einen Welt in die andere gekommen sind. Dort aber war es eher eine Migration ohne direkte physische Addition von Landmassen. In dieser Welt hier scheint der Fall ein wenig anders gelagert zu sein, was auch immer Lumiere vorher war, ich nehme an es war einfach nur Europa, hat sich in diese Welt verschoben, der Übergang war offenbar ziemlich brutal und hat Einiges auseinander gerissen. Vielleicht war man auch daran selber schuld weil es ein wenig seltsam ist das Lumiere als Zentrum in einem Stück geblieben ist. Das spricht ein wenig dafür das es das Epizentrum der Kraft war. Aber das ist wirklich nur meine Vermutung. Ich weiß absolut nichts. Auch nicht mit dem Wissen künftiger Episoden. Die Malerin hat in der Theorie beispielsweise gar keinen Platz. Fest steht aber, auch die Stadt mit den Eiffelturmresten könnte fantastische fließende Wässer haben, hat sie aber nicht. Warum weiß ich nicht, vielleicht ist dort die Welt realer, vielleicht ist es einfach so durch Zufall. Immerhin gibt es dort auch einige Wunder. Nur halt Andere.
+  ```
+
+##### #12
+
+* Titel: `Clair Obscure: Expedition 33 - #12 - Blumenmeer   [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Alles was der Mensch sieht das will er auch besitzen. Oder aber auch, es fällt dem Menschen sehr schwer etwas zu sehen und nicht besitzen zu wollen. Da man meistens nichts als Erstes irgendwie ankommt führt das dann dazu das man nicht die volle Bandbreite der Natur sehen darf wenn man dann auch mal ankommt. Irgendjemand Anderes war schon da und hat Teile der örtlichen Herrlichkeit mitgenommen. Außer man ist Entdecker auf einen spärlich erkundeten Kontinent und findet Dinge wirklich zum ersten Mal. Leider heißt das in der Regel auch das man sich unbekannten Gefahren aussetzt. Da Menschen ziemlich singuläre Agenten sind ist die kleinste mögliche Verlustanzahl auch eine Person, kann aber locker auch mal "eine ganze Gruppe" sein. Und das ist dann eher nicht so gut. Hoffen wir also das der Ort den wir heute betreten nur schön aber nicht tödlich ist.
+  ```
+
+##### #13
+
+* Titel: `Clair Obscure: Expedition 33 - #13 - Weg zum Heiligtum  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Konzept der Heiligkeit ist etwas das mich immer ein wenig erheitert. Viele Dinge sind heilig für irgendjemanden. Irgendetwas kann zum Heiligtum erklärt werden, ein Ort, eine Person, eine Idee. Das Konzept ist wahrlich offen. Es gibt das recht antike Sprichwort das wenn man in Rom ist man sich auch wie die Römer verhalten soll. Kurzum, respektiere was die Leute sich lokal ausgedacht haben und greife nicht ein wen es nicht unbedingt sein muss. Das heißt also in der Praxis das wenn die lokalen Pinselköpfe sagen das wir jetzt ein Heiligtum betreten dann ist das jetzt ein Heiligtum und wir verhalten uns respektvoll im angemessenen Maß. Manchmal ist es allerdings ein wenig schwierig den Ansprüchen zu entsprechen. Insbesondere wenn die örtlichen Gepflogenheiten doch etwas befremdlich wirken.
+  ```
+
+##### #14
+
+* Titel: `Clair Obscure: Expedition 33 - #14 - das rote Heiligtum  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Namensfindung ist eine echte Kunst. Falls du, lieber und geschätzter Zuschauer gelegentlich diese Beschreibungen hier liest weißt du bereits das ich mich damit ein wenig schwer tue. Dinge benennen, gute prägnante Namen zu finden, das ist alles nicht so einfach selbst wenn man Jahre der Erfahrung hat. Insbesondere dann wenn der Klang allein nicht ausschlaggebend ist sondern man zu dem auch noch eine bestimmte Zuschauerschaft erreichen will oder im Meer der Durchschnittlichen sich irgendwie hervorheben will. Lügen ist natürlich ein offensichtliches Mittel, das setzt dann aber auch voraus das den Menschen der Clickbait egal ist. Ich würde übrigens behaupten das genau das der Fall ist. Wer auch immer das rote Heiligtum benannt hat hatte übrigens keine solche Sorgen und hat einfach losgelegt. Insbesondere wenn die Orte tatsächlich rot sind und es weit und breit keine anderen als Heiligtum definierten Orte gibt. Die Wahl einer Farbe impliziert aber in der Regel das es noch andere Orte mit farbigen Namen gibt, es ist aber auch nicht zwingend erforderlich. Ich persönlich fühle mich aber besser wenn es auch noch ein gelbes, blaues und grünes Heiligtum irgendwo gibt.
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

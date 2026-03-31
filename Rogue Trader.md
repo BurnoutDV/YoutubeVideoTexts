@@ -1722,7 +1722,68 @@
   20:55 Handeln und Upgrades
   ```
 
-##### #
+##### # 113
+
+* Titel: `Rogue Trader - 113 - Schiff: eine umgedrehte Karte [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das hier ist eine Mischmaschepisode und ich habe mich einfach für die eine Sache entschieden die zumindest ein wenig Geschichte erzählt. Es handelt sich nämlich um Kibellahs Zweifel an ihrer eigenen Person. Davon abgesehen gibt es natürlich noch eine Menge anderer Dinge die sich in der heutigen Episode finden. Das ist, jetzt rein meta gesprochen, ein wenig komisch. Auf der einen Seite neige ich dazu andauernd Episoden ewig zu verlängern weil ich Kämpfe nicht mitten drin aufhören will, aber dann bin ich auch nie bereit einfach mal eine Episode etwas kürzer zu machen damit Dinge ein wenig kompakter und zusammenhängender bleiben. Ganz früher hatte ich sogar mal 15 Minuten Episoden, später dann 20 und jetzt ist quasi fast alles 30 Minuten weil ich es sonst in der Zeit einfach nicht schaffe irgendetwas fertig zu machen. So verändern sich die Zeiten.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 30.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Begrüßung
+  7:18 Dialoge
+  13:27 Raumerkundung
+  15:24 Raumschlacht
+  21:55 Raumerkundung und Dialoge
+  23:55 Führerloses Raumschiff
+  ```
+
+##### #114
+
+* Titel: `Rogue Trader - 114 - Raum: führerloses Raumschiff [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube, ich habe für mich entdeckt das ich das Horrorszenario "Raumschiff treibt verlassen im Orbit von Irgendetwas herum" großartig finde. Es gibt da nur das Problem das so richtig große Raumschiffe die eine ordentliche Story erlauben in unserer heutigen Zeit eher nicht so oft vorkommen. Faktisch ist jedes Raumgefährt noch etwas Besonderes und es kommt nicht einfach so vor das ein interstellarer Frachter einfach so verloren geht. Und wenn man sich dann im Sci-Fi wiederfindet dann braucht es eine Menge Build-Up damit man überhaupt da hin kommt wo man ist damit die Dinge geschehen können. Ich mochte die Szene aus Dead Space 3 in der Hinsicht sehr, eine vergessene Expedition aus der tieferen Vergangenheit die alle gestorben sind von der niemand wissen durfte. Das war irgendwie eine runde Sache, schlafende Schrecken und Maschinen im Vakuum konserviert. Ganz so schlimm ist es übrigens heute nicht. Das Schiff das wir heute vorfinden ist zwar steuerungslos aber das wohl noch gar nicht so lange, das gibt Hoffnung das wir jemanden zum Reden finden.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 30.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Begrüßung
+  0:36 Kampf
+  15:12 Erkundungen
+  16:51 Kampf
+  27:57 Erkundungen
+  ```
+
+##### #115
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #116
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
+##### #Nummer
 
 * Titel: ``
 

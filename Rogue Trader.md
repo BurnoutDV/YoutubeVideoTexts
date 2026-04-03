@@ -1765,22 +1765,118 @@
 
 ##### #115
 
-* Titel: ``
+* Titel: `Rogue Trader - 115 - Raum: Magos Tiberius Mahla [Let's Play, ger, blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Irgendwelche Magi im Weltraum zu finden ist gar nicht so unwahrscheinlich, schließlich haben sich die Diener des Omnissiah tief in die Eingeweide des Imperiums gegraben. Wie genau diese Schiffe navigieren ist mir übrigens echt nicht klar. Ich sehe alles Mechanicus ehrlich gesagt immer ein wenig wie eine Subfraktion der Menschen an. Aber wenn man damit anfängt hat man wohl viele Unterabteilungen wie die Astartes, die Inquisition, die Sororitas oder einfach nur das Astra Militarum. Nicht zu vergessen natürlich Spezialisten wie die Custodes oder bestimmte Einheiten der Inquisition die jeweils ihre ganz eigenen Aufgaben haben, und auch wenn sie nicht in den Krieg ziehen, die Arbitatoren sind auch ihre eigene Macht. Wie auch immer, der Magos den wir heute treffen scheint der einzige zu sein der noch ansatzweise bei Verstand ist und von ihm erfahren wir einige Dinge. So wie es aussieht steht es um Kieva Gamma gar nicht einmal so gut. Das ist eher so mittelgut, auf einer Skala von Gut bis Mittelgut.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 31.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  7:14 Kampf
+  13:10 Dialoge
+  14:56 Inventarverwaltung / Leveln
+  22:10 Raumreisen
   ```
 
 ##### #116
 
-* Titel: ``
+* Titel: `Rogue Trader - 116 - Cranach: Scrap Code [Let's Play, ger, blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Aufgrund der Warnung die wir in der letzten Episode erhalten haben war mir natürlich klar das ein Datenaustausch mit der Fabrikationswelt eher ein Fehler war, das wir aber dennoch in Schwierigkeiten geraten obwohl ich eigentlich Vorsichtsmaßnahmen ergriffen habe finde ich ehrlich gesagt ein wenig deprimierend und nervend. Zahllose Leute auf meiner Brücke sind am Ende tot nur weil ich nicht laut genug nein gesagt habe. Aber ich will ehrlich sein, mittlerweile sind das auch alles nur Zahlen. Bei Reisen durch den Warp passieren nun einmal Dinge und solange die große Freihändlerin von Valancius nicht stirbt gibt es quasi kein Problem, Personal kann mit Leichtigkeit ersetzt werden, nur wenige Leute sind wirklich wichtig. Ein Fan bin ich von dieser Sichtweise dennoch nicht.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 31.03.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  ```
+
+##### #117
+
+* Titel: `Rogue Trader - 117 - Raum: Rettungsmission [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kleiner Wechsel der Gegebenheiten. Ein großer Nachteil das ich in eher kleineren Sitzungen spielen ist der das, wenn ich mir keine expliziten Notizen mache, ich gerne mal vergesse was ich eigentlich machen wollte und gesagt habe in der letzten Episode. Ich bin tatsächlich besser darin geworden, frei nach der Philosophie der ständigen Verbesserungen. Immer ein wenig besser, Schwächen erkennen, darum herum arbeiten und Wege finden sie aus zu gleichen. Leider ist nicht jede Technik perfekt und irgendwann besteht man nur noch aus Krücken. Das führt dann dazu das man doch was vergisst. Zum Beispiel ein Handelsschiff zu retten. Nach Cranach zu gehen war auf jeden Fall der falsche Weg wenn man jemanden retten will. Aber keine Angst, ich lade einfach noch einmal schnell und gleiche das aus, das wir bestimmt keine negativen Konsequenzen haben, oder?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 01.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Schnelle Erklärung
+  1:24 Raumreise
+  5:05 Raumkampf
+  15:14 Dialoge
+  18:55 Level Up & Ausrüstungen
+  ```
+
+##### #118
+
+* Titel: `Rogue Trader - 118 - Cranach: Kieva Gamma [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und zack, da sind wir wieder auf Kieva Gamma, wir waren quasi nie weg und machen genau da weiter wo wir letztes Mal aufgehört haben. Beim Erkunden des Manufaktums, nur das wir dieses Mal einen Priester des Omnissiah dabei haben der gewisse eine Menge über die vorgefundenen Sakrilege zu sagen hat. Das ist das Schöne wenn man einen Experten hat, man kriegt Expertise. Es ist echt so einfach, solange man flexibel im Denken bleibt und auch bereit ist widersprüchliche Meinungen zu akzeptieren oder zumindest in Erwägung zu ziehen kann man auf ein wesentlich breites Feld an Wissen zugreifen als es ein eingeengter Dogmatiker tun würde der gutes Personal für ideologischen Starrsinn vor die Tür setzen würde. Das über einen Magos des Adeptus Mechanicus zu sagen hat auf jeden Fall eine gewisse Ironie aber ich bleibe bei meinen Worten.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 01.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  1:17 Dialoge
+  3:08 Kampf
+  10:17 Erkundung
+  14:26 Dialoge
+  25:18 Erkundung
+  ```
+
+##### #119
+
+* Titel: `Rogue Trader - 119 - Cranach: Cubis Delphim [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Name Delphim ist irgendwo an anderer Stelle schon einmal gefallen und ich war wirklich sehr verwirrt warum zum Chaos es nicht Delphin sondern halt mit M ist. Das bleibt auch weiterhin ungeklärt aber an sich dürfen die Leute ja so heißen wie sie das gerne hätten. Also heißt der "Mann" jetzt so, ich möchte jetzt nicht direkt eine Genderdebatte lostreten aber ich bin mir recht sicher das die Magi des Adeptus Mechanicus nicht wirklich irgendetwas auf ihr Geschlecht geben und jede Zuweisung auch eher aus Gewohnheit kommt und nur dazu dient damit sich Uneingeweihte nicht unnötig an irgendwelchen Formalien aufhalten. Ich kann jetzt gar nicht soviel über den Fabrikator Censor sagen, daher schweife ich hier mal eben ab. Es scheint mir relativ schwierig zu sein ein wirklich geschlechtsloses Wesen das gleichzeitig humanoid ist zu bauen, in Elder Scrolls Online gab es einen Waldgeist bei dem das mal versucht wurde und das war kombiniert mit den Pronomen wirklich etwas ablenkend. Insbesondere weil ich den Geist dann doch irgendwie als weiblich gelesen habe weil das halt irgendwie so gewirkt hat aber so richtig klar war das jetzt auch nicht. Letztendlich ist es immer die eigene Wahrnehmung die die Realität verändert, und das steht bei solchen Geschichten dann durchaus mal im Weg. Und so richtig Lust hat darauf niemand der nicht direkt betroffen ist. Letztendlich ist es aber für Cubis auch egal, als Häretiker hat er jetzt ganz andere Sorgen, fragt da mal Pasqual.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 01.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  9:20 Erkundung
+  13:47 Kampf
+  25:26 Erkundung
+  29:50 Level Up
+  ```
+
+##### #120
+
+* Titel: `Rogue Trader - 120 - Cranach: Predigt des Chaos [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  "Eine offener Geist ist wie eine Festung mit hochgezogenen Toren, die Eingänge weit offen". So oder so ähnlich lautet der Leitspruch der Dogmatiker des Imperiums und im Großen und Ganzen würde ich diese Philosophie ablehnen, allerdings gibt es da eine gelebte Realität die dafür sorgt das man sich als normaler Bewohner der Galaxie nicht leisten kann. Eine Offenheit gegenüber neuen Ideen braucht erhebliche Macht um dieses mögliche Einfalltor im Zweifel zu verteidigen. Was ich damit sagen will, auch wenn es augenscheinlich kein Problem darstellen sollte irgendwelchen Worte zu lauschen, selbst wenn sie die tiefste Blasphemie darstellen und aktiv über die Herrlichkeit der diversen Chaosentitäten spricht so sieht das in der Praxis ganz anders aus. Ich weiß nicht inwiefern man normale Bürger, mit entsprechender Ausbildung und Anleitung dagegen abhärten könnte, aber ich fürchte das der durchschnittliche Normmensch des Imperiums einfach ein wenig zu genetisch rein ist um dem zu widerstehen. Am Ende würde das Wissen eher zu Neugier führen..und das wäre wahrlich schlecht. Ein großer Nachteil wenn man nicht willens ist seine Leute den Gegebenheiten gemäß anzupassen. Kurzum, wenn jemand aus den unteren Decks das hören würde was wir uns heute anhören wären die Leute wohl schon wahnsinnig. Zweifel können physisch weh tun.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 01.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Begrüßung
+  1:38 Dialoge
+  4:28 Erkundung
+  21:40 Dialoge
+  24:19 Kampf
   ```
 
 ##### #Nummer

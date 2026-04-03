@@ -188,3 +188,54 @@ Playlist:
   ```markdown
   Hier
   ```
+
+##### #54
+
+* Titel: `Clair Obscure: Expedition 33 - #54 - Pantomimen-Zwillinge  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Neue Sitzung, ein neuer Tag an dem ich abbiege und irgendwo herum laufe und mit voller Absicht die Hauptquest ignoriere. Das wird übrigens noch richtig schlimm wenn ich dann irgendwann die Fähigkeit erhalte zu Tauchen oder zu Fliegen. Weil dann eröffnen sich mir ganz neue Möglichkeiten, mal ganz von den vielen Orten abgesehen die ich noch gar nicht besucht habe weil an der Tür ein großes "Gefahr!" dran stand und sich dann herausgestellt hat das es wirklich ein wenig sehr gefährlich war da herumzuhängen. Es erwartet uns noch so viel Backtracking und so wenig Zeit. Ich hoffe allerdings das die Orte die wir noch besuchen werden auch ein wenig Freude für die Augen mit bringen oder eventuell sogar kleine Geschichten erzählen die dann das Herz erfreuen. Heute finden wir immerhin eine etwas neuere Bedrohung in Form von mehr als einer Pantomime vor, Veränderungen im Kleinen.
+  
+  ```
+
+##### #55
+
+* Titel: `Clair Obscure: Expedition 33 - #55 - die Visagen  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Crew findet diesen Ort anscheinend irgendwie abstoßend, ich persönlich kann das aber nicht so ganz nachvollziehen. Klar, es sind eine Menge unheimlicher Masken und anscheinend gibt es auch ein wenig Gesang, aber so richtig dramatisch ist das jetzt alles nicht. Immerhin sind wir schon durch wortwörtliche Meere aus Leichen geschritten oder durch Blut geschwommen. Die ehemaligen Expeditionen haben eine Menge Leichen hinterlassen und scheinbar verwesen die nicht. Diesen Anblick finde ich persönlich wesentlich erschreckender als ein paar Masken die nicht einmal menschlichen Gesichtern ähnlich sehen.
+  ```
+
+##### #56
+
+* Titel: `Clair Obscure: Expedition 33 - #56 - Visagen: Tal der Freude  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen sind wirklich gut darin Gesichtsausdrücke zu interpretieren. Also wirklich gut, unheimlich gut, schon von jüngsten Tagen an. Besser als man jetzt denken würde. Das geht sogar soweit das in einem Sci-Fi Roman den ich unlängst las jemand Daten anhand von schreienden Gesichtern dargestellt hat, verschiedene Parameter werden verschiedene Teile des Ausdrucks, das Buch war "Blindsight"" von Peter Watts, Leseempfehlung btw. Harte Sci-Fi und am Ende kann man Dinge denken. Ich würde das jetzt aber nicht erzählen wenn diese Art des Displays nicht auf echte wissenschaftliche Untersuchungen basieren würde. Das tun sie nämlich, wie praktisch das jetzt wäre kann ich aber nicht sagen, aber Augen sind nicht nur die einzige Breitbandleitung ins Gehirn (danke David Kriesel) sondern Gesichtern anscheinend auch ein wenig ordentlich viele synthetische Daten zu verschlüsseln. Und das bringt uns jetzt zurück zu den Masken. Menschen sind sehr gut darin Emotionen abzulesen, Masken sind keine richtigen Gesichter, aber wir sehen dennoch all diese Informationen..und manchmal passen die Dinge nicht.
+  ```
+
+##### #57
+
+* Titel: `Clair Obscure: Expedition 33 - #57 - Visagen: Tal der Trauen und Zorns  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin wirklich sehr beeindruckt wie es das Team von Sandfall geschafft hat bestimmte Orte in Szene zu setzen. Zum Beispiel die Darstellung der Emotionen der Masken finde ich irgendwie recht beeindruckend. Die Freude ist noch recht einfach zu sehen, aber Trauer ist da schon ein wenig schwierig. Nicht alle Trauer ist es zu weinen. Viele Menschen trauern auf sehr unterschiedliche Arten und Weisen, manchmal quasi unsichtbar, eine falsche Emotion für die restliche Welt darstellend. Zorn finde ich noch schwieriger, auch hier gibt es eine relativ breite Masse an Dingen die man zeigen kann, das Offensichtlichste wäre es herum zu brüllen, laute Worte fallen zu lassen. Aber die Masken sind stumm. Und nicht jeder Zorn ist so laut wie man meinen könnte. Und wo findet man die Abgrenzung zu Hass? Die Darstellung ist bestimmt nicht perfekt, und doch, ich fühle mich abgeholt. Das ist doch was oder?
+  ```
+
+##### #58
+
+* Titel: `Clair Obscure: Expedition 33 - #58 - Axiom der Masken  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Ende dieser Episode bleiben eine Menge Fragen. Ich schreibe diese Beschreibung relativ zeitnah, also wenige Stunden nach der Aufnahme wo die Erinnerungen noch frisch sind. Und mir scheint das die Axiome ein wenig mehr sind als einfach eine weitere Daseinsform wie die Gestral oder Nevronen, generell scheint hier Einiges unter der Oberfläche zu passieren was ich nicht sofort ersehen kann. Klar ist, Axiome sind sehr sehr mächtig. Nicht nur kontrollieren sie die Nevronen in der Gegend, vielleicht erschaffen sie sie auch, sie verändern sie auch ihrem Willen. Ob sie frei handeln können vermag ich nicht zu sagen, aber es scheint das sie eine bestimmte Funktion für irgendetwas zu erfüllen. Wir haben bis jetzt nur ein einziges Axiom gesehen, es kann also nicht wirklich von einer Serie gesprochen werden, aber das Axiom das wir in Alt-Lumiére gesehen haben war gewaltig und irgendwie doch anders als das wir heute getroffen haben. Und das hier war bei Weitem nicht so mächtig wie es uns Verso verkauft hat. Dann ist da noch das Ding mit den Masken, wie Sciel darauf reagiert hat und wie die Anderen. War das Glück, oder ein Aspekt dessen was sie sind. Dann scheint da noch eine Verbindung zum Konservator zu bestehen und auch zu Verso..oder Recto. Oder wie auch immer er heißt. Fragen über Fragen, zu wenig Daten für Antworten und eine Menge Mysterium. Und so wie die Dinge laufen rechne ich nicht damit das uns am Ende jemand klare Antworten liefern wird ohne das wir nachdenken müssen.
+  ```

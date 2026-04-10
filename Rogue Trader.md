@@ -1879,6 +1879,150 @@
   24:19 Kampf
   ```
 
+##### #121
+
+* Titel: `Rogue Trader - 121 - Cranach: Überraschungsvariable [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt beim Programmieren etwas das sich "common falacies" nennt. Das sind so Annahmen die man über die Realität oder Abläufe trift die nicht notwendigerweise immer und überall wahr sein müssen. Ein ganz großer Dauerbrenner sind alle Dinge die mit Kalendern und Uhrzeiten zu tun haben. Beispiel: die Annahme das jeder Tag jede Uhrzeit nur einmal hat..und dann gibt es eine Zeitumstellung oder der Kalender ist nicht synchron mit der Erdumdrehung. Schaltjahre sind ein Ähnliches Thema, auch toll sind Zeitzonen, damit hat man viel Spaß wenn man Urlaubsbilder präzise nach Zeit ordnen will und vergessen hat die Kameras und Handies auf die Zeitzone zu synchroniesieren. Oder man von Australien nach Neuseeland im Urlaub fliegt und das vergessen hat. Based on a true story. Wie dem aber auch, das Mechanicum ist im Großen und Ganzen ziemlich starr in seiner Ansicht was die Welt angeht, daher sind sie quasi wie gemacht dafür in solche logischen Fallen zu laufen. Spezialfälle werden als generelle Beobachten angesehen weil sie fast immer auch zu treffen..bis dann die Ausnahme um die Ecke kommt. Wir sind diese Ausnahme, die Variable die sonst immer 1 ist und keine Rolle spielt. Gute Zeiten.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  5:00 Kampf
+  17:00 Erkundung
+  21:21 Dialoge
+  27:00 Kampf
+  ```
+
+##### #122
+
+* Titel: `Rogue Trader - 122 - Cranach: ketzerischer Cogiator [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gab einmal künstliche Intelligenz in der Welt von W40K..und dann sind schlimme Dinge mit dem Warp passiert und jetzt stehen wir wo wir sind. Technisch gesehen haben einige Fraktionen durchaus noch echte Computer und nicht komische Gehirnamputierte Fleischkäfige wie das Imperium aber dort hat man Maßnahmen getroffen. Aber im Imperium geht man ja gerne den Weg des maximalen Grauens und deshalb stehen wir wo wir stehen. Worauf ich hinaus will ist das Raumfahrt ohne mächtiges Mathe eher schwierig sind, Präzision ist quasi eine Pflichtveranstaltung und mit Vibes alleine geht keiner in ein anderes Sonnensystem. Auch das Chaos möchte gelegentlich etwas berechnen, zum Beispiel was die Zukunft so bringt, das das für alle anderen nicht so gut sein kann sollte allen klar sein. Warum das Chaos dafür überhaupt auf Menschen zurückgreifen muss ist recht einfach erklärt, an sich haben die Wesen des Warps wirklich große Probleme die Realität irgendwie zu erfassen, daher braucht es da mächtige Hilfe, und gerne auch Kooperation von der anderen Seite. Als gute Bewohner der Realität wollen wir das natürlich verhindern.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  5:10 Dialoge
+  11:54 Erkundung
+  13:01 Dialoge
+  15:15 Kampf
+  29:50 Dialoge
+  ```
+
+##### #123
+
+* Titel: `Rogue Trader - 123 - Cranach: Versuchungen des Chaos [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind wieder zurück. Warum und weshalb habe ich ja schon erklärt. Ich mag es trotzdem nicht diesen Schritt gegangen zu sein, man könnte mir sogar Save-Scumming vorwerfen, andererseits braucht man dafür erst einmal Zuschauer bevor es jemanden gibt der einen etwas vorwerfen kann. Wie dem aber auch sei, wir gehen also einen Schritt zurück und nehmen eine leicht andere Abbiegung in einer Situation in der ich gedacht hätte das dogmatisch zu handeln einmal etwas Gutes gewesen wäre. Stellt sich doch glatt heraus das die Inquisition zwar gnadenlos Leute dafür bestraft nicht dem Dogma zu helfen dann aber selbst von seinen Dienern verlangt das diese mit aller Macht die andere Seite lernen zu sehen, um zu verstehen und zu vernichten. Das ist wahrscheinlich die wichtigste Grenze der Inquisition, verstehen aber keine Sympathie zu sehen. Beim Chaos ist das bestimmt einfach, aber bei den Xenos, mir fällt irgendwie schwer zu verstehen das es da nie die Versuchung gibt die Schuhe der Anderen zu spüren.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erklärungen
+  0:00 Dialoge
+  17:30 Verwaltung
+  24:53 Dialoge
+  ```
+
+##### #124
+
+* Titel: `Rogue Trader - 124 - Cranach: Datenofen [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kieva Gamma ist der Produktionsplanet der von Valancius Dynastie und anscheinend passieren an dem Ort so viele Dinge das ich glatt vergessen habe einige davon zu erledigen. Die gute Nachricht ist aber das ich endlich eine Verwendung für das riesen große Rad gefunden habe das ich zwischenzeitlich für den Preis der Gesundheit meiner Truppe gefunden habe. Was dann aber auftaucht verwirrt mich ehrlich gesagt mehr als alles Andere. Ein Datenblock der kaum mehr enthält als Hinweise darauf das mein Schiff vielleicht doch ein klein wenig verflucht sein könnte. Allein die Vorstellung das irgendein Cogiator so alt ist das er eine eigene Persönlichkeit entwickelt hat ist eher schlecht. Was genau jetzt Nom OS ist möchte ich eigentlich gar nicht vermuten. Hier fehlt mir leider das Lore Wissen um irgendwelche Vermutungen anstellen zu können. Aber künstliche Intelligenz, insbesondere die die einfach so entstanden ist wäre ein sehr schlechtes Zeichen weil es bedeuten würde das der Warp hier ein noch einfacheres Einfallstor als Idira finden würde.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Questlog
+  2:35 Erkundung
+  14:36 Datenofen
+  ```
+
+##### #125
+
+* Titel: `Rogue Trader - 125 - Raum: Aeldari-Flüchtlinge [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich glaube mein Unwissen über die generell 40K Lore sorgt dafür das ich ein wenig anders denke als es der typische Fan tun würde. Eventuell sehe ich auch einfach zu viel andere Fantasie oder bin einfach nicht so in Grimdark drin. Vielleicht aber die Tatsache das ich immer die Elfen wähle wenn ich die Wahl habe in anderen Spielen macht meine Sicht ein wenig voreingenommen. Elfen sind im Allgemeinen heutzutage irgendwie die langweilige Auswahl in fast allen Szenarien. Irgendwie sind das einfach die besseren Menschen wenn es um das Individuum geht, langlebiger, besseres philosophisches Standbein und in der Regel wesentlich mehr im Einklang mit der Natur, meist auch mit natürlicher magischer Begabung. Wenn man die Auswahl hat gibt es quasi keinen Grund einen Basis-Menschen zu wählen wenn man einen Upgrade-Elf wählen könnte. Die Nachteile entstehen dann doch eher durch den Kontext, Rassismus in menschlichen Städten, Voreingenommenheit durch andere Rassen oder Ähnliches. Durch Einschränkungen entstehen interessante Geschichten und das bieten dann die Elfen einfach nicht. Aber lange Geschichte kurz, das Elfen Flüchtlinge sind passt nicht so ganz in mein Bild der auch so noblen Langohren. Die gab es aber auch schon bei Dragon Age oder bei Prattchet sind die Elfen alles andere als Noble, bzw. halt einfach nur grausam so wie es die Drukhari sind, in 40K gibt da immerhin noch eine Unterscheidung. Wie auch immer meine Ansicht aber ist, die Anzahl der Aeldari auf meinem Schiff scheint konstant zu bleiben.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  8:15 Raumkampf
+  12:14 Erkundung
+  14:25 Warp-Gefahren
+  15:16 Level Up
+  28:01 Dialoge
+  ```
+
+##### #126
+
+* Titel: `Rogue Trader - 126 - Adermatt II: Recolliger Clan [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn es nichts Anderes als Krieg im globalen Maßstab gibt dann muss es lokal auch ab und an mal nicht Krieg sein. Im Dreißigjährigen Krieg war ja auch nicht überall und immer ein Schlachtfeld. Insbesondere weil Armeen durchaus Versorgung brauchen und über 42 Jahre sterben einen durchaus schon ein paar Truppen an Altersschwäche ab. Das Universum ist groß und an den Orten vergangener Schlachten gibt es nicht nur tödliche radioaktive Strahlung oder Warprisse sondern auch wertvolles Metall zu bergen. Ich weiß übrigens nicht warum alles so rostig auf dem Kahn aussieht. Ich hätte irgendwie erwartet das Wasser im Weltraum eher knapp ist und man Weltraumstahl eher in rostfrei vorfindet, aber das würde wohl nicht zur Ästhetik passen. Recolliger sind eine Gruppe von Leuten die quasi all das was offensichtlich nicht wertvoll ist und zurückgelassen wurde ausschlachten und dann die bereinigten Teile verkaufen. Genügend Schiffe bleiben im Warp hängen, werden abgeschossen oder werden anderweitig manövrierunfähig und müssen zurückgelassen werden. Da kann man noch was rausholen. Und Raumschiffe im 40K Universum sind gewaltig. Interessanterweise ist es eine Star Wars Medium was diesen Prozess am besten visuell für mich darstellt. Das Intro von Star Wars: Fallen Order zeigt den Protagonisten Cal wie er an einer solchen Wiedergewinnungsoperation teilnimmt und die Ausmaße finde ich vergleichbar. Zur Referenz hier ein Link zu meinem Let's Play des Spiels (: https://www.youtube.com/watch?v=qVwzFMykzt0
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 09.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Begrüßung
+  1:40 Erkundungen
+  5:36 Off-Topic Gerede
+  8:48 On-Topic Dialoge
+  19:34 Erkundungen
+  ```
+
+##### #127
+
+* Titel: `Rogue Trader - 127 - Adermatt II: die Kunst des Handels [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt verschiedene Ansätze über einen Handel zu denken. Über die hohe Kunst Waren gegen Geld zu tauschen, oder Gefallen gegen Waren, Geld gegen Informationen und so weiter. Es gibt da, führende Politiker sogar, die glauben das jeder Handel bei denen beide Seiten zufrieden sind ein schlechter Handel war weil man ja offensichtlich was zurückgelassen hat wenn sich die Gegenseite freuen kann. Ein guter Handel ist also nur dann wenn die Handelspartner absolut nicht glücklich sind und sich quasi gezwungen fühlen den Austausch anzunehmen. Das klappt eigentlich nur so richtig wenn sich die andere Seite sich nicht spontan entscheiden kann andere Saiten auf zu ziehen und sich tödlich beleidigt fühlt..oder einfach geht. Leider ist das scheinbar nie bei einem gewissen gescheiterten Immobilienidioten aus New York passiert und jetzt leben wir in dieser Zeitlinie, nicht das die Personalie irgendetwas an der Konsequenz geändert hätte. Aber vielleicht würde es sich weniger dumm anfühlen. Ein anderer Ansatz kann sein das man sich gegenseitige auf zukünftige Geschäfte vorbereitet und gute Deals macht. Oder man fährt die Piratenrichtung und macht erst das Geschäft und fängt dann an zu schießen um sich das Geld zurück zu holen. Schauen wir doch was heute passiert.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 09.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  ```
+
+##### #Nummer
+
+* Titel: ``
+
+* Beschreibung:
+
+  ```markdown
+  Hier
+  ```
+
 ##### #Nummer
 
 * Titel: ``

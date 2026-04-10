@@ -169,6 +169,26 @@ Playlist:
   Namensfindung ist eine echte Kunst. Falls du, lieber und geschätzter Zuschauer gelegentlich diese Beschreibungen hier liest weißt du bereits das ich mich damit ein wenig schwer tue. Dinge benennen, gute prägnante Namen zu finden, das ist alles nicht so einfach selbst wenn man Jahre der Erfahrung hat. Insbesondere dann wenn der Klang allein nicht ausschlaggebend ist sondern man zu dem auch noch eine bestimmte Zuschauerschaft erreichen will oder im Meer der Durchschnittlichen sich irgendwie hervorheben will. Lügen ist natürlich ein offensichtliches Mittel, das setzt dann aber auch voraus das den Menschen der Clickbait egal ist. Ich würde übrigens behaupten das genau das der Fall ist. Wer auch immer das rote Heiligtum benannt hat hatte übrigens keine solche Sorgen und hat einfach losgelegt. Insbesondere wenn die Orte tatsächlich rot sind und es weit und breit keine anderen als Heiligtum definierten Orte gibt. Die Wahl einer Farbe impliziert aber in der Regel das es noch andere Orte mit farbigen Namen gibt, es ist aber auch nicht zwingend erforderlich. Ich persönlich fühle mich aber besser wenn es auch noch ein gelbes, blaues und grünes Heiligtum irgendwo gibt.
   ```
 
+##### #15
+
+* Titel: `Clair Obscure: Expedition 33 - #15 - Ultimativer Sakapatate  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In guter Tradition habe ich nicht nachgeschaut was genau die Worte auf Französisch heißen könnten die wir heute sehen. Aber ich würde mal vermuten das es Kartoffelsack heißt. Patatas sind zumindest im portugiesischen Kartoffeln und romanische Sprachen sind sich ja doch recht ähnlich und jetzt zu behaupten das Saka so etwas ähnliches wie Sack heißen könnte finde ich nicht zu weit hergeholt. Also, die Gestrals bauen großen Kartoffelsäcke als Force Multiplier um besser gegen die Nevronen anzukommen und wir machen die jetzt alle kaputt weil ich das eben kann. Und natürlich weil wir sonst nicht mit dem Anführer reden dürfen, man glaubt offensichtlich an kämpferischer Macht um sich zu behaupten und um die soziale Rangordnung zu etablieren. Irgendwie so etwas. Ich bin mir da ehrlich gesagt nicht ganz sicher, vielleicht machen die Gestral auch einfach nur was ihnen Spaß macht.
+  ```
+
+##### #16
+
+* Titel: `Clair Obscure: Expedition 33 - #16 - Gestral Dorf  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es war gar nicht so schwer und wir sind wirklich nur ein paar Mal auf der Reise dorthin gestorben, aber hier sind wir jetzt. Im Dorf der Gestral. Das sind allgemein recht witzige Wesen die irgendwie auch etwas erschaffen aber auch irgendwie in den Tag hinein leben. Es könnte eventuell damit zu tun haben das sie keine Gommage zu fürchten haben und wahrscheinlich auf der Welt die war oder gekommen ist ursprünglich heimisch waren. Soweit ich das verstanden habe sind sie auch technisch gesehen unsterblich. Oder anders gesagt, sie sind wieder sterblich. Ihr aktueller Körper kann zwar ableben aber es ist möglich das sie wieder auferstehen in einen neuen Körper und quasi ein neues Leben beginnen. Das Ganze kommt wohl mit Nachteilen sodass der Tod immer noch nichts ist was man super leichtfertig in Kauf nehmen möchte aber er hat eindeutig weniger Biss wenn es die gute Chance gibt schon bald wieder dabei zu sein.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

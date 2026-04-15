@@ -2013,14 +2013,81 @@
   
   ```
 
-##### #Nummer
+##### #128
 
-* Titel: ``
+* Titel: `Rogue Trader - 128 - Raum: Dreiklang des Hammers [Let's Play, ger, blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Als Freihändlering sind wir eigentlich ständig damit beschäftigt uns um irgendwelche Dinge zu kümmern. Jetzt ein wenig raus gezoomt finde ich das übrigens faszinierend. Man stelle sich einmal vor man ist so wichtig das man wirklich bei jeder Entscheidung mit einbezogen werden muss und dann sitzt da jemand am Steuer der nicht so richtig geistig beisammen ist oder einfach sich null dafür interessiert. Es gibt genügend Argumente für und wider eines zentralen Despoten und die allgemeine Tendenz ist wohl das die Chance mehrfach hinter einander einen guten Diktator zu erwischen quasi bei null liegt. Siehe auch Thailand. Klar, einmal kann man durchaus Glück haben und dann genießt man die schnellen Entscheidungswege, aber die Natur der Sache ist das die Position auch Leute anlockt die eigentlich wenig Interesse an das ganze Klei-Klein haben das damit einher geht. Letztendlich ist es auch Arbeit. Viel leichter ist es doch den ganzen Ruhm des Vorgängers ab zu greifen und selber gar nichts zu machen. Wir sind nicht in dieser Position. Wenn ein Problem auftaucht dann nehme ich mich dem an. Aber das könnte auch schnell überwältigend werden wenn es noch ein wenig mehr wird. Und so wird aus unserer heutigen Raumerkundung eine Episode Kolonieverwaltung.
+  Und da habe ich noch gar nicht darüber gesprochen was ich dann am Ende heute entschieden habe. Die Entscheidung beschäftigt mich übrigens immer noch ein wenig, ein paar Tage später nachdem ich sie getroffen habe, alle drei zu involvieren klingt irgendwie nach einem feigen Weg. Das salomonische Urteil erscheint mir immer mehr wie eine Feiglingsentscheidung wenn ich ehrlich zu mir selbst bin.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 13.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  2:16 Raumschlacht
+  5:56 Raumerkundung
+  6:20 Kolonieverwaltung
+  21:50 Planetenerkundung
+  ```
+
+##### #129
+
+* Titel: `Rogue Trader - 129 - Viridice: Inquisitionsschiff [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als Freihändlerin stehen wir in der schönen Position das wir zwar technisch gesehen der Inquisition und dem Arbites untergestellt sind praktisch aber alles ein wenig darauf ankommt wer grade mehr militärische Macht in der Hand hält, und letztendlich wir sich kein Inquisitor hinstellen und uns leichtfertig irgendwelche Befehle erteilen. Stattdessen werden wir gebeten und dann kommen wir großzügig der Dinge nach und tun das alles eventuell auch nicht sofort. Es könnte sogar vorkommen das wir uns einer Anweisung vollständig verweigern weil wir es halt können, sollten dann aber schon noch einen guten Grund zur Hand haben. Worauf ich hinaus will, wir werden nicht so oft mit der Inquisition interagieren und wenn alles gut läuft uns auch selbst nie auf einem schwarzen Schiff wiederfinden. Mir ist übrigens nicht so ganz klar wie das mit meinem Charakterhintergrund läuft. Theoretisch sind wir ja sanktioniert und haben damit den ganzen Prozess von dem uns Heinrix erzählt hat hinter uns, aber so richtig aufkommen tut das jetzt auch nicht mehr. Aber hey, da wir die Schrecken anscheinend verpasst haben dürfen wir uns das Ganze heute noch einmal anschauen, so aus der Nähe, mit Visionen, toll oder?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 13.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  1:30 Kampf
+  10:10 Erkundung
+  12:18 Kampf
+  36:40 Erkundung
+  ```
+
+##### #130
+
+* Titel: `Rogue Trader - 130 - Verwaltung: das geringere Übel [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir stehen schon wieder in den Tiefen der Verwaltung. Das sollte eigentlich niemanden überraschen. Quasi ist das jetzt unser Leben, auf irgendwelchen Planeten zu landen und dann Abelard unser Kommen anzusagen ist quasi unsere Freizeitbeschäftigung. All dieses Herumballern, Kämpfe gewinnen und abgestürzte Raumschiffe erkunden könnte man wohl bestenfalls als Freizeitbeschäftigung bezeichnen während wir unserer Hauptaufgabe nachkommen ein Sternenreich am Laufen zu halten. Und das sind nur die Makroentscheidungen die wir hier treffen. Lokal gibt es immer noch Gouverneure und andere Verwalter die quasi einen Großteil der anderen Aufgaben angehen. Man stelle sich vor wir müssen noch unmittelbare Regierungsgeschäfte auf jeder Welt abwickeln. Und das aus einer mobilen Position heraus, unser Astropathischer Chor würde überhitzen, technisch gesehen tut er das eigentlich jetzt schon.
+  
+  Das Schlimmste an den Entscheidungen die wir so treffen ist übrigens das Vieles von dem was wir so entscheiden bestenfalls suboptimal ist, es ist ja nicht so das wir eigene Ideen umsetzen. Stattdessen bereitet irgendjemand für uns die "Executive Summary" vor und wir wählen dann eine davon aus, allein die Zeit etwas an den hoffentlich sorgfältig durchdachten Vorschlägen zu ändern fehlt uns bereits. Ich möchte nicht wissen welche Entscheidungen wir eigentlich noch treffen was man im Spiel nicht sehen tut.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 14.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  Unterdrückungssphäre
+  Säulen von Viridice
+  ```
+
+##### #131
+
+* Titel: `Rogue Trader - 131 - Viridice: Heriokh's Grenzstation [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der letzten und sogar vorletzten Episode habe ich das System "die Säulen von Viridice" erkundet und ich habe freundlicherweise den Titel ein wenig abgekürzt weil ich mich ehrlich gesagt nicht danach gefühlt habe die langen Namen der Orte zwischen den Sternen jedes Mal auszuschreiben. Außerdem bin ich ein wenig in der Länge eingeschränkt damit man auf deinem mobilen Endgerät noch etwas lesen kann. Wie dem aber auch sei, ich dachte eigentlich das ich an jenem Ort dann auch fertig bin mit dem was ich tun wollte. Zwischenzeitlich habe ich auch unnötigerweise mit einer Station gehandelt die mir ehrlich gesagt eher schlechtere Ausrüstung verkauft hat aber ich musste ja zumindest einmal schauen was es im Angebot gibt. Stellt sich doch glatt heraus das das der gleiche Ort war an dem ich eigentlich irgendwelche Mutanten erschießen sollte, das habe ich irgendwie vergessen und so ganz grundlos irgendwelche (Piraten-)händler über den Haufen schießen wollte ich auch nicht. Klar, die Lex sieht das bestimmt sehr kritisch, aber mit irgendjemanden muss man halt handeln und die offiziellen Prozesse sind oft recht langsam. Da wäre es dann schon gut ein paar Burschen mit einem eingebauten kurzen Dienstweg zu kennen, Kundenzufriedenheit wird hier schließlich noch groß geschrieben.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 14.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  Unterdrückungssphäre
+  Säulen von Viridice
   ```
 
 ##### #Nummer

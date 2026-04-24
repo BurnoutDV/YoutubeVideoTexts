@@ -2090,6 +2090,196 @@
   Säulen von Viridice
   ```
 
+##### #132
+
+* Titel: `Rogue Trader - 132 - Lapidus Mortus [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Reise durch das All, oder die Leere wie sie es hier gerne nennen wäre wesentlich leichter wenn uns nicht der Warp die ganze Zeit nerven würde. So verbringen wir heute die ganze Episode in einem System namens Lapidus Mortus, also irgendwas mit Tod und der Hauptgrund dafür ist das Nurgle versucht auf unserem Schiff Fuß zu fassen und die einzigen Leute die es anscheinend schaffen so ein paar Wesen aus dem Warp nieder zu ringen sind die Leute mit Plot-Armor. Es ist leider nicht so das wir einfach unser B-Team runter schicken können und nach ein paar Stunden meldet sich Heinrix und seine Crew bestehend aus Kibellah, Pasqual, namenlose Lückenbüßerin und Solomorne mit neuer Erfahrung und Geschichten. Stattdessen muss das A-Team unter der Führung ihrer Exzellenz der Freihändlerin Visper Cora von Valancias aufmachen.
+  
+  Es ist übrigens auch noch ein wenig mehr ironisch das Dinge die andere Raumschiffscrews und zehntausende Seelen in den Tod reißen für uns kaum mehr als ein Ärgernis sind das mich laut ausatmen lässt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Begrüßung
+  3:44 Kampf gegen das Chaos
+  17:30 Dialoge
+  18:28 Erkundung
+  22:00 Kampf
+  ```
+
+##### #133
+
+* Titel: `Rogue Trader - 133 - Lange Heimreise [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte es in der letzten Episode schon angeschnitten, das Reisen durch den Warp ist für uns als Freihändlerin mehr nervend als tatsächlich gefährlich. Nach jedem Sprung höre ich davon wie es meinen Leuten nicht so gut geht oder wie irgendwelche Leute ernsthaften Schaden nehmen, aber mir selbst, so ganz persönlich, geschieht halt nichts. Bis dann das Chaos spontan beschließt die Brücke zu besuchen, aber das musste ja wohl irgendwann einmal geschehen. Der Plan für heute ist es übrigens zurück zur Heimatwelt derer von Valancius zu gelangen, nach Dargonus. Leider habe ich einen sehr verworrenen Weg da hin eingeschlagen wo ich jetzt bin und nun nimmt der Rückweg sehr viel wertvolle Zeit in Anspruch. Ich wünschte wirklich ich wäre nicht so geizig und ich hätte einfach den Joker gezogen. Für nur drei Punkte hätte ich ja auch eine extrem gefährliche Reise direkt nach Dargonus antreten können..eventuell wäre das nicht so aufwendig gewesen wie das was ich heute getan habe.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 16.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Warp
+  8:35 Level Up
+  13:00 Kampf
+  32:00 Erkundung
+  ```
+
+##### #134
+
+* Titel: `Rogue Trader - 134 - Dargonus: Warteschlange [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es stellt sich übrigens heraus das ich gar nicht für meine große Ernennungszeremonie wie ich es gedacht hatte nach Dargonus zurückgekehrt bin sondern viel mehr für einen bürokratischen Verwaltungsakt. In irgendeiner Welt hatte ich ja in den Ruinen eines alten Schiffes die Schrottsammler getroffen die mir dann durch Zufall einen Gegenstand gegeben haben der wohl als imperiales Siegel durchgeht. Und damit kann ich dann endlich all das tun was wir für das große imperiale Handelssiegel für Jae brauchen. Warum genau wir das tun ist mir übrigens nicht klar. Vielleicht einfach weil ich genauso neugierig bin wie sie was dann damit passiert. Ich vertraue Jae nicht, kein Stück. Ich weiß auch nicht warum ich sie zu meiner Partnerin ernannt habe, es erschien irgendwie witzig und jetzt machen wir das. Rein logisch gesprochen wäre quasi jede andere Person besser als sie gewesen. Daran sollte ich wohl immer und immer wieder denken während ich mir das imperiale Wartezimmer im Detail anschaue. Man fragt sich aber wirklich ob man den Prozess nicht irgendwie subtil beschleunigen kann. Und ich meine nicht meinen eigenen Vorgang, da kann man ja leicht was machen, sondern für alle Bürger meines Planeten. Das Administratum muss man doch irgendwie reformieren können..heimlich, mit Gewalt. Halt irgendwie.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 17.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  1:55 Kampf
+  7:45 Off-Topic Zeug
+  10:55 Dialoge
+  ```
+
+##### #135
+
+* Titel: `Rogue Trader - 135 - Jae's Ammaricar [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Feiern sind mir persönlich ein wenig zu wider. Ich mag es zu feiern, aber dann wieder auch nicht. Irgendwie fühlt sich das alles immer ein wenig komisch an. Wie dem aber auch sei, an öffentlichen Orten zu feiern ist noch ein wenig komisch. Das gesagt, ich hab das tatsächlich auch schon selbst gemacht und dabei eigentlich ganz gute Erfahrungen gemacht. Auf der anderen Seite schmuggle ich keine ultra illegalen Alien Artefakte, Waffen und Ausrüstung durch ein extrem dogmatisches Reich das sich seit 10000 Jahren geistig nur zurückentwickelt hat. Das lässt mich glauben das öffentliche Orte eher Gift sind. Als Person die irgendeine Art von Profil besitzt würde ich mich aus Sicherheitsgründen von schmierigen Spelunken zu Vergnügungszwecken fernhalten. Klar muss man solche Orte aufsuchen um Geschäftspartner zu treffen und Gerüchte in Erfahrung zu bringen. Aber der Genuss von Alkohol, Drogen oder eigentlich irgendetwas das die geistige Leistungsfähigkeit einschränkt erscheint mir einfach wie eine sehr schlechte Idee. Vielleicht ist es auch genau so ein Denken das mich davon abhält Spaß zu haben und ein erfolgreicher intergalaktischer Schmuggler zu sein. Die Unfähigkeit aus meiner Bubble aus zu brechen und mit der Gefahr zu flirten.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 17.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 der Große Handel
+  16:20 Dialoge
+  ```
+
+##### #136
+
+* Titel: `Rogue Trader - 136 - Grantis: Marazhai [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe absolut gar keine Ahnung wie jetzt eigentlich die Drukhari hier in die ganze Geschichte rein passen. Es scheint ja ein wenig so als hätten sie ganz am Anfang eine Sonne gestohlen, eine Tat die nur wenige in diesem verdammten Universum vollbringen können. Ich meine das die Nekrons da durchaus was tun könnten und vielleicht könnte das Chaos auch irgendwie dafür sorgen das dies geschieht aber ganz vorne in der Liste der Verdächtigen stehen wohl die dunklen Aeldari. Die haben in ihrem Webway wohl einige Sonnen die die Orte darin beleuchten, wie das genau funktioniert vermag ich übrigens nicht zu sagen aber es ginge wohl irgendwie. Ich habe mich übrigens unlängst ein wenig mit neuer und alter Lore beschäftigt, also wirklich nur oberflächlich. Da gibt es bestimmt eine Menge Leute die da harte Meinungen zu haben, so richtig was dazu sagen möchte ich auch nicht, nur das mir da ein wenig was aufgefallen ist und halt dieser Namenskonflikt der zwischen Dawn of War und Rogue Trader liegt. Klar, ich hab zwischenzeitlich auch Darktide gespielt, aber außer ein paar Nurgle Freunde trifft man da nicht viel Xenos. Die Drukhari die wir bis jetzt getroffen haben scheinen einem bestimmten Schlag zu entstammen und backen, zumindest anscheinlich, kleinere Brötchen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  5:00 Raum
+  10:36 Erkundung
+  ?? Kampf
+  ```
+
+##### #137
+
+* Titel: `Rogue Trader - 137 - Khepri: Notsignalzone [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein großer Fan von so Sci-Fi Archäologie Geschichten, und das ist schon das falsche Wort. Ich meine diese Szenarien wo die Menschheit bereits lange genug im Weltraum ist das man Dinge von vor vielen Generationen finden kann aber weil die Technik nicht wirklich weiter gegangen ist das Zeug immer noch irgendwie aktuell. Verlorene Kolonien, untergegangene Forschungslabore auf abgelegenen Welt, solche Dinge halt. Das ist in den meisten Sci-Fi Szenarien nicht möglich. Meistens ist die Menschheit relativ neu im Weltraum und der Horror kommt aus dem unbekannten oder man puzzelt sich etwas zusammen. Wenn die Funde zu sehr Alientechnologie sind dann ist es auch nicht gut, weil dann weiß man am Ende auch nichts mehr, dann hat man diese Mass Effect Situation in der man irgendwelche Signale empfängt mit denen das menschliche Gehirn nicht einmal interagieren kann oder man versteht schlichtweg gar nichts von der Sprache. Oder die Dinge werden auf einmal schrecklich technisch. Das ist ein überraschend enger Grad wo mir das Spaß macht. Der ist nicht so leicht zu erreichen. Die Landezone auf einem Planeten irgendwo im Nirgendwo ist übrigens explizit ein solcher Ort, aber auch die anderen Landegeschichten die wir bis jetzt hatten gingen sehr in diese Richtung.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raum
+  ?
+  8:41 Erkundungen
+  ```
+
+##### #138
+
+* Titel: `Rogue Trader - 138 - der König der Entstellung [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Viele Dinge die wir erleben werden auch einfach von Texten erzählt. Ich persönlich habe gar kein Problem damit irgendwelche längeren Texte zu lesen ich kann aber sehr verstehen wenn man als Zuschauer ein wenig enttäuscht ist wenn sich die Dinge zum Hörspiel entwickeln. Da hat man das Problem das hier nur ein AA Entwickler hinter steht und daher niemand in der Lage war die kleineren Begegnungen zu animieren, mit Graphiken zu versehen oder sogar dramatisch in Szene zu setzen. Heute sehen wir wirklich seltsame Dinge bzw. erlesen sie eher. Immer wenn wir irgendwelche komischen Ereignisse haben ist es eigentlich immer Xenos, das Chaos oder imperiale Kulte die es etwas übertreiben. Es kommt echt selten vor das wir es mit einer Art, sagen wir, Graswurzelwahnsinn zu tun haben. Es kommt anscheinend in 40K einfach nicht vor das Leute wegen ihrer Umstände, Erlebnisse und Traumata ganz klassische austicken oder unmenschliches tun. Es könnte aber auch an der Natur der Dinge liegen, sobald die Leute versuchen für sich wahnsinnig zu werden kommt das Chaos aus dem Meer der Seelen rübergeschwappt und übernimmt den Laden.
+  
+  Zum Thema Vorstellung und Texte, es gibt etwas das sich Aphantasie nennt das wohl ein Teil der Menschen hat. Wenn ich Texte lese sehe ich Bilder, Filme vor meinem inneren Auge. Das ist nicht wie so eine Halluzination im echten Blickfeld, mehr so eine Art zweiter "Bildschirm" auf der sich halt meine Vorstellung abspielt, und das haben manche Leute einfach nicht, dann ist so Dinge lesen natürlich ein wenig langweiliger.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Verwaltung
+  8:08 Raum
+  18:20 ?
+  ```
+
+##### #139
+
+* Titel: `Rogue Trader - 139 - Speculo: Raumschlachten [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Seit ich das mit den Schwierigkeitsgrad angepasst haben ist es zum Glück nicht mehr so anstrengend durch den Weltraum zu fliegen, ich bin dennoch der Meinung das ich die ganzen Kämpfe im Weltraum mir durchaus ersparen könnte. Insbesondere wenn man bedenkt das wir uns so ganz realistisch eher nicht im Raum reparieren könnten. Stattdessen müssten wir eigentlich nach jedem Gefecht einen Hafen anfliegen und uns dort auf Herz und Nieren prüfen lassen. Und da wir natürlich nicht Teil der imperialen Armee sind wäre das auch gut teuer, als Freihändler haben wir eine Menge Geld, aber ich kann mir sehr gut vorstellen das Leerenfahrt schnell in die tiefsten Taschen geht. Letztendlich ist es wohl genau unsere Aufgabe ohne Unterstützungsnetzwerk in die Tiefen einer Ausdehnung zu dringen, ohne jedes Mal einen Flottenstützpunkt zur Hand zu haben, aber so richtig in der Bauweise des Schiffes scheint sich mir das nicht zu reflektieren. In Subnautica, ja das Unterwasserspiel, war es ein großer Punkt das die Aurora eines der ganz wenigen Raumschiffe war die wirklich eigenständig neue Planeten erkunden können weil sie von sich aus Hyperraumsprünge machen kann und keine andere Infrastruktur beim Landen und Starten aus Gravitationsbrunnen braucht. Wäre aber auch quatsch jedes Schiff vollständig in autark in der Hinsicht zu machen wenn man nur einen Linientransport von einem bekannten System ins Nächste macht. Außerdem schreibt sich viel besserer Horror und Überlebensgeschichten wenn man dann doch wo anders als gedacht ankommt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 23.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 ??
+  15:00 ??
+  ```
+
+##### #140
+
+* Titel: `Rogue Trader - 140 - Bodenloses Loch [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Spätestens seit ich Alan Wake gespielt habe kann ich mir sehr gut vorstellen wie der Schrecken der Dunkelheit aussieht. Wenn die Schatten einfach nicht aufhören und alles Licht was man mit sich trägt einfach verschluckt wird. Wahre Dunkelheit weckt irgendetwas im Echsenhirn der Menschen, etwas Grundlegendes das man sich in unserer modernen Welt nur schwer vorstellen kann weil es mittlerweile wirklich eine Menge günstiges Licht gibt. Aus persönlicher Erfahrung habe ich da ein paar Kindheitserinnerungen aus der Zeit vor der Erfindung der blauen LED. Im Haus meiner Großeltern waren immer nur sehr sparsame Glühbirnen verbaut und davon auch nicht besonders viel. Das hat dem ganzen eine sehr heimelige Atmosphäre gegeben, aber wenn man Nachts auf den Hof gegangen ist dann war es da wirklich dunkel. Dolle dunkel, nur eine kleine Funzel im Hauseingang die quasi das Positionslicht abgegeben hat wo die Tür zu finden sei. Mein Opa hatte dazu passend dann auch noch eine Taschenlampe die jede Menge fette Batterien gefressen hat um dann eine kleine dunkle Glühbirne zu betreiben. Das ist für mich Dunkelheit, etwas das auch im hellsten Schein immer noch finster bleibt. Und das hatten wir in Alan Wake 1 und 2 ziemlich viel..und heute dann auch wieder. Ich mag solche Mysterien, allerdings weiß ich nicht was ich von dem Ende halten soll das ich dann hier habe. Irgendwie fühlt sich das komisch an.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 23.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 ?
+  5:00 Erkundung
+  7:20 ??
+  12:17??
+  25:00 Erkundungen
+  ```
+
+##### #141
+
+* Titel: `Rogue Trader - 141 - Kult der Nährer [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir hatten auf unserem Schiff einen kleinen Fall von Kelemorphs bzw. Tyranidenbefall. Ich hatte das in irgendeiner Episode ja schon einmal zusammen gefasst. Aber noch schneller gesagt, wenn nicht das Chaos dafür sorgt das aus der kleinen harmlosen Brettspielgruppe ein ausgewachsenen Massaker wird dann tun es die Genestealer. Warum genau die übrigens so heißen kann ich auch erklären. An den Genen eines normalen Menschen haben die Tyraniden natürlich relativ ziemlich wenig Interesse, aber an einen Astartes oder sogar Custodes könnte man gewiss Erkenntnisse heraus ziehen. Im Handbuch von Starcraft 1 wurde ein ähnlicher Prozess beschrieben wie die Zerg andere Wesen assimilieren und sich bestimmte Ausprägungen der Biologie zu nutzen machen und dann diese Eigenschaften in ihr eigenes Erbgut spleissen. Das geht irgendwie davon aus das Gene universell bei allen Lebewesen sind und das es sich dabei um einen Bauplan handelt, in der echten Welt sind Gene aber mehr ein Rezept zum Backen das voraussetzt das man eine komplette Küche und übliche Geräte bereits da hat, es würde also nicht so einfach funktionieren.
+  
+  Zurück im Thema, diese Tyranidenunterwanderung ist ein großes Problem. Menschen neigen dazu individualistisch zu sein und dann gibt es die Hive Städte und Siedlungen in denen das Individuum überhaupt nichts wert ist. In einer solchen Umgebung kann die Verderbnis extrem gut gedeihen und gewaltiges Momentum annehmen bevor es irgendjemand merkt. Quasi schlimmer als ein Chaoskult weil die Leute nach ihrer Infizierung sofort an Bord sind ohne das man ihnen irgendwie zu sprechen müsste. Chaos ist subversiv und so, aber letztendlich gibt es da etwas Willenskraft. Ich weiß nicht ob man gegen den Kuss des Kelemorph irgendetwas tun kann. Ich bin mir nicht einmal sicher ob die Infizierten wirklich noch die selbe Person sind oder einfach quasi ein neues Wesen darstellen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 23.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 ??
+  20:40 ??
+  ```
+
 ##### #Nummer
 
 * Titel: ``

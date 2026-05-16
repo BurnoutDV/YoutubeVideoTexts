@@ -2280,6 +2280,244 @@
   20:40 ??
   ```
 
+##### #142
+
+* Titel: `Rogue Trader - 142 - Cyrene: Entermannschaft [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich verstehe das im Chaos des 41ten Jahrtausend vieles Verloren gegangen ist und bestimmte Waffen, Ausrüstungen und Ausbildungen einfach echt selten sind. Also wirklich selten. Nicht jede Armee hat ihre Experten und manche Dinge übersteigen sogar die Fähigkeiten und Möglichkeiten eines Freihändlerns. Allerdings stelle ich mir wirklich die Frage ob es echt zu viel verlangt ist ein Expertenteam für besondere Zwischenfälle vor zu halten? Es kommt ja doch relativ oft vor das wir verdächtige Warprouten entlang fliegen und das Leben als Freihändler birgt nun einmal gewisse Risiken. Mein Hauptpunkt ist einfach warum ich als Freihändlerin mit meinem Gefolge das die einzige Navigatorin im Schiff und unter Umständen auch den ersten Maschinenseher beinhaltet, nicht zu vergessen der treue Truchsess beinhaltet. Lauter wichtige Leute die besser nicht in irgendeinen Gefecht verunglücken sollten. Das die normalen Enforcer die den Pöbel niederhalten dafür nicht geschaffen sind ist mir schon klar, aber irgendetwas dazwischen wäre echt wünschenswerte. Vispers Elite oder so. An Ausrüstung soll es doch echt nicht mangeln.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 27.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  3:24 Kampf
+  14:54 Dialoge
+  21:00 Raumschlachten
+  ```
+
+##### #143
+
+* Titel: `Rogue Trader - 143 - Dargonus: Landetruppen [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Welten die eine Freihändlerin kontrolliert sind wahrscheinlich ein wenig anders aufgebaut als reine imperiale Welten, aber selbst die haben wahrscheinlich keine Flotte die sich dauerhaft im Orbit aufhält oder als schnelle Eingriffstruppe dient. Da die meisten Planeten ihren Zehnt zahlen und damit wohl auch Personal für das Astra Militarum würde ich aber davon ausgehen das jeder entwickelte Planet über eine ordentliche Anzahl an Bodentruppen in verschiedenen Ausbildungsstufen verfügt. Ein Planet der sogar das Zentrum der Dynastie ist sollte daher, da er ja auch einen Zehnt abgibt, über eben solches Personal verfügen, und das quasi in jeder Hive Stadt, aber das war dann wohl ein wenig zu viel verlangt. Wie genau man einen Planeten von einer Weltrauminvasion beschützt vermag ich übrigens auch nicht zu sagen. Einerseits sind Planeten ziemlich sicher in ihrer Struktur, nicht wie Raumstationen, aber das dadrauf jemand landet lässt sich schwierig verhindern wenn man nicht alles mit Abwehrkanonen vollpflastert. Das wäre teuer. In Stellaris gibt es planetenweite Schilde, aber das klingt noch teurer. Am besten wäre es wohl wenn es einfach nicht so weit kommt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 27.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  7:52 Raumkampf
+  13:33 Dialoge
+  21:33 Kampf
+  ```
+
+##### #144
+
+* Titel: `Rogue Trader - 144 - Dargonus: Tazarras letztes Gefecht [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hadere immer ein wenig damit Titel so zu schreiben das sie das Ende bereits vorher feststellen. Allerdings muss man das auch im Kontext sehen. Wir sind die Heldin dieser Geschichte, Held steht hier natürlich in Anführungsstrichen, es ist ja nicht so das wir das strahlende Beispiel der Moral oder Regeltreue sind. Allerdings bezweifle ich auch das das überhaupt möglich ist. Die Welt hat tief gehende Probleme und es ist quasi ein Wunder das überhaupt auch nur noch eine Gesellschaft existiert. Wir sind ein Produkt dieser Welt und mehr noch, ein Produkt der Gesellschaft die unter diesen Bedingungen existieren kann. Im Märchen ist der strahlende Held natürlich jeder einzelnen Silbe des Gesetzes folgend, aber wenn wir das hier machen würden kämen wir zu Nichts, mal davon abgesehen das sich das Gesetzt in sich widerspricht, ob das wirklich Absicht ist vermag ich gar nicht zu sagen. Der Punkt ist aber, wir sind nicht die weiße Lady zu hohem Ross. Und Tazarra ist das auch nicht. Ich hatte unlängst ein Gespräch über die Dark Eldar und wie es in modernerer Fantasy nicht mehr einfach böse Rassen gibt sondern die Dinge komplexer sind. Ein Eldarkind wäre nicht weniger oder mehr böse als ein Menschliches. So weit ich das verstanden habe ist der Deal der Drukhari das sie genügend Dinge tun die Slaanesh erfreuen das sie(?) sie in Ruhe lässt, die Aeldari haben halt den umgedrehten Ansatz, sie tun möglichst gar nichts um dem Einfluss zu entkommen. Zweitere Taktik ist für meinen moralischen Kompass wesentlich verträglicher. Da Tazarra aber mehr eine Gladiatorenkämpferin und kein großer Nemesis ist braucht man wohl nicht auf den Redemption Arc hoffen, insofern stand das Ergebnis schon fest und nur das wie bleibt spannend. Die Antwort auf Seite 12 wird sie überraschen!
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 28.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  2:50 Kampf
+  ?
+  ```
+
+##### #145
+
+* Titel: `Rogue Trader - 145 - Dargonus: Thronsaal Verteidigung [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel ist absolut irreführend. Das passiert häufiger, und ehrlich gesagt so häufig das ich es quasi oben in der Kanalbeschreibung schreiben könnte. Und das ich in den ersten Absätzen einer Beschreibung über das Meta-Youtube Zeug spreche ist quasi auch eine echte Konstante. Das wird noch viel witziger wenn man sich anschaut das es quasi in jeder Beschreibung nur einen einzigen Absatz gibt. In der Regel schreibe ich nur einen Absatz. Und dieses Mal ist es irreführend weil wir unseren Thronsaal wieder zurückerobern. Drinnen wartet jemand auf uns aber wir hätten genauso gut auch wieder gehen können. An sich handelt es sich um einen bedeutungslosen Raum mit ein paar sterbenden Adeligen darin die uns wirklich sehr egal sind. Warum sich also die Mühe machen in einer taktisch ungünstigen Umgebung zu kämpfen nur um unter Umständen Verluste über dem zu erleiden die wir bereits hatten? Wäre es nicht einfacher unser Flaggschiff einmal auf den Palast feuern zu lassen und danach die Ruinen einzunehmen. Es gibt taktisch wichtige Stellungen und dann gibt es symbolische Stellungen. Natürlich ist die Symbolik für die Bevölkerung wichtig, aber dafür hat man doch eine Propagandaabteilung. Bedeutungslose Siege über leere Räume sind etwas für Idealisten und Idioten. Das steht dem Profit eindeutig im Weg. Das alles gesagt, anscheinend habe ich nicht wirklich eine Wahl, das Spiel versetzt mich in die Mitte..also erobern ich zu erst den Thron und arbeite mich von da aus vor ran. Nicht freiwillig!
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 28.04.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #146
+
+* Titel: `Rogue Trader - 146 - Schiff: Entität NomOS [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Künstliche Intelligenz klingt nach einer guten Idee..sobald wir das mit der natürlich Intelligenz gelöst haben. Aktuell ist die Diskussion darum in der Realität ziemlich groß, auch wenn LLMs nur für die Marketingabteilung echte Intelligenz sind. Für alle Anderen ist es eine Markov-Kette auf Crack..diese Aussage ist übrigens ignorant, ganz so einfach ist es tatsächlich nicht. Der Unterschied geht ein wenig tiefer und das zuzugeben ist ebenfalls wichtig. Wo genau der Unterschied zwischen dem Maschinengeist und einer echten künstlichen Intelligenz liegt vermag ich übrigens noch weniger zu sagen. Ich würde spontan behaupten das es rein technisch keinen gibt. Alles was der Adeptus Mechanicus baut ist unnötig komplex und verfügt über eine ganze Reihe von redundanten Funktionen was wohl daran liegt das niemand weiß wie die Dinge wirklich funktionieren. Wenn man dann auch noch lobotomierte Gehirne von Verbrechern, Unschuldigen und unterproduktiven Arbeitern mit rein wirft kommt man schnell in eine Situation in der absolut nichts mehr deterministisch ist. Und so kommen wir dann in die Gegenwart der Entität NomOS. Zumindest stand der Name in den Logfiles, sie selbst nicht sich nur selbst Nomos. Jetzt müssen wir nur noch aufpassen das wir nicht gefressen werden.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #147
+
+* Titel: `Rogue Trader - 147 - Schiff: der Vorfall [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Vorfall im Titel ist, wie immer, Clickbait. Der hier angesprochene Vorfall, das Epitaph, geschah vor unbekannt langer Zeit und so wie es aussieht kann sich niemand daran erinnern. Was eventuell daran liegt das der entsprechende Vorfall ein Ausfall der Schiffssystem für wenige Sekunden war. In den entsprechenden Abteilungen werden die Leute das als ein gewöhnliches Flackern gesehen haben und nur die Wenigstens werden wohl mit anderen Abteilungen ihren Notizen verglichen haben. Ich würde also argumentieren das hier kein übernatürliches Ereignis die Erinnerung der Menschen ausgelöscht hat sondern das es einfach wenig gibt an das man sich erinnern kann. Aber der Vorfall hat wohl die Geburtsstunde von NomOS eingeläutet, zumindest wage ich das jetzt einfach mal zu behaupten. Weiter hat der damalige Maschinenseher Prime durchaus etwas bemerkt. Immerhin haben wir durch dieses Ereignis überlebt und das ist doch auch ganz schön.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 04.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  8:54 ???
+  11:00 ??
+  ```
+
+##### #148
+
+* Titel: `Rogue Trader - 148 - Dargonus: Magnea Accessio [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kurz nach Theodoras tot haben wir uns einfach selbst als Freihändlerin erklärt, als einziger lebender Erbe und zum entsprechenden Zeitpunkt auch bester Thronfolger den Titel sofort an uns gerissen. Und so richtig zweifeln tut da auch keiner daran. Ich denke das es auch daran liegt das die Adeligen in unserem Reich sehr daran gelegen ist das sie auch weiterhin unter der Flagge eines Freihändler Hauses weitermachen dürfen. Wenn es keinen Nachfolger geben würde, der Handelsbrief verschwinden würde oder die Dynastie sich einfach auflöst, dann würde das wahrscheinlich bedeuten das alle Reiche der Von Valancius Dynastie zurück ans Imperium fallen und das kann eigentlich keine Verbesserung der Umstände bedeuten. Aber so richtig ordentlich war dieser Aufstieg auch nicht, also machen wir das jetzt mit einer außerordentlichen Zeremonie die wir uns gewisse einiges kosten lassen. Ich bin mir sicher ziemlich viele Leute könnten mit dem Geld das wir darauf verbrauchen eine lange Zeit leben. Oder sogar besser leben. Ich glaube ich bin einfach viel zu sehr Peasant um jemals Prunk zu verstehen. Immer wenn ich goldene Paläste sehe sehe ich nur Verschwendung, Oberflächlichkeit und platte Freude. Ja, ich kann den Sinn und auch die Freude eines großen Hauses sehen, sogar einer Villa, aber irgendwann ist eine Größe erreicht die alles lächerlich macht und Reichtum so sinnlos erscheint. Wir haben für diese Situation übrigens das schöne Wort überreich. Strittig bleibt nur wie drastisch die Schritte sein müssen wenn ein Individuum dieses Adjektiv verdient.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 04.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #149
+
+* Titel: `Rogue Trader - 149 - Dargonus: Ballgespräche [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute Nacht habe ich davon geträumt auf einen Ball zu tanzen. Vielleicht sogar motiviert von dieser Episode und den verschiedenen Erinnerungen die ich damit verbinde. Ich selbst kann übrigens nicht tanzen, so gar nicht. Nicht improvisiert und auch nicht formell. Das kann man natürlich lernen und es gib auch Leute die haben daran Spaß. Wenn man Spaß an Dingen hat fällt es in der Regel einfacher sie zu lernen. Ich glaube nicht das ich Spaß daran habe. Der Ball als Abendveranstaltung im Leben der einfachen Bevölkerung ist eine Imitation von definitiv Überreichen. Eine blasse Nachstellung von unnötigen Prunk, einer Zusammenkunft die viel mehr Schein als Sein ist. Der Tanz ist nicht wichtig, Kommunikation steht im Mittelpunkt. Von der herrschenden Klasse untereinander, wer mit wem tanzt, für die zukünftige Dynastiebildung. Der eigentliche Anlass ist fast bedeutungslos. In diesem Fall könnte es tatsächlich sein das der Anlass wirklich wichtiger ist als das allgemeine Zusammentreffen. Nicht weniger wichtig sind die Gespräche. Nicht weniger wichtig ist es mit wichtigen Leuten gesehen zu werden. Nicht weniger wichtig ist es nicht mit den falschen Leuten gesehen zu werden. Alles ist wichtig, nichts ist wichtig. Sehen und gesehen werden. Direkte Taten sind weniger wichtig als implizierte Taten. Soviel subtext, soviel Unehrlichkeit. Für maximale Irritation hätten wir Kibellah und Yrelet mit nehmen sollen, um jeden zu zeigen das wir über diese Dinge stehen. Aber so rein im Rollenspiel gesprochen, glaube ich nicht das unsere Position so fest ist, oder jemals sein kann, das wir uns das erlauben könnte. Eine solche Tat hätte Kosten gehabt, und Kosten sind generell nichts das wir willentlich in Kauf nehmen. Umso reicher man ist, umso weniger möchte man ausgeben. Und deswegen machen wir mit, bei all den kleinen Machtspielchen. Ich empfinde keine Freude daran, und das aus einer Position der Stärke. Man stelle sich vor man ist ein kleiner Adeliger der nur fünf Minuten Zeit hat diese Chance zu nutzen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #150
+
+* Titel: `Rogue Trader - 150 - Dargonus: ein Angebot [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Freihändler haben, in der Theorie, ihr Mandat direkt vom Gottimperator persönlich. Zumindest einige. Soweit ich das verstanden habe hatten die ersten Handelsbriefe noch einen einzelnen Tropfen des Blutes des Imperators selbst in sich drin. Bei Anderen ist das nicht der Fall. Da Kunrad so sehr daran interessiert war unseren Handelsbrief in die Finger zu bekommen vermute ich sehr stark das der von Valancius Brief genau ein solcher aus der ersten Kategorie ist. Aber absolute Allmacht wird von Macht getragen, persönliche Macht die wir nicht haben. Wir sind nicht Big E. Unsere Macht setzt sich aus Kontakten, Geflechten, Gefallen und Verträgen zusammen. Verträge die von einer anderen Instanz wie dem Gesetz des Imperiums umgesetzt werden. Das Imperium als Reich ist ein sehr komplexes System das dank Feinden an allen Ecken in ständiger Lebensgefahr schwebt. Es besitzt verschiedene Abwehrsystem die für seinen Erhalt einstehen. Eines dieser System ist die Inquisition. Freihändler sind soweit ich das verstanden habe ungefähr gleichwertig mit der Inquisition..aber auch nicht immer. Je nach dem wer mehr Macht hat. Und unsere Macht ist neu und eventuell nicht so stabil wie es scheint wenn wir das testen müssten. Die Inquisition ist ein Drache. Für die einfachen Bürger ist sie absolut und wenig kompromissbereit, aber auch die Inquisition erkennt Macht an und erkennt Werkzeuge. Es gibt eiserne Regeln aber der Ordo Xeno ist beispielsweise durchaus bereit Alienartefakte für seine Zwecke zu nutzen. Oder Freihändler die sich nicht strikt an die Regeln halten. Ein Werkzeug kann weggeworfen werfen, aber ein nützliches Messer nur wegen der falschen Farbe des Griffes weg zu werfen wäre auch Verschwendung, und auch die Inquisition unterliegt Einschränkungen. Alles ist Grau, und daher erhalten wir heute ein Angebot. Von einer grauen Instanz zur Anderen. Vielleicht einer der freisten Entscheidungen im Imperium. Eine echte Wahl.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #151
+
+* Titel: `Rogue Trader - 151 - Schiff: Kapitel 3 [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und wir sind in Kapitel 3. Ich weiß nicht wie viele Kapitel das Spiel hat, das klassische Theater hat meistens 5. Das würde bedeutet das dieses Kapitel auch das Längste wäre. Das wieder rum wäre schlecht weil bereits das zweite Kapitel wirklich lange gedauert hat. Andererseits haben wir ja einen freien Willen und wichtiger, eine offene Welt, oder zumindest partiell offen. Und so gehe ich davon aus das all die System die wir nebenher bereist haben offene Inhalte waren die wir auch später hätten bereisen können. Insofern erwartet uns wahrscheinlich eher weniger lange Kapitel. Sobald wir das vierte erreichen rechne ich damit das wir uns auf Schienen bewegen und das fünfte uns quasi keine Wahl lässt. Also steigen wir ein, aber der erste Schritt ist wohl sehr vorgegeben, stellt sich doch glatt heraus wir hätten eine bestimmte Frage des Gesetzes sofort angehen sollen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  5:00 Inventarmanagement
+  7:20 Dialoge
+  17:23 Level Up
+  21:32 Dialoge
+  ```
+
+##### #152
+
+* Titel: `Rogue Trader - 152 - Lavellas Herz: Thassera [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte da noch einen kleinen Auftrag für den lokalen Arm des Steuergesetzes offen und ich hätte es beinahe gegen den Baum gefahren weil ich mir ein wenig zu viel Zeit gelassen hätte. Ich vermute einmal das es die Begrenzung gibt weil irgendein Begleiter oder eine andere Entwicklung es sehr seltsam machen würde wenn wir später an diesen Ort kommen würden. Ich bin dann übrigens doch recht glücklich das ich alles habe stehen und liegen lassen habe um mich nach Thassera auf zu machen. Es handelt sich um eine so genannte Feudalwelt und mir ist das Konzept nicht so ganz geläufig. Ich habe mich null damit vorher beschäftigt. Feudalwelten sind übrigens nicht mit "Knightworlds" zu verwechseln, also der Ort von dem Heinrix kommt. Stattdessen handelt es sich um Planeten die auf ein Technologielevel ähnlich des Mittelalters zurückgefallen sind. Allerdings stelle ich ernsthaft in Frage warum das Imperium daran irgendein Interesse haben sollte. Wenn alles per Hand gemacht wird ist doch die Produktionsrate wesentlich geringer und es wird eine Menge potenziellen Ertrages liegen gelassen. Selbst wenn man nur das Personal rekrutiert, der notwendige Bildungsaufwand ist doch wesentlich höher wenn man irgendwelche Bauern in Stand setzen will. Klar, Verständnis ist optional nur Gehorsam zählt aber die Maxime hat auch Grenzen. Kurzum, ich verstehe nicht warum eine Mittelalterwelt existieren sollte, außer natürlich für den Flavor.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  5:00 Inventarmanagement
+  7:20 Dialoge
+  17:23 Level Up
+  21:32 Dialoge
+  ```
+
+##### #152
+
+* Titel: `Rogue Trader - 152 - Lavellas Herz: Thassera [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte da noch einen kleinen Auftrag für den lokalen Arm des Steuergesetzes offen und ich hätte es beinahe gegen den Baum gefahren weil ich mir ein wenig zu viel Zeit gelassen hätte. Ich vermute einmal das es die Begrenzung gibt weil irgendein Begleiter oder eine andere Entwicklung es sehr seltsam machen würde wenn wir später an diesen Ort kommen würden. Ich bin dann übrigens doch recht glücklich das ich alles habe stehen und liegen lassen habe um mich nach Thassera auf zu machen. Es handelt sich um eine so genannte Feudalwelt und mir ist das Konzept nicht so ganz geläufig. Ich habe mich null damit vorher beschäftigt. Feudalwelten sind übrigens nicht mit "Knightworlds" zu verwechseln, also der Ort von dem Heinrix kommt. Stattdessen handelt es sich um Planeten die auf ein Technologielevel ähnlich des Mittelalters zurückgefallen sind. Allerdings stelle ich ernsthaft in Frage warum das Imperium daran irgendein Interesse haben sollte. Wenn alles per Hand gemacht wird ist doch die Produktionsrate wesentlich geringer und es wird eine Menge potenziellen Ertrages liegen gelassen. Selbst wenn man nur das Personal rekrutiert, der notwendige Bildungsaufwand ist doch wesentlich höher wenn man irgendwelche Bauern in Stand setzen will. Klar, Verständnis ist optional nur Gehorsam zählt aber die Maxime hat auch Grenzen. Kurzum, ich verstehe nicht warum eine Mittelalterwelt existieren sollte, außer natürlich für den Flavor.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  5:00 Inventarmanagement
+  7:20 Dialoge
+  17:23 Level Up
+  21:32 Dialoge
+  ```
+
+##### #154
+
+* Titel: `Rogue Trader - 154 - Thassera: Maskenspiel [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Brauch mit den angeklebten Gesichtern ist absolut "on-brand" für das 40K Universum, auch wenn wir uns grade auf einer Feudalwelt befinden. Ich frage mich zwar wie man das mit der Hygiene macht weil selbst bei den Prothesen und anderen Servogeschichten wird zwischenzeitlich durchaus erwähnt das die Dinger gelegentlich Wartung brauchen, insbesondere der Übergang von Fleisch zu Metall. Klar kann man sowas mit Nanobots oder so weg erklären, aber das passiert in diesem Universum offensichtlich nicht. Alles ist irgendwie eklig und bei näheren Hinschauen nicht besonderes appetitlich, dauerhaft schwellende Wunden ist also die logische Konsequenz. Außer man ist zufälliger genau die Geschmacksrichtung Psyker die sich selbst reparieren kann, aber das ist auch nur ein Spiel auf Zeit. Neben den hygienischen Fragen kommt natürlich noch eine weitere Problematik auf: was hindert jemanden daran sich die Maske eines Anderen an zu eignen, quasi die Persönlichkeit zu kopieren und mit dem Gesicht einer bekannten Person selbst an die Stelle zu treten. Ein paar grundlegende Sachen müssten natürlich stimmen, aber ich bin mir sicher da gibt es trotzdem immer ein paar Kandidaten.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 08.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf
+  11:40 Dialoge
+  ```
+
+##### #155
+
+* Titel: `Rogue Trader - 155 - Thassera: Altar der Veränderung [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe es irgendwie verpasst auf das komische Spiel der Adeligen zu kommentieren und jetzt sind wir daran vorbei. Hier also die Kurzfassung, das die Diener die sich verkleidet haben ihr Leben verlieren wenn sie Auffliegen überrascht mich eigentlich nicht aber ich hatte ganz kurz vergessen in welchem Universum wir sind und war dann doch überrascht. Naja, das ist jetzt auch schon passiert und wir machen einfach mal weiter. Im Vorfeld haben wir ja schon ein paar Ungereimtheiten entdeckt, wie die Anwesenheit eines bestimmten Kristalls der ein paar mehr Auswirkungen hat. Mich stört übrigens das ich hier nicht so richtig roleplayen darf. Ich, also Visper Cora, bin mittlerweile Psyker Extremis und damit würde ich behaupten ziemlich empfindlich für die Schwingungen des Warp und all seiner Manifestationen, quasi sehr erfahren im Umgang mit der ganzen Geschichte. Und doch sind wir nicht in der Lage widerstand zu leisten wenn es darauf ankommt oder sogar im Vorfeld ein zu greifen. Schlimmer noch, irgendein drittklassiger abgehafteter Aushilfspsioniker kann uns überwältigen. Ich finde das sehr beleidigend. Aber immerhin dürfen wir heute eine ganz neue Erfahrung machen, das ist auch ganz cool, wenn auch sehr holprig erklärt wie wir da hin kommen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 08.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf
+  8:40 Dialoge
+  ```
+
 ##### #Nummer
 
 * Titel: ``

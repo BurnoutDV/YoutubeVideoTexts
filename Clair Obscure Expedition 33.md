@@ -189,6 +189,36 @@ Playlist:
   Es war gar nicht so schwer und wir sind wirklich nur ein paar Mal auf der Reise dorthin gestorben, aber hier sind wir jetzt. Im Dorf der Gestral. Das sind allgemein recht witzige Wesen die irgendwie auch etwas erschaffen aber auch irgendwie in den Tag hinein leben. Es könnte eventuell damit zu tun haben das sie keine Gommage zu fürchten haben und wahrscheinlich auf der Welt die war oder gekommen ist ursprünglich heimisch waren. Soweit ich das verstanden habe sind sie auch technisch gesehen unsterblich. Oder anders gesagt, sie sind wieder sterblich. Ihr aktueller Körper kann zwar ableben aber es ist möglich das sie wieder auferstehen in einen neuen Körper und quasi ein neues Leben beginnen. Das Ganze kommt wohl mit Nachteilen sodass der Tod immer noch nichts ist was man super leichtfertig in Kauf nehmen möchte aber er hat eindeutig weniger Biss wenn es die gute Chance gibt schon bald wieder dabei zu sein.
   ```
 
+##### #17
+
+* Titel: `Clair Obscure: Expedition 33 - #17 - Golgra und die Arena  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Sterblichkeit ist ein wichtiger Aspekt für Menschen. Für das Denken und für die Wahrnehmung der Welt um uns herum. Es gibt genügend Menschen die immer sagen werden das sie Unsterblichkeit oder sogar ein sehr langes Leben direkt ablehnen würden, gerne auch aus religiösen Gründen. Dann hat man Menschen die ewig da bleiben wollen, meistens die Leute die man auf gar keinen Fall ewig haben will. Alter war bisher immerhin ein ganz gutes Mittel um viel zu reiche Individuen los zu werden, immer hoffend das ihre Nachfolger weniger psychopathisch sind als sie selbst. Ich würde allerdings vermuten das sich das Denken ändern würde wenn es eine sichere Möglichkeit geben würde eine Weile länger da zu bleiben. Es würde wohl auch dafür sorgen das die Leute wesentlich ängstlicher oder vorsichtiger werden. Wenn man nicht mehr am Lungenkrebs mit 63 oder Nierenversagen mit 78 stirbt und darauf hoffen kann einfach so easy 300 zu werden dann gibt es quasi nur noch externe Bedrohungen. Ob das dafür sorgt das Menschen Kriege mehr scheuen würde oder bewaffnete Konflikte jeder Ort würde mich allerdings sehr wundern. Es gibt natürlich auch andere Arten der Unsterblichkeit..zum Beispiel ständige Wiederauferstehung, und das bringt uns zu den Gestrals. Und warum sie Arenen so lieben.
+
+##### #18
+
+* Titel: `Clair Obscure: Expedition 33 - #18 - dunkle Träume  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein absoluter Klassiker ist ja das man auf eine große Expedition geht und wenn man dann irgendwo ankommt stellt sich auf einmal heraus das der Protagonist unwissentlich oder irgendein Begleiter wissentlich eigentlich von dem Ort kommt an den man grade gereist ist. So zumindest in Greedfall passiert, es ist noch unklar ob uns hier ein ähnliches Schicksal beschieden ist aber prophetische, dunkle Träume zu haben ist schon einmal ein eher schlechtes Zeichen für die künftige Ausgestaltung unseres kollektiven Gruppenschicksal. Auserwählte haben die unangenehme Eigenschaften alle von einer Situation in die Nächste zu ziehen. Es wäre natürlich keine Geschichte wenn das nicht passieren würde, aber manchmal wäre ein wenig mehr Klarheit und Vorhersehbarkeit aus Sicht der Protagonisten bestimmt sehr wünschenswert. Für uns als Beobachter und Spieler ist natürlich mehr Chaos auch quasi Mehrwert. Je mehr Mysterien und Geheimnisse es gibt umso besser. Bonuspunkte wenn diese intelligent kommuniziert sind.
+
+##### #19
+
+* Titel: `Clair Obscure: Expedition 33 - #19 - Esquies Nest  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben ein Transportproblem, das haben wir bei Golgra erwähnt und es wurde uns auch sofort eine Lösung angeboten. Das ist schon einmal ganz gut. Diese Lösung wird auf gar keinen Fall ein weiteres exzentrische Wesen involvieren das mehr in Rätseln als Tatsachen spricht und natürlich sofort und ohne Umschweifen seine Hilfe anbieten ohne das wir dafür irgendwelche Steine finden müssen die uns erst Stück für Stück neue Fähigkeiten geben die es uns dann ermöglichen werden in bereits besuchten Teilen der Spielwelt neue Orte zu entdecken.
+  
+  Komplett unabhängig von dem was ich gerade geschrieben habe besuchen wir heute einen Typen namens Esquie, und mit Typen meine ich Wesen und was das für ein Wesen genau sein soll vermag ich auch nicht so sein. Pro forma würde ich erstmal einmal behaupten es ist ein Wesen der Gattung Esquie mit einer Gesamtbevölkerung 1. Oder es ist ein Gestral in einem besonders kreativen Kartoffelsack den man das nicht direkt ansieht. Was weiß ich schon, und zu diesem Zeitpunkt bin ich mir nicht sicher ob wir wirklich nachfragen sollten.
+  ```
+
 ##### #Nummer
 
 * Titel: ``

@@ -219,7 +219,79 @@ Playlist:
   Komplett unabhängig von dem was ich gerade geschrieben habe besuchen wir heute einen Typen namens Esquie, und mit Typen meine ich Wesen und was das für ein Wesen genau sein soll vermag ich auch nicht so sein. Pro forma würde ich erstmal einmal behaupten es ist ein Wesen der Gattung Esquie mit einer Gesamtbevölkerung 1. Oder es ist ein Gestral in einem besonders kreativen Kartoffelsack den man das nicht direkt ansieht. Was weiß ich schon, und zu diesem Zeitpunkt bin ich mir nicht sicher ob wir wirklich nachfragen sollten.
   ```
 
-##### #Nummer
+##### #20
+
+* Titel: `Clair Obscure: Expedition 33 - #20 - Weltreise mit Esquie  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  
+  
+  Der Titel lügt. Wie so oft. Ich mache das gerne. Ich nutze diese ständige Erwartung des Click Baits in unserer Gesellschaft aus, oder anders gesagt, ich leide darunter weil es nicht wirklich Alternativen gibt. Das Understatement als lyrisches Mittel ist quasi tot, wenn irgendjemand schreiben würde "kleiner Ausritt mit Esquie", dann würden die Leute das genau so lesen. Selbst wenn das entsprechende Video vier Stunden lang ist und quasi jeden Ort enthalten würde. Insofern bin ich quasi gezwungen unsere erste richtige Reise mit dem seltsamen Kerl in höchsten Tönen zu loben und auf zu spielen. In Wirklichkeit passiert gar nicht einmal so viel, insbesondere weil wir für den Moment gar nicht so viel mehr Orte als vorher betreten können. Tatsächlich sind wir ein wenig schneller, dennoch bin ich immer noch kein großer Freund dieser Art von Weltkarte.
+  ```
+
+##### #21
+
+* Titel: `Clair Obscure: Expedition 33 - #21 - Gelbe Ernte  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt Orte die sind Pflicht, es gibt Orte die sind nur quasi eine Kulisse in denen wir einen Gegenstand ernten und dann gibt es noch Orte die wir zwar betreten können die aber eigentlich gar nicht so sehr wichtig sind. Außerdem gibt es noch Plätze die auf dem ersten Blick so aussehen als gäbe es hier nur ein wenig etwas zu erkunden und dann stellt sich am Ende heraus das es sich um die Hauptquest handelt und wir ganz aus Versehen weiter gekommen sind. Ein solcher Ort ist die gelbe Ernte, eigentlich fand ich es dort nur visuell interessant, aber es stellt sich doch glatt heraus das es sich um einen wesentlich signifikanteren Ort handelt als ich ursprünglich dachte. Der Name hat übrigens dann mit dem Platz den wir betreten gar nicht einmal so viel zu tun. Ja sicherlich, er ist gelb aber wo jetzt genau die Ernte ist vermag ich nicht zu sagen.
+  ```
+
+##### #22
+
+* Titel: `Clair Obscure: Expedition 33 - #22 - Gestral Strand und Arena  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein sich wiederholendens Thema das mir zum Zeitpunkt dieser Episode noch gar nicht als wiederholend bewusst war ist der Gestral Strand. Clair Obscure ist zwar irgendwie auch ein sehr ernstes Spiel, auf der anderen Seite gibt es aber auch durchaus witzige und kleine verspielte Momente. Diesen finden unter Anderem am Gestralstrand statt. Die Gestral sind generell witzige Kerlchen, und so sollte es niemand überraschen das sie auch eine kleine Strandparty schmeißen. Wenn man den Tod nicht fürchtet dann macht es wahrscheinlich auch gleich wesentlich mehr Spaß an irgendwelchen gefährlichen Küsten abzuhängen und halsbrecherische Spiele zu spielen. Und das bringt uns dann zur heutigen Episode. Es stellt sich doch glatt heraus das ich gar nicht einmal so gut in diesen Herausforderungen bin und auch nicht über die längste Geduldsleine verfüge. Bedauerlich.
+  ```
+
+##### #23
+
+* Titel: `Clair Obscure: Expedition 33 - #23 - Maelles Albtraum  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Schöne ist das ich diese Texte hier noch nicht aus der absolut omnipräsenten Perspektive schreibe. Ich muss allerdings sagen das ich trotzdem schon ein wenig spät dran bin, um nicht zu sagen, es folgen noch 30 Episoden die schon lange im Kasten sind zu dem Zeitpunkt an dem ich das hier schreibe. Ich habe dennoch absolut keine Ahnung was es jetzt mit Maelle auf sich hat. Ich habe ein paar Vermutungen und eventuell habe ich zwischenzeitlich ein Artbook durchgeblättert das mir leider ein paar Hinweise geliefert hat. Allerdings nicht direkt zu Maelle. Das ist dann ja schon mal ganz gut. Ich habe in letzter Zeit für mich entdeckt Webnovels und übersetzte Novels zu lesen, da ist ziemlich viel Schund bei und wahrscheinlich wäre meine Zeit besser darin investiert echte Bücher zu lesen, da gibt es auch genügend Inhalte. Aber, eines das ich grade lese hat eine halbwegs aktive Community und es macht mir Spaß im Kommentarbereich Kapitel um Kapitel Theorien aufzustellen. Das geht natürlich nur wenn man nicht das Gesamtwerk schon kennt. In diesem Fall wäre das mit dem Einsatz von Geld ja durchaus möglich, aber die meisten Leute warten wie ich auf die Free Chapter. Nachdem ich all das gesagt habe habe ich gar kein Platz mehr für meine Theorien für Maelle..schade.
+  ```
+
+##### #24
+
+* Titel: `Clair Obscure: Expedition 33 - #24 - Steinwellenklippe  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Steinwellenklippen sind ein extrem wichtiger Ort. Ein Kipppunkt, ein Meilenstein und all das ist absolut im Vorfeld nicht ersichtlich. Ich möchte da gar nicht so viel vorher darüber reden, aber die Ankunft hier markiert einen wichtigen Fortschrittspunkt. Es ist ja nicht das wir noch großartig etwas Anderes hätten tun können, und doch bedauere ich das ich nicht mehr Zeit mit der Gruppe wie sie jetzt grade ist hätte verbringen können. Aber das macht wohl das Pacing eines Spieles aus, das man sich nicht tausende von Jahren mit Slice of Life auffällt sondern Ergebnisse liefert. Passiv dabei zu zu sehen wie das Leben vorbei rinnt ist auch eher selten Gegenstand von Computerspielen. Das Medium gebietet ja schon irgendwie das man selber aktiv Dinge tut nicht wahr? Wir betreten also die Steinwellenklippen.
+  ```
+
+##### #25
+
+* Titel: `Clair Obscure: Expedition 33 - #25 - Schrein der Malerin  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Auf der einen Seite liebe ich es ja wenn man sich die Realität langsam zusammen stückeln darf, man kennt das Verfahren aus Soulsborne Spielen. Allerdings ist da ein ziemliches großes Sternchen dran. Wenn man Hinweise übersieht kann es recht schnell vor kommen das man ganze Teile der Geschichte völlig verpasst weil ein wichtiges Puzzleteil einfach fehlt. Davor habe ich immer eine Menge Angst. Oder alternativ hat man es mit faulen Entwicklern zu tun die nicht jedes Detail der Geschichte ausgeschrieben haben und man sich dann am Ende wundern muss warum bestimmte Dinge einfach nicht erklärt werden. Heute erfahren wir ein winziges Nugget über den Ursprung der Malerin, die scheint ja irgendwie auch eine reale Person zu sein die Dinge tut. Zwar sehr mechanisch aber sie tut Dinge, und alles spricht dafür das sie in der Vergangenheit einst mehr tat. Da wir aber nicht wissen wie lange diese Vergangenheit wirklich her ist könnte es durchaus sein das das aktuelle Tempo das sie so vorlegt einfach sehr normal für sie ist und Entwicklungen wie die Nevronen einfach Jahrhunderte gedauert haben und der aktuelle Countdown nur ein kleines Projekt sind.
+  ```
+
+##### #26
+
+* Titel: `Clair Obscure: Expedition 33 - #26 - Gezeitenhöhle  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es wird auffällig das ein Ort besonders ist wenn man ungefähr dreimal soviel Zeit damit verbringt ihn zu durchqueren. Vergangene Storyverließe hatten schon auffällige Merkmale und waren insgesamt ein wenig länger aber das hier schießt den Vogel ab. Ich kann bereits sagen das die nächste Episode auch nicht zu einer Konklusion führen wird und wir noch mehr herum irren. Obwohl herum irren wohl ein wenig hart zu mir selbst ist, letztendlich gehe ich halt jeden möglichen Weg ab um ja nichts zu verpassen. Ich hatte ja erwähnt das wir uns die Geschichte selber zusammen bauen müssen wenn wir am Ende irgendeine Hoffnung haben wollen was jetzt genau passiert ist. Es könnte allerdings am Ende auch heraus finden das die echte Geschichte auf einer höheren Ebene statt findet und alles was wir sehen nur schwache Abbilder einer größeren Realität sind die unsere Gehirne eh nicht in der Lage sind zu verstehen. Das wäre dann sehr schade, aber für den Fall das dem nicht so ist laufe ich trotzdem jeden Meter ab, soweit kommt es noch das ich wichtige Hinweise übersehe.
+  ```
+
+##### #27
 
 * Titel: ``
 
@@ -229,7 +301,7 @@ Playlist:
   Hier
   ```
 
-##### #Nummer
+##### #28
 
 * Titel: ``
 

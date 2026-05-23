@@ -293,22 +293,30 @@ Playlist:
 
 ##### #27
 
-* Titel: ``
+* Titel: `Clair Obscure: Expedition 33 - #27 - Basaltwelle  [Let's Play, ger, blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Diese Episode ist ein wenig besonders, oder auch nicht, aber ich habe irgendwann angefangen Folgen nach den Wegpunkten innerhalb der Level zu benennen und so kommt es jetzt das wir hier etwas mit dem Titel "Basaltwelle" haben obwohl die Selbige als Ort einfach nicht so recht vorkommt. Also schon, aber ich glaube nicht das es den meisten Leuten bewusst ist. Man möchte es kaum glauben aber ich mache mir erstaunlich viele Gedanken darüber wie ich erfolgreicher sein könnte, und wenn ich damit fertig bin mache ich weiterhin Let's Plays weil ich nur das kann und alles Andere aufwendig wäre. Zurück zum Thema, ich sehe nicht das irgendjemand jemals nach "Clair Obscure 33 Basaltwelle" suchen wird. Es ist ja nicht so das es hier irgendwelche Rätsel gibt. Das sind übrigens meine besten Videos, wenn das Spiel irgendeine Art von Rätsel hat, sei es noch so trivial, und der Name des Rätsels im Titel steht bzw. es irgendwie offensichtlich ist um was es sich handelt.
+  
+  Aufnahme von 24.12.2025, Sitzung Sitzung 5
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
   ```
 
 ##### #28
 
-* Titel: ``
+* Titel: `Clair Obscure: Expedition 33 - #28 - Lampenmeister  [Let's Play, ger, blind]`
 
 * Beschreibung:
 
   ```markdown
-  Hier
+  Es gibt Kämpfe die sind schnell vorbei und an die erinnere ich mich nicht mehr, insbesondere aus der Perspektive von jemanden der die Beschreibungen 6 Monate später schreibt. Ich erinnere mich noch sehr gut an die Viecher die meine Leute fressen weil das etwas ist das mich endlos geärgert hat. Ich erinnere mich noch an einige chromatische Bosse weil ich übel auf dem Kopf bekommen habe. Woran ich mich nicht erinnere sind die ganzen Bosse dazwischen. Da war bestimmt was aber meine Erinnerung ist schwammig und ich weiß von nichts. Der Lampenmeister gehört aber definitiv nicht zu dieser Kategorie, ich würde sogar wagen ihn als einen der ikonischsten Bosse zu bezeichnen, als stilprägend. Nicht für den Mob selber, sonder für das was alles damit zusammenhängt. Als Folgentitel übrigens auch wunderschön, diejenigen die wissen was kommt können hier sehr zielgerichtet zuschlagen, und wer nicht weiß was passieren wird ersieht im Titel keine tiefere Bedeutung.
+  
+  Aufnahme von 24.12.2025, Sitzung Sitzung 5
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
   ```
 
 ##### #54
@@ -360,4 +368,130 @@ Playlist:
 
   ```markdown
   Am Ende dieser Episode bleiben eine Menge Fragen. Ich schreibe diese Beschreibung relativ zeitnah, also wenige Stunden nach der Aufnahme wo die Erinnerungen noch frisch sind. Und mir scheint das die Axiome ein wenig mehr sind als einfach eine weitere Daseinsform wie die Gestral oder Nevronen, generell scheint hier Einiges unter der Oberfläche zu passieren was ich nicht sofort ersehen kann. Klar ist, Axiome sind sehr sehr mächtig. Nicht nur kontrollieren sie die Nevronen in der Gegend, vielleicht erschaffen sie sie auch, sie verändern sie auch ihrem Willen. Ob sie frei handeln können vermag ich nicht zu sagen, aber es scheint das sie eine bestimmte Funktion für irgendetwas zu erfüllen. Wir haben bis jetzt nur ein einziges Axiom gesehen, es kann also nicht wirklich von einer Serie gesprochen werden, aber das Axiom das wir in Alt-Lumiére gesehen haben war gewaltig und irgendwie doch anders als das wir heute getroffen haben. Und das hier war bei Weitem nicht so mächtig wie es uns Verso verkauft hat. Dann ist da noch das Ding mit den Masken, wie Sciel darauf reagiert hat und wie die Anderen. War das Glück, oder ein Aspekt dessen was sie sind. Dann scheint da noch eine Verbindung zum Konservator zu bestehen und auch zu Verso..oder Recto. Oder wie auch immer er heißt. Fragen über Fragen, zu wenig Daten für Antworten und eine Menge Mysterium. Und so wie die Dinge laufen rechne ich nicht damit das uns am Ende jemand klare Antworten liefern wird ohne das wir nachdenken müssen.
+  ```
+
+##### #59
+
+* Titel: `Clair Obscure: Expedition 33 - #59 - Lager: musikalische Inspiration  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Musik kann soviel kommunizieren, Musik kann soviel über eine Person verraten. Das Verlangen irgendwie selber Musik zu machen oder zumindest Klänge ist quasi in allen Menschen vorhanden. Bei Manchen vielleicht ein wenig mehr, bei anderen deutlich weniger. Dann gibt es da noch musikalisches Talent, aber wie bei vielen Talenten scheint sich das Ganze eher als die Fähigkeit niederzuschlagen wie schnell man lernt. Ich muss da immer an Rimworld denken, ob die Leute ein, zwei oder gar keine Flamme an einer Fähigkeit haben. Nicht jeder kann ein Genie werden, aber wenn ein Verlangen wirklich treibt kann man auch ohne große Voraussetzungen eine Menge erreichen. Formale Ausbildung kann da natürlich helfen unnötige Lehren zu ziehen oder eigentlich schon beschrittene Pfade neu zu entdecken. Man kann aber Musik auch einfach nur genießen. Ihr zuhören, ihre Struktur, ihre Wirkung bewundern und mit anderen darüber verbinden. Wichtig ist nur das sie gehört wird.
+  
+  Aufnahme von 19.05.2026, Sitzung Sitzung 12
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+
+##### #60
+
+* Titel: `Clair Obscure: Expedition 33 - #60 - unheimliche Höhle  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Keine Karte zu haben ist für viele Spiele ein echtes Problem. Und ich weiß auch was es bedeutet in einem Spiel keine Orientierung zu haben. Ich selbst bin mit einer recht guten Wegfindung in Spielen und Generell gesegnet. Solange ich nicht Auto fahren muss. Da bin ich absolut behindert. Das ist wirklich faszinierend, wenn ich irgendeinen Ort fußläufig erschließe habe ich ziemlich schnell die Wege die ich gehen will gefunden und kann sie dann immer wieder finden. Aber wenn ich hinter dem Steuer sitze und kein Navi habe bin ich absolut verloren und ich finde nur mit Mühe überhaupt den Weg, selbst wenn die Gegend nicht besonders eng ist. Aber in Spielen, da bin ich gut. Das ist übrigens gar nicht mal so häufig, ich habe da so eine Lebensabschnittsgefährtin die wirklich nicht gut darin ist den Weg zu finden. Es ist dann wirklich faszinierend zu sehen wie sie in Elden Ringe oder Witcher 3 einfach nicht da hin findet wo hin sie soll. Obwohl sie zumindest in einem der beiden Spielen sogar eine sehr gute Karte hat. Die unheimliche Höhle die wir heute betreten wäre wahrscheinlich ihr Ende.
+  
+  Aufnahme von 19.05.2026, Sitzung Sitzung 12
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+
+##### #61
+
+* Titel: `Clair Obscure: Expedition 33 - #61 - Siréne: das Spiel der Wunder  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich wollte es eigentlich ein wenig hinauszögern bevor wir uns wieder dem nächsten Axiom zu wenden, aber so wie es aussieht gibt es gar nicht mehr so viel zu tun. Wenn ich auf meinem Notizblock schaue stehen da noch ein paar wenige andere Orte an denen chromatische Wesen auf uns lauern, aber das wäre dann auch wirklich alles, da jetzt zu backtracken klingt aber ehrlich gesagt nach Arbeit und deshalb machen wir es nicht. Also gehen wir in den großen Tanztempel des zweiten Axiom, ich weiß übrigens nicht so recht wie es heißt. Eventuell Siréne aber das bricht dann irgendwie auch mit dem Thema das wir davor hatten. Ich werde das Vieh als am Ende "Axiom der Wunder" nennen. Aber soweit sind wir noch gar nicht. Für den Moment müssen wir uns erstmal gegen die Invasion unserer Gedanken wehren als wir den Ort betreten. Kleiner Funfact übrigens, an dem Tag an dem ich das hier aufgenommen und beschrieben habe habe ich auch die erste Episode endlich veröffentlicht, mehr als ein Jahr nach dem Erscheinen des Spieles. In der ersten Episode in Lumíere läuft man Plakate vorbei..Plakate für eine Tanzschau..die scheinbar unser Axiom abbilden. Faszinierend.
+  
+  Aufnahme von 19.05.2026, Sitzung Sitzung 12
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+
+##### #62
+
+* Titel: `Clair Obscure: Expedition 33 - #62 - Siréne: Tanzkurs  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  In der guten alten Tradition Episoden nach Orten zu benennen sind wir heute eigentlich eher damit beschäftigt jeden Winkel des großen Tempels zu erkunden. Ich würde normalerweise bei dem Wort "Tanztempel" an eine Disco denken, aber in diesem Fall handelt es sich tatsächlich um einen Tempel in dem getanzt wird. Besonders hier ist aber das die Architektur etwas ist das so wahrscheinlich eher nicht in Lumiere existiert hat, auch vor dem Bruch nicht. Also stellt sich doch die Frage warum ist es hier. Ich kann nicht ganz zuordnen was für eine Architektur wir hier sehen, dafür weiß ich zu wenig über die Dinge, aber auf dem ersten Blick sieht es wie irgendetwas Richtung Indien aus, vielleicht auch Tibet, so genau kann ich das echt nicht sagen. In den Nathan Drake Spielen waren wir definitiv an Orten die ein wenig wie das hier aussahen. Aber vielleicht ist es auch einfach nur die kollektive Erinnerung der Menschen an einen orientalischen Tempel. Was weiß ich da schon. Es ist definitiv ganz schön hier, auch wenn irgendjemand eine Menge Löcher in diverse Wände gesprengt hat.
+  
+  Aufnahme von 19.05.2026, Sitzung Sitzung 12
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+
+##### #63
+
+* Titel: `Clair Obscure: Expedition 33 - #63 - Siréne: Nähwerkstatt  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Als wir den Tanztempel den wir jetzt schon ganz gut erkundet haben im Vorfeld umschwommen haben um einen Eindruck für die Dimensionen zu erhalten fiel sofort auf das es hier eine Menge Stoff gab scheinbar endlos aus dem Gebäude hervorquoll. Der Erhalt von Masse scheint in der magischen Welt in der wir hier scheinbar nur zu Besuch sind eher ein Vorschlag zu sein und mir ist nicht so ganz klar wo genau das Grundmaterial herkommt, aber es gibt eine Quelle für all das Gewebe das wir überall finden. Es nennt sicher der Tisseuer und an sich hätten wir den Weber der Teppiche und Tücher auch einfach ignorieren können, aber als wir damals beim Axiom der Masken waren hat sich das vorherige Erledigen von irgendwelchen Viechern als außerordentlich schlaue Idee heraus gestellt und ich werde jetzt nicht damit anfangen Fehler zu machen nur weil ich auf einmal ein Herz für Nevronen entwickelt habe. Ein überwältigender Anteil der Todesfälle aller Expeditionen geht auf diese Wesen zurück und ich habe schon den Eindruck das hier Gnade fehlplatziert wäre. Also handeln wir so wie es jede gute Expedition getan hätte..und vielleicht auch hat, aber keinen Erfolg hatte. Aber wo andere scheitern werden wir Erfolg haben!
+  
+  Aufnahme von 19.05.2026, Sitzung Sitzung 12
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+
+##### #64
+
+* Titel: `Clair Obscure: Expedition 33 - #64 - Siréne: Axiom des Tanzes  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Am Anfang dieser Episode glaube ich nicht das ich mir noch einen Bosskampf bis zum Ende der Sitzung gönne. Aber so wie die Dinge stehen bin ich wieder einmal bereit mich selbst zu überraschen. Es ist ja auch nicht so das ich Zeit schinden will. Wenn es sich ergibt dann mache ich schon noch schnell mal eben einen Boss, mit der festen Erwartung das der Erstversuch wahrscheinlich eh nichts wird. Dadurch das es in Clair Obscure nicht wirklich Probleme gibt wenn man Kämpfe nicht schafft ist meine Schwelle einfach mal rein zu rennen ehrlich gesagt auch nicht so groß. Versuchen kann man es einmal und wenn man einen unwahrscheinlichen Kampf gewinnen sollte dann ist die Freude um so größer. Falls es nicht klappt dann hat sich doch alles wie der Erwartungswert ergeben und es ist auch keine Enttäuschung. Soweit zumindest die Theorie, in der Praxis ärgere ich mich dann natürlich trotzdem. Eine völlig andere Sache noch, in dieser Episode ist mir mehrfach extrem Fortuna hold, ich tue etwas nebenher was sich später wirklich sehr unbeabsichtigt zu einem größeren Vorteil herausstellt der sogar zweimal die Show rettet obwohl ich das völlig anders geplant hatte. Bzw. einfach gar nicht geplant habe.
+  
+  Aufnahme von 19.05.2026, Sitzung Sitzung 12
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+
+##### #65
+
+* Titel: `Clair Obscure: Expedition 33 - #65 - Camp: Trauer, Verständnis & Verlust  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein wichtiges, und immer wieder auf kommendes Thema in Clair Obscure ist Verlust. Ich habe mir keine Interviews mit den Entwicklern durchgelesen und das Artbook das ich habe ist a.) auf französisch und b.) voller Spoiler, also weiß ich auch nicht ob darin Erklärungen oder zumindest Inspirationen stehen. Wie dem aber auch sei, jeder Person die auf Expedition fährt geht ziemlich sicher davon aus das sie nicht zurückkehren wird. Die ersten Expeditionen bis wahrscheinlich so um die Expedition 45 oder so hatten gewiss Leute dabei die noch ein paar Jahre gehabt hätten, ich kann mir nicht vorstellen das wirklich jede einzelne Person 44 war. In dieser Ausflugsgruppe (ich versuche hier eine bissle den Theosaurus brüllen zu lassen aber das Wort Expedition hat hier irgendwie eine feste Bedeutung und es klappt nicht so gut.) sind aber alle Leute minus Maelle definitiv 32, niemand der jünger ist, niemand der, offensichtlich, älter ist. Eventuell hat irgendjemand noch zwischendurch Geburtstag, es ist nicht so ganz klar wie genau die Gommage funktioniert, ich vermute aber einmal das der Trigger nur beim Umschalten der Zahl geschieht, nicht wenn man random älter wird, ansonsten würden die ganzen Feierlichkeiten und Verabschiedungsriten auch keinen Sinn machen. Zurück zum Punkt, nicht nur ist der Tod ein ständiger Begleiter, er ist es auch schon eine ganze Weile. Ich weiß nicht ob das es einfacher macht mit den unausweichlichen Verlusten von Freunden und Kollegen besser um zu gehen, aber es bereitet einen zumindest ein wenig vor, außer Maelle..die ist einfach jünger.
+  
+  Aufnahme von 21.05.2026, Sitzung Sitzung 13
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+
+##### #66
+
+* Titel: `Clair Obscure: Expedition 33 - #66 - Camp: der letzte Abend  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Gespräch in der letzten Episode hat sich ein wenig gezogen und deswegen sind wir jetzt noch gar nicht so fertig wie ich das ursprünglich angenommen habe. Vielleicht hätte ich verschiedene Unterhaltungen bereits früher führen können, habe ich aber nicht, immerhin kommt Verso den verschiedenen Charakteren ein wenig näher, auch wenn es sich so anfühlt als hätten wir bei Weitem nicht genügend Zeit um irgendwie weiter zu kommen. Es ist auch sehr interessant, für mich, zu sehen wie die verschiedenen Auffassungen von Romantik sind. Sciel sieht hier einen kleinen körperlichen Austausch als nichts falsches an, die Erinnerung an ihren Mann hat sie nicht zurückgelassen aber sie lebt im Hier und Jetzt. Lune ist nachdenklicher aber verbringt ihre Zeit quasi ebenso intim mit Verso. Maelle ist eher die kleine Schwester, für sie ist Nähe etwas Anderes. Monoco ist ein anderen Wesen, aber dennoch ein guter Waffenbruder für Verso. Und Esquie ist Esquie. Scheinbar ein Weinsack. Aber jetzt ist die letzte Nacht, die Nacht vor der Schlacht, die letzte Vorbereitung, der eine Moment bevor alles aufhört zu sein.
+  
+  Aufnahme von 21.05.2026, Sitzung Sitzung 13
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+
+##### #67
+
+* Titel: `Clair Obscure: Expedition 33 - #67 - der Monolith  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bisher habe ich den Monolithen gar nicht so wahrgenommen. Es handelt es sich halt um das Ding auf dem Malerin Zahlen herunterzählt aber offensichtlich ist die eigentliche Leinwand nicht so richtig wichtig für unser Tun. Das Ziel war immer die Malerin selbst zur Strecke zu bringen und damit den Prozess aufzuhalten. Immer im Hintergrund steht natürlich die Große Frage ob es überhaupt wirklich die Malerin selbst ist die die Zeit runterzählt und damit die Gommage auslöst oder ob sie nicht selbst auch nur eine Marionette einer anderen großen Macht ist. Klar ist aber, das unsere Reise hier her nicht das Ende der Expedition sein wird. Vielleicht wenn wir scheitern, aber es wird nicht das Ende unserer Mission sein, die Schwierigkeiten gehen weiter. Das kann ich einfach daran ableiten das es noch mehr Orte auf der Karte zu erkunden gibt.
+  
+  Aufnahme von 21.05.2026, Sitzung Sitzung 13
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
   ```

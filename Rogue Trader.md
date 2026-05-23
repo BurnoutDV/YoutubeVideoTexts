@@ -2518,6 +2518,110 @@
   8:40 Dialoge
   ```
 
+##### #156
+
+* Titel: `Rogue Trader - 156 - Thassera: Fremde Haut [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Gestalt eines anderen anzunehmen verursacht entweder ernsthafte psychologische Schäden oder stellt das Grundgerüst für die eigene Identität da. In vielen Geschichte sind Gestaltwandler als instabil oder direkt psychopathisch beschrieben. Oder sie entwickeln ganz spontan ein Gewissen wenn sie einen Familienvater mit Kinder ersetzen. Im echten Leben gibt es nicht direkt Leute die in die Haut eines anderen kriechen aber wenn man Aktivisten spielt oder als Undercover Agent tief in die Strukturen einer anderen Gesellschaft eintaucht dann ist das prinzipiell das Gleiche. So halb. Es gibt in dieser Welt durchaus Leute die sich in ihrer eigenen Haut nicht wohl fühlen, die ständig das Gefühl haben das etwas nicht stimmt oder etwas fehlt. In Rimworld beispielsweise gibt es Kolonisten die unbedingt eine Prothese haben wollen, oder andersherum, die gar nicht damit klar kommen nicht mehr alle natürlichen Teile zu besitzen. Interessant wird es jetzt wenn man auf einmal den kompletten Körper wechselt und sich quasi jeder Teil anders anfühlt. Je nachdem wie das Bewusstsein definiert wird kann das zu groben praktischen Problem führen wie das man sich quasi gar nicht mehr bewegen kann weil alles die falsche Größe hat. Oder man nicht damit klar kommt auf einmal wesentlich schwächer zu sein. Wir haben in der heutigen Ausführung definitiv unsere Autorität verloren, aber auch unsere Kräfte als Psyker, das ist ein wenig unpraktisch, andernfalls wäre unser Weg wesentlich leichter geworden.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  1:53 Lore Überlegungen
+  8:22 Erkundung + Dialoge
+  ```
+
+##### #157
+
+* Titel: `Rogue Trader - 157 - Thassera: Steuereinfuhr [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Heute wird die Steuer eingetrieben. Der derzeitige Gouverneur glaubt vielleicht das er noch irgendetwas reißen kann aber eigentlich war sein Plan bereits gescheitert als wir den Fuß auf den Planeten gesetzt haben. Das Lex kann sich wirklich glücklich schätzen das wir so rechtzeitig hier gewesen sind. Oder zumindest überhaupt bereit waren diese Aufgabe zu übernehmen. Es folgt eine etwas dilettantisch ausgeführte Schlacht und ich gebe gerne zu das ich das alles ein wenig anders hätte angehen können hätte ich gewusst das ich den Narr nicht einfach mit ein paar Crits komplett aus den Latschen hauen kann. Aber das ist wohl generell das Problem an CRPGs, nach einer Weile bricht das ganze Konzept der rundenbasierten Kämpfe einfach auseinander. Meine Leute können nicht jede Runde alle etwas tun und gleichzeitig viele Runden zulassen. Ich weiß nicht wie man dieses Problem beheben könnte, wahrscheinlich liegt die Krux sogar bei mir. Wenn ich weniger min-maxen würde und nicht alles darauf auslegen würde innerhalb von zwei Runden fertig zu sein hätten wir vielleicht einen interessanteren Kampf gehabt. Aber so wie die Dinge nun einmal laufen stellt sich am Ende eigentlich nur noch die Frage was wir mit dem Planeten machen. Meine Entscheidung ist nicht überraschend denke ich.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf
+  ```
+
+##### #158
+
+* Titel: `Rogue Trader - 158 - Innere Welt [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Anscheinend sind wir noch gar nicht fertig mit der ganzen Geschichte des Arbites. Ich denke das aber und werde mich dann am Ende der Episode eines Besseren belehren lassen. Aber während wir dabei sind ploppt quasi auch direkt unsere nächste Tagesordnung auf die wahrscheinlich gar nicht so lange dauern wird aber zumindest thematisch schießen wir uns schon einmal darauf ein was kommen wird. Kurzum, ich wollte mich ja vor unserem Abenteuer auf Thassera eigentlich mit Yreliet auseinander setzten wurde dann aber von Solomorne daran erinnert das ich anscheinend eine Pflicht habe. Jetzt kommt die Aeldari quasi von alleine auf uns zu. Die gute Nachricht daran ist aber das wir glücklicherweise an der Front wohl noch nichts verpasst haben und einfach ohne Probleme weiter machen können. Aber bevor wir irgendetwas tun widmen wir uns uns selbst. Ich finde das Konzept einer inneren Welt irgendwie schön, ich finde es allerdings schade das das Ganze ein wenig sehr lieblos umgesetzt ist. Es erinnert mich an die diversen Traum und Zeitreisesequenzen in Elder Scrolls Online. Da hat man auch nur einfach einen Filter über geworfen und vorhandene Welten genutzt. Für die Individualisierung hätte ich es schon irgendwie gut gefunden wenn unser Hintergrund hier zum Tragen gekommen wäre oder sogar eine freie Wahl möglich gewesen wäre wie unserer Gedankenpalast dann aussieht.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #159
+
+* Titel: `Rogue Trader - 159 - Dargonus: Bericht & Urteil [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch nicht ganz fertig mit unserem Ausflug in das Recht des Imperiums. Aber ich kann versprechen das wir nach der heutigen Episode dann damit fertig an jeder Stelle etwas von Gerechtigkeit zu erzählen und mehr dazu übergehen wieder selbst zu handeln. Vielleicht sogar wesentlich persönlicher zu werden als wir es bisher getan haben. Die genaueren Details werden sich wohl erst später zeigen aber für den Moment kommt es wohl weniger auf unsere Fähigkeiten an und mehr darauf möglich repräsentativ auszusehen und sehr herrschaftlich auszusehen während wir irgendwelche Dinge entscheiden. Natürlich liefern wir auch einen Bericht ab, aber ich kann eigentlich schon vorher sagen das sich mit dem Administratum reden sehr so anfühlt als würde man mit einer Wand sprechen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #160
+
+* Titel: `Rogue Trader - 160 - Atlasweite [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Irgendwann zwischen heute und der fernen Vergangenheit hat sich mein Verhältnis zum Weltraum verändert. Früher, als ich noch jung, unwissend, jung, und vor allem wirklich unwissend, manche sagen sogar naiv, war, da dachte ich noch das man im Weltraum mehr Dinge findet. Das ist genau wie wenn irgendwelche Entdecker aufbrechen und an jeder Ecke über die Spuren alter Zivilisationen fallen. In der Realität ist das dann irgendwie alles recht viel langweiliger, insbesondere wenn man sich erst einmal in ein Kälteschlafschiff packen muss und für tausende von Jahren durch die Gegend gondelt um dann vielleicht komische geologische Formationen zu finden. Und dann kommt man wieder und die Welt von der man stammt hat sich verändert. Der große Klassiker in der Fantasy ist ja das wir uns quasi in der Postapokalypse einer ehemals großen Zeit befinden. Die Wälder sind voll von den Städten ehemaliger Zivilisationen und tief in den Bergen liegen große Tempel längst toter Götter. Und alles wartet nur darauf entdeckt zu werden. Im Weltraum hat man dann noch ein Nadel im Heuhaufen Problem. Mit unseren Auguren können wir das Problem ein wenig umgehen aber dennoch findet wir doch ziemlich oft einfach nichts. Umso überraschender wenn man dann plötzlich doch etwas findet!
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #161
+
+* Titel: `Rogue Trader - 161 - Obsidianhof [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist wieder einmal an der Zeit das ich mich ein wenig ärgere. Und zwar wie wir uns gefangen nehmen lassen. Es ist endlich wieder einmal Zeit für die eine Szene in jedem Spiel in der der Protagonist irgendwie überwältigt wird und dann im Gefängnis aufwacht. Das passiert noch nicht so richtig heute, aber mich nervt ein wenig wie es passiert. Ich hole mal ein wenig aus, normalerweise nehme ich gerne irgendwelche Magierklassen weil die in der Regel auch noch etwas tun können wenn sie keine Waffen und Ausrüstungen mehr haben. Das kann man jetzt als Angst vor Kontrollverlust interpretieren und das ist bestimmt auch nicht ganz falsch, aber ich mag einfach die Machtfantasie niemals unbewaffnet zu sein. Dagegen gibt es jetzt natürlich verschiedene Mittel, jedes zweite Universum hat irgendwelch Metalle, Kristalle oder Zonen in denen Magie einfach nicht funktioniert und dann ist der gewöhnliche Wald und Wiesenzauberer auch wieder ziemlich machtlos. Ein gutes Beispiel sind beispielsweise die Dimeritium Handschellen im Witcher Universum, in den Bücher gibt es da noch ein paar mehr Applikationen, aber das jetzt alles nicht so wichtig. Wenn mein Charakter jetzt also auf eine sehr individuelle Art und Weise überwältigt wird, dann wäre das okay. Aber die Tatsache das es mittels Gas passiert und niemand von meinem Personal irgendetwas dagegen machen kann oder auf die schnelle eine Gasmaske gezogen kriegt. Weder Idira die normalerweise gut informiert ist, oder Cassia die Farben sieht scheinen irgendetwas zu sehen. Stattdessen passieren Dinge einfach. Kein Kampf, keine Bewegung, einfach nur die Gang liegt am Boden und das war es dann. Das nervt mich. Mir ist klar das die Story das gebraucht hat aber die Art und Weise wie es ausgeführt wird ist unfassbar frustrierend für mich.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #162
+
+* Titel: `Rogue Trader - 162 - die Kluft [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir dann, ohne Ausrüstung, im Gefängnis oder was auch immer hier als Gefängnis durchgeht. Technisch gesehen befinden wir uns wahrscheinlich an einem der letzten Orte an dem man als Mensch so aufwachen will. Ich bin mir nicht ganz so sicher wie gut man von hier wieder weg kommt, aber ich ahne das man ohne Hilfe um den Webway zu benutzen Flucht eine eher sehr entfernte Fantasie ist. Wir schaffen das bestimmt noch irgendwie, aber für den Moment gibt es auch dringendere Probleme. Zum Beispiel das von unserem Körper nicht mehr so viel übrig ist. Ich weiß übrigens wirklich nicht wie wir jemals wieder, selbst wenn wir entkommen, eigentlich die gleiche Person sein wollen die wir vorher waren. Laut den Beschreibungstexten unserer Verletzungen wurden uns Teile der Sehnen abgeschnitten, Knochen geschliffen und Haut abgezogen. Es ist einfach weniger von uns da. Wenn wir nicht noch schnell in die Biomantie wechseln und unseren Körper komplett neu aufbauen wüsste ich nicht wie wir jemals wieder ganz sein sollen. Zumindest die Technik des Imperiums hat da meines Wissens nach nichts zu bieten. Nur das Ersetzen von immer mehr Teilen mit Technik die laut dem Admech besser sein sollen aber tief in mir drin glaube ich da nicht so dran, insbesondere weil die cybernetischen Arme und so weiter ja auch alle Wartung brauchen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
 ##### #Nummer
 
 * Titel: ``

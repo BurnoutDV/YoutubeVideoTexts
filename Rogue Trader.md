@@ -2622,6 +2622,1666 @@
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
   ```
 
+##### #163
+
+* Titel: `Rogue Trader - 163 - Kluft: der Kommissar [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin immer noch ein wenig unbeleckt was so die gängige Lore von 40K angeht deshalb kann ich ehrlich gesagt nicht so recht sagen was genau einen guten Kommissar eigentlich ausmacht. Ich habe da immer noch diese russischen 2 Wk. Typen vor Auge die die eigenen Leute erschießen falls sie auf die Idee kommen sich zurück zu ziehen, das war übrigens in der Realität wohl nicht ganz so doll. Wie dem aber auch sei, irgendetwas tun die schon und die Mengen zu motivieren gehört wohl dazu. Ich kann nicht wirklich sagen das ich hier irgendjemanden trauen würde, auch nicht jemanden der vorgibt einen guten Fluchtplan zu haben. Das was der gute Kommissar hier macht hört sich verdächtig nachdem an was die Drukhari sowieso von den Menschen verlangen. Hoffnung ist ein mächtiges Gift, die einfachste Art die dunklen Eldar zu sabotieren wäre wahrscheinlich einfach selbst auf zu geben, keine Qualen, kein Leid, einfach nur ein schnelles Ende ohne große Emotionen. Eventuell nicht ideal aber es würde den Folterer jede Möglichkeit nehmen weiter zu machen. Allerdings vermute ich mal das wenn der Selbsterhaltungstrieb der Menschen nicht so groß wäre, es durchaus technologisch andere Möglichkeiten geben würde die Leute daran zu hindern genau das zu tun.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 25.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  15:00 Erkunden
+  17:00 ? Dialoge
+  23:30 Erkunden
+  ```
+
+##### #164
+
+* Titel: `Rogue Trader - 164 - Kluft: Tücke [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich haben wir Tücke schon viel früher getroffen aber irgendwie habe ich es vermieden Fragen zu stellen. Das holen wir dann heute nach, die Gelegenheit ist auch einfach günstig. Danach tun wir ein paar Dinge und folgen unserem Gewissen. Wie das Ganze dann enden wird ist natürlich noch ein wenig offen aber im Großen und Ganzen glaube ich nicht das hier irgendjemand mit offenen Karten spielt. Ich bin übrigen erstaunt wie die Leute die hier betteln noch irgendwie durch kommen und überleben. Aber vielleicht ist das auch alles nur eine Momentaufnahme. Die Galaxie ist groß und es könnte durchaus sein das quasi in jeder Sekunde irgendwo jemand entführt wird. Das ist das "Schöne" an einer Verbindung aller Orte des Warps zu einem zentralen Nexus, Reisen gehen sehr schnell, und überall wird zu irgendwo.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 25.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkunden
+  4:00 Dialog
+  6:55 Kampf
+  18:43 Dialog
+  23:53 Dialog
+  30:00 Kampf
+  ```
+
+##### #165
+
+* Titel: `Rogue Trader - 165 - Kluft: Chtonos [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Stück für Stück sammle ich mein Personal zusammen. Person für Person werde ich langsam reicher an Leuten die mein Gefolge darstellen. Meine Elite, meine Vertrauten die es mir erlauben Macht zu wirken. Klar, da draußen habe ich ein großes Reich, das steht mir temporär nicht zur Verfügung. Aber im Leben von einem Moment zum Anderen, da hatte ich mich schon immer nur auf mein Gefolge verlassen. Die Truppe die sich durch alles durchschlägt. Es ist übrigens ein wenig schade das sich die Stärke im Kampf nicht wirklich in der erlebten Realität niederschlägt. Spiele haben oft das Problem. Als Spieler will man Fortschritt machen, aber eigentlich sind die großen Steigerungen oft subtil und im echten Leben hat man es selten das man nach einem anfänglichen Hoch noch viel mehr besser wird. Beispiel Bowling (mein Lieblingsbeispiel), ein Wettkampf besteht quasi daraus alles zu tun um einen perfekten Wurf zu reißen und das machen auch alle anderen. Die Konsistenz ist quasi so hoch das geringste Abweichungen den Unterschied zwischen Sieg und Niederlage machen. In einer Welt in der wir Magie und Meta-Materialien erlauben die einen gewöhnlich aussehenden Menschen wesentlich stabiler machen sieht das natürlich etwas anders auch. Und doch, unser anfängliches Ich kann nicht so viel besser sein als das Spätere. Aber im Spiel sind wir so viel stärker. Lächerlich viel stärker fast.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  9:09 Erkunden
+  14:59 Kampf
+  18:38 Dialog
+  20:10 Erkunden
+  23:26 Dialog
+  27:38 Level-Up
+  ```
+
+##### #166
+
+* Titel: `Rogue Trader - 166 - Kluft: Lord des Lochs [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nach der Geschichte mit dem Kommissar bin ich nicht überrascht in nicht an der selben Stelle wieder zu finden. Allerdings frage ich mich wirklich wie er mit seinen Lügen immer und immer wieder durch kommen. Leute sterben, Leute verschwinden und es gibt keine Indizien dafür das irgendetwas wahr ist von dem was passiert. Und doch scheinen die Menschen zu hoffen. Vermutlich ist das die tödliche Formel hier. Hoffnung in einer so aussichtslosen Situation macht Misstrauen schwierig, quasi selbst-zerstörerisch. Oder diejenigen die zuviel Zweifel ausdrücken sterben einfach lange bevor sie richtig Druck machen können. Wie dem aber auch sei. Wir wurden verraten und dafür muss Buße getan werden. Allerdings könnten einige Leute das nicht so recht verstehen. Aber Anderen ist es wahrscheinlich egal wer hier wen anführt, Hauptsache es gibt jemanden der sich um das große Denken kümmert. So jemand waren wir ja schon immer, warum nicht hier diese Rolle übernehmen?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkunden
+  2:35 Kampf
+  14:59 Erkunden
+  21:54 Dialog
+  ```
+
+##### #167
+
+* Titel: `Rogue Trader - 167 - Kluft: Moment der Stille [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Verrat ist so eine bittere Sache. Insbesondere wenn man die ganze Geschichte auch noch überlebt, dann hat man auf einmal eine Menge Zeit darüber nach zu denken was jetzt eigentlich war, was sein wird und was man hätte anders machen können. Insbesondere dieses "was hätte sein können" macht einen ziemlich fertig. Yrliet hat uns nicht wirklich verraten. Zumindest sah es für mich nicht so aus, sie hat Spuren aus einer zweifelhaften Quelle gefunden und das war dann eine Falle. Offensichtlich haben uns hier ein paar Informationen gefehlt, aber an sich hat hier übrigens auch das Spiel Schuld. Aus meiner Perspektive sind wir ja mit unserer Krönung fertig geworden, sind nach Thassera geflogen, haben Arbites Dinge getan, waren noch mal auf Dargonus und sind dann erst in die Atlasweite. Jede Menge Zeit in der unsere Weltraumelfe unter Beobachtung stand und quasi nicht vom Schiff runter kam. Unser Auftauchen in einem Hinterhalt hätte also enorme Geduld erfordert. Aber anscheinend will uns das Spiel einen leicht anderen Verlauf verkaufen. Das ist übrigens sehr schade. Auch das bestimmte Entscheidungen die wir gefällt haben scheinbar keinen Einfluss hatten oder irgendwie nicht richtig beachtet wurden. Und wahrscheinlich bin ich zu verzeihend. Meine Begleiter müssen glauben das ich verzaubert worden wäre, so unlogisch müssen meine Entscheidungen erscheinen. Und doch, am Ende, genießen wir die Art von Meditation die uns noch offen steht.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialog
+  24:49 Erkunden
+  ```
+
+##### #168
+
+* Titel: `Rogue Trader - 168 - Kluft: Tervantias [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Menschheit als Ganzes hat, zumindest wenn es die Menschen im Imperium sind, aufgegeben zu forschen. Es wird einfach nichts weiterentwickelt. Vielleicht hier und dort mal über etwas rüber iteriert, aber niemand versucht die Rasse als Solche weiter zu bringen. Das umschifft ein paar soziale Probleme wie eine herrschende Klasse die quasi unsterblich ist und auf alle Ewigkeit die untere Schichte unterdrückt. Das passiert zwar auch so, aber zumindest das altersbedingte Sterben ist nicht völlig aus dem Bild. Das bringt aber auch Probleme mit sich, ich hatte es ja schon erwähnt. Die Verletzungen die wir erhalten haben sind quasi mit der Technologie des Imperiums unmöglich Rückgängig zu machen. Eventuell könnte ein Biomantiker hier noch was Grade rücken aber ich habe die Vermutung das dies eher auf den eigenen Körper Zufriedenheit findet, und nicht bei Dritten. Da wir selber Psyker sind haben wir zumindest keine Angst vor den Schrecken des Warps. Oder anders gesagt, weniger als große Teile der Bevölkerung. Eine Wiederherstellung wird nicht einfach so durch Magie erfolgen. Allerdings gibt es noch andere Auswege. Die Drukhari sind sehr gut darin Schmerz zu verursachen, die Stimulanzen die wir bis jetzt erhalten haben haben uns weiter machen lassen als unser Körper schon lang unbeweglich hätte sein müssen. Und doch, standen wir noch. Es muss hier also etwas geben was die Möglichkeiten des Imperiums übersteigt. Bedauerlicherweise sehe ich eigentlich kaum eine Möglichkeit hier eine vollständige Wiederherstellung zu erhalten ohne gleichzeitig Nachteile zu erfahren. Schwere Nachteile. Und eventuell auch einen Kill-Switch im Kopf. Tervantias der Erzmachinator ist jemand der uns helfen kann, Betonung auf den Konjunktiv, aber warum sollte er das tun. Es sei den es gibt jemand Drittes der uns für seine eigenen Ziele helfen will. Eine Marionette zu sein ist sehr riskant, sehr sehr riskant.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkunden
+  2:53 Dialog
+  34:24 Level-Up
+  ```
+
+##### #169
+
+* Titel: `Rogue Trader - 169 - Kluft: ein volles Team [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin mir unsicher. Wie so oft wenn ich einmal ganz ehrlich bin. Aber so wie es aussieht habe ich wieder mein komplettes Team rekrutiert das ich auch besaß bevor ich mich in den Tiefen des Warps bzw. des Webways hineingestürzt habe. Jetzt wo ich wieder meine volle Streitkraft besitze können wir wesentlich effektiver Kämpfen. Leider ist das auch genau das was sich die dunklen Herrscher dieser Welt wünschen. So ist auch ihr Deal mit Slanesh. Ich bezweifle das wir aus dieser Hölle nur mit dem guten Zusprechen einer anderen Macht jemals entkommen werden. Unser Wert als Attraktion ist wesentlich größer als als freie Person. Und selbst wenn wir als Attraktion nicht mehr taugen werden wir wohl eher geopfert als uns jemand frei setzen würde. Es wird also Zeit langsam die Initiative zu übernehmen, wie genau wir das Darstellen sollen kann ich aber echt nicht sagen, es scheint mir keinen direkten Weg nach vorne zu geben. Aber vielleicht haben meine Begleiter ja wertvollen Input.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialog
+  17:00 Erkunden
+  22:35 Dialog
+  ```
+
+##### #170
+
+* Titel: `Rogue Trader - 170 - Kluft: Champignons der Arena [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist absolut bewusst was ich in den Titel geschrieben habe. Ich weiß das das die Pilze sind und nicht die Leute die den ersten Platz belegen. Die Geschichte schickt uns in die Arena um gegen unseren alten Erzrivalen und sein neues Team zu kämpfen. Es ist eigentlich schon ziemlich klar wie das Ganze enden, insbesondere weil wir ja nur das Universum sehen in der die Freihändlerin auf jeden Fall Erfolg hat. Fraglich bleibt eigentlich nur wie wir gewinne und ob es irgendwelche Rückschläge im Gewinnen gibt. Oft ist es ja so das wir die großen Feinde nicht einfach so besiegen dürfen ohne das wir irgendetwas opfern müssen. Yrliet beispielsweise. Oder irgendjemand aus unserem Team den wir über die Klinge springen lassen müssen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.05.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialog
+  8:50 Dialog
+  9:55 Kampf
+  21:38 Dialog
+  22:23 Kampf
+  30:29 Erkunden
+  ```
+
+##### #171
+
+* Titel: `Rogue Trader - 171 - Kluft: Jäger der Straßen [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe das Gefühl das die Engine die Rogue Trader benutzt nicht wirklich robust ist. Oder das sie es vielleicht sein könnte aber die Entwickler so spät im Verlauf des Spieles, wir sind immerhin bei Episode 171, einfach nicht mehr richtig getestet haben. Wir haben hier eine ganze Reihe von Dingen erlebt die irgendwie nicht so richtig Sinn ergeben und es fühlt sich schon so an als hätten sich die Trigger für bestimmte Ereignisse miteinander vermischt. Das ist insbesondere dann irritierend wenn NPC Begleiter Dinge ansprechen die wir nie gemacht haben, oder besser noch, die wir noch gar nicht wissen. Das macht alles ein wenig inorganisch und stört meinen narrativen Genuss. Heute werden wir zum Beispiel von einem Jäger gejagt und die Geschichte spielt sich so ab als wären wir allein und das fühlt sich ehrlich gesagt ziemlich dumm an. Mein ganzer Charakter besteht daraus das wir ein ganzes Sternenreich hinter uns haben und mindestens unser Gefolge. Warum müssen wir dann auf einmal Probleme höchst persönlich lösen NACHDEM wir die komplette Gurkentruppe versammelt haben.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #172
+
+* Titel: `Rogue Trader - 172 - Kluft: Ulfar Rotmähne [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin kein enormer Fan von Astartes. Auch kein großer Feind. Die Übermenschen des Imperiums sind halt einfach ein Ding. Das man die teure Energierüstung nicht irgendwelchen genetischen Nulllinien in die Hand gibt ist auch klar. Und doch scheint mir die ganze Präsentation ein wenig ungenau zu sein. Es hilft bestimmt auch nicht das es zwischenzeitlich zich Editionen und Lesarten gab. So weit ich es verstanden habe sind die "Engel des Imperators" durch die Bank weg in jeder Kategorie besser als der durchschnittliche Mensch. Jeder Einzelne. Intelligenter, Stärker, mit zusätzlichen Organen ausgestattet und so weiter. Aber das merkt man irgendwie nicht so recht. In den Büchern liest man dann gerne das sie so tun als wären sie dümmer oder stumpfer als es den Anschein hat. Wenn ich ehrlich bin merke ich davon bei Ulfar nicht so viel. Klar, es scheint hier und da ein paar intelligente Züge zu haben aber an sich handelt es sich immer noch um Frankenstein mit besseren Aussehen. Ich sehe wenig menschliches an diesem ach so elitären Krieger des Imperiums. Dann wäre da auch noch das Balancing Problem. In der richtigen Rüstung ist ein einzelner Astarte quasi ein wandelnde Festung, eine unaufhaltsame Macht und ein Leuchtturm jedes imperialen Vorstoßes. Und dann haben wir den Typen hier im Spiel. 200 Lebenspunkte ist jetzt ehrlich gesagt nicht so beeindruckend wenn meine designierte Scharfschützin 250er crits auf Befehl raus haut.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #173
+
+* Titel: `Rogue Trader - 173 - Kluft: Silael die Verbannte [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir treffen heute niemanden Namens Silael. Wir hören nur ihre Geschichte und ich bedauere wirklich das große Teile des Spiels nicht vertont sind. Auch wenn es english gewesen wäre kann ich mir wesentlich bessere Vorleser als meiner Selbst vorstellen. Ich bin ein wenig abgelenkt (von dem abgeschnittenen Text bspw.) und dem fehlenden Pacing bei der Präsentation der Schrift. Und natürlich immer noch krank. So sehr ich mir auch wünschen würde das ich ein besserer Vorleser wäre, so sehe ich gerne der Realität ins Auge das ich nicht besonders gut bin. Und damit müssen wir uns jetzt abfinden. Ich könnte jetzt noch weiter abspiralen aber letztendlich schreibe ich dann nur offensichtliche Sachen. Jede einzelne Episode hat kaum mehr als 10 Views und ich gehe davon aus das die Hälfte von Leuten ist die das Video erst einmal anklicken, nicht gucken und dann später neu den Browser aufmachen. Und das ich in Wirklichkeit vielleicht 2 Zuschauer habe. Und das ist irgendwie sehr schade. Für mich jetzt. Aber die Welt ist voller Leute die Aufmerksamkeit wollen. In dieser Episode töten wir übrigens ein paar wichtige Drukhari, wichtig für sie, mir ist die Bande ziemlich egal. Und wenn ich ehrlich bin, keine besondere Herausforderung.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #174
+
+* Titel: `Rogue Trader - 174 - Kluft: Bühnenstück [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist ein wenig Meta, aber ganz am Ende aller Iterationen und Kaskaden ist Visper Cora nur eine Marionette. Meine Marionette. Aber auch die der Handlung. Jetzt könnte man noch in Frage stellen inwiefern die Handlung mich steuert und in welcher Tiefe ich manipuliert werde Entscheidungen zu treffen anhand der Daten die mir präsentiert werden. Der Kommissar war eine solche klassische Manipulation. Ich habe mich natürlich für das Imperium ausgeprochen und um Argenta zu gefallen aber dann war es doch eine Falle. Und ich kann nicht einmal sagen das ich nichts geahnt hätte. Klar, Tücke war jetzt auch nicht besonders vertrauenswürdig und am Ende hätte sich wahrscheinlich nichts geändert und wir hätten so oder so gegen beide gekämpft. Aber aufgrund der Informationen die wir zu dem Zeitpunkt hatten hätten wir niemals wissen können das der Kommissar ein U-Boot war. Wir wurden manipuliert. Und so werden wir das auch heute und in den vergangenen Episoden. Vom Harlekin. Idira hat durch die Täuschung gesehen aber ist selbst natürlich auch machtlos etwas dagegen zu tun. Es ist ein wenig unklar wer genau unsere Schritte lenkt. Die Kabale scheinen genauso gelenkt zu werden wie wir, der Harlekin arbeitet im Auftrag seines Gottes. Vielleicht hört es da auf, aber das zu wissen übersteigt selbst unsere Gehaltsklasse.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #175
+
+* Titel: `Rogue Trader - 175 - Turm des plündernden Sturms [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn man hinter ihren unbändigen Drang für Sadismus schaut bleibt von den Drukhari nicht viel. Ihre Arroganz beruht größtenteils auf die Erzeugnisse eines Volkes das sich schon lange im Niedergang befindet. Technisch gesehen trifft das noch mehr auf das Imperium zu aber die Eldar im Allgemeinen sind hier auch nicht weit davon entfernt. Als Individuum sind die Eldar nicht viel besser. Klar, im Durchschnitt sind sie wesentlich älter und damit erfahrener als Menschen aber die Erfahrung sorgt auch dafür das sie in feste Denkmuster und Wiederholungen verfallen. Es gibt immer wieder das Argument das eine kurze Lebensspanne dafür sorgt das die Leute kreativer bleiben weil sie effizient und schnell sein müssen damit überhaupt irgendetwas in ihrer Lebenszeit fertig wird. Ich bin mir da unsicher, aber so wie die Eldar geschrieben sind ist es in der Tat so. Klar, ihre technischen Höhen sind gewaltig und vieles was sie benutzen ist dem Imperium vor raus. Allerdings habe ich nicht den Eindruck das sie es besonders gut einsetzen und generell ruhen sie sich ein wenig darauf aus was sie hatten. Und die Wissenschaft des Haemunculus kann ich nicht einmal Ernst nehmen
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 03.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #176
+
+* Titel: `Rogue Trader - 176 - der letzte Runenprophet [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich frage mich wirklich wie das alles geendet hätte wenn wir Yrliet einfach auf Janus bei der ersten Gelegenheit erschossen hätten. Als harter Dogmatiker hätten wir auf jeden Fall 90% der Story so wie wir sie jetzt gesehen haben einfach nicht erlebt. Und spannenderweise hätten wir auch einen großen Anteil der Verschwörungen nicht aufgedeckt, einfach weil das unflexible Denken verhindert hätte das wir eine tiefere Wahrheit aufdecken. Das ist ein wenig stumpf muss ich sagen. In den Dingen von 40K die ich gelesen habe ist es auch oft so das jene die zu sehr offen mit ihrer Meinung sind vom Chaos in die Irre geleitet werden. Das Dogma existiert nicht umsonst, das strikte Denken hat auch seine Vorteile darin das es weniger Angriffsflächen für Versuchung bietet. Davon merke ich aktuell ehrlich gesagt nichts. Aber das ist auch nicht der Pfad den ich gewählt habe. Mein Weg ist der des Ikonklasten, wenn es menschlicher ist dann bin ich durchaus bereit sehr weitläufig mit Xenos zu kooperieren. Quasi das moralische Weltbild des 21ten Jahrhunderts. Etwas das wahrscheinlich keine Chance im größeren Maßstab dieser verfluchten Realität hat, aber wir haben die Macht um das im kleineren Maßstab anzuwenden. Und das gibt natürlich Punkte bei den Aeldari. Und so kommt es das wir heute einen Runenpropheten helfen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 03.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #177
+
+* Titel: `Rogue Trader - 177 - Turm: Haupthalle [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Motiv des Turmes kommt öfter auf. In so Spielen, Büchern und generell und überhaupt. Irgendetwas am Aufsteigen scheint die Menschen tief zu berühren und das merkt man. Ich weiß übrigens immer noch nicht wo das mit den "Seven Spires" her kommt das ich quasi regelmäßig in irgendwelcher Fantasy lese, aber das scheint auch so ein Ding zu sein. Einen Turm der aus Dungeonleveln besteht zu erklimmen und ganz oben erwartet uns dann die ultimative Belohnung. Wir erklimmen heute auch einen Turm. Ich habe übrigens immer noch keine Vorstellung wie genau Commorragh eigentlich vorzustellen ist. Der Ort ist absolut gewaltig aber irgendwie auch in den Warp Schrägstrich dem Netz der Wege gebaut (Webway ist das bessere Wort), wahrscheinlich ist das alles ein fünfdimensionaler Alptraum und für menschliche Vorstellung eh nicht handhabbar. Das Modell eines Turmes kann ich zumindest visualisieren. Oben erwartet uns übrigens auch eine Belohnung, ein Portal zurück nach Hause. Irgendwie.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  ```
+
+##### #178
+
+* Titel: `Rogue Trader - 178 - Turm: Yremeryss Aezyrraesh [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eine große Tradition das Elfen lange unaussprechliche Namen habe. Ich glaube das ist so ein Hobby das kommt auf wenn man viel zu viel Zeit hat und man sich irgendetwas ausdenkt um sich von der restlichen Bevölkerung eines Planeten ab zu heben. Auffälligerweise trifft das umso mehr für die "bösen" Elfen zu. Vielleicht gibt es da irgendwelche Komplexe die man kompensieren muss. Ich weiß übrigens wirklich nicht wie genau die Drukhari Kultur eigentlich überhaupt funktioniert. Offensichtlich verbringen sie viel Zeit damit Leute aus der Realität zu entführen und in ihren Arenen zu Opfern damit Slaanesh nicht sauer wird. Aber sie kämpfen auch gegeneinander und so wie es aussieht ist alles was sie tun blutig. Wenn man sich die Leistung des Haemonculus anschaut so ist Sterben nicht ganz so einfach wenn der Fleischmeister das nicht will, aber dennoch stirbt hier und da bestimmt jemand. Jetzt ist es aber so das die meisten Aeldari wirklich alt sind, um alt zu werden muss man überleben. Was wir nicht gesehen haben bisher waren Kinder. Und die ganze Kultur wirkt nicht so als wären sie besonders liebevoll gegenüber Kinder, noch das irgendjemand großes Interesse daran hat welche zu haben. Also wie funktioniert das? Wie komme ich darauf? Der Name von Yremeryss ist lästig lang und klingt wie etwas das sich ein Teenager ausgedacht hat, könnte es eventuell sein das die Drukhari einfach gar keine Familienlinien haben und sich jeder von ihnen den Namen irgendwann einmal ausdenkt? Das würde viel erklären finde ich.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  4:10 Erkundung
+  ```
+##### #179
+
+* Titel: `Rogue Trader - 179 - Ende Kapitel 3 [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ehrlich gesagt ein wenig überrascht. Wirklich. Ich hatte irgendwie nicht damit gerechnet das unser Ausflug noch Commoragh ein ganzes Kapitel war. Wenn man mal einen Schritt zurück tritt und das Spiel als Spiel betrachtet dann ist das gesamte Kapitel eine seltsame Entscheidung. Am Anfang, also Kapitel 1 war quasi alles auf Sparflamme, wir hatten das Schiff aber nur ein System mit ein paar wenigen Orten von Interesse. Eine kleine Blase in der wir uns erst einmal ausprobieren können. Quasi lernen wie das Spiel funktioniert. Dann in Kapitel 2 hat sich die Koronus Ausdehnung für uns geöffnet und wir konnten viel mehr bereisen. Die Kolonieverwaltung hat angefangen und es gab eine Menge Verwaltung für die Freihändlerin zu tun. Es ist ein wenig seltsam das nach all den Raumkämpfen und Großstrategischen Entscheidungen auf einmal ein Abschnitt kommt in dem wir quasi nichts davon machen können. Insofern dachte ich das Commoragh zwar ein langer aber doch nur kleiner Teil des größeren Kapitel 3 war, insbesondere weil das Alles irgendwie auch als Begleiterquest für Yrliet angefangen hat. Und jetzt stehen wir da, in Kapitel 4 und jeder Menge Bittsteller die mit einer Menge Dinge an uns herantreten weil soviel liegen geblieben ist.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 09.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Level Up
+  5:51 Dialoge
+  ```
+##### #180
+
+* Titel: `Rogue Trader - 180 - Die Offiziere - Kapitel 4 [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir wären ohne unsere Offiziere so gut wie gar nichts. Es ist ein Zeichen des Helden das man nicht alle Probleme alleine lösen kann. Eine grundlegende Eigenschaft der großen Heldentat ist auch Charisma das es erlaubt Gefährten um sich zu sammeln die nicht nur treu sondern auch fähig sind. In unserem Falle heißen diese Gefährten "Gefolge" und stellen die Offiziere unseres Schiffes da. Einige von ihnen haben sogar offizielle Positionen in der Hierarchie des Schiffes. Nicht alle von ihnen sind von allen anderen anerkannt. Das ist ein echtes Problem sollte uns einmal etwas passieren. Das Streben nach alleiniger Macht, konzentriert auf eine einzelne Position ist dahingegen das sichere Zeichen eines Bösewichts. Doch der Gedanke nicht von anderen abhängig zu sein ist verführerisch. Wir haben einen Weg gewählt in dem wir ziemlich abhängig von anderen Leuten und ihren Fähigkeiten sind. Das macht es umso mehr ärgerlich wenn wir alleine sind und plötzlich Probleme lösen müssen die wir nicht lösen können weil das eigentlich sonst immer Abelard macht. Unser treuer Truchsess ist aber nicht der einzige Offizier dem wir Gehör schenken. Und so sprechen wir heute mit all den Leuten die wir schon zu lange vernachlässigt haben. Eine anstrengende Aufgabe, aber auch dringend notwendig. Nicht nur für den Zusammenhalt sondern auch für die Moral.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 09.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  3:32 Level Up
+  7:20 Dialoge
+  23:13 Erkundung
+  ```
+##### #181
+
+* Titel: `Rogue Trader - 181 - leidlicher Handel [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind Freihändler. Also handeln wir. Ein gewisser Clown hat uns einmal anders bezeichnet, aber letztendlich bleibt der Kern der Wahrheit der, wir sind fahrender Händler mit ein wenig zu viel Macht. Handelsfürsten gab es schon immer und die tatsächlichen Machthaber (nicht das die das Volksmandat hatten) fanden das auch nicht so großartig. Einige Adeliger heutiger Zeit waren die Kriegsfürsten von einst, aber nicht andere. So mancher Titel konnte in unsicheren Zeiten gekauft werden. Das größte Bühnenstück für jeden Piraten ist es wohl das angesammelte Vermögen in legitime Handelsreiche zu verwandeln. Und wenn man sich das organisierte Verbrechen so anschaut ist das gar nicht so unwahrscheinlich. Ein wenig Waffenhandel hier, ein paar Immobilien dort, und ruck zuck zahlt man ganz normal Steuern obwohl man einmal ganz woanders angefangen hat. Ich weiß nicht genau wie die Freihändler Dynastien zu Tage gekommen sind. Ich nehme nicht an das der Imperator einfach irgendjemanden den Handelsbrief gegeben hat, aber irgendwo her muss das Personal ja kommen. Wenn man weit genug zurück geht stellt sich bestimmt heraus das die ersten Adeligen des Imperiums auch nur getreue Waffenbrüder von Big E waren.
+  Lange Geschichte kurz, wir handeln heute, verwalten hier und da die Kolonien und holen wichtige Rückstände in der Administration nach.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 10.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erklärungen
+  7:00 Handel
+  17:14 Level Up
+  25:43 Raumerkundung
+  ```
+##### #182
+
+* Titel: `Rogue Trader - 182 - Raum: Solomornes Weg [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel ist irreführend. Ein bisschen. Das hier ist keine Episode in der unser guter Adeptus Arbites im Zentrum steht. Eigentlich wollen wir nur nach Vheabos VI fliegen um den erwähnten Typen ohne Hund abzuholen. Aber wie es das Schicksal zu will haben sich einige Ereignisse aufgestaut die sich jetzt bei jedem Warpsprung abspielen so dass wir nicht wirklich frei von einem System zum nächsten Reisen können. Stattdessen gibt es hier eine Menge Ereignisse die uns aufhalten und dafür Sorgen das der Weg nach Solomorne ewig dauert. Aber eigentlich wollen wir nur eine Strafkolonie besuchen um eine Person einzusammeln. An sich ist das übrigens eine monumentale Aufgabe. Jeder Warpsprung bringt Risiken mit sich, und so weit ich das verstanden habe ist es nicht unüblich das bei jedem Sprung die Gellerfelder ein ganz wenig nach gegeben und hier und da Personal überraschend den Tod führt. Es ist nicht so das wir kostenlos Vergnügungsfahrten machen können. Und doch beugt sich das Schiff der Freihändlerin ihren Willen. Jedes Mal.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 10.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  9:30 Raumerkundung
+  13:30 Dialoge
+  19:16 Verwaltung
+  22:54 Dialoge
+  ```
+##### #183
+
+* Titel: `Rogue Trader - 183 - Raum: Zurück nach Dargonus [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben einen Regierungssitz..es handelt sich um mein Raumschiff. Aber dann gibt es da noch so etwas wie einen physischen Palast, ein Ort an dem Adeligen ein und ausgehen und andere Hochwohlgeborene glauben das sie die Geschicke der Menschheit im Protektorat lenken können. Jedes Reich steht und fällt mit seinen Verwaltern. Es klingt unfassbar langweilig, aber ohne eine gute Bürokratie ist jedes ausreichend große Stück Fürstentum früher oder später dem Untergang geweiht. Es handelt sich um ein System mit sehr vielen beweglichen Teilen. Im terranischen Imperium wird es nicht besser. Verschiedene Etagen der Macht spielen hier in einander ein. Da wäre die zentrale Verwaltung der Erde die sich theoretisch nur um den Zehnt kümmert aber dann doch mehr Einfluss hat. Dann wäre die planeteninterne Verwaltung durch die eingesetzten Gouverneure und oben drauf kommen dann noch die Machtspiele der Familien die man sich mit so einer Unternehmung unweigerlich anlacht. Und alle wollen einen Happen abhaben. Theoretisch gibt es Kontrollorgane und wenn die irgendwann zuschlagen könnte es schon bitter werden, aber wenn man richtig wettet kann dazwischen ein Jahrtausend vergehen in dem man sehr luxuriös davon kommt und sich die eigenen Enkel um die Probleme kümmern können.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Verwaltung
+  ?:?? Dialoge
+  16:06 Raumerkundung
+  18:04 Verwaltung
+  19:15 Dialoge
+  ```
+##### #184
+
+* Titel: `Rogue Trader - 184 - Dargonus: die Werserian Verschwörung [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Habe ich schon erzählt das sich die diversen Adeligen ganz schön was rausnehmen und allgemein ziemlich lästig sind umso länger sie an der Macht sind. Wir haben das ganze System so wie es ist übernommen und es steht auch nicht so richtig in unserer Macht daran etwas zu ändern. Oder, genauer gesagt, wir könnten vielleicht etwas daran ändern aber nur an der aktuellen Besetzung. Das es Adelige gibt ist fest in der DNA des Imperiums geschrieben und unserer eigener Machtanspruch fußt auch darauf. Davon abgesehen funktioniert das ganze Imperium von Kopf bis Fuß autoritär und wenn wir jetzt auf einmal anfangen würde eine Räterepublik einzuführen würde das nicht nur nicht funktionieren weil die Leute absolut nicht darauf eingestellt sind. Es wäre auch stark zu vermuten das sehr sehr zeitnah die Inquisition bei uns anklopfen würde. Und wenn das nicht passiert hätten wir wenig später irgendwelche Chaoskulte in jeder zweiten Ecke die den Aufstand proben. Oder irgendwelche Xenos fallen ein während wir versuchen den politischen Apparat um zu bauen. Und selbst wenn das alles super klappen würde wären wir relativ schnell weg vom Fenster, dann würde irgendjemand übernehmen und in spätestens hunderte Jahren ist alles Chaos, wieder die gleiche Diktatur wie vorher oder einfach nur eine tote Welt. Lange Geschichte kurz, die Adeligen die wir haben können wir punktuell ersetzen, aber das grundlegende Prinzip werden wir nicht los. So wie das Imperium selbst bleibt es also eine eiternde Wunde und wir können nur von Zeit zu Zeit dafür sorgen das es nicht völlig über blubbert. Und deswegen sind wir heute in Dargonus..um eine Verschwörung auf zu halten.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  ```
+##### #185
+
+* Titel: `Rogue Trader - 185 - Sector Bionica [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir fliegen jetzt ja schon seit einiger Zeit durch die Koronus Ausdehnung und jetzt, ganz plötzlich, quasi Monate nach dem ich einen neuen Erzmagos angeheuert habe fällt den Leuten auf das ich eine Schiffsabteilung für das Anbringen von Implantaten habe. Den Sektor Bionica, ich bin ein wenig überrascht. Oder irgendwie auch nicht. Gefühlt hat jeder Bürger des Imperiums irgendwelche Implantate oder Prothesen. Das Leben im Universum ist gefährlich und das Nachwachsen lassen von neuen biologischen Gliedmaßen ist wahrscheinlich auch eher Häresie. Das alle Leute irgendwelches Metall im Körper tragen ist somit die logische Folge und passt ja auch schön zur Ästhetik des Imperiums. Das es irgendwie abscheulich wirkt ist der Plan. Ich bin davon nicht so begeistert, gefällt mir einfach nicht, und das wo Visper Cora selbst sehr prominent in der Mitte ihres Kopfes eine große Frankensteinplatte trägt. Aber das alles ist jetzt auch relativ egal, das große Gerät das sich normalerweise um das Einpflanzen von Bauteilen kümmert ist scheinbar kaputt und kann jetzt eh nicht agieren. Wir müssen also wohl die Tech-Hotline anrufen und schauen ob wir irgendwo zeitnah Hilfe finden. Einen Priester kriegen wir aber so oder so.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  4:00 Dialoge
+  11:30 DLC Einstieg
+  ```
+##### #186
+
+* Titel: `Rogue Trader - 186 - Augmentationsthron Reparatur [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die eigentliche Reparatur unseres unbezahlbaren Stück Archäoteks passiert dann übrigens in unter zwei Minuten. Ich weiß nicht ob ich den daran beteiligten Techpriester mein Lob aussprechen soll oder eher die Unfähigkeit der restlichen Abteilung anprangern. Offensichtlich war mit dem Gerät ja nicht so viel kaputt wenn ein kurzer Besuch eines dickbäuchigen Mars-Priesters quasi alle meine Probleme beheben kann. Generell und überhaupt weiß ich immer noch nicht so ganz was ich von dieser Technik aus der alten Zeit halten soll. Also jetzt rein prinzipiell. In der klassischen Fantasy hat man das ja öfter das die magische Technik der gefallenen Reichen der Urzeit einfach besser war. DnD ist quasi post-apokalyptisch, im Elder Scrolls Universum quasi das Gleiche, da wird nebenbei mal erwähnt das die alten Hochelfen sowas wie Mikrorunen hatten. Das ist einfach Technologie die es nicht mehr gibt und scheinbar auch nie wieder erfunden wurde. Das Imperium gibt eine sehr umschweifende und ausgiebige Antwort warum es uralte Technik gibt die man nicht mehr ohne Weiteres nachbauen kann. Und an sich ist das exakt das gleiche Prinzip. Und trotzdem stört es mich. Uralte magische Klinge? Traue ich sofort, 10/10 Heldengruppe würde sie zum Dämonen bekämpfen einsetzen. Uralter vollautomatischer Protheseninstallationstisch? Absolut gar kein Vertrauen, aber anscheinend ist das immer noch besser als wenn die Techpriester das per Hand machen, das sagt schon viel über die Standards auf meinem Schiff aus. Aber vielleicht liegt das auch an der Natur der Sache. Abelards uralte Laserflinte finde ich eigentlich ganz schön und mein Vertrauen reicht da auch weiter. Vielleicht wäre ein antiker Ritualkreis der den Körper des Anwenders modifiziert die passende Analogie. Dem würde ja auch keiner so recht vertrauen oder?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  14:00 Erkundung
+  20:02 Dialoge
+  23:44 Video
+  24:33 Dialoge
+  ```
+##### #187
+
+* Titel: `Rogue Trader - 187 - Eogunn Februs und Nuncius [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben neues Personal auf dem Schiff. Wenn man den Techpriester mit den unterentwickelten Beinen glauben darf sind es sogar zwei Personen. Relativ schnell im Gespräch stellt sich heraus das sich die Exploratorenstation sehr gerne und bereitwillig von ihren Experten getrennt hat. Das ist leider so ein Ding, Experten können enormes Wissen in einer Nische zusammen führen, aber das kann auch schnell zu schrulligen Verhalten führen wenn man etwas zu lange nicht hinschaut. Es ist jetzt auch nicht so das der Adeptus Mechanicus besonders darauf achtet das seine Mitglieder nicht zu sehr abdriften, aber der hier hat irgendwie den Vogel abgeschossen. Ich will ehrlich sein, ich bin kein Fan von Eogunn und seinem Kollegen Nuncius der genauso gut immer noch ein Hirngespinst sein könnte. Ich weiß es sehr zu schätzen das sie sich dagegen entschieden haben ihn wie jeden anderen Techpriester mit einem Voxgitter auszustatten und ihm so ein wenig Persönlichkeit zu geben. Aber im Großen und Ganzen redet der Mann einfach zu viel. Und deshalb ist diese Episode jetzt über eine Stunde lang, weil ich alles in einer Folge halten wollte.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Inventarmanagement
+  6:18 Level Up
+  15:54 Erkundung
+  20:20 Dialoge
+  ```
+##### #188
+
+* Titel: `Rogue Trader - 188 - Seberians Geheimkammer [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe mich im Vorfeld nicht großartig über das DLC informiert, ich gehe einfach blauäugig davon aus das es schon ganz gut sein wird. Für 18 Euro werde ich wahrscheinlich nicht bespasst, aber wenn das vierte DLC nicht völliger Schrott ist sollte sich das schon irgendwie ausgehen. Da ich mir aber auch nichts vorher angeschaut habe wurde ich von dem neuen Charakter überrascht und ich ging bis zu dieser Episode aber auch davon aus das mit dem Charakter die ganze Geschichte zusammen hängt. So war es bei den Arbites ja auch und alles was mit Kibellah passiert ist war ja technisch gesehen auch ihre persönliche Geschichte, auch wenn diese theoretisch noch gar nicht vorbei ist. Und so bin ich heute überrascht zu erfahren das das Haus Valancius anscheinend noch einen Vorfahren mehr hat von dem ich gar nichts wusste. Wie einem das Leben aber auch spielen kann.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  1:30 Dialoge
+  5:51 Erkundung
+  ```
+##### #189
+
+* Titel: `Rogue Trader - 189 - Triasomata [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hab ich schon erwähnt das ich von Eogunn nicht so recht traue und ihn für einen ziemlichen Quacksalber halte. Das ist jetzt kein besonders spezifisches Gefühl das nur diesen einen Mars-Priester betrifft. Das ganze Weihrauch vor Computer schwenken ist ja auch sehr ikonisch wie auch unnötig. Gut, zugegeben so überkomplex wie die gesamte Maschinengeist Situation ist könnte es durchaus sein das das Weihrauch Gewackel und Kerzen anzünden doch mehr Funktion hat als man landsläufig bereit ist zu zu geben weil der "Geist" sich daran gewöhnt hat und das dann echt was bringt. Aber hätte man nie damit angegangen könnten wir gutes Geld in Weihrauch und Wachs sparen. Irgendwo da draußen muss es ganze Welten geben die nichts Anderes machen als Siegelwachs, Weihrauch und heilige Öle her zu stellen. Wie dem aber auch sei, Eogunn ist eine erweiterte Form von Irre und da alles was neu, innovativ oder anderweitig interessant ist je nach Auslegung schwere, grenzwertige oder leichte Häresie ist schreibt auch keiner so recht was auf. Das führt dann dazu das Leute Experimente sehr oft machen..oder nicht so viel Vorwissen haben wir man hoffen könnte. Und das führt dazu das wir uns heute mal wieder im Sector Bionica wiederfinden in dem eine gewisser Manipulus dabei ist aus drei Leute eine Person zu machen, was soll auch schon schief gehen?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raumerkundung
+  4:48 Verwaltung
+  9:30 Dialoge 
+  22:45 Erkundung
+  23:53 Dialoge
+  ```
+##### #190
+
+* Titel: `Rogue Trader - 190 - Träne von Solar [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Dinge zu benennen ist eine große Freude. Wirklich. Etwas Neues zu erfinden oder nur etwas zu bauen und dem Ding dann einen Namen zu geben ist eine schwere Aufgabe, gleichzeitig aber auch sehr erfüllend. Man kann auch einen neuen Menschen in die Welt bringen und dann einen Namen vergeben, auch irgendwie erfüllend, aber man sollte sich dem Gewicht der Entscheidung sehr bewusst sein. Weniger wichtig ist es wenn es um Dinge wie Server, Autos oder Werkzeuge geht. Je nach dem in welcher Lore man herumläuft ist es entweder verpönt oder sehr üblich das Waffen Eigennamen haben. Da gibt es dann das "Schwert der Göttlichkeit" oder Ähnliches. Das sind dann aber besondere Dinge, ein großer Nachteil eines solchen Unterfangens ist das es nicht besonders gut skaliert. Ein Name symbolisiert Besonderheit und zeigt das man hier etwas vor sich liegen hat das selten ist. Nur, wenn es genügen Leute gibt dann sind viele Dinge aus deren individuelle Perspektive selten. Wenn man dann aber aus einer anderen Perspektive heran kommt und das Gesamtbild sieht mag es vielleicht sein das etwas gar nicht mehr so selten ist. Mein persönliches Beispiel sind Server. Ja klar, du kannst deine Server Asgard, Niflheim und Vanaheim nennen..aber das skaliert nicht gut, und keine Sau weiß das Vanaheim der Datenbankserver ist. Und so ist das auch mit Planeten, in einem anderen Spiel, Stellaris, fängt man vielleicht an seine Sonnensystem und Planeten zu benennen, aber irgendwann wird das anstrengend. Ich würde übrigens vermuten das es im real gelebten Weltraum etwas anders aussehen würde. Durch Reisezeit und generell langsamerer Zeit findet man vielleicht mehr Momente Dinge zu benennen. Und doch muss ich mich fragen, bei all den Welten des Imperiums, noch nie hat jemand ein System "Träne von Solar" genannt?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 13.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  7:41 Dialoge
+  14:10 Erkundung
+  22:00 Raumerkundung
+  28:15 Dialoge
+  ```
+##### #191
+
+* Titel: `Rogue Trader - 191 - Zarkov: Hymne der Verlorenen [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich spoilere mal eiskalt vorraus, wir sehen heute ein kurzes Musical. Ich hätte nicht damit gerechnet. Wirklich gar nicht, auch nicht das die Engine von Rogue Trader so etwas überhaupt zu leisten vermag, und doch sind wir jetzt hier. Wir sind übrigens auf Zarkov, das wussten wir schon als wir den Planeten angewählt hatten aber jetzt wissen wir es dann auch gleich Offiziell weil uns die in der Hymne erwähnten Verlorenen darüber Bescheid stoßen. Menschen sind wirklich gut darin in unwirtlichen Umgebungen irgendwie zu überleben. Zum Beispiel in den Hive Städten des Imperiums. Nichts an diesen stählernden Ungetümen hat irgendetwas mit Menschen zu tun, und doch schaffen es die Leute scheinbar stumpf weiter zu machen. Ich finde meine Vorstellungskraft aber ein wenig sehr gestreckt wenn es um einen Planeten wie Zarkov geht. Nicht nur ist die Umgebung von sich auch lebensfeindlich, nein an jeder Ecke versuchen irgendwelche Dinge auch ihre Besucher um zu bringen. Das lässt mich nicht unbedingt daran glauben das es besonders realistisch ist das ein Strafbataillon über all die Jahre hier überlebt hat. Selbst eine Expeditionstruppe mit bester Ausrüstung und entsprechender Ausbildung und Vorbereitung hätte es hier schwer, und doch sollen wir glauben das es ein Regiment von drittklassigen Truppen einfach mit ihrer schieren Durchhaltekraft geschafft hat?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 13.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  4:10 Kampf
+  15:46 Dialoge
+  ```
+##### #192
+
+* Titel: `Rogue Trader - 192 - Zarkov: der Käfig [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ja schon erwähnt das ich es irgendwie sehr unverständlich finde das die Menschen von Zerov hier überlebt haben. Es scheint mir einfach nicht möglich zu sein. Zuviele Widrigkeiten, zu viele logistische Probleme die ich mir nicht vorstellen kann das sie eine kleine Gruppe lösen kann. Aber ich weiß auch nichts darüber wie genau so ein Regiment überhaupt auf einen Planeten landet. Wir sehen große Metallstrukturen und einige andere Bauwerke die so aussehen als wären sie irgendwann einmal als Teil eines Plans erbaut worden. Immer wieder bin ich ja überrascht wenn imperiale Truppen dann doch auf einmal mit geringster Vorlaufzeit es schaffen größere Konstrukte hin zu stellen. Bei all der vergessenen Technologie die das Imperium hinter sich gelassen hat gibt es hier und da noch Dinge die seine Machtprojektion bis heute ermöglichen. Und dazu zählen scheinbar auch der Aufbau schneller Basen auf beliebigen Welten. Irgendwo muss aber auch die gesamte Produktionskapazität von so vielen Planeten hin gehen, und heute finden wir wohl einen dieser Orte. Wie eine so geringe Bevölkerung bei den Verlusten die man hier täglich wohl erleidet es schafft am Leben zu bleiben kann ich mir aber trotzdem nicht erklären.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 13.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  ```
+##### #193
+
+* Titel: `Rogue Trader - 193 - Zarkov: Versteck des Treibers [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Universum ist groß und die Dinge die wir darin finden und nicht finden sind gleichermaßen gewaltig und für einen einfachen Geist wahrscheinlich nicht einmal vorstellbar. Ich mag diese Art von Universum, auch wenn es heißt das ebenso an jeder Ecke unvorstellbare Schrecken gibt bedeutet es aber auch das keine Leere gibt. Weil das ist die scheinbare Realität unseres Universums. Es gibt das Konzept des großen Filters als Lösung für das Fermi Paradox, das besagt nämlich das es ein wenig sehr komisch ist das beim Alter des Universums so gar keine Spuren von anderen Zivilisationen zu entdecken ist. Leben scheint auf der Erde etwas zu sein das an jeder Ecke aufspringt, warum nicht woanders. Eine andere Lösung ist übrigens das "Dark Forest Theorem", das besagt das wer auch immer den Kopf hebt und Geräusche macht aus Logikgründen sofort ausgelöscht wird. All das führt aber dazu das wir in jedem Fall davon ausgehen müssen das das Universum leer ist. Selbst wenn wir morgen einen Überlichtschnellen Antrieb entwickeln und nach Alpha Centauri "fliegen", dann werden wir da außer toten Felsen nichts finden. Egal wohin man geht, nur leere Welten. Keine Planeten voller Dschungel mit mächtigen Pflanzen die den Verstand rauben, keine Succubus Elfen-Aliens die unachtsame Raumfahrer verführen, einfach nur Staub und leere Felsen. Jetzt kann man sich natürlich fragen ob das wirklich so viel besser als die Viecher sind die wir heute treffen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 13.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  2:23 Kampf
+  18:32 Erkundung
+  ```
+##### #194
+
+* Titel: `Rogue Trader - 194 - Zarkov: neue Befehle [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben anscheinend die unmittelbare Bedrohung auf Zarkov beseitigt und jetzt kommen die Ereignisse zusammen. Ein kleineres Problem ist das wir anscheinend die ganzen Dinge hier bereits im zweiten Akt hätten tun können aber als ich da war war das DLC offensichtlich noch nicht Draußen also konnte ich das auch nicht tun. Jetzt ist das DLC draußen aber wir sind im vierten Akt, das bedeutet aber auch das wir im Schnelldurchlauf ein paar Dinge tun können die ansonsten relativ lange gedauert hätten. Ich bin mir übrigens nicht ganz sicher ob das ein Bug ist oder so gewollt ist das wir die Kolonie quasi einfach durchklicken können, es kommt mir ein wenig falsch vor. Aber vielleicht ist das auch eine Element um genau das auszugleichen was ich oben beschreibe. Oder es liegt daran das wir mit dem Flaggschiff direkt im Orbit liegen und daher wichtige Baugeräte direkt transferieren können und jedes Vorfahren viel schneller geht als wenn es nur die Kolonie alleine wäre.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 29.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Inventar Management
+  2:30 Dialoge
+  14:10 Erkundung
+  17:10 Dialoge
+  20:00 Kolonieverwaltung
+  ```
+##### #195
+
+* Titel: `Rogue Trader - 195 - Zarkov: Koloniechroniken [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir haben dann die Kolonie richtig schnell auf Vordermann gebracht und es drängt sich in mir der leichte Verdacht auf das das nicht so gedacht war und ich hätte eventuell ein wenig langsamer machen sollen. Aber was will man tun. Jetzt kommen aber die ganzen Ereignisse die es eventuell ein wenig später hätte geben sollen auf einmal. Das Ganze ist dann auch ein wenig unlogisch wenn man bedenkt das bestimmte Ausbauten und Kolonieverbesserungen wahrscheinlich einige der Ereignisse nicht ganz so wahrscheinlich machen. Aber letztendlich sind wir wohl lange über den Punkt hinaus wo wir darauf hoffen können das alles noch ganz normal funktioniert. Also schauen wir uns doch an wie die einstige Dschungelwelt Zarkov innerhalb von Minuten zu einem imperialen Planeten mit einer achtstelligen Bevölkerung wird.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 29.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  18:22 Verwaltung
+  24:52 Begegnungen
+  ```
+##### #196
+
+* Titel: `Rogue Trader - 196 - Landung auf Tirkuaz-4 [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Kaum haben wir unsere letzte riskante Landung grade so überlebt und mussten uns als Lord Captain Gefahren aussetzen die wir sonst eigentlich nur den niederem Personal zu stehen machen wir uns auch direkt auf die nächste Reise und besuchen eine weitere Welt über der wir quasi gar nichts wissen. Die möglichen Risiken die wir an der Stelle finden könnten sind aber zum Glück absolut überschaubar, ich habe daher keinerlei Skrupel und glaube das das alles schon sehr gut laufen wird. In diesem Fall handelt es sich übrigens um eine Förderstation von Promethium, das wird anscheinend auf einer Station des Mechanicus im Footfall System gebraucht. Die Bezugsquelle ist ein wenig sehr weit weg aber ich stelle die Versorgungslinien einfach mal nicht in Fragen. Generell frage mich allerdings schon wie das alles funktioniert wenn Raumreisen so gefährlich sind.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 29.06.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  3:18 Raumerkundung
+  15:56 Erkundungen
+  ```
+##### #197
+
+* Titel: `Rogue Trader - 197 - Tirkuaz-4: Alva-9 [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich schreibe es noch einmal weil ich die Aussage schon extrem witzig fand. Der Adeptus Mechanicus könnte die einzige mir bekannte Religion in einer Welt in der "Götter" wirklich existieren sein die falsch liegen. Soweit ich das sehen kann gibt es nicht wirklich irgendwelche Anzeichen dafür das der Omnissiah irgendein Ding ist. Es passieren sehr seltsame Dinge mit diversen Maschinen aber das ist ziemlich leicht damit zu erklären das ein wichtiges Bauteil mehr oder weniger schlecht lobotomierte Personen sind wo es nicht ganz unwahrscheinlich ist das ein wenig Persönlichkeit oder Geist durchscheint. Oder man hat millionenfach künstliche Intelligenz in diversen Abstufungen erfunden weil niemand mehr wirklich die Hardware versteht. All das spielt für die einzelnen Priester aber kaum eine Rolle, all das ist ein großer Krabbeneimer und Niemand tut Dinge wie Innovation. Und das ist dann der Punkt wo ich als Rogue Trader der nachweisbar einen freien Willen hat diesen freien Willen auch mal zum Einsatz bringt. Und deswegen läuft die Geschichte mit Alva-9 heute wie sie läuft.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  1:52 Level-Up
+  7:30 Dialog
+  16:30 Kampf
+  14:43 Dialoge
+  17:00 Erkundungen
+  ```
+##### #198
+
+* Titel: `Rogue Trader - 198 - Raum: Selbsterkenntis [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich möchte erneut gerne klar stellen das wir uns auf einer Mission befinden die eigentlich nur darin bestand Promethium für eine Raumstation des Adeptus Mechanicus zu beschaffen damit die Maschine die auf meinem Schiff sowie so wohnt auch weiterhin ordnungsgemäß und eventuell mit einer erhöhten Effizient funktioniert. Das Alles interessiert mich auch eher so mittel weil bisher die Überlegung ob wir irgendwelche Implantate bzw. Prothesen einbauen nicht so richtig aufkam. All diese Dinger scheinen mir Nachteile zu haben und die Vorteile waren auch nicht so richtig schrecklich relevant. Ich brauche den Thron also eigentlich auch gar nicht aber die ganze Mission ist halt eine gute Ablenkung um Zeit zu verbringen damit ich meine eigentliche Erkundung auf Zarkov weiter führen kann, es dauert scheinbar recht lange eine große Wurzel mit einem Bergbaulaser zu entsorgen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raumerkundungen
+  1:41 Raumschlacht
+  11:54 Bla
+  14:43 Dialoge
+  17:00 Dialoge
+  ```
+##### #199
+
+* Titel: `Rogue Trader - 199 - Raum: Zorn von Khaine [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin wirklich sehr darum bemüht es mir nicht nur mit einer Fraktion zu Verscherzen sondern wenn dann direkt mit allen die so verfügbar sind. Aktuell sind das größtenteils die unterschiedlichsten Geschmacksrichtung von Aeldari. Wir haben natürlich die Dunklen, aber die waren uns schon immer mehr sauer als wir denen. Vielleicht liegt es auch an ihren hohen Bedarf an Menschenfleisch. Dann wären da noch die Kinder von Cruderach, Yrliet ist uns nicht mehr super feindlich aber insgesamt haben wir da immer noch Theodoras Erbe zu tragen und das ist wirklich kein Leichtes. An der Front sieht es also gar nicht einmal so gut aus, klar, wir versuche da Buße zu tun aber das passiert auch nicht innerhalb von einem Tag. Davon abgesehen gibt es offensichtlich auch noch andere Weltraum Elfen. Mir sind jetzt keine Details bekannt aber soweit ich das verstanden habe ist Slaanesh nicht die Einzige die einen gewissen Schutz bietet.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  14:26 Raumerkundung
+  15:00 Dialoge
+  24:42 Dialoge
+  26:35 Raumschlacht
+  ```
+##### #200
+
+* Titel: `Rogue Trader - 200 - die Nuncius-Frage [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es war ziemlich schnell klar das die Priester des Mars die die Station Ext-Calixis bewachen bzw. bewohnen nicht wirklich viel Freude an ihren Genetor Extremis hatten und sehr sehr glücklich waren ihn los zu werden. Warum hat uns natürlich keiner mitgeteilt, aber bei aller aufgesetzer Rationalität muss man wohl einfach anerkennen das auch der Adeptus Mechanicus immer noch irgendwie aus Menschen besteht. Auch wenn viele ihrer Handlungen durch Dogma und anderweitig absonderliches Verhalten verzerrt sind so kommen hier und doch wieder sehr menschliche Stränge auf. Heute zum Beispiel die Angewohnheit unliebsame Probleme möglichst reibungsarm los zu werden. Absolute Sidestory, als ob jemand diese Texte hier auch liest. Vor Jahren bin ich über das Konzept des "Greyrocking" gestoßen. Die Geschichte war die das eine Frau ihren Partner aus Gründen nicht mehr gut fand, beide aber in der gleichen Nische einer bestimmten Region gearbeitet haben. Es wäre also unvermeidlich gewesen bei einer Trennung sich immer und immer wieder zu sehen. Ihre Idee war es also unattraktiv zu werden und dafür zu sorgen das er sich eine Neue sucht damit gar kein obsessives Verhalten auftritt und die Beziehung quasi ausebben kann. Das finde ich konzeptionell interessant, dann aber auch traurig das es für erwachsene Menschen nicht mit Größe aus einer Beziehung aussteigen können. Ich will da nicht einmal ein Geschlechterding draus machen, obsessiv über Expartner herfallen können beide Geschlechter, auch wenn Männer statistisch wohl physischer sind. Manchmal denke ich an diese Geschichte, zum Beispiel hier, wenn ein Erzpriester versucht ohne großen Aufriss ein anderes hochrangiges Mitglied weg zu befördern. Das kann einen auch mächtig beißen, siehe zum Beispiel die EU-Ratspräsidentschaft.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Off-Topic
+  1:20 Raumerkundung
+  3:31 Dialoge
+  ```
+##### #201
+
+* Titel: `Rogue Trader - 201 - Zarkov: Hochfeste [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich dachte das ich jetzt tatsächlich einige Zeit waren muss, aber es stellt sich doch glatt heraus das ich einfach nur blind bin. Was auch daran liegt das wir den Käfig nicht mehr bereisen können. Was eventuell daran liegt das wir rein nominell Zarkov schon wesentlich länger koloniesiert haben als es jetzt im Spiel den Anschein hat. Das ist immer wieder so ein Problem mit dem Immersionsbruch wenn man das Spiel nicht lästig sein lassen will. Das ist bedauerlich. Aber ich muss ehrlich sagen das ich auch keine bessere Lösung habe. Finden wir uns also damit ab das Zarkov jetzt wesentlich mehr industrialisiert und bewohnt ist als es noch bei unserem letzten Besuch der Fall war. Man könnte auch das Argument aufmachen das unsere diversen Reisen durch den Warp dazu geführt haben das erhebliche Zeit vergangen ist. Mein Hauptproblem ist aber wohl das das Imperium so viel Leid und technisch rückschrittliche Dinge hat das es umso erstaunlicher ist wenn sie innerhalb von wenig Monaten gewaltigen Makropolen hinklotzen weil genau dieser Teil der STLs wohl mehrfach erhalten war und viel zu gut funktioniert. Oder anders gesagt, die Technologie des Imperiums erlaubt es ihm sich tumorartig auszubreiten aber absolut niemand in dem System hat dabei eine gute Zeit.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 08.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raumerkundung
+  6:37 Dialoge
+  11:28 Kampf
+  ```
+##### #202
+
+* Titel: `Rogue Trader - 202 - Zarkov: Stromabschaltung [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich möchte mich für die heutige Episode ein wenig entschuldigen, hätte ich gewusst das das ganze Herumrennen so langwierig wird hätte ich mir eventuell vielleicht vorher eine Geschichte hätte ausdenken müssen die ich erzähle während ich irgendwelche Knöpfe drücke bzw. Suche ob es überhaupt irgendwelche Knöpfe zu drücken gibt. Auf der anderen Seite weiß ich nicht so recht warum wir überhaupt tun was wir tun. Ich hatte ursprünglich angenommen das es eventuell eine besondere Bedeutung hat was wir abschalten oder das es dafür später Konsequenzen gibt, aber es stellt sich heraus das es scheinbar sehr egal ist was wir tun und am Ende, soviel kann eigentlich schon einmal vorher verraten, schalten wir eh alles ab. Insofern habe ich sehr das Gefühl das OwlCat hier einfach meine Zeit verschwendet hat oder einfach nur wollte das ich mir aus irgendwelchen Gründen die Kolonie noch einmal im Detail anschaue. Von der reinen Spielmechanik verstehe ich also nicht wirklich warum und wieso ich Dinge getan habe.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf
+  1:25 Dialoge
+  4:30 Level Up
+  15:30 Erkunden
+  ```
+##### #203
+
+* Titel: `Rogue Trader - 203 - Zarkov: Chronomat [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich meine das ich zwischenzeitlich schon ein paar Mal erwähnt habe das die Kämpfe in den höheren Akten weniger ein Puzzle sind auf das ich taktisch reagiere und mehr eine Situation darstellen die ich bereits im Vorfeld vorbereite und dann nur noch feste Protokolle abspiele. Gegner haben zunehmende irgendwelche Bullshit Fähigkeiten die dafür sorgen das sie noch weiterhin relevant bleiben. Das sorgt aber dafür das ich umso mehr versuche das gesamte Gefecht in einem Zug abzuwickeln. Viel dabei helfen tut auf jeden Fall die Fähigkeit links und recht Zusatzzüge zu werfen. Anscheinend ist das auch den Entwicklern aufgefallen, also nicht das ich das tue sondern das man das sehr gut missbrauchen kann. Wir kämpfen dann heute gegen einen Necron (die uns noch nicht offiziell vorgestellt wurden) der sich größtenteils der Magie der Zeit bedient. Oder irgendeiner anderen Form der Hexerei. Vielleicht handelt es sich auch um Technik, so ganz klar ist mir das ehrlich gesagt nicht. Es sorgt aber dafür das wir in einem Runden basierten Spiel auf einmal ein Zeitlimit haben. Im folgenden Kampf ist das nur genau einmal relevant weil ich kurz eine Fähigkeit nachlese. Aber ich finde die Mechanik selbst ziemlich bullshittig. Man wird quasi dafür bestraft nicht alle Mechaniken auswendig zu kennen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  4:00 Kampf (die ganze Episode :/ )
+  ```
+##### #204
+
+* Titel: `Rogue Trader - 204 - Zarkov: Exalt-117 [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich fange irgendwie an mich zu wiederholen, aber auch in dieser Episode passier gar nicht einmal so viel. Was hingegen passiert ist das wir die Überreste des Techpriesters finden den unser Vorfahr Seberian anscheinend einst in seinem Gefolge hatte. Das ist insofern besonders als das wir unseren Erzmagos bzw. obersten Maschinenführer selbstverständlich immer auf dem Schiff lassen, der Mann ist viel zu wichtig als ihn die Gefahren einer Reise auf der Oberfläche an zu tun. Quasi unersetzbar so ein höherrangiger Magos. Navigatoren hingegen wachsen ja quasi auf Bäume und deswegen nutzen wir die Macht von Cassia quasi in jedem Kampf soweit aus wie es nur möglich ist. Exalt-117 weißt aber auch ein paar interessante Züge auf. Scheinbar hatte er besondere Talente, seine Ausrüstung ist beispiellos wenn auch leider stark zerfallen. Ich würde vermuten das die Augmentationen die wir an anderer Stelle gefunden haben von ihm stammen, eventuell auch ein wenig mit Xenotech angereichert, da dies etwas zu sein scheint das Seberians Truppe durchaus tat. Ich selbst sehe da kein Problem, Inspiration ist schließlich grenzenlos. Auch beachtlich, Exalt-117 dachte zumindest das er im Zweifel Seberian alleine retten kann. Das ist eine interessante Information oder?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  11:15 Level Up
+  17:15 Erkundung
+  ```
+##### #205
+
+* Titel: `Rogue Trader - 205 - Museion: Letzte Ehre [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ehrlich gesagt gar nicht so richtig rausgekriegt auf was sich diese letzte Ehre eigentlich bezieht. Weil es gibt da Etwas in der nächsten Episode was das mit der Ehre wesentlich besser beleuchten würde aber das ist dann halt einfach nicht in dieser Folge. Wie dem aber auch sei, vielleicht bezieht es sich ja auf die Begegnung die wir hier in den Hallen haben. Generell und überhaupt finde ich es schon ziemlich fischig das wir jemanden treffen der nicht nur weiß wie man ihn befreit und uns dann auf den Weg schickt, nein, die Person teilt uns quasi auch absolut nichts mit und zitiert dabei irgendwelche Eide. Das Schlimmste ist, das alles ist schon irgendwie plausibel. Ja klar es könnte sich um eine Täuschung handeln, aber die echten Astartes haben genau die gleichen Irren Züge, genau die gleiche Geheimhaltung in Angesicht des Todes. Wenn wir eine andere Truppe hätten würde es vielleicht ein wenig anders aussehen. Aber wir stehen halt wo wir stehen und müssen uns damit abfinden.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  10:18 Dialoge
+  13:00 Erkundungen
+  15:00 Dialoge
+  16:57 Erkundungen
+  22:30 Dialoge
+  27:37 Kampfbeginn
+  ```
+##### #206
+
+* Titel: `Rogue Trader - 206 - Museion: Krieg Gräben [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich kenne die Kriegstruppen vor Allem von irgendwelchen Memes. An sich sind die Soldaten vom Planeten (?) Krieg nicht besonders aussagekräftig. Das sind halt irgendwelche Typen die Gasmasken tragen und irgendwie dafür bekannt sind das sie ganz gut im Kampf sind. Aber Details weiß man wieder nicht. Es gibt einen alten Webcomic der sich seit mindestens fünf eher 10 Jahren quasi nicht bewegt hat, GoneWithTheBlastwave und deren Protagonisten sind auch irgendwelche anonymen Soldaten in einer postapokalyptischen Welt die Vollmasken tragen, auf Ewigkeit in einem Kampf ohne Sinn verbuddelt. Und quasi geht es so auch den Soldaten von Krieg die wir heute treffen. Als Erfahrung ist dieser kleine Ausflug aber irgendwie ganz witzig. Ein wirklich sehr interaktives Museum.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 12.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 KRIEG
+  ```
+##### #207
+
+* Titel: `Rogue Trader - 207 - Museion: Exponate [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß nicht wirklich viel über die Necrons. Das war halt eine Fraktion die man damals in einem der Dawn of War DLCs spielen konnte, eventuell Soulstorm, eventuell gab es sie auch schon früher. Ich weiß es echt nicht mehr und es ist ja nicht so das ich für diese Beschreibungen hier irgendetwas recherchiere. Wie dem aber auch sei. Wenn ich mich recht erinnere haben die Necrons so als Volk aus irgendwelchen Gründen in grauer Vergangenheit einen Pakt geschlossen der sie mehr oder weniger unsterblich hat werden lassen. Dafür haben sie das Fleisch hinter sich gelassen und sind zu dem geworden was sie jetzt sind. Soweit ich das verstanden habe war die Entscheidung für diesen Übergang kein Ding das vorher demokratisch abgestimmt wurde und so richtig beliebt war die Entscheidung dann auch nicht. Ich habe absolut keine Ahnung ob die Entität die den Wechsel veranlasst hat irgendwelche bestimmten Mengen an Zustimmung gebraucht hätte oder so. Nur das es passiert ist. Und das die Necrons jetzt eine Menge Zeit haben. Mir war dabei aber nicht bewusst das sie ihre Nekropolen all zu oft verlassen oder sogar irgendwelche Untergrundsammlungen anlegen. Aber völlig ausschließen kann ich es auch nicht. Ich weiß auch nicht wie moralisch verwerflich es ist die Sammlung zu plündern. Weil an sich wurden die Exponate ja nicht freiwillig abgegeben..andererseits ist es schon ein guter Punkt das viele Dinge wohl schon lange weg wären wenn sie nicht hier ausgestellt wären. Ich frage mich sowieso für wen diese Sammlung sein soll. Nur für den Archivar selbst?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 14.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Flashbacks
+  2:00 Erkundungen
+  20:36 Dialoge
+  21:13 Erkundungen
+  ```
+##### #208
+
+* Titel: `Rogue Trader - 208 - Museion: Dargonus Exponat [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich weiß wirklich nichts über die Technologie der Necron, aber sie ist scheinbar der Magie ziemlich nahe..wenn sie sich Mühe geben. Weil sicher ist das sie zumindest beobachten können ohne das es jemand bemerkt. Ich gehe jetzt einfach großzügig davon aus das die Ereignisse die wir heute beobachten zumindest in groben Zügen wirklich so passiert sind. Und wenn es keine Möglichkeit gibt aus den Echos des Warps Erinnerungen und Abläufe zu rekonstruieren dann muss jemand anwesend gewesen sein um auch die kleinen Details auf zu zeichnen. Es könnte natürlich auch sein das alles was wir sehen aus dem Gedächtnis von Seberian gebaut wurde. Wie wir früh genug erfahren scheint der Mann auf einem guten Pfad zum Priester des Mars gewesen zu sein. Ich würde übrigens davon ausgehen das Seberian auch die einzige reale Person ist die sich hier befindet. Schon weil alle Anderen irgendwelche Nachkommen haben die sonst wohl nicht vorkommen würden, genau wie die Soldaten die eine wichtige Aufgabe bei der Besiedlung von Zarkov spielen. Irgendwie. Aber die Entität die Seberian enthält könnte tatsächlich das Original sein..seit vielen hundert Jahren preserviert in einer ewigen Schleife im Dargonus Exponat.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 14.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundungen
+  8:20 Dialoge
+  10:45 Kampf
+  20:26 Erkundungen
+  24:24 Dialoge
+  ```
+##### #209
+
+* Titel: `Rogue Trader - 209 - Museion: erste Wiederholung [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese Geschichten in denen wir uns in einer Schleife befinden sind etwas das ich, mit zunehmenden Alter, immer öfter beobachte. Was eine Binsenweißheit ist. Wenn man länger beobachtet und alle Ereignisse mit einer gewissen Wahrscheinlichkeit auftauchen sind selbst die Seltensten oder Seltsamsten Ereignisse auf einmal gar nicht mehr so selten bzw. tauchen in absoluten Zahlen mehr als einmal auf. Soweit so einfach. Wir haben es hier also mit einer Schleife zu tun. Wie in jeder guten Schleifensituation müssen wir natürlich zu erst einmal feststellen was wir hier überhaupt für eine Situation haben und danach müssen wir dann wohl herausfinden wie wir wieder daraus hervor kommen. Klar ist das es sich durchaus um eine Falle der Necrons handeln könnte, schließlich war es beeindruckend einfach bis hier her zu gelangen, aber vielleicht war es auch wirklich nur purer Zufall und wir sind einfach nur zu doof das Exponat richtig zu verlassen. Also schauen wir doch einfach einmal wie weit wir das Exponat und damit das Szenario treiben können bevor alles zusammenbricht.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 14.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  Die ganze Episode ist quasi nur Dialog
+  ```
+##### #210
+
+* Titel: `Rogue Trader - 210 - Museion: Netz der Intrigen [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist schon faszinierend wie wir eigentlich in ein Museum gegangen sind und uns harmlose Exponate angeschaut haben. Aber die Ausstellung der Necrons wäre wohl auch ein wenig zu langweilig wenn es nur statische Bilder geben würde auch wenn die schon sehr 3D sind und eventuell vielleicht auch einmal lebendiges Material waren. Soweit ich das aber verstanden habe konservieren die Aliens nicht das Original sondern machen eine sehr genaue Kopie der realen Sache und werfen dann quasi das Rohmaterial des Originals raus. In einer strikt deterministischen Welt sollte das keinen Unterschied machen aber ich vermute einmal das der Warp auch den Necrons nicht unbekannt ist und sie deshalb davon absehen die gleichen Körper in ihr Museum zu stellen, die sind sicherlich vorbelastet. Die Körper von Aeldari beispielsweise sind definitiv mit einer direkten Verbindung zu irgendwelchen Chaosgöttern ausgestattet, und diese Art von Verbindung möchte man sich bestimmt nur ungern in die Bude stellen wenn man hofft das das Museum auch noch in 1000 Jahren da sein soll.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 18.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  Die ganze Episode ist quasi nur Dialog
+  ```
+##### #211
+
+* Titel: `Rogue Trader - 211 - Museion: der Plan der Truchsessin [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wenn ich in jedem Titel schreiben müsste wie tief wir drin stecken wäre diese Episode wirklich tief drin. Ich mach das einfach mal hier in der Beschreibung:
+  
+  Koronos Ausdehnung --- Zarkov --- Necron Grab / Museion --- Dargonus Exponat --- Laria Voigtvir
+  
+  Das ist die Truchsessin auf die wir uns beziehen, eventuell ein Szenario das so nie stattgefunden hat, aber ich würde einfach mal davon ausgehen das die Charaktere die wir hier treffen zumindest historisch sind und wenn wir eine Zeitmaschine hätten wir sie tatsächlich hätten treffen können. Wie dem aber auch sei, ich bin nicht gut darin Informationen zusammen zu fassen während ich rede. Tatsächlich ist es so das wenn man mich im echten Leben treffen würde ich die meiste Zeit am Schweigen bin weil ich über irgendetwas nachdenke. Das geschieht einfach. Und doch glaube ich die Materie durchschaut zu haben. So wie es aussieht gibt es zwei Möglichkeiten aus dem Exponat zu entkommen. Nummer 1 wäre Juvennas Plan zu verfolgen, mit dem Großinquisitor zu verhandeln und Seberian irgendwie auf zu geben aber sein Leben zu retten. Ich vermute das das ist was historisch wirklich passiert ist, es würde zumindest erklären wie Seberian selbst im Keller hier gelandet ist. Nummer zwei ist es Laria zu vertrauen und die Verteidigung gemeinsam mit Seberian zu übernehmen, ich glaube das ist historisch nicht geschehen, weil alleine wird es nichts und wir waren nicht da. Unsere Fähigkeiten machen eventuell den Plan möglich, vielleicht. Im schlimmsten Fall muss ich noch einmal ran, also gehe ich diesen Weg als Erstes. Es könnte übrigens auch sein das die Simulation eh Lücken hat, ein paar Dinge scheinen mehr auseinander zu fallen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 18.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  Die ganze Episode ist quasi nur Dialog
+  ```
+##### #212
+
+* Titel: `Rogue Trader - 212 - Museion: Trazyn der Unendliche [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das Schöne an Trazyn ist das er im metaphorischen Klappentexts des DLCs angeteasert wird und das ich deswegen seinen Namen einfach so in den Titel packen kann ohne mich großartig schlecht zu fühlen. Irgendwann muss man dem Wesen ja begegnen und dieser Moment ist halt jetzt. Mitten drin, nach einigen vielen Episode. Keine große Überraschung an der Stelle oder? Ich weiß übrigens immer noch nichts über die Möglichkeit der Necrons, aber ihre Methoden scheinen mir sehr übertrieben zu sein. Ich würde vermuten das es irgendwelche Einschränkungen darin gibt wie sie ihre Macht und Möglichkeiten tatsächlich einsetzen können. Trazyn hat die letzten paar tausend Jahren damit verbracht Artefakte zu sammeln. Ich vermute einmal aus Langeweile. Wenn man es ernst meinen würde mit dem Sammeln könnte man wahrscheinlich die zumindest generischen Exponate wie die Kriegsoldaten oder Drukhari Stoßtruppen in kürzester Zeit einsacken. Es scheint aber das er sich Zeit gelassen hat. Das wiederum spricht dafür das auch er Angst vor Dingen hat. Wahrscheinlich irgendwelche Aeldari, wir erinnern uns an jene aus dem Orbit. Leider hat er wenig Angst vor uns und das stellt ein Problem da weil wir heute definitiv den Kürzeren gezogen haben. Aber hey, ausnahmsweise fällt die Machtlosigkeit zu unserem Vorteil aus, Trazyn ist überzeugt davon das wir gar nichts machen können und lässt uns gehen. Das ist auch was.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf
+  20:19 Dialoge
+  ```
+##### #213
+
+* Titel: `Rogue Trader - 213 - Schiff: Schade Niemanden [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist erst sehr spät, also quasi am Ende der Episode, als ich das Spiel beendet habe und das Steam Achivement gesehen habe das sich der Titel und der Questname wohl auf das gute alte Mediziner Ding "do no harm" bezieht. Wenn ich richtig liege ist das Teil des hippokratischen Eids. Dazu ein kleiner Ausflug in Dinge die mit 40K überhaupt nichts zu tun haben. Mediziner, insbesondere Chirurgen müssen öfter Leute aufschneiden was technisch gesehen durchaus "do harm" ist. Das ist Schaden. Manchmal muss man Brüche erneut brechen um sie wieder zu setzen. Dinge können verwachsen wenn man sie nicht rechtzeitig behandelt hat. Oder das ganze Gebiet der Schönheitschirurgie. Da wird oft eine Menge Schaden angerichtet um ein bestimmtes Ziel zu erreichen. Aber klar, wenn man voll klassisch unterwegs sein will dann kann man natürlich ein paar Kerzen anzünden, ein Globuli einwerfen und dann hat man niemanden im Sinne der Definition geschadet. Aber das hilft gegen Krebs jetzt auch nicht. Und da fangen die Probleme an. Moderne Mediziner schwören also keine Eide. Es gibt da andere Peitschen die dafür sorgen das die Halbgötter in Weiß nicht völlig ausrasten, aber auch unter Ärzten gibt es eine Menge Scharlatane oder andere Gestalten die ihren "Rang" ausnutzen um reicher zu werden. Das ist jetzt eher ein menschliche Ding. Außerdem selektiert eine Medizinstudium nicht unbedingt nach den besten Menschen, sondern eher nach Leute die gut Wissen auswendig lernen können und in der Regel zumindest initial über etwas Empathie verfügen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  5:00 Erkundung
+  15:30 Dialoge
+  ```
+##### #214
+
+* Titel: `Rogue Trader - 214 - Schiff: Eugunns Alleingang [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es gibt ein paar Wölfe in meiner Brust, und die sind gar nicht gut für die Reh Population im Wald meines Herzens, das ökologische Gleichgewicht kippt und das sieht alles gar nicht so gut aus. Einer dieser Wölfe ist der der neue Geschichten verschlingen möchte, um jeden Preis. Ein anderer, schwächerer Wolf will das Rollenspiel mit allen Konsequenzen durchführen. Die Rolle ausfüllen ohne das die andere Persönlichkeit da rein fällt. Also meine Hauptpersönlichkeit quasi, auch wenn ich manchmal frage welche das überhaupt ist. Wie dem aber auch sei. Die direkte Konsequenz aus dem großen Wolf der Geschichte ist die das ich Dinge tue die Visper Cora einfach nicht tun sollte. Einer davon ist es Eugunn zu verzeihen. Ich weiß das es da noch eine Geschichte gibt und ich will das Ende sehen, aber realistisch hätte ich die Beziehung an der Stelle beendet an der er mein Schiff verlassen hat. Nicht hinter her jagen, keine weitere Interaktion, einfach das Thema belassen und hoffen das unser Augmentationsthron auch ganz gut ohne den Mann weiter funktioniert. Sein Wahnsinn und irren Experimente kann er ruhig alleine machen. Ein wenig schade um den Triasomata aber irgendetwas ist ja immer und wir können nicht alle retten. Visper Cora benutzt den moralischen Standard des 21ten Jahrhunders für ihre Entscheidungen, aber gelegentlich muss man Grenzen ziehen und das würde ich genau hier tun.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Off-Topic Gelaber / Windows Rant
+  5:31 Begrüßung
+  7:00 Raumfahrt
+  18:17 Dialoge
+  ```
+##### #215
+
+* Titel: `Rogue Trader - 215 - Footfall: vermischte Gemengelage [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und dann bin ich auf einmal auf Footfall. Das ist jetzt eine schwierige Situation für mich weil ich offensichtlich nicht hier sein will. Nicht nur lauert hier die Hauptquest, die zum Glück mehre Teile hat und die Chancen stehen wohl ganz gut das ich nicht direkt in eine Reise ohne Wiederkehr gezogen werde, aber trotzdem möchte ich eigentlich nicht hier sein um irgendwelche Missionen zu machen die nichts mit dem DLC zu tun haben. Genau das passiert dann aber auch leider. An sich wäre es wohl möglich gewesen einfach direkt nach dem Dialog mit Eugunn zu verschwinden und so zu tun als wäre nichts gewesen aber dann ist da noch die Geschichte mit Jay. Ich bin mir unsicher ob der Trigger jetzt gesetzt ist und wenn ich zu lange warte Dinge schief gehen, daher mache ich das lieber jetzt. Ärgerlicherweise gibt es dann da noch Incendia Chorda und mit der müssen wir dann auch reden. Und so kommen wir vom Hundersten ins Tausendste ohne das wir relevant dagegen etwas tun können. Das gefällt mir eher nicht. Aber es ist wohl was es ist. Aber so eine richtig klare Linie ist wohl leider nicht zu erkennen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Begrüßung
+  4:00 Level Up
+  9:47 Dialoge & Erkundung
+  18:48 mehr Dialoge mit Chorda
+  ```
+##### #216
+
+* Titel: `Rogue Trader - 216 - Footfall: Jae's Rettungsplan [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist so einfach mit voll geladener Waffe irgendwo auf zu tauchen und alles und jeden zu erschießen der auftaucht. Wir erinnern uns da an einen Plan den wir mit unserem Proktor Antar durchgeführt haben. Klar, seine gesamte Truppe bis auf ihn ist dabei gestorben, aber im Großen und Ganzen kann man wohl durchaus von einem Erfolgserlebnis sprechen. Wenn man jetzt aber Leute hat die man retten will und diese Menschen denen nichts passieren sollte zwischen den anderen Leuten stehen die einen eigentlich egal sind dann wird es schnell ein wenig chaotisch. Das ist dann der Moment in dem man tatsächlich einen guten Plan braucht. Wir haben keinen guten Plan aber scheinbar hat Jae einen solchen. Ich kann das aus der Entfernung nicht so recht beurteilen ob es sich wirklich um einen guten Plan handelt. Aber das Schöne hier ist das im Zweifel wir nur in moderater Gefahr gelangen während ihre Leute dann natürlich tot sind wenn der Plan schief geht. ABER, das ist ja nicht direkt mein Problem und auch nicht meine Schuld. Insbesondere weil ich als Freihändlerin auch gewisse Grenzen habe wenn es darum geht Verantwortung auf mich zu ziehen. Lange Geschichte kurz, wir machen einfach was Jae sagt und lassen uns treiben. Das kann nur gut werden.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 24.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erklärungen
+  4:15 Erkunden
+  9:45 Dialoge
+  12:22 Kanalerkundungen
+  28:00 Dialoge
+  ```
+##### #217
+
+* Titel: `Rogue Trader - 217 - Footfall: der Widerstand [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ohne über das Thema zu tief nachzudenken gibt es genau zwei Arten von Leuten die im Widerstand sind: jene ohne Alternative und jene die wahrlich mutig sind. Nachdem ein Regime untergegangen ist ist es leicht zu sagen das man im Widerstand war, oder auch nicht, die Geschichte zeigt das es genügend Beispiele von ehemaligen Widerstandskämpfern gibt die nach dem Niedergang eines Systems trotzdem vom neuen System in dunkle Verliese gesperrt wurden weil sie in den Augen der neuen Machthaber als Gefahr wahrgenommen wurden. Während die Dinge nicht so rosig sind ist es auf jeden Fall nicht einfach Teil des Widerstands zu sein. Auf der einen Seite droht das System selbst mit seiner überbordenden Macht, auf der anderen Verräter, Zweifler und Mitläufer die, wenn sie eine Möglichkeit sehen sich selbst zu retten, diese auch ergreifen. Wäre das System leicht zu stürzen wäre es schon lange geschehen, im Widerstand zu sein kann also nicht einfach sein. Per Definition schon nicht, ansonsten wäre es ja kein echter Widerstand. Das was Vladadym da hat scheint mir auch nicht so ganz zu qualifizieren, ich weiß übrigens immer noch nicht so recht wie das alles funktioniert weil an sich ist Footfall immer noch eine Raumstation, sollte es nicht möglich sein einen solchen Ort komplett abzuriegeln und etwaige Verräter schon allein mit der Drohnung von Nahrungsmittelentzug leer zu räumen? Aber was weiß ich schon?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 25.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  13:00 Erkundungen
+  19:30 Handel
+  25:00 Dialoge
+  ```
+##### #218
+
+* Titel: `Rogue Trader - 218 - Footfall: legendäre Überzeugungsarbeit [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Gelegentlich kommt es vor das wir ein paar Skillchecks bestehen. Das Ganze ist ein wenig anders als es in einem anderen RPG abläuft. Es fühlt sich nicht wirklich so an als würden wir Würfel und ziemlich oft fühlt es schon sehr sicher an etwas zu versuchen. Anders würde es sein sich verhalten wenn wir uns darauf verlassen könnten das die meisten unserer Skillchecks einfach daneben gehen. Beachtlich sind auch die verschiedenen Tests auf Laune bzw. unsere Gesinnung. Die klappen einfach immer. Und das ist dann das Ding. Weil wir ein ikonischer Ikonclast sind sind wir quasi in Lage alles und jeden zum großen Arbeiterkampf oder in diesem Fall gegen die Tyrannei aufzurufen. Ich frage mich aber wirklich wie das eigentlich praktisch abläuft. Weil welche Worte sagen wir bitte die Leute davon überzeugen kann vom Chaos abzuschwören oder sich ihrer selbst einem Urteil zu übergeben. Wie mächtig und schwer können unsere Worte sein das sie einfach so dafür sorgen das jemand seinen derzeitigen Pfad aufgibt und einen völlig neuen Weg einschlägt. Ich kann mir einfach nicht vorstellen wie das in der Praxis aussieht.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  2:40 Handel
+  11:45 Dialoge
+  ```
+##### #219
+
+* Titel: `Rogue Trader - 219 - Footfall: Befreiung [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Für die Freiheit zu kämpfen muss ziemlich sicher ein Rundum-Sorglos-Paket sein. Und das macht es irgendwie konzeptionell schwierig. Insbesondere wenn man relativ klein anfängt und einfach nur gegen die Zustände rebelliert. Es gibt offensichtlich genügend Rebellen die vor allem für den Selbstzweck rebellieren. Quasi Life-Style Rebellen sind die einfach die Ästhetik mögen und eventuell sogar vom vorhandenen Regime Geld annehmen. Wir erinnern uns an den falschen Kommissar bei den Drukhari. Aber selbst wenn man das ernst mit der Revolution meint und von vorne bis hinten durchplant muss man sich der realen Gefahr stellen das die ganze Operation auf einmal Erfolg haben könnte. Und dann müssen Taten folgen. Revolutionäre auf der ganzen Welt haben in der Regel irgendeine Art von Plan. Meistens Ideale, aber die wären gut für die Zeit für 10 Jahre nach der Revolution. Die Natur der Sache des Aufstandes macht es leider so das es sich um eine ziemlich verlustreiche Angelegenheit handelt, selbst wenn man initial die richtigen Leute hat. Am Ende wenn dann Tag X kam und ging sind die meistens nicht mehr in voller Stärke da. Alternativ hat man vorher seine Kräfte ins Ausland abgesetzt die man dann einfliegt wenn es soweit ist. Aber da stellt sich dann ein wenig die Frage was sie dann für die Revolution getan haben..und die Mannstärke muss man auch erstmal haben. Was ich sagen will, ohne eine solide Regierung nach dem Systemwechsel sieht es düster aus. Wie schön das man im Imperium der Menschheit auf vertraute Größen zurückgreifen kann, das organisierte Verbrechen!
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 26.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf
+  12:11 Dialoge 
+  16:25 Erkundung
+  18:33 Dialoge
+  24:15 Inventarmanagement
+  ```
+##### #220
+
+* Titel: `Rogue Trader - 220 - Schiff: der geschätzte Ahnenherr [DLC3] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Das quasi alles im Imperium irgendwie eine Erbfolge hat ist eigentlich ganz süß, es kommt nur hier und dort mit ein paar Nachteilen. Zum Beispiel wenn die buckelige Verwandtschaft ein wenig zu motiviert ist. Wir als von Valancius haben da direkt Glück. Theodora war selbst anscheinend nicht so motiviert direkte Nachkommen zu haben und die die sie dann gefunden hatte haben sich dann auch noch halbiert, der einzig andere mögliche Thronfolger scheint genetisch sowieso nicht rein genug zu sein, insofern droht uns kaum die Gefahr das uns jemand den Thron streitig macht. Dachten wir zumindest! Und dann retten wir unseren geschätzten Ahnherren der vielleicht nicht direkt seine Macht wieder haben will, sagt er zumindest, aber seine Taten lassen andere Motive erkennen. Und so haben wir auf einmal einen Herrschaftsanspruch von innen, einen den wir auch noch selbst provoziert haben. Und schlimmer noch, dieses absurde Adelssystem und der feste Glaube der Leute daran wird uns hier noch zum Strick..weil die Leute dem System treu sind, nicht uns als Person.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 28.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  0:57 Dialoge
+  13:13 Raumerkundungen
+  19:41 Dialoge
+  30:59 Abmoderation
+  ```
+##### #221
+
+* Titel: `Rogue Trader - 221 - Porto Septentum & Prozedur 0-C [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind wieder im Zeitalter der multiplen Quests pro Episode. Inhaltlich habe ich jetzt relativ wenig zu sagen, aber es ist so das ich eigentlich schon versuche in einer Episode möglichst zusammenhängend Dinge zu tun. Das gelingt manchmal, manchmal auch nicht. Deswegen variiert die Länge einer Episode auch wenn ich glaube das ich noch etwas schaffe aber die nächste Folge auf jeden Fall nicht mehr von dem Ding gefühlt werden kann. Dann unterscheide ich auch gerne zwischen Spiele die mehr so in 20 Minuten Häppchen geschehen und andere in 30 Minuten. Die meisten Spiele diese Tage scheinen mir absichtlich oder unabsichtlich auf 30 Minuten ausgelegt zu sein. Und dann gibt es aber immer wieder Dinge die eher so ein kleines 10 Minuten Ding sind aber weil ich zu dem Thema so viel zu sagen habe dauert es dann eher 15, das ist aber immer noch zu wenig für eine Folge.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 30.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  8:15 Raumschlacht
+  16:15 Dialoge
+  ```
+##### #222
+
+* Titel: `Rogue Trader - 222 - Schiff: Leeren-Schatten [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Größe und die Menge an Personal die in einem durchschnittlichen Raumschiff des Imperiums involviert ist ist einfach gigantisch und etwas das mir sehr schwer fällt sich überhaupt vorstellen. Vor Allem ist es aber ein Projekt das sehr viele sich bewegende Teile hat, und das macht mir ehrlich gesagt ein wenig Angst. Es gibt Statistiken darüber wie viele Menschen es maximal in einem Projekt geben darf damit dieses geheim bleibt. Das sind nicht viele. Und wenn es um Verrat geht sind die Zahlen bestimmt ein wenig besser und an sich kann man die Leute ja wesentlich besser überwachen, insbesondere weil "Landgänge" von einem Raumschiff doch eher ungewöhnlich sind. Das normale Personal verlässt das Schiff einfach nie wenn ich das so recht verstanden haben. Und doch braucht es nur einen einzigen Genestealer in den Reihen neuer Soldaten und schon gibt es echte Probleme. Generationen später. Und das ist mit der Menge an Leuten echt nur eine Frage der Zeit. Insbesondere wenn der geistige Widerstand des durchschnittlichen Terraners echt überschaubar ist.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 30.07.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  7:03 Dialoge
+  10:05 Erkundungen
+  21:32 Kampf
+  ```
+##### #223
+
+* Titel: `Rogue Trader - 223 - Schiff: ungeplanter Ketzeraufstand [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bilde mir ein das ich trotz aller Nachlässigkeiten und Nachsicht für den einfachen Mann durchaus eine kurz durch geplantes Schiff führe und das die Dinge schon nach einem strikten Faden genäht sind. Oder anders, in vielleicht existierenden Ausdrucksweisen formulierten Worten, der Laden läuft. Größtenteils, meistens. Hoffe ich. Das Einzige was mich aus dem Takt bringen könnte wären irgendwelche ungeplannten Dinge wie Warpaktivitäten, Raumereignisse oder aber auch, spontane Ketzeraufstände. Sich da nicht rechtzeitig bei mir oder zumindest den Enforcern zu melden und außerordentlich gemein. Die Jungs und Mädels in Blau müssen jetzt Überstunden schieben anstatt das sie vorher einfach ihre Dienstpläne hätten anpassen können.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  4:10 Level-Up
+  10:24 Dialoge
+  21:32 Andere Dialoge
+  ```
+##### #224
+
+* Titel: `Rogue Trader - 224 - Schiff: Trolleyprolem [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Titel ist wie immer ein schlechter Versuch irgendwie das Engagement hoch zu bekommen. Aber dafür bewerbe ich wohl einfach zu wenig nackte Haut, aber wenn ich mir richtig Mühe gebe kann ich manchmal vielleicht tatsächlich einen interessanten Gedanken wecken. Wie dem aber auch sei, wir widmen uns heute einer moralischen Entscheidung die im Zusammenhang mit 40K nicht wirklich eine moralische Entscheidung ist. Die Frage besteht darin ob wir 10 Enforcer opfern oder lieber uns die Mühe machen mehre sehr sehr starke Kelemorphs händisch niederschießen. Komplett unabhängig davon das die Hälfte der betroffenen Leute nicht einmal wirklich im Gleisbett stehen und im ersten Zug der Gegner eh gestorben sind. Unsere ach so moralische Entscheidung war also eher geringerer Natur, immerhin haben wir aber erfahren das die kleine Lovestory im Hintergrund wohl einfach nicht geschehen ist.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 02.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erklärungen
+  3:51 Kampf
+  ```
+##### #225
+
+* Titel: `Rogue Trader - 225 - Schiff: die Ernterin [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Die Genestealer heißen so weil sie Gene stehlen. Ich bin da jetzt nicht so firm in der Lore und habe daher nicht so den richtigen Überblick wie das genau abläuft, aber mir fällt immer wieder bei so 40K Dingen auf das die Referenz erstaunlich oft auch einfach das Spiel Rogue Trader ist oder das Sachen halt echt einfach nicht so tief erwähnt werden. Was das Stehlen der Gene angeht ist das aber wirklich ein Ding, nur das da bei normalen Menschen nicht so viel zu holen ist. Allerdings könnte man wohl gute Gewinne schlagen wenn beispielsweise einen Astartes oder sogar noch besser einen Custodes ran kriegen würden. Da hätten dann selbst die Tyranniden noch echtes Interesse. Generell und überhaupt macht das wohl den ganzen Schwarm so gefährlich, er adaptiert. Auf der anderen Seite kommt auch viel Stärke der Völker daher das sie Technik, Kultur und Verständnis haben, und das kann man zumindest nicht direkt stehlen. Aber wohl mit einer guten Untergrundinvasion zersetzen. Das finde ich übrigens ganz dolle schlimm, bei aller dystopischen Übergrifflichkeit die das Imperium so an den Tag bringt, es hat ja auch irgendwie recht. Fremdes Gedankengut mit freiheitlichen Idee? Super Idee bis das Chaos kommt was ungefähr nach fünf Minuten freien Denken der Fall ist. Aufstände gegen die Adeligen anzetteln die es völlig übertreiben in ihrem Exzess? Sicherlich gerechtfertigt..aber eventuell ist man auch einfach das U-Boot von Tyraniden Untergrund Agenten. Und die meisten normalen Leute wissen nicht einmal das diese existieren.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 03.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  2:30 Dialoge 
+  6:07 Kampf
+  22:04 Dialoge
+  ```
+##### #226
+
+* Titel: `Rogue Trader - 226 - Schiff: der Schöpfer [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich ist es eine extrem gute Nachricht wenn es nur einen einzelnen Punkt gibt den man angreifen muss damit ein ganzes Gebilde fällt. Andererseits ist ein kompetenter Herrscher quasi niemals in die Finger zu bekommen. Insbesondere wenn es sich um Aliens handelt die ein wenig anders kommunizieren als es Menschen tun. Die Art und Weise wie das Flüstern durch die Sterne geht scheint mir eine wesentlich stabilere Taktik zu sein als dieses ganze rumgeeiere mit dem astrophatischen Chor. Ich frage mich übrigens ob die Inquisition einfach das Flaggschiff derer von Valancius abgeschossen hätte wenn sie gewusst hätte das sich an Bord der Ursprung eines ganzen Genestealer Clans befunden hätte. Wir begegnen heute auf jedem Fall dem Ursprung des gesamten Übels, und ich frage mich wirklich wie ein Run aussieht wenn man einen Haudrauf ohne Willenskraft spielt. Es scheint quasi ein Dauerbrenner zu sein den diversen Versuchungen des Warps, Xenos und sonstiger Beeinflussung zu widerstehen. Ich glaube nicht das Freihändler mit niedriger Willenskraft es lange machen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 03.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  4:34 Kampf
+  28:57 Dialoge
+  ```
+##### #227
+
+* Titel: `Rogue Trader - 227 - Jae: Jae's Anspruch [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  So wir sind dann auch fertig mit diesen ganzen Alien Zeug, Zeit das wir uns wieder den etwas weltlicheren Dingen zu wenden. Beispielsweise dem Handel mit Xeno Gütern und wie ich davon profitieren kann das ich quasi eine Kalthändlerin als Partnerin habe. Aber zu erst müssen wir wohl ihren Machtanspruch ein wenig festigen. Das Problem geht wohl damit los das niemand ein Monolith ist. Die Freihändlerin und ihre Handelsbrief wissen das natürlich am Besten. Würden nicht Millionen von Leute glauben das ein Stück Papier mit einem Tropfen Blut eine Person soviel besser macht als alle Anderen würde das System nicht funktionieren. Bei Kalthändlern ist das ein wenig anders. Ihre Reputation ist etwas das wahrscheinlich jedes Mal aufs Neue geprüft wird aber dennoch ist es hoch relevant das ein Kalthändler genau weiß auf wem sie sich verlassen kann und auf wem nicht. Dafür braucht es eine zuverlässige Crew, umso schlimmer wenn man mal eine solche hatte und die dann Schaden genommen hat..oder direkt Leute einbüßte.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 05.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Plündern & Level Up
+  7:37 Abmoderation DLC1
+  11:20 Dialoge
+  ```
+##### #228
+
+* Titel: `Rogue Trader - 228 - Cassia: Der Preis der Macht [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eine relativ häufige Trophe in alles Magie ist das es schon seit ewiger Zeit Macht durch Magie gibt und das man selbst jediglich die alten Riten noch einmal nach vollzieht um die Kraft von damals zu ernten ohne das man die eigentlich Arbeit selber machen muss. Die Arbeit sind beispielsweise Menschenopfern von mehren tausend Leuten, so etwas braucht eine dezidierte Priesterkaste und einen guten moralischen Kompass der einen das Durchbringen von ein paar tausend Seelen vereinfacht. Das kann nicht jeder. Aber wenn das dann einmal gemacht ist dann hat man die Macht. Oder wenn man irgendwelche natürlichen Energien langsam Stück für Stück auffängt, sowas dauert. Nicht alle Leute haben soviel Geduld. Viel einfacher ist es doch die Macht der Urahnen zu nutzen um die eigenen Rituale vorran zu bringen. Oder wenn das nichts taugt, nimmt man die Urahnen von jemand anders. Irgendjemand wird da schon ein wenig Macht gesammelt haben.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  ```
+##### #229
+
+* Titel: `Rogue Trader - 229 - Cassia: Hexenwelt [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man glaubt es gar nicht aber ich freue mich jedes Mal aufs Neue wenn mir ein neues Stück Lore offenbart wird von dem ich vorher nicht einmal wusste das es existiert. Heute zum Beispiel das Konzept "Hexenwelt". Anscheinend ist das ein Ding aber ich habe einfach nichts davon gehört. Und heute landen wir dann direkt auf einer solchen. Ich finde es übrigens immer wieder ein wenig unfair ganze Welten gleich wegen einem Feature zu verurteilen. Die Existenz von Dschungelwelten ist außerordentlich unwahrscheinlich. Wüsten und Eisplaneten nehme ich ja hin, aber alles Andere klappt allein von den Klimazonen einfach nicht. Alles in Schutt und Asche geht, aber Bäume überall braucht schon ein sehr fein austariertes Eingreifen damit das irgendwie klappt. Und eine Welt mit irgendwelchen ketzerischen Artefakten scheint mir auch nicht so einfach reduzierbar zu sein, auch wenn das Chaos oft diese Eigenschaft hat ganze Welten einzunehmen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkunden
+  7:23 Dialoge
+  22:15 Erkunden
+  26:20 Dialoge
+  ```
+##### #230
+
+* Titel: `Rogue Trader - 230 - Kibellah: Leid des Zweifels [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Diese ganzen Begleitermissionen kommen ein wenig in Wellen. Eben noch haben wir uns um Cassias Glück und dem des Hauses Orsellio gekümmert, im nächsten Moment sind wir dann auch schon bei Kibellah. Gewissermaßen haben wir ja bereits neulich einen Teil ihres DLCs gelöst als wir endlich das Symbiotenkult Ding gelöst haben, das kam ja quasi zusammen mit dem Blutgesponnenden Netz dazu. Aber so nützlich das Netz da auch war, jetzt geht es langsam ans Ende seiner Nützlichkeit. Generell und Überhaupt halte ich ja nicht viel von Todeskultisten, wer hätte das auch gedacht. Das sind halt Fanatiker und damit auch für mich ziemlich gefährlich. Klar, heute dienen sie mir noch, aber was wenn sie morgen entscheiden das ich nicht mehr genügend vom Imperator beschienen bin oder aus irgendeinem, nicht transparenten Grund ihre Gunst verloren habe? Dann stehe ich da, und ich würde nur sehr ungern dastehen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  4:00 Raumerkundung
+  9:00 Dialoge
+  24:00 Level Up und Equipment Bonanza
+  ```
+##### #231
+
+* Titel: `Rogue Trader - 231 - Kibellah: Tod, nur zu Besuch [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der Tod und das blutgesponnende Netz haben ein ziemlich inniges Verhältnis. Manche Mitglieder überschreiten die Schwelle des Todes sogar mehrfach, auch wenn man wohl argumentieren kann das sie nicht wirklich sterben und der Sache nur ziemlich nahe kommen. Wie dem aber auch sei, heute erleben wir mal wieder ein paar außer körperliche Erfahrungen. In der 40K Welt sind außer körperliche Erfahrungen aber eigentlich nichts das was man machen möchte. Eine Seele in einer fleischlichen Hülle ist zumindest rudimentär geschützt. Sterben ist bei Weitem nicht das Schlimmste das einen passieren kann. Aber ein projizierter Geister kann leicht abhanden gehen und sich an ungewollte Orte niederlassen. Und wenn man da nicht aufpasst oder sehr sehr mächtig ist kann das natürlich sehr schief gehen. Unser Charakter ist Psioniker, das ist wahrscheinlich auch nicht unbedingt zuträglich wenn man Astralreisen unternimmt. Auch wenn ich immer noch nicht weiß ob das Psyker sein jetzt am Körper oder an der Seele hängt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 08.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Buch Geschichten
+  16:07 Dialoge
+  19:50 andere Dialoge
+  ```
+##### #232
+
+* Titel: `Rogue Trader - 232 - Kibellah: Naaki Eribis [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe immer ein wenig Schwierigkeiten damit mich selbst zu loben oder zu sagen das ich etwas habe kommen sehen. Zum Beispiel wenn eine Story zu verläuft wie die die wir heute hier sehen. Ich habe da immer die paranoide Angst das irgendjemand sagt "kann ja gar nicht sein, weil du dumm bist", oder gleich anfängt mich wie die Inquisition zu verhören. Neulich hat mich jemand gefragt warum ich so müde bin und die Antwort war das ich ein neues Buch angefangen habe und bis um 2 Uhr nachts gelesen habe. Ich war schon drauf und dran zu erklären was das für ein Buch ist und wie ich da ran kommen, aber zu meiner Überraschung kam da keine Nachfolgefrage. Und so ist es wohl auch bei diesen Sachen. Als wir dann also heute der Identität von Naaki Eribis hinter jagen war es irgendwie fast klar in welche Richtung die Geschichte geht. Ich will nicht sagen das ich es sofort gewusst habe aber irgendwie war das auch absehbar. Und das ist ein weiterer Offtopic Punkt, es ist nicht vollkommen schlecht wenn Geschichten vorhersehbar sind. Gewissermaßen ist das ja auch eine Belohnung für den Leser wenn die vorher gegebenen Informationen reichen um eine mögliche Folge zu schlussfolgern.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 08.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  3:55 Dialoge
+  ```
+##### #233
+
+* Titel: `Rogue Trader - 233 - Kibellah: Thronfolge [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hab ich schon erwähnt das ich Fanatiker nicht so leiden kann? Ja? Na gut, dann habe ich gar nicht mehr so viel zu sagen. Diese Episode ist quasi ein einziger Kampf der sich als überraschend knackig herausstellt. Wir können also hier abbiegen und darüber reden das es extrem schwierig ist so offene Spiele wie Rogue Trader zu balancen. Wenn wir das Pen and Paper spielen würden dann hätten wir hier jemanden im Hintergrund der das Loot genau im Blick hätte und wüsste welchen Schabernack die Spieler treiben. Mein Unsinn mit den extra Zügen ist ja garantiert nichts Neues und ich bin mir ziemlich sicher das auch andere Leute gesehen haben das man Kritische Angriffe mit Scharfschützen stapeln kann. Eine Fähigkeit die die nächsten zwei Züge gültig ist könnte quasi auch für immer gelten. So viele Extraangriffe wie ich mache ist alles was länger dauert schlecht für mich. Heute laufe ich ein wenig in ein Problem das daher resultiert das die Entwickler sich gedacht haben das die größtenteils nahkämpfenden Assassinen quasi komplett immun gegen Fernkampfwaffen sind. Und besser ausweichen je weniger Lebenspunkte sie haben. Wir können die Leute also nicht einfach so weg critten. Schade. Daher dauert das heute länger. Eventuell hätte es ein paar innovative Taktiken mit schwachen Fernkampfwaffen gegeben, aber dafür habe ich die falschen Leute bei.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 10.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf, bis zum Ende
+  ```
+##### #234
+
+* Titel: `Rogue Trader - 234 - Kibellah: der todlose Imperator [DLC1] [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Bei allen Konflikten die wir bisher so hatten sind wir doch ganz schön auf dem Teppich geblieben. Die Freihändlerin hat zwar unfassbare Mittel, Rechte auf die Milliarden von Leuten nicht hoffen können und einen Einfluss den sonst nur ganze Institutionen haben, von allen Sterblichen sind Freihändler vielleicht dem Titel Imperator am Nächsten. Wenn es da nicht schon jemanden mit dem Titel geben würde der diesen Namen wesentlich mehr verdient. Und doch sind wir nur ein Mensch. Natürlich gibt es das Adeptus Mechanicus Zugriff auf die feinsten Implantate, aber realistisch gesehen sind wir immer noch durch unsere eigene Sterblichkeit beschränkt. Und natürlich unseren Körper. Ein Freihändler ist kein Primarch, Custodes oder Astartes. Eine einzige Bolterladung kann sein Leben beenden wie auch ein Laserschuss. Daher kämpfen wir eher selten gegen riesige Chaosdämonen oder andere massive Bedrohungen. Und wenn doch, dann nur von Bord unseres Schiffes aus. Die heutige Bedrohung ist also etwas sehr Neues, und ich weiß nicht wie der Kampf laufen würde wenn Kibellah nicht quasi 99% aller Angriffe ausweichen könnte.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 10.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf
+  11:30 Dialoge
+  ```
+##### #235
+
+* Titel: `Rogue Trader - 235 - Nolla Septum: Santiel's Stolz [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Nachdem wir in der letzten Episode in den Tiefen der Mysterien des imperialen Glaubens abgestiegen sind machen wir heute dann mit einen paar mundanen Dingen weiter. Wir bereisen das Universum und finden Planeten auf denen die Dinge nicht so gut gelaufen sind. In der Regel hat man es hier mit Außenposten oder kleineren Bergbauoperationen zu tun. Das ganze imperiale Hive-Welten betroffen sind sehen wir eher selten. Aber wie es der Zufall will finden wir heute einen Ort dem eine Sonne fehlt. Das ist ein echtes Problem. Ohne Sonne hat man so als Planet kein Gravitationszentrum, eine wichtige Energiequelle muss man ebenso ersetzen und generell und überhaupt scheint mir das keine gute Aussicht zu sein. Allerdings frage ich mich wie viel eine Weltraumzivilisation wirklich eine Sonne braucht. Die Kernreaktoren die das Imperium definitiv einsetzt sollten eigentlich die Energie gut ersetzen, mal davon abgesehen das ich selten Solarzellen in 40K sehe und die größeren Städte gefühlt eh 95% unterirdisch sind. Klar, die Temperaturen fallen bestimmt ein wenig, aber wenn große Teile einer Stadt eh aus bunkerartigen Gängen bestehen, fällt das Fehlen einer Sonne überhaupt so doll auf?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Level-Up
+  5:30 Raumerkundung
+  9:30 Dialoge
+  12:00 Planetenerkundung
+  ```
+##### #236
+
+* Titel: `Rogue Trader - 236 - Nolla Septum: Medusen [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich ärgere mich immer noch sehr das ich diese spezielle Mission bzw. Welt einfach komplett gegen den Baum gefahren habe. Eigentlich hätte man hier noch ein wenig etwas entdecken können, aber weil ich erst einmal alle anderen Orte entdecken wollte habe ich es wohl zu gelassen das jemand gestorben ist der mir eventuell hätte Antworten geben können und jetzt habe ich hier einfach nur eine tote, kalte Spur die mich nirgendwohin führt. Ein kleiner Trost ist es wohl das wir die Bewohner der Imperiums auf Santiels Stolz ein wenig rächen konnten, aber das bringt die Toten und ihre Geschichte auch nicht zurück. Wir haben ein paar Notizen gefunden die eine kleine Story erzählen und ich mag sowas. In meiner Fantasie leben dann die Leute für einen kurzen Moment. Am Ende haben sie doch ein eher unschönes Schicksal erlebt, aber für einen kurzen Moment gab es sie. Die Medusen sind übrigens auch ein Konzept das wir absolut nicht richtig erkundet haben weil ich einfach zu doof bin. Ärgert mich ebenso.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 19.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Herumirren
+  ```
+##### #237
+
+* Titel: `Rogue Trader - 237 - Fragment der heiligen Welt [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Ort der sich Fragment _der__ heiligen Welt nennt ist auch irgendwie lustig. Welche heilige Welt, gibt es hier eine genaue Referenz zu dem was gemeint ist oder gehen einfach nur alle davon aus das man schon weiß welche Welt hier gemeint ist und ich einfach nur der Banause bin der über das notwendige Wissen das ansonsten jeder Bürger im Imperium hat einfach nicht verfügt. Wie dem aber auch sei, was wir auch finden ist eine Menge Truppen des Chaos. In letzter Zeit habe ich angefangen das Spiel von einer mechanischen Sicht zu analysieren. Wie eine Sandbox wenn man so will. Welche Modells und Orte für das Narrativ genutzt werden und welche anderen Orte einfach nur wiederholte Templates sind. Und ich muss sagen, von den immer gleichen Unterdeck Missionen einmal abgesehen ist Rogue Trader erstaunlich divers. Wir haben teilweise Planeten gesehen die nie wieder so vorgekommen sind. Bestimmte Tilesets sind quasi einzigartig und selbst irgendwelche zufälligen Begegnungen enthalten Gegner die wir dann so nie wieder gesehen haben. Oder vielleicht kommt die noch, aber ich finde diese Menge an Commitment schon lobenswert. Zu doof das es kein Sandbox/Missions Editor gibt in denen Spieler das Spiel erweitern könnten unter Benutzung der vorhandenen Assets.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 21.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raumschlacht
+  5:15 Warpreisen und Ereignisse
+  13:30 Kampf
+  ```
+##### #238
+
+* Titel: `Rogue Trader - 238 - Agathus Archiedes: Fireborn [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind immer noch auf unserer Raumerkundungstour. Nicht weil das so unbedingt notwendig ist sondern weil die Freihändlerin neugierig ist und immer auf neue Profite aus ist. Wenn man sich die reinen Statistiken anschaut müsste man eigentlich wesentlich konservativer Mit Warpreisen sein. Jeder Warpsprung kostet uns in der Regel eine Menge von Menschen. Bei einem Schiff unserer Größe haben wir quasi bei jedem Sprung irgendwelche Vorfälle und die Kosten einer Raumreise sind nicht nur in Promethium sondern vor allem auch in Menschenleben. Andererseits ist es das 41te Jahrtausend und in dieser dunklen Zukunft zählt das einzelne Leben quasi gar nichts mehr. Bei all unserer Philosophie und dem Ikonoklastischen Vorgehen müssten wir uns wohl wirklich fragen ob wir den Job eigentlich mit guten Gewissen so weitermachen können. Insbesondere reine Vergnügungsreisen wie die die wir heute machen stehen eigentlich moralisch völlig außer Frage. Oder die gesamte Existenz des Imperiums. Ohne die Menschen wäre die Galaxie vielleicht nicht sofort ein befriedeter Ort, aber die schiere Anzahl an Seelen die ins Chaos übergehen wäre auf jeden Fall kleiner. Und das könnte etwas Gutes sein denke ich.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Plündern
+  4:00 Raumkämpfe
+  9:34 Raumreisen
+  24:00 Textadeventure
+  ```
+##### #239
+
+* Titel: `Rogue Trader - 239 - Herrscher von Idex [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir waren neulich auf einen Planeten der sich Idex genannt hat. Die Veteranen unter den Zuschauern erinnern sich vielleicht noch an die Mittelalterwelt die wir bereist haben. Bis jetzt war das sogar die Einzige dieser Art die wir besucht haben. Wie es das Leben damals so wollte sind wir dann Opfer von irgendwelchen Warpritualen geworden, haben kurzzeitig unseren Körper verloren und haben dann am Ende einen Hofnarren erschossen. Dieser stellte sich dann als der eigentliche Gouverneur des Planeten heraus. Das war ein wenig tragisch weil wir den Typen der uns eigentlich als Gouverneur vorgestellt wurde erschossen haben. Oder er wurde zerfleischt von wilden Bestien, ich erinnere mich ehrlich gesagt nicht mehr. Der Fake-Gouverneuer hatte auf jeden Fall eine Schwester die jetzt unser Kaffeeautomat in unseren Quartieren ist, aber so oft besuchen wir sie nicht. Ich habe ehrlich gesagt keine Ahnung was die gute Frau den ganzen Tag macht. Zurück zum Hofnarren, der kam von einem Planeten namens Idex. Den besuchen wir heute, zumindest vom Orbit aus. Der Planet hat wohl irgendwelche Regierungsprobleme, aber solange es nicht das Chaos ist und der Zehnt fließt spielt das eigentlich kaum eine Rolle. Dennoch habe ich gewisse Ressentiments gegen die herrschende Kaste von Idex. Und so passieren heute Dinge.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 22.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Raumerkundungen
+  11:20 Raumschlacht
+  18:00 Raumerkundungen
+  21:30 Kampf
+  ```
+##### #240
+
+* Titel: `Rogue Trader - 240 - Gartrafals Unheil [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich finde einige der Orte die wir bereisen haben einen viel zu dramatischen Namen dafür das da eigentlich überhaupt nichts los ist. So zum Beispiel auch Gatrafals Urteil. Weil so wie es aussieht wissen wir in der Regel zwar wie ein System heißt aber nicht welche Planeten es da drin gibt und generell und überhaupt scheint es nicht wirklich einen automatischen Abgleich von imperialen Datenbanken zu geben. Wenn man bedenkt das jede Reise mit Blut bezahlt wird könnte man auch meinen das der Wille doppelte Erkundungen zu sparen ein wenig höher ist. Aber scheinbar ist das nur meine Meinung und die wir ja eh im Imperium eher selten geteilt. Was übrigens auch nicht angehängt ist an so einem Systemnamen ist der Grund warum es so heißt. Bei manchen Namen kann man sich schnell was ausdenken oder vielleicht sogar deduzieren, aber bei vielen anderen Orten sehe ich nur Fragezeichen. Das nervt ein wenig.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 24.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  13:20 Lvl Up Erklärung
+  13:50 Raumerkundungen
+  16:40 Raumschlacht
+  ```
+##### #241
+
+* Titel: `Rogue Trader - 241 - Heinrix: Phton IV [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Weltraumerkundung ist für den Moment erst einmal vorbei, wir machen weiter mit unseren Begleitern, von denen haben wir ja noch einige die unserer Aufmerksamkeit bedürfen. Ganz vorne ist Heinrix, der hat uns schon ewig darum gebeten das wir uns mal ganz dringend um eine Notfallnachricht von einer seiner anderen Kollegen kümmern. Bisher konnten wir das ganz gut ignorieren, größtenteils weil in Rogue Trader die Dinge nie so dringend sind wie sie aussehen. Es sei den es sind Quests mit dem Arbitatoren, dann sind Dinge auf einmal wirklich dringend und haben echte Konsequenzen wenn wir sie ignorieren. Um den Gedanken noch kurz weiter zu verfolgen, wenn man Quests wirklich verpassen kann erzeugt das eine ganz schöne Menge Stress, weil auf einmal ist es nicht mehr die Welt zu erkunden und dann die Aufgabe zu erfüllen sondern entweder die Welt zu erkunden oder die große Aufgabe zu erfüllen. Und das läuft dann darauf hinaus das der bösen Dämonenlord wohl leider gewinnt weil ich neue Arten von Elfenvölker aufstöbere. Zurück zum Thema, ich weiß nicht warum das Imperium sich nicht wenigstens ein wenig bemüht die Lebensbedingungen zu verbessern, aber scheinbar scheint das einfach keine Priorität zu haben. Und damit stehen wir jetzt hier und entdecken ein paar letzte Überlebende.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 24.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundungen
+  3:41 Dialoge
+  10:00 Kampf
+  ```
+##### #242
+
+* Titel: `Rogue Trader - 242 - Kieva Gamma: Null Caliph [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich betrachte mich selbst als eher moderater Nerd, aber was ich auch habe, quasi das beschreibende Element der ganzen Bubble, ich habe eine Pen & Paper Runde. Ich führe die selber nicht an, auch wenn ein Kumpel meint das es sehr belohnend sei selber DM zu sein, ich persönliche fühle mich nicht bereit. Das System was ich aktuell spiele ist ein komplettes Homebrew, das bringt einige Probleme mit sich, zum Beispiel das ich die Welt nicht kenne oder anders gesagt, niemand kennt die Welt. Das führt oft dazu das man wirklich wenig Schlussfolgerungen ziehen kann, einfach weil es nicht einen ganzen Hort an Büchern über die Welt gibt die man kennen könnte. Es hat natürlich auch den Vorteil das man nicht in duplizierten Content läuft und quasi alles was man trifft wird schon irgendwie Kanon sein. In 40K kenne ich mich mittlerweile so semi aus, hier und da gibt es ein paar obskure Lore Geschichten die mir wirklich gar nichts sagen. Und dann gibt es auch so Dinge über die ich echt nichts sagen kann, beispielsweise was die Computer des Mechanicus jetzt können und was nicht. Und so kann ich zu der heutigen Geschichte quasi nichts sagen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 25.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  7:00 Dialoge 
+  14:23 Kolonieverwaltung
+  ```
+##### #243
+
+* Titel: `Rogue Trader - 243 - Foulstone: Reine Stimme [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Religion war schon immer ein Vehikel um Ideologie an den Mann und die Frau und insbesondere an die Kinder zu kriegen, ganz besonders an die Kinder. Als Teil einer Philosophie die dafür gemacht ist andere Glaubensrichtungen und Auffassungen zu überschreiben ist sie ein wertvolles Werkzeug in den Händen der Mächtigen. Daraus ergibt sich auch eine gewisse Meta-Macht für die Kirche selbst und nicht selten läuft es am Ende darauf hinaus das die Kirche selbst eine großzügige Menge an weltlichen Einfluss hat obwohl sie ja eigentlich immer noch im Fachwerk der mundanen Gesellschaft existieren. Ist die Bevölkerung erst einmal ausreichend durch indoktriniert kann man sich den weit verbreiteten Glauben natürlich auch zu Nutze machen. Ich sehe zum Beispiel immer wieder mit Erstauen wie in der Esoterik Bubble scheinbar richtig viel Geld zu machen ist. Man müsste nur sein gesamtes Gewissen ablegen und schon könnte man damit anfangen irgendwelche Kupferplatten für horrende Preise an scheinbar viel zu reiche Leute abzudrücken. Im konkreten Beispiel glaube ich einen Scharlatan gefunden zu haben der sich zu nutze machen möchte das das Imperium voller Leute ist die an Heilige und Visionen glauben. Hauptproblem ist das das ganze System so ineinander verzahnt ist das man nie sagen kann ob es sich um eine normale Funktion handelt oder um einen Scammer der eine schnelle Mark machen will. In diesem Fall spielt es aber auch keine Rolle, mit ein paar Glaubenswächter sitzt der Scammer entweder fest oder ein wahrer Gläubiger erfüllt gewissenhaft seine Mission. Für uns ist das Ergebnis gleich.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 28.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Verwaltung
+  3:40 Raumerkundungen
+  11:31 Kolonieverwaltung Foulstone
+  25:10 Raumerkundungen
+  29:22 Raumschlachten
+  38:17 Abmoderation
+  ?:?? Piraten
+  ```
+##### #244
+
+* Titel: `Rogue Trader - 244 - Oasis V: Alter Bunker [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Eigentlich befinden wir uns jetzt schon auf dem guten Weg in die Hauptquest nur um dann drei Meter vorher abgelenkt zu werden weil wir eine Welt und einen Bunker finden. An sich ist es übrigens ein bisschen seltsam das wir den Bunker überhaupt finden, man würde ja erwarten das eine solche Untergrundanlage auch vor Sensoren versteckt ist, schon weil ich mir ziemlich sicher bin das Bunker-Buster ein Ding im Imperium sind. Was wir vorfinden sind wohl die letzten Reste einer großen Zivilisation die technisch ein wenig zurückgefallen ist. Mir ist übrigens nicht ganz klar auf welchen technologischen Niveau wir hier waren. Die Anlage selber sieht aus wie einfach jeder Bunker den das Imperium auch gebaut hätte, allerdings sprechen die Texte von einer Waffe die sich ein wenig wie eine Atombombe anhört, aber vielleicht war es auch etwas wesentlich Größeres. Was wir aber auch erfahren ist das der Konflikt von den Sternen angefacht wurde. Winterzunder hat scheinbar beide Seiten unterstützt und was wir vorfinden ist wohl eine Tragödie zweier Fraktionen. Ich bin mir ziemlich sicher das der Freihändler den Konflikt ohne Probleme hätte beilegen können. Stattdessen wurden beide Seiten mit Vorräten und Waffen ausgestattet. Warum? Insgesamt kriege ich von dem Bunker übrigens starke Fallout 1 und 2 vibes, wegen der Perspektive und alles. Da werde ich direkt nostalgisch.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 29.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  9:15 Erkunden
+  26:47 Raumerkundungen
+  ```
+##### #245
+
+* Titel: `Rogue Trader - 245 - die Wälder von Quetza Temer [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Geschichten die in der Moderne, noch schlimmer, im Sci-Fi Zeitalter spielen haben oft das Problem das man nur schwer eine klassische Horrorsitation haben kann. Bzw. auf fremde Planeten verloren sein ist ja quasi schon ein sehr guter Anfang, aber wenn das Flaggschiff eines ganzen Sternenkönigreichs (und das ist jeder Freihändler) im Orbit abhängt, dann ist es nur schwer zu diskutieren das man wirklich verloren ist. Horrorfilme funktionieren auch einfach besser wenn es die 80er Jahre sind und niemand ein Handy besitzt um sofort die Cops anzurufen. Die Welt wird einfach kleiner durch die Vernetzung. Dann muss man Szenarios konstruieren wie elektromagnetische Interferenzen oder Orte die so weit weg sind das die herkömmliche Elektronik es nicht mehr tut. Das Alles hat aber den Nachteil das man sich dadurch einschränkt. Die Wahl der Situation ist einfach nicht mehr so frei. Die Wälder die wir heute durchschreiten sind quasi ein eben solches Szenario. Wie genau das übrigens am Ende funktioniert das die Wälder uns nicht so richtig durchlassen wird dann auch nicht wirklich erklärt. Das nervt mich schon ein wenig.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 30.08.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Warpereignisse
+  4:10 Landung
+  6:11 Erkunden
+  9:30 Kampf
+  14:34 Erkunden
+  19:48 Dialoge
+  25:10 Erkunden
+  20:00 ?? Dialoge
+  ```
+##### #246
+
+* Titel: `Rogue Trader - 246 - Quetza Temer: Dorf [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Menschen sind extrem resilent. Zumindest wenn es nur darum geht die nächste Generation zu gebären und irgendwie weiter zu machen. Das Leben jener in Mangelsituationen ist nicht schön und nicht viele werden überleben. Die Bilder von halbverhungerten Kindern in Afrika kennt man wahrscheinlich, Nahrung ist selten ein Problem. Widrige Umstände wie schlechtes Klima haben auch selten eine Zivilisation aufgehalten, bzw. die die davon aufgehalten wurden sind dann halt verschwunden. Es gibt da ein paar Geschichten von den ersten Siedlern in Amerika die offensichtlich nicht so gut darauf vorbereitet waren in der neuen Welt sich nieder zu schlagen. Sci-Fi gibt uns hier ganz neuen Zugriff auf andere Horrorgeschichten. Zum Beispiel durch das Besiedeln von Welten die von Anfang an enorm lebensfeindlich sind oder die überlebenden Überbleibsel auf einer Welt die einst eine große Fabrik war. Die letzten Reste der Menschheit die sich in dunklen Gängen von Pilzen und Schleim ernähren. Andererseits könnte das auch ein normaler Dienstag auf unserem Flaggschiff in den unteren Decks sein. Die Menschen auf Quetza Temer haben es dagegen fast noch gut. Die meisten Gefahren sind ziemlich natürlich und auch wenn der Dschungel vielleicht nicht die beste Umgebung ist, die größte Gefahr geht von Aliens aus die hoffentlich irgendwann einmal weg sind. Und so finden wir sie wieder, die letzten Reste einer einstigen Kolonie die sich in die Dschungel zurückgezogen haben.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 03.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Erkundung
+  17:22 Dialoge
+  ```
+##### #247
+
+* Titel: `Rogue Trader - 247 - Quetza Temer: Ritual der Einheit [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es fühlt sich immer mehr so als als ob alles was die Eldari so machen irgendwie Bullshit ist. Also, es funktioniert auch, irgendwie. Aber das liegt eventuell auch vielleicht daran das die Weltraumelfen wirklich alt sind und alle irgendwie in den Warp rein dippen. Aber halt nicht so richtig, und dann haben die da noch dieses Meditationsding wo sie ihre eigene innere Welt kultivieren und alles um sich herum vergessen. Bis irgendetwas passiert und dann ist alles ganz dolle schlimm. Generell und überhaupt scheint mir übrigens das Warhammer 40K Universum nicht besonders gut konstruiert für eine Rasse zu sein die kurzlebig und sehr sehr viele selbst denkende Mitglieder produziert zu sein. Alle Anderen sind entweder irgendwelche Schwarmwesen oder Kollektive wo das einzelne Individuum nicht so dolle wichtig ist oder aber Leute wo es vielleicht insgesamt auch nicht wenig Personal gibt, aber jede einzelne Person hat eine vernünftige Ausbildung und weiß über die Gefahren des Warps bescheid, und wichtiger noch, kann sich bis zu einem gewissen Grad dagegen wehren. Menschen hingegen sind ein wenig wie Kühe die die Apokalypse herbeibeschwören können wenn sie das falsche Gras essen oder einen Berg im falschen Winkel anschauen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 03.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  9:56 Andere Dialoge
+  ```
+##### #248
+
+* Titel: `Rogue Trader - 248 - Yrliet: zersplitterter Seelenstein [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Mir ist absolut nicht klar wie es jetzt genau mit der tieferen Lore ausschaut. Also was so die Hintergründe sind mit den Seelen. Offensichtlich haben die Menschen ja welche und ich weiß das in der Vergangenheit die Leute recycelt wurden, man stirbt, geht in das Meer der Seelen und dann geht es von dort aus weiter. Generell und überhaupt ist das ganze Konzept einer Seele ja eigentlich auch das es sich um den unsterblichen Teil einer Person handelt der bleibt wenn die sterblichen Hülle ihren Geist aufgibt. Wieviel Erinnerung und Persönlichkeit diese Seele dann tatsächlich tragen kann unterscheidet sich dann von Geschichte zu Geschichte. Da wo man Astralreisen kann darf man wohl davon ausgehen das die Seele einfach eine Kopie der gesamten Person ist, oder anders, der Ursprung. Das Ganze fällt ein wenig auseinander wenn man sich anschaut wie Erinnerungen funktionieren und so weiter. In 40K ist es jetzt aber so das die Seelen definitiv von irgendwelchen Viechern im Immaterium verschlungen werden. Es sei den man tut vorher etwas. Zum Beispiel wenn man einen Seelenstein wie die Eldari hat der dann von ihren Gefolgesleuten dazu genutzt werden kann die Gefallenen zurück zu führen. Eine wichtige Frage bleibt für mich aber ungeklärt: Wo kommen die Seelen ursprünglich her? Und bleibt irgendetwas wenn sie verschlungen werden?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 04.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Yrliet Dinge
+  1:39 Dialoge
+  13:40 Schiff
+  8:15 Erkundungen
+  17:17 Level-Up
+  20:20 Erkundungen
+  ```
+##### #249
+
+* Titel: `Rogue Trader - 249 - Idira: die Tür [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir erinnern uns das Idira ein minimales Problem damit hat das sie die Zukunft sieht. Oder zumindest den schlechten Teil der Zukunft. Quasi einen winzigen Spalt von dem was kommt. Hier kommt auch sofort wieder eine Mechanikfrage auf, woher genau weiß das Flüstern im Warp eigentlich was die Zukunft bringt. Wir wissen das die meisten Warpwesen eher nicht in der Lage sind die materielle Welt zu verstehen oder überhaupt richtig zu erfassen. Nur im Materium zu exisitieren bereitet ihnen Schmerzen, und während es ziemlich üblich ist das Warpwesen sich den Geist von Psionikern zu nutze machen um in den Realraum einzudringen, so sind solche Manifestationen letztendlich doch recht kurzlebig. Es ist ja nicht so das sie anfangen ein Haus am Strand zu bauen und einen feste Arbeitsstelle im Realraum annehmen. Die Expeditionen sind eher reichlich ungelenkt, hoch destruktiv und vor allem kurzlebig. Was genau sind dann also diese Stimmen die anscheinend doch so viel wissen. Vielleicht sind es aber auch einfach nur Echos. Oder die Interpolation von dem was sein kann. Es gibt da verschiedene Modelle die ich mir spontan vorstellen kann. So oder so, heute suchen wir die magische Tür von der Idira geträumt hat, die die vielleicht zu ihrer Erlösung führen kann.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  0:57 Kampf
+  6:50 Erkunden
+  10:37 Idira: Dialoge
+  22:40 Kampf
+  ```
+##### #250
+
+* Titel: `Rogue Trader - 250 - Quetza Temer: Labor des Haemunculus [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe irgendwie nichts mehr übrig das ich über den Meister des Fleisches sagen kann. Als wir uns in seinen Griffen in der Welt der Drukhari befanden habe ich ja bereits schon einige Worte über seine Existenz verloren. Man könnte vielleicht noch hinzufügen das er nicht so erfolgreich ist, zumindest das kann man kaum weg diskutieren, weil er so grausam ist, sondern trotz der Grausamkeit. Es gibt historische Beispiele dafür das unmoralische Experimente eventuell schnellere Ergebnisse bringen, aber ein methodischer, und humanerer Ansatz in der Regel wesentlich sauberer ist. Insbesondere wenn der Sadismus der ausführenden Person im Namen der Wissenschaft eine federführende Rolle im Versuchsaufbau hat. Wenn eines der Forschungsziele ist möglichst viele Schmerzen zu verursachen ist das als Foltermeister sicherlich recht gewinnbringend, bringt die Forschung an anderen Fronten aber nur minimal weiter. Immerhin, und das jetzt eher schlecht für seine Opfer, haben die Drukhari immerhin einen praktischen Grund Schmerzen zu verursachen. Die Forschung hier ist also nicht verschwendet..das ist bestimmt für die Opfer tröstend.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 06.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  4:30 Erkunden
+  7:00 Dialoge
+  11:00 Kampf
+  19:50 Erkunden
+  28:55 Dialoge
+  ```
+##### #251
+
+* Titel: `Rogue Trader - 251 - Quetza Temer: Jagtrevier, der Spur folgen [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Es ist eigentlich ziemlich egal was man verfolgt, Jagt auf irgendwelche denkenden und fühlenden Wesen zu machen erscheint mir immer irgendwie unsportlich. Der gute Herr Winterzunder scheint genau so ein Typ zu sein. Was wir so über ihn erfahren haben war es wohl nicht immer so und es stellt sich auch ein wenig die Frage wie es überhaupt so weit kommen konnte. Andererseits haben wir beispielsweise den Adel auf Janus gesehen und mir scheint das die höher gestellten Gestalten in der imperialen Gesellschaft sich irgendwie mehr langweilen als gut ist. In anderen Zivilisationen scheint man sich auf Meditation zu verstehen oder irgendwelchen produktiven Dingen nach zu gehen während der menschliche Adel in irgendwelche kruden Spiele verliert und damit gibt man dann den Kräften des Chaos natürlich einen Freibrief zu agieren. Ob das jetzt wirklich das ist was geschehen ist ist noch ein wenig unklar, aber ich komme nicht umhin eine gewisse Selbstschuld bei den Adeligen dieser Galaxie zu sehen.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 07.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  2:20 Dialoge
+  9:20 Kopflos umherlaufen
+  18:12 Raumerkundungen
+  22:36 Raumschlacht
+  27:00 Rumklicken und nichts tun, die Folge ist hier quasi vorbei
+  ```
+##### #252
+
+* Titel: `Rogue Trader - 252 - Depotwelt Leethus [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Vor langer Zeit habe ich einmal ein Spiel gespielt das sich Deponia genannt hat. Das Ganze war ein Point and Click Adventure und in seiner gesamten Machart eigentlich gar nicht schlecht. Der einzige Nachteil war das Ende wie ich finde, sei es vom dritten Teil oder vom nicht so stabilen vierten Doomsday Nachfolger. Insgesamt hat die Story mich einfach sehr enttäuscht. Ich weiß auch nicht was ich von den Entwicklern erwartet habe die Harveys neue Augen und Edna bricht aus gemacht haben. Vielleicht ist es dieser Gegensatz von Humor der in jeder Szene spielt gemischt mit den dann doch so ernsten Themen grade gegen Ende. Deponia spielt mehr auf einem Müllplaneten á la Deponie und weniger auf einen Lagerplaneten á la Indiana Jones und die Bundeslade. Aber, ein Planet der über und über voll mit Waren und Kisten beladen ist könnte quasi genauso gut auch Deponia sein, und wenn man ein wenig weiter schaut dann gibt es noch ein paar andere Gemeinsamkeiten. Heute kommen wir erst langsam in Fahrt, deswegen sehen wir noch nicht so viel von Leethus, aber es gibt wohl ein paar Geheimnisse zu entdecken.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 10.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Kampf
+  5:50 Dialoge
+  21:30 Erkundungen
+  ```
+##### #253
+
+* Titel: `Rogue Trader - 253 - Leethus: Stiefkinder des Imperiums [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich bin ein wenig stolz auf mich das ich direkt daran gedacht habe das der Zehnt ja nicht nur Material ist sondern auch das es immer Personal gibt das für die ständigen und dauerhaften Kriege des Imperiums requiriert wird. Ich weiß übrigens auch nicht ob es überhaupt eine Hoffnung gibt den Krieg zu überleben. Die Dienst als Zehnt abzuschließen oder ob es wirklich eine Sache gibt die man bis zum Ende durch zieht und dann gibt es ein kaltes Grab. Oder Warmes wenn man in der Wüste stirbt. Sicher ist wohl das man nicht mehr auf seinen Ursprungsplaneten zurückkehrt. Aber eventuell kann man sich auch einfach der Hoffnung hingeben das einen das Imperium auf irgendeinem Wachposten vergisst und man die nächsten 200 Jahre in relativer Ruhe seinen Lebensabend verfristet bis irgendeiner Administration wieder einfällt das man noch lebt, bis dahin ist das Problem das der Enkel geworden die dann wohl wieder auf einen ruhigen Wachposten hoffen müssen. Ich gehe ja nicht davon aus man wenn man einmal als Zehnt deklariert wird davon wieder weg kommt. Das alles gesagt, jetzt sind wir hier in einer Situation in der der Zehnt quasi vergessen wurde. Was machen die Leute dann? Anscheinend Panzerfahren, wo auch immer der eine her kommt? Hat irgendein Gouverneur in seiner Verzweiflung ein Museumsstück abgegeben oder gibt es in der Koronus Ausdehnung doch einen Produktionsstandort für die Dinger?
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 10.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Dialoge
+  9:20  Kampf
+  ```
+##### #254
+
+* Titel: `Rogue Trader - 254 - Leethus: Außenposten T-M/255 [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Immer wenn ich Rogue Trader spiele habe ich ein wenig das Gefühl das das Gefühl der schieren Größe von Allem verloren geht. Wenn die Freihändlerin irgendwo landet dann tut sie das natürlich an einem Point of Interest. Nicht irgendwo. Die Gesalbte des Imperators lässt sich nicht darauf hinab an irgendwelchen Nebenschauplätze aktiv zu werden, wo sie ist, da ist die Bühne. Aber dadurch übersieht man gerne was es wirklich bedeutet eine Makropole zu betreten. In Darktide sieht man es zumindest am Rande, die Bedingungen unter denen die Leute leben, die gewaltigen Türme und wie klein die Menschen in dieser Maschine sind. Wenn wir uns im Orbit aufhalten sehen wir es natürlich auch, die gewaltigen Städte die selbst aus dem Orbit zu erkennen sind. Die schiere Masse des Leiber ist einfach unvorstellbar. Und jeder Einzelne von Ihnen ist ein möglicher Angriffspunkt für Ketzer, Kräfte des Warps oder Agenten des Feindes, beispielsweise Tyraniden. All das gesagt, heute sind wir auf einer Depotwelt auf der wir anscheinend bis zum Horizont nur Kisten finden die mit irgendwelchen Abgaben der vielen Welten gefüllt sind. Die Masse hier ist auch nicht so wirklich absehbar. Ich würde behaupten das wir hier alleine ein Spiel haben könnten. Nur mit der Kultur der Depotwelt. Stattdessen besuchen wir einen einsamen Außenposten namens T-M/255, der Name impliziert die Existenz weiterer Posten.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 11.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung & Erkunden
+  7:20 Dialoge
+  17:20 Erkundungen
+  26:06 Dialoge
+  ```
+##### #255
+
+* Titel: `Rogue Trader - 255 - Leethus: Ampullenmutter [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich freue mich ja jedes Mal wenn ich einen neuen Gegner sehe. Heute zum Beispiel die Ampullenmutter die scheinbar eine Art Echse ist die sich irgendwie auf den Zehnt spezialisiert hat. Ich frage mich übrigens wirklich wie das Imperium mit den vielen Bedrohungen der Galaxie klar kommt. Mir scheint es immer wieder so als würden zahllose einfache Arbeiter, Soldaten und Experten sterben bis irgendjemand eine ordentlich Widerstand organisiert. Die große Stärke von Menschen ist es ja das sie planen können und als Gruppe agieren. Das hat bei Urzeitmenschen auf jeden Fall hervorragend funktioniert, aber bei Allem was klüger als ein Säbelzahntiger ist scheint mir die Menschheit eher unvorbereitet zu sein. Selbst wenn der Gegner keine eigene Agenda hat und einfach nur eingeschickter Jäger ist scheinen mir die normalen imperialen Menschen absolut überfordert zu sein. Es gibt ja Eliten in den Rängen der Menschen, aber die sind wirklich selten und bis hier mal jemand ein Problem sieht dauert es schon auffällig lange. Worauf ich hinaus will, es ist mir ein absolutes Rätsel wie sich die Menschheit überhaupt verbreitet. Aber vielleicht sind die Sendboten des Imperators mit den Astartes und Freihändlern kompetent genug um statistisch das Überleben von genügend Kolonien zu garantieren.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 13.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  3:08 Kampf
+  18:54 Dialoge
+  ```
+##### #256
+
+* Titel: `Rogue Trader - 256 - Leethus: Darius der Wächter [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein großes Problem in eigentlich allen Adelsfolgen ist die Anwesenheit von Geschwisterkindern. Je nachdem wie gut die Eltern drauf sind wird idealerweise nicht der Erstgeborene befördert, aber in Abwesenheit einer führenden Hand und vor allem Kindern die sich dieser Hand auch unterwerfen kann es schnell problematisch werden. Zum Beispiel wenn sich eines der Nachkommen als außerordentlich intrigant und willens die Macht zu übernehmen herausstellt. Die Fähigkeit die Macht zu erlangen beinhaltet ärgerlicherweise auch nicht gut mit einem Reich umzugehen. Wir haben schon gesehen das Theodora nicht die idealste aller Freihändler war, aber wahrscheinlich auch bei Weitem nicht schlecht. Wenn man jetzt aber einen Kampf um die Krone hat dann gibt es auch Verlierer. Das ist insofern extra spannend weil es sich ja um Geschwister handelt die höchstwahrscheinlich gemeinsam aufgewachsen sind, da hat das Alles noch eine wesentlich persönlichere Note. Nicht das das historisch jemand aufgehalten hat. Der deutsche Kaiser und der König von England waren zwischenzeitlich mal Cousins und am Ende hat das gar nichts geändert. Vielleicht aber auch weil in diesen Konflikten beide nicht so richtig persönlich beteiligt waren. Wenn man seine Schwester aus Machtgründen umbringt ist man in der Regel ein wenig näher dran. Was auch dazu führt das man in greifbarer Nähe ist wenn der Plan fehlschlägt.
+  
+  Offline Aufnahme weil ein Kind zu haben sehr Zeit frisst
+  Aufnahme vom 14.09.2026
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wOLutvyiLs6xpntxRyyO2PX
+  
+  0:00 Einführung
+  3:40 Dialoge
+  17:00 Raumschlacht
+  ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### #Nummer
 
 * Titel: ``

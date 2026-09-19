@@ -495,3 +495,163 @@ Playlist:
   Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
   Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
   ```
+
+##### #68
+
+* Titel: `Clair Obscure: Expedition 33 - #68 - Monolith: Wasser & Heiligtum  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich brauche zwar eine Minute aber dann fällt mir auch auf das wir quasi die Revival Tour machen. Im ersten Moment sieht es halt einfach nur so ein wenig idylisch aus wie es auch halt am Anfang war, und wenn man keinen Kontext hat dann fällt nicht weiter großartig etwas auf. Aber wenn man dann weiterschaut und man den nächsten Ort betritt der auch Teil unserer Reise war wird es langsam mysteriös. Ich kann noch nicht so genau sagen was hier jetzt die Implikationen sind. Entweder ist der Weg den wir beschritten haben genau so vorgesehen gewesen, also das in jeder macht der bei der Malerin vorbei kommt. Oder aber das unsere eigenen Gedanken das Innere des Monolithen beeinflussen. Das wiederum würde aber auch bedeuten das all unsere Geheimnisse und Wissen offen liegen, oder wir von Anfang an sehr genau beobachtet wurden. Zweiteres ist nicht so unwahrscheinlich da wir definitiv nicht über die Fähigkeiten verfügen Spionen zu entdecken. Darin vermischt finden wir aber dann auch noch Erinnerungen der Malerin, oder von irgendjemanden. Die Identität der großeren Zeichnerin von Zahlen ist immer noch unklar. Vielleicht besteht gar kein direkter Zusammenhang.
+  
+  Aufnahme von 21.05.2026, Sitzung Sitzung 13
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #69
+
+* Titel: `Clair Obscure: Expedition 33 - #69 - Monolith: Klippen  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich hatte es vor einiger Zeit schon in der Beschreibung der Basaltklippen Episode geschrieben, aber die Klippen waren ein sehr wichtiger Moment für die Reise unserer Helden. Der Moment in dem sich soviel gedreht hat, als wir Gustav verloren haben und Verso kennen gelernt. Soviel Trauer und Verlust auf einmal, und doch haben wir weiter gemacht. Aus diesem Grund dauert unser Aufenthalt hier auch ein wenig länger. Ich weiß übrigens immer noch nicht so recht was ich von den Clair und Obscures halten soll. An sich sind das auch nur Gegner die jeweils die eine oder die andere Seite des Lichts darstellen. Licht und Schatten, fundamental unterschiedlich. Mittlerweile wissen wir aber auch das es neben den vier Elementen und den beiden Schattierungen auch noch Leere gibt, da fragt man sich ob es dazu auch eine Entsprechung gibt oder ob Leere einfach die Null ist, das Gegenteil von allem Anderen. Bis jetzt sind wir nichts begegnet das gegen Leere immun ist, außer vielleicht die Malerin, aber das haben wir nicht getestet weil ich die falschen Leute in die Schlacht geführt habe. Aber ich bin mir sicher wir werden das noch erfahren. Generell fühlt sich die Existenz von Leerenschaden auf der neuen Waffe von Maelle wie ein Blick in die Zukunft an. Ein Ausblick auf das was kommen könnte oder vielleicht sogar wird.
+  
+  Aufnahme von 21.05.2026, Sitzung Sitzung 13
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #70
+
+* Titel: `Clair Obscure: Expedition 33 - #70 - Monolith: Schlachtfeld & Herz  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Der heutige Titel ist ein wenig zu abgekürzt. Theoretisch lässt mir Youtube 100 Zeichen aber ich verwende ja schon ein paar für die quasi immer gleichen Informationen die meine Titel sehr technisch erscheinen lassen. Aber ich hoffe immer noch das ich es damit irgendjemanden einfach mache. Wie dem aber auch sei, mit "Herz" ist übrigens das gefrorene Herz gemeint, ein Ort den wir immer noch nicht richtig betreten haben. Ich war bereits da und habe quasi schon alles geplündert was es zu plündern gab weil die Abstände zwischen den Gegnern so groß war das das Durchlaufen mir sehr leicht viel. Zurück zum Monolithen. Wir sind hier und da und in dieser verdrehten Realität sieht alles ein wenig anders aus als der Ort den wir vorher betraten. Ich frage mich übrigens mittlerweile ob die ganze Welt nicht einfach unecht ist und das was wir im Inneren des Monolithen sehen ist in Wirklichkeit das was wirklich ist, quasi wie ein kleiner Speicher und die Außenwelt wurde dann nach dem modelliert was wir hier sehen. Quasi wie eine Skizze die dann in Groß gemalt wird. Alternativ dachten sich die Entwickler einfach das sie hier easy die gleichen Assets noch einmal nutzen können.
+  
+  Aufnahme von 21.05.2026, Sitzung Sitzung 13
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #71
+
+* Titel: `Clair Obscure: Expedition 33 - #71 - Monolith: Lumière  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir nähern uns dem Ende. Zumindest glaube ich das von ganzen Herzen. Die Tatsache das wir nach Lumière gekommen sind, die Stadt in der unsere Reise begonnen hat und dann noch einmal Alt-Lumière, der Art der quasi unser letzter Halt war spricht doch sehr dafür das es sich um einen zentralen Ort handelt der für die Geschichte wichtig ist. Außerdem erschien die Malerin in den Flashbacks auch jemand zu sein der durchaus in der Gesellschaft der alten Realität gelebt hat. Wie das alles jetzt funktioniert, was genau Pictos, die Farben, das Chroma und eigentlich generell alles ist vermag ich immer noch nicht zu sagen. Klar ist das das Spiel ein großes Malerei-Thema hat, aber wo das genau herkommt oder in welcher Tiefe es geht vermag ich hier wirklich nicht aus der Hüfte zu sagen. Fest steht aber, Lumière ist wichtig, auch wenn ich es ohne Akzent schreibe.
+  
+  Aufnahme von 03.06.2026, Sitzung Sitzung 14
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #72
+
+* Titel: `Clair Obscure: Expedition 33 - #72 - Monolith: Turmspitze  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Und da sind wir schon wieder dabei eine Turmspitze zu erklimmen. Das ist echt ein enorm sich wiederholenden Thema. Vor nicht einmal zwanzig Minuten habe ich die Beschreibung für ein Spiel namens Rougue Trader geschrieben in der ich ebenfalls einen Turm erklommen habe um meinem Ziel näher zu kommen. Und jetzt sind wir hier und machen genau das Gleiche. Es bleibt unklar was genau der Monolith eigentlich genau ist, aber andere Expeditionen waren auf jeden Fall hier, mindestens Expedition 70 die uns all diese praktischen Kletterhilfen gebaut haben. Scheinbar sind sie sehr langsam vor ran gegangen und haben quasi bis zum letzten Tag vor ihrer Gommage gearbeitet um dann doch noch in der letzten Sekunde eines gemeinsamen Todes zu sterben. Der Aufstieg und ihre Mühen sind aber nicht umsonst, jetzt, knapp 40 Jahre später sind wir hier und sind bereit der Malerin zu trotzen. Bevor das allerdings passieren kann muss noch eine andere letzte Bedrohung beseitigt werden. Jemand der uns von Anfang an im Wege stand und an dem wir uns jetzt endlich rächen können. Auch wenn ich glaube das dieses Gefühl der Rache letztendlich auch hohl ist.
+  
+  Aufnahme von 03.06.2026, Sitzung Sitzung 14
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #73
+
+* Titel: `Clair Obscure: Expedition 33 - #73 - Monolith-Gipfel  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ein Monolith ist ein großer Steinklotz der einzeln steht. So zumindest die Definition in meinem Kopf die ich mir so ausgemacht habe. Das Ding das wir heute und in den letzten Episode erklommen haben ist offenbar ein wenig mehr als nur ein großer Brocken Fels. Von den Ausmaßen her könnte man wohl eher von einem Berg sprechen der irgendwie teilweise künstlichen Ursprungs ist. In der seltsam verdrehten Welt in der wir uns befinden scheint alles ein wenig durcheinander zu sein und ich vermag wirklich nicht zu sagen was wahr und was falsch ist. Klar ist das wir uns hier dem großen Bosskampf widmen, aber davon einmal abgesehen ist es wirklich völlig unklar ob wir überhaupt für die gerechte Sache kämpfen. Aus den Visionen ist die Idee erwachsen das die Malerin eventuell vielleicht gar nicht direkt für die Gommage verantwortlich ist, aber was genau jetzt Phase ist kann man wirklich schwer sagen. Uns fehlen einfach Informationen und wichtiger noch, die Zeit diese Informationen sorgfältig zu bergen. Vielleicht wäre das auch nie möglich gewesen. Eine gute Quelle für Wissen wäre wahrscheinlich der Typ der seit der ersten Expedition dabei ist, aber der hat leider von selbst nicht angefangen uns zu erzählen was er weiß. Ein Mann mit vielen Geheimnissen..viele Geheimnisse die uns wohl alle verdammen werden.
+  
+  Aufnahme von 03.06.2026, Sitzung Sitzung 14
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #74
+
+* Titel: `Clair Obscure: Expedition 33 - #74 - Monolithjahr 49  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Hey, es wird verwirrend. Also nicht wirklich. Eigentlich passiert sogar das Gegenteil. Wir erhalten endlich Aufklärung wie die Dinge geschehen sind die geschehen sind. Es macht aber die ganze Realität die wir kennen ein wenig anders. Es ist wirklich seltsam. Weil an sich ist das Leiden, die Bemühungen und all das was die Leute noch so ausmacht nicht ungeschehen. Alles was wir bisher erlebt haben ist ja wirklich geschehen. Die Menschen die wir gesehen haben haben erschaffen, gelebt, geatmet und geliebt. All das war echt. Jede Emotion ist tatsächlich so entstanden und wurde erlebt. Nichts davon ist eine Emotion und es gibt immer noch eine Seele in der Welt. Irgendwie. Es handelt sich halt bloß nicht um das was wir dachten was es ist. Und wichtiger noch, das worauf es basiert existiert wirklich. Was genau jetzt der Bruch war kann man jetzt noch nicht ganz sagen, aber klar ist das die Welt da draußen immer noch magisch ist, nur ein wenig anders als wir das ursprünglich annahmen. Jetzt stellt sich nur noch die Frage ob es irgendwie möglich ist für ein Bild aus zu brechen?
+  
+  Aufnahme von 30.06.2026, Sitzung Sitzung 15
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #75
+
+* Titel: `Clair Obscure: Expedition 33 - #75 - Malerkunst  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich ziehe hier mal einen ganz großen Bogen. Etwas zu Erschaffen ist ein sehr befriedigendes Gefühl. So sehr das es genügend Leute gibt die Abkürzungen nehmen wollen. Ich habe persönlich kein echtes Talent für Zeichnen, Musik oder Bildhauerei. Ich weiß das die meisten dieser Dinge nicht unbedingt Talent sondern vor Allem Hingabe und Zeit braucht. Die perfekte Linie zieht sich nicht von alleine sondern wird durch ständige Versuche, Fehlversuche und Ausprobieren erlernt. Sicherlich kann Talent hier helfen, wenn man den Einstieg halbwegs problemlos hin bekommt kann man sich so viel einfacher motivieren. Was ich aber kann ist Programmieren, das ist in der heutigen Zeit nicht mehr so unendlich wichtig werden jetzt einige Stimmen behaupten. Ob das stimmt weiß ich nicht. Aber eine Sache die Prompt-Engineers nicht haben die ich für mich beanspruche ist das Gefühl etwas erschaffen zu haben. Das rohe Gefühl die Hände in den Stoff der Realität getaucht zu haben und am Ende etwas geformt zu haben was sich daraus ergibt. In der Praxis ist das dann meistens irgendein Skript mit einem drauf genagelten Front-End das etwas macht was ich in meiner Nische brauche. Und doch, ein tiefes Gefühl etwas erschaffen zu haben, man könnte fast von stolz reden. Ich vermute das das Gefühl sehr ähnlich ist wenn man mit der Hand und einem Stift ein Bild erschafft. Aber wie großartig muss dieses Gefühl sein wenn man sich in einer Welt befindet die magisch ist und der Pinsel nicht nur Farbe sondern Realität malt?
+  
+  Aufnahme von 30.06.2026, Sitzung Sitzung 15
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #76
+
+* Titel: `Clair Obscure: Expedition 33 - #76 - die beste Expedition der Geschichte  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Ich habe ein Problem mit meinem Kopf. Der lehnt superlative extrem schnell und durchgängig ab. Ich habe generell ein Problem damit wenn Leute angeben. Mit ihren Fähigkeiten, ihrer Abstammung und eigentlich allem. Es erscheint mir so unlogisch, entweder man ist wirklich die beste Person in einer bestimmten Kategorie und es gibt eigentlich keinen Grund der Welt diesen Umstand mit zu teilen weil der Sachverhalt halt evident ist, oder aber die Person lügt, ist ein Aufschneider und möchte sich nur wichtig machen.
+  
+  In einer ähnliche Weise finde ich es fast schon kleinkindlich wenn Leute sagen "das ist das beste Team", oder Ähnliches was etwas aus der jetzigen Zeit beschreibt. Qualitative Abstufungen ergeben sich aus der Perspektive der Historie, nicht aus dem hier und jetzt. Und doch, Expedition 33 ist wahrscheinlich die beste Expedition jemals, schon deswegen weil wir es bis zum Monolithen geschafft haben und wir Dinge erreicht haben die niemand vor uns hin bekam. Das kann uns keiner nach machen.
+  
+  Aufnahme von 30.06.2026, Sitzung Sitzung 15
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #78
+
+* Titel: `Clair Obscure: Expedition 33 - #78 - Insel der Augen  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man sagt das Augen der Spiegel der Seele sind. Ich weiß nicht wer "man" hier ist, aber in die Augen einer lebenden Person zu schauen hat etwas Besonderes an sich. Das ist insbesondere dann auffällig wenn die Person in deren Augen man schaut vielleicht noch gar keine richtige Person ist, und man den Moment merkt an dem dieser Mensch mal mehr und mal weniger da ist. Bei Erwachsenen hat man das in der Regel nicht, die starren einen einfach nur. Ich mache das ganz gerne, den Leuten in die Augen schauen und darin zu versinken, auch wenn sich mir immer die Frage stellt auf welche Seite man jetzt genau schaut. Etwas weniger angenehm wird es aber wenn man auf einmal Augen woanders findet, also außerhalb von Körpern. Mechanische Augen in Form von Kameras machen nicht alle Menschen glücklich, heraus gezogene Augen die den Eindruck erwecken das sie eigentlich wo sein sollten sind da auch nicht viel besser. Oder sogar körperlose Auge die still beobachten. Die machen auch keinen Spaß.
+  
+  Aufnahme von 30.06.2026, Sitzung Sitzung 15
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+##### #77
+
+* Titel: `Clair Obscure: Expedition 33 - #77 - Landeort  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Wir sind dann an dem Punkt angekommen wo die Hauptquest eigentlich sofort will das wir uns zurück nach Lumiere begeben, aber das erscheint mir irgendwie so unlogisch. Wir haben neue Fähigkeiten erhalten, warum sollten wir die nicht erst einmal einsetzten und ganz genau unsere Grenzen auslooten. Leider scheint mit das Spiel hier ein wenig wenig unsere Hand zu führen, weil letztendlich stolpere ich jetzt nur durch all diese Orte die jetzt erreichbar sind durch um dann zu sehen wo wir wirklich weiterkommen. Die meisten Bedrohungen stellen sich leider als unüberwindbar da und das ärgert mich, weil auch absolut nicht zu sehen ist wann wir dann tatsächlich eine Chance an diesen neuen Orten haben. Oder wie weit wir noch davon entfernt sind. Oder ist es vielleicht einfach ein Ding mit der Geschichte das uns fehlt? Ganz bestimmte Pigmente vielleicht?
+  
+  Aufnahme von 30.06.2026, Sitzung Sitzung 15
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
+
+##### #78
+
+* Titel: `Clair Obscure: Expedition 33 - #78 - Insel der Augen  [Let's Play, ger, blind]`
+
+* Beschreibung:
+
+  ```markdown
+  Man sagt das Augen der Spiegel der Seele sind. Ich weiß nicht wer "man" hier ist, aber in die Augen einer lebenden Person zu schauen hat etwas Besonderes an sich. Das ist insbesondere dann auffällig wenn die Person in deren Augen man schaut vielleicht noch gar keine richtige Person ist, und man den Moment merkt an dem dieser Mensch mal mehr und mal weniger da ist. Bei Erwachsenen hat man das in der Regel nicht, die starren einen einfach nur. Ich mache das ganz gerne, den Leuten in die Augen schauen und darin zu versinken, auch wenn sich mir immer die Frage stellt auf welche Seite man jetzt genau schaut. Etwas weniger angenehm wird es aber wenn man auf einmal Augen woanders findet, also außerhalb von Körpern. Mechanische Augen in Form von Kameras machen nicht alle Menschen glücklich, heraus gezogene Augen die den Eindruck erwecken das sie eigentlich wo sein sollten sind da auch nicht viel besser. Oder sogar körperlose Auge die still beobachten. Die machen auch keinen Spaß.
+  
+  Aufnahme von 30.06.2026, Sitzung Sitzung 15
+  Playlist: https://www.youtube.com/playlist?list=PLAFz5ZZJ21wPY4stTM_MPYE3aZ5iWKKa0
+  Stream auf https://twitch.tv/BurnoutDV aber zu absoluten Unzeiten
+  ```
